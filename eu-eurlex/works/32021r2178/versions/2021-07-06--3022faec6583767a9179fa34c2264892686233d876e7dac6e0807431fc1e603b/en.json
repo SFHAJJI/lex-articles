@@ -1,0 +1,213 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/2178 of 6\u00A0July 2021 supplementing Regulation (EU) 2020/852",
+  "valid_from": "2021-07-06",
+  "valid_to": "2021-12-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r2178/versions/2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b/en.xml",
+    "sha256": "bd0cbac8438eb0bdc0757958ba0f9c65fe9a3662f34a665ac35c6d712064ea7d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2178"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions apply:\n\n| (1) | ‘environmental objective’ means one of the environmental objectives laid down in Article 9 of Regulation (EU) 2020/852; |\n| --- | --- |\n\n| (2) | ‘Taxonomy-aligned economic activity’ means an economic activity that complies with the requirements laid down in Article 3 of Regulation (EU) 2020/852; |\n| --- | --- |\n\n| (3) | ‘transitional economic activity’ means an economic activity that complies with the requirements laid down in Article 10(2) of Regulation (EU) 2020/852; |\n| --- | --- |\n\n| (4) | ‘enabling economic activity’ means an economic activity that complies with the requirements laid down in Article 16 of Regulation (EU) 2020/852; |\n| --- | --- |\n\n| (5) | ‘taxonomy-eligible economic activity’ means an economic activity that is described in the delegated acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2), and Article 15(2), of Regulation (EU) 2020/852, irrespective of whether that economic activity meets any or all of the technical screening criteria laid down in those delegated acts; |\n| --- | --- |\n\n| (6) | ‘taxonomy-non-eligible economic activity’ means any economic activity that is not described in the delegated acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2), of Regulation (EU) 2020/852; |\n| --- | --- |\n\n| (7) | ‘asset manager’ meansan undertaking that is subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU and is either of the following:(a)an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the Council (4);(b)a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament and of the Council (5);(c)an investment company authorised in accordance with Articles 27, 28 and 29 of Directive 2009/65/EC and that has not designated for its management a management company authorised in accordance with Articles 6, 7 and 8 of that Directive. |\n| --- | --- |\n| (a) | an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the Council (4); |\n| (b) | a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament and of the Council (5); |\n| (c) | an investment company authorised in accordance with Articles 27, 28 and 29 of Directive 2009/65/EC and that has not designated for its management a management company authorised in accordance with Articles 6, 7 and 8 of that Directive. |\n\n| (8) | ‘financial undertaking’ means an undertaking that is subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU and is an asset manager, a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the Council (6), an investment firm as defined in Article 4(1), point (2), of Regulation (EU) No 575/2013, an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (7), or a reinsurance undertaking as defined in Article 13, point (4) of Directive 2009/138/EC; |\n| --- | --- |\n\n| (9) | ‘non-financial undertaking’ means an undertaking that is subject to the disclosure obligations laid down in Articles 19a and 29a of Directive 2013/34/EU and is not a financial undertaking as defined in point (8); |\n| --- | --- |\n\n| (10) | ‘taxonomy-aligned insurance or reinsurance activity’ means an insurance or reinsurance activity that complies with the criteria laid down in Sections 10.1 and 10.2 of Annex II to Delegated Regulation (EU) 2021/2139. |\n| --- | --- |",
+      "text_sha256": "f656e9bab09389947b516376b0379c9de3ba2ed21aff2b6c77fc429064b045c7",
+      "md_span": {
+        "start": 717,
+        "end": 4514
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2021443EN.01000901-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2021443EN.01000901-E0005",
+          "text": "(5)"
+        },
+        {
+          "href": "#ntr6-L_2021443EN.01000901-E0006",
+          "text": "(6)"
+        },
+        {
+          "href": "#ntr7-L_2021443EN.01000901-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Non-financial undertakings shall disclose the information referred to in Article 8, paragraphs 1 and 2, of Regulation (EU) 2020/852 as specified in Annex Ito this Regulation.\n\n2. The information referred to in paragraph 1 shall be presented in tabular form by using the templates set out in Annex II to this Regulation.",
+      "text_sha256": "10de42d65b15d5963e385b7554ba7ce91f9ac1085e2449bd0fa12fa417d96db6",
+      "md_span": {
+        "start": 4547,
+        "end": 4880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Asset managers shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in Annexes III and XI to this Regulation.\n\n2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex IV to this Regulation.",
+      "text_sha256": "703989bdf3f1ca455258b6387a07d4be6249df268277a810efb6118e340bd32e",
+      "md_span": {
+        "start": 4913,
+        "end": 5227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Credit institutions shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in Annexes V and XI to this Regulation.\n\n2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex VI to this Regulation.",
+      "text_sha256": "168f41946986d81921ce925bdc1057f6b233c6a1dd5a157ee328c6c33f16907e",
+      "md_span": {
+        "start": 5260,
+        "end": 5577
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Investment firms shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in Annexes VII and XI to this Regulation.\n\n2. The information referred to in paragraph 1 shall be presented in tabular form by using the template set out in Annex VIII to this Regulation.",
+      "text_sha256": "7561365aee4777d70f303fa067930e5775cec9a02fa6a895d14d91dd037d11d0",
+      "md_span": {
+        "start": 5610,
+        "end": 5928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Insurance and reinsurance shall disclose the information referred to in Article 8(1) of Regulation (EU) 2020/852 as specified in Annexes IX and XI to this Regulation.\n\n2. The information referred to in paragraph 1 shall be presented in tabular form by using the templates set out in Annex X to this Regulation.",
+      "text_sha256": "de535e372250f19830d50739ecd676263317f2f6109d4659d83b727156586582",
+      "md_span": {
+        "start": 5961,
+        "end": 6285
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The exposures to central governments, central banks and supranational issuers shall be excluded from the calculation of the numerator and denominator of key performance indicators of financial undertakings.\n\n2. Derivatives shall be excluded from the numerator of key performance indicators of financial undertakings.\n\n3. Exposures to undertakings that are not obliged to publish non-financial information pursuant to Article 19a or 29a of Directive 2013/34/EU shall be excluded from the numerator of key performance indicators of financial undertakings.\n\n4. Without prejudice to paragraph 1, environmentally sustainable bonds or debt securities with the purpose of financing specific identified activities that are issued by an investee undertaking shall be included in the numerator of key performance indicators up to the full value of Taxonomy-aligned economic activities that the proceeds of those bonds and debt securities finance, on the basis of information provided by the investee undertaking.\n\nExposures whose purpose is not to finance specific identified activities shall be included in the numerator weighted by the turnover KPI and CapEx KPI of the issuer in accordance with the methodology laid down in Annexes III, V, VII, and IX.\n\nWhere an investee undertaking has issued the environmentally sustainable bonds or debt securities with the purpose of financing specific identified activities, financial undertakings shall discount the KPI of the investee undertaking accordingly to avoid double counting.\n\n5. Where the technical screening criteria laid down in the delegated acts adopted pursuant to Articles 10(3), 11(3), 12(2), 13(2), 14(2) or 15(2) of Regulation (EU) 2020/852 are amended, special purpose loans and the instruments referred to paragraph 4 held by financial undertakings that finance Taxonomy aligned economic activities or assets shall in the absence of alignment of the financed economic activities or assets with the amended technical screening criteria be reported as such under this Regulation until five years after the date of application of the delegated acts that amend those technical screening criteria.\n\n6. Financial undertakings shall provide for a breakdown in the numerator where applicable and denominator of the key performance indicators for:\n\n| (a) | exposures to and investments in non-financial undertakings; |\n| --- | --- |\n\n| (b) | exposures to and investments in financial undertakings; |\n| --- | --- |\n\n| (c) | exposures to and investments in non-financial undertakings established in the Union that are not subject to an obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU; |\n| --- | --- |\n\n| (d) | exposures to and investments in financial undertakings established in the Union that are not subject to an obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU referred to in paragraph 2; |\n| --- | --- |\n\n| (e) | exposures to and investments in non-financial undertakings established in a third country that are not subject to an obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU; |\n| --- | --- |\n\n| (f) | exposures to and investments in financial undertakings referred established in a third country that are not subject to an obligation to publish a non-financial statement pursuant to Articles 19a and 29a of Directive 2013/34/EU; |\n| --- | --- |\n\n| (g) | exposures to and investments in derivatives; |\n| --- | --- |\n\n| (h) | other exposures and investments. |\n| --- | --- |\n\n7. Financial undertakings may use estimates for assessing the Taxonomy-alignment of their exposures to undertakings referred to in paragraph (6), points (e) and (f), where those financial undertakings are able to demonstrate compliance with all criteria of Article 3 of Regulation (EU) 2020/852, except with the criteria laid down in Article 3, point (b) of that Regulation.\n\nFinancial undertakings shall formalise, document and make public the methodology upon which such estimations are based, including the approach and research methodology, the main assumptions and precautionary principles used.\n\nFinancial undertakings shall disclose:\n\n| (a) | the proportion of Taxonomy-aligned exposures based on estimates separately from their key performance indicators disclosed pursuant to this Regulation; |\n| --- | --- |\n\n| (b) | the measures taken and the period of time necessary to demonstrate compliance with the criteria laid down in Article 3, point (b) of Regulation (EU) 2020/852. |\n| --- | --- |",
+      "text_sha256": "b0a06fdde19810573afd205d08f847649a9956fa26d4e5e9ecdbead8e379a3c3",
+      "md_span": {
+        "start": 6318,
+        "end": 10930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Financial undertakings and non-financial undertakings shall include all additional disclosures accompanying the key performance indicators laid down in Annexes I, III, V, VII, XI in the same parts of the non-financial statement that contains those indicators, or shall provide cross-references to the parts of the non-financial statements that contain those indicators.\n\n2. Information disclosed in accordance with this Regulation shall cover the annual reporting period from the previous calendar year of the date of disclosure.\n\n3. Financial undertakings and non-financial undertakings shall provide in the non-financial statement the key performance indicators covering the previous annual reporting period.\n\nFor the purposes of this paragraph, the first annual reporting period shall cover the year 2023.\n\n4. Financial undertakings and non-financial undertakings shall in their disclosures, use the same currency as in their financial statements.\n\nFinancial undertakings shall use the most recently available data and key performance indicators of their counterparties to calculate their own key performance indicators.\n\n5. The key performance indicators shall cover only the objectives of climate change mitigation and climate change adaptation until 12 months after the date of application of the delegated regulations that contain the technical screening criteria for the other environmental objectives and that have been adopted pursuant to Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of Regulation (EU) 2020/852.",
+      "text_sha256": "3c1ae7d1332c3c6a545e3dcfbcf9d3e0e950453c9ae264ce84f575da45b19d7c",
+      "md_span": {
+        "start": 10963,
+        "end": 12516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. By 30 June 2024, the Commission shall review the application of this Regulation. The Commission shall assess in particular the need for any further amendments with regard to the inclusion of:\n\n| (a) | exposures to central governments and central banks in the numerator and denominator of key performance indicators of financial undertakings; |\n| --- | --- |\n\n| (b) | exposures to undertakings that do not publish a non-financial statement pursuant to Articles 19a or 29a of Directive 2013/34/EU in the numerator of key performance indicators of financial undertakings. |\n| --- | --- |\n\n2. The review for SME exposures will be accompanied by an impact assessment assessing the administrative burden, access to finance and the potential impacts on SMEs of a possible extension to cover SMEs exposures that are not covered by this Delegated Regulation or provide such information voluntarily.\n\n3. The exposures to and investments in undertakings that do not publish non-financial information pursuant to Articles 19a and 29a of Directive 2013/34/EU and Article 8 of Regulation (EU) 2020/852, but that provide such equivalent information voluntarily, may be included in the numerators of key performance indicators of financial undertakings from 1 January 2025 subject to a positive assessment referred to in paragraph (2).",
+      "text_sha256": "e0c65583dae88517a920f203cb300af8391d212c6affe8b2c5111a80b75807a6",
+      "md_span": {
+        "start": 12549,
+        "end": 13882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32021r2178:2021-07-06--3022faec6583767a9179fa34c2264892686233d876e7dac6e0807431fc1e603b#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\n2. From 1 January 2022 until 31 December 2022, non-financial undertakings shall only disclose the proportion of Taxonomy-eligible and Taxonomy non-eligible economic activities in their total turnover, capital and operational expenditure and the qualitative information referred to in Section 1.2 of Annex I relevant for this disclosure.\n\n3. From 1 January 2022 until 31 December 2023, financial undertakings shall only disclose:\n\n| (a) | the proportion in their total assets of exposures to Taxonomy non-eligible and Taxonomy-eligible economic activities; |\n| --- | --- |\n\n| (b) | the proportion in their total assets of the exposures referred to in Article 7, paragraphs 1 and 2; |\n| --- | --- |\n\n| (c) | the proportion in their total assets of the exposures referred to in Article 7(3); |\n| --- | --- |\n\n| (d) | the qualitative information referred to in Annex XI. |\n| --- | --- |\n\nCredit institutions shall also disclose the proportion of their trading portfolio and on demand inter-bank loans in their total assets.\n\nInsurance and reinsurance undertakings shall also disclose the proportion of Taxonomy-eligible and Taxonomy non-eligible non-life insurance economic activities.\n\n4. The key performance indicators of non-financial undertakings, including any accompanying information to be disclosed pursuant to Annexes I and II to this Regulation, shall be disclosed from 1 January 2023.\n\n5. The key performance indicators of financial undertakings, including any accompanying information to be disclosed pursuant to Annexes III, V, VII, IX, XI to this Regulation, shall be disclosed from 1 January 2024.\n\nSections 1.2.3 and 1.2.4 of Annex V shall apply from 1 January 2026.",
+      "text_sha256": "845ba548ac74775cf0e6829674a62bfe060006b0d7a6a88775c16bd32095b980",
+      "md_span": {
+        "start": 13917,
+        "end": 15752
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

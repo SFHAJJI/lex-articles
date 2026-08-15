@@ -1,0 +1,364 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5",
+  "language": "fr",
+  "title": "Council Regulation (EEC) No 4056/86 of 22 December 1986 laying down detailed rules for the…",
+  "valid_from": "2004-05-01",
+  "valid_to": "2006-10-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31986r4056/versions/2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5/fr.html",
+    "sha256": "e2d7c4b49253c8aedcfe4f277bbb6ba699b3a510c4f8bbd89c7173eaf2f7147c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01986R4056-20040501"
+  },
+  "generator": {
+    "profile": "xhtml-eu-xlink-context/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "clanek_1",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_1",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 1",
+      "heading": "Obsah a oblast působnosti nařízení",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Toto nařízení stanoví prováděcí pravidla k článkům 85 a 86 Smlouvy v námořní dopravě.\n\n2. Vztahuje se pouze na mezinárodní námořní dopravu z jednoho nebo více přístavů Společenství nebo do nich, s vyloučením trampové dopravy.\n\n3. Pro účely tohoto nařízení se rozumí:\n\na) „trampovou dopravou“ doprava hromadného nebo samostatného zboží plavidly používanými jedním nebo více zasilateli na základě smlouvy o pronájmu uzavřené na cestu nebo na čas, nebo na základě jiné formy smlouvy o nepravidelné nebo neohlášené plavbě, přičemž sazby za přepravu jsou volně sjednávány případ od případu v souladu s podmínkami nabídky a poptávky;\n\nb) „liniovou konferencí“ skupina dvou nebo více lodních dopravců, která zajišťuje mezinárodní liniovou přepravu zboží na zvláštní trase nebo trasách v rámci stanovených zeměpisných hranic a která má dohodu nebo jiné uspořádání, v jehož rámci provozují dopravci na základě jednotných nebo společných dopravních sazeb a jakýchkoli jiných dohodnutých podmínek liniovou dopravu;\n\nc) „uživatelem“ podnik (například zasilatel, příjemce, odesílatel), který vstoupil nebo má v úmyslu vstoupit do smluvního nebo jiného vztahu týkajícího se přepravy zboží s konferencí nebo společností liniové dopravy, nebo jakékoli sdružení zasilatelů.",
+      "text_sha256": "9212a59066f71548d197847484fa9503b1df714df4edccbbefc3c05fe14ff401",
+      "md_span": {
+        "start": 786,
+        "end": 2045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_2",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_2",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 2",
+      "heading": "Technické dohody",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Zákaz stanovený v čl. 85 odst. 1 Smlouvy se nevztahuje na dohody, rozhodnutí a jednání ve vzájemné shodě, jejichž cílem a účinkem je výlučně dosažení technického zlepšení nebo technická spolupráce prostřednictvím:\n\na) zavedení nebo jednotného používání norem nebo typů pro plavidla a ostatní dopravní prostředky, vybavení, dodávky nebo zabudovaná zařízení;\n\nb) výměny nebo společného používání plavidel, prostoru na plavidlech nebo volných tras a ostatních dopravních prostředků, personálu, materiálů nebo zabudovaných zařízení za účelem provozování dopravy;\n\nc) organizace a provozování návazné nebo doplňkové námořní dopravy a stanovení nebo uplatňování celkových sazeb a podmínek pro tyto operace;\n\nd) koordinace jízdních řádů návazných tras,\n\ne) sdružování jednotlivých zásilek,\n\nf) vytvoření nebo uplatňování jednotných pravidel pro strukturu přepravních sazeb a podmínky pro jejich uplatňování.\n\n2. V případě potřeby předloží Komise Radě návrh na změnu seznamu uvedeného v odstavci 1.",
+      "text_sha256": "5eae1613d1921327eac19a10c6f41e2259ba40d17425b251eae111b3a393d3ab",
+      "md_span": {
+        "start": 2103,
+        "end": 3096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_3",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_3",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 3",
+      "heading": "Vynětí z dohod mezi dopravci o provozování liniové dopravy",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "Dohody, rozhodnutí a jednání ve vzájemné shodě všech nebo části členů jedné nebo více liniových konferencí jsou vyňaty ze zákazu podle čl. 85 odst. l Smlouvy, za podmínky stanovené v článku 4 tohoto nařízení, mají-li za cíl stanovení sazeb a podmínek přepravy a sledují jeden z těchto cílů:\n\na) koordinovat jízdní řády nebo časy odjezdů a příjezdů,\n\nb) stanovit frekvenci odjezdů a příjezdů,\n\nc) koordinovat nebo přidělovat odjezdy a příjezdy mezi členy konference,\n\nd) regulovat přepravní kapacitu nabízenou jednotlivými členy,\n\ne) přerozdělovat náklady nebo příjmy mezi členy.",
+      "text_sha256": "94651a6a9abca90a449a30e7adddff5fa73c4d9e5fab82e0b00b3ac9828e51db",
+      "md_span": {
+        "start": 3196,
+        "end": 3774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_4",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_4",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 4",
+      "heading": "Podmínky spojené s výjimkami",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "Výjimka podle článků 3 a 6 se uděluje za podmínky, že dohoda, rozhodnutí nebo jednání ve vzájemné shodě nezpůsobuje na společném trhu újmu určitým přístavům, uživatelům nebo dopravcům tím, že jsou pro přepravu téhož zboží a v oblasti, na niž se vztahuje tato dohoda, rozhodnutí nebo jednání ve vzájemné shodě, uplatňovány sazby a podmínky přepravy odlišné podle země původu nebo určení nebo přístavu nakládky nebo vykládky, pokud nelze takové sazby nebo podmínky ekonomicky zdůvodnit.\n\nJakákoli dohoda nebo rozhodnutí, nebo, je-li oddělitelná, jakákoli část dohody nebo rozhodnutí, které nejsou v souladu s předchozím odstavcem, jsou základě čl. 85 odst. 2 Smlouvy neplatné od samého počátku.",
+      "text_sha256": "f33591c1baf7d67ea9bc93f1c9fe94bf28ea185cb6edcfb1f31fe25e28dbf27d",
+      "md_span": {
+        "start": 3844,
+        "end": 4536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_5",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_5",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 5",
+      "heading": "Povinnosti spojené s výjimkami",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "K výjimce uvedené v článku 3 se pojí tyto povinnosti:\n\n1. Konzultace\n\nZa účelem řešení všeobecných zásadních otázek týkajících se sazeb, podmínek a kvality liniové dopravy se konají konzultace mezi uživateli na jedné straně a konferencemi na druhé straně.\n\nKonzultace se uskuteční kdykoli na žádost kterékoli z uvedených stran.\n\n2. Věrnostní ujednání\n\nČlenové liniových konferencí jsou oprávněni zavést a uplatňovat věrnostní ujednání pro uživatele, jejichž forma a podmínky jsou předmětem konzultací mezi konferencí a organizacemi uživatelů. Tato věrnostní ujednání upravují výhradně práva uživatelů a členů konference. Ujednání jsou založena na systému smluv nebo jiném zákonném systému.\n\nVěrnostní ujednání musí být v souladu s těmito podmínkami:\n\na) každá konference nabízí uživatelům systém okamžitého rabatu nebo volbu mezi takovým systémem a systémem odloženého rabatu:\n\n— v systému okamžitého rabatu je každá ze stran oprávněna kdykoli ukončit věrnostní ujednání bez postihu ve výpovědní lhůtě nejdéle šesti měsíců; tato lhůta se zkracuje na tři měsíce, jsou-li sazby konference předmětem sporu;\n\n— v systému odloženého rabatu nesmí období platnosti věrnostního ujednání, na jehož základě se srážka spočítá, ani následné věrnostní období před vyplacením srážky překročit šest měsíců; tato lhůta se zkracuje na tři měsíce, jsou-li sazby konference předmětem sporu;\n\nb) konference po konzultaci s uživateli stanoví:\n\ni) seznam nákladu a každý podíl nákladu dohodnutého s uživateli, který je výslovně vyloučen z oblasti působnosti věrnostního ujednání; 100 % věrnostní ujednání lze nabídnout, ale nesmí být jednostranně prosazováno;\n\nii) seznam okolností, za nichž jsou uživatelé zbaveni věrnostního závazku, zahrnují zejména:\n\n— okolnosti, za nichž se zásilky odesílají z přístavu nebo do přístavu obsluhovaného konferencí, avšak nejsou oznámeny, a kdy je žádost o zproštění závazku opodstatněná, a\n\n— okolnosti, za nichž čekací doby v přístavech přesáhnou dobu stanovenou pro každý přístav a každé zboží nebo třídu zboží po konzultaci s uživateli s přímým zájmem na řádné obsluze přístavu.\n\nUživatel však musí předem ve stanovené lhůtě informovat konferenci o svém záměru odeslat zásilku z přístavu konferencí neoznámeného nebo o záměru použít plavidla mimo konferenci v přístavu obsluhovaném konferencí, jakmile je schopen určit ze zveřejněného jízdního řádu, že maximální čekací doba bude přesáhnuta.\n\n3. Služby, na které se přepravní sazby nevztahují\n\nUživatelé jsou oprávněni zvolit podniky provozující vnitrozemskou dopravu a služby v přístavech nepokryté sazbou nebo sazbami, na nichž se dohodli společnost liniové dopravy a uživatel.\n\n4. Zveřejnění sazeb\n\nSazby, související podmínky, nařízení a jejich změny jsou na požádání a za přiměřenou cenu dostupné uživatelům nebo jsou přístupné k nahlédnutí v kancelářích společností liniové dopravy a jejich agentů. Stanoví veškeré podmínky nakládky a vykládky, přesný rozsah služeb pokrytých sazbou za přepravu v poměru k námořní a vnitrozemské dopravě a jakékoli jiné sazby vybírané společností liniové dopravy a zvyklosti.\n\n5. Oznámení Komisi o rozhodčím nálezu a doporučení\n\nRozhodčí nález a doporučení rozhodců přijaté stranami, které řeší spory ohledně postupů konferencí podle článku 4 a odstavců 2 a 3, se neprodleně oznámí Komisi.",
+      "text_sha256": "6f5d4702acacc2ee1eb70c1c4ae578c2f13ea454d799d05598dbb5ab1290f506",
+      "md_span": {
+        "start": 4608,
+        "end": 7904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_6",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_6",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 6",
+      "heading": "Výjimka pro dohody mezi uživateli a konferencemi, pokud jde o užívání liniové dopravy",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "Dohody, rozhodnutí a jednání ve vzájemné shodě mezi uživateli na straně jedné a konferencemi na straně druhé a dohody mezi uživateli týkající se sazeb, podmínek a kvality liniových služeb jsou vyňaty ze zákazu podle čl. 85 odst. 1 Smlouvy, jsou-li v souladu s čl. 5 odst. 1 a 2.",
+      "text_sha256": "9041f15d969c9f7d9a50adb89a6efebd9b5df465169e3790687aba16982bbd81",
+      "md_span": {
+        "start": 8031,
+        "end": 8309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_7",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_7",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 7",
+      "heading": "Sledování vyňatých dohod",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Porušení povinnosti\n\nPokud dotyčné osoby porušují povinnost, která je podle článku 5 spojena s výjimkou uvedenou v článku 3, může Komise za účelem ukončení takového protiprávního jednání a za podmínek stanovených nařízením Rady (ES) č. 1/2003 ze dne 16. prosince 2002 o provádění pravidel hospodářské soutěže stanovených v článcích 81 a 82 Smlouvy (7) přijmout rozhodnutí, které jim zakazuje nebo nařizuje provést určité úkony, nebo které jim odnímá výhodu plynoucí z nařízení o blokové výjimce.\n\n2. Důsledky neslučitelné s čl. 85 odst. 3\n\na) Pokud mají dohody, rozhodnutí a jednání ve vzájemné shodě, na které se vztahuje výjimka podle článků 3 a 6, kvůli zvláštním okolnostem popsaným dále důsledky neslučitelné s podmínkami stanovenými v čl. 85 odst. 3 Smlouvy, přijme Komise na základě stížnosti nebo z vlastního podnětu, a ►M1 za podmínek stanovených v nařízení (ES) č. 1/2003** ◄ ** opatření podle písmene c). Přísnost těchto opatření je úměrná závažnosti situace.\n\nb) Zvláštní *okolnosti jsou* způsobeny mimo jiné:\n\ni) jednáním konferencí nebo změnou obchodních podmínek na daném trhu, jejichž následkem je nepřítomnost nebo vyloučení skutečné nebo potenciální hospodářské soutěže, například restriktivními praktikami, jejichž následkem je trh nedostupný hospodářské soutěži, nebo\n\nii) jednáním konferencí, které může bránit technickému nebo hospodářskému pokroku nebo účasti uživatelů na prospěchu z něj;\n\niii) jednáním třetích zemí, které:\n\n— brání nečlenům konferencí v provozování dopravy,\n\n— stanoví členům konference nepoctivé sazby nebo\n\n— stanoví uspořádání, která jiným způsobem brání technickému nebo hospodářskému pokroku (sdílení nákladu, omezení typu plavidel);\n\ni) V případě nepřítomnosti skutečné nebo potenciální hospodářské soutěže, nebo pokud může být v důsledku postupu třetí země hospodářská soutěž vyloučena, zahájí Komise za účelem zlepšení situace s příslušnými orgány dané třetí země konzultace nebo jednání na základě směrnic vydaných Radou.\n\nPokud zvláštní okolnosti vyústí v nepřítomnosti nebo vyloučení skutečné nebo potenciální hospodářské soutěže v rozporu s čl. 85 odst. 3 písm. b) Smlouvy, zruší Komise blokovou výjimku. ►M1 Současně rozhodne podle článku 9 nařízení (ES) č. 1/2003, zda přijme závazky nabídnuté dotyčnými podniky, mimo jiné za tím účelem, aby společnosti nepatřící ke konferenci získaly přístup na trh.** ◄ **\n\nii) Pokud zvláštní okolnosti stanovené v písmenu b) vyústí v jiné následky, než které jsou uvedené v bodu i), přijme Komise jedno nebo více opatření podle odstavce 1.",
+      "text_sha256": "900e66ccd1d2478e057570327f784c26b44f2b83e9a5b35960c9f2b4f0b26234",
+      "md_span": {
+        "start": 8375,
+        "end": 10911
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "32003R0001: REPLACED"
+        },
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31986R4056",
+          "text": "31986R4056"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_8",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_8",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 8",
+      "heading": "Účinky neslučitelné s článkem 86 Smlouvy",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "2. Pokud Komise buď z vlastního podnětu, nebo na žádost členského státu nebo fyzické či právnické osoby uplatňující oprávněný zájem zjistí, že v konkrétním případě má chování konference, na kterou se vztahuje výjimka podle článku 3, účinky neslučitelné s článkem 86 Smlouvy, může blokovou výjimku zrušit a přijmout ►M1 podle nařízení (ES) č. 1/2003** ◄ ** veškerá vhodná opatření k ukončení porušování článku 86 Smlouvy.",
+      "text_sha256": "caffcaeafacc6d85d407387c16d06303ed7fcab3a763e259fce5efd727fac719",
+      "md_span": {
+        "start": 10993,
+        "end": 11413
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "32003R0001: DELETED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31986R4056",
+          "text": "31986R4056"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_9",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_9",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 9",
+      "heading": "Mezinárodní kolize práva",
+      "path": [
+        "ODDÍL I"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Pokud je uplatňování tohoto nařízení na určité restriktivní praktiky nebo podmínky v rozporu s právními nebo správními předpisy určitých třetích zemí, které by ohrozily důležité obchodní a námořní zájmy Společenství, konzultuje Komise při nejbližší příležitosti s příslušnými orgány daných třetích zemí uvedené zájmy a dodržování práva Společenství. Komise informuje ►M1 poradní výbor uvedený v článku 14 nařízení (ES) č. 1/2003** ◄ ** o výsledcích konzultací.\n\n2. Pokud je nutné sjednat dohody se třetími zeměmi, podá Komise Radě doporučení ke zmocnění Komise k zahájení všech nezbytných jednání.\n\nKomise jedná po konzultaci s ►M1 poradním výborem uvedeným v článku 14 nařízení (ES) č. 1/2003** ◄ ** a v rámci směrnic, které Rada případně vydá.\n\n3. Při uplatňování pravomocí svěřených tímto článkem rozhoduje Rada postupem podle čl. 84 odst. 2 Smlouvy.",
+      "text_sha256": "94d87b313e712c406e063a09e6567cd5e39906d2f3b138c5f9fd7623bb7be314",
+      "md_span": {
+        "start": 11479,
+        "end": 12335
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_13",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_13",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 13",
+      "heading": "Platnost a zrušení rozhodnutí o použití čl. 85 odst. 3",
+      "path": [
+        "ODDÍL II",
+        "JEDNACÍ ŘÁD"
+      ],
+      "article_valid_from": null,
+      "text_md": "3. Komise může zrušit nebo změnit své rozhodnutí nebo zakázat stranám určitá jednání, pokud:\n\na) dojde ke změně některé zásadní skutečnosti, která byla základem pro přijaté rozhodnutí, nebo\n\nb) strany poruší jakoukoli povinnost vyplývající z rozhodnutí, nebo\n\nc) se rozhodnutí zakládá na nesprávných informacích nebo bylo získáno podvodem, nebo\n\nd) strany zneužijí výjimku z čl. 85 odst. 1 Smlouvy, která jim byla rozhodnutím udělena.\n\nV případech uvedených v písmenech b), c) nebo d) může být rozhodnutí zrušeno se zpětnou působností.",
+      "text_sha256": "00b485bf260fe0b80f3c1c84aa07a6e814d7d9a61099250f3bf57967f8ed13fc",
+      "md_span": {
+        "start": 12463,
+        "end": 12998
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "32003R0001: DELETED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31986R4056",
+          "text": "31986R4056"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_26",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_26",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 26",
+      "heading": "Provádění ustanovení",
+      "path": [
+        "ODDÍL II",
+        "JEDNACÍ ŘÁD"
+      ],
+      "article_valid_from": null,
+      "text_md": "Komise je oprávněna přijmout prováděcí ustanovení o rozsahu povinnosti sdělení podle čl. 5 odst. 5►M1 —————** ◄ **.",
+      "text_sha256": "f3f4d761aa9ab29d0f568bc40e21cc3193d77331cb6814841997cef2cf9704e4",
+      "md_span": {
+        "start": 13062,
+        "end": 13177
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32003R0001",
+          "text": "►M1"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:12003T",
+          "text": "12003T: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_26a",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_26a",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 26a",
+      "heading": null,
+      "path": [
+        "ODDÍL II",
+        "JEDNACÍ ŘÁD"
+      ],
+      "article_valid_from": null,
+      "text_md": "Zákaz uvedený v čl. 81 odst. 1 Smlouvy se nevztahuje na dohody, rozhodnutí a jednání ve vzájemné shodě, které existovaly ke dni přistoupení Rakouska, Finska a Švédska nebo ke dni přistoupení České republiky, Estonska, Kypru, Lotyšska, Litvy, Maďarska, Malty, Polska, Slovinska a Slovenska a které, z důvodu přistoupení, spadají do oblasti působnosti čl. 81 odst. 1, pokud budou během šesti měsíců ode dne přistoupení změněny tak, aby splňovaly podmínky stanovené v článcích 3 až 6 tohoto nařízení. Tento článek se však nevztahuje na dohody, rozhodnutí a jednání ve vzájemné shodě, které již ke dni přistoupení spadají do oblasti působnosti čl. 53 odst. 1 Dohody o EHP.",
+      "text_sha256": "879c0960f2fcb0e093d0818fca436f55e9d494eed95b193ef99129c4a14e4ed4",
+      "md_span": {
+        "start": 13220,
+        "end": 13888
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31986R4056",
+          "text": "31986R4056"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_27",
+      "provision_id": "eu-eurlex:31986r4056:2004-05-01--7720addee73eb753fb22854a3bae39c12a71b7f13e08d56070e5d2e6c541b4b5#clanek_27",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 27",
+      "heading": "Vstup v platnost",
+      "path": [
+        "ODDÍL II",
+        "JEDNACÍ ŘÁD"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toto nařízení vstupuje v platnost dnem 1. července 1987.\n\nToto nařízení je závazné v celém rozsahu a přímo použitelné ve všech členských státech.\n\n(1) Úř. věst. C 172, 2.7.1984, s. 178 a Úř. věst. C 255, 13.10.1986, s. 169.\n\n(2) Úř. věst. C 77, 21.3.1983, s. 13 a Úř. věst. C 344, 31.12.1985, s. 31.\n\n(3) Úř. věst. 124, 28.11.1962, s. 2751/62.\n\n(4) Úř. věst. 13, 21.2.1962, s. 204/62.\n\n(5) Úř. věst. L 175, 23.7.1967, s. 1.\n\n(6) Úř. věst. L 121, 17.5.1979, s. 1.\n\n(7) Úř. věst. L 1, 4.1.2003, s. 1.",
+      "text_sha256": "272d7a2de8a053f39f1a516364d6374165f77bab1e99c1a1f50ebd32c9b4fde0",
+      "md_span": {
+        "start": 13948,
+        "end": 14446
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

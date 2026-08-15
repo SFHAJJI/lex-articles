@@ -1,0 +1,511 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/1156 of 12\u00A0June 2025 supplementing Regulation (EU) No\u00A0600/2014",
+  "valid_from": "2025-06-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1156/versions/2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0/fr.xml",
+    "sha256": "e1118a1fe7a8ce683672f335774d171e56d45b9a3b67ee9f8127fb5b75cb7ce4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1156"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par:\n\n| a) | «client de données de marché»: la personne physique ou morale qui signe un contrat de fourniture de données de marché et à qui sont facturés les frais de fourniture de ces données; |\n| --- | --- |\n\n| b) | «données de marché»: les informations publiées conformément aux articles 3 et 4, aux articles 6 à 11 bis et aux articles 14, 20, 21, 27 octies et 27 nonies du règlement (UE) no 600/2014 par les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation, les dispositifs de publication agréés (APA), les fournisseurs de systèmes consolidés de publication (CTP) et les internalisateurs systématiques; |\n| --- | --- |\n\n| c) | «données de marché différées»: les données de marché mises à disposition 15 minutes après leur publication conformément à l’article 13, paragraphe 2, du règlement (UE) no 600/2014; |\n| --- | --- |\n\n| d) | «fournisseur de données de marché»: un opérateur de marché ou une entreprise d’investissement exploitant une plate-forme de négociation, un APA, un CTP ou un internalisateur systématique qui exerce une activité commerciale de diffusion de données de marché auprès de clients; |\n| --- | --- |\n\n| e) | «coût total»: le total des coûts supportés par le fournisseur de données de marché et directement liés à la production et à la diffusion de données de marché; |\n| --- | --- |\n\n| f) | «bénéfice d’exploitation»: le résultat obtenu par le fournisseur de données de marché en déduisant le total de ses coûts des recettes générées par la production et la diffusion de données de marché; |\n| --- | --- |\n\n| g) | «contrat de fourniture de données de marché»: tout accord, conclu entre le fournisseur de données de marché et le client de données de marché, relatif à la fourniture de données de marché et conforme aux informations et aux frais publiés dans la politique en matière de données de marché; |\n| --- | --- |\n\n| h) | «politique en matière de données de marché»: le ou les documents du fournisseur de données de marché qui contiennent les informations relatives à la fourniture de données de marché, conformément au chapitre V du présent règlement; |\n| --- | --- |\n\n| i) | «frais individualisés par client»: un modèle de facturation de frais pour des données de marché qui permet aux clients d’éviter une facturation multiple si les données ont été obtenues par l’intermédiaire de plusieurs fournisseurs ou redistributeurs de données de marché. |\n| --- | --- |",
+      "text_sha256": "0175c7655ad16b62c6b1e056b4530b2d772b858277f3a1a2513403e7b3bc6e10",
+      "md_span": {
+        "start": 715,
+        "end": 3220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les fournisseurs de données de marché calculent le total de leurs coûts par exercice comptable. Ce calcul englobe les catégories de coûts suivantes:\n\n| a) | les coûts d’infrastructure imputables aux actifs physiques, aux licences et locations de services de logiciels ou à toute autre infrastructure nécessaire à la production et à la diffusion de données de marché; |\n| --- | --- |\n\n| b) | les coûts de connectivité imputables aux actifs physiques et aux licences et locations de services de logiciels qui assurent la connectivité nécessaire à la production et à la diffusion de données de marché; |\n| --- | --- |\n\n| c) | le coût du personnel affecté à la production et à la diffusion de données de marché; |\n| --- | --- |\n\n| d) | les coûts financiers, y compris les amortissements et le coût du capital finançant les services de données de marché; |\n| --- | --- |\n\n| e) | les autres coûts, y compris les coûts administratifs nécessaires à la production et à la diffusion de données de marché. |\n| --- | --- |\n\n2. Les coûts d’infrastructure qui sont partagés avec d’autres services sans lien direct avec la production et la diffusion de données de marché sont répartis en fonction de l’utilisation que fait chaque service de l’infrastructure concernée.\n\n3. Les coûts de connectivité qui sont partagés avec d’autres services sans lien direct avec la production et la diffusion de données de marché sont répartis en fonction de l’utilisation que fait chaque service du cadre de connectivité concerné.\n\n4. Le coût du personnel partiellement affecté à la production et à la diffusion de données de marché est réparti en fonction de la part de son travail que ce personnel consacre à la production et à la diffusion de données de marché.\n\n5. Les coûts financiers liés aux infrastructures, à la connectivité et au personnel qui sont partagés avec d’autres services sans lien direct avec la production et la diffusion de données de marché sont répartis en fonction de l’utilisation des actifs et services concernés.\n\n6. Les fournisseurs de données de marché doivent pouvoir expliquer tout autre coût qu’ils attribuent à la production et à la diffusion de données de marché et justifier la prise en compte de ce coût.\n\n7. Les fournisseurs de données de marché réexaminent chaque année la méthode qu’ils utilisent pour la répartition des coûts prévue aux paragraphes 2 à 6.",
+      "text_sha256": "e065579458e1490a6e106109d4a9da5355956edc744aee40d4898287bfb1d9da",
+      "md_span": {
+        "start": 3253,
+        "end": 5632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. La marge raisonnable appliquée pour les données de marché constitue le bénéfice d’exploitation.\n\n2. La marge raisonnable appliquée pour les données de marché:\n\n| a) | est fixée en pourcentage du total des coûts; |\n| --- | --- |\n\n| b) | ne dépasse pas de manière disproportionnée le total des coûts; |\n| --- | --- |\n\n| c) | pour les fournisseurs de données de marché qui proposent des services autres que la production et la diffusion de données de marché, est raisonnablement comparable au bénéfice d’exploitation attribuable à l’ensemble des activités du fournisseur. |\n| --- | --- |\n\n3. La marge raisonnable est obtenue en fixant les frais de fourniture de données de marché à un niveau permettant l’accès aux données au plus grand nombre possible de clients de données de marché.",
+      "text_sha256": "78bb4c6d41b337539481f64febb1be4ef4b8788947b39acb2fd8df300c8ec044",
+      "md_span": {
+        "start": 5665,
+        "end": 6461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les fournisseurs de données de marché accordent l’accès à ces données sur une base non discriminatoire en ce qui concerne les frais, les conditions générales en matière d’accès, les dispositifs techniques et les canaux de distribution.\n\n2. Les fournisseurs de données de marché appliquent le même barème de frais et les mêmes conditions générales d’accès aux données de marché à tous les clients qui sollicitent cet accès.\n\n3. Les fournisseurs de données de marché disposent de capacités modulables afin de garantir en permanence aux clients de données de marché un accès rapide à ces données sur une base non discriminatoire.\n\n4. Les fournisseurs de données de marché proposent aux clients le même ensemble d’options relatives aux dispositifs techniques et veillent à ce que ces dispositifs n’entraînent pas de discrimination ni d’avantage ou désavantage déloyal.\n\n5. Les fournisseurs de données de marché doivent pouvoir justifier par des contraintes techniques avérées toute divergence entre les solutions proposées pour accéder aux données de marché.",
+      "text_sha256": "bebda5b0e52e5a77e7913e5b1967f4baad8ea77aea6ceecf2efa05d3234fccfa",
+      "md_span": {
+        "start": 6494,
+        "end": 7562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les fournisseurs de données de marché ne peuvent pratiquer une différenciation tarifaire que si celle-ci est déterminée sur la base d’une catégorisation des clients, et pour autant que toutes les conditions suivantes soient remplies:\n\n| a) | les critères utilisés pour définir ces catégories reposent sur des éléments factuels, facilement vérifiables et suffisamment généraux pour être applicables à tout un groupe de clients; |\n| --- | --- |\n\n| b) | la marge établie pour les données de marché conformément à l’article 3 est la même pour tous les clients d’une même catégorie; |\n| --- | --- |\n\n| c) | les différences entre les catégories sont claires et les clients sont en mesure de comprendre de quelle catégorie ils relèvent; |\n| --- | --- |\n\n| d) | chaque client ne relève que d’une seule catégorie. |\n| --- | --- |\n\n2. Si la fourniture de données de marché à un même client entraîne différents surcoûts importants pour le fournisseur des données, celui-ci peut ajouter aux frais applicables une majoration déterminée en fonction des surcoûts supportés.\n\n3. Les fournisseurs de données de marché ne peuvent accorder de remises ou d’autres réductions temporaires de frais que si ces remises ou réductions reposent sur des éléments factuels, facilement vérifiables et suffisamment généraux pour se rapporter à plus d’un client.",
+      "text_sha256": "bd789bdffb017ae89c3aaf8b5807a1840ee4a604e9ff73ecb9cd55d50df2cd69",
+      "md_span": {
+        "start": 7595,
+        "end": 8939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLes fournisseurs de données de marché veillent à ce que les données de marché, y compris les données de marché différées, soient envoyées simultanément par tous les canaux de distribution.",
+      "text_sha256": "d49e803fd5a113bcdca55dc713fe0bc7f903663e9fcadb0914059704a2f418cf",
+      "md_span": {
+        "start": 8972,
+        "end": 9171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Préalablement à la conclusion d’un contrat de fourniture de données de marché, le fournisseur de données de marché communique aux clients de données de marché, lorsqu’ils en font la demande, toutes les informations qui portent sur les frais réels et les dispositions applicables à ces clients et qui leur sont nécessaires pour comparer les offres de données de marché disponibles sur le marché et décider en connaissance de cause de l’opportunité de conclure le contrat en question.\n\n2. Les informations mentionnées au paragraphe 1 concordent avec les frais annoncés dans la politique en matière de données de marché.",
+      "text_sha256": "ad11468fb3ec92f323bfebbd430c9365c8a625a0108338154eedf74d024b3773",
+      "md_span": {
+        "start": 9204,
+        "end": 9835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Le contrat de fourniture de données de marché assure l’équilibre des droits et des obligations des parties au contrat et respecte les exigences de bonne foi.\n\n2. Les parties au contrat de fourniture de données de marché s’abstiennent de se livrer à des demandes ou à des transmissions d’informations fréquentes ou portant sur de gros volumes, si elles ne sont pas nécessaires pour la bonne exécution du contrat, ou à d’autres pratiques qui entraînent des surcoûts injustifiés pour l’une des parties.",
+      "text_sha256": "4f14e5004e66427b0834ed6c7b28ab29078538f6c15d5d9dee71edaa22a3c92e",
+      "md_span": {
+        "start": 9868,
+        "end": 10381
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Le contrat de fourniture de données de marché énonce de manière claire et concise les conditions générales applicables à la fourniture des données et permet au client de comprendre facilement les obligations et les droits qui en découlent.\n\n2. Le contrat de fourniture de données de marché utilise des définitions et des termes clairs et compréhensibles et emploie la terminologie de la politique en matière de données de marché visée à l’article 18.",
+      "text_sha256": "ad17af86d2abf27ea5a2194320a83176b7adeb863fde29ba8ae3ea9474b7841d",
+      "md_span": {
+        "start": 10414,
+        "end": 10878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes fournisseurs de données de marché veillent à ce que les clauses du contrat de fourniture de données de marché soient conformes aux informations fournies dans la politique en matière de données de marché qu’ils ont publiée.",
+      "text_sha256": "e9899a14b3acb859932ee7c60d19ecc95366765531a2bacfecaf0b3a817070bb",
+      "md_span": {
+        "start": 10913,
+        "end": 11151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLes conditions générales qui, dans des contrats de fourniture de données de marché, peuvent entraîner des frais supplémentaires ou des augmentations de frais, y compris des ajustements liés à l’inflation, sont clairement exposées dans ces contrats.",
+      "text_sha256": "cdca7bd1f5d1cc4d8c5f5586ea7623f74bfd30c6d9c2e225bfb3fdf32f950517",
+      "md_span": {
+        "start": 11186,
+        "end": 11446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les fournisseurs de données de marché prennent leurs dispositions pour garantir que chaque fourniture de données de marché ne soit facturée qu’une seule fois.\n\n2. À cette fin, lorsque des données de marché ont été obtenues par l’intermédiaire de plusieurs fournisseurs ou redistributeurs de données de marché, les fournisseurs de données de marché offrent la possibilité de ne facturer des frais qu’une seule fois par client pour les mêmes données de marché.",
+      "text_sha256": "6b2000c2838bc7df2c65097fc09ced60b23e62c51933b900ae984ae1dbe78fb7",
+      "md_span": {
+        "start": 11481,
+        "end": 11954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes fournisseurs de données de marché ne groupent pas la fourniture de ces données avec d’autres services.",
+      "text_sha256": "20e4e04e9e73846dddaac9dcdd81c6844defa9b55db62c201055bbf5db226a95",
+      "md_span": {
+        "start": 11989,
+        "end": 12107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les fournisseurs de données de marché indiquent clairement, dans le contrat de fourniture de données de marché, les violations des droits et obligations découlant de ce contrat qui donnent lieu à des pénalités.\n\n2. Le montant des pénalités ne dépasse pas de manière déraisonnable les frais que le client aurait payés s’il avait respecté le contrat de fourniture de données de marché.\n\n3. Une demande de paiement d’une pénalité ne peut être faite que dans un laps de temps raisonnable après la commission de la violation, qui ne peut dépasser cinq ans à compter de la date de notification d’un audit, et elle doit se baser sur des preuves manifestes de cette violation.",
+      "text_sha256": "3b38d326f74b67ac8e46573c41da326fcf93bc72f61baa8b472b75505f87d2fd",
+      "md_span": {
+        "start": 12142,
+        "end": 12825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nS’il est prévu dans le contrat de fourniture de données de marché que le fournisseur des données puisse demander des audits pour établir s’il y eu violation du contrat, les clauses du contrat stipulent:\n\n| a) | que la demande d’audit repose sur des indices précis et crédibles d’une possible violation commise pas plus de cinq ans avant la date de notification de l’audit; |\n| --- | --- |\n\n| b) | que les documents et les informations demandées au client de données de marché se limitent à ce qui est nécessaire pour recueillir des preuves de la violation alléguée. |\n| --- | --- |",
+      "text_sha256": "4a1f894b644af809d235dc791ac36dacc9b42318c2395b83fe774d1f0e17db6d",
+      "md_span": {
+        "start": 12860,
+        "end": 13453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Si les conditions générales d’un contrat de fourniture de données de marché permettent au fournisseur des données de modifier unilatéralement les frais ou les conditions applicables à cette fourniture, cette modification est notifiée au client de données de marché 90 jours au moins avant d’entrer en vigueur.\n\n2. Si les modifications mentionnées au paragraphe 1 se traduisent par des frais et des conditions moins avantageuses pour le client, ce dernier a le droit de résilier le contrat sans encourir de frais ou de pénalités supplémentaires. Ce droit est précisé dans le contrat de fourniture de données de marché.",
+      "text_sha256": "1a6dfc846433eab6685e4d2ba474dc2c8e57e63e5fe86ac030764c8a576d214e",
+      "md_span": {
+        "start": 13488,
+        "end": 14120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Les fournisseurs de données de marché mettent à la disposition du public une politique en matière de données de marché qui apporte, en termes clairs et dépourvus d’ambiguïté, toutes les informations pertinentes concernant leur offre de données de marché. Ces informations comprennent:\n\n| a) | le barème des frais de fourniture des données de marché; |\n| --- | --- |\n\n| b) | les conditions générales régissant la fourniture des données de marché, y compris les services indirects nécessaires à l’accès aux données de marché; |\n| --- | --- |\n\n| c) | les conditions générales régissant les audits visés à l’article 15. |\n| --- | --- |\n\n2. Les informations sur l’offre de données de marché publiées dans la politique en matière de données de marché permettent aux clients de comprendre les frais et les conditions générales qui leur sont applicables, préalablement à la conclusion d’un contrat de fourniture de données de marché.",
+      "text_sha256": "93a7d181be5c30255b7e683f9bd5d90050f80e3be6849c316b9fbf226590955a",
+      "md_span": {
+        "start": 14155,
+        "end": 15095
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nOutre les définitions pertinentes figurant à l’article 1er, les fournisseurs de données de marché adoptent la terminologie suivante dans leur politique en matière de données de marché et leurs barèmes de frais:\n\n| a) | «unité de comptage» désigne l’unité qui est utilisée pour mesurer le niveau de fourniture de données de marché à facturer au client et qui est appliquée à des fins tarifaires; le cas échéant, l’unité de comptage peut opérer une distinction entre données affichées et données non affichées, ou entre d’autres types de données; |\n| --- | --- |\n\n| b) | «client professionnel» désigne un client qui fournit un service financier réglementé ou exerce une activité financière réglementée ou qui fournit un service à des tiers; |\n| --- | --- |\n\n| c) | «client non professionnel» désigne un client qui ne répond pas à la définition du client professionnel donnée au point b); |\n| --- | --- |\n\n| d) | «données affichées» désigne des données de marché fournies à l’aide d’un moniteur ou d’un écran et lisibles par l’être humain; |\n| --- | --- |\n\n| e) | «données non affichées» désigne toutes les données de marché qui ne répondent pas à la définition des données affichées donnée au point d); |\n| --- | --- |\n\n| f) | «données historiques» désigne les données de marché qui se rapportent à une période antérieure au jour ouvrable précédent et qui sont archivées et stockées par le fournisseur de données de marché. |\n| --- | --- |",
+      "text_sha256": "54a44ea3ff27d0c992e3986de2546ea49a3a5903899ad585b5ea60e4a8306527",
+      "md_span": {
+        "start": 15130,
+        "end": 16579
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les fournisseurs de données de marché mettent leur politique en matière de données de marché à disposition sur leurs sites web gratuitement, sur une base non discriminatoire et sous une forme aisément accessible. Si leur politique en matière de données de marché se compose de plusieurs documents, les fournisseurs de données de marché l’indiquent clairement et font en sorte que tous ces documents soient accessibles en un seul et même emplacement de leur site web.\n\n2. Les fournisseurs de données de marché mettent leurs politiques en matière de données de marché des cinq années précédentes à disposition sur leur site web gratuitement, sur une base non discriminatoire et sous une forme aisément accessible et veillent à ce que la date et l’heure de publication et d’entrée en application de ces politiques soient clairement indiquées.",
+      "text_sha256": "0fb05641542ad46a7cbc1494aaaf61879c7ef27868994290d24069b80c0f7583",
+      "md_span": {
+        "start": 16614,
+        "end": 17468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Les fournisseurs de données de marché indiquent dans leur politique en matière de données de marché, au moyen du modèle figurant à l’annexe I, les frais afférents à ces données, par unité de comptage utilisée pour mesurer la fourniture de données de marché.\n\n2. Le fournisseur de données de marché n’utilise, pour un même type de données de marché, dont, le cas échéant, les données affichées et les données non affichées, qu’une seule unité de comptage basée sur les coûts de production et de distribution du type de données concerné.",
+      "text_sha256": "b27cbb394af1014205f91ea4a92f90f5c8ae5afc979bcc8e1f92cc627530d665",
+      "md_span": {
+        "start": 17503,
+        "end": 18053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Les fournisseurs de données de marché publient leur politique en matière de données de marché en utilisant le modèle fourni à l’annexe I. Ce modèle ne doit servir pour aucune autre information.\n\n2. Les informations données par les fournisseurs de données de marché dans le cadre de leur politique en la matière sont toutes présentées de manière uniforme et avec le même niveau de détail et permettent de comparer facilement les offres aux clients de données de marché. Les informations sur les données pré- et post-négociation sont fournies séparément.",
+      "text_sha256": "642a693f7355daa8d5a3892b7a2bd694bd5ff51417d405fe64113126a1c0d8cc",
+      "md_span": {
+        "start": 18088,
+        "end": 18655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Les fournisseurs de données de marché incluent dans leur politique en matière de données de marché un résumé de la manière dont a été fixé le niveau des frais pour ces données, et une explication plus détaillée de la méthode employée pour comptabiliser les coûts.\n\n2. L’explication de la méthode de comptabilisation des coûts comprend, au minimum, la liste de tous les types de coûts inclus dans les frais de fourniture des données de marché, avec des exemples de ces coûts, ainsi que les principes d’allocation et les clés de répartition des coûts partagés avec d’autres services sans lien direct avec la production et la diffusion de données de marché.\n\n3. Les fournisseurs de données de marché indiquent s’ils incluent une marge dans les frais de fourniture des données de marché et expliquent comment ils veillent à ce que leurs marges soient raisonnables.\n\n4. Les fournisseurs de données de marché mettent à jour les informations visées aux paragraphes 1, 2 et 3 du présent article immédiatement après avoir achevé le réexamen prévu par l’article 2, paragraphe 7.",
+      "text_sha256": "31d30870634d06984586632353d84451440e0f8390676e4b0dfe1c9d04785703",
+      "md_span": {
+        "start": 18690,
+        "end": 19773
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nLes opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation, les APA et les internalisateurs systématiques donnent accès aux données de marché différées à tous les clients sur une base non discriminatoire, sans exiger aucun type d’enregistrement.",
+      "text_sha256": "a384d12cb9bacea509a61c7267a781bc9c8358e8c33248cb58797d6ba1aae824",
+      "md_span": {
+        "start": 19808,
+        "end": 20109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nLes opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation, les APA et les internalisateurs systématiques mettent à la disposition du public les données de marché différées de tous les systèmes qu’ils exploitent, en respectant les critères suivants:\n\n| a) | les données de marché pré-négociation différées contiennent les meilleurs prix acheteurs et vendeurs disponibles sur le moment et l’importance des positions de négociation à ces prix; |\n| --- | --- |\n\n| b) | les données de marché post-négociation différées contiennent tous les champs pertinents aux fins de la transparence post-négociation tels que précisés dans les règlements délégués (UE) 2017/587 (8) et (UE) 2017/583 (9) de la Commission, à l’exception de tout autre champ. |\n| --- | --- |",
+      "text_sha256": "170a923cf2a3f42ba5e9543f6a7a1c88ac27821c09d5631f6d676736948675ce",
+      "md_span": {
+        "start": 20144,
+        "end": 20953
+      },
+      "citations": [
+        {
+          "href": "#ntr8-L_202501156FR.000101-E0008",
+          "text": "(8)"
+        },
+        {
+          "href": "#ntr9-L_202501156FR.000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nLes opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation, les APA et les internalisateurs systématiques mettent à la disposition du public les données de marché différées dans un format adapté aux besoins des clients, et pendant un laps de temps suffisant, comme suit:\n\n| a) | les données de marché pré-négociation différées sont mises à disposition, dans un format lisible par machine et par l’être humain, jusqu’au jour ouvrable suivant inclus; |\n| --- | --- |\n\n| b) | les données de marché post-négociation différées sont fournies dans un format lisible par machine et par l’être humain et sont mises à disposition dans des programmes d’utilisation courante qui permettent aux clients d’automatiser l’extraction de données. |\n| --- | --- |\n\nAux fins du point b), les données post-négociation différées sont mises à disposition dans un même fichier pour l’ensemble des instruments négociés ou pour chaque catégorie d’instruments, ce fichier ne contenant que ces données différées. Pour chaque jour de négociation, les données sont mises à disposition dans un même fichier.\n\nLe fichier quotidien visé au deuxième alinéa est actualisé toutes les minutes. S’il s’écoule plus d’une minute entre deux communications de données, ce fichier est actualisé dès que les données de marché remplissent les conditions pour être publiées en différé. Il est mis à disposition au moins jusqu’à la fin du jour ouvrable suivant, afin de permettre l’extraction de données par les clients.",
+      "text_sha256": "6a6a2d76d92943433a53cb18b55cef1f9054fe6111636a28953fea92c4b5ba23",
+      "md_span": {
+        "start": 20988,
+        "end": 22517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Les fournisseurs de données de marché fournissent aux autorités compétentes, sur demande, des informations sur le total de leurs coûts et sur les marges raisonnables qu’ils appliquent, tels que visés au chapitre II, à l’aide du modèle fourni à l’annexe II.\n\n2. Les informations fournies aux autorités compétentes comprennent:\n\n| a) | des informations détaillées aux fins de l’identification du fournisseur de données de marché et, le cas échéant, du groupe dont il fait partie; |\n| --- | --- |\n\n| b) | des informations détaillées sur le type de données de marché proposées; |\n| --- | --- |\n\n| c) | des informations détaillées sur le coût total, comprenant les éléments suivants:i)une description des infrastructures essentielles utilisées par le fournisseur de données de marché;ii)les composantes de cette infrastructure qui sont pertinentes pour déterminer le coût total;iii)l’indication des coûts imputables à la production et à la diffusion de données de marché; |\n| --- | --- |\n| i) | une description des infrastructures essentielles utilisées par le fournisseur de données de marché; |\n| ii) | les composantes de cette infrastructure qui sont pertinentes pour déterminer le coût total; |\n| iii) | l’indication des coûts imputables à la production et à la diffusion de données de marché; |\n\n| d) | la marge raisonnable appliquée; |\n| --- | --- |\n\n| e) | des explications sur le mode de détermination du niveau des frais; |\n| --- | --- |\n\n| f) | en cas de différenciation tarifaire, une explication de la manière dont les coûts et les marges sont répartis, le cas échéant, entre les différentes catégories de clients; |\n| --- | --- |\n\n| g) | toute autre information ou pièce justificative jugée utile à l’examen des coûts totaux et des marges raisonnables par l’autorité compétente. |\n| --- | --- |",
+      "text_sha256": "d576c8bb74e9dcfcc4fca699649e8722f17bbae473eeb1990fc0469f0e0f249d",
+      "md_span": {
+        "start": 22552,
+        "end": 24369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\nPour les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation, les APA et les internalisateurs systématiques agréés avant le 23 novembre 2025, le présent règlement est applicable à partir du 23 août 2026.",
+      "text_sha256": "a2c144ccf0cbaeced0bbef40773373904a715fb03b7d1150789fe04aabee4e53",
+      "md_span": {
+        "start": 24404,
+        "end": 24666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32025r1156:2025-06-12--05ae541a571483d95b85eb2871a082919f253c59aaf4fbf5191450d8555a7df0#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "18a710fe21f0ff9138435cf41855f8d0364b0ed3fa9038ffcf418f7a2ba9cd51",
+      "md_span": {
+        "start": 24701,
+        "end": 24843
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

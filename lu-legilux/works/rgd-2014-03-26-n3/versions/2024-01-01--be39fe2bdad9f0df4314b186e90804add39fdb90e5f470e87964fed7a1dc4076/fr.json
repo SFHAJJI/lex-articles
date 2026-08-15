@@ -1,0 +1,462 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 26 mars 2014 portant exécution de l’article 145 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (décompte annuel).",
+  "valid_from": "2024-01-01",
+  "valid_to": "2024-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2014-03-26-n3/versions/2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076/fr.xml",
+    "sha256": "e4839240adb9e87898a280752dec6bdb21724dfa4682d5aa59f3767a88fc96cb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_1er/20140401",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-01",
+      "text_md": "Au sens du présent règlement on entend\n\n1. loi modifiée du 4 décembre 1967 loi\n2. 1. loi\n2. loi\n3. par salariés ou pensionnés, les contribuables bénéficiant respectivement d'un salaire ou d'une pension visés au numéro 2;\n4. par cotisations légales de sécurité sociale, les prélèvements et cotisations versées en raison de l'affiliation obligatoire des salariés au titre de l'assurance maladie et de l'assurance pension, ainsi que les cotisations payées à titre obligatoire par des salariés à un régime étranger visé par un instrument bi- ou multilatéral de sécurité sociale, pour autant qu'ils font l'objet d'une retenue par l'employeur ou la caisse de pension;\n5. par prestations pécuniaires de maladie, les indemnités suivantes: 1. Code de la sécurité sociale\n2. Code de la sécurité sociale\n3. Code de la sécurité sociale\n4. Code de la sécurité sociale même code prédit code pour autant que ces indemnités sont considérées comme salaires et ne bénéficient pas de l'exemption prononcée par l'article 115, numéro 7 de la loi;\n6. par administration, l'organe de l'administration compétent au stade considéré de la procédure.",
+      "text_sha256": "65232216e355205e69f3a16de40b25bb8da9d2cd43a0378030aabd34bd960a10",
+      "md_span": {
+        "start": 769,
+        "end": 1892
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_2/20240101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Les salariés et les pensionnés non imposables par voie d'assiette et visés à l'article 3 bénéficient, dans les conditions prévues au présent règlement, d'une régularisation de leurs retenues d'impôt sur les salaires et sur les pensions. Cette régularisation a lieu par un décompte annuel qui intervient après la fin de l'année d'imposition.\n\n**(2)** Le décompte annuel s'effectue par comparaison entre, d'une part, la somme annuelle des retenues d'impôt relatives aux revenus englobés dans le décompte (article 6) et, d'autre part, l'impôt annuel (article 9) correspondant au revenu annuel passible de retenue (article 7). Les crédits d'impôt pour salariés et pour pensionnés visés respectivement aux articles 139bis et 139ter de la loi, n'interviennent pas dans le décompte annuel. L'imputation des modérations et bonifications d'impôt pour enfants visées à l’article 13, du crédit d’impôt monoparental visé à l’article 14 et du crédit d’impôt heures supplémentaires visé à l’article 14*bis* sur l'impôt annuel correspondant au revenu annuel passible de retenue, a uniquement lieu lors du décompte annuel prévu à l'article 15. Si la somme annuelle des retenues d'impôt est plus élevée que l'impôt annuel, diminué, le cas échéant, des imputations visées à l'article 9, alinéa 3, l'excédent est restitué au salarié ou au pensionné. Dans le cas contraire, la différence constitue le supplément d'impôt annuel qui, sous réserve des dispositions de l'article 17, n'est pas recouvré.\n\n**(3)** L'administration est compétente pour le décompte annuel, elle y procède sur demande de l'ayant droit. À défaut de demande, l'administration établit d'office un décompte conformément à l'article 17, alinéa 1, point a), premier tiret, sauf qu'elle n'est pas obligée de tenir compte de circonstances qui sont à porter à sa connaissance par une demande de l'ayant droit.",
+      "text_sha256": "b24503c8f5deaa3a8dcc01b489ea5e2c7823984480587b49acea5465c0e97639",
+      "md_span": {
+        "start": 1927,
+        "end": 3789
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_3/20240101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Ont droit au décompte annuel\n\n1. les salariés ou pensionnés qui ont eu leur domicile fiscal ou leur séjour habituel au Grand-Duché durant toute l'année d'imposition ou, s'ils sont décédés en cours d'année, durant la fraction de l'année ayant précédé le décès;\n2. les salariés ne remplissant pas la condition de la lettre a), à condition qu'ils aient été occupés au Grand-Duché pendant neuf mois au moins de l'année d'imposition et y aient exercé leur activité salariée d'une façon continue pendant cette période. Pour que l'activité salariée soit considérée comme continue il est formellement exigé que les activités soient exercées en principe tous les jours ouvrables au Luxembourg durant une période minimale de 9 mois. En ce qui concerne les époux visés à l'article 157*bis*, alinéa 3 de la loi qui sont imposables collectivement au titre de l'année d'imposition en cause, le droit au décompte annuel est donné, si la condition de la lettre b) est remplie dans le chef de l'un des conjoints au moins;\n3. les salariés qui ont été occupés au Grand-Duché pendant une partie de l'année d'imposition et qui ne remplissent pas les conditions des lettres a) et b), pourvu que leur salaire brut indigène ait été au moins égal à 75% du total de leur salaire brut annuel et des prestations et autres avantages semblables en tenant lieu;\n4. loi loi bis loi\n5. ter loi\n6. terdecies loi\n\n**(2)** Les salariés ou pensionnés non résidents et les salariés ou pensionnés ayant eu pendant une partie de l'année leur domicile fiscal ou leur séjour habituel au Grand-Duché, qui ne rentrent pas dans les prévisions de l'alinéa 1er, bénéficient d'une régularisation des retenues d'impôt conformément aux dispositions de l'article 11*bis*.\n\n**(3)** Les salariés ou pensionnés non visés aux alinéas 1 et 2 ci-dessus bénéficient d'une régularisation des retenues d'impôt dans les conditions de l'article 11.",
+      "text_sha256": "89b3158da39d14138b1d3d3ff1b4d49b38d7ceb8049b1a01dc8fc617aef6ca29",
+      "md_span": {
+        "start": 3824,
+        "end": 5718
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_4/20140401",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Un décompte collectif est établi au nom des époux ou du contribuable et de ses enfants mineurs, si ces personnes sont imposables collectivement dans les conditions respectivement des articles 3 et 4 ou 157*bis*, alinéa 3 de la loi. Le décompte collectif porte sur l'ensemble des salaires et pensions alloués aux personnes imposables collectivement, à l'exclusion des salaires d'enfants mineurs visés à l'article 4, alinéa 2 de la loi. Ces derniers font l'objet d'un décompte séparé.\n\n**(2)** Dans le chef d'époux non imposables collectivement, le décompte annuel est établi séparément à l'égard de chacune de ces personnes. Il en est de même en ce qui concerne un contribuable et ses enfants mineurs non imposables collectivement.",
+      "text_sha256": "98a7eefda30fc993e0615f3a8479c4af0e560c26eb4a1ff4ec37bfe6c9a79744",
+      "md_span": {
+        "start": 5753,
+        "end": 6491
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_5/20140401",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Dans le chef des contribuables visés à l'article 3 qui, durant une partie de l'année ont eu leur domicile fiscal ou leur séjour habituel au Grand-Duché, la régularisation des retenues a lieu sur la base d'un seul décompte portant sur l'ensemble des salaires et pensions de l'année d'imposition.",
+      "text_sha256": "378ff9cc96b9ae1987dc427c43f67f2d81cf8281771f2dc14b1836af7f268fcf",
+      "md_span": {
+        "start": 6526,
+        "end": 6820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_6/20220101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "**(1)** Sont englobés dans le décompte annuel et participent à la formation du revenu annuel tous les salaires et pensions qui, lorsqu'il s'agit de rémunérations ordinaires, ont été alloués au titre des périodes de paie ou de pension appartenant à l'année d'imposition ou qui, lorsqu'il s'agit de rémunérations non périodiques, ont été alloués au cours de l'année d'imposition, les rémunérations supplémentaires visées à la section 3 du règlement grand-ducal relatif à la détermination de la retenue d'impôt étant mises en compte dans les mêmes conditions, selon qu'elles sont ou ne sont pas allouées au titre d'une période de paie ou de pension.\n\n**(2)** Ne sont pas englobées dans le décompte annuel, les rémunérations imposées forfaitairement conformément aux dispositions des règlements prévus par l’article 137, alinéas 3, 4, 5 et 5a de la loi. Par dérogation à la phrase qui précède, les revenus imposés forfaitairement en vertu des dispositions de l’article 137, alinéas 5 et 5a de la loi sont englobés dans le décompte annuel sur demande du contribuable. Si le contribuable demande la régularisation de l’impôt conformément à la phrase qui précède, le décompte annuel englobera l’intégralité des revenus imposés forfaitairement du contribuable, ainsi que ceux du conjoint ou partenaire imposable collectivement avec lui, et se fera d’après le régime prévu par les dispositions du présent règlement.",
+      "text_sha256": "2c430a6b3e02d75f4853a1e276fb9dedbfbe41f60eb9949c6b4c35c0e7150362",
+      "md_span": {
+        "start": 6855,
+        "end": 8261
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_7/20170101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "**(1)** Par revenu annuel, on entend la somme des salaires et pensions bruts englobés dans le décompte annuel conformément à l'article 6, diminuée des déductions énumérées à l'alinéa 2.\n\n**(2)** Les déductions suivantes entrent en ligne de compte, dans la mesure où elles sont permises au profit du salarié ou du pensionné par une disposition légale ou réglementaire:\n\n1. les prélèvements et cotisations versées en raison de l'affiliation obligatoire des salariés au titre de l'assurance maladie et de l'assurance pension, ainsi que les cotisations payées à titre obligatoire par des salariés à un régime étranger visé par un instrument bi- ou multilatéral de sécurité sociale,\n2. loi du 8 juin 1999\n3. loi\n4. 1. des cotisations de sécurité sociale légalement obligatoires qui ne peuvent être prises en considération au titre de la disposition du n° 2 ci-dessus (code DS),\n2. des frais de déplacement (code FD),\n3. des frais d'obtention autres que frais de déplacement, dans la mesure où ils dépassent le minimum forfaitaire afférent (code FO),\n4. des autres dépenses spéciales, dans la mesure où elles dépassent le minimum forfaitaire déductible à ce titre (code DS),\n5. un abattement pour charges extraordinaires (code CE),\n6. un abattement pour mobilité durable (code AMD),\n5. la déduction complémentaire prévue à l'article 8,\n6. loi\n7. loi\n8. loi\n\n**(3)** Lorsque des revenus extraordinaires au sens de l'article 132 de la loi sont compris dans le décompte annuel, il est procédé à la détermination séparée des parties ordinaire et extraordinaire du revenu annuel. Les déductions énumérées aux numéros 1 à 3 de l'alinéa 2 sont imputées sur les revenus auxquels elles se rapportent, de même que celles visées aux numéros 6 et 8, si un rapport existe. Les déductions des numéros 4, 5 et 7 et, à défaut de rapport, celles des numéros 6 et 8 sont déduites par priorité de la partie ordinaire.",
+      "text_sha256": "f13eb214d8b776c299e36f4423276320049088b0b85bfe13b55a9b542f9f3c07",
+      "md_span": {
+        "start": 8296,
+        "end": 10188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_8/20140401",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Les excédents de frais de déplacement, de frais d'obtention autres que frais de déplacement et de dépenses spéciales ainsi que les charges extraordinaires qui, en cours d'année n'ont pas été inscrits en déduction sur la fiche de retenue donnent lieu à une déduction complémentaire lors de la détermination du revenu annuel à condition que la demande soit formulée auprès du bureau compétent et dans les délais prévus par l'article 16.",
+      "text_sha256": "fa07a358a58c4c30f3f525b971fb4f990ce864866e72b9fa51968b76226ba4b4",
+      "md_span": {
+        "start": 10223,
+        "end": 10657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_9/20240101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** L'impôt annuel est égal au terme a) ou b) ci-dessous, augmenté du terme sub c):\n\n1. l'impôt qui, dans les cas visés à l'article 3, alinéas 1 et 3, correspond selon les dispositions de l'article 10 ou de l'article 11, à la partie ordinaire du revenu annuel,\n2. bis\n3. l'impôt relatif à la partie extraordinaire du revenu annuel et déterminé selon les prescriptions de l'article 12.\n\n**(2)** La détermination distincte de l'impôt d'après la partie ordinaire et la partie extraordinaire du revenu annuel, telle qu'elle est prévue par l'alinéa 1, n'est applicable que si l'impôt annuel en résultant est inférieur à celui qui résulterait d'une imposition de l'ensemble du revenu annuel selon les articles 10, 11 ou 11*bis*.\n\n**(3)** L’expression « impôt annuel » au sens du présent règlement ne comprend ni les crédits d’impôt pour salariés et pour pensionnés visés respectivement aux articles 154*quater* et 154*quinquies* de la loi, ni le crédit d’impôt monoparental de l’article 14, ni le crédit d’heures supplémentaires de l’article 14*bis*. En vue de la détermination de l’excédent des retenues remboursables d’après les dispositions de l’article 2, alinéa 2, les montants suivants sont imputés sur l’impôt annuel dans le cadre d’un décompte annuel opéré par l’administration :\n\n1. dans la limite de l’impôt dû, des modérations et bonifications d’impôt pour enfants de l’article 13 ;\n2. quater quinquies loi\n3. bis",
+      "text_sha256": "9c735cc11e9e23d8d2027a7afac4de7dbefd0de85e94a299a9a13047f01c4f94",
+      "md_span": {
+        "start": 10692,
+        "end": 12114
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_10/20140401",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Pour l'exécution du présent règlement, l'impôt est déterminé conformément aux dispositions tarifaires à la base de l'article 118 de la loi.\n\n**(2)** Il est tenu compte de la classe d'impôt qui, selon les prescriptions du règlement grand-ducal portant exécution de l'article 140 de la loi, est valable au 1er janvier de l'année d'imposition pour la retenue d'impôt. Toutefois, lorsque, en cours d'année, un changement de la classe d'impôt est intervenu, la classe d'impôt à retenir est celle qui se dégage de l'article 4 du règlement grand-ducal d'exécution visé à la phrase qui précède.",
+      "text_sha256": "4549cd43495912cc64038b4f4cbeec33895c9e482b24a935ed39f9103ddc61c5",
+      "md_span": {
+        "start": 12151,
+        "end": 12745
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_11/20140401",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Le salarié ou le pensionné visé à l'article 3, alinéa 3, obtient sur demande une régularisation des retenues d'impôt en vue de l'octroi d'une déduction complémentaire au sens de l'article 8 ou de l'octroi des modérations ou bonifications d'impôt pour enfants au sens de l'article 13.",
+      "text_sha256": "8ed1278bc0e86ad8d70bd52969c30c7d9a79a09bd11efc60b0734a62f106f30b",
+      "md_span": {
+        "start": 12782,
+        "end": 13065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_11bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_11bis/20140401",
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Les salariés ou pensionnés visés à l'article 3, alinéa 2, obtiennent sur demande une régularisation des retenues d'impôt conformément au principe de l'article 2, sous réserve toutefois que les salaires indigènes et les revenus étrangers sont incorporés dans une base imposable fictive pour déterminer le taux d'impôt global qui est applicable au revenu soumis au décompte annuel.\n\n**(2)** La détermination du taux d'impôt global visé à l'alinéa 1 se fait par application de la classe d'impôt revenant aux contribuables conformément à l'article 10, alinéa 2, et, le cas échéant, par imputation des modérations et bonifications d'impôt pour enfants conformément à l'article 13. En ce qui concerne les salaires étrangers, les déductions et exemptions prévues à l'article 7 sont applicables.\n\n**(3)** En vue de l'application du présent article, le contribuable est tenu de justifier les rémunérations brutes et les prestations et autres avantages semblables en tenant lieu par des documents probants.",
+      "text_sha256": "64e4aaa1f6c55a282b033d754344f3edcd71edc24ffacaf9e9f2caa0ef0781c3",
+      "md_span": {
+        "start": 13108,
+        "end": 14112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_12/20140401",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Lorsque le revenu annuel comprend des revenus extraordinaires d'un montant total supérieur à 250 euros, l'impôt relatif à la partie extraordinaire du revenu annuel est déterminé par application des règles ci-après:\n\n1. loi\n2. loi\n\n**(2)** En cas d'application de l'article 11, il est fait état à l'égard de chaque revenu extraordinaire alloué de la classe d'impôt valable pour le mois de l'attribution.",
+      "text_sha256": "bcfe9a1f2d0398196a8dabc8d1190bc97839dd1a92915336f3090397483f7f7d",
+      "md_span": {
+        "start": 14149,
+        "end": 14559
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_13/20140401",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Si un boni pour enfant n'a pas été attribué pour un enfant ouvrant droit à une modération d'impôt, le salarié ou le pensionné qui a droit, pour le même enfant, à la modération d'impôt pour enfant visé à l'article 122, alinéa 3 de la loi, obtient cette modération sur demande dans le cadre du décompte annuel. Les modérations sont accordées sous forme d'un dégrèvement d'impôt qui est imputé, dans la limite de l'impôt dû, sur le montant de l'impôt dû.\n\n**(2)** Le salarié ou le pensionné obtient sur demande une bonification d'impôt pour enfant conformément à l'article 123*bis* de la loi. Les bonifications d'impôt pour enfants établies en vertu de l'article 123*bis* sont imputées, dans la limite de l'impôt dû, sur le montant de l'impôt dû.",
+      "text_sha256": "4619a03ffc5cf27c2636a46e6b1df5ea0c63cb0ee282d1cb7b4b2c33a14b1432",
+      "md_span": {
+        "start": 14596,
+        "end": 15347
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_14/20140401",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Le salarié ou le pensionné résident, non marié, visé à l'article 119, numéro 2, lettre b) de la loi, obtient sur demande d'après les dispositions et dans les conditions de l'article 154*ter*, un crédit d'impôt monoparental.\n\n**(2)** Le crédit d'impôt monoparental est imputé sur l'impôt annuel correspondant au revenu annuel passible de retenue, dans la mesure où il n'a pas été bonifié, au cours de l'année d'imposition, au salarié ou au pensionné par l'employeur ou la caisse de pension. Si l'impôt annuel, diminué, le cas échéant, par l'imputation, suivant l'article 9, alinéa 3, des modérations et bonifications d'impôt pour enfants visées à l'article 13, est inférieur au montant total ou partiel du crédit d'impôt monoparental, tel qu'il résulte de la phrase qui précède, l'excédent du crédit d'impôt monoparental est restitué au salarié ou au pensionné.\n\n**(3)** Si un crédit d'impôt monoparental a été bonifié en cours d'année à une personne qui n'y a pas droit, le crédit d'impôt non dû est ajouté à l'impôt annuel, tel que défini à l'article 9, alinéa 1.",
+      "text_sha256": "1260dbe0f5862416536f0ca493d8d42a9a87e453525afcacc64cbdd7c81e06a6",
+      "md_span": {
+        "start": 15384,
+        "end": 16456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14bis",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_14bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_14bis/20240101",
+      "type": "article",
+      "num": "Art. 14bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Le salarié obtient sur demande d’après les dispositions et dans les conditions de l’article 154*terdecies*, un crédit d’impôt heures supplémentaires.\n\n**(2)** Le crédit d’impôt heures supplémentaires est imputé sur l’impôt annuel correspondant au revenu annuel passible de retenue. Si l’impôt annuel, diminué, le cas échéant, par l’imputation, suivant l’article 9, alinéa 3, des modérations et bonifications d’impôt pour enfants visées à l’article 13, et du crédit d’impôt monoparental visé à l’article 14, est inférieur au montant total du crédit d’impôt heures supplémentaires, l’excédent du crédit d’impôt heures supplémentaires est restitué au salarié.",
+      "text_sha256": "b8729ac1f883b1936eb753c0dfa46ba49d3549f0672793d6cf281c73b2005741",
+      "md_span": {
+        "start": 16499,
+        "end": 17163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_15/20170101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "**(1)** L'administration est en charge du décompte annuel relatif aux salariés et pensionnés visés à l'article 2, alinéa 1.\n\n**(2)** L'administration est également chargée du décompte annuel en cas de circonstances particulières à apprécier par elle, notamment en cas d'excès de retenue d'impôt.\n\n**(3)** L'administration est chargée du décompte annuel dans tous les cas où des conjoints visés à l'article 3, alinéa 3 renoncent à l'imposition collective et optent pour une imposition individuelle et ne sont pas passibles d'une imposition par voie d'assiette.",
+      "text_sha256": "8fc44cbdf2e34ee181b3357e6d27d9da217655d34ef85a7aac00a554e0488004",
+      "md_span": {
+        "start": 17200,
+        "end": 17759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_16/20240101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Dans les cas visés à l'article 15, l'administration procède au décompte annuel, à condition que l'ayant droit au décompte ne soit pas passible d'une imposition par voie d'assiette.\n\n**(2)** Lorsque le décompte n'a lieu que sur demande, celle-ci est à déposer au plus tard le 31 décembre de l'année qui suit celle du décompte au bureau de la retenue d'impôt qui serait compétent pour l'établissement des fiches de retenue. Les dispositions du paragraphe 86 de la loi générale des impôts sont applicables en cas de dépassement du délai précité. En cas d'interruption du travail ou de chômage, un certificat documentant cette interruption peut être requis.\n\n**(3)** Les résultats du décompte annuel sont communiqués au salarié ou pensionné.\n\n**(4)** L'excédent de retenues, y compris le cas échéant le crédit monoparental visé à l'article 14 ou le crédit d’impôt heures supplémentaires visé à l’article 14*b**is*, déterminé comme prévu à l'article 2, alinéa 2, est restitué au salarié ou au pensionné ou à son ayant droit s'il s'élève à au moins 10 euros.",
+      "text_sha256": "89203d3103abac8ca08759ff361c85fcb0c9b134e8a094b6aefca0699bed7502",
+      "md_span": {
+        "start": 17796,
+        "end": 18856
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1931/05/22/n1/jo",
+          "text": "loi générale des impôts"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_17/20140401",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "**(1)** Un décompte annuel spécial pouvant donner lieu au recouvrement d'un supplément d'impôt annuel est établi après la fin de l'année d'imposition dans le chef des salariés et pensionnés non imposables par voie d'assiette\n\n1. - bis loi\n- bis loi\n2. qui devraient faire l'objet d'une procédure de fixation de l'impôt par l'administration dans les conditions prévues par l'article 21 du règlement grand-ducal de procédure de la retenue d'impôt sur les salaires et les pensions,\n3. qui sont visés par toute autre disposition d'exécution de la retenue d'impôt sur les salaires et les pensions prévoyant un tel décompte.\n\n**(2)** Pour les salariés et pensionnés qui, aux termes de l'article 3, ont droit au décompte annuel, les résultats du décompte spécial sont censés être ceux du décompte annuel prévu par l'article 145 de la loi. L'administration est également chargée du décompte annuel en cas de circonstances particulières à apprécier par elle, notamment en cas d'insuffisance de retenue d'impôt.\n\n**(3)** Le décompte spécial est établi d'office par l'administration selon les dispositions des articles 2, alinéa 2, et 4 à 13, sauf qu'un supplément d'impôt annuel fait l'objet d'une procédure de recouvrement. Un excédent de retenues n'est restitué qu'aux salariés ou pensionnés visés à l'alinéa 2.\n\n**(4)** Le supplément d'impôt annuel est payable par le salarié ou le pensionné dans le mois de la notification du décompte. Un supplément ne dépassant pas 10 euros n'est pas recouvré.\n\n**(5)** Les résultats du décompte spécial sont communiqués au salarié ou pensionné par un bulletin qui doit contenir:\n\n1. le supplément d'impôt annuel à verser,\n2. les éléments de la détermination du supplément d'impôt annuel,\n3. l'indication des modalités de versement du supplément d'impôt annuel,\n4. une instruction relative aux voies et moyens de recours.",
+      "text_sha256": "5096f33238cdc3996bbd59d1b8cbbbae55991e0d852a9243c0b079533f0598bc",
+      "md_span": {
+        "start": 18893,
+        "end": 20743
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_18/20140401",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Le règlement grand-ducal modifié du 9 mars 1992 portant exécution de l'article 145 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu (décompte annuel) est abrogé à partir de l'année d'imposition 2014.",
+      "text_sha256": "e5338cf188c842b8313c90ab3dc28f25caee7e4b1ebd6a16bbde6f25e6ea4087",
+      "md_span": {
+        "start": 20780,
+        "end": 21001
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1992/03/09/n1",
+          "text": "règlement grand-ducal modifié du 9 mars 1992"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_19/20140401",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Le présent règlement est applicable à partir de l'année d'imposition 2014.",
+      "text_sha256": "5aba36e94cfdad273e92511699e8a0c9e5057f3f0408b46e75d856566a230ac4",
+      "md_span": {
+        "start": 21038,
+        "end": 21112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2014-03-26-n3:2024-01-01--be39fe2bdad9f0df4314b186e90804add39fdb90e5f470e87964fed7a1dc4076#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/art_20/20140401",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-01",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+      "md_span": {
+        "start": 21149,
+        "end": 21252
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

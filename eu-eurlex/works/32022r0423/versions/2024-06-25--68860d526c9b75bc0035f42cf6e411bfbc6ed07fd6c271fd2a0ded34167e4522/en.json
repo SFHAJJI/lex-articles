@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0423:2024-06-25--68860d526c9b75bc0035f42cf6e411bfbc6ed07fd6c271fd2a0ded34167e4522",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/423 of 14\u00A0March 2022 laying down the technical specifications, measures and other requirements for the implementation of the decentralised IT system referred to in Regulation (EU) 2020/1784",
+  "valid_from": "2024-06-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0423/versions/2024-06-25--68860d526c9b75bc0035f42cf6e411bfbc6ed07fd6c271fd2a0ded34167e4522/en.html",
+    "sha256": "9a452fddc99aef95f6a399ea05523dbd6c4a78ee733252ca98b21b62250b131f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R0423-20240625"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0423:2024-06-25--68860d526c9b75bc0035f42cf6e411bfbc6ed07fd6c271fd2a0ded34167e4522#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Technical specifications of the decentralised IT system",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The technical specifications, measures and other requirements for the implementation of the decentralised IT system referred to in Article 25 of Regulation (EU) 2020/1784 shall be as set out in the Annex.",
+      "text_sha256": "10b33e52b4e9e8c9dc4826f0c51024b37bc89314c748bf0ab0c0672b463b95f8",
+      "md_span": {
+        "start": 916,
+        "end": 1120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0423:2024-06-25--68860d526c9b75bc0035f42cf6e411bfbc6ed07fd6c271fd2a0ded34167e4522#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 1176,
+        "end": 1318
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/1755 of 20\u00A0July 2026 on detailed arrangements for the conduct of certain proceedings by the Commission pursuant to Regulation (EU)\u00A02024/1689",
+  "valid_from": "2026-07-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r1755/versions/2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701/en.xml",
+    "sha256": "93f8564657516539ac692fb02d3de91b4dfb42958906c4f5909db39fc384f45f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1755"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down:\n\n| (a) | detailed arrangements and conditions for evaluations of general-purpose AI models, including the detailed arrangements for involving independent experts and the procedure for the selection thereof, pursuant to Article 92 of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (b) | detailed arrangements and procedural safeguards for proceedings in view of the possible adoption of decisions pursuant to Article 101(1) of Regulation (EU) 2024/1689. |\n| --- | --- |",
+      "text_sha256": "e65a2bb21cd5132172eb1295bc627c20db592eb724abc34e1607340b1fbaaf27",
+      "md_span": {
+        "start": 796,
+        "end": 1301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Where the Commission adopts a decision requesting access to a general-purpose AI model pursuant to Article 92(3) of Regulation (EU) 2024/1689, that decision shall specify the technical means, tools, components, and conditions, including the time limit, by which the provider shall provide such access. The decision may also specify minimum technical requirements, including as regards performance, latency and throughput required to conduct the evaluation.\n\n2. The access requested shall be appropriate to the objectives of the evaluation. Such access may include access through application programming interfaces (‘APIs’), internal access, access to source code, access to model weights, access to the infrastructure used for hosting the general-purpose AI model, access to inspect and modify the system state during interaction with the model. Such access may include but is not limited to all levels of access granted to employees of the provider. Providers of general-purpose AI models requested to provide access shall ensure that the access provided is not subject to technical or other constraints that materially impede an appropriate evaluation.\n\n3. The Commission may require the provider to disable any logging measures that could track or record the Commission’s access to the general-purpose AI model, to the extent necessary to ensure the integrity and confidentiality of the evaluation process.\n\n4. Providers of general-purpose AI models requested to provide access pursuant to Article 92(3) of Regulation (EU) 2024/1689 shall provide such access without undue delay and within the time limit established in the decision taken pursuant to paragraph 1, enabling the Commission to access all the elements of the general-purpose AI model concerned which are necessary to achieve the objectives set out in Article 92(1) of Regulation (EU) 2024/1689.",
+      "text_sha256": "659650d615bdc1fc218861a4b2831f69c3582f6a5fc59d4c29d8bf9b83e4de8c",
+      "md_span": {
+        "start": 1334,
+        "end": 3208
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Where the Commission appoints an independent expert to carry out evaluations on its behalf pursuant to Article 92(2) of Regulation (EU) 2024/1689, it shall take into account, for the purposes of assessing the independence of that expert from any provider of AI system or general-purpose AI model in accordance with Article 68(2)(b) of that Regulation, the existence of shared ownership, governance, management, personnel, or resources of the expert concerned, any previous appointment to conduct evaluations on behalf of the Commission, as well as the existence of contractual relationships between the expert and the provider concerned or any other provider over at least the 12 months prior, to the evaluation carried out by the Commission. The appointed expert shall remain independent throughout the period of appointment. Each appointed independent expert shall make a declaration of interest within the meaning of Article 10(3) of Commission Implementing Regulation (EU) 2025/454 (3).\n\n2. To ensure confidentiality of business secrets and other confidential information, experts appointed pursuant to Article 92(2) of Regulation (EU) 2024/1689 shall commit to maintaining the confidentiality, integrity and availability to the Commission of sensitive information to which they receive access as a result of their appointment, in accordance with Article 78 of Regulation (EU) 2024/1689. Before appointing an expert, the Commission shall take into account and assess whether the expert has in place or has access to internal and external information security protocols. The experts shall commit to maintaining appropriate security protocols throughout the duration of their appointment.\n\n3. Expert shall comply with Article 339 of the Treaty on the Functioning of the European Union.\n\n4. Article 78(2) of Regulation (EU) 2024/1689 shall apply mutatis mutandis to independent experts appointed pursuant to Article 92(2) of Regulation (EU) 2024/1689.\n\n5. Providers may submit reasoned observations regarding the independent experts appointed to conduct the evaluation of their model to raise concerns related to the absence of the criteria established in Article 92(2) of Regulation (EU) 2024/1689.\n\n6. The Commission may terminate the appointment of the independent expert when:\n\n| (a) | there has been a material change in the circumstances referred to in paragraph 1 that call into serious doubt the independence of an independent expert; |\n| --- | --- |\n\n| (b) | the expert fails to maintain adequate measures to ensure the confidentiality of business secrets and other confidential information pursuant to paragraph 2; |\n| --- | --- |\n\n| (c) | a provider submitted reasoned observation pursuant to paragraph 4 that manifestly and unequivocally prove the absence of the criteria laid down in Article 92(2) of Regulation (EU) 2024/1689. |\n| --- | --- |",
+      "text_sha256": "e9e96f1482de07b2c3361d102a34c0ddd29499f3645b5d358e149788d5f05f94",
+      "md_span": {
+        "start": 3241,
+        "end": 6112
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_202601755EN.000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The Commission shall appoint independent experts pursuant to Article 92(2) of Regulation (EU) 2024/1689 following a call for expression of interest based on selection criteria laid out in that call. The Commission may establish a standing list of independent experts on the basis of a call for expression of interest. The Commission may select independent experts from that list without a further selection procedure.\n\n2. Notwithstanding paragraph 1, the Commission may appoint independent experts directly where the experts concerned are members of the scientific panel established pursuant to Article 68 of Regulation (EU) 2024/1689.\n\n3. The Commission may also appoint independent experts to conduct evaluations on its behalf following a procedure pursuant to Article 167 of Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council (4).",
+      "text_sha256": "23a6793e414afc8138870b577c39eb6e8cf8f2a396d6289f87913bf29011040b",
+      "md_span": {
+        "start": 6145,
+        "end": 7022
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_202601755EN.000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The Commission may initiate proceedings in view of the possible adoption of decisions pursuant to Article 101(1) of Regulation (EU) 2024/1689 in respect of relevant conduct by providers of general-purpose AI models set out in that Article.\n\n2. Notwithstanding paragraph 1, the Commission may exercise its powers under Section 5 of Chapter IX of Regulation (EU) 2024/1689 before opening proceedings pursuant to that paragraph.\n\n3. Before opening proceedings pursuant to paragraph 1, the Commission may, by decision, order interim measures against a provider of general-purpose AI model on grounds of urgency due to a risk of serious damage to health, safety requirements, or other grounds relating to the public interest covered by Regulation (EU) 2024/1689, including preventing a general-purpose AI model from being made available on the market, based on a prima facie finding of an infringement of that regulation.",
+      "text_sha256": "7c7362dafcd0581db63426165ffc8614e0037510bb5684296f620590e60f7965",
+      "md_span": {
+        "start": 7055,
+        "end": 7985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. If after initiating proceedings pursuant to Article 5, the Commission determines that there are no grounds to adopt a decision pursuant to Article 101(1) of Regulation (EU) 2024/1689, it shall close the proceedings by a decision. If the proceedings were initiated following a complaint lodged by a downstream provider pursuant to Article 89(2) of Regulation (EU) 2024/1689, the Commission shall give the complainant the possibility to express its views prior to adopting a decision closing the proceedings.\n\n2. The closing of proceedings in accordance with paragraph 1 shall not prevent the Commission to reopen the proceedings by decision, including when measures requested pursuant to Article 93(3) of Regulation (EU) 2024/1689 are ineffective or commitments made binding by decision pursuant to Article 93(3) of Regulation (EU) 2024/1689 are not respected, or when the decision referred to in paragraph 1 was based on incomplete, incorrect, or misleading information, or there is a significant change to the systemic risks posed by the general-purpose AI model concerned at Union level.",
+      "text_sha256": "5c347d5858e28e0920b58a1f4ea28a8743a7116771807bc94f3418b6bb02911e",
+      "md_span": {
+        "start": 8018,
+        "end": 9121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The provider to which the preliminary findings are addressed pursuant to Article 101(2) of Regulation (EU) 2024/1689 (the ‘addressee’) may, in writing, succinctly, and in accordance with the format and length requirements for documents set out in the Annex, inform the Commission of its observations on those findings and submit evidence in support thereof.\n\n2. The addressee shall send those observations within a time limit set by the Commission that shall be no less than 21 days. The Commission shall not be obliged to take account of information received from the addressee after the expiration of that time limit.\n\n3. Information submitted to the Commission pursuant to paragraph 1 shall be correct, complete and not misleading. It shall be presented in a clear, well-structured and intelligible manner.\n\n4. The written observations referred to in paragraph 1 shall be in one of the official languages of the Union. Supporting documents shall be submitted in their original language and, where their original language is not one of the official languages of the Union, they shall be accompanied by a faithful translation into an official language of the Union.\n\n5. Documents, technical documentation, source code or any other information shall be submitted to the Commission in accordance with Article 14.\n\n6. Information submitted to the Commission pursuant to paragraph 1 shall be accompanied by written proof that the persons submitting that information are authorised to act on behalf of the addressee of the preliminary findings concerned.\n\n7. The Commission shall acknowledge, without delay and in writing, to the addressee of the preliminary findings concerned or to its representatives the receipt of the information submitted pursuant to paragraph 1.",
+      "text_sha256": "fafb541cdf2c3072a3a67c139db6a5ebd94452c33e2f7e2f90f28ae679269b43",
+      "md_span": {
+        "start": 9154,
+        "end": 10933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Upon request, the Commission shall grant access to the file to the addressee. Access to file shall not be granted before the notification of the preliminary findings pursuant to Article 101(2) of Regulation (EU) 2024/1689.\n\n2. When providing access to the file, the Commission shall provide the addressee with all documents mentioned in the preliminary findings, subject to redactions that have been made pursuant to Article 9 in order to protect business secrets or other confidential information.\n\n3. Without prejudice to paragraph 4, the Commission shall provide access to all documents on its file, without any redactions, under the terms of disclosure to be set out in a Commission decision. The terms of disclosure shall be determined in accordance with the following:\n\n| (a) | Access to documents shall only be granted to a limited number of specified external legal and economic counsel and external technical experts engaged by the addressee and whose names shall be communicated to the Commission in advance. |\n| --- | --- |\n\n| (b) | The specified external legal and economic counsel and external technical experts shall be undertakings, employees of undertakings or in a situation comparable to that of employees of undertakings. All of them shall be bound by the terms of disclosure. |\n| --- | --- |\n\n| (c) | Persons listed as specified external legal and economic counsel and technical experts shall not, at the date of the Commission decision setting out the terms of disclosure, be in an employment relationship with the addressee or in a situation comparable to that of an employee of the addressee. Should the specified external legal or economic counsel or external technical experts subsequently enter into such a relationship with the addressee or with other undertakings active on the same markets as the addressee during the investigation or during the three years following the end of the Commission’s investigation, the specified external legal or economic counsel or external technical expert and the addressee shall promptly inform the Commission about the terms of such relationship. The specified external legal or economic counsel or external technical expert in question shall also provide the Commission with an assurance that they no longer have access to the information or documents on the file to which they were given access according to point (a) and which were not made available to the addressee by the Commission. They shall also provide assurances to the Commission that they will continue to comply with the requirements referred to in point (d) of this paragraph. |\n| --- | --- |\n\n| (d) | Specified external legal and economic counsel and external technical experts shall not disclose any of the documents provided or their content to any natural or legal person that is not a signatory to the terms of disclosure and shall not use any of the documents provided or their content other than for the purposes referred to in Article 8(10). |\n| --- | --- |\n\n| (e) | the Commission shall specify, in the terms of disclosure, the technical means of the disclosure and its duration. Disclosure may be made by electronic means or (for some or all documents) at the Commission’s premises. |\n| --- | --- |\n\n4. In exceptional circumstances, the Commission may decide not to grant access to certain documents, or to grant access to partly redacted documents, under the terms of disclosure referred to in paragraph 3, if it determines that the harm that the party that submitted the documents in question would likely suffer from disclosure under those terms would, on balance, outweigh the importance of the disclosure of the full document for the exercise of the right to be heard.\n\n5. The right of access to the file of the Commission shall not extend to confidential information, correspondence, and internal documents of the Commission, the AI Board, the Advisory Forum, the scientific panel, the competent authorities of the Member States, and other competent authorities. Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement.\n\n6. The specified external legal and economic counsel and external technical experts referred to in paragraph 3 may, within one week of receiving access under the terms of disclosure, make a reasoned request to the Commission for access to a non-confidential version of any document on the Commission’s file not already provided to the addressee under paragraph 2, with a view to making such non-confidential version available to the addressee, or for an extension of the terms of disclosure to additional specified external legal and economic counsel and external technical experts. Such additional access may only be granted exceptionally and provided that it is indispensable for the proper exercise of the addressee’s right to be heard.\n\n7. For the purpose of applying paragraphs 4 to 6, the Commission may require the party that submitted the documents in question to provide a non-confidential version thereof, pursuant to Article 9.\n\n8. Where the Commission considers a request under paragraph 6 to be well-founded in view of ensuring that the addressee is in a position to exercise its right to be heard effectively, the Commission shall request the party that submitted the documents in question either to agree to making a non-confidential version available to the addressee or to agree to the extension of the terms of disclosure to specified individuals or undertakings for the documents in question only.\n\n9. In the event that the party that submitted the documents in question does not agree, the Commission shall adopt a decision setting out the terms of disclosure for the documents concerned.\n\n10. Documents obtained through access to the file provided pursuant to this Article shall only be used for the purposes of the relevant proceedings within which access to those documents was given or of judicial or administrative proceedings concerning the application of Regulation (EU) 2024/1689 that are related to those proceedings.\n\n11. At any time during the procedure, the Commission may instead of or in combination with the method of granting access to file pursuant to paragraph 3 of this Article give access to some or all documents redacted pursuant to Article 9(3) in order to avoid a disproportionate delay or administrative burden.",
+      "text_sha256": "d8a407d42e81aecf291929b202b0203bfeb27dd38f85ad5390cc6676f2161d48",
+      "md_span": {
+        "start": 10966,
+        "end": 17375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Unless otherwise provided for in Regulation (EU) 2024/1689 or Article 8 of this Regulation, documents or other information obtained by the Commission for the purposes of proceedings opened pursuant to Article 5(1) of this Regulation shall not be disclosed or made accessible by the Commission in so far as they contain business secrets or other confidential information of any natural or legal person.\n\n2. The Commission shall inform natural or legal persons who are the originators of documents or other information obtained by the Commission for the purposes of proceedings opened pursuant to Article 5(1) of this Regulation that access to those documents or that information may be granted pursuant to Article 8 of this Regulation. Where those persons have voluntarily supplied those documents or that information to the Commission, they agree that access to those documents and that information may be granted pursuant to Article 8.\n\n3. Without prejudice to paragraph 2, the Commission may require natural or legal persons who are the originators of documents in its file to identify the documents, statements, or parts thereof which they consider to contain business secrets or other confidential information and to identify the natural and legal persons in relation to whom that information is considered to be confidential. The Commission may also set a time limit for the natural or legal persons to identify any part of a Commission decision which in their view contains business secrets or other confidential information.\n\n4. The Commission may set a time limit for natural or legal persons to:\n\n| (a) | substantiate their claims for business secrets and other confidential information for each individual document or part thereof; |\n| --- | --- |\n\n| (b) | provide the Commission with a non-confidential version of the documents in which the business secrets and other confidential information are redacted in a clear and intelligible manner; |\n| --- | --- |\n\n| (c) | provide a concise, non-confidential description of each piece of redacted information. |\n| --- | --- |\n\n5. If a natural or legal person fails to comply with paragraphs 3 and 4, the Commission may consider that the information concerned does not contain business secrets or other confidential information.\n\n6. If the Commission determines that certain information that is claimed to be confidential by a natural or legal person may be disclosed, either because this information does not constitute a business secret or other confidential information, or because there is an overriding interest in its disclosure, it shall inform the natural or legal person that it intends to disclose such information unless it receives objections within one week. Should the natural or legal person in question object, the Commission may adopt a reasoned decision specifying the date after which the information will be disclosed. This date shall not be less than one week from the date of notification. The decision shall be notified to the natural or legal person concerned.",
+      "text_sha256": "63764b5a03b278a68d89fac7ba6da571615ab73ea7066468b3088e2476d70166",
+      "md_span": {
+        "start": 17408,
+        "end": 20460
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. The Commission may adopt a decision fining a specific provider of general-purpose AI model for conduct listed in Article 101(1) of Regulation (EU) 2024/1689 within five years from the day on which that conduct was carried out by that provider.\n\n2. In the case of continuing or repeated conduct, the five-year period referred to in paragraph 1 shall begin on the day on which the conduct ceases.\n\n3. Any action taken by the Commission for the purpose of its investigation or proceedings in respect of any conduct listed in Article 101(1) of Regulation (EU) 2024/1689 shall interrupt the limitation period for the imposition of fines or periodic penalty payments. Actions which interrupt the running of that period shall include the following:\n\n| (a) | requests for documentation or other information; |\n| --- | --- |\n\n| (b) | requests for access to conduct model evaluations; |\n| --- | --- |\n\n| (c) | invitations to a structured dialogue; |\n| --- | --- |\n\n| (d) | the opening of a proceeding. |\n| --- | --- |\n\n4. Each interruption of the period referred to in paragraph 1 shall start time running afresh. However, the limitation period shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment. That period shall be extended by the time during which limitation is suspended pursuant to paragraph 5.\n\n5. The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice of the European Union.",
+      "text_sha256": "b003b6a9c5511406956e1e82788760b079210baef14077ae26f1364e4bc9956b",
+      "md_span": {
+        "start": 20495,
+        "end": 22166
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The power of the Commission to enforce decisions adopted pursuant to Article 101(1) of Regulation (EU) 2024/1689 shall be subject to a limitation period of five years.\n\n2. The time shall begin to run on the day on which the decision adopted pursuant to Article 101(1) of Regulation (EU) 2024/1689 becomes final.\n\n3. The period referred to in paragraph 1 shall be interrupted:\n\n| (a) | by notification of a decision varying the original amount of the fine or periodic penalty payment or refusing an application for variation; |\n| --- | --- |\n\n| (b) | by any action of the Commission or of a Member State, acting at the request of the Commission, designed to enforce payment of the fine or periodic penalty payment. |\n| --- | --- |\n\n4. Each interruption of the period referred to in paragraph 1 shall start time running afresh.\n\n5. The limitation period for the enforcement of penalties shall be suspended for as long as:\n\n| (a) | time to pay is allowed; or |\n| --- | --- |\n\n| (b) | enforcement of payment is suspended pursuant to a decision of the Court of Justice of the European Union or pursuant to a decision by a national court. |\n| --- | --- |",
+      "text_sha256": "76e9964366032bcbd7459e27da7608090ce3f379e0c5c6bd0b424fe11f170342",
+      "md_span": {
+        "start": 22201,
+        "end": 23364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Without prejudice to paragraph 2 of this Article, the time limits under Regulation (EU) 2024/1689 and this Regulation shall be calculated in accordance with Regulation (EEC, Euratom) No 1182/71.\n\n2. By way of derogation from paragraph 1 of this Article, time periods shall begin running on the working day following the event to which the relevant provision of Regulation (EU) 2024/1689 or this Regulation refers.",
+      "text_sha256": "950994a94b20726af65a13d264c3762b9a853335c825339610d6387e099dbfc8",
+      "md_span": {
+        "start": 23399,
+        "end": 23827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Where the Commission sets a time-limit under Regulation (EU) 2024/1689 or this Regulation, it shall have due regard to all relevant elements of fact and law and all the interests concerned, in particular the possibility for natural or legal persons to exercise their right to be heard and the expediency of the proceedings or the investigation.\n\n2. Where appropriate and upon a reasoned request by the provider concerned before the expiry of the time-limit set by the Commission, the time limit may be extended. In deciding whether to grant such extension, the Commission shall assess whether the reasoned request is sufficiently substantiated and whether the requested extension is liable to have negative effects on the investigations or proceedings.",
+      "text_sha256": "d3c5518810af927bad6ea6545d8af52a8da1779c2e0b4196dd3045cbfcbe552c",
+      "md_span": {
+        "start": 23862,
+        "end": 24629
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Transmission of documents or any other information to and from the Commission shall take place by digital means. Technical specifications regarding the means of transmission and signature may be issued or published and regularly updated by the Commission.\n\n2. Documents transmitted by digital means shall be signed using at least one Qualified Electronic Signature complying with the requirements set out in Regulation (EU) 910/2014 of the European Parliament and of the Council (5).\n\n3. Documents transmitted to the Commission by digital means shall be deemed to have been received on the day when an acknowledgment of receipt is sent by the Commission.\n\n4. For real or near real-time information shared through APIs or any other equivalent means the Commission shall define the methods and duration of such sharing of information. Prior to defining the methods and duration the Commission may invite the provider to propose other methods of real-time information sharing.\n\n5. Documents and any other information transmitted to the Commission by digital means shall be deemed not to have been received if one of the following circumstances occurs:\n\n| (a) | the document or parts thereof is inoperable or unusable; |\n| --- | --- |\n\n| (b) | the document contains viruses, malware or other threats; |\n| --- | --- |\n\n| (c) | the document contains an electronic signature the validity of which cannot be verified by the Commission. |\n| --- | --- |\n\n6. The Commission shall inform the sender without undue delay if one of the circumstances referred to in paragraph 5 occurs and give it the possibility to express its views and rectify the situation within a reasonable time limit.\n\n7. By way of derogation from paragraph 1, under exceptional circumstances which make transmission by digital means impossible or exceedingly difficult, documents may be transmitted to the Commission by registered mail. Those documents shall be deemed to have been received by the Commission on the day of their delivery at the address of the responsible Commission service as published by the Commission on its website.\n\n8. By way of derogation from paragraphs 1 and 7, under exceptional circumstances which make transmission by digital means and registered mail impossible or exceedingly difficult, documents may be transmitted to the Commission by means of hand delivery. Those documents shall be deemed to have been received on the day of their delivery at the address of the responsible Commission service as published by the Commission on its website. The delivery shall be confirmed in an acknowledgement of receipt by the Commission.",
+      "text_sha256": "3aaa3c9b3abe239d6305d0195bed786ce8e7d126e17279426ed8eaf6a06d7247",
+      "md_span": {
+        "start": 24664,
+        "end": 27296
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_202601755EN.000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32026r1755:2026-07-20--9364db9ece9c1cf910b915559e98ca186c38497e4bf9f90caae72bf36f18b701#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "9b2fc24a7d5ed6df83b023aa8859c44619693e46af63130f27517d820dfa2c16",
+      "md_span": {
+        "start": 27331,
+        "end": 27483
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

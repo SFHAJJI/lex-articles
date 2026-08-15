@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r1650:2023-08-15--5674a5bf82eeaff7553ee4eb80aec81e86b49253b7dcc39466fbc49403e3f4f2",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/1650 of 15\u00A0May 2023 correcting the Swedish language version of Delegated Regulation (EU)\u00A02018/389 supplementing Directive (EU)\u00A02015/2366",
+  "valid_from": "2023-08-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r1650/versions/2023-08-15--5674a5bf82eeaff7553ee4eb80aec81e86b49253b7dcc39466fbc49403e3f4f2/en.xml",
+    "sha256": "a3efa790e792c8dfc81dea7baee528ab0b9e2a443d944303d67652f8679091fb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1650"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r1650:2023-08-15--5674a5bf82eeaff7553ee4eb80aec81e86b49253b7dcc39466fbc49403e3f4f2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n(Does not concern the English language.)",
+      "text_sha256": "1806085ab2270db4ed19300fd76750df550f893db63199f91dad4338802319b0",
+      "md_span": {
+        "start": 789,
+        "end": 840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r1650:2023-08-15--5674a5bf82eeaff7553ee4eb80aec81e86b49253b7dcc39466fbc49403e3f4f2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 873,
+        "end": 1024
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/1018 of 29 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2022-12-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1018/versions/2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13/fr.html",
+    "sha256": "276798e73ebfdd1d226111e984ca4887aafad17bcbe51cc527447ebf197c21b2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R1018-20221229"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Champ d'application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement s'applique aux entreprises d'investissement et aux opérateurs de marché exploitant un système multilatéral de négociation (ci-après «MTF») ou un système organisé de négociation («OTF»).\n\n**2.** Le présent règlement s'applique également aux établissements de crédit agréés en vertu de la directive 2013/36/UE du Parlement européen et du Conseil (1), qui fournissent un ou plusieurs services d'investissement ou exercent des activités d'investissement, et qui souhaitent recourir à des agents liés dans le cadre des droits suivants:a) le droit à la libre prestation de services et d'activités d'investissement conformément à l'article 34, paragraphe 5, de la directive 2014/65/UE;b) le droit d'établissement conformément à l'article 35, paragraphe 7, de la directive 2014/65/UE.",
+      "text_sha256": "74da6ac5235042317cece6ee6f5c41b14e8036e76d50eded4174c5da4140085d",
+      "md_span": {
+        "start": 755,
+        "end": 1559
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\na) «notification relative à l'exercice de la libre prestation de services et d'activités d'investissement», une notification effectuée en application de l'article 34, paragraphe 2 ou 5, de la directive 2014/65/UE;\n\nb) «notification relative à l'exercice du droit d'établissement d'une succursale» ou «notification relative à l'exercice du droit de recours à un agent lié», une notification effectuée en application de l'article 35, paragraphe 2 ou 7, de la directive 2014/65/UE;\n\nc) «notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou un OTF», une notification effectuée en application de l'article 34, paragraphe 7, de la directive 2014/65/UE;\n\nd) «notification relative à l'exercice de la libre prestation de services ou du droit d'établissement», une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement, une notification relative à l'exercice du droit d'établissement d'une succursale, une notification relative à l'exercice du droit de recours à un agent lié, ou une notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou un OTF.",
+      "text_sha256": "222f677ca7855a9657b487de7d89f03510608fa029579904ec07f41efc0e8da5",
+      "md_span": {
+        "start": 1610,
+        "end": 2824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Informations à inclure dans une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les entreprises d'investissement veillent à ce que toute notification relative à l'exercice de la libre prestation de services et d'activités d'investissement effectuée en application de l'article 34, paragraphe 2, de la directive 2014/65/UE contienne les informations suivantes:a) le nom, l'adresse et les coordonnées de l'entreprise d'investissement ainsi que le nom d'une personne de contact dans cette entreprise;b) un programme opérationnel incluant les éléments suivants:i) des renseignements précis sur les divers services et activités d'investissements et services auxiliaires qui seront fournis dans l'État membre d'accueil et les instruments financiers qui seront utilisés; etii) la confirmation que l'entreprise d'investissement entend ou n'entend pas recourir à des agents liés établis dans son État membre d'origine pour fournir des services dans l'État membre d'accueil et, le cas échéant, le nom, l'adresse et les coordonnées de ces agents liés ainsi que les services ou activités d'investissement, les services auxiliaires et les instruments financiers qu'ils fourniront.\n\n**2.** Les établissements de crédit visés à l'article 1er, paragraphe 2, point a), qui effectuent une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement en application de l'article 34, paragraphe 5, de la directive 2014/65/UE veillent à ce que cette notification contienne les informations visées au paragraphe 1, point a) et point b) ii).",
+      "text_sha256": "b140750854f781986de659daafd61a2fbf8e13d9d78b3d8587c0e194e00a7a62",
+      "md_span": {
+        "start": 2997,
+        "end": 4483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Informations à notifier en cas de modification des renseignements relatifs aux services et activités d'investissement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les entreprises d'investissement et les établissements de crédit visés à l'article 1er, paragraphe 2, point a), veillent à ce que toute notification de modification des renseignements effectuée en application de l'article 34, paragraphe 4, de la directive 2014/65/UE contienne des précisions sur tout changement concernant l'une quelconque des informations contenues dans la notification initiale relative à l'exercice de la libre prestation de services et d'activités d'investissement.",
+      "text_sha256": "3291e6890b49a2466f9929ad63759250b5bf0863632cd6d6c2abf2c2e5e427b9",
+      "md_span": {
+        "start": 4640,
+        "end": 5126
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Informations à notifier concernant les dispositifs visant à faciliter l'accès à un MTF ou un OTF",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les entreprises d'investissement et les opérateurs de marché qui effectuent, en application de l'article 34, paragraphe 7, de la directive 2014/65/UE, une notification relative aux dispositifs visant à faciliter l'accès à un MTF ou un OTF veillent à ce que cette notification contienne les informations suivantes:\n\na) le nom, l'adresse et les coordonnées de l'entreprise d'investissement ou de l'opérateur de marché, ainsi que le nom d'une personne de contact dans cette entreprise ou cet opérateur;\n\nb) une brève description des dispositifs et la date à partir de laquelle ils seront disponibles dans l'État membre d'accueil;\n\nc) une brève description du modèle économique du MTF ou de l'OTF, y compris le type d'instruments financiers négociés, le type de participants et l'approche marketing utilisée pour cibler les utilisateurs, membres ou participants à distance.",
+      "text_sha256": "c152b45eced0064329c3700983cefd214398b0629ae2e7413c6d9da0d021d163",
+      "md_span": {
+        "start": 5262,
+        "end": 6131
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R1018R%2802%29",
+          "text": "32017R1018R(02): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R1018",
+          "text": "32017R1018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Informations à inclure dans une notification relative à l'exercice du droit d'établissement d'une succursale ou dans une notification relative à l'exercice du droit de recours à un agent lié",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les entreprises d'investissement et les établissements de crédit visés à l'article 1er, paragraphe 2, point b), veillent à ce que toute notification relative à l'exercice du droit d'établissement d'une succursale ou du droit de recours à un agent lié, effectuée en application de l'article 35, paragraphe 2 ou 7, de la directive 2014/65/UE, selon le cas, contienne les informations suivantes:a) le nom, l'adresse et les coordonnées de l'entreprise d'investissement ou de l'établissement de crédit dans l'État membre d'origine, ainsi que le nom d'une personne de contact dans cette entreprise ou cet établissement;b) le nom, l'adresse et les coordonnées, dans l'État membre d'accueil, de la succursale ou de l'agent lié auprès desquels des documents peuvent être obtenus;c) le nom des personnes chargées de la gestion de la succursale ou de l'agent lié;d) une indication de l'emplacement, électronique ou autre, du registre public dans lequel l'agent lié est inscrit; ete) un programme opérationnel.\n\n**2.** Le programme opérationnel visé au paragraphe 1, point e), renferme les informations suivantes:a) une liste des services et activités d'investissement, des services auxiliaires et des instruments financiers qui seront fournis;b) un aperçu de la manière dont la succursale ou l'agent lié contribuera à la stratégie de l'entreprise d'investissement, de l'établissement de crédit ou du groupe, en précisant si l'entreprise d'investissement est membre d'un groupe et quelles seront les principales fonctions de la succursale ou de l'agent lié;c) une description du type de clients ou de contreparties avec lesquels traitera la succursale ou l'agent lié, ainsi que de la manière dont l'entreprise d'investissement ou l'établissement de crédit se procurera cette clientèle et ces contreparties et traitera avec elles;d) les informations ci-après concernant la structure organisationnelle de la succursale ou de l'agent lié:i) son organigramme fonctionnel, géographique et juridique si une structure managériale matricielle est employée;ii) une description de la façon dont la succursale ou l'agent lié s'insère dans la structure organisationnelle de l'entreprise d'investissement ou de l'établissement de crédit, ou du groupe si l'entreprise d'investissement ou l'établissement de crédit est membre d'un groupe;iii) les règles régissant la communication d'informations par la succursale ou l'agent lié au siège social;e) des informations détaillées concernant les personnes qui exercent des fonctions clés au sein de la succursale ou de l'agent lié, notamment celles qui sont responsables des opérations d'exploitation de la succursale ou de l'agent lié, du respect des règles et du traitement des plaintes;f) le détail de tout accord d'externalisation d'importance vitale pour les opérations de la succursale ou de l'agent lié;g) un récapitulatif des systèmes et des contrôles qui seront mis en place, incluant notamment:i) les dispositifs mis en place pour protéger les fonds et les actifs des clients;ii) les dispositions prises pour assurer le respect des règles de conduite des affaires et des autres obligations relevant de la responsabilité de l'autorité compétente de l'État membre d'accueil, conformément à l'article 35, paragraphe 8, de la directive 2014/65/UE, ainsi que de l'exigence relative à la conservation d'enregistrements, conformément à l'article 16, paragraphe 6, de ladite directive;iii) les modalités internes de contrôle du personnel, incluant un contrôle des opérations effectuées pour compte propre;iv) les dispositions prises pour se conformer aux obligations en matière de lutte contre le blanchiment de capitaux;v) une description des contrôles exercés sur les accords d'externalisation et autres passés avec des tiers en rapport avec les services ou activités d'investissement fournis par la succursale ou l'agent lié;vi) le nom, l'adresse et les coordonnées du système accrédité d'indemnisation des investisseurs auquel l'entreprise d'investissement ou l'établissement de crédit est affilié;h) des prévisions concernant à la fois le compte de résultat et les flux de trésorerie, sur une période initiale de trente-six mois.\n\n**3.** Lorsqu'une succursale est établie dans un État membre d'accueil et entend recourir à des agents liés sur le territoire de cet État, conformément à l'article 35, paragraphe 2, point c), de la directive 2014/65/UE, le programme opérationnel visé au paragraphe 1, point e), comporte également des informations concernant l'identité, l'adresse et les coordonnées de chacun de ces agents liés.",
+      "text_sha256": "76fb4349c0a39499b14176d395fd89512d878ac732da8ea20a6916e22dececf3",
+      "md_span": {
+        "start": 6361,
+        "end": 10919
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Informations à notifier en cas de modification des renseignements relatifs aux succursales ou aux agents liés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les entreprises d'investissement et les établissements de crédit visés à l'article 1er, paragraphe 2, point b), veillent à ce que toute notification de modification de renseignements effectuée en application de l'article 35, paragraphe 10, de la directive 2014/65/UE contienne des précisions sur tout changement concernant l'une quelconque des informations contenues dans la notification initiale relative à l'exercice du droit d'établissement d'une succursale ou du droit de recours à un agent lié.\n\n**2.** Les entreprises d'investissement et les établissements de crédit visés à l'article 1er, paragraphe 2, point b), veillent à ce que toute modification des renseignements contenus dans la notification relative à l'exercice du droit d'établissement d'une succursale ou du droit de recours à un agent lié qui est liée à la cessation de l'exploitation de la succursale ou du recours à l'agent lié contienne les informations suivantes:a) le nom de la personne ou des personnes qui seront responsables du processus de cessation de l'exploitation de la succursale ou du recours à l'agent lié;b) le calendrier du processus envisagé;c) une description détaillée des modalités proposées de cessation des opérations, y compris de la manière dont les intérêts des clients seront protégés, les plaintes traitées et les engagements restants acquittés.",
+      "text_sha256": "dec9960c0b7932cb71bc18ea501b4185a898a7e2e04e5c1eeaba8e24094beca5",
+      "md_span": {
+        "start": 11068,
+        "end": 12418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r1018:2022-12-29--dc8ad414f230b8651101b86f3106412062dfe5388beb899f8440104e9c091e13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entrée en vigueur et application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl s'applique à compter de la première date indiquée à l'article 93, paragraphe 1, deuxième alinéa, de la directive 2014/65/UE.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.\n\n(1) Directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE (JO L 176 du 27.6.2013, p. 338).",
+      "text_sha256": "6e28dd1e01fa4d8dc1fb62d0fea01bc1c2602d0b1f28d851678adac2fb9122fe",
+      "md_span": {
+        "start": 12490,
+        "end": 13218
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

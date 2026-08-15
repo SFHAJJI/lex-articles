@@ -1,0 +1,135 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 2 septembre 2015 fixant les modalités de délivrance et de tenue du carnet numérique de travail de l'intermittent du spectacle.",
+  "valid_from": "2023-08-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-09-02-n7/versions/2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a/fr.xml",
+    "sha256": "103c04d9803ec157c2a28d7b8e2da0a099c7fec5a9c9ac83242968af6021bcba",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/consolide/20230825/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_1er/20230825",
+      "type": "article",
+      "num": "Art 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-25",
+      "text_md": "Pour l’obtention d’un carnet numérique de travail de l’intermittent du spectacle, une demande écrite doit être adressée au ministre ayant la Culture dans ses attributions. Cette demande doit indiquer les nom, prénom(s), la date et le lieu de naissance ainsi que l’adresse du requérant. Elle renseigne en outre sur la nature des activités professionnelles du requérant. Elle est accompagnée d’une copie du contrat de travail à durée déterminée ou du contrat d’entreprise le plus récent conclu soit avec une entreprise ou un organisateur du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale, soit dans le cadre d’une production de spectacle vivant.",
+      "text_sha256": "3db7e913122933a68281679c2dcc52de325a18d3baedd24a291adec82d840765",
+      "md_span": {
+        "start": 752,
+        "end": 1441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_2/20230825",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-25",
+      "text_md": "Le ministre ayant dans ses attributions la Culture établit un carnet numérique de travail personnalisé aux intermittents du spectacle qui en font la demande dans les conditions fixées à l’article 1er.",
+      "text_sha256": "b2f9108bfe204ebe11b1148893cc33b29fd7f5f17460730eb8bb0c3b9a5cc8c2",
+      "md_span": {
+        "start": 1476,
+        "end": 1676
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_3/20230825",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-25",
+      "text_md": "Afin d’assurer une tenue utile de son carnet numérique de travail, l’intermittent du spectacle se charge d’y inscrire, d’y faire inscrire ou apposer:\n\n1. le nom ou la raison sociale de l’employeur ou de l’organisateur, son adresse ou son siège social ainsi que l’indication du principal lieu de travail,\n2. la nature des activités exercées auprès de l’employeur ou de l’organisateur,\n3. de prestation artistique de prestation artistique\n4. l’horaire de travail journalier, s’il est fixe, sinon les particularités quant au temps de travail,\n5. le cachet, la signature, respectivement la signature du représentant de l’employeur ou de l’organisateur, ceci avec la date de la cessation des relations de travail.",
+      "text_sha256": "1543933874ae95cec89783f172bc1d045e8af70e8ec1582210f77e71a7c629af",
+      "md_span": {
+        "start": 1711,
+        "end": 2419
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_4/20230825",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-25",
+      "text_md": "Le carnet numérique de travail de l’intermittent du spectacle, tenu d’après les modalités indiquées à l’article 3, peut servir devant qui de droit et notamment devant le ministre ayant la Culture dans ses attributions.",
+      "text_sha256": "50e59e832519d2d8d2907ec930ed6aba90098f151e239eb350595a21175eb9ed",
+      "md_span": {
+        "start": 2454,
+        "end": 2672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_5/20230825",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-25",
+      "text_md": "Le règlement grand-ducal du 21 février 2000 fixant les modalités de délivrance et de tenue du carnet numérique de travail de l’intermittent du spectacle tel que prévu par la loi du 30 juillet 1999 concernant a) le statut de l’artiste professionnel indépendant et l’intermittent du spectacle et b) la promotion de la création artistique est abrogé.",
+      "text_sha256": "8794d840eaa462be988cf607a7f4da578f2c4e3995472f4202d8cffd150b8b27",
+      "md_span": {
+        "start": 2707,
+        "end": 3054
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/02/21/n9",
+          "text": "règlement grand-ducal du 21 février 2000"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/07/30/n1",
+          "text": "loi du 30 juillet 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2015-09-02-n7:2023-08-25--7a7db9839bb6556e24b9698e82ca958c936155151df67c2f1dea392b977fbb8a#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/art_6/20151004",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-10-04",
+      "text_md": "Notre Ministre de la Culture est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "218036f4c8035e4967ebf77a28ad251dc12a7270cfec1cef8b7cf89d9e3f6a3a",
+      "md_span": {
+        "start": 3089,
+        "end": 3194
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

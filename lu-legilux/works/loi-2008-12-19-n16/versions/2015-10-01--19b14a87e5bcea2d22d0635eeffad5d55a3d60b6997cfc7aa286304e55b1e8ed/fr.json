@@ -1,0 +1,333 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2015 : Loi du 19 décembre 2008 portant création de l’Administration des Services médicaux du Secteur public.",
+  "valid_from": "2015-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2008-12-19-n16/versions/2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed/fr.xml",
+    "sha256": "5181280fc41e71f927103396537a8fe451c129bf01692ecaa12fd70c29e32b3b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/consolide/20151001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_1er/20151001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er.** — **Disposition générale**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Il est institué, sous l’autorité du ministre ayant la Fonction publique dans ses attributions, une Administration des Services médicaux du Secteur public, désignée ci-après par «l’administration».\n\nL’administration comprend une Division de la Santé au Travail du Secteur public et une Division de la Médecine de Contrôle du Secteur public.",
+      "text_sha256": "ba1632576d2002a38bb5c12a0c1bdbcc98916cb349a441b47148665a92e21240",
+      "md_span": {
+        "start": 753,
+        "end": 1092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_2/20151001",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **La Division de la Santé au Travail du Secteur public**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La Division de la Santé au Travail du Secteur public est chargée d’effectuer les examens médicaux d’embauche, les examens médicaux périodiques ainsi que les examens médicaux préventifs des fonctionnaires et employés publics, respectivement des candidats à un emploi public.\n\nLes médecins de cette division accomplissent également les missions attribuées au médecin du travail par toute autre disposition légale ou réglementaire applicable aux fonctionnaires et employés publics.\n\nLes conditions et modalités de ces examens médicaux sont fixées par règlement grand-ducal.",
+      "text_sha256": "23f737cfc4dba804b80f9d363d93c6fac6522cfab7ebc2ddd4cfb1c302a1d0de",
+      "md_span": {
+        "start": 1206,
+        "end": 1776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_3/20151001",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **La Division de la Santé au Travail du Secteur public**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La Division de la Santé au Travail du Secteur public est dirigée par un médecin-chef de division qui a sous ses ordres le personnel.",
+      "text_sha256": "3e4766bef5ed67f4ba19dbb82d154172f6d580880a9318d9dedfc3e2fe63df96",
+      "md_span": {
+        "start": 1811,
+        "end": 1943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_4/20151001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **La Division de la Médecine de Contrôle du Secteur public**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La Division de la Médecine de Contrôle du Secteur public est chargée d’effectuer les examens médicaux attribués au médecin de contrôle par les dispositions légales et réglementaires applicables aux fonctionnaires et employés publics.\n\nLes conditions et modalités de ces examens médicaux sont fixées par règlement grand-ducal.",
+      "text_sha256": "decbfee70818dc2d5db2f6c38569c62f6e18c0f037fa87260d99147dfa68a396",
+      "md_span": {
+        "start": 2061,
+        "end": 2386
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_5/20151001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **La Division de la Médecine de Contrôle du Secteur public**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La Division de la Médecine de Contrôle du Secteur public est dirigée par un médecin-chef de division qui a sous ses ordres le personnel.",
+      "text_sha256": "47af0fe3f0786701284a25fc8f80a986c2e5406378adcf250d061ae496fae46e",
+      "md_span": {
+        "start": 2421,
+        "end": 2557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_6/20151001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4.** — **Le cadre de l’Administration des Services médicaux du Secteur public**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Le cadre du personnel comprend des médecins, des médecins dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\n**(2)** Le cadre de l’administration peut être complété par des fonctionnaires-stagiaires, des employés de l’Etat et des ouvriers de l’Etat suivant les besoins de l’administration et dans les limites des crédits budgétaires.\n\n**(3)** Les conditions d’admission au stage, de nomination et d’avancement du personnel de l’administration ainsi que les modalités des examens sont fixées par règlement grand-ducal.",
+      "text_sha256": "9cd234a369f36a975edbc7e10b25977db944b618ff8f085712a4b662677614f0",
+      "md_span": {
+        "start": 2687,
+        "end": 3389
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_7/20151001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifiée comme suit:\n\n1. et psychique physique requises\n2. prévu à l’article 32 de la présente loi\n3. A l’article 16, l’alinéa 2 est supprimé.\n4. A l’article 32, le paragraphe 9 est supprimé.",
+      "text_sha256": "f467ae68a6f7be93f4645c476cfd8addcbb47001aad1c14b75f50eae720bdbc4",
+      "md_span": {
+        "start": 3502,
+        "end": 3784
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_8/20151001",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est modifiée comme suit:\n\nA l’article 2.IV., les termes prévu à l’article 32, paragraphe 9 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont supprimés.",
+      "text_sha256": "5128cd377e87042a08e3e0ef673a01c8a67467223f30de9ad6798e8c76e358a6",
+      "md_span": {
+        "start": 3819,
+        "end": 4096
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1954/05/26/n2/jo",
+          "text": "loi modifiée du 26 mai 1954"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_9/20151001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois est modifiée comme suit:\n\nA l’article 67.IV., les termes prévu à l’article 32, paragraphe 8 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont supprimés.",
+      "text_sha256": "c90b73765bafae74e06c82e89003b677f25273a66b2aeec75d86a14868d4c72f",
+      "md_span": {
+        "start": 4131,
+        "end": 4536
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n10/jo",
+          "text": "loi modifiée du 3 août 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_10/20151001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifiée comme suit:\n\n1. er et psychique physique requises\n2. loi modifiée du 16 avril 1979\n3. loi modifiée du 16 avril 1979\n4. loi modifiée du 16 avril 1979",
+      "text_sha256": "bdc09968ec96888eddc46658f5f3f8eb3eb392878257b1ed595e17e3344f2a58",
+      "md_span": {
+        "start": 4573,
+        "end": 4824
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1985/12/24/n3/jo",
+          "text": "loi modifiée du 24 décembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_11/20151001",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:\n\n1. le médecin-chef de division de l’Administration pénitentiaire le médecin-chef de division de l’Administration des Services médicaux du Secteur public\n2. le Secrétaire général du Conseil économique et social le médecin-chef de division de l’Administration des Services médicaux du Secteur public\n3. Secrétaire général du Conseil économique et social médecin-chef de division de l’Administration des Services médicaux du Secteur public",
+      "text_sha256": "f95cb136b028be642d9a7fba31e6c2f15b9bb10aef358be52f4d479f35f2a671",
+      "md_span": {
+        "start": 4861,
+        "end": 5417
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_12/20151001",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’Etat est modifiée comme suit:\n\nA l’article 1er, alinéa 2, l’énumération des fonctions est complétée comme suit:de médecin-chef de division de l’Administration des Services médicaux du Secteur public».",
+      "text_sha256": "f6340e6a0cd9ea0b1102159a8784709d663c2ae7112516f0b274495440900f57",
+      "md_span": {
+        "start": 5454,
+        "end": 5838
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/12/09/n1/jo",
+          "text": "loi du 9 décembre 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_13/20151001",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** L’employé de l’Etat de la carrière supérieure engagé à partir du 1er décembre 2003 en qualité de médecin de contrôle peut être nommé au grade 17 de la carrière du médecin-chef de division de la Division de la Médecine de Contrôle du Secteur public par dérogation aux conditions normales d’admission au stage, de nomination et d’avancement applicables à cette carrière. Il conserve le même numéro d’échelon de son grade ainsi que son ancienneté de service atteints avant l’entrée en vigueur de la présente loi.\n\n**(2)** L’employée de l’Etat de la carrière supérieure engagée à partir du 1er janvier 2004 en qualité de médecin du travail peut être nommée au grade 17 de la carrière du médecin-chef de division de la Division de la Santé au Travail du Secteur public par dérogation aux conditions normales d’admission au stage, de nomination et d’avancement applicables à cette carrière. Elle conserve le même numéro d’échelon de son grade ainsi que son ancienneté de service atteints avant l’entrée en vigueur de la présente loi.\n\n**(3)** L’employée de l’Etat de la carrière supérieure engagée à partir du 1er mai 2005 en qualité de médecin du travail peut être nommée au grade 15 de la carrière du médecin-chef de service de la Division de la Santé au Travail du Secteur public par dérogation aux conditions normales d’admission au stage et de nomination applicables à cette carrière. Elle conserve le même numéro d’échelon de son grade ainsi que son ancienneté de service atteints avant l’entrée en vigueur de la présente loi.\n\n**(4)** L’employée de l’Etat de la carrière supérieure engagée à partir du 15 mars 2006 en qualité de médecin du travail peut être nommée au grade 15 de la carrière du médecin-chef de service de la Division de la Santé au Travail du Secteur public par dérogation aux conditions normales d’admission au stage et de nomination applicables à cette carrière. Elle conserve le même numéro d’échelon de son grade ainsi que son ancienneté de service atteints avant l’entrée en vigueur de la présente loi.",
+      "text_sha256": "b0be1818da34be571c87a08d5c29d687d88df7f4139f09ea394dd55c9b24cd99",
+      "md_span": {
+        "start": 5875,
+        "end": 7908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2008-12-19-n16:2015-10-01--19b14a87e5bcea2d22d0635eeffad5d55a3d60b6997cfc7aa286304e55b1e8ed#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/art_14/20151001",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Dispositions modificatives, transitoires et finales**"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.",
+      "text_sha256": "0960a9917eb909cf674ddedcc868f99fb24599578138266fb37a8ef6fc05e853",
+      "md_span": {
+        "start": 7945,
+        "end": 8047
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

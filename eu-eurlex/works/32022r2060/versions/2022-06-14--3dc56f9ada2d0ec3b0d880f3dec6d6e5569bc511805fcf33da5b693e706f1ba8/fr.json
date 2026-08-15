@@ -1,0 +1,176 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/2060 of 14\u00A0June 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-06-14",
+  "valid_to": "2025-05-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2060/versions/2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8/fr.xml",
+    "sha256": "96e78d564f0e03ec4c4c3d87d3523df246bf1a4607c817fd1571a7a0a39e4216",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2060"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les facteurs de risque des positions visées à l’article 325 octoquinquagies, paragraphe 1, du règlement (UE) no 575/2013 qui ne font pas partie d’une courbe, d’une surface ou d’un cube sont considérés comme modélisables dès lors que l’un des critères suivants est rempli:\n\n| a) | sur une période d’observation de 12 mois se terminant à la date de déclaration de référence précédente visée à l’article 2, paragraphe 1, point b), du règlement d’exécution (UE) 2021/451 de la Commission (3), les deux conditions suivantes sont remplies:i)l’établissement a relevé, pour ce facteur de risque, l’existence d’au moins 24 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont considérés comme représentatifs de ce facteur de risque conformément à l’article 3 du présent règlement;ii)il n’y a pas eu de période de 90 jours ou plus au cours de laquelle le nombre de prix vérifiables visés au point i) a été inférieur à quatre; |\n| --- | --- |\n| i) | l’établissement a relevé, pour ce facteur de risque, l’existence d’au moins 24 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont considérés comme représentatifs de ce facteur de risque conformément à l’article 3 du présent règlement; |\n| ii) | il n’y a pas eu de période de 90 jours ou plus au cours de laquelle le nombre de prix vérifiables visés au point i) a été inférieur à quatre; |\n\n| b) | sur la période d’observation de 12 mois visée au point a), l’établissement a relevé, pour ce facteur de risque, l’existence d’au moins 100 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont considérés comme représentatifs de ce facteur de risque conformément à l’article 3 du présent règlement. |\n| --- | --- |\n\n2. Un établissement peut remplacer la période de 12 mois visée au paragraphe 1 par une période de 12 mois se terminant au plus tôt un mois avant la date de déclaration de référence précédente visée à l’article 2, paragraphe 1, point b), du règlement d’exécution (UE) 2021/451 (ci-après la «période décalée»), lorsque toutes les conditions suivantes sont remplies:\n\n| a) | l’établissement applique la période décalée de manière cohérente à l’ensemble des facteurs de risque du même type que le facteur de risque concerné; |\n| --- | --- |\n\n| b) | l’établissement applique la période décalée de manière cohérente dans le temps; |\n| --- | --- |\n\n| c) | l’établissement fournit à l’autorité compétente une description détaillée de l’application de la période décalée. |\n| --- | --- |",
+      "text_sha256": "8741030ee37bbb69323a0071f8d8cae7f77daa2be99dc7da5926829063b7a6ee",
+      "md_span": {
+        "start": 721,
+        "end": 3408
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2022276FR.01006001-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Un prix est considéré comme vérifiable dès lors que l’une des conditions suivantes est remplie:\n\n| a) | le prix est obtenu à partir d’une transaction à laquelle l’établissement était partie et qui a été conclue dans des conditions de concurrence normale; |\n| --- | --- |\n\n| b) | le prix est obtenu à partir d’une transaction qui a été conclue par des tiers dans des conditions de concurrence normale et qui satisfait à toutes les conditions énoncées au paragraphe 5; |\n| --- | --- |\n\n| c) | le prix est obtenu à partir de cours acheteur et vendeur concurrentiels réels, proposés de bonne foi et dans des conditions de concurrence normale par l’établissement lui-même ou par des tiers, auxquels l’établissement ou les tiers se sont engagés à exécuter une transaction conformément aux pratiques de négociation et qui remplissent toutes les conditions énoncées au paragraphe 5. |\n| --- | --- |\n\n2. Nonobstant le paragraphe 1, un prix n’est pas considéré comme vérifiable dès lors que l’une des conditions suivantes est remplie:\n\n| a) | le prix est obtenu à partir d’une transaction ou de cours acheteur et vendeur liant deux entités d’un même groupe; |\n| --- | --- |\n\n| b) | le prix est obtenu à partir d’une transaction ou de cours acheteur et vendeur d’un volume négligeable par rapport au volume habituel de transactions ou de cotations reflétant les conditions actuelles du marché; |\n| --- | --- |\n\n| c) | le prix est obtenu à partir de cotations dont l’écart entre cours acheteur et cours vendeur s’éloigne sensiblement des écarts de cotation reflétant les conditions actuelles du marché; |\n| --- | --- |\n\n| d) | le prix est obtenu à partir d’une transaction effectuée dans le seul but de relever un nombre suffisant de prix vérifiables répondant aux critères énoncés à l’article 1er du présent règlement; |\n| --- | --- |\n\n| e) | le prix est obtenu à partir de cotations qui ont été proposées de manière ferme dans le seul but de relever un nombre suffisant de prix vérifiables répondant aux critères énoncés à l’article 1er du présent règlement. |\n| --- | --- |\n\n3. La date d’observation d’un prix vérifiable est identique à la date à laquelle la transaction a été exécutée ou à la date à laquelle les cours acheteur et vendeur ont été proposés de manière ferme. Les dates d’observation des prix vérifiables sont enregistrées sur la base d’un fuseau horaire unique et cohérent pour toutes les sources de données.\n\n4. Aux fins du présent article, on entend par «vendeur tiers» une entreprise qui fournit des données sur des transactions ou des cotations à des établissements aux fins de l’article 1er du présent règlement, y compris les prestataires de services de communication de données au sens de l’article 2, paragraphe 1, point 36 bis), du règlement (UE) no 600/2014 du Parlement européen et du Conseil (4) et les systèmes multilatéraux au sens de l’article 4, paragraphe 1, point 19), de la directive 2014/65/UE du Parlement européen et du Conseil (5).\n\n5. Une transaction ou des cours acheteur et vendeur ne peuvent être utilisés aux fins du paragraphe 1, points b) et c), que si toutes les conditions suivantes sont remplies:\n\n| a) | la transaction ou les cotations ont été traitées par l’intermédiaire d’un vendeur tiers ou relevées par celui-ci; |\n| --- | --- |\n\n| b) | le vendeur tiers ou l’établissement a accepté de fournir à l’autorité compétente de l’établissement, sur demande, des preuves de la transaction ou des cotations ainsi que des preuves du caractère vérifiable du prix obtenu à partir de cette transaction ou de ces cotations; |\n| --- | --- |\n\n| c) | le vendeur tiers a communiqué à l’établissement la date à laquelle la transaction ou les cotations ont été observées, ainsi qu’un ensemble minimal d’informations sur la transaction ou les cotations afin de permettre à l’établissement d’établir une correspondance entre le prix vérifiable et les facteurs de risque pour lesquels ce prix, obtenu à partir de cette transaction ou de ces cotations, est représentatif conformément à l’article 3 du présent règlement; |\n| --- | --- |\n\n| d) | l’établissement a vérifié que le vendeur tiers fait l’objet, au moins une fois par an, d’un audit indépendant effectué par une entreprise tierce, au sens de l’article 325 duosexagies, paragraphe 1, second alinéa, du règlement (UE) no 575/2013, portant sur la validité de ses informations en matière de prix, de sa gouvernance et de ses processus, et il a accès aux résultats et rapports de l’audit, de manière à pouvoir les communiquer, sur demande, à son autorité compétente. |\n| --- | --- |\n\n6. Aux fins du paragraphe 5, point d), l’audit indépendant évalue l’ensemble des éléments suivants:\n\n| a) | si le vendeur tiers dispose des informations nécessaires pour contrôler que le prix est vérifiable et pour établir une correspondance entre le prix vérifiable et les facteurs de risque pour lesquels ce prix est représentatif conformément à l’article 3 du présent règlement; |\n| --- | --- |\n\n| b) | si le vendeur tiers est en mesure de démontrer l’intégrité des informations visées au point a); |\n| --- | --- |\n\n| c) | si le vendeur tiers dispose de procédures internes et d’un personnel suffisant et possédant un niveau de compétences approprié pour la gestion des informations visées au point a); |\n| --- | --- |\n\n| d) | si, lorsqu’il ne fournit pas à l’établissement les informations nécessaires au contrôle du caractère vérifiable du prix, le vendeur tiers est contractuellement tenu d’avoir contrôlé le caractère vérifiable du prix. |\n| --- | --- |\n\n7. Lorsqu’un vendeur tiers ne fournit pas à l’établissement les informations nécessaires au contrôle du caractère vérifiable du prix, l’établissement est en mesure de démontrer à son autorité compétente que le vendeur tiers est contractuellement tenu d’avoir contrôlé le caractère vérifiable du prix.",
+      "text_sha256": "b3a57f015ba8370f3253bed87956bfacecc6b3ec6b434df0667b5db3ab50bb1a",
+      "md_span": {
+        "start": 3441,
+        "end": 9277
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2022276FR.01006001-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2022276FR.01006001-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Un prix vérifiable est considéré comme représentatif d’un facteur de risque à la date de son observation lorsque toutes les conditions suivantes sont remplies:\n\n| a) | il existe une relation étroite entre le facteur de risque et le prix vérifiable; |\n| --- | --- |\n\n| b) | l’établissement a défini une méthode conceptuellement rigoureuse pour extraire la valeur du facteur de risque de la valeur du prix vérifiable. |\n| --- | --- |\n\nAux fins du point b), toute donnée d’entrée ou facteur de risque utilisé(e) dans la méthode autre que le prix vérifiable est fondé sur des données objectives.\n\n2. Tout prix vérifiable peut être comptabilisé comme constituant une observation aux fins de l’article 1er pour l’ensemble des facteurs de risque pour lesquels il est représentatif conformément au paragraphe 1.\n\n3. Lorsqu’un établissement utilise un facteur de risque de crédit ou sur actions systématique pour tenir compte des mouvements à l’échelle du marché pour certaines caractéristiques d’un ensemble d’émetteurs, dont le pays, la région ou le secteur de ces émetteurs, les prix vérifiables des indices de marché ou des instruments de chaque émetteur ne sont considérés comme représentatifs de ce facteur de risque systématique que s’ils présentent les mêmes caractéristiques que ce facteur de risque systématique.",
+      "text_sha256": "4ffcf6109e60f58014cd5326ee7ce772ad38dd60cd3dc80b9bae8af4af1d81a2",
+      "md_span": {
+        "start": 9310,
+        "end": 10637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les facteurs de risque des positions visées à l’article 325 octoquinquagies, paragraphe 1, du règlement (UE) no 575/2013 qui font partie d’une courbe, d’une surface ou d’un cube sont considérés comme modélisables lorsque les étapes suivantes sont effectuées dans l’ordre suivant:\n\n| a) | pour chaque courbe, surface ou cube, l’établissement détermine les classes pertinentes de facteurs de risque conformément à l’article 5 du présent règlement; |\n| --- | --- |\n\n| b) | l’établissement détermine le caractère modélisable des classes pertinentes visées au point a) conformément au paragraphe 2; |\n| --- | --- |\n\n| c) | l’établissement considère comme modélisable tout facteur de risque appartenant à une classe qui est considérée comme modélisable conformément au paragraphe 2. |\n| --- | --- |\n\n2. Les critères permettant d’évaluer si une classe est modélisable sont l’un des critères suivants:\n\n| a) | sur une période d’observation de 12 mois se terminant à la date de déclaration de référence précédente visée à l’article 2, paragraphe 1, point b), du règlement d’exécution (UE) 2021/451:i)l’établissement a relevé, pour cette classe, l’existence d’au moins 24 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont affectés à cette classe; etii)il n’y a pas eu de période de 90 jours ou plus au cours de laquelle le nombre de prix vérifiables visés au point i) a été inférieur à quatre; |\n| --- | --- |\n| i) | l’établissement a relevé, pour cette classe, l’existence d’au moins 24 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont affectés à cette classe; et |\n| ii) | il n’y a pas eu de période de 90 jours ou plus au cours de laquelle le nombre de prix vérifiables visés au point i) a été inférieur à quatre; |\n\n| b) | sur la période d’observation de 12 mois visée au point a), l’établissement a relevé, pour cette classe, l’existence d’au moins 100 prix qui sont vérifiables conformément à l’article 2 du présent règlement, dont les dates d’observation sont distinctes et qui sont affectés à cette classe. |\n| --- | --- |\n\n3. Un établissement peut remplacer la période de 12 mois visée au paragraphe 2 par une période de 12 mois se terminant au plus tôt un mois avant la date de déclaration de référence précédente visée à l’article 2, paragraphe 1, point b), du règlement d’exécution (UE) 2021/451 (ci-après la «période décalée»), lorsque toutes les conditions suivantes sont remplies:\n\n| a) | l’établissement applique la période décalée de manière cohérente à l’ensemble des classes d’une courbe, d’une surface ou d’un cube; |\n| --- | --- |\n\n| b) | l’établissement applique la période décalée de manière cohérente dans le temps; |\n| --- | --- |\n\n| c) | l’établissement fournit à son autorité compétente une description détaillée de l’application de la période décalée. |\n| --- | --- |\n\n4. Un prix vérifiable est attribué à une classe lorsqu’il est représentatif, conformément à l’article 3 du présent règlement, d’un facteur de risque relevant de cette classe.\n\n5. Aux fins du paragraphe 4, un établissement peut considérer comme un facteur de risque tout point de la courbe, de la surface ou du cube relevant de la classe concernée, que ce point soit ou non un facteur de risque inclus dans son modèle de mesure des risques.",
+      "text_sha256": "2c1440df16a0dfd7e60ae4f7042beee932bf14be4be3a5ed590bbe0d60e13caf",
+      "md_span": {
+        "start": 10670,
+        "end": 14075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Pour chaque courbe, surface ou cube dont un facteur de risque fait partie, les établissements déterminent les classes de cette courbe, de cette surface ou de ce cube en utilisant soit les classes standard prédéfinies visées au paragraphe 2, soit les classes qu’ils définissent eux-mêmes, sous réserve de satisfaire aux exigences du paragraphe 3.\n\n2. Aux fins du paragraphe 1, les classes standard prédéfinies sont les suivantes:\n\n| a) | les neuf classes indiquées à la ligne i du tableau 1 du paragraphe 3 pour les facteurs de risque comportant un élément d’échéance «t», exprimé en années, qui ont été affectés aux grandes catégories de facteurs de risque suivantes:i)«taux d’intérêt», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;ii)«change», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;iii)«matières premières», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n| --- | --- |\n| i) | «taux d’intérêt», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| ii) | «change», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| iii) | «matières premières», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n\n| b) | les six classes indiquées à la ligne ii du tableau 1 du paragraphe 3 pour chaque élément d’échéance «t» des facteurs de risque comportant plus d’un élément d’échéance, exprimés en années, qui ont été affectés aux grandes catégories de facteurs de risque suivantes:i)«taux d’intérêt», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;ii)«change», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;iii)«matières premières», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n| --- | --- |\n| i) | «taux d’intérêt», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| ii) | «change», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| iii) | «matières premières», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n\n| c) | les cinq classes indiquées à la ligne iii du tableau 1 du paragraphe 3 pour chaque élément d’échéance «t» des facteurs de risque comportant un ou plusieurs éléments d’échéance, exprimés en années, qui ont été affectés aux grandes catégories de facteurs de risque suivantes:i)«écart de crédit», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;ii)«actions», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité (grande capitalisation boursière)» et «volatilité (petite capitalisation boursière)»; |\n| --- | --- |\n| i) | «écart de crédit», à l’exception des facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| ii) | «actions», à l’exception des facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité (grande capitalisation boursière)» et «volatilité (petite capitalisation boursière)»; |\n\n| d) | les cinq classes indiquées à la ligne iv du tableau 1 du paragraphe 3 pour tous les facteurs de risque comportant un ou plusieurs éléments de liquidité, exprimés à l’aide du delta des options («δ»); |\n| --- | --- |\n\n| e) | les cinq classes indiquées à la ligne iii du tableau 1 du paragraphe 3 et les cinq classes indiquées à la ligne iv du tableau 1 du paragraphe 3 pour les facteurs de risque affectés aux grandes catégories de facteurs de risque suivantes:i)«change», pour les facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;ii)«écart de crédit», pour les facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»;iii)«actions», pour les facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité (grande capitalisation boursière)» et «volatilité (petite capitalisation boursière)»;iv)«matières premières», pour les facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n| --- | --- |\n| i) | «change», pour les facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| ii) | «écart de crédit», pour les facteurs de risque affectés à la grande sous-catégorie de facteurs de risque «volatilité»; |\n| iii) | «actions», pour les facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité (grande capitalisation boursière)» et «volatilité (petite capitalisation boursière)»; |\n| iv) | «matières premières», pour les facteurs de risque affectés aux grandes sous-catégories de facteurs de risque «volatilité de l’énergie et des émissions de carbone», «volatilité des métaux précieux et des métaux non ferreux» et «volatilité des autres matières premières»; |\n\n| f) | les six classes indiquées à la ligne ii du tableau 1 du paragraphe 3, les cinq classes indiquées à la ligne iii du tableau 1 du paragraphe 3 et les cinq classes indiquées à la ligne iv du tableau 1 du paragraphe 3 pour les facteurs de risque affectés à la grande catégorie de facteurs de risque «taux d’intérêt» et à la grande sous-catégorie de facteurs de risque «volatilité» et comportant un élément d’échéance, d’expiration et de liquidité. |\n| --- | --- |\n\nAux fins du point d), pour les marchés d’options utilisant d’autres conventions que le delta de l’option aux fins de la définition de la liquidité, les établissements convertissent les classes indiquées à la ligne iv du tableau 1 du paragraphe 3 en conventions applicables sur ces marchés d’options en utilisant des techniques quantitatives dérivées de leurs propres modèles de tarification, sous réserve que ces modèles aient été bien documentés et aient fait l’objet d’un examen indépendant.\n\n3. Aux fins du paragraphe 2, une classe standard peut être subdivisée en classes plus petites.\n\nTableau 1\n\n| No de classe | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| i. | 0 ≤ t < 0,75 | 0,75 ≤ t <1,5 | 1,5 ≤ t <4 | 4 ≤ t < 7 | 7 ≤ t < 12 | 12 ≤ t < 18 | 18 ≤ t < 25 | 25 ≤ t < 35 | 35 ≤ t |\n| ii. | 0 ≤ t <0,75 | 0,75 ≤ t < 4 | 4 ≤ t < 10 | 10 ≤ t < 18 | 18 ≤ t < 30 | 30 ≤ t |  |  |  |\n| iii. | 0 ≤ t < 1,5 | 1,5 ≤ t < 3,5 | 3,5 ≤ t < 7,5 | 7,5 ≤ t < 15 | 15 ≤ t |  |  |  |  |\n| iv. | 0 ≤ δ < 0,05 | 0,05 ≤ δ < 0,3 | 0,3 ≤ δ < 0.7 | 0,7 ≤ δ < 0,95 | 0,95 ≤ δ ≤ 1 |  |  |  |  |\n\n4. Aux fins du paragraphe 1, les établissements peuvent définir eux-mêmes des classes pour une courbe, une surface ou un cube donnés dès lors que toutes les conditions suivantes sont remplies:\n\n| a) | les classes couvrent l’ensemble de la courbe, de la surface ou du cube; |\n| --- | --- |\n\n| b) | les classes ne se chevauchent pas; |\n| --- | --- |\n\n| c) | chaque classe contient exactement un facteur de risque faisant partie du calcul des variations théoriques de la valeur du portefeuille de l’une des tables de négociation de l’établissement aux fins de l’évaluation du respect de l’exigence d’attribution des profits et pertes prévus à l’article 325 sexagies du règlement (UE) no 575/2013. |\n| --- | --- |\n\n5. Aux fins de l’évaluation du caractère modélisable des facteurs de risque de la grande catégorie de facteurs de risque «écart de crédit» appartenant à une classe d’échéance donnée, un établissement ne peut réaffecter les prix vérifiables d’une classe à la classe adjacente relative à des échéances plus courtes que si toutes les conditions suivantes sont remplies:\n\n| a) | l’établissement n’est exposé à aucun facteur de risque appartenant à la classe correspondant aux échéances plus longues et n’utilise donc aucun de ces facteurs de risque dans son modèle de gestion des risques; |\n| --- | --- |\n\n| b) | un prix vérifiable n’est comptabilisé que dans une seule classe d’échéance; |\n| --- | --- |\n\n| c) | un prix vérifiable n’est réaffecté qu’une seule fois. |\n| --- | --- |",
+      "text_sha256": "9bd753b254c361ae655b2a6891819bcb350beb95819a8d9068624ca3d192a8f5",
+      "md_span": {
+        "start": 14108,
+        "end": 23265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les établissements qui utilisent une ou plusieurs fonctions paramétriques pour représenter une courbe, une surface ou un cube et intègrent les paramètres de fonction en tant que facteurs de risque dans leurs modèles internes de mesure des risques évaluent le caractère modélisable de ces paramètres de fonction en effectuant, pour chaque fonction paramétrique, les étapes suivantes dans l’ordre suivant:\n\n| a) | ils identifient l’ensemble des points de la courbe, de la surface ou du cube qui ont été utilisés pour calibrer la fonction paramétrique; |\n| --- | --- |\n\n| b) | ils appliquent l’approche par classe prévue à l’article 5, paragraphe 2, comme si les facteurs de risque pris en compte dans leur modèle de mesure des risques étaient les points identifiés conformément au point a); |\n| --- | --- |\n\n| c) | ils évaluent, conformément à l’article 4, paragraphes 2 et 3, le caractère modélisable des classes résultant de l’application de l’approche par classe prévue à l’article 5, paragraphe 2, comme si les facteurs de risque pris en compte dans leur modèle de mesure des risques étaient les points identifiés conformément au point a). |\n| --- | --- |\n\n2. Le caractère modélisable d’un paramètre de la fonction paramétrique visée au paragraphe 1 est évalué par l’identification de l’ensemble des points de la courbe, de la surface ou du cube qui ont été utilisés pour calibrer ce paramètre de fonction. Lorsque les points identifiés relèvent uniquement de classes considérées comme modélisables conformément au paragraphe 1, point c), le paramètre de fonction est considéré comme modélisable.",
+      "text_sha256": "7898e4a23f13d1a620cc94a84dc96c661b4270022275b36099e5535d441298ea",
+      "md_span": {
+        "start": 23298,
+        "end": 24910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les établissements documentent dans leurs politiques internes les éléments suivants:\n\n| a) | l’ensemble des facteurs de risque pris en compte dans leur modèle interne de mesure des risques qui font l’objet de l’évaluation du caractère modélisable, accompagnés d’une description; |\n| --- | --- |\n\n| b) | les sources d’informations sur les prix vérifiables utilisées pour évaluer le caractère modélisable des facteurs de risque; |\n| --- | --- |\n\n| c) | les critères permettant de considérer un prix comme vérifiable conformément à l’article 2, y compris un aperçu de la manière dont l’établissement évalue si le volume d’une transaction ou d’une cotation ferme n’est pas négligeable, comme indiqué à l’article 2, paragraphe 2, point b), et si l’écart de cotation d’un cours est raisonnable, comme indiqué à l’article 2, paragraphe 2, point c); |\n| --- | --- |\n\n| d) | le processus de mise en correspondance ainsi que les critères utilisés pour déterminer la représentativité des prix vérifiables pour les facteurs de risque, comme indiqué à l’article 3, y compris un aperçu de la méthode définie pour extraire la valeur du facteur de risque à partir des prix vérifiables ainsi que toute donnée d’entrée supplémentaire éventuellement requise par cette méthode; |\n| --- | --- |\n\n| e) | l’évaluation du caractère modélisable des courbes, surfaces ou cubes paramétriques, comme indiqué à l’article 6; |\n| --- | --- |\n\n| f) | l’utilisation des approches par classe mentionnées à l’article 5, en précisant également si et comment l’établissement applique les dispositions de l’article 5, paragraphe 5; |\n| --- | --- |\n\n| g) | l’utilisation de la période décalée de 12 mois conformément à l’article 1er, paragraphe 2, ou à l’article 4, paragraphe 3. |\n| --- | --- |\n\n2. Pour chaque facteur de risque, les établissements consignent, pendant un an au moins, les résultats de leur évaluation du caractère modélisable, y compris la documentation visée au paragraphe 1. En ce qui concerne les facteurs de risque pour lesquels il n’existe pas encore d’historique des résultats sur une année, les établissements consignent le plus grand nombre de résultats disponibles.",
+      "text_sha256": "82d4a8d0db89d5132551b5c39c47f1c54cacded75fa627f72f65fbb336e54d1b",
+      "md_span": {
+        "start": 24943,
+        "end": 27110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32022r2060:2022-06-14--3dc56f9ada2d0ec3b0d880f3dec6d6e5569bc511805fcf33da5b693e706f1ba8#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "a4f5be4e653e1f3e247ded6655b9f17e617e62ec245c3ebad0f229d860f36a05",
+      "md_span": {
+        "start": 27143,
+        "end": 27284
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

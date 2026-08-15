@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1215r(08):2020-10-15--bc01a848f2fb9ccdbc9a5784d081a1c8d1ff221ceae46559546519129ed8c2a6",
+  "language": "fr",
+  "title": "Rectificatif au règlement (UE) no 1215/2012 du Parlement européen et du Conseil du 12 déce…",
+  "valid_from": "2020-10-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1215r(08)/versions/2020-10-15--bc01a848f2fb9ccdbc9a5784d081a1c8d1ff221ceae46559546519129ed8c2a6/fr.xml",
+    "sha256": "821d732ebcee167f6ffad05f0cf7d7a088dc3bb7f0f2172ea91b82f7961441a3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1215R%2808%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32012r1215r(08):2020-10-15--bc01a848f2fb9ccdbc9a5784d081a1c8d1ff221ceae46559546519129ed8c2a6#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "15.10.2020 FR Journal officiel de l’Union européenne L 338/13 Rectificatif au règlement (UE) no 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale ( «Journal officiel de l'Union européenne» L 351 du 20 décembre 2012 ) Page 23, article 34, paragraphe 1, point c): au lieu de: «c) la juridiction de l'État tiers concernée est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.» lire: «c) la juridiction de l'État membre est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.»",
+      "text_sha256": "3faa231856c91dc1455d7af3a5a14f85d9895ec1f7cf71157f42b5b2d5499bd8",
+      "md_span": {
+        "start": 729,
+        "end": 1422
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

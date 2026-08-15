@@ -1,0 +1,510 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/1302 of 20\u00A0April 2022 supplementing Directive 2014/65/EU",
+  "valid_from": "2026-02-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1302/versions/2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb/en.html",
+    "sha256": "d34a6859c223d8db0d10b105239101b3a16d4abf4106715b1640eaa2cbbfebe7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1302-20260208"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down rules for the calculation of the net position held by a person in a commodity derivative, the methodology for calculating the position limits on the size of that position and the procedures for applying for exemptions to position limits.",
+      "text_sha256": "42a4ade96f09ab677525d51548f86300ef8460a4fb9f1f0e86c4015df22f0098",
+      "md_span": {
+        "start": 774,
+        "end": 1037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(1) ‘financial entity’ means any of the following: (a) an investment firm authorised in accordance with Directive 2014/65/EU; (b) a credit institution authorised in accordance with Directive 2013/36/EU of the European Parliament and of the Council (1); (c) an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (2); (d) a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC; (e) an undertaking for collective investment in transferable securities (UCITS) and, where relevant, its management company, authorised in accordance with Directive 2009/65/EC of the European Parliament and of the Council (3); (f) an institution for occupational retirement provision within the meaning of Article 6, point (1), of Directive (EU) 2016/2341 of the European Parliament and of the Council (4); (g) an alternative investment fund managed by managers of alternative investment funds (AIFMs) authorised or registered in accordance with Directive 2011/61/EU of the European Parliament and of the Council (5); (h) a central counterparty (CCP) authorised in accordance with Regulation (EU) No 648/2012 of the European Parliament and of the Council (6); (i) a central securities depositary authorised in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council (7);\n\n(2) ‘non-financial entity’ means a legal or natural person other than a financial entity;\n\n(3) ‘spot month contract’ means the commodity derivative contract in relation to a particular underlying commodity whose maturity is the next to expire in accordance with the rules set by the trading venue;\n\n(4) ‘other months’ contract’ means any commodity derivative contract that is not a spot month contract;\n\n(5) ‘lot’ means the unit of trading used by the trading venue on which the commodity derivative trades representing a standardised quantity of the underlying commodity.\n\nA third-country entity shall be considered a financial entity where its authorisation would be required under any of the legal acts of the Union referred to in point (1) of the first paragraph if that entity was based in the Union and subject to Union law.\n\nA third-country entity shall be considered a non-financial entity where its authorisation would not be required under any of the legal acts of the Union referred to in point (1) of the first subparagraph if that entity was based in the Union and subject to Union law.",
+      "text_sha256": "a50de37a7a516ee54b16763407c192fc68b33b726f1700a937343880b84456f8",
+      "md_span": {
+        "start": 1088,
+        "end": 3658
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        },
+        {
+          "href": "#E0006",
+          "text": "6"
+        },
+        {
+          "href": "#E0007",
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Aggregation and netting of positions in a commodity derivative",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The net position of a person in a commodity derivative shall be the aggregation of the following:(a) its positions held in that commodity derivative traded on a trading venue and in economically equivalent OTC contracts pursuant to Article 6;(b) where the commodity derivative is an agricultural commodity derivative traded in significant volume in accordance with Article 5, its position held in agricultural commodity derivatives based on the same underlying and sharing the same characteristics, traded in significant volumes on other trading venues and subject to the position limits set by the central competent authority;(c) where the commodity derivative is a critical or significant contract, its positions held in critical or significant contracts based on the same underlying and sharing the same characteristics, traded on other trading venues and subject to the position limits set by the central competent authority.\n\n**2.** The positions held in a commodity derivative traded on a trading venue referred to in paragraph 1, point (a), shall include the positions held in the disaggregated components of a spread contract and in other closely related commodity derivatives traded on the same trading venue that are a fraction of the value of a corresponding standard futures contract or whose pricing period is defined as the selected start date to the end of the contract month of the standard commodity derivative.\n\n**3.** Where a person holds both long and short positions in any of the commodity derivatives referred to in paragraphs 1 and 2, the person shall net those positions to determine its net position for that commodity derivative.\n\n**4.** Positions held by a non-financial entity in commodity derivatives that are objectively measurable as reducing risks in accordance with Article 7(1) and (3), as approved by the competent authority pursuant to Article 8(5) on the basis of Article 8(1) and (2), shall not be aggregated for the purposes of comparing the net position of that non-financial entity with the limits for that commodity derivative.\n\n**5.** Positions held by a financial entity in commodity derivatives that are objectively measurable as reducing risks in accordance with Article 7(2) and (4), as approved by the competent authority pursuant to Article 8(5) on the basis of Article 8(3) and (4), shall not be aggregated for the purposes of comparing the net position of that financial entity with the limits for that commodity derivative.\n\n**6.** Positions held by a person in commodity derivatives that result from transactions undertaken on trading venues to fulfil liquidity provision obligations in accordance with Article 10, as approved by the competent authority pursuant to Article 9, shall not be aggregated for the purposes of comparing the net position of that person with the limits for that commodity derivative.\n\n**7.** A person shall determine separately the net position it holds in a commodity derivative for both the spot month contracts and the other months’ contracts.",
+      "text_sha256": "9ab2bfb9c6d4749fbe1ef52bf99a1b015247141a590148260abe8a41677215c1",
+      "md_span": {
+        "start": 3841,
+        "end": 6874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Method of calculating positions for legal entities within a group",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** A parent undertaking shall determine its net position by aggregating the following positions in accordance with Article 3:(a) its own net position;(b) the net positions of each of its subsidiary undertakings.\n\n**2.** By way of derogation from paragraph 1, the parent undertaking of a collective investment undertaking or, where the collective investment undertaking has appointed a management company, the parent undertaking of that management company, shall not aggregate the positions in commodity derivatives in any collective investment undertaking where it does not in any way influence the investment decisions in respect of opening, holding or closing those positions.",
+      "text_sha256": "e9063240c2acd55ca90483789d7b8c01d1b01d12fa8b5ec6934a3e1b059ba7ae",
+      "md_span": {
+        "start": 6979,
+        "end": 7661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Significant volumes",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** An agricultural commodity derivative shall be considered to be traded in a significant volume on a trading venue when the trading in the agricultural commodity derivative on that trading venue over a consecutive three month period exceeds an average daily open interest of 20 000 lots in the spot month and other months combined.\n\n**2.** The trading venue where the largest volume of trading in commodity derivatives based on the same underlying and sharing the same characteristics takes place shall be the trading venue that over 1 year has the largest average daily open interest.",
+      "text_sha256": "5ec6f8d26215e344c577c8c58bdb15c6f26b6ebecb4d311a129e2d17dcd2dbe9",
+      "md_span": {
+        "start": 7720,
+        "end": 8310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "OTC contracts economically equivalent to commodity derivatives traded on trading venues",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "An OTC derivative shall be considered economically equivalent to a commodity derivative traded on a trading venue where it has identical contractual specifications, terms and conditions, excluding different lot size specifications, delivery dates diverging by less than 1 calendar day and different post trade risk management arrangements.",
+      "text_sha256": "ef1563cd78154ed06f7ecdb3a58915cecb1b29db4e3818ad5fedde4bd8dd00e7",
+      "md_span": {
+        "start": 8437,
+        "end": 8776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Positions qualifying as reducing risks directly related to commercial activities",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** A position held by a non-financial entity in a commodity derivative traded on trading venues or in economically equivalent OTC contracts pursuant to Article 6 qualifies as reducing risks directly relating to the commercial activities of that non-financial entity in accordance with Article 57(1), second subparagraph, point (a), of Directive 2014/65/EU where by itself, or in combination with other derivatives in accordance with paragraph 3 of this Article (‘position in a portfolio of commodity derivatives’), the position meets one of the following criteria:(a) it reduces the risks arising from the potential change in the value of assets, services, inputs, products, commodities or liabilities that the non-financial entity or its group owns, produces, manufactures, processes, provides, purchases, merchandises, leases, sells, or incurs or reasonably anticipates owning, producing, manufacturing, processing, providing, purchasing, merchandising, leasing, selling or incurring in the normal course of its business;(b) it qualifies as a hedging contract pursuant to International Financial Reporting Standards (IFRS) adopted in accordance with Article 3 of Regulation (EC) No 1606/2002 of the European Parliament and Council (8).\n\n**2.** A position held by a financial entity in an agricultural commodity derivative, in a critical or significant commodity derivative traded on trading venues or in economically equivalent OTC contracts pursuant to Article 6 qualifies as reducing risks directly related to the commercial activities of the non-financial entities of a predominantly commercial group in accordance with Article 57(1), second subparagraph, point (b), of Directive 2014/65/EU where by itself, or in combination with other derivatives in accordance with paragraph 3 of this Article (position in a portfolio of commodity derivatives), the position meets one of the criteria mentioned in paragraph 1, points (a) or (b), of this Article.\n\n**3.** For the purposes of paragraph 1, a position qualifying as risk-reducing taken on its own or in combination with other derivatives is one for which the non-financial entity or the person holding the position on behalf of that entity:(a) contains the following in its internal policies:(i) the types of commodity derivatives included in the portfolios used to reduce risks directly relating to commercial activity and their eligibility criteria;(ii) the link between the portfolio and the risks that the portfolio is mitigating;(iii) the measures adopted to ensure that the positions concerning those commodity derivatives serve no other purpose than covering risks directly related to the commercial activities of the non-financial entity, and that any position serving a different purpose can be clearly identified;(b) is able to provide a sufficiently disaggregated view of the portfolios in terms of class of commodity derivative, underlying commodity, time horizon and any other relevant factors.\n\n**4.** For the purposes of paragraph 2, a position qualifying as risk-reducing taken on its own or in combination with other derivatives is one for which the financial entity complies with the conditions set out in paragraph 3, points (a) and (b).",
+      "text_sha256": "9720e2b45bcd1b56a61b9d433764c5fa1d01167900a70c6cb63314298d818edd",
+      "md_span": {
+        "start": 8896,
+        "end": 12110
+      },
+      "citations": [
+        {
+          "href": "#E0008",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Application for the exemption from position limits for positions qualifying as reducing risks directly related to commercial activities",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** A non-financial entity holding a qualifying position in an agricultural commodity derivative or in a critical or significant commodity derivative shall apply for the exemption referred to in Article 57(1), second subparagraph, point (a), of Directive 2014/65/EU to the competent authority which sets the position limit for that commodity derivative.\n\n**2.** The person referred to in paragraph 1 shall submit to the competent authority the following information which demonstrates how the position reduces risks directly relating to the non-financial entity’s commercial activity:(a) a description of the nature and value of the non-financial entity’s commercial activities in the commodity to which the commodity derivative for which an exemption is sought is relevant;(b) a description of the nature and value of the non-financial entity’s activities in the trading of and positions held in the relevant commodity derivatives traded on trading venues and in their economically equivalent OTC contracts;(c) a description of the nature and size of the exposures and risks in the commodity which the non-financial entity has or expects to have as a result of its commercial activities and which are or would be mitigated by the use of commodity derivatives;(d) an explanation of how the non-financial entity’s use of commodity derivatives directly reduces its exposure and risks in its commercial activities.\n\n**3.** A financial entity holding a qualifying position in an agricultural commodity derivative or in a critical or significant commodity derivative shall apply for the exemption referred to in Article 57(1), second subparagraph, point (b), of Directive 2014/65/EU) to the competent authority which sets the position limit for that commodity derivative.\n\n**4.** The person referred to in paragraph 3 shall submit to the competent authority:(a) appropriate information which demonstrates that the parent undertaking has entrusted to the financial entity the trading of commodity derivatives traded on a trading venue and their economically equivalent OTC contracts to reduce the exposure and risks in the commercial activities of the non-financial entities of the predominantly commercial group;(b) the following information which demonstrates how the position reduces risks directly relating to the commercial activity of the non-financial entities of the same predominantly commercial group:(i) a description of the nature and value of the non-financial entities’ commercial activities in the commodity to which the commodity derivative for which an exemption is sought is relevant;(ii) a description of the nature and size of the exposures and risks in the commodity which the non-financial entities have or expect to have as a result of the non-financial entities’ commercial activities which are or would be mitigated by the use of commodity derivatives;(iii) a description of the nature and value of the financial entity’s activities in the trading of and positions held in the relevant commodity derivatives traded on trading venues and in their economically equivalent OTC contracts;(iv) an explanation of how the financial entity’s use of commodity derivatives directly reduces the exposure and risks in the non-financial entities’ commercial activities.\n\n**5.** The competent authority shall approve or reject the application within 21 calendar days after it has received the application and shall notify the applicant of its approval or rejection of the exemption.\n\n**6.** The non-financial entity shall notify the competent authority if there is a significant change to the nature or value of the non-financial entity’s commercial activities or its trading activities in commodity derivatives and the change is relevant to the information set out in paragraph 2, point (b), and shall submit a new application for the exemption if it wishes to continue to use it.\n\n**7.** The financial entity shall notify the competent authority if there is a change to the information set out in paragraph 4, point (a), or a significant change to the nature or value of the non-financial entity’s commercial activities or the financial entity’s trading activities in commodity derivatives and the change is relevant to the information set out in paragraph 4, point (b)(iii), and shall submit a new application for the exemption if it wishes to continue to use it.",
+      "text_sha256": "33efb8641b073d9056a88ff1e5ffa8b96c5431df0fbc7413da449d8f9f31f2fe",
+      "md_span": {
+        "start": 12285,
+        "end": 16659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Application for the exemption from position limits for mandatory liquidity provision",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** A person holding a qualifying position in an agricultural commodity derivative or a critical or significant commodity derivative shall apply for the exemption referred to in Article 57(1), second subparagraph, point (c), of Directive 2014/65/EU to the competent authority which sets the position limit for that commodity derivative.\n\n**2.** The person referred to in paragraph 1 shall submit to the competent authority the following information which demonstrates how the positions result from transactions entered into to fulfil obligations to provide liquidity in that commodity derivative on a trading venue as referred to in Article 2(4), fourth subparagraph, point (c), of Directive 2014/65/EU.(a) the list of commodity derivatives in which that person provides liquidity on a trading venue in accordance with points (b) and (c) of this paragraph;(b) the provisions under which that person is required by a regulatory authority to provide liquidity in a commodity derivative on a trading venue or the written agreement signed with the trading venue setting out the liquidity provision obligations to be met by the person on the trading venue per commodity derivative;(c) a description of the nature and value of the person’s mandatory liquidity provision activities in the relevant commodity derivative and of the expected resulting positions thereof;(d) any position limit that may have been set in its internal policy per commodity derivative for such mandatory liquidity provision.\n\n**3.** The competent authority shall approve or reject the application within 21 calendar days after it has received the application and shall notify the person of its approval or rejection of the exemption.\n\n**4.** The person shall notify the competent authority if there is a significant change to the nature or value of the person’s trading activities in commodity derivatives and the change is relevant to the information set out in paragraph 2, and shall submit a new application for the exemption if it wishes to continue to use it.",
+      "text_sha256": "b23c426defd41b3da62f789da622f7edea230b235aeddeed5cc3e666171a00ce",
+      "md_span": {
+        "start": 16783,
+        "end": 18819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Positions qualifying as resulting from mandatory liquidity provision",
+      "path": [
+        "CHAPTER II — METHOD FOR CALCULATING THE SIZE OF THE NET POSITION OF A PERSON"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purpose of Article 9(1), a position held by a person in an agricultural or a critical or significant commodity derivative traded on a trading venue qualifies as resulting from transactions undertaken to fulfil mandatory liquidity provision obligations where the position directly results from transactions in a commodity derivative undertaken in compliance with obligations required by regulatory authorities in accordance with Union law or with national laws, regulations and administrative provisions, or the written agreement entered into with the trading venue and identified as such by the trading venue.\n\n**2.** For the purpose of Article 9(1), a qualifying position resulting from mandatory liquidity provision is one for which the person holding the position contains the following in its internal policies:(a) the types of commodity derivatives included in the portfolios in which mandatory liquidity provision is provided;(b) the link between the position held in a commodity derivative and the transactions undertaken to fulfil mandatory liquidity provisions in that derivative in accordance with paragraph 1 of this Article;(c) the measures adopted to ensure that any position not resulting from transactions undertaken to fulfil mandatory liquidity provision or serving a different purpose can be clearly identified.",
+      "text_sha256": "6060fe143dab104568abd807c784243098eecd707fc75ea3762eba2957132c5a",
+      "md_span": {
+        "start": 18929,
+        "end": 20273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Methodology for determining the baseline figure for spot month limits",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 1 — Determination of baseline figures"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Competent authorities shall determine a baseline figure for the spot month position limit in an agricultural commodity derivative or a critical or significant commodity derivative by calculating 25 % of the deliverable supply for that commodity derivative. Where the deliverable supply is substantially higher than the total open interest, competent authorities shall determine the baseline figure for the spot month limit by calculating 25 % of the open interest in that commodity derivative.\n\nThat baseline figure shall be specified in lots.\n\n**2.** Where a competent authority establishes different position limits for different times within the spot month period, those position limits shall decrease on an incremental basis towards the maturity of the commodity derivative and shall take into account the position management arrangements of the trading venue.\n\n**3.** By way of derogation from paragraph 1, competent authorities shall determine the baseline figure for the spot month position limit for any commodity derivative with an underlying that qualifies as food intended for human consumption with a total combined open interest in spot month and other months’ contracts exceeding 50 000 lots over a consecutive 3-month period by calculating 20 % of the deliverable supply in that commodity derivative. Where deliverable supply is substantially higher than total open interest, competent authorities shall determine the baseline figure for the spot month limit for such a commodity derivative by calculating 20 % of the open interest in that commodity derivative.",
+      "text_sha256": "f560de0c8399f534f996bbe0bd44703488012b986203454f4093894aa12de0ff",
+      "md_span": {
+        "start": 20520,
+        "end": 22103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Deliverable supply",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 1 — Determination of baseline figures"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Competent authorities shall calculate the deliverable supply for an agricultural commodity derivative or a critical or significant commodity derivative by identifying the quantity of the underlying commodity that can be used to fulfil the delivery requirements of the commodity derivative.\n\n**2.** Competent authorities shall determine the deliverable supply for a commodity derivative referred to in paragraph 1 by reference to the average monthly amount of the underlying commodity available for delivery based on the most recent available data covering:(a) a 1-year period immediately preceding the determination for a critical or significant commodity derivative;(b) a 1 to 5-year period immediately preceding the determination for an agricultural commodity derivative.\n\n**3.** In order to identify the quantity of the underlying commodity meeting the conditions of paragraph 1, competent authorities shall take into account the following criteria:(a) the storage arrangements for the underlying commodity;(b) the factors that may affect the supply of the underlying commodity.",
+      "text_sha256": "b2985682304c04d2a3e845449d4c3d6cfbb4f89edee1b139aed83121cb363077",
+      "md_span": {
+        "start": 22163,
+        "end": 23251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Methodology for determining the baseline figure for other months’ limits",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 1 — Determination of baseline figures"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Competent authorities shall determine a baseline figure for the other months’ position limit in an agricultural commodity derivative or a critical or significant commodity derivative by calculating 25 % of the open interest in that commodity derivative.\n\n**2.** That baseline shall be specified in lots.",
+      "text_sha256": "5aa6b37b3d6d0cb3aa0fc30370093936069550dd6b2445519437cde4daf085e4",
+      "md_span": {
+        "start": 23365,
+        "end": 23675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Open interest",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 1 — Determination of baseline figures"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Competent authorities shall calculate the net open interest in an agricultural commodity derivative or a critical or significant commodity derivative by aggregating the number of lots of that commodity derivative that are outstanding on trading venues and reported positions in economically equivalent OTC contracts over a representative period of time. Competent authorities shall calculate the net open interest in that commodity derivative based on position reporting data.\n\n**2.** By way of derogation from paragraph 1, when trading in a commodity derivative is transferred from one Union trading venue to another, or a third country trading venue to a Union trading venue, following a merger, business transfer or other corporate event or from one or more existing commodity derivatives to a commodity derivative newly admitted to trading on the same trading venue or in other similar circumstances, the competent authority shall calculate the open interest in that commodity derivative by taking into account the open interest on the former venue or in the former commodity derivatives. After a 6-month period, the competent authority shall calculate the open interest in accordance with paragraph 1.",
+      "text_sha256": "5707fd6b9131f8e99fbc8cf373344d49567a1ff3a770ba04bd83d646510eb8f9",
+      "md_span": {
+        "start": 23730,
+        "end": 24943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Methodology for determining the baseline figure in respect of certain commodity derivatives",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 1 — Determination of baseline figures"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** By way of derogation from Article 11, competent authorities shall determine the baseline figure for the spot month position limits for critical or significant cash settled spot month commodity derivatives which are included under Section C, point (10), of Annex I to Directive 2014/65/EU and which have no measurable deliverable supply of their underlying commodities by calculating 25 % of the open interest in those commodity derivatives.\n\n**2.** By way of derogation from Articles 11 and 13, where a commodity derivative provides that the underlying is delivered constantly over a specified period of time, the baseline figures calculated pursuant to Articles 11 and 13 shall apply to related commodity derivatives for the same underlying to the extent that their delivery periods overlap. The baseline figure shall be specified in units of the underlying.",
+      "text_sha256": "cd8facbb2c8bb62f09658630b573fd5cf971ca8cb7ad9887dc12619bc6368841",
+      "md_span": {
+        "start": 25076,
+        "end": 25942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Assessment of factors",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "Competent authorities shall set the spot month and other months’ position limits for an agricultural commodity derivative or a critical or significant commodity derivative by taking the baseline figure determined in accordance with Articles 11, 13 and 15 and adjusting it according to the potential impact of the factors referred to in Articles 18 to 21 on the integrity of the market for that derivative and for its underlying commodity to either of the following limits:\n\n(a) between 5 % and 35 %;\n\n(b) between 2,5 % and 35 %, for any derivative contract with an underlying that qualifies as food intended for human consumption with a total combined open interest in spot month and other months’ contracts exceeding 50 000 lots over a consecutive 3-month period.",
+      "text_sha256": "7e455c39482fa0cc99d1d2fbc27eb7630f5bc9758b9832ee5bd5e84422dacc89",
+      "md_span": {
+        "start": 26078,
+        "end": 26842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "New and less liquid agricultural commodity derivatives",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** By way of derogation from Article 16, for agricultural commodity derivatives traded on a trading venue with a total combined open interest in spot month and other months’ contracts not exceeding 20 000 lots over a consecutive 3-month period, competent authorities shall set the spot month and other months’ limit of positions held in those commodity derivatives at 10 000 lots.\n\n**2.** The trading venue shall notify the competent authority when the total open interest of any commodity derivative referred to in paragraph 1 reaches 20 000 lots over a consecutive 3-month period. Competent authorities shall review the position limit upon receiving such notifications.",
+      "text_sha256": "17fe2d011fcaf0ba54c1e697f7c330ee76f76befbe6e22e620c57255d51c48c3",
+      "md_span": {
+        "start": 26938,
+        "end": 27613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Deliverable supply in the underlying commodity",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where the deliverable supply in the underlying commodity can be restricted or controlled or if the level of deliverable supply is low relative to the amount required for orderly settlement, competent authorities shall adjust the spot month position limit downwards. Competent authorities shall assess the extent to which that deliverable supply is used also as the deliverable supply for other commodity derivatives.",
+      "text_sha256": "a7e266b790171363889b055276273486cc3776bf2a6a0090202f52b2b0b26226",
+      "md_span": {
+        "start": 27701,
+        "end": 28117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "The overall open interest",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where there is a large volume of overall open interest, competent authorities shall adjust the position limit downwards.\n\n**2.** Where the open interest is significantly higher than the deliverable supply, competent authorities shall adjust the other months’ position limit downwards.\n\n**3.** Where the open interest is significantly lower than the deliverable supply, competent authorities shall adjust the other months’ position limit upwards and, except where the baseline figure for the spot month limit is based on the open interest, shall adjust the spot month position limit downwards.",
+      "text_sha256": "9c32c183a9d05808373bbcd4fb8eea22734d6f176b5c75a6f0dcf32c824b3a3c",
+      "md_span": {
+        "start": 28184,
+        "end": 28783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "The number of market participants",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the daily average number of market participants holding a position in the commodity derivative over a period of one year is high, the competent authority shall adjust the position limit downwards.\n\n**2.** By way of derogation from Article 16, competent authorities shall adjust the position limit upwards and set the spot month and other months’ position limit between 5 % and 50 % of the reference amount if:(a) the average number of market participants holding a position in the commodity derivative in the period leading up to the setting of the position limit is lower than 10; or(b) where the commodity derivative is an agricultural commodity derivative with a net open interest below 300 000 lots, the number of investment firms acting as a market maker in accordance with Article 4(1), point (7), of Directive 2014/65/EU in the commodity derivative at the time the position limit is set or reviewed is lower than three.\n\nFor the purposes of the first subparagraph, competent authorities may establish different position limits for different times within the spot month period, the other months’ period or for both periods.",
+      "text_sha256": "537b23a958fe5d9a7420df3482a06255bb2f5df6e75c43e78d929b62c60887f8",
+      "md_span": {
+        "start": 28858,
+        "end": 30000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Characteristics of the underlying commodity market",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Competent authorities shall take into account how the characteristics of the underlying commodity market impact on the functioning and trading of the commodity derivative and on the size of the positions held by market participants, including having regard to the ease and speed of access which market participants have to the underlying commodity.\n\n**2.** The assessment of the underlying commodity market referred to in paragraph 1 shall take into account the following criteria:(a) whether there are restrictions on the supply of the commodity, including the perishability of the deliverable commodity;(b) the method of transportation and delivery of the physical commodity, including the following:(i) whether the commodity can be delivered to specified delivery points only;(ii) the capacity constraints of specified delivery points;(c) the structure, organisation and the operation of the market, including the seasonality present in extractive and agricultural commodity markets whereby physical supply fluctuates over the calendar year;(d) the composition and role of market participants in the underlying commodity market, including consideration of the number of market participants which provide specific services that enable the functioning of the underlying commodity market such as risk management, delivery, storage, or settlement services;(e) macroeconomic or other related factors that influence the operation of the underlying commodity market including the delivery, storage, and settlement of the commodity;(f) the characteristics, physical properties and lifecycles of the underlying commodity.",
+      "text_sha256": "47722b58aad88735b4b96e8c82414e648f8de38481ffb84f21dd8cae7e4f49ae",
+      "md_span": {
+        "start": 30092,
+        "end": 31714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Repeal",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "Delegated Regulation (EU) 2017/591 is repealed.\n\nReferences to Delegated Regulation (EU) 2017/591 shall be construed as references to this Regulation and shall be read in accordance with the correlation table in the Annex to this Regulation.",
+      "text_sha256": "6b1d0bfbce907ffe0fd6873f2cd016b08871576c1d51fa09b874bf827423f53f",
+      "md_span": {
+        "start": 31762,
+        "end": 32003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32022r1302:2026-02-08--82cd0c8eec2664fc02d8d29eb6b051899732022d7f2cc813d3a723a425a8a0bb#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Entry into force and application",
+      "path": [
+        "CHAPTER III — METHODOLOGY FOR COMPETENT AUTHORITIES TO CALCULATE POSITION LIMITS",
+        "SECTION 2 — Factors relevant for the calculation of position limits"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 32077,
+        "end": 32219
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/248 of 2\u00A0February 2026 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-02-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0248/versions/2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83/en.xml",
+    "sha256": "f4513524bc2bdedd1556379b64cad8821138e8f98416d7dc810076fd91ba35d3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0248"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Member States requiring an advanced electronic signature or an advanced electronic signature based on a qualified certificate in accordance with Article 27(1) and (2) of Regulation (EU) No 910/2014, shall recognise advanced electronic signatures, using formats or associated signature containers, that comply with the technical specifications listed in Annex I to this Regulation.\n\n2. Member States shall recognise advanced electronic signatures, using formats or associated signature containers, that comply with the technical specifications listed in Annex II to this Regulation, where those electronic signatures were created before 23 February 2028.",
+      "text_sha256": "4ddc89d61e12d2ba75a4eb06d5997c42718aad7994709677a7f3b76b2ed7c542",
+      "md_span": {
+        "start": 747,
+        "end": 1414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States requiring an advanced electronic signature or an advanced electronic signature based on a qualified certificate in accordance with Article 27(1) and (2) of Regulation (EU) No 910/2014, shall recognise formats of advanced electronic signatures other than those referred to in Article 1 of this Regulation, where:\n\n| (a) | the Member State, in which the trust service provider used by the signatory is established, offers other Member States signature validation methods for those formats; and |\n| --- | --- |\n\n| (b) | those validation methods shall be carried out in accordance with paragraph 2. |\n| --- | --- |\n\n2. The validation methods for alternative signature formats shall fulfil all the following conditions:\n\n| (a) | be, where possible, suitable for automated processing; |\n| --- | --- |\n\n| (b) | allow other Member States to validate the received electronic signature online, free of charge; |\n| --- | --- |\n\n| (c) | provide clear, comprehensive, easily understandable and accessible instructions to perform the validation; |\n| --- | --- |\n\n| (d) | be indicated in the signed document, in the electronic signature or in the electronic document container; |\n| --- | --- |\n\n| (e) | confirm the validity of an advanced electronic signature provided that:—the certificate supporting the advanced electronic signature was valid at the time of signing,—where the advanced electronic signature is supported by a qualified certificate, the qualified certificate supporting the advanced electronic signature was, at the time of signing, a qualified certificate for electronic signature in compliance with Annex I to Regulation (EU) No 910/2014 and issued by a qualified trust service provider,—the signature validation data corresponds to the data provided to the relying party,—the unique set of data representing the signatory is correctly provided to the relying party,—if a pseudonym was used at the time of signing, the use of any pseudonym is clearly indicated to the relying party,—where the advanced electronic signature is created by a qualified electronic signature creation device, the use of any such device is clearly indicated to the relying party,—the integrity of the signed data has not been compromised,—the requirements set out in Article 26 of Regulation (EU) No 910/2014 were met at the time of signing,—the system used for validating the advanced electronic signature provides to the relying party the correct result of the validation process and allows the relying party to detect any security relevant issues. |\n| --- | --- |\n| — | the certificate supporting the advanced electronic signature was valid at the time of signing, |\n| — | where the advanced electronic signature is supported by a qualified certificate, the qualified certificate supporting the advanced electronic signature was, at the time of signing, a qualified certificate for electronic signature in compliance with Annex I to Regulation (EU) No 910/2014 and issued by a qualified trust service provider, |\n| — | the signature validation data corresponds to the data provided to the relying party, |\n| — | the unique set of data representing the signatory is correctly provided to the relying party, |\n| — | if a pseudonym was used at the time of signing, the use of any pseudonym is clearly indicated to the relying party, |\n| — | where the advanced electronic signature is created by a qualified electronic signature creation device, the use of any such device is clearly indicated to the relying party, |\n| — | the integrity of the signed data has not been compromised, |\n| — | the requirements set out in Article 26 of Regulation (EU) No 910/2014 were met at the time of signing, |\n| — | the system used for validating the advanced electronic signature provides to the relying party the correct result of the validation process and allows the relying party to detect any security relevant issues. |\n\n3. The indication referred to in paragraph 2, point (d) shall enable relying parties to easily access the complete specifications of the signature validation method, free of charge.",
+      "text_sha256": "a5f5c2758a817e16ab09ccca3c0badbe01d22022d5f1f60da4b60cf707ec040b",
+      "md_span": {
+        "start": 1447,
+        "end": 5551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Member States requiring an advanced electronic seal or an advanced electronic seal based on a qualified certificate in accordance with Article 37(1) and (2) of Regulation (EU) No 910/2014, shall recognise advanced electronic seals, using formats or using associated seal containers, that comply with the technical specifications listed in Annex I to this Regulation.\n\n2. Member States shall recognise advanced electronic seals, using formats or using associated seal containers, that comply with the technical specifications listed in Annex II to this Regulation, where those electronic seals were created before 23 February 2028.",
+      "text_sha256": "3fa43d1e54dc293f1220a1b25a439294ff14559408dbebcb2423d99bf9e67d13",
+      "md_span": {
+        "start": 5584,
+        "end": 6228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Member States requiring an advanced electronic seal or an advanced electronic seal based on a qualified certificate in accordance with Article 37(1) and (2) of Regulation (EU) No 910/2014, shall recognise formats of advanced electronic seals other than those referred to in Article 3 of this Regulation, where:\n\n| (a) | the Member State in which the trust service provider used by the creator of the seal is established offers other Member States seal validation methods for those formats; and |\n| --- | --- |\n\n| (b) | those validation methods shall be carried out in accordance with paragraph 2. |\n| --- | --- |\n\n2. The validation methods for alternative seal formats shall fulfil all the following conditions:\n\n| (a) | be, where possible, suitable for automated processing; |\n| --- | --- |\n\n| (b) | allow other Member States to validate the received electronic seal online, free of charge; |\n| --- | --- |\n\n| (c) | provide clear, comprehensive, easily understandable and accessible instructions to perform the validation; |\n| --- | --- |\n\n| (d) | be indicated in the sealed document, in the electronic seal or in the electronic document container; and |\n| --- | --- |\n\n| (e) | confirm the validity of an advanced electronic seal provided that:—the certificate that supports the advanced electronic seal was valid at the time of sealing,—where the advanced electronic seal is supported by a qualified certificate, the qualified certificate that supports the advanced electronic seal was, at the time of sealing, a qualified certificate for electronic seal in compliance with Annex III to Regulation (EU) No 910/2014 and issued by a qualified trust service provider,—the seal validation data corresponds to the data provided to the relying party,—the unique set of data representing the creator of the seal is correctly provided to the relying party,—if a pseudonym was used at the time of sealing, the use of any pseudonym is clearly indicated to the relying party,—where the advanced electronic seal is created by a qualified electronic seal creation device, the use of any such device is clearly indicated to the relying party,—the integrity of the sealed data has not been compromised,—the requirements set out in Article 36 of Regulation (EU) No 910/2014 were met at the time of sealing, and—the system used for validating the advanced electronic seal provides to the relying party the correct result of the validation process and allows the relying party to detect any security relevant issues. |\n| --- | --- |\n| — | the certificate that supports the advanced electronic seal was valid at the time of sealing, |\n| — | where the advanced electronic seal is supported by a qualified certificate, the qualified certificate that supports the advanced electronic seal was, at the time of sealing, a qualified certificate for electronic seal in compliance with Annex III to Regulation (EU) No 910/2014 and issued by a qualified trust service provider, |\n| — | the seal validation data corresponds to the data provided to the relying party, |\n| — | the unique set of data representing the creator of the seal is correctly provided to the relying party, |\n| — | if a pseudonym was used at the time of sealing, the use of any pseudonym is clearly indicated to the relying party, |\n| — | where the advanced electronic seal is created by a qualified electronic seal creation device, the use of any such device is clearly indicated to the relying party, |\n| — | the integrity of the sealed data has not been compromised, |\n| — | the requirements set out in Article 36 of Regulation (EU) No 910/2014 were met at the time of sealing, and |\n| — | the system used for validating the advanced electronic seal provides to the relying party the correct result of the validation process and allows the relying party to detect any security relevant issues. |\n\n3. The indication referred to in paragraph 2, point (d) shall enable relying parties to easily access the complete specifications of the seal validation method, free of charge.",
+      "text_sha256": "7e8427e2a221c0774483cca13a462c8b3d2c967c82ce1be84679d4ce9652796e",
+      "md_span": {
+        "start": 6261,
+        "end": 10296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nImplementing Decision (EU) 2015/1506 is repealed.\n\nReferences to the repealed Decision shall be construed as references to this Regulation.",
+      "text_sha256": "760bb90caf20902655e5bd3a97a735ae937da4c286a96baa69e8e5d2731cf2b0",
+      "md_span": {
+        "start": 10329,
+        "end": 10479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02--37eabd7e1f7b5b488c0c5e01a0fd691590ef1f018edc5b29366c41e64dd8cd83#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nArticle 1(1) and Article 3(1) shall apply from 23 February 2027.",
+      "text_sha256": "c2ecc43d92c50dcb37b6f6bb6374c909d18577e2850381937db158381c0af0ec",
+      "md_span": {
+        "start": 10512,
+        "end": 10729
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

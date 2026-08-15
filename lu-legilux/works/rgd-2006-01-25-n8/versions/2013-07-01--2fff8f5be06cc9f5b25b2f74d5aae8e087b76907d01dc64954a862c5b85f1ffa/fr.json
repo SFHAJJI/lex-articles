@@ -1,0 +1,143 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 25 janvier 2006 concernant l'organisation et le fonctionnement du Conseil supérieur des personnes handicapées.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2006-01-25-n8/versions/2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa/fr.xml",
+    "sha256": "fefedc7a5eac3bb6cd0a3a291cae23b61afc31e6d86bf984e8c6c6aeadcfa153",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_1er/20060220",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "**(1)** Le Conseil supérieur des personnes handicapées se compose de 11 membres dont:\n\n- cinq représentant(e)s de personnes handicapées respectivement de leurs familles pour ceux et celles qui ne peuvent pas se représenter eux-/elles-mêmes;\n- quatre représentant(e)s d'associations gestionnaires offrant des services aux personnes handicapées;\n- un membre du personnel du Centre national d'information et de rencontre du handicap;\n- un(e) délégué(e) du ministre ayant dans ses attributions la politique en faveur des personnes handicapées, ci-après dénommé «le ministre».\n\n**(2)** Les membres du Conseil sont nommés par le ministre. Les représentant(e)s des personnes handicapées respectivement de leurs familles et les représentant(e)s des associations gestionnaires sont nommé(e)s par le ministre sur proposition des associations de ou pour personnes handicapées, tout en veillant à une représentation équilibrée des personnes présentant une déficience physique, mentale, sensorielle ou psychique. La durée du mandat des membres du conseil est de quatre ans. Leur mandat est renouvelable.\n\nPour chaque membre effectif du Conseil, il est nommé un membre suppléant. En cas de décès ou de démission d'un membre du Conseil, son suppléant le remplace jusqu'à échéance du mandat des membres du Conseil.\n\n**(3)** Le mandat de membre du Conseil est incompatible avec les fonctions de membre du Gouvernement, de membre de la Chambre des Députés et de membre du Conseil d'Etat.\n\nLe membre du Conseil qui perd la qualité au titre de laquelle il a été nommé ne peut plus faire partie du Conseil.",
+      "text_sha256": "3b04ad35b42766985e7b11d3f9438d051bba0fd810522593494d3461f09b0cd9",
+      "md_span": {
+        "start": 743,
+        "end": 2328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_2/20130701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "**(1)** Le Conseil choisit en son sein un président et un vice-président. La présidence du Conseil revient à un représentant d'une association de personnes handicapées.\n\nLe secrétariat du Conseil est assuré par un fonctionnaire ou employé de l'Etat désigné par le ministre. Le secrétaire agit conformément aux directives du bureau défini ci-après.\n\n**(2)** Les membres du Conseil supérieur des personnes handicapées et le secrétaire présents à la réunion à la demande du Conseil ont droit à une indemnité spéciale qui est fixée comme suit:\n\n| Président | 30 € / séance |\n| --- | --- |\n| Membre | 15 € / séance |\n| Secrétaire | 15 € / séance |",
+      "text_sha256": "1c331f70906023776f1d38ba13c3a38f65ca8f19fb91da9df053f636962d28b6",
+      "md_span": {
+        "start": 2363,
+        "end": 3005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_3/20060220",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "Le président, le vice-président, le secrétaire du Conseil et deux membres élus au sein du Conseil forment le bureau du Conseil. Le bureau assure la gestion des affaires courantes et se prononce sur toutes les questions concernant le fonctionnement et l'activité du Conseil.",
+      "text_sha256": "69a299dbcbcd485223cfa531e41227ab39d5e7ea5a6f1d47c8eb333e6696ecb1",
+      "md_span": {
+        "start": 3040,
+        "end": 3313
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_4/20060220",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "**(1)** Le Conseil peut, dans l'exercice de ses missions, inviter en consultation toute personne dont le concours, en raison de sa compétence ou de sa fonction, lui paraît utile pour l'exécution de sa mission.\n\n**(2)** Le Conseil peut instituer des commissions ou des groupes de travail chargés soit d'une mission permanente, soit de l'analyse d'un sujet particulier.",
+      "text_sha256": "26f1c2e2b10b60163b0b0b46a97b0a15587a408e0d3764a62bb56c96258006e7",
+      "md_span": {
+        "start": 3348,
+        "end": 3715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_5/20060220",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "Le Conseil se réunit aussi souvent que l'exige la prompte expédition des affaires et au moins quatre fois par an.",
+      "text_sha256": "c04c53ac1a58e19bf7cd9caef440d5acbbaf152bb607bad8ca66c04587b9966d",
+      "md_span": {
+        "start": 3750,
+        "end": 3863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_6/20060220",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "Le Conseil établit un règlement d'ordre intérieur qui détermine notamment les modalités de convocation, de délibération et de vote du Conseil et qui sera approuvé par règlement grand-ducal.",
+      "text_sha256": "12f36f1dfa65625a7d7e6f3607af743848427ff81d9fb8ea06e70793485b5cb4",
+      "md_span": {
+        "start": 3898,
+        "end": 4087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2006-01-25-n8:2013-07-01--2fff8f5be06cc9f5b25b2f74d5aae8e087b76907d01dc64954a862c5b85f1ffa#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/art_7/20060220",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-02-20",
+      "text_md": "Notre Ministre de la Famille et de l'Intégration est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+      "md_span": {
+        "start": 4122,
+        "end": 4247
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

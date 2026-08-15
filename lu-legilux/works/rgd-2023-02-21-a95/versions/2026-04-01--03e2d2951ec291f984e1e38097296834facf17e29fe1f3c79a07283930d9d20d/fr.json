@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/04/2026 : Règlement grand-ducal du 21 février 2023 relatif à la participation de l’Armée luxembourgeoise aux forces terrestres avancées (Forward Land Forces – FLF) de l’OTAN en Roumanie.",
+  "valid_from": "2026-04-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2023-02-21-a95/versions/2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d/fr.pdf/eli-etat-leg-rgd-2023-02-21-a95-consolide-20260401-fr-pdf.pdf",
+    "sha256": "7172a804bcd3aa2068a43b75163af66d046bf97b2072873711104982f1752048",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20260401/fr"
+  },
+  "generator": {
+    "profile": "pdf-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le Grand-Duché de Luxembourg participe au groupement tactique allié en Roumanie dans le cadre des forces terrestres avancées (Forward Land Forces – FLF) de l’OTAN à partir du 2 juillet 2025 et jusqu’au 1er juillet 2027 au plus tard.",
+      "text_sha256": "ebe83c6e183d235e94b56f126f445f46f0ac5d18e380efc1fc43d2b5c47cb047",
+      "md_span": {
+        "start": 779,
+        "end": 1011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La contribution luxembourgeoise comprend au maximum quarante membres de l’Armée luxembourgeoise par rotation. Ce plafond n’inclut ni le personnel chargé de missions d’inspection ou en visite, ni la présence simultanée de deux contingents lors de la relève du contingent en place.",
+      "text_sha256": "bf406902b29ef544180e0af98e9502ebc7c5c215e2c4014c0a1a19e97da5e832",
+      "md_span": {
+        "start": 1046,
+        "end": 1325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sur proposition du chef d’état-major de l’Armée luxembourgeoise, le ministre ayant la Défense dans ses attributions désigne les membres de l’Armée luxembourgeoise participant à la mission et détermine la durée maximale de leur affectation.",
+      "text_sha256": "c418a9771a4eb2f9b6bc65b7f6f8106abe005b684e9525cc78578da5fd802886",
+      "md_span": {
+        "start": 1360,
+        "end": 1599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’Armée luxembourgeoise participe à la mission avec un peloton de reconnaissance léger ainsi qu’éventuellement avec des postes d’état-major ou de soutien opérationnel, administratif logistique ou médical.",
+      "text_sha256": "9a3a4ade15bc394f50ac9cb71f0d26cab8d13f66553013a4f8e2d0030e9f1210",
+      "md_span": {
+        "start": 1634,
+        "end": 1838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour la durée de leur mission, les membres de l’Armée luxembourgeoise sont placés sous l’autorité hiérarchique du commandant du groupement tactique allié.",
+      "text_sha256": "7447d911f36896affa83e983f327f7bcd3787e1951155aaa390a9486a7b7ce6c",
+      "md_span": {
+        "start": 1873,
+        "end": 2027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres de l’Armée luxembourgeoise ont droit à l’indemnité mensuelle spéciale non imposable et non pensionnable, prévue à l’article 9 de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché règlement grand-ducal du 21 février 2023 Version consolidée au 01 avril 2026 - 1 - de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "9f4fe13a0ecf22587441156d556cb6dc44b42fadda39dbc0a2e39cff67878c28",
+      "md_span": {
+        "start": 2062,
+        "end": 2486
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres de l’Armée luxembourgeoise bénéficient d’un congé spécial de fin de mission conformément à l’article 17bis de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "86f66b21335423ae62ad93f7d630211ecc9a89d115ac625b400d2995f3dac5f0",
+      "md_span": {
+        "start": 2521,
+        "end": 2843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01--03e2d2951ec291f984e1e38097296834facf17e29fe1f3c79a07283930d9d20d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre ministre ayant les Affaires étrangères et européennes dans ses attributions et Notre ministre ayant la Défense dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg. règlement grand-ducal du 21 février 2023 Version consolidée au 01 avril 2026 - 2 -",
+      "text_sha256": "baa5d96e90333c5f3c9611fda668e86fc15f364f4e1d1e16d4a29d4248305f13",
+      "md_span": {
+        "start": 2878,
+        "end": 3245
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "dropped 15 line(s) of front matter"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2022/960 of 20\u00A0June 2022 correcting the Czech language version of Implementing Regulation (EU) 2015/1502 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article\u00A08(3) of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2022-06-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0960/versions/2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2/fr.xml",
+    "sha256": "0e9e6a53ebbf795ea07878ae7d6ca84e6d1b70144ef0df30dc2e3cb19680dd8a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0960"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n(ne concerne pas la version française)",
+      "text_sha256": "a197b60e39e164ca9717e535f61b9250c2b47f57f7f61f697c88ffe55fb20ab4",
+      "md_span": {
+        "start": 931,
+        "end": 986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1019,
+        "end": 1160
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

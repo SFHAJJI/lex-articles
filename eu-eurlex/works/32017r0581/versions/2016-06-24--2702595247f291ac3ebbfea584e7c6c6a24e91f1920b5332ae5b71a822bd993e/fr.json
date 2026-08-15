@@ -1,0 +1,398 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/581 of 24 June 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-06-24",
+  "valid_to": "2017-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0581/versions/2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e/fr.xml",
+    "sha256": "fc28724d4ce10edac5cc601a7709af8f9c145b5f473da90693c0907f1ed30b87",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0581"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les contreparties centrales évaluent si l'octroi de l'accès ferait naître l'un des risques visés aux articles 2, 3 et 4 et ne peuvent refuser l'accès que si, après avoir fait tous les efforts raisonnables pour gérer ces risques, elles estiment qu'il existe des risques excessifs qui ne peuvent être gérés.\n\n2. Une contrepartie centrale qui refuse l'accès précise quels risques visés aux articles 2, 3 et 4 résulteraient de l'octroi de l'accès et explique pourquoi ces risques ne peuvent être gérés.",
+      "text_sha256": "620a154276b4d877907e52169f2b6a673bb1093b503742f8c90f001b59225894",
+      "md_span": {
+        "start": 720,
+        "end": 1238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nUne contrepartie centrale ne peut refuser une demande d'accès en raison du volume de transactions attendu à la suite de cet accès que s'il résultait de cet accès l'une des conséquences suivantes:\n\n| a) | même en tenant compte de l'extensibilité intrinsèque des systèmes de la contrepartie centrale, celle-ci ne serait pas en mesure de les adapter suffisamment pour traiter le volume de transactions attendu; |\n| --- | --- |\n\n| b) | les capacités prévues de la contrepartie centrale seraient dépassées au point que la contrepartie centrale ne serait pas en mesure d'acquérir les capacités supplémentaires nécessaires pour réaliser la compensation du volume de transactions attendu. |\n| --- | --- |",
+      "text_sha256": "a4b3140b2d748184069785e017175df4c11cb731b297cc85be72cc93e8c14e88",
+      "md_span": {
+        "start": 1271,
+        "end": 1978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nUne contrepartie centrale peut refuser une demande d'accès en raison du risque et de la complexité opérationnels.\n\nLe risque et la complexité opérationnels peuvent consister en:\n\n| a) | une incompatibilité entre les systèmes informatiques de la contrepartie centrale et ceux de la plate-forme de négociation empêchant la contrepartie centrale d'établir une connexion entre ces systèmes; |\n| --- | --- |\n\n| b) | un manque de ressources humaines ayant les connaissances, les compétences et l'expérience nécessaires pour assumer les fonctions de la contrepartie centrale en ce qui concerne le risque découlant d'instruments financiers supplémentaires lorsque ceux-ci diffèrent des instruments financiers qu'elle compense déjà, ou une incapacité à mobiliser ces ressources humaines. |\n| --- | --- |",
+      "text_sha256": "c37d19d2996dfca227d9ecfd382e152b0f393234a90afe184b24dbadbf6c8c55",
+      "md_span": {
+        "start": 2011,
+        "end": 2816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Une contrepartie centrale peut refuser une demande d'accès en raison de risques excessifs dès lors, une seule de ces conditions étant suffisante:\n\n| a) | qu'elle ne propose pas de services de compensation pour les instruments financiers pour lesquels l'accès est demandé et ne serait pas en mesure, en fournissant des efforts raisonnables, de lancer un service de compensation satisfaisant aux exigences des titres II, III et IV du règlement (UE) no 648/2012; |\n| --- | --- |\n\n| b) | que l'octroi de l'accès mettrait en péril sa viabilité économique ou sa capacité à satisfaire aux exigences minimales de fonds propres en vertu de l'article 16 du règlement (UE) no 648/2012; |\n| --- | --- |\n\n| c) | qu'il existe un risque juridique; |\n| --- | --- |\n\n| d) | qu'il existe une incompatibilité entre ses règles et celles de la plate-forme de négociation à laquelle elle ne peut remédier en coopération avec cette dernière. |\n| --- | --- |\n\n2. Une contrepartie centrale peut refuser une demande d'accès en raison du risque juridique visé au paragraphe 1, point c) si l'octroi de l'accès aurait pour conséquence qu'elle ne serait pas en mesure d'appliquer ses règles relatives à la compensation avec déchéance du terme et à la défaillance ou de gérer les risques découlant de l'utilisation simultanée de différents modèles d'acceptation des transactions.",
+      "text_sha256": "4b1b0f493ee78ce1a897d690744496f0c7359b78e8f852baf72ce5ca60d777ea",
+      "md_span": {
+        "start": 2849,
+        "end": 4211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les plates-formes de négociation évaluent si l'octroi de l'accès ferait naître l'un des risques visés aux articles 6 et 7 et ne peuvent refuser l'accès que si, après avoir fait tous les efforts raisonnables pour gérer ces risques, elles estiment qu'il existe des risques excessifs qui ne peuvent être gérés.\n\n2. Une plate-forme de négociation qui refuse l'accès précise quels risques visés aux articles 6 et 7 résulteraient de l'octroi de l'accès et explique pourquoi ces risques ne peuvent être gérés.",
+      "text_sha256": "f4a35d07d8ff81ff465a86a0984a9bb0414c2fd8b053f04d59dfd733182f791d",
+      "md_span": {
+        "start": 4244,
+        "end": 4760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nUne plate-forme de négociation ne peut refuser une demande d'accès en raison du risque et de la complexité opérationnels résultant d'un tel accès que s'il existe un risque d'incompatibilité entre les systèmes informatiques de la contrepartie centrale et ceux de la plate-forme de négociation qui empêche cette dernière d'établir une connexion entre ces systèmes.",
+      "text_sha256": "6e1abb17fe5de57d3a1ddc1e6c0e13b6e85b5e8d7f51adcc68b21e8d35c1e3ce",
+      "md_span": {
+        "start": 4793,
+        "end": 5166
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nUne plate-forme de négociation peut refuser une demande d'accès en raison de risques excessifs pour chacun des motifs suivants:\n\n| (a) | mise en péril de sa viabilité économique ou de sa capacité à satisfaire aux exigences de fonds propres prévues à l'article 47, paragraphe 1, point f), de la directive 2014/65/UE du Parlement européen et du Conseil (4); |\n| --- | --- |\n\n| (b) | incompatibilité entre ses règles et celles de la contrepartie centrale à laquelle elle ne peut remédier en coopération avec cette dernière. |\n| --- | --- |",
+      "text_sha256": "a212199a26945d8df9e46a452b45985e8690d30885f9d124cc040c2b4ea00100",
+      "md_span": {
+        "start": 5199,
+        "end": 5746
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017087FR.01021201-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nOutre la fragmentation des liquidités au sens de l'article 2, paragraphe 1, point 45, du règlement (UE) no 600/2014, aux fin de l'article 35, paragraphe 4, point b), et de l'article 36, paragraphe 4, point b), dudit règlement, l'octroi de l'accès est réputé mettre en péril le fonctionnement harmonieux et ordonné des marchés ou accentuer le risque systémique si l'autorité peut motiver le refus, y compris par des éléments montrant que les procédures de gestion des risques d'une ou des deux parties à la demande d'accès ne suffisent pas à empêcher l'octroi de l'accès d'entraîner des risques excessifs pour des tiers, et qu'il n'est pas possible d'atténuer suffisamment ces risques.",
+      "text_sha256": "427fa000f797beaf9163040c6c012b20fbbbce7063dd646083ceed27de758b02",
+      "md_span": {
+        "start": 5779,
+        "end": 6474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les parties s'accordent sur leurs droits et obligations respectifs découlant de l'accès octroyé, y compris sur le droit applicable à leurs relations. Les dispositions de l'accord d'accès:\n\n| a) | sont clairement définies, transparentes, valides et exécutoires; |\n| --- | --- |\n\n| b) | précisent, lorsque plusieurs contreparties centrales ont accès à la plate-forme de négociation, la manière dont les transactions sur la plate-forme de négociation seront allouées à la contrepartie centrale partie à l'accord; |\n| --- | --- |\n\n| c) | prévoient des règles claires concernant le moment de l'introduction des ordres de transfert, au sens de la directive 98/26/CE du Parlement européen et du Conseil (5), dans les systèmes concernés et le moment de l'irrévocabilité; |\n| --- | --- |\n\n| d) | stipulent des règles concernant la résiliation de l'accord d'accès par l'une ou l'autre des parties, qui:i)prévoient une résolution ordonnée qui ne crée pas de risques supplémentaires excessifs pour d'autres entités, y compris des dispositions claires et transparentes pour la gestion et le dénouement ordonné des contrats et des positions relevant du contrat d'accès qui étaient ouverts au moment de la résiliation;ii)donnent à la partie concernée un délai raisonnable pour remédier aux défaillances qui ne déclenchent pas une résiliation immédiate;iii)permettent la résiliation si les risques deviennent tels qu'ils auraient pu initialement motiver un refus d'octroi de l'accès; |\n| --- | --- |\n| i) | prévoient une résolution ordonnée qui ne crée pas de risques supplémentaires excessifs pour d'autres entités, y compris des dispositions claires et transparentes pour la gestion et le dénouement ordonné des contrats et des positions relevant du contrat d'accès qui étaient ouverts au moment de la résiliation; |\n| ii) | donnent à la partie concernée un délai raisonnable pour remédier aux défaillances qui ne déclenchent pas une résiliation immédiate; |\n| iii) | permettent la résiliation si les risques deviennent tels qu'ils auraient pu initialement motiver un refus d'octroi de l'accès; |\n\n| e) | précisent quels instruments financiers sont régis par l'accord d'accès; |\n| --- | --- |\n\n| f) | précisent comment sont couverts les coûts ponctuels et récurrents entraînés par la demande d'accès; |\n| --- | --- |\n\n| g) | prévoient des dispositions en matière de créances et d'engagements découlant de l'accord d'accès. |\n| --- | --- |\n\n2. Les dispositions de l'accord d'accès stipulent que les parties à l'accord mettent en place des politiques, des procédures et des systèmes qui permettent ou prévoient:\n\n| a) | une communication rapide, fiable et sûre entre les parties; |\n| --- | --- |\n\n| b) | une consultation préalable de l'autre partie lorsqu'une modification des opérations de l'une des parties est susceptible d'avoir une incidence significative sur l'accord d'accès ou sur les risques auxquels l'autre partie est exposée; |\n| --- | --- |\n\n| c) | une notification en temps utile à l'autre partie avant la mise en œuvre d'une modification, dans les cas non couverts par le point b); |\n| --- | --- |\n\n| d) | le règlement des différends; |\n| --- | --- |\n\n| e) | l'identification, le suivi et la gestion des risques potentiels découlant de l'accord d'accès; |\n| --- | --- |\n\n| f) | la réception, par la plate-forme de négociation, de toutes les informations dont elle a besoin pour s'acquitter de ses obligations en ce qui concerne le suivi des positions ouvertes; |\n| --- | --- |\n\n| g) | l'acceptation par la contrepartie centrale de la livraison de matières premières pour les dérivés réglés par livraison physique. |\n| --- | --- |\n\n3. Les parties à l'accord d'accès veillent à ce que:\n\n| a) | des normes de gestion des risques appropriées soient respectées lors de l'octroi de l'accès; |\n| --- | --- |\n\n| b) | les informations fournies dans la demande d'accès soient tenues à jour pendant toute la durée de l'accord d'accès, y compris les informations sur les modifications significatives; |\n| --- | --- |\n\n| c) | les informations confidentielles et commercialement sensibles, y compris celles fournies durant la phase de développement d'un instrument financier, ne puissent être utilisées qu'aux fins pour lesquelles elles sont transmises et faisant l'objet d'un accord entre les parties. |\n| --- | --- |",
+      "text_sha256": "43934a5c8f7d610eddcf9312d79b1da35a208361b8405d8914c4429226afdfbf",
+      "md_span": {
+        "start": 6507,
+        "end": 10824
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2017087FR.01021201-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les frais facturés par une contrepartie centrale pour la compensation de transactions exécutées sur une plate-forme de négociation à laquelle elle a octroyé l'accès sont fondés sur des critères objectifs applicables à l'ensemble des membres compensateurs et, le cas échéant, des clients. À cet effet, la contrepartie centrale soumet tous les membres compensateurs et, le cas échéant, tous les clients au même barème de frais et de remises et ne fait pas dépendre leurs frais de la plate-forme de négociation sur laquelle la transaction a lieu.\n\n2. Les frais facturés par une contrepartie centrale à une plate-forme de négociation en rapport avec l'accès sont fondés sur des critères objectifs. À cet effet, pour les mêmes instruments financiers ou des instruments similaires, les mêmes frais et remises sont appliqués à toutes les plates-formes de négociation accédant à la contrepartie centrale, sauf si un autre barème se justifie objectivement.\n\n3. Conformément à l'article 38 du règlement (UE) no 648/2012, les contreparties centrales veillent à ce que les barèmes visés aux paragraphes 1 et 2 du présent article soient aisément accessibles, identifiables par service fourni et suffisamment détaillés pour que les frais facturés soient prévisibles.\n\n4. Les paragraphes 1 à 3 s'appliquent aux frais facturés pour couvrir les coûts ponctuels et récurrents.",
+      "text_sha256": "184657d518ff76287d810a451b2c4edabca3af34c7741d3689ac5330f69e4a20",
+      "md_span": {
+        "start": 10859,
+        "end": 12232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les frais facturés par une plate-forme de négociation en rapport avec l'accès sont fondés sur des critères objectifs. À cet effet, pour les mêmes instruments financiers ou des instruments similaires, le même barème de frais et remises est appliqué à toutes les contreparties centrales accédant à la plate-forme de négociation, sauf si un autre barème se justifie objectivement.\n\n2. Les plates-formes de négociation veillent à ce que les barèmes visés au paragraphe 1 soient aisément accessibles et que les frais soient identifiables par service fourni et suffisamment détaillés afin que les frais résultants soient prévisibles.\n\n3. Les paragraphes 1 et 2 s'appliquent à tous les frais liés à l'accès, y compris ceux facturés pour couvrir les coûts ponctuels et récurrents.",
+      "text_sha256": "c7dac30661f8f393896e1ffb085d29c0d2f05f99a6eae46c6efae6cc350eae18",
+      "md_span": {
+        "start": 12267,
+        "end": 13054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. La contrepartie centrale détermine si les contrats négociés sur la plate-forme de négociation à laquelle elle a octroyé l'accès sont économiquement équivalents à des contrats présentant des caractéristiques de risques similaires qu'elle compense déjà.\n\n2. Aux fins du présent article, une contrepartie centrale considère tous les contrats négociés sur la plate-forme de négociation à laquelle elle a octroyé l'accès et qui font partie de la catégorie d'instruments financiers couverte par l'agrément de la contrepartie centrale visé à l'article 14 du règlement (UE) no 648/2012, ou par une extension ultérieure d'agrément visée à l'article 15 dudit règlement, comme économiquement équivalents aux contrats de la même catégorie d'instruments financiers qu'elle compense déjà.\n\n3. Une contrepartie centrale peut considérer qu'un contrat négocié sur une plate-forme de négociation à laquelle elle a octroyé l'accès et qui présente un profil de risque sensiblement différent ou des différences importantes par rapport aux contrats qu'elle compense déjà dans la catégorie concernée d'instruments financiers n'est pas économiquement équivalent si elle a obtenu une extension d'agrément au titre de l'article 15 du règlement (UE) no 648/2012 en ce qui concerne ce contrat et en lien avec la demande d'accès de cette plate-forme de négociation.\n\n4. Les contreparties centrales appliquent aux contrats économiquement équivalents visés au paragraphe 1 les mêmes méthodes en matière de marge et de garanties où que ces contrats soient négociés. Une contrepartie centrale ne subordonne la compensation d'un contrat économiquement équivalent visé au paragraphe 1 à l'adoption de modifications de ses modèles et paramètres de risque que si cela est nécessaire pour atténuer les facteurs de risque liés à la plate-forme de négociation concernée ou aux contrats qui y sont négociés. De telles modifications sont considérées comme des modifications significatives de ses modèles et paramètres telles que visées aux articles 28 et 49 du règlement (UE) no 648/2012.",
+      "text_sha256": "30a217e144c5630561c89120be0845fbbcef9492450077a70416eedbec548019",
+      "md_span": {
+        "start": 13089,
+        "end": 15150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Une contrepartie centrale applique aux contrats économiquement équivalents visés à l'article 12, paragraphe 1, du présent règlement les mêmes procédures de netting quel que soit le lieu où les contrats ont été négociés, à condition que ces procédures de netting soient valides et exécutoires en vertu de la directive 98/26/CE et de la législation applicable en matière d'insolvabilité.\n\n2. Une contrepartie centrale estimant que le risque juridique ou le risque de base d'une procédure de netting qu'elle applique à un contrat économiquement équivalent n'est pas suffisamment atténué subordonne la compensation d'un tel contrat à l'adoption de modifications de sa procédure de netting visant à exclure le netting pour ce contrat. De telles modifications sont considérées comme des modifications significatives de ses modèles et paramètres telles que visées aux articles 28 et 49 du règlement (UE) no 648/2012.\n\n3. Aux fins du paragraphe 2, on entend par «risque de base» le risque découlant d'une corrélation imparfaite entre les variations de deux ou plusieurs actifs ou contrats compensés par la contrepartie centrale.",
+      "text_sha256": "ce5ad97e5506cb6f086c4dbd9d0a25e246953e26435d344eaa110e11aca94427",
+      "md_span": {
+        "start": 15185,
+        "end": 16320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLorsqu'une contrepartie centrale calcule les marges concernant les appels de marge croisés des contrats corrélés compensés par la même contrepartie centrale (marges de portefeuille), conformément à l'article 41 du règlement (UE) no 648/2012 et à l'article 27 du règlement délégué (UE) no 153/2013 de la Commission (6), elle applique son approche en matière de marge de portefeuille à tous les contrats corrélés concernés, où qu'ils soient négociés. Les contrats entre lesquels il existe corrélation fiable et significative, ou un paramètre statistique de dépendance équivalent, bénéficient des mêmes compensations entre contrats et réductions.",
+      "text_sha256": "5c072a140db841e5e006a16c2a9b7eb0e5aadf05f61b46202060ac865a4f19ab",
+      "md_span": {
+        "start": 16355,
+        "end": 17010
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087FR.01021201-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLorsqu'une contrepartie centrale demande à bénéficier du régime transitoire visé à l'article 35, paragraphe 5, du règlement (UE) no 600/2014, elle présente une notification écrite à son autorité compétente au moyen du formulaire 1 figurant à l'annexe du présent règlement.",
+      "text_sha256": "a2cb59f028980337e80ddb3f70806fd24643d39cecc318c5e0b4863091691c7d",
+      "md_span": {
+        "start": 17045,
+        "end": 17329
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nToute décision d'approuver un régime transitoire conformément à l'article 35, paragraphe 5, du règlement (UE) no 600/2014, est notifiée par écrit par les autorités compétentes à l'AEMF et au collège des autorités compétentes de la contrepartie centrale sans retard et au plus tard un mois à compter de la décision, au moyen du formulaire 2 figurant à l'annexe du présent règlement.",
+      "text_sha256": "05f5eaf946d736ee01f7c6813a8a5e81e0a45b4b33755658d5ef445957624265",
+      "md_span": {
+        "start": 17364,
+        "end": 17757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLorsqu'une plate-forme de négociation demande à être exemptée des dispositions de l'article 36 du règlement (UE) no 600/2014, elle présente une notification écrite à son autorité compétente et à l'AEMF au moyen des formulaires 3.1 et 3.2 figurant à l'annexe du présent règlement.",
+      "text_sha256": "32b8382cb27bd98475b1bcf3dbe4c7e9818c0e637194a49db655c4df810a0734",
+      "md_span": {
+        "start": 17792,
+        "end": 18083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nLorsqu'une plate-forme de négociation souhaite continuer à être exemptée des dispositions de l'article 36 du règlement (UE) no 600/2014 pour une durée supplémentaire de 30 mois, elle présente une notification écrite à son autorité compétente et à l'AEMF au moyen des formulaires 4.1 et 4.2 figurant à l'annexe du présent règlement.",
+      "text_sha256": "c883d6a55593f4db9c48d6b1f7bec251ec0c93e17a2a58a7b0ca9c32cb20fb65",
+      "md_span": {
+        "start": 18118,
+        "end": 18461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Conformément à l'article 36, paragraphe 5, du règlement (UE) no 600/2014, une plate-forme de négociation qui souhaite être exemptée des dispositions de l'article 36 dudit règlement pour une période de trente mois à partir de sa date d'entrée en application inclut dans le calcul de son montant notionnel annuel toutes les transactions portant sur des produits dérivés négociés sur des marchés réglementés effectuées durant l'année civile précédant celle de l'entrée en application dudit règlement.\n\n2. Aux fins du calcul, conformément à l'article 36, paragraphe 5, du règlement (UE) no 600/2014, de son montant notionnel annuel pour l'année précédant celle de l'entrée en application dudit règlement, une plate-forme de négociation utilise les chiffres effectifs pour la période pour laquelle ils sont disponibles.\n\nSi, pour l'année précédant l'année d'entrée en application du règlement (UE) no 600/2014, une plate-forme de négociation ne dispose de données que pour moins de 12 mois, elle établit une estimation pour l'année en question en recourant:\n\n| (a) | aux données réelles de la plus longue période possible depuis le début de l'année précédant l'année d'entrée en application du règlement (UE) no 600/2014, comprenant au moins les huit premiers mois; |\n| --- | --- |\n\n| (b) | aux données réelles d'une période équivalente de l'année précédant celle visée au point a) du présent paragraphe; |\n| --- | --- |\n\n| (c) | aux données réelles de toute l'année précédant celle visée au point a) du présent paragraphe. |\n| --- | --- |\n\nLa valeur estimée du montant notionnel annuel est calculée en multipliant la valeur résultant du deuxième alinéa, point a), par la valeur résultant du deuxième alinéa, point c), et en divisant le résultat par la valeur résultant du deuxième alinéa, point b).\n\n3. Une plate-forme de négociation qui souhaite être exemptée de l'application des dispositions de l'article 36 du règlement (UE) no 600/2014 pour une période de 30 mois supplémentaires à partir de la fin de la première période de 30 mois ou d'une période de 30 mois ultérieure inclut dans le calcul de son montant notionnel annuel conformément à l'article 36, paragraphe 5, dudit règlement toutes les transactions portant sur des dérivés négociés sur des marchés réglementés effectuées en vertu de ses règles au cours de chacune des deux premières années glissantes de la précédente période de 30 mois.\n\n4. Lorsqu'il existe, pour calculer le montant notionnel annuel de certains types d'instruments, plusieurs méthodes de calcul acceptables donnant des résultats sensiblement différents, celle donnant la valeur la plus élevée est retenue. En particulier, en ce qui concerne les dérivés tels que les contrats à terme ou les options, y compris tous les types de dérivés sur matières premières qui font référence à des unités, le montant notionnel annuel est la valeur totale des actifs sous-jacents au dérivé à leur prix au moment où la transaction est effectuée.",
+      "text_sha256": "c2a7fa229e82c09e293dd6aaf81243ecf80cdf75647c11e23c0ea97dadef300f",
+      "md_span": {
+        "start": 18496,
+        "end": 21469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Aux fins de la vérification prévue par l'article 36, paragraphe 6, point d), du règlement (UE) no 600/2014, la plate-forme de négociation transmet à l'AEMF, sur demande, tous les faits et chiffres sur lesquels reposent les calculs.\n\n2. Lorsqu'elle vérifie les montants notionnels annuels déclarés, l'AEMF tient également compte des données post-négociation et des statistiques annuelles pertinentes.\n\n3. L'AEMF approuve ou refuse la non-participation dans un délai de trois mois à compter de la date de réception de toutes les informations requises pour la notification conformément à l'article 16 ou 17, y compris les informations visées à l'article 19.",
+      "text_sha256": "e76c8c490b343287f52ababf8807923374435c0dc1555dc1b7966cfb562f1439",
+      "md_span": {
+        "start": 21504,
+        "end": 22173
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0581:2016-06-24--2702595247f291ac3ebbfea584e7c6c6a24e91f1920b5332ae5b71a822bd993e#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 3 janvier 2018.\n\nToutefois, ses articles 15, 16, 17, 19 et 20 s'appliquent à compter de la date d'entrée en vigueur du présent règlement.",
+      "text_sha256": "593e40fd145eefc15829af0aba19c0daea57aa7dbc8f1c5919d9e33a16544a9f",
+      "md_span": {
+        "start": 22208,
+        "end": 22516
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

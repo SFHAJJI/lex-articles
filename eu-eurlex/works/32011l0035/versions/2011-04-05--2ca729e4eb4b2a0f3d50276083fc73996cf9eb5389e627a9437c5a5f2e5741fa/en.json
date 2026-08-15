@@ -1,0 +1,609 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa",
+  "language": "en",
+  "title": "Directive 2011/35/EU",
+  "valid_from": "2011-04-05",
+  "valid_to": "2013-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011l0035/versions/2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa/en.xml",
+    "sha256": "4b3ffd49c45b02d28875bc97ed72c8210e3524e5ea349b260e86c991a198d5b3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0035"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The coordination measures laid down by this Directive shall apply to the laws, regulations and administrative provisions of the Member States relating to the following types of company:\n\n| — | Belgium:—la société anonyme/de naamloze vennootschap, |\n| --- | --- |\n| — | la société anonyme/de naamloze vennootschap, |\n\n| — | Bulgaria:—акционерно дружество, |\n| --- | --- |\n| — | акционерно дружество, |\n\n| — | the Czech Republic:—akciová společnost, |\n| --- | --- |\n| — | akciová společnost, |\n\n| — | Denmark:—aktieselskaber, |\n| --- | --- |\n| — | aktieselskaber, |\n\n| — | Germany:—die Aktiengesellschaft, |\n| --- | --- |\n| — | die Aktiengesellschaft, |\n\n| — | Estonia:—aktsiaselts, |\n| --- | --- |\n| — | aktsiaselts, |\n\n| — | Ireland:—public companies limited by shares, and public companies limited by guarantee having a share capital, |\n| --- | --- |\n| — | public companies limited by shares, and public companies limited by guarantee having a share capital, |\n\n| — | Greece:—ανώνυμη εταιρία, |\n| --- | --- |\n| — | ανώνυμη εταιρία, |\n\n| — | Spain:—la sociedad anónima, |\n| --- | --- |\n| — | la sociedad anónima, |\n\n| — | France:—la société anonyme, |\n| --- | --- |\n| — | la société anonyme, |\n\n| — | Italy:—la società per azioni, |\n| --- | --- |\n| — | la società per azioni, |\n\n| — | Cyprus:—Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείες περιορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο, |\n| --- | --- |\n| — | Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείες περιορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο, |\n\n| — | Latvia:—akciju sabiedrība, |\n| --- | --- |\n| — | akciju sabiedrība, |\n\n| — | Lithuania:—akcinė bendrovė, |\n| --- | --- |\n| — | akcinė bendrovė, |\n\n| — | Luxembourg:—la société anonyme, |\n| --- | --- |\n| — | la société anonyme, |\n\n| — | Hungary:—részvénytársaság, |\n| --- | --- |\n| — | részvénytársaság, |\n\n| — | Malta:—kumpannija pubblika/public limited liability company, kumpannija privata/private limited liability company, |\n| --- | --- |\n| — | kumpannija pubblika/public limited liability company, kumpannija privata/private limited liability company, |\n\n| — | the Netherlands:—de naamloze vennootschap, |\n| --- | --- |\n| — | de naamloze vennootschap, |\n\n| — | Austria:—die Aktiengesellschaft, |\n| --- | --- |\n| — | die Aktiengesellschaft, |\n\n| — | Poland:—spółka akcyjna, |\n| --- | --- |\n| — | spółka akcyjna, |\n\n| — | Portugal:—a sociedade anónima, |\n| --- | --- |\n| — | a sociedade anónima, |\n\n| — | Romania:—societate pe acțiuni, |\n| --- | --- |\n| — | societate pe acțiuni, |\n\n| — | Slovenia:—delniška družba, |\n| --- | --- |\n| — | delniška družba, |\n\n| — | Slovakia:—akciová spoločnosť, |\n| --- | --- |\n| — | akciová spoločnosť, |\n\n| — | Finland:—julkinen osakeyhtiö/publikt aktiebolag, |\n| --- | --- |\n| — | julkinen osakeyhtiö/publikt aktiebolag, |\n\n| — | Sweden:—aktiebolag, |\n| --- | --- |\n| — | aktiebolag, |\n\n| — | the United Kingdom:—public companies limited by shares, and public companies limited by guarantee having a share capital. |\n| --- | --- |\n| — | public companies limited by shares, and public companies limited by guarantee having a share capital. |\n\n2. The Member States need not apply this Directive to cooperatives incorporated as one of the types of company listed in paragraph 1. In so far as the laws of the Member States make use of this option, they shall require such companies to include the word ‘cooperative’ in all the documents referred to in Article 5 of Directive 2009/101/EC.\n\n3. The Member States need not apply this Directive in cases where the company or companies which are being acquired or will cease to exist are the subject of bankruptcy proceedings, proceedings relating to the winding-up of insolvent companies, judicial arrangements, compositions and analogous proceedings.",
+      "text_sha256": "6be315ccebe4011b03b049c99388cc5085964e2e46a2a67b1a601b5fd7b65d56",
+      "md_span": {
+        "start": 637,
+        "end": 4481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe Member States shall, as regards companies governed by their national laws, make provision for rules governing merger by the acquisition of one or more companies by another company and merger by the formation of a new company.",
+      "text_sha256": "b848e7e5e252fd9c2880bc1c9c60da77fb3f749d392d701847634e0ae0be939d",
+      "md_span": {
+        "start": 4514,
+        "end": 4754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. For the purposes of this Directive, ‘merger by acquisition’ shall mean the operation whereby one or more companies are wound up without going into liquidation and transfer to another all their assets and liabilities in exchange for the issue to the shareholders of the company or companies being acquired of shares in the acquiring company and a cash payment, if any, not exceeding 10 % of the nominal value of the shares so issued or, where they have no nominal value, of their accounting par value.\n\n2. A Member State’s laws may provide that merger by acquisition may also be effected where one or more of the companies being acquired is in liquidation, provided that this option is restricted to companies which have not yet begun to distribute their assets to their shareholders.",
+      "text_sha256": "89339d3e56a46a2f26ce3c7ffe7bba90f99756431de058a92d0d6cb95393634b",
+      "md_span": {
+        "start": 4787,
+        "end": 5584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. For the purposes of this Directive, ‘merger by the formation of a new company’ shall mean the operation whereby several companies are wound up without going into liquidation and transfer to a company that they set up all their assets and liabilities in exchange for the issue to their shareholders of shares in the new company and a cash payment, if any, not exceeding 10 % of the nominal value of the shares so issued or, where they have no nominal value, of their accounting par value.\n\n2. A Member State’s laws may provide that merger by the formation of a new company may also be effected where one or more of the companies which are ceasing to exist is in liquidation, provided that this option is restricted to companies which have not yet begun to distribute their assets to their shareholders.",
+      "text_sha256": "9a8032d88b125cee486aab7c4aeae03fa9365b777b4cff426edff0bf3f0b6852",
+      "md_span": {
+        "start": 5617,
+        "end": 6432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The administrative or management bodies of the merging companies shall draw up draft terms of merger in writing.\n\n2. Draft terms of merger shall specify at least:\n\n| (a) | the type, name and registered office of each of the merging companies; |\n| --- | --- |\n\n| (b) | the share exchange ratio and the amount of any cash payment; |\n| --- | --- |\n\n| (c) | the terms relating to the allotment of shares in the acquiring company; |\n| --- | --- |\n\n| (d) | the date from which the holding of such shares entitles the holders to participate in profits and any special conditions affecting that entitlement; |\n| --- | --- |\n\n| (e) | the date from which the transactions of the company being acquired shall be treated for accounting purposes as being those of the acquiring company; |\n| --- | --- |\n\n| (f) | the rights conferred by the acquiring company on the holders of shares to which special rights are attached and the holders of securities other than shares, or the measures proposed concerning them; |\n| --- | --- |\n\n| (g) | any special advantage granted to the experts referred to in Article 10(1) and members of the merging companies’ administrative, management, supervisory or controlling bodies. |\n| --- | --- |",
+      "text_sha256": "c6a4d9b351a9bbc02268ddf02aebf1589a655e13521d16dc9813e216a081c3b9",
+      "md_span": {
+        "start": 6465,
+        "end": 7692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nDraft terms of merger must be published in the manner prescribed by the laws of each Member State in accordance with Article 3 of Directive 2009/101/EC, for each of the merging companies, at least 1 month before the date fixed for the general meeting which is to decide thereon.\n\nAny of the merging companies shall be exempt from the publication requirement laid down in Article 3 of Directive 2009/101/EC if, for a continuous period beginning at least 1 month before the day fixed for the general meeting which is to decide on the draft terms of merger and ending not earlier than the conclusion of that meeting, it makes the draft terms of such merger available on its website free of charge for the public. Member States shall not subject that exemption to any requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents, and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.\n\nBy way of derogation from the second paragraph of this Article, Member States may require that publication be effected via the central electronic platform referred to in Article 3(5) of Directive 2009/101/EC. Member States may alternatively require that such publication be made on any other website designated by them for that purpose. Where Member States avail themselves of one of those possibilities, they shall ensure that companies are not charged a specific fee for such publication.\n\nWhere a website other than the central electronic platform is used, a reference giving access to that website shall be published on the central electronic platform at least 1 month before the day fixed for the general meeting. That reference shall include the date of publication of the draft terms of merger on the website and shall be accessible to the public free of charge. Companies shall not be charged a specific fee for such publication.\n\nThe prohibition precluding the charging to companies of a specific fee for publication, laid down in the third and fourth paragraphs, shall not affect the ability of Member States to pass on to companies the costs in respect of the central electronic platform.\n\nMember States may require companies to maintain the information for a specific period after the general meeting on their website or, where applicable, on the central electronic platform or the other website designated by the Member State concerned. Member States may determine the consequences of temporary disruption of access to the website or to the central electronic platform, caused by technical or other factors.",
+      "text_sha256": "8f3105eff62ca7be8305b85cbc754e85d8b2ba04d9169c4fac67144d00705214",
+      "md_span": {
+        "start": 7725,
+        "end": 10405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. A merger shall require at least the approval of the general meeting of each of the merging companies. The laws of the Member States shall provide that this approval decision shall require a majority of not less than two thirds of the votes attached either to the shares or to the subscribed capital represented.\n\nThe laws of a Member State may, however, provide that a simple majority of the votes specified in the first subparagraph shall be sufficient when at least half of the subscribed capital is represented. Moreover, where appropriate, the rules governing alterations to the memorandum and articles of association shall apply.\n\n2. Where there is more than one class of shares, the decision concerning a merger shall be subject to a separate vote by at least each class of shareholders whose rights are affected by the transaction.\n\n3. The decision shall cover both the approval of the draft terms of merger and any alterations to the memorandum and articles of association necessitated by the merger.",
+      "text_sha256": "b49616b3940a8eea39680eb1d987ec0608d3e4f8acfa5868d69448c1dd631d49",
+      "md_span": {
+        "start": 10438,
+        "end": 11460
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThe laws of a Member State need not require approval of the merger by the general meeting of the acquiring company if the following conditions are fulfilled:\n\n| (a) | the publication provided for in Article 6 must be effected, for the acquiring company, at least 1 month before the date fixed for the general meeting of the company or companies being acquired which is to decide on the draft terms of merger; |\n| --- | --- |\n\n| (b) | at least 1 month before the date specified in point (a), all shareholders of the acquiring company must be entitled to inspect the documents specified in Article 11(1) at the registered office of the acquiring company; |\n| --- | --- |\n\n| (c) | one or more shareholders of the acquiring company holding a minimum percentage of the subscribed capital must be entitled to require that a general meeting of the acquiring company be called to decide whether to approve the merger; this minimum percentage may not be fixed at more than 5 %. Member States may, however, provide for the exclusion of non-voting shares from this calculation. |\n| --- | --- |\n\nFor the purposes of point (b) of the first paragraph, Article 11(2), (3) and (4) shall apply.",
+      "text_sha256": "b6951d538a734eb4f2c05c3632dd0396668c2fd0dd0f0a0f77f2c067f6b08994",
+      "md_span": {
+        "start": 11493,
+        "end": 12681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The administrative or management bodies of each of the merging companies shall draw up a detailed written report explaining the draft terms of merger and setting out the legal and economic grounds for them, in particular the share exchange ratio.\n\nThat report shall also describe any special valuation difficulties which have arisen.\n\n2. The administrative or management bodies of each of the companies involved shall inform the general meeting of their company and the administrative or management bodies of the other companies involved so that the latter may inform their respective general meetings of any material change in the assets and liabilities between the date of preparation of the draft terms of merger and the date of the general meetings which are to decide on the draft terms of merger.\n\n3. Member States may provide that the report referred to in paragraph 1 and/or the information referred to in paragraph 2 shall not be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.",
+      "text_sha256": "76800e59da729d1a16a6427fa57e550e4bb293d0a3a47464d659f45977507bf6",
+      "md_span": {
+        "start": 12714,
+        "end": 13828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. One or more experts, acting on behalf of each of the merging companies but independent of them, appointed or approved by a judicial or administrative authority, shall examine the draft terms of merger and draw up a written report to the shareholders. However, the laws of a Member State may provide for the appointment of one or more independent experts for all the merging companies, if such appointment is made by a judicial or administrative authority at the joint request of those companies. Such experts may, depending on the laws of each Member State, be natural or legal persons or companies or firms.\n\n2. In the report mentioned in paragraph 1 the experts must in any case state whether in their opinion the share exchange ratio is fair and reasonable. Their statement must at least:\n\n| (a) | indicate the method or methods used to arrive at the share exchange ratio proposed; |\n| --- | --- |\n\n| (b) | state whether such method or methods are adequate in the case in question, indicate the values arrived at using each such method and give an opinion on the relative importance attributed to such methods in arriving at the value decided on. |\n| --- | --- |\n\nThe report shall also describe any special valuation difficulties which have arisen.\n\n3. Each expert shall be entitled to obtain from the merging companies all relevant information and documents and to carry out all necessary investigations.\n\n4. Neither an examination of the draft terms of merger nor an expert report shall be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.",
+      "text_sha256": "2c3cf9a4d7543ce6869032f832a1703674900dc4467b5c7c3efd2ff7a9efb787",
+      "md_span": {
+        "start": 13863,
+        "end": 15534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. All shareholders shall be entitled to inspect at least the following documents at the registered office at least 1 month before the date fixed for the general meeting which is to decide on the draft terms of merger:\n\n| (a) | the draft terms of merger; |\n| --- | --- |\n\n| (b) | the annual accounts and annual reports of the merging companies for the preceding three financial years; |\n| --- | --- |\n\n| (c) | where applicable, an accounting statement drawn up as at a date which must not be earlier than the first day of the third month preceding the date of the draft terms of merger, if the latest annual accounts relate to a financial year which ended more than 6 months before that date; |\n| --- | --- |\n\n| (d) | where applicable, the reports of the administrative or management bodies of the merging companies provided for in Article 9; |\n| --- | --- |\n\n| (e) | where applicable, the report referred to in Article 10(1). |\n| --- | --- |\n\nFor the purposes of point (c) of the first subparagraph, an accounting statement shall not be required if the company publishes a half-yearly financial report in accordance with Article 5 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (11) and makes it available to shareholders in accordance with this paragraph. Furthermore, Member States may provide that an accounting statement shall not be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.\n\n2. The accounting statement provided for in point (c) of the first subparagraph of paragraph 1 shall be drawn up using the same methods and the same layout as the last annual balance sheet.\n\nHowever, the laws of a Member State may provide that:\n\n| (a) | it is not necessary to take a fresh physical inventory; |\n| --- | --- |\n\n| (b) | the valuations shown in the last balance sheet are to be altered only to reflect entries in the books of account; the following shall nevertheless be taken into account:—interim depreciation and provisions,—material changes in actual value not shown in the books. |\n| --- | --- |\n| — | interim depreciation and provisions, |\n| — | material changes in actual value not shown in the books. |\n\n3. Every shareholder shall be entitled to obtain, on request and free of charge, full or, if so desired, partial copies of the documents referred to in paragraph 1.\n\nWhere a shareholder has consented to the use by the company of electronic means for conveying information, such copies may be provided by electronic mail.\n\n4. A company shall be exempt from the requirement to make the documents referred to in paragraph 1 available at its registered office if, for a continuous period beginning at least 1 month before the day fixed for the general meeting which is to decide on the draft terms of merger and ending not earlier than the conclusion of that meeting, it makes them available on its website. Member States shall not subject that exemption to any requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.\n\nParagraph 3 shall not apply if the website gives shareholders the possibility, throughout the period referred to in the first subparagraph of this paragraph, of downloading and printing the documents referred to in paragraph 1. However, in that case Member States may provide that the company is to make those documents available at its registered office for consultation by the shareholders.\n\nMember States may require companies to maintain the information on their website for a specific period after the general meeting. Member States may determine the consequences of temporary disruption of access to the website caused by technical or other factors.",
+      "text_sha256": "3ea89359c1642fdda5ee42d3aaf1cec63bd7769d29b2502cb9103b13f1bc2b70",
+      "md_span": {
+        "start": 15569,
+        "end": 19704
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_2011110EN.01000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nProtection of the rights of the employees of each of the merging companies shall be regulated in accordance with Directive 2001/23/EC.",
+      "text_sha256": "4426dd7b10dbe0eaede22c1e7bcea84f919768c6ecd026da11808a9eda1de58c",
+      "md_span": {
+        "start": 19739,
+        "end": 19885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The laws of the Member States must provide for an adequate system of protection of the interests of creditors of the merging companies whose claims antedate the publication of the draft terms of merger and have not fallen due at the time of such publication.\n\n2. To that end, the laws of the Member States shall at least provide that such creditors shall be entitled to obtain adequate safeguards where the financial situation of the merging companies makes such protection necessary and where those creditors do not already have such safeguards.\n\nMember States shall lay down the conditions for the protection provided for in paragraph 1 and in the first subparagraph of this paragraph. In any event, Member States shall ensure that the creditors are authorised to apply to the appropriate administrative or judicial authority for adequate safeguards provided that they can credibly demonstrate that due to the merger the satisfaction of their claims is at stake and that no adequate safeguards have been obtained from the company.\n\n3. Such protection may be different for the creditors of the acquiring company and for those of the company being acquired.",
+      "text_sha256": "b29cb4f1a0b724bd230e11ef0b7bb87aeae1c5fa099e62817da24052a250b9a1",
+      "md_span": {
+        "start": 19920,
+        "end": 21092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nWithout prejudice to the rules governing the collective exercise of their rights, Article 13 shall apply to the debenture holders of the merging companies, except where the merger has been approved by a meeting of the debenture holders, if such a meeting is provided for under national laws, or by the debenture holders individually.",
+      "text_sha256": "9a7997fa70d3a1e400f816e3b65bd606cebf97d04bc82d0ee7315e4a6d9c9824",
+      "md_span": {
+        "start": 21127,
+        "end": 21472
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nHolders of securities, other than shares, to which special rights are attached must be given rights in the acquiring company at least equivalent to those they possessed in the company being acquired, unless the alteration of those rights has been approved by a meeting of the holders of such securities, if such a meeting is provided for under national laws, or by the holders of those securities individually, or unless the holders are entitled to have their securities repurchased by the acquiring company.",
+      "text_sha256": "3b8988a1963f511698c16f1638fbf8265566563af91779d01bb883056340bc5a",
+      "md_span": {
+        "start": 21507,
+        "end": 22027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Where the laws of a Member State do not provide for judicial or administrative preventive supervision of the legality of mergers, or where such supervision does not extend to all the legal acts required for a merger, the minutes of the general meetings which decide on the merger and, where appropriate, the merger contract subsequent to such general meetings shall be drawn up and certified in due legal form. In cases where the merger need not be approved by the general meetings of all the merging companies, the draft terms of merger must be drawn up and certified in due legal form.\n\n2. The notary or the authority competent to draw up and certify the document in due legal form must check and certify the existence and validity of the legal acts and formalities required of the company for which that notary or authority is acting and of the draft terms of merger.",
+      "text_sha256": "cdf758d4f351f1f90eb18c420db7c158e8a5922229877a75a93210e53c78ac71",
+      "md_span": {
+        "start": 22062,
+        "end": 22947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nThe laws of the Member States shall determine the date on which a merger takes effect.",
+      "text_sha256": "74c72b6635f953ce8e4e22e927ac0a689e2744af0d0ab4e0ce24406bb1dffc20",
+      "md_span": {
+        "start": 22982,
+        "end": 23080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. A merger must be publicised in the manner prescribed by the laws of each Member State, in accordance with Article 3 of Directive 2009/101/EC, in respect of each of the merging companies.\n\n2. The acquiring company may itself carry out the publication formalities relating to the company or companies being acquired.",
+      "text_sha256": "8170741f23c20d2a89d0184ef5d5ff4345e204d17facd466c94ac90205645c13",
+      "md_span": {
+        "start": 23115,
+        "end": 23444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. A merger shall have the following consequences ipso jure and simultaneously:\n\n| (a) | the transfer, both as between the company being acquired and the acquiring company and as regards third parties, to the acquiring company of all the assets and liabilities of the company being acquired; |\n| --- | --- |\n\n| (b) | the shareholders of the company being acquired become shareholders of the acquiring company; |\n| --- | --- |\n\n| (c) | the company being acquired ceases to exist. |\n| --- | --- |\n\n2. No shares in the acquiring company shall be exchanged for shares in the company being acquired held either:\n\n| (a) | by the acquiring company itself or through a person acting in his own name but on its behalf; or |\n| --- | --- |\n\n| (b) | by the company being acquired itself or through a person acting in his own name but on its behalf. |\n| --- | --- |\n\n3. The foregoing shall not affect the laws of Member States which require the completion of special formalities for the transfer of certain assets, rights and obligations by the acquired company to be effective as against third parties. The acquiring company may carry out these formalities itself; however, the laws of the Member States may permit the company being acquired to continue to carry out these formalities for a limited period which cannot, save in exceptional cases, be fixed at more than 6 months from the date on which the merger takes effect.",
+      "text_sha256": "ac2df0f4c11ee35a00d1c193d39b3f2341daf53916af465990c8c2932503417e",
+      "md_span": {
+        "start": 23479,
+        "end": 24904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nThe laws of the Member States shall at least lay down rules governing the civil liability towards the shareholders of the company being acquired of the members of the administrative or management bodies of that company in respect of misconduct on the part of members of those bodies in preparing and implementing the merger.",
+      "text_sha256": "52318c9ee4735d73a5969a165cd8b9d919298596a72005d49a421438cf449111",
+      "md_span": {
+        "start": 24939,
+        "end": 25275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nThe laws of the Member States shall at least lay down rules governing the civil liability towards the shareholders of the company being acquired of the experts responsible for drawing up on behalf of that company the report referred to in Article 10(1) in respect of misconduct on the part of those experts in the performance of their duties.",
+      "text_sha256": "1916f5257d799f2adbf071a70574fe4478b93a45da06e5329d38acf5df326786",
+      "md_span": {
+        "start": 25310,
+        "end": 25664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. The laws of the Member States may lay down nullity rules for mergers in accordance with the following conditions only:\n\n| (a) | nullity must be ordered in a court judgment; |\n| --- | --- |\n\n| (b) | mergers which have taken effect pursuant to Article 17 may be declared void only if there has been no judicial or administrative preventive supervision of their legality, or if they have not been drawn up and certified in due legal form, or if it is shown that the decision of the general meeting is void or voidable under national law; |\n| --- | --- |\n\n| (c) | nullification proceedings may not be initiated more than 6 months after the date on which the merger becomes effective as against the person alleging nullity or if the situation has been rectified; |\n| --- | --- |\n\n| (d) | where it is possible to remedy a defect liable to render a merger void, the competent court shall grant the companies involved a period of time within which to rectify the situation; |\n| --- | --- |\n\n| (e) | a judgment declaring a merger void shall be published in the manner prescribed by the laws of each Member State in accordance with Article 3 of Directive 2009/101/EC; |\n| --- | --- |\n\n| (f) | where the laws of a Member State permit a third party to challenge such a judgment, that party may do so only within 6 months of publication of the judgment in the manner prescribed by Directive 2009/101/EC; |\n| --- | --- |\n\n| (g) | a judgment declaring a merger void shall not of itself affect the validity of obligations owed by or in relation to the acquiring company which arose before the judgment was published and after the date on which the merger takes effect; |\n| --- | --- |\n\n| (h) | companies which have been parties to a merger shall be jointly and severally liable in respect of the obligations of the acquiring company referred to in point (g). |\n| --- | --- |\n\n2. By way of derogation from point (a) of paragraph 1, the laws of a Member State may also provide for the nullity of a merger to be ordered by an administrative authority if an appeal against such a decision lies to a court. Point (b) and points (d) to (h) of paragraph 1 shall apply by analogy to the administrative authority. Such nullification proceedings may not be initiated more than 6 months after the date on which the merger takes effect.\n\n3. The laws of the Member States on the nullity of a merger pronounced following any supervision other than judicial or administrative preventive supervision of legality shall not be affected.",
+      "text_sha256": "44bdc7c9c63e1b3420e651ba976dcc55b91d25f542581b4b750ff1115575308b",
+      "md_span": {
+        "start": 25699,
+        "end": 28216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Articles 5, 6 and 7 and Articles 9 to 22 of this Directive shall apply, without prejudice to Articles 12 and 13 of Directive 2009/101/EC, to merger by formation of a new company. For this purpose, ‘merging companies’ and ‘company being acquired’ shall mean the companies which will cease to exist, and ‘acquiring company’ shall mean the new company.\n\nPoint (a) of Article 5(2) of this Directive shall also apply to the new company.\n\n2. The draft terms of merger and, if they are contained in a separate document, the memorandum or draft memorandum of association and the articles or draft articles of association of the new company shall be approved at a general meeting of each of the companies that will cease to exist.",
+      "text_sha256": "fdbffed0de1a1ff795c3e961893920a8107d27c2872904f27d2fa2e88a4803cf",
+      "md_span": {
+        "start": 28251,
+        "end": 28987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nMember States shall make provision, in respect of companies governed by their laws, for the operation whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company which is the holder of all their shares and other securities conferring the right to vote at general meetings. Such operations shall be regulated by the provisions of Chapter III. However, Member States shall not impose the requirements set out in points (b), (c) and (d) of Article 5(2), Articles 9 and 10, points (d) and (e) of Article 11(1), point (b) of Article 19(1) and Articles 20 and 21.",
+      "text_sha256": "d62dae4c0abd4135b7004a5aff59e1e843b2387049ca04ded2a83e51429bd68a",
+      "md_span": {
+        "start": 29022,
+        "end": 29670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nMember States shall not apply Article 7 to the operations referred to in Article 24 if the following conditions are fulfilled:\n\n| (a) | the publication provided for in Article 6 must be effected, as regards each company involved in the operation, at least 1 month before the operation takes effect; |\n| --- | --- |\n\n| (b) | at least 1 month before the operation takes effect, all shareholders of the acquiring company must be entitled to inspect the documents referred to in points (a), (b) and (c) of Article 11(1) at the company’s registered office; |\n| --- | --- |\n\n| (c) | point (c) of the first paragraph of Article 8 must apply. |\n| --- | --- |\n\nFor the purposes of point (b) of the first paragraph of this Article, Article 11(2), (3) and (4) shall apply.",
+      "text_sha256": "4e3a75dcc8023be5e976286fc336c8c784c5f3b96bb798b92f11505675f8a97c",
+      "md_span": {
+        "start": 29705,
+        "end": 30478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nThe Member States may apply Articles 24 and 25 to operations whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company, if all the shares and other securities specified in Article 24 of the company or companies being acquired are held by the acquiring company and/or by persons holding those shares and securities in their own names but on behalf of that company.",
+      "text_sha256": "f16ccb584b8c30264f11373ac27c5fe70d9245c7ecc7bfc5d80ab340f10e75eb",
+      "md_span": {
+        "start": 30513,
+        "end": 30969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\nWhere a merger by acquisition is carried out by a company which holds 90 % or more, but not all, of the shares and other securities conferring the right to vote at general meetings of the company or companies being acquired, Member States shall not require approval of the merger by the general meeting of the acquiring company if the following conditions are fulfilled:\n\n| (a) | the publication provided for in Article 6 must be effected, as regards the acquiring company, at least 1 month before the date fixed for the general meeting of the company or companies being acquired which is to decide on the draft terms of merger; |\n| --- | --- |\n\n| (b) | at least 1 month before the date specified in point (a), all shareholders of the acquiring company must be entitled to inspect the documents specified in points (a), (b) and, where applicable, (c), (d) and (e) of Article 11(1) at the company’s registered office; |\n| --- | --- |\n\n| (c) | point (c) of the first paragraph of Article 8 must apply. |\n| --- | --- |\n\nFor the purposes of point (b) of the first paragraph of this Article, Article 11(2), (3) and (4) shall apply.",
+      "text_sha256": "4a1c903446254df81312208d0fdb69b31036ce87be28f9cde1890ffe69cfabb6",
+      "md_span": {
+        "start": 31004,
+        "end": 32142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nMember States shall not impose the requirements set out in Articles 9, 10 and 11 in the case of a merger within the meaning of Article 27 if the following conditions are fulfilled:\n\n| (a) | the minority shareholders of the company being acquired must be entitled to have their shares acquired by the acquiring company; |\n| --- | --- |\n\n| (b) | if they exercise that right, they must be entitled to receive consideration corresponding to the value of their shares; |\n| --- | --- |\n\n| (c) | in the event of disagreement regarding such consideration, it must be possible for the value of the consideration to be determined by a court or by an administrative authority designated by the Member State for that purpose. |\n| --- | --- |\n\nA Member State need not apply the first paragraph if the laws of that Member State entitle the acquiring company, without a previous public takeover offer, to require all the holders of the remaining securities of the company or companies to be acquired to sell those securities to it prior to the merger at a fair price.",
+      "text_sha256": "41a78503e28c844c8fcd2d19086f4b241843922a9d600bc29efe1100420a1b53",
+      "md_span": {
+        "start": 32177,
+        "end": 33241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nThe Member States may apply Articles 27 and 28 to operations whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company, if 90 % or more, but not all, of the shares and other securities referred to in Article 27 of the company or companies being acquired are held by that acquiring company and/or by persons holding those shares and securities in their own names but on behalf of that company.",
+      "text_sha256": "0ab77c0b33003b50e63bf61c7fe834e6f303c842e86b8664920847a47bd611dc",
+      "md_span": {
+        "start": 33276,
+        "end": 33761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\nWhere in the case of one of the operations referred to in Article 2 the laws of a Member State permit a cash payment to exceed 10 %, Chapters III and IV and Articles 27, 28 and 29 shall apply.",
+      "text_sha256": "522bbea0a47d7afa7ed2040013d75c0a24627276660dacf335ef3b5cd30d5284",
+      "md_span": {
+        "start": 33796,
+        "end": 34000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\nWhere the laws of a Member State permit one of the operations referred to in Articles 2, 24 and 30, without all of the transferring companies thereby ceasing to exist, Chapter III, except for point (c) of Article 19(1), Chapter IV or Chapter V shall apply as appropriate.",
+      "text_sha256": "bfc259fb08bde1813e61e8d7216198bd3e9ab7ea80f2cc60008a3d34a7c1cfec",
+      "md_span": {
+        "start": 34035,
+        "end": 34318
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\nDirective 78/855/EEC, as amended by the acts listed in Annex I, Part A, is hereby repealed, without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law of the Directives set out in Annex I, Part B.\n\nReferences to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex II.",
+      "text_sha256": "36b3548815d742f56dcd4abe38edbafe9045e6a35db99a6fed8153553d214425",
+      "md_span": {
+        "start": 34353,
+        "end": 34785
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nThis Directive shall enter into force on 1 July 2011.",
+      "text_sha256": "271dc515b9e760876f14ba6e87577636c0ec60cd5fd98b159bd055b7e5c58031",
+      "md_span": {
+        "start": 34820,
+        "end": 34885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32011l0035:2011-04-05--2ca729e4eb4b2a0f3d50276083fc73996cf9eb5389e627a9437c5a5f2e5741fa#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "ee0bc7db164fff79c1e25dc6ee72319590c85372345e1e00f1f56f00bce679f2",
+      "md_span": {
+        "start": 34920,
+        "end": 34981
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

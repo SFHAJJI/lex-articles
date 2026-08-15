@@ -1,0 +1,160 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2002 : Loi du 15 octobre 1919 portant diverses modifications à la loi du 18 février 1885 sur l'organisation judiciaire et à celle du 29 juillet 1913 sur la révision des traitements des fonctionnaires et employés de l'Etat.",
+  "valid_from": "2002-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1919-10-15-n1/versions/2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af/fr.xml",
+    "sha256": "1abd71ae70f0513f9c25cd2a2a64b5a017396b0cc6a7e3a8f7255f76ea02f03c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/consolide/20020101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_1er/19191104",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "Par dérogation à l'art. 33 de la loi du 18 février 1885 sur l'organisation judiciaire, la composition de la Cour supérieure de justice comprend, outre les magistrats y énumérés, un substitut du procureur général d'État.\n\nToutes les dispositions légales d'organisation judiciaire ainsi que toutes les dispositions de la loi du 29 juillet 1913 sur la revision des traitements des fonctionnaires et employés de l'État applicables à l'avocat-général, s'appliquent également au substitut du procureur général d'État. Il rangera après l'avocat-général.\n\nIl ne sera pourvu à la vacance de la place de substitut du procureur général qu'au cas où elle surviendrait endéans les trois années consécutives à la mise en vigueur de la présente loi.",
+      "text_sha256": "cd8805ce33166df7ede522b21410637d8e26c3c543f20ed8e7c6732c60ef77f5",
+      "md_span": {
+        "start": 818,
+        "end": 1552
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1885/02/18/n2/jo",
+          "text": "loi du 18 février 1885"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1913/07/29/n1/jo",
+          "text": "loi du 29 juillet 1913"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_2/19191104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "L'art. 75 de la même loi est abrogé et remplacé par les dispositions suivantes:",
+      "text_sha256": "0731c6a5af4cbab60b5d6f055adb7795df2191aedc816ef831a1ca28ed2532d9",
+      "md_span": {
+        "start": 1587,
+        "end": 1666
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1885/02/18/n2/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_3/19191104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "Par rapport au grade et au traitement, les fonctionnaires dont il est question à l'article qui précède rangent :\n\n*a)* le secrétaire du parquet de la Cour, au groupe Xa;\n\n*b)* le secrétaire du parquet de Luxembourg, au groupe IX;\n\n*c)* le secrétaire du parquet de Diekirch, au groupe VII, et\n\n*d)* les secrétaires-adjoints au groupe VI du tableau A annexé à la loi du 29 juillet 1913, sur la revision des traitements des fonctionnaires et employés de l'État.",
+      "text_sha256": "e8cc916f9d35e9100edf77cff19cdaf396f0fdf36115331513102a6414e159b3",
+      "md_span": {
+        "start": 1701,
+        "end": 2159
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1913/07/29/n1/jo",
+          "text": "loi du 29 juillet 1913"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_4/19191104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "Par dérogation aux dispositions du tableau annexé à la loi du 29 juillet 1913 fixant les traitements des fonctionnaires de l'État par groupes d'emploi, les fonctionnaires suivants rangeront :\n\n*a)* le greffier-adjoint de la Cour, au groupe IX;\n\n*b)* les greffiers-adjoints des tribunaux d'arrondissement de Luxembourg et de Diekirch, ainsi que le greffier-adjoint de la justice de paix du canton d'Esch au groupe VII.",
+      "text_sha256": "ab62db1f8b0ed89da061347ee4266f6d9d424d7e2247c5e098d583723510381a",
+      "md_span": {
+        "start": 2194,
+        "end": 2611
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1913/07/29/n1/jo",
+          "text": "loi du 29 juillet 1913"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_5/19191104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "Par dérogation à l'art. 13 de la même loi les greffiers-adjoints des tribunaux d'arrondissement et le secrétaire du parquet de Diekirch pourront, après vingt années de bons et loyaux services dans leur grade, obtenir le traitement du groupe IX ; le secrétaire du parquet de Luxembourg pourra, après vingt années de bons et loyaux services dans son grade, obtenir le traitement du groupe Xa.",
+      "text_sha256": "37cf8d7a8bbfe1c7835602d178117c123a631a794f02771edd14f7c023eeb291",
+      "md_span": {
+        "start": 2646,
+        "end": 3036
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1913/07/29/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1919-10-15-n1:2002-01-01--411dea2f9e8048d084320b625386d517fccbc86cbfd1a059d00b601a42cfa4af#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/art_6/19191104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1919-11-04",
+      "text_md": "Un crédit de 495,79 euros à rattacher à l'art. 17 du budget des dépenses de 1919 est mis à la disposition du Gouvernement pour l'exécution de la présente loi.",
+      "text_sha256": "221abca26010a43b2e3fcacf02e884a86908b90cfad9bc9239658f983f934be6",
+      "md_span": {
+        "start": 3071,
+        "end": 3229
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1919/08/14/n1/jo",
+          "text": "budget des dépenses de 1919"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

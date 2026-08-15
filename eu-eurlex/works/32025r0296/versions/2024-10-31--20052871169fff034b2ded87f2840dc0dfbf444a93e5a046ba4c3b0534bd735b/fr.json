@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/296 of 31\u00A0October 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0296/versions/2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b/fr.xml",
+    "sha256": "0354e118dd8495d029d3c82949855d334ab82984cb09fe02498b889f3cdb5e6a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0296"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Lorsqu’un établissement de crédit soumet un livre blanc sur les crypto-actifs à l’approbation de l’autorité compétente conformément à l’article 17, paragraphe 1, point a), du règlement (UE) 2023/1114, il indique un point de contact auquel l’autorité compétente peut transmettre toutes ses communications.\n\n2. Les autorités compétentes mentionnent sur leur site web leurs coordonnées aux fins de l’approbation des livres blancs sur les crypto-actifs.\n\n3. La présentation de la demande d’approbation d’un livre blanc sur les crypto-actifs ainsi que les notifications et communications entre les autorités compétentes, la Banque centrale européenne (BCE) et les autres banques centrales concernées et les établissements de crédit conformément au présent règlement sont effectuées par voie électronique.",
+      "text_sha256": "31c5632173498b30e888eb9cae104e5f6733b63722250223aafac93345821b2f",
+      "md_span": {
+        "start": 715,
+        "end": 1534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. L’autorité compétente accuse réception de la demande d’approbation d’un livre blanc sur les crypto-actifs dans les deux jours ouvrables suivant la réception de la demande.\n\n2. L’accusé de réception visé au paragraphe 1 comprend les informations suivantes:\n\n| a) | le numéro de référence de la demande; |\n| --- | --- |\n\n| b) | le point de contact au sein de l’autorité compétente auquel les questions concernant la demande peuvent être adressées. |\n| --- | --- |",
+      "text_sha256": "714162dc9d9cff3eee54b2a627ef3a27f7b608dc413fe0eda9eece983346811f",
+      "md_span": {
+        "start": 1567,
+        "end": 2042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nL’autorité compétente évalue, dans un délai de 20 jours ouvrables à compter de la réception de la demande d’approbation d’un livre blanc sur les crypto-actifs, si ce dernier est complet au regard des exigences prévues à l’article 19, paragraphe 1, du règlement (UE) 2023/1114.",
+      "text_sha256": "c631ff9a1b289b471d19c6e20569fe97d705b42b0039f7ef1654bd8193856b6f",
+      "md_span": {
+        "start": 2075,
+        "end": 2362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Lorsque l’autorité compétente conclut que le livre blanc sur les crypto-actifs n’est pas complet au regard des exigences de l’article 19, paragraphe 1, du règlement (UE) 2023/1114, elle informe l’établissement de crédit des informations manquantes et fixe un délai dans lequel cet établissement de crédit est tenu de les fournir.\n\n2. Le délai pour communiquer toute information manquante visé au paragraphe 1 n’excède pas 20 jours ouvrables à compter de la date de la demande. Le délai fixé à l’article 3 est suspendu jusqu’à l’expiration du délai visé au paragraphe 1. L’autorité compétente a la faculté de formuler d’autres demandes visant à obtenir des informations complémentaires ou des clarifications aux fins de l’évaluation prévue à l’article 3, mais ces demandes ne donnent pas lieu à une suspension de la période fixée.\n\n3. À la suite de toute demande de l’autorité compétente visée au paragraphe 1, l’établissement de crédit présente à l’autorité compétente un livre blanc sur les crypto-actifs révisé dans le délai imparti dans la demande. L’établissement de crédit communique les documents suivants:\n\n| a) | une version propre et exempte de marques de révision du livre blanc sur les crypto-actifs révisé; |\n| --- | --- |\n\n| b) | une version du livre blanc sur les crypto-actifs révisé indiquant clairement toutes les modifications, mettant en évidence toutes les informations supplémentaires qui sont nouvelles par rapport à la version initiale du livre blanc présentée conformément à l’article 1er; |\n| --- | --- |\n\n| c) | un document expliquant en quoi les informations supplémentaires qui ressortent de la version visée au point b) répondent à la demande de communication d’informations manquantes formulée par l’autorité compétente en vertu du paragraphe 1. |\n| --- | --- |",
+      "text_sha256": "b6cb30954da83dfb62b6298ccc38d5200b90ff7448d31bd6ed8762d1c2e205fd",
+      "md_span": {
+        "start": 2395,
+        "end": 4200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Lorsque, à l’issue de la procédure prévue à l’article 4, l’autorité compétente estime que le livre blanc sur les crypto-actifs est complet, elle en informe l’établissement de crédit. La notification indique la date à laquelle le livre blanc est considéré comme complet.\n\n2. Lorsque, à l’issue de la procédure prévue à l’article 4, l’autorité compétente estime que le livre blanc sur les crypto-actifs est incomplet, elle refuse la demande d’approbation du livre blanc et informe l’établissement de crédit de sa décision.",
+      "text_sha256": "213f743da871bd12c437d7f1eaba53215f37edd430dc4b70b8089c7bdcdb3461",
+      "md_span": {
+        "start": 4233,
+        "end": 4767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. La communication par l’autorité compétente prévue à l’article 17, paragraphe 5, premier alinéa, du règlement (UE) 2023/1114 est effectuée dans les deux jours ouvrables à compter de la notification visée à l’article 5, paragraphe 1, du présent règlement.\n\n2. La BCE et, le cas échéant, la banque centrale concernée au sens de l’article 17, paragraphe 5, premier alinéa, du règlement (UE) 2023/1114 communiquent à l’autorité compétente, dans un délai de deux jours ouvrables à compter de la réception des informations complètes, les deux éléments suivants:\n\n| a) | un accusé de réception des informations; |\n| --- | --- |\n\n| b) | le point de contact auquel les questions concernant la demande peuvent être adressées. |\n| --- | --- |",
+      "text_sha256": "a9322dbefc23b4b29503e501772d9e64c98210aae0e781a6976dc448d857367f",
+      "md_span": {
+        "start": 4800,
+        "end": 5544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nÀ la suite d’un avis favorable de la BCE ou, le cas échéant, de la banque centrale concernée au sens de l’article 17, paragraphe 5, premier alinéa, du règlement (UE) 2023/1114, ou lorsque le délai de 20 jours ouvrables prévu à l’article 17, paragraphe 5, deuxième alinéa, dudit règlement expire sans que la BCE ou la banque centrale concernée ait émis un avis, l’autorité compétente procède à une évaluation au fond du livre blanc sur les crypto-actifs au regard des exigences prévues à l’article 19 dudit règlement.",
+      "text_sha256": "da9ec96e91babdf3f274ed4035a2223438334260aa9067c320364bee76296aac",
+      "md_span": {
+        "start": 5577,
+        "end": 6104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Dans un délai de 10 jours ouvrables à compter de l’avis favorable de la BCE ou, le cas échéant, de la banque centrale concernée au sens de l’article 17, paragraphe 5, premier alinéa, du règlement (UE) 2023/1114, ou lorsque le délai de 20 jours ouvrables prévu à l’article 17, paragraphe 5, deuxième alinéa, dudit règlement expire sans que la BCE ou la banque centrale concernée ait émis un avis, l’autorité compétente peut notifier à l’établissement de crédit une demande dûment motivée de modification du livre blanc sur les crypto-actifs. La demande établit un délai dans lequel ledit établissement de crédit est tenu de fournir le livre blanc sur les crypto-actifs mis à jour.\n\n2. Le délai imparti à l’établissement de crédit pour fournir le livre blanc sur les crypto-actifs mis à jour demandé par l’autorité compétente visé au paragraphe 1 ne dépasse pas 10 jours ouvrables à compter de l’émission de la demande de modification par l’autorité compétente.\n\n3. À la suite de toute demande de l’autorité compétente visée au paragraphe 1, l’établissement de crédit présente à l’autorité compétente un livre blanc sur les crypto-actifs révisé dans le délai imparti dans la demande. L’établissement de crédit communique tous les documents suivants:\n\n| a) | une version propre et exempte de marques de révision du livre blanc sur les crypto-actifs révisé; |\n| --- | --- |\n\n| b) | une version du livre blanc sur les crypto-actifs révisé indiquant clairement toutes les modifications, mettant en évidence toutes les modifications apportées par rapport à la version du livre blanc soumise soit conformément à l’article 1er, soit, lorsque des informations supplémentaires avaient été demandées par l’autorité compétente, conformément à l’article 4; |\n| --- | --- |\n\n| c) | un document expliquant en quoi les modifications apportées, qui ressortent de la version visée au point b), répondent à la demande d’apporter des modifications de fond au livre blanc sur les crypto-actifs formulée par l’autorité compétente en vertu du paragraphe 1. |\n| --- | --- |",
+      "text_sha256": "71e0085750d95ac58ce72a55e61a77b624d10ca7b6c2bd2b6a97197ebd156d32",
+      "md_span": {
+        "start": 6137,
+        "end": 8199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. L’autorité compétente notifie à l’établissement de crédit sa décision finale concernant l’approbation du livre blanc sur les crypto-actifs dans un délai de 10 jours ouvrables à compter de la réception du nouveau livre blanc visé à l’article 8, paragraphe 3, ou, si aucune modification du livre blanc n’est demandée, dans un délai de 10 jours ouvrables à compter de l’avis favorable de la BCE ou, le cas échéant, de la banque centrale concernée au sens de l’article 17, paragraphe 5, premier alinéa, du règlement (UE) 2023/1114, ou lorsque le délai de 20 jours ouvrables prévu à l’article 17, paragraphe 5, deuxième alinéa, dudit règlement expire sans que la BCE ou la banque centrale concernée ait émis un avis.\n\n2. Le livre blanc sur les crypto-actifs n’est publié qu’après son approbation par l’autorité compétente de l’État membre d’origine.",
+      "text_sha256": "4688facad3cbe46ac7067afc2a55097a6ad6d7c0c184c35345506fbe3183a573",
+      "md_span": {
+        "start": 8232,
+        "end": 9090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31--20052871169fff034b2ded87f2840dc0dfbf444a93e5a046ba4c3b0534bd735b#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "8f7f42ddc10650a0b076a931a6be7f7f00806903fcf297b1daab8d65e2259941",
+      "md_span": {
+        "start": 9125,
+        "end": 9267
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

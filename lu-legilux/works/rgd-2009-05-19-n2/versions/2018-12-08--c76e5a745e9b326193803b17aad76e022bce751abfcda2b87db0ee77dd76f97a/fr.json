@@ -1,0 +1,209 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 mai 2009 portant fixation des indemnités dues aux membres des commissions d’examen, aux experts et surveillants et des examens menant au brevet de maîtrise.",
+  "valid_from": "2018-12-08",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-05-19-n2/versions/2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a/fr.xml",
+    "sha256": "2a516f941e7d6486b782b5fa3f8f100a90f4f698c1f091dfc18262bbf8fb69de",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20181208/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_1er/20181208",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-12-08",
+      "text_md": "Le présent règlement s’applique aux examens de fin d’apprentissage et aux examens menant au brevet de maîtrise. Les indemnités des membres des commissions d’examen et des experts-assesseurs nommés à ces commissions sont fixées sur la base du barème ci-dessous.\n\n|  | Examens de fin d’apprentissage et du brevet de maîtrise |  |\n| --- | --- | --- |\n| Indemnité forfaitaire annuelle de base | 107,20 € |  |\n| Indemnité par questionnaire pour une épreuve d’une durée | jusqu’à 4h (tarif de base) | 56,99 € |\n| de 4h à 10h (+50%) | 85,51 € |  |\n| supérieure à 10h (+100%) | 113,98 € |  |\n| Traduction d’un questionnaire | 24,15 € |  |\n| Surveillance par heure | 10,74 € |  |\n| Réalisation des pièces d’une épreuve pratique, par candidat | 6,17 € |  |\n| Préparation de l’atelier, par candidat | 6,17 € |  |\n| Indemnité de correction par candidat et par épreuve d’une durée de | 2h | 5,24 € |\n| 3h | 5,81 € |  |\n| 4h | 6,17 € |  |\n| Perte de salaire ou de revenu pour indépendants par heure | 19,53 € |  |\n| Expertise pour 2h au maximum | 83,59 € |  |\n| Expertise, par heure supplémentaire | 41,80 € |  |\n\nLes membres des commissions d’examen et les experts-assesseurs ont droit à l’indemnité forfaitaire de base proportionnellement à leur présence aux réunions des commissions.\n\nLes épreuves complémentaires ne donnent pas lieu à l’attribution des indemnités par candidat et par épreuve prévues ci-dessus.\n\nAu cas où un questionnaire d’une certaine envergure doit être traduit, ce travail donne lieu à une rémunération supplémentaire de 32,20 €, sous réserve de l’accord préalable du commissaire du Gouvernement.\n\nLes épreuves de la session extraordinaire ainsi que les épreuves d’ajournement donnent lieu à l’attribution des indemnités par candidat et par épreuve ainsi que par heure de surveillance prévues ci-dessus.\n\nPour l’évaluation continue des modules de formation prévue à l’article 20 du règlement grand-ducal du 3 octobre 1997 portant organisation de la formation préparatoire au certificat d’initiation technique et professionnelle (CITP), l’indemnité de correction par candidat et par épreuve d’une durée de 2 heures est applicable. Si, pour un examen menant au brevet de maîtrise, il y a une session de printemps et une session d’automne organisées pendant la même année du calendrier, les membres de la commission compétente ont droit pour chaque session à l’indemnité de base.",
+      "text_sha256": "3b97edcb13e5022c1c6ffd6e823a3fa47d545972e7b0c39fc541c7002b2be3d9",
+      "md_span": {
+        "start": 791,
+        "end": 3178
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1997/10/03/n1/jo",
+          "text": "règlement grand-ducal du 3 octobre 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_2/20090530",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-30",
+      "text_md": "La correction d’une épreuve écrite dont la durée est inférieure ou égale à deux heures est rémunérée au taux prévu pour une épreuve de deux heures.\n\nLa correction d’une épreuve écrite dont la durée est supérieure à deux heures et inférieure ou égale à trois heures est rémunérée au taux prévu pour une épreuve de trois heures.\n\nLa correction d’une épreuve écrite dont la durée est supérieure à trois heures est rémunérée au taux prévu pour une épreuve de quatre heures.\n\nLa correction d’une épreuve uniquement orale est rémunérée de la façon suivante:\n\n- er\n- er\n\nPar décision ministérielle, la correction d’une épreuve pratique est assimilée soit à celle d’une épreuve écrite, soit à celle d’une épreuve orale. Pour le cas où une épreuve pratique se compose de plusieurs parties autorisées préalablement par le commissaire du Gouvernement, chaque partie est indemnisée individuellement en termes d’élaboration du questionnaire, de correction et de production de pièces préfabriquées.",
+      "text_sha256": "4c93f8c945cf81dde6d8a9b8a5e922aab4426e9640286dde7dbf2bcafba27f3d",
+      "md_span": {
+        "start": 3213,
+        "end": 4197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_3/20130701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "L’indemnité revenant aux commissaires du Gouvernement est fixée à 294,81 €, par année et par commission.\n\nLes présidents des commissions d’examen ont droit à une indemnité annuelle de 107,20 €, par année et par commission.",
+      "text_sha256": "520d0db10ba310e5a79048021d9e3bd089569c88e6ca39b816232926d9c720a4",
+      "md_span": {
+        "start": 4232,
+        "end": 4454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_4/20100101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-01-01",
+      "text_md": "Les dates et l’horaire des épreuves écrites ainsi que la période durant laquelle les épreuves orales et pratiques ont lieu sont fixés par le ministre.\n\nLes notes sont communiquées à la Chambre patronale compétente qui les transmet au commissaire du Gouvernement, dans les délais que celui-ci a fixés.\n\nLe commissaire du Gouvernement contrôle les déclarations d’indemnités de tous les membres, expertsassesseurs et surveillants des épreuves. Celles-ci lui sont remises par la chambre patronale compétente pour ce qui est des déclarations des membres de la commission qui ne sont pas enseignants d’un établissement scolaire.\n\nIl appartient à la chambre patronale compétente d’autoriser les frais de matériel prévus pour l’organisation des épreuves de l’examen. Après les examens, la Chambre patronale compétente remet au commissaire du Gouvernement un relevé de ces frais de matériel avec les pièces justificatives des paiements effectués.",
+      "text_sha256": "4c1890e7f2cd0702fea136b82c0ae03fec5fd56287c62655890fb7917534a501",
+      "md_span": {
+        "start": 4489,
+        "end": 5426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_5/20181208",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-12-08",
+      "text_md": "Pour certaines formations, le ministre peut désigner un ou plusieurs groupes d’experts techniques chargés d’examiner, pour chaque épreuve, les sujets ou questions proposés et de soumettre leurs observations au commissaire. Les indemnités des experts techniques qui peuvent être nommés pour aviser des questionnaires, sont fixées à 83,59 € par expert pour toute vacation allant jusqu’à deux heures. Pour toute vacation dépassant deux heures, le taux est augmenté de 41,80 par heure d’expertise supplémentaire entamée. Les experts techniques sont convoqués par le commissaire du Gouvernement.",
+      "text_sha256": "5a1462dc769d4acc97aed86f2ee61ac228cf8c437c1a5aa2359835ab21f37784",
+      "md_span": {
+        "start": 5461,
+        "end": 6051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_6/20181208",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-12-08",
+      "text_md": "Les membres des commissions exerçant un métier ou une profession en tant qu’indépendant ont droit à une indemnité de 30 € par heure pour compenser la perte de revenu pendant leur participation aux épreuves d’examens.\n\nLa même indemnité est due à un patron du salarié membre d’une commission pendant la participation de celuici aux épreuves examens.",
+      "text_sha256": "91f5140a70728f3a442d8021aa6c21c53255ab7d422cefa649381df70c80df45",
+      "md_span": {
+        "start": 6086,
+        "end": 6434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_7/20090530",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-30",
+      "text_md": "Les indemnités ci-dessus sont applicables à partir de la session ordinaire de juin 2009.",
+      "text_sha256": "c95da374a88b59f12a5b618f85b8de512beed2bda359b34eca1b9f0f916608d5",
+      "md_span": {
+        "start": 6469,
+        "end": 6557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_8/20090530",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-30",
+      "text_md": "Les membres, experts-assesseurs et les surveillants de toutes les commissions ont droit au remboursement de leurs frais de route et de séjour conformément aux dispositions du règlement grand-ducal du 18 décembre 1972 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État, tel qu’il a été modifié par la suite.",
+      "text_sha256": "bfc3c26af9fd58084de98c26349c74b58725807e948a758a1348cd1bf7d0b301",
+      "md_span": {
+        "start": 6592,
+        "end": 6969
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1972/12/18/n1",
+          "text": "règlement grand-ducal du 18 décembre 1972"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_9/20090530",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-30",
+      "text_md": "Le règlement du Gouvernement en Conseil du 2 février 1990 portant fixation des indemnités dues aux membres, experts-assesseurs et surveillants des commissions instituées pour procéder aux épreuves de théorie générale, de théorie professionnelle et de pratique professionnelle de l’examen de fin d’apprentissage ainsi que de l’examen de maîtrise est abrogé.",
+      "text_sha256": "d5372cd7dc998e14b50402f7d9a33ec2b682233d306e9f2278b35914dbf2e38b",
+      "md_span": {
+        "start": 7004,
+        "end": 7360
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgc/1990/02/02/n1",
+          "text": "règlement du Gouvernement en Conseil du 2 février 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n2:2018-12-08--c76e5a745e9b326193803b17aad76e022bce751abfcda2b87db0ee77dd76f97a#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/art_10/20090530",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-30",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "4d52029526743772ddb03ac0d237fa9c71150781bdf3b487e54ecb5ad2e71089",
+      "md_span": {
+        "start": 7397,
+        "end": 7621
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

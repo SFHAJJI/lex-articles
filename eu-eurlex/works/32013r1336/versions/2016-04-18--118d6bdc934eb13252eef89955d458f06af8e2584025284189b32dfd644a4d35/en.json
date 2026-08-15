@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013r1336:2016-04-18--118d6bdc934eb13252eef89955d458f06af8e2584025284189b32dfd644a4d35",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A01336/2013 of 13\u00A0December 2013 amending Directives 2004/17/EC, 2004/18/EC and 2009/81/EC",
+  "valid_from": "2016-04-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013r1336/versions/2016-04-18--118d6bdc934eb13252eef89955d458f06af8e2584025284189b32dfd644a4d35/en.html",
+    "sha256": "ff88ba680f78412f9b1aaef67694e0b084f06ed09b257e9f9e4c939010f82e69",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1336-20160418"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013r1336:2016-04-18--118d6bdc934eb13252eef89955d458f06af8e2584025284189b32dfd644a4d35#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8 of Directive 2009/81/EC is amended as follows:\n\n(1) in point (a), the amount ‘EUR 400 000 ’ is replaced by ‘EUR 414 000 ’;\n\n(2) in point (b), the amount ‘EUR 5 000 000 ’ is replaced by ‘EUR 5 186 000 ’.",
+      "text_sha256": "950ca2a68a953ed35b3ac15820519ac4c4bb6fb34ed5c6ebc83b8146b7f6b1b3",
+      "md_span": {
+        "start": 741,
+        "end": 953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013r1336:2016-04-18--118d6bdc934eb13252eef89955d458f06af8e2584025284189b32dfd644a4d35#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on 1 January 2014.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "e9ef4be1959f8ec751d0d02d80a6ec49908ce3355f3dc41d8f30a4ea499e5e73",
+      "md_span": {
+        "start": 990,
+        "end": 1143
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

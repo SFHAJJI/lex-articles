@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0389:2026-02-23--f047bdf57f667c458671fbdd20d3221d74918dd10ed9fb61568481d0cfe5bbf3",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/389 of 23\u00A0February 2026 amending Implementing…",
+  "valid_from": "2026-02-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0389/versions/2026-02-23--f047bdf57f667c458671fbdd20d3221d74918dd10ed9fb61568481d0cfe5bbf3/fr.xml",
+    "sha256": "3c018444d273448167094deffc4374088c9129fdc5f88db119089ded8d963a43",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0389"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0389:2026-02-23--f047bdf57f667c458671fbdd20d3221d74918dd10ed9fb61568481d0cfe5bbf3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe du règlement d’exécution (UE) 2021/447 est modifiée conformément à l’annexe du présent règlement.",
+      "text_sha256": "3941d8efa5f4b48e103e9bbef0414cf255fa8369c35351520b84cffec8404939",
+      "md_span": {
+        "start": 702,
+        "end": 825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0389:2026-02-23--f047bdf57f667c458671fbdd20d3221d74918dd10ed9fb61568481d0cfe5bbf3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 858,
+        "end": 999
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

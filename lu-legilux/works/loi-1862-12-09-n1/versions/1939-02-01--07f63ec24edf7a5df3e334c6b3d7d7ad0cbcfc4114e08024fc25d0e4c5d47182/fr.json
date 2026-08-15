@@ -1,0 +1,287 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/12/1976 : Loi du 9 décembre 1862 portant révision de l'ordonnance royale grand-ducale du 30 juin 1857 sur le notariat.",
+  "valid_from": "1939-02-01",
+  "valid_to": "1976-12-26",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1862-12-09-n1/versions/1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182/fr.xml",
+    "sha256": "16a8d2b6cdf6c32d3812b8e5a8d1c6da9f28c2360b3ea57a525d60f5710cb546",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19390201/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er_19390201",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_1er_19390201",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_1er/19390201",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1939-02-01",
+      "text_md": "Les honoraires des notaires sont fixés par un tarif arrêté par Nous.",
+      "text_sha256": "406fa74951009448e5a5addf4555bbad6a77bedc0bb8947cc54d05db14e4d56e",
+      "md_span": {
+        "start": 725,
+        "end": 793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_2/18621217",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Sauf les exceptions prévues par des lois spéciales, les immeubles ne peuvent être en vente publique qu'en présence et par le ministère du notaire, sous peine contre les contrevenants d'une amende de cinquante à mille francs et, selon la gravité des cas, d'un emprisonnement qui n'excédera pas trois mois.",
+      "text_sha256": "00155e09f9e6cb76ed9e68c0bb88cf2685875c27cc50d7d8cef8c5c8495d67a1",
+      "md_span": {
+        "start": 828,
+        "end": 1132
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_3/18621217",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Le notaire qui procède à une vente à laquelle sont intéressés des mineurs ou des personnes assimilées aux mineurs, ne peut refuser de faire la recette du prix, s'il en est requis par le tuteur, à peine d'une amende de cent francs, et en cas de récidive, de suspension et même de destitution.\n\nSi, dans un cas particulier, il croit avoir des motifs pour ne pas faire la recette, il pourra en faire la demande par requête adressée au Président du tribunal d'arrondissement, qui statuera sans autre recours.",
+      "text_sha256": "b4a135d787ca6185f3ef93dbb90b546f4e7080fc6ab81c5d0c31a708c70a2b2c",
+      "md_span": {
+        "start": 1167,
+        "end": 1671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_4/19390201",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1939-02-01",
+      "text_md": "Il est défendu aux notaires de percevoir, à quelque titre et sous quelque dénomination que ce soit, des droits, émoluments ou honoraires non alloués par le tarif ou supérieurs à ceux alloués par le tarif.\n\nIl leur est défendu de percevoir l'escompte ou le droit d'avance du chef de prix ou portions de prix d'adjudication échus dont ils sont chargés d'opérer le recouvrement; néanmoins ils peuvent traiter avec les vendeurs pour l'escompte des prix d'adjudication non échus, ainsi que pour la garantie.\n\nToute cession ou autre convention, toute interposition de personnes, ayant pour but d'éluder les dispositions prohibitives du présent article et de l'article 3 ci-dessus, est interdite.\n\nLa convention est nulle de droit.\n\nLa restitution des sommes indûment perçues est ordonnée d'office. Les contraventions sont passibles d'amende de dix à mille francs, si d'autres dispositions ne sont pas applicables. La suspension et la destitution du notaire peut en outre être prononcée.",
+      "text_sha256": "5e221f7a4c9eeca8184b42f0848b3cba32ab70658d43d37c05767b8c90894ee6",
+      "md_span": {
+        "start": 1706,
+        "end": 2686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_5/18621217",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Les notaires sont tenus d'annoter et de spécifier sincèrement au bas des minutes et des expéditions de leurs actes et des quittances de paiement des frais, le temps employé ainsi que leurs honoraires et déboursés. Le temps employé et les honoraires devront être annotés avant l'enregistrement, les autres frais le seront dans le délai de quinzaine à partir da jour où tous les éléments en seront connus des notaires, sauf ceux d'expédition. Le tout sous peine d'une amende de vingt francs pour chaque contravention.",
+      "text_sha256": "34a757228019b43837d47818c0f3ae6d609d5e2b9d13fb32d82ded1e56943e3d",
+      "md_span": {
+        "start": 2721,
+        "end": 3236
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6_19390201",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_6_19390201",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_6/19390201",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1939-02-01",
+      "text_md": "Toute perception d'honoraires sur une valeur supérieure à celle indiquée dans un acte est défendue sous les peines comminées par l'art. 4 qui précède.",
+      "text_sha256": "6469fa13167173cb7f6f835fcd491d945c36d7f124459564dca80ca348fc89f9",
+      "md_span": {
+        "start": 3280,
+        "end": 3430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_7/18621217",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Les notaires sont obligés d'inscrire eux-mêmes ou de faire inscrire dans leur livre-journal, tout ce qu'ils reçoivent de leurs clients, et tous les paiements qu'ils font, sauf les déboursés pour timbre, enregistrement et hypothèque.\n\nIls représenteront ce registre toutes les fois qu'ils en seront requis par justice ou qu'ils formeront des demandes en paiement d'honoraires ou de déboursés; à défaut de représentation ou de tenue régulière du registre, ils pourront être déclarés non recevables dans leurs demandes ou exceptions.\n\nIls clôtureront leur grand-livre et arrêteront tous les comptes chaque année. Les inscriptions faites dans leurs registres font foi contre eux.",
+      "text_sha256": "77caa8d6fdcdb5192d3e9d269c7d0cf96fe286e3365e6bd27c7496274e13c283",
+      "md_span": {
+        "start": 3465,
+        "end": 4140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_8/18621217",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Tout notaire chargé d'une recette est tenu de rendre, sans retard, compte à son mandant si celui-ci l'exige, et de lui délivrer copie de son compte de recouvrement et d'avance dans la quinzaine de la réquisition qui lui sera faite à cet effet par le juge de paix du canton où réside le notaire. Ce compte comprendra l'indication des retardataires, du montant des sommes encore dues et des causes du retard ainsi que de l'emploi des fonds perçus. Les contraventions au présent article et à l'article 7 sont passibles des peines mentionnées à l'art. 58 de l'ordonnance du 3 octobre 1841.",
+      "text_sha256": "0302f91463820dfdf6ea077e2abedaf0daded59e4174b2def0a67772b58b278c",
+      "md_span": {
+        "start": 4175,
+        "end": 4760
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/ordr/1841/10/03/n1/jo",
+          "text": "ordonnance du 3 octobre 1841"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_9/18621217",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Indépendamment des faveurs accordées aux indigents par la loi du 7 juillet 1845, ceux qui justifient de leur indigence par dû certificat peuvent être dispensés par le président du tribunal de l'arrondissement de tous frais de timbre, d'enregistrement et d'honoraires de notaires pour des certificats, procurations, légalisations, actes de notoriété, de consentement à mariage, de reconnaissance d'enfants naturels et autres actes de même nature à faire devant notaire. Le président désigne d'office le notaire qui doit recevoir l'acte.",
+      "text_sha256": "1562ace9e0ded49bd07e4d9a39f1eab693eec7bbfa5e469cd6e71bf3aba8e09b",
+      "md_span": {
+        "start": 4795,
+        "end": 5330
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1845/07/07/n1/jo",
+          "text": "loi du 7 juillet 1845"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10_19390201",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_10_19390201",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_10/19390201",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1939-02-01",
+      "text_md": "L'action des notaires en paiement de leurs droits, émoluments, honoraires, se prescrit par cinq ans à partir du jour de l'existence de la créance.\n\nLes articles 2274, 2275 et 2278 du Code civil sont applicables à cette prescription particulière.",
+      "text_sha256": "388e5ff73634023f3f1cb8bd39b454acfbf70eb724507f7d9ba76c2129dc5260",
+      "md_span": {
+        "start": 5376,
+        "end": 5621
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11_19390201",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_11_19390201",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_11/19390201",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1939-02-01",
+      "text_md": "Lorsque des mineurs ou des personnes qui leur sont assimilées, sont intéressés dans un acte, les notaires ne pourront demander le paiement de leurs états qu'après qu'ils auront été taxés par le président du tribunal.\n\nLes parties majeures pourront encore exiger ou requérir la taxe toutes les fois qu'elles ne sont pas d'accord avec le notaire sur l'application du tarif.\n\nLes contestations entre le notaire et les parties touchant l'application du tarif sont jugées par le tribunal d'arrondissement de la résidence du notaire.",
+      "text_sha256": "7e672da1b79464616314a0f98a7f080bb4bfc808a5d331fafc84bcf2fee47fc2",
+      "md_span": {
+        "start": 5667,
+        "end": 6194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_12/18621217",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "L'action disciplinaire exercée par le ministère public contre les notaires pour contravention tant à la présente loi qu'à l'ordonnance du 3 octobre 1841 et aux autres lois et arrêtés, continuera à être portée devant les tribunaux civils; mais elle sera poursuivie et jugée comme en matière correctionnelle.\n\nL'action du ministère public se prescrit après une année révolue à compter du jour où la contravention a été constatée par procès-verbal, et en tout cas après cinq années révolues à compter du jour où elle a été commise.",
+      "text_sha256": "dbd9a335e1001f1c02806144a2a039dce0cce2622da47d8ec0fac7c701597830",
+      "md_span": {
+        "start": 6231,
+        "end": 6759
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/ordr/1841/10/03/n1/jo",
+          "text": "ordonnance du 3 octobre 1841"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_13/18621217",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "Les dispositions du tarif des notaires concernant les remises pour les adjudications publiques volontaires de meubles, fruits et récoltes, ainsi que les prescriptions des art. 4, 8 et 12 sont également applicables aux huissiers et aux greffiers de justice de paix.",
+      "text_sha256": "bb59e1e568e1dbcaf429313d3a27fc7b72d123706c84ae82534859f48fb64c82",
+      "md_span": {
+        "start": 6796,
+        "end": 7060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1862-12-09-n1:1939-02-01--07f63ec24edf7a5df3e334c6b3d7d7ad0cbcfc4114e08024fc25d0e4c5d47182#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/art_14/18621217",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1862-12-17",
+      "text_md": "L'ordonnance du 30 juin 1857 sur le notariat, ainsi que toutes dispositions législatives ou réglementaires contraires à la présente loi, sont abrogées.",
+      "text_sha256": "805ce097c1b7623e736d9adfbc6d64b3a9bd5cec7eecab2da6d4e50270e92d24",
+      "md_span": {
+        "start": 7097,
+        "end": 7248
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/ordr/1857/06/30/n1/jo",
+          "text": "ordonnance du 30 juin 1857"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

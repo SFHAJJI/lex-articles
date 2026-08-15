@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1952:2021-11-10--44bd8bf5c1298c1721410d47809ec561edcb4895d765676ef7134be7cd853c7c",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/1952 of 10\u00A0November 2021 amending Directive 2014/24/EU",
+  "valid_from": "2021-11-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1952/versions/2021-11-10--44bd8bf5c1298c1721410d47809ec561edcb4895d765676ef7134be7cd853c7c/fr.xml",
+    "sha256": "5263f96acee4b1140ab45cc549e599e3a25472c6d0a78a82a81fc4357b422d0d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1952"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1952:2021-11-10--44bd8bf5c1298c1721410d47809ec561edcb4895d765676ef7134be7cd853c7c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2014/24/UE est modifiée comme suit:\n\n| 1) | L’article 4 est modifié comme suit:a)au point a), le montant de «5 350 000 EUR» est remplacé par «5 382 000 EUR»;b)au point b), le montant de «139 000 EUR» est remplacé par «140 000 EUR»;c)au point c), le montant de «214 000 EUR» est remplacé par «215 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «5 350 000 EUR» est remplacé par «5 382 000 EUR»; |\n| b) | au point b), le montant de «139 000 EUR» est remplacé par «140 000 EUR»; |\n| c) | au point c), le montant de «214 000 EUR» est remplacé par «215 000 EUR». |\n\n| 2) | À l’article 13, le premier alinéa est modifié comme suit:a)au point a), le montant de «5 350 000 EUR» est remplacé par «5 382 000 EUR»;b)au point b), le montant de «214 000 EUR» est remplacé par «215 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «5 350 000 EUR» est remplacé par «5 382 000 EUR»; |\n| b) | au point b), le montant de «214 000 EUR» est remplacé par «215 000 EUR». |",
+      "text_sha256": "4586e77cf21a964270ce555bc9b0d0555e092b153fb3216ea61b92e0f9d9c55b",
+      "md_span": {
+        "start": 707,
+        "end": 1710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1952:2021-11-10--44bd8bf5c1298c1721410d47809ec561edcb4895d765676ef7134be7cd853c7c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2022.",
+      "text_sha256": "9ab3b8874ff191e3e4eb2e4c67eabfb6844638a47734a2c371b7b9126406f28b",
+      "md_span": {
+        "start": 1743,
+        "end": 1933
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

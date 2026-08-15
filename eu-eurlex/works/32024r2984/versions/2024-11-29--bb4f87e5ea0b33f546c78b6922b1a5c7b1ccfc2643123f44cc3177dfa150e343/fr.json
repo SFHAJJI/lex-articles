@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2984 of 29\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2984/versions/2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343/fr.xml",
+    "sha256": "5a115453b88e4f64a83dd29e3fb2aa527e4cfdfaa104ce90b3679e3007718caa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2984"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les personnes qui rédigent un livre blanc sur des crypto-actifs tel que visé à l’article 6, paragraphe 1, à l’article 19, paragraphe 1, ou à l’article 51, paragraphe 1, du règlement (UE) 2023/1114 fournissent les informations requises par le présent règlement d’une manière non discriminatoire, loyale, claire et non trompeuse, ils les présentent sous une forme concise et compréhensible et n’omettent aucune information importante.\n\n2. L’annexe du présent règlement contient les modèles à utiliser pour les livres blancs portant, respectivement, sur des crypto-actifs autres que des jetons se référant à un ou des actifs ou des jetons de monnaie électronique, sur des jetons se référant à un ou des actifs et sur des jetons de monnaie électronique.",
+      "text_sha256": "878d152ff8c8ce0235e51764faad2840e0cf94750319e85d399af4a156102e42",
+      "md_span": {
+        "start": 774,
+        "end": 1543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les livres blancs sur les crypto-actifs sont rédigés au format XHTML, avec balisage des champs figurant à l’annexe selon les spécifications Inline XBRL 1.1 du langage XBRL (eXtensible Business Reporting Language), et sont conformes aux exigences suivantes:\n\n| a) | le document d’instance Inline XBRL contenant le livre blanc sur le crypto-actif est présenté sous la forme d’un fichier XHTML unique; |\n| --- | --- |\n\n| b) | les émetteurs d’un crypto-actif visé à l’article 19, paragraphe 1, et à l’article 51, paragraphe 1, du règlement (UE) 2023/1114 sont indiqués dans le document d’instance Inline XBRL à l’aide de l’identifiant d’entité juridique ISO 17442, lorsqu’il est disponible; |\n| --- | --- |\n\n| c) | les personnes qui rédigent un livre blanc sur des crypto-actifs tel que visé à l’article 6, paragraphe 1, et les personnes autres que l’émetteur qui rédigent un livre blanc sur des crypto-actifs tel que visé à l’article 19, paragraphe 1, ou à l’article 51, paragraphe 1, du règlement (UE) 2023/1114 sont indiquées dans le document d’instance Inline XBRL à l’aide de l’identifiant d’entité juridique ISO 17442, s’il est disponible, ou d’un autre identifiant requis par le droit national applicable. |\n| --- | --- |\n\n2. La rédaction d’un livre blanc sur des crypto-actifs repose sur une taxonomie, dont les éléments sont ceux figurant dans le tableau 2, le tableau 3 ou le tableau 4 de l’annexe.",
+      "text_sha256": "2ab24a4a19d667c56a1d0f120f47430647d618b7ce9848b0417f058652f5bfcf",
+      "md_span": {
+        "start": 1576,
+        "end": 2994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nL’AEMF peut publier des fichiers de taxonomie XBRL, lisibles par machine et téléchargeables, reposant sur la taxonomie visée à l’article 2, paragraphe 2.",
+      "text_sha256": "0d5253642c30e23102fe6c24355272a7d9416eefe254ef4d5eedefc16efa6b70",
+      "md_span": {
+        "start": 3027,
+        "end": 3191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 23 décembre 2025.",
+      "text_sha256": "a58d4d5029cca7d2fd002638014c2cf0a240c6470a9323a6c7c4a76e1a0c3f3e",
+      "md_span": {
+        "start": 3224,
+        "end": 3414
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

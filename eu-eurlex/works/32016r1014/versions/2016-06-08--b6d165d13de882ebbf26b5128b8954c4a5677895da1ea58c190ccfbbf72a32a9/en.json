@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1014:2016-06-08--b6d165d13de882ebbf26b5128b8954c4a5677895da1ea58c190ccfbbf72a32a9",
+  "language": "en",
+  "title": "Regulation (EU) 2016/1014",
+  "valid_from": "2016-06-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1014/versions/2016-06-08--b6d165d13de882ebbf26b5128b8954c4a5677895da1ea58c190ccfbbf72a32a9/en.xml",
+    "sha256": "39dd563e896e247915b03fb257fe9d49332588891bcee26013d6d6b332df6504",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1014"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1014:2016-06-08--b6d165d13de882ebbf26b5128b8954c4a5677895da1ea58c190ccfbbf72a32a9#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EU) No 575/2013 is amended as follows:\n\n| (1) | in Article 493(1), the second sentence is replaced by the following: ‘This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.’; |\n| --- | --- |\n\n| (2) | in Article 498(1), the second subparagraph is replaced by the following:‘This exemption shall apply until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraphs 2 and 3, whichever is the earlier.’. |\n| --- | --- |",
+      "text_sha256": "72f649691dce07bd82571a983099d3f0c3ca1f2ac1b4861efb2294ba6e74afdd",
+      "md_span": {
+        "start": 636,
+        "end": 1220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1014:2016-06-08--b6d165d13de882ebbf26b5128b8954c4a5677895da1ea58c190ccfbbf72a32a9#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1253,
+        "end": 1404
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

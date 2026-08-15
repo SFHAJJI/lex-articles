@@ -1,0 +1,129 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/06/2004 : Règlement grand-ducal du 20 décembre 2001 déterminant le régime des indemnités des agents de la coopération au service de l'Etat visés à l'article 23 de la loi du 6 janvier 1996 sur la coopération au développement.",
+  "valid_from": "2004-06-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-12-20-n5/versions/2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5/fr.xml",
+    "sha256": "80f16ce8a6cdcb9d70548ce79d815eca56e329176373757ec50f4f85696f72da",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/consolide/20040628/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/art_1er/20040628",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-28",
+      "text_md": "Sont considérés comme agents de la coopération au service de l’Etat les agents de la coopération qui, au sens de l'article 23 de la loi du 6 janvier 1996 sur la coopération au développement, collaborent à la mise en œuvre d'un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois.",
+      "text_sha256": "3895bc77546b7fc0b12796adc370592e9a4b6aff525cc979c2504725045b0985",
+      "md_span": {
+        "start": 817,
+        "end": 1195
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1996/01/06/n1/jo",
+          "text": "loi du 6 janvier 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/art_2/20040628",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-28",
+      "text_md": "Les indemnités des agents de la coopération au service de l’Etat sont fixées conformément aux dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat.",
+      "text_sha256": "a0bf7346d99c02a954f51a78d997041d076636ff6029f7b6d635dcf245cd13ab",
+      "md_span": {
+        "start": 1230,
+        "end": 1481
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/07/28/n5/jo",
+          "text": "règlement grand-ducal du 28 juillet 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/art_3/20040628",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-28",
+      "text_md": "Les agents de la coopération sont considérés comme étant en période de stage pendant les deux premières années de service. Les réductions de la période de stage sont accordées, le cas échéant par application analogique, conformément au règlement grand-ducal du 30 janvier 2004 déterminant les cas d’exception ou de tempérament aux conditions de stage, de formation pendant le stage et d’examen de fin de stage pour certains candidats des administrations de l’Etat.",
+      "text_sha256": "f33e1f49a181e43f198bbb9538cec43bc152e01d848c0a5bc2a6b68c82b0983d",
+      "md_span": {
+        "start": 1516,
+        "end": 1980
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/01/30/n6/jo",
+          "text": "règlement grand-ducal du 30 janvier 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/art_4/20040628",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-28",
+      "text_md": "**(1)** Les agents de la coopération qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement peuvent opter entre la carrière qui leur est applicable en vertu de leur contrat actuel et la nouvelle carrière qui résulte de l'application des dispositions du présent règlement. A défaut d'option dans un délai de trois mois, les dispositions du présent règlement sont automatiquement applicables.\n\n**(2)** Sans préjudice du paragraphe 1er du présent article et sous réserve de ce qui est prévu au paragraphe 3 ci-dessous, les carrières des agents qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement seront reconstituées avec effet à la date de leur entrée en service conformément aux dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat et du présent règlement.\n\n**(3)** Les agents de la coopération qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement conserveront, à titre personnel, le bénéfice de l'indemnité dont ils jouissaient avant l'entrée en vigueur du présent règlement aussi longtemps que celle-ci est plus élevée que l'indemnité qui leur serait due en vertu des dispositions du présent règlement. Pour les agents de la coopération dont l'indemnité est inférieure à celle qui leur est due en vertu du présent règlement, les dispositions du présent règlement s’appliquent.",
+      "text_sha256": "7f2d28ebd976898298d7e9d587f567b5acac1195ddce7e657b0b3a7b8dc9664c",
+      "md_span": {
+        "start": 2015,
+        "end": 3488
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/07/28/n5/jo",
+          "text": "règlement grand-ducal du 28 juillet 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2001-12-20-n5:2004-06-28--fa6d906ca971a2c4f716a0eac9b882e7f8a578769fe5c82313bed8f49e03c5a5#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/art_5/20040628",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-28",
+      "text_md": "Notre Ministre de la Coopération, de l’Action humanitaire et de la Défense et Notre Ministre de la Fonction publique et de la Réforme administrative sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "2ac8fb79548fe4e81d66e442a40ad6bc9874758417423fad10ccea45d14fa634",
+      "md_span": {
+        "start": 3523,
+        "end": 3780
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

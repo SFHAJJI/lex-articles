@@ -1,0 +1,348 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886",
+  "language": "fr",
+  "title": "Version consolidée applicable au 20/12/2021 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalités procédurales en matière pénale.",
+  "valid_from": "2020-12-22",
+  "valid_to": "2021-08-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-06-20-a542/versions/2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886/fr.xml",
+    "sha256": "a8c4e2599f499dbbecb8cc2b8946bd12d23c4337b6aaa58065bd97e2358e9b10",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_1er/20201222",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Notification des ordonnances de perquisition et de saisie concernant des documents ou des données stockées",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Par dérogation aux articles 65 et 66 du Code de procédure pénale, le juge d’instruction peut, s’il le juge opportun, notifier les ordonnances de perquisition et de saisie aux fins de saisie de documents ou de données stockées, traitées ou transmises dans un système de traitement ou de transmission automatisé de données à la personne auprès de laquelle l’ordonnance est à exécuter par lettre recommandée avec avis de réception, par télécopie ou par courrier électronique. Il peut également donner commission rogatoire à cette fin à l’officier de police judiciaire qu’il désigne. Les ordonnances de perquisition et de saisie ne peuvent pas être notifiées en application des dispositions du présent article lorsque, au moment de la notification, son destinataire est suspecté être l’auteur, le co-auteur ou le complice des faits ayant motivé la perquisition ou la saisie, ou si le destinataire a été inculpé pour ces mêmes faits.\n\n**(2)** La personne qui s’est vu notifier l’ordonnance est tenue d’y prêter son concours. Elle communique les documents ou les données stockées, traitées ou transmises dans un système de traitement ou de transmission automatisé de données sollicités par courrier, par télécopie ou par courrier électronique, dans le délai indiqué dans l’ordonnance, au juge d’instruction ou à l’officier de police judiciaire désigné par ce dernier. Le juge d’instruction ou l’officier de police judiciaire dresse un procès-verbal de perquisition et de saisie et accuse réception des documents ou données sollicités par lettre recommandée avec accusé de réception ou par courrier électronique. Une copie conforme du procès-verbal de perquisition et de saisie est jointe à l’accusé de réception.\n\n**(3)** Le refus de prêter son concours à l’exécution des ordonnances sera puni d’une amende de 1.250 à 125.000 euros.",
+      "text_sha256": "853ae02dff4539f52de6f90b24fb63778d53c86e6603deaf96c77e01c213594d",
+      "md_span": {
+        "start": 822,
+        "end": 2656
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_2/20201222",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Notification des ordonnances de perquisition et de saisie concernant des fonds ou des biens",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Par dérogation aux articles 65 et 66 du Code de procédure pénale, le juge d’instruction peut, s’il le juge opportun, notifier les ordonnances de perquisition et de saisie aux fins de saisie de fonds ou de biens par lettre recommandée avec avis de réception, par télécopie ou par courrier électronique. Il peut également donner commission rogatoire à cette fin à l’officier de police judiciaire qu’il désigne. Les ordonnances de perquisition et de saisie ne peuvent pas être notifiées en application des dispositions du présent article lorsque, au moment de la notification, son destinataire est suspecté être l’auteur, le co-auteur ou le complice des faits ayant motivé la perquisition ou la saisie, ou si le destinataire a été inculpé pour ces mêmes faits.\n\n**(2)** La personne physique ou morale qui s’est vu notifier l’ordonnance est tenue d’y prêter son concours. Dans le délai indiqué dans l’ordonnance, elle informe le juge d’instruction ou l’officier de police judiciaire désigné par ce dernier par courrier, par télécopie ou par courrier électronique de l’exécution de l’ordonnance et précise les fonds ou biens saisis. Le juge d’instruction ou l’officier de police judiciaire dresse un procès-verbal de perquisition et de saisie. Il accuse réception par lettre recommandée avec accusé de réception ou par courrier électronique et joint une copie conforme du procès-verbal de perquisition et de saisie à l’accusé de réception.\n\n**(3)** Le refus de prêter son concours à l’exécution des ordonnances sera puni d’une amende de 1.250 à 125.000 euros.",
+      "text_sha256": "7f0440119cb1d6898477acb74863a5787ee3705b79648c13e1e3cc1122019344",
+      "md_span": {
+        "start": 2783,
+        "end": 4345
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_3/20200625",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Auditions de témoins",
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "**(1)** Les auditions de témoins par un officier ou agent de police judiciaire dans le cadre de l’enquête de flagrance ou de l’enquête préliminaire ou sur commission rogatoire du juge d’instruction dans le cadre de l’instruction préparatoire peuvent avoir lieu par des moyens de télécommunication audiovisuelle ou par audioconférence.\n\n**(2)** L’officier ou l’agent de police judiciaire qui procède à l’audition s’assure par tous les moyens de l’identité de la personne entendue. Il relate ces vérifications au procès-verbal d’audition.\n\n**(3)** À la fin de l’audition, l’officier ou l’agent de police judiciaire donne lecture du procès-verbal et demande à la personne entendue si elle en approuve le contenu ou si elle souhaite faire consigner des observations. Il relate les réponses données au procès-verbal. L’approbation orale par la personne entendue, constatée au procès-verbal, tient lieu de signature.\n\n**(4)** L’audition fait l’objet d’un enregistrement audiovisuel ou, en cas d’audioconférence, d’un enregistrement audio, qui est joint au dossier et qui sert de moyen de preuve. La transcription de l’audition n’est obligatoire qu’en cas de contestation ultérieure de ses déclarations par la personne entendue, ou dans l’hypothèse où la personne entendue, son mandataire ou la partie civile en fait la demande.",
+      "text_sha256": "c46006f4cf9bf1fb1202e5e5a84459f4545279991d2a238cb06d4ced1afa01a7",
+      "md_span": {
+        "start": 4401,
+        "end": 5722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_4/20200625",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Assistance par un avocat d’une personne privée de liberté",
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Par dérogation à l’article 3-6, paragraphes 1 et 3, du Code de procédure pénale, le droit d’une personne privée de liberté d’être assistée d’un avocat au cours d’interrogatoires par des officiers de police judiciaire, ou de rencontrer, à tout stade de la procédure, en privé l’avocat qui la représente et de communiquer avec lui peut être exercé, de l’accord de la personne concernée et de son avocat, par l’intermédiaire d’un moyen de communication électronique, y compris téléphonique, dans des conditions garantissant la confidentialité des échanges. Aucun enregistrement, sous quelque forme que ce soit, de la communication entre la personne assistée au sens de l’article 3-6 du Code de procédure pénale et son avocat ne pourra être fait.",
+      "text_sha256": "52ba324860146a21ec9627c02de4cd4c06d1d29f2a1638fe7f230985c83a5f86",
+      "md_span": {
+        "start": 5815,
+        "end": 6557
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5_20201222",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_5_20201222",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_5/20200728",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Procédure applicable aux demandes en nullité, en restitution, de mise en liberté provisoire et de remise de personne",
+      "path": [],
+      "article_valid_from": "2020-07-28",
+      "text_md": "**(1)** Par dérogation aux dispositions citées ci-après, les demandes suivantes sont jugées sur dossier, sans comparution des parties, de leurs avocats et du ministère public :\n\n1. Code de procédure pénale\n2. Code de procédure pénale\n3. Code de procédure pénale\n4. Code de procédure pénale loi modifiée du 17 mars 2004 loi modifiée du 20 juin 2001\n5. loi modifiée du 14 février 1955\n6. loi modifiée du 12 novembre 2004\n7. loi modifiée du 17 mars 2004\n8. loi modifiée du 20 juin 2001 loi précitée du 20 juin 2001\n9. loi modifiée du 8 août 2000 er directive 2014/41/UE Code de procédure pénale loi modifiée du 8 août 2000\n\n**(2)** Le ministère public est entendu en ses réquisitions écrites qui sont prises dans les trois jours ouvrables après la réception de la demande. Celles-ci sont communiquées aux avocats des parties et à défaut à celles-ci en personne. Les parties ou leurs avocats sont en droit d’y répliquer par écrit transmis par tous les moyens au greffe, y compris par courrier électronique. Cette réplique doit avoir été reçue par le greffe au plus tard dans les trois jours ouvrables après la réception des réquisitions du ministère public.\n\n**(3)** Le présent article s’applique aux demandes déposées, mais non encore jugées, antérieurement à l’entrée en vigueur de la présente loi.",
+      "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+      "md_span": {
+        "start": 6718,
+        "end": 8014
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_6/20201222",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Procédure d’appel contre les ordonnances rendues par le juge d’instruction ou par la chambre du conseil",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Sans préjudice des procédures prévues à l’article 133 du Code de procédure pénale, aux articles 9 et 13 de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne, à l’article 20 de la loi modifiée du 20 juin 2001 sur l’extradition, à l’article 11 de la loi modifiée du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale, à l’article 28 de la loi du 1er août 2018 portant 1° transposition de la directive 2014/41/UE du Parlement européen et du Conseil du 3 avril 2014 concernant la décision d’enquête européenne en matière pénale ; 2° modification du Code de procédure pénale ; 3° modification de la loi modifiée du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale, et à l’article 9-3 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, l’appel contre les ordonnances du juge d’instruction ou de la chambre du conseil du tribunal peut également être formé par une déclaration d’appel qui est à faire parvenir au guichet du greffe du tribunal dont relèvent le juge d’instruction et la chambre du conseil par tous les moyens écrits, y compris par courrier électronique. Les adresses électroniques du greffe par le biais desquelles appel peut valablement être interjeté par courrier électronique sont publiées par les autorités judiciaires sur leur site internet.\n\n**(2)** Le guichet du greffe accuse sans délai réception de la déclaration d’appel par courrier électronique.",
+      "text_sha256": "89e1d6d1403024b09d747e0714b27318d7a9733ca2895b3d84ac9602c97e1bf0",
+      "md_span": {
+        "start": 8153,
+        "end": 9725
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/03/17/n1/jo",
+          "text": "loi modifiée du 17 mars 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2001/06/20/n5/jo",
+          "text": "loi modifiée du 20 juin 2001"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2000/08/08/n4/jo",
+          "text": "loi modifiée du 8 août 2000"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2018/08/01/a787/jo",
+          "text": "loi du 1er août 2018"
+        },
+        {
+          "href": "/eli/dir_ue/2014/41/jo",
+          "text": "directive 2014/41/UE"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/11/12/n1/jo",
+          "text": "loi modifiée du 12 novembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_7/20201222",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Procédure d’appel contre les jugements des tribunaux d’arrondissement autres que sur le fond",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Sans préjudice des procédures prévues aux articles 203, 221 et 222 du Code de procédure pénale, l’appel contre les jugements de la chambre correctionnelle ou criminelle du tribunal d’arrondissement ayant statué sur :\n\n1. Code de procédure pénale\n2. Code de procédure pénale\n3. Code de procédure pénale\n4. loi modifiée du 14 février 1955\n\npeut également être formé par une déclaration d’appel qui est à faire parvenir au guichet du greffe du tribunal d’arrondissement par tous les moyens écrits, y compris par courrier électronique. Les adresses électroniques du greffe par le biais desquelles appel peut valablement être interjeté par courrier électronique sont publiées par les autorités judiciaires sur leur site internet.\n\n**(2)** Le guichet du greffe accuse sans délai réception de la déclaration d’appel par courrier électronique.",
+      "text_sha256": "e24035228f4bbc8e07ae5ffb4a3b6bb45dd709ed3bb55ed8a6ef7d9fcdc8ff65",
+      "md_span": {
+        "start": 9853,
+        "end": 10696
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_8/20201222",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Procédure d’appel contre les décisions du juge de police en matière d’interdiction de conduire provisoire",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Sans préjudice des procédures prévues à l’article 172 du Code procédure pénale, l’appel contre les décisions du juge de police ayant statué sur les demandes en mainlevée d’interdictions de conduire provisoires prévues à l’article 14, alinéa 5, point 2°, de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques peut également être formé par une déclaration d’appel qui est à faire parvenir au guichet du greffe du tribunal de police par tous les moyens écrits, y compris par courrier électronique. Les adresses électroniques du greffe par le biais desquelles appel peut valablement être interjeté par courrier électronique sont publiées par les autorités judiciaires sur leur site internet.\n\n**(2)** Le guichet du greffe accuse sans délai réception de la déclaration d’appel par courrier électronique.",
+      "text_sha256": "0cda6a4a35f7b0d1910edf871ccde4d05706b59a7daf9259b2244099dc215b7e",
+      "md_span": {
+        "start": 10837,
+        "end": 11705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code procédure pénale"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi modifiée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_9/20201222",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Procédure d’appel contre les jugements rendus quant au fond",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "**(1)** Sans préjudice des procédures prévues à l’article 203, alinéa 4, première phrase, et alinéa 5, première phrase, du Code de procédure pénale, appel contre les jugements des tribunaux de police et contre les jugements rendus par les tribunaux d’arrondissement en matières correctionnelle et criminelle peut également être interjeté par les parties et par le ministère public par tous moyens écrits, y compris par voie de courrier électronique, à adresser au guichet du greffe du tribunal ayant rendu le jugement dont appel. Cette disposition s’applique également à l’appel à interjeter par voie de requête prévu à l’article 204 du Code de procédure pénale. Le guichet du greffe accuse sans délai réception de l’appel par le même moyen écrit par lequel appel a été interjeté. Les adresses électroniques du greffe par le biais desquelles appel peut valablement être interjeté par courrier électronique sont publiées par les autorités judiciaires sur leur site internet.\n\n**(2)** Le courrier électronique visé au paragraphe 1er doit émaner de l’appelant, de son avocat ou de tout autre fondé de pouvoir spécial. Dans ce dernier cas, le pouvoir est annexé au courrier électronique.\n\n**(3)** Les informations et la notification prévues par l’article 203, alinéas 4 et 5, du Code de procédure pénale, sont également effectuées par tous moyens écrits, y compris par courrier électronique.\n\n**(4)** Lorsque l’appelant est détenu et a déclaré son appel à un membre de l’administration pénitentiaire conformément à l’article 203, alinéa 6, du Code de procédure pénale, la transmission de l’acte d’appel par le centre pénitentiaire au guichet du greffe de la juridiction peut également être effectuée par courrier électronique.",
+      "text_sha256": "4cb3842e93a8428bf3e957f3ebfa0f03bacb7199d849dd93b5d15595848ce926",
+      "md_span": {
+        "start": 11800,
+        "end": 13522
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10_20201222",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_10_20201222",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_10/20201222",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Exécution fractionnée des peines privatives de liberté",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "Par dérogation à l’article 679 du Code de procédure pénale, l’exécution fractionnée des peines peut être ordonnée pour des peines privatives de liberté inférieures ou égales à trois ans, ainsi que pour des peines initialement y supérieures mais dont la durée restant à purger est inférieure ou égale à trois ans.",
+      "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+      "md_span": {
+        "start": 13623,
+        "end": 13935
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_11/20201222",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Saisine de la chambre de l’application des peines",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "Le recours visé à l’article 698 du Code de procédure pénale peut également être introduit par écrit transmis par tous les moyens au greffe, y compris par courrier électronique. Les adresses électroniques du greffe par le biais desquelles le recours peut valablement être introduit par courrier électronique sont publiées par les autorités judiciaires sur leur site internet. En cas d’introduction du recours par la voie postale, le recours est réputé avoir être introduit le jour de la remise du pli au bureau des postes, le cachet postal faisant foi.",
+      "text_sha256": "f793c1b7c032df5f287e7800634902e4e1cf546c733d7e8155c7d13957bd8733",
+      "md_span": {
+        "start": 14022,
+        "end": 14573
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_11bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_11bis/20200728",
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-07-28",
+      "text_md": "Les articles 5 à 8, dans leur teneur avant l’entrée en vigueur de la loi du 24 juillet 2020 portant modification de la loi du 20 juin 2020 portant adaptation temporaire de certaines modalités procédurales en matière pénale, sont applicables aux instances introduites et non encore jugées au moment de l’entrée en vigueur de la loi précitée du 24 juillet 2020.",
+      "text_sha256": "38c5c3d1f7c6c38c8bf33a23608df44cba1fa5bd3743a93613eb4d8689734a6a",
+      "md_span": {
+        "start": 14616,
+        "end": 14975
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a636/jo",
+          "text": "loi du 24 juillet 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/06/20/a542/jo",
+          "text": "loi du 20 juin 2020"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a636/jo",
+          "text": "loi précitée du 24 juillet 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_12/20200625",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "La présente loi entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
+      "md_span": {
+        "start": 15030,
+        "end": 15138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2020-06-20-a542:2020-12-22--cd9ffef502a57096ce88fab6b7a0860bed35847892f04ed714bb1cbf7cf05886#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/art_13/20201222",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Cessation",
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "Les dispositions de la présente loi cessent d’être en vigueur le 15 septembre 2021.",
+      "text_sha256": "e85ab7ab1b1ca713a7e7590af1b13eec8c5ec66c81654a2bec52063577f3256d",
+      "md_span": {
+        "start": 15185,
+        "end": 15268
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,114 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 février 2011 portant institution d'une autorité nationale pour la certification professionnelle.",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-02-27-n3/versions/2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17/fr.xml",
+    "sha256": "c8ddb4f00ab5ab8c49dfefb033ecd1846f1400790387c3364f56c8b0efa8cb54",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/art_1er/20110313",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-13",
+      "text_md": "L'autorité nationale pour la certification professionnelle émet les certificats et diplômes sanctionnant la formation professionnelle initiale et la formation professionnelle de base. Elle contrôle si les conditions d'études pour la délivrance des certificats et diplômes sont remplies.\n\nEn matière de validation des acquis de l'expérience professionnelle, elle notifie au candidat la décision quant au degré de validation.",
+      "text_sha256": "8f0a3efa567f2cb9502589c40a20a2df42a17f87aa5ed7c210c2dea6ca8c652c",
+      "md_span": {
+        "start": 726,
+        "end": 1149
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/art_2/20110313",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-13",
+      "text_md": "Les représentants des chambres professionnelles sont nommés par le ministre, sur proposition des chambres professionnelles. Les directeurs des lycées publics sont nommés par le ministre, sur proposition du Collège des Directeurs de l'enseignement secondaire technique.",
+      "text_sha256": "9b66ced435f19ac719602bf751d152297bc980825daa5545652f897b19f2fcf4",
+      "md_span": {
+        "start": 1184,
+        "end": 1452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/art_3/20110313",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-13",
+      "text_md": "L'autorité nationale se réunit à l'initiative de son président. Les convocations accompagnées de l'ordre du jour sont envoyées aux membres au moins quinze jours avant la date de la réunion. L'ordre du jour est proposé par le président et arrêté en début de la réunion. L'autorité nationale délibère alors valablement quel que soit le nombre des membres présents.\n\nEn cas d'urgence, les convocations accompagnées de l'ordre du jour peuvent être envoyées aux membres dans un délai de moins de quinze jours avant la date de la réunion. Dans ce cas, il faut que la moitié au moins des membres soient présents.\n\nLes votes par procuration ne sont pas admis.\n\nLes décisions sont prises à la majorité des suffrages exprimés. En cas de partage des voix, celle du président l'emporte.",
+      "text_sha256": "2dba58503ab218b721209eb83d5732fcecf58463f93dd4c4eb7cbee0ecc80b96",
+      "md_span": {
+        "start": 1487,
+        "end": 2261
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/art_4/20240101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les membres de l'autorité nationale, prévue à l'article 34 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, ont droit à une indemnité de 43,13 € par séance à laquelle ils ont participé.",
+      "text_sha256": "05c64f1a713b88cc919bc0f69775fdf3212c159905fa37dd0a20116a1577d051",
+      "md_span": {
+        "start": 2296,
+        "end": 2520
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi modifiée du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n3:2024-01-01--854d85176f19d434439b198c3498d7a33a604cc6acc1f77b74dbc397bb409a17#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/art_5/20110313",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-13",
+      "text_md": "Notre Ministre de l'Éducation nationale et de la Formation professionnelle et Notre Ministre des Finances sont chargés de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "a6c4fe025f6dcd9ab62330d44df223863903eed67a95c6e7dcd4db7f16ebcad8",
+      "md_span": {
+        "start": 2555,
+        "end": 2738
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

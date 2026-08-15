@@ -1,0 +1,1623 @@
+---
+lex_id: 'eu-eurlex:32014r0909:2024-05-01--e16923b17c76e710182552042688cc74c03287956342de93c438d04ff571ec73'
+title: 'Regulation (EU) No 909/2014'
+valid_from: '2024-05-01'
+valid_to: '2025-01-16'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20240501'
+source_sha256: '48e82e409c418db284d1049c27d10f90fceacf3b7f4514a25ef0d0a00a99e9d5'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter and scope
+
+**1.** This Regulation lays down uniform requirements for the settlement of financial instruments in the Union and rules on the organisation and conduct of central securities depositories (CSDs) to promote safe, efficient and smooth settlement.
+
+**2.** This Regulation applies to the settlement of all financial instruments and activities of CSDs unless otherwise specified in this Regulation.
+
+**3.** This Regulation is without prejudice to provisions of Union law concerning specific financial instruments, in particular Directive 2003/87/EC.
+
+**4.** Articles 10 to 20, 22 to 24 and 27, Article 28(6), Article 30(4) and Articles 46 and 47, the provisions of Title IV and the requirements to report to competent authorities or relevant authorities or to comply with their orders under this Regulation, do not apply to the members of the ESCB, other Member States’ national bodies performing similar functions, or to other public bodies charged with or intervening in the management of public debt in the Union in relation to any CSD which the aforementioned bodies directly manage under the responsibility of the same management body, which has access to the funds of those bodies and which is not a separate entity.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+**1.** For the purposes of this Regulation, the following definitions apply:(1) ‘central securities depository’ or ‘CSD’ means a legal person that operates a securities settlement system referred to in point (3) of Section A of the Annex and provides at least one other core service listed in Section A of the Annex;(2) ‘third-country CSD’ means any legal entity established in a third country that provides a similar service to the core service referred to in point (3) of Section A of the Annex and performs at least one other core service listed in Section A of the Annex;(3) ‘immobilisation’ means the act of concentrating the location of physical securities in a CSD in a way that enables subsequent transfers to be made by book entry;(4) ‘dematerialised form’ means the fact that financial instruments exist only as book entry records;(5) ‘receiving CSD’ means the CSD which receives the request of another CSD to have access to its services through a CSD link;(6) ‘requesting CSD’ means the CSD which requests access to the services of another CSD through a CSD link;(7) ‘settlement’ means the completion of a securities transaction where it is concluded with the aim of discharging the obligations of the parties to that transaction through the transfer of cash or securities, or both;(8) ‘financial instruments’ or ‘securities’ means financial instruments as defined in point (15) of Article 4(1) of Directive 2014/65/EU;(9) ‘transfer order’ means transfer order as defined in the second indent of point (i) of Article 2 of Directive 98/26/EC;(10) ‘securities settlement system’ means a system under the first, second and third indents of point (a) of Article 2 of Directive 98/26/EC that is not operated by a central counterparty whose activity consists of the execution of transfer orders;(11) ‘settlement internaliser’ means any institution, including one authorised in accordance with Directive 2013/36/EU or with Directive 2014/65/EU, which executes transfer orders on behalf of clients or on its own account other than through a securities settlement system;(12) ‘intended settlement date’ means the date that is entered into the securities settlement system as the settlement date and on which the parties to a securities transaction agree that settlement is to take place;(13) ‘settlement period’ means the time period between the trade date and the intended settlement date;(14) ‘business day’ means business day as defined in point (n) of Article 2 of Directive 98/26/EC;(15) ‘settlement fail’ means the non-occurrence of settlement, or partial settlement of a securities transaction on the intended settlement date, due to a lack of securities or cash and regardless of the underlying cause;(16) ‘central counterparty’ or ‘CCP’ means a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;(17) ‘competent authority’ means the authority designated by each Member State in accordance with Article 11, unless otherwise specified in this Regulation;(18) ‘relevant authority’ means any authority referred to in Article 12;(19) ‘participant’ means any participant, as defined in point (f) of Article 2 of Directive 98/26/EC in a securities settlement system;(20) ‘participation’ means participation within the meaning of the first sentence of point (2) of Article 2 of Directive 2013/34/EU, or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;(21) ‘control’ means the relationship between two undertakings as described in Article 22 of Directive 2013/34/EU;(22) ‘subsidiary’ means a subsidiary undertaking within the meaning of Article 2(10) and Article 22 of Directive 2013/34/EU;(23) ‘home Member State’ means the Member State in which a CSD is established;(24) ‘host Member State’ means the Member State, other than the home Member State, in which a CSD has a branch or provides CSD services;(25) ‘branch’ means a place of business other than the head office which is a part of a CSD, which has no legal personality and which provides CSD services for which the CSD has been authorised;▼M3(26) ‘default’ means, in relation to a participant, a situation where insolvency proceedings, as defined in Article 2, point (j), of Directive 98/26/EC, are opened against a participant or an event defined in the CSD’s internal rules as constituting a default;▼B(27) ‘delivery versus payment’ or ‘DVP’ means a securities settlement mechanism which links a transfer of securities with a transfer of cash in a way that the delivery of securities occurs if and only if the corresponding transfer of cash occurs and vice versa;(28) ‘securities account’ means an account on which securities may be credited or debited;(29) ‘CSD link’ means an arrangement between CSDs whereby one CSD becomes a participant in the securities settlement system of another CSD in order to facilitate the transfer of securities from the participants of the latter CSD to the participants of the former CSD or an arrangement whereby a CSD accesses another CSD indirectly via an intermediary. CSD links include standard links, customised links, indirect links, and interoperable links;(30) ‘standard link’ means a CSD link whereby a CSD becomes a participant in the securities settlement system of another CSD under the same terms and conditions as applicable to any other participant in the securities settlement system operated by the latter;(31) ‘customised link’ means a CSD link whereby a CSD that becomes a participant in the securities settlement system of another CSD is provided with additional specific services to the services normally provided by that CSD to participants in the securities settlement system;(32) ‘indirect link’ means an arrangement between a CSD and a third party other than a CSD, that is a participant in the securities settlement system of another CSD. Such link is set up by a CSD in order to facilitate the transfer of securities to its participants from the participants of another CSD;(33) ‘interoperable link’ means a CSD link whereby CSDs agree to establish mutual technical solutions for settlement in the securities settlement systems that they operate;(34) ‘international open communication procedures and standards’ means internationally accepted standards for communication procedures, such as standardised messaging formats and data representation, which are available on a fair, open and non-discriminatory basis to any interested party;(35) ‘transferable securities’ means transferable securities as defined in point (44) of Article 4(1) of Directive 2014/65/EU;(36) ‘shares’ means securities specified in point (44)(a) of Article 4(1) of Directive 2014/65/EU;(37) ‘money-market instruments’ means money-market instruments as defined in point (17) of Article 4(1) of Directive 2014/65/EU;(38) ‘units in collective investment undertakings’ means units in collective investment undertakings as referred to in point (3) of Section C of Annex I to Directive 2014/65/EU;(39) ‘emission allowance’ means emission allowance as described in point (11) of Section C of Annex I to Directive 2014/65/EU, excluding derivatives in emission allowances;(40) ‘regulated market’ means regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;(41) ‘multilateral trading facility’ or ‘MTF’ means multilateral trading facility as defined in point (22) of Article 4(1) of Directive 2014/65/EU;(42) ‘trading venue’ means a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU;(43) ‘settlement agent’ means settlement agent as defined in point (d) of Article 2 of Directive 98/26/EC;(44) ‘SME growth market’ means an SME growth market as defined in point (12) of Article 4(1) of Directive 2014/65/EU;(45) ‘management body’ means the body or bodies of a CSD, appointed in accordance with national law, which is empowered to set the CSD’s strategy, objectives and overall direction, and which oversees and monitors management decision-making and includes persons who effectively direct the business of the CSD.Where, according to national law, a management body comprises different bodies with specific functions, the requirements of this Regulation shall apply only to members of the management body to whom the applicable national law assigns the respective responsibility;(46) ‘senior management’ means those natural persons who exercise executive functions within a CSD and who are responsible and accountable to the management body for the day-to-day management of that CSD;▼M3(47) ‘group’ means a group within the meaning of Article 2, point (11), of Directive 2013/34/EU;(48) ‘close links’ means close links as defined in Article 4(1), point (35), of Directive 2014/65/EU;(49) ‘qualifying holding’ means a direct or indirect holding in a CSD which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9, 10 and 11 of Directive 2004/109/EC of the European Parliament and of the Council (1), or which makes it possible to exercise a significant influence over the management of the CSD;(50) ‘deferred net settlement’ means a settlement mechanism whereby cash or securities transfer orders in relation to securities transactions of the participants in the securities settlement system are subject to netting, and whereby settlement of participants’ net claims and obligations takes place at the end of predefined settlement cycles during or at the end of the business day.▼B
+
+**2.** The Commission shall be empowered to adopt delegated acts in accordance with Article 67 concerning measures to further specify the non-banking-type ancillary services set out in points (1) to (4) of Section B of the Annex and the banking-type ancillary services set out in Section C of the Annex.
+
+<a id="art_3"></a>
+
+### Article 3 — Book-entry form
+
+**1.** Without prejudice to paragraph 2, any issuer established in the Union that issues or has issued transferable securities which are admitted to trading or traded on trading venues, shall arrange for such securities to be represented in book-entry form as immobilisation or subsequent to a direct issuance in dematerialised form.
+
+**2.** Where a transaction in transferable securities takes place on a trading venue the relevant securities shall be recorded in book-entry form in a CSD on or before the intended settlement date, unless they have already been so recorded.
+
+Where transferable securities are transferred following a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC, those securities shall be recorded in book-entry form in a CSD on or before the intended settlement date, unless they have already been so recorded.
+
+<a id="art_4"></a>
+
+### Article 4 — Enforcement
+
+**1.** The authorities of the Member State where the issuer that issues securities is established shall ensure that Article 3(1) is applied.
+
+**2.** The authorities competent for the supervision of the trading venues, including the competent authorities designated in accordance with Article 21(1) of Directive 2003/71/EC of the European Parliament and of the Council (2), shall ensure that the first subparagraph of Article 3(2) of this Regulation is applied where the securities referred to in Article 3(1) of this Regulation are traded on trading venues.
+
+**3.** Member States’ authorities responsible for the application of Directive 2002/47/EC shall ensure that the second subparagraph of Article 3(2) of this Regulation is applied where the securities referred to in Article 3(1) of this Regulation are transferred following a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC.
+
+<a id="art_5"></a>
+
+### Article 5 — Intended settlement date
+
+**1.** Any participant in a securities settlement system that settles in that system on its own account or on behalf of a third party transactions in transferable securities, money-market instruments, units in collective investment undertakings and emission allowances shall settle such transactions on the intended settlement date.
+
+**2.** As regards transactions in transferable securities referred to in paragraph 1 which are executed on trading venues, the intended settlement date shall be no later than on the second business day after the trading takes place. That requirement shall not apply to transactions which are negotiated privately but executed on a trading venue, to transactions which are executed bilaterally but reported to a trading venue or to the first transaction where the transferable securities concerned are subject to initial recording in book-entry form pursuant to Article 3(2).
+
+**3.** The competent authorities shall ensure that paragraph 1 is applied.
+
+The authorities competent for the supervision of trading venues shall ensure that paragraph 2 is applied.
+
+<a id="art_6"></a>
+
+### Article 6 — Measures to prevent settlement fails
+
+**1.** Trading venues shall establish procedures that enable the confirmation of relevant details of transactions in financial instruments referred to in Article 5(1) on the date when the transaction has been executed.
+
+**2.** Notwithstanding the requirement laid down in paragraph 1, investment firms authorised pursuant to Article 5 of Directive 2014/65/EU shall, where applicable, take measures to limit the number of settlement fails.
+
+Such measures shall at least consist of arrangements between the investment firm and its professional clients as referred to in Annex II to Directive 2014/65/EU to ensure the prompt communication of an allocation of securities to the transaction, confirmation of that allocation and confirmation of the acceptance or rejection of terms in good time before the intended settlement date.
+
+ESMA shall, in close cooperation with the members of the ESCB, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the standardised procedures and messaging protocols to be used for complying with the second subparagraph of this paragraph.
+
+**3.** For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) on the intended settlement date with a minimum exposure of its participants to counterparty and liquidity risks and a low rate of settlement fails. It shall promote early settlement on the intended settlement date through appropriate mechanisms.
+
+**4.** For each securities settlement system it operates, a CSD shall put in place measures to encourage and incentivise the timely settlement of transactions by its participants. CSDs shall require participants to settle their transactions on the intended settlement date.
+
+**5.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the measures to prevent settlement fails in order to increase settlement efficiency and in particular:(a) the measures to be taken by investment firms in accordance with paragraph 2, first subparagraph;(b) the details of the procedures that facilitate settlement referred to in paragraph 3, which could include the shaping of transaction sizes, partial settlement of failing trades and the use of auto-lend/borrow programmes provided by certain CSDs; and(c) the details of the measures to encourage and incentivise the timely settlement of transactions referred to in paragraph 4.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 July 2025.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_7"></a>
+
+### Article 7 — Measures to address settlement fails
+
+**1.** For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
+
+**2.** For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
+
+Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
+
+The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (‘failing participants’). Cash penalties shall be calculated on a daily basis for each business day that a transaction fails to be settled after its intended settlement date until the transaction is either settled or bilaterally cancelled. The cash penalties shall not be configured as a revenue source for the CSD.
+
+**3.** The penalty mechanism referred to in paragraph 2 shall not apply to:(c) transactions where the failing participant is a CCP, except for transactions entered into by a CCP where it does not interpose itself between the counterparties; or(d) transactions where insolvency proceedings are opened against the failing participant.
+
+**4.** A CCP may establish in its rules a mechanism to cover losses that it could incur resulting from the application of paragraph 2, third subparagraph.
+
+**5.** The Commission shall be empowered to adopt delegated acts in accordance with Article 67 to supplement this Regulation by specifying parameters for the calculation of a deterrent and proportionate level of the cash penalties referred to in paragraph 2, third subparagraph, of this Article based on all of the following:(a) asset type;(b) liquidity of the financial instrument;(c) type of transaction;(d) duration of the settlement fail.
+
+When specifying the parameters referred to in the first subparagraph, the Commission shall take into account the level of settlement fails per class of financial instruments and the effect that low or negative interest rates could have on the incentives of counterparties and on settlement fails. The parameters used for the calculation of cash penalties shall ensure a high degree of settlement discipline and the smooth and orderly functioning of the financial markets concerned.
+
+The Commission shall review the parameters for the calculation of the level of the cash penalties on a regular basis and at least every four years in order to reassess the appropriateness and effectiveness of the cash penalties in achieving a level of settlement fails in the Union deemed to be acceptable having regard to the impact on the financial stability of the Union.
+
+**6.** By 17 January 2026, ESMA shall publish and keep updated on its website a list of the financial instruments referred to in Article 5(1) which are admitted to trading or traded on a trading venue or cleared by a CCP.
+
+**7.** CSDs, CCPs and trading venues shall establish procedures that enable them to suspend, in consultation with their respective competent authorities, any participant that fails consistently and systematically to deliver the financial instruments referred to in Article 5(1) on the intended settlement date and to disclose to the public its identity only after giving that participant the opportunity to submit its observations and provided that the competent authorities of the CSDs, CCPs and trading venues, and of that participant have been duly informed. In addition to consulting before any suspension, CSDs, CCPs and trading venues shall notify, without delay, the respective competent authorities of the suspension of a participant. The competent authority shall immediately inform the relevant authorities of the suspension of a participant.
+
+Public disclosure of suspensions shall not contain personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679 of the European Parliament and of the Council (3).
+
+This paragraph shall not apply to failing participants which are CCPs or in cases where insolvency proceedings are opened against the failing participant.
+
+**8.** This Article shall not apply where the principal venue for the trading of shares is located in a third country. The location of the principal venue for the trading of shares shall be determined in accordance with Article 16 of Regulation (EU) No 236/2012.
+
+**9.** The Commission shall be empowered to adopt delegated acts in accordance with Article 67 to supplement this Regulation by specifying:(a) the underlying causes of settlement fails that are considered as not attributable to the participants in the transaction under paragraph 3, point (a), of this Article; and(b) the circumstances in which operations are not considered as trading under paragraph 3, point (b), of this Article.
+
+**10.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify:(a) the details of the system monitoring settlement fails and the reports on settlement fails referred to in paragraph 1;(b) the processes for collection and redistribution of cash penalties and any other possible proceeds from such penalties in accordance with paragraph 2;(c) the conditions under which a participant is deemed to fail, consistently and systematically, to deliver the financial instruments as referred to in paragraph 7.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_7a"></a>
+
+### Article 7a — Mandatory buy-in process
+
+**1.** Without prejudice to the penalty mechanism referred to in Article 7(2) and the right to bilaterally cancel the transaction, after consulting the European Systemic Risk Board and based on the cost-benefit analysis provided by ESMA pursuant to Article 74(4), the Commission may, by means of an implementing act, decide to which of the financial instruments referred to in Article 5(1), or categories of transactions in those financial instruments, the mandatory buy-in process referred to in paragraphs 4 to 10 of this Article is to be applied where the Commission considers that mandatory buy-ins constitute a necessary, appropriate and proportionate means to address the level of settlement fails in the Union.
+
+The Commission may adopt the implementing act referred to in the first subparagraph only if both of the following conditions are met:
+
+(a) the application of the penalty mechanism referred to in Article 7(2) has not resulted in a long-term sustainable reduction of settlement fails in the Union or in maintaining a reduced level of settlement fails in the Union, even after a review of the level of cash penalties in accordance with Article 7(5), second subparagraph;
+
+(b) the level of settlement fails in the Union has or is likely to have a negative effect on the financial stability of the Union.
+
+For the purposes of reaching the decision referred to in the first subparagraph, the Commission shall take into account all of the following:
+
+(a) the potential impact of the mandatory buy-in process on financial markets in the Union;
+
+(b) the number, volume and duration of settlement fails, including the number and volume of settlement fails outstanding at the end of the extension period referred to in paragraph 4;
+
+(c) whether a particular financial instrument or category of transactions in that financial instrument is already subject to appropriate contractual provisions that provide a right for receiving participants to trigger a buy-in.
+
+The implementing act shall be adopted in accordance with the examination procedure referred to in Article 68(2). It shall specify a date of application that is not earlier than one year after its entry into force.
+
+**2.** ESMA shall publish and keep updated on its website a list of the financial instruments determined by the implementing act referred to in paragraph 1.
+
+**3.** Before adopting the implementing act referred to in paragraph 1, the Commission shall:(a) assess the effectiveness and proportionality of the penalty mechanism referred to in Article 7(2) and, where appropriate, change the structure or severity of the penalty mechanism in order to increase settlement efficiency in the Union;(b) consider whether the conditions referred to in paragraph 1 are met, despite the prior application of the penalty mechanism referred to in Article 7(2) and the rationale for, and potential cost implications of, subjecting specific financial instruments and categories of transactions to mandatory buy-ins.
+
+**4.** Without prejudice to the right to bilaterally cancel the transaction, where the Commission has adopted an implementing act pursuant to paragraph 1 and where a failing participant has not delivered the financial instruments covered by that implementing act to the receiving participant within a period after the intended settlement date (‘extension period’) of five business days, a mandatory buy-in process shall be initiated.
+
+By way of derogation from the first subparagraph, based on the asset type and liquidity of the financial instruments concerned, the extension period may be increased to a maximum of seven business days where a shorter extension period would affect the smooth and orderly functioning of the markets concerned.
+
+By way of derogation from the first and second subparagraphs, where the transaction relates to a financial instrument traded on an SME growth market, the extension period shall be 15 business days unless the SME growth market decides to apply a shorter period.
+
+**5.** The instruments subject to the mandatory buy-in process shall be available for settlement and delivered to the receiving participant within an appropriate timeframe.
+
+**6.** Where there is a settlement fail in a chain of transactions resulting in settlement fails of subsequent transactions in the chain, each participant shall have the right to pass on their obligation to initiate the mandatory buy-in to the next participant in the chain.
+
+The intermediate receiving participant shall be considered as complying with the obligation to execute a mandatory buy-in against the failing participant where it passes on its obligation in accordance with the first subparagraph. The intermediate receiving participant may also pass on to the failing participant its obligations towards the end receiving participant pursuant to paragraphs 8, 9 and 10.
+
+The relevant CSD shall be informed about how the failed transaction was resolved throughout the chain of transactions.
+
+**7.** The mandatory buy-in process referred to in paragraph 4 shall not apply to:(a) the settlement fails, operations and transactions listed in Article 7(3);(b) securities financing transactions;(c) other types of transactions that render the buy-in process unnecessary;(d) transactions that fall within the scope of Article 15 of Regulation (EU) No 236/2012.
+
+**8.** Without prejudice to the penalty mechanism referred to in Article 7(2), where the price of the financial instruments agreed at the time of the trade is different from the price paid for the execution of the buy-in, the difference shall be paid by the participant benefitting from the price difference to the other participant no later than on the second business day after the financial instruments have been delivered following the buy-in.
+
+**9.** If the buy-in fails or is not possible, the receiving participant may choose either to be paid cash compensation or to defer the execution of the buy-in to an appropriate later date (‘deferral period’). If the relevant financial instruments are not delivered to the receiving participant by the end of the deferral period, cash compensation shall be paid to the receiving participant.
+
+Cash compensation shall be paid no later than on the second business day after the end of either the mandatory buy-in process referred to in paragraph 4 or, in cases where the receiving participant chooses to defer the execution of the buy-in, the deferral period.
+
+**10.** The failing participant shall reimburse the entity that executes the buy-in for all amounts paid in connection with the mandatory buy-in process initiated pursuant to paragraph 4, first subparagraph, including any execution fees resulting from the buy-in. Such fees shall be clearly disclosed to the participants.
+
+**11.** Paragraphs 4 to 10 shall apply to all transactions of the financial instruments referred to in Article 5(1) which are admitted to trading or traded on a trading venue or cleared by a CCP as follows:(a) for transactions cleared by a CCP, the CCP shall be the entity that executes the buy-in according to paragraphs 4 to 10;(b) for transactions not cleared by a CCP, but executed on a trading venue, the trading venue shall include in its internal rules an obligation for its members and its participants to apply the measures referred to in paragraphs 4 to 10;(c) for all transactions other than those referred to in points (a) and (b) of this subparagraph, CSDs shall include in their internal rules an obligation for their participants to be subject to the measures referred to in paragraphs 4 to 10.
+
+A CSD shall provide the necessary settlement information to CCPs and trading venues to enable them to fulfil their obligations under this paragraph.
+
+Without prejudice to points (a), (b) and (c) of the first subparagraph, CSDs may monitor the execution of buy-ins as referred to in those points with respect to multiple settlement instructions, on the same financial instruments and with the same date of expiry of the execution period, with the aim of minimising the number of buy-ins to be executed and thus the impact on the prices of the relevant financial instruments.
+
+**12.** This Article shall not apply where the principal venue for the trading of shares is located in a third country. The location of the principal venue for the trading of shares shall be determined in accordance with Article 16 of Regulation (EU) No 236/2012.
+
+**13.** ESMA may recommend that the Commission suspend in a proportionate way the buy-in mechanism referred to in paragraphs 4 to 10 for specific categories of financial instruments where necessary to avoid or address a serious threat to financial stability or to the orderly functioning of financial markets in the Union. Such recommendation shall be accompanied by a fully reasoned assessment of its necessity and shall not be made public.
+
+Before making the recommendation referred to in the first subparagraph, ESMA shall consult the members of the ESCB and the European Systemic Risk Board.
+
+The Commission shall, without undue delay after receipt of the recommendation, on the basis of the reasons and evidence provided by ESMA, either suspend the mandatory buy-in mechanism referred to in paragraphs 4 to 10 for the specific categories of financial instruments by means of an implementing act, or reject the recommended suspension. Where the Commission rejects the recommended suspension, it shall provide the reasons therefor in writing to ESMA. Such information shall not be made public.
+
+The implementing act referred to in the third subparagraph shall be adopted in accordance with the procedure referred to in Article 68(3).
+
+The suspension of the mandatory buy-in mechanism shall be communicated to ESMA and shall be published in the *Official Journal of the European Union* and on the Commission’s website.
+
+The suspension of the mandatory buy-in mechanism shall be valid for an initial period of no more than six months from the date of application of that suspension.
+
+Where the grounds for the suspension continue to apply, the Commission may, by way of an implementing act, extend the suspension for additional periods of no more than three months each, with the total period of the suspension not exceeding 12 months. Any extensions of the suspension shall be published in accordance with the fifth subparagraph.
+
+The implementing act referred to in the seventh subparagraph shall be adopted in accordance with the procedure referred to in Article 68(3). ESMA shall, in sufficient time before the end of the suspension referred to in the sixth subparagraph or of the extension referred to in the seventh subparagraph, issue an opinion to the Commission on whether the grounds for the suspension continue to apply.
+
+**14.** Where the Commission has adopted an implementing act in accordance with paragraph 1, it shall review that decision on a regular basis and at least every four years in order to assess whether the conditions set out in that paragraph remain fulfilled.
+
+Where the Commission considers that mandatory buy-ins are no longer justified or do not address settlement fails in the Union and are no longer necessary, appropriate or proportionate, it shall, without delay, adopt implementing acts amending or repealing the implementing act referred to in paragraph 1.
+
+The implementing act referred to in the second subparagraph shall be adopted in accordance with the examination procedure referred to in Article 68(2).
+
+Where ESMA considers that mandatory buy-ins are no longer justified or do not address settlement fails in the Union and are no longer necessary, appropriate or proportionate, it may recommend that the Commission amend or repeal the implementing act referred to in paragraph 1. Paragraph 13, first to fourth subparagraphs, shall apply *mutatis mutandis*.
+
+**15.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to further specify:(a) the details of the operation of the appropriate buy-in process referred to in paragraphs 4 to 10, including appropriate timeframes, calibrated taking into account the asset type and liquidity of the financial instruments, for the delivery of the financial instrument following the buy-in process;(b) the circumstances under which the extension period could be prolonged according to asset type and liquidity of the financial instruments, in accordance with the conditions referred to in paragraph 4, second subparagraph, taking into account the criteria for assessing liquidity under Article 2(1), point (17), of Regulation (EU) No 600/2014;(c) the details of the pass-on mechanism under paragraph 6;(d) other types of transactions that render the buy-in process unnecessary as referred to in paragraph 7, point (c), such as financial collateral arrangements or transactions that include close-out netting provisions;(e) a methodology for the calculation of the cash compensation referred to in paragraph 9;(f) the necessary settlement information referred to in paragraph 11, second subparagraph; and(g) the details of how the participants of the CSDs, the CCPs and the trading venue members are to take into account the specificities of retail investors when executing the mandatory buy-in in accordance with paragraph 11.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_8"></a>
+
+### Article 8 — Enforcement
+
+**1.** The competent authority of the CSD that operates the securities settlement system, the relevant authority responsible for the oversight of the securities settlement system concerned as well as the competent authorities for the supervision of trading venues, investment firms and CCPs shall be competent for ensuring that Articles 6 and 7 are applied by the institutions subject to their supervision and for monitoring the penalties imposed. Where necessary, the respective competent authorities shall cooperate closely. Member States shall inform ESMA about the designated competent authorities that are part of the supervision structure at the national level.
+
+**2.** In order to ensure consistent, efficient and effective supervisory practices within the Union in relation to Articles 6 and 7 of this Regulation, ESMA may, in close cooperation with the members of the ESCB, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010.
+
+**3.** An infringement of the rules under this Title shall not affect the validity of a private contract on financial instruments or the possibility for the parties to enforce the provisions of a private contract on financial instruments.
+
+<a id="art_9"></a>
+
+### Article 9 — Settlement internalisers
+
+**1.** Settlement internalisers shall report to the competent authorities of their place of establishment on a quarterly basis the aggregated volume and value of all securities transactions that they settle outside securities settlement systems.
+
+Competent authorities shall without delay transmit the information received under the first subparagraph to ESMA and shall inform ESMA of any potential risk resulting from that settlement activity.
+
+**2.** ESMA may, in close cooperation with the members of the ESCB, develop draft regulatory technical standards further specifying the content of such reporting.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**3.** ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the reporting and transmission of information referred to in paragraph 1.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_10"></a>
+
+### Article 10 — Competent authority
+
+Without prejudice to the oversight by the members of the ESCB referred to in Article 12(1), a CSD shall be authorised and supervised by the competent authority of its home Member State.
+
+<a id="art_11"></a>
+
+### Article 11 — Designation of the competent authority
+
+**1.** Each Member State shall designate the competent authority responsible for carrying out the duties under this Regulation for the authorisation and supervision of CSDs established in its territory and shall inform ESMA thereof.
+
+Where a Member State designates more than one competent authority, it shall determine their respective roles and shall designate a single authority to be responsible for cooperation with other Member States’ competent authorities, the relevant authorities, ESMA, and EBA, where specifically referred to in this Regulation.
+
+**2.** ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraph 1.
+
+**3.** The competent authorities shall have the supervisory and investigatory powers necessary for the exercise of their functions.
+
+<a id="art_12"></a>
+
+### Article 12 — Relevant authorities
+
+**1.** The following authorities shall be involved in the authorisation and supervision of CSDs where specifically referred to in this Regulation:(a) the authority responsible for the oversight of the securities settlement system operated by the CSD in the Member State whose law applies to that securities settlement system;▼M3(b) the central banks in the Union issuing the most relevant currencies in which settlement takes or will take place;(c) where relevant, the central bank in the Union in whose books the cash payments of a securities settlement system operated by the CSD is or will be settled.▼B
+
+**2.** ESMA shall publish on its website the list of the relevant authorities referred to in paragraph 1.
+
+**3.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards specifying the conditions under which the Union currencies referred to in point (b) of paragraph 1 are considered to be the most relevant, and efficient practical arrangements for the consultation of the relevant authorities referred to in points (b) and (c) of that paragraph.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_13"></a>
+
+### Article 13 — Exchange of information
+
+**1.** Competent authorities, relevant authorities and ESMA shall, on request and without undue delay, provide one another with the information required for the purposes of carrying out their duties under this Regulation.
+
+**2.** Competent authorities, relevant authorities, ESMA and other bodies or natural and legal persons receiving confidential information in the exercise of their duties under this Regulation shall use it only in the course of their duties.
+
+<a id="art_14"></a>
+
+### Article 14 — Cooperation between authorities
+
+**1.** Competent authorities, relevant authorities and ESMA shall cooperate closely, including by exchanging all relevant information for the application of this Regulation. Where appropriate and relevant, such cooperation shall include other public authorities and bodies, in particular those established or appointed under Directive 2003/87/EC.
+
+In order to ensure consistent, efficient and effective supervisory practices within the Union, including cooperation between competent authorities and relevant authorities in the different assessments necessary for the application of this Regulation, ESMA may, in close cooperation with the members of the ESCB, issue guidelines addressed to competent authorities in accordance with Article 16 of Regulation (EU) No 1095/2010.
+
+**2.** The competent authorities shall, in the exercise of their general duties, duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned, in particular in the emergency situations referred to in Article 15, based on the available information.
+
+<a id="art_15"></a>
+
+### Article 15 — Emergency situations
+
+Without prejudice to the notification procedure provided for in Article 6(3) of Directive 98/26/EC, competent authorities and relevant authorities shall immediately inform ESMA, the European Systemic Risk Board established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council (4) and each other of any emergency situation relating to a CSD, including of any developments in financial markets, which may have an adverse effect on market liquidity, the stability of a currency in which settlement takes place, the integrity of monetary policy or on the stability of the financial system in any of the Member States where the CSD or one of its participants are established.
+
+<a id="art_16"></a>
+
+### Article 16 — Authorisation of a CSD
+
+**1.** Any legal person that falls within the definition of CSD shall obtain an authorisation from the competent authority of the Member State where it is established before commencing its activities.
+
+**2.** The authorisation shall specify the core services listed in Section A of the Annex and non-banking-type ancillary services permitted under Section B of the Annex, which the CSD is authorised to provide.
+
+**3.** A CSD shall comply at all times with the conditions necessary for authorisation.
+
+**4.** A CSD as well as its independent auditors, shall, without undue delay, inform the competent authority of any substantive changes affecting the compliance with the conditions for authorisation.
+
+<a id="art_17"></a>
+
+### Article 17 — Procedure for granting authorisation
+
+**1.** The applicant CSD shall submit an application for authorisation to its competent authority.
+
+**2.** The application for authorisation shall be accompanied by all information necessary to enable the competent authority to satisfy itself that the applicant CSD has established, at the time of the authorisation, all the necessary arrangements to meet its obligations as laid down in this Regulation. The application for authorisation shall include a programme of operations setting out the types of business envisaged and the structural organisation of the CSD.
+
+By way of derogation from the first subparagraph, where an applicant CSD does not comply with all requirements of this Regulation, but where it can reasonably be assumed that it will do so when it commences its activities, the competent authority may grant the authorisation subject to the condition that the applicant CSD has all the necessary arrangements in place to comply with the requirements of this Regulation when it commences its activities.
+
+**3.** Within 30 working days from the receipt of the application, the competent authority shall assess whether the application is complete. If the application is not complete, the competent authority shall set a time limit by which the applicant CSD has to provide additional information. The competent authority shall inform the applicant CSD when the application is considered to be complete.
+
+**4.** From the moment when the application is considered to be complete, the competent authority shall transmit all information included in the application to the relevant authorities and consult those authorities concerning the features of the securities settlement system operated by the applicant CSD.
+
+Each relevant authority may issue a reasoned opinion within its areas of competence to the competent authority within three months of receipt of the information by the relevant authority. Where a relevant authority does not provide an opinion within that timeframe it shall be deemed to have issued a positive opinion.
+
+Where at least one of the relevant authorities issues a negative reasoned opinion, and the competent authority nevertheless intends to grant the authorisation, that competent authority shall, within one month of receipt of the negative opinion, provide the relevant authorities with the reasons why it intends to grant the authorisation notwithstanding the negative opinion.
+
+Any of the relevant authorities that issued a negative opinion referred to in the third subparagraph may refer the matter to ESMA for assistance under Article 31(2), point (c), of Regulation (EU) No 1095/2010.
+
+Where the issue is not settled within one month of the referral to ESMA, the competent authority intending to grant the authorisation shall take a final decision and provide the relevant authorities with a detailed explanation of its decision in writing.
+
+Where the competent authority intends to refuse authorisation, the matter shall not be referred to ESMA.
+
+A negative opinion referred to in the third subparagraph shall state in writing the full and detailed reasons why the requirements laid down in this Regulation or other requirements of Union law are not met.
+
+**5.** Where the applicant CSD intends to provide services referred to in point (2) of Article 4(1) of Directive 2014/65/EU in addition to the provision of non-banking-type ancillary services explicitly listed in Section B of the Annex, the competent authority shall transmit all information included in the application to the authority referred to in Article 67 of Directive 2014/65/EU and consult that authority on the ability of the applicant CSD to comply with the requirements of Directive 2014/65/EU and of Regulation (EU) No 600/2014.
+
+**6.** The competent authority shall, before granting authorisation to the applicant CSD, consult the competent authorities of the other Member State involved in the following cases:(a) the CSD is a subsidiary of a CSD authorised in another Member State;(b) the CSD is a subsidiary of the parent undertaking of a CSD authorised in another Member State;(c) the CSD is controlled by the same natural or legal persons who control a different CSD authorised in another Member State.
+
+**7.** The consultation referred to in paragraph 6 shall cover the following:(a) the suitability of the shareholders and persons referred to in Article 27(6) and the reputation and experience of the persons who effectively direct the business of the CSD referred to in Article 27(1) and (4), where those shareholders and persons are common to the CSD and to a CSD authorised in another Member State;(b) whether the relations referred to in points (a), (b) and (c) of paragraph 6 between the CSD authorised in another Member State and the applicant CSD do not affect the ability of the latter to comply with the requirements of this Regulation.
+
+**7a.** In addition to consulting the competent authorities referred to in paragraph 6, the competent authority may, before granting authorisation to the applicant CSD, consult other authorities supervising an entity that has a qualifying holding in the applicant CSD on the matters referred to in paragraph 7.
+
+**8.** Within six months from the submission of a complete application, the competent authority shall inform the applicant CSD in writing with a fully reasoned decision whether the authorisation has been granted or refused.
+
+**8a.** The competent authority shall, without undue delay, inform the authorities consulted pursuant to paragraphs 4 to 7a of the results of the authorisation process, including any remedial actions.
+
+**9.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the information that the applicant CSD is to provide to the competent authority in the application for authorisation.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**10.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms, templates and procedures for the application for authorisation.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_18"></a>
+
+### Article 18 — Effects of the authorisation
+
+**1.** The activities of the authorised CSD shall be limited to the provision of services covered by its authorisation or by notification in accordance with Article 19(8).
+
+**2.** Securities settlement systems may be operated only by authorised CSDs, including central banks acting as CSDs.
+
+**3.** An authorised CSD may have a participation only in a legal person whose activities are limited to the provision of services listed in Sections A and B of the Annex, unless such a participation is approved by its competent authority on the basis that it does not significantly increase the risk profile of the CSD.
+
+**4.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the criteria to be taken into account by the competent authorities to approve the participation of CSDs in legal persons other than those providing the services listed in Sections A and B of the Annex. Such criteria may include whether the services provided by that legal person are complementary to the services provided by a CSD, and the extent of the CSD’s exposure to liabilities arising from such participation.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_19"></a>
+
+### Article 19 — Extension and outsourcing of activities and services
+
+**1.** An authorised CSD shall submit an application for authorisation to the competent authority of its home Member State where it wishes to outsource a core service to a third party under Article 30 or extend its activities to one or more of the following:(a) additional core services listed in Section A of the Annex, not covered by the initial authorisation;(b) ancillary services permitted under, but not explicitly listed in Section B of the Annex, not covered by the initial authorisation;(c) the operation of another securities settlement system;(d) the settlement of all or part of the cash leg of its securities settlement system in the books of another settlement agent;(e) setting up an interoperable link, including those with third-country CSDs.
+
+**2.** The granting of an authorisation to outsource a core service to a third party pursuant to paragraph 1 or to extend activities pursuant to paragraph 1, points (a), (c) and (d), shall follow the procedure laid down in Article 17.
+
+The granting of an authorisation under paragraph 1, point (b), shall follow the procedure laid down in Article 17(1), (2), (3), (5) and (8a).
+
+The granting of an authorisation under paragraph 1, point (e), shall follow the procedure laid down in Article 17(1), (2) and (3).
+
+The competent authority shall inform the applicant CSD whether the authorisation has been granted or refused within three months of submission of a complete application.
+
+**3.** CSDs established in the Union that intend to establish an interoperable link shall submit an application for authorisation as required under point (e) of paragraph 1, to their respective competent authorities. Those authorities shall consult each other regarding the approval of the CSD link. In the event of divergent decisions and if agreed by both competent authorities the matter may be referred to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+**4.** The authorities referred to in paragraph 3 shall refuse to authorise a link only where such a CSD link would threaten the smooth and orderly functioning of the financial markets or cause systemic risk.
+
+**5.** Interoperable links of CSDs that outsource some of their services related to those interoperable links to a public entity in accordance with Article 30(5) and CSD links that are not referred to in point (e) of paragraph 1 shall not be subject to authorisation under that point but shall be notified to the CSDs’ competent and relevant authorities prior to their implementation by providing all relevant information that allows such authorities to assess compliance with the requirements provided in Article 48.
+
+**6.** A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with the conditions and procedures provided in this Article. Where links are established with a third-country CSD the information provided by the requesting CSD shall allow the competent authority to evaluate whether such links fulfil the requirements provided in Article 48 or the requirements that are equivalent to those provided in Article 48.
+
+**7.** The competent authority of the requesting CSD shall require that CSD to discontinue a CSD link that has been notified when such link does not fulfil the requirements provided for in Article 48 and thereby would threaten the smooth and orderly functioning of the financial markets or cause systemic risk. Where a competent authority requires the CSD to discontinue a CSD link, it shall follow the procedure laid down in Article 20(2) and (3).
+
+**8.** The additional ancillary services explicitly listed in Section B of the Annex shall not be subject to authorisation, but shall be notified to the competent authority prior to their provision.
+
+<a id="art_20"></a>
+
+### Article 20 — Withdrawal of authorisation
+
+**1.** Without prejudice to any remedial actions or measures under Title V, the competent authority of the home Member State shall withdraw the authorisation in any of the following circumstances, where the CSD:(a) has not made use of the authorisation during 12 months, expressly renounces the authorisation or has provided no services or performed no activity during the preceding six months;(b) has obtained the authorisation by making false statements or by any other unlawful means;(c) no longer complies with the conditions under which authorisation was granted and has not taken the remedial actions requested by the competent authority within a set time-frame;(d) has seriously or systematically infringed the requirements laid down in this Regulation or, where applicable, in Directive 2014/65/EU or Regulation (EU) No 600/2014.
+
+**2.** From the moment when it becomes aware of one of the circumstances referred to in paragraph 1, the competent authority shall immediately consult the relevant authorities and, where applicable, the authority referred to in Article 67 of Directive 2014/65/EU on the necessity to withdraw the authorisation.
+
+**3.** ESMA and any relevant authority and, where applicable, the authority referred to in Article 67 of Directive 2014/65/EU may, at any time, request that the competent authority of the home Member State examines whether the CSD still complies with the conditions under which the authorisation was granted.
+
+**4.** The competent authority may limit the withdrawal of authorisation to a particular service, activity, or financial instrument.
+
+**5.** A CSD shall establish, implement and maintain adequate procedures ensuring the timely and orderly settlement and transfer of the assets of clients and participants to another CSD in the event of a withdrawal of authorisation referred to in paragraph 1. Such procedures shall include the transfer of issuance accounts or similar records evidencing the issuance of securities, and records linked to the provision of the core services referred to in Section A, points 1 and 2, of the Annex.
+
+<a id="art_21"></a>
+
+### Article 21 — CSD register
+
+**1.** Decisions taken by competent authorities under Articles 16, 19 and 20 shall be immediately communicated to ESMA.
+
+**2.** Central banks shall without undue delay inform ESMA of any securities settlement system that they operate.
+
+**3.** The name of each CSD operating in compliance with this Regulation and to which authorisation or recognition has been granted pursuant to Article 16, 19 or 25 shall be entered in a register specifying the services and, where applicable, classes of financial instruments for which the CSD has been authorised. The register shall include branches operated by the CSD in other Member States, CSD links and the information required under Article 31 where Member States have made use of the possibility provided for in that Article. ESMA shall make the register available on its dedicated website and keep it up to date.
+
+<a id="art_22"></a>
+
+### Article 22 — Review and evaluation
+
+**1.** The competent authority shall review the arrangements, strategies, processes and mechanisms implemented by a CSD, including the plans referred to in Article 22a, with respect to compliance with this Regulation and evaluate the risks to which the CSD is, or might be, exposed or which it creates for the smooth functioning of securities markets or stability of the financial markets.
+
+The competent authority shall establish the frequency and depth of the review and evaluation referred to in the first subparagraph having regard to the size, systemic importance, risk profile, nature, scale and complexity of the activities of the CSD concerned.
+
+The review and evaluation shall take place at least every three years.
+
+**5.** The competent authority shall subject the CSD to on-site inspections.
+
+**6.** When performing the review and evaluation referred to in paragraph 1, the competent authority shall, at an early stage, transmit the necessary information to the relevant authorities and, where applicable, the authority referred to in Article 67 of Directive 2014/65/EU, and consult them on whether the requirements of this Regulation or other requirements of Union law are met by the CSD as regards the functioning of the securities settlement systems operated by the CSD.
+
+The consulted authorities may issue a reasoned opinion within their areas of competence within three months of receipt of the information from the competent authority.
+
+Where a consulted authority does not provide an opinion within that deadline it shall be deemed to have issued a positive opinion.
+
+Where a consulted authority issues a negative reasoned opinion and the competent authority disagrees with it, that competent authority shall, within one month of receipt of the negative opinion, provide the consulted authority with a reasoning addressing the negative opinion.
+
+Any of the consulted authorities that issued a negative opinion may refer the matter to ESMA for assistance under Article 31(2), point (c), of Regulation (EU) No 1095/2010.
+
+Where the issue is not settled within one month of its referral to ESMA, the competent authority shall take the final decision on the review and evaluation and provide a detailed explanation of its decision in writing to the relevant authorities.
+
+Negative opinions referred to in the fourth subparagraph shall state in writing the full and detailed reasons why the requirements laid down in this Regulation or other requirements of Union law are not met.
+
+**7.** The competent authority shall inform the relevant authorities, ESMA and, where applicable, the college referred to in Article 24a of this Regulation and the authority referred to in Article 67 of Directive 2014/65/EU of the results, including any remedial action or penalties, of the review and evaluation referred to in paragraph 1 of this Article.
+
+**8.** When performing the review and evaluation referred to in paragraph 1, the competent authorities responsible for supervising CSDs which maintain the types of relations referred to in points (a), (b) and (c) of Article 17(6) shall supply one another with all relevant information that is likely to facilitate their tasks.
+
+**9.** The competent authority shall require a CSD that does not meet the requirements of this Regulation to take at an early stage the necessary actions or steps to address the situation.
+
+**10.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the following:(a) the information that the CSD is to provide to the competent authority for the purposes of the review and evaluation referred to in paragraph 1;▼M3(b) the information that the competent authority is to supply in accordance with paragraph 7;▼B(c) the information that the competent authorities referred to in paragraph 8 are to supply one another.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**11.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to determine standard forms, templates and procedures for the provision of information referred to in the first subparagraph of paragraph 10.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 17 January 2025.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_22a"></a>
+
+### Article 22a — Plans for recovery and orderly wind-down
+
+**1.** The CSD shall identify scenarios that could potentially prevent it from being able to provide its critical operations and services as a going concern and shall assess the effectiveness of a full range of options for recovery or orderly wind-down. Those scenarios shall take into account the various independent and related risks to which the CSD is exposed. Using that analysis, the CSD shall prepare and submit to the competent authority appropriate plans for its recovery or orderly wind-down.
+
+**2.** The plans referred to in paragraph 1 shall have regard to the size, systemic importance, nature, scale and complexity of the activities of the CSD concerned and contain at least the following:(a) a substantive summary of the key recovery or orderly wind-down strategies;(b) an identification of the CSD’s critical operations and services;(c) adequate procedures ensuring the raising of additional capital in cases where the CSD’s equity capital approaches or falls below the requirements laid down in Article 47(1);(d) adequate procedures ensuring the orderly wind-down or restructuring of the CSD’s operations and services where the CSD is unable to raise new capital;(e) adequate procedures ensuring the timely and orderly settlement and transfer of the assets of clients and participants to another CSD in the event it becomes permanently impossible for the CSD to restore its critical operations and services;(f) a description of the measures needed to implement the key strategies.
+
+**3.** The CSD shall have the capacity to identify and provide to related entities the information needed to implement the plans on a timely basis during stress scenarios.
+
+**4.** The plans shall be approved by the management body, or an appropriate committee of the management body.
+
+**5.** The CSD shall regularly, and at least every two years, review and update the plans. Each update of the plans shall be provided to the competent authority.
+
+**6.** Where the competent authority considers that the CSD’s plans are insufficient, the competent authority may require the CSD to take additional measures or to develop alternative measures.
+
+**7.** Where a CSD is subject to Directive 2014/59/EU and a recovery plan has been drawn up under that Directive, the CSD shall provide that recovery plan to the competent authority.
+
+Where a resolution plan under Directive 2014/59/EU, or a similar plan under national law with the aim of ensuring the continuity of a CSD’s core services, is established and maintained for a CSD, the resolution authority or, where no such authority exists, the competent authority shall inform ESMA of the existence of such a plan.
+
+Where the recovery plan and the resolution plan under Directive 2014/59/EU, or any similar plan under national law, contain all of the elements listed in paragraph 2, the CSD shall not be required to prepare the plans pursuant to paragraph 1.
+
+<a id="art_23"></a>
+
+### Article 23 — Freedom to provide services in another Member State
+
+**1.** An authorised CSD may provide services referred to in the Annex within the territory of the Union, including through setting up a branch, provided that those services are covered by the authorisation.
+
+**2.** An authorised CSD or a CSD that has applied for authorisation pursuant to Article 17 that intends to provide the core services referred to in Section A, points 1 and 2, of the Annex in relation to financial instruments constituted under the law of another Member State referred to in Article 49(1), second subparagraph, point (a), or to set up a branch in another Member State shall be subject to the procedure referred to in paragraphs 3 to 9 of this Article. The CSD may provide such services only after it has been authorised pursuant to Article 17 and not earlier than the date applicable in accordance with paragraph 8 of this Article.
+
+**3.** Any CSD that intends to provide the services referred to in paragraph 2 in relation to financial instruments constituted under the law of another Member State referred to in Article 49(1), second subparagraph, point (a), for the first time, or to change the range of those services provided, shall communicate the following information to the competent authority of the home Member State:(a) the host Member State;(b) a programme of operations stating in particular the services which the CSD intends to provide, including the type of financial instruments constituted under the law of the host Member State in respect of which the CSD intends to provide such services;(c) the currency or currencies that the CSD intends to process;(d) an assessment of the measures the CSD intends to take to allow its users to comply with the law of the host Member State referred to in Article 49(1), second subparagraph, point (a), in relation to shares.
+
+**4.** A CSD intending to set up a branch in another Member State for the first time or to change the range of the core service referred to in Section A, point 1, of the Annex, or of the core service referred to in Section A, point 2, of the Annex, provided through a branch, shall communicate the following information to the competent authority of the home Member State:(a) the information referred to in paragraph 3, points (a), (b) and (c);(b) the organisational structure of the branch and the names of the persons responsible for the management of the branch;(c) an assessment of the measures that the CSD intends to take to allow its users to comply with the law of the host Member State referred to in Article 49(1), second subparagraph, point (a), in relation to shares.
+
+**5.** The competent authority of the home Member State shall communicate the assessment referred to in paragraph 3, point (d), or in paragraph 4, point (c), as applicable, to the competent authority of the host Member State without undue delay. The competent authority of the host Member State may provide a non-binding opinion on that assessment to the competent authority of the home Member State within one month of receipt of that assessment.
+
+**6.** Within two months of receipt of the complete information referred to in paragraph 3, points (a), (b) and (c), or paragraph 4, points (a) and (b), as applicable, the competent authority of the home Member State shall communicate that information to the competent authority of the host Member State unless, by taking into account the provision of services envisaged, it has reasons to doubt the adequacy of the administrative structure or the financial situation of the CSD intending to provide services in the host Member State or the adequacy of the measures the CSD intends to take in accordance with paragraph 3, point (d), or in paragraph 4, point (c), as applicable. Within that period, where the CSD already provides services to other host Member States, including through a branch, the competent authority of the home Member State shall also inform the college referred to in Article 24a.
+
+The competent authority of the host Member State shall without delay inform the relevant authorities of that Member State of any communication received under the first subparagraph.
+
+The competent authority of the home Member State shall immediately inform the CSD of the date of transmission of the communication referred to in the first subparagraph.
+
+**7.** Where the competent authority of the home Member State decides in accordance with paragraph 6 not to communicate the information referred to in paragraph 3 or paragraph 4, as applicable, to the competent authority of the host Member State, it shall provide the reasons for its refusal to the CSD concerned within two months of receipt of that information and inform the competent authority of the host Member State and the college referred to in Article 24a of its decision.
+
+**8.** The CSD may start providing services or set up a branch as referred to in paragraph 2 at the earliest 15 calendar days after the date of transmission of the communication referred to in paragraph 6, first subparagraph, from the competent authority of the home Member State to the competent authority of the host Member State.
+
+**9.** In the event of a change to the information set out in the documents submitted in accordance with paragraph 3 or paragraph 4, as applicable, the CSD shall give written notice of the change to the competent authority of the home Member State at least one month before implementing the change. The competent authority of the host Member State and the college referred to in Article 24a shall also be informed of that change without delay by the competent authority of the home Member State.
+
+**10.** ESMA may issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to specify the scope of the assessment that the CSD is required to provide under paragraph 3, point (d), and paragraph 4, point (c), of this Article.
+
+<a id="art_24"></a>
+
+### Article 24 — Cooperation between authorities of the home Member State and of the host Member State and peer review
+
+**1.** Where a CSD authorised in one Member State has set up a branch in another Member State, the competent authority of the home Member State and the competent authority of the host Member State shall cooperate closely in the performance of their duties provided for in this Regulation, in particular when carrying out on-site inspections in that branch. The competent authority of the home Member State and of the host Member State may, in the exercise of their responsibilities, carry out on-site inspections in that branch after informing the competent authority of the host Member State or of the home Member State respectively.
+
+The competent authority of the home Member State may invite staff from the competent authorities of the host Member States and from ESMA to participate in on-site inspections.
+
+The competent authority of the home Member State shall transmit to ESMA and to the college referred to in Article 24a the findings of the on-site inspections and information on any remedial actions or penalties decided on by that competent authority.
+
+**2.** The competent authority of the home Member State or of the host Member State may require CSDs which provide services in accordance with Article 23 to report to them periodically on their activities in that host Member State, including for the purpose of collecting statistics. The competent authority of the host Member State shall, on request from the competent authority of the home Member State, provide those periodic reports to the competent authority of the home Member State.
+
+**3.** The competent authority of the home Member State of the CSD shall, upon the request of the competent authority of the host Member State and without delay, communicate the identity of the issuers established in the host Member State and of the participants holding financial instruments constituted under the law of the host Member State in the securities settlement systems operated by the CSD which provides core services as referred to in Section A, points 1 and 2, of the Annex in relation to financial instruments constituted under the law of the host Member State, and any other relevant information concerning the activities of a CSD that provides core services in the host Member State through a branch.
+
+**5.** Where the competent authority of the host Member State has clear and demonstrable grounds for believing that a CSD providing services within its territory in accordance with Article 23 is in breach of the obligations arising from the provisions of this Regulation, it shall inform the competent authority of the home Member State, ESMA and the college referred to in Article 24a of those findings.
+
+Where, despite measures taken by the competent authority of the home Member State, the CSD persists in acting in breach of the obligations arising from the provisions of this Regulation, the competent authority of the host Member State shall, after informing the competent authority of the home Member State, take all the appropriate measures needed in order to ensure compliance with the provisions of this Regulation within the territory of the host Member State. The competent authority of the host Member State shall inform ESMA and the college referred to in Article 24a of such measures without undue delay.
+
+The competent authority of the host Member State or the competent authority of the home Member State may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+**6.** Without prejudice to Article 30 of Regulation (EU) No 1095/2010, ESMA shall, after consulting the members of the ESCB, organise and conduct, at least every three years, a peer review of the supervision of CSDs which make use of the freedom to provide services in another Member State in accordance with Article 23 or to participate in an interoperable link.
+
+In the context of the peer review referred to in the first subparagraph ESMA shall, where appropriate, also request opinions or advice from the Securities and Markets Stakeholder Group referred to in Article 37 of Regulation (EU) No 1095/2010.
+
+**8.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms, templates and procedures for the cooperation referred to in paragraphs 1, 3 and 5.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_24a"></a>
+
+### Article 24a — College of supervisors
+
+**1.** The competent authority of the home Member State shall establish a college of supervisors to carry out the tasks referred to in paragraph 8 in relation to a CSD whose activities are considered of substantial importance for the functioning of securities markets and the protection of investors in at least two host Member States.
+
+**2.** The college shall be established within one month of the date when:(a) the competent authority of the home Member State determines that the activities carried out by the CSD in at least two host Member States are of substantial importance; or(b) the competent authority of the home Member State is notified by one of the entities listed in paragraph 4 that the activities carried out by the CSD in at least two host Member States are of substantial importance.
+
+**3.** The competent authority of the home Member State shall manage and chair the college.
+
+**4.** The college shall consist of:(a) ESMA;(b) the competent authority of the home Member State;(c) the relevant authorities referred to in Article 12;(d) the competent authorities of the host Member States in which the CSD’s activities are of substantial importance;(e) EBA, where the CSD has been authorised pursuant to Article 54(3).
+
+**5.** Where the activities of a CSD for which a college is established are not of substantial importance in a Member State where a subsidiary belonging to the same group of companies as the CSD, or its parent undertaking, is established or where the CSD for which a college is established is entitled to provide services in another Member State in accordance with Article 23(2), the competent authority and relevant authorities of that Member State shall be able to participate in the college upon their request.
+
+**6.** The chair shall notify the composition of the college to ESMA within one month of the college’s establishment and any change in its composition within one month of that change. ESMA and the competent authority of the home Member State shall publish on their websites without undue delay the list of the members of that college and keep that list updated.
+
+**7.** A competent authority which is not a member of the college may request from the college any information relevant for the performance of its supervisory duties.
+
+**8.** The college shall, without prejudice to the responsibilities of competent authorities under this Regulation, ensure:(a) the exchange of information, including requests for information pursuant to Articles 13, 14 and 15 and information on the review and evaluation process pursuant to Article 22;(b) efficient supervision by avoiding unnecessary duplicative supervisory actions, such as information requests;(c) agreement on the voluntary entrustment of tasks among its members;(d) the exchange of information on an authorised outsourcing or extension of activities and services under Article 19;(e) the cooperation between the authorities of the home Member State and of the host Member State pursuant to Article 24 regarding the measures referred to in Article 23(3), point (d), and any issues encountered in relation to the provision of services in other Member States;(f) the exchange of information on group structure, senior management, management body and shareholders pursuant to Article 27;(g) the exchange of information on processes or arrangements that have a significant impact on governance or risk management for the CSDs belonging to the group.
+
+**9.** The chair shall convene a meeting of the college at least annually or upon the request of a member of the college.
+
+In order to facilitate the performance of the tasks assigned to the college pursuant to paragraph 8, members of the college may add points to the agenda of a meeting.
+
+The chair may invite additional participants to the discussions of the college on an ad hoc basis on specific topics.
+
+The members of a college other than its chair may decide not to participate in a meeting of the college.
+
+**10.** Upon the request of any of its members, the college shall adopt, in accordance with paragraph 11, non-binding opinions with regard to:(a) issues identified during the review and evaluation processes pursuant to Article 22 or 60;(b) issues relating to any outsourcing or extension of activities and services under Article 19; or(c) issues relating to any potential breach of this Regulation arising from the provision of services in a host Member State as referred to in Article 24(5).
+
+**11.** The college shall adopt its non-binding opinions on the basis of a simple majority vote. The members referred to in paragraph 4, points (b), (c) and (d), shall have voting rights. Each member with a voting right shall have one vote. Members with a voting right that act in more than one capacity, including as competent authority and as relevant authority, shall have one vote for each capacity in which they act. EBA and ESMA shall not have voting rights.
+
+**12.** The functioning of the college shall be based on a written agreement between all of its members.
+
+That agreement shall determine the practical arrangements for the functioning of the college, including the modalities of communication amongst members of the college, and may determine tasks to be entrusted to them.
+
+**13.** ESMA shall develop draft regulatory technical standards specifying the criteria under which the activities of a CSD in a host Member State could be considered to be of substantial importance for the functioning of the securities markets and the protection of investors in that host Member State.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_25"></a>
+
+### Article 25 — Third countries
+
+**1.** Third-country CSDs may provide services referred to in the Annex within the territory of the Union, including through setting up a branch.
+
+**2.** Notwithstanding paragraph 1, a third-country CSD that intends to provide the core services referred to in points (1) and (2) of Section A of the Annex in relation to financial instruments constituted under the law of a Member State referred to in the second subparagraph of Article 49(1) or to set up a branch in a Member State shall be subject to the procedure referred to in paragraphs 4 to 11 of this Article.
+
+**3.** A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with Article 48.
+
+**4.** After consulting the authorities referred to in paragraph 5, ESMA may recognise a third-country CSD that has applied for recognition to provide the services referred to in paragraph 2, where the following conditions are met:(a) the Commission has adopted a decision in accordance with paragraph 9;(b) the third-country CSD is subject to effective authorisation, supervision and oversight or, if the securities settlement system is operated by a central bank, oversight, ensuring full compliance with the prudential requirements applicable in that third country;(c) cooperation arrangements between ESMA and the responsible authorities in that third country (‘responsible third-country authorities’) have been established pursuant to paragraph 10;(d) where relevant, the third-country CSD takes the necessary measures to allow its users to comply with the relevant national law of the Member State in which the third-country CSD intends to provide CSD services, including the law referred to in the second subparagraph of Article 49(1), and the adequacy of those measures has been confirmed by the competent authorities of the Member State in which the third-country CSD intends to provide CSD services;▼M3(e) the third-country CSD is established or authorised in a third country that is not identified as a high-risk third country in the delegated acts adopted pursuant to Article 9(2) of Directive (EU) 2015/849 of the European Parliament and of the Council (5).▼B
+
+**5.** When assessing whether the conditions referred to in paragraph 4 are met, ESMA shall consult:(a) the competent authorities of the Member States in which the third-country CSD intends to provide CSD services, in particular, on how the third-country CSD intends to comply with the requirement referred to in point (d) of paragraph 4;(b) the relevant authorities;(c) the responsible third-country authorities entrusted with the authorisation, supervision and oversight of CSDs.
+
+**6.** The third-country CSD referred to in paragraph 2 shall submit its application for recognition to ESMA.
+
+The applicant CSD shall provide ESMA with all information deemed to be necessary for its recognition. Within 30 working days from the receipt of the application, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a time limit by which the applicant CSD has to provide additional information.
+
+The competent authorities of the Member States in which the third-country CSD intends to provide CSD services shall assess the compliance of the third-country CSD with the law referred to in point (d) of paragraph 4 and inform ESMA with a fully reasoned decision whether the compliance is met or not within three months from the receipt of all the necessary information from ESMA.
+
+The recognition decision shall be based on the criteria laid down in paragraph 4.
+
+Within six months of submission of a complete application or of adoption of an equivalence decision by the Commission in accordance with paragraph 9, whichever is later, ESMA shall inform the applicant CSD in writing with a fully reasoned decision whether the recognition has been granted or refused.
+
+**7.** The competent authorities of the Member States in which the third-country CSD, duly recognised under paragraph 4, provides CSD services, in close cooperation with ESMA, may request the responsible third-country authorities to:(a) report periodically on the third-country CSD’s activities in those host Member States, including for the purpose of collecting statistics;(b) communicate, within an appropriate time-frame, the identity of the issuers and participants in the securities settlement systems operated by the third-country CSD which provides services in that host Member State and any other relevant information concerning the activities of that third-country CSD in the host Member State.
+
+**8.** ESMA shall, after consulting the authorities referred to in paragraph 5, review the recognition of the third-country CSD in the event of extensions by that CSD in the Union of its services under the procedure laid down in paragraphs 4, 5 and 6.
+
+ESMA shall withdraw the recognition of that CSD where the conditions laid down in paragraph 4 are no longer met, or in the circumstances referred to in Article 20.
+
+**9.** The Commission may adopt implementing acts to determine that the legal and supervisory arrangements of a third country ensure that CSDs authorised in that third country comply with legally binding requirements which are in effect equivalent to the requirements laid down in this Regulation, that those CSDs are subject to effective supervision, oversight and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CSDs authorised under third-country legal regimes. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 68(2).
+
+In making the determination referred to in the first subparagraph, the Commission may also consider whether the legal and supervisory arrangements of a third country reflect the internationally agreed CPSS-IOSCO standards, in so far as the latter do not conflict with the requirements laid down in this Regulation.
+
+**10.** In accordance with Article 33(1) of Regulation (EU) No 1095/2010, ESMA shall establish cooperation arrangements with the responsible third-country authorities whose legal and supervisory frameworks have been recognised as equivalent to this Regulation in accordance with paragraph 9. Such arrangements shall specify at least:(a) the mechanism for the exchange of information between ESMA, the competent authorities of the host Member State and the third-country responsible authorities, including access to all information regarding the CSDs authorised in third countries that is requested by ESMA and in particular access to information in the cases referred to in paragraph 7;(b) the mechanism for prompt notification of ESMA where a third-country responsible authority deems a CSD that it is supervising to infringe the conditions of its authorisation or of other applicable law;(c) the procedures concerning the coordination of supervisory activities including, where appropriate, on-site inspections.
+
+Where a cooperation agreement provides for transfers of personal data by a Member State, such transfers shall comply with the provisions of Directive 95/46/EC and where a cooperation agreement provides for transfers of personal data by ESMA, such transfers shall comply with the provisions of Regulation (EU) No 45/2001.
+
+**11.** Where a third-country CSD has been recognised, in accordance with paragraphs 4 to 8, it may provide services referred to in the Annex within the territory of the Union, including by setting up a branch.
+
+**12.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the information that the applicant CSD is to provide to ESMA in its application for recognition under paragraph 6.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**13.** ESMA shall develop draft regulatory technical standards to specify the information that the third-country CSD is to provide to ESMA in the notification referred to in paragraph 2a. Such information shall be limited to what is strictly necessary, including, where applicable and available:(a) the number of participants located in the Union to whom the third-country CSD provides or intends to provide the services referred to in paragraph 2a;(b) the number and volume of transactions in financial instruments constituted under the law of a Member State settled during the previous year;(c) the number and volume of transactions settled by Union participants during the previous year.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_26"></a>
+
+### Article 26 — General provisions
+
+**1.** A CSD shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate remuneration policies and internal control mechanisms, including sound administrative and accounting procedures.
+
+**2.** A CSD shall adopt policies and procedures which are sufficiently effective so as to ensure compliance with this Regulation, including compliance of its managers and employees with all the provisions of this Regulation.
+
+Where a CSD intends to provide banking-type ancillary services to other CSDs pursuant to Article 54(2a), first subparagraph, point (b), that CSD shall have in place clear rules and procedures addressing potential conflicts of interest and mitigating the risk of discriminatory treatment towards those other CSDs and their participants.
+
+**3.** A CSD shall maintain and operate effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest between its participants or their clients and the CSD itself, including:(a) the CSD’s managers;(b) the CSD’s employees;(c) the members of the CSD’s management body;(d) any person with direct or indirect control over the CSD;(e) any person with close links with any of the persons listed in points (a), (b) and (c); and(f) any person with close links with the CSD itself.
+
+A CSD shall maintain and implement adequate resolution procedures where possible conflicts of interest occur.
+
+**4.** A CSD shall make its governance arrangements and the rules governing its activity available to the public.
+
+**5.** A CSD shall have appropriate procedures for its employees to report internally potential infringements of this Regulation through a specific channel.
+
+**6.** A CSD shall be subject to regular and independent audits. The results of these audits shall be communicated to the management body and made available to the competent authority and, where appropriate taking into account potential conflicts of interest between the members of the user committee and the CSD, to the user committee.
+
+**7.** Where a CSD is part of a group of undertakings including other CSDs or credit institutions referred to in Title IV, it shall adopt detailed policies and procedures specifying how the requirements laid down in this Article apply to the group and to the different entities in the group.
+
+**8.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards specifying at the CSD level and at the group level as referred to in paragraph 7:(a) the monitoring tools for the risks of the CSDs referred to in paragraph 1;(b) the responsibilities of the key personnel in respect of the risks of the CSDs referred to in paragraph 1;(c) the potential conflicts of interest referred to in paragraph 3;(d) the audit methods referred to in paragraph 6; and(e) the circumstances in which it would be appropriate, taking into account potential conflicts of interest between the members of the user committee and the CSD, to share audit findings with the user committee in accordance with paragraph 6.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**9.** EBA shall, in close cooperation with ESMA and the members of the ESCB, develop draft regulatory technical standards to further specify the details of the rules and procedures referred to in paragraph 2, second subparagraph.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_27"></a>
+
+### Article 27 — Senior management, management body and shareholders
+
+**1.** The senior management of a CSD shall be of sufficiently good repute and experience so as to ensure the sound and prudent management of the CSD.
+
+**2.** A CSD shall have a management body of which at least one third, but no less than two, of its members are independent.
+
+For the purposes of this Article, an independent member of the management body means a member of the management body who has no business, family or other relationship that raises a conflict of interest regarding the CSD concerned or its controlling shareholders, its management or its participants, and who has had no such relationship during the five years preceding their membership of the management body.
+
+**3.** The remuneration of the independent and other non-executive members of the management body shall not be linked to the business performance of the CSD.
+
+**4.** The management body shall be composed of suitable members of sufficiently good repute with an appropriate mix of skills, experience and knowledge of the entity and of the market. The non-executive members of the management body shall decide on a target for the representation of the under-represented gender in the management body and prepare a policy on how to increase the number of the under-represented gender in order to meet that target. The target, policy and its implementation shall be made public.
+
+**5.** A CSD shall clearly determine the role and responsibilities of the management body in accordance with the relevant national law. A CSD shall make the minutes of the meetings of the management body available to the competent authority and the auditor upon request.
+
+**6.** The competent authority shall not authorise a CSD unless it has been informed of the identities of the shareholders or members, whether direct or indirect, natural or legal persons, that have qualifying holdings in the CSD and of the amounts of those holdings.
+
+**7.** The competent authority shall refuse to authorise a CSD where it is not satisfied as to the suitability of the shareholders or members that have qualifying holdings in the CSD, taking into account the need to ensure the sound and prudent management of the CSD.
+
+**8.** Where close links exist between the CSD and other natural or legal persons, the competent authority shall grant authorisation only where those links do not prevent the effective exercise of the supervisory functions of the competent authority.
+
+**9.** Where the persons referred to in paragraph 6 exercise an influence which is likely to be prejudicial to the sound and prudent management of the CSD, the competent authority shall take appropriate measures to put an end to that situation, which may include the withdrawal of the authorisation of the CSD.
+
+**10.** The competent authority shall refuse authorisation where the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the CSD has close links, or where difficulties involved in the enforcement of those laws, regulations or administrative provisions, prevent the effective exercise of the supervisory functions of the competent authority.
+
+**11.** A CSD shall, without delay:(a) provide the competent authority with information regarding the ownership of the CSD, and, in particular, the identity and scale of interests of any person having a qualifying holding in the CSD;(b) make public:(i) the information provided to the competent authority under point (a); and(ii) the transfer of ownership rights that results in a change in control of the CSD.
+
+<a id="art_27a"></a>
+
+### Article 27a — Information to competent authorities
+
+**1.** A CSD shall notify its competent authority of any changes to its management and provide the competent authority with all the information necessary to assess its compliance with Article 27(1) to (5).
+
+Where the conduct of a member of the management body is likely to be prejudicial to the sound and prudent management of the CSD, the competent authority shall take appropriate measures, which may include removing that member from the management body.
+
+**2.** Any natural or legal person or such persons acting in concert (the ‘proposed acquirer’), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a CSD or to further increase, directly or indirectly, such a qualifying holding in a CSD as a result of which the proportion of the voting rights or of the capital held would reach or exceed 10 %, 20 %, 30 % or 50 % or would lead to the CSD becoming its subsidiary (the ‘proposed acquisition’), shall first notify the competent authority of that CSD in writing thereof, indicating the size of the intended holding and relevant information, as referred to in Article 27b(4).
+
+Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CSD (the ‘proposed vendor’) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall likewise notify the competent authority where it has taken a decision to reduce a qualifying holding so that the proportion of the voting rights or of the capital held would fall below 10 %, 20 %, 30 % or 50 % or so that the CSD would cease to be that person’s subsidiary.
+
+**3.** The competent authority shall, promptly and in any event within two working days of receipt of the notification referred to in paragraph 2 and of the information referred to in paragraph 4, acknowledge receipt in writing thereof to the proposed acquirer or proposed vendor.
+
+The competent authority shall have a maximum of 60 working days after the date of the written acknowledgement of receipt of the notification and all documents required to be attached to the notification on the basis of the list referred to in Article 27b(4) (the ‘assessment period’), to carry out the assessment provided for in Article 27b(1) (the ‘assessment’).
+
+The competent authority shall inform the proposed acquirer or proposed vendor of the date of the expiry of the assessment period at the time of acknowledging the receipt.
+
+**4.** The competent authority may, during the assessment period, but no later than on the 50th working day of the assessment period, request any further information that is necessary to complete the assessment. Such a request shall be made in writing and shall specify the additional information needed.
+
+The assessment period shall be suspended for the period between the date of the request for information by the competent authority and the receipt of a response thereto by the proposed acquirer. The suspension shall not exceed 20 working days. Any further requests by the competent authority for completion or clarification of the information shall be at its discretion but shall not result in a suspension of the assessment period.
+
+**5.** The competent authority may extend the suspension referred to in paragraph 4, second subparagraph, to up to 30 working days where the proposed acquirer is situated or regulated outside the Union or is a natural or legal person not subject to supervision under this Regulation or under Regulation (EU) No 648/2012 or under Directive 2009/65/EC (6), 2009/138/EC (7) or 2011/61/EU (8) of the European Parliament and of the Council, or Directive 2013/36/EU or 2014/65/EU.
+
+**6.** Where the competent authority, upon completion of the assessment, decides to oppose the proposed acquisition, it shall, within two working days, and not exceeding the assessment period, inform the proposed acquirer in writing and provide the reasons for that decision. Subject to national law, an appropriate statement of the reasons for the decision may be made available to the public upon request of the proposed acquirer. However, a competent authority may make such disclosure also in the absence of a request by the proposed acquirer if so provided for by national law.
+
+**7.** Where the competent authority does not oppose the proposed acquisition within the assessment period, it shall be deemed to be approved.
+
+**8.** The competent authority may fix a maximum period for concluding the proposed acquisition and may extend that period where appropriate.
+
+**9.** Member States shall not impose requirements for notification to, and approval by, the competent authority of direct or indirect acquisitions of voting rights or capital that are more stringent than those set out in this Regulation.
+
+<a id="art_27b"></a>
+
+### Article 27b — Assessment
+
+**1.** When assessing the notification provided for in Article 27a(2) and the information referred to in Article 27a(4), the competent authority shall, in order to ensure the sound and prudent management of the CSD in which an acquisition is proposed and having regard to the likely influence of the proposed acquirer on the CSD, assess the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:(a) the reputation and financial soundness of the proposed acquirer;(b) the reputation, knowledge, skills and experience of any person who will direct the business of the CSD as a result of the proposed acquisition;(c) whether the CSD will be able to comply and continue to comply with this Regulation;(d) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+
+When assessing the financial soundness of the proposed acquirer, the competent authority shall pay particular attention to the type of business pursued and envisaged in the CSD in which the acquisition is proposed.
+
+When assessing the CSD’s ability to comply with this Regulation, the competent authority shall pay particular attention to whether the group of which it will become a part has a structure that makes it possible to exercise effective supervision, to effectively exchange information among the competent authorities and to determine the allocation of responsibilities among the competent authorities.
+
+**2.** The competent authorities may oppose the proposed acquisition only where there are reasonable grounds for doing so on the basis of the criteria set out in paragraph 1 or where the information provided by the proposed acquirer is incomplete.
+
+**3.** Member States shall neither impose any prior conditions in respect of the level of holding that is to be acquired nor allow their competent authorities to examine the proposed acquisition in terms of the economic needs of the market.
+
+**4.** Member States shall make available to the public a list specifying the information that is necessary to carry out the assessment and that shall be provided to the competent authorities at the time of the notification referred to in Article 27a(2). The information required shall be proportionate and shall be adapted to the nature of the proposed acquirer and the proposed acquisition. Member States shall not require information that is not relevant for a prudential assessment.
+
+**5.** Notwithstanding Article 27a(2) to (5), where two or more proposals to acquire or increase qualifying holdings in the same CSD have been notified to the competent authority, the latter shall treat the proposed acquirers in a non-discriminatory manner.
+
+**6.** The competent authorities shall, without undue delay, provide each other with any information which is essential for or relevant to the assessment. The competent authorities shall, upon request, communicate all relevant information to each other and shall communicate all essential information at their own initiative. A decision by the competent authority that has authorised the CSD in which the acquisition is proposed shall indicate any views or reservations expressed by the competent authority responsible for the proposed acquirer.
+
+**7.** ESMA shall, in close cooperation with EBA, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the assessment of suitability of any person who will direct the business of the CSD, as well as on the procedural rules and evaluation criteria for the prudential assessment of direct or indirect acquisitions of, and increases in, holdings in CSDs.
+
+<a id="art_27c"></a>
+
+### Article 27c — Derogation for CSDs providing banking-type ancillary services
+
+Articles 27a and 27b shall not apply to a CSD which has been authorised pursuant to Article 54(3) and is subject to Directive 2013/36/EU.
+
+<a id="art_28"></a>
+
+### Article 28 — User committee
+
+**1.** A CSD shall establish user committees for each securities settlement system it operates, which shall be composed of representatives of issuers and of participants in such securities settlement systems. The advice of the user committee shall be independent from any direct influence by the management of the CSD.
+
+**2.** A CSD shall define in a non-discriminatory way the mandate for each established user committee, the governance arrangements necessary to ensure its independence and its operational procedures, as well as the admission criteria and the election mechanism for user committee members. The governance arrangements shall be publicly available and shall ensure that the user committee reports directly to the management body and holds regular meetings.
+
+**3.** User committees shall advise the management body on key arrangements that impact on their members, including the criteria for accepting issuers or participants in their respective securities settlement systems and on service level. Service level includes the choice of clearing and settlement arrangement, operating structure of the CSD, scope of products settled or recorded, use of technology for the operations of the CSD and relevant procedures.
+
+**4.** User committees may submit a non-binding opinion to the management body containing detailed reasons regarding the pricing structures of the CSD.
+
+**5.** Without prejudice to the right of competent authorities to be duly informed, the members of the user committees shall be bound by confidentiality. Where the chairman of a user committee determines that a member has an actual or a potential conflict of interest in relation to a particular matter, that member shall not be allowed to vote on that matter.
+
+**6.** A CSD shall promptly inform the competent authority and the user committee of any decision in which the management body decides not to follow the advice of the user committee. The user committee may inform the competent authority of any areas in which it considers that the advice of the user committee has not been followed.
+
+<a id="art_29"></a>
+
+### Article 29 — Record keeping
+
+**1.** A CSD shall maintain, for a period of at least 10 years, all its records on the services and activities, including on the ancillary services referred to in Sections B and C of the Annex, so as to enable the competent authority to monitor the compliance with the requirements under this Regulation.
+
+**1a.** A CSD shall require issuers to obtain and transmit to the CSD a valid legal entity identifier (LEI).
+
+**2.** A CSD shall make the records referred to in paragraph 1 available upon request to the competent authority and the relevant authorities and any other public authority which under Union law or national law of its home Member State has a power to require access to such records for the purpose of fulfilling their mandate.
+
+**3.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the details of the records referred to in paragraph 1 to be retained for the purpose of monitoring the compliance of CSDs with the provisions of this Regulation.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**4.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish the format of the records referred to in paragraph 1 to be retained for the purpose of monitoring the compliance of CSDs with the provisions of this Regulation.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_30"></a>
+
+### Article 30 — Outsourcing
+
+**1.** Where a CSD outsources services or activities to a third party, it shall remain fully responsible for discharging all of its obligations under this Regulation and shall comply at all times with the following conditions:(a) outsourcing does not result in the delegation of its responsibility;(b) the relationship and obligations of the CSD towards its participants or issuers are not altered;(c) the conditions for the authorisation of the CSD do not effectively change;(d) outsourcing does not prevent the exercise of supervisory and oversight functions, including on-site access to acquire any relevant information needed to fulfil those functions;(e) outsourcing does not result in depriving the CSD of the systems and controls necessary to manage the risks it faces;(f) the CSD retains the expertise and resources necessary for evaluating the quality of the services provided, the organisational and capital adequacy of the service provider, for supervising the outsourced services effectively and for managing the risks associated with the outsourcing on an ongoing basis;(g) the CSD has direct access to the relevant information of the outsourced services;(h) the service provider cooperates with the competent authority and the relevant authorities in connection with the outsourced activities;(i) the CSD ensures that the service provider meets the standards set down by the relevant data protection law which would apply if the service providers were established in the Union. The CSD is responsible for ensuring that those standards are set out in a contract between the parties and that those standards are maintained.
+
+**2.** The CSD shall define in a written agreement its rights and obligations and those of the service provider. The outsourcing agreement shall allow the CSD to terminate the agreement.
+
+**3.** A CSD and a service provider shall make available upon request to the competent authority and the relevant authorities all information necessary to enable them to assess the compliance of the outsourced activities with the requirements of this Regulation.
+
+**4.** The outsourcing of a core service shall be subject to authorisation under Article 19 by the competent authority.
+
+**5.** Paragraphs 1 to 4 shall not apply where a CSD outsources some of its services or activities to a public entity and where that outsourcing is governed by a dedicated legal, regulatory and operational framework which has been jointly agreed and formalised by the public entity and the relevant CSD and agreed by the competent authorities on the basis of the requirements established in this Regulation.
+
+<a id="art_31"></a>
+
+### Article 31 — Services provided by parties other than CSDs
+
+**1.** Notwithstanding Article 30 and where required by national law, a person other than CSD may be responsible for recording book entries into securities accounts maintained by CSDs.
+
+**2.** Member States that allow parties other than CSDs to provide certain core services referred to in Section A of the Annex in accordance with paragraph 1 shall specify in their national law the requirements that will apply in such a case. Those requirements shall include the provisions of this Regulation which shall apply both to the CSD and, where relevant, to the other party concerned.
+
+**3.** Member States that allow parties other than CSDs to provide certain core services referred to in Section A of the Annex in accordance with paragraph 1 shall communicate to ESMA all the relevant information concerning the provision of such services, including their relevant national law.
+
+ESMA shall include such information in the CSD register referred to in Article 21.
+
+<a id="art_32"></a>
+
+### Article 32 — General provisions
+
+**1.** A CSD shall have clearly defined goals and objectives that are achievable, such as in the areas of minimum service levels, risk-management expectations and business priorities.
+
+**2.** A CSD shall have transparent rules for the handling of complaints.
+
+<a id="art_33"></a>
+
+### Article 33 — Requirements for participation
+
+**1.** For each securities settlement system it operates a CSD shall have publicly disclosed criteria for participation which allow fair and open access for all legal persons that intend to become participants. Such criteria shall be transparent, objective, and non-discriminatory so as to ensure fair and open access to the CSD with due regard to risks to financial stability and the orderliness of markets. Criteria that restrict access shall be permitted only to the extent that their objective is to justifiably control a specified risk for the CSD.
+
+**2.** A CSD shall treat requests for access promptly by providing a response to such requests within one month at the latest and shall make the procedures for treating access requests publicly available.
+
+**3.** A CSD shall deny access to a participant meeting the criteria referred to in paragraph 1 only where duly justified in writing and based on a comprehensive risk assessment.
+
+In the event of a refusal, the requesting participant has the right to complain to the competent authority of the CSD that has refused access.
+
+That competent authority shall duly examine the complaint by assessing the reasons for refusal and shall provide the requesting participant with a reasoned reply.
+
+That competent authority shall consult the competent authority of the place of establishment of the requesting participant on its assessment of the complaint. Where the authority of the requesting participant disagrees with the assessment provided, any one of the two competent authorities may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+Where the refusal by the CSD to grant access to the requesting participant is deemed to be unjustified, the competent authority of the CSD that has refused access shall issue an order requiring that CSD to grant access to the requesting participant.
+
+**4.** A CSD shall have objective and transparent procedures for the suspension and orderly exit of participants that no longer meet the criteria for participation referred to in paragraph 1.
+
+**5.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and by competent authorities when assessing the reasons for refusal in accordance with paragraph 3 and the elements of the procedure referred to in paragraph 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**6.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedure referred to in paragraph 3.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_34"></a>
+
+### Article 34 — Transparency
+
+**1.** For each securities settlement system it operates, as well as for each of the other core services it performs, a CSD shall publicly disclose the prices and fees associated with the core services listed in Section A of the Annex that they provide. It shall disclose the prices and fees of each service and function provided separately, including discounts and rebates and the conditions to benefit from those reductions. It shall allow its clients separate access to the specific services provided.
+
+**2.** A CSD shall publish its price list so as to facilitate the comparison of offers and to allow clients to anticipate the price they shall have to pay for the use of services.
+
+**3.** A CSD shall be bound by its published pricing policy for its core services.
+
+**4.** A CSD shall provide its clients with information that allows reconciling invoices with the published price lists.
+
+**5.** A CSD shall disclose to all clients information that allows them to assess the risks associated with the services provided.
+
+**6.** A CSD shall account separately for costs and revenues of the core services provided and shall disclose that information to the competent authority.
+
+**7.** A CSD shall account for the cost and revenue of the ancillary services provided as a whole and shall disclose that information to the competent authority.
+
+**8.** In order to ensure effective application of Union competition rules and enable the identification, inter alia, of cross-subsidisation of ancillary services by core services, a CSD shall maintain analytical accounting for its activities. Such analytical accounts shall at least separate the costs and revenues associated with each of its core services from those associated with ancillary services.
+
+<a id="art_35"></a>
+
+### Article 35 — Communication procedures with participants and other market infrastructures
+
+CSDs shall use in their communication procedures with participants of the securities settlement systems they operate, and with the market infrastructures they interface with international open communication procedures and standards for messaging and reference data in order to facilitate efficient recording, payment and settlement.
+
+<a id="art_36"></a>
+
+### Article 36 — General provisions
+
+For each securities settlement system it operates a CSD shall have appropriate rules and procedures, including robust accounting practices and controls, to help ensure the integrity of securities issues, and minimise and manage the risks associated with the safekeeping and settlement of transactions in securities.
+
+<a id="art_37"></a>
+
+### Article 37 — Integrity of the issue
+
+**1.** A CSD shall take appropriate reconciliation measures to verify that the number of securities making up a securities issue or part of a securities issue submitted to the CSD is equal to the sum of securities recorded on the securities accounts of the participants of the securities settlement system operated by the CSD and, where relevant, on owner accounts maintained by the CSD. Such reconciliation measures shall be conducted at least daily.
+
+**2.** Where appropriate and if other entities are involved in the reconciliation process for a certain securities issue, such as the issuer, registrars, issuance agents, transfer agents, common depositories, other CSDs or other entities, the CSD and any such entities shall organise adequate cooperation and information exchange measures with each other so that the integrity of the issue is maintained.
+
+**3.** Securities overdrafts, debit balances or securities creation shall not be allowed in a securities settlement system operated by a CSD.
+
+**4.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the reconciliation measures a CSD is to take under paragraphs 1, 2 and 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_38"></a>
+
+### Article 38 — Protection of securities of participants and those of their clients
+
+**1.** For each securities settlement system it operates, a CSD shall keep records and accounts that shall enable it, at any time and without delay, to segregate in the accounts with the CSD, the securities of a participant from those of any other participant and, if applicable, from the CSD’s own assets.
+
+**2.** A CSD shall keep records and accounts that enable any participant to segregate the securities of the participant from those of the participant’s clients.
+
+**3.** A CSD shall keep records and accounts that enable any participant to hold in one securities account the securities that belong to different clients of that participant (‘omnibus client segregation’)
+
+**4.** A CSD shall keep records and accounts that enable a participant to segregate the securities of any of the participant’s clients, if and as required by the participant (‘individual client segregation’).
+
+**5.** A participant shall offer its clients at least the choice between omnibus client segregation and individual client segregation and inform them of the costs and risks associated with each option.
+
+However, a CSD and its participants shall provide individual clients segregation for citizens and residents of, and legal persons established in, a Member State where required under the national law of the Member State under which the securities are constituted as it stands at 17 September 2014. That obligation shall apply as long as the national law is not amended or repealed and its objectives are still valid.
+
+**6.** CSDs and their participants shall publicly disclose the levels of protection and the costs associated with the different levels of segregation that they provide and shall offer those services on reasonable commercial terms. Details of the different levels of segregation shall include a description of the main legal implications of the respective levels of segregation offered, including information on the insolvency law applicable in the relevant jurisdictions.
+
+**7.** A CSD shall not use for any purpose securities that do not belong to it. A CSD may however use securities of a participant where it has obtained that participant’s prior express consent. The CSD shall require its participants to obtain any necessary prior consent from their clients.
+
+<a id="art_39"></a>
+
+### Article 39 — Settlement finality
+
+**1.** A CSD shall ensure that the securities settlement system it operates offers adequate protection to participants. Member States shall designate and notify the securities settlement systems operated by CSDs according to the procedures referred to in point (a) of Article 2 of Directive 98/26/EC.
+
+**2.** A CSD shall ensure that each securities settlement system that it operates defines the moments of entry and of irrevocability of transfer orders in that securities settlement system in accordance with Articles 3 and 5 of Directive 98/26/EC.
+
+**3.** A CSD shall disclose the rules governing the finality of transfers of securities and cash in a securities settlement system.
+
+**4.** Paragraphs 2 and 3 shall apply without prejudice to the provisions applicable to CSD links, and without prejudice to paragraph 8 of Article 48.
+
+**5.** A CSD shall take all reasonable steps to ensure that, in accordance with the rules referred to in paragraph 3, finality of transfers of securities and cash referred to in paragraph 3 is achieved either in real time or intra-day and in any case no later than by the end of the business day of the actual settlement date.
+
+**6.** Where the CSD offers the services referred to in Article 40(2), it shall ensure that the cash proceeds of securities settlements shall be available for recipients to use no later than by the end of the business day of the intended settlement date.
+
+**7.** All securities transactions against cash between direct participants in a securities settlement system operated by a CSD and settled in that securities settlement system shall be settled on a DVP basis.
+
+<a id="art_40"></a>
+
+### Article 40 — Cash settlement
+
+**1.** For transactions denominated in the currency of the country where the settlement takes place, a CSD shall settle the cash payments of its securities settlement system through accounts opened with a central bank of issue of the relevant currency where practical and available.
+
+**2.** Where it is not practical and available to settle in central bank accounts as provided in paragraph 1, a CSD may offer to settle the cash payments for all or part of its securities settlement systems through accounts opened with a credit institution, through a CSD that is authorised to provide the services listed in Section C of the Annex whether within the same group of undertakings ultimately controlled by the same parent undertaking or not, or through its own accounts. If a CSD offers to settle such cash payments through accounts opened with a credit institution, through its own accounts or the accounts of another CSD, it shall do so in accordance with the provisions of Title IV.
+
+**3.** A CSD shall ensure that any information provided to market participants about the risks and costs associated with settlement in the accounts of credit institutions or through its own accounts is clear, fair and not misleading. A CSD shall make available sufficient information to clients or potential clients to allow them to identify and evaluate the risks and costs associated with settlement in the accounts of credit institutions or through its own accounts and shall provide such information on request.
+
+<a id="art_41"></a>
+
+### Article 41 — Participant default rules and procedures
+
+**1.** For each securities settlement system it operates, a CSD shall have effective and clearly defined rules and procedures to manage the default of one or more of its participants ensuring that the CSD can take timely action to contain losses and liquidity pressures and continue to meet its obligations.
+
+**2.** A CSD shall make its default rules and relevant procedures available to the public.
+
+**3.** A CSD shall undertake with its participants and other relevant stakeholders periodic testing and review of its default procedures to ensure that they are practical and effective.
+
+**4.** In order to ensure consistent application of this Article, ESMA may, in close cooperation with the members of the ESCB, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010.
+
+<a id="art_42"></a>
+
+### Article 42 — General requirements
+
+A CSD shall adopt a sound risk-management framework for comprehensively managing legal, business, operational and other direct or indirect risks, including measures to mitigate fraud and negligence.
+
+<a id="art_43"></a>
+
+### Article 43 — Legal risks
+
+**1.** For the purpose of its authorisation and supervision, as well as for the information of its clients, a CSD shall have rules, procedures, and contracts that are clear and understandable for all the securities settlement systems that it operates and all other services that it provides.
+
+**2.** A CSD shall design its rules, procedures and contracts so that they are enforceable in all relevant jurisdictions, including in the case of the default of a participant.
+
+**3.** A CSD conducting business in different jurisdictions shall take all reasonable steps to identify and mitigate the risks arising from potential conflicts of law across jurisdictions.
+
+<a id="art_44"></a>
+
+### Article 44 — General business risk
+
+A CSD shall have robust management and control systems as well as IT tools in order to identify, monitor and manage general business risks, including losses from poor execution of business strategy, cash flows and operating expenses.
+
+<a id="art_45"></a>
+
+### Article 45 — Operational risks
+
+**1.** A CSD shall identify sources of operational risk, both internal and external, and minimise their impact through the deployment of appropriate IT tools, controls and procedures, including for all the securities settlement systems it operates.
+
+**2.** A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.
+
+**3.** For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk of disrupting operations.
+
+**4.** The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can promptly resume operations from the time of disruption. It shall include the setting-up of a second processing site with sufficient resources, capabilities and functionalities and appropriate staffing arrangements.
+
+**5.** The CSD shall plan and carry out a programme of tests of the arrangements referred to in paragraphs 1 to 4.
+
+**6.** A CSD shall identify, monitor and manage the risks that key participants in the securities settlement systems it operates, as well as service and utility providers, and other CSDs or other market infrastructures might pose to its operations. It shall, upon request, provide competent and relevant authorities with information on any such risk identified.
+
+It shall also inform the competent authority and relevant authorities without delay of any operational incidents resulting from such risks.
+
+**7.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the operational risks referred to in paragraphs 1 and 6 and the methods to test, to address or to minimise those risks, including the business continuity policies and disaster recovery plans referred to in paragraphs 3 and 4 and the methods of assessment thereof.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_46"></a>
+
+### Article 46 — Investment policy
+
+**1.** A CSD shall hold its financial assets at central banks, authorised credit institutions or authorised CSDs.
+
+**2.** A CSD shall have prompt access to its assets, where required.
+
+**3.** A CSD shall invest its financial resources only in cash or in highly liquid financial instruments with minimal market and credit risk. Those investments shall be capable of being liquidated rapidly with minimal adverse price effect.
+
+**4.** The amount of capital, including retained earnings and reserves of a CSD which are not invested in accordance with paragraph 3 shall not be taken into account for the purposes of Article 47(1).
+
+**5.** A CSD shall ensure that its overall risk exposure to any individual authorised credit institution or authorised CSD with which it holds its financial assets remains within acceptable concentration limits.
+
+**6.** ESMA shall, in close cooperation with EBA and the members of the ESCB, develop draft regulatory technical standards specifying the financial instruments that can be considered to be highly liquid with minimal market and credit risk as referred to in paragraph 3, the appropriate timeframe for access to assets referred to in paragraph 2 and the concentration limits as referred to in paragraph 5. Such draft regulatory technical standards shall, where appropriate, be aligned to the regulatory technical standards adopted in accordance with Article 47(8) of Regulation (EU) No 648/2012.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_47"></a>
+
+### Article 47 — Capital requirements
+
+**1.** Capital, together with retained earnings and reserves of a CSD, shall be proportional to the risks stemming from the activities of the CSD. It shall be at all times sufficient to:(a) ensure that the CSD is adequately protected against operational, legal, custody, investment and business risks so that the CSD can continue to provide services as a going concern;(b) ensure an orderly winding-down or restructuring of the CSD’s activities over an appropriate time span of at least six months under a range of stress scenarios.
+
+**3.** EBA shall, in close cooperation with ESMA and the members of the ESCB, develop draft regulatory technical standards specifying requirements regarding the capital, retained earnings and reserves of a CSD referred to in paragraph 1.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_47a"></a>
+
+### Article 47a — Deferred net settlement
+
+**3.** ESMA shall, in close cooperation with EBA and the members of the ESCB, develop draft regulatory technical standards to specify the details of the measuring, monitoring, management and reporting of the credit and liquidity risks by CSDs in relation to deferred net settlement.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_48"></a>
+
+### Article 48 — CSD links
+
+**1.** Before establishing a CSD link and on an ongoing basis once the CSD link is established, all CSDs concerned shall identify, assess, monitor and manage all potential sources of risk for themselves and for their participants arising from the CSD link and take appropriate measures to mitigate them.
+
+**2.** CSDs that intend to establish links shall submit an application for authorisation to the competent authority of the requesting CSD as required under point (e) of Article 19(1) or notify the competent and relevant authorities of the requesting CSD as required under Article 19(5).
+
+**3.** A link shall provide adequate protection to the linked CSDs and their participants, in particular as regards possible credits taken by CSDs and the concentration and liquidity risks as a result of the link arrangement.
+
+A link shall be supported by an appropriate contractual arrangement that sets out the respective rights and obligations of the linked CSDs and, where necessary, of the CSDs’ participants. A contractual arrangement with cross-jurisdictional implications shall provide for an unambiguous choice of law that govern each aspect of the link’s operations.
+
+**4.** In the event of a provisional transfer of securities between linked CSDs, retransfer of securities prior to the first transfer becoming final shall be prohibited.
+
+**5.** A CSD that uses an indirect link or an intermediary to operate a CSD link with another CSD shall measure, monitor, and manage the additional risks arising from the use of that indirect link or intermediary and take appropriate measures to mitigate them.
+
+**6.** Linked CSDs shall have robust reconciliation procedures to ensure that their respective records are accurate.
+
+**7.** Links between CSDs shall permit DVP settlement of transactions between participants in linked CSDs, where practical and feasible. Detailed reasons for any CSD link not allowing for DVP settlement shall be notified to the relevant and competent authorities.
+
+**8.** Interoperable securities settlement systems and CSDs, which use a common settlement infrastructure shall establish identical moments of:(a) entry of transfer orders into the system;(b) irrevocability of transfer orders.
+
+The securities settlement systems and CSDs referred to in the first subparagraph shall use equivalent rules concerning the moment of finality of transfers of securities and cash.
+
+**9.** By 18 September 2019 all interoperable links between CSDs operating in Member States shall be, where applicable, DVP-settlement supporting links.
+
+**10.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the conditions provided for in paragraph 3 under which each type of link arrangement provides for adequate protection of the linked CSDs and of their participants, in particular where a CSD intends to participate in the securities settlement system operated by another CSD, the monitoring and managing of additional risks referred to in paragraph 5 arising from the use of intermediaries, the reconciliation methods referred to in paragraph 6, the cases where DVP settlement through CSD links is practical and feasible as provided for in paragraph 7 and the methods of assessment thereof.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Powers is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_49"></a>
+
+### Article 49 — Freedom to issue in a CSD authorised in the Union
+
+**1.** An issuer shall have the right to arrange for its securities admitted to trading on regulated markets or MTFs or traded on trading venues to be recorded in any CSD established in any Member State, subject to compliance by that CSD with conditions referred to in Article 23.
+
+Without prejudice to the issuer’s right referred to in the first subparagraph, the corporate or similar law of the Member State under which the securities are constituted shall continue to apply. The corporate or similar law of the Member State under which the securities are constituted means:
+
+(a) the corporate or similar law of the Member State where the issuer is incorporated; and
+
+(b) the governing corporate or similar law of the Member State under which the securities are issued.
+
+Member States shall compile a list of key relevant provisions of their corporate or similar law, as referred to in the second subparagraph. Competent authorities shall communicate that list to ESMA by 17 January 2025. ESMA shall publish that list by 17 February 2025. Member States shall regularly, and at least every two years, update that list. They shall communicate the updated list at those regular intervals to ESMA. ESMA shall publish such updated list.
+
+The CSD may charge a reasonable commercial fee for the provision of its services to issuers on a cost-plus basis, unless otherwise agreed by both parties.
+
+**2.** Where an issuer submits a request for recording its securities in a CSD, the latter shall treat such request promptly and in a non-discriminatory manner and provide a response to the requesting issuer within three months.
+
+**3.** A CSD may refuse to provide services to an issuer. Such a refusal shall be based only on a comprehensive risk assessment or if that CSD does not provide the services referred to in point (1) of Section A of the Annex in relation to securities constituted under the corporate or similar law of the relevant Member State.
+
+**4.** Without prejudice to Directive 2005/60/EC of the European Parliament and of the Council (9) and Commission Directive 2006/70/EC (10), where a CSD refuses to provide services to an issuer, it shall provide the requesting issuer with full written reasons for its refusal.
+
+In the case of a refusal, the requesting issuer shall have the right to complain to the competent authority of the CSD that refuses to provide its services.
+
+The competent authority of that CSD shall duly examine the complaint by assessing the reasons for refusal provided by the CSD and shall provide the issuer with a reasoned reply.
+
+The competent authority of the CSD shall consult the competent authority of the place of establishment of the requesting issuer on its assessment of the complaint. Where the competent authority of the place of establishment of the requesting issuer disagrees with that assessment, any one of the two competent authorities may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+Where the refusal by the CSD to provide its services to an issuer is deemed to be unjustified, the responsible competent authority shall issue an order requiring the CSD to provide its services to the requesting issuer.
+
+**5.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and competent authorities assessing the reasons for refusal in accordance with paragraphs 3 and 4, and the elements of the procedure referred to in paragraph 4.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**6.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedure referred to in paragraph 4.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_50"></a>
+
+### Article 50 — Standard link access
+
+A CSD shall have the right to become a participant of another CSD and set up a standard link with that CSD in accordance with Article 33 and subject to the prior notification of the CSD link provided under Article 19(5).
+
+<a id="art_51"></a>
+
+### Article 51 — Customised link access
+
+**1.** Where a CSD requests another CSD to establish a customised link for having access to the latter, the receiving CSD shall reject such a request only on the basis of risk considerations. It shall not deny a request on the grounds of loss of market share.
+
+**2.** The receiving CSD may charge a reasonable commercial fee on a cost-plus basis to the requesting CSD for making customised link access available, unless otherwise agreed by both parties.
+
+<a id="art_52"></a>
+
+### Article 52 — Procedure for CSD links
+
+**1.** When a CSD submits a request for access to another CSD pursuant to Articles 50 and 51, the receiving CSD shall treat the request promptly and shall provide a response to the requesting CSD within three months. If the receiving CSD agrees to the request, the CSD link shall be implemented within a reasonable timeframe, which shall be no longer than 12 months.
+
+**2.** A CSD shall deny access to a requesting CSD only where such access would threaten the smooth and orderly functioning of the financial markets or cause systemic risk. Such a refusal shall be based only on a comprehensive risk assessment.
+
+Where a CSD refuses access, it shall provide the requesting CSD with full reasons for its refusal.
+
+In the case of a refusal, the requesting CSD has the right to complain to the competent authority of the CSD that has refused access.
+
+The competent authority of the receiving CSD shall duly examine the complaint by assessing the reasons for refusal and shall provide the requesting CSD with a reasoned reply.
+
+The competent authority of the receiving CSD shall consult the competent authority of the requesting CSD and the relevant authority of the requesting CSD referred to in point (a) of Article 12(1) on its assessment of the complaint. Where any of the authorities of the requesting CSD disagrees with the assessment provided, any one of the authorities may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+Where the refusal by the CSD to grant access to the requesting CSD is deemed to be unjustified, the competent authority of the receiving CSD shall issue an order requiring that CSD to grant access to the requesting CSD.
+
+**3.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and by competent authorities when assessing the reasons for refusal in accordance with paragraph 2, and the elements of the procedure referred to in paragraph 2.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**4.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedures referred to in paragraphs 1 and 2.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_53"></a>
+
+### Article 53 — Access between a CSD and another market infrastructure
+
+**1.** A CCP and a trading venue shall provide transaction feeds on a non-discriminatory and transparent basis to a CSD upon request by the CSD and may charge a reasonable commercial fee for such transaction feeds to the requesting CSD on a cost-plus basis, unless otherwise agreed by both parties.
+
+A CSD shall provide access to its securities settlement systems on a non-discriminatory and transparent basis to a CCP or a trading venue and may charge a reasonable commercial fee for such access on a cost-plus basis, unless otherwise agreed by both parties.
+
+**2.** When a party submits a request for access to another party in accordance with paragraph 1, such request shall be treated promptly and a response to the requesting party shall be provided within three months.
+
+**3.** The receiving party shall deny access only where such access would affect the smooth and orderly functioning of the financial markets or cause systemic risk. It shall not deny a request on the grounds of loss of market share.
+
+A party that refuses access shall provide the requesting party with full written reasons for such refusal based on a comprehensive risk assessment. In the case of a refusal, the requesting party has the right to complain to the competent authority of the party that has refused access.
+
+The competent authority of the receiving party and the relevant authority referred to in point (a) of Article 12(1) shall duly examine the complaint by assessing the reasons for refusal and shall provide the requesting party with a reasoned reply.
+
+The competent authority of the receiving party shall consult the competent authority of the requesting party and the relevant authority referred to in point (a) of Article 12(1) on its assessment of the complaint. Where any of the authorities of the requesting party disagrees with the assessment provided, any of them may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+Where the refusal by a party to grant access is deemed to be unjustified, the responsible competent authority shall issue an order requiring that party to grant access to its services within three months.
+
+**4.** ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and by competent authorities when assessing the reasons for refusal in accordance with paragraph 3, and the elements of the procedure referred to in paragraph 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**5.** ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedure referred to in paragraphs 2 and 3.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_54"></a>
+
+### Article 54 — Authorisation and designation to provide banking-type ancillary services
+
+**1.** A CSD shall not itself provide any banking-type ancillary services set out in Section C of the Annex unless it has obtained an additional authorisation to provide such services in accordance with this Article.
+
+**2.** A CSD that intends to settle the cash payments for all or part of its securities settlement systems through its own accounts in accordance with Article 40(2) or that otherwise intends to provide any banking-type ancillary services referred to in paragraph 1 shall be authorised under the conditions specified in paragraphs 3, 6, 7, 8 and 9a of this Article.
+
+**2a.** A CSD that intends to settle the cash payments for all or part of its securities settlement systems through accounts opened with a credit institution or with a CSD in accordance with Article 40(2) shall be authorised, under the conditions specified in paragraphs 3 to 9a of this Article, to designate for that purpose one or more:(a) credit institutions authorised in accordance with Article 8 of Directive 2013/36/EU; or(b) CSDs authorised to provide banking-type ancillary services pursuant to paragraph 3 of this Article.
+
+An authorisation to designate credit institutions or CSDs in accordance with the first subparagraph shall only be used with regard to the banking-type ancillary services referred to in Section C of the Annex for the settlement of the cash payments for all or part of the securities settlement systems of the CSD seeking to use the banking-type ancillary services, and not to carry out any other activities.
+
+The credit institutions and CSDs authorised to provide banking-type ancillary services designated in accordance with the first subparagraph shall be considered to be settlement agents.
+
+**3.** Where a CSD seeks to provide any banking-type ancillary services from within the same legal entity as the legal entity operating the securities settlement system the authorisation referred to in paragraph 2 shall be granted only where the following conditions are met:(a) the CSD is authorised as a credit institution as provided for in Article 8 of Directive 2013/36/EU;(b) the CSD meets the prudential requirements laid down in Article 59(1), (3) and (4) and the supervisory requirements laid down in Article 60;(c) the authorisation referred to in point (a) of this subparagraph is used only to provide the banking-type ancillary services referred to in Section C of the Annex and not to carry out any other activities;(d) the CSD is subject to an additional capital surcharge that reflects the risks, including credit and liquidity risks, resulting from the provision of intra-day credit, inter alia, to the participants in a securities settlement system or other users of CSD services;(e) the CSD reports at least monthly to the competent authority and annually as a part of its public disclosure as required under Part Eight of Regulation (EU) No 575/2013 on the extent and management of intra-day liquidity risk in accordance with point (j) of Article 59(4) of this Regulation;(f) the CSD has submitted to the competent authority an adequate recovery plan to ensure continuity of its critical operations, including in situations where liquidity or credit risk crystallises as a result of the provision of banking-type ancillary services.
+
+In the case of conflicting provisions laid down in this Regulation, in Regulation (EU) No 575/2013 and in Directive 2013/36/EU, the CSD referred to in point (a) of the first subparagraph shall comply with the stricter requirements on prudential supervision. The regulatory technical standards referred to in Articles 47 and 59 of this Regulation shall clarify the cases of conflicting provisions.
+
+**4.** Where all of the following conditions are met, a CSD may be authorised to designate a credit institution to provide banking-type ancillary services for the settlement of the cash payments for all or part of that CSD’s securities settlement systems pursuant to paragraph 2a, point (a):(a) the credit institution meets the prudential requirements laid down in Article 59(1), (3) and (4) and the supervisory requirements laid down in Article 60;(b) the credit institution does not itself carry out any of the core services referred to in Section A of the Annex;(c) the authorisation under Article 8 of Directive 2013/36/EU is used only to provide the banking-type ancillary services referred to in Section C of the Annex for the settlement of the cash payments for all or part of the securities settlement systems of the CSD seeking to use the banking-type ancillary services, and not to carry out any other activities;(d) the credit institution is subject to an additional capital surcharge that reflects the risks, including credit and liquidity risks, resulting from the provision of intra-day credit, inter alia, to the participants in a securities settlement system or other users of CSD services;(e) the credit institution reports at least monthly to the competent authority and discloses to the public annually as a part of its public disclosure as required under Part Eight of Regulation (EU) No 575/2013 on the extent and management of intra-day liquidity risk in accordance with Article 59(4), point (j), of this Regulation; and(f) the credit institution has submitted to the competent authority an adequate recovery plan to ensure continuity of its critical operations, including in situations where liquidity or credit risk materialises as a result of the provision of banking-type ancillary services from within a separate legal entity.
+
+**4a.** Where a CSD seeks to designate a credit institution or a CSD in accordance with paragraph 2a to settle the cash payments for all or part of its securities settlement systems, such cash payments shall not be in a currency of the country where the designating CSD is established.
+
+**5.** Paragraph 4 shall not apply to credit institutions referred to in point (b) of paragraph 2 that offer to settle the cash payments for part of the CSD’s securities settlement system, if the total value of such cash settlement through accounts opened with those credit institutions, calculated over a one-year period, is less than one per cent of the total value of all securities transactions against cash settled in the books of the CSD and does not exceed a maximum of EUR 2,5 billion per year.
+
+The competent authority shall monitor at least once per year that the threshold defined in the first subparagraph is respected and report its findings to ESMA. Where the competent authority determines that the threshold has been exceeded, it shall require the CSD concerned to seek authorisation in accordance with paragraph 4. The CSD concerned shall submit its application for authorisation within six months.
+
+**6.** The competent authority may require a CSD to designate more than one credit institution, or to designate a credit institution in addition to providing services itself in accordance with point (a) of paragraph 2 of this Article where it considers that the exposure of one credit institution to the concentration of risks under Article 59(3) and (4) is not sufficiently mitigated. The designated credit institutions shall be considered to be settlement agents.
+
+**7.** A CSD authorised to provide any banking-type ancillary services and a credit institution designated in accordance with point (b) of paragraph 2 shall comply at all times with the conditions necessary for authorisation under this Regulation and shall, without delay, notify the competent authorities of any substantive changes affecting the conditions for authorisation.
+
+**8.** EBA shall, in close cooperation with ESMA and the members of the ESCB, develop draft regulatory technical standards to determine the additional risk-based capital surcharge referred to in paragraph 3, point (d), and paragraph 4, point (d).
+
+EBA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**9.** EBA shall, in close cooperation with the members of the ESCB and ESMA, develop draft regulatory technical standards to determine the threshold referred to in paragraph 5 and accompanying appropriate risk management and prudential requirements to mitigate risks in relation to the designation of credit institutions in accordance with paragraph 2a. When developing those standards, EBA shall take into account the following:(a) the implications for the market stability that could derive from a change of risk profile of CSDs and their participants, including the systemic importance of CSDs for the functioning of securities markets;(b) the implications for the credit and liquidity risks for CSDs, for the designated credit institutions involved and for the CSD participants that result from the settlement of cash payments through accounts opened with credit institutions that are not subject to paragraph 4;(c) the possibility for CSDs to settle cash payments in several currencies;(d) the need to avoid both an unintended shift from settlement in central bank money to settlement in commercial bank money and disincentives to the efforts of CSDs to settle in central bank money; and(e) the need to ensure a level playing field amongst CSDs in the Union.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_55"></a>
+
+### Article 55 — Procedure for granting and refusing authorisation to provide banking-type ancillary services
+
+**1.** The CSD shall submit its application for authorisation to designate a credit institution or a CSD authorised to provide banking-type ancillary services or to provide itself any banking-type ancillary services, as required under Article 54, to the competent authority of its home Member State.
+
+**2.** The application shall contain all the information that is necessary to enable the competent authority to satisfy itself that the CSD and, where applicable, the designated credit institution or CSD authorised to provide banking-type ancillary services have established, at the time of the authorisation, all the necessary arrangements to meet their obligations as laid down in this Regulation. It shall contain a programme of operations setting out the banking-type ancillary services envisaged, the structural organisation of the relations between the CSD and, where applicable, the designated credit institution or CSD authorised to provide banking-type ancillary services and how that CSD and, where applicable, the designated credit institution or CSD authorised to provide banking-type ancillary services intend to meet the prudential requirements laid down in Article 59(1), (3), (4) and (4a) and the other conditions laid down in Article 54.
+
+**3.** The competent authority shall apply the procedure under Article 17(3) and (8).
+
+**4.** From the moment when the application is considered to be complete, the competent authority shall transmit all information included in the application to the following authorities:(a) the relevant authorities;(b) the competent authority referred to in point (40) of Article 4(1) of Regulation (EU) No 575/2013;(c) the competent authorities in the Member States where the CSD has established interoperable links with another CSD except where the CSD has established interoperable links referred to in Article 19(5);(d) the competent authorities in the host Member State where the activities of the CSD are of substantial importance for the functioning of the securities markets and the protection of investors within the meaning of Article 24(4);(e) the competent authorities responsible for the supervision of the participants of the CSD that are established in the three Member States with the largest settlement values in the CSD’s securities settlement system on an aggregate basis over a one-year period;(f) ESMA; and(g) EBA.
+
+**5.** The authorities referred to in paragraph 4, points (a) to (e), shall issue a reasoned opinion on the authorisation within two months of receipt of the information referred to in that paragraph. Where an authority does not provide an opinion within that deadline, it shall be deemed to have issued a positive opinion.
+
+Where an authority referred to in paragraph 4, points (a) to (e), issues a negative reasoned opinion, the competent authority intending to grant the authorisation shall, within one month of receipt of that negative opinion, provide the authorities referred to in paragraph 4, points (a) to (e), with the reasons addressing the negative opinion.
+
+Where, within one month of those reasons being presented, any of the authorities referred to in paragraph 4, points (a) to (e), issues a negative opinion and the competent authority nevertheless intends to grant the authorisation, any of the authorities that issued a negative opinion may refer the matter to ESMA for assistance under Article 31(2), point (c), of Regulation (EU) No 1095/2010.
+
+Where 30 days after referral to ESMA the issue is not settled, the competent authority wishing to grant the authorisation shall take the final decision and provide a detailed explanation of its decision in writing to the authorities referred to in points (a) to (e) of paragraph 4.
+
+Where the competent authority wishes to refuse authorisation, the matter shall not be referred to ESMA.
+
+Negative opinions shall state in writing the full and detailed reasons why the requirements laid down in this Regulation or other parts of Union law are not met.
+
+The competent authority shall, without undue delay, inform the authorities referred to in paragraph 4, points (a) to (e), of the results of the authorisation process, including any remedial actions.
+
+**6.** Where ESMA considers that the competent authority referred to in paragraph 1 has granted an authorisation which may not be in conformity with Union law it shall act in accordance with Article 17 of Regulation (EU) No 1095/2010.
+
+**7.** ESMA shall, in close cooperation with the members of the ESCB and EBA, develop draft regulatory technical standards to specify the information that the CSD is to provide to the competent authority for the purpose of obtaining the relevant authorisations to provide the banking-type services ancillary to settlement.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**8.** ESMA shall, in close cooperation with the members of the ESCB and EBA, develop draft implementing technical standards to establish standard forms, templates and procedures for the consultation of the authorities referred to in paragraph 4 prior to granting authorisation.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_56"></a>
+
+### Article 56 — Extension of the banking-type ancillary services
+
+**1.** A CSD that intends to extend the banking-type ancillary services for which it designates a credit institution or that it provides itself in accordance with Article 54, shall submit a request for extension to the competent authority of its home Member State.
+
+**2.** The request for extension shall be subject to the procedure under Article 55.
+
+<a id="art_57"></a>
+
+### Article 57 — Withdrawal of authorisation
+
+**1.** Without prejudice to any remedial actions or measures under Title V, the competent authority of the CSD’s home Member State shall withdraw the authorisations referred to in Article 54 in any of the following circumstances:(a) where the CSD has not made use of the authorisation within 12 months, expressly renounces the authorisation or where the designated credit institution has provided no services or performed no activity for the preceding six months;(b) where the CSD has obtained the authorisation by making false statements or by any other unlawful means;(c) where the CSD or the designated credit institution is no longer in compliance with the conditions under which authorisation was granted and has not taken the remedial actions requested by the competent authority within a set time-frame;(d) where the CSD or the designated credit institution has seriously and systematically infringed the requirements laid down in this Regulation.
+
+**2.** From the moment when it becomes aware of one of the circumstances referred to in paragraph 1, the competent authority shall immediately consult the authorities referred to in Article 55(4) on the necessity of withdrawing the authorisation.
+
+**3.** ESMA, any relevant authority under point (a) of Article 12(1) and any authority referred to in Article 60(1) or, respectively, the authorities referred to in Article 55(4) may, at any time, request that the competent authority of the CSD’s home Member State examine whether the CSD and where applicable the designated credit institution is still in compliance with the conditions under which the authorisation is granted.
+
+**4.** The competent authority may limit the withdrawal to a particular service, activity, or financial instrument.
+
+**5.** A CSD and the designated credit institution shall establish, implement and maintain an adequate procedure ensuring the timely and orderly settlement and transfer of the assets of clients and participants to another settlement agent in the event of a withdrawal of authorisation referred to in paragraph 1.
+
+<a id="art_58"></a>
+
+### Article 58 — CSD register
+
+**1.** Decisions taken by competent authorities under Articles 54, 56 and 57 shall be notified to ESMA.
+
+**2.** ESMA shall introduce in the register, that it is required to make available on its dedicated website in accordance with Article 21(3), the following information:(a) the name of each CSD which was subject to a decision under Articles 54, 56 and 57;(b) the name of each designated credit institution;(c) the list of banking-type ancillary services that a designated credit institution or a CSD authorised under Article 54 is authorised to provide for the CSD’s participants.
+
+**3.** The competent authorities shall notify to ESMA those entities that provide banking-type ancillary services according to requirements of national law by 16 December 2014.
+
+<a id="art_59"></a>
+
+### Article 59 — Prudential requirements applicable to credit institutions or CSDs authorised to provide banking-type ancillary services
+
+**1.** A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall provide only the services set out in Section C of the Annex that are covered by the authorisation.
+
+**2.** A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with any present or future legislation applicable to credit institutions.
+
+**3.** A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with the following specific prudential requirements for the credit risks related to those services in respect of each securities settlement system:(a) it shall establish a robust framework to manage the corresponding credit risks;(b) it shall identify the sources of such credit risks, frequently and regularly, measure and monitor corresponding credit exposures and use appropriate risk-management tools to control those risks;(c) it shall fully cover corresponding credit exposures to individual borrowing participants using collateral and other equivalent financial resources;(d) if collateral is used to manage its corresponding credit risk, it shall accept highly liquid collateral with minimal credit and market risk; it may use other types of collateral in specific situations if an appropriate haircut is applied;(e) it shall establish and apply appropriately conservative haircuts and concentration limits on collateral values constituted to cover the credit exposures referred to in point (c), taking into account the objective of ensuring that collateral can be liquidated promptly without significant adverse price effects;(f) it shall set limits on its corresponding credit exposures;(g) it shall analyse and plan for how to address any potential residual credit exposures, and adopt rules and procedures to implement such plans;(h) it shall provide credit only to participants that have cash accounts with it;(i) it shall provide for effective reimbursement procedures of intra-day credit and discourage overnight credit through the application of sanctioning rates which act as an effective deterrent.
+
+**4.** A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with the following specific prudential requirements for the liquidity risks relating to those services in respect of each securities settlement system:(a) it shall have a robust framework and tools to measure, monitor, and manage its liquidity risks, including intra-day liquidity risks, for each currency of the security settlement system for which it acts as settlement agent;(b) it shall measure and monitor on an ongoing and timely basis, and at least daily, its liquidity needs and the level of liquid assets it holds; in doing so, it shall determine the value of its available liquid assets taking into account appropriate haircuts on those assets;(c) it shall have sufficient liquid resources in all relevant currencies for a timely provision of settlement services under a wide range of potential stress scenarios including, but not limited to the liquidity risk generated by the default of at least one participant, including its parent undertakings and subsidiaries, to which it has the largest exposures;(d) it shall mitigate the corresponding liquidity risks with qualifying liquid resources in each currency such as cash at the central bank of issue and at other creditworthy financial institutions, committed lines of credit or similar arrangements and highly liquid collateral or investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions and it shall identify, measure and monitor its liquidity risk stemming from the various financial institutions used for the management of its liquidity risks;(e) where prearranged funding arrangements are used, it shall select only creditworthy financial institutions as liquidity providers; it shall establish and apply appropriate concentration limits for each of the corresponding liquidity providers including its parent undertaking and subsidiaries;(f) it shall determine and test the sufficiency of the corresponding resources by regular and rigorous stress testing;(g) it shall analyse and plan for how to address any unforeseen and potentially uncovered liquidity shortfalls, and adopt rules and procedures to implement such plans;(h) where practical and available, without prejudice to the eligibility rules of the central bank, it shall have access to central bank accounts and other central bank services to enhance its management of liquidity risks and Union credit institutions shall deposit the corresponding cash balances on dedicated accounts with Union central banks of issue;(i) it shall have prearranged and highly reliable arrangements to ensure that it can liquidate in a timely fashion the collateral provided to it by a defaulting client;(j) it shall report regularly to the authorities referred to in Article 60(1), and disclose to the public, as to how it measures, monitors and manages its liquidity risks, including intra-day liquidity risks.
+
+**4a.** Where a CSD intends to provide banking-type ancillary services to other CSDs pursuant to Article 54(2a), first subparagraph, point (b), the CSD shall have in place clear rules and procedures addressing any potential credit, liquidity and concentration risks resulting from the provision of those services.
+
+**5.** EBA shall, in close cooperation with ESMA and the members of the ESCB, develop draft regulatory technical standards to further specify details of the frameworks and tools for the monitoring, measuring, management, reporting and public disclosure of the credit and liquidity risks, including those which occur intra-day, referred to in paragraphs 3 and 4, as well as the rules and procedures referred to in paragraph 4a. Those draft regulatory technical standards shall, where appropriate, be aligned to the regulatory technical standards adopted in accordance with Article 46(3) of Regulation (EU) No 648/2012.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_60"></a>
+
+### Article 60 — Supervision of designated credit institutions and CSDs authorised to provide banking-type ancillary services
+
+**1.** Without prejudice to Articles 17 and 22 of this Regulation, the competent authorities referred to in point (40) of Article 4(1) of Regulation (EU) No 575/2013 are responsible for the authorisation as credit institutions and supervision as credit institutions under the conditions provided in Regulation (EU) No 575/2013 and in Directive 2013/36/EU of the designated credit institutions and CSDs authorised under this Regulation to provide banking-type ancillary services.
+
+The competent authorities referred to in the first subparagraph shall also be responsible for the supervision of designated credit institutions and CSDs referred to in that subparagraph as regards their compliance with the prudential requirements referred to in Article 59 of this Regulation.
+
+The competent authorities referred to in the first subparagraph shall regularly, and at least every two years, assess whether the designated credit institution or CSD authorised to provide banking-type ancillary services complies with Article 59 and shall inform the competent authority of the CSD which shall then inform the authorities referred to in Article 55(4) and, where applicable, the college referred to in Article 24a, of the results, including any remedial actions or penalties, of its supervision under this paragraph.
+
+**2.** ►M3 The competent authority of the CSD shall, after consulting the competent authorities referred to in paragraph 1 and the relevant authorities, review and evaluate at least every two years the following:** ◄ **(a) in the case referred to in point (b) of Article 54(2), whether all the necessary arrangements between the designated credit institutions and the CSD allow them to meet their obligations as laid down in this Regulation;(b) in the case referred to in point (a) of Article 54(2), whether the arrangements relating to the authorisation to provide banking-type ancillary services allow the CSD to meet its obligations as laid down in this Regulation.
+
+The competent authority of the CSD shall regularly, and at least every two years, inform the authorities referred to in Article 55(4) and, where applicable, the college referred to in Article 24a, of the results, including any remedial actions or penalties, of its review and evaluation under this paragraph.
+
+Where a CSD designates an authorised credit institution in accordance with Article 54, in view of the protection of the participants in the securities settlement systems it operates, a CSD shall ensure that it has access from the credit institution it designates to all necessary information for the purpose of this Regulation and it shall report any infringements thereof to the competent authority of the CSD and to competent authorities referred to in paragraph 1.
+
+**3.** In order to ensure consistent, efficient and effective supervision within the Union of credit institutions and CSDs authorised to provide banking-type ancillary services, EBA may, in close cooperation with ESMA and the members of the ESCB, issue guidelines addressed to competent authorities in accordance with Article 16 of Regulation (EU) No 1093/2010.
+
+<a id="art_61"></a>
+
+### Article 61 — Administrative sanctions and other measures
+
+**1.** Without prejudice to the right of Member States to provide for and impose criminal sanctions, Member States shall lay down rules on and ensure that their competent authorities may impose the administrative sanctions and other measures applicable in the circumstances defined in Article 63 to the persons responsible for infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. Such sanctions and other measures shall be effective, proportionate and dissuasive.
+
+Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in that subparagraph are already subject to criminal sanctions in their national law by 18 September 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
+
+By 18 September 2016, the Member States shall notify the rules referred to in the first subparagraph to the Commission and ESMA. Member States shall notify the Commission and ESMA without undue delay of any subsequent amendments thereto.
+
+**2.** The competent authorities shall be able to apply administrative sanctions and other measures, to CSDs, designated credit institutions, and, subject to the conditions laid down in national law in areas not harmonised by this Regulation, the members of their management bodies and any other persons who effectively control their business as well as to any other legal or natural person who under national law is held responsible for an infringement.
+
+**3.** In the exercise of their sanctioning powers in the circumstances defined in Article 63 competent authorities shall cooperate closely to ensure that the administrative sanctions and other measures produce the results pursued by this Regulation and coordinate their actions in order to avoid any duplication or overlap when applying administrative sanctions and other measures to cross border cases in accordance with Article 14.
+
+**4.** Where Member States have chosen, in accordance with paragraph 1 to lay down criminal sanctions for the infringements of the provisions referred to in Article 63, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for possible infringements of this Regulation and provide the same to other competent authorities and ESMA to fulfil their obligation to cooperate with each other and ESMA for the purposes of this Regulation.
+
+**5.** Competent authorities may also cooperate with competent authorities of other Member States with respect to facilitating the recovery of pecuniary sanctions.
+
+**6.** Member States shall provide ESMA annually with aggregated information regarding all sanctions and other measures imposed in accordance with paragraph 1. ESMA shall publish that information in an annual report.
+
+Where Member States have chosen, in accordance with paragraph 1, to lay down criminal sanctions for the infringements of the provisions referred to in Article 63 their competent authorities shall provide ESMA annually with anonymised and aggregated data regarding all criminal investigations undertaken and criminal penalties imposed. ESMA shall publish data on criminal sanctions imposed in an annual report.
+
+**7.** Where the competent authority has disclosed an administrative sanction or an administrative measure or a criminal sanction to the public, it shall, at the same time, report that fact to ESMA.
+
+**8.** Competent authorities shall exercise their functions and powers in accordance with their national frameworks:(a) directly;(b) in collaboration with other authorities;(c) under their responsibility by delegation to entities to which tasks have been delegated according to this Regulation; or(d) by application to the competent judicial authorities.
+
+<a id="art_62"></a>
+
+### Article 62 — Publication of decisions
+
+**1.** Member States shall ensure that the competent authorities publish on their official websites any decision imposing an administrative sanction or other measure for an infringement of this Regulation without undue delay after the person sanctioned is informed of that decision. The publication shall include at least information on the type and nature of the infringement and the identity of a natural or legal person on whom the sanction has been imposed.
+
+Where the decision to impose a sanction or other measure is subject to an appeal before the relevant judicial or other relevant authorities, competent authorities shall, without undue delay, also publish on their official websites information on the appeal status and outcome thereof. Moreover, any decision annulling a previous decision to impose a sanction or a measure shall also be published.
+
+Where the publication of the identity of the legal persons or of the personal data of the natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where publication jeopardises the stability of financial markets or an ongoing investigation, Member States shall ensure that competent authorities do one of the following:
+
+(a) delay the publication of the decision to impose the sanction or other measure until the moment when the reasons for non-publication cease to exist;
+
+(b) publish the decision to impose the sanction or other measure on an anonymous basis in a manner which is in conformity with national law, if such anonymous publication ensures effective protection of the personal data;
+
+(c) not publish the decision to impose a sanction or other measure at all in the event that the options set out in points (a) and (b) above are considered to be insufficient to ensure: (i) that the stability of financial markets would not be put in jeopardy; (ii) the proportionality of the publication of such decisions with regard to measures which are deemed to be of a minor nature.
+
+In the case of a decision to publish a sanction or other measure on an anonymous basis, the publication of the relevant data may be postponed for a reasonable period if it is envisaged that within that period the reasons for anonymous publication will cease to exist.
+
+Competent authorities shall inform ESMA of all administrative sanctions imposed but not published in accordance with point (c) of the third subparagraph including any appeal in relation thereto and the outcome thereof. Member States shall ensure that competent authorities receive information and the final judgement in relation to any criminal sanction imposed and submit it to ESMA. ESMA shall maintain a central database of sanctions communicated to it solely for the purposes of exchanging information between competent authorities. That database shall be accessible only to competent authorities and it shall be updated on the basis of the information provided by the competent authorities.
+
+**2.** Competent authorities shall ensure that any publication, in accordance with this Article, shall remain on their official website for a period of at least five years after its publication. Personal data contained in the publication shall be kept on the official website of the competent authority only for the period necessary under the applicable data protection rules.
+
+<a id="art_63"></a>
+
+### Article 63 — Sanctions for infringements
+
+**1.** This Article shall apply to the following provisions of this Regulation:(a) provision of services set out in Sections A, B and C of the Annex in infringement of Articles 16, 25 and 54;(b) obtaining the authorisations required under Articles 16 and 54 by making false statements or by any other unlawful means as provided for in point (b) of Article 20(1) and point (b) of Article 57(1);(c) failure of CSDs to hold the required capital, thus infringing Article 47(1);(d) failure of CSDs to comply with the organisational requirements, thus infringing Articles 26 to 30;(e) failure of CSDs to comply with the conduct of business rules, thus infringing Articles 32 to 35;(f) failure of CSDs to comply with the requirements for CSD services, thus infringing Articles 37 to 41;(g) failure of CSDs to comply with the prudential requirements, thus infringing Articles 43 to 47;(h) failure of CSDs to comply with the requirements for CSD links, thus infringing Article 48;(i) abusive refusals by CSDs to grant different types of access, thus infringing Articles 49 to 53;(j) failure of designated credit institutions to comply with the specific prudential requirements related to credit risks, thus infringing Article 59(3);(k) failure of designated credit institutions to comply with specific prudential requirements related to liquidity risks, thus infringing Article 59(4).
+
+**2.** Without prejudice to the supervisory powers of competent authorities, at least in the event of an infringement referred to in this Article, the competent authorities shall, in conformity with national law, have the power to impose at least the following administrative sanctions and other measures:(a) a public statement which indicates the person responsible for the infringement and the nature of the infringement in accordance with Article 62;(b) an order requiring the person responsible for the infringement to cease the conduct and to desist from a repetition of that conduct;(c) withdrawal of the authorisations granted under Article 16 or 54, in accordance with Article 20 or 57;(d) a temporary or, for repeated serious infringements, a permanent ban against any member of the institution’s management body or any other natural person, who is held responsible, from exercising management functions in the institution;(e) maximum administrative pecuniary sanctions of at least twice the amounts of the profit gained as a result of an infringement where those amounts can be determined;(f) in respect of a natural person, maximum administrative pecuniary sanctions of at least EUR 5 million or in the Member States whose currency is not the euro, the corresponding value in the national currency on the date of adoption of this Regulation;(g) in the case of a legal person, maximum administrative pecuniary sanctions of at least EUR 20 million or up to 10 % of the total annual turnover of the legal person according to the last available accounts approved by the management body; where the legal person is a parent undertaking or a subsidiary of the parent undertaking which has to prepare consolidated financial accounts according to Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income according to the relevant Accounting Directives according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
+
+**3.** Competent authorities may have other sanctioning powers in addition to those referred in paragraph 2 and may provide for higher levels of administrative pecuniary sanctions than those established in that paragraph.
+
+<a id="art_64"></a>
+
+### Article 64 — Effective application of sanctions
+
+Member States shall ensure that, when determining the type and level of administrative sanctions or other measures, the competent authorities take into account all relevant circumstances, including, where appropriate:
+
+(a) the gravity and the duration of the infringement;
+
+(b) the degree of responsibility of the person responsible for the infringement;
+
+(c) the financial strength of the person responsible for the infringement, for example as indicated by the total turnover of the responsible legal person or the annual income of the responsible natural person;
+
+(d) the importance of the profits gained, losses avoided by the person responsible for the infringement or the losses for third parties derived from the infringement, insofar as they can be determined;
+
+(e) the level of cooperation of the person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+
+(f) previous infringements by the person responsible for the infringement.
+
+<a id="art_65"></a>
+
+### Article 65 — Reporting of infringements
+
+**1.** Member States shall ensure that competent authorities establish effective mechanisms to encourage reporting of potential or actual infringements of this Regulation to competent authorities.
+
+**2.** The mechanisms referred to in paragraph 1 shall include at least:(a) specific procedures for the receipt and investigation of reports on potential or actual infringements and their follow-up, including the establishment of secure communication channels for such reports;(b) appropriate protection for employees of institutions who report potential or actual infringements committed within the institution against retaliation, discrimination or other types of unfair treatment at a minimum;(c) protection of personal data concerning both the person who reports the potential or actual infringements and the natural person who is allegedly responsible for an infringement in compliance with the principles laid down in Directive 95/46/EC;(d) protection of the identity of both the person who reports the infringements and the natural person who is allegedly responsible for an infringement, at all stages of the procedures unless such disclosure is required by national law in the context of further investigation or subsequent administrative or judicial proceedings.
+
+**3.** Member States shall require institutions to have in place appropriate procedures for their employees to report actual or potential infringements internally through a specific, independent and autonomous channel.
+
+Such a channel may also be provided through arrangements provided for by social partners. The same protection as is referred to in points (b), (c) and (d) of paragraph 2 shall apply.
+
+<a id="art_66"></a>
+
+### Article 66 — Right of appeal
+
+Member States shall ensure that decisions and measures taken in pursuance of this Regulation are properly reasoned and subject to a right of appeal before a tribunal. The right of appeal before a tribunal shall apply where no decision is taken, within six months of its submission, in respect of an application for authorisation which contains all the information required under the provisions in force.
+
+<a id="art_67"></a>
+
+### Article 67 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Article 2(2) shall be conferred on the Commission for an indeterminate period from 17 September 2014.
+
+**2a.** The power to adopt delegated acts referred to in Article 7(5), and (9) shall be conferred on the Commission for an indeterminate period from 16 January 2024.
+
+**3.** The delegation of power referred to in Article 2(2) and in Article 7(5) and (9) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**5.** A delegated act adopted pursuant to Article 2(2) and Article 7(5) and (9) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+<a id="art_68"></a>
+
+### Article 68 — Committee procedure
+
+**1.** The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC (11). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+**3.** Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+<a id="art_69"></a>
+
+### Article 69 — Transitional provisions
+
+**1.** The competent authorities shall communicate to ESMA those institutions that operate as CSDs by 16 December 2014.
+
+**2.** CSDs shall apply for all authorisations that are necessary for the purposes of this Regulation and shall notify the relevant CSD links within six months from the date of entry into force of all the regulatory technical standards adopted under Articles 17, 26, 45, 47, 48, and, where relevant, Articles 55 and 59.
+
+**3.** Within six months from the later of the date of entry into force of the regulatory technical standards adopted under Articles 12, 17, 25, 26, 45, 47, 48, and, where relevant, Articles 55 and 59 or the implementing decision referred to in Article 25(9), a third-country CSD shall apply for recognition from ESMA where it intends to provide its services on the basis of Article 25.
+
+**4.** The national rules on authorisation of CSDs shall continue to apply until the date when a decision is made under this Regulation on the authorisation of CSDs and of their activities, including CSD links, or until 17 January 2025, whichever is earlier.
+
+**4a.** The national rules on recognition of third-country CSDs shall continue to apply until the date when a decision is made under this Regulation on the recognition of the third-country CSDs and of their activities, or until 17 January 2027, whichever is earlier.
+
+A third-country CSD that provides the core services referred to in Section A, points 1 and 2, of the Annex in relation to financial instruments constituted under the law of a Member State referred to in Article 49(1), second subparagraph, pursuant to the applicable national rules on recognition of third-country CSDs shall notify ESMA thereof within two years of 16 January 2024.
+
+ESMA shall develop draft regulatory technical standards to specify the information that the third-country CSD is required to provide to ESMA in the notification referred to in the second subparagraph. Such information shall be limited to what is strictly necessary including, where applicable and available:
+
+(a) the number of participants to whom the third-country CSD provides or intends to provide the services referred to in the second subparagraph;
+
+(b) the categories of financial instruments in respect of which the third-country CSD provides such services; and
+
+(c) the total volume and value of such financial instruments.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**4b.** A third-country CSD that provided the core service referred to in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State referred to in Article 49(1) second subparagraph, before 17 January 2026 shall submit the notification referred to in Article 25(2a) by 17 January 2026.
+
+**4c.** Where a CSD has submitted a complete application for recognition in accordance with Article 25(4), (5) and (6) before 16 January 2024 but ESMA has not issued a decision in accordance with Article 25(6) by that date, the national rules on recognition of CSDs shall continue to apply until the ESMA decision is issued.
+
+**5.** CSDs operated by the entities referred to in Article 1(4) shall comply with the requirements of this Regulation at the latest within one year from the date of entry into force of the regulatory technical standards referred to in paragraph 2.
+
+**6.** The delegated act adopted pursuant to Article 7(14) as applicable before 16 January 2024 shall continue to apply until the date of application of the delegated act adopted pursuant to Article 7(5).
+
+The delegated act adopted pursuant to Article 7(15), points (a), (b) and (g), as applicable before 16 January 2024 shall continue to apply until the date of application of the delegated act adopted pursuant to Article 7(10).
+
+**7.** The competent authorities shall establish colleges pursuant to Article 24a within one month of the date of entry into force of the regulatory technical standards adopted under Article 24a(13).
+
+**8.** A CSD that, in another Member State, provided core services referred to in Section A, points 1 and 2, of the Annex or set up a branch in accordance with Article 23 as applicable before 16 January 2024 shall be subject to the procedure set out in Article 23(3) to (6) only in relation to:(a) the setting up of a new branch;(b) a change in the range of those services.
+
+<a id="art_70"></a>
+
+### Article 70 — Amendments to Directive 98/26/EC
+
+Directive 98/26/EC is amended as follows:
+
+(1) the third indent of the first subparagraph of point (a) of Article 2 is replaced by the following: — ‘— designated, without prejudice to other more stringent conditions of general application laid down by national law, as a system and notified to the European Securities and Markets Authority by the Member State whose law is applicable, after that Member State is satisfied as to the adequacy of the rules of the system.’;
+
+(2) in Article 11, the following paragraph is added: **‘3.** By 18 March 2015, Member States shall adopt and publish and communicate to the Commission measures necessary to comply with the third indent of the first subparagraph of point (a) of Article 2.’.
+
+<a id="art_71"></a>
+
+### Article 71 — Amendments to Directive 2014/65/EU
+
+Directive 2014/65/EU is amended as follows:
+
+(1) in Article 2(1), point (o) is replaced by the following: ‘(o) CSDs except as provided for in Article 73 of Regulation (EU) No 909/2014 of the European Parliament and of the Council (*1).
+
+(2) in Article 4(1), the following point is added: ‘(64) ‘central securities depository’ or ‘CSD’ means a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014.’;
+
+(3) in Section B of Annex I, point (1) is replaced by the following: ‘(1) Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services such as cash/collateral management and excluding providing and maintaining securities accounts at the top tier level (‘central maintenance service’) referred to in point (2) of Section A of the Annex to the Regulation (EU) No 909/2014.’.
+
+<a id="art_73"></a>
+
+### Article 73 — Application of Directive 2014/65/EU and Regulation (EU) No 600/2014
+
+CSDs authorised in accordance with Article 16 of this Regulation shall not require authorisation under Directive 2014/65/EU in order to provide the services explicitly listed in Sections A and B of the Annex to this Regulation.
+
+Where a CSD authorised in accordance with Article 16 of this Regulation provides one or more investment services or carries out one or more investment activities in addition to providing the services explicitly listed in Sections A and B of the Annex to this Regulation, Directive 2014/65/EU with the exception of Articles 5 to 8, Article 9(1) to (2) and (4) to (6) and Articles 10 to 13, and Regulation (EU) No 600/2014 shall apply.
+
+<a id="art_74"></a>
+
+### Article 74 — Reports
+
+**1.** ►M3 ESMA shall, in cooperation with EBA and the competent authorities and the relevant authorities, submit reports to the Commission providing assessments of trends, potential risks and vulnerabilities, and, where necessary, recommendations of preventative or remedial action in the markets for services covered by this Regulation. Those reports shall include an assessment of the following:** ◄ **▼M3(a) settlement efficiency for domestic and cross-border operations for each Member State, taking into account at least the following:(i) the number and volume of settlement fails and their evolution;(ii) impact of cash penalties on settlement fails across instruments;(iii) the duration and main drivers of settlement fails;(iv) the categories of financial instruments and markets where the highest settlement fail rates are observed;(v) an international comparison of settlement fail rates;(vi) the amount of the cash penalties referred to in Article 7;(vii) where applicable, the number and volumes of mandatory buy-ins referred to in Article 7a;(viii) any measures taken by competent authorities to address situations where a CSD’s settlement efficiency over a six-month period is significantly lower than the average settlement efficiency levels recorded in the Union market;(aa) the settlement efficiency levels in comparison to the situation in major third-country capital markets as well as in terms of instruments traded and types of transactions executed in such markets;(b) the appropriateness of cash penalties for settlement fails, in particular the need for additional flexibility in relation to those penalties for settlement fails in relation to illiquid financial instruments;(c) the number and volume of transactions that are settled outside the securities settlement systems operated by CSDs and their evolution over time, including a comparison with the number and volume of the transactions that are settled in the securities settlement systems operated by CSDs, based on the information received under Article 9 and any other relevant information, as well as the impact of that evolution on competition in the settlement market and any potential risks to financial stability from internalised settlement;▼B(d) the cross-border provision of services covered by this Regulation based on the number and types of CSD links, number of foreign participants in the securities settlement systems operated by CSDs, number and volume of transactions involving such participants, number of foreign issuers recording their securities in a CSD in accordance with Article 49 and any other relevant criteria;(e) the handling of access requests in Articles 49, 52 and 53 to identify the reasons for rejection of access requests by CSDs, CCPs and trading venues any trends in such rejections and ways in which the risks identified could be mitigated in future so as to allow for access to be granted, and any other substantive barriers to competition in post-trade financial services;(f) the handling of applications submitted in accordance with the procedures referred to in Article 23(3) to (7) and Article 25(4) to (10);(g) where applicable, the findings of the peer review process for cross-border supervision in Article 24(6) and whether the frequency of such reviews could be reduced in the future, including an indication of whether such findings indicate the need for more formal colleges of supervisors;(h) the application of civil liability rules of Member States relating to the losses attributable to CSDs;(i) the procedures and conditions under which CSDs have been authorised to designate credit institutions or themselves to provide banking-type ancillary services in accordance with Articles 54 and 55, including an assessment of the effects that such provision may have on financial stability and competition for settlement and banking-types ancillary services in the Union;(j) the application of the rules referred to in Article 38 on protection of securities of participants and those of their clients, in particular those in Article 38(5);(k) the application of the sanctions and in particular the need to further harmonise the administrative sanctions for the infringement of the requirements laid down in this Regulation;▼M3(l) the handling of notifications submitted in accordance with Article 25(2a).
+
+**2.** The reports referred to in paragraph 1 shall be submitted to the Commission as follows:(a) every two years for the reports referred to in paragraph 1, points (a), (aa), (b), (c), (i) and (l);(b) every three years for the reports referred to in paragraph 1, points (d) and (f);(c) at least every three years, and in any case within six months from a peer review exercise carried out in accordance with Article 24, for the report referred to in paragraph 1, point (g);(d) upon request from the Commission, for the reports referred to in paragraph 1, points (e), (h), (j) and (k).
+
+The reports referred to in paragraph 1 shall be communicated to the Commission by 30 April of the relevant year as determined in accordance with the periodicity set out in the first subparagraph of this paragraph.
+
+**3.** By 17 January 2025 and every two years thereafter, ESMA, in close cooperation with the members of the ESCB, shall submit a report to the European Parliament and to the Council on the assessment regarding the potential shortening of the period referred to in Article 5(2), first sentence (‘settlement cycle’). That report shall include all of the following:(a) an assessment of the appropriateness of shortening the settlement cycle and the potential impact of such shortening on CSDs, trading venues and other market participants;(b) an assessment of the costs and benefits of shortening the settlement cycle in the Union, differentiating, where appropriate, between different financial instruments and categories of transactions;(c) a detailed outline of how to move to a shorter settlement cycle, differentiating, where appropriate, between different financial instruments and categories of transactions;(d) an overview of international developments on settlement cycles and their impact on the Union’s capital markets.
+
+**4.** Upon the request of the Commission, ESMA shall provide a cost-benefit analysis of the introduction of the mandatory buy-in process. Such cost-benefit analysis shall consist of the following elements:(a) the average duration of settlement fails with respect to the financial instruments or categories of transactions in those financial instruments to which mandatory buy-ins could apply;(b) the impact of the introduction of the mandatory buy-in process on the Union market, including an assessment of the underlying causes of the settlement fails to which mandatory buy-ins could apply and an analysis of the implications of subjecting specific financial instruments and categories of transactions to mandatory buy-ins;(c) the application of a similar buy-in process in comparable third-country markets and the impact on the competitiveness of the Union market;(d) any clear impact on financial stability in the Union stemming from settlement fails;(e) any clear impact on fragmentation of the Union’s capital markets stemming from diverging settlement efficiency rates, including the reasons for such divergence and appropriate measures to limit it.
+
+**5.** EBA shall, in cooperation with the members of the ESCB and ESMA, publish an annual report on those CSDs which designate other CSDs or credit institutions for the provision of banking-type ancillary services. That report shall take into account the findings related to the monitoring of the threshold by competent authorities referred to in Article 54(5) and the credit and liquidity implications for CSDs providing banking-type ancillary services under such threshold.
+
+**6.** ESMA shall, after consulting the members of the ESCB, submit a report by 17 January 2025 to the Commission regarding the appropriateness of applying additional regulatory tools to improve settlement efficiency in the Union.
+
+That report shall cover at least the shaping of transaction sizes, the partial settlement of failing trades and the use of auto-lend/borrow programmes.
+
+Thereafter, ESMA, after consulting the members of the ESCB, shall report every three years on any potential additional tools to improve settlement efficiency in the Union. In cases where no new tools have been identified, ESMA shall inform the Commission thereof and shall not be required to provide a report.
+
+**7.** By 17 January 2026, EBA, in close cooperation with the members of the ESCB and ESMA, shall submit a report to the European Parliament and to the Council on the assessment of the residual credit loss related to residual credit exposures as referred to in Article 59(3), point (g), and ways of addressing it. That report shall be made available to the public.
+
+<a id="art_75"></a>
+
+### Article 75 — Review
+
+By 17 January 2029, the Commission shall review and prepare a general report on this Regulation. The Commission shall, in particular, assess:
+
+(a) the matters referred to in Article 74(1), points (a) to (l), establish whether there are substantive barriers to competition in relation to the services subject to this Regulation which are insufficiently addressed and consider the potential need to apply further measures to: (i) improve settlement efficiency; (ii) limit the impact on taxpayers of the failure of CSDs; (iii) address any identified competition or financial stability issues related to internalised settlement; (iv) minimise barriers to cross-border settlement; (v) ensure adequate powers and information for authorities to monitor risks;
+
+(b) the functioning of the regulatory and supervisory framework for Union CSDs, especially those CSDs whose activities are of substantial importance for the functioning of securities markets and the protection of investors in the Union in at least two host Member States, focusing in particular on the cross-border provision of services, potential risks for clients and participants of CSDs, investor protection and the financial stability in the Union;
+
+(c) the functioning and scope of the Union regulatory and supervisory framework for third-country CSDs, in particular the supervision of such CSDs when providing services in the Union, including the role of ESMA.
+
+The Commission shall submit the report to the European Parliament and to the Council, together with any appropriate proposals.
+
+<a id="art_76"></a>
+
+### Article 76 — Entry into force and application
+
+**1.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+**2.** Article 3(1) shall apply from 1 January 2023 to transferable securities issued after that date and from 1 January 2025 to all transferable securities.
+
+**3.** Article 5(2) shall apply from 1 January 2015.
+
+By way of derogation from the first subparagraph of this paragraph, in the case of a trading venue that has access to a CSD referred to in Article 30(5), Article 5(2) shall apply at least six months before such a CSD outsources its activities to the relevant public entity, and in any event from 1 January 2016.
+
+**4.** The settlement discipline measures referred to in Article 6(1) to (4) shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 6(5).
+
+**5.** ►M2 Each of the settlement discipline measures referred to in Article 7(1) to (13) shall apply from the date of application specified for each settlement discipline measure in the delegated act adopted by the Commission pursuant to Article 7(15).** ◄ **
+
+An MTF that complies with the criteria laid down in Article 33(3) of Directive 2014/65/EU shall be subject to the second subparagraph of Article 7(3) of this Regulation:
+
+(a) until the final determination of its application for registration under Article 33 of Directive 2014/65/EU; or
+
+(b) where an MTF has not applied for registration under Article 33 of Directive 2014/65/EU, until ►M1 13 June 2018** ◄ **.
+
+**6.** The reporting measures referred to in Article 9(1) shall apply from the date of entry into force of the implementing act adopted by the Commission pursuant to Article 9(3).
+
+**7.** References in this Regulation to Directive 2014/65/EU and Regulation (EU) No 600/2014 shall, before ►M1 3 January 2018** ◄ **, be read as references to Directive 2004/39/EC in accordance with the correlation table set out in Annex IV to Directive 2014/65/EU in so far as that correlation table contains provisions referring to Directive 2004/39/EC.

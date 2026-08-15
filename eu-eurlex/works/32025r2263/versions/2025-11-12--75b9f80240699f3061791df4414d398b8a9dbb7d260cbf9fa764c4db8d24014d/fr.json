@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2263:2025-11-12--75b9f80240699f3061791df4414d398b8a9dbb7d260cbf9fa764c4db8d24014d",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/2263 of 12\u00A0November 2025 amending Implementin…",
+  "valid_from": "2025-11-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2263/versions/2025-11-12--75b9f80240699f3061791df4414d398b8a9dbb7d260cbf9fa764c4db8d24014d/fr.xml",
+    "sha256": "0bd3daf4b10b0e43222dd85351833524cccbee515083fb11d02fbf8fc64993ec",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2263"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2263:2025-11-12--75b9f80240699f3061791df4414d398b8a9dbb7d260cbf9fa764c4db8d24014d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1er\n\nLe règlement d’exécution (UE) 2015/2378 est modifié comme suit:\n\n| 1) | À l’article 2, le paragraphe 5 suivant est ajouté:«5. Le format informatique à utiliser pour l’échange automatique et obligatoire d’informations au titre de l’article 8 bis quinquies, paragraphe 6, de la directive 2011/16/UE est conforme au format figurant à l’annexe XVIII du présent règlement.». |\n| --- | --- |\n\n| 2) | À l’article 2 quater, le paragraphe 2 est remplacé par le texte suivant:«2. Avant le 1er mai de chaque année, les États membres transmettent par voie électronique à la Commission l’évaluation annuelle au moyen du formulaire visé au paragraphe 1. L’évaluation couvre l’année civile qui précède.». |\n| --- | --- |\n\n| 3) | L’article 2 octies suivant est ajouté:«Article 2 octiesFormulaires types, y compris régime linguistique applicable, pour la communication d’informations relatives aux opérateurs de crypto-actifs et période de conservation des informations supprimées du registre des opérateurs de crypto-actifs1. Le formulaire à utiliser pour la communication d’informations relatives aux opérateurs de crypto-actifs destinées au registre des opérateurs de crypto-actifs conformément à l’article 8 bis quinquies, paragraphe 9, de la directive 2011/16/UE est conforme au format figurant à l’annexe XIX du présent règlement.2. Les éléments clés à enregistrer dans le registre des opérateurs de crypto-actifs, conformément à l’article 8 bis quinquies, paragraphe 9, de la directive 2011/16/UE, sont les informations énumérées à la section V, point F 2), de l’annexe VI de la directive 2011/16/UE et à l’annexe XIX du présent règlement. L’établissement du registre des opérateurs de crypto-actifs et le traitement des données à caractère personnel effectué au sein dudit registre par la Commission pour le compte des autorités compétentes des États membres sont conformes aux règlements (UE) 2016/679 et (UE) 2018/1725. Les autorités compétentes des États membres sont considérées comme des responsables du traitement et la Commission est considérée comme un sous-traitant conformément au règlement (UE) 2016/679.3. Le format du numéro d’identification individuel prévu à l’article 8 bis quinquies, paragraphe 7, est défini à l’annexe XIX du présent règlement.4. La période de conservation des informations supprimées du registre des opérateurs de crypto-actifs, conformément à la section V, point F 5) d), de l’annexe VI de la directive 2011/16/UE est fixée à l’annexe XIX du présent règlement.5. Les règles relatives au changement de l’État membre d’enregistrement unique et au transfert, vers le nouvel État membre d’enregistrement unique, d’informations concernant le prestataire de services sur crypto-actifs déclarant sont énoncées à l’annexe XIX du présent règlement.». |\n| --- | --- |\n\n| 4) | L’annexe VIII est remplacée par le texte de l’annexe I du présent règlement. |\n| --- | --- |\n\n| 5) | L’annexe X est modifiée conformément à l’annexe II du présent règlement. |\n| --- | --- |\n\n| 6) | Le texte figurant à l’annexe III du présent règlement est ajouté en tant qu’annexe XVIII. |\n| --- | --- |\n\n| 7) | Le texte figurant à l’annexe IV du présent règlement est ajouté en tant qu’annexe XIX. |\n| --- | --- |",
+      "text_sha256": "16ce218a43a46a1a9b1a72d2ef8c18bddef79c9576a1725bc952774c81bbbbe0",
+      "md_span": {
+        "start": 702,
+        "end": 3923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2263:2025-11-12--75b9f80240699f3061791df4414d398b8a9dbb7d260cbf9fa764c4db8d24014d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2026.",
+      "text_sha256": "119ee776a68f77b15e2787fa69575805ff124e4b2c115eeca122ced6dfd1a73a",
+      "md_span": {
+        "start": 3956,
+        "end": 4146
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1622:2022-05-17--bf7a758af22e7a74a1959e6ff379e3e5daa0509faa153e7efc51be64a3db9773",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/1622 of 17\u00A0May 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-05-17",
+  "valid_to": "2022-09-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1622/versions/2022-05-17--bf7a758af22e7a74a1959e6ff379e3e5daa0509faa153e7efc51be64a3db9773/en.xml",
+    "sha256": "5095760b81cb4980dfe29e511a9a2f4696c84b9be643d71cff0979fc560d09df",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1622"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1622:2022-05-17--bf7a758af22e7a74a1959e6ff379e3e5daa0509faa153e7efc51be64a3db9773#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purposes of specifying risk weights for the sensitivities to equity and equity repo rate risk factors in accordance with Article 325ap of Regulation (EU) No 575/2013, the following countries shall constitute advanced economies:\n\n| (a) | Member States of the European Union; |\n| --- | --- |\n\n| (b) | the overseas countries and territories which have special relations with Denmark, France or the Netherlands, including Faeroe Islands and those listed in Annex II to the Treaty on the Functioning of the European Union; |\n| --- | --- |\n\n| (c) | the following third countries:(i)third countries, which are parties to the Agreement on the European Economic Area;(ii)Australia;(iii)Canada;(iv)Hong Kong;(v)Japan;(vi)Mexico;(vii)New Zealand;(viii)Singapore;(ix)Switzerland;(x)the United Kingdom;(xi)the United States. |\n| --- | --- |\n| (i) | third countries, which are parties to the Agreement on the European Economic Area; |\n| (ii) | Australia; |\n| (iii) | Canada; |\n| (iv) | Hong Kong; |\n| (v) | Japan; |\n| (vi) | Mexico; |\n| (vii) | New Zealand; |\n| (viii) | Singapore; |\n| (ix) | Switzerland; |\n| (x) | the United Kingdom; |\n| (xi) | the United States. |\n\n2. For the purposes of specifying risk weights for the sensitivities to equity and equity repo rate risk factors under Article 325ap of Regulation (EU) No 575/2013, countries not listed in paragraph 1 of this Article shall constitute emerging markets.",
+      "text_sha256": "b8471f011c40ca783d5c54163dd4d0e668bf9ccf1ce82400fb2a3756906c533f",
+      "md_span": {
+        "start": 720,
+        "end": 2148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1622:2022-05-17--bf7a758af22e7a74a1959e6ff379e3e5daa0509faa153e7efc51be64a3db9773#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 2181,
+        "end": 2332
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/421 of 16\u00A0December 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-12-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0421/versions/2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74/fr.xml",
+    "sha256": "59597bce525b5382094b3a26b9d605df8fc1386c133eff5188006f38d0da3339",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0421"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les données nécessaires au classement des livres blancs sur les crypto-actifs sont prévues à l’annexe.\n\n2. Les données prévues à l’annexe sont fournies dans un format commun conforme à la norme ISO 20022.\n\n3. Par dérogation au paragraphe 2 du présent article, lorsque les données prévues à l’annexe du présent règlement sont incluses dans le livre blanc sur les crypto-actifs visé à l’article 6, 19 ou 51 du règlement (UE) 2023/1114, elles peuvent être communiquées dans le même format lisible par machine que celui dans lequel ce livre blanc sur les crypto-actifs a été élaboré conformément au règlement d’exécution (UE) 2024/2984.",
+      "text_sha256": "0999332a57b29f924e7ca7a293c423bb98286bf4a1a589250c5af9fce80b3a9a",
+      "md_span": {
+        "start": 716,
+        "end": 1368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLorsqu’elles utilisent l’identifiant d’entité juridique ISO 17442, les personnes qui rédigent un livre blanc sur les crypto-actifs visé à l’article 6, 19 ou 51 du règlement (UE) 2023/1114 veillent à ce que cet identifiant soit:\n\n| a) | valable et délivré conformément aux modalités de l’une des unités opérationnelles locales accréditées du système mondial d’identifiant d’entité juridique; |\n| --- | --- |\n\n| b) | inclus dans la base de données des identifiants internationaux pour les entités juridiques, qui est gérée par l’unité opérationnelle centrale désignée par le Comité de surveillance réglementaire. |\n| --- | --- |",
+      "text_sha256": "9734b9a194621a14d760e1895911ff24cad5e046d19d26d6012d32cd7b88409b",
+      "md_span": {
+        "start": 1401,
+        "end": 2038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Lorsque l’identifiant de jeton numérique ISO 24165 est fourni, le livre blanc sur les crypto-actifs est identifié au moyen d’un identifiant valide de type 3 relatif au groupe de crypto-actifs auquel le livre blanc se rapporte.\n\n2. Lorsque l’identifiant de jeton numérique ISO 24165 est fourni, le ou les crypto-actifs auxquels se rapporte le livre blanc sont identifiés individuellement au moyen d’un identifiant valide attribué à chacun des crypto-actifs auxquels le livre blanc se rapporte.\n\n3. Lorsque l’identifiant de jeton numérique ISO 24165 n’est pas disponible, le livre blanc sur les crypto-actifs identifie les crypto-actifs auxquels il se rapporte en utilisant un identifiant de jeton numérique approuvé par l’AEMF au niveau de l’Union, qui présente toutes les caractéristiques suivantes:\n\n| a) | unique; |\n| --- | --- |\n\n| b) | neutre; |\n| --- | --- |\n\n| c) | fiable; |\n| --- | --- |\n\n| d) | à source ouverte; |\n| --- | --- |\n\n| e) | modulable; |\n| --- | --- |\n\n| f) | accessible; |\n| --- | --- |\n\n| g) | disponible à un coût raisonnable, et |\n| --- | --- |\n\n| h) | soumis à un cadre de gouvernance approprié. |\n| --- | --- |",
+      "text_sha256": "56149ed39ce498b66f0e801f6bcf3212d84370e2f82056a58ef6ded154ee2a02",
+      "md_span": {
+        "start": 2071,
+        "end": 3222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nLe présent règlement est applicable à partir du 23 décembre 2025.",
+      "text_sha256": "5a64ccbffc8a6513cdcabc1d93b83638e66af6004fa819c0c7050e3ab346fa91",
+      "md_span": {
+        "start": 3255,
+        "end": 3463
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759",
+  "language": "fr",
+  "title": "Directive 2011/83/EU",
+  "valid_from": "2018-07-01",
+  "valid_to": "2022-05-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011l0083/versions/2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759/fr.html",
+    "sha256": "e70971efbc2da5408a0dcd0594ec986427bb14ac9107cb5ad3e6b3a5e559bb3e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02011L0083-20180701"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [
+        "CHAPITRE I",
+        "**OBJET, DÉFINITIONS ET CHAMP D’APPLICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’objectif de la présente directive est de contribuer, en atteignant un niveau élevé de protection du consommateur, au bon fonctionnement du marché intérieur en rapprochant certains aspects des dispositions législatives, réglementaires et administratives des États membres relatives aux contrats conclus entre les consommateurs et les professionnels.",
+      "text_sha256": "2a02498f70a4bda4417927a0e50a130326a6949c5461c1c697a4c939b3584730",
+      "md_span": {
+        "start": 736,
+        "end": 1086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I",
+        "**OBJET, DÉFINITIONS ET CHAMP D’APPLICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «consommateur», toute personne physique qui, dans les contrats relevant de la présente directive, agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;\n\n2) «professionnel», toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, aux fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale en ce qui concerne des contrats relevant de la présente directive;\n\n3) «bien», tout objet mobilier corporel, sauf les objets vendus sur saisie ou de quelque autre manière par autorité de justice; l’eau, le gaz et l’électricité sont considérés comme des «biens» au sens de la présente directive lorsqu’ils sont conditionnés dans un volume délimité ou en quantité déterminée;\n\n4) «bien fabriqué d’après les spécifications du consommateur», bien non préfabriqué réalisé sur la base d’un choix individuel ou d’une décision du consommateur;\n\n5) «contrat de vente», tout contrat en vertu duquel le professionnel transfère ou s’engage à transférer la propriété des biens au consommateur et le consommateur paie ou s’engage à payer le prix de ceux-ci, y compris les contrats ayant à la fois pour objet des biens et des services;\n\n6) «contrat de service», tout contrat autre qu’un contrat de vente en vertu duquel le professionnel fournit ou s’engage à fournir un service au consommateur et le consommateur paie ou s’engage à payer le prix de celui-ci;\n\n7) «contrat à distance», tout contrat conclu entre le professionnel et le consommateur, dans le cadre d’un système organisé de vente ou de prestation de service à distance, sans la présence physique simultanée du professionnel et du consommateur, par le recours exclusif à une ou plusieurs techniques de communication à distance, jusqu’au moment, et y compris au moment, où le contrat est conclu;\n\n8) «contrat hors établissement», tout contrat entre le professionnel et le consommateur:\n\na) conclu en la présence physique simultanée du professionnel et du consommateur, dans un lieu qui n’est pas l’établissement commercial du professionnel; ou\n\nb) ayant fait l’objet d’une offre du consommateur dans les mêmes circonstances, comme indiqué au point a); ou\n\nc) conclu dans l’établissement commercial du professionnel ou au moyen d’une technique de communication à distance immédiatement après que le consommateur a été sollicité personnellement et individuellement dans un lieu qui n’est pas l’établissement commercial du professionnel, en la présence physique simultanée du professionnel et du consommateur; ou\n\nd) conclu pendant une excursion organisée par le professionnel ayant pour but ou pour effet de promouvoir et de vendre des biens ou des services au consommateur;\n\n9) «établissement commercial»:\n\na) tout site commercial immeuble où le professionnel exerce son activité en permanence; ou\n\nb) tout site commercial meuble où le professionnel exerce son activité de manière habituelle;\n\n10) «support durable», tout instrument permettant au consommateur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées;\n\n11) «contenu numérique», des données produites et fournies sous forme numérique;\n\n12) «service financier», tout service ayant trait à la banque, au crédit, à l’assurance, aux pensions individuelles, aux investissements ou aux paiements;\n\n13) «enchère publique», une méthode de vente selon laquelle le professionnel propose aux consommateurs des biens ou services au moyen d’une procédure de mise en concurrence transparente dirigée par un commissaire-priseur, à laquelle les consommateurs assistent ou peuvent assister en personne, et au terme de laquelle l’adjudicataire est tenu d’acquérir ledit bien ou service;\n\n14) «garantie commerciale», tout engagement du professionnel ou d’un producteur (ci-après «garant») à l’égard du consommateur, en plus de ses obligations légales tenant à la garantie de conformité, en vue du remboursement du prix d’achat, du remplacement ou de la réparation du bien ou de la prestation de tout autre service en relation avec le bien si ce dernier ne répond pas aux spécifications ou à d’autres éléments éventuels non liés à la conformité énoncés dans la déclaration de garantie ou dans la publicité correspondante faite au moment de la conclusion du contrat ou avant celle-ci;\n\n15) «contrat accessoire», un contrat en vertu duquel le consommateur acquiert des biens ou services afférents à un contrat à distance ou à un contrat hors établissement, ces biens ou services étant fournis par le professionnel ou un tiers sur la base d’un accord conclu entre ce dernier et le professionnel.",
+      "text_sha256": "3cfa934a97064d143834aa323c23174866286ed11db70ef7715b3556be4704a0",
+      "md_span": {
+        "start": 1137,
+        "end": 6117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Champ d’application",
+      "path": [
+        "CHAPITRE I",
+        "**OBJET, DÉFINITIONS ET CHAMP D’APPLICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive s’applique, dans les conditions et dans la mesure prévues par ses dispositions, à tout contrat conclu entre un professionnel et un consommateur. Elle s’applique également aux contrats portant sur la fourniture d’eau, de gaz, d’électricité ou de chauffage urbain, y compris par des fournisseurs publics, dans la mesure où ces biens sont fournis sur une base contractuelle.\n\n2. Si l’une des dispositions de la présente directive est contraire à une disposition d’un autre acte de l’Union régissant des secteurs spécifiques, la disposition de cet autre acte de l’Union prime et s’applique à ces secteurs spécifiques.\n\n3. La présente directive ne s’applique pas aux contrats:\n\na) portant sur les services sociaux, y compris le logement social, l’aide à l’enfance et l’aide aux familles et aux personnes se trouvant de manière permanente ou temporaire dans une situation de besoin, y compris les soins de longue durée;\n\nb) portant sur les soins de santé tels que définis à l’article 3, point a), de la directive 2011/24/UE, que ces services soient ou non assurés dans le cadre d’établissements de soins;\n\nc) portant sur les jeux d’argent, qui impliquent des mises ayant une valeur monétaire dans les jeux de hasard, y compris les loteries, les jeux de casino et les transactions portant sur des paris;\n\nd) portant sur les services financiers;\n\ne) portant sur la création, l’acquisition ou le transfert de biens immobiliers ou de droits sur des biens immobiliers;\n\nf) portant sur la construction d’immeubles neufs, la transformation importante d’immeubles existants ou la location d’un logement à des fins résidentielles;\n\ng) relatifs aux forfaits tels que définis à l'article 3, point 2), de la directive (UE) 2015/2302 du Parlement européen et du Conseil (1).\n\nL'article 6, paragraphe 7, l'article 8, paragraphes 2 et 6, et les articles 19, 21 et 22 de la présente directive s'appliquent *mutatis mutandis* aux forfaits définis à l'article 3, point 2), de la directive (UE) 2015/2302 en ce qui concerne les voyageurs au sens de l'article 3, point 6), de ladite directive;\n\nh) qui relèvent du champ d’application de la directive 2008/122/CE du Parlement européen et du Conseil du 14 janvier 2009 relative à la protection des consommateurs en ce qui concerne certains aspects des contrats d’utilisation de biens à temps partagé, des contrats de produits de vacances à long terme et des contrats de revente et d’échange (2);\n\ni) qui sont établis, conformément aux droits des États membres, par un officier public tenu par la loi à l’indépendance et à l’impartialité et devant veiller, en fournissant une information juridique complète, à ce que le consommateur ne conclue le contrat qu’après mûre réflexion juridique et en toute connaissance de sa portée juridique;\n\nj) portant sur la fourniture de denrées alimentaires, de boissons ou d’autres biens ménagers de consommation courante, qui sont livrés physiquement par un professionnel lors de tournées fréquentes et régulières au domicile, au lieu de résidence ou de travail du consommateur;\n\nk) portant sur les services de transport de passagers, à l’exception de l’article 8, paragraphe 2, et des articles 19 et 22;\n\nl) conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés;\n\nm) conclus avec des opérateurs de télécommunications au moyen de téléphones publics payants aux fins de l’utilisation de ces derniers ou conclus aux fins de l’utilisation d’une connexion unique par téléphone, par internet ou par télécopie établie par le consommateur.\n\n4. Les États membres peuvent décider de ne pas appliquer la présente directive ou de ne pas maintenir ou introduire des dispositions nationales correspondantes, pour les contrats hors établissement pour lesquels le paiement à charge du consommateur n’excède pas 50 EUR. Les États membres peuvent prévoir une valeur inférieure dans leur législation nationale.\n\n5. La présente directive n’a pas d’incidence sur les dispositions générales du droit des contrats prévues au niveau national, notamment les règles relatives à la validité, à la formation et aux effets des contrats, dans la mesure ou les aspects généraux du droit des contrats ne sont pas régis par la présente directive.\n\n6. La présente directive n’empêche pas les professionnels de proposer aux consommateurs des accords contractuels allant au-delà de la protection qu’elle prévoit.",
+      "text_sha256": "82bf0098ae8dff00156b3d3a8d8501c558c03eac301befee55a51f6c6b24345c",
+      "md_span": {
+        "start": 6176,
+        "end": 10564
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32015L2302",
+          "text": "32015L2302: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Niveau d’harmonisation",
+      "path": [
+        "CHAPITRE I",
+        "**OBJET, DÉFINITIONS ET CHAMP D’APPLICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres s’abstiennent de maintenir ou d’introduire, dans leur droit national, des dispositions s’écartant de celles fixées par la présente directive, notamment des dispositions plus strictes ou plus souples visant à assurer un niveau différent de protection des consommateurs, sauf si la présente directive en dispose autrement.",
+      "text_sha256": "d5399692e2e84e4f4f30736aaf934de75ea6bae5aa8e8e07d5f9d328e98da233",
+      "md_span": {
+        "start": 10626,
+        "end": 10964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Obligations d’information concernant les contrats autres que les contrats à distance ou hors établissement",
+      "path": [
+        "CHAPITRE II",
+        "**INFORMATION DES CONSOMMATEURS CONCERNANT LES CONTRATS AUTRES QUE LES CONTRATS À DISTANCE OU HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Avant que le consommateur ne soit lié par un contrat autre qu’un contrat à distance ou hors établissement, ou par une offre du même type, le professionnel fournit au consommateur les informations suivantes, d’une manière claire et compréhensible, pour autant qu’elles ne ressortent pas du contexte:\n\na) les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;\n\nb) l’identité du professionnel, par exemple sa raison sociale, l’adresse géographique de son établissement et son numéro de téléphone;\n\nc) le prix total du bien ou du service toutes taxes comprises ou, lorsque le prix ne peut raisonnablement être calculé à l’avance du fait de la nature du bien ou du service, le mode de calcul du prix et, s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement ou, lorsque ces frais ne peuvent raisonnablement être calculés à l’avance, la mention que ces frais peuvent être exigibles;\n\nd) le cas échéant, les modalités de paiement, de livraison et d’exécution, la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter le service et les modalités prévues par le professionnel pour le traitement des réclamations;\n\ne) outre le rappel de l’existence d’une garantie légale de conformité pour les biens, l’existence d’un service après-vente et de garanties commerciales, le cas échéant, ainsi que les conditions y afférentes;\n\nf) la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;\n\ng) s’il y a lieu, les fonctionnalités du contenu numérique, y compris les mesures de protection technique applicables;\n\nh) s’il y a lieu, toute interopérabilité pertinente du contenu numérique avec certains matériels ou logiciels dont le professionnel a ou devrait raisonnablement avoir connaissance.\n\n2. Le paragraphe 1 s’applique également aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel.\n\n3. Les États membres ne sont pas tenus d’appliquer le paragraphe 1 aux contrats qui portent sur des transactions intéressant la vie quotidienne et qui sont exécutés dès leur conclusion.\n\n4. Les États membres peuvent maintenir ou adopter des exigences supplémentaires en matière d’information précontractuelle pour les contrats auxquels s’applique le présent article.",
+      "text_sha256": "409f9d53bc98a43ec325cfef3256b9fcdd7ecd3580808355c45303eadae17ac6",
+      "md_span": {
+        "start": 11246,
+        "end": 13839
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Obligations d’information concernant les contrats à distance et les contrats hors établissement",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Avant que le consommateur ne soit lié par un contrat à distance ou hors établissement ou par une offre du même type, le professionnel lui fournit, sous une forme claire et compréhensible, les informations suivantes:\n\na) les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;\n\nb) l’identité du professionnel, par exemple son nom commercial;\n\nc) l’adresse géographique où le professionnel est établi ainsi que le numéro de téléphone du professionnel, son numéro de télécopieur et son adresse électronique, lorsqu’ils sont disponibles, pour permettre au consommateur de le contacter rapidement et de communiquer avec lui efficacement et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;\n\nd) si elle diffère de l’adresse fournie conformément au point c), l’adresse géographique du siège commercial du professionnel et, s’il y a lieu, celle du professionnel pour le compte duquel il agit, à laquelle le consommateur peut adresser une éventuelle réclamation;\n\ne) le prix total des biens ou services toutes taxes comprises ou, lorsque le prix ne peut être raisonnablement calculé à l’avance du fait de la nature du bien ou du service, le mode de calcul du prix et, s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement et tous les autres frais éventuels ou, lorsque de tels frais supplémentaires ne peuvent raisonnablement être calculés à l’avance, la mention qu’ils peuvent être exigibles. Dans le cas d’un contrat à durée indéterminée ou d’un contrat assorti d’un abonnement, le prix total inclut le total des frais par période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l’avance, le mode de calcul du prix est communiqué;\n\nf) le coût de l’utilisation de la technique de communication à distance pour la conclusion du contrat, lorsque ce coût est calculé sur une base autre que le tarif de base;\n\ng) les modalités de paiement, de livraison et d’exécution, la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter les services et, le cas échéant, les modalités prévues par le professionnel pour le traitement des réclamations;\n\nh) lorsque le droit de rétractation existe, les conditions, le délai et les modalités d’exercice de ce droit conformément à l’article 11, paragraphe 1, ainsi que le modèle de formulaire de rétractation figurant à l’annexe I, point B;\n\ni) le cas échéant, le fait que le consommateur devra supporter les frais de renvoi du bien en cas de rétractation et, pour les contrats à distance, si le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste, le coût de renvoi du bien;\n\nj) au cas où le consommateur exercerait le droit de rétractation après avoir présenté une demande conformément à l’article 7, paragraphe 3, ou à l’article 8, paragraphe 8, l’information selon laquelle le consommateur est tenu de payer des frais raisonnables au professionnel conformément à l’article 14, paragraphe 3;\n\nk) lorsque le droit de rétractation n’est pas prévu conformément à l’article 16, l’information selon laquelle le consommateur ne bénéficiera pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son droit de rétractation;\n\nl) un rappel de l’existence d’une garantie légale de conformité pour les biens;\n\nm) le cas échéant, l’existence d’une assistance après-vente au consommateur, d’un service après-vente et de garanties commerciales, ainsi que les conditions y afférentes;\n\nn) l’existence de codes de conduite applicables, tels que définis à l’article 2, point f), de la directive 2005/29/CE, et comment en obtenir une copie, le cas échéant;\n\no) la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;\n\np) s’il y a lieu, la durée minimale des obligations du consommateur au titre du contrat;\n\nq) le cas échéant, l’existence d’une caution ou d’autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel, ainsi que les conditions y afférentes;\n\nr) s’il y a lieu, les fonctionnalités du contenu numérique, y compris les mesures de protection technique applicables;\n\ns) s’il y a lieu, toute interopérabilité pertinente du contenu numérique avec certains matériels ou logiciels dont le professionnel a ou devrait raisonnablement avoir connaissance;\n\nt) le cas échéant, la possibilité de recourir à une procédure extrajudiciaire de réclamation et de réparation à laquelle le professionnel est soumis et les modalités d’accès à celle-ci.\n\n2. Le paragraphe 1 s’applique également aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel.\n\n3. Dans le cas d’une enchère publique, les informations visées au paragraphe 1, points b), c) et d), peuvent être remplacées par des renseignements équivalents concernant le commissaire-priseur.\n\n4. Les informations visées au paragraphe 1, points h), i) et j), peuvent être fournies au moyen des informations standardisées sur la rétractation figurant à l’annexe I, point A. Le professionnel a respecté les obligations d’information énoncées au paragraphe 1, points h), i) et j), s’il a fourni lesdites informations au consommateur, correctement complétées.\n\n5. Les informations visées au paragraphe 1 font partie intégrante du contrat à distance ou hors établissement et ne peuvent être modifiées, à moins que les parties contractantes n’en décident autrement de manière expresse.\n\n6. Si le professionnel n’a pas respecté les obligations d’information relatives aux frais supplémentaires et aux autres frais visées au paragraphe 1, point e), ou aux frais de renvoi du bien, visées au paragraphe 1, point i), le consommateur ne supporte pas ces frais.\n\n7. Les États membres peuvent conserver ou introduire dans leur droit national des exigences linguistiques en matière d’information contractuelle, pour faire en sorte que ces informations soient aisément comprises par les consommateurs.\n\n8. Les exigences en matière d’information prévues par la présente directive complètent celles qui figurent dans la directive 2006/123/CE et dans la directive 2000/31/CE et n’empêchent pas les États membres d’imposer des exigences supplémentaires en matière d’information conformément aux directives précitées.\n\nSans préjudice du premier alinéa, si une disposition de la directive 2006/123/CE ou de la directive 2000/31/CE concernant le contenu de l’information ou ses modalités de fourniture est contraire à une disposition de la présente directive, la disposition de la présente directive prime.\n\n9. La charge de la preuve concernant le respect des obligations d’information énoncées dans le présent chapitre incombe au professionnel.",
+      "text_sha256": "cc36d0d205ca1214b64db8e132e98fa9c3488c616110ab9983a806730b00570b",
+      "md_span": {
+        "start": 14125,
+        "end": 21250
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Obligations formelles concernant les contrats hors établissement",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. S’agissant des contrats hors établissement, le professionnel fournit les informations prévues à l’article 6, paragraphe 1, au consommateur sur papier ou, moyennant accord du consommateur, sur un autre support durable. Ces informations sont lisibles et rédigées dans un langage clair et compréhensible.\n\n2. Le professionnel fournit au consommateur une copie du contrat signé ou la confirmation du contrat sur papier ou, moyennant accord du consommateur, sur un autre support durable, y compris, le cas échéant, la confirmation de l’accord exprès préalable et de la reconnaissance par le consommateur conformément à l’article 16, point m).\n\n3. Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article 9, paragraphe 2, le professionnel exige du consommateur qu’il en fasse la demande expresse sur un support durable.\n\n4. En ce qui concerne les contrats hors établissement par lesquels le consommateur a explicitement fait appel aux services du professionnel pour effectuer des travaux de réparation ou de maintenance et en vertu desquels le professionnel et le consommateur exécutent immédiatement leurs obligations contractuelles et le paiement à effectuer par le consommateur ne dépasse pas 200 EUR:\n\na) le professionnel fournit au consommateur les informations visées à l’article 6, paragraphe 1, points b) et c), et les informations sur le prix ou le mode de calcul du prix ainsi qu’une estimation du prix total, sur papier ou, moyennant accord du consommateur, sur un autre support durable; le professionnel fournit les informations visées à l’article 6, paragraphe 1, points a), h) et k), mais il peut choisir de ne pas les fournir sur papier ou sur un autre support durable, moyennant accord exprès du consommateur;\n\nb) la confirmation du contrat fournie conformément au paragraphe 2 du présent article contient les informations prévues à l’article 6, paragraphe 1.\n\nLes États membres peuvent décider de ne pas appliquer le présent paragraphe.\n\n5. Les États membres s’abstiennent d’imposer toute autre exigence de forme en matière d’information précontractuelle en ce qui concerne l’exécution des obligations d’information énoncées dans la présente directive.",
+      "text_sha256": "1379dce8ee4df51ecd8c2b06626981dcee03b27940cac9c53806be516435f327",
+      "md_span": {
+        "start": 21354,
+        "end": 23741
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Obligations formelles concernant les contrats à distance",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En ce qui concerne les contrats à distance, le professionnel fournit au consommateur les informations prévues à l’article 6, paragraphe 1, ou met ces informations à sa disposition sous une forme adaptée à la technique de communication à distance utilisée dans un langage clair et compréhensible. Dans la mesure où ces informations sont fournies sur un support durable, elles doivent être lisibles.\n\n2. Si un contrat à distance devant être conclu par voie électronique oblige le consommateur à payer, le professionnel informe le consommateur d’une manière claire et apparente, et directement avant que le consommateur ne passe sa commande, des informations prévues à l’article 6, paragraphe 1, points a), e), o) et p).\n\nLe professionnel veille à ce que le consommateur, lorsqu’il passe sa commande, reconnaît explicitement que celle-ci implique une obligation de payer. Si, pour passer une commande, il faut activer un bouton ou une fonction similaire, le bouton ou la fonction similaire porte uniquement la mention facilement lisible «commande avec obligation de paiement» ou une formule analogue, dénuée d’ambiguïté, indiquant que passer la commande oblige à payer le professionnel. Si le professionnel ne respecte pas le présent alinéa, le consommateur n’est pas lié par le contrat ou par la commande.\n\n3. Les sites de commerce en ligne indiquent clairement et lisiblement, au plus tard lors du début du processus de commande, si des restrictions de livraison s’appliquent et quels moyens de paiement sont acceptés.\n\n4. Si le contrat est conclu selon une technique de communication à distance qui impose des contraintes d’espace ou de temps pour la présentation des informations, le professionnel fournit, sur la technique en question et avant la conclusion du contrat, au minimum les informations précontractuelles concernant les principales caractéristiques des biens ou des services, l’identité du professionnel, le prix total, le droit de rétractation, la durée du contrat et, dans le cas des contrats à durée indéterminée, les modalités pour mettre fin au contrat, telles qu’énoncées à l’article 6, paragraphe 1, points a), b), e), h) et o). Le professionnel fournit au consommateur les autres informations visées à l’article 6, paragraphe 1, sous une forme adaptée conformément au paragraphe 1 du présent article.\n\n5. Sans préjudice du paragraphe 4, lorsque le professionnel contacte par téléphone le consommateur en vue de conclure un contrat à distance, il décline, au début de la conversation avec le consommateur, son identité et, le cas échéant, l’identité de la personne au nom de laquelle il effectue cet appel téléphonique et précise la nature commerciale de l’appel.\n\n6. Lorsqu’un contrat à distance est conclu par téléphone, les États membres peuvent disposer que le professionnel doit confirmer l’offre auprès du consommateur et que le consommateur n’est lié par l’offre qu’après l’avoir signée ou l’avoir acceptée par écrit. Les États membres peuvent également prévoir que de telles confirmations doivent avoir lieu sur un support durable.\n\n7. Le professionnel fournit au consommateur la confirmation du contrat conclu, sur un support durable et dans un délai raisonnable après la conclusion du contrat à distance et, au plus tard, au moment de la livraison du bien ou avant le début de l’exécution du service. Cette confirmation comprend:\n\na) toutes les informations visées à l’article 6, paragraphe 1, sauf si le professionnel a déjà fourni ces informations au consommateur sur un support durable avant la conclusion du contrat à distance; et\n\nb) le cas échéant, la confirmation de l’accord préalable exprès et la reconnaissance par le consommateur conformément à l’article 16, point m).\n\n8. Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article 9, paragraphe 2, le professionnel exige du consommateur qu’il en fasse la demande expresse.\n\n9. Le présent article s’applique sans préjudice des dispositions relatives à la conclusion de contrats et à la passation de commandes par voie électronique telles qu’elles figurent aux articles 9 et 11 de la directive 2000/31/CE.\n\n10. Les États membres s’abstiennent d’imposer toute autre exigence de forme en matière d’information précontractuelle en ce qui concerne l’exécution des obligations d’information énoncées dans la présente directive.",
+      "text_sha256": "87b6f50fd719f61d26fe632c17171ccda74d4e579555311e9967459de0c551a1",
+      "md_span": {
+        "start": 23837,
+        "end": 28371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Droit de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En dehors des cas où les exceptions prévues à l’article 16 s’appliquent, le consommateur dispose d’un délai de quatorze jours pour se rétracter d’un contrat à distance ou d’un contrat hors établissement sans avoir à motiver sa décision et sans encourir d’autres coûts que ceux prévus à l’article 13, paragraphe 2, et à l’article 14.\n\n2. Sans préjudice de l’article 10, le délai de rétractation visé au paragraphe 1 du présent article expire après une période de quatorze jours à compter:\n\na) en ce qui concerne les contrats de service, du jour de la conclusion du contrat;\n\nb) en ce qui concerne les contrats de vente, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du bien ou:\n\ni) dans le cas de biens multiples commandés par le consommateur dans une seule commande et livrés séparément, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier bien;\n\nii) dans le cas de la livraison d’un bien composé de lots ou de pièces multiples, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier lot ou de la dernière pièce;\n\niii) dans le cas des contrats portant sur la livraison régulière de biens pendant une période de temps définie, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du premier bien;\n\nc) en ce qui concerne les contrats portant sur la fourniture d’eau, de gaz et d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel, du jour de la conclusion du contrat.\n\n3. Les États membres s’abstiennent d’interdire aux parties contractantes d’exécuter leurs obligations contractuelles pendant le délai de rétractation. Cependant, dans le cas des contrats hors établissement, les États membres peuvent maintenir la législation nationale en vigueur qui interdit au professionnel de recevoir un paiement du consommateur pendant une période déterminée après la conclusion du contrat.",
+      "text_sha256": "6d29fd65d550fe215d428d6447c760d14e2e21e145d5e063ac933ddcfe1d3dd3",
+      "md_span": {
+        "start": 28432,
+        "end": 30670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Défaut d’information sur le droit de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Si le professionnel omet d’informer le consommateur de son droit de rétractation comme l’exige l’article 6, paragraphe 1, point h), le délai de rétractation expire au terme d’une période de douze mois à compter de la fin du délai de rétractation initial, déterminé conformément à l’article 9, paragraphe 2.\n\n2. Si le professionnel a communiqué au consommateur les informations prévues au paragraphe 1 du présent article dans un délai de douze mois à compter du jour visé à l’article 9, paragraphe 2, le délai de rétractation expire au terme d’une période de quatorze jours à compter du jour où le consommateur a reçu ces informations.",
+      "text_sha256": "3565ff7e94e6b3db7679cc60a11d0c8bc80734193567e480de0105ad9cb2fc2f",
+      "md_span": {
+        "start": 30761,
+        "end": 31398
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Exercice du droit de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le consommateur informe le professionnel, avant l’expiration du délai de rétractation, de sa décision de se rétracter du contrat. Pour ce faire, le consommateur peut soit:\n\na) utiliser le modèle de formulaire de rétractation figurant à l’annexe I, partie B; ou\n\nb) faire une autre déclaration dénuée d’ambiguïté exposant sa décision de se rétracter du contrat.\n\nLes États membres s’abstiennent d’imposer toute exigence de forme relative au modèle de formulaire de rétractation autre que celles visées à l’annexe I, partie B.\n\n2. Le consommateur a exercé son droit de rétractation dans le délai de rétractation visé à l’article 9, paragraphe 2, et à l’article 10 s’il adresse la communication concernant l’exercice du droit de rétractation avant l’expiration de ce délai.\n\n3. Le professionnel peut donner au consommateur, en plus des possibilités visées au paragraphe 1, la faculté de remplir et de transmettre en ligne, sur le site internet du professionnel, soit le modèle de formulaire de rétractation figurant à l’annexe I, partie B, soit une autre déclaration dénuée d’ambiguïté. Dans ces cas, le professionnel communique sans délai au consommateur un accusé de réception de la rétractation sur un support durable.\n\n4. La charge de la preuve concernant l’exercice du droit de rétractation conformément au présent article incombe au consommateur.",
+      "text_sha256": "6517d7325783f37f71aa2f3a68e38f90f8a7d0fa5b68ae5453e5482133142ebb",
+      "md_span": {
+        "start": 31473,
+        "end": 32825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Effets de la rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’exercice du droit de rétractation a pour effet d’éteindre l’obligation des parties:\n\na) d’exécuter le contrat à distance ou le contrat hors établissement; ou\n\nb) de conclure le contrat à distance ou hors établissement, dans les cas où le consommateur a fait une offre.",
+      "text_sha256": "857cb55b3dee36378e47fc97c6d1f1f2a1a2e1d04abf782b42213fce9bb1adbf",
+      "md_span": {
+        "start": 32892,
+        "end": 33162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Obligations du professionnel en cas de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le professionnel rembourse tous les paiements reçus de la part du consommateur, y compris, le cas échéant, les frais de livraison, sans retard excessif et en tout état de cause dans les quatorze jours suivant celui où il est informé de la décision du consommateur de se rétracter du contrat conformément à l’article 11.\n\nLe professionnel effectue le remboursement visé au premier alinéa en utilisant le même moyen de paiement que celui utilisé par le consommateur pour la transaction initiale, sauf accord exprès du consommateur pour un autre moyen de paiement et pour autant que le remboursement n’occasionne pas de frais pour le consommateur.\n\n2. Nonobstant le paragraphe 1, le professionnel n’est pas tenu de rembourser les frais supplémentaires si le consommateur a expressément choisi un mode de livraison autre que le mode moins coûteux de livraison standard proposé par le professionnel.\n\n3. S’agissant des contrats de vente, à moins qu’il ne propose de récupérer lui-même les biens, le professionnel peut différer le remboursement jusqu’à récupération des biens, ou jusqu’à ce que le consommateur ait fourni une preuve d’expédition des biens, la date retenue étant celle du premier de ces faits.",
+      "text_sha256": "b427973a7f7fde08764601b9d8ad51ce176d7562949f12d68f049afec35a79d5",
+      "md_span": {
+        "start": 33255,
+        "end": 34461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Obligations du consommateur en cas de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. À moins que le professionnel ne propose de récupérer lui-même ces biens, le consommateur renvoie ou rend les biens au professionnel ou à une personne habilitée par ce dernier à recevoir les biens, sans retard excessif et, en tout état de cause, au plus tard quatorze jours suivant la communication de sa décision de se rétracter du contrat au professionnel conformément à l’article 11. Ce délai est respecté si le consommateur renvoie les biens avant l’expiration du délai de quatorze jours.\n\nLe consommateur supporte uniquement les coûts directs engendrés par le renvoi des biens, sauf si le professionnel accepte de les prendre à sa charge ou s’il a omis d’informer le consommateur qu’il doit les prendre en charge.\n\nEn ce qui concerne les contrats hors établissement, lorsque les biens ont été livrés au domicile du consommateur au moment de la conclusion du contrat, le professionnel récupère les biens à ses frais s’ils ne peuvent pas être renvoyés normalement par la poste en raison de leur nature.\n\n2. La responsabilité du consommateur n’est engagée qu’à l’égard de la dépréciation des biens résultant de manipulations des biens autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces biens. Le consommateur n’est pas responsable, en tout état de cause, de la dépréciation des biens lorsque le professionnel a omis de l’informer de son droit de rétractation conformément à l’article 6, paragraphe 1, point h).\n\n3. Lorsque le consommateur exerce son droit de rétractation après avoir présenté une demande conformément à l’article 7, paragraphe 3, ou à l’article 8, paragraphe 8, il paie au professionnel un montant qui est proportionnel à ce qui a été fourni jusqu’au moment où il a informé le professionnel de l’exercice du droit de rétractation par rapport à l’ensemble des prestations prévues par le contrat. Le montant proportionnel à payer par le consommateur au professionnel est calculé sur la base du prix total convenu dans le contrat. Si le prix total est excessif, le montant approprié est calculé sur la base de la valeur marchande de ce qui a été fourni.\n\n4. Le consommateur n’est redevable d’aucun coût:\n\na) pour la prestation de services ou pour la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, en tout ou partie, pendant le délai de rétractation, lorsque:\n\ni) le professionnel a omis de fournir les informations visées à l’article 6, paragraphe 1, points h) ou j); ou\n\nii) lorsque le consommateur n’a pas expressément demandé que l’exécution commence pendant le délai de rétractation en application de l’article 7, paragraphe 3, et de l’article 8, paragraphe 8; ou\n\nb) pour la fourniture, en tout ou partie, d’un contenu numérique qui n’est pas fourni sur un support matériel, lorsque:\n\ni) le consommateur n’a pas donné son accord préalable exprès pour que l’exécution commence avant la fin du délai de quatorze jours visé à l’article 9; ou\n\nii) le consommateur n’a pas reconnu perdre son droit de rétractation en donnant son accord; ou\n\niii) le professionnel a omis de fournir une confirmation conformément à l’article 7, paragraphe 2, ou à l’article 8, paragraphe 7.\n\n5. Sauf disposition contraire de l’article 13, paragraphe 2, et du présent article, le consommateur n’encourt aucune responsabilité du fait de l’exercice du droit de rétractation.",
+      "text_sha256": "a071ccf24fe2bf84081ebebe464ad4080db42b4ba0ece6cb0aeadd5f8a8cb4f5",
+      "md_span": {
+        "start": 34553,
+        "end": 37986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Effets de l’exercice du droit de rétractation sur les contrats accessoires",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice de l’article 15 de la directive 2008/48/CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs (3), l’exercice par le consommateur de son droit de rétractation d’un contrat à distance ou d’un contrat hors établissement conformément aux articles 9 à 14 de la présente directive a pour effet de mettre automatiquement fin à tout contrat accessoire, sans frais pour le consommateur, à l’exception de ceux prévus à l’article 13, paragraphe 2, et à l’article 14 de la présente directive.\n\n2. Les États membres déterminent les modalités pour mettre fin à ces contrats.",
+      "text_sha256": "6a93852395bba134e673c3f739c8bd5773f121db4f2fe3a0126afaa77f611d33",
+      "md_span": {
+        "start": 38102,
+        "end": 38735
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Exceptions au droit de rétractation",
+      "path": [
+        "CHAPITRE III",
+        "**INFORMATION DES CONSOMMATEURS ET DROIT DE RÉTRACTATION CONCERNANT LES CONTRATS À DISTANCE ET LES CONTRATS HORS ÉTABLISSEMENT**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres ne prévoient pas le droit de rétractation énoncé aux articles 9 à 15 pour ce qui est des contrats à distance et des contrats hors établissement en ce qui concerne ce qui suit:\n\na) les contrats de service après que le service a été pleinement exécuté si l’exécution a commencé avec l’accord préalable exprès du consommateur, lequel a également reconnu qu’il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par le professionnel;\n\nb) la fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation;\n\nc) la fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés;\n\nd) la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement;\n\ne) la fourniture de biens scellés ne pouvant être renvoyés pour des raisons de protection de la santé ou d’hygiène et qui ont été descellés par le consommateur après la livraison;\n\nf) la fourniture de biens qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres articles;\n\ng) la fourniture de boissons alcoolisées dont le prix a été convenu au moment de la conclusion du contrat de vente, dont la livraison ne peut être effectuée qu’après trente jours et dont la valeur réelle dépend de fluctuations sur le marché échappant au contrôle du professionnel;\n\nh) les contrats dans lesquels le consommateur a expressément demandé au professionnel de lui rendre visite afin d’effectuer des travaux urgents d’entretien ou de réparation. Si, à l’occasion de cette visite, le professionnel fournit des services venant s’ajouter à ceux spécifiquement requis par le consommateur ou des biens autres que les pièces de rechange indispensables aux travaux d’entretien ou de réparation, le droit de rétractation s’applique à ces services ou biens supplémentaires;\n\ni) la fourniture d’enregistrements audio ou vidéo scellés ou de logiciels informatiques scellés et qui ont été descellés après livraison;\n\nj) la fourniture d’un journal, d’un périodique ou d’un magazine sauf pour les contrats d’abonnement à ces publications;\n\nk) les contrats conclus lors d’une enchère publique;\n\nl) la prestation de services d’hébergement autres qu’à des fins résidentielles, de transport de biens, de location de voitures, de restauration ou de services liés à des activités de loisirs si le contrat prévoit une date ou une période d’exécution spécifique;\n\nm) la fourniture d’un contenu numérique non fourni sur un support matériel si l’exécution a commencé avec l’accord préalable exprès du consommateur, lequel a également reconnu qu’il perdra ainsi son droit de rétractation.",
+      "text_sha256": "8d2c500f257bc0b9adf7f2c16a4567a8db70e47081cb3836748db96711302b25",
+      "md_span": {
+        "start": 38812,
+        "end": 41593
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Champ d’application",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les articles 18 et 20 s’appliquent aux contrats de vente. Ils ne s’appliquent pas aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou de contenu numérique non fourni sur un support matériel.\n\n2. Les articles 19, 21 et 22 sont applicables aux contrats de vente et de service ainsi qu’aux contrats de fourniture d’eau, de gaz, d’électricité, de chauffage urbain ou de contenu numérique.",
+      "text_sha256": "3069e9caa576f0a4bca083c5c397db46148c2a488842ac70ed7757bfab0bcf3b",
+      "md_span": {
+        "start": 41711,
+        "end": 42226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Livraison",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sauf si les parties en disposent autrement concernant le moment de la livraison, le professionnel livre les biens en en transférant la possession physique ou le contrôle au consommateur sans retard injustifié, mais au plus tard trente jours après la conclusion du contrat.\n\n2. En cas de manquement du professionnel à l’obligation de livraison du bien au moment convenu avec le consommateur ou dans les délais prévus au paragraphe 1, le consommateur lui enjoint d’effectuer la livraison dans un délai supplémentaire adapté aux circonstances. Si le professionnel n’a pas effectué la livraison dans ledit délai supplémentaire, le consommateur a le droit de mettre fin au contrat.\n\nLe premier alinéa n’est pas applicable aux contrats de vente lorsque le professionnel a refusé de livrer le bien ou lorsque la livraison dans le délai de livraison convenu est essentielle compte tenu de toutes les circonstances qui entourent la conclusion du contrat ou lorsque le consommateur informe le professionnel, avant la conclusion du contrat, que la livraison à une date précise ou au plus tard à une date déterminée est essentielle. Dans ces cas, si le professionnel n’effectue pas la livraison du bien au moment convenu avec le consommateur ou dans les délais prévus au paragraphe 1, le consommateur a le droit de mettre fin au contrat immédiatement.\n\n3. Lorsqu’il est mis fin au contrat, le professionnel rembourse, sans retard excessif, toute somme payée en application du contrat.\n\n4. Outre la possibilité de mettre fin au contrat prévue au paragraphe 2, le consommateur peut faire usage d’autres recours prévus par le droit national.",
+      "text_sha256": "776a8112b05429b20f215472b9b90e78cc6fe4ccb5c659ef9afc095d0823cacc",
+      "md_span": {
+        "start": 42277,
+        "end": 43906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Frais pour l’utilisation du moyen de paiement",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "S’agissant de l’utilisation d’un moyen de paiement donné, les États membres interdisent aux professionnels de facturer aux consommateurs des frais supérieurs aux coûts qu’ils supportent pour l’utilisation de ces mêmes moyens.",
+      "text_sha256": "3ad2f1aa61d0817371fef3d81bf67a5a36116f83e6d5a4c79f2f07ec996d2e3d",
+      "md_span": {
+        "start": 43993,
+        "end": 44218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Transfert du risque",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pour ce qui est des contrats prévoyant que le professionnel expédie les biens au consommateur, le risque de perte ou d’endommagement des biens est transféré au consommateur lorsque ce dernier, ou un tiers désigné par le consommateur et autre que le transporteur, prend physiquement possession de ces biens. Cependant, le risque est transféré au consommateur à la livraison du bien au transporteur dès lors que ce dernier a été chargé du transport des biens par le consommateur et que le choix n’a pas été proposé par le professionnel, sans préjudice des droits dont le consommateur dispose à l’égard du transporteur.",
+      "text_sha256": "a38b4734c9d64e5256b7b2fe5cc9197d4d707507de044af7f7e50b20a7c34d20",
+      "md_span": {
+        "start": 44279,
+        "end": 44895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Communication au téléphone",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à ce que, lorsque le professionnel exploite une ligne de téléphone pour le contacter par téléphone au sujet du contrat conclu, le consommateur, lorsqu’il contacte le professionnel, ne soit pas tenu de payer plus que le tarif de base.\n\nLe premier alinéa est sans préjudice du droit des prestataires de services de télécommunications à facturer de tels appels.",
+      "text_sha256": "77fab11a8b63d6ceac9916f07d2383a11150a8d6b54833d4df8b37eb0b29e6b3",
+      "md_span": {
+        "start": 44963,
+        "end": 45348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Paiements supplémentaires",
+      "path": [
+        "CHAPITRE IV",
+        "**AUTRES DROITS DES CONSOMMATEURS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Avant que le consommateur soit lié par un contrat ou une offre, le professionnel doit obtenir le consentement exprès du consommateur à tout paiement supplémentaire à la rémunération convenue au titre de l’obligation contractuelle principale du professionnel. Si le professionnel n’a pas obtenu le consentement exprès du consommateur, mais qu’il l’a déduit en ayant recours à des options par défaut que le consommateur doit rejeter pour éviter le paiement supplémentaire, le consommateur peut prétendre au remboursement de ce paiement.",
+      "text_sha256": "d449898692291abd50d16879692702c6f05a1d08d1c726a4d5c4e912b809713a",
+      "md_span": {
+        "start": 45415,
+        "end": 45949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Exécution",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce qu’il existe des moyens adéquats et efficaces permettant de faire respecter la présente directive.\n\n2. Les moyens visés au paragraphe 1 comprennent des dispositions permettant à un ou plusieurs des organismes ci-après, tels que déterminés par le droit national, de saisir en vertu dudit droit les tribunaux ou les organes administratifs compétents pour faire appliquer les dispositions nationales transposant la présente directive:\n\na) les organismes publics ou leurs représentants;\n\nb) les organisations de consommateurs ayant un intérêt légitime à protéger les consommateurs;\n\nc) les organisations professionnelles ayant un intérêt légitime à agir.",
+      "text_sha256": "203ec397924b0f9bac95325772fe9e46fe871e0c7e384907d94a9ef1e98a19a6",
+      "md_span": {
+        "start": 46047,
+        "end": 46732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Sanctions",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres déterminent le régime des sanctions applicables aux violations des dispositions nationales prises en application de la présente directive et prennent toute mesure nécessaire pour assurer la mise en œuvre de celles-ci. Les sanctions ainsi prévues doivent être effectives, proportionnées et dissuasives.\n\n2. Les États membres notifient ces dispositions à la Commission au plus tard le 13 décembre 2013 et notifient toute modification ultérieure les concernant dans les meilleurs délais.",
+      "text_sha256": "096372e4da2bcd33a8e62f38b7388b3f1e2e02e31df5e0263e9f51b4f825a959",
+      "md_span": {
+        "start": 46783,
+        "end": 47288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Caractère impératif de la directive",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si le droit applicable au contrat est le droit d’un État membre, le consommateur ne peut renoncer aux droits qui lui sont conférés par les dispositions nationales transposant la présente directive.\n\nToute clause contractuelle qui, d’une manière directe ou indirecte, écarte ou limite les droits découlant de la présente directive ne lie pas le consommateur.",
+      "text_sha256": "45ca8e42b1479db79968053af39b22a31bb1ceb0e22543c35610dffc5fe1de68",
+      "md_span": {
+        "start": 47365,
+        "end": 47722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Information",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres prennent les mesures appropriées pour informer les consommateurs et les professionnels des dispositions nationales qui transposent la présente directive et incitent, s’il y a lieu, les professionnels et les responsables de code, tels que définis à l’article 2, point g), de la directive 2005/29/CE, à faire connaître leurs codes de conduite aux consommateurs.",
+      "text_sha256": "42f65178689e9911e81f7e35a9f6df647af7f96912814496087a0651d75f62ef",
+      "md_span": {
+        "start": 47775,
+        "end": 48152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Vente forcée",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le consommateur est dispensé de l’obligation de verser toute contreprestation en cas de fourniture non demandée d’un bien, d’eau, de gaz, d’électricité, de chauffage urbain ou de contenu numérique, ou de prestation non demandée de services, en violation de l’article 5, paragraphe 5, et de l’annexe I, point 29, de la directive 2005/29/CE. Dans ces cas, l’absence de réponse du consommateur dans un tel cas de fourniture ou de prestation non demandée ne vaut pas consentement.",
+      "text_sha256": "a6a21016a125f88b619c437e3fee19767800ab9047ae1c49afdbe8097cce9870",
+      "md_span": {
+        "start": 48206,
+        "end": 48682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Transposition",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 13 décembre 2013, les États membres adoptent et publient les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces mesures sous la forme de documents. La Commission exploite ces documents aux fins du rapport visé à l’article 30.\n\nIls appliquent ces mesures à partir du 13 juin 2014.\n\nLorsque les États membres adoptent ces mesures, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les dispositions de la présente directive s’appliquent aux contrats conclus après le 13 juin 2014.",
+      "text_sha256": "af6db8c08eb1fe71a783a84a3c8a98beca5d945b8eac0531112973949e0edecb",
+      "md_span": {
+        "start": 48737,
+        "end": 49525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Obligations en matière de rapports",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu’un État membre fait usage de l’un des choix réglementaires visés à l’article 3, paragraphe 4, à l’article 6, paragraphes 7 et 8, à l’article 7, paragraphe 4, à l’article 8, paragraphe 6 et à l’article 9, paragraphe 3, il en informe la Commission au plus tard le 13 décembre 2013, et informe la Commission de tous les changements ultérieurs.\n\n2. La Commission s’assure que les informations visées au paragraphe 1 sont aisément accessibles aux consommateurs et aux professionnels, entre autres sur un site internet spécifique.\n\n3. La Commission transmet les informations visées au paragraphe 1 aux autres États membres et au Parlement européen. La Commission consulte les parties prenantes sur ces informations.",
+      "text_sha256": "f5885633e6a91fb26b13d7e8c74a212e2d3a4fc11e42d75309ff0280906ed603",
+      "md_span": {
+        "start": 49601,
+        "end": 50320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Rapport de la Commission et révision",
+      "path": [
+        "CHAPITRE V",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Au plus tard le 13 décembre 2016, la Commission présente au Parlement européen et au Conseil un rapport sur l’application de la présente directive. Ce rapport contient en particulier une évaluation des dispositions de la présente directive concernant le contenu numérique, y compris le droit de rétractation. Le rapport est assorti, si nécessaire, de propositions législatives pour l’adaptation de la présente directive à l’évolution dans le domaine des droits des consommateurs.",
+      "text_sha256": "a776e8fa130c08e2fbd436b7ecff112ba8900845eac02ef09b1dc9ac8f0e9bf0",
+      "md_span": {
+        "start": 50398,
+        "end": 50877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Abrogation",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 85/577/CEE et la directive 97/7/CE, telle que modifiée par la directive 2002/65/CE du Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers auprès des consommateurs (4) et par les directives 2005/29/CE et 2007/64/CE, sont abrogées à compter du 13 juin 2014.\n\nLes références aux directives abrogées s’entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l’annexe II.",
+      "text_sha256": "98b98385aa116bb1cf893bbfc9787fc6672400d516dd2317fb118b7c31575cad",
+      "md_span": {
+        "start": 50975,
+        "end": 51474
+      },
+      "citations": [
+        {
+          "href": "#E0004",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Modification de la directive 93/13/CEE",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’article suivant est inséré dans la directive 93/13/CEE:\n\n«Article 8 bis\n\n1. Lorsqu’un État membre adopte des dispositions conformément à l’article 8, il informe la Commission de l’adoption desdites dispositions ainsi que de toutes modifications ultérieures, en particulier lorsque ces dispositions:\n\n— étendent l’appréciation de leur caractère abusif aux clauses contractuelles négociées individuellement ou aux clauses relatives à l’adéquation du prix ou de la rémunération, ou\n\n— contiennent des listes de clauses contractuelles réputées abusives.\n\n2. La Commission s’assure que les informations visées au paragraphe 1 sont aisément accessibles aux consommateurs et aux professionnels, entre autres sur un site internet spécifique.\n\n3. La Commission transmet les informations visées au paragraphe 1 aux autres États membres et au Parlement européen. La Commission consulte les parties prenantes sur ces informations.».",
+      "text_sha256": "0330e8cd8f2619ba0c7d035f4dd753613e051a9bcbfaaf023b826732f93736b4",
+      "md_span": {
+        "start": 51554,
+        "end": 52476
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Modification de la directive 1999/44/CE",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’article suivant est inséré dans la directive 1999/44/CE:\n\n«Article 8 bis\n\nExigences de déclaration\n\n1. Lorsque, conformément à l’article 8, paragraphe 2, un État membre adopte des dispositions plus strictes en matière de protection des consommateurs que celles prévues à l’article 5, paragraphes 1 à 3, et à l’article 7, paragraphe 1, il en informe la Commission, et informe la Commission de tous les changements ultérieurs.\n\n2. La Commission s’assure que les informations visées au paragraphe 1 sont aisément accessibles aux consommateurs et aux professionnels, entre autres sur un site internet spécifique.\n\n3. La Commission transmet les informations visées au paragraphe 1 aux autres États membres et au Parlement européen. La Commission consulte les parties prenantes sur ces informations.».",
+      "text_sha256": "c5036ea6b1e66e77d33b344ee4257901521db2316ba53942c3b518ac80b47498",
+      "md_span": {
+        "start": 52557,
+        "end": 53354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "b3c43ea1732d6689bbfe56147d2310bbc373910e098b8bc1a363e7b45e739b74",
+      "md_span": {
+        "start": 53413,
+        "end": 53546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Destinataires",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 53601,
+        "end": 53663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Informations concernant l’exercice du droit de rétractation**\n\nA. **Informations standardisées sur la rétractation**\n\nDroit de rétractation\n\nVous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze jours.\n\nLe délai de rétractation expire quatorze jours après le jour\n\n1\n\n.\n\nPour exercer le droit de rétractation, vous devez nous notifier\n\n2\n\nvotre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n’est pas obligatoire.\n\n3\n\nPour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l’exercice du droit de rétractation avant l’expiration du délai de rétractation.\n\nEffets de la rétractation\n\nEn cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (à l’exception des frais supplémentaires découlant du fait que vous avez choisi, le cas échéant, un mode de livraison autre que le mode moins coûteux de livraison standard proposé par nous) sans retard excessif et, en tout état de cause, au plus tard quatorze jours à compter du jour où nous sommes informés de votre décision de rétractation du présent contrat. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé pour la transaction initiale, sauf si vous convenez expressément d’un moyen différent; en tout état de cause, ce remboursement n’occasionnera pas de frais pour vous.\n\n4\n\n5\n\n6\n\nInstructions à suivre pour remplir les informations\n\n1.\n\nInsérez l’un des passages suivants entre guillemets:\n\na) s’il s’agit d’un contrat de service ou d’un contrat portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou d’un contenu numérique non fourni sur un support matériel: «de la conclusion du contrat.»;\n\nb) s’il s’agit d’un contrat de vente: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du bien.»;\n\nc) s’il s’agit d’un contrat portant sur plusieurs biens commandés par le consommateur au moyen d’une seule commande et si ces biens sont livrés séparément: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier bien.»;\n\nd) s’il s’agit d’un contrat portant sur la livraison d’un bien en plusieurs lots ou pièces: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier lot ou de la dernière pièce.»;\n\ne) s’il s’agit d’un contrat portant sur la livraison régulière de biens pendant une période de temps déterminée: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du premier bien.»;\n\n2.\n\nInsérez votre nom, votre adresse géographique et, lorsqu’ils sont disponibles, votre numéro de téléphone, votre numéro de télécopieur et votre adresse électronique.\n\n3.\n\nSi vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa rétractation du contrat sur votre site internet, insérez le texte suivant: «Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté sur notre site internet [insérer l’adresse du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation sur un support durable (par exemple, par courriel).»\n\n4.\n\nS’il s’agit d’un contrat de vente dans le cadre duquel vous n’avez pas proposé de récupérer le bien en cas de rétractation, insérez le texte suivant: «Nous pouvons différer le remboursement jusqu’à ce que nous ayons reçu le bien ou jusqu’à ce que vous ayez fourni une preuve d’expédition du bien, la date retenue étant celle du premier de ces faits.»\n\n5.\n\nSi le consommateur a reçu des biens dans le cadre du contrat:\n\na) insérez:\n\n— «Nous récupérerons le bien»; ou\n\n— «Vous devrez renvoyer ou rendre le bien, à nous-mêmes ou à … [insérer le nom et l’adresse géographique, le cas échéant, de la personne habilitée par vous à réceptionner le bien] sans retard excessif et, en tout état de cause, au plus tard quatorze jours après que vous nous aurez communiqué votre décision de rétractation du présent contrat. Ce délai est réputé respecté si vous renvoyez le bien avant l’expiration du délai de quatorze jours.»\n\nb) insérez:\n\n— «Nous prendrons en charge les frais de renvoi du bien.»;\n\n— «Vous devrez prendre en charge les frais directs de renvoi du bien.»;\n\n— Si, dans le cas d’un contrat à distance, vous ne proposez pas de prendre en charge les frais de renvoi du bien et que le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste: «Vous devrez prendre en charge les frais directs de renvoi du bien, … EUR [insérer le montant].»; ou, si le coût de renvoi du bien ne peut raisonnablement être calculé à l’avance: «Vous devrez prendre en charge les frais directs de renvoi du bien. Ces frais sont estimés à un maximum d’environ … EUR [insérer le montant].»; ou\n\n— Si, dans le cas d’un contrat hors établissement, le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste et a été livré au domicile du consommateur au moment de la conclusion du contrat: «Nous récupérerons le bien à nos propres frais.» et\n\nc) insérez: «Votre responsabilité n’est engagée qu’à l’égard de la dépréciation du bien résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien.»\n\n6.\n\nDans le cas d’un contrat de prestation de services ou de fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant: «Si vous avez demandé de commencer la prestation de services ou la fourniture d’eau/de gaz/d’électricité/de chauffage urbain [supprimer les mentions inutiles] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu’au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l’ensemble des prestations prévues par le contrat.»\n\nB. **Modèle de formulaire de rétractation**\n\n(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat)\n\n— À l’attention de [le professionnel insère ici son nom, son adresse géographique et, lorsqu’ils sont disponibles, son numéro de télécopieur et son adresse électronique]:\n\n— Je/Nous (*1) vous notifie/notifions (*1) par la présente ma/notre (*1) rétractation du contrat portant sur la vente du bien (*1) /pour la prestation de service (*1) ci-dessous\n\n— Commandé le (*1) /reçu le (*1)\n\n— Nom du (des) consommateur(s)\n\n— Adresse du (des) consommateur(s)\n\n— Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)\n\n— Date",
+      "text_sha256": "ded258b59b400ab5b496d6bbd0e74295f349fb5dd3528e41b69a3bae88bcb6f5",
+      "md_span": {
+        "start": 53702,
+        "end": 60892
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "*1"
+        },
+        {
+          "href": "#E0005",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32011l0083:2018-07-01--94030a010a9191ffe70e88c254a91b7c2ad19681196d1e3ef40f6d103feb0759#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Tableau de correspondance**\n\n| Directive 85/577/CEE | Directive 97/7/CE | Présente directive |\n| --- | --- | --- |\n| Article 1er |  | Article 3 lu conjointement avec l’article 2, points 8) et 9), et l’article 16, point h) |\n|  | Article 1er | Article 1er lu conjointement avec l’article 2, point 7) |\n| Article 2 |  | Article 2, points 1) et 2) |\n|  | Article 2, point 1) | Article 2, point 7) |\n|  | Article 2, point 2) | Article 2, point 1) |\n|  | Article 2, point 3) | Article 2, point 2) |\n|  | Article 2, point 4), première phrase | Article 2, point 7) |\n|  | Article 2, point 4), deuxième phrase | — |\n|  | Article 2, point 5) |  |\n| Article 3, paragraphe 1 |  | Article 3, paragraphe 4 |\n| Article 3, paragraphe 2, point a) |  | Article 3, paragraphe 3, points e) et f) |\n| Article 3, paragraphe 2, point b) |  | Article 3, paragraphe 3, point j) |\n| Article 3, paragraphe 2, point c) |  | — |\n| Article 3, paragraphe 2, point d) |  | Article 3, paragraphe 3, point d) |\n| Article 3, paragraphe 2, point e) |  | Article 3, paragraphe 3, point d) |\n| Article 3, paragraphe 3 |  |  |\n|  | Article 3, paragraphe 1, premier tiret | Article 3, paragraphe 3, point d) |\n|  | Article 3, paragraphe 1, deuxième tiret | Article 3, paragraphe 3, point l) |\n|  | Article 3, paragraphe 1, troisième tiret | Article 3, paragraphe 3, point m) |\n|  | Article 3, paragraphe 1, quatrième tiret | Article 3, paragraphe 3, points e) et f) |\n|  | Article 3, paragraphe 1, cinquième tiret | Article 6, paragraphe 3, et article 16, point k), en liaison avec l’article 2, point 13) |\n|  | Article 3, paragraphe 2, premier tiret | Article 3, paragraphe 3, point j) |\n|  | Article 3, paragraphe 2, deuxième tiret | Article 3, paragraphe 3, point f) (pour la location de logements à des fins résidentielles), point g) (pour les voyages à forfait), point h) (pour les biens à temps partagé), point k) (pour les transports de passagers avec certaines exceptions) et article 16, point l) (exemption du droit de rétractation) |\n| Article 4, première phrase |  | Article 6, paragraphe 1, points b), c) et h), et article 7, paragraphes 1 et 2 |\n| Article 4, deuxième phrase |  | Article 6, paragraphe 1, point a), et article 7, paragraphe 1 |\n| Article 4, troisième phrase |  | Article 6, paragraphe 1 |\n| Article 4, quatrième phrase |  | Article 10 |\n|  | Article 4, paragraphe 1, point a) | Article 6, paragraphe 1, points b) et c) |\n|  | Article 4, paragraphe 1, point b) | Article 6, paragraphe 1, point a) |\n|  | Article 4, paragraphe 1, point c) | Article 6, paragraphe 1, point e) |\n|  | Article 4, paragraphe 1, point d) | Article 6, paragraphe 1, point e) |\n|  | Article 4, paragraphe 1, point e) | Article 6, paragraphe 1, point g) |\n|  | Article 4, paragraphe 1, point f) | Article 6, paragraphe 1, point h) |\n|  | Article 4, paragraphe 1, point g) | Article 6, paragraphe 1, point f) |\n|  | Article 4, paragraphe 1, point h) | — |\n|  | Article 4, paragraphe 1, point i) | Article 6, paragraphe 1, points o) et p) |\n|  | Article 4, paragraphe 2 | Article 6, paragraphe 1, lu en liaison avec l’article 8, paragraphes 1, 2 et 4 |\n|  | Article 4, paragraphe 3 | Article 8, paragraphe 5 |\n|  | Article 5, paragraphe 1 | Article 8, paragraphe 7 |\n|  | Article 5, paragraphe 2 | Article 3, paragraphe 3, point m) |\n|  | Article 6, paragraphe 1 | Article 9, paragraphes 1 et 2, article 10, article 13, paragraphe 2, article 14 |\n|  | Article 6, paragraphe 2 | Article 13 et article 14, paragraphe 1, deuxième et troisième alinéas |\n|  | Article 6, paragraphe 3, premier tiret | Article 16, point a) |\n|  | Article 6, paragraphe 3, deuxième tiret | Article 16, point b) |\n|  | Article 6, paragraphe 3, troisième tiret | Article 16, points c) et d) |\n|  | Article 6, paragraphe 3, quatrième tiret | Article 16, point i) |\n|  | Article 6, paragraphe 3, cinquième tiret | Article 16, point j) |\n|  | Article 6, paragraphe 3, sixième tiret | Article 3, paragraphe 3, point c) |\n|  | Article 6, paragraphe 4 | Article 15 |\n|  | Article 7, paragraphe 1 | Article 18, paragraphe 1 (pour les contrats de vente) |\n|  | Article 7, paragraphe 2 | Article 18, paragraphes 2, 3 et 4 |\n|  | Article 7, paragraphe 3 | — |\n|  | Article 8 | — |\n|  | Article 9 | Article 27 |\n|  | Article 10 | —(mais voir l’article 13 de la directive 2002/58/CE) |\n|  | Article 11, paragraphe 1 | Article 23, paragraphe 1 |\n|  | Article 11, paragraphe 2 | Article 23, paragraphe 2 |\n|  | Article 11, paragraphe 3, point a) | Article 6, paragraphe 9, pour la charge de la preuve dans les informations précontractuelles; pour le reste: — |\n|  | Article 11, paragraphe 3, point b) | Article 24, paragraphe 1 |\n|  | Article 11, paragraphe 4 | — |\n|  | Article 12, paragraphe 1 | Article 25 |\n|  | Article 12, paragraphe 2 | — |\n|  | Article 13 | Article 3, paragraphe 2 |\n|  | Article 14 | Article 4 |\n|  | Article 15, paragraphe 1 | Article 28, paragraphe 1 |\n|  | Article 15, paragraphe 2 | Article 28, paragraphe 1 |\n|  | Article 15, paragraphe 3 | Article 28, paragraphe 1 |\n|  | Article 15, paragraphe 4 | Article 30 |\n|  | Article 16 | Article 26 |\n|  | Article 17 | — |\n|  | Article 18 | Article 34 |\n|  | Article 19 | Article 35 |\n| Article 5, paragraphe 1 |  | Articles 9 et 11 |\n| Article 12 |  | Article 5, paragraphe 2 |\n| Article 6 |  | Article 25 |\n| Article 7 |  | Articles 13, 14 et 15 |\n| Article 8 |  | Article 4 |\n\n| Annexe du règlement (CE) no 2006/2004 du Parlement européen et du Conseil du 27 octobre 2004 relatif à la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs («Règlement relatif à la coopération en matière de protection des consommateurs») (1) | À interpréter comme faisant référence à: |\n| --- | --- |\n| Paragraphes 2 et 11 | La présente directive |\n| (1)JO L 364 du 9.12.2004, p. 1. |  |\n\n(1) Directive (UE) 2015/2302 du Parlement européen et du Conseil du 25 novembre 2015 relative aux voyages à forfait et aux prestations de voyage liées, modifiant le règlement (CE) no 2006/2004, la directive 2011/83/UE et abrogeant la directive 90/314/CEE du Conseil (JO L 326 du 11.12.2015, p. 1).\n\n(2) JO L 33 du 3.2.2009, p. 10.\n\n(3) JO L 133 du 22.5.2008, p. 66.\n\n(4) JO L 271 du 9.10.2002, p. 16.\n\n(*1) Biffez la mention inutile.",
+      "text_sha256": "d01b8d414f79f5f6123935ca6c6bce29ecd478bf3eb7e2271ef80d61d05b71d5",
+      "md_span": {
+        "start": 60933,
+        "end": 67223
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "(1)"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "*1"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

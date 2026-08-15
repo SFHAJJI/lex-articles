@@ -1,0 +1,515 @@
+---
+lex_id: 'eu-eurlex:32013l0050:2013-11-26--bee4aced0ff19f210e792c71e93551eaf6065e9254d7497a04d1eadf745b05f9'
+title: 'Directive 2013/50/EU'
+valid_from: '2013-11-26'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013L0050-20131126'
+source_sha256: '11aa49a3105e2c0ab3a9f053d330252bde345ed30647e211f1d737575e4cd073'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier — Modifications de la directive 2004/109/CE
+
+La directive 2004/109/CE est modifiée comme suit:
+
+1) L’article 2 est modifié comme suit:
+
+a) Le paragraphe 1 est modifié comme suit:
+
+i) le point d) est remplacé par le texte suivant:
+
+| «d) | “émetteur” : une personne physique ou une entité juridique régie par le droit privé ou public, y compris un État, dont les valeurs mobilières sont admises à la négociation sur un marché réglementé.Dans le cas de certificats représentatifs admis à la négociation sur un marché réglementé, l’émetteur des valeurs mobilières représentées, qu’elles soient ou non admises à la négociation sur un marché réglementé;» |
+| --- | --- |
+
+ii) le point i) est modifié comme suit:
+
+i) au point i), le deuxième tiret est remplacé par le texte suivant:
+
+«— lorsque l’émetteur a son siège statutaire dans un pays tiers, l’État membre choisi par l’émetteur parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé. Le choix d’un État membre d’origine demeure valable tant que l’émetteur n’en a pas choisi un nouveau au titre du point iii) et n’a pas rendu public son choix conformément au deuxième alinéa du présent point [lettre] i);»
+
+ii) le point ii) est remplacé par le texte suivant:
+
+«ii) pour tout émetteur non visé au point i), l’État membre choisi par l’émetteur entre l’État membre où il a son siège statutaire, le cas échéant, et les États membres qui ont admis ses valeurs mobilières à la négociation sur un marché réglementé. L’émetteur ne peut choisir qu’un seul État membre comme État membre d’origine. Son choix demeure valable au moins trois ans sauf si ses valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé dans l’Union ou si l’émetteur vient à relever des points i) ou iii) au cours de cette période de trois ans;»
+
+iii) le point suivant est ajouté:
+
+«iii) pour un émetteur dont les valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé dans son État membre d’origine au sens du point i), deuxième tiret, ou du point ii), mais sont en revanche admises à la négociation dans un ou plusieurs autres États membres, le nouvel État membre d’origine que l’émetteur peut choisir parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé et, le cas échéant, l’État membre dans lequel il a son siège statutaire;»
+
+iv) les alinéas suivants sont ajoutés:
+
+«Un émetteur rend public son choix quant à son État membre d’origine visé aux points i), ii) ou iii) conformément aux articles 20 et 21. En outre, un émetteur communique son choix quant à son État membre d’origine à l’autorité compétente de l’État membre dans lequel il a son siège statutaire, le cas échéant, à l’autorité compétente de l’État membre d’origine et aux autorités compétentes de l’ensemble des États membres d’accueil.
+
+Au cas où l’émetteur omettrait de rendre public son État membre d’origine au sens du point i), deuxième tiret, ou du point ii) dans un délai de trois mois à compter de la date à laquelle ses valeurs mobilières ont été admises pour la première fois à la négociation sur un marché réglementé, l’État membre d’origine est l’État membre dans lequel les valeurs mobilières de l’émetteur sont admises à la négociation sur un marché réglementé. Lorsque les valeurs mobilières de l’émetteur sont admises à la négociation sur des marchés réglementés situés ou fonctionnant dans plusieurs États membres, ces derniers sont considérés comme les États membres d’origine de l’émetteur tant que celui-ci n’a pas choisi ultérieurement un État membre d’origine unique et n’a pas rendu public ce choix.
+
+Pour un émetteur dont les valeurs mobilières sont déjà admises à la négociation sur un marché réglementé et dont le choix d’un État membre d’origine visé au point i), deuxième tiret, ou au point ii) n’a pas été rendu public avant le 27 novembre 2015, le délai de trois mois commence à courir le 27 novembre 2015.
+
+Un émetteur qui a choisi un État membre d’origine visé au point i), deuxième tiret, ou aux points ii) ou iii) et qui a communiqué son choix aux autorités compétentes de l’État membre d’origine avant le 27 novembre 2015, est exempté de l’obligation au titre du deuxième alinéa du présent point [lettre] i) sauf si l’émetteur considéré choisit un autre État membre d’origine après le 27 novembre 2015.»
+
+iii) le point suivant est ajouté:
+
+| «q) | “accord formel” : un accord contraignant en vertu du droit applicable.» |
+| --- | --- |
+
+b) Le paragraphe suivant est inséré:
+
+«2 *bis*. Les références faites dans la présente directive aux entités juridiques s’entendent comme couvrant les groupements d’entreprises enregistrés sans personnalité juridique et les trusts.»
+
+2) L’article 3 est modifié comme suit:
+
+a) Le paragraphe 1 est remplacé par le texte suivant:
+
+«1. L’État membre d’origine peut soumettre un émetteur à des exigences plus strictes que celles prévues dans la présente directive, à l’exception du fait qu’il ne peut exiger que les émetteurs publient des informations financières périodiques sur une base plus fréquente que les rapports financiers annuels visés à l’article 4 et les rapports financiers semestriels visés à l’article 5.»
+
+b) Le paragraphe suivant est inséré:
+
+«1 *bis*. Par dérogation au paragraphe 1, l’État membre d’origine peut imposer aux émetteurs de publier des informations financières périodiques complémentaires sur une base plus fréquente que les rapports financiers annuels visés à l’article 4 et les rapports financiers semestriels visés à l’article 5 lorsque les conditions suivantes sont réunies:
+
+— les informations financières périodiques complémentaires ne constituent pas une charge financière disproportionnée dans l’État membre considéré, notamment pour les petits et moyens émetteurs concernés, et
+
+— le contenu des informations financières périodiques complémentaires demandées est proportionné aux facteurs qui contribuent à la prise de décisions d’investissements par les investisseurs dans l’État membre concerné.
+
+Avant de prendre une décision imposant aux émetteurs de publier des informations financières périodiques complémentaires, les États membres évaluent à la fois si les exigences supplémentaires risquent de conduire à ce qu’une attention excessive soit accordée aux résultats et aux performances à court terme des émetteurs et si elles sont susceptibles d’affecter négativement la capacité des petits et moyens émetteurs à accéder aux marchés réglementés.
+
+Ceci s’entend sans préjudice de la faculté des États membres d’imposer la publication d’informations financières périodiques complémentaires aux émetteurs qui sont des établissements financiers.
+
+L’État membre d’origine ne peut pas soumettre un détenteur d’actions, ou une personne physique ou morale visée à l’article 10 ou 13, à des exigences plus strictes que celles énoncées dans la présente directive, sauf:
+
+i) fixer des seuils de notification inférieurs ou complémentaires à ceux prévus à l’article 9, paragraphe 1, et imposer des notifications équivalentes en ce qui concerne les seuils fondés sur le capital détenu;
+
+ii) appliquer des exigences plus strictes que celles visées à l’article 12; ou
+
+iii) appliquer les dispositions législatives, réglementaires ou administratives adoptées en ce qui concerne les offres publiques d’acquisition, les opérations de fusion et d’autres opérations ayant des incidences sur la propriété et le contrôle des entreprises, qui sont surveillées par les autorités désignées par les États membres conformément à l’article 4 de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 sur les offres publiques d’acquisition (18).
+
+3) L’article 4 est modifié comme suit:
+
+a) Le paragraphe 1 est remplacé par le texte suivant:
+
+«1. L’émetteur publie son rapport financier annuel au plus tard quatre mois après la fin de chaque exercice et veille à ce que ce rapport reste à la disposition du public pendant au moins dix ans.»
+
+b) Le paragraphe suivant est ajouté:
+
+«7. À compter du 1er janvier 2020, tous les rapports financiers annuels sont établis selon un format d’information électronique unique, pour autant qu’une analyse coûts-bénéfices ait été réalisée par l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (AEMF), instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (19).
+
+L’AEMF élabore des projets de normes techniques de réglementation afin de préciser le format d’information électronique, en faisant dûment référence aux options technologiques actuelles et futures. Avant l’adoption des projets de normes techniques de réglementation, l’AEMF effectue une évaluation adéquate des formats d’information électronique possibles et procède à des tests appropriés sur le terrain. L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 31 décembre 2016.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec les articles 10 à 14 du règlement (UE) no 1095/2010 en ce qui concerne les normes techniques de réglementation visées au deuxième alinéa.
+
+4) À l’article 5, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. L’émetteur d’actions ou de titres de créance publie un rapport financier semestriel couvrant les six premiers mois de chaque exercice, le plus tôt possible après la fin du semestre couvert et au plus tard trois mois après la fin de ce semestre. L’émetteur veille à ce que le rapport financier semestriel reste à la disposition du public pendant au moins dix ans.»
+
+5) L’article 6 est remplacé par le texte suivant:
+
+«Article 6
+
+Rapport sur les sommes versées aux gouvernements
+
+Les États membres imposent aux émetteurs actifs dans les industries extractives ou l’exploitation des forêts primaires, au sens de l’article 41, paragraphes 1 et 2 de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises (20), d’établir, sur une base annuelle, conformément au chapitre 10 de ladite directive, un rapport sur les sommes versées aux gouvernements. Le rapport est rendu public au plus tard six mois après la fin de chaque exercice et reste à la disposition du public pendant au moins dix ans. Les sommes versées aux gouvernements sont déclarées à un niveau consolidé.
+
+6) L’article 8 est modifié comme suit:
+
+a) Le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les articles 4 et 5 ne s’appliquent pas aux émetteurs suivants:
+
+a) les États et leurs collectivités régionales ou locales, les organismes publics internationaux comptant au moins un État membre parmi leurs membres, la Banque centrale européenne (BCE), le Fonds européen de stabilité financière (FESF) établi par l’accord-cadre régissant le FESF et tout autre mécanisme établi en vue de préserver la stabilité financière de l’union monétaire européenne en prêtant une assistance financière temporaire à des États membres dont la monnaie est l’euro et les banques centrales nationales des États membres, émetteurs ou non d’actions ou d’autres valeurs mobilières; et
+
+b) les entités qui émettent uniquement des titres de créance admis à la négociation sur un marché réglementé, dont la valeur nominale unitaire est au moins égale à 100 000 EUR ou, pour les titres de créance libellés dans une devise autre que l’euro, dont la valeur nominale unitaire est équivalente à au moins 100 000 EUR à la date d’émission.»
+
+b) Le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Par dérogation au point b) du paragraphe 1 du présent article, les articles 4 et 5 ne s’appliquent pas aux entités qui émettent uniquement des titres de créance dont la valeur nominale unitaire est au moins égale à 50 000 EUR ou, pour les titres de créance libellés dans une devise autre que l’euro, dont la valeur nominale unitaire est équivalente à au moins 50 000 EUR à la date d’émission, qui ont déjà été admis à la négociation sur un marché réglementé dans l’Union avant le 31 décembre 2010, dans la mesure où ces titres de créance sont en cours.»
+
+7) L’article 9 est modifié comme suit:
+
+a) Le paragraphe 6 est remplacé par le texte suivant:
+
+«6. Le présent article ne s’applique pas aux droits de vote qui sont détenus dans le portefeuille de négociation, au sens de l’article 11 de la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l’adéquation des fonds propres des entreprises d’investissement et des établissements de crédit (21), d’un établissement de crédit ou d’une entreprise d’investissement, pour autant que:
+
+a) les droits de vote détenus dans le portefeuille de négociation ne dépassent pas 5 %, et
+
+b) les droits de vote attachés aux actions détenues dans le portefeuille de négociation ne soient pas exercés ni utilisés autrement pour intervenir dans la gestion de l’émetteur.
+
+b) Les paragraphes suivants sont insérés:
+
+«6 *bis*. Le présent article ne s’applique pas aux droits de vote qui sont attachés à des actions acquises à des fins de stabilisation conformément au règlement (CE) no 2273/2003 de la Commission du 22 décembre 2003 portant modalités d’application de la directive 2003/6/CE du Parlement européen et du Conseil en ce qui concerne les dérogations prévues pour les programmes de rachat et la stabilisation d’instruments financiers (22), pour autant que les droits de vote attachés auxdites actions ne soient pas exercés ni utilisés autrement pour intervenir dans la gestion de l’émetteur.
+
+6 *ter*. L’AEMF élabore des projets de normes techniques de réglementation pour préciser la méthode de calcul du seuil de 5 % visé aux paragraphes 5 et 6, y compris dans le cas d’un groupe de sociétés, en tenant compte des dispositions de l’article 12, paragraphes 4 et 5.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 27 novembre 2014.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec les articles 10 à 14 du règlement (UE) no 1095/2010 en ce qui concerne les normes techniques de réglementation visées au premier alinéa.
+
+8) À l’article 12, paragraphe 2, la partie introductive est remplacée par le texte suivant:
+
+«La notification à l’émetteur est effectuée rapidement et au plus tard dans un délai de quatre jours de cotation, suivant la date à laquelle le détenteur d’actions, ou la personne physique ou morale visée à l’article 10,»
+
+9) L’article 13 est modifié comme suit:
+
+a) Le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les obligations en matière de notification prévues à l’article 9 s’appliquent également à une personne physique ou morale qui détient, directement ou indirectement:
+
+a) des instruments financiers qui, à l’échéance, lui donnent, en vertu d’un accord formel, soit le droit inconditionnel d’acquérir, soit la faculté d’acquérir des actions auxquelles sont attachés des droits de vote et déjà émises, d’un émetteur dont les actions sont admises à la négociation sur un marché réglementé;
+
+b) des instruments financiers qui ne figurent pas au point a), mais qui font référence à des actions visées à ce point, et dont l’effet économique est similaire à celui des instruments financiers visés à ce point, qu’ils donnent droit à un règlement physique ou non.
+
+La notification exigée inclut la répartition par type d’instruments financiers détenus conformément au premier alinéa, point a), et d’instruments financiers détenus conformément au point b) dudit alinéa, une distinction étant opérée entre les instruments financiers qui donnent droit à un règlement physique et les instruments financiers qui donnent droit à un règlement en espèces.»
+
+b) Les paragraphes suivants sont insérés:
+
+«1 *bis*. Le nombre de droits de vote est calculé par référence au nombre notionnel total d’actions sous-jacentes à l’instrument financier, sauf lorsque l’instrument financier permet exclusivement un règlement en espèces, auquel cas le nombre de droits de vote est calculé sur une base ajustée du delta, en multipliant le nombre notionnel d’actions sous-jacentes par le delta de l’instrument. À cette fin, le détenteur agrège et notifie tous les instruments financiers liés au même émetteur sous-jacent. Seules les positions longues sont prises en compte pour le calcul des droits de vote. Les positions longues ne sont pas compensées avec les positions courtes relatives au même émetteur sous-jacent.
+
+L’AEMF élabore des projets de normes techniques de réglementation pour préciser:
+
+a) la méthode de calcul du nombre de droits de vote visé au premier alinéa dans le cas d’instruments financiers émis en référence à un panier d’actions ou à un indice boursier; et
+
+b) les méthodes de détermination du delta aux fins du calcul des droits de vote attachés à des instruments financiers permettant exclusivement un règlement en espèces comme prévu au premier alinéa.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 27 novembre 2014.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec les articles 10 à 14 du règlement (UE) no 1095/2010 en ce qui concerne les normes techniques de réglementation visées au deuxième alinéa du présent paragraphe.
+
+1 *ter*. Aux fins du paragraphe 1, sont considérés comme étant des instruments financiers, pour autant qu’ils satisfassent à l’une quelconque des conditions énoncées au point a) ou b) du premier alinéa du paragraphe 1:
+
+a) les valeurs mobilières;
+
+b) les contrats d’option;
+
+c) les contrats à terme (futures);
+
+d) les contrats d’échange;
+
+e) les accords de taux futurs;
+
+f) les contrats financiers pour différences; et
+
+g) tous autres contrats ou accords ayant un effet économique similaire susceptibles d’être réglés par une livraison physique ou en numéraire.
+
+L’AEMF établit et actualise périodiquement une liste indicative d’instruments financiers qui sont soumis aux obligations de notification en vertu du paragraphe 1, en tenant compte des évolutions techniques sur les marchés financiers.»
+
+c) Le paragraphe 2 est remplacé par le texte suivant:
+
+«2. La Commission est habilitée à adopter, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater*, et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, les mesures visant à préciser le contenu de la notification à effectuer, le délai de notification et le destinataire de la notification, tels que visés au paragraphe 1.»
+
+d) Le paragraphe suivant est ajouté:
+
+«4. Les exemptions prévues à l’article 9, paragraphes 4, 5 et 6, et à l’article 12, paragraphes 3, 4 et 5, s’appliquent mutatis mutandis aux obligations en matière de notification au titre du présent article.
+
+L’AEMF élabore des projets de normes techniques de réglementation pour préciser les cas dans lesquels les exemptions visées au premier alinéa s’appliquent aux instruments financiers détenus par une personne physique ou morale qui exécute des ordres passés par des clients, qui répond aux demandes d’un client de négocier autrement que pour compte propre, ou qui couvre des positions résultant de telles transactions.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 27 novembre 2014.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec les articles 10 à 14 du règlement (UE) no 1095/2010 en ce qui concerne les normes techniques de réglementation visées au deuxième alinéa du présent paragraphe.»
+
+10) L’article suivant est inséré:
+
+«Article 13 bis
+
+Agrégation
+
+1. Les obligations en matière de notification prévues aux articles 9, 10 et 13 s’appliquent également à une personne physique ou morale lorsque le nombre de droits de vote détenus directement ou indirectement par ladite personne en vertu des articles 9 et 10, agrégés avec les droits de vote afférents aux instruments financiers détenus directement ou indirectement en vertu de l’article 13, atteint les seuils définis à l’article 9, paragraphe 1, ou les franchit à la hausse ou à la baisse.
+
+La notification exigée en vertu du premier alinéa du présent paragraphe comprend la répartition du nombre de droits de vote attachés aux actions détenues conformément aux articles 9 et 10 et de droits de vote afférents à des instruments financiers au sens de l’article 13.
+
+2. Les droits de vote afférents à des instruments financiers qui ont déjà été notifiés conformément à l’article 13 sont notifiés une nouvelle fois lorsque la personne physique ou morale a acquis les actions sous-jacentes et que cette acquisition a pour conséquence que le nombre total de droits de vote attachés aux actions émises par le même émetteur atteint ou dépasse les seuils définis à l’article 9, paragraphe 1.»
+
+11) À l’article 16, le paragraphe 3 est supprimé.
+
+12) À l’article 19, paragraphe 1, le second alinéa est supprimé.
+
+13) À l’article 21, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. La Commission est habilitée à adopter, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater*, et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, des mesures visant à préciser ce qui suit:
+
+a) des normes minimales pour la diffusion des informations réglementées visée au paragraphe 1;
+
+b) des normes minimales pour les mécanismes de stockage centralisé visés au paragraphe 2;
+
+c) des règles garantissant l’interopérabilité des technologies de l’information et de la communication utilisées par les mécanismes visés au paragraphe 2 et l’accès aux informations réglementées au niveau de l’Union, visées audit paragraphe.
+
+La Commission peut aussi établir et mettre à jour une liste de médias pour la diffusion des informations auprès du public.»
+
+14) L’article suivant est inséré:
+
+«Article 21 bis
+
+Point d’accès électronique européen
+
+1. Un portail internet servant de point d’accès électronique européen (ci-après dénommé «point d’accès») est créé au plus tard le 1er janvier 2018. L’AEMF procède à la mise en place et à l’exploitation du point d’accès.
+
+2. Le système d’interconnexion des mécanismes officiellement désignés se compose des éléments suivants:
+
+— les mécanismes visés à l’article 21, paragraphe 2,
+
+— le portail servant de point d’accès électronique européen.
+
+3. Les États membres garantissent l’accès à leurs mécanismes de stockage centralisé via le point d’accès.»
+
+15) L’article 22 est remplacé par le texte suivant:
+
+«Article 22
+
+Accès aux informations réglementées au niveau de l’Union
+
+1. L’AEMF élabore des projets de normes techniques de réglementation fixant les exigences techniques relatives à l’accès aux informations réglementées au niveau de l’Union, comportant les éléments suivants:
+
+a) les exigences techniques relatives aux technologies de la communication utilisées par les mécanismes visés à l’article 21, paragraphe 2;
+
+b) les exigences techniques pour l’exploitation du point d’accès central pour la recherche d’informations réglementées au niveau de l’Union;
+
+c) les exigences techniques relatives à l’utilisation d’un identifiant unique pour chaque émetteur par les mécanismes visés à l’article 21, paragraphe 2;
+
+d) le format commun pour la communication des informations réglementées par les mécanismes visés à l’article 21, paragraphe 2;
+
+e) la classification commune des informations réglementées par les mécanismes visés à l’article 21, paragraphe 2, et la liste commune des types d’informations réglementées.
+
+2. Dans le cadre de l’élaboration des projets de normes techniques de réglementation, l’AEMF tient compte des exigences techniques pour le système d’interconnexion des registres du commerce établi par la directive 2012/17/UE du Parlement européen et du Conseil (23).
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 27 novembre 2015.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec les articles 10 à 14 du règlement (UE) no 1095/2010 en ce qui concerne les normes techniques de réglementation visées au premier alinéa du présent paragraphe.
+
+16) À l’article 23, paragraphe 1, l’alinéa suivant est ajouté:
+
+«Les informations couvertes par les obligations imposées dans le pays tiers sont déposées conformément à l’article 19 et rendues publiques conformément aux articles 20 et 21.».
+
+17) À l’article 24, les paragraphes suivants sont insérés:
+
+«4 *bis*. Sans préjudice du paragraphe 4, les autorités compétentes sont investies de tous les pouvoirs d’enquête nécessaires à l’exercice de leurs fonctions. Ces pouvoirs sont exercés en conformité avec le droit national.
+
+4 *ter*. Les autorités compétentes exercent leurs pouvoirs de sanction, conformément à la présente directive et au droit national, selon l’une des modalités suivantes:
+
+— directement,
+
+— en collaboration avec d’autres autorités,
+
+— sous leur responsabilité, par délégation à d’autres autorités,
+
+— par la saisine des autorités judiciaires compétentes.»
+
+18) À l’article 25, paragraphe 2, l’alinéa suivant est ajouté:
+
+«Lorsqu’elles exercent leurs pouvoirs de sanction et d’enquête, les autorités compétentes coopèrent entre elles pour que les sanctions et les mesures produisent les résultats escomptés et elles coordonnent leur action dans le cas d’affaires transfrontalières.»
+
+19) Le titre suivant est inséré après l’article 27 *ter*:
+
+«CHAPITRE VI *BIS*
+
+**SANCTIONS ET MESURES**»
+
+20) L’article 28 est remplacé par le texte suivant:
+
+«Article 28
+
+Mesures et sanctions administratives
+
+1. Sans préjudice des pouvoirs conférés aux autorités compétentes conformément à l’article 24 et du droit des États membres de prévoir et d’imposer des sanctions pénales, les États membres définissent des règles concernant les mesures et les sanctions administratives applicables en cas d’infractions aux dispositions nationales adoptées pour transposer la présente directive et prennent toutes les dispositions nécessaires pour veiller à ce qu’elles soient appliquées. Ces mesures et sanctions administratives sont effectives, proportionnées et dissuasives.
+
+2. Sans préjudice de l’article 7, les États membres veillent à ce que, lorsque des obligations s’appliquent à une personne morale, les sanctions prises en cas d’infraction de sa part puissent s’appliquer, sous réserve des conditions prévues par le droit national, aux membres de ses organes d’administration, de direction ou de surveillance, ainsi qu’à toute autre personne responsable de l’infraction en vertu du droit national.»
+
+21) Les articles suivants sont insérés:
+
+«Article 28 bis
+
+Infractions
+
+L’article 28 *ter* s’applique au minimum aux infractions suivantes:
+
+a) défaut de publication, par l’émetteur, dans le délai imparti, des informations exigées en vertu des dispositions nationales adoptées transposant les articles 4, 5, 6, 14 et 16;
+
+b) défaut de notification, par la personne physique ou morale, dans le délai imparti, de l’acquisition ou de la cession d’une participation importante conformément aux dispositions nationales adoptées transposant les articles 9, 10, 12, 13 et 13 *bis*.
+
+Article 28 ter
+
+Pouvoirs de sanction
+
+1. En cas d’infractions visées à l’article 28 *bis*, les autorités compétentes sont habilitées à imposer au minimum les mesures et les sanctions administratives suivantes:
+
+a) une déclaration publique qui précise l’identité de la personne physique ou morale responsable et la nature de l’infraction;
+
+b) une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement infractionnel en cause et lui interdisant de le réitérer;
+
+c) des sanctions pécuniaires administratives:
+
+i) dans le cas d’une personne morale,
+
+— jusqu’à 10 000 000 EUR ou 5 % du chiffre d’affaires annuel total déterminé sur la base des comptes annuels du dernier exercice approuvés par l’organe de direction; lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés en vertu de la directive 2013/34/UE, le chiffre d’affaires total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant en vertu des directives comptables pertinentes, tel qu’il ressort des derniers comptes annuels consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime, ou
+
+— jusqu’à deux fois le montant de l’avantage retiré de l’infraction ou celui des pertes qu’elle a permis d’éviter, si ceux-ci peuvent être déterminées,
+
+le montant le plus élevé étant retenu;
+
+ii) dans le cas d’une personne physique:
+
+— jusqu’à 2 000 000 EUR, ou
+
+— jusqu’à deux fois le montant de l’avantage retiré de l’infraction ou celui des pertes qu’elle a permis d’éviter, si ceux-ci peuvent être déterminés,
+
+le montant le plus élevé étant retenu.
+
+Dans les États membres dont l’euro n’est pas la monnaie officielle, le montant correspondant à l’euro dans la monnaie nationale est calculé en tenant compte du taux de change officiel à la date d’entrée en vigueur de la directive 2013/50/UE du Parlement européen et du Conseil du 22 octobre 2013 modifiant la directive 2004/109/CE du Parlement européen et du Conseil sur l’harmonisation des obligations de transparence concernant l’information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé, la directive 2003/71/CE du Parlement européen et du Conseil concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation et la directive 2007/14/CE de la Commission portant modalités d’exécution de certaines dispositions de la directive 2004/109/CE (24).
+
+2. Sans préjudice des pouvoirs conférés aux autorités compétentes au titre de l’article 24 et du droit des États membres d’imposer des sanctions pénales, les États membres veillent à ce que leurs dispositions législatives, réglementaires ou administratives prévoient la possibilité de suspendre l’exercice des droits de vote attachés aux actions en cas d’infractions visées à l’article 28 *bis*, point b). Les États membres peuvent prévoir que la suspension des droits de vote ne s’applique que dans le cas des infractions les plus graves.
+
+3. Les États membres peuvent prévoir des sanctions ou des mesures supplémentaires et des niveaux de sanctions pécuniaires administratives supérieurs à ceux prévus dans la présente directive.
+
+Article 28 quater
+
+Exercice des pouvoirs de sanction
+
+1. Les États membres veillent à ce que les autorités compétentes, lorsqu’elles déterminent le type de sanctions ou de mesures administratives et leur niveau, tiennent compte de toutes les circonstances pertinentes, et notamment, le cas échéant:
+
+a) de la gravité et de la durée de l’infraction;
+
+b) du degré de responsabilité de la personne physique ou morale responsable;
+
+c) de la solidité financière de la personne physique ou morale responsable, par exemple telle qu’elle ressort du chiffre d’affaires total de la personne morale responsable ou des revenus annuels de la personne physique responsable;
+
+d) de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable, dans la mesure où ils peuvent être déterminés;
+
+e) des pertes subies par des tiers du fait de l’infraction, dans la mesure où ils peuvent être déterminés;
+
+f) du degré de coopération avec les autorités compétentes dont a fait preuve la personne physique ou morale responsable;
+
+g) des infractions antérieures commises par la personne physique ou morale responsable.
+
+2. Les données à caractère personnel recueillies dans le cadre ou aux fins de l’exercice des pouvoirs de surveillance et d’enquête conformément à la présente directive sont traitées conformément à la directive 95/46/CE et au règlement (CE) no 45/2001, le cas échéant.
+
+22) Le titre suivant est inséré avant l’article 29:
+
+«CHAPITRE VI *TER*
+
+**PUBLICATION DES DÉCISIONS**»
+
+23) L’article 29 est remplacé par le texte suivant:
+
+«Article 29
+
+Publication des décisions
+
+1. Les États membres prévoient que les autorités compétentes doivent publier dans les meilleurs délais chaque décision relative à des sanctions ou à des mesures imposées à la suite d’infractions à la présente directive, y compris au minimum des informations sur le type et la nature de l’infraction et l’identité des personnes physiques ou morales qui en sont responsables.
+
+Toutefois, les autorités compétentes peuvent reporter la publication d’une décision ou publier cette dernière de manière anonyme, en conformité avec le droit national, dans l’une quelconque des circonstances suivantes:
+
+a) dans le cas d’une sanction imposée à une personne physique, lorsqu’il ressort d’une évaluation préalable obligatoire du caractère proportionné d’une telle publication que la publication des données personnelles est disproportionnée;
+
+b) lorsque la publication perturberait gravement la stabilité du système financier ou une enquête officielle en cours;
+
+c) lorsque la publication causerait, pour autant que l’on puisse le déterminer, un préjudice disproportionné et grave aux institutions ou personnes physiques en cause.
+
+2. Si la décision publiée au titre du paragraphe 1 fait l’objet d’un recours, l’autorité compétente est tenue soit d’inclure cette information dans la publication au moment où celle-ci est effectuée soit de modifier la publication si le recours est formé après la publication initiale.»
+
+24) À l’article 31, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Lorsque les États membres prennent des mesures en vertu de l’article 3, paragraphe 1, de l’article 8, paragraphe 2 ou 3, ou de l’article 30, ils les communiquent sans délai à la Commission et aux autres États membres.»
+
+<a id="art_2"></a>
+
+### Article 2 — Modifications de la directive 2003/71/CE
+
+À l’article 2, paragraphe 1, de la directive 2003/71/CE, le point m) iii) est remplacé par le texte suivant:
+
+«iii) pour tous les émetteurs de valeurs mobilières non mentionnées au point ii), qui ont leur siège statutaire dans un pays tiers, l’État membre où les valeurs mobilières doivent être offertes pour la première fois au public après la date d’entrée en vigueur de la directive 2013/50/UE du Parlement européen et du Conseil du 22 octobre 2013 modifiant la directive 2004/109/CE du Parlement européen et du Conseil sur l’harmonisation des obligations de transparence concernant l’information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé, la directive 2003/71/CE du Parlement européen et du Conseil concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation et la directive 2007/14/CE de la Commission portant modalités d’exécution de certaines dispositions de la directive 2004/109/CE (25), ou celui où est effectuée la première demande d’admission à la négociation sur un marché réglementé, selon le choix de l’émetteur, de l’offreur ou de la personne qui sollicite l’admission à la négociation, selon le cas, sous réserve d’un choix ultérieur de la part des émetteurs ayant leur siège statutaire dans un État tiers, lorsque:
+
+— l’État membre d’origine n’avait pas été déterminé selon leur choix, ou
+
+— l’article 2, paragraphe 1, point i) iii), de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l’harmonisation des obligations de transparence concernant l’information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé (26) s’applique.
+
+<a id="art_3"></a>
+
+### Article 3 — Modifications de la directive 2007/14/CE
+
+La directive 2007/14/CE est modifiée comme suit:
+
+1) L’article 2 est supprimé.
+
+2) À l’article 11, les paragraphes 1 et 2 sont supprimés.
+
+3) L’article 16 est supprimé.
+
+<a id="art_4"></a>
+
+### Article 4 — Transposition
+
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive dans les 24 mois à compter de la date de son entrée en vigueur. Ils en informent immédiatement la Commission.
+
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.
+
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.
+
+<a id="art_5"></a>
+
+### Article 5 — Réexamen
+
+►C1 Au plus tard le 27 novembre 2018,** ◄ ** la Commission présente au Parlement européen et au Conseil un rapport sur l’application de la présente directive, y compris son impact sur les petits et moyens émetteurs, ainsi que sur l’application des sanctions, en particulier la question de savoir si elles sont effectives, proportionnées et dissuasives, et elle examine le fonctionnement et évalue l’efficacité de la méthode retenue pour calculer le nombre de droits de vote attachés aux instruments financiers visés à l’article 13, paragraphe 1 *bis*, premier alinéa, de la directive 2004/109/CE.
+
+Le rapport est accompagné, le cas échéant, d’une proposition législative.
+
+<a id="art_6"></a>
+
+### Article 6 — Entrée en vigueur
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.
+
+<a id="art_7"></a>
+
+### Article 7 — Destinataires
+
+Les États membres sont destinataires de la présente directive.
+
+(1) JO C 93 du 30.3.2012, p. 2.
+
+(2) JO C 143 du 22.5.2012, p. 78.
+
+(3) Position du Parlement européen du 12 juin 2013 (non encore parue au Journal officiel) et décision du Conseil du 17 octobre 2013.
+
+(4) JO L 390 du 31.12.2004, p. 38.
+
+(5) JO L 295 du 12.11.2010, p. 23.
+
+(6) JO L 182 du 29.6.2013, p. 19.
+
+(7) JO L 142 du 30.4.2004, p. 12.
+
+(8) JO L 331 du 15.12.2010, p. 84.
+
+(9) JO L 345 du 31.12.2003, p. 64.
+
+(10) JO L 69 du 9.3.2007, p. 27.
+
+(11) JO L 96 du 12.4.2003, p. 16.
+
+(12) JO L 184 du 14.7.2007, p. 17.
+
+(13) JO L 331 du 15.12.2010, p. 12.
+
+(14) JO L 331 du 15.12.2010, p. 48.
+
+(15) JO L 281 du 23.11.1995, p. 31.
+
+(16) JO L 8 du 12.1.2001, p. 1.
+
+(17) JO C 369 du 17.12.2011, p. 14.
+
+(18) JO L 142 du 30.4.2004, p. 12.»
+
+(19) JO L 331 du 15.12.2010, p. 84.»
+
+(20) JO L 182 du 29.6.2013, p. 19.»
+
+(21) JO L 177 du 30.6.2006, p. 201.»
+
+(22) JO L 336 du 23.12.2003, p. 33.»
+
+(23) JO L 156 du 16.6.2012, p. 1.»
+
+(24) JO L 294 du 6.11.2013, p. 13.»
+
+(25) JO L 294 du 6.11.2013, p. 13.
+
+(26) JO L 390 du 31.12.2004, p. 38.»

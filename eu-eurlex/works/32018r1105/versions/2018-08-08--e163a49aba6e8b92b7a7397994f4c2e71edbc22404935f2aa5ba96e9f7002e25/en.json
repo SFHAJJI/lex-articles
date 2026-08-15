@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2018/1105 of 8 August 2018 laying down implementing technical standards with regard to procedures and forms for the provision of information by competent authorities to ESMA under Regulation (EU) 2016/1011",
+  "valid_from": "2018-08-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1105/versions/2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25/en.xml",
+    "sha256": "88c3adf1e67a0a0cda2a7e565b8ce2e9a92a952e513a1fec40f2cd06a25caa9a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1105"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. To enable ESMA to establish and maintain the public register referred to in Article 36(1) of Regulation (EU) 2016/1011, competent authorities shall notify ESMA of the information listed in points (a), (c) and (d) of that Article, and of any change to that information, within five working days of the relevant decision.\n\n2. The relevant decision is whichever one of the following decisions by a competent authority gives rise to the obligation under Regulation (EU) 2016/1011 to notify ESMA of that particular information or change:\n\n| (a) | a decision to authorise or register an administrator pursuant to Article 34(6)(a) or (b) of Regulation (EU) 2016/1011; |\n| --- | --- |\n\n| (b) | a decision to withdraw or suspend the authorisation or registration of an administrator pursuant to Article 35(1) of that Regulation; |\n| --- | --- |\n\n| (c) | a decision to recognise an administrator located in a third country pursuant to Article 32(5) of that Regulation; |\n| --- | --- |\n\n| (d) | a decision to suspend or withdraw such recognition pursuant to Article 32(8) of that Regulation; |\n| --- | --- |\n\n| (e) | a decision to authorise the endorsement of a benchmark or family of benchmarks pursuant to Article 33(3) of that Regulation; |\n| --- | --- |\n\n| (f) | a decision to require the cessation of the endorsement of a benchmark or family of benchmarks pursuant to Article 33(6) of that Regulation. |\n| --- | --- |\n\nAny information or change to that information referred to in paragraph 1 shall be transmitted to ESMA using the ESMA's channel of communication that ensures that completeness, integrity and confidentiality of the information are maintained during the transmission.\n\n3. Competent authorities and ESMA shall agree on the information technology governing the submission of information to ESMA's website using the ESMA's channel of communication.",
+      "text_sha256": "f169f0c76cc79e6709c72eda253577fb44f6581435b654040a8370a8f6e3ba69",
+      "md_span": {
+        "start": 856,
+        "end": 2725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAny notification to be made to ESMA pursuant to Article 32(6) of Regulation (EU) 2016/1011 shall be made by an electronic means that is capable of ensuring the completeness, integrity and confidentiality of the data throughout the transmission process.",
+      "text_sha256": "54b367b226ed552769967017599588984c732601761cfcd8b16dbbd741f15817",
+      "md_span": {
+        "start": 2758,
+        "end": 3021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Any request by ESMA for information to be provided by a competent authority pursuant to Article 47(2) of Regulation (EU) 2016/1011, other than information covered by Articles 1 and 2 of this Regulation, shall be made using the form set out in Annex I to this Regulation.\n\n2. A competent authority from whom information is requested pursuant to Article 47(2) of Regulation (EU) 2016/1011 (‘the requested authority’) shall acknowledge receipt of the request within seven days of receipt of the request, using the form set out in Annex II to this Regulation.",
+      "text_sha256": "bd3849eaca6be11857980d6a2a014d9d74d98cc7773cbde193153134d6fb8aa4",
+      "md_span": {
+        "start": 3054,
+        "end": 3623
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The requested authority shall provide to ESMA the information requested, using the form set out in Annex III to this Regulation. The requested authority shall take all reasonable steps within its powers to obtain and provide the information requested. If the requested authority cannot provide the information by the estimated response date set out in its acknowledgement of receipt of the request for information, it shall notify ESMA without delay and provide a new estimated response date together with reasons why an extension is needed.\n\n2. The requested authority shall consult ESMA, where necessary, on any clarifications regarding the type of information requested and on the frequency of any updates that are required.",
+      "text_sha256": "fdcf8a4d21b4edb74770cf2de162623925a932e17b40c2e89fb747d9b14b92ff",
+      "md_span": {
+        "start": 3656,
+        "end": 4397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nAll requests for information, acknowledgements of receipt and replies to requests for information referred to in Articles 3 and 4 shall comply with the following rules:\n\n| (a) | they shall be in writing; |\n| --- | --- |\n\n| (b) | they shall be sent by post or fax, or by an electronic means that is capable of ensuring the completeness, integrity and confidentiality of the information throughout the transmission process; |\n| --- | --- |\n\n| (c) | they shall be addressed:(i)in the case of a request sent to a competent authority, to the contact person designated by the competent authority under Article 7;(ii)in the case of an acknowledgement of receipt or a reply sent to ESMA, to the contact point specified by ESMA in its request for information. |\n| --- | --- |\n| (i) | in the case of a request sent to a competent authority, to the contact person designated by the competent authority under Article 7; |\n| (ii) | in the case of an acknowledgement of receipt or a reply sent to ESMA, to the contact point specified by ESMA in its request for information. |",
+      "text_sha256": "7d2ca60c14962ddd90c5bd134701ad028d6057b64970a75b71d9fddcb508b568",
+      "md_span": {
+        "start": 4430,
+        "end": 5502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Competent authorities shall keep confidential the fact that a request for information has been issued under Article 47(2) of Regulation (EU) 2016/1011, the content of that request and any matter arising in the course of executing the request, in particular any consultations between ESMA and the competent authority in relation to the request.\n\n2. The competent authority may, however, disclose such facts or matters if either ESMA consents to the disclosure or disclosure is necessary for legal proceedings.",
+      "text_sha256": "d24453dde3e7817ea6ef9a65f75c8c1644d82ddb610f998a6d356b4a05294491",
+      "md_span": {
+        "start": 5535,
+        "end": 6057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nEach competent authority shall designate a contact person for the purposes of this Regulation, and communicate the name and contact details of that contact person to ESMA, within 30 days of the date of entry into force of this Regulation. Any subsequent changes in the designation or contact details of a contact person shall be communicated to ESMA without delay.",
+      "text_sha256": "0a022cf11815fea6be736d4b972604c1ddd1c2cecd778d5fe161d9bd4fcf6838",
+      "md_span": {
+        "start": 6090,
+        "end": 6465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32018r1105:2018-08-08--e163a49aba6e8b92b7a7397994f4c2e71edbc22404935f2aa5ba96e9f7002e25#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 29 October 2018.",
+      "text_sha256": "0d73f67d90ab6e211fbd4b90027f24ba21d4d3a388b32a411ffeb2b4af75a17c",
+      "md_span": {
+        "start": 6498,
+        "end": 6687
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

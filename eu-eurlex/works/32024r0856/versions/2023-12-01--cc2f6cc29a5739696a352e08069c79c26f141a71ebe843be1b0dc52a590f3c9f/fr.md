@@ -1,0 +1,167 @@
+---
+lex_id: 'eu-eurlex:32024r0856:2023-12-01--cc2f6cc29a5739696a352e08069c79c26f141a71ebe843be1b0dc52a590f3c9f'
+title: 'Commission Delegated Regulation (EU) 2024/856 of 1 December 2023 supplementing Directive 2013/36/EU'
+valid_from: '2023-12-01'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R0856'
+source_sha256: 'ec2614d58439abdf12b080611b08e4b542bc0ffd61558bbfc2bed8c846d760d2'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. Les six scénarios prudentiels de chocs visés à l’article 98, paragraphe 5, deuxième alinéa, point a), de la directive 2013/36/UE sont les suivants:
+
+| a) | choc parallèle vers le haut, correspondant à un déplacement parallèle vers le haut de la courbe des rendements avec le même choc positif de taux d’intérêt pour toutes les échéances; |
+| --- | --- |
+
+| b) | choc parallèle vers le bas, correspondant à un déplacement parallèle vers le bas de la courbe des rendements avec le même choc négatif de taux d’intérêt pour toutes les échéances; |
+| --- | --- |
+
+| c) | pentification de la courbe, correspondant à une accentuation de la pente de la courbe des rendements, avec des chocs négatifs de taux d’intérêt pour les échéances plus courtes et des chocs positifs de taux d’intérêt pour les échéances plus longues; |
+| --- | --- |
+
+| d) | aplatissement de la courbe, correspondant à une atténuation de la pente de la courbe des rendements, avec des chocs positifs de taux d’intérêt pour les échéances plus courtes et des chocs négatifs de taux d’intérêt pour les échéances plus longues; |
+| --- | --- |
+
+| e) | hausse des taux courts, avec des chocs positifs de taux d’intérêt plus importants pour les échéances plus courtes provoquant une convergence vers les valeurs de référence pour les échéances plus longues; |
+| --- | --- |
+
+| f) | baisse des taux courts, avec des chocs négatifs de taux d’intérêt plus importants pour les échéances plus courtes provoquant une convergence vers les valeurs de référence pour les échéances plus longues. |
+| --- | --- |
+
+2. Les deux scénarios prudentiels de chocs visés à l’article 98, paragraphe 5, deuxième alinéa, point b), de la directive 2013/36/UE sont les suivants:
+
+| a) | choc parallèle vers le haut, correspondant à un déplacement parallèle vers le haut de la courbe des rendements avec le même choc positif de taux d’intérêt pour toutes les échéances; |
+| --- | --- |
+
+| b) | choc parallèle vers le bas, correspondant à un déplacement parallèle vers le bas de la courbe des rendements avec le même choc négatif de taux d’intérêt pour toutes les échéances. |
+| --- | --- |
+
+3. Les établissements déterminent les scénarios prudentiels de chocs visés aux paragraphes 1 et 2 sur la base des chocs de taux d’intérêt relatifs aux devises figurant dans la partie A de l’annexe ou, pour les devises qui n’y figurent pas, sur la base de chocs de taux d’intérêt calibrés conformément à la partie B de l’annexe.
+
+Les établissements effectuent le calibrage des chocs de taux d’intérêt conformément à la partie B de l’annexe au moins tous les cinq ans.
+
+4. Les scénarios prudentiels de choc visés aux paragraphes 1 et 2 s’appliquent individuellement à l’exposition des établissements au risque de taux d’intérêt inhérent aux activités hors portefeuille de négociation pour chacune des devises dans lesquelles l’établissement détient des positions pertinentes, c’est-à-dire lorsque la valeur comptable des actifs ou passifs financiers libellés dans cette devise atteint l’une des valeurs suivantes:
+
+| a) | 5 % ou plus du total des actifs ou passifs financiers hors portefeuille de négociation; |
+| --- | --- |
+
+| b) | moins de 5 % du total des actifs ou passifs financiers hors portefeuille de négociation si la somme des actifs ou passifs financiers inclus dans le calcul est inférieure à 90 % du total des actifs (à l’exclusion des actifs corporels) ou passifs financiers hors portefeuille de négociation. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Étant donné, pour chaque devise c, l’ampleur définie des chocs parallèles, courts et longs sur le taux d’intérêt «sans risque», les six scénarios prudentiels de chocs sont paramétrés comme suit:
+
+| 1) | Choc parallèle pour la devise c: Un choc parallèle constant à la hausse ou à la baisse pour tous les intervalles de temps: |
+| --- | --- |
+
+| 2) | Choc de taux court pour la devise c:où tk est le point médian (dans le temps) dukth intervalle temporel. |
+| --- | --- |
+
+| 3) | Choc de taux long pour la devise c: |
+| --- | --- |
+
+| 4) | Choc de rotation pour la devise c:; |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Les établissements prennent en compte dans le calcul des produits d’intérêts nets les hypothèses de modélisation et hypothèses paramétriques communes précisés aux paragraphes 2 à 10.
+
+2. Les établissements incluent dans le calcul de la valeur économique de leurs fonds propres:
+
+| a) | toutes les positions hors portefeuille de négociation relatives à des instruments sensibles aux taux d’intérêt; |
+| --- | --- |
+
+| b) | les petites activités du portefeuille de négociation au sens de l’article 94, paragraphe 1, du règlement (UE) no 575/2013 du Parlement européen et du Conseil (5), à moins que leur risque de taux d’intérêt ne soit pris en compte dans une autre mesure de risque; |
+| --- | --- |
+
+| c) | les options automatiques et comportementales; |
+| --- | --- |
+
+| d) | les actifs des obligations de pension et du fonds de pension, à moins que leur risque de taux d’intérêt ne soit pris en compte dans une autre mesure de risque; |
+| --- | --- |
+
+| e) | les flux de trésorerie provenant des instruments sensibles aux taux d’intérêt, y compris les remboursements du principal, les révisions des taux du principal et les versements d’intérêts liés; |
+| --- | --- |
+
+| f) | les taux d’intérêt plafond et plancher spécifiques aux instruments. |
+| --- | --- |
+
+Aux fins du point c), les établissements adaptent les principales hypothèses de modélisation du comportement des instruments sensibles aux taux d’intérêt aux caractéristiques des différents scénarios de taux d’intérêt en tenant compte des seuils de proportionnalité et d’importance significative fixés à l’article 8, paragraphe 10, à l’article 9, paragraphe 2, à l’article 10, paragraphe 4, à l’article 12, paragraphe 2, et à l’article 23, paragraphe 1, du règlement délégué (UE) 2023/857 de la Commission (6);
+
+3. Tous fonds propres de base de catégorie 1 et les autres fonds propres permanents sans date d’appel sont exclus du calcul.
+
+4. Les établissements ayant un ratio d’expositions non performantes (NPE) de 2 % ou plus considèrent les NPE comme des instruments sensibles au taux d’intérêt généraux dont la modélisation devrait tenir compte des flux de trésorerie attendus et de leur calendrier. Les expositions non performantes sont incluses, déduction faite des provisions. À cette fin, les expositions non performantes sont constituées par les titres de créance, prêts et avances classés comme non performants conformément à l’article 47 bis, paragraphe 3, du règlement (UE) n °575/2013, et le ratio d’expositions non performantes est calculé comme étant le montant des expositions non performantes divisé par le montant brut total des titres de créance, prêts et avances calculé au niveau de l’établissement.
+
+5. Le traitement des marges commerciales et autres composantes de marge dans les versements d’intérêts, s’agissant de leur exclusion des flux de trésorerie ou de leur inclusion dans les flux de trésorerie, est conforme à la méthode interne de gestion et de mesure de l’établissement pour le risque de taux d’intérêt hors portefeuille de négociation. Si les marges commerciales et autres composantes de marge sont exclues, les établissements:
+
+| a) | utilisent une méthode transparente pour identifier le taux d’intérêt sans risque à la création de chaque instrument; |
+| --- | --- |
+
+| b) | utilisent une méthode qui s’applique de la même façon d’une unité opérationnelle à l’autre; |
+| --- | --- |
+
+| c) | veillent à ce que l’exclusion des marges commerciales et autres composantes de marge des flux de trésorerie soit cohérente avec leurs méthodes de gestion et de couverture du risque de taux d’intérêt inhérent aux activités hors portefeuille de négociation; |
+| --- | --- |
+
+| d) | notifient cette exclusion à l’autorité compétente. |
+| --- | --- |
+
+6. La variation de la valeur économique des fonds propres est calculée sur la base de l’hypothèse d’un bilan en extinction, dans laquelle les positions existantes viennent à échéance et ne sont pas remplacées.
+
+7. Pour chaque devise, il y a lieu d’appliquer un plancher de taux d’intérêt post-choc lié à l’échéance commençant à -150 points de base pour les échéances immédiates. Ce plancher doit être augmenté de 3 points de base par an, pour atteindre finalement 0 % pour les échéances de 50 ans et plus. Lorsque le taux d’intérêt observé est inférieur au plancher post-choc, les établissements appliquent le taux d’intérêt observé.
+
+8. Lors du calcul de la variation agrégée pour chaque scénario de choc de taux d’intérêt, les établissements additionnent toutes les variations négatives et positives dans chaque devise. Les devises autres que la monnaie de déclaration sont converties dans la monnaie de déclaration au taux de change au comptant de la Banque centrale européenne à la date de référence. Les variations positives sont pondérées par un facteur de 50 % ou de 80 % dans le cas des devises participant au mécanisme de taux de change — MCE II dont la marge de fluctuation fixée officiellement est plus étroite que la marge normale de ± 15 %. Les gains pondérés sont comptabilisés jusqu’à concurrence de la plus élevée des deux valeurs suivantes: a) la valeur absolue des variations négatives de l’euro ou des devises du MCE II et b) le résultat de l’application d’un facteur de 50 % aux variations positives des devises du MCE II ou de l’euro, respectivement.
+
+9. Pour l’actualisation, une courbe générale des rendements «sans risque» appropriée par devise est appliquée. Cette courbe de rendement ne doit pas inclure d’écarts de crédit ou de liquidité spécifiques à un instrument, à un secteur ou à une entité.
+
+10. Pour évaluer le risque des produits sensibles aux taux d’intérêt qui sont liés à l’inflation ou à d’autres facteurs de marché, des hypothèses prudentes sont appliquées. Ces hypothèses sont fondées sur la valeur actuelle/la dernière valeur observée, sur les prévisions d’un institut de recherche économique réputé ou sur d’autres pratiques de marché généralement admises et sont généralement indépendantes des scénarios.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Les établissements prennent en compte dans le calcul des produits d’intérêts nets les hypothèses de modélisation et hypothèses paramétriques communes prévues à l’article 3, paragraphes 2, 3, 4 et 7 à 10. En outre, les établissements prennent en compte dans le calcul des produits d’intérêts nets les hypothèses de modélisation et hypothèses paramétriques communes prévues aux paragraphes 2 à 4 du présent article.
+
+2. Les établissements tiennent compte, dans leurs calculs, des produits d’intérêts et des charges d’intérêts sur une période d’un an, indépendamment de l’échéance et du traitement comptable des instruments hors portefeuille de négociation sensibles aux taux d’intérêt concernés.
+
+3. Les établissements incluent dans leurs calculs les marges commerciales et les autres composantes de marge.
+
+4. Les établissements calculent la variation des produits d’intérêts nets sur la base d’une hypothèse de bilan constant, dans laquelle la taille et la composition du bilan, y compris les éléments hors bilan, sont maintenues en remplaçant les instruments dont les flux de trésorerie arrivent à échéance ou à révision des taux par de nouveaux instruments présentant des caractéristiques comparables en termes de devise, de montant et de période de révision des taux pour les instruments générant des flux de trésorerie soumis à révision. Les marges des nouveaux instruments sont fondées sur les marges de produits récemment achetés ou vendus et présentant des caractéristiques similaires. Dans le cas des instruments dont les prix sont observables sur le marché, il convient d’utiliser des écarts de marché récents et non des écarts de marché historiques.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Une baisse importante aux fins de l’article 98, paragraphe 5, deuxième alinéa, point b), de la directive 2013/36/UE est définie, pour un établissement donné, comme une baisse de ses produits d’intérêts nets à un an dépassant 5 % de ses fonds propres de catégorie 1 et résultant d’une variation soudaine et inattendue des taux d’intérêt telle qu’envisagée dans l’un des deux scénarios prudentiels de chocs visés à l’article 1er, paragraphe 2.
+
+2. Une baisse importante au sens du paragraphe 1 est calculée sur la base de la formule suivante:
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

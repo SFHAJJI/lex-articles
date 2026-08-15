@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r2260:2021-12-15--38d4f4b1f26bb367ab0610ee442f7190dc1d7169f846bf45226b01fba30e847a",
+  "language": "en",
+  "title": "Regulation (EU) 2021/2260",
+  "valid_from": "2021-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r2260/versions/2021-12-15--38d4f4b1f26bb367ab0610ee442f7190dc1d7169f846bf45226b01fba30e847a/en.xml",
+    "sha256": "71274b9301c59e485582bab5f509a8909d6b5219d645ce42136a39cbd8d6c34d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2260"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r2260:2021-12-15--38d4f4b1f26bb367ab0610ee442f7190dc1d7169f846bf45226b01fba30e847a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnexes A and B to Regulation (EU) 2015/848 are replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "b489789fc8a6ebb60b323ae3e6d85ca162e620272a68508ee2b2ca1a81bc1125",
+      "md_span": {
+        "start": 636,
+        "end": 756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r2260:2021-12-15--38d4f4b1f26bb367ab0610ee442f7190dc1d7169f846bf45226b01fba30e847a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 789,
+        "end": 940
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12006e251:1992-02-07--8d17d1ace944cb252890b93914a97011678ef44b471883736082e57e7d51ac54",
+  "language": "fr",
+  "title": "Treaty establishing the European Community (consolidated version)#Part Five - Institutions…",
+  "valid_from": "1992-02-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12006e251/versions/1992-02-07--8d17d1ace944cb252890b93914a97011678ef44b471883736082e57e7d51ac54/fr.html",
+    "sha256": "a322c2a0e4fde16a53ae1482828ea02d566730f7e10148aab066246f16000e4e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12006E251"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12006e251:1992-02-07--8d17d1ace944cb252890b93914a97011678ef44b471883736082e57e7d51ac54#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 12006E251 Traité instituant la Communauté européenne (Version consolidée) - Cinquième partie - Les institutions de la Communauté - TITRE I - Dispositions institutionnelles - Chapitre 2 - Dispositions communes à plusieurs institutions - Article 251 Journal officiel n° C 321 E du 29/12/2006 p. 0153 - 0155 Journal officiel n° C 325 du 24/12/2002 p. 0133 - version consolidée Journal officiel n° C 340 du 10/11/1997 p. 0279 - version consolidée Journal officiel n° C 224 du 31/08/1992 p. 0066 - version consolidée Article 2511. Lorsque, dans le présent traité, il est fait référence au présent article pour l’adoption d’un acte, la procédure suivante est applicable.2. La Commission présente une proposition au Parlement européen et au Conseil.Le Conseil, statuant à la majorité qualifiée, après avis du Parlement européen:- s’il approuve tous les amendements figurant dans l’avis du Parlement européen, peut arrêter l’acte proposé ainsi amendé,- si le Parlement européen ne propose aucun amendement, peut arrêter l’acte proposé,- dans les autres cas, arrête une position commune et la transmet au Parlement européen. Le Conseil informe pleinement le Parlement européen des raisons qui l’ont conduit à arrêter sa position commune. La Commission informe pleinement le Parlement européen de sa position.Si, dans un délai de trois mois après cette transmission, le Parlement européen:a) approuve la position commune ou ne s’est pas prononcé, l’acte concerné est réputé arrêté conformément à cette position commune;b) rejette, à la majorité absolue des membres qui le composent, la position commune, l’acte proposé est réputé non adopté;c) propose, à la majorité absolue des membres qui le composent, des amendements à la position commune, le texte ainsi amendé est transmis au Conseil et à la Commission, qui émet un avis sur ces amendements.3. Si, dans un délai de trois mois après réception des amendements du Parlement européen, le Conseil, statuant à la majorité qualifiée, approuve tous ces amendements, l’acte concerné est réputé arrêté sous la forme de la position commune ainsi amendée; toutefois, le Conseil statue à l’unanimité sur les amendements ayant fait l’objet d’un avis négatif de la Commission. Si le Conseil n’approuve pas tous les amendements, le président du Conseil, en accord avec le président du Parlement européen, convoque le comité de conciliation dans un délai de six semaines.4. Le comité de conciliation, qui réunit les membres du Conseil ou leurs représentants et autant de représentants du Parlement européen, a pour mission d’aboutir à un accord sur un projet commun à la majorité qualifiée des membres du Conseil ou de leurs représentants et à la majorité des représentants du Parlement européen. La Commission participe aux travaux du comité de conciliation et prend toutes les initiatives nécessaires en vue de promouvoir un rapprochement des positions du Parlement européen et du Conseil. Pour s’acquitter de sa mission, le comité de conciliation examine la position commune sur la base des amendements proposés par le Parlement européen.5. Si, dans un délai de six semaines après sa convocation, le comité de conciliation approuve un projet commun, le Parlement européen et le Conseil disposent chacun d’un délai de six semaines à compter de cette approbation pour arrêter l’acte concerné conformément au projet commun, à la majorité absolue des suffrages exprimés lorsqu’il s’agit du Parlement européen et à la majorité qualifiée lorsqu’il s’agit du Conseil. En l’absence d’approbation par l’une ou l’autre des deux institutions dans le délai visé, l’acte proposé est réputé non adopté.6. Lorsque le comité de conciliation n’approuve pas de projet commun, l’acte proposé est réputé non adopté.7. Les délais de trois mois et de six semaines visés au présent article sont prolongés respectivement d’un mois et de deux semaines au maximum à l’initiative du Parlement européen ou du Conseil.--------------------------------------------------",
+      "text_sha256": "32b22dcda6129ae1865481f09446327f2fcb735ec5e53970786e9257d0fd6df2",
+      "md_span": {
+        "start": 713,
+        "end": 4711
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

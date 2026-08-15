@@ -1,0 +1,257 @@
+---
+lex_id: 'eu-eurlex:32017r0583:2026-03-02--5beea5ea2bbf9e1054047d48122099c44860998801b04bbf23f84968254800b0'
+title: 'Commission Delegated Regulation (EU) 2017/583 of 14 July 2016 supplementing Regulation (EU) No 600/2014'
+valid_from: '2026-03-02'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R0583-20260302'
+source_sha256: '0dc79fa625aae6183fcad3ea0ab0df184ce50d5e5f70f7b8351caf74ae766f2d'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPITRE I — DÉFINITIONS
+
+<a id="art_1"></a>
+
+### Article premier
+
+Aux fins du présent règlement, on entend par:
+
+1) «système de négociation à carnet central d’ordres à cours limité»: l’un des systèmes suivants: a) un système de négociation à carnet d’ordres en continu qui, au moyen d’un carnet d’ordres et d’un algorithme de négociation fonctionnant sans intervention humaine, apparie en continu ordres de vente et ordres d’achat sur la base du meilleur prix disponible; b) un système de négociation présentant à la fois des éléments d’un système de négociation à carnet d’ordres en continu, tel que visé au point a), et des éléments d’un système de négociation à enchères périodiques, tel que défini au point 2);
+
+2) «système de négociation à enchères périodiques»: un système de négociation qui apparie les ordres sur la base d’enchères périodiques et d’un algorithme de négociation fonctionnant sans intervention humaine.
+
+<a id="art_1a"></a>
+
+### Article premier bis — Champ d’application des articles 3, 6, 8, 9, 10, 11 et 13
+
+**1.** Les articles 3, 6, 9, 10, 11 et 13 ne s’appliquent qu’aux instruments dérivés. L’article 8 ne s’applique qu’aux instruments dérivés et aux paquets de transactions.
+
+**2.** Les références à l’article 11 du règlement (UE) no 600/2014 dans les articles 8 et 11 du présent règlement s’entendent comme des références à l’article 11 du règlement (UE) no 600/2014 tel qu’applicable avant le 28 mars 2024.
+
+## CHAPITRE II — TRANSPARENCE PRÉNÉGOCIATION POUR LES MARCHÉS RÉGLEMENTÉS, LES SYSTÈMES MULTILATÉRAUX DE NÉGOCIATION ET LES SYSTÈMES ORGANISÉS DE NÉGOCIATION
+
+<a id="art_2"></a>
+
+### Article 2
+
+Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation rendent publics la fourchette des prix acheteurs et vendeurs et l’importance des intentions de négociation exprimées à ces prix, conformément au type de système de négociation qu’ils exploitent et aux obligations d’information établies à l’annexe I.
+
+<a id="art_3"></a>
+
+### Article 3
+
+Un ordre est d’une taille élevée par rapport à la taille normale de marché si, au moment où l’ordre est passé ou à la suite d’une modification de l’ordre, il est de taille égale ou supérieure à la taille minimale de l’ordre déterminée conformément à la méthode fixée à l’article 13.
+
+<a id="art_3a"></a>
+
+### Article 3 bis
+
+Un ordre portant sur des obligations, des produits financiers structurés ou des quotas d’émission est de taille élevée par rapport à la taille normale de marché si, au moment où il est passé ou à la suite d’une modification qui lui est apportée, il est supérieur ou égal aux seuils suivants:
+
+a) pour tous les types d’obligations, à l’exception des *exchange traded commodities* (ETC) et des *exchange traded notes* (ETN), les seuils fixés dans le tableau 2.3 de l’annexe III;
+
+b) pour les ETC et les ETN, les seuils fixés dans le tableau 2.5 de l’annexe III;
+
+c) pour les produits financiers structurés, les seuils fixés dans le tableau 3.2 de l’annexe III;
+
+d) pour les quotas d’émission, les seuils fixés dans le tableau 12.2 de l’annexe III.
+
+<a id="art_4"></a>
+
+### Article 4
+
+**1.** Le type d’ordre placé dans un système de gestion des ordres d’une plate-forme de négociation en attendant la divulgation pour lequel des dérogations aux obligations en matière de transparence prénégociation peuvent être accordées est un ordre qui:a) est destiné à être divulgué dans le carnet d’ordres géré par la plate-forme de négociation et dépend de conditions objectives définies à l’avance par les protocoles du système;b) n’interagit pas avec d’autres intentions de négociation avant la divulgation au carnet d’ordres géré par la plate-forme de négociation;c) une fois divulgué au carnet d’ordres, interagit avec d’autres ordres conformément aux règles applicables aux ordres de ce type au moment de la divulgation.
+
+**2.** La taille minimale des ordres placés dans un système de gestion des ordres d’une plate-forme de négociation en attendant la divulgation pour lesquels des dérogations aux obligations en matière de transparence prénégociation peuvent être accordées est, au moment où l’ordre est passé et à la suite de toute modification, l’une des suivantes:a) dans le cas d’un ordre iceberg, supérieure ou égale à 10 000 EUR;b) pour tous les autres ordres, une taille supérieure ou égale à la quantité minimale négociable fixée au préalable par l’opérateur du système conformément à ses règles et protocoles.
+
+**3.** Un ordre iceberg, visé au paragraphe 2, point a), est considéré comme un ordre à cours limité consistant en un ordre divulgué relatif à une partie de la quantité et en un ordre non divulgué relatif au reste de la quantité si la quantité non divulguée peut être exécutée uniquement après son intégration au carnet d’ordres en tant que nouvel ordre divulgué.
+
+**4.** Aux fins du paragraphe 2, point a), la taille des ordres placés dans un système de gestion des ordres est mesurée par le montant notionnel des contrats négociés, tel que visé à l’annexe II, tableau 2, champ 10.
+
+<a id="art_6"></a>
+
+### Article 6
+
+Un instrument financier ou une catégorie d’instruments financiers sont considérés comme n’ayant pas de marché liquide si cela est déterminé conformément à la méthode établie à l’article 13.
+
+<a id="art_6a"></a>
+
+### Article 6 bis
+
+Pour déterminer si une obligation, un produit financier structuré ou un quota d’émission doit être considéré comme dépourvu de marché liquide, les autorités compétentes appliquent le mode de détermination statique de la liquidité suivant:
+
+a) pour tous les types d’obligations, à l’exception des ETC et des ETN, le mode de détermination prévu dans le tableau 2.2 de l’annexe III;
+
+b) pour les ETC et les ETN, le mode de détermination prévu dans le tableau 2.4 de l’annexe III;
+
+c) pour les produits financiers structurés, le mode de détermination prévu dans le tableau 3.1 de l’annexe III;
+
+d) pour les quotas d’émission, le mode de détermination prévu dans le tableau 12.1 de l’annexe III.
+
+## CHAPITRE III — TRANSPARENCE POSTNÉGOCIATION POUR LES PLATES-FORMES DE NÉGOCIATION ET LES ENTREPRISES D’INVESTISSEMENT OPÉRANT EN DEHORS D’UNE PLATE-FORME DE NÉGOCIATION
+
+<a id="art_7"></a>
+
+### Article 7
+
+**1.** Les entreprises d’investissement opérant en dehors des règles d’une plate-forme de négociation et les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation rendent publiques, pour chaque transaction, les informations prévues dans les tableaux 1 et 2 de l’annexe II et utilisent chaque code signalétique applicable indiqué dans le tableau 3 de l’annexe II.
+
+Les noms des champs prévus dans le tableau 2 de l’annexe II sont publiés selon les mêmes conventions de dénomination que celles retenues pour les intitulés de champs dudit tableau.
+
+**2.** Lorsqu’un rapport de négociation précédemment publié est supprimé, les entreprises d’investissement opérant en dehors d’une plate-forme de négociation et les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation rendent public un nouveau rapport de négociation contenant toutes les informations du rapport de négociation d’origine et le code signalétique pour les transactions annulées spécifié dans le tableau 3 de l’annexe II.
+
+**3.** Lorsqu’un rapport de négociation précédemment publié est modifié, les entreprises d’investissement opérant en dehors d’une plate-forme de négociation et les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation rendent publiques les informations suivantes:a) un nouveau rapport de négociation contenant toutes les informations du rapport d’opération d’origine et la marque de suppression spécifiée dans le tableau 3 de l’annexe II;b) un nouveau rapport de négociation contenant toutes les informations du rapport de négociation d’origine et toutes les informations corrigées nécessaires et le code signalétique pour les transactions modifiées spécifié dans le tableau 3 de l’annexe II.
+
+**4.** Les informations post-négociation sont mises à disposition dans un délai aussi proche du temps réel que le permettent les moyens techniques et, en tout état de cause, dans les cinq minutes suivant l’exécution de la transaction concernée.
+
+**7.** Les entreprises d’investissement prennent toutes les mesures raisonnables pour veiller à ce que la transaction soit rendue publique en tant que transaction unique. À cette fin, deux transactions correspondantes saisies simultanément et pour le même prix avec une partie unique interposée sont considérées comme une seule transaction.
+
+**8.** Les informations concernant un paquet de transactions incluent le code signalétique pour les paquets de transactions, ou le code signalétique pour les échanges physiques pour contrats, indiqués dans le tableau 3 de l’annexe II. Si le paquet de transactions peut bénéficier d’une publication différée conformément à l’article 8, les informations relatives à tous ses éléments sont mises à disposition après l’expiration de la période de report de la publication accordée pour ce paquet de transactions.
+
+<a id="art_8"></a>
+
+### Article 8
+
+**1.** Si une autorité compétente autorise la publication différée des informations sur des transactions en vertu de l’article 11, paragraphe 1, du règlement (UE) no 600/2014, les entreprises d’investissement opérant en dehors d’une plate-forme de négociation et les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation rendent publique chaque transaction au plus tard à 19 h 00, heure locale, le deuxième jour ouvrable suivant la date de la transaction, à condition que l’un ou l’autre des critères suivants soit satisfait:a) la transaction est de taille élevée par rapport à la taille normale de marché, comme précisé à l’article 9;b) la transaction concerne un instrument financier ou une catégorie d’instruments financiers pour lesquels il n’existe pas de marché liquide, comme déterminé conformément à la méthode établie à l’article 13;c) la transaction est exécutée entre une entreprise d’investissement opérant pour compte propre autrement que par négociation par appariement avec interposition du compte propre conformément à l’article 4, paragraphe 1, point 38), de la directive 2014/65/UE du Parlement européen et du Conseil (1) et une autre contrepartie, et sa taille est supérieure à la taille spécifique à l’instrument comme précisé à l’article 10;d) la transaction est une transaction groupée répondant à l’un des critères suivants:i) une ou plusieurs de ses composantes sont des transactions sur des instruments financiers qui n’ont pas de marché liquide;ii) une ou plusieurs de ses composantes sont des transactions sur des instruments financiers de taille élevée par rapport à la taille normale de marché telle que déterminée par l’article 9;iii) la transaction est exécutée entre une entreprise d’investissement opérant pour compte propre autrement que par négociation par appariement avec interposition du compte propre conformément à l’article 4, paragraphe 1, point 38), de la directive 2014/65/UE et une autre contrepartie, et une ou plusieurs de ses composantes sont des transactions sur des instruments financiers de taille supérieure à la taille spécifique à l’instrument comme précisé à l’article 10.
+
+**2.** À l’expiration du délai de report fixé au paragraphe 1, toutes les informations sur la transaction sont publiées, excepté si un report supplémentaire ou indéfini est accordé conformément à l’article 11.
+
+**3.** Si une transaction entre deux entreprises d’investissement, que ce soit pour compte propre ou pour le compte de clients, est exécutée en dehors des règles d’une plate-forme de négociation, l’autorité compétente aux fins de la détermination du régime de report applicable est l’autorité compétente de l’entreprise d’investissement chargée de rendre la transaction publique au moyen d’un dispositif de publication agréé conformément aux paragraphes 5, 6 et 7 de l’article 7.
+
+<a id="art_8a"></a>
+
+### Article 8 bis
+
+**1.** Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation et les entreprises d’investissement opérant en dehors d’une plate-forme de négociation peuvent différer la publication des détails des transactions portant sur des obligations, à l’exception des ETC et des ETN, conformément aux dispositions suivantes:a) un report de la publication du prix et un report de la publication du volume ne dépassant pas 15 minutes, pour les transactions relevant de la catégorie 1 d’après le tableau 2.6 de l’annexe III;b) un report de la publication du prix et un report de la publication du volume ne dépassant pas la fin de la journée de négociation, pour les transactions relevant de la catégorie 2 d’après le tableau 2.6 de l’annexe III;c) un report de la publication du prix ne dépassant pas la fin de la première journée de négociation suivant la date de la transaction et un report de la publication du volume ne dépassant pas une semaine à compter de la date de la transaction, pour les transactions relevant de la catégorie 3 d’après le tableau 2.6 de l’annexe III;d) un report de la publication du prix ne dépassant pas la fin de la deuxième journée de négociation suivant la date de la transaction et un report de la publication du volume ne dépassant pas deux semaines à compter de la date de la transaction, pour les transactions relevant de la catégorie 4 d’après le tableau 2.6 de l’annexe III;e) un report de la publication du prix et un report de la publication du volume ne dépassant pas quatre semaines à compter de la date de la transaction, pour les transactions relevant de la catégorie 5 d’après le tableau 2.6 de l’annexe III.
+
+**2.** Les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation, ainsi que les entreprises d’investissement opérant en dehors d’une plate-forme de négociation, peuvent différer la publication des détails des transactions en ce qui concerne les ETC, les ETN et les produits financiers structurés, conformément aux dispositions suivantes:a) un report de la publication du prix ne dépassant pas la fin de la deuxième journée de négociation suivant la date de la transaction, quelle que soit la taille de la transaction; etb) un report de la publication du volume ne dépassant pas deux semaines à compter de la date de la transaction, quelle que soit la taille de la transaction.
+
+**3.** Les opérateurs de marché et entreprises d’investissement exploitant une plate-forme de négociation, ainsi que les entreprises d’investissement opérant en dehors d’une plate-forme de négociation, rendent publique chaque transaction portant sur des quotas d’émission au plus tard à 19 h 00, heure locale, le deuxième jour ouvrable suivant la date de la transaction, dès lors que la transaction est de taille supérieure à la taille post-négociation indiquée pour les quotas d’émission dans le tableau 12.2 de l’annexe III.
+
+<a id="art_9"></a>
+
+### Article 9
+
+Une transaction est considérée comme étant de taille élevée par rapport à la taille normale de marché lorsqu’elle est égale ou supérieure à la taille minimale de transaction, calculée conformément à la méthode établie à l’article 13.
+
+<a id="art_10"></a>
+
+### Article 10
+
+Une transaction est considérée comme étant de taille supérieure à la taille spécifique à l’instrument financier lorsqu’elle est égale ou supérieure à la taille minimale de transaction, calculée conformément à la méthode établie à l’article 13.
+
+<a id="art_11"></a>
+
+### Article 11
+
+**1.** Si les autorités compétentes exercent leurs pouvoirs en conjonction avec une autorisation de publication différée conformément à l’article 11, paragraphe 3, du règlement (UE) no 600/2014, les conditions suivantes s’appliquent:a) si l’article 11, paragraphe 3, point a), du règlement (UE) no 600/2014 s’applique, les autorités compétentes demandent la publication de l’une ou l’autre des informations suivantes pendant toute la période de report établie à l’article 8:i) toutes les informations sur une transaction indiquées dans les tableaux 1 et 2 de l’annexe II, à l’exception des informations concernant le volume;ii) les transactions sous forme d’agrégats quotidiens pour un minimum de 5 transactions exécutées le même jour, devant être rendues publiques le jour ouvrable suivant avant 9 h 00, heure locale.b) si l’article 11, paragraphe 3, point b), du règlement (UE) no 600/2014 s’applique, les autorités compétentes autorisent l’omission de la publication du volume d’une transaction individuelle pour une période supplémentaire de quatre semaines;c) en ce qui concerne les instruments autres que des actions et instruments assimilés qui ne constituent pas de la dette souveraine et si l’article 11, paragraphe 3, point c), du règlement (UE) no 600/2014 s’applique, les autorités compétentes autorisent, pour une période de report supplémentaire de quatre semaines, la publication le mardi suivant, avant 9 h 00, heure locale, de l’agrégation de plusieurs transactions exécutées dans le courant d’une même semaine calendaire.▼M4 —————▼B
+
+**2.** À l’expiration de la période de report supplémentaire fixée au paragraphe 1, point b), les obligations suivantes s’appliquent:a) en ce qui concerne tous les instruments qui ne sont pas des titres de dette souveraine, la publication de l’ensemble des informations pour toutes les transactions individuelles, le jour ouvrable suivant, avant 9 h 00, heure locale.▼M4 —————▼B
+
+**3.** En ce qui concerne tous les instruments qui ne sont pas des titres de dette souveraine, toutes les informations des transactions individuelles sont publiées quatre semaines après la publication des informations agrégées conformément au paragraphe 1, point c), avant 9 h 00, heure locale.
+
+**4.** Les données quotidiennes ou hebdomadaires agrégées visées aux paragraphes 1 et 2 contiennent les informations suivantes concernant les instruments dérivés, pour chaque jour ou semaine de la période calendaire concernée:a) le prix moyen pondéré;b) le volume total négocié tel que visé au tableau 4 de l’annexe II;c) le nombre total de transactions.
+
+**5.** Les transactions sont agrégées par code ISIN. Lorsque le code ISIN n’est pas disponible, les transactions sont agrégées au niveau de la catégorie d’instruments financiers à laquelle s’applique le test de liquidité visé à l’article 13.
+
+**6.** Si les jours de publication prévus au paragraphe 1, point c), et aux paragraphes 2 et 3 ne sont pas des jours ouvrables, les publications sont effectuées le jour ouvrable suivant, avant 9 h 00, heure locale.
+
+<a id="art_11a"></a>
+
+### Article 11 bis
+
+**1.** La publication des détails de plusieurs transactions sous une forme agrégée prévue par l’article 11, paragraphe 3, point b), du règlement (UE) no 600/2014 couvre les transactions qui ont été exécutées au cours d’une même semaine civile et est effectuée le mardi suivant avant 9 h 00, heure locale.
+
+**2.** Les données hebdomadaires agrégées visées au paragraphe 1 contiennent les informations suivantes pour chaque semaine de la période calendaire concernée:a) le prix moyen pondéré;b) le volume total négocié tel que visé au tableau 4 de l’annexe II;c) le nombre total de transactions.3. Les transactions sont agrégées par code ISIN.4. Si le jour de publication prévu au paragraphe 1 n’est pas un jour ouvrable, la publication est effectuée le jour ouvrable suivant, avant 9 h 00, heure locale.
+
+<a id="art_12"></a>
+
+### Article 12
+
+Les obligations énoncées à l’article 21, paragraphe 1, du règlement (UE) no 600/2014 ne s’appliquent pas aux transactions énumérées à l’article 2, paragraphe 5, du règlement délégué (UE) 2017/590 de la Commission (2).
+
+## CHAPITRE IV — DISPOSITIONS COMMUNES À LA TRANSPARENCE PRÉ- ET POSTNÉGOCIATION
+
+<a id="art_13"></a>
+
+### Article 13
+
+**1.** Pour déterminer les instruments financiers ou les catégories d’instruments financiers pour lesquels il n’existe pas de marché liquide aux fins de l’article 6 et de l’article 8, paragraphe 1, point b), les méthodes suivantes s’appliquent aux catégories d’actifs:a) Une détermination statique de la liquidité pour:i) la catégorie d’actifs des instruments dérivés titrisés tels que définis dans le tableau 4.1 de l’annexe III;ii) les sous-catégories d’actifs d’instruments dérivés sur action suivantes: options sur indice boursier, contrats à terme (futures/forwards) sur indice boursier, actions, contrats à terme sur actions, options sur dividende, contrats à terme sur dividende, options basées sur indice de dividende, contrats à terme basés sur indice de dividende, options sur indice de volatilité, contrats à terme sur indice de volatilité, options sur fonds cotés (ETF), contrats à terme sur fonds cotés et autres instruments dérivés sur actions tels que définis dans le tableau 6.1 de l’annexe III;iii) la catégorie d’actifs des dérivés de change tels que définie dans le tableau 8.1 de l’annexe III;▼M4iv) les sous-catégories d’actifs «Autres dérivés de taux d’intérêt», «Autres dérivés sur matières premières», «Autres dérivés de crédit», «Autres dérivés C10», «Autres CFD», et «Autres dérivés sur quotas d’émission» définies dans les tableaux 5.1, 7.1, 9.1, 10.1, 11.1 et 13.1 de l’annexe III.▼Bb) Une évaluation périodique basée sur des critères de liquidité quantitatifs et, le cas échéant, qualitatifs pour:▼M4 —————▼Biii) la catégorie d’actifs des dérivés de taux d’intérêt, à l’exception de la sous-catégorie d’actifs des autres dérivés de taux d’intérêt tels que définis dans le tableau 5.1 de l’annexe III;iv) les sous-catégories d’actifs d’instruments dérivés sur action suivantes: les contrats d’échange (swaps) et swaps de portefeuille tels que définis dans le tableau 6.1 de l’annexe III;v) la catégorie d’actifs des dérivés sur matières premières, à l’exception de la sous-catégorie d’actifs des autres dérivés sur matières premières tels que définis dans le tableau 7.1 de l’annexe III;vi) les sous-catégories d’actifs d’instruments dérivés de crédit suivantes: CDS indiciels et CDS mono-émetteur tels que définis dans le tableau 9.1 de l’annexe III;vii) la catégorie d’actifs des dérivés C10, à l’exception de la sous-catégorie d’actifs des autres dérivés C10 tels que définis dans le tableau 10.1 de l’annexe III;viii) les sous-catégories d’actifs de contrats financiers pour différences suivantes: les contrats financiers pour différences sur devises et contrats financiers pour différences sur matières premières tels que définis dans le tableau 11.1 de l’annexe III;▼M4 —————▼Bx) la catégorie d’actifs des dérivés de quotas d’émission, à l’exception de la sous-catégorie d’actifs des autres dérivés de quotas d’émission tels que définis dans le tableau 13.1 de l’annexe III.c) Une évaluation périodique basée sur des critères de liquidité qualitatifs pour:i) les sous-catégories d’actifs d’instruments dérivés de crédit suivantes: les options sur indices de CDS et options sur CDS mono-émetteurs telles que définies dans le tableau 9.1 de l’annexe III;ii) les sous-catégories d’actifs de contrats financiers pour différences suivantes: contrats financiers pour différences sur actions, contrats financiers pour différences sur obligations, contrats financiers pour différences sur contrat à terme sur actions et contrats financiers pour différences sur une option sur action, tels que définis dans le tableau 11.1 de l’annexe III.▼M4 —————▼B
+
+**2.** ►M4 Pour déterminer quels ordres sont de taille élevée par rapport à la taille normale de marché au sens de l’article 3, les méthodes suivantes s’appliquent:** ◄ **a) la valeur seuil pour:▼M4 —————▼Bii) la catégorie d’actifs des instruments dérivés titrisés tels que définis dans le tableau 4.2 de l’annexe III;iii) chaque subdivision de dérivés d’actions tels que définis dans les tableaux 6.2 et 6.3 de l’annexe III;iv) chaque subdivision de dérivés de change tels que définis dans le tableau 8.2 de l’annexe III;v) chaque subdivision considérée comme n’ayant pas de marché liquide pour les catégories d’actifs des dérivés de taux d’intérêt, dérivés sur matières premières, dérivés de crédit, dérivés C10 et contrats financiers pour différences tels que définis dans les tableaux 5.3, 7.3, 9.3, 10.3 et 11.3 de l’annexe III;▼M4vi) chaque sous-catégorie d’actifs considérée comme n’ayant pas de marché liquide pour la catégorie d’actifs «Dérivés sur quotas d’émission» du tableau 13.3 de l’annexe III.▼M4 —————▼Bb) ►M4 la taille de transaction en dessous de laquelle se trouve le pourcentage de transactions correspondant au percentile transactions, ou le seuil plancher, selon celle de ces valeurs qui est la plus élevée, pour:** ◄ **▼M4 —————▼Bii) chaque subdivision ayant un marché liquide pour les catégories d’actifs des dérivés de taux d’intérêt, dérivés sur matières premières, dérivés de crédit, dérivés C10 et contrats financiers pour différences tels que définis dans les tableaux 5.2, 7.2, 9.2, 10.2 et 11.2 de l’annexe III;▼M4iii) chaque sous-catégorie d’actifs ayant un marché liquide pour la catégorie d’actifs «Dérivés sur quotas d’émission» du tableau 13.2 de l’annexe III;▼M4 —————▼B
+
+**3.** Pour déterminer la taille spécifique à l’instrument financier visée à l’article 8, paragraphe 1, point c), et les transactions de taille élevée par rapport à la taille normale de marché visées à l’article 8, paragraphe 1, point a), les méthodes suivantes s’appliquent:a) la valeur seuil pour:▼M4 —————▼Bii) la catégorie d’actifs des instruments dérivés titrisés tels que définis dans le tableau 4.2 de l’annexe III;iii) chaque subdivision de dérivés d’actions tels que définis dans les tableaux 6.2 et 6.3 de l’annexe III;iv) chaque subdivision de dérivés de change tels que définis dans le tableau 8.2 de l’annexe III;v) chaque subdivision considérée comme n’ayant pas de marché liquide pour les catégories d’actifs des dérivés de taux d’intérêt, dérivés sur matières premières, dérivés de crédit, dérivés C10 et contrats financiers pour différences tels que définis dans les tableaux 5.3, 7.3, 9.3, 10.3 et 11.3 de l’annexe III;▼M4vi) chaque sous-catégorie d’actifs considérée comme n’ayant pas de marché liquide pour la catégorie d’actifs «Dérivés sur quotas d’émission» du tableau 13.3 de l’annexe III;▼M4 —————▼Bc) la taille de transaction en dessous de laquelle se trouve le pourcentage de transactions correspondant au percentile transactions, la taille de transaction en dessous de laquelle se trouve le pourcentage de volume correspondant au percentile volumes ou le seuil plancher, selon celle de ces valeurs qui est la plus élevée, pour chaque subdivision considérée comme ayant un marché liquide pour les catégories d’actifs des dérivés de taux d’intérêt, dérivés de matière première, dérivés de crédit, dérivés C10 et contrats financiers pour différences, comme prévu dans les tableaux 5.2, 7.2, 9.2, 10.2 et 11.2 de l’annexe III;▼M4d) la taille de transaction en dessous de laquelle se trouve le pourcentage de transactions correspondant au percentile transactions, ou le seuil plancher, selon celle de ces valeurs qui est la plus élevée, pour chaque sous-catégorie d’actifs considérée comme ayant un marché liquide parmi les dérivés sur quotas d’émission visés au tableau 13.2 de l’annexe III.▼B
+
+**4.** Aux fins du paragraphe 3, point c), si la taille de la transaction correspondant au percentile volumes pour déterminer si la transaction comme étant de taille élevée par rapport à la taille normale de marché est supérieure à un percentile transactions de 97,5, le volume des transactions n’est pas pris en compte; la taille spécifique à l’instrument financier visée à l’article 8, paragraphe 1, point c), et la taille de transaction élevée par rapport à la taille normale de marché visée à l’article 8, paragraphe 1, point a), sont déterminées comme étant la taille de transaction en dessous de laquelle se trouve le pourcentage de transactions correspondant au percentile transactions ou le seuil plancher, selon celle de ces valeurs qui est la plus élevée.
+
+**5.** Conformément aux règlements délégués (UE) 2017/590 et (UE) 2017/577, les autorités compétentes collectent, chaque jour, les données provenant des plates-formes de négociation, des dispositifs de publication agréés et des systèmes consolidés de publication qui sont nécessaires pour réaliser les calculs permettant de déterminer:a) les instruments financiers et catégories d’instruments financiers qui n’ont pas de marché liquide tel qu’établi au paragraphe 1;▼M4b) les tailles élevées par rapport à la taille normale de marché et la taille spécifique à l’instrument financier telles qu’établies au paragraphe 3.
+
+Les données visées au premier alinéa sont collectées conformément à l’annexe V.
+
+**6.** Les autorités compétentes qui réalisent les calculs pour une catégorie d’instruments financiers établissent des accords de coopération entre elles afin de garantir l’agrégation dans l’ensemble de l’Union des données nécessaires aux calculs.
+
+**7.** Aux fins du paragraphe 1, point b), du paragraphe 2, point b), et du paragraphe 3, points c) et d), les autorités compétentes prennent en compte les transactions exécutées dans l’Union entre le 1er janvier et le 31 décembre de l’année précédente.
+
+**8.** Aux fins du paragraphe 2, point b), et du paragraphe 3, points c) et d), la taille de transaction est déterminée à partir de la mesure du volume indiqué dans le tableau 4 de l’annexe II. Si la taille de transaction déterminée aux fins des paragraphes 2 et 3 est exprimée en valeur monétaire et si l’instrument financier n’est pas libellé en euros, la taille de la transaction est convertie dans la monnaie dans laquelle cet instrument financier est libellé, en appliquant le taux de change de référence de l’euro de la Banque centrale européenne au 31 décembre de l’année précédente.
+
+**9.** Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation peuvent convertir les tailles de transactions déterminées conformément aux paragraphes 2 et 3 en un nombre d’unités de négociation correspondant, défini au préalable par cette plate-forme de négociation pour la subdivision ou la sous-catégorie d’actifs concernée. Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation peuvent conserver ces tailles de transactions jusqu’à l’application des résultats des calculs suivants réalisés conformément au paragraphe 17.
+
+**11.** Aux fins des déterminations prévues aux paragraphes 2 et 3, lorsque le nombre de transactions prises en considération pour les calculs est inférieur à 1 000 , le paragraphe 2, point b), et le paragraphe 3, points c) et d), ne s’appliquent pas. Dans ce cas, ce sont les valeurs seuils spécifiées au paragraphe 2, point a), et au paragraphe 3, point a), qui s’appliquent à la place.
+
+**12.** ►M4 Excepté quand ils se réfèrent à des dérivés sur quotas d’émission, les calculs visés au paragraphe 2, point b), et au paragraphe 3, point c), sont arrondis vers le haut aux prochains:** ◄ **a) 100 000 lorsque la valeur seuil est inférieure à 1 million;b) 500 000 lorsque la valeur seuil est égale ou supérieure à 1 million mais inférieure à 10 millions;c) 5 millions lorsque la valeur seuil est égale ou supérieure à 10 millions mais inférieure à 100 millions;d) 25 millions lorsque la valeur seuil est égale ou supérieure à 100 millions.
+
+**13.** Aux fins du paragraphe 1, le critère de liquidité quantitative précisé pour chaque catégorie d’actifs à l’annexe III est déterminé conformément à la section 1 de l’annexe III.
+
+**14.** Pour les dérivés d’actions admis à la négociation ou négociés pour la première fois sur une plate-forme de négociation qui n’appartiennent pas à une subdivision pour laquelle la taille spécifique à l’instrument financier visée à l’article 8, paragraphe 1, point c), et la taille des ordres et transactions élevée par rapport à la taille normale de marché visée à l’article 3 et à l’article 8, paragraphe 1, point a), ont été publiées et qui appartiennent à une des sous-catégories d’actifs spécifiées au paragraphe 1, point a), ii), la taille spécifique à l’instrument financier et la taille des ordres et transactions élevée par rapport à la taille normale de marché sont celles applicables à la fourchette la plus basse de montants notionnels quotidiens moyens de la sous-catégorie d’actifs à laquelle appartient le dérivé d’actions.
+
+**15.** Les instruments financiers admis à la négociation ou négociés pour la première fois sur une plate-forme de négociation qui n’appartiennent pas à une subdivision pour laquelle la taille spécifique à l’instrument financier visée à l’article 8, paragraphe 1, point c), et la taille des ordres et transactions élevée par rapport à la taille normale de marché visée à l’article 3 et à l’article 8, paragraphe 1, point a), ont été publiées ont été publiées sont considérés comme n’ayant pas un marché liquide jusqu’à l’application des résultats des calculs réalisés conformément au paragraphe 17. La taille spécifique à l’instrument financier applicable mentionnée à l’article 8, paragraphe 1, point c), et la taille des ordres et transactions élevée par rapport à la taille normale de marché visée à l’article 3 et à l’article 8, paragraphe 1, point a), sont celles des subdivisions définies comme n’ayant pas de marché liquide qui appartiennent à la même sous-catégorie d’actifs.
+
+**16.** Après la fin de la journée de cotation mais avant la fin de la journée, les plates-formes de négociation soumettent aux autorités compétentes les informations précisées à l’annexe IV afin de réaliser les calculs visés au paragraphe 5, à chaque fois que l’instrument financier est admis à la négociation ou négocié pour la première fois sur cette plate-forme de négociation ou à chaque fois que les informations précédemment fournies ont changé.
+
+**17.** Les autorités compétentes veillent à la publication des résultats des calculs visés au paragraphe 5 pour chaque instrument financier et catégorie d’instruments financiers au plus tard le 30 avril de l’année suivant la date d’entrée en application du règlement (UE) no 600/2014 et au plus tard le 30 avril de chaque année par la suite. Les résultats des calculs s’appliquent à partir du premier lundi du mois de juin de l’année de leur publication et jusqu’à la veille du premier lundi de juin de l’année suivante.
+
+<a id="art_14"></a>
+
+### Article 14
+
+Une transaction est considérée comme conclue par un membre du Système européen de banques centrales (SEBC) en exécution d’une politique monétaire, de change ou de stabilité financière lorsque la transaction respecte l’une des conditions suivantes:
+
+a) la transaction est réalisée aux fins de la politique monétaire, y compris toute opération réalisée conformément aux articles 18 et 20 des statuts du Système européen de banques centrales et de la Banque centrale européenne joints au traité sur l’Union européenne ou toute opération réalisée en vertu de dispositions nationales équivalentes pour les membres du SEBC établis dans des États membres dont la monnaie n’est pas l’euro;
+
+b) la transaction est une opération de change, notamment les opérations réalisées pour constituer ou gérer des réserves de change officielles des États membres ou le service de gestion des réserves fourni par un membre du SEBC aux banques centrales dans d’autres pays, auxquelles l’exemption a été étendue conformément à l’article 1er, paragraphe 9, du règlement (UE) no 600/2014;
+
+c) la transaction est réalisée aux fins d’une politique de stabilité financière.
+
+<a id="art_15"></a>
+
+### Article 15
+
+L’article 1er, paragraphe 6, du règlement (UE) no 600/2014 ne s’applique pas aux types de transactions suivants, conclues par un membre du SEBC dans l’exécution d’une opération d’investissement qui n’est pas liée à l’exécution par ce même membre d’une des missions visées à l’article 14:
+
+a) transactions conclues pour la gestion de ses fonds propres;
+
+b) transactions conclues à des fins administratives ou au bénéfice du personnel du membre du SEBC, notamment les transactions réalisées en qualité d’administrateur d’un régime de pension pour son personnel;
+
+c) transactions conclues pour son propre portefeuille d’investissements en vertu d’obligations établies par le droit national.
+
+<a id="art_16"></a>
+
+### Article 16
+
+**1.** Pour les instruments financiers pour lesquels il existe un marché liquide, comme déterminé selon la méthode établie à l’article 6 *bis* pour les obligations, les produits financiers structurés et les quotas d’émission, ou selon la méthode établie à l’article 13 pour les instruments dérivés, les autorités compétentes peuvent temporairement suspendre les obligations prévues aux articles 8, 8 *bis* et 10 du règlement (UE) no 600/2014 si, pour une catégorie d’obligations, de produits financiers structurés, de quotas d’émission ou d’instruments dérivés, le volume total au sens du tableau 4 de l’annexe II calculé pour les 30 jours calendaires précédents représente moins de 40 % du volume mensuel moyen calculé pour les 12 mois calendaires pleins précédant ces 30 jours calendaires.
+
+**2.** Pour les instruments financiers pour lesquels il n’existe pas de marché liquide, comme déterminé selon la méthode établie à l’article 6 *bis* pour les obligations, les produits financiers structurés et les quotas d’émission, ou selon la méthode établie à l’article 13 pour les instruments dérivés, les autorités compétentes peuvent temporairement suspendre les obligations prévues aux articles 8, 8 *bis* et 10 du règlement (UE) no 600/2014 si, pour une catégorie d’obligations, de produits financiers structurés, de quotas d’émission ou d’instruments dérivés, le volume total tel que défini dans le tableau 4 de l’annexe II calculé pour les 30 jours calendaires précédents représente moins de 20 % du volume mensuel moyen calculé pour les 12 mois calendaires pleins précédant ces 30 jours calendaires.
+
+**3.** Pour les calculs visés aux paragraphes 1 et 2, les autorités compétentes prennent en compte les transactions exécutées sur toutes les plates-formes de négociation dans l’Union pour la catégorie d’obligations, produits financiers structurés, quotas d’émission ou instruments dérivés concernée. Les autorités compétentes réalisent ces calculs au niveau de la catégorie d’instruments financiers à laquelle est appliqué le test de liquidité prévu à l’article 6 *bis* pour les obligations, les produits financiers structurés et les quotas d’émission, et à l’article 13 pour les instruments dérivés.
+
+**4.** Avant de suspendre les obligations de transparence, les autorités compétentes vérifient que la baisse importante de la liquidité sur l’ensemble des plates-formes de négociation n’est pas le résultat d’effets saisonniers de la catégorie d’instruments financiers sur la liquidité.
+
+<a id="art_19"></a>
+
+### Article 19 — Entrée en vigueur et application
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.
+
+Il s’applique à partir 3 janvier 2018. Toutefois, l’article 18 s’applique à partir de la date d’entrée en vigueur du présent règlement.

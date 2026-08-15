@@ -1,0 +1,93 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0395:2026-02-23--d571f5b71383e54cec90fa3141f325d807450b984e74115c31ca857cee2805a3",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2026/395 of 23\u00A0February 2026 amending the regulatory …",
+  "valid_from": "2026-02-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0395/versions/2026-02-23--d571f5b71383e54cec90fa3141f325d807450b984e74115c31ca857cee2805a3/en.xml",
+    "sha256": "73847af767d6243fde857d3a910a7ac2caa152e4faebb0d87cac2f3869be1862",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0395"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0395:2026-02-23--d571f5b71383e54cec90fa3141f325d807450b984e74115c31ca857cee2805a3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n| (1) | The following Articles 11a and 11b are inserted:‘Article 11aInformation accessible on European Single Access PointFor the purposes of Article 21a of Regulation (EU) 2017/1129, competent authorities may make the information referred to in Article 21a(1) accessible on European Single Access Point (ESAP) by providing ESMA via the notification portal referred to in Article 25(6) of that Regulation with an electronic copy of that information, and the data necessary for its classification in the storage mechanism referred to in Article 21(6) of Regulation (EU) 2017/1129, in accordance with the tables set out in Annex VII to this Regulation.Article 11bElectronic copy of exemption documentsCompetent authorities may provide ESMA via the notification portal referred to in Article 25(6) of Regulation (EU) 2017/1129 with an electronic copy of the documents referred to in Article 1(4), points (da) and (db), and Article 1(5), point (ba), of Regulation (EU) 2017/1129 for the analysis referred to in Article 47(3), point (a), of that Regulation.’; |\n| --- | --- |\n\n| (2) | Article 12 is replaced by the following:‘Article 12Practical arrangements to ensure the machine readability of the dataThe competent authority shall provide the accompanying data referred to in Articles 11, 11a and 11b in a common XML format and in accordance with the format and standards set out in the tables in Annex VII.’; |\n| --- | --- |\n\n| (3) | the following Chapter VIa is inserted:‘CHAPTER VIaDOCUMENTS FOR INCORPORATION BY REFERENCE INTO A PROSPECTUS AS REFERRED TO IN ARTICLE 19 OF REGULATION (EU) 2017/1129Article 21aIn addition to the documents set out in Article 19(1) of Regulation (EU) 2017/1129, the following documents may be incorporated by reference into a prospectus:(a)documents which have been approved by a competent authority, or filed with it, in accordance with Directive 2003/71/EC of the European Parliament and of the Council(*1);(b)pre-issuance disclosures for issuers of bonds marketed as environmentally sustainable or of sustainability-linked bonds as referred to in Article 20 of Regulation (EU) 2023/2631 of the European Parliament and of the Council(*2).(*1) Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64, ELI: http://data.europa.eu/eli/dir/2003/71/oj).\" (*2) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as environmentally sustainable and for sustainability-linked bonds (OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj).’;\" () Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64, ELI: http://data.europa.eu/eli/dir/2003/71/oj).() Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as environmentally sustainable and for sustainability-linked bonds (OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj).’; |\n| --- | --- |\n| (a) | documents which have been approved by a competent authority, or filed with it, in accordance with Directive 2003/71/EC of the European Parliament and of the Council(*1); |\n| (b) | pre-issuance disclosures for issuers of bonds marketed as environmentally sustainable or of sustainability-linked bonds as referred to in Article 20 of Regulation (EU) 2023/2631 of the European Parliament and of the Council(*2). |\n\n| (4) | Annex VII is replaced by the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "4e34e0b54521ee7cb2f5cee9cc685a746ebd006237616571632928e8f87a6896",
+      "md_span": {
+        "start": 702,
+        "end": 4628
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_202600395EN.000101-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntr*2-L_202600395EN.000101-E0009",
+          "text": "(*2)"
+        },
+        {
+          "href": "#ntc*1-L_202600395EN.000101-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2003_345_R_TOC",
+          "text": "OJ L 345, 31.12.2003, p. 64"
+        },
+        {
+          "href": "http://data.europa.eu/eli/dir/2003/71/oj",
+          "text": "http://data.europa.eu/eli/dir/2003/71/oj"
+        },
+        {
+          "href": "#ntc*2-L_202600395EN.000101-E0009",
+          "text": "(*2)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/2631/oj",
+          "text": "OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj"
+        },
+        {
+          "href": "#ntc-",
+          "text": "()"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0395:2026-02-23--d571f5b71383e54cec90fa3141f325d807450b984e74115c31ca857cee2805a3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nArticle 1, points (1), (2) and (4), however, shall apply from 10 July 2026.",
+      "text_sha256": "0ec5cc06ac21cfb579368eabcd044f95847461aa856e672462c35e2a1348f690",
+      "md_span": {
+        "start": 4661,
+        "end": 4889
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-1965-03-06-n1",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,21 +11,21 @@
         "valid_from": "2007-10-01",
         "valid_to": "2015-05-31",
         "text_sha256": "fd704a6da4528e343c40489026a5139e191396d1147f22d566e9f09dda1cd27d",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
         "article_valid_from": "2007-10-01"
       },
       {
         "valid_from": "2015-06-01",
         "valid_to": "2023-10-23",
         "text_sha256": "7b666651bbe70c2204e2e4170e4f81613b884f00ef09af4734f0b80dafa8df35",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2015-06-01",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2015-06-01--17a40df59d289e0694fe4a9146dc2989f8a811ac9e9639f94621e72defa50bb2",
         "article_valid_from": "2015-06-01"
       },
       {
         "valid_from": "2023-10-24",
         "valid_to": null,
         "text_sha256": "9bff89baff831105bf66db152a59b4f4e1782d788f2a4020f1e6a54db934f21f",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24--b9c1ecc0414bdbac9092e8dfab03bc1e78dd2e82c72ada1dec7e8e8fbb4703cd",
         "article_valid_from": "2023-10-24"
       }
     ],
@@ -34,7 +34,7 @@
         "valid_from": "2007-10-01",
         "valid_to": null,
         "text_sha256": "0a9d3ec841cf5f8ea73ecf2e04391d3905823b5462dd10908f998910c045eaf2",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
         "article_valid_from": "2007-10-01"
       }
     ],
@@ -43,7 +43,7 @@
         "valid_from": "2007-10-01",
         "valid_to": "2023-10-23",
         "text_sha256": "cfc670c092dc81f0af284bd9dc9d496d7b45e29c4e7cbb5dac7777c1b1c1d0c1",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
         "article_valid_from": "1965-03-26",
         "validity_conflict": true
       },
@@ -51,7 +51,7 @@
         "valid_from": "2023-10-24",
         "valid_to": null,
         "text_sha256": "7f32f0a4d481e201e23d432f3ea39caad9ba6f27d4e160d6c39a2fd84bafbb87",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24--b9c1ecc0414bdbac9092e8dfab03bc1e78dd2e82c72ada1dec7e8e8fbb4703cd",
         "article_valid_from": "2023-10-24"
       }
     ],
@@ -60,7 +60,7 @@
         "valid_from": "2007-10-01",
         "valid_to": null,
         "text_sha256": "c2d304dc7844f1d8b482a15727fd9a9254a3555b59b5b3c300511d6b6724d66e",
-        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+        "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
         "article_valid_from": "1965-03-26",
         "validity_conflict": true
       }
@@ -74,21 +74,21 @@
           "valid_from": "2007-10-01",
           "valid_to": "2015-05-31",
           "text_sha256": "fd704a6da4528e343c40489026a5139e191396d1147f22d566e9f09dda1cd27d",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
           "article_valid_from": "2007-10-01"
         },
         {
           "valid_from": "2015-06-01",
           "valid_to": "2023-10-23",
           "text_sha256": "7b666651bbe70c2204e2e4170e4f81613b884f00ef09af4734f0b80dafa8df35",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2015-06-01",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2015-06-01--17a40df59d289e0694fe4a9146dc2989f8a811ac9e9639f94621e72defa50bb2",
           "article_valid_from": "2015-06-01"
         },
         {
           "valid_from": "2023-10-24",
           "valid_to": null,
           "text_sha256": "9bff89baff831105bf66db152a59b4f4e1782d788f2a4020f1e6a54db934f21f",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24--b9c1ecc0414bdbac9092e8dfab03bc1e78dd2e82c72ada1dec7e8e8fbb4703cd",
           "article_valid_from": "2023-10-24"
         }
       ],
@@ -97,7 +97,7 @@
           "valid_from": "2007-10-01",
           "valid_to": null,
           "text_sha256": "0a9d3ec841cf5f8ea73ecf2e04391d3905823b5462dd10908f998910c045eaf2",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
           "article_valid_from": "2007-10-01"
         }
       ],
@@ -106,7 +106,7 @@
           "valid_from": "2007-10-01",
           "valid_to": "2023-10-23",
           "text_sha256": "cfc670c092dc81f0af284bd9dc9d496d7b45e29c4e7cbb5dac7777c1b1c1d0c1",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
           "article_valid_from": "1965-03-26",
           "validity_conflict": true
         },
@@ -114,7 +114,7 @@
           "valid_from": "2023-10-24",
           "valid_to": null,
           "text_sha256": "7f32f0a4d481e201e23d432f3ea39caad9ba6f27d4e160d6c39a2fd84bafbb87",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2023-10-24--b9c1ecc0414bdbac9092e8dfab03bc1e78dd2e82c72ada1dec7e8e8fbb4703cd",
           "article_valid_from": "2023-10-24"
         }
       ],
@@ -123,7 +123,7 @@
           "valid_from": "2007-10-01",
           "valid_to": null,
           "text_sha256": "c2d304dc7844f1d8b482a15727fd9a9254a3555b59b5b3c300511d6b6724d66e",
-          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01",
+          "in_version": "lu-legilux:loi-1965-03-06-n1:2007-10-01--af10eede580530ce3f0de67e95db72c9386e2a25437f65d0fa4d9ede4c9d7497",
           "article_valid_from": "1965-03-26",
           "validity_conflict": true
         }

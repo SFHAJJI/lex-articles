@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031",
+  "language": "fr",
+  "title": "Council Directive 2000/65/EC of 17 October 2000 amending Directive 77/388/EEC as regards t…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32000l0065/versions/2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031/fr.html",
+    "sha256": "3c3ad7531942d881ea7a81782fc3b45d5546607ed0e923a1efc3cf58b1fb6694",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000L0065-20070101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2000L0065 — FR — 01.01.2007 — 001.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B DIRECTIVE 2000/65/CE DU CONSEIL du 17 octobre 2000 modifiant la directive 77/388/CEE en ce qui concerne la détermination du redevable de la taxe sur la valeur ajoutée (JO L 269, 21.10.2000, p.44) abrogé par: Journal officiel n° page date Directive 2006/112/CE du Conseil du 28 novembre 2006 L 347 1 11.12.2006",
+      "text_sha256": "20bef02f211bab52118ea83d732c90223f2b14390f2c2fcbde5f7a3964633756",
+      "md_span": {
+        "start": 724,
+        "end": 1173
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

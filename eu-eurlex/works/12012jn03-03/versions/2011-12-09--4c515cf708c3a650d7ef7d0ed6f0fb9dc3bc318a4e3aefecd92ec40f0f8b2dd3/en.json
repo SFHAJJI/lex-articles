@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012jn03-03:2011-12-09--4c515cf708c3a650d7ef7d0ed6f0fb9dc3bc318a4e3aefecd92ec40f0f8b2dd3",
+  "language": "en",
+  "title": "Act concerning the conditions of accession of the Republic of Croatia and the adjustments …",
+  "valid_from": "2011-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012jn03-03/versions/2011-12-09--4c515cf708c3a650d7ef7d0ed6f0fb9dc3bc318a4e3aefecd92ec40f0f8b2dd3/en.xml",
+    "sha256": "e739df911080286510822bad33948be41c5df23755c4feb12c751bba0e59ab99",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012JN03%2F03"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012jn03-03:2011-12-09--4c515cf708c3a650d7ef7d0ed6f0fb9dc3bc318a4e3aefecd92ec40f0f8b2dd3#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "24.4.2012 EN Official Journal of the European Union L 112/6 ANNEX III List referred to in Article 15 of the Act of Accession: adaptations to acts adopted by the institutions 3. FINANCIAL SERVICES 32006 L 0048: Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (recast) (OJ L 177, 30.6.2006, p. 1). In Article 2, the following is inserted after the entry for France: ‘— in Croatia, the “kreditne unije” and the “Hrvatska banka za obnovu i razvitak”,’.",
+      "text_sha256": "ce37dc414bb276ea6673583dea04d45f9aeb7d53caa99a8ad1e650656db2ed58",
+      "md_span": {
+        "start": 721,
+        "end": 1281
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

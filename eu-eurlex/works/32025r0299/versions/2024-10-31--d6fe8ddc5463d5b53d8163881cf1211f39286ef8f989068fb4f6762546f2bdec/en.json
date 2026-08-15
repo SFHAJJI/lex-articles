@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/299 of 31\u00A0October 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0299/versions/2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec/en.xml",
+    "sha256": "cd472401ad942e988b34570d9a847c7a772e605d7537ae7f6a7bd38dc2a08ab2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0299"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (a) | ‘critical or important function’ means a critical or important function as defined in Article 3, point (22), of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (b) | ‘permissionless distributed ledger’ means a specific type of distributed ledger in which no entity controls the distributed ledger and DLT network nodes can be set up by any person complying with the technical requirements and the protocols of that distributed ledger. |\n| --- | --- |",
+      "text_sha256": "b87c9b5077f33fc7cb9779acce3cf6d0c13df7ec80303eddba13ecf791e1e6a9",
+      "md_span": {
+        "start": 715,
+        "end": 1259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The business continuity policy referred to in Article 68(7) of Regulation (EU) 2023/1114 shall be comprised of plans, procedures and measures.\n\n2. The management body of crypto-asset service providers, in the exercise of its functions referred to in Article 68(6) of Regulation (EU) 2023/1114, shall establish and endorse the plans, procedures, and measures that comprise the business continuity policy. The crypto-asset service provider’s management body shall be responsible for the implementation of the business continuity policy, and for reviewing its effectiveness at least on an annual basis.\n\n3. Crypto-asset service providers shall ensure that any modifications to the business continuity policy are transmitted to all relevant internal staff through effective communication channels.",
+      "text_sha256": "427be1c46d31560c458497aee845a57044c3bf9ed0e476680f3dddc7fa52abcb",
+      "md_span": {
+        "start": 1292,
+        "end": 2099
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The business continuity policy referred to in Article 68(7) of Regulation (EU) 2023/1114 shall ensure that crypto-asset service providers properly address disruptive incidents or performance issues relating to the systems critical to the operation of their business functions and it shall be laid down in a durable medium.\n\n2. Crypto-asset service providers shall include in the business continuity policy all of the following:\n\n| (a) | a specification of the scope of the business continuity policy, including its limitations and exclusions, to be covered by the business continuity plans, procedures, and measures; |\n| --- | --- |\n\n| (b) | a description of the criteria to activate the business continuity plans, including escalation procedures up to the level of the management body; |\n| --- | --- |\n\n| (c) | provisions on the governance and organisation of the crypto-asset service provider, including, the roles and responsibilities of the staff, ensuring that sufficient resources are available for the effective implementation of the policy; |\n| --- | --- |\n\n| (d) | provisions that ensure consistency between the business continuity plans and the ICT-business continuity plans, and ICT response and recovery plans referred to in Articles 24 and 26 of Delegated Regulation (EU) 2024/1774. |\n| --- | --- |",
+      "text_sha256": "a419170641f30aef643c1f687b974a9d4cc41f323ab03201fa5bbf3bfdfb6775",
+      "md_span": {
+        "start": 2132,
+        "end": 3457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. When implementing the business continuity policy referred to in Article 68(7) of Regulation (EU) 2023/1114, crypto-asset service providers shall establish business continuity plans. The business continuity plans shall set out the procedures necessary to protect and, where necessary, re-establish:\n\n| (a) | the confidentiality, integrity, and availability of client data; |\n| --- | --- |\n\n| (b) | the availability of the business functions, supporting processes and information assets of the crypto-asset service providers. |\n| --- | --- |\n\n2. The business continuity plans shall contain the following:\n\n| (a) | a range of possible adverse scenarios relating to the operation of critical or important functions, including the unavailability of business functions, staff, workspace, external suppliers, data centres, or loss or alteration of critical data and documents; |\n| --- | --- |\n\n| (b) | the procedures and policies to be followed in case of a disruptive incident, including:(i)the measures that are necessary to recover critical or important functions;(ii)the deadlines by which those critical or important functions are to be recovered;(iii)recovery point objectives;(iv)the maximum time to resume services; |\n| --- | --- |\n| (i) | the measures that are necessary to recover critical or important functions; |\n| (ii) | the deadlines by which those critical or important functions are to be recovered; |\n| (iii) | recovery point objectives; |\n| (iv) | the maximum time to resume services; |\n\n| (c) | the procedures and policies for relocating the business functions used to provide crypto-asset services to a back-up site; |\n| --- | --- |\n\n| (d) | back-up of critical business data, including up-to-date information of the necessary contacts to ensure communication inside the crypto-asset service provider, between the crypto-asset service provider and its clients; |\n| --- | --- |\n\n| (e) | procedures for timely communications with clients and other external stakeholders, including competent authorities. |\n| --- | --- |\n\n3. In the event of a disruption involving a permissionless distributed ledger used by the crypto asset service provider in the provision of its services, the communications referred to in paragraph 2, point (e) shall include the following information:\n\n| (a) | when the services are expected to be resumed; |\n| --- | --- |\n\n| (b) | the reasons and the impact of the disruptive incident; |\n| --- | --- |\n\n| (c) | any risks concerning clients’ funds and crypto-assets held on their behalf; |\n| --- | --- |\n\n| (d) | measures that the crypto-asset service intends to take in response to the disruption of a permissionless distributed ledger. |\n| --- | --- |\n\nWhere that information is not readily available to the crypto-asset service provider, the crypto-asset service provider shall communicate updates as regards the information in the first subparagraph to clients and stakeholders, including competent authorities, on a best effort basis.\n\n4. The business continuity plans shall contain procedures to address any disruptions of outsourced critical or important functions, including where those critical or important functions become unavailable.",
+      "text_sha256": "8b63fa63df33b0e222dbe7b67d38dce630fe188cde0a8eb7f6a380f959b2b615",
+      "md_span": {
+        "start": 3490,
+        "end": 6683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Crypto-asset service providers shall test the operation of the business continuity plans referred to in Article 4 on the basis of realistic scenarios. Such testing shall verify the capability of the crypto-asset service provider to recover from disruptive incidents and to resume services in accordance with Article 4(2), point (b).\n\n2. Crypto-asset service providers shall test the business continuity plans annually taking into account:\n\n| (a) | the results of the tests referred to in paragraph 1; |\n| --- | --- |\n\n| (b) | the most recent threat intelligence; |\n| --- | --- |\n\n| (c) | lessons derived from previous events; |\n| --- | --- |\n\n| (d) | where relevant, any changes in the recovery objectives, including recovery time objectives and recovery point objectives as referred to in Article 4(2), point (b); |\n| --- | --- |\n\n| (e) | changes in the business functions. |\n| --- | --- |\n\n3. Crypto-asset service providers shall document the results of the testing activity in writing, and submit them to their management body and to the operating units involved in the business continuity plans.\n\n4. Crypto-asset service providers shall ensure that the testing of the business continuity plans does not interfere with normal conduct of their services.",
+      "text_sha256": "ffd56f3394a4f86057fa497876812dc4b7d42a477a1e8f19cfc6bcb1fc046889",
+      "md_span": {
+        "start": 6716,
+        "end": 7985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. When establishing the business continuity policy, including the plans, procedures and measures, crypto-asset service providers shall take into account elements of increased complexity or risk, including:\n\n| (a) | the type and range of crypto-asset services offered; |\n| --- | --- |\n\n| (b) | the extent to which the services of the crypto-asset service provider rely on permissionless distributed ledger; |\n| --- | --- |\n\n| (c) | the potential impact of any disruptions on the continuity of the crypto-asset service provider’s activities and availability of its services. |\n| --- | --- |\n\n2. For the purposes of paragraph 1, crypto-asset service providers shall conduct a self-assessment of the scale, the nature, and range of their services annually. Crypto-asset service providers shall base that self-assessment on the criteria set out in the Annex and any other criteria that the crypto-asset service provider considers relevant.",
+      "text_sha256": "28bda5ba9e7207935914931640f0be904d3ff6d7aa5566e1a4e13a0349c36a54",
+      "md_span": {
+        "start": 8018,
+        "end": 8964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0299:2024-10-31--d6fe8ddc5463d5b53d8163881cf1211f39286ef8f989068fb4f6762546f2bdec#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 8997,
+        "end": 9148
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

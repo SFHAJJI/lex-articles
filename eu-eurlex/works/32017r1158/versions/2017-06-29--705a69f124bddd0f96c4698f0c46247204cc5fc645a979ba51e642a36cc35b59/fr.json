@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2017/1158 of 29 June 2017 laying down implementing technical standards with regards to the procedures and forms for competent authorities exchanging information with the European Securities Market Authority as referred to in Article 33 of Regulation (EU) No 596/2014",
+  "valid_from": "2017-06-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1158/versions/2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59/fr.xml",
+    "sha256": "f8af355bd67dbadb8684e5c8e104fe194479c0d1493a78adb6516ad33775aa8e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R1158"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par «moyens électroniques» les équipements électroniques employés pour le traitement (y compris la compression numérique), le stockage et la transmission de données par câble, ondes radio, technologie optique ou tout autre moyen électromagnétique.",
+      "text_sha256": "721b467b1d9942762a1020ffdf6a079ff600cce021dbdc4e5e1839ba75aedb2b",
+      "md_span": {
+        "start": 917,
+        "end": 1222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Chaque autorité compétente désigne un point de contact unique pour assurer l'envoi des informations visées à l'article 3 et les communications sur toute question ayant trait à la transmission de ces informations.\n\n2. Les autorités compétentes notifient à l'Autorité européenne des marchés financiers (AEMF) le point de contact désigné en application du paragraphe 1.\n\n3. L'AEMF désigne un point de contact pour la réception des informations visées aux articles 3 et 4, et pour les communications sur toute question ayant trait à la réception desdites informations.\n\n4. L'AEMF publie le point de contact visé au paragraphe 2 sur son site web.",
+      "text_sha256": "2ac2768c637f300e522c6c323f4b30abf3ccb2dad186682427adeb5ad449dd72",
+      "md_span": {
+        "start": 1255,
+        "end": 1910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les autorités compétentes fournissent à l'AEMF les informations visées à l'article 33, paragraphes 1 et 2, du règlement (UE) no 596/2014 à l'aide du formulaire figurant à l'annexe I du présent règlement.\n\n2. Les informations visées au paragraphe 1 sont fournies à l'AEMF au plus tard le 31 mars de chaque année et se rapportent à toutes les enquêtes menées et à toutes les sanctions et mesures infligées au cours de l'année civile précédente.\n\n3. Les autorités compétentes fournissent à l'AEMF les informations visées au paragraphe 1 par des moyens de transmission électroniques sûrs.\n\n4. Aux fins du paragraphe 1, l'AEMF précise et identifie les moyens électroniques sûrs à utiliser. Ces moyens préservent l'exhaustivité, l'intégrité et la confidentialité des informations durant la transmission.",
+      "text_sha256": "bb13f6506146155118ee587850cf479f8e109cc36423c8875af2c6fdcfc656e4",
+      "md_span": {
+        "start": 1943,
+        "end": 2754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les autorités compétentes notifient à l'AEMF les sanctions et mesures administratives visées à l'article 33, paragraphe 3, du règlement (UE) no 596/2014 en utilisant les interfaces fournies par le système informatique, ainsi que la base de données connexe, mis en place par l'AEMF pour gérer la réception, le stockage et la publication des informations relatives à ces sanctions et mesures.\n\n2. Les sanctions et mesures visées au paragraphe 1 sont communiquées à l'AEMF dans un fichier de rapport au format défini à l'annexe II.",
+      "text_sha256": "3bcf8af7e137a04c4ba4a63ac165face33b84fe48b35526df7603bd9d012a4ca",
+      "md_span": {
+        "start": 2787,
+        "end": 3329
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Si une autorité compétente souhaite invalider un fichier de rapport existant qu'elle a déjà transmis à l'AEMF conformément à l'article 4, elle annule le rapport existant et envoie un nouveau fichier de rapport.\n\n2. Si une autorité compétente souhaite actualiser un fichier de rapport existant qu'elle a déjà transmis à l'AEMF conformément à l'article 4, elle retransmet le fichier de rapport contenant les informations actualisées.",
+      "text_sha256": "7c1bc790389904491495bf0ac75f9bdd52750eecf6555b4e592ff149c2eae8a0",
+      "md_span": {
+        "start": 3362,
+        "end": 3807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "0eaefb1eb12d2e388a1cbe04c2dcfecd3332a109b3251bf3b1563a3ebd0f7ba0",
+      "md_span": {
+        "start": 3840,
+        "end": 3981
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

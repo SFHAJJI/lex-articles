@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0593r(02):2009-11-24--df52d2e02fa2beb37a4f61514f2e6921db59e6c8e155cc06a92c19ef84756db5",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EC) No\u00A0593/2008",
+  "valid_from": "2009-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0593r(02)/versions/2009-11-24--df52d2e02fa2beb37a4f61514f2e6921db59e6c8e155cc06a92c19ef84756db5/en.xml",
+    "sha256": "1407b14cc00e3f2d14a09b2d3fb448ddc148c2ef937e4ffc9b5eb3eeb7723ce3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0593R%2802%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32008r0593r(02):2009-11-24--df52d2e02fa2beb37a4f61514f2e6921db59e6c8e155cc06a92c19ef84756db5#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "24.11.2009 EN Official Journal of the European Union L 309/87 Corrigendum to Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) ( Official Journal of the European Union L 177 of 4 July 2008 ) On page 16, Article 28, ‘Application in time’: for: ‘This Regulation shall apply to contracts concluded after 17 December 2009.’, read: ‘This Regulation shall apply to contracts concluded as from 17 December 2009.’.",
+      "text_sha256": "5be62de984ef988f57f35f1ee457e281ec338e1d1e9d1c74fc0b736d60572a65",
+      "md_span": {
+        "start": 680,
+        "end": 1184
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,2553 @@
+---
+lex_id: 'eu-eurlex:32024l1640:2024-05-31--fc56ee2354b49c87aa8ea67bc8d0ea1dceab3c1bdaf151ab190df3eeda21b522'
+title: 'Directive (EU) 2024/1640'
+valid_from: '2024-05-31'
+valid_to: '2024-06-18'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640'
+source_sha256: '184b35caab8c30f7cb9449d12756aeaaf6c5c7c03784da09df6d7fcb688000dd'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+This Directive lays down rules concerning:
+
+| (a) | the measures applicable to sectors exposed to money laundering and terrorist financing, at national level; |
+| --- | --- |
+
+| (b) | the requirements in relation to registration of, identification of, and checks on, senior management and beneficial owners of obliged entities; |
+| --- | --- |
+
+| (c) | the identification of money laundering and terrorist financing risks at Union and Member State level; |
+| --- | --- |
+
+| (d) | the set-up of and access to beneficial ownership and bank account registers and access to real estate information; |
+| --- | --- |
+
+| (e) | the responsibilities and tasks of Financial Intelligence Units (FIUs); |
+| --- | --- |
+
+| (f) | the responsibilities and tasks of bodies involved in the supervision of obliged entities; |
+| --- | --- |
+
+| (g) | cooperation between competent authorities and cooperation with authorities covered by other Union legal acts. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+For the purposes of this Directive, the definitions set out in Article 2(1) of Regulation (EU) 2024/1624 apply.
+
+The following definitions also apply:
+
+| (1) | ‘financial supervisor’ means a supervisor in charge of credit institutions and financial institutions; |
+| --- | --- |
+
+| (2) | ‘non-financial supervisor’ means a supervisor in charge of the non-financial sector; |
+| --- | --- |
+
+| (3) | ‘non-financial sector’ means the obliged entities listed in Article 3, point (3), of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (4) | ‘obliged entity’ means a natural or legal person listed in Article 3 of Regulation (EU) 2024/1624 that is not exempted in accordance with Article 4, 5, 6 or 7 of that Regulation; |
+| --- | --- |
+
+| (5) | ‘home Member State’ means the Member State where the registered office of the obliged entity is located or, if the obliged entity has no registered office, the Member State in which its head office is located; |
+| --- | --- |
+
+| (6) | ‘host Member State’ means a Member State, other than the home Member State, in which the obliged entity operates an establishment, such as a subsidiary or a branch, or where the obliged entity operates under the freedom to provide services through an infrastructure; |
+| --- | --- |
+
+| (7) | ‘customs authorities’ means the customs authorities as defined in Article 5, point (1), of Regulation (EU) No 952/2013 of the European Parliament and of the Council (34) and the competent authorities as defined in Article 2(1), point (g), of Regulation (EU) 2018/1672 of the European Parliament and of the Council (35); |
+| --- | --- |
+
+| (8) | ‘AML/CFT supervisory college’ means a permanent structure for cooperation and information sharing for the purposes of supervising a group or an entity that operates in a host Member State or third country; |
+| --- | --- |
+
+| (9) | ‘draft national measure’ means the text of an act, whichever its form, which, once enacted, will have legal effect, the text being at a stage of preparation at which substantial amendments can still be made; |
+| --- | --- |
+
+| (10) | ‘securities account’ means a securities account as defined in Article 2(1), point (28), of Regulation (EU) No 909/2014 of the European Parliament and of the Council (36); |
+| --- | --- |
+
+| (11) | ‘securities’ means financial instruments as defined in Article 4(1), point (15), of Directive 2014/65/EU of the European Parliament and of the Council (37). |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Where a Member State identifies that, in addition to obliged entities, entities in other sectors are exposed to money laundering and terrorist financing risks, it may decide to apply all or part of Regulation (EU) 2024/1624 to those additional entities.
+
+2. For the purposes of paragraph 1, Member States shall notify the Commission of their intention to apply all or part of Regulation (EU) 2024/1624 to entities in other sectors. Such notification shall be accompanied by:
+
+| (a) | a justification of the money laundering and terrorist financing risks underpinning such intention; |
+| --- | --- |
+
+| (b) | an assessment of the impact that such application will have on the provision of services within the internal market; |
+| --- | --- |
+
+| (c) | the requirements of Regulation (EU) 2024/1624 that the Member State intends to apply to those entities; |
+| --- | --- |
+
+| (d) | the text of the draft national measures, as well as any update thereof where the Member State has significantly altered the scope, content or implementation of those notified measures. |
+| --- | --- |
+
+3. Member States shall postpone the adoption of national measures for 6 months from the date of the notification referred to in paragraph 2.
+
+The postponement referred to in the first subparagraph of this paragraph shall not apply in cases where the national measure aims at addressing a serious and present threat of money laundering or terrorist financing. In that case, the notification referred to in paragraph 2 shall be accompanied by a justification as to why the Member State will not postpone its adoption.
+
+4. Before the end of the period referred to in paragraph 3, the Commission, having consulted the Authority for Anti-Money Laundering and Countering the Financing of Terrorism established by Regulation (EU) 2024/1620 (AMLA), shall issue a detailed opinion regarding whether the measure envisaged:
+
+| (a) | is adequate to address the risks identified, in particular as regards whether the risks identified by the Member State concern the internal market; |
+| --- | --- |
+
+| (b) | may create obstacles to the free movement of services or capital or to the freedom of establishment of service providers within the internal market which are not proportionate to the money laundering and terrorist financing risks the measure aims to mitigate. |
+| --- | --- |
+
+The detailed opinion referred to in the first subparagraph shall also indicate whether the Commission intends to propose action at Union level.
+
+5. Where the Commission does not consider it appropriate to propose action at Union level, the Member State concerned shall, within 2 months of receiving the detailed opinion referred to in paragraph 4, report to the Commission on the action it proposes in relation thereto. The Commission shall comment on the action proposed by the Member State.
+
+6. Where the Commission indicates its intention to propose action at Union level in accordance with paragraph 4, second subparagraph, the Member State concerned shall abstain from adopting the national measures referred to in paragraph 2, point (d), unless those national measures aim at addressing a serious and present threat of money laundering or terrorist financing.
+
+7. Where, on 9 July 2024, Member States have already applied national provisions transposing Directive (EU) 2015/849 to other sectors than obliged entities, they may apply all or part of Regulation (EU) 2024/1624 to those sectors.
+
+By 10 January 2028, Member States shall notify the Commission of the sectors identified at national level pursuant to the first subparagraph of this paragraph to which the requirements of Regulation (EU) 2024/1624 apply, accompanied by a justification of the exposure of those sectors to money laundering and terrorist financing risks. Within 6 months of such notification, the Commission having consulted AMLA, shall issue a detailed opinion pursuant to paragraph 4. Where the Commission does not consider it appropriate to propose action at Union level, paragraph 5 shall apply.
+
+8. By 10 July 2028 and every year thereafter, the Commission shall publish a consolidated list of the sectors to which Member States have decided to apply all or part of Regulation (EU) 2024/1624 in the Official Journal of the European Union.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Member States shall ensure that currency exchange and cheque cashing offices, and trust or company service providers, are either licensed or registered.
+
+2. Member States shall ensure that all providers of gambling services are regulated.
+
+3. Member States shall ensure that obliged entities other than those referred to in paragraphs 1 and 2 are subject to minimum registration requirements which enable supervisors to identify them.
+
+The first subparagraph shall not apply where the obliged entities other than those referred to in paragraphs 1 and 2 are subject to licensing or registration requirements under other Union legal acts, or to national rules regulating access to the profession or subjecting it to licensing or registration requirements which enable supervisors to identify them.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Member States whose national law enables the granting of residence rights in exchange for any kind of investment, such as capital transfers, purchase or renting of property, investment in government bonds, investment in corporate entities, donation or endowment of an activity contributing to the public good and contributions to the state budget, shall put in place at least the following measures to mitigate the associated risks of money laundering, its predicate offences or terrorist financing:
+
+| (a) | a risk management process, including the identification, classification and mitigation of risks under the coordination of a designated authority; |
+| --- | --- |
+
+| (b) | measures providing for the mitigation of risks of money laundering, its predicate offences or terrorist financing associated with applicants for the granting of residence rights in exchange for investment including:(i)checks on the profile of the applicant by the designated authority, including obtaining information on the source of funds and source of wealth of the applicant;(ii)verification of information on applicants against information held by competent authorities as referred to in Article 2(1), point (44)(a) and (c), of Regulation (EU) 2024/1624 subject to the respect of the applicable national criminal procedural law and against lists of individuals and entities subject to Union restrictive measures;(iii)periodic reviews of medium and high-risk applicants. |
+| --- | --- |
+| (i) | checks on the profile of the applicant by the designated authority, including obtaining information on the source of funds and source of wealth of the applicant; |
+| (ii) | verification of information on applicants against information held by competent authorities as referred to in Article 2(1), point (44)(a) and (c), of Regulation (EU) 2024/1624 subject to the respect of the applicable national criminal procedural law and against lists of individuals and entities subject to Union restrictive measures; |
+| (iii) | periodic reviews of medium and high-risk applicants. |
+
+2. Member States shall ensure monitoring of implementation of the risk management process as referred to in paragraph 1, point (a), including by assessing it on an annual basis.
+
+3. Member States shall adopt and implement the measures referred to in paragraph 1 of this Article in a manner consistent with the risks identified under the risk assessment carried out pursuant to Article 8.
+
+4. Member States shall publish an annual report on the risks of money laundering, its predicate offences or terrorist financing associated with the granting of residence rights in exchange for investment. Those reports shall be made public and shall include the information on:
+
+| (a) | the number of received applications and of countries of origin of the applicants; |
+| --- | --- |
+
+| (b) | the number of residence permits granted or rejected, and the reasons for such rejections; |
+| --- | --- |
+
+| (c) | any evolution detected in the risks of money laundering, its predicate offences and terrorist financing associated with the granting of residence rights in exchange for investment. |
+| --- | --- |
+
+5. By 10 July 2028, Member States shall notify the Commission of the measures adopted under paragraph 1 of this Article. That notification shall include an explanation of those measures based on the relevant risk assessment carried out by Member States pursuant to Article 8.
+
+6. The Commission shall publish in the Official Journal of the European Union the measures notified by Member States pursuant to paragraph 5.
+
+7. By 10 July 2030, the Commission shall publish a report assessing the measures notified pursuant to paragraph 5 in mitigating the risks of money laundering, its predicate offences and terrorist financing and, where necessary, issue recommendations.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Member States shall require supervisors to verify that the members of the senior management in the obliged entities referred to in Article 4(1) and (2) as well as financial mixed activity holding companies, and the beneficial owners of such entities are of good repute, and act with honesty and integrity. Senior management of such entities shall also possess the knowledge and expertise necessary to carry out their functions.
+
+2. With respect to the obliged entities referred to in Article 3, points (3)(a), (b), (d), (e), (f) and (h) to (o), of Regulation (EU) 2024/1624, Member States shall ensure that supervisors take the necessary measures to prevent persons convicted of money laundering, its relevant predicate offences or terrorist financing or their associates from being professionally accredited, from holding a senior management function in or from being the beneficial owners of those obliged entities.
+
+3. Member States shall ensure that supervisors verify, on a risk-sensitive basis, whether the requirements of paragraphs 1 and 2 continue to be met. In particular, they shall verify whether the senior management of obliged entities referred to in paragraph 1 is of good repute, acts with honesty and integrity and possesses knowledge and expertise necessary to carry out its functions in cases where there are reasonable grounds to suspect that money laundering or terrorist financing is being or has been committed or attempted, or there is increased risk thereof in an obliged entity.
+
+4. Member States shall ensure that supervisors have the power to request the removal of any person convicted of money laundering, its relevant predicate offences or terrorist financing, from the senior management of obliged entities as referred to in paragraphs 1 and 2. Member States shall ensure that supervisors have the power to remove or impose a temporary ban on members of the senior management of the obliged entities referred to in paragraph 1 that are not deemed to be of good repute, act with honesty and integrity or possess the knowledge and expertise necessary to carry out their functions.
+
+5. Member States shall ensure that supervisors have the power to disassociate persons convicted of money laundering, its relevant predicate offences or terrorist financing, who are beneficial owners of obliged entities as referred to in paragraphs 1 and 2, from obliged entities, including by granting supervisors the power to request the divestment of the holding by those beneficial owners in obliged entities.
+
+6. For the purposes of this Article, Member States shall ensure that, in accordance with national law, supervisors or any other authority competent at national level for assessing the requirements applicable to persons referred to in paragraphs 1 and 2 of this Article, check the central AML/CFT database under Article 11 of Regulation (EU) 2024/1620 and whether a relevant conviction exists in the criminal record of the person concerned. Any exchange of information for those purposes shall be carried out in accordance with Framework Decision 2009/315/JHA and Decision 2009/316/JHA as implemented in national law.
+
+7. Member States shall ensure that decisions taken by supervisors pursuant to this Article are subject to effective remedial procedures, including judicial remedy.
+
+8. By 10 July 2029, AMLA shall issue guidelines on:
+
+| (a) | the criteria to assess good repute, honesty and integrity as referred to in paragraph 1; |
+| --- | --- |
+
+| (b) | the criteria to assess knowledge and expertise as referred to in paragraph 1; |
+| --- | --- |
+
+| (c) | the consistent application by supervisors of the power entrusted to them under this Article. |
+| --- | --- |
+
+When drawing up the guidelines referred to in the first subparagraph, AMLA shall take into account the specificities of each sector in which the obliged entities operate.
+
+9. Member States shall apply this Article in relation to the obliged entities referred to in Article 3, points 3(n) and (o) of Regulation (EU) 2024/1624 from 10 July 2029.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. The Commission shall conduct an assessment of the risks of money laundering and terrorist financing and of non-implementation and evasion of targeted financial sanctions affecting the internal market and relating to cross-border activities.
+
+2. By 10 July 2028, the Commission shall draw up a report identifying, analysing and evaluating those risks at Union level. The Commission shall update that report every 4 years thereafter. The Commission may update parts of the report more frequently, if appropriate.
+
+Where, while updating its report, the Commission identifies new risks, it may recommend to Member States to consider updating their national risk assessments, or to carry out sectoral risk assessments, pursuant to Article 8 in order to assess those risks.
+
+The report referred to in the first subparagraph shall be made public, except for those parts which contain classified information.
+
+3. The report referred to in paragraph 1 shall cover at least the following:
+
+| (a) | the areas and sectors of the internal market that are exposed to money laundering and terrorist financing risks; |
+| --- | --- |
+
+| (b) | the nature and level of the risks associated with each area and sector; |
+| --- | --- |
+
+| (c) | the most widespread means used to launder illicit proceeds, including, where available, those particularly used in transactions between Member States and third countries, independently of the identification of a third country pursuant to Section 2 of Chapter III of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (d) | an assessment of the risks of money laundering and terrorist financing associated with legal persons and legal arrangements, including the exposure to risks deriving from foreign legal persons and foreign legal arrangements; |
+| --- | --- |
+
+| (e) | the risks of non-implementation and evasion of targeted financial sanctions. |
+| --- | --- |
+
+4. The Commission shall make recommendations to Member States on the measures suitable for addressing the identified risks. In the event that Member States decide not to apply any of the recommendations in their national AML/CFT regimes, they shall notify the Commission thereof and provide a detailed justification stating their reasons for such a decision.
+
+5. By 10 July 2030 and every 2 years thereafter, AMLA, in accordance with Article 55 of Regulation (EU) 2024/1620, shall issue an opinion addressed to the Commission on the risks of money laundering and terrorist financing affecting the Union. AMLA may issue opinions or updates of its previous opinions more frequently, where it deems it appropriate to do so. The opinions issued by AMLA shall be made public, except for those parts which contain classified information.
+
+6. In conducting the assessment referred to in paragraph 1, the Commission shall organise the work at Union level, shall take into account the opinions referred to in paragraph 5 and shall involve Member States’ experts in the area of AML/CFT, representatives from national supervisory authorities and FIUs, AMLA and other Union level bodies, and, where appropriate, other relevant stakeholders.
+
+7. Within 2 years of the adoption of the report referred to in paragraph 2, and every 4 years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the actions taken based on the findings of that report.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. Each Member State shall carry out a national risk assessment to identify, assess, understand and mitigate the risks of money laundering and terrorist financing, and the risks of non-implementation and evasion of targeted financial sanctions affecting it. It shall keep that risk assessment up to date and review it at least every 4 years.
+
+Where Member States consider that the risk situation so requires, they may review the national risk assessment more frequently or conduct ad hoc sectoral risk assessments.
+
+2. Each Member State shall designate an authority or establish a mechanism to coordinate the national response to the risks referred to in paragraph 1. The identity of that authority or the description of the mechanism shall be notified to the Commission. The Commission shall publish the list of the designated authorities or established mechanisms in the Official Journal of the European Union.
+
+3. In carrying out the national risk assessments referred to in paragraph 1 of this Article, Member States shall take into account the report referred to in Article 7(2), including sectors and products covered and the findings of that report.
+
+4. Member States shall use the national risk assessment to:
+
+| (a) | improve their AML/CFT regimes, in particular by identifying any areas where obliged entities are to apply enhanced measures in line with a risk-based approach and, where appropriate, specifying the measures to be taken; |
+| --- | --- |
+
+| (b) | identify, where appropriate, sectors or areas of lower or greater risk of money laundering and terrorist financing; |
+| --- | --- |
+
+| (c) | assess the risks of money laundering and terrorist financing associated with each type of legal person established in their territory and each type of legal arrangement which is governed under national law, or which is administered in their territory or whose trustees or persons holding equivalent positions in similar legal arrangements reside in their territory; and have an understanding of the exposure to risks deriving from foreign legal persons and foreign legal arrangements; |
+| --- | --- |
+
+| (d) | decide on the allocation and prioritisation of resources to combat money laundering and terrorist financing as well as non-implementation and evasion of targeted financial sanctions; |
+| --- | --- |
+
+| (e) | ensure that appropriate rules are drawn up for each sector or area, in accordance with the risks of money laundering and terrorist financing; |
+| --- | --- |
+
+| (f) | make appropriate information available promptly to competent authorities and to obliged entities to facilitate the carrying out of their own money laundering and terrorist financing risk assessments as well as the assessment of risks of non-implementation and evasion of targeted financial sanctions referred to in Article 10 of Regulation (EU) 2024/1624. |
+| --- | --- |
+
+In the national risk assessment, Member States shall describe the institutional structure and broad procedures of their AML/CFT regime, including the FIU, tax authorities and prosecutors, the mechanisms for cooperation with counterparts within the Union or in third countries, as well as the allocated human and financial resources to the extent that this information is available.
+
+5. Member States shall ensure appropriate participation of competent authorities and relevant stakeholders when carrying out their national risk assessment.
+
+6. Member States shall make the results of their national risk assessments, including updates and reviews, available to the Commission, to AMLA and to the other Member States. A Member State may provide relevant additional information, where appropriate, to the Member State carrying out the national risk assessment. A summary of the findings of the assessment shall be made public. That summary shall not contain classified information. Any document disseminated or made public pursuant to this paragraph shall not contain any information permitting the identification of any natural person or name any legal person.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. Member States shall maintain comprehensive statistics on matters relevant to the effectiveness of their AML/CFT frameworks in order to review the effectiveness of those frameworks.
+
+2. The statistics referred to in paragraph 1 of this Article shall include:
+
+| (a) | data measuring the size and importance of the different sectors which fall within the scope of this Directive, including the number of natural and legal persons and the economic importance of each sector; |
+| --- | --- |
+
+| (b) | data measuring the reporting, investigation and judicial phases of the national AML/CFT regime, including the number of suspicious transaction reports made to the FIU, the follow-up given to those reports, the information on cross-border physical transfers of cash transmitted to the FIU in accordance with Article 9 of Regulation (EU) 2018/1672 together with the follow-up given to the information submitted and, on an annual basis, the number of cases investigated, the number of persons prosecuted, the number of persons convicted for money laundering or terrorist financing offences, the types of predicate offences identified in accordance with Article 2 of Directive (EU) 2018/1673 of the European Parliament and of the Council (38) where such information is available, and the value in euro of property that has been frozen, seized or confiscated; |
+| --- | --- |
+
+| (c) | the number and percentage of suspicious transaction reports resulting in dissemination to other competent authorities and, if available, the number and percentage of reports resulting in further investigation, together with the annual report drawn up by FIUs pursuant to Article 27; |
+| --- | --- |
+
+| (d) | data regarding the number of cross-border requests for information that were made, received, refused and partially or fully answered by the FIU, broken down by counterpart country; |
+| --- | --- |
+
+| (e) | the number of mutual legal assistance or other international requests for information relating to beneficial ownership and bank account information as referred to in Chapter IV of Regulation (EU) 2024/1624 and Sections 1 and 2 of Chapter II of this Directive received from or made to counterparts outside the Union, broken down by competent authority and counterpart country; |
+| --- | --- |
+
+| (f) | human resources allocated to supervisors as well as human resources allocated to the FIU to fulfil the tasks specified in Article 19; |
+| --- | --- |
+
+| (g) | the number of on-site and off-site supervisory actions, the number of breaches identified on the basis of supervisory actions and pecuniary sanctions and periodic penalty payments imposed or administrative measures applied by supervisory authorities and self-regulatory bodies pursuant to Section 4 of Chapter IV; |
+| --- | --- |
+
+| (h) | the number and type of breaches identified in relation to the obligations of Chapter IV of Regulation (EU) 2024/1624 and pecuniary sanctions imposed or administrative measures applied in relation to those breaches, the number of discrepancies reported to the central register referred to in Article 10 of this Directive, as well as the number of checks carried out by the entity in charge of the central register or on its behalf pursuant to Article 10(11) of this Directive; |
+| --- | --- |
+
+| (i) | the following information regarding the implementation of Article 12:(i)the number of requests to access beneficial ownership information in central registers on the basis of the categories laid down in Article 12(2);(ii)the percentage of requests for access to information which is refused under each category laid down in Article 12(2);(iii)a summary of the categories of persons granted access to beneficial ownership information under Article 12(2), second subparagraph; |
+| --- | --- |
+| (i) | the number of requests to access beneficial ownership information in central registers on the basis of the categories laid down in Article 12(2); |
+| (ii) | the percentage of requests for access to information which is refused under each category laid down in Article 12(2); |
+| (iii) | a summary of the categories of persons granted access to beneficial ownership information under Article 12(2), second subparagraph; |
+
+| (j) | the number of searches of bank account registers or data retrieval mechanisms made by competent authorities, broken down by category of competent authority, and the number of searches of the interconnection of bank account registers made by FIUs and supervisory authorities; |
+| --- | --- |
+
+| (k) | the following data regarding implementation of targeted financial sanctions:(i)the value of funds or other assets frozen, broken down by type;(ii)human resources allocated to authorities competent for implementation and enforcement of targeted financial sanctions. |
+| --- | --- |
+| (i) | the value of funds or other assets frozen, broken down by type; |
+| (ii) | human resources allocated to authorities competent for implementation and enforcement of targeted financial sanctions. |
+
+3. Member States shall ensure that the statistics referred to in paragraph 2 are collected and transmitted to the Commission on an annual basis. The statistics referred to in paragraph 2, points (a), (c), (d) and (f), shall also be transmitted to AMLA.
+
+AMLA shall store those statistics in its database in accordance with Article 11 of Regulation (EU) 2024/1620.
+
+4. By 10 July 2029, AMLA shall adopt an opinion addressed to the Commission on the methodology for the collection of the statistics referred to in paragraph 2, points (a), (c), (d), (f) and (g).
+
+5. The Commission may lay down, by means of implementing acts, the methodology for the collection of the statistics referred to in paragraph 2 of this Article and the arrangements for their transmission to the Commission and to AMLA. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+6. By 10 July 2030 and every 2 years thereafter, the Commission shall publish a report summarising and explaining the statistics referred to in paragraph 2, and make it available on its website.
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. Member States shall ensure that beneficial ownership information as referred to in Article62 of Regulation (EU) 2024/1624, the statement pursuant to Article 63(4) of that Regulation and information on nominee arrangements as referred to in Article 66 of that Regulation are held in a central register in the Member State where the legal entity is created or where the trustee of an express trust or person holding an equivalent position in a similar legal arrangement is established or resides, or from where the legal arrangement is administered. Such requirement shall not apply to legal entities or legal arrangements as referred to in Article 65 of Regulation (EU) 2024/1624.
+
+The information contained in the central beneficial ownership register referred to in the first subparagraph (‘central register’) shall be available in machine-readable format and be collected in accordance with the implementing acts referred to in paragraph 6.
+
+2. By way of derogation from the first subparagraph of paragraph 1, Member States shall ensure that beneficial ownership information, as referred to in Article 62 of Regulation (EU) 2024/1624, of foreign legal entities and foreign legal arrangements, as referred to in Article 67 of that Regulation, is held in a central register in the Member State in accordance with the conditions laid down in Article 67 of that Regulation. Member States shall also ensure that the central register contains an indication of which situation listed in Article 67(1) of Regulation (EU) 2024/1624 triggers the registration of the foreign legal entity or foreign legal arrangement.
+
+3. Where the trustees of an express trust or persons holding equivalent positions in a similar legal arrangement are established or reside in different Member States, a certificate of proof of registration, or an excerpt of the beneficial ownership information held in a central register by one Member State, shall be sufficient to consider the registration obligation fulfilled.
+
+4. Member States shall ensure that the entities in charge of the central registers are empowered to request from legal entities, trustees of any express trust and persons holding an equivalent position in a similar legal arrangement, and their legal and beneficial owners, any information necessary to identify and verify their beneficial owners, including resolutions of the board of directors and minutes of their meetings, partnership agreements, trust deeds, power of attorney or other contractual agreements and documentation.
+
+5. Where no person is identified as the beneficial owner pursuant to Article 63(3) and Article 64(6) of Regulation (EU) 2024/1624, the central register shall include:
+
+| (a) | a statement that there is no beneficial owner or that the beneficial owners could not be determined, accompanied by a corresponding justification pursuant to Article 63(4), point (a), and Article 64(7), point (a), of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (b) | the details of all natural persons who hold the position of senior managing officials in the legal entity equivalent to the information required under Article 62(1), second subparagraph, point (a), of Regulation (EU) 2024/1624. |
+| --- | --- |
+
+Member States shall ensure that the information referred to in the first subparagraph, point (a), is available to competent authorities, as well as to AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620, to self-regulatory bodies and to obliged entities. However, obliged entities shall only have access to the statement submitted by the legal entity or legal arrangement if they report a discrepancy pursuant to Article 24 of Regulation (EU) 2024/1624 or provide proof of the steps they have taken to determine the beneficial owners of the legal entity or legal arrangement, in which case they shall be able to access the justification as well.
+
+6. By 10 July 2025, the Commission shall establish, by means of implementing acts, the format for the submission of beneficial ownership information as referred to in Article 62 of Regulation (EU) 2024/1624 to the central register, including a checklist of minimum requirements for the information to be examined by the entity in charge of the central register. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2) of this Directive.
+
+7. Member States shall ensure that the beneficial ownership information held in the central registers is adequate, accurate and up-to-date, and shall put in place mechanisms to that effect. For that purpose, Member States shall apply at least the following requirements:
+
+| (a) | entities in charge of the central registers shall verify, within a reasonable time upon submission of the beneficial ownership information, and on a regular basis thereafter, that such information is adequate, accurate and up to date; |
+| --- | --- |
+
+| (b) | competent authorities, if appropriate and to the extent that such requirement does not interfere unnecessarily with their functions, shall report to the entities in charge of the central registers any discrepancies they find between information available in the central registers and the information available to them. |
+| --- | --- |
+
+The extent and frequency of the verification referred to in point (a) of the first subparagraph of this paragraph shall be commensurate with the risks associated with the categories of legal entities and legal arrangements identified pursuant to Article 7(3), point (d), and Article 8(4), point (c).
+
+By 10 July 2028, the Commission shall issue recommendations on the methods and procedures to be used by entities in charge of central registers to verify beneficial ownership information and by obliged entities and competent authorities to identify and report discrepancies regarding beneficial ownership information.
+
+8. Member States shall ensure that the information contained in the central registers includes any change to the beneficial ownership of legal entities and legal arrangements and to nominee arrangements, following their first recording in the central register.
+
+9. Member States shall ensure that the entities in charge of the central registers verify whether beneficial ownership information held in those registers concerns persons or entities designated in relation to targeted financial sanctions. Such verification shall take place immediately upon a designation in relation to targeted financial sanctions and at regular intervals.
+
+Member States shall ensure that the information contained in the central registers includes an indication that the legal entity is associated with persons or entities subject to targeted financial sanctions in any of the following situations:
+
+| (a) | a legal entity or legal arrangement is subject to targeted financial sanctions; |
+| --- | --- |
+
+| (b) | a legal entity or legal arrangement is controlled by a person or entity subject to targeted financial sanctions; |
+| --- | --- |
+
+| (c) | a beneficial owner of a legal entity or legal arrangement is subject to targeted financial sanctions. |
+| --- | --- |
+
+The indication referred to in the second subparagraph of this paragraph shall be visible to any person or entity granted access to the information contained in the central registers pursuant to Articles 11 and 12, and shall remain in place until the targeted financial sanctions are lifted.
+
+10. Member States shall ensure that the entities in charge of the central registers take, within 30 working days of the reporting of a discrepancy by a competent authority or by an obliged entity, appropriate actions to resolve the reported discrepancy pursuant to Article 24 of Regulation (EU) 2024/1624, including by amending the information contained in the central registers where the entity is able to verify the beneficial ownership information. A specific mention of the fact that there are discrepancies reported shall be included in the central registers until the discrepancy is resolved and be visible to any person or entity granted access under Articles 11 and 12 of this Directive.
+
+Where the discrepancy is of a complex nature and the entities in charge of the central registers cannot resolve it within 30 working days, they shall record the instance as well as the steps that have been taken, and take any measure necessary to resolve the discrepancy as soon as possible.
+
+11. Member States shall ensure that the entity in charge of the central register is empowered, whether directly or by application to another authority, including judicial authorities, to carry out checks, including on-site inspections at the business premises or registered office of legal entities, in order to establish the current beneficial ownership of the entity and to verify that the information submitted to the central register is accurate, adequate and up-to-date. The right of the entity in charge of the central register to verify beneficial ownership information shall not be restricted, obstructed or precluded.
+
+Where the trustee or person holding an equivalent position is an obliged entity as referred to in in Article 3, point (3)(a), (b) or (c), of Regulation (EU) 2024/1624, Member States shall ensure that the entity in charge of the central register is also empowered to carry out checks, including on-site inspections at the business premises or registered office of the trustee or person in an equivalent position. Those checks shall adhere at least to the following safeguards:
+
+| (a) | with respect to natural persons, where the business premises or registered office are the same as the natural person’s private residence, the on-site inspection shall be subject to prior judicial authorisation; |
+| --- | --- |
+
+| (b) | any procedural safeguard in place in the Member State to protect the legal privilege shall be respected and no information protected by legal privilege shall be accessed. |
+| --- | --- |
+
+Member States shall ensure that entities in charge of central registers are empowered to request information from other registers, including in third countries, to the extent that that such information is necessary for the performance of such entities’ functions.
+
+12. Member States shall ensure that entities in charge of central registers have at their disposal the automated mechanisms necessary to carry out verifications as referred to in paragraph 7, points (a), and paragraph 9, including by comparing information contained in those registers with information held by other sources.
+
+13. Member States shall ensure that where a verification as referred to in paragraph 7, point (a), is carried out at the time of submission of beneficial ownership information, and such verification leads an entity in charge of a central register to conclude that there are inconsistencies or errors in the beneficial ownership information, the entity in charge of a central register is able to withhold or refuse to issue a valid certificate of proof of registration.
+
+14. Member States shall ensure that where a verification as referred to in paragraph 7, point (a), is carried out after the submission of beneficial ownership information, and such verification leads an entity in charge of a central register to conclude that the information is no longer adequate, accurate, and up-to-date, the entity in charge of the central register is able to suspend the validity of the certification of proof of registration until it considers the beneficial ownership information provided to be in order, except where the inconsistencies are limited to typographical errors, different ways of transliteration, or minor inaccuracies that do not affect the identification of the beneficial owners or their beneficial interest.
+
+15. Member States shall ensure that the entity in charge of the central register is empowered to, whether directly or by application to another authority, including judicial authorities, apply effective, proportionate and dissuasive measures or impose such pecuniary sanctions for failures, including of a repeated nature, to provide the central register with accurate, adequate and up-to-date information about their beneficial ownership.
+
+16. The Commission is empowered to adopt delegated acts in accordance with Article 71 to supplement this Directive by defining indicators to classify the level of gravity of failures to report adequate, accurate and up-to-date information to the central registers, including in cases of repeated failures.
+
+17. Member States shall ensure that if, in the course of the checks carried out pursuant to this Article, or in any other way, the entities in charge of the central registers discover facts that could be related to money laundering or to terrorist financing, they shall promptly inform the FIU thereof.
+
+18. Member States shall ensure that, in the performance of their tasks, the entities in charge of central registers carry out their functions free of undue influence and that those entities implement standards for their employees as regards conflicts of interest and strict confidentiality.
+
+19. The central registers shall be interconnected via the European Central Platform established by Article 22(1) of Directive (EU) 2017/1132.
+
+20. The information referred to in paragraph 1 shall be available through the central registers and through the system of interconnection of central registers for 5 years after the legal entity has been dissolved or the legal arrangement has ceased to exist.
+
+Without prejudice to national criminal law on evidence applicable to ongoing criminal investigations and legal proceedings, Member States may, in specific cases, permit such information to be retained, or require that such information be retained, for an additional maximum period of 5 years where Member States have established that such retention is necessary and proportionate for the purpose of preventing, detecting, investigating or prosecuting suspected money laundering or terrorist financing.
+
+Upon expiry of the retention period referred to in the first subparagraph, Member States shall ensure that the personal data is deleted from the central registers.
+
+21. By 10 July 2031, the Commission shall, publish a report including the following:
+
+| (a) | an assessment of the effectiveness of the measures taken by the entities in charge of the central registers to ensure that they have adequate, up-to-date and accurate information; |
+| --- | --- |
+
+| (b) | a description of the main types of discrepancies identified by obliged entities and competent authorities in relation to the beneficial ownership information held in the central registers; |
+| --- | --- |
+
+| (c) | best practices and, where appropriate, recommendations with regard to the measures taken by the entities in charge of the central registers to ensure that those registers hold adequate, accurate and up-to-date information; |
+| --- | --- |
+
+| (d) | overview of the features of each central register put in place by Member States, including information on mechanisms to ensure that beneficial ownership information held in those registers is kept accurate, adequate and up to date; |
+| --- | --- |
+
+| (e) | an assessment of the proportionality of the fees imposed for accessing information held in the central registers. |
+| --- | --- |
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. Member States shall ensure that competent authorities have immediate, unfiltered, direct and free access to the information held in the interconnected central registers referred to in Article 10, without alerting the legal entity or legal arrangement concerned.
+
+2. Access as referred to in paragraph 1 shall be granted to:
+
+| (a) | competent authorities; |
+| --- | --- |
+
+| (b) | self-regulatory bodies in the performance of supervisory functions pursuant to Article 37; |
+| --- | --- |
+
+| (c) | tax authorities; |
+| --- | --- |
+
+| (d) | national authorities with designated responsibilities for the implementation of Union restrictive measures identified under the relevant Council Regulations adopted on the basis of Article 215 TFEU; |
+| --- | --- |
+
+| (e) | AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620; |
+| --- | --- |
+
+| (f) | EPPO; |
+| --- | --- |
+
+| (g) | OLAF; |
+| --- | --- |
+
+| (h) | Europol and Eurojust when providing operational support to the competent authorities of Member States. |
+| --- | --- |
+
+3. Member States shall ensure that, when taking customer due diligence measures in accordance with Chapter III of Regulation (EU) 2024/1624, obliged entities have timely access to the information held in the interconnected central registers referred to in Article 10 of this Directive.
+
+4. Member States may choose to make beneficial ownership information held in their central registers available to obliged entities upon payment of a fee, which shall be limited to what is strictly necessary to cover the costs of ensuring the quality of the information held in the central registers and of making the information available. Those fees shall be established in such a way as not to undermine effective access to the information held in the central registers.
+
+5. By 10 October 2026, Member States shall notify to the Commission the list of competent authorities and self-regulatory bodies and the categories of obliged entities that were granted access to the central registers and the type of information available to obliged entities. Member States shall update that notification when there are any changes to the list of competent authorities or categories of obliged entities or to the extent of access granted to obliged entities. The Commission shall make the information on the access by competent authorities and obliged entities, including any change to it, available to the other Member States.
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. Member States shall ensure that any natural or legal person that can demonstrate a legitimate interest in the prevention and combating of money laundering, its predicate offences and terrorist financing has access to the following information on beneficial owners of legal entities and legal arrangements held in the interconnected central registers referred to in Article 10, without alerting the legal entity or legal arrangement concerned:
+
+| (a) | the name of the beneficial owner; |
+| --- | --- |
+
+| (b) | the month and year of birth of the beneficial owner; |
+| --- | --- |
+
+| (c) | the country of residence and nationality or nationalities of the beneficial owner; |
+| --- | --- |
+
+| (d) | for beneficial owners of legal entities, the nature and extent of the beneficial interest held; |
+| --- | --- |
+
+| (e) | for beneficial owners of express trusts or similar legal arrangements, the nature of the beneficial interest. |
+| --- | --- |
+
+In addition to the information referred to in the first subparagraph of this paragraph, Member States shall ensure that any natural or legal persons referred to in paragraph 2, points (a), (b) and (e), also has access to historical information on the beneficial ownership of the legal entity or the legal arrangement, including of legal entities or legal arrangements that have been dissolved or ceased to exist in the preceding 5 years, as well as a description of the control or ownership structure.
+
+Access pursuant to this paragraph shall be granted through electronic means. However, Member States shall ensure that natural and legal persons who can demonstrate a legitimate interest are also able to access the information in other formats if they are unable to use electronic means.
+
+2. The following natural or legal persons shall be deemed to have a legitimate interest to access the information listed in paragraph 1:
+
+| (a) | persons acting for the purpose of journalism, reporting or any other form of expression in the media, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing; |
+| --- | --- |
+
+| (b) | civil society organisations, including non-governmental organisations and academia, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing; |
+| --- | --- |
+
+| (c) | natural or legal persons likely to enter into a transaction with a legal entity or legal arrangement and who wish to prevent any link between such a transaction and money laundering, its predicate offences or terrorist financing; |
+| --- | --- |
+
+| (d) | entities subject to AML/CFT requirements in third countries, provided they can demonstrate the need to access the information referred to in paragraph 1 in relation to a legal entity or legal arrangement to perform customer due diligence in respect of a customer or prospective customer pursuant to AML/CFT requirements in those third countries; |
+| --- | --- |
+
+| (e) | third-country counterparts of Union AML/CFT competent authorities provided they can demonstrate the need to access the information referred to in paragraph 1 in relation to a legal entity or legal arrangement to perform their tasks under the AML/CFT frameworks of those third countries in the context of a specific case; |
+| --- | --- |
+
+| (f) | Member State authorities in charge of implementing Title I, Chapters II and III of Directive (EU) 2017/1132, in particular the authorities in charge of the registration of companies in the register referred to in Article 16 of that Directive, and Member State authorities responsible for scrutinising the legality of conversions, mergers and divisions of limited liability companies pursuant to Title II of that Directive; |
+| --- | --- |
+
+| (g) | programme authorities identified by Member States pursuant to Article 71 of Regulation (EU) 2021/1060, in respect of beneficiaries of Union funds; |
+| --- | --- |
+
+| (h) | public authorities implementing the Recovery and Resilience Facility under Regulation (EU) 2021/241, in respect of beneficiaries under the Facility; |
+| --- | --- |
+
+| (i) | Member States’ public authorities in the context of public procurement procedures, in respect of the tenderers and operators being awarded the contract under the public procurement procedure; |
+| --- | --- |
+
+| (j) | providers of AML/CFT products, to the strict extent that products developed on the basis of the information referred to in paragraph 1 or containing that information are provided only to customers that are obliged entities or competent authorities provided that those providers can demonstrate the need to access the information referred to in paragraph 1 in the context of a contract with an obliged entity or a competent authority. |
+| --- | --- |
+
+In addition to the categories identified under the first subparagraph, Member States shall also ensure that other persons who are able to demonstrate a legitimate interest with respect to the purpose of preventing and combating money laundering, its predicate offences and terrorist financing, are granted access to beneficial ownership information on a case-by-case basis.
+
+3. By 10 July 2026, Member States shall notify to the Commission:
+
+| (a) | the list of public authorities that are entitled to consult beneficial ownership information pursuant to paragraph 2, points (f), (g) and (h), and the public authorities or categories of public authorities that are entitled to consult beneficial ownership information pursuant to paragraph 2, point (i); |
+| --- | --- |
+
+| (b) | any additional category of persons who have been found to have a legitimate interest to access beneficial ownership information identified in accordance with paragraph 2, second subparagraph. |
+| --- | --- |
+
+Member States shall notify the Commission of any change or addition to the categories referred to in the first subparagraph without delay, and in any case within 1 month of its occurrence.
+
+The Commission shall make the information received pursuant to this paragraph available to the other Member States.
+
+4. Member States shall ensure that the central registers keep records of the persons accessing the information pursuant to this Article and are able to disclose them to the beneficial owners when they file a request pursuant to Article 15(1), point (c), of Regulation (EU) 2016/679.
+
+However, Member States shall ensure that the information provided by central registers does not lead to the identification of any person consulting the register where such persons are:
+
+| (a) | persons acting for the purpose of journalism, reporting or any other form of expression in the media, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing; |
+| --- | --- |
+
+| (b) | civil society organisations that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing. |
+| --- | --- |
+
+In addition, Member States shall ensure that entities in charge of the central registers refrain from disclosing the identity of any third-country counterpart of Union AML/CFT competent authorities referred to in Article 2(1), point 44(a) and (c), of Regulation (EU) 2024/1624, for as long as necessary to protect the analyses or investigations of that authority.
+
+In relation to the persons referred to in points (a) and (b) of the second subparagraph of this paragraph, Member States shall ensure that where beneficial owners file a request pursuant to Article 15(1), point (c), of Regulation (EU) 2016/679, they are provided with information on the function or occupation of the persons having consulted their beneficial ownership information.
+
+For the purposes of the third subparagraph, when requesting access to beneficial ownership information pursuant to this Article, the authorities shall indicate the period for which they request the central registers to refrain from disclosure, which shall not exceed 5 years, and the reasons for that restriction, including how the provision of the information would jeopardise the purpose of their analyses and investigations. Member States shall ensure that, where central registers do not disclose the identity of the entity having consulted the beneficial ownership information, any extension of that period shall only be granted on the basis of a justified request by the authority in the third country, for a maximum period of 1 year, after which a new justified request for extension shall be submitted by that authority.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+1. Member States shall ensure that entities in charge of the central registers as referred to in Article 10 take measures to verify the existence of the legitimate interest referred to in Article 12 on the basis of documents, information and data obtained from the natural or legal person seeking access to the central register (‘applicant’) and, where necessary, information available to them pursuant to Article 12(3).
+
+2. The existence of a legitimate interest to access beneficial ownership information shall be determined by taking into consideration:
+
+| (a) | the function or occupation of the applicant; and |
+| --- | --- |
+
+| (b) | with the exception of persons referred to in Article 12(2), first subparagraph, points (a) and (b), the connection with the specific legal entities or legal arrangements whose information is being sought. |
+| --- | --- |
+
+3. Member States shall ensure that where access to information is requested by a person whose legitimate interest in accessing beneficial ownership information under one of the categories set out in Article 12(2), first subparagraph, has already been verified by the central register of another Member State, the verification of the condition laid down in paragraph 2, point (a), of this Article is satisfied by collecting proof of the legitimate interest issued by the central register of that other Member State.
+
+Member States may apply the procedure set out in the first subparagraph of this paragraph to the additional categories identified by other Member States pursuant to Article 12(2), second subparagraph.
+
+4. Member States shall ensure that entities in charge of central registers verify the identity of applicants whenever they access the registers. To that end, Member States shall ensure that sufficient processes are available for the verification of the identity of the applicant, including by allowing the use of electronic identification means and relevant qualified trust services as set out in Regulation (EU) No 910/2014 of the European Parliament and of the Council (39).
+
+5. For the purposes of paragraph 2, point (a), Member States shall ensure that central registers have mechanisms in place to allow repeated access to persons with a legitimate interest to access beneficial ownership information without the need to assess their function or occupation whenever accessing the information.
+
+6. From 10 November 2026, Member States shall ensure that the entities in charge of central registers conduct the verification referred to in paragraph 1 and provide a response to the applicant within 12 working days.
+
+By way of derogation from the first subparagraph, in the case of a sudden high number of requests for accessing beneficial ownership information pursuant to this Article, the deadline for providing a response to the applicant may be extended by 12 working days. If, after the extension has lapsed, the number of incoming requests continues to be high, that deadline may be extended by additional 12 working days.
+
+Member States shall notify the Commission of any extension as referred to in the second subparagraph in a timely manner.
+
+Where entities in charge of central registers decide to grant access to beneficial ownership information, they shall issue a certificate granting access for 3 years. Entities in charge of central registers shall respond to any subsequent request to access beneficial ownership information by the same person within 7 working days.
+
+7. Member States shall ensure that entities in charge of central registers shall only refuse a request to access beneficial ownership information on one of the following grounds:
+
+| (a) | the applicant has not provided the necessary information or documents pursuant to paragraph 1; |
+| --- | --- |
+
+| (b) | a legitimate interest to access beneficial ownership information has not been demonstrated; |
+| --- | --- |
+
+| (c) | where on the basis of information in its possession, the entity in charge of the central register has a reasonable concern that the information will not be used for the purposes for which it was requested or that the information will be used for purposes that are not connected to the prevention of money laundering, its predicate offences or terrorist financing; |
+| --- | --- |
+
+| (d) | one or more of the situations referred to in Article 15 applies; |
+| --- | --- |
+
+| (e) | in the cases referred to in paragraph 3, the legitimate interest to access beneficial ownership information granted by the central register of another Member State does not extend to the purposes for which the information is sought; |
+| --- | --- |
+
+| (f) | where the applicant is in a third country and responding to the request to access information would not comply with the provisions of Chapter V of Regulation (EU) 2016/679. |
+| --- | --- |
+
+Member States shall ensure that entities in charge of central registers consider requesting additional information or documents from the applicant prior to refusing a request for access on the grounds listed in points (a), (b), (c) and (e) of the first subparagraph. Where entities in charge of central registers request additional information, the deadline for providing a response shall be extended by 7 working days.
+
+8. Where entities in charge of central registers refuse to provide access to information pursuant to paragraph 7, Member States shall require that they inform the applicant of the reasons for refusal and of their right of redress. The entity in charge of the central register shall document the steps taken to assess the request and to obtain additional information pursuant to paragraph 7, second subparagraph.
+
+Member States shall ensure that entities in charge of central registers are able to revoke access where any of the grounds listed in paragraph 7 arise or become known to the entity in charge of the central register after such access has been granted, including, where relevant, on the basis of revocation by a central register in another Member State.
+
+9. Member States shall ensure that they have in place judicial or administrative remedies for challenging the refusal or revocation of access pursuant to paragraph 7.
+
+10. Member States shall ensure that entities in charge of central registers are able to repeat the verification of the function or occupation identified under paragraph 2, point (a), from time-to-time and in any case not earlier than 12 months after granting access, unless the entity in charge of the central register has reasonable grounds to believe that the legitimate interest no longer exists.
+
+11. Member States shall require persons who have been granted access pursuant to this Article to notify the entity in charge of the central register of changes that may trigger the cessation of a valid legitimate interest, including changes concerning their function or occupation.
+
+12. Member States may choose to make beneficial ownership information held in their central registers available to the applicants upon payment of a fee, which shall be limited to what is strictly necessary to cover the costs of ensuring the quality of the information held in those registers and of making the information available. Those fees shall be established in such a way so as not to undermine the effective access to the information held in the central registers.
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+1. The Commission shall define, by means of implementing acts, technical specifications and procedures necessary for the implementation of access on the basis of a legitimate interest by the central registers referred to in Article 10, including:
+
+| (a) | standardised templates for requesting access to the central register and for requesting access to beneficial ownership information on legal entities and legal arrangements; |
+| --- | --- |
+
+| (b) | standardised templates to be used by central registers to confirm or refuse a request to access the register or to access beneficial ownership information; |
+| --- | --- |
+
+| (c) | procedures to facilitate the mutual recognition of legitimate interest to access beneficial ownership information by the central registers in Member States other than the one where the request for access was first made and accepted, including procedures to ensure the secure transfer of information on an applicant; |
+| --- | --- |
+
+| (d) | procedures for central registers to notify each other of revocations of access to beneficial ownership information pursuant to Article 13(8). |
+| --- | --- |
+
+2. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+In exceptional circumstances to be laid down in national law, where the access referred to in Articles 11(3) and 12(1) would expose the beneficial owner to disproportionate risk of fraud, kidnapping, blackmail, extortion, harassment, violence or intimidation, or where the beneficial owner is a minor or otherwise legally incapable, Member States shall provide for an exemption from such access to all or part of the personal information on the beneficial owner. Member States shall ensure that such exemptions are granted on a case-by-case basis upon a detailed evaluation of the exceptional nature of the circumstances and confirmation that those disproportionate risks exist. The right to an administrative review of the decision granting an exemption and the right to an effective judicial remedy shall be guaranteed. A Member State that has granted exemptions shall publish annual statistical data on the number of exemptions granted and the reasons given and report the data to the Commission.
+
+Exemptions granted pursuant to this Article shall not apply to obliged entities as referred to in Article 3, point (3)(b), of Regulation (EU) 2024/1624 that are public officials.
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+1. Member States shall put in place centralised automated mechanisms, such as central registers or central electronic data retrieval systems, which allow the identification, in a timely manner, of any natural or legal persons holding or controlling payment accounts, or bank accounts identified by IBAN, including virtual IBANs, securities accounts, crypto-asset accounts and safe-deposit boxes held by a credit institution or financial institution within their territory.
+
+Member States shall notify the Commission of the characteristics of those national mechanisms as well as the criteria pursuant to which information is included in those national mechanisms.
+
+2. Member States shall ensure that the information held in the centralised automated mechanisms is directly accessible in an immediate and unfiltered manner to FIUs, as well as to AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620. The information shall also be accessible in a timely manner to supervisory authorities to fulfil their obligations under this Directive.
+
+3. The following information shall be accessible and searchable through the centralised automated mechanisms:
+
+| (a) | for customer-account holders and any person purporting to act on behalf of a customer account holder: the name, complemented by either the other identification data required under Article 22(1) of Regulation (EU) 2024/1624 or a unique identification number as well as, where applicable, the dates on which the person purporting to act on behalf of the customer started and ceased to have the power to act on behalf of the customer; |
+| --- | --- |
+
+| (b) | for beneficial owners of customer-account holders: the name, complemented by either the other identification data required under Article 22(1) of Regulation (EU) 2024/1624 or a unique identification number as well as the dates on which the natural person became and, where applicable, ceased to be the beneficial owner of the customer account holder; |
+| --- | --- |
+
+| (c) | for bank accounts or payment accounts: the IBAN number, or where the payment account is not identified by an IBAN number, the unique account identifier, and the date of account opening and, where applicable, the date of account closing; |
+| --- | --- |
+
+| (d) | for virtual IBANs issued by a credit institution or a financial institution: the virtual IBAN number, the unique account identifier of the account to which payments addressed to the virtual IBAN are automatically redirected, and the dates of account opening and closing; |
+| --- | --- |
+
+| (e) | for securities accounts: the unique identifier of the account, and the dates of account opening and closing; |
+| --- | --- |
+
+| (f) | for crypto-asset accounts: the unique identifier of the account, and the dates of account opening and closing; |
+| --- | --- |
+
+| (g) | for safe-deposit boxes: the name of the lessee complemented by either the other identification data required under Article 22(1) of Regulation (EU) 2024/1624, or a unique identification number and the date on which the lease started and, where applicable, the date on which it ended. |
+| --- | --- |
+
+In the case of a virtual IBAN, the customer account holder as referred to in point (a) of the first subparagraph shall be the holder of the account to which payments addressed to the virtual IBAN are automatically redirected.
+
+For the purposes of points (a) and (b) of the first subparagraph, the name shall comprise for natural persons, all names and surnames and for legal entities, legal arrangements or other organisations with legal capacity, the name under which they are registered.
+
+4. The Commission may establish, by means of implementing acts, the format for the submission of the information to the centralised automated mechanisms. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+5. Member States may require other information deemed essential for FIUs, for AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620 and for supervisory authorities to fulfil their obligations under this Directive to be accessible and searchable through the centralised automated mechanisms.
+
+6. The centralised automated mechanisms shall be interconnected via the bank account registers interconnection system (‘BARIS’), to be developed and operated by the Commission. The Commission shall ensure such interconnection in cooperation with Member States by 10 July 2029.
+
+The Commission may set out, by means of implementing acts, the technical specifications and procedures for the connection of Member States’ centralised automated mechanisms to BARIS. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+7. Member States shall ensure that the information referred to in paragraph 3 is available through BARIS. Member States shall take adequate measures to ensure that only the information referred to in paragraph 3 that is up to date and corresponds to the actual bank account and payment account, including virtual IBANs, securities account, crypto-asset account and safe-deposit box is made available through their national centralised automated mechanisms and through BARIS. Access to that information shall be granted in accordance with data protection rules.
+
+The other information that Member States consider essential for FIUs and other competent authorities pursuant to paragraph 4 shall not be accessible and searchable through BARIS.
+
+8. Member States shall ensure that information on holders of bank accounts or payment accounts, including virtual IBANs, securities accounts, crypto-asset accounts and safe-deposit boxes is made available through their national centralised automated mechanisms and through BARIS during a period of 5 years after the closure of the account.
+
+Without prejudice to national criminal law on evidence applicable to ongoing criminal investigations and legal proceedings, Member States may, in specific cases, permit such information to be retained, or require that such information be retained, for an additional maximum period of 5 years where Member States have established that such retention is necessary and proportionate for the purpose of preventing, detecting, investigating or prosecuting suspected money laundering or terrorist financing.
+
+9. FIUs and, for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620, AMLA shall be granted immediate and unfiltered access to the information on payment accounts and bank accounts identified by IBAN, including virtual IBAN, securities accounts, crypto-asset accounts and safe-deposit boxes in other Member States available through BARIS. Supervisory authorities shall be granted access in a timely manner to the information available through BARIS. Member States shall cooperate among themselves and with the Commission in order to implement this paragraph.
+
+Member States shall ensure that the staff of the national FIUs and supervisory authorities that have access to BARIS maintain high professional standards of confidentiality and data protection, are of high integrity and are appropriately skilled.
+
+The requirements laid down in the second subparagraph shall also apply to AMLA in the context of joint analyses and when acting as a supervisor.
+
+10. Member States shall ensure that technical and organisational measures are put in place to ensure the security of the data to high technological standards for the purposes of the exercise by FIUs and supervisory authorities of the power to access and search the information available through BARIS in accordance with paragraphs 5 and 6.
+
+The requirements laid down in the first subparagraph shall also apply to AMLA in the context of joint analyses and when acting as a supervisor.
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+1. The Commission may set out, by means of implementing acts, technical specifications and procedures necessary to provide for the interconnection of Member States’ central registers in accordance with Article 10(19) with regard to:
+
+| (a) | the technical specifications defining the set of the technical data necessary for the platform to perform its functions as well as the method of storage, use and protection of such data; |
+| --- | --- |
+
+| (b) | the common criteria according to which beneficial ownership information is available through the system of interconnection of central registers, depending on the level of access granted by Member States; |
+| --- | --- |
+
+| (c) | the technical details on how the information on beneficial owners is to be made available; |
+| --- | --- |
+
+| (d) | the technical conditions of availability of services provided by the system of interconnection of central registers; |
+| --- | --- |
+
+| (e) | the technical arrangements to implement the different types of access to information on beneficial ownership in accordance with Articles 11 and 12 of this Directive, including the authentication of users through the use of electronic identification means and relevant trust services as set out in Regulation (EU) No 910/2014; |
+| --- | --- |
+
+| (f) | the payment arrangements where access to beneficial ownership information is subject to the payment of a fee according to Articles 11(4) and 13(12) taking into account available payment facilities such as remote payment transactions. |
+| --- | --- |
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+2. The Commission may set out, by means of implementing acts, technical specifications and procedures necessary to provide for the interconnection of Member States’ centralised automated mechanisms as referred to in Article 16(6), with regard to:
+
+| (a) | the technical specification defining the methods of communication by electronic means for the purposes of BARIS; |
+| --- | --- |
+
+| (b) | the technical specification of the communication protocols; |
+| --- | --- |
+
+| (c) | the technical specifications defining the data security, data protection safeguards, use and protection of the information which is searchable and accessible by means of BARIS; |
+| --- | --- |
+
+| (d) | the common criteria according to which bank account information is searchable through BARIS; |
+| --- | --- |
+
+| (e) | the technical details on how the information is made available by means of BARIS, including the authentication of users through the use of electronic identification means and relevant trust services as set out in Regulation (EU) No 910/2014; |
+| --- | --- |
+
+| (f) | the technical conditions of availability of services provided by BARIS. |
+| --- | --- |
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+
+3. When adopting the implementing acts referred to in paragraphs 1 and 2, the Commission shall take into account proven technology and existing practices. The Commission shall ensure that BARIS to be developed and operated does not incur costs beyond what is absolutely necessary in order to implement this Directive.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+1. Member States shall ensure that competent authorities have immediate and direct access free of charge to information which allows for the identification in a timely manner of any real estate property and of the natural persons or legal entities or legal arrangements owning that property, as well as to information allowing for the identification and analysis of transactions involving real estate. That access shall be provided via a single access point to be established in each Member State which allows competent authorities to access, via electronic means, information in digital format, which shall be, where possible machine-readable.
+
+Access to the single access points referred to in the first subparagraph shall also be granted to AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620.
+
+2. Member States shall ensure that at least the following information is made available through the single access point referred to in paragraph 1:
+
+| (a) | information on the property:(i)cadastral parcel and cadastral reference;(ii)geographical location, including address of the property;(iii)area/size of the property;(iv)type of property, including whether built or non-built property and destination of use; |
+| --- | --- |
+| (i) | cadastral parcel and cadastral reference; |
+| (ii) | geographical location, including address of the property; |
+| (iii) | area/size of the property; |
+| (iv) | type of property, including whether built or non-built property and destination of use; |
+
+| (b) | information on ownership:(i)the name of the owner and any person purporting to act on behalf of the owner;(ii)where the owner is a legal entity, the name and legal form of the legal entity, as well as the company unique identification number and the tax identification number;(iii)where the owner is a legal arrangement, the name of the legal arrangement and the tax identification number;(iv)price at which the property has been acquired;(v)where applicable, any entitlements or restrictions; |
+| --- | --- |
+| (i) | the name of the owner and any person purporting to act on behalf of the owner; |
+| (ii) | where the owner is a legal entity, the name and legal form of the legal entity, as well as the company unique identification number and the tax identification number; |
+| (iii) | where the owner is a legal arrangement, the name of the legal arrangement and the tax identification number; |
+| (iv) | price at which the property has been acquired; |
+| (v) | where applicable, any entitlements or restrictions; |
+
+| (c) | information on encumbrances regarding:(i)mortgages;(ii)judicial restrictions;(iii)property rights;(iv)other guarantees, if any; |
+| --- | --- |
+| (i) | mortgages; |
+| (ii) | judicial restrictions; |
+| (iii) | property rights; |
+| (iv) | other guarantees, if any; |
+
+| (d) | history of property ownership, price and related encumbrances; |
+| --- | --- |
+
+| (e) | relevant documents. |
+| --- | --- |
+
+Member States shall ensure that, where a cadastral parcel includes multiple properties, the information referred to in the first subparagraph is provided in relation to each property in that cadastral parcel.
+
+Member States shall ensure that historical information pursuant to the first subparagraph, point (d), covers at least the period from 8 July 2019.
+
+3. Member States shall put in place mechanisms to ensure that the information provided through the single access point referred to in paragraph 1 is up to date and accurate.
+
+4. Member States shall have measures in place to ensure that information held electronically is provided immediately to the requesting competent authority. Where that information is not held electronically, Member States shall ensure that it is provided in a timely manner and in such a way as not to undermine the activities of the requesting competent authority.
+
+5. By 10 October 2029, Member States shall notify to the Commission:
+
+| (a) | the characteristics of the single access point referred to in paragraph 1 established at national level, including the website at which it can be accessed; |
+| --- | --- |
+
+| (b) | the list of competent authorities granted access to the single access point referred to in paragraph 1; |
+| --- | --- |
+
+| (c) | any data made available to competent authorities in addition to those listed in paragraph 2. |
+| --- | --- |
+
+Member States shall update such notification when changes to the list of competent authorities or to the extent of access to information granted occurs. The Commission shall make that information, including any change to it, available to the other Member States.
+
+6. By 10 July 2032, the Commission shall submit a report to the European Parliament and to the Council assessing the conditions and the technical specifications and procedures for ensuring secure and efficient interconnection of the single access points referred to in paragraph 1. Where appropriate, that report shall be accompanied by a legislative proposal.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+1. Each Member State shall establish an FIU in order to prevent, detect and effectively combat money laundering and terrorist financing.
+
+2. The FIU shall be the single central national unit responsible for receiving and analysing reports submitted by obliged entities in accordance with Article 69 of Regulation (EU) 2024/1624, reports submitted by obliged entities in accordance with Article 74 and Article 80(4), second subparagraph, of that Regulation, and any other information relevant to money laundering, its predicate offences or terrorist financing, including information transmitted by customs authorities pursuant to Article 9 of Regulation (EU) 2018/1672, as well as information submitted by supervisory authorities or by other authorities.
+
+3. The FIU shall be responsible for disseminating the results of its analyses and any additional information to relevant competent authorities where there are grounds to suspect money laundering, its predicate offences or terrorist financing. It shall be able to obtain additional information from obliged entities.
+
+The FIU’s financial analysis function shall consist of the following:
+
+| (a) | an operational analysis which focuses on individual cases and specific targets or on appropriate selected information, prioritised on the basis of risk, the type and volume of the disclosures received and the expected use of the information after dissemination; |
+| --- | --- |
+
+| (b) | a strategic analysis addressing money laundering and terrorist financing trends and patterns and evolutions thereof. |
+| --- | --- |
+
+4. Each FIU shall be operationally independent and autonomous, which means that it shall have the authority and capacity to carry out its functions freely, including the ability to take autonomous decisions to analyse, request and, in accordance with paragraph 3, disseminate specific information. It shall be free from any undue political, government or industry influence or interference.
+
+When an FIU is located within the existing structure of another authority, the FIU’s core functions shall be independent and operationally separated from the other functions of the host authority.
+
+5. Member States shall provide their FIUs with adequate financial, human and technical resources in order to fulfil their tasks. FIUs shall be able to obtain and deploy the resources needed to carry out their functions.
+
+6. Member States shall ensure that the staff of their FIUs are bound by professional secrecy requirements equivalent to those laid down in Article 67, and that they maintain high professional standards, including high standards of data protection, and are of high integrity and appropriately skilled in relation to the ethical handling of big data sets. Member States shall ensure that FIUs have in place procedures to prevent and manage conflicts of interest.
+
+7. Member States shall ensure that FIUs have rules in place governing the security and confidentiality of information.
+
+8. Member States shall ensure that FIUs have in place secure and protected channels for communicating and exchanging information by electronic means with competent authorities and obliged entities.
+
+9. Member States shall ensure that FIUs are able to make arrangements with other domestic competent authorities pursuant to Article 46 on the exchange of information.
+
+10. By 10 July 2028, AMLA shall issue guidelines addressed to FIUs on:
+
+| (a) | the measures to be put in place to preserve the operational autonomy and independence of the FIU, including measures to prevent that conflicts of interest affect its operational autonomy and independence; |
+| --- | --- |
+
+| (b) | the nature, features and objectives of operational and of strategic analysis; |
+| --- | --- |
+
+| (c) | tools and methods for use and cross-check of financial, administrative and law enforcement information to which FIUs have access; and |
+| --- | --- |
+
+| (d) | practices and procedures for the exercise of the suspension or the withholding of consent to a transaction and suspension or monitoring of an account or business relationship pursuant to Articles 24 and 25. |
+| --- | --- |
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+1. Member States shall ensure that FIUs designate a Fundamental Rights Officer. The Fundamental Rights Officer may be a member of the existing staff of the FIU.
+
+2. The Fundamental Rights Officer shall perform the following tasks:
+
+| (a) | advise the staff of the FIU on any activity carried out by the FIU where the Fundamental Rights Officer deems it necessary, or where requested by the staff, without impeding or delaying those activities; |
+| --- | --- |
+
+| (b) | promote and monitor the FIU’s compliance with fundamental rights; |
+| --- | --- |
+
+| (c) | provide non-binding opinions on the compliance of FIU’s activities with fundamental rights; |
+| --- | --- |
+
+| (d) | inform the head of the FIU about possible violations of fundamental rights in the course of the FIU’s activities. |
+| --- | --- |
+
+3. The FIU shall ensure that the Fundamental Rights Officer does not receive any instructions regarding the exercise of the Fundamental Rights Officer’s tasks.
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+1. Member States shall ensure that FIUs, regardless of their organisational status, have access to the information that they require to fulfil their tasks, including financial, administrative and law enforcement information. Member States shall ensure that FIUs have at least:
+
+| (a) | immediate and direct access to the following financial information:(i)information contained in the national centralised automated mechanisms in accordance with Article 16;(ii)information from obliged entities, including information on transfers of funds as defined in Article 3, point (9), of Regulation (EU) 2023/1113 and transfers of crypto-assets as defined in Article 3, point (10), of that Regulation;(iii)information on mortgages and loans;(iv)information contained in the national currency and currency exchange databases;(v)information on securities; |
+| --- | --- |
+| (i) | information contained in the national centralised automated mechanisms in accordance with Article 16; |
+| (ii) | information from obliged entities, including information on transfers of funds as defined in Article 3, point (9), of Regulation (EU) 2023/1113 and transfers of crypto-assets as defined in Article 3, point (10), of that Regulation; |
+| (iii) | information on mortgages and loans; |
+| (iv) | information contained in the national currency and currency exchange databases; |
+| (v) | information on securities; |
+
+| (b) | immediate and direct access to the following administrative information:(i)fiscal data, including data held by tax and revenue authorities as well as data obtained pursuant to Article 8(3a) of Council Directive 2011/16/EU (40);(ii)information on public procurement procedures for goods or services, or concessions;(iii)information from BARIS as referred to in Article 16, as well as from national real estate registers or electronic data retrieval systems and land and cadastral registers;(iv)information contained in national citizenship and population registers of natural persons;(v)information contained in national passports and visas registers;(vi)information contained in cross-border travel databases;(vii)information contained in commercial databases, including business and company registers and databases of politically exposed persons;(viii)information contained in national motor vehicles, aircraft and watercraft registers;(ix)information contained in national social security registers;(x)customs data, including cross-border physical transfers of cash;(xi)information contained in national weapons and arms registers;(xii)information contained in national beneficial ownership registers;(xiii)data available through the interconnection of central registers in accordance with Article 10(19);(xiv)information contained in registers of non-profit organisations;(xv)information held by national financial supervisors and regulators, in accordance with Article 61 and Article 67(2);(xvi)databases storing data on CO2 emission trading established pursuant to Commission Regulation (EU) No 389/2013 (41);(xvii)information on annual financial statements by companies;(xviii)national migration and immigration registers;(xix)information held by commercial courts;(xx)information held in insolvency databases and by insolvency practitioners;(xxi)information on funds and other assets frozen or immobilised pursuant to targeted financial sanctions; |
+| --- | --- |
+| (i) | fiscal data, including data held by tax and revenue authorities as well as data obtained pursuant to Article 8(3a) of Council Directive 2011/16/EU (40); |
+| (ii) | information on public procurement procedures for goods or services, or concessions; |
+| (iii) | information from BARIS as referred to in Article 16, as well as from national real estate registers or electronic data retrieval systems and land and cadastral registers; |
+| (iv) | information contained in national citizenship and population registers of natural persons; |
+| (v) | information contained in national passports and visas registers; |
+| (vi) | information contained in cross-border travel databases; |
+| (vii) | information contained in commercial databases, including business and company registers and databases of politically exposed persons; |
+| (viii) | information contained in national motor vehicles, aircraft and watercraft registers; |
+| (ix) | information contained in national social security registers; |
+| (x) | customs data, including cross-border physical transfers of cash; |
+| (xi) | information contained in national weapons and arms registers; |
+| (xii) | information contained in national beneficial ownership registers; |
+| (xiii) | data available through the interconnection of central registers in accordance with Article 10(19); |
+| (xiv) | information contained in registers of non-profit organisations; |
+| (xv) | information held by national financial supervisors and regulators, in accordance with Article 61 and Article 67(2); |
+| (xvi) | databases storing data on CO2 emission trading established pursuant to Commission Regulation (EU) No 389/2013 (41); |
+| (xvii) | information on annual financial statements by companies; |
+| (xviii) | national migration and immigration registers; |
+| (xix) | information held by commercial courts; |
+| (xx) | information held in insolvency databases and by insolvency practitioners; |
+| (xxi) | information on funds and other assets frozen or immobilised pursuant to targeted financial sanctions; |
+
+| (c) | direct or indirect access to the following law enforcement information:(i)any type of information or data which is already held by competent authorities in the context of preventing, detecting, investigating or prosecuting criminal offences;(ii)any type of information or data which is held by public authorities or by private entities in the context of preventing, detecting, investigating or prosecuting criminal offences and which is available to competent authorities without the taking of coercive measures under national law. |
+| --- | --- |
+| (i) | any type of information or data which is already held by competent authorities in the context of preventing, detecting, investigating or prosecuting criminal offences; |
+| (ii) | any type of information or data which is held by public authorities or by private entities in the context of preventing, detecting, investigating or prosecuting criminal offences and which is available to competent authorities without the taking of coercive measures under national law. |
+
+The information referred to in point (c) of the first subparagraph shall include criminal records, information on investigations, information on the freezing or seizure of assets, or on other investigative or provisional measures and information on convictions and on confiscations.
+
+Member States may allow the restriction of access to the law enforcement information referred to in point (c) of the first subparagraph on a case-by-case basis, where the provision of such information is likely to jeopardise an ongoing investigation.
+
+2. Access to the information listed in paragraph 1 shall be considered direct and immediate where the information is contained in an IT database, register or data retrieval system from which the FIU can retrieve the information without any intermediate steps, or where the following conditions are met:
+
+| (a) | the entities or authorities holding the information provide it expeditiously to FIUs; and |
+| --- | --- |
+
+| (b) | no entity, authority or third party is able to interfere with the requested data or the information to be provided. |
+| --- | --- |
+
+3. Member States shall ensure that, whenever possible, the FIU is granted direct access to the information listed in paragraph 1, first subparagraph, point (c). In cases where FIU is provided with indirect access to information, the entity or authority holding the requested information shall provide it in a timely manner.
+
+4. In the context of its functions, each FIU shall be able to request, obtain and use information from any obliged entity to perform its functions pursuant to Article 19(3) of this Directive, even if no prior report is filed pursuant to Article 69(1), the first subparagraph, point (a), or Article 70(1), of Regulation (EU) 2024/1624. Obliged entities shall not be obliged to comply with requests for information made pursuant to this paragraph when they concern information obtained in the situations referred to in Article 70(2) of that Regulation.
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. Member States shall ensure that FIUs are able to respond in a timely manner to reasoned requests for information justified by concerns relating to money laundering, its predicate offences or terrorist financing by the competent authorities referred to in Article 2(1), points (44)(c) and (d), of Regulation (EU) 2024/1624 in their respective Member State where that information is already held by the FIU and is necessary on a case-by-case basis. The decision on conducting the dissemination of information shall remain with the FIU.
+
+Where there are objective grounds for assuming that the provision of such information would have a negative impact on ongoing investigations or analyses, or, in exceptional circumstances, where disclosure of the information would be clearly disproportionate to the legitimate interests of a natural or legal person or irrelevant with regard to the purposes for which it has been requested, the FIU shall not be obliged to comply with the request for information.
+
+In such cases, the FIU shall provide the reasons in writing to the requesting authority.
+
+2. Competent authorities shall provide feedback to the FIU about the use made of, and the usefulness of, the information provided in accordance with this Article and Article 19(3), and about the outcome of actions taken and of investigations performed on the basis of that information. Such feedback shall be provided as soon as possible and in any case, in an aggregated form, at least on an annual basis, in such a way as to allow the FIU to improve its operational analysis function.
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+1. Member States shall ensure that FIUs provide supervisors, spontaneously or upon request, information that may be relevant for the purposes of supervision pursuant to Chapter IV, including at least information on:
+
+| (a) | the quality and quantity of suspicious transaction reports submitted by obliged entities; |
+| --- | --- |
+
+| (b) | the quality and timeliness of responses provided by obliged entities to FIU requests pursuant to Article 69(1), the first subparagraph, point (b), of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (c) | relevant results of strategic analyses carried out pursuant to Article 19(3), point (b), of this Directive, as well as any relevant information on money laundering, its predicate offences and terrorist financing trends and methods, including geographical, cross-border and emerging risks. |
+| --- | --- |
+
+2. Member States shall ensure that FIUs notify supervisors whenever information in their possession indicates potential breaches by obliged entities of Regulations (EU) 2024/1624 and (EU) 2023/1113.
+
+3. Except where strictly necessary for the purposes of paragraph 2, Member States shall ensure that information provided by FIUs pursuant to this Article does not contain any information on specific natural or legal persons nor cases including natural or legal persons subject to an ongoing analysis or investigation or which may lead to the identification of natural or legal persons.
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+1. Member States shall ensure that FIUs are empowered to take urgent action, directly or indirectly, where there is a suspicion that a transaction is related to money laundering or terrorist financing, to suspend or withhold consent to that transaction.
+
+Member States shall ensure that, where the need to suspend or withhold consent to a transaction is established on the basis of a suspicion reported pursuant to Article 69 of Regulation (EU) 2024/1624, the suspension or withholding of consent is imposed on the obliged entity within the period referred to in Article 71 of that Regulation. Where the need to suspend a transaction is based on the analytical work of the FIU, regardless of whether a prior report has been filed by the obliged entity, the suspension shall be imposed as soon as possible by the FIU.
+
+The suspension or withholding of consent to a transaction shall be imposed by the FIU in order to preserve the funds, to perform its analyses, including the analysis of the transaction, to assess whether the suspicion is confirmed and if so, to disseminate the results of the analyses to the relevant competent authorities to allow for the adoption of appropriate measures.
+
+Member States shall lay down the period of suspension or withholding of consent applicable for the FIUs analytical work which shall not exceed 10 working days. Member States may lay down a longer period where, pursuant to national law, FIUs perform the function of tracing, seizing, freezing or confiscating criminal assets. Where a longer period of suspension or withholding of consent is laid down, Member States shall ensure that FIUs exercise their function subject to appropriate national safeguards, such as the possibility for the person whose transaction has been suspended to challenge that suspension before a court.
+
+Member States shall ensure that FIUs are empowered to lift the suspension or withholding of consent at any time where they conclude that the suspension or withholding of consent is no longer necessary to fulfil objectives set out in the third subparagraph.
+
+Member States shall ensure that FIUs are empowered to suspend or withhold consent as referred to in this paragraph at the request of an FIU from another Member State.
+
+2. Where there is a suspicion that a bank account or payment account, a crypto-asset account or a business relationship is related to money laundering or terrorist financing, Member States shall ensure that the FIU is empowered to take urgent action, directly or indirectly, to suspend the use of that account or to suspend the business relationship in order to preserve the funds, to perform its analyses, to assess whether the suspicion is confirmed and if so, to disseminate the results of the analyses to the relevant competent authorities to allow for the adoption of appropriate measures.
+
+Member States shall lay down the period of suspension applicable for the FIUs analytical work which shall not exceed 5 working days. Member States may lay down a longer period where, pursuant to national law, FIUs perform the function of tracing, seizing, freezing or confiscating criminal assets. Where a longer period of suspension is laid down, Member States shall ensure that FIUs exercise their function subject to appropriate national safeguards, such as the possibility for the person whose bank account or payment account, crypto-asset account or business relationship is suspended to challenge that suspension before a court.
+
+Member States shall ensure that FIUs are empowered to lift the suspension at any time where they conclude that the suspension is no longer necessary to fulfil objectives set out in the first subparagraph.
+
+Member States shall ensure that FIUs are empowered to suspend the use of an account or suspend a business relationship as referred to in this paragraph at the request of an FIU from another Member State.
+
+3. The imposition of a suspension or the withholding of consent in accordance with this Article shall not attach liability of any kind to the FIU or its directors or employees.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+Member States shall ensure that FIUs are empowered to instruct obliged entities to monitor, for a period to be specified by the FIU, the transactions or activities that are being carried out through one or more bank accounts or payment accounts or crypto-asset accounts or other business relationships managed by the obliged entity for persons who present a significant risk of money laundering, its predicate offences or terrorist financing. Member States shall also ensure that FIUs are empowered to instruct the obliged entity to report on the results of the monitoring.
+
+Member States shall ensure that FIUs are empowered to impose monitoring measures as referred to in this Article at the request of an FIU from another Member State.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+1. Member States shall ensure that FIUs are able to alert obliged entities of information relevant for the performance of customer due diligence pursuant to Chapter III of Regulation (EU) 2024/1624. That information shall include:
+
+| (a) | types of transactions or activities that present a significant risk of money laundering, its predicate offences and terrorist financing; |
+| --- | --- |
+
+| (b) | specific persons that present a significant risk of money laundering, its predicate offences and terrorist financing; |
+| --- | --- |
+
+| (c) | specific geographic areas that present a significant risk of money laundering, its predicate offences and terrorist financing. |
+| --- | --- |
+
+2. The requirement referred in paragraph 1 shall apply for a period laid down in national law, which shall not exceed 6 months.
+
+3. FIUs shall provide obliged entities with strategic information about typologies, risk indicators and trends in money laundering and terrorist financing on an annual basis.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+Each Member State shall ensure that its FIU publishes an annual report on its activities. The report shall contain statistics on:
+
+| (a) | the follow up given by the FIU to suspicious transaction and activity reports it has received; |
+| --- | --- |
+
+| (b) | suspicious transaction reports submitted by obliged entities; |
+| --- | --- |
+
+| (c) | disclosures by supervisors and central registers; |
+| --- | --- |
+
+| (d) | disseminations to competent authorities and follow-up given to those disseminations; |
+| --- | --- |
+
+| (e) | requests submitted to and received from other FIUs; |
+| --- | --- |
+
+| (f) | requests submitted to and received from competent authorities referred to in Article 2(1), point (44)(c), of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (g) | human resources allocated; |
+| --- | --- |
+
+| (h) | data on cross-border physical transfers of cash transmitted by customs authorities pursuant to Article 9 of Regulation (EU) 2018/1672. |
+| --- | --- |
+
+The report referred to in the first paragraph shall also contain information on the trends and typologies identified in the files disseminated to other competent authorities. The information contained in the report shall not permit the identification of any natural or legal person.
+
+<a id="art_28"></a>
+
+### art_28
+
+Article 28
+
+1. Member States shall ensure that FIUs provide obliged entities with feedback on the reporting of suspicions pursuant to Article 69 of Regulation (EU) 2024/1624. Such feedback shall cover at least the quality of the information provided, the timeliness of reporting, the description of the suspicion and the documentation provided at submission stage.
+
+Feedback pursuant to this Article shall not be understood as encompassing each report submitted by obliged entities.
+
+The FIU shall provide feedback at least once per year, whether provided to the individual obliged entity or to groups or categories of obliged entities, taking into consideration the overall number of suspicious transactions reported by the obliged entities.
+
+Feedback shall also be made available to supervisors to allow them to perform risk-based supervision in accordance with Article 40.
+
+FIUs shall report on an annual basis to AMLA on the provision of feedback to obliged entities pursuant to this Article, and shall provide statistics on the number of suspicious transaction reports submitted by the categories of obliged entities.
+
+By 10 July 2028, AMLA shall issue recommendations to FIUs on best practices and approaches towards the provision of feedback, including on the type and frequency of feedback.
+
+The obligation to provide feedback shall not jeopardise any ongoing analytical work carried out by the FIU or any investigation or administrative action subsequent to the dissemination by the FIU, and shall not affect the applicability of data protection and confidentiality requirements.
+
+2. Member States shall ensure that FIUs provide customs authorities with feedback, at least on an annual basis, on the effectiveness of and follow-up to the information transmitted pursuant to Article 9 of Regulation (EU) 2018/1672.
+
+<a id="art_29"></a>
+
+### art_29
+
+Article 29
+
+Member States shall ensure that FIUs cooperate with each other to the greatest extent possible, regardless of their organisational status.
+
+<a id="art_30"></a>
+
+### art_30
+
+Article 30
+
+1. A system for the exchange of information between FIUs of Member States (FIU.net) shall be set up. FIU.net shall ensure the secure communication and exchange of information and shall be capable of producing a written record of all processing activities. FIU.net may also be used for communications with FIUs’ counterparts in third countries and with other authorities and with Union bodies, offices and agencies. FIU.net shall be managed by AMLA.
+
+FIU.net shall be used for the exchange of information between FIUs and AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620.
+
+2. Member States shall ensure that FIUs exchange information pursuant to Article 31 and 32 using FIU.net. In the event of a technical failure of FIU.net, the information shall be transmitted by any other appropriate means ensuring a high level of data security and data protection.
+
+Exchanges of information between FIUs and their counterparts in third countries that are not connected to FIU.net shall take place through protected channels of communication.
+
+3. Member States shall ensure that, in order to fulfil their tasks as laid down in this Directive, FIUs cooperate to the greatest extent possible in the application of state-of-the-art technologies in accordance with their national law.
+
+Member States shall also ensure that FIUs cooperate to the greatest extent possible in the application of solutions developed and managed by AMLA in accordance with Article 5(5), point (i), Article 45(1), point (d), and Article 47 of Regulation (EU) 2024/1620.
+
+4. Member States shall ensure that FIUs are able to use the functionalities of the FIU.net to cross-match, on a hit/no-hit basis, the data they make available on FIU.net, with the data made available on that system by other FIUs and Union bodies, offices and agencies insofar as such cross-matching falls within the respective mandates of those Union bodies, offices and agencies.
+
+5. AMLA may suspend the access of an FIU or counterpart in a third country or Union body, office or agency to FIU.net where it has grounds to believe that such access would jeopardise the implementation of this Chapter and the security and confidentiality of the information held by FIUs and exchanged through FIU.net, including where there are concerns in relation to an FIU’s independence and autonomy.
+
+<a id="art_31"></a>
+
+### art_31
+
+Article 31
+
+1. Member States shall ensure that FIUs exchange, spontaneously or upon request, any information that may be relevant for the processing or analysis of information by the FIU related to money laundering, its predicate offences, or terrorist financing, and the natural or legal person involved, regardless of the type of predicate offences that may be involved, and even if the type of predicate offences that may be involved is not identified at the time of the exchange.
+
+A request shall contain the relevant facts, background information, reasons for the request, links with the country of the requested FIU and how the information sought will be used.
+
+When an FIU receives a report pursuant to Article 69(1), the first subparagraph, point (a), of Regulation (EU) 2024/1624 which concerns another Member State, it shall promptly forward the report, or all the relevant information obtained from it, to the FIU of that other Member State.
+
+2. By 10 July 2026, AMLA shall develop draft implementing technical standards and submit them to the Commission for adoption. Those draft implementing technical standards shall specify the format to be used for the exchange of the information referred to in paragraph 1.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 53 of Regulation (EU) 2024/1620.
+
+3. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall specify the relevance and selection criteria when determining whether a report submitted pursuant to Article 69(1), first subparagraph, point (a), of Regulation (EU) 2024/1624 concerns another Member State as referred to in paragraph 1, third subparagraph, of this Article.
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+4. By 10 July 2028, AMLA shall issue guidelines addressed to FIUs on the procedures to be put in place when forwarding and receiving a report pursuant to Article 69(1), the first subparagraph, point (a), of Regulation (EU) 2024/1624 which concerns another Member State, and the follow-up to be given to that report.
+
+5. Member States shall ensure that the FIU to whom the request is made is required to use the whole range of its available powers which it would normally use domestically for receiving and analysing information when it replies to a request for information referred to in paragraph 1 from another FIU.
+
+When an FIU seeks to obtain additional information from an obliged entity established in another Member State which operates on the territory of its Member State, the request shall be addressed to the FIU of the Member State in whose territory the obliged entity is established. That FIU shall obtain information in accordance with Article 69(1) of Regulation (EU) 2024/1624 and transfer the answers promptly.
+
+6. Member States shall ensure that where an FIU is requested to provide information pursuant to paragraph 1, it shall respond to the request as soon as possible and in any case no later than 5 working days after the receipt of the request if the FIU is either in possession of the requested information or the requested information is held in a database or register which is directly accessible by the requested FIU. In exceptional, duly justified cases, this deadline may be extended to a maximum of 10 working days. Where the requested FIU is unable to obtain the requested information, it shall inform the requesting FIU thereof.
+
+7. Member States shall ensure that in exceptional, justified and urgent cases and, by way of derogation from paragraph 6, where pursuant to paragraph 1 an FIU is requested to provide information which is either held in a database or registry directly accessible by the requested FIU or which is already in its possession, the requested FIU shall provide that information no later than 1 working day after the receipt of the request.
+
+If the requested FIU is unable to respond within 1 working day or cannot access the information directly, it shall provide a justification. Where the provision of the information requested within 1 working day would put a disproportionate burden on the requested FIU, it may postpone the provision of the information. In that case, the requested FIU shall immediately inform the requesting FIU of such postponement. The requested FIU may extend to a maximum of 3 working days the deadline to reply to a request for information.
+
+8. An FIU may refuse to exchange information only in exceptional circumstances where the exchange could be contrary to fundamental principles of its national law. Those exceptional circumstances shall be specified in a way which prevents misuse of, and undue limitations on, the free exchange of information for analytical purposes.
+
+By 10 July 2028, Member States shall notify to the Commission the exceptional circumstances referred to in the first subparagraph. Member States shall update such notifications where changes to the exceptional circumstances identified at national level occur.
+
+The Commission shall publish the consolidated list of notifications referred to in the second subparagraph.
+
+9. By 10 July 2029, the Commission shall submit a report to the European Parliament and to the Council assessing whether the exceptional circumstances notified pursuant to paragraph 8 are justified.
+
+<a id="art_32"></a>
+
+### art_32
+
+Article 32
+
+1. Member States shall ensure that their FIUs are able to carry out joint analyses of suspicious transactions and activities.
+
+2. For the purpose of paragraph 1 of this Article, the relevant FIUs, assisted by AMLA in accordance with Article 40 of Regulation (EU) 2024/1620, shall set up a joint analysis team for a specific purpose and limited period, which may be extended by mutual consent, to carry out operational analyses of suspicious transactions or activities involving one or more of the FIUs setting up the team.
+
+3. A joint analysis team may be set up where:
+
+| (a) | an FIU’s operational analyses require difficult and demanding analyses with links to other Member States; |
+| --- | --- |
+
+| (b) | a number of FIUs are conducting operational analyses in which the circumstances of the case justify concerted action in the Member States involved. |
+| --- | --- |
+
+A request for the setting up of a joint analysis team may be made by any of the FIUs concerned or AMLA pursuant to Article 44 of Regulation (EU) 2024/1620.
+
+4. Member States shall ensure that the staff member of their FIU allocated to the joint analysis team is able, in accordance with the applicable national law and within the limits of the staff member’s competence, to provide the team with information available to its FIU for the purpose of the analysis conducted by the team.
+
+5. Where the joint analysis team needs assistance from a FIU other than those which are part of the team, it might request that other FIU to:
+
+| (a) | join the joint analysis team; |
+| --- | --- |
+
+| (b) | submit financial intelligence and financial information to the joint analysis team. |
+| --- | --- |
+
+6. Member States shall ensure that FIUs are able to invite third parties, including Union bodies, offices and agencies, to take part in the joint analyses where relevant for the purposes of the joint analyses and where such participation falls within the respective mandates of those third parties.
+
+Member States shall ensure that the FIUs participating in the joint analyses determine the conditions that apply in relation to the participation of third parties and put in place measures guaranteeing the confidentiality and security of the information exchanged. Member States shall ensure that the information exchanged is used solely for the purposes for which that joint analysis was set up.
+
+<a id="art_33"></a>
+
+### art_33
+
+Article 33
+
+Information and documents received pursuant to Articles 29, 31 and 32 shall be used for the accomplishment of the FIU’s tasks as laid down in this Directive. When exchanging information and documents pursuant to Articles 29 and 31, the transmitting FIU may impose restrictions and conditions for the use of that information, except where the transmission consists of a report submitted by an obliged entity pursuant to Article 69(1) of Regulation (EU) 2024/1624, or information derived therefrom, which concerns another Member State where the obliged entity operates through the freedom to provide services and which includes no link to the Member State of the transmitting FIU. The receiving FIU shall comply with those restrictions and conditions.
+
+Member States shall ensure that FIUs designate at least one contact person or point to be responsible for receiving requests for information from FIUs in other Member States.
+
+<a id="art_34"></a>
+
+### art_34
+
+Article 34
+
+1. Member States shall ensure that the information exchanged pursuant to Articles 29, 31 and 32 is used only for the purpose for which it was sought or provided and that any dissemination of that information by the receiving FIU to any other authority, agency or department, or any use of this information for purposes other than those originally approved, is made subject to the prior consent by the FIU providing the information.
+
+The requirements of the first subparagraph of this paragraph shall not apply where the information provided by the FIU consists of a report submitted by an obliged entity pursuant to Article 69(1) of Regulation (EU) 2024/1624 which concerns another Member State where the obliged entity operates through the freedom to provide services and which has no link to the Member State of the FIU providing the information.
+
+2. Member States shall ensure that the requested FIU’s prior consent to disseminate the information to competent authorities is granted promptly and to the largest extent possible, regardless of the type of predicate offences and whether or not the predicate offence has been identified. The requested FIU shall not refuse its consent to such dissemination unless this would fall beyond the scope of application of its AML/CFT provisions or could lead to impairment of an investigation, or would otherwise not be in accordance with fundamental principles of national law of that Member State. Any such refusal to grant consent shall be appropriately explained. The cases where FIUs may refuse to grant consent shall be specified in a way which prevents misuse of, and undue limitations to, the dissemination of information to competent authorities.
+
+3. By 10 July 2028, Member States shall notify to the Commission the exceptional circumstances in which dissemination would not be in accordance with fundamental principles of national law referred to in paragraph 2. Member States shall update such notifications where changes to the exceptional circumstances identified at national level occur.
+
+The Commission shall publish the consolidated list of notifications referred to in the first subparagraph.
+
+4. By 10 July 2029, the Commission shall submit a report to the European Parliament and to the Council assessing whether the exceptional circumstances notified pursuant to paragraph 3 are justified.
+
+<a id="art_35"></a>
+
+### art_35
+
+Article 35
+
+Differences between national law definitions of predicate offences shall not impede the ability of FIUs to provide assistance to another FIU and shall not limit the exchange, dissemination and use of information pursuant to Articles 31, 32, 33 and 34.
+
+<a id="art_36"></a>
+
+### art_36
+
+Article 36
+
+1. Member States shall ensure that FIUs have in place mechanisms to protect the identity of the obliged entities and their employees, or persons in an equivalent position, including agents and distributors, who report suspicions pursuant to Article 69(1), first subparagraph, point (a), of Regulation (EU) 2024/1624.
+
+2. Member States shall ensure that FIUs do not disclose the source of the report referred to in paragraph 1 of this Article, when responding to requests for information by competent authorities pursuant to Article 22 or when disseminating the results of their analyses pursuant to Article 19. This paragraph is without prejudice to the applicable national criminal procedural law.
+
+<a id="art_37"></a>
+
+### art_37
+
+Article 37
+
+1. Each Member State shall ensure that all obliged entities established in its territory, except for the circumstances covered in Article 38, are subject to adequate and effective supervision. To that end, each Member State shall appoint one or more supervisors to monitor effectively, and to take the measures necessary to ensure compliance by the obliged entities with Regulations (EU) 2024/1624 and (EU) 2023/1113.
+
+Where, for reasons of overriding general interest, Member States have introduced specific authorisations requirements for obliged entities to operate in their territory under the freedom to provide services, they shall ensure that the activities carried out by the obliged entities under those specific authorisations are subject to supervision by their national supervisors, regardless of whether the authorised activities are carried out through an infrastructure in their territory or remotely. Member States shall also ensure that supervision under this subparagraph is notified to the supervisors of the Member State where the head office of the obliged entity is located.
+
+This paragraph shall not apply when AMLA acts as a supervisor.
+
+2. Member States shall ensure that supervisors have adequate financial, human and technical resources to perform their tasks as listed in paragraph 5. Member States shall ensure that staff of those authorities are of high integrity and appropriately skilled, and maintain high professional standards, including standards of confidentiality, data protection and standards addressing conflicts of interest.
+
+3. In the case of the obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624, Member States may allow the function referred to in paragraph 1 of this Article to be performed by self-regulatory bodies, provided that those self-regulatory bodies have the powers referred to in paragraph 6 of this Article and have adequate financial, human and technical resources to perform their functions. Member States shall ensure that staff of those bodies are of high integrity and appropriately skilled, and that they maintain high professional standards, including standards of confidentiality, data protection and standards addressing conflicts of interest.
+
+4. Where a Member State has entrusted the supervision of a category of obliged entities to more than one supervisor, it shall ensure that those supervisors supervise obliged entities in a consistent and efficient manner across the sector. To that end, the Member State shall appoint a leading supervisor or establish a coordination mechanism among those supervisors.
+
+Where a Member State has entrusted the supervision of all obliged entities to more than one supervisor, it shall establish a coordination mechanism among those supervisors to ensure that obliged entities are effectively supervised to the highest standards. Such a coordination mechanism shall include all supervisors, except where:
+
+| (a) | supervision is entrusted to a self-regulatory body, in which case the public authority referred to in Article 52 shall participate in the coordination mechanism; |
+| --- | --- |
+
+| (b) | supervision of a category of obliged entities is entrusted to several supervisors, in which case the lead supervisor shall participate in the coordination mechanism; where no lead supervisor has been appointed, supervisors shall designate a representative among them. |
+| --- | --- |
+
+5. For the purposes of paragraph 1, Member States shall ensure that the national supervisors perform the following tasks:
+
+| (a) | to disseminate relevant information to obliged entities pursuant to Article 39; |
+| --- | --- |
+
+| (b) | to decide on those cases where the specific risks inherent in a sector are clear and understood and individual documented risk assessments pursuant to Article 10 of Regulation (EU) 2024/1624 are not required; |
+| --- | --- |
+
+| (c) | to verify the adequacy and implementation of the internal policies, procedures and controls of obliged entities pursuant to Chapter II of Regulation (EU) 2024/1624 and of the human resources allocated to the performance of the tasks required under that Regulation, as well as, for supervisors of collective investment undertakings, to decide on those cases where the collective investment undertaking may outsource the reporting of suspicious activities pursuant to Article 18(7) of Regulation (EU) 2024/1624 to a service provider; |
+| --- | --- |
+
+| (d) | to regularly assess and monitor the money laundering and terrorist financing risks as well as the risks of non-implementation and evasion of targeted financial sanctions the obliged entities are exposed to; |
+| --- | --- |
+
+| (e) | to monitor compliance by obliged entities with regard to their obligations in relation to targeted financial sanctions; |
+| --- | --- |
+
+| (f) | to conduct all the necessary off-site investigations, on-site inspections and thematic checks and any other inquiries, assessments and analyses necessary to verify that obliged entities comply with Regulation (EU) 2024/1624, and with any administrative measures taken pursuant to Article 56 of this Directive; |
+| --- | --- |
+
+| (g) | to take appropriate supervisory measures to address any breaches of applicable requirements by the obliged entities identified in the process of supervisory assessments and follow up on the implementation of such measures. |
+| --- | --- |
+
+6. Member States shall ensure that supervisors have adequate powers to perform their tasks as provided for in paragraph 5, including the power to:
+
+| (a) | compel the production of any information from obliged entities which is relevant for monitoring and verifying compliance with Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113 and to perform checks, including from service providers to whom the obliged entity has outsourced part of its tasks to meet the requirements of those Regulations; |
+| --- | --- |
+
+| (b) | apply appropriate and proportionate administrative measures to remedy the situation in the case of breaches, including through the imposition of pecuniary sanctions in accordance with Section 4 of this Chapter. |
+| --- | --- |
+
+7. Member States shall ensure that financial supervisors and supervisors in charge of gambling service providers have powers additional to those referred to in paragraph 6, including the power to inspect the business premises of the obliged entity without prior announcement where the proper conduct and efficiency of an inspection so require, and that they have all the necessary means to carry out such inspection.
+
+For the purposes of the first subparagraph, the supervisors shall at least be able to:
+
+| (a) | examine the books and records of the obliged entity and take copies or extracts from such books and records; |
+| --- | --- |
+
+| (b) | obtain access to any software, databases, IT tools or other electronic means of recording information used by the obliged entity; |
+| --- | --- |
+
+| (c) | obtain written or oral information from any person responsible for AML/CFT internal policies, procedures and controls or their representatives or staff, as well as any representative or staff of entities to which the obliged entity has outsourced tasks pursuant to Article 18 of Regulation (EU) 2024/1624, and interview any other person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation. |
+| --- | --- |
+
+<a id="art_38"></a>
+
+### art_38
+
+Article 38
+
+1. Where the activities of the following obliged entities are carried out in their territory under the freedom to provide services through agents or distributors, or through other types of infrastructure, including when those activities are carried out under an authorisation obtained under Directive 2013/36/EU, Member States shall ensure that such activities are subject to supervision by their national supervisors:
+
+| (a) | electronic money issuers as defined in Article 2, point (3), of Directive 2009/110/EC of the European Parliament and of the Council (42); |
+| --- | --- |
+
+| (b) | payment service providers as defined in Article 4, point (11), of Directive (EU) 2015/2366; and |
+| --- | --- |
+
+| (c) | crypto-asset service providers. |
+| --- | --- |
+
+For the purposes of the first subparagraph, the supervisors of the Member State where the activities are carried out shall monitor effectively and ensure compliance with the Regulations (EU) 2024/1624 and (EU) 2023/1113.
+
+2. By way of derogation from paragraph 1, supervision of agents, distributors, or other types of infrastructure, referred to in that paragraph shall be carried out by the supervisor of the Member State where the head office of the obliged entity is located where:
+
+| (a) | the criteria set out in the regulatory technical standard referred to in Article 41(2) are not met; and |
+| --- | --- |
+
+| (b) | the supervisor of the Member State where those agents, distributors, or other types of infrastructure, are located notifies the supervisor of the Member State where the head office of the obliged entity is located that, considering the limited infrastructure of the entity in its territory, supervision of the activities referred to in paragraph 1 is to be carried out by the supervisor of the Member State where the head office of the obliged entity is located. |
+| --- | --- |
+
+3. For the purposes of this Article, the supervisor of the Member State where the head office of the obliged entity is located and the supervisor of the Member State where the obliged entity operates under the freedom to provide services through agents or distributors, or through other types of infrastructure, shall provide each other any information necessary to assess whether the criteria referred to in paragraph 2, point (a), are met, including on any change in the circumstances of the obliged entity that may have an impact on the satisfaction of those criteria.
+
+4. Member States shall ensure that the supervisor of the Member State where the head office of the obliged entity is located informs the obliged entity within 2 weeks of receiving the notification under paragraph 2, point (b), that it will supervise the activities of the agents, distributors, or other types of infrastructure, through which the obliged entities operates under the freedom to provide services in another Member State, and of any subsequent change to their supervision.
+
+5. This Article shall not apply when AMLA acts as a supervisor.
+
+<a id="art_39"></a>
+
+### art_39
+
+Article 39
+
+1. Member States shall ensure that supervisors make information on money laundering and terrorist financing available to the obliged entities under their supervision.
+
+2. The information referred to in paragraph 1 shall include the following:
+
+| (a) | the risk assessment at Union level conducted by the Commission pursuant to Article 7 and any relevant recommendation by the Commission on the basis of that Article; |
+| --- | --- |
+
+| (b) | national or sectoral risk assessments carried out pursuant to Article 8; |
+| --- | --- |
+
+| (c) | relevant guidelines, recommendations and opinions issued by AMLA in accordance with Articles 54 and 55 of Regulation (EU) 2024/1620; |
+| --- | --- |
+
+| (d) | information on third countries identified pursuant to Chapter III, Section 2, of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (e) | any guidance and report produced by AMLA, other supervisors and, where relevant, the public authority overseeing self-regulatory bodies, the FIU or any other competent authority or international organisations and standard setters regarding money laundering and terrorist financing methods which might apply to a sector and indications which may facilitate the identification of transactions or activities at risk of being linked to money laundering and terrorist financing in that sector, as well as guidance on obliged entities’ obligations in relation to targeted financial sanctions. |
+| --- | --- |
+
+3. Member States shall ensure that supervisors carry out outreach activities, as appropriate, to inform the obliged entities under their supervision of their obligations.
+
+4. Member States shall ensure that supervisors make information on persons or entities designated in relation to targeted financial sanctions and UN financial sanctions available to the obliged entities under their supervision immediately.
+
+<a id="art_40"></a>
+
+### art_40
+
+Article 40
+
+1. Member States shall ensure that supervisors apply a risk-based approach to supervision. To that end, Member States shall ensure that they:
+
+| (a) | have a clear understanding of the risks of money laundering and terrorist financing present in their Member State; |
+| --- | --- |
+
+| (b) | assess all relevant information on the specific domestic and international risks associated with customers, products and services of the obliged entities; |
+| --- | --- |
+
+| (c) | base the frequency and intensity of on-site, off-site and thematic supervision on the risk profile of obliged entities, and on the risks of money laundering and terrorist financing in that Member State. |
+| --- | --- |
+
+For the purposes of point (c) of the first subparagraph of this paragraph, supervisors shall draw up annual supervisory programmes, which shall take into account the timing and resources needed to react promptly in the event of objective and significant indications of breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113.
+
+2. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall set out the benchmarks and a methodology for assessing and classifying the inherent and residual risk profile of obliged entities, as well as the frequency at which such risk profile shall be reviewed. Such frequency shall take into account any major events or developments in the management and operations of the obliged entity, as well as the nature and size of the business.
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+3. By 10 July 2028, AMLA shall issue guidelines addressed to supervisors on:
+
+| (a) | the characteristics of a risk-based approach to supervision; |
+| --- | --- |
+
+| (b) | the measures to be put in place within supervisors to ensure adequate and effective supervision, including to train their staff; |
+| --- | --- |
+
+| (c) | the steps to be taken when conducting supervision on a risk-sensitive basis. |
+| --- | --- |
+
+Where relevant, the guidelines referred to in the first subparagraph shall take into account the outcomes of the assessments carried out pursuant to Articles 30 and 35 of Regulation (EU) 2024/1620.
+
+4. Member States shall ensure that supervisors take into account the degree of discretion allowed to the obliged entity, and appropriately review the risk assessments underlying this discretion, and the adequacy of its internal policies, procedures and controls.
+
+5. Member States shall ensure that supervisors prepare a detailed annual activity report and that a summary of that report is made public. That summary shall not contain confidential information and shall include:
+
+| (a) | the categories of obliged entities under the supervision and the number of obliged entities per category; |
+| --- | --- |
+
+| (b) | a description of the powers with which the supervisors are entrusted and the tasks assigned to them and, where relevant, of mechanisms referred to in Article 37(4) in which they participate and, for the lead supervisor, a summary of the coordination activities carried out; |
+| --- | --- |
+
+| (c) | an overview of the supervisory activities carried out. |
+| --- | --- |
+
+<a id="art_41"></a>
+
+### art_41
+
+Article 41
+
+1. For the purposes of Article 37(1) and Article 38(1), Member States may require electronic money issuers, payment service providers and crypto-asset service providers operating establishments in their territory other than a subsidiary or a branch, or operating in their territory through agents or distributors, or through other types of infrastructure, under the freedom to provide services, to appoint a central contact point in their territory. That central contact point shall ensure, on behalf of the obliged entity, compliance with AML/CFT rules and shall facilitate supervision by supervisors, including by providing supervisors with documents and information on request.
+
+2. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall set out the criteria for determining the circumstances in which the appointment of a central contact point pursuant to paragraph 1 is appropriate, and the functions of the central contact points.
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+<a id="art_42"></a>
+
+### art_42
+
+Article 42
+
+1. Member States shall ensure that if, in the course of the checks carried out on the obliged entities, or in any other way, supervisors discover facts that could be related to money laundering, its predicate offences or terrorist financing, they shall promptly inform the FIU.
+
+2. Member States shall ensure that supervisors empowered to oversee the stock, foreign exchange and financial derivatives markets, inform the FIU if they discover information that could be related to money laundering or terrorist financing.
+
+3. Member States shall ensure that compliance with the requirements of this Article does not replace any obligation for supervisory authorities to report to the relevant competent authorities any criminal activity they uncover or become aware of in the context of their supervisory activities.
+
+<a id="art_43"></a>
+
+### art_43
+
+Article 43
+
+Member States shall ensure that supervisors communicate to the FIU at least the following information:
+
+| (a) | the list of establishments operating in the respective Member State and the list of infrastructure under their supervision pursuant to Article 38(1), and of any changes to those lists; |
+| --- | --- |
+
+| (b) | any relevant findings indicating serious weaknesses of the reporting systems of obliged entities; |
+| --- | --- |
+
+| (c) | the results of the risk assessments performed pursuant to Article 40, in aggregated form. |
+| --- | --- |
+
+<a id="art_44"></a>
+
+### art_44
+
+Article 44
+
+Member States shall ensure that supervisors cooperate with each other to the greatest extent possible, regardless of their respective nature or status. Such cooperation may include conducting, within the powers of the requested supervisor, inquiries on behalf of a requesting supervisor, and the subsequent exchange of the information obtained through such inquiries, or facilitating the conduct of such inquiries by the requesting supervisor.
+
+<a id="art_45"></a>
+
+### art_45
+
+Article 45
+
+1. Member States shall ensure that the supervisors of the home Member State inform the supervisors of the host Member State as soon as possible, and in any case within 3 months of receiving a notification pursuant to Article 8(1) of Regulation (EU) 2024/1624 of the activities that the obliged entity intends to carry out in the host Member State.
+
+Any subsequent change notified to the supervisors of the home Member State pursuant to Article 8(2) of Regulation (EU) 2024/1624 shall be notified to the supervisors of the host Member State as soon as possible and in any case within 1 month of receiving it.
+
+2. Member States shall ensure that the supervisors of the home Member State share with the supervisors of the host Member State information on the activities effectively carried out by the obliged entity in the territory of the host Member State that they receive in the context of their supervisory activities, including information submitted by the obliged entities in response to supervisory questionnaires, and any relevant information connected to the activities carried out in the host Member State.
+
+The information referred to in the first subparagraph shall be exchanged at least annually. Where that information is provided in an aggregated form, Member States shall ensure that the supervisors of the home Member State respond promptly to any request for additional information by the supervisors of the host Member State.
+
+By way of derogation from the second subparagraph of this paragraph, Member States shall ensure that supervisors of the home Member State inform the supervisors of the host Member State immediately upon receiving notification by obliged entities pursuant to Article 8(1) of Regulation (EU) 2024/1624 that activities in the host Member State have commenced.
+
+<a id="art_46"></a>
+
+### art_46
+
+Article 46
+
+1. In the case of credit institutions and financial institutions that are part of a group, Member States shall ensure that, for the purposes laid down in Article 37(1), financial supervisors of the home Member State and those of the host Member State cooperate with each other to the greatest extent possible, regardless of their respective nature or status. They shall also cooperate with AMLA when acting as a supervisor.
+
+2. Except when AMLA acts as a supervisor, Member States shall ensure that the financial supervisors of the home Member State supervise the effective implementation of the group-wide policies, procedures and controls referred to in Chapter II, Section 2, of Regulation (EU) 2024/1624. Member States shall also ensure that financial supervisors of the host Member State supervise the compliance of the establishments located in the territory of their Member State with Regulations (EU) 2024/1624 and (EU) 2023/1113.
+
+3. For the purposes of this Article, and except in cases where AML/CFT supervisory colleges are set up in accordance with Article 49, Member States shall ensure that financial supervisors provide one another with any information they require for the exercise of their supervisory tasks, whether on request or on their own initiative. In particular, financial supervisors shall exchange any information that could significantly influence the assessment of the inherent or residual risk exposure of a credit institution or financial institution in another Member State, including:
+
+| (a) | identification of the group’s legal, governance and organisational structure, covering all subsidiaries and branches; |
+| --- | --- |
+
+| (b) | relevant information on the beneficial owners and senior management, including outcomes of fit and proper checks, whether carried out under this Directive or under other Union legal acts; |
+| --- | --- |
+
+| (c) | policies, procedures and controls in place within the group; |
+| --- | --- |
+
+| (d) | customer due diligence information, including customer files and records of transactions; |
+| --- | --- |
+
+| (e) | adverse developments in relation to the parent undertaking, subsidiaries or branches, which could seriously affect other parts of the group; |
+| --- | --- |
+
+| (f) | pecuniary sanctions that financial supervisors intend to impose and administrative measures that financial supervisors intend to apply in accordance with Section 4 of this Chapter. |
+| --- | --- |
+
+Member States shall also ensure that financial supervisors are able to conduct, within their powers, inquiries on behalf of a requesting supervisor, and to share the information obtained through such inquiries, or to facilitate the conduct of such inquiries by the requesting supervisor.
+
+4. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall detail the respective duties of the home and host supervisors, and the modalities of cooperation between them.
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+5. Financial supervisors may refer to AMLA any of the following situations:
+
+| (a) | where a financial supervisor has not communicated the information referred to in paragraph 3; |
+| --- | --- |
+
+| (b) | where a request for cooperation has been rejected or has not been acted upon within a reasonable time; |
+| --- | --- |
+
+| (c) | where there is a disagreement on the basis of objective reasons on breaches identified and on the pecuniary sanctions to be imposed or administrative measures to be applied on the entity or group to remedy those breaches. |
+| --- | --- |
+
+AMLA may act in accordance with the powers conferred on it under Article 33 of Regulation (EU) 2024/1620. When doing so, AMLA shall provide its opinion on the subject-matter of the request within 1 month.
+
+6. Member States shall ensure that this Article also applies to the supervision of:
+
+| (a) | groups of obliged entities in the non-financial sector; |
+| --- | --- |
+
+| (b) | obliged entities operating under the freedom to provide services without any infrastructure in another Member States than the Member State where they are established, where the supervision of activities in that other Member State is carried out by the supervisors of that other Member State pursuant to Article 37(1), second subparagraph. |
+| --- | --- |
+
+Where the situations referred to in paragraph 5 arise in relation to non-financial supervisors, AMLA may act in accordance with the powers conferred on it under Article 38 of Regulation (EU) 2024/1620.
+
+Member States shall also ensure that in cases where obliged entities in the non-financial sector are part of structures which share common ownership, management or compliance control, including networks or partnerships, non-financial supervisors cooperate and exchange information.
+
+<a id="art_47"></a>
+
+### art_47
+
+Article 47
+
+1. Where obliged entities that are not part of a group carry out cross-border activities as referred to in Article 54(1) and supervision is shared between the supervisors of the home and host Member States pursuant to Articles 37(1) and 38(1), Member States shall ensure that those supervisors cooperate with each other to the greatest extent possible and assist each other in the performance of supervision pursuant to Articles 37(1) and 38(1).
+
+For the purposes of the first subparagraph, and except in cases where AML/CFT supervisory colleges are set up in accordance with Article 49, Member States shall ensure that supervisors:
+
+| (a) | provide one another with any information they require for the exercise of their supervisory tasks, whether on request or on their own initiative, including the information referred to in Article 46(3), first subparagraph, points (a), (b) and (d), where that information is necessary for the performance of supervisory tasks; |
+| --- | --- |
+
+| (b) | inform one another of any adverse development in relation to the obliged entity, its establishments or types of infrastructure, which could seriously affect the entity’s compliance with applicable requirements, and pecuniary sanctions they intend to impose, or administrative measures they intend to apply in accordance with Section 4 of this Chapter; |
+| --- | --- |
+
+| (c) | are able to conduct, within their powers, inquiries on behalf of a requesting supervisor, and to share the information obtained through such inquiries, or to facilitate the conduct of such inquiries by the requesting supervisor. |
+| --- | --- |
+
+This paragraph shall also apply in the case of obliged entities that are established in a single Member State and operate under the freedom to provide services in another Member State without any infrastructure, where the supervision of activities in that other Member State is carried out by the supervisors of that Member State pursuant to Article 37(1), second subparagraph.
+
+2. Where supervision of the obliged entity and any of its types of infrastructure in other Member States is entrusted to the supervisors of the home Member State pursuant to Article 38(2), Member States shall ensure that the supervisors of the home Member State inform regularly the supervisors of the host Member State of the measures in place within the obliged entity, and compliance of that entity with applicable requirements, including those in place in the host Member State. Where serious, repeated or systematic breaches are identified, the supervisors of the home Member State shall promptly inform the supervisors of the host Member State of those breaches and of any pecuniary sanctions they intend to impose and administrative measures they intend to apply to remedy them.
+
+Member States shall ensure that supervisors of the host Member State provide assistance to the supervisors of the home Member State to ensure the verification of compliance by the obliged entity with legal requirements. In particular, Member States shall ensure that supervisors of the host Member State inform the supervisors of the home Member State of any serious doubts that they have regarding compliance of the obliged entity with applicable requirements, and that they share any information they hold in this regard with the supervisors of the home Member State.
+
+This paragraph shall also apply in the case of obliged entities that are established in a single Member State and operate under the freedom to provide services in another Member State without any infrastructure, except for cases where the supervision of activities in that other Member State is carried out by the supervisors of that other Member State pursuant to Article 37(1), second subparagraph.
+
+3. Supervisors shall be able to refer to AMLA any of the following situations:
+
+| (a) | where a supervisor has not communicated the information referred to in paragraph 1, second subparagraph, points (a) and (b) or paragraph 2, first and second subparagraph; |
+| --- | --- |
+
+| (b) | where a request for cooperation has been rejected or has not been acted upon within a reasonable time; |
+| --- | --- |
+
+| (c) | where there is a disagreement on the basis of objective reasons on breaches identified and on the pecuniary sanctions to be imposed on or administrative measures to be applied to the entity to remedy those breaches. |
+| --- | --- |
+
+AMLA shall act in accordance with the powers conferred on it under Articles 33 and 38 of Regulation (EU) 2024/1620. AMLA shall provide its opinion on the subject-matter of the request within 1 month.
+
+<a id="art_48"></a>
+
+### art_48
+
+Article 48
+
+Supervisors, including AMLA, shall inform each other of instances in which the law of a third country does not permit the implementation of the policies, procedures and controls required under Article 16 of Regulation (EU) 2024/1624. In such cases, coordinated actions may be taken by supervisors to pursue a solution. In assessing which third countries do not permit the implementation of the policies, procedures and controls required under Article 16 of Regulation (EU) 2024/1624, supervisors shall take into account any legal constraints that may hinder proper implementation of those policies, procedures and controls, including professional secrecy, an insufficient level of data protection and other constraints limiting the exchange of information that may be relevant for that purpose.
+
+<a id="art_49"></a>
+
+### art_49
+
+Article 49
+
+1. Member States shall ensure that dedicated AML/CFT supervisory colleges are set up by the financial supervisor in charge of the parent undertaking of a group of credit institutions or financial institutions or of the head office of a credit institution or financial institution in any of the following situations:
+
+| (a) | where a credit institution or a financial institution, including groups thereof, has set up establishments in at least two different Member States other than the Member State where its head office is located; |
+| --- | --- |
+
+| (b) | where a third-country credit institution or financial institution has set up establishments in at least three Member States. |
+| --- | --- |
+
+2. The permanent members of the college shall be the financial supervisor in charge of the parent undertaking or of the head office, the financial supervisors in charge of establishments in host Member States and the financial supervisors in charge of infrastructure in host Member States pursuant to Article 38.
+
+3. This Article shall not apply when AMLA acts as a supervisor.
+
+4. The activities of the AML/CFT supervisory colleges shall be proportionate to the level of the money laundering and terrorist financing risks to which the credit institution or financial institution or the group is exposed, and to the scale of its cross-border activities.
+
+5. For the purposes of paragraph 1, Member States shall ensure that financial supervisors identify:
+
+| (a) | all credit institutions or financial institutions that have been authorised in their Member State and that have establishments in other Member States or third countries; |
+| --- | --- |
+
+| (b) | all establishments set up by credit institutions or financial institutions in other Member States or third countries; |
+| --- | --- |
+
+| (c) | establishments set up in their territory by credit institutions or financial institutions from other Member States or third countries. |
+| --- | --- |
+
+6. In situations other than those covered by Article 38, where credit institutions or financial institutions carry out activities in other Member States under the freedom to provide services, the financial supervisor of the home Member State may invite the financial supervisors of those Member States to participate in the college as observers.
+
+7. Where a group of credit institutions or financial institutions includes any obliged entity in the non-financial sector, the financial supervisor setting up the college shall invite the supervisors of those obliged entities to participate in the college.
+
+8. Member States may allow the setting-up of AML/CFT supervisory colleges when a credit institution or financial institution established in the Union has set up establishments in at least two third countries. Financial supervisors may invite their counterparts in those third countries to set up such college. The financial supervisors participating in the college shall establish a written agreement detailing the conditions and procedures of the cooperation and exchange of information.
+
+9. Member States shall ensure that colleges are used, among others, for exchanging information, providing mutual assistance or coordinating the supervisory approach to the group or institution, including, where relevant, the taking of appropriate and proportionate measures to address serious breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113 that are detected at the level of the group or of the credit institution or financial institution or across the establishments set up by the group or institution in the jurisdiction of a supervisor participating in the college.
+
+10. AMLA may attend the meetings of the AML/CFT supervisory colleges and shall facilitate their work in accordance with Article 31 of Regulation (EU) 2024/1620. Where AMLA decides to participate in the meetings of an AML/CFT supervisory college, it shall have the status of an observer.
+
+11. Financial supervisors may allow their counterparts in third countries to participate as observers in AML/CFT supervisory colleges in the case referred to in paragraph 1, point (b) or where Union groups or credit institutions or financial institutions operate branches and subsidiaries in those third countries, provided that:
+
+| (a) | the third-country counterparts submit a request for participation and the members of the college agree with their participation, or the members of the college agree to invite those third-country counterparts; |
+| --- | --- |
+
+| (b) | Union data protection rules concerning data transfers are complied with; |
+| --- | --- |
+
+| (c) | the third-country counterparts sign the written agreement referred to in paragraph 8, third sentence, and share within the college the relevant information they possess for the supervision of the credit institutions or financial institutions or of the group; |
+| --- | --- |
+
+| (d) | the information disclosed is subject to a guarantee of professional secrecy requirements at least equivalent to that referred to in Article 67(1) and is used solely for the purposes of performing the supervisory tasks of the participating financial supervisors or of the counterparts in third countries. |
+| --- | --- |
+
+Member States shall ensure that financial supervisors setting up the colleges carry out an assessment of whether the conditions of the first subparagraph are met and submit it to the permanent members of the college. That assessment shall be carried out prior to the third-country counterpart being allowed to join the college and may be repeated as necessary thereafter. The financial supervisors of the home Member State may seek the support of AMLA for the performance of that assessment.
+
+12. Where deemed necessary by the permanent members of the college, additional observers may be invited, provided that confidentiality requirements are complied with. Observers may include prudential supervisors, including the ECB acting in accordance with Council Regulation (EU) No 1024/2013 (43), as well as the European Supervisory Authorities and FIUs.
+
+13. Where the members of a college disagree on the measures to be taken in relation to an obliged entity, they may refer the matter to AMLA and request its assistance in accordance with Article 33 of Regulation (EU) 2024/1620.
+
+14. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall specify:
+
+| (a) | the general conditions for the functioning, on a risk-sensitive basis, of the AML/CFT supervisory colleges in the financial sector, including the terms of cooperation between permanent members and with observers, and the operational functioning of such colleges; |
+| --- | --- |
+
+| (b) | the template for the written agreement to be signed by financial supervisors pursuant to paragraph 8; |
+| --- | --- |
+
+| (c) | any additional measure to be implemented by the colleges when groups include obliged entities in the non-financial sector; |
+| --- | --- |
+
+| (d) | conditions for the participation of financial supervisors in third countries. |
+| --- | --- |
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+<a id="art_50"></a>
+
+### art_50
+
+Article 50
+
+1. Member States shall ensure that the non-financial supervisors in charge of the parent undertaking of a group of obliged entities in the non-financial sector or of the head office of an obliged entity in the non-financial sector are able to set up dedicated AML/CFT supervisory colleges in any of the following situations:
+
+| (a) | where an obliged entity in the non-financial sector, or a group thereof, has set up establishments in at least two different Member States other than the Member State where its head office is located; |
+| --- | --- |
+
+| (b) | where a third-country entity subject to AML/CFT requirements other than a credit institution or a financial institution has set up establishments in at least three Member States. |
+| --- | --- |
+
+This paragraph shall also apply to structures which share common ownership, management or compliance control, including networks or partnerships to which group-wide requirements apply pursuant to Article 16 of Regulation (EU) 2024/1624.
+
+The permanent members of the college shall be the non-financial supervisor in charge of the parent undertaking or of the head office and the non-financial supervisors in charge of establishments in host Member States or of supervision of that obliged entity in other Member States in the cases covered by Article 37(1), second subparagraph.
+
+2. Member States shall ensure that where the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity does not set up a college, non-financial supervisors referred to in paragraph 1, second subparagraph, point (b), can submit an opinion that, having regard to the money laundering and terrorist financing risks to which the obliged entity or group is exposed and the scale of its cross-border activities, a college shall be set up. That opinion shall be submitted by at least two non-financial supervisors and addressed to:
+
+| (a) | the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity; |
+| --- | --- |
+
+| (b) | AMLA; |
+| --- | --- |
+
+| (c) | all other non-financial supervisors. |
+| --- | --- |
+
+Where the non-financial supervisor referred to in point (a) of the first subparagraph of this paragraph is a self-regulatory body, that opinion shall also be submitted to the public authority in charge of overseeing that self-regulatory body pursuant to Article 52.
+
+3. Where, after an opinion is submitted pursuant to paragraph 2, the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity still considers that it is not necessary to set up a college, Member States shall ensure that the other non-financial supervisors are able to set up the college, provided that it is composed of at least two members. In those cases, those non-financial supervisors shall decide among them who is the supervisor in charge of the college. The non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity shall be informed of the activities of the college and be able to join the college at any time.
+
+4. For the purposes of paragraph 1, Member States shall ensure that non-financial supervisors identify:
+
+| (a) | all obliged entities in the non-financial sector that have their head office in their Member State and that have establishments in other Member States or third countries; |
+| --- | --- |
+
+| (b) | all establishments set up by those obliged entities in other Member States or third countries; |
+| --- | --- |
+
+| (c) | establishments set up in their territory by obliged entities in the non-financial sector from other Member States or third countries. |
+| --- | --- |
+
+5. Where obliged entities in the non-financial sector carry out activities in other Member States under the freedom to provide services, the non-financial supervisor of the home Member State may invite the non-financial supervisors of those Member States to participate in the college as observers.
+
+6. Where a group in the non-financial sector includes any credit institution or financial institution, but their presence in the group does not meet the threshold for setting up a college pursuant to Article 49, the supervisor setting up the college shall invite the financial supervisors of those credit institutions or financial institutions to participate in the college.
+
+7. Member States may allow the setting up of AML/CFT supervisory colleges when an obliged entity in the non-financial sector established in the Union has set up establishments in at least two third countries. Non-financial supervisors may invite their counterparts in those third countries to set up such college. The non-financial supervisors participating in the college shall establish a written agreement detailing the conditions and procedures for the cooperation and exchange of information.
+
+Where the college is set up in relation to obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624 or groups thereof, the written agreement referred to in the first subparagraph of this paragraph shall also include procedures to ensure that no information collected pursuant to Article 21(2) of Regulation (EU) 2024/1624 is shared, unless the second subparagraph of Article 21(2) applies.
+
+8. Member States shall ensure that colleges are used, among others, for exchanging information, providing mutual assistance or coordinating the supervisory approach to the group or obliged entity, including, where relevant, the taking of appropriate and proportionate measures to address serious breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113 that are detected at the level of the group or of the obliged entity, or across the establishments set up by the group or obliged entity in the jurisdiction of a supervisor participating in the college.
+
+9. AMLA may attend the meetings of the AML/CFT supervisory colleges and shall facilitate their work in accordance with Article 36 of Regulation (EU) 2024/1620. Where AMLA decides to participate in the meetings of an AML/CFT supervisory college, it shall have the status of an observer.
+
+10. Non-financial supervisors may allow their counterparts in third countries to participate in AML/CFT supervisory colleges as observers in the case referred to in paragraph 1, point (b), or where Union obliged entities in the non-financial sector or groups thereof operate branches and subsidiaries in those third countries, provided that:
+
+| (a) | the third-country counterparts submit a request for participation and the members of the college agree with their participation, or the members of the college agree to invite those third-country counterparts; |
+| --- | --- |
+
+| (b) | Union data protection rules concerning data transfers are complied with; |
+| --- | --- |
+
+| (c) | the third-country counterparts sign the written agreement referred to in paragraph 7 and share within the college the relevant information they possess for the supervision of the obliged entity or of the group; |
+| --- | --- |
+
+| (d) | the information disclosed is subject to a guarantee of professional secrecy requirements at least equivalent to that referred to in Article 67(1) and is used solely for the purposes of performing the supervisory tasks of the participating non-financial supervisors or of the counterparts in third countries. |
+| --- | --- |
+
+Member States shall ensure that non-financial supervisors in charge of the parent undertaking of a group or of the head office of an obliged entity or, in the cases covered by paragraph 3, of the college carry out an assessment of whether the conditions of the first subparagraph of this paragraph are met and submit it to the permanent members of the college. That assessment shall be carried out prior to the third-country counterpart being allowed to join the college and may be repeated as necessary thereafter. The non-financial supervisors in charge of the assessment may seek the support of AMLA for the performance of that assessment.
+
+11. Where deemed necessary by the permanent members of the college, additional observers may be invited, provided that confidentiality requirements are complied with. Observers may include FIUs.
+
+12. Where the members of a college disagree on the measures to be taken in relation to an obliged entity, they may refer the matter to AMLA and request its assistance in accordance with Article 38 of Regulation (EU) 2024/1620. AMLA shall provide its opinion on the matter of disagreement within 2 months.
+
+13. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall specify:
+
+| (a) | the general conditions for the functioning of the AML/CFT supervisory colleges in the non-financial sector, including the terms of cooperation between permanent members and with observers, and the operational functioning of such colleges; |
+| --- | --- |
+
+| (b) | the template for the written agreement to be signed by non-financial supervisors pursuant to paragraph 7; |
+| --- | --- |
+
+| (c) | conditions for the participation of non-financial supervisors in third countries; |
+| --- | --- |
+
+| (d) | any additional measure to be implemented by the colleges when groups include credit institutions or financial institutions. |
+| --- | --- |
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+14. By 10 July 2029 and every 2 years thereafter, AMLA shall issue an opinion on the functioning of AML/CFT supervisory colleges in the non-financial sector. That opinion shall include:
+
+| (a) | an overview of the colleges set up by non-financial supervisors; |
+| --- | --- |
+
+| (b) | an assessment of the actions taken by those colleges and the level of cooperation attained, including difficulties faced in the functioning of the colleges. |
+| --- | --- |
+
+<a id="art_51"></a>
+
+### art_51
+
+Article 51
+
+1. Member States shall ensure that supervisors are able to conclude cooperation agreements providing for cooperation and exchanges of confidential information with their counterparts in third countries. Such cooperation agreements shall comply with applicable data protection rules and be concluded on the basis of reciprocity and subject to a guarantee of professional secrecy requirements at least equivalent to that referred to in Article 67(1). Confidential information exchanged in accordance with those cooperation agreements shall be used for the purpose of performing the supervisory tasks of those authorities only.
+
+Where the information exchanged originates in another Member State, it shall only be disclosed with the explicit consent of the supervisor which shared it and, where appropriate, solely for the purposes for which that supervisor gave its consent.
+
+2. For the purposes of paragraph 1, AMLA shall provide such assistance as necessary to assess the equivalence of professional secrecy requirements applicable to the third-country counterpart.
+
+3. Member States shall ensure that supervisors notify any agreement signed pursuant to this Article to AMLA within 1 month of its signature.
+
+4. By 10 July 2029, AMLA shall develop draft implementing technical standards and submit them to the Commission for adoption. Those draft implementing technical standards shall specify the template to be used for the conclusion of cooperation agreements referred to in paragraph 1.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 53 of Regulation (EU) 2024/1620.
+
+<a id="art_52"></a>
+
+### art_52
+
+Article 52
+
+1. Where Member States decide, pursuant to Article 37(3) of this Directive, to allow self-regulatory bodies to perform supervision of the obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624, they shall ensure that the activities of such self-regulatory bodies in the performance of such functions are subject to oversight by a public authority.
+
+2. The public authority overseeing self-regulatory bodies shall be responsible for ensuring an adequate and effective supervisory system for the obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624, including by:
+
+| (a) | verifying that any self-regulatory body performing the functions or aspiring to perform the functions referred to in Article 37(1) satisfies the requirements of paragraph 3 of that Article; |
+| --- | --- |
+
+| (b) | issuing guidance as regards the performance of the functions referred to in Article 37(1); |
+| --- | --- |
+
+| (c) | ensuring that self-regulatory bodies perform their functions under Section 1 of this Chapter adequately and effectively; |
+| --- | --- |
+
+| (d) | reviewing the exemptions granted by self-regulatory bodies from the obligation to draw up an individual documented risk assessment pursuant to Article 37(5), point (b); |
+| --- | --- |
+
+| (e) | regularly informing self-regulatory bodies of any activity planned or task carried out by AMLA that is relevant for the performance of their supervisory function, and in particular the planning of peer reviews in accordance with Article 35 of Regulation (EU) 2024/1620. |
+| --- | --- |
+
+3. Member States shall ensure that the public authority overseeing self-regulatory bodies is granted adequate powers to discharge its responsibilities under paragraph 2. As a minimum, Member States shall ensure that the public authority has the power to:
+
+| (a) | compel the production of any information that is relevant to monitoring compliance and performing checks, except for any information collected by obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624 in the course of ascertaining the legal position of their client, subject to the conditions of Article 21(2) of that Regulation, or for performing the task of defending or representing that client in, or concerning, judicial proceedings, including providing advice on instituting or avoiding such proceedings; whether such information was collected before, during or after such proceedings; |
+| --- | --- |
+
+| (b) | issue instructions to a self-regulatory body for the purpose of remedying a failure to perform its functions under Article 37(1) or to comply with the requirements of paragraph 6 of that Article, or to prevent any such failures. |
+| --- | --- |
+
+When issuing instructions to a self-regulatory body in accordance with point (b) of the first subparagraph, the public authority shall consider any relevant guidance it provided or that has been provided by AMLA.
+
+4. Member States shall ensure that the public authority overseeing self-regulatory bodies performs its functions free of undue influence.
+
+Member States shall also ensure that the staff of the public authority overseeing self-regulatory bodies are bound by professional secrecy requirements equivalent to those laid down in Article 67, and that they maintain high professional standards, including high professional standards of confidentiality and data protection, and are of high integrity. Member States shall ensure that the public authority overseeing self-regulatory bodies has in place procedures to prevent and manage conflicts of interest.
+
+5. Member States may provide for effective, proportionate and dissuasive measures or sanctions for failures by self-regulatory bodies to comply with any request or instruction or other measure taken by the authority pursuant to paragraph 2 or 3.
+
+6. Member States shall ensure that the public authority overseeing self-regulatory bodies informs the authorities competent for investigating and prosecuting criminal activities timely, directly or through the FIU, of any breaches which are subject to criminal sanctions that it detects in the performance of its tasks.
+
+7. The public authority overseeing self-regulatory bodies shall publish an annual report containing information about:
+
+| (a) | the number and nature of breaches detected by each self-regulatory body and the pecuniary sanctions imposed on or administrative measures applied to obliged entities; |
+| --- | --- |
+
+| (b) | the number of suspicious transactions reported by the obliged entities subject to supervision by each self-regulatory body to the FIU, whether submitted directly pursuant to Article 69(1) of Regulation (EU) 2024/1624, or forwarded by each self-regulatory body to the FIU pursuant to Article 70(1) of that Regulation; |
+| --- | --- |
+
+| (c) | the number and description of pecuniary sanctions and periodic penalty payments imposed or administrative measures applied under Section 4 of this Chapter by each self-regulatory body to ensure compliance by obliged entities with Regulation (EU) 2024/1624 referred to in Article 55(1) of this Directive; |
+| --- | --- |
+
+| (d) | the number and description of measures taken by the public authority overseeing self-regulatory bodies under this Article and the number of instructions issued to self-regulatory bodies. |
+| --- | --- |
+
+The report referred to in the first subparagraph shall be made available on the website of the public authority overseeing self-regulatory bodies and submitted to the Commission and AMLA.
+
+<a id="art_53"></a>
+
+### art_53
+
+Article 53
+
+1. Member States shall ensure that obliged entities can be held liable for breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113 in accordance with this Section.
+
+2. Without prejudice to the right of Member States to provide for and impose criminal sanctions, Member States shall lay down rules on pecuniary sanctions and administrative measures and ensure that supervisors may impose such pecuniary sanctions and apply administrative measures with respect to breaches of Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113 and shall ensure that they are enforced. Any sanction imposed or measure applied pursuant to this Section shall be effective, proportionate and dissuasive.
+
+3. By way of derogation from paragraph 2, where the legal system of a Member State does not provide for administrative sanctions, this Article may be applied in such a manner that the pecuniary sanction is initiated by the supervisor and imposed by a judicial authority, while ensuring that those legal remedies are effective and have an equivalent effect to the pecuniary sanctions imposed by supervisors. In any event, the pecuniary sanctions imposed shall be effective, proportionate and dissuasive.
+
+The Member States referred to in the first subparagraph shall communicate to the Commission the measures of national law which they adopt pursuant to this paragraph by 10 July 2027 and, without delay, any subsequent amendments thereto.
+
+4. In the event of a breach of Regulations (EU) 2024/1624 and (EU) 2023/1113, Member States shall ensure that where obligations apply to legal persons, pecuniary sanctions can be imposed and administrative measures can be applied not only to the legal person, but also to the senior management and to other natural persons who under national law are responsible for the breach.
+
+Member States shall ensure that where supervisors identify breaches which are subject to criminal sanctions, they inform the authorities competent for investigating and prosecuting criminal activities in a timely manner.
+
+5. In accordance with this Directive and with national law, pecuniary sanctions shall be imposed and administrative measures shall be applied in any of the following ways:
+
+| (a) | directly by the supervisors; |
+| --- | --- |
+
+| (b) | in cooperation between the supervisors and other authorities; |
+| --- | --- |
+
+| (c) | under the responsibility of the supervisors by delegation to other authorities; |
+| --- | --- |
+
+| (d) | by application by the supervisors to the competent judicial authorities. |
+| --- | --- |
+
+By 10 October 2027, Member States shall notify to the Commission and AMLA the information as regards the arrangements relating to the imposition of pecuniary sanctions or application of administrative measures pursuant to this paragraph, including, where relevant, information whether certain sanctions or measures require the recourse to a specific procedure.
+
+6. Member States shall ensure that, when determining the type and level of pecuniary sanctions or administrative measures, supervisors take into account all relevant circumstances, including where applicable:
+
+| (a) | the gravity and the duration of the breach; |
+| --- | --- |
+
+| (b) | the number of instances the breach was repeated; |
+| --- | --- |
+
+| (c) | the degree of responsibility of the natural or legal person held responsible; |
+| --- | --- |
+
+| (d) | the financial strength of the natural or legal person held responsible, including in light of its total turnover or annual income; |
+| --- | --- |
+
+| (e) | the benefit derived from the breach by the natural or legal person held responsible, insofar as it can be determined; |
+| --- | --- |
+
+| (f) | the losses to third parties caused by the breach, insofar as they can be determined; |
+| --- | --- |
+
+| (g) | the level of cooperation of the natural or legal person held responsible with the competent authority; |
+| --- | --- |
+
+| (h) | previous breaches by the natural or legal person held responsible. |
+| --- | --- |
+
+7. Member States shall ensure that legal persons can be held liable for the breaches of Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113 committed on their behalf or for their benefit by any person, acting individually or as part of a body of that legal person and having a leading position within that legal person, based on any of the following:
+
+| (a) | a power to represent the legal person; |
+| --- | --- |
+
+| (b) | an authority to take decisions on behalf of the legal person; |
+| --- | --- |
+
+| (c) | an authority to exercise control within the legal person. |
+| --- | --- |
+
+8. Member States shall ensure that legal persons can be held liable where the lack of supervision or control by a person as referred to in paragraph 7 of this Article has made possible the breaches of Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113 by a person under their authority on behalf of or for the benefit of the legal person.
+
+9. In the exercise of their powers to impose pecuniary sanctions and apply administrative measures, supervisors shall cooperate closely and, where relevant, coordinate their actions with other authorities as appropriate, in order to ensure that those pecuniary sanctions or administrative measures produce the desired results and coordinate their action when dealing with cross-border cases.
+
+10. By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall set out:
+
+| (a) | indicators to classify the level of gravity of breaches; |
+| --- | --- |
+
+| (b) | criteria to be taken into account when setting the level of pecuniary sanctions or applying administrative measures pursuant to this Section; |
+| --- | --- |
+
+| (c) | a methodology for the imposition of periodic penalty payments pursuant to Article 57, including their frequency. |
+| --- | --- |
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+
+11. By 10 July 2026, AMLA shall issue guidelines on the base amounts for the imposing of pecuniary sanctions relative to turnover, broken down per type of breach and category of obliged entities.
+
+<a id="art_54"></a>
+
+### art_54
+
+Article 54
+
+1. In the case of establishments of obliged entities that do not as such qualify as credit institutions or financial institutions or of types of infrastructure of obliged entities over which the supervisor of the host Member State exercises supervision pursuant to Article 38(1), paragraphs 2 to 5 of this Article shall apply.
+
+2. Where the supervisors of the host Member State identify breaches of applicable requirements, they shall request the obliged entities operating through the establishments or types of infrastructure as referred to in paragraph 1 to comply with the applicable requirements and inform the supervisors of the home Member State of the breaches identified within those obliged entities and of the request to comply.
+
+3. Where the obliged entities fail to take the necessary action, the supervisors of the host Member State shall inform the supervisors of the home Member State accordingly.
+
+The supervisors of the home Member State shall act promptly and take all appropriate measures to ensure that the obliged entity concerned remedies the breaches detected in its establishments or types of infrastructure in the host Member State. The supervisors of the home Member State shall inform the supervisors of the host Member State of any actions taken pursuant to this paragraph.
+
+4. By way of derogation from paragraph 3, in situations of serious, repeated or systematic breaches by obliged entities operating through establishments or other types of infrastructure in their territory as referred to in paragraph 1 that require immediate remedies, supervisors of the host Member State shall be allowed at their own initiative to take appropriate and proportionate measures to address those breaches. Those measures shall be temporary and be terminated when the breaches identified are addressed, including with the assistance of or in cooperation with the supervisors of the home Member State of the obliged entity.
+
+Member States shall ensure that the supervisors of the host Member State inform the supervisor of the home Member State of the obliged entity immediately upon identification of the serious, repeated or systematic breaches and upon taking any measure pursuant to the first subparagraph, unless measures are taken in cooperation with the supervisors of the home Member State.
+
+5. Where the supervisors of the home and host Member States disagree on the measures to be taken in relation to an obliged entity, they may refer the matter to AMLA and request its assistance in accordance with Articles 33 and 38 of Regulation (EU) 2024/1620. AMLA shall provide its opinion on the matter of disagreement within 1 month.
+
+<a id="art_55"></a>
+
+### art_55
+
+Article 55
+
+1. Member States shall ensure that pecuniary sanctions are imposed on obliged entities for serious, repeated or systematic breaches, whether committed intentionally or negligently, of the requirements laid down in the following provisions of Regulation (EU) 2024/1624:
+
+| (a) | Chapter II (Internal policies, procedures and controls of obliged entities); |
+| --- | --- |
+
+| (b) | Chapter III (Customer due diligence); |
+| --- | --- |
+
+| (c) | Chapter V (Reporting obligations); |
+| --- | --- |
+
+| (d) | Article 77 (Record retention). |
+| --- | --- |
+
+Member States shall also ensure that pecuniary sanctions can be imposed where obliged entities have not complied with administrative measures applied to them pursuant to Article 56 of this Directive or for breaches that are not serious, repeated or systematic.
+
+2. Member States shall ensure that in the cases referred to in paragraph 1, first subparagraph, the maximum pecuniary sanctions that can be imposed amount at least to twice the amount of the benefit derived from the breach where that benefit can be determined, or at least EUR 1 000 000, whichever is higher.
+
+For Member States whose currency is not the euro, the value referred to in the first subparagraph shall be the corresponding value in the national currency on 9 July 2024.
+
+3. Member States shall ensure that, by way of derogation from paragraph 2, where the obliged entity concerned is a credit institution or a financial institution, the following pecuniary sanctions can also be imposed:
+
+| (a) | in the case of a legal person, maximum pecuniary sanctions of at least EUR 10 000 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 9 July 2024, or 10 % of the total annual turnover according to the latest available accounts approved by the management body, whichever is higher; where the obliged entity is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial accounts in accordance with Article 22 of Directive 2013/34/EU of the European Parliament and of the Council (44), the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with the relevant accounting regime according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking; |
+| --- | --- |
+
+| (b) | in the case of a natural person, maximum pecuniary sanctions of at least EUR 5 000 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 9 July 2024. |
+| --- | --- |
+
+4. Member States may empower competent authorities to impose pecuniary sanctions exceeding the amounts referred to in paragraphs 2 and 3.
+
+5. Member States shall ensure that, when determining the amount of the pecuniary sanction, the ability of the obliged entity to pay the sanction is taken into account and that, where the pecuniary sanction may affect compliance with prudential regulation, supervisors consult the authorities competent to supervise compliance by the obliged entities with relevant Union legal acts.
+
+<a id="art_56"></a>
+
+### art_56
+
+Article 56
+
+1. Member States shall ensure that supervisors are able to apply administrative measures to an obliged entity where they identify:
+
+| (a) | breaches of Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113, either in combination with pecuniary sanctions for serious, repeated and systematic breaches, or on their own; |
+| --- | --- |
+
+| (b) | weaknesses in the internal policies, procedures and controls of the obliged entity that are likely to result in breaches of the requirements referred to in point (a) and administrative measures can prevent the occurrence of those breaches or reduce the risk thereof; |
+| --- | --- |
+
+| (c) | that the obliged entity has internal policies, procedures and controls that are not commensurate with the risks of money laundering, its predicate offences or terrorist financing to which the entity is exposed. |
+| --- | --- |
+
+2. Member States shall ensure that the supervisors are able at least to:
+
+| (a) | issue recommendations; |
+| --- | --- |
+
+| (b) | order obliged entities to comply, including to implement specific corrective measures; |
+| --- | --- |
+
+| (c) | issue a public statement which identifies the natural or legal person and the nature of the breach; |
+| --- | --- |
+
+| (d) | issue an order requiring the natural or legal person to cease the conduct and to desist from repetition of that conduct; |
+| --- | --- |
+
+| (e) | restrict or limit the business, operations or network of institutions comprising the obliged entity, or to require the divestment of activities; |
+| --- | --- |
+
+| (f) | where an obliged entity is subject to an authorisation, withdraw or suspend the authorisation; |
+| --- | --- |
+
+| (g) | require changes in the governance structure. |
+| --- | --- |
+
+3. Member States shall ensure that the supervisors are able, by means of the administrative measures referred to in paragraph 2, in particular to:
+
+| (a) | require the provision of any data or information necessary for the fulfilment of their tasks pursuant to this Chapter without undue delay, to require the submission of any document, or impose additional or more frequent reporting requirements; |
+| --- | --- |
+
+| (b) | require the reinforcement of the internal policies, procedures and controls; |
+| --- | --- |
+
+| (c) | require the obliged entity to apply a specific policy or requirements relating to categories of or individual clients, transactions, activities or delivery channels that pose high risks; |
+| --- | --- |
+
+| (d) | require the implementation of measures to bring about the reduction of the money laundering or terrorist financing risks inherent in the activities and products of the obliged entity; |
+| --- | --- |
+
+| (e) | impose a temporary ban against any person discharging managerial responsibilities in an obliged entity, or any other natural person who has been held responsible for the breach from exercising managerial functions in obliged entities. |
+| --- | --- |
+
+4. The administrative measures referred to in paragraph 2 shall be accompanied, where relevant, by binding deadlines for their implementation. Member States shall ensure that supervisors follow up and assess the implementation by the obliged entity of the actions requested.
+
+5. Member States may empower supervisors to apply additional types of administrative measures to those referred to in paragraph 2.
+
+<a id="art_57"></a>
+
+### art_57
+
+Article 57
+
+1. Member States shall ensure that, where obliged entities fail to comply with administrative measures applied by the supervisor pursuant to Article 56(2), points (b), (d), (e) and (g), within the applicable deadlines, supervisors are able to impose periodic penalty payments in order to compel compliance with those administrative measures.
+
+2. The periodic penalty payments shall be effective and proportionate. The periodic penalty payments shall be imposed until the obliged entity or person concerned complies with the relevant administrative measures.
+
+3. Notwithstanding paragraph 2, in the case of legal persons, the amount of the periodic penalty payment shall not exceed 3 % of their average daily turnover in the preceding business year or, in the case of natural persons, that amount shall not exceed 2 % of their average daily income in the preceding calendar year.
+
+4. Periodic penalty payments shall only be imposed for a period of no more than 6 months following the supervisor’s decision. Where, upon expiry of that period, the obliged entity has not yet complied with the administrative measure, Member States shall ensure that supervisors can impose periodic penalty payments for an additional period of no more than 6 months.
+
+5. Member States shall ensure that a decision imposing a periodic penalty payment can be taken as of the date of the application of the administrative measure.
+
+The periodic penalty payment shall apply as of the date when that decision is taken.
+
+<a id="art_58"></a>
+
+### art_58
+
+Article 58
+
+1. Member States shall ensure that supervisors publish on their website, in an accessible format, decisions imposing pecuniary sanctions, applying administrative measures referred to in Article 56(2), points (c) to (g), pursuant to Article 56(1), point (a), or imposing periodic penalty payments.
+
+2. Member States shall ensure that the decisions referred to in paragraph 1 are published by the supervisor immediately after the persons responsible for the breach are informed of those decisions.
+
+By way of derogation from the first subparagraph, where the publication concerns administrative measures against which there is an appeal and that do not aim to remedy serious, repeated and systematic breaches, Member States may allow for the publication of those administrative measures to be deferred until expiry of the deadline for lodging an appeal.
+
+Where the publication refers to decisions against which there is an appeal, supervisors shall also publish, immediately, on their website such information and any subsequent information on an appeal, and the outcome of such appeal. Any decision annulling a previous decision to impose a pecuniary sanction, apply an administrative measure, or impose a periodic penalty payment, shall also be published.
+
+3. The publication shall include at least information on the type and nature of the breach and the identity of the persons responsible, as well as, for pecuniary sanctions and periodic penalty payments, their amounts. Member States shall not be obliged to apply this subparagraph to decisions applying administrative measures that are of an investigatory nature, or which are taken pursuant to Article 56(2), points (a) and (c).
+
+Where the publication of the identity of the persons responsible as referred to in the first subparagraph or the personal data of such persons is considered by the supervisors to be disproportionate following a case-by-case assessment, or where publication jeopardises the stability of financial markets or an on-going investigation, supervisors shall:
+
+| (a) | delay the publication of the decision until the moment at which the reasons for not publishing it cease to exist; |
+| --- | --- |
+
+| (b) | publish the decision on an anonymous basis in a manner in accordance with national law, if such anonymous publication ensures the effective protection of the personal data concerned; in that case, the publication of the relevant data may be postponed for a reasonable period if it is foreseen that within that period the reasons for anonymous publication shall cease to exist; |
+| --- | --- |
+
+| (c) | not publish the decision at all in the event that the options set out in points (a) and (b) are considered insufficient to ensure one of the following:(i)that the stability of financial markets would not be put in jeopardy;(ii)the proportionality of the publication of the decision with regard to pecuniary sanctions and administrative measures for breaches which are deemed to be of a minor nature. |
+| --- | --- |
+| (i) | that the stability of financial markets would not be put in jeopardy; |
+| (ii) | the proportionality of the publication of the decision with regard to pecuniary sanctions and administrative measures for breaches which are deemed to be of a minor nature. |
+
+4. Member States shall ensure that any publication in accordance with this Article remains on the website of the supervisors for a period of 5 years after its publication. However, personal data contained in the publication shall only be kept on the website of the supervisors for the period which is necessary in accordance with the applicable data protection rules and in any case for no more than 5 years.
+
+<a id="art_59"></a>
+
+### art_59
+
+Article 59
+
+1. Member States shall ensure that their supervisors and, where relevant, the public authority overseeing self-regulatory bodies in their performance of supervisory functions, inform AMLA of all pecuniary sanctions imposed and administrative measures applied in accordance with this Section, including of any appeal in relation thereto and the outcome thereof. Such information shall also be shared with other supervisors when the pecuniary sanction or administrative measure concerns an entity operating in two or more Member States.
+
+2. AMLA shall maintain on its website links to each supervisor’s publication of pecuniary sanctions imposed and administrative measures applied in accordance with Article 58, and shall show the period for which each Member State publishes pecuniary sanctions and administrative measures.
+
+<a id="art_60"></a>
+
+### art_60
+
+Article 60
+
+1. Directive (EU) 2019/1937 shall apply to the reporting of breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113 and of this Directive, and to the protection of persons reporting such breaches and of the persons concerned by those reports.
+
+2. Supervisory authorities shall be the authorities competent to establish external reporting channels and to follow-up on reports insofar as requirements applicable to obliged entities are concerned, in accordance with Directive (EU) 2019/1937.
+
+3. The public authorities overseeing self-regulatory bodies referred to in Article 52 shall be the authorities competent to establish external reporting channels and to follow up on reports by self-regulatory bodies and their staff insofar as requirements applicable to self-regulatory bodies in the exercise of supervisory functions are concerned.
+
+4. Member States shall ensure that supervisory authorities in the non-financial sector report the following, on an annual basis, to AMLA:
+
+| (a) | the number of reports received pursuant to paragraph 1 and information on the share of reports that have been or are in the process of being followed-up, including whether they have been closed or are still open, and of the reports that have been dismissed; |
+| --- | --- |
+
+| (b) | the types of irregularities reported; |
+| --- | --- |
+
+| (c) | where reports have been followed-up, a description of the actions taken by the supervisor and, for reports that are still open, the actions which the supervisor intends to take; |
+| --- | --- |
+
+| (d) | where reports have been dismissed, the reasons for dismissing them. |
+| --- | --- |
+
+Annual reports as referred to in the first subparagraph shall not contain any information on the identity or occupation of the reporting persons, or any other information that could lead to their identification.
+
+<a id="art_61"></a>
+
+### art_61
+
+Article 61
+
+1. Member States shall ensure that policy makers, the FIUs, supervisors, including AMLA, and other competent authorities, as well as tax authorities, have effective mechanisms to enable them to cooperate and coordinate domestically concerning the development and implementation of policies and activities to combat money laundering and terrorist financing and to prevent the non-implementation and evasion of targeted financial sanctions, including with a view to fulfilling their obligations under Article 8.
+
+2. With regard to beneficial ownership information obtained by competent authorities pursuant to Chapter IV of Regulation (EU) 2024/1624 and Section 1 of Chapter II of this Directive, Member States shall ensure that competent authorities are able to provide such information to the counterpart competent authorities of other Member States or third countries in a timely manner and free of charge.
+
+3. Member States shall not prohibit or place unreasonable or unduly restrictive conditions on the exchange of information or assistance between competent authorities and their counterparts for the purposes of this Directive. Member States shall ensure that competent authorities do not refuse a request for assistance on the grounds that:
+
+| (a) | the request is also considered to involve tax matters; |
+| --- | --- |
+
+| (b) | national law requires obliged entities to maintain secrecy or confidentiality, except in those cases where the relevant information that is sought is protected by legal privilege or where legal professional secrecy applies, as provided for in Article 70(2) of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (c) | there is an inquiry, investigation, proceeding or FIU analysis underway in the requested Member State, unless the assistance would impede that inquiry, investigation, proceeding or FIU analysis; |
+| --- | --- |
+
+| (d) | the nature or status of the requesting counterpart competent authority is different from that of requested competent authority. |
+| --- | --- |
+
+<a id="art_62"></a>
+
+### art_62
+
+Article 62
+
+1. In order to facilitate and promote effective cooperation, and in particular the exchange of information, Member States shall communicate to the Commission and AMLA:
+
+| (a) | the list of supervisors responsible for overseeing the compliance of the obliged entities with Regulation (EU) 2024/1624, as well as, where relevant, name of the public authority overseeing self-regulatory bodies in their performance of supervisory functions under this Directive, and their contact details; |
+| --- | --- |
+
+| (b) | the contact details of their FIU; |
+| --- | --- |
+
+| (c) | the list of other competent national authorities. |
+| --- | --- |
+
+2. For the purposes of paragraph 1, the following contact details shall be provided:
+
+| (a) | a contact point or, failing that, the name and role of a contact person; |
+| --- | --- |
+
+| (b) | the email and phone number of the contact point or, failing that, the professional email address and phone number of the contact person. |
+| --- | --- |
+
+3. Member States shall ensure that the information provided to the Commission and AMLA pursuant to paragraph 1 is updated as soon as a change takes place.
+
+4. AMLA shall publish a register of the authorities referred to in paragraph 1 on its website and facilitate the exchange of information referred to in paragraph 2 between competent authorities. The authorities in the register shall, within the scope of their powers, serve as a contact point for the counterpart competent authorities. FIUs and supervisory authorities shall also serve as a contact point for AMLA.
+
+<a id="art_63"></a>
+
+### art_63
+
+Article 63
+
+FIU and supervisory authorities shall cooperate with AMLA and shall provide it with all the information necessary to allow it to carry out its duties under this Directive and under Regulations (EU) 2024/1624 and (EU) 2024/1620.
+
+<a id="art_64"></a>
+
+### art_64
+
+Article 64
+
+1. Member States shall ensure that financial supervisors, FIUs, and authorities competent for the supervision of credit institutions or financial institutions under other Union legal acts, cooperate closely with each other within their respective competences and provide each other with information relevant for the performance of their respective tasks. Such cooperation and information exchange shall not impinge on any ongoing inquiry, FIU analysis, investigation or proceedings in accordance with the criminal or administrative law of the Member State where the financial supervisor or authority entrusted with competences for the supervision of credit institutions or financial institutions under other legal acts is located and shall not affect professional secrecy requirements as provided in Article 67(1).
+
+2. Member States shall ensure that, where financial supervisors identify weaknesses in the AML/CFT internal control system and application of the requirements of Regulation (EU) 2024/1624 of a credit institution which materially increase the risks to which the institution is or might be exposed, the financial supervisor immediately notifies the European Banking Authority (EBA) and the authority or body that supervises the credit institution in accordance with Directive 2013/36/EU, including the ECB acting in accordance with Regulation (EU) No 1024/2013.
+
+In the event of potential increased risk, financial supervisors shall be able to cooperate and share information with the authorities supervising the institution in accordance with Directive 2013/36/EU and draw up a common assessment to be notified to EBA by the supervisor who first sent the notification. AMLA shall be kept informed of any such notifications.
+
+3. Member States shall ensure that, where financial supervisors find that a credit institution has refused to establish or decided to terminate a business relationship but the documented customer due diligence pursuant to Article 21(3) of Regulation (EU) 2024/1624 does not justify such refusal, they shall inform the authority responsible for ensuring compliance by that credit institution with Directives 2014/92/EU or (EU) 2015/2366.
+
+4. Member States shall ensure that financial supervisors cooperate with resolution authorities as defined in Article 2(1), point (18), of Directive 2014/59/EU or designated authorities as defined in Article 2(1), point (18), of Directive 2014/49/EU.
+
+Financial supervisors shall inform the authorities referred to in the first subparagraph where, in the exercise of their supervisory activities, they identify, on AML/CFT grounds, any of the following situations:
+
+| (a) | an increased likelihood of deposits becoming unavailable; |
+| --- | --- |
+
+| (b) | a risk that a credit institution or a financial institution be deemed to be failing or likely to fail in accordance with Article 32(4) of Directive 2014/59/EU. |
+| --- | --- |
+
+Upon request by the authorities referred to in the first subparagraph of this paragraph, where there is an increased likelihood of deposits becoming unavailable or a risk that a credit institution or a financial institution be deemed to be failing or likely to fail in accordance with Article 32(4) of Directive 2014/59/EU, financial supervisors shall inform those authorities of any transaction, account or business relationship under management by that credit institution or financial institution that has been suspended by the FIU pursuant to Article 24.
+
+5. Financial supervisors shall report on an annual basis to AMLA on their cooperation with other authorities pursuant to this Article including involvement of FIUs in that cooperation.
+
+6. By 10 July 2029, AMLA shall, in consultation with EBA, issue guidelines on cooperation between financial supervisors and the authorities referred to in paragraphs 2, 3 and 4, including on the level of involvement of FIUs in such cooperation.
+
+<a id="art_65"></a>
+
+### art_65
+
+Article 65
+
+1. Member States shall ensure that supervisors in charge of auditors and, where relevant, public authorities overseeing self-regulatory bodies pursuant to Chapter IV of this Directive, their FIU and the public authorities competent for overseeing statutory auditors and audit firms pursuant to Article 32 of Directive 2006/43/EC of the European Parliament and of the Council (45) and Article 20 of Regulation (EU) No 537/2014 of the European Parliament and of the Council (46) cooperate closely with each other within their respective competences and provide each other with information relevant for the performance of their respective tasks.
+
+Confidential information exchanged pursuant to this Article shall be used by the authorities referred to in the first subparagraph solely for the exercise of their functions within the scope of this Directive or the other Union legal acts referred to in the first subparagraph and in the context of administrative or judicial proceedings specifically related to the exercise of those functions.
+
+2. Member States may prohibit the authorities referred to in paragraph 1 from cooperating when such cooperation, including the exchange of information, would impinge on an ongoing inquiry, FIU’s analysis, investigation or proceedings in accordance with the criminal or administrative law of the Member State where the authorities are located.
+
+<a id="art_66"></a>
+
+### art_66
+
+Article 66
+
+1. Member States shall ensure that supervisors, their FIU and the authorities in charge of implementing targeted financial sanctions cooperate closely with each other within their respective competences and provide each other with information relevant for the performance of their respective tasks.
+
+Confidential information exchanged pursuant to this Article shall be used by the authorities referred to in the first subparagraph solely for the exercise of their functions within the scope of this Directive or other Union legal acts and in the context of administrative or judicial proceedings specifically related to the exercise of those functions.
+
+2. Member States may prohibit the authorities referred to in paragraph 1 from cooperating when such cooperation, including the exchange of information, would impinge on an ongoing inquiry, investigation or proceedings in accordance with the criminal or administrative law of the Member State where the authorities are located.
+
+<a id="art_67"></a>
+
+### art_67
+
+Article 67
+
+1. Member States shall require that all persons working for or who have worked for supervisors and the public authorities referred to in Article 52, as well as auditors or experts acting on behalf of those supervisors or authorities be bound by the obligation of professional secrecy.
+
+Without prejudice to cases covered by criminal investigations and prosecutions under Union and national law and information provided to FIUs pursuant to Articles 42 and 43, confidential information which the persons referred to in the first subparagraph receive in the course of their duties under this Directive may be disclosed only in summary or aggregate form, in such a way that individual obliged entities cannot be identified.
+
+2. Paragraph 1 of this Article shall not prevent the exchange of information between:
+
+| (a) | supervisors, whether within a Member State or in different Member States, including AMLA when acting as a supervisor or public authorities as referred to in Article 52 of this Directive; |
+| --- | --- |
+
+| (b) | supervisors as well as the public authorities referred to in Article 52 of this Directive and FIUs; |
+| --- | --- |
+
+| (c) | supervisors as well as the public authorities referred to in Article 52 of this Directive and competent authorities referred to in Article 2(1), points (44)(c) and (d) of Regulation (EU) 2024/1624; |
+| --- | --- |
+
+| (d) | financial supervisors and authorities in charge of supervising credit institutions and financial institutions in accordance with other Union legal acts relating to the supervision of credit institutions and financial institutions, including the ECB acting in accordance with Regulation (EU) No 1024/2013, whether within a Member State or in different Member States. |
+| --- | --- |
+
+For the purposes of point (d) of the first subparagraph of this paragraph, the exchange of information shall be subject to the professional secrecy requirements provided for in paragraph 1.
+
+3. Any authority or self-regulatory body that receives confidential information pursuant to paragraph 2 shall only use this information:
+
+| (a) | in the discharge of its duties under this Directive or under other Union legal acts in the field of AML/CFT, of prudential regulation and supervision of credit institutions and financial institutions, including sanctioning; |
+| --- | --- |
+
+| (b) | in an appeal against a decision of the authority or self-regulatory body, including court proceedings; |
+| --- | --- |
+
+| (c) | in court proceedings initiated pursuant to special provisions provided for in Union law adopted in the field of this Directive or in the field of prudential regulation and supervision of credit institutions and financial institutions. |
+| --- | --- |
+
+<a id="art_68"></a>
+
+### art_68
+
+Article 68
+
+1. With the exception of cases covered by Article 70(2) of Regulation (EU) 2024/1624, Member States shall authorise the exchange of information between:
+
+| (a) | supervisors and the public authorities overseeing self-regulatory bodies pursuant to Chapter IV of this Directive, whether in the same Member State or in different Member States; |
+| --- | --- |
+
+| (b) | supervisors and the authorities responsible by law for the supervision of financial markets in the discharge of their respective supervisory functions; |
+| --- | --- |
+
+| (c) | supervisors in charge of auditors and, where relevant, public authorities overseeing self-regulatory bodies pursuant to Chapter IV of this Directive, and the public authorities competent for overseeing statutory auditors and audit firms pursuant to Article 32 of Directive 2006/43/EC and Article 20 of Regulation (EU) No 537/2014, including authorities in different Member States. |
+| --- | --- |
+
+The professional secrecy requirements laid down in Article 67(1) and (3) shall not prevent the exchange of information referred to in the first subparagraph of this paragraph.
+
+Confidential information exchanged pursuant to this paragraph shall only be used in the discharge of the duties of the authorities concerned, and in the context of administrative or judicial proceedings specifically related to the exercise of those functions. The information received shall in any event be subject to professional secrecy requirements at least equivalent to those referred to in Article 67(1).
+
+2. Member States may authorise the disclosure of certain information to other national authorities responsible by law for the supervision of the financial markets, or with designated responsibilities in the field of combating or investigating money laundering, its predicate offences or terrorist financing. The professional secrecy requirements laid down Article 67(1) and (3) shall not prevent such disclosure.
+
+However, confidential information exchanged pursuant to this paragraph shall only be used for the purpose of performing the legal tasks of the authorities concerned. Persons having access to such information shall be subject to professional secrecy requirements at least equivalent to those referred to in Article 67(1).
+
+3. Member States may authorise the disclosure of certain information relating to the supervision of obliged entities for compliance with Regulation (EU) 2024/1624 to parliamentary inquiry committees, courts of auditors and other entities in charge of inquiries in their Member State, under the following conditions:
+
+| (a) | the entities have a precise mandate under national law to investigate or scrutinise the actions of supervisors or authorities responsible for laws on such supervision; |
+| --- | --- |
+
+| (b) | the information is strictly necessary for fulfilling the mandate referred to in point (a); |
+| --- | --- |
+
+| (c) | the persons with access to the information are subject to professional secrecy requirements under national law at least equivalent to those referred to in paragraph 1; |
+| --- | --- |
+
+| (d) | where the information originates in another Member State, it shall not be disclosed without the express consent of the supervisor which disclosed it and solely for the purposes for which that supervisor gave its consent. |
+| --- | --- |
+
+Member States may also authorise the disclosure of information pursuant to the first subparagraph of this paragraph to temporary committees of inquiry set up by the European Parliament in accordance with Article 226 TFEU and Article 2 of Decision 95/167/EC, Euratom, ECSC of the European Parliament, the Council and the Commission (47), where that disclosure is necessary for the performance of the activities of those committees.
+
+<a id="art_69"></a>
+
+### art_69
+
+Article 69
+
+By 10 July 2029, AMLA shall, in cooperation with the ECB, the European Supervisory Authorities, Europol, Eurojust, and EPPO, issue guidelines on:
+
+| (a) | the cooperation between competent authorities under Section 1 of this Chapter, as well as with the authorities referred to in Section 2 of this Chapter and the entities in charge of the central registers, to prevent money laundering and terrorist financing; |
+| --- | --- |
+
+| (b) | the procedures to be used by authorities competent for the supervision or oversight of obliged entities under other Union legal acts to take into account money laundering and terrorist financing concerns in the performance of their duties under those Union legal acts. |
+| --- | --- |
+
+<a id="art_70"></a>
+
+### art_70
+
+Article 70
+
+1. To the extent that it is necessary for the purposes of this Directive, competent authorities may process special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679 and personal data relating to criminal convictions and offences referred to in Article 10 of that Regulation subject to appropriate safeguards for the rights and freedoms of the data subject, in addition to the following safeguards:
+
+| (a) | processing of such data shall be performed only on a case-by-case basis by the staff of each competent authority that have been specifically designated and authorised to perform those tasks; |
+| --- | --- |
+
+| (b) | staff of the competent authorities shall maintain high professional standards of confidentiality and data protection, they shall be of high integrity and are appropriately skilled, including in relation to the ethical handling of big data sets; |
+| --- | --- |
+
+| (c) | technical and organisational measures shall be in place to ensure the security of the data to high technological standards. |
+| --- | --- |
+
+2. The safeguards referred to in paragraph 1 of this Article shall also apply to the processing for the purposes of this Directive of special categories of data referred to in Article 10(1) of Regulation (EU) 2018/1725 and personal data relating to criminal convictions and offences referred to in Article 11 of that Regulation by Union institutions, bodies, offices or agencies.
+
+<a id="art_71"></a>
+
+### art_71
+
+Article 71
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt the delegated acts referred to in Article 10 shall be conferred on the Commission for an indeterminate period of time from 9 July 2024.
+
+3. The delegation of power referred to in Article 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Article 10 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 3 months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 3 months at the initiative of the European Parliament or of the Council.
+
+<a id="art_72"></a>
+
+### art_72
+
+Article 72
+
+1. The Commission shall be assisted by the Committee on the Prevention of Money Laundering and Terrorist Financing established by Article 34 of Regulation (EU) 2023/1113. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_73"></a>
+
+### art_73
+
+Article 73
+
+By 10 July 2027, the Commission shall transfer to AMLA the management of FIU.net.
+
+Until such transfer is completed, the Commission shall provide the necessary assistance for the operation of FIU.net and the exchange of information between FIUs within the Union. To this end, the Commission shall regularly convene meetings of the EU FIU’s Platform composed of representatives from Member States’ FIUs in order to oversee the functioning of FIU.net.
+
+<a id="art_74"></a>
+
+### art_74
+
+Article 74
+
+Directive (EU) 2015/849 is amended as follows:
+
+| (1) | in Article 30(5), the first and second subparagraphs are replaced by the following:‘5. Member States shall ensure that the information on the beneficial ownership is accessible in all cases to:(a)competent authorities and FIUs, without any restriction;(b)obliged entities, within the framework of customer due diligence in accordance with Chapter II;(c)any person or organisation that can demonstrate a legitimate interest.The persons or organisations referred to in point (c) of the first subparagraph shall be permitted to access at least the name, the month and year of birth and the country of residence and nationality of the beneficial owner as well as the nature and extent of the beneficial interest held.’; |
+| --- | --- |
+| (a) | competent authorities and FIUs, without any restriction; |
+| (b) | obliged entities, within the framework of customer due diligence in accordance with Chapter II; |
+| (c) | any person or organisation that can demonstrate a legitimate interest. |
+
+| (2) | in Article 31(4), the first and second subparagraphs are replaced by the following:‘4. Member States shall ensure that the information on the beneficial ownership of a trust or a similar legal arrangement is accessible in all cases to:(a)competent authorities and FIUs, without any restriction;(b)obliged entities, within the framework of customer due diligence in accordance with Chapter II;(c)any natural or legal person that can demonstrate a legitimate interest to access beneficial ownership information.The information accessible to natural or legal persons referred to in point (c) of the first subparagraph shall consist of the name, the month and year of birth and the country of residence and nationality of the beneficial owner, as well as nature and extent of beneficial interest held.’. |
+| --- | --- |
+| (a) | competent authorities and FIUs, without any restriction; |
+| (b) | obliged entities, within the framework of customer due diligence in accordance with Chapter II; |
+| (c) | any natural or legal person that can demonstrate a legitimate interest to access beneficial ownership information. |
+
+<a id="art_75"></a>
+
+### art_75
+
+Article 75
+
+In Directive (EU) 2019/1937, the Annex, Part II, Section A, point 2, the following point is added:
+
+| ‘(iii) | Regulation (EU) 2024/1624 of the European Parliament and of the Council of 31 May 2024 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (OJ L, 2024/1624, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1624/oj).’. |
+| --- | --- |
+
+<a id="art_76"></a>
+
+### art_76
+
+Article 76
+
+By 10 July 2032, and every 3 years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the implementation of this Directive.
+
+<a id="art_77"></a>
+
+### art_77
+
+Article 77
+
+Directive (EU) 2015/849 is repealed with effect from 10 July 2027.
+
+References to the repealed Directive shall be construed as references to this Directive and to Regulation (EU) 2024/1624 and shall be read in accordance with the correlation table in the Annex to this Directive.
+
+<a id="art_78"></a>
+
+### art_78
+
+Article 78
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 10 July 2027. They shall immediately inform the Commission thereof.
+
+By way of derogation from the first subparagraph, Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 74 by 10 July 2025, with Articles 11, 12, 13 and 15 by 10 July 2026 and with Article18 by 10 July 2029. They shall immediately inform the Commission thereof.
+
+When Member States adopt the measures referred to in this paragraph, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+<a id="art_79"></a>
+
+### art_79
+
+Article 79
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+<a id="art_80"></a>
+
+### art_80
+
+Article 80
+
+This Directive is addressed to the Member States.

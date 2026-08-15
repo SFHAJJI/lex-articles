@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/2495 of 15\u00A0November 2023 amending Directive\u00A02014/24/EU",
+  "valid_from": "2023-11-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2495/versions/2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97/en.xml",
+    "sha256": "96d3212b95f783ea592d0d64454090131efebaae01185f11612ffd84705ca9cb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2495"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2014/24/EU is amended as follows:\n\n| (1) | Article 4 is amended as follows:(a)in point (a), ‘EUR 5 382 000’ is replaced by ‘EUR 5 538 000’;(b)in point (b), ‘EUR 140 000’ is replaced by ‘EUR 143 000’;(c)in point (c), ‘EUR 215 000’ is replaced by ‘EUR 221 000’; |\n| --- | --- |\n| (a) | in point (a), ‘EUR 5 382 000’ is replaced by ‘EUR 5 538 000’; |\n| (b) | in point (b), ‘EUR 140 000’ is replaced by ‘EUR 143 000’; |\n| (c) | in point (c), ‘EUR 215 000’ is replaced by ‘EUR 221 000’; |\n\n| (2) | in Article 13, first paragraph is amended as follows:(a)in point (a), ‘EUR 5 382 000’ is replaced by ‘EUR 5 538 000’;(b)in point (b), ‘EUR 215 000’ is replaced by ‘EUR 221 000’. |\n| --- | --- |\n| (a) | in point (a), ‘EUR 5 382 000’ is replaced by ‘EUR 5 538 000’; |\n| (b) | in point (b), ‘EUR 215 000’ is replaced by ‘EUR 221 000’. |",
+      "text_sha256": "7627b62953e4c5b4267d346658900bf37963c47e45d90048a265e405e1b96561",
+      "md_span": {
+        "start": 707,
+        "end": 1554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2024.",
+      "text_sha256": "6f7884950b51c8c6e5d0505b424d11cf1b1e1ec384835e1b90a033fba4c66587",
+      "md_span": {
+        "start": 1587,
+        "end": 1775
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

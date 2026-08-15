@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0193:2021-11-17--ee43a8c1e55b72303d6d7297d41c52ca17c335fb294856698add8e665eff6618",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/193 of 17\u00A0November 2021 amending the implemen…",
+  "valid_from": "2021-11-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0193/versions/2021-11-17--ee43a8c1e55b72303d6d7297d41c52ca17c335fb294856698add8e665eff6618/en.xml",
+    "sha256": "684deb215b67978585d4c195f76af50aef3b198e57fd494fe47680d11af54958",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0193"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0193:2021-11-17--ee43a8c1e55b72303d6d7297d41c52ca17c335fb294856698add8e665eff6618#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) No 926/2014 is amended as follows:\n\n| (1) | in Article 6, paragraph 1 is replaced by the following:‘1. The competent authorities of the home Member State shall use the form laid down in Annex II to communicate a branch passport notification to the competent authorities of the host Member State together with a copy of the branch passport notification and with the latest available information on own funds using the form laid down in Annex III. Such latest available information on own funds of the credit institution submitting the passport notification shall be notified at both the individual and consolidated level, where applicable and available to the competent authority of the home Member State.’; |\n| --- | --- |\n\n| (2) | in Article 8, paragraph 2 is replaced by the following:‘2. Credit institutions shall use the form laid down in Annex IV to notify a change which concerns a planned termination of the operation of the branch. Where the branch of a credit institution takes or took deposits and other repayable funds, the credit institution concerned shall also submit a statement listing the measures that have been or that are being undertaken to ensure that the credit institution will no longer hold deposits or other repayable funds from the public through the branch after the termination of the operation of that branch.’; |\n| --- | --- |\n\n| (3) | Annexes I to VI are replaced by the text in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "2eb20fe81c82c54b3a1fe9a53b1411340e4473d7f07746684a90f540b2af4c0b",
+      "md_span": {
+        "start": 702,
+        "end": 2199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0193:2021-11-17--ee43a8c1e55b72303d6d7297d41c52ca17c335fb294856698add8e665eff6618#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 2232,
+        "end": 2383
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

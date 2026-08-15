@@ -1,0 +1,165 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 15 février 2019 portant énumération des maladies sujettes à déclaration obligatoire et fixant les délais de déclaration ainsi que les informations à reprendre au cahier des charges pour la désignation comme laboratoire national de référence d’un laboratoire d’analyses médicales.",
+  "valid_from": "2021-01-15",
+  "valid_to": "2021-06-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2019-02-15-a104/versions/2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931/fr.xml",
+    "sha256": "edc2331422cc82c43b7f25d7bf450abcef354759b36774af772e7168313cb85e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20210115/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/art_1er/20190305",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-05",
+      "text_md": "Les maladies sujettes à déclaration obligatoire par les médecins, médecins-dentistes ou responsables de laboratoires d’analyses médicales ainsi que les maladies présentant une menace grave pour la santé publique sont énumérées à l’annexe A qui fixe pour chacune de ces maladies le délai maximal endéans duquel la déclaration doit être faite.",
+      "text_sha256": "60af5411cffbb0e9a0ccc9c769d9c6fbb94ad4a78697deb4cb49aa7956058948",
+      "md_span": {
+        "start": 915,
+        "end": 1256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/art_2/20190305",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-05",
+      "text_md": "L’annexe B détermine les délais endéans desquels la souche ou le matériel biologique est à transférer par le laboratoire d’analyses médicales au laboratoire national de référence après établissement du diagnostic, ainsi que :\n\n1. la liste des maladies à déclaration obligatoire pour lesquelles, la souche bactérienne, virale ou parasitaire isolée sur un patient, ou à défaut de souche, le matériel biologique, est à transférer d’emblée, après établissement du diagnostic, au laboratoire national de référence, sans demande spécifique de l’autorité sanitaire ;\n2. les souches bactériennes, virales ou parasitaires pour lesquelles le ministre ayant la Santé dans ses attributions peut nommer un laboratoire national de référence.",
+      "text_sha256": "873379b45aed851c69ffef4feb8e61a4ebac2e66223ba5d017e842057293fa16",
+      "md_span": {
+        "start": 1291,
+        "end": 2018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/art_3/20190305",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-05",
+      "text_md": "L’annexe C prévoit le cahier des charges pour la désignation comme laboratoire national de référence d’un laboratoire d’analyses médicales.",
+      "text_sha256": "46fc18eb7d95fd93a17572e535306d7123854cbba1d83ac7020e7a871d0df920",
+      "md_span": {
+        "start": 2053,
+        "end": 2192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/art_4/20210115",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-15",
+      "text_md": "Le règlement grand-ducal du 10 septembre 2004 portant désignation des maladies infectieuses ou transmissibles sujettes à déclaration obligatoire est abrogé.",
+      "text_sha256": "1b55cd4d9ed405098b4c6577dd49634823ae34f1e15fb4a7951af84bfd0074d1",
+      "md_span": {
+        "start": 2227,
+        "end": 2383
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/09/10/n5/jo",
+          "text": "règlement grand-ducal du 10 septembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/art_5/20190305",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-05",
+      "text_md": "Notre ministre de la Santé est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "793bb2f8ffacda31d1b5656c078d7f42f4e4d00f61bcdb1975ca3ef05742dc1d",
+      "md_span": {
+        "start": 2418,
+        "end": 2557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe A",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des maladies à déclaration obligatoire et des maladies présentant une menace grave pour la santé publique**\n\n| **Maladies transmissibles** (germes) | **Déclaration Médecin** | **Délai de déclaration** |  | **Déclaration Labo** | **Délai de déclaration** |\n| --- | --- | --- | --- | --- | --- |\n| **Anthrax *(Bacillus anthracis)*** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| **Botulisme *(Clostridium botulinum)*** | **X** | **TÉLÉPHONE** |  |  |  |\n| Brucellose *(Brucella spp)* | X | 1 semaine |  | X | 1 semaine |\n| Campylobactériose *(Campylobacter spp)* |  |  |  | X | 1 semaine |\n| Chlamydiose *(Chlamydia trachomatis)* |  |  |  | X | 1 semaine |\n| Choléra *(Vibrio cholerae)* | X | 1 jour |  | X | 1 jour |\n| Colite à Clostridium difficile | X | 1 semaine |  |  |  |\n| Coqueluche *(Bordetella pertussis)* | X | 1 jour |  | X | 1 jour |\n| Cryptosporidiose *(Cryptosporidium spp)* |  |  |  | X | 1 semaine |\n| Dipthérie *(C. diphteriae, C. ulcerans, et C. pseudotuberculosis)* | X | 1 jour |  | X | 1 jour |\n| Echinococcose *(Echinococcus spp)* | X | 1 semaine |  | X | 1 semaine |\n| Fièvre jaune | X | 1 semaine |  | X | 1 semaine |\n| Fièvre Q *(Coxiella burnetti)* |  |  |  | X | 1 semaine |\n| **Fièvres hémorragiques virales à transmission interhumaine*****(Ebola, Marburg, Crimée-Congo, Lassa et autres Arenavirus)*** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Fièvres hémorragiques virales transmises par vecteurs*(Hantavirose, Dengue, Rift Valley, West Nile, Zika, Zika congénital, Chikungunya)* | X | 1 semaine |  | X | 1 semaine |\n| Giardiase *(Giardia lamblia)* |  |  |  | X | 1 semaine |\n| Gonorrhée (Neisseria gonorrhoeae) |  |  |  | X | 1 semaine |\n| Grippe saisonnière |  |  |  | X | 1 semaine |\n| **Grippe (nouveau sous-type)** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Hépatite A aiguë | X | 1 jour |  | X | 1 jour |\n| Hépatite B |  |  |  | X | 1 semaine |\n| Hépatite B porteur chronique |  |  |  | X | 1 semaine |\n| Hépatite C |  |  |  | X | 1 semaine |\n| Hépatite E aiguë | X | 1 jour |  | X | 1 jour |\n| Infection HIV |  |  |  | X | 1 semaine |\n| Infection invasive à Candida auris |  |  |  | X | 1 semaine |\n| Infection invasive à Haemophilus influenzae | X | 1 jour |  | X | 1 jour |\n| **Infection invasive à Meningocoque *(N. meningitidis)*** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Infection invasive à Pneumocoque (S. pneumoniae) | X | 1 jour |  | X | 1 jour |\n| Infection invasive à MRSA *(Meticillin resistant S. aureus)* | X | 1 semaine |  | X | 1 semaine |\n| Infection à Escherichia coli VTEC / STEC gastro-entérite | X | 1 jour |  | X | 1 jour |\n| Infection à Escherichia coli VTEC / STEC SHU | X | 1 jour |  |  |  |\n| Infection invasive à Entérobactéries résistantes aux carbapénèmes ou aux céphalosporines de 3e ou 4e génération |  |  |  | X | 1 semaine |\n| Infection à Norovirus |  |  |  | X | 1 jour |\n| Infection à Rotavirus |  |  |  | X | 1 jour |\n| Légionellose *(Legionella spp)* | X | 1 semaine |  | X | 1 semaine |\n| Leptospirose *(Leptospira spp)* | X | 1 jour |  | X | 1 jour |\n| Lèpre | X | 1 semaine |  | X | 1 semaine |\n| LGV *(Lymphgranuloma venereum)* |  |  |  | X | 1 semaine |\n| Listériose *(Listeria monocytogenes)* |  |  |  | X | 1 semaine |\n| Maladie à CMV congénital | X | 1 semaine |  |  |  |\n| Maladie de Creutzfeld-Jacob | X | 1 semaine |  | X | 1 semaine |\n| Maladie de Creutzfeld-Jacob, variant vCJD | X | 1 semaine |  | X | 1 semaine |\n| Maladie de Lyme *(Borréliose)**Seulement Erythèmes migrants et formes neurologiques aiguës* | X | 1 semaine |  |  |  |\n| Méningoencéphalite à tiques (FSME) |  |  |  | X | 1 semaine |\n| Oreillons | X | 1 jour |  | X | 1 jour |\n| Paludisme / Malaria *(Plasmodium spp)* | X | 1 semaine |  | X | 1 semaine |\n| **Peste *(Yersinia pestis)*** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Poliomyélite | X | 1 jour |  | X | 1 jour |\n| **Rage** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Rougeole | X | 1 jour |  | X | 1 jour |\n| Rubéole | X | 1 jour |  | X | 1 jour |\n| Rubéole congénitale | X | 1 semaine |  |  |  |\n| Salmonellose *(Salmonella spp)**y compris Fièvre typhoïde et paratyphoïde* |  |  |  | X | 1 jour |\n| Shigellose *(Shigella spp)* |  |  |  | X | 1 semaine |\n| SIDA | X | 1 semaine |  |  |  |\n| **Syndrome respiratoire aigu sévère*****(SRAS, MERS-CoV,…)*** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Syphilis (Treponema pallidum)*y compris Syphilis congénitale* | X | 1 semaine |  | X | 1 semaine |\n| Tétanos *(Clostridium tetani)* | X | 1 semaine |  |  |  |\n| Toxoplasmose*y compris Toxoplasmose congénitale* | X | 1 semaine |  |  |  |\n| Trichinellose *(Trichinella spiralis)* | X | 1 semaine |  | X | 1 semaine |\n| Tuberculose *(Mycobacterium tuberculosis complex)* | X | 1 semaine |  | X | 1 semaine |\n| Tuberculose extra-pulmonaire active *(Mycobacterium tuberculosis complex)* | X | 1 semaine |  | X | 1 semaine |\n| Tuberculose latente (IGRA positifs) |  |  |  | X | 1 semaine |\n| Tuberculose latente (IDR positives) | X | 1 sem |  |  |  |\n| Tularémie (Franciscella tularensis) | X | 1 sem |  | X | 1 semaine |\n| Varicelle | X | 1 sem |  |  |  |\n| **Variole** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n| Yersiniose (Y. enterolitica, Y. pseudotuberculosis) |  |  |  | X | 1 semaine |\n| **Flambées de symptômes cliniques ou de diagnostics de laboratoires** | **X** | **TÉLÉPHONE** |  | **X** | **TÉLÉPHONE** |\n\n**Précision :**\n\nLes maladies présentant une menace grave pour la santé publique figurent **en gras**.\n\n**TÉLÉPHONE** - déclaration par téléphone endéans les deux heures après suspicion de diagnostic ou diagnostic confirmé à Inspection sanitaire (à joindre au numéro 247-85650 ou en-dehors des heures ouvrables via les Services des Secours au numéro de téléphone 112).\n\nHeures ouvrables de la Direction de la santé : de 9 heures à 12 heures le matin et de 14 heures à 17 heures l’après-midi.\n\n**1 jour** - déclaration endéans 24 heures après le diagnostic.\n\n**1 semaine** - déclaration endéans une semaine après le diagnostic.",
+      "text_sha256": "0fd32418b6d458000af222b224773ce8d3d1aaa17e0c3b62f619c3d4ac94a843",
+      "md_span": {
+        "start": 2600,
+        "end": 8652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe B",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des pathogènes pour lesquels le Ministre ayant la santé dans ses attributions peut désigner un laboratoire national de référence et dont la souche ou le matériel biologique est à transférer par le laboratoire d’analyses médicales au laboratoire national de référence après établissement du diagnostic sans demande spécifique par l’autorité sanitaire**\n\n| Maladie | Matériel | Délai |\n| --- | --- | --- |\n| Anthrax | Souche ou matériel biologique | 1 jour |\n| Infections invasives à *Streptococcus**pneumoniae**Haemophilus influenzae**Neisseria meningitidis* | Souche | 1 semaine1 semaine1 jour |\n| Infections invasives à Staphylocoques résistants à la méthicilline (MRSA)Entérobactéries résistantes aux carbapénemes ou aux céphalosporines de 3e ou 4e générationsEntérocoques résistants à la vancomycine | Souche | 1 semaine |\n| Brucellose (toutes espèces) | Souche | 1 semaine |\n| Campylobacteriose (toutes espèces) | Souche | 1 semaine |\n| Infection invasive à *Candida auris* | Souche | 1 semaine |\n| Colite à *Clostridium difficile* | Souche | 1 semaine |\n| Diphtérie | Souche ou matériel biologique | 1 jour |\n| Infections méningées à Entérovirus | Matériel biologique isolé du LCR | 1 semaine |\n| Infections à *Escherichia coli* producteur de vérotoxines | Souche | 1 semaine |\n| Tularémie | Souche ou matériel biologique | 1 semaine |\n| Fièvres hémorragiques à transmission interhumaine | Matériel biologique | 1 jour |\n| Grippe (nouvelle variante épidémique) | Matériel biologique | 1 semaine |\n| Hépatite A | Matériel biologique | 1 semaine |\n| Hépatite B | Matériel biologique | 1 semaine |\n| Hépatite C | Matériel biologique | 1 semaine |\n| Infection HIV | Matériel biologique | 1 semaine |\n| Legionnellose (toutes espèces) | Souche ou matériel biologique | 1 semaine |\n| Listeriose (toutes espèces) | Souche | 1 semaine |\n| Mycobacteriose (toutes espèces) | Souche ou matériel biologique | 1 semaine |\n| Gonorrhée | Souche | 1 semaine |\n| Oreillons | Matériel biologique | 1 semaine |\n| Poliomyélite virale | Matériel biologique | 1 jour |\n| Rougeole | Matériel biologique | 1 jour |\n| Rubéole | Matériel biologique | 1 jour |\n| Salmonellose (toutes espèces) | Souche | 1 semaine |\n| SARS-CoV-1 ou SARS-CoV-2 ou MERS | Matériel biologique | 1 jour |\n| Shigellose (toutes espèces) | Souche | 1 semaine |\n| Cholera (toutes espèces) | Souche ou matériel biologique | 1 jour |\n| Yersiniose (toutes espèces) | Souche | 1 semaine |",
+      "text_sha256": "089a77ab902e51da3a5490a5a932dd807beb0edb219f9f00b01bf52d98ebd9bb",
+      "md_span": {
+        "start": 8695,
+        "end": 11139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2019-02-15-a104:2021-01-15--8c83bba7eb122f8de430095ff87fa0001f8ef9a7acae69a1298c19964c750931#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe C",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Cahier des charges pour la désignation d’un laboratoire national de référence**\n\nOutre les exigences spécifiées dans la loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique, le laboratoire candidat doit fournir les informations suivantes :\n\nPARTIE I\n\nCoordonnées administratives du laboratoire d’analyses médicales candidat\n\nCoordonnées administratives usuelles (nom, adresse, téléphone, e-mail) ;\n\nNom, prénom, diplômes et coordonnées des médecins ou pharmaciens biologistes en charge de l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat.\n\nPARTIE II\n\nActivité de référence *(à remplir autant de fois que de pathologies demandées)*\n\nDescription des examens d’analyses médicales (y compris méthodologie analytique) de la pathologie déterminée pour lequel le laboratoire d’analyses médicales est candidat comme laboratoire national de référence ;\n\nQuantité d’examens d’analyses médicales concernés réalisés l’année précédente par le laboratoire d’analyses médicales ;\n\nQuantité d’examens d’analyses médicales concernés réalisables si le laboratoire est choisi comme laboratoire de référence ;\n\nVolume d’échantillons susceptibles d’être traités par jour pour les examens d’analyses médicales concernés ;\n\nDélai de rendu des résultats pour les examens d’analyses médicales concernés ;\n\nDescription du système d’assurance qualité en place, y compris certifications, accréditations, labellisations.\n\nPARTIE III\n\nJustification du haut niveau de compétence du laboratoire candidat pour l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat\n\nNombre ETP et titres des médecins ou pharmaciens biologistes dédiés ou contribuant à l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat ;\n\nNombre ETP et qualifications professionnelles des autres personnels dédiés à cette activité ;\n\nTravaux des médecins ou pharmaciens biologistes en charge de cette activité : dernières publications dans des revues et ouvrages scientifiques, des guides techniques, interventions et publications de posters dans des colloques.\n\nPARTIE IV\n\nMissions de santé publique en lien avec l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat: acquis et perspectives\n\nDescription du rôle d’expert du laboratoire d’analyses médicales pour le maintien et l’innovation dans les techniques de diagnostic ;\n\nDescription de l’action de conseil du laboratoire d’analyses médicales pour les services cliniques et les autres laboratoires ;\n\nDescription des activités de conseil et d’alerte du laboratoire liées à l’activité de référence ;\n\nDescription des participations à des manifestations scientifiques ou à des formations à l’enseignement universitaire et autres formations réalisées relativement à l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat ;\n\nDescription des recommandations, référentiels ou arbres décisionnels relatifs à cette activité de référence que le laboratoire a aidé à élaborer ;\n\nDescription succincte des projets de recherche ou d’essai clinique en cours ou demandés relatifs à l’activité de référence pour laquelle le laboratoire d’analyses médicales est candidat.",
+      "text_sha256": "67a81a4addab76c7c3902796540c8a92a3edb838d73054f70e1e132249dc8829",
+      "md_span": {
+        "start": 11182,
+        "end": 14472
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

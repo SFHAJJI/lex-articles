@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2342:2015-12-15--f06704b75220f3dc76f1882abfb6b90bacc11f601331003117ee0f7774b40ffa",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2015/2342 of 15 December 2015 amending Directive 2004/18/EC",
+  "valid_from": "2015-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2342/versions/2015-12-15--f06704b75220f3dc76f1882abfb6b90bacc11f601331003117ee0f7774b40ffa/fr.xml",
+    "sha256": "8fce62e4637d6805615f575b09290195bfa464cb3dbcb0890cab934a6ae52ff6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2342"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2342:2015-12-15--f06704b75220f3dc76f1882abfb6b90bacc11f601331003117ee0f7774b40ffa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2004/18/CE est modifiée comme suit:\n\n| 1) | l'article 7 est modifié comme suit:a)au point a), le montant de 134 000 EUR est remplacé par celui de 135 000 EUR;b)au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR;c)au point c), le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR; |\n| --- | --- |\n| a) | au point a), le montant de 134 000 EUR est remplacé par celui de 135 000 EUR; |\n| b) | au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR; |\n| c) | au point c), le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR; |\n\n| 2) | l'article 8, premier alinéa, est modifié comme suit:a)au point a), le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR;b)au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR; |\n| --- | --- |\n| a) | au point a), le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR; |\n| b) | au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR; |\n\n| 3) | à l'article 56, le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR; |\n| --- | --- |\n\n| 4) | à l'article 63, paragraphe 1, premier alinéa, le montant de 5 186 000 EUR est remplacé par celui de 5 225 000 EUR; |\n| --- | --- |\n\n| 5) | l'article 67, paragraphe 1, est modifié comme suit:a)au point a), le montant de 134 000 EUR est remplacé par celui de 135 000 EUR;b)au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR;c)au point c), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR. |\n| --- | --- |\n| a) | au point a), le montant de 134 000 EUR est remplacé par celui de 135 000 EUR; |\n| b) | au point b), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR; |\n| c) | au point c), le montant de 207 000 EUR est remplacé par celui de 209 000 EUR. |",
+      "text_sha256": "94eca87fefb00b73b46bb5edfd88e4f5ca54916dce9065cc2255bff282d8b32b",
+      "md_span": {
+        "start": 697,
+        "end": 2567
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2342:2015-12-15--f06704b75220f3dc76f1882abfb6b90bacc11f601331003117ee0f7774b40ffa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le 1er janvier 2016.",
+      "text_sha256": "eef72f5ba764142aed770cdce6bda3bf219bf6ea6f86d677a586b18b4a0e20f2",
+      "md_span": {
+        "start": 2600,
+        "end": 2669
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

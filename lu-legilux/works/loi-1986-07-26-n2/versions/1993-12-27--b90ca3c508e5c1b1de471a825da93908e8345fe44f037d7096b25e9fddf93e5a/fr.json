@@ -1,0 +1,927 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/11/1992 : Loi du 26 juillet 1986 portant\na) création du droit à un revenu minimum garanti;\nb) création d'un service national d'action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité.",
+  "valid_from": "1993-12-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1986-07-26-n2/versions/1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a/fr.pdf-memorial/eli-etat-leg-memorial-1994-a34-fr-pdf.pdf",
+    "sha256": "cba10b7221e0fc5d762a2dee12ff660d69be86a12f225af2172eb521b986566d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19931227/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Il est institué au profit des personnes visées à l’article 2 de la présente loi un droit à un revenu minimum",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "garanti dont le niveau est déterminé en fonction de la composition de la communauté domestique dont elles font partie.",
+      "text_sha256": "6295da6f15debf8950a139a3bead86e8b2af9edd2d7b424a990a076530f7873b",
+      "md_span": {
+        "start": 957,
+        "end": 1075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Pour pouvoir prétendre au revenu minimum garanti,il faut: a) être domicilié sur le territoire luxembourgeois et y avoir résidé pendant dix ans au moins au cours des vingt dernières années; b) être disponible pour le marché de l’emploi et prêt à accepter tout emploi approprié assigné par l’administration de l’emploi; c) être âgé de trente ans au moins; d) répondre aux conditions de l’article 11 de la présente loi.» «(2) Peuvent prétendre au revenu minimum garanti sans devoir remplir les conditions prévues sous (1) b) et c), les personnes majeures qui,inaptes au travail par suite de maladie ou d’infirmité,ne sont pas en état de gagner leur vie dans les limites prévues par la présente loi. (3) Peuvent prétendre au revenu minimum garanti sans devoir remplir les conditions énumérées sous (1) b),c) et d): a) les personnes âgées de plus de soixante ans; b) la personne qui élève un enfant pour lequel elle touche des allocations familiales,soit que l’enfant soit âgé de moins de six ans,soit qu’il soit âgé entre six et quinze ans à condition que l’intérêt de l’enfant s’oppose à l’accomplisse- ment des conditions sous (1) b) et d),soit qu’il s’agisse d’un enfant infirme au sens de l’article 4,alinéa 5 de la loi du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations fami- liales; c) la personne majeure qui soigne une personne atteinte d’une infirmité grave nécessitant l’aide constante d’une tierce personne.» «(4) L’octroi du revenu minimum garanti est suspendu pour toute personne pendant la période où elle fait l’objet d’une mesure de détention préventive ou pendant l’exécution d’une peine privative de liberté,supérieure à un mois. (5) Le fonds national de solidarité peut,sur avis du service national d’action sociale et de l’administration de l’emploi, dispenser les bénéficiaires du revenu minimum garanti des conditions prévues au paragraphe (1) b) ci-dessus, si ces personnes sont âgées de plus de cinquante ans,si elles se sont présentées régulièrement pendant trois ans aux bureaux de placement de l’administration de l’emploi et si aucun emploi approprié ne leur a été offert pendant cette période.» «(6) Le fonds national de solidarité peut refuser l’octroi du revenu minimum garanti si le requérant a abandonné son activité professionnelle de plein gré et sans pouvoir justifier de motifs réels et sérieux.» Détermination du revenu minimum garanti",
+      "text_sha256": "3ac28f82152da3de25ecdc9c1e86fafa62514a2405490006cb41d89f60ef2edf",
+      "md_span": {
+        "start": 1110,
+        "end": 3546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Le revenu minimum mensuel garanti pour une personne seule ou pour la première personne de la communauté domestique est fixé à cinq mille six cent trente-six francs. (2) Lorsque deux ou plusieurs personnes dont chacune aurait individuellement droit au revenu minimum garanti vivent en communauté domestique, le montant prévu sous (1) est augmenté de deux mille huit cent dix-huit francs pour la seconde personne et de mille six cent treize francs pour chaque personne à partir de la troisième. (3) Pour chaque enfant ayant droit à des allocations familiales qui vit dans la communauté domestique,le montant sous (1) est majoré de huit cent trente francs, à moins que l’enfant majeur n’ait individuellement droit au revenu minimum garanti ou que l’enfant mineur ne touche un revenu professionnel.» 622 «(4) Lorsqu’un bénéficiaire du revenu minimum garanti,qui n’a pas droit à l’allocation prévue par la loi modifiée du 16 avril 1979 portant création d’une allocation spéciale pour personnes gravement handicapées, est atteint d’une impo- tence prononcée nécessitant l’assistance et les soins constants d’une tierce personne qui lui imposent des frais spéciaux, les montants prévus respectivement sous (1) et sous (2) sont majorés d’un montant égal à l’allocation spéciale prévue pour les personnes majeures à l’article 3 de la loi citée ci-devant. (5) Les montants prévisés correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat. (6) Les montants prévus ci-dessus peuvent être augmentés, en une ou plusieurs étapes, par règlement grand-ducal à prendre sur avis du Conseil d’Etat et de l’assentiment de la commission de travail de la Chambre des Députés, jusqu’à concurrence de vingt-cinq pour cent.» «Art.3bis. Si la personne ou la communauté domestique bénéficiaire d’un revenu minimum garanti doit s’acquitter à l’égard d’un tiers d’un loyer pour le logement occupé,elle a droit à une compensation à charge de loyer égale à la différence entre le loyer effectivement versé et un montant correspondant à dix pour cent du revenu minimum garanti auquel cette personne ou cette communauté peut prétendre en vertu de l’article 3,sans que le montant versé à titre de compensation ne puisse dépasser la somme de cinq mille francs. Cette compensation de loyer est exempte d’impôts et de cotisations sociales. Si l’un des organismes compétents estime que le loyer effectivement versé n’est pas fixé conformément aux disposi- tions des articles 1er à 4 de la loi modifiée du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de baux à loyer,il peut,de l’accord du bénéficiaire du revenu minimum garanti,saisir la commission locale des loyers prévue aux articles 6 à 9 de la même loi.»",
+      "text_sha256": "1d50c7096abf0d8ec03215f5d50c6b2de63be31ed0da693c0412cce9e954b02c",
+      "md_span": {
+        "start": 3581,
+        "end": 6456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Les prestations à allouer en vertu de la présente loi consistent dans un complément correspondant à la diffé-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "rence entre le revenu minimum garanti, tel que défini à l’article 3, et la somme des ressources dont les membres de la communauté domestique disposent,dénommé par la suite «le complément». Le complément est accordé soit par l’office social compétent,soit par le fonds national de solidarité,désignés ci-après par les termes «l’organisme compétent»,suivant les modalités prévues au chapitre III de la présente loi. Le complément est soumis au paiement des cotisations en matière d’assurance maladie. La cotisation est calculée sur la base du complément moyennant le taux prévu pour les prestations autres que l’indem- nité pécuniaire.La part patronale de cette cotisation est imputée sur le fonds national de solidarité. Détermination de la communauté domestique",
+      "text_sha256": "5b687e04c595934619dc627579b4bb7bfe17bf2021b96c08f5cae99086461f6e",
+      "md_span": {
+        "start": 6601,
+        "end": 7362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Sont présumées faire partie d’une communauté domestique toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. (2) Lorsqu’un enfant est placé temporairement en dehors du domicile des père et mère, il est néanmoins considéré comme faisant partie de la communauté domestique. (3) Les personnes vivant dans une institution sociale ou médico-sociale sont à considérer soit comme personne seule, soit comme communauté de deux ou plusieurs personnes suivant qu’elles y vivent seules ou ensemble avec leur conjoint ou avec leurs enfants. L’hospitalisation n’est pas considérée comme séjour dans une institution sociale ou médico-sociale, à moins qu’il ne s’agisse d’un cas de simple hébergement qui n’est pas pris en charge par la caisse de maladie. Pendant l’exécution d’une peine privative de liberté supérieure à un mois ou pendant l’internement dans une maison d’éducation l’intéressé ne peut pas être considéré comme faisant partie de la communauté domestique.» «(4) Lorsque, dans une communauté domestique déterminée conformément au paragraphe (1) du présent article, aucun complément n’est dû ou n’est demandé, les personnes suivantes sont considérées comme formant seules une communauté domestique: a) les personnes vivant dans le ménage de leurs descendants; b) les personnes telles qu’elles sont définies à l’article 2(2) qui vivent dans le ménage de leurs ascendants ou de leur frère ou soeur.» «En outre le fonds national de solidarité peut considérer les personnes majeures, recueillies dans un ménage pour lequel elles créent des charges sans y apporter une contribution quelconque, comme formant seules une communauté domestique». 623 Détermination des ressources",
+      "text_sha256": "e670e1dacd757c1695364d2d752dc7fe6d9dfee1a76b8e97730adaf7e84c3404",
+      "md_span": {
+        "start": 7397,
+        "end": 9146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Pour la détermination des ressources d’un ayant droit sont pris en considération son revenu brut intégral et sa fortune ainsi que les revenus et la fortune des personnes qui vivent avec lui en communauté domestique. «Sont compris dans les revenus,les revenus de remplacement ou de complément dus au titre de la législation luxem- bourgeoise ou étrangère. Ne sont toutefois pas pris en compte les allocations familiales,l’allocation de rentrée scolaire,les allocations de nais- sance, l’allocation pour personnes gravement handicapées, l’allocation de soins, le revenu professionnel de l’enfant mineur jusqu’à concurrence du salaire social minimum de référence ainsi que les secours bénévoles alloués par des oeuvres sociales privées. Ne sont en outre pas comptés les revenus professionnels,les revenus de remplacement ou de complément au titre de la législation luxembourgeoise ou étrangère, l’indemnité d’insertion prévue au paragraphe (3) de l’article 11 ci-après, ainsi que les aliments prestés par les ascendants et les descendants sur la base de l’article 8 ci-après,jusqu’à concurrence d’un cinquième du revenu global garanti au ménage par application de l’article 3,paragraphes (1) à (4).» Un règlement grand-ducal établit les règles de conversion de revenus annuels en revenus mensuels; ce même règle- ment établit les règles de la mise en compte des revenus gagnés au titre d’activités saisonnières ou occasionnelles. (2) «La détermination des revenus tient compte des obligations alimentaires fixées conformément aux dispositions de l’article 8 ci-après ainsi que,le cas échéant,de la mise en compte des prestations en nature prévues à l’alinéa subséquent. Les prestations en nature,comprenant notamment l’entretien complet et services rendus par le requérant à d’autres membres du ménage commun,ne peuvent être fixées à un montant inférieur à la valeur moyenne des rémunérations en nature en matière de sécurité sociale. Lorsqu’il existe à un autre titre une prise en charge de l’entretien par un organisme ou une institution sociale, cet entretien est considéré comme revenu jusqu’à concurrence de quatre-vingts pour cent du revenu prévu à l’article 3. Le revenu est diminué du montant effectivement presté en vertu d’une obligation alimentaire à laquelle un membre de la communauté domestique est tenu envers une personne ne faisant pas partie de la communauté domestique définie à l’article 5.» (...)(dernier alinéa abrogé par la loi du 26 février 1993)",
+      "text_sha256": "3af6cfc01812fcbaff20a50d6445f72eb5f0e527760e6d2e8db9368a0c6cb391",
+      "md_span": {
+        "start": 9181,
+        "end": 11652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Les ressources de la fortune se déterminent par conversion en rente viagère immédiate de la valeur globale de la fortune au moyen de multiplicateurs à arrêter par règlement grand-ducal.» «(2) La valeur de la fortune mobilière est déterminée soit selon sa valeur nominale,soit selon sa valeur vénale.Il n’est pas tenu compte d’un montant de cent mille francs,nombre indice cent du coût de la vie.» «(3) La valeur de la fortune immobilière est déterminée comme suit: a) les valeurs unitaires telles qu’elles sont fixées par l’administration des contributions pour la fixation de l’impôt sur la fortune des terrains agricoles ou forestiers sont multipliées par le coefficient de trente; b) les valeurs unitaires telles qu’elles sont fixées par l’administration des contributions pour la fixation de l’impôt sur la fortune de tous les immeubles non visés à l’alinéa qui précède sont multipliées par le coefficient de soixante. Si le requérant conteste la valeur ainsi déterminée celle-ci est déterminée par voie d’expertise. Les coefficients prévus sous (3) a) et b) sont adaptés tous les cinq ans par règlement grand-ducal. (4) Si le requérant habite tout ou partie d’une maison d’habitation dont il est propriétaire,la valeur locative de cette habitation n’est pas comptée pour la détermination de son revenu intégral dans la mesure où elle ne dépasse pas les besoins du requérant et de sa famille. Le requérant peut demander que la valeur en capital de la maison ne soit pas prise en considération pour la détermina- tion du revenu intégral. Si les ressources de la fortune immobilière déterminées en vertu du paragraphe (1) ci-dessus ne dépassent pas de cinquante pour cent les seuils correspondants du revenu minimum garanti prévus à l’article 3, le ou les requérants peuvent demander que la valeur intégrale de cette fortune immobilière ne soit pas prise en considération pour la déter- mination du revenu intégral. En cas d’application des dispositions du présent paragraphe,l’article 24 est appliqué d’office qu’elle que soit la valeur des immeubles.» 624 «Prise en considération de l’obligation alimentaire",
+      "text_sha256": "294c316247feeae8a78f6cbc41ac23eab5b81cf543b1de5f58d06941971eda4b",
+      "md_span": {
+        "start": 11687,
+        "end": 13803
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour l’appréciation des ressources,il est tenu compte des obligations alimentaires instituées par les articles 203,205 à 212,214,238,267 bis,268,277,300,334-1 et 362 du code civil. Le requérant est tenu de faire valoir ses droits aux créances d’aliments qui lui sont dues en vertu des dispositions précitées. Si les débiteurs d’une obligation alimentaire ne s’acquittent qu’imparfaitement ou manquent de s’acquitter de leur dette alimentaire, l’organisme compétent, après avoir constaté que les débiteurs d’aliments sont en état de fournir une aide alimentaire au demandeur du complément, fixe celle-ci à un montant approprié. Ce montant est compté comme revenu du demandeur. L’organisme compétent peut néanmoins, dans le cas de l’alinéa qui précède, reporter la fixation de l’aide alimentaire pour une durée de six mois, en attendant que le créancier d’aliments fasse valoir lui-même ses droits contre les débi- teurs.» Chapitre II.- Prestations connexes et subsidiaires Soins de Santé (Art.9.abrogé par la loi du 27 juillet 1992) Placement",
+      "text_sha256": "d04a86cbf6a6859f1452d2ad9de0bca5f1e47021278db56a7c3f9423d5cffb48",
+      "md_span": {
+        "start": 13838,
+        "end": 14879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Le fonds national de solidarité peut s’acquitter de son obligation de fournir le complément en pla§ant la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "personne intéressée, avec l’accord de celle-ci, dans une maison de retraite ou de gériatrie moyennant paiement à l’éta- blissementenquestiondesfraisdeséjourdansleslimitesducomplémentquiauraitétéaccordéàlapersonneintéressée. Mesures sociales complémentaires",
+      "text_sha256": "ed0118d4ad78505c0a330d9360dc5de8fdb8636a8f5aa2a134928b06e2d77581",
+      "md_span": {
+        "start": 15022,
+        "end": 15278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Dans les trois mois qui suivent la mise en paiement du complément au revenu minimum garanti,le service national d’action sociale définit ensemble avec le bénéficiaire du revenu minimum garanti un projet d’insertion sociale et profes- sionnelle qui fait apparaître: - tous les éléments utiles à l’appréciation de la situation sanitaire, sociale, professionnelle, financière du bénéficiaire et de ses conditions d’habitat; - la nature du projet d’insertion sociale et professionnelle qu’il est susceptible de former en tenant compte des mesures prévues au paragraphe (2) subséquent qui peuvent lui être demandées ou celles de l’article 13 ci-après qui peuvent lui être proposées; - la nature des facilités qui peuvent lui être offertes pour l’aider à réaliser ce projet; - le calendrier des démarches et activités d’insertion qu’implique la réalisation de ce projet. Ce projet d’insertion est à réexaminer au moins une fois par an, ainsi qu’à la demande du bénéficiaire, du fonds national de solidarité ou d’un des services visés à l’article 13 ci-après.» «(2) Le service national d’action sociale peut demander aux bénéficiaires du revenu minimum garanti: 1. La participation à des cours, stages, ou autres mesures de préparation, d’initiation et d’orientation à la vie profes- sionnelle,des cours ou stages de formation professionnelle complémentaire ainsi que des cours ou stages d’adapta- tion,de conversion ou de perfectionnement professionnels organisés,sur proposition du comité interministériel à l’action sociale,soit sur la base de l’article 33 paragraphe 1. de la loi modifiée du 30 juin 1976 portant 1.création d’un fonds pour l’emploi; 2. réglementation de l’octroi des indemnités de chômage complet, soit par des associa- tions ou organismes agréés par le service national d’action sociale; 2. L’affectation temporaire à une tâche déclarée d’utilité publique sur la base de l’article 33 paragraphe 2. de la loi précitée du 30 juin 1976; 3. L’affectation temporaire à une occupation auprès de l’Etat, des communes, des établissements publics ou d’autres organismes,institutions ou groupements de personnes poursuivant un but non lucratif.» «4. La participation à des stages en entreprise selon des modalités à fixer par règlement grand-ducal. Ce règlement détermine également les aides à l’embauche dont peut bénéficier l’employeur qui engage,après le stage en entre- prise,le bénéficiaire du revenu minimum garanti moyennant un contrat de travail à durée indéterminée.» 625 «(3) 1. La durée maximale des affectations visées aux points 2 et 3 du paragraphe qui précède,est déterminée en fonction du montant du complément que le bénéficiaire ou la communauté domestique dont il fait partie touche,divisé par le taux horaire du salaire social minimum auquel pourrait prétendre le bénéficiaire. 2. Si un ou plusieurs membres d’une même communauté domestique sont affectés conformément aux points 2 et 3 du paragraphe (2), le complément accordé à la communauté domestique est divisé par le nombre des membres soumis à ces affectations. Pour chacune de ces personnes, la durée maximale de l’affectation est déterminée en fonction de la fraction du complément ainsi obtenue divisée par le taux horaire du salaire social minimum auquel elle aurait droit. 3. Le montant maximum du complément à mettre en compte pour la fixation de la durée de l’affectation d’un bénéfi- ciaire est celui prévu à l’article 3 (1) qui précède.La partie décimale du quotient obtenu est négligée. 4. Le service national d’action sociale peut augmenter jusqu’à vingt-cinq pour cent la durée fixée conformément au premier alinéa qui précède.Le bénéficiaire a dans ce cas droit à un complément majoré dont le niveau correspond au taux horaire du salaire social minimum auquel il pourrait prétendre multiplié par le nombre d’heures effective- ment prestées à la suite de l’augmentation de la durée de l’affectation.» (...) (dernière phrase abrogée pas la loi du 26 février 1993) «5. Le service national d’action sociale peut augmenter la durée des affectations visées aux points 2 à 4 du paragraphe qui précède à quarante heures par semaine.Dans ce cas,le bénéficiaire a droit à une indemnité d’insertion.Cette indemnité d’insertion correspond au taux du salaire social minimum pour un travailleur non qualifié âgé de dix-huit ans au moins.Elle est soumise aux charges sociales généralement prévues en matière de salaires.La part patronale des charges sociales est imputée sur le fonds national de solidarité. 6. Le service du complément majoré et de l’indemnité d’insertion est assuré par le fonds national de solidarité sur déclaration à certifier sincère et exacte par le service national d’action sociale. 7. Les dispositions de la loi du 24 mai 1989 sur le contrat de travail ne sont pas applicables aux mesures sociales complémentaires telles que définies au présent article.» «(4) L’administration de l’emploi est chargée d’assurer le placement du bénéficiaire du revenu minimum garanti au sens des dispositions de l’article 7 de la loi modifiée du 21 février 1976 concernant l’organisation et le fonctionnement de l’administration de l’emploi et portant création d’une commission nationale de l’emploi.»",
+      "text_sha256": "aff465dca1a8adf9c2c4896d9a978443f7b711ae52b53cf42fc94aee826b74af",
+      "md_span": {
+        "start": 15315,
+        "end": 20508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Le complément n’est pas dû au cas où le requérant refuse l’une des mesures prévues à l’article 11 ci-dessus. S’il estime que ces mesures sont incompatibles avec sa situation familiale ou que la mesure proposée est incompatible avec son état physique,il dispose d’un recours dans les mêmes formes et conditions qu’en matière de refus du complément. Le refus ou le retrait est prononcé par l’organisme compétent à la demande du service national d’action sociale, sur avis,le cas échéant,du contrôle médical de la sécurité sociale ou de l’un des organismes prévus à l’article 13 ci-après.» «L’octroi du complément peut être refusé par l’organisme compétent, à la demande du service national d’action sociale, si le complément a dû être retiré trois fois de suite à un même bénéficiaire. Ce refus peut durer jusqu’à douze mois et prend cours le premier du mois qui suit la décision de l’organisme compétent.»",
+      "text_sha256": "917baad3af77952c187108daa8f056f42b9f750a9307007afc8d91dab2ae8b9a",
+      "md_span": {
+        "start": 20545,
+        "end": 21450
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) A l’égard des requérants et des bénéficiaires du revenu minimum garanti, les offices sociaux des communes, les services sociaux publics et les services sociaux privés,conventionnés à cette fin par l’Etat,sont tenus: - d’établir un diagnostic précis sur l’existence et l’étendue du besoin d’aide et de proposer les moyens les plus appro- priés d’y faire face; - d’épuiser toutes les possibilités non encore utilisées par le demandeur dans la législation luxembourgeoise ou étrangère. Ils orientent l’intéressé vers les organismes ou personnes dispensateurs de ces possibilités, ils l’aident dans l’accomplissement des formalités et coordonnent éventuellement les diverses interventions possibles. Si nécessaire,ils effectuent eux-mêmes les démarches jusqu’au moment où l’intéressé a obtenu satisfaction; - d’assurer une aide préventive, palliative ou curative, et de prendre, sur le plan individuel et collectif, toute mesure destinée à prévenir une situation physique,psychique et morale critique; - d’informer, de conseiller, d’orienter et de guider les personnes et les ménages concernés dans la gestion de leur budget; - d’assurer,en respectant le libre choix de l’intéressé,une guidance psycho-sociale,morale et éducative nécessaire à l’intéressé lui permettant de vaincre progressivement ses difficultés; 626 - d’employer, conformément à l’article 20 ci-après, le complément au profit du bénéficiaire et de la communauté domestique; - de contribuer à la réalisation des mesures prévues à l’article 11 de la présente loi et d’assurer l’accompagnement social des bénéficiaires soumis à l’une ou l’autre de ces mesures. (2) L’Etat est autorisé à participer au financement de services chargés de contribuer à la réalisation des mesures sociales complémentaires définies par la présente loi ainsi qu’à les créer. Si ces services sont gérés par les offices sociaux communaux ou par des organismes privés ayant le statut d’association sans but lucratif ou d’établissement d’utilité publique,les droits et devoirs des parties sont réglés par convention à passer avec le Gouvernement,sur proposition du comité interministériel à l’action sociale.» Chapitre III.- Procédure",
+      "text_sha256": "6a529ab6d4aefcf43b0c2335bb483d86db6808b427233c2dec8f057512f92c77",
+      "md_span": {
+        "start": 21487,
+        "end": 23660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Le complément prévu par la présente loi est accordé soit à la demande de l’intéressé auprès de l’office social",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la commune de son séjour habituel,soit à l’initiative dudit office et de l’accord de l’intéressé. Les demandes donnent lieu à établissement d’un dossier basé si nécessaire sur une enquête sociale effectuée soit par le personnel qualifié de l’office social, soit par un travailleur social d’une association ou oeuvre dont l’organisme s’est assuré la collaboration conformément à l’article 39. Le dossier est instruit par l’office social,compte tenu des obligations qui lui sont imposées par l’article 38. Les décisions qui déterminent notamment le montant,le début et la durée du complément sont notifiées au requérant au plus tard dans les trente jours suivant la demande. «Les décisions de l’office social ne sont pas susceptibles d’un recours devant le conseil arbitral. Si une décision de l’office social est contestée par le requérant,l’office doit transmettre dans les dix jours le dossier au fonds national de solidarité qui l’instruira et notifiera au requérant une décision susceptible de recours devant le conseil arbitral des assurances sociales.» Un règlement grand-ducal peut préciser les formes et les modalités du dossier, les pièces justificatives requises et la date à laquelle la demande est censée être faite.",
+      "text_sha256": "80a5121e5769e50287a93a3fdd80f0df7c4338fbfc2549886e52583cfc37f237",
+      "md_span": {
+        "start": 23808,
+        "end": 25038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "En cas d’urgence,les décisions d’octroi du complément sont prises dans les vingt-quatre heures par le prési-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "dent de l’office social ou par une personne désignée à cette fin par l’office.",
+      "text_sha256": "ad3859da5b99d011608fbd7f274ca10aaab7186117553139457ddf4c21f666a2",
+      "md_span": {
+        "start": 25184,
+        "end": 25262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "L’office social assure le service du complément.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Au cas où la durée du droit dépasse le mois au cours duquel la demande a été introduite et les trois mois subséquents, le service du complément est repris par le fonds national de solidarité.",
+      "text_sha256": "04bb332804a8ffcbfbe6c656e11a17364831dfde09f3916432889a697545e28c",
+      "md_span": {
+        "start": 25348,
+        "end": 25539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Le fonds est saisi soit par l’office social dès qu’il appert que la durée du droit dépasse le délai prévu à l’article",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "qui précède,soit directement par l’intéressé suivant les modalités prévues par la loi modifiée du 30 juillet 1960 concer- nant la création d’un fonds national de solidarité.",
+      "text_sha256": "75e8adc27d7787ea659c1109e85fd15b06e24328812135cc435f06700b701c91",
+      "md_span": {
+        "start": 25694,
+        "end": 25867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«La charge du complément incombe au fonds national de solidarité. L’office social qui a assuré le service du complément calculé suivant les dispositions de la présente loi,est remboursé par le fonds,si les conditions de l’article 2 de la présente loi sont remplies. Il en est de même lorsque l’office social fait l’avance du complément au-delà du délai prévu à l’article 16.» (dernier alinéa abrogé par la loi du 26 février 1993)",
+      "text_sha256": "e1c25c55ca4883b27e8990fbbbd0544208dfb9f7b0592efa3ef693364bb6e040",
+      "md_span": {
+        "start": 25904,
+        "end": 26333
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Le complément est versé entre les mains de l’un des membres de la communauté domestique.L’organisme",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "compétent choisit l’allocataire après avoir entendu les parties.",
+      "text_sha256": "77c574fdd389b763c60b1e1dc0b4722539a45df0f7e439423e779f5aac686991",
+      "md_span": {
+        "start": 26470,
+        "end": 26534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Toutefois,lorsque l’organisme compétent estime que le complément est détourné de son but naturel ou que",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "les intérêts des membres de la communauté sont lésés,le juge de paix de la résidence du bénéficiaire peut désigner une tierce personne qui emploiera le complément au profit du bénéficiaire et de la communauté.Il fixe la durée et les autres modalités de cette mission qui,le cas échéant,peut être prorogée.Le juge de paix est saisi soit par l’organisme compé- tent, soit par les personnes visées et selon la procédure réglée à l’article 292bis du code des assurances sociales et le règlement grand-ducal pris en exécution dudit article. (alinéa 2 abrogé par la loi du 16 juin 1989) 627 «Révision de la décision d’attribution et restitution des compléments»«Révision de la décision d’attribution et restitution des compléments»",
+      "text_sha256": "a2e75749ed222660f0723c732fb67ecfa8b0e10d3374b906639f6854a26e9d8c",
+      "md_span": {
+        "start": 26675,
+        "end": 27400
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Les bénéficiaires du complément doivent déclarer immédiatement à l’organisme compétent tous les faits qui",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sont de nature à modifier leurs droits au complément. L’organisme compétent examine régulièrement si les conditions d’octroi sont toujours remplies.",
+      "text_sha256": "5749d2000c2c07bc4b8e28ce67a3cd8c3be09ca6cd8a42d4e3f1312a618db4d6",
+      "md_span": {
+        "start": 27543,
+        "end": 27691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Le complément est supprimé si les conditions qui l’ont motivé viennent à défaillir. Si les éléments de calcul du complément se modifient ou s’il est constaté qu’il a été accordé par suite d’une erreur matérielle,le complément est relevé,réduit ou supprimé. (2) Lorsque pendant la période pour laquelle le complément a été payé un bénéficiaire a disposé de ressources qui auraient dû être prises en considération pour le calcul de ce complément,les sommes payées en trop peuvent être récu- pérées à charge du bénéficiaire ou de ses ayants droit. Sa restitution est obligatoire si le bénéficiaire a provoqué son attribution en alléguant des faits inexacts,ou en dissimu- lant des faits importants,ou s’il a omis de signaler après l’attribution des faits importants. (3) Les sommes indûment touchées sont à restituer par le bénéficiaire ou ses ayants droit sans préjudice de poursuites judiciaires éventuelles;elles peuvent être déduites du complément ou des arrérages restant dus au bénéficiaire. L’organisme compétent ne peut prendre une décision concernant la restitution qu’après avoir entendu l’intéressé ou ses ayants droit soit verbalement,soit par écrit. La décision doit être motivée.",
+      "text_sha256": "7864973ea7202a88b506b985eda03c90695b48fab7002cf386aa4209507e9ff7",
+      "md_span": {
+        "start": 27728,
+        "end": 28922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Le fonds national de solidarité réclame dans les limites à fixer par un règlement grand-ducal la restitution des",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sommes par lui versées: a) contre le bénéficiaire revenu à meilleure fortune; b) contre la succession du bénéficiaire au maximum jusqu’à concurrence de l’actif de la succession; c) contre le donataire du bénéficiaire d’un complément, lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du complément,ou dans les dix ans qui ont précédé cette demande,ou après l’âge de cinquante ans accomplis,au maximum jusqu’à concurrence de la valeur des biens au jour de la donation; d) contre le légataire du bénéficiaire d’un complément, au maximum jusqu’à concurrence de la valeur des biens à lui légués au jour de l’ouverture de la succession. Les montants touchés par le fonds en lieu et place du bénéficiaire du complément, en exécution de l’article 8 de la présente loi,sont à déduire du montant de ce complément à récupérer en vertu du présent article. (alinéa 3 abrogé par la loi du 26 février 1993) «Le fonds peut renoncer à la restitution des montants du complément touchés par le bénéficiaire pendant la période où il a suivi les mesures prévues à l’article 11 paragraphe (2).» «Il peut renoncer également à la restitution de la moitié des montants correspondant aux pensions alimentaires versées effectivement à un ascendant ou à un descendant,bénéficiaire du revenu minimum garanti. Ces montants sont à considérer comme une créance desdits héritiers et à déduire de l’actif de la succession avant la restitution au profit du fonds national de solidarité.» «Actions et recours contre des tiers",
+      "text_sha256": "3510f1b58724d4062190c20074ba6c80a1a98afd0b938bbeba3cbc2f568d8761",
+      "md_span": {
+        "start": 29072,
+        "end": 30600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23bis",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_23bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23bis.",
+      "heading": "Le fonds peut réclamer la restitution du complément contre le tiers responsable du fait qui a rendu",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "nécessaire le paiement du complément. Si un allocataire du complément a personnellement utilisé les possibilités légales de réclamer les aliments selon la légis- lation luxembourgeoise ou étrangère et si les débiteurs d’une obligation alimentaire, tout en étant solvables d’après les constatations du fonds faites dans le cadre de l’article 8,alinéa 3,continuent de ne pas s’acquitter de leurs dettes alimen- taires,le fonds peut,en lieu et place du créancier et selon les règles de compétence et de procédure qui sont applicables à l’action de celui-ci,agir en justice pour la fixation,la révision et le recouvrement de la créance d’aliments. Cette action peut porter sur la période écoulée et remonter dans ses effets à la date à laquelle le fonds a invité par lettre recommandée les débiteurs d’aliments à s’acquitter de leur obligation. L’action ne peut être exercée contre les personnes qui disposent d’un revenu imposable inférieur à trois fois le salaire social minimum.Elle ne peut,en outre,être exercée que jusqu’à concurrence d’un montant correspondant au maximum au salaire social minimum. 628 Les limites de l’alinéa qui précède ne sont pas applicables si le débiteur d’aliments est un époux séparé de fait, un époux en instance de divorce,un conjoint séparé de corps,un conjoint divorcé ou le parent direct au premier degré d’un enfant mineur.Les transactions sur les pensions alimentaires ou renonciations à des aliments contenues dans des conven- tions de divorce par consentement mutuel ne sont pas opposables au fonds. Le versement de la dette alimentaire,fixée en vertu d’une action judiciaire intentée par le fonds en vertu des alinéas qui précèdent,est effectué entre les mains du fonds. Le complément payé à l’intéressé ne doit en aucun cas être inférieur aux aliments touchés en son lieu et place par le fonds. Un règlement grand-ducal peut déterminer les conditions d’application du présent article.» Garantie de la restitution par une hypothèque légale",
+      "text_sha256": "caeeccc7a9e4cf2d4f93be0defb7c5aac7ed0c3845f51efa7725c1fd9c2e384f",
+      "md_span": {
+        "start": 30743,
+        "end": 32719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«(1) Pour la garantie des demandes en restitution prévues par la présente loi, les immeubles appartenant aux bénéfi- ciaires d’un complément sont grevés d’une hypothèque légale dont l’inscription est requise par le fonds national de soli- darité dans la forme et de la manière prescrites par les dispositions légales en vigueur. (2) Les bordereaux d’inscription doivent contenir une évaluation du complément alloué au bénéficiaire.Cette évalua- tion est faite d’après une table de mortalité à agréer par arrêté ministériel.En cas de modification du complément,l’ins- cription est changée en conséquence. Lorsque le complément servi dépasse l’évaluation figurant au bordereau d’inscription, le fonds requiert une nouvelle inscription d’hypothèque. (3)Aucune inscription ne peut être prise: a) silavaleur globale desbiensdubénéficiaire ducomplémentest inférieure àunmontantde cinquante millefrancs;» «b) si la valeur vénale de la maison d’habitation du bénéficiaire du complément est inférieure à un montant de un million de francs et tant que le conjoint ou un descendant en ligne directe de ce dernier est en vie.» «Les montants précités correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948. (4) Les formalités relatives à l’inscription de l’hypothèque visée ci-dessus, ainsi que sa radiation, ne donnent lieu à aucune perception au profit du trésor.» Cession,mise en gage et saisie",
+      "text_sha256": "6a1c98ea14038b9d2e5287c7812dc6efef143e6cabb67abf5372460b9062ff87",
+      "md_span": {
+        "start": 32756,
+        "end": 34172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Les compléments ne peuvent être ni cédés,ni mis en gage,ni saisis.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Les arrérages peuvent cependant être cédés,mis en gage et saisis sans limitation pour couvrir:» «1) les avances sur les compléments faites aux bénéficiaires entre l’échéance et l’ordonnancement du complément par une institution de droit public,par un établissement d’utilité publique ou une association de droit privé constituée sous forme d’association sans but lucratif ;» «2) les créances qui compètent aux communes et établissements publics pour secours fournis depuis que le complé- ment était dû; 3) les avances de pensions alimentaires versées en vertu de la loi du 26 juillet 1980 concernant l’avance et le recouvre- ment de pensions alimentaires par le fonds national de solidarité. L’organisme compétent peut, de l’accord du bénéficiaire, retenir le complément jusqu’à concurrence d’un quart pour couvrir les frais d’électricité et de loyers impayés, pour rembourser des dettes notamment en relation avec les frais d’acquisition ou d’entretien d’un logement occupé par le bénéficiaire,pour l’avance de pensions alimentaires ou la resti- tution de compléments indûment touchés. Le complément majoré prévu à l’article 11 (3) 4. peut être cédé, mis en gage et saisi dans les limites fixées par les dispositions légales et réglementaires.»",
+      "text_sha256": "2dacc6894433db4a0f56eaa670fe7eb11c6d98dabcceb6f14f40508557fe7dac",
+      "md_span": {
+        "start": 34276,
+        "end": 35522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Sont applicables, sauf adaptation de terminologie, les articles 22 à 30 de la loi modifiée du 30 juillet 1960",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "concernant la création d’un fonds national de solidarité. 629 Chapitre IV.- InstitutionsChapitre IV.- Institutions Comité interministériel",
+      "text_sha256": "9739e61ddd7d994caa143318af436b6d3d53ab86beee9150e2eb89f4ad52521a",
+      "md_span": {
+        "start": 35669,
+        "end": 35807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Il est institué un comité interministériel à l’action sociale composé des ministres ayant dans leurs attributions la sécu- rité sociale,la solidarité sociale,le travail et l’intérieur.» Le comité interministériel dirige l’action sociale et coordonne l’activité de tous les services concernés et notamment du service national d’action sociale crée par la présente loi. Service national d’action sociale",
+      "text_sha256": "c50497a12ccc71960a054492ea1ed0fb1936000c735636beaeea793a5ca5afe4",
+      "md_span": {
+        "start": 35844,
+        "end": 36246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Il est créé un service national d’action sociale, désigné ci-après par «le service», sous l’autorité du ministre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ayant dans ses attributions la sécurité sociale. Le service est dirigé par le commissaire de gouvernement à l’action sociale.",
+      "text_sha256": "fc9d9ae7aa7281a36981bb3d0dc3ba39827940443291386e8db5c027a7565ec8",
+      "md_span": {
+        "start": 36396,
+        "end": 36521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Le service a pour mission:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "- d’assurer l’exécution des dispositions prévues aux articles 11 et 13; - de coordonner à cet effet l’action des offices sociaux et des associations et oeuvres à caractère social; - d’assurer le secrétariat du comité interministériel prévu à l’article 27 et du conseil supérieur prévu à l’article 36; - de recueillir les données statistiques nécessaires relatives aux prestations à assurer aux bénéficiaires des disposi- tions de la présente loi.",
+      "text_sha256": "0c23245f9f2fa707ce03e043957612d09acb6ca4f6d34868ee97a1d79a0e9d67",
+      "md_span": {
+        "start": 36585,
+        "end": 37031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993)",
+      "text_sha256": "356f66f81a9dd8141ace39cc9298e1cccec843bfe55989b6cabe39903763dbd5",
+      "md_span": {
+        "start": 37068,
+        "end": 37107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993)",
+      "text_sha256": "356f66f81a9dd8141ace39cc9298e1cccec843bfe55989b6cabe39903763dbd5",
+      "md_span": {
+        "start": 37144,
+        "end": 37183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993)",
+      "text_sha256": "356f66f81a9dd8141ace39cc9298e1cccec843bfe55989b6cabe39903763dbd5",
+      "md_span": {
+        "start": 37220,
+        "end": 37259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993)",
+      "text_sha256": "356f66f81a9dd8141ace39cc9298e1cccec843bfe55989b6cabe39903763dbd5",
+      "md_span": {
+        "start": 37296,
+        "end": 37335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993)",
+      "text_sha256": "356f66f81a9dd8141ace39cc9298e1cccec843bfe55989b6cabe39903763dbd5",
+      "md_span": {
+        "start": 37372,
+        "end": 37411
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par la loi du 15 décembre 1993) Conseil supérieur",
+      "text_sha256": "e3cf9006c47933dc77b1e138cc6ba706607a2aec5b9b4ca95b53481f1d4613f5",
+      "md_span": {
+        "start": 37448,
+        "end": 37505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Il est prévu un conseil supérieur qui exerce des fonctions consultatives auprès des ministres composant le comité interministériel à l’action sociale. Le conseil supérieur se compose : - des représentants des membres du gouvernement ayant dans leurs attributions le travail, la solidarité sociale, la sécurité sociale et l’intérieur; - d’un représentant du fonds national de solidarité; - d’un représentant du service national d’action sociale; - d’un représentant de l’inspection générale de la sécurité sociale; - de trois membres désignés parmi et par les présidents des offices sociaux; - de quatre membres représentant les syndicats les plus représentatifs; - de trois membres représentant les professionnels du travail social; - de trois membres représentant les associations gérant des services dans le domaine de l’action sociale; - de trois membres représentant les organisations d’employeurs.» Le conseil supérieur de l’action sociale est présidé alternativement et pour trois ans par les membres du gouverne- ment ayant dans leurs attributions respectivement la sécurité sociale et la solidarité sociale.Ceux-ci nomment également les membres du conseil. Le conseil supérieur de l’action sociale dresse l’état des besoins en matière d’action sociale et propose les voies et moyens d’y remédier. Tous les trois ans,il adresse à la Chambre des Députés un rapport circonstancié. Offices sociaux",
+      "text_sha256": "6e79c7a4e6c2907ffd50007f34c99a6cb60ac7be6ec4abc8aa9fac3fe3731d65",
+      "md_span": {
+        "start": 37542,
+        "end": 38944
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "Les bureaux de bienfaisance créés en vertu de l’arrêté royal grand-ducal du 11 décembre 1846 concernant la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "réorganisation et le règlement de bienfaisance,prennent la dénomination d’offices sociaux.Ils sont désignés ci-après par l’office.",
+      "text_sha256": "96bf367670238cbfd975cd277e500794d487463373fe131f985daa630b787fac",
+      "md_span": {
+        "start": 39088,
+        "end": 39218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Dans le cadre de la mission qui lui est impartie en vertu de la présente loi,l’office est tenu: - de prendre en charge tous les risques de santé y compris l’aide médicale et l’hospitalisation pour les personnes dont les ressources sont insuffisantes et qui ne bénéficient pas d’une protection correspondante de la sécurité sociale; - de participer aux frais d’entretien des personnes placées en institutions publiques ou privées.» 630",
+      "text_sha256": "914d43e1594a8969fe7b7a981074b1e1d726076a3e6540dd92c9fe8b22062000",
+      "md_span": {
+        "start": 39255,
+        "end": 39690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "Pour l’instruction des dossiers l’office s’assure le concours d’une personne ayant obligatoirement achevé une",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "formation dans un ordre d’enseignement postsecondaire dans le domaine social. Elle est membre de l’office, salariée de l’office ou d’une association oeuvrant dans le domaine de l’action sociale. Elle expose les dossiers aux membres de l’office.",
+      "text_sha256": "7943dd657a4a4084d5d55f0c47f0383f4f8afd791d436d7e3e77a0c6080c96f6",
+      "md_span": {
+        "start": 39837,
+        "end": 40081
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "Pour accomplir la mission dont il est chargé en vertu de la présente loi, l’office peut créer, de l’accord du",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "conseil communal,tout service ou toute institution nécessaires à l’accomplissement de sa mission. L’office a le droit d’avoir recours aux personnes, services et établissements publics ou privés, capables de la mise en oeuvre des solutions qui s’imposent dans les cas d’espèce.",
+      "text_sha256": "cd7df909f57a9d1ca5ff6d410d7dab5631e04339020441bffa1c1d8e1ea7666d",
+      "md_span": {
+        "start": 40228,
+        "end": 40504
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": "L’office peut proposer aux institutions et services déployant dans leur ressort une activité sociale,de créer",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "avec eux un comité où les travailleurs sociaux de l’office et ceux de ces institutions et services peuvent se concerter et coordonner leur action.",
+      "text_sha256": "ca259936cd94dae3d907eb168ef142b6d9f09aadd289dbc148a673122bfd710c",
+      "md_span": {
+        "start": 40651,
+        "end": 40797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": "Le service national d’action sociale est convoqué à toute réunion de l’office traitant des dossiers relevant de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "la présente loi. Le représentant du service peut intervenir à tout moment dans les délibérations de l’office.",
+      "text_sha256": "e9e8373b830d8344a190e0870fc012da7630bf834b962306999a3f6884628d12",
+      "md_span": {
+        "start": 40946,
+        "end": 41055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Le représentant du service peut,dans les trois jours,former une opposition motivée contre une décision de l’office qui lui semble contraire aux lois et règlements. Cette opposition est vidée par le ministre de l’intérieur dans les quinze jours qui suivent sa notification. L’opposition a un effet suspensif.La décision de l’office social est acquise si la décision du ministre n’intervient pas dans le délai prescrit. La décision du ministre ne saurait préjudicier d’un recours devant les juridictions compétentes.» ChapitreV.- Dispositions additionnelles",
+      "text_sha256": "45a6a3a979b71feb0f1fc7f773c97852d68a97a6c1dbf9e15d28ece796b40689",
+      "md_span": {
+        "start": 41092,
+        "end": 41648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": "La loi modifiée du 30 juillet 1960 concernant la création d’un fonds national de solidarité est modifiée",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "comme suit: 1) L’article 1er prend la teneur suivante: «Art.1er.Il est institué un fonds national de solidarité,ci-dessous nommé» le fonds«,qui a le caractère d’un établisse- ment public;il possède la personnalité civile et l’autonomie financière.» 2) Les articles 2 à 15 sont abrogés. Toutefois les personnes ayant bénéficié de prestations en vertu de ces dispositions bénéficieront d’office des presta- tions prévues par la présente loi. Si les prestations dues en vertu de la présente loi sont inférieures à celles dont les ayants droit bénéficient actuelle- ment,un complément à charge du fonds est accordé pour parfaire la différence.(Loi du 27 juillet 1987) «Ce complément est adapté dans la même mesure que le montant prévu à l’alinéa 1er de l’article 3.» 3) Les articles 22, 23 et 24 de la présente loi sont applicables aux personnes ayant touché des prestations du fonds national de solidarité en vertu de la loi précitée du 30 juillet 1960.",
+      "text_sha256": "7caf7eca9ef2c2d1a30edf8187fac0085ada741523191f7f88dfbc6c6b680ea9",
+      "md_span": {
+        "start": 41790,
+        "end": 42740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": "La loi modifiée du 16 avril 1979 portant création d’une allocation spéciale pour personnes gravement handi-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "capées est modifiée comme suit: 1.L’article 4 alinéa 1er est abrogé et remplacé par le texte suivant: «L’allocation prévue par la présente loi est suspendue, le cas échéant, jusqu’à concurrence du montant soit de l’aug- mentation de la rente due en vertu de l’article 97 alinéa 7 du code des assurances sociales, soit de l’augmentation du complément prévue à l’article 3 paragraphe 4 de la loi portant a) création du droit à un revenu minimum garanti;b) créa- tion d’un service national d’action sociale; c) modification de la loi du 30 juillet 1960 concernant la création d’un fonds national de solidarité.» 2.L’article 11 alinéa 1er est remplacé par le texte suivant: «Les articles 21,23 à 30 de la loi modifiée du 30 juillet 1960 concernant la création d’un fonds national de solidarité sont applicables à la présente allocation.Il en est de même de l’article 211 du code des assurances sociales et de l’article 22 de la loi portant a) création du droit à un revenu minimum garanti;b) création d’un service national d’action sociale; c) modification de la loi du 30 juillet 1960 concernant la création d’un fonds national de solidarité.»",
+      "text_sha256": "858bf74e3d078bd66cd548d776e1fc4e789b1364b2d3d1c160a8d64948a9dbef",
+      "md_span": {
+        "start": 42885,
+        "end": 44025
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": "L’article 13 de la loi du 26 juillet 1980 concernant l’avance et le recouvrement de pensions alimentaires par le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "fonds national de solidarité est abrogé et remplacé par le texte suivant: «Art.13.Le fonds peut réclamer au créancier ainsi qu’aux héritiers,donataires et légataires des créancier ou débiteur la restitution des pensions alimentaires par lui versées,sous les conditions et dans les limites fixées à l’article 23 de la loi portant a) création du droit à un revenu minimum garanti;b) création d’un service national d’action sociale;c) modifica- tion de la loi du 30 juillet 1960 concernant la création d’un fonds national de solidarité. 631 Pour garantir la restitution des pensions alimentaires versées,les immeubles appartenant au créancier ou au débiteur sont grevés d’une hypothèque légale régie par les dispositions de l’article 24 de la loi précitée.» ChapitreVI.- Dispositions abrogatoires,transitoires et finales",
+      "text_sha256": "aab98c69031ccc5fc0170ec96b0ca34aa9d7d7186fdd1baeb6dafb709d5eedad",
+      "md_span": {
+        "start": 44175,
+        "end": 44992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": "La loi du 13 juin 1975 portant création d’une allocation compensatoire en faveur de certaines catégories de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "bénéficiaires de rentes et de pensions est abrogée. «Le montant nominal de l’allocation compensatoire résultant pour le mois de décembre 1988 reste définitivement acquis aux bénéficiaires de celle-ci tant qu’ils ont droit à une pension ou à une rente et pour autant qu’ils ne touchent pas le complément prévu par la présente loi.»",
+      "text_sha256": "845cd11d3bc5272e06e1852918488b7ee9136a6e2a7cc0b58f8e968a34c8b482",
+      "md_span": {
+        "start": 45137,
+        "end": 45467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": "Les personnes visées à l’ancien article 14 premier alinéa,dernière phrase de la loi modifiée du 30 juillet 1960",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "concernant la création d’un fonds national de solidarité continuent à bénéficier des soins de santé suivant les modalités prévues à l’article 9 de la présente loi.",
+      "text_sha256": "77b1bf525426cccdf3d3f09513713e8fcebcd8180e293caa952241e7dcff2bc0",
+      "md_span": {
+        "start": 45616,
+        "end": 45779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": "A l’article 68 du code des assurances sociales,les termes «le fonds national de solidarité» sont remplacés par",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "le terme «l’Etat». Le dernier alinéa de cet article est remplacé par le texte suivant: «Les crédits nécessaires sont prévus annuellement dans la loi concernant le budget des recettes et des dépenses de l’Etat. L’Etat est autorisé à verser mensuellement des avances aux caisses de maladie, tenant compte de leurs besoins de trésorerie,sans toutefois que le montant total des avances mensuelles puisse dépasser 1/12 du crédit voté. La fixation des avances se fait chaque année par décision du ministre de la sécurité sociale,prise sur avis favorable du ministre des finances.»",
+      "text_sha256": "c659e0f20d9cbde32eaca67ab2fbb338a7981c57f36f8615d518d040d7601987",
+      "md_span": {
+        "start": 45927,
+        "end": 46501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": "A l’article 19 alinéas 1 et 4 de la loi modifiée du 13 mars 1962 portant création d’une caisse de maladie agri-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "cole les termes «du fonds national de solidarité» sont respectivement supprimés et remplacés par les termes «de l’Etat».",
+      "text_sha256": "50bf7688c4095815ef8f5717dda5424b6efd0a9e2c51d74ac89d85e705bda0d1",
+      "md_span": {
+        "start": 46650,
+        "end": 46770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(p.m.)",
+      "text_sha256": "bbc7fe14a181608a2acb19148d2913f91fe49d3587b78772175301706d7304d9",
+      "md_span": {
+        "start": 46807,
+        "end": 46813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(p.m.) ChapitreVII .- Dispositions particulières «Article II. Le premier alinéa de l’article 16 de la loi modifiée du 30 juillet 1960 concernant la création d’un fonds national de solidarité est modifié et prend la teneur suivante:",
+      "text_sha256": "0872eb5a761773194557e8dcc9cafab643201f841afb87bf3d16f9e049c6289c",
+      "md_span": {
+        "start": 46850,
+        "end": 47081
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16__2",
+      "provision_id": "lu-legilux:loi-1986-07-26-n2:1993-12-27--b90ca3c508e5c1b1de471a825da93908e8345fe44f037d7096b25e9fddf93e5a#art_16__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Le fonds est administré et géré par un comité directeur comprenant un président et sept membres nommés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "par le Gouvernement . Le président est obligatoirement choisi parmi les fonctionnaires de l’Etat, l’un des sept autres membres est obligatoirement le commissaire de gouvernement à l’action sociale. «Article III. La loi modifiée du 27 juillet 1978 portant diverses mesures en faveur de l’emploi des jeunes est modifiée comme suit: 1.L’alinéa 1er de l’article 1er est modifié comme suit: «L’administration de l’emploi peut proposer des contrats de stage-initiation aux demandeurs d’emploi qui n’ont pas dépassé l’âge de 30 ans accomplis et qui se trouvent inscrits comme demandeurs d’emploi auprès des bureaux de place- ment de l’administration de l’emploi.» 2.Le paragraphe (2) de l’article 14 est modifié comme suit: «Un délégué à l’emploi des jeunes,désigné par le Gouvernement en Conseil,assumera sous l’autorité du directeur de l’administration de l’emploi, la direction et la gestion de la division, dont il recrutera les effectifs parmi les demandeurs d’emploi qui n’ont pas dépassé l’âge de 30 ans accomplis et qui se trouvent inscrits comme demandeurs d’emploi auprès des bureaux de placement de l’administration de l’emploi.» 3.L’alinéa 1er de l’article 19 est modifié comme suit: «Le ministre du travail peut, à charge du fonds pour l’emploi, attribuer des primes d’orientation aux demandeurs d’emploi sans emploi ou sous préavis de licenciement, inscrits à l’administration de l’emploi, qui n’ont pas dépassé l’âge de 30 ans accomplis et qui prennent un emploi salarié ou s’engagent sous le couvert d’un contrat d’apprentissage dans une branche économique ou dans un métier déclarés éligibles par le ministre du travail après consultation de la commis- sion nationale de l’emploi.» 632 Article IV. L’article 36,chapitre I - stages de préparation en entreprise,paragraphe (1) de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984 est remplacé par le texte suivant: «Des stages de préparation en entreprise,comprenant des périodes alternées de formation pratique et de formation théorique peuvent être proposés par l’administration de l’emploi aux demandeurs d’emploi, sans emploi, inscrits à l’administration de l’emploi et n’ayant pas dépassé l’âge de 30 ans accomplis.» ArticleV. Les personnes qui, au moment de l’entrée en vigueur de la présente loi, bénéficient d’un complément en vertu de la loi du 26 juillet 1986 portant a) création du droit à un revenu minimum garanti; b) création d’un service national d’action sociale;c) modification de la loi du 30 juillet 1960 concernant la création d’un fonds national de solida- rité, continuent à bénéficier de ce même complément tant qu’elles remplissent les conditions prévues par la loi au moment de l’octroi de ce complément.» ArticleVI.(p.m.) Article II. La présente loi entre en vigueur le 1er janvier 1993.Toutefois, l’allocation d’éducation et l’allocation de maternité ne sont mises en compte en application des dispositions du paragraphe (1) de l’article 6,dans la teneur prévue par la présente loi,que si le droit y est ouvert après le 31 décembre 1992. Les dispositions de l’article 3 paragraphe (3),dans la teneur de la présente loi,n’entrent en vigueur que le 1er jour du mois qui suit sa publication au Mémorial. Editeur: Ministère d’Etat, Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg. Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg",
+      "text_sha256": "bfc5c10d65fd6efc3d2965359983b15e584041f0a111989be6a0529fbdbbe00f",
+      "md_span": {
+        "start": 47224,
+        "end": 50645
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 46..611 of 611 from the gazette issue"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1368:2021-07-10--887e0f7f235886a809b61aba8dd78844b0dcb711b2324efea4964276029e9d5c",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1368 of 11 August 2016 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011",
+  "valid_from": "2021-07-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1368/versions/2021-07-10--887e0f7f235886a809b61aba8dd78844b0dcb711b2324efea4964276029e9d5c/fr.html",
+    "sha256": "7adab69055696a6218149a75c39b9fe780d96d061397e0bd78204032b29c533c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1368-20210710"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32016r1368:2021-07-10--887e0f7f235886a809b61aba8dd78844b0dcb711b2324efea4964276029e9d5c#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'indice de référence figurant à l'annexe est considéré comme un indice de référence d'importance critique.",
+      "text_sha256": "999a2fb149019a6fe13383fc85ce086d7ea4eb9d379c8e2974fc7a5050d27b69",
+      "md_span": {
+        "start": 810,
+        "end": 917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1368:2021-07-10--887e0f7f235886a809b61aba8dd78844b0dcb711b2324efea4964276029e9d5c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "29f3bc4d014a263bf93c4b97cb0ad15b36cb146aac09e5e01bac1dbac00cd320",
+      "md_span": {
+        "start": 954,
+        "end": 1186
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1122",
+          "text": "32021R1122: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32016r1368:2021-07-10--887e0f7f235886a809b61aba8dd78844b0dcb711b2324efea4964276029e9d5c#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des indices de référence d’importance critique en vertu de l’article 20, paragraphe 1, points a) et c), du règlement (UE) 2016/1011**\n\n| **No** | **Taux de référence** | **Administrateur** | **Lieu d’implantation** |\n| --- | --- | --- | --- |\n| 1 | Euro Interbank Offered Rate (EURIBOR®) | European Money Markets Institute (EMMI) | Bruxelles, Belgique |\n| 2 | Euro Overnight Index Average (EONIA®) | European Money Markets Institute (EMMI) | Bruxelles, Belgique |\n\n**Liste des indices de référence d’importance critique en vertu de l’article 20, paragraphe 1, point b), du règlement (UE) 2016/1011**\n\n| **No** | **Taux de référence** | **Administrateur** | **Lieu d’implantation** |\n| --- | --- | --- | --- |\n| 1 | Stockholm Interbank Offered Rate (STIBOR) | Swedish Bankers’ Association (Svenska Bankföreningen) | Stockholm, Suède |\n| 2 | Warsaw Interbank Offered Rate (WIBOR) | GPW Benchmarks S.A. | Varsovie, Pologne |\n| 5 | Norwegian Interbank Offered Rate (NIBOR) | Norske Finansielle Referanser (NoRe) | Oslo, Norvège |",
+      "text_sha256": "e892f21a9726a8a7fcb261e714344b2fea7eaa5cbd44c335d8675f00cc9c2b35",
+      "md_span": {
+        "start": 1221,
+        "end": 2254
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

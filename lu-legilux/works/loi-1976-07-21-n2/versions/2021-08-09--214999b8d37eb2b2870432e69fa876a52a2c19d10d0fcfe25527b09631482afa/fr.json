@@ -1,0 +1,41 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1976-07-21-n2:2021-08-09--214999b8d37eb2b2870432e69fa876a52a2c19d10d0fcfe25527b09631482afa",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/08/2021 : Loi du 21 juillet 1976 portant approbation de la Convention européenne d'entraide judiciaire en matière pénale, signée à Strasbourg, le 20 avril 1959.",
+  "valid_from": "2021-08-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1976-07-21-n2/versions/2021-08-09--214999b8d37eb2b2870432e69fa876a52a2c19d10d0fcfe25527b09631482afa/fr.xml",
+    "sha256": "8d78fee2d53a6e1c68d379baef352168eef0c1cff73f1af9f147c7b6ceba2330",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/consolide/20210809/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "article_unique",
+      "provision_id": "lu-legilux:loi-1976-07-21-n2:2021-08-09--214999b8d37eb2b2870432e69fa876a52a2c19d10d0fcfe25527b09631482afa#article_unique",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/art_unique/20210809",
+      "type": "article",
+      "num": "Article unique.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-08-09",
+      "text_md": "Est approuvée la Convention européenne d'entraide judiciaire en matière pénale, signée à Strasbourg, le 20 avril 1959, compte tenu des réserves et déclarations ci-après.",
+      "text_sha256": "c3b4704d0311850e01cfc7f5573f5e9f0e1204acabb62f57b3327477a464a31e",
+      "md_span": {
+        "start": 765,
+        "end": 934
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

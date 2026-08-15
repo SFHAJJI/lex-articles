@@ -1,0 +1,793 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d",
+  "language": "fr",
+  "title": "Regulation (EU) No\u00A01024/2012",
+  "valid_from": "2014-06-17",
+  "valid_to": "2016-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1024/versions/2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d/fr.html",
+    "sha256": "6c7c5ad3ab1314c9bafdbed459750fa3819c32eeb08cc1242ac4a09c0dea0977",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1024-20140617"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement fixe les règles d'utilisation d'un système d'information du marché intérieur (ci-après dénommé «IMI») pour la coopération administrative, y compris le traitement de données à caractère personnel, entre les autorités compétentes des États membres et entre les autorités compétentes des États membres et la Commission.",
+      "text_sha256": "a78f03ac3e426d9eb24dfbfb18d5c451492dd0c2fdedfa094bf568df99b83016",
+      "md_span": {
+        "start": 725,
+        "end": 1062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Établissement de l'IMI",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'IMI est officiellement institué.",
+      "text_sha256": "2db50c6618a9fdaa916016d2665ef7fbea53e2aea3ca781cd34d650e356e292d",
+      "md_span": {
+        "start": 1124,
+        "end": 1158
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Champ d'application",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'IMI est utilisé pour la coopération administrative entre autorités compétentes des États membres et entre les autorités compétentes des États membres et la Commission, nécessaire à la mise en œuvre des actes de l'Union dans le domaine du marché intérieur, au sens de l'article 26, paragraphe 2, du traité sur le fonctionnement de l'Union européenne, qui prévoient une coopération administrative, y compris l'échange de données à caractère personnel, entre États membres ou entre les États membres et la Commission. La liste de ces actes de l'Union figure à l'annexe.\n\n2. Aucune disposition du présent règlement n'a pour effet de rendre obligatoires les dispositions d'actes de l'Union qui n'ont pas un caractère contraignant.",
+      "text_sha256": "0404a8ab1cbbbcd8c8235238dacc20d1c235da059e346624c6c3e006fbee5152",
+      "md_span": {
+        "start": 1217,
+        "end": 1947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Extension de l'IMI",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission peut mener des projets pilotes afin d'évaluer si l'IMI pourrait être un outil efficace pour la mise en œuvre des dispositions applicables à la coopération administrative pour des actes de l'Union qui ne sont pas énumérés à l'annexe. La Commission adopte un acte d'exécution pour déterminer quelles dispositions d'actes de l'Union font l'objet d'un projet pilote et pour fixer les modalités de chaque projet, notamment la fonctionnalité technique de base et les modalités de procédure requises pour la mise en œuvre des dispositions pertinentes de la coopération administrative. Cet acte d'exécution est adopté en conformité avec la procédure d'examen visée à l'article 24, paragraphe 3.\n\n2. La Commission présente au Parlement européen et au Conseil une évaluation du résultat du projet pilote, portant notamment sur les questions de protection des données et les fonctionnalités de traduction efficaces. Le cas échéant, cette évaluation peut être accompagnée d'une proposition législative visant à modifier l'annexe afin d'étendre l'utilisation de l'IMI aux dispositions pertinentes d'actes de l'Union.",
+      "text_sha256": "42b56fbe75c8d7e06c8903e9b020a41f203b707fc324df0992f1144dfc335ee9",
+      "md_span": {
+        "start": 2005,
+        "end": 3125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS GÉNÉRALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, les définitions figurant dans la directive 95/46/CE et dans le règlement (CE) no 45/2001 s'appliquent.\n\nEn outre, on entend par:\n\na) «IMI», l'outil électronique fourni par la Commission pour faciliter la coopération administrative entre autorités compétentes des États membres et entre les autorités compétentes des États membres et la Commission;\n\nb) «coopération administrative», la collaboration établie entre autorités compétentes des États membres ou entre les autorités compétentes des États membres et la Commission, par l'échange et le traitement d'informations, y compris au moyen de notifications et d'alertes, ou par la fourniture d'assistance mutuelle, notamment pour la résolution des problèmes, aux fins d'une meilleure application du droit de l'Union;\n\nc) «domaine du marché intérieur», un domaine législatif ou fonctionnel du marché intérieur au sens de l'article 26, paragraphe 2, du traité sur le fonctionnement de l'Union européenne, dans lequel l'IMI est utilisé conformément à l'article 3 du présent règlement;\n\nd) «procédure de coopération administrative», une procédure de traitement prédéfinie dans l'IMI qui permet aux participants IMI de communiquer et d'interagir les uns avec les autres de manière structurée;\n\ne) «coordonnateur IMI», un organisme désigné par un État membre pour assurer les tâches de support nécessaires au fonctionnement efficace de l'IMI conformément au présent règlement;\n\nf) «autorité compétente», tout organisme établi au niveau national, régional ou local et enregistré dans l'IMI, investi de responsabilités spécifiques concernant l'application du droit national ou d'actes de l'Union énumérés à l'annexe dans un ou plusieurs domaines du marché intérieur;\n\ng) «participants IMI», les autorités compétentes, les coordonnateurs IMI et la Commission;\n\nh) «utilisateur IMI», une personne physique travaillant sous l'autorité d'un participant IMI et enregistrée dans l'IMI au nom de ce participant IMI;\n\ni) «participants externes», les personnes physiques ou morales autres que les utilisateurs IMI qui peuvent interagir avec l'IMI uniquement au moyen de dispositifs techniques indépendants et en respectant une procédure de traitement prédéfinie fournie à cette fin;\n\nj) «verrouillage», l'utilisation de dispositifs techniques permettant de rendre des données à caractère personnel inaccessibles aux utilisateurs IMI via l'interface normale de l'IMI;\n\nk) «clôture formelle», l'utilisation de l'infrastructure technique fournie par l'IMI pour clore une procédure de coopération administrative.",
+      "text_sha256": "bf6046332f7cf075a2cbb1c893b62e5d9e6e383cc9c838c990dbdce235aad646",
+      "md_span": {
+        "start": 3176,
+        "end": 5748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Coordonnateurs IMI",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Chaque État membre nomme un coordonnateur national IMI chargé d'assumer les responsabilités suivantes:\n\na) enregistrer les coordonnateurs IMI et les autorités compétentes ou valider leur enregistrement;\n\nb) agir en qualité de principal point de contact à l'égard des participants IMI des États membres pour les questions liées à l'IMI, y compris fournir des informations sur les aspects relatifs à la protection des données à caractère personnel conformément au présent règlement;\n\nc) agir en qualité d'interlocuteur de la Commission pour les questions liées à l'IMI, y compris fournir des informations sur les aspects relatifs à la protection des données à caractère personnel conformément au présent règlement;\n\nd) fournir des connaissances, une formation et un soutien, y compris une assistance technique de base, aux participants IMI des États membres;\n\ne) garantir le bon fonctionnement de l'IMI dans la limite de ses compétences, notamment en veillant à ce que les participants IMI des États membres apportent en temps opportun des réponses adéquates aux demandes de coopération administrative.\n\n2. Chaque État membre peut en outre nommer un ou plusieurs coordonnateurs IMI supplémentaires, afin de mener à bien toutes les tâches énumérées au paragraphe 1, en fonction de sa structure administrative interne.\n\n3. Les États membres communiquent à la Commission les noms des coordonnateurs IMI nommés conformément aux paragraphes 1 et 2, en indiquant les tâches dont ils sont responsables. La Commission partage ces informations avec les autres États membres.\n\n4. Tous les coordonnateurs IMI peuvent agir en qualité d'autorités compétentes. En pareil cas, un coordonnateur IMI jouit des mêmes droits d'accès qu'une autorité compétente. Chaque coordonnateur IMI agit en qualité de responsable du traitement à l'égard des activités de traitement de données qu'il effectue en qualité de participant IMI.",
+      "text_sha256": "7a4c66d246af342f303a2c87ffe7869a72c113784c92a64562ffcb8b4adbb140",
+      "md_span": {
+        "start": 5878,
+        "end": 7785
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Autorités compétentes",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu'elles coopèrent via l'IMI, les autorités compétentes, par l'intermédiaire des utilisateurs IMI conformément aux procédures de coopération administrative, veillent à ce que, conformément à l'acte de l'Union applicable, une réponse adéquate soit fournie dans le délai le plus court possible et, en tout état de cause, dans le délai fixé par ledit acte.\n\n2. Une autorité compétente peut invoquer comme moyen de preuve les informations, les documents, les constatations, les déclarations ou les copies certifiées conformes qu'elle a reçus sous forme électronique via l'IMI, au même titre que les informations analogues obtenues dans son propre pays et pour des finalités compatibles avec celles pour lesquelles les données ont été initialement collectées.\n\n3. Chaque autorité compétente agit en qualité de responsable du traitement à l'égard de ses propres activités de traitement des données assurées par un utilisateur IMI placé sous son contrôle et veille à ce que les personnes concernées puissent exercer leurs droits conformément aux chapitres III et IV, en coopération avec la Commission, si nécessaire.",
+      "text_sha256": "81a52c1088ce62df7ec2f38b11ad906cd59e3479bdfd7669e5d7d51791bfd456",
+      "md_span": {
+        "start": 7846,
+        "end": 8962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Commission",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission est chargée des tâches suivantes:\n\na) garantir la sécurité, la disponibilité, la maintenance et le développement des logiciels et des infrastructures informatiques nécessaires au fonctionnement de l'IMI;\n\nb) fournir un système plurilingue, y compris les fonctionnalités de traduction existantes, une formation en coopération avec les États membres ainsi qu'un service d'assistance pour aider les États membres à utiliser l'IMI;\n\nc) enregistrer les coordonnateurs nationaux IMI et leur donner accès à l'IMI;\n\nd) effectuer des opérations de traitement de données à caractère personnel dans l'IMI, dans les cas prévus par le présent règlement, conformément aux finalités définies par les actes de l'Union applicables énumérés à l'annexe;\n\ne) contrôler l'application du présent règlement et faire rapport au Parlement européen, au Conseil et au Contrôleur européen de la protection des données conformément à l'article 25.\n\n2. Afin de s'acquitter des tâches énumérées au paragraphe 1 et d'établir des rapports statistiques, la Commission a accès aux informations nécessaires concernant les opérations de traitement exécutées dans l'IMI.\n\n3. La Commission ne participe pas à des procédures de coopération administrative impliquant le traitement de données à caractère personnel, sauf si une disposition d'un acte de l'Union énuméré à l'annexe l'impose.",
+      "text_sha256": "648239f4e1f4dac36f8e9730278de939f6607d0737a8b7e717bb324cd50afe02",
+      "md_span": {
+        "start": 9012,
+        "end": 10376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Droits d'accès des participants et utilisateurs IMI",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Seuls les utilisateurs IMI ont accès à l'IMI.\n\n2. Les États membres désignent les coordonnateurs IMI et les autorités compétentes, et précisent les domaines du marché intérieur dans lesquels ils ont compétence. La Commission peut jouer un rôle consultatif dans ce processus.\n\n3. Chaque participant IMI accorde à ses utilisateurs IMI et révoque, le cas échéant, les droits d'accès appropriés au domaine du marché intérieur pour lequel il est compétent.\n\n4. Des dispositifs adéquats sont mis en place par la Commission et les États membres pour s'assurer que l'accès des utilisateurs IMI aux données à caractère personnel traitées dans l'IMI est limité selon le principe du «besoin d'en connaître» et restreint au(x) domaine(s) du marché intérieur pour lequel ou lesquels des droits d'accès leur ont été accordés conformément au paragraphe 3.\n\n5. Sauf disposition expresse du droit national conformément au droit de l'Union, il est interdit d'utiliser des données à caractère personnel traitées dans l'IMI pour une finalité spécifique d'une manière qui est incompatible avec cette finalité initiale.\n\n6. Lorsqu'une procédure de coopération administrative requiert le traitement de données à caractère personnel, seuls les participants IMI à cette procédure peuvent avoir accès à ces données.",
+      "text_sha256": "c4fdcb3048088b8321dace1b2fa74da4a6caad842b89d61cfae6ff5f7df650cf",
+      "md_span": {
+        "start": 10467,
+        "end": 11759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Confidentialité",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Chaque État membre applique, à l'égard des participants IMI et des utilisateurs IMI, ses règles relatives au secret professionnel ou à toute obligation de confidentialité équivalente, conformément à la législation nationale ou de l'Union.\n\n2. Les participants IMI veillent à ce que les utilisateurs IMI travaillant sous leur autorité respectent les demandes d'autres participants IMI concernant le traitement confidentiel d'informations échangées via l'IMI.",
+      "text_sha256": "5b114db0067a51a8a4af56889a7a23a25b361984a053d4e5af2e2bb347f20884",
+      "md_span": {
+        "start": 11816,
+        "end": 12276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Procédures de coopération administrative",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'IMI se fonde sur des procédures de coopération administrative mettant en œuvre les dispositions des actes pertinents de l'Union énumérés à l'annexe. Le cas échéant, la Commission peut adopter des actes d'exécution pour un acte donné de l'Union énuméré à l'annexe ou pour un type de procédure de coopération administrative afin de définir la fonctionnalité technique essentielle et les modalités de procédure requises pour permettre la mise en œuvre des dispositions pertinentes de la coopération administrative, y compris, le cas échéant, l'interaction entre les participants externes et l'IMI visée à l'article 12. Ces actes d'exécution sont adoptés en conformité avec la procédure consultative visée à l'article 24, paragraphe 2.",
+      "text_sha256": "3792f02a6a2ad7c7596ed88501ec8d65bec236170127989e7d8a560b25daf431",
+      "md_span": {
+        "start": 12358,
+        "end": 13091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Participants externes",
+      "path": [
+        "CHAPITRE II",
+        "**FONCTIONS ET RESPONSABILITÉS RELATIVES À L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Des moyens techniques peuvent être prévus pour permettre à des participants externes d'interagir avec l'IMI lorsque cette interaction:\n\na) est prévue par un acte de l'Union;\n\nb) est prévue dans un acte d'exécution visé à l'article 11 afin de faciliter la coopération administrative entre les autorités compétentes des États membres pour l'application des dispositions d'actes de l'Union énumérés à l'annexe; ou\n\nc) est nécessaire dans le cadre du dépôt d'une demande en vue d'exercer leurs droits en tant que personnes concernées conformément à l'article 19.\n\nTout moyen technique de ce type est indépendant de l'IMI et ne permet pas aux participants externes d'accéder à l'IMI.",
+      "text_sha256": "a7bbbbe8b41d6ef59a5f00f7b49e694d32229b990a22d03a9a1baeb1e9c6638f",
+      "md_span": {
+        "start": 13154,
+        "end": 13832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Limitation de la finalité",
+      "path": [
+        "CHAPITRE III",
+        "**TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les participants IMI échangent et traitent des données à caractère personnel uniquement pour les finalités définies par les dispositions pertinentes des actes de l'Union énumérés à l'annexe.\n\nLes données communiquées à l'IMI par les personnes concernées ne sont utilisées que pour les finalités pour lesquelles elles ont été communiquées.",
+      "text_sha256": "cc9967c5fe734d783a7e86dc7ed6d65dab9d5131b74162297c603cacb8f941a8",
+      "md_span": {
+        "start": 13982,
+        "end": 14320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Conservation des données à caractère personnel",
+      "path": [
+        "CHAPITRE III",
+        "**TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les données à caractère personnel traitées dans l'IMI sont verrouillées dans l'IMI dès lors qu'elles ne sont plus nécessaires pour les finalités pour lesquelles elles ont été collectées, en fonction des spécificités de chaque type de coopération administrative et, en règle générale, au plus tard six mois après la clôture formelle de la procédure de coopération administrative.\n\nToutefois, si un acte de l'Union applicable énuméré à l'annexe prévoit un délai plus long, les données à caractère personnel traitées dans l'IMI peuvent être conservées pendant une durée maximale de dix-huit mois après la clôture formelle d'une procédure de coopération administrative.\n\n2. Lorsqu'un répertoire d'informations auquel les participants IMI pourront ultérieurement se référer est nécessaire en application d'un acte contraignant de l'Union énuméré à l'annexe, les données à caractère personnel incluses dans ce répertoire peuvent être traitées aussi longtemps qu'elles sont nécessaires pour cette finalité, soit moyennant le consentement de la personne concernée, soit lorsque ledit acte de l'Union le prévoit.\n\n3. Les données à caractère personnel qui ont été verrouillées en application du présent article ne font l'objet d'un traitement – à l'exception de leur stockage – qu'à la seule finalité de prouver l'existence d'un échange d'informations via l'IMI, avec le consentement de la personne concernée, sauf si le traitement est demandé pour des raisons impérieuses d'intérêt général.\n\n4. Les données verrouillées sont automatiquement effacées dans l'IMI au terme d'un délai de trois ans à partir de la date de clôture formelle de la procédure de coopération administrative.\n\n5. À la demande expresse d'une autorité compétente dans un cas particulier et avec le consentement de la personne concernée, les données à caractère personnel peuvent être effacées avant l'expiration du délai de conservation applicable.\n\n6. La Commission procède, à l'aide de dispositifs techniques, au verrouillage, à l'effacement et à l'extraction des données à caractère personnel, conformément au paragraphe 3.\n\n7. Des moyens techniques sont mis en place pour encourager les participants IMI à clore formellement les procédures de coopération administrative le plus rapidement possible après l'achèvement de l'échange d'informations, et pour permettre aux participants IMI de faire intervenir les coordonnateurs IMI responsables dans toute procédure demeurée inactive sans justification pendant plus de deux mois.",
+      "text_sha256": "055ebdfee0bec5cb1ab7737d46720c356119dd14271bc81391d71441801a07ca",
+      "md_span": {
+        "start": 14408,
+        "end": 16901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Conservation des données à caractère personnel des utilisateurs IMI",
+      "path": [
+        "CHAPITRE III",
+        "**TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Par dérogation à l'article 14, les paragraphes 2 et 3 du présent article s'appliquent à la conservation des données à caractère personnel des utilisateurs IMI. Ces données à caractère personnel incluent le nom complet ainsi que toutes les coordonnées de contact électroniques et autres qui sont nécessaires aux fins du présent règlement.\n\n2. Les données à caractère personnel relatives à des utilisateurs IMI sont stockées aussi longtemps que ces derniers continuent à utiliser l'IMI et elles peuvent être traitées pour des finalités compatibles avec les objectifs du présent règlement.\n\n3. Lorsqu'une personne physique cesse d'être un utilisateur IMI, les données à caractère personnel concernant cette personne sont verrouillées à l'aide de dispositifs techniques durant une période de trois ans. À l'exception de leur stockage, ces données ne font l'objet d'un traitement qu'à la seule finalité de prouver l'existence d'un échange d'informations via l'IMI et elles sont effacées au terme de la période de trois ans.",
+      "text_sha256": "dda7300590e94a49e248cbf0d60f973d9ebf6118e6d935b0842282f70d47ea5a",
+      "md_span": {
+        "start": 17010,
+        "end": 18031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Traitement portant sur des catégories particulières de données",
+      "path": [
+        "CHAPITRE III",
+        "**TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le traitement, au moyen de l'IMI, des catégories particulières de données visées à l'article 8, paragraphe 1, de la directive 95/46/CE et à l'article 10, paragraphe 1, du règlement (CE) no 45/2001 est autorisé uniquement sur la base d'un motif spécifique mentionné à l'article 8, paragraphes 2 et 4, de ladite directive et à l'article 10, paragraphe 2, dudit règlement et moyennant les garanties appropriées prévues dans ces articles pour assurer le respect des droits des personnes dont les données sont traitées.\n\n2. L'IMI peut être utilisé aux fins du traitement de données relatives à des infractions, à des condamnations pénales ou à des mesures de sûreté, visé à l'article 8, paragraphe 5, de la directive 95/46/CE et à l'article 10, paragraphe 5, du règlement (CE) no 45/2001, moyennant les garanties prévues dans ces articles, y compris des informations sur des sanctions disciplinaires, administratives ou pénales ou d'autres informations nécessaires pour établir la bonne réputation d'une personne physique ou morale, lorsque le traitement de ces données est prévu dans un acte de l'Union constituant le fondement du traitement ou est effectué avec le consentement explicite de la personne concernée, moyennant les garanties spécifiques visées à l'article 8, paragraphe 5, de la directive 95/46/CE.",
+      "text_sha256": "968fa212822041cb2d2da2645785f34702b4a07ec39be27aee889a82e2438800",
+      "md_span": {
+        "start": 18135,
+        "end": 19446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Sécurité",
+      "path": [
+        "CHAPITRE III",
+        "**TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission veille à ce que l'IMI se conforme aux règles sur la sécurité des données adoptées par la Commission en vertu de l'article 22 du règlement (CE) no 45/2001.\n\n2. La Commission met en place les mesures requises pour garantir la sécurité des données à caractère personnel traitées dans l'IMI, y compris des mesures appropriées de contrôle de l'accès aux données et un plan de sécurité qui est tenu à jour.\n\n3. La Commission veille à ce qu'il soit possible, en cas d'incident de sécurité, de vérifier quelles sont les données à caractère personnel qui ont été traitées dans l'IMI, quand, par qui et pour quelle finalité.\n\n4. Les participants IMI adoptent toutes les mesures procédurales et organisationnelles nécessaires pour garantir la sécurité des données à caractère personnel qu'ils traitent dans l'IMI conformément à l'article 17 de la directive 95/46/CE.",
+      "text_sha256": "3a1ca98a640fa0cda9c4b2092ad47af297a8d1f38eb4e4824aeaa01602e88889",
+      "md_span": {
+        "start": 19496,
+        "end": 20368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Information des personnes concernées et transparence",
+      "path": [
+        "CHAPITRE IV",
+        "**DROITS DES PERSONNES CONCERNÉES ET SURVEILLANCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les participants IMI veillent à informer le plus rapidement possible les personnes concernées sur le traitement de leurs données à caractère personnel dans l'IMI et à ce que ces personnes aient accès à des informations sur leurs droits et les modalités d'exercice de ces droits, y compris l'identité et les coordonnées du responsable du traitement et du représentant du responsable du traitement, le cas échéant, conformément aux articles 10 ou 11 de la directive 95/46/CE et à la législation nationale qui est conforme à cette directive.\n\n2. La Commission met à la disposition du public, d'une manière aisément accessible:\n\na) des informations concernant l'IMI conformément aux articles 11 et 12 du règlement (CE) no 45/2001, sous une forme lisible et compréhensible;\n\nb) des informations sur les aspects relatifs à la protection des données des procédures de coopération administrative dans l'IMI visées à l'article 11 du présent règlement;\n\nc) des informations sur les exceptions ou limitations aux droits des personnes concernées, visées à l'article 20 du présent règlement;\n\nd) des précisions sur les types de procédures de coopération administrative, les fonctionnalités essentielles de l'IMI et les catégories de données qui peuvent être traitées dans l'IMI;\n\ne) une liste complète de tous les actes d'exécution ou actes délégués concernant l'IMI adoptés en vertu du présent règlement ou d'un autre acte de l'Union, ainsi qu'une version consolidée de l'annexe du présent règlement et ses modifications ultérieures par d'autres actes de l'Union.",
+      "text_sha256": "6a56c1d1c0b922d3f1b7fc9bbc140a9cf8f8a8f05d556b9d73614e150fccd9b8",
+      "md_span": {
+        "start": 20535,
+        "end": 22089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Droit d'accès, de rectification et d'effacement",
+      "path": [
+        "CHAPITRE IV",
+        "**DROITS DES PERSONNES CONCERNÉES ET SURVEILLANCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les participants IMI veillent à ce que les personnes concernées puissent effectivement exercer leur droit d'accès aux données les concernant dans l'IMI ainsi que leur droit d'obtenir la rectification des données inexactes ou incomplètes et l'effacement des données traitées illégalement, conformément à la législation nationale. La rectification ou l'effacement des données sont effectués par le participant IMI responsable dans les meilleurs délais et au plus tard trente jours après la réception de la demande de la personne concernée.\n\n2. Toute contestation, par la personne concernée, de l'exactitude ou de la licéité des données verrouillées en vertu de l'article 14, paragraphe 1, doit être consignée, ainsi que les données exactes, corrigées.",
+      "text_sha256": "0c808d9ddeb44abe283bc8868ce97558f53a6155d64d4434f7c5d3a9a4a562d7",
+      "md_span": {
+        "start": 22178,
+        "end": 22930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Exceptions et limitations",
+      "path": [
+        "CHAPITRE IV",
+        "**DROITS DES PERSONNES CONCERNÉES ET SURVEILLANCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres informent la Commission lorsqu'ils prévoient dans leur législation nationale, au titre de l'article 13 de la directive 95/46/CE, des exceptions ou limitations aux droits des personnes concernées définis au présent chapitre.",
+      "text_sha256": "d8eb651004fd0755b98530889b9ac51c64541235f1efe3401d035452105df7fe",
+      "md_span": {
+        "start": 22997,
+        "end": 23238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Contrôle",
+      "path": [
+        "CHAPITRE IV",
+        "**DROITS DES PERSONNES CONCERNÉES ET SURVEILLANCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La ou les autorités de contrôle nationales désignées dans chaque État membre et auxquelles ont été conférés les pouvoirs visés à l'article 28 de la directive 95/46/CE (ci-après dénommées «autorité de contrôle nationale») contrôlent de manière indépendante la licéité du traitement des données à caractère personnel par les participants IMI de leur État membre et veillent, en particulier, à ce que les droits des personnes concernées définis dans le présent chapitre soient protégés conformément au présent règlement.\n\n2. Le Contrôleur européen de la protection des données contrôle les activités de traitement des données à caractère personnel menées par la Commission dans son rôle de participant IMI et s'efforce de faire en sorte qu'elles soient effectuées conformément au présent règlement. Les fonctions et les compétences visées aux articles 46 et 47 du règlement (CE) no 45/2001 s'appliquent en conséquence.\n\n3. Les autorités de contrôle nationales et le Contrôleur européen de la protection des données, agissant chacun dans les limites de leurs compétences respectives, assurent une surveillance coordonnée de l'IMI et de son utilisation par les participants IMI.\n\n4. Le Contrôleur européen de la protection des données peut, si nécessaire, inviter les autorités de contrôle nationales à le rencontrer afin d'assurer une surveillance coordonnée de l'IMI et de son utilisation par les participants IMI, visées au paragraphe 3. Le coût de ces réunions est à la charge du Contrôleur européen de la protection des données. Aux fins de ces missions, des méthodes de travail complémentaires, y compris des règles de procédure, peuvent être élaborées conjointement en fonction des besoins. Un rapport d'activités conjoint est transmis au moins tous les trois ans au Parlement européen, au Conseil et à la Commission.",
+      "text_sha256": "4dafadfa7a00370c3b70053b48833de26cd02c66e47e196aced4ad502bc0232c",
+      "md_span": {
+        "start": 23288,
+        "end": 25110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Utilisation nationale de l'IMI",
+      "path": [
+        "CHAPITRE V",
+        "**CHAMP D'APPLICATION GÉOGRAPHIQUE DE L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un État membre peut utiliser l'IMI à des fins de coopération administrative entre les autorités compétentes sur son territoire, conformément au droit national, uniquement si les conditions suivantes sont respectées:\n\na) aucune modification substantielle des procédures existantes de coopération administrative n'est requise;\n\nb) l'utilisation prévue de l'IMI a été notifiée à l'autorité de contrôle nationale lorsque le droit national l'exige; et\n\nc) l'utilisation prévue n'a pas d'incidence négative sur le fonctionnement efficace de l'IMI pour les utilisateurs IMI.\n\n2. Lorsqu'un État membre a l'intention de faire un usage systématique de l'IMI à des fins nationales, il en informe la Commission et sollicite son approbation préalable. La Commission examine s'il est satisfait aux conditions énoncées au paragraphe 1. Le cas échéant, et conformément au présent règlement, l'État membre concerné et la Commission concluent un accord fixant, entre autres, les modalités techniques, financières et organisationnelles en ce qui concerne l'utilisation nationale, celles-ci incluant les responsabilités des participants IMI.",
+      "text_sha256": "3f7f166c731f0acdab28d79e939be6018a9aac342946bac3e149c257f90f9424",
+      "md_span": {
+        "start": 25248,
+        "end": 26372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Échange d'informations avec les pays tiers",
+      "path": [
+        "CHAPITRE V",
+        "**CHAMP D'APPLICATION GÉOGRAPHIQUE DE L'IMI**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Des informations, y compris des données à caractère personnel, peuvent être échangées dans l'IMI, conformément au présent règlement, entre des participants IMI établis dans l'Union et leurs homologues établis dans un pays tiers, uniquement si les conditions suivantes sont respectées:\n\na) ces informations sont traitées conformément à une disposition d'un acte de l'Union figurant à l'annexe et à une disposition équivalente dans le droit du pays tiers;\n\nb) ces informations sont échangées ou mises à disposition en vertu d'un accord international prévoyant:\n\ni) l'application, par le pays tiers, d'une disposition d'un acte de l'Union figurant à l'annexe;\n\nii) l'utilisation de l'IMI; et\n\niii) les principes et modalités de cet échange; et\n\nc) le pays tiers en question assure une protection adéquate des données à caractère personnel, conformément à l'article 25, paragraphe 2, de la directive 95/46/CE et, notamment, il existe des garanties appropriées assurant que les données traitées dans l'IMI ne seront utilisées que pour la finalité qui a justifié leur échange initial, et la Commission a adopté une décision conformément à l'article 25, paragraphe 6, de la directive 95/46/CE.\n\n2. Lorsque la Commission est un participant IMI, l'article 9, paragraphes 1 et 7, du règlement (CE) no 45/2001 s'applique à tous les échanges de données à caractère personnel traitées dans l'IMI avec ses homologues établis dans un pays tiers.\n\n3. La Commission publie au *Journal officiel de l'Union européenne* et tient à jour une liste des pays tiers autorisés à échanger des informations, y compris des données à caractère personnel, conformément au paragraphe 1.",
+      "text_sha256": "e7ac2d88f8f1072cbad868d7fa8ccf8842206df9fdd41971ad83582bc839f926",
+      "md_span": {
+        "start": 26456,
+        "end": 28113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Comité",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.\n\n2. Lorsqu'il est fait référence au présent paragraphe, l'article 4 du règlement (UE) no 182/2011 s'applique.\n\n3. Lorsqu'il est fait référence au présent paragraphe, l'article 5 du règlement (UE) no 182/2011 s'applique.",
+      "text_sha256": "f835234fe4caf0f73e802453867cdda628a34d2acc56083c12306abcc073be10",
+      "md_span": {
+        "start": 28207,
+        "end": 28537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Suivi et rapports",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission fait rapport au Parlement européen et au Conseil sur le fonctionnement de l'IMI, selon une périodicité annuelle.\n\n2. Avant le 5 décembre 2017 et tous les cinq ans par la suite, la Commission fait rapport au Contrôleur européen de la protection des données sur les aspects liés à la protection des données à caractère personnel dans l'IMI, y compris la sécurité des données.\n\n3. Aux fins de la production des rapports visés aux paragraphes 1 et 2, les États membres fournissent à la Commission toute information relative à l'application du présent règlement, y compris des informations concernant l'application concrète des exigences relatives à la protection des données énoncées dans le présent règlement.",
+      "text_sha256": "c5362f3dac8500db94f49d07a2fae94a7d917bf2c8ee78fa394a9e77ec776421",
+      "md_span": {
+        "start": 28596,
+        "end": 29319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Coûts",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les coûts afférents au développement, à la promotion, à l'exploitation et à la maintenance de l'IMI sont à la charge du budget général de l'Union européenne, sans préjudice des modalités fixées à l'article 22, paragraphe 2.\n\n2. Sauf disposition contraire énoncée dans un acte de l'Union, les coûts afférents aux opérations IMI au niveau des États membres, y compris les ressources humaines nécessaires pour les activités de formation, de promotion et d'assistance technique (helpdesk), de même que pour l'administration de l'IMI au niveau national, sont à la charge de chaque État membre.",
+      "text_sha256": "d6c5a839b815a49a6713f4e06590ce18b2b8eedd70c3d6b53111ce845b2451bb",
+      "md_span": {
+        "start": 29366,
+        "end": 29957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Abrogation",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La décision 2008/49/CE est abrogée.",
+      "text_sha256": "0403fff28726a2249e679d7e1e551a0cdabfdfa9871acd9dc88741c5f4f9b2ca",
+      "md_span": {
+        "start": 30009,
+        "end": 30044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Application effective",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres prennent toutes les mesures nécessaires pour garantir l'application effective du présent règlement par leurs participants IMI.",
+      "text_sha256": "7ec55bc085f0b70ff5c1218caf552896975f1da82a2fca04c0ada5b9adb0f8ea",
+      "md_span": {
+        "start": 30107,
+        "end": 30251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Exceptions",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Nonobstant l'article 4 du présent règlement, le projet pilote IMI lancé, le 16 mai 2011, en vue de tester la validité de l'IMI pour la mise en œuvre de l'article 4 de la directive 96/71/CE du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services (12) peut continuer à se dérouler sur la base des modalités établies avant l'entrée en vigueur du présent règlement.\n\n2. Nonobstant l'article 8, paragraphe 3, et l'article 12, premier alinéa, points a) et b), du présent règlement, en ce qui concerne la mise en œuvre des dispositions de coopération administrative figurant dans la recommandation SOLVIT par le biais de l'IMI, la participation de la Commission aux procédures de coopération administrative et le recours à la facilité prévue pour les participants externes peuvent se poursuivre sur la base des modalités établies avant l'entrée en vigueur du présent règlement. La période visée à l'article 14, paragraphe 1, du présent règlement est de dix-huit mois en ce qui concerne les données à caractère personnel traitées dans l'IMI aux fins de la recommandation SOLVIT.\n\n3. Nonobstant l'article 4, paragraphe 1, du présent règlement, la Commission peut lancer un projet pilote afin d'évaluer si l'IMI est un outil efficace, d'un rapport coût/efficacité satisfaisant, et convivial pour mettre en œuvre l'article 3, paragraphes 4, 5 et 6, de la directive 2000/31/CE du Parlement européen et du Conseil du 8 juin 2000 relative à certains aspects juridiques des services de la société de l'information, et notamment du commerce électronique, dans le marché intérieur (directive sur le commerce électronique) (13). Au plus tard deux ans après le lancement de ce projet pilote, la Commission présente, au Parlement européen et au Conseil, l'évaluation visée à l'article 4, paragraphe 2, du présent règlement, qui porte également sur l'articulation entre la coopération administrative dans le cadre du système de coopération en matière de protection des consommateurs instauré conformément au règlement (CE) no 2006/2004 du Parlement européen et du Conseil du 27 octobre 2004 relatif à la coopération entre les autorités nationales chargées de veiller à l'application de la législation en matière de protection des consommateurs (règlement relatif à la coopération en matière de protection des consommateurs) (14) et dans le cadre de l'IMI.\n\n4. Nonobstant l'article 14, paragraphe 1, du présent règlement, tout délai de dix-huit mois au maximum, arrêté sur la base de l'article 36 de la directive 2006/123/CE, en ce qui concerne la coopération administrative menée en application du chapitre VI de ladite directive continue de s'appliquer dans ce domaine.",
+      "text_sha256": "4277ebeafda5a7cb2964b077efc7bd3f0b149ee2eabf96bcf5c4502167cad748",
+      "md_span": {
+        "start": 30303,
+        "end": 33049
+      },
+      "citations": [
+        {
+          "href": "#E0012",
+          "text": "12"
+        },
+        {
+          "href": "#E0013",
+          "text": "13"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE VI",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+      "md_span": {
+        "start": 33108,
+        "end": 33350
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32012r1024:2014-06-17--32a21d16ea37ce155720a1213df2facea16d6286e7c6c99837c2195f954dfe6d#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**DISPOSITIONS RELATIVES À LA COOPÉRATION ADMINISTRATIVE DANS LES ACTES DE L'UNION QUI SONT APPLIQUÉES AU MOYEN DE L'IMI, VISÉES À L'ARTICLE 3**\n\n1. Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur (15): chapitre VI, article 39, paragraphe 5, ainsi qu'article 15, paragraphe 7, sauf notification, telle que prévue dans ce dernier article, effectuée conformément à la directive 98/34/CE.\n\n2. Directive 2005/36/CE du Parlement européen et du Conseil (16): articles 4 *bis* à 4 *sexies*, et articles 8, 21 *bis*, 50, 56 et 56 *bis*.\n\n3. Directive 2011/24/UE du Parlement européen et du Conseil du 9 mars 2011 relative à l'application des droits des patients en matière de soins de santé transfrontaliers (17): article 10, paragraphe 4.\n\n4. Règlement (UE) no 1214/2011 du Parlement européen et du Conseil du 16 novembre 2011 sur le transport transfrontalier professionnel d'euros en espèces par la route entre États membres dans la zone euro (18): article 11, paragraphe 2.\n\n5. Recommandation de la Commission du 7 décembre 2001 établissant les principes pour l'utilisation de «SOLVIT» – le réseau de résolution des problèmes dans le marché intérieur (19): chapitres I et II.\n\n6. Directive 96/71/CE du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services (20): article 4.\n\n7. Directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et modifiant le règlement (UE) no 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur («règlement IMI») (21): articles 6 et 7, article 10, paragraphe 3, et articles 14 à 18.\n\n8. Directive 2014/60/UE du Parlement européen et du Conseil du 15 mai 2014 relative à la restitution de biens culturels ayant quitté illicitement le territoire d'un État membre et modifiant le règlement (UE) no 1024/2012 (22): articles 5 et 7.\n\n(1) JO C 43 du 15.2.2012, p. 14.\n\n(2) Position du Parlement européen du 11 septembre 2012 (non encore parue au Journal officiel) et décision du Conseil du 4 octobre 2012.\n\n(3) JO L 281 du 23.11.1995, p. 31.\n\n(4) JO L 8 du 12.1.2001, p. 1.\n\n(5) JO L 331 du 15.12.2001, p. 79.\n\n(6) JO L 376 du 27.12.2006, p. 36.\n\n(7) JO L 204 du 21.7.1998, p. 37.\n\n(8) JO L 13 du 16.1.2008, p. 18.\n\n(9) JO L 263 du 7.10.2009, p. 32.\n\n(10) JO L 55 du 28.2.2011, p. 13.\n\n(11) JO C 48 du 18.2.2012, p. 2.\n\n(12) JO L 18 du 21.1.1997, p. 1.\n\n(13) JO L 178 du 17.7.2000, p. 1.\n\n(14) JO L 364 du 9.12.2004, p. 1.\n\n(15) JO L 376 du 27.12.2006, p. 36.\n\n(16) JO L 255 du 30.9.2005, p. 22.\n\n(17) JO L 88 du 4.4.2011, p. 45.\n\n(18) JO L 316 du 29.11.2011, p. 1.\n\n(19) JO L 331 du 15.12.2001, p. 79.\n\n(20) JO L 18 du 21.1.1997, p. 1.\n\n(21) JO L 159 du 28.5.2014, p. 11.\n\n(22) JO L 159 du 28.5.2014, p. 1.",
+      "text_sha256": "cdfc4f26c6169e7dbfea80abe625d757516e16c4b8fa87f7a9eec4c553dc6d72",
+      "md_span": {
+        "start": 33385,
+        "end": 36397
+      },
+      "citations": [
+        {
+          "href": "#E0015",
+          "text": "15"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013L0055",
+          "text": "32013L0055: REPLACED"
+        },
+        {
+          "href": "#E0016",
+          "text": "16"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32012R1024",
+          "text": "32012R1024"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "#E0018",
+          "text": "18"
+        },
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014L0067",
+          "text": "32014L0067: INSERTED"
+        },
+        {
+          "href": "#E0020",
+          "text": "20"
+        },
+        {
+          "href": "#E0021",
+          "text": "21"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014L0060",
+          "text": "32014L0060: INSERTED"
+        },
+        {
+          "href": "#E0022",
+          "text": "22"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        },
+        {
+          "href": "#src.E0022",
+          "text": "22"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

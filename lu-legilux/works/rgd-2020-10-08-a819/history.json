@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:rgd-2020-10-08-a819",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2021-01-15",
         "valid_to": null,
         "text_sha256": "a228e88d3b7224462c546d28eea30d0238730bd40156b0778160547c5bccbdfb",
-        "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+        "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15--db2d4dac79a074fa11e42ad3817b8c9a13ae8830980eb98cf0acd16c2676fabb",
         "article_valid_from": "2021-01-15"
       }
     ],
@@ -20,7 +20,7 @@
         "valid_from": "2021-01-15",
         "valid_to": null,
         "text_sha256": "0ac3bf3b69eab8aafc7dfc6ae0e82d1bc8ec8a5aeda33e0648a046bc0096d75b",
-        "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+        "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15--db2d4dac79a074fa11e42ad3817b8c9a13ae8830980eb98cf0acd16c2676fabb",
         "article_valid_from": "2020-10-16",
         "validity_conflict": true
       }
@@ -34,7 +34,7 @@
           "valid_from": "2021-01-15",
           "valid_to": null,
           "text_sha256": "a228e88d3b7224462c546d28eea30d0238730bd40156b0778160547c5bccbdfb",
-          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15--db2d4dac79a074fa11e42ad3817b8c9a13ae8830980eb98cf0acd16c2676fabb",
           "article_valid_from": "2021-01-15"
         }
       ],
@@ -43,7 +43,7 @@
           "valid_from": "2021-01-15",
           "valid_to": null,
           "text_sha256": "0ac3bf3b69eab8aafc7dfc6ae0e82d1bc8ec8a5aeda33e0648a046bc0096d75b",
-          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15--db2d4dac79a074fa11e42ad3817b8c9a13ae8830980eb98cf0acd16c2676fabb",
           "article_valid_from": "2020-10-16",
           "validity_conflict": true
         }

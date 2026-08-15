@@ -1,0 +1,669 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/06/2025 : Règlement grand-ducal du 23 décembre 2004 concernant les règles de conduite dans les lycées.",
+  "valid_from": "2006-12-01",
+  "valid_to": "2018-06-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-12-23-n1/versions/2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772/fr.xml",
+    "sha256": "fef436700e809ffba0c1220c7f7d43fa0d7698f66fc701de319581117d299724",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20061201/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_1er/20050103",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Chaque lycée et lycée technique, désigné ci-après par «lycée», est une communauté qui comprend les élèves, les enseignants, les membres de la direction, les membres des différents services du lycée et les parents des élèves.\n\nLes lycées ont pour mission l’instruction et l’éducation des élèves; cette mission ne peut être accomplie sans une estime et un respect mutuels ni sans une discipline acceptée de tous.",
+      "text_sha256": "43d5e03304018f99a59076a6b9e37839622d3915af5a3c54bc8a54ce8248cdae",
+      "md_span": {
+        "start": 699,
+        "end": 1109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_2/20050103",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves doivent se conformer aux dispositions prises dans l’intérêt de l’ordre et de la discipline et faire preuve de politesse et de bonne tenue tant à l’intérieur qu’au-dehors du lycée.",
+      "text_sha256": "35c047d21e5fa04aabd87216f70f8ba566a104578c4f811ee208b15c8e2964da",
+      "md_span": {
+        "start": 1144,
+        "end": 1334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_3/20050103",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves sont obligés de fréquenter régulièrement les cours, de se soumettre aux épreuves prescrites et de participer à toute autre activité d’ordre pédagogique organisée dans le cadre des horaires et des programmes scolaires.",
+      "text_sha256": "a1d80136e9654e98c21915f975306fb061632fcb545f0b42ed3abd1110aa63de",
+      "md_span": {
+        "start": 1369,
+        "end": 1597
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_4/20050103",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "En cas d’absence d’un titulaire, et sauf décision contraire du directeur, les élèves doivent rester dans l’enceinte du lycée. Un surveillant veille à ce que les élèves puissent s’adonner à des occupations d’un intérêt éducatif.",
+      "text_sha256": "56635720a57a8d9c9336c188a665c64bedf46965082d15f95a648993d9d17606",
+      "md_span": {
+        "start": 1632,
+        "end": 1859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_5/20050103",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "A titre exceptionnel, une dispense du cours d’éducation physique est accordée par le directeur sur présentation d’un certificat médical.",
+      "text_sha256": "d40aeb03246a4552113fc5fb67a32a0a30bb037eab12671c947ce9b63df5d28d",
+      "md_span": {
+        "start": 1894,
+        "end": 2030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_6/20050103",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "La tenue vestimentaire des élèves doit être correcte. Des tenues spéciales peuvent être prescrites pour les cours d’éducation physique, d’éducation artistique et les séances de travaux manuels et de travaux pratiques.",
+      "text_sha256": "c33d748859dbbe93dc31b88b33d3959dd1f0120282769fb6efd2fb2b9944b470",
+      "md_span": {
+        "start": 2065,
+        "end": 2282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_7/20050103",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves doivent être présents au lycée avant l’heure fixée pour le commencement des cours. Dès le signal d’entrée, ils doivent se rendre immédiatement dans les locaux scolaires aux places qui leur ont été assignées par le régent ou le titulaire du cours.\n\nL’entrée dans les salles spéciales, les ateliers, les vestiaires, le gymnase et la piscine n’est autorisée qu’en présence du titulaire ou du responsable.",
+      "text_sha256": "79cf45e49a5567a3b4756c5c631c3895995fab3c29888b1d867586c34114323f",
+      "md_span": {
+        "start": 2317,
+        "end": 2729
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_8/20050103",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Le passage dans les corridors, les dégagements et les escaliers s’effectue en bon ordre et selon les instructions des surveillants.\n\nLes jeux brutaux et les bousculades sont interdits, de même que le jet de projectiles et de boules de neige.",
+      "text_sha256": "323dc3088a35ecc45cd348bbb75e52230be2095e9c345096a57be1d856742187",
+      "md_span": {
+        "start": 2764,
+        "end": 3005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_9/20050103",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Pendant les récréations, les élèves doivent quitter les locaux scolaires et, sauf en cas d’intempéries, se rendre dans la cour ou sous les préaux couverts, à moins d’en être dispensés par le régent.",
+      "text_sha256": "f58a2f475eeb8a8be4a45dfcff823c1622df43e1bcfc468fbf2574b129e2c06c",
+      "md_span": {
+        "start": 3040,
+        "end": 3238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_10/20050103",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Pendant la durée des cours, pendant les récréations et les intervalles entre les cours, aucun élève ne peut quitter l’enceinte du lycée sans autorisation du directeur ou du titulaire du cours.",
+      "text_sha256": "008373cb69af0fec1064cfb3b53f848ec0d4b5359d381e24f1b34362b743464b",
+      "md_span": {
+        "start": 3275,
+        "end": 3467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_11/20050103",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "L’élève qui, pour cause d’indisposition ou de force majeure, se voit obligé de quitter le lycée dans le courant de la journée, est tenu d’avertir avant son départ le directeur ou son délégué qui s’efforcera par les moyens du possible d’en informer immédiatement les parents ou la personne investie du droit d’éducation ainsi que le patron, s’il s’agit d’un élève d’une classe à enseignement concomitant.",
+      "text_sha256": "13d705bc6f561a640673b7c033ce27458ccbc97330375e556756fade9d60af40",
+      "md_span": {
+        "start": 3504,
+        "end": 3907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_12/20050103",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "En cas d’absence pour cause de maladie ou de force majeure, les parents de l’élève ou la personne investie du droit d’éducation ainsi que, le cas échéant, l’élève majeur sont tenus d’informer par écrit le directeur ou le régent, dans les trois jours de calendrier, des raisons de l’absence. Le délai d’information pour les élèves des classes à enseignement concomitant est de huit jours de calendrier.\n\nChaque fois qu’ils le jugent nécessaire, le directeur ou le régent peuvent exiger un certificat médical ou une lettre-excuse contresignée par le patron.\n\nUn certificat médical est obligatoire lors de toute absence pour cause de maladie s’étendant sur plus de trois jours de classe.",
+      "text_sha256": "387acf0bc3a615a445742cfd19ff77a0278214f762623d1d11eca29155152435",
+      "md_span": {
+        "start": 3944,
+        "end": 4628
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_13/20050103",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Le régent ou le directeur peuvent accorder à un élève, sur demande écrite et dans des cas exceptionnels, un congé dûment motivé ne dépassant pas une journée entière.\n\nL’autorisation de partir avant le commencement des vacances et congés ou de rentrer après la reprise des cours ainsi que tout autre congé dépassant une journée entière, ne peut être accordée que par le directeur dans les mêmes conditions que celles prévues à l’alinéa précédent.",
+      "text_sha256": "a97c42d546951e5d6ce7bda488c414c0ff1e083d9deeaf640820771a5817d9e1",
+      "md_span": {
+        "start": 4665,
+        "end": 5110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_14/20050103",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Pour les élèves des classes à enseignement concomitant, toute absence non excusée après huit jours de calendrier doit être signalée par écrit sans retard aux chambres professionnelles compétentes par le directeur ou par le régent.",
+      "text_sha256": "e37597cd1197aada09be0d2ad36d479d5ef3002219a7d2d7ac18fc217e986f9e",
+      "md_span": {
+        "start": 5147,
+        "end": 5377
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_15/20050103",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "L’élève d’une classe à plein temps porté absent pendant quinze jours de classe consécutifs sans excuse ou sans motif reconnu valable est considéré comme ayant quitté définitivement le lycée, avec effet à partir du premier jour de son absence. Les parents de l’élève ou la personne investie du droit d’éducation ainsi que, le cas échéant, l’élève majeur en sont informés par lettre recommandée.\n\nAprès une absence non excusée de cinq jours de classe consécutifs, les parents ou la personne investie du droit d’éducation de l’élève sont informés, par lettre recommandée, de la mesure prévue à l’alinéa qui précède.",
+      "text_sha256": "9b73fdf464b1157e7c0effa63b2bf2d7f23a321725da46c60825450d12e23d7d",
+      "md_span": {
+        "start": 5414,
+        "end": 6026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_16/20050103",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "L’élève qui quitte définitivement le lycée est tenu d’en informer le directeur par une lettre qui doit être contresignée, s’il s’agit d’un élève mineur, par la personne investie du droit d’éducation.\n\nLes certificats de scolarité peuvent être refusés à l’élève qui ne se conforme pas à cette disposition ainsi qu’à tout élève n’ayant pas satisfait à ses engagements envers le lycée.",
+      "text_sha256": "aeb88dd3ea98b7ec98b6ea3f05080feaa75ea72f0e3ecc64c11c60207a373606",
+      "md_span": {
+        "start": 6063,
+        "end": 6445
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_17/20050103",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves informent immédiatement le secrétariat du lycée et le régent de tout changement de domicile ou de logement.",
+      "text_sha256": "6756a60d57b73ea1a5a9a2e5452ac28b29e156d31a6061ff52695f21af46462f",
+      "md_span": {
+        "start": 6482,
+        "end": 6600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_18/20050103",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Le lycée n’assume aucune responsabilité en cas de perte, de disparition ou d’endommagement des effets et objets personnels des élèves.",
+      "text_sha256": "909f05cd5cf3237fdb9ac15f5e744ce7b057a59458b4d63e3331230efbcb9a24",
+      "md_span": {
+        "start": 6637,
+        "end": 6771
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_19/20050103",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Tout élève qui endommage volontairement les aménagements, les installations ou les bâtiments du lycée est sanctionné et peut être obligé à supporter les frais de réparation.\n\nLe lycée peut refuser la délivrance des bulletins scolaires, de certificats d’études et de tout autre document en rapport avec la scolarisation de l’élève fautif jusqu’au remboursement des frais de réparation.",
+      "text_sha256": "39db7294c5cb1ac6c868facdfa04feeb922d0bafc5d6adeb60bec57d9f017b61",
+      "md_span": {
+        "start": 6808,
+        "end": 7192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_20/20050103",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Tout accident survenu dans l’enceinte du lycée ainsi que tout accident dont est victime un élève sur le chemin de l’école doivent être signalés immédiatement au directeur.\n\nTout accident survenu à un élève dans l’enceinte du lycée qu’il fréquente accessoirement doit immédiatement être signalé au directeur du lycée où il est régulièrement inscrit.",
+      "text_sha256": "9efa92d691fe707fc978490ae45c16defdba91520b7303ac91005bcb51a7b764",
+      "md_span": {
+        "start": 7229,
+        "end": 7577
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_21/20050103",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Tout fait de nature à engager une responsabilité civile ou pénale doit être notifié sans retard au directeur, qui en informe aussitôt l’autorité supérieure, du moment que pareil fait est susceptible d’avoir des suites judiciaires.",
+      "text_sha256": "f42da6becc9ac024b2500d7f5b9eca2c74e42737e4ea0acbfacade68de0ef8df",
+      "md_span": {
+        "start": 7614,
+        "end": 7844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_22/20061201",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-12-01",
+      "text_md": "Il est interdit de fumer à l'intérieur du lycée ainsi que dans son enceinte.",
+      "text_sha256": "9cc84924182062c68cacad2b7b6f17c60dfd2546611e4021bd7bd258921ade06",
+      "md_span": {
+        "start": 7881,
+        "end": 7957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_23/20050103",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Chacun doit prendre connaissance des consignes d’incendie affichées dans les locaux. Tout geste qui risquerait d’être générateur d’un incendie (jeux avec allumettes, cigarette jetée) doit être évité.",
+      "text_sha256": "23557a447d387ffce66e262c550dfc1c603e9096d1085e049d476117b0f5501d",
+      "md_span": {
+        "start": 7994,
+        "end": 8193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_24/20050103",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "L’élève se présentant au lycée sous l’emprise de stupéfiants ou en état d’ébriété est immédiatement retiré de la classe respectivement du lieu d’enseignement. Le directeur en informe les parents ou la personne investie du droit d’éducation ainsi que le patron et les chambres professionnelles compétentes, s’il s’agit d’un élève d’une classe à enseignement concomitant, et en saisit, le cas échéant, le conseil de classe.",
+      "text_sha256": "42578ac9e4ecb0b0d0abbffa4a69398dcd4b3379f8831175e2bb24563ff248bd",
+      "md_span": {
+        "start": 8230,
+        "end": 8651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_25/20050103",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Sont soumis à l’autorisation préalable du directeur toute vente, toute distribution, tout affichage et toute manifestation dans l’enceinte du lycée. Toute publication et tout objet trouvés en possession d’un élève peuvent être confisqués s’ils sont de nature à troubler l’ordre scolaire.",
+      "text_sha256": "ab1c0d5b9d7f552ceda2db7dbc520e8e939fdd8530e3c886d5bba702616a4bd9",
+      "md_span": {
+        "start": 8688,
+        "end": 8975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_26/20050103",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves se soumettent aux mesures et examens de médecine scolaire prévus par la législation en matière de médecine scolaire.\n\nLes élèves qui, pour des motifs graves, désirent être dispensés du contrôle médical organisé dans le cadre du lycée, doivent adresser une demande au directeur du lycée qui la transmettra pour décision à l’équipe médico-socio-scolaire telle que définie à la loi du 2 décembre 1987 portant réglementation de la médecine scolaire. Si la demande est acceptée, l’élève doit se soumettre au contrôle médical chez le médecin de son choix et présenter un certificat attestant qu’il a subi les différents tests et mesures de dépistage et de contrôle systématiques prévus.\n\nL’élève atteint d’une maladie contagieuse doit se conformer aux dispositions du règlement grand-ducal du 21 décembre 1990 déterminant le contenu et la fréquence des mesures et examens de médecine scolaire, dont l’annexe fixe la durée d’éviction scolaire.\n\nLes dispositions de l’alinéa qui précède sont également applicables à tout autre membre de la communauté scolaire.\n\nDans l’intérêt bien compris de l’élève et afin de permettre, le cas échéant, de lui apporter une aide appropriée dans les plus brefs délais, il est recommandé aux parents ou à la personne investie du droit d’éducation d’informer le directeur de toute maladie grave dont l’élève est atteint, si cette maladie est susceptible de nécessiter une surveillance particulière en milieu scolaire.",
+      "text_sha256": "3a1cb34c6c620e35c459ae349039b1255c9bcd0db0e3273baff8f450550d0885",
+      "md_span": {
+        "start": 9012,
+        "end": 10464
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1987/12/02/n1/jo",
+          "text": "loi du 2 décembre 1987"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1990/12/21/n2/jo",
+          "text": "règlement grand-ducal du 21 décembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_27/20050103",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Sauf demande écrite de l’élève majeur de lui adresser toute correspondance à son nom et adresse, les parents ou la personne investie du droit d’éducation sont destinataires de toute correspondance concernant les élèves.",
+      "text_sha256": "ac80a09bfdeb49ef883d0298f4a83d75b2875f11f9f964a73c820eae22a3a8e9",
+      "md_span": {
+        "start": 10501,
+        "end": 10720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_28/20050103",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Toute infraction à la discipline ou à l’ordre intérieur peut être sanctionnée par une des mesures disciplinaires prévues à l’article 42 de la loi du 25 juin 2004 portant organisation des lycées et lycées techniques, lequel détermine également les personnes et organes pouvant prendre les différentes mesures disciplinaires.\n\nOutre les infractions susceptibles d’être sanctionnées par un renvoi définitif du lycée fixées par l’article 42 de la loi précitée, notamment les infractions suivantes sont susceptibles d’être sanctionnées par une des mesures moindres :\n\n- les actes d’incivilité et d’impertinence commis à l’égard des membres de la communauté scolaire,\n- le refus d’obéissance,\n- le refus d’assister aux cours ou de composer,\n- l’absence injustifiée des cours durant au plus vingt demi-journées au cours d’une même année scolaire et les retards réitérés,\n- la fraude, le vol, le faux en écriture, la falsification de documents,\n- l’incitation au désordre,\n- l’organisation, dans l’enceinte du lycée, de réunions ou de manifestations non autorisées par le directeur.\n\nToutes les mesures disciplinaires sont à inscrire au livre de classe.",
+      "text_sha256": "3db68fb920715032214d5f8048993722d0d6a677ad3286841f6db2f4a24bd516",
+      "md_span": {
+        "start": 10757,
+        "end": 11902
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_29/20050103",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "L’élève d’une classe à enseignement concomitant exclu temporairement du lycée est obligé de suivre la formation dans l’entreprise patronale pendant cette période.\n\nLes avis des chambres professionnelles concernées sont requis pour toute décision d’exclusion des cours d’une durée de neuf jours de classe au moins ou de renvoi définitif, prononcée par le conseil de classe ou le conseil de discipline.",
+      "text_sha256": "014a70f86eeeb5571495e1005a08ac8b3a1109b808688e3177df5176a085f611",
+      "md_span": {
+        "start": 11939,
+        "end": 12339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_30/20050103",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les élèves fréquentant des cours dans un autre lycée que celui où ils sont régulièrement inscrits doivent se conformer aux règles spécifiques complémentaires d’ordre intérieur de cet autre lycée pendant le temps qu’ils y séjournent.\n\nLa sanction de l’exclusion des cours pendant une durée de un à huit jours de classe nécessite un commun accord des deux directions concernées.\n\nLe recours contre la sanction disciplinaire de la retenue et du travail d’intérêt pédagogique infligée par un enseignant ou un surveillant doit être introduit auprès du directeur du lycée dans lequel la sanction a été prononcée.",
+      "text_sha256": "6b848060a7fb7a66be044539ed1fc64183b68dc28099da75252be340e2952d16",
+      "md_span": {
+        "start": 12376,
+        "end": 12982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_31/20050103",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "La procédure devant le conseil de discipline est la suivante :\n\nLe conseil de discipline est saisi par le conseil de classe au cas où un élève est accusé d’avoir commis une des infractions susceptibles d’être sanctionnées par un renvoi définitif. Le président fixe la date de la séance et convoque le conseil de discipline, ce au moins sept jours de calendrier avant le jour fixé pour la séance.\n\nIl convoque également à la séance et en respectant les mêmes délais :\n\n- par lettre recommandée l’élève prévenu et, au cas où il est mineur, ses parents ou la personne investie du droit d’éducation,\n- le régent de la classe de l’élève,\n- un membre du service de psychologie et d’orientation scolaires,\n- le conseiller à l’apprentissage pour les élèves des classes à enseignement concomitant du régime professionnel de l’enseignement secondaire technique,\n- le cas échéant les plaignants, les témoins ou les personnes susceptibles d’éclairer le conseil sur les faits motivant la comparution de l’élève.\n\nLa convocation doit contenir une description des faits et des infractions qui sont reprochés au prévenu.\n\nL’élève prévenu peut se faire accompagner par une personne de son choix en dehors de ses parents.\n\nLe conseil de discipline ne peut délibérer que si les cinq membres sont présents.\n\nIl siège sous la présidence du directeur et instruit l’affaire à charge et à décharge.\n\nIl entend les personnes convoquées. Le prévenu a le droit de s’exprimer en dernier.\n\nLa procédure suit son cours, même en l’absence du prévenu - sauf cas de force majeure - ou d’autres personnes convoquées.\n\nA la fin de la séance le conseil se retire pour délibérer. Les décisions du conseil sont arrêtées à la majorité des voix, l’abstention n’étant pas permise.\n\nLes membres du conseil sont astreints au secret du délibéré et du vote.",
+      "text_sha256": "e8f90a10b5893d3238195ee2922cd63c3893344e129501f9a80db5bd8b2f8895",
+      "md_span": {
+        "start": 13019,
+        "end": 14831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_32/20050103",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Le conseil de discipline peut soit prononcer le renvoi définitif, soit renvoyer l’élève devant le conseil de classe, soit l’acquitter. La procédure disciplinaire devant le conseil de classe doit de la même manière respecter les principes des droits de la défense du prévenu.\n\nLa décision du conseil de discipline, de même que celle du conseil de classe siégeant en matière disciplinaire, est motivée et arrêtée par écrit. Elle doit mentionner les voies de recours. Elle est notifiée dans les conditions fixées par l’article 43 de la loi du 25 juin 2004 portant organisation des lycées et lycées techniques.",
+      "text_sha256": "80578aeaec718a25a4f9a9943d18e0946ed2cbd553ebab4fc3bbb163adb83ab9",
+      "md_span": {
+        "start": 14868,
+        "end": 15474
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_33/20050103",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Les recours contre les mesures disciplinaires sont régis par l’article 43 de la loi du 25 juin 2004 portant organisation des lycées et lycées techniques.",
+      "text_sha256": "4dd7b60f900d0b0bc831d1d789fe1c5894674c6ac044d5f0bd36dbe0fac1972e",
+      "md_span": {
+        "start": 15511,
+        "end": 15664
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_34/20050103",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Au sens des articles 4 et 10 du présent règlement, les lycées faisant partie du complexe scolaire «Geesseknaeppchen», à savoir l’Athénée, le Lycée Michel-Rodange, le Lycée Aline-Mayrisch et le Lycée Technique «École de Commerce et de Gestion», ne forment qu’une seule enceinte.",
+      "text_sha256": "851adb00a20ef4eb1bacfedbeacd135dc08641318e470105ecb826284d109e4b",
+      "md_span": {
+        "start": 15701,
+        "end": 15978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_35/20050103",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Le présent règlement abroge et remplace le règlement grand-ducal du 29 juin 1998 concernant l’ordre intérieur et la discipline dans les établissements d’enseignement secondaire et secondaire technique.",
+      "text_sha256": "751abfeff06163dc7e87e960f55d2c27174d3130d666a636600b16854194b1ee",
+      "md_span": {
+        "start": 16015,
+        "end": 16216
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/06/29/n4/jo",
+          "text": "règlement grand-ducal du 29 juin 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2004-12-23-n1:2006-12-01--89699c6cb7f623169aab3a8c885011ac7625b32ae1899b17377fe967c655b772#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/art_36/20050103",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-01-03",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e6d4f6382d89ccc48161dfce34da90d6ba3c24fb74aff884cbaca51771818d91",
+      "md_span": {
+        "start": 16253,
+        "end": 16404
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

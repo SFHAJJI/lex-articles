@@ -1,0 +1,401 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 24/07/2026 : Règlement grand-ducal du 13 mars 2025 concernant la protection des salariés contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques au travail.",
+  "valid_from": "2025-03-21",
+  "valid_to": "2026-07-23",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2025-03-13-a93/versions/2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd/fr.xml",
+    "sha256": "b2435dd29b8656aea69cce33d9c104ab48e36c2281864de44a2b4eed4dc5fb91",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/consolide/20250321/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_1er/20250321",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** Le présent règlement fixe les prescriptions minimales particulières, y compris les valeurs limites, pour la protection des salariés contre les risques pour leur sécurité et leur santé, y compris la prévention de tels risques, auxquels ils sont exposés ou susceptibles de l’être du fait d’une exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques au travail.\n\n**(2)** Le présent règlement ne s’applique pas aux salariés relevant du traité instituant la Communauté européenne de l’énergie atomique et exposés seulement aux rayonnements.\n\n**(3)** En ce qui concerne l’amiante, qui fait l’objet du règlement grand-ducal modifié du 15 juillet 1988 concernant la protection des travailleurs contre les risques liés à une exposition à l’amiante pendant le travail, les dispositions du présent règlement sont applicables lorsqu’elles sont plus favorables à la santé et à la sécurité sur le lieu de travail.",
+      "text_sha256": "168471d3cc151440871a971609af5bf7b4e25fe152f74091837846b1ed5e5e8a",
+      "md_span": {
+        "start": 813,
+        "end": 1749
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1988/07/15/n3/jo",
+          "text": "règlement grand-ducal modifié du 15 juillet 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_2/20250321",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Aux fins du présent règlement, on entend par :\n\n1. 1. règlement (CE) n° 1272/2008 directives 67/548/CEE 1999/45/CE règlement (CE) n° 1907/2006 règlement CLP\n2. une substance, un mélange ou un procédé visé à l’annexe I, ainsi qu’une substance ou un mélange dégagé par un procédé visé à ladite annexe ;\n2. règlement CLP\n3. règlement CLP\n4. « substance reprotoxique sans seuil » : une substance reprotoxique pour laquelle il n’existe pas de niveau d’exposition sûr pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;\n5. « substance reprotoxique à seuil » : une substance reprotoxique pour laquelle il existe un niveau sûr d’exposition en deçà duquel il n’y a aucun risque pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;\n6. « valeur limite » : sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d’un agent cancérigène ou mutagène ou d’une substance reprotoxique dans l’air de la zone de respiration d’un salarié au cours d’une période de référence déterminée, précisée à l’annexe III ;\n7. « valeur limite biologique » : la limite de concentration dans le milieu biologique approprié de l’agent concerné, de ses métabolites ou d’un indicateur d’effet ;\n8. « surveillance médicale » : l’évaluation de l’état de santé d’un salarié en fonction de l’exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques spécifiques sur le lieu de travail ;\n9. er Code du travail",
+      "text_sha256": "c113faf360fdfa214e95ebca8878299dec6b65dc01b9e62faf18c41083aae10a",
+      "md_span": {
+        "start": 1796,
+        "end": 3353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_3/20250321",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Champ d’application et Identification et appréciation des risques",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** Le présent règlement est applicable aux activités dans lesquelles les salariés sont exposés ou susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques résultant de leur travail.\n\n**(2)** Pour toute activité susceptible de présenter un risque d’exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques, la nature, le degré et la durée de l’exposition des salariés doivent être déterminés, afin de pouvoir apprécier tout risque concernant la sécurité ou la santé des salariés et de pouvoir déterminer les mesures à prendre.\n\nCette appréciation doit être renouvelée régulièrement et en tout cas lors de tout changement des conditions pouvant affecter l’exposition des salariés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques. L’employeur fournit à l’Inspection du travail et des mines, sur sa demande, les éléments ayant servi à cette appréciation.\n\n**(3)** Lors de l’appréciation du risque, il est tenu compte de toutes les autres voies d’exposition, telles que l’absorption transcutanée ou percutanée.\n\n**(4)** Les employeurs, lors de l’appréciation visée au paragraphe 2, portent une attention particulière aux effets éventuels concernant la sécurité ou la santé des salariés à risques particulièrement sensibles et, entre autres, prennent en considération l’opportunité de ne pas employer ces salariés dans des zones où ils peuvent être en contact avec des agents cancérigènes ou mutagènes ou avec des substances reprotoxiques.",
+      "text_sha256": "645e2e1a540cc1361e56d3b9e4be36e5ece4cfeacc83ea32a79ff2d586d4032a",
+      "md_span": {
+        "start": 3454,
+        "end": 4987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_4/20250321",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Réduction et substitution",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** L’employeur réduit l’utilisation d’un agent cancérigène ou mutagène ou d’une substance reprotoxique sur le lieu de travail, notamment en le remplaçant, dans la mesure où cela est techniquement possible, par une substance, un mélange ou un procédé qui, dans ses conditions d’emploi, n’est pas ou est moins dangereux pour la santé ou, le cas échéant, pour la sécurité des salariés.\n\n**(2)** L’employeur communique le résultat de ses recherches à l’Inspection du travail et des mines, à la demande de celle-ci.",
+      "text_sha256": "59c7a0e6d5892c7229da403c464cdcb1d67cfc9de8d109eaf0378d4a62a1acd4",
+      "md_span": {
+        "start": 5048,
+        "end": 5563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_5/20250321",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Dispositions visant à éviter ou à réduire l’exposition",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** Si les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés, l’exposition des salariés doit être évitée.\n\n**(2)** Si le remplacement de l’agent cancérigène ou mutagène ou de la substance reprotoxique par une substance, un mélange ou un procédé qui, dans les conditions d’emploi, n’est pas ou est moins dangereux pour la sécurité ou la santé, n’est techniquement pas possible, l’employeur assure que la production et l’utilisation de l’agent cancérigène ou mutagène ou de la substance reprotoxique ont lieu dans un système clos, dans la mesure où cela est techniquement possible.\n\n**(3)** Si l’application d’un système clos n’est techniquement pas possible, l’employeur assure que le niveau d’exposition des salariés à l’agent cancérigène ou mutagène ou à la substance reprotoxique sans seuil est réduit à un niveau aussi bas qu’il est techniquement possible.\n\n**(4)** Lorsqu’il n’est techniquement pas possible d’utiliser ou de fabriquer une substance reprotoxique à seuil dans un système clos, l’employeur veille à ce que le risque lié à l’exposition des salariés à cette substance reprotoxique à seuil soit réduit au minimum.\n\n**(5)** En ce qui concerne les substances reprotoxiques autres que les substances reprotoxiques sans seuil et les substances reprotoxiques à seuil, l’employeur applique les dispositions visées au paragraphe 4. Dans ce cas, lorsqu’il procède à l’appréciation des risques visée à l’article 3, paragraphe 2, l’employeur tient dûment compte de la possibilité qu’un niveau sûr d’exposition pour la santé des salariés pourrait ne pas exister pour une telle substance reprotoxique et il prend les mesures appropriées à cet égard.\n\n**(6)** L’exposition ne doit pas dépasser la valeur limite d’un agent cancérigène ou mutagène ou d’une substance reprotoxique indiquée à l’annexe III.\n\n**(7)** Dans tous les cas d’utilisation d’un agent cancérigène ou mutagène ou d’une substance reprotoxique, l’employeur applique toutes les mesures suivantes :\n\n1. la limitation des quantités d’un agent cancérigène ou mutagène ou d’une substance reprotoxique sur le lieu de travail ;\n2. la limitation, au niveau le plus bas possible, du nombre de salariés exposés ou susceptibles de l’être ;\n3. la conception des processus de travail et des mesures techniques, l’objectif étant d’éviter ou de minimiser le dégagement d’agents cancérigènes ou mutagènes ou de substances reprotoxiques sur le lieu de travail ;\n4. l’évacuation des agents cancérigènes ou mutagènes ou des substances reprotoxiques à la source, l’aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l’environnement ;\n5. l’utilisation de méthodes de mesure existantes appropriées des agents cancérigènes ou mutagènes ou des substances reprotoxiques, en particulier pour la détection précoce des expositions anormales résultant d’un événement imprévisible ou d’un accident ;\n6. l’application de procédures et de méthodes de travail appropriées ;\n7. des mesures de protection collectives ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelles ;\n8. des mesures d’hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces ;\n9. l’information et la formation des salariés ;\n10. la délimitation des zones à risque et l’utilisation de signaux adéquats d’avertissement et de sécurité, y compris les signaux « défense de fumer » dans les zones où les salariés sont exposés ou susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques ;\n11. la mise en place des dispositifs pour les cas d’urgence susceptibles d’entraîner des expositions anormalement élevées ;\n12. les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l’emploi de récipients hermétiques et étiquetés de manière claire, nette et visible ;\n13. les moyens permettant la collecte, le stockage et l’évacuation sûrs des déchets par les salariés, y compris l’utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.",
+      "text_sha256": "0a2d5ff3e52b47dd66ce4abfe404f66b865e2f770fe433df59990e60e14b7d79",
+      "md_span": {
+        "start": 5653,
+        "end": 9811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_6/20250321",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Information de l’autorité compétente",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Si les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés, les employeurs informent l’Inspection du travail et des mines ainsi que la Direction de la santé des informations appropriées sur :\n\n1. les activités ou les procédés industriels mis en œuvre, y compris les raisons pour lesquelles des agents cancérigènes ou mutagènes ou des substances reprotoxiques sont utilisés ;\n2. les quantités fabriquées ou utilisées de substances ou mélanges qui contiennent des agents cancérigènes ou mutagènes ou des substances reprotoxiques ;\n3. le nombre de salariés exposés ;\n4. les mesures de prévention prises ;\n5. le type d’équipement de protection à utiliser ;\n6. la nature et le degré de l’exposition ;\n7. les cas de substitution.",
+      "text_sha256": "51d6390b3dfe2c411d36be48c20ad36261e7052242b51625a1356f880938ee2e",
+      "md_span": {
+        "start": 9883,
+        "end": 10684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_7/20250321",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Exposition imprévisible",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** En cas d’événements imprévisibles ou d’accidents susceptibles d’entraîner une exposition anormale des salariés, l’employeur en informe les salariés.\n\n**(2)** Jusqu’au rétablissement normal de la situation et tant que les causes de l’exposition anormale ne sont pas éliminées :\n\n1. seuls les salariés indispensables et ayant reçu une formation adéquate et des instructions spécifiques pour l’exécution des réparations et d’autres travaux nécessaires sont autorisés à travailler dans la zone touchée ;\n2. un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci, l’exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié ;\n3. les salariés non protégés ne sont pas autorisés à travailler dans la zone touchée ;\n4. les mesures appropriées sont prises pour que les zones susceptibles d’entraîner une exposition anormale des salariés soient clairement délimitées et signalées, ou pour qu’il soit évité par d’autres moyens que des personnes non autorisées accèdent à ces lieux ;\n5. des procédures relatives aux mesures d’urgence doivent être mises en place.",
+      "text_sha256": "f0ca0f49c59a7768be05b4e3056a1f5ad0368670324a840fff6b92caa87de721",
+      "md_span": {
+        "start": 10743,
+        "end": 11948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_8/20250321",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Exposition prévisible",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** Pour certaines activités telles que l’entretien, pour lesquelles la possibilité d’une augmentation sensible de l’exposition est prévisible et à l’égard desquelles toutes les possibilités de prendre d’autres mesures techniques de prévention afin de limiter cette exposition sont déjà épuisées, l’employeur détermine, après consultation de la délégation du personnel, ou à défaut, des salariés concernés, sans préjudice de la responsabilité de l’employeur, les mesures nécessaires pour réduire le plus possible la durée d’exposition des salariés et pour assurer leur protection durant ces activités.\n\nEn application de l’alinéa 1er, un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci aussi longtemps que l’exposition anormale persiste, celle-ci ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié.\n\n**(2)** Les mesures appropriées sont prises pour que les zones où se déroulent les activités visées au paragraphe 1er, alinéa 1er, soient clairement délimitées et signalées, ou pour qu’il soit évité par d’autres moyens que des personnes non autorisées accèdent à ces lieux.\n\n**(3)** Seuls les salariés indispensables et ayant reçu une formation adéquate et des instructions spécifiques pour l’exécution des travaux prévus sont autorisés à travailler dans la zone concernée.",
+      "text_sha256": "12d6d9d3fe050f91f960004dfa9e25f18bb3730e9484dea098985dd742162ccb",
+      "md_span": {
+        "start": 12005,
+        "end": 13429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_9/20250321",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Accès aux zones de risque",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Les mesures appropriées sont prises par les employeurs pour que les zones où se déroulent les activités au sujet desquelles les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés ne puissent être accessibles aux salariés autres que ceux qui, en raison de leur travail ou de leur fonction, sont amenés à y pénétrer.",
+      "text_sha256": "1726c24f8871ab6a0cb500eb818d4f336792c13b34c4bf3d4fee7335e6c1ca90",
+      "md_span": {
+        "start": 13490,
+        "end": 13883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_10/20250321",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Mesures d’hygiène et de protection individuelle",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** Les employeurs sont tenus, pour toutes les activités pour lesquelles il existe un risque de contamination par des agents cancérigènes ou mutagènes ou des substances reprotoxiques, de prendre des mesures appropriées aux fins suivantes :\n\n1. faire en sorte que les salariés ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes ou mutagènes ou par des substances reprotoxiques ;\n2. fournir aux salariés des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés ;\n3. prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d’une part, et des vêtements de ville, d’autre part ;\n4. mettre à la disposition des salariés des sanitaires et des salles d’eau appropriés et adéquats ;\n5. placer correctement les équipements de protection dans un endroit déterminé et vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation ;\n6. réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.\n\n**(2)** Le coût des mesures visées au paragraphe 1er ne peut pas être mis à la charge des salariés.",
+      "text_sha256": "09e6240c3add4134aa9839bef577f4446dcf768d79ce51b6ae1be792f3146c5d",
+      "md_span": {
+        "start": 13968,
+        "end": 15159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_11/20250321",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Information et formation des salariés",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** L’employeur prend les mesures appropriées pour que les salariés reçoivent une formation à la fois suffisante et adéquate, sur la base de tous renseignements disponibles, notamment sous forme d’informations et d’instructions, concernant :\n\n1. les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac ;\n2. les précautions à prendre pour prévenir l’exposition ;\n3. les prescriptions en matière d’hygiène ;\n4. le port et l’emploi des équipements et des vêtements de protection ;\n5. les mesures à prendre par les salariés, notamment par le personnel d’intervention, en cas d’incident et pour la prévention d’incidents.\n\nLa formation visée à l’alinéa 1er doit :\n\n1. être adaptée pour tenir compte des risques nouveaux ou modifiés, en particulier lorsque les salariés sont exposés ou sont susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques nouveaux, ou à un certain nombre d’agents cancérigènes ou mutagènes ou de substances reprotoxiques divers, y compris ceux contenus dans des médicaments dangereux, ou en cas de changement de circonstances liées au travail ;\n2. être répétée périodiquement dans les établissements de soins de santé pour tous les salariés exposés à des agents cancérigènes, à des agents mutagènes ou à des substances reprotoxiques, en particulier lors de l’utilisation de nouveaux médicaments dangereux contenant ces substances ;\n3. être répétée périodiquement dans d’autres milieux si nécessaire.\n\n**(2)** Les employeurs sont tenus d’informer les salariés sur les installations et leurs récipients annexes contenant des agents cancérigènes ou mutagènes ou des substances reprotoxiques, de veiller à ce que tous les récipients, emballages et installations contenant des agents cancérigènes ou mutagènes ou des substances reprotoxiques soient étiquetés de manière claire et lisible, et d’exposer des signaux d’avertissements et de danger bien visibles.\n\nLorsqu’une valeur limite biologique a été fixée à l’annexe IV, la surveillance médicale est obligatoire pour le travail avec l’agent cancérigène ou mutagène ou avec la substance reprotoxique en question, conformément aux procédures prévues dans ladite annexe. Les salariés sont informés de cette exigence avant d’être affectés à la tâche comportant un risque d’exposition à l’agent cancérigène ou mutagène ou à la substance reprotoxique en question.",
+      "text_sha256": "38ccb1aa9aa7572979e7e78c3866f086a3843e50670a5c5712a1a7b40954cfd1",
+      "md_span": {
+        "start": 15234,
+        "end": 17654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_12/20250321",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Information des salariés",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Des mesures appropriées sont prises pour assurer que :\n\n1. 1. les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l’utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l’employeur pour déterminer l’efficacité des vêtements et des équipements de protection ;\n2. er er\n2. la délégation du personnel, ou à défaut, les salariés concernés, sont informés le plus rapidement possible d’expositions anormales, y compris celles visées à l’article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation ;\n3. l’employeur tient une liste actualisée des salariés employés aux activités au sujet desquelles les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés avec indication, si cette information est disponible, de l’exposition à laquelle ils ont été soumis ;\n4. le médecin du travail compétent, les membres de l’Inspection du travail et des mines, les membres de la Direction de la santé, ainsi que toute autre personne responsable de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au point 3° ;\n5. chaque salarié a accès aux informations contenues dans la liste et le concernant personnellement ;\n6. la délégation du personnel, ou à défaut, les salariés concernés, ont accès aux informations collectives anonymes.",
+      "text_sha256": "23755a5664d4a273e53f07af14f608f37ceb3af6c07009338f6dfb8af315a616",
+      "md_span": {
+        "start": 17716,
+        "end": 19140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_13/20250321",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Consultation et participation des salariés",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Une consultation et une participation de la délégation du personnel, ou à défaut, des salariés concernés, sur les matières couvertes par le présent règlement et de ses annexes doit s’effectuer conformément au livre IV, titre premier, du Code du travail relatif aux délégations du personnel et au livre IV, titre II, du Code du travail relatif à la représentation des salariés dans les sociétés anonymes.",
+      "text_sha256": "3043a0d0d6ae07938d7d4e973f2987a19bbf0fc3059cbeabb50abae7dde735b4",
+      "md_span": {
+        "start": 19220,
+        "end": 19623
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_14/20250321",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Surveillance médicale",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** L’Inspection du travail et des mines et la Direction de la santé prennent, conformément aux dispositions du livre III, titre V, du Code du travail concernant la protection des salariés contre les risques liés à une exposition à des agents chimiques, physiques et biologiques et aux dispositions du livre III, titre II, du Code du travail concernant les services de santé au travail, des mesures pour assurer la surveillance appropriée de la santé des salariés pour lesquels les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant leur sécurité ou leur santé. Le médecin chef de division de la Division de la santé au travail et de l’environnement de la Direction de la santé sur avis du médecin du travail compétent peut indiquer que la surveillance médicale doit se poursuivre après la fin de l’exposition aussi longtemps qu’il le juge nécessaire pour protéger la santé du salarié concerné.\n\n**(2)** Les mesures visées au paragraphe 1er, sont telles que chaque salarié doit pouvoir faire l’objet, si cela est approprié, d’une surveillance médicale adéquate :\n\n1. avant l’exposition ;\n2. à intervalles réguliers ensuite.\n\nCes mesures sont telles qu’il est directement possible d’appliquer des mesures de médecine individuelles et de médecine du travail.\n\n**(3)** S’il s’avère qu’un salarié est atteint d’une anomalie pouvant résulter d’une exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques, ou qu’une valeur limite biologique a été dépassée, le médecin du travail compétent peut exiger que d’autres salariés ayant subi une exposition analogue fassent l’objet d’une surveillance médicale.\n\nDans ce cas, il est procédé à une nouvelle évaluation du risque d’exposition conformément à l’article 3, paragraphe 2.\n\n**(4)** Lorsqu’une surveillance médicale est assurée, il est tenu un dossier médical individuel et le médecin du travail compétent propose toute mesure individuelle de protection ou de prévention à prendre à l’égard de tout salarié. Le suivi biologique et les prescriptions connexes peuvent faire partie de la surveillance médicale.\n\n**(5)** Des renseignements et des conseils doivent être donnés aux salariés concernant toute surveillance médicale dont ils peuvent faire l’objet après la fin de l’exposition.\n\n**(6)** Conformément aux dispositions mentionnées au paragraphe 1er :\n\n1. les salariés ont accès aux résultats de la surveillance médicale les concernant ;\n2. les salariés concernés ou l’employeur peuvent demander une révision des résultats de la surveillance médicale.\n\n**(7)** Des recommandations pratiques en vue de la surveillance médicale des salariés figurent à l’annexe II.\n\n**(8)** Tous les cas de cancers, d’effets néfastes sur la fonction sexuelle et la fertilité chez les salariés adultes, hommes comme femmes, ou de toxicité pour le développement chez les descendants qui ont été identifiés, conformément à la législation ou aux pratiques luxembourgeoises, comme résultant de l’exposition à un agent cancérigène ou mutagène ou à une substance reprotoxique pendant le travail doivent être notifiés par le médecin du travail aux autorités compétentes, à savoir, au directeur de l’Inspection du travail et des mines, ainsi qu’à la Direction de la santé.",
+      "text_sha256": "4cf4fe7c228f47bc1b20205fa57f114065d1fe7990ec6b1efe1b82135b803361",
+      "md_span": {
+        "start": 19682,
+        "end": 22947
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_15/20250321",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Tenue de dossiers",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "**(1)** En ce qui concerne les agents cancérigènes et mutagènes, la liste visée à l’article 12, point 3°, et le dossier médical visé à l’article 14, paragraphe 4, sont conservés pendant au moins quarante ans après la fin de l’exposition.\n\n**(2)** En ce qui concerne les substances reprotoxiques, la liste visée à l’article 12, point 3°, et le dossier médical visé à l’article 14, paragraphe 4, sont conservés pendant au moins cinq ans après la fin de l’exposition.\n\n**(3)** Au cas où l’entreprise cesse ses activités, les listes visées aux paragraphes 1er et 2, sont mises à la disposition de l’Inspection du travail et des mines ainsi qu’à la Direction de la santé et les dossiers médicaux visés aux paragraphes 1er et 2 sont mis à la disposition de la Direction de la santé.",
+      "text_sha256": "cbe56f7c20e172a87fbdfbe6d966bc3e3e5f4f4dfedf6bf8242c0e3847400288",
+      "md_span": {
+        "start": 23002,
+        "end": 23778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_16/20250321",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Disposition abrogatoire",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Le règlement grand-ducal modifié du 14 novembre 2016 concernant la protection des salariés contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail est abrogé.",
+      "text_sha256": "c8e65bd91421df6bdf70e96964127629c35ef587bde78b7ae35c1d97f9b16034",
+      "md_span": {
+        "start": 23839,
+        "end": 24030
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2016/11/14/n3/jo",
+          "text": "règlement grand-ducal modifié du 14 novembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/art_17/20250321",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Formule exécutoire",
+      "path": [],
+      "article_valid_from": "2025-03-21",
+      "text_md": "Le ministre ayant le Travail dans ses attributions et le ministre ayant la Santé et la Sécurité sociale dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "85d02876e214e21c7245f6d2c41b658906f7b634cea292074be64fad4690037f",
+      "md_span": {
+        "start": 24086,
+        "end": 24357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Liste de substances, mélanges et procédés\n\n(Art. 2, point 1°, lettre b))\n\n1. Fabrication d’auramine.\n2. Travaux exposant aux hydrocarbures polycycliques aromatiques présents dans la suie de houille, le goudron de houille ou la poix de houille.\n3. Travaux exposant aux poussières, fumées ou brouillards produits lors du grillage et de l’électroraffinage des mattes de nickel.\n4. Procédé à l’acide fort dans la fabrication d’alcool isopropylique.\n5. Travaux exposant aux poussières de bois durs.\n6. Travaux exposant à la poussière de silice cristalline alvéolaire issue de procédés de travail.\n7. Travaux entraînant une exposition cutanée à des huiles minérales qui ont été auparavant utilisées dans des moteurs à combustion interne pour lubrifier et refroidir les pièces mobiles du moteur.\n8. Travaux exposant aux émissions d’échappement de moteurs diesel.",
+      "text_sha256": "73cc24cdecf1e31a4acc160282392b56e6f0f97a7566123b0be6843677120646",
+      "md_span": {
+        "start": 24400,
+        "end": 25255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Recommandations pratiques pour la surveillance médicale des salariés\n\n(Art. 14, paragraphe 7)\n\n1. Le médecin du travail compétent responsable de la surveillance médicale des salariés exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques doit bien connaître les conditions ou circonstances de l’exposition de chaque salarié.\n2. 1. enregistrement des antécédents médicaux et professionnels de chaque salarié ;\n2. entretien personnel ;\n3. si approprié, surveillance biologique ainsi que dépistage des effets précoces et réversibles.\n\nD’autres épreuves peuvent être décidées pour chaque salarié soumis à une surveillance médicale, à la lumière des derniers acquis de la médecine du travail.",
+      "text_sha256": "5d48974db6955aa24f43678200cb9b92fe123d3550bede70ac05662d9e7697ef",
+      "md_span": {
+        "start": 25299,
+        "end": 26012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Valeurs limites et autres dispositions directement connexes\n\nA. Valeurs limites d’exposition professionnelle\n\n| Dénomination | Numéro CE | Numéro CAS | Valeurs limites | Observations | Mesures transitoires |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 heures | Courte durée |  |  |  |  |  |  |  |  |  |\n| mg/m3 | ppm | f/ml | mg/m3 | Ppm | f/ml |  |  |  |  |  |\n| Poussières de bois durs | ___ | ___ | 2 | ___ | ___ | ___ | ___ | ___ | ___ |  |\n| Composés du chrome (VI) qui sont cancérigènes au sens de l’article 2, point 1°, lettre a) (en chrome) | ___ | ___ | 0,005 | ___ | ___ | ___ | ___ | ___ | ___ | Valeur limite 0,010 mg/m3 jusqu’au 17 janvier 2025.Valeur limite : 0,025 mg/m3 pour le soudage ou le coupage au jet de plasma ou des procédés similaires qui génèrent des fumées jusqu’au 17 janvier 2025. |\n| Fibres céramiques réfractaires qui sont cancérigènes au sens de l’article 2, point 1°, lettre a) | ___ | ___ | ___ | ___ | 0,3 | ___ | ___ | ___ | ___ |  |\n| Poussière de silice cristalline alvéolaire | ___ | ___ | 0,1 | ___ | ___ | ___ | ___ | ___ | ___ |  |\n| Benzène | 200-753-7 | 71-43-2 | 0,66 | 0,2 | ___ | ___ | ___ | ___ | Peau | Valeur limite 1 ppm (3,25 mg/m3) jusqu’au 5 avril 2024. Valeur limite 0,5 ppm (1,65 mg/m3) à partir du 5 avril 2024 jusqu’au 5 avril 2026. |\n| Chlorure de vinyle monomère | 200-831-0 | 75-01-4 | 2,6 | 1 | ___ | ___ | ___ | ___ | ___ |  |\n| Oxyde d’éthylène | 200-849-9 | 75-21-8 | 1,8 | 1 | ___ | ___ | ___ | ___ | Peau |  |\n| 1,2-Époxypropane | 200-879-2 | 75-56-9 | 2,4 | 1 | ___ | ___ | ___ | ___ | ___ |  |\n| Trichloroéthylène | 201-167-4 | 79-01-6 | 54,7 | 10 | ___ | 164,1 | 30 | ___ | Peau |  |\n| Acrylamide | 201-173-7 | 79-06-1 | 0,1 | ___ | ___ | ___ | ___ | ___ | Peau |  |\n| 2-Nitropropane | 201-209-1 | 79-46-9 | 18 | 5 | ___ | ___ | ___ | ___ | ___ |  |\n| o-Toluidine | 202-429-0 | 95-53-4 | 0,5 | 0,1 | ___ | ___ | ___ | ___ | Peau |  |\n| 4,4’ -Méthylènedianiline | 202-974-4 | 101-77-9 | 0,08 | ___ | ___ | ___ | ___ | ___ | Peau |  |\n| Épichlorhydrine | 203-439-8 | 106-89-8 | 1,9 | ___ | ___ | ___ | ___ | ___ | Peau |  |\n| Dibromure d’éthylène | 203-444-5 | 106-93-4 | 0,8 | 0,1 | ___ | ___ | ___ | ___ | Peau |  |\n| 1,3-Butadiène | 203-450-8 | 106-99-0 | 2,2 | 1 | ___ | ___ | ___ | ___ | ___ |  |\n| Dichlorure d’éthylène | 203-458-1 | 107-06-2 | 8,2 | 2 | ___ | ___ | ___ | ___ | Peau |  |\n| Hydrazine | 206-114-9 | 302-01-2 | 0,013 | 0,01 | ___ | ___ | ___ | ___ | ___ |  |\n| Bromoéthylène | 209-800-6 | 593-60-2 | 4,4 | 1 | ___ | ___ | ___ | ___ | ___ |  |\n| Émissions d’échappement de moteurs diesel |  |  | 0,05 |  |  |  |  |  |  | En ce qui concerne l’extraction souterraine et le creusement de tunnels, la valeur limite entre en application à partir du 21 février 2026. |\n| Mélanges d’hydrocarbures aromatiques polycycliques, en particulier ceux contenant du benzo[a]pyrène, qui sont cancérigènes au sens du présent règlement |  |  |  |  |  |  |  |  | Peau |  |\n| Huiles minérales qui ont été auparavant utilisées dans des moteurs à combustion interne pour lubrifier et refroidir les pièces mobiles du moteur |  |  |  |  |  |  |  |  | Peau |  |\n| Cadmium et ses composés inorganiques | ___ | ___ | 0,001 | ___ | ___ | ___ | ___ | ___ | ___ | Valeur limite: 0,004 mg/m3 jusqu’au 11 juillet 2027. |\n| Béryllium et ses composés inorganiques | ___ | ___ | 0,0002 | ___ | ___ | ___ | ___ | ___ | Sensibilisation cutanée et respiratoire | Valeur limite: 0,0006 mg/m3 jusqu’au 11 juillet 2026. |\n| Acide arsénique et ses sels, ainsi que ses composés inorganiques | ___ | ___ | 0,01 | ___ | ___ | ___ | ___ | ___ | ___ | Pour le secteur de la fusion du cuivre, la valeur limite s’applique à partir du 11 juillet 2023. |\n| Formaldéhyde | 200-001-8 | 50-00-0 | 0,37 | 0,3 | ___ | 0,74 | 0,6 | ___ | Sensibilisation cutanée | Valeur limite de 0,62 mg/m3 ou 0,5 ppm pour les secteurs des soins de santé, des pompes funèbres et de l’embaumement jusqu’au 11 juillet 2024. |\n| 4,4’ -méthylènebis (2- chloroaniline) | 202-918-9 | 101-14-4 | 0,01 | ___ | ___ | ___ | ___ | ___ | Peau |  |\n| Acrylonitrile | 203-466-5 | 107-13-1 | 1 | 0,45 | ___ | 4 | 1,8 | ___ | Peau Sensibilisation cutanée | Les valeurs limites sont applicables à partir du 5 avril 2026. |\n| Composés du nickel | ___ | ___ | 0,01 0,05 | ___ | ___ | ___ | ___ | ___ | Sensibilisation cutanée et respiratoire | La valeur limite est applicable à partir du 18 janvier 2025. La valeur limite est applicable à partir du 18 janvier 2025. Jusqu’à cette date, une valeur limite de 0,1 mg/ m3 s’applique. |\n| Plomb inorganique et ses composés |  |  | 0,15 |  |  |  |  |  |  |  |\n| N,N-Diméthylacétamide | 204-826-4 | 127-19-5 | 36 | 10 | ___ | 72 | 20 | ___ | Peau |  |\n| Nitrobenzène | 202-716-0 | 98-95-3 | 1 | 0,2 | ___ | ___ | ___ | ___ | Peau |  |\n| N,N Diméthylformamide | 200-679-5 | 68-12-2 | 15 | 5 | ___ | 30 | 10 | ___ | Peau |  |\n| 2-Méthoxyéthanol | 203-713-7 | 109-86-4 | ___ | 1 | ___ | ___ | ___ | ___ | Peau |  |\n| Acétate de 2- méthoxyéthyle | 203-772-9 | 110-49-6 | ___ | 1 | ___ | ___ | ___ | ___ | Peau |  |\n| 2-Éthoxyéthanol | 203-804-1 | 110-80-5 | 8 | 2 | ___ | ___ | ___ | ___ | Peau |  |\n| Acétate de 2- éthoxyéthyle | 203-839-2 | 111-15-9 | 11 | 2 | ___ | ___ | ___ | ___ | Peau |  |\n| 1-méthyl-2-pyrrolidone | 212-828-1 | 872-50-4 | 40 | 10 | ___ | 80 | 20 | ___ | Peau |  |\n| Mercure et composés inorganiques bivalents du mercure, y compris l’oxyde de mercure et le chlorure mercurique (mesurés comme mercure) |  |  | 0,02 | ___ | ___ | ___ | ___ | ___ |  |  |\n| Bisphénol A ; 4,4′- isopropylidènediphénol | 201-245-8 | 80-05-7 | 2 | ___ | ___ | ___ | ___ | ___ |  |  |\n| Monoxyde de carbone | 211-128-3 | 630-08-0 | 23 | 20 | ___ | 117 | 100 | ___ |  |  |",
+      "text_sha256": "afeda0237077a9a6333e5a513967feffb223365608bb3f8eb86d9014816602f4",
+      "md_span": {
+        "start": 26057,
+        "end": 31806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21--9a31e7ebff6d882cd1c8f007209f707d26d60c72f04e78df8a98455aa34bdcbd#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Valeurs limites biologiques et mesures de surveillance médicale\n\n1. 1. La surveillance biologique doit inclure la mesure de la plombémie par spectrométrie d’absorption ou par une méthode donnant des résultats équivalents. La valeur limite biologique contraignante est de 70 μg Pb/100 ml de sang.\n2. Une surveillance médicale est effectuée si l’exposition à une concentration de plomb dans l’air est supérieure à 0,075 mg/m3 , calculée en moyenne pondérée dans le temps sur 40 heures par semaine, ou si une plombémie supérieure à 40 μg Pb/100 ml de sang est mesurée chez certains salariés.",
+      "text_sha256": "d40903cb93d664489100937362bbda1e23b58aeffcd4f7e414ea9ec02a2e78e3",
+      "md_span": {
+        "start": 31850,
+        "end": 32438
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

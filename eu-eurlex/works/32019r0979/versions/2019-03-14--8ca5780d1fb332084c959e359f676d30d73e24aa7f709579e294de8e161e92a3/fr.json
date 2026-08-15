@@ -1,0 +1,436 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129",
+  "valid_from": "2019-03-14",
+  "valid_to": "2020-09-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0979/versions/2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3/fr.xml",
+    "sha256": "7174d4f7b6bb27a6c2c54915e058c55cdcc420a6de1d05038dc931fee79ba940",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0979"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les informations financières clés figurant dans le résumé d’un prospectus sont constituées des informations financières prévues dans les annexes du règlement délégué de la Commission 2019/980 (5).\n\n2. Lorsque des informations visées dans les tableaux pertinents figurant aux annexes I à VI du présent règlement ne sont pas incluses dans les états financiers de l’émetteur, l’émetteur communique à la place un élément correspondant de ses états financiers.\n\n3. L’émetteur peut inclure des postes supplémentaires ou des indicateurs alternatifs de performance dans le résumé d’un prospectus lorsqu’il s’agit d’informations financières clés sur l’émetteur ou sur les valeurs mobilières offertes ou admises à la négociation sur un marché réglementé. Aux fins de la première phrase, les indicateurs alternatifs de performance sont des indicateurs financiers, historiques ou prospectifs, de la performance financière, de la situation financière ou des flux de trésorerie, qui sont autres que les indicateurs financiers définis dans le cadre de présentation des informations financières applicable.\n\n4. Les émetteurs qui ne relèvent d’aucun des types d’émetteurs visés aux articles 2 à 8 présentent les informations financières clés indiquées dans les tableaux dont ils estiment qu’ils correspondent de la façon la plus proche au type de valeurs mobilières émises.\n\n5. Les informations financières clés sont présentées pour le nombre d’exercices requis par le règlement délégué 2019/980 pour le type d’émission et le type de valeurs mobilières émises.",
+      "text_sha256": "ac0663722eaaa34e403c97de957d2b931620a9054630c35bb70aa8ae1c1ac84f",
+      "md_span": {
+        "start": 719,
+        "end": 2282
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2019166FR.01000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLorsque l’émetteur est une entité non financière émettant des titres de capital, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe I.",
+      "text_sha256": "3dd91ce5fdd64b853c6545519334f6aebcdceade84f490285e92df081ef738d7",
+      "md_span": {
+        "start": 2315,
+        "end": 2524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLorsque l’émetteur est une entité non financière émettant des titres autres que de capital, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe II.",
+      "text_sha256": "2259825ebab2e6dbf68f4ee5e206ef147c52ac16e7e92fb3dfd7a25a896a9ff8",
+      "md_span": {
+        "start": 2557,
+        "end": 2778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLorsque l’émetteur est un établissement de crédit, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe III.",
+      "text_sha256": "72227ce915de849da37018619827df6d45d1b46b2f75d609ee3056b8b8bc0d46",
+      "md_span": {
+        "start": 2811,
+        "end": 2992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLorsque l’émetteur est une entreprise d’assurance, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe IV.",
+      "text_sha256": "b73f83b8dba4622f6c4fae49fd8ea1b506542dba85f6563eaf135a32accefa84",
+      "md_span": {
+        "start": 3025,
+        "end": 3205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLorsque l’émetteur est une entité ad hoc émettant des titres adossés à des actifs, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe V.",
+      "text_sha256": "6946205b0f71cc4e168b4652185e10b9851306faf747fdefac95d0d8e30a156d",
+      "md_span": {
+        "start": 3238,
+        "end": 3449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLorsque l’émetteur est un fonds de type fermé, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe VI.",
+      "text_sha256": "329d38aea1d8847cdd6a3e0f4aed699f81a7f9039a8859f953655a88092f139a",
+      "md_span": {
+        "start": 3482,
+        "end": 3658
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLorsqu’une garantie est attachée aux valeurs mobilières, les informations financières clés relatives au garant sont présentées comme si le garant était l’émetteur de valeurs mobilières du même type que celles faisant l’objet de la garantie, en utilisant les tableaux figurant aux annexes I à VI. Lorsque la garantie est fournie pour des titres adossés à des actifs, les informations financières clés sur le garant sont présentées comme si le garant était l’émetteur des titres sous-jacents.",
+      "text_sha256": "033cc49ffdd7eff1f5408eb5f18b19ea4856202b4be168b285f2d137b0c74a04",
+      "md_span": {
+        "start": 3691,
+        "end": 4192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les informations financières clés sont présentées sous forme de tableau conformément aux tableaux des annexes I à VI du présent règlement.\n\n2. Toute information financière historique dans le résumé d’un prospectus qui n’est pas tirée des états financiers est identifiée comme telle.\n\n3. Lorsque des informations pro forma qui figureront dans le résumé d’un prospectus ont une incidence sur les informations financières clés indiquées dans le tableau pertinent des annexes I à VI du présent règlement, ces informations pro forma sont présentées dans des colonnes supplémentaires des tableaux figurant aux annexes I à VI du présent règlement ou sous la forme d’un tableau distinct. Lorsque cela est nécessaire à leur compréhension, les informations pro forma sont accompagnées d’une brève explication des chiffres présentés dans les colonnes supplémentaires ou dans le tableau distinct.\n\nLorsque, en cas de modification significative des valeurs brutes, seules des informations qualitatives sont incluses dans le prospectus, une déclaration à cet effet est incluse dans le résumé dudit prospectus.\n\n4. Lorsque l’émetteur a un historique financier complexe tel que visé à l’article 18 du règlement délégué 2019/980, les informations financières clés dans le résumé du prospectus sont présentées d’une manière qui concorde avec le prospectus et en utilisant les tableaux pertinents des annexes I à VI du présent règlement.",
+      "text_sha256": "6f5dd927acfe2d59e4e7e18ef114be672aa62555e013000b4500fc6eac0a567f",
+      "md_span": {
+        "start": 4225,
+        "end": 5657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Lorsqu’un prospectus, qu’il soit constitué d’un document unique ou de plusieurs documents distincts, contient des liens hypertextes vers des sites web, il inclut une déclaration précisant que les informations figurant sur ces sites web ne font pas partie du prospectus et n’ont été ni examinées ni approuvées par l’autorité compétente. Cette exigence ne s’applique pas aux liens hypertextes vers des informations qui sont incorporées par référence.\n\n2. Lorsqu’un prospectus est publié conformément à l’article 21, paragraphe 2, du règlement (UE) 2017/1129, des mesures sont prises sur les sites web utilisés pour sa publication afin d’éviter de cibler les résidents d’États membres ou de pays tiers autres que ceux dans lesquels les valeurs mobilières sont offertes au public.",
+      "text_sha256": "90e8ee24aa18995891b8ab24fff78328bd1fa5805f9421d52172696ea6bd6ffe",
+      "md_span": {
+        "start": 5692,
+        "end": 6483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLorsqu’elle fournit à l’AEMF une copie électronique d’un prospectus approuvé, y compris ses suppléments éventuels et, le cas échéant, les conditions définitives, l’autorité compétente fournit également à l’AEMF les données d’accompagnement pertinentes pour le classement des prospectus conformément aux tableaux figurant à l’annexe VII du présent règlement.",
+      "text_sha256": "c04b3af6b50d7d7120c8e04d8d53dd84b940e55821b9bf155cd9ff12ed257d49",
+      "md_span": {
+        "start": 6518,
+        "end": 6887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nL’autorité compétente fournit les données d’accompagnement visées à l’article 11 dans un format XML commun et conformément au format et aux normes indiqués dans les tableaux de l’annexe VII.",
+      "text_sha256": "f45016cc55fd52e640217562334844a90572911d6d5d4542fb86206bf53f24d7",
+      "md_span": {
+        "start": 6922,
+        "end": 7124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLorsque l’émetteur, l’offreur ou la personne qui sollicite l’admission à la négociation sur un marché réglementé est soumis à l’obligation d’établir un prospectus, les communications à caractère promotionnel identifient clairement ce prospectus:\n\n| a) | en indiquant clairement le site web où le prospectus est publié ou sera publié, lorsque la communication à caractère promotionnel est diffusée sous forme écrite et par des moyens autres que par voie électronique; |\n| --- | --- |\n\n| b) | en incluant un lien hypertexte vers le prospectus et vers les conditions définitives pertinentes du prospectus de base, lorsque la communication à caractère promotionnel est diffusée sous forme écrite par voie électronique, ou en incluant un lien hypertexte vers la page du site web où le prospectus sera publié si ce dernier n’a pas encore été publié; |\n| --- | --- |\n\n| c) | en incluant des informations précises sur l’endroit où le prospectus peut être obtenu, ainsi que des informations précises sur l’offre de valeurs mobilières ou sur l’admission à la négociation sur un marché réglementé à laquelle il se rapporte, lorsque la communication à caractère promotionnel est diffusée sous une forme ou par des moyens ne relevant pas du champ d’application des points a) ou b). |\n| --- | --- |",
+      "text_sha256": "3b96a17edf0f8d2fdb0a731f2aeebdad39722f00e833e8b32c9552faa04c5474",
+      "md_span": {
+        "start": 7159,
+        "end": 8455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les communications à caractère promotionnel diffusées auprès des investisseurs de détail potentiels contiennent les éléments suivants:\n\n| a) | la mention «communication à caractère promotionnel», de manière bien visible. Lorsqu’une communication à caractère promotionnel est diffusée oralement, sa finalité est clairement indiquée au début du message; |\n| --- | --- |\n\n| b) | une déclaration selon laquelle l’approbation du prospectus ne doit pas être considérée comme un avis favorable sur les valeurs mobilières offertes ou admises à la négociation sur un marché réglementé, lorsque la communication à caractère promotionnel contient une référence à un prospectus approuvé par une autorité compétente; |\n| --- | --- |\n\n| c) | une recommandation invitant les investisseurs potentiels à lire le prospectus avant de prendre une décision d’investissement afin de pleinement comprendre les risques et avantages potentiels associés à la décision d’investir dans les valeurs mobilières, lorsque la communication à caractère promotionnel contient une référence à un prospectus approuvé par une autorité compétente; |\n| --- | --- |\n\n| d) | l’avis signalant que le produit peut être difficile à comprendre requis en vertu de l’article 8, paragraphe 3, point b), du règlement (UE) no 1286/2014 du Parlement européen et du Conseil (6), lorsque:i)la communication à caractère promotionnel porte sur des valeurs mobilières complexes autres que les instruments financiers visés à l’article 25, paragraphe 4, points a) i), a) ii) et a) vi), de la directive 2014/65/UE du Parlement européen et du Conseil (7); etii)l’avis signalant que le produit peut être difficile à comprendre figure, ou figurera, dans le résumé du prospectus. |\n| --- | --- |\n| i) | la communication à caractère promotionnel porte sur des valeurs mobilières complexes autres que les instruments financiers visés à l’article 25, paragraphe 4, points a) i), a) ii) et a) vi), de la directive 2014/65/UE du Parlement européen et du Conseil (7); et |\n| ii) | l’avis signalant que le produit peut être difficile à comprendre figure, ou figurera, dans le résumé du prospectus. |\n\n2. Les communications à caractère promotionnel sous forme écrite qui sont diffusées auprès des investisseurs de détail potentiels diffèrent suffisamment, par leur forme et par leur longueur, du prospectus pour qu’aucune confusion avec ce dernier ne soit possible.",
+      "text_sha256": "438ec111a025f6c129701c088b49ea829c5bff45ca32cde67afd21558c20cc2c",
+      "md_span": {
+        "start": 8490,
+        "end": 10898
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2019166FR.01000101-E0006",
+          "text": "(6)"
+        },
+        {
+          "href": "#ntr7-L_2019166FR.01000101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les communications à caractère promotionnel diffusées auprès des investisseurs potentiels sont modifiées lorsque:\n\n| a) | un supplément au prospectus est ultérieurement publié conformément à l’article 23 du règlement (UE) 2017/1129; |\n| --- | --- |\n\n| b) | le fait nouveau significatif ou l’erreur ou inexactitude substantielle mentionnés dans le supplément rendent la communication à caractère promotionnel diffusée précédemment substantiellement inexacte ou trompeuse. |\n| --- | --- |\n\nLe premier alinéa ne s’applique pas après la clôture définitive de la période de l’offre au public, ou après le début de la négociation sur un marché réglementé si cet évènement intervient plus tard.\n\n2. Les communications à caractère promotionnel modifiées conformément au paragraphe 1 sont diffusées auprès des investisseurs potentiels dans les meilleurs délais après la publication du supplément au prospectus et contiennent l’ensemble des éléments suivants:\n\n| a) | une référence claire à la version inexacte ou trompeuse de la communication à caractère promotionnel; |\n| --- | --- |\n\n| b) | une explication indiquant que la communication à caractère promotionnel a été modifiée parce qu’elle contenait des informations substantiellement inexactes ou trompeuses; |\n| --- | --- |\n\n| c) | une description claire des différences entre les deux versions de la communication à caractère promotionnel. |\n| --- | --- |\n\n3. Sauf dans le cas d’une communication à caractère promotionnel diffusée oralement, une communication à caractère promotionnel modifiée en vertu du paragraphe 1 est diffusée au moins par les mêmes voies que sa précédente version.",
+      "text_sha256": "bd4e6864d5ad5f28db9c2507966dd4020d860366b60d0d8a61d68fd11d217bba",
+      "md_span": {
+        "start": 10933,
+        "end": 12583
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les informations communiquées oralement ou par écrit concernant une offre au public de valeurs mobilières ou une admission à la négociation sur un marché réglementé, que ce soit en tant que communication à caractère promotionnel ou à d’autres fins:\n\n| a) | ne contredisent pas les informations dans le prospectus; |\n| --- | --- |\n\n| b) | ne font pas référence à des informations qui contredisent les informations dans le prospectus; |\n| --- | --- |\n\n| c) | ne présentent pas les informations dans le prospectus de façon substantiellement biaisée, notamment à travers une présentation des aspects négatifs de ces informations de façon moins visible que les aspects positifs, une omission de certaines informations ou une présentation sélective de certaines informations; |\n| --- | --- |\n\n| d) | ne contiennent pas d’indicateurs alternatifs de performance sauf s’ils figurent dans le prospectus. |\n| --- | --- |\n\n2. Aux fins du paragraphe 1, les informations dans le prospectus sont constituées soit des informations qui figurent dans le prospectus, si celui-ci a déjà été publié, soit des informations qui figureront dans le prospectus, si celui-ci doit être publié à une date ultérieure.\n\n3. Aux fins du paragraphe 1, point d), les indicateurs alternatifs de performance sont constitués des indicateurs financiers, historiques ou prospectifs, de la performance financière, de la situation financière ou des flux de trésorerie, qui sont autres que les indicateurs financiers définis dans le cadre de présentation des informations financières applicable.",
+      "text_sha256": "b1a2e1d29cbab08a773fa88da24d7e2a64faa012543a5ca2fb93e2fca5e6a219",
+      "md_span": {
+        "start": 12618,
+        "end": 14185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Lorsque l’autorité compétente d’un État membre dans lequel une communication à caractère promotionnel est diffusée estime que le contenu de cette communication à caractère promotionnel ne concorde pas avec les informations contenues dans le prospectus, elle peut demander l’assistance de l’autorité compétente de l’État membre d’origine. Sur demande, l’autorité compétente de l’État membre dans lequel la communication à caractère promotionnel est diffusée communique à l’autorité compétente de l’État membre d’origine les éléments suivants:\n\n| a) | les raisons pour lesquelles elle estime que le contenu de la communication à caractère promotionnel ne concorde pas avec les informations contenues dans le prospectus; |\n| --- | --- |\n\n| b) | la communication à caractère promotionnel concernée et, si nécessaire, une traduction de celle-ci dans la langue du prospectus ou dans une langue usuelle dans la sphère financière internationale. |\n| --- | --- |\n\n2. L’autorité compétente de l’État membre d’origine transmet dès que possible à l’autorité compétente de l’État membre dans lequel la communication à caractère promotionnel est diffusée les résultats de son évaluation de la concordance entre la communication à caractère promotionnel et les informations contenues dans le prospectus.",
+      "text_sha256": "d9e4b0f52a73e523d7393ac47fb71ac77753560ac84d6220a7453d48c1010321",
+      "md_span": {
+        "start": 14220,
+        "end": 15523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Un supplément au prospectus est publié lorsque:\n\n| a) | de nouveaux états financiers annuels audités sont publiés par:i)l’émetteur lorsque le prospectus se rapporte à des titres de capital;ii)l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions dans le cas de titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980;iii)l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980; |\n| --- | --- |\n| i) | l’émetteur lorsque le prospectus se rapporte à des titres de capital; |\n| ii) | l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions dans le cas de titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980; |\n| iii) | l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980; |\n\n| b) | l’émetteur a publié une prévision ou une estimation du bénéfice après l’approbation du prospectus, lorsque l’inclusion dans le prospectus d’une prévision ou d’une estimation du bénéfice est exigée en vertu du règlement délégué 2019/980; |\n| --- | --- |\n\n| c) | une modification d’une prévision ou d’une estimation du bénéfice, ou son retrait, figure dans le prospectus; |\n| --- | --- |\n\n| d) | un changement de contrôle intervient en ce qui concerne:i)l’émetteur lorsque le prospectus se rapporte à des titres de capital;ii)l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions lorsque le prospectus se rapporte à des titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980;iii)l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980; |\n| --- | --- |\n| i) | l’émetteur lorsque le prospectus se rapporte à des titres de capital; |\n| ii) | l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions lorsque le prospectus se rapporte à des titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980; |\n| iii) | l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980; |\n\n| e) | des tiers font une nouvelle offre publique d’acquisition, au sens de l’article 2, paragraphe 1, point a), de la directive 2004/25/CE du Parlement européen et du Conseil (8), ou le résultat d’une offre publique d’acquisition devient disponible en ce qui concerne l’un des types de valeurs mobilières suivantes:i)le capital de l’émetteur lorsque le prospectus se rapporte à des titres de capital;ii)le capital de l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions lorsque le prospectus se rapporte à des titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980;iii)le capital de l’émetteur des actions sous-jacentes de certificats représentatifs d’actions lorsque le prospectus est établi conformément aux articles 6 et 14 du règlement délégué 2019/980; |\n| --- | --- |\n| i) | le capital de l’émetteur lorsque le prospectus se rapporte à des titres de capital; |\n| ii) | le capital de l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions lorsque le prospectus se rapporte à des titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980; |\n| iii) | le capital de l’émetteur des actions sous-jacentes de certificats représentatifs d’actions lorsque le prospectus est établi conformément aux articles 6 et 14 du règlement délégué 2019/980; |\n\n| f) | le fonds de roulement net déclaré dans le prospectus devient suffisant ou insuffisant pour les besoins actuels de l’émetteur, en ce qui concerne:i)des titres de capital;ii)des titres convertibles ou échangeables tels que visés à l’article 19, paragraphe 2, et à l’article 19, paragraphe 3, du règlement délégué 2019/980;iii)des certificats représentatifs émis pour des actions tels que visés aux articles 6 et 14 du règlement délégué 2019/980; |\n| --- | --- |\n| i) | des titres de capital; |\n| ii) | des titres convertibles ou échangeables tels que visés à l’article 19, paragraphe 2, et à l’article 19, paragraphe 3, du règlement délégué 2019/980; |\n| iii) | des certificats représentatifs émis pour des actions tels que visés aux articles 6 et 14 du règlement délégué 2019/980; |\n\n| g) | l’émetteur sollicite l’admission à la négociation sur au moins un marché réglementé supplémentaire dans au moins un État membre supplémentaire ou a l’intention de faire une offre au public de valeurs mobilières dans au moins un État membre supplémentaire qui n’est pas mentionné dans le prospectus; |\n| --- | --- |\n\n| h) | dans le cas d’un prospectus se rapportant à des titres de capital ou à d’autres titres visés à l’article 19, paragraphe 2, à l’article 19, paragraphe 3, ou à l’article 20, paragraphe 2, du règlement délégué 2019/980, un nouvel engagement financier important est susceptible de donner lieu à une modification significative des valeurs brutes au sens de l’article 1er, point e), dudit règlement délégué; |\n| --- | --- |\n\n| i) | le montant nominal total du programme d’offre est augmenté. |\n| --- | --- |",
+      "text_sha256": "cfc1da7876aecfea9ea541fd8015c1189ea4195a71203a17877da208665b5987",
+      "md_span": {
+        "start": 15558,
+        "end": 21295
+      },
+      "citations": [
+        {
+          "href": "#ntr8-L_2019166FR.01000101-E0008",
+          "text": "(8)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nLors du téléchargement vers le portail de notification de documents visés à l’article 25, paragraphe 6, du règlement (UE) 2017/1129, l’autorité compétente veille à ce que ces documents soient sous une forme électronique permettant les recherches qui ne peut être modifiée et qu’ils soient accompagnés des données y relatives indiquées dans les tableaux de l’annexe VII du présent règlement, dans un format XML commun.",
+      "text_sha256": "b765f64f01b50ccf932a51edf01eaf3f7fb067ab5bfe2230be8d0a69b15d71e9",
+      "md_span": {
+        "start": 21330,
+        "end": 21759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. L’AEMF veille à ce que le portail de notification traite et vérifie automatiquement tous les documents et toutes les données d’accompagnement téléchargés et indique à l’autorité compétente qui les a téléchargés si le téléchargement a réussi et s’il contenait des erreurs.\n\n2. L’AEMF veille à ce que le portail de notification envoie aux autorités compétentes concernées des notifications des documents et des données d’accompagnement téléchargés.",
+      "text_sha256": "a5ebb68eb0f9f418811947a53a4444b0e711dd1d86970e5545292f535696d0c8",
+      "md_span": {
+        "start": 21794,
+        "end": 22255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nL’AEMF veille à ce que tous les documents et les données d’accompagnement qui ont été téléchargés vers le portail de notification soient à la disposition des autorités compétentes concernées.",
+      "text_sha256": "269a0341e5485c7fd217307f4939b292a58f63ee2bf42aa1dbc6f1fcaea3c0bc",
+      "md_span": {
+        "start": 22290,
+        "end": 22493
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nLe règlement délégué (UE) no 382/2014 est abrogé.\n\nLe règlement délégué (UE) 2016/301 est abrogé.",
+      "text_sha256": "adc32d2a5a5876e731b7c351ad5527014351d0410662e19b2e5e20cf3a896e52",
+      "md_span": {
+        "start": 22528,
+        "end": 22637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r0979:2019-03-14--8ca5780d1fb332084c959e359f676d30d73e24aa7f709579e294de8e161e92a3#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl s’applique à partir du 21 juillet 2019.",
+      "text_sha256": "28714743dab55fde8951ad022aa03a9643d965c382b8fc129d53fc0c16f3826b",
+      "md_span": {
+        "start": 22672,
+        "end": 22858
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

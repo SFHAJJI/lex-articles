@@ -1,0 +1,102 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-02-27-n9:2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public et modifiant \\n a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, \\n b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal.",
+  "valid_from": "2023-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-02-27-n9/versions/2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66/fr.xml",
+    "sha256": "98cd85bf7f89bd6836f4363e265bb587548830594c9a6ea44074000da60731de",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/consolide/20230701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n9:2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/art_1er/20230701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-01",
+      "text_md": "Sont désignés comme emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes comportant une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public:\n\n1. les fonctions de secrétaire général adjoint, de secrétaire général et de secrétaire-administrateur général;\n2. les fonctions de receveur général;\n3. les fonctions de secrétaire communal et de secrétaire-rédacteur;\n4. les fonctions de receveur communal;\n5. les fonctions de garde champêtre.\n6. bis Code de procédure pénale",
+      "text_sha256": "48e9fb144c4e242b3078269cd4e07c47bd0a38845629673b1137890554b4c463",
+      "md_span": {
+        "start": 1347,
+        "end": 2047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n9:2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/art_2/20110327",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux est modifié comme suit:\n\n1. er à durée indéterminée et pour une tâche égale ou supérieure à 25 pour cent d’une tâche complète pour une tâche complète ou partielle et à durée déterminée ou indéterminée\n2. er 1. être ressortissant d’un Etat membre de l’Union Européenne;».\n3. er adéquate adaptée au niveau de carrière\n4. Le deuxième alinéa de l’article 3 est abrogé.\n5. 1. de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».\n6. luxembourgeoise de l’un des Etats membres de l’Union Européenne\n7. er **1.** Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit, pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires communaux s’il remplit une des conditions suivantes: 1. s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée;\n2. à partir de l’âge de cinquante-cinq ans.\n8. luxembourgeoise de l’un des Etats membres de l’Union Européenne\n9. luxembourgeoise de l’un des Etats membres de l’Union Européenne\n10. 1. les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.",
+      "text_sha256": "bb3a76c9dbde915456bdfb05dcf5b4fb4bd4072ce5ed4f2a5a13f0d08aff47fc",
+      "md_span": {
+        "start": 2082,
+        "end": 3748
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2001/11/15/n1",
+          "text": "règlement grand-ducal du 15 novembre 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n9:2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/art_3/20110327",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal est modifié comme suit:\n\nA l’article 2, alinéa 1er, au point 4., le terme adéquate est remplacé par les termes adaptée au niveau de carrière.",
+      "text_sha256": "1a9d5d860587f7f2bfcb6df596d4f8d7058606bb5dde496105af09a4eb32d037",
+      "md_span": {
+        "start": 3783,
+        "end": 4140
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/09/25/n4/jo",
+          "text": "règlement grand-ducal modifié du 25 septembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n9:2023-07-01--86a002e28887b571fee5cdbdedb1ac9fe02c22cf2c29f5e255242b9aa8a4fd66#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/art_4/20110327",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Notre Ministre de l’Intérieur et à la Grande Région est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ef1681f84e20706f16cd09be1bf5fc50ca09fab23f510af0bc02f81359bfe17f",
+      "md_span": {
+        "start": 4175,
+        "end": 4302
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

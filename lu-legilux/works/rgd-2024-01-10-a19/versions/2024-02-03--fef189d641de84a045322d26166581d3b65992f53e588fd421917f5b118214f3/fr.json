@@ -1,0 +1,58 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2024-01-10-a19:2024-02-03--fef189d641de84a045322d26166581d3b65992f53e588fd421917f5b118214f3",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 03/02/2024 : Règlement grand-ducal du 10 janvier 2024 relatif aux techniques autorisées pour l’accomplissement d’actes réalisés par les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise.",
+  "valid_from": "2024-02-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2024-01-10-a19/versions/2024-02-03--fef189d641de84a045322d26166581d3b65992f53e588fd421917f5b118214f3/fr.xml",
+    "sha256": "64ce9ad795fbea3e0af06be4da2d5b1c4af7d9f2d0de586a195350c80c2a3025",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/consolide/20240203/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2024-01-10-a19:2024-02-03--fef189d641de84a045322d26166581d3b65992f53e588fd421917f5b118214f3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/art_1er/20240203",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-02-03",
+      "text_md": "Les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise sont autorisés à mettre en œuvre les techniques suivantes :\n\n1. libération et maintien des voies aériennes, y compris par moyens invasifs et dispositifs supra-glottiques ;\n2. décompression en urgence d’un pneumothorax compressif ;\n3. obtention d’un accès intraveineux périphérique et intraosseux ;\n4. mise en place de perfusion liquidienne et traitement de substitution volémique ;\n5. administration médicamenteuse y compris la préparation par voies transmuqueuse et parentérale y compris à l’aide d’une pompe à perfusion ;\n6. utilisation de moyens antihémorragiques ;\n7. administration d’oxygène par sonde nasale ou masque ;\n8. première mise en place et retrait d’une sonde vésicale ainsi que les soins liés ;\n9. pose de plâtre ou de moyens d’immobilisation similaires ;\n10. ad hoc\n11. contrôle des gaz du sang à l’aide d’appareils automatiques ;\n12. prélèvements et collectes de sécrétions et d’excrétions à l’exception de toute ponction ;\n13. enregistrement simple d’un électrocardiogramme, d’un électromyogramme, d’une électroneurographie, d’un électroencéphalogramme, et de potentiels évoqués.",
+      "text_sha256": "b11f8a29aad4aa45c32d655dbf911623553c44bcea36d4e737f6e515333fe501",
+      "md_span": {
+        "start": 933,
+        "end": 2243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2024-01-10-a19:2024-02-03--fef189d641de84a045322d26166581d3b65992f53e588fd421917f5b118214f3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/art_2/20240203",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-02-03",
+      "text_md": "Le ministre ayant la Défense dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "db683598017e9d6da40cfc0188b27eba2c7aa991d7b5b6406dd1da7aceb2ce2a",
+      "md_span": {
+        "start": 2278,
+        "end": 2441
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

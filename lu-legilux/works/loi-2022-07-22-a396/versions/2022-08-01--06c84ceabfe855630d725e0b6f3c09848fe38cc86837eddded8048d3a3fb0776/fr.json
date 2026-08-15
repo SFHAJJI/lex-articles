@@ -1,0 +1,406 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/08/2022 : Loi du 22 juillet 2022 relative à une subvention de loyer.",
+  "valid_from": "2022-08-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2022-07-22-a396/versions/2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776/fr.xml",
+    "sha256": "8ce84770876fc729620927992fd16f91b57c281d99e866a2f6f7078d8cd227d4",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_1er",
+      "eli": "/art_1er/20220801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Définitions"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Pour l’application de la présente loi, on entend par :\n\n1. « ministre » : le ministre ayant le Logement dans ses attributions ;\n2. « aide » : une subvention de loyer pouvant être accordée pour la location d’un logement sur le marché locatif privé et situé sur le territoire du Grand-Duché de Luxembourg ;\n3. est considéré comme un local d’habitation distinct tout immeuble ou partie d’immeuble susceptible d’être habité à titre principal de sorte qu’une personne ou un groupe de personnes puissent y dormir, y prendre leurs repas et s’y abriter à l’écart d’autres personnes ; un local d’habitation est à considérer comme indépendant s’il dispose d’une porte principale permettant d’accéder à l’extérieur de l’immeuble ou à une partie commune à l’intérieur d’un immeuble, sans que les habitants du local n’aient à traverser un local habité par d’autres personnes ;\n4. « autre logement » : un logement différent de celui pour lequel une subvention de loyer est accordée ; les membres de la communauté domestique peuvent être pleins propriétaires ou usufruitiers jusqu’à un tiers d’un seul autre logement ;\n5. « demandeur » : la ou les personnes physiques qui introduisent et signent une demande en obtention d’une subvention de loyer ;\n6. « bénéficiaire » : le demandeur auquel une subvention de loyer est accordée ;\n7. 1. l’enfant pour lequel le demandeur perçoit des allocations familiales, qui habite avec le demandeur dans le logement et qui y est déclaré ; ou\n2. Code de la sécurité sociale\n8. ces preuves matérielles sont, selon le cas : 1. le contrat de bail ;\n2. le pacte de colocation ;\n3. les quittances de loyer ;\n4. les pièces bancaires ou comptables prouvant le paiement du loyer ;\n5. les pièces prouvant le paiement des factures d’électricité, de chauffage ou de gaz, de l’antenne collective ou des taxes communales ; les pièces énumérées ci-avant portent sur une durée de six mois au moins à compter de la date où la demande en obtention de l’aide a été introduite auprès du ministre.",
+      "text_sha256": "d7ae523f31ba69ffcca3a2ca7c36aee7e5a5f08473caf8770fe7de169078d704",
+      "md_span": {
+        "start": 694,
+        "end": 2691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_2",
+      "eli": "/art_2/20220801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Conditions spéciales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Pour les personnes à faible revenu qui louent un logement sur le marché locatif privé, l’État est autorisé à accorder une subvention de loyer si les conditions suivantes sont remplies :\n\n1. loi modifiée du 29 août 2008\n2. loi modifiée du 21 septembre 2006 Code civil\n3. le demandeur est déclaré à l’adresse du logement qui est son habitation principale et permanente ;\n4. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n5. er\n6. le revenu de la communauté domestique fixé conformément à l’article 3 ne dépasse pas le plafond de revenu prévu à l’annexe ;\n7. loi modifiée du 21 septembre 2006 Code civil\n8. le logement n’est pas loué au demandeur par un de ses ascendants ou descendants.\n\nLe ministre peut déroger, sur demande motivée et pour des raisons tenant à la situation familiale, financière ou de santé dûment documentées, à l’une des conditions visées à l’alinéa 1er, point 2°, 3° et 4°.\n\nEn cas de décision d’octroi de l’aide, celle-ci est accordée à partir de la date de la demande si les conditions étaient remplies à cette date.",
+      "text_sha256": "27292433ceae794fdce9be2d90c4038f49f1b3332f23d4c8873be86f6c446eae",
+      "md_span": {
+        "start": 2799,
+        "end": 3904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_3",
+      "eli": "/art_3/20220801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Conditions spéciales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Le revenu net de la communauté domestique est la somme :\n\n1. loi modifiée du 4 décembre 1967\n2. des rentes alimentaires perçues ;\n3. des montants nets des rentes accident ;\n4. loi modifiée du 4 décembre 1967\n\nLes rentes alimentaires virées sont déduites du revenu.\n\n**(2)** Le revenu à prendre en considération pour l’obtention de l’aide est la moyenne du revenu net de l’année civile qui précède le mois à partir duquel l’aide est accordée. Lorsque le revenu total à prendre en considération comprend un revenu provenant d’une occupation rémunérée qui n’a pas été exercée pendant toute l’année civile concernée, ce revenu est à extrapoler sur l’année.\n\nEn cas de changement d’employeur ou d’une modification du contrat de travail ayant un impact sur le revenu durant l’année civile au cours de laquelle l’aide est accordée, ou au cas où la communauté domestique n’a pas eu de revenu professionnel durant ladite année civile, le dernier revenu connu est pris en considération et est extrapolé sur l’année.",
+      "text_sha256": "c08727b4bad7c6d88804d7a4a7e6ad4bc0f50611b252823b686a83a71ebcf441",
+      "md_span": {
+        "start": 3939,
+        "end": 4952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_4",
+      "eli": "/art_4/20220801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Conditions spéciales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** La subvention de loyer est calculée conformément à la formule prévue à l’annexe.\n\n**(2)** Le montant de l’aide ne pourra jamais dépasser le loyer effectivement payé par le demandeur éligible.",
+      "text_sha256": "e20e76935d69168898998d62f811e3c5d59a04923a7b150cb98c3caf00d64651",
+      "md_span": {
+        "start": 4987,
+        "end": 5186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_5",
+      "eli": "/art_5/20220801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Conditions spéciales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** La subvention de loyer n’est pas due et doit être restituée, avec effet rétroactif, si pendant la période d’octroi d’une subvention de loyer, une des conditions d’octroi de l’aide n’a pas été remplie ou si le bénéficiaire donne en sous-location tout ou une partie du logement. Une sous-location est présumée exister si tout ou une partie du logement est mis à la disposition de personnes autres que le bénéficiaire et qui y habitent pendant un délai supérieur à six mois.\n\n**(2)** En cas de départ d’un des demandeurs, une nouvelle demande en obtention d’une subvention de loyer devra être présentée par le demandeur restant dans le logement au cas où il souhaite bénéficier d’une continuation de l’aide.",
+      "text_sha256": "1f34367855ae30da3933405814733dcbaa641c0d8624b9ceb59bb96f9f8ab2fb",
+      "md_span": {
+        "start": 5221,
+        "end": 5933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_6",
+      "eli": "/art_6/20220801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions générales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** La demande en obtention d’une subvention de loyer est à adresser au ministre moyennant un formulaire de demande spécifique, mis à disposition des personnes intéressées, qui doit être dûment rempli, daté et signé.\n\n**(2)** Le demandeur est tenu, sur demande du ministre, de fournir tous les renseignements et documents nécessaires à l’instruction, à la gestion et au suivi de sa demande d’aide, pour contrôler si les conditions d’octroi et de maintien d’une subvention de loyer sont remplies. À défaut de donner suite à cette demande endéans un délai de trois mois, le dossier de demande est clôturé.\n\n**(3)** Un règlement grand-ducal précise les modalités relatives à la demande en obtention d’une subvention de loyer et les pièces justificatives requises.",
+      "text_sha256": "0ecdf8e280c799d39c34ed04b403b7ce1f6e170e93de7de5727c5a9ccc96c977",
+      "md_span": {
+        "start": 6041,
+        "end": 6805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_7",
+      "eli": "/art_7/20220801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions générales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Le bénéficiaire d’une subvention de loyer est tenu d’informer dans les plus brefs délais le ministre de tout changement susceptible d’influencer le maintien, la modification ou la suppression de l’aide, sous peine de restitution de l’aide avec effet rétroactif.\n\n**(2)** En cas de déclaration inexacte ou incomplète en vue de l’octroi, du maintien ou de la modification d’une subvention de loyer, ou en cas de refus de communiquer les renseignements ou documents demandés par le ministre endéans un délai de trois mois, l’aide est refusée ou arrêtée, et, au cas où elle a déjà été accordée et payée, l’aide indûment touchée est à restituer avec effet rétroactif par le bénéficiaire à l’État.",
+      "text_sha256": "827be2eba90abc11ab03b3770cc022d1c2a8e05d1e4d2de7367b45d0237a0e89",
+      "md_span": {
+        "start": 6840,
+        "end": 7539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_8",
+      "eli": "/art_8/20220801",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions générales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "La communauté domestique à prendre en considération pour la détermination de la subvention de loyer est celle existant à la date à partir de laquelle l’aide mensuelle est accordée.",
+      "text_sha256": "ea69ee468855be457cff688fdd0dc5cde32ddba67843ace600c375f535c9f3de",
+      "md_span": {
+        "start": 7574,
+        "end": 7754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_9",
+      "eli": "/art_9/20220801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions générales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Les décisions concernant l’octroi, le refus ou le remboursement total ou partiel d’une subvention de loyer sont prises par le ministre, sur avis de la commission en matière d’aides individuelles au logement, dénommée ci-après « commission ».\n\nElles sont notifiées par voie postale aux demandeurs ou bénéficiaires concernés.\n\n**(2)** La commission se compose de cinq membres.\n\nLes membres de la commission sont nommés par le ministre parmi les fonctionnaires, employés publics et agents du Ministère du logement. Les nominations des membres de la commission sont faites pour un terme renouvelable de cinq ans.\n\nEn cas de décès ou de démission d’un membre de la commission, un nouveau membre sera nommé par le ministre. Ce nouveau membre achèvera le mandat de celui dont il prend la place.\n\nLe président et le vice-président de la commission sont nommés par le ministre. Ils doivent être choisis parmi les membres de la commission.\n\nLes membres de la commission peuvent être remplacés par le ministre à tout moment.\n\n**(3)** La commission se réunit aussi souvent que sa mission l’exige.\n\nLa commission délibère valablement en présence d’au moins trois membres dont le président ou le vice-président. Les avis sont pris à la majorité des membres présents. En cas d’égalité des voix, la voix du président ou, le cas échéant, du vice-président, est prépondérante.\n\n**(4)** Lorsqu’un des membres de la commission a un intérêt personnel concernant un dossier, celui-ci ne peut participer à aucune délibération relative à ce dossier. Il doit en informer à l’avance les autres membres de la commission.\n\n**(5)** L’avis de la commission dûment motivé est signé par au moins un des membres présents à la réunion de la commission au cours de laquelle l’avis a été émis. L’avis de la commission doit indiquer la composition de la commission, les noms des membres ayant assisté à la séance et le nombre de voix exprimées en faveur de l’avis émis. Les avis séparés éventuels doivent être annexés.\n\n**(6)** Les membres de la commission sont tenus de garder le secret des délibérations et de ne pas divulguer les données inhérentes aux dossiers traités.\n\n**(7)** La commission peut se donner un règlement interne de fonctionnement contenant les directives techniques devant servir de gouverne lors de l’appréciation des dossiers.\n\n**(8)** La commission soumet au ministre un rapport de chaque séance contenant une liste de présence des membres, un relevé des dossiers traités ainsi que les avis pris en relation avec ces dossiers lors de la séance afférente.\n\nLes travaux de secrétariat sont assurés par des fonctionnaires, employés publics ou agents du Ministère du logement.",
+      "text_sha256": "e072dd6d263359be976e8b0ee560a1d119d02a741803a103e40d3ebd5843893c",
+      "md_span": {
+        "start": 7789,
+        "end": 10456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_10",
+      "eli": "/art_10/20220801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions générales relatives à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Dans le cas d’un recalcul de l’aide accordée dans un dossier, le remboursement de l’aide indûment touchée ne pourra concerner qu’une période de dix ans à partir de la date de la dernière liquidation d’une aide au bénéficiaire.",
+      "text_sha256": "a9efb666de31a510a2f8172349ad747cf40133e46ff972eb4a29f1cfc15956ac",
+      "md_span": {
+        "start": 10493,
+        "end": 10719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_11",
+      "eli": "/art_11/20220801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Co**llecte, saisie et contrôle des dossiers relatifs à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Le ministre met en œuvre un système de collecte et de saisie des demandes de subvention de loyer. L’introduction d’une demande donne lieu à l’établissement d’un dossier.\n\nLe ministre est le responsable du traitement des données à caractère personnel dans le cadre d’une demande d’aide. Le Centre des technologies de l’information de l’État a la qualité de sous-traitant.",
+      "text_sha256": "e19409701ca30ab0edf65cc4fd103eb740cced8c435b48d424da2528978cd3e7",
+      "md_span": {
+        "start": 10853,
+        "end": 11223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_12",
+      "eli": "/art_12/20220801",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Co**llecte, saisie et contrôle des dossiers relatifs à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Le ministre peut, afin de contrôler si les conditions d’octroi de l’aide demandée sont remplies et afin de vérifier l’exactitude et l’authenticité des données et des pièces fournies par le demandeur ou bénéficiaire de l’aide, demander, pour chacun des membres de la communauté domestique :\n\n1. 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;\n3. loi modifiée du 4 décembre 1967 loi modifiée du 4 décembre 1967\n2. 1. l’indication si la personne concernée est propriétaire ou usufruitier d’un ou de plusieurs logements, y compris sa provenance ;\n2. le titre de propriété du logement ;\n3. les données techniques du logement ;\n3. 1. l’indication si la personne concernée est propriétaire ou usufruitier d’un ou de plusieurs logements ;\n2. le titre de propriété du logement ;\n3. les données techniques du logement ;\n4. Code de la sécurité sociale 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. la date et la durée de l’affiliation ;\n3. la durée de travail hebdomadaire ;\n4. le nom, les prénoms et les coordonnées de l’employeur ;\n5. les affiliations auprès d’employeurs antérieurs ;\n5. 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. les bénéficiaires du revenu d’inclusion sociale et les montants perçus ;\n3. les bénéficiaires du revenu pour personnes gravement handicapées et les montants perçus ;\n4. les bénéficiaires de la majoration du revenu d’inclusion sociale et les montants perçus ;\n5. les bénéficiaires de la majoration du revenu pour personnes gravement handicapées et les montants perçus ;\n6. les bénéficiaires d’une avance de pension alimentaire et les montants perçus ;\n7. les bénéficiaires du forfait d’éducation et les montants perçus ;\n6. à la Caisse pour l’avenir des enfants, la transmission de l’indication si la personne concernée est attributaire d’une allocation familiale au bénéfice d’un ou de plusieurs enfants vivant dans la communauté domestique du demandeur ou bénéficiaire de l’aide ;\n7. Code de la sécurité sociale\n8. à l’Agence pour le développement de l’emploi, la transmission des bénéficiaires des indemnités de chômage et les montants perçus.\n\nLe ministre a droit à la communication de renseignements à partir du registre national au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général au sens de la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales pour vérifier pour un demandeur ou bénéficiaire d’une subvention de loyer ou tout autre membre de la communauté domestique qui vit dans le logement les données à caractère personnel suivantes :\n\n1. les nom et prénoms ;\n2. le numéro d’identification national ;\n3. le sexe ;\n4. les date et lieu de naissance ;\n5. la date de décès ;\n6. l’état civil ;\n7. loi modifiée du 19 mars 1988",
+      "text_sha256": "7f698c0b06786082ef4592418f069ba99e890553c659d53357ed63a20b5bdb45",
+      "md_span": {
+        "start": 11260,
+        "end": 14337
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/06/19/n3/jo",
+          "text": "loi modifiée du 19 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/03/30/n1/jo",
+          "text": "loi modifiée du 30 mars 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_13",
+      "eli": "/art_13/20220801",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Co**llecte, saisie et contrôle des dossiers relatifs à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** L’accès aux renseignements et la transmission des informations et données énumérés à l’article 12 et nécessaires pour le traitement d’un dossier de demande de l’aide prend la forme d’un échange de données sur requête déclenchée par le système informatique ou par le biais d’une correspondance écrite sur initiative d’un gestionnaire du dossier.\n\nLe ministre peut autoriser l’accès aux données et informations visées à l’article 12 aux agents de son ministère, nommément désignés par lui, en fonction de leurs attributions.\n\n**(2)** Seules peuvent être consultées les données à caractère personnel ayant un lien direct avec la demande d’une subvention de loyer.\n\n**(3)** Le système informatique par lequel l’accès ou le traitement des données à caractère personnel sont opérés est aménagé de la manière suivante :\n\n1. L’accès aux renseignements est sécurisé moyennant une authentification forte ;\n2. Tout traitement des données reprises dans les banques et fichiers de données à caractère personnel gérés par le ministre ou des renseignements auxquels le ministre a accès, ainsi que toute consultation de ces données, ne peut avoir lieu que pour un motif précis ;\n3. La date et l’heure de tout traitement ou consultation, le lien par rapport à un dossier en cours ainsi que l’identité de la personne qui y a procédé peuvent être retracées dans le système informatique mis en place ;\n4. Les données de journalisation sont conservées pendant un délai de trois ans à partir de leur enregistrement, délai après lequel elles sont effacées.",
+      "text_sha256": "733e0c7a25c10c79cf168d942dc0b520fb819eb966918de68e1e5f70eeeb9388",
+      "md_span": {
+        "start": 14374,
+        "end": 15915
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_14",
+      "eli": "/art_14/20220801",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Co**llecte, saisie et contrôle des dossiers relatifs à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Les dossiers peuvent faire l’objet d’un réexamen à tout moment.\n\nSi lors du réexamen, il est constaté qu’une ou plusieurs conditions pour l’obtention d’une subvention de loyer n’ont pas été respectées par le bénéficiaire, l’aide indûment touchée est à restituer, avec effet rétroactif, par le bénéficiaire à la trésorerie de l’État. En cas de pluralité de bénéficiaires, l’aide à restituer est répartie à parts égales entre ceux-ci.\n\n**(2)** Le dossier est réexaminé d’office tous les douze mois à compter de la date d’octroi de l’aide. Si les conditions sont remplies pour une continuation de l’aide, le montant de la subvention de loyer est réévalué sur base des nouveaux paramètres. L’aide réévaluée est accordée à partir du mois du réexamen.\n\nEn cas de constat d’un montant indûment touché de l’aide, une décision de remboursement est notifiée au bénéficiaire. Celui-ci obtient un délai d’un an pour rembourser le montant demandé, sous peine d’un arrêt de l’aide. Tant que le bénéficiaire d’une subvention de loyer n’a pas remboursé l’aide indûment touchée, toute demande de subvention de loyer pour un nouveau logement est rejetée de plein droit.\n\nEn cas de décision de remboursement d’une subvention de loyer, le ministre peut, sur demande écrite et motivée du bénéficiaire de l’aide concernée, accorder un remboursement échelonné en tenant compte des moyens financiers et de la composition de la communauté domestique du bénéficiaire concerné. Le non-remboursement de l’aide aux termes fixés par le ministre entraîne le rejet de toute nouvelle demande en obtention d’une subvention de loyer tant que le bénéficiaire de l’aide n’a pas remboursé l’aide indûment touchée.\n\n**(3)** Toute décision d’octroi d’une subvention de loyer est susceptible d’un réexamen sur demande du bénéficiaire. Si les données du dossier justifient l’allocation de l’aide ou l’augmentation du taux de l’aide déjà allouée, cette aide est accordée à partir de la date de la demande en réexamen.\n\n**(4)** Le ministre peut procéder ou faire procéder à des contrôles :\n\n1. pour vérifier si les conditions pour l’octroi d’une aide sont remplies ;\n2. pour vérifier en cas de doute l’exactitude et l’authenticité des données et des pièces fournies par les demandeurs et les bénéficiaires d’une subvention de loyer ;\n3. lorsqu’il existe des présomptions de fraude.",
+      "text_sha256": "ab38dba375afb8a80809ef8bbbfa4301f31eadc5528378b80db43f0efecb8666",
+      "md_span": {
+        "start": 15952,
+        "end": 18297
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_15",
+      "eli": "/art_15/20220801",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Co**llecte, saisie et contrôle des dossiers relatifs à la subvention de loyer"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "En cas de doute quant au respect des conditions d’octroi d’une subvention de loyer, les agents sous l’autorité du ministre peuvent, dans l’exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au logement pour lequel cette aide est demandée, qu’il s’agisse du domicile du demandeur ou du bénéficiaire de l’aide, afin de procéder à tous les examens ou contrôles nécessaires. Les visites du logement ont lieu entre huit heures et dix-huit heures. Les demandeurs ou bénéficiaires concernés sont avertis préalablement de la date du contrôle.\n\nEn cas de refus d’accès au logement, le traitement du dossier de demande d’une subvention de loyer ou le paiement de cette aide est suspendu jusqu’à ce que le demandeur ou bénéficiaire de l’aide ait fourni au ministre tous renseignements et documents nécessaires à l’instruction, à la gestion et au suivi de son dossier d’aide.",
+      "text_sha256": "5c989b033c27623c7f3a410f40fb2d587d51e93ef79c780de178b9647a764861",
+      "md_span": {
+        "start": 18334,
+        "end": 19238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_16",
+      "eli": "/art_16/20220801",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions abrogatoires et transitoires"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Les articles 14*quinquies* à 14s*epties* de la loi modifiée du 25 février 1979 concernant l’aide au logement sont abrogés.",
+      "text_sha256": "1d7bb2694189d209acd7ef67165d17f3084dc18a80282f94ad59b65acaea6b80",
+      "md_span": {
+        "start": 19334,
+        "end": 19456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_17",
+      "eli": "/art_17/20220801",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions abrogatoires et transitoires"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Les personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu minimum garanti en vertu des dispositions abrogées de l’article 5, paragraphe 5, de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière ou familiale entraînant la perte de leur droit au revenu prévu à l’article 5 de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.\n\nLes personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu pour personnes gravement handicapées en vertu des dispositions abrogées de l’article 25, alinéas 3 et 4, de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière entraînant la perte de leur droit au revenu prévu à l’article 25 de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées.\n\nLes majorations visées aux alinéas 1er et 2 ne peuvent pas être cumulées avec la subvention de loyer prévue par la présente loi.",
+      "text_sha256": "73031ffbfed6e93f678a90eb699ab2b012c503f4aba8e9e0b85229861546db7c",
+      "md_span": {
+        "start": 19493,
+        "end": 20747
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/04/29/n11/jo",
+          "text": "loi modifiée du 29 avril 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi modifiée du 12 septembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#art_18",
+      "eli": "/art_18/20220801",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions abrogatoires et transitoires"
+      ],
+      "article_valid_from": "2022-08-01",
+      "text_md": "La présente loi entre en vigueur le 1er août 2022.",
+      "text_sha256": "6608a00ec7b3ac8d6bba8179f693fc458031cbef6c2910812ec3512619f547a9",
+      "md_span": {
+        "start": 20784,
+        "end": 20834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2022-07-22-a396:2022-08-01--06c84ceabfe855630d725e0b6f3c09848fe38cc86837eddded8048d3a3fb0776#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Formule de calcul :\n\nPour l’application de cette formule, l’on entend par :\n\n| **A** | Montant de la subvention de loyer |\n| --- | --- |\n| **R** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Montant maximal de la subvention de loyer (en fonction de la composition de la communauté domestique) |\n| **AI** | Montant minimal (forfaitaire) de la subvention de loyer |\n| **RI** | Plafond de revenu pour la subvention de loyer maximale |\n| **RS** | Plafond de revenu pour la subvention de loyer minimale (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |\n| --- | --- | --- | --- | --- |\n| **Montant maximal de la subvention de loyer** | **Montant minimal de la subvention de loyer** | **Plafond de revenu pour la subvention de loyer maximale** | **Plafond de revenu pour la subvention de loyer minimale** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |\n| **Personne seule ** | 200 € | 10 € | 3.310 | 4.467 |\n| **Communauté domestique sans enfant à charge** | 280 € | 10 € | 4.965 | 6.858 |\n| **Communauté domestique avec 1 enfant à charge** | 320 € | 10 € | 6.289 | 8.092 |\n| **Communauté domestique avec 2 enfants à charge** | 360 € | 10 € | 7.613 | 9.151 |\n| **Communauté domestique avec 3 enfants à charge** | 400 € | 10 € | 8.937 | 9.944 |\n| **+ par enfant à charge supplémentaire** | / | / | +993 | +1.108 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.",
+      "text_sha256": "76734274f4767a5374e69925c9bc57b001f3248626615c448b5f5aad81984ffe",
+      "md_span": {
+        "start": 20875,
+        "end": 22655
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

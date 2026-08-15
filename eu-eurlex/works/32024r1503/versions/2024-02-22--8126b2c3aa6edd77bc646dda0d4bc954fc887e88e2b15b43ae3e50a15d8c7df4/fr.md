@@ -1,0 +1,127 @@
+---
+lex_id: 'eu-eurlex:32024r1503:2024-02-22--8126b2c3aa6edd77bc646dda0d4bc954fc887e88e2b15b43ae3e50a15d8c7df4'
+title: 'Commission Delegated Regulation (EU) 2024/1503 of 22 February 2024 supplementing Regulation (EU) 2023/1114'
+valid_from: '2024-02-22'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1503'
+source_sha256: '41e5c0e4c97190ef2d8d23feb07d25d24a2cda5affeb17b95735991cab27ec47'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. Chaque année, l’Autorité bancaire européenne (ABE) estime les coûts annuels globaux qu’il est prévu qu’elle supporte dans le cadre de ses missions de surveillance. Le montant des coûts annuels globaux estimés sert de base pour déterminer le montant global des frais de surveillance facturés.
+
+2. Les frais facturés aux émetteurs de jetons se référant à un ou des actifs (ci-après «ART») d’importance significative et aux émetteurs de jetons de monnaie électronique (ci-après «EMT») d’importance significative sont établis conformément au principe du recouvrement intégral des coûts et selon un modèle de gestion par activité élaboré par l’ABE.
+
+3. Pour estimer les coûts annuels globaux, l’ABE tient compte des coûts directs et indirects suivants:
+
+| a) | toutes les dépenses directes et indirectes, estimées annuellement, qui sont nécessaires aux tâches de surveillance des émetteurs d’ART d’importance significative et des émetteurs d’EMT d’importance significative effectuées par l’ABE, y compris les ressources en personnel participant directement auxdites tâches et les coûts des services horizontaux, tels que le soutien opérationnel et administratif fourni à ce personnel; |
+| --- | --- |
+
+| b) | les dépenses, estimées annuellement, qui sont nécessaires au remboursement des coûts directs et indirects supportés par les autorités compétentes auxquelles l’ABE a délégué, en vertu de l’article 138, paragraphe 1, du règlement (UE) 2023/1114, des tâches de surveillance d’émetteurs d’ART d’importance significative et d’émetteurs d’EMT d’importance significative, y compris les ressources en personnel des autorités compétentes participant directement aux tâches de surveillance déléguées et les coûts des services horizontaux, tels que le soutien opérationnel et administratif fourni à ce personnel. |
+| --- | --- |
+
+4. Les frais facturés aux émetteurs d’ART d’importance significative et aux émetteurs d’EMT d’importance significative couvrent les dépenses suivantes de personnel, d’infrastructure et de fonctionnement:
+
+| a) | les dépenses supportées par l’ABE dans le cadre de l’exécution de ses tâches de surveillance des émetteurs d’ART d’importance significative et des émetteurs d’EMT d’importance significative conformément au règlement (UE) 2023/1114, telles que:—la désignation des ART et des EMT comme étant d’importance significative au sens des articles 43 et 56 du règlement (UE) 2023/1114, y compris les coûts liés à la collecte et à l’analyse des données, et au dialogue avec l’émetteur, les autorités compétentes, les banques centrales et les autres autorités concernées,—le classement sur une base volontaire des ART et des EMT comme étant d’importance significative, conformément aux articles 44 et 57 du règlement (UE) 2023/1114, y compris tous les coûts appartenant à un type de coûts visé dans le processus de classement,—la surveillance prévue à l’article 117 du règlement (UE) 2023/1114, y compris la création et le fonctionnement du comité des crypto-actifs de l’ABE prévu à l’article 118 du règlement (UE) 2023/1114, et l’exercice de tous les pouvoirs et compétences prévus au titre VII, chapitre 5, du règlement (UE) 2023/1114,—l’établissement et le fonctionnement des collèges d’autorités de surveillance prévus à l’article 119 du règlement (UE) 2023/1114, y compris pour les EMT d’importance significative émis par des établissements de crédit; |
+| --- | --- |
+| — | la désignation des ART et des EMT comme étant d’importance significative au sens des articles 43 et 56 du règlement (UE) 2023/1114, y compris les coûts liés à la collecte et à l’analyse des données, et au dialogue avec l’émetteur, les autorités compétentes, les banques centrales et les autres autorités concernées, |
+| — | le classement sur une base volontaire des ART et des EMT comme étant d’importance significative, conformément aux articles 44 et 57 du règlement (UE) 2023/1114, y compris tous les coûts appartenant à un type de coûts visé dans le processus de classement, |
+| — | la surveillance prévue à l’article 117 du règlement (UE) 2023/1114, y compris la création et le fonctionnement du comité des crypto-actifs de l’ABE prévu à l’article 118 du règlement (UE) 2023/1114, et l’exercice de tous les pouvoirs et compétences prévus au titre VII, chapitre 5, du règlement (UE) 2023/1114, |
+| — | l’établissement et le fonctionnement des collèges d’autorités de surveillance prévus à l’article 119 du règlement (UE) 2023/1114, y compris pour les EMT d’importance significative émis par des établissements de crédit; |
+
+| b) | le remboursement des autorités compétentes qui ont effectué des travaux en vertu du règlement (UE) 2023/1114 à la suite d’une délégation de tâches en vertu de l’article 138 du règlement (UE) 2023/1114. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. Les frais de surveillance annuels pour un émetteur donné d’ART d’importance significative sont calculés comme suit:
+
+| a) | les dépenses liées à la surveillance des émetteurs d’ART et d’EMT d’importance significative au titre du règlement (UE) 2023/1114, telles qu’elles figurent dans le budget de l’ABE pour l’année en question; |
+| --- | --- |
+
+| b) | les coûts visés au point a) imputés aux émetteurs d’ART d’importance significative sont répartis entre tous les émetteurs d’ART d’importance significative de la manière suivante: |
+| --- | --- |
+
+| c) | le cas échéant, les dépenses directement imputables à des émetteurs individuels d’ART d’importance significative seront ajoutées aux frais de surveillance annuels de ces émetteurs d’ART d’importance significative. |
+| --- | --- |
+
+2. Les frais de surveillance annuels pour un émetteur donné d’EMT d’importance significative sont calculés comme suit:
+
+| a) | les dépenses liées au personnel et les dépenses administratives, les coûts liés aux tâches de surveillance effectuées par les autorités compétentes en vertu de l’article 138 du règlement (UE) 2023/1114, ainsi que les coûts liés au développement et à la maintenance informatiques pour la surveillance par l’ABE imputés, respectivement, aux émetteurs d’ART d’importance significative et aux émetteurs d’EMT d’importance significative; |
+| --- | --- |
+
+| b) | les coûts visés au point a) affectés aux émetteurs d’EMT d’importance significative sont ensuite répartis entre tous les émetteurs d’EMT d’importance significative de la manière suivante: |
+| --- | --- |
+
+| c) | le cas échéant, les dépenses directement imputables à des émetteurs individuels d’EMT d’importance significative seront ajoutées aux frais de surveillance annuels de ces émetteurs d’EMT d’importance significative. |
+| --- | --- |
+
+3. Pour le calcul de la taille de la réserve d’actifs des émetteurs d’ART d’importance significative, l’ABE utilise les données du dernier audit indépendant disponible de la réserve d’actifs, tel que prévu à l’article 36, paragraphe 9, du règlement (UE) 2023/1114.
+
+4. Pour le calcul du volume d’émission des émetteurs d’EMT d’importance significative, l’ABE utilise les données du dernier audit indépendant disponible, tel que prévu à l’article 58, du règlement (UE) 2023/1114.
+
+5. Si la réserve d’actifs déclarée pour des ART d’importance significative ou le volume d’émission d’EMT d’importance significative sont libellés dans une monnaie autre que l’euro, l’ABE les convertit en un montant en euros en utilisant le taux de change de référence moyen de l’euro applicable à la période au cours de laquelle ces valeurs ont été enregistrées. À cette fin, le taux de change de référence de l’euro utilisé est celui publié par la Banque centrale européenne.
+
+6. Par dérogation aux paragraphes 1, 2 et 3, les frais de la première année sont calculés selon la formule suivante en réduisant les frais de surveillance prévus aux paragraphes 1 et 2 au moyen d’un facteur égal au nombre de jours compris entre la date de prise d’effet du transfert de la surveillance et la fin de l’année, divisé par le nombre total de jours de l’année en question:
+
+Les frais de surveillance de la première année sont à payer par un émetteur d’ART d’importance significative ou un émetteur d’EMT d’importance significative après que l’ART ou l’EMT a été classé par l’ABE comme étant d’importance significative conformément à l’article 43, 44, 56 ou 57 du règlement (UE) 2023/1114, et dans un délai de 30 jours à compter de la date d’émission de la facture correspondante par l’ABE.
+
+Par dérogation au premier alinéa, lorsqu’un ART ou un EMT est classé comme étant d’importance significative conformément à l’article 43, 44, 56 ou 57 du règlement (UE) 2023/1114 au cours du mois de décembre, l’émetteur ne paie pas de frais de surveillance pour l’année civile en question.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+Les frais de surveillance annuels facturés aux émetteurs d’ART d’importance significative et aux émetteurs d’EMT d’importance significative sont fixés à un niveau permettant de couvrir l’intégralité du coût de la fourniture des services et d’éviter un déficit ou une accumulation significative d’excédents.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Les frais de surveillance annuels sont intégralement payés à l’ABE au plus tard le 31 mars de l’année civile pour laquelle ils sont dus.
+
+2. L’ABE envoie les factures aux émetteurs d’ART d’importance significative et aux émetteurs d’EMT d’importance significative au moins 30 jours avant l’échéance du paiement. Les frais de surveillance annuels sont payables en euros.
+
+3. Tout retard de paiement entraîne l’application d’intérêts de retard conformément à l’article 99 du règlement (UE, Euratom) 2018/1046 du Parlement européen et du Conseil (2).
+
+4. Les communications entre l’ABE et les émetteurs d’ART d’importance significative ou les émetteurs d’EMT d’importance significative s’effectuent par voie électronique.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. En cas de délégation de tâches par l’ABE à des autorités compétentes conformément à l’article 138 du règlement (UE) 2023/1114, seule l’ABE facture des frais aux émetteurs d’ART d’importance significative et aux émetteurs d’EMT d’importance significative pour les coûts supportés dans le cadre de l’exécution de ces tâches.
+
+2. L’ABE rembourse aux autorités compétentes, pour les coûts estimés que ces dernières ont supportés par suite de l’exécution de tâches en vertu du règlement (UE) 2023/1114, un montant remplissant les conditions suivantes:
+
+| a) | l’ABE et l’autorité compétente concernée ont convenu de ce montant avant la délégation des tâches; |
+| --- | --- |
+
+| b) | ce montant est inférieur ou égal au montant total des frais de surveillance annuels payés à l’ABE par les émetteurs concernés d’ART d’importance significative ou d’EMT d’importance significative. |
+| --- | --- |
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

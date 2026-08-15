@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e062:2016-06-07--d38bbad7f4c5832c006e6170d0d8ac642bfd3178a3ad3769e0af1ee27a63ff2c",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e062/versions/2016-06-07--d38bbad7f4c5832c006e6170d0d8ac642bfd3178a3ad3769e0af1ee27a63ff2c/fr.xml",
+    "sha256": "3f258942c6dc372e0d140e55eaefc8b8ed0f764b31801c2b8958f592cda9b9b6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E062"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e062:2016-06-07--d38bbad7f4c5832c006e6170d0d8ac642bfd3178a3ad3769e0af1ee27a63ff2c#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/71 Article 62 (ex-article 55 TCE) Les dispositions des articles 51 à 54 inclus sont applicables à la matière régie par le présent chapitre.",
+      "text_sha256": "34caee0c9917b19a5f38edc8735f3b52a205e9c156eeb5ddd3a8dd92abcb0ee4",
+      "md_span": {
+        "start": 713,
+        "end": 909
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2328:2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/2328 of 16\u00A0August 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-08-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2328/versions/2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f/en.xml",
+    "sha256": "2585b01dc371f7405a05a3473a710c45aecdfe2a895945cfd6906d4548df4263",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2328"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nLongevity risk, weather, natural disasters and future realised volatility shall be considered as exotic underlyings for the purposes of Article 325u(2), point (a), of Regulation (EU) No 575/2013.",
+      "text_sha256": "190056f71a0edb1e48a1b6123999cbfd054d23ac299748d1fffb31c1f9d57d35",
+      "md_span": {
+        "start": 717,
+        "end": 923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe instruments listed in the Annex to this Regulation shall be considered as instruments meeting the conditions set out in Article 325u(2) of Regulation (EU) No 575/2013 and constituting instruments bearing residual risks.",
+      "text_sha256": "db86ec80225a6e217949f91ef88c1d9cfdd28474441820aa704ad256d4617445",
+      "md_span": {
+        "start": 956,
+        "end": 1190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAn instrument shall not be considered as meeting the conditions set out in Article 325u(2), points (b)(i) and (ii) of Regulation (EU) No 575/2013 solely on the grounds that it bears one or more of the following risks:\n\n| (a) | risk arising from transactions where the delivery obligation can be fulfilled within a range of deliverable instruments and where the counterparty has the possibility to deliver the least valuable of those instruments; |\n| --- | --- |\n\n| (b) | risk of a change in the implied volatility of an instrument with optionality, relative to the implied volatility of other instruments with optionality with the same underlying and maturity, but different moneyness; |\n| --- | --- |\n\n| (c) | correlation risk arising from an index option, where the index meets the conditions set out in Article 325i(3) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (d) | correlation risk arising from an option in a collective investment undertaking tracking an index benchmark, where the tracking meets the conditions set out in Article 325j(2) of Regulation (EU) No 575/2013 and the index meets the conditions set out in Article 325i(3) of that Regulation; |\n| --- | --- |\n\n| (e) | dividend risk arising from a derivative instrument whose underlying does not consist solely of dividend payments. |\n| --- | --- |",
+      "text_sha256": "96a11a07b30463c43e164cb0c3088ddbf3718a6ec817078b6374fddcb839b67a",
+      "md_span": {
+        "start": 1223,
+        "end": 2555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16--8aa27a439d33b518127f4945c0454f5230074984e7af77f2705cc4fa64d8119f#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 2588,
+        "end": 2739
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022l2523r(01):2023-01-16--1af4ad1a531763c3e9d8b38ab40cf898361d5bdab80c85f411d289da56a31adc",
+  "language": "fr",
+  "title": "Corrigendum to Council Directive (EU) 2022/2523 of 15\u00A0December 2022 on ensuring a global m…",
+  "valid_from": "2023-01-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022l2523r(01)/versions/2023-01-16--1af4ad1a531763c3e9d8b38ab40cf898361d5bdab80c85f411d289da56a31adc/fr.xml",
+    "sha256": "9addbc03219e0f4093904085fc4c10e71c4f01d456de6b40506142effe0cf62f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32022l2523r(01):2023-01-16--1af4ad1a531763c3e9d8b38ab40cf898361d5bdab80c85f411d289da56a31adc#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "16.1.2023 FR Journal officiel de l’Union européenne L 13/9 Rectificatif à la directive (UE) 2022/2523 du Conseil du 14 décembre 2022 visant à assurer un niveau minimum d’imposition mondial pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure dans l’Union ( «Journal officiel de l’Union européenne» L 328 du 22 décembre 2022 ) Sommaire et pages 1 et 58, la date d’adoption (titre et formule finale) de la décision: au lieu de: « 14 décembre 2022 », lire: « 15 décembre 2022 ».",
+      "text_sha256": "68f177be2ab1fdf349ada4c9613e832fb88146dbcbb1d53b20e51ca4a5ec419c",
+      "md_span": {
+        "start": 729,
+        "end": 1243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

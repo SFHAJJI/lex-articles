@@ -1,0 +1,58 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1984-02-15-n3:2024-04-21--8c74bc41f299fc20e6d6cbde6cf053ba537339562ae19c502fe37e2772b58857",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/04/2024 : Règlement grand-ducal du 15 février 1984 octroyant une dénomination particulière au cinquième lycée technique de Luxembourg.",
+  "valid_from": "2024-04-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1984-02-15-n3/versions/2024-04-21--8c74bc41f299fc20e6d6cbde6cf053ba537339562ae19c502fe37e2772b58857/fr.xml",
+    "sha256": "6a3c4cf0ba1aec332fe4c2f8f0dbd7e5b94619914585c1e5a52fac8b81f3cbda",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/02/15/n3/consolide/20240421/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1984-02-15-n3:2024-04-21--8c74bc41f299fc20e6d6cbde6cf053ba537339562ae19c502fe37e2772b58857#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/02/15/n3/art_1er/20240421",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-04-21",
+      "text_md": "Le cinquième lycée technique de Luxembourg prend la dénomination de « Bouneweger Lycée Luxembourg ».",
+      "text_sha256": "e818f59c38ab0fb2283280b922b36d8dc45e309fd7cc2f60722a14f38af53ae5",
+      "md_span": {
+        "start": 725,
+        "end": 825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1984-02-15-n3:2024-04-21--8c74bc41f299fc20e6d6cbde6cf053ba537339562ae19c502fe37e2772b58857#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/02/15/n3/art_2/19840314",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-14",
+      "text_md": "Notre Ministre de l'Education Nationale est chargé de l'exécution du présent règlement, qui sera publié au Mémorial.",
+      "text_sha256": "d9525a03d5cd3ea73b7182cdecb623eed94cb9a337b6766c99e4d10866163834",
+      "md_span": {
+        "start": 860,
+        "end": 976
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

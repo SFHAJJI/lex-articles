@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2402:2022-08-16--59308cc0bc834aa38bde580962e847e6d0c1c54dea2eb308fd978dafe1b0ee4c",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/2402 of 16\u00A0August 2022 correcting certain language versions of Delegated Regulation (EU) 2017/1018 supplementing Directive 2014/65/EU",
+  "valid_from": "2022-08-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2402/versions/2022-08-16--59308cc0bc834aa38bde580962e847e6d0c1c54dea2eb308fd978dafe1b0ee4c/fr.xml",
+    "sha256": "47bf7d2d58368cf9312e0a9ae5522787d0b567b158e2338e08bccb13d2a533e9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2402"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2402:2022-08-16--59308cc0bc834aa38bde580962e847e6d0c1c54dea2eb308fd978dafe1b0ee4c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n(Ne concerne pas la version française.)",
+      "text_sha256": "b9a9b410f73ec0d98d871af3a9243e012649d48510c0f84c615ce6532b51ba2a",
+      "md_span": {
+        "start": 786,
+        "end": 842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2402:2022-08-16--59308cc0bc834aa38bde580962e847e6d0c1c54dea2eb308fd978dafe1b0ee4c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 875,
+        "end": 1016
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

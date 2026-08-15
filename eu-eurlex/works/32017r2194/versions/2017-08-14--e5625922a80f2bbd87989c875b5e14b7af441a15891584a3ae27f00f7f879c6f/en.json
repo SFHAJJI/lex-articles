@@ -1,0 +1,142 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/2194 of 14 August 2017 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2017-08-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2194/versions/2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f/en.xml",
+    "sha256": "f5849cb4eb2f56821af9e8760502e274541e9240eb582fe402b9a9b5eb8b63b7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2194"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThere shall be a liquid market for a package order as a whole where either of the following conditions is satisfied:\n\n| (a) | the package order consists of no more than four components that belong to classes of derivative that have been declared subject to the trading obligation for derivatives in accordance with the procedure described in Article 32 of Regulation (EU) No 600/2014, unless one of the following applies:(i)all the components of the package order are large in scale compared to normal market size;(ii)the components of the package order do not exclusively belong to one of the asset classes as referred to Annex III to Commission Delegated Regulation (EU) 2017/583 (3); |\n| --- | --- |\n| (i) | all the components of the package order are large in scale compared to normal market size; |\n| (ii) | the components of the package order do not exclusively belong to one of the asset classes as referred to Annex III to Commission Delegated Regulation (EU) 2017/583 (3); |\n\n| (b) | the package order meets all of the following conditions:(i)all components of the package order are available for trading on the same trading venue;(ii)all components of the package order are subject to the clearing obligation in accordance with Article 5 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (4) or the clearing obligation in accordance with Article 29(1) of Regulation (EU) No 600/2014;(iii)at least one of the components of the package order has a liquid market or is not large in scale compared to normal market size;(iv)the package order meets the criteria applicable to the relevant asset class and laid down in Articles 2, 3, 4 or 5. |\n| --- | --- |\n| (i) | all components of the package order are available for trading on the same trading venue; |\n| (ii) | all components of the package order are subject to the clearing obligation in accordance with Article 5 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (4) or the clearing obligation in accordance with Article 29(1) of Regulation (EU) No 600/2014; |\n| (iii) | at least one of the components of the package order has a liquid market or is not large in scale compared to normal market size; |\n| (iv) | the package order meets the criteria applicable to the relevant asset class and laid down in Articles 2, 3, 4 or 5. |",
+      "text_sha256": "4cb0e0b3c4ba3e0447ca527fd937cfa478add1407b9953a85fc6a7c29275d275",
+      "md_span": {
+        "start": 717,
+        "end": 3071
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017312EN.01000101-E0003",
+          "text": "(3)"
+        },
+        {
+          "href": "#ntr4-L_2017312EN.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe asset-class specific criteria referred to in Article 1(b)(iv) for package orders consisting exclusively of interest rates derivatives as referred to in Section 5 of Annex III to Delegated Regulation (EU) 2017/583 shall be the following:\n\n| (a) | the package order has no more than three components; |\n| --- | --- |\n\n| (b) | all components of the package order belong to the same sub-asset class as referred to in in Section 5 of Annex III to Delegated Regulation (EU) 2017/583; |\n| --- | --- |\n\n| (c) | all components of the package order are denominated in the same notional currency of either EUR, USD or GBP; |\n| --- | --- |\n\n| (d) | where the package order consists of interest rate swaps, the components of that package order have a tenor of 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20 or 30 years; |\n| --- | --- |\n\n| (e) | where the package order consists of interest rate future components, those components are either of the following:(i)contracts with a maturity not exceeding 6 months for interest rate futures based on 3 months interest rate;(ii)contracts with the expiration date closest to the current date for interest rate futures based on 2, 5 and 10 year interest rates; |\n| --- | --- |\n| (i) | contracts with a maturity not exceeding 6 months for interest rate futures based on 3 months interest rate; |\n| (ii) | contracts with the expiration date closest to the current date for interest rate futures based on 2, 5 and 10 year interest rates; |\n\n| (f) | where the package order consists of bond futures, the package order replaces a position in a contract that is nearest to expiry with a position in a contract with the same underlying expiring at the next maturity date. |\n| --- | --- |\n\nFor the purpose of point (d), a component of a package order shall be deemed to have a tenor of 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20 or 30 years where the period of time between the effective date of the contract and the termination date of the contract equals one of the time periods mentioned in point (d), plus or minus 5 days.",
+      "text_sha256": "31145f078f61a2f94f37c48d0929cb58b53050694e11de1e31127f258bb6c548",
+      "md_span": {
+        "start": 3104,
+        "end": 5155
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe asset-class specific criteria referred to in Article 1(b)(iv) for package orders consisting exclusively of equity derivatives, as referred to in Section 6 of Annex III to Delegated Regulation (EU) 2017/583, shall be the following:\n\n| (a) | the package order has no more than two components; |\n| --- | --- |\n\n| (b) | all components of the package order belong to the same sub-asset class as referred to in Section 6 of Annex III to Delegated Regulation (EU) 2017/583; |\n| --- | --- |\n\n| (c) | all components of the package order are denominated in the same notional currency of either EUR, USD or GBP; |\n| --- | --- |\n\n| (d) | all components of the package order have the same underlying index; |\n| --- | --- |\n\n| (e) | the expiry date of all components of the package order does not exceed 6 months; |\n| --- | --- |\n\n| (f) | where the package order contains options, all options have the same expiry date. |\n| --- | --- |",
+      "text_sha256": "fed69c3f48f1f143cf2f2c5d1579f169318cd585924b931d56df63b72abfe7de",
+      "md_span": {
+        "start": 5188,
+        "end": 6124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe asset-class specific criteria referred to in Article 1(b)(iv) for package orders consisting exclusively of credit derivatives as referred to in in Section 9 of Annex III to Delegated Regulation (EU) 2017/583 shall be the following:\n\n| (a) | the package order has no more than two components; |\n| --- | --- |\n\n| (b) | all components of the package order are index credit default swaps as referred to in Section 9 of Annex III to Delegated Regulation (EU) 2017/583; |\n| --- | --- |\n\n| (c) | all components of the package order are denominated in the same notional currency of either EUR or USD; |\n| --- | --- |\n\n| (d) | all components of the package order have the same underlying index; |\n| --- | --- |\n\n| (e) | all components of the package order have a tenor of 5 years; |\n| --- | --- |\n\n| (f) | the package order replaces a position in a next-to-recent version of an index series (latest off-the-run) with a position in the most recent version (on-the-run). |\n| --- | --- |",
+      "text_sha256": "4d777f515abd9fe94d332e7196ff4af4b0b056a31321a8e597295b0961a471f9",
+      "md_span": {
+        "start": 6157,
+        "end": 7147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThe asset-class specific criteria referred to in Article 1(b)(iv) for package orders consisting exclusively of commodity derivative as referred to in Section 7 of Annex III to Delegated Regulation (EU) 2017/583 shall be the following:\n\n| (a) | the package order has no more than two components; |\n| --- | --- |\n\n| (b) | all components of the package order are commodity derivative futures as referred to in Section 7 of Annex III to Delegated Regulation (EU) 2017/583; |\n| --- | --- |\n\n| (c) | all components of the package order have the same underlying commodity defined at the most granular level as specified in Table 2 of the Annex to Commission Delegated Regulation (EU) 2017/585 (5); |\n| --- | --- |\n\n| (d) | all components of the package order are denominated in the same notional currency of either EUR, USD or GBP; |\n| --- | --- |\n\n| (e) | the package order replaces a position in a contract that is nearest to expiry with a position in a contract expiring at the next maturity date. |\n| --- | --- |",
+      "text_sha256": "2785b941bab3f6b713799b8b22758d52eb34ebe282b92174441e3073178722e8",
+      "md_span": {
+        "start": 7180,
+        "end": 8200
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2017312EN.01000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r2194:2017-08-14--e5625922a80f2bbd87989c875b5e14b7af441a15891584a3ae27f00f7f879c6f#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "f5818e539f383cbc3ac097165170f26d7fe7d46a627a2d81e60a78c873b28ca8",
+      "md_span": {
+        "start": 8233,
+        "end": 8421
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

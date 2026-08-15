@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2023/960 of 1\u00A0February 2023 amending the regulatory t…",
+  "valid_from": "2023-02-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r0960/versions/2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902/fr.xml",
+    "sha256": "f7d32d2df44619ec81be992f5d25f96cce69711f15fd033a7bb03aa0bfcdf331",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R0960"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’article 3 du règlement délégué (UE) 2017/588, le paragraphe 4 est remplacé par le texte suivant:\n\n«4. Les plateformes de négociation appliquent les pas de cotation de la tranche de liquidité correspondant au nombre quotidien moyen de transactions publié conformément au paragraphe 1 à compter du premier lundi d’avril suivant cette publication.».",
+      "text_sha256": "7230c8fc95c41d54bc934f99b07f345f37e983a0315ce2fac2b03bcdb2c3586b",
+      "md_span": {
+        "start": 702,
+        "end": 1069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1102,
+        "end": 1243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

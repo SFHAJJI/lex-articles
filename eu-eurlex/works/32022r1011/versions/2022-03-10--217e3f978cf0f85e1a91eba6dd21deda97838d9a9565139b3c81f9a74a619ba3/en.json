@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/1011 of 10\u00A0March 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1011/versions/2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3/en.xml",
+    "sha256": "c6e27c0906bfee51a7f37491ea526d0172e0e405b9d02ab67b302ee0311abd10",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1011"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Institutions shall calculate the indirect exposure value to a client arising from derivative contracts listed in Annex II to Regulation (EU) No 575/2013 and credit derivative contracts, where the derivative contracts were not directly entered into with that client but the underlying debt or equity instrument was issued by that client, in accordance with the methodology set out in Articles 2 to 5 of this Regulation.\n\n2. By way of derogation from paragraph 1, where the underlying instruments are included in a debt, equity or credit default swap index or a collective investment undertaking, or where the derivative contracts have multiple underlying reference names, institutions shall calculate the indirect exposure values to a client arising from the derivative contracts referred to in paragraph 1 and the contribution of that exposure to the exposure to a client in accordance with the methodology set out in Article 6.\n\n3. Where the derivative and credit derivative contracts referred to in paragraph 1 are allocated to the trading book, following the calculation of the indirect exposure values to a client arising from those contracts, institutions shall include those exposure values into the exposures to that client in the trading book. After aggregation, negative net exposures to the client shall be set to zero.\n\n4. By way of derogation from paragraphs 1 and 2, where the derivative and credit derivative contracts referred to in paragraph 1 are allocated to the non-trading book and where, following the calculation of the indirect exposure values to a client arising from those contracts, the indirect exposures have a negative value, institutions shall set to zero those exposure values before counting them towards the exposures to that client.",
+      "text_sha256": "ada43dcd0f822b8c3a91e90c612e61ee5354b8ad4ad622569f76f48326be556c",
+      "md_span": {
+        "start": 716,
+        "end": 2496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nInstitutions shall allocate the indirect exposures referred to in Article 1(1) to one of the following categories of derivative contracts:\n\n| (a) | options on debt and equity instruments; |\n| --- | --- |\n\n| (b) | credit derivative contracts; |\n| --- | --- |\n\n| (c) | all other derivative contracts listed in Annex II of Regulation (EU) No 575/2013 having as an underlying asset a debt or equity instrument and which are not included in the categories referred to in points (a) or (b) of this paragraph. |\n| --- | --- |",
+      "text_sha256": "436c95b7f894b5c42c9b2dddd8cc293e35a2aebf183c46061e9ede4cbceacfe6",
+      "md_span": {
+        "start": 2529,
+        "end": 3058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Subject to paragraphs 2, 3 and 4 of this Article, institutions shall calculate the indirect exposure value for options referred to in Article 2, point (a), as the sum of the current market value of the option and the amount owed to the counterparty of the option as a result of a potential default of the issuer of the underlying instrument reduced by the amount owed to the institution by that counterparty in that event.\n\n2. For call options, the indirect exposure value shall be equal to the market value of the option. For a long position in a call option, the indirect exposure value shall be positive while for a short position in a call option, the indirect exposure value shall be negative.\n\n3. For put options, the indirect exposure value shall be equal to the difference between the market value of the option and its strike price. For a short position in a put option, the indirect exposure value shall be positive while for a long position in a put option, the indirect exposure value shall be negative.\n\n4. By way of derogation from paragraph 3, for put options that do not have a strike price available at transaction date, but at a later stage, institutions shall use the expected modelled strike price used for the calculation of the fair value of the option.\n\n5. Where the market value of the option is not available on a given date, institutions shall take the fair value of the option on that date. Where neither the market value nor the fair value of an option are available on a given date, institutions shall take the most recent of the market value or the fair value. Where neither the market value nor the fair value of an option are available at any date, institutions shall take the value at which the option is measured in accordance with the applicable accounting framework.",
+      "text_sha256": "077d0eca13ee6c29082a250bf24df5fb6a23353b14fd88d35a0f864dda70790e",
+      "md_span": {
+        "start": 3091,
+        "end": 4907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The indirect exposure value to a client arising from credit derivative contracts referred to in Article 2, point (b), shall be equal to the sum of the current market value of the credit derivative contract and the amount owed to the counterparty of the credit derivative contract as a result of a potential default of the issuer of the underlying instrument reduced by the amount owed to the institution by that counterparty in that event.\n\n2. Where the market value of the credit derivative is not available on a given date, institutions shall take the fair value of the credit derivative on that date. Where neither the market value, nor the fair value of the credit derivative are available on a given date, institutions shall take the most recent of the market value or the fair value. Where neither the market value, nor the fair value of a credit derivative contract is available at any date, institutions shall take the value at which the credit derivative contract is measured in accordance with the applicable accounting framework.",
+      "text_sha256": "2eb8beec9b2bd056722e6a58b1bb3c8995e69437a884bbe9a76487b66f1c20fc",
+      "md_span": {
+        "start": 4940,
+        "end": 5994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. When calculating the indirect exposure value to a client arising from other derivative contracts referred to in Article 2, point (c), including swaps, futures or forwards, institutions shall decompose their multiple transaction legs into individual transaction legs.\n\n2. For the transaction legs referred to in paragraph 1 entailing default risk of the issuer of the underlying instrument, institutions shall calculate their indirect exposure value as if they were positions in those legs.\n\n3. Where an institution is not able to apply the treatment provided for in paragraphs 1 and 2, it shall determine the indirect exposure value toward the issuer of the underlying instruments as the maximum loss that the institution would incur from a potential default of the issuer of the underlying instruments to which the derivative contract refers.",
+      "text_sha256": "cdd2207b9379b6fc8980451d01ac634078cdf1a50de548fdacb44e42a2dc8bb6",
+      "md_span": {
+        "start": 6027,
+        "end": 6884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. When determining the indirect exposure value to a client arising from derivative contracts written on debt, equity or credit default swap indices or collective investment undertaking, or with multi-underlying reference names, institutions shall look through to all the individual underlying instruments and calculate the indirect exposure values as the variation in the price of the derivative contract in the case of default of each of the underlying reference names. Institutions shall assign each indirect exposure value either to an identified client, a separate client or the unknown client, as laid down in Article 6(1) and (2) of Delegated Regulation (EU) No 1187/2014.\n\n2. Where an institution is not able to look through to all the individual underlying instruments of the derivative contract as provided for in paragraph 1 or where it would be unduly burdensome for the institution to do so, it shall:\n\n| (a) | look through to those individual underlying instruments where the institution is able to do so or where it would not be unduly burdensome for the institution to do so and calculate the indirect exposure value in accordance with paragraph 1; |\n| --- | --- |\n\n| (b) | for those underlying instruments where the institution is not able to look through or where it would be unduly burdensome for an institution to do so, calculate the indirect exposure value by looking at the variation of the price of the derivative contract in the case of default of all those underlying reference names. |\n| --- | --- |\n\nThe indirect exposure value referred to in point (b) of the first subparagraph of this paragraph shall be assigned either to the derivative transaction as a separate client or to the unknown client, as laid down in Article 6(3) of Delegated Regulation (EU) No 1187/2014.\n\n3. By way of derogation from paragraphs 1 and 2 of this Article, where the indirect exposure values are to be assigned to the unknown client, as laid down in Article 6(2) and (3) of Commission Delegated Regulation (EU) No 1187/2014, and where the indirect exposure values are negative, the institution shall set to zero those indirect exposure values before counting them towards the exposures to the unknown client.",
+      "text_sha256": "50c98d06ba9532b32c478cdea54237669250d0b59ca4a2f5ddc945e9656ee3aa",
+      "md_span": {
+        "start": 6917,
+        "end": 9144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r1011:2022-03-10--217e3f978cf0f85e1a91eba6dd21deda97838d9a9565139b3c81f9a74a619ba3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 9177,
+        "end": 9328
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

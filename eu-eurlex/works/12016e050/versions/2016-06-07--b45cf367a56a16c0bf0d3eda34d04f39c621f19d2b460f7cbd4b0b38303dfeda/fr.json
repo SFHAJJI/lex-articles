@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e050:2016-06-07--b45cf367a56a16c0bf0d3eda34d04f39c621f19d2b460f7cbd4b0b38303dfeda",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e050/versions/2016-06-07--b45cf367a56a16c0bf0d3eda34d04f39c621f19d2b460f7cbd4b0b38303dfeda/fr.xml",
+    "sha256": "89b0b52759dd9d837e2aab525244f91213796ce30099986a4039b612e44e4016",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E050"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e050:2016-06-07--b45cf367a56a16c0bf0d3eda34d04f39c621f19d2b460f7cbd4b0b38303dfeda#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/68 Article 50 (ex-article 44 TCE) 1. Pour réaliser la liberté d'établissement dans une activité déterminée, le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire et après consultation du Comité économique et social, statuent par voie de directives. 2. Le Parlement européen, le Conseil et la Commission exercent les fonctions qui leur sont dévolues par les dispositions ci-dessus, notamment: a) en traitant, en général, par priorité des activités où la liberté d'établissement constitue une contribution particulièrement utile au développement de la production et des échanges, b) en assurant une collaboration étroite entre les administrations nationales compétentes en vue de connaître les situations particulières à l'intérieur de l'Union des diverses activités intéressées, c) en éliminant celles des procédures et pratiques administratives découlant soit de la législation interne, soit d'accords antérieurement conclus entre les États membres, dont le maintien ferait obstacle à la liberté d'établissement, d) en veillant à ce que les travailleurs salariés d'un des États membres, employés sur le territoire d'un autre État membre, puissent demeurer sur ce territoire pour y entreprendre une activité non salariée lorsqu'ils satisfont aux conditions auxquelles ils devraient satisfaire s'ils venaient dans cet État au moment où ils veulent accéder à cette activité, e) en rendant possibles l'acquisition et l'exploitation de propriétés foncières situées sur le territoire d'un État membre par un ressortissant d'un autre État membre, dans la mesure où il n'est pas porté atteinte aux principes établis à l'article 39, paragraphe 2, f) en appliquant la suppression progressive des restrictions à la liberté d'établissement, dans chaque branche d'activité considérée, d'une part, aux conditions de création, sur le territoire d'un État membre, d'agences, de succursales ou de filiales et, d'autre part, aux conditions d'entrée du personnel du principal établissement dans les organes de gestion ou de surveillance de celles-ci, g) en coordonnant, dans la mesure nécessaire et en vue de les rendre équivalentes, les garanties qui sont exigées, dans les États membres, des sociétés au sens de l'article 54, deuxième alinéa, pour protéger les intérêts tant des associés que des tiers, h) en s'assurant que les conditions d'établissement ne sont pas faussées par des aides accordées par les États membres.",
+      "text_sha256": "f5dba7f01c4ad1b903d9bae51da5f3b565fa021b406a441f6574a9d4be86be38",
+      "md_span": {
+        "start": 713,
+        "end": 3217
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

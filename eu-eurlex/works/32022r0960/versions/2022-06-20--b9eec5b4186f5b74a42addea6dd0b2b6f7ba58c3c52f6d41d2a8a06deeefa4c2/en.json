@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/960 of 20\u00A0June 2022 correcting the Czech language version of Implementing Regulation (EU) 2015/1502 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article\u00A08(3) of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2022-06-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0960/versions/2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2/en.xml",
+    "sha256": "ab308db5b9c4290fe976d2d554eb26698fe96f5a1eb2ff2237305daee184f8bb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0960"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n(Does not concern the English language.)",
+      "text_sha256": "1806085ab2270db4ed19300fd76750df550f893db63199f91dad4338802319b0",
+      "md_span": {
+        "start": 931,
+        "end": 982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0960:2022-06-20--b9eec5b4186f5b74a42addea6dd0b2b6f7ba58c3c52f6d41d2a8a06deeefa4c2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1015,
+        "end": 1166
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

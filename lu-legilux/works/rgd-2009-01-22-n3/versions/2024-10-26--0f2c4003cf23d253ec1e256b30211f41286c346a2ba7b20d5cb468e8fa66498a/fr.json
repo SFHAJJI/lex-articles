@@ -1,0 +1,166 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 26/10/2024 : Règlement grand-ducal du 22 janvier 2009 concernant la coopération interadministrative de l'Administration des Contributions Directes et de l'Administration de l'Enregistrement et des Domaines.",
+  "valid_from": "2024-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-01-22-n3/versions/2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a/fr.xml",
+    "sha256": "8a58046bbc0f9d28c15644c21b286ded6919d1a44ec1abd40f6d11b1406b332c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/consolide/20241026/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_1er/20090203",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Stockage et échange d’informations"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "L'Administration des Contributions Directes et l'Administration de l'Enregistrement et des Domaines disposent d'une base de données électronique commune dans laquelle elles stockent et traitent, sur base de critères non discriminatoires et objectifs, les informations susceptibles de leur permettre l'établissement correct et le recouvrement des impôts, droits, taxes et cotisations dont la perception leur est attribuée.",
+      "text_sha256": "edcf0123fb338df215890ef3fcd8af44f9f7632074853570e57a16a2ec908f71",
+      "md_span": {
+        "start": 849,
+        "end": 1270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_2/20090203",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Stockage et échange d’informations"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "Les préposés, les receveurs, les fonctionnaires attachés au Service de révision de l'Administration des Contributions Directes et au Service anti fraude de l'Administration de l'Enregistrement et des Domaines, les fonctionnaires chargés de l'inspection desdits services d'exécution, ainsi que les fonctionnaires en charge du dossier ont accès aux informations stockées dans cette base de données électronique commune.",
+      "text_sha256": "7e0de7bb10a88a14c61c822378d9db1d0278020e8fc06f2d9a64b37cdcea999c",
+      "md_span": {
+        "start": 1305,
+        "end": 1722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_3/20090203",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II — Echange sur demande"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "Les préposés et les receveurs ainsi que les fonctionnaires attachés au Service de révision de l'Administration des Contributions Directes et au Service anti fraude de l'Administration de l'Enregistrement et des Domaines sont autorisés à échanger, sur demande, les informations susceptibles de leur permettre l'établissement correct et le recouvrement des impôts, droits, taxes et cotisations dont la perception leur est attribuée, en ce qui concerne un dossier précis.",
+      "text_sha256": "bdd54cfa10bd587a7a8b1953d1b37c272a8eb65f501347ca029d13a8b3485c6e",
+      "md_span": {
+        "start": 1795,
+        "end": 2263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_4/20090203",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre III — Echanges spontanés"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "Les préposés et les receveurs ainsi que les fonctionnaires attachés au Service de révision de l'Administration des Contributions Directes et au Service anti fraude de l'Administration de l'Enregistrement et des Domaines échangent, sans demande préalable, les informations susceptibles de leur permettre l'établissement correct et le recouvrement des impôts, droits, taxes et cotisations dont la perception leur est attribuée, dans le cas où l'une des deux administrations fiscales a des raisons de présumer qu'il existe une réduction ou une exonération anormales d'impôts, de taxes ou de droits dont la perception est attribuée à l'autre administration.",
+      "text_sha256": "f762a506119a644f244388b2393193616370d7a2b7a17de31165e3f959c380e7",
+      "md_span": {
+        "start": 2336,
+        "end": 2989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4bis",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_4bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_4bis/20090203",
+      "type": "article",
+      "num": "Art. 4bis.",
+      "heading": null,
+      "path": [
+        "Chapitre III*bis* — Échange automatique"
+      ],
+      "article_valid_from": "2024-10-26",
+      "text_md": "L’Administration de l’enregistrement, des domaines et de la TVA transmet, de façon automatisée et par voie informatique, à l’Administration des contributions directes, les données relatives aux extraits de mutations immobilières aux fins de la détermination de l’impôt foncier, conformément aux dispositions de la loi modifiée du 1er décembre 1936 sur l’impôt foncier, et de l’établissement du revenu ou du bénéfice imposable résultant de mutations immobilières, conformément aux dispositions de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.",
+      "text_sha256": "7c0999254e2c9a25b8277c8a3ae5f36079df728facf6ae7fc1d39e701e01b75d",
+      "md_span": {
+        "start": 3074,
+        "end": 3638
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1936/12/01/n1/jo",
+          "text": "loi modifiée du 1er décembre 1936"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_5/20090203",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre IV — Contrôles simultanés et communs"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "Lorsque la situation d'un ou de plusieurs contribuables ou assujettis présente un intérêt commun ou complémentaire pour l'Administration des Contributions Directes et l'Administration de l'Enregistrement et des Domaines, l'administration requérante est autorisée à proposer à l'administration requise de procéder à des contrôles simultanés et communs. L'administration requérante informe l'administration requise des dossiers qui, selon elle, devraient faire l'objet de contrôles simultanés et communs. Elle motive son choix, dans la mesure du possible, en fournissant les renseignements qui ont mené à cette décision, et elle indique le délai dans lequel les contrôles devraient être réalisés.\n\nL'administration saisie d'une proposition de procéder à des contrôles simultanés et communs, décide si elle souhaite y participer. En cas de participation à des contrôles simultanés et communs, les deux administrations désignent un représentant chargé de diriger et de coordonner le contrôle.",
+      "text_sha256": "bce307ae35491fd321b05450201d900f089a9b6b5b11d9e40c667e55d61bc188",
+      "md_span": {
+        "start": 3723,
+        "end": 4711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-01-22-n3:2024-10-26--0f2c4003cf23d253ec1e256b30211f41286c346a2ba7b20d5cb468e8fa66498a#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/art_6/20090203",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre IV — Contrôles simultanés et communs"
+      ],
+      "article_valid_from": "2009-02-03",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+      "md_span": {
+        "start": 4746,
+        "end": 4849
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1801:2016-10-11--3a6d1836af2db4e30fc8e075bd6e1b21e1a857e847e18f0dbd7ea615a180a107",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1801 of 11 October 2016 on laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for securitisation in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2016-10-11",
+  "valid_to": "2022-12-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1801/versions/2016-10-11--3a6d1836af2db4e30fc8e075bd6e1b21e1a857e847e18f0dbd7ea615a180a107/fr.xml",
+    "sha256": "e7ea2370895cab47af7e6c3639a1d0dedfb89d379fb0311e3ef0c4fa8b3ce56b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1801"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1801:2016-10-11--3a6d1836af2db4e30fc8e075bd6e1b21e1a857e847e18f0dbd7ea615a180a107#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nLa correspondance entre les catégories de notation de chaque OEEC pour les positions de titrisation relevant de l'approche standard et les échelons de qualité du crédit selon l'approche standard figurant dans le tableau 1 de l'article 251 du règlement (UE) no 575/2013 est exposée à l'annexe I du présent règlement.",
+      "text_sha256": "848c2f1df97239ab4f517801c443740f864276da00fc10fa56315dbbcd809e3a",
+      "md_span": {
+        "start": 891,
+        "end": 1217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1801:2016-10-11--3a6d1836af2db4e30fc8e075bd6e1b21e1a857e847e18f0dbd7ea615a180a107#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa correspondance entre les catégories de notation de chaque OEEC pour les positions de titrisation relevant de la méthode fondée sur les notations et les échelons de qualité du crédit figurant dans le tableau 4 de l'article 261, paragraphe 1, du règlement (UE) no 575/2013 est exposée à l'annexe II du présent règlement.",
+      "text_sha256": "40dc06207ccdb9a0450b16ad3444afd6b0275ea837cd155dc43362ed39f3f97e",
+      "md_span": {
+        "start": 1250,
+        "end": 1582
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1801:2016-10-11--3a6d1836af2db4e30fc8e075bd6e1b21e1a857e847e18f0dbd7ea615a180a107#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7720039f9cc590ca2cf0e65e106be507dd1006b57b075fd095ec38f7220a4937",
+      "md_span": {
+        "start": 1615,
+        "end": 1756
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

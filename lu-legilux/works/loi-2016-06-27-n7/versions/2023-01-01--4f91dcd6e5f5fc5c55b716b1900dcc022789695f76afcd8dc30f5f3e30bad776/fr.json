@@ -1,0 +1,50 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-06-27-n7:2023-01-01--4f91dcd6e5f5fc5c55b716b1900dcc022789695f76afcd8dc30f5f3e30bad776",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2023 : Loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.",
+  "valid_from": "2023-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-06-27-n7/versions/2023-01-01--4f91dcd6e5f5fc5c55b716b1900dcc022789695f76afcd8dc30f5f3e30bad776/fr.xml",
+    "sha256": "b4e4a8bad15e53cc2235a5b6a5367ffc67d026462fcb4617703b69aa8a69bf6a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20230101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_",
+      "provision_id": "lu-legilux:loi-2016-06-27-n7:2023-01-01--4f91dcd6e5f5fc5c55b716b1900dcc022789695f76afcd8dc30f5f3e30bad776#art_",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales est abrogée par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales.\n\nToutefois, en vertu de l'article 120 de la loi précitée :\n\n1. l’article 76 relatif à la restitution des aides reste applicable aux aides allouées au titre de ladite loi ;\n2. le paiement des aides allouées au titre de ladite loi est opéré conformément aux conditions qu’elle prévoit ;\n3. loi modifiée du 27 juin 2016",
+      "text_sha256": "8a6f2f0f066a05002f63a9ac4af5b860af1553bc8862c6c45a60a4d9637daaac",
+      "md_span": {
+        "start": 678,
+        "end": 1186
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/jo",
+          "text": "loi du 27 juin 2016"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/02/a489/jo",
+          "text": "loi du 2 août 2023"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

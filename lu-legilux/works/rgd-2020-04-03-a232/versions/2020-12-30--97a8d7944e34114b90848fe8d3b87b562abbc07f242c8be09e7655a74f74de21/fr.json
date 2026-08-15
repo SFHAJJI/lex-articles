@@ -1,0 +1,80 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-04-03-a232:2020-12-30--97a8d7944e34114b90848fe8d3b87b562abbc07f242c8be09e7655a74f74de21",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/01/2022 : Règlement grand-ducal du 3 avril 2020 portant exécution des articles 5, 6 et 8 de la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.",
+  "valid_from": "2020-12-30",
+  "valid_to": "2021-02-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-04-03-a232/versions/2020-12-30--97a8d7944e34114b90848fe8d3b87b562abbc07f242c8be09e7655a74f74de21/fr.xml",
+    "sha256": "95a289f4a84ebb361bf8cfd11bd19a20ada65c490c7e114fc2274eb6f1034f1b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20201230/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a232:2020-12-30--97a8d7944e34114b90848fe8d3b87b562abbc07f242c8be09e7655a74f74de21#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/art_1er/20201230",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-30",
+      "text_md": "La crise sanitaire liée à la propagation du virus Covid-19 a un impact dommageable sur les activités tombant sous le champ d’application de la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique qui s’étend sur une période du 1er janvier 2021 au 28 février 2021.",
+      "text_sha256": "301d37ab8bd44194ef620e1de08ef6117b1e01aca5d49d6ac0894d11191aacc4",
+      "md_span": {
+        "start": 893,
+        "end": 1300
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n10/jo",
+          "text": "loi modifiée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a232:2020-12-30--97a8d7944e34114b90848fe8d3b87b562abbc07f242c8be09e7655a74f74de21#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/art_2/20200403",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 1335,
+        "end": 1448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a232:2020-12-30--97a8d7944e34114b90848fe8d3b87b562abbc07f242c8be09e7655a74f74de21#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/art_3/20200403",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Notre ministre ayant la Culture dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "b73e64b36e98c99b7e2b1814b2a91db6a2fb2d096be4bcafc3b9c12c5e3266ab",
+      "md_span": {
+        "start": 1483,
+        "end": 1649
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

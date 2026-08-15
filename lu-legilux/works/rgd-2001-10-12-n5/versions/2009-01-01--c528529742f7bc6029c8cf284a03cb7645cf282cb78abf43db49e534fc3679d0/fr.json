@@ -1,0 +1,343 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 12 octobre 2001 concernant les subventions d’intérêt aux fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes ayant contracté un prêt dans l’intérêt du logement.",
+  "valid_from": "2009-01-01",
+  "valid_to": "2011-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-10-12-n5/versions/2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0/fr.xml",
+    "sha256": "9a3c45327839967582785db57a87f374f6515f150eb9ca8fe3e28903a8166e91",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/consolide/20090101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_1er/20000101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Une subvention d’intérêt est allouée aux fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes en activité de service, à la condition d’avoir contracté un ou des prêts dans l’intérêt du logement.\n\nToutefois, et à la condition de bénéficier de cette allocation lors de leur mise à la retraite, ils continuent à être éligibles pour son octroi aussi longtemps qu’ils ont au moins un enfant à charge pour lequel ils touchent des allocations familiales.",
+      "text_sha256": "8bf806697f3311ed803999430aba5c1e9427a31cb045d6bbc82750995262ed6a",
+      "md_span": {
+        "start": 870,
+        "end": 1394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_2/20090101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Cercle des bénéficiaires**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "La subvention est accordée aux fonctionnaires et employés en activité de service comptant au moins une année de service au 1er janvier de l’année pour laquelle la subvention est demandée. Au cas où les deux conjoints ou les deux partenaires d’une communauté domestique sont agents communaux, les conditions ci-dessus doivent être remplies dans le chef de l’un des deux. Par communauté domestique au sens du présent règlement, il y a lieu d'entendre une communauté de vie de deux personnes, désignées dans la suite de ce règlement par les termes de «partenaire» ou «partenaires», vivant en couple, indépendamment de la forme juridique à la base de cette communauté.\n\nIl n’est versé qu’une subvention par famille ou par communauté domestique.",
+      "text_sha256": "454d9157e004ad01362681f86d38b7e4a5eb34abe5c4b85760aacbaa37e76c98",
+      "md_span": {
+        "start": 1462,
+        "end": 2202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_3/20090101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Conditions**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Les intéressés doivent avoir contracté auprès d'un établissement bancaire agréé dans l'Union Européenne et dans l'espace économique européen, au plus tard le 1er janvier de l'année pour laquelle la subvention est demandée, un emprunt hypothécaire en vue de la construction, de l'acquisition ou de la transformation d'un logement en propriété sis sur le territoire du Grand-Duché de Luxembourg.\n\nOn entend par logement en propriété le seul logement dont dispose ou disposera l'agent, respectivement la communauté domestique, et qu'il occupe ou occupera de façon effective et permanente. L'agent respectivement son partenaire ne doit être ni propriétaire, copropriétaire ou usufruitier d'un autre bien immeuble situé au Grand-Duché de Luxembourg ou à l'étranger au 1er janvier de l'année de la demande. Pour un logement en construction ou en transformation le délai dans lequel le logement doit être occupé ou réoccupé est de deux ans à compter du 1er janvier de l'année subséquente à l'année de la première demande. Une dispense d'occupation peut être accordée par le conseil communal, sur avis du collège des bourgmestre et échevins, notamment en faveur des agents soumis au logement de service.\n\nLe bénéfice du présent règlement n'est accordé qu'une seule fois à l'intéressé en cours de son activité de service, sans préjudice de l'application des dispositions de l'article 7 ci-dessous.\n\nPour le bénéficiaire ou la communauté domestique bénéficiaire d’un taux inférieur au taux social en vigueur au 1er janvier de l’année de référence, résultant d’un prêt contracté soit auprès d’institutions publiques, soit auprès d’entreprises privées, y non comprises les caisses d’épargne-logement, le taux de la subvention, calculé suivant l’article 5 ci-dessous, est diminué de la différence existant entre le taux social et le taux effectif du ou des prêts contractés. En cas de plusieurs prêts à taux différents, la diminution éventuelle s'applique au taux moyen calculé suivant les facteurs visés à l'article 4, alinéa 3 ci-dessous.",
+      "text_sha256": "40527764270f401d8acc9410058e71d671122b8990a0bfe30ab9f499d3771c24",
+      "md_span": {
+        "start": 2256,
+        "end": 4283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_4/20090101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Calcul de la subvention**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Pour le calcul de la subvention un ou plusieurs prêts peuvent être pris en considération, si tous ces prêts ont été contractés en vue de la construction, de l'acquisition ou de l'amélioration du même logement, sans préjudice de l'application des dispositions de l'article 7 ci-dessous.\n\nPour le calcul de la subvention, le ou les prêts sont pris en considération jusqu’à concurrence de 148.736,11 euros par logement.\n\nLa subvention est attribuée et calculée annuellement par la prise en considération des facteurs suivants:\n\n- er\n- er\n- er\n- des pourcentages tels qu'ils sont fixés à l'article 5\n- du plan d'amortissement annexé au présent règlement.\n\nAucune subvention n’est allouée si le montant total calculé est inférieur à 24,79 euros.",
+      "text_sha256": "fee050eedeca21dcd9e3d116a756f7e0b0c1c2d8d3bcf519bdc14b20edd5a01a",
+      "md_span": {
+        "start": 4350,
+        "end": 5090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_5/20090101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Calcul de la subvention**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Pour les bénéficiaires n'ayant aucun enfant à charge, la subvention est de 0,50% calculés sur le solde du prêt multiplié par le taux défini au plan d'amortissement en annexe du présent règlement.\n\nLa subvention est majorée de 0,50% pour chaque enfant à charge. Sont considérés comme enfants à charge les enfants pour lesquels l'un des partenaires touche des allocations familiales.",
+      "text_sha256": "f5302442bdd8c05640560725206ce3c8f55b0ad159bd22b4a8f2ead3fd55ad75",
+      "md_span": {
+        "start": 5125,
+        "end": 5506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_6/20090101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Calcul de la subvention**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "En vue de l'attribution d'une subvention d'intérêt et de l'application du plan d'amortissement en annexe, seules les années pour lesquelles une subvention est demandée et accordée à la suite de cette demande sont prises en compte, la première demande pouvant être formulée consécutivement à l'année au cours de laquelle toute ou partie du montant emprunté a été mis à disposition des bénéficiaires.\n\nDans le cas de plusieurs prêts pour le même logement, sans préjudice des dispositions de l'article 7 ci-dessous, le plan d'amortissement établi à l'occasion du premier prêt s'applique à tous les prêts subséquents.",
+      "text_sha256": "ff14bf345a75682d36c064d7e6c3ddf13fd05409ef4c4af80b191bc0831d02b5",
+      "md_span": {
+        "start": 5541,
+        "end": 6154
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_7/20090101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Durée**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "La subvention est accordée pendant la durée du prêt ou des prêts contractés pour le même logement sans pouvoir excéder au total une période de quinze ans, selon le plan d’amortissement en annexe.\n\nLe plan d'amortissement prévu à l'alinéa 1er du présent article continue également à s'appliquer en cas de vente du logement pour lequel la subvention a été accordée lorsqu'un nouveau logement est acquis ou en cas de dissolution de la communauté domestique. Dans ce dernier cas, chacun des anciens partenaires peut continuer à bénéficier de la subvention pendant la durée restante prévue au plan d'amortissement s'il remplit les autres conditions du présent règlement.",
+      "text_sha256": "b9481a356173fcf24a10fb8458eab3b471c0f2215fae4411b3d7c89b86c5006a",
+      "md_span": {
+        "start": 6203,
+        "end": 6868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_8/20000101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Durée**"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "La subvention est refusée si les conditions prévues aux articles 2 et 3 du présent règlement ne se trouvent plus remplies.",
+      "text_sha256": "0d196ee64ad3cb2783d60b3243e6db7383145748396c3eeb5e1a8cc9f20f00e8",
+      "md_span": {
+        "start": 6903,
+        "end": 7025
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_9/20090101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Toute demande en vue de l'obtention de la subvention est à adresser annuellement et moyennant un formulaire spécial au collège des bourgmestre et échevins, qui constitue les dossiers d'instruction. Le requérant est tenu de fournir tous les renseignements et données jugés nécessaires pour pouvoir constater l’accomplissement des conditions prévues pour l’octroi de la subvention.",
+      "text_sha256": "c85d3849b4d1176faa055d0fc39e1f9ef6739bcdb17d708041a0b689a4cd2fd8",
+      "md_span": {
+        "start": 7091,
+        "end": 7470
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_10/20000101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Les décisions concernant l’octroi, le refus ou la restitution d’une subvention sont prises par le collège des bourgmestre et échevins.",
+      "text_sha256": "371cd6b0147620e320b5732c36e7eece9193af9b7454dfaa6905eb72281aba6f",
+      "md_span": {
+        "start": 7507,
+        "end": 7641
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_11/20090101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Le paiement de la subvention est fait par l'administration communale, le syndicat de communes ou l'établissement public placé sous la surveillance des communes à l'établissement prêteur qui en crédite le ou les comptes prêt ouverts pour la construction, l'acquisition ou l'amélioration du logement visé par le présent règlement.",
+      "text_sha256": "10c268864571bf3e1b6263b39d1c26a60212adb1912ae8df1ec72d4279828140",
+      "md_span": {
+        "start": 7678,
+        "end": 8006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_12/20090101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "La subvention est sujette à restitution si elle a été accordée par suite de fausses déclarations, de renseignements inexacts, à cause d'une erreur de l'administration ou en cas de non respect du délai d'occupation prévu à l'article 3 ci-dessus.",
+      "text_sha256": "79598afd74ed7428dace59848d3aa1efe6c00be1eb1793a2c093356531b1f811",
+      "md_span": {
+        "start": 8043,
+        "end": 8287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_13/20090101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Les demandes doivent être présentées avant le 1er juillet de l'année de référence pour être prises en compte. A défaut de présentation de la demande dans ce délai aucune subvention ne sera due pour cette année, sans préjudice de l'application des dispositions de l'article 6 alinéa 1er ci-dessus.",
+      "text_sha256": "e005c8058e8c43d038659fafc58dd4c3440dc9f8d1fe2f8c1c54093332f3ace3",
+      "md_span": {
+        "start": 8324,
+        "end": 8620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_14/20000101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Modalités d’allocation**"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Le présent règlement s’applique également aux prêts contractés avant le 1er janvier 2001, la durée déjà courue d’un prêt étant mise en compte pour le calcul de la subvention.",
+      "text_sha256": "395f3646a08bc8de81c097e75ab8be56f7a910870598db756031f39bc3281ec7",
+      "md_span": {
+        "start": 8657,
+        "end": 8831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_15/20000101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Mise en vigueur**"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur avec effet au 1er janvier 2000.",
+      "text_sha256": "c5a5fbe66c10f001fcaf6001f1e4af200211aea96a8e26233acef80387309b77",
+      "md_span": {
+        "start": 8892,
+        "end": 8973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/12/n5/art_16/20090101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Mise en vigueur**"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "Notre Ministre de l’Intérieur est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e7800331454bf658ab51076eb75db6c95dc547dc65ec845f6fe403d844029042",
+      "md_span": {
+        "start": 9010,
+        "end": 9115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2001-10-12-n5:2009-01-01--c528529742f7bc6029c8cf284a03cb7645cf282cb78abf43db49e534fc3679d0#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Plan d’amortissement*\n\n| Année de la demande | Solde du prêt au 1er janvier à multiplier par |\n| --- | --- |\n| 01re | 1,0 |\n| 02e | 0,93 |\n| 03e | 0,86 |\n| 04e | 0,80 |\n| 05e | 0,73 |\n| 06e | 0,66 |\n| 07e | 0,60 |\n| 08e | 0,53 |\n| 09e | 0,46 |\n| 10e | 0,40 |\n| 11e | 0,33 |\n| 12e | 0,26 |\n| 13e | 0,20 |\n| 14e | 0,13 |\n| 15e | 0,06 |",
+      "text_sha256": "7bd22c54f13ff6c3f9356fbacb32f6b6d13b965d740e66e83605bdc7150020da",
+      "md_span": {
+        "start": 9156,
+        "end": 9490
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2015/281 of 26 November 2014 replacing Annexes I and II of Regulation (EU) No 1215/2012",
+  "valid_from": "2014-11-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r0281/versions/2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc/fr.xml",
+    "sha256": "7ba9d4e9eb1852f6d89961f169cd00258fbdd65797bde04e7ec901125a2e6276",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0281"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes annexes I et II du règlement (UE) no 1215/2012 sont remplacées par le texte figurant à l'annexe du présent règlement.",
+      "text_sha256": "f392e0a4122594898e31e5d9606b282d2f23fe25ebd65dac312e7e717fb9522e",
+      "md_span": {
+        "start": 735,
+        "end": 873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "3c7883834de2a6311c549c126d042d3b09894c0052807156950de93272a1d9ae",
+      "md_span": {
+        "start": 906,
+        "end": 1037
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

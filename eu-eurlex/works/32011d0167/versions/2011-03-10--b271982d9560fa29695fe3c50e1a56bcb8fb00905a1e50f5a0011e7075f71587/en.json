@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011d0167:2011-03-10--b271982d9560fa29695fe3c50e1a56bcb8fb00905a1e50f5a0011e7075f71587",
+  "language": "en",
+  "title": "2011/167/EU: Council Decision of 10\u00A0March 2011 authorising enhanced cooperation in the are…",
+  "valid_from": "2011-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011d0167/versions/2011-03-10--b271982d9560fa29695fe3c50e1a56bcb8fb00905a1e50f5a0011e7075f71587/en.xml",
+    "sha256": "930daadb14abdf4676a95ba7d59614243cee2c4b2b01cdcb59d20348ef6ae127",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0167"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32011d0167:2011-03-10--b271982d9560fa29695fe3c50e1a56bcb8fb00905a1e50f5a0011e7075f71587#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Kingdom of Belgium, the Republic of Bulgaria, the Czech Republic, the Kingdom of Denmark, the Federal Republic of Germany, the Republic of Estonia, Ireland, the Hellenic Republic, the French Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Grand Duchy of Luxembourg, the Republic of Hungary, Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland are hereby authorised to establish enhanced cooperation between themselves in the area of the creation of unitary patent protection, by applying the relevant provisions of the Treaties.",
+      "text_sha256": "e995c319b0252cdbfe4580715bbda8bb0029bb34e65a10c5f3c72eb8d58cbc22",
+      "md_span": {
+        "start": 702,
+        "end": 1511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011d0167:2011-03-10--b271982d9560fa29695fe3c50e1a56bcb8fb00905a1e50f5a0011e7075f71587#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Decision shall enter into force on the day of its adoption.",
+      "text_sha256": "53c0ae9dd6a7efe71167ca661328bb9dfb0b541949b96e5b8046a6a67c21d5cb",
+      "md_span": {
+        "start": 1544,
+        "end": 1619
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

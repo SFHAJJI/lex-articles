@@ -1,0 +1,1035 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/02/2027 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.",
+  "valid_from": "2026-11-01",
+  "valid_to": "2027-01-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2002-11-12-n1/versions/2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f/fr.xml",
+    "sha256": "eb4416d32468234028c6d54ca4bdd3db0e86ef0646a40204fb0bd0d899aeafc2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20261101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_1er/20261101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Nul ne peut exercer au Grand-Duché de Luxembourg une activité de gardiennage et de surveillance pour le compte de tiers sans l'autorisation écrite du ministre de la Justice.\n\nNul ne peut avoir recours, pour les activités prévues à l’article 2, à des prestations de service d’une entreprise non autorisée en application de la présente loi.\n\nConformément à l'article 1er de la loi modifiée du 2 septembre 2011 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales, le postulant doit en outre obtenir l'autorisation du ministre ayant dans ses attributions les autorisations d'établissement.\n\nAux fins de la coordination administrative des demandes introduites et des autorisations émises, le ministre ayant les Autorisations d‘établissement dans ses attributions et le ministre de la Justice s’échangent réciproquement, de façon spontanée ou sur demande, de manière électronique ou non, des informations comme suit :\n\n1. 1. de l’introduction d’une demande d’autorisation d’établissement concernant les activités prévues à l’article 2 ;\n2. de l’octroi d’une autorisation d’établissement concernant les activités prévues à l’article 2 ;\n3. du retrait, du refus ou de la révocation d’une autorisation d’établissement concernant les activités prévues à l’article 2 ;\n4. loi précitée du 2 septembre 2011\n2. 1. de l’introduction d’une demande d’autorisation de gardiennage ;\n2. de l’octroi de l’accord de principe prévu à l’article 5, alinéa 2 ;\n3. de l’octroi d’une autorisation de gardiennage ;\n4. loi précitée du 2 septembre 2011",
+      "text_sha256": "a68ff812526494cea4b9bb234faef65bd7582ce8b85e0d0f89a30a3620f0107b",
+      "md_span": {
+        "start": 735,
+        "end": 2323
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/09/02/n1/jo",
+          "text": "loi modifiée du 2 septembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_2/20261101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les activités de gardiennage et de surveillance visées par la présente loi comprennent:\n\n1. la surveillance de biens mobiliers et immobiliers;\n2. la gestion de centres d'alarmes;\n3. le transport de fonds ou de valeurs;\n4. la protection de personnes;\n5. la surveillance lors d’événements accueillant du public.",
+      "text_sha256": "3b13eedd2fe8d42f32d1450b4b0ab6eac7c984b44c12de03673c729c8c2bd501",
+      "md_span": {
+        "start": 2358,
+        "end": 2667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_2-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_2-1/20261101",
+      "type": "article",
+      "num": "Art. 2-1.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les missions de gardiennage visées à l’article 2 ne peuvent pas être sous-traitées, ni acceptées ou exécutées en sous-traitance, sauf si :\n\n1. tant l’entrepreneur principal que le sous-traitant sont autorisés pour l’exercice des activités et qu’une convention écrite a été conclue entre eux pour chaque mission, et\n2. une convention écrite est conclue entre l’entrepreneur principal et le bénéficiaire de la prestation de service en cause préalablement au premier exercice d’une activité qui détermine le nom du sous-traitant, ses coordonnées de contact et la période, les moments et les lieux où il effectue les activités.\n\nL’entrepreneur principal prend toutes les mesures de précaution et effectue les contrôles nécessaires afin que le sous-traitant et les personnes qui travaillent pour son compte respectent les dispositions de la présente loi et de ses règlements grand-ducaux d’exécution et exécutent correctement ce qui est convenu avec le bénéficiaire de la prestation de service en cause.",
+      "text_sha256": "7aab421e9be5f85688f2be67bad300422b460d87bee41f4bf2e6c1a2f95f6665",
+      "md_span": {
+        "start": 2706,
+        "end": 3704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_3/20140901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "L'exercice des activités réglées par la présente loi ne peut se faire que sous une dénomination ne pouvant pas prêter à confusion avec celle d'un service public. Il est interdit aux personnes, qui se sont vu délivrer une autorisation au titre de la présente loi, d'exercer d'autres activités commerciales que celles libellées dans l'autorisation visée à l'article 6 ci-dessous.\n\nPar dérogation à l'alinéa précédent les personnes, qui se sont vu délivrer l'autorisation d'exercer l'activité de gestion de centres d'alarmes, peuvent exercer les activités de conception, d'installation, d'entretien ou de réparation de systèmes d'alarmes selon les dispositions législatives et réglementaires en vigueur.",
+      "text_sha256": "fdd5756f6c63790a27292b780cb3a86a13aeb2b83b7fb8f750fd7584f4b94e1a",
+      "md_span": {
+        "start": 3739,
+        "end": 4439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_3-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_3-1/20261101",
+      "type": "article",
+      "num": "Art. 3-1.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les agents de gardiennage qui, pendant l’exercice de leurs missions de gardiennage, se retrouvent en présence d’une personne ayant commis un crime ou un délit flagrant, puni par la loi d’une peine privative de liberté, sur des personnes ou par rapport à des biens dont la surveillance ou la protection relève de leurs missions, peuvent retenir cette personne et l’empêcher de prendre la fuite, dans l’attente de l’arrivée des services de la Police grand-ducale, à condition de les en avoir avertis immédiatement après la constatation des faits.\n\nJusqu’à l’arrivée des services de la Police grand-ducale, la personne retenue reste en permanence sous la surveillance directe des agents de gardiennage. Il est interdit d’enfermer la personne retenue ou de l’attacher à un endroit par quelque moyen que ce soit.\n\nDans la mesure du possible, les agents de gardiennage soustraient la personne retenue au regard du public.",
+      "text_sha256": "0be6db4846c343684914943909129520611fb68f9ccc9ab3a63e1d421a85b621",
+      "md_span": {
+        "start": 4478,
+        "end": 5393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_4/20261101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les demandes d'autorisation sont à adresser au ministre de la Justice et doivent indiquer:\n\n1. les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile du requérant, ou s'il s'agit d'une société, la dénomination ou la raison sociale, la forme de la société et son siège social, ainsi que les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile des directeurs, gérants et administrateurs;\n2. une description précise des activités projetées;\n3. les moyens techniques dont dispose le requérant;\n4. la liste du personnel engagé;\n5. l'aspect détaillé de l'uniforme porté par le personnel;\n6. le spécimen de la carte de légitimation portée par le personnel;\n7. le règlement de service.\n\nLa demande introduite par une société doit être accompagnée d'une copie des statuts coordonnés, d'un extrait récent du registre de commerce ainsi que d'une copie de l'autorisation délivrée par le ministre ayant dans ses attributions les autorisations d'établissement. La liste du personnel engagé visée au point 4. ci-dessus comprend l'indication des nom, prénoms, date et lieu de naissance, nationalité et domicile des personnes concernées, en y joignant un curriculum vitae, un extrait récent du casier judiciaire, une copie de l'examen médical d'embauchage, selon les prescriptions de la loi modifiée du 17 juin 1994 concernant les services de santé au travail, une copie du contrat de travail et une copie de la carte d'identité. La production de ces documents est, hormis la copie de l'examen médical d'embauchage, également requise pour les directeurs, gérants et administrateurs visés au point 1. ci-dessus. L'aspect de l'uniforme visé au point 5. ci-dessus est à documenter par une description détaillée des différentes pièces le composant et des photos couleurs y afférentes. L'uniforme doit être conçu de façon à ne pas pouvoir être confondu avec l'uniforme porté par les forces de l'ordre.",
+      "text_sha256": "edff25ef230d03092108fd2f35ab1c4c4cc3a875b6cd80baf24bad6c8f4e8662",
+      "md_span": {
+        "start": 5428,
+        "end": 7360
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1994/06/17/n2/jo",
+          "text": "loi modifiée du 17 juin 1994"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_5/20140901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "L'autorisation est refusée, si le requérant ne dispose pas du personnel et des moyens techniques suffisants pour exercer les activités envisagées ou s'il ne bénéficie pas de l'honorabilité professionnelle requise.\n\nUn accord de principe quant à l'exercice d'une des activités prévues à l'article 2 est délivré dès lors que les conditions prévues à l'article 4 sub 1°, 2°, 5°, 6° et 7° sont remplies. L'autorisation est délivrée dès que les conditions prévues à l'article 4 sub 3° et 4° sont également remplies.\n\nAvant de se prononcer sur la conformité avec les obligations légales et réglementaires des moyens techniques à la disposition d'un requérant, le ministre de la Justice peut soumettre le dossier aux services spécialisés du ministre ayant l'Inspection du travail et des mines dans ses attributions, au ministre ayant la Police grand-ducale dans ses attributions, au ministre ayant le contrôle technique des véhicules automoteurs dans ses attributions et au ministre ayant les services d'incendie et de sauvetage dans ses attributions. L'autorisation est retirée, si le requérant ou les dirigeants de la société ne se conforment pas aux dispositions légales, s'ils ne respectent pas les conditions fixées par l'autorisation ou s'il est établi que les conditions fixées à l'alinéa 1 ne sont plus remplies.",
+      "text_sha256": "4a9a4c24870375d7ae871cd2d4a0eb87a891c3b1043e33014ea6696b0cba6997",
+      "md_span": {
+        "start": 7395,
+        "end": 8708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_6/20140901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "L'autorisation est délivrée pour un terme de cinq ans. Elle peut être assortie d'obligations et de conditions. Elle est renouvelable, chaque fois pour une nouvelle période de cinq ans.",
+      "text_sha256": "fbb527ef2ad86a407cbc4365b6e1ec538aaa664fbc76aabe96157fd83c06ac95",
+      "md_span": {
+        "start": 8743,
+        "end": 8927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_7/20261101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Tout changement au sein du conseil d'administration, de la direction et de la gérance doit être communiqué dans les trente jours ouvrables au ministre de la Justice.",
+      "text_sha256": "7fb22cf2ab63b3dd72b3241a12d8c5d19685e33e1cbdb73468ced1072af98e8b",
+      "md_span": {
+        "start": 8962,
+        "end": 9127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_8/20261101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "L'engagement du personnel chargé des missions énumérées à l'article 2 de la présente loi doit être approuvé par le ministre de la Justice.\n\nL'approbation d'engager est refusée si:\n\n1. l'agent est âgé de moins de dix-huit ans;\n2. l'agent ne remplit pas les conditions d'honorabilité nécessaires;\n3. l'agent exerce des activités jugées incompatibles avec ses missions;\n4. Code du travail",
+      "text_sha256": "b76ae1e1a81c26dd0ca027fb93b3ce718590cb3cfb0529c411c38348ee90c512",
+      "md_span": {
+        "start": 9162,
+        "end": 9547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8bis",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_8bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_8bis/20261101",
+      "type": "article",
+      "num": "Art. 8bis.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "**(1)** Les autorisations prévues par l’article 5 et les approbations prévues par l’article 8 sont délivrées par le ministre de la Justice aux personnes qui disposent de l’honorabilité nécessaire.\n\n**(2)** Aux fins de la détermination de l’honorabilité, une enquête administrative est diligentée par le ministre de la Justice qui consiste à vérifier auprès du procureur d’État du tribunal d’arrondissement dans le ressort duquel le requérant réside et de la Police grand-ducale si le requérant a commis un ou plusieurs des faits visés au paragraphe 3 qui ont fait l’objet d’une condamnation pénale ou qui ont donné lieu à l’établissement d’un procès-verbal ou d’un rapport de police. Les faits auxquels se rapportent les informations fournies par le procureur d’État et la Police grand-ducale ne peuvent pas avoir été commis plus de cinq ans avant l’introduction de la demande du requérant, ou font l’objet d’une poursuite pénale en cours.\n\nLes informations concernant les faits visés à l’alinéa 1er, sont communiquées au ministre de la Justice sous forme de l’intégralité ou d’extraits de procès-verbaux ou rapports de police, jugements, arrêts, ordonnances, ou tout autre document ou acte de procédure contenant les informations concernées. Ces informations ainsi que les documents communiqués sont détruits six mois après une décision ayant acquis force de chose décidée ou jugée prise au sujet de la demande d’autorisation ayant motivé la demande de communication.\n\n**(3)** Le procureur d’État et la Police grand-ducale ne communiquent des informations au ministre de la Justice, conformément au présent article, que pour des faits :\n\n1. incriminés en tant que crime ou délit par la loi ;\n2. Code pénal\n3. er loi modifiée du 8 septembre 2003\n\nL’alinéa 1er ne s’applique pas aux faits qui, bien que relevant des points 1° et 2°, ont fait l’objet d’un acquittement, d’une réhabilitation judiciaire ou légale, ou sont prescrits.\n\n**(4)** Afin de déterminer si une personne, qui a introduit une demande en obtention d’une autorisation prévue par la présente loi, fait l’objet d’une enquête préliminaire ou d’une instruction préparatoire en cours pour un ou plusieurs des faits visés au paragraphe 3, le ministre de la Justice peut demander au procureur général d’État les renseignements nécessaires à cette fin. Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, les renseignements fournis par le procureur général d’État peuvent uniquement comporter le nom, le prénom et le numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ou, à défaut de ce numéro, la date de naissance et l’adresse ou la dernière adresse connue de la personne concernée, ainsi que la qualification juridique des faits qui lui sont reprochés et qui sont incriminés par les dispositions légales visées au paragraphe 3.\n\nLe ministre de la Justice peut tenir en suspens une demande introduite aux fins de l’obtention d’une autorisation prévue par la présente loi pendant toute la durée où un ou plusieurs des faits visés au paragraphe 3 fait ou font l’objet d’une enquête préliminaire ou d’une instruction préparatoire en cours.\n\nLes dispositions de l’alinéa 1er, s’appliquent également lorsque le ministre de la Justice doit déterminer si le titulaire d’une autorisation délivrée en application de la présente loi et en cours de validité dispose toujours de l’honorabilité nécessaire, alors qu’il dispose d’informations susceptibles de mettre en doute l’honorabilité de la personne concernée.\n\n**(5)** Sur demande, le procureur général d’État communique au ministre de la Justice copie des décisions judiciaires qui figurent le cas échéant sur le bulletin N° 2 du casier judiciaire de la personne concernée. Ces copies sont détruites six mois après une décision ayant acquis force de chose décidée ou jugée prise au sujet de la demande d’autorisation ayant motivé la demande de communication.\n\n**(6)** Pour les besoins de l’appréciation de l’honorabilité visée au paragraphe 1er, les condamnations prononcées par une juridiction pénale d’un autre État membre de l’Union européenne, d’un pays associé à l’espace Schengen ou de l’Espace économique européen sont assimilées aux condamnations prononcées par les juridictions pénales luxembourgeoises lorsque la présente loi y fait référence. Il en est de même lorsqu’une condamnation étrangère est prononcée pour des faits incriminés par la présente loi, nonobstant toute divergence entre les définitions ou éléments constitutifs des infractions luxembourgeoise et étrangère.\n\n**(7)** Lorsque le demandeur en obtention d’une autorisation en vertu de la présente loi est titulaire d’une autorisation de port d’armes au sens de la loi du 2 février 2022 sur les armes et munitions et que cette autorisation est émise moins de cinq ans avant l’introduction de la demande en autorisation en vertu de la présente loi, la personne titulaire d’une autorisation de port d’armes est dispensée de l’enquête d’honorabilité visée au présent article.",
+      "text_sha256": "47c6c0575dee218b8fe8abba094097b8ce805c8503031c0baea98993a1c6529b",
+      "md_span": {
+        "start": 9588,
+        "end": 14697
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2013/06/19/n3/jo",
+          "text": "loi modifiée du 19 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2022/02/02/a49/jo",
+          "text": "loi du 2 février 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_9/20140901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le personnel doit obligatoirement porter une carte de légitimation durant ses missions de gardiennage et de surveillance. Ce document, dont le modèle est à agréer par le ministre de la Justice, doit contenir la photo de l'agent concerné, ainsi que ses nom et prénoms. Il doit indiquer le nom, l'adresse et le numéro de téléphone de l'employeur et, pour les personnes morales, l'indication qu'il s'agit d'une société privée de gardiennage et de surveillance.\n\nLa carte de légitimation doit être exhibée sur demande des agents des forces de l'ordre.",
+      "text_sha256": "617b78fe1409f1ce77801f8e3fc8193f84ca34d0cc14531edc61fecf17aae8dd",
+      "md_span": {
+        "start": 14732,
+        "end": 15279
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_10/20140901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le règlement de service visé à l'article 4 point 7° est un document qui contient toutes les dispositions générales utiles au fonctionnement du service et qui constitue pour le personnel le manuel de référence en cas de difficulté.\n\nCe document contient, entre autres, obligatoirement les dispositions suivantes:\n\n1. les obligations découlant du secret professionnel;\n2. les principes de la légitime défense;\n3. le comportement de l'agent durant son service;\n4. l'organisation interne du service et la désignation des chefs hiérarchiques;\n5. les personnes de référence en cas de difficultés;\n6. les instructions relatives à l'octroi et au port de l'uniforme et de la carte de légitimation;\n7. l'obligation d'informer les forces de l'ordre en cas de constatation d'une infraction pénale ayant trait aux activités de gardiennage et de surveillance;\n8. en cas de port d'armes, les instructions relatives à l'octroi, à l'utilisation et au dépôt de ces armes, ainsi que l'obligation de participer régulièrement à des exercices de tir.\n\nLe règlement de service doit être agréé par le ministre de la Justice qui peut exiger l'insertion de toute autre disposition qu'il juge nécessaire à l'exécution des activités projetées.\n\nToute modification du règlement de service doit être approuvée au préalable par le ministre de la Justice.",
+      "text_sha256": "6a8b719a9431f9000195595c69f3aabd5c97257edef23b2bc1d771391c383aec",
+      "md_span": {
+        "start": 15316,
+        "end": 16639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_11/20261101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "La loi du 2 février 2022 sur les armes et munitions est applicable aux personnes exerçant les activités visées par la présente loi. Les titulaires d'un port d'armes établi pour exercer des missions de gardiennage et de surveillance ne sont autorisés à porter ces armes que pendant le temps où ils sont en service et ils doivent se soumettre, quatre fois par an au moins, à des exercices de tir sous la surveillance d'un agent des forces de l'ordre. Un règlement grand-ducal peut fixer les conditions et les modalités de ces exercices de tir.\n\nLes agents ne peuvent porter des armes dans l’exercice des missions visées à l’article 2, point 5.",
+      "text_sha256": "f216c8c424a9925924ceae43d7574bc413847a317389892fb5b05b4598373ea6",
+      "md_span": {
+        "start": 16676,
+        "end": 17317
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2022/02/02/a49/jo",
+          "text": "loi du 2 février 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_12/20140901",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "En cas de cessation volontaire des activités commerciales, le détenteur d'une autorisation établie sur base des dispositions de la présente loi, doit informer le ministre de la Justice ainsi que tous ses clients par lettre recommandée de son intention d'arrêter les activités de gardiennage et de surveillance un mois au moins avant la date fixée pour la cessation de son commerce.",
+      "text_sha256": "605f9479e017769cf7b20b60211268d904388067493f49084e0e11af53e7678e",
+      "md_span": {
+        "start": 17354,
+        "end": 17735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_13/20140901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les décisions ministérielles concernant l'octroi, le refus ou la révocation des autorisations prévues par la présente loi sont susceptibles d'un recours en annulation devant le tribunal administratif. Le recours doit être introduit par ministère d'avocat à la Cour, par les requérants dans le délai de trois mois à partir de la notification de la décision.",
+      "text_sha256": "42d58d19cc16f3195e7e5381ee400023a98e4ce30ac65dd5e3bcd563c8cfa0a0",
+      "md_span": {
+        "start": 17772,
+        "end": 18128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_13-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_13-1/20261101",
+      "type": "article",
+      "num": "Art. 13-1.",
+      "heading": null,
+      "path": [
+        "Section I — Dispositions générales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "L’usage de chiens dans l’exercice des missions visées à l’article 2 ne peut avoir comme finalité que la dissuasion afin de prévenir des faits susceptibles de compromettre la sécurité des personnes et des biens dont la protection relève du champ d’application de la présente loi.\n\nSeuls les chiens et les maîtres-chiens disposant des diplômes visés à l’article 12, paragraphe 1er, alinéa 1er, deuxième phrase, et à l’article 16, paragraphe 3, de la loi modifiée du 9 mai 2008 relative aux chiens, sont admis pour l’exercice des missions visées à l’article 2.\n\nToutefois, les chiens et les maîtres-chiens titulaires d’un diplôme ou d’un titre de formation équivalent décerné par les entités compétentes d’un autre État membre de l’Union européenne aux chiens et aux maîtres-chiens en matière de sécurité privée sont dispensés de l’obtention du diplôme visé à l’alinéa 2.\n\nLe maître-chien est titulaire de l’approbation prévue à l’article 8.\n\nIl est interdit de faire usage de chiens susceptibles :\n\n1. loi modifiée du 9 mai 2008\n2. loi modifiée du 9 mai 2008",
+      "text_sha256": "569a0b62d18137e2cbb0cec3356dd6e36104a1bb587b165cd6a730137daddef1",
+      "md_span": {
+        "start": 18169,
+        "end": 19225
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/05/09/n2/jo",
+          "text": "loi modifiée du 9 mai 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_14/20261101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Par surveillance de biens mobiliers et immobiliers au sens de la présente loi, on entend les activités qui consistent à assurer à titre professionnel la sécurité des biens mobiliers et des immeubles, ainsi que la sécurité des personnes se trouvant dans ces immeubles, soit par la présence de gardiens statiques, soit par un gardiennage mobile, soit à distance par des moyens techniques de télécommunication ou de vidéosurveillance reliés à un central de surveillance, et à assurer une intervention adéquate en cas d’intrusion non autorisée dans les immeubles concernés ou de soustraction frauduleuse, voire de menace d’endommagement par des tiers des biens surveillés.\n\nLes missions de surveillance visées à l’alinéa 1er ne peuvent pas avoir comme objet la protection ou le maintien de la sécurité et de l’ordre publics. Ces missions ne peuvent porter que :\n\n1. sur des lieux autres que les lieux accessibles au public, sauf les exceptions prévues aux articles 28-1 à 28-3 ;\n2. er",
+      "text_sha256": "28dd49bfaf4a6473b368aa27fac4bb6802ad53b59cede026e6cd13b67829ad96",
+      "md_span": {
+        "start": 19326,
+        "end": 20306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_14-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_14-1/20261101",
+      "type": "article",
+      "num": "Art. 14-1.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les missions visées à l’article 14 peuvent également comporter les tâches suivantes, mais uniquement à la demande du cocontractant de l’entreprise de gardiennage :\n\n1. er\n2. La vérification de la présence d’objets que le cocontractant de l’entreprise de gardiennage a déterminés comme n’étant pas admissibles dans l’immeuble ou l’enceinte ou sur le terrain ou le site en question.\n\nLes tâches visées à l’alinéa 1er ne peuvent être exécutées qu’avec le consentement de la personne concernée. Elles ne peuvent pas être exécutées par rapport à des personnes qui circulent sur la voie publique sans vouloir accéder aux lieux surveillés.\n\nPour le contrôle de l’identité et de l’âge visé à alinéa 1er, point 1., l’agent se fait présenter la carte d’identité, le passeport, le permis de conduire ou un titre de séjour de la personne concernée. Ce document ne peut être copié par l’agent. Le document présenté peut uniquement être retenu temporairement par l’agent pendant la durée où la personne concernée se trouve dans les lieux qui font l’objet de la surveillance, si elle se voit remettre par l’agent un titre d’accès que la personne remet à l’agent au moment de la sortie des lieux surveillés. Lorsque la présence de la personne concernée dans les lieux surveillés, son identité, son âge ou une autre information contenue par le document présenté par cette personne fait l’objet d’un traitement de données à caractère personnel, ces informations sont supprimées au plus tard un mois après que la personne concernée a quitté les lieux surveillés.\n\nPour la vérification de la présence d’objets visés à l’alinéa 1er, point 2., l’agent peut procéder à une palpation superficielle des vêtements de la personne qui souhaite entrer dans les lieux qui font l’objet de la surveillance. Cette palpation peut être combinée avec l’usage d’un portique de sécurité, d’un détecteur portable, ou d’un chien détecteur. La palpation est effectuée par un agent du même sexe que la personne contrôlée. Les bagages à main des personnes ainsi que, le cas échéant, leurs véhicules peuvent uniquement faire l’objet d’une inspection visuelle. Lorsqu’une personne porte ou transporte un objet interdit par la loi, l’agent prévient la Police grand-ducale.\n\nLes agents peuvent refuser l’accès aux lieux surveillés à toute personne qui ne se soumet pas volontairement aux vérifications visées aux alinéas 3 et 4.\n\nLorsqu’une personne, à qui l’accès est refusé, essaie néanmoins d’avoir accès aux lieux surveillés, les agents l’informent que l’accès lui est empêché. Lorsque la personne concernée persiste à ignorer le refus d’accès, les agents peuvent l’en empêcher.\n\nLes personnes qui ont eu accès aux lieux surveillés sans y être autorisées, et celles qui, après avoir eu un accès autorisé, font preuve d’un comportement susceptible de mettre en péril la sécurité des personnes ou des biens sont tenues, sur ordre des agents, de quitter les lieux surveillés. Lorsque ces personnes n’obtempèrent pas, les agents peuvent les faire quitter les lieux surveillés.",
+      "text_sha256": "fc1cd2263d275dd3b06ce623b543c8c4a6187a55db77931ac71075b45b8ce3d9",
+      "md_span": {
+        "start": 20347,
+        "end": 23376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_15/20261101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Pour obtenir l'autorisation d'exercer l'activité de surveillance de biens mobiliers et immobiliers, le requérant doit disposer de trois voitures de service au moins et avoir une équipe de quinze agents de surveillance au moins sous contrat. Il doit en outre disposer d'un central équipé d'une chambre forte qui est occupé en permanence par deux agents opérateurs au moins.",
+      "text_sha256": "641075d8e0dd2c97eb7848b791cfcee6c7654369a910b89aeca8591d31b1953d",
+      "md_span": {
+        "start": 23413,
+        "end": 23785
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_16/20140901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le règlement de service doit, de manière détaillée et complète, prévoir les modalités concernant la conservation et la remise des clés des immeubles et des biens mobiliers surveillés ainsi que les règles à observer en cas de dépôt temporaire d'objets de valeur dans la chambre forte.",
+      "text_sha256": "5a78e5088ef7bcbaf017f92b7f79b8c26bf8ff60b3a7085466052e6f81a6b0e1",
+      "md_span": {
+        "start": 23822,
+        "end": 24105
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_17/20261101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Le port de l'uniforme de service est obligatoire pour les agents placés à l'intérieur des bâtiments à surveiller et pour ceux circulant en patrouille. Les agents de patrouille doivent être équipés d'un système de liaison radio avec le central ou du moins d'un téléphone mobile.\n\nLors de l’exercice de leurs missions, les agents de patrouille peuvent circuler librement sur la voie publique pour surveiller les biens à protéger de l’extérieur, pour se rendre vers ou pour partir d’un bien à protéger, ou pour se déplacer entre différents biens à protéger. Pendant ces déplacements sur la voie publique, ils ne peuvent procéder à aucune intervention à l’égard de personnes ou de biens, qui se trouvent sur la voie publique, dont la surveillance ne relève pas du contrat conclu entre l’entreprise de gardiennage et son client, sauf lorsqu’une disposition légale les y oblige ou le leur permet.",
+      "text_sha256": "384f9af2f3dc82684109ebc350334f5e2aeb4833b24cc01560a38f949a213b01",
+      "md_span": {
+        "start": 24142,
+        "end": 25032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_17-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_17-1/20261101",
+      "type": "article",
+      "num": "Art. 17-1.",
+      "heading": null,
+      "path": [
+        "Section II — Surveillance de biens mobiliers et immobiliers"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les entreprises qui remplissent les conditions prévues pour l’activité de surveillance de biens mobiliers et immobiliers peuvent également être autorisées, sur demande, pour effectuer les activités de protection de personnes et de surveillance lors d’événements accueillant du public.",
+      "text_sha256": "598da41458583ac8b455ed8e95af4b625dd78592922b80034fc51eacf19b9640",
+      "md_span": {
+        "start": 25073,
+        "end": 25357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_18/20140901",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Section III — Gestion de centres d'alarmes"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Par gestion de centres d'alarmes au sens de la présente loi, on entend les activités qui consistent à surveiller en permanence à titre professionnel des systèmes d'alarmes et à garantir une intervention immédiate en cas de déclenchement d'une alarme.",
+      "text_sha256": "f73d736622f6b27d0b1db1621d638433624929789cfc3a6fb3ae403378388db1",
+      "md_span": {
+        "start": 25441,
+        "end": 25691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_19/20140901",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Section III — Gestion de centres d'alarmes"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Pour obtenir l'autorisation d'exercer l'activité de la gestion de centres d'alarmes, le requérant doit disposer de trois voitures de service au moins, d'une équipe de vingt agents au moins et d'un central fortifié.",
+      "text_sha256": "a6f5a6ddecc64a4de16aef65b8f464223a021acb0483d3fb2676a018ada6c83b",
+      "md_span": {
+        "start": 25728,
+        "end": 25942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_20/20261101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Section III — Gestion de centres d'alarmes"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Le central doit être équipé d'un sas d'entrée avec des portes blindées et être occupé en permanence par deux agents opérateurs au moins. Il doit disposer d'un groupe électrogène ainsi que d'un équipement radio et téléphonique permettant de joindre en toute circonstance le réseau d'intervention des forces de l'ordre. Un règlement grand-ducal peut définir des conditions de sécurité supplémentaires auxquelles ce central doit répondre.",
+      "text_sha256": "53dca06a0e7626536fa40a0fa1c7c3687d4b425eb5e952726f11f5dd7c745ef8",
+      "md_span": {
+        "start": 25979,
+        "end": 26414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_21/20140901",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Section III — Gestion de centres d'alarmes"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le règlement de service doit, de manière détaillée et complète, prévoir des dispositions concernant l'ouverture des portes du sas, le tri des personnes autorisées à pénétrer au central, les missions et la relève du personnel affecté au central, prévoir un contrôle permanent des patrouilles et contenir des instructions précises relatives aux suites à réserver aux alarmes reçues. Le règlement de service doit prévoir en outre un responsable de la conservation des plans des systèmes installés et des clés techniques qui sont obligatoirement à déposer dans un coffre-fort. Il doit également déterminer les modalités quant à la consultation des plans et au retrait temporaire des clés techniques.",
+      "text_sha256": "3ab512a767b0656c656c225bf04b8c5c8cf54cf5bf0e1b397c6965a6e1d551ba",
+      "md_span": {
+        "start": 26451,
+        "end": 27146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_22/20140901",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Par transport de fonds ou de valeurs au sens de la présente loi, on entend les activités qui consistent à transporter à titre professionnel des fonds ou des valeurs sur le territoire du Grand-Duché de Luxembourg.\n\nUn règlement grand-ducal définit la notion de «fonds ou valeurs».\n\nLe même règlement grand-ducal peut définir les caractéristiques techniques auxquelles doivent répondre les fourgons et autres équipements utilisés pour le transport de fonds ou de valeurs, ainsi que les règles spéciales, s'agissant de certaines catégories de transports.",
+      "text_sha256": "1a7fadab354a0a7e166dc45574a0553349ed601020b296eb080eb1e60ba85586",
+      "md_span": {
+        "start": 27233,
+        "end": 27784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_23/20140901",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Pour obtenir l'autorisation d'exercer l'activité de transport de fonds ou de valeurs, le requérant doit disposer au moins de trois voitures de service, de trois fourgons, d'une équipe de vingt agents et d'un central fortifié.",
+      "text_sha256": "8c6c657e01efda5221280d589c2ddd408dee2545e68f9f4694a977d687fac6f7",
+      "md_span": {
+        "start": 27821,
+        "end": 28046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_24/20140901",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le central doit être équipé d'un sas d'entrée avec des portes blindées, d'un lieu protégé permettant le chargement et le déchargement des fourgons à l'abri du regard de toute personne étrangère au service, ainsi que d'une salle de coffres permettant d'entreposer en toute sécurité les fonds ou valeurs qui ne peuvent pas être acheminées immédiatement vers leur destination. Le central doit être occupé en permanence par deux agents de garde au moins et être relié directement par une ligne spéciale au centre d'alerte de la police grand-ducale. Il doit disposer d'un groupe électrogène ainsi que d'un équipement radiotéléphonique permettant de joindre en toute circonstance le réseau d'intervention des forces de l'ordre. Le central doit en outre disposer d'un système de contrôle permettant de suivre constamment, dans un rayon de soixante-quinze kilomètres au moins, la position exacte des différents fourgons en mission.\n\nUn règlement grand-ducal peut définir des conditions de sécurité supplémentaires auxquelles le central doit répondre.",
+      "text_sha256": "358f6548ad5b0b4a2cb31fff14030ac6a7c3ef58c724198451c7efe383cd470f",
+      "md_span": {
+        "start": 28083,
+        "end": 29125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_25/20140901",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les fourgons doivent être surveillés en permanence. S'ils renferment des fonds ou valeurs, il faut qu'un agent au moins se trouve en permanence à l'intérieur du véhicule. S'ils ne sont pas utilisés, ils doivent être stationnés sur un parking clos qui est constamment surveillé.",
+      "text_sha256": "43e6d66024d2c44eec903a9247f7c0abbc205b89e9f349f58551362ef84dfb59",
+      "md_span": {
+        "start": 29162,
+        "end": 29439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_26/20140901",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le règlement de service doit, de manière détaillée et complète, prévoir des dispositions concernant l'ouverture des portes du sas, le tri des personnes autorisées à pénétrer dans les différentes parties du central, les missions et la relève du personnel affecté au central, les contrôles concernant la salle des coffres, les opérations de chargement et de déchargement ainsi que le stationnement des fourgons. Il doit en outre contenir toutes les instructions nécessaires concernant les opérations de transport: la désignation des chauffeurs, des convoyeurs et du responsable des itinéraires, les recommandations d'observation et de prévention, les mesures de sécurité à prendre lors du chargement et du déchargement des fonds ou valeurs, les modalités du stationnement des fourgons, les directives concernant la collaboration avec les forces de l'ordre pour sécuriser les itinéraires et assurer une protection efficace des fonds ou valeurs transportés en cas d'attaque ainsi que la conduite à adopter pour riposter aux différents types d'agressions.",
+      "text_sha256": "f7f98b8664fd7a0d85fad99f7e8526dccb679db964026ac3ec3df4ad400f44dd",
+      "md_span": {
+        "start": 29476,
+        "end": 30526
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27/20140901",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Section IV — Transport de fonds ou de valeurs"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le port de l'uniforme de service est obligatoire pour les agents en service dans les fourgons. Les agents circulant en voiture de service doivent être équipés d'un système de liaison radio avec le central et d'un téléphone mobile.",
+      "text_sha256": "2202fc540a21e89eb8e7d0a722366671a88c566e7216c12c6f4738a4bd362bfc",
+      "md_span": {
+        "start": 30563,
+        "end": 30793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_1/20140901",
+      "type": "article",
+      "num": "Art. 27-1.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le ministre de la Justice est l'autorité compétente pour l'octroi des licences de transports de fonds transfrontaliers au sens de l'article 4 du règlement (UE) n° 1214/2011 du Parlement européen et du Conseil du 16 novembre 2011 sur le transport transfrontalier professionnel d'euros en espèces par la route entre États membres dans la zone euro, ci-après désigné comme «le règlement (UE) n° 1214/2011».\n\nLe ministre de la Justice et la police grand-ducale sont les autorités compétentes à informer de l'intention d'effectuer des transports de fonds transfrontaliers au sens de l'article 12, paragraphe (2) du règlement (UE) n° 1214/2011.",
+      "text_sha256": "0b9fba4d1b176fb38701d358ca84c964eae94a417222cc608753884339f2f213",
+      "md_span": {
+        "start": 30909,
+        "end": 31547
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27-2",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_2/20140901",
+      "type": "article",
+      "num": "Art. 27-2.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les opérations de transports transfrontaliers d'euros en billets par la route effectués sur le territoire luxembourgeois sont soumises aux modalités prévues aux articles 16, 17 et 20 du règlement (UE) n° 1214/2011.\n\nEn ce qui concerne l'application de l'article 16 du règlement (UE) n° 1214/2011, sont seuls autorisés les IBNS de bout en bout, conformément à l'article 13, paragraphe (4) du même règlement.",
+      "text_sha256": "406658ba5e1f01bbaad43bf615349eb3ea2c7069ca9bebc60a0ca7341648f4f9",
+      "md_span": {
+        "start": 31588,
+        "end": 31994
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27-3",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_3/20261101",
+      "type": "article",
+      "num": "Art. 27-3.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Le ministre de la Justice est le point de contact central visé à l'article 6, paragraphe (5) du règlement (UE) n° 1214/2011. En application de la loi du 2 février 2022 sur les armes et munitions, il est compétent pour l'octroi des permis de port d'armes que doivent détenir les convoyeurs de fonds qui sont employés par des entreprises établies dans un autre Etat membre de la zone euro et qui sont armés ou qui se trouvent à bord d'un véhicule de transport de fonds contenant des armes, lorsqu'ils circulent sur le territoire luxembourgeois.\n\nLes entreprises de transport de fonds établies dans d'autres Etats membres qui ont sollicité, pour leurs convoyeurs de fonds, un permis de port d'armes à titre professionnel auprès du ministre de la Justice sont informées de l'issue réservée à leur demande dans un délai de trois mois à compter de la soumission d'un dossier de demande complet.\n\nSi la formation de tir aux armes à feu est dispensée aux convoyeurs des entreprises visées à l'alinéa 1er dans l'Etat membre où ces entreprises sont établies à des conditions équivalentes à celles de la loi luxembourgeoise, l'octroi du permis de port d'armes à ces convoyeurs est soumis à la présentation d'un document, rédigé en langue française ou allemande, émanant de l'organisme formateur et attestant qu'ils ont suivi cette formation. En l'absence de reconnaissance d'équivalence, le ministre organise pour les convoyeurs de fonds une formation conformément à l'article 6, paragraphe (6) du règlement (UE) n° 1214/2011.\n\nLe ministre de la Justice peut reconnaître comme équivalents les permis ou autorisations de port d'armes délivrés à titre professionnel d'autres Etats membres. Dans ce cas, l'obligation de solliciter et d'obtenir un permis de port d'armes au Luxembourg ne s'impose pas.",
+      "text_sha256": "7eb843cb7a094b65fff69a73ca602faf36765ebf6afbb6ce270044a1a96090a9",
+      "md_span": {
+        "start": 32035,
+        "end": 33821
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2022/02/02/a49/jo",
+          "text": "loi du 2 février 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27-4",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_4/20140901",
+      "type": "article",
+      "num": "Art. 27-4.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les exigences en matière de formation initiale des convoyeurs de fonds qui effectuent des opérations de transports transfrontaliers d'euros en espèces sont celles prévues à l'annexe VI du règlement (UE) n° 1214/2011.",
+      "text_sha256": "09e1a9adeb9dda7723a74727f37cc02b0a74a4a801b16bd14be94fe5b09fe779",
+      "md_span": {
+        "start": 33862,
+        "end": 34078
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27-5",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_5/20261101",
+      "type": "article",
+      "num": "Art. 27-5.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "L'amende visée à l'article 22 du règlement (UE) n° 1214/2011 est de 250 à 25.000 euros. Lorsqu'un nouveau manquement est commis dans le délai d'un an à compter du jour où une amende administrative précédente du chef d'un autre manquement à la loi est devenue irrévocable, le maximum de l'amende peut être porté au double.\n\nLes amendes administratives sont perçues par l'Administration de l'enregistrement et des domaines. Elles sont acquittées dans les trente jours suivant la date de la notification de la décision. Passé ce délai, un rappel est adressé par voie recommandée. Le rappel fait courir des intérêts de retard calculés au taux légal.\n\nLes décisions du ministre de la Justice prises en vertu de l'article 22 du règlement (UE) n° 1214/2011 sont publiées au Mémorial B et sur le site Internet du ministère de la Justice. Ces décisions sont susceptibles d'un recours en réformation, à introduire dans un délai de trois mois devant le tribunal administratif.",
+      "text_sha256": "463e92c07674552632947817bdfc6df5838953e722a1b4b0ea0be8cc3eeb28d4",
+      "md_span": {
+        "start": 34119,
+        "end": 35084
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27-6",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_27-6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_27_6/20140901",
+      "type": "article",
+      "num": "Art. 27-6.",
+      "heading": null,
+      "path": [
+        "Section IV-1 — Transports de fonds transfrontaliers d'euros en espèces"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Le ministre de la Justice est l'autorité nationale compétente au sens de l'article 11 du règlement (UE) n° 1214/2011 et échange avec les autorités compétentes nationales, étrangères et européennes toutes les données, à caractère personnel ou non personnel, nécessaires à la mise en oeuvre de ce règlement.",
+      "text_sha256": "230777f044b0a571f2db7f1a1c96eae4d25b66fdaf853977a9f23c7365b9ccfc",
+      "md_span": {
+        "start": 35125,
+        "end": 35430
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_28/20261101",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Section V — Protection de personnes"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Par protection des personnes au sens de la présente loi, on entend les activités qui consistent à assurer à titre professionnel, en permanence ou à des périodes déterminées, la sécurité des personnes physiques déterminées, tant à leur domicile que durant leurs déplacements et à les protéger en cas d’agression. La protection d’un groupe de personnes non déterminées relève de l’activité de surveillance lors d’événements accueillant du public.\n\nPendant l’exercice d’une activité de protection de personnes, les agents doivent être joignables de façon permanente par téléphone, dont le numéro est communiqué à la Police grand-ducale sur la demande de celle-ci.",
+      "text_sha256": "af762b25a973660238f309b258ba4e57cb3ef2d455621455977ea297e0862f2d",
+      "md_span": {
+        "start": 35507,
+        "end": 36167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_29/20140901",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Section VI — Endroits sécurisés"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Toute personne, physique ou morale, qui prend régulièrement recours à des transporteurs de fonds ou de valeurs au sens de l'article 22 pour recevoir ou expédier des fonds ou valeurs, est tenue d'assurer au moins les réalisations suivantes:\n\n1. mise à disposition d'un endroit de stationnement réservé pour le véhicule assurant le transport de fonds ou de valeurs à proximité maximale de l'entrée des locaux desservis;\n2. aménagement d'un local sécurisé, permettant le dépôt et la collecte de fonds ou de valeurs, à atteindre dans la mesure du possible à l'abri de la vue du public;\n3. réalisation d'un système de surveillance qui couvre l'endroit de stationnement, le cheminement du convoyeur et le local sécurisé;\n4. réalisation d'un moyen de communication ou d'un système d'alarme permettant d'avertir la société de transports de fonds ou de valeurs de tout risque d'agression.\n\nAvant la mise en service des équipements prévus au présent article, la police grand-ducale doit être avisée pour lui permettre de prendre inspection des aménagements. Par décision du ministre de la Justice, les transporteurs de fonds ou de valeurs peuvent se voir interdire de desservir une personne, tenue d'assurer les réalisations dont question à l'alinéa premier, si cette personne reste en défaut d'y satisfaire, malgré l'injonction qui lui a été adressée par le ministre de la Justice, moyennant lettre recommandée avec avis de réception, de se conformer à la loi dans un délai déterminé.",
+      "text_sha256": "c3147f74654a05cb70118e98570898b47632366e9ac9d76d34626c381fcbb303",
+      "md_span": {
+        "start": 36240,
+        "end": 37715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_30/20261101",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Section VII. — Sanctions",
+        "Sous-section Ière — Sanctions pénales"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Est punie d’un emprisonnement de huit jours à un an et d’une amende de 251 à 250.000 euros ou d’une de ces peines seulement toute personne qui :\n\n1. er er\n2. er\n3. er\n4. er\n5. er\n6. qui n’exhibe pas sa carte de légitimation d’agent de gardiennage comme prévu à l’article 9, alinéa 2 ;\n7. exécute ou fait exécuter des missions de surveillance lors d’événements accueillant du public en portant une arme en contrevenant à l’article 11, alinéa 2 ;\n8. n’informe pas le ministre de la Justice ainsi que tous ses clients en cas de cessation volontaire des activités de gardiennage tel que prévu par l’article 12 ;\n9. fait travailler un chien et un maître-chien en matière de gardiennage en l’absence des diplômes prévus à l’article 13-1 ;\n10. fait, en tant qu’employeur ou en tant que cocontractant de l’entreprise de gardiennage, exécuter des missions de gardiennage en violation de l’article 14, alinéa 2 ;\n11. exécute personnellement ou fait exécuter, en tant qu’employeur ou en tant que cocontractant de l’entreprise de gardiennage, des missions de surveillance de biens mobiliers et immobiliers en contrevenant aux dispositions de l’article 14-1, alinéas 2 à 4 ;\n12. exécute personnellement ou fait exécuter, en tant qu’employeur ou en tant que cocontractant de l’entreprise de gardiennage, des missions de gardiennage en contrevenant à l’article 17, alinéa 2, deuxième phrase ;\n13. exécute personnellement ou fait exécuter, en tant qu’employeur ou en tant que cocontractant de l’entreprise de gardiennage, des missions de surveillance lors d’événements accueillant du public en contrevenant aux dispositions des articles 28-1, alinéas 3 et 4, et 28-2, alinéas 2 et 3 ;\n14. contrevient aux obligations de port de l’uniforme et de la carte de légitimation prévues à l’article 28-3, alinéa 2.\n\nEst punie des peines prévues à l’alinéa 1er toute personne physique ou morale qui a recours à une autre personne physique ou morale pour prester des services relevant du champ d’application de la présente loi, alors que cette personne ne dispose pas de l’autorisation prévue par la présente loi.\n\nEst puni des peines prévues par l'alinéa 1 le fait d'effectuer un transport de fonds transfrontalier d'euros en espèces sur le territoire luxembourgeois sans être titulaire de la licence prévue par l'article 4 du règlement (UE) n° 1214/2011.",
+      "text_sha256": "ff24d06b869f6ebbf24340a131c5fc2729d55a1bc1fe9b84fb2e33660e260796",
+      "md_span": {
+        "start": 37824,
+        "end": 40153
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1214/jo",
+          "text": "règlement (UE) n° 1214/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30-1",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_30-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_30_1/20210730",
+      "type": "article",
+      "num": "Art. 30-1.",
+      "heading": null,
+      "path": [
+        "Section VII. — Sanctions",
+        "Sous-section Ière — Sanctions pénales"
+      ],
+      "article_valid_from": "2021-07-30",
+      "text_md": "Sont punis d’une amende de 1.250 euros à 125.000 euros les sociétés exerçant des activités privées de gardiennage et de surveillance, les membres de l’organe de direction, les dirigeants effectifs ou les autres personnes responsables d’une infraction de ces sociétés, lorsqu’ils ont manqué à l’obligation :\n\n1. de s’assurer de l’authenticité des billets et pièces en euros qu’ils reçoivent et entendent remettre en circulation et de veiller à la détection des contrefaçons.\n2. de retirer de la circulation tous les billets et pièces en euros qu’ils ont reçus et dont ils savent ou au sujet desquels ils ont des raisons suffisantes de penser qu’ils sont faux ;\n3. de remettre les signes monétaires sous forme de billets et pièces en euros visés au point 2 aux autorités compétentes.",
+      "text_sha256": "f3b8ae3af3ab2bcecb54a6008521cbfd5e78d3a0678f62968a8dba486256d0d5",
+      "md_span": {
+        "start": 40194,
+        "end": 40975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30-2",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_30-2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_30-2/20261101",
+      "type": "article",
+      "num": "Art. 30-2.",
+      "heading": null,
+      "path": [
+        "Section VII. — Sanctions",
+        "Sous-section II. — Amendes administratives"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Est puni d’une amende administrative d’un montant de 500 à 50.000 euros à charge de l’entreprise le fait :\n\n1. er\n2. de ne pas informer le ministre de la Justice conformément à l’article 7 ;\n3. er\n4. de ne pas faire occuper le central en permanence par deux agents opérateurs au moins en contrevenant à l’article 15 ;\n5. er\n6. de ne pas faire occuper le central en permanence par deux agents opérateurs au moins en contrevenant à l’article 20, première phrase ;\n7. de ne pas faire occuper le central en permanence par deux agents de garde au moins en contrevenant à l’article 24, deuxième phrase ;\n8. de faire exécuter des missions de transports de fonds sans que les agents y affectés ne portent l’uniforme de service et ne soient équipés d’un système de liaison de radio et d’un téléphone mobile tel que prévu par l’article 27 ;\n9. er\n10. er\n11. règlement (UE) n° 1214/2011\n\nEn cas de commission d’une nouvelle infraction à charge de la même entreprise dans le délai d’un an après une amende administrative précédente ayant acquis force de chose décidée ou, le cas échéant, jugée, le montant maximal est porté au double.\n\nLes infractions sont constatées par les agents et officiers de police administrative de la Police grand-ducale. La constatation fait l’objet d’un rapport mentionnant le nom du fonctionnaire qui y a procédé, le jour et l’heure du constat, les faits constatés, les nom et prénoms de la personne ou des personnes ayant commis l’infraction, ainsi que toutes déclarations que ces personnes ou d’autres personnes désirent faire acter. Le rapport est transmis au ministre de la Justice qui le notifie par lettre recommandée avec accusé de réception à l’entreprise contrevenante qui dispose du délai indiqué dans la notification, qui est de deux semaines au moins, afin de présenter ses observations en fait et en droit. La décision infligeant l’amende administrative est notifiée par le ministre de la Justice à l’entreprise contrevenante par lettre recommandée avec accusé de réception.\n\nContre les amendes administratives décidées en vertu du présent article, un recours en réformation est ouvert devant le tribunal administratif.\n\nLes amendes administratives prononcées par le ministre de la Justice sont publiées, lorsqu’elles ont acquis force de chose décidée ou, le cas échéant, jugée, sur le site internet du Ministère de la justice. Cette publication comprend des informations sur le type et la nature de la violation commise et sur l’identité de la personne responsable. Toute publication au titre du présent alinéa est maintenue pendant une période de cinq ans. Les données à caractère personnel figurant dans une telle publication ne sont maintenues sur le site internet que pendant une période de douze mois.\n\nL’Administration de l’enregistrement, des domaines et de la TVA est chargée du recouvrement des amendes administratives qui lui sont communiquées par le ministre de la Justice. Le recouvrement est poursuivi comme en matière d’enregistrement.",
+      "text_sha256": "41bf02446fa0b51a6fd77bff86258e64b47b53ac29c7dd5d74d420cae0d80682",
+      "md_span": {
+        "start": 41064,
+        "end": 44044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30-3",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_30-3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_30-3/20261101",
+      "type": "article",
+      "num": "Art. 30-3.",
+      "heading": null,
+      "path": [
+        "Section VII-1 — Taxes"
+      ],
+      "article_valid_from": "2026-11-01",
+      "text_md": "Les demandes en obtention des autorisations, approbations et licences prévues par la présente loi sont soumises au paiement d’une taxe. Un règlement grand-ducal détermine les modalités de paiement de ces taxes ainsi que leurs montants comme suit :\n\n1. pour la demande en obtention et de renouvellement des autorisations prévues à l’article 4, le montant ne peut être inférieur à 500 euros, ni être supérieur à 1.000 euros ;\n2. pour la demande en obtention de l’approbation prévue à l’article 8, le montant ne peut être inférieur à 25 euros, ni être supérieur à 150 euros ; en cas de changement d’employeur par un agent de gardiennage, la modification de son approbation en cours de validité n’est soumise à aucune taxe ;\n3. pour la demande en obtention et de renouvellement de la licence prévue à l’article 27-1, le montant ne peut être inférieur à 350 euros, ni être supérieur à 750 euros.\n\nLes taxes prévues par le présent article sont perçues lors et en raison de la présentation de la demande. Elles ne sont pas restituables, même si l’autorisation, l’approbation ou la licence sollicitée est refusée, retirée ou révoquée, ou si la demande est retirée ou devient sans objet.",
+      "text_sha256": "8bfae92fa5ff73759bd675cde1da2cc6ca624c439d7484e79c368c92a8af6be6",
+      "md_span": {
+        "start": 44111,
+        "end": 45289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_31/20140901",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Section VIII — dispositions transitoires et abrogatoires"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les personnes actuellement autorisées à exercer des activités privées de gardiennage et de surveillance bénéficient d'un délai de six mois à partir de la mise en vigueur de la présente loi pour se conformer aux nouvelles conditions établies ci-dessus.",
+      "text_sha256": "a723cca7a3d70098c3bbd1c22f4dce875ca608f649577e92f3150f0a63e2d0b5",
+      "md_span": {
+        "start": 45387,
+        "end": 45638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_32/20140901",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Section VIII — dispositions transitoires et abrogatoires"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Elles sont tenues d'introduire une demande en vue de bénéficier des dispositions transitoires de la présente loi dans les deux mois de son entrée en vigueur. A défaut d'introduire leur demande en temps utile ou de réaliser les aménagements et conditions nouvelles que leur impose la présente loi, l'agrément dont elles sont titulaires devient caduc.",
+      "text_sha256": "abf497fe690ca17faef69de78928ccb3a19f8d393039b6a5f4539aa2319fef0d",
+      "md_span": {
+        "start": 45675,
+        "end": 46024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_33/20140901",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Section VIII — dispositions transitoires et abrogatoires"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "Les personnes tenues de réaliser les aménagements prévus à l'article 29 de la présente loi bénéficient d'un délai de douze mois pour se conformer aux dispositions de cet article.",
+      "text_sha256": "e9f2e6cc9209322d2c75cbfff4690df81c1c9f142301524bd87643ea825115b3",
+      "md_span": {
+        "start": 46061,
+        "end": 46239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01--a4d8ba1ce8b7c71a2931e0ab7f37ca1ff823e9ecf1b79c87fb80f8648bb8811f#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2014/08/28/n1/art_34/20140901",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Section VIII — dispositions transitoires et abrogatoires"
+      ],
+      "article_valid_from": "2014-09-01",
+      "text_md": "La loi du 6 juin 1990 relative aux activités privées de gardiennage et de surveillance est abrogée.",
+      "text_sha256": "b69ec0bdac2429a736898842db9a40db326f89fafb31c188732b5089b4c97b2b",
+      "md_span": {
+        "start": 46276,
+        "end": 46375
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/06/06/n2/jo",
+          "text": "loi du 6 juin 1990"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

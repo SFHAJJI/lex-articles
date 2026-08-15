@@ -1,0 +1,214 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/11/1983 : Règlement grand-ducal du 17 mai 1967 déterminant les taxes d'atterrissage, de stationnement et d'éclairage à l'aéroport de Luxembourg.",
+  "valid_from": "1984-11-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1967-05-17-n5/versions/1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969/fr.pdf-memorial/eli-etat-leg-memorial-1984-a102-fr-pdf.pdf",
+    "sha256": "2ef2a594bc6451074b75bacdf1685370a7d4d2c56bdb1d443bcb909e8b2bac70",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/05/17/n5/consolide/19841130/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "L´article 2 du règlement grand-ducal du 17 mai 1967 prémentionné est remplacé par le texte",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "suivant: «Les taxes d´atterrissage sont fixées comme suit: avions d´un poids égal ou inférieur à 2 tonnes 200 fr avions d´un poids supérieur à 2 tonnes, mais inférieur à 60 tonnes, par tonne ou par fraction de tonne 75 fr_ avions d´un poids égal ou supérieur à 60 tonnes, par tonne ou par fraction de tonne . . . . . . 100 fr Aucune taxe d´atterrissage ne sera perçue en cas de vol d´essai».",
+      "text_sha256": "a358dde0c2efac44b0c5922530fe874e5233f5ea8022a25ebcb16c75c07f000f",
+      "md_span": {
+        "start": 838,
+        "end": 1229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Le premier alinéa de l´article 3 du règlement grand-ducal du 17 mai 1967 déterminant les taxes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "d´atterrissage, de stationnement et d´éclairage de l´aéroport de Luxembourg est remplacé par le texte suivant: « La taxe de stationnement est fixée à cinquante francs par tonne et par période de vingt-quatre heures, toute fraction de tonne et de période de vingt-quatre heures étant comptée pour une unité entière. »",
+      "text_sha256": "1c576507fa4494ac9ad0ab01de83ffd6393066b5ce2669b77fa41fed396286fe",
+      "md_span": {
+        "start": 1359,
+        "end": 1675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Notre Ministre des Transports et Notre Ministre des Finances sont chargés, chacun en ce qui le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "concerne, de l´exécution du présent règlement qui sera publié au Mémorial. Palais de Luxembourg, le 31 octobre 1984. Jean Le Ministre des Transports, Marcel Schlechter Le Ministre des Finances, Jacques Santer Texte coordonné du 31 octobre 1984 du règlement grand-ducal du 17 mai 1967 déterminant les taxes d´atterrissage, de stationnement et d´éclairage à l´Aéroport de Luxembourg, tel qu´il a été modifié par les règlements grand-ducaux du 24 mars 1970, du 19 mars 1971, du 2 février 1972 et du 31 octobre 1984.",
+      "text_sha256": "128c59c3a3f177ed0712abeaf085bee8ef27069753dec874b31a53fc36c67133",
+      "md_span": {
+        "start": 1805,
+        "end": 2317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_1er__2",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_1er__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Les taxes d´atterrissage et de stationnement dues par un aéronef sont calculées d´après le poids",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "maximum autorisé au décollage. (Règl. g.-d. du 24 mars 1970)",
+      "text_sha256": "538b64610cc0e04906b83ad5cdb5f5bb900ab35f1312efcaf2c4e07377f8118a",
+      "md_span": {
+        "start": 2456,
+        "end": 2516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2__2",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_2__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Les taxes d´atterrissage sont fixées comme suit:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "- avions d´un poids égal ou inférieur à 2 tonnes 200 fr . . . .. .. .. .. .. .. .. .. .. .. .. .. . . .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. .. .. .. .. .. .. .. .. .. ... . . . . . _ _ 1655 _ avions d´un poids supérieur à 2 tonnes, mais inférieur à 60 tonnes, par tonne ou par fraction de tonne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75 fr_ avions d´un poids égal ou supérieur à 60 tonnes, par tonne ou par fraction de tonne . . . . . . 100 fr Aucune taxe d´atterrissage ne sera perçue en cas de vol d´essai. (Règl. g.-d. du 31 octobre 1984)",
+      "text_sha256": "dcf950d9892baebe32e6acb4490c6aa92a6548f6297378551d5ccca001613acc",
+      "md_span": {
+        "start": 2603,
+        "end": 3379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2bis",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_2bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2bis.",
+      "heading": "En ce qui concerne le trafic commercial, la taxe d´atterrissage est complétée à partir du 1er avril",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1971 par une taxe calculée suivant le nombre des passagers à bord de l´aéronef au moment de son décollage. Cette taxe complémentaire est fixée à 50,_ francs, si l´aéroport de destination du passager est situé dans un pays européen dans un rayon de 2.000 km, et à 100,_ francs par passager dans tous les autres cas. Sont exemptés de cette taxe les passagers en transit direct, les enfants de moins de deux ans et les détenteurs d´un billet de service. (Régl. g.-d. du 19 mars 1971)",
+      "text_sha256": "a990d176a8cbeb252048ca03be6e5e177d5eed16249b5198398a39fff669a206",
+      "md_span": {
+        "start": 3520,
+        "end": 4000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3__2",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_3__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "La taxe de stationnement est fixée à cinquante francs par tonne et par période de vingt-quatre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "heures, toute fraction de tonne et de période de vingt-quatre heures étant comptée pour une unité entière. (Régl. g.-d. du 31 octobre 1984) Après chaque atterrissage, les 6 premières heures de stationnement sont gratuites.",
+      "text_sha256": "dcfabe046e43d278618268d9cddb9d7a90f85086069bcb40edec425a0e9b9d9e",
+      "md_span": {
+        "start": 4133,
+        "end": 4355
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par le Régl. g.-d. du 24 mars 1970)",
+      "text_sha256": "1c84e3fa0fa82104a34b1c7692851d3df28aec2997b8c8d5cc8df27096e5b267",
+      "md_span": {
+        "start": 4390,
+        "end": 4433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Les taxes d´atterrisage et de stationnement sont payables au comptant à l´administration de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´enregistrement et des domaines par l´entremise d´un fonctionnaire de l´aéroport opérant sous le contrôle de l´administration prémentionnée. Toutefois, l´administration de l´enregistrement et des domaines pourra déroger au procédé de recouvrement spécifié ci-avant en autorisant, sous diverses conditions, le paiement de ces taxes sur la base d´un décompte mensuel à établir par les services de l´aéroport. Le règlement du décompte mensuel doit intervenir dans les trois mois de l´expédition dudit décompte. Le commandant en chef de l´aéroport ou son délégué peut interdire l´envol de tout aéronef pour lequel les redevances dues n´ont pas été acquittées dans les délais prescrits. (Régl. g.-d. du 2 février 1972)",
+      "text_sha256": "b9cfe61c64def87b13e2eaf5b8580874949ba67a0cdad262e90665ca153a0b52",
+      "md_span": {
+        "start": 4560,
+        "end": 5274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Le présent arrêté s´applique aux aéronefs luxembourgeois et étrangers à l´exception des aéronefs",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "gouvernementaux. (Règl. g.-d. du 24 mars 1970)",
+      "text_sha256": "db4f3a62570ea19e201cfa4d2a66cfd4cb8dc33a9086a5a591b279c4cbad9ad0",
+      "md_span": {
+        "start": 5406,
+        "end": 5452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1967-05-17-n5:1984-11-30--0addf9ebfa6f182c8cd5f0016b77e28fea7bcb8fe6a181866f3103efdc406969#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Des exonérations ou réductions de taxes d´atterrissage, de stationnement et d´éclairage peuvent",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "être accordées pour des raisons d´intérêt général par le Ministre des Transports.",
+      "text_sha256": "fae0f18effdaf14302b21fc030de1a8283b7e4d0a21e73ddd456af3162b71974",
+      "md_span": {
+        "start": 5583,
+        "end": 5664
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 60 line(s) in",
+    "took lines 68..128 of 519 from the gazette issue"
+  ]
+}

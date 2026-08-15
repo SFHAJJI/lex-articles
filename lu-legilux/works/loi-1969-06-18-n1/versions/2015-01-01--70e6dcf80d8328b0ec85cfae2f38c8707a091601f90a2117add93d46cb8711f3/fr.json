@@ -1,0 +1,429 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2015 : Loi du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur.",
+  "valid_from": "2015-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1969-06-18-n1/versions/2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3/fr.xml",
+    "sha256": "506f6c5f1ebd07149fc7eee3dbc5b5942673e356cb270e77bce46a1bb2989726",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/consolide/20150101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_1er/20150101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Le régime de la collation des grades et titres par des jurys luxembourgeois, tel qu’il a été institué par la loi du 5 août 1939 sur la collation des grades, en philosophie et lettres, en sciences physiques et mathématiques, en sciences naturelles, en droit, en notariat, en médecine, en médecine dentaire, en médecine vétérinaire et en pharmacie, est aboli et remplacé, en vue de l’accès à certaines fonctions et professions conformément aux lois et règlements les gouvernant, par un système d’homologation des grades et titres étrangers correspondants.\n\nLe système d’homologation concerne les domaines disciplinaires énumérés ci avant à l’exception du notariat. Sont ajoutées aux domaines disciplinaires les sciences humaines. Un règlement grand-ducal peut déterminer des disciplines spécifiques situées dans les domaines tels que visés.",
+      "text_sha256": "db31cfacbf3295c1b9ff88f2a503f99f38e2cc5f2a110a04c74904609a2e3441",
+      "md_span": {
+        "start": 727,
+        "end": 1565
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1939/08/05/n2/jo",
+          "text": "loi du 5 août 1939"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_2/20150101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Aux fins visées à l’article 1er les examens de fin d’études passés aux universités, écoles et établissements d’enseignement supérieur étrangers, les grades de l’enseignement supérieur que ces examens confèrent et les diplômes et titres d’examen qui constatent que le candidat a été reçu, sont reconnus moyennant homologation par le Ministre de l’Éducation Nationale sur avis de commissions ad hoc.\n\nNul ne peut être admis à une fonction ou profession des disciplines énumérées à l’article 1er, s’il ne justifie avoir obtenu l’homologation prévue à l’alinéa qui précède, sans préjudice des autres conditions édictées par les lois et règlements sur la matière.",
+      "text_sha256": "790299f7e72f3717ac2bce3deb3e8548d34843d4a124527551c714ba09e36af7",
+      "md_span": {
+        "start": 1600,
+        "end": 2258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_3/20150101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les commissions d’homologation sont nommées par arrêté grand-ducal pour chaque discipline.\n\nUn règlement grand-ducal, pris sur avis du Conseil d’État, arrêtera la composition de ces commissions, leurs attributions et la procédure à suivre.",
+      "text_sha256": "64baa6956527f9cb1e0082d475d575da842ad16ea3d898327971f70d447e1ef0",
+      "md_span": {
+        "start": 2293,
+        "end": 2532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_4/20150101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "**(1)** Nul ne pourra présenter à l’homologation un diplôme final d’enseignement supérieur étranger s’il n’est pas titulaire d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien approprié selon les dispositions de l’article 20 de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la réglementation luxembourgeoise en vigueur.\n\nUn règlement grand-ducal peut déterminer la procédure et les conditions d’une reconnaissance d’équivalence à un des diplômes luxembourgeois mentionnés au premier alinéa de diplômes étrangers correspondants délivrés par des Etats qui n’ont pas adhéré à la Convention européenne relative à l’équivalence des diplômes donnant accès aux établissements universitaires, signée à Paris le 11 décembre 1953 et approuvée par la loi du 13 décembre 1954, et/ou la Convention sur la reconnaissance des qualifications relatives à l’enseignement supérieur dans la région européenne, ouverte à la signature, à Lisbonne, le 11 avril 1997, et approuvée par la loi du 14 août 2000.\n\n**(2)** L’homologation ne pourra être accordée que si les études supérieures des postulants et leurs diplômes ou titres d’examens finals étrangers répondent aux critères généraux définis comme suit:\n\n- la durée minimale des études supérieures, qui pour chacune des disciplines est fixée par règlement grand-ducal;\n- la nature et l’étendue des enseignements théoriques et/ou pratiques, dont les spécificités sont définies par règlement grand-ducal pour chaque discipline.\n\nLes diplômes finals sanctionnant des études portant respectivement sur les langues ou lettres anglaises, allemandes et françaises doivent être obtenus dans un pays ou une région d’un pays de langue respectivement anglaise, allemande, française, après des études accomplies dans un tel pays pendant au moins deux années.\n\nLe diplôme final sanctionnant des études en droit doit être obtenu dans un pays dont le système juridique correspond dans ses conceptions fondamentales aux principes généraux du système juridique luxembourgeois.\n\nLes diplômes présentés à l’homologation doivent, sans dérogation possible, conférer un grade d’enseignement supérieur, reconnu par le pays d’origine, ou y donner accès à certaines fonctions et professions conformément aux lois et règlements les gouvernant ainsi qu’aux stages correspondants, sans qu’une discrimination puisse être faite entre titres légaux et titres scientifiques, entre titres d’Etat et titres d’Université.\n\n**(3)** Le Ministre ayant l’enseignement supérieur dans ses attributions peut, par voie d’arrêtés à prendre sur avis des commissions d’homologation, énumérer les diplômes et titres étrangers qui répondent aux exigences formulées à l’alinéa qui précède et qui donneront droit à l’homologation sans nouvel examen et avis des commissions.",
+      "text_sha256": "fdfb05b5a6f8b888e44bd009c25b897df6250024c2c4ef1a92367e558d2529a9",
+      "md_span": {
+        "start": 2567,
+        "end": 5534
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/09/04/n1/jo",
+          "text": "loi modifiée du 4 septembre 1990"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1954/12/13/n6/jo",
+          "text": "loi du 13 décembre 1954"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2000/08/14/n7/jo",
+          "text": "loi du 14 août 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_5/20150101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "La procédure d’homologation comportera la vérification de l’existence des conditions légales sur la base des pièces produites, et portera sur la régularité formelle des titres d’examen ou diplômes étrangers présentés à l’homologation, ainsi que sur la conformité de l’enseignement qu’ils sanctionnent, aux critères à fixer.\n\nCette procédure d’homologation, y compris la délivrance de l’attestation spéciale de la transcription de la décision d’homologation, attestation appelée «certificat d’homologation», est soumise au paiement d’une taxe dont le montant est fixé à 125 euros.\n\nTout intéressé peut se voir délivrer un duplicata du certificat d’homologation à charge de payer une taxe d’un montant de 10 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "3665c445d78bc2c038fee5f44140cc38b0aa923d742a4f8e91bd11bb87d34f7e",
+      "md_span": {
+        "start": 5569,
+        "end": 6614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_6/20150101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "La décision portant octroi d’homologation sera transcrite sur un registre spécial tenu à cet effet au Ministère de l’Éducation nationale, et elle sera portée sur le titre ou diplôme présenté à l’homologation, si le titulaire le demande, indépendamment de l’inscription d’office prévue à l’article 2 de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.",
+      "text_sha256": "f62b43ba888e8e004c6b7e2950b1818237f8462e562af708c1f77f6bbc9e7f8f",
+      "md_span": {
+        "start": 6649,
+        "end": 7039
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/17/n1/jo",
+          "text": "loi du 17 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_7/20150101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "A partir de la transcription prévue à l’alinéa 1er de l’article qui précède, l’homologation accordée implique pleine reconnaissance des examens, grades et diplômes étrangers dans les disciplines visées à l’alinéa 1er de l’article 1er.\n\nElle habilite son titulaire soit à l’admission au stage professionnel, soit à l’exercice des fonctions et professions réglementées et aux conditions prévues par les lois et règlements afférents.\n\nLa liste des diplômes ou titres d’examens homologués et transcrits sera publiée périodiquement et au moins deux fois par an au Mémorial.",
+      "text_sha256": "9b558ce54a8fb14707cb98a07c66d1652db527a5de2238b933a468da56f228dc",
+      "md_span": {
+        "start": 7074,
+        "end": 7642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_8/20150101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les Cours supérieurs sont maintenus comme première année d’études universitaires et prennent la dénomination de Cours universitaires.\n\nL’organisation scientifique des Cours universitaires, les programmes de l’enseignement et les modalités des examens seront réglés par règlement grand-ducal. Le règlement concernant les examens pourra, au profit des étudiants qui opteront pour l’ancien régime conformément aux dispositions de l’article 13 de la présente loi, accorder l’équivalence de ces examens avec les examens correspondants suivants prévus par la loi du 5 août 1939: premier examen pour la candidature en philosophie et lettres, premier examen pour la candidature en sciences physiques et mathématiques, premier examen pour la candidature en sciences naturelles, examen pour la candidature en philosophie et lettres préparatoire à l’étude du droit, examen pour la candidature en sciences naturelles préparatoire à l’étude de la médecine et médecine dentaire, de la médecine vétérinaire ou de la pharmacie.\n\nToutefois, l’homologation des grades, titres et examens étrangers ne pourra être subordonnée à la fréquentation de ces Cours universitaires ou à la production des certificats et diplômes qui sanctionnent ces études.",
+      "text_sha256": "7fa57af6f3ec30d879b288b2b7478f1ca09995c8b28a359e62604d3a7a324725",
+      "md_span": {
+        "start": 7677,
+        "end": 8905
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1939/08/05/n2/jo",
+          "text": "loi du 5 août 1939"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_9/20150101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Des règlements grand-ducaux à prendre sur avis du Conseil d’État organiseront les stages professionnels ou de formation spécialisée que le candidat doit, le cas échéant, accomplir après l’homologation, avant d’être admis à certaines professions.\n\nCes règlements fixeront la durée, les modalités et les épreuves de stage ou de formation spécialisée, même en dérogeant aux lois existantes, et ils pourront imposer la fréquentation d’un enseignement complémentaire et subordonner la continuation du stage à la réussite d’une épreuve sanctionnant cet enseignement.\n\nLe règlement grand-ducal organisant le stage professionnel pour les fonctions ou professions judiciaires ou administratives réglementera également l’accès au notariat.\n\nLe règlement grand-ducal organisant la formation de spécialisation ainsi que les stages pratiques dans les branches de l’art de guérir, sera pris sur avis du Collège médical et précisera les conditions et les modalités auxquelles est soumise la reconnaissance de la qualité de spécialiste.\n\nLes stagiaires toucheront une indemnité de stage dont le montant sera fixé par le Gouvernement en conseil.",
+      "text_sha256": "5ae3e737f2277bdf4ca99648938c1c226f022cdfc7edc67a058bf358679b7756",
+      "md_span": {
+        "start": 8940,
+        "end": 10068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_10/20150101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Il est créé à Luxembourg un institut appelé Centre universitaire de Luxembourg, qui comprendra:\n\n1. les Cours universitaires, prévus à l’article 8;\n2. les Cours complémentaires, institués en vertu de l’article 9.\n\nLe Centre universitaire pourra recourir à des chargés de cours étrangers.\n\nUne loi spéciale réglera l’organisation administrative du Centre universitaire.\n\nEn attendant le vote de cette loi, le Gouvernement est autorisé à appliquer aux Cours universitaires l’actuelle organisation administrative des Cours supérieurs et à recourir à des chargés de cours étrangers tant pour les Cours universitaires que pour les Cours complémentaires.",
+      "text_sha256": "cf9502a369e17e6b2f464ac4e8302aea27c14a400787afcc47ea8397fafb3352",
+      "md_span": {
+        "start": 10105,
+        "end": 10753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_11/20150101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Le Gouvernement est autorisé à créer un ou plusieurs établissements d’utilité publique chargés d’organiser un enseignement supérieur à caractère post-universitaire dans une ou plusieurs des disciplines visées à l’alinéa 1er de l’article 1er de la présente loi ou dans d’autres disciplines.\n\nIls pourront être rattachés administrativement, mais sous respect de leur autonomie scientifique et financière, à l’institut visé à l’article 10.\n\nLe statut de ces établissements sera régi par les dispositions du titre II de la loi du 21 avril 1928 sur les associations sans but lucratif et les établissements d’utilité publique.\n\nLes établissements bénéficieront de la part du Gouvernement d’un soutien financier dont le montant sera déterminé annuellement par la loi concernant le budget des recettes et des dépenses de l’État.\n\nIls seront placés sous la surveillance du Ministre de l’Éducation nationale.",
+      "text_sha256": "2ccf239ee09614a948d67dbe28e3f16f0c1dcef1f8614050265028e52785936c",
+      "md_span": {
+        "start": 10790,
+        "end": 11688
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "loi du 21 avril 1928"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_12/20150101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les règlements grand-ducaux prévus à l’article 4, alinéa 1er détermineront pour chacune des disciplines énumérées à l’article 1er, alinéa 1er, l’entrée en vigueur de la présente loi pour autant qu’elle concerne l’homologation des titres et grades étrangers d’enseignement supérieur.\n\nLes articles 8 et 10 entreront en vigueur à la date fixée par leurs règlements d’exécution.\n\nLes autres dispositions de la loi entreront en vigueur trois mois après sa publication au Mémorial.",
+      "text_sha256": "a167b66118043c5d68b7c1f6ba18a778a5fce0bfe4a726e53f947cd535b5dd23",
+      "md_span": {
+        "start": 11725,
+        "end": 12201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_13/20150101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Pendant un délai de cinq années suivant la date de l’entrée en vigueur de la présente loi, telle qu’elle aura été fixée en conformité de l’alinéa 1er de l’article qui précède, les étudiants bénéficieront d’une option entre le régime de la présente loi et celui de la collation des grades, tel qu’il résulte de la loi du 5 août 1939.\n\nL’option pour le régime ancien de la collation des grades résultera de la demande présentée dans les formes prescrites.\n\nLe délai prévu à l’alinéa 1er pourra être prorogé et abrégé par règlement grand-ducal.\n\nAprès l’expiration de ce délai les étudiants qui auront opté pour l’ancien régime de la collation des grades, pourront terminer leurs études sous ce régime.",
+      "text_sha256": "a8aca8666047e32afdf3158307870cf00b94c71d8b80b610649e77d521b51ccb",
+      "md_span": {
+        "start": 12238,
+        "end": 12937
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1939/08/05/n2/jo",
+          "text": "loi du 5 août 1939"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 12974,
+        "end": 12974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_15/20150101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Quiconque a obtenu sous le régime de la loi du 15 août 1939 sur la collation des grades un grade ou un titre dans une des disciplines énumérées à l’article 1er alinéa 1er de la présente loi, peut, s’il aspire à un grade ou à un titre dans une autre de ces disciplines, être dispensé par le Gouvernement, les jurys d’examens intéressés entendus en leur avis, de l’examen total ou partiel sur les matières qui ont fait l’objet de l’examen subi antérieurement, ainsi que de l’observation des délais qui doivent s’écouler entre deux épreuves consécutives. Les dispositions du présent alinéa cesseront de sortir leurs effets trois ans après l’entrée en vigueur de la présente loi.\n\nPour les étudiants qui auront opté pour le régime de la collation des grades tel qu’il résulte de la loi du 5 août 1939, ce délai ne courra qu’à partir de la date du dernier examen de leur cycle d’études.",
+      "text_sha256": "5d69302532baa74dabc6ba619f911d68b816b11dc4f8b87f442cec01da25cc2d",
+      "md_span": {
+        "start": 13011,
+        "end": 13892
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1939/08/05/n2/jo",
+          "text": "loi du 15 août 1939"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1939/08/05/n2/jo",
+          "text": "loi du 5 août 1939"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_16/20150101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Lorsqu’un règlement grand-ducal pris sur la base de l’article 4, alinéa 1er, modifiera les critères matériels spécifiques ou les conditions réglementaires dans un sens moins rigoureux, la nouvelle réglementation s’appliquera d’emblée aux études en cours, aux demandes à présenter et à celles qui sont déjà pendantes.\n\nCe règlement s’appliquera même aux postulants auxquels l’homologation a déjà été refusée.\n\nSi un règlement grand-ducal pris sur la base de l’article 4, alinéa 1er, fixe des critères matériels ou des conditions plus sévères l’ancien régime restera applicable à ceux dont la demande sera pendante et à ceux qui, au moment de l’entrée en vigueur de la réglementation nouvelle, auront commencé leurs études supérieures.\n\nLes dispositions qui précèdent sont applicables par analogie en cas de modification de la réglementation édictée sur la base de l’article 9 alinéa 1er.",
+      "text_sha256": "0f18efa217ace36e84b34fdaed54e3d3435ffd0ab1b523e19f5be9d214077e33",
+      "md_span": {
+        "start": 13929,
+        "end": 14815
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_17/20150101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "A l’avenir les grades étrangers homologués conformément à la présente loi remplaceront les grades conférés suivant le régime de la collation des grades, dans toutes les dispositions légales et réglementaires en vigueur qui soumettent certains stages, professions, fonctions et emplois à la condition de l’obtention préalable d’un grade luxembourgeois d’enseignement supérieur.\n\nToutefois, les grades étrangers en lettres et en sciences, homologués, ne rendent leurs titulaires admissibles au stage pédagogique de l´enseignement secondaire qu´à la condition qu´ils présentent encore les certificats et diplômes sanctionnant les études du même ordre aux Cours Universitaires.",
+      "text_sha256": "6462787ada68ae02f15f489a01bf70ac660f4d9468711c16ae39f8b431adfdc5",
+      "md_span": {
+        "start": 14852,
+        "end": 15525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_18/20150101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "L’exercice cumulatif de deux ou plusieurs des professions de médecin, médecin-dentiste, médecin-vétérinaire et pharmacien est interdit, sauf que la médecine et la médecine-dentaire peuvent être exercées cumulativement par les détenteurs des doctorats ou diplômes correspondants.\n\nToute contravention à ces dispositions sera punie des peines édictées par l’alinéa 1er de l’article 15 de la loi du 10 juillet 1901, sur l’exercice de l’art de guérir.\n\nL’article 25 de la même loi est applicable à ces infractions.",
+      "text_sha256": "25764daac7e9e5210a618f2fede719f9730a9b7278f7cb2d4254df58ddc45bc0",
+      "md_span": {
+        "start": 15562,
+        "end": 16072
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1901/07/10/n1/jo",
+          "text": "loi du 10 juillet 1901"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1901/07/10/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_19/20150101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "**I. -** Indépendamment des peines plus fortes portées par le Code pénal, tous ceux qui auront frauduleusement donné de faux renseignements déterminants, soit en faveur, soit en défaveur des postulants, ainsi que ceux qui auront, dans la même intention, fourni ou produit de fausses pièces déterminantes, même ne tombant pas sous les dispositions du chapitre IV du titre III du livre II du Code pénal, seront punis d’une peine d’emprisonnement de trois mois à deux ans et d’une amende de 500 à 6.000 euros.\n\nSi l’homologation a été accordée ou refusée sur la base de ces faux renseignements ou de ces fausses pièces la peine sera d’un emprisonnement de six mois à cinq ans et d’une amende de 2.000 à 6.000 euros.\n\nDans les deux cas, les coupables pourront, de plus, être condamnés à l’interdiction, conformément à l’article 33 du Code pénal.\n\nLa juridiction répressive qui condamne le postulant ou un tiers sur la base de l’alinéa 2 qui précède prononcera même d’office l’annulation de la décision d’homologation ou de refus de l’homologation. Durant l’instance répressive, l’effet de la décision d’octroi pourra être suspendu par décision du Ministre de l’Éducation Nationale prise sur avis de la commission compétente.\n\n**II. -** Seront punis des mêmes peines, et suivant les distinctions qui précédent, ceux qui, dans une intention frauduleuse auront reproduit aux fins d’homologation des diplômes ou titres d’examen ayant fait l’objet d’une décision antérieure même non encore irrévocable.\n\n**III. -** Les dispositions du Livre Ier du Code pénal ainsi que les articles 130-1 à 132-1 du Code d’instruction criminelle seront applicables aux infractions prévues par le présent article.",
+      "text_sha256": "5ef1d2b67ee1ee32ff423b8ae2cd8e40e95c76a3cc0f96b5fe0e881ca287c8ca",
+      "md_span": {
+        "start": 16109,
+        "end": 17795
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01--70e6dcf80d8328b0ec85cfae2f38c8707a091601f90a2117add93d46cb8711f3#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/art_20/20150101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "La législation actuelle régissant la collation des grades est maintenue en vigueur pour l’application de l’article 13.",
+      "text_sha256": "85e155beec872088b77ad9d68bb722a17a77248e274a8a9e1767828dd7c3812e",
+      "md_span": {
+        "start": 17832,
+        "end": 17950
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,395 @@
+---
+lex_id: 'eu-eurlex:32022r2580:2022-06-17--8aa31ecd6e380ac2ce771fc63b9fba3c642ae10a04baec67a2756f560c6b4c0c'
+title: 'Commission Delegated Regulation (EU) 2022/2580 of 17 June 2022 supplementing Directive 2013/36/EU'
+valid_from: '2022-06-17'
+valid_to: '2022-12-28'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2580'
+source_sha256: '65b2deb727c529bca1465ac0b5cdbecc165ac5162c5838834eb2f5a46a686a20'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Une demande d’agrément en tant qu’établissement de crédit contient toutes les informations suivantes sur l’identité du demandeur:
+
+| a) | le nom et les coordonnées de la personne à contacter au sujet de la demande; |
+| --- | --- |
+
+| b) | le cas échéant, le nom et les coordonnées du conseiller professionnel principal qui participe à la préparation de la demande; |
+| --- | --- |
+
+| c) | le nom, la dénomination commerciale et le logo actuels du demandeur et, le cas échéant, toute modification envisagée de ces noms ou de ce logo; |
+| --- | --- |
+
+| d) | la forme juridique du demandeur; |
+| --- | --- |
+
+| e) | la date et le pays de constitution du demandeur; |
+| --- | --- |
+
+| f) | l’adresse du siège statutaire du demandeur et, si elle diffère, de son administration centrale et de ses principaux sièges d’exploitation; |
+| --- | --- |
+
+| g) | les coordonnées du demandeur, si elles diffèrent des coordonnées fournies conformément au point a); |
+| --- | --- |
+
+| h) | lorsque le demandeur est immatriculé dans un registre central, un registre du commerce, un registre des sociétés ou un registre public similaire, le nom de ce registre, le numéro d’immatriculation du demandeur ou un moyen équivalent d’identification dans ce registre; |
+| --- | --- |
+
+| i) | le cas échéant, l’identifiant d’entité juridique (LEI) du demandeur; |
+| --- | --- |
+
+| j) | la date de fin de l’exercice comptable pour le demandeur; |
+| --- | --- |
+
+| k) | le cas échéant, l’adresse du site internet du demandeur; |
+| --- | --- |
+
+| l) | les statuts du demandeur ou documents constitutifs équivalents et, le cas échéant, la preuve de l’inscription au registre désigné par la législation de l’État membre concerné conformément à l’article 16 de la directive (UE) 2017/1132 du Parlement européen et du Conseil (4). |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Une demande d’agrément en tant qu’établissement de crédit contient un résumé de l’historique du demandeur et de ses filiales, comprenant toutes les informations suivantes:
+
+| a) | des informations sur toute licence, tout agrément, tout enregistrement ou toute autre autorisation que le demandeur ou l’une de ses filiales s’est vu accorder par une autorité publique ou une autre entité exerçant des fonctions publiques dans un État membre ou un pays tiers pour l’exercice d’activités dans le secteur des services financiers, et qui entre dans une ou plusieurs des catégories suivantes:i)la licence, l’agrément, l’enregistrement ou l’autorisation a été accordé(e);ii)la demande de licence, d’agrément, d’enregistrement ou d’autorisation est en cours d’examen ou a été rejetée;iii)la licence, l’agrément, l’enregistrement ou l’autorisation a été révoqué(e);iv)après la soumission ou l’acceptation de la demande, le demandeur ou l’une de ses filiales a décidé de ne pas y donner suite ou de renoncer à cette licence, à cet agrément, à cet enregistrement ou à cette autorisation; |
+| --- | --- |
+| i) | la licence, l’agrément, l’enregistrement ou l’autorisation a été accordé(e); |
+| ii) | la demande de licence, d’agrément, d’enregistrement ou d’autorisation est en cours d’examen ou a été rejetée; |
+| iii) | la licence, l’agrément, l’enregistrement ou l’autorisation a été révoqué(e); |
+| iv) | après la soumission ou l’acceptation de la demande, le demandeur ou l’une de ses filiales a décidé de ne pas y donner suite ou de renoncer à cette licence, à cet agrément, à cet enregistrement ou à cette autorisation; |
+
+| b) | des informations détaillées sur tout événement important lié au demandeur ou à l’une de ses filiales qui s’est produit ou est en train de se produire et qui peut raisonnablement être considéré comme pertinent pour l’agrément, ce qui inclut les cas suivants:i)le demandeur ou l’une de ses filiales a déjà fait l’objet d’une déclaration de moratoire sur un endettement, d’une procédure de restructuration ou d’assainissement touchant ses créanciers, de mesures pouvant comporter une suspension de paiements, d’une suspension de mesures d’exécution ou d’une réduction de créances, d’une dissolution, d’une procédure de liquidation telle que définie à l’article 2 de la directive 2001/24/CE du Parlement européen et du Conseil (5), ou d’une procédure de redressement judiciaire ou d’insolvabilité ou autre procédure similaire;ii)le demandeur ou l’une de ses filiales a déjà fait l’objet d’une sanction administrative ou d’un jugement civil ou administratif, d’un arbitrage ou autre sentence de règlement des différends, ou d’une décision ou d’un jugement sur la commission d’une infraction pénale, qui a débouché sur la condamnation du demandeur ou de l’une de ses filiales, n’a pas été annulé et ne fait ni ne peut faire l’objet d’aucun recours, à l’exception des sanctions administratives infligées en vertu des articles 65, 66 ou 67 de la directive 2013/36/UE et des condamnations pénales, pour lesquelles des informations doivent être fournies concernant les décisions encore susceptibles de recours, y compris:1)tout jugement non exécuté ou sentence en suspens;2)tout règlement conclu avec une personne physique ou morale, eu égard aux conditions monétaires du règlement ou aux circonstances de sa conclusion, dont l’objet concerne le secteur des services financiers;3)toute condamnation pénale, sanction civile ou administrative ou autre mesure civile ou administrative prise par une autorité du secteur des services financiers ou autre, pour cause:—de fraude, de malhonnêteté, de corruption, de blanchiment de capitaux, de financement du terrorisme ou autre délit financier, ou d’absence de mise en place de politiques et procédures adéquates pour prévenir de tels événements;—de violation de la législation ou d’exigences réglementaires relatives au secteur des services financiers ou à la protection des consommateurs;—d’exercice non autorisé d’une activité réglementée;(4)toute autre plainte formelle introduite contre le demandeur ou l’une de ses filiales par l’un de ses clients ou anciens clients et qui a été résolue en faveur du plaignant par un tiers non judiciaire;iii)le demandeur, ou l’une de ses filiales, est impliqué, à la date de la demande, dans une procédure, une enquête pénale, civile ou administrative ou tout autre événement visé dans l’une des dispositions du point b); |
+| --- | --- |
+| i) | le demandeur ou l’une de ses filiales a déjà fait l’objet d’une déclaration de moratoire sur un endettement, d’une procédure de restructuration ou d’assainissement touchant ses créanciers, de mesures pouvant comporter une suspension de paiements, d’une suspension de mesures d’exécution ou d’une réduction de créances, d’une dissolution, d’une procédure de liquidation telle que définie à l’article 2 de la directive 2001/24/CE du Parlement européen et du Conseil (5), ou d’une procédure de redressement judiciaire ou d’insolvabilité ou autre procédure similaire; |
+| ii) | le demandeur ou l’une de ses filiales a déjà fait l’objet d’une sanction administrative ou d’un jugement civil ou administratif, d’un arbitrage ou autre sentence de règlement des différends, ou d’une décision ou d’un jugement sur la commission d’une infraction pénale, qui a débouché sur la condamnation du demandeur ou de l’une de ses filiales, n’a pas été annulé et ne fait ni ne peut faire l’objet d’aucun recours, à l’exception des sanctions administratives infligées en vertu des articles 65, 66 ou 67 de la directive 2013/36/UE et des condamnations pénales, pour lesquelles des informations doivent être fournies concernant les décisions encore susceptibles de recours, y compris:1)tout jugement non exécuté ou sentence en suspens;2)tout règlement conclu avec une personne physique ou morale, eu égard aux conditions monétaires du règlement ou aux circonstances de sa conclusion, dont l’objet concerne le secteur des services financiers;3)toute condamnation pénale, sanction civile ou administrative ou autre mesure civile ou administrative prise par une autorité du secteur des services financiers ou autre, pour cause:—de fraude, de malhonnêteté, de corruption, de blanchiment de capitaux, de financement du terrorisme ou autre délit financier, ou d’absence de mise en place de politiques et procédures adéquates pour prévenir de tels événements;—de violation de la législation ou d’exigences réglementaires relatives au secteur des services financiers ou à la protection des consommateurs;—d’exercice non autorisé d’une activité réglementée;(4)toute autre plainte formelle introduite contre le demandeur ou l’une de ses filiales par l’un de ses clients ou anciens clients et qui a été résolue en faveur du plaignant par un tiers non judiciaire; |
+| 1) | tout jugement non exécuté ou sentence en suspens; |
+| 2) | tout règlement conclu avec une personne physique ou morale, eu égard aux conditions monétaires du règlement ou aux circonstances de sa conclusion, dont l’objet concerne le secteur des services financiers; |
+| 3) | toute condamnation pénale, sanction civile ou administrative ou autre mesure civile ou administrative prise par une autorité du secteur des services financiers ou autre, pour cause:—de fraude, de malhonnêteté, de corruption, de blanchiment de capitaux, de financement du terrorisme ou autre délit financier, ou d’absence de mise en place de politiques et procédures adéquates pour prévenir de tels événements;—de violation de la législation ou d’exigences réglementaires relatives au secteur des services financiers ou à la protection des consommateurs;—d’exercice non autorisé d’une activité réglementée; |
+| — | de fraude, de malhonnêteté, de corruption, de blanchiment de capitaux, de financement du terrorisme ou autre délit financier, ou d’absence de mise en place de politiques et procédures adéquates pour prévenir de tels événements; |
+| — | de violation de la législation ou d’exigences réglementaires relatives au secteur des services financiers ou à la protection des consommateurs; |
+| — | d’exercice non autorisé d’une activité réglementée; |
+| (4) | toute autre plainte formelle introduite contre le demandeur ou l’une de ses filiales par l’un de ses clients ou anciens clients et qui a été résolue en faveur du plaignant par un tiers non judiciaire; |
+| iii) | le demandeur, ou l’une de ses filiales, est impliqué, à la date de la demande, dans une procédure, une enquête pénale, civile ou administrative ou tout autre événement visé dans l’une des dispositions du point b); |
+
+| c) | des informations sur les événements énumérés au point b) ii), y compris le nom et l’adresse de la juridiction pénale ou civile ou de l’autorité civile ou administrative concernée, la date de l’événement, le montant concerné, l’issue de la procédure et une explication des circonstances de l’événement qui a déclenché la procédure; |
+| --- | --- |
+
+| d) | les éléments nécessaires au calcul des frais applicables lorsque, en vertu du droit de l’Union ou du droit national, une taxe de dépôt ou redevance de surveillance due par le demandeur est calculée sur la base des activités ou des caractéristiques de ce dernier; |
+| --- | --- |
+
+| e) | la preuve du paiement des frais visés au point d). |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+Toute demande d’agrément en tant qu’établissement de crédit contient un descriptif des activités de l’établissement demandeur, incluant:
+
+| a) | une liste des activités que le demandeur envisage d’exercer, notamment des activités énumérées à l’annexe I de la directive 2013/36/UE; |
+| --- | --- |
+
+| b) | une description de la façon dont le programme d’activités (plan d’entreprise) cadre avec les activités envisagées. |
+| --- | --- |
+
+Un demandeur peut omettre de fournir dans sa demande des informations qui ne concernent que des activités ne figurant pas dans le descriptif d’activités, à condition d’indiquer dans la demande quelles informations ont été omises et de citer la présente disposition comme fondement de cette omission.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+Toute demande d’agrément en tant qu’établissement de crédit contient toutes les informations financières suivantes:
+
+| a) | des informations prévisionnelles sur le demandeur au niveau individuel et, le cas échéant, aux niveaux consolidé et sous-consolidé, indiquant la part représentée par l’établissement de crédit, dans le cadre d’un scénario de base et d’un scénario de tensions, y compris:i)les plans comptables prévisionnels pour les trois années suivant l’agrément en tant qu’établissement de crédit ou, selon le droit national, le début des activités, détaillant les lignes d’activité pour chacune des différentes activités exercées et, le cas échéant, pour chaque pays ou zone géographique concerné, y compris:1)les bilans prévisionnels;2)les comptes de résultat prévisionnels détaillant les coûts fixes et variables et fournissant une indication de la sensibilité des activités aux principaux indicateurs, notamment en termes de volume, de prix, de situation géographique et d’exposition, et une explication des mesures visant à réduire l’exposition à ces risques;3)les tableaux des flux de trésorerie prévisionnels, le cas échéant;ii)les hypothèses de planification utilisées pour les prévisions visées au point i), ainsi que des explications sur les chiffres figurant dans les plans, et en particulier sur les hypothèses sur lesquelles repose le scénario de tensions;iii)les calculs prévisionnels des exigences de fonds propres et des coussins de fonds propres du demandeur, au sens de la directive 2013/36/UE et dans la troisième partie du règlement (UE) no 575/2013 du Parlement européen et du Conseil (6), de ses exigences de liquidité au sens de la sixième partie dudit règlement, et des exigences relatives au ratio de levier au sens de la septième partie dudit règlement, pour les trois ans suivant son agrément en tant qu’établissement de crédit;iv)le profil de financement, y compris toute source de financement, le niveau de diversification et les modalités et conditions des financements;v)un résumé de l’évaluation de l’adéquation de la liquidité interne au niveau individuel, et le cas échéant, aux niveaux consolidé, sous-consolidé et individuel, démontrant que le demandeur disposera de sources de liquidité suffisantes pour satisfaire aux exigences de liquidité individuelles qui lui sont applicables; |
+| --- | --- |
+| i) | les plans comptables prévisionnels pour les trois années suivant l’agrément en tant qu’établissement de crédit ou, selon le droit national, le début des activités, détaillant les lignes d’activité pour chacune des différentes activités exercées et, le cas échéant, pour chaque pays ou zone géographique concerné, y compris:1)les bilans prévisionnels;2)les comptes de résultat prévisionnels détaillant les coûts fixes et variables et fournissant une indication de la sensibilité des activités aux principaux indicateurs, notamment en termes de volume, de prix, de situation géographique et d’exposition, et une explication des mesures visant à réduire l’exposition à ces risques;3)les tableaux des flux de trésorerie prévisionnels, le cas échéant; |
+| 1) | les bilans prévisionnels; |
+| 2) | les comptes de résultat prévisionnels détaillant les coûts fixes et variables et fournissant une indication de la sensibilité des activités aux principaux indicateurs, notamment en termes de volume, de prix, de situation géographique et d’exposition, et une explication des mesures visant à réduire l’exposition à ces risques; |
+| 3) | les tableaux des flux de trésorerie prévisionnels, le cas échéant; |
+| ii) | les hypothèses de planification utilisées pour les prévisions visées au point i), ainsi que des explications sur les chiffres figurant dans les plans, et en particulier sur les hypothèses sur lesquelles repose le scénario de tensions; |
+| iii) | les calculs prévisionnels des exigences de fonds propres et des coussins de fonds propres du demandeur, au sens de la directive 2013/36/UE et dans la troisième partie du règlement (UE) no 575/2013 du Parlement européen et du Conseil (6), de ses exigences de liquidité au sens de la sixième partie dudit règlement, et des exigences relatives au ratio de levier au sens de la septième partie dudit règlement, pour les trois ans suivant son agrément en tant qu’établissement de crédit; |
+| iv) | le profil de financement, y compris toute source de financement, le niveau de diversification et les modalités et conditions des financements; |
+| v) | un résumé de l’évaluation de l’adéquation de la liquidité interne au niveau individuel, et le cas échéant, aux niveaux consolidé, sous-consolidé et individuel, démontrant que le demandeur disposera de sources de liquidité suffisantes pour satisfaire aux exigences de liquidité individuelles qui lui sont applicables; |
+
+| b) | les états financiers statutaires du demandeur, au niveau individuel et, le cas échéant, aux niveaux consolidé et sous-consolidé, approuvés par le contrôleur légal des comptes ou le cabinet d’audit, couvrant au moins les trois derniers exercices précédant la demande ou, si le demandeur compte moins de trois ans d’activité, couvrant la période écoulée depuis le début de cette activité, et comprenant:i)les bilans;ii)les comptes de résultats;iii)les tableaux des flux de trésorerie;iv)les rapports annuels et les annexes financières et tout autre document déposé auprès du registre compétent ou de l’autorité compétente et, le cas échéant, un rapport du contrôleur légal des comptes du demandeur couvrant les trois exercices précédant la demande ou, lorsque le demandeur a moins de trois ans d’activité, couvrant la période écoulée depuis le début de cette activité;v)dans le cas d’états financiers établis sur une base consolidée ou sous-consolidée, la part du demandeur; |
+| --- | --- |
+| i) | les bilans; |
+| ii) | les comptes de résultats; |
+| iii) | les tableaux des flux de trésorerie; |
+| iv) | les rapports annuels et les annexes financières et tout autre document déposé auprès du registre compétent ou de l’autorité compétente et, le cas échéant, un rapport du contrôleur légal des comptes du demandeur couvrant les trois exercices précédant la demande ou, lorsque le demandeur a moins de trois ans d’activité, couvrant la période écoulée depuis le début de cette activité; |
+| v) | dans le cas d’états financiers établis sur une base consolidée ou sous-consolidée, la part du demandeur; |
+
+| c) | un aperçu de tout endettement contracté ou prévu par le demandeur avant le début de ses activités en tant qu’établissement de crédit, y compris, le cas échéant, le nom des prêteurs, les échéances et les conditions de l’endettement, l’utilisation des fonds et, lorsque le prêteur n’est pas un établissement financier soumis à une surveillance prudentielle, des informations sur l’origine des fonds empruntés ou qu’il est prévu d’emprunter; |
+| --- | --- |
+
+| d) | un aperçu de toute sûreté, garantie ou contre-garantie que le demandeur a octroyée ou envisage d’octroyer avant le début de ses activités en tant qu’établissement de crédit; |
+| --- | --- |
+
+| e) | le cas échéant, les informations sur la notation de crédit du demandeur et la notation générale de son groupe. |
+| --- | --- |
+
+| f) | si, conformément à l’article 11, paragraphes 1, 2 et 3, et à l’article 14, paragraphe 1, du règlement (UE) no 575/2013, le demandeur ou son entreprise mère doit se conformer aux dispositions des parties deux à six ou de la huitième partie dudit règlement, une analyse du périmètre de surveillance consolidée, incluant des informations sur les entités du groupe qui seront incluses dans ce périmètre, ainsi qu’une analyse de l’effet d’éventuelles exemptions, dérogations, exclusions ou méthodes ou traitements spécifiques prévus dans la première partie, titre II, dudit règlement; |
+| --- | --- |
+
+| g) | un aperçu des cadres et politiques suivants du demandeur:i)le cadre de gestion du risque, expliquant la stratégie générale prévue par le demandeur pour identifier et gérer les risques pesant sur son activité, y compris les risques de blanchiment de capitaux et de financement du terrorisme, décrivant la stratégie de gestion de ces risques et comprenant une déclaration relative à sa tolérance et à son appétence au risque et des mesures visant à aligner le risque évalué sur l’appétence au risque;ii)la politique de gestion du risque de liquidité;iii)la politique de concentration et de diversification des fonds;iv)la politique de gestion des sûretés;v)la politique en matière de dépôts;vi)la politique de crédit et de prêt;vii)la politique en matière de risque de concentration;viii)la politique de provisionnement;ix)la politique de distribution des dividendes;x)la politique en matière de portefeuille de négociation; |
+| --- | --- |
+| i) | le cadre de gestion du risque, expliquant la stratégie générale prévue par le demandeur pour identifier et gérer les risques pesant sur son activité, y compris les risques de blanchiment de capitaux et de financement du terrorisme, décrivant la stratégie de gestion de ces risques et comprenant une déclaration relative à sa tolérance et à son appétence au risque et des mesures visant à aligner le risque évalué sur l’appétence au risque; |
+| ii) | la politique de gestion du risque de liquidité; |
+| iii) | la politique de concentration et de diversification des fonds; |
+| iv) | la politique de gestion des sûretés; |
+| v) | la politique en matière de dépôts; |
+| vi) | la politique de crédit et de prêt; |
+| vii) | la politique en matière de risque de concentration; |
+| viii) | la politique de provisionnement; |
+| ix) | la politique de distribution des dividendes; |
+| x) | la politique en matière de portefeuille de négociation; |
+
+| h) | une description du processus du demandeur pour l’élaboration d’un plan de redressement au sens de l’article 2, paragraphe 1, point 32), de la directive 2014/59/UE du Parlement européen et du Conseil (7)et, le cas échéant, d’un plan de redressement de groupe au sens de l’article 2, paragraphe 1, point 33), de ladite directive; |
+| --- | --- |
+
+| i) | une déclaration ou une confirmation attestant qu’avant la date de l’agrément, ou au plus tard à cette date, le demandeur adhérera à un système de garantie des dépôts officiellement reconnu dans l’État membre où la demande est présentée, conformément à l’article 4, paragraphe 3, de la directive 2014/49/UE, et désignant ce système de garantie des dépôts; |
+| --- | --- |
+
+| j) | l’indication de tout système de protection institutionnel, au sens de l’article 113, paragraphe 7, du règlement (UE) no 575/2013, auquel le demandeur adhère ou prévoit d’adhérer. |
+| --- | --- |
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Une demande d’agrément en tant qu’établissement de crédit contient les informations suivantes sur le programme d’activités (plan d’entreprise), la structure d’organisation, les systèmes de contrôle interne et les auditeurs du demandeur:
+
+| a) | le programme d’activités pour au moins les trois premières années suivant l’agrément en tant qu’établissement de crédit ou, en fonction du droit national, suivant le début des activités, qui fournit, à partir d’un scénario de base et d’un scénario de tensions, des informations sur les activités prévues ainsi que sur la structure et l’organisation du demandeur, y compris les éléments suivants:i)une vue d’ensemble de la répartition géographique des activités que le demandeur envisage d’exercer dans l’État membre d’origine et dans tout autre État membre ou pays tiers, y compris par l’intermédiaire de succursales ou de filiales ou par voie de prestation directe de services, et ses plans d’expansion future;ii)une explication concernant la viabilité initiale et continue du modèle d’entreprise;iii)une vue d’ensemble des marchés-cibles, de la segmentation de la clientèle, des produits et services et des canaux de distribution tels que succursales, internet, services postaux, agences et filiales;iv)une vue d’ensemble de l’organisation et de la structure du groupe dont le demandeur fait partie, décrivant les activités des entités du groupe et indiquant les entreprises mères, les compagnies financières holding et les compagnies financières holding mixtes au sein du groupe;v)une vue d’ensemble de tous les facteurs potentiels de risques d’exploitation et de risques réglementaires, notamment les risques de blanchiment de capitaux et de financement du terrorisme, ainsi qu’une explication de la manière dont ces facteurs seront surveillés et contrôlés;vi)une indication de la nécessité ou non d’un plan de mise en œuvre pour la période allant jusqu’à ce que le demandeur soit pleinement opérationnel et, le cas échéant, une vue d’ensemble de ce plan;vii)une vue d’ensemble de la stratégie globale du demandeur, y compris de ses objectifs stratégiques et de tout avantage concurrentiel identifié, ainsi que des raisons de son établissement et des motifs pour lesquels il a décidé d’exercer l’activité pour laquelle il sollicite l’agrément; |
+| --- | --- |
+| i) | une vue d’ensemble de la répartition géographique des activités que le demandeur envisage d’exercer dans l’État membre d’origine et dans tout autre État membre ou pays tiers, y compris par l’intermédiaire de succursales ou de filiales ou par voie de prestation directe de services, et ses plans d’expansion future; |
+| ii) | une explication concernant la viabilité initiale et continue du modèle d’entreprise; |
+| iii) | une vue d’ensemble des marchés-cibles, de la segmentation de la clientèle, des produits et services et des canaux de distribution tels que succursales, internet, services postaux, agences et filiales; |
+| iv) | une vue d’ensemble de l’organisation et de la structure du groupe dont le demandeur fait partie, décrivant les activités des entités du groupe et indiquant les entreprises mères, les compagnies financières holding et les compagnies financières holding mixtes au sein du groupe; |
+| v) | une vue d’ensemble de tous les facteurs potentiels de risques d’exploitation et de risques réglementaires, notamment les risques de blanchiment de capitaux et de financement du terrorisme, ainsi qu’une explication de la manière dont ces facteurs seront surveillés et contrôlés; |
+| vi) | une indication de la nécessité ou non d’un plan de mise en œuvre pour la période allant jusqu’à ce que le demandeur soit pleinement opérationnel et, le cas échéant, une vue d’ensemble de ce plan; |
+| vii) | une vue d’ensemble de la stratégie globale du demandeur, y compris de ses objectifs stratégiques et de tout avantage concurrentiel identifié, ainsi que des raisons de son établissement et des motifs pour lesquels il a décidé d’exercer l’activité pour laquelle il sollicite l’agrément; |
+
+| b) | des informations sur l’organisation, la structure et les dispositifs de gouvernance du demandeur, y compris son organigramme et l’ensemble des éléments suivants:i)une description des dispositifs, processus et mécanismes du demandeur visés à l’article 74, paragraphe 1, de la directive 2013/36/UE;ii)le mandat de l’organe de direction;iii)une description des ressources humaines, techniques et juridiques allouées aux différentes activités prévues, notamment aux fonctions informatiques, commerciales, juridiques, de contrôle interne et de conformité;iv)une description des interactions entre les différentes fonctions du demandeur;v)le nom de chaque système de paiement, de compensation ou de règlement dont le demandeur entend être membre, directement ou indirectement, au cours de sa première année d’activité; |
+| --- | --- |
+| i) | une description des dispositifs, processus et mécanismes du demandeur visés à l’article 74, paragraphe 1, de la directive 2013/36/UE; |
+| ii) | le mandat de l’organe de direction; |
+| iii) | une description des ressources humaines, techniques et juridiques allouées aux différentes activités prévues, notamment aux fonctions informatiques, commerciales, juridiques, de contrôle interne et de conformité; |
+| iv) | une description des interactions entre les différentes fonctions du demandeur; |
+| v) | le nom de chaque système de paiement, de compensation ou de règlement dont le demandeur entend être membre, directement ou indirectement, au cours de sa première année d’activité; |
+
+| c) | les informations suivantes sur le cadre de contrôle interne:i)une vue d’ensemble de l’organisation interne de la fonction de conformité, de la fonction de gestion des risques et de la fonction d’audit interne, notamment les ressources budgétaires et humaines qui y sont consacrées, expliquant comment l’établissement se conformera à ses obligations légales et prudentielles, notamment aux exigences en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, indiquant l’identité des personnes responsables de ses fonctions de contrôle interne et décrivant ses systèmes et procédures de conformité, de contrôle interne et de gestion des risques et son système de déclaration à l’organe de direction;ii)un aperçu des politiques et procédures suivantes traitant des questions relatives aux activités indiquées conformément à l’article 3:1)la politique en matière d’alerte professionnelle;2)la politique en matière de conflits d’intérêts;3)la politique de traitement des plaintes;4)la politique en matière d’abus de marché;5)la politique de promotion de la diversité au sein de l’organe de direction;6)la politique de rémunération des membres du personnel dont les activités professionnelles ont une incidence importante sur le profil de risque du demandeur;iii)un aperçu des systèmes et des politiques d’évaluation et de gestion des risques de blanchiment de capitaux et de financement du terrorisme recensés dans la stratégie générale visée à l’article 4, point g) i), y compris une vue d’ensemble des procédures clés qui ont été mises en place pour prévenir le risque que l’établissement de crédit soit utilisé à des fins de délinquance financière; |
+| --- | --- |
+| i) | une vue d’ensemble de l’organisation interne de la fonction de conformité, de la fonction de gestion des risques et de la fonction d’audit interne, notamment les ressources budgétaires et humaines qui y sont consacrées, expliquant comment l’établissement se conformera à ses obligations légales et prudentielles, notamment aux exigences en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, indiquant l’identité des personnes responsables de ses fonctions de contrôle interne et décrivant ses systèmes et procédures de conformité, de contrôle interne et de gestion des risques et son système de déclaration à l’organe de direction; |
+| ii) | un aperçu des politiques et procédures suivantes traitant des questions relatives aux activités indiquées conformément à l’article 3:1)la politique en matière d’alerte professionnelle;2)la politique en matière de conflits d’intérêts;3)la politique de traitement des plaintes;4)la politique en matière d’abus de marché;5)la politique de promotion de la diversité au sein de l’organe de direction;6)la politique de rémunération des membres du personnel dont les activités professionnelles ont une incidence importante sur le profil de risque du demandeur; |
+| 1) | la politique en matière d’alerte professionnelle; |
+| 2) | la politique en matière de conflits d’intérêts; |
+| 3) | la politique de traitement des plaintes; |
+| 4) | la politique en matière d’abus de marché; |
+| 5) | la politique de promotion de la diversité au sein de l’organe de direction; |
+| 6) | la politique de rémunération des membres du personnel dont les activités professionnelles ont une incidence importante sur le profil de risque du demandeur; |
+| iii) | un aperçu des systèmes et des politiques d’évaluation et de gestion des risques de blanchiment de capitaux et de financement du terrorisme recensés dans la stratégie générale visée à l’article 4, point g) i), y compris une vue d’ensemble des procédures clés qui ont été mises en place pour prévenir le risque que l’établissement de crédit soit utilisé à des fins de délinquance financière; |
+
+| d) | une description des ressources d’audit interne et un aperçu de la méthodologie et du plan d’audit interne pour les trois années suivant l’agrément en tant qu’établissement de crédit; |
+| --- | --- |
+
+| e) | un aperçu des politiques et plans suivants du demandeur:i)la politique d’audit interne;ii)la politique en matière de gouvernance des produits;iii)la politique en matière de protection des consommateurs;iv)le plan et la politique de poursuite de l’activité, comprenant une vue d’ensemble des systèmes de sauvegarde et de récupération disponibles et des plans garantissant la disponibilité du personnel clé dans les situations où la continuité des activités doit être assurée; |
+| --- | --- |
+| i) | la politique d’audit interne; |
+| ii) | la politique en matière de gouvernance des produits; |
+| iii) | la politique en matière de protection des consommateurs; |
+| iv) | le plan et la politique de poursuite de l’activité, comprenant une vue d’ensemble des systèmes de sauvegarde et de récupération disponibles et des plans garantissant la disponibilité du personnel clé dans les situations où la continuité des activités doit être assurée; |
+
+| f) | les informations suivantes sur l’organisation du fonctionnement et des activités du demandeur:i)un aperçu des externalisations effectuées au sein et en dehors du groupe à l’appui du fonctionnement ou des activités de contrôle interne du demandeur, incluant des informations sur l’ensemble des éléments suivants:1)l’identité du prestataire externe;2)tout lien entre le prestataire externe et le demandeur;3)la localisation du prestataire externe;4)les motifs de l’externalisation;5)les ressources humaines du prestataire externe;6)le système de contrôle interne du demandeur pour la gestion de l’externalisation;7)tout plan d’urgence défini pour le cas où le prestataire externe ne serait pas en mesure d’assurer la continuité du service;8)toute fonction conservée lors de l’externalisation d’activités;ii)un aperçu des responsabilités en matière de surveillance et des dispositifs, systèmes et contrôles pour chaque fonction externalisée qui est essentielle ou importante pour la gestion et les activités du demandeur;iii)un aperçu des accords et dispositifs de niveau de service pour chaque fonction externalisée qui est essentielle ou importante pour la gestion et les activités du demandeur;iv)une description de l’infrastructure informatique du demandeur, portant sur les systèmes qui sont ou seront utilisés, les modalités d’hébergement, l’organisation de la fonction informatique, la structure, la stratégie et la gouvernance informatiques, les politiques et procédures en matière de sécurité informatique, ainsi que tous les systèmes et contrôles qui ont été ou seront mis en place pour la prestation de services bancaires en ligne. |
+| --- | --- |
+| i) | un aperçu des externalisations effectuées au sein et en dehors du groupe à l’appui du fonctionnement ou des activités de contrôle interne du demandeur, incluant des informations sur l’ensemble des éléments suivants:1)l’identité du prestataire externe;2)tout lien entre le prestataire externe et le demandeur;3)la localisation du prestataire externe;4)les motifs de l’externalisation;5)les ressources humaines du prestataire externe;6)le système de contrôle interne du demandeur pour la gestion de l’externalisation;7)tout plan d’urgence défini pour le cas où le prestataire externe ne serait pas en mesure d’assurer la continuité du service;8)toute fonction conservée lors de l’externalisation d’activités; |
+| 1) | l’identité du prestataire externe; |
+| 2) | tout lien entre le prestataire externe et le demandeur; |
+| 3) | la localisation du prestataire externe; |
+| 4) | les motifs de l’externalisation; |
+| 5) | les ressources humaines du prestataire externe; |
+| 6) | le système de contrôle interne du demandeur pour la gestion de l’externalisation; |
+| 7) | tout plan d’urgence défini pour le cas où le prestataire externe ne serait pas en mesure d’assurer la continuité du service; |
+| 8) | toute fonction conservée lors de l’externalisation d’activités; |
+| ii) | un aperçu des responsabilités en matière de surveillance et des dispositifs, systèmes et contrôles pour chaque fonction externalisée qui est essentielle ou importante pour la gestion et les activités du demandeur; |
+| iii) | un aperçu des accords et dispositifs de niveau de service pour chaque fonction externalisée qui est essentielle ou importante pour la gestion et les activités du demandeur; |
+| iv) | une description de l’infrastructure informatique du demandeur, portant sur les systèmes qui sont ou seront utilisés, les modalités d’hébergement, l’organisation de la fonction informatique, la structure, la stratégie et la gouvernance informatiques, les politiques et procédures en matière de sécurité informatique, ainsi que tous les systèmes et contrôles qui ont été ou seront mis en place pour la prestation de services bancaires en ligne. |
+
+2. Toute demande d’enregistrement en tant qu’établissement de crédit comprend le nom, l’adresse et les coordonnées des contrôleurs légaux des comptes ou du cabinet d’audit du demandeur.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Une demande d’agrément en tant qu’établissement de crédit contient une preuve du capital émis par le demandeur, du capital libéré et du capital qui n’a pas encore été libéré, et précise les types et montants de fonds propres correspondant au capital initial.
+
+2. Si le capital initial n’a pas été entièrement libéré au moment de la présentation de la demande d’agrément en tant qu’établissement de crédit, cette dernière précise le plan et le délai de mise en œuvre devant garantir que le capital initial sera entièrement libéré avant que l’agrément pour démarrer l’activité d’établissement de crédit ne soit effectif.
+
+3. Toute demande d’agrément en tant qu’établissement de crédit comprend une explication des sources de financement disponibles pour l’abondement des fonds propres et, le cas échéant, une preuve de la disponibilité de ces sources de financement, dont:
+
+| a) | un récapitulatif des fonds privés utilisés, y compris leur disponibilité et leur source; |
+| --- | --- |
+
+| b) | un récapitulatif des appels aux marchés financiers, précisant les instruments financiers émis ou à émettre; |
+| --- | --- |
+
+| c) | un résumé de tout accord ou contrat conclu portant sur les fonds propres, y compris les fonds empruntés ou qu’il est prévu d’emprunter, le nom des prêteurs et des précisions sur les facilités accordées, l’utilisation des fonds et, lorsque le prêteur n’est pas un établissement financier soumis à une surveillance prudentielle, des informations sur l’origine des fonds empruntés ou qu’il est prévu d’emprunter; |
+| --- | --- |
+
+| d) | l’identité du prestataire de services de paiement utilisé pour transférer des ressources financières au demandeur. |
+| --- | --- |
+
+4. Une demande d’agrément en tant qu’établissement de crédit contient une évaluation des montants, de la typologie et de la répartition du capital interne que le demandeur considère comme adéquat par rapport à la nature et au niveau des risques auxquels il sera ou pourrait être exposé, ainsi qu’une analyse, comportant des projections, qui montre que ses ressources en capital seront suffisantes pour lui permettre de satisfaire aux exigences de fonds propres une fois qu’il aura été agréé en tant qu’établissement de crédit, puis pendant une période d’au moins trois ans suivant cet agrément, en cas de crise grave, mais plausible.
+
+Le scénario de crise et la méthode visés au premier alinéa s’appuient sur le scénario et la méthode utilisés dans le dernier test de résistance prudentiel annuel effectué par l’autorité compétente conformément à l’article 100, paragraphe 1, de la directive 2013/36/UE, si un tel test de résistance prudentiel a été effectué, et les informations sont fournies à la fois pour le demandeur sur une base individuelle et pour la situation consolidée, le cas échéant.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. Une demande d’agrément en tant qu’établissement de crédit contient les informations visées à l’annexe I pour chacun des membres, proposés ou nommés, de l’organe de direction du demandeur.
+
+2. Lorsque l’autorité compétente considère le demandeur comme étant un établissement ayant une importance significative en raison de sa taille et de son organisation interne ainsi que de la nature, de l’échelle et de la complexité de ses activités, conformément à l’article 76, paragraphe 3, de la directive 2013/36/UE, la demande d’agrément en tant qu’établissement de crédit contient, pour les responsables des fonctions de contrôle interne et le directeur financier, lorsqu’ils ne font pas partie de l’organe de direction, les informations énumérées à l’annexe I, à l’exception des informations visées au point 1, points f) et g), et aux points 2, 4 et 5 de ladite annexe.
+
+3. Toute demande d’agrément en tant qu’établissement de crédit contient une description des pouvoirs et des tâches, missions et procurations individuelles des membres, proposés ou nommés, de l’organe de direction du demandeur et, dans le cas des demandeurs visés au paragraphe 2, des responsables des fonctions de contrôle interne et directeurs financiers qui ne font pas partie de l’organe de direction.
+
+4. Aux fins du présent article, on entend par:
+
+| a) | «directeur financier»: la personne qui est globalement responsable de la gestion des ressources financières, de la planification et de l’information financières; |
+| --- | --- |
+
+| b) | «fonction de contrôle»: une fonction, indépendante de l’unité opérationnelle qu’elle contrôle, qui est chargée de fournir une évaluation objective des risques encourus par l’établissement, d’analyser ces risques ou d’en faire rapport, y compris la fonction de gestion des risques, la fonction de conformité et la fonction d’audit interne; |
+| --- | --- |
+
+| c) | «responsables des fonctions de contrôle interne»: les personnes, au plus haut niveau hiérarchique, chargées de la gestion effective de l’exercice au quotidien des fonctions indépendantes de gestion des risques, de conformité et d’audit; |
+| --- | --- |
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. Toute demande d’agrément en tant qu’établissement de crédit contient les informations visées à l’annexe II, point 1, sur toutes les personnes physiques, morales et autres entités qui ont ou, en cas d’agrément, auront une participation qualifiée dans l’établissement de crédit, ainsi que des informations sur ces participations.
+
+2. Si la personne visée au paragraphe 1 est une personne physique, la demande d’agrément en tant qu’établissement de crédit contient, outre les informations visées au paragraphe 1, les informations visées à l’annexe II, point 2.
+
+3. Si la personne visée au paragraphe 1 est une personne morale, ou une entité qui n’est pas une personne morale et qui détient ou détiendra la participation qualifiée en son nom propre, la demande d’agrément en tant qu’établissement de crédit contient, outre les informations visées au paragraphe 1, les informations visées à l’annexe II, point 3.
+
+4. Si une fiducie existe déjà, ou est créée après qu’une personne a souscrit au capital social du demandeur, la demande d’agrément en tant qu’établissement de crédit inclut, outre les informations visées au paragraphe 1, les informations visées à l’annexe II, point 4.
+
+5. Dans le cas où une personne détient ou, en cas d’agrément de l’établissement de crédit demandeur, détiendra une participation qualifiée dans cet établissement et est un associé d’une entité qui n’est pas une personne morale, et où sa participation qualifiée dans l’établissement de crédit sera traitée comme un actif de cette entité, la demande d’agrément en tant qu’établissement de crédit contient les informations suivantes:
+
+| a) | l’identité de tous les membres de cette entité, ainsi que les informations visées à l’annexe II, point 2, si ces membres sont des personnes physiques, ou les informations visées au point 3 de cette annexe, si ces membres sont des personnes morales; |
+| --- | --- |
+
+| b) | un résumé des termes de l’accord ou des accords régissant l’entité. |
+| --- | --- |
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+Si aucune personne ou autre entité ne détient ni, en cas d’agrément de l’établissement de crédit demandeur, ne détiendra de participation qualifiée dans ce dernier, la demande d’agrément en tant qu’établissement de crédit contient:
+
+| a) | le tableau prévu au point 1 a), de l’annexe II; |
+| --- | --- |
+
+| b) | les informations visées dans la liste du point 1 b) de l’annexe II; |
+| --- | --- |
+
+| c) | une liste des 20 principaux actionnaires ou membres du demandeur, selon le cas; |
+| --- | --- |
+
+| d) | si l’établissement de crédit a moins de 20 actionnaires ou associés, une liste de tous ses actionnaires ou associés; |
+| --- | --- |
+
+| e) | des informations indiquant si l’un des actionnaires ou associés visés aux points c) ou d) est soumis à la surveillance d’une autorité compétente. |
+| --- | --- |
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. Les autorités compétentes peuvent exiger qu’outre les informations visées aux articles 1er à 9, la demande d’agrément en tant qu’établissement de crédit contienne des informations supplémentaires, pour autant que celles-ci remplissent toutes les conditions suivantes:
+
+| a) | ces informations supplémentaires sont nécessaires pour vérifier si toutes les exigences relatives à l’agrément fixées par l’État membre conformément à l’article 8, paragraphe 1, de la directive 2013/36/UE sont respectées; |
+| --- | --- |
+
+| b) | le volume d’informations requis est proportionné à la finalité de la vérification visée au point a), et les informations sont pertinentes pour cette vérification. |
+| --- | --- |
+
+2. Dans des cas dûment justifiés, à la suite de l’évaluation des informations fournies dans la demande d’agrément en tant qu’établissement de crédit, les autorités compétentes peuvent exiger du demandeur qu’il fournisse des informations ou des explications supplémentaires, lorsqu’elles estiment nécessaire de vérifier si toutes les exigences relatives à l’agrément ont été respectées.
+
+3. Les informations contenues dans une demande d’agrément en tant qu’établissement de crédit sont exactes, précises et complètes jusqu’au moment de l’agrément. Le demandeur informe l’autorité compétente de toute modification apportée aux informations fournies dans la demande initiale. Les autorités compétentes peuvent lui demander des informations sur d’éventuelles modifications intervenues après le dépôt de la demande et avant le début des activités.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+Les autorités compétentes peuvent lever l’obligation de fournir tout ou partie des informations visées aux articles 1er à 9 lorsque l’une des conditions suivantes est remplie:
+
+| a) | l’autorité compétente possède déjà ces informations, qui sont encore exactes, précises, complètes et à jour à la date où est accordé l’agrément et qui sont certifiées comme telles par le demandeur; |
+| --- | --- |
+
+| b) | l’obligation de fournir les informations fait l’objet d’une dispense en vertu de l’article 21 de la directive 2013/36/UE. |
+| --- | --- |
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+Lorsqu’elles évaluent s’il existe des obstacles potentiels à la surveillance effective prévue par l’article 14, paragraphe 3, de la directive 2013/36/UE, les autorités compétentes examinent toutes les informations pertinentes et tiennent compte:
+
+| a) | des interactions avec les dispositions législatives, réglementaires ou administratives d’un pays tiers applicables à des personnes physiques ou morales avec lesquelles l’établissement de crédit entretient ou, s’il est agréé comme établissement de crédit, entretiendra des liens étroits, et des éventuelles difficultés liées à l’imposition de ces dispositions législatives, réglementaires ou administratives ou à l’obtention d’informations auprès des autorités de ces pays tiers ou de ces personnes; |
+| --- | --- |
+
+| b) | de la possibilité d’échanger des informations avec l’autorité chargée de surveiller les personnes ayant des liens étroits avec l’établissement de crédit, si une telle autorité existe; |
+| --- | --- |
+
+| c) | de la complexité et de la transparence de la structure du groupe de l’établissement de crédit ou de la ou des personnes ayant des liens étroits avec ce dernier; |
+| --- | --- |
+
+| d) | de la localisation des membres du groupe de l’établissement de crédit ou de la ou des personnes ayant des liens étroits avec ce dernier; |
+| --- | --- |
+
+| e) | des activités exercées ou devant être exercées par les membres du groupe de l’établissement de crédit ou par la ou les personnes ayant des liens étroits avec ce dernier. |
+| --- | --- |
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.
+
+Le présent règlement s’applique à partir du XX.XX.XXX.

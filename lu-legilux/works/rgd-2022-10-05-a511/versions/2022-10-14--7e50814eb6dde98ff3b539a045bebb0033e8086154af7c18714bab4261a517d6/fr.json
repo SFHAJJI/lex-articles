@@ -1,0 +1,58 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-10-05-a511:2022-10-14--7e50814eb6dde98ff3b539a045bebb0033e8086154af7c18714bab4261a517d6",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 14/10/2022 : Règlement grand-ducal du 5 octobre 2022 portant fixation de la date d’ouverture et de clôture des soldes de l’hiver 2022/2023 et de l’été 2023.",
+  "valid_from": "2022-10-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-10-05-a511/versions/2022-10-14--7e50814eb6dde98ff3b539a045bebb0033e8086154af7c18714bab4261a517d6/fr.xml",
+    "sha256": "cd8b642befdd9244a923c082c267b479d4da243d56d622678bfbc7b29c4083d9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/10/05/a511/consolide/20221014/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-10-05-a511:2022-10-14--7e50814eb6dde98ff3b539a045bebb0033e8086154af7c18714bab4261a517d6#art_1er",
+      "eli": "/art_1er/20221014",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-14",
+      "text_md": "Les dates d’ouverture et de clôture des deux prochaines périodes de vente en solde sont fixées comme suit :\n\n- | début : | lundi, le 2 janvier 2023, |\n| --- | --- |\n| clôture : | samedi, le 28 janvier 2023 inclus. |\n- - clôture : samedi, le 22 juillet 2023 inclus.",
+      "text_sha256": "6d90f4d3f5e41fbb9e07cb411b8bc11820df3e2b2a5040fb134583c5fb5b4359",
+      "md_span": {
+        "start": 747,
+        "end": 1011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-10-05-a511:2022-10-14--7e50814eb6dde98ff3b539a045bebb0033e8086154af7c18714bab4261a517d6#art_2",
+      "eli": "/art_2/20221014",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-14",
+      "text_md": "Notre ministre ayant les Classes moyennes dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "0ac3bf3b69eab8aafc7dfc6ae0e82d1bc8ec8a5aeda33e0648a046bc0096d75b",
+      "md_span": {
+        "start": 1046,
+        "end": 1222
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,181 @@
+---
+lex_id: 'eu-eurlex:32015r1588:2018-12-27--5eb0d718c262d86c486b9c927b45796c7459c3786b60dd64050a9f65af35596f'
+title: 'Council Regulation (EU) 2015/1588 of 13 July 2015 on the application of Articles 107 and 1…'
+valid_from: '2018-12-27'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015R1588-20181227'
+source_sha256: 'a06a65ea191186e19dcaf9e63083885fb29a51dc8977a9f6d56b4360cf380e95'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier — Exemptions par catégorie
+
+1. La Commission peut, par voie de règlements adoptés en conformité avec la procédure définie à l'article 8 du présent règlement et avec l'article 107 du TFUE, déclarer que les catégories d'aides suivantes sont compatibles avec le marché intérieur et ne sont pas soumises à l'obligation de notification prévue à l'article 108, paragraphe 3, du TFUE:
+
+a) les aides en faveur:
+
+i) des petites et moyennes entreprises;
+
+ii) de la recherche, du développement et de l'innovation;
+
+iii) de la protection de l'environnement;
+
+iv) de l'emploi et de la formation;
+
+v) de la culture et de la conservation du patrimoine;
+
+vi) de la réparation des dommages causés par des catastrophes naturelles;
+
+vii) de la réparation des dommages causés par certaines conditions climatiques défavorables dans le secteur de la pêche;
+
+viii) du secteur forestier;
+
+ix) de la promotion des produits du secteur alimentaire non énumérés à l'annexe I du TFUE;
+
+x) de la conservation des ressources biologiques marines et d'eau douce;
+
+xi) du sport;
+
+xii) des habitants de régions périphériques, pour le transport, si cette aide est à finalité sociale et est octroyée sans discrimination liée à l'identité du transporteur;
+
+xiii) des infrastructures à haut débit de base, des petites infrastructures particulières couvrant les réseaux d'accès de nouvelle génération, des travaux de génie civil liés au haut débit et des infrastructures passives à haut débit, dans les zones ne disposant pas d'une telle infrastructure ou dans lesquelles il est peu probable qu'une telle infrastructure soit déployée dans un futur proche;
+
+xiv) des infrastructures qui contribuent aux objectifs énumérés aux points i) à xiii) ainsi qu'au point b) du présent paragraphe et qui contribuent à d'autres objectifs présentant un intérêt commun, notamment ceux de la stratégie Europe 2020;
+
+xv) des financements acheminés ou soutenus par les instruments financiers ou les garanties budgétaires de l'Union gérés de manière centralisée, lorsque l'aide est octroyée sous forme de financement supplémentaire au moyen de ressources d'État;
+
+xvi) des projets soutenus par les programmes de l'Union en matière de coopération territoriale européenne;
+
+b) les aides respectant la carte approuvée par la Commission pour chaque État membre pour l'octroi des aides à finalité régionale.
+
+2. Les règlements visés au paragraphe 1 doivent préciser pour chaque catégorie d'aides:
+
+a) l'objectif des aides;
+
+b) les catégories de bénéficiaires;
+
+c) les seuils exprimés soit en termes d'intensité de l'aide par rapport à l'ensemble des coûts admissibles, soit en termes de montants maximaux ou, pour certains types d'aide pour lesquels il peut s'avérer difficile de déterminer avec précision l'intensité ou le montant de l'aide, dans le cas notamment des instruments d'ingénierie financière ou des investissements en capital-risque ou ceux de nature similaire, en termes de niveau maximal de soutien de l'État à cette mesure ou en rapport avec elle, sans préjudice de la qualification des mesures concernées au vu de l'article 107, paragraphe 1, du TFUE;
+
+d) les conditions relatives au cumul des aides;
+
+e) les conditions de contrôle, telles que précisées à l'article 3.
+
+3. En outre, les règlements visés au paragraphe 1 peuvent notamment:
+
+a) fixer des seuils ou d'autres conditions pour la notification des cas d'octroi d'aides individuelles;
+
+b) exclure certains secteurs de leur champ d'application;
+
+c) prévoir des conditions supplémentaires concernant la compatibilité des aides exemptées en conformité avec lesdits règlements.
+
+<a id="art_2"></a>
+
+### Article 2 — De minimis
+
+1. La Commission peut, par voie de règlements adoptés en conformité avec la procédure définie à l'article 8 du présent règlement, décider qu'eu égard au développement et au fonctionnement du marché intérieur, certaines aides ne remplissent pas tous les critères de l'article 107, paragraphe 1, du TFUE et qu'elles sont donc exemptées de la procédure de notification prévue à l'article 108, paragraphe 3, du TFUE pour autant que les aides accordées à une même entreprise sur une période donnée ne dépassent pas un montant fixe déterminé.
+
+2. À la demande de la Commission, les États membres lui communiquent à tout moment toute information supplémentaire relative aux aides exemptées en vertu du paragraphe 1.
+
+<a id="art_3"></a>
+
+### Article 3 — Transparence et contrôle
+
+1. Lorsqu'elle adopte des règlements en application de l'article 1er, la Commission impose des règles précises aux États membres pour assurer la transparence et le contrôle des aides exemptées de l'obligation de notification en conformité avec lesdits règlements. Ces règles consistent en particulier dans les obligations définies aux paragraphes 2, 3 et 4.
+
+2. Dès la mise en œuvre de régimes d'aides ou d'aides individuelles accordées en dehors d'un régime, exemptés en application des règlements visés à l'article 1, paragraphe 1, les États membres transmettent à la Commission en vue de leur publication sur le site internet de la Commission, des résumés des informations relatives à ces régimes d'aides ou cas d'aides individuelles ne relevant pas d'un régime d'aide exempté.
+
+3. Les États membres enregistrent et compilent toutes les informations concernant l'application des exemptions par catégorie. Si la Commission dispose d'éléments qui soulèvent des doutes sur la bonne application d'un règlement d'exemption, les États membres lui communiquent toute information qu'elle estime nécessaire pour apprécier la conformité d'une aide avec ledit règlement.
+
+4. Les États membres communiquent au moins une fois par an à la Commission un rapport sur l'application des exemptions par catégorie, conformément aux exigences spécifiques de la Commission, de préférence sous forme électronique. La Commission rend ces rapports accessibles à tous les États membres. Une fois par an, ces rapports font l'objet d'un examen et d'une évaluation par le comité visé à l'article 7.
+
+<a id="art_4"></a>
+
+### Article 4 — Durée de validité et modification des règlements
+
+1. Les règlements adoptés en vertu des articles 1er et 2 sont applicables pendant une durée déterminée. Les aides exemptées par un règlement adopté en vertu des articles 1er et 2, sont exemptées pour la durée de validité dudit règlement ainsi que pour la durée de la période d'adaptation prévue par les paragraphes 2 et 3 du présent article.
+
+2. Les règlements adoptés en vertu des articles 1er et 2 peuvent être abrogés ou modifiés lorsque tout élément important ayant motivé leur adoption se trouve modifié ou lorsque le développement progressif ou le fonctionnement du marché intérieur l'exige. Dans ce cas, le nouveau règlement fixe une période d'adaptation de six mois pour l'ajustement des aides qui relevaient du règlement précédent.
+
+3. Les règlements adoptés en vertu des articles 1er et 2 prévoient une période telle que visée par le paragraphe 2 du présent article pour le cas où, lorsqu'ils arrivent à expiration, leur application n'est pas prolongée.
+
+<a id="art_5"></a>
+
+### Article 5 — Rapport d'évaluation
+
+Tous les cinq ans, la Commission soumet au Parlement européen et au Conseil un rapport sur l'application du présent règlement. Un projet de rapport est soumis pour examen au comité visé à l'article 7.
+
+<a id="art_6"></a>
+
+### Article 6 — Audition des parties intéressées
+
+Lorsque la Commission se propose d'adopter un règlement, elle en publie un projet afin de permettre à toutes les personnes et organisations intéressées de lui faire connaître leurs observations dans un délai raisonnable qu'elle fixe et qui ne peut en aucun cas être inférieur à un mois.
+
+<a id="art_7"></a>
+
+### Article 7 — Comité consultatif en matière d'aides d'État
+
+Il est institué un comité à caractère consultatif (ci-après dénommé «le comité»). Ce comité est composé de représentants des États membres et présidé par un représentant de la Commission.
+
+<a id="art_8"></a>
+
+### Article 8 — Consultation du comité
+
+1. La Commission consulte le comité:
+
+a) au moment où elle publie un projet de règlement conformément à l'article 6;
+
+b) avant d'adopter un règlement.
+
+2. La consultation du comité a lieu au cours d'une réunion sur invitation de la Commission. À cette invitation sont annexés les projets et documents à examiner, qui peuvent être publiés sur le site internet de la Commission. La réunion a lieu au plus tôt deux mois après l'envoi de la convocation.
+
+Ce délai peut être réduit dans le cas des consultations visées au paragraphe 1, point b), ainsi qu'en cas d'urgence et de simple prorogation d'un règlement.
+
+3. Le représentant de la Commission soumet au comité un projet des mesures à prendre. Le comité émet son avis sur ce projet, dans un délai que le président peut fixer en fonction de l'urgence de la question en cause, le cas échéant en procédant à un vote.
+
+4. L'avis est inscrit au procès-verbal. En outre, chaque État membre a le droit de demander que sa position figure à ce procès-verbal. Le comité peut recommander la publication de cet avis au *Journal officiel de l'Union européenne*.
+
+5. La Commission tient le plus grand compte de l'avis émis par le comité. Elle informe le comité de la façon dont elle a tenu compte de cet avis.
+
+<a id="art_9"></a>
+
+### Article 9 — Abrogation
+
+Le règlement (CE) no 994/98 est abrogé.
+
+Les références faites au règlement abrogé s'entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l'annexe II.
+
+<a id="art_10"></a>
+
+### Article 10 — Entrée en vigueur
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+
+<a id="annexe_i"></a>
+
+### ANNEXE I
+
+**RÈGLEMENT ABROGÉ ET LISTE DE SES MODIFICATIONS SUCCESSIVES**
+
+| Règlement (CE) no 994/98 du Conseil | (JO L 142 du 14.5.1998, p. 1). |
+| --- | --- |
+| Règlement (UE) no 733/2013 du Conseil | (JO L 204 du 31.7.2013, p. 11). |
+
+<a id="annexe_ii"></a>
+
+### ANNEXE II
+
+**TABLEAU DE CORRESPONDANCE**
+
+| Règlement (CE) no 994/98 | Présent règlement |
+| --- | --- |
+| Articles 1er à 8 | Articles 1er à 8 |
+| — | Article 9 |
+| Article 9 | Article 10 |
+| — | Annexe I |
+| — | Annexe II |

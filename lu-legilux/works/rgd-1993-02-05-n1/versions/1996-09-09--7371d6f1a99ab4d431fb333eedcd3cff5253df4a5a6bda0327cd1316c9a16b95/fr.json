@@ -1,0 +1,529 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/03/2009 : Règlement grand-ducal du 5 février 1993 relatif aux dispositifs médicaux implantables actifs.",
+  "valid_from": "1996-09-09",
+  "valid_to": "2009-03-22",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1993-02-05-n1/versions/1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95/fr.xml",
+    "sha256": "8a6d3a2b3bfa568e846b03bd997f7cbb0f01e54f969fa9334ab63fb0e74afcce",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/consolide/19960909/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_1er/19960909",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1996-09-09",
+      "text_md": "**1.** Le présent règlement s’applique aux dispositifs médicaux implantables actifs.\n\n**2.** Aux fins du présent règlement on entend par:\n\n1. - de diagnostic, prévention, contrôle, traitement ou atténuation d’une maladie ou d’une blessure,\n- d’étude ou de remplacement ou modification de l’anatomie ou d’un processus physiologique,\n- de maîtrise de la conception et dont l’action principale voulue n’est pas obtenue par des moyens pharmacologiques, chimiques ou immunologiques ni par métabolisme, mais dont la fonction peut être assistée par de tels moyens;\n2. dispositif médical actif: tout dispositif médical dépendant pour son fonctionnement d’une source d’énergie électrique ou de toute autre source d’énergie que celle générée directement par le corps humain ou la pesanteur;\n3. dispositif médical implantable actif: tout dispositif médical actif qui est conçu pour être implanté en totalité ou en partie, par une intervention chirurgicale ou médicale, dans le corps humain ou, par une intervention médicale, dans un orifice naturel et qui est destiné à rester après l’intervention;\n4. dispositif sur mesure: tout dispositif médical implantable actif fabriqué spécifiquement suivant la prescription écrite d’un médecin spécialiste indiquant, sous la responsabilité de ce dernier, les caractéristiques de conception spécifiques et destiné à n’être utilisé que pour un patient déterminé;\n5. dispositif destiné à des investigations cliniques: tout dispositif médical implantable actif destiné à être mis à la disposition d’un médecin spécialiste en vue de faire l’objet des investigations effectuées dans un environnement clinique humain adéquat;\n6. destination: l’utilisation à laquelle le dispositif médical est destiné et pour laquelle ce dispositif convient d’après les indications fournies par le fabricant dans la notice d’instruction;\n7. mise en service: la mise à la disposition du corps médical pour implantation.\n8. mise sur le marché: première mise à disposition à titre onéreux ou gratuit d’un dispositif, autre que celui destiné à des investigations cliniques, en vue de sa distribution et/ou utilisation sur le marché, qu’il s’agisse d’un dispositif neuf ou remis à neuf;\n9. Les obligations du présent règlement qui s’imposent aux fabricants s’appliquent également à la personne physique ou morale qui assemble, conditionne, traite, remet à neuf et/ou étiquette un ou plusieurs produits préfabriqués et/ou leur assigne la destination d’un dispositif en vue de sa mise sur le marché en son nom propre. Cela ne s’applique pas à la personne qui, sans être fabricant aux termes du premier alinéa, assemble ou adapte conformément à leur destination des dispositifs déjà mis sur le marché, pour un patient individuel.\n\n**3.** Lorsqu’un dispositif médical implantable actif est destiné à administrer une substance définie comme médicament au sens de la loi, cette substance est soumise au régime d’autorisation de mise sur le marché prévue par la législation en la matière.\n\n**4.** Lorsqu’un dispositif médical implantable actif incorpore comme partie intégrante une substance qui, si elle est utilisée séparément, est susceptible d’être considérée comme un médicament au sens de la loi, ce dispositif doit être évalué et autorisé conformément au présent règlement.",
+      "text_sha256": "3814165fe310e9ec310112e5e3716dc07b24d8682e4f91022ac0cb0bfda8d263",
+      "md_span": {
+        "start": 700,
+        "end": 3974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_2/19930222",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Les dispositifs visés à l’article 1er paragraphe 2 points c) et d) ne peuvent être mis sur le marché et mis en service que s’ils ne compromettent pas la sécurité et la santé des patients, des utilisateurs et, le cas échéant, des tiers lorsqu’ils sont correctement implantés, entretenus et utilisés conformément à leur destination.",
+      "text_sha256": "79996effbfb1699a4cc4cb242b3203e9a516d0b8266f21d2280f5ee44702f019",
+      "md_span": {
+        "start": 4009,
+        "end": 4339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_3/19930222",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Les dispositifs médicaux implantables actifs visés à l’article 1er paragraphe 2 points c), d) et e), ci-après dénommés «dispositifs», doivent satisfaire aux exigences essentielles figurant à l’annexe 1 qui leur sont applicables en tenant compte de la destination des dispositifs concernés.",
+      "text_sha256": "18a6f1cf5d05c1d626e3a1f4c1cde08258ab08bc1a9dbb4fbd77b4f839464e37",
+      "md_span": {
+        "start": 4374,
+        "end": 4663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_4/19941129",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "**1.** Sont autorisées la mise sur le marché et la mise en service de dispositifs conformes aux dispositions du présent règlement et portant le marquage CE prévu à l’article 12, qui indique qu’ils ont fait l’objet d’une évaluation de leur conformité conformément à l’article 9.\n\n**2.** Par ailleurs\n\n- les dispositifs destinés à des investigations cliniques peuvent être mis à la disposition des médecins spécialistes à cet effet s’ils répondent aux conditions prévues à l’article 10 et à l’annexe VI;\n- les dispositifs sur mesure peuvent être mis sur le marché et mis en service s’ils satisfont aux conditions prévues à l’annexe VI et sont accompagnés de la déclaration visée à cette annexe.\n\nCes dispositifs ne portent pas la marquage CE.\n\n**3.** Lors de foires, d’expositions et de démonstrations des dispositifs qui ne sont pas conformes au présent règlement peuvent être présentés pour autant qu’un panneau visible indique clairement leur non-conformité ainsi que l’impossibilité de mettre en service ces dispositifs avant leur mise en conformité par le fabricant ou son mandataire établi dans la Communauté.\n\n**4.** Les indications visées à l’annexe I points 13, 14 et 15 doivent être, au stade de la mise en service du dispositif, rédigées dans une des langues française et allemande.\n\n**5.** a) Lorsque des dispositifs font l’objet d’autres directives que la directive 90/385/CEE du 20 juin 1990 concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs, qui portent sur d’autres aspects et qui prévoient l’apposition du marquage CE, celui-ci indique que les dispositifs sont également présumés conformes aux dispositions de ces autres directives.\n\nb) Toutefois, lorsqu’une ou plusieurs de ces directives laissent le choix au fabricant, pendant une période transitoire, du régime à appliquer, le marquage «CE» indique la conformité aux dispositions des seules directives appliquées par le fabricant. Dans ce cas, les références des directives appliquées, telles que publiées au Journal officiel des Communautés européennes, doivent être inscrites sur les documents, notices ou instructions requis par ces directives et accompagnant ces dispositifs; ces documents, notices ou instructions doivent être accessibles sans que l’on doive détruire l’emballage assurant la stérilité du dispositif.",
+      "text_sha256": "fac1ac6bae74c2debc473b44e3dcb25e17b656c77e8cc093f4f053405f3f236c",
+      "md_span": {
+        "start": 4698,
+        "end": 7056
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1990/385/jo",
+          "text": "directive 90/385/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_5/19930222",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Sont présumés conformes aux exigences essentielles visées à l’article 3 les dispositifs qui satisfont aux normes nationales correspondantes adoptées en application des normes harmonisées dont les numéros de référence ont été publiés au Journal officiel des Communautés européennes; les numéros de référence desdites normes nationales sont publiés au Mémorial.",
+      "text_sha256": "1687ba216bb9a2263c274f03fe356421f13e787091aa492d9e657db5a7116268",
+      "md_span": {
+        "start": 7091,
+        "end": 7450
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_6/19930222",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Lorsque le ministre de la Santé estime que les normes harmonisées visées à l’article 5 ne satisfont pas entièrement aux exigences essentielles visées à l’article 3, il en informe la Commission des Communautés en la priant d’engager la procédure prévue à cet effet à la directive 90/385/CEE.",
+      "text_sha256": "466af0b1418dd17bbf7f6c817527baa47d63aa75a5844b0e1da469ed45102585",
+      "md_span": {
+        "start": 7485,
+        "end": 7775
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1990/385/jo",
+          "text": "directive 90/385/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_7/19941129",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "**1.** Lorsqu’il est constaté que des dispositifs visés à l’article 1er paragraphe 2 points c) et d) correctement mis en service et utilisés conformément à leur destination risquent de compromettre la santé et/ou la sécurité des patients, des utilisateurs ou, le cas échéant, des tiers le ministre de la Santé en interdit ou suivant le cas en restreint provisoirement l’utilisation, en attendant qu’une décision soit prise au niveau communautaire, suite à la procédure décrite à la directive 90/385/CEE qu’il appartient au ministre de la Santé de déclencher par une information de la Commission.\n\n**2.** Lorsqu’un dispositif non conforme est muni de la marquage CE, le ministre de la Santé prend à l’encontre de celui qui a apposé la marque les mesures appropriées et en informe la Commission et les autres Etats membres.",
+      "text_sha256": "00511dea0906d8471901cb68fcb795a6fba577f239a12a2671e4fef9ca882740",
+      "md_span": {
+        "start": 7810,
+        "end": 8631
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1990/385/jo",
+          "text": "directive 90/385/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_8/19930222",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "**1.** Les données concernant les incidents mentionnés ci-après et liés à un dispositif sont recensées et évaluées auprès de la division de la médecine curative de la Direction de la Santé:\n\n1. toute altération des caractéristiques et des performances d’un dispositif, ainsi que toute inadéquation d’une notice d’instruction susceptibles d’entraîner ou d’avoir entraîné la mort ou une dégradation de l’état de santé d’un patient,\n2. toute raison d’ordre technique ou médical ayant entraîné le retrait d’un dispositif du marché par le fabricant.\n\n**2.** La Commission et les autres Etats membres sont informés des incidents visés au paragraphe 1 ainsi que des mesures prises ou envisagées à cet égard.",
+      "text_sha256": "0aa756ee37207cbfbedb40efc563510024cff524e32577a87c887ed7ce608a90",
+      "md_span": {
+        "start": 8666,
+        "end": 9366
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_9/19960909",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1996-09-09",
+      "text_md": "**1.** Pour les dispositifs autres que ceux sur mesure et ceux destinés à des investigations cliniques, le fabricant doit, aux fins de l’apposition de la marquage CE, à son choix:\n\n1. suivre la procédure relative à la déclaration CE de conformité visée à l’annexe II, ou\n2. 1. soit avec la procédure relative à la vérification CE visée à l’annexe IV,\n2. soit avec la procédure relative à la déclaration CE de conformité au type visée à l’annexe V.\n\n**2.** Pour les dispositifs sur mesure, le fabricant doit établir, avant la mise sur le marché de chaque dispositif, la déclaration visée à l’annexe VI.\n\n**3.** Les procédures prévues aux annexes III, IV et VI peuvent, le cas échéant, être conduites par le mandataire du fabricant établi dans la Communauté.\n\n**4.** Les dossiers et la correspondance se rapportant aux procédures visées aux paragraphes 1, 2 et 3 sont rédigés dans une des langues française ou allemande et/ou dans une langue acceptée par l’organisme notifié défini à l’article 11.\n\n**5.** Lors de la procédure d’évaluation de conformité portant sur un dispositif, le fabricant et/ou l’organisme notifié tiennent compte des résultats disponibles en vertu des opérations d’évaluation et de vérification qui ont eu lieu le cas échéant, conformément aux dispositions du présent règlement, à un stade intermédiaire de fabrication.\n\n**6.** Lorsque la procédure d’évaluation de conformité présuppose une intervention d’un organisme notifié, le fabricant, ou son mandataire établi dans la Communauté, peut s’adresser à un organisme de son choix dans le cadre des tâches pour lesquelles cet organisme a été notifié.\n\n**7.** L’organisme notifié peut, lorsque cela est dûment justifié, exiger toute donnée ou information qui est nécessaire pour établir et maintenir l’attestation de conformité compte tenu de la procédure choisie.\n\n**8.** Les décisions prises par les organismes notifiés conformément aux annexes II et III ont une validité maximale de cinq ans et sont reconductibles sur demande introduite au moment convenu dans le contrat signé entre les deux parties par périodes de cinq ans.\n\n**9.** Par dérogation aux paragraphes 1 et 2, le ministre de la Santé peut, sur demande dûment justifiée, autoriser la mise sur le marché et la mise en service de dispositifs individuels pour lesquels les procédures visées aux paragraphes 1 et 2 n’ont pas été appliquées et dont l’utilisation est dans l’intérêt de la protection de la santé.",
+      "text_sha256": "0b47fba6a074c099552a9e280109ae8368664360e8c4f4ee3a7bb6a0a7d28707",
+      "md_span": {
+        "start": 9401,
+        "end": 11843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_10/19930222",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "**1.** Pour les dispositifs destinés à des investigations cliniques, le fabricant ou son mandataire établi dans la Communauté notifie, au moins soixante jours avant le début des investigations, la déclaration visée à l’annexe VI au ministre de la Santé.\n\n**2.** Le fabricant peut entamer les investigations cliniques concernées au terme d’un délai de soixante jours à compter de la notification, sauf dans le cas ou le ministre de la Santé lui a communiqué dans ce délai une décision contraire, fondée sur des considérations de santé ou d’ordre publics.",
+      "text_sha256": "db167cbb50ea4897e003b1bf29e8e0b42e2c35eaaed9d57a864f500715ecd0b3",
+      "md_span": {
+        "start": 11880,
+        "end": 12433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_11/19941129",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "**1.** Le ministre de la Santé notifie à la Commission et aux autres Etats membres les organismes qu’il a désignés pour effectuer les procédures visées à l’article 9, ainsi que les tâches spécifiques pour lesquelles ces organismes ont été désignés et les numéros d’identification qui leur ont été attribués préalablement par la Commission.\n\n**2.** Les critères minimaux énoncés à l’annexe VIII sont appliqués pour la désignation des organismes. Les organismes qui satisfont aux critères fixés dans les normes harmonisées correspondantes sont présumés satisfaire aux critères minimaux pertinents.\n\n**3.** Le ministre de la Santé retire la notification s’il constate que l’organisme en question ne satisfait plus aux critères visés au paragraphe 2. Le ministre de la Santé informe immédiatement les autres Etats membres et la Commission.\n\n**4.** L’organisme notifié et le fabricant ou son mandataire établi dans la Communauté fixent, d’un commun accord, les délais pour l’achèvement des opérations d’évaluation et de vérification visées aux annexes II à V.",
+      "text_sha256": "970f638b479482fd0446530acd3fa92d435f3ad7bf7bf4bc1a21e3e53f04da94",
+      "md_span": {
+        "start": 12470,
+        "end": 13524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_12/19941129",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "**1.** Les dispositifs autres que ceux sur mesure et ceux destinés à des investigations cliniques réputés satisfaire aux exigences essentielles visées à l’article 3 doivent faire l’objet d’un marquage CE de conformité.\n\n**2.** La marquage CE de conformité telle que reproduite à l’annexe IX doit être apposée de façon visible, lisible et indélébile sur l’emballage assurant la stérilité et, le cas échéant, sur l’emballage commercial lorsque celui-ci existe, ainsi que sur la notice d’instructions.\n\nIl doit être suivi du numéro d’identification de l’organisme notifié responsable de la mise en oeuvre des procédures visées aux annexes II, IV et V.\n\n**3.** Il est interdit d’apposer des marquages susceptibles de tromper les tiers sur la signification et le graphisme du marquage CE. Tout autre marquage peut être apposé sur l’emballage ou sur la notice d’instructions accompagnant le dispositif, à condition de ne pas réduire la visibilité et la lisibilité du marquage CE.",
+      "text_sha256": "674d989af45f2e3c0618981b6254ea69cd285078bcad25025a6a35e52a8478cd",
+      "md_span": {
+        "start": 13561,
+        "end": 14534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_13",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#article_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_13/19941129",
+      "type": "article",
+      "num": "Article 13",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "Sans préjudice de l’article 7 :\n\na) tout constat par le ministre de la Santé de l’apposition indue du marquage «CE» entraîne pour le fabricant ou son mandataire établi dans la Communauté l’obligation de faire cesser l’infraction dans les conditions fixées par le ministre ;\n\nb) si la non-conformité persiste, le ministre de la Santé restreint ou interdit la mise sur le marché du produit en cause ou le fait retirer du marché selon les procédures prévues à l’article 7.",
+      "text_sha256": "ff69832a39956bfcc94042ab926ba867cf65960b5ce105419a2a15b20d29bede",
+      "md_span": {
+        "start": 14577,
+        "end": 15046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_14/19960909",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1996-09-09",
+      "text_md": "Toute décision prise en application du présent règlement et conduisant à refuser ou à restreindre la mise sur le marché et/ou la mise en service d’un dispositif est motivée de façon précise. Elle est notifiée à l’intéressé, dans les meilleurs délais, avec indication des voies et délais de recours.\n\nSauf le cas d’urgence le fabricant ou son mandataire établi dans la Communauté est entendu avant toute décision de refus ou de refus partiel.",
+      "text_sha256": "3e680e6f1011c4e2c6c93a5eef07aea65ab5d865babe2244d6e093a3bc09ed06",
+      "md_span": {
+        "start": 15083,
+        "end": 15524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_15/19930222",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Toutes les parties concernées par l’application du présent règlement sont tenues de garder confidentielle toute information obtenue pour l’exécution de leur mission. Cela n’affecte pas les obligations du Gouvernement et des organismes notifiés à l’égard de l’information réciproque et de la diffusion des mises en garde.",
+      "text_sha256": "9526d12fdcc3251fc33d4b4c2fe24a0d976b4f41c8a6fdc533d90d6b50a75299",
+      "md_span": {
+        "start": 15561,
+        "end": 15881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_16/19930222",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Le présent règlement ainsi que les annexes qui en font partie intégrante entrent en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "976a5168e2ef864c1e9116b08d43db1c5c4d0291e8b67f4bfd7f3b52bc4f3d1b",
+      "md_span": {
+        "start": 15918,
+        "end": 16070
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_17/19930222",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Les infractions aux dispositions des articles 2 et 4 sont punies des peines prévues par la loi du 16 janvier 1990 relative aux appareils médicaux.",
+      "text_sha256": "6a200b61a9e1a8f6fc38b7c57149b9c5ae30164e98730a9121caf1572f0c9730",
+      "md_span": {
+        "start": 16107,
+        "end": 16253
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/01/16/n1/jo",
+          "text": "loi du 16 janvier 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_18/19930222",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-22",
+      "text_md": "Le règlement grand-ducal du 31 janvier 1992 portant exécution de la loi du 16 janvier 1990 relative aux appareils médicaux est abrogé pour autant qu’il s’applique aux dispositifs médicaux implantables actifs visés par le présent règlement.",
+      "text_sha256": "bc028e0586d12e352d9335e3e955589b8c782f6c9743cb21774bfcfd5334a18a",
+      "md_span": {
+        "start": 16290,
+        "end": 16529
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1992/01/31/n1/jo",
+          "text": "règlement grand-ducal du 31 janvier 1992"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1990/01/16/n1/jo",
+          "text": "loi du 16 janvier 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/art_19/19930222",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-11-29",
+      "text_md": "Notre ministre de la Santé et Notre ministre de la Justice sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "752cdd26ca070ab4c60d7c552720a3a6bbff0c3ef8dcac37c5b5a82d07f2c533",
+      "md_span": {
+        "start": 16566,
+        "end": 16733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "EXIGENCES ESSENTIELLES\n\nEXIGENCES GÉNÉRALES\n\n1. Les dispositifs doivent être conçus et fabriqués de telle manière que leur utilisation ne compromette pas l’état clinique ni la sécurité des patients lorsqu’ils sont implantés dans les conditions et aux fins prévues. Ils ne doivent pas présenter de risques pour les personnes qui les implantent ni, le cas échéant, pour des tiers.\n2. er\n3. Les caractéristiques et les performances visées aux points 1 et 2 ne doivent pas être altérées de façon à compromettre l’état clinique et la sécurité des patients et, le cas échéant, des tiers pendant la durée de vie des dispositifs prévue par le fabricant lorsque ces derniers sont soumis aux contraintes pouvant survenir dans les conditions normales d’utilisation.\n4. Les dispositifs doivent être conçus, fabriqués et conditionnés de façon à ce que leurs caractéristiques et leurs performances ne soient pas altérées dans les conditions de stockage et de transport prévues par le fabricant (température, humidité, etc.).\n5. D’éventuels effets secondaires et indésirables doivent constituer des risques acceptables au regard des performances assignées.\n\nEXIGENCES RELATIVES À LA CONCEPTION ET À LA CONSTRUCTION\n\n1. Les solutions choisies par le fabricant dans la conception et la construction des dispositifs doivent se tenir aux principes d’intégration de la sécurité en tenant compte de l’état de la technique généralement reconnu.\n2. Les dispositifs implantables doivent être conçus, fabriqués et conditionnés dans des emballages non réutilisables selon des procédures appropriées de façon à ce qu’ils soient stériles lors de leur mise sur le marché et qu’ils maintiennent, dans les conditions de stockage et de transport prévues par le fabricant, cette qualité jusqu’à l’ouverture de l’emballage, en vue de leur implantation.\n3. - les risques de lésions liés à leurs caractéristiques physiques, y compris dimensionnelles,\n- les risques liés à l’utilisation des sources d’énergie en portant, dans le cas de l’utilisation de l’électricité, une attention particulière notamment sur l’isolation, les courants de fuite et réchauffement des dispositifs,\n- les risques liés à des conditions d’environnement raisonnablement prévisibles, notamment ceux liés aux champs magnétiques, aux influences électriques externes, aux décharges électrostatiques, à la pression ou aux variations de pression, à l’accélération,\n- les risques liés à des interventions médicales, notamment ceux résultant de l’utilisation des défibrilateurs ou des équipements chirurgicaux à haute fréquence,\n- directive 80/836/Euratom directive 84/467/Euratom directive 84/466/Euratom\n- - à une augmentation excessive des courants de fuite,\n- au vieillissement des matériaux utilisés,\n- à un accroissement excessif de la chaleur engendrée par le dispositif,\n- à une détérioration de la précision d’un quelconque mécanisme de mesure ou de contrôle.\n4. - au choix des matériaux utilisés, notamment en ce qui concerne les aspects de la toxicité,\n- à la compatibilité réciproque entre les matériaux utilisés et les tissus, les cellules biologiques ainsi que les liquides corporels en tenant compte de l’utilisation prévue du dispositif,\n- à la compatibilité des dispositifs avec les substances qu’ils sont destinés à administrer,\n- à la qualité des connexions, en particulier au plan de la sécurité,\n- à la fiabilité de la source d’énergie,\n- le cas échéant, à une étanchéité appropriée,\n- au bon fonctionnement des systèmes de commandes, de programmation et de contrôle, y compris le logiciel.\n5. er directive 65/65/CEE directive 75/318/CEE directive 89/341/CEE\n6. Les dispositifs et, le cas échéant, les composants doivent être identifiés de façon à rendre possible toute action appropriée s’avérant nécessaire par suite de la découverte d’un risque potentiel lié aux dispositifs et aux composants.\n7. Les dispositifs doivent comporter un code permettant l’identification univoque du dispositif (notamment le type de dispositif et l’année de fabrication) et du fabricant; ce code doit pouvoir être détecté, le cas échéant, sans devoir recourir à une intervention chirurgicale.\n8. Lorsqu’un dispositif ou ses accessoires portent des instructions nécessaires pour le fonctionnement du dispositif ou indiquent des paramètres de fonctionnement ou de réglage à l’aide d’un système de visualisation , ces informations doivent pouvoir être compréhensibles par l’utilisateur et, le cas échéant, par le patient.\n9. Chaque dispositif doit porter de manière lisible et indélébile, le cas échéant par des symboles généralement reconnus, les indications suivantes:\n10. - la méthode de stérilisation,\n- l’indication permettant de reconnaître cet emballage,\n- le nom et l’adresse du fabricant,\n- la désignation du dispositif,\n- s’il s’agit d’un dispositif destiné à des investigations cliniques, la mention «exclusivement pour des investigations cliniques»\n- s’il s’agit d’un dispositif sur mesure, la mention «dispositif sur mesure»,\n- l’indication que le dispositif implantable est en état stérile,\n- l’indication du mois et de l’année de fabrication,\n- l’indication de la date limite d’implantation du dispositif en toute sécurité;\n11. - le nom et l’adresse du fabricant,\n- la désignation du dispositif,\n- la destination du dispositif,\n- les caractéristiques pertinentes pour son utilisation,\n- s’il s’agit d’un dispositif destiné à des investigations cliniques, la mention «exclusivement pour des investigations cliniques»,\n- s’il s’agit d’un dispositif sur mesure, la mention «dispositif sur mesure»,\n- l’indication que le dispositif implantable est en état stérile,\n- l’indication du mois et de l’année de fabrication,\n- l’indication de la date limite d’implantation du dispositif en toute sécurité,\n- les conditions de transport et de stockage du dispositif.\n12. - l’année d’autorisation de l’apposition de la marquage CE,\n- les indications visées aux points 14.1 et 14.2, à l’exception de celles figurant aux huitième et neuvième tirets,\n- les performances visées au point 2 ainsi que les éventuels effets secondaires indésirables,\n- les informations nécessaires permettant au médecin de sélectionner le dispositif adéquat ainsi que le logiciel et les accessoires adaptés,\n- les informations constituant le mode d’emploi et permettant au médecin et, le cas échéant, au patient, d’utiliser correctement le dispositif, ses accessoires et le logiciel , ainsi que les informations relatives à la nature, à la portée et aux délais des contrôles et des essais de fonctionnement et, le cas échéant, les mesures de maintenance,\n- les informations utiles à suivre, le cas échéant, pour éviter certains risques liés à l’implantation du dispositif,\n- les informations relatives aux risques d’interférence réciproques liés à la présence du dispositif lors d’investigations ou de traitements spécifiques,\n- les instructions nécessaires en cas de rupture d’emballage assurant la stérilité et, le cas échéant, l’indication des méthodes appropriées de restérilisation,\n- l’avis, le cas échéant, qu’un dispositif ne peut être réutilisé que s’il a été reconditionné sous la responsabilité du fabricant pour être conforme aux exigences essentielles. La notice d’instructions doit, en outre, comporter des indications permettant au médecin de renseigner le patient sur les contre-indications et les précautions à prendre. Ces indications portent notamment sur: - les informations permettant de définir la durée de vie de la source d’énergi,\n- les précautions à prendre en cas de changements de performance du dispositif,\n- les précautions à prendre en ce qui concerne l’exposition, dans des conditions d’environnement raisonnablement prévisibles, à des champs magnétiques, aux influences électriques externes, aux décharges électrostatiques, à la pression ou aux variations de pression, à l’accélération, etc.,\n- les informations adéquates relatives aux médicaments, que le dispositif en question est destiné à administrer.\n13. La confirmation du respect des exigences concernant les caractéristiques et performances, visées au titre I «Exigences générales», du dispositif dans des conditions normales d’utilisation ainsi que l’évaluation des effets secondaires ou indésirables doivent être fondées sur des données cliniques établies en conformité avec l’annexe VII.",
+      "text_sha256": "f2d84fcb40bc66eb393f96d70216f38cfd74d4e7ad7480a91e185d77baa9b929",
+      "md_span": {
+        "start": 16776,
+        "end": 25065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "DÉCLARATION «CE» DE CONFORMITÉ\n\n(Système complet d’assurance de qualité)\n\n1. Le fabricant applique le système qualité approuvé pour la conception, la fabrication et l’inspection finale des produits concernés, comme spécifié aux points 3 et 4, et est soumis à la surveillance CE comme spécifiée au point 5.\n2. Le fabricant ou son mandataire établi dans la Communauté appose le marquage «CE» conformément à l’article 12 et établit une déclaration écrite de conformité. Cette déclaration couvre un ou plusieurs exemplaires identifiés du produit et est conservée par le fabricant ou son mandataire établi dans la Communauté. Le marquage «CE» est accompagné du numéro d’identification de l’organisme notifié responsable.\n\n1. Système qualité\n2. La demande comprend: - toutes les informations appropriées pour la catégorie de produits dont la fabrication est envisagée,\n- la documentation du système qualité,\n- un engagement de remplir les obligations découlant du système qualité tel qu’approuvé,\n- un engagement d’entretenir le système qualité approuvé de sorte qu’il demeure adéquat et efficace,\n- 1. toute altération des caractéristiques et des performances ainsi que toute inadéquation d’une notice d’instructions d’un dispositif susceptible d’entraîner ou d’avoir entraîné la mort ou une dégradation de l’état de santé d’un patient;\n2. toute raison d’ordre technique ou médical ayant entraîné le retrait d’un dispositif du marché par le fabricant.\n3. Tous les éléments, exigences et dispositions adoptés par le fabricant pour son système qualité doivent figurer dans une documentation tenue de manière systématique et ordonnée sous la forme de politique et de procédures écrites. La documentation du système qualité doit permettre une interprétation uniforme des politiques et des procédures en matière de qualité telles que les programmes, les plans, les manuels et les enregistrements relatifs à la qualité. Elle comprend en particulier une description adéquate: 1. des objectifs de qualité du fabricant;\n2. - des structures organisationnelles, des responsabilités des cadres et de leur autorité organisationnelle en matière de qualité de la conception et de la fabrication des produits,\n- des moyens pour contrôler le fonctionnement efficace du système qualité et notamment son aptitude à réaliser la qualité voulue de la conception et des produits, y compris la maîtrise des produits non conformes;\n3. - des spécifications de conception, y compris les normes qui seront appliquées et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles qui s’appliquent aux produits lorsque les normes visées à l’article 5 ne sont pas appliquées entièrement,\n- des techniques de contrôle et de vérification de la conception, des procédés et des actions systématiques qui seraient utilisés lors de la conception des produits;\n4. - des procédés et des procédures qui seront utilisés notamment en matière de stérilisation, d’achats et en ce qui concerne les documents pertinents,\n- des procédures d’identification du produit établies et tenues à jour à partir de dessins, de spécifications applicables ou d’autres documents pertinents, au cours de toutes les phases de la fabrication;\n5. des examens et des essais appropriés qui seront effectués avant, pendant et après la production, de la fréquence à laquelle ils auront lieu et des équipements d’essai utilisés.\n4. L’équipe chargée de l’évaluation comprend au moins un membre ayant déjà l’expérience d’évaluations dans la technologie concernée. La procédure d’évaluation comprend une visite dans les locaux du fabricant. La décision est notifiée au fabricant après la visite finale. Elle contient les conclusions du contrôle et une évaluation motivée.\n5. L’organisme notifié évalue les modifications proposées et vérifie si le système qualité ainsi modifié répond aux exigences visées au point 3.2; il notifie sa décision au fabricant. Cette décision contient les conclusions du contrôle et une évaluation motivée.\n\n1. Examen de la conception du produit\n2. Outre les obligations lui incombant en vertu du point 3, le fabricant doit introduire une demande d’examen du dossier de conception relatif au produit qui sera mis en fabrication et faisant partie de la catégorie visée au point 3.1.\n3. Elle comprend notamment: - les spécifications de conception, y compris les normes qui ont été appliquées,\n- la preuve nécessaire de leur adéquation, en particulier lorsque les normes visées à l’article 5 n’ont pas été entièrement appliquées. Cette preuve doit comprendre les résultats des essais appropriés effectués par le fabricant ou effectués sous sa responsabilité,\n- l’indication que le dispositif incorpore ou non comme partie intégrante une substance visée à l’annexe I point 10 dont l’action en combinaison avec le dispositif peut aboutir à sa biodisponibilité, ainsi que les données relatives aux essais effectués à cet égard,\n- les données cliniques visées à l’annexe VII,\n- le projet de notice d’instructions.\n4. L’organisme notifié examine la demande et, lorsque le produit est conforme aux dispositions applicables de la présente directive, délivre un certificat d’examen CE de la conception au demandeur. L’organisme notifié peut exiger que la demande soit complétée par des essais ou preuves supplémentaires, afin de permettre l’évaluation de la conformité aux exigences de la présente directive. Le certificat contient les conclusions de l’examen, les conditions de sa validité, les données nécessaires à l’identification de la conception approuvée et, le cas échéant, une description de la destination du produit.\n5. Le demandeur informe l’organisme notifié qui a délivré le certificat d’examen CE de la conception de toute modification apportée à la conception approuvée. Les modifications apportées à la conception approuvée doivent recevoir une approbation complémentaire de l’organisme notifié qui a délivré le certificat d’examen CE de la conception lorsque ces modifications peuvent affecter la conformité aux exigences essentielles de la présente directive ou aux conditions prescrites pour l’utilisation du produit. Cette approbation complémentaire est donnée sous la forme d’un addendum au certificat d’examen CE de la conception.\n\n1. Surveillance\n2. Le but de la surveillance est d’assurer que le fabricant remplit correctement les obligations qui découlent du système qualité approuvé.\n3. - la documentation sur le système qualité,\n- les données prévues dans la partie du système qualité relative à la conception, telles que les résultats des analyses, des calculs, des essais, etc.,\n- les données prévues dans la partie du système qualité relative à la fabrication, telles que les rapports concernant les inspections, les essais, les étalonnages et la qualification du personnel concerné, etc.\n4. L’organisme notifié procède périodiquement aux inspections et aux évaluations appropriées afin de s’assurer que le fabricant applique le système qualité approuvé et fournit un rapport d’évaluation au fabricant.\n5. En outre, l’organisme notifié peut faire des visites inopinées au fabricant et lui fournit un rapport de visite.\n\n1. 6.Dispositions administratives\n2. - la déclaration de conformité,\n- la documentation visée au point 3.1 deuxième tiret,\n- les modifications visées au point 3.4.,\n- la documentation visée au point 4.2,\n- les décisions et rapports de l’organisme notifié visés aux point 3.3., 4.3, 5.3 et 5.4.\n3. L’organisme notifié met à la disposition des autres organismes notifiés et de l’autorité compétente, sur demande, toutes les informations pertinentes concernant les approbations de systèmes de qualité délivrées, refusées et retirées.\n4. Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, l’obligation de tenir à disposition des autorités la documentation technique visée à l’article 4.2 incombe à la personne responsable de la mise sur le marché communautaire du dispositif.",
+      "text_sha256": "7ded0b298014a6f3047228e6b8406ceb3121d6876b55c3b51d42010f5fc1af3b",
+      "md_span": {
+        "start": 25109,
+        "end": 33022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "EXAMEN CE DE TYPE\n\n1. L’examen CE de type est la procédure par laquelle un organisme notifié constate et atteste qu’un exemplaire représentatif de la production envisagée satisfait aux dispositions pertinentes de la présente directive.\n2. La demande comporte: - le nom et l’adresse du fabricant, ainsi que le nom et l’adresse du mandataire si la demande est introduite par celui-ci,\n- une déclaration écrite spécifiant que la demande n’a pas été introduite auprès d’un autre organisme notifié,\n- la documentation visée au point 3, nécessaire pour permettre l’évaluation de la conformité de l’exemplaire représentatif de la production envisagée, ci-après dénommé «type», aux exigences de la présente directive. Le demandeur met à la disposition de l’organisme notifié un «type». L’organisme notifié peut demander d’autres exemplaires en tant que de besoin.\n3. - une description générale du type,\n- les dessins de conception, les méthodes de fabrication envisagées notamment en matière de stérilisation, des schémas de composants, sous-ensembles, circuits, etc.\n- les descriptions et explications nécessaires à la compréhension des dessins et schémas susmentionnés et du fonctionnement du produit,\n- une liste des normes visées à l’article 5, appliqués entièrement ou en partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque les normes visées à l’article 5 n’ont pas été appliquées,\n- les résultats des calculs de conception réalisés, des examens et des essais techniques effectués, etc.,\n- l’indication que le dispositif incorpore ou non comme partie intégrante une substance visée à l’annexe I point 10 dont l’action en combinaison avec le dispositif peut aboutir à sa biodisponibilité, ainsi que les données relatives aux essais effectués à cet égard,\n- les données cliniques visées à l’annexe VII,\n- le projet de notice d’instructions.\n4. L’organisme notifié:\n5. examine et évalue la documentation, vérifie que le type a été fabriqué en conformité avec celle-ci; il relève également les éléments qui ont été conçus conformément aux dispositions applicables des normes visées à l’article 5, ainsi que les éléments pour lesquels la conception ne s’appuie pas sur les dispositions pertinentes desdites normes;\n6. effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si les solutions adoptées par le fabricant satisfont aux exigences essentielles de la présente directive lorsque les normes visées à l’article 5 n’ont pas été appliquées;\n7. effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si, dans le cas où le fabricant a choisi d’appliquer les normes pertinentes, celle-ci ont été réellement appliquées;\n8. convient avec le demandeur de l’endroit où les contrôles et les essais nécessaires seront effectués.\n9. Les parties significatives de la documentation sont annexées au certificat et une copie est conservée par l’organisme notifié.\n10. Les modifications au produit approuvé doivent recevoir une nouvelle approbation de l’organisme notifié qui a délivré le certificat d’examen CE de type lorsque ces modifications peuvent remettre en cause la conformité aux exigences essentielles ou aux conditions d’utilisation prévues du produit. Cette nouvelle approbation est délivrée, le cas échéant, sous la forme d’un complément au certificat initial d’examen CE de type.\n11. 7.Dispositions administratives\n12. Chaque organisme notifié met à la disposition des autres organismes notifiés et de l’autorité compétente, sur demande, toutes les informations pertinentes concernant les certificats d’examen «CE de type» et les addenda délivrés, refusés et retirés.\n13. Les autres organismes notifiés peuvent obtenir une copie des certificats d’examen «CE de type» et/ou de leurs addenda. Les annexes des certificats sont tenues à la disposition des autres organismes notifiés, sur demande motivée, après information du fabricant.\n14. Le fabricant ou son mandataire conserve avec la documentation technique une copie des attestations d’examen «CE de type» et de leurs compléments pendant une durée d’au moins cinq ans après la fabrication du dernier dispositif.\n15. Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, l’obligation de tenir la documentation technique à la disposition des autorités incombe à la personne responsable de la mise sur le marché communautaire du dispositif concerné.",
+      "text_sha256": "bbcc33caa13bef99cb4cf4965ef166ce98e6d8a018c1bb7909d9c4b960a033bb",
+      "md_span": {
+        "start": 33067,
+        "end": 37508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Vérification CE**\n\n1. La vérification CE est la procédure par laquelle le fabricant ou son mandataire établi dans la Communauté assure et déclare que les produits qui ont été soumis aux dispositions du point 3 sont conformes au type décrit dans le certificat d’examen «CE de type» et remplissent les exigences applicables de la présente directive.\n\n2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des produits au type décrit dans le certificat «CE de type» et aux exigences applicables de la présente directive. Le fabricant ou son mandataire établi dans la Communautés appose le marquage «CE» sur chaque produit et établit une déclaration écrite de conformité.\n\n3. Le fabricant doit établir, avant le début de la fabrication, une documentation définissant les procédés de fabrication, en particulier en matière de stérilisation, ainsi que l’ensemble des dispositions préétablies et systématiques qui seront mises en oeuvre pour assurer l’homogénéité de la production et la conformité des produits au type décrit dans le certificat d’examen «CE de type» ainsi qu’aux exigences applicables de la présente directive.\n\n4. Le fabricant s’engage à mettre en place et à tenir à jour un système de surveillance après-vente. L’engagement comprend l’obligation du fabricant d’informer, dès qu’il en a connaissance, les autorités compétentes des incidents suivants :\n\ni) toute altération des caractéristiques et des performances ainsi que toute inadéquation d’une notice d’instructions d’un dispositif susceptible d’entraîner ou d’avoir entraîné la mort ou la dégradation de l’état de santé d’un patient.\n\nii) toute raison d’ordre technique ou médical ayant entraîné le retrait d’un dispositif du marché par le fabricant.\n\n5. L’organisme notifié effectue les examens et essais appropriés afin de vérifier la conformité du produit aux exigences de la présente directive, par contrôle et essai des produits sur une base statistique comme spécifié au point 6. Le fabricant doit autoriser l’organisme notifié à évaluer l’efficacité des mesures prises en application du pont 3, le cas échéant par audit.\n\n6.Vérification statistique\n\n6.1. Le fabricant présente les produits fabriqués sous la forme de lots homogènes et prend toutes les mesures nécessaires pour que le procédé de fabrication assure l’homogénéité de chaque lot produit.\n\n6.2. Un échantillon est prélevé, au hasard, sur chaque lot. Les produits constituant un échantillon sont examinés individuellement et des essais appropriés, définis dans la norme ou les normes applicables visées à l’article 5, ou des essais équivalents sont effectués en vue de la vérification de leur conformité au type décrit dans le certificat d’examen «CE de type» aux fins de l’acceptation ou du rejet du lot.\n\n6.3. Le contrôle statistique des produits est fait par attributs, impliquant un plan d’échantillonnage présentant les caractéristiques suivantes :\n\n- un niveau de qualité correspondant à une probabilité d’acceptation de 95 %, avec un pourcentage de non-conformité compris entre 0,29 et 1 %,\n- une qualité limite correspondant à une probabilité d’acceptation de 5 %, avec un pourcentage de non-conformité compris entre 3 et 7 %.\n\n6.4. Pour les lots acceptés, l’organisme notifié appose ou fait apposer son numéro d’identification sur chaque produit et établit une attestation écrite de conformité relative aux essais effectués. Tous les produits du lot peuvent être mis sur le marché, à l’exception des produits de l’échantillon dont on a constaté qu’ils n’étaient pas conformes.\n\nSi un lot est rejeté, l’organisme notifié compétent prend les mesures appropriées pour empêcher la mise sur le marché de ce lot. En cas de rejet fréquent de lots, l’organisme notifié peut suspendre la vérification statistique.\n\nLe fabricant peut apposer, sous la responsabilité de l’organisme notifié, le numéro d’identification de ce dernier au cours du processus de fabrication.\n\n6.5. Le fabricant ou son mandataire doit être en mesure de présenter sur demande les attestations de conformité de l’organisme notifié.",
+      "text_sha256": "82b2887a5ed3f3cf9f9bf527abc315001161114114e90e0e2400badb63f753e7",
+      "md_span": {
+        "start": 37552,
+        "end": 41648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_5",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_5",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "DÉCLARATION CE DE CONFORMITÉ AU TYPE\n\n(Assurance de la qualité de la production)\n\n1. Le fabricant applique le système qualité approuvé pour la fabrication et effectue l’inspection finale des produits concernés comme elle est spécifiée au point 3; il est soumis à la surveillance visée au point 4.\n2. Le fabricant ou son mandataire établi dans la Communauté appose le marquage «CE» conformément à l’article 12 et établit par écrit une déclaration de conformité. Cette déclaration couvre un ou plusieurs exemplaires identifiés du produit et est conservée par le fabricant. Le marquage «CE» est accompagné du numéro d’identification de l’organisme notifié responsable.\n\n1. Système «qualité»\n2. La demande comprend: - toutes les informations appropriées concernant les produits dont la fabrication est envisagée,\n- la documentation sur le système «qualité»,\n- un engagement de remplir les obligations découlant du système qualité tel qu’approuvé,\n- un engagement d’entretenir le système «qualité» approuvé de sorte qu’il demeure adéquat et efficace,\n- le cas échéant, la documentation technique relative au type approuvé et une copie du certificat d’examen CE de type,\n- 1. toute altération des caractéristiques et des performances ainsi que toute inadéquation d’une notice d’instructions d’un dispositif susceptible d’entraîner ou d’avoir entraîné la mort ou une dégradation de l’état de santé d’un patient;\n2. toute raison d’ordre technique ou médical ayant entraîné le retrait d’un dispositif du marché par le fabricant.\n3. Tout les éléments, exigences et dispositions adoptés par le fabricant pour son système «qualité» doivent figurer dans une documentation tenue de manière systématique et ordonnée sous la forme de politiques et de procédures écrites. La documentation du système «qualité» doit permettre une interprétation uniforme des politiques et des procédures en matière de qualité, telles que les programmes, les plans, les manuels et les enregistrements relatifs à la qualité. Elle comprend en particulier une description adéquate: 1. des objectifs de qualité du fabricant;\n2. - des structures organisationnelles, des responsabilités des cadres et de leur autorité organisationnelle en matière de fabrication des produits,\n- des moyens pour contrôler le fonctionnement efficace du système «qualité» et notamment son aptitude à réaliser la qualité voulue des produits, y compris la maîtrise des produits non conformes;\n3. - des procédés et des procédures qui seront utilisés notamment en matière de stérilisation, d’achats et en ce qui concerne les documents pertinents,\n- des procédures d’identification du produit établies et tenues à jour à partir de dessins, de spécifications applicables ou d’autres documents pertinents, au cours de toutes les phases de la fabrication;\n4. des examens et des essais appropriés qui seront effectués avant, pendant et après la production, de la fréquence à laquelle ils auront lieu et des équipements d’essai utilisés.\n4. L’équipe chargée de l’évaluation comprend au moins un membre ayant déjà l’expérience d’évaluations dans la technologie concernée. La procédure d’évaluation comprend une visite dans les locaux du fabricant. La décision est notifiée au fabricant après la visite finale. Elle contient les conclusions du contrôle et une évaluation motivée.\n5. L’organisme notifié évalue les modifications proposées et vérifie si le système «qualité» ainsi modifié répond aux exigences visées au point 3.2; il notifie sa décision au fabricant. Cette décision contient les conclusions du contrôle et une évaluation motivée.\n\n1. Surveillance\n2. Le but de la surveillance est d’assurer que le fabricant remplit correctement les obligations qui découlent du système «qualité» approuvé.\n3. - la documentation sur le système «qualité»,\n- les données prévues dans la partie du système «qualité» relative à la fabrication, telles que les rapports concernant les inspections, les essais, les étalonnages et la qualification du personnel concerné, etc.\n4. L’organisme notifié procède périodiquement aux inspections et aux évaluations appropriées afin de s’assurer que le fabricant applique le système «qualité» approuvé et fournit un rapport d’évaluation au fabricant.\n5. En outre, l’organisme notifié peut faire des visites inopinées au fabricant et lui fournit un rapport de visite.\n\n1. L’organisme notifié communique aux autres organismes notifiés les informations pertinentes concernant les approbations de systèmes «qualité», délivrées, refusées et retirées.",
+      "text_sha256": "b4bb571dcbfacdc69b4c51f8d58eff4616dbee7f47534f8437555aa026141f4c",
+      "md_span": {
+        "start": 41691,
+        "end": 46192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_6",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_6",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "DÉCLARATION RELATIVE AUX DISPOSITIFS À DESTINATIONS PARTICULIÈRES\n\n1. Le fabricant ou son mandataire établi dans la Communauté dresse, pour les dispositifs sur mesure ou les dispositifs destinés à des investigations cliniques, la déclaration comprenant les éléments spécifiés au point 2.\n2. La déclaration comprend les indications suivantes:\n3. - les données permettant d’identifier le dispositif en question,\n- l’affirmation que le dispositif est destiné à être utilisé exclusivement pour un patient déterminé et le nom de ce dernier,\n- le nom du médecin qui a établi la prescription en cause et, le cas échéant, le nom de la clinique concernée,\n- les caractéristiques spécifiques du dispositif liées à la prescription médicale en question,\n- l’affirmation que le dispositif en question est conforme aux exigences essentielles énoncées dans l’annexe I et, le cas échéant, l’indication des exigences essentielles qui n’ont pas été respectées entièrement avec mention des motifs;\n4. - les données permettant d’identifier le dispositif en question,\n- le plan des investigations, comprenant notamment l’objectif, la portée et le nombre des dispositifs concernés,\n- le nom du médecin et de l’institution chargés des investigations;\n- le lieu, le début et la durée envisagés des investigations,\n- l’affirmation que le dispositif en question est conforme aux exigences essentielles à l’exception des aspects faisant l’objet des investigations et que, quant à ces derniers, toutes les précautions sont prises pour protéger la santé et la sécurité du patient.\n5. Le fabricant s’engage à tenir à disposition des autorités nationales compétentes:\n6. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des produits fabriqués à la documentation mentionnée au premier alinéa;\n7. - une description générale du produit,\n- des dessins de conception, des méthodes de fabrication notamment en matière de stérilisation, ainsi que des schémas des composants, des sous-ensembles, des circuits, etc.,\n- les descriptions et explications nécessaires à la compréhension des dessins et des schémas susmentionnés et du fonctionnement du produit,\n- une liste des normes visées à l’article 5, appliquées entièrement ou en partie; et une description des solutions adoptées pour satisfaire aux exigences essentielles de la présente directive lorsque les normes visées à l’article 5 n’ont pas été appliquées,\n- les résultats des calculs de conception, des contrôles et des essais techniques effectués, etc. . . Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des produits fabriqués à la documentation mentionnée au point 3.1 et au premier alinéa du présent point. Le fabricant peut autoriser l’évaluation, le cas échéant par un audit, de l’efficacité de ces mesures.",
+      "text_sha256": "ba005f9aa3e46e97cddf9da0309954536858c088fb810362b2394acad4c87b16",
+      "md_span": {
+        "start": 46236,
+        "end": 49083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_7",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_7",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ÉVALUATION CLINIQUE\n\n1. Dispositions générales\n2. L’adéquation des données cliniques présentées, visées à l’annexe II point 4.2 et à l’annexe III point 3, est fondée, en tenant compte le cas échéant des normes harmonisées pertinentes, sur:\n3. soit un recueil de la littérature scientifique pertinente actuellement disponible au sujet de l’utilisation prévue du dispositif et des techniques qu’il met en œuvre, ainsi que, le cas échéant, un rapport écrit contenant une évaluation critique de ce recueil;\n4. soit les résultats de toutes les investigations cliniques réalisées, y compris celles effectuées conformément au point 2.\n5. Toutes les données doivent demeurer confidentielles, à moins que leur divulgation ne soit jugée indispensable.\n\n1. Investigations cliniques\n2. Objectifs Les objectifs des investigations cliniques sont: - de vérifier que, dans des conditions normales d’utilisation, les performances du dispositif sont conformes à celles visées à l’annexe I point 2 et - de déterminer les éventuels effets secondaires indésirables dans des conditions normales d’utilisation et d’évaluer si ceux-ci constituent des risques acceptables au regard des performances assignées au dispositif.\n3. Considérations éthiques Les investigations cliniques sont effectuées conformément à la déclaration d’Helsinki adoptée an 1964 par la dix-huitième assemblée médicale mondiale à Helsinki, Finlande, et modifiée en 1975 par la vingt-neuvième assemblée médicale mondiale à Tokyo, Japon, ainsi qu’en 1983 par la trente-cinquième assemblée médicale mondiale à Venise, Italie. Il est impératif que toutes les dispositions liées à la protection de la personne humaine soient mises en œuvre dans l’esprit de la déclaration d’Helsinki. Il doit en être ainsi pour chaque étape des investigations cliniques, depuis la première réflexion sur la nécessité et la justification de l’étude jusqu’à la publication des résultats,\n4. Méthodes\n5. Les investigations cliniques sont effectuées selon un plan d’essai approprié correspondant à l’état de la science et de la technique, défini de manière à confirmer ou à réfuter les affirmations du fabricant à propos du dispositif; ces investigations comportent un nombre d’observations suffisant pour garantir la validité scientifique des conclusions.\n6. Les procédures utilisées pour réaliser les investigations sont adaptées au dispositif examiné.\n7. Les investigations cliniques sont effectuées dans des conditions similaires aux conditions normales d’utilisation du dispositif.\n8. Toutes les caractéristiques pertinentes, y compris celles relatives à la sécurité, aux performances du dispositif et aux effets sur le patient sont examinées.\n9. Tous les événements défavorables sont intégralement enregistrés.\n10. Le médecin responsable aura accès aux données techniques relatives au dispositif.\n11. Le rapport écrit, signé par le médecin responsable, contient une évaluation critique de toutes les données obtenues au cours des investigations cliniques.",
+      "text_sha256": "29792479eb4843272d2ef25a5c6c13d6fcf3ccd5483197cd6a8d2a6697f6d966",
+      "md_span": {
+        "start": 49128,
+        "end": 52111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_8",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_8",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "CRITÈRES MINIMAUX DEVANT ÊTRE RÉUNIS POUR LA DÉSIGNATION DES ORGANISMES À NOTIFIER\n\n1. L’organisme, son directeur et le personnel chargé d’exécuter les opérations d’évaluation et de vérification ne peuvent être ni le concepteur, ni le constructeur, ni le fournisseur, ni l’installateur des dispositifs qu’ils contrôlent, ni le mandataire de l’une de ces personnes. Ils ne peuvent intervenir, ni directement ni comme mandataires, dans la conception, la construction, la commercialisation ou l’entretien de ces dispositifs. Ceci n’exclut pas la possibilité d’un échange d’informations techniques entre le constructeur et l’organisme.\n2. L’organisme et le personnel chargé du contrôle doivent exécuter les opérations d’évaluation et de vérification avec la plus grande intégrité professionnelle et la plus grande compétence technique et doivent être libres de toutes les pressions et incitations, notamment d’ordre financier, pouvant influencer leur jugement ou les résultats de leur contrôle, en particulier de celles émanant de personnes ou de groupements de personnes intéressés par les résultats des vérifications.\n3. L’organisme doit pouvoir assurer l’ensemble des tâches assignées dans l’une des annexes II à V à un tel organisme et pour lesquelles il a été désigné, que ces tâches soient effectuées par l’organisme même ou sous sa responsabilité. Il doit notamment disposer du personnel et posséder les moyens nécessaires pour accomplir de façon adéquate les tâches techniques et administratives liées àl’exécution des évaluations et vérifications; il doit également avoir accès au matériel pour les vérifications requises.\n4. - une bonne formation professionnelle portant sur l’ensemble des opérations d’évaluation et de vérification pour lesquelles l’organisme est désigné;\n- une connaissance satisfaisante des prescriptions relatives aux contrôles qu’il effectue et une pratique suffisante de ces contrôles,\n- l’aptitude requise pour rédiger les attestations, procès-verbaux et rapports qui constituent la matérialisation des contrôles effectués.\n5. L’indépendance du personnel chargé du contrôle doit être garantie. La rémunération de chaque agent ne doit être fonction ni du nombre des contrôles qu’il effectue, ni des résultats de ces contrôles.\n6. L’organisme doit souscrire une assurance de responsabilité civile à moins que cette responsabilité ne soit couverte par l’État sur la base du droit national ou que les contrôles ne soient effectués directement par l’État membre.\n7. Le personnel de l’organisme est lié par le secret professionnel pour tout ce qu’il apprend dans l’exercice de ses fonctions (sauf à l’égard des autorités administratives compétentes de l’État où il exerce ses activités) dans le cadre de la présente directive ou de toute disposition de droit interne lui donnant effet.",
+      "text_sha256": "8432fea77f5ac3b8996260eed8e27c9814322e18a5487be97134d7c017c6a9d1",
+      "md_span": {
+        "start": 52157,
+        "end": 54966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_9",
+      "provision_id": "lu-legilux:rgd-1993-02-05-n1:1996-09-09--7371d6f1a99ab4d431fb333eedcd3cff5253df4a5a6bda0327cd1316c9a16b95#attachment_9",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Marquage «CE» de conformité**\n\n- Le marquage «CE» de conformité est constitué des initiales «CE» selon le graphisme suivant :\n- En cas de réduction ou d’agrandissement du marquage «CE», les propositions telles qu’elles ressortent du graphisme gradué figurant ci-dessus doivent être respectées.\n- Il peut être dérogé à cette dimension minimale pour les dispositifs de petite taille.",
+      "text_sha256": "1da091638dac0cc01d6b79386f70b528a37d10bf5ca9c416be1e3968002f5769",
+      "md_span": {
+        "start": 55010,
+        "end": 55393
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

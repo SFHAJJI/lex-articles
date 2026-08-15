@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009r0748:2009-08-05--037b252d1d4e60afe583b8a0976594b44d17697675981df2942451ecc31b05d0",
+  "language": "fr",
+  "title": "Commission Regulation (EC) No 748/2009 of 5 August 2009 on the list of aircraft operators …",
+  "valid_from": "2009-08-05",
+  "valid_to": "2010-01-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009r0748/versions/2009-08-05--037b252d1d4e60afe583b8a0976594b44d17697675981df2942451ecc31b05d0/fr.xml",
+    "sha256": "dc03a36b63375f034a86e5b0078b5f61bc572e130f5e43ac4e1e21fc6a05742d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0748"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009r0748:2009-08-05--037b252d1d4e60afe583b8a0976594b44d17697675981df2942451ecc31b05d0#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa liste des exploitants d'aéronefs ayant exercé une activité aérienne visée à l’annexe I de la directive 2003/87/CE à compter du 1er janvier 2006, et précisant l’État membre responsable de chaque exploitant d’aéronefs, visée à l'article 18 bis, paragraphe 3, point a), de la directive 2003/87/CE, figure à l'annexe du présent règlement.",
+      "text_sha256": "dd3a823cdd1ca494c1929bd2bd9129e2224e24c70cbb6d81581e0bc69598f333",
+      "md_span": {
+        "start": 708,
+        "end": 1062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009r0748:2009-08-05--037b252d1d4e60afe583b8a0976594b44d17697675981df2942451ecc31b05d0#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "8268800cea4f256373429e9bd1de08d049f6b567f5fcc49f7c4acf9fbf0e5724",
+      "md_span": {
+        "start": 1095,
+        "end": 1236
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

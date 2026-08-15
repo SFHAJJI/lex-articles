@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1353:2014-12-15--661988d1f92d5887857fe10e6d860c3dbf9cab008e5f2635dfab39e90613c490",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 1353/2014 of 15 December 2014 amending Implemen…",
+  "valid_from": "2014-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1353/versions/2014-12-15--661988d1f92d5887857fe10e6d860c3dbf9cab008e5f2635dfab39e90613c490/fr.xml",
+    "sha256": "11c6fc52b78aaaa79d0b75d21db00cbf5e3db7926b39ded820c2e189f549f9b1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1353"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1353:2014-12-15--661988d1f92d5887857fe10e6d860c3dbf9cab008e5f2635dfab39e90613c490#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement (UE) no 1156/2012 est modifié comme suit:\n\n| 1) | l'article 1erbis suivant est inséré:«Article premier bisLe format informatique à utiliser pour l'échange automatique et obligatoire d'informations au titre de l'article 8, paragraphe 1, de la directive 2011/16/UE est conforme au format indiqué à l'annexe V du présent règlement.»; |\n| --- | --- |\n\n| 2) | le texte figurant à l'annexe du présent règlement est ajouté en tant qu'annexe V au règlement (UE) no 1156/2012. |\n| --- | --- |",
+      "text_sha256": "8b4be83a7eb45825b9c922da20582a40fff07f1d93de682557c25b3c9f5e55a0",
+      "md_span": {
+        "start": 702,
+        "end": 1215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1353:2014-12-15--661988d1f92d5887857fe10e6d860c3dbf9cab008e5f2635dfab39e90613c490#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 1er janvier 2015.",
+      "text_sha256": "eed143d07a149bc8aa397a3334db752ea487ff4b7da03fa03d2cd3880777b09f",
+      "md_span": {
+        "start": 1248,
+        "end": 1435
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

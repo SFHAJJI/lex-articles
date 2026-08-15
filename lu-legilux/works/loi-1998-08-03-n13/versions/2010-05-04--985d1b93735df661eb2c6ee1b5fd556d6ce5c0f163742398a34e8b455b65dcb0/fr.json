@@ -1,0 +1,166 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/12/2009 : Loi du 3 août 1998 sur la promotion de la presse écrite.",
+  "valid_from": "2010-05-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1998-08-03-n13/versions/2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0/fr.xml",
+    "sha256": "53f141303508e108397b9ae718c6bcf908389ed468eca8599a5b628737ef1576",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n13/consolide/20100504/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "En vue de promouvoir la diversité de la presse d’opinion luxembourgeoise, il est institué un régime de promotion de la presse écrite sous la forme d’une aide financière annuelle à charge du budget de l’Etat.\n\nLes organes de presse bénéficiaires sont ceux qui répondent depuis un an au moins aux critères prévus à l’article 2 de la présente loi et désignés sur cette base par arrêté grand-ducal sur proposition du Ministre ayant dans ses attributions les médias, les avis de l’Association Luxembourgeoise des Editeurs de Journaux, de l’Association Luxembourgeoise des Journalistes et de l’Union des Journalistes Luxembourg ayant été demandés.",
+      "text_sha256": "f208ab82787929ce4e3a13634fc85a0254be412aa12967549cf4048ef843ac44",
+      "md_span": {
+        "start": 659,
+        "end": 1300
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Est à considérer comme organe de presse au sens de la présente loi toute publication imprimée\n\n1. éditée au Grand-Duché de Luxembourg et y paraissant au moins une fois par semaine sans interruption sauf cas de force majeure ou cas fortuit;\n2. éditée par une personne physique ou morale établie au Grand-Duché de Luxembourg, dont le but déclaré est le commerce de l’information;\n\n*(Loi du 11 avril 2010)*\n\n1. dotée d’une équipe rédactionnelle d’un minimum de cinq journalistes professionnels à plein temps liés à l’éditeur par un contrat de travail à durée indéterminée, étant entendu que deux journalistes professionnels à mi-temps équivalent à un journaliste professionnel à plein temps;»\n\n1. susceptible par sa diffusion de toucher l’ensemble de la population et ayant recours principalement aux langues luxembourgeoise, française ou allemande;\n2. offrant une information générale aussi bien nationale qu’internationale et relevant à la fois des domaines politique, économique, social et culturel;\n3. financée essentiellement par le produit de la vente et le cas échéant la mise à disposition d’emplacements publicitaires ne dépassant pas en moyenne 50% de la surface totale;\n4. dont l’achat ou l’abonnement n’est pas lié exclusivement à l’affiliation à une association ou organisation quelconque.\n\nEst toutefois exclue du bénéfice de la présente loi toute édition luxembourgeoise d’une publication étrangère, à moins que cette dernière ne bénéficie à l’étranger d’aucune aide à la presse, directe ou indirecte, quelles que soient les modalités d’une telle aide.",
+      "text_sha256": "5ca031b0632e571075ed5c9bfd98ccdf62949773af6e23d1860e5e4ec73ad5c4",
+      "md_span": {
+        "start": 1335,
+        "end": 2899
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Le montant alloué à chaque organe est calculé par rapport à un montant annuel de référence. Celui-ci est arrêté par règlement grand-ducal, l’avis de la Commission prévue à l’article 5 ayant été demandé.\n\n**(2)** Le montant annuel de référence correspond à la somme du coût annuel de cinq journalistes à plein temps et du coût de 120 t de papier journal.\n\nToutefois le tonnage de papier journal à prendre en compte ne sera que de 40 t en 1997 et de 80 t en 1998.\n\nUn règlement grand-ducal pourra modifier les composantes du montant annuel de référence.",
+      "text_sha256": "d48e19f9016690ac1fdb0277d63b1032921b0908507d5ec08b47f34b8ec5ab85",
+      "md_span": {
+        "start": 2934,
+        "end": 3493
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Le montant annuel alloué à tout organe bénéficiaire comprend une part fondamentale identique pour chaque organe et une part proportionnelle au nombre de pages rédactionnelles standardisées éditées par l’organe bénéficiaire.\n\nLa part fondamentale allouée à chaque organe est égale à un tiers du montant annuel de référence.\n\nLa part proportionnelle allouée à un organe est égale à deux tiers du montant annuel de référence multiplié par le nombre de pages rédactionnelles standardisées éditées par cet organe et divisé par 2325.\n\n**(2)** Le nombre de pages rédactionnelles à retenir pour chaque organe est arrêté par le Ministre ayant dans ses attributions les médias sur la base du rapport de la Commission prévue à l’article 5. Un règlement grand-ducal définira les critères servant à déterminer les pages rédactionnelles. Ce règlement grand-ducal pourra distinguer entre plages rédactionnelles à considérer intégralement, plages consacrées aux loisirs qui ne devront pas être considérées intégralement et plages publicitaires qui ne seront pas éligibles. Il sera tenu compte de la surface respective des pages des organes de presse en convertissant les pages rédactionnelles en pages rédactionnelles standardisées d’une surface imprimée de 187.680 mm2.\n\nLe maximum annuel de pages rédactionnelles standardisées pouvant être retenues par organe est fixé à 5.500 pour l’année 1997 et à 6.000 pour l’année 1998. A partir de 1999 toutes les pages rédactionnelles standardisées seront mises en compte.",
+      "text_sha256": "5769ffc7cf20b4db7a3374ce8dca64060454a0fd979c12b06b8f2fac80f4a2b4",
+      "md_span": {
+        "start": 3528,
+        "end": 5034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une commission de six membres, à savoir le président et deux membres représentant l’Etat et trois membres nommés sur proposition respectivement de l’Association Luxembourgeoise des Editeurs de Journaux, de l’Association Luxembourgeoise des Journalistes et de l’Union des Journalistes Luxembourg, déterminera le nombre des pages rédactionnelles standardisées à retenir pour chaque organe. Elle calculera le montant de l’aide à attribuer à chaque organe sur la base de relevés exhaustifs et d’exemplaires justificatifs lui soumis par les bénéficiaires et elle en fera rapport au Ministre ayant dans ses attributions les médias.",
+      "text_sha256": "f2da3950d4eb045c4f8cd7f9d888b7095968db644c17057a730193226ca326e2",
+      "md_span": {
+        "start": 5069,
+        "end": 5694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste est modifiée comme suit:\n\n1. Les personnes remplissant toutes les conditions énumérées à l’article 1er à l’exception de la condition prévue au point d) ont le droit de porter le titre professionnel de journaliste stagiaire.»\n2. «Il est institué un Conseil de Presse chargé de statuer sur l’existence ou la perte éventuelle dans le chef des intéressés, des conditions exigées par l’article 1er ou l’article 1bis pour l’admission au titre de journaliste ou de journaliste stagiaire.»",
+      "text_sha256": "75c6897fea1b7229d717759a11b98909facbf5b974cd5bfc5f2a8aef79ea6637",
+      "md_span": {
+        "start": 5729,
+        "end": 6323
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/12/20/n2/jo",
+          "text": "loi du 20 décembre 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1998-08-03-n13:2010-05-04--985d1b93735df661eb2c6ee1b5fd556d6ce5c0f163742398a34e8b455b65dcb0#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** La présente loi entre en vigueur le jour de sa publication au Mémorial.\n\n**(2)** Le régime de promotion de la presse écrite introduit par la présente loi se substitue à partir de l’année 1997 à l’aide directe de l’Etat à la presse écrite instituée par la loi du 11 mars 1976, telle qu’elle a été modifiée par l’article 34 de la loi du 27 juillet 1991 sur les médias électroniques.\n\nLa loi modifiée du 11 mars 1976 d’aide directe de l’Etat à la presse écrite est abrogée; les subventions attribuées aux organes bénéficiaires pour les exercices 1997 et 1998 conformément à ladite loi et à ses règlements d’exécution restent acquises aux organes bénéficiaires et seront considérées comme avances versées pour les années 1997 et 1998 au titre de la promotion de la presse écrite en vertu de la présente loi.",
+      "text_sha256": "b73ba9d77d17595d536960910a45d0296c6b5d26ec9251773a8c4e09b37010fc",
+      "md_span": {
+        "start": 6358,
+        "end": 7169
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/03/11/n1/jo",
+          "text": "loi du 11 mars 1976"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1976/03/11/n1/jo",
+          "text": "loi modifiée du 11 mars 1976"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

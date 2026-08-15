@@ -1,0 +1,312 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/08/2025 : Loi du 15 novembre 1978 relative à l'information sexuelle, à la prévention de l'avortement clandestin et à la réglementation de l'interruption de la grossesse.",
+  "valid_from": "2014-12-26",
+  "valid_to": "2025-08-03",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1978-11-15-n1/versions/2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f/fr.xml",
+    "sha256": "0db02cec73fc9a494cf1713d7127c689ee668230b65d45c1bccf694ae0ee5d05",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_1er/19781210",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1978-12-10",
+      "text_md": "La loi garantit le respect de tout être humain dès le commencement de la vie. Il ne saurait être porté atteinte à ce principe qu´en cas de nécessité et selon les conditions définies par la présente loi.",
+      "text_sha256": "ea67728fc1015f388295b14dab17750bdaeca933eb503fa8a12f40d3f518badb",
+      "md_span": {
+        "start": 769,
+        "end": 971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_2/19781210",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "L´enseignement comprend, à tous les niveaux, l´information et l´éducation sexuelle incombant à la famille. Il est adapté à l´âge des élèves et complète l´éducation sexuelle incombant à la famille. Il est intégré dans différentes disciplines et ne fait pas l´objet d´une branche spéciale.",
+      "text_sha256": "9b78871c1660ee5d1f89396fba928518804027f1f67678ebef8fc383dfb76d94",
+      "md_span": {
+        "start": 1067,
+        "end": 1354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_3/19781210",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "La formation des enseignants en fonction est assurée par des cours spéciaux.\n\nDes séances spéciales d´information et d´éducation sexuelles sont introduites dans les cours ou stages de formation pédagogique des candidats enseignants.",
+      "text_sha256": "f5f838681e901068dcf71004dc646e0c2bd642b5b342998dbff359c6b88dbe83",
+      "md_span": {
+        "start": 1389,
+        "end": 1621
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_4/19781210",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Un dossier d´information gratuit, élaboré sous la responsabilité du Ministre de la Famille, en collaboration avec le Ministre de l´Education Nationale et le Ministre de la Santé Publique, est déposé dans toutes les maisons communales du pays ainsi que dans tout autre lieu public jugé utile.\n\nCe dossier est obligatoirement remis par les autorités communales à tous les candidats au mariage et par les autorités scolaires aux élèves des ordres d´enseignement postprimaires.",
+      "text_sha256": "833a58f2aa05d9291ef1180d3ab6e8b4c3ca0b29526f4dc7fb33d86b7fb31997",
+      "md_span": {
+        "start": 1656,
+        "end": 2129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_5/20141226",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "2014-12-26",
+      "text_md": "Le Gouvernement crée ou subventionne des centres régionaux de consultation et d´information familiale. Ces centres renseignent soit sous forme d´entretien particulier, soit sous forme de séances collectives d´information sur tous les aspects du bien-être physique, social et psychique des membres de la famille.\n\nCes centres sont appelés à aider et à conseiller les personnes qui le demandent en les informant:\n\n- sur les différents moyens de la contraception et de la stérilisation volontaire;\n- sur les droits, aides et avantages garantis par la loi aux familles, aux mères célibataires ou non;\n- sur les possibilités offertes par l´adoption;\n- sur les possibilités légales d´interruption volontaire de la grossesse en soulignant les risques médicaux et psychiques que comporte cette intervention.\n\nUn dossier guide comportant tous ces renseignements est remis à chaque consultant.\n\nCes centres sont placés sous la tutelle du ministre ayant la Santé dans ses attributions.",
+      "text_sha256": "81f1c45b2512d64c182db119c7f2403ea2da4d85c05184baf2b41ca6fe9108f7",
+      "md_span": {
+        "start": 2164,
+        "end": 3138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_6/19781210",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Dans ces centres peuvent être pratiqués tous les soins médicaux en relation avec l´hygiène sexuelle, pour autant qu´ils puissent être donnés en milieu extra-hospitalier et qu´ils soient pratiqués par un médecin habilité à exercer l´art de guérir.\n\nLes centres sont autorisés à délivrer les médicaments et accessoires afférents aux soins donnés.",
+      "text_sha256": "ceef71afbdd1b52e1e43dfed482f0e7ce65c48a6628ced80d189fe398548c58c",
+      "md_span": {
+        "start": 3173,
+        "end": 3517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_7/19781210",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Les activités d´information et de consultation sont entièrement gratuites.",
+      "text_sha256": "9ef89d3945f53e2f4f526339df4fedd6e55afd2f08fae854749ed0bf81835e80",
+      "md_span": {
+        "start": 3552,
+        "end": 3626
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_8/19781210",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Les prestations médicales autres que les consultations sont mises en compte au tarif conventionné de la Sécurité Sociale sauf celles pratiquées lors de la première consultation.",
+      "text_sha256": "7751983d5db56d8e9ad87d9adea5936659f075b41baa14e8344496c5d34049b1",
+      "md_span": {
+        "start": 3661,
+        "end": 3838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_9/19781210",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Les prestations et médicaments des centres sont gratuits:\n\n- pour tous les consultants mineurs\n- pour tout autre consultant, au vu de sa situation sociale, sur avis motivé de l´assistante sociale.",
+      "text_sha256": "4bc360779c6bf56aae0eda6d21f315405e12f0ddbaf3cf9e1655238c226f1154",
+      "md_span": {
+        "start": 3873,
+        "end": 4069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_10/19781210",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Ces centres organisent, en collaboration étroite avec le Ministère de l´Education Naionale, des cours d´information et d´éducation sexuelles pour les adultes dans les différents chefs-lieux de cantons.",
+      "text_sha256": "1a57b3fa576a3c85184274a7aca7d296012769b632b1ede9955707e50e2e5292",
+      "md_span": {
+        "start": 4106,
+        "end": 4307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_11/19781210",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Des mesures de prévention et de protection"
+      ],
+      "article_valid_from": "1978-12-10",
+      "text_md": "Les associations-gérantes des centres visés à l´article 5 ci-dessus sont habilitées à recevoir tout soutien financier sous forme de dons, de legs et de toute autre contribution particulière.",
+      "text_sha256": "0f38682f99efeb6b5ceeff50a563a2d3eee9cf9b0d67b14d4f27d04e608fa37d",
+      "md_span": {
+        "start": 4344,
+        "end": 4534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_12/19781210",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — De l´interruption volontaire de la grossesse"
+      ],
+      "article_valid_from": "2014-12-26",
+      "text_md": "**(1)** Avant la fin de la 12e semaine de grossesse ou avant la fin de la 14e semaine d’aménorrhée, une interruption volontaire de grossesse peut être pratiquée lorsque la femme enceinte la demande, à condition:\n\n1. 1. une attestation de grossesse datée qui renseigne sur le siège et l’âge exact de la grossesse qui sera remise au médecin qui réalise l’interruption volontaire de grossesse;\n2. des informations médicales sur les différentes méthodes d’interruption volontaire de grossesse existantes, ainsi que sur les risques médicaux et les effets secondaires potentiels de ces méthodes;\n3. une liste des établissements agréés pour pratiquer une interruption volontaire de grossesse selon les modalités prévues au présent article, qui est mise à disposition par le ministre ayant la Santé dans ses attributions, lorsque le médecin, pour une raison quelconque, n’est pas en mesure de pratiquer lui-même une telle intervention; et\n4. une documentation qui est mise à disposition par le ministre ayant la Santé dans ses attributions, informant sur les droits de la femme enceinte, les aides aux enfants et familles, et les différents choix qui s’offrent dans la situation où elle se trouve, ainsi que leurs conséquences. Cette documentation comprend une liste des services d’assistance psychosociale dont question au paragraphe 2;\n2. L’interruption de grossesse réalisée par moyens médicamenteux peut également être réalisée par un médecin, autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg, qui n’est pas spécialiste en gynécologie et obstétrique. Elle peut être pratiquée par le médecin en cabinet médical s’il le juge possible, à condition qu’il ait passé une convention avec un établissement hospitalier disposant d’un service de gynécologie-obstétrique qui assure un service d’urgence permanent.\n\n**(2)** Le médecin informe systématiquement la femme enceinte qui le demande et avant que ne soit pratiquée l’interruption volontaire de grossesse, qu’elle a droit, tant avant qu’après l’interruption volontaire de grossesse, à une consultation dans un service d’assistance psychosociale établi auprès d’un établissement hospitalier ou tout autre établissement agréé pour réaliser une interruption volontaire de grossesse par arrêté du ministre ayant la Santé dans ses attributions. Le service lui fournit des informations circonstanciées sur les droits, aides et avantages garantis par la loi aux familles ainsi qu’une assistance et des conseils sur les moyens auxquels la femme pourra avoir recours pour résoudre les problèmes psychologiques et sociaux éventuels posés par sa situation et qui ont pour but d’accompagner la femme dans son choix.\n\n**(3)** Si la femme enceinte est une mineure non émancipée, elle doit consulter un service d’assistance psychosociale visé au paragraphe 2 et y avoir obtenu les informations mentionnées au même point. Le consentement de l’un des titulaires de l’autorité parentale ou de son représentant légal est requis. Si la femme enceinte mineure non émancipée désire garder le secret à l’égard du ou des titulaires de l’autorité parentale ou de son représentant légal, l’interruption volontaire de grossesse ainsi que les actes médicaux et les soins qui sont liés peuvent être pratiqués à sa demande à condition toutefois que la mineure se fasse accompagner tout au long de la procédure par une personne de confiance majeure qu’elle désigne. Dans ce cas, le service d’assistance psychosociale conseillera la mineure sur le choix de la personne majeure.\n\nLa femme mineure non émancipée doit par ailleurs confirmer par écrit:\n\n1. être déterminée à faire procéder à une interruption volontaire de grossesse;\n2. consentir à l’intervention prévue après avoir obtenu de la part du médecin les informations mentionnées au point 1 du paragraphe 1er.\n\nLa confirmation écrite est versée au dossier médical et doit être contresignée soit par l’un des titulaires de l’autorité parentale ou par le représentant légal, soit par la personne de confiance ci-avant désignée.\n\n**(4)** Il n’y a pas d’infraction lorsque l’interruption volontaire de grossesse est pratiquée après la fin de la 12e semaine de grossesse ou après la fin de la 14e semaine d’aménorrhée, et lorsque deux médecins qualifiés attestent par écrit qu’il existe une menace grave pour la santé ou la vie de la femme enceinte ou de l’enfant à naître.",
+      "text_sha256": "d1adbbe79c08b73d4a486d4a12309e6f742275fda91e5c6e0b0cae92c96ccdda",
+      "md_span": {
+        "start": 4635,
+        "end": 8987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_13/19781210",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — De l´interruption volontaire de la grossesse"
+      ],
+      "article_valid_from": "2014-12-26",
+      "text_md": "Aucun médecin ne sera tenu de pratiquer une interruption volontaire de grossesse.\n\nDe même aucun professionnel de santé ne sera tenu de concourir à une telle intervention.",
+      "text_sha256": "9eefbe25012b375f740d7392fc58a8ef689b79183dacda842cf067a040f38183",
+      "md_span": {
+        "start": 9024,
+        "end": 9195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_14/19781210",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — De l´interruption volontaire de la grossesse"
+      ],
+      "article_valid_from": "2014-12-26",
+      "text_md": "Les frais de l’interruption volontaire de grossesse sont remboursés par les caisses de maladie.\n\nLes articles 60 et suivants du Code des assurances sociales sont applicables.",
+      "text_sha256": "83911e9eee4b612a69601a015d3d0602596f54305e6752891dfcbf18ac8658a3",
+      "md_span": {
+        "start": 9232,
+        "end": 9406
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1978-11-15-n1:2014-12-26--94c70db0654f6f7a33079265f27daba8039f27056ea6b76e0aab60fca4897b9f#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/art_15/19781210",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — De l´interruption volontaire de la grossesse"
+      ],
+      "article_valid_from": "2014-12-26",
+      "text_md": "**(1)** Celui qui, par quelque moyen que ce soit, aura avorté ou tenté d’avorter en dehors des conditions posées à l’article 12 une femme enceinte ou supposée enceinte qui y a consenti, sera condamné à un emprisonnement de deux à cinq ans et à une amende de 251 euros à 25.000 euros.\n\n**(2)** La femme enceinte qui interrompt volontairement sa grossesse en dehors des conditions posées à l’article 12, sera punie d’une amende de 251 euros à 2.000 euros.",
+      "text_sha256": "1bb6db9616abff88eaf662eddbbf8ebcdb93d9b6d6f91de12e0e9979313deb90",
+      "md_span": {
+        "start": 9443,
+        "end": 9896
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

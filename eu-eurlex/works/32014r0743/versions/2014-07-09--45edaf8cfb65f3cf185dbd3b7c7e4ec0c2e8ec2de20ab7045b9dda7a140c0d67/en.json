@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0743:2014-07-09--45edaf8cfb65f3cf185dbd3b7c7e4ec0c2e8ec2de20ab7045b9dda7a140c0d67",
+  "language": "en",
+  "title": "Commission Regulation (EU) No 743/2014 of 9 July 2014 replacing Annex VII to Regulation (E…",
+  "valid_from": "2014-07-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0743/versions/2014-07-09--45edaf8cfb65f3cf185dbd3b7c7e4ec0c2e8ec2de20ab7045b9dda7a140c0d67/en.xml",
+    "sha256": "ed4100cab97df9fb37ea61b93a0e9f7f3874010eda0e728abe3f2e1185015d57",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0743"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0743:2014-07-09--45edaf8cfb65f3cf185dbd3b7c7e4ec0c2e8ec2de20ab7045b9dda7a140c0d67#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnex VII to Regulation (EU) No 601/2012 is replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "31774302b0a45c3de6f644cdce8fc17d89767f7f20fb851ec9e83c71013de1ba",
+      "md_span": {
+        "start": 702,
+        "end": 818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0743:2014-07-09--45edaf8cfb65f3cf185dbd3b7c7e4ec0c2e8ec2de20ab7045b9dda7a140c0d67#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 851,
+        "end": 1002
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

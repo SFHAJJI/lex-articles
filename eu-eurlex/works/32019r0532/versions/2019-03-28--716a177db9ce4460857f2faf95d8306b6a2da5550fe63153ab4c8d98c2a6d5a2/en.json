@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0532:2019-03-28--716a177db9ce4460857f2faf95d8306b6a2da5550fe63153ab4c8d98c2a6d5a2",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2019/532 of 28 March 2019 amending Implementing Re…",
+  "valid_from": "2019-03-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0532/versions/2019-03-28--716a177db9ce4460857f2faf95d8306b6a2da5550fe63153ab4c8d98c2a6d5a2/en.xml",
+    "sha256": "4af624df2718a309eaa05b0705a4e038f3a9805e89af847219d4fdc4c21e557b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0532"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0532:2019-03-28--716a177db9ce4460857f2faf95d8306b6a2da5550fe63153ab4c8d98c2a6d5a2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2015/2378 is amended as follows:\n\n| (1) | the following Article 2e is inserted:‘Article 2eStandard forms, including linguistic arrangements, for the mandatory automatic exchange of information on reportable cross-border arrangements1. In regard to the forms to be used, ‘component’ and ‘field’ mean a location in a form where information to be exchanged pursuant to Directive 2011/16/EU may be recorded.2. The form to be used for the mandatory automatic exchange of information on reportable cross-border arrangements pursuant to Article 8ab of Directive 2011/16/EU shall comply with Annex XIII to this Regulation.3. The key elements referred to in the third subparagraph of Article 20(5) of Directive 2011/16/EU shall be the components listed in points (b), (c) and (e) of Article 8ab(14) of that Directive and for these key elements, the linguistic arrangements shall be the same as those provided for in Article 2a(3) of this Regulation.’; |\n| --- | --- |\n\n| (2) | Annex to this Regulation is added as Annex XIII. |\n| --- | --- |",
+      "text_sha256": "4211f6ba1dfaa5888bbaed63e61b636ff20386b92af7a156a3be109fa9276d87",
+      "md_span": {
+        "start": 702,
+        "end": 1774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0532:2019-03-28--716a177db9ce4460857f2faf95d8306b6a2da5550fe63153ab4c8d98c2a6d5a2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 July 2020.",
+      "text_sha256": "77a79c4539bb5bd085ed305809a68d8975ed6652fa467c7397243f035a977fc7",
+      "md_span": {
+        "start": 1807,
+        "end": 1992
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

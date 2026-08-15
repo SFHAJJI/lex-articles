@@ -1,0 +1,218 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/297 of 31\u00A0October 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0297/versions/2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a/en.xml",
+    "sha256": "2c51953916f8d2a01fb9f81a16c365e8a48b49078fbb9b6b5c8c132e7191521a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0297"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purpose of determining the most relevant entities referred to in Article 119(2), point (d) of Regulation (EU) 2023/1114, EBA shall take into account, in particular, all of the following:\n\n| (a) | where a consultative supervisory college (‘college’) is established for an issuer of a significant asset-referenced token or for an electronic money institution issuing a significant e-money token, the three crypto-asset service providers, credit institutions or investment firms that held in custody the highest value of the reserve assets referred to in Article 37 of Regulation (EU) 2023/1114 during the reference period, as defined in Article 3 of this Regulation; |\n| --- | --- |\n\n| (b) | where a college is established for a credit institution issuing a significant e-money token, the three crypto-asset service providers, credit institutions or investment firms that held in custody the highest percentage of the funds received in exchange of the e-money tokens, during the reference period, as defined in Article 3 of this Regulation. |\n| --- | --- |\n\n2. For the purpose of determining the most relevant entities referred to in Article 119(2), point (e) of Regulation (EU) 2023/1114, EBA shall take into account, in particular, all of the following:\n\n| (a) | the three crypto-asset service providers ensuring the operation of a trading platform for crypto-assets that have executed the highest average number of transactions per day with the significant asset-referenced token or the significant e-money token, during the reference period defined in Article 3 of this Regulation; |\n| --- | --- |\n\n| (b) | the three crypto-asset service providers ensuring the operation of a trading platform for crypto-assets that have executed the highest average aggregated value of trans-actions per day with the significant asset-referenced token or the significant e-money token, during the reference period defined in Article 3 of this Regulation. |\n| --- | --- |\n\n3. For the purpose of determining the most relevant entities referred to in Article 119(2), point (f) of Regulation (EU) 2023/1114, EBA shall take into account, in particular, all of the following:\n\n| (a) | the three payment service providers that have executed the highest average number of payment transactions, as defined in Article 4, point (5) of Directive (EU) 2015/2366 of the European Parliament and of the Council (4), in relation to the significant e-money token per day, during the reference period defined in Article 3 of this Regulation; |\n| --- | --- |\n\n| (b) | the three payment service providers that have executed the highest average aggregate value of payment transactions, as defined in Article 4, point (5) of Directive (EU) 2015/2366, in relation to the significant e-money token per day, during the reference period defined in Article 3 of this Regulation. |\n| --- | --- |\n\n4. For the purpose of determining the most relevant entities referred to in Article 119(2), point (h) of Regulation (EU) 2023/1114, EBA shall take into account, in particular, all of the following:\n\n| (a) | the three crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients that have executed the highest average number of transactions per day with the significant asset-referenced token or the significant e-money token, during the reference period defined in Article 3 of this Regulation; |\n| --- | --- |\n\n| (b) | the three crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients that have executed the highest average aggregated value of transactions per day with the significant asset-referenced token or the significant e-money token, during the reference period defined in Article 3 of this Regulation. |\n| --- | --- |\n\n5. EBA may decide to invite the competent authorities of only some of the entities referred to in paragraphs 1 to 4 to be a member of the college where the EBA is of the view that those entities are the only ones relevant in their category for the work of the college.",
+      "text_sha256": "3ffa8e9e4390367a5236b4184c313ce5e5c215dcb6a31fdea024ddd85451c8f1",
+      "md_span": {
+        "start": 715,
+        "end": 4784
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_202500297EN.000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purpose of Article 119(2), point (l) of Regulation (EU) 2023/1114, a significant asset-referenced token or a significant e-money token shall be deemed to be used at large scale in a Member State, where:\n\n| (a) | the number of holders of the significant asset-referenced token or of the significant e-money token located in that Member State, on at least one day during the applicable reference period, is of at least 20 % of the population of that Member State; or |\n| --- | --- |\n\n| (b) | the average number and average aggregate value of transactions per day with the significant asset-referenced token or the significant e-money token during the reference period defined in Article 3 of this Regulation, where at least one party to the transactions is located in that Member State, is higher than 1 250 000 transactions and EUR 250 000 000 respectively. |\n| --- | --- |\n\n2. For the purpose of paragraph 1, point (a), the holder of the significant asset-referenced token or of the significant e-money token means the holder of that token that benefits of a right of redemption under Regulation (EU) 2023/1114.\n\n3. For the purpose of paragraph 1, the location of a holder of the significant asset-referenced token or of the significant e-money token, or of a party to a transaction with such tokens, refers to any of the following:\n\n| (a) | for natural persons, their habitual residence; |\n| --- | --- |\n\n| (b) | for legal persons, the registered office address. |\n| --- | --- |\n\n4. A competent authority requesting to become a member of the college based on point (l) of Article 119(2) of Regulation (EU) 2023/1114 shall submit a reasoned request to EBA and provide data showing that the criteria mentioned in paragraph 1 are met.",
+      "text_sha256": "6be57d069cf0782006c9a183fe7cba0dbc80ea73f513f63a8c648799ad52eefb",
+      "md_span": {
+        "start": 4817,
+        "end": 6571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The reference period referred to in Articles 1 and 2 shall be the most recent six-month period covered by the reporting obligation referred to in Article 22(1) of Regulation (EU) 2023/1114.\n\n2. For the purpose of Article 1(2) and (4), and of Article 2(1), point (b), ‘transaction’ shall mean any change of the natural or legal person entitled to an asset-referenced token or an e-money token as a result of the transfer of that token from one distributed ledger address or account to another.",
+      "text_sha256": "ce397b52fe36584fa6f5d56f039bfa2e4cfc1da4d822afc1a303aaeb13b88a67",
+      "md_span": {
+        "start": 6604,
+        "end": 7110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. EBA shall reassess, at least every 2 years, which competent authorities qualify to be members of the college under Article 119(2), points (d), (e), (f), (h) and (l) of Regulation (EU) 2023/1114.\n\n2. For the purpose of the reassessment referred to in paragraph 1, each competent authority that is a member of the college under Article 119(2), point (l) of Regulation (EU) 2023/1114 shall provide EBA, upon request and without undue delay, with the information necessary to assess whether those authorities continue to qualify to be a member of the college based on the criteria specified in Article 2 of this Regulation.",
+      "text_sha256": "bbd27ff418c3086b6a36f8c16774de7bb994bd309d00f1a38936ddc2159957d0",
+      "md_span": {
+        "start": 7143,
+        "end": 7776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. EBA shall communicate its proposal on the written agreement referred to in Article 119(6) of Regulation (EU) 2023/1114 to the members of the college determined in accordance with Article 119(2) of that Regulation, inviting them to provide their views within 10 calendar days.\n\n2. For the purposes of finalising the written agreement referred to in paragraph 1, EBA shall take into account any views and reservations expressed by the members of the college. EBA shall provide reasons for not incorporating such views or reservations in the written agreement.\n\n3. Upon finalising the written agreement referred to in paragraph 1, EBA shall communicate the written coordination and cooperation arrangements to the members of the college.",
+      "text_sha256": "dc69dbb23d1863ad08d417bb6a0ac77e16d48c675b73d1a9d10321b33428a9f8",
+      "md_span": {
+        "start": 7809,
+        "end": 8557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Each member of the college shall designate one participant, selected as the most appropriate taking into account the topics discussed and objectives pursued, to attend the meetings or activities of the college and to represent that member of the college in the college meetings. Each member of the college may designate one alternate, with the exception of EBA, which shall designate one representative and may ask additional participants to attend, without voting rights, in college meetings or activities.\n\n2. Where a competent authority has the right to be a member of the college in two or more of the cases referred to in Article 119(2), points (c) to (h), (j), and (l), of Regulation (EU) 2023/1114, or where several authorities from the same third country have the right to be members of the college under Article 119(2), point (m), of that Regulation, those authorities may designate one additional participant to attend, without voting rights, the meetings or activities of the college and may designate one alternate for that participant.\n\n3. Where there are several members of the college per Member State, those college members shall inform the chair of the college which one of them will be the voting member.\n\n4. Based on the agenda, or particular item thereof, topics and objectives of a college meeting or activity, the chair of the college may invite other authorities that are not members of the college to attend that meeting or activity. The chair of the college shall decide what information is relevant for those authorities and involve them in the college meeting or activity accordingly. These authorities shall have no voting rights. The chair of the college shall inform all members of the college accordingly, without undue delay.\n\n5. For the adoption of an opinion of the college or of a recommendation included in an opinion of the college in accordance with Article 120(1) and (2) of Regulation (EU) 2023/1114, a quorum of half of the voting members of the college shall be required. If such quorum is not reached, the chair of the college may convene an extraordinary meeting at which decisions may be taken without quorum.\n\n6. The majority referred to in Article 120(3) of Regulation (EU) 2023/1114 shall consist of a simple majority of the members of the college who have a voting right in a meeting of that college. A simple majority shall also be deemed to have been achieved where more members who have a voting right vote in favour of a proposal than those who vote against it. Abstentions shall not be counted as approvals or as objections, and shall not be considered when calculating the number of votes cast.",
+      "text_sha256": "3a2ea2bc278b14a81b70cf90c7c67a0f6c3dc6d4a5261a5e88854f952ade2648",
+      "md_span": {
+        "start": 8590,
+        "end": 11253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The chair of the college shall maintain a contact list of the members of the college, including full contact details, and communicate it to the members of the college.\n\n2. The members of the college shall provide their contact details to the chair of the college and shall inform the chair of any changes in those details without undue delay.\n\n3. Any updated version of the contact list shall be communicated by the chair of the college to the members of the college without undue delay.",
+      "text_sha256": "1315617d318edb61b94d52aac3dab29756f6c32fc961b614196e50d90ad28ec5",
+      "md_span": {
+        "start": 11286,
+        "end": 11787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. The chair of the college shall determine the frequency of the college meetings having regard to the tasks of the college as set out in Article 120 of Regulation (EU) 2023/1114, and potential requests by college members.\n\n2. The chair of the college shall convene at least one meeting of the college per year. The chair of the college shall decide if a meeting is convened in physical or in virtual format, based on the objectives the chair of the college sets for that meeting.\n\n3. The members of the college may request the chair of the college to hold a meeting of the college. The chair of the college shall provide reasons for any rejection of such request.\n\n4. The chair of the college shall send the proposed agenda of the college meeting to all the members of the college, and shall invite them to propose any additional agenda items. The chair of the college shall take into account any proposals on agenda items made by the members and shall explain, if requested, the reason for not incorporating them.\n\n5. The members of the college who are involved in a particular meeting or activity of the college shall exchange documents and contributions to working documents with sufficient time in advance to enable all participants in that meeting or activity to actively contribute to the discussions in question.",
+      "text_sha256": "fd127b89fe2c3dbc3c806d96736e28cd28f30cf1b474fd91e0cde730cc5f71b5",
+      "md_span": {
+        "start": 11820,
+        "end": 13151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Each member of a college shall provide, upon request and without undue delay, to EBA and, where applicable, to the competent authority entrusted with the tasks referred to in Article 119(7), points (b) to (e), of Regulation (EU) 2023/1114 in accordance with Article 10 of this Regulation, any information necessary in order to facilitate the exercise of the EBA’s supervisory powers under Article 117 of Regulation (EU) 2023/1114 and exchange information when required by that Regulation.\n\n2. EBA and, where applicable, the competent authority entrusted with the tasks referred to in Article 119(7), points (b) to (e), of Regulation (EU) 2023/1114 in accordance with Article 10 of this Regulation shall receive all information exchanges between the members of the college.\n\n3. EBA and, where applicable, the competent authority entrusted with the tasks referred to in Article 119(7), points (b) to (e), of Regulation (EU) 2023/1114 in accordance with Article 10 of this Regulation may decide to share the information referred to in paragraphs 1 and 2 with other members of the college where it deems that information to be relevant for those members.\n\n4. Where an issuer offers more than one significant asset-referenced token or significant e-money token, EBA may decide to organise several colleges, one for each significant asset-referenced token or significant e-money token, or group of significant asset-referenced tokens or significant e-money tokens.\n\n5. Where several colleges are organised pursuant to paragraph 4, the chair of each college shall keep all the members of its college fully informed, in a timely manner, on the actions taken or the measures carried out in the other colleges that deal with other significant asset-referenced tokens or significant e-money tokens of the same issuer.\n\n6. The members of the college shall agree on the means for the exchange of information among them and shall specify such means in the written agreement referred to in Article 119(6) of Regulation (EU) 2023/1114.\n\n7. The transmission of confidential information between the members of the college shall be done by secure channels of communication.",
+      "text_sha256": "117dfd7ed45251524198ffc21c6e42d6d9131f7ae161278cf63fb76fc257c946",
+      "md_span": {
+        "start": 13184,
+        "end": 15352
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. The members of the college shall exchange views on a possible voluntary entrustment of tasks among them under Article 119(5), point (c), of Regulation (EU) 2023/1114.\n\n2. The entrustment of the tasks referred to in paragraph 1 may also include all or some of the tasks mentioned in Article 119(7), points (b) to (e), of Regulation (EU) 2023/1114.\n\n3. The agreement referred to in Article 119(6) of Regulation (EU) 2023/1114 shall specify a description of the arrangements on entrustment of tasks referred to in paragraph 1, where relevant.",
+      "text_sha256": "d4b2e5a7f69ab17440274ac5215b8677834ab227f072def4193d5a0dd8b668c0",
+      "md_span": {
+        "start": 15387,
+        "end": 15941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r0297:2024-10-31--bd310c5c5e829424a10851e0a4cf1b3ac4200b00df4522887587655daaa0330a#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "301af552df94975a0b0804b1544d341e88b244a4c8600f94605eb391b8814e99",
+      "md_span": {
+        "start": 15976,
+        "end": 16128
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/960 of 1\u00A0February 2023 amending the regulatory t…",
+  "valid_from": "2023-02-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r0960/versions/2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902/en.xml",
+    "sha256": "bb794582939eb161caa7e2555ac8f3f1951afac8b3d7cbc4f8e77dc2c7c6fbe7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0960"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 3 of Delegated Regulation (EU) 2017/588, paragraph 4 is replaced by the following:\n\n‘4. Trading venues shall apply the tick sizes of the liquidity band corresponding to the average daily number of transactions as published in accordance with paragraph 1 from the first Monday of April following that publication.’.",
+      "text_sha256": "efa58b583a7ef00613a7aebc5df3eaaca12d222ae85582f4854d3752b118b30e",
+      "md_span": {
+        "start": 702,
+        "end": 1038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r0960:2023-02-01--f56a22c7fdf7b478b5609daf1f92f3160ffe71e9e2dd3ee490f344167cc94902#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1071,
+        "end": 1222
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

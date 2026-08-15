@@ -1,0 +1,185 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 29 octobre 1987 portant exécution de l'article 152bis, paragraphe 10 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu.",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1987-10-29-n1/versions/2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465/fr.xml",
+    "sha256": "5b1dc93809edb613a78875eb16fa71b60c7a63f76dbbb17f59a1d6d95c87f39e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_1er/19871109",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-11-09",
+      "text_md": "Pour les besoins du présent règlement le terme «loi» désigne la loi du 4 décembre 1967 concernant l'impôt sur le revenu.",
+      "text_sha256": "47c110b0647ddbee65d3adb01398ff74ce1c00891db5a05db7d20138910eba5a",
+      "md_span": {
+        "start": 759,
+        "end": 879
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_2/20240101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les investissements bénéficiant des bonifications d’impôt prévues aux paragraphes 3 et 7 de l'article 152bis de la loi sont considérés comme effectués au cours de l'exercice d'exploitation pendant lequel les immobilisations afférentes ont été acquises ou constituées par l'exploitant. Lorsque la constitution d'une installation s'étend sur plusieurs exercices d'exploitation, les travaux réalisés pendant un exercice déterminé sont à considérer comme investissements effectués au cours de cet exercice.",
+      "text_sha256": "ed44e0abd2628ff8e18170b5bfada70d3636bf38026232b320f6a2406b41501c",
+      "md_span": {
+        "start": 914,
+        "end": 1416
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_3/20240101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les contribuables qui désirent bénéficier de la bonification d’impôt prévue au paragraphe 3 de l’article 152*bis* de la loi doivent joindre à la déclaration d’impôt pour l’année d’imposition pendant laquelle se termine l’exercice d’exploitation un certificat délivré par le ministre ayant l’Économie dans ses attributions qui atteste la réalité des investissements et des dépenses d’exploitation effectués au cours de cet exercice d’exploitation, ainsi que leur conformité aux dispositions du paragraphe 4 de l’article 152*bis* de la loi.",
+      "text_sha256": "eb109299c1e34b804f4a90149b33da140e8837814a6efcfd66be5707b2cb30e6",
+      "md_span": {
+        "start": 1451,
+        "end": 1989
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4_20240101",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_4_20240101",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_4/20240101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Les exploitants qui ont cédé en bloc pendant les cinq années précédant l'année de l'investissement complémentaire une partie autonome de leur exploitation doivent indiquer la valeur comptable des biens amortissables corporels autres que les bâtiments, le cheptel agricole et les gisements minéraux et fossiles investis avant la cession dans l'entreprise et la valeur des biens de la même catégorie investis à la même époque dans la partie cédée.\n\n**(2)** Les exploitants qui ont acquis à titre gratuit ou par une transmission assimilée à une transmission à titre gratuit une entreprise ou une partie autonome d'entreprise pendant les cinq années précédant l'année de l'investissement complémentaire indiqueront, en ce qui concerne les valeurs visées sub 1 du 1er alinéa de l'article qui précède, les valeurs que le cédant aurait dû indiquer s'il avait continué l'entreprise. Ces valeurs sont à indiquer ensemble, le cas échéant, avec les valeurs afférentes à une partie de l'entreprise que l'exploitant possédait déjà avant l'acquisition à titre gratuit ou avant la transmission assimilée à une transmission à titre gratuit.",
+      "text_sha256": "8ca0354800ec432abff40448170b2c1ca4272e96cf879d810c106b7d27d9a9c4",
+      "md_span": {
+        "start": 2033,
+        "end": 3165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_5/20240101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les contribuables qui désirent bénéficier de la bonification prévue au paragraphe 7 de l'article 152bis de la loi doivent joindre à leur déclaration d'impôt un relevé indiquant pour chaque bien faisant partie des investissements susceptibles de bénéficier de la bonification:\n\n1. sa dénomination et sa fonction dans l'entreprise;\n2. son prix d'acquisition ou de revient diminué des subventions éventuellement accordées par l'Etat ou une autre collectivité publique pour l'acquisition ou la constitution du bien;\n3. sa durée normale d'utilisation ;\n4. s’il s’agit d’un logiciel, outre les indications mentionnées ci-dessus, son nom, sa version et son fabricant ou producteur.",
+      "text_sha256": "50c56c30837cc1d480665ed1dea6a220160037f25d6f9c032cf03350cde4ba15",
+      "md_span": {
+        "start": 3200,
+        "end": 3874
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_6/19871109",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-11-09",
+      "text_md": "**(1)** Les contribuables qui désirent bénéficier de la bonification prévue au paragraphe 7 de l'article 152bis de la loi du chef d'investissement visés à l'alinéa 1er, n° 2 de ce paragraphe doivent en outre remettre au bureau compétent pour leur imposition avant le commencement des travaux:\n\n1. un plan de construction du bâtiment hôtelier;\n2. un état indiquant la surface et l'affectation des locaux et faisant ressortir spécialement les locaux tels que les salles à manger, les salles de séjour ou de réunion et les débits de boissons qui ne servent pas exclusivement aux clients hôteliers ainsi que les locaux affectés à des fins étrangères au service hôtelier;\n3. un relevé indiquant par local les appareils sanitaires et de chauffage incorporés.\n\n**(2)** La remise des documents visés sub a) à c) ne dispense pas le contribuable de joindre à sa déclaration annuelle d'impôt un état de coût des investissements en installations sanitaires et de chauffage central considérés comme effectués au cours de l'exercice afférent et susceptible d'être portés au bilan de clôture de l'exercice conformément à l'article 2.\n\n**(3)** Le contribuable doit indiquer en outre les subventions éventuellement accordées par l'Etat ou par une autre collectivité publique.\n\n**(4)** Sur demande de l'administration des contributions le contribuable doit en plus fournir tous les documents supplémentaires jugés nécessaires au calcul de la bonification d'impôt.",
+      "text_sha256": "b812c2a64a6d6c8a97ef3f01015ff23c787c4caac79d45d150db885b04105246",
+      "md_span": {
+        "start": 3909,
+        "end": 5354
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_7/19871109",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-11-09",
+      "text_md": "Les dispositions du présent règlement sont applicables à partir de l'année d'imposition 1987.",
+      "text_sha256": "8549f5b787aa1de6c20ed330bab2990861c58ec05159ccd7b0f00a717b87c88e",
+      "md_span": {
+        "start": 5389,
+        "end": 5482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1987-10-29-n1:2024-01-01--b641636cf21e56a5315f39ff83794288760a16836e75bcfac7b7945c4ec6a465#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/art_8/19871109",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-11-09",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+      "md_span": {
+        "start": 5517,
+        "end": 5620
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

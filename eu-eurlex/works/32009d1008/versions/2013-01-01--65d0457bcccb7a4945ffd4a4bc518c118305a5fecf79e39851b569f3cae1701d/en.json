@@ -1,0 +1,125 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009d1008:2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d",
+  "language": "en",
+  "title": "Council Implementing Decision of 7\u00A0December 2009 authorising the Republic of Latvia to ext…",
+  "valid_from": "2013-01-01",
+  "valid_to": "2015-12-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009d1008/versions/2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d/en.html",
+    "sha256": "56ea952dc9a79abf6f9fdd60b443b6f449a7082d56d31b2556eb517272e2ce51",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009D1008-20130101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "By way of derogation from Article 193 of Directive 2006/112/EC, Latvia is authorised to continue to designate the recipient as the person liable to pay VAT in the case of timber transactions.",
+      "text_sha256": "0656f4365b22502792cb93c0514064c3517799d76ad0a2339c39b17afbc2f750",
+      "md_span": {
+        "start": 721,
+        "end": 912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Decision shall apply from 1 January 2010 until ►M1 31 December 2015** ◄ **.",
+      "text_sha256": "b40dcaf6566117c7a00dc63bab546c1cd32a488417fd493a4ab9b9278501d9c5",
+      "md_span": {
+        "start": 949,
+        "end": 1029
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013D0055",
+          "text": "►M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013D0055",
+          "text": "32013D0055: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2a",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d#art_2a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2a",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Any request for the extension of the measure provided for in this Decision shall be submitted to the Commission by 31 March 2015 and shall be accompanied by a report on the application of that measure.",
+      "text_sha256": "ca6b4b2352556e2ccb77ab25eaf8f224ecc4228495c7753ca009d497c038cc67",
+      "md_span": {
+        "start": 1068,
+        "end": 1269
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009D1008",
+          "text": "32009D1008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01--65d0457bcccb7a4945ffd4a4bc518c118305a5fecf79e39851b569f3cae1701d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Decision is addressed to the Republic of Latvia.\n\n(1) OJ L 347, 11.12.2006, p. 1.\n\n(2) OJ L 236, 23.9.2003, p. 33.\n\n(3) OJ L 25, 28.1.2006, p. 31.\n\n(4) OJ L 145, 13.6.1977, p. 1.",
+      "text_sha256": "c9305e72fca239cb4cb5a0cf83b056950a3b7f0e0e9360e55018307428713151",
+      "md_span": {
+        "start": 1306,
+        "end": 1489
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

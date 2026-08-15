@@ -1,0 +1,136 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 5 juin 1989 déterminant en application de l'article 44, paragraphe 10, alinéa 2 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat les catégories et les limites, ainsi que les modalités de calcul des revenus à prendre en compte pour la réduction des pensions d'invalidité et de survie.",
+  "valid_from": "2010-05-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1989-06-05-n3/versions/2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924/fr.xml",
+    "sha256": "ed57be1f3b5f749299b8f031e6bcc9b1ae5803043fc3d323eaaf26c6f89e36d6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_1er/20100523",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour les salariés les revenus déterminés à l’article 44, paragraphes 4, 5 et 8 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat sont portés en compte pour le montant correspondant à l’année civile précédant le début de la pension de survie ou la révision annuelle avec effet au 1er avril prévue à l’article 44, paragraphe 10, alinéa 1er. Au cas où le revenu ne couvre pas l’année civile entière, le revenu annuel à porter en compte est calculé sur base des revenus mensuels entiers de cette année et, à défaut, sur base du dernier revenu mensuel entier connu de la période subséquente.\n\nPour l’application de l’article 44, paragraphes 4 et 5, il n’est pas tenu compte des revenus provenant d’une activité exercée avant l’échéance de la pension d’invalidité.\n\nPour les bénéficiaires de pension commençant l’exercice d’une activité salariée, les revenus retirés de cette activité ne sont pris en compte qu’à partir du premier jour du quatrième mois suivant le début de l’activité.",
+      "text_sha256": "34b6de575cdda705258f4cf01f53760f65ea5579bb4280ca44531c54dab0f1ae",
+      "md_span": {
+        "start": 947,
+        "end": 1960
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1954/05/26/n2/jo",
+          "text": "loi modifiée du 26 mai 1954"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_2/20100523",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour les personnes exerçant une activité professionnelle non salariée, autre qu’agricole, les revenus sont portés en compte pour le montant qui sert ou servirait de base à la détermination de l’assiette cotisable pour l’exercice correspondant au début de la pension de survie ou à la révision annuelle avec effet au 1er avril prévue à l’article 44, paragraphe 10, alinéa 1er.\n\nLa détermination du revenu peut, le cas échéant, être faite par la caisse de pension sur base de la déclaration des revenus à l’administration des contributions ou sur base de tout livre comptable régulièrement tenu ainsi qu’au vu de toute autre pièce de nature à prouver un revenu professionnel.\n\nLe conjoint survivant qui est nouvellement établi dans une activité non salariée, autre qu’agricole, ne se voit pas tenir compte des revenus de la première année de l’activité exercée. Il en est de même pour le partenaire survivant au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.",
+      "text_sha256": "7a5aa6c8673abdbb75ad45cd6572c8f3aba67cf0be6a4e29e405b1c2f515b80f",
+      "md_span": {
+        "start": 1995,
+        "end": 2990
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_3/20100523",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour les personnes exerçant une activité agricole, les revenus sont portés en compte pour le montant qui sert ou servirait de base à la détermination de l’assiette cotisable pour l’exercice correspondant au début de la pension de survie ou à la révision annuelle avec effet au 1er avril prévue à l’article 44, paragraphe 10, alinéa 1er.",
+      "text_sha256": "e45be9fcbfa59e77671e281f6c1780b71cdc4f07e9d74ef9b421ada47b5dfc7a",
+      "md_span": {
+        "start": 3025,
+        "end": 3361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_4/20100523",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour vérifier si le bénéficiaire d’une pension d’invalidité ou d’une pension de survie justifie d’une diminution des revenus de plus de dix pour cent lui permettant de demander la révision au cours de la période de douze mois prenant cours le 1er avril, il est tenu compte:\n\n1. du revenu annuel calculé sur base de la moyenne des revenus mensuels réalisés pendant les trois mois de calendrier suivant celui de la demande, en ce qui concerne les revenus provenant d’une activité salariée,\n2. du revenu déterminé conformément à l’article 2 alinéas 1 et 2 du présent règlement, en ce qui concerne les revenus provenant d’une activité non salariée, autre qu’agricole,\n3. loi du 4 décembre 1967",
+      "text_sha256": "b9f0ba3ead5747ce31f44bb87dd96badeb6dba3ca826cb89d50d50bc04bffd17",
+      "md_span": {
+        "start": 3396,
+        "end": 4085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_5/20100523",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour la réduction prévue à l’article 44, paragraphe 8, les pensions et rentes sont mises en compte suivant le montant correspondant au mois de la réduction.",
+      "text_sha256": "abe288d7f65359c8d8e39569f2ced20ad1d60c1a9ab0cc2820b5482224d5f9af",
+      "md_span": {
+        "start": 4120,
+        "end": 4276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1989-06-05-n3:2010-05-23--f30553d49c77b7a436118fb2f9099a38ce717ad94fe191b09984d5387648e924#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/art_6/20100523",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Notre Ministre de la Fonction publique est chargé de l’exécution du présent règlement qui est publié au Mémorial.",
+      "text_sha256": "41edd5077d5cc1c3f8ace1a4ba09a47d3f1bc2f06017ac0869a2a60394fffa0f",
+      "md_span": {
+        "start": 4311,
+        "end": 4424
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -11,7 +11,7 @@
         "valid_from": "2020-02-19",
         "valid_to": "2023-10-16",
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32014r0945:2020-02-19"
+        "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       }
     ],
     "art_1": [
@@ -19,13 +19,13 @@
         "valid_from": "2014-09-04",
         "valid_to": "2020-02-18",
         "text_sha256": "cd33c0746f836bbc9617e16ff37815be902a4417882f47a91a6ee2d3d98252f6",
-        "in_version": "eu-eurlex:32014r0945:2014-09-04"
+        "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
       },
       {
         "valid_from": "2020-02-19",
         "valid_to": null,
         "text_sha256": "eb9c3b06dd75bf6cd95b3ec20c0219f9049d66b069ace0768935d632422852a3",
-        "in_version": "eu-eurlex:32014r0945:2020-02-19"
+        "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       }
     ],
     "art_2": [
@@ -33,19 +33,19 @@
         "valid_from": "2014-09-04",
         "valid_to": "2020-02-18",
         "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
-        "in_version": "eu-eurlex:32014r0945:2014-09-04"
+        "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
       },
       {
         "valid_from": "2020-02-19",
         "valid_to": "2023-10-16",
         "text_sha256": "1496d379e651ada069d4bdbc17b87ee88feac95d5e3680a02841069eabd8f4eb",
-        "in_version": "eu-eurlex:32014r0945:2020-02-19"
+        "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "valid_from": "2023-10-17",
         "valid_to": null,
         "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
-        "in_version": "eu-eurlex:32014r0945:2023-10-17"
+        "in_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
       }
     ],
     "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013": [
@@ -53,7 +53,7 @@
         "valid_from": "2020-02-19",
         "valid_to": "2023-10-16",
         "text_sha256": "f1047f57e1e38d7f2c5ced9be5a4f22094817583fc3e16c3ddc3ba4c23521c9b",
-        "in_version": "eu-eurlex:32014r0945:2020-02-19"
+        "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       }
     ]
   },
@@ -61,22 +61,22 @@
     {
       "type": "inserted",
       "anchor": "annex",
-      "at_version": "eu-eurlex:32014r0945:2020-02-19"
+      "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
     },
     {
       "type": "inserted",
       "anchor": "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013",
-      "at_version": "eu-eurlex:32014r0945:2020-02-19"
+      "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
     },
     {
       "type": "removed",
       "anchor": "annex",
-      "at_version": "eu-eurlex:32014r0945:2023-10-17"
+      "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
     },
     {
       "type": "removed",
       "anchor": "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013",
-      "at_version": "eu-eurlex:32014r0945:2023-10-17"
+      "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
     }
   ],
   "anchors_by_language": {
@@ -86,7 +86,7 @@
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ],
       "art_1": [
@@ -94,13 +94,13 @@
           "valid_from": "2014-09-04",
           "valid_to": "2020-02-18",
           "text_sha256": "cd33c0746f836bbc9617e16ff37815be902a4417882f47a91a6ee2d3d98252f6",
-          "in_version": "eu-eurlex:32014r0945:2014-09-04"
+          "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
         },
         {
           "valid_from": "2020-02-19",
           "valid_to": null,
           "text_sha256": "eb9c3b06dd75bf6cd95b3ec20c0219f9049d66b069ace0768935d632422852a3",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ],
       "art_2": [
@@ -108,19 +108,19 @@
           "valid_from": "2014-09-04",
           "valid_to": "2020-02-18",
           "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
-          "in_version": "eu-eurlex:32014r0945:2014-09-04"
+          "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
         },
         {
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "1496d379e651ada069d4bdbc17b87ee88feac95d5e3680a02841069eabd8f4eb",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         },
         {
           "valid_from": "2023-10-17",
           "valid_to": null,
           "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
-          "in_version": "eu-eurlex:32014r0945:2023-10-17"
+          "in_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
         }
       ],
       "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013": [
@@ -128,7 +128,7 @@
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "f1047f57e1e38d7f2c5ced9be5a4f22094817583fc3e16c3ddc3ba4c23521c9b",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ],
       "art_1": [
@@ -146,13 +146,13 @@
           "valid_from": "2014-09-04",
           "valid_to": "2020-02-18",
           "text_sha256": "92c87ccf286acd391b8ed62d73f0faeaff21ca429d4d81ad02c10c71498bee8a",
-          "in_version": "eu-eurlex:32014r0945:2014-09-04"
+          "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
         },
         {
           "valid_from": "2023-10-17",
           "valid_to": null,
           "text_sha256": "500180193eb0018c9b32910592dd7cceb9a67ba6fbe4ac5a5e06b9117800d8c5",
-          "in_version": "eu-eurlex:32014r0945:2023-10-17"
+          "in_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
         }
       ],
       "art_2": [
@@ -160,19 +160,19 @@
           "valid_from": "2014-09-04",
           "valid_to": "2020-02-18",
           "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
-          "in_version": "eu-eurlex:32014r0945:2014-09-04"
+          "in_version": "eu-eurlex:32014r0945:2014-09-04--feb17b8a52b782dde074b91b1a1568fa8d9f90b2604f97ec577ae6a1031cb89f"
         },
         {
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         },
         {
           "valid_from": "2023-10-17",
           "valid_to": null,
           "text_sha256": "272d7d1c39327603d469e4a8c3f0e02f346a84edfb12c54db68a230fe3f483e9",
-          "in_version": "eu-eurlex:32014r0945:2023-10-17"
+          "in_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
         }
       ],
       "art_premier": [
@@ -180,7 +180,7 @@
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "500180193eb0018c9b32910592dd7cceb9a67ba6fbe4ac5a5e06b9117800d8c5",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ],
       "indices_boursiers_conformes_aux_exigences_de_l_article_344_du_reglement_ue_no_575_2013": [
@@ -188,7 +188,7 @@
           "valid_from": "2020-02-19",
           "valid_to": "2023-10-16",
           "text_sha256": "591aed33f55942fbb9b96c6944accf3c63e29bb3b794958adfe551c480d15f74",
-          "in_version": "eu-eurlex:32014r0945:2020-02-19"
+          "in_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
         }
       ]
     }
@@ -198,62 +198,62 @@
       {
         "type": "inserted",
         "anchor": "annex",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "inserted",
         "anchor": "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "removed",
         "anchor": "annex",
-        "at_version": "eu-eurlex:32014r0945:2023-10-17"
+        "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
       },
       {
         "type": "removed",
         "anchor": "stock_indices_meeting_the_requirements_of_article_344_of_regulation_eu_no_575_2013",
-        "at_version": "eu-eurlex:32014r0945:2023-10-17"
+        "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
       }
     ],
     "fr": [
       {
         "type": "removed",
         "anchor": "art_1",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "inserted",
         "anchor": "annexe",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "inserted",
         "anchor": "art_premier",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "inserted",
         "anchor": "indices_boursiers_conformes_aux_exigences_de_l_article_344_du_reglement_ue_no_575_2013",
-        "at_version": "eu-eurlex:32014r0945:2020-02-19"
+        "at_version": "eu-eurlex:32014r0945:2020-02-19--43b1eaedb57127c51a7631a7baceebfb4d879ccf53b993cfa8400102e77179a5"
       },
       {
         "type": "renumbered",
         "from": "art_premier",
         "to": "art_1",
         "text_sha256": "500180193eb0018c9b32910592dd7cceb9a67ba6fbe4ac5a5e06b9117800d8c5",
-        "at_version": "eu-eurlex:32014r0945:2023-10-17",
+        "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897",
         "basis": "identical_text"
       },
       {
         "type": "removed",
         "anchor": "annexe",
-        "at_version": "eu-eurlex:32014r0945:2023-10-17"
+        "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
       },
       {
         "type": "removed",
         "anchor": "indices_boursiers_conformes_aux_exigences_de_l_article_344_du_reglement_ue_no_575_2013",
-        "at_version": "eu-eurlex:32014r0945:2023-10-17"
+        "at_version": "eu-eurlex:32014r0945:2023-10-17--0cfeccc5c92b4bfbe5a6b96be5b8100660fbabee84aedb64a928b1106b5e6897"
       }
     ]
   }

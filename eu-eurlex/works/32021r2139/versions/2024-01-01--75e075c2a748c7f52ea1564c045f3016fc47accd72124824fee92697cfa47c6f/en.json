@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r2139:2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/2139 of 4 June 2021 supplementing Regulation (EU) 2020/852",
+  "valid_from": "2024-01-01",
+  "valid_to": "2024-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r2139/versions/2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f/en.xml",
+    "sha256": "0a69f41c0f933469f4267fd42e4397d3d51fad095f1d264265c631876d224552",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R2139-20240101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r2139:2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The technical screening criteria for determining the conditions under which an economic activity qualifies as contributing substantially to climate change mitigation and for determining whether that economic activity causes no significant harm to any of the other environmental objectives laid down in Article 9 of Regulation (EU) 2020/852 are set out in Annex I to this Regulation.",
+      "text_sha256": "3fcddf7cc474b7a2dbc9ebbdaf3d0d9f72235b15bbc8bbfaa3d20600419f7745",
+      "md_span": {
+        "start": 730,
+        "end": 1112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r2139:2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The technical screening criteria for determining the conditions under which an economic activity qualifies as contributing substantially to climate change adaptation and for determining whether that economic activity causes no significant harm to any of the other environmental objectives laid down in Article 9 of Regulation (EU) 2020/852 are set out in Annex II to this Regulation.",
+      "text_sha256": "91d27b9b3f2d77a61d0423680300d79b8310c2f13857945e436259cb89fb106a",
+      "md_span": {
+        "start": 1149,
+        "end": 1532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2a",
+      "provision_id": "eu-eurlex:32021r2139:2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f#art_2a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2a",
+      "heading": "Review",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "When performing the review referred to in Article 19(5) of Regulation (EU) 2020/852, the Commission shall also review and assess the necessity to amend the dates referred to in Annex I, Section 4.27, Section 4.28, Section 4.29, point 1(b), Section 4.30, point 1(b) and Section 4.31, point 1(b).\n\nAny review of the date referred to in point (2) of Sections 4.27 and 4.28 to Annex I shall take into account the technical progress in accident-tolerant fuel commercialisation in the Union and worldwide.",
+      "text_sha256": "0b4e735489dd97fb63a49eca47b15ad2765965a6491904b76f6a242121d1e1e0",
+      "md_span": {
+        "start": 1580,
+        "end": 2079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r2139:2024-01-01--75e075c2a748c7f52ea1564c045f3016fc47accd72124824fee92697cfa47c6f#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 1 January 2022.",
+      "text_sha256": "4a6c864d3d997a806ea7da0d6dbb6ce836fe21eb820b8bb8682bc5775d56ee43",
+      "md_span": {
+        "start": 2116,
+        "end": 2295
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2023-06-21-a347:2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/09/2022 : Règlement grand-ducal du 21 juin 2023 fixant les jetons de présence des membres de la commission de classement de l’enseignement musical dans le secteur communal.",
+  "valid_from": "2022-09-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2023-06-21-a347/versions/2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c/fr.xml",
+    "sha256": "68bf9a7f5411ea1a0ee232ca6c4af2e84695655e27acbce07dc879bae66cb758",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2023-06-21-a347:2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/art_1er/20220921",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-09-21",
+      "text_md": "Le président et les membres de la commission de classement prévue à l’article 15 de la loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal, à l’exception du commissaire du Gouvernement à l’enseignement musical et du commissaire du Gouvernement adjoint à l’enseignement musical, ont droit à un jeton de présence par réunion.\n\nLe montant du jeton de présence est fixé à 20 euros.",
+      "text_sha256": "2191c36ddac7ffb6613b9f62b88adf279172253a987c42c2566fba783dbc1803",
+      "md_span": {
+        "start": 767,
+        "end": 1183
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2022/05/27/a250/jo",
+          "text": "loi du 27 mai 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2023-06-21-a347:2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/art_2/20220921",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-09-21",
+      "text_md": "Les jetons de présence sont à charge du Fonds des dépenses communales et payables sur base d’une déclaration établie en double et certifiée exacte par le président de la commission de classement.",
+      "text_sha256": "c1a3bbbdae57b8b74b92409f688652dbfceaf66a84686297d2eda0705aec6a9c",
+      "md_span": {
+        "start": 1218,
+        "end": 1413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2023-06-21-a347:2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/art_3/20220921",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-09-21",
+      "text_md": "Le présent règlement produit ses effets au 21 septembre 2022.",
+      "text_sha256": "28d1b027afbd2068dd2a148fa087db2384da23d214e64c6e2518c6ecffbcaa35",
+      "md_span": {
+        "start": 1448,
+        "end": 1509
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2023-06-21-a347:2022-09-21--b4075112e22641daee0e14139ed8aebd880916c8facffbe29d99d88e6e84466c#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/art_4/20220921",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-09-21",
+      "text_md": "Notre ministre ayant les Affaires communales dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "906f9683e4a1809658daf718efeeae2d273746352ce5582e0d4d1210b67bbec4",
+      "md_span": {
+        "start": 1544,
+        "end": 1723
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

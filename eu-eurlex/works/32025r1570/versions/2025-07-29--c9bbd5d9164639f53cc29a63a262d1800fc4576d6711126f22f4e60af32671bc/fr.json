@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1570:2025-07-29--c9bbd5d9164639f53cc29a63a262d1800fc4576d6711126f22f4e60af32671bc",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1570 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-29",
+  "valid_to": "2025-07-29",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1570/versions/2025-07-29--c9bbd5d9164639f53cc29a63a262d1800fc4576d6711126f22f4e60af32671bc/fr.xml",
+    "sha256": "40e01c2fa6578ef56b5c360ffd6067dc30f3e221b3896699cc2ead0a26fdac1a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1570"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-29--c9bbd5d9164639f53cc29a63a262d1800fc4576d6711126f22f4e60af32671bc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. La notification visée à l’article 31, paragraphe 1, du règlement (UE) no 910/2014 contient au moins les informations visées à l’annexe du présent règlement et est effectuée sous forme électronique par l’intermédiaire d’un canal électronique sécurisé mis à disposition par la Commission.\n\n2. En cas de modification des informations communiquées après la soumission initiale, y compris des modifications du statut de certification des dispositifs de création de signature électronique qualifiés et des dispositifs de création de cachet électronique qualifiés, les États membres transmettent les informations mises à jour avec les documents d’accompagnement pertinents par le canal visé au paragraphe 1.",
+      "text_sha256": "4f6d2162c6bcb14aac2f194bd45a1877c30fedd5f580a8cb47d690b7e224cfe1",
+      "md_span": {
+        "start": 751,
+        "end": 1471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-29--c9bbd5d9164639f53cc29a63a262d1800fc4576d6711126f22f4e60af32671bc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 19 décembre 2025.",
+      "text_sha256": "b6f2c5878a1cf67f639ab03536d2fcdc5967614e55834b0e8e2c76d85e7ba29a",
+      "md_span": {
+        "start": 1504,
+        "end": 1694
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

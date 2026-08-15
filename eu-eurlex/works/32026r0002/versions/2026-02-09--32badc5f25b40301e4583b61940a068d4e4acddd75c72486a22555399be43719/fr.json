@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/2 of 9\u00A0February 2026 laying down rules for the application of Regulation (EU)\u00A02024/1781",
+  "valid_from": "2026-02-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0002/versions/2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719/fr.xml",
+    "sha256": "ef05d14bc9ca277d452788bdff5952014f964bde92f1fb88ebce4ff9fd577cd2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0002"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit les modalités et le format de communication d’informations sur les produits de consommation invendus mis au rebut. Il s’applique aux produits mis au rebut au cours de chaque exercice à partir du premier exercice complet suivant la date d’application du présent règlement. Les opérateurs économiques publient ces informations dans un délai de douze mois à compter de la fin de cet exercice.",
+      "text_sha256": "cb80a34359debd90c145b814cdc149269ae20a5e68e1c6de6cb5b49069389bc9",
+      "md_span": {
+        "start": 743,
+        "end": 1178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La présentation visuelle et le contenu de la communication relative aux produits de consommation invendus mis au rebut sont conformes au format établi à l’annexe I.\n\n2. Les opérateurs économiques qui sont liés par l’obligation de publier des informations en matière de durabilité dans leur rapport de gestion en vertu de l’article 19 bis ou de l’article 29 bis de la directive 2013/34/UE, ou qui publient des rapports de ce type ou des rapports similaires à titre volontaire, et qui intègrent les informations relatives aux produits de consommation invendus mis au rebut dans lesdites informations en matière de durabilité en utilisant le format établi à l’annexe I, peuvent, plutôt que de publier ces informations directement sur leur site web, fournir sur leur site web un lien vers ce rapport en mentionnant clairement qu’il contient les informations relatives aux produits de consommation invendus mis au rebut.",
+      "text_sha256": "4b4c3ad64dd739e799bbbdcc6cb5529357ed31f0b0fa896b0523efeec161ac0b",
+      "md_span": {
+        "start": 1211,
+        "end": 2140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa communication d’informations relatives aux produits de consommation invendus mis au rebut s’effectue au moyen des codes à deux chiffres de la nomenclature combinée (NC) figurant à l’annexe I du règlement (CEE) no 2658/87.\n\nToutefois, les produits énumérés à l’annexe II du présent règlement sont désignés par les codes à quatre chiffres de la nomenclature combinée visés à ladite annexe.",
+      "text_sha256": "fca27af5a687c4d170da541f3fdff0d23baa70f911b5f5d462a51033461b0514",
+      "md_span": {
+        "start": 2173,
+        "end": 2574
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes opérateurs économiques conservent les informations et les documents nécessaires pour rendre compte, conformément à l’article 24, paragraphe 2, du règlement (UE) 2024/1781, du transfert et de la réception des produits de consommation invendus mis au rebut, y compris les déclarations relatives à la réception et au traitement des produits de consommation invendus mis au rebut reçus des opérateurs de traitement des déchets par les opérateurs économiques, pendant une durée de cinq ans à compter de la communication des informations sur ces produits.",
+      "text_sha256": "39b30af1ba46007be9ea5ea22a2f5a7632bf8eecef9f022b0d65a649689f4289",
+      "md_span": {
+        "start": 2607,
+        "end": 3171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Lorsque les autorités nationales compétentes vérifient que les opérateurs économiques respectent les obligations liées à la communication d’informations sur les produits de consommation invendus mis au rebut, elles appliquent les principes et la procédure énoncés à l’annexe III.\n\n2. Si les autorités nationales compétentes estiment qu’un ou plusieurs États membres n’ont pas respecté ces obligations, elles en informent les autorités nationales compétentes de ces États membres.",
+      "text_sha256": "57af4b837dfe848d75c7c4a967b582c3201ac49980e0822e85c5404baa3c48b5",
+      "md_span": {
+        "start": 3204,
+        "end": 3697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLa Commission réexamine le présent règlement, en tenant compte de l’expérience acquise dans la mise en œuvre de la communication d’informations sur les produits de consommation invendus mis au rebut, et en particulier la pertinence des modalités et du format de communication de ces informations qui figurent à l’annexe I, la délimitation des types de produits figurant à l’annexe II et la manière dont ces informations doivent être vérifiées. La Commission présente les résultats de ce réexamen, accompagné si nécessaire d’un projet de proposition de révision, au plus tard le 2 mars 2031.",
+      "text_sha256": "04df94cec62b1c7d0a9f6e6e9359274460873423b56a659bf2f724437ad79f9c",
+      "md_span": {
+        "start": 3730,
+        "end": 4331
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 2 mars 2027.",
+      "text_sha256": "711da5c4b72bb8599b725126d0b45a840dd361408ce0299af3ed93df732ed4f4",
+      "md_span": {
+        "start": 4364,
+        "end": 4549
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

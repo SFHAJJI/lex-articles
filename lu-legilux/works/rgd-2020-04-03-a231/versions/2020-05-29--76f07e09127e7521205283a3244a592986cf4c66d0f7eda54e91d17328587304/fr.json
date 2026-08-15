@@ -1,0 +1,101 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304",
+  "language": "fr",
+  "title": "Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 3 avril 2020 portant exécution de l’article 3 de la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.",
+  "valid_from": "2020-05-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-04-03-a231/versions/2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304/fr.xml",
+    "sha256": "2294d8b6c1ce4b693888b4490f4e30b044f8803090e04358a84e87ebed387449",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/consolide/20200529/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/art_1er/20200403",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "La pandémie Covid-19 a un impact dommageable sur les activités économiques énumérées à l’annexe I du règlement (CE) N° 1893/2006 du Parlement européen et du Conseil du 20 décembre 2006 établissant la nomenclature statistique des activités économiques NACE Rév. 2 et modifiant le règlement (CEE) N° 3037/90 du Conseil ainsi que certains règlements (CE) relatifs à des domaines statistiques spécifiques sous les sections suivantes :\n\n1. section B « industries extractives »,\n2. section C « industrie manufacturière » ;\n3. section D « production et distribution d’électricité, de gaz, de vapeur et d’air conditionné » ;\n4. section E « production et distribution d’eau, assainissement ; gestion des déchets et dépollution » ;\n5. section F « construction » ;\n6. section G « commerce, réparation d’automobiles et de motocycles » ;\n7. section H « transports et entreposage » ;\n8. section I « hébergement et restauration » ;\n9. section J « information et communication » ;\n10. section L « activités immobilières » ;\n11. section M « activités spécialisées, scientifiques et techniques » ;\n12. section N « activités de services administratifs et de soutien » ;\n13. section P « enseignement » ;\n14. section Q « santé humaine et action sociale » ;\n15. section R « arts, spectacles et activités récréatives » ;\n16. section S « autres activités de service ».",
+      "text_sha256": "21ea5e6aa6ed607fc05b4278389869410597654d754d5b7b18dba98a39ccd194",
+      "md_span": {
+        "start": 1025,
+        "end": 2369
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2006/1893/jo",
+          "text": "règlement (CE) N° 1893/2006"
+        },
+        {
+          "href": "/eli/reg_ue/1990/3037/jo",
+          "text": "règlement (CEE) N° 3037/90"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/art_2/20200529",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-05-29",
+      "text_md": "L’impact visé à l’article 1er s’étend sur la période allant du 15 mars 2020 au 15 septembre 2020.",
+      "text_sha256": "4a2167f82f9b63a6bd5aa1ccd4ff6a9443e9547a770c9897e5388066704fd256",
+      "md_span": {
+        "start": 2404,
+        "end": 2501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/art_3/20200403",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 2536,
+        "end": 2649
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29--76f07e09127e7521205283a3244a592986cf4c66d0f7eda54e91d17328587304#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/art_4/20200403",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Notre ministre ayant les Classes moyennes dans ses attributions, Notre ministre ayant l’Économie dans ses attributions, et Notre ministre ayant le Tourisme dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "9f312019c4157f88f6473ed47973c188eb800323636963b1bad4f4c39a378cb5",
+      "md_span": {
+        "start": 2684,
+        "end": 3007
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

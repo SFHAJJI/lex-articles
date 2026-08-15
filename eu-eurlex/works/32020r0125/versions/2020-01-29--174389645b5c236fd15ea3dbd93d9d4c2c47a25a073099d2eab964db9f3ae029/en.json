@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r0125:2020-01-29--174389645b5c236fd15ea3dbd93d9d4c2c47a25a073099d2eab964db9f3ae029",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2020/125 of 29 January 2020 amending Implementing Regulation (EU) No 945/2014 laying down implementing technical standards with regard to relevant appropriately diversified indices in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2020-01-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r0125/versions/2020-01-29--174389645b5c236fd15ea3dbd93d9d4c2c47a25a073099d2eab964db9f3ae029/en.xml",
+    "sha256": "3a3ad609fde2ccc1d39e86ffc50b4916c1aed7b5aa93a0a19d2685e905b44dea",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0125"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r0125:2020-01-29--174389645b5c236fd15ea3dbd93d9d4c2c47a25a073099d2eab964db9f3ae029#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Implementing Regulation (EU) No 945/2014 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "a8873649e386353ddcadf4e469efd24ece6d70957546c4e8b35496b1dc3e1b6a",
+      "md_span": {
+        "start": 878,
+        "end": 999
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r0125:2020-01-29--174389645b5c236fd15ea3dbd93d9d4c2c47a25a073099d2eab964db9f3ae029#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1032,
+        "end": 1183
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

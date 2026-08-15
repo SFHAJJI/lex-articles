@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31977l0799:2013-01-01--dc9564f7efc67e2986cccbc4eddc78d730ea6fbef584490ebc5c66b50346dd03",
+  "language": "fr",
+  "title": "Council Directive 77/799/EEC of 19 December 1977 concerning mutual assistance by the compe…",
+  "valid_from": "2013-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31977l0799/versions/2013-01-01--dc9564f7efc67e2986cccbc4eddc78d730ea6fbef584490ebc5c66b50346dd03/fr.html",
+    "sha256": "c94da8ce6b87b1b98d0de0d48d5bba9d572a44006b0dd0ead369d762b33eb57a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0799-20130101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31977l0799:2013-01-01--dc9564f7efc67e2986cccbc4eddc78d730ea6fbef584490ebc5c66b50346dd03#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1977L0799 — FR — 01.01.2013 — 010.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B DIRECTIVE DU CONSEIL du 19 décembre 1977 concernant l'assistance mutuelle des autorités compétentes des États membres dans le domaine des impôts directs et des taxes sur les primes d'assurance (77/799/CEE) (JO L 336, 27.12.1977, p.15) abrogé par: Journal officiel n° page date Directive 2011/16/UE du Conseil du 15 février 2011 L 64 1 11.3.2011",
+      "text_sha256": "221d49f4143c6fe125da96c339c35f458dc4e63062a0db22a10587609a6f0cca",
+      "md_span": {
+        "start": 724,
+        "end": 1208
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

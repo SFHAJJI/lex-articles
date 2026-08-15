@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0401:2019-03-14--94890391479d2c722f8e4b1cfc67663714f65a31d7db4e30348329e1050733aa",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/401 of 19 December 2018 amending Regulation (EU)…",
+  "valid_from": "2019-03-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0401/versions/2019-03-14--94890391479d2c722f8e4b1cfc67663714f65a31d7db4e30348329e1050733aa/en.html",
+    "sha256": "9133711efe96fdcb4aeddb319e09fa805cbca1d6c3bf06f0707e4e09831c9154",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0401-20190314"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0401:2019-03-14--94890391479d2c722f8e4b1cfc67663714f65a31d7db4e30348329e1050733aa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "In Article 41(4) of Regulation (EU) No 389/2013, the following paragraph is added:\n\n‘From the day following the one on which both ratification instruments concerning the Withdrawal Agreement have been deposited, allowances created for 2019 and 2020 shall not be identified with a country code if compliance with Directive 2003/87/EC for emissions taking place during these years is required by an agreement setting out arrangements for the withdrawal of such a Member State from the European Union.’",
+      "text_sha256": "9532a864a529d4362a0117f84053abc23e7cc52863ea46ccfb991a12540ca1c1",
+      "md_span": {
+        "start": 715,
+        "end": 1214
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0401",
+          "text": "32019R0401"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0401:2019-03-14--94890391479d2c722f8e4b1cfc67663714f65a31d7db4e30348329e1050733aa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "d803cd0eaae1d9741dc80fb417695ad8bd89340ddf089a4c34b73f72660b7d7a",
+      "md_span": {
+        "start": 1251,
+        "end": 1479
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/401 of 19 December 2018 amending Regulation (EU)…",
+  "valid_from": "2018-12-19",
+  "valid_to": "2019-03-13",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0401/versions/2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc/fr.xml",
+    "sha256": "0e96dab30396dc5a3d82611909f6337182aa0a6c134ce616990fc0600da9ab51",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0401"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 41, paragraphe 4, du règlement (UE) no 389/2013, le texte suivant est ajouté:\n\n«4. À partir du jour suivant celui du dépôt des deux instruments de ratification de l'accord de retrait, les quotas créés pour 2019 et 2020 ne sont pas identifiés par un code pays si un accord fixant les modalités du retrait de l'État membre concerné de l'Union impose le respect de la directive 2003/87/CE pour les émissions produites au cours de ces années.»",
+      "text_sha256": "0efe7dd0faf546da9a428883ae73aa88bbc3e705570b4f0692f8696a47583629",
+      "md_span": {
+        "start": 708,
+        "end": 1176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "3c7883834de2a6311c549c126d042d3b09894c0052807156950de93272a1d9ae",
+      "md_span": {
+        "start": 1209,
+        "end": 1340
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

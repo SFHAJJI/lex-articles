@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/304 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0304/versions/2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a/en.xml",
+    "sha256": "aa3895a77b2ec3d1175b67128afb863e194dd71e39e387b77e8a89570d140298",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0304"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nCompetent authorities shall designate a contact point for receiving the notifications submitted by financial entities in accordance with Article 60 of Regulation (EU) 2023/1114. Competent authorities shall keep the contact details of the designated contact point up-to-date and shall make those contact details public on their websites.",
+      "text_sha256": "2cc3d07a2f550e10a08d9bd7605ffa612d67182313fd707b630e90857f53a7aa",
+      "md_span": {
+        "start": 772,
+        "end": 1119
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The notifying entity shall submit to the competent authority its notification by filling in the form set out in the Annex of this Regulation.\n\n2. The notifiying entity shall submit the notification in a manner which enables storage of information in a way accessible for future reference and which allows the unchanged reproduction of the information stored.",
+      "text_sha256": "b2834051181bb8b1bf30ff601be7b1c0dc7f48f29c5a294e84eb3ed31d22deb6",
+      "md_span": {
+        "start": 1152,
+        "end": 1524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nWithin five working days of receipt of the notification, the competent authority shall send electronically, on paper, or in both forms, an acknowledgement of receipt to the notifying entity. The acknowledgement of receipt shall include the contact details of the department, function or staff member of the competent authority handling the notification.",
+      "text_sha256": "dc5158bd5fb1500112d3ecade41104cc0fb1ddff095e6241d79d32914e2d96c5",
+      "md_span": {
+        "start": 1557,
+        "end": 1921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe notifying entity shall notify the competent authority of any changes to the information provided in the notification without undue delay. The notifying entity shall provide the updated information by using the form set out in the Annex.",
+      "text_sha256": "c845efcc535b36e5d68c5b91908489abb22a57543da9d0fd0362016095ab5492",
+      "md_span": {
+        "start": 1954,
+        "end": 2205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31--6f00054cc3e16dde6cedf069e50a8ad2eb1c878dd74fded0bf1d65b90b65d14a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "80138b582df404d1030db3a74fc8e7cecf3799549ce0d411861a09d8ebdf3c93",
+      "md_span": {
+        "start": 2238,
+        "end": 2389
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

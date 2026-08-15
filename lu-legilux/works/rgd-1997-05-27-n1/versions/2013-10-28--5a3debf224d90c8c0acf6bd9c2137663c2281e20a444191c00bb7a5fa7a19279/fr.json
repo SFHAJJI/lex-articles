@@ -1,0 +1,294 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/10/2013 : Règlement grand-ducal du 27 mai 1997 relatif à l'octroi des concessions de pharmacie.",
+  "valid_from": "2013-10-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1997-05-27-n1/versions/2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279/fr.xml",
+    "sha256": "f890f5b651e789d6d996fc1086ec340e716a4d9e04bcc011e433a972c1862c0b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_1er/20131028",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Les concessions de pharmacie à créer, ou qui deviennent vacantes, feront l’objet d’un avis qui sera publié au Mémorial. Cet avis fixera un délai, qui ne pourra être inférieur à quatre semaines, pendant lequel les candidats devront adresser leur demande au ministre de la Santé.\n\nCes demandes doivent être accompagnées des documents et renseignements suivants:\n\n**1.** Une courte notice biographique.\n\n**2.** Le diplôme conférant le grade de pharmacien.\n\n**3.** Une copie de l'autorisation d'exercer la profession de pharmacien au Luxembourg.\n\n**4.** Un certificat de nationalité.\n\n**5.** Les certificats relatifs aux occupations pharmaceutiques au Luxembourg ou dans un autre Etat membre de l’Union Européenne, postérieures à l’obtention de l’autorisation d’exercer au Luxembourg ou dans l’autre pays membre. Les occupations pharmaceutiques de nature salariée sont attestées par les employeurs correspondants. Celles exercées à titre d’indépendant sont certifiées par le collège médical, ou, si elles se rapportent à une activité pharmaceutique réalisée à l’étranger, par le conseil de l’ordre des pharmaciens du pays en cause ou, à défaut, par l’organisme exerçant des fonctions similaires. Ces certificats portent le visa de l’Inspection des pharmacies ou de l’autorité étrangère exerçant la fonction de surveillance des pharmacies.\n\nCes certificats indiquent, outre la durée totale de l'occupation pharmaceutique, la nature de l'occupation ainsi que l'horaire hebdomadaire exprimé en heures/semaine.\n\nPour les occupations pharmaceutiques de nature salariée le ministre de la Santé peut demander au candidat de compléter sa demande par un certificat du Centre Commun de la Sécurité Sociale ou d’un organisme étranger similaire, attestant les périodes d’occupation avec les heures de travail prestées, et/ou par son ou ses contrat(s) de travail avec d’éventuels avenants.\n\n**6.** S'il y a lieu, les titres scientifiques dont question à l'article 2 sous 3 ci-dessous, accompagnés d'une pièce documentant qu'ils ont été inscrits au registre des diplômes visé à la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.",
+      "text_sha256": "0e4d285672b127b3bf1800bfab3caafe6301992822ef881dd7a09655a01ed4af",
+      "md_span": {
+        "start": 687,
+        "end": 2835
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/17/n1/jo",
+          "text": "loi du 17 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_2/20131028",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Le choix du candidat se fera d'après les critères suivants:\n\n**1.** L'ancienneté du diplôme visé à l'article 1er sous 2.\n\nL’ancienneté du diplôme sera portée en compte à raison de trois points par année entière et d’un quart de point par mois.\n\n**2.** L'occupation pharmaceutique.\n\nLa période pendant laquelle le candidat a exercé à plein temps une occupation pour l’exercice de laquelle le diplôme de pharmacien est exigé par la loi est portée en compte à raison de six points par année entière et d’un demi-point par mois entier. Est considérée comme plein temps pour les pharmaciens salariés une occupation correspondant au maximum de la durée normale de travail hebdomadaire prévue par la législation en vigueur en matière de louage de service des employés privés.\n\nDans l’hypothèse d’une occupation inférieure au plein temps tel que défini à l’alinéa qui précède, les points dont question audit alinéa sont réduits proportionnellement.\n\nPour l’occupation pharmaceutique passée dans un autre pays de l’Union Européenne le plein temps se détermine suivant les dispositions légales, réglementaires ou autres du pays en question en matière de durée hebdomadaire de travail des pharmaciens salariés, ou à défaut de la catégorie de salariés dont les pharmaciens salariés font partie. A défaut de dispositions afférentes le plein temps se détermine suivant les usages en la matière du pays en question.\n\nToute activité pharmaceutique accomplie au Luxembourg ou à l’étranger pour le compte de l’aide humanitaire dans le cadre d’une organisation de bienfaisance nationale ou internationale vaut occupation pharmaceutique au sens du présent paragraphe.\n\nN’entrent en ligne de compte que les occupations ininterrompues d’au moins un mois et accomplies pendant le même laps de temps dans deux pharmacies au maximum ou auprès de deux patrons au maximum.\n\nAu sens du présent paragraphe le pharmacien titulaire d’une pharmacie exerce une occupation à plein temps.\n\nL’occupation pharmaceutique accomplie dans un pays tiers n’est pas considérée.\n\nLe temps pendant lequel le candidat cesse toute activité professionnelle ou exerce une activité professionnelle réduite pour élever un ou plusieurs enfants à charge de moins de quinze ans vaut occupation pharmaceutique à plein temps pour la même durée que le congé sans traitement ou le congé pour travail à mi-temps obtenu pour le même motif par le fonctionnaire de l’Etat est considéré comme période d’activité de service intégrale pour les promotions, conformément à la législation fixant le statut général des fonctionnaires de l’Etat.\n\n**3.** Les titres scientifiques.\n\nLe temps des études et des travaux scientifiques à caractère universitaire, effectués postérieurement à l'obtention du diplôme de pharmacien et sanctionnés par un titre ou diplôme, sera porté en compte à raison de neuf points par année d'études ou de travaux, à condition que le titre ou diplôme ait été inscrit au registre des diplômes visé à la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.\n\n**4.** En cas d'égalité de points, suite à l'application des critères sous 1 à 3 ci-dessus, le candidat le plus âgé l'emportera.\n\nLors de l'appréciation des demandes le ministre de la Santé tient compte outre des pièces versées par les candidats en vertu de l'article 1er des inscriptions les concernant au registre professionnel des pharmaciens. A sa demande les candidats faisant valoir des occupations pharmaceutiques dans un autre Etat membre autoriseront le ministre à consulter par l'intermédiaire des autorités étrangères compétentes les données afférentes les concernant contenues dans des registres professionnels ou recueils de données analogues.\n\n**5.** La durée tant de l’ancienneté du diplôme que de l’occupation pharmaceutique et des études et travaux scientifiques s’apprécie à la date-limite fixée pour l’introduction des candidatures à l’article 1er alinéa 1er ci-dessus.",
+      "text_sha256": "126a3bcc5ebe6834d1750b008e9ef68474f2496fe06a3bac55e5872b613b0672",
+      "md_span": {
+        "start": 2870,
+        "end": 6802
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/17/n1/jo",
+          "text": "loi du 17 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_3/20131028",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Ne seront pas prises en considération.\n\n**1.** Les demandes de candidats non autorisés à exercer leur profession au Luxembourg.\n\n**2.** Les demandes de ressortissants de pays tiers.\n\n**3.** Les demandes incomplètes.\n\n**4.** (abrogé)\n\n**5.** Les demandes de candidats ayant subi le retrait d’une précédente concession ou ayant fait à l’étranger l’objet d’une mesure équivalente.\n\n**6.** Les demandes de candidats qui ne justifieraient pas avoir travaillé, postérieurement à l’obtention du diplôme de pharmacien, pendant deux années au moins et à mi-temps au moins ou en équivalent mi-temps, dans une pharmacie du pays, dont au moins six mois dans une pharmacie ouverte au public.\n\n**7.** Les demandes de candidats qui pendant les deux années précédant le concours n’auraient pas exercé à mi-temps au moins une profession pour l’exercice de laquelle le diplôme de pharmacien est requis par la loi.\n\n**8.** Les demandes de candidats qui pendant les six mois précédant le concours n’auraient pas exercé à mi-temps au moins dans une pharmacie du pays.",
+      "text_sha256": "a5e415cc28edc0c19d7d66980cb389045ce00a0c997ed86330495d2762f7210d",
+      "md_span": {
+        "start": 6837,
+        "end": 7883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_4/20131028",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Pour l'application de l'article 2 paragraphe 2 toute absence pour des motifs légitimes vaut occupation pharmaceutique.\n\nPour l'application de l'article 3 points 6 et 8 toute absence pour des motifs légitimes vaut exercice pharmaceutique jusqu'à concurrence d'un mois d'absences au total.\n\nPour l'application de l'article 3 point 7 toute absence pour des motifs légitimes vaut exercice pharmaceutique jusqu'à concurrence d'une année d'absences au total, sans préjudice des dispositions de l'alinéa ci-dessus.\n\nEst considérée comme légitime au sens des alinéas qui précèdent toute absence en raison d'un congé qui, dans le chef d'un salarié, donne lieu à rémunération ou à un revenu de remplacement.",
+      "text_sha256": "b54d7396ac7d61b7385407db601a51e07e93b71495adb939fa5e5711b843987c",
+      "md_span": {
+        "start": 7918,
+        "end": 8615
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_5/20131028",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Pour chaque concession le ministre de la Santé fera dresser un cahier des charges qui sera à la disposition des intéressés à partir du jour de la publication de l’avis prévu à l’article 1er du présent règlement et qui énoncera:\n\n**1.** la localisation de la pharmacie à concéder;\n\n**2.** le délai endéans lequel, après l’octroi de la concession, la pharmacie devra être ouverte. Ce délai ne pourra normalement pas dépasser six mois et ne pourra être prolongé que pour de justes motifs;\n\n**3.** éventuellement les clauses et conditions spéciales de l’octroi et de l’exploitation de la concession.",
+      "text_sha256": "11610eb6aad801188071d2c0a42cb7ce0884339a65916fa8da435caf76346faf",
+      "md_span": {
+        "start": 8650,
+        "end": 9245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_6/20131028",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Le candidat, avisé par le ministre de la Santé qu’il est en rang utile pour l’obtention de la concession, est tenu de confirmer dans la semaine suivant cette information qu’il accepte la concession et de signer sur première requête l’acte de concession dont question à l’article 7 ci-dessous. Faute de ce faire il est censé renoncer à la concession.\n\nSi le candidat accepte la concession il doit indiquer dans les deux mois l’immeuble dans lequel il compte s’établir, en fournissant, s’il s’agit d’une installation nouvelle, le plan détaillé de la future pharmacie et de ses annexes.",
+      "text_sha256": "8d6e68d6456451dae7f13c578274e57b5685168c446248dc98cf90a6f64ae699",
+      "md_span": {
+        "start": 9280,
+        "end": 9863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_7/20131028",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "L’acte de concession sera rédigé en double et signé par le ministre de la Santé et le concessionnaire. Un des exemplaires sera remis au concessionnaire.",
+      "text_sha256": "c5e7c3a56b70ae66518d0f1391d5429732e8b6f5f9b6369ed81ab8a969bf1b7e",
+      "md_span": {
+        "start": 9898,
+        "end": 10050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_8/20131028",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "La pharmacie ne pourra être transférée en un autre local qu’avec l’autorisation préalable du ministre de la Santé.",
+      "text_sha256": "f6c6d649ada70fd45b909fd2466d1cf51255ac80dd695b7ad7093f76a4975972",
+      "md_span": {
+        "start": 10085,
+        "end": 10199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_9/20131028",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "La redevance se détermine d’après le chiffre d’affaires annuel réalisé par le concessionnaire. La redevance est de 2% du chiffre d’affaires.\n\nEst prise en compte la totalité du chiffre d’affaires réalisé par le concessionnaire par la vente de produits généralement quelconques, pharmaceutiques ou non, à l’exception des produits suivants:\n\n- médicaments vétérinaires;\n- médicaments à usage humain, pour lesquels la marge commerciale du concessionnaire est inférieure à 31,83%.\n\nLa redevance est payable par année entre les mains du receveur des contributions du ressort afférent. Faute de paiement le ministre de la Santé peut, après mise en demeure du retardataire, retirer la concession.",
+      "text_sha256": "52d3c297dd2ec81edc75f68185a7c6246b10c99f18aca87e95dea5fa577c8568",
+      "md_span": {
+        "start": 10234,
+        "end": 10923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_10/20131028",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "La concession pourra encore être retirée dans les cas suivants:\n\n**1.** s’il s’avère que le concessionnaire ne remplissait pas les conditions de l’octroi;\n\n**2.** si l’installation et l’aménagement de la pharmacie sont reconnus insuffisants, après mise en demeure du concessionnaire;\n\n**3.** si le concessionnaire n’offre plus les garanties matérielles ou morales nécessaires à la bonne gestion de la pharmacie.",
+      "text_sha256": "fb44cca9c753d002b87e3d2b139a978c80dc9bb0f8da0188e688844df4788bdb",
+      "md_span": {
+        "start": 10960,
+        "end": 11371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_11/20131028",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Le concessionnaire ne pourra renoncer à la concession que de l’accord préalable du ministre de la Santé.",
+      "text_sha256": "6f95788aef874188fac09c7fd30329b57b37a2b9e437a3f112f4dbb84c3c53b2",
+      "md_span": {
+        "start": 11408,
+        "end": 11512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_12/20131028",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Les points comptabilisés en raison du temps d'occupation pharmaceutique passé dans une pharmacie rurale, conformément au règlement grand-ducal du 29 octobre 1986 modifiant le règlement grand-ducal du 22 février 1974 portant exécution de la loi du 4 juillet 1973 concernant le régime de la pharmacie restent acquis.\n\nToutefois il n’y aura plus de nouvelle attribution de points pour occupation pharmaceutique en milieu rural à partir de l’entrée en vigueur du présent règlement.",
+      "text_sha256": "b1723bc94261aab1c17dd0d0aea6a9b906406730d376f9bbf9e9fddb72cbf8a4",
+      "md_span": {
+        "start": 11549,
+        "end": 12026
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1986/10/29/n4/jo",
+          "text": "règlement grand-ducal du 29 octobre 1986"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1974/02/22/n4/jo",
+          "text": "règlement grand-ducal du 22 février 1974"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1973/07/04/n2/jo",
+          "text": "loi du 4 juillet 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_13/20131028",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Le règlement grand-ducal modifié du 22 février 1974 portant exécution de la loi du 4 juillet 1973 concernant le régime de la pharmacie est abrogé. Ses dispositions continuent cependant de s'appliquer à l'octroi des concessions de pharmacie déclarées vacantes avant l'entrée en vigueur du présent règlement.",
+      "text_sha256": "c6d48a4aa7e577e044c13a5a31a7283e6593c36fe9e6ce0f1ecdf1cc95de0905",
+      "md_span": {
+        "start": 12063,
+        "end": 12369
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1974/02/22/n4/jo",
+          "text": "règlement grand-ducal modifié du 22 février 1974"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1973/07/04/n2/jo",
+          "text": "loi du 4 juillet 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1997-05-27-n1:2013-10-28--5a3debf224d90c8c0acf6bd9c2137663c2281e20a444191c00bb7a5fa7a19279#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/art_14/20131028",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-10-28",
+      "text_md": "Notre ministre de la Santé et Notre ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "8a86ee75d6a3e46cbfe0965f7fe83761b5bf4efb47cf7f740dc3e9a5b5d3be6f",
+      "md_span": {
+        "start": 12406,
+        "end": 12572
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

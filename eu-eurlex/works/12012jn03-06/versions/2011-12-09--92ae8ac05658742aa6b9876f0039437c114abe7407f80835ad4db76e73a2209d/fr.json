@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012jn03-06:2011-12-09--92ae8ac05658742aa6b9876f0039437c114abe7407f80835ad4db76e73a2209d",
+  "language": "fr",
+  "title": "Act concerning the conditions of accession of the Republic of Croatia and the adjustments …",
+  "valid_from": "2011-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012jn03-06/versions/2011-12-09--92ae8ac05658742aa6b9876f0039437c114abe7407f80835ad4db76e73a2209d/fr.xml",
+    "sha256": "851887b47a12ccc46bdb4a7715c7dfe4a94eb9db1d4cf2c3c0c947aab135e18c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012JN03%2F06"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012jn03-06:2011-12-09--92ae8ac05658742aa6b9876f0039437c114abe7407f80835ad4db76e73a2209d#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "24.4.2012 FR Journal officiel de l'Union européenne L 112/6 ANNEXE III Liste visée à l'article 15 de l'acte d'adhésion: adaptation des actes adoptés par les institutions 6. FISCALITÉ 1. 32006 L 0112: Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (JO L 347 du 11.12.2006, p. 1): À l'article 287, le point ci-après est ajouté: \"(19) la Croatie: 35 000 EUR.\". 2. 32008 L 0118: Directive 2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d'accise et abrogeant la directive 92/12/CEE (JO L 9 du 14.1.2009, p. 12): À l'article 46, le paragraphe 3 est remplacé par le texte suivant: \"3. Sans préjudice de l'article 32, les États membres qui ne sont pas visés à l'article 2, paragraphe 2, troisième et quatrième alinéas, de la directive 92/79/CEE peuvent, en ce qui concerne les cigarettes qui peuvent être introduites sur leur territoire sans paiement de nouveaux droits d'accise, appliquer à partir du 1er janvier 2014 une limite quantitative d'au moins 300 unités pour les cigarettes importées d'un État membre qui applique, conformément à l'article 2, paragraphe 2, troisième et quatrième alinéas, de ladite directive, des droits d'accise inférieurs à ceux découlant de l'article 2, paragraphe 2, premier alinéa. Les États membres mentionnés à l'article 2, paragraphe 2, troisième et quatrième alinéas, de la directive 92/79/CEE qui perçoivent une accise d'au moins 77 EUR par 1 000 unités sur les cigarettes indépendamment du prix moyen pondéré de vente au détail, peuvent, à partir du 1er janvier 2014, appliquer une limite quantitative d'au moins 300 unités aux cigarettes introduites sur leur territoire sans paiement de nouveaux droits d'accise en provenance d'un État membre qui applique un taux d'accise inférieur conformément à l'article 2, paragraphe 2, troisième alinéa, de ladite directive. Les États membres qui appliquent une limite quantitative conformément aux premier et deuxième alinéas en informent la Commission. Ils peuvent procéder aux contrôles nécessaires pour autant que ces derniers n'affectent pas le bon fonctionnement du marché intérieur.\".",
+      "text_sha256": "e4169ce03f22910cd4be82b94805b08a622020b4cbe00918070af1b4a94d4677",
+      "md_span": {
+        "start": 721,
+        "end": 2869
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

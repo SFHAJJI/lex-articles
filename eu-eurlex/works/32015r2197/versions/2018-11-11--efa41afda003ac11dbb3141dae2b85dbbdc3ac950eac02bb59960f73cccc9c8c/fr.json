@@ -1,0 +1,82 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/2197 of 27 November 2015 laying down implementing technical standards with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2018-11-11",
+  "valid_to": "2019-12-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2197/versions/2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c/fr.html",
+    "sha256": "cc381c525744bd25451ead855975ea5e94ae915341191af4768542b885fdd03c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015R2197-20181111"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les paires de devises qui satisfont aux exigences de l'article 354, paragraphe 1, du règlement (UE) no 575/2013 sont répertoriées à l'annexe du présent règlement.",
+      "text_sha256": "b8a2fbd7daca018151e8faf8c01c9baaab5d2d581d2953321e7bef16f811d8b7",
+      "md_span": {
+        "start": 848,
+        "end": 1010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+      "md_span": {
+        "start": 1047,
+        "end": 1289
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1580",
+          "text": "32018R1580: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Liste des devises étroitement corrélées\n\n*Partie 1 – Liste des devises étroitement corrélées avec l'euro (EUR)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD).\n\n*Partie 2 – Liste des devises étroitement corrélées avec le dirham des Émirats arabes unis (AED)*\n\nYuan renminbi (CNY), dollar de Hong Kong (HKD), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 3 – Liste des devises étroitement corrélées avec le lek albanais (ALL)*\n\nMark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 4 – Liste des devises étroitement corrélées avec le mark de Bosnie-Herzégovine (BAM)*\n\nLek albanais (ALL), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 5 – Liste des devises étroitement corrélées avec le lev bulgare (BGN)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 6 – Liste des devises étroitement corrélées avec le yuan renminbi (CNY)*\n\nDirham des Émirats arabes unis (AED), dollar de Hong Kong (HKD), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 7 – Liste des devises étroitement corrélées avec la couronne tchèque (CZK)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne danoise (DKK), kuna croate (HRK), dirham marocain (MAD), denar de l'ancienne République yougoslave de Macédoine (MKD), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 8 – Liste des devises étroitement corrélées avec la couronne danoise (DKK)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD).\n\n*Partie 9 – Liste des devises étroitement corrélées avec le dollar de Hong Kong (HKD)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 10 – Liste des devises étroitement corrélées avec la kuna croate (HRK)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 11 – Liste des devises étroitement corrélées avec le forint hongrois (HUF)*\n\nMark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne danoise (DKK), kuna croate (HRK), dirham marocain (MAD), zloty polonais (PLN), leu roumain (RON), dinar serbe (RSD), euro (EUR).\n\n*Partie 12 – Liste des devises étroitement corrélées avec le shekel israélien (ILS)*\n\nDirham marocain (MAD), baht thaïlandais (THB).\n\n*Partie 13 – Liste des devises étroitement corrélées avec la roupie indienne (INR)*\n\nBaht thaïlandais (THB).\n\n*Partie 14 – Liste des devises étroitement corrélées avec le won sud-coréen (KRW)*\n\nDollar de Singapour (SGD).\n\n*Partie 15 – Liste des devises étroitement corrélées avec la livre libanaise (LBP)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 16 – Liste des devises étroitement corrélées avec le dirham marocain (MAD)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), forint hongrois (HUF), shekel israélien (ILS), leu roumain (RON), dinar serbe (RSD), dollar de Singapour (SGD), euro (EUR).\n\n*Partie 17 – Liste des devises étroitement corrélées avec le denar de l'ancienne République yougoslave de Macédoine (MKD)*\n\nCouronne tchèque (CZK).\n\n*Partie 18 — Liste des devises étroitement corrélées avec le pataca de Macao (MOP)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), livre libanaise (LBP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 19 — Liste des devises étroitement corrélées avec le peso philippin (PHP)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), livre libanaise (LBP), pataca de Macao (MOP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 20 — Liste des devises étroitement corrélées avec le zloty polonais (PLN)*\n\nForint hongrois (HUF).\n\n*Partie 21 – Liste des devises étroitement corrélées avec le leu roumain (RON)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), dinar serbe (RSD), euro (EUR).\n\n*Partie 22 – Liste des devises étroitement corrélées avec le dinar serbe (RSD)*\n\nLek albanais (ALL), mark de Bosnie-Herzégovine (BAM), lev bulgare (BGN), couronne tchèque (CZK), couronne danoise (DKK), kuna croate (HRK), forint hongrois (HUF), dirham marocain (MAD), leu roumain (RON), euro (EUR).\n\n*Partie 23 – Liste des devises étroitement corrélées avec le dollar de Singapour (SGD)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), won sud-coréen (KRW), livre libanaise (LBP), dirham marocain (MAD), pataca de Macao (MOP), peso philippin (PHP), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 24 – Liste des devises étroitement corrélées avec le baht thaïlandais (THB)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), shekel israélien (ILS), roupie indienne (INR), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), nouveau dollar de Taïwan (TWD), dollar des États-Unis (USD).\n\n*Partie 25 – Liste des devises étroitement corrélées avec le nouveau dollar de Taïwan (TWD)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), dollar des États-Unis (USD).\n\n*Partie 26 – Liste des devises étroitement corrélées avec le dollar des États-Unis (USD)*\n\nDirham des Émirats arabes unis (AED), yuan renminbi (CNY), dollar de Hong Kong (HKD), livre libanaise (LBP), pataca de Macao (MOP), peso philippin (PHP), dollar de Singapour (SGD), baht thaïlandais (THB), nouveau dollar de Taïwan (TWD).",
+      "text_sha256": "d4ba8027bed567280b5cc97bcb93c8e6f01eaf8bcb13523c1ac7ff2462c00132",
+      "md_span": {
+        "start": 1324,
+        "end": 8646
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

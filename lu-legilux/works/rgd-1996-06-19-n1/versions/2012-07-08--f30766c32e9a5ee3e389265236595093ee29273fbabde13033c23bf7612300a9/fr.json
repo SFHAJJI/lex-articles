@@ -1,0 +1,158 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9",
+  "language": "fr",
+  "title": "Version consolidée applicable au 08/07/2012 : Règlement grand-ducal du 19 juin 1996 fixant les modalités d'exécution du titre V de la loi sur la coopération au développement portant institution d'un congé coopération au développement.",
+  "valid_from": "2012-07-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1996-06-19-n1/versions/2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9/fr.xml",
+    "sha256": "f7a9c843c458214cd514f43908274eba5a1652b2433a681e2f9981977fc39bb9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/consolide/20120708/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_1er/20120708",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Peuvent bénéficier du congé de coopération au développement, sous réserve des dispositions de l’article 40 de la loi du 6 janvier 1996 sur la coopération au développement, les experts ou représentants d’une organisation non gouvernementale agréée qui remplissent les conditions prévues à l’article 34 de ladite loi, à l’exclusion des salariés d’une telle organisation.",
+      "text_sha256": "9320b05dab3989a8488d37a8ba33eae9a30bdbdab0646350fe9b33f16a634985",
+      "md_span": {
+        "start": 791,
+        "end": 1159
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1996/01/06/n1/jo",
+          "text": "loi du 6 janvier 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_2/20120708",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Peuvent être pris en considération pour l’octroi du congé:\n\n- les déplacements et voyages relatifs à l’identification, la formulation, l’exécution, le suivi, le contrôle et l’évaluation de programmes ou de projets de coopération au bénéfice des populations des pays en développement;\n- la gestion administrative et financière d’un programme ou de projet de coopération au bénéfice des populations des pays en développement dont la réalisation incombe à une organisation non gouvernementale;\n- les réunions d’experts et de représentants des organisations non gouvernementales dans le cadre d’organisations internationales;\n- les échanges organisés dans le cadre de programmes ou de projets dans le domaine de la coopération au développement;\n- toute sorte de réunion relative à la coopération au développement à laquelle un représentant luxembourgeois est délégué par le ministre ayant dans ses attributions la coopération au développement.",
+      "text_sha256": "82ab87ce256fa968cf5be2eaf3dc53322a87d680b4fb62e879b5cf4cd1a07b16",
+      "md_span": {
+        "start": 1194,
+        "end": 2133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_3/20120708",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Chaque congé doit être approuvé quant à son principe et quant à sa durée par le ministre ayant dans ses attributions la coopération au développement, désigné ci-après par «le ministre», le comité interministériel prévu à l’article 50 de la loi prévisée entendu en son avis.",
+      "text_sha256": "8a34f90a4fc83755ef0ff9a619394ff5e551bea2cc993e08828d631e71265b3b",
+      "md_span": {
+        "start": 2168,
+        "end": 2441
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/jo",
+          "text": "loi prévisée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_4/20120708",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Les personnes qui désirent bénéficier du congé doivent introduire individuellement, au moins deux mois d’avance, auprès du ministre une demande en triple exemplaire, établie sur un formulaire prescrit et mis à leur disposition par le ministre.\n\nCe formulaire, dûment complété et signé, indique:\n\n- le nom et le prénom du requérant,\n- la date de naissance,\n- la nationalité,\n- les qualifications et aptitudes professionnelles,\n- les dates et la durée du congé sollicité,\n- le but du congé,\n- les données relatives aux programmes ou projets, réunions ou échanges visés,\n- le cas échéant, le montant des cachets, honoraires et autres rémunérations prévues,\n- le nom de l’organisation non gouvernementale agréée compétente.\n\nLa décision par laquelle le ministre accorde ou refuse l’octroi d’un congé sera notifiée au requérant dans le mois suivant la demande.\n\nLa demande accompagnée de cette décision sera présentée par l’intéressé, s’il exerce une occupation salariée, à son employeur au moins quinze jours avant le commencement du congé sollicité.",
+      "text_sha256": "24ffe66d8f68dffea82366f24e6b35e0fb7ec8cad13462fdbba68a190daa5b61",
+      "md_span": {
+        "start": 2476,
+        "end": 3522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_5/20120708",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "L’expert ou le représentant de l’organisation non gouvernementale exerçant une occupation non salariée a droit, sur présentation d’une déclaration écrite, à une indemnité forfaitaire fixée au double du salaire social minimum pour travailleurs qualifiés.\n\nLa déclaration doit être accompagnée d’une attestation de l’organisation non gouvernementale agréée compétente certifiant la participation effective de l’intéressé à l’activité pour laquelle le congé a été accordé.",
+      "text_sha256": "9651504c711cf71c2961c6cc50aa64c2b3b166b694ff5f899028ad75cb85e0d7",
+      "md_span": {
+        "start": 3557,
+        "end": 4026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_6/20120708",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "L’indemnité compensatoire revenant à l’expert ou au représentant de l’organisation non gouvernementale agréée exerçant une occupation salariée en application de l’article 44 de la loi prévisée du 6 janvier 1996, augmentée de la part patronale des cotisations sociales, avancée par l’employeur est remboursée à ce dernier sur présentation d’une déclaration écrite, accompagnée de l’attestation prévue à l’alinéa 2 de l’article 5 ci-avant.",
+      "text_sha256": "ccac04257d5012336a518e24777a8eb33fecc0e13872f90e271d2364fa84a970",
+      "md_span": {
+        "start": 4061,
+        "end": 4498
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1996/01/06/n1/jo",
+          "text": "loi prévisée du 6 janvier 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08--f30766c32e9a5ee3e389265236595093ee29273fbabde13033c23bf7612300a9#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/art_7/20120708",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Notre ministre ayant dans ses attributions la coopération au développement est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "d3aae50f4c5d9b924627d527a696da2e2dcd31a7c92eace78df966b263582dee",
+      "md_span": {
+        "start": 4533,
+        "end": 4683
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

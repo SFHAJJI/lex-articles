@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2023/2495 of 15\u00A0November 2023 amending Directive\u00A02014/24/EU",
+  "valid_from": "2023-11-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2495/versions/2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97/fr.xml",
+    "sha256": "6f07fc373c3fdbb98e38c66d83b653cf31187dca0fb740a9e30459145a15845a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2495"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2014/24/UE est modifiée comme suit:\n\n| 1) | L’article 4 est modifié comme suit:a)au point a), la mention «5 382 000 EUR» est remplacée par «5 538 000 EUR»;b)au point b), la mention «140 000 EUR» est remplacée par «143 000 EUR»;c)au point c), la mention «215 000 EUR» est remplacée par «221 000 EUR». |\n| --- | --- |\n| a) | au point a), la mention «5 382 000 EUR» est remplacée par «5 538 000 EUR»; |\n| b) | au point b), la mention «140 000 EUR» est remplacée par «143 000 EUR»; |\n| c) | au point c), la mention «215 000 EUR» est remplacée par «221 000 EUR». |\n\n| 2) | À l’article 13, le premier alinéa est modifié comme suit:a)au point a), la mention «5 382 000 EUR» est remplacée par «5 538 000 EUR»;b)au point b), la mention «215 000 EUR» est remplacée par «221 000 EUR». |\n| --- | --- |\n| a) | au point a), la mention «5 382 000 EUR» est remplacée par «5 538 000 EUR»; |\n| b) | au point b), la mention «215 000 EUR» est remplacée par «221 000 EUR». |",
+      "text_sha256": "592feab8d6c0238c7210e46e7a548645331d4a738a7c4efb794fee419cf0e83c",
+      "md_span": {
+        "start": 707,
+        "end": 1690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2495:2023-11-15--fb3d66c28c9471bc8b730228721cd2246affde4e5fc463aaf0738ec58711ee97#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2024.",
+      "text_sha256": "fcf5b23c0a11c0a6493d21592405b31d12d13dfa03a479f2b1a30186eea088fb",
+      "md_span": {
+        "start": 1723,
+        "end": 1913
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0542:2014-05-15--37a93cedc45b902c391ac01b2593e170b8b6706ea0e1b597503276eee4d972ea",
+  "language": "en",
+  "title": "Regulation (EU) No\u00A0542/2014",
+  "valid_from": "2014-05-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0542/versions/2014-05-15--37a93cedc45b902c391ac01b2593e170b8b6706ea0e1b597503276eee4d972ea/en.xml",
+    "sha256": "5bb6d1369ae13409d5578ebeb25fe58f50762fb8f88b4ee4c3d948622a0df241",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0542"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0542:2014-05-15--37a93cedc45b902c391ac01b2593e170b8b6706ea0e1b597503276eee4d972ea#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Chapter VII of Regulation (EU) No 1215/2012, the following Articles are inserted:\n\n‘Article 71a\n\n1. For the purposes of this Regulation, a court common to several Member States as specified in paragraph 2 (a ‘common court’) shall be deemed to be a court of a Member State when, pursuant to the instrument establishing it, such a common court exercises jurisdiction in matters falling within the scope of this Regulation.\n\n2. For the purposes of this Regulation, each of the following courts shall be a common court:\n\n| (a) | the Unified Patent Court established by the Agreement on a Unified Patent Court signed on 19 February 2013 (the ‘UPC Agreement’); and |\n| --- | --- |\n\n| (b) | the Benelux Court of Justice established by the Treaty of 31 March 1965 concerning the establishment and statute of a Benelux Court of Justice (the ‘Benelux Court of Justice Treaty’). |\n| --- | --- |\n\nArticle 71b\n\nThe jurisdiction of a common court shall be determined as follows:\n\n| (1) | a common court shall have jurisdiction where, under this Regulation, the courts of a Member State party to the instrument establishing the common court would have jurisdiction in a matter governed by that instrument; |\n| --- | --- |\n\n| (2) | where the defendant is not domiciled in a Member State, and this Regulation does not otherwise confer jurisdiction over him, Chapter II shall apply as appropriate regardless of the defendant’s domicile.Application may be made to a common court for provisional, including protective, measures even if the courts of a third State have jurisdiction as to the substance of the matter; |\n| --- | --- |\n\n| (3) | where a common court has jurisdiction over a defendant under point 2 in a dispute relating to an infringement of a European patent giving rise to damage within the Union, that court may also exercise jurisdiction in relation to damage arising outside the Union from such an infringement.Such jurisdiction may only be established if property belonging to the defendant is located in any Member State party to the instrument establishing the common court and the dispute has a sufficient connection with any such Member State. |\n| --- | --- |\n\nArticle 71c\n\n1. Articles 29 to 32 shall apply where proceedings are brought in a common court and in a court of a Member State not party to the instrument establishing the common court.\n\n2. Articles 29 to 32 shall apply where, during the transitional period referred to in Article 83 of the UPC Agreement, proceedings are brought in the Unified Patent Court and in a court of a Member State party to the UPC Agreement.\n\nArticle 71d\n\nThis Regulation shall apply to the recognition and enforcement of:\n\n| (a) | judgments given by a common court which are to be recognised and enforced in a Member State not party to the instrument establishing the common court; and |\n| --- | --- |\n\n| (b) | judgments given by the courts of a Member State not party to the instrument establishing the common court which are to be recognised and enforced in a Member State party to that instrument. |\n| --- | --- |\n\nHowever, where recognition and enforcement of a judgment given by a common court is sought in a Member State party to the instrument establishing the common court, any rules of that instrument on recognition and enforcement shall apply instead of the rules of this Regulation.’.",
+      "text_sha256": "5fe9b42578dfe7ffa134b50d7e327dae4dbcdf052056b8e30bcfb1972451bb71",
+      "md_span": {
+        "start": 638,
+        "end": 3990
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0542:2014-05-15--37a93cedc45b902c391ac01b2593e170b8b6706ea0e1b597503276eee4d972ea#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 10 January 2015.",
+      "text_sha256": "7d252890c7ad4a55f25d92094015b74e4697f256b4f957c3442e6617b9edb67d",
+      "md_span": {
+        "start": 4023,
+        "end": 4202
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

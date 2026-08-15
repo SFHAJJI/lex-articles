@@ -1,0 +1,1558 @@
+---
+lex_id: 'eu-eurlex:32011r0282:2020-01-01--c11c79f816f7b91cad4663062fd0311f8719a9c5d13b8f5e6e0146dca5596389'
+title: 'Council Implementing Regulation (EU) No 282/2011 of 15 March 2011 laying down implementing…'
+valid_from: '2020-01-01'
+valid_to: '2021-06-30'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0282-20200101'
+source_sha256: '3e735297a49f598a6f31603f702e21351096485a64281a577f6a207bd0e21a82'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### **SUBJECT MATTER**
+
+<a id="art_1"></a>
+
+### Article 1
+
+This Regulation lays down measures for the implementation of certain provisions of Titles I to V, and VII to XII of Directive 2006/112/EC.
+
+## CHAPTER II
+
+### **(TITLE I OF DIRECTIVE 2006/112/EC)**
+
+<a id="art_2"></a>
+
+### Article 2
+
+The following shall not result in intra-Community acquisitions within the meaning of point (b) of Article 2(1) of Directive 2006/112/EC:
+
+(a) the transfer of a new means of transport by a non-taxable person upon change of residence provided that the exemption provided for in point (a) of Article 138(2) of Directive 2006/112/EC could not apply at the time of supply;
+
+(b) the return of a new means of transport by a non-taxable person to the Member State from which it was initially supplied to him under the exemption provided for in point (a) of Article 138(2) of Directive 2006/112/EC.
+
+<a id="art_3"></a>
+
+### Article 3
+
+Without prejudice to point (b) of the first paragraph of Article 59a of Directive 2006/112/EC, the supply of the following services is not subject to VAT if the supplier demonstrates that the place of supply determined in accordance with Subsections 3 and 4 of Section 4 of Chapter V of this Regulation is outside the Community:
+
+(a) from 1 January 2013, the service referred to in the first subparagraph of Article 56(2) of Directive 2006/112/EC;
+
+(b) from 1 January 2015, the services listed in Article 58 of Directive 2006/112/EC;
+
+(c) the services listed in Article 59 of Directive 2006/112/EC.
+
+<a id="art_4"></a>
+
+### Article 4
+
+A taxable person who is entitled to non-taxation of his intra-Community acquisitions of goods, in accordance with Article 3 of Directive 2006/112/EC, shall remain so where, pursuant to Article 214(1)(d) or (e) of that Directive, a VAT identification number has been attributed to that taxable person for the services received for which he is liable to pay VAT or for the services supplied by him within the territory of another Member State for which VAT is payable solely by the recipient.
+
+However, if that taxable person communicates this VAT identification number to a supplier in respect of an intra-Community acquisition of goods, he shall be deemed to have exercised the option provided for in Article 3(3) of that Directive.
+
+## CHAPTER III
+
+### **(TITLE III OF DIRECTIVE 2006/112/EC)**
+
+<a id="art_5"></a>
+
+### Article 5
+
+A European Economic Interest Grouping (EEIG) constituted in accordance with Regulation (EEC) No 2137/85 which supplies goods or services for consideration to its members or to third parties shall be a taxable person within the meaning of Article 9(1) of Directive 2006/112/EC.
+
+## CHAPTER IV
+
+### **(ARTICLES 24 TO 29 OF DIRECTIVE 2006/112/EC)**
+
+<a id="art_6"></a>
+
+### Article 6
+
+1. Restaurant and catering services mean services consisting of the supply of prepared or unprepared food or beverages or both, for human consumption, accompanied by sufficient support services allowing for the immediate consumption thereof. The provision of food or beverages or both is only one component of the whole in which services shall predominate. Restaurant services are the supply of such services on the premises of the supplier, and catering services are the supply of such services off the premises of the supplier.
+
+2. The supply of prepared or unprepared food or beverages or both, whether or not including transport but without any other support services, shall not be considered restaurant or catering services within the meaning of paragraph 1.
+
+<a id="art_6a"></a>
+
+### Article 6a
+
+1. Telecommunications services within the meaning of Article 24(2) of Directive 2006/112/EC shall cover, in particular, the following:
+
+(a) fixed and mobile telephone services for the transmission and switching of voice, data and video, including telephone services with an imaging component (videophone services);
+
+(b) telephone services provided through the internet, including voice over internet Protocol (VoIP);
+
+(c) voice mail, call waiting, call forwarding, caller identification, three-way calling and other call management services;
+
+(d) paging services;
+
+(e) audiotext services;
+
+(f) facsimile, telegraph and telex;
+
+(g) access to the internet, including the World Wide Web;
+
+(h) private network connections providing telecommunications links for the exclusive use of the client.
+
+2. Telecommunications services within the meaning of Article 24(2) of Directive 2006/112/EC shall not cover the following:
+
+(a) electronically supplied services;
+
+(b) radio and television broadcasting (hereinafter ‘broadcasting’) services.
+
+<a id="art_6b"></a>
+
+### Article 6b
+
+1. Broadcasting services shall include services consisting of audio and audiovisual content, such as radio or television programmes which are provided to the general public via communications networks by and under the editorial responsibility of a media service provider, for simultaneous listening or viewing, on the basis of a programme schedule.
+
+2. Paragraph 1 shall cover, in particular, the following:
+
+(a) radio or television programmes transmitted or retransmitted over a radio or television network;
+
+(b) radio or television programmes distributed via the internet or similar electronic network (IP streaming), if they are broadcast simultaneous to their being transmitted or retransmitted over a radio or television network.
+
+3. Paragraph 1 shall not cover the following:
+
+(a) telecommunications services;
+
+(b) electronically supplied services;
+
+(c) the provision of information about particular programmes on demand;
+
+(d) the transfer of broadcasting or transmission rights;
+
+(e) the leasing of technical equipment or facilities for use to receive a broadcast;
+
+(f) radio or television programmes distributed via the internet or similar electronic network (IP streaming), unless they are broadcast simultaneous to their being transmitted or retransmitted over a radio or television network.
+
+<a id="art_7"></a>
+
+### Article 7
+
+1. ‘Electronically supplied services’ as referred to in Directive 2006/112/EC shall include services which are delivered over the Internet or an electronic network and the nature of which renders their supply essentially automated and involving minimal human intervention, and impossible to ensure in the absence of information technology.
+
+2. Paragraph 1 shall cover, in particular, the following:
+
+(a) the supply of digitised products generally, including software and changes to or upgrades of software;
+
+(b) services providing or supporting a business or personal presence on an electronic network such as a website or a webpage;
+
+(c) services automatically generated from a computer via the Internet or an electronic network, in response to specific data input by the recipient;
+
+(d) the transfer for consideration of the right to put goods or services up for sale on an Internet site operating as an online market on which potential buyers make their bids by an automated procedure and on which the parties are notified of a sale by electronic mail automatically generated from a computer;
+
+(e) Internet Service Packages (ISP) of information in which the telecommunications component forms an ancillary and subordinate part (i.e. packages going beyond mere Internet access and including other elements such as content pages giving access to news, weather or travel reports; playgrounds; website hosting; access to online debates etc.);
+
+(f) the services listed in Annex I.
+
+3. Paragraph 1 shall not cover the following:
+
+(a) broadcasting services;
+
+(b) telecommunications services;
+
+(c) goods, where the order and processing is done electronically;
+
+(d) CD-ROMs, floppy disks and similar tangible media;
+
+(e) printed matter, such as books, newsletters, newspapers or journals;
+
+(f) CDs and audio cassettes;
+
+(g) video cassettes and DVDs;
+
+(h) games on a CD-ROM;
+
+(i) services of professionals such as lawyers and financial consultants, who advise clients by e-mail;
+
+(j) teaching services, where the course content is delivered by a teacher over the Internet or an electronic network (namely via a remote link);
+
+(k) offline physical repair services of computer equipment;
+
+(l) offline data warehousing services;
+
+(m) advertising services, in particular as in newspapers, on posters and on television;
+
+(n) telephone helpdesk services;
+
+(o) teaching services purely involving correspondence courses, such as postal courses;
+
+(p) conventional auctioneers’ services reliant on direct human intervention, irrespective of how bids are made;
+
+(t) tickets to cultural, artistic, sporting, scientific, educational, entertainment or similar events booked online;
+
+(u) accommodation, car-hire, restaurant services, passenger transport or similar services booked online.
+
+<a id="art_8"></a>
+
+### Article 8
+
+If a taxable person only assembles the various parts of a machine all of which were provided to him by his customer, that transaction shall be a supply of services within the meaning of Article 24(1) of Directive 2006/112/EC.
+
+<a id="art_9"></a>
+
+### Article 9
+
+The sale of an option, where such a sale is a transaction falling within the scope of point (f) of Article 135(1) of Directive 2006/112/EC, shall be a supply of services within the meaning of Article 24(1) of that Directive. That supply of services shall be distinct from the underlying transactions to which the services relate.
+
+<a id="art_9a"></a>
+
+### Article 9a
+
+1. For the application of Article 28 of Directive 2006/112/EC, where electronically supplied services are supplied through a telecommunications network, an interface or a portal such as a marketplace for applications, a taxable person taking part in that supply shall be presumed to be acting in his own name but on behalf of the provider of those services unless that provider is explicitly indicated as the supplier by that taxable person and that is reflected in the contractual arrangements between the parties.
+
+In order to regard the provider of electronically supplied services as being explicitly indicated as the supplier of those services by the taxable person, the following conditions shall be met:
+
+(a) the invoice issued or made available by each taxable person taking part in the supply of the electronically supplied services must identify such services and the supplier thereof;
+
+(b) the bill or receipt issued or made available to the customer must identify the electronically supplied services and the supplier thereof.
+
+For the purposes of this paragraph, a taxable person who, with regard to a supply of electronically supplied services, authorises the charge to the customer or the delivery of the services, or sets the general terms and conditions of the supply, shall not be permitted to explicitly indicate another person as the supplier of those services.
+
+2. Paragraph 1 shall also apply where telephone services provided through the internet, including voice over internet Protocol (VoIP), are supplied through a telecommunications network, an interface or a portal such as a marketplace for applications and are supplied under the same conditions as set out in that paragraph.
+
+3. This Article shall not apply to a taxable person who only provides for processing of payments in respect of electronically supplied services or of telephone services provided through the internet, including voice over internet Protocol (VoIP), and who does not take part in the supply of those electronically supplied services or telephone services.
+
+## *SECTION 1*
+
+### ***Concepts***
+
+<a id="art_10"></a>
+
+### Article 10
+
+1. For the application of Articles 44 and 45 of Directive 2006/112/EC, the place where the business of a taxable person is established shall be the place where the functions of the business’s central administration are carried out.
+
+2. In order to determine the place referred to in paragraph 1, account shall be taken of the place where essential decisions concerning the general management of the business are taken, the place where the registered office of the business is located and the place where management meets.
+
+Where these criteria do not allow the place of establishment of a business to be determined with certainty, the place where essential decisions concerning the general management of the business are taken shall take precedence.
+
+3. The mere presence of a postal address may not be taken to be the place of establishment of a business of a taxable person.
+
+<a id="art_11"></a>
+
+### Article 11
+
+1. For the application of Article 44 of Directive 2006/112/EC, a ‘fixed establishment’ shall be any establishment, other than the place of establishment of a business referred to in Article 10 of this Regulation, characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to receive and use the services supplied to it for its own needs.
+
+2. For the application of the following Articles, a ‘fixed establishment’ shall be any establishment, other than the place of establishment of a business referred to in Article 10 of this Regulation, characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to provide the services which it supplies:
+
+(a) Article 45 of Directive 2006/112/EC;
+
+(b) from 1 January 2013, the second subparagraph of Article 56(2) of Directive 2006/112/EC;
+
+(c) until 31 December 2014, Article 58 of Directive 2006/112/EC;
+
+(d) Article 192a of Directive 2006/112/EC.
+
+3. The fact of having a VAT identification number shall not in itself be sufficient to consider that a taxable person has a fixed establishment.
+
+<a id="art_12"></a>
+
+### Article 12
+
+For the application of Directive 2006/112/EC, the ‘permanent address’ of a natural person, whether or not a taxable person, shall be the address entered in the population or similar register, or the address indicated by that person to the relevant tax authorities, unless there is evidence that this address does not reflect reality.
+
+<a id="art_13"></a>
+
+### Article 13
+
+The place where a natural person ‘usually resides’, whether or not a taxable person, as referred to in Directive 2006/112/EC shall be the place where that natural person usually lives as a result of personal and occupational ties.
+
+Where the occupational ties are in a country different from that of the personal ties, or where no occupational ties exist, the place of usual residence shall be determined by personal ties which show close links between the natural person and a place where he is living.
+
+<a id="art_13a"></a>
+
+### Article 13a
+
+The place where a non-taxable legal person is established, as referred to in the first subparagraph of Article 56(2) and Articles 58 and 59 of Directive 2006/112/EC, shall be:
+
+(a) the place where the functions of its central administration are carried out; or
+
+(b) the place of any other establishment characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to receive and use the services supplied to it for its own needs.
+
+<a id="art_13b"></a>
+
+### Article 13b
+
+For the application of Directive 2006/112/EC, the following shall be regarded as ‘immovable property’:
+
+(a) any specific part of the earth, on or below its surface, over which title and possession can be created;
+
+(b) any building or construction fixed to or in the ground above or below sea level which cannot be easily dismantled or moved;
+
+(c) any item that has been installed and makes up an integral part of a building or construction without which the building or construction is incomplete, such as doors, windows, roofs, staircases and lifts;
+
+(d) any item, equipment or machine permanently installed in a building or construction which cannot be moved without destroying or altering the building or construction.
+
+## *SECTION 2*
+
+### ***(Articles 31 to 39 of Directive 2006/112/EC)***
+
+<a id="art_14"></a>
+
+### Article 14
+
+Where in the course of a calendar year the threshold applied by a Member State in accordance with Article 34 of Directive 2006/112/EC is exceeded, Article 33 of that Directive shall not modify the place of supplies of goods other than products subject to excise duty carried out in the course of the same calendar year which are made before the threshold applied by the Member State for the calendar year then current is exceeded provided that all of the following conditions are met:
+
+(a) the supplier has not exercised the option provided for under Article 34(4) of that Directive;
+
+(b) the value of his supplies of goods did not exceed the threshold in the course of the preceding calendar year.
+
+However, Article 33 of Directive 2006/112/EC shall modify the place of the following supplies to the Member State in which the dispatch or transport ends:
+
+(a) the supply of goods by which the threshold applied by the Member State for the calendar year then current was exceeded in the course of the same calendar year;
+
+(b) any subsequent supplies of goods within that Member State in that calendar year;
+
+(c) supplies of goods within that Member State in the calendar year following the calendar year in which the event referred to in point (a) occurred.
+
+<a id="art_15"></a>
+
+### Article 15
+
+The section of a passenger transport operation effected within the Community referred to in Article 37 of Directive 2006/112/EC, shall be determined by the journey of the means of transport and not by the journey completed by each of the passengers.
+
+## *SECTION 3*
+
+### ***(Articles 40, 41 and 42 of Directive 2006/112/EC)***
+
+<a id="art_16"></a>
+
+### Article 16
+
+Where an intra-Community acquisition of goods within the meaning of Article 20 of Directive 2006/112/EC has taken place, the Member State in which the dispatch or transport ends shall exercise its power of taxation irrespective of the VAT treatment applied to the transaction in the Member State in which the dispatch or transport began.
+
+Any request by a supplier of goods for a correction in the VAT invoiced by him and reported by him to the Member State where the dispatch or transport of the goods began shall be treated by that Member State in accordance with its own domestic rules.
+
+## Subsection 1
+
+### **Status of the customer**
+
+<a id="art_17"></a>
+
+### Article 17
+
+1. If the place of supply of services depends on whether the customer is a taxable or non-taxable person, the status of the customer shall be determined on the basis of Articles 9 to 13 and Article 43 of Directive 2006/112/EC.
+
+2. A non-taxable legal person who is identified or required to be identified for VAT purposes under point (b) of Article 214(1) of Directive 2006/112/EC because his intra-Community acquisitions of goods are subject to VAT or because he has exercised the option of making those operations subject to VAT shall be a taxable person within the meaning of Article 43 of that Directive.
+
+<a id="art_18"></a>
+
+### Article 18
+
+1. Unless he has information to the contrary, the supplier may regard a customer established within the Community as a taxable person:
+
+(a) where the customer has communicated his individual VAT identification number to him, and the supplier obtains confirmation of the validity of that identification number and of the associated name and address in accordance with Article 31 of Council Regulation (EC) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax (1);
+
+(b) where the customer has not yet received an individual VAT identification number, but informs the supplier that he has applied for it and the supplier obtains any other proof which demonstrates that the customer is a taxable person or a non-taxable legal person required to be identified for VAT purposes and carries out a reasonable level of verification of the accuracy of the information provided by the customer, by normal commercial security measures such as those relating to identity or payment checks.
+
+2. Unless he has information to the contrary, the supplier may regard a customer established within the Community as a non-taxable person when he can demonstrate that the customer has not communicated his individual VAT identification number to him.
+
+However, irrespective of information to the contrary, the supplier of telecommunications, broadcasting or electronically supplied services may regard a customer established within the Community as a non-taxable person as long as that customer has not communicated his individual VAT identification number to him.
+
+3. Unless he has information to the contrary, the supplier may regard a customer established outside the Community as a taxable person:
+
+(a) if he obtains from the customer a certificate issued by the customer’s competent tax authorities as confirmation that the customer is engaged in economic activities in order to enable him to obtain a refund of VAT under Council Directive 86/560/EEC of 17 November 1986 on the harmonization of the laws of the Member States relating to turnover taxes – Arrangements for the refund of value added tax to taxable persons not established in Community territory (2);
+
+(b) where the customer does not possess that certificate, if the supplier has the VAT number, or a similar number attributed to the customer by the country of establishment and used to identify businesses or any other proof which demonstrates that the customer is a taxable person and if the supplier carries out a reasonable level of verification of the accuracy of the information provided by the customer, by normal commercial security measures such as those relating to identity or payment checks.
+
+## Subsection 2
+
+### **Capacity of the customer**
+
+<a id="art_19"></a>
+
+### Article 19
+
+For the purpose of applying the rules concerning the place of supply of services laid down in Articles 44 and 45 of Directive 2006/112/EC, a taxable person, or a non-taxable legal person deemed to be a taxable person, who receives services exclusively for private use, including use by his staff, shall be regarded as a non-taxable person.
+
+Unless he has information to the contrary, such as information on the nature of the services provided, the supplier may consider that the services are for the customer’s business use if, for that transaction, the customer has communicated his individual VAT identification number.
+
+Where one and the same service is intended for both private use, including use by the customer’s staff, and business use, the supply of that service shall be covered exclusively by Article 44 of Directive 2006/112/EC, provided there is no abusive practice.
+
+## Subsection 3
+
+### **Location of the customer**
+
+<a id="art_20"></a>
+
+### Article 20
+
+Where a supply of services carried out for a taxable person, or a non-taxable legal person deemed to be a taxable person, falls within the scope of Article 44 of Directive 2006/112/EC, and where that taxable person is established in a single country, or, in the absence of a place of establishment of a business or a fixed establishment, has his permanent address and usually resides in a single country, that supply of services shall be taxable in that country.
+
+The supplier shall establish that place based on information from the customer, and verify that information by normal commercial security measures such as those relating to identity or payment checks.
+
+The information may include the VAT identification number attributed by the Member State where the customer is established.
+
+<a id="art_21"></a>
+
+### Article 21
+
+Where a supply of services to a taxable person, or a non-taxable legal person deemed to be a taxable person, falls within the scope of Article 44 of Directive 2006/112/EC, and the taxable person is established in more than one country, that supply shall be taxable in the country where that taxable person has established his business.
+
+However, where the service is provided to a fixed establishment of the taxable person located in a place other than that where the customer has established his business, that supply shall be taxable at the place of the fixed establishment receiving that service and using it for its own needs.
+
+Where the taxable person does not have a place of establishment of a business or a fixed establishment, the supply shall be taxable at his permanent address or usual residence.
+
+<a id="art_22"></a>
+
+### Article 22
+
+1. In order to identify the customer’s fixed establishment to which the service is provided, the supplier shall examine the nature and use of the service provided.
+
+Where the nature and use of the service provided do not enable him to identify the fixed establishment to which the service is provided, the supplier, in identifying that fixed establishment, shall pay particular attention to whether the contract, the order form and the VAT identification number attributed by the Member State of the customer and communicated to him by the customer identify the fixed establishment as the customer of the service and whether the fixed establishment is the entity paying for the service.
+
+Where the customer’s fixed establishment to which the service is provided cannot be determined in accordance with the first and second subparagraphs of this paragraph or where services covered by Article 44 of Directive 2006/112/EC are supplied to a taxable person under a contract covering one or more services used in an unidentifiable and non-quantifiable manner, the supplier may legitimately consider that the services have been supplied at the place where the customer has established his business.
+
+2. The application of this Article shall be without prejudice to the customer’s obligations.
+
+<a id="art_23"></a>
+
+### Article 23
+
+1. From 1 January 2013, where, in accordance with the first subparagraph of Article 56(2) of Directive 2006/112/EC, a supply of services is taxable at the place where the customer is established, or, in the absence of an establishment, where he has his permanent address or usually resides, the supplier shall establish that place based on factual information provided by the customer, and verify that information by normal commercial security measures such as those relating to identity or payment checks.
+
+2. Where, in accordance with Articles 58 and 59 of Directive 2006/112/EC, a supply of services is taxable at the place where the customer is established, or, in the absence of an establishment, where he has his permanent address or usually resides, the supplier shall establish that place based on factual information provided by the customer, and verify that information by normal commercial security measures such as those relating to identity or payment checks.
+
+<a id="art_24"></a>
+
+### Article 24
+
+Where services covered by the first subparagraph of Article 56(2) or Articles 58 and 59 of Directive 2006/112/EC are supplied to a non-taxable person who is established in more than one country or who has his permanent address in one country and his usual residence in another, priority shall be given:
+
+(a) in the case of a non-taxable legal person, to the place referred to in point (a) of Article 13a of this Regulation, unless there is evidence that the service is used at the establishment referred to in point (b) of that article;
+
+(b) in the case of a natural person, to the place where he usually resides, unless there is evidence that the service is used at his permanent address.
+
+## **Subsection 3a**
+
+### **Presumptions for the location of the customer**
+
+<a id="art_24a"></a>
+
+### Article 24a
+
+1. For the application of Articles 44, 58 and 59a of Directive 2006/112/EC, where a supplier of telecommunications, broadcasting or electronically supplied services provides those services at a location such as a telephone box, a telephone kiosk, a wi-fi hot spot, an internet café, a restaurant or a hotel lobby where the physical presence of the recipient of the service at that location is needed for the service to be provided to him by that supplier, it shall be presumed that the customer is established, has his permanent address or usually resides at the place of that location and that the service is effectively used and enjoyed there.
+
+2. If the location referred to in paragraph 1 of this Article is on board a ship, aircraft or train carrying out a passenger transport operation effected within the Community pursuant to Articles 37 and 57 of Directive 2006/112/EC, the country of the location shall be the country of departure of the passenger transport operation.
+
+<a id="art_24b"></a>
+
+### Article 24b
+
+For the application of Article 58 of Directive 2006/112/EC, where telecommunications, broadcasting or electronically supplied services are supplied to a non-taxable person:
+
+(a) through his fixed land line, it shall be presumed that the customer is established, has his permanent address or usually resides at the place of installation of the fixed land line;
+
+(b) through mobile networks, it shall be presumed that the place where the customer is established, has his permanent address or usually resides is the country identified by the mobile country code of the SIM card used when receiving those services;
+
+(c) for which the use of a decoder or similar device or a viewing card is needed and a fixed land line is not used, it shall be presumed that the customer is established, has his permanent address or usually resides at the place where that decoder or similar device is located, or if that place is not known, at the place to which the viewing card is sent with a view to being used there;
+
+(d) under circumstances other than those referred to in Article 24a and in points (a), (b) and (c) of this Article, it shall be presumed that the customer is established, has his permanent address or usually resides at the place identified as such by the supplier on the basis of two items of non-contradictory evidence as listed in Article 24f of this Regulation.
+
+Without prejudice to point (d) of the first paragraph, for supplies of services falling under that point, where the total value of such supplies, exclusive of VAT, provided by a taxable person from his business establishment or a fixed establishment located in a Member State, does not exceed EUR 100 000 , or the equivalent in national currency, in the current and the preceding calendar year, the presumption shall be that the customer is established, has his permanent address or usually resides at the place identified as such by the supplier on the basis of one item of evidence provided by a person involved in the supply of the services other than the supplier or the customer, as listed in points (a) to (e) of Article 24f.
+
+Where, during a calendar year, the threshold provided in the second paragraph has been exceeded, that paragraph shall not apply as of that time and until such time as the conditions provided in that paragraph are fulfilled again.
+
+The corresponding value in national currency of the amount shall be calculated by applying the exchange rate published by the European Central Bank on the date of adoption of Council Implementing Regulation (EU) 2017/2459 (3).
+
+<a id="art_24c"></a>
+
+### Article 24c
+
+For the application of Article 56(2) of Directive 2006/112/EC, where the hiring, other than short-term hiring, of means of transport is supplied to a non-taxable person, it shall be presumed that the customer is established, has his permanent address or usually resides at the place identified as such by the supplier on the basis of two items of non-contradictory evidence as listed in Article 24e of this Regulation.
+
+## **Subsection 3b**
+
+### **Rebuttal of presumptions**
+
+<a id="art_24d"></a>
+
+### Article 24d
+
+1. Where a supplier supplies a service listed in Article 58 of Directive 2006/112/EC, he may rebut a presumption referred to in Article 24a or in point (a), (b) or (c) of Article 24b of this Regulation on the basis of three items of non-contradictory evidence indicating that the customer is established, has his permanent address or usually resides elsewhere.
+
+2. A tax authority may rebut presumptions that have been made under Article 24a, 24b or 24c where there are indications of misuse or abuse by the supplier.
+
+## **Subsection 3c**
+
+### **Evidence for the identification of the location of the customer and rebuttal of presumptions**
+
+<a id="art_24e"></a>
+
+### Article 24e
+
+For the purposes of applying the rules in Article 56(2) of Directive 2006/112/EC and fulfilling the requirements of Article 24c of this Regulation, the following shall, in particular, serve as evidence:
+
+(a) the billing address of the customer;
+
+(b) bank details such as the location of the bank account used for payment or the billing address of the customer held by that bank;
+
+(c) registration details of the means of transport hired by the customer, if registration of that means of transport is required at the place where it is used, or other similar information;
+
+(d) other commercially relevant information.
+
+<a id="art_24f"></a>
+
+### Article 24f
+
+For the purpose of applying the rules in Article 58 of Directive 2006/112/EC and fulfilling the requirements of point (d) of Article 24b or Article 24d(1) of this Regulation, the following shall, in particular, serve as evidence:
+
+(a) the billing address of the customer;
+
+(b) the internet Protocol (IP) address of the device used by the customer or any method of geolocation;
+
+(c) bank details such as the location of the bank account used for payment or the billing address of the customer held by that bank;
+
+(d) the Mobile Country Code (MCC) of the International Mobile Subscriber Identity (IMSI) stored on the Subscriber Identity Module (SIM) card used by the customer;
+
+(e) the location of the customer’s fixed land line through which the service is supplied to him;
+
+(f) other commercially relevant information.
+
+## Subsection 4
+
+### **Common provision regarding determination of the status, the capacity and the location of the customer**
+
+<a id="art_25"></a>
+
+### Article 25
+
+For the application of the rules governing the place of supply of services, only the circumstances existing at the time of the chargeable event shall be taken into account. Any subsequent changes to the use of the service received shall not affect the determination of the place of supply, provided there is no abusive practice.
+
+## Subsection 5
+
+### **Supply of services governed by the general rules**
+
+<a id="art_26"></a>
+
+### Article 26
+
+A transaction whereby a body assigns television broadcasting rights in respect of football matches to taxable persons, shall be covered by Article 44 of Directive 2006/112/EC.
+
+<a id="art_27"></a>
+
+### Article 27
+
+The supply of services which consist in applying for or receiving refunds of VAT under Council Directive 2008/9/EC of 12 February 2008 laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State (4) shall be covered by Article 44 of Directive 2006/112/EC.
+
+<a id="art_28"></a>
+
+### Article 28
+
+In so far as they constitute a single service, the supply of services made in the framework of organising a funeral shall fall within the scope of Articles 44 and 45 of Directive 2006/112/EC.
+
+<a id="art_29"></a>
+
+### Article 29
+
+Without prejudice to Article 41 of this Regulation, the supply of services of translation of texts shall fall within the scope of Articles 44 and 45 of Directive 2006/112/EC.
+
+## Subsection 6
+
+### **Supply of services by intermediaries**
+
+<a id="art_30"></a>
+
+### Article 30
+
+The supply of services of intermediaries as referred to in Article 46 of Directive 2006/112/EC shall cover the services of intermediaries acting in the name and on behalf of the recipient of the service procured and the services performed by intermediaries acting in the name and on behalf of the provider of the services procured.
+
+<a id="art_31"></a>
+
+### Article 31
+
+Services supplied by intermediaries acting in the name and on behalf of another person consisting of the intermediation in the provision of accommodation in the hotel sector or in sectors having a similar function shall fall within the scope of:
+
+(a) Article 44 of Directive 2006/112/EC if supplied to a taxable person acting as such, or a non-taxable legal person deemed to be a taxable person;
+
+(b) Article 46 of that Directive, if supplied to a non-taxable person.
+
+## **Subsection 6a**
+
+### **Supply of services connected with immovable property**
+
+<a id="art_31a"></a>
+
+### Article 31a
+
+1. Services connected with immovable property, as referred to in Article 47 of Directive 2006/112/EC, shall include only those services that have a sufficiently direct connection with that property. Services shall be regarded as having a sufficiently direct connection with immovable property in the following cases:
+
+(a) where they are derived from an immovable property and that property makes up a constituent element of the service and is central to, and essential for, the services supplied;
+
+(b) where they are provided to, or directed towards, an immovable property, having as their object the legal or physical alteration of that property.
+
+2. Paragraph 1 shall cover, in particular, the following:
+
+(a) the drawing up of plans for a building or parts of a building designated for a particular plot of land regardless of whether or not the building is erected;
+
+(b) the provision of on site supervision or security services;
+
+(c) the construction of a building on land, as well as construction and demolition work performed on a building or parts of a building;
+
+(d) the construction of permanent structures on land, as well as construction and demolition work performed on permanent structures such as pipeline systems for gas, water, sewerage and the like;
+
+(e) work on land, including agricultural services such as tillage, sowing, watering and fertilisation;
+
+(f) surveying and assessment of the risk and integrity of immovable property;
+
+(g) the valuation of immovable property, including where such service is needed for insurance purposes, to determine the value of a property as collateral for a loan or to assess risk and damages in disputes;
+
+(h) the leasing or letting of immovable property other than that covered by point (c) of paragraph 3, including the storage of goods for which a specific part of the property is assigned for the exclusive use of the customer;
+
+(i) the provision of accommodation in the hotel sector or in sectors with a similar function, such as holiday camps or sites developed for use as camping sites, including the right to stay in a specific place resulting from the conversion of timeshare usage rights and the like;
+
+(j) the assignment or transfer of rights other than those covered by points (h) and (i) to use the whole or parts of an immovable property, including the licence to use part of a property, such as the granting of fishing and hunting rights or access to lounges in airports, or the use of an infrastructure for which tolls are charged, such as a bridge or tunnel;
+
+(k) the maintenance, renovation and repair of a building or parts of a building, including work such as cleaning, tiling, papering and parqueting;
+
+(l) the maintenance, renovation and repair of permanent structures such as pipeline systems for gas, water, sewerage and the like;
+
+(m) the installation or assembly of machines or equipment which, upon installation or assembly, qualify as immovable property;
+
+(n) the maintenance and repair, inspection and supervision of machines or equipment if those machines or equipment qualify as immovable property;
+
+(o) property management other than portfolio management of investments in real estate covered by point (g) of paragraph 3, consisting of the operation of commercial, industrial or residential real estate by or on behalf of the owner of the property;
+
+(p) intermediation in the sale, leasing or letting of immovable property and in the establishment or transfer of certain interests in immovable property or rights in rem over immovable property (whether or not treated as tangible property), other than intermediation covered by point (d) of paragraph 3;
+
+(q) legal services relating to the transfer of a title to immovable property, to the establishment or transfer of certain interests in immovable property or rights in rem over immovable property (whether or not treated as tangible property), such as notary work, or to the drawing up of a contract to sell or acquire immovable property, even if the underlying transaction resulting in the legal alteration of the property is not carried through.
+
+3. Paragraph 1 shall not cover the following:
+
+(a) the drawing up of plans for a building or parts of a building if not designated for a particular plot of land;
+
+(b) the storage of goods in an immovable property if no specific part of the immovable property is assigned for the exclusive use of the customer;
+
+(c) the provision of advertising, even if it involves the use of immovable property;
+
+(d) intermediation in the provision of hotel accommodation or accommodation in sectors with a similar function, such as holiday camps or sites developed for use as camping sites, if the intermediary is acting in the name and on behalf of another person;
+
+(e) the provision of a stand location at a fair or exhibition site together with other related services to enable the exhibitor to display items, such as the design of the stand, transport and storage of the items, the provision of machines, cable laying, insurance and advertising;
+
+(f) the installation or assembly, the maintenance and repair, the inspection or the supervision of machines or equipment which is not, or does not become, part of the immovable property;
+
+(g) portfolio management of investments in real estate;
+
+(h) legal services other than those covered by point (q) of paragraph 2, connected to contracts, including advice given on the terms of a contract to transfer immovable property, or to enforce such a contract, or to prove the existence of such a contract, where such services are not specific to a transfer of a title on an immovable property.
+
+<a id="art_31b"></a>
+
+### Article 31b
+
+Where equipment is put at the disposal of a customer with a view to carrying out work on immovable property, that transaction shall only be a supply of services connected with immovable property if the supplier assumes responsibility for the execution of the work.
+
+A supplier who provides the customer with equipment together with sufficient staff for its operation with a view to carrying out work shall be presumed to have assumed responsibility for the execution of that work. The presumption that the supplier has the responsibility for the execution of the work may be rebutted by any relevant means in fact or law.
+
+<a id="art_31c"></a>
+
+### Article 31c
+
+For the purpose of determining the place of supply of telecommunications, broadcasting or electronically supplied services provided by a taxable person acting in his own name together with accommodation in the hotel sector or in sectors with a similar function, such as holiday camps or sites developed for use as camping sites, those services shall be regarded as being supplied at those locations.
+
+## Subsection 7
+
+### **Supply of cultural, artistic, sporting, scientific, educational, entertainment, and similar services**
+
+<a id="art_32"></a>
+
+### Article 32
+
+1. Services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events as referred to in Article 53 of Directive 2006/112/EC shall include the supply of services of which the essential characteristics are the granting of the right of admission to an event in exchange for a ticket or payment, including payment in the form of a subscription, a season ticket or a periodic fee.
+
+2. Paragraph 1 shall apply in particular to:
+
+(a) the right of admission to shows, theatrical performances, circus performances, fairs, amusement parks, concerts, exhibitions, and other similar cultural events;
+
+(b) the right of admission to sporting events such as matches or competitions;
+
+(c) the right of admission to educational and scientific events such as conferences and seminars.
+
+3. Paragraph 1 shall not cover the use of facilities such as gymnastics halls and suchlike, in exchange for the payment of a fee.
+
+<a id="art_33"></a>
+
+### Article 33
+
+The ancillary services referred to in Article 53 of Directive 2006/112/EC shall include services which are directly related to admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events and which are supplied separately for a consideration to a person attending an event.
+
+Such ancillary services shall include in particular the use of cloakrooms or sanitary facilities but shall not include mere intermediary services relating to the sale of tickets.
+
+<a id="art_33a"></a>
+
+### Article 33a
+
+The supply of tickets granting access to a cultural, artistic, sporting, scientific, educational, entertainment or similar event by an intermediary acting in his own name but on behalf of the organiser or by a taxable person, other than the organiser, acting on his own behalf, shall be covered by Article 53 and Article 54(1) of Directive 2006/112/EC.
+
+## Subsection 8
+
+### **Supply of ancillary transport services and valuations of and work on movable property**
+
+<a id="art_34"></a>
+
+### Article 34
+
+Except where the goods being assembled become part of immovable property, the place of the supply of services to a non-taxable person consisting only of the assembly by a taxable person of the various parts of a machine, all of which were provided to him by his customer, shall be established in accordance with Article 54 of Directive 2006/112/EC.
+
+## Subsection 9
+
+### **Supply of restaurant and catering services on board means of transport**
+
+<a id="art_35"></a>
+
+### Article 35
+
+The section of a passenger transport operation effected within the Community as referred to in Article 57 of Directive 2006/112/EC shall be determined by the journey of the means of transport and not by the journey completed by each of the passengers.
+
+<a id="art_36"></a>
+
+### Article 36
+
+Where restaurant services and catering services are supplied during the section of a passenger transport operation effected within the Community, that supply shall be covered by Article 57 of Directive 2006/112/EC.
+
+Where restaurant services and catering services are supplied outside such a section but on the territory of a Member State or a third country or third territory, that supply shall be covered by Article 55 of that Directive.
+
+<a id="art_37"></a>
+
+### Article 37
+
+The place of supply of a restaurant service or catering service carried out within the Community partly during a section of a passenger transport operation effected within the Community, and partly outside such a section but on the territory of a Member State, shall be determined in its entirety according to the rules for determining the place of supply applicable at the beginning of the supply of the restaurant or catering service.
+
+## Subsection 10
+
+### **Hiring of means of transport**
+
+<a id="art_38"></a>
+
+### Article 38
+
+1. ‘Means of transport’ as referred to in Article 56 and point (g) of the first paragraph of Article 59 of Directive 2006/112/EC shall include vehicles, whether motorised or not, and other equipment and devices designed to transport persons or objects from one place to another, which might be pulled, drawn or pushed by vehicles and which are normally designed to be used and actually capable of being used for transport.
+
+2. The means of transport referred to in paragraph 1 shall include, in particular, the following vehicles:
+
+(a) land vehicles, such as cars, motor cycles, bicycles, tricycles and caravans;
+
+(b) trailers and semi-trailers;
+
+(c) railway wagons;
+
+(d) vessels;
+
+(e) aircraft;
+
+(f) vehicles specifically designed for the transport of sick or injured persons;
+
+(g) agricultural tractors and other agricultural vehicles;
+
+(h) mechanically or electronically propelled invalid carriages.
+
+3. Vehicles which are permanently immobilised and containers shall not be considered to be means of transport as referred to in paragraph 1.
+
+<a id="art_39"></a>
+
+### Article 39
+
+1. For the application of Article 56 of Directive 2006/112/EC, the duration of the continuous possession or use of a means of transport which is the subject of hiring shall be determined on the basis of the contract between the parties involved.
+
+The contract shall serve as a presumption which may be rebutted by any means in fact or law in order to establish the actual duration of the continuous possession or use.
+
+The fact that the contractual period of short-term hiring within the meaning of Article 56 of Directive 2006/112/EC is exceeded on grounds of force majeure shall have no bearing on the determination of the duration of the continuous possession or use of the means of transport.
+
+2. Where hiring of one and the same means of transport is covered by consecutive contracts between the same parties, the duration shall be that of the continuous possession or use of the means of transport provided for under the contracts as a whole.
+
+For the purposes of the first subparagraph a contract and its extensions shall be consecutive contracts.
+
+However, the duration of the short-term hire contract or contracts preceding a contract which is regarded as long-term shall not be called into question provided there is no abusive practice.
+
+3. Unless there is abusive practice, consecutive contracts between the same parties for different means of transport shall not be considered to be consecutive contracts for the purposes of paragraph 2.
+
+<a id="art_40"></a>
+
+### Article 40
+
+The place where the means of transport is actually put at the disposal of the customer as referred to in Article 56(1) of Directive 2006/112/EC, shall be the place where the customer or a third party acting on his behalf takes physical possession of it.
+
+## Subsection 11
+
+### **Supply of services to non-taxable persons outside the Community**
+
+<a id="art_41"></a>
+
+### Article 41
+
+The supply of services of translation of texts to a non-taxable person established outside the Community shall be covered by point (c) of the first paragraph of Article 59 of Directive 2006/112/EC.
+
+## CHAPTER VI
+
+### **(TITLE VII OF DIRECTIVE 2006/112/EC)**
+
+<a id="art_42"></a>
+
+### Article 42
+
+Where a supplier of goods or services, as a condition of accepting payment by credit or debit card, requires the customer to pay an amount to himself or another undertaking, and where the total price payable by that customer is unaffected irrespective of how payment is accepted, that amount shall constitute an integral part of the taxable amount for the supply of the goods or services, under Articles 73 to 80 of Directive 2006/112/EC.
+
+## CHAPTER VII
+
+### **RATES**
+
+<a id="art_43"></a>
+
+### Article 43
+
+‘Provision of holiday accommodation’ as referred to in point (12) of Annex III to Directive 2006/112/EC shall include the hiring out of tents, caravans or mobile homes installed on camping sites and used as accommodation.
+
+## *SECTION 1*
+
+### ***(Articles 132, 133 and 134 of Directive 2006/112/EC)***
+
+<a id="art_44"></a>
+
+### Article 44
+
+Vocational training or retraining services provided under the conditions set out in point (i) of Article 132(1) of Directive 2006/112/EC shall include instruction relating directly to a trade or profession as well as any instruction aimed at acquiring or updating knowledge for vocational purposes. The duration of a vocational training or retraining course shall be irrelevant for this purpose.
+
+## *SECTION 2*
+
+### ***(Articles 135, 136 and 137 of Directive 2006/112/EC)***
+
+<a id="art_45"></a>
+
+### Article 45
+
+The exemption provided for in point (e) of Article 135(1) of Directive 2006/112/EC shall not apply to platinum nobles.
+
+## *SECTION 2A*
+
+### ***(Articles 138 to 142 of Directive 2006/112/EC)***
+
+<a id="art_45a"></a>
+
+### Article 45a
+
+1. For the purpose of applying the exemptions laid down in Article 138 of Directive 2006/112/EC, it shall be presumed that goods have been dispatched or transported from a Member State to a destination outside its territory but within the Community in either of the following cases:
+
+(a) the vendor indicates that the goods have been dispatched or transported by him or by a third party on his behalf, and either the vendor is in possession of at least two items of non-contradictory evidence referred to in point (a) of paragraph 3 which were issued by two different parties that are independent of each other, of the vendor and of the acquirer, or the vendor is in possession of any single item referred to in point (a) of paragraph 3 together with any single item of non-contradictory evidence referred to in point (b) of paragraph 3 confirming the dispatch or transport which were issued by two different parties that are independent of each other, of the vendor and of the acquirer;
+
+(b) the vendor is in possession of the following:
+
+(i) a written statement from the acquirer, stating that the goods have been dispatched or transported by the acquirer, or by a third party on behalf of the acquirer, and identifying the Member State of destination of the goods; that written statement shall state: the date of issue; the name and address of the acquirer; the quantity and nature of the goods; the date and place of the arrival of the goods; in the case of the supply of means of transport, the identification number of the means of transport; and the identification of the individual accepting the goods on behalf of the acquirer; and
+
+(ii) at least two items of non-contradictory evidence referred to in point (a) of paragraph 3 that were issued by two different parties that are independent of each other, of the vendor and of the acquirer, or any single item referred to in point (a) of paragraph 3 together with any single item of non-contradictory evidence referred to in point (b) of paragraph 3 confirming the dispatch or transport which were issued by two different parties that are independent of each other, of the vendor and of the acquirer.
+
+The acquirer shall furnish the vendor with the written statement referred to in point (b)(i) by the tenth day of the month following the supply.
+
+2. A tax authority may rebut a presumption that has been made under paragraph 1.
+
+3. For the purposes of paragraph 1, the following shall be accepted as evidence of dispatch or transport:
+
+(a) documents relating to the dispatch or transport of the goods, such as a signed CMR document or note, a bill of lading, an airfreight invoice or an invoice from the carrier of the goods;
+
+(b) the following documents:
+
+(i) an insurance policy with regard to the dispatch or transport of the goods, or bank documents proving payment for the dispatch or transport of the goods;
+
+(ii) official documents issued by a public authority, such as a notary, confirming the arrival of the goods in the Member State of destination;
+
+(iii) a receipt issued by a warehouse keeper in the Member State of destination, confirming the storage of the goods in that Member State.
+
+## *SECTION 3*
+
+### ***(Articles 143, 144 and 145 of Directive 2006/112/EC)***
+
+<a id="art_46"></a>
+
+### Article 46
+
+The exemption provided for in Article 144 of Directive 2006/112/EC shall apply to transport services connected with the importation of movable property carried out as part of a change of residence.
+
+## *SECTION 4*
+
+### ***(Articles 146 and 147 of Directive 2006/112/EC)***
+
+<a id="art_47"></a>
+
+### Article 47
+
+‘Means of transport for private use’ as referred to in point (b) of Article 146(1) of Directive 2006/112/EC shall include means of transport used for non-business purposes by persons other than natural persons, such as bodies governed by public law within the meaning of Article 13 of that Directive and associations.
+
+<a id="art_48"></a>
+
+### Article 48
+
+In order to determine whether, as a condition for the exemption of the supply of goods carried in the personal luggage of travellers, the threshold set by a Member State in accordance with point (c) of the first subparagraph of Article 147(1) of Directive 2006/112/EC has been exceeded, the calculation shall be based on the invoice value. The aggregate value of several goods may be used only if all those goods are included on the same invoice issued by the same taxable person supplying goods to the same customer.
+
+## *SECTION 5*
+
+### ***(Articles 151 and 152 of Directive 2006/112/EC)***
+
+<a id="art_49"></a>
+
+### Article 49
+
+The exemption provided for in Article 151 of Directive 2006/112/EC shall also apply to electronic services where these are provided by a taxable person to whom the special scheme for electronically supplied services provided for in Articles 357 to 369 of that Directive applies.
+
+<a id="art_50"></a>
+
+### Article 50
+
+1. In order to qualify for recognition as an international body for the application of point (g) of Article 143(1) and point (b) of the first subparagraph of Article 151(1) of Directive 2006/112/EC a body which is to be set up as a European Research Infrastructure Consortium (ERIC), as referred to in Council Regulation (EC) No 723/2009 of 25 June 2009 on the Community legal framework for a European Research Infrastructure Consortium (ERIC) (5) shall fulfil all of the following conditions:
+
+(a) it shall have a distinct legal personality and full legal capacity;
+
+(b) it shall be set up under and shall be subject to European Union law;
+
+(c) its membership shall include Member States and, where appropriate, third countries and inter-governmental organisations, but exclude private bodies;
+
+(d) it shall have specific and legitimate objectives that are jointly pursued and essentially non-economic in nature.
+
+2. The exemption provided for in point (g) of Article 143(1) and point (b) of the first subparagraph of Article 151(1) of Directive 2006/112/EC shall apply to an ERIC referred to in paragraph 1 where it is recognised as an international body by the host Member State.
+
+The limits and conditions of such an exemption shall be laid down by agreement between the members of the ERIC in accordance with point (d) of Article 5(1) of Regulation (EC) No 723/2009. Where the goods are not dispatched or transported out of the Member State in which the supply takes place, and in the case of services, the exemption may be granted by means of a refund of the VAT in accordance with Article 151(2) of Directive 2006/112/EC.
+
+<a id="art_51"></a>
+
+### Article 51
+
+1. Where the recipient of a supply of goods or services is established within the Community but not in the Member State in which the supply takes place, the VAT and/or excise duty exemption certificate set out in Annex II to this Regulation shall, subject to the explanatory notes set out in the Annex to that certificate, serve to confirm that the transaction qualifies for the exemption under Article 151 of Directive 2006/112/EC.
+
+When making use of that certificate, the Member State in which the recipient of the supply of goods or services is established may decide to use either a common VAT and excise duty exemption certificate or two separate certificates.
+
+2. The certificate referred to in paragraph 1 shall be stamped by the competent authorities of the host Member State. However, if the goods or services are intended for official use, Member States may dispense the recipient from the requirement to have the certificate stamped under such conditions as they may lay down. This dispensation may be withdrawn in the case of abuse.
+
+Member States shall inform the Commission of the contact point designated to identify the services responsible for stamping the certificate and the extent to which they dispense with the requirement to have the certificate stamped. The Commission shall inform the other Member States of the information received from Member States.
+
+3. Where direct exemption is applied in the Member State in which the supply takes place, the supplier shall obtain the certificate referred to in paragraph 1 of this Article from the recipient of the goods or services and retain it as part of his records. If the exemption is granted by means of a refund of the VAT, pursuant to Article 151(2) of Directive 2006/112/EC, the certificate shall be attached to the request for refund submitted to the Member State concerned.
+
+## CHAPTER IX
+
+### **(TITLE X OF DIRECTIVE 2006/112/EC)**
+
+<a id="art_52"></a>
+
+### Article 52
+
+Where the Member State of importation has introduced an electronic system for completing customs formalities, the term ‘import document’ in point (e) of Article 178 of Directive 2006/112/EC shall cover electronic versions of such documents, provided that they allow for the exercise of the right of deduction to be checked.
+
+## *SECTION 1*
+
+### ***(Articles 192a to 205 of Directive 2006/112/EC)***
+
+<a id="art_53"></a>
+
+### Article 53
+
+1. For the application of Article 192a of Directive 2006/112/EC, a fixed establishment of the taxable person shall be taken into consideration only when it is characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to make the supply of goods or services in which it intervenes.
+
+2. Where a taxable person has a fixed establishment within the territory of the Member State where the VAT is due, that establishment shall be considered as not intervening in the supply of goods or services within the meaning of point (b) of Article 192a of Directive 2006/112/EC, unless the technical and human resources of that fixed establishment are used by him for transactions inherent in the fulfilment of the taxable supply of those goods or services made within that Member State, before or during this fulfilment.
+
+Where the resources of the fixed establishment are only used for administrative support tasks such as accounting, invoicing and collection of debt-claims, they shall not be regarded as being used for the fulfilment of the supply of goods or services.
+
+However, if an invoice is issued under the VAT identification number attributed by the Member State of the fixed establishment, that fixed establishment shall be regarded as having intervened in the supply of goods or services made in that Member State unless there is proof to the contrary.
+
+<a id="art_54"></a>
+
+### Article 54
+
+Where a taxable person has established his place of business within the territory of the Member State where the VAT is due, Article 192a of Directive 2006/112/EC shall not apply whether or not that place of business intervenes in the supply of goods or services he makes within that Member State.
+
+## *SECTION 1A*
+
+### ***(Articles 242 to 243 of Directive 2006/112/EC)***
+
+<a id="art_54a"></a>
+
+### Article 54a
+
+1. The register referred to in Article 243(3) of Directive 2006/112/EC that is to be kept by every taxable person who transfers goods under call-off stock arrangements shall contain the following information:
+
+(a) the Member State from which the goods were dispatched or transported, and the date of dispatch or transport of the goods;
+
+(b) the VAT identification number of the taxable person for whom the goods are intended, issued by the Member State to which the goods are dispatched or transported;
+
+(c) the Member State to which the goods are dispatched or transported, the VAT identification number of the warehouse keeper, the address of the warehouse at which the goods are stored upon arrival, and the date of arrival of the goods in the warehouse;
+
+(d) the value, description and quantity of the goods that arrived in the warehouse;
+
+(e) the VAT identification number of the taxable person substituting for the person referred to in point (b) of this paragraph under the conditions referred to in Article 17a(6) of Directive 2006/112/EC;
+
+(f) the taxable amount, description and quantity of the goods supplied and the date on which the supply of the goods referred to in point (a) of Article 17a(3) of Directive 2006/112/EC is made and the VAT identification number of the buyer;
+
+(g) the taxable amount, description and quantity of the goods, and the date of occurrence of any of the conditions and the respective ground in accordance with Article 17a(7) of Directive 2006/112/EC;
+
+(h) the value, description and quantity of the returned goods and the date of the return of the goods referred to in Article 17a(5) of Directive 2006/112/EC.
+
+2. The register referred to in Article 243(3) of Directive 2006/112/EC that is to be kept by every taxable person to whom goods are supplied under call-off stock arrangements shall contain the following information:
+
+(a) the VAT identification number of the taxable person who transfers goods under call-off stock arrangements;
+
+(b) the description and quantity of the goods intended for him;
+
+(c) the date on which the goods intended for him arrive in the warehouse;
+
+(d) the taxable amount, description and quantity of the goods supplied to him and the date on which the intra-Community acquisition of the goods referred to in point (b) of Article 17a(3) of Directive 2006/112/EC is made;
+
+(e) the description and quantity of the goods, and the date on which the goods are removed from the warehouse by order of the taxable person referred to in point (a);
+
+(f) the description and quantity of the goods destroyed or missing and the date of destruction, loss or theft of the goods that previously arrived in the warehouse or the date on which the goods were found to be destroyed or missing.
+
+Where the goods are dispatched or transported under call-off stock arrangements to a warehouse keeper different from the taxable person for whom the goods are intended to be supplied, the register of that taxable person does not need to contain the information referred to in points (c), (e) and (f) of the first subparagraph.
+
+## *SECTION 2*
+
+### ***(Articles 272 and 273 of Directive 2006/112/EC)***
+
+<a id="art_55"></a>
+
+### Article 55
+
+For the transactions referred to in Article 262 of Directive 2006/112/EC, taxable persons to whom a VAT identification number has been attributed in accordance with Article 214 of that Directive and non-taxable legal persons identified for VAT purposes shall be required, when acting as such, to communicate their VAT identification number forthwith to those supplying goods and services to them.
+
+The taxable persons referred to in point (b) of Article 3(1) of Directive 2006/112/EC, who are entitled to non-taxation of their intra-Community acquisitions of goods in accordance with the first paragraph of Article 4 of this Regulation, shall not be required to communicate their VAT identification number to those supplying goods to them when a VAT identification number has been attributed to them in accordance with Article 214(1)(d) or (e) of that Directive.
+
+## *SECTION 1*
+
+### ***(Articles 344 to 356 of Directive 2006/112/EC)***
+
+<a id="art_56"></a>
+
+### Article 56
+
+‘Weights accepted by the bullion markets’ as referred to in point (l) of Article 344(1) of Directive 2006/112/EC shall at least cover the units and the weights traded as set out in Annex III to this Regulation.
+
+<a id="art_57"></a>
+
+### Article 57
+
+For the purposes of establishing the list of gold coins referred to in Article 345 of Directive 2006/112/EC, ‘price’ and ‘open market value’ as referred to in point (2) of Article 344(1) of that Directive shall be the price and open market value on 1 April of each year. If 1 April does not fall on a day on which those values are fixed, the values of the next day on which they are fixed shall be used.
+
+## Subsection 1
+
+### **Definitions**
+
+<a id="art_57a"></a>
+
+### Article 57a
+
+For the purposes of this Section, the following definitions shall apply:
+
+(1) ‘non-Union scheme’ means the special scheme for telecommunications services, broadcasting services or electronic services supplied by taxable persons not established within the Community provided for in Section 2 of Chapter 6 of Title XII of Directive 2006/112/EC;
+
+(2) ‘Union scheme’ means the special scheme for telecommunications services, broadcasting services or electronic services supplied by taxable persons established within the Community but not established in the Member State of consumption provided for in Section 3 of Chapter 6 of Title XII of Directive 2006/112/EC;
+
+(3) ‘special scheme’ means the ‘non-Union scheme’ and/or the ‘Union scheme’ as the context requires;
+
+(4) ‘taxable person’ means a taxable person not established within the Community as defined in point (1) of Article 358a of Directive 2006/112/EC, or a taxable person not established in the Member State of consumption, as defined in point (1) of the first paragraph of Article 369a of that Directive.
+
+## Subsection 2
+
+### **Application of the Union scheme**
+
+<a id="art_57b"></a>
+
+### Article 57b
+
+Where a taxable person using the Union scheme has established his business within the Community, the Member State in which his place of business is established shall be the Member State of identification.
+
+Where a taxable person using the Union scheme has established his business outside the Community, but has more than one fixed establishment in the Community, he may choose any Member State in which he has a fixed establishment as the Member State of identification, in accordance with the second paragraph of Article 369a of Directive 2006/112/EC.
+
+## Subsection 3
+
+### **Scope of the Union scheme**
+
+<a id="art_57c"></a>
+
+### Article 57c
+
+The Union scheme shall not apply to telecommunications, broadcasting or electronic services supplied in a Member State where the taxable person has established his business or has a fixed establishment. The supplies of those services shall be declared to the competent tax authorities of that Member State in the VAT return as provided for under Article 250 of Directive 2006/112/EC.
+
+## Subsection 4
+
+### **Identification**
+
+<a id="art_57d"></a>
+
+### Article 57d
+
+When a taxable person informs the Member State of identification that he intends to make use of one of the special schemes, that special scheme shall apply as from the first day of the following calendar quarter.
+
+However, where the first supply of services to be covered by that special scheme takes place before the date referred to in the first paragraph, the special scheme shall apply as from the date of that first supply, provided the taxable person informs the Member State of identification of the commencement of his activities to be covered by the scheme no later than the tenth day of the month following that first supply.
+
+<a id="art_57e"></a>
+
+### Article 57e
+
+The Member State of identification shall identify the taxable person using the Union scheme by means of his VAT identification number as referred to in Articles 214 and 215 of Directive 2006/112/EC.
+
+<a id="art_57f"></a>
+
+### Article 57f
+
+1. Where a taxable person using the Union scheme ceases to meet the conditions of the definition laid down in point (2) of the first paragraph of Article 369a of Directive 2006/112/EC, the Member State in which he has been identified shall cease to be the Member State of identification. Where that taxable person still fulfils the conditions for using that special scheme, he shall, to continue using that scheme, indicate as the new Member State of identification the Member State in which he has established his business or, if he has not established his business in the Community, a Member State where he has a fixed establishment.
+
+2. Where the Member State of identification changes in accordance with paragraph 1, that change shall apply as from the date on which the taxable person ceases to have a business establishment or a fixed establishment in the Member State previously indicated as the Member State of identification.
+
+<a id="art_57g"></a>
+
+### Article 57g
+
+A taxable person using a special scheme may cease using that special scheme regardless of whether he continues to supply services which can be eligible for that special scheme. The taxable person shall inform the Member State of identification at least 15 days before the end of the calendar quarter prior to that in which he intends to cease using the scheme. Cessation shall be effective as of the first day of the next calendar quarter.
+
+VAT obligations relating to supplies of telecommunications, broadcasting or electronic services arising after the date on which the cessation became effective shall be discharged directly with the tax authorities of the Member State of consumption concerned.
+
+Where a taxable person ceases using a special scheme in accordance with the first paragraph, he shall be excluded from using that scheme in any Member State for two calendar quarters from the date of cessation.
+
+## Subsection 5
+
+### **Reporting obligations**
+
+<a id="art_57h"></a>
+
+### Article 57h
+
+1. A taxable person shall, no later than the tenth day of the next month, inform the Member State of identification by electronic means of:
+
+— the cessation of his activities covered by a special scheme,
+
+— any changes to his activities covered by a special scheme whereby he no longer meets the conditions necessary for using that special scheme, and
+
+— any changes to the information previously provided to the Member State of identification.
+
+2. Where the Member State of identification changes in accordance with Article 57f, the taxable person shall inform both relevant Member States of the change no later than the tenth day of the month following the change of establishment. He shall communicate to the new Member State of identification the registration details required when a taxable person makes use of a special scheme for the first time.
+
+## Subsection 6
+
+### **Exclusion**
+
+<a id="art_58"></a>
+
+### Article 58
+
+Where at least one of the criteria for exclusion laid down in Article 363 or Article 369e of Directive 2006/112/EC applies to a taxable person using one of the special schemes, the Member State of identification shall exclude that taxable person from that scheme.
+
+Only the Member State of identification can exclude a taxable person from using one of the special schemes.
+
+The Member State of identification shall base its decision on exclusion on any information available, including information provided by any other Member State.
+
+The exclusion shall be effective as from the first day of the calendar quarter following the day on which the decision on exclusion is sent by electronic means to the taxable person.
+
+However where the exclusion is due to a change of place of business or fixed establishment, the exclusion shall be effective as from the date of that change.
+
+<a id="art_58a"></a>
+
+### Article 58a
+
+A taxable person using a special scheme who has, for a period of eight consecutive calendar quarters, made no supplies of services covered by that scheme in any Member State of consumption, shall be assumed to have ceased his taxable activities within the meaning of point (b) of Article 363 or point (b) of Article 369e of Directive 2006/112/EC respectively. This cessation shall not preclude him from using a special scheme if he recommences his activities covered by either scheme.
+
+<a id="art_58b"></a>
+
+### Article 58b
+
+1. Where a taxable person is excluded from one of the special schemes for persistent failure to comply with the rules relating to that scheme, that taxable person shall remain excluded from using either scheme in any Member State for eight calendar quarters following the calendar quarter during which the taxable person was excluded.
+
+2. A taxable person shall be regarded as having persistently failed to comply with the rules relating to one of the special schemes, within the meaning of point (d) of Article 363 or point (d) of Article 369e of Directive 2006/112/EC, in at least the following cases:
+
+(a) where reminders pursuant to Article 60a have been issued to him by the Member State of identification, for three immediately preceding calendar quarters and the VAT return has not been submitted for each and every one of these calendar quarters within 10 days after the reminder has been sent;
+
+(b) where reminders pursuant to Article 63a have been issued to him by the Member State of identification, for three immediately preceding calendar quarters and the full amount of VAT declared has not been paid by him for each and every one of these calendar quarters within 10 days after the reminder has been sent, except where the remaining unpaid amount is less than EUR 100 for each calendar quarter;
+
+(c) where following a request from the Member State of identification or the Member State of consumption and one month after a subsequent reminder by the Member State of identification, he has failed to make electronically available the records referred to in Articles 369 and 369k of Directive 2006/112/EC.
+
+<a id="art_58c"></a>
+
+### Article 58c
+
+A taxable person who has been excluded from one of the special schemes shall discharge all VAT obligations relating to supplies of telecommunications, broadcasting or electronic services arising after the date on which the exclusion became effective directly with the tax authorities of the Member State of consumption concerned.
+
+## Subsection 7
+
+### **VAT return**
+
+<a id="art_59"></a>
+
+### Article 59
+
+1. Any return period within the meaning of Article 364 or Article 369f of Directive 2006/112/EC shall be a separate return period.
+
+2. Where, in accordance with the second paragraph of Article 57d, a special scheme applies from the date of the first supply, the taxable person shall submit a separate VAT return for the calendar quarter during which the first supply took place.
+
+3. Where a taxable person has been registered under each of the special schemes during a return period, he shall submit VAT returns and make the corresponding payments to the Member State of identification for each scheme in respect of the supplies made and the periods covered by that scheme.
+
+4. Where the Member State of identification changes in accordance with Article 57f after the first day of the calendar quarter in question, the taxable person shall submit VAT returns and make corresponding payments to both the former and the new Member State of identification covering the supplies made during the respective periods in which the Member States have been Member State of identification.
+
+<a id="art_59a"></a>
+
+### Article 59a
+
+Where a taxable person using a special scheme has supplied no services in any Member State of consumption under that special scheme during a return period, he shall submit a VAT return indicating that no supplies have been made during that period (a nil-VAT return).
+
+<a id="art_60"></a>
+
+### Article 60
+
+Amounts on VAT returns made under the special schemes shall not be rounded up or down to the nearest whole monetary unit. The exact amount of VAT shall be reported and remitted.
+
+<a id="art_60a"></a>
+
+### Article 60a
+
+The Member State of identification shall remind, by electronic means, taxable persons who have failed to submit a VAT return under Article 364 or Article 369f of Directive 2006/112/EC, of their obligation to submit such a return. The Member State of identification shall issue the reminder on the tenth day following that on which the return should have been submitted, and shall inform the other Member States by electronic means that a reminder has been issued.
+
+Any subsequent reminders and steps taken to assess and collect the VAT shall be the responsibility of the Member State of consumption concerned.
+
+Notwithstanding any reminders issued, and any steps taken, by a Member State of consumption, the taxable person shall submit the VAT return to the Member State of identification.
+
+<a id="art_61"></a>
+
+### Article 61
+
+1. Changes to the figures contained in a VAT return shall, after its submission, be made only by means of amendments to that return and not by adjustments to a subsequent return.
+
+2. The amendments referred to in paragraph 1 shall be submitted electronically to the Member State of identification within three years of the date on which the initial return was required to be submitted.
+
+However, the rules of the Member State of consumption on assessments and amendments shall remain unaffected.
+
+<a id="art_61a"></a>
+
+### Article 61a
+
+If a taxable person:
+
+(a) ceases to use one of the special schemes;
+
+(b) is excluded from one of the special schemes; or
+
+(c) changes the Member State of identification in accordance with Article 57f;
+
+he shall submit his final VAT return and the corresponding payment, and any corrections to or late submissions of previous returns, and the corresponding payments, to the Member State which was the Member State of identification at the time of the cessation, exclusion or change.
+
+## Subsection 8
+
+### **Currency**
+
+<a id="art_61b"></a>
+
+### Article 61b
+
+Where a Member State of identification whose currency is not the euro determines that VAT returns are to be made out in its national currency, that determination shall apply to the VAT returns of all taxable persons using the special schemes.
+
+## Subsection 9
+
+### **Payments**
+
+<a id="art_62"></a>
+
+### Article 62
+
+Without prejudice to the third paragraph of Article 63a, and to Article 63b, a taxable person shall make any payment to the Member State of identification.
+
+Payments of VAT made by the taxable person under Article 367 or Article 369i of Directive 2006/112/EC shall be specific to the VAT return submitted pursuant to Article 364 or Article 369f of that Directive. Any subsequent adjustment to the amounts paid shall be effected by the taxable person only by reference to that return and may neither be allocated to another return, nor adjusted on a subsequent return. Each payment shall refer to the reference number of that specific return.
+
+<a id="art_63"></a>
+
+### Article 63
+
+A Member State of identification which receives a payment in excess of that resulting from the VAT return submitted under Article 364 or Article 369f of Directive 2006/112/EC shall reimburse the overpaid amount directly to the taxable person concerned.
+
+Where a Member State of identification has received an amount in respect of a VAT return subsequently found to be incorrect, and that Member State has already distributed that amount to the Member States of consumption, those Member States of consumption shall each reimburse their respective part of any overpaid amount directly to the taxable person.
+
+However, where overpayments relate to periods up to and including the last return period in 2018, the Member State of identification shall reimburse the relevant portion of the corresponding part of the amount retained in accordance with Article 46(3) of Regulation (EU) No 904/2010 and the Member State of consumption shall reimburse the overpayment less the amount that shall be reimbursed by the Member State of identification.
+
+The Member States of consumption shall, by electronic means, inform the Member State of identification of the amount of those reimbursements.
+
+<a id="art_63a"></a>
+
+### Article 63a
+
+Where a taxable person has submitted a VAT return under Article 364 or Article 369f of Directive 2006/112/EC, but no payment has been made or the payment is less than that resulting from the return, the Member State of identification shall, by electronic means on the tenth day following the latest day on which the payment should have been made in accordance with Article 367 or Article 369i of Directive 2006/112/EC, remind the taxable person of any VAT payment outstanding.
+
+The Member State of identification shall by electronic means inform the Member States of consumption that the reminder has been sent.
+
+Any subsequent reminders and steps taken to collect the VAT shall be the responsibility of the Member State of consumption concerned. When such subsequent reminders have been issued by a Member State of consumption, the corresponding VAT shall be paid to that Member State.
+
+The Member State of consumption shall, by electronic means, inform the Member State of identification that a reminder has been issued.
+
+<a id="art_63b"></a>
+
+### Article 63b
+
+Where no VAT return has been submitted, or where the VAT return has been submitted late or is incomplete or incorrect, or where the payment of VAT is late, any interest, penalties or any other charges shall be calculated and assessed by the Member State of consumption. The taxable person shall pay such interests, penalties or any other charges directly to the Member State of consumption.
+
+## Subsection 10
+
+### **Records**
+
+<a id="art_63c"></a>
+
+### Article 63c
+
+1. In order to be regarded as sufficiently detailed within the meaning of Articles 369 and 369k of Directive 2006/112/EC, the records kept by the taxable person shall contain the following information:
+
+(a) the Member State of consumption to which the service is supplied;
+
+(b) the type of service supplied;
+
+(c) the date of the supply of service;
+
+(d) the taxable amount indicating the currency used;
+
+(e) any subsequent increase or reduction of the taxable amount;
+
+(f) the VAT rate applied;
+
+(g) the amount of VAT payable indicating the currency used;
+
+(h) the date and amount of payments received;
+
+(i) any payments on account received before the supply of service;
+
+(j) where an invoice is issued, the information contained on the invoice;
+
+(k) the name of the customer, where known to the taxable person;
+
+(l) the information used to determine the place where the customer is established or has his permanent address or usually resides.
+
+2. The information referred to in paragraph 1 shall be recorded by the taxable person in such a way that it can be made available by electronic means without delay and for each single service supplied.
+
+## CHAPTER XII
+
+### **FINAL PROVISIONS**
+
+<a id="art_64"></a>
+
+### Article 64
+
+Regulation (EC) No 1777/2005 is hereby repealed.
+
+References made to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV.
+
+<a id="art_65"></a>
+
+### Article 65
+
+This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 July 2011.
+
+However:
+
+— point (a) of Article 3, point (b) of Article 11(2), Article 23(1) and Article 24(1) shall apply from 1 January 2013,
+
+— point (b) of Article 3 shall apply from 1 January 2015,
+
+— point (c) of Article 11(2) shall apply until 31 December 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+**Article 7 of this Regulation**
+
+(1) Point (1) of Annex II to Directive 2006/112/EC:
+
+(a) Website hosting and webpage hosting;
+
+(b) automated, online and distance maintenance of programmes;
+
+(c) remote systems administration;
+
+(d) online data warehousing where specific data is stored and retrieved electronically;
+
+(e) online supply of on-demand disc space.
+
+(2) Point (2) of Annex II to Directive 2006/112/EC:
+
+(a) Accessing or downloading software (including procurement/accountancy programmes and anti-virus software) plus updates;
+
+(b) software to block banner adverts showing, otherwise known as Bannerblockers;
+
+(c) download drivers, such as software that interfaces computers with peripheral equipment (such as printers);
+
+(d) online automated installation of filters on websites;
+
+(e) online automated installation of firewalls.
+
+(3) Point (3) of Annex II to Directive 2006/112/EC:
+
+(a) Accessing or downloading desktop themes;
+
+(b) accessing or downloading photographic or pictorial images or screensavers;
+
+(c) the digitised content of books and other electronic publications;
+
+(d) subscription to online newspapers and journals;
+
+(e) weblogs and website statistics;
+
+(f) online news, traffic information and weather reports;
+
+(g) online information generated automatically by software from specific data input by the customer, such as legal and financial data, (in particular such data as continually updated stock market data, in real time);
+
+(h) the provision of advertising space including banner ads on a website/web page;
+
+(i) use of search engines and Internet directories.
+
+(4) Point (4) of Annex II to Directive 2006/112/EC:
+
+(a) Accessing or downloading of music on to computers and mobile phones;
+
+(b) accessing or downloading of jingles, excerpts, ringtones, or other sounds;
+
+(c) accessing or downloading of films;
+
+(d) downloading of games on to computers and mobile phones;
+
+(e) accessing automated online games which are dependent on the Internet, or other similar electronic networks, where players are geographically remote from one another;
+
+(f) receiving radio or television programmes distributed via a radio or television network, the internet or similar electronic network for listening to or viewing programmes at the moment chosen by the user and at the user’s individual request on the basis of a catalogue of programmes selected by the media service provider such as TV or video on demand;
+
+(g) receiving radio or television programmes distributed via the internet or similar electronic network (IP streaming) unless they are broadcast simultaneous to their being transmitted or retransmitted over a radio and television network;
+
+(h) the supply of audio and audiovisual content via communications networks which is not provided by and under the editorial responsibility of a media service provider;
+
+(i) the onward supply of the audio and audiovisual output of a media service provider via communications networks by someone other than the media service provider.
+
+(5) Point (5) of Annex II to Directive 2006/112/EC:
+
+(a) Automated distance teaching dependent on the Internet or similar electronic network to function and the supply of which requires limited or no human intervention, including virtual classrooms, except where the Internet or similar electronic network is used as a tool simply for communication between the teacher and student;
+
+(b) workbooks completed by pupils online and marked automatically, without human intervention.
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+**Article 51 of this Regulation**
+
+**Explanatory notes**
+
+1. For the supplier and/or the authorised warehousekeeper, this certificate serves as a supporting document for the tax exemption of the supplies of goods and services or the consignments of goods to the eligible bodies/individuals referred to in Article 151 of Directive 2006/112/EC and Article 13 of Directive 2008/118/EC. Accordingly, one certificate shall be drawn up for each supplier/warehousekeeper. Moreover, the supplier/warehousekeeper is required to keep this certificate as part of his records in accordance with the legal provisions applicable in his Member State.
+
+2.
+
+(a) The general specification of the paper to be used is as laid down in the *Official Journal of the European Communities* C 164 of 1.7.1989, p. 3.
+
+The paper is to be white for all copies and should be 210 millimetres by 297 millimetres with а maximum tolerance of 5 millimetres less or 8 millimetres more with regard to their length.
+
+For an exemption from excise duty the exemption certificate shall be drawn up in duplicate:
+
+— one copy to be kept by the consignor,
+
+— one copy to accompany the movement of the products subject to excise duty.
+
+(b) Any unused space in box 5.B. is to be crossed out so that nothing can be added.
+
+(c) The document must be completed legibly and in a manner that makes entries indelible. No erasures or overwriting are permitted. It shall be completed in a language recognised by the host Member State.
+
+(d) If the description of the goods and/or services (box 5.B of the certificate) refers to a purchase order form drawn up in a language other than a language recognised by the host Member Stale, a translation must be attached by the eligible body/individual.
+
+(e) On the other hand, if the certificate is drawn up in a language other than a language recognised by the Member State of the supplier/warehousekeeper, a translation of the information concerning the goods and services in box 5.B must be attached by the eligible body/individual.
+
+(f) A recognised language means one of the languages officially in use in the Member State or any other official language of the Union which the Member State declares can be used for this purpose.
+
+3. By its declaration in box 3 of the certificate, the eligible body/individual provides the information necessary for the evaluation of the request for exemption in the host Member State.
+
+4. By its declaration in box 4 of the certificate, the body confirms the details in boxes 1 and 3(a) of the document and certifies that the eligible individual is a staff member of the body.
+
+5.
+
+(a) The reference to the purchase order form (box 5.B of the certificate) must contain at least the date and order number. The order form should contain all the elements that figure at box 5 of the certificate. If the certificate has to be stamped by the competent authority of the host Member State, the order form shall also be stamped.
+
+(b) The indication of the excise identification number as defined in Article 22(2)(a) of Council Regulation (EC) No 2073/2004 of 16 November 2004 on administrative cooperation in the field of excise duties is optional; the VAT identification number or tax reference number must be indicated.
+
+(c) The currencies should be indicated by means of a three-letter code in conformity with the ISO code 4217 standard established by the International Standards Organisation (6).
+
+6. The abovementioned declaration by the eligible body/individual; shall be authenticated at box 6 by the stamp of the competent authority of the host Member State. That authority can make its approval dependent on the agreement of another authority in its Member State. It is up to the competent tax authority to obtain such an agreement.
+
+7. To simplify the procedure, the competent authority can dispense with the obligation on the eligible body to ask for the stamp in the case of exemption for official use. The eligible body should mention this dispensation at box 7 of the certificate.
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+**Article 56 of this Regulation**
+
+| Unit | Weights traded |
+| --- | --- |
+| Kg | 12,5/1 |
+| Gram | 500/250/100/50/20/10/5/2,5/2 |
+| Ounce (1 oz = 31,1035 g) | 100/10/5/1/1/2/1/4 |
+| Tael (1 tael = 1,193 oz) (1) | 10/5/1 |
+| Tola (10 tolas = 3,75 oz) (2) | 10 |
+| (1)Tael = a traditional Chinese unit of weight. The nominal fineness of a Hong Kong tael bar is 990 but in Taiwan 5 and 10 tael bars can be 999,9 fineness.(2)Tola = a traditional Indian unit of weight for gold. The most popular sized bar is 10 tola, 999 fineness. |  |
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+**Correlation Table**
+
+| Regulation (EC) No 1777/2005 | This Regulation |
+| --- | --- |
+| Chapter I | Chapter I |
+| Article 1 | Article 1 |
+| Chapter II | Chapters III and IV |
+| Section 1 of Chapter II | Chapter III |
+| Article 2 | Article 5 |
+| Section 2 of Chapter II | Chapter IV |
+| Article 3(1) | Article 9 |
+| Article 3(2) | Article 8 |
+| Chapter III | Chapter V |
+| Section 1 of Chapter III | Section 4 of Chapter V |
+| Article 4 | Article 28 |
+| Section 2 of Chapter III | Section 4 of Chapter V |
+| Article 5 | Article 34 |
+| Article 6 | Articles 29 and 41 |
+| Article 7 | Article 26 |
+| Article 8 | Article 27 |
+| Article 9 | Article 30 |
+| Article 10 | Article 38(2)(b) and (c) |
+| Article 11(1) and (2) | Article 7(1) and (2) |
+| Article 12 | Article 7(3) |
+| Chapter IV | Chapter VI |
+| Article 13 | Article 42 |
+| Chapter V | Chapter VIII |
+| Section 1 of Chapter V | Section 1 of Chapter VIII |
+| Article 14 | Article 44 |
+| Article 15 | Article 45 |
+| Section 2 of Chapter V | Section 4 of Chapter VIII |
+| Article 16 | Article 47 |
+| Article 17 | Article 48 |
+| Chapter VI | Chapter IX |
+| Article 18 | Article 52 |
+| Chapter VII | Chapter XI |
+| Article 19(1) | Article 56 |
+| Article 19(2) | Article 57 |
+| Article 20(1) | Article 58 |
+| Article 20(2) | Article 62 |
+| Article 20(3), first subparagraph | Article 59 |
+| Article 20(3), second subparagraph | Article 60 |
+| Article 20(3), third subparagraph | Article 63 |
+| Article 20(4) | Article 61 |
+| Chapter VIII | Section 3 of Chapter V |
+| Article 21 | Article 16 |
+| Article 22 | Article 14 |
+| Chapter IX | Chapter XII |
+| Article 23 | Article 65 |
+| Annex I | Annex I |
+| Annex II | Annex III |
+
+(1) OJ L 268, 12.10.2010, p. 1.
+
+(2) OJ L 326, 21.11.1986, p. 40.
+
+(3) Council Implementing Regulation (EU) 2017/2459 of 5 December 2017 amending Implementing Regulation (EU) No 282/2011 laying down implementing measures for Directive 2006/112/EC on the common system of value added tax (OJ L 348, 29.12.2017, p. 32).
+
+(4) OJ L 44, 20.2.2008, p. 23.
+
+(5) OJ L 206, 8.8.2009, p. 1.
+
+(6) As an indication, some codes relating to currencies currently used: EUR (euro), BGN (lev), CZK (Czech koruna), DKK (Danish krone), GBP (pound sterling), HUF (forint), LTL (litas), PLN (zloty), RON (Romanian leu), SEK (Swedish krona), USD (United States dollar).

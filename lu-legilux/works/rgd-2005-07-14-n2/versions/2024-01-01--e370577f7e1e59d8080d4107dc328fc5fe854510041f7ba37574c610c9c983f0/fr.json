@@ -1,0 +1,109 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 14 juillet 2005 concernant la composition, l'organisation et le fonctionnement du Conseil Supérieur pour le Développement Durable.",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2005-07-14-n2/versions/2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0/fr.xml",
+    "sha256": "913271f33e0b472a7b7db18a3680410d93ebea9a28496d001740486278ec88e9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/art_1er/20050725",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-07-25",
+      "text_md": "**(1)** Le Conseil Supérieur pour le Développement Durable, dénommé ci-après «Conseil Supérieur», se compose de 15 membres choisis en raison de leurs compétence et expérience en matière de développement durable.\n\n**(2)** Le secrétariat est placé sous l'autorité du ministre qui assure également la coordination des activités du Conseil Supérieur.",
+      "text_sha256": "26b8292481ef11ad63fff364082d630e6d4cecce02753f151ee960b2f5770b73",
+      "md_span": {
+        "start": 757,
+        "end": 1103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/art_2/20050725",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-07-25",
+      "text_md": "**(1)** Le président et les deux vice-présidents du Conseil Supérieur sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil, et les autres membres par le Gouvernement en conseil pour un terme de quatre ans. Le mandat des membres sortants est renouvelable.\n\n**(2)** En cas de vacance de poste, il sera procédé à la nomination d'un nouveau membre qui termine le mandat de celui qu'il remplace.",
+      "text_sha256": "6f3d8121666591915b901aed52409b2db3c8664f4ec476899f274ee8ca3d13e7",
+      "md_span": {
+        "start": 1138,
+        "end": 1548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/art_3/20050725",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-07-25",
+      "text_md": "**(1)** Le Conseil Supérieur arrête son règlement d'ordre intérieur, qui détermine les modalités spécifiques à respecter concernant les convocations et l'ordre du jour, la périodicité des réunions ainsi que le mode de votation à respecter.\n\n**(2)** En cas de besoin, le président du Conseil Supérieur peut faire appel à un ou plusieurs experts ou mettre en place des groupes de travail.",
+      "text_sha256": "d34fe05209c83087e9d2d194c79a00869353047ffeb2c3a4b178c1329aa4eeca",
+      "md_span": {
+        "start": 1583,
+        "end": 1969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/art_4/20240101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "**(1)** Les membres du Conseil Supérieur ont droit à une indemnité de 21,56 EUR par séance plénière.\n\n**(2)** Les indemnités sont liquidées à la fin de chaque année sur présentation au Ministère en charge de la coordination interministérielle du développement durable d'un état collectif indiquant pour les membres du Conseil Supérieur, les sommes dues à titre d'indemnité. Ledit état devra être certifié exact par le Président du Conseil Supérieur.\n\nLe président, les vice-présidents et les membres ont droit au remboursement de leurs frais de route pour assister aux réunions plénières conformément aux dispositions concernant les frais de route des fonctionnaires de l'Etat.",
+      "text_sha256": "c4f08356ad48fd03795a7ac6894d92acd690723fa748559f9663d6fd8338d27d",
+      "md_span": {
+        "start": 2004,
+        "end": 2681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2005-07-14-n2:2024-01-01--e370577f7e1e59d8080d4107dc328fc5fe854510041f7ba37574c610c9c983f0#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n2/art_5/20050725",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-07-25",
+      "text_md": "Notre Ministre de l'Environnement et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "2ca699ddd44f4e3b639309fa960928047e881c1c55216979e1939794e186b7f3",
+      "md_span": {
+        "start": 2716,
+        "end": 2899
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

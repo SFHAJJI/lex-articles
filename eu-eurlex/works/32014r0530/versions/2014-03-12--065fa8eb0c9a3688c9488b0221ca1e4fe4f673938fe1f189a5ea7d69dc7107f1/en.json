@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 530/2014 of 12 March 2014 supplementing Directive 2013/36/EU",
+  "valid_from": "2014-03-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0530/versions/2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1/en.xml",
+    "sha256": "c1d21f2096ebdad073f802e22552f4772ae15f96daf24007a0fbafbb73be8612",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0530"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAn institution's exposure to specific risk of debt instruments shall be considered to be material in absolute terms where the sum of all net long and net short positions, as defined in Article 327 of Regulation (EU) No 575/2013, is greater than EUR 1 000 000 000.",
+      "text_sha256": "78dec514f75454f79005821908aa462c5788151ae0c8a3d3ec68d81872fcb430",
+      "md_span": {
+        "start": 711,
+        "end": 985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAn institution's specific risk portfolio shall be considered to comprise a large number of material positions in debt instruments of different issuers where the portfolio includes more than 100 positions, each of which is greater than EUR 2 500 000, whether those positions are net long or net short, as defined in Article 327 of Regulation (EU) No 575/2013.",
+      "text_sha256": "de38c5e465d4fe004792e71575bfc9e453ad2bf02746913b974aaaed10a59570",
+      "md_span": {
+        "start": 1018,
+        "end": 1387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 1420,
+        "end": 1571
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

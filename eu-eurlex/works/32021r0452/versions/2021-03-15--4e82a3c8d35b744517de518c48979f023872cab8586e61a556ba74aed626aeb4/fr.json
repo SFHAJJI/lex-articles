@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0452:2021-03-15--4e82a3c8d35b744517de518c48979f023872cab8586e61a556ba74aed626aeb4",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2021/452 of 15\u00A0March 2021 correcting the Romanian language vers…",
+  "valid_from": "2021-03-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0452/versions/2021-03-15--4e82a3c8d35b744517de518c48979f023872cab8586e61a556ba74aed626aeb4/fr.xml",
+    "sha256": "0df3ca1a0f56c5e1a9d82793fbb5800f64c5a24868be2f185d8e589bab8b23c6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R0452"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0452:2021-03-15--4e82a3c8d35b744517de518c48979f023872cab8586e61a556ba74aed626aeb4#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n(ne concerne pas la version française)",
+      "text_sha256": "a197b60e39e164ca9717e535f61b9250c2b47f57f7f61f697c88ffe55fb20ab4",
+      "md_span": {
+        "start": 702,
+        "end": 757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0452:2021-03-15--4e82a3c8d35b744517de518c48979f023872cab8586e61a556ba74aed626aeb4#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 790,
+        "end": 931
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

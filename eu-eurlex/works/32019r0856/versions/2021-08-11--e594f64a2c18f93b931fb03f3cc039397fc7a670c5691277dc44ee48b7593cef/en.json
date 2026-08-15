@@ -1,0 +1,667 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/856 of 26 February 2019 supplementing Directive 2003/87/EC",
+  "valid_from": "2021-08-11",
+  "valid_to": "2023-11-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0856/versions/2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef/en.html",
+    "sha256": "b201c68c68d3fa00f64940b42d974b4db70cffd6a183b6c13d0a70bcf3e7c14e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0856-20210811"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I — General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down detailed rules supplementing Directive 2003/87/EC as regards:\n\n(a) the operational objectives of the Innovation Fund established by Article 10a(8) of Directive 2003/87/EC;\n\n(b) the forms of support provided under the Innovation Fund;\n\n(c) the application procedure for the Innovation Fund support;\n\n(d) the procedure and criteria for project selection under the Innovation Fund;\n\n(e) disbursement of the Innovation Fund support;\n\n(f) the governance of the Innovation Fund;\n\n(g) reporting, monitoring, evaluation, control, and publicity concerning the operation of the Innovation Fund.",
+      "text_sha256": "2d38399d4e8fe40410e1f46ae041a94eb864f473769009cb18085580c8a0e3dc",
+      "md_span": {
+        "start": 782,
+        "end": 1392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation the following definitions apply:\n\n(1) ‘financial close’ means the moment in the project development cycle where all the project and financing agreements have been signed and all the required conditions contained in them have been met;\n\n(2) ‘entry into operation’ means the moment in the project development cycle where all elements and systems required for operation of the project have been tested and activities resulting in effective avoidance of greenhouse gas emissions have commenced;\n\n(3) ‘small-scale project’ means a project with a total capital expenditure not exceeding EUR 7 500 000 .",
+      "text_sha256": "abbd8534c8d659181e9c89260b4a08fd961501b918144e6d34531be7e01b7049",
+      "md_span": {
+        "start": 1443,
+        "end": 2075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Operational objectives",
+      "path": [
+        "CHAPTER I — General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Innovation Fund shall have the following operational objectives:\n\n(a) to support projects demonstrating highly innovative technologies, processes or products, that are sufficiently mature and have a significant potential to reduce greenhouse gas emissions;\n\n(b) to offer financial support tailored to market needs and risk profiles of eligible projects, while attracting additional public and private resources;\n\n(c) to ensure that the revenues of the Innovation Fund are managed in accordance with the objectives of Directive 2003/87/EC.",
+      "text_sha256": "c1dc1155f0c88087f018b5dcdd3a5a037264bb4180405941189893f86615d603",
+      "md_span": {
+        "start": 2137,
+        "end": 2679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Forms of the Innovation Fund support",
+      "path": [
+        "CHAPTER I — General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Innovation Fund support to the project may take the following forms:\n\n(a) grants;\n\n(b) contributions to blending operations under the Union investment support instrument;\n\n(c) where necessary to achieve the objectives of Directive 2003/87/EC, funding in any of the other form laid down in Regulation (EU, Euratom) 2018/1046 (the ‘Financial Regulation’), in particular prizes, and procurement.",
+      "text_sha256": "74c385411e2c81a772206859a5b3bc8360338ff3cb05baed0c1300fe66e0000d",
+      "md_span": {
+        "start": 2755,
+        "end": 3151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Relevant costs",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of the fourth sentence of the third subparagraph of Article 10a(8) of Directive 2003/87/EC, the relevant costs shall be the additional costs that are borne by the project proponent as a result of the application of the innovative technology related to the reduction or avoidance of the greenhouse gas emissions. The relevant costs shall be calculated as the difference between the best estimate of the total capital expenditure, the net present value of operating costs and benefits arising during 10 years after the entry into operation of the project compared to the result of the same calculation for a conventional production with the same capacity in terms of effective production of the respective final product.\n\nWhere conventional production referred to in the first subparagraph does not exist, the relevant costs shall be the best estimate of the total capital expenditure and the net present value of operating costs and benefits arising during 10 years after the entry into operation of the project.\n\n**2.** The relevant costs of a small-scale project shall be the total capital expenditure costs of that project.",
+      "text_sha256": "fb5e835198181cdd38b7e1e3bc788f6eb50707ad5b10900ad7b861f3eef8c504",
+      "md_span": {
+        "start": 3263,
+        "end": 4412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Disbursement of grants",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Innovation Fund support, in the form of a grant, shall be disbursed upon reaching the pre-determined milestones.\n\n**2.** For all projects, the milestones referred to in paragraph 1 shall be based on the project development cycle and shall be at least the following:(a) financial close;(b) entry into operation.\n\n**3.** Taking into account the technology deployed and the specific circumstances of the sector or sectors in which it is being deployed, additional specific milestones may be determined in the contractual documents.\n\n**4.** Up to 40 % of the total amount of the Innovation Fund support, including project development assistance, to a specific project shall be disbursed upon financial close or upon reaching a specific milestone preceding financial close where such a milestone has been determined in accordance with paragraph 3.\n\n**5.** To the extent that the total amount of the Innovation Fund support to a specific project has not been disbursed pursuant to paragraph 4, that amount shall be disbursed after the financial close. It may be partially disbursed prior to the entry into operation and in annual instalments after the entry into operation.\n\n**6.** For the purposes of paragraphs 4 and 5 of this Article, the total amount of the Innovation Fund support provided to a specific project shall include the amount of the Innovation Fund support provided to that project by way of project development assistance in accordance with Article 13.",
+      "text_sha256": "6653ebc3f1863086d1911e472efa8830d1ffa1050feede96d1ec2c291b20a6bf",
+      "md_span": {
+        "start": 4474,
+        "end": 5948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "General recovery rules",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall take appropriate measures to ensure that, where activities financed under this Regulation are implemented, the financial interests of the Innovation Fund are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and, if irregularities are detected, by the recovery of the amounts unduly paid and, where appropriate, by effective, proportionate and dissuasive administrative and financial penalties.\n\n**2.** Recoveries shall be implemented in accordance with the Financial Regulation.\n\n**3.** The grounds for recovery as well as the recovery procedures shall be further specified in the contractual documentation.",
+      "text_sha256": "f7c4f8b00d9f371a975198ee936eae96fad05d1735b6c515e5c12bda5eb3afb5",
+      "md_span": {
+        "start": 6010,
+        "end": 6728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Special recovery rules",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The amount of the Innovation Fund support disbursed in accordance with paragraph 5 of Article 6 after the financial close shall be dependent on the avoidance of greenhouse gas emissions verified on the basis of annual reports submitted by the project proponent for a period between 3 to 10 years following the entry into operation. The final annual report submitted by the project proponent shall include the total amount of greenhouse gas emissions avoided during the entire reporting period.\n\n**2.** Where the total amount of greenhouse gas emissions avoided during the entire reporting period is lower than 75 % of the total amount of greenhouse gas emissions planned to be avoided, the amount paid or to be paid to the project proponent in accordance with paragraph 5 of Article 6 shall be proportionally recovered or reduced.\n\n**3.** Where the project fails to enter into operation by the pre-determined time or the project proponent fails to demonstrate any real avoidance of greenhouse gas emissions, the amount paid after the financial close in accordance with paragraph 5 of Article 6 shall be fully recovered.\n\n**4.** Where the situations referred to in paragraphs 2 and 3 occur due to extraordinary circumstances that are beyond the control of the project proponent and the project proponent demonstrates the project's potential to achieve an avoidance of greenhouse gas emissions beyond the reported amount, or where the project proponent demonstrates that the project can achieve significant low-carbon innovation benefits, the Commission may decide not to apply the recovery mechanisms under paragraphs 2 and 3.\n\n**5.** The ground for recovery and recovery procedures shall be further specified in the contractual documentation.\n\n**6.** The rules laid down in paragraphs 3 and 4 of this Article shall be without prejudice to general recovery rules under Article 7.",
+      "text_sha256": "19656108de3e32093afc4db8854c593f22dab59aa57ba469f13e5b1459dc09e0",
+      "md_span": {
+        "start": 6790,
+        "end": 8675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Calls for proposals",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The project proponents shall be invited to apply for the Innovation Fund support through open calls for proposals launched by the Commission.\n\nBefore adopting a decision launching a call for proposals, the Commission shall consult the Member States on the draft decision.\n\n**2.** The Commission decision launching the calls for proposals shall include at least the following:(a) the overall amount of the Innovation Fund support available for the call;(b) the maximum amount of the Innovation Fund support available for project development assistance;(c) the types of solicited projects or sectors;▼M1(d) a description of the application procedure, specifying whether a one-phase or two-phase procedure applies, and a detailed list of information and documentation to be submitted with the application;▼B(e) detailed information on the selection procedure, including the methodology for evaluation and ranking;▼M1(f) where small-scale projects are subject to a simplified application procedure in accordance with Article 10(4) and to a specific selection procedure in accordance with Article 12b, the rules on those specific procedures;▼B(g) where the Commission reserves a part of the total amount of the Innovation Fund support available for the call to small-scale projects, the amount of that part;(h) where additional selection criteria aimed at achieving a geographically balanced distribution of the Innovation Fund support are applied in accordance with Article 11(2), those criteria.",
+      "text_sha256": "c86559aa774999dcf7b2cf2409fbd69ac41dc390ced2777fb4089eb20cdc594d",
+      "md_span": {
+        "start": 8734,
+        "end": 10233
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Application procedure",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The implementing body shall collect the applications and organise the application procedure as determined pursuant to Article 9(2), point (d).\n\n**2.** The two-phase application procedure shall consist of the following subsequent phases:(a) the expression of interest phase;(b) the full application phase.\n\nAt the expression of interest phase, the project proponent shall submit a description of key project characteristics in line with the requirements laid down in the relevant call for proposals, including the description of the project’s effectiveness, degree of innovation, and maturity as specified in Article 11(1), points (a), (b) and (c).\n\nAt the full application phase, the project proponent shall submit a detailed description of the project and all supporting documentation, including the knowledge-sharing plan.\n\n**3.** Where the one-phase application procedure applies, the project proponent shall submit a full application as described in paragraph 2, third subparagraph.\n\n**4.** A simplified application procedure may be applied for small-scale projects.",
+      "text_sha256": "e228130d988c20ab63a1fe77933a8edf4243ae2a513bdb541fbe6b9808a6dc84",
+      "md_span": {
+        "start": 10296,
+        "end": 11373
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Selection criteria",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The selection of projects for the Innovation Fund support shall be based on the following criteria:(a) effectiveness in terms of greenhouse gas emission avoidance potential, where applicable, compared to the benchmarks referred to in Article 10a(2) of Directive 2003/87/EC;(b) degree of innovation of the projects compared to the state of the art;(c) project maturity in terms of planning, business model, financial and legal structure as well as prospect of reaching the financial close within a pre-defined period of time not exceeding four years after the award decision;(d) technical and market potential for widespread application or replication, or for future cost reductions;(e) efficiency in terms of the relevant costs of the project minus any contribution to those costs from the project proponent, divided by the total projected amount of greenhouse gas emissions to be avoided or energy to be produced or stored or CO2 to be stored in the first 10 years of operation.\n\n**2.** Additional criteria aimed at achieving a geographically balanced distribution of the Innovation Fund support may also be applied for the purposes of project selection.",
+      "text_sha256": "9ec711542cd97af99905ea629e8d749bab834b4c3292c87b3f6481a1caf430f2",
+      "md_span": {
+        "start": 11433,
+        "end": 12595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Selection procedure for the two-phase application procedure",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Based on the applications received at the expression of interest phase, the implementing body shall assess, for each project, the eligibility in accordance with Article 10a(8) of Directive 2003/87/EC. The implementing body shall then proceed with the selection of eligible projects under paragraphs 2 and 3 of this Article.\n\n**2.** Based on the applications received at the expression of interest phase, the implementing body shall draw up a list of the projects that meet the selection criteria laid down in points (a), (b) and (c) of Article 11(1) and shall invite the proponents of those projects to submit a full application.\n\nWhere the implementing body concluded that a project meets the selection criteria laid down in points (a) and (b) of Article 11(1), but does not meet the criterion laid down in point (c) of Article 11(1), the implementing body shall assess whether that project has the potential to meet all selection criteria if further developed. Where the project has such a potential, the implementing body may award project development assistance to the project concerned or, where the Commission implements that task, propose to the Commission to award project development assistance to the project.\n\n**3.** Based on the full application received in accordance with paragraph 2 of this Article, the implementing body shall proceed with the project evaluation and ranking based on all selection criteria laid down in Article 11. For the purposes of that evaluation, the implementing body shall compare the projects with the projects in the same sector as well as with projects in other sectors, and shall draw up a list of pre-selected projects.\n\n**4.** The list of pre-selected projects referred to in paragraph 3 and, where applicable, the suggestion referred to in the second subparagraph of paragraph 2 shall be communicated to the Commission and shall include at least the following:(a) a confirmation of the compliance with the eligibility and selection criteria;(b) details on project evaluation and ranking;(c) total project costs and relevant costs referred to in Article 5, in euro;(d) the request for the total Innovation Fund support in euro,(e) the projected amount of greenhouse gas emissions to be avoided;(f) the projected amount of energy to be produced or stored;(g) the projected amount of CO2 to be stored;(h) information on the legal form of the Innovation Fund support requested by the project proponent.\n\n**5.** On the basis of what was communicated pursuant to paragraph 4 of this Article, the Commission shall, after consulting the Member States in accordance with Article 21(2), adopt the award decision specifying the support to the selected projects and, where appropriate, draw up a reserve list.",
+      "text_sha256": "fa8fa4aec4a5b963ffb7f3775e7509e668a7381544f850647f3c5fc60a6c8148",
+      "md_span": {
+        "start": 12696,
+        "end": 15447
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12a",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_12a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12a",
+      "heading": "Selection procedure for the one-phase application procedure",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Based on the applications received, the implementing body shall assess, for each project, the eligibility in accordance with Article 10a(8) of Directive 2003/87/EC. The implementing body shall then proceed with the selection of eligible projects under paragraphs 2 and 3 of this Article.\n\n**2.** Based on the applications received, the implementing body shall draw up a list of the projects that meet the selection criteria laid down in Article 11 and shall proceed with the project evaluation and ranking based on the selection criteria laid down in that Article. For the purposes of that evaluation, the implementing body shall compare the projects with the projects in the same sector as well as with projects in other sectors. At the end of the evaluation, the implementing body shall draw up a list of pre-selected projects.\n\n**3.** Where the implementing body concludes that a project meets the selection criteria laid down in Article 11(1), points (a), (b), (d) and (e) and, where applicable, the selection criterion established in accordance with Article 11(2), but does not meet the criterion laid down in Article 11(1), point (c), the implementing body shall assess whether that project has the potential to meet that selection criterion if further developed. Where the project has such a potential, the implementing body may award project development assistance to the project concerned or, where the Commission awards project development assistance, propose to the Commission to award project development assistance to the project.\n\n**4.** The list of pre-selected projects referred to in paragraph 2 and, where applicable, the suggestion referred to in paragraph 3 shall be communicated to the Commission and shall include at least the following:(a) a confirmation of the compliance with the eligibility and selection criteria;(b) details on project evaluation and ranking;(c) total project costs and relevant costs referred to in Article 5, in euro;(d) the request for the total Innovation Fund support in euro,(e) the projected amount of greenhouse gas emissions to be avoided;(f) the projected amount of energy to be produced or stored;(g) the projected amount of CO2 to be stored;(h) information on the legal form of the Innovation Fund support requested by the project proponent.\n\n**5.** On the basis of what was communicated pursuant to paragraph 4 of this Article, the Commission shall, after consulting the Member States in accordance with Article 21(2), adopt the award decision specifying the support to the selected projects and, where appropriate, draw up a reserve list.",
+      "text_sha256": "6cfbaafc77a81997b0b4cea0acfc4858df20fe5c4d7491ce2aad64f40266e901",
+      "md_span": {
+        "start": 15550,
+        "end": 18153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12b",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_12b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12b",
+      "heading": "Selection procedure for small-scale projects",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "By derogation from Articles 12 and 12a, a specific selection procedure may be applied to small-scale projects.",
+      "text_sha256": "a8fc5fc07e761fb8bb7f53d2ce7b3a29c88a0f233efa3d08b7c639a9cf6dd714",
+      "md_span": {
+        "start": 18241,
+        "end": 18351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Project development assistance",
+      "path": [
+        "CHAPTER II — Specific provisions applicable to grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall, after consulting the Member States in accordance with Article 21(2)(c), determine the maximum amount of the Innovation Fund support available for project development assistance.\n\n**2.** The project development assistance shall be awarded by the Commission or by the implementing body in accordance with Article 12(2) or 12a(3) in the form of a grant or a technical assistance.\n\n**3.** The following activities may be funded by way of project development assistance:(a) improvement and development of a project documentation, or of components of the project design, with a view to ensuring the sufficient maturity of the project;(b) assessment of the feasibility of the project, including technical and economic studies;(c) advice on the financial and legal structure of the project;(d) capacity building of the project proponent.\n\n**4.** For the purposes of project development assistance, the relevant costs shall be all project development related costs. The Innovation Fund may finance up to 100 % of the relevant costs.",
+      "text_sha256": "b94a46147dbff76aeb1406a6e9863446470b78f6a5dc39bdd67fe18285ec6c21",
+      "md_span": {
+        "start": 18423,
+        "end": 19475
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Provision of Innovation Fund support through contributions to blending operations under the Union investment support instrument",
+      "path": [
+        "CHAPTER III — Specific provisions applicable to the forms of the Innovation Fund support other than grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the Commission decides to disburse the Innovation Fund support through contributions to blending operations under the Union investment support instrument, the Innovation Fund support shall be implemented in accordance with the rules applicable to the Union investment support instrument. However, the eligibility of the projects shall be assessed in accordance with Article 10a(8) of Directive 2003/87/EC.\n\n**2.** The Commission shall adopt, after consulting the Member States, a decision specifying whether the contribution to blending operations takes a form of non-repayable support or repayable support or both, and indicating the amount of the Innovation Fund support available for the disbursement through the Union investment support instrument.",
+      "text_sha256": "08c006d59a87a0ee24d23133464a096a8466c451e8bb61cf7dac5ac6cbf7aab0",
+      "md_span": {
+        "start": 19755,
+        "end": 20520
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Provisions of the Innovation Fund support in any other form laid down in the Financial Regulation",
+      "path": [
+        "CHAPTER III — Specific provisions applicable to the forms of the Innovation Fund support other than grants"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the Commission decides to disburse the Innovation Fund support in any form laid down in the Financial Regulation other than grants, the Commission shall adopt, after consulting the Member States, a decision indicating the amount of the Innovation Fund support available for disbursement in that form as well as the rules applicable to the application for such support, the selection of the projects and the disbursement of the support.\n\n**2.** Projects receiving the Innovation Fund support under this Article shall comply with the Union state aid rules.",
+      "text_sha256": "c1b30ed267c8235851b2307509c7253bdb3884d7085ae55359a1cb182dfc7d0d",
+      "md_span": {
+        "start": 20659,
+        "end": 21226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Implementation of the Innovation Fund",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall implement the Innovation Fund in direct management in accordance with relevant provisions of Articles 125 to 153 of the Financial Regulation or in indirect management through bodies referred to in Article 62(1)(c) of the Financial Regulation.\n\n**2.** Costs incurred, in relation to the Innovation Fund implementation activities, including the administrative and management costs, shall be financed from the Innovation Fund.",
+      "text_sha256": "34e2d41f6dca8cdd37f6e449992fe0da4edcba4502ee454783e3671141d36310",
+      "md_span": {
+        "start": 21333,
+        "end": 21784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Designation of implementing bodies",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the Commission decides to delegate certain tasks related to the Innovation Fund implementation to an implementing body, the Commission shall adopt a decision designating such an implementing body.\n\nThe Commission and the designated implementing body shall enter into an agreement laying down the specific terms and conditions under which the implementing body is to perform its tasks.\n\n**2.** Where the Commission implements the Innovation Fund in direct management and decides to delegate certain implementation tasks to an implementing body, the Commission shall designate an executive agency as implementing body.\n\n**3.** Where the Commission implements the Innovation Fund in indirect management, the Commission shall designate as implementing body a body referred to in Article 62(1)(c) of the Financial Regulation.\n\n**4.** To the extent that the tasks relating to the implementation of the Innovation Fund are not delegated to an implementing body, the Commission shall carry out those tasks.",
+      "text_sha256": "bc017570f3ff43f889e3dac2ecdc07c7722d755cccd68d8418f9ad6d218d58d3",
+      "md_span": {
+        "start": 21860,
+        "end": 22871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Tasks of the implementing body",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "The implementing body designated in accordance with Article 17(1) may be entrusted with the overall management of the call for proposals, the disbursement of the Innovation Fund support, and the monitoring of the implementation of selected projects. For that purpose, the implementing body may be entrusted with the following tasks:\n\n(a) organising the call for proposals;\n\n(b) organising the application procedure, including collecting the applications and analysing all the supporting documents;\n\n(c) organising the project selection, including the project evaluation or the due diligence assessment and ranking;\n\n(d) advising the Commission on the projects to be awarded the Innovation Fund support and on projects to be included in the reserve list;\n\n(e) awarding or providing project development assistance;\n\n(f) signature of the grant agreements and other contracts depending on the form of Innovation Fund support;\n\n(g) preparing and managing the contractual documentation concerning the awarded projects;\n\n(h) checking if the conditions for the financing are met and disbursing the Innovation Fund revenues to the project proponents;\n\n(i) monitoring of the project implementation;\n\n(j) communicating with the project proponents;\n\n(k) reporting to the Commission, including on general orientation for the further development of the Innovation Fund;\n\n(l) financial reporting;\n\n(m) information, communication and promotion actions, including the production of the promotion materials, and the development of the Innovation Fund logo;\n\n(n) management of knowledge sharing;\n\n(o) supporting the Member States in their efforts to promote the Innovation Fund and to communicate with the project proponents;\n\n(p) any other tasks relating to the implementation of the Innovation Fund",
+      "text_sha256": "db4023ced710921aeec0424d8521e59e10dfd8998204f6e92b4ca09c0c0d7cdf",
+      "md_span": {
+        "start": 22943,
+        "end": 24724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Specific provisions applicable to the implementation of the Innovation Fund in direct management",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the Commission designates an executive agency as implementing body under Article 17(1) of this Regulation, such a Commission decision shall be subject to the result of the cost-benefit analysis referred to in Article 3 of Council Regulation (EC) No 58/2003 (1) and the agreement referred to in second subparagraph of Article 17(1) of this Regulation shall take the form of an instrument of delegation in accordance with Regulation (EC) No 58/2003.\n\n**2.** Where amounts disbursed by way of direct management are recovered under Articles 7 and 8 of this Regulation, the recovered amounts shall constitute assigned revenue in accordance with Article 21 of the Financial Regulation and shall be used to finance the Innovation Fund operations.\n\n**3.** For all implementing tasks carried out by the Commission, including through an executive agency, the revenue of the Innovation Fund shall constitute external assigned revenue within the meaning of paragraphs 1 and 5 of Article 21 of the Financial Regulation. That assigned revenue shall also cover all administrative costs related to the implementation of the Innovation Fund. The Commission may use a maximum of 5 % of the Innovation Fund envelope to cover its management costs.\n\n**4.** A project that has received the Innovation Fund support may also receive a contribution from any other Union programme, including Funds under shared management, provided that the contributions do not cover the same costs. The cumulative financing shall not exceed the total eligible costs of the project and the support from different Union programmes may be calculated on a pro-rata basis.",
+      "text_sha256": "6f4388420c48ab1cace79f0b668e6e6d65c472a40816551e520c14e573b385ab",
+      "md_span": {
+        "start": 24862,
+        "end": 26501
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Management of the Innovation Fund revenues",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall ensure that the allowances destined for the Innovation Fund are auctioned in accordance with the principles and modalities laid down in Article 10(4) of Directive 2003/87/EC and shall manage the Innovation Fund revenues in accordance with the objectives of Directive 2003/87/EC.\n\n**2.** The Commission shall ensure that the revenues referred to in paragraph 1 are passed on to the implementing body, in a timely manner, for financing the costs related to the implementation activities and for the disbursement to the awarded projects.\n\n**3.** The Commission may delegate the monetisation of allowances and the management of the Innovation Fund revenues to the European Investment Bank (EIB). In the case of such a delegation, the Commission and the EIB shall enter into an agreement laying down the specific terms and conditions under which the EIB shall carry out its tasks related to the management of the Innovation Fund revenues.\n\n**4.** Subject to the provisions of Directive 2003/87/EC, Innovation Fund revenues remaining at the end of the eligibility period for the supported projects shall be used to support new projects that meet the eligibility criteria laid down in Article 10a(8) of Directive 2003/87/EC until all the revenues are spent for the objectives of the Innovation Fund. Such new projects shall be selected via new calls for proposals in accordance with Article 9 or supported in accordance with Articles 14 or15.",
+      "text_sha256": "7eb57aef1d680d124279c3261169616970a7c08ca438e2859f4078f5b706155e",
+      "md_span": {
+        "start": 26585,
+        "end": 28048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Role of the Member States",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** When implementing the Innovation Fund, the Commission shall consult with and be assisted by the Member States.\n\n**2.** The Member States shall be consulted on:▼M1(a) the list of the pre-selected projects, including the reserve list, and the list of projects proposed for project development assistance in accordance with Article 12(2), second subparagraph, or Article 12a(3), prior to the award of the support;▼B(b) draft Commission decisions referred to in Article 9(1), Article 14(2) and Article 15(1);(c) the maximum amount of the Innovation Fund support to be made available for the project development assistance;\n\n**3.** The Member States shall, if requested by the Commission, advise and assist the Commission in:(a) setting general orientations for the Innovation Fund;(b) addressing existing or emerging project implementation problems;(c) dealing with any other issue relating to the project implementation.\n\n**4.** The Commission shall report to the Member States on the progress made in implementing this Regulation, in particular on the implementation of award decisions referred to in Article 12(5) or Article 12a(5).",
+      "text_sha256": "c5de5994b3fc7dd9bdab2078067cc63d6f1b585fd48c2e355907e71e3ecf7b12",
+      "md_span": {
+        "start": 28115,
+        "end": 29253
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Role of the stakeholders",
+      "path": [
+        "CHAPTER IV — Governance"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Commission may involve stakeholders in the discussions relating to the implementation of the Innovation Fund, including on the issues listed in Article 21(3).",
+      "text_sha256": "9686730edf5ec2369da9b52b67a41dc2f8140fcf360b5ac84cc6bd7c3a42f1ba",
+      "md_span": {
+        "start": 29319,
+        "end": 29481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Monitoring and reporting",
+      "path": [
+        "CHAPTER V — Monitoring reporting, and evaluation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The implementing body shall monitor the operation of the Innovation Fund, including the amounts of the disbursed Innovation Fund support.\n\n**2.** With a view to ensuring that data for monitoring refered to in paragprah 1 and results are collected efficiently, effectively and in a timely manner, proportionate reporting requirements may be imposed on the project proponents. The reports of the project proponents shall include the information on the knowledge-sharing actions undertaken pursuant to Article 27.\n\n**3.** The implementing body shall regularly report to the Commission on the performance of its tasks.\n\n**4.** The implementing body shall report to the Commission on the full cycle of the disbursement of support, and in particular on the organisation of the calls for proposals, and on the signatures of contracts with the project proponents.\n\n**5.** After completion of the each call for proposals, the Commission shall report to the Member States on the implementation of that call for proposals.\n\n**6.** The Commission shall report annually to the Council and to the European Parliament on the progress of the implementation of the Innovation Fund.\n\n**7.** Implementing bodies, other than executive agencies, and entities to which the management of the Innovation Fund revenues has been delegated pursuant Article 20(3) shall provide the Commission with the following:(a) by 15 February, unaudited financial statements covering the preceding financial year, which shall run from 1 January to 31 December, in respect of the activities delegated to those implementing bodies and entities;(b) by 15 March of the year of the transmission of the unaudited financial statements, the audited financial statements covering the preceding financial year, which shall run from 1 January to 31 December, in respect of the activities delegated to those implementing bodies and entities.\n\nThe Commission shall prepare annual accounts of the Innovation Fund for each financial year, which shall run from 1 January to 31 December on the basis of the financial statements provided pursuant to the first subparagraph. Those accounts shall be subject to an independent external audit.\n\nAny financial statements and accounts provided for in this paragraph shall be drawn up in compliance with the accounting rules referred to in Article 80 of the Financial Regulation.",
+      "text_sha256": "6d470a2bf28f36a22fc0a64e5c22a5f5b4197efd895b069b4f0bf8e704a32c41",
+      "md_span": {
+        "start": 29600,
+        "end": 31971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Evaluation",
+      "path": [
+        "CHAPTER V — Monitoring reporting, and evaluation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In 2025 and every five years thereafter, the Commission shall carry out an evaluation on the operation of the Innovation Fund. The evaluation shall focus on, but shall not be limited to, the assessment of synergies between the Innovation Fund and other relevant Union programmes, as well as the procedure of disbursement of the Innovation Fund support.\n\n**2.** Based on the results of the evaluations referred to in paragraph 1 of this Article, the Commission shall, where appropriate, make proposals to ensure that the Innovation Fund progresses towards the achievement of its objectives provided for in Directive 2003/87/EC and in Article 3 of this Regulation.\n\n**3.** At the end of the implementation of the Innovation Fund, but no later than in 2035, the Commission shall carry out a final evaluation of the operation of the Innovation Fund.\n\n**4.** The Commission shall make the results of the evaluations undertaken pursuant to paragraphs 1, 2, and 3 publicly available.",
+      "text_sha256": "68b66b556670810724f5622acc2b1a3b4244599cad6b254f9949fb2320e2389b",
+      "md_span": {
+        "start": 32023,
+        "end": 33006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Audits",
+      "path": [
+        "CHAPTER VI — Audits, publicity and knowledge sharing"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Audits on the use of the Innovation Fund support carried out by independent external auditors, including by other than those mandated by the Union Institutions or bodies, shall form the basis of the overall assurance pursuant to Article 26.\n\n**2.** Any person or entity receiving Innovation Fund support shall agree in writing to grant the necessary rights and access as provided for to in Article 129 of the Financial Regulation.",
+      "text_sha256": "1b33b3e87b77b62a40a09988832477e37d9e39547aff7643a8b2d2fef6c2a7cf",
+      "md_span": {
+        "start": 33111,
+        "end": 33548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Cross-reliance on audits",
+      "path": [
+        "CHAPTER VI — Audits, publicity and knowledge sharing"
+      ],
+      "article_valid_from": null,
+      "text_md": "Without prejudice to existing possibilities for carrying out further audits, where an audit based on internationally accepted audit standards providing reasonable assurance has been conducted by an independent auditor on the financial statements and reports setting out the use of a Union contribution, that audit shall form the basis of the overall assurance, as further specified, where appropriate, in sector-specific rules, provided that there is sufficient evidence of the independence and competence of the auditor. The report of the independent auditor and the related audit documentation shall be made available on request to the European Parliament, the Commission, the Court of Auditors and the audit authorities of Member States.",
+      "text_sha256": "f98e24a735d7e7cd7918d618de3d07d8dc0a23c7e8be6005e0080ad97f62bfc8",
+      "md_span": {
+        "start": 33614,
+        "end": 34354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Communication, knowledge sharing and publicity",
+      "path": [
+        "CHAPTER VI — Audits, publicity and knowledge sharing"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The project proponents shall proactively and systematically make publicly available on their websites information relating to projects supported under this Regulation. Such information shall include an explicit reference to the Innovation Fund support received.\n\n**2.** The project proponents shall ensure the provision of coherent, effective and targeted information on the Innovation Fund support received to multiple audiences, including the media and the public.\n\n**3.** The Innovation Fund logo or other promotional elements required in the contractual documentation shall be used for all communication and knowledge-sharing activities and appear on notice boards at strategic places visible to the public.\n\n**4.** The project proponents shall provide detailed information on the planned actions in accordance with paragraphs 1 and 2 of this Article in the knowledge-sharing plan submitted in accordance with Article 10(2), third subparagraph.\n\n**5.** The implementing body shall perform information, communication and promotion actions relating to the Innovation Fund support and results. The implementing body shall organise specific seminars, workshops or, where appropriate, other types of activities to facilitate exchanges of experience, knowledge and best practices as regards the design, preparation and implementation of projects as well as on the effectiveness of the financing provided through project development assistance projects.",
+      "text_sha256": "ab0d3d774529e1eff017dcce8b0c89214a2dfba6f4bb44bc49af09060d7a45bd",
+      "md_span": {
+        "start": 34442,
+        "end": 35899
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32019r0856:2021-08-11--e594f64a2c18f93b931fb03f3cc039397fc7a670c5691277dc44ee48b7593cef#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER VII — Final provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 35992,
+        "end": 36134
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

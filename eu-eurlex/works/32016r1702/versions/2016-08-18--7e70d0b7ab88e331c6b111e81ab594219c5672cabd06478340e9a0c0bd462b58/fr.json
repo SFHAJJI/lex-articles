@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1702:2016-08-18--7e70d0b7ab88e331c6b111e81ab594219c5672cabd06478340e9a0c0bd462b58",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1702 of 18 August 2016 amending Implementing …",
+  "valid_from": "2016-08-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1702/versions/2016-08-18--7e70d0b7ab88e331c6b111e81ab594219c5672cabd06478340e9a0c0bd462b58/fr.xml",
+    "sha256": "231212716389494d383a5d9569b126a3fffb555bb961f1b813616fc59dd9d5a6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1702"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1702:2016-08-18--7e70d0b7ab88e331c6b111e81ab594219c5672cabd06478340e9a0c0bd462b58#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) no 680/2014 est modifié comme suit.\n\n| 1) | À l’annexe I, l’index et les modèles numérotés 2, 4, 7, 9.1, 9.2, 9.3, 9.4, 18 et 21 sont remplacés par l’index et les modèles portant le même numéro figurant à l’annexe I du présent règlement. |\n| --- | --- |\n\n| 2) | L’annexe II est remplacée par le texte de l’annexe II du présent règlement. |\n| --- | --- |\n\n| 3) | À l’annexe III, les modèles numérotés 1.2, 2, 8, 14, 16, 17, 18, 19, 20, 30, 31, 41, 43 et 45 sont remplacés par les modèles portant le même numéro figurant à l’annexe III du présent règlement. |\n| --- | --- |\n\n| 4) | L’annexe IV est remplacée par le texte de l’annexe IV du présent règlement. |\n| --- | --- |\n\n| 5) | L’annexe V est remplacée par le texte de l’annexe V du présent règlement. |\n| --- | --- |\n\n| 6) | L’annexe VII est remplacée par le texte de l’annexe VI du présent règlement. |\n| --- | --- |\n\n| 7) | L’annexe IX est remplacée par le texte de l’annexe VII du présent règlement. |\n| --- | --- |",
+      "text_sha256": "c3c98c110dc36dcf48d15ee41f58b18e3a91d99f7b3513df458fb4dab8942ada",
+      "md_span": {
+        "start": 702,
+        "end": 1720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1702:2016-08-18--7e70d0b7ab88e331c6b111e81ab594219c5672cabd06478340e9a0c0bd462b58#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl s’applique à partir du 1er décembre 2016, la première date de référence pour la déclaration étant le 31 décembre 2016.",
+      "text_sha256": "6768f6088362a56e3577661ec0d53f35cdd5f554ad4299e861224177da8bad7a",
+      "md_span": {
+        "start": 1753,
+        "end": 2017
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

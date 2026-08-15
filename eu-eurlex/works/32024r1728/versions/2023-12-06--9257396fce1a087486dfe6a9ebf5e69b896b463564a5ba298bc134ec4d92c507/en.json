@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2024/1728 of 6\u00A0December 2023 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2023-12-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1728/versions/2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507/en.xml",
+    "sha256": "5c3687a63e77d268314692c7fb12a7639b1aea73b709e685b44e9ac769284136",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1728"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Two or more natural or legal persons shall constitute a single risk because one of them, directly or indirectly, has control over the other or others where one of them is required to prepare consolidated financial statements that include the other or others in accordance with Article 22(1) and (2) of Directive 2013/34/EU of the European Parliament and of the Council (3) or the International Financial Reporting Standard (IFRS) 10, as laid down in the national law of the respective Member State.\n\n2. Paragraph 1 shall apply also to legal persons not included in the consolidated financial statements due to exemptions or derogations set out in Directive 2013/34/EU or the IFRS 10, as laid down in the national law of the respective Member State.\n\n3. Where paragraph 1 does not apply, two or more natural or legal persons shall constitute a single risk because one of them, directly or indirectly, has control over the other or others, in the following circumstances:\n\n| (a) | the natural or legal person holds the majority of the voting rights in another person or persons; |\n| --- | --- |\n\n| (b) | the natural or legal person has the right or the ability to appoint or remove the majority of the members of the administrative, management or supervisory body of another person or persons; |\n| --- | --- |\n\n| (c) | the natural or legal person is able to exercise dominant influence over another person or persons pursuant to a law or contract, or provisions in memoranda or articles of association. |\n| --- | --- |\n\n4. Where paragraphs 1, 2 or 3 do not apply, two or more natural or legal persons may be deemed to constitute a single risk because one of them, directly or indirectly, has control over the other or others, in any of, but not limited to, the following circumstances:\n\n| (a) | the natural or legal person has the right or ability to decide on the strategy or to direct the activities of another person or persons; |\n| --- | --- |\n\n| (b) | the natural or legal person has the right or ability to decide on important transactions, including the transfer of profits or losses of another person or persons; |\n| --- | --- |\n\n| (c) | the natural or legal person has the right or ability to coordinate the management of one or more legal persons. |\n| --- | --- |\n\n5. By way of derogation from paragraphs 1, 2 and 3, where, in exceptional cases, an institution is able to demonstrate that no single risk prevails despite the circumstances referred to in those paragraphs being met with regard to two or more natural or legal persons, the institution may not identify those persons as a group of connected clients.",
+      "text_sha256": "3c124ed01e21a9c40c18b90d013ceb44a64ef34ff6ba4946320dde73b83e016b",
+      "md_span": {
+        "start": 718,
+        "end": 3353
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_202401728EN.000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Two or more natural or legal persons constitute a single risk because they are interconnected in a way that, where one of them were to experience financial problems, in particular funding or repayment difficulties, the other, or the others would also be likely to encounter financial problems, in any of, but not limited to the following circumstances:\n\n| (a) | where the insolvency or default of a natural or legal person is likely to result in the insolvency or default of another natural or legal person or persons; |\n| --- | --- |\n\n| (b) | where a natural or legal person has fully or partly guaranteed the exposure of another natural or legal person and the exposure is so significant for the guarantor that the guarantor is likely to experience financial problems if a claim occurs; |\n| --- | --- |\n\n| (c) | where a significant part of a natural or legal person’s gross receipts or gross expenditures is derived from transactions with another natural or legal person that cannot be replaced in a timely manner without incurring excessive additional costs; |\n| --- | --- |\n\n| (d) | where a significant part of the goods produced or services offered by a natural or legal person is sold or supplied to another natural or legal person and that relationship cannot be replaced in a timely manner without incurring excessive additional costs; |\n| --- | --- |\n\n| (e) | where a significant part of the receivables or liabilities of a natural or legal person is to another natural or legal person; |\n| --- | --- |\n\n| (f) | where the expected source of funds to repay the loans of two or more natural or legal persons is the same and none of these persons has another independent source of income from which the loan may be serviced and fully repaid, and the expected source of funds cannot be replaced in a timely manner without incurring excessive additional costs; |\n| --- | --- |\n\n| (g) | where it is expected that the financial problems of one natural or legal person would cause difficulties for another natural or legal person to fully and timely repay its liabilities, because the persons are legally or contractually jointly liable to the institution; |\n| --- | --- |\n\n| (h) | where two or more natural or legal persons rely on the same source for the majority of their funding and, in the event of insolvency or default of that source of funding, that source of funding cannot be replaced in a timely manner without incurring excessive additional costs; |\n| --- | --- |\n\n| (i) | where two or more legal persons are managed on a unified basis as referred to in Article 22(7), point (a) of Directive 2013/34/EU; |\n| --- | --- |\n\n| (j) | where the management body of two or more legal persons consists for a major part of the same persons as referred to in Article 22(7), point (b) of Directive 2013/34/EU; |\n| --- | --- |\n\n| (k) | where the majority of voting rights in two or more legal persons is held by the same natural or legal persons. |\n| --- | --- |\n\n2. By way of derogation from paragraph 1, where, in exceptional cases, an institution is able to demonstrate that no single risk prevails despite one or more of the circumstances referred to in that paragraph being met with regard to two or more natural or legal persons, the institution may not identify those persons as a group of connected clients.",
+      "text_sha256": "e95a4a8f25b97a885e0a9715eb3057baa7dbacd07e856cc5df4bc36b1e035567",
+      "md_span": {
+        "start": 3386,
+        "end": 6715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Three or more natural or legal persons shall constitute a single risk, where two or more of those persons constitute a single risk by means of control in accordance with Article 1 (control group) and one or more natural or legal persons are connected to one or more of the persons that are part of the control group by means of economic dependency in accordance with Article 2.\n\n2. Where the person that is connected by means of economic dependency as referred to in paragraph 1 is part of another group of connected clients, all persons, either being controlled by that economically dependent person or being themselves economically dependent on that person, shall also constitute a single risk with the persons of the control group referred to in paragraph 1.\n\n3. By way of derogation from paragraphs 1 and 2, where, in exceptional cases, an institution is able to demonstrate that no single risk prevails despite the circumstances referred to in those paragraphs being met with regard to three or more natural or legal persons, the institution may not identify those persons as a group of connected clients.",
+      "text_sha256": "84c48844662eaa5ac9d09bb511d27121c723331ca38e5460cf6671bfff60b61c",
+      "md_span": {
+        "start": 6748,
+        "end": 7872
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 7905,
+        "end": 8056
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

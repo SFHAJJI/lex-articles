@@ -1,0 +1,188 @@
+---
+lex_id: 'eu-eurlex:32023r1201:2023-06-21--674ed57e26f9ccc501f02103ba6a5b69cb9fac7e06709f45a67dacb3d03ee99b'
+title: 'Commission Implementing Regulation (EU) 2023/1201 of 21 June 2023 on detailed arrangements for the conduct of certain proceedings by the Commission pursuant to Regulation (EU) 2022/2065'
+valid_from: '2023-06-21'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1201'
+source_sha256: '0948af2c5d09a679dde86e142295b75911bd28ffe801815a9fbf1d7e2cfff661'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le présent règlement établit des règles relatives aux modalités pratiques concernant:
+
+| a) | les inspections menées en vertu de l’article 69 du règlement (UE) 2022/2065 et les mesures de contrôle adoptées en vertu de l’article 72 dudit règlement; |
+| --- | --- |
+
+| b) | l’exercice du droit d’être entendu et les conditions de la divulgation prévus à l’article 79 du règlement (UE) 2022/2065. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. Les explications demandées par les fonctionnaires de la Commission ou par les personnes qui les accompagnent en vertu de l’article 69, paragraphe 2, points f) et g), du règlement (UE) 2022/2065 ne sont fournies que par des représentants autorisés ou des membres du personnel du fournisseur de la très grande plateforme en ligne, du fournisseur du très grand moteur de recherche en ligne ou, le cas échéant, d’autres personnes visées à l’article 67, paragraphe 1, dudit règlement. Les explications fournies peuvent être enregistrées sous quelque forme que ce soit par les fonctionnaires de la Commission ou par les personnes qui les accompagnent.
+
+2. Après l’inspection, une copie de tout enregistrement effectué au titre du paragraphe 1 est mise à la disposition du fournisseur de la très grande plateforme en ligne, du fournisseur du très grand moteur de recherche en ligne ou de toute autre personne visée à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 concerné par cette inspection.
+
+3. Dans les cas où un représentant ou un membre du personnel visé au paragraphe 1 a été invité à donner des explications et en a donné, mais que ce représentant ou ce membre du personnel n’était pas autorisé à fournir des explications au nom du fournisseur ou de la personne concernée, la Commission fixe un délai dans lequel le fournisseur ou la personne concernée peut lui communiquer toute rectification, modification ou complément d’informations concernant les explications fournies par ce représentant ou ce membre du personnel. La rectification, la modification ou le complément d’informations sont ajoutés aux explications enregistrées conformément au paragraphe 1.
+
+4. La possibilité pour le fournisseur de la très grande plateforme en ligne, le fournisseur du très grand moteur de recherche en ligne ou, le cas échéant, ou d’autres personnes visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 de communiquer à la Commission des rectifications, des modifications ou des compléments d’informations concernant les explications fournies en vertu du paragraphe 3 est sans préjudice du pouvoir de la Commission d’infliger des amendes et des astreintes conformément aux articles 74 et 76 du règlement (UE) 2022/2065, respectivement.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Lorsque la Commission ordonne à des fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne de lui donner accès à leurs bases de données ou systèmes d’algorithmes conformément à l’article 72, paragraphe 1, du règlement (UE) 2022/2065, elle peut préciser les moyens techniques ou les interfaces par l’intermédiaire desquels les fournisseurs des très grandes plateformes en ligne ou des très grands moteurs de recherche en ligne doivent fournir un tel accès.
+
+2. Les fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne ayant reçu l’ordre de fournir un accès en vertu de l’article 72, paragraphe 1, du règlement (UE) 2022/2065 s’exécutent en temps utile et de manière efficace, permettant à la Commission d’accéder à toutes les informations contenues dans les bases de données concernées et à toutes les informations relatives à l’algorithme concerné qui sont nécessaires pour évaluer la mise en œuvre et le respect par le fournisseur concerné du règlement (UE) 2022/2065.
+
+3. Les fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne ayant reçu l’ordre de fournir un accès en vertu de l’article 72, paragraphe 1, du règlement (UE) 2022/2065 respectent les exigences énoncées à l’article 7 du présent règlement.
+
+4. Lorsque la Commission impose à un fournisseur de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne l’obligation de conserver tous les documents nécessaires pour évaluer la mise en œuvre et le respect du règlement (UE) 2022/2065 conformément à l’article 72, paragraphe 1, dudit règlement, la Commission définit les conditions en matière de conservation, y compris la durée et la portée des documents à conserver faisant l’objet de cette obligation. Cette période peut être prolongée, si nécessaire, pour évaluer la mise en œuvre et le respect du règlement (UE) 2022/2065.
+
+5. Lorsque la Commission désigne des experts ou des auditeurs externes pour l’assister dans le contrôle de la mise en œuvre et du respect effectifs du règlement (UE) 2022/2065 par les fournisseurs des très grandes plateformes en ligne et des très grands moteurs de recherche en ligne en vertu de l’article 72, paragraphe 2, dudit règlement, la Commission veille à ce que ces experts et auditeurs soient indépendants du fournisseur concerné et à ce qu’ils disposent d’une expertise et de connaissances avérées dans le domaine pour lequel ils assistent la Commission.
+
+6. Afin de garantir l’indépendance conformément au paragraphe 5, la Commission, lorsqu’elle nomme des experts ou des auditeurs en vertu dudit paragraphe, tient compte de l’existence d’un partage de la propriété, de la gouvernance, de la gestion, du personnel ou des ressources pour les experts ou auditeurs externes concernés et de l’existence de relations contractuelles avec le fournisseur de la très grande plateforme en ligne ou du très grand moteur de recherche en ligne concerné au cours des 24 mois précédant la procédure menée par la Commission. L’expert ou l’auditeur désigné demeure indépendant pendant toute la durée de sa nomination.
+
+7. Afin de garantir que les experts et les auditeurs possèdent l’expertise et les connaissances nécessaires conformément au paragraphe 5, la Commission, lorsqu’elle nomme un expert ou un auditeur en application dudit paragraphe, tient compte de l’expertise avérée des experts dans le domaine pour lequel ils assistent la Commission ou de la compétence technique avérée des auditeurs pour réaliser des audits dans le domaine pour lequel ils assistent la Commission.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Le destinataire des constatations préliminaires communiquées conformément à l’article 73, paragraphe 2, à l’article 74, paragraphe 3, et à l’article 76 du règlement (UE) 2022/2065 peut, dans un délai fixé par la Commission, informer celle-ci, de manière succincte et conformément aux exigences en matière de format et de longueur des documents figurant à l’annexe du présent règlement, de son point de vue par écrit sur ces constatations et sur les mesures que la Commission envisage de prendre au vu de ces constatations, et présenter des éléments de preuve à l’appui de son point de vue. La Commission n’est pas tenue de prendre en considération les observations écrites reçues après l’expiration de ce délai.
+
+2. Les informations communiquées à la Commission conformément au paragraphe 1 sont exactes, complètes et non dénaturées. Elles sont présentées de manière claire, bien structurée et intelligible.
+
+3. Les observations écrites visées au paragraphe 1 sont rédigées dans une des langues officielles de l’Union. Les documents justificatifs sont fournis dans leur langue originale et, lorsque leur langue originale n’est pas une des langues officielles de l’Union, ils sont accompagnés d’une traduction fidèle dans une langue officielle de l’Union.
+
+4. Les observations écrites visées au paragraphe 1 sont présentées conformément au format et aux limites de pages définis à l’annexe du présent règlement. La Commission peut, sur demande motivée, autoriser un destinataire de constatations préliminaires à dépasser le nombre maximal de pages fixé si et dans la mesure où ce destinataire démontre qu’il est objectivement impossible ou excessivement difficile d’aborder des questions juridiques ou factuelles particulièrement complexes en respectant ce nombre maximal de pages.
+
+5. Les documents, bases de données ou toute autre information sont transmis à la Commission conformément à l’article 7 du présent règlement.
+
+6. Les informations communiquées à la Commission en vertu du paragraphe 1 sont accompagnées d’une preuve écrite attestant que les personnes qui soumettent ces informations sont autorisées à agir au nom du destinataire des constatations préliminaires concernées.
+
+7. La Commission transmet au destinataire des constatations préliminaires concernées ou à ses représentants, sans délai et par écrit, un accusé de réception des informations communiquées conformément au paragraphe 1.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Sur demande, la Commission donne accès au dossier au destinataire des constatations préliminaires communiquées conformément à l’article 73, paragraphe 2, à l’article 74, paragraphe 3, ou à l’article 76 du règlement (UE) 2022/2065 (le «destinataire»). L’accès au dossier n’est pas accordé avant la notification des constatations préliminaires.
+
+2. Lorsqu’elle lui donne accès au dossier, la Commission fournit au destinataire tous les documents mentionnés dans les constatations préliminaires, sous réserve des suppressions effectuées en vertu de l’article 6 pour protéger les secrets d’affaires ou d’autres informations confidentielles.
+
+3. Sans préjudice du paragraphe 4, la Commission donne aussi accès à tous les documents figurant dans son dossier, non expurgés, selon des modalités de divulgation à définir dans une décision de la Commission. Les modalités de divulgation sont déterminées conformément aux dispositions suivantes:
+
+| a) | l’accès aux documents n’est accordé qu’à un nombre limité de conseils juridiques et économiques externes et d’experts techniques externes désignés qui sont engagés par le destinataire et dont les noms sont communiqués à l’avance à la Commission; |
+| --- | --- |
+
+| b) | les conseils juridiques et économiques externes et les experts techniques externes désignés doivent être des entreprises, des salariés d’entreprises ou des personnes se trouvant dans une situation comparable à celle de salariés d’entreprises. Tous sont liés par les modalités de divulgation; |
+| --- | --- |
+
+| c) | à la date de la décision de la Commission fixant les modalités de divulgation, les personnes identifiées comme conseils juridiques et économiques externes et experts techniques externes désignés n’ont pas de relation de travail avec le destinataire et ne se trouvent pas dans une situation comparable à celle d’un salarié du destinataire. Si le conseil juridique ou économique externe ou l’expert technique externe désigné noue ultérieurement une telle relation avec le destinataire ou avec d’autres entreprises actives sur les mêmes marchés que le destinataire au cours de l’enquête ou des trois années suivant la fin de l’enquête de la Commission, le conseil juridique ou économique externe ou l’expert technique externe désigné et le destinataire informent rapidement la Commission de la nature de cette relation. Le conseil juridique ou économique externe ou l’expert technique externe désigné en question certifie également à la Commission qu’il n’a plus accès aux informations ou aux documents du dossier auxquels il avait accès en vertu du point a) et qui n’avaient pas été mis à la disposition du destinataire par la Commission. Il certifie également à la Commission qu’il continuera de se conformer aux exigences fixées au point d) du présent paragraphe; |
+| --- | --- |
+
+| d) | les conseils juridiques et économiques externes et les experts techniques externes désignés ne divulguent aucun des documents fournis ni leur contenu à une personne physique ou morale qui n’est pas un signataire des modalités de divulgation et n’utilisent aucun des documents fournis ou leur contenu à d’autres fins que celles mentionnées à l’article 5, paragraphe 9, ci-dessous; |
+| --- | --- |
+
+| e) | dans les modalités de divulgation, la Commission précise les moyens techniques et la durée de la divulgation. La divulgation peut se faire par voie électronique ou (pour tout ou partie des documents) dans les locaux de la Commission. |
+| --- | --- |
+
+4. Dans des circonstances exceptionnelles, la Commission peut décider de ne pas accorder l’accès à certains documents ou d’accorder l’accès à des documents partiellement expurgés selon les modalités de divulgation fixées au paragraphe 3 si elle estime que le préjudice que la partie qui a présenté les documents en question serait susceptible de subir du fait de la divulgation selon ces modalités l’emporterait globalement sur l’importance de la divulgation de l’intégralité du document pour l’exercice du droit d’être entendu.
+
+5. Conformément à l’article 79, paragraphe 4, du règlement (UE) 2022/2065, le droit d’accès au dossier de la Commission ne s’étend pas aux documents internes de la Commission ou des autorités compétentes des États membres. La correspondance entre la Commission et d’autres autorités publiques, y compris d’autres institutions de l’Union ou de pays tiers, de même que d’autres types de documents sensibles, peuvent également faire l’objet de protections similaires.
+
+6. Les conseils juridiques et économiques externes et les experts techniques externes désignés visés au paragraphe 3 peuvent, dans un délai d’une semaine à compter de l’octroi de l’accès selon les modalités de divulgation, adresser à la Commission une demande motivée d’accès à une version non confidentielle de tout document figurant dans le dossier de la Commission qui n’a pas encore été fourni au destinataire en vertu du paragraphe 2, en vue de mettre cette version non confidentielle à la disposition du destinataire, ou une demande motivée d’extension des modalités de divulgation à des conseils juridiques et économiques externes et des experts techniques externes désignés supplémentaires. Cet accès supplémentaire ne peut être accordé qu’à titre exceptionnel et à condition qu’il soit démontré qu’il est indispensable pour permettre au destinataire d’exercer utilement son droit d’être entendu.
+
+7. Aux fins de l’application des paragraphes 4 à 6, la Commission peut demander à la partie qui a présenté les documents en question d’en fournir une version non confidentielle conformément à l’article 6.
+
+8. Lorsque la Commission estime qu’une demande effectuée en vertu du paragraphe 6 est fondée afin de veiller à ce que le destinataire puisse exercer son droit d’être entendu de manière effective, la Commission demande à la partie qui a présenté les documents en question d’accepter de mettre une version non confidentielle à la disposition du destinataire ou d’accepter l’extension des modalités de divulgation à des personnes ou entreprises déterminées uniquement pour les documents en question.
+
+9. En cas de désaccord de la partie qui a présenté les documents en question, la Commission adopte une décision fixant les modalités de divulgation des documents en question.
+
+10. Les documents obtenus grâce à l’accès au dossier donné en vertu du présent article ne sont utilisés qu’aux fins de la procédure concernée dans le cadre de laquelle l’accès à ces documents a été accordé ou aux fins des procédures judiciaires ou administratives concernant l’application du règlement (UE) 2022/2065 liées à cette procédure.
+
+11. À tout moment de la procédure, la Commission peut, en lieu et place de la méthode d’octroi de l’accès au dossier prévue au paragraphe 3 ci-dessus, ou en combinaison avec cette méthode, donner accès à tout ou partie des documents expurgés conformément à l’article 6, paragraphe 3, afin d’éviter un retard ou une charge administrative disproportionnés.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Sauf disposition contraire du règlement (UE) 2022/2065 ou de l’article 5 du présent règlement, les informations ou documents recueillis ou obtenus par la Commission ne sont ni divulgués ni rendus accessibles par la Commission dans la mesure où ils contiennent des secrets d’affaires ou d’autres informations confidentielles concernant une personne physique ou morale.
+
+2. Lorsqu’elle saisit des documents ou reçoit un accès volontaire à des documents lors d’inspections effectuées en vertu de l’article 69 du règlement (UE) 2022/2065, ou reçoit d’autres documents ou un accès à des informations en vertu de l’article 72 du règlement (UE) 2022/2065, la Commission informe les très grandes plateformes en ligne ou les très grands moteurs de recherche en ligne concernés ou, le cas échéant, d’autres personnes physiques ou morales concernées visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065, que l’accès à ces informations peut être accordé en vertu de l’article 5 du présent règlement. En tout état de cause, lorsque de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne ou, le cas échéant, d’autres personnes physiques ou morales concernées fournissent volontairement des informations à la Commission en vertu du règlement (UE) 2022/2065 ou du présent règlement, ils conviennent que l’accès à ces informations peut être accordé en vertu de l’article 5 du présent règlement.
+
+3. Sans préjudice du paragraphe 2, la Commission peut exiger des très grandes plateformes en ligne ou des très grands moteurs de recherche en ligne ou, le cas échéant, des autres personnes physiques ou morales concernées qui ont fourni les documents figurant dans leur dossier qu’ils identifient les documents, déclarations ou parties de ceux-ci qui, selon eux, contiennent des secrets d’affaires ou d’autres informations confidentielles et qu’elles identifient les personnes physiques et morales à l’égard desquelles ces informations sont considérées comme confidentielles. La Commission peut également fixer un délai pour que les très grandes plateformes en ligne ou les très grands moteurs de recherche en ligne concernés ou, le cas échéant, les autres personnes physiques ou morales concernées visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 puissent identifier toute partie d’une décision de la Commission qui, selon aux, contient des secrets d’affaires ou d’autres informations confidentielles.
+
+4. La Commission peut également fixer un délai pour que les fournisseurs des très grandes plateformes en ligne ou des très grands moteurs de recherche en ligne concernés ou, le cas échéant, les autres personnes physiques ou morales concernées visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 puissent:
+
+| a) | étayer leurs demandes de protection des secrets d’affaires et autres informations confidentielles pour chaque document et base de données ou pour chaque partie de document et de base de données; |
+| --- | --- |
+
+| b) | fournir à la Commission une version non confidentielle des documents et bases de données, dans laquelle les secrets d’affaires et autres informations confidentielles auront été supprimés de manière claire et intelligible; |
+| --- | --- |
+
+| c) | fournir une description concise et non confidentielle de chaque information supprimée. |
+| --- | --- |
+
+5. Si les fournisseurs des très grandes plateformes en ligne ou des très grands moteurs de recherche en ligne ou, le cas échéant, les autres personnes physiques ou morales concernées visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 ne respectent pas les paragraphes 2 et 3, la Commission peut considérer que les informations en question ne contiennent pas de secrets d’affaires ni d’autres informations confidentielles.
+
+6. Si la Commission établit que certaines informations déclarées confidentielles par les fournisseurs des très grandes plateformes en ligne ou des très grands moteurs de recherche en ligne ou, le cas échéant, par d’autres personnes physiques ou morales concernées visées à l’article 67, paragraphe 1, du règlement (UE) 2022/2065 peuvent être divulguées, soit parce que ces informations ne constituent pas des secrets d’affaires ou autres informations confidentielles, soit parce qu’il existe un intérêt supérieur justifiant leur divulgation, elle informe les fournisseurs concernés ou les autres personnes physiques ou morales concernées qu’elle a l’intention de divulguer ces informations si elle ne reçoit pas d’objections dans un délai d’une semaine. Si les fournisseurs ou les personnes physiques ou morales en question expriment des objections, la Commission peut adopter une décision motivée précisant le délai à l’expiration duquel les informations seront divulguées. Ce délai ne peut être inférieur à une semaine à compter de la date de la notification. La décision est notifiée aux fournisseurs concernés ou aux autres personnes physiques ou morales concernées.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. La transmission des documents, de bases de données ou de toute autre information à la Commission et par celle-ci en vertu des articles 2, 3 et 4 du présent règlement s’effectue par voie numérique. Les spécifications techniques relatives aux moyens de transmission et de signature peuvent être émises ou publiées, et régulièrement mises à jour par la Commission.
+
+2. Les documents transmis par voie numérique sont signés en utilisant au moins une signature électronique qualifiée conforme aux exigences énoncées dans le règlement (UE) no 910/2014 du Parlement européen et du Conseil (2).
+
+3. Les documents transmis à la Commission par voie numérique sont réputés avoir été reçus le jour de l’envoi lorsque la Commission envoie un accusé de réception.
+
+4. Pour les informations en temps réel ou quasi en temps réel qui sont partagées par l’intermédiaire, par exemple, d’interfaces de programmation d’applications ou de tout autre moyen équivalent, la Commission définit la méthode et la durée de ce partage d’informations.
+
+5. Les documents, bases de données et toute autre information transmis à la Commission par voie numérique sont réputés ne pas avoir été reçus si l’un des cas suivants se produit:
+
+| a) | le document ou des parties de celui-ci sont inexploitables ou inutilisables; |
+| --- | --- |
+
+| b) | le document contient des virus, des logiciels malveillants ou d’autres menaces; |
+| --- | --- |
+
+| c) | le document contient une signature électronique dont la validité ne peut être vérifiée par la Commission. |
+| --- | --- |
+
+6. La Commission informe immédiatement l’expéditeur si l’un des cas mentionnés au paragraphe 5 se produit et lui donne la possibilité d’exprimer son point de vue et de remédier à la situation dans un délai raisonnable.
+
+7. Par dérogation au paragraphe 1, dans des circonstances exceptionnelles qui rendent la transmission par voie numérique impossible ou excessivement difficile, les documents peuvent être transmis à la Commission par courrier recommandé. Ces documents sont réputés avoir été reçus par la Commission le jour de leur livraison à l’adresse du service compétent de la Commission publiée sur son site internet.
+
+8. Par dérogation au paragraphe 1, dans des circonstances exceptionnelles rendant impossible ou excessivement difficile la transmission par voie numérique et par courrier recommandé, les documents peuvent être transmis à la Commission par remise en main propre. Ces documents sont réputés avoir été reçus le jour de leur livraison à l’adresse du service compétent de la Commission publiée sur son site internet. La livraison est confirmée par un accusé de réception de la Commission.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

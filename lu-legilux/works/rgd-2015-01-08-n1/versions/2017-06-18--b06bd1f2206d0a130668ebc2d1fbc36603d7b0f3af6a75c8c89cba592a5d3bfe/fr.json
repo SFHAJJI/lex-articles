@@ -1,0 +1,272 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe",
+  "language": "fr",
+  "title": "Version consolidée applicable au 18/06/2017 : Règlement grand-ducal du 8 janvier 2015 relatif à la protection des mineurs dans les services des médias audiovisuels.",
+  "valid_from": "2017-06-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-01-08-n1/versions/2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe/fr.xml",
+    "sha256": "33b88b96879bd9b071d32868ccc0ab8ed09845533431a79881491c514c486e49",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_1er/20150119",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Les programmes de télévision luxembourgeois diffusés dans le cadre des services de télévision visés à l’article 27*ter* de la loi modifiée du 27 juillet 1991 sur les médias électroniques sont classifiés comme suit:\n\n- 1. catégorie I: tous publics\n- 2. catégorie II: déconseillé aux moins de 10 ans\n- 3. catégorie III: déconseillé aux moins de 12 ans\n- 4. catégorie IV: déconseillé aux moins de 16 ans\n- 5. catégorie V: déconseillé aux moins de 18 ans.\n\nDes pictogrammes identifiant les différentes catégories sont reproduits en annexe au présent règlement.",
+      "text_sha256": "4d2da018f269245fb54206fb7be0136464f27f37ddda466be9cfbb9fdc06205e",
+      "md_span": {
+        "start": 719,
+        "end": 1275
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi modifiée du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_2/20150119",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Les programmes de la catégorie I ne font l’objet d’aucune identification.",
+      "text_sha256": "cf22bd0287639ef19ba430d1960ddd05806d52ba2a37f6f30a6342c8b93c5f7c",
+      "md_span": {
+        "start": 1310,
+        "end": 1383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_3/20150119",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "**(1)** Les programmes de la catégorie II contiennent certaines scènes qui sont susceptibles de heurter les mineurs de moins de 10 ans.\n\nCes programmes sont identifiés à l’aide de l’indication «-10» dans un rond blanc sur fond noir et d’une mention «déconseillé aux moins de 10 ans».\n\n**(2)** Les programmes de la catégorie II doivent être identifiés par le pictogramme de la catégorie II pendant une durée de 1 minute en début de programme.\n\nLa mention «déconseillé aux moins de 10 ans» devra apparaître à l’antenne pendant au moins une minute en début de programme ou pendant la diffusion du générique et pendant une minute après la ou les éventuelles interruptions du programme.\n\n**(3)** Le pictogramme et la mention de la catégorie II doivent être visibles pendant toute la diffusion des bandes-annonces.",
+      "text_sha256": "d675cbbc22bab74a727664d59a41633c71f9a018a023643a2ef630dd6ad0e894",
+      "md_span": {
+        "start": 1418,
+        "end": 2226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_4/20150119",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "**(1)** Les programmes de la catégorie III recourent de façon systématique et répétée à la violence physique ou psychologique pouvant troubler les mineurs de moins de 12 ans.\n\nCes programmes sont identifiés à l’aide de l’indication «-12» dans un rond blanc sur fond noir et par la mention «déconseillé aux moins de 12 ans».\n\n**(2)** Les programmes de la catégorie III ne peuvent être diffusés en clair entre 6.00 heures et 20.00 heures.\n\n**(3)** Le pictogramme de la catégorie III doit être visible pendant toute la durée du programme.\n\nLa mention «déconseillé aux moins de 12 ans» doit apparaître pendant au moins une minute en début de programme ou pendant la diffusion du générique et une minute après la ou les éventuelles interruptions de programme.\n\n**(4)** Le pictogramme et la mention de la catégorie III doivent être visibles pendant toute la diffusion des bandes-annonces.",
+      "text_sha256": "d92e2954b08189221376ddfca9c1257edce42bab204ac8108f0125bc776521e1",
+      "md_span": {
+        "start": 2261,
+        "end": 3143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_5/20150119",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "**(1)** Les programmes de la catégorie IV présentent un caractère érotique ou de grande violence et sont susceptibles de nuire à l’épanouissement physique, mental ou moral des moins de 16 ans.\n\nCes programmes sont identifiés à l’aide de l’indication «-16 ans» dans un rond blanc sur fonds noir et par la mention «déconseillé aux moins de 16 ans».\n\n**(2)** Les programmes de la catégorie IV ne peuvent être diffusés en clair entre 6.00 heures et 22.00 heures.\n\n**(3)** Lorsque ces programmes sont diffusés en clair, le pictogramme de la catégorie IV doit être visible pendant toute la durée du programme.\n\nLa mention «déconseillé aux moins de 16 ans» de la catégorie IV doit apparaître pendant au moins une minute en début de programme ou pendant la diffusion du générique et une minute après la ou les éventuelles interruptions de programme.\n\n**(4)** Le pictogramme et la mention de la catégorie IV doivent être visibles pendant toute la diffusion des bandes-annonces.",
+      "text_sha256": "8b78a0426f9efe2c722ad1767bee94b3563aaf973ebde521d69830a287240adc",
+      "md_span": {
+        "start": 3178,
+        "end": 4146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_6/20150119",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "**(1)** Les programmes de la catégorie V sont ceux qui, sans être illicites, doivent cependant être strictement réservés à un public adulte en raison de leur caractère sexuel explicite ou hautement violent.\n\n**(2)** Ces programmes, ainsi que les bandes-annonces y relatifs, doivent être diffusés exclusivement entre minuit et 5.00 heures du matin.\n\n**(3)** Les programmes ainsi que les bandes-annonces y relatifs sont interdits de diffusion sauf s’ils sont diffusés à l’aide de signaux cryptés et en recourant à un ou des dispositifs qui permette de n’y accéder qu’après avoir saisi un code d’accès personnel. Sans introduction de ce code le dispositif doit avoir pour effet de diffuser une image monochrome en plein écran non accompagnée de son.",
+      "text_sha256": "b4f8b3cc991dc515b0ce412da1e34371783271f028ec7280d93789cad2c69985",
+      "md_span": {
+        "start": 4181,
+        "end": 4927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_7/20150119",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Le fournisseur de services de médias audiovisuels luxembourgeois doit procéder à la classification des programmes de télévision luxembourgeois diffusés dans le cadre des services de télévision visés à l’article 27*ter* de la loi modifiée du 27 juillet 1991 sur les médias électroniques selon les catégories visées à l’article 1er.",
+      "text_sha256": "632b3320d6848473b4247c040a3e4e26eef6b418fb7bccfd230fd96ff07b0407",
+      "md_span": {
+        "start": 4962,
+        "end": 5292
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi modifiée du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_8/20170618",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-06-18",
+      "text_md": "**(1)** Le fournisseur dont les services de médias audiovisuels linéaires sont principalement destinés au public d’un autre Etat dans lequel un système de classification et de protection équivalent est d’application peut, en alternative au système prévu ci-dessus, opter pour l’alignement sur le système en vigueur dans cet Etat.\n\n**(2)** Le fournisseur qui entend recourir à cette option notifie le système qu’il souhaite appliquer à l’Autorité luxembourgeoise indépendante de l’audiovisuel ci-après désignée par «l’Autorité» qui décide de l’acception ou du refus du système.",
+      "text_sha256": "5b4259a3ad5275e75e36b8f7dd2bfa5582c06bf7bf42a162abf10a7476b526af",
+      "md_span": {
+        "start": 5327,
+        "end": 5903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_9/20170618",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-06-18",
+      "text_md": "**(1)** Le fournisseur d’un service de médias audiovisuels à la demande doit procéder à la classification des services de médias audiovisuels à la demande soit par référence aux catégories visées à l’article 1er du présent règlement, soit par référence à la classification effectuée dans le pays d’origine de l’œuvre, soit, lorsque son service de médias audiovisuels à la demande est principalement destiné au public d’un autre Etat dans lequel un système de classification et de protection équivalent est d’application, en alternative au système prévu ci-dessus, par référence au système en vigueur dans cet Etat.\n\n**(2)** Le fournisseur qui entend recourir à une de ces options notifie le système qu’il souhaite appliquer à «l’Autorité» qui décide de l’acception ou du refus du système.",
+      "text_sha256": "4aa1e30434771f5eaab4ee4302af32bf3283576e2f43982ed78e1b10feb26a58",
+      "md_span": {
+        "start": 5938,
+        "end": 6726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_10/20150119",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Le fournisseur d’un service de médias audiovisuels à la demande met dans tous les cas en place un système de contrôle parental qui permet aux utilisateurs de soumettre l’accès aux programmes audiovisuels contenus dans son catalogue à un code spécifique. Il veille à ce que les utilisateurs soient informés de manière appropriée de l’existence d’un tel système de contrôle parental.",
+      "text_sha256": "98b32ef8d30620ba1f2e7ba248b1f31ddef8e9e5a39fe061797f4dac7329fcd9",
+      "md_span": {
+        "start": 6763,
+        "end": 7144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_11/20150119",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Les services de médias audiovisuels à la demande de la catégorie V doivent être présentés dans un espace séparé. Ils doivent être commercialisés dans le cadre d’offres payantes, par séance ou par abonnement.",
+      "text_sha256": "094c265eeb4510bd05faaf99e4452c0d7cf9c167670a984896d1a64a8d96175b",
+      "md_span": {
+        "start": 7181,
+        "end": 7388
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_12/20150119",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "L’espace réservé aux services de médias audiovisuels à la demande de la catégorie V ainsi que les bandesannonces y relatifs, font en permanence l’objet d’un verrouillage spécifique, de façon à ne pouvoir être accédés en clair que moyennant un code spécial d’accès. L’accès à cet espace ainsi qu’aux œuvres qui composent cet espace doit être verrouillé à chaque tentative d’accès.",
+      "text_sha256": "b1ac7c0ac1c8aee2f03b414a82b28787ab249ac924779a1d6948e44baccd528b",
+      "md_span": {
+        "start": 7425,
+        "end": 7804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/art_13/20150119",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-19",
+      "text_md": "Notre Ministre des Communications et des Médias est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5ab737ea935daac72fd16e5f807c778ff0ac08cb75dbacafd3bbf59913c3482b",
+      "md_span": {
+        "start": 7841,
+        "end": 7964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2015-01-08-n1:2017-06-18--b06bd1f2206d0a130668ebc2d1fbc36603d7b0f3af6a75c8c89cba592a5d3bfe#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 8005,
+        "end": 8005
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

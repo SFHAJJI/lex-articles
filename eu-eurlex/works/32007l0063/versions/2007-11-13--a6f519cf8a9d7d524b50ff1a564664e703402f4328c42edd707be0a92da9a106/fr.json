@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106",
+  "language": "fr",
+  "title": "Directive 2007/63/EC",
+  "valid_from": "2007-11-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32007l0063/versions/2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106/fr.xml",
+    "sha256": "8fabffff835482fc9563c6a50f98ffa79506e038fc91f34944a66cb339b2315f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0063"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa présente directive a pour objet de modifier les directives 78/855/CEE et 82/891/CEE pour ce qui est de l’exigence d’un rapport d’expert indépendant à réaliser à l’occasion des fusions ou des scissions des sociétés anonymes.",
+      "text_sha256": "d6038ae8c2ff9979a1ce5625b3559a5ca461c2de8fae4266fe02f4ae65afaf6b",
+      "md_span": {
+        "start": 631,
+        "end": 874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa directive 78/855/CEE est modifiée comme suit:\n\n| 1. | à l’article 10, le paragraphe suivant est ajouté:«4. Ni un examen du projet de fusion ni un rapport d’expert ne sont requis, si tous les actionnaires et les porteurs des autres titres conférant un droit de vote de chacune des sociétés participant à la fusion en ont décidé ainsi.»; |\n| --- | --- |\n\n| 2. | à l’article 11, paragraphe 1, le point e) est remplacé par le texte suivant:«e)le cas échéant, les rapports visés à l’article 10.» |\n| --- | --- |\n| «e) | le cas échéant, les rapports visés à l’article 10.» |",
+      "text_sha256": "8e4fd2eaf2f5b602e08d59d1436c0efc62d03724f4c6862df20fb980133a4ced",
+      "md_span": {
+        "start": 907,
+        "end": 1489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa directive 82/891/CEE est modifiée comme suit:\n\n| 1. | à l’article 9, paragraphe 1, le point e) est remplacé par le texte suivant:«e)le cas échéant, les rapports visés à l’article 8.»; |\n| --- | --- |\n| «e) | le cas échéant, les rapports visés à l’article 8.»; |\n\n| 2. | l’article 10 est remplacé par le texte suivant:«Article 101. Ni un examen du projet de scission ni un rapport d’expert, tel qu’il est prévu à l’article 8, paragraphe 1, ne sont requis, si tous les actionnaires et les porteurs des autres titres conférant un droit de vote de chacune des sociétés participant à la scission en ont décidé ainsi.2. Les États membres peuvent permettre que l’article 7 et l’article 9, paragraphe 1, points c) et d), ne s’appliquent pas, si tous les actionnaires et les porteurs des autres titres conférant un droit de vote de chacune des sociétés participant à la scission y ont renoncé.» |\n| --- | --- |",
+      "text_sha256": "f56c90c6604d84f942f43bbe3efe01e3054a8b18faa1528d1aa8c18ce20cfdec",
+      "md_span": {
+        "start": 1522,
+        "end": 2437
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive, au plus tard le 31 décembre 2008. Ils communiquent immédiatement à la Commission le texte de ces dispositions ainsi qu’un tableau de correspondance entre celles-ci et la présente directive.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "bfbd62983f11bc468971a305d7b526e668897c05d5b3171b491e04cad8db584b",
+      "md_span": {
+        "start": 2470,
+        "end": 3265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "950883329ba20204e827c417b3c4793c6490e52006e0a19ccdd1fdddfeee1de1",
+      "md_span": {
+        "start": 3298,
+        "end": 3440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32007l0063:2007-11-13--a6f519cf8a9d7d524b50ff1a564664e703402f4328c42edd707be0a92da9a106#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "c543e122d516e8e9a7054a000a16b82e598ce3aff16f5992f583c87319c0fd62",
+      "md_span": {
+        "start": 3473,
+        "end": 3546
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/101 of 15\u00A0January 2026 on setting out the technical specifications and other requirements for the decentralised IT system, as referenced in Regulation (EU)\u00A02023/2844",
+  "valid_from": "2026-01-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0101/versions/2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59/fr.xml",
+    "sha256": "3117db7006898449b0ee210bf23a95f14ccf683819553e89033b336d045efe62",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement s’applique:\n\n| 1) | aux communications électroniques dans les procédures établies par:a)le règlement (CE) no 1896/2006 du Parlement européen et du Conseil (7);b)le règlement (CE) no 861/2007 du Parlement européen et du Conseil (8);c)la décision-cadre 2002/584/JAI du Conseil (9);d)la directive 2014/41/UE du Parlement européen et du Conseil (10);e)le règlement (UE) 2018/1805 du Parlement européen et du Conseil (11); |\n| --- | --- |\n| a) | le règlement (CE) no 1896/2006 du Parlement européen et du Conseil (7); |\n| b) | le règlement (CE) no 861/2007 du Parlement européen et du Conseil (8); |\n| c) | la décision-cadre 2002/584/JAI du Conseil (9); |\n| d) | la directive 2014/41/UE du Parlement européen et du Conseil (10); |\n| e) | le règlement (UE) 2018/1805 du Parlement européen et du Conseil (11); |\n\n| 2) | aux communications électroniques dans le cadre de la procédure établie par l’article 19 bis du règlement (UE) 2020/1784, tel qu’introduit par l’article 24, paragraphe 3, du règlement (UE) 2023/2844 pour la signification ou la notification d’actes par voie électronique par l’intermédiaire du point d’accès électronique européen. |\n| --- | --- |",
+      "text_sha256": "422def03cb568beba69e5aa57cbe78d9505e4e41de8753817e8c504bd0ff6038",
+      "md_span": {
+        "start": 821,
+        "end": 2016
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202600101FR.000101-E0007",
+          "text": "(7)"
+        },
+        {
+          "href": "#ntr8-L_202600101FR.000101-E0008",
+          "text": "(8)"
+        },
+        {
+          "href": "#ntr9-L_202600101FR.000101-E0009",
+          "text": "(9)"
+        },
+        {
+          "href": "#ntr10-L_202600101FR.000101-E0010",
+          "text": "(10)"
+        },
+        {
+          "href": "#ntr11-L_202600101FR.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes spécifications, mesures et objectifs techniques du système informatique décentralisé visés à l’article 10, paragraphe 1, points a), b), c) et d), du règlement (UE) 2023/2844 sont ceux indiqués à l’annexe I du présent règlement.",
+      "text_sha256": "55023ef540632c77b2f75699c541a1e03b01339ae8c0e29d132e7ed82b2048a9",
+      "md_span": {
+        "start": 2049,
+        "end": 2291
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre de la procédure prévue par le règlement (CE) no 1896/2006 est celle indiquée à l’annexe II du présent règlement.",
+      "text_sha256": "fea70fc48f77fac7bc9815550e5481f10741b1b3847478371d1ffd14b2b9d621",
+      "md_span": {
+        "start": 2324,
+        "end": 2593
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre de la procédure prévue par le règlement (CE) no 861/2007 est celle indiquée à l’annexe III du présent règlement.",
+      "text_sha256": "9cd6fc9d963396eeadc76d01c21ce16810df4d758833de9ee5c7e9aa10fa87e3",
+      "md_span": {
+        "start": 2626,
+        "end": 2895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre des procédures prévues par la décision-cadre 2002/584/JAI est celle indiquée à l’annexe IV du présent règlement.",
+      "text_sha256": "ab369d62bed4bbb75072e5035eeaf156ed93ef41ab0d8f0ced8ce461284b317f",
+      "md_span": {
+        "start": 2928,
+        "end": 3197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre des procédures relevant de la directive 2014/41/UE est celle indiquée à l’annexe V du présent règlement.",
+      "text_sha256": "427c12ffef8f51c50469b7ecdcfdb1fa0d5c4cb7ae94196326c788167008c7db",
+      "md_span": {
+        "start": 3230,
+        "end": 3491
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre des procédures prévues par le règlement (UE) 2018/1805 est celle indiquée à l’annexe VI du présent règlement.",
+      "text_sha256": "c7eef819f43a5e1f76bc4a73e7792947398f8198690e1b1e2a2c9acfeecf5e54",
+      "md_span": {
+        "start": 3524,
+        "end": 3790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLa norme de procédure numérique applicable à la communication électronique par l’intermédiaire du système informatique décentralisé dans le cadre de la procédure établie par l’article 19 bis du règlement (UE) 2020/1784, tel qu’introduit par l’article 24, paragraphe 3, du règlement (UE) 2023/2844 pour la signification ou la notification d’actes par voie électronique par l’intermédiaire du point d’accès électronique européen, est celle indiquée à l’annexe VII du présent règlement.",
+      "text_sha256": "e18b051e03c3f62f1b533562427d53571b0d8c26b954bbb7a59dc53103386728",
+      "md_span": {
+        "start": 3823,
+        "end": 4317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nLe calendrier de mise en œuvre visé à l’article 10, paragraphe 1, point f), du règlement (UE) 2023/2844 est celui figurant à l’annexe VIII du présent règlement.",
+      "text_sha256": "1b86c7d83e613bd7aaa3343e09cc4cf7e84945c4841ea1efcf3324857716afcc",
+      "md_span": {
+        "start": 4350,
+        "end": 4521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15--ff1dbe795a26ac758d4f9a117b258352c692225af389ac9b602bd68603769e59#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "8f7f42ddc10650a0b076a931a6be7f7f00806903fcf297b1daab8d65e2259941",
+      "md_span": {
+        "start": 4556,
+        "end": 4698
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-2003-12-19-n16",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "fac175a22034fd86f9aff54b3f217a6bee631111a30d0e51d93f98df3c58c217",
-        "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01",
+        "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01--9a6034b332336ec290a68eced0c755194761129212dd789d22bac159edc5f1d0",
         "article_valid_from": "2004-01-04",
         "validity_conflict": true
       }
@@ -21,7 +21,7 @@
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "77657273da77c26a628ea1bf5b1559083cefafc54ce10df25758b0607f3e3989",
-        "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01",
+        "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01--9a6034b332336ec290a68eced0c755194761129212dd789d22bac159edc5f1d0",
         "article_valid_from": "2026-01-01"
       }
     ]
@@ -34,7 +34,7 @@
           "valid_from": "2026-01-01",
           "valid_to": null,
           "text_sha256": "fac175a22034fd86f9aff54b3f217a6bee631111a30d0e51d93f98df3c58c217",
-          "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01",
+          "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01--9a6034b332336ec290a68eced0c755194761129212dd789d22bac159edc5f1d0",
           "article_valid_from": "2004-01-04",
           "validity_conflict": true
         }
@@ -44,7 +44,7 @@
           "valid_from": "2026-01-01",
           "valid_to": null,
           "text_sha256": "77657273da77c26a628ea1bf5b1559083cefafc54ce10df25758b0607f3e3989",
-          "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01",
+          "in_version": "lu-legilux:loi-2003-12-19-n16:2026-01-01--9a6034b332336ec290a68eced0c755194761129212dd789d22bac159edc5f1d0",
           "article_valid_from": "2026-01-01"
         }
       ]

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) No 530/2014 of 12 March 2014 supplementing Directive 2013/36/EU",
+  "valid_from": "2014-03-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0530/versions/2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1/fr.xml",
+    "sha256": "2b35229e3fa77a94a6fe33e9d8ccb4e878ee627356ef0456c273ec689ab2cb9e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0530"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nUne exposition d'un établissement au risque spécifique lié à des titres de créance est considérée comme significative en valeur absolue lorsque la somme de toutes les positions nettes, longues et courtes, telles que définies à l'article 327 du règlement (UE) no 575/2013, est supérieure à 1 000 000 000 EUR.",
+      "text_sha256": "594f7a3529698e37b8444fb4c4731b1214fe772a608bfa6ac93cb4a25ea70a69",
+      "md_span": {
+        "start": 711,
+        "end": 1035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe portefeuille soumis au risque spécifique d'un établissement est considéré comme comportant un nombre élevé de positions significatives sur des titres de créance provenant de différents émetteurs lorsque le portefeuille comprend plus de 100 positions dont chacune est d'un montant supérieur à 2 500 000 EUR, que ces positions soient longues nettes ou courtes nettes, telles que définies à l'article 327 du règlement (UE) no 575/2013.",
+      "text_sha256": "497313cd67d99cc786a10e8db2a788b60d837a4092a6293df5e53eda5138c2fb",
+      "md_span": {
+        "start": 1068,
+        "end": 1514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0530:2014-03-12--065fa8eb0c9a3688c9488b0221ca1e4fe4f673938fe1f189a5ea7d69dc7107f1#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7720039f9cc590ca2cf0e65e106be507dd1006b57b075fd095ec38f7220a4937",
+      "md_span": {
+        "start": 1547,
+        "end": 1688
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

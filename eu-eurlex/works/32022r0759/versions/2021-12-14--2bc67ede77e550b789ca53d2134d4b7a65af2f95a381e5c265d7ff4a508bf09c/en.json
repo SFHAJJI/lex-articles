@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0759:2021-12-14--2bc67ede77e550b789ca53d2134d4b7a65af2f95a381e5c265d7ff4a508bf09c",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/759 of 14\u00A0December 2021 amending Annex VII to Directive (EU) 2018/2001",
+  "valid_from": "2021-12-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0759/versions/2021-12-14--2bc67ede77e550b789ca53d2134d4b7a65af2f95a381e5c265d7ff4a508bf09c/en.xml",
+    "sha256": "3c26440c3a0f41d876729e86383d945c87b5cc629851c478c9bcbde07f5b4fd7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0759"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14--2bc67ede77e550b789ca53d2134d4b7a65af2f95a381e5c265d7ff4a508bf09c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnex VII to Directive (EU) 2018/2001 is replaced by the Annex to this Regulation.",
+      "text_sha256": "0aeaadac755892053c2c8cf9e6e2caa1b80623262f01c33b8682ac7cac366c7d",
+      "md_span": {
+        "start": 723,
+        "end": 816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14--2bc67ede77e550b789ca53d2134d4b7a65af2f95a381e5c265d7ff4a508bf09c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe Commission shall review this Regulation in the light of technological progress and innovation, the stock deployment, and its impacts on the renewable energy targets.",
+      "text_sha256": "108d01d3c2da3fe11564b610ef57f31776d1358aa93dc6602532c6c2b9630b88",
+      "md_span": {
+        "start": 849,
+        "end": 1029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14--2bc67ede77e550b789ca53d2134d4b7a65af2f95a381e5c265d7ff4a508bf09c#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "56404d2c13771440b8a118c3eef6d5d7fd49defce4ed302fc1db3829c59f1e43",
+      "md_span": {
+        "start": 1062,
+        "end": 1309
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

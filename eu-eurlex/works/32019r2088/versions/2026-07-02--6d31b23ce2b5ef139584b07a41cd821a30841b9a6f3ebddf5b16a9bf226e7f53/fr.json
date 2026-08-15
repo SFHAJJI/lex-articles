@@ -1,0 +1,487 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53",
+  "language": "fr",
+  "title": "Regulation (EU) 2019/2088",
+  "valid_from": "2026-07-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r2088/versions/2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53/fr.html",
+    "sha256": "9dd792f02c6e52347822d5475a3e5c902f910859aeeef9b749676ef04c0723bf",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R2088-20260702"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement établit des règles harmonisées pour les acteurs des marchés financiers et les conseillers financiers relatives à la transparence en ce qui concerne l’intégration des risques en matière de durabilité et la prise en compte des incidences négatives en matière de durabilité dans leurs processus ainsi que la fourniture d’informations en matière de durabilité en ce qui concerne les produits financiers.",
+      "text_sha256": "9fbbbd31d20dfc470047670b4d6bc3433f0830494e1d7c57625727fdc0a9efcc",
+      "md_span": {
+        "start": 663,
+        "end": 1083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «acteur des marchés financiers»: a) une entreprise d’assurance qui propose des produits d’investissement fondés sur l’assurance; b) une entreprise d’investissement fournissant des services de gestion de portefeuille; c) une institution de retraite professionnelle (IRP); d) un initiateur de produit de retraite; e) un gestionnaire de fonds d’investissement alternatif (ci-après dénommé «gestionnaire de FIA»); f) un fournisseur de produits paneuropéens d’épargne-retraite individuelle (PEPP); g) un gestionnaire de fonds de capital-risque éligible enregistré conformément à l’article 14 du règlement (UE) no 345/2013; h) un gestionnaire de fonds d’entrepreneuriat social éligible enregistré conformément à l’article 15 du règlement (UE) no 346/2013; i) une société de gestion d’organismes de placement collectif en valeurs mobilières (ci-après dénommée «société de gestion d’OPCVM»); ou j) un établissement de crédit fournissant des services de gestion de portefeuille;\n\n2) «entreprise d’assurance»: une entreprise d’assurance agréée conformément à l’article 18 de la directive 2009/138/CE;\n\n3) «produit d’investissement fondé sur l’assurance»: a) un produit d’investissement fondé sur l’assurance au sens de l’article 4, point 2), du règlement (UE) no 1286/2014 du Parlement européen et du Conseil (1); ou b) un produit d’assurance qui est proposé à un investisseur professionnel et qui comporte une durée de vie ou une valeur de rachat qui est totalement ou partiellement exposée, de manière directe ou indirecte, aux fluctuations du marché;\n\n4) «gestionnaire de FIA»: un gestionnaire de fonds d’investissement alternatif (FIA) au sens de l’article 4, paragraphe 1, point b), de la directive 2011/61/UE;\n\n5) «entreprise d’investissement»: une entreprise d’investissement au sens de l’article 4, paragraphe 1, point 1), de la directive 2014/65/UE;\n\n6) «gestion de portefeuille»: la gestion de portefeuille au sens de l’article 4, paragraphe 1, point 8), de la directive 2014/65/UE;\n\n7) «institution de retraite professionnelle» ou «IRP»: une institution de retraite professionnelle agréée ou enregistrée conformément à l’article 9 de la directive (UE) 2016/2341, à l’exception d’une institution pour laquelle un État membre a choisi d’appliquer l’article 5 de ladite directive ou d’une institution qui gère des régimes de retraite comptant au total moins de quinze affiliés;\n\n8) «produit de retraite»: a) un produit de retraite visé à l’article 2, paragraphe 2, point e), du règlement (UE) no 1286/2014; ou b) un produit de retraite individuel visé à l’article 2, paragraphe 2, point g), du règlement (UE) no 1286/2014;\n\n9) «produit paneuropéen d’épargne-retraite individuelle» ou «PEPP», un produit visé à l’article 2, point 2), du règlement (UE) 2019/1238;\n\n10) «société de gestion d’OPCVM»: a) une société de gestion au sens de l’article 2, paragraphe 1, point b), de la directive 2009/65/CE; ou b) une société d’investissement agréée conformément à la directive 2009/65/CE n’ayant pas désigné une société de gestion agréée conformément à ladite directive pour sa gestion;\n\n11) «conseiller financier»: a) un intermédiaire d’assurance qui fournit des conseils en assurance relatifs à des produits d’investissement fondés sur l’assurance; b) une entreprise d’assurance qui fournit des conseils en assurance relatifs à des produits d’investissement fondés sur l’assurance; c) un établissement de crédit qui fournit des conseils en investissement; d) une entreprise d’investissement qui fournit des conseils en investissement; e) un gestionnaire de FIA qui fournit des conseils en investissement conformément à l’article 6, paragraphe 4, point b) i), de la directive 2011/61/UE; ou f) une société de gestion d’OPCVM qui fournit des conseils en investissement conformément à l’article 6, paragraphe 3, point b) i), de la directive 2009/65/CE;\n\n12) «produit financier»: a) un portefeuille géré conformément au point 6) du présent article; b) un fonds d’investissement alternatif (FIA); c) un produit d’investissement fondé sur l’assurance; d) un produit de retraite; e) un régime de retraite; f) un OPCVM; ou g) un PEPP;\n\n13) «fonds d’investissement alternatif» ou «FIA»: un FIA au sens de l’article 4, paragraphe 1, point a), de la directive 2011/61/UE;\n\n14) «régime de retraite»: un régime de retraite au sens de l’article 6, point 2), de la directive (UE) 2016/2341;\n\n15) «organisme de placement collectif en valeurs mobilières» ou «OPCVM»: un organisme agréé conformément à l’article 5 de la directive 2009/65/CE;\n\n16) «conseil en investissement»: un conseil en investissement au sens de l’article 4, paragraphe 1, point 4), de la directive 2014/65/UE;\n\n17) «investissement durable»: un investissement dans une activité économique qui contribue à un objectif environnemental, mesuré par exemple au moyen d’indicateurs clés en matière d’utilisation efficace des ressources concernant l’utilisation d’énergie, d’énergies renouvelables, de matières premières, d’eau et de terres, en matière de production de déchets et d’émissions de gaz à effet de serre ou en matière d’effets sur la biodiversité et l’économie circulaire, ou un investissement dans une activité économique qui contribue à un objectif social, en particulier un investissement qui contribue à la lutte contre les inégalités ou qui favorise la cohésion sociale, l’intégration sociale et les relations de travail, ou un investissement dans le capital humain ou des communautés économiquement ou socialement défavorisées, pour autant que ces investissements ne causent de préjudice important à aucun de ces objectifs et que les sociétés dans lesquels les investissements sont réalisés appliquent des pratiques de bonne gouvernance, en particulier en ce qui concerne des structures de gestion saines, les relations avec le personnel, la rémunération du personnel compétent et le respect des obligations fiscales;\n\n18) «investisseur professionnel»: un client qui remplit les critères prévus à l’annexe II de la directive 2014/65/UE;\n\n19) «investisseur de détail»: un investisseur qui n’est pas un investisseur professionnel;\n\n20) «intermédiaire d’assurance»: un intermédiaire d’assurance au sens de l’article 2, paragraphe 1, point 3), de la directive (UE) 2016/97;\n\n21) «conseil en assurance»: un conseil au sens de l’article 2, paragraphe 1, point 15), de la directive (UE) 2016/97;\n\n22) «risque en matière de durabilité»: un événement ou une situation dans le domaine environnemental, social ou de la gouvernance qui, s’il survient, pourrait avoir une incidence négative importante, réelle ou potentielle, sur la valeur de l’investissement;\n\n23) «fonds européen d’investissement à long terme» ou «ELTIF»: un fonds agréé conformément à l’article 6 du règlement (UE) 2015/760;\n\n24) «facteurs de durabilité»: des questions environnementales, sociales et de personnel, le respect des droits de l’homme et la lutte contre la corruption et les actes de corruption.",
+      "text_sha256": "ea30e85d9b3bcf7964758d75499aaf11666ba00b5aa348b422d8a75097d8896f",
+      "md_span": {
+        "start": 1134,
+        "end": 8105
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2a",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_2a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 bis",
+      "heading": "Principe consistant à ne pas causer de préjudice important",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les autorités européennes de surveillance instituées par les règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010 du Parlement européen et du Conseil (ci-après collectivement dénommées «autorités européennes de surveillance») élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation pour détailler le contenu et la présentation des informations relatives au principe consistant à «ne pas causer de préjudice important» visé à l’article 2, point 17), du présent règlement, qui soient cohérents avec le contenu, les méthodes et la présentation pour ce qui est des indicateurs de durabilité concernant les incidences négatives visées à l’article 4, paragraphes 6 et 7, du présent règlement.\n\n**2.** Les autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visés au paragraphe 1 à la Commission au plus tard le 30 décembre 2020.\n\n**3.** Le pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au paragraphe 1 du présent article est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "76647d0a812042bef6c41bc236d01e90ac703b88e9a21532a596ee489d7aca50",
+      "md_span": {
+        "start": 8208,
+        "end": 9427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Transparence des politiques relatives aux risques en matière de durabilité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les acteurs des marchés financiers publient sur leur site internet des informations concernant leurs politiques relatives à l’intégration des risques en matière de durabilité dans leur processus de prise de décision en matière d’investissement.\n\n**2.** Les conseillers financiers publient sur leur site internet des informations concernant leurs politiques relatives à l’intégration des risques en matière de durabilité dans leurs conseils en investissement ou leurs conseils en assurance.",
+      "text_sha256": "d8902ed387db62669c823c7b6a15b058aae37254bc41a68b0c0a128d1a46332a",
+      "md_span": {
+        "start": 9541,
+        "end": 10037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Transparence des incidences négatives en matière de durabilité au niveau des entités",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les acteurs des marchés financiers publient et tiennent à jour sur leur site internet:a) lorsqu’ils prennent en compte les principales incidences négatives des décisions d’investissement sur les facteurs de durabilité, une déclaration sur les politiques de diligence raisonnable en ce qui concerne ces incidences, compte tenu de leur taille, de la nature et de l’étendue de leurs activités ainsi que des types de produits financiers qu’ils mettent à disposition; oub) lorsqu’ils ne prennent pas en compte les incidences négatives des décisions d’investissement sur les facteurs de durabilité, des informations claires sur les raisons pour lesquelles ils ne le font pas, y compris, le cas échéant, des informations indiquant si et quand ils ont l’intention de prendre en compte ces incidences négatives.\n\n**2.** Les acteurs des marchés financiers incluent, dans les informations fournies conformément au paragraphe 1, point a), au moins:a) des informations sur leurs politiques relatives au recensement et à la hiérarchisation des principales incidences négatives en matière de durabilité et les indicateurs y afférents;b) une description des principales incidences négatives en matière de durabilité et de toutes mesures prises à cet égard ou, le cas échéant, prévues;c) un bref résumé des politiques d’engagement, conformément à l’article 3 octies de la directive 2007/36/CE, le cas échéant;d) la mention de leur respect des codes relatifs à un comportement responsable des entreprises et des normes internationalement reconnues en matière de diligence raisonnable et de communication d’informations et, le cas échéant, de leur degré d’alignement sur les objectifs de l’accord de Paris.\n\n**3.** Par dérogation au paragraphe 1, à partir du 30 juin 2021, les acteurs des marchés financiers dépassant, à la date de clôture de leur bilan, le critère du nombre moyen de cinq cents salariés sur l’exercice publient et tiennent à jour sur leur site internet une déclaration sur leurs politiques de diligence raisonnable en ce qui concerne les principales incidences négatives des décisions d’investissement sur les facteurs de durabilité. Ladite déclaration comprend au moins les informations visées au paragraphe 2.\n\n**4.** Par dérogation au paragraphe 1 du présent article, à partir du 30 juin 2021, les acteurs des marchés financiers qui sont des entreprises mères d’un grand groupe tel qu’il est visé à l’article 3, paragraphe 7, de la directive 2013/34/UE dépassant, à la date de clôture du bilan du groupe, sur une base consolidée, le critère du nombre moyen de cinq cents salariés sur l’exercice, publient et tiennent à jour sur leur site internet une déclaration sur leurs politiques de diligence raisonnable en ce qui concerne les principales incidences négatives des décisions d’investissement sur les facteurs de durabilité. Ladite déclaration comprend au moins les informations visées au paragraphe 2.\n\n**5.** Les conseillers financiers publient et tiennent à jour sur leur site internet:a) des informations indiquant si, compte tenu de leur taille, de la nature et de l’étendue de leurs activités ainsi que des types de produits financiers sur lesquels ils fournissent des conseils, ils prennent en considération, dans leurs conseils en investissement ou leurs conseils en assurance, les principales incidences négatives sur les facteurs de durabilité; oub) des informations indiquant pourquoi ils ne prennent pas en compte les incidences négatives des décisions d’investissement sur les facteurs de durabilité dans leurs conseils en investissement ou leurs conseils en assurance, y compris, le cas échéant, des informations indiquant si et quand ils ont l’intention de prendre en compte ces incidences négatives.\n\n**6.** Au plus tard le 30 décembre 2020, les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010 concernant le contenu, les méthodes et la présentation pour les informations visées aux paragraphes 1 à 5 du présent article, pour ce qui est des indicateurs de durabilité concernant les incidences négatives en matière de climat et d’autres incidences négatives en matière d’environnement.\n\nLe cas échéant, les autorités européennes de surveillance sollicitent des contributions de l’Agence européenne pour l’environnement et du Centre commun de recherche de la Commission européenne.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.\n\n**7.** Au plus tard le 30 décembre 2021, les autorités de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010 concernant le contenu, les méthodes et la présentation pour les informations visées aux paragraphes 1 à 5 du présent article, pour ce qui est des indicateurs de durabilité concernant les incidences négatives dans le domaine des questions sociales et de personnel, du respect des droits de l’homme et de la lutte contre la corruption et les actes de corruption.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "7b1f7e1bc439f6247cb881c6bbc85b396b96f92eb5e6b52db0ad0e2c69ae96a4",
+      "md_span": {
+        "start": 10161,
+        "end": 15864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Transparence des politiques de rémunération en ce qui concerne l’intégration des risques en matière de durabilité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les acteurs des marchés financiers et les conseillers financiers incluent dans leurs politiques de rémunération des informations sur la manière dont ces politiques sont adaptées à l’intégration des risques en matière de durabilité et publient ces informations sur leur site internet.\n\n**2.** Les informations visées au paragraphe 1 sont incluses dans les politiques de rémunération que les acteurs des marchés financiers et les conseillers financiers sont tenus d’établir et de tenir à jour conformément à la législation sectorielle, en particulier les directives 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE, 2014/65/UE, (UE) 2016/97 et (UE) 2016/2341.",
+      "text_sha256": "1b6b5b623d0a8907ea9d20384210953685f9b4ebf9725dc3c532659265429d75",
+      "md_span": {
+        "start": 16017,
+        "end": 16680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Transparence de l’intégration des risques en matière de durabilité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Dans les informations précontractuelles publiées, les acteurs des marchés financiers décrivent:a) la manière dont les risques en matière de durabilité sont intégrés dans leurs décisions d’investissement; etb) les résultats de l’évaluation des incidences probables des risques en matière de durabilité sur le rendement des produits financiers qu’ils mettent à disposition.\n\nLorsque les acteurs des marchés financiers estiment que les risques en matière de durabilité ne sont pas pertinents, les descriptions visées au premier alinéa comprennent une explication claire et concise des raisons de cette estimation.\n\n**2.** Dans les informations précontractuelles publiées, les conseillers financiers décrivent:a) la manière dont les risques en matière de durabilité sont intégrés dans leurs conseils en investissement ou en assurance; etb) le résultat de l’évaluation des incidences probables des risques en matière de durabilité sur le rendement des produits financiers sur lesquels ils fournissent des conseils.\n\nLorsque les conseillers financiers estiment que les risques en matière de durabilité ne sont pas pertinents, les descriptions visées au premier alinéa comprennent une explication claire et concise des raisons de cette estimation.\n\n**3.** Les informations visées aux paragraphes 1 et 2 du présent article sont publiées comme suit:a) pour les gestionnaires de FIA, dans les informations à communiquer aux investisseurs visées à l’article 23, paragraphe 1, de la directive 2011/61/UE;b) pour les entreprises d’assurance, dans les informations à fournir visées à l’article 185, paragraphe 2, de la directive 2009/138/CE ou, le cas échéant, conformément à l’article 29, paragraphe 1, de la directive (UE) 2016/97;c) pour les IRP, dans les informations à fournir visées à l’article 41 de la directive (UE) 2016/2341;d) pour les gestionnaires de fonds de capital-risque éligibles, dans les informations à fournir visées à l’article 13, paragraphe 1, du règlement (UE) no 345/2013;e) pour les gestionnaires de fonds d’entrepreneuriat social éligibles, dans les informations à fournir visées à l’article 14, paragraphe 1, du règlement (UE) no 346/2013;f) pour les initiateurs de produits de retraite, par écrit et en temps utile avant qu’un investisseur de détail ne soit lié par un contrat relatif à un produit de retraite;g) pour les sociétés de gestion d’OPCVM, dans le prospectus visé à l’article 69 de la directive 2009/65/CE;h) pour les entreprises d’investissement qui fournissent des services de gestion de portefeuille ou des conseils en investissement, conformément à l’article 24, paragraphe 4, de la directive 2014/65/UE;i) pour les établissements de crédit qui fournissent des services de gestion de portefeuille ou des conseils en investissement, conformément à l’article 24, paragraphe 4, de la directive 2014/65/UE;j) pour les intermédiaires d’assurance et les entreprises d’assurance qui fournissent des conseils en assurance relatifs à des produits d’investissement fondés sur l’assurance et pour les intermédiaires d’assurance qui fournissent des conseils en assurance relatifs à des produits de retraite exposés aux fluctuations du marché, conformément à l’article 29, paragraphe 1, de la directive (UE) 2016/97;k) pour les gestionnaires de FIA gérant des ELTIF, dans le prospectus visé à l’article 23 du règlement (UE) 2015/760;l) pour les fournisseurs de PEPP, dans le document d’informations clés sur le PEPP visé à l’article 26 du règlement (UE) 2019/1238.",
+      "text_sha256": "795d0c88243467c83eac537185d843227a7f1d37754b2c4091f9c3d2dfa177df",
+      "md_span": {
+        "start": 16786,
+        "end": 20275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Transparence des incidences négatives en matière de durabilité au niveau des produits financiers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Au plus tard le 30 décembre 2022, pour chaque produit financier, lorsqu’un acteur des marchés financiers applique l’article 4, paragraphe 1, point a), ou l’article 4, paragraphe 3 ou 4, les informations à publier visées à l’article 6, paragraphe 3, comprennent ce qui suit:a) une explication claire et motivée indiquant si un produit financier prend en compte les principales incidences négatives sur les facteurs de durabilité et, dans l’affirmative, la manière dont il le fait;b) une déclaration indiquant que les informations relatives aux principales incidences négatives sur les facteurs de durabilité sont disponibles dans les informations à publier en vertu de l’article 11, paragraphe 2.\n\nLorsque les informations visées à l’article 11, paragraphe 2, comprennent une quantification des principales incidences négatives sur les facteurs de durabilité, ces informations peuvent se fonder sur les dispositions des normes techniques de réglementation adoptées en vertu de l’article 4, paragraphes 6 et 7.\n\n**2.** Lorsqu’un acteur des marchés financiers applique l’article 4, paragraphe 1, point b), les informations à publier visées à l’article 6, paragraphe 3, comprennent, pour chaque produit financier, une déclaration indiquant que l’acteur des marchés financiers ne prend pas en compte les incidences négatives des décisions d’investissement sur les facteurs de durabilité ainsi qu’une explication des raisons pour lesquelles il ne le fait pas.",
+      "text_sha256": "55d23b2ac56984465b7e53e70aa96c3c46af07b2b0341a4b39e9bc58326b0108",
+      "md_span": {
+        "start": 20411,
+        "end": 21871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Transparence de la promotion des caractéristiques environnementales ou sociales dans les informations précontractuelles publiées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsqu’un produit financier promeut, entre autres caractéristiques, des caractéristiques environnementales ou sociales, ou une combinaison de ces caractéristiques, pour autant que les sociétés dans lesquelles les investissements sont réalisés appliquent des pratiques de bonne gouvernance, les informations à publier en vertu de l’article 6, paragraphes 1 et 3, comprennent:a) des informations sur la manière dont ces caractéristiques sont respectées;b) si un indice a été désigné comme indice de référence, des informations indiquant si et de quelle manière cet indice est adapté à ces caractéristiques.\n\n**2.** Les acteurs des marchés financiers incluent dans les informations à publier en vertu de l’article 6, paragraphes 1 et 3, une indication de l’endroit où trouver la méthodologie utilisée pour le calcul de l’indice visé au paragraphe 1 du présent article.\n\n**2 bis.** Lorsque les acteurs des marchés financiers mettent à disposition un produit financier visé à l’article 6 du règlement (UE) 2020/852 du Parlement européen et du Conseil (2), ils incluent, dans les informations à publier au titre de l’article 6, paragraphes 1 et 3, du présent règlement, les informations requises au titre de l’article 6 du règlement (UE) 2020/852.\n\n**3.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations à publier en vertu des paragraphes 1 et 2 du présent article.\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs caractéristiques ainsi que de leurs différences, et de l’objectif consistant à publier des informations exactes, loyales, claires, non trompeuses, simples et concises.\n\nLes autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visés au premier alinéa à la Commission au plus tard le 30 décembre 2020.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.\n\n**4.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations visées au paragraphe 2 *bis* du présent article.\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa du présent paragraphe, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs caractéristiques et de leurs différences, ainsi que de l’objectif consistant à publier des informations exactes, loyales, claires, non trompeuses, simples et concises et, lorsque cela s’avère nécessaire pour atteindre cet objectif, élaborent des projets d’amendements aux normes techniques de réglementation visées au paragraphe 3 du présent article. Les projets de normes techniques de réglementation tiennent compte des dates d’application respectives mentionnées à l’article 27, paragraphe 2, points a) et b), du règlement (UE) 2020/852 en ce qui concerne les objectifs environnementaux énoncés à l’article 9 dudit règlement.\n\nLes autorités européennes de surveillance soumettent à la Commission les projets de normes techniques de réglementation visés au premier alinéa:\n\na) en ce qui concerne les objectifs environnementaux visés à l’article 9, points a) et b), du règlement (UE) 2020/852, le 1er juin 2021 au plus tard; et\n\nb) en ce qui concerne les objectifs environnementaux visés à l’article 9, points c) à f), du règlement (UE) 2020/852, le 1er juin 2022 au plus tard.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "9f3dd83a02acff592ee823caee26918f27e398049c810aaef3902267419a79f2",
+      "md_span": {
+        "start": 22039,
+        "end": 26238
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: INSERTED"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "32019R2088"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Transparence des investissements durables dans les informations précontractuelles publiées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsqu’un produit financier a pour objectif l’investissement durable et qu’un indice a été désigné comme indice de référence, les informations à publier en vertu de l’article 6, paragraphes 1 et 3, sont accompagnées:a) d’informations sur la manière dont l’indice désigné est aligné sur cet objectif;b) d’une explication indiquant pourquoi et comment l’indice désigné aligné sur cet objectif diffère d’un indice de marché large.\n\n**2.** Lorsqu’un produit financier a pour objectif l’investissement durable et qu’aucun indice n’a été désigné comme indice de référence, les informations à publier en vertu de l’article 6, paragraphes 1 et 3, comprennent une explication de la manière dont cet objectif doit être atteint.\n\n**3.** Lorsqu’un produit financier a pour objectif une réduction des émissions de carbone, les informations à publier conformément à l’article 6, paragraphes 1 et 3, comprennent l’objectif de faible exposition aux émissions de carbone en vue de la réalisation des objectifs de limitation du réchauffement planétaire à long terme fixés par l’accord de Paris.\n\nPar dérogation au paragraphe 2 du présent article, lorsqu’aucun indice de référence «transition climatique» de l’Union ou indice de référence «accord de Paris» de l’Union conformément au règlement (UE) 2016/1011 du Parlement européen et du Conseil (3) n’est disponible, les informations visées à l’article 6 comprennent une explication détaillée de la manière dont la poursuite des efforts déployés pour atteindre l’objectif de réduction des émissions de carbone est assurée en vue de la réalisation des objectifs de limitation du réchauffement planétaire à long terme fixés par l’accord de Paris.\n\n**4.** Les acteurs des marchés financiers incluent dans les informations à publier conformément à l’article 6, paragraphes 1 et 3, une indication de l’endroit où trouver la méthodologie utilisée pour le calcul des indices visés au paragraphe 1 du présent article et des indices de référence visés au paragraphe 3, deuxième alinéa, du présent article.\n\n**4 bis.** Les acteurs des marchés financiers incluent, dans les informations à publier conformément à l’article 6, paragraphes 1 et 3, du présent règlement les informations requises au titre l’article 5 du règlement (UE) 2020/852.\n\n**5.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations à publier en vertu des paragraphes 1 à 4 du présent article.\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa du présent paragraphe, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs objectifs visés aux paragraphes 1, 2 et 3, ainsi que de leurs différences, et de l’objectif consistant à publier des informations exactes, loyales, claires, non trompeuses, simples et concises.\n\nLes autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visés au premier alinéa à la Commission au plus tard le 30 décembre 2020.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.\n\n**6.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations visées au paragraphe 4 *bis* du présent article.\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa du présent paragraphe, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs objectifs visés au paragraphe 4 *bis* du présent article, et de leurs différences, ainsi que de l’objectif consistant à publier des informations exactes, loyales, claires, non trompeuses, simples et concises et, lorsque cela s’avère nécessaire pour atteindre cet objectif, élaborent des projets d’amendements aux normes techniques de réglementation visées au paragraphe 5 du présent article. Les projets de normes techniques de réglementation tiennent compte des dates d’application respectives mentionnées à l’article 27, paragraphe 2, points a) et b), du règlement (UE) 2020/852, en ce qui concerne les objectifs environnementaux énoncés à l’article 9 dudit règlement.\n\nLes autorités européennes de surveillance soumettent à la Commission les projets de normes techniques de réglementation visés au premier alinéa:\n\na) en ce qui concerne les objectifs environnementaux énoncés à l’article 9, points a) et b), du règlement (UE) 2020/852, le 1er juin 2021 au plus tard; et\n\nb) en ce qui concerne les objectifs environnementaux énoncés à l’article 9, points c) à f), du règlement (UE) 2020/852, le 1er juin 2022 au plus tard.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "b5d473183813795609d7375c0dc2a80d838f441f7cbb18726a71548f036bd35c",
+      "md_span": {
+        "start": 26368,
+        "end": 31679
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "32019R2088"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Transparence de la promotion des caractéristiques environnementales ou sociales et des investissements durables sur les sites internet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les acteurs des marchés financiers publient et tiennent à jour sur leur site internet les informations suivantes pour chaque produit financier visé à l’article 8, paragraphe 1, et à l’article 9, paragraphes 1, 2 et 3:a) une description des caractéristiques environnementales ou sociales ou de l’objectif d’investissement durable;b) des informations sur les méthodes utilisées pour évaluer, mesurer et surveiller les caractéristiques environnementales ou sociales ou l’incidence des investissements durables sélectionnés pour le produit financier, y compris ses sources des données, les critères d’évaluation des actifs sous-jacents et les indicateurs pertinents en matière de durabilité utilisés pour mesurer les caractéristiques environnementales ou sociales ou l’incidence globale du produit financier en matière de durabilité;c) les informations visées aux articles 8 et 9;d) les informations visées à l’article 11.\n\nLes informations à publier en vertu du premier alinéa sont claires, succinctes et compréhensibles pour les investisseurs. Elles sont publiées de façon exacte, loyale, claire, non trompeuse, simple et concise et sur des pages visibles et facilement accessibles du site internet.\n\n**2.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu des informations visées au paragraphe 1, premier alinéa, points a) et b), et les exigences de présentation visées au paragraphe 1, deuxième alinéa.\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa du présent paragraphe, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs caractéristiques et de leurs objectifs visés au paragraphe 1 ainsi que de leurs différences. Les autorités européennes de surveillance mettent à jour les normes techniques de réglementation à la lumière des évolutions réglementaires et technologiques.\n\nLes autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visés au premier alinéa à la Commission au plus tard le 30 décembre 2020.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "0eed628005b657f165174e628ba872b5621b71a4b7334e1d99204c886bd18ebb",
+      "md_span": {
+        "start": 31855,
+        "end": 34309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Transparence de la promotion des caractéristiques environnementales ou sociales et des investissements durables dans les rapports périodiques",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsque les acteurs des marchés financiers mettent à disposition un produit financier visé à l’article 8, paragraphe 1, ou à l’article 9, paragraphe 1, 2 ou 3, ils décrivent notamment dans les rapports périodiques:a) pour un produit financier visé à l’article 8, paragraphe 1, la mesure dans laquelle les caractéristiques environnementales ou sociales sont respectées;b) pour un produit financier visé à l’article 9, paragraphe 1, 2 ou 3:i) l’incidence globale du produit financier en matière de durabilité, au moyen d’indicateurs de durabilité pertinents; ouii) lorsqu’un indice a été désigné comme indice de référence, une comparaison entre l’incidence globale du produit financier en matière de durabilité et les incidences de l’indice désigné et d’un indice de marché large, au moyen d’indicateurs de durabilité;▼M1c) pour un produit financier soumis à l’article 5 du règlement (UE) 2020/852, les informations requises au titre dudit article;d) pour un produit financier soumis à l’article 6 du règlement (UE) 2020/852, les informations requises au titre dudit article.▼B\n\n**2.** Les informations visées au paragraphe 1 du présent article sont publiées comme suit:a) pour les gestionnaires de FIA, dans le rapport annuel visé à l’article 22 de la directive 2011/61/UE;b) pour les entreprises d’assurance, chaque année et par écrit, conformément à l’article 185, paragraphe 6, de la directive 2009/138/CE;c) pour les IRP, dans le rapport annuel visé à l’article 29 de la directive (UE) 2016/2341;d) pour les gestionnaires de fonds de capital-risque éligibles, dans le rapport annuel visé à l’article 12 du règlement (UE) no 345/2013;e) pour les gestionnaires de fonds d’entrepreneuriat social éligibles, dans le rapport annuel visé à l’article 13 du règlement (UE) no 346/2013;f) pour les initiateurs de produits de retraite, par écrit dans le rapport annuel ou dans un rapport prévu par le droit national;g) pour les sociétés de gestion d’OPCVM, dans le rapport annuel visé à l’article 69 de la directive 2009/65/CE;h) pour les entreprises d’investissement qui fournissent des services de gestion de portefeuille, dans un rapport périodique visé à l’article 25, paragraphe 6, de la directive 2014/65/UE;i) pour les établissements de crédit qui fournissent des services de gestion de portefeuille, dans un rapport périodique visé à l’article 25, paragraphe 6, de la directive 2014/65/UE;j) pour les fournisseurs de PEPP, dans le relevé des droits PEPP visé à l’article 36 du règlement (UE) 2019/1238.\n\n**3.** Aux fins du paragraphe 1 du présent article, les acteurs des marchés financiers peuvent utiliser les informations contenues dans les rapports de gestion conformément à l’article 19 de la directive 2013/34/UE ou celles contenues dans les déclarations non financières conformément à l’article 19 *bis* de ladite directive, le cas échéant.\n\n**4.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations visées au paragraphe 1, points a) et b).\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs caractéristiques et de leurs objectifs ainsi que de leurs différences. Les autorités européennes de surveillance mettent à jour les normes techniques de réglementation à la lumière des évolutions réglementaires et technologiques.\n\nLes autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visés au premier alinéa à la Commission au plus tard le 30 décembre 2020.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.\n\n**5.** Les autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de détailler le contenu et la présentation des informations visées au paragraphe 1, points c) et d).\n\nLorsqu’elles élaborent les projets de normes techniques de réglementation visés au premier alinéa du présent paragraphe, les autorités européennes de surveillance tiennent compte des différents types de produits financiers, de leurs caractéristiques et de leurs objectifs ainsi que de leurs différences et, lorsque cela s’avère nécessaire, élaborent des projets d’amendements aux normes techniques de réglementation visées au paragraphe 4 du présent article. Les projets de normes techniques de réglementation tiennent compte des dates d’application respectives mentionnées à l’article 27, paragraphe 2, points a) et b), du règlement (UE) 2020/852, en ce qui concerne les objectifs environnementaux énoncés à l’article 9 dudit règlement. Les autorités européennes de surveillance actualisent les normes techniques de réglementation à la lumière des évolutions réglementaires et technologiques.\n\nLes autorités européennes de surveillance soumettent à la Commission les projets de normes techniques de réglementation visés au premier alinéa:\n\na) en ce qui concerne les objectifs environnementaux visés à l’article 9, points a) et b), du règlement (UE) 2020/852, le 1er juin 2021 au plus tard; et\n\nb) en ce qui concerne les objectifs environnementaux visés à l’article 9, points c) à f), du règlement (UE) 2020/852, le 1er juin 2022 au plus tard.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au premier alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "0483373cffc0d8ad852e2b5adf8db51f79bcae2b9eb9006227ba99703f98fef2",
+      "md_span": {
+        "start": 34492,
+        "end": 40363
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "32019R2088"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Réexamen des informations publiées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les acteurs des marchés financiers veillent à ce que toutes les informations publiées conformément à l’article 3, à l’article 5 ou à l’article 10 soient tenues à jour. Lorsqu’un acteur des marchés financiers modifie ces informations, il publie une explication claire de cette modification sur le même site internet.\n\n**2.** Le paragraphe 1 s’applique mutatis mutandis aux conseillers financiers en ce qui concerne toute information publiée conformément aux articles 3 et 5.",
+      "text_sha256": "6b95ae314490b8c87dedd5e1265099a65bec49b8c9ea3c4ff8a03d8476f1b923",
+      "md_span": {
+        "start": 40439,
+        "end": 40919
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Communications publicitaires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Sans préjudice d’une législation sectorielle plus stricte, en particulier les directives 2009/65/CE, 2014/65/UE et (UE) 2016/97 et le règlement (UE) no 1286/2014, les acteurs des marchés financiers et les conseillers financiers veillent à ce que leurs communications publicitaires ne contredisent pas les informations publiées en vertu du présent règlement.\n\n**2.** Les autorités européennes de surveillance peuvent élaborer, par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution pour déterminer la présentation type des informations concernant la promotion des caractéristiques environnementales ou sociales et les investissements durables.\n\nLe pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.\n\n**3.** Lorsqu’un acteur des marchés financiers ou un conseiller financier émet et communique à des tiers une notation ESG, telle qu’elle est définie à l’article 3, point 1), du règlement (UE) 2024/3005 du Parlement européen et du Conseil (4), dans le cadre de ses communications publicitaires, il inclut sur son site internet les mêmes informations que celles requises à l’annexe III, point 1, dudit règlement et publie dans lesdites communications publicitaires un lien vers ces informations publiées sur son site internet.\n\nLes autorités européennes de surveillance élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation afin de préciser les informations visées au premier alinéa du présent paragraphe, en tenant compte des informations déjà publiées conformément à l’article 10 du présent règlement.\n\nLes autorités européennes de surveillance soumettent les projets de normes techniques de réglementation visées au deuxième alinéa à la Commission.\n\nLe pouvoir de compléter le présent règlement en adoptant les normes techniques de réglementation visées au deuxième alinéa du présent paragraphe est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.",
+      "text_sha256": "1c64c0b0017c55a169ff1434c21705b36d48205b0d059987dd5741c2aa7ef0ba",
+      "md_span": {
+        "start": 40989,
+        "end": 43154
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3005",
+          "text": "32024R3005: INSERTED"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "32019R2088"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Autorités compétentes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres veillent à ce que les autorités compétentes désignées conformément à la législation sectorielle, en particulier la législation sectorielle visée à l’article 6, paragraphe 3, du présent règlement, et conformément à la directive 2013/36/UE, contrôlent le respect par les acteurs des marchés financiers et les conseillers financiers des exigences du présent règlement. Les autorités compétentes disposent de tous les pouvoirs de contrôle et d’enquête qui sont nécessaires pour exercer leurs fonctions au titre du présent règlement.\n\n**2.** Aux fins du présent règlement, les autorités compétentes coopèrent entre elles et se communiquent mutuellement, sans retard injustifié, les informations utiles à l’accomplissement de leurs missions au titre du présent règlement.",
+      "text_sha256": "5898b286a067a15bdab2da3a61234eff846e7501bc470a8070d1b7d95e93fa18",
+      "md_span": {
+        "start": 43217,
+        "end": 44007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Transparence des IRP et des intermédiaires d’assurance",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les IRP publient et tiennent à jour les informations visées aux articles 3 à 7 et à l’article 10, paragraphe 1, premier alinéa, du présent règlement conformément à l’article 36, paragraphe 2, point f), de la directive (UE) 2016/2341.\n\n**2.** Les intermédiaires d’assurance communiquent les informations visées à l’article 3, à l’article 4, paragraphe 5, à l’article 5, à l’article 6 et à l’article 10, paragraphe 1, premier alinéa, du présent règlement conformément à l’article 23 de la directive (UE) 2016/97.",
+      "text_sha256": "a4ee03a1897bb262bab5e52248dcc6537cae2e6245a519bb9c3ddf54a8c74869",
+      "md_span": {
+        "start": 44103,
+        "end": 44620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Produits de retraite couverts par les règlements (CE) no 883/2004 et (CE) no 987/2009",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres peuvent décider d’appliquer le présent règlement aux initiateurs de produits de retraite gérant les régimes nationaux de sécurité sociale couverts par les règlements (CE) no 883/2004 et (CE) no 987/2009. Dans ces cas, les initiateurs de produits de retraite visés à l’article 2, point 1) d), du présent règlement comprennent les initiateurs de produits de retraite gérant des régimes nationaux de sécurité sociale et de produits de retraite visés à l’article 2, point 8), du présent règlement. Dans ce cas, la définition des produits de retraite figurant à l’article 2, point 8), du présent règlement est réputée inclure les produits de retraite visés dans la première phrase.\n\n**2.** Les États membres notifient à la Commission et aux autorités européennes de surveillance toute décision adoptée en vertu du paragraphe 1.",
+      "text_sha256": "50fb56879c8218e42ce1bb732708e8663b106c43b18949190a49bc77f1db2a01",
+      "md_span": {
+        "start": 44747,
+        "end": 45594
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Dérogations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement ne s’applique ni aux intermédiaires d’assurance fournissant des conseils en assurance relatifs à des produits d’investissement fondés sur l’assurance ni aux entreprises d’investissement fournissant des conseils en investissement qui sont des entreprises, indépendamment de leur forme juridique, y compris les personnes physiques ou les travailleurs indépendants, à condition qu’ils emploient moins de trois personnes.\n\n**2.** Les États membres peuvent décider d’appliquer le présent règlement aux intermédiaires d’assurance fournissant des conseils en assurance relatifs à des produits d’investissement fondés sur l’assurance ou aux entreprises d’investissement fournissant des conseils en investissement, tels qu’ils sont visés au paragraphe 1.\n\n**3.** Les États membres notifient à la Commission et aux autorités européennes de surveillance toute décision adoptée en vertu du paragraphe 2.",
+      "text_sha256": "61ca27f62dc2bec49617f94152a944fbbbd1f67b23c7042049bb9df426851651",
+      "md_span": {
+        "start": 45647,
+        "end": 46566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Rapport",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités européennes de surveillance prennent la mesure de la publication volontaire d’informations conformément à l’article 4, paragraphe 1, point a), et à l’article 7, paragraphe 1, point a). Au plus tard le 10 septembre 2022, et chaque année par la suite, les autorités européennes de surveillance présentent à la Commission un rapport sur les bonnes pratiques et formulent des recommandations en vue de normes relatives à la communication volontaire d’informations. Ce rapport annuel examine les implications des pratiques de diligence raisonnable sur la publication d’informations au titre du présent règlement et formule des orientations à cet égard. Ce rapport est rendu public et transmis au Parlement européen et au Conseil.",
+      "text_sha256": "46f5b38402db9fa1d4ead1b81190aa8c5c0ad43a724b62fd48076348ca604bfd",
+      "md_span": {
+        "start": 46615,
+        "end": 47353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18a",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_18a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18 bis",
+      "heading": "Accessibilité des informations sur le point d’accès unique européen",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** À compter du 10 janvier 2028, lorsqu’ils rendent publiques des informations visées à l’article 3, paragraphes 1 et 2, à l’article 4, paragraphe 1, à l’article 4, paragraphes 3, 4 et 5, à l’article 5, paragraphe 1, et à l’article 10, paragraphe 1, du présent règlement, les acteurs des marchés financiers et les conseillers financiers communiquent ces informations en même temps à l’organisme de collecte pertinent visé au paragraphe 3 du présent article afin de les rendre accessibles sur le point d’accès unique européen (ESAP) établi en vertu du règlement (UE) 2023/2859 du Parlement européen et du Conseil (5).\n\nCes informations satisfont aux exigences suivantes:\n\na) elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ou, lorsque le droit de l’Union l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement;\n\nb) elles sont accompagnées des métadonnées suivantes: i) tous les noms de l’acteur des marchés financiers ou du conseiller financier auquel les informations se rapportent; ii) pour les personnes morales, l’identifiant d’entité juridique de l’acteur des marchés financiers ou du conseiller financier, précisé conformément à l’article 7, paragraphe 4, point b), du règlement (UE) 2023/2859; iii) pour les personnes morales, la taille de l’acteur des marchés financiers ou du conseiller financier, selon le cas, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, point d), dudit règlement; iv) le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, point c), dudit règlement; v) une mention précisant si les informations contiennent des données à caractère personnel.\n\n**2.** Aux fins du paragraphe 1, point b) ii), les acteurs des marchés financiers et les conseillers financiers qui sont des personnes morales obtiennent un identifiant d’entité juridique.\n\n**3.** Au plus tard le 9 janvier 2028, aux fins de rendre les informations visées au paragraphe 1 du présent article accessibles sur l’ESAP, les États membres désignent au moins un organisme de collecte au sens de l’article 2, point 2), du règlement (UE) 2023/2859 et en informent l’AEMF.\n\n**4.** Afin d’assurer une collecte et une gestion efficientes des informations communiquées conformément au paragraphe 1, les autorités européennes de surveillance élaborent, dans le cadre du comité mixte, des projets de normes techniques d’exécution précisant:a) les autres métadonnées devant accompagner les informations;b) la structuration des données dans les informations;c) les informations pour lesquelles un format lisible par machine est requis et, dans de tels cas, le format lisible par machine à utiliser.\n\nAux fins du point c), les autorités européennes de surveillance évaluent les avantages et les inconvénients de différents formats lisibles par machine et effectuent à cette fin les essais de terrain appropriés.\n\nLes autorités européennes de surveillance soumettent ces projets de normes techniques d’exécution à la Commission.\n\nLa Commission est habilitée à adopter les normes techniques d’exécution visées au premier alinéa du présent paragraphe conformément à l’article 15 du règlement (UE) no 1093/2010, à l’article 15 du règlement (UE) no 1094/2010 et à l’article 15 du règlement (UE) no 1095/2010.\n\n**5.** Si nécessaire, les autorités européennes de surveillance adoptent, dans le cadre du comité mixte, des orientations afin de garantir l’exactitude des métadonnées communiquées conformément au paragraphe 4, premier alinéa, point a).",
+      "text_sha256": "55d043e62cc0e2d1a7a6f73991d93d1cad56b42ad074a64fc47ce427891db64e",
+      "md_span": {
+        "start": 47467,
+        "end": 51077
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Évaluation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Au plus tard le 30 décembre 2022, la Commission évalue l’application du présent règlement et, en particulier, évalue:a) si la référence au nombre moyen de salariés qui est faite à l’article 4, paragraphes 3 et 4, doit être maintenue, remplacée ou accompagnée d’autres critères, et examine les avantages et la proportionnalité de la charge administrative induite;b) si le fonctionnement du présent règlement est entravé par le manque de données ou leur qualité sous-optimale, y compris en ce qui concerne les indicateurs concernant les incidences négatives sur les facteurs de durabilité dans le cadre de sociétés détenues.\n\n**2.** L’évaluation visée au paragraphe 1 est accompagnée, le cas échéant, d’une proposition législative.",
+      "text_sha256": "ba1816b1dd969e3f17abef51b1a1b2e31a3d1a99664b13b55e35a17b0209c6f7",
+      "md_span": {
+        "start": 51129,
+        "end": 51865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r2088:2026-07-02--6d31b23ce2b5ef139584b07a41cd821a30841b9a6f3ebddf5b16a9bf226e7f53#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Entrée en vigueur et application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\n**2.** Il est applicable à partir du 10 mars 2021.\n\n**3.** Par dérogation au paragraphe 2 du présent article:a) l’article 4, paragraphes 6 et 7, l’article 8, paragraphe 3, l’article 9, paragraphe 5, l’article 10, paragraphe 2, l’article 11, paragraphe 4, et l’article 13, paragraphe 2, s’appliquent à partir du 29 décembre 2019;b) l’article 2 *bis*, l’article 8, paragraphe 4, l’article 9, paragraphe 6, et l’article 11, paragraphe 5, s’appliquent à partir du 12 juillet 2020;c) l’article 8, paragraphe 2 *bis,* et l’article 9, paragraphe 4 *bis,* s’appliquent:i) en ce qui concerne les objectifs environnementaux visés à l’article 9, points a) et b), du règlement (UE) 2020/852, à partir du 1er janvier 2022; etii) en ce qui concerne les objectifs environnementaux visés à l’article 9, points c) à f), du règlement (UE) 2020/852, à partir du 1er janvier 2023;d) l’article 11, paragraphes 1, 2 et 3, s’applique à partir du 1er janvier 2022.",
+      "text_sha256": "ac7ee8674eeca9bb67d1515374420f3103da0a88a46029650dbbfe6f9acb551d",
+      "md_span": {
+        "start": 51939,
+        "end": 53020
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0852",
+          "text": "32020R0852: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R2088",
+          "text": "32019R2088"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

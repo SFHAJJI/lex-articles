@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1317:2014-12-11--a36121f798d52cf155880bd201dc275f7f903cd6f7cf14614b8621367793b866",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 1317/2014 of 11 December 2014 on the extension of the transitional periods related to own funds requirements for exposures to central counterparties in Regulations (EU) No 575/2013 and (EU) No 648/2012",
+  "valid_from": "2014-12-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1317/versions/2014-12-11--a36121f798d52cf155880bd201dc275f7f903cd6f7cf14614b8621367793b866/fr.xml",
+    "sha256": "b6fb7bb62a0c0067425b3e3eac8e1888c8b5e30ad76bf3c6abbef8fe1fd971bb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1317"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1317:2014-12-11--a36121f798d52cf155880bd201dc275f7f903cd6f7cf14614b8621367793b866#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes périodes de quinze mois prévues respectivement à l'article 497, paragraphes 1 et 2, du règlement (UE) no 575/2013 et à l'article 89, paragraphe 5 bis, premier et deuxième alinéas, du règlement (UE) no 648/2012, qui ont déjà été prorogées en vertu de l'article 1er du règlement d'exécution (UE) no 591/2014, sont prorogées de six mois supplémentaires.",
+      "text_sha256": "d11febd68f234b6d79bbac8e4b9c63491c0a1c5f8eda75d979314ac6acab1639",
+      "md_span": {
+        "start": 855,
+        "end": 1226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1317:2014-12-11--a36121f798d52cf155880bd201dc275f7f903cd6f7cf14614b8621367793b866#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "8268800cea4f256373429e9bd1de08d049f6b567f5fcc49f7c4acf9fbf0e5724",
+      "md_span": {
+        "start": 1259,
+        "end": 1400
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

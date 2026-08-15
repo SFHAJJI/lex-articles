@@ -1,0 +1,153 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/09/2019 : Règlement grand-ducal du 31 août 2018 \\n1° créant la section gestion de l’hospitalité, la section architecture, design et développement durable et la section sciences environnementales ;\\n2° fixant les grilles horaires, les coefficients des disciplines et des disciplines combinées, ainsi que les disciplines fondamentales de l’enseignement secondaire général.",
+  "valid_from": "2019-05-21",
+  "valid_to": "2019-09-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-08-31-a816/versions/2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952/fr.xml",
+    "sha256": "9036354c9442b791226ce6abca93c9f843348b6466b3bb1b63bd5db56da58933",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190521/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_1er/20180917",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Les sections suivantes sont créées dans l’enseignement secondaire général :\n\n1. dans la division hôtelière et touristique, la section gestion de l’hospitalité ;\n2. dans la division technique générale, la section architecture, design et développement durable et la section sciences environnementales.",
+      "text_sha256": "acbdef468c1b49faec415fe0447239a26b3ad626d0754f0443f4508232767f55",
+      "md_span": {
+        "start": 971,
+        "end": 1270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_2/20180917",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Dans les différentes classes de l’enseignement secondaire général, l’enseignement est dispensé suivant les grilles horaires annexées.",
+      "text_sha256": "8f11512454b0352bee0277b683afb1cd549b642ecce3cbcab1f61ebf9970b2f3",
+      "md_span": {
+        "start": 1305,
+        "end": 1438
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_3/20180917",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La promotion dans les classes de l’enseignement secondaire général tient compte des coefficients des différentes disciplines ainsi que, le cas échéant, des disciplines fondamentales indiquées dans les grilles horaires annexées.\n\nLes effectifs des classes et des auditoires mentionnés dans les remarques des grilles horaires n’ont qu’une valeur indicative.",
+      "text_sha256": "02a0050a9dd80fa277d7302e4b5b174a149cd7b1e03b3e6740a05d6a72285d9c",
+      "md_span": {
+        "start": 1473,
+        "end": 1828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_4/20180917",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Le règlement grand-ducal modifié du 28 juillet 2017 fixant les grilles horaires, les coefficients des branches et des branches combinées, ainsi que les branches fondamentales de l’enseignement secondaire général est abrogé.",
+      "text_sha256": "941520c8b30b53fa2fa4fdd487438679f984635708d5444cdfd4cfa24a49bb12",
+      "md_span": {
+        "start": 1863,
+        "end": 2086
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2017/07/28/a714/jo",
+          "text": "règlement grand-ducal modifié du 28 juillet 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_5/20180917",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Le présent règlement est applicable à partir de l'année scolaire 2018/2019.\n\nPar dérogation à l’alinéa 1er :\n\n1. e\n2. re\n3. e\n4. e\n5. re\n6. re\n7. re\n8. e\n9. re",
+      "text_sha256": "37ac36ca207d67052dfde95e6647ccf0d29f736dd716818237143e7153619e87",
+      "md_span": {
+        "start": 2121,
+        "end": 2280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/art_6/20180917",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Notre ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "c4da6c77576c81752de677dbc69a953bf7c1a272b584617908cf193636bcc41b",
+      "md_span": {
+        "start": 2315,
+        "end": 2499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2018-08-31-a816:2019-05-21--4fad1d59f696215b2af9d3651ef783741b726330d20c9f1423364670b6943952#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour visualiser les annexes, veuillez consulter la version pdf du Journal officiel.",
+      "text_sha256": "1d4b6f1b3484e4f634ec9881d51b9c62811222edd6d98b08a289b1ee29117d1d",
+      "md_span": {
+        "start": 2541,
+        "end": 2624
+      },
+      "citations": [
+        {
+          "href": "http://data.legilux.public.lu/filestore/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190521/fr/pdf/eli-etat-leg-rgd-2018-08-31-a816-consolide-20190521-fr-pdf.pdf",
+          "text": "version pdf du Journal officiel"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

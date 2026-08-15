@@ -1,0 +1,153 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/07/2022 : Règlement grand-ducal du 1er août 2018 établissant l’état de conservation des habitats d’intérêt communautaire et des espèces d’intérêt communautaire.",
+  "valid_from": "2022-07-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-08-01-a775/versions/2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77/fr.xml",
+    "sha256": "20dc0b0ded8868a6076b64075ebb37d97da11ad139a2b13a471a1679a35048bd",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/art_1er/20180909",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Principe",
+      "path": [],
+      "article_valid_from": "2018-09-09",
+      "text_md": "Les habitats d’intérêt communautaire et les espèces d’intérêt communautaire font l’objet d’une évaluation régulière de leur état de conservation au niveau national établie sur base de leur surveillance.\n\nPar évaluation régulière, on entend une évaluation effectuée pour chaque habitat d’intérêt communautaire et pour chaque espèce d’intérêt communautaire et reprise dans un rapport établi tous les six ans.\n\nL’état de conservation au niveau national est évalué et classé dans une des catégories suivantes :\n\n1. Favorable (FV) ;\n2. Non favorable inadéquat (U1) ;\n3. Non favorable mauvais (U2) ;\n4. Inconnu (XX) ;\n\nL’état de conservation inconnu est à considérer par défaut comme non favorable.\n\nL’évaluation de l’état de conservation de chaque habitat d’intérêt communautaire repose sur l’évaluation des paramètres suivants :\n\n1. l’aire de répartition nationale de l’habitat d’intérêt communautaire ;\n2. la surface totale occupée par l’habitat d’intérêt communautaire ;\n3. les structures et fonctionnement spécifiques, incluant les espèces caractéristiques ;\n4. les perspectives futures.\n\nL’évaluation de l’état de conservation de chaque espèce d’intérêt communautaire repose sur l’évaluation des paramètres suivants :\n\n1. l’aire de répartition nationale de l’espèce d’intérêt communautaire ;\n2. l’effectif total des populations de l’espèce d’intérêt communautaire ;\n3. l’habitat de l’espèce ;\n4. les perspectives futures.\n\nL’évaluation de l’état de conservation repose sur une procédure et des critères méthodologiques harmonisés au sein de l’Union européenne et communiqués par la Commission européenne.\n\nS’agissant des espèces d’oiseaux d’intérêt communautaire, les critères méthodologiques prennent en considération l’état de conservation de leurs habitats, ainsi que leurs perspectives futures.",
+      "text_sha256": "2037a3f14d5e196cb43e61fad95aa2128f43735ba1a1113afba2f63476af909d",
+      "md_span": {
+        "start": 764,
+        "end": 2562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/art_2/20180909",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "État de conservation des habitats d’intérêt communautaire",
+      "path": [],
+      "article_valid_from": "2018-09-09",
+      "text_md": "L’état de conservation des habitats d’intérêt communautaire listés en annexe I de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles figurent en annexe 1.",
+      "text_sha256": "d0c58d727c8f321607db85d6b7d750f93f1b48b777c89c8e31bafc4a2f44b839",
+      "md_span": {
+        "start": 2655,
+        "end": 2851
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/07/18/a771/jo",
+          "text": "loi du 18 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/art_3/20180909",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "État de conservation des espèces d’intérêt communautaire",
+      "path": [],
+      "article_valid_from": "2018-09-09",
+      "text_md": "L’état de conservation des espèces d’intérêt communautaire listées aux annexes II, IV et V de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, figurent en annexe 2.\n\nL’état de conservation des espèces d’oiseaux d’intérêt communautaire figurent en annexe 3.",
+      "text_sha256": "6cd8d73bb0714b5ceb85126059c61bd4fd6e8744fe83ddbae0f3e8e44cd49d04",
+      "md_span": {
+        "start": 2943,
+        "end": 3244
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/07/18/a771/jo",
+          "text": "loi du 18 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/art_4/20180909",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Formule exécutoire et de publication",
+      "path": [],
+      "article_valid_from": "2022-07-22",
+      "text_md": "Notre ministre de l’Environnement est chargée de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "9e44a23bea1c3f655d941ede1f8792f8d97aff2654eee4f5ba629fea211cc493",
+      "md_span": {
+        "start": 3316,
+        "end": 3463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 1",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Code** | **Habitats d'intérêt communautaire** | **État de conservation** | **Conclusion** |\n| --- | --- | --- | --- |\n| 3130 | Eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l'Isoëto-Nanojuncetea | U2 | non favorable |\n| 3140 | Eaux oligo-mésotrophes calcaires avec végétation benthique à *Chara* spp. | U1 | non favorable |\n| 3150 | Lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition | U2 | non favorable |\n| 3260 | Rivières des étages planitiaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion | U2 | non favorable |\n| 4030 | Landes sèches européennes | U2 | non favorable |\n| 5110 | Formations stables xérothermophiles à *Buxus sempervirens *des pentes rocheuses (*Berberidion* p.p.) | U1 | non favorable |\n| 5130 | Formations à *Juniperus communis *sur landes ou pelouses calcaires | U2 | non favorable |\n| 6110 | Pelouses rupicoles calcaires ou basiphiles de l’*Alysso-Sedion albi** | FV | favorable |\n| 6210 | Pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires (*Festuco-Brometalia*) (* sites d’orchidées remarquables) | U2 | non favorable |\n| 6230 | Formations herbeuses à *Nardus*, riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) * | U2 | non favorable |\n| 6410 | Prairies à *Molinia* sur sols calcaires, tourbeux ou argilo-limoneux (*Molinion caeruleae*) | U2 | non favorable |\n| 6430 | Mégaphorbiaies hygrophiles d’ourlets planitiaires et des étages montagnard à alpin | U2 | non favorable |\n| 6510 | Prairies maigres de fauche de basse altitude (*Alopecurus pratensis*,* Sanguisorba officinalis*) | U2 | non favorable |\n| 7140 | Tourbières de transition et tremblantes | U2 | non favorable |\n| 7220 | Sources pétrifiantes avec formation de travertins (*Cratoneurion*) * | U2 | non favorable |\n| 8150 | Éboulis médio-européens siliceux des régions hautes | FV | favorable |\n| 8160 | Eboulis médio-européens calcaires des étages collinéen à montagnard * | FV | favorable |\n| 8210 | Pentes rocheuses calcaires avec végétation chasmophytique | FV | favorable |\n| 8220 | Pentes rocheuses siliceuses avec végétation chasmophytique | FV | favorable |\n| 8230 | Roches siliceuses avec végétation pionnière du *Sedo-Scleranthion* ou du *Sedo albi-Veronicion dillenii* | FV | favorable |\n| 8310 | Grottes non exploitées par le tourisme | U1 | non favorable |\n| 9110 | Hêtraies du *Luzulo-Fagetum* | FV | favorable |\n| 9130 | Hêtraies de l’*Asperulo-Fagetum* | FV | favorable |\n| 9150 | Hêtraies calcicoles médio-européennes du *Cephalanthero-Fagion* | FV | favorable |\n| 9160 | Chênaies pédonculées ou chênaies-charmaies sub-atlantiques et médio-européennes du *Carpinion betuli* | U1 | non favorable |\n| 9180 | Forêts de pentes, éboulis ou ravins du *Tilio-Acerion ** | U1 | non favorable |\n| 91D0 | Tourbières boisées * | U2 | non favorable |\n| 91E0 | Forêts alluviales à *Alnus glutinosa* et *Fraxinus excelsior* (*Alno-Padion*, *Alnion incanae*, *Salicion albae*) * | U2 | non favorable |\n\n**Légende :*** = habitat prioritaire\n\n|  | FV = favorable |  |\n| --- | --- | --- |\n|  | U1 = non favorable inadéquat | U1, U2 et XX = non favorable |\n|  | U2 = non favorable mauvais |  |\n|  | XX = inconnu |  |",
+      "text_sha256": "2b550b4dda8bc498a1dc7badf15883915372fac4a03ff6955c022d8adcfb82c7",
+      "md_span": {
+        "start": 3506,
+        "end": 6835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 2",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Nom latin** | **Nom français** | **État de conservation** | **Conclusion** |\n| --- | --- | --- | --- |\n| **Fauna** |  |  |  |\n| **CHIROPTERA** |  |  |  |\n| *Rhinolophus ferrumequinum* | Grand Rhinolophe | U1 | non favorable |\n| *Myotis dasycneme* | Murin des marais | XX | non favorable |\n| *Myotis daubentonii* | Murin de Daubenton | FV | favorable |\n| *Myotis brandtii* | Murin de Brandt | XX | non favorable |\n| *Myotis mystacinus* | Murin à moustaches | U1 | non favorable |\n| *Myotis emarginatus* | Murin à oreilles échancrées | U1 | non favorable |\n| *Myotis nattereri* | Murin de Natterer | U1 | non favorable |\n| *Myotis bechsteinii* | Murin de Bechstein | U1 | non favorable |\n| *Myotis myotis* | Grand Murin | U1 | non favorable |\n| *Nyctalus noctula* | Noctule commune | U2 | non favorable |\n| *Nyctalus leisleri* | Noctule de Leisler | U1 | non favorable |\n| *Eptesicus serotinus* | Sérotine commune | U1 | non favorable |\n| *Eptesicus nilsonii* | Sérotine de Nilsson | U1 | non favorable |\n| *Pipistrellus pipistrellus* | Pipistrelle commune | FV | favorable |\n| *Pipistrellus nathusii* | Pipistrelle de Nathusius | XX | non favorable |\n| *Plecotus auritus* | Oreillard commun | U1 | non favorable |\n| *Plecotus austriacus* | Oreillard gris | U2 | non favorable |\n| *Barbastella barbastellus* | Barbastelle d’Europe | U2 | non favorable |\n| **RODENTIA** |  |  |  |\n| *Muscardinus avellanarius* | Muscardin | FV | favorable |\n| *Castor fiber* | Castor d’Europe | U2 | non favorable |\n| **CARNIVORA** |  |  |  |\n| *Lutra lutra* | Loutre d’Europe | U2 | non favorable |\n| *Felis silvestris* | Chat sauvage | U1 | non favorable |\n| *Martes martes* | Martre | U1 | non favorable |\n| *Mustela putorius* | Putois | U1 | non favorable |\n| **SAURIA** |  |  |  |\n| *Lacerta agilis* | Lézard des souches | U1 | non favorable |\n| *Podarcis muralis* | Lézard des murailles | U1 | non favorable |\n| **OPHIDIA** |  |  |  |\n| *Coronella austriaca* | Coronelle lisse | U1 | non favorable |\n| **CAUDATA** |  |  |  |\n| *Triturus cristatus* | Triton crêté | U1 | non favorable |\n| **ANURA** |  |  |  |\n| *Alytes obstetricans* | Alyte accoucheur | U2 | non favorable |\n| *Bombina variegata* | Sonneur à ventre jaune | U2 | non favorable |\n| *Rana temporaria* | Grenouille rousse | U1 | non favorable |\n| **complexe :****Rana esculenta* (syn. :* Pelophylax esculenta*) &* Rana lessonae* (syn. :* Pelophylax lessonae*)* | Grenouilles vertes | U1 | non favorable |\n| *Bufo calamita (syn. : Epidalea calamita)* | Crapaud calamite | U2 | non favorable |\n| *Hyla arborea* | Rainette verte | U2 | non favorable |\n| **PETROMYZONIFORMES** |  |  |  |\n| *Lampetra planeri* | Lamproie de Planer | U2 | non favorable |\n| **SALMONIFORMES** |  |  |  |\n| *Thymallus thymallus* | Ombre commun | U2 | non favorable |\n| *Salmo salar* | Saumon atlantique | U2 | non favorable |\n| **CYPRINIFORMES** |  |  |  |\n| *Rhodeus sericeus amarus* | Bouvière | U2 | non favorable |\n| *Barbus barbus* | Barbeau | U1 | non favorable |\n| **SCORPAENIFORMES** |  |  |  |\n| *Cottus gobio* | Chabot commun | U1 | non favorable |\n| **CRUSTACEA** |  |  |  |\n| *Astacus astacus* | Écrevisse à pattes rouges | U2 | non favorable |\n| **INSECTA** |  |  |  |\n| *Lycaena dispar* | Cuivré des marais | U1 | non favorable |\n| *Lycaena helle* | Cuivré de la bistrorte | U2 | non favorable |\n| *Euphydrias aurinia* | Damier de la succise | U2 | non favorable |\n| *Maculinea arion* | Azuré du serpolet | U2 | non favorable |\n| *Callimorpha quadripunctaria (syn. : Euplagia quadripunctaria) ** | Écaille chinée | FV | favorable |\n| *Proserpinus proserpina* | Sphinx de l’épilobe | U1 | non favorable |\n| *Coenagrion mercuriale* | Agrion de mercure | U2 | non favorable |\n| *Oxygastra curtisii* | Cordulie à corps fin | U2 | non favorable |\n| *Leucorrhinia caudalis* | Leucorrhine à large queue | FV | favorable |\n| **GASTROPODA** |  |  |  |\n| *Helix pomatia* | Escargot de Bourgogne | FV | favorable |\n| **BIVALVIA** |  |  |  |\n| *Margaritifera margaritifera* | Moule perlière | U2 | non favorable |\n| *Unio crassus* | Mulette épaisse | U2 | non favorable |\n| **ANNELIDA** |  |  |  |\n| *Hirudo medicinalis* | Sangsue médicinale | U2 | non favorable |\n| **Flora** |  |  |  |\n| **LICHENES** |  |  |  |\n| *Cladonia spp.* | Cladonies | U2 | non favorable |\n| **BRYOPHYTA** |  |  |  |\n| *Dicranum viride* | Dicrane vert | FV | favorable |\n| *Leucobryum glaucum* | Coussinet des bois | FV | favorable |\n| *Sphagnum spp.* | Sphaignes | U2 | non favorable |\n| **PTERIDIOPHYTA** |  |  |  |\n| **Lycopodium *spp.* | Lycopodes | U2 | non favorable |\n| **HYMENOPHYLLACEAE** |  |  |  |\n| *Trichomanes speciosum* | Trichomanes remarquable | FV | favorable |\n| **ANGIOSPERMAEngiospermae** |  |  |  |\n| *Arnica montana* | Arnica des montagnes | U2 | non favorable |\n\n**Légende :*** = espèce prioritaire\n\n|  | FV = favorable |  |\n| --- | --- | --- |\n|  | U1 = non favorable inadéquat | U1, U2 et XX = non favorable |\n|  | U2 = non favorable mauvais |  |\n|  | XX = inconnu |  |",
+      "text_sha256": "90f1a1a1a2390c8aac26c3c8b22a3bfc0b3c9bc275165135a9a894aea69487c3",
+      "md_span": {
+        "start": 6878,
+        "end": 11880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2018-08-01-a775:2022-07-22--9752fb765972c86afcba91c37fdeea0dfd846adc9c81e3669cf304a0dc5f6f77#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 3",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Nom latin** | **Nom français** | **État de conservation** | **Conclusion** |\n| --- | --- | --- | --- |\n| *Accipiter gentilis* | Autour des palombes | U1 | non favorable |\n| *Accipiter nisus* | Épervier d'Europe | FV | favorable |\n| *Acrocephalus arundinaceus* | Rousserolle turdoïde | U1 | non favorable |\n| *Acrocephalus paludicola* | Phragmite aquatique | U2 | non favorable |\n| *Acrocephalus palustris* | Rousserolle verderolle | U1 | non favorable |\n| *Acrocephalus schoenobaenus* | Phragmite des joncs | U2 | non favorable |\n| *Acrocephalus scirpaceus* | Rousserolle effarvatte | U1 | non favorable |\n| *Aegithalos caudatus* | Mésange à longue queue | FV | favorable |\n| *Aegolius funereus* | Chouette de Tengmalm | XX | non favorable |\n| *Alauda arvensis* | Alouette des champs | U2 | non favorable |\n| *Alcedo atthis* | Martin pêcheur | U1 | non favorable |\n| *Anas clypeata* | Canard souchet | FV | favorable |\n| *Anas crecca* | Sarcelle d'hiver | FV | favorable |\n| *Anas platyrhynchos* | Canard colvert | FV | favorable |\n| *Anas querquedula* | Sarcelle d'été | U1 | non favorable |\n| *Anas strepera* | Canard chipeau | FV | favorable |\n| *Anser fabalis rossicus* | Oie des toundras (syn. : Oie des moissons) | U2 | non favorable |\n| *Anthus campestris* | Pipit rousseline | FV | favorable |\n| *Anthus pratensis* | Pipit farlouse | U2 | non favorable |\n| *Anthus spinoletta* | Pipit spioncelle | U1 | non favorable |\n| *Anthus trivialis* | Pipit des arbres | U1 | non favorable |\n| *Apus apus* | Martinet noir | U2 | non favorable |\n| *Ardea cinerea* | Héron cendré | FV | favorable |\n| *Ardea purpurea* | Héron pourpré | FV | favorable |\n| *Asio flammeus* | Hibou des marais | U1 | non favorable |\n| *Asio otus* | Hibou moyen-duc | FV | favorable |\n| *Athene noctua* | Chevêche d'Athéna | U2 | non favorable |\n| *Aythya ferina* | Fuligule milouin | FV | favorable |\n| *Aythya fuligula* | Fuligule morillon | FV | favorable |\n| *Bonasa bonasia (syn. : Tetrastes bonasia)* | Gélinotte des bois | U2 | non favorable |\n| *Botaurus stellaris* | Butor étoilé | U1 | non favorable |\n| *Bubo bubo* | Grand-duc d'Europe | FV | favorable |\n| *Bucephala clangula* | Garrot à oeil d'or | FV | favorable |\n| *Buteo buteo* | Buse variable | FV | favorable |\n| *Calidris alpina* | Bécasseau variable | U1 | non favorable |\n| *Caprimulgus europaeus* | Engoulevent d'Europe | U2 | non favorable |\n| *Carduelis cabaret (syn. : Acanthis flammea)* | Sizerin flammé | FV | favorable |\n| *Carduelis cannabina (syn. : Linaria cannabina)* | Linotte mélodieuse | U1 | non favorable |\n| *Carduelis carduelis* | Chardonneret élégant | U1 | non favorable |\n| *Carduelis chloris* | Verdier d'Europe | FV | favorable |\n| *Carduelis spinus (syn. : Spinus spinus)* | Tarin des aulnes | FV | favorable |\n| *Casmerodius albus albus (syn. : Egretta alba)* | Grande Aigrette | FV | favorable |\n| *Certhia brachydactyla* | Grimpereau des jardins | FV | favorable |\n| *Certhia familiaris* | Grimpereau des bois | FV | favorable |\n| *Charadrius dubius* | Petit Gravelot | U1 | non favorable |\n| *Chlidonias niger* | Guifette noire | U1 | non favorable |\n| *Ciconia ciconia* | Cigogne blanche | U1 | non favorable |\n| *Ciconia nigra* | Cigogne noire | U1 | non favorable |\n| *Cinclus cinclus* | Cincle plongeur | U1 | non favorable |\n| *Circus aeruginosus* | Busard des roseaux | U1 | non favorable |\n| *Circus cyaneus* | Busard Saint-Martin | U1 | non favorable |\n| *Circus pygargus* | Busard cendré | U1 | non favorable |\n| *Coccothraustes coccothraustes* | Grosbec casse-noyaux | FV | favorable |\n| *Columba oenas* | Pigeon colombin | FV | favorable |\n| *Columba palumbus* | Pigeon ramier | FV | favorable |\n| *Corvus corax* | Grand Corbeau | FV | favorable |\n| *Corvus corone* | Corneille noire | FV | favorable |\n| *Corvus frugilegus* | Corbeau freux | FV | favorable |\n| *Corvus monedula (syn. : Coloeus monedula)* | Choucas des tours | U1 | non favorable |\n| *Coturnix coturnix* | Caille des blés | U2 | non favorable |\n| *Crex crex* | Râle des genêts | U2 | non favorable |\n| *Cuculus canorus* | Coucou gris | U2 | non favorable |\n| *Cygnus olor* | Cygne tuberculé | FV | favorable |\n| *Delichon urbicum* | Hirondelle des fenêtres | U2 | non favorable |\n| *Dendrocopos major* | Pic épeiche | FV | favorable |\n| *Dendrocopos medius* | Pic mar | U1 | non favorable |\n| *Dendrocopos minor (syn. : Dryobates minor)* | Pic épeichette | U1 | non favorable |\n| *Dryocopus martius* | Pic noir | FV | favorable |\n| *Egretta garzetta* | Aigrette garzette | FV | favorable |\n| *Emberiza citrinella* | Bruant jaune | U1 | non favorable |\n| *Emberiza schoeniclus* | Bruant des roseaux | U1 | non favorable |\n| *Erithacus rubecula* | Rougegorge familier | FV | favorable |\n| *Falco columbarius* | Faucon émerillon | FV | favorable |\n| *Falco peregrinus* | Faucon pèlerin | U1 | non favorable |\n| *Falco subbuteo* | Faucon hobereau | FV | favorable |\n| *Falco tinnunculus* | Faucon crécerelle | FV | favorable |\n| *Ficedula hypoleuca* | Gobemouche noir | U1 | non favorable |\n| *Fringilla coelebs* | Pinson des arbres | FV | favorable |\n| *Fringilla montifringilla* | Pinson du Nord | FV | favorable |\n| *Fulica atra* | Foulque macroule | FV | favorable |\n| *Gallinago gallinago* | Bécassine des marais | U2 | non favorable |\n| *Gallinula chloropus* | Gallinule poule-d’eau | FV | favorable |\n| *Garrulus glandarius* | Geai des chênes | FV | favorable |\n| *Grus gus* | Grue cendrée | FV | favorable |\n| *Hippolais icterina* | Hypolaïs ictérine | U2 | non favorable |\n| *Hippolais polyglotta* | Hypolaïs polyglotte | FV | favorable |\n| *Hirundo rustica* | Hirondelle rustique | U2 | non favorable |\n| *Ixobrychus minutus* | Blongios nain | U1 | non favorable |\n| *Jynx torquilla* | Torcol fourmilier | U1 | non favorable |\n| *Lanius collurio* | Pie-grièche écorcheur | U2 | non favorable |\n| *Lanius excubitor* | Pie-grièche grise | U2 | non favorable |\n| *Larus cachinnans* | Goéland pontique | FV | favorable |\n| *Larus canus* | Goéland cendré | FV | favorable |\n| *Larus melanocephalus *(syn.* Ichthyaetus melanocephalus*) | Mouette mélanocéphale | FV | favorable |\n| *Larus michahellis* | Goéland leucophée | FV | favorable |\n| *Larus ridibundus (syn. : Chroicocephalus ridibundus)* | Mouette rieuse | FV | favorable |\n| *Locustella naevia* | Locustelle tachetée | U1 | non favorable |\n| *Loxia curvirostra* | Bec-croisé des sapins | FV | favorable |\n| *Lullula arborea* | Aloutte lulu | U2 | non favorable |\n| *Luscinia megarhynchos* | Rossignol philomèle | U1 | non favorable |\n| *Luscinia svecica cyanecula* | Gorgebleue à miroir | U1 | non favorable |\n| *Lymnocryptes minimus* | Bécassine sourde | XX | non favorable |\n| *Mergellus albellus* | Harle piette | U1 | non favorable |\n| *Mergus merganser* | Harle bièvre | FV | favorable |\n| *Miliaria calandra (syn. : Emberiza calandra)* | Bruant proyer | U2 | non favorable |\n| *Milvus migrans* | Milan noir | FV | favorable |\n| *Milvus milvus* | Milan royal | U1 | non favorable |\n| *Motacilla alba* | Bergeronnette grise | FV | favorable |\n| *Motacilla cinerea* | Bergeronnette des ruisseaux | FV | favorable |\n| *Motacilla flava* | Bergeronnette printanière | U2 | non favorable |\n| *Muscicapa striata* | Gobemouche gris | FV | favorable |\n| *Oenanthe oenanthe* | Traquet motteux | U2 | non favorable |\n| *Oriolus oriolus* | Loriot d'Europe | U1 | non favorable |\n| *Pandion haliaetus* | Balbuzard pêcheur | FV | favorable |\n| *Parus ater (syn. : Périparus ater)* | Mésange noire | FV | favorable |\n| *Parus caeruleus (syn. : Cyanistes caeruleus)* | Mésange bleue | FV | favorable |\n| *Parus cristatus (syn. : Lophophanes cristatus)* | Mésange huppée | FV | favorable |\n| *Parus major* | Mésange charbonnière | FV | favorable |\n| *Parus montanus (syn. : Poecile montanus)* | Mésange boréale | U1 | non favorable |\n| *Parus palustris (syn. : Poecile palustris)* | Mésange nonnette | FV | favorable |\n| *Passer domesticus* | Moineau domestique | U1 | non favorable |\n| *Passer montanus* | Moineau friquet | U1 | non favorable |\n| *Perdix perdix* | Perdrix grise | U2 | non favorable |\n| *Pernis apivorus* | Bondrée apivore | FV | favorable |\n| *Phalacrocorax carbo sinensis* | Grand Cormoran | FV | favorable |\n| *Philomachus pugnax* | Combattant varié | U1 | non favorable |\n| *Phoenicurus ochruros* | Rougequeue noir | FV | favorable |\n| *Phoenicurus phoenicurus* | Rougequeue à front blanc | U1 | non favorable |\n| *Phylloscopus collybita* | Pouillot véloce | FV | favorable |\n| *Phylloscopus sibilatrix* | Pouillot siffleur | U1 | non favorable |\n| *Phylloscopus trochilus* | Pouillot fitis | FV | favorable |\n| *Pica pica* | Pie bavarde | FV | favorable |\n| *Picus canus* | Pic cendré | U1 | non favorable |\n| *Picus viridis* | Pic vert | U1 | non favorable |\n| *Pluvialis apricaria* | Pluvier doré | FV | favorable |\n| *Podiceps cristatus* | Grèbe huppé | U1 | non favorable |\n| *Porzana porzana* | Marouette ponctuée | U1 | non favorable |\n| *Prunella modularis* | Accenteur mouchet | FV | favorable |\n| *Pyrrhula pyrrhula* | Bouvreuil pivoine | FV | favorable |\n| *Rallus aquaticus* | Râle d'eau | U1 | non favorable |\n| *Regulus ignicapillus (syn. : Regulus ignicapilla)* | Roitelet triple-bandeau | FV | favorable |\n| *Regulus regulus* | Roitelet huppé | FV | favorable |\n| *Remiz pendulinus* | Rémiz penduline | U2 | non favorable |\n| *Riparia riparia* | Hirondelle des rivages | U2 | non favorable |\n| *Saxicola rubetra* | Tarier des prés | U2 | non favorable |\n| *Saxicola rubicola (syn. : Saxicola torquatus)* | Tarier pâtre | U1 | non favorable |\n| *Scolopax rusticola* | Bécasse des bois | XX | non favorable |\n| *Serinus serinus* | Serin cini | U1 | non favorable |\n| *Sitta europaea* | Sittelle torchepot | FV | favorable |\n| *Sterna hirundo* | Sterne pierregarrin | FV | favorable |\n| *Streptopelia decaocto* | Tourterelle turque | FV | favorable |\n| *Streptopelia turtur* | Tourterelle des bois | U2 | non favorable |\n| *Strix aluco* | Chouette hulotte | FV | favorable |\n| *Sturnus vulgaris* | Étourneau sansonnet | FV | favorable |\n| *Sylvia atricapilla* | Fauvette à tête noire | FV | favorable |\n| *Sylvia borin* | Fauvette des jardins | FV | favorable |\n| *Sylvia communis* | Fauvette grisette | U1 | non favorable |\n| *Sylvia curruca* | Fauvette babillarde | U1 | non favorable |\n| *Tachybaptus ruficollis* | Grèbe castagneux | FV | favorable |\n| *Tringa glareola* | Chevalier sylvain | U1 | non favorable |\n| *Tringa totanus* | Chevalier gambette | U2 | non favorable |\n| *Troglodytes troglodytes* | Troglodyte mignon | FV | favorable |\n| *Turdus iliacus* | Grive mauvis | FV | favorable |\n| *Turdus merula* | Merle noir | FV | favorable |\n| *Turdus philomelos* | Grive musicienne | FV | favorable |\n| *Turdus pilaris* | Grive litorne | FV | favorable |\n| *Turdus viscivorus* | Grive draine | FV | favorable |\n| *Tyto alba* | Effraie des clochers | U2 | non favorable |\n| *Upupa epops* | Huppe fasciée | U1 | non favorable |\n| *Vanellus vanellus* | Vanneau huppé | U2 | non favorable |\n\n**Légende :**\n\n|  | FV = favorable |  |\n| --- | --- | --- |\n|  | U1 = non favorable inadéquat | U1, U2 et XX = non favorable |\n|  | U2 = non favorable mauvais |  |\n|  | XX = inconnu |  |",
+      "text_sha256": "920922ebeef48c6277a0a3aa7a18942f23992fc6bc32d290ed1b74d66e4f0df1",
+      "md_span": {
+        "start": 11923,
+        "end": 23146
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

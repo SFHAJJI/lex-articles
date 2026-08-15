@@ -1,0 +1,342 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/12/2025 : Loi du 25 mars 2015 fixant les conditions et modalités selon lesquelles le fonctionnaire de l'Etat peut changer d'administration.",
+  "valid_from": "2025-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2015-03-25-n7/versions/2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5/fr.xml",
+    "sha256": "38cfb477525392fa592dae01be4f8186f6419aab6c8f0ef0c55bc3bfddd7778c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/consolide/20251215/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_1er/20180901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Les dispositions de la présente loi s’appliquent à tous les fonctionnaires exerçant les fonctions énumérées aux rubriques «Administration générale», «Armée, Police et Inspection générale de la Police», «Douanes» et «Magistrature» figurant aux annexes de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\nElles s’appliquent également aux fonctionnaires de l’Administration parlementaire et aux agents des établissements publics assimilés aux fonctionnaires de l’Etat.\n\nElles ne s’appliquent pas aux fonctionnaires stagiaires ou aux agents assimilés stagiaires.",
+      "text_sha256": "41c977078218684a960aa01ecb0e9b010a65d369e379b26b4ddec1778f65d167",
+      "md_span": {
+        "start": 732,
+        "end": 1372
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_2/20251215",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "Le fonctionnaire communal peut postuler pour un poste vacant à occuper par la voie du recrutement interne ou externe selon les conditions et modalités prévues aux articles 4 et 8, alinéas 1er et 3. Cette disposition ne s’applique pas au fonctionnaire communal qui était au service de l’État et qui a été licencié, révoqué, démis d’office ou dont le stage a été résilié pour motifs graves conformément à l’article 2, paragraphe 1er, alinéa 4, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État de même que celui dont le contrat a été résilié sur la base de l’article 5 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État.\n\nSi le fonctionnaire communal est retenu pour ledit poste, il doit se libérer de ses obligations professionnelles avec son employeur actuel avant son entrée en service effective auprès de l’Etat.\n\nLe fonctionnaire communal est nommé à son nouveau poste aux niveaux de grade et de traitement atteints en sa qualité de fonctionnaire communal.",
+      "text_sha256": "3a1f6788543d1776909aff4dd44f4109f26de53617c95797995f132be9844d6e",
+      "md_span": {
+        "start": 1407,
+        "end": 2453
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_3/20251215",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "Le fonctionnaire peut, si l’organisation interne et l’intérêt des services concernés le permettent, pour des raisons personnelles motivées et justifiées, se faire changer d’administration, dans les conditions et suivant les modalités ci-après.\n\nPar changement d’administration au sens de la présente loi, il y a lieu d’entendre la nomination du fonctionnaire dans une autre administration pour autant que ce changement se fait dans le même groupe de traitement et le même grade.\n\nPar dérogation à l’alinéa 2, le fonctionnaire est nommé au grade de début du nouveau sous-groupe de traitement lorsque celui-ci est supérieur au grade dans lequel il était classé la veille de son changement d’administration. Il est classé à la même valeur d’échelon, avec maintien de son ancienneté d’échelon. La première nomination au sous-groupe de traitement précédent est considérée comme première nomination pour l’accès au niveau supérieur et la promotion au dernier grade du nouveau sous-groupe de traitement.\n\nLe fonctionnaire qui, suite au changement d’administration, est classé dans un tableau indiciaire différent de son tableau indiciaire d’origine, est nommé dans le grade et la fonction qui correspondent à son ancienneté de service à partir de sa première nomination. Dans un tel cas, lorsque le fonctionnaire touche un traitement de base inférieur à son traitement de base dont il bénéficiait la veille du changement d’administration, il obtient un supplément personnel de traitement tenant compte de la différence entre ces traitements. Le supplément personnel diminue au fur et à mesure que le traitement augmente par l’effet d’avancements en échelon ou en grade.",
+      "text_sha256": "1758f294dfeb4f22d9efdf8400ad3db68aaf7920a2f7f4f0c5894f4632db480d",
+      "md_span": {
+        "start": 2488,
+        "end": 4150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_4/20180901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Tout changement d’administration qui entraîne pour le fonctionnaire l’exercice de fonctions classées dans une rubrique autre que celle dans laquelle sont classées les fonctions de son groupe de traitement initial, ne peut être accordé que si le grade de computation de la bonification d’ancienneté ainsi que le grade de début et le grade de fin sont les mêmes que ceux du groupe de traitement initial du fonctionnaire.\n\n**(2)** Toutefois, dans des cas exceptionnels et pour des raisons dûment motivées à constater par le ministre ayant la Fonction publique dans ses attributions, dénommé ci-après «ministre», le fonctionnaire peut être autorisé à changer d’administration même si le transfert entraîne un classement dans des fonctions d’un groupe de traitement hiérarchiquement inférieur à son groupe de traitement initial.\n\nDans ce cas, les dispositions de l’article 28 (2) de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat lui sont applicables.",
+      "text_sha256": "08be462e2863e9aa56405677eeef0b82f1464c74bbe279d7423f61b3f52f5072",
+      "md_span": {
+        "start": 4185,
+        "end": 5221
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_5/20180901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "( abrogé )",
+      "text_sha256": "dba139d5880a4c19154c857832683b3fd9f79cb409083efe56792075aff471f2",
+      "md_span": {
+        "start": 5256,
+        "end": 5266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_6/20180901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "( abrogé )",
+      "text_sha256": "dba139d5880a4c19154c857832683b3fd9f79cb409083efe56792075aff471f2",
+      "md_span": {
+        "start": 5301,
+        "end": 5311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_7/20251215",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "**(1)** Les administrations de l’Etat qui recourent à la procédure du recrutement interne pour un poste vacant communiquent au ministre copie de l’autorisation d’engagement ou de remplacement du poste vacant. Elles remplissent à cet effet le formulaire que le ministre met à leur disposition.\n\n**(2)** Tout poste vacant à occuper par le biais du recrutement interne doit être publié par la voie appropriée pendant au moins cinq jours ouvrables.",
+      "text_sha256": "cca1aac0682b1cadc954d5ca185c00ef1c03cb83cf249afc93322fa6c318b430",
+      "md_span": {
+        "start": 5346,
+        "end": 5790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_8/20251215",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "Le fonctionnaire qui demande de changer d’administration peut postuler à l’intégralité des postes vacants publiés soit par le biais du recrutement interne, soit par le biais du recrutement externe, à l’exception :\n\n1. des postes relevant du Corps diplomatique ;\n2. des fonctions relevant de la rubrique « Armée, Police et Inspection générale de la Police » ;\n3. des fonctions relevant du groupe de traitement C1 du sous-groupe des douanes ;\n4. des fonctions relevant de la rubrique « Enseignement » ;\n5. des fonctions relevant de la rubrique « Magistrature » ;\n6. des postes de pompier professionnel auprès du Corps grand-ducal d’incendie et de secours ;\n7. de la fonction d’agent pénitentiaire.\n\nLe fonctionnaire qui postule aux postes vacants relevant de son groupe de traitement publiés en tant que recrutement externe est directement admis à l’épreuve spéciale.\n\nLa demande se fait par voie électronique.\n\nLorsque la candidature du fonctionnaire a été retenue, la procédure prévue aux articles 11 et 12 s’applique.",
+      "text_sha256": "573dfa2e02571076fd7a68512f6dffb7cffb26f30e6589f7e99c10c1f2fa0d5c",
+      "md_span": {
+        "start": 5825,
+        "end": 6843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_9/20180901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Dès réception des demandes des candidats briguant le poste vacant, l’administration au sein de laquelle existe la vacance de poste ne peut procéder à un nouvel engagement sur ce poste avant la décision prévue à l’article 12.",
+      "text_sha256": "7aa1599a47d51655ea97f28542459e1c4af72a61b9fd11957221c0b109872041",
+      "md_span": {
+        "start": 6878,
+        "end": 7102
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_10/20180901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Le chef d’administration examine pour chaque demande si les conditions énumérées aux articles 4, 7 et 8 sont remplies.",
+      "text_sha256": "7116a83d93ef4357cc5b5f3684b6f5adfeaa7ec72a8b59c8dec9225fd6c32e86",
+      "md_span": {
+        "start": 7139,
+        "end": 7257
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_11/20251215",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "Le chef d’administration soumet à son ministre une proposition motivée quant au candidat à retenir.\n\nLe ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement, conformément à l’article 12, paragraphe 3, alinéa 3.",
+      "text_sha256": "9b95632d0de871b915300d8f44ffd7e9aff5ce40ba92e29881c59393fc3c86f0",
+      "md_span": {
+        "start": 7294,
+        "end": 7659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_12/20251215",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-15",
+      "text_md": "**(1)** Le ministre du ressort de destination transmet au ministre les candidatures reçues et, s’il y a lieu, le nom du candidat retenu, l’avis motivé du ministre du ressort d’origine et une proposition de date pour la prise d’effet du changement.\n\n**(2)** Le ministre accorde ou refuse le changement par une décision motivée.\n\n**(3)** La décision accordant le changement est transmise au fonctionnaire concerné, une copie étant transmise aux ministres des ressorts concernés.\n\nL’autorité investie du pouvoir de nomination procède à la nomination du fonctionnaire qui est admis à changer d’administration, nomination qui emporte de plein droit démission de la fonction exercée antérieurement.\n\nLe changement prend effet trois mois à partir de la décision du ministre, sauf si les ministres des ressorts concernés s’accordent sur une autre date.\n\n**(4)** La décision refusant le changement est transmise au candidat. Au cas où le refus concerne le candidat retenu par le ministre du ressort de destination, une copie de la décision est transmise à ce dernier et au ministre du ressort d’origine.",
+      "text_sha256": "1679e80cc46756e013ab6ea3b978c403ae1ad4202c4f8db73730e2d7c2c8e8b0",
+      "md_span": {
+        "start": 7696,
+        "end": 8790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_13/20180901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "( abrogé )",
+      "text_sha256": "dba139d5880a4c19154c857832683b3fd9f79cb409083efe56792075aff471f2",
+      "md_span": {
+        "start": 8827,
+        "end": 8837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_14/20180901",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "( abrogé )",
+      "text_sha256": "dba139d5880a4c19154c857832683b3fd9f79cb409083efe56792075aff471f2",
+      "md_span": {
+        "start": 8874,
+        "end": 8884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_15/20180901",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Le fonctionnaire est intégré dans sa nouvelle administration aux niveaux de grade et de traitement atteints dans l’administration d’origine.\n\n**(2)** Par traitement au sens du présent article, il y a lieu d’entendre le traitement tel qu’il est fixé aux tableaux indiciaires des annexes de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\n**(3)** N’est pas considérée comme une diminution de ce traitement au sens du présent article la cessation d’emplois accessoires ou la cessation de primes, d’indemnités extraordinaires ou de frais de voyage, de bureau ou autres lorsque la cause de ces indemnités vient à disparaître avec le nouvel emploi.",
+      "text_sha256": "dfadcb27460e8200813929bddd0016391c6e6913fbed1ed423b6bd290b56de50",
+      "md_span": {
+        "start": 8921,
+        "end": 9654
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_16/20180901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration est abrogée.",
+      "text_sha256": "703e16f903756c239e1db4a4922879ca57119fb580fcf2fa73882c435f33e8a3",
+      "md_span": {
+        "start": 9691,
+        "end": 9857
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/03/27/n1/jo",
+          "text": "loi modifiée du 27 mars 1986"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2015-03-25-n7:2025-12-15--eae28f95d1e71557c4455bcbddaaada4ebf98c21c92f1f6c9f819f99c2b193a5#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/art_17/20180901",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du septième mois qui suit celui de sa publication au Mémorial.",
+      "text_sha256": "40a6773d2ab5fb8677d265558b82537151737934ee5d0725b590c981e9773d3a",
+      "md_span": {
+        "start": 9894,
+        "end": 10005
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

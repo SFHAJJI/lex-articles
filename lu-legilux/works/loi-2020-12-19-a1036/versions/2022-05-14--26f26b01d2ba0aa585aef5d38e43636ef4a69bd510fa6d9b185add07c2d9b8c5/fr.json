@@ -1,0 +1,563 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5",
+  "language": "fr",
+  "title": "Version consolidée applicable au 14/05/2022 : Loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises.",
+  "valid_from": "2022-05-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-12-19-a1036/versions/2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5/fr.xml",
+    "sha256": "c49a7d88a0b432ac3d00181d86967028aa20624d7dbd4d43bef5f86375b4cc99",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20220514/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_1er/20220215",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-02-15",
+      "text_md": "L’État, représenté par le ministre ayant les Classes moyennes dans ses attributions, ci-après « ministre », peut octroyer une aide sous forme de contribution aux coûts non couverts aux entreprises qui exercent :\n\n1. loi du 24 juillet 2020 loi modifiée du 4 décembre 1967 loi modifiée du 20 décembre 2019 loi du 3 avril 2020 loi modifiée du 19 décembre 2014\n2. l’activité de gestionnaire d’un organisme de formation professionnelle continue ;\n3. loi modifiée du 24 juillet 2020\n4. l’activité de commerce de détail de voitures et de véhicules légers neufs.",
+      "text_sha256": "a4a384023c1570d95a86f49b7703f6aaa79e3f7e2f22ee6947e4e3c4e1f68308",
+      "md_span": {
+        "start": 753,
+        "end": 1307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_2/20201221",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "**(1)** Les entreprises qui, au 31 décembre 2019, étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ne peuvent prétendre à une aide au titre de la présente loi.\n\nPar dérogation à l’alinéa 1er, l’aide prévue par la présente loi peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide.\n\nPar dérogation, l’aide peut être accordée à une entreprise exclue en application de l’alinéa 1er à condition que l’aide respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.\n\n**(2)** Les entreprises exerçant des activités dans le domaine de la transformation et de la commercialisation des produits agricoles ne peuvent bénéficier d’une aide au titre de la présente loi qu’à condition que cette aide ne soit cédée ni partiellement, ni totalement, à des producteurs primaires et ne soit pas fixée sur la base du prix ou de la quantité des produits achetés à des producteurs primaires ou mis sur le marché par les entreprises concernées.\n\n**(3)** Les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclus du champ d’application de la présente loi pendant une durée de trois années à compter de la date de ce jugement.",
+      "text_sha256": "9a6628c1c22bd4c266259d599e189aad6ddf54fdc0c9ddcc6daf990227f7d2a6",
+      "md_span": {
+        "start": 1342,
+        "end": 3628
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/651/jo",
+          "text": "règlement (UE) n° 651/2014"
+        },
+        {
+          "href": "http://data.europa.eu/eli/treaty/tfeu_2012/oj",
+          "text": "traité"
+        },
+        {
+          "href": "/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013"
+        },
+        {
+          "href": "http://data.europa.eu/eli/treaty/tfeu_2012/oj",
+          "text": "traité sur le fonctionnement de l’Union européenne"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_3/20220215",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-02-15",
+      "text_md": "Aux fins de la présente loi, on entend par :\n\n1. « commercialisation de produits agricoles » : la détention ou l’exposition en vue de la vente, de la mise en vente, de la livraison ou de toute autre forme de mise sur le marché, à l’exception de la première vente par un producteur primaire à des revendeurs ou à des transformateurs et de toute activité consistant à préparer un produit en vue de cette vente. La vente par un producteur primaire à des consommateurs finaux est considérée comme une commercialisation si elle a lieu dans des locaux distincts réservés à cette activité ;\n2. règlement grand-ducal du 12 septembre 2019 Code de commerce règlement grand-ducal précité du 12 septembre 2019\n3. règlement grand-ducal précité du 12 septembre 2019\n4. 1. une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;\n2. une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;\n3. une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;\n4. une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci. Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique.\n5. règlement (UE) n° 651/2014\n6. règlement (UE) n° 651/2014\n7. 43 000 000 euros règlement (UE) n° 651/2014\n8. règlement (UE) n° 651/2014\n9. règlement (UE) 1379/2013 règlements (CE) n° 1184/2006 (CE) n° 1224/2009 règlement (CE) n° 104/2000\n10. « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente.",
+      "text_sha256": "7b03678c99b1caf6baf1952b6a790fbf77a5e8d9ea2136c801d5c7f2f261253d",
+      "md_span": {
+        "start": 3663,
+        "end": 5863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_4/20210323",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-05-16",
+      "text_md": "**(1)** Le ministre peut octroyer une aide pour les mois de novembre et décembre 2020 et le mois de janvier 2021 pour autant que les conditions énoncées ci-après soient remplies :\n\n1. loi modifiée du 2 septembre 2011 er\n2. er loi modifiée du 17 juillet 2020\n3. si elle emploie du personnel, la preuve de l’affiliation de l’entreprise au Centre commun de la sécurité sociale ;\n4. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ;\n5. pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 15 mars 2020 ;\n6. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins quarante pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ;\n7. communication n° 2020/C 91 I/01 du 20 mars 2020\n\n**(2)** Une aide pour les mois de novembre et décembre 2020 et le mois de janvier 2021 peut être octroyée aux entreprises qui ont débuté l’activité visée à l’article 1er entre le 1er janvier 2020 et le 31 décembre 2020, pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. er loi modifiée du 17 juillet 2020\n3. er\n4. l’entreprise unique a subi au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité ;\n5. règlement (UE) n° 1407/2013 traité sur le fonctionnement de l’Union européenne\n\n**(3)** L’intensité des aides visées aux paragraphes 1er et 2 s’élève à :\n\n1. 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;\n2. 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises ;\n\nLe montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :\n\n1. 20 000 euros par mois pour une microentreprise ;\n2. 100 000 euros par mois pour une petite entreprise ;\n3. 200 000 euros par mois pour une moyenne et une grande entreprise.\n\nSi l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne peut pas dépasser 200 000 euros sur trois exercices fiscaux par entreprise unique et sous réserve de respecter le règlement (UE) n° 1407/2013 précité. ».",
+      "text_sha256": "27b6948f16dd2c808a2aacab7be6faf420d203846580e32c9b43f21a93c2277d",
+      "md_span": {
+        "start": 5898,
+        "end": 8466
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013 précité"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4bis",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une aide peut être accordée les mois de février, mars, avril, mai et juin 2021 pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. er loi modifiée du 17 juillet 2020\n3. prorata er prorata\n4. l’entreprise a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ou, si l’entreprise a commencé ses activités après le 31 décembre 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.",
+      "text_sha256": "1224ff67328e40448055bf965f6da59ff529fdcae9216dac0065554c252425d0",
+      "md_span": {
+        "start": 8507,
+        "end": 9285
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4ter",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4ter.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une aide peut être octroyée pour les mois de février, mars, avril, mai et juin 2021 aux entreprises qui, au cours de cette période, ont fait l’objet d’une obligation de fermeture en application de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19, pour la durée de la fermeture, pour autant que les conditions suivantes soient remplies :\n\n1. er bis\n2. er\n\nPar dérogation à l’article 3, point 3°, le chiffre d’affaires réalisé au moyen d’activités de livraison ou de retrait au cours du mois pour lequel l’aide est demandée est neutralisé jusqu’à concurrence de 25 pour cent du chiffre d’affaires réalisé au cours du même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, du chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ou, si l’entreprise a commencé ses activités après le 31 décembre 2019, du chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.\n\nLes dispositions de l’alinéa 2 et de l’article 5, paragraphe 1er, alinéa 2, s’appliquent même si l’obligation de fermeture visée à l’alinéa 1er n’a été en vigueur que pendant une partie du mois pour lequel l’aide est sollicitée.\n\nUne aide sur base des dispositions de l’alinéa 3 ne peut pas être accordée avant la décision finale de la Commission européenne déclarant compatible avec le marché intérieur le régime d’aide prévu à l’alinéa 3.",
+      "text_sha256": "7334ae88315b95eb8177363e9acd3edbcbb9c3ddf91345af22eaa06cac6e58aa",
+      "md_span": {
+        "start": 9326,
+        "end": 10816
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/07/17/a624/jo",
+          "text": "loi modifiée du 17 juillet 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4quater",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4quater",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4quater.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Une aide peut être octroyée pour les mois de février, mars, avril, mai et juin 2021 aux entreprises qui, en raison des limitations aux rassemblements publics et privés imposées par la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ont subi, au cours du mois pour lequel l’aide est demandée, une perte du chiffre d’affaires d’au moins 75 pour cent par rapport au même mois de l’année fiscale 2019. Si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, la perte du chiffre d’affaires est appréciée par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019. Si l’entreprise a commencé ses activités après le 31 décembre 2019, la perte du chiffre d’affaires est appréciée par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.\n\nUne aide peut être octroyée pour les mois de février et mars 2021 aux entreprises qui ont réalisé au moins 75 pour cent du chiffre d’affaires de l’année fiscale 2019 lors de fêtes foraines et qui, en raison des limitations aux rassemblements publics et privés imposées par la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ont subi, au cours du mois pour lequel l’aide est demandée, une perte du chiffre d’affaires d’au moins 75 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019. L’aide prévue au présent alinéa ne peut pas être accordée avant la décision finale de la Commission européenne déclarant compatible avec le marché intérieur le régime d’aide institué par le présent alinéa.\n\n**(2)** L’entreprise doit remplir les conditions prévues à l’article 4, paragraphe 1er, points 1° et 3° et les conditions prévues à l’article 4*bis*, points 2° et 3°.",
+      "text_sha256": "930652669bce20e407f8faabedbfc5e7422e00faa54f2d86a0d65888d0e8b3a2",
+      "md_span": {
+        "start": 10863,
+        "end": 12715
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/07/17/a624/jo",
+          "text": "loi modifiée du 17 juillet 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4quinquies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4quinquies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_17/20220215",
+      "type": "article",
+      "num": "Art. 4quinquies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-02-15",
+      "text_md": "Une aide peut être accordée les mois de juillet, août, septembre, octobre, novembre, décembre 2021, janvier et février 2022 aux entreprises visées à l’article 1er, point 1°, pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. er loi modifiée du 17 juillet 2020\n3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.",
+      "text_sha256": "d54b0a26fd6ffc3ebd14e340e1f074e1c17480fd7b7619fa95d638bb9be0f551",
+      "md_span": {
+        "start": 12768,
+        "end": 13750
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4sexies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4sexies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4sexies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une aide peut être accordée les mois de juillet, août, septembre, octobre, novembre, décembre 2021 et janvier et février 2022 aux entreprises qui ont commencé l’activité visée à l’article 1er, point 1°, entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. loi modifiée du 17 juillet 2020\n3. er\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.",
+      "text_sha256": "40357b4d166189eb08e02514269de0c88417ef18fd00246c1cfb6315fa0e79fe",
+      "md_span": {
+        "start": 13797,
+        "end": 14423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4septies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4septies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4septies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une aide peut être accordée les mois de janvier et février 2022 aux entreprises visées à l’article 1er, point 4°, pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. er loi modifiée du 17 juillet 2020\n3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.",
+      "text_sha256": "59e514646e24c3cf8a75dd79970c0d17ed3dde84f298b8719149655c9f1f3c2b",
+      "md_span": {
+        "start": 14472,
+        "end": 15394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4octies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4octies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4octies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une aide peut être accordée les mois de janvier et février 2022 aux entreprises qui ont commencé l’activité visée à l’article 1er, point 4°, entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. loi modifiée du 17 juillet 2020\n3. er\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.",
+      "text_sha256": "1749598490072294f843e3d4a98e99e8bdd36de32a1385177e8f979138a37a4f",
+      "md_span": {
+        "start": 15441,
+        "end": 16005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4nonies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4nonies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_20/20220514",
+      "type": "article",
+      "num": "Art. 4nonies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-14",
+      "text_md": "Une aide peut être accordée les mois de mars, avril, mai et juin 2022 aux entreprises qui exercent une activité visée au point 1° de l’annexe de la loi modifiée du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique, pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. loi modifiée du 17 juillet 2020\n3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.",
+      "text_sha256": "50348c2333db46cfe518940370d4e65c61f66bee1230fa550d9841fbefb7ba5c",
+      "md_span": {
+        "start": 16052,
+        "end": 17729
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/07/24/a641/jo",
+          "text": "loi modifiée du 24 juillet 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2019/12/20/a886/jo",
+          "text": "loi modifiée du 20 décembre 2019"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/04/03/a230/jo",
+          "text": "loi du 3 avril 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n10/jo",
+          "text": "loi modifiée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4decies",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_4decies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_4decies/20220514",
+      "type": "article",
+      "num": "Art. 4decies.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-14",
+      "text_md": "Une aide peut être accordée les mois de mars, avril, mai et juin 2022 aux entreprises qui ont commencé l’activité visée au point 1° de l’annexe de la loi modifiée du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :\n\n1. er\n2. loi modifiée du 17 juillet 2020\n3. er\n4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.",
+      "text_sha256": "a00683b623dc078a14200aa067847cb55189c4542d46bd4d8b31f7a35ffcede1",
+      "md_span": {
+        "start": 17776,
+        "end": 19072
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/07/24/a641/jo",
+          "text": "loi modifiée du 24 juillet 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2019/12/20/a886/jo",
+          "text": "loi modifiée du 20 décembre 2019"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/04/03/a230/jo",
+          "text": "loi du 3 avril 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n10/jo",
+          "text": "loi modifiée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_5/20210716",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-16",
+      "text_md": "**(1)** L’intensité de l’aide pour les mois et les entreprises visés à l’article 4*bis* s’élève à :\n\n1. soixante-dix pour cent des coûts non couverts pour les moyennes et grandes entreprises ;\n2. quatre-vingt-dix pour cent des coûts non couverts pour les microentreprises et les petites entreprises.\n\nL’intensité de l’aide pour les mois et les entreprises visés aux articles 4*ter* et 4*quater* s’élève à 100 pour cent des coûts non couverts.\n\n**(2)** Le montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :\n\n1. 30 000 euros par mois pour une microentreprise ;\n2. 150 000 euros par mois pour une petite entreprise ;\n3. 300 000 euros par mois pour une moyenne et une grande entreprise.\n\n**(3)** L’aide respecte le plafond prévu sous la section 3.1. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 » par entreprise unique en montant brut avant impôts ou autres prélèvements.\n\nSi l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne peut pas dépasser 200 000 euros sur trois exercices fiscaux par entreprise unique et sous réserve de respecter le règlement (UE) n° 1407/2013 précité.",
+      "text_sha256": "b5143d51fd5ef2b9d1eb38444096716a9dbd71688700461429e6e1a609dffd94",
+      "md_span": {
+        "start": 19107,
+        "end": 20406
+      },
+      "citations": [
+        {
+          "href": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:52020XC0320(03)",
+          "text": "communication n° 2020/C 91 I/01 du 20 mars 2020"
+        },
+        {
+          "href": "/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_5bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_21/20220514",
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-14",
+      "text_md": "**(1)** L’intensité de l’aide pour les mois et les entreprises visés aux articles 4*quinquies*, 4*sexies*, 4*septies*, 4*octies*, 4*nonies* et 4*decies** *s’élève à :\n\n1. 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;\n2. 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises.\n\n**(2)** Le montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :\n\n1. 20 000 euros par mois pour une microentreprise ;\n2. 100 000 euros par mois pour une petite entreprise ;\n3. 200 000 euros par mois pour une moyenne et une grande entreprise.\n\n**(3)** Seule ou cumulée avec l’aide visée à l’article 4, paragraphe 1er, l’aide visée à l’article 4*quinquies *et à l’article 4*septies* respecte le plafond prévu sous la section 3.12. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 » par entreprise unique en montant brut avant impôts ou autres prélèvements.\n\nSeule ou cumulée avec l’aide visée à l’article 4, paragraphe 2, l’aide visée à l’article 4*sexies *et à l’article* 4*octies**respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.\n\nSeule ou cumulée avec l’aide visée à l’article 4, paragraphe 1er, ou avec l’aide visée à l’article 4*quinquies*, l’aide visée à l’article 4*nonies *respecte le plafond prévu sous la section 3.12. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 » par entreprise unique en montant brut avant impôts ou autres prélèvements.\n\nSeule ou cumulée avec l’aide visée à l’article 4, paragraphe 2, ou avec l’aide visée à l’article 4*sexies*, l’aide visée à l’article 4*decies* respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 précité de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.\n\nSi l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne peut pas dépasser 200 000 euros sur trois exercices fiscaux par entreprise unique et sous réserve de respecter le règlement (UE) n° 1407/2013 précité.",
+      "text_sha256": "e1e0bc85939c94c4a871611bf6bf6e8eedfdf11e0ca5564d8c1f340049295c6a",
+      "md_span": {
+        "start": 20447,
+        "end": 23005
+      },
+      "citations": [
+        {
+          "href": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:52020XC0320(03)",
+          "text": "communication n° 2020/C 91 I/01 du 20 mars 2020"
+        },
+        {
+          "href": "/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013"
+        },
+        {
+          "href": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A52020XC0320%2803%29&qid=1651479974949",
+          "text": "communication n° 2020/C 91 I/01 du 20 mars 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_6/20220514",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-14",
+      "text_md": "**(1)** Une demande doit être soumise au ministre sous forme écrite pour chaque mois pour lequel une aide est sollicitée.\n\n**(2)** Les demandes doivent parvenir au ministre au plus tard :\n\n1. le 15 septembre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;\n2. le 15 mai 2022 en ce qui concerne les aides pour les mois de juillet à décembre 2021, et les mois de janvier et février 2022 ;\n3. le 15 juin 2022 en ce qui concerne les aides pour les mois de mars, avril, mai et juin 2022.\n\nLes demandes doivent contenir :\n\n1. le nom de l’entreprise requérante et les éventuelles relations formant une entreprise unique ;\n2. règlement (UE) n° 651/2014\n3. le bilan de l’exercice fiscal 2019 déposé au registre de commerce et des sociétés ;\n4. le compte de profits et pertes de l’exercice fiscal 2019 et le compte de profits et pertes pour le mois relatif à la demande et, pour les entreprises créées après le 31 décembre 2019, le compte de profits et pertes pour les mois pour lesquels elles ont été en activité ;\n5. la déclaration de la taxe sur la valeur ajoutée pour 2019 ainsi que la déclaration de la taxe sur la valeur ajoutée pour le mois correspondant de l’exercice fiscal 2019 ou, à défaut de déclaration mensuelle, la déclaration trimestrielle de la taxe sur la valeur ajoutée ;\n6. une déclaration renseignant le total des subventions destinées à l’indemnisation des chômeurs partiels perçues pour le mois relatif à la demande et le décompte des subventions destinées à l’indemnisation des chômeurs partiels du dernier mois disponible ;\n7. er\n8. une déclaration, le cas échéant, des autres aides de minimis reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.\n\nLa demande d’aide peut contenir toute autre pièce que l’entreprise requérante estime utile afin de permettre au ministre d’apprécier le bien-fondé de sa demande.\n\nPar dérogation à l’alinéa 2, point 4°, les demandes relatives au mois de juin 2022 peuvent être introduites sans être accompagnées du compte de profits et pertes relatif à ce mois. L’entreprise doit toutefois joindre à sa demande une estimation chiffrée de la perte du chiffre d’affaires et des coûts non couverts pour le mois de juin 2022.\n\nLe compte de profits et pertes relatif au mois de juin 2022 doit parvenir au ministre le 15 septembre 2022 au plus tard.\n\n**(3)** Après l’octroi de l’aide et dès que possible, l’entreprise transmet au ministre le compte de profits et pertes des exercices fiscaux 2020, 2021 et 2022.",
+      "text_sha256": "9e5e8ca2d41c1ad2544fcd7e2e661a6e78e1d4e9de131a58f3c8ca5d4962039d",
+      "md_span": {
+        "start": 23040,
+        "end": 25555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_7/20220514",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-14",
+      "text_md": "**(1)** L’aide prend la forme d’une subvention en capital mensuelle et doit être octroyée avant :\n\n1. le 31 octobre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;\n2. le 30 juin 2022 en ce qui concerne les aides pour les mois de juillet 2021 à juin 2022.\n\nElle est exempte d’impôts.\n\nL’aide pour le mois de juin 2022 ne pourra être versée que pour autant que l’entreprise aura satisfait à l’obligation prévue à l’article 6, paragraphe 2, alinéa 5.\n\n**(2)** Toute aide individuelle octroyée sur la présente loi, à l’exception des aides ne dépassant pas 100 000 euros et de celles octroyées conformément au règlement (UE) n° 1407/2013 précité, est publiée sur le site de transparence de la Commission européenne au plus tard douze mois après son octroi et conformément à l’annexe III du règlement (UE) n° 651/2014 précité.\n\n**(3)** Les aides accordées conformément au règlement (UE) n° 1407/2013 précité sont soumises aux dispositions de l’article 6 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aide de minimis.",
+      "text_sha256": "f7577b53b80a99cb9ce774adc45c04ae4cd7ed7734fb6ccadc55479b06493833",
+      "md_span": {
+        "start": 25590,
+        "end": 26663
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013"
+        },
+        {
+          "href": "/eli/reg_ue/2014/651/jo",
+          "text": "règlement (UE) n° 651/2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2019/12/20/a877/jo",
+          "text": "loi du 20 décembre 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_8/20210716",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-16",
+      "text_md": "**(1)** L’aide prévue par la présente loi est cumulable avec des aides de minimis pour autant que les plafonds prévus au règlement (UE) n° 1407/2013 précité demeurent respectés.\n\n**(2)** L’aide prévue par la présente loi ne peut pas être cumulée pour le même mois et pour les mêmes coûts avec :\n\n1. loi du 24 juillet 2020 loi modifiée du 4 décembre 1967 loi modifiée du 20 décembre 2019 loi du 3 avril 2020 loi modifiée du 19 décembre 2014\n2. loi du 19 décembre 2020\n\n**(3)** Les aides prévues aux articles 4*bis*, 4*ter* et 4*quater* ne peuvent pas être cumulées entre elles pour le même mois.\n\n**(4)** Sans préjudice des paragraphes 2 et 3, l’aide prévue par la présente loi peut être cumulée avec tout autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1. ou 3.12. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », à condition que la valeur nominale totale de ces aides reste inférieure au plafond fixé dans la section 3.1. ou 3.12. de la communication précitée.",
+      "text_sha256": "e8628c0acd97d03831a7730474ab9269dba917635cc8dac9bd98266281d2c5ec",
+      "md_span": {
+        "start": 26698,
+        "end": 27883
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/1407/jo",
+          "text": "règlement (UE) n° 1407/2013"
+        },
+        {
+          "href": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:52020XC0320(03)",
+          "text": "communication n° 2020/C 91 I/01 du 20 mars 2020"
+        },
+        {
+          "href": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:52020XC0320(03)",
+          "text": "communication précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_9/20201221",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "**(1)** L’entreprise doit restituer le montant indûment touché lorsqu’après l’octroi de l’aide, une incompatibilité avec la présente loi est constatée. Toute aide peut faire l’objet d’un contrôle jusqu’à dix ans après son octroi à l’entreprise.\n\nLe ministre contrôle a posteriori, sur échantillon, les informations relatives aux coûts non couverts transmises par les entreprises.\n\n**(2)** La restitution couvre le montant indûment touché, augmenté des intérêts légaux applicables au moment de l’octroi, avant l’expiration d’un délai de trois mois à partir de la date de la décision ministérielle de restitution, sauf si celle-ci prévoit à cet effet un autre délai.\n\n**(3)** Seul le ministre peut constater les faits entraînant la perte de l’aide.",
+      "text_sha256": "e5f769b504f2b5ff74b46476d5db78dcada9a0fd08d062ea6bcdd4a8bd6bd45d",
+      "md_span": {
+        "start": 27918,
+        "end": 28664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_10/20201221",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "Les personnes qui ont obtenu l’aide prévue par la présente loi sur base de renseignements sciemment inexacts ou incomplets sont passibles des peines prévues à l’article 496 du Code pénal, sans préjudice de la restitution de l’aide.",
+      "text_sha256": "77474829acafbe03ac6002a481dcaae9e34c4e1e640b31754bd162285b802496",
+      "md_span": {
+        "start": 28701,
+        "end": 28932
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_11/20201221",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "Le ministre peut demander auprès du Centre commun de la sécurité sociale, de l’Agence pour le développement de l’emploi, de l’Administration de l’enregistrement, des domaines et de la TVA et du Comité de conjoncture les informations nécessaires à l’instruction des demandes d’aide introduites sur la base de la présente loi.\n\nUne copie de la décision ministérielle, indiquant le nom de l’entreprise requérante et son numéro d’immatriculation auprès du Centre commun de la sécurité sociale, est transmise à l’Administration des contributions directes et à l’Administration de l’enregistrement, des domaines et de la TVA pour information.",
+      "text_sha256": "6fc2660bfe74e0c1aa57e943e8a59e0e82a7138fcd2231cadb49e3a9d8bf15c1",
+      "md_span": {
+        "start": 28969,
+        "end": 29605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_12/20201221",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "L’intégralité des dépenses occasionnées par l’octroi d’aides sur base de la présente loi sont prises en charge par le Fonds de relance et de solidarité créé par la loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.",
+      "text_sha256": "653bee5301bc37072abb19a155a070b5339c3ddd1e497b3ff497e19291d30bfd",
+      "md_span": {
+        "start": 29642,
+        "end": 30520
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/07/24/a641/jo",
+          "text": "loi du 24 juillet 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2019/12/20/a886/jo",
+          "text": "loi modifiée du 20 décembre 2019"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/04/03/a230/jo",
+          "text": "loi du 3 avril 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n10/jo",
+          "text": "loi modifiée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1036:2022-05-14--26f26b01d2ba0aa585aef5d38e43636ef4a69bd510fa6d9b185add07c2d9b8c5#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/art_13/20201221",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "La présente loi entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
+      "md_span": {
+        "start": 30557,
+        "end": 30665
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

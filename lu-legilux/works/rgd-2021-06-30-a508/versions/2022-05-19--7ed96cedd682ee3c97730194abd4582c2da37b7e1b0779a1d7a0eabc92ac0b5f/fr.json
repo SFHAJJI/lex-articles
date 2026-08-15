@@ -1,0 +1,728 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f",
+  "language": "fr",
+  "title": "Règlement grand-ducal du 30 juin 2021 fixant les conditions de recrutement, de formation et de nomination aux emplois des pompiers professionnels.",
+  "valid_from": "2022-05-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2021-06-30-a508/versions/2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f/fr.xml",
+    "sha256": "381ffccf9362ec2935cdf0ee88968dd18d05911499dbdd0561b3952d285148e9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/consolide/20220519/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_1er/20210711",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "L’examen-concours se compose d’une épreuve d’aptitude générale prévue à l’article 5*bis*, paragraphe 1er, du règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État et d’une épreuve spéciale.\n\nL’épreuve spéciale est organisée par le directeur général du Corps grand-ducal d’incendie et de secours, ci-après dénommé « CGDIS », sur proposition du conseil d’administration.",
+      "text_sha256": "a0e732548e2d9fbf543fa49830176eb39f9bf2b50195a0fd41a5147d67933951",
+      "md_span": {
+        "start": 801,
+        "end": 1322
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2015/09/30/n3/jo",
+          "text": "règlement grand-ducal modifié du 30 septembre 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_2/20210711",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Pour être admis à l’épreuve spéciale, le candidat doit :\n\n1. er\n2. avoir une présentation compatible avec l’exercice de la fonction et le port de l’uniforme. Les modifications corporelles telles que scarifications ou incisions, marquages de fer, stretchings, les tatouages qu’ils soient permanents ou provisoires, ne peuvent ni illustrer l’appartenance à une organisation politique, syndicale, confessionnelle ou associative, ni porter atteinte aux obligations de réserve, de loyauté et d’exemplarité, en particulier pour les modifications corporelles visibles du public.",
+      "text_sha256": "0c9765dad41b4fb9e98672b2c5f49f218a54f8f580dea962bbeb4e66bf8c3c41",
+      "md_span": {
+        "start": 1357,
+        "end": 1928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_3/20210711",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "**(1)** Les dates de l’épreuve spéciale, les délais d’inscription et les programmes respectifs sont publiés par la voie appropriée et dans un délai minimal d’un mois avant le jour fixé pour l’épreuve spéciale.\n\nLes inscriptions se font par voie électronique.\n\n**(2)** Le candidat fournit avec sa demande d’inscription :\n\n1. 1. ses nom et prénoms ;\n2. son numéro d’identification ;\n3. sa nationalité ;\n4. son adresse électronique ;\n5. la liste des établissements d’enseignement fréquentés et leur pays d’implantation ;\n6. ses diplômes ;\n7. son expérience professionnelle ;\n8. ses connaissances en langues parlées et écrites ;\n9. ses expériences dans les services de secours. Les informations fournies doivent être complètes et véritables ;\n2. une copie de sa carte d’identité ;\n3. une copie des diplômes obtenus et, s’il y a lieu, une copie de la décision de reconnaissance de leur équivalence ;\n4. s’il y a lieu, une copie de la décision d’inscription au registre des titres ;\n5. une copie du permis de conduire de la catégorie B en cours de validité ;\n6. une attestation médicale indiquant que le candidat satisfait aux conditions d’aptitude physique pour participer à l’épreuve sportive. Le certificat médical, datant de moins de deux mois, est établi par un médecin au choix du candidat ;\n7. une déclaration certifiée sincère renseignant sur d’éventuelles modifications corporelles.\n\n**(3)** Le candidat n’est admis à participer à l’épreuve spéciale que s’il a fourni toutes les pièces visées au paragraphe 2 dans les délais impartis.\n\nPour des raisons dûment motivées par le candidat, le directeur général du CGDIS peut l’autoriser à fournir une ou plusieurs pièces au moment de l’admission au stage.\n\n**(4)** Le candidat qui a sciemment fait une fausse déclaration ou présenté de faux documents à l'appui de sa demande d'inscription n’est pas admis à se présenter à l’épreuve spéciale.\n\nSans préjudice des dispositions de l’article 2, paragraphe 1er, alinéa 4, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, la participation à l'épreuve spéciale est également refusée au candidat qui a été exclu des rangs des pompiers volontaires du CGDIS suite à une procédure disciplinaire.",
+      "text_sha256": "4e27e4417a1852f8a660a4673e30fa0b8f81a6427063bed74247829dcbf1729e",
+      "md_span": {
+        "start": 1963,
+        "end": 4188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_4/20210711",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "**(1)** L’épreuve spéciale et les épreuves visées aux articles 16, 17 et 19 ont lieu devant une commission d’examen, ci-après dénommée « commission », qui se compose d'un président, de deux autres membres au moins et d'un secrétaire, nommés par le conseil d’administration du CGDIS. La commission peut être complétée par des experts.\n\nAucun parent ou allié d’un candidat jusqu’au quatrième degré inclus, ni son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ne peut siéger comme président, membre, secrétaire ou expert à une commission.\n\n**(2)** La commission désigne au moins deux membres pour chaque épreuve et examen, chaque membre ne pouvant être chargé que de la responsabilité d’une épreuve.",
+      "text_sha256": "9a0314d812e6cb6711dcac2c7d50060c76407cce8897e67edec440bd52e743bb",
+      "md_span": {
+        "start": 4223,
+        "end": 4981
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_5/20210711",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Pour chaque commission, le conseil d’administration du CGDIS nomme, sur proposition de la Chambre des fonctionnaires et employés publics, un observateur.\n\nL’observateur participe aux travaux de la commission avec voix consultative. Il est convoqué aux réunions et séances de la commission dans les mêmes formes et dans les mêmes délais que les autres membres de la commission.",
+      "text_sha256": "48c500d002a3b8842559d10ca02b732c1a79df953feb1df3cd1925f4192a1421",
+      "md_span": {
+        "start": 5016,
+        "end": 5392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_6/20210711",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Les décisions de la commission sont valablement prises et ses actes régulièrement posés même si l’observateur dûment convoqué n’a pas pris part aux délibérations, pour quelque motif que ce soit.\n\nL’observateur doit obtenir la parole s’il le demande pour présenter des remarques en relation avec l’organisation des épreuves et examens. Toutefois, il ne peut s’immiscer dans le choix des épreuves et examens, ni dans leur contenu, ni dans la pondération des points à attribuer, ni dans l’appréciation des résultats obtenus par les candidats.\n\nPendant les épreuves et examens, l’observateur ne peut communiquer avec les candidats. Lors des interruptions qui séparent les différents épreuves et examens, l’observateur peut recueillir les remarques et les doléances éventuelles des candidats. Au cas où l’observateur croit avoir constaté une insuffisance ou une irrégularité dans l’organisation matérielle de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19, il doit en informer le président de la commission, en lui parlant seul à seul.\n\nL’observateur a le droit de faire acter au procès-verbal de la commission ses remarques relatives à l’organisation et au déroulement de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19. S’il ne présente pas de remarques particulières, le procès-verbal en fait mention.\n\nL’observateur peut également informer directement le président du conseil d’administration par une note écrite s’il a constaté un fait grave mettant en cause la validité de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19.",
+      "text_sha256": "e69005db826734d8657d76a610bf054cec30e7ece557323358aab8fc9bb53ef5",
+      "md_span": {
+        "start": 5427,
+        "end": 7010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_7/20210711",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "La fixation des dates et délais en rapport avec l’organisation pratique de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19 relève de la compétence du président qui peut réunir au préalable la commission pour régler en détail l'organisation des épreuves.\n\nLe président est tenu de réunir la commission au préalable :\n\n1. si un membre au moins de la commission ou l’observateur en fait la demande ;\n2. en cas de changements dans la composition de la commission ou des modalités d’organisation de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19.\n\nSi la commission n’est pas convoquée au préalable, les membres de la commission et l’observateur sont informés par le président des modalités pratiques relatives à l’épreuve spéciale et aux épreuves visées aux articles 16, 17 et 19.",
+      "text_sha256": "b35808e279a8303dc2579237900307ab0cad22b487732991a7d9405cda6447cd",
+      "md_span": {
+        "start": 7045,
+        "end": 7861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_8/20210711",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 1re ** — **Généralités **"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "**(1)** Le président arrête les mesures utiles pour garder l’anonymat des candidats et assurer le secret des épreuves et examens et des délibérations.\n\n**(2)** Le contenu des épreuves et examens est déterminé par le président en concertation avec les membres de la commission.\n\n**(3)** Il peut être procédé à un contrôle d’identité des candidats avant le début des épreuves et examens.\n\n**(4)** La commission veille à organiser la surveillance appropriée des candidats pendant les épreuves et examens.\n\n**(5)** Au cours des épreuves et examens, toute communication entre les candidats et avec l’extérieur, de même que toute utilisation d’outils électroniques, d’ouvrages ou de notes autres que ceux qui ont été autorisés préalablement par le président sont interdites. Le candidat ne peut porter sur soi aucun moyen permettant le stockage ou la transmission de données. Le candidat fautif est exclu de l’épreuve spéciale ou des épreuves visées aux articles 16, 17 et 19. Cette exclusion équivaut à un échec. Dès l’ouverture de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19, le candidat est prévenu des suites que toute fraude comportera.\n\n**(6)** La commission prend ses décisions à la majorité des voix, l’abstention n’étant pas permise. En cas de partage des voix, celle du président est prépondérante.\n\n**(7)** Les membres de la commission ainsi que l’observateur sont obligés de garder le secret des délibérations.\n\n**(8)** Un procès-verbal qui renseigne les résultats des candidats et les décisions de la commission est dressé et signé par au moins la moitié des membres présents de la commission.\n\n**(9)** Le président informe les candidats des résultats obtenus.",
+      "text_sha256": "2229676abef6b5afd95f7bac7856bc1a43b6ed27ecc464e410d9df03e2ceabdf",
+      "md_span": {
+        "start": 7896,
+        "end": 9587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_9/20220519",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 2 ** — ** Catégorie de traitement A**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "L’épreuve spéciale pour l’admission au stage de la catégorie de traitement A comporte :\n\n1. 1. 1. soit C1, si le niveau B2 du test de langue allemande est atteint ;\n2. soit B2, si le niveau C1 du test de langue allemande est atteint.\n2. 1. soit C1, si le niveau B2 du test de langue française est atteint ;\n2. soit B2, si le niveau C1 du test de langue française est atteint.\n3. test de langue anglaise, dont le niveau minimal à obtenir est B1. L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.\n2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;\n3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;\n4. en langue luxembourgeoise\n\nL’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.",
+      "text_sha256": "375b9e55aecd631664276cd3c0454e44544eabc60072152d7afa7a9202b1b1f7",
+      "md_span": {
+        "start": 9675,
+        "end": 10800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_10/20220519",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 3** — **Groupe de traitement B1**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "L’épreuve spéciale pour l’admission au stage du groupe de traitement B1 comporte :\n\n1. 1. test de langue française, dont le niveau minimal à obtenir est B2 ;\n2. test de langue allemande, dont le niveau minimal à obtenir est B2 ;\n3. test de langue anglaise, dont le niveau minimal à obtenir est A2. L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.\n2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;\n3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;\n4. en langue luxembourgeoise\n\nL’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.",
+      "text_sha256": "fe8874f3caf64d62dc1c0efc6e59b4a5cded0cb4a967219a7ec91870f0d57413",
+      "md_span": {
+        "start": 10886,
+        "end": 11864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_11/20220519",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Conditions de recrutement **",
+        "**Section 4** — ** Groupe de traitement C1**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "L’épreuve spéciale pour l’admission au stage du groupe de de traitement C1 comporte :\n\n1. un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : 1. test de langue française, dont le niveau minimal à obtenir est A2 ;\n2. test de langue allemande, dont le niveau minimal à obtenir est B2 ;\n3. test de langue anglaise, dont le niveau minimal à obtenir est A1. L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.\n2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;\n3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;\n4. en langue luxembourgeoise\n\nL’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.",
+      "text_sha256": "43fbc14a9789e5125657e12c8ec2d54528b5a78e1127df336534690a675d0942",
+      "md_span": {
+        "start": 11951,
+        "end": 13048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_12/20210711",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 1re ** — ** Généralités**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Avant l’admission au stage, tout candidat doit remplir les conditions suivantes :\n\n1. fournir un extrait du casier judiciaire datant de moins de deux mois ;\n2. être titulaire du permis de conduire de la catégorie B en cours de validité ;\n3. règlement grand-ducal du 27 juin 2018",
+      "text_sha256": "c752d631499959b9038e51a4fce00d37076733a4c7d4282e141599660d77a192",
+      "md_span": {
+        "start": 13173,
+        "end": 13451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_13/20210711",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 1re ** — ** Généralités**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Le candidat ayant réussi à l’épreuve spéciale est admis au stage dans l’ordre de son classement et dans la limite du nombre de postes vacants.\n\nLes candidats qui ne se sont pas classés en rang utile, mais qui ont réussi à l’épreuve spéciale seront inscrits sur une liste de réserve. En cas de désistement d’un candidat, la liste des candidats classés en rang utile est modifiée en conséquence.\n\nLe candidat auquel une admission au stage n’a pas encore été proposée par le conseil d’administration, reste admissible au stage pendant une durée de vingt-quatre mois à partir de la date de l’arrêt des résultats par la commission.",
+      "text_sha256": "6baf0f0b9eb86f449fde883fec2759dc0bfa770949e971fa7056323125f80e2b",
+      "md_span": {
+        "start": 13488,
+        "end": 14114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_14/20210711",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 1re ** — ** Généralités**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Le stage a pour objectif de développer les compétences professionnelles, organisationnelles, techniques et sociales du stagiaire dans le cadre de ses fonctions de pompier professionnel.",
+      "text_sha256": "f9dfaab3b51f5f656c46686916952f248a144edb74ec4418bd269fbc43dac584",
+      "md_span": {
+        "start": 14151,
+        "end": 14336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_15/20210711",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 1re ** — ** Généralités**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "S’il n’en est pas titulaire au moment de son admission au stage, tout stagiaire doit suivre et réussir la formation théorique et pratique en vue de l’obtention d’un permis de conduire de la catégorie C au cours de son stage, sous peine de résiliation du stage sur décision du conseil d’administration du CGDIS.",
+      "text_sha256": "bdd7bf17927e1fd72121574a65cdbf8c9da8b9e9b064cc74381b8a855ef93dcf",
+      "md_span": {
+        "start": 14373,
+        "end": 14683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_16/20220519",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 2 ** — **Formation professionnelle des stagiaires pour les groupes de traitement B1 et C1**",
+        "**Sous-section 1re ** — **Phase de formation théorique et pratique **"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "**(1)** La période de stage comprend une formation professionnelle de base de deux ans qui est divisée en une phase de formation théorique et pratique et une phase d’initiation et de perfectionnement.\n\n**(2)** La phase de formation théorique et pratique est organisée par l’Institut national de formation des secours, ci-après dénommé « INFS », pendant la première année de stage. Elle consiste en des épreuves qui ont lieu en cours de formation et une épreuve qui a lieu à la fin de formation.\n\nLe volet pratique consiste en des périodes d’observation qui ont lieu dans les différentes unités des services de secours et hospitaliers au Grand-Duché de Luxembourg ou à l’étranger.\n\nLe programme de la phase de formation théorique et pratique des stagiaires est fixé à un minimum de 1600 heures et constitué des modules suivants :\n\n|  | **Modules** |\n| --- | --- |\n| 1° | Initiation incendie et sauvetage & secours à personnes théorie |\n| 2° | Initiation incendie et sauvetage & secours à personnes pratique |\n| 3° | Incendie et sauvetage théorie |\n| 4° | Secours à personnes théorie |\n| 5° | Pratique des techniques d’incendie et appareil respiratoire isolant |\n| 6° | Pratique des techniques de sauvetage |\n| 7° | Pratique de la réanimation cardio-pulmonaire |\n| 8° | Pratique des techniques du secours à personnes |\n| 9° | Épreuve sportive suivant les annexes II et III |\n\nLes modules visés aux points 1° et 2° sont sanctionnés par des épreuves qui ont lieu au cours de la formation.\n\nLes modules visés aux points 3° à 9° sont sanctionnés respectivement par une épreuve à la fin de la formation.\n\n**(3)** Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 8° à 60 points et pour le module visé au point 9° à 120 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à la moitié du maximum des points pouvant être obtenus. Une note décimale est arrondie à l’unité supérieure.\n\n**(4)** A réussi à la phase de formation théorique et pratique le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note suffisante dans chacun des modules.\n\n**(5)** A échoué à la phase de formation théorique et pratique le stagiaire qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans les modules ou qui a obtenu une note insuffisante dans plus de deux modules.\n\n**(6)** Est ajourné le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note insuffisante dans un ou deux modules. Sous peine d’échec, le stagiaire doit se soumettre dans un délai de deux mois à partir de la notification des résultats à une épreuve d’ajournement dans les modules dans lesquels il a obtenu une note insuffisante.\n\nA échoué à la phase de formation théorique et pratique le stagiaire qui n’a pas obtenu une note suffisante dans les modules dans lesquels il a été ajourné.\n\n**(7)** En cas d’échec à la phase de formation théorique et pratique, le stagiaire peut se présenter une seconde fois aux épreuves de cette phase. Dans ce cas le stage est prolongé pour une durée de six mois.\n\n**(8)** Lorsque le stagiaire ne souhaite pas se présenter une seconde fois aux épreuves de la phase de formation théorique et pratique ou lorsqu’il y échoue une deuxième fois, le stage est résilié sur décision du conseil d’administration du CGDIS.\n\n**(9)** En cas d’absence lors d’une épreuve de la phase de formation théorique et pratique, le stagiaire est tenu de transmettre à l’INFS, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le stagiaire sera inscrit à la prochaine épreuve.\n\nÀ défaut de certificat présenté dans le délai imparti, le stagiaire obtient d’office 1 point pour l’épreuve concernée.",
+      "text_sha256": "205c034b629a29fe65c8d4d24430867b317638ac7385e8972e809ab92248bb57",
+      "md_span": {
+        "start": 14903,
+        "end": 18721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_17/20220519",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 2 ** — **Formation professionnelle des stagiaires pour les groupes de traitement B1 et C1**",
+        "**Sous-section 2 ** — **Phase** **d’initiation et de perfectionnement**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "**(1)** La phase d’initiation et de perfectionnement a lieu au sein de l’INFS et des différents centres d’incendies et de secours et est constitué des modules suivants :\n\n1. un stage de minimum 720 heures dans le domaine du secours à personnes ;\n2. un stage de minimum 560 heures dans le domaine de l’incendie et sauvetage ;\n3. une formation de perfectionnement, organisée par l’INFS, d’une durée minimale de 320 heures.\n\nLa phase d’initiation et de perfectionnement consiste en des épreuves qui ont lieu en cours de formation.\n\n**(2)** Le programme de la phase d’initiation et de perfectionnement des fonctionnaires stagiaires est fixé à un minimum de 1600 heures et constitué des modules suivants :\n\n|  | **Modules** |\n| --- | --- |\n| 1° | Évaluation du stage de perfectionnement secours à personnes |\n| 2° | Évaluation du stage de perfectionnement incendie et sauvetage |\n| 3° | Mise en situation pratique secours à personnes |\n| 4° | Mise en situation pratique incendie et sauvetage |\n| 5° | Perfectionnement secours à personnes & incendie et sauvetage théorie |\n| 6° | Épreuve sportive suivant les annexes II et III |\n| 7° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |\n\nLes modules visés aux points 1° à 4° sont sanctionnés par des épreuves qui ont lieu au cours de la formation ou de la phase d’initiation.\n\nLes modules visés aux points 5° à 7° sont sanctionnés respectivement par une épreuve à la fin de la formation.\n\n**(3)** Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 5° et 7° à 60 points et pour le module visé au point 6° à 120 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à la moitié du maximum des points pouvant être obtenus. Une note décimale est arrondie à l’unité supérieure.\n\n**(4)** A réussi à la phase d’initiation et de perfectionnement le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note suffisante dans chacun des modules.\n\n**(5)** A échoué à la phase d’initiation et de perfectionnement le stagiaire qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans les modules ou qui a obtenu une note insuffisante dans plus de deux modules.\n\n**(6)** Est ajourné le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note insuffisante dans un ou deux modules. Sous peine d’échec, le stagiaire doit se soumettre dans un délai de deux mois à partir de la notification des résultats à une épreuve d’ajournement dans les modules dans lesquels il a obtenu une note insuffisante.\n\nA échoué à la phase d’initiation et de perfectionnement le stagiaire qui n’a pas obtenu une note suffisante dans les modules dans lesquels il a été ajourné.\n\n**(7)** En cas d’échec à la phase d’initiation et de perfectionnement, le stagiaire peut se présenter une seconde fois aux épreuves de cette phase. Dans ce cas le stage est prolongé pour une durée de six mois.\n\n**(8)** Lorsque le stagiaire ne souhaite pas se présenter une seconde fois aux épreuves de la phase d’initiation et de perfectionnement ou lorsqu’il y échoue une deuxième fois, le stage est résilié sur décision du conseil d’administration du CGDIS.\n\n**(9)** En cas d’absence lors d’une épreuve de la phase d’initiation et de perfectionnement, le stagiaire est tenu de transmettre à l’INFS, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le stagiaire sera inscrit à la prochaine épreuve. À défaut de certificat présenté dans le délai imparti, le stagiaire obtient d’office 1 point pour l’épreuve concernée.",
+      "text_sha256": "9061834b8bc400629483e9545fa573911ff2cfc6a2031d2c593d363a35908019",
+      "md_span": {
+        "start": 18836,
+        "end": 22564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_18/20220519",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 2 ** — **Formation professionnelle des stagiaires pour les groupes de traitement B1 et C1**",
+        "**Sous-section 3 ** — ** Admission définitive**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "Les stagiaires sont classés en fonction des points obtenus aux différentes épreuves de chaque phase de leur formation professionnelle, dont les points pouvant être obtenus sont les suivants :\n\n| 1° | Phase de formation théorique et pratique | 600 points maximum ; |\n| --- | --- | --- |\n| 2° | Phase d’initiation et de perfectionnement | 480 points maximum. |",
+      "text_sha256": "de80c1cbbf1141ebf9250920115115ec875ffc6c9352ddb578d2622ae0f2fe43",
+      "md_span": {
+        "start": 22655,
+        "end": 23013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_19/20220519",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Conditions de stage**",
+        "**Section 3 ** — **Formation professionnelle des stagiaires pour la catégorie de traitement A **"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "**(1)** La période de stage comprend une formation professionnelle de base de deux ans.\n\nLe programme de la formation professionnelle est fixée à un minimum de 3200 heures et constitué des modules suivants :\n\n|  | **Modules** |\n| --- | --- |\n| 1° | Compréhension secours à personnes théorie |\n| 2° | Compréhension incendie et sauvetage & Appareil respiratoire isolant théorie |\n| 3° | Pratique de la réanimation cardio-pulmonaire |\n| 4° | Commandement théorie |\n| 5° | Commandement pratique |\n| 6° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |\n| 7° | Volet managérial |\n| 8° | Épreuve sportive suivant les annexes I et III |\n| 9° | Travail de fin de formation / mémoire |\n\n**(2)** Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 7° à 60 points et pour les modules visés aux points 8° et 9° à 120 points. Le maximum des points pouvant être obtenus s’élève à 660 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à la moitié des points pouvant être obtenus. Une note décimale est arrondie à l’unité supérieure.\n\nLes modules sont sanctionnés respectivement par une épreuve à la fin de la formation.\n\n**(3)** A réussi le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note suffisante dans chacun des modules.\n\n**(4)** A échoué le stagiaire qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans les modules ou qui a obtenu une note insuffisante dans plus d’un module.\n\n**(5)** Est ajourné le stagiaire qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus et une note insuffisante dans un module. Sous peine d’échec, le stagiaire doit se soumettre dans un délai de deux mois à partir de la notification des résultats à une épreuve d’ajournement dans le module dans lequel il a obtenu une note insuffisante.\n\nA échoué le stagiaire qui n’a pas obtenu une note suffisante dans les modules dans lesquels il a été ajourné.\n\n**(6)** En cas d’échec, le stagiaire peut se présenter une seconde fois aux épreuves. Dans ce cas le stage est prolongé pour une durée de six mois.\n\n**(7)** Lorsque le stagiaire ne souhaite pas se présenter une seconde fois aux épreuves lorsqu’il y échoue une deuxième fois, le stage est résilié sur décision du conseil d’administration du CGDIS.\n\n**(8)** En cas d’absence lors d’une épreuve, le stagiaire est tenu de transmettre à l’INFS, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le stagiaire sera inscrit à la prochaine épreuve.\n\nÀ défaut de certificat présenté dans le délai imparti, le stagiaire obtient d’office 1 point pour l’épreuve concernée.",
+      "text_sha256": "50f48d9ff998c11748a6f44395bdafbd74fdc679fe846882585b8197ce629744",
+      "md_span": {
+        "start": 23152,
+        "end": 25955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_20/20210711",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Nomination**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Le conseil d’administration du CGDIS nomme les stagiaires ayant réussi la formation professionnelle pendant le stage, visée aux articles 16 à 19, au grade et échelon définis aux articles 51 à 53 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile.",
+      "text_sha256": "7eb020a083f55b286026aef732efdc6bb6b0388c021e100bcdca7809c8018867",
+      "md_span": {
+        "start": 26029,
+        "end": 26302
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_21/20210711",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Nomination**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Sur base des articles 51 à 53 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile et sous condition de répondre aux critères de qualification et du profil de l’emploi concerné, le conseil d’administration du CGDIS nomme les pompiers professionnels aux emplois prévus à l’article 90 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile.\n\nCette nomination confère au pompier professionnel un grade fonctionnel.",
+      "text_sha256": "c51d574a966db1c0a0fccdbb84b8a348a0f8b76a86f3e2b1021dd43c3a50ab6f",
+      "md_span": {
+        "start": 26339,
+        "end": 26798
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_22/20210711",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Au règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État, l’article 5*bis*, paragraphe 2, est complété par un nouvel alinéa qui prend la teneur suivante :« Par dérogation aux alinéas 1er à 6, l’épreuve spéciale en vue de l’admission au stage des pompiers professionnels dans les catégories énumérées à l’article 1er, lettres a) à c) est organisée conformément aux dispositions du règlement grand-ducal du 30 juin 2021 fixant les conditions de recrutement des pompiers professionnels. ».",
+      "text_sha256": "23a2820f350d655bec20b8773e56d3f85df9fda59c850f1f22b25ea553be847f",
+      "md_span": {
+        "start": 26920,
+        "end": 27559
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2015/09/30/n3/jo",
+          "text": "règlement grand-ducal modifié du 30 septembre 2015"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2021/06/30/a508/jo",
+          "text": "règlement grand-ducal du 30 juin 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_23/20210711",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Le règlement grand-ducal du 15 juin 2018 fixant les conditions de recrutement, de formation et de nomination aux emplois des pompiers professionnels est abrogé.",
+      "text_sha256": "2e8d66602729f4270e4f9e5a1c4e06d20a26bb4b9d3b3ac301de1b4142d487ca",
+      "md_span": {
+        "start": 27596,
+        "end": 27756
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/06/15/a535/jo",
+          "text": "règlement grand-ducal du 15 juin 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_24/20210711",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Les agents, tels que définis à l’article 32 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, qui ont été repris par le CGDIS dès l’entrée en vigueur de ladite loi et qui sont susceptibles de bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement de la carrière du pompier professionnel tels que définis aux articles 51 à 53 de la même loi, doivent remplir les conditions suivantes :\n\n1. loi modifiée du 27 mars 2018 règlement grand-ducal modifié du 30 septembre 2015\n2. être titulaire d’un permis de conduire de la catégorie C en cours de validité.\n\nOutre les conditions précitées :\n\n1. les agents susceptibles de bénéficier d’une nomination dans le cadre de base doivent avoir atteint un niveau de formation leur permettant d’occuper à la fois la fonction de chef de binôme en matière de secours à personne et la fonction de chef de binôme en matière d’incendie et de sauvetage, ou une fonction équivalente ;\n2. les agents susceptibles de bénéficier d’une nomination dans les cadres moyen et supérieur doivent avoir atteint un niveau de formation leur permettant d’occuper la fonction de chef de peloton ou une fonction équivalente.",
+      "text_sha256": "19079865cf45e6c16d4558f7ef9ca2d0a50e14d8b1a1f23ec35e21fc6cb1b80b",
+      "md_span": {
+        "start": 27793,
+        "end": 28979
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "ladite loi"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25_20220519",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_25_20220519",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_25/20220519",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2022-05-19",
+      "text_md": "Les agents qui se trouvent en période de stage au moment de l’entrée en vigueur de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, doivent terminer leur stage avant de pouvoir bénéficier d’une nomination dans la carrière du pompier professionnel.",
+      "text_sha256": "691208a1a2132a39f464b9cee468ef0ef1172f937b158d32e37f7df99d1caa0e",
+      "md_span": {
+        "start": 29025,
+        "end": 29299
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_26/20210711",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Les agents visés à l’article 32 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile et bénéficiant d’une nomination dans un des groupes ou sous-groupes de traitement prévus aux articles 51 à 53 de cette même loi, sont classés conformément aux dispositions suivantes :\n\n1. 1. loi modifiée du 25 mars 2015\n2. loi modifiée du 25 mars 2015 Toutefois, le fonctionnaire a droit, dans son nouveau grade, au même numéro d’échelon, diminué d’un échelon, lorsque son classement se fait dans un grade supérieur à celui atteint la veille de sa nomination, à défaut d’un tel échelon, le fonctionnaire est classé au dernier échelon du grade, le cas échéant allongé, auquel il a été classé. Lorsque le dernier avancement en grade avant le reclassement du fonctionnaire communal visé par le présent article a eu pour effet de le classer dans un grade qui, dans le tableau indiciaire, n’est pas immédiatement supérieur à son grade précédent, le reclassement est effectué d’après les modalités suivantes : 1. le dernier avancement en grade obtenu avant le reclassement est rapporté en partant des grade et échelon atteints la veille de ce reclassement ;\n2. à partir des grade et échelon ainsi obtenus, le reclassement est effectué au grade atteint la veille du reclassement et calculé d’après les modalités prévues au point 1°, lettre b), alinéa 2 ;\n3. il est ajouté un avancement en grade avec effet au jour du reclassement. Le point 1°, lettre b), alinéa 3 ne s’applique pas lorsqu’un reclassement sur base du point 1°, lettre b), alinéa 2 donnerait un résultat plus favorable pour le fonctionnaire concerné.\n2. loi modifiée du 25 mars 2015",
+      "text_sha256": "e4abd258bcb44bec2ac3aec6b4400c97288e1c32ee48ffe75c4731145f564d2f",
+      "md_span": {
+        "start": 29336,
+        "end": 30986
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_27/20210711",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions modificative****, abrogatoire et transitoires**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Les agents visés à l’article 32, paragraphes 1 à 5 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, qui désirent bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement prévus aux articles 51 à 53 de la même loi, adressent leur demande y afférente au conseil d’administration du CGDIS.",
+      "text_sha256": "2771ae0f459ac927254f0a09fe9893e4125c84674dd3a93c8cf77221e73282c6",
+      "md_span": {
+        "start": 31023,
+        "end": 31360
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi modifiée du 27 mars 2018"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_28/20210711",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — ** Dispositions finales**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 30 juin 2021 fixant les conditions de recrutement, de formation et de nomination aux emplois des pompiers professionnels ».",
+      "text_sha256": "ab09ec2a873a05f48ae80deeb1d15532ff984c6d70bdc46a552cb298249c6ecf",
+      "md_span": {
+        "start": 31445,
+        "end": 31662
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2021/06/30/a508/jo",
+          "text": "règlement grand-ducal du 30 juin 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/art_29/20210711",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — ** Dispositions finales**"
+      ],
+      "article_valid_from": "2021-07-11",
+      "text_md": "Notre ministre ayant la Sécurité civile dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "14be74d3a015c51c4cd62b0c93a38d0f35663dad1e408bb34460bcf332f7a9bb",
+      "md_span": {
+        "start": 31699,
+        "end": 31873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I – Répartition des points pour l’examen sportif et l’épreuve sportive",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. pour l’épreuve spéciale pour l’admission au stage de la catégorie de traitement A et des groupes de traitement B1 et C1 ;\n2. pour l’examen de fin de stage pour la catégorie de traitement A\n\n| Discipline vertige* | Discipline cardio* | Discipline natation* | Discipline endurance* | Discipline parcours | Discipline endurance de force* |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Monter une auto-échelle pompiers d’une hauteur de 30 m(Eliminatoire* si le candidat ne monte pas l’échelle entière en 90’’ ou moins) | Monter des escaliers en tenue des pompiers professionnels**(138 marches qui est équivalent à 7,5 étages)(Eliminatoire* > 1’00’’ = 0 point) | Monter des escaliers en tenue des pompiers professionnels**(138 marches qui est équivalent à 7,5 étages)(Eliminatoire* > 1’19’’ = 0 point) | 200m natation style brasse(Eliminatoire*> 5’40’’ = 0 point et si le candidat ne saute pas du bloc de départ) | Plonger 15m(Eliminatoire* si le candidat ne finit pas les 15m ou si le candidat revient à la surface pour prendre de l’air endéans les 15m) | 2400m course à pied(Eliminatoire*> 13’00’’ = 0 point) | 2400m course à pied(Eliminatoire*> 14’00’’ = 0 point) | Parcours d’adresse en tenue des pompiers professionnels** (Eliminatoire* si le candidat ne finit pas le parcours complet)(si le candidat fait tomber un plot du slalom il faut recommencer le slalom) | Rester statique en position de planche(Eliminatoire* < 1’47’’ = 0 point) |  |\n| Masculin/Féminin≤ 90’’ : 10 points> 90’’ : 0 point | Masculin≤ 48’’ : 20 points≤ 49’’ : 19 points≤ 50’’ : 18 points≤ 51’’ : 17 points≤ 52’’ : 16 points≤ 53’’ : 15 points≤ 54’’ : 14 points≤ 55’’ : 13 points≤ 56’’ : 12 points≤ 57’’ : 11 points≤ 58’’ : 10 points≤ 59’’ : 9 points ≤ 1’00’’ : 8 points> 1’00’’ : 0 point | Féminin≤ 1’07’’: 20 points≤ 1’08’’ : 19 points≤ 1’09’’ : 18 points≤ 1’10’’ : 17 points≤ 1’11’’ : 16 points≤ 1’12’’ : 15 points≤ 1’13’’ : 14 points≤ 1’14’’ : 13 points≤ 1’15’’ : 12 points≤ 1’16’’ : 11 points≤ 1’17’’ : 10 points≤ 1’18’’ : 9 points ≤ 1’19’’ : 8 points> 1’19’’ : 0 point | Masculin/Féminin≤ 4’40\" : 20 points≤ 4’45\" : 19 points≤ 4’50\" : 18 points≤ 4’55\" : 17 points≤ 5’00\" : 16 points≤ 5’05\" : 15 points≤ 5’10\" : 14 points≤ 5’15\" : 13 points≤ 5’20\" : 12 points≤ 5’25\" : 11 points≤ 5’30\" : 10 points ≤ 5’35\" : 9 points≤ 5’40\" : 8 points> 5’40\" : 0 point | Masculin/FémininRéussite : 10 points | Masculin≤ 10’45\" : 20 points≤ 10’50\" : 19 points≤ 10’55\" : 18 points≤ 11’00\" : 17 points≤ 11’15\" : 16 points≤ 11’30\" : 15 points≤ 11’45\" : 14 points≤ 12’00\" : 13 points≤ 12’15\" : 12 points≤ 12’30\" : 10 points≤ 12’45\" : 9 points≤ 13’00\" : 8 points> 13’00\" : 0 point | Féminin≤ 11’45\" : 20 points≤ 11’50\" : 19 points≤ 11’55\" : 18 points≤ 12’00\" : 17 points≤ 12’15\" : 16 points≤ 12’30\" : 15 points≤ 12’45\" : 14 points≤ 13’00\" : 13 points≤ 13’15\" : 12 points≤ 13’30\" : 10 points≤ 13’45\" : 9 points≤ 14’00\" : 8 points> 14’00\" : 0 point | Masculin≤ 50\" : 20 points≤ 51\" : 19 points≤ 52\" : 18 points≤ 53\" : 17 points≤ 54\" : 16 points≤ 55\" : 15 points≤ 56\" : 14 points≤ 57\" : 13 points≤ 58\" : 12 points≤ 59\" : 11 points≤ 1’00’’ : 10 points≤ 1’15\" : 9 points≤ 1’20\" : 8 points≤ 1’25\" : 7 points≤ 1’30\" : 6 points≤ 1’35\" : 5 points≤ 1’40\" : 4 points≤ 1’45\" : 3 points≤ 1’50\" : 2 points≤ 1’55\" : 1 point> 1’55\" : 0 point | Féminin≤ 1’00’’: 20 points≤ 1’01\" : 19 points≤ 1’02\" : 18 points≤ 1’03\" : 17 points≤ 1’04\" : 16 points≤ 1’05\" : 15 points≤ 1’06\" : 14 points≤ 1’07\" : 13 points≤ 1’08\" : 12 points≤ 1’09\" : 11 points≤ 1’10\" : 10 points≤ 1’25\" : 9 points≤ 1’30\" : 8 points≤ 1’35\" : 7 points≤ 1’40\" : 6 points≤ 1’45\" : 5 points≤ 1’50\" : 4 points≤ 1’55\" : 3 points≤ 2’00\" : 2 points≤ 2’05\" : 1 point> 2’05\" : 0 point | Masculin/Féminin≥ 3’00\" : 20 points≥ 2’55\" : 19 points≥ 2’50\" : 18 points≥ 2’45\" : 17 points≥ 2’40\" : 16 points≥ 2’35\" : 15 points≥ 2’30\" : 14 points≥ 2’10\" : 13 points≥ 2’00\" : 12 points≥ 1’55\" : 11 points≥ 1’50\" : 10 points≥ 1’48\" : 9 points≥ 1’47\" : 8 points< 1’47\" : 0 point |\n\n**Note finale maximale : 120 points (100 %). Note finale minimale requise : 60 points (50 %). Échec à l’examen sportif / épreuve sportive si la note finale est inférieure à 60 points (<50 %) ou en cas d’élimination dans une ou plusieurs disciplines désignées par « éliminatoire* ».**\n\n*** Disciplines cardio, natation, endurance et endurance de force : au moins 8 points sont nécessaires pour réussir, donc < 8 points entraînent l’élimination du test et l’échec à l’examen sportif / épreuve sportive. La discipline vertige entraîne également l’élimination du test et l’échec à l’examen sportif / épreuve sportive lorsque le candidat ne réussit pas endéans le temps donné. **\n\n** Les équipements seront fournis sur place par le CGDIS (veste Nomex, pantalon Nomex, gants Nomex, casque de pompier, appareil respiratoire isolant avec une bouteille de 6l d’air comprimé)",
+      "text_sha256": "d3956b91136d580a3699f3b651049564b1497078961128ff6c0a1b186d887ffc",
+      "md_span": {
+        "start": 31985,
+        "end": 36843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II – Répartition des points pour l’examen sportif et l’épreuve sportive de fin de stage et intermédiaire pour les groupes de traitement B1 et C1",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Discipline cardio* | Discipline endurance* | Discipline parcours | Discipline endurance de force* |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Monter des escaliers en tenue des pompiers professionnels**(138 marches qui est équivalent à 7,5 étages)(Eliminatoire* > 55’’ = 0 point) | Monter des escaliers en tenue des pompiers professionnels**(138 marches qui est équivalent à 7,5 étages)(Eliminatoire* > 1’14’’ = 0 point) | 5000m course à pied(Eliminatoire*> 25’30’’ = 0 point) | 5000m course à pied(Eliminatoire*> 27’30’’ = 0 point) | Parcours d’adresse en tenue des pompiers professionnels** (Eliminatoire* si le candidat ne finit pas le parcours complet)(si le candidat fait tomber un plot du slalom il faut recommencer le slalom) | Rester statique en position de planche(Eliminatoire* < 2’00’’ = 0 point) |  |\n| Masculin≤ 43’’ : 30 points≤ 44’’ : 29 points≤ 45’’ : 28 points≤ 46’’ : 27 points≤ 47’’ : 26 points≤ 48’’ : 25 points≤ 49’’ : 24 points≤ 50’’ : 22 points≤ 51’’ : 20 points≤ 52’’ : 15 points≤ 53’’ : 10 points≤ 54’’ : 9 points ≤ 55’’ : 8 points> 55’’ : 0 point | Féminin≤ 1’02’’: 30 points≤ 1’03’’ : 29 points≤ 1’04’’ : 28 points≤ 1’05’’ : 27 points≤ 1’06’’ : 26 points≤ 1’07’’ : 25 points≤ 1’08’’ : 24 points≤ 1’09’’ : 22 points≤ 1’10’’ : 20 points≤ 1’11’’ : 15 points≤ 1’12’’ : 10 points≤ 1’13’’ : 9 points ≤ 1’14’’ : 8 points> 1’14’’ : 0 point | Masculin≤ 23’00\" : 30 points≤ 23’15\" : 29 points≤ 23’30\" : 28 points≤ 23’45\" : 27 points≤ 24’00\" : 26 points≤ 24’15\" : 25 points≤ 24’30\" : 20 points≤ 24’45\" : 15 points≤ 25’00\" : 10 points≤ 25’15\" : 9 points≤ 25’30\" : 8 points> 25’30\" : 0 point | Féminin≤ 24’30\" : 30 points≤ 24’45\" : 29 points≤ 25’00\" : 28 points≤ 25’15\" : 27 points≤ 25’30\" : 26 points≤ 25’45\" : 25 points≤ 26’00\" : 20 points≤ 26’15\" : 15 points≤ 26’30\" : 10 points≤ 27’00\" : 9 points≤ 27’30\" : 8 points >27’30\" : 0 point | Masculin≤ 50\" : 30 points≤ 51\" : 29 points≤ 52\" : 28 points≤ 53\" : 27 points≤ 54\" : 26 points≤ 55\" : 25 points≤ 56\" : 24 points≤ 57\" : 23 points≤ 58\" : 22 points≤ 59\" : 21 points≤ 1’00’’ : 20 points≤ 1’15\" : 18 points≤ 1’20\" : 16 points≤ 1’25\" : 14 points≤ 1’30\" : 12 points≤ 1’35\" : 10 points≤ 1’40\" : 8 points≤ 1’45\" : 6 points≤ 1’50\" : 4 points≤ 1’55\" : 2 points> 1’55\" : 0 point | Féminin≤ 1’00’’: 30 points≤ 1’01\" : 29 points≤ 1’02\" : 28 points≤ 1’03\" : 27 points≤ 1’04\" : 26 points≤ 1’05\" : 25 points≤ 1’06\" : 24 points≤ 1’07\" : 23 points≤ 1’08\" : 22 points≤ 1’09\" : 21 points≤ 1’10\" : 20 points≤ 1’25\" : 18 points≤ 1’30\" : 16 points≤ 1’35\" : 14 points≤ 1’40\" : 12 points≤ 1’45\" : 10 points≤ 1’50\" : 8 points≤ 1’55\" : 6 points≤ 2’00\" : 4 points≤ 2’05\" : 2 points> 2’05\" : 0 point | Masculin/Féminin≥ 3’30\" : 30 points≥ 3’25\" : 29 points≥ 3’20\" : 28 points≥ 3’15\" : 27 points≥ 3’10\" : 26 points≥ 3’05\" : 25 points≥ 3’00\" : 24 points≥ 2’50\" : 22 points≥ 2’40\" : 20 points≥ 2’30\" : 15 points≥ 2’20\" : 10 points≥ 2’10\" : 9 points≥ 2’00\" : 8 points< 2’00\" : 0 point |\n\n**Note finale maximale : 120 points (100 %). Note finale minimale requise : 60 points (50 %). Échec à l’examen sportif / épreuve sportive si la note finale est inférieure à 60 points (<50 %) et / ou en cas d’élimination dans une ou plusieurs disciplines désignées par « éliminatoire* ».**\n\n** Disciplines cardio, endurance et endurance de force : au moins 8 points sont nécessaires pour réussir, donc < 8 points entraînent l’élimination du test et l’échec à l’examen sportif / épreuve sportive.*\n\n** Les équipements seront fournis sur place par le CGDIS (veste Nomex, pantalon Nomex, gants Nomex, casque de pompier, appareil respiratoire isolant avec une bouteille de 6l d’air comprimé)",
+      "text_sha256": "98a38e31f94ad2572db81bdbcc6f354965ea28bdfe4507352d55ee1b7f0b33f0",
+      "md_span": {
+        "start": 37029,
+        "end": 40653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19--7ed96cedd682ee3c97730194abd4582c2da37b7e1b0779a1d7a0eabc92ac0b5f#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe III – Parcours d’adresse",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 40719,
+        "end": 40719
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

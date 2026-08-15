@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12012e067:2012-10-26--484a1dee89809284435c8d3de3b77da1cc599feba6d19c10b5565460266dbc2c'
+title: 'Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…'
+valid_from: '2012-10-26'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E067'
+source_sha256: '4f7dc67d58e1475f1248230af1f49af6c195088114450acb082cfa7e5060fc4c'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+26.10.2012 FR Journal officiel de l'Union européenne C 326/1 TRAITÉ SUR LE FONCTIONNEMENT DE L'UNION EUROPÉENNE (VERSION CONSOLIDÉE) TROISIÈME PARTIE LES POLITIQUES ET ACTIONS INTERNES DE L'UNION TITRE V L'ESPACE DE LIBERTÉ, DE SÉCURITÉ ET DE JUSTICE CHAPITRE 1 DISPOSITIONS GÉNÉRALES Article 67 (ex-article 61 TCE et ex-article 29 TUE) 1. L'Union constitue un espace de liberté, de sécurité et de justice dans le respect des droits fondamentaux et des différents systèmes et traditions juridiques des États membres. 2. Elle assure l'absence de contrôles des personnes aux frontières intérieures et développe une politique commune en matière d'asile, d'immigration et de contrôle des frontières extérieures qui est fondée sur la solidarité entre États membres et qui est équitable à l'égard des ressortissants des pays tiers. Aux fins du présent titre, les apatrides sont assimilés aux ressortissants des pays tiers. 3. L'Union œuvre pour assurer un niveau élevé de sécurité par des mesures de prévention de la criminalité, du racisme et de la xénophobie, ainsi que de lutte contre ceux-ci, par des mesures de coordination et de coopération entre autorités policières et judiciaires et autres autorités compétentes, ainsi que par la reconnaissance mutuelle des décisions judiciaires en matière pénale et, si nécessaire, par le rapprochement des législations pénales. 4. L'Union facilite l'accès à la justice, notamment par le principe de reconnaissance mutuelle des décisions judiciaires et extrajudiciaires en matière civile.

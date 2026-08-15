@@ -1,0 +1,310 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) No 926/2014 of 27 August 2014 laying down implementing technical standards with regard to standard forms, templates and procedures for notifications relating to the exercise of the right of establishment and the freedom to provide services according to Directive 2013/36/EU",
+  "valid_from": "2022-03-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0926/versions/2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c/en.html",
+    "sha256": "52d471dd5f2a830f67d227aaf8b66973f26d4d653786edf3576fe2f3a1d8c6c5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0926-20220306"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down the standard forms, templates and procedures for the notifications to exercise the right of establishment and the freedom to provide services pursuant to Article 35(6), Article 36(6) and Article 39(5) of Directive 2013/36/EU.",
+      "text_sha256": "589e0259430e822b6b8c879473b56c3daec7635855af82636b43071e6999c7a4",
+      "md_span": {
+        "start": 989,
+        "end": 1240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(1) ‘branch passport notification’ means a notification made in accordance with Article 35(1) of Directive 2013/36/EU by a credit institution wishing to establish a branch within the territory of another Member State to the competent authorities of its home Member State;\n\n(2) ‘change in branch particulars notification’ means a notification made in accordance with Article 36(3) of Directive 2013/36/EU by a credit institution to the competent authorities of the home and host Member States of a change in the particulars communicated pursuant to Article 35(2)(b), (c) or (d) of that Directive;\n\n(3) ‘services passport notification’ means a notification made in accordance with Article 39(1) of Directive 2013/36/EU by a credit institution wishing to exercise the freedom to provide services by carrying out its activities within the territory of another Member State for the first time to the competent authorities of its home Member State;\n\n(4) ‘passport notifications’ means a branch passport notification, a change in branch particulars notification or a services passport notification.",
+      "text_sha256": "6f8e9813ddfa087a3cf9368819611b7f508fb012786c9cc7bbdd103c09d72abe",
+      "md_span": {
+        "start": 1291,
+        "end": 2459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "General requirements for passport notifications",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Passport notifications submitted under this Regulation shall comply with the following requirements:(a) they shall be in writing in a language accepted by the competent authorities of the home Member State and in a language accepted by the competent authorities of the host Member State, or in any Union language accepted by both the competent authorities of the home and host Member States;(b) they shall be transmitted by post, or by electronic means where these are accepted by the relevant competent authorities.\n\n**2.** The competent authorities shall make the following information publicly available:(a) the languages accepted in accordance with paragraph 1(a);(b) the address to which passport notifications are to be sent where submitted by post;(c) any electronic means by which passport notifications may be submitted and any relevant contact details.",
+      "text_sha256": "0e4eccfa17005bf0eca0ee7a32dec07af06e2002588c840d96111fbf5a9084c2",
+      "md_span": {
+        "start": 2546,
+        "end": 3415
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Submission of the branch passport notification",
+      "path": [
+        "CHAPTER II — PROCEDURES FOR BRANCH PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Credit institutions shall use the form laid down in Annex I to submit a branch passport notification to the competent authorities of the home Member State.",
+      "text_sha256": "9769cbe72bfdaee6ff56fa2f18670b877f3eacf5c5e34935417d62b4c8eb52cb",
+      "md_span": {
+        "start": 3562,
+        "end": 3717
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Assessment of completeness and accuracy of the branch passport notification",
+      "path": [
+        "CHAPTER II — PROCEDURES FOR BRANCH PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** On receipt of a branch passport notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.\n\n**2.** Competent authorities of the home Member State shall treat the three-month period referred to in Article 35(3) of Directive 2013/36/EU as having commenced on the date of receipt of the branch passport notification containing information that is assessed to be complete and correct.\n\n**3.** Where the information provided in the branch passport notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.",
+      "text_sha256": "defe540bfafd0b2d4d7b8e5f0473406bb3317be23a8851f1b774c422bf6c9424",
+      "md_span": {
+        "start": 3832,
+        "end": 4603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Communication of the branch passport notification",
+      "path": [
+        "CHAPTER II — PROCEDURES FOR BRANCH PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the home Member State shall use the form laid down in Annex II to communicate a branch passport notification to the competent authorities of the host Member State together with a copy of the branch passport notification and with the latest available information on own funds using the form laid down in Annex III. Such latest available information on own funds of the credit institution submitting the passport notification shall be notified at both the individual and consolidated level, where applicable and available to the competent authority of the home Member State.\n\n**2.** The competent authorities of the host Member State shall acknowledge receipt of the branch passport notification to the competent authorities of the home Member State without delay, stating the date on which the branch passport notification was received.\n\n**3.** Following the acknowledgement of receipt from the competent authorities of the host Member State, the competent authorities of the home Member State shall inform the credit institution without delay of the following:(a) the communication of the branch passport notification to the competent authorities of the host Member State;(b) the date of receipt of the branch passport notification by the competent authorities of the host Member State.",
+      "text_sha256": "82deb9cd89c7e2b9768f587cc103661cf9dc09dbec1a037fb90780ff73ae031c",
+      "md_span": {
+        "start": 4692,
+        "end": 6014
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0193",
+          "text": "32022R0193: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0926",
+          "text": "32014R0926"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Communication of conditions in the interest of the general good",
+      "path": [
+        "CHAPTER II — PROCEDURES FOR BRANCH PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the host Member State shall communicate in writing to the credit institution any conditions referred to in Article 36(1) of Directive 2013/36/EU under which, in the interest of the general good, activities may have to be carried out in the territory of the host Member State.\n\n**2.** Where the conditions referred to in paragraph 1 impose restrictions on the activities of the branch, the competent authorities of the host Member State shall also communicate those conditions in writing to the competent authorities of the home Member State.",
+      "text_sha256": "5a809c513bdeef673bd20e5a5d33c622875eace9c451fdcce7a7ea0dfdbb4481",
+      "md_span": {
+        "start": 6117,
+        "end": 6694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Submission of a change in branch particulars notification",
+      "path": [
+        "CHAPTER III — PROCEDURES FOR A CHANGE IN BRANCH PARTICULARS NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Credit institutions shall use the form laid down in Annex I to notify a change in branch particulars notification to the competent authorities of the home and host Member States except where the change concerns a planned termination of the operation of the branch.\n\n**2.** Credit institutions shall use the form laid down in Annex IV to notify a change which concerns a planned termination of the operation of the branch. Where the branch of a credit institution takes or took deposits and other repayable funds, the credit institution concerned shall also submit a statement listing the measures that have been or that are being undertaken to ensure that the credit institution will no longer hold deposits or other repayable funds from the public through the branch after the termination of the operation of that branch.",
+      "text_sha256": "df38a6a457927cbf5e841a89ab818de83e6365839e7369bac4fea9407c7c54a8",
+      "md_span": {
+        "start": 6868,
+        "end": 7697
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0193",
+          "text": "32022R0193: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0926",
+          "text": "32014R0926"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Assessment of completeness and accuracy of the notification",
+      "path": [
+        "CHAPTER III — PROCEDURES FOR A CHANGE IN BRANCH PARTICULARS NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** On receipt of a change in branch particulars notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.\n\n**2.** Competent authorities of the home and host Member States shall treat the one-month period referred to in Article 36(3) of Directive 2013/36/EU as having commenced on the date of receipt of the change in branch particulars notification containing information that is assessed to be complete and correct. The competent authorities of the home and host Member States shall cooperate in order to take the decisions referred to in Article 36(3) of Directive 2013/36/EU within the period referred to therein.\n\n**3.** Where the information provided in the change in branch particulars notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.",
+      "text_sha256": "36489315027ae4bcda34acca1518acd545d79b075791a2bdb0e4878939cd9f7f",
+      "md_span": {
+        "start": 7796,
+        "end": 8814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Communication of the decisions taken following the notification",
+      "path": [
+        "CHAPTER III — PROCEDURES FOR A CHANGE IN BRANCH PARTICULARS NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the home Member State shall communicate their decision referred to in Article 36(3) of Directive 2013/36/EU in writing to the credit institution and to the competent authorities of the host Member State.\n\n**2.** The competent authorities of the host Member State shall communicate their decision referred to in Article 36(3) of Directive 2013/36/EU in writing to the credit institution.\n\n**3.** Where the decision referred to in paragraph 2 sets out conditions which impose restrictions on the activities of the branch, the competent authorities of the host Member State shall also communicate those conditions in writing to the competent authorities of the home Member State.",
+      "text_sha256": "a867224430e1c59b88dff2afdc1bb1d82d86ae5879a9d43138fc40872241ab80",
+      "md_span": {
+        "start": 8919,
+        "end": 9631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Submission of the services passport notification",
+      "path": [
+        "CHAPTER IV — PROCEDURES FOR SERVICES PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Credit institutions shall use the form laid down in Annex V to submit a services passport notification to the competent authorities of the home Member State.",
+      "text_sha256": "b4e8e2a284165f60178f0bc6445cdd37789ef9035ab3aa1ec0ed72cc2355da88",
+      "md_span": {
+        "start": 9784,
+        "end": 9941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Assessment of completeness and accuracy of the services passport notification",
+      "path": [
+        "CHAPTER IV — PROCEDURES FOR SERVICES PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** On receipt of a services passport notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.\n\n**2.** Competent authorities of the home Member State shall treat the one-month period referred to in Article 39(2) of Directive 2013/36/EU as having commenced on the date of receipt of the services passport notification containing information that is assessed to be complete and correct.\n\n**3.** Where the information provided in the services passport notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.",
+      "text_sha256": "1919954bd763bed17213ca5a0f204bea7d0c89b3c68b1b31a49592ba314570e2",
+      "md_span": {
+        "start": 10060,
+        "end": 10835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Communication of the services passport notification",
+      "path": [
+        "CHAPTER IV — PROCEDURES FOR SERVICES PASSPORT NOTIFICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "The competent authorities of the home Member State shall use the form laid down in Annex VI to communicate a services passport notification to the competent authorities of the host Member State.",
+      "text_sha256": "c00d701f01284f334ba9a4c00878a08ffaaf6b3802b191f0281ab5aa086a4d40",
+      "md_span": {
+        "start": 10928,
+        "end": 11122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0926:2022-03-06--aa297dc122b4ad26b9dfd6e57cebf76cf4eda2ea8585f1030da4400eff96f20c#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER V — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 11213,
+        "end": 11355
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

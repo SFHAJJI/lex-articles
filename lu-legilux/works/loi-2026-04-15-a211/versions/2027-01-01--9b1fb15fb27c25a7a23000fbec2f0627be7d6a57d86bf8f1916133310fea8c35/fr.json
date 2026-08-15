@@ -1,0 +1,131 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 01/01/2027 : Loi du 15 avril 2026 portant création de l’Administration des aides individuelles au logement.",
+  "valid_from": "2027-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2026-04-15-a211/versions/2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35/fr.xml",
+    "sha256": "c8b63d6624bad3ce0861666731052b768a1c555fa4699e0b81001f5b6761e4f7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_1er/20270101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "Il est institué une Administration des aides individuelles au logement, ci-après « Administration », qui est placée sous l’autorité du ministre ayant le Logement dans ses attributions, ci-après « ministre ».",
+      "text_sha256": "437d2eae3fa5ec5b213ef417b80d1ee79f6807063a691ac29ef4b4158faa5fa8",
+      "md_span": {
+        "start": 698,
+        "end": 905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_2/20270101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "L’Administration est dirigée par un directeur qui en est le chef d’administration. Le directeur dirige, coordonne et surveille les activités qui relèvent de la compétence de l’Administration et représente l’Administration dans ses relations avec les autorités et le public.\n\nLe directeur peut être assisté de directeurs adjoints auxquels il peut déléguer certaines de ses attributions et qui le remplacent en cas d’absence.",
+      "text_sha256": "0537958176eb47caea556a4f5d59ab4b07c456e7a294104a1158df7dbb2dcc50",
+      "md_span": {
+        "start": 940,
+        "end": 1363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_3/20270101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "L’Administration est chargée des missions suivantes :\n\n1. instruire les dossiers relatifs aux aides individuelles au logement ;\n2. assurer la mise en œuvre de textes législatifs et réglementaires en matière d’aides individuelles au logement et exécuter les décisions du ministre en cette matière ;\n3. extraire de ses bases de données pour le ministre des données statistiques anonymisées nécessaires à la politique du logement ;\n4. participer à l’élaboration de la réglementation dans son domaine de compétence ;\n5. élaborer des propositions en matière d’aides individuelles au logement pour le ministre ;\n6. assurer auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière d’aides individuelles au logement, à l’aide des moyens de communication et des technologies appropriés.",
+      "text_sha256": "dca50b677ba0adcbae574e5b0ab12200148c01e8f0704064ee69d141c962be62",
+      "md_span": {
+        "start": 1398,
+        "end": 2214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_4/20270101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "**(1)** Le cadre du personnel de l’Administration comprend un directeur, deux directeurs adjoints, qui ont le statut de fonctionnaire, et des fonctionnaires des différentes catégories de traitement prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nCe cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins de l’Administration et dans les limites des crédits budgétaires.\n\n**(2)** Le directeur et les directeurs adjoints sont nommés par le Grand-Duc.",
+      "text_sha256": "872b9ab7d52e74193877437b847a03b79249c0586bd331ff2ecd4e4c99b84df2",
+      "md_span": {
+        "start": 2249,
+        "end": 2860
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_5/20270101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "Les agents de l’État affectés ou détachés auprès du Département du logement - Service des aides au logement sont repris dans le cadre du personnel de l’Administration.",
+      "text_sha256": "3e325d3a57a42d9588ac044d279b6496b10d50e3af423d33ff6492f07df8359f",
+      "md_span": {
+        "start": 2895,
+        "end": 3062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2026-04-15-a211:2027-01-01--9b1fb15fb27c25a7a23000fbec2f0627be7d6a57d86bf8f1916133310fea8c35#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/art_6/20270101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-01-01",
+      "text_md": "La présente loi entre en vigueur le 1er janvier 2027.",
+      "text_sha256": "477427a2f568b23081dfc76f06e48b0f69d42cf1352a17ca0479b0f2180c9e0f",
+      "md_span": {
+        "start": 3097,
+        "end": 3150
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

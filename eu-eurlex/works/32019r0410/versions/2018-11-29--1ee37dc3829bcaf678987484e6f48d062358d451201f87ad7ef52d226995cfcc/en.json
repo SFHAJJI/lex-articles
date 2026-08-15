@@ -1,0 +1,69 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0410:2018-11-29--1ee37dc3829bcaf678987484e6f48d062358d451201f87ad7ef52d226995cfcc",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2019/410 of 29 November 2018 laying down implementing technical standards with regard to the details and structure of the information to be notified, in the field of payment services, by competent authorities to the European Banking Authority pursuant to Directive (EU) 2015/2366",
+  "valid_from": "2018-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0410/versions/2018-11-29--1ee37dc3829bcaf678987484e6f48d062358d451201f87ad7ef52d226995cfcc/en.xml",
+    "sha256": "81ecf5e35f914ca23207a21c06ffaf31e75728e7b3e3a22368315fb6c0d4934b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0410"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0410:2018-11-29--1ee37dc3829bcaf678987484e6f48d062358d451201f87ad7ef52d226995cfcc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purposes of Article 15(1) of Directive (EU) 2015/2366, competent authorities shall notify information to EBA in accordance with paragraphs 2 to 9.\n\n2. As regards payment institutions, and their branches providing services in a Member State other than their home Member State, competent authorities shall notify the details specified in Table 1 of the Annex using the format set out in that Table.\n\n3. As regards natural or legal persons benefiting from an exemption pursuant to Article 32 of Directive (EU) 2015/2366, competent authorities shall notify the details specified in Table 2 of the Annex using the format set out in that Table.\n\n4. As regards account information service providers, and their branches providing services in a Member State other than their home Member State, competent authorities shall notify the details specified in Table 3 of the Annex using the format set out in that Table.\n\n5. As regards electronic money institutions, and their branches providing services in a Member State other than their home Member State, competent authorities shall notify the details specified in Table 4 of the Annex using the format set out in that Table.\n\n6. As regards legal persons benefiting from an exemption pursuant to Article 9 of Directive 2009/110/EC of the European Parliament and of the Council (3), competent authorities shall notify the details specified in Table 5 of the Annex using the format set out in that Table.\n\n7. As regards agents of payment institutions, account information service providers and electronic money institutions which provide payment services in any Member State, agents of natural or legal persons benefiting from an exemption pursuant to Article 32 of Directive (EU) 2015/2366 and agents of legal persons benefiting from an exemption pursuant to Article 9 of Directive 2009/110/EC, competent authorities shall notify the details specified in Table 6 of the Annex using the format set out in that Table.\n\n8. As regards the institutions referred to in points (4) to (23) of Article 2(5) of Directive 2013/36/EU of the European Parliament and of the Council (4) that are entitled under national law to provide payment services, competent authorities shall notify the details specified in Table 7 of the Annex using the format set out in that Table.\n\n9. As regards service providers carrying out services under points (i) and (ii) of point (k) and point (l) of Article 3 of Directive (EU) 2015/2366, competent authorities shall notify the details specified in Table 8 of the Annex using the format set out in that Table.",
+      "text_sha256": "f3a73c42615c3403c1b7841b3b5cbf10d91c7c04acb80735237d5b3ae3784e31",
+      "md_span": {
+        "start": 930,
+        "end": 3519
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2019073EN.01002001-E0003",
+          "text": "(3)"
+        },
+        {
+          "href": "#ntr4-L_2019073EN.01002001-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0410:2018-11-29--1ee37dc3829bcaf678987484e6f48d062358d451201f87ad7ef52d226995cfcc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "9782a5f86fc25980d05f3f86c63a9aeaf1edfb8dd138dcc97ae28c07c96a3a94",
+      "md_span": {
+        "start": 3552,
+        "end": 3707
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

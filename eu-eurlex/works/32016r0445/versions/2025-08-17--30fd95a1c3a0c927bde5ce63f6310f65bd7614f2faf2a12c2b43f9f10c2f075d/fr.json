@@ -1,0 +1,503 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d",
+  "language": "fr",
+  "title": "Regulation (EU) 2016/445 of the European Central Bank of 14 March 2016 on the exercise of …",
+  "valid_from": "2025-08-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0445/versions/2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d/fr.html",
+    "sha256": "2c8acae91cfc3f1ecb8548ffe83d9e3847fd3b12a2baac294adb77cd1a998880",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R0445-20250817"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et champ d'application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "►C1 Le présent règlement précise certaines options et certaines facultés conférées aux autorités compétentes, en vertu du droit de l'Union relatif aux exigences prudentielles applicables aux établissements de crédit, que la BCE exerce.** ◄ ** Il s'applique exclusivement à propos des établissements de crédit considérés comme importants en vertu de l'article 6, paragraphe 4, du règlement (UE) no 1024/2013 ainsi que de la partie IV et de l'article 147, paragraphe 1, du règlement (UE) no 468/2014 (BCE/2014/17).",
+      "text_sha256": "fff61cf1fb1eaf3aa9383b9d6a64747af1ae0ab3e6fc61548b22c97a0a6e10c4",
+      "md_span": {
+        "start": 752,
+        "end": 1264
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R0445R%2802%29",
+          "text": "►C1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, les définitions figurant à l'article 4 du règlement (UE) no 575/2013, à l'article 2 du règlement (UE) no 1024/2013, à l'article 2 du règlement (UE) no 468/2014 (BCE/2014/17) et à l'article 3 du règlement délégué (UE) 2015/61 s'appliquent.",
+      "text_sha256": "ab1e5c0c5a15ee01a48c45599dbd6fcddc4037626c046e2f87b5b8303abbac82",
+      "md_span": {
+        "start": 1315,
+        "end": 1584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Article 89, paragraphe 3, du règlement (UE) no 575/2013: pondération des risques et interdiction de participations qualifiées hors du secteur financier",
+      "path": [
+        "CHAPITRE I — FONDS PROPRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice de l'article 90 du règlement (UE) no 575/2013 et pour le calcul des exigences de fonds propres conformément à la troisième partie du règlement (UE) no 575/2013, les établissements de crédit appliquent une pondération de 1 250 % au plus élevé des montants suivants:\n\na) le montant des participations qualifiées dans des entreprises, visées à l'article 89, paragraphe 1, du règlement (UE) no 575/2013, qui excède 15 % des fonds propres éligibles de l'établissement de crédit; et\n\nb) le montant total des participations qualifiées dans des entreprises, visées à l'article 89, paragraphe 2, du règlement (UE) no 575/2013, qui excède 60 % des fonds propres éligibles de l'établissement de crédit.",
+      "text_sha256": "529a27269fd5a40484e17f6938bde1c2bf8902050d083fcdc916fa04617242d1",
+      "md_span": {
+        "start": 1806,
+        "end": 2512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Article 327, paragraphe 2, du règlement (UE) no 575/2013: calcul de la position nette",
+      "path": [
+        "CHAPITRE II — EXIGENCES DE FONDS PROPRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les établissements de crédit peuvent utiliser le calcul d'une position nette entre un titre convertible et une position de signe opposé sur l'instrument sous-jacent comme le prévoit l'article 327, paragraphe 2, du règlement (UE) no 575/2013, si l'une ou l'autre des conditions ci-dessous est remplie:a) avant le 4 novembre 2014, l'autorité compétente nationale a adopté une approche qui prend en considération la probabilité qu'un titre convertible déterminé soit converti; oub) avant le 4 novembre 2014, l'autorité compétente nationale a imposé une exigence de fonds propres qui couvre les pertes que la conversion pourrait entraîner.\n\n**2.** Les approches adoptées par les autorités compétentes nationales visées au paragraphe 1 continuent d'être utilisées jusqu'à ce que la BCE adopte sa propre approche conformément à l'article 327, paragraphe 2, du règlement (UE) no 575/2013.",
+      "text_sha256": "ee816df23cce442c9dafe9cf88ba4e8d84a212aa40922bc62e80ded6fbb3131d",
+      "md_span": {
+        "start": 2682,
+        "end": 3570
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Article 380 du règlement (UE) no 575/2013: exonération",
+      "path": [
+        "CHAPITRE II — EXIGENCES DE FONDS PROPRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "En cas de défaillance générale d'un système au sens de l'article 380 du règlement (UE) no 575/2013 confirmée par l'émission d'une déclaration publique par la BCE, jusqu'à ce que cette dernière ait émis une déclaration publique annonçant le rétablissement de la situation en question, les dispositions ci-dessous s'appliquent:\n\na) les établissements de crédit ne sont pas tenus de se conformer aux exigences de fonds propres prévues aux articles 378 et 379 du règlement (UE) no 575/2013; et\n\nb) le non-règlement d'une opération par une contrepartie n'est, dans ce cas, pas réputé constituer un défaut aux fins du risque de crédit.",
+      "text_sha256": "83f8202c3d07e554a7544c33a47cb2838327aac0004f530b42d2832f0b77eedd",
+      "md_span": {
+        "start": 3664,
+        "end": 4293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Article 395, paragraphe 1, du règlement (UE) no 575/2013: limites aux grands risques",
+      "path": [
+        "CHAPITRE III — GRANDS RISQUES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Indépendamment du traitement national mis en œuvre avant l'entrée en vigueur du présent règlement, la limite de la valeur d'un grand risque au sens de l'article 395, paragraphe 1, du règlement (UE) no 575/2013 n'est pas inférieure à 150 millions d'euros.",
+      "text_sha256": "792091eafbd0733aa16d9d326f3bf900007083606a7d49e06fdde5b3b8bbd3ec",
+      "md_span": {
+        "start": 4451,
+        "end": 4705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Article 400, paragraphe 2, du règlement (UE) no 575/2013: exemptions",
+      "path": [
+        "CHAPITRE III — GRANDS RISQUES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les expositions énumérées à l'article 400, paragraphe 2, point a), du règlement (UE) no 575/2013 sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement pour 80 % de la valeur nominale des obligations sécurisées, sous réserve que les conditions prévues à l'article 400, paragraphe 3, de ce règlement soient remplies.\n\n**2.** Les expositions énumérées à l'article 400, paragraphe 2, point b), du règlement (UE) no 575/2013 sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement pour 80 % de leur valeur, à condition que les conditions prévues à l'article 400, paragraphe 3, de ce règlement soient remplies.\n\n**3.** Les expositions énumérées à l’article 400, paragraphe 2, point c), du règlement (UE) no 575/2013 prises par un établissement de crédit sur les entreprises visées au même article, dans la mesure où ces entreprises sont établies dans l’Union, sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement, pour autant que soient remplies les conditions énoncées à l'article 400, paragraphe 3, de ce même règlement, telles qu'elles sont précisées à l'annexe I du présent règlement, et dans la mesure où ces entreprises sont soumises à la même surveillance prudentielle sur base consolidée conformément au règlement (UE) no 575/2013, à la directive 2002/87/CE du Parlement européen et du Conseil (1) ou à des règles équivalentes en vigueur dans un pays tiers, comme cela est précisé à l'annexe I du présent règlement.\n\n**4.** Les expositions énumérées à l'article 400, paragraphe 2, point d), du règlement (UE) no 575/2013 sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement, pour autant que soient remplies les conditions énoncées à l'article 400, paragraphe 3, de ce règlement, telles qu'elles sont précisées à l'annexe II du présent règlement.\n\n**5.** Les expositions énumérées à l'article 400, paragraphe 2, points e) à l), du règlement (UE) no 575/2013 sont totalement exemptées, ou dans le cas de l'article 400, paragraphe 2, point i), sont exemptées à hauteur du montant maximal autorisé, de l'application de l'article 395, paragraphe 1, de ce règlement, sous réserve que les conditions prévues à l'article 400, paragraphe 3, de ce règlement soient remplies.\n\n**6.** Les établissements de crédit évaluent si les conditions précisées à l'article 400, paragraphe 3, du règlement (UE) no 575/2013 et dans l'annexe correspondante de ce règlement, concernant les expositions particulières, sont remplies. La BCE peut vérifier cette évaluation à tout moment et demander aux établissements de crédit de lui remettre, à cet effet, les documents mentionnés dans l'annexe correspondante.\n\n**7.** Le présent article ne s'applique que lorsque l'État membre concerné n'a pas exercé l'option en vertu de l'article 493, paragraphe 3, du règlement (UE) no 575/2013 consistant à exempter en totalité ou en partie les expositions particulières.",
+      "text_sha256": "d88ba8d6e4b46838589a9ad24b3f9771b06323ddc70f96004baff404e45b2926",
+      "md_span": {
+        "start": 4813,
+        "end": 7758
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0504",
+          "text": "32022R0504: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R0445",
+          "text": "32016R0445"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_11a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11 bis",
+      "heading": "Article 12, paragraphe 1, point c) i), du règlement délégué (UE) 2015/61: Identification d’indices boursiers importants d’un État membre ou d’un pays tiers",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section I — Exigence de couverture des besoins de liquidité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les indices suivants constituent des indices boursiers importants aux fins de déterminer l’étendue des actions qui pourraient être considérées comme des actifs de niveau 2B en vertu de l’article 12, paragraphe 1, point c), du règlement délégué (UE) 2015/61:\n\na) les indices énumérés à l’annexe I du règlement d’exécution (UE) 2016/1646 de la Commission (2)\n\nb) tout indice boursier important, non inclus au point a), dans un État membre ou dans un pays tiers, identifié comme tel aux fins du présent point par l’autorité compétente de l’État membre en question ou par l’autorité publique du pays tiers en question;\n\nc) tout indice boursier important, non inclus aux points a) ou b), qui comprend des entreprises phares dans le pays en question.",
+      "text_sha256": "bce2bd8324a0ee0e6297bb11c9ec33baec2c91abb65762395c5492c64f8166a1",
+      "md_span": {
+        "start": 8053,
+        "end": 8797
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Article 12, paragraphe 3, du règlement délégué (UE) 2015/61: actifs de niveau 2B",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section I — Exigence de couverture des besoins de liquidité"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les établissements de crédit qui, selon leurs statuts, ne sont pas en mesure, pour des raisons religieuses, de détenir des actifs porteurs d'intérêts peuvent inclure des titres de dette d'entreprises dans les actifs liquides de niveau 2B conformément à toutes les conditions fixées à l'article 12, paragraphe 1, point b), y compris les points ii) et iii), du règlement délégué (UE) 2015/61.\n\n**2.** En ce qui concerne les établissements de crédit visés au paragraphe 1, la BCE peut réexaminer périodiquement la disposition figurant dans ce paragraphe et autoriser une exemption de l'article 12, paragraphe 1, point b), ii) et iii), du règlement délégué (UE) 2015/61 lorsque sont réunies les conditions fixées à l'article 12, paragraphe 3, dudit règlement délégué.",
+      "text_sha256": "7528e61fe1f4afce73bdcd1f2c39c31b505a90a9e3de1b297500585aeee0003e",
+      "md_span": {
+        "start": 8919,
+        "end": 9689
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 bis",
+      "heading": "Article 428 septdecies, paragraphe 10, du règlement (UE) no 575/2013: Facteurs de financement stable requis pour les expositions de hors bilan",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section II — Ratio de financement stable net (Net Stable Funding Ratio - NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "À moins que la BCE ne détermine des facteurs de financement stable requis différents, pour les expositions de hors bilan entrant dans le champ d’application de l’article 428 *septdecies*, paragraphe 10, du règlement (UE) no 575/2013, les établissements appliquent, aux expositions de hors bilan non visées à la sixième partie, titre IV, chapitre 4, du règlement (UE) no 575/2013, des facteurs de financement stable requis correspondant aux taux de sortie de trésorerie qu’ils appliquent aux produits et services liés dans le contexte de l’article 23 du règlement délégué (UE) 2015/61 en ce qui concerne l’exigence de couverture des besoins de liquidité.",
+      "text_sha256": "d2035e07986a4971f4c543fc1bfbec9e8caeb9566995c4d5e3f79edc668e8f56",
+      "md_span": {
+        "start": 9962,
+        "end": 10615
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12b",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 ter",
+      "heading": "Article 428 octodecies, paragraphe 2, du règlement (UE) no 575/2013: Détermination du terme de la charge grevant les actifs qui ont fait l’objet d’une ségrégation",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section II — Ratio de financement stable net (Net Stable Funding Ratio - NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque des actifs ont fait l’objet d’une ségrégation conformément à l’article 11, paragraphe 3, du règlement (UE) no 648/2012 du Parlement européen et du Conseil (3) et que les établissements ne sont pas en mesure de céder ces actifs librement, les établissements considèrent lesdits actifs comme grevés pour une période correspondant au terme des engagements envers leurs clients sur lesquels porte cette obligation de ségrégation.",
+      "text_sha256": "ba98255e049db48ce30bee292f6459f3fbffc9edff57d4f90fe1a08a1a51cb39",
+      "md_span": {
+        "start": 10824,
+        "end": 11257
+      },
+      "citations": [
+        {
+          "href": "#E0004",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12c",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 quater",
+      "heading": "Article 428 quaterquadragies, paragraphe 10, du règlement (UE) no 575/2013: Facteurs de financement stable requis pour les expositions de hors bilan",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section II — Ratio de financement stable net (Net Stable Funding Ratio - NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les établissements auxquels la BCE a accordé l’autorisation d’appliquer l’exigence de financement stable net simplifiée visée à la sixième partie, titre IV, chapitre 5, du règlement (UE) no 575/2013 suivent l’approche prévue à l’article 12 *bis*.",
+      "text_sha256": "4ba383241632512a4ad40a508418b4d17f2c1e1ba48b97e977da01310815181d",
+      "md_span": {
+        "start": 11455,
+        "end": 11701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12d",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 quinquies",
+      "heading": "Article 428 quinquesquadragies, paragraphe 2, du règlement (UE) no 575/2013: Détermination du terme de la charge grevant les actifs qui ont fait l’objet d’une ségrégation",
+      "path": [
+        "CHAPITRE IV — LIQUIDITÉ",
+        "Section II — Ratio de financement stable net (Net Stable Funding Ratio - NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les établissements auxquels la BCE a accordé l’autorisation de calculer le ratio de financement stable net visé à la sixième partie, titre IV, chapitre 5, du règlement (UE) no 575/2013 suivent l’approche prévue à l’article 12 *ter*.",
+      "text_sha256": "bc540e8d93219dfa082ab05c7aea853ab355c52a6d89c452ab0e0be45d7f56f8",
+      "md_span": {
+        "start": 11924,
+        "end": 12156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Article 473, paragraphe 1, du règlement (UE) no 575/2013: introduction des modifications de la norme comptable internationale 19",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Au cours de la période allant du 1er janvier 2016 au 31 décembre 2018, les établissements de crédit peuvent ajouter à leurs fonds propres de base de catégorie 1 le montant visé à l'article 473, paragraphe 1, du règlement (UE) no 575/2013 multiplié par le facteur applicable, qui s'élève à:a) 0,6 pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 0,4 pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 0,2 pendant la période allant du 1er janvier 2018 au 31 décembre 2018.\n\n**2.** Le présent article est sans préjudice de dispositions de décisions antérieures prises par les autorités compétentes nationales ou du droit national, applicables avant l'entrée en vigueur du présent règlement, lorsque de telles dispositions ne permettent pas aux établissements d'ajouter à leurs fonds propres de base de catégorie 1 le montant mentionné au paragraphe 1.",
+      "text_sha256": "486f2a6969877e79780fc5db355036f3a6b8654beb644386b4c49715d783b21c",
+      "md_span": {
+        "start": 12399,
+        "end": 13292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Article 478, paragraphe 3, points a), c) et d), du règlement (UE) no 575/2013: pourcentages applicables aux déductions des éléments de fonds propres de base de catégorie 1, des éléments de fonds propres additionnels de catégorie 1 et des éléments de fonds propres de catégorie 2",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Aux fins de l'article 478, paragraphe 1, du règlement (UE) no 575/2013, le pourcentage applicable est de:a) 60 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 80 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 100 % à compter du 1er janvier 2018.\n\n**2.** Le présent article ne s'applique pas aux actifs d'impôt différé dépendant de bénéfices futurs.\n\n**3.** Le présent article est sans préjudice du droit national applicable avant l'entrée en vigueur du présent règlement, lorsque ce droit fixe des pourcentages supérieurs à ceux énoncés au paragraphe 1.",
+      "text_sha256": "6264e273786fae92c07d18eafb7b706d3d9c84cf2b3e7dba6ab89d0129a9fe80",
+      "md_span": {
+        "start": 13612,
+        "end": 14219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Article 478, paragraphe 3, points a) et b), du règlement (UE) no 575/2013: pourcentages applicables aux déductions des éléments de fonds propres de base de catégorie 1 des investissements importants dans des entités du secteur financier et des actifs d'impôt différé dépendant de bénéfices futurs",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Aux fins de l'article 478, paragraphe 1, du règlement (UE) no 575/2013, le pourcentage applicable aux fins de l'article 469, paragraphe 1, points a) et c), de ce même règlement est de:a) 60 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 80 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 100 % à compter du 1er janvier 2018.\n\n**2.** Aux fins de l'article 478, paragraphe 2, du règlement (UE) no 575/2013, le pourcentage applicable est de:a) 60 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 80 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 100 % à compter du 1er janvier 2018.\n\n**3.** Par dérogation au paragraphe 2, lorsque le droit national prévoit une période de transition de dix ans, conformément à l'article 478, paragraphe 2, du règlement (UE) no 575/2013, le pourcentage applicable est de:a) 40 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 60 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 80 % pendant la période allant du 1er janvier 2018 au 31 décembre 2018;d) 100 % à compter du 1er janvier 2019.\n\n**4.** Les paragraphes 2 et 3 ne s'appliquent pas aux établissements de crédit qui, à la date d'entrée en vigueur du présent règlement, font l'objet de plans de restructuration approuvés par la Commission.\n\n**5.** Lorsqu'un établissement de crédit relevant du paragraphe 4 est acquis par ou fusionne avec un autre établissement de crédit alors que le plan de restructuration est encore en cours, sans modifications en matière de traitement prudentiel des actifs d'impôt différé, l'exception du paragraphe 4 s'applique à l'établissement de crédit acquéreur, au nouvel établissement de crédit résultant de la fusion ou à l'établissement de crédit absorbant l'établissement de crédit d'origine, de la même manière qu'elle s'appliquait à l'établissement de crédit acquis, fusionné ou absorbé.\n\n**6.** La BCE peut réexaminer l'application des paragraphes 4 et 5 en 2020 après contrôle de la situation des établissements de crédit concernés.\n\n**7.** Les établissements de crédit sont autorisés à ne pas appliquer le paragraphe 2 ou 3 en cas d'augmentation imprévue de l'incidence des déductions visées aux paragraphes 2 et 3, déterminée par la BCE comme étant significative.\n\n**8.** Dans les cas où les paragraphes 2 et 3 ne s'appliquent pas, les établissements de crédit peuvent appliquer les dispositions législatives nationales.\n\n**9.** Le présent article est sans préjudice du droit national applicable jusqu'à l'entrée en vigueur du présent règlement, à condition que ce droit fixe des pourcentages supérieurs à ceux énoncés aux paragraphes 1, 2 et 3.",
+      "text_sha256": "f9a35b60be65ddf6ab8eca0fea190dfa348d4c4ebca416c46ae7c70ee9bcdcb2",
+      "md_span": {
+        "start": 14557,
+        "end": 17270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Article 479, paragraphes 1 et 4, du règlement (UE) no 575/2013: comptabilisation en fonds propres de base de catégorie 1 consolidés d'instruments et d'éléments non reconnus en tant qu'intérêts minoritaires",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Au cours de la période allant du 1er janvier 2016 au 31 décembre 2017, le pourcentage applicable des éléments visés à l'article 479, paragraphe 1, du règlement (UE) no 575/2013, qui auraient été éligibles en tant que réserves consolidées en vertu des dispositions nationales transposant l'article 65 de la directive 2006/48/CE du Parlement européen et du Conseil (4), est éligible en tant que fonds propres de base de catégorie 1 consolidés, selon les pourcentages fixés ci-dessous.\n\n**2.** Aux fins du paragraphe 1, le pourcentage applicable est de:a) 40 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 20 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017.\n\n**3.** Le présent article est sans préjudice du droit national applicable jusqu'à l'entrée en vigueur du présent règlement, lorsque ce droit fixe des pourcentages inférieurs à ceux énoncés au paragraphe 2.",
+      "text_sha256": "670fda7097654d362874c88a6d6a634d993bdb20f277f12b7a3b9a71dffebb09",
+      "md_span": {
+        "start": 17517,
+        "end": 18429
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Article 480, paragraphe 3, du règlement (UE) no 575/2013: comptabilisation en fonds propres consolidés des intérêts minoritaires et des fonds propres additionnels de catégorie 1 et fonds propres de catégorie 2 éligibles",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Au cours de la période allant du 1er janvier 2016 au 31 décembre 2017, comme indiqué à l'article 480, paragraphe 3, du règlement (UE) no 575/2013, la valeur du facteur applicable en vertu de l'article 480, paragraphe 1, de ce règlement est de:a) 0,6 pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 0,8 pendant la période allant du 1er janvier 2017 au 31 décembre 2017.\n\n**2.** Le présent article est sans préjudice du droit national applicable jusqu'à l'entrée en vigueur du présent règlement, lorsque ce droit fixe des facteurs supérieurs à ceux énoncés au paragraphe 1.",
+      "text_sha256": "2a78aae53cd53a7171a718040d877a72aa8248a3a86aea21cc8729a919c46325",
+      "md_span": {
+        "start": 18690,
+        "end": 19289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Article 481, paragraphes 1 et 5, du règlement (UE) no 575/2013: filtres et déductions supplémentaires",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Pour la période allant du 1er janvier 2016 au 31 décembre 2017, aux fins de l'application de filtres ou de déductions supplémentaires qu'imposent les mesures nationales de transposition, visés à l'article 481, paragraphe 1, du règlement (UE) no 575/2013, et pour autant que les conditions de cet article soient réunies, les pourcentages applicables sont les suivants:a) 40 % pour la période allant du 1er janvier 2016 au 31 décembre 2016;b) 20 % pour la période allant du 1er janvier 2017 au 31 décembre 2017.\n\n**2.** Pour la période allant du 1er janvier 2016 au 31 décembre 2017, les établissements de crédit appliquent le traitement prévu par le droit national au montant restant après application du filtre ou de la déduction conformément au paragraphe 1.\n\n**3.** Le présent article est sans préjudice du droit national applicable jusqu'à l'entrée en vigueur du présent règlement lorsque ce droit fixe des conditions plus strictes que celles précisées au paragraphe 1.",
+      "text_sha256": "b9b7bf8e372341bb7bfdcfdabb03b7b10b56c7a7d4e0bf0d2caa83a3a077ad20",
+      "md_span": {
+        "start": 19432,
+        "end": 20411
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Article 486, paragraphe 6, du règlement (UE) no 575/2013: limites au maintien des acquis applicables aux éléments de fonds propres de base de catégorie 1, aux éléments de fonds propres additionnels de catégorie 1 et aux éléments de fonds propres de catégorie 2",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Aux fins de l'article 486 du règlement (UE) no 575/2013, les pourcentages applicables sont de:a) 60 % pendant la période allant du 1er janvier 2016 au 31 décembre 2016;b) 50 % pendant la période allant du 1er janvier 2017 au 31 décembre 2017;c) 40 % pendant la période allant du 1er janvier 2018 au 31 décembre 2018;d) 30 % pendant la période allant du 1er janvier 2019 au 31 décembre 2019;e) 20 % pendant la période allant du 1er janvier 2020 au 31 décembre 2020;f) 10 % pendant la période allant du 1er janvier 2021 au 31 décembre 2021.\n\n**2.** Le présent article est sans préjudice du droit national applicable jusqu'à l'entrée en vigueur du présent règlement, à condition que ce droit fixe des pourcentages qui sont inférieurs à ceux énoncés au paragraphe 1.",
+      "text_sha256": "2703013f8eed9b5e229ebc5c39d300a831148cd9afb265f7eda6458b5b55a525",
+      "md_span": {
+        "start": 20713,
+        "end": 21482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Article 495, paragraphe 1, du règlement (UE) no 575/2013: traitement des expositions sur actions dans le cadre de l'approche fondée sur les notations internes (NI)",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les catégories d'expositions sur actions bénéficiant de l'exemption du traitement NI en vertu de l'article 495, paragraphe 1, du règlement (UE) no 575/2013 incluent, jusqu'au 31 décembre 2017, uniquement les catégories d'expositions sur actions qui, au 31 décembre 2013, bénéficiaient déjà d'une exemption du traitement NI conformément à l'article 2 du règlement délégué (UE) 2015/1556 de la Commission (5).",
+      "text_sha256": "f9b63d1a2f2f2170f3342eb7bce3baeb31745d50915e7f0c8ef407b6822fd536",
+      "md_span": {
+        "start": 21687,
+        "end": 22094
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_24a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24 bis",
+      "heading": "Article 495 sexies du règlement (UE) no 575/2013: Dispositions transitoires pour les évaluations de crédit des établissements établies par un OEEC",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article 138, point g), du règlement (UE) no 575/2013, les établissements peuvent continuer d’utiliser une évaluation de crédit établie par un OEEC à l’égard d’un établissement qui tient compte d’hypothèses de soutien implicite des pouvoirs publics jusqu’au 1er janvier 2027.",
+      "text_sha256": "990d4f08593958c394168707c18cd4e90497abeb76ca1d771e1737953e07b718",
+      "md_span": {
+        "start": 22287,
+        "end": 22580
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS TRANSITOIRES DU RÈGLEMENT (UE) No 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement entre en vigueur le 1er octobre 2016.\n\n**2.** L'article 4 s'applique à compter du 31 décembre 2016 et l'article 13 à compter du 1er janvier 2019.",
+      "text_sha256": "cf1e627af6d73901a7b1262d1896b3f098b5797dd04ff822e48d6b9af37144af",
+      "md_span": {
+        "start": 22639,
+        "end": 22812
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

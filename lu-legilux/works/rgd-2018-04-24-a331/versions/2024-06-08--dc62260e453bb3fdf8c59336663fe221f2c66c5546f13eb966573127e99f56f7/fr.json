@@ -1,0 +1,599 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7",
+  "language": "fr",
+  "title": "Règlement grand-ducal du 24 avril 2018 relatif à la limitation des émissions en provenance des installations de combustion moyennes.",
+  "valid_from": "2024-06-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-04-24-a331/versions/2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7/fr.xml",
+    "sha256": "e853e6cb0688301ecc09e22a3e7af4321fd0f910a2ce4bd01b533f1bdcc48440",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_1er/20240608",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "Le présent règlement établit des règles visant à limiter et à surveiller les émissions atmosphériques de polluants en provenance des installations de combustion moyennes et, partant, à réduire les émissions atmosphériques et les risques que celles-ci sont susceptibles de présenter pour la santé humaine et l’environnement.",
+      "text_sha256": "bed84db3c9766d33806d458073690a959bbd45432c2e18a88312dabc85830a90",
+      "md_span": {
+        "start": 697,
+        "end": 1020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_2/20240608",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** Le présent règlement s’applique :\n\n1. aux installations de combustion d'une puissance thermique nominale égale ou supérieure à 1 MW et inférieure à 50 MW, ci-après dénommées « installations de combustion moyennes », quel que soit le type de combustible qu'elles utilisent ;\n2. loi modifiée du 9 mai 2014 quelle que soit l’affectation des bâtiments où sont comprises ces installations.\n\n**(2)** Le présent règlement ne s’applique pas :\n\n1. loi modifiée du 9 mai 2014\n2. règlement (UE) 2016/1628 règlements (UE) n° 1024/2012 (UE) n° 167/2013 directive 97/68/CE\n3. o\n4. aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le réchauffement direct, le séchage ou tout autre traitement d'objets ou de matières ;\n5. aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le chauffage direct au gaz des espaces intérieurs aux fins de l'amélioration des conditions de travail ;\n6. aux installations de postcombustion qui ont pour objet l'épuration par combustion des gaz résiduaires de procédés industriels et qui ne sont pas exploitées en tant qu'installations de combustion autonomes ;\n7. à tout dispositif technique employé pour la propulsion d'un véhicule, navire ou aéronef ;\n8. aux turbines à gaz et aux moteurs à gaz ou moteurs diesel, en cas d'utilisation sur les plates-formes offshore ;\n9. aux dispositifs de régénération des catalyseurs de craquage catalytique ;\n10. aux dispositifs de conversion de l'hydrogène sulfuré en soufre ;\n11. aux réacteurs utilisés dans l'industrie chimique ;\n12. aux fours à coke ;\n13. aux cowpers des hauts fourneaux ;\n14. aux crematoriums ;\n15. aux installations de combustion utilisant des combustibles de raffinerie seuls ou avec d'autres combustibles pour la production d'énergie au sein de raffineries de pétrole et de gaz ;\n16. aux chaudières de récupération au sein d'installations de production de pâte à papier.\n\n**(3)** Le présent règlement ne s'applique pas aux activités de recherche, aux activités de développement ou aux activités d'expérimentation ayant trait aux installations de combustion moyennes.",
+      "text_sha256": "e3c1967424aa89218da091c9aefed8649a07793ae865b3b8dcdac1bd03181a3a",
+      "md_span": {
+        "start": 1075,
+        "end": 3209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_3/20240608",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "Aux fins du présent règlement, on entend par :\n\n1. bâtiment\n2. bioliquide er règlement grand-ducal du 27 février 2011\n3. biomasse 1. les produits composés d'une matière végétale agricole ou forestière susceptible d'être employée comme combustible en vue d'utiliser son contenu énergétique ;\n2. 1. déchets végétaux agricoles et forestiers ;\n2. déchets végétaux provenant du secteur industriel de la transformation alimentaire, si la chaleur produite est valorisée ;\n3. déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils sont coïncinérés sur le lieu de production et si la chaleur produite est valorisée ;\n4. déchets de liège ;\n5. déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition ;\n4. combustible\n5. combustible de raffinerie\n6. déchets loi modifiée du 21 mars 2012\n7. émission\n8. exploitant\n9. fioul lourd 1. tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 51 à 2710 19 67, 2710 20 32, ou 2710 20 38 ; ou\n2. tout combustible liquide dérivé du pétrole, autre que le gasoil défini au point 10°, appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds ;\n10. gasoil 1. tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 16 ou 2710 20 19 ; ou\n2. dont la teneur en soufre n'excède pas la valeur limite fixée par la réglementation en vigueur et qui n’a pas servi auparavant à d’autres fins.\n11. gaz naturel\n12. heures d’exploitation\n13. inspection 1. le contrôle de l’installation de combustion et des paramètres prescrits qui intervient après la mise en service d’une nouvelle installation de combustion ou après une transformation importante d’une installation de combustion ;\n2. le mesurage périodique des paramètres prescrits pour une installation de combustion ;\n14. inspection positive\n15. inspection négative\n16. installation de combustion\n17. installation de combustion existante\n18. microréseau isolé\n19. moteur\n20. moteur à gaz\n21. moteur diesel\n22. moteur à double combustible\n23. nouvelle installation de combustion 1. toute installation de combustion qui est mise en service après le 20 décembre 2018 ;\n2. toute installation de combustion existante qui a fait l’objet d’une transformation importante après le 20 décembre 2018 ;\n3. toute installation de combustion existante qui a été mise en service ou qui a fait l’objet d’une transformation importante au plus tard le 20 décembre 2018 et qui n’a pas fait l’objet d’une inspection positive avant cette date ;\n24. organisme agréé loi du 21 avril 1993\n25. oxydes d'azote (NOx) 2\n26. petit réseau isolé\n27. poussières\n28. puissance thermique nominale\n29. taux d'humidité résiduelle\n30. transformation importante\n31. turbine à gaz\n32. valeur limite d’émissions\n33. efficacité énergétique\n34. amélioration de l’efficacité énergétique\n35. contrat de performance énergétique\n36. système technique de bâtiment\n37. système d’automatisation et de contrôle des bâtiments",
+      "text_sha256": "7b6e077a422bf328aa027829b28863dda8e1c24113900fbfd8f6b7323276963f",
+      "md_span": {
+        "start": 3256,
+        "end": 6857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_4/20240608",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Cumul",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** L'ensemble formé par au moins deux nouvelles installations de combustion moyennes est considéré comme une seule installation de combustion moyenne aux fins du présent règlement, et leur puissance thermique nominale est additionnée aux fins du calcul de la puissance thermique nominale totale de l'installation si :\n\n1. les gaz résiduaires de ces installations de combustion moyennes sont rejetés par une cheminée commune, ou\n2. Compte tenu des facteurs techniques et économiques, les gaz résiduaires de ces installations de combustion moyennes pourraient, selon l’Administration de l’environnement, dénommée ci-après « administration », être rejetés par une cheminée commune.\n\n**(2)** Dans le cas où l’ensemble formé remplit la condition du paragraphe 1er point 1, le mesurage des émissions au cours des inspections est effectué dans l’ensemble formé par ces installations.\n\nDans le cas où l’ensemble formé remplit la condition du paragraphe 1er point 2, le mesurage des émissions au cours des inspections est effectué dans chaque installation appartenant à l’ensemble visé par le paragraphe 1er.\n\n**(3)** La puissance thermique nominale totale d’un ensemble d’installations visé par le paragraphe 1er est déterminante pour la périodicité des inspections visée par l’article 7.",
+      "text_sha256": "108e09bf1ade3ed46eca7e2ad1c499fa8df7a002468764eb851734d354085437",
+      "md_span": {
+        "start": 6898,
+        "end": 8183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_5/20240608",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Enregistrement d’une installation de combustion moyenne",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** L’administration tient un registre public comportant des informations sur chaque installation de combustion moyenne, y compris les informations énumérées à l’annexe I et les informations obtenues en vertu de l’article 11. L’administration met les informations contenues dans le registre à la disposition du public, accessibles sur un site électronique installé à cet effet, conformément à la loi du 25 novembre 2005 concernant l'accès du public à l'information en matière d'environnement.\n\n**(2)** Aux fins du paragraphe 1er,\n\n1. l’exploitant d’une installation de combustion moyenne mise en service avant l’entrée en vigueur du présent règlement communique à l’administration, dans les douze mois qui suivent cette entrée en vigueur, les informations énumérées à l'annexe I.\n2. l’exploitant d’une installation de combustion moyenne mise en service après l’entrée en vigueur du présent règlement communique ces informations dans les six semaines qui suivent la date de mise en service.\n\nAu-delà des délais fixés à l’alinéa 1er, l’installation de combustion moyenne ne peut pas être exploitée aussi longtemps qu’un enregistrement n’a pas été effectué.\n\nLa communication des informations se fait par le biais d’un formulaire mis à disposition par l’administration.\n\nL’administration vérifie si les informations fournies sont exactes et complètes et dans l’affirmative informe l'exploitant de l’enregistrement. L’enregistrement est effectué dans un délai d’un mois à compter de la communication des informations.\n\n**(3)** Pour les installations de combustion moyennes qui font partie d’une installation relevant du chapitre II de la loi modifiée du 9 mai 2014 relative aux émissions industrielles, les exigences du présent article sont réputées remplies du fait du respect de ladite loi.\n\n**(4)** Tout enregistrement effectué en vertu d'autres dispositions législatives ou réglementaires peut être combiné avec l'enregistrement requis en vertu du paragraphe 1er pour former un enregistrement unique, pour autant que ledit enregistrement unique contienne les informations requises au titre du présent article.",
+      "text_sha256": "6a7a14eb26667b8080b8998c35481bb986c5fb8b3049428c491f1969c2c80104",
+      "md_span": {
+        "start": 8274,
+        "end": 10387
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/11/25/n4/jo",
+          "text": "loi du 25 novembre 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/05/09/n1/jo",
+          "text": "loi modifiée du 9 mai 2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/05/09/n1/jo",
+          "text": "ladite loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_20/20240608",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Valeurs limites d’émission",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** Sans préjudice du chapitre II de la loi modifiée du 9 mai 2014 relative aux émissions industrielles, le cas échéant, les valeurs limites d’émission énoncées à l’annexe II s’appliquent aux installations de combustion moyennes.\n\n**(2)** Les installations de combustion moyennes existantes sont exploitées de façon à ce que les valeurs limites d’émission de l’annexe II, partie 1, ne soient pas dépassées.\n\nCette disposition ne s’applique pas aux installations de combustion moyennes existantes qui ne sont pas exploitées plus de 100 heures d’exploitation par an, en moyenne mobile calculée sur une période de cinq ans.\n\nDans des cas d’urgence ou de circonstances exceptionnelles, la limite visée à l’alinéa 2 s’étend à 500 heures d’exploitation.\n\nDans tous les cas visés au présent paragraphe, une valeur limite d’émission de 200 milligrammes par normal mètre cube (mg/Nm3) pour les poussières s’applique aux installations de combustion moyennes existantes qui utilisent des combustibles solides.\n\n**(3)** Les nouvelles installations de combustion moyennes sont exploitées de façon à ce que les valeurs limites d’émission de l’annexe II, partie 2, ne soient pas dépassées.\n\nCette disposition ne s’applique pas aux nouvelles installations de combustion moyennes qui ne sont pas exploitées plus de 100 heures d’exploitation par an, en moyenne mobile calculée sur une période de trois ans.\n\nDans des cas d’urgence ou de circonstances exceptionnelles, la limite visée à l’alinéa 2 s’étend à 500 heures d’exploitation.\n\nDans tous les cas visés au présent paragraphe, une valeur limite d’émission de 100 milligrammes par normal mètre cube (mg/Nm3) pour les poussières s’applique aux nouvelles installations de combustion moyennes qui utilisent des combustibles solides.\n\n**(4)** Au plus tard le 1er janvier 2025, les installations de combustion moyennes existantes sont exploitées conformément au paragraphe 3.\n\n**(5)** Dans les zones ou les parties de zones où les valeurs limites de qualité de l’air établies par le règlement grand-ducal modifié du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l’air ambiant et un air pur pour l’Europe ne sont pas respectées, le ministre ayant l’Environnement dans ses attributions, dénommé ci-après « ministre », fait évaluer par administration, dans le cadre de l’élaboration des plans relatifs à la qualité de l’air visés à l’article 24 du règlement grand-ducal précité du 29 avril 2011, en tenant compte des résultats de l’échange d’informations organisé par la Commission européenne, la nécessité d’appliquer, pour chaque installation de combustion moyenne dans ces zones ou parties de zones, des valeurs limites d’émission plus strictes que celles énoncées dans le présent règlement. Le ministre prend, sur base de cette évaluation, une décision afférente pour autant que l’application de telles valeurs limites d’émission contribue effectivement à une amélioration notable de la qualité de l’air.\n\n**(6)** Le ministre peut accorder une dérogation dispensant de l’obligation de respecter les valeurs limites d’émission prévues aux paragraphes 2 et 3 dans le cas où une installation de combustion moyenne qui n’utilise que du combustible gazeux doit exceptionnellement avoir recours à d’autres combustibles en raison d’une interruption soudaine de l’approvisionnement en gaz et devrait, de ce fait, être équipée d’un dispositif antipollution secondaire. La période pour laquelle une telle dérogation est accordée ne dépasse pas dix jours, sauf si l’exploitant démontre qu’une période plus longue est justifiée.\n\n**(7)** Lorsqu’une installation de combustion moyenne utilise simultanément deux combustibles ou davantage, la valeur limite d’émission de chaque polluant est calculée comme suit :\n\n1. prendre la valeur limite d’émission relative à chaque combustible, telle qu’elle est énoncée à l’annexe II ;\n2. déterminer la valeur limite d’émission pondérée par combustible ; cette valeur est obtenue en multipliant la valeur limite d’émission visée au point 1° par la puissance thermique fournie par chaque combustible, et en divisant le résultat de la multiplication par la somme des puissances thermiques fournies par tous les combustibles ;\n3. additionner les valeurs limites d’émission pondérées par combustible.",
+      "text_sha256": "da4a77d84b680e3cf5e7bbb3672f12c4fdefba58428f4c7d3e43014afb7077dd",
+      "md_span": {
+        "start": 10449,
+        "end": 14798
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/05/09/n1/jo",
+          "text": "loi modifiée du 9 mai 2014"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2011/04/29/n2/jo",
+          "text": "règlement grand-ducal modifié du 29 avril 2011"
+        },
+        {
+          "href": "/eli/dir_ue/2008/50/jo",
+          "text": "directive 2008/50/CE"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2011/04/29/n2/jo",
+          "text": "règlement grand-ducal précité du 29 avril 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_21/20240608",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Obligations de l’exploitant",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** L’exploitant procède à la surveillance des émissions et du rendement conformément, au minimum, à l’annexe III, partie 1, et dans les périodicités prévues par le présent article.\n\nLes frais de la surveillance des émissions et du rendement sont à charge de l’exploitant.\n\n**(2)** Toute nouvelle installation de combustion moyenne et toute installation de combustion moyenne soumise à une transformation importante fait l’objet d’une première inspection par un organisme agréé conformément à l’article 8. Cette première inspection est effectuée, sur demande de l’exploitant, dans les quatre semaines qui suivent la mise en service de l’installation.\n\n**(3)** À compter de la date de la première inspection positive, l’exploitant d’une installation de combustion moyenne fait procéder à des inspections subséquentes par un organisme agréé dans les fréquences suivantes :\n\n1. pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW, tous les deux ans ;\n2. pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 200 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans ;\n3. pour les installations ayant une puissance thermique nominale supérieure à 20 MW, annuellement ;\n4. pour les installations ayant une puissance thermique nominale supérieure à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 100 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans.\n\nL’exploitant d’une installation de combustion moyenne devant respecter les valeurs limites d’émission liées aux composés organiques totaux et aux fluor et composés inorganiques du fluor énoncées à l’annexe II fait procéder à des inspections annuelles par un organisme agréé à compter de la date de la première inspection positive.\n\n**(4)** Les dates des inspections subséquentes d’une installation de combustion moyenne existante sont calculées par rapport à la dernière inspection telle que prévue, par le règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW respectivement par le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ou le cas échéant dans l’autorisation de l’installation concernée.\n\nSi l’alinéa 1er ne trouve pas à s’appliquer, l’exploitant d’une installation de combustion moyenne existante fait procéder par un organisme agréé à une première inspection périodique au plus tard un an après l’entrée en vigueur du présent règlement.\n\n**(5)** Dans le cas des installations de combustion moyennes qui utilisent plusieurs combustibles, la surveillance des émissions et du rendement est effectuée lors de la combustion du combustible ou du mélange de combustibles susceptible d’entraîner le plus haut niveau d’émissions et pendant une période représentative des conditions d’exploitation normales.\n\n**(6)** L’exploitant conserve une trace de tous les résultats de la surveillance et en traite tous les résultats de manière à permettre la vérification du respect des valeurs limites d’émission et du rendement minimal conformément aux règles énoncées à l’annexe III, partie 2.\n\n**(7)** Dans le cas des installations de combustion moyennes qui utilisent un dispositif antipollution secondaire et un dispositif de mesure en continu pour respecter les valeurs limites d’émission, l’exploitant conserve une trace du bon fonctionnement continu de ces dispositifs ou conserve des informations le prouvant.\n\n**(8)** L’exploitant d’une installation de combustion moyenne conserve les éléments suivants :\n\n1. l’autorisation ou la preuve de l’enregistrement délivrée par l’autorité compétente et, le cas échéant, sa version actualisée et les informations connexes ;\n2. les résultats de la surveillance et les informations visées aux paragraphes 6 et 7 ;\n3. le cas échéant, un relevé des heures d’exploitation visées à l’article 6, paragraphes 2 et 3 ;\n4. un relevé du type et des quantités de combustible utilisé dans l’installation et de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire ;\n5. un relevé des cas de non-respect et des mesures prises, conformément au paragraphe 10 ;\n6. le cas échéant, un relevé des valeurs moyennes horaires et journalières des mesures en continu dont il est question à l’annexe III.\n\nLes données et informations visées aux points 2 à 6 sont conservées par l’exploitant pendant au moins six ans.\n\n**(9)** Sur demande de l’administration, l’exploitant communique à cette dernière, sans retard injustifié, les données et les informations énumérées au paragraphe 8. L’administration peut formuler une telle demande afin de permettre le contrôle du respect des exigences du présent règlement. L’administration formule une telle demande si un citoyen sollicite l’accès aux données ou aux informations énumérées au paragraphe 8.\n\n**(10)** En cas de non-respect des valeurs limites d’émission et du rendement minimal énoncés à l’annexe II, l’exploitant prend les mesures nécessaires pour assurer le rétablissement de la conformité dans les plus brefs délais, sans préjudice des mesures requises au titre des articles 8 et 10.\n\n**(11)** L’exploitant fournit à l’administration toute l’assistance nécessaire pour lui permettre de mener les inspections et les visites des sites, de prélever des échantillons et de recueillir toute information nécessaire à l’accomplissement de ses tâches aux fins du présent règlement.\n\n**(12)** L’exploitant fait en sorte que les phases de démarrage et d’arrêt de l’installation de combustion moyenne soient aussi courtes que possible.",
+      "text_sha256": "617b531ed465a3a4e3f54b68794a972baf3ea162f2240401818ffbd2005cfe1a",
+      "md_span": {
+        "start": 14861,
+        "end": 20808
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2014/10/07/n1/jo",
+          "text": "règlement grand-ducal modifié du 7 octobre 2014"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_8/20240608",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Inspection d’une installation de combustion moyenne",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** Au moins une semaine avant de procéder à une inspection, l’organisme agréé en informe l’administration.\n\n**(2)** L’organisme agréé procède au contrôle des valeurs limites d’émission et du rendement minimal énoncés par l’annexe II conformément aux conditions de mesurage de l’annexe III.\n\n**(3)** Lorsque l’inspection est positive, l’organisme agréé qui y a procédé transmet dans le délai d’un mois à l’exploitant et à l’administration un rapport d’inspection contenant toutes les informations requises par l’annexe V et indiquant la conformité de l’installation. La transmission se fait sur base d’un formulaire mis à disposition par l’administration.\n\nLorsque l’inspection est négative, l’exploitant de l’installation prend toute mesure nécessaire pour assurer le rétablissement de la conformité sans retard injustifié et est tenu d’établir à cet effet une prise de position détaillée relative aux conclusions et recommandations de l’organisme agréé. Cette prise de position doit également comprendre un échéancier précis dans lequel l’exploitant entend se conformer aux exigences du présent règlement, lequel ne peut pas dépasser douze mois. L’échéancier peut toutefois exceptionnellement dépasser le délai de douze mois si un tel dépassement est dûment justifié. Dans ce cas, l’exploitant ajoute une explication détaillée à la prise de position. La prise de position est transmise pour approbation dans la quinzaine par l’exploitant à l’administration. Après la réalisation des travaux de mise en conformité qui s’imposent suite à une inspection négative, l’exploitant est tenu de faire procéder à une deuxième inspection. En cas de non-respect du présent alinéa ou si cette deuxième inspection est également négative ou n’a pas été effectuée selon l’échéancier approuvé par l’administration, l’installation est réputée ne pas satisfaire aux dispositions du présent règlement et ne peut être maintenue en service.\n\nLorsque la non-conformité constatée lors d’une inspection négative entraîne une dégradation significative de la qualité de l’air au niveau local, l’exploitation de l’installation de combustion moyenne est suspendue jusqu’à ce que la conformité soit rétablie.\n\nL’organisme agréé est tenu, lors de l’inspection, de signaler sans délai à l’administration tout défaut, toute nuisance ainsi que toute situation qui constitue ou est susceptible de constituer une atteinte à l’environnement.\n\n**(4)** Les rapports d'inspection font l’objet d'un contrôle indépendant par l'administration. À cette fin, l'administration sélectionne de manière aléatoire au moins un pourcentage statistiquement significatif de tous les rapports d'inspection périodique établis au cours d'une année donnée et soumet ceux-ci à une vérification.\n\n**(5)** L’administration veille à ce que les rapports d’inspection ainsi que des informations sur leur utilité et leurs objectifs soient transmis à l’exploitant.\n\n**(6)** Pour les installations de combustion moyennes ayant une puissance thermique nominale égale ou supérieure à 1 MW et inférieure ou égale à 3 MW et tombant dans le champ d’application de l’article 8 du règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz à l’exception des installations visées par l’article 8, paragraphe 2, point 2 du même règlement, l’organisme agréé procède lors de l’inspection aux contrôles de la conformité des critères visés à l’article 9, paragraphe 5, points a), b) et c) et à l’article 11, paragraphe 7, points a), b) et c) du même règlement.\n\nPour ces installations, l’administration transmet, dès la réception de ces documents, au ministre ayant l’Énergie dans ses attributions les rapports d’inspection y relatifs.\n\n**(7)** Pour les installations de combustion moyennes qui sont régies explicitement par un critère de performance énergétique convenu ou un accord contractuel fixant un niveau convenu d’amélioration de l’efficacité énergétique, tels que les contrats de performance énergétique définis à l’article 3, point 35°, ou qui sont gérées par un gestionnaire de services d’utilité publique ou un gestionnaire de réseau et sont par conséquent soumises à des mesures de suivi de la performance visant les systèmes, le rendement de combustion ne doit pas être contrôlé dans le cadre des inspections prévues au présent article à condition que l’incidence globale d’une telle approche soit équivalente à celle qui résulte d’une inspection complète avec contrôle du rendement de combustion.\n\nSont également exemptées de l’obligation de contrôle du rendement de combustion dans le cadre des inspections prévues au présent article, les installations de combustion moyennes installées dans des bâtiments qui sont équipés d’un système d’automatisation et de contrôle du bâtiment capable :\n\n1. de suivre, d’enregistrer et d’analyser en continu la consommation énergétique et de permettre de l’ajuster en continu ;\n2. de situer l’efficacité énergétique du bâtiment par rapport à des valeurs de référence, de détecter les pertes d’efficacité des systèmes techniques de bâtiment et d’informer la personne responsable des installations ou de la gérance technique du bâtiment des possibilités d’amélioration de l’efficacité énergétique ;\n3. de permettre la communication avec les systèmes techniques de bâtiment connectés et d’autres appareils à l’intérieur du bâtiment, et d’être interopérables avec des systèmes techniques de bâtiment impliquant différents types de technologies brevetées, de dispositifs et de fabricants.",
+      "text_sha256": "8e81a8b0d8b3a70f709fda0577c79c0b56c0074b2fa3850aaea4385e6c005407",
+      "md_span": {
+        "start": 20895,
+        "end": 26382
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_9/20240608",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Performance énergétique d’une installation de combustion moyenne",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** Le présent article s’applique uniquement aux installations de combustion moyennes qui sont destinées exclusivement au chauffage du bâtiment.\n\n**(2)** Avant la mise en place d’une nouvelle installation de combustion moyenne et avant une transformation importante d’une installation de combustion moyenne, l’exploitant fait procéder à une évaluation du dimensionnement de l’installation par rapport aux exigences en matière de chauffage du bâtiment. L'évaluation du dimensionnement de l’installation ne doit pas être répétée dès lors qu'aucune transformation importante n'a été apportée entre-temps au système de chauffage ou en ce qui concerne les exigences en matière de chauffage du bâtiment.\n\nL'exploitant conserve une trace de cette évaluation.\n\nUne nouvelle installation de combustion moyenne doit être conçue de façon à ce que le système utilisé pour le chauffage de bâtiments, tels que le générateur de chaleur, le système de contrôle et la ou les pompes de circulation, correspond aux meilleures techniques disponibles en matière d’efficience énergétique.\n\n**(3)** Pour les installations de combustion moyennes existantes l’évaluation de la performance énergétique telle que visée par le paragraphe 2 se fait au cours de la première inspection requise.\n\nL’inspection comprend également le contrôle des systèmes utilisés pour le chauffage de bâtiments, tels que le générateur de chaleur, le système de contrôle et la ou les pompes de circulation.\n\nL’exploitant fait établir par un expert qualifié un rapport sur l’évaluation de la performance énergétique. Cette évaluation comprend des recommandations pour l’amélioration rentable de la performance énergétique de l’installation. Il conserve une trace de cette évaluation.\n\n**(4)** Les nouvelles installations de combustion moyennes sont exploitées de façon à ce que les rendements de combustion minimaux de l’annexe II, partie 2, soient respectés.\n\n**(5)** Les installations de combustion moyennes existantes sont exploitées de façon à ce que les rendements de combustion minimaux de l’annexe II, partie 1, soient respectés.\n\nAu plus tard le 1er janvier 2025, les installations de combustion moyennes existantes sont exploitées conformément au paragraphe 4.",
+      "text_sha256": "00b21b1b080415b394021efc9353ce927b92721d31d25f7927fb28d7b08511b7",
+      "md_span": {
+        "start": 26482,
+        "end": 28704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_10/20180504",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Contrôles et calibrages des dispositifs de mesure en continu",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "**(1)** L’exploitant d’une installation de combustion moyenne équipée d’un dispositif de mesure en continu doit faire :\n\n1. contrôler annuellement le bon fonctionnement des dispositifs de mesure en continu ;\n2. 1. une première fois avant leur mise en service\n2. le cas échéant chaque fois qu'un nouveau calibrage s'avère nécessaire ; sinon, tous les trois ans.\n\nCe contrôle doit être effectué par un organisme agréé.\n\nUn nouveau calibrage s'avère nécessaire chaque fois qu'une ou plusieurs des composantes du système de mesure est modifiée ou remplacée ou qu'une anomalie de fonctionnement est constatée.\n\n**(2)** Lorsque le contrôle annuel du fonctionnement des dispositifs de mesure en continu est positif, l’organisme agréé qui y a procédé transmet dans le mois qui suit le contrôle à l'exploitant un rapport de contrôle contenant toutes les informations requises par l'annexe VI et indiquant le bon fonctionnement du dispositif de mesure en continu.\n\nL’exploitant indique la date du contrôle dans le rapport annuel visé par l’article 12.\n\nLorsque le contrôle annuel du système de mesure en continu démontre des défauts, l’organisme agréé qui y a procédé indique les défauts dans le rapport de contrôle et informe dans la quinzaine l’exploitant et l'administration. L’information peut se faire sur base d'un formulaire électronique mis à disposition par l'administration.\n\n**(3)** En cas de défauts du système de mesure en continu, l’exploitant prend toute mesure nécessaire pour assurer le rétablissement du bon fonctionnement sans retard injustifié.",
+      "text_sha256": "c6b77f7515318830b9c0de6427a7b69412702662e5c569670f694682d016a36f",
+      "md_span": {
+        "start": 28802,
+        "end": 30356
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_11/20240608",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Transformations importantes et autres modifications apportées aux installations de combustion moyennes",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "L’exploitant informe, sans retard injustifié, l’administration de toute modification ou transformation importante prévue de l’installation de combustion moyenne qui serait susceptible d’avoir une incidence sur les valeurs limites d’émission et le rendement minimal applicables.\n\nL'administration actualise en conséquence l'enregistrement et en informe l’exploitant.",
+      "text_sha256": "ebac3a574985ba8882304f901ece7202ac3535caab170312e5e13c199577cd19",
+      "md_span": {
+        "start": 30496,
+        "end": 30861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_12/20180504",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Rapport annuel",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "L'exploitant est tenu de transmettre à l'administration pour le 1er mars au plus tard un rapport annuel contenant toutes les informations requises par l'annexe VII et relatives à l'année écoulée. La transmission peut se faire sur base d'un formulaire mis à disposition par l'administration.",
+      "text_sha256": "eb1a57092047cdb64b3704ade7dd81b9dde5e1b8d936e8d868d023ace68aff08",
+      "md_span": {
+        "start": 30913,
+        "end": 31203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_13/20240608",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Exigences relatives aux cheminées des installations de combustion moyennes",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "**(1)** Les émissions des cheminées des installations de combustion moyennes sont évacuées de façon que la diffusion dans l'air, circulant librement, soit garantie. Des caches sur les cheminées ne sont pas admissibles.\n\n**(2)** La hauteur minimale des hautes cheminées des installations visées au paragraphe 1er est déterminée soit par les méthodes décrites à l’annexe IV, soit par des méthodes qui fournissent des résultats d’une fiabilité équivalente.\n\n**(3)** Le présent article ne s’applique pas aux cheminées existantes des installations visées au paragraphe 1er, à l’exception de celles faisant partie d’installations subissant une transformation importante.",
+      "text_sha256": "9c64edd88062a6312a01ced20ed802111ad4da86a0052da6a08ee3fb9a39dea4",
+      "md_span": {
+        "start": 31315,
+        "end": 31979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_14/20180504",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Support électronique",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "La transmission des informations et la mise à disposition des documents prévus par le présent règlement peuvent se faire sous forme électronique.",
+      "text_sha256": "24ccd4b46737f4604e7855c77285bb52ff6332c1e7cd2433fd562f3c97e4d7de",
+      "md_span": {
+        "start": 32037,
+        "end": 32182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_15/20180504",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Modification du règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 20 MW b) aux installations de combustion alimentées en combustible gazeux d’une puissance nominale utile supérieure à 3 MW et inférieure à 20 MW",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "Le règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 20 MW b) aux installations de combustion alimentées en combustible gazeux d’une puissance nominale utile supérieure à 3 MW et inférieure à 20 MW est modifié comme suit :\n\n1. Règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW\n2. er er **(1)** Le présent règlement s’applique aux : 1. installations de combustion fixes alimentées en combustible solide à chargement manuel ou à chargement automatisé ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ;\n2. installations de combustion fixes alimentées en combustible liquide ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; quelle que soit l'affectation des locaux où sont comprises ces installations qui sont dénommées ci-après « installation(s) ».\n3. 1. « certificat de contrôleur pour chauffages » : l'habilitation conférée par le ministre ayant l*'*Environnement dans ses attributions, dénommé ci-après « ministre », à un candidat contrôleur pour les installations d'une puissance supérieure à 7 kW et inférieure à 1 MW visées par le règlement ;\n4. L’article 4, point 9 est supprimé.\n5. L’article 5, paragraphes 2 et 3 sont supprimés.\n6. Les articles 9, 11, 12 et 14 sont supprimés.\n7. Réception des installations ayant une puissance inférieure 1 MW\n8. Réception des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW\n9. er À l'exception des chauffages de locaux non raccordés au circuit de chauffage, les nouvelles installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW sont soumises, sur demande préalable d'une entreprise, à une réception.\n10. L’article 17 est supprimé.\n11. Inspection périodique des installations ayant une puissance supérieure à 7 kW et inférieure 1 MW\n12. Inspection périodique des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW\n13. er er **(1)** À l'exception des chauffages de locaux non raccordés au circuit de chauffage, l'exploitant d'une installation alimentée en combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW est tenu de faire procéder à une inspection périodique tous les deux ans.\n14. Les articles 19 et 20 sont supprimés.\n15. L’annexe VII est supprimée.\n16. Rapport de réception et rapport d’inspection périodique d‘une installation à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW\n17. er Le rapport de réception et le rapport d'inspection pour les installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW doivent contenir au minimum les données suivantes.\n18. Les annexes XII, XIII, XIV et XV sont supprimées.",
+      "text_sha256": "a8f229a64fc5a44522c9a2264c2bcb30c4af713c995b525a0182961c9f357765",
+      "md_span": {
+        "start": 32580,
+        "end": 35638
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2014/10/07/n1/jo",
+          "text": "règlement grand-ducal modifié du 7 octobre 2014"
+        },
+        {
+          "href": "???",
+          "text": "Règlement grand-ducal modifié du 7 octobre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_16/20180504",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Modification du règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "Le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz est modifié comme suit :\n\n1. **Valeurs de combustion des installations gaz.** **(1)** Les installations à gaz destinées au chauffage des locaux et au chauffage de l’eau sanitaire d’une puissance inférieure à 1 MW doivent être mises en place et exploitées de façon à ce que le rendement de combustion et la qualité de combustion répondent aux exigences indiquées aux annexes 4 et 5. **(2)** Tous les appareils à gaz d’une puissance inférieure à 1 MW doivent être mis en place et exploités de façon à ce que la qualité de combustion réponde aux exigences indiquées à l’annexe 5.\n2. aux installations qui ont une puissance totale supérieure ou égale à 1 MW ;\n3. 3000 kW 1000 kW",
+      "text_sha256": "74781d2fdc9feb51cb4246fac096be705ec44388dbf68792cebe180223af8ee2",
+      "md_span": {
+        "start": 35775,
+        "end": 36536
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_17/20180504",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Dispositions transitoires",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "**(1)** L’habilitation à la fonction de contrôleur pour les installations ayant une puissance supérieure à 7 kW et inférieure à 3 MW, obtenue avant l’entrée en vigueur du présent règlement, en vertu de l’article 18 du règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 20 MW b) aux installations de combustion alimentées en combustible gazeux d’une puissance nominale utile supérieure à 3 MW et inférieure à 20 MW respectivement en vertu de l’article 13 du règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz reste valable jusqu’à la date de son expiration.\n\n**(2)** Pour les installations qui sont en service au moment de l´entrée en vigueur du présent règlement et pour lesquelles la demande de réception a été introduite avant cette entrée en vigueur, les dispositions suivantes s’appliquent :\n\n1. règlement grand-ducal précité du 7 octobre 2014\n2. 1. règlement grand-ducal modifié du 27 février 2010\n2. règlement grand-ducal précité du 7 octobre 2014",
+      "text_sha256": "8438d579f46381d9d6c81ba5955d9c0e5aa43f6aafbafc82a82d3e72677b23c7",
+      "md_span": {
+        "start": 36599,
+        "end": 37734
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2014/10/07/n1/jo",
+          "text": "règlement grand-ducal modifié du 7 octobre 2014"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_18/20180504",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Intitulé de citation",
+      "path": [],
+      "article_valid_from": "2018-05-04",
+      "text_md": "La référence au présent règlement se fait sous la forme suivante : «*règlement grand-ducal du 24 avril 2018 relatif à la limitation des émissions en provenance des installations de combustion moyennes* ».",
+      "text_sha256": "2e103c2ed7104bf060bd352f6b6fd90740f3d47e4b5912772a440705f2b8eea2",
+      "md_span": {
+        "start": 37792,
+        "end": 37996
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "règlement grand-ducal du 24 avril 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/art_19/20240608",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Formule exécutoire",
+      "path": [],
+      "article_valid_from": "2024-06-08",
+      "text_md": "Notre Ministre de l'Environnement et Notre Ministre de l’Économie sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "9ec9fec26d6fad284419de03bd6d7a3d7356d2508f592e11e8f27fb6bfdf606f",
+      "md_span": {
+        "start": 38052,
+        "end": 38263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IINFORMATIONS À FOURNIR PAR L'EXPLOITANT DANS LE CADRE DEL'ENREGISTREMENT",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La puissance thermique nominale en MW de l'installation de combustion moyenne.\n2. Le type d'installation de combustion moyenne (moteur diesel, turbine à gaz, moteur à double combustible, autre moteur ou autre installation de combustion moyenne).\n3. Le type et la proportion de combustibles utilisés.\n4. La date de début d'exploitation de l'installation de combustion moyenne ou, lorsque la date exacte de début d'exploitation est inconnue, la preuve que l'exploitation a débuté avant le 20 décembre 2018.\n5. Le secteur d'activité de l'installation de combustion moyenne ou le bâtiment dans lequel elle est exploitée (code NACE).\n6. Le nombre prévu d'heures d'exploitation annuelles de l'installation de combustion moyenne et la charge moyenne en service.\n7. En cas de recours aux possibilités d’exemption prévues à l’article 6, paragraphes 2 et 3, une déclaration signée de l’exploitant aux termes de laquelle l’installation de combustion moyenne ne sera pas exploitée au-delà du nombre d’heures d’exploitation visé audit paragraphe.\n8. Le nom et le siège social de l'exploitant et, dans le cas des installations de combustion moyennes fixes, l'adresse du lieu où l'installation est implantée.\n9. Le calcul détaillé de la hauteur des cheminées. Dans le cas où une méthode alternative à celles proposées dans l’annexe IV a été utilisée, une preuve de fiabilité équivalente au sens de l’article 13 est à rajouter.",
+      "text_sha256": "0fdd14a27ef2cb7c92931b8d4a05cb719d2dd8aa5dad65e0e09a62b31c9e7f3e",
+      "md_span": {
+        "start": 38378,
+        "end": 39792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IIVALEURS LIMITES D’ÉMISSION VISÉES À L’ARTICLE 6 ET RENDEMENT MINIMAL VISÉ À L’ARTICLE 9",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Toutes les valeurs limites d’émission figurant dans la présente annexe sont définies pour une température de 273,15 K, une pression de 101,3 kPa et après correction en fonction de la teneur en vapeur d’eau des gaz résiduaires, et pour une teneur normalisée en O2 de 6 pour cent dans le cas des installations de combustion moyennes utilisant des combustibles solides, de 3 pour cent dans le cas des installations de combustion moyennes, autres que les moteurs et turbines à gaz, qui utilisent des combustibles liquides et gazeux et de 15 pour cent dans le cas des moteurs et des turbines à gaz.\n\nLes substances considérées comme biomasse liquide et les bioliquides sont énoncés à l’annexe VIII.\n\nLe rendement de combustion est exprimé et calculé par application de la méthode décrite à l’annexe IX.\n\nL’indice de suie est exprimé et mesuré par application de la méthode décrite à l’annexe X.\n\nPARTIE 1\n\n**Valeurs limites d’émission et rendement minimal pour les installations de combustion moyennes existantes**\n\n*Tableau 1*\n\nValeurs limites d’émission (en mg/Nm3) et rendement minimal pour les installations de combustion moyennes existantes dont la puissance thermique nominale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW, autres que les moteurs et les turbines à gaz\n\n| Valeur limite | Biomasse solide | Autres combustibles solides | Gasoil | Combustibles liquides autres que le gasoil | Gaz naturel | Combustibles gazeux autres que le gaz naturel |\n| --- | --- | --- | --- | --- | --- | --- |\n| Rendement(1) [pour cent] | 90 | 90 | 90 | 90 | 91 | 91 |\n| SO2 | 200(2)(3) | 1100 | - | 350 | - | 200(4) |\n| NOx | 375 | 375(5) | 200 | 250 | 150 | 150 |\n| CO | 225(6) | 225 | 1350 | 1350 | 50 | 50 |\n| Poussières | 30 | 30 | Indice de suie 1 | 30 | - | - |\n| COT(7) | - | 10 | - | 10 | - | 10 |\n| HF(8) | - | 2 | - | 2 | - | 2 |\n\n(1) Les valeurs s’appliquent uniquement aux installations de combustion moyennes qui sont destinées exclusivement au chauffage du bâtiment.\n\n(2) La valeur n’est pas applicable aux installations qui utilisent de la biomasse solide exclusivement ligneuse.\n\n(3) 300 mg/Nm3 dans le cas des installations utilisant de la paille.\n\n(4) 400 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant de fours à coke dans l’industrie du fer et de l’acier.\n\n(5) 160 mg/Nm3 dans le cas d’installations à lit fluidisé alimentées avec charbon.\n\n(6) 375 mg/Nm3 dans le cas des installations utilisant de la paille.\n\n(7) Composés organiques totaux exprimés en carbone.\n\n(8) Fluor et composés inorganiques du fluor exprimés en fluorure d’hydrogène (HF).\n\n*Tableau 2*\n\nValeurs limites d’émission (en mg/Nm3) et rendement minimal pour les installations de combustion moyennes existantes dont la puissance thermique nominale est supérieure à 5 MW, autres que les moteurs et les turbines à gaz\n\n| Valeur limite | Biomasse solide | Autres combustibles solides | Gasoil | Combustibles liquides autres que le gasoil | Gaz naturel | Combustibles gazeux autres que le gaz naturel |\n| --- | --- | --- | --- | --- | --- | --- |\n| Rendement(1) [pour cent] | 90 | 90 | 90 | 90 | 91 | 91 |\n| SO2 | 200(2)(3) | 400(4) | - | 350 | - | 35(5)(6) |\n| NOx | 375 | 375(7) | 200 | 250 | 150 | 150 |\n| CO | 225(8) | 225 | 80 | 80 | 50 | 50 |\n| Poussières | 30 | 30 | Indice de suie 1 | 30 | - | - |\n| COT(9) | - | 20 | - | 20 | - | 20 |\n| HF(10) | - | 2 | - | 2 | - | 2 |\n\n(1) Les valeurs s’appliquent uniquement aux installations de combustion moyennes qui sont destinées exclusivement au chauffage du bâtiment.\n\n(2) La valeur n’est pas applicable aux installations qui utilisent de la biomasse solide exclusivement ligneuse.\n\n(3) 300 mg/Nm3 dans le cas des installations utilisant de la paille.\n\n(4) 1100 mg/Nm3 dans le cas des installations dont la puissance thermique nominale est supérieure à 5 MW et inférieure ou égale à 20 MW.\n\n(5) 400 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant de fours à coke et 200 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant des hauts fourneaux, dans l’industrie du fer et de l’acier.\n\n(6) 170 mg/Nm3 dans le cas des biogaz.\n\n(7) 160 mg/Nm3 dans le cas d’installations à lit fluidisé alimentées avec charbon.\n\n(8) 375 mg/Nm3 dans le cas des installations utilisant de la paille.\n\n(9) Composés organiques totaux exprimés en carbone.\n\n(10) Fluor et composés inorganiques du fluor exprimés en fluorure d’hydrogène (HF).\n\n*Tableau 3*\n\nValeurs limites d’émission (en mg/Nm3) pour les moteurs et les turbines à gaz existants\n\n| Valeur limite | Type d’installation de combustion moyenne | Gasoil | Combustibles liquides autres que le gasoil | Gaz naturel | Combustibles gazeux autres que le gaz naturel |\n| --- | --- | --- | --- | --- | --- |\n| SO2 | Moteurs et turbines à gaz | - | 120 | - | 15(1)(2) |\n| NOx | Moteurs | 190(3)(4) | 190(3)(5) | 190(6) | 190(6) |\n| Turbines à gaz(7) | 200 | 200 | 150 | 150 |  |\n| Poussières | Moteurs et turbines à gaz | - | 10(8) | - | - |\n\n(1) 60 mg/Nm3 dans le cas des biogaz.\n\n(2) 130 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant de fours à coke 65 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant de hauts fourneaux, dans l’industrie du fer et de l’acier.\n\n(3) 1850 mg/Nm3 dans les cas suivants :\n\n1. pour les moteurs diesel dont la construction a débuté avant le 18 mai 2006 ;\n2. pour les moteurs à double combustible en mode liquide.\n\n(4) 250 mg/Nm3 dans le cas des moteurs dont la puissance thermique nominale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW.\n\n(5) 250 mg/Nm3 dans le cas des moteurs dont la puissance thermique nominale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW ; 225 mg/Nm3 dans le cas des moteurs dont la puissance thermique nominale est supérieure à 5 MW et inférieure ou égale à 20 MW.\n\n(6) 380 mg/Nm3 pour les moteurs à double combustible en mode gaz.\n\n(7) Les valeurs limites d’émission ne sont applicables qu’au-delà d’une charge de 70 pour cent.\n\n(8) 20 mg/Nm3 dans le cas des installations dont la puissance thermique nominale est supérieure ou égale à 1 MW et inférieure ou égale à 20 MW.\n\nPARTIE 2\n\n**Valeurs limites d’émission et rendement minimal pour les nouvelles installations de combustion moyennes**\n\n*Tableau 1*\n\nValeurs limites d’émission (en mg/Nm3) et rendement minimal pour les nouvelles installations de combustion moyennes autres que les moteurs et les turbines à gaz\n\n| Valeur limite | Biomasse solide | Autres combustibles solides | Gasoil | Combustibles liquides autres que le gasoil | Gaz naturel | Combustibles gazeux autres que le gaz naturel |\n| --- | --- | --- | --- | --- | --- | --- |\n| Rendement(1) [pour cent] | 90 | 90 | 91 | 91 | 91 | 91 |\n| SO2 | 200(2) | 400 | - | 350(3) | - | 35(4)(5) |\n| NOx | 300(6) | 300 | 200 | 250(7)(8) | 100 | 200 |\n| CO | 225 | 225 | 80 | 80 | 50 | 50 |\n| Poussières | 20(9) | 20 | Indice de suie 1 | 20(10) | - | - |\n| COT(11) | - | 3 | - | 3 | - | 3 |\n| HF(12) | - | 1 | - | 1 | - | 1 |\n\n(1) Les valeurs s’appliquent uniquement aux installations de combustion moyennes qui sont destinées exclusivement au chauffage du bâtiment.\n\n(2) La valeur n’est pas applicable dans le cas des installations qui utilisent de la biomasse solide exclusivement ligneuse.\n\n(3) Jusqu’au 1er janvier 2025, 1700 mg/Nm3 dans le cas des installations qui font partie de petits réseaux isolés ou de microréseaux isolés.\n\n(4) 200 mg/Nm3 dans le cas des gaz à faible valeur calorifique provenant de hauts fourneaux, dans l’industrie du fer et de l’acier.\n\n(5) 100 mg/Nm3 dans le cas des biogaz.\n\n(6) 500 mg/Nm3 dans le cas des installations à biomasse solide dont la puissance thermique nominale totale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW.\n\n(7) Jusqu’au 1er janvier 2025, 450 mg/Nm3 en cas d’utilisation de fiouls lourds contenant entre 0,2 et 0,3 pour cent de N et 360 mg/Nm3 en cas d’utilisation de fiouls lourds contenant moins de 0,2 pour cent de N dans le cas des installations qui font partie de petits réseaux isolés ou de microréseaux isolés.\n\n(8) 300 mg/Nm3 pour les bioliquides.\n\n(9) 30 mg/Nm3 dans le cas des installations à biomasse solide dont la puissance thermique nominale totale est supérieure ou égale à 1 MW et inférieure ou égale à 20 MW.\n\n(10) 30 mg/Nm3 dans le cas des installations fonctionnant aux bioliquides dont la puissance thermique nominale totale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW.\n\n(11) Composés organiques totaux exprimés en carbone.\n\n(12) Fluor et composés inorganiques du fluor exprimés en fluorure d’hydrogène (HF).\n\n*Tableau 2*\n\nValeurs limites d’émission (en mg/Nm3) pour les nouveaux moteurs et les nouvelles turbines à gaz\n\n| Valeur limite | Type d’installation de combustion moyenne | Gasoil | Combustibles liquides autres que le gasoil | Gaz naturel | Combustibles gazeux autres que le gaz naturel |\n| --- | --- | --- | --- | --- | --- |\n| SO2 | Moteurs et turbines à gaz | - | 120(1) | - | 15(2) |\n| NOx | Moteurs(3)(4) | 190(5) | 190(5)(6) | 95(7) | 190 |\n| Turbines à gaz(8) | 75 | 75(9) | 50 | 75 |  |\n| Poussières | Moteurs et turbines à gaz | - | 10(10)(11) | - | - |\n\n(1) Jusqu’au 1er janvier 2025, 590 mg/Nm3 pour les moteurs diesel qui font partie de petits réseaux isolés ou de microréseaux isolés.\n\n(2) 40 mg/Nm3 dans le cas des biogaz.\n\n(3) Les moteurs qui fonctionnent de 100 à 1 500 heures par an sont exemptés du respect de ces valeurs limites d’émission si des mesures primaires sont appliquées afin de réduire les émissions de NOx et de respecter les valeurs limites d’émission prévues dans la note 4.\n\n(4) Jusqu’au 1er janvier 2025 dans les petits réseaux isolés et les microréseaux isolés, 1850 mg/Nm3 pour les moteurs à double combustible en mode liquide et 380 mg/Nm3 en mode gazeux ; 1300 mg/Nm3 pour les moteurs diesel dont le régime est inférieur ou égal à 1200 tr/min et dont la puissance thermique nominale totale est inférieure ou égale à 20 MW et 1850 mg/Nm3 pour les moteurs diesel dont la puissance thermique nominale totale est supérieure à 20 MW ; 750 mg/Nm3 pour les moteurs diesel dont le régime est supérieur à 1200 tr/min.\n\n(5) 225 mg/Nm3 pour les moteurs à double combustible en mode liquide.\n\n(6) 225 mg/Nm3 pour les moteurs diesel dont la puissance thermique nominale totale est inférieure ou égale à 20 MW et dont le régime est inférieur ou égal à 1200 tr/min.\n\n(7) 190 mg/Nm3 pour les moteurs à double combustible en mode gaz.\n\n(8) Ces valeurs limites d’émission ne sont applicables qu’au-delà d’une charge de 70 pour cent.\n\n(9) Jusqu’au 1er janvier 2025, 550 mg/Nm3 pour les installations qui font partie de petits réseaux isolés ou de microréseaux isolés.\n\n(10) Jusqu’au 1er janvier 2025, 75 mg/Nm3 pour les moteurs diesel qui font partie de petits réseaux isolés ou de microréseaux isolés.\n\n(11) 20 mg/Nm3 dans le cas des installations dont la puissance thermique nominale totale est supérieure ou égale à 1 MW et inférieure ou égale à 5 MW alimentées en bioliquides.",
+      "text_sha256": "41d3cfc37240172f167d3b51b1543d0d3ea0f90fd33e4768ea093f27cb76f650",
+      "md_span": {
+        "start": 39923,
+        "end": 50875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IIISURVEILLANCE DES ÉMISSIONS ET DU RENDEMENT ET ÉVALUATION DE LA CONFORMITÉ",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "PARTIE 1\n\n**Surveillance des émissions et du rendement par l’exploitant**\n\n1. La surveillance et le mesurage des émissions de polluants et du rendement de combustion au cours des inspections se font dans les délais et périodicités prévus par l’article 7.\n\n2. Le mesurage des polluants est exigé uniquement pour :\n\n1. les polluants pour lesquels une valeur limite d’émission est établie par l’annexe II pour l’installation concernée ;\n2. le CO pour toutes les installations, nonobstant d’une valeur limite prévue par l’annexe II.\n\n3. Au lieu des mesures de SO2 visées aux points 1 et 2a, d’autres procédures vérifiées et approuvées par l’administration peuvent être utilisées pour déterminer les émissions de SO2.\n\n4. Le mesurage en continu est demandé si les seuils cités ci-dessous sont dépassés aux sources individuelles pendant au moins 10 pour cent du temps de fonctionnement de l’installation par année :\n\n| **Polluants à mesurer** | **Seuil** |\n| --- | --- |\n| Poussières(1) | 1 kg/h |\n| Poussières(2) | 3 kg/h |\n| SO2(3) | 30 kg/h |\n| NOx(4) | 30 kg/h |\n| CO | 5 kg/h |\n| Composés organiques totaux | 2,5 kg/h |\n| HF | 0,3 kg/h |\n\n(1) Contrôle qualitatif.\n\n(2) Contrôle quantitatif.\n\n(3) Si le dioxyde de soufre est mesuré en continu, le trioxyde de soufre est à mesurer lors du calibrage et à considérer par calcul.\n\n(4) Si la part de dioxyde d’azote est en dessous de 10 pour cent dans les émissions d’oxyde d’azote, le mesurage en continu du dioxyde d’azote n’est pas nécessaire. Son pourcentage est à considérer par calcul.\n\nLes systèmes de mesure automatisés sont contrôlés au moyen de mesures en parallèle selon les méthodes de référence dans les délais prévus par l’article 10.\n\n5. L’échantillonnage et l’analyse des substances polluantes ainsi que les mesures des paramètres d’exploitation, et les autres méthodes éventuellement utilisées, visées aux points 3 et 4, sont basés sur des méthodes qui livrent des résultats fiables, représentatifs et comparables. Les méthodes conformes aux normes EN harmonisées sont présumées remplir cette condition. Pendant chaque mesure, l’installation est exploitée dans des conditions stables, avec une charge représentative et homogène. Dans ce cadre, les phases de démarrage et d’arrêt sont exclues.\n\n**PARTIE 2**\n\nÉvaluation de la conformité\n\n1. Au cours des inspections, les valeurs limites d’émission visées à l’article 6 sont considérées comme respectées si les résultats de chacune des séries de mesures ne dépassent pas les valeurs limites d’émission applicables.\n\nAu cours des inspections, les rendements minimaux visés à l’article 9 sont considérés comme respectés si les résultats de chacune des séries de mesures atteignent au moins les rendements minimaux applicables.\n\n2. Modalités de mesurage :\n\n1. Les valeurs calculées des rejets de polluants sont déterminées en moyennes semi horaires. Dans la mesure du possible, les mesures sont effectuées à charge minimale, moyenne et à pleine charge ;\n2. Pour les mesures qui accompagnent le contrôle au cours des inspections, les valeurs limites d’émissions sont considérées comme respectées si aucune des moyennes déterminées au sens du point a) ne dépasse les valeurs limites respectives ;\n3. Des dispositifs de prélèvement facilement accessibles doivent être prévus sur chaque unité d’évacuation à un endroit approprié permettant la prise d’échantillons selon les règles de l’art. L’accès vers ces points de contrôle doit être aisément accessible et permettre des interventions en toute sécurité ;\n4. Dans la mesure du possible, les mesures pour le calcul du rendement de combustion sont effectuées à charge minimale, moyenne et à pleine charge ;\n5. Pour les mesures qui accompagnent le contrôle au cours des inspections, les rendements requis sont considérés comme respectés si aucune des valeurs déterminées au sens du point d) n’est inférieure aux valeurs minimales respectives.\n\n3. Dans le cas de mesures en continu du SO2, NOx, CO ou des poussières, la conformité avec les valeurs limites d’émission visées à l’article 6 est évaluée conformément à l’annexe V, partie 4, point 1 de la directive 2010/75/UE.\n\nLes valeurs moyennes validées sont déterminées conformément à l’annexe V, partie 3, points 9 et 10, de la directive 2010/75/UE.\n\nDans le cas de mesures en continu des composés organiques totaux ou du fluor et des composés inorganiques du fluor, les valeurs limites d’émission visées à l’article 6 sont respectées lorsque :\n\n- aucune des valeurs moyennes portant sur 24 heures d’exploitation normale ne dépasse les valeurs limites d’émissions ;\n- aucune des valeurs moyennes horaires n’est supérieure à 1,5 fois la valeur limite d’émission.\n\nLes valeurs moyennes portant sur 24 heures sont déterminées à partir d’une moyenne arithmétique calculée sur base des valeurs moyennes horaires. Une valeur moyenne horaire est déterminée à partir des valeurs mesurées pendant ladite heure en excluant les valeurs se trouvant en dehors de l’intervalle de confiance à 95 %. Il n’est pas tenu compte de toute journée pendant laquelle plus de trois valeurs horaires moyennes ont dû être invalidées en raison de pannes ou d’opérations d’entretien du système de mesure en continu. Si plus de dix jours par an doivent être écartés pour des raisons de ce genre, l’exploitant doit prendre des mesures adéquates pour améliorer la fiabilité du système de mesure automatisé.\n\n4. Aux fins du calcul des valeurs moyennes d’émission, il n’est pas tenu compte des valeurs mesurées durant les périodes visées à l’article 6, paragraphe 7, ni de celles mesurées durant les phases de démarrage et d’arrêt.",
+      "text_sha256": "186f6484ef76713bf59eda2dc471ec7e8e6d8072e3cfcbdbea449176ac3ccef2",
+      "md_span": {
+        "start": 50993,
+        "end": 56591
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2010/75/jo",
+          "text": "directive 2010/75/UE"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IVDÉTERMINATION DE LA HAUTEUR DES HAUTES CHEMINÉES",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1. Généralités**\n\nLes effluents gazeux sont à évacuer de telle façon que la diffusion dans l’air, circulant librement, soit garantie. Des couvertures sur les cheminées, empêchant cette diffusion, ne sont pas admissibles.\n\nSi l’application de cette annexe entraîne des hauteurs de cheminée différentes, la hauteur la plus élevée est à retenir.\n\nSur demande motivée, le ministre peut accorder une autre hauteur de cheminée si cette dernière garantit la diffusion des effluents gazeux dans l’air circulant librement et si la hauteur de la cheminée déterminée conformément au présent règlement serait disproportionnée.\n\n**2. Schéma de décision pour le calcul de la hauteur des cheminées**\n\n1. 1. aux installations de combustion moyennes ayant une puissance nominale totale supérieure ou égale à 1 MW et inférieure à 10 MW ;\n2. aux installations de combustion ayant une grandeur Q/S inférieure ou égale à 10.\n2. À l’exception des installations visées au point 2a)i), les points 4 à 7 s’appliquent aux installations de combustion ayant une grandeur Q/S supérieure à la valeur de 10.\n3. Si deux ou plusieurs installations forment un ensemble du fait de leur disposition sur le terrain, l’ensemble formé par ces installations est considéré comme une seule unité pour la détermination de la hauteur des cheminées.\n\nLes paramètres Q et S sont définis de manière suivante :\n\n| Q [kg/h] | débit massique du polluant atmosphérique ; |\n| --- | --- |\n| S | valeur selon le tableau « Valeurs S ». |\n\n**Tableau** : Valeurs S\n\n| Polluant | S |\n| --- | --- |\n| Poussière en suspens | 0,08 |\n| Monoxyde de carbone | 7,5 |\n| Oxydes de soufre (dioxydes et trioxydes de soufre), exprimé en dioxyde de soufre | 0,14 |\n| Oxydes d’azote, exprimés en dioxyde d’azote | 0,1 |\n| Composés organiques totaux | 0,1 |\n| HF | 0,0018 |\n\n**3. Méthode 1 pour la détermination de la hauteur des cheminées**\n\nLes effluents gazeux des installations de combustion s’effectuent en général au-dessus des toits, par une cheminée ou un conduit d’évacuation ayant une hauteur minimale de 10 mètres au-dessus du sol, dépassant le faîtage d’au moins 3m. Pour une inclinaison de la toiture de moins de 20°, la hauteur du faîtage se détermine selon la règle de 20° (point 4.1).\n\n**4. Méthode 2 pour la détermination de la hauteur des cheminées**\n\n**4.1. La règle de 20°**\n\nLes cheminées ont une hauteur minimale de 10 mètres au-dessus du sol et dépassent le faîtage d’au moins 3 m.\n\nPour une inclinaison de la toiture de moins de 20°, la hauteur du faîtage se détermine selon la règle de 20°.\n\nPour déterminer la hauteur du faîtage, la largeur du bâtiment (côté étroit) lc est à utiliser. Ainsi la hauteur de la cheminée H20° résulte de la somme de la hauteur du chéneau (hch), la hauteur du toit (ht) et le dépassement du faîtage de 3m :\n\navec\n\n| *H*20° | Hauteur de la cheminée en prenant comme base une toiture inclinée à 20° |\n| --- | --- |\n| *hch* | Hauteur du chéneau |\n| *ht* | Hauteur du faîtage moins la hauteur du chéneau |\n| *lc* | Largeur du bâtiment (côté étroit) |\n\nLa hauteur de la cheminée ne peut cependant pas dépasser le double de la hauteur du bâtiment.\n\n**Figure 1 : **Application de la règle de 20°.\n\n**4.2. Détermination graphique de la hauteur des hautes cheminées**\n\nSi plusieurs polluants atmosphériques sont émis, la hauteur de la cheminée se calculera sur la base de la substance pour laquelle la grandeur Q/S est la plus élevée.\n\nLes valeurs t, R et Q à introduire dans le nomogramme sont celles résultant d’une exploitation normale de l’installation, mais dans les conditions les plus défavorables en matière de la lutte contre la pollution atmosphérique.\n\nPour les émissions de monoxyde d’azote un taux de conversion de 60 sur 100 par rapport au dioxyde d’azote est à prendre base, c.à.d. que le débit massique du monoxyde d’azote est à multiplier par un facteur 0.92 et que la valeur Q résultante est à introduire en tant que débit massique pour le dioxyde d’azote dans le nomogramme (Figure 2).\n\n**Détermination de H’**\n\nLe paramètre H’ est déterminé au moyen de la figure 2.\n\n**Figure 2 : **Détermination de la hauteur de la cheminée\n\nAvec\n\n| H’ [m] | hauteur de la cheminée suivant la figure 2 ; |\n| --- | --- |\n| d [m] | diamètre intérieure de la cheminée ; |\n| t [°C] | température des effluents gazeux à la sortie de la cheminée ; |\n| R [m3/h] | débit volumétrique des effluents gazeux dans les conditions standard (0°C, 1013 mbar) et après déduction de l’humidité (état sec), sans conversion au taux d’oxygène de référence ; |\n| Q [kg/h] | débit massique du polluant atmosphérique ; |\n| S | paramètre selon le tableau « Valeurs S ». |\n\n**4.3. Considération des constructions et de la végétation**\n\nDans le cas d’une urbanisation close, existante ou admise par le plan d’aménagement ou d’une végétation close couvrant plus de 5 pour cent de la surface d’influence, un complément J est ajouté à la hauteur H’ déterminée par la méthode visée au point 4.2.\n\nLa surface d’influence est définie comme la surface se trouvant dans un rayon de 50 fois la hauteur de la cheminée H’ et où aux points d’immission la charge supplémentaire dépasse la valeur limite de longue durée de 3 pour cent. Pour les cheminées ayant une hauteur H’ de moins de 20 mètres, le rayon d’influence est d'1 km au moins.\n\nLa valeur J est exprimée en m et est déterminée à l’aide de la figure 3.\n\n**Figure 3 : **Détermination de la valeur J\n\nAvec\n\n| H [m] | hauteur de construction de la cheminée (H = H’ + J) ; |\n| --- | --- |\n| J’ [m] | hauteur moyenne au-dessus du sol des constructions closes et existantes ou admises suivant le plan d’aménagement ou de la végétation close. |\n\n**5. Considération de bâtiments hauts isolés**\n\nDans certains cas, des bâtiments hauts isolés peuvent empêcher que les effluents gazeux soient évacués dans l’air circulant librement. La hauteur de la cheminée est alors corrigée. Ceci vaut pour les bâtiments hauts situés dans l’axe des vents dominants par rapport à la cheminée. S’il n’y a pas de points d’immission pertinents à apprécier dans ces zones, une correction de la cheminée ne s’impose pas nécessairement.\n\nLa valeur ltp est calculée par la formule suivante :\n\nAvec\n\n| ltp | étendue horizontale de la zone de tourbillonnement proche ; |\n| --- | --- |\n| l | largeur du bâtiment haut perpendiculairement à la ligne centre du bâtiment – cheminée ; |\n| h | hauteur du bâtiment haut. |\n\nLa hauteur de la cheminée dépend de la zone et est calculée d’après les formules suivantes :\n\n- tp\n- tp ch\n\nLa hauteur de la cheminée H est celle dont la valeur entre Hs et HN est la plus haute.\n\n**Figure 4** : Détermination de la hauteur de la cheminée en considérant des bâtiments hauts isolés.\n\nAvec\n\n| H | hauteur de la cheminée ; |\n| --- | --- |\n| H20° | hauteur de la cheminée suivant la règle 20° ; |\n| Hs | hauteur de la cheminée corrigée ; |\n| HN | hauteur de la cheminée non corrigée ; |\n| x | distance entre le bâtiment haut et la cheminée ; |\n| ltp | étendue horizontale de la zone de tourbillonnement proche ; |\n| lch | étendue horizontale de la zone de considération pour la correction de la hauteur de la cheminée (lch = 5*ltp) ; |\n| l | largeur du bâtiment perpendiculairement à la ligne centre du bâtiment – cheminée ; |\n| h | hauteur du bâtiment haut. |\n\n**6. Considération de la topographie du terrain**\n\nLa détermination de la hauteur de la cheminée requiert de prendre en considération les caractéristiques du terrain dans le cas où l’installation est située dans une vallée ou dans le cas où des élévations du terrain gênent la propagation des émissions.\n\n**7. Considération de plusieurs cheminées**\n\nS’il en résulte plusieurs cheminées d’environ la même hauteur et émettant des effluents gazeux similaires, il est à vérifier dans quelle mesure ces émissions sont à regrouper pour la détermination de la hauteur de chaque cheminée.\n\nCette vérification est à effectuer notamment dans le cas où la distance horizontale entre les différentes cheminées est inférieure à 1,4 fois la hauteur de la cheminée et supérieure à 5 fois le diamètre de la cheminée. Dans ce cas, la hauteur de la cheminée est calculée en additionnant les différents débits massiques des différentes sources d’émission, et en conservant les autres paramètres.\n\nSi la distance horizontale entre les différentes cheminées est inférieure à 5 fois le diamètre de la cheminée, la hauteur de la cheminée est calculée en additionnant les différents débits massiques et les différents débits volumétriques des différentes sources d’émission et en supposant un diamètre fictif équivalent.\n\nSelon le cas, une évaluation spécifique est réalisée, s’il ne peut pas être exclu que les fumées des différentes sources pourraient se superposer.",
+      "text_sha256": "54c59bb85ec3a66c3e9cf3f84ae3483ae0ac10faadf915f35762889825b039d0",
+      "md_span": {
+        "start": 56683,
+        "end": 65382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_5",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_5",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VRAPPORT D'INSPECTION",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le rapport d’inspection pour les installations de combustion moyennes doit contenir au minimum les données suivantes :\n\n1. 1. Nom et adresse complète de l’exploitant ;\n2. Emplacement précis de l’installation ;\n3. Numéro d’identification de l’installation attribué par l’administration.\n2. 1. Résultats des mesures d’émission des différents polluants et du rendement de l’installation ;\n2. Hauteur et coordonnées géographiques (LUREF) des cheminées ;\n3. État d’opération de l’installation pendant les mesures ;\n4. Résultat global (conforme, non conforme).\n3. 1. Nom, adresse complète de l’organisme ;\n2. Nom, prénom de l’inspecteur responsable ;\n3. Signature de l’inspecteur responsable ;\n4. Observations de l’inspecteur.",
+      "text_sha256": "4a9070d0b15a1a07c89f5142bffddf7c61c1901c302f18e90ba72df275ca74fb",
+      "md_span": {
+        "start": 65445,
+        "end": 66165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_6",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_6",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIRAPPORT DE CONTRÔLE ET DE CALIBRAGE DES SYSTÈMES DE MESURE EN CONTINU",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le rapport de contrôle et de calibrage des systèmes de mesure en continu doit contenir au minimum les informations suivantes :\n\n1. 1. Nom et adresse complète de l'exploitant ;\n2. 1. Polluant(s) mesuré(s) ;\n2. Année de construction ;\n3. Date de mise en service ;\n4. Date du dernier calibrage.\n3. 1. Gaz de calibration ;\n2. Fabricant ;\n3. Concentration ;\n4. Date de production ;\n5. Date de validité.\n4. 1. Résultat global (conforme, non-conforme).\n5. 1. Nom, adresse et code de la personne agréée ;\n2. Nom, prénom et code de l'agent ;\n3. Signature de l'agent.",
+      "text_sha256": "cc9951e540ba2ce8bd15b54d18d89377b1697c5bb69ffadf177b3b306b4d96f1",
+      "md_span": {
+        "start": 66278,
+        "end": 66835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_7",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_7",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIIRAPPORT ANNUEL",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le rapport annuel tel que prévu par l’article 12 doit contenir au minimum les informations suivantes :\n\n1. Nom et adresse complète de l’exploitant\n2. 1. Heures d’exploitation de l’installation par an (h/a) ;\n2. En cas de recours aux possibilités d’exemption prévues à l’article 6, paragraphe 2, alinéa 3 et paragraphe 3, alinéa 3, une preuve détaillant les raisons pour lesquelles les installations de combustion moyennes ont été exploitées au-delà de 100 heures d’exploitation ;\n3. 3\n4. Estimation de consommation pour l’année à venir ;\n5. 2\n6. Mesures envisagées à réduire les émissions des polluants ;\n7. Toutes perturbations de fonctionnement de l’installation ayant un effet négatif sur les émissions des polluants ;\n8. Date du contrôle et du calibrage du dispositif de mesurage en continu ;\n9. - le nombre des moyennes journalières dépassant la valeur limite ;\n- le nombre des moyennes horaires dépassant 1,5 fois la valeur limite.",
+      "text_sha256": "e3713203ec3ce73e39ce9bd792a98b836b19dfe37be395bb8569a2a21aadec43",
+      "md_span": {
+        "start": 66894,
+        "end": 67831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_8",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_8",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIIIBIOMASSE SOLIDE ET BIOLIQUIDES",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans les installations de combustion moyenne, la biomasse solide et les bioliquides suivants peuvent être utilisés comme combustible, sous réserve que le constructeur les a déclarés compatibles pour l'installation concernée :\n\n1. La biomasse solide dont question à l’article 3, point 3a) est la suivante :\n\n1. bois en morceau non traité et avec ou sans écorce sous forme de bûches de bois, plaquettes, brindilles, copeaux et copeaux de laminage ;\n2. bois non traité sous forme de sciures de bois, poussières ou écorce ;\n3. comprimés de bois non traité sous forme de briquettes ou sous forme de pellets qui ont été fabriqués exclusivement à l'aide d'un adhésif naturel ;\n4. pailles ou autres substances végétales et, le cas échéant, des comprimés à base de pailles ou d'autres substances végétales.\n\nLe taux d'humidité résiduelle des combustibles visés doit être inférieur à 25 pour cent.\n\nPar dérogation, sont exclues de cette limite les installations à chargement automatique qui sont conçues par le constructeur pour un taux d'humidité supérieur à 25 pour cent.\n\n2. Sous bioliquides le présent règlement entend les combustibles suivants :\n\n1. Biométhanol ;\n2. Éthanol ;\n3. Huiles végétales en état naturel et les méthylester d’huiles végétaux ;\n4. Huiles végétales usagées et les méthylester d’huiles végétales.\n\nSeuls les bioliquides pour lesquels il est certifié, au sens du règlement grand-ducal du 27 février 2011 fixant les critères de durabilité pour les biocarburants et les bioliquides qu'ils respectent les critères de durabilité y prévus, peuvent être utilisés comme combustible.",
+      "text_sha256": "1892cc6db4cd502b64b83264796124bc2299fad2571bfe8ec0d463dba5c9d459",
+      "md_span": {
+        "start": 67907,
+        "end": 69498
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/02/27/n1/jo",
+          "text": "règlement grand-ducal du 27 février 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_9",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_9",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IXRENDEMENT DE COMBUSTION",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La formule pour le calcul du rendement de combustion d’après la méthode du mesurage CO2 est la suivante :\n\navec\n\n|  | le rendement, |\n| --- | --- |\n| *t*A | la température des gaz de combustion en °C, |\n| *t*L | la température de l’air de combustion en °C mesurée au niveau de l’entrée d’aération du brûleur, |\n| *CO*2 | le dioxyde de carbone en % volume mesuré. |\n\n|  | Gasoil, bioliquides | Gaz naturel, biogaz | Gaz de pétrole liquéfié |\n| --- | --- | --- | --- |\n| *A*1 | 0.50 | 0.37 | 0.42 |\n| *B* | 0.007 | 0.009 | 0.008 |\n\n2. La formule pour le calcul de rendement de combustion d’après la méthode de mesurage O2 est la suivante :\n\navec\n\n|  | le rendement, |\n| --- | --- |\n| *t*A | la température des gaz de combustion en °C, |\n| *t*L | la température de l’air de combustion en °C mesurée au niveau de l’entrée d’aération du brûleur, |\n| *O*2 | l’oxygène en % volume mesuré, |\n\n| Biomasse solide |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Taux d’humidité | 0 % | 10 % | 20 % | 30 % | 40 % | 50 % |\n| *A*1 | 0.6572 | 0.6682 | 0.6824 | 0.7017 | 0.7290 | 0.7709 |\n| *B* | 0.0083 | 0.0107 | 0.0125 | 0.0149 | 0.0183 | 0.0235 |\n\n|  | Gasoil, bioliquides | Gaz naturel, biogaz | Gaz de pétrole liquéfié |\n| --- | --- | --- | --- |\n| *A*1 | 0.68 | 0.66 | 0.63 |\n| *B* | 0.007 | 0.009 | 0.008 |",
+      "text_sha256": "54a12097a91d6aca64b84e0bc0fd45e3838242fca6d524457a8098b7235121f4",
+      "md_span": {
+        "start": 69565,
+        "end": 70884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_10",
+      "provision_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08--dc62260e453bb3fdf8c59336663fe221f2c66c5546f13eb966573127e99f56f7#attachment_10",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XINDICE DE SUIE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’indice de suie est déterminé d’après la méthode suivante :\n\nUne minute après l’allumage du brûleur, une quantité bien définie (1) de gaz de combustion est prise pendant un temps déterminé (2) dans le noyau de flux de ce dernier et aspirée (3) au travers d’une sonde placée face au flux (4) elle-même reliée à un appareil d’aspiration muni d’un papier filtre (5). Le papier filtre exposé (6) est examiné qualitativement en vue de déceler la présence éventuelle de particules huileuses (7) et le noircissement du filtre est comparé (8) à une échelle de comparaison des gris du type Bacharach (9).\n\nSignification de :\n\n1. 5.75 + 0.25 Nl (litre normal) par cm2 de surface efficace de papier filtre.\n2. Durée de chaque prélèvement : maximum 5 minutes.\n3. Le dispositif de prélèvement doit être conçu de telle manière que - la température, à l’avant et au niveau du filtre, ne soit pas inférieure au point de condensation ;\n- seuls des dépôts négligeables de substances solides apparaissent en avant du filtre.\n4. Les points suivants doivent être observés lors des mesures de fumée : 1. sur le parcours, où s’effectue la mesure, le flux doit être régulier ;\n2. sur le parcours, l’état du flux ne doit pas être modifié par la prise d’échantillons ;\n3. - il faut utiliser comme sonde de prélèvement, un tuyau de métal courbe à l’angle droit aux parois minces (épaisseur inférieure à 1 mm) avec une embouchure aux parois amincies comme une lame ;\n- pendant le prélèvement, la vitesse d’aspiration (au niveau de l’embouchure de la sonde) doit toujours être 2 à 3 fois supérieure à la vitesse moyenne du gaz de combustion, exprimé perpendiculairement au plan de mesure. Celle-ci peut être calculée à partir de la capacité de chauffage de l’installation, l’excédent d’air, la pression et la température du gaz de combustion ainsi que la surface du plan de mesure (générale 1 à 3 m/s).\n5. Filtre blanc de cellulose avec une capacité de réflexion de 85 – 0.25 %.\n6. Pour que le papier filtre exposé puisse être utilisé dans de bonnes conditions pour la détermination de la qualité de suie, les points suivants sont nécessaires : - il ne doit pas avoir été humecté par la condensation ou altéré dans sa couleur par l’échauffement ;\n- il devra être noirci régulièrement sur toute la surface.\n7. Outre la suie, on ne doit déceler ou sentir sur le papier-filtre exposé ni huile, ni particules incomplètement brûlées.\n8. Soit par comparaison visuelle directe du papier filtre avec l’échelle des gris, soit avec un photomètre étalonné au moyen de l’échelle des gris.\n9. « échelle de comparaison des gris »",
+      "text_sha256": "1e47081316f36abf954ffe0819be09323869914f531384753ef9047c6dd4e7e9",
+      "md_span": {
+        "start": 70942,
+        "end": 73529
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

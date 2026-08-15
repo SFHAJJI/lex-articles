@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/2160 of 27\u00A0October 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-10-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2160/versions/2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a/fr.xml",
+    "sha256": "a350f13b375d6049d8add3dc28302b12a2421edf6d87b491c5156b02ba4db4db",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2160"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes normes de référence mentionnées à l’article 19 bis, paragraphe 2, du règlement (UE) no 910/2014 figurent à l’annexe du présent règlement.",
+      "text_sha256": "91a577e6dcc757a5f9847b59cd16cb1ac316b944be5fd2139e3ab36b29ac3bc5",
+      "md_span": {
+        "start": 748,
+        "end": 906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les procédures de gestion des risques visées à l’article 19 bis, paragraphe 1, du règlement (UE) no 910/2014 déterminent clairement les services de confiance auxquels elles s’appliquent, sont spécifiques aux services de confiance concernés et sont approuvées par l’organe de direction du prestataire de services de confiance non qualifié.\n\n2. Les procédures de gestion des risques comprennent au moins l’ensemble des éléments suivants:\n\n| a) | le niveau global de tolérance au risque en fonction de la criticité et du niveau de sécurité requis des services de confiance, compte tenu des dernières évolutions technologiques; |\n| --- | --- |\n\n| b) | les critères de risque pertinents, comprenant au moins la probabilité, l’incidence et le niveau du risque, compte tenu des renseignements sur les cybermenaces et des vulnérabilités; |\n| --- | --- |\n\n| c) | une méthode pour l’identification et la documentation des risques liés à la fourniture des services de confiance, tenant compte de l’ensemble du champ d’activité du système d’information utilisé par le prestataire de services de confiance non qualifié, y compris les risques associés aux composantes du système ainsi qu’à toute partie active ou passive participant à la mise en œuvre du système ou à la fourniture des services de confiance; |\n| --- | --- |\n\n| d) | un processus d’évaluation des risques identifiés sur la base des critères de risque visés au point b); |\n| --- | --- |\n\n| e) | un processus d’identification, de hiérarchisation et de suivi continu de la mise en œuvre des mesures de traitement du risque appropriées; |\n| --- | --- |\n\n| f) | un processus de suivi continu de la mise en œuvre des procédures de gestion des risques. |\n| --- | --- |\n\n3. Les prestataires de services de confiance non qualifiés établissent des procédures appropriées et conservent des documents permettant de garantir la mise en œuvre des exigences énoncées dans la législation applicable.\n\n4. Les prestataires de services de confiance non qualifiés établissent des procédures documentées et appropriées pour assurer le suivi des modifications législatives et réglementaires au niveau national et de l’Union susceptibles d’avoir une incidence sur la fourniture des services de confiance.",
+      "text_sha256": "d924825965efcea47385f55b79e0552d957d5e83a2f51ff96439b03a7af0b17d",
+      "md_span": {
+        "start": 939,
+        "end": 3186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes prestataires de services de confiance non qualifiés identifient, documentent et évaluent tous les risques visés à l’article 19 bis, paragraphe 1, du règlement (UE) no 910/2014 conformément aux procédures de gestion des risques visées à l’article 2, et notamment:\n\n| a) | ils identifient les risques à l’égard des tiers; |\n| --- | --- |\n\n| b) | ils identifient les points uniques de défaillance potentiels dans la fourniture des services de confiance; |\n| --- | --- |\n\n| c) | ils évaluent les risques identifiés sur la base des critères de risque visés à l’article 2, paragraphe 2, point b). |\n| --- | --- |",
+      "text_sha256": "144e385220ffae61ae8c0b842e15b7deafbf0290ba9b2f188d447c092b11055e",
+      "md_span": {
+        "start": 3219,
+        "end": 3840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Conformément aux procédures visées à l’article 2, les prestataires de services de confiance non qualifiés planifient, documentent et mettent en œuvre des mesures de traitement du risque et effectuent notamment les tâches suivantes:\n\n| a) | ils déterminent et hiérarchisent les mesures qu’il convient d’appliquer en matière de traitement des risques; |\n| --- | --- |\n\n| b) | ils sélectionnent, approuvent et documentent les mesures de traitement du risque choisies, comprenant leurs exigences de sécurité et procédures opérationnelles, dans un plan de traitement du risque, et déterminent qui est responsable de la mise en œuvre des mesures de traitement du risque et à quel moment elles doivent être mises en œuvre; |\n| --- | --- |\n\n| c) | ils suivent en continu la mise en œuvre des mesures de traitement du risque. |\n| --- | --- |\n\n2. Le plan de traitement du risque visé au paragraphe 1, point b), indique les motifs justifiant l’acceptation des risques résiduels de manière compréhensible.\n\n3. Dans le cadre des mesures de traitement du risque visées au paragraphe 1, les prestataires de services de confiance non qualifiés:\n\n| a) | vérifient, le cas échéant, l’identité des utilisateurs du service de confiance, directement ou par l’intermédiaire d’un tiers, et publient des informations sur les méthodes de vérification d’identité utilisées; |\n| --- | --- |\n\n| b) | enregistrent et conservent en lieu sûr, aussi longtemps que le prévoient le droit de l’Union ou le droit national, y compris après la cessation des activités du prestataire de services de confiance non qualifié, les informations suivantes, pour s’en servir comme preuve en justice et assurer la continuité du service:—toutes les informations pertinentes recueillies dans le cadre du processus d’enregistrement et d’enrôlement des utilisateurs de services de confiance, y compris, le cas échéant, la vérification d’identité des utilisateurs,—les données d’authentification assignées à l’utilisateur du service de confiance, le cas échéant, et—tout changement de statut des certificats de clé publique ou de tout autre matériel cryptographique utilisé dans la fourniture du service de confiance; |\n| --- | --- |\n| — | toutes les informations pertinentes recueillies dans le cadre du processus d’enregistrement et d’enrôlement des utilisateurs de services de confiance, y compris, le cas échéant, la vérification d’identité des utilisateurs, |\n| — | les données d’authentification assignées à l’utilisateur du service de confiance, le cas échéant, et |\n| — | tout changement de statut des certificats de clé publique ou de tout autre matériel cryptographique utilisé dans la fourniture du service de confiance; |\n\n| c) | veillent, le cas échéant, à ce que les données d’authentification assignées à l’utilisateur du service de confiance soient uniques. |\n| --- | --- |\n\n4. Lorsqu’ils identifient, sélectionnent, approuvent et hiérarchisent les mesures de traitement du risque appropriées, les prestataires de services de confiance non qualifiés tiennent compte des éléments suivants:\n\n| a) | les résultats de l’évaluation visée à l’article 3; |\n| --- | --- |\n\n| b) | l’efficacité des mesures de traitement du risque; |\n| --- | --- |\n\n| c) | les évaluations de la conformité; |\n| --- | --- |\n\n| d) | les incidents importants; |\n| --- | --- |\n\n| e) | le coût de la mise en œuvre par rapport à l’avantage escompté; |\n| --- | --- |\n\n| f) | le classement approprié des actifs applicable; |\n| --- | --- |\n\n| g) | l’analyse des incidences éventuelles des risques identifiés conformément à l’article 3 sur l’activité économique. |\n| --- | --- |\n\n5. Les organes de direction des prestataires de services de confiance non qualifiés approuvent les risques résiduels qui subsistent après la mise en œuvre des mesures de traitement du risque prévues dans le plan de traitement du risque.\n\n6. Les prestataires de services de confiance non qualifiés réexaminent, documentent et, le cas échéant, mettent à jour les résultats de l’évaluation des risques et le plan de traitement du risque à intervalles prédéfinis, et au moins une fois par an, ainsi qu’en cas de changements importants dans l’infrastructure, les opérations ou les risques, ou d’incidents importants.\n\n7. Les prestataires de services de confiance non qualifiés veillent à la disponibilité, à l’intégrité et à la confidentialité des informations visées au paragraphe 3, point b).",
+      "text_sha256": "c0f003f16555ca186c8dec983a69112f992d5ae22f172e220389a08ace15bf34",
+      "md_span": {
+        "start": 3873,
+        "end": 8283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r2160:2025-10-27--3972d66a4d04e1510c4fd99934c0d3077f8b62138810a858beab61a677c5cc8a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "cd76bcb06b3749ee07344597c203b833ceef616295f0ff30b84c22a1ad223fec",
+      "md_span": {
+        "start": 8316,
+        "end": 8457
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2446:2017-12-19--63575c67020033549c203b12786de49d72c99845e8dd6deb4be7b2ce28421504",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/2446 of 19 December 2017 amending Implementing Regulation (EU) 2016/1368 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011",
+  "valid_from": "2017-12-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2446/versions/2017-12-19--63575c67020033549c203b12786de49d72c99845e8dd6deb4be7b2ce28421504/en.xml",
+    "sha256": "387f18a813832ce2d947246ac0ab732d0a33946630c863d03463fbc325ee43c3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2446"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2446:2017-12-19--63575c67020033549c203b12786de49d72c99845e8dd6deb4be7b2ce28421504#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Implementing Regulation (EU) 2016/1368 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "a8450646c7cd9275af0c69071bc0f6d1110edb506c2a5c3c1150a9a3c6ecc4c7",
+      "md_span": {
+        "start": 835,
+        "end": 954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2446:2017-12-19--63575c67020033549c203b12786de49d72c99845e8dd6deb4be7b2ce28421504#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 987,
+        "end": 1128
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,311 @@
+---
+lex_id: 'eu-eurlex:32017l0593:2022-11-22--b7761cd6dfc4e164c59391825890c02bba6d8de100ab2b2702c3371beb6d5ff6'
+title: 'Commission Delegated Directive (EU) 2017/593 of 7 April 2016 supplementing Directive 2014/65/EU'
+valid_from: '2022-11-22'
+valid_to: '2026-06-05'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017L0593-20221122'
+source_sha256: '95edc952529f989aa29db96005d5105c7aed8b7b05b2239e19487c26066db878'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I — SCOPE
+
+<a id="art_1"></a>
+
+### Article 1 — Scope and definitions
+
+**1.** This Directive shall apply to investment firms, to management companies in accordance with Article 6(4) of Directive 2009/65/EC of the European Parliament and of the Council (1) and to alternative investment fund managers in accordance with Article 6(6) of Directive 2011/61/EU of the European Parliament and of the Council (2).
+
+**2.** For the purposes of Chapters II, III and IV of this Directive, references to investment firms and financial instruments shall include credit institutions and structured deposits in relation to all the requirements referred to in Article 1(3) and (4) of Directive 2014/65/EU.
+
+**3.** ‘securities financing transaction’ means transactions as defined in Article 3 point (11) of Regulation (EU) 2015/2365 of the European Parliament and of the Council (3) on transparency of securities financing transactions and of reuse.
+
+**4.** ‘qualifying money market fund’ means a collective investment undertaking authorised under Directive 2009/65/EC, or which is subject to supervision and, if applicable, authorised by an authority under the national law of the authorising Member State, and which satisfies all of the following conditions:(a) its primary investment objective must be to maintain the net asset value of the undertaking either constant at par (net of earnings), or at the value of the investors' initial capital plus earnings;(b) it must, with a view to achieving that primary investment objective, invest exclusively in high quality money market instruments with a maturity or residual maturity of no more than 397 days, or regular yield adjustments consistent with such a maturity, and with a weighted average maturity of 60 days. It may also achieve this objective by investing on an ancillary basis in deposits with credit institutions;(c) it must provide liquidity through same day or next day settlement.
+
+For the purposes of point (b), a money market instrument shall be considered to be of high quality if the management/investment company performs its own documented assessment of the credit quality of money market instruments that allows it to consider a money market instrument as high quality. Where one or more credit rating agencies registered and supervised by ESMA have provided a rating of the instrument, the management/investment company's internal assessment should have regard to, inter alia, those credit ratings.
+
+**5.** ‘sustainability factors’ means sustainability factors as defined in Article 2, point (24), of Regulation (EU) 2019/2088 of the European Parliament and of the Council (4).
+
+## CHAPTER II — SAFEGUARDING OF CLIENT FINANCIAL INSTRUMENTS AND FUNDS
+
+<a id="art_2"></a>
+
+### Article 2 — Safeguarding of client financial instruments and funds
+
+**1.** Member States shall require that investment firms comply with the following requirements:(a) they must keep records and accounts enabling them at any time and without delay to distinguish assets held for one client from assets held for any other client and from their own assets;(b) they must maintain their records and accounts in a way that ensures their accuracy, and in particular their correspondence to the financial instruments and funds held for clients and that they may be used as an audit trail;(c) they must conduct, on a regular basis, reconciliations between their internal accounts and records and those of any third parties by whom those assets are held;(d) they must take the necessary steps to ensure that any client financial instruments deposited with a third party, in accordance with Article 3, are identifiable separately from the financial instruments belonging to the investment firm and from financial instruments belonging to that third party, by means of differently titled accounts on the books of the third party or other equivalent measures that achieve the same level of protection;(e) they must take the necessary steps to ensure that client funds deposited, in accordance with Article 4, in a central bank, a credit institution or a bank authorised in a third country or a qualifying money market fund are held in an account or accounts identified separately from any accounts used to hold funds belonging to the investment firm;(f) they must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of client assets, or of rights in connection with those assets, as a result of misuse of the assets, fraud, poor administration, inadequate record-keeping or negligence.
+
+**2.** If, for reasons of the applicable law, including in particular the law relating to property or insolvency, investment firms cannot comply with paragraph 1 of this Article to safeguard clients' rights to satisfy the requirements of Article 16(8) and (9) of Directive 2014/65/EU, Member States shall require that investment firms put in place arrangements to ensure that clients' assets are safeguarded to meet the objectives of paragraph 1 of this Article.
+
+**3.** If the applicable law of the jurisdiction in which the client funds or financial instruments are held prevents investment firms from complying with points (d) or (e) of paragraph 1, Member States shall prescribe requirements which have an equivalent effect in terms of safeguarding clients' rights.
+
+When relying on such equivalent requirements under Article 2(1)(d) or (e), Member States shall ensure that investment firms inform clients that in such instances they do not benefit from the provisions envisaged under Directive 2014/65/EU and this Directive.
+
+**4.** Member States shall ensure that security interests, liens or rights of set-off over client financial instruments or funds enabling a third party to dispose of client's financial instruments or funds in order to recover debts that do not relate to the client or provision of services to the client are not permitted except where this is required by applicable law in a third country jurisdiction in which the client funds or financial instruments are held
+
+Member States shall require investment firms, where the firm is obliged to enter into agreements that create such security interests, liens or rights of set-off, to disclose that information to clients indicating to them the risks associated with those arrangements.
+
+Where security interests, liens or rights of set-off are granted by the firm over client financial instruments or funds, or where the firm has been informed that they are granted, they shall be recorded in client contracts and the firm's own accounts to make the ownership status of client assets clear, such as in the event of an insolvency.
+
+**5.** Member States shall require that investment firms make information pertaining to clients' financial instruments and funds readily available to the following entities: competent authorities, appointed insolvency practitioners and those responsible for the resolution of failed institutions. The information to be made available shall include the following:(a) related internal accounts and records that readily identify the balances of funds and financial instruments held for each client;(b) where client funds are held by investment firms in accordance with Article 4, details on the accounts in which client funds are held and on the relevant agreements with those firms;(c) where financial instruments are held by investment firms in accordance with Article 3, details on the accounts opened with third parties and on the relevant agreements with those third parties, as well as details on the relevant agreements with those investment firms;(d) details of third parties carrying out any related (outsourced) tasks and details of any outsourced tasks(e) key individuals of the firm involved in related processes, including those responsible for oversight of the firm's requirements in relation to the safeguarding of client assets; and(f) agreements relevant to establish client ownership over assets.
+
+<a id="art_3"></a>
+
+### Article 3 — Depositing client financial instruments
+
+**1.** Member States shall allow investment firms to deposit financial instruments held by them on behalf of their clients into an account or accounts opened with a third party provided that the firms exercise all due skill, care and diligence in the selection, appointment and periodic review of the third party and of the arrangements for the holding and safekeeping of those financial instruments.
+
+In particular, Member States shall require investment firms to take into account the expertise and market reputation of the third party as well as any legal requirements related to the holding of those financial instruments that could adversely affect clients' rights.
+
+**2.** Where an investment firm proposes to deposit client financial instruments with a third party, Member States shall ensure that this investment firm only deposits financial instruments with a third party in a jurisdiction where the safekeeping of financial instruments for the account of another person is subject to specific regulation and supervision and that third party is subject to this specific regulation and supervision.
+
+**3.** Member States shall ensure that investment firms do not deposit financial instruments held on behalf of clients with a third party in a third country that does not regulate the holding and safekeeping of financial instruments for the account of another person unless one of the following conditions is met:(a) the nature of the financial instruments or of the investment services connected with those instruments requires them to be deposited with a third party in that third country;(b) where the financial instruments are held on behalf of a professional client, that client requests the firm in writing to deposit them with a third party in that third country.
+
+**4.** Member States shall ensure the requirements under paragraph 2 and 3 shall also apply when the third-party has delegated any of its functions concerning the holding and safekeeping of financial instruments to another third-party.
+
+<a id="art_4"></a>
+
+### Article 4 — Depositing client funds
+
+**1.** Member States shall require investment firms, on receiving any client funds, promptly to place those funds into one or more accounts opened with any of the following:(a) a central bank;(b) a credit institution authorised in accordance with Directive 2013/36/EU of the European Parliament and of the Council (5);(c) a bank authorised in a third country;(d) a qualifying money market fund.
+
+The first subparagraph shall not apply to a credit institution authorised under Directive 2013/36/EU in relation to deposits within the meaning of that Directive held by that institution.
+
+**2.** Member States shall require that, where investment firms do not deposit client funds with a central bank, they exercise all due skill, care and diligence in the selection, appointment and periodic review of the credit institution, bank or money market fund where the funds are placed and the arrangements for the holding of those funds and they consider the need for diversification of these funds as part of their due diligence.
+
+Member States shall ensure, in particular, that investment firms take into account the expertise and market reputation of such institutions or money market funds with a view to ensuring the protection of clients' rights, as well as any legal or regulatory requirements or market practices related to the holding of client funds that could adversely affect clients' rights.
+
+Member States shall require that investment firms ensure that clients give their explicit consent to the placement of their funds in a qualifying money market fund. In order to ensure this right to consent is effective, investment firms shall inform clients that funds placed with a qualifying money market fund will not be held in accordance with the requirements for safeguarding client funds set out in this Directive.
+
+**3.** Member States shall require that, where investment firms deposit client funds with a credit institution, bank or money market fund of the same group as the investment firm, they limit the funds that they deposit with any such group entity or combination of any such group entities so that funds do not exceed 20 % of all such funds.
+
+An investment firm may not comply with this limit where it is able to demonstrate that, in view of the nature, scale and complexity of its business, and also the safety offered by the third parties considered in the previous subparagraph, and including in any case the small balance of client funds the investment firm holds the requirement under the previous paragraph is not proportionate. Investment firms shall periodically review the assessment made in accordance with this subparagraph and shall notify their initial and reviewed assessments to NCAs.
+
+<a id="art_5"></a>
+
+### Article 5 — Use of client financial instruments
+
+**1.** Member States shall not allow investment firms to enter into arrangements for securities financing transactions in respect of financial instruments held by them on behalf of a client, or otherwise use such financial instruments for their own account or the account of any other person or client of the firm, unless both of the following conditions are met:(a) the client has given his prior express consent to the use of the instruments on specified terms, as clearly evidenced in writing and affirmatively executed by signature or equivalent, and(b) the use of that client's financial instruments is restricted to the specified terms to which the client consents.
+
+**2.** Member States shall not allow investment firms to enter into arrangements for securities financing transactions in respect of financial instruments which are held on behalf of a client in an omnibus account maintained by a third party, or otherwise use financial instruments held in such an account for their own account or for the account of any other person unless, in addition to the conditions set out in paragraph 1, at least one of the following conditions is met:(a) each client whose financial instruments are held together in an omnibus account must have given prior express consent in accordance with point (a) of paragraph 1;(b) the investment firm must have in place systems and controls which ensure that only financial instruments belonging to clients who have given prior express consent in accordance with point (a) of paragraph 1 are so used.
+
+The records of the investment firm shall include details of the client on whose instructions the use of the financial instruments has been effected, as well as the number of financial instruments used belonging to each client who has given his consent, so as to enable the correct allocation of any loss.
+
+**3.** Member States shall ensure that investment firms take appropriate measures to prevent the unauthorised use of client financial instruments for their own account or the account of any other person such as:(a) the conclusion of agreements with clients on measures to be taken by the investment firms in case the client does not have enough provision on its account on the settlement date, such as borrowing of the corresponding securities on behalf of the client or unwinding the position;(b) the close monitoring by the investment firm of its projected ability to deliver on the settlement date and the putting in place of remedial measures if this cannot be done; and(c) the close monitoring and prompt requesting of undelivered securities outstanding on the settlement day and beyond.
+
+**4.** Member States shall ensure that investment firms adopt specific arrangements for all clients to ensure that the borrower of client financial instruments provides the appropriate collateral and that the firm monitors the continued appropriateness of such collateral and takes the necessary steps to maintain the balance with the value of client instruments.
+
+**5.** Member States shall ensure that investment firms do not enter into arrangements which are prohibited under Article 16(10) of Directive 2014/65/EU.
+
+<a id="art_6"></a>
+
+### Article 6 — Inappropriate use of title transfer collateral arrangements
+
+**1.** Member States shall require that investment firms properly consider, and are able to demonstrate that they have done so, the use of title transfer collateral arrangements in the context of the relationship between the client's obligation to the firm and the client assets subjected to title transfer collateral arrangements by the firm.
+
+**2.** When considering, and documenting, the appropriateness of the use of title transfer collateral arrangements, investment firms shall take into account all of the following factors:(a) whether there is only a very weak connection between the client's obligation to the firm and the use of title transfer collateral arrangements, including whether the likelihood of a clients' liability to the firm is low or negligible;(b) whether the amount of client funds or financial instruments subject to title transfer collateral arrangements far exceeds the client's obligation, or is even unlimited if the client has any obligation at all to the firm; and(c) whether all clients' financial instruments or funds are made subject to title transfer collateral arrangements, without consideration of what obligation each client has to the firm.
+
+**3.** Where using title transfer collateral arrangements, investment firms shall highlight to professional clients and eligible counterparties the risks involved and the effect of any title transfer collateral arrangement on the client's financial instruments and funds.
+
+<a id="art_7"></a>
+
+### Article 7 — Governance arrangements concerning the safeguarding of client assets
+
+Member States shall ensure that investment firms appoint a single officer of sufficient skill and authority with specific responsibility for matters relating to the compliance by firms with their obligations regarding the safeguarding of client financial instruments and funds.
+
+Member States shall allow investment firms to decide, ensuring full compliance with this Directive, whether the appointed officer is to be dedicated solely to this task or whether the officer can discharge responsibilities effectively whilst having additional responsibilities.
+
+<a id="art_8"></a>
+
+### Article 8 — Reports by external auditors
+
+Member States shall require investment firms to ensure that their external auditors report at least annually to the competent authority of the home Member State of the firm on the adequacy of the firm's arrangements under Article 16(8), (9) and (10) of Directive 2014/65/EU and this Chapter.
+
+## CHAPTER III — PRODUCT GOVERNANCE REQUIREMENTS
+
+<a id="art_9"></a>
+
+### Article 9 — Product governance obligations for investment firms manufacturing financial instruments
+
+**1.** Member States shall require investment firms to comply with this Article when manufacturing financial instruments, which encompasses the creation, development, issuance and/or design of financial instruments.
+
+Member States shall require investment firms manufacturing financial instruments to comply, in a way that is appropriate and proportionate, with the relevant requirements in paragraphs 2 to 15, taking into account the nature of the financial instrument, the investment service and the target market for the product.
+
+**2.** Member States shall require investment firms to establish, implement and maintain procedures and measures to ensure the manufacturing of financial instruments complies with the requirements on proper management of conflicts of interest, including remuneration. In particular, investment firms manufacturing financial instruments shall ensure that the design of the financial instrument, including its features, does not adversely affect end clients or does not lead to problems with market integrity by enabling the firm to mitigate and/or dispose of its own risks or exposure to the underlying assets of the product, where the investment firm already holds the underlying assets on own account.
+
+**3.** Member States shall require investment firms to analyse potential conflicts of interests each time a financial instrument is manufactured. In particular, firms shall assess whether the financial instrument creates a situation where end clients may be adversely affected if they take:(a) an exposure opposite to the one previously held by the firm itself; or(b) an exposure opposite to the one that the firm wants to hold after the sale of the product.
+
+**4.** Member States shall ensure that investment firms consider whether the financial instrument may represent a threat to the orderly functioning or to the stability of financial markets before deciding to proceed with the launch of the product.
+
+**5.** Member States shall require investment firms to ensure that relevant staff involved in the manufacturing of financial instruments possess the necessary expertise to understand the characteristics and risks of the financial instruments they intend to manufacture.
+
+**6.** Member States shall require investment firms to ensure that the management body has effective control over the firm's product governance process. Investment firms shall ensure that the compliance reports to the management body systematically include information about the financial instruments manufactured by the firm, including information on the distribution strategy. Investment firms shall make the reports available to their competent authority on request.
+
+**7.** Member States shall require investment firms to ensure that the compliance function monitors the development and periodic review of product governance arrangements in order to detect any risk of failure by the firm to comply with the obligations set out in this Article.
+
+**8.** Member States shall require investment firms, where they collaborate, including with entities which are not authorised and supervised in accordance with Directive 2014/65/EU or third-country firms, to create, develop, issue and/or design a product, to outline their mutual responsibilities in a written agreement.
+
+**9.** Member States shall require investment firms to identify at a sufficiently granular level the potential target market for each financial instrument and specify the type(s) of client with whose needs, characteristics and objectives, including any sustainability related objectives, the financial instrument is compatible. As part of this process, the firm shall identify any group(s) of clients with whose needs, characteristics and objectives the financial instrument is not compatible, except where financial instruments consider sustainability factors. Where investment firms collaborate to manufacture a financial instrument, only one target market needs to be identified.
+
+Investment firms manufacturing financial instruments that are distributed through other investment firms shall determine the needs and characteristics of clients for whom the product is compatible based on their theoretical knowledge of and past experience with the financial instrument or similar financial instruments, the financial markets and the needs, characteristics and objectives of potential end clients.
+
+**10.** Member States shall require investment firms to undertake a scenario analysis of their financial instruments which shall assess the risks of poor outcomes for end clients posed by the product and in which circumstances these outcomes may occur. Investment firms shall assess the financial instrument under negative conditions covering what would happen if, for example:(a) the market environment deteriorated;(b) the manufacturer or a third party involved in manufacturing and or functioning of the financial instrument experiences financial difficulties or other counterparty risk materialises;(c) the financial instrument fails to become commercially viable; or(d) demand for the financial instrument is much higher than anticipated, putting a strain on the firm's resources and/or on the market of the underlying instrument.
+
+**11.** Member States shall require investment firms to determine whether a financial instrument meets the identified needs, characteristics and objectives of the target market, including by examining the following elements:(a) the financial instrument’s risk/reward profile is consistent with the target market;(b) the financial instrument’s sustainability factors, where relevant, are consistent with the target market;(c) the financial instrument design is driven by features that benefit the client and not by a business model that relies on poor client outcomes to be profitable.
+
+**12.** Member States shall ensure that investment firms consider the charging structure proposed for the financial instrument, including by examining the following:(a) financial instrument's costs and charges are compatible with the needs, objectives and characteristics of the target market;(b) charges do not undermine the financial instrument's return expectations, such as where the costs or charges equal, exceed or remove almost all the expected tax advantages linked to a financial instrument; and(c) the charging structure of the financial instrument is appropriately transparent for the target market, such as that it does not disguise charges or is too complex to understand.
+
+**13.** Member States shall require investment firms to ensure that the provision of information about a financial instrument to distributors includes information about the appropriate channels for distribution of the financial instrument, the product approval process and the target market assessment and is of an adequate standard to enable distributors to understand and recommend or sell the financial instrument properly.
+
+The sustainability factors of the financial instrument shall be presented in a transparent manner and provide distributers with the relevant information to duly consider any sustainability related objectives of the client or potential client.
+
+**14.** Member States shall require investment firms to review the financial instruments they manufacture on a regular basis, taking into account any event that could materially affect the potential risk to the identified target market. Investment firms shall consider whether the financial instrument remains consistent with the needs, characteristics and objectives, including any sustainability related objectives, of the target market and if it is distributed to the target market, or reaches clients with whose needs, characteristics and objectives the financial instrument is not compatible.
+
+**15.** Member States shall require investment firms to review financial instruments prior to any further issue or re-launch, if they are aware of any event that could materially affect the potential risk to investors and at regular intervals to assess whether the financial instruments function as intended. Investment firms shall determine how regularly to review their financial instruments based on relevant factors, including factors linked to the complexity or the innovative nature of the investment strategies pursued. Firms shall also identify crucial events that would affect the potential risk or return expectations of the financial instrument, such as:(a) the crossing of a threshold that will affect the return profile of the financial instrument; or(b) the solvency of certain issuers whose securities or guarantees may impact the performance of the financial instrument.
+
+Member States shall ensure that, when such events occur, investment firms take appropriate action which may consist of:
+
+(a) the provision of any relevant information on the event and its consequences on the financial instrument to the clients or the distributors of the financial instrument if the investment firm does not offer or sell the financial instrument directly to the clients;
+
+(b) changing the product approval process;
+
+(c) stopping further issuance of the financial instrument;
+
+(d) changing the financial instrument to avoid unfair contract terms;
+
+(e) considering whether the sales channels through which the financial instruments are sold are appropriate where firms become aware that the financial instrument is not being sold as envisaged;
+
+(f) contacting the distributor to discuss a modification of the distribution process;
+
+(g) terminating the relationship with the distributor; or
+
+(h) informing the relevant competent authority.
+
+<a id="art_10"></a>
+
+### Article 10 — Product governance obligations for distributors
+
+**1.** Member States shall require investment firms, when deciding the range of financial instruments issued by themselves or other firms and services they intend to offer or recommend to clients, to comply, in a way that is appropriate and proportionate, with the relevant requirements laid down in paragraphs 2 to 10, taking into account the nature of the financial instrument, the investment service and the target market for the product.
+
+Member States shall ensure that investment firms also comply with the requirements of Directive 2014/65/EU when offering or recommending financial instruments manufactured by entities that are not subject to Directive 2014/65/EU. As part of this process, such investment firms shall have in place effective arrangements to ensure that they obtain sufficient information about these financial instruments from these manufacturers.
+
+Investment firms shall determine the target market for the respective financial instrument, even if the target market was not defined by the manufacturer.
+
+**2.** Member States shall require investment firms to have in place adequate product governance arrangements to ensure that products and services they intend to offer or recommend are compatible with the needs, characteristics, and objectives, including any sustainability related objectives, of an identified target market and that the intended distribution strategy is consistent with the identified target market. Investment firms shall appropriately identify and assess the circumstances and needs of the clients they intend to focus on, so as to ensure that clients’ interests are not compromised as a result of commercial or funding pressures. As part of this process, investment firms shall identify any group of clients with whose needs, characteristics and objectives the product or service is not compatible except where financial instruments consider sustainability factors.
+
+Member States shall ensure that investment firms obtain from manufactures that are subject to Directive 2014/65/EU information to gain the necessary understanding and knowledge of the products they intend to recommend or sell in order to ensure that these products will be distributed in accordance with the needs, characteristics and objectives of the identified target market,
+
+Member States shall require investment firms to take all reasonable steps to ensure they also obtain adequate and reliable information from manufacturers not subject to Directive 2014/65/EU to ensure that products will be distributed in accordance with the characteristics, objectives and needs of the target market. Where relevant information is not publicly available, the distributor shall take all reasonable steps to obtain such relevant information from the manufacturer or its agent. Acceptable publicly available information is information which is clear, reliable and produced to meet regulatory requirements, such as disclosure requirements under Directive 2003/71/EC (6) or 2004/109/EC (7) of the European Parliament and of the Council. This obligation is relevant for products sold on primary and secondary markets and shall apply in a proportionate manner, depending on the degree to which publicly available information is obtainable and the complexity of the product.
+
+Investment firms shall use the information obtained from manufacturers and information on their own clients to identify the target market and distribution strategy. When an investment firm acts both as a manufacturer and a distributor, only one target market assessment shall be required.
+
+**3.** Member States shall require investment firms, when deciding the range of financial instrument and services that they offer or recommend and the respective target markets, to maintain procedures and measures to ensure compliance with all applicable requirements under Directive 2014/65/EU including those relating to disclosure, assessment of suitability or appropriateness, inducements and proper management of conflicts of interest. In this context, particular care shall be taken when distributors intend to offer or recommend new products or there are variations to the services they provide.
+
+**4.** Member States shall require investment firms to periodically review and update their product governance arrangements in order to ensure that they remain robust and fit for their purpose, and take appropriate actions where necessary.
+
+**5.** Member States shall require investment firms to review the investment products they offer or recommend and the services they provide on a regular basis, taking into account any event that could materially affect the potential risk to the identified target market. Firms shall assess at least whether the product or service remains consistent with the needs, characteristics and objectives, including any sustainability related objectives, of the identified target market and whether the intended distribution strategy remains appropriate. Firms shall reconsider the target market and/or update the product governance arrangements if they become aware that they have wrongly identified the target market for a specific product or service or that the product or service no longer meets the circumstances of the identified target market, such as where the product becomes illiquid or very volatile due to market changes.
+
+**6.** Member States shall require investment firms to ensure their compliance function oversee the development and periodic review of product governance arrangements in order to detect any risk of failure to comply with the obligations set out in this Article.
+
+**7.** Member States shall require investment firms to ensure that relevant staff possess the necessary expertise to understand the characteristics and risks of the products that intend to offer or recommend and the services provided as well as the needs, characteristics and objectives of the identified target market.
+
+**8.** Member States shall require investment firms to ensure that the management body has effective control over the firm's product governance process to determine the range of investment products that they offer or recommend and the services provided to the respective target markets. Investment firms shall ensure that the compliance reports to the management body systematically include information about the products they offer or recommend and the services provided. The compliance reports shall be made available to competent authorities on request.
+
+**9.** Member States shall ensure distributors provide manufacturers with information on sales and, where appropriate, information on the above reviews to support product reviews carried out by manufacturers.
+
+**10.** Where different firms work together in the distribution of a product or service, Member States shall ensure the investment firm with the direct client relationship has ultimate responsibility to meet the product governance obligations set out in this Article. However, intermediary investment firms shall:(a) ensure that relevant product information is passed from the manufacturer to the final distributor in the chain;(b) if the manufacturer requires information on product sales in order to comply with their own product governance obligations, enable them to obtain it; and(c) apply the product governance obligations for manufacturers, as relevant, in relation to the service they provide.
+
+## CHAPTER IV — INDUCEMENTS
+
+<a id="art_11"></a>
+
+### Article 11 — Inducements
+
+**1.** Member States shall require investment firms paying or being paid any fee or commission or providing or being provided with any non-monetary benefit in connection with the provision of an investment service or ancillary service to the client to ensure that all the conditions set out in Article 24(9) of Directive 2014/65/EU and requirements set out in paragraphs 2-5 are met at all times.
+
+**2.** A fee, commission or non-monetary benefit shall be considered to be designed to enhance the quality of the relevant service to the client if all of the following conditions are met:(a) it is justified by the provision of an additional or higher level service to the relevant client, proportional to the level of inducements received, such as:(i) the provision of non-independent investment advice on and access to a wide range of suitable financial instruments including an appropriate number of instruments from third party product providers having no close links with the investment firm;(ii) the provision of non-independent investment advice combined with either: an offer to the client, at least on an annual basis, to assess the continuing suitability of the financial instruments in which the client has invested; or with another on-going service that is likely to be of value to the client such as advice about the suggested optimal asset allocation of the client; or(iii) the provision of access, at a competitive price, to a wide range of financial instruments that are likely to meet the needs of the client, including an appropriate number of instruments from third party product providers having no close links with the investment firm, together with either the provision of added-value tools, such as objective information tools helping the relevant client to take investment decisions or enabling the relevant client to monitor, model and adjust the range of financial instruments in which they have invested, or providing periodic reports of the performance and costs and charges associated with the financial instruments(b) it does not directly benefit the recipient firm, its shareholders or employees without tangible benefit to the relevant client;(c) it is justified by the provision of an on-going benefit to the relevant client in relation to an on-going inducement.
+
+A fee, commission, or non-monetary benefit shall not be considered acceptable if the provision of relevant services to the client is biased or distorted as a result of the fee, commission or non-monetary benefit.
+
+**3.** Investment firms shall fulfil the requirements set out in paragraph 2 on an ongoing basis as long as they continue to pay or receive the fee, commission or non-monetary benefit.
+
+**4.** Investment firms shall hold evidence that any fees, commissions or non-monetary benefits paid or received by the firm are designed to enhance the quality of the relevant service to the client:(a) by keeping an internal list of all fees, commissions and non-monetary benefits received by the investment firm from a third party in relation to the provision of investment or ancillary services; and(b) by recording how the fees, commissions and non-monetary benefits paid or received by the investment firm, or that it intends to use, enhance the quality of the services provided to the relevant clients and the steps taken in order not to impair the firm's duty to act honestly, fairly and professionally in accordance with the best interests of the client.
+
+**5.** In relation to any payment or benefit received from or paid to third parties, investment firms shall disclose to the client the following information:(a) prior to the provision of the relevant investment or ancillary service, the investment firm shall disclose to the client information on the payment or benefit concerned in accordance with the second subparagraph of Article 24(9) of Directive 2014/65/EU. Minor non-monetary benefits may be described in a generic way. Other non-monetary benefits received or paid by the investment firm in connection with the investment service provided to a client shall be priced and disclosed separately;(b) where an investment firm was unable to ascertain on an ex-ante basis the amount of any payment or benefit to be received or paid, and instead disclosed to the client the method of calculating that amount, the firm shall also provide its clients with information of the exact amount of the payment or benefit received or paid on an ex-post basis; and(c) at least once a year, as long as (on-going) inducements are received by the investment firm in relation to the investment services provided to the relevant clients, the investment firm shall inform its clients on an individual basis about the actual amount of payments or benefits received or paid. Minor non-monetary benefits may be described in a generic way.
+
+In implementing these requirements, investment firms shall take into account the rules on costs and charges set out in Article 24(4)(c) of Directive 2014/65/EU and in Article 50 of Commission Delegated Regulation (EU) 2017/565 (8).
+
+When more firms are involved in a distribution channel, each investment firm providing an investment or ancillary service shall comply with its obligations to make disclosures to its clients.
+
+<a id="art_12"></a>
+
+### Article 12 — Inducements in respect of investment advice on an independent basis or portfolio management services
+
+**1.** Member States shall ensure that investment firms providing investment advice on an independent basis or portfolio management return to clients any fees, commissions or any monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the services provided to that client as soon as reasonably possible after receipt. All fees, commissions or monetary benefits received from third parties in relation to the provision of independent investment advice and portfolio management shall be transferred in full to the client.
+
+Investment firms shall set up and implement a policy to ensure that any fees, commissions or any monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the provision of independent investment advice and portfolio management are allocated and transferred to each individual client.
+
+Investment firms shall inform clients about the fees, commissions or any monetary benefits transferred to them, such as through the periodic reporting statements provided to the client.
+
+**2.** Investment firms providing investment advice on an independent basis or portfolio management shall not accept non-monetary benefits that do not qualify as acceptable minor non-monetary benefits in accordance with paragraph 3.
+
+**3.** The following benefits shall qualify as acceptable minor non-monetary benefits only if they are:(a) information or documentation relating to a financial instrument or an investment service, is generic in nature or personalised to reflect the circumstances of an individual client;(b) written material from a third party that is commissioned and paid for by an corporate issuer or potential issuer to promote a new issuance by the company, or where the third party firm is contractually engaged and paid by the issuer to produce such material on an ongoing basis, provided that the relationship is clearly disclosed in the material and that the material is made available at the same time to any investment firms wishing to receive it or to the general public;(c) participation in conferences, seminars and other training events on the benefits and features of a specific financial instrument or an investment service;(d) hospitality of a reasonable *de minimis* value, such as food and drink during a business meeting or a conference, seminar or other training events mentioned under point (c); and(e) other minor non-monetary benefits which a Member States deems capable of enhancing the quality of service provided to a client and, having regard to the total level of benefits provided by one entity or group of entities, are of a scale and nature that are unlikely to impair compliance with an investment firm's duty to act in the best interest of the client.
+
+Acceptable minor non-monetary benefits shall be reasonable and proportionate and of such a scale that they are unlikely to influence the investment firm's behaviour in any way that is detrimental to the interests of the relevant client.
+
+Disclosure of minor non-monetary benefits shall be made prior to the provision of the relevant investment or ancillary services to clients. In accordance with Article 11(5) (a) minor non-monetary benefits may be described in a generic way.
+
+<a id="art_13"></a>
+
+### Article 13 — Inducements in relation to research
+
+**1.** Member States shall ensure that the provision of research by third parties to investment firms providing portfolio management or other investment or ancillary services to clients shall not be regarded as an inducement if it is received in return for either of the following:(a) direct payments by the investment firm out of its own resources;(b) payments from a separate research payment account controlled by the investment firm, provided the following conditions relating to the operation of the account are met:(i) the research payment account is funded by a specific research charge to the client;(ii) as part of establishing a research payment account and agreeing the research charge with their clients, investment firms set and regularly assess a research budget as an internal administrative measure;(iii) the investment firm is held responsible for the research payment account;(iv) the investment firm regularly assesses the quality of the research purchased based on robust quality criteria and its ability to contribute to better investment decisions.
+
+With regard to point (b) of the first subparagraph, where an investment firm makes use of the research payment account, it shall provide the following information to clients:
+
+(a) before the provision of an investment service to clients, information about the budgeted amount for research and the amount of the estimated research charge for each of them;
+
+(b) annual information on the total costs that each of them has incurred for third party research.
+
+**2.** Where an investment firm operates a research payment account, Member States shall ensure that the investment firm shall also be required, upon request by their clients or by competent authorities, to provide a summary of the providers paid from this account, the total amount they were paid over a defined period, the benefits and services received by the investment firm, and how the total amount spent from the account compares to the budget set by the firm for that period, noting any rebate or carry-over if residual funds remain in the account. For the purposes of point (b)(i) of paragraph 1, the specific research charge shall:(a) only be based on a research budget set by the investment firm for the purpose of establishing the need for third party research in respect of investment services rendered to its clients; and(b) not be linked to the volume and/or value of transactions executed on behalf of the clients.
+
+**3.** Every operational arrangement for the collection of the client research charge, where it is not collected separately but alongside a transaction commission, shall indicate a separately identifiable research charge and shall fully comply with the conditions set out in point (b) of the first subparagraph of paragraph 1 and in the second subparagraph of paragraph 1.
+
+**4.** The total amount of research charges received may not exceed the research budget.
+
+**5.** The investment firm shall agree with clients, in the firm's investment management agreement or general terms of business, the research charge as budgeted by the firm and the frequency with which the specific research charge will be deducted from the resources of the client over the year. Increases in the research budget shall only take place after the provision of clear information to clients about such intended increases. If there is a surplus in the research payment account at the end of a period, the firm should have a process to rebate those funds to the client or to offset it against the research budget and charge calculated for the following period.
+
+**6.** For the purposes of point (b)(ii) of the first subparagraph of paragraph 1, the research budget shall be managed solely by the investment firm and shall be based on a reasonable assessment of the need for third party research. The allocation of the research budget to purchase third party research shall be subject to appropriate controls and senior management oversight to ensure it is managed and used in the best interests of the firm's clients. Those controls include a clear audit trail of payments made to research providers and how the amounts paid were determined with reference to the quality criteria referred to in paragraph 1 (b) (iv). Investment firms shall not use the research budget and research payment account to fund internal research.
+
+**7.** For the purposes of point (b)(iii) of paragraph 1, the investment firm may delegate the administration of the research payment ac-count to a third party, provided that the arrangement facilitates the purchase of third party research and payments to research providers in the name of the investment firm without any undue delay in accordance with the investment firm's instruction.
+
+**8.** For the purposes of point (b) (iv) of paragraph 1, investment firms shall establish all necessary elements in a written policy and provide it to their clients. It shall also address the extent to which research purchased through the research payment account may benefit clients' portfolios, including, where relevant, by taking into account investment strategies applicable to various types of portfolios, and the approach the firm will take to allocate such costs fairly to the various clients' portfolios.
+
+**9.** An investment firm providing execution services shall identify separate charges for these services that only reflect the cost of executing the transaction. The provision of each other benefit or service by the same investment firm to investment firms, established in the Union shall be subject to a separately identifiable charge; the supply of and charges for those benefits or services shall not be influenced or conditioned by levels of payment for execution services.
+
+## CHAPTER V — FINAL PROVISIONS
+
+<a id="art_14"></a>
+
+### Article 14 — Entry into force and application
+
+**1.** Member States shall adopt and publish, by 3 July 2017 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.
+
+They shall apply those provisions from 3 January 2018.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+**2.** Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+<a id="art_15"></a>
+
+### Article 15
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+<a id="art_16"></a>
+
+### Article 16
+
+This Directive is addressed to the Member States.

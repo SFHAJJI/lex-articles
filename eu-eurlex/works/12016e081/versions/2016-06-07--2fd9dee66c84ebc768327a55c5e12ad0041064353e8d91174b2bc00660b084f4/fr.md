@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12016e081:2016-06-07--2fd9dee66c84ebc768327a55c5e12ad0041064353e8d91174b2bc00660b084f4'
+title: 'Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…'
+valid_from: '2016-06-07'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E081'
+source_sha256: 'a97098fa0035bb7b9577057927716950f75fa36be93b53f2ddd6693de985bd07'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+7.6.2016 FR Journal officiel de l'Union européenne C 202/78 Article 81 (ex-article 65 TCE) 1. L'Union développe une coopération judiciaire dans les matières civiles ayant une incidence transfrontière, fondée sur le principe de reconnaissance mutuelle des décisions judiciaires et extrajudiciaires. Cette coopération peut inclure l'adoption de mesures de rapprochement des dispositions législatives et réglementaires des États membres. 2. Aux fins du paragraphe 1, le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire, adoptent, notamment lorsque cela est nécessaire au bon fonctionnement du marché intérieur, des mesures visant à assurer: a) la reconnaissance mutuelle entre les États membres des décisions judiciaires et extrajudiciaires, et leur exécution; b) la signification et la notification transfrontières des actes judiciaires et extrajudiciaires; c) la compatibilité des règles applicables dans les États membres en matière de conflit de lois et de compétence; d) la coopération en matière d'obtention des preuves; e) un accès effectif à la justice; f) l'élimination des obstacles au bon déroulement des procédures civiles, au besoin en favorisant la compatibilité des règles de procédure civile applicables dans les États membres; g) le développement de méthodes alternatives de résolution des litiges; h) un soutien à la formation des magistrats et des personnels de justice. 3. Par dérogation au paragraphe 2, les mesures relatives au droit de la famille ayant une incidence transfrontière sont établies par le Conseil, statuant conformément à une procédure législative spéciale. Celui-ci statue à l'unanimité, après consultation du Parlement européen. Le Conseil, sur proposition de la Commission, peut adopter une décision déterminant les aspects du droit de la famille ayant une incidence transfrontière susceptibles de faire l'objet d'actes adoptés selon la procédure législative ordinaire. Le Conseil statue à l'unanimité, après consultation du Parlement européen. La proposition visée au deuxième alinéa est transmise aux parlements nationaux. En cas d'opposition d'un parlement national notifiée dans un délai de six mois après cette transmission, la décision n'est pas adoptée. En l'absence d'opposition, le Conseil peut adopter ladite décision.

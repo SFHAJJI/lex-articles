@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2365:2022-12-02--14ac163760550cd45f9a6427249fec1ec421a7dfab089a89694d09e874ff18c2",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/2365 of 2\u00A0December 2022 amending the implementing technical standards laid down in Implementing Regulation (EU) 2016/1801 as regards the mapping tables correspondence of credit assessments of external credit assessment institutions for securitisation in accordance with Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-12-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2365/versions/2022-12-02--14ac163760550cd45f9a6427249fec1ec421a7dfab089a89694d09e874ff18c2/en.xml",
+    "sha256": "bfc896fd28e32e1ab2a41614242e859b3217ae2cfa2ec6e467deff33aa82cf24",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2365"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2365:2022-12-02--14ac163760550cd45f9a6427249fec1ec421a7dfab089a89694d09e874ff18c2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2016/1801 is amended as follows:\n\n| (1) | Article 1 is deleted; |\n| --- | --- |\n\n| (2) | Article 2 is replaced by the following:‘Article 2Mapping tables under the External Ratings Based ApproachThe correspondence of the rating categories of each external credit assessment institution for securitisation positions subject to the External Ratings Based Approach with the credit quality steps set out in Articles 263 and 264 of Regulation (EU) No 575/2013 is set out in Annex II to this Regulation.’; |\n| --- | --- |\n\n| (3) | Annex I is deleted; |\n| --- | --- |\n\n| (4) | Annex II is replaced by the text in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "c6434a6499e2f27fa417854d42d8c26d64f065aaeb747cd94ebc434492e1dbb6",
+      "md_span": {
+        "start": 953,
+        "end": 1643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2365:2022-12-02--14ac163760550cd45f9a6427249fec1ec421a7dfab089a89694d09e874ff18c2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1676,
+        "end": 1827
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

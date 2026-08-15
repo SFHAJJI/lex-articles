@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2171:2015-11-24--a5929e36338223a269fd5b7b53f041f9968952b8701465bc7d1e17edb22212e7",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2015/2171 of 24 November 2015 amending Directive 2014/25/EU",
+  "valid_from": "2015-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2171/versions/2015-11-24--a5929e36338223a269fd5b7b53f041f9968952b8701465bc7d1e17edb22212e7/fr.xml",
+    "sha256": "e7bf93cb41080bb40c1132bb85289bb20de7508f36725f53d867d1985ffcb579",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2171"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2171:2015-11-24--a5929e36338223a269fd5b7b53f041f9968952b8701465bc7d1e17edb22212e7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'article 15 de la directive 2014/25/UE est modifié comme suit:\n\n| a) | au point a), le montant «414 000 EUR» est remplacé par celui «418 000 EUR»; |\n| --- | --- |\n\n| b) | au point b), le montant «5 186 000 EUR» est remplacé par celui «5 225 000 EUR». |\n| --- | --- |",
+      "text_sha256": "d4754214e057b191991a23baf754a3d78d9e601e42f45d8f8dc1f3abdd230ca9",
+      "md_span": {
+        "start": 707,
+        "end": 991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2171:2015-11-24--a5929e36338223a269fd5b7b53f041f9968952b8701465bc7d1e17edb22212e7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le 1er janvier 2016.",
+      "text_sha256": "eef72f5ba764142aed770cdce6bda3bf219bf6ea6f86d677a586b18b4a0e20f2",
+      "md_span": {
+        "start": 1024,
+        "end": 1093
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

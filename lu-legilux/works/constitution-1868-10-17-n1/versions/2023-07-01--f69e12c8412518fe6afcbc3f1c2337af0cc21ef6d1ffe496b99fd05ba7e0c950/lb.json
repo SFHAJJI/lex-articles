@@ -1,0 +1,2642 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950",
+  "language": "lb",
+  "title": "Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.",
+  "valid_from": "2023-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/constitution-1868-10-17-n1/versions/2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950/lb.xml",
+    "sha256": "c05c3e63578b19681fe47c2a368c6b2817c19b5c0328a39335a252dd6ccdaaaa",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/lb"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 1.** — *De Staat, seng politesch Form an d’Souveränitéit*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duché vu Lëtzebuerg ass en demokrateschen, fräien, onofhängegen an ondeelbare Staat.",
+      "text_sha256": "79998747126511e66791a3829de711149dacb504923fbd836a552bd9208b00d5",
+      "md_span": {
+        "start": 795,
+        "end": 888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 1.** — *De Staat, seng politesch Form an d’Souveränitéit*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duché vu Lëtzebuerg funktionéiert no de Reegele vun enger parlamentarescher Demokratie. D’Staatsform ass déi vun enger constitutionneller Monarchie.\n\nDe Staat berout op de Prinzippie vum Rechtsstaat an op dem Respekt vun de Mënscherechter.",
+      "text_sha256": "8f5e1e7163c3452df44fabfe851505e6fac84b9b98e23d513ec4273912d57818",
+      "md_span": {
+        "start": 923,
+        "end": 1171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 1.** — *De Staat, seng politesch Form an d’Souveränitéit*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Souveränitéit läit bei der Natioun, vun där d’Staatsgewalten ausginn.",
+      "text_sha256": "3f4e4c77ff6f5674c35e247829be8dc842f76df5b921c6a4b983af6c95d40b7f",
+      "md_span": {
+        "start": 1206,
+        "end": 1277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 1.** — *De Staat, seng politesch Form an d’Souveränitéit*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Sprooch vum Grand-Duché vu Lëtzebuerg ass Lëtzebuergesch. D’Gesetz reegelt d’Benotzung vun der lëtzebuergescher, der franséischer an der däitscher Sprooch.\n\n**(2)** D’Nationalsymbol ass den dräifaarwege Fändel Rout-Wäiss-Blo.\n\n**(3)** D’Gesetz definéiert d’Staatswopen.\n\n**(4)** D’Nationalhymn ass „Ons Heemecht“.",
+      "text_sha256": "7542fc7f1291dbcd86939b7480a50530b739f751ab8a0ea6b9f778c6768a12fd",
+      "md_span": {
+        "start": 1312,
+        "end": 1635
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 1.** — *De Staat, seng politesch Form an d’Souveränitéit*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duché vu Lëtzebuerg bedeelegt sech un der europäescher Integratioun.\n\nDen Exercice vu Staatsgewalte kann un d’Europäesch Unioun an un international Institutiounen iwwerdroe ginn duerch e Gesetz, dat no de Konditioune vum Artikel 131, Alinea 2 vun der Verfassung ugeholl gëtt.",
+      "text_sha256": "a4b7ee7ac372026e4d9cbfe8e88728652f998c81deeafb7edda8bbb08ed06e42",
+      "md_span": {
+        "start": 1670,
+        "end": 1954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 2.** — *Den Territoire*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Keen Territoire kann ofgetrueden, getosch oder derbäigesat ginn, ausser opgrond vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt.",
+      "text_sha256": "1b80882c78a6151b7b60309b1d005c197712dda4f9c6f352733f256eafb5f95c",
+      "md_span": {
+        "start": 2029,
+        "end": 2179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 2.** — *Den Territoire*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Grenzen an d’Haaptuertschafte vun de Kantonen, de Gemengen an de Geriichtsarrondissementer gi vum Gesetz festgeluecht.",
+      "text_sha256": "5f3cf5ca31981be71e6ca80e9cdc1097e1c2a423fefb872db645b2d72fbe5f10",
+      "md_span": {
+        "start": 2214,
+        "end": 2334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *De Staat, säin Territoire a seng Awunner*",
+        "**Sektioun 2.** — *Den Territoire*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Stad Lëtzebuerg ass d’Haaptstad vum Grand-Duché vu Lëtzebuerg an de Sëtz vun de constitutionnellen Institutiounen.",
+      "text_sha256": "ca2071c4f8109ca7d54d23a4f75052ed1d3766ec72d29395802decb72fce6637",
+      "md_span": {
+        "start": 2369,
+        "end": 2485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 1.** — *D’Nationalitéit an d’politesch Rechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz leet fest, wéi een d’lëtzebuergesch Nationalitéit kritt, behält a verléiert.",
+      "text_sha256": "57235566324f5f5dccd5ab504ace59d86f4851c1c3d0c5b008199f95ad6ffac0",
+      "md_span": {
+        "start": 2634,
+        "end": 2719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 1.** — *D’Nationalitéit an d’politesch Rechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Lëtzebuerger hu sämtlech politesch Rechter, déi si no de Konditioune vun der Verfassung an de Gesetzer ausüben.\n\n**(2)** Ënner Ausschloss vum Artikel 64 kann d’Gesetz Netlëtzebuerger d’Ausübe vu politesche Rechter accordéieren.",
+      "text_sha256": "dae49dcf0b0bb6dd90920e12ddc13cdad44e8a5fc5d23bc1c37c3d29b6bd300c",
+      "md_span": {
+        "start": 2756,
+        "end": 2993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 1.** — *D’Nationalitéit an d’politesch Rechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz reegelt den Zougang zu den ëffentlechen Aarbechtsplazen. Ëffentlech Aarbechtsplazen, bei deenen een direkt oder indirekt un dem Exercice vun der Staatsgewalt an u Funktiounen deelhëlt, déi dorop ausgeriicht sinn, d’allgemeng Interessie vum Staat ze schützen, kënne vum Gesetz de Lëtzebuerger virbehale ginn.",
+      "text_sha256": "563b892a8034cf32cec0dd88da4d916f0fd344db63d20b49b4349f25e7144789",
+      "md_span": {
+        "start": 3030,
+        "end": 3346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 2.** — *D’Grondrechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Mënschewürd ass onverletzlech.",
+      "text_sha256": "f7d112bc5bbbd87e3fa37fabfb4eac459e2e4919f0009eb276bfebff724ee5aa",
+      "md_span": {
+        "start": 3423,
+        "end": 3455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 2.** — *D’Grondrechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** All Persoun huet d’Recht op hir kierperlech a geeschteg Integritéit.\n\n**(2)** Keen däerf gefoltert oder onmënschlechen an erniddregende Strofen oder Behandlungen ausgesat ginn.\n\nD’Doudesstrof kann net agefouert ginn.",
+      "text_sha256": "576933ba546850c9cf0cf1a06838630a32bb077ffc23f25f17fd9270018eb7f1",
+      "md_span": {
+        "start": 3492,
+        "end": 3716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 2.** — *D’Grondrechter*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun huet d’Recht op Meenungsfräiheet, Gewëssensfräiheet a Reliounsfräiheet.",
+      "text_sha256": "4174ca5e14d29d5b28abd9fbb4eb9176697a7161ad50eb1688061f65cdf01975",
+      "md_span": {
+        "start": 3753,
+        "end": 3836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Lëtzebuerger si virum Gesetz gläich.\n\nD’Gesetz kann eng ënnerschiddlech Behandlung virgesinn, déi op enger objektiver Differenz baséiert an déi rationell gerechtfäerdegt, adequat a proportional zu hirem Zil ass.\n\n**(2)** Et dierf kee wéinst senger Situatioun oder senge perséinlechen Ëmstänn diskriminéiert ginn.\n\n**(3)** Fraen a Männer sinn an hire Rechter a Flichte gläich.\n\nDe Staat setzt sech aktiv fir d’Eliminatioun vun den Hindernisser an, déi am Beräich vun der Gläichheet tëschent Fraen a Männer kënne bestoen.\n\n**(4)** All Persoun huet d’Recht, eng Famill ze grënnen.\n\nAll Persoun huet d’Recht op de Respekt vun hirem Familljeliewen.\n\n**(5)** An all Entscheedung, déi e Kand betrëfft, huet säin Interessi Virrang.\n\nJiddwer Kand kann zu all Fro, déi et betrëfft, seng Meenung fräi äusseren. Seng Meenung gëtt jee no Alter an Urteelsfäegkeet a Betruecht gezunn.\n\nJiddwer Kand huet d’Recht op de Schutz, op d’Moossnamen an op d’Fleeg, déi fir säi Wuelbefannen a seng Entwécklung néideg sinn.\n\n**(6)** Jiddwer handicapéiert Persoun huet d’Recht, op déi selwecht Aart a Weis all Rechter ze genéissen.",
+      "text_sha256": "54fb39367d4990828529d76014552594e80db28838ff1e8b4f030b2affac9074",
+      "md_span": {
+        "start": 3922,
+        "end": 5037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Netlëtzebuerger, dee sech um Territoire vum Grand-Duché befënnt, genéisst de Schutz, deen de Persounen an de Saachen accordéiert gëtt, ënner Virbehalt vun den Ausnamen, déi d’Gesetz virgesäit.",
+      "text_sha256": "d328c95f79c47abffb9e3e853352a40a32ca0a96efac20b35cd7dd0a9eda98e0",
+      "md_span": {
+        "start": 5074,
+        "end": 5270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’perséinlech Fräiheet ass garantéiert.\n\n**(2)** Keen dierf strofverfollegt, festgeholl oder senger Fräiheet entzu ginn, ausser an de Fäll an an der Form, déi d’Gesetz virgesäit.\n\n**(3)** Ausser wann een op frëscher Dot ertappt gëtt, dierf een nëmmen opgrond vun enger begrënnter riichterlecher Entscheedung festgeholl ginn, déi bei der Festnam oder spéitstens véieranzwanzeg Stonnen dono zougestallt gëtt.\n\n**(4)** All Persoun, déi enger Strofdot beschëllegt gëtt, gëllt als onschëlleg, bis hir Schold dem Gesetz no bewisen ass.\n\nAll Persoun muss direkt iwwer d’Grënn vun hirer Festnam oder hirem Fräiheetsentzuch, iwwer d’Uschëllegunge géint si an iwwer d’gesetzlech Recoursen informéiert ginn, déi hir opstinn, fir hir Fräiheet zeréckzekréien.",
+      "text_sha256": "aa8a2c83e156a16abf17822f876d9edd837dd7f78ef735cf7c035e0703d252fd",
+      "md_span": {
+        "start": 5307,
+        "end": 6061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun huet d’Recht, datt hire Fall virun deem Geriicht, dat d’Gesetz virgesäit, gehéiert gëtt.\n\nKee ka géint säi Wëllen dem Riichter, deen d’Gesetz him zouweist, entzu ginn.",
+      "text_sha256": "282f50462ae4c5286ca93f09de977dcfb6d2a202deeca40b9b93fe63d5be5457",
+      "md_span": {
+        "start": 6098,
+        "end": 6277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Strofe kënnen nëmmen opgrond vun engem Gesetz festgeluecht an applizéiert ginn.\n\nEt dierf kee fir eng Dot oder eng Ënnerloossung verurteelt ginn, déi zum Zäitpunkt, zu deem se begaange ginn ass, keng gesetzlech Strofdot war.\n\nEt dierf keen zu enger méi héijer Strof verurteelt gi wéi där, déi applicabel war zum Zäitpunkt, zu deem d’Strofdot begaange gouf.",
+      "text_sha256": "5ed9b1366d18b3176a5a596d2ef9092d9cef03598c31ef8a8fec5d88d8b68380",
+      "md_span": {
+        "start": 6314,
+        "end": 6670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun huet d’Recht op de Respekt vun hirem Privatliewen.",
+      "text_sha256": "452cf2c3b8c9168b9460f9500796f1d2b7b08e40b5436720a10bf50b1ea270de",
+      "md_span": {
+        "start": 6707,
+        "end": 6769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Wunneng ass onverletzlech. En Hausbesuch kann nëmmen an de Fäll an an de Formen, déi vum Gesetz virgesi sinn, duerchgefouert ginn.",
+      "text_sha256": "0745dc3a26172ab85331d9ab6b17d06870739cf75eb033995b1c346ff7de8457",
+      "md_span": {
+        "start": 6806,
+        "end": 6938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "En Eed kann nëmmen opgrond vun engem Gesetz imposéiert ginn, dat och seng Formel festleet.",
+      "text_sha256": "95e600ebe886f44995a335245f2c36e780d9c25ca193b762536d6dc29240dc0d",
+      "md_span": {
+        "start": 6975,
+        "end": 7065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Meenungsfräiheet an d’Pressefräiheet si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheeten begaange ginn.\n\nEt dierf keng Zensur agefouert ginn.",
+      "text_sha256": "a39c2356bc68d410ab24d62f2fe9ecbe73ce6e2e15bc444a289a09fc2b6859d8",
+      "md_span": {
+        "start": 7102,
+        "end": 7286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Fräiheet, fir seng philosophesch oder reliéis Iwwerzeegungen auszedrécken, an d’Fräiheet, fir enger Relioun bäizetrieden oder net bäizetrieden, si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.\n\nD’Reliounsfräiheet an hiert Ausübe si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.\n\nKee ka gezwonge ginn, op iergend eng Aart a Weis un den Handlungen an Zeremonië vun enger Relioun deelzehuelen oder hir Roudeeg anzehalen.",
+      "text_sha256": "667945b1933c17134f4ce78c3bb5256577cabf98c9cab2f8e083f2026b743621",
+      "md_span": {
+        "start": 7323,
+        "end": 7858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun huet d’Recht, sech friddlech, am Respekt vum Gesetz, ze versammelen. Nëmme fir Versammlungen, déi dobaussen, op enger Plaz, déi ëffentlech zougänglech ass, stattfannen, kann eng prealabel Autorisatiounsflicht virgesi ginn.",
+      "text_sha256": "0955c1df6d3e1cab37985455a091a8774cb98571daf5ca1c50c0639031430d84",
+      "md_span": {
+        "start": 7895,
+        "end": 8129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Vereenegungsfräiheet ass garantéiert. Wéi se ausgeüübt gëtt, gëtt vum Gesetz gereegelt, dat dofir keng prealabel Autorisatiounsflicht aféieren dierf.",
+      "text_sha256": "b94879ca3362a2286fc0e9de0fc5df06e35955aca572ad10efde04875e228696",
+      "md_span": {
+        "start": 8166,
+        "end": 8317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’politesch Parteien droen derzou bäi, de Wëlle vum Vollek ze forméieren an dem allgemenge Walrecht Ausdrock ze ginn. Si drécken den demokratesche Pluralismus aus.",
+      "text_sha256": "258962eaee56008d9a1f911a98969d7eea309dcf66054120c4b89c6468835eac",
+      "md_span": {
+        "start": 8354,
+        "end": 8517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Fräiheete vun de Gewerkschafte si garantéiert.\n\nD’Gesetz reegelt d’Ausübe vum Streikrecht.",
+      "text_sha256": "d36043fc96de51fc1353cde4bff53c60378cc6a0bf72499fbd8d9ed7c80bd967",
+      "md_span": {
+        "start": 8554,
+        "end": 8646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun kann Demanden, déi vun enger oder méi Persounen ënnerschriwwe goufen, un d’ëffentlech Autoritéiten adresséieren.\n\nD’ëffentlech Autoritéite si verflicht, bannent engem räsonabelen Delai op d’schrëftlech Ufroe vun den Demandeuren ze äntweren.",
+      "text_sha256": "81e80126d5632852bdbbdc57aaeb4f25846fc2b889d704bfc4407fc51a0bf4fd",
+      "md_span": {
+        "start": 8683,
+        "end": 8935
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Persoun huet d’Recht op d’Onverletzlechkeet vun hire Kommunikatiounen.\n\nDëst Recht dierf net ageschränkt ginn, ausser an de Fäll, ënnert de Konditiounen a mat de Kontrollen, déi vum Gesetz virgesi sinn.",
+      "text_sha256": "86e3f6eea022bd206f4e669dda07073c70acb6df00d66fb3c84f23f606b6e011",
+      "md_span": {
+        "start": 8972,
+        "end": 9178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jiddereen huet d’Recht op Selbstbestëmmung, wat d’Informatiounen ugeet, an op de Schutz vu senge perséinlechen Daten. Dës Daten dierfen nëmmen zu den Zwecker an ënnert de Konditiounen, déi vum Gesetz festgeluecht sinn, traitéiert ginn.",
+      "text_sha256": "6f557e2db95425512c00b9f2ecd84c28ed5a92d875131e2569c874fe5633bbb3",
+      "md_span": {
+        "start": 9215,
+        "end": 9450
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Recht op Asyl ass garantéiert ënnert de Konditiounen, déi d’Gesetz virgesäit.",
+      "text_sha256": "1b90341cde274ccbdd466e3b0563fb0fbd80cfc8bdcad4118577d0e7ba3a41ee",
+      "md_span": {
+        "start": 9487,
+        "end": 9566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** All Persoun huet d’Recht op Bildung.\n\n**(2)** De Staat organiséiert den Enseignement a garantéiert den Zougang derzou.\n\nD’Dauer vun der Schoulflicht gëtt vum Gesetz festgeluecht.\n\nDen ëffentlechen Enseignement am Fondamental an am Secondaire ass gratis.\n\n**(3)** D’Fräiheet vum Enseignement gëtt ausgeüübt am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.\n\nD’staatlech Interventioun am privaten Enseignement gëtt vum Gesetz gereegelt.\n\n**(4)** All Persoun ass fräi, zu Lëtzebuerg oder am Ausland ze studéieren an ze wielen, wéi eng Universitéite si besicht. D’Konditioune vun der Unerkennung vun den Diplomer gi vum Gesetz bestëmmt.",
+      "text_sha256": "2fc5748a959b2d138e8b323a774caa14b1d2a092a4562a0b6a95f03d82eccb83",
+      "md_span": {
+        "start": 9603,
+        "end": 10325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Sozialversécherung, de Schutz vun der Gesondheet an d’Rechter vun de Leit op der Aarbecht ginn, wat d’Prinzippien ugeet, vum Gesetz gereegelt.",
+      "text_sha256": "e0dfc3e2a6731eebf6b0f1f6e9dcbd2e47e93d6ab40001d50efa5d80ebcc2dd8",
+      "md_span": {
+        "start": 10362,
+        "end": 10506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Fräiheet vun Handel an Industrie an d’fräit Ausübe vu liberale Professiounen a vun der landwirtschaftlecher Aktivitéit si garantéiert, ënner Virbehalt vun de Restriktiounen, déi d’Gesetz festleet.",
+      "text_sha256": "cea457588aa0fbe37b102a447b0011a585268416d4e8a9589054f21475eab32f",
+      "md_span": {
+        "start": 10543,
+        "end": 10741
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Kengem ka säi Besëtz ewechgeholl ginn, ausser am allgemengen Notzen a géint eng fair Indemnisatioun, an de Fäll an op d’Aart a Weis, déi vum Gesetz festgeluecht sinn.",
+      "text_sha256": "f33d1fcb3d6a7ad60201c1edf34fc3b68054fbf38f11ff92cc63110816402915",
+      "md_span": {
+        "start": 10778,
+        "end": 10944
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 3.** — *D’ëffentlech Fräiheeten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Restriktioun vum Exercice vun de Grondrechter muss vum Gesetz virgesi sinn an hire weesentlechen Inhalt respektéieren. Am Respekt vum Prinzip vun der Proportionalitéit si Restriktiounen nëmme méiglech, wa si an enger demokratescher Gesellschaft néideg sinn an effektiv den allgemengen Interessi oder de Schutz vun aneren hire Rechter a Fräiheeten zum Zil hunn.",
+      "text_sha256": "c6b6d7518a033b48429c00980f255feff02a1343271995324daab18385d40881",
+      "md_span": {
+        "start": 10981,
+        "end": 11345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat garantéiert d’Recht op Aarbecht a këmmert sech drëm, dass et ausgeüübt ka ginn.",
+      "text_sha256": "2169065d73669342088bed4f81d7e21e617060d9220d8ef417b189f50cb4f065",
+      "md_span": {
+        "start": 11439,
+        "end": 11527
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat fërdert de Sozialdialog.",
+      "text_sha256": "e73a2b47d98f308a7e3d3b6047718eb8a4ded73592d2192483ee32a049be0b48",
+      "md_span": {
+        "start": 11564,
+        "end": 11597
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat suergt derfir, datt jidderee mënschewierdeg ka liewen an eng gëeegent Wunneng huet.",
+      "text_sha256": "ec558841e7c18324ece7d1c24254df69fe6507a8f61741e075d04b840de4ba5e",
+      "md_span": {
+        "start": 11634,
+        "end": 11726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat garantéiert de Schutz vun der mënschlecher a natierlecher Ëmwelt, andeems e sech fir en dauerhaft Gläichgewiicht asetzt tëschent dem Erhalt vun der Natur, virun allem hirer Kapazitéit, sech ze erneieren, an dem Erhalt vun der Biodiversitéit, an der Satisfaktioun vun de Besoine vun den haitegen an den nächste Generatiounen.\n\nDe Staat verflicht sech, de Klimawandel ze bekämpfen a sech fir d’Klimaneutralitéit anzesetzen.\n\nHien erkennt un, dass d’Déieren netmënschlech Liewewiese sinn, déi eng Sensibilitéit hunn, a suergt dofir, dass hiert Wuelbefanne geschützt gëtt.",
+      "text_sha256": "688029ba72edba3924e572ac657279da67757e1f75d6608dc62993277cf48305",
+      "md_span": {
+        "start": 11763,
+        "end": 12340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat garantéiert den Zougang zur Kultur an d’Recht op kulturell Selbstverwierklechung.\n\nDe Staat fërdert de Schutz vum kulturelle Patrimoine.",
+      "text_sha256": "aa9ea274d3a54a8931d20391a1bb5a6635297541fa1b3046803842460e61b023",
+      "md_span": {
+        "start": 12377,
+        "end": 12522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *D’Rechter an d’Fräiheeten*",
+        "**Sektioun 4.** — *Staatsziler mat Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staat fërdert d’Fräiheet vun der wëssenschaftlecher Fuerschung am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.",
+      "text_sha256": "6ea3fa3f7b7d0942cea434274e813c448a40449e2a535c6b851f2866b2090e88",
+      "md_span": {
+        "start": 12559,
+        "end": 12756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Grand-Duc ass de Staatschef.\n\nHie representéiert de Staat. Hien ass d’Symbol vun der nationaler Eenheet an Onofhängegkeet.\n\nSeng Persoun ass onverletzlech.\n\n**(2)** De Grand-Duc huet nëmmen déi Attributiounen, déi d’Verfassung an d’Gesetzer him iwwerdroen.\n\nHien exercéiert zesumme mat der Regierung d’Exekutivgewalt.\n\n**(3)** Dem Grand-Duc seng Bestëmmunge musse vun engem Member vun der Regierung, deen d’Verantwortung derfir iwwerhëlt, géigegezeechent ginn.",
+      "text_sha256": "7abaa35c035990e6db8f17f9a57e701e34a1329b2a205c30b00a5763ff92e897",
+      "md_span": {
+        "start": 12883,
+        "end": 13354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Grand-Duc hëlt d’Reglementer an d’Arrêtéen, déi fir d’Vollstreckung vun de Gesetzer néideg sinn.\n\n**(2)** An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kann de Grand-Duc Reglementer an Arrêtéen nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung huelen, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet.\n\n**(3)** Hien hëlt d’Reglementer, déi néideg sinn, fir d’Rechtsakte vun der europäescher Unioun ze applizéieren.\n\nAn de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung geholl ginn, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet. Geméiss de Konditiounen, déi d’Gesetz festleet, kënnen dës Reglementer vu besteeënde Gesetzesbestëmmungen ofwäichen oder se ersetzen.",
+      "text_sha256": "d2037baadae73b1da8f9311d570267edcb0544757b6284f172e09ac62c43cd5f",
+      "md_span": {
+        "start": 13391,
+        "end": 14305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc schléisst d’Traitéen a kënnegt se. D’Traitéen – ausser, een Traité enthält eng spezifesch Klausel dozou – an hir Kënnegung wierken eréischt, nodeems si vun engem Gesetz autoriséiert goufen. Si gi publizéiert an de Formen, déi fir d’Publikatioun vun de Gesetzer virgesi sinn.\n\nDe Grand-Duc mécht d’Reglementer an d’Arrêtéen, déi fir d’Ausféierung vun den Traitéen néideg sinn, an de Formen, déi d’Ausféierungsmoossname vun de Gesetzer reegelen, a mat der Wierkung, déi dës Moossnamen hunn, ouni Schued fir d’Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.",
+      "text_sha256": "d9834326e786aadaaa585e1c52c921ec06be72f01866db92dbdb2cc002dd994e",
+      "md_span": {
+        "start": 14342,
+        "end": 14923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Am Ausübe vun der Muecht, déi den Artikel 45, Paragraf 1 an 3, Alinea 1 an den Artikel 46, Alinea 2 vun der Verfassung him ginn, kann de Grand-Duc an de Fäll, déi hie festleet, d’Membere vu senger Regierung beoptragen, Ausféierungsbestëmmungen ze huelen.",
+      "text_sha256": "6aff5c33f16b0b4d489a0d49d7c5701e28f73da1f2298f69742bf7c2cc7cb897",
+      "md_span": {
+        "start": 14960,
+        "end": 15214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Am Fall vun enger internationaler Kris, vu reelle Menacë fir d’vital Interessie vun der ganzer Populatioun oder engem Deel dovun oder vun enger imminenter Gefor wéinst schwéiere Beanträchtegunge vun der ëffentlecher Sécherheet kann de Grand-Duc an alle Beräicher per Reglement Moossnamen ergräifen, nodeems hien d’Drénglechkeet vun der Situatioun festgestallt huet, déi doraus resultéiert, dass et der Chamber onméiglech ass, matzäit ze legiferéieren.\n\nDës Moossname kënne vu Gesetzer, déi existéieren, ofwäichen. Si mussen néideg, adequat a proportional zum Zil, dat verfollegt gëtt, a konform mat der Verfassung an den internationalen Traitéë sinn.\n\nD’Verlängerung vum Krisenzoustand iwwer zéng Deeg eraus kann nëmmen duerch een oder méi Gesetzer entscheet ginn, déi d’Dauer dovu festleeën, woubäi d’Verlängerung eng maximal Dauer vun dräi Méint net iwwerschreiden dierf. Dës Gesetzer gi mat enger qualifizéierter Majoritéit vun zwee Drëttel vun de Stëmme vun den Deputéierte gestëmmt. D’Ofstëmmung iwwer Procuratioun ass dobäi net erlaabt.\n\nAll Reglementer, déi opgrond vun dëser Bestëmmung geholl ginn, verléieren hir Wierkung spéitstens, wann de Krisenzoustand eriwwer ass.\n\nD’Chamber ka wärend dem Krisenzoustand net opgeléist ginn.",
+      "text_sha256": "0be2fb63571138f8e887d2204c3b3245872f0c424f1b5f2775489c12358da06a",
+      "md_span": {
+        "start": 15251,
+        "end": 16489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc promulgéiert d’Gesetzer bannent dräi Méint, nodeems se vun der Chamber ugeholl goufen.",
+      "text_sha256": "b1a1724df104db8e13955fc622afc8821bf69efd6ed409c7ae79fb87ff93eb92",
+      "md_span": {
+        "start": 16526,
+        "end": 16625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Grand-Duc ernennt a Konformitéit mam Gesetz fir ëffentlech Aarbechtsplazen, ausser, d’Gesetz gesäit dat anescht vir.\n\n**(2)** Eng vum Staat bezuelten Aarbechtsplaz kann nëmmen opgrond vun engem Gesetz geschafe ginn.\n\n**(3)** De Statut vun de Staatsbeamte gëtt vum Gesetz festgeluecht.",
+      "text_sha256": "632cbbfeea1f1ac4342da9e440f6613e5e0b5e350fd158256fc69658181832a2",
+      "md_span": {
+        "start": 16662,
+        "end": 16957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc huet d’Recht, d’Strofen, déi vun de Geriichter gesprach goufen, an de Konditiounen, déi d’Gesetz festleet, opzehiewen oder erofzesetzen.",
+      "text_sha256": "072c93cc61d692a72fa352d3233e8f703606231a1289254faffe83681943637f",
+      "md_span": {
+        "start": 16994,
+        "end": 17143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc huet d’Recht, Adelstitelen un d’Membere vun der groussherzoglecher Famill ze verginn, ouni awer jeemools Privileegien domat ze verbannen.",
+      "text_sha256": "9c69b0754ee6646f975cdb21d92b44ef8f8f3973db46523c6fa6ebf2ab3d4a57",
+      "md_span": {
+        "start": 17180,
+        "end": 17330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Grand-Duc dréit den Titel vum Kommandant vun der Arméi. Dëse Kommando gëtt ënner der Verantwortung vun der Regierung ausgeüübt.\n\n**(2)** De Grand-Duc iwwergëtt zivil a militäresch Uerden am Respekt vum Gesetz.",
+      "text_sha256": "6a0a734774415be5bfb3b7e7b8c455efe42645a582fcb47a18ef28be3ae5b458",
+      "md_span": {
+        "start": 17367,
+        "end": 17587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc, de fréiere Staatschef, den Ierfgroussherzog, de Regent an de Lieutenant-Representant kréien eng järlech Dotatioun aus dem Staatsbudget. D’Elementer an de Montant dovunner gi vum Gesetz festgeluecht.\n\nDe Grand-Duc definéiert an organiséiert seng Verwaltung, déi d’Rechtsperséinlechkeet huet, a berécksiichtegt dobäi den ëffentlechen Interessi.",
+      "text_sha256": "dac417127387f6f83cf0d1c6615bc2685976f1a86558e2d9f2fbc9e94c7a2cb5",
+      "md_span": {
+        "start": 17624,
+        "end": 17980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 1.** — *D’Funktioun vum Staatschef*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De groussherzogleche Palais an der Stad Lëtzebuerg an d’Schlass Bierg sinn dem Grand-Duc als Residenz virbehalen.",
+      "text_sha256": "9e52ed59391ed7ffe98bd3d5c912e5aba69e525ea308df2bd1485668c348391f",
+      "md_span": {
+        "start": 18017,
+        "end": 18130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Funktioun vum Staatschef ass verierflech ënnert den direkte Nokomme vu Senger Kinneklecher Altesse Adolphe, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, an der Reiefolleg vun der Éischtgebuert an no der Reegel vun der Vertriedung. Nëmme Kanner, déi an engem Bestietnis gebuer goufen, kënnen d’Nofolleg untrieden.\n\n**(2)** D’Persoun, déi zur Nofolleg berechtegt ass, kann dorop verzichten. Dëse Verzicht huet d’Form vun engem schrëftlechen Akt, deen net ka widderruff ginn an deem seng Konsequenzen nëmmen den Auteur betreffen.\n\nWann aussergewéinlech Ëmstänn dat verlaangen, kann d’Chamber eng oder méi Persounen duerch e Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, vun der Trounfolleg ausschléissen.\n\n**(3)** Wann et keen Nofollger gëtt, versammelt sech d’Chamber spéitstens drësseg Deeg nom Doud oder der Ofdankung vum Grand-Duc, fir en neie Staatschef ze designéieren. D’Entscheedung gëtt mat der qualifizéierter Majoritéit ugeholl.\n\n**(4)** Dem Grand-Duc seng Ofdankung muss d’Form vun engem schrëftlechen Akt hunn, deen net ka widderruff ginn.",
+      "text_sha256": "050727e207eda8e50359f0bbf2f8e2ae109a6278aef2fc7c18ab02e1a38e8b34",
+      "md_span": {
+        "start": 18221,
+        "end": 19294
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Grand-Duc ass Staatschef vun deem Moment un, wou hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“\n\n**(2)** Den Eed gëtt spéitstens den zéngten Dag nom Doud, der Ofdankung oder der Designatioun vum Grand-Duc ënnert de Konditioune vum Artikel 56, Paragraf 3 ofgeluecht.\n\n**(3)** De Refus, den Eed ofzeleeën, bedeit de Verzicht op d’Funktioun vu Staatschef.",
+      "text_sha256": "9c92dff9e0b5c80f9e30959c74edd0ab7fc1e58e17681e3ce91281775cc07623",
+      "md_span": {
+        "start": 19331,
+        "end": 19822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_58",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc ka sech vun enger Persoun vertriede loossen, déi d’Konditioune vum Artikel 56, Paragraf 1 erfëllt an déi den Titel „Lieutenant-Representant vum Grand-Duc“ dréit.\n\nDe Lieutenant-Representant vum Grand-Duc iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“",
+      "text_sha256": "a266aeabd779487267c5ae937d30823031defbb13ff1371f036c5bb6d10f40ea",
+      "md_span": {
+        "start": 19859,
+        "end": 20293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_59",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Wa beim Grand-Duc sengem Doud oder um Datum vu senger Ofdankung säin Nofollger mannerjäreg ass, versammelt sech d’Chamber bannent zéng Deeg, fir d’Regence op Propositioun vun der Regierung ze reegelen.\n\nWann et dem Grand-Duc onméiglech ass, seng constitutionnell Attributiounen zäitweileg ze erfëllen oder den Eed ofzeleeën, deen den Artikel 57 virgesäit, informéiert d’Regierung d’Chamber doriwwer. D’Chamber versammelt sech bannent zéng Deeg, fir dës Onméiglechkeet festzestellen an eng Regence anzesetzen.\n\nD’Regence kann nëmmen enger eenzeler Persoun uvertraut ginn, déi groussjäreg muss sinn an zum Persounekrees, deen am Artikel 56, Paragraf 1 genannt gëtt, gehéiere muss.\n\nDe Regent iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“\n\nD’Regence hält op, wann den Nofollger groussjäreg gëtt oder wann déi zäitweilleg Onméiglechkett vum Grand-Duc, seng constitutionnell Attributiounen ze erfëllen, eriwwer ass.\n\nD’Regierung informéiert d’Chamber doriwwer, déi bannent zéng Deeg zesummekënnt, fir der Regence en Enn ze setzen.",
+      "text_sha256": "da26c1c38454f9acc43ec0a50cf124b0ae89a58eb2f384558b143daf54a952c6",
+      "md_span": {
+        "start": 20330,
+        "end": 21527
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_60",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Wann de Grand-Duc seng constitutionnell Attributiounen net erfëllt, entscheet d’Chamber, op Ufro vun der Regierung an nodeems den Avis vum Staatsrot gehéiert gouf, mat der qualifizéierter Majoritéit, datt een dovun ausgoe muss, datt de Grand-Duc ofgedankt huet.",
+      "text_sha256": "34e4a5baad095dc9cd568fca8f40f1cf0f25fc81b950e17cc01745e36a8cd0b3",
+      "md_span": {
+        "start": 21564,
+        "end": 21825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_61",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *De Grand-Duc*",
+        "**Sektioun 2.** — *D’constitutionnell Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Vum Grand-Duc sengem Doud, senger Ofdankung oder der Feststellung un, datt et him net méiglech ass, seng constitutionnell Attributiounen ze erfëllen, bis datt säin Nofollger den Eed ofleet, gëtt d’Funktioun vu Staatschef vun der Regierung ausgeüübt. Dat ass och de Fall, wann de Regent stierft oder demissionéiert.",
+      "text_sha256": "265c86ff2c0dff92e0386ecd2628c3d0d75fe59b5b97972ec9003dd636adef55",
+      "md_span": {
+        "start": 21862,
+        "end": 22176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_62",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 1.** — *D’Vertriedung vum Land*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber vertrëtt d’Land. Si exercéiert d’legislativ Gewalt. Si kontrolléiert d’Aktioun vun der Regierung.\n\nD’Deputéiert stëmmen ouni Récksproch mat hiren Optraggeber of an dierfen nëmmen d’Allgemengwuel a Betruecht zéien.",
+      "text_sha256": "e53085c288280c6b2e096fe0f8f05de7c234b5d1d0b98f2885658714027951a7",
+      "md_span": {
+        "start": 22316,
+        "end": 22539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_63",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 1.** — *D’Vertriedung vum Land*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Chamber besteet aus siechzeg Deputéierten.\n\n**(2)** D’Deputéiert gi fir fënnef Joer gewielt.\n\n**(3)** D’Wal ass direkt. D’Deputéiert ginn opgrond vum allgemenge Walrecht, op Lëschten, no de Reegele vun der proportionaler Vertriedung an nom Prinzip vum klengste Walquotient gewielt.\n\nD’Wal ass obligatoresch a geheim. Hir Modalitéite gi vum Gesetz gereegelt.\n\n**(4)** D’Land ass a véier Walbezierker agedeelt:\n\n1. de Süde mat de Kantonen Esch-Uelzecht a Capellen;\n2. den Zentrum mat de Kantone Lëtzebuerg a Miersch;\n3. den Norde mat de Kantonen Dikrech, Réiden, Wolz, Clierf a Veianen;\n4. den Oste mat de Kantone Gréiwemaacher, Réimech an Iechternach.\n\nE Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, leet d’Zuel vun den Deputéierte fest, déi an all Bezierk gewielt ginn.",
+      "text_sha256": "033820faa0827aa9afa3c30e107b8dfa8dff79d2555a9d8fb7f5e93fa93d5522",
+      "md_span": {
+        "start": 22576,
+        "end": 23371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_64",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 1.** — *D’Vertriedung vum Land*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Fir wielen ze kënnen, muss ee Lëtzebuerger an uechtzéng Joer al sinn.\n\n**(2)** Fir kënne gewielt ze ginn, muss een ausserdeem säi Wunnsëtz am Grand-Duché vu Lëtzebuerg hunn.\n\n**(3)** An de Fäll, déi d’Gesetz virgesäit, kënnen d’Geriichter de Verloscht vum aktiven a vum passive Walrecht ausspriechen.",
+      "text_sha256": "04ab467defdcc1515b4897176f9cfc24d309321fd4f087d95d610b4a5d600176",
+      "md_span": {
+        "start": 23408,
+        "end": 23716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_65",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 1.** — *D’Vertriedung vum Land*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Mandat vum Deputéierten ass onvereenbar mat de Funktioune vum Regierungsmember a vum Member vum Staatsrot.\n\nDéi selwecht Onvereenbarkeet gëllt fir ëffentlech Aarbechtsplazen a Funktiounen, déi vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, festgeluecht ginn. Si kann op aner politesch Mandater ausgebreet ginn, déi vun engem Gesetz, dat mat der qualifizéiert Majoritéit ugeholl gëtt, festgeluecht ginn.",
+      "text_sha256": "b8b872f7bf17b61efc52ac8c4ced8ca2f3cd26b5d25acf14bf40f51ea8f3a245",
+      "md_span": {
+        "start": 23753,
+        "end": 24181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_66",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 1.** — *D’Vertriedung vum Land*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Den Deputéierten, dee vun der Regierung fir eng bezuelten Aarbechtsplaz ernannt gëtt, déi hien akzeptéiert, verléiert direkt säi Sëtz a ka seng Funktioun nëmmen opgrond vun neie Walen nees iwwerhuelen.\n\n**(2)** Den Deputéierten, deen zum Regierungsmember ernannt gëtt, verléiert säi Mandat als Deputéierten. Hie gëtt nees op der Lëscht, op där hie gewielt gouf, als Suppleant an der Reiefolleg vun de Stëmmen, déi hie kritt huet, ageschriwwen.\n\nDat selwecht gëllt fir e Suppleant, deen zum Regierungsmember ernannt gouf a wärend sengem Regierungsmandat op e Mandat als Deputéierten, dat em zoustoung, verzicht huet.\n\nWann e puer Persounen erëm op d’Lëscht vun de Suppleanten ageschriwwe ginn, geschitt dat an der Reiefolleg vun der Stëmmenunzuel, déi si bei de Wale kritt hunn.\n\n**(3)** D’Persounen, déi vun enger Incompatibilitéit betraff sinn, kënnen tëschent dem Deputéiertemandat an hirer Plaz oder Aktivitéit wielen.",
+      "text_sha256": "37e71b3ec24a0ca7fad28cd6b014845956e1315fa74849a296e121ac3c0c4c32",
+      "md_span": {
+        "start": 24218,
+        "end": 25147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_67",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Chamber versammelt sech vum Recht hier den drëtten Dënschdeg no de Wale an enger ëffentlecher Sitzung, fir d’Pouvoire vun hire Memberen ze iwwerpréiwen.\n\n**(2)** D’Chamber ass zoustänneg fir festzestellen, datt ee vun hire Memberen de Statut vum Deputéierte verluer huet, well wärend dem Mandat en Ineligibilitéitsgrond am Sënn vum Artikel 64 oder eng Onvereenbarkeet am Sënn vum Artikel 65 opgetrueden ass.\n\n**(3)** E Recours géint dës Entscheedunge ka virum Verfassungsgeriicht agereecht ginn. D’Modalitéite vun dësem Recours gi vum Gesetz gereegelt.\n\n**(4)** Wa si hir Funktioun untrieden, leeën d’Deputéiert an enger ëffentlecher Sëtzung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“\n\n**(5)** Mat der ëffentlecher Versammlung vun der Chamber no de Walen, am Sënn vum Paragraf 1, ginn d’Funktioune vun den Deputéierten, déi aus de viregte Walen ervirgaange sinn, zu Enn.",
+      "text_sha256": "6d590d77f0ece3f729ba25a5c994360bb9d0f8afbe5b4f4b53881be34aed150e",
+      "md_span": {
+        "start": 25262,
+        "end": 26259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_68",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber bestëmmt duerch hiert Reglement d’Aart a Weis, no där si hir Attributiounen ausüübt, souwéi hir materiell a finanziell Organisatioun, dorënner och de Statut vun hire Beamten.\n\nD’Chamberreglement leet d’Ausféierungsbestëmmunge vun de Gesetzer fest, déi hir Organisatioun betreffen.",
+      "text_sha256": "9fce4ccb882dba7f9b932d9f4c68f536e5ccbdf6abfd239bc88dc4bc2c51c574",
+      "md_span": {
+        "start": 26296,
+        "end": 26586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_69",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber ernennt hire President an hir Vizepresidenten a stellt hire Büro zesummen.",
+      "text_sha256": "61415e77b28db8305581d8988aae2e7050ed286f6db64448f583999ac6783438",
+      "md_span": {
+        "start": 26623,
+        "end": 26707
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_70",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Sëtzunge vun der Chamber sinn ëffentlech, ausser an de Fäll, déi hiert Reglement virgesäit.",
+      "text_sha256": "8f7539f885e9ad42de2f3050a3e52b51d770c0387ec0c05a7f50ebe83efba331",
+      "md_span": {
+        "start": 26744,
+        "end": 26837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_71",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber kann nëmmen Entscheedungen, Resolutiounen a Motiounen unhuelen, wann d’Majoritéit vun den Deputéierte versammelt ass.\n\nAll Entscheedung, all Resolutioun an all Motioun gëtt mat der Majoritéit vun de Stëmmen ugeholl. D’Enthalunge ginn net fir d’Berechnung vun der Majoritéit a Betruecht gezunn. D’Ofstëmmung iwwer Procuratioun ass erlaabt. Keen Deputéierten dierf méi wéi eng Procuratioun kréien.\n\nD’Decisiounen an d’Resolutiounen, fir déi d’Verfassung d’qualifizéiert Majoritéit verlaangt, musse mat op d’mannst zwee Drëttel vun de Stëmme vun den Deputéierten ugeholl ginn. D’Ofstëmmung iwwer Procuratioun ass an dëse Fäll net erlaabt.",
+      "text_sha256": "c204eb176be92db89d6f3ebf9735b1f956da62166915e29c76d52879c99f5fb5",
+      "md_span": {
+        "start": 26874,
+        "end": 27519
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_72",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamberreglement leet d’Majoritéitsreegele fir d’Ernennung vu Persounen op Mandater oder Funktiounen fest, fir déi d’Chamber zoustänneg ass.",
+      "text_sha256": "440ee394eb3bc36f304b3b761afe368cf4850f492f0a62a09d2ec8150f66b3f0",
+      "md_span": {
+        "start": 27556,
+        "end": 27698
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_73",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Grand-Duc kann nëmme virgezunne Wale fixéieren, wann d’Chamber mat der Majoritéit vun hire Memberen entweeder der Regierung e Vertrauensvote refuséiert oder e Mësstrauensvote géint d’Regierung unhëlt.\n\nWann d’Regierung demissionéiert an d’Chamber mat der absoluter Majoritéit vun hire Memberen den Accord dozou gëtt, fixéiert de Grand-Duc virgezunne Walen.\n\nD’Neiwale gi spéitstens bannent dräi Méint ofgehalen.\n\nDe Grand-Duc ka keng virgezunne Wale wärend dem Krisenzoustand fixéieren.",
+      "text_sha256": "5e5764187f9312fe6cafc34244763280d0383fd118ae2315448a60c5f139b1c0",
+      "md_span": {
+        "start": 27735,
+        "end": 28224
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_74",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Regierungsmemberen hunn Zougang zu der Chamber a musse gehéiert ginn, wa si dat verlaangen.",
+      "text_sha256": "8e00c2948e025eaa0c9e684b733f0c5255b08f87ba590be37c300d4e5fd1d4fc",
+      "md_span": {
+        "start": 28261,
+        "end": 28354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_75",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 2.** — *D’Organisatioun an de Fonctionnement vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Fir d’Missiounen ze erfëllen, déi am Artikel 62 virgesi sinn, kann d’Chamber:\n\n1. d’Präsenz vun engem oder méi Membere vun der Regierung verlaangen;\n2. Froen an Interpellatiounen un d’Regierung adresséieren, op déi d’Regierung verflicht ass ze äntweren;\n3. all méiglech Informatiounen an Dokumenter vun der Regierung verlaangen;\n4. e Vertrauens- oder e Mësstrauensvote géintiwwer der Regierung unhuelen.\n\nD’Ausübe vun dëse Prerogativë gëtt am Chamberreglement gereegelt.",
+      "text_sha256": "b978082f1b268e30cce53c2fc7b7e50874a88246a68a934b9212f3fcde3da9b5",
+      "md_span": {
+        "start": 28391,
+        "end": 28861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_76",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 3.** — *D’Unhuele vun de Gesetzer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Regierung deposéiert Gesetzesprojete bei der Chamber.",
+      "text_sha256": "a7dbe01d0b0fda8dea140046d855dbfd87517ffbcdfff30fb4a16fa5458923aa",
+      "md_span": {
+        "start": 28949,
+        "end": 29004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_77",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 3.** — *D’Unhuele vun de Gesetzer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Deputéierten huet d’Recht, fir der Chamber Gesetzespropositiounen ze ënnerbreeden.",
+      "text_sha256": "0341b14c142db151aa679f203c151eee58b5b20de725475b474d03851cd0540b",
+      "md_span": {
+        "start": 29041,
+        "end": 29127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_78",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 3.** — *D’Unhuele vun de Gesetzer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Gesetzer gi vun der Chamber ugeholl.\n\n**(2)** D’Chamber kann d’Gesetzesprojeten an d’Gesetzespropositiounen änneren.\n\n**(3)** D’Chamber stëmmt iwwer dat ganzt Gesetz of. Et gëtt ëmmer mam Numm ofgestëmmt.\n\nWann op d’mannst fënnef Deputéiert dat verlaangen, ka virun der Ofstëmmung iwwer dat ganzt Gesetz eng Ofstëmmung iwwer een oder méi Artikele vum Gesetz gemaach ginn.\n\n**(4)** Iwwer all Gesetz gëtt eng zweete Kéier ofgestëmmt, ausser wann d’Chamber mam Accord vum Staatsrot, deen dofir an enger ëffentlecher Sëtzung zësummekënnt, de Contraire entscheet. Et gëtt en Intervalle vu mindestens dräi Méint tëschent den zwou Ofstëmmungen.",
+      "text_sha256": "5a11931949d602ae48fb8ac8cb6d4fc91839ce62c338415332fc1febf99e5c1a",
+      "md_span": {
+        "start": 29164,
+        "end": 29811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_79",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 4.** — *Déi aner Attributioune vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Zu de motivéierte Propositiounen, déi op eng Gesetzgebung hinzilen an déi vu mindestens honnertfënnefanzwanzeg Wieler presentéiert ginn a vu mindestens zwielefdausendfënnefhonnert Wieler ënnerstëtzt ginn, hëllt d’Chamber an enger ëffentlecher Sitzung Stellung.\n\nD’Gesetz reegelt d’Ausübe vun dësem legislativen Initiativrecht.",
+      "text_sha256": "6d611a693d0c68fd83021e451344a77b8c0bfa10fd23769175dbc928750dc7d0",
+      "md_span": {
+        "start": 29912,
+        "end": 30238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_80",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 4.** — *Déi aner Attributioune vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber kann decidéieren, e Referendum duerchzeféieren an de Fäll, ënnert de Konditiounen a mat der Wierkung, déi an engem Gesetz festzeleeë sinn.",
+      "text_sha256": "b8e1adcc0bfcac811125cfd7efd85dac9271fadb0e28981b4d46a7bef77fcbfe",
+      "md_span": {
+        "start": 30275,
+        "end": 30423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_81",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 4.** — *Déi aner Attributioune vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber huet d’Recht, Enquêten duerchzeféieren. D’Gesetz reegelt d’Ausübe vun dësem Recht.\n\nEng Enquêtëkommissioun muss agesat ginn, wa mindestens een Drëttel vun den Deputéierten dat verlaangt.",
+      "text_sha256": "aa279139722d2c2001db1c5ccfbe86ebce2c830fd1bb13307a3acf6fb066206f",
+      "md_span": {
+        "start": 30460,
+        "end": 30656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_82",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 4.** — *Déi aner Attributioune vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Chamber hëlt d’Petitiounen entgéint, déi an der Form, déi hiert Reglement virgesäit, u si adresséiert ginn.",
+      "text_sha256": "04135902fba4c33d85265cbcde7a047159ae1e0e7d7257f1d0bf22133750fa3e",
+      "md_span": {
+        "start": 30693,
+        "end": 30802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_83",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 4.** — *Déi aner Attributioune vun der Chamber*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Den Ombudsman gëtt vum Grand-Duc ernannt, op Virschlag vun der Chamber, dee mat der qualifizéierter Majoritéit, déi am Artikel 71, Alinea 3 virgesinn ass, gestëmmt gëtt.\n\nDem Ombudsman seng Kompetenzen, d’Reegele vu sengem Fonctionnement an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.",
+      "text_sha256": "8b78b662f9d08756c07229791ffddec9f9268b6ffbb718aa866b5ae1e9c0368d",
+      "md_span": {
+        "start": 30839,
+        "end": 31136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_84",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 5.** — *De Statut vum Deputéierten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "En Deputéierte ka wéinst de Meenungen an de Votten, déi hien am Ausübe vu senge Funktiounen ausdréckt, weeder zivilrechtlech nach strofrechtlech belaangt ginn.",
+      "text_sha256": "fa1c4a330c43d9ffc2739a9fb7b8ed32103656f25c67c4423fc442198bad672b",
+      "md_span": {
+        "start": 31225,
+        "end": 31384
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_85",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 5.** — *De Statut vum Deputéierten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Mat Ausnam vun de Fäll, déi am Artikel 84 ernimmt sinn, kënnen d’Deputéiert strofrechtlech verfollegt ginn.\n\nAllerdéngs kann en Deputéierten nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet, ausser wann en op frëscher Dot ertappt gëtt.\n\nD’Autorisatioun vun der Chamber ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint en Deputéierte gesprach ginn.",
+      "text_sha256": "fbd852cfdb5df8be19110cde914388bf0a00544ed3fff17a7620c0f90d2d2c5e",
+      "md_span": {
+        "start": 31421,
+        "end": 31838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_86",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *D’Chamber vun den Deputéierten*",
+        "**Sektioun 5.** — *De Statut vum Deputéierten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Deputéiert kréien eng Indemnitéit, där hire Montant an hir Konditioune vum Gesetz festgeluecht ginn.",
+      "text_sha256": "66d59679e7e0ca636a3c7bdc60a8210cb7b0e47af2408d3c3ae2ea28a73642d7",
+      "md_span": {
+        "start": 31875,
+        "end": 31977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_87",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Regierung dirigéiert d’allgemeng Politik vum Staat.",
+      "text_sha256": "ecd0d9dd9803e4074c3b106ee9c020377f2c2653445cae8214fe49bb41773e06",
+      "md_span": {
+        "start": 32049,
+        "end": 32102
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_88",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Regierung besteet aus engem Premierminister, engem oder méi Vizepremierministeren, Ministeren an eventuell engem oder méi delegéierte Ministeren a Staatssekretären.\n\nDe Grand-Duc ernennt de Premierminister an déi aner Membere vun der Regierung a beendegt hir Funktiounen.\n\nIer si hir Funktioun untrieden, leeën d’Membere vun der Regierung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“",
+      "text_sha256": "4224bdaf29f6a7ec29c31f82410f55a0b7e248e9e31ec6aec0f751862d274430",
+      "md_span": {
+        "start": 32139,
+        "end": 32639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_89",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Funktioun vum Regierungsmember ass net vereenbar mat der Funktioun vum Deputéierten, Member vum Staatsrot, Member vun engem Gemengerot an och net mat ëffentlechen Ämter oder enger berufflecher Aktivitéit.",
+      "text_sha256": "8dcd29adef00cb846213bdf1dcd5de9b9e2c63c232cd7be161a0f94e8f23bc88",
+      "md_span": {
+        "start": 32676,
+        "end": 32882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_90",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Membere vun der Regierung exercéieren hir Attributiounen entweeder am Regierungsrot oder eenzel fir déi Ugeleeënheeten, fir déi si zoustänneg sinn.",
+      "text_sha256": "fb24e13daf5a208a3370db32bf2f861da87be8ce1c8bc35d1cd77b27bd34cd3b",
+      "md_span": {
+        "start": 32919,
+        "end": 33068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_91",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Premierminister koordinéiert d’Regierungsgeschäfter a suergt fir en eenheetlecht Virgoe vun der Regierung.",
+      "text_sha256": "5b3ccceae7dce35986f81170952db95a73c9bb1a769a72e3e90b4f0edcf84797",
+      "md_span": {
+        "start": 33105,
+        "end": 33214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_92",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Regierung leet hir Organisatioun an hire Fonctionnement an engem interne Reglement fest, dat duerch e groussherzoglechen Arrêté approuvéiert gëtt, mat Ausnam vun de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.",
+      "text_sha256": "087f04da1f8b8613c6fe713e3cf5058a245867f655ab895efd3854e7d265aa56",
+      "md_span": {
+        "start": 33251,
+        "end": 33479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_93",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Premierminister engagéiert d’Verantwortung vun der neier Regierung, wann en der Chamber de Regierungsprogramm presentéiert.\n\n**(2)** Am Zesummenhang mat enger Ofstëmmung iwwert e Gesetzesentworf oder mat enger Regierungserklärung kann de Premierminister mam Accord vum Regierungsrot d’Verantwortung vun der Regierung géintiwwer der Chamber engagéieren.\n\n**(3)** D’Chamber kann d’Verantwortung vun der Regierung duerch e Mësstrauensvote engagéieren.\n\n**(4)** Wann d’Chamber der Regierung hiert Vertraue refuséiert, presentéiert de Premierminister dem Grand-Duc d’Demissioun vun der Regierung.\n\n**(5)** Déi demissionär Regierung dirigéiert weider d’allgemeng Politik vum Staat.",
+      "text_sha256": "ba309f1269b1e3593e8f74e272627d34711196ab032323c87aad183edf935bf0",
+      "md_span": {
+        "start": 33516,
+        "end": 34202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_94",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *D’Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Regierung an hir Membere si virun der Chamber verantwortlech.\n\n**(2)** D’Membere vun der Regierung kënne wéinst Meenungen, déi si am Kader vun hire Funktiounen äusseren, weeder zivil- nach strofrechtlech verantwortlech gemaach ginn.\n\n**(3)** D’Membere vun der Regierung si strofrechtlech verantwortlech fir d’Handlungen, déi si am Ausübe vun hirer Funktioun beginn.\n\nNëmmen de Parquet kann eng Poursuite géint e Member vun der Regierung wéinst dësen Handlungen aleeden an dirigéieren, och nom Enn vun deem senger Funktioun.\n\n**(4)** Ausser wann en op frëscher Dot ertappt gëtt, kann e Member vun der Regierung nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet. Dës Autorisatioun ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint e Member vun der Regierung gesprach ginn.",
+      "text_sha256": "c317442dfd057c11ac35af0ecf4a3a4485cd2da774682e0b14bb3334caaa0ffc",
+      "md_span": {
+        "start": 34239,
+        "end": 35087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_95",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "**Kapitel VI.** — *De Staatsrot*"
+      ],
+      "article_valid_from": null,
+      "text_md": "De Staatsrot gëtt säin Avis zu de Gesetzesprojeten, de Gesetzespropositiounen an den Ännerungen of, déi dorunner kënne proposéiert ginn.\n\nWann de Staatsrot der Meenung ass, datt e Gesetzesprojet oder eng Gesetzespropositioun Bestëmmungen enthält, déi net konform si mat der Verfassung, mat internationalen Traitéen, bei deenen de Grand-Duché vu Lëtzebuerg Vertragsstaat ass, mat Rechtsakte vun der Europäescher Unioun oder mat den allgemenge Rechtsprinzippien, dann erwäänt hien dat a sengem Avis.\n\nWann d’Chamber Artikel fir Artikel iwwer e Gesetzesprojet oder eng Gesetzespropositioun ofgestëmmt huet, ouni datt de Staatsrot säin Avis ofginn huet, kann d’Chamber iwwer d’komplett Gesetz ofstëmmen, wa si en Delai vu mindestens dräi Méint anhält, nodeems si de Staatsrot informéiert huet.\n\nAusser an dréngende Fäll, déi an de Limitte vum Gesetz vum Grand-Duc appreciéiert ginn, gëtt de Staatsrot säin Avis iwwer Projete vu Reglementer of, déi fir d’Ausféierung vun de Gesetzer an den internationalen Traitéen a fir d’Applikatioun vun de Rechtsakte vun der Europäescher Unioun ugeholl ginn. Wann hien der Meenung ass, datt de Projet vum Reglement net konform mat de méi héije Rechtsnormen ass, da geet en a sengem Avis dorop an.\n\nD’Chamber an d’Regierung kënnen dem Staatsrot all aner Froen no deene vum Gesetz festgeluechte Modalitéite virleeën.",
+      "text_sha256": "a43b059311495bb56ada1610170b547783c9f86b0032fd6251b56758f878d39c",
+      "md_span": {
+        "start": 35161,
+        "end": 36507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_96",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "**Kapitel VI.** — *De Staatsrot*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Organisatioun vum Staatsrot an d’Aart a Weis, seng Kompetenzen auszeüben, gi vum Gesetz gereegelt.",
+      "text_sha256": "02db51889cf9f283380ad36212ae2342cfb9aa7eba4731e86135dbd1f37e3c31",
+      "md_span": {
+        "start": 36544,
+        "end": 36644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_97",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Justizgewalt gëtt vun de Geriichtshäff an de Geriichter exercéiert.\n\nD’Urteeler ginn am Numm vum Grand-Duc vollstreckt.",
+      "text_sha256": "98acdff5629bc85c2e550b594402ab7c982b04f42a0119e3d26863b921316170",
+      "md_span": {
+        "start": 36771,
+        "end": 36892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_98",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’uerdentlech Geriichter sinn allgemeng zoustänneg an alle Beräicher, mat Ausnam vun deenen Attributiounen, déi d’Verfassung un aner Geriichter mat enger spezifescher Zoustännegkeet iwwerdréit.",
+      "text_sha256": "a37282b2d4f1e10583ec8b5413710c3580e5df7690d13c067e4574637e56b87d",
+      "md_span": {
+        "start": 36929,
+        "end": 37122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_99",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Verwaltungsgeriichter si fir administrativ a steierlech Streidegkeeten zoustänneg an de Fäll an ënnert de Konditiounen, déi d’Gesetz festleet.",
+      "text_sha256": "47cc855ab49cdc1f401c0b3df00f2ca142a084b3a170376c66edca8cfcdf7fdc",
+      "md_span": {
+        "start": 37159,
+        "end": 37303
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_100",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Organisatioun vun de Geriichter am Beräich vun der Sozialversécherung gëtt vum Gesetz gereegelt.",
+      "text_sha256": "935d457c8d3e0916808b2141e3e5e4d97056706d5db4b8a05bf0105777884587",
+      "md_span": {
+        "start": 37342,
+        "end": 37440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_101",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz reegelt d’Organisatioun vun de Geriichter an d’Recoursen.",
+      "text_sha256": "43d46bad8efc30f1eb7c3c0120118e8ad712a631b148bd7a7f4f326c39b49e04",
+      "md_span": {
+        "start": 37479,
+        "end": 37545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_102",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Geriichter applizéieren d’Gesetzer an d’Reglementer nëmmen esouwäit, ewéi si konform mat de méi héije Rechtsnorme sinn.",
+      "text_sha256": "6eaf0df8c280565da635ed7b421285cd4950a0ca946a594ba7547295c39cce4b",
+      "md_span": {
+        "start": 37584,
+        "end": 37705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_103",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_103",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 103.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 1.** — *D’Organisatioun vun der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Annulatioun vun engem Reglement duerch e Verwaltungsgeriicht huet en absolutte Charakter vun deem Dag un, wou d’Urteel definitiv ass, ausser wann d’Geriicht, dat d’Annulatioun ausgeschwat huet, en aneren Delai ordonéiert.\n\nD’Geriicht, dat d’Annulatioun ausschwätzt, leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Reglement hat, kënnen a Fro gestallt ginn.",
+      "text_sha256": "6af78de7afeb6925b70bb255e6e6043a1fe1f6f6509f1a878637730b9c2073a2",
+      "md_span": {
+        "start": 37744,
+        "end": 38123
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_104",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_104",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 104.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 2.** — *De Statut vun de Magistraten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Riichtere sinn onofhängeg am Ausübe vun hire riichterleche Funktiounen.\n\n**(2)** De Parquet exercéiert d’ëffentlech Uklo a fuerdert d’Uwendung vum Gesetz. Am Ausübe vun individuelle Recherchen a Poursuitten ass en onofhängeg; der Regierung hiert Recht, strofpolitesch Direktiven ze ginn, bleift dobäi intakt.",
+      "text_sha256": "3463c5d12694c2415cb2a8dc5923eed16bf43dc2f7dcbe2da1193007e556f8cb",
+      "md_span": {
+        "start": 38216,
+        "end": 38534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_105",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_105",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 105.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 2.** — *De Statut vun de Magistraten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** De Statut vun de Riichteren a vun de Membere vum Parquet gëtt vum Gesetz festgeluecht.\n\n**(2)** D’Riichtere kënnen net ofgesat ginn.\n\n**(3)** D’Gesetz reegelt d’Pensionéierung vun de Riichteren a vun de Membere vum Parquet aus Alters-, Gesondheets- oder Déngschtonfäegkeetsgrënn.",
+      "text_sha256": "f8c3db6c90ca90fb866f164ef3edfc789ce593ccedba49cf58b325756364b702",
+      "md_span": {
+        "start": 38573,
+        "end": 38860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_106",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_106",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 106.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 2.** — *De Statut vun de Magistraten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ier si hir Funktioun untrieden, leeën d’Riichteren an d’Membere vum Parquet den Eed of, deen d’Gesetz virgesäit.",
+      "text_sha256": "6f2372e0f64645a81374a78dd47f4cd55c94b037482be369f88114666139fe7f",
+      "md_span": {
+        "start": 38899,
+        "end": 39011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_107",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_107",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 107.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 3.** — *Den nationale Justizrot*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Den nationale Justizrot suergt fir de gudde Fonctionnement vun der Justiz am Respekt vun hirer Onofhängegkeet.\n\nD’Zesummestellung an d’Organisatioun vum nationale Justizrot gi vum Gesetz festgeluecht. Den nationale Justizrot muss majoritär aus Magistrate bestoen.\n\nDe Grand-Duc ernennt d’Magistraten, déi vum nationale Justizrot proposéiert ginn, ënnert de Konditiounen, déi d’Gesetz virgesäit.\n\nDem Justizrot seng Attributiounen bei Disziplinarverfare géint Magistrate gi vum Gesetz festgeluecht.\n\nDem nationale Justizrot seng aner Attributioune gi vum Gesetz festgeluecht, dat och d’Ausübungsmodalitéiten dovunner festleet.",
+      "text_sha256": "6b1030c04315305569b605d0b3bb4b245b9959b78ec82b44dddea5ac6a3d9817",
+      "md_span": {
+        "start": 39099,
+        "end": 39724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_108",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_108",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 108.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 4.** — *De Persounen hir Garantië viru Geriicht*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Verhandlunge virun de Geriichter sinn ëffentlech, ausser wann dës Ëffentlechkeet e Risiko fir d’Uerdnung oder d’Sitten duerstellt, woubäi d’Geriicht dëst an esou engem Fall an engem Urteel deklaréiert.",
+      "text_sha256": "20fa83ab3c55ff8e4004a3287f63b8c8fca03dacabf6596682bd13c54a03f1cb",
+      "md_span": {
+        "start": 39828,
+        "end": 40031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_109",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_109",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 109.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 4.** — *De Persounen hir Garantië viru Geriicht*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Urteel ass begrënnt. Et gëtt an enger ëffentlecher Sëtzung gesprach.",
+      "text_sha256": "01c1cea47d89ddeb37796ddc27d887aba1598e56f3308fd9ec0fb5fb809ec077",
+      "md_span": {
+        "start": 40070,
+        "end": 40142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_110",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_110",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 110.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 4.** — *De Persounen hir Garantië viru Geriicht*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz garantéiert d’Onparteilechkeet vun de Riichteren, de fairen a loyale Charakter an de raisonnabelen Delai vun de Prozeduren, de Respekt vum Contradictoire an d’Rechter vun der Defense.",
+      "text_sha256": "9bbf46bc62281e7e29eb8ab15fc0e2ba95ba6c37b1dd332bdb62858efe95194b",
+      "md_span": {
+        "start": 40181,
+        "end": 40373
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_111",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_111",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 111.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 4.** — *De Persounen hir Garantië viru Geriicht*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Bestëmmunge vun der Verfassung stinn den Obligatiounen, déi aus dem Statut vum Internationale Strofgeriichtshaff ervirginn, net am Wee.\n\nSektioun 5. – D’Verfassungsgeriicht",
+      "text_sha256": "4cfc8847cb7d8e521b95b6d6687fd5925fd9e0422e03eceea4284fe53ee85699",
+      "md_span": {
+        "start": 40412,
+        "end": 40586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_112",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_112",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 112.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *D’Justiz*",
+        "**Sektioun 5.** — *D’Verfassungsgeriicht*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Verfassungsgeriicht entscheet per Arrêt iwwer d’Konformitéit vun de Gesetzer mat der Verfassung.\n\n**(2)** D’Verfassungsgeriicht ka prejudiciel no de Modalitéiten, déi d’Gesetz virgesäit, vun all Geriicht saiséiert ginn, fir iwwer d’Verfassungskonformitéit vun de Gesetzer, mat Ausnam vun de Gesetzer, déi Traitéen approuvéieren, ze entscheeden.\n\n**(3)** D’Verfassungsgeriicht reegelt d’Kompetenzkonflikter nom Verfaren, dat vum Gesetz bestëmmt gëtt.\n\n**(4)** Dem Verfassungsgeriicht seng Attributioune kënnen duerch e Gesetz, dat mat enger qualifizéierter Majoritéit vun op mannst zwee Drëttel vun de Stëmme vun de Membere vun der Chamber gestëmmt gëtt, erweidert ginn. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.\n\n**(5)** D’Verfassungsgeriicht besteet:\n\n1. aus néng effektive Memberen: 1. dem President vum Ieweschte Geriichtshaff an dem President vum Verwaltungsgeriichtshaff;\n2. zwee Riichtere vum Cassatiounshaff a fënnef Magistraten, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;\n2. siwe stellvertriedend Memberen, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;\n\n**(6)** D’Verfassungsgeriicht siegéiert an enger Chamber vu fënnef Memberen. Wann d’Verfassungsgeriicht der Meenung ass, dass eng Affär, mat där et saiséiert ass, besonnesch wichteg ass, da siegéiert et als Plenum mat néng Memberen.\n\n**(7)** D’Organisatioun vum Verfassungsgeriicht an d’Aart a Weis, wéi et seng Kompetenzen ausüübt, gi vum Gesetz gereegelt.\n\n**(8)** Gesetzesbestëmmungen, déi duerch en Urteel vum Verfassungsgeriicht als verfassungswiddereg deklaréiert goufen, verléieren hir juristesch Wierkung den Dag no der gesetzlech virgeschriwwener Verëffentlechung vun dësem Urteel, ausser wann d’Verfassungsgeriicht en aneren Delai ordonéiert huet. D’Verfassungsgeriicht leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Bestëmmung hat, kënnen a Fro gestallt ginn.",
+      "text_sha256": "ba080b170ab4ca3faa1c76c0c60784e3586207006d59c452645d8ef89cb99cdf",
+      "md_span": {
+        "start": 40672,
+        "end": 42685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_113",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_113",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 113.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 1.** — *Déi allgemeng Verwaltungsreegelen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Kee Gesetz, kee Reglement a keen allgemenge Verwaltungsarrêté ass obligatoresch, ausser nodeems et an der Form, déi d’Gesetz festleet, verëffentlecht gouf.",
+      "text_sha256": "1c40e9a3e77a3be869344317b9417b43c9f4b1209f786b83288828d2f5a77039",
+      "md_span": {
+        "start": 42858,
+        "end": 43013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_114",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_114",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 114.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 1.** — *Déi allgemeng Verwaltungsreegelen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz leet d’Konditiounen, d’Limitten an d’Modalitéite fest, ënnert deenen de Staat an déi aner ëffentlech-rechtlech juristesch Persoune fir Schied kënnen haftbar gemaach ginn, déi si verursaacht hunn oder déi hir Mandatairen oder Agenten am Ausübe vun hire Funktioune verursaacht hunn.",
+      "text_sha256": "8793abb1d1547981bae4197d97305b658365bc6d9557cf10485dbf70b8f3df54",
+      "md_span": {
+        "start": 43052,
+        "end": 43341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_115",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_115",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 115.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 1.** — *Déi allgemeng Verwaltungsreegelen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Organisatioun an d’Attributioune vun der Force publique gi vum Gesetz gereegelt.\n\nAll Deklaratioun iwwer de Krichszoustand an all Bedeelegung vun der Force publique un Operatiounen am Ausland erfuerderen d’Autorisatioun vun der Chamber no de Modalitéiten, déi d’Gesetz festleet.",
+      "text_sha256": "e6633d95b4381e997f4126a50b94c5c7ade89e57cd8788fedf66d7ea2ed75f34",
+      "md_span": {
+        "start": 43380,
+        "end": 43660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_116",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_116",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 116.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 2.** — *D’Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** All staatlech Steier, all Exemptioun oder Reduktioun vun de Steiere gi vum Gesetz festgeluecht.\n\n**(2)** D’Steieren zu Gonschte vum Staat ginn all Joer gestëmmt. D’Gesetzer, déi se festleeën, gëllen nëmme fir ee Joer, ausser si ginn erneiert.\n\n**(3)** Eng Contributioun ka vun de Bierger oder ëffentlechen Ariichtungen nëmmen a Form vun enger Steier zu Gonschte vum Staat oder enger Gemeng verlaangt ginn, ausser, d’Gesetz gesäit formell eng Ausnam vir.",
+      "text_sha256": "fd101d17f4c8109fea003ed1638483db8051a3eb59342bafb6d4b53ed15a95a1",
+      "md_span": {
+        "start": 43735,
+        "end": 44196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_117",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_117",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 117.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 2.** — *D’Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** All Prêt zu Laaschte vum Staat muss mat der Zoustëmmung vun der Chamber ofgeschloss ginn.\n\n**(2)** All Verkaf vu Grondeegentum oder beweegleche Gidder, déi dem Staat gehéieren, muss duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz kann allerdéngs eng Limitt festleeën, ënnert där eng speziell Autorisatioun vun der Chamber net néideg ass.\n\n**(3)** All Kaf vu gréisserem Grondeegentum oder gréissere beweegleche Gidder duerch de Staat, all Duerchféierung vun engem groussen Infrastrukturprojet oder enger grousser Konstruktioun zu Gonschte vum Staat an all grousst finanziellt Engagement vum Staat mussen duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz leet d’Grenzwäerter fest, vun deenen un dës Autorisatioun néideg ass, esouwéi d’Konditiounen an d’Modalitéite fir de Finanzement vun de Virbereedungsaarbechten.\n\n**(4)** All Charge, déi de Staatsbudget wärend méi wéi engem Exercice belaascht, muss duerch e speziellt Gesetz festgeluecht ginn.\n\n**(5)** All Pensioun, all Waardegeld an all Gratifikatioun zu Laaschte vum Staat ginn duerch e Gesetz accordéiert.",
+      "text_sha256": "e4f7f6274bf6aee5ddc8b4543cd5fbbf48e6a4ae547682b1cb36f9a876c27739",
+      "md_span": {
+        "start": 44235,
+        "end": 45338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_118",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_118",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 118.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 2.** — *D’Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Joer arrêtéiert d’Chamber d’Staatskonten duerch e Gesetz a stëmmt de Budget. All Recetten an Depensë vum Staat mussen an de Budget an an d’Konten agedroe ginn.",
+      "text_sha256": "91f445f2c62bf44ba7dfd5f23ca4c0eead0be9ed89d234a92785e2076e713758",
+      "md_span": {
+        "start": 45377,
+        "end": 45540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_119",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_119",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 119.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 2.** — *D’Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** E Rechnungshaff ass zoustänneg fir d’Kontroll vun der Finanzgestioun vun den Organer, Administratiounen a Servicer vum Staat. D’Gesetz kann him aner Missioune fir d’Kontroll vun der Finanzgestioun mat ëffentleche Gelder uvertrauen.\n\n**(2)** De Rechnungshaff ënnerbreet der Chamber seng Kriticken a Recommandatiounen zu de Staatskonten.\n\n**(3)** Dem Rechnungshaff seng Kompetenzen, seng Organisatioun esouwéi d’Modalitéite vu senger Kontroll an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.\n\n**(4)** D’Membere vum Rechnungshaff gi vum Grand-Duc op Propositioun vun der Chamber ernannt.",
+      "text_sha256": "4f5dd7672a2edf282741e6166aca05abdb0b2168820f2528db4838a7f64c03e7",
+      "md_span": {
+        "start": 45579,
+        "end": 46182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_120",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_120",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 120.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*",
+        "**Sektioun 3.** — *D’Relatiounen tëschent dem Staat an de Reliounsgemeinschaften*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Kierchen an d’Reliounsgemeinschafte si vum Staat getrennt.\n\nD’Gesetz reegelt d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschaften.\n\nAn de Limitten a Formen, déi d’Gesetz festleet, kënne Konventiounen, déi musse vun der Chamber approuvéiert ginn, d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschafte preziséieren.",
+      "text_sha256": "2b4c96c914180bcb0258a8a3330f04563e9257a9d33aaec3dfd9743108f2148d",
+      "md_span": {
+        "start": 46308,
+        "end": 46661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_121",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_121",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 121.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Gemenge sinn autonom Kollektivitéiten op territorialer Basis, déi d’Rechtsperséinlechkeet hunn an duerch hir Organer hir eegen Interessien an hiert eegent Verméige verwalten.\n\n**(2)** D’Gesetz reegelt d’Zesummesetzung, d’Organisatioun an d’Kompetenze vun de Gemengenorganer.",
+      "text_sha256": "4820dbab0e11c5ec7d6010b513f9da923a9343f6ae9281bbe252519251bd867e",
+      "md_span": {
+        "start": 46735,
+        "end": 47019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_122",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_122",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 122.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** All Gemeng huet e Gemengerot, deen op Basis vum allgemenge Walrecht direkt an duerch Geheimwal gewielt gëtt.\n\n**(2)** D’Gemeng gëtt ënnert der Autoritéit vun engem Schäfferot verwalt, deen aus dem Buergermeeschter an de Schäffe besteet. Si ginn innerhalb vun de Membere vum Gemengerot ernannt, an der Form, déi d’Gesetz virgesäit.",
+      "text_sha256": "1a80bf43b276aa0ac3e0b5c22aea7b7419924156e4647011c4a2c64ae7f9cc16",
+      "md_span": {
+        "start": 47058,
+        "end": 47396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_123",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_123",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 123.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Steieren zu Gonschte vun de Gemenge gi vum Gesetz festgeluecht.\n\nAm Respekt vu senge constitutionnellen a gesetzleche Kompetenze kann de Gemengerot d’Steieren an d’Taxe festleeën, déi néideg sinn, fir den Interessi vun der Gemeng kënnen ze realiséieren. D’Gemengesteieren an -taxe gi vun der Iwwerwaachungsautoritéit approuvéiert.\n\n**(2)** De Gemengerot erstellt all Joer de Gemengebudget a schléisst d’Konten of.\n\n**(3)** D’Gemengen hunn d’Recht op d’finanziell Ressourcen, fir d’Missiounen ze erfëllen, déi d’Gesetz hinnen uvertraut.",
+      "text_sha256": "593b45e6ce388dd9058c11a24a0efffade4fa90fa2b989713a29a12bf18352fc",
+      "md_span": {
+        "start": 47435,
+        "end": 47980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_124",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_124",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 124.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ausser an dréngende Fäll hëlt de Gemengerot d’Gemengereglementer.\n\nAn de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen d’Gemengereglementer nëmmen op Basis vun enger bestëmmter Gesetzesbestëmmung ugeholl ginn, déi d’Ziler vun den Ausféierungsmoossname an eventuell d’Konditioune festleet, deene si ënnerleien.\n\nD’Gemengereglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.",
+      "text_sha256": "1c83b6c082960a15c3f004cf9227b1ac8aea7a6e39a9f14bc9d182854c696c41",
+      "md_span": {
+        "start": 48019,
+        "end": 48480
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_125",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_125",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 125.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Fir d’Redaktioun vun de Persounestandsakten an d’Féiere vun de Registere vun dësen Akte sinn exklusiv d’Gemengenorganer zoustänneg, déi d’Gesetz festleet.\n\n**(2)** D’Gesetz leet de Statut vun de Gemengebeamte fest.",
+      "text_sha256": "8639cc59edfba63db724a0ce8390268b3453ccf7b578547c320ad3a039b2c084",
+      "md_span": {
+        "start": 48519,
+        "end": 48741
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_126",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_126",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 126.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Gemeng kann eleng oder mat anere Gemengen ëffentlech Ariichtunge grënnen an de Limitten an op d’Aart a Weis, déi vum Gesetz festgeluecht ginn.",
+      "text_sha256": "3d3b9d26ff5edf4116bee9b4cd8c550912bf1370e05d1f7b956b400c74b0a67b",
+      "md_span": {
+        "start": 48780,
+        "end": 48926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_127",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_127",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 127.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *D’Gemengen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Gesetz reegelt d’Iwwerwaachung vun der Gemengeverwaltung a leet eng limitéiert Lëscht vun Handlunge vun de Gemengenorganer fest, déi vun der Iwwerwaachungsautoritéit mussen approuvéiert ginn. Et ka virgesinn, dass verschidden Handlunge vun de Gemengenorganer musse vun der Iwwerwaachungsautoritéit approuvéiert ginn an dass se annuléiert oder suspendéiert ginn, wa se illegal sinn oder géint den allgemengen Interessi sinn, ouni Aschränkung vun de Attributioune vun den uerdentleche Geriichter oder de Verwaltungsgeriichter.\n\nDe Regierungsrot kann de Gemengerot am Interessi vun der Verwaltung vun der Gemeng opléisen.",
+      "text_sha256": "4bcb0f10c078a39b96ed7ae387e4c3d7f8d16933867fe61c52b779354d26b619",
+      "md_span": {
+        "start": 48965,
+        "end": 49585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_128",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_128",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 128.",
+      "heading": null,
+      "path": [
+        "**Kapitel X.** — *Dem Staat seng Établissement-publicken an d’Beruffsorganer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Gesetz kann Établissement-publicke schafen, déi eng eege Rechtsperséinlechkeet hunn an ënnert dem Staat senger Tutelle stinn.\n\n**(2)** D’Gesetz ka Beruffschambere schafen, déi eng eege Rechtsperséinlechkeet hunn.\n\n**(3)** D’Gesetz ka representativ Organer vun de liberale Beruffer schafen an hinnen d’Rechtsperséinlechkeet ginn.",
+      "text_sha256": "2984d39d8890b886538eb521c68fe6804e51801fe160bb757317147a69fcabfe",
+      "md_span": {
+        "start": 49706,
+        "end": 50044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_129",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_129",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 129.",
+      "heading": null,
+      "path": [
+        "**Kapitel X.** — *Dem Staat seng Établissement-publicken an d’Beruffsorganer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** D’Gesetz leet den Objet, d’Organisatioun an d’Kompetenze vun den ëffentlechen Ariichtungen, de Beruffschamberen an den Organer vun de liberale Beruffer fest, déi d’Rechtsperséinlechkeet hunn.\n\n**(2)** An der Limitt vun hirem Objet kann d’Gesetz hinnen d’Kompetenz ginn, Reglementer ze huelen.\n\nAn de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen zu den Zwecker an ënnert de Konditiounen, déi d’Gesetz preziséiert, geholl ginn.\n\nDës Reglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.",
+      "text_sha256": "a65f95f39ba472517c0243833b8fc060aa0352860b787c48ada91f4e826e9143",
+      "md_span": {
+        "start": 50083,
+        "end": 50687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_130",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_130",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 130.",
+      "heading": null,
+      "path": [
+        "**Kapitel XI.** — *D’Verfassungsrevisioun*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Keng Bestëmmung vun der Verfassung ka suspendéiert ginn.",
+      "text_sha256": "e627f4c21fea9ce5ac8c0c89b605c909df1e31d13abc16e225c35dbfee88314e",
+      "md_span": {
+        "start": 50773,
+        "end": 50829
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_131",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_131",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 131.",
+      "heading": null,
+      "path": [
+        "**Kapitel XI.** — *D’Verfassungsrevisioun*"
+      ],
+      "article_valid_from": null,
+      "text_md": "All Revisioun vun der Verfassung muss vun der Chamber an de selwechten Termen an zwou successiven Ofstëmmungen am Ofstand vu mindestens dräi Méint ugeholl ginn.\n\nKeng Revisioun gëtt ugeholl, wa si net mindestens zwee Drëttel vun de Stëmme vun de Membere vun der Chamber kritt. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.\n\nDen Text, deen an éischter Lecture vun der Chamber ugeholl ginn ass, gëtt engem Referendum ënnerzunn, deen der Chamber hir zweet Ofstëmmung ersetzt, wa bannent zwee Méint no der éischter Ofstëmmung eng entspriechend Demande gemaach gëtt, entweeder vu méi wéi engem Véierel vun de Membere vun der Chamber oder vu fënnefanzwanzegdausend Wieler, déi op de Wielerlëschte fir d’Parlamentswalen ageschriwwe sinn. D’Revisioun ass nëmmen ugeholl, wa se d’Majoritéit vun de gülteg ausgedréckte Stëmme kritt. D’Gesetz reegelt d’Organisatiounsmodalitéite vum Referendum.",
+      "text_sha256": "7e6972f25ebba70ba4f52f4af15ce8e941352fe351652d52439df42e99f8f12b",
+      "md_span": {
+        "start": 50868,
+        "end": 51759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_132",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01--f69e12c8412518fe6afcbc3f1c2337af0cc21ef6d1ffe496b99fd05ba7e0c950#art_132",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 132.",
+      "heading": null,
+      "path": [
+        "**Kapitel XII.** — *Iwwergangsbestëmmungen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "D’Bestëmmunge vum Artikel 56 si fir d’éischte Kéier op d’Nokomme vu Senger Kinneklecher Altesse Henri, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, applicabel.",
+      "text_sha256": "db341fc1a0dcf292a4fc6144881a60ba10841d991f029002f0046c22e86cb648",
+      "md_span": {
+        "start": 51846,
+        "end": 52004
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

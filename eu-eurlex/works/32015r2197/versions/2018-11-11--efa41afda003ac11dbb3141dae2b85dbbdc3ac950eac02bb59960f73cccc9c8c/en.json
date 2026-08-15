@@ -1,0 +1,82 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2197 of 27 November 2015 laying down implementing technical standards with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2018-11-11",
+  "valid_to": "2019-12-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2197/versions/2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c/en.html",
+    "sha256": "0d82ad16db0c97d81cc4445d05947eb0717d26612be805e2f2ba5c7d60156b74",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R2197-20181111"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The pairs of currencies that meet the requirements of Article 354(1) of Regulation (EU) No 575/2013 are set out in the Annex to this Regulation.",
+      "text_sha256": "a8e25ad974b456aa556e6c63de73763705c278e668b5f33905cb1ee63d2e4a91",
+      "md_span": {
+        "start": 836,
+        "end": 980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "1496d379e651ada069d4bdbc17b87ee88feac95d5e3680a02841069eabd8f4eb",
+      "md_span": {
+        "start": 1017,
+        "end": 1255
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1580",
+          "text": "32018R1580: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "List of closely correlated currencies\n\n*Part 1- List of closely correlated currencies against the Euro (EUR)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD).\n\n*Part 2- List of closely correlated currencies against the Arab Emirates Dirham (AED)*\n\nChinese Yuan (CNY), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 3- List of closely correlated currencies against the Albanian Lek (ALL)*\n\nBosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 4- List of closely correlated currencies against the Bosnia and Herzegovina Mark (BAM)*\n\nAlbanian Lek (ALL), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 5- List of closely correlated currencies against the Bulgarian Lev (BGN)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 6- List of closely correlated currencies against the Chinese Yuan (CNY)*\n\nArab Emirates Dirham (AED), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 7- List of closely correlated currencies against the Czech Koruna (CZK)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Danish Krone (DKK), Croatian Kuna (HRK), Moroccan Dirham (MAD), FYROM Denar (MKD), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 8- List of closely correlated currencies against the Danish Krone (DKK)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD).\n\n*Part 9- List of closely correlated currencies against the Hong Kong Dollar (HKD)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 10- List of closely correlated currencies against the Croatian Kuna (HRK)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 11- List of closely correlated currencies against the Hungarian Forint (HUF)*\n\nBosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Danish Krone (DKK), Croatian Kuna (HRK), Moroccan Dirham (MAD), Polish Zloty (PLN), Romanian Leu (RON), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 12- List of closely correlated currencies against the Israeli New Shekel (ILS)*\n\nMoroccan Dirham (MAD), Thai Baht (THB).\n\n*Part 13- List of closely correlated currencies against the Indian Rupee (INR)*\n\nThai Baht (THB).\n\n*Part 14- List of closely correlated currencies against the South Korean Won (KRW)*\n\nSingapore Dollar (SGD).\n\n*Part 15- List of closely correlated currencies against the Lebanese Pound (LBP)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 16- List of closely correlated currencies against the Moroccan Dirham (MAD)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Hungarian Forint (HUF), Israeli New Shekel (ILS), Romanian Leu (RON), Serbian Dinar (RSD), Singapore Dollar (SGD), Euro (EUR).\n\n*Part 17- List of closely correlated currencies against the former Yugoslav Republic of Macedonia Denar (MKD)*\n\nCzech Koruna (CZK).\n\n*Part 18- List of closely correlated currencies against the Macau Pataca (MOP)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 19- List of closely correlated currencies against the Philippine Peso (PHP)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Macau Pataca (MOP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 20- List of closely correlated currencies against the Polish Zloty (PLN)*\n\nHungarian Forint (HUF).\n\n*Part 21- List of closely correlated currencies against the Romanian Leu (RON)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Serbian Dinar (RSD), Euro (EUR).\n\n*Part 22- List of closely correlated currencies against the Serbian Dinar (RSD)*\n\nAlbanian Lek (ALL), Bosnia and Herzegovina Mark (BAM), Bulgarian Lev (BGN), Czech Koruna (CZK), Danish Krone (DKK), Croatian Kuna (HRK), Hungarian Forint (HUF), Moroccan Dirham (MAD), Romanian Leu (RON), Euro (EUR).\n\n*Part 23- List of closely correlated currencies against the Singapore Dollar (SGD)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), South Korean Won (KRW), Lebanese Pound (LBP), Moroccan Dirham (MAD), Macau Pataca (MOP), Philippine Peso (PHP), Thai Baht (THB), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 24- List of closely correlated currencies against the Thai Baht (THB)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Israeli New Shekel (ILS), Indian Rupee (INR), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Taiwanese Dollar (TWD), US Dollar (USD).\n\n*Part 25- List of closely correlated currencies against the Taiwanese Dollar (TWD)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), US Dollar (USD).\n\n*Part 26- List of closely correlated currencies against the US Dollar (USD)*\n\nArab Emirates Dirham (AED), Chinese Yuan (CNY), Hong Kong Dollar (HKD), Lebanese Pound (LBP), Macau Pataca (MOP), Philippine Peso (PHP), Singapore Dollar (SGD), Thai Baht (THB), Taiwanese Dollar (TWD).",
+      "text_sha256": "45a64337abefbae9b0d0e5a9bddbf338125b58501ffa67b5fe8b5e6b1bd5cd8a",
+      "md_span": {
+        "start": 1288,
+        "end": 8053
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

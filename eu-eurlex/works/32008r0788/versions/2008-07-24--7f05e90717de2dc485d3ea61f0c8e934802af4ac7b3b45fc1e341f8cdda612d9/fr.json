@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0788:2008-07-24--7f05e90717de2dc485d3ea61f0c8e934802af4ac7b3b45fc1e341f8cdda612d9",
+  "language": "fr",
+  "title": "Council Regulation (EC) No\u00A0788/2008 of 24\u00A0July 2008 amending the lists of insolvency proce…",
+  "valid_from": "2008-07-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0788/versions/2008-07-24--7f05e90717de2dc485d3ea61f0c8e934802af4ac7b3b45fc1e341f8cdda612d9/fr.xml",
+    "sha256": "d12af9998cb1547bec7997c349a7cbd6e50417ed9fd9c8f52cad73d75ce6fe4d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0788"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008r0788:2008-07-24--7f05e90717de2dc485d3ea61f0c8e934802af4ac7b3b45fc1e341f8cdda612d9#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement (CE) no 1346/2000 est modifié comme suit:\n\n| 1) | À l'annexe A, les dénominations pour la République de Lettonie sont remplacées par le texte suivant: «LATVIJA—Tiesiskās aizsardzības process—Sanācija juridiskās personas maksātnespējas procesā—Izlīgums juridiskās personas maksātnespējas procesā—Izlīgums fiziskās personas maksātnespējas procesā—Bankrota procedūra juridiskās personas maksātnespējas procesā—Bankrota procedūra fiziskās personas maksātnespējas procesā». |\n| --- | --- |\n| — | Tiesiskās aizsardzības process |\n| — | Sanācija juridiskās personas maksātnespējas procesā |\n| — | Izlīgums juridiskās personas maksātnespējas procesā |\n| — | Izlīgums fiziskās personas maksātnespējas procesā |\n| — | Bankrota procedūra juridiskās personas maksātnespējas procesā |\n| — | Bankrota procedūra fiziskās personas maksātnespējas procesā». |\n\n| 2) | À l'annexe B, les dénominations pour la République de Lettonie sont remplacées par le texte suivant: «LATVIJA—Bankrota procedūra juridiskās personas maksātnespējas procesā—Bankrota procedūra fiziskās personas maksātnespējas procesā». |\n| --- | --- |\n| — | Bankrota procedūra juridiskās personas maksātnespējas procesā |\n| — | Bankrota procedūra fiziskās personas maksātnespējas procesā». |",
+      "text_sha256": "8ba5bca1603d0beefc97875d71aec06dd0c0c9fcf414b87d56671885a47e9eeb",
+      "md_span": {
+        "start": 702,
+        "end": 1971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r0788:2008-07-24--7f05e90717de2dc485d3ea61f0c8e934802af4ac7b3b45fc1e341f8cdda612d9#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes annexes A et B telles que modifiées conformément à l'article 1er du présent règlement et l'annexe C du règlement (CE) no 1346/2000 sont codifiées et remplacées par le texte figurant aux annexes I, II et III du présent règlement.",
+      "text_sha256": "6d55c6b5e539a5cae6b7625fc28e7c840a9b03715aff2ce4940ed51989f9e8f4",
+      "md_span": {
+        "start": 2004,
+        "end": 2247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r0788:2008-07-24--7f05e90717de2dc485d3ea61f0c8e934802af4ac7b3b45fc1e341f8cdda612d9#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "66cc6d1b5e6217352ac87f36161410296b27ead803636374e94f941f2626b963",
+      "md_span": {
+        "start": 2280,
+        "end": 2411
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

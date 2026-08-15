@@ -1,0 +1,255 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374",
+  "language": "fr",
+  "title": "Version consolidée applicable au 08/12/2010 : Règlement grand-ducal du 26 septembre 2008 établissant des règles de bonne conduite à appliquer par les agents chargés de l'exécution d'une mesure d'éloignement et modifiant le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l'assistance au transit dans le cadre des mesures d'éloignement par voie aérienne.",
+  "valid_from": "2011-08-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-09-26-n1/versions/2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374/fr.xml",
+    "sha256": "5a9cb16e60ccd1deb858b69560510a4d4c122490b13a0b116df3520fabcbd5f5",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1/consolide/20110825/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement s’applique aux mesures d’éloignement par la contrainte prises en exécution d’une décision comportant l’obligation de quitter le territoire.\n\nAux fins du présent règlement on entend par:\n\n- «éloignement»: le transfert physique de l’étranger hors du territoire vers son pays d’origine, vers un Etat de transit ou vers un Etat tiers;\n- «escorte»: toutes les personnes chargées d’accompagner l’étranger lors de son éloignement, y compris les personnes chargées des soins médicaux ainsi que les interprètes;\n- «ministre»: le membre du gouvernement ayant l’immigration dans ses attributions.",
+      "text_sha256": "57980f7e47380f4ee59425831ce2bd4072ccf7d8c1f9ee499a61b1151d40525e",
+      "md_span": {
+        "start": 999,
+        "end": 1605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’opération d’éloignement se fait dans le respect de la dignité et de la sécurité de la personne à éloigner. L’éloignement est interrompu si la poursuite de l’opération met en danger la sécurité de la personne à éloigner, des autres passagers, des membres de l’équipage, des membres de l’escorte ou de l’observateur.",
+      "text_sha256": "efb3e7238b8cc66772bb4cac18d3b5a203ed5a51488d5c5895e8892be4ec4eb5",
+      "md_span": {
+        "start": 1640,
+        "end": 1956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’éloignement ne peut avoir lieu si la personne est médicalement dans l’incapacité de voyager. L’administration de médicaments aux personnes au cours de leur éloignement ne peut s’effectuer que sur décision médicale.",
+      "text_sha256": "b71ac0b782f6f00b6ec4c046685ef48bd81cdff7216c97bf21eb33037c7bccb0",
+      "md_span": {
+        "start": 1991,
+        "end": 2207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lors de l’opération d’éloignement, le principe de l’unité familiale est respecté. Il peut être dérogé à ce principe si un membre de la famille se soustrait volontairement à la mesure d’éloignement.\n\n(Règlement grand-ducal du 17 août 2011)\n\n«Les besoins particuliers des personnes vulnérables définies à l’article 125*bis* de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, sont dûment pris en compte.\n\nAvant d’éloigner un mineur non accompagné du territoire, le ministre s’assure que dans l’Etat de retour le mineur sera remis à un membre de sa famille, à un tuteur désigné ou à des structures d’accueil adéquates.»",
+      "text_sha256": "ccc64147b68fb0bfb8cdd9246f6735f93b681ba5a085c0dca6111fe546aee49d",
+      "md_span": {
+        "start": 2242,
+        "end": 2898
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n1/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi modifiée du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’opération d’éloignement peut avoir lieu, soit par voie terrestre, soit par voie aérienne. Les personnes à éloigner sont accompagnées d’une escorte composée d’agents de la police grand-ducale dont au moins un agent du même sexe que la personne à éloigner.\n\nLe ministre peut décider d’adjoindre à l’escorte un représentant de son ministère, ainsi qu’une assistance médicale ou paramédicale.\n\n(Règlement grand-ducal du 17 août 2011)\n\n«Lorsque l’opération de l’éloignement se fait par voie aérienne, il est tenu compte des orientations communes sur les mesures de sécurité à prendre pour les opérations communes d’éloignement par voie aérienne, annexées à la décision 2004/573/CE.»",
+      "text_sha256": "9ced43ee48fbd0d8c607392d3824368225e79838549af17c45a2cc0c7606dd27",
+      "md_span": {
+        "start": 2933,
+        "end": 3612
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n1/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        },
+        {
+          "href": "http://data.europa.eu/eli/dec/2004/573/oj",
+          "text": "décision 2004/573/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Si l’opération d’éloignement est effectuée moyennant un vol charter, l’escorte comporte systématiquement un représentant du ministre, ainsi qu’une assistance médicale ou paramédicale.\n\nEn outre, la présence d’un observateur impartial, neutre et indépendant, désigné par le ministre, est autorisée à partir du départ de l’aéroport jusqu’à l’arrivée à destination. Lors de l’éloignement, l’observateur ne peut en aucun cas assurer une des autres missions prévues à l’article 5 et son rôle ne saurait s’inscrire dans la continuité de la mission d’assistance ou d’accompagnement exercée antérieurement.\n\nL’observateur a droit à l’indemnisation des frais lui incombant lors de l’opération d’éloignement.\n\nUne convention à signer entre l’observateur et le ministre règle plus en détail les modalités de la mission et du rôle de l’observateur.",
+      "text_sha256": "3ffbf7109fc954a46c02535df13c4acc095acbb0eba6a0042af1888a29e76a4a",
+      "md_span": {
+        "start": 3647,
+        "end": 4483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lors de l’éloignement par voie aérienne les membres de l’escorte ne sont pas armés et portent une tenue civile. Le port de cagoules ou de masques est interdit. La personne à éloigner doit être en mesure d’identifier la fonction des membres de l’escorte et, le cas échéant, de l’observateur.",
+      "text_sha256": "ff0e787678b65352e59f077b54c53152deaaefc01e80350f9e6ded5783888dbe",
+      "md_span": {
+        "start": 4518,
+        "end": 4808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le déroulement de l’opération d’éloignement est consigné dans un rapport établi par le chef de l’escorte. Il relatera notamment les incidents survenus et les moyens de contrainte utilisés au cours de l’opération.\n\nL’observateur peut transmettre ses observations relatives au déroulement des opérations auxquelles il assiste au ministre.",
+      "text_sha256": "674e7322c29c880ccad94f18bb899bf4c17ad9448aa10d2290bc741830f7cc40",
+      "md_span": {
+        "start": 4843,
+        "end": 5179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres de l’escorte bénéficient d’une formation spécifique adaptée à l’exécution de leur mission.",
+      "text_sha256": "51cb2dd97e1afb2e4de76ab470080fbbb771387e9dff56f148f98e7dc59f0070",
+      "md_span": {
+        "start": 5214,
+        "end": 5316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l’assistance au transit dans le cadre de mesures d’éloignement par voie aérienne est modifié comme suit:\n\n1. er **(3)** Le présent règlement définit les mesures d’assistance dont bénéficie l’étranger maintenu en zone d’attente.\n2. **(8)** Les mesures prévues au paragraphe 3 qui précède sont applicables aux étrangers maintenus en zone d’attente.",
+      "text_sha256": "56486dd9ebca00ef28b0cddf05e64cc832394fb4cb32adf21406a5c2c37783ad",
+      "md_span": {
+        "start": 5353,
+        "end": 5836
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/12/21/n1/jo",
+          "text": "règlement grand-ducal du 21 décembre 2006"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/dir_ue/2003/110/jo",
+          "text": "directive 2003/110/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entrera en vigueur le 1er octobre 2008.",
+      "text_sha256": "4f984d43d3011a2c33d63358a552a976f459e9c90c4e6a9f0d8b7ed45c766915",
+      "md_span": {
+        "start": 5873,
+        "end": 5933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n1:2011-08-25--73761d2bed117c6464a4b3d808d6db770540866101b6d51d2ec63135b8721374#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre délégué aux Affaires étrangères et à l’Immigration et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "95ab55a9dd72c2d2153efd9182f7c83b9f9f9039b97dfc44f5506cb10a591c08",
+      "md_span": {
+        "start": 5970,
+        "end": 6176
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

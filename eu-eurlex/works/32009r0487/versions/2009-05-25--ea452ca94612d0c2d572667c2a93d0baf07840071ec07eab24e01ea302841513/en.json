@@ -1,0 +1,193 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513",
+  "language": "en",
+  "title": "Council Regulation (EC) No 487/2009 of 25 May 2009 on the application of Article 81(3) of …",
+  "valid_from": "2009-05-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009r0487/versions/2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513/en.xml",
+    "sha256": "ab4b161d2e521e68f3bb0415fe08eaf331a42ff98019c9afa4a76d538f4ab2fe",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0487"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation shall apply to air transport.",
+      "text_sha256": "4e1d71c8a0f86732cc462d8178de91bc96eeac4639e27ab5ec775eff57331dbd",
+      "md_span": {
+        "start": 702,
+        "end": 758
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. In accordance with Article 81(3) of the Treaty, the Commission may by Regulation declare that Article 81(1) of the Treaty shall not apply to certain categories of agreements between undertakings, decisions of associations of undertakings and concerted practices.\n\nThe Commission may, in particular, adopt such Regulations in respect of agreements, decisions or concerted practices which have as their object any of the following:\n\n| (a) | joint planning and coordination of airline schedules; |\n| --- | --- |\n\n| (b) | consultations on tariffs for the carriage of passengers and baggage and of freight on scheduled air services; |\n| --- | --- |\n\n| (c) | joint operations on new less busy scheduled air services; |\n| --- | --- |\n\n| (d) | slot allocation at airports and airport scheduling; the Commission shall take care to ensure consistency with Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports (4); |\n| --- | --- |\n\n| (e) | common purchase, development and operation of computer reservation systems relating to timetabling, reservations and ticketing by air transport undertakings; the Commission shall take care to ensure consistency with Council Regulation (EEC) No 2299/89 of 24 July 1989 on a code of conduct for computerised reservation systems (5). |\n| --- | --- |\n\n2. Without prejudice to the second subparagraph of paragraph 1, the Commission Regulations referred to therein shall define the categories of agreements, decisions or concerted practices to which they apply and shall specify in particular:\n\n| (a) | the restrictions or clauses which may, or may not, appear in the agreements, decisions and concerted practices; |\n| --- | --- |\n\n| (b) | the clauses which must be contained in the agreements, decisions and concerted practices, or any other conditions which must be satisfied. |\n| --- | --- |",
+      "text_sha256": "70cdfd9370d52e54bb9f4cd607985235ae8cd2a31ca59bc244b0c71e2d386dc6",
+      "md_span": {
+        "start": 791,
+        "end": 2688
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2009148EN.01000101-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2009148EN.01000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAny Regulation adopted pursuant to Article 2 shall apply for a specified period.\n\nIt may be repealed or amended where circumstances have changed with respect to any of the factors which prompted its adoption; in such a case, a period shall be fixed for amendment of the agreements and concerted practices to which the earlier Regulation applied before repeal or amendment.",
+      "text_sha256": "1df24d0097d274d39263d33f52e638594c16098670dfd52e9a55ce6f27a6ded8",
+      "md_span": {
+        "start": 2721,
+        "end": 3104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nRegulations adopted pursuant to Article 2 shall include a provision stating that they apply with retroactive effect to agreements, decisions and concerted practices which were in existence at the date of the entry into force of such Regulations.",
+      "text_sha256": "6c960c27c11673b6000279c5409cf541473679fad3b2b4f1e0bc0d9f40adfe57",
+      "md_span": {
+        "start": 3137,
+        "end": 3393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nA Regulation adopted pursuant to Article 2 may stipulate that the prohibition contained in Article 81(1) of the Treaty shall not apply, for such a period as fixed by that Regulation, to agreements, decisions and concerted practices already in existence at the date of accession to which Article 81(1) applies by virtue of the accession of Austria, Finland and Sweden and which do not satisfy the conditions of Article 81(3) of the Treaty.\n\nHowever, this Article shall not apply to agreements, decisions and concerted practices which at the date of accession already fall under Article 53(1) of the EEA Agreement.",
+      "text_sha256": "0d9ed8caf81dd0f9c5ce3261af5319d71095ed91b76c372b95e77e40ac2b6b87",
+      "md_span": {
+        "start": 3426,
+        "end": 4049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nBefore adopting a Regulation pursuant to Article 2, the Commission shall publish a draft thereof and invite all persons and organisations concerned to submit their comments within a reasonable time-limit, being not less than one month, as the Commission shall fix.",
+      "text_sha256": "50f64a7d0501ea5d22c36e29530733578188a2ca6358749775d32160e49bf2c7",
+      "md_span": {
+        "start": 4082,
+        "end": 4357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThe Commission shall consult the Advisory Committee on Restrictive Practices and Dominant Positions referred to in Article 14 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (6) before publishing a draft Regulation and before adopting a Regulation pursuant to Article 2.",
+      "text_sha256": "69631f1c55d2aae42b6c1e059c75a34a01003872db376dff45405b1b141d247b",
+      "md_span": {
+        "start": 4390,
+        "end": 4776
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2009148EN.01000101-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nRegulation (EEC) No 3976/87 is repealed.\n\nReferences to the repealed Regulation shall be construed as references to this Regulation and be read in accordance with the correlation table set out in Annex II.",
+      "text_sha256": "904d0f4c56a7aaa97130294381eeb7c8c4c7124a424bf20720c17de8c0c28005",
+      "md_span": {
+        "start": 4809,
+        "end": 5025
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32009r0487:2009-05-25--ea452ca94612d0c2d572667c2a93d0baf07840071ec07eab24e01ea302841513#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nThis Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "cd787afd050c719c145430a7551a3b0e838c2e76bc483cfc93fd172e755d5b9a",
+      "md_span": {
+        "start": 5058,
+        "end": 5196
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

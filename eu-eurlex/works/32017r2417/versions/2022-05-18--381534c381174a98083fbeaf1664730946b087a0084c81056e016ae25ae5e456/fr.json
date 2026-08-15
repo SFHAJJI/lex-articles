@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2417:2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/2417 of 17 November 2017 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2022-05-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2417/versions/2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456/fr.html",
+    "sha256": "514059e8a50ab15afbc149833393004b4f291b78cc25b7be1c5e625e2157d214",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R2417-20220518"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32017r2417:2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Instruments dérivés soumis à l'obligation de négociation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les instruments dérivés décrits en annexe sont soumis à l'obligation de négociation visée à l'article 28 du règlement (UE) no 600/2014.\n\nUn contrat d'instrument dérivé visé au tableau 1, tableau 2 ou tableau 3 de l'annexe est réputé avoir une durée de 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20 ou 30 ans lorsque le temps qui s'écoule entre la date à laquelle les obligations qui découlent dudit contrat prennent effet et la date de résiliation de ce contrat correspond à l'une de ces durées, plus ou moins cinq jours.",
+      "text_sha256": "a9fb0a2705deb98b8e6efc583a6ad4c891b3076c102059bb8cd7cc77704a4d8a",
+      "md_span": {
+        "start": 803,
+        "end": 1317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2417:2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Dates auxquelles l'obligation de négociation prend effet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'obligation de négociation prescrite à l'article 28 du règlement (UE) no 600/2014 prend effet à compter de la plus tardive des deux dates suivantes pour chaque catégorie de contreparties visée à l'article 3 du règlement délégué (UE) 2015/2205 et à l'article 3 du règlement délégué (UE) 2016/592:\n\na) le 3 janvier 2018;\n\nb) la date visée à l'article 3 du règlement délégué (UE) 2015/2205 ou à l'article 3 du règlement délégué (UE) 2016/592 pour cette catégorie de contreparties.",
+      "text_sha256": "a2faaf1d68b43eff7e83e50390593bdc69fb3dbc31ca3bc8b7288721d5ece896",
+      "md_span": {
+        "start": 1413,
+        "end": 1891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2417:2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "29f3bc4d014a263bf93c4b97cb0ad15b36cb146aac09e5e01bac1dbac00cd320",
+      "md_span": {
+        "start": 1948,
+        "end": 2180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32017r2417:2022-05-18--381534c381174a98083fbeaf1664730946b087a0084c81056e016ae25ae5e456#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Instruments dérivés soumis à l'obligation de négociation**\n\n*Tableau 1*\n\n**Contrats d'échange de taux d'intérêt fixe contre variable libellés en euros (EUR)**\n\n| **Contrats d'échange de taux d'intérêt monodevises fixe contre variable — EURIBOR 3 et 6M** |  |  |\n| --- | --- | --- |\n| Monnaie de règlement | **EUR** | **EUR** |\n| Type de date de début | Spot (T + 2) | Spot (T + 2) |\n| Optionalité | Non | Non |\n| Durée | 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20, 30 ans | 2, 3, 4, 5, 6, 7, 10, 15, 20, 30 ans |\n| Type de notionnel | Notionnel constant | Notionnel constant |\n| **Branche fixe** |  |  |\n| Périodicité des versements | Annuelle ou semestrielle | Annuelle ou semestrielle |\n| Convention de calcul des jours | 30/360 ou Exact/360 | 30/360 ou Exact/360 |\n| **Branche flottante** |  |  |\n| Indice de référence | EURIBOR 6M | EURIBOR 3M |\n| Fréquence de réinitialisation | Semestrielle ou trimestrielle | Trimestrielle |\n| Convention de calcul des jours | Exact/360 | Exact/360 |\n\n*Tableau 4*\n\n**CDS indiciels**\n\n| Type | Sous-type | Zone géographique | Indice de référence | Monnaie de règlement | Séries | Durée |\n| --- | --- | --- | --- | --- | --- | --- |\n| CDS indiciel | Indice sans tranches | Europe | iTraxx Europe Main | EUR | Série en cours d'émissionSérie qui n'est plus en cours d'émission la plus récente | 5 ans |\n| CDS indiciels | Indice sans tranches | Europe | iTraxx Europe Crossover | EUR | Série en cours d'émissionSérie qui n'est plus en cours d'émission la plus récente | 5 ans |",
+      "text_sha256": "5f65f4939057d7d02a122c19bfd254f33bc47e99ddd63399dee4c6dcc76930f9",
+      "md_span": {
+        "start": 2215,
+        "end": 3725
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0749",
+          "text": "32022R0749: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R2417",
+          "text": "32017R2417"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2344:2015-12-15--c653f198b593abe8ad0eea0f1318e0a8d7c03ceb05c6ee89e28aa26559419565",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2344 of 15 December 2015 laying down implementing technical standards with regard to currencies with constraints on the availability of liquid assets in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2015-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2344/versions/2015-12-15--c653f198b593abe8ad0eea0f1318e0a8d7c03ceb05c6ee89e28aa26559419565/en.xml",
+    "sha256": "07bd039c22a51cc403dcca929d0d66be748ff58c1a1ded229a347b2d1204e6d9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2344"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2344:2015-12-15--c653f198b593abe8ad0eea0f1318e0a8d7c03ceb05c6ee89e28aa26559419565#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe justified needs for liquid assets in the light of the requirement in Article 412 of Regulation (EU) No 575/2013 shall be deemed to exceed the availability of those liquid assets in the currencies specified in the Annex to this Regulation by the percentage specified in that Annex.",
+      "text_sha256": "fe40daeeff79fc74858519451ba4f6a5a86d0858647e7f763e83bf0bee5edbef",
+      "md_span": {
+        "start": 852,
+        "end": 1147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2344:2015-12-15--c653f198b593abe8ad0eea0f1318e0a8d7c03ceb05c6ee89e28aa26559419565#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1180,
+        "end": 1331
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

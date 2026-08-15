@@ -1,0 +1,498 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d",
+  "language": "en",
+  "title": "Regulation (EU) 2016/445 of the European Central Bank of 14 March 2016 on the exercise of …",
+  "valid_from": "2025-08-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0445/versions/2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d/en.html",
+    "sha256": "8e46c2988834f89fba56ff2a41f88eeaa43173e386e09b172159fbc561331e90",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0445-20250817"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter and scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation specifies certain of the options and discretions conferred on competent authorities under Union law concerning prudential requirements for credit institutions that the ECB is exercising. It shall apply exclusively with regard to those credit institutions classified as significant in accordance with Article 6(4) of Regulation (EU) No 1024/2013, and Part IV and Article 147(1) of Regulation (EU) No 468/2014 (ECB/2014/17).",
+      "text_sha256": "e1816b37b5f36af9a2ff481736f4975a99353a443304fa9c3cc1214cf95ad73d",
+      "md_span": {
+        "start": 742,
+        "end": 1180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the definitions contained in Article 4 of Regulation (EU) No 575/2013, Article 2 of Regulation (EU) No 1024/2013, Article 2 of Regulation (EU) No 468/2014 (ECB/2014/17) and Article 3 of Delegated Regulation (EU) 2015/61 shall apply.",
+      "text_sha256": "ecd48a1c8b886bc77406d8109685f689a07745c950b7d546c50b8c42bb8da682",
+      "md_span": {
+        "start": 1231,
+        "end": 1500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Article 89(3) of Regulation (EU) No 575/2013: Risk weighting and prohibition of qualifying holdings outside the financial sector",
+      "path": [
+        "CHAPTER I — OWN FUNDS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Without prejudice to Article 90 of Regulation (EU) No 575/2013 and for the purpose of calculating the capital requirements in accordance with Part Three of Regulation (EU) No 575/2013, credit institutions shall apply a risk weight of 1 250 % to the greater of the following:\n\n(a) the amount of qualifying holdings in undertakings referred to in Article 89(1) of Regulation (EU) No 575/2013 in excess of 15 % of the eligible capital of the credit institution; and\n\n(b) the total amount of qualifying holdings in undertakings referred to in Article 89(2) of Regulation (EU) No 575/2013 that exceeds 60 % of the eligible capital of the credit institution.",
+      "text_sha256": "2f5b3887eee137746de7bb2e6b095961656a0dc67ee96bf62712c9e509283a36",
+      "md_span": {
+        "start": 1694,
+        "end": 2346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Article 327(2) of Regulation (EU) No 575/2013: Netting",
+      "path": [
+        "CHAPTER II — CAPITAL REQUIREMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Credit institutions may use netting between a convertible and an offsetting position in the instrument underlying it, as referred to in Article 327(2) of Regulation (EU) No 575/2013, provided that either of the following conditions are fulfilled:(a) prior to 4 November 2014 the national competent authority adopted an approach under which the likelihood of a particular convertible's being converted is taken into account; or(b) prior to 4 November 2014 the national competent authority required an own funds requirement to cover any loss that conversion may entail.\n\n**2.** The approaches adopted by national competent authorities referred to in paragraph 1 shall continue to be used pending the adoption by the ECB of its own approach pursuant to Article 327(2) of Regulation (EU) No 575/2013.",
+      "text_sha256": "47677426b878804266e35fd605a9ec945a723ea4ecdfb263384ae405b8fb2b28",
+      "md_span": {
+        "start": 2478,
+        "end": 3281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Article 380 of Regulation (EU) No 575/2013: Waiver",
+      "path": [
+        "CHAPTER II — CAPITAL REQUIREMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "In the event of a system-wide failure within the meaning of Article 380 of Regulation (EU) No 575/2013 which the ECB confirms by issuing a public statement, until the ECB issues a public statement that the situation referred to therein is rectified, the following provisions shall apply:\n\n(a) credit institutions shall not be required to comply with the own funds requirements laid down in Articles 378 and 379 of Regulation (EU) No 575/2013; and\n\n(b) the failure of a counterparty to settle a trade shall not be deemed a default for purposes of credit risk.",
+      "text_sha256": "ba9aa72d1eb01312ae10c89f83aa0b11bebc9095c7106eeaf9f57e3f7ed66fac",
+      "md_span": {
+        "start": 3371,
+        "end": 3929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Article 395(1) of Regulation (EU) No 575/2013: Limits to large exposures",
+      "path": [
+        "CHAPTER III — LARGE EXPOSURES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Irrespective of the national treatment prior to the entry into force of this Regulation, the limit on the value of a large exposure within the meaning of Article 395(1) of Regulation (EU) No 575/2013 shall not be lower than EUR 150 million.",
+      "text_sha256": "99d6d24037ad9ade3ae2a50943d51face1ccebb546f0cbb14c8136809e125e04",
+      "md_span": {
+        "start": 4075,
+        "end": 4315
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Article 400(2) of Regulation (EU) No 575/2013: Exemptions",
+      "path": [
+        "CHAPTER III — LARGE EXPOSURES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The exposures listed in Article 400(2)(a) of Regulation (EU) No 575/2013 shall be exempted from the application of Article 395(1) of that Regulation for 80 % of the nominal value of the covered bonds, provided that the conditions set out in Article 400(3) of that Regulation are fulfilled.\n\n**2.** The exposures listed in Article 400(2)(b) of Regulation (EU) No 575/2013 shall be exempted from the application of Article 395(1) of that Regulation for 80 % of their exposure value, provided that the conditions set out in Article 400(3) of that Regulation are fulfilled.\n\n**3.** The exposures listed in Article 400(2)(c) of Regulation (EU) No 575/2013 incurred by a credit institution to the undertakings referred to therein, in so far as those undertakings are established in the Union, shall be exempted from the application of Article 395(1) of that Regulation, provided that the conditions set out in Article 400(3) of that Regulation, as further specified in Annex I to this Regulation, are fulfilled and insofar those undertakings are covered by the same supervision on a consolidated basis in accordance with Regulation (EU) No 575/2013, Directive 2002/87/EC of the European Parliament and of the Council (1), or with equivalent standards in force in a third country, as further specified in Annex I to this Regulation.\n\n**4.** The exposures listed in Article 400(2)(d) of Regulation (EU) No 575/2013 shall be exempted from the application of Article 395(1) of that Regulation, provided that the conditions set out in Article 400(3) of that Regulation, as further specified in Annex II to this Regulation, are fulfilled.\n\n**5.** The exposures listed in Articles 400(2)(e) to (l) of Regulation (EU) No 575/2013 shall be exempted in full, or in the case of Article 400(2)(i) shall be exempted up to the maximum allowed amount, from the application of Article 395(1) of that Regulation, provided that the conditions set out in Article 400(3) of that Regulation are fulfilled.\n\n**6.** Credit institutions shall assess whether the conditions specified in Article 400(3) of Regulation (EU) No 575/2013, as well as the relevant Annex of this Regulation applicable to the specific exposure, are fulfilled. The ECB may verify this assessment at any time and request credit institutions to submit the documentation referred to in the relevant Annex for this purpose.\n\n**7.** This Article shall only apply where the relevant Member State has not exercised the option under Article 493(3) of Regulation (EU) No 575/2013 to grant a full or partial exemption for the specific exposure.",
+      "text_sha256": "eaf7c06e98511c3c35d272033c42cd552e537fe15e06aed431e96fcacb5266c9",
+      "md_span": {
+        "start": 4412,
+        "end": 6996
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0504",
+          "text": "32022R0504: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R0445",
+          "text": "32016R0445"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_11a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11a",
+      "heading": "Article 12(1)(c)(i) of Delegated Regulation (EU) 2015/61: Identification of Member State or third country major stock indices",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section I — Liquidity Coverage Requirement"
+      ],
+      "article_valid_from": null,
+      "text_md": "The following indices qualify as major stock indices for the purpose of determining the scope of shares that could qualify as Level 2B assets pursuant to Article 12(1)(c) of Delegated Regulation (EU) 2015/61:\n\n(a) the indices listed in Annex I to Commission Implementing Regulation (EU) No 2016/1646 (2);\n\n(b) any major stock index, not included under point (a), in a Member State or in a third country, identified as such for the purposes of this point by the competent authority of the relevant Member State or third country public authority;\n\n(c) any major stock index, not included under points (a) or (b), which comprises leading companies in the relevant jurisdiction.",
+      "text_sha256": "1cae3e67fd681bbbfe0244dc549efc684b36036b7507a3aa77e14d8c18a2fef9",
+      "md_span": {
+        "start": 7240,
+        "end": 7914
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Article 12(3) of Delegated Regulation (EU) 2015/61: Level 2B assets",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section I — Liquidity Coverage Requirement"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Credit institutions that in accordance with their statutes of incorporation are unable for reasons of religious observance to hold interest-bearing assets may include corporate debt securities as level 2B liquid assets in accordance with all of the conditions specified in Article 12(1)(b), including points (ii) and (iii), of Delegated Regulation (EU) 2015/61.\n\n**2.** For credit institutions referred to in paragraph 1, the ECB may periodically review the requirement referred to in that paragraph and allow an exemption from Article 12(1)(b)(ii) and (iii) of Delegated Regulation (EU) 2015/61, where the conditions specified in Article 12(3) of that Delegated Regulation have been met.",
+      "text_sha256": "c8851f5588d42ae7104ba551465428f406e842a4e4ac6d6f2e6c4bde50158168",
+      "md_span": {
+        "start": 8023,
+        "end": 8718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12a",
+      "heading": "Article 428p(10) of Regulation (EU) No 575/2013: Required stable funding factors for off-balance-sheet exposures",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section II — Net Stable Funding Ratio (NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Unless the ECB determines different required stable funding factors, for the off-balance-sheet exposures in the scope of Article 428p(10) of Regulation (EU) No 575/2013 institutions shall apply to off-balance-sheet exposures not referred to in Chapter 4 of Title IV of Part Six of Regulation (EU) No 575/2013 required stable funding factors that correspond to the outflow rates that they apply to related products and services in the context of Article 23 of Delegated Regulation (EU) 2015/61 in the liquidity coverage requirement.",
+      "text_sha256": "cedafe39a32c4ecb2723f5efba75be20df17a09d48618537be391bc9b7b7a176",
+      "md_span": {
+        "start": 8924,
+        "end": 9455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12b",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12b",
+      "heading": "Article 428q(2) of Regulation (EU) No 575/2013: Determination of the term of encumbrance for assets that have been segregated",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section II — Net Stable Funding Ratio (NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where assets have been segregated in accordance with Article 11(3) of Regulation (EU) No 648/2012 of the European Parliament and of the Council (3) and institutions are not able to freely dispose of such assets, institutions shall consider such assets as encumbered for a period corresponding to the term of the liabilities to the institutions’ customers to whom that segregation requirement relates.",
+      "text_sha256": "6a4d33e8756de645b9eddb298dace1ef57c3dfe230c32b340852fbde20c71e23",
+      "md_span": {
+        "start": 9624,
+        "end": 10024
+      },
+      "citations": [
+        {
+          "href": "#E0004",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12c",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12c",
+      "heading": "Article 428aq(10) of Regulation (EU) No 575/2013: Required stable funding factors for off-balance-sheet exposures",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section II — Net Stable Funding Ratio (NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Institutions to which the ECB has granted permission to apply the simplified net stable funding requirement referred to in Chapter 5 of Title IV of Part Six of Regulation (EU) No 575/2013 shall follow the approach laid down in Article 12a.",
+      "text_sha256": "0d832a0c86ac22db15299613bb3d37dab44992a5250de671b640211606f4e039",
+      "md_span": {
+        "start": 10181,
+        "end": 10420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12d",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_12d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12d",
+      "heading": "Article 428ar(2) of Regulation (EU) No 575/2013: Determination of the term of encumbrance for assets that have been segregated",
+      "path": [
+        "CHAPTER IV — LIQUIDITY",
+        "Section II — Net Stable Funding Ratio (NSFR)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Institutions to which the ECB has granted permission to calculate the net stable funding ratio as referred to in Chapter 5 of Title IV of Part Six of Regulation (EU) No 575/2013 shall follow the approach laid down in Article 12b.",
+      "text_sha256": "f0eae10c86b3c081ae4bcb0124f16555088483b88755d1fcac67679aa0199f05",
+      "md_span": {
+        "start": 10590,
+        "end": 10819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Article 473(1) of Regulation (EU) No 575/2013: Introduction of amendments to the International Accounting Standard 19",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** During the period from 1 January 2016 to 31 December 2018, credit institutions may add to their Common Equity Tier 1 capital the amount referred to in Article 473(1) of Regulation (EU) No 575/2013 multiplied by the applicable factor, which shall be:(a) 0,6 during the period from 1 January 2016 to 31 December 2016;(b) 0,4 during the period from 1 January 2017 to 31 December 2017;(c) 0,2 during the period from 1 January 2018 to 31 December 2018.\n\n**2.** This Article is without prejudice to previous decisions of the national competent authorities or national law in force prior to the entry into force of this Regulation where such decisions or national law do not permit institutions to add to their Common Equity Tier 1 capital the amount referred to in paragraph 1.",
+      "text_sha256": "7e0cbe9b98516b8611a485c53b1acd109b8fd5307b471aab687a8d288a2db415",
+      "md_span": {
+        "start": 11049,
+        "end": 11827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Article 478(3)(a),(c) and (d) of Regulation (EU) No 575/2013: Applicable percentages for deduction from Common Equity Tier 1, additional Tier 1 and Tier 2 items",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of Article 478(1) of Regulation (EU) No 575/2013, the applicable percentage shall be:(a) 60 % during the period from 1 January 2016 to 31 December 2016;(b) 80 % during the period from 1 January 2017 to 31 December 2017;(c) 100 % from 1 January 2018.\n\n**2.** This Article shall not apply to deferred tax assets that rely on future profitability.\n\n**3.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation where such law sets percentages that are higher than those specified in paragraph 1.",
+      "text_sha256": "d302710a5ddee2e28398454b3da6713ad4b0c15989b4eb273f82e8a8783e3e4d",
+      "md_span": {
+        "start": 12029,
+        "end": 12598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Article 478(3)(a) and (b) of Regulation (EU) No 575/2013: Applicable percentages for deduction from Common Equity Tier 1 of significant investments in financial sector entities and deferred tax assets that rely on future profitability",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of Article 478(1) of Regulation (EU) No 575/2013, the applicable percentage for the purposes of Article 469(1)(a) and (c) of that Regulation shall be:(a) 60 % during the period from 1 January 2016 to 31 December 2016;(b) 80 % during the period from 1 January 2017 to 31 December 2017;(c) 100 % from 1 January 2018.\n\n**2.** For the purposes of Article 478(2) of Regulation (EU) No 575/2013, the applicable percentage shall be:(a) 60 % during the period from 1 January 2016 to 31 December 2016;(b) 80 % during the period from 1 January 2017 to 31 December 2017;(c) 100 % from 1 January 2018.\n\n**3.** By way of derogation from paragraph 2, where, pursuant to Article 478(2) of Regulation (EU) No 575/2013, national law provides for a 10-year phase-out period, the applicable percentage shall be:(a) 40 % during the period from 1 January 2016 to 31 December 2016;(b) 60 % during the period from 1 January 2017 to 31 December 2017;(c) 80 % during the period from 1 January 2018 to 31 December 2018;(d) 100 % from 1 January 2019.\n\n**4.** Paragraphs 2 and 3 shall not apply to credit institutions which, at the date of entry into force of this Regulation, are subject to restructuring plans approved by the Commission.\n\n**5.** Where a credit institution falling within the scope of paragraph 4 is acquired by or merges with another credit institution while the restructuring plan is still in operation without modification concerning the prudential treatment of deferred tax assets, the exception in paragraph 4 shall apply to the acquiring credit institution, new credit institution resulting from the merger or credit institution incorporating the original credit institution, to the same extent that it applied to the acquired, merged or incorporated credit institution.\n\n**6.** The ECB may review the application of paragraphs 4 and 5 in 2020 based on monitoring of the situation of those credit institutions.\n\n**7.** In the event of an unforeseen increase in the impact of the deductions provided for in paragraphs 2 and 3 which the ECB determines is material, credit institutions shall be allowed not to apply paragraph 2 or 3.\n\n**8.** Where paragraphs 2 and 3 do not apply, credit institutions can apply national legislative provisions.\n\n**9.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation, provided that such law sets percentages that are higher than those specified in paragraphs 1, 2 and 3.",
+      "text_sha256": "0b8f09cef447b13677abb5c4a18a52aa350ed6dc0d54e79d70fd52fe79050b62",
+      "md_span": {
+        "start": 12874,
+        "end": 15354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Article 479(1) and (4) of Regulation (EU) No 575/2013: Recognition in consolidated Common Equity Tier 1 capital of instruments and items that do not qualify as minority interests",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** During the period from 1 January 2016 to 31 December 2017, the applicable percentage of the items referred to in Article 479(1) of Regulation (EU) No 575/2013 that would have qualified as consolidated reserves in accordance with national measures implementing Article 65 of Directive 2006/48/EC of the European Parliament and of the Council (4) shall qualify as consolidated Common Equity Tier 1 capital according to the percentages set out below.\n\n**2.** For the purposes of paragraph 1, the applicable percentage shall be:(a) 40 % during the period from 1 January 2016 to 31 December 2016; and(b) 20 % during the period from 1 January 2017 to 31 December 2017.\n\n**3.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation where such law sets percentages that are lower than those specified in paragraph 2.",
+      "text_sha256": "164b1582727fd06488799487ce7e9cb21f46ddb4cc47f199037f68f06d747036",
+      "md_span": {
+        "start": 15574,
+        "end": 16443
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Article 480(3) of Regulation (EU) No 575/2013: Recognition in consolidated own funds of minority interests and qualifying additional Tier 1 and Tier 2 capital",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** During the period from 1 January 2016 to 31 December 2017, as referred to in Article 480(3) of Regulation (EU) No 575/2013, the value of the applicable factor under Article 480(1) of that Regulation shall be:(a) 0,6 during the period from 1 January 2016 to 31 December 2016; and(b) 0,8 during the period from 1 January 2017 to 31 December 2017.\n\n**2.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation where such law sets factors that are higher than those specified in paragraph 1.",
+      "text_sha256": "43e1c67a8f7fcc77d7b82dc6bb096887e138f8b5adacfd43219470279109631f",
+      "md_span": {
+        "start": 16643,
+        "end": 17191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Article 481(1) and (5) of Regulation (EU) No 575/2013: Additional filters and deductions",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** During the period from 1 January 2016 to 31 December 2017, for the purpose of applying filters or deductions required under national transposition measures and referred to in Article 481(1) of Regulation (EU) No 575/2013 and provided that the conditions thereof are met, the applicable percentages shall be:(a) 40 % during the period from 1 January 2016 to 31 December 2016; and(b) 20 % during the period from 1 January 2017 to 31 December 2017.\n\n**2.** During the period from 1 January 2016 to 31 December 2017, credit institutions shall apply the treatment provided for by national law to the amount remaining after the filter or deduction has been applied in accordance with paragraph 1.\n\n**3.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation where such law sets stricter requirements than those specified in paragraph 1.",
+      "text_sha256": "455b4934b35bd0a67834aa5cec39fa82160cbcb5b352a282aeb733aa991d1b57",
+      "md_span": {
+        "start": 17321,
+        "end": 18213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Article 486(6) of Regulation (EU) No 575/2013: Limits for grandfathering items within Common Equity Tier 1, Additional Tier 1 and Tier 2 items",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of Article 486 of Regulation (EU) No 575/2013, the applicable percentages shall be:(a) 60 % during the period from 1 January 2016 to 31 December 2016;(b) 50 % during the period from 1 January 2017 to 31 December 2017;(c) 40 % during the period from 1 January 2018 to 31 December 2018;(d) 30 % during the period from 1 January 2019 to 31 December 2019;(e) 20 % during the period from 1 January 2020 to 31 December 2020;(f) 10 % during the period from 1 January 2021 to 31 December 2021.\n\n**2.** This Article is without prejudice to national law in force prior to the entry into force of this Regulation, provided that such law sets percentages that are lower than those specified in paragraph 1.",
+      "text_sha256": "59ded4c2e793e93aa6bec8a3c61e0cbd3eae540410a39614667f53e26f298ca7",
+      "md_span": {
+        "start": 18397,
+        "end": 19115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Article 495(1) of Regulation (EU) No 575/2013: Treatment of equity exposures under the Internal Ratings Based (IRB) approach",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "The categories of equity exposures that benefit from the exemption from the IRB approach in accordance with Article 495(1) of Regulation (EU) No 575/2013 shall include, until 31 December 2017, only the categories of equity exposures that on 31 December 2013 were already benefiting from an exemption from the IRB treatment, in accordance with Article 2 of Commission Delegated Regulation (EU) 2015/1556 (5).",
+      "text_sha256": "b3f6adf8eb9dc7ed0c80d6355281d8905d2206a5612b191a99f6af4dce9ae979",
+      "md_span": {
+        "start": 19281,
+        "end": 19688
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24a",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_24a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24a",
+      "heading": "Article 495e of Regulation (EU) No 575/2013: Transitional arrangements for ECAI credit assessments of institutions",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "By way of derogation from Article 138, point (g), of Regulation (EU) No 575/2013, institutions may continue using an ECAI credit assessment in relation to an institution which incorporates assumptions of implicit government support until 1 January 2027.",
+      "text_sha256": "e01e7928380f54587c1f1449ecc19a0fb36bfb12b6583b1822b03fb492be3dee",
+      "md_span": {
+        "start": 19846,
+        "end": 20099
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32016r0445:2025-08-17--30fd95a1c3a0c927bde5ce63f6310f65bd7614f2faf2a12c2b43f9f10c2f075d#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER V — TRANSITIONAL PROVISIONS OF REGULATION (EU) NO 575/2013"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** This Regulation shall enter into force on 1 October 2016.\n\n**2.** Article 4 shall apply from 31 December 2016 and Article 13 shall apply from 1 January 2019.",
+      "text_sha256": "691e91457ce17b98c518bb97d31b8914f6f4051e1c864fe26e7f484b0d1480a0",
+      "md_span": {
+        "start": 20157,
+        "end": 20321
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/05/2020 : Règlement grand-ducal du 18 décembre 2015 déterminant les modalités du concours réglant l'admission au stage préparant à la fonction d'instituteur de l'enseignement fondamental.",
+  "valid_from": "2020-05-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-12-18-n12/versions/2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3/fr.xml",
+    "sha256": "78837e14121c607cee7a3fe3665d102ad75525694b9d6ef81336d4308d98e598",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Les critères d’admissibilité au concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Est admissible aux épreuves du concours réglant l’admission au stage préparant à la fonction d’instituteur, à condition d’avoir passé avec succès les épreuves préliminaires au concours définies à l’article 2 :\n\n1. le détenteur du bachelor professionnel en sciences de l’éducation délivré par l’Université du Luxembourg ;\n2. le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles ;\n3. le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, délivré par une institution située dans un pays qui n’est pas membre de l’Union Européenne et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;\n4. le détenteur d’un diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État et sanctionnant l’accomplissement avec succès d’un bachelor en lien avec un des objectifs de l’enseignement fondamental définis aux articles 6 et 7 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ou de son équivalent et admis à la réserve de suppléants prévus à l’article 16, point 2, lettre c), de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n5. les candidats ayant débuté le dernier semestre des études menant à l’obtention d’un des diplômes visés aux points 1 à 3.",
+      "text_sha256": "e7147e11e45cf3451ee11f3169ec9d2b090b56e00ce3af0663448835a99c86b4",
+      "md_span": {
+        "start": 844,
+        "end": 2304
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 1ère — Généralités."
+      ],
+      "article_valid_from": null,
+      "text_md": "Les épreuves préliminaires, auxquelles les candidats doivent se présenter et réussir préalablement aux épreuves du concours, visent à vérifier les connaissances dans les trois langues visées à l’article 3 de la loi du 24 février 1984 sur le régime des langues.\n\nCes épreuves ne donnent pas lieu à un classement.",
+      "text_sha256": "5efefad4ec76661485aae8342b19a017cd5073f28fe0741f08c8b22ae3ea3f2a",
+      "md_span": {
+        "start": 2429,
+        "end": 2740
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/02/24/n1/jo",
+          "text": "loi du 24 février 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 1ère — Généralités."
+      ],
+      "article_valid_from": null,
+      "text_md": "Les épreuves de langues visent à vérifier si les candidats ont acquis les compétences requises pour enseigner dans les domaines de développement et d’apprentissage de l’école fondamentale luxembourgeoise en employant les langues respectives. Elles comportent, chaque fois, une épreuve écrite et une épreuve orale évaluées séparément.\n\nPour chaque épreuve de langues réussie, une attestation est délivrée aux candidats.",
+      "text_sha256": "ee002793ed3f9717634ffcab32bd2c49dd2794cd91a2bae3d59227a195905a52",
+      "md_span": {
+        "start": 2775,
+        "end": 3193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 2 — L’organisation des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Au cours de chaque année scolaire, deux sessions peuvent être organisées dont les dates sont fixées par le ministre ayant l’Éducation nationale dans ses attributions, désigné ci-après par «le ministre».",
+      "text_sha256": "9796ed7f72fd8603d592c018de1c8cfd91d8f8e257c079e095156d8bb54ebc61",
+      "md_span": {
+        "start": 3288,
+        "end": 3490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 2 — L’organisation des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est institué un jury appelé à procéder aux opérations des épreuves préliminaires.\n\nLe jury est composé de quinze membres effectifs au moins et de trois membres suppléants au moins, nommés par le ministre qui désigne le président et le secrétaire parmi les membres effectifs.\n\nLe jury se réunit en séance préliminaire pour fixer le détail des opérations des épreuves, les contenus, les questions et les critères d’évaluation des épreuves de langues.\n\nLes membres du jury sont tenus au secret des délibérations.\n\nLes candidats sont informés des modalités et programmes des épreuves.\n\nNul ne peut, en qualité de membre d’un jury, prendre part à l’examen d’un parent ou allié jusqu’au quatrième degré inclus.\n\nLes membres du jury ont droit, par candidat et par épreuve, à une indemnité forfaitaire fixée à 2,11 euros correspondant au nombre 100 de l’indice pondéré au coût de la vie au 1er janvier 1948.",
+      "text_sha256": "50fc6f4888edd6253a9fb771b8b3cf1fc4ef6f2b58f452153a3ff3113111f1a1",
+      "md_span": {
+        "start": 3525,
+        "end": 4427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 2 — L’organisation des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Peuvent s’inscrire aux sessions respectives :\n\n1. les candidats détenteurs d’un des diplômes énumérés à l’article 1er, points 1° à 3°, et les candidats inscrits à une formation menant à un de ces diplômes ;\n2. les candidats prévus à l’article 1er, point 4°.\n\nLes demandes de participation sont faites moyennant un formulaire dont la forme est arrêtée par le ministre. Les dates des épreuves et les délais dans lesquels les demandes de participation doivent parvenir au ministre sont publiés sur le site internet du Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, désigné ci-après par « ministère ».",
+      "text_sha256": "68fb8c6d5bbd6dce477ae9dfb138affecb5a3bfe46568c17e2eaf669fb66373c",
+      "md_span": {
+        "start": 4462,
+        "end": 5080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 3 — Le déroulement des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute épreuve écrite est évaluée par deux membres du jury au moins. Les épreuves orales ne peuvent avoir lieu qu’en présence de trois membres du jury au moins.\n\nChaque épreuve est cotée sur vingt points. Une note inférieure à dix points est considérée comme note insuffisante.\n\nLes candidats qui échouent dans une des épreuves de langues, orale ou écrite, doivent refaire l’épreuve orale ou écrite de cette langue lors d’une session ultérieure.",
+      "text_sha256": "24aa6dc8b0ed8479508314107821e26ca2e0170f3e769dc92c90b112f4b97b8a",
+      "md_span": {
+        "start": 5175,
+        "end": 5619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 3 — Le déroulement des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Pendant les épreuves, toute communication entre les candidats et avec l’extérieur, de même que toute utilisation d’ouvrages ou de notes, autres que ceux autorisés préalablement par le jury, sont interdites.\n\nLes candidats fautifs sont exclus des épreuves préliminaires. Ils peuvent se présenter une nouvelle fois lors d’une session ultérieure. Le nombre des participations aux épreuves préliminaires n’est pas limité.",
+      "text_sha256": "7c5d55f5cbc3b41cba1c864e955d6c67a5e169e472c83d84b777dbab6c526747",
+      "md_span": {
+        "start": 5654,
+        "end": 6071
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les épreuves préliminaires au concours.",
+        "Section 3 — Le déroulement des épreuves préliminaires."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le candidat pouvant attester la fréquentation, pendant au moins dix années scolaires, d’établissements publics ou privés appliquant les programmes de l’enseignement public luxembourgeois, conformément à la législation concernant l’organisation de l’enseignement fondamental et de l’enseignement postprimaire peut être dispensé des épreuves de luxembourgeois.",
+      "text_sha256": "82e73b7a5c39d086bf98a8d769c13d9c7b4f551bf3a0ddefb75568e4d3440f4c",
+      "md_span": {
+        "start": 6106,
+        "end": 6464
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 1ère — L’organisation du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Les épreuves du concours comportent:\n\n1. 1.Pour l’option C1 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage du cycle 1 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.\n2. 1bis. Pour l’option C2-C4 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage des cycles 2, 3 et 4 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.\n3. 2.une épreuve écrite portant sur la culture luxembourgeoise. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.",
+      "text_sha256": "aa9b83177951c324ebb296815967916e4d57adc066b170f3489f0569270c1e08",
+      "md_span": {
+        "start": 6592,
+        "end": 7634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 1ère — L’organisation du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Au cours de chaque année scolaire, le ministre organise une session du concours.\n\nPar dérogation aux dispositions de l’alinéa précédent, pour l’année scolaire 2020/2021, le ministre peut organiser une ou plusieurs sessions du concours.\n\nLes demandes d’admission sont faites moyennant un formulaire dont la forme est arrêtée par le ministre. La date des épreuves et le délai dans lequel les demandes d’admission au concours doivent parvenir au ministre sont publiés sur le site internet du ministère.",
+      "text_sha256": "81327c6187e14aed63f0b02e887b6dfd02cf2cd50398c612270b99be5b9d1723",
+      "md_span": {
+        "start": 7671,
+        "end": 8170
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 1ère — L’organisation du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "L’admission au concours est prononcée par le ministre.\n\nLes candidats briguant ou disposant de la qualification pour enseigner au premier cycle de l’enseignement fondamental se présentent aux épreuves de l’option C1.\n\nLes candidats briguant ou disposant de la qualification pour enseigner aux deuxième, troisième et quatrième cycles de l’enseignement fondamental se présentent aux épreuves de l’option C2 - C4.\n\nLes candidats briguant ou disposant de la qualification d’enseigner dans les quatre cycles de l’enseignement fondamental peuvent se présenter aux épreuves des deux options.\n\nLes candidats visés par l’article 1er, point 4, se présentent aux épreuves de l’option correspondant à leur formation conformément à l’article 20*bis* de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.\n\nL’épreuve visée à l’article 10, point 2 est commune aux options C1 et C2 - C4.",
+      "text_sha256": "9c7c98f63262e077130dc683940e2693fde47eb66d74f53bb9bb51b4fed87e9a",
+      "md_span": {
+        "start": 8207,
+        "end": 9115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 1ère — L’organisation du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est institué un jury appelé à procéder aux opérations du concours.\n\nLe jury est composé de quinze membres effectifs au moins et de trois membres suppléants au moins, nommés par le ministre qui désigne le président et le secrétaire parmi les membres effectifs.\n\nLe jury se réunit en séance préliminaire pour fixer le détail des opérations du concours, les contenus, les questions et les critères d’évaluation des épreuves.\n\nLes membres du jury sont tenus au secret des délibérations.\n\nLes candidats sont informés des modalités et programmes des épreuves ainsi que des documents autorisés aux épreuves du concours.\n\nNul ne peut, en qualité de membre d’un jury, prendre part à l’examen d’un parent ou allié jusqu’au quatrième degré inclus.\n\nLes membres du jury ont droit, par candidat et par copie corrigée, à une indemnité forfaitaire fixée à 2,11 euros correspondant au nombre 100 de l’indice pondéré au coût de la vie au 1er janvier 1948.",
+      "text_sha256": "d13a2d3a6434e092770c5541ed2ed7f526d214867c892dab99c086dd8ef0cf3b",
+      "md_span": {
+        "start": 9152,
+        "end": 10093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 2 — Le déroulement du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Chaque épreuve est évaluée par deux membres du jury au moins et est cotée sur vingt points.",
+      "text_sha256": "10bcd43a88f53f5172392778ed835daf249ebb80cdf2f94cac414bdd1b676e7e",
+      "md_span": {
+        "start": 10175,
+        "end": 10266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Les épreuves du concours.",
+        "Section 2 — Le déroulement du concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Pendant les épreuves, toute communication entre les candidats et avec l’extérieur, de même que toute utilisation d’ouvrages ou de notes, autres que ceux autorisés préalablement par le jury, sont interdites.\n\nLes candidats fautifs sont exclus du concours. Cette exclusion équivaut à un échec. Ils peuvent se présenter une nouvelle fois lors d’une session ultérieure. Le nombre des participations aux épreuves du concours n’est pas limité.",
+      "text_sha256": "e3c8c99f57d62de2e29691910fbfefd6557dc93ce7ece6b24a4c5fa8bf75712c",
+      "md_span": {
+        "start": 10303,
+        "end": 10740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Le classement des candidats au concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le candidat ayant participé aux épreuves des deux options fait parvenir, par formulaire arrêté par le ministre, son choix quant à l’option préférée. Le ministre fixe le délai pour exprimer ce choix. Le délai se situe avant l’établissement des classements par les jurys. Le choix du candidat est irrévocable.\n\nPour l’établissement du classement, le jury ne considère que :\n\n1. les candidats visés à l’article 1er, points 1 à 3 ;\n2. les candidats visés à l’article 1er, point 4, ayant remis leur certificat de formation pédagogique prévu à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n3. les candidats visés à l’article 1er, point 5, ayant remis leur diplôme d’instituteur, tel que mentionné à l’article 1er, points 1 à 3, ou, à défaut, une attestation de réussite de leur formation.\n\nLe ministre fixe la date limite à laquelle les candidats sont tenus de compléter leur demande ; à défaut, ils doivent se présenter à une nouvelle session du concours.\n\nLe jury établit, par ordre de mérite, un classement séparé pour tous les candidats de l’option C1 et un classement séparé pour tous les candidats de l’option C2 - C4.\n\nEn cas de classement en rang utile dans chacune des deux options, le choix préalablement exprimé du candidat conditionne le classement dans lequel figure le candidat.\n\nEn cas d’égalité des points totalisés par plusieurs candidats, ceux-ci sont départagés d’après les notes obtenues aux épreuves prises individuellement, ceci dans l’ordre de leur énumération à l’article 10. En cas de nouvelle égalité, ces candidats seront départagés par tirage au sort.\n\nLe classement en rang utile des candidats, conformément à l’article 5 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental, vaut pour l’admission au stage préparant à la fonction d’instituteur l’année scolaire subséquente au concours et permet le choix d’un poste correspondant à son classement.",
+      "text_sha256": "f18088cf4fc7db24be79d01e54eb16f1ec05f8486522320a8740888965209e45",
+      "md_span": {
+        "start": 10835,
+        "end": 12806
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Le classement des candidats au concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le président du jury communique, à chaque candidat pris en considération pour le classement, les résultats obtenus aux épreuves du concours.",
+      "text_sha256": "6bc0f682a437b3a5fab043fa5554e4a20b25b1ff76ef83017dde47a3453f4e88",
+      "md_span": {
+        "start": 12843,
+        "end": 12983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Le classement des candidats au concours."
+      ],
+      "article_valid_from": null,
+      "text_md": "À la clôture des opérations, le président du jury remet au ministre un rapport sur la session. Ce rapport contient le classement, les noms des candidats admissibles au stage préparant à la fonction d’instituteur, les notes obtenues par les candidats dans les différentes épreuves et les questionnaires.",
+      "text_sha256": "5b8a659b4654bdb03a6aed382f2d1a9b2bbca5326c28ff91b6937a48e599d22a",
+      "md_span": {
+        "start": 13020,
+        "end": 13322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions transitoires et finales."
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Par dérogation à l’article 1er, sont admissibles au concours, les détenteurs des certificats et diplômes énumérés à l’article 46, points 1 à 4, de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental. L’admission au concours est soumise aux conditions et restrictions établies par le même article 46.\n\n**(2)** Par dérogation à l’article 6, peuvent s’inscrire aux sessions respectives des épreuves préliminaires du concours, les détenteurs des certificats et diplômes énumérés à l’article 46, points 1 à 4, de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental, sous réserve de l’application des restrictions fixées par le même article 46. Les dispositions de l’article 9 leur sont applicables.",
+      "text_sha256": "575618d112d71b150e492365f2e428d3f200d69014ea9579bf0721f03dfbe003",
+      "md_span": {
+        "start": 13414,
+        "end": 14187
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions transitoires et finales."
+      ],
+      "article_valid_from": null,
+      "text_md": "Les candidats visés à l’article 19, paragraphe 1er, ne peuvent accéder au stage préparant à la fonction d’instituteur que pour un poste soit du premier cycle, soit des deuxième, troisième ou quatrième cycles de l’enseignement fondamental. Leur classement en rang utile à l’issue du concours ne vaut que pour l’accès au stage pour un poste d’instituteur correspondant à leur qualification.",
+      "text_sha256": "3f1729d6ec7f4f536496efd639c465541c08b0e6897fc7d870b1583b70d243f6",
+      "md_span": {
+        "start": 14224,
+        "end": 14612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions transitoires et finales."
+      ],
+      "article_valid_from": null,
+      "text_md": "Est dispensé des épreuves préliminaires de langues, le candidat qui a réussi les épreuves en question ou qui en a été dispensé avant l’entrée en vigueur du présent règlement.",
+      "text_sha256": "5665b8c92caeb1e12aeaa3378f517eb019badee01aa285e0404d42f5cddab2a4",
+      "md_span": {
+        "start": 14649,
+        "end": 14823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions transitoires et finales."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le règlement grand-ducal modifié du 9 mars 2009 déterminant les modalités du concours réglant l’accès à la fonction d’instituteur de l’enseignement fondamental est abrogé.",
+      "text_sha256": "f94bd812d82bbc11b08c1e691055385a8cfcf2866772ee34b97a71c7614278c0",
+      "md_span": {
+        "start": 14860,
+        "end": 15031
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/03/09/n1/jo",
+          "text": "règlement grand-ducal modifié du 9 mars 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2015-12-18-n12:2020-05-22--da87e674b9dc9bc297df04729ca95f30349dfee7e0f34c6dfa177c6c11dddcf3#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Dispositions transitoires et finales."
+      ],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ea04de636e4fa08a8fd19f3f6afe0e808f73f92368e809e599fb043d050be020",
+      "md_span": {
+        "start": 15068,
+        "end": 15279
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

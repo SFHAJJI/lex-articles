@@ -1,0 +1,424 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/12/2010 : Règlement grand-ducal du 10 novembre 2006 portant exécution des articles 1er et 2 de la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique pour ce qui concerne l'agrément à accorder aux personnes physiques ou aux personnes morales entreprenant ou exerçant une activité de consultation, de formation, de conseil, de médiation, d'accueil et d'animation pour familles.",
+  "valid_from": "2011-09-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2006-11-10-n4/versions/2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04/fr.xml",
+    "sha256": "fb3622845c7a7c5d19db5fd6a36423dbd0cb01a4be8855148c32f3c160eab746",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4/consolide/20110903/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Titre I.** — ** Objet et définitions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’agrément, accordé par le ministre ayant dans ses attributions la Famille, appelé ci-après le «ministre», sur base de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique, appelée ci-après la «loi», et du présent règlement d’exécution, couvre l’exercice non occasionnel à titre principal ou accessoire et contre rémunération par une personne physique ou morale, d’une des activités précisées ci-après à l’article 2.\n\nEn cas d’exercice de plusieurs de ces activités par un même requérant, un agrément est nécessaire pour chacune des activités.\n\nL’agrément s’entend sans préjudice des autorisations à solliciter en vertu d’autres dispositions légales ou réglementaires, notamment en matière d’établissements dangereux, insalubres ou incommodes, ou en vertu de règlements communaux.",
+      "text_sha256": "42068d1adb9de9fb99fbbda9da6a6cbc4817d20fae916c43d5c331abfa76f682",
+      "md_span": {
+        "start": 1102,
+        "end": 1969
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/09/08/n4/jo",
+          "text": "loi du 8 septembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Titre I.** — ** Objet et définitions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont précisées comme activités en faveur des familles au sens de l’article 1er de la loi les activités suivantes, pour autant qu’elles ne concernent pas des activités hospitalières ou scolaires:\n\n**1. Accueil et animation**\n\nEst à considérer comme accueil et animation toute activité ayant comme objectif principal et ce pour des raisons socio-éducatives ou socio-familiales d’offrir à des enfants, des adultes ou des familles des prestations d’animation, de loisir ou de vacances.\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«**2.****Formation socio-éducative**\n\nEst à considérer comme formation socio-éducative toute activité préventive de renseignement, de conseil ou de formation proposée à des enfants, des adultes ou des familles pour des raisons sociales, familiales, éducatives ou pédagogiques.»\n\n**3.****Médiation socio-familiale**\n\nEst à considérer comme médiation socio-familiale toute activité permettant à des enfants, des adultes ou des familles de régler à l’amiable leurs différends relationnels actuels et leurs relations futures.\n\n**4.****Consultation thérapeutique**\n\nEst à considérer comme consultation thérapeutique toute activité d’accompagnement psychique au bénéfice d’enfants, d’adultes ou de familles confrontés à des crises personnelles ou des conflits relationnels.\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«Ne sont pas concernées les activités de médecin psychiatre.»\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«**5.****Conseil socio-familial**\n\nEst à considérer comme conseil socio-familial toute activité de conseil et d’accompagnement au bénéfice d’enfants, d’adultes ou de familles confrontés à des conflits socio-familiaux.»",
+      "text_sha256": "cfb71a808a659dbd006a7a34a040c73e80ced28659b71ee24beafe5e2ffeff7e",
+      "md_span": {
+        "start": 2004,
+        "end": 3666
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n5/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Titre I.** — ** Objet et définitions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La personne entreprenant ou exerçant une activité visée à l’article 2 doit tenir à la disposition des usagers, respectivement de leurs représentants légaux, un exemplaire du présent règlement.",
+      "text_sha256": "f70cb57cffbceda87adc47ddac7ba28ef056854b2bcd784ba3a37a694083a2b2",
+      "md_span": {
+        "start": 3701,
+        "end": 3893
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre I.** — **Conditions d’honorabilité**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les requérants remplissent les conditions d’honorabilité au sens de l’article 2 a) de la loi, s’ils produisent pour les personnes mentionnées à l’article 2 a) de la loi, à l’aide d’un extrait du casier judiciaire pour chaque pays où elles ont résidé la preuve qu’elles n’ont été condamnées ni pour crime, ni pour délit à l’égard d’un enfant, ni pour faillite frauduleuse, ou que la garde d’un enfant leur ait été retirée.\n\nLes requérants sont responsables du contrôle de l’honorabilité des membres de leur personnel, intervenant comme permanents, sur vacation ou à titre bénévole, sous peine de retrait de l’agrément.",
+      "text_sha256": "d2bae5f7e531e61ec93b20a0d4d35150d773e96b064bf703ac02d3dc8bd5cba2",
+      "md_span": {
+        "start": 4047,
+        "end": 4664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute activité visée à l’article 2 qui est assurée par plusieurs personnes doit être dirigée par un chargé de direction, dont la tâche hebdomadaire ne peut être inférieure à une tâche à mi-temps.\n\nLe chargé de direction doit pouvoir se prévaloir, conformément aux distinctions à opérer par le ministre en vertu de l’article 2 sous c) de la loi, d’une qualification professionnelle, sanctionnée par un diplôme de fin d’études secondaires ou secondaires techniques et par un diplôme d’enseignement post-secondaire d’une durée d’au moins deux ans, destinant leur titulaire à une profession dans les domaines pédagogique, psychologique, social, juridique, économique, médical ou des professions de santé.\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«Si les activités visées à l’article «2.1 Accueil et Animation» ou «2.2 Formation socio-éducative» ou «2.5 Conseil socio-familial» sont exercées de manière indépendante par une seule personne, celle-ci doit pouvoir se prévaloir d’une des qualifications professionnelles énumérées ci-dessus.\n\nSi l’activité visée à l’article «2.3 Médiation socio-familiale» ou «2.4 Consultation thérapeutique» est exercée de manière indépendante par une seule personne, celle-ci doit pouvoir se prévaloir de qualifications telles que définies à l’article 9.»\n\nLe chargé de direction en fonction au moment de l’entrée en vigueur du présent règlement qui ne remplit pas les conditions de qualification prévues ci-avant est autorisé à continuer à exercer son activité pour autant qu’il l’exécute en la même institution.",
+      "text_sha256": "f405e3d581031ae1c164bee64048bf2d9fc4d6da822db8a2d829effa39c72ad0",
+      "md_span": {
+        "start": 4738,
+        "end": 6281
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n5/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par personnel d’encadrement, le présent règlement désigne tous les collaborateurs qui contribuent à assurer une activité visée à l’article 2, dont la mission principale consiste à assurer la prise en charge des usagers, qu’ils interviennent comme permanents, à la vacation ou à titre bénévole.",
+      "text_sha256": "fdc2ee48c9dc0d8f55a8a794da8bf68cb0b48d4ce1415946967263317196e522",
+      "md_span": {
+        "start": 6316,
+        "end": 6609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Au moins 60 pour cent des agents du personnel d’encadrement contribuant à assurer l’activité énumérée à l’article 2.1 et 80 pour cent des agents du personnel d’encadrement contribuant à assurer une des activités énumérées à l’article 2.2 doivent faire valoir, soit une qualification professionnelle sanctionnée par des diplômes et certificats luxembourgeois ou étrangers reconnus, destinant leur titulaire à une profession dans les domaines pédagogique, psychologique, social, juridique, économique, médical, des professions de santé, socio-familial, socio-éducatif, psychosocial, ou gérontologique, soit une formation acceptée par le ministre d’au moins 150 heures dans un des domaines visés à l’article 2.",
+      "text_sha256": "96b12b07f44bf9b9cd3352fc3fc83a1f7df992ba2aa2d3852b9b7727ed556ca6",
+      "md_span": {
+        "start": 6644,
+        "end": 7351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 8.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.5 Conseil socio-familial» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie d’une qualification professionnelle sanctionnée par des diplômes et certificats luxembourgeois ou étrangers reconnus, destinant leur titulaire à une profession dans les domaines pédagogique, psychologique, social, juridique, économique, médical, des professions de santé, socio-familial, socio-éducatif, psychosocial, ou gérontologique.»",
+      "text_sha256": "0e1aa918cd45b316e82adde5738e4bac3ac58a034c8af79bf8fb7280cc0bad67",
+      "md_span": {
+        "start": 7387,
+        "end": 7934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 9.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.3 Médiation socio-familiale» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie en plus d’une des qualifications professionnelles énumérées à l’article 7, d’une formation complémentaire en médiation d’au moins 150 heures.\n\nLes personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.4 Consultation thérapeutique» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie au moins d’une qualification professionnelle de niveau master dans les domaines de la psychologie ou de la pédagogie ou de la médecine et d’une formation complémentaire dans les domaines de la psychothérapie ou de la consultation psycho-affective comprenant au moins 300 heures.»",
+      "text_sha256": "d9d17e20e038e9dc351119d4e2b6311dca92685a91475c40a6e921139755ee5c",
+      "md_span": {
+        "start": 7970,
+        "end": 8819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 10.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les personnes qui exercent au moment de l’entrée en vigueur du présent règlement modificatif une des activités visées à l’article «2.1 Accueil et Animation» ou «2.2 Formation socio-éducative» ou «2.3 Médiation socio-familiale» ou «2.5 Conseil socio-familial» et qui disposent d’un agrément sans limitation dans le temps peuvent continuer leur activité en vertu de l’agrément en question.»",
+      "text_sha256": "7f2110aeed24789ea8d6cc13f27fe7e196c98cfaa26868ed7df0a91b6c33eb52",
+      "md_span": {
+        "start": 8857,
+        "end": 9245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pour l’activité visée à l’article 2.1, les effectifs minimaux de l’équipe d’encadrement sont définis suivant les critères suivants:\n\n1. Pour les initiatives ne dépassant pas une durée de cinq heures, la présence d’un collaborateur pendant toute la durée de l’activité est nécessaire pour dix usagers de moins de six ans, respectivement pour vingt usagers de six à douze ans ou pour trente usagers mineurs âgés de plus de treize ans.\n2. Pour les initiatives dont la durée ne dépasse pas vingt-quatre heures, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour dix usagers âgés de six à douze ans, respectivement pour vingt usagers âgés de treize à quinze ans ou pour trente usagers mineurs de plus de quinze ans.\n3. Pour les initiatives avec hébergement qui peuvent inclure des sorties diverses, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour huit usagers âgés de six à douze ans, ou pour quinze usagers mineurs âgés de plus de treize ans et la présence d’au moins un collaborateur majeur pendant toute la durée de l’activité qui fait valoir une formation telle que définie à l’article 7.\n4. A titre exceptionnel et pour des raisons dûment motivées et formellement documentées le nombre d’usagers accueillis peut temporairement être dépassé de 10 pour cent.",
+      "text_sha256": "fbd0912c4acc1740d41705d04dac6d2cc1a022eb697de8bf1dbe1346683a8fab",
+      "md_span": {
+        "start": 9282,
+        "end": 10751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre II.** — ** Personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le chargé de direction d’un service exerçant une activité visée à l’article 2 veille à ce que l’ensemble du personnel d’encadrement puisse régulièrement bénéficier de séances de formation continue et de supervision.",
+      "text_sha256": "60027dfca688e3f152523ba934617bba7d1053399bf4d9e8b3d5cf535a9ccc75",
+      "md_span": {
+        "start": 10788,
+        "end": 11003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre III.** — **Infrastructures**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article 2.1 veillent à ce que les usagers soient accueillis et/ou logés dans de bonnes conditions de sécurité et d’hygiène.",
+      "text_sha256": "3c34dc9aedaa4660969c91d27214212950acdadf1aae263c975aa6f29573ce93",
+      "md_span": {
+        "start": 11085,
+        "end": 11281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Titre II.** — **Conditions pour l’obtention de l’agrément**",
+        "**Chapitre III.** — **Infrastructures**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les personnes qui entendent entreprendre ou exercer une des activités visées à l’article 2.2, 2.3 et 2.4 remplissent les conditions d’infrastructure et d’équipement au sens de l’article 2 b) de la loi, s’ils peuvent recevoir les personnes dans un local adéquat et s’ils disposent du mobilier nécessaire pour conserver des documents concernant les clients et les documents comptables.",
+      "text_sha256": "4569327173372da378fae0a1418a62b544d3a86fa44811c568587aaf9e36fc22",
+      "md_span": {
+        "start": 11318,
+        "end": 11701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Titre III.** — ** Demande d’agrément**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande est à adresser au ministre ayant dans ses attributions la Famille par la personne physique ou morale qui se propose d’entreprendre ou d’exercer une ou plusieurs des activités précisées à l’article 2.",
+      "text_sha256": "035f0f1414fdecd2737ede1cba06c3c9010862a113c49ef6ff617a3bf74aff1f",
+      "md_span": {
+        "start": 11783,
+        "end": 11993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Titre III.** — ** Demande d’agrément**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande est accompagnée des documents et renseignements suivants:\n\n1. une description détaillée du concept de l’activité, de la population cible et du nombre d’usagers que le service est prêt à encadrer;\n2. un engagement formel du requérant que l’activité est accessible à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux;\n3. un extrait du casier judiciaire comme preuve de l’honorabilité du requérant, conformément à l’article 4;\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n1. pour une personne morale requérante, le nom du chargé de direction de l’activité, les documents relatifs à sa qualification ainsi que ceux prévus à l’article 4, relatifs aux conditions d’honorabilité; pour une personne physique requérante, les documents relatifs à sa qualification;»\n2. pour une personne morale requérante, une liste comprenant les noms, prénoms, date de naissance, domicile et qualifications des collaborateurs et les extraits du casier judiciaire des collaborateurs salariés;\n3. pour une personne morale requérante, les statuts en conformité avec la loi afférente;\n4. un budget prévisionnel en équilibre et les pièces documentant la situation financière du service;\n5. le règlement d’ordre intérieur;\n6. un plan des localités.\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«Le gestionnaire du service est tenu de communiquer tout changement concernant les données et les pièces visées dans la liste ci-avant.»\n\nLe ministre peut demander tout autre document ou renseignement indispensable à l’établissement du dossier de la demande d’agrément.",
+      "text_sha256": "364e3885f4e6ae04c6607dc0e5504194b10fefe236e99f35b044550bf624df64",
+      "md_span": {
+        "start": 12030,
+        "end": 13621
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n5/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Titre IV.** — **Modalités du contrôle**",
+        "**Chapitre I.** — ** Généralités**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont chargés de la surveillance des dispositions du présent règlement les fonctionnaires prévus à l’article 9 de la loi qui peuvent se faire assister dans leurs missions par des agents du ministère de la Famille et de l’Intégration ainsi que par des experts.\n\nLors d’une visite, le ou les agents chargés de la mission de surveillance se légitiment par une carte délivrée par le ministre.",
+      "text_sha256": "57ea5851627796921793fbdcd5b0bba3a8c793e4bd4ecc70dab9e59784746c13",
+      "md_span": {
+        "start": 13744,
+        "end": 14131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Titre IV.** — **Modalités du contrôle**",
+        "**Chapitre II.** — **Contrôle de l’agrément**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le contrôle des conditions d’honorabilité peut se faire sur base du casier judiciaire ou moyennant recours systématique à l’entraide administrative auprès de la Police Grand-Ducale ou auprès de services de police et de gendarmerie étrangers.\n\nLe contrôle des conditions de qualification, des normes d’encadrement et des autres conditions concernant le personnel peut avoir lieu sur base de dossiers et/ou sur base de visites des lieux.\n\n*(Règlement grand-ducal du 17 août 2011)*\n\n«(...)»",
+      "text_sha256": "5d4d9d4b53cd592e849e399c790103d31d59ead38d5e0a6c7ed521bac4dd145c",
+      "md_span": {
+        "start": 14219,
+        "end": 14706
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/08/17/n5/jo",
+          "text": "Règlement grand-ducal du 17 août 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03--1ad5af2011a04524865ef71e2bce71ccab7522536a853cc42f9f7beeb5ee3e04#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Titre IV.** — **Modalités du contrôle**",
+        "**Chapitre II.** — **Contrôle de l’agrément**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de la Famille et de l’Intégration est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "fdeb467f93139e36aee27c38782878329fab57ffe5f041dbf5fda2e9c3178758",
+      "md_span": {
+        "start": 14743,
+        "end": 14868
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

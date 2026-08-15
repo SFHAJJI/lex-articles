@@ -1,0 +1,92 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-04-07-a178:2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/03/2026 : Règlement grand-ducal du 7 avril 2022 instituant une commission d’accompagnement auprès du Centre national de l’audiovisuel.",
+  "valid_from": "2026-03-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-04-07-a178/versions/2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87/fr.xml",
+    "sha256": "fe6e18954ef5af5ffc63f573780f53680aecc6cef3c9a8ea311b69a9bdb92cdb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-04-07-a178:2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/art_1er/20260317",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-03-17",
+      "text_md": "Il est institué une commission d’accompagnement, ci-après « commission », auprès du Centre national de l’audiovisuel, ci-après « Centre ». Cette commission se compose de quatre représentants du ministre ayant la Culture dans ses attributions, ci-après « ministre », et de deux représentants du ministre ayant la Fonction publique dans ses attributions et d’un représentant du ministre ayant le Budget dans ses attributions.\n\nLes membres sont désignés par le ministre qui nomme un président parmi ces membres. La durée des mandats est d’un an, renouvelable à son terme.\n\nLa commission peut s’adjoindre des experts.",
+      "text_sha256": "27aba28035b20e016b450c4032f9540f2d576be64447249e0bbed41abd25fd1d",
+      "md_span": {
+        "start": 729,
+        "end": 1342
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-04-07-a178:2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/art_2/20220418",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-04-18",
+      "text_md": "La commission conseille et accompagne le Centre dans la gestion des missions qui lui sont confiées. La commission peut émettre des avis en toutes les matières intéressant le Centre et notamment sur l’organisation, l’orientation stratégique, l’emploi des ressources humaines, la délégation des responsabilités, la communication interne, la gestion des finances, l’engagement des moyens budgétaires et l’accomplissement des missions légales imparties au Centre.\n\nLa commission peut prendre connaissance de tout document, quel qu’en soit le support, reçu ou établi par un agent quelconque du Centre dans l’exercice de ses fonctions.\n\nLa commission peut instituer des groupes de travail réunissant le directeur et des agents du Centre selon les dossiers à traiter. Ces groupes sont présidés par un membre de la commission.",
+      "text_sha256": "44c149df938ebdad749cb8a15dd132229122dcc079e63d6ef5916a255b8323ea",
+      "md_span": {
+        "start": 1377,
+        "end": 2195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2022-04-07-a178:2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/art_3/20220418",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-04-18",
+      "text_md": "Les réunions de la commission sont convoquées et dirigées par son président. En son absence, les réunions sont dirigées par le membre non empêché le plus âgé de la commission.\n\nÀ la demande du président, le directeur et des agents du Centre assistent sans voix délibérante aux réunions de la commission.\n\nLa commission peut émettre des recommandations qu’elle transmet au ministre.\n\nPour chaque participation à une réunion de la commission, les membres perçoivent un jeton de présence d’un montant de 25 euros.",
+      "text_sha256": "c5cc523cba44db301bb7658f63872ca223fa44a8338cd87b6ef355385c081c2b",
+      "md_span": {
+        "start": 2230,
+        "end": 2740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2022-04-07-a178:2026-03-17--fb4e9741279ee59c7366c24f98e088b1fe9eafe890cb98482956b6bfc346ce87#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/art_4/20220418",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-04-18",
+      "text_md": "Notre ministre ayant la Culture dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "b73e64b36e98c99b7e2b1814b2a91db6a2fb2d096be4bcafc3b9c12c5e3266ab",
+      "md_span": {
+        "start": 2775,
+        "end": 2941
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

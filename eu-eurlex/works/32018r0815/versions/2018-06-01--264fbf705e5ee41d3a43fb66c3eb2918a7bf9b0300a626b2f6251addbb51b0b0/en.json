@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0815:2018-06-01--264fbf705e5ee41d3a43fb66c3eb2918a7bf9b0300a626b2f6251addbb51b0b0",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2018/815 of 1 June 2018 on the extension of the transitional periods related to own funds requirements for exposures to central counterparties set out in Regulations (EU) No 575/2013 and (EU) No 648/2012",
+  "valid_from": "2018-06-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0815/versions/2018-06-01--264fbf705e5ee41d3a43fb66c3eb2918a7bf9b0300a626b2f6251addbb51b0b0/en.xml",
+    "sha256": "5b402f423751e83403872a02ab81a6aeb93ecc2794e91aec1ec3095c1026816d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0815"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0815:2018-06-01--264fbf705e5ee41d3a43fb66c3eb2918a7bf9b0300a626b2f6251addbb51b0b0#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe 15-month periods referred to in Article 497(2) of Regulation (EU) No 575/2013 and in the second subparagraph of Article 89(5a) of Regulation (EU) No 648/2012, as most recently extended in Implementing Regulation (EU) 2017/2241, are extended by an additional six months until 15 December 2018.",
+      "text_sha256": "55b73368e49a252b3880cb7faa19563a922f3db9d1aecf6a1eca890d4e89670c",
+      "md_span": {
+        "start": 854,
+        "end": 1161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0815:2018-06-01--264fbf705e5ee41d3a43fb66c3eb2918a7bf9b0300a626b2f6251addbb51b0b0#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 1194,
+        "end": 1341
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e118:2016-06-07--735c3c9003de725252720858ca439486beab32f4fdf98fd1721558a70452a3d3",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e118/versions/2016-06-07--735c3c9003de725252720858ca439486beab32f4fdf98fd1721558a70452a3d3/en.xml",
+    "sha256": "859603c3f16561e83ace4048afabc1c7bd58f4c0ad31f80ba266ff56011ef8d8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E118"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e118:2016-06-07--735c3c9003de725252720858ca439486beab32f4fdf98fd1721558a70452a3d3#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 EN Official Journal of the European Union C 202/96 Article 118 In the context of the establishment and functioning of the internal market, the European Parliament and the Council, acting in accordance with the ordinary legislative procedure, shall establish measures for the creation of European intellectual property rights to provide uniform protection of intellectual property rights throughout the Union and for the setting up of centralised Union-wide authorisation, coordination and supervision arrangements. The Council, acting in accordance with a special legislative procedure, shall by means of regulations establish language arrangements for the European intellectual property rights. The Council shall act unanimously after consulting the European Parliament.",
+      "text_sha256": "06d28478e5392505d2b945055fb82b6f0977d52a23d42f304849840d3cdb3a98",
+      "md_span": {
+        "start": 713,
+        "end": 1493
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

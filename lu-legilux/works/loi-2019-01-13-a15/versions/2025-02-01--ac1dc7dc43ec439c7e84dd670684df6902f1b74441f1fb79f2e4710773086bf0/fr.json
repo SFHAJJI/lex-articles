@@ -1,0 +1,826 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0",
+  "language": "fr",
+  "title": "Loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs.",
+  "valid_from": "2025-02-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2019-01-13-a15/versions/2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0/fr.xml",
+    "sha256": "01c40e9879e538ebe8572b9d2963ba314b8908695d2b80af4b879e3288aa5b54",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20250201/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_1er/20250201",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Définitions**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Pour l’application de la présente loi on entend par :\n\n1. « Registre des bénéficiaires effectifs » : le fichier dans lequel sont conservées les informations sur les bénéficiaires effectifs ;\n2. « gestionnaire » : le groupement d’intérêt économique Luxembourg Business Registers ;\n3. er loi modifiée du 12 novembre 2004\n4. er loi modifiée du 19 décembre 2002\n5. 1. le procureur général d’État, les procureurs d’État ainsi que les membres de leurs parquets ;\n2. les juges d’instruction ;\n3. la cellule de renseignement financier ;\n4. Code de procédure pénale\n5. la Commission de surveillance du secteur financier ;\n6. le Commissariat aux assurances ;\n7. l’Administration de l’enregistrement, des domaines et de la TVA ;\n8. l’Administration des douanes et accises ;\n9. le Service de renseignement de l’État ;\n10. l’Administration des contributions directes ;\n11. le Ministère des affaires étrangères et européennes dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;\n12. le Ministère des finances dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;\n13. l’Office du contrôle des exportations, importations et du transit ;\n6. loi modifiée du 12 novembre 2004",
+      "text_sha256": "a171e452b4eeaf5a965b3e1b7fb97bd63184d524a551ad10a51eaa8ccef91376",
+      "md_span": {
+        "start": 671,
+        "end": 1976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_2/20250201",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Création du Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Il est établi sous l’autorité du ministre ayant la Justice dans ses attributions un registre dénommé « Registre des bénéficiaires effectifs », en abrégé « RBE », qui a pour objet :\n\n1. l’inscription des bénéficiaires effectifs des entités immatriculées,\n2. la conservation des données relatives aux bénéficiaires effectifs inscrits, et\n3. 1. dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme :\n2. à des fins statistiques ;\n3. à des fins scientifiques ;\n4. à toutes autres fins déterminées par la loi.",
+      "text_sha256": "db43037816085c331131375b6ba06079f2bef430bdaf4cf676127d6005412dac",
+      "md_span": {
+        "start": 2086,
+        "end": 2623
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_3/20190301",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** Les informations suivantes sur les bénéficiaires effectifs des entités immatriculées doivent être inscrites et conservées dans le Registre des bénéficiaires effectifs :\n\n1. le nom ;\n2. le(s) prénom(s) ;\n3. la (ou les) nationalité(s) ;\n4. le jour de naissance ;\n5. le mois de naissance ;\n6. l’année de naissance ;\n7. le lieu de naissance ;\n8. le pays de résidence ;\n9. 1. loi modifiée du 25 juillet 2002\n2. pour les adresses à l’étranger : la localité, la rue et le numéro d’immeuble à l’étranger, le code postal et le pays ;\n10. loi modifiée du 19 juin 2013\n11. pour les personnes non résidentes non inscrites au Registre National des Personnes Physiques : un numéro d’identification étranger ;\n12. la nature des intérêts effectifs détenus ;\n13. l’étendue des intérêts effectifs détenus.\n\n**(2)** Par exception au paragraphe 1er, les sociétés dont les titres sont admis à la négociation sur un marché réglementé au Grand-Duché de Luxembourg ou dans un autre État partie à l’accord sur l’Espace économique européen ou dans un autre pays tiers imposant des obligations reconnues comme équivalentes par la Commission européenne au sens de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l'harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE inscrivent uniquement le nom du marché réglementé sur lequel leurs titres sont admis à la négociation.",
+      "text_sha256": "0f3146becedf58164c55ab53251ed5c2e4c6cbac623c834cc0ee65d2785f08de",
+      "md_span": {
+        "start": 2810,
+        "end": 4352
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2004/109/jo",
+          "text": "directive 2004/109/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2001/34/jo",
+          "text": "directive 2001/34/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_4/20190301",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** L’inscription des informations visées à l’article 3 et de leurs modifications doit être demandée par l’entité immatriculée ou par son mandataire, dans le délai d’un mois à compter du moment où l’entité immatriculée a pris connaissance ou aurait dû prendre connaissance de l’événement qui rend nécessaire l’inscription ou sa modification. Le notaire, rédacteur de l’acte constitutif ou de tout acte modificatif de l’entité immatriculée peut également demander l’inscription des informations visées à l’article 3 et leurs modifications.\n\n**(2)** Les informations visées à l’article 3 doivent être adéquates, exactes et actuelles.\n\n**(3)** La demande d’inscription des informations visées à l’article 3 et de leurs modifications comprend les pièces justificatives qui sont fixées par règlement grand-ducal.",
+      "text_sha256": "8f9fa6cdf7378e949a33b8734e4de5dd12621c0095901ebb2cf0b3042c6bc1df",
+      "md_span": {
+        "start": 4387,
+        "end": 5198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_5/20250201",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Le gestionnaire est chargé de l’inscription, de la sauvegarde, de la gestion administrative et de la mise à disposition des informations sur les bénéficiaires effectifs conformément aux dispositions de la présente loi.\n\n**(2)** Le gestionnaire a la qualité de responsable du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).\n\n**(3)** Sans préjudice des autres voies de communication prévues par la présente loi, toute communication entre le gestionnaire et l’entité immatriculée se fait par voie électronique sécurisée laissant une trace de l’envoi.\n\n**(4)** Le gestionnaire n’est pas responsable du contenu de l’information inscrite.\n\n**(5)** Le gestionnaire peut inscrire les informations sur les bénéficiaires effectifs d’une entité immatriculée dans le Registre des bénéficiaires effectifs à la demande et pour compte de l’entité immatriculée.\n\n**(6)** Le Centre des technologies de l’information de l’État est chargé de la gestion informatique du fichier au sens du règlement (UE) 2016/679 précité.\n\n**(7)** Le Centre des technologies de l’information de l’État a la qualité de sous-traitant du fichier au sens du règlement (UE) 2016/679 précité.",
+      "text_sha256": "05cff9c137bdc334de3d4b6298ba442b6ef7c4272f4256490c9f983d282a5cbb",
+      "md_span": {
+        "start": 5233,
+        "end": 6675
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "règlement (UE) 2016/679"
+        },
+        {
+          "href": "/eli/dir_ue/1995/46/jo",
+          "text": "directive 95/46/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_6/20250201",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** La demande d’inscription visée à l’article 4, paragraphes 1er et 3, s’effectue par voie électronique sur le site internet du gestionnaire ou de sa plateforme électronique, selon des modalités à fixer par règlement grand-ducal.\n\n**(2)** Le gestionnaire est tenu de procéder aux inscriptions prescrites par la loi dans un délai de trois jours ouvrables suivant le dépôt de la demande d’inscription visée à l’article 4, paragraphes 1er et 3.",
+      "text_sha256": "ea0e8b4c669cab8ed077e8c04477a9d4f39a7ecbda6d482179d8a9ae4fba9966",
+      "md_span": {
+        "start": 6710,
+        "end": 7156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_7/20250201",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Le gestionnaire refuse toute demande d’inscription incomplète ou non conforme aux dispositions légales et réglementaires. Le gestionnaire refuse également d’inscrire ou de modifier les informations qui ne correspondent pas aux pièces justificatives.\n\nEn cas de refus de la demande d’inscription par le gestionnaire pour une des raisons visées à l’alinéa précédent, le gestionnaire demande à l’entité immatriculée concernée ou, le cas échéant, à son mandataire de régulariser sa demande en complétant, en modifiant ou en retirant les informations faisant l’objet de la demande de l’entité immatriculée, ou en introduisant les pièces justificatives requises.\n\nL’entité immatriculée concernée dispose d’un délai de quinze jours à compter de la date d’émission de la demande de régularisation du gestionnaire pour s’y conformer.\n\n**(2)** Si la demande n’est toujours pas conforme aux dispositions légales et réglementaires ou si les informations ou pièces justificatives manquantes n’ont toujours pas été fournies dans le délai visé au paragraphe 1er, alinéa 3, le gestionnaire notifie à l’entité immatriculée concernée son refus d’inscription. Le refus doit être motivé. Il doit mentionner la possibilité pour l’entité immatriculée de former un recours juridictionnel en lui indiquant le juge compétent, la procédure à respecter et le délai.\n\nLes notifications sont opérées par le gestionnaire par envoi d’une lettre recommandée avec accusé de réception.\n\n**(3)** Un recours contre la décision d’inscription ou de refus d’inscription est ouvert à toute personne intéressée. Le recours est porté devant le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale pour les commerçants et devant le président du tribunal d’arrondissement siégeant en matière civile pour les personnes visées à l’article 1er, points 6°, 7°, 8°, 10° et 11°, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\nL’action est introduite et jugée comme en matière de référé conformément aux articles 934 à 940 du Nouveau Code de procédure civile.\n\n**(4)** Toute décision coulée en force de chose jugée ordonnant une inscription ou une modification d’une inscription est exécutée par le gestionnaire*.*\n\nEn cas de confirmation du refus d’inscription du gestionnaire par une décision coulée en force de chose jugée, l’entité immatriculée concernée dispose d’un délai de quinze jours à compter de la signification de la décision afin de conformer sa demande à la loi ou de fournir les informations manquantes.\n\nÀ défaut pour l’entité immatriculée de conformer sa demande aux dispositions légales et réglementaires ou de fournir les informations manquantes, le gestionnaire transmet le dossier de l’entité immatriculée concernée au procureur d’État.\n\n**(5)** Toute décision administrative du gestionnaire du registre des bénéficiaires effectifs, autre qu’une décision visée aux articles 7, paragraphes 1er et 2 et 15, paragraphe 2 peut être déférée dans le délai de trois mois, sous peine de forclusion, au tribunal administratif.",
+      "text_sha256": "6a5daf99b809373773d09bd2a081f4bb428d5303423f0f1c7f11562e749a325e",
+      "md_span": {
+        "start": 7191,
+        "end": 10336
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_8/20250201",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Toute personne disposant d’un accès aux informations du Registre des bénéficiaires effectifs en application de l’article 11 ainsi que tout professionnel sont tenus, dans l’exercice de leurs missions, de consulter le Registre des bénéficiaires effectifs et d’informer le gestionnaire dès qu’ils constatent soit l’existence de données erronées ou le défaut de tout ou partie des données dans le Registre des bénéficiaires effectifs, soit le défaut d’une inscription, d’une modification ou d’une radiation, dans un délai de trente jours à partir de cette constatation.\n\n**(2)** La procédure de l’article 9 est applicable.\n\n**(3)** Pendant la durée de la procédure de l’article 9, une mention spécifique relative à la constatation visée au paragraphe 1er est portée par le gestionnaire dans le Registre des bénéficiaires effectifs.",
+      "text_sha256": "9c049ceea575786bf0ca3817b0e96ee61031fb98204e58a150311b63e5bf0e2b",
+      "md_span": {
+        "start": 10371,
+        "end": 11206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_9/20250201",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Le gestionnaire du Registre des bénéficiaires effectifs effectue un suivi des données inscrites et peut requérir auprès de l’entité immatriculée toute pièce ou document permettant de justifier l’exactitude d’une inscription.\n\n**(2)** Pour s’assurer de la tenue à jour du Registre des bénéficiaires effectifs, lorsque le gestionnaire constate d’office ou dans le cadre de l’article 8 l’existence de données erronées ou le défaut de tout ou partie des données dans le Registre des bénéficiaires effectifs, soit le défaut d’une inscription, d’une modification ou d’une radiation, endéans le délai prescrit par la loi, il adresse par courrier recommandé à l’entité immatriculée une demande de vérification.\n\n**(3)** Lorsque l’entité immatriculée n’a pas répondu à la demande de vérification ou le cas échéant n’a pas régularisé ses inscriptions au Registre des bénéficiaires effectifs, endéans les 30 jours de l’envoi de la demande, le gestionnaire peut imposer les sanctions et mesures administratives suivantes :\n\n1. afficher sur son site internet dans le dossier de la personne ou de l’entité le fait qu’une procédure de vérification est en cours de traitement, à partir du premier jour du deuxième mois qui suit la date d’envoi de la demande de vérification ;\n2. émettre des certificats attestant des manquements constatés, à partir du premier jour du troisième mois qui suit la date d’envoi de la demande de vérification ;\n3. prononcer une astreinte journalière de 40 euros à partir du premier jour du septième mois qui suit la date d’envoi de la demande de mise à jour jusqu’au dernier jour du neuvième mois qui suit la date d’envoi de la demande de mise à jour ;\n4. radier d’office le dossier de l’entité immatriculée, sans que cela emporte dissolution, ni perte de la personnalité juridique, à partir du premier jour du douzième mois qui suit la date d’envoi de la demande de vérification.\n\n**(4)** Le gestionnaire notifie la décision prononçant une astreinte par lettre recommandée. Le gestionnaire liquide l’astreinte au moment de la mise à jour ou, en l’absence de mise à jour, au moment où l’astreinte cesse de courir. En l’absence de paiement du montant liquidé, il notifie le montant liquidé par lettre recommandé qui vaut titre exécutoire. L’amende doit être acquittée endéans les 30 jours de la notification. Passé ce délai, le gestionnaire peut procéder lui-même à son recouvrement forcé. L’exécution du titre est alors poursuivie par voie d’huissier conformément au Code de procédure civile.\n\nLes actes de poursuite, de saisie ou de procédure auxquels le recouvrement des créances donne lieu, sont dispensés des droits de timbre et d’enregistrement. Les frais exposés pour le recouvrement forcé de l’amende sont à charge des personnes immatriculées auxquelles ces amendes ont été infligées.\n\n**(5)** La mise à jour de l’information au Registre des bénéficiaires effectifs, effectuée postérieurement à la mise en œuvre des mesures fixées au paragraphe 3 entraine :\n\n1. la suppression de la mesure prescrite au paragraphe 3, lettres a), b) et d) ;\n2. une majoration des frais de déclaration, fixée par règlement grand-ducal. La majoration des frais de dépôts ne s’applique pas lorsque la personne visée est une association sans but lucratif ou une fondation.\n\n**(6)** En l’absence de régularisation des inscriptions après la radiation administrative de la société en application du paragraphe 3 lettre d, le gestionnaire du registre de commerce et des sociétés dénonce la personne ou l’entité au procureur d’État.",
+      "text_sha256": "5f419f19e6141433bd1b58bf0b1211d1a486934d13936dc89dece19405217d46",
+      "md_span": {
+        "start": 11241,
+        "end": 14774
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_10/20190301",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ****Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs****"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** Les informations visées à l’article 3 ainsi que les demandes d’inscription sont conservées par le Registre des bénéficiaires effectifs pendant cinq ans après la date de la radiation de l’entité immatriculée du Registre de commerce et des sociétés.\n\n**(2)** Les pièces justificatives visées à l’article 4, paragraphe 3, sont conservées par le Registre des bénéficiaires effectifs pendant cinq ans.",
+      "text_sha256": "f3b4b1c34deef1a9a7d3630260e0a74bef90907ad53aaedd7e566d08e091cbaf",
+      "md_span": {
+        "start": 14811,
+        "end": 15215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_11/20250201",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** L’accès au Registre des bénéficiaires effectifs est ouvert :\n\n1. aux autorités nationales dans l’exercice de leurs missions ;\n2. loi modifiée du 12 novembre 2004\n3. aux organismes d’autorégulation nationaux dans le cadre de l’exercice de leur mission de surveillance en matière de lutte contre le blanchiment et contre le financement du terrorisme ;\n4. aux personnes qui démontrent un intérêt légitime dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme ;\n5. aux services de l’État ainsi qu’aux administrations publiques et aux établissements publics pour lesquels un tel accès est prévu par la loi dans le cadre des missions définies par la loi.\n\n**(2)** Les personnes ayant un intérêt légitime dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme visées au point 4° du paragraphe 1er comprennent notamment :\n\n1. loi modifiée du 8 juin 2004\n2. les organisations, associations ou fondations établies sur le territoire de l’un des États membres de l’Union européenne, pour autant qu’elles poursuivent un but non lucratif dont l’objet est la prévention et la lutte contre le blanchiment et contre le financement du terrorisme ;\n3. les personnes qui souhaitent connaître l’identité des bénéficiaires effectifs d’une société ou d’une entité donnée du fait qu’elles sont susceptibles de conclure des transactions avec celles-ci et veulent éviter tout lien entre de telles transactions et le blanchiment et le financement du terrorisme ;\n4. er",
+      "text_sha256": "6029231e78a04d46ee24aaaa1a67ec774d05fed47c0dd07ddebb0ef99e37eeb7",
+      "md_span": {
+        "start": 15324,
+        "end": 16838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_12/20250201",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Les personnes visées à l’article 11, paragraphe 1er points 1° à 3° et 5°, et paragraphe 2, points 1°, 2°, et 4° ont accès aux informations portant sur l’ensemble des personnes ou entités visées à l’article 1er.\n\nLes autres personnes visées à l’article 11 ont un accès limité aux informations des seules personnes morales et entités visées qui font l’objet immédiat de leurs recherches ou, dans les cas des personnes visées au paragraphe 2, point 3°, avec lesquelles elles sont susceptibles de conclure des transactions.\n\n**(2)** L’accès est ouvert pour chaque personne ou entité aux informations suivantes :\n\n1. er\n2. er",
+      "text_sha256": "d2e72e1f2095158e459caa4f876e393bc329953f255856c811db8b99da8168b9",
+      "md_span": {
+        "start": 16875,
+        "end": 17503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_13/20250201",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Les modalités de mise en œuvre concernant l’octroi des accès et l’accès en consultation sont fixées par règlement grand-ducal.\n\nLes critères de recherche sont fixés par règlement grand-ducal.\n\n**(2)** Le système informatique, par lequel l’accès au Registre des bénéficiaires effectifs des autorités nationales visées à l’article 11, paragraphe 1er, point 1° est opéré, doit être aménagé de sorte que l’accès aux fichiers soit sécurisé.\n\n**(2*bis*)** Le système informatique, par lequel l’accès au Registre des bénéficiaires effectifs par des personnes autres que celles visées au paragraphe 2 est opéré, doit être aménagé de sorte que l’accès aux fichiers soit sécurisé moyennant une authentification forte, que les informations relatives à la personne ayant procédé à la consultation, les informations consultées, la date, l’heure et la référence du dossier dans le cadre duquel la consultation a été effectuée, ainsi que le motif précis de la consultation puissent être retracés. Les données de journalisation doivent être conservées pendant un délai de cinq ans à partir de leur enregistrement, délai après lequel elles sont effacées.\n\n**(3)** Aucune information sur une consultation des données par une entité ou personnes relevant d’une des catégories visées à l’article 11, paragraphe 1er, points 1°, 2°, 3° et 4°, et du paragraphe 2, points 1°, 2° et 4° ne peut être communiquée aux entités immatriculées ou aux bénéficiaires effectifs et le gestionnaire s’assure que la consultation de données du Registre des bénéficiaires effectifs est opérée sans en alerter l’entité immatriculée concernée ou ses bénéficiaires effectifs.",
+      "text_sha256": "10d4a67f2545f69c788815376b3241cfa608f7c3dbb42ae8082434e1fc33f2f0",
+      "md_span": {
+        "start": 17540,
+        "end": 19180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_14/20190301",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Le gestionnaire émet des extraits en format électronique ou en format papier comportant les informations visées à l’article 3 dans les conditions prévues aux articles 11 et 12.",
+      "text_sha256": "c7210fbc9f5c80d487e7e46352fb0ba2ac975de4aff11da819be603581af10ea",
+      "md_span": {
+        "start": 19217,
+        "end": 19393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_15/20190301",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** Une entité immatriculée ou un bénéficiaire effectif peuvent demander, au cas par cas et dans les circonstances exceptionnelles ci-après, sur la base d’une demande dûment motivée adressée au gestionnaire, de limiter l’accès aux informations visées à l’article 3 aux seules autorités nationales, aux établissements de crédit et aux établissements financiers ainsi qu’aux huissiers et aux notaires agissant en leur qualité d’officier public, lorsque cet accès exposerait le bénéficiaire effectif à un risque disproportionné, au risque de fraude, d’enlèvement, de chantage, d’extorsion, de harcèlement, de violence ou intimidation ou lorsque le bénéficiaire effectif est un mineur ou est autrement frappé d’incapacité.\n\n**(2)** Le gestionnaire limite provisoirement l’accès aux informations visées à l’article 3 aux seules autorités nationales dès la réception de la demande jusqu’à la notification de sa décision, et, en cas de refus de la demande, pour une durée supplémentaire de quinze jours. En cas de recours contre une décision de refus, la limitation d’accès aux informations est maintenue jusqu’à ce que la décision de refus ne soit plus susceptible de voie de recours.\n\n**(3)** Une limitation d’accès aux informations ne peut être accordée que pour la durée des circonstances qui la justifient sans dépasser une période maximale de trois ans. Elle peut être renouvelée par décision du gestionnaire, sur base d’une demande de renouvellement motivée de l’entité immatriculée ou du bénéficiaire effectif, adressée au gestionnaire au plus tard un mois avant la date d’expiration de la limitation.\n\n**(4)** Un avis renseignant la limitation d’accès aux informations et la date de décision afférente, est publié au Registre des bénéficiaires effectifs par son gestionnaire.\n\n**(5)** Tout intéressé qui entend contester une décision du gestionnaire prise en vertu des paragraphes 2 ou 3, peut introduire un recours conformément aux dispositions de l’article 7, paragraphe 3, contre cette décision dans un délai de 15 jours à compter de la publication de l’avis mentionné au paragraphe 4.\n\nL’article 7, paragraphe 4 est applicable.",
+      "text_sha256": "0b283ecdc8e87fdf15524f95c77bd7a25fc22bee4281b0d85c00fa8c71ce2173",
+      "md_span": {
+        "start": 19430,
+        "end": 21567
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15bis",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_15bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_15bis/20250201",
+      "type": "article",
+      "num": "Art. 15bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** La demande d’accès d’une personne visée à l’article 11, paragraphe 1er, point 4° autre qu’une personne visée au paragraphe 2, points 1°, 2° ou 4° ne peut concerner que les entités immatriculées en lien direct avec ses recherches ou investigations et ne peut pas viser l’ensemble des entités immatriculées. Elle ne peut porter que sur une recherche par le numéro d’immatriculation au registre de commerce et des sociétés ou la dénomination.\n\n**(2)** La demande précise, sous peine de nullité :\n\n1. si le requérant est une personne physique : les noms, prénoms, nationalités, date de naissance, lieu de naissance et domicile ou résidence de la personne demanderesse ; si le requérant est une personne morale : la dénomination, l’adresse précise du siège et la personne ou l’organe qualifié pour la représenter en justice ;\n2. 1. le numéro d’immatriculation au registre de commerce et des sociétés ; ou\n2. la dénomination.\n3. le fondement de la demande et les utilisations aux fins desquelles l’accès à l’information est demandé.\n\nÀ l’appui de la demande il est joint tout document de nature à justifier de l’existence d’un intérêt légitime.\n\n**(3)** Le gestionnaire décide du bien-fondé de la demande en appréciant l’existence d’un intérêt légitime de la demande d’accès et notifie sa décision à la personne physique ou morale requérante.\n\nAux fins de l’appréciation de l’existence d’un intérêt légitime, le gestionnaire s’appuie sur l’avis d’une commission consultative qui tient compte de toute circonstance pertinente, susceptible d’indiquer si l’accès à l’information est demandé dans le cadre de la prévention de l’utilisation du système financier aux fins de blanchiment ou de financement du terrorisme.\n\nLe gestionnaire tient compte de la protection des droits fondamentaux des personnes, notamment du droit à la vie privée et du droit à la protection des données à caractère personnel lors de sa prise de décision.\n\n**(4)** En cas de décision favorable du gestionnaire, celui-ci transmet à la personne physique ou morale requérante dans un délai de trois jours ouvrables à compter de la décision un extrait comportant les informations visées au paragraphe 1er.\n\nLa personne physique ou morale requérante ne peut utiliser l’information à des fins autres que celles précisées dans la demande et acceptées par le gestionnaire.\n\n**(5)** En cas de décision négative du gestionnaire et de recours contre cette décision conformément aux dispositions du paragraphe 6, le gestionnaire s’abstient de transmettre l’extrait jusqu’à ce qu’à ce qu’une décision judiciaire soit coulée en force de chose jugée.\n\n**(6)** Contre la décision du gestionnaire, un recours en réformation est ouvert devant le tribunal administratif. Il doit être introduit dans un délai d’un mois à partir de la notification.",
+      "text_sha256": "53db1b212c66a844790321969c35ced655e9a6ce74c060ef9525bd40c81de88b",
+      "md_span": {
+        "start": 21610,
+        "end": 24410
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15ter",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_15ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_15ter/20250201",
+      "type": "article",
+      "num": "Art. 15ter.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Accès au Registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Il est créé une commission consultative qui assure les missions qui lui sont dévolues par l’articles 15*bis*, paragraphe 3.\n\nUn règlement grand-ducal arrête la composition et les modalités d’exécution des missions de la commission consultative.",
+      "text_sha256": "34a38b4a4a2780b4a9412817d18200756bb54c6cdf9cacff3fe092e48e2a292f",
+      "md_span": {
+        "start": 24453,
+        "end": 24697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_16/20190301",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions particulières concernant le fonctionnementdu registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "La rémunération du gestionnaire pour les coûts de fonctionnement et d’utilisation du registre des bénéficiaires effectifs est fixée par règlement grand-ducal dans la limite des coûts de fonctionnement et d’utilisation encourus.",
+      "text_sha256": "05a9e91552f03f26a549bcd615fc5507aeee803e7cd99e99c9873b049685da3a",
+      "md_span": {
+        "start": 24855,
+        "end": 25082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16-1",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_16-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_16-1/20250201",
+      "type": "article",
+      "num": "Art. 16-1.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions particulières concernant le fonctionnementdu registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Le gestionnaire prend les mesures nécessaires pour assurer l’interconnexion du Registre des bénéficiaires effectifs avec les registres visés à l’article 30, paragraphe 10, de la directive (UE) 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission, institués par les autres États membres par l’intermédiaire de la plate-forme centrale européenne instituée par l’article 22, paragraphe 1er, de la directive (UE) 2017/1132 du Parlement européen et du Conseil du 14 juin 2017 relative à certains aspects du droit des sociétés, dénommée ci-après « directive (UE) 2017/1132 », conformément aux spécifications techniques et aux procédures visées à l’article 30, paragraphe 10, alinéa 1er, de la directive (UE) 2015/849 précitée.\n\n**(2)** Les informations visées à l’article 3 inscrites dans le Registre des bénéficiaires effectifs sont disponibles par l’intermédiaire du système d’interconnexion des registres institué par l’article 22, paragraphe 2, de la directive (UE) 2017/1132 conformément aux modalités d’accès prévues par la présente loi et les mesures prises pour son exécution.",
+      "text_sha256": "c619f355700fda987d7bbc6a2ed577c680ab26e067d9831dd431cd7d12828185",
+      "md_span": {
+        "start": 25123,
+        "end": 26541
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2015/849/jo",
+          "text": "directive (UE) 2015/849"
+        },
+        {
+          "href": "/eli/reg_ue/2012/648/jo",
+          "text": "règlement (UE) n° 648/2012"
+        },
+        {
+          "href": "/eli/dir_ue/2005/80/jo",
+          "text": "directive 2005/60/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2006/70/jo",
+          "text": "directive 2006/70/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2017/1132/jo",
+          "text": "directive (UE) 2017/1132"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16-2",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_16-2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_16-2/20250201",
+      "type": "article",
+      "num": "Art. 16-2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions particulières concernant le fonctionnementdu registre des bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Dans le cadre des missions respectives du gestionnaire du registre de commerce et des sociétés et du Registre des bénéficiaires effectifs, les fichiers du Registre des bénéficiaires effectifs sont interconnectés avec la banque de données du registre de commerce et des sociétés.\n\n**(2)** Dans les limites des missions dévolues au gestionnaire, qui visent la vérification des inscriptions effectuées au registre des bénéficiaires effectifs et la tenue à jour des informations inscrites, le gestionnaire a un droit d’accès aux informations, même individuelles, contenues dans les traitements de données à caractère personnel suivants :\n\n1. loi modifiée du 19 juin 2013\n2. loi modifiée du 25 juillet 2002\n\n**(3)** Le gestionnaire met d’office à jour les informations inscrites au Registre des bénéficiaires effectifs concernant les entités immatriculées, qui lui sont communiquées par les différents registres nationaux auxquels il a accès.",
+      "text_sha256": "65c3f0173c215dbac752a18e381fef23bd9ab41e1705a51ccd57c7d5a8f99a36",
+      "md_span": {
+        "start": 26582,
+        "end": 27527
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_17/20190301",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Fourniture, obtention et conservation des informations sur les bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** Tout bénéficiaire effectif d’une entité immatriculée, doit fournir à celle-ci les informations nécessaires pour qu’elle puisse satisfaire aux obligations lui incombant en vertu des articles 3, 4, 7 et 9.\n\n**(2)** Les entités immatriculées doivent obtenir et conserver, au lieu de leur siège, les informations sur leurs bénéficiaires effectifs visées à l’article 3, ainsi que les pièces justificatives afférentes.\n\n**(3)** Ces informations doivent être adéquates, exactes et actuelles.\n\n**(4)** En cas de radiation du Registre de commerce et des sociétés suite à la dissolution d’une entité immatriculée, l’entité immatriculée doit désigner l’endroit où seront conservées les informations visées à l’article 3 ainsi que les pièces justificatives afférentes pendant cinq ans après la date de la radiation.\n\nL'indication de l'endroit désigné est publiée au Recueil électronique des sociétés et associations, conformément aux dispositions du titre I, chapitre V*bis,* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.",
+      "text_sha256": "87a3888c29f07df2c1e840986d0f70dbfd0159258b2d5757418a413bbac0d698",
+      "md_span": {
+        "start": 27677,
+        "end": 28804
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_18/20190301",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Fourniture, obtention et conservation des informations sur les bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Les entités immatriculées doivent fournir aux autorités nationales, sur simple demande et dans les trois jours de cette demande, les informations visées à l’article 3 et les informations sur leur propriétaire.",
+      "text_sha256": "0e9b3191cf8ac83f43908e73ba6ef11945e0a5a7a8fce4488df957ac9815d9e5",
+      "md_span": {
+        "start": 28841,
+        "end": 29050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_19/20190301",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Fourniture, obtention et conservation des informations sur les bénéficiaires effectifs**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Hormis les situations dans lesquelles l’accès aux informations a été limité conformément à l’article 15, les entités immatriculées doivent fournir sur demande motivée et dans les trois jours de cette demande, les informations visées à l’article 3, points 1° à 8°, 12° et 13°, et les informations sur leur propriétaire aux professionnels dans le cadre de l’exécution de leurs mesures de vigilance à l’égard de la clientèle conformément aux articles 3 à 3-3 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.",
+      "text_sha256": "c7ac097f46357cafd068e1d76c57b0e2594406db40d2335826f374eba377e68a",
+      "md_span": {
+        "start": 29087,
+        "end": 29663
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/11/12/n1/jo",
+          "text": "loi modifiée du 12 novembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19bis",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_19bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_19bis/20250201",
+      "type": "article",
+      "num": "Art. 19bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — La protection des données inscrites sur les registres"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Le gestionnaire peut mettre en œuvre des moyens techniques accessoires, sur lesquels est reproduit tout ou partie du fichier afin d’effectuer les traitements de données nécessaires à l’exécution de ses missions conformément aux finalités définies par la loi.",
+      "text_sha256": "e8b432af23f1d44684b43044573a2a28bd6857dd1cf8b7e656fe53ec61b2b916",
+      "md_span": {
+        "start": 29782,
+        "end": 30040
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19ter",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_19ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_19ter/20250201",
+      "type": "article",
+      "num": "Art. 19ter.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — La protection des données inscrites sur les registres"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Sur demande écrite et signée mentionnant le but poursuivi et l’utilisation projetée, le gestionnaire peut autoriser la délivrance à des tiers de données statistiques tirées du Registre des bénéficiaires effectifs, à condition que celles-ci ne permettent pas l’identification des personnes inscrites sur le registre des bénéficiaires effectifs ou des entités immatriculées et qu’elles soient destinées à des fins statistiques ou scientifiques.\n\nLe gestionnaire demande au tiers de garantir la non-divulgation de données à caractère confidentiel lors de la délivrance de ces données. Les données utilisées pour la production de statistiques sont considérées comme confidentielles lorsqu’elles permettent l’identification, directe ou indirecte, d’une personne physique ou d’une entité immatriculée ou comportent un risque de divulgation d’informations individuelles. Pour déterminer si une personne physique ou une entité immatriculée est identifiable, il est tenu compte de tous les moyens dont on pourrait raisonnablement admettre qu’ils puissent être utilisés par un tiers pour identifier ladite personne ou entité.",
+      "text_sha256": "07a39e9c08282eda5ea45b2cdb8dc35c45607db5d0af9257a26601109e49ddc6",
+      "md_span": {
+        "start": 30083,
+        "end": 31198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19quater",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_19quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_19quater/20250201",
+      "type": "article",
+      "num": "Art. 19quater.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — La protection des données inscrites sur les registres"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Dans le cadre de l’exercice du droit d’accès de la personne concernée prévu à l’article 15 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), toute demande de la personne concernée est adressée au gestionnaire, excepté les demandes relatives à des consultations et informations données pour les personnes et entités visées à l’article 13, paragraphe 3, lesquelles sont traitées conformément au paragraphe 2.\n\n**(2)** Sans préjudice de l’article 13, paragraphe 3, le droit d’accès de toute entité immatriculée ou de tout bénéficiaire inscrit au Registre des bénéficiaires effectifs est différé et limité en ce qu’il ne peut pas porter sur des consultations des informations figurant au Registre des bénéficiaires effectifs effectuées par des entités ou des personnes visée à l’article 13, paragraphe 3 ou la communication d’information par cellesci au gestionnaire en application de l’article 8, paragraphe 1er.\n\nL’accès doit être exercé dans les cas visés à l’alinéa 1er par l’intermédiaire de la Commission nationale pour la protection des données, qui après avoir exercé ce droit d’accès, confirme l’avoir fait sans donner d’autres précisions.\n\n**(3)** Le gestionnaire donne sur son site internet toutes informations quant à l’exercice du droit d’accès et ses limitations.",
+      "text_sha256": "3bf8c87081596c1b37b8d8ea3f9293ed9289f070b3dc6777666b12b4d88191e7",
+      "md_span": {
+        "start": 31247,
+        "end": 32792
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "règlement (UE) 2016/679"
+        },
+        {
+          "href": "/eli/dir_ue/1995/46/jo",
+          "text": "directive 95/46/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_20/20250201",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — **Dispositions pénales**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "**(1)** Sera punie d’une amende de 1 250 euros à 1 250 000 euros l’entité immatriculée qui omet sciemment d’adresser endéans les délais visés à l’article 4, paragraphe 1er, alinéa 1er, et à l’article 7, paragraphe 4, une demande d’inscription au Registre des bénéficiaires effectifs aux fins de l’inscription de toutes les informations sur ses bénéficiaires effectifs visées à l’article 3 et de leurs modifications.\n\n**(2)** Sera punie d’une amende de 1 250 euros à 1 250 000 euros l’entité immatriculée qui adresse sciemment une demande d’inscription au Registre des bénéficiaires effectifs aux fins de l’inscription des informations visées à l’article 3 qui sont inexactes, incomplètes ou non actuelles.",
+      "text_sha256": "d7f477cfbd1113101eccbb9ee25df92a235cb2fc278ec050ced6228d749c45f8",
+      "md_span": {
+        "start": 32876,
+        "end": 33581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_21/20190301",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — **Dispositions pénales**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "**(1)** Sera punie d’une amende de 1 250 euros à 1 250 000 euros l’entité immatriculée qui omet d’obtenir et de conserver, au lieu de son siège, toutes les informations sur ses bénéficiaires effectifs visées à l’article 3.\n\n**(2)** Sera punie d’une amende de 1 250 euros à 1 250 000 euros l’entité immatriculée qui fournit sciemment aux autorités nationales mentionnées à l’article 18 ou aux professionnels mentionnés à l’article 19 les informations visées à l’article 3 qui sont inexactes ou non actuelles.\n\n**(3)** Sera puni d’une amende de 1 250 euros à 1 250 000 euros le bénéficiaire effectif qui ne satisfait pas à son obligation prévue à l’article 17, paragraphe 1er.",
+      "text_sha256": "1ebb39bdbac7085cb917e9b9ba6773ea83c9cd432fa4a4172a449837b80165b9",
+      "md_span": {
+        "start": 33618,
+        "end": 34292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_22/20190301",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8 ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "L’article 10 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est complété par un point 4° qui prend la teneur suivante :le cas échéant, l’indication d’une mention supplémentaire prévue par la loi.",
+      "text_sha256": "78dcd58a009f7165e10ddcd960452639220e29a91e34d57b4f3029a81b240d5f",
+      "md_span": {
+        "start": 34382,
+        "end": 34685
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_23/20190301",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8 ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Après l’article 12 de la même loi sont insérés les articles 12*bis* et 12*ter* nouveaux suivants :Art. 12*bis***.**Est également à communiquer le numéro d’identification national de toute personne physique inscrite au registre de commerce et des sociétés, tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques.Les personnes physiques ne disposant pas d’un numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, se voient allouer ce numéro d’identification conformément à l’article 1, paragraphe 2, alinéa 2 de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques lors de leur inscription par le gestionnaire du registre de commerce et des sociétés.Art. 12*ter*.Les adresses luxembourgeoises précises à inscrire au registre de commerce et des sociétés, en application de la présente loi, mentionnent la localité, la rue, le numéro d’immeuble, figurant ou à communiquer au Registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal.",
+      "text_sha256": "f4278a83b4ba22ad16e930952f46d71530781aec6b1570896447145db6abda8f",
+      "md_span": {
+        "start": 34722,
+        "end": 35955
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "même loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2013/06/19/n3/jo",
+          "text": "loi modifiée du 19 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/07/25/n8/jo",
+          "text": "loi modifiée du 25 juillet 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_24/20190301",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8 ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "L’article 22-1, alinéa 2, de la même loi, est modifié comme suit :Lorsqu’elle est électronique, cette signature doit être qualifiée au sens du règlement (UE) N° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.",
+      "text_sha256": "6e49d2bfd425c3a8444268cd279f5e5701aae8daa007326bc66435c3c79b9db8",
+      "md_span": {
+        "start": 35992,
+        "end": 36381
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "même loi"
+        },
+        {
+          "href": "/eli/reg_ue/2014/910/jo",
+          "text": "règlement (UE) N° 910/2014"
+        },
+        {
+          "href": "/eli/dir_ue/1999/93/jo",
+          "text": "directive 1999/93/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_25/20190301",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8 ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "L’article 22-4 de la même loi est abrogé.",
+      "text_sha256": "c8ddd2b7087f81c71384ec21667487e91716b074fab59fcc99841265b7a0d1ab",
+      "md_span": {
+        "start": 36418,
+        "end": 36459
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_26/20190301",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8 ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "L’article 23 de la même loi est modifié comme suit :\n\n1. et des frais de publication au Recueil électronique des sociétés et associations\n2. et de frais de publication au Recueil électronique des sociétés et associations",
+      "text_sha256": "c6e3d88d0549232373eeee67408ae55be67cf5bd77dd8ce09a0116262bbe5a54",
+      "md_span": {
+        "start": 36496,
+        "end": 36716
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_27/20190301",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9 ** — **Disposition transitoire**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Les entités immatriculées disposent d’un délai de six mois après l’entrée en vigueur de la présente loi pour se conformer aux dispositions de la loi.\n\nL’accès en consultation peut être demandé à l’expiration de ce délai de six mois.",
+      "text_sha256": "b7d0309cd764c744234d1ff9c4879e1128bbaefecb6af4383d8bcda104a822b8",
+      "md_span": {
+        "start": 36803,
+        "end": 37035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_28/20190301",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10 ** — **Intitulé de citation**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "La référence à la présente loi se fait sous la forme suivante « loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs ».",
+      "text_sha256": "34db9af95f3bf8d5d2073239025092c81e0974189055616fdeb0850c1b8f747f",
+      "md_span": {
+        "start": 37120,
+        "end": 37260
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 13 janvier 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2019-01-13-a15:2025-02-01--ac1dc7dc43ec439c7e84dd670684df6902f1b74441f1fb79f2e4710773086bf0#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/art_29/20190301",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11 ** — **Entrée en vigueur**"
+      ],
+      "article_valid_from": "2019-03-01",
+      "text_md": "Les dispositions de la présente loi entrent en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "f53e5d9386edabd30c08d525cc343cacff33cf2dc099192b3792f754b09749e6",
+      "md_span": {
+        "start": 37342,
+        "end": 37512
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

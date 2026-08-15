@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2980 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2024-11-28",
+  "valid_to": "2024-12-03",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2980/versions/2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0/fr.xml",
+    "sha256": "3d893bb4d8d165c71819097de874d0e2d61b7270eb5b248999a1a9a9980ea750",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2980"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement impose des obligations en ce qui concerne les notifications qui permettent la validation:\n\n| 1) | des registres électroniques utilisés par un État membre pour publier des informations sur les parties utilisatrices de portefeuille enregistrées dans cet État membre conformément à l’article 5 ter, paragraphe 5, du règlement (UE) no 910/2014 (ci-après les «registres des parties utilisatrices de portefeuille»), l’emplacement les registres des parties utilisatrices de portefeuille et l’identification des bureaux d’enregistrement des parties utilisatrices de portefeuille; |\n| --- | --- |\n\n| 2) | de l’identité des parties utilisatrices de portefeuille enregistrées; |\n| --- | --- |\n\n| 3) | de l’authenticité et de la validité des unités de portefeuille; |\n| --- | --- |\n\n| 4) | de l’identification des fournisseurs de portefeuille; |\n| --- | --- |\n\n| 5) | de l’authenticité des données d’identification personnelle; |\n| --- | --- |\n\n| 6) | de l’identification des fournisseurs de données d’identification personnelle.Le présent règlement doit être mis à jour régulièrement pour tenir compte de l’évolution des technologies et des normes ainsi que des travaux réalisés sur la base de la recommandation (UE) 2021/946, et en particulier l’architecture et le cadre de référence. |\n| --- | --- |",
+      "text_sha256": "5320ccdd74a9b0814edbb6cafacff52f149639e4e62a6936228549d73a84fe51",
+      "md_span": {
+        "start": 755,
+        "end": 2083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille; |\n| --- | --- |\n\n| 2) | «fournisseur de données d’identification personnelle»: une personne physique ou morale chargée de délivrer et de révoquer les données d’identification personnelle et de veiller à ce que les données d’identification personnelle d’un utilisateur soient liées de manière cryptographique à une unité de portefeuille; |\n| --- | --- |\n\n| 3) | «partie utilisatrice de portefeuille»: une partie utilisatrice qui a l’intention de se fier à des unités de portefeuille pour la fourniture de services publics ou privés au moyen d’une interaction numérique; |\n| --- | --- |\n\n| 4) | «registre des parties utilisatrices de portefeuille»: un registre électronique utilisé par un État membre pour mettre à la disposition du public les informations relatives aux parties utilisatrices de portefeuille enregistrées dans cet État membre, conformément à l’article 5 ter, paragraphe 5, du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| 5) | «bureau d’enregistrement des parties utilisatrices de portefeuille»: l’organisme désigné par un État membre et chargé de dresser et de tenir à jour la liste des parties utilisatrices de portefeuille enregistrées qui sont établies sur le territoire de cet État; |\n| --- | --- |\n\n| 6) | «unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné; |\n| --- | --- |\n\n| 7) | «solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille; |\n| --- | --- |\n\n| 8) | «instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille et dont l’utilisateur de portefeuille se sert pour interagir avec l’unité de portefeuille; |\n| --- | --- |\n\n| 9) | «application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions; |\n| --- | --- |\n\n| 10) | «dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques; |\n| --- | --- |\n\n| 11) | «actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises; |\n| --- | --- |\n\n| 12) | «utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille; |\n| --- | --- |\n\n| 13) | «fournisseur de certificats d’accès de partie utilisatrice de portefeuille»: une personne physique ou morale mandatée par un État membre pour délivrer des certificats d’accès de partie utilisatrice aux parties utilisatrices de portefeuille enregistrées dans cet État membre; |\n| --- | --- |\n\n| 14) | «certificat d’accès de partie utilisatrice de portefeuille»: un certificat de cachet électronique ou de signature électronique qui authentifie et valide la partie utilisatrice de portefeuille et qui est délivré par un fournisseur de certificats d’accès de partie utilisatrice de portefeuille. |\n| --- | --- |",
+      "text_sha256": "e88112efa5f74c8e3776838054294bd1434f14563c1b3f1d6616ed061243017e",
+      "md_span": {
+        "start": 2116,
+        "end": 6221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Au plus tard douze mois après la publication du présent règlement au Journal officiel de l’Union européenne, la Commission met à la disposition des États membres un système de notification électronique sécurisé leur permettant de notifier les informations concernant les organismes et les mécanismes énumérés à l’article 5 bis, paragraphe 18, du règlement (UE) no 910/2014.\n\n2. Le système de notification électronique sécurisé est conforme aux exigences techniques énoncées à l’annexe I.",
+      "text_sha256": "409cd13221abdf681687c236939924c4dc8955c5ecaac2a5a1376229bf9655cf",
+      "md_span": {
+        "start": 6254,
+        "end": 6755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres transmettent, au moyen du système de notification électronique sécurisé visé à l’article 3, paragraphe 1, au moins les informations énumérées à l’annexe II.\n\n2. Les États membres transmettent les notifications au moins en anglais. Les États membres ne sont pas tenus de faire traduire les documents à l’appui des notifications si cela engendre une charge administrative ou financière déraisonnable.\n\n3. La Commission peut demander aux États membres des informations ou des précisions supplémentaires afin de vérifier l’exhaustivité et la cohérence des informations notifiées.",
+      "text_sha256": "6e7a8fb3888d2173beb866bd784cb67160be69e0c9ea8d205adeeaf2b39b0ba9",
+      "md_span": {
+        "start": 6788,
+        "end": 7395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. La Commission établit, tient à jour et publie une liste reprenant les informations notifiées par les États membres concernant les bureaux d’enregistrement des parties utilisatrices de portefeuille et les registres des parties utilisatrices de portefeuille, telles qu’elles sont énumérées à l’annexe II, section 1.\n\n2. La Commission établit, tient à jour et publie une liste reprenant les informations notifiées par les États membres concernant les fournisseurs de portefeuille, les fournisseurs de données d’identification personnelle et les fournisseurs de certificats d’accès de partie utilisatrice de portefeuille, telles qu’elles sont énumérées à l’annexe II, sections 2, 3 et 4.\n\n3. La Commission veille à ce que les listes visées aux paragraphes 1 et 2 du présent article soient accessibles:\n\n| a) | tant sous une forme portant une signature électronique ou un cachet électronique adaptée au traitement automatisé que sur un site web lisible par l’être humain et disponible au moins en anglais; |\n| --- | --- |\n\n| b) | sans qu’il soit nécessaire de s’inscrire ou de s’authentifier pour obtenir ou consulter les listes; |\n| --- | --- |\n\n| c) | en toute sécurité grâce au protocole de chiffrement de la couche de transport le plus récent. |\n| --- | --- |\n\n4. Outre les listes visées aux paragraphes 1 et 2, la Commission publie:\n\n| a) | les spécifications techniques qu’elle utilise pour structurer les listes; |\n| --- | --- |\n\n| b) | l’adresse URL à laquelle sont publiées les listes; |\n| --- | --- |\n\n| c) | les certificats à utiliser pour vérifier la signature ou le cachet des listes; |\n| --- | --- |\n\n| d) | les informations sur les mécanismes utilisés pour valider les modifications apportées à l’adresse mentionnée au point b) ou aux certificats mentionnés au point c). |\n| --- | --- |",
+      "text_sha256": "9eff92a04d494f5cc81b504ffef44c58d12018817b9e3861743d0f3b9f68569c",
+      "md_span": {
+        "start": 7428,
+        "end": 9238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2980:2024-11-28--60c9d1636572ef2e841d81cb69713094ed93353e6337a044d1e54efb79963fd0#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "c09b73b69148bd7d9e0dbfde231d12a005b999b8a85ebf9860b2b8bebb65247a",
+      "md_span": {
+        "start": 9271,
+        "end": 9412
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

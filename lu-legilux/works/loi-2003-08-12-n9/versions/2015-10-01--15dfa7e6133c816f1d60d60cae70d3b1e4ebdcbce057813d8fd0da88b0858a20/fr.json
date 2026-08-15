@@ -1,0 +1,210 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2015 : Loi du 12 août 2003 portant réorganisation de l’Institut Viti-Vinicole.",
+  "valid_from": "2015-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2003-08-12-n9/versions/2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20/fr.xml",
+    "sha256": "bf74035f87e9bb87f19035204b5db79d086941c9b07a8cc42da9b97280257e7d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_1er/20030830",
+      "type": "article",
+      "num": "Art. 1er.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "Sous l’autorité du ministre ayant dans ses attributions la Viticulture, désigné ci-après «le ministre», il est institué un Institut viti-vinicole, dénommé par la suite «l’Institut» qui a, dans les limites fixées par les lois et règlements, pour mission de s’occuper des questions intéressant la viticulture et l’oenologie et:\n\n1. de promouvoir le progrès technique et économique dans tous les domaines de la viticulture, de l’oenologie et de la vinification, par l’application des méthodes appropriées de l’information, de la vulgarisation, de la démonstration, de la recherche, de la formation professionnelle ainsi que par l’application de méthodes appropriées et respectueuses de l’environnement, du paysage et de l’espace naturel;\n2. de fournir aux viticulteurs des plants et greffons de vignes sélectionnées;\n3. d’orienter, d’organiser et de surveiller la lutte rationnelle contre les ennemis de la vigne du règne animal et végétal;\n4. de surveiller et de contrôler l’exécution des prescriptions légales et réglementaires concernant les vins et boissons similaires;\n5. de conseiller des organismes professionnels de la viticulture dans les domaines technique, économique et commercial;\n6. d’assurer l’exploitation des vignobles de démonstration appartenant à l’Etat;\n7. de participer, sur le plan de l’Union Européenne, à l’élaboration de la politique agricole commune dans le secteur viti-vinicole ainsi qu’à son application et exécution au plan national;\n8. d’établir les statistiques et d’effectuer les enquêtes spéciales sur la situation économique et sociale de la viticulture qui lui sont demandées par le ministre;\n9. d’organiser, de garantir et de contrôler le fonctionnement et la gestion des Marques Nationales des vins, des vins mousseux et des crémants de Luxembourg;\n10. d’effectuer toute autre mission intéressant la viticulture ou l’oenologie qui lui sera confiée par le ministre.",
+      "text_sha256": "05aeba7c6cc6cff97c98ce3598faa26bacd28ddcd65be944292a0cf2d52859e6",
+      "md_span": {
+        "start": 673,
+        "end": 2573
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_2/20030830",
+      "type": "article",
+      "num": "Art. 2.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "Dans sa mission de conseiller les viticulteurs l’Institut peut, par l’intermédiaire de son laboratoire et sur demande des viticulteurs, faire des analyses et des examens pour leur permettre de suivre et de contrôler le processus de vinification.\n\nLes montants des taxes sur les échantillons présentés et les modalités de leur perception sont fixés par un règlement grand-ducal. Sont exemptes du paiement de la taxe les analyses obligatoires des moûts de raisins fraîchement vendangés ainsi que celles des vins, vins mousseux et crémants présentés en vue de l’obtention de la marque nationale.",
+      "text_sha256": "9f4af825a9c3652fff3772c733658b3ea2889a91dfdc83b2079ed8c7d8446853",
+      "md_span": {
+        "start": 2609,
+        "end": 3201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_3/20030830",
+      "type": "article",
+      "num": "Art. 3.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "L’Institut peut organiser, en collaboration et en accord avec le Ministre ayant dans ses attributions l’éducation nationale, des cours de formation professionnelle en viticulture et en oenologie.\n\nLes modalités d’organisation de ces cours sont fixées par règlement grand-ducal.",
+      "text_sha256": "1ec3cbb11877bbea335087effb7297677cbc1db2b205e7657cc7eef6354692a1",
+      "md_span": {
+        "start": 3237,
+        "end": 3514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_4/20030830",
+      "type": "article",
+      "num": "Art. 4.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "Le personnel de l’Institut est placé sous les ordres d’un directeur, qui assume la fonction de chef d’administration.\n\nL’Institut comporte cinq sections qui s’occupent:\n\n- des affaires concernant la viticulture proprement dite et de l’exploitation des vignes de démonstration,\n- de questions d’oenologie et de méthodes de vinification,\n- de la surveillance et du contrôle de l’exécution des prescriptions légales et réglementaires concernant les produits viticoles,\n- de l’élaboration et de l’application de la politique agricole commune dans le secteur viti-vinicole au niveau de l’Union Européenne,\n- des Marques Nationales des vins, des vins mousseux et des crémants de Luxembourg.",
+      "text_sha256": "1066923125ad8648a392c015398e77047f429bef8fd03cc04529b74941f3d864",
+      "md_span": {
+        "start": 3550,
+        "end": 4234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_5/20151001",
+      "type": "article",
+      "num": "Art. 5.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Le cadre du personnel comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\n**(2)** L’Institut peut occuper des chargés de cours, à titre temporaire, dont l’indemnisation sera fixée par règlement grand-ducal, des stagiaires, des employés, ainsi que des ouvriers selon les besoins du service et dans les limites des crédits budgétaires. Lors de l’exécution de travaux d’une envergure exceptionnelle, des auxiliaires peuvent être engagés pour la durée de ces travaux.\n\n**(3)** Les nominations aux fonctions de directeur, d’ingénieur, d’assistant technique viticole et aux fonctions supérieures à celles de rédacteur principal sont faites par le Grand-Duc; celles aux autres emplois par le ministre.",
+      "text_sha256": "d02bfe0325d202f429aa8645dcfbdd9943a023de25980081f1afc845c68eee61",
+      "md_span": {
+        "start": 4270,
+        "end": 5159
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_6/20030830",
+      "type": "article",
+      "num": "Art. 6.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "**(1)** Les candidats aux fonctions de la carrière supérieure doivent être détenteurs d’un certificat de fin d’études secondaires luxembourgeois, d’un certificat de fin d’études secondaires techniques luxembourgeois ou d’un certificat équivalent, dûment homologué par le Ministre ayant dans ses attributions l’éducation nationale. Ils doivent en outre être détenteurs, soit d’un diplôme d’ingénieur agronome, d’ingénieur chimiste ou biologiste, soit d’un diplôme en sciences économiques, ou d’un diplôme équivalent portant sur une spécialité viticole et/ou oenologique. Ces diplômes doivent être délivrés par une université ou une école d’enseignement supérieur après un cycle d’études complet sur place d’au moins quatre années. Ils doivent être inscrits au registre des diplômes prévu à l’article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.\n\n**(2)** Les candidats aux fonctions d’assistant technique viticole doivent être détenteurs d’un certificat de fin d’études secondaires luxembourgeois, d’un certificat de fin d’études secondaires techniques luxembourgeois ou d’un certificat équivalent, dûment homologué par le Ministre ayant dans ses attributions l’éducation nationale. Ces candidats doivent justifier par ailleurs d’un cycle de trois années d’études à une école viti-vinicole technique supérieure ou universitaire ou équivalente reconnue par le Ministre ayant dans ses attributions l’enseignement supérieur.\n\n**(3)** Les candidats aux fonctions de surveillant des travaux et de concierge doivent être détenteurs au moins du certificat de fin d’études primaires, ou justifier d’un nombre d’années identiques dans un autre cycle d’enseignement. Ils doivent se soumettre à un examen d’admission au stage. Après l’accomplissement de leur stage, ils sont soumis à un examen d’admission définitive et à un examen de promotion. Toutefois les surveillants des travaux doivent se soumettre à un deuxième examen en vue de leur promotion à un grade supérieur à celui de chef de brigade. Les conditions et modalités de l’examen d’admission au stage, de l’examen d’admission définitive et des examens de promotion sont fixées par règlement grand-ducal.",
+      "text_sha256": "f4c57d0ef742152ce36619040feb3821d5583cfb78e1c766c3b11dc7551474d7",
+      "md_span": {
+        "start": 5195,
+        "end": 7397
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/17/n1/jo",
+          "text": "loi du 17 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_7/20030830",
+      "type": "article",
+      "num": "Art. 7.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée et complétée comme suit:\n\n1. Le point 5° de la section I de l’article 22 est supprimé.\n2. assistant technique viticole\n3. Le point 15° de la section II de l’article 22 est supprimé.\n4. Le point 14° de la section VI est supprimé.\n5. assistant technique viticole\n6. assistant technique viticole\n7. assistant technique viticole\n8. - Institut viti-vinicole – assistant\n- Institut viti-vinicole – assistant technique viticole\n- Institut viti-vinicole – directeur\n- Institut viti-vinicole – directeur\n9. - assistant de l’Institut viti-vinicole\n- assistant technique viticole\n- directeur de l’Institut viti-vinicole\n- directeur de l’Institut viti-vinicole",
+      "text_sha256": "0224b77e0ef2302dbb643006e0fea5013f95b04c42e9e328b79b07193dcde966",
+      "md_span": {
+        "start": 7433,
+        "end": 8188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_8/20030830",
+      "type": "article",
+      "num": "Art. 8.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "**(1)** Les fonctionnaires appartenant au moment de l’entrée en vigueur de la présente loi à la carrière de l’assistant à l’Institut viti-vinicole sont repris dans la carrière de l’assistant technique viticole. A cet effet, ils sont dispensés de la condition de stage et les périodes prestées dans leur carrière antérieure sont bonifiées comme périodes de service intégrales tant pour le calcul du traitement que pour les avancements en traitement prévus par l’article 22, II, point 8° de la loi modifiée du 22 juin 1963 fixant le traitement des fonctionnaires de l’Etat. Les dispositions de l’article 7, paragraphe 6 et de l’article 22, VI, paragraphe 1er, alinéa 1 de la loi précitée du 22 juin 1963 ne sont pas applicables.\n\n**(2)** Les quatre employés privés, occupés par les Marques Nationales des vins, des vins mousseux et des crémants de Luxembourg sont admis au régime de l’employé de l’Etat dans les carrières suivantes:\n\n- carrière D pour l’employé en service depuis le 2 février 1984,\n- carrière B1 pour les autres employés.\n\nL’engagement des quatre employés susvisés est fait par dépassement de l’effectif total du personnel tel qu’il est défini à l’article 17, paragraphe 2, sous a) de la loi budgétaire du 23 décembre 2002.\n\n**(3)** L’employé de la carrière B1, occupé par l’Institut viti-vinicole depuis le 1er mai 1980, est admis à la carrière de l’expéditionnaire. Il est dispensé de la condition de stage et de l’examen de promotion et les périodes passées au service de l’Institut lui sont bonifiées comme périodes de service intégrales pour le calcul du traitement. Pour la fixation de la carrière, il est admis que la nomination définitive au grade 4 a eu lieu le 1er mai 1982, au grade 6 le 1er mai 1985, au grade 7 le 1er mai 1988, au grade 8 le 1er mai 1991 et au grade 8bis le 1er mai 1994. Les dispositions de l’article 7, paragraphe 6 et de l’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat ne sont pas applicables.\n\n**(4)** L’ouvrier au service du laboratoire de l’Institut, qui remplit les conditions d’admission à la carrière inférieure de l’expéditionnaire technique, peut obtenir, au plus tôt six mois après l’entrée en vigueur de la présente loi et à condition d’avoir à son actif au moins deux années de service à l’Institut, une nomination définitive dans la carrière de l’expéditionnaire technique. A cet effet, il doit avoir subi avec succès un examen spécial dont l’organisation et la matière sont déterminées par règlement grand-ducal.",
+      "text_sha256": "a67f91cff6681ace0ec9620a83c568d942f4d153f963ff42e26eac475cb238ec",
+      "md_span": {
+        "start": 8224,
+        "end": 10789
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi précitée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/20/n1/jo",
+          "text": "loi budgétaire du 23 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2003-08-12-n9:2015-10-01--15dfa7e6133c816f1d60d60cae70d3b1e4ebdcbce057813d8fd0da88b0858a20#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/art_9/20030830",
+      "type": "article",
+      "num": "Art. 9.-",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-08-30",
+      "text_md": "La loi du 29 août 1976 portant création de l’Institut viti-vinicole est abrogée, hormis les articles 2 et 6 qui restent en vigueur pour autant qu’ils servent de fondement légal aux règlements grand-ducaux pris en leur exécution jusqu’à l’entrée en vigueur des règlements grand-ducaux prévus par la présente loi.",
+      "text_sha256": "e4e55f6e31620d5d7f4783481ff6f6d57da308d0d2bc8db52714e513475d1e38",
+      "md_span": {
+        "start": 10825,
+        "end": 11136
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/08/29/n1/jo",
+          "text": "loi du 29 août 1976"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

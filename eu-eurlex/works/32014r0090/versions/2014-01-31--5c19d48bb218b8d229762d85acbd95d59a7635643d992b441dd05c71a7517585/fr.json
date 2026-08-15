@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0090:2014-01-31--5c19d48bb218b8d229762d85acbd95d59a7635643d992b441dd05c71a7517585",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No\u00A090/2014 of 31\u00A0January 2014 approving decanoic a…",
+  "valid_from": "2014-01-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0090/versions/2014-01-31--5c19d48bb218b8d229762d85acbd95d59a7635643d992b441dd05c71a7517585/fr.xml",
+    "sha256": "d6ae7f4e75d23217d2bd813a0d3d6b6bf9292f7e5980e5e6b2501e1583013c0a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0090"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0090:2014-01-31--5c19d48bb218b8d229762d85acbd95d59a7635643d992b441dd05c71a7517585#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’acide décanoïque est approuvé en tant que substance active destinée à être utilisée dans les produits biocides pour les types de produits 4, 18 et 19, sous réserve des spécifications et conditions énoncées à l’annexe.",
+      "text_sha256": "4eb347f3cd3c9c55b586cf36565d50fab720852b2fc28d1c071b7fb019935af1",
+      "md_span": {
+        "start": 702,
+        "end": 938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0090:2014-01-31--5c19d48bb218b8d229762d85acbd95d59a7635643d992b441dd05c71a7517585#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 971,
+        "end": 1112
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2850:2024-11-11--62fba259ec6deace95a31fc014a8497841aba8dfe69078af4e69f3ca4f5cd707",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2850 of 11\u00A0November 2024 on the list of States which are considered to be applying CORSIA for the purposes of Directive\u00A02003/87/EC",
+  "valid_from": "2024-11-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2850/versions/2024-11-11--62fba259ec6deace95a31fc014a8497841aba8dfe69078af4e69f3ca4f5cd707/en.xml",
+    "sha256": "775e5499638a7412ac24c13d3966b85f87ecfe8a1b2cb66050c5d8f969b7cdd7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2850"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2850:2024-11-11--62fba259ec6deace95a31fc014a8497841aba8dfe69078af4e69f3ca4f5cd707#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe list of States which are considered to be applying CORSIA for the purposes of Directive 2003/87/EC for emissions in 2024 is set out in the Annex to this Regulation.",
+      "text_sha256": "aa3bf34962249dabcd805707256d24484050daa67578b463afc403be68db4516",
+      "md_span": {
+        "start": 786,
+        "end": 965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2850:2024-11-11--62fba259ec6deace95a31fc014a8497841aba8dfe69078af4e69f3ca4f5cd707#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 998,
+        "end": 1149
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

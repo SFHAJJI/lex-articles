@@ -1,0 +1,470 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2015 : Loi du 10 août 2005 portant création d'un Lycée technique pour professions éducatives et sociales.",
+  "valid_from": "2015-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2005-08-10-n2/versions/2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d/fr.xml",
+    "sha256": "aebd5115d069f098cd7f7342ea7bc8616c229cfaf8ede446dda1d8edabb888a6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/consolide/20150101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_1er/20050821",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. – Dispositions générales"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Il est créé un Lycée technique pour professions éducatives et sociales, dénommé ci-après «lycée technique».\n\nLe lycée technique fonctionne selon les règles définies par la loi du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue, sauf les exceptions résultant de la présente loi. Il est placé sous l'autorité du ministre ayant l'Éducation nationale dans ses attributions, désigné dans la suite du texte par le terme de «ministre».",
+      "text_sha256": "8811597ca17046cea50057c59063ff4ea6177ad80b7b4aba8f1dee8019ec64d7",
+      "md_span": {
+        "start": 741,
+        "end": 1237
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/09/04/n1/jo",
+          "text": "loi du 4 septembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_2/20050821",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. – Dispositions générales"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Le lycée technique offre des formations dans les domaines éducatif et social, et notamment celle de l'éducateur.\n\nEn cas de besoin, les formations initiales peuvent être complétées par d'autres formations dans le cadre de la loi du 4 septembre 1990 mentionnée ci-dessus.",
+      "text_sha256": "91116832f59191289a7eee8f62d6c8388a03c2f1fe3087af87b7fcefc2a2ce00",
+      "md_span": {
+        "start": 1272,
+        "end": 1542
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/09/04/n1/jo",
+          "text": "loi du 4 septembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_3/20050821",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. – Dispositions générales"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les formations dispensées par le lycée technique le sont en principe en classes à régime de formation à plein temps. Toutefois des formations en cours d'emploi peuvent être organisées dans des conditions à fixer par règlement grand-ducal.",
+      "text_sha256": "236d2cbe85766cc971af280be39e0ed884345d606a00a4ec866441b2ca4d56ac",
+      "md_span": {
+        "start": 1577,
+        "end": 1815
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3bis",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_3bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_3bis/20150101",
+      "type": "article",
+      "num": "Art. 3bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. – Dispositions générales"
+      ],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Le diplôme d’Etat d’éducateur conférant l’autorisation d’exercer la profession d’éducateur ou tout autre diplôme ou certificat conférant l’autorisation d’exercer une autre profession tombant sous le champ d’application de la présente loi est délivré par le ministre, à charge de payer une taxe d’un montant de 75 euros.\n\nLes diplômes étrangers d’éducateur correspondant au diplôme d’État d’éducateur luxembourgeois peuvent être reconnus équivalents à celui-ci par le ministre, à charge de payer une taxe.\n\nPour les certificats de reconnaissance d’équivalence, le montant de la taxe est fixé à 75 euros.\n\nLes mesures de compensation auxquelles le demandeur peut être amené à se soumettre en vertu de l’article 9 de la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est a. du régime général de reconnaissance des titres de formation et des qualifications professionnelles b. de la prestation temporaire de service, sont soumises au paiement d’une taxe dont le montant est fixé à 300 euros.\n\nEn vue de l’obtention par les détenteurs d’un diplôme étranger d’éducateur de l’autorisation d’exercer la profession d’éducateur au Luxembourg, une taxe supplémentaire d’un montant de 75 euros est due.\n\nTout intéressé peut se voir délivrer un duplicata du certificat d’équivalence à charge de payer une taxe d’un montant de 10 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "57d71411078f9b2621db00d2a59eded780f241edccd84b529e4cdbcd6e521dc6",
+      "md_span": {
+        "start": 1856,
+        "end": 3557
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/19/n2/jo",
+          "text": "loi du 19 juin 2009"
+        },
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "directive 2005/36/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_4/20050821",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Des études"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "La formation professionnelle polyvalente de l'éducateur se situe dans le cycle supérieur du régime technique de la division des professions de santé et des professions sociales qui est d'une durée de trois ans à plein temps.\n\nLa formation de l'éducateur peut comprendre des cours de base ou à option obligatoires, des cours facultatifs, des séminaires ainsi que des travaux pratiques et des stages de formation dans les institutions éducatives, sociales et culturelles du pays et à l'étranger.\n\nL'enseignement pratique se fait dans des terrains de stage qui doivent permettre aux élèves l'intégration de leur savoir théorique et technique. Cet enseignement est suivi et par le personnel en activité dans les institutions susmentionnées, et par le personnel enseignant du lycée technique.",
+      "text_sha256": "f01ca02f8845210e3968b4598d99789c88cf94bf1f447da83a49a8242363e86f",
+      "md_span": {
+        "start": 3621,
+        "end": 4408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_5/20050821",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Des études"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Pour être admis à la formation de l'éducateur, les candidats doivent:\n\n- soit être détenteurs du certificat de réussite du cycle moyen du régime technique de l'enseignement secondaire technique ou du certificat de réussite de cinq années d'études secondaires;\n- soit pouvoir se prévaloir d'autres études reconnues équivalentes par le ministre.",
+      "text_sha256": "5050c02b61d0478ac7e1a325d2aac40e07bcdb067e53b3adf7aafcfcc34b0db2",
+      "md_span": {
+        "start": 4443,
+        "end": 4786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_6/20050821",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. – De la reconnaissance des diplômes"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Sous réserve des dispositions de l'article 7, nul ne peut exercer au Grand-Duché de Luxembourg la profession d'éducateur ou une autre profession tombant sous le champ d'application de la présente loi, s'il ne remplit pas d'une part, les conditions d'études y prévues ou les conditions d'études faites dans un institut d'enseignement à l'étranger reconnues équivalentes par le ministre et d'autre part, les conditions d'honorabilité et de moralité nécessaires à l'exercice de la profession.",
+      "text_sha256": "6116ae36aef77b626cd6bd5d85d253e435c557a2be2bedd04cc8ea499624448a",
+      "md_span": {
+        "start": 4873,
+        "end": 5362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_7/20150101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. – De la reconnaissance des diplômes"
+      ],
+      "article_valid_from": "2015-01-01",
+      "text_md": "La reconnaissance des diplômes obtenus à l'étranger est de la compétence du ministre.\n\nLa reconnaissance est accordée:\n\n1. pour les professions pour lesquelles un diplôme luxembourgeois est délivré, aux titulaires d'un diplôme sanctionnant une formation équivalente à l'étranger, sans préjudice des dispositions du paragraphe 3 ci-après;\n2. pour les professions tombant sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, aux titulaires d'un des diplômes répondant aux exigences de la directive en question;\n3. aux titulaires d'un diplôme délivré conformément à une convention internationale ou à un accord de réciprocité conclus par le Luxembourg;\n4. pour les ressortissants d'un pays tiers, si les études qui ont conduit à la délivrance du diplôme, certificat ou titre, répondent aux exigences fixées par la présente loi.\n\nCette reconnaissance est soumise au paiement d’une taxe dont le montant est fixé à 75 euros.\n\nLes mesures de compensation auxquelles le demandeur peut être amené à se soumettre en vertu de l’article 9 de la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est a. du régime général de reconnaissance des titres de formation et des qualifications professionnelles b. de la prestation temporaire de service, sont soumises au paiement d’une taxe dont le montant est fixé à 300 euros.\n\nTout intéressé peut se voir délivrer un duplicata du certificat d’équivalence à charge de payer une taxe d’un montant de 10 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.\n\nLa reconnaissance pourra être soumise en cas de différences substantielles constatées au niveau de la durée ou du contenu de la formation à la condition d'une expérience professionnelle, d'un stage d'adaptation et/ou d'une épreuve d'aptitude.\n\nUn règlement grand-ducal détermine la procédure à suivre pour obtenir la reconnaissance d'un diplôme étranger.",
+      "text_sha256": "b937255704a44f6619878c864ebe76a049f06269d20fb3bf65fd7b128172c2df",
+      "md_span": {
+        "start": 5397,
+        "end": 7625
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/19/n2/jo",
+          "text": "loi du 19 juin 2009"
+        },
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "directive 2005/36/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_8/20050821",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les fonctionnaires de l'État de la carrière du psychologue, du pédagogue et du sociologue occupés en qualité d'enseignant à l'Institut d'Études Éducatives et Sociales, dénommé ci-après «institut», à l'entrée en vigueur de la présente loi, peuvent être nommés aux fonctions respectivement de psychologue, de pédagogue et de sociologue auprès du lycée technique avec le droit de porter le titre respectivement de psychologue-enseignant, pédagogueenseignant et sociologue-enseignant. Cette nomination reste sans effet sur leur traitement et leur carrière actuels.\n\nAu plus tard dans un délai de six mois à partir de la mise en vigueur de la présente loi, les psychologues, pédagogues et sociologues peuvent choisir d'être nommés aux fonctions de professeur de sciences de l'enseignement secondaire technique. Toutefois les nominations ne peuvent être prononcées que si ces fonctionnaires remplissent une des conditions suivantes:\n\n- avoir accompli, au moment de l'entrée en vigueur de la présente loi, au moins cinq années en équivalent temps plein de service auprès de l'État comme psychologue, pédagogue ou sociologue à compter du jour de leur admission au stage à leur fonction respective;\n- avoir subi avec succès dans les trois années qui suivent l'entrée en vigueur de la présente loi un examen dont le programme et les modalités sont fixés par règlement grand-ducal.\n\nEn cas de nomination aux fonctions de professeur de sciences de l'enseignement secondaire technique, leurs traitements sont fixés sur base d'une nomination fictive à la fonction en question se situant deux années après leur admission au stage respectivement de psychologue, pédagogue et sociologue auprès de l'État.\n\nPour les fonctionnaires ayant bénéficié antérieurement d'une réduction de stage, celle-ci sera imputée sur le délai de deux ans défini ci-avant.",
+      "text_sha256": "7326e6b4de407f112121038b44dcce6f902afc6c3408e6df1b8656b667dc84e3",
+      "md_span": {
+        "start": 7704,
+        "end": 9537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_9/20050821",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les stagiaires fonctionnaires de l'État de la carrière du psychologue, du pédagogue et du sociologue chargés d'une tâche d'enseignement à l'institut à l'entrée en vigueur de la présente loi, peuvent être nommés aux fonctions respectivement de psychologue, de pédagogue et de sociologue auprès du lycée technique avec le droit de porter le titre de psychologue-enseignant, pédagogue-enseignant et sociologue-enseignant.\n\nAu plus tard dans un délai de six mois à partir de leur nomination définitive, les psychologues, pédagogues et sociologues peuvent choisir d'être nommés aux fonctions de professeur de sciences de l'enseignement secondaire technique. Toutefois les nominations ne peuvent être prononcées que si ces fonctionnaires ont subi avec succès dans les trois années qui suivent leur nomination définitive un examen dont le programme et les modalités sont fixés par règlement grand-ducal.\n\nEn cas de nomination aux fonctions de professeur de sciences de l'enseignement secondaire technique, leurs traitements sont fixés sur base d'une nomination fictive à la fonction en question se situant deux années après leur admission au stage de psychologue, pédagogue et sociologue auprès de l'État.\n\nPour les fonctionnaires ayant bénéficié antérieurement d'une réduction de stage, celle-ci sera imputée sur le délai de deux ans défini ci-avant.",
+      "text_sha256": "8b87fc601634d21a2c55d345a1b5b15c214aa86bfe0d68e05edd763ec315d3d5",
+      "md_span": {
+        "start": 9572,
+        "end": 10916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_10/20050821",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les fonctionnaires de l'État de la carrière de l'éducateur gradué occupés en qualité d'enseignant à l'institut à l'entrée en vigueur de la présente loi, peuvent être nommés aux fonctions d'éducateur gradué auprès du lycée technique avec le droit de porter le titre d'éducateur gradué-enseignant. Cette nomination reste sans effet sur leur traitement et leur carrière actuels.\n\nAu plus tard dans un délai de six mois à partir de la mise en vigueur de la présente loi, les éducateurs gradués peuvent choisir d'être nommés aux fonctions de maître de cours spéciaux. Toutefois les nominations ne peuvent être prononcées que si ces fonctionnaires remplissent une des conditions suivantes:\n\n- avoir accompli, au moment de l'entrée en vigueur de la présente loi, au moins cinq années en équivalent temps plein de service auprès de l'État comme éducateur gradué à compter du jour de leur admission au stage à leur fonction;\n- avoir subi avec succès dans les trois années qui suivent l'entrée en vigueur de la présente loi un examen dont le programme et les modalités sont fixés par règlement grand-ducal.\n\nEn cas de nomination aux fonctions de maître de cours spéciaux, leurs traitements sont fixés sur base d'une nomination fictive à la fonction en question se situant deux années après leur admission au stage d'éducateur gradué auprès de l'État.\n\nPour les fonctionnaires ayant bénéficié antérieurement d'une réduction de stage, celle-ci sera imputée sur le délai de deux ans défini ci-avant.",
+      "text_sha256": "b65ace1ba6505c57f84ff0f4ee008bceb1c6e6ebce7c5d89809a5e115ce0432a",
+      "md_span": {
+        "start": 10953,
+        "end": 12439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_11/20050821",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Lors de la reconstitution de carrière des agents visés aux articles 8, 9 et 10 ci-dessus, il est tenu compte du temps passé au service de l'État luxembourgeois dans les conditions de l'article 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État, à l'exception des dispositions du paragraphe 6, alinéas 1er et 2, première phrase. En vue de l'application des dispositions de l'article 8 et 22 de la même loi, ainsi qu'en vue de l'application des dispositions de l'article 8, alinéa 2 de la loi modifiée du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement, titre VI: de l'enseignement secondaire, il leur sera tenu compte, comme années de grade, du temps passé respectivement comme psychologue, pédagogue, sociologue ou éducateur gradué au service de l'État à partir de la nomination fictive définie ci-avant.\n\nLes fonctionnaires qui sont nommés aux fonctions respectivement de professeur de sciences de l'enseignement secondaire technique ou de maître de cours spéciaux et qui touchent au moment de leur nomination un traitement inférieur au traitement dont ils jouissaient avant cette nomination, obtiennent un supplément personnel de traitement tenant compte de la différence entre ces deux traitements. Le supplément personnel diminue au fur et à mesure que le nouveau traitement augmente par l'accomplissement d'années de service.",
+      "text_sha256": "d3f7beecb3e0ea47c4724608ae713e9a36b0b1dc3d34930965eb03ca6e06882f",
+      "md_span": {
+        "start": 12476,
+        "end": 13908
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1989/06/22/n2/jo",
+          "text": "loi modifiée du 22 juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1968/05/10/n1/jo",
+          "text": "loi modifiée du 10 mai 1968"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_12/20050821",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les dispositions des articles 8 à 11 s'appliquent pareillement aux fonctionnaires qui bénéficient au moment de l'entrée en vigueur de la présente loi soit d'un congé sans traitement, soit d'un congé pour travail à mi-temps, soit d'un service à temps partiel, soit d'un détachement temporaire auprès d'une autre administration de l'État ou d'un établissement public et pour autant qu'ils remplissent les conditions prévues par ces mêmes articles.\n\nPour les agents concernés par le présent article, le délai de six mois prévu aux articles cités à l'alinéa 1er ne commence à courir qu'à compter de la date de leur réintégration dans leurs fonctions respectives auprès du lycée technique.",
+      "text_sha256": "a6acbe2bc9ed43c0d588cd2a9b1f6f909fd5b7793d6e108acbac51a60432bf38",
+      "md_span": {
+        "start": 13945,
+        "end": 14629
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_13/20050821",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les chargés de cours à durée indéterminée de l'institut engagés sous le régime de l'employé de l'État sur base des dispositions du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail et les indemnités des chargés de cours à durée indéterminée de l'Institut d'études éducatives et sociales sont repris par le lycée technique. Cette reprise reste sans effet sur leur traitement et leur carrière actuels.",
+      "text_sha256": "1bb9e327d0e9bad27cfde744e3e8b102d60e0479cd3e72d4c48ef8d2537038c2",
+      "md_span": {
+        "start": 14666,
+        "end": 15090
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/12/14/n6/jo",
+          "text": "règlement grand-ducal du 14 décembre 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_14/20050821",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Les employés de l'État engagés sur base des dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l'État et l'ouvrier de l'État engagé conformément aux dispositions du contrat collectif des ouvriers de l'État signé le 27 octobre 2000 qui sont occupés à l'entrée en vigueur de la présente loi à l'institut sont repris par le lycée technique.",
+      "text_sha256": "7425c1f64289d24357628a467468b63d2aafae7ffd477efa5d1c6a40af51266f",
+      "md_span": {
+        "start": 15127,
+        "end": 15563
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/07/28/n5/jo",
+          "text": "règlement grand-ducal du 28 juillet 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_15/20050821",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Le directeur de l'institut en fonction au moment de l'entrée en vigueur de la présente loi peut être nommé directeur du lycée technique.",
+      "text_sha256": "0fe1af895e9c7c7d24c62ac4fa207610256c45e977f6c28d8efdca916b3f633f",
+      "md_span": {
+        "start": 15600,
+        "end": 15736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_16/20050821",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Le psychologue attaché à la direction de l'institut en fonction au moment de l'entrée en vigueur de la présente loi peut être nommé directeur adjoint du lycée technique après avoir dans un premier temps bénéficié des dispositions de l'article 8 ci-dessus. Pour le calcul de son traitement, la date de nomination fictive dont il a déjà bénéficié conformément aux dispositions de l'article 41, point 3, de la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales reste d'application.",
+      "text_sha256": "9e1f1ef52dcc99a963fe79b5a6e452dadb4a2c39fcab8187e8657a1cd3b4857e",
+      "md_span": {
+        "start": 15773,
+        "end": 16283
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/08/06/n1/jo",
+          "text": "loi modifiée du 6 août 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_17/20050821",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Dispositions transitoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Le chargé d'éducation engagé à durée déterminée au Lycée technique de Bonnevoie depuis le 1er avril 2003 et détaché à l'Institut d'Études Éducatives et Sociales pour s'y occuper de la bibliothèque peut être engagé en qualité d'employé de l'État à durée indéterminée conformément aux dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l'État.\n\nL'engagement au service de l'État résultant de la disposition qui précède se fera par dépassement de l'effectif total du personnel et en dehors du nombre d'engagements de renforcement déterminés par la loi budgétaire de l'exercice concerné.",
+      "text_sha256": "d3cd747e8da254d02ba15aface95b8ebc157d3926c443f79b55a1e5a39fc4e42",
+      "md_span": {
+        "start": 16320,
+        "end": 17002
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/07/28/n5/jo",
+          "text": "règlement grand-ducal du 28 juillet 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_18/20050821",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. – Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "Sont abrogées toutes les dispositions légales contraires à la présente loi et notamment:\n\n1. loi modifiée du 6 août 1990\n2. loi modifiée du 4 septembre 1990\n\nToutefois, dans la mesure où ils ne sont pas contraires aux dispositions de la présente loi, les règlements grandducaux existants, pris en exécution de la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales, restent en vigueur jusqu'à l'entrée en vigueur des règlements grand-ducaux qui seront pris en exécution de la présente loi.",
+      "text_sha256": "7b1d06d2a0aa2ab2ba05b0d2fd217b3a9659d9e7638dd5d186fd2e9ac058dc5b",
+      "md_span": {
+        "start": 17083,
+        "end": 17603
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/08/06/n1/jo",
+          "text": "loi modifiée du 6 août 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2005-08-10-n2:2015-01-01--3b5143841525b3518305f8042e8803787ea21fe87dd136abca9fbfe438254f1d#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/art_19/20050821",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. – Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2005-08-21",
+      "text_md": "La présente loi entre en vigueur à partir de l'année scolaire 2005/2006.",
+      "text_sha256": "7bdf51d9f5499dc1b90714e94e1620d5a8066e1100da056b02f9f655586374e1",
+      "md_span": {
+        "start": 17640,
+        "end": 17712
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,269 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1157 of 12\u00A0June 2025 laying down implementing technical standards for the application of Regulation (EU) No\u00A0600/2014",
+  "valid_from": "2025-06-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1157/versions/2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4/fr.xml",
+    "sha256": "50eba82091ba61113061a5aad254e20cdc842397ea63fcd1c31cd19dc81b9555",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1157"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’AEMF et les autorités nationales compétentes désignent un point de contact pour le traitement de toutes les informations envoyées par les demandeurs sollicitant un agrément pour exploiter un APA ou un ARM. Les coordonnées du point de contact désigné sont publiées et actualisées régulièrement sur les sites web de l’AEMF et des autorités compétentes nationales.",
+      "text_sha256": "db50516420a63b2189d39e65093730a30f5ae6a0f50523d7d3eee4da46d9eec0",
+      "md_span": {
+        "start": 772,
+        "end": 1152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Un demandeur sollicitant un agrément pour exploiter un APA ou un ARM fournit à l’AEMF ou, selon le cas, à son autorité nationale compétente toutes les informations visées à l’article 27 quinquies du règlement (UE) no 600/2014, en remplissant le formulaire de demande figurant à l’annexe I du présent règlement.\n\n2. Un demandeur sollicitant un agrément pour exploiter un APA ou un ARM fournit à l’AEMF ou, selon le cas, à son autorité nationale compétente des informations sur tous les membres de son organe de direction, en remplissant le formulaire de notification figurant à l’annexe II.\n\n3. Un demandeur sollicitant un agrément pour exploiter un APA ou un ARM indique clairement dans sa demande d’agrément à laquelle des exigences énoncées aux articles 27 bis à 27 decies du règlement (UE) no 600/2014 il fait référence et dans quel document joint à sa demande ces informations sont fournies.\n\n4. Tout demandeur sollicitant un agrément pour exploiter un APA ou un ARM indique dans sa demande d’agrément si l’une des exigences énoncées aux articles 27 bis à 27 decies du règlement (UE) no 600/2014 ou dans le règlement délégué (UE) 2025/1143 de la Commission (7) ne s’applique pas au service de communication de données pour lequel il demande cet agrément.\n\n5. L’AEMF et les autorités nationales compétentes indiquent sur leur site web si les formulaires de demande dûment remplis, les notifications et toute information complémentaire s’y rapportant doivent être transmis par voie électronique.",
+      "text_sha256": "6e803419931ea7c77b152c5c1622b9d29e6711b8e41f477cd339a6d480b41455",
+      "md_span": {
+        "start": 1185,
+        "end": 2696
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202501157FR.000101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nDans les dix jours ouvrables suivant la réception d’une demande d’agrément pour l’exploitation d’un APA ou d’un ARM, l’AEMF ou, selon le cas, l’autorité nationale compétente envoie au demandeur par voie électronique un accusé de réception indiquant notamment les coordonnées du point de contact désigné en application de l’article 1er.",
+      "text_sha256": "b840c023b3e6b0f22c682ea494f4de816333cb0f10bef2f1521d9497bbc9ab94",
+      "md_span": {
+        "start": 2729,
+        "end": 3075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nÀ la demande de l’AEMF ou, selon le cas, de l’autorité nationale compétente, un demandeur sollicitant un agrément pour exploiter un APA ou un ARM fournit à cette autorité, dans un délai de cinq jours ouvrables à compter de la réception de cette demande, les informations complémentaires dont l’AEMF ou l’autorité nationale compétente a besoin pour procéder à l’évaluation de la demande d’agrément.",
+      "text_sha256": "2fde3d9406583b2aa453c347926332fcb111f00ec51cf79b3e2207041e6ebc1a",
+      "md_span": {
+        "start": 3108,
+        "end": 3516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nTout APA ou ARM fournit à l’AEMF ou, selon le cas, à son autorité nationale compétente des informations sur toute modification de la composition de son organe de direction, en remplissant le formulaire de notification figurant à l’annexe III.",
+      "text_sha256": "d8e983df7594e46e807375a7818dc7b072b72892319d7dddb8cc96344b8b5438",
+      "md_span": {
+        "start": 3549,
+        "end": 3802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nL’AEMF ou, selon le cas, l’autorité nationale compétente informe par voie électronique tout demandeur sollicitant un agrément pour exploiter un APA ou un ARM de sa décision de délivrer ou de refuser cet agrément, dans un délai de cinq jours ouvrables à compter de l’adoption de la décision motivée prévue par l’article 27 quinquies, paragraphe 3, du règlement (UE) no 600/2014.",
+      "text_sha256": "b6ac4f66575cf344f6b92337d77879b65d7ac871fd8a438bbe3346d00a8c7cbe",
+      "md_span": {
+        "start": 3835,
+        "end": 4223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nL’AEMF désigne, pour le traitement de toutes les informations envoyées par les demandeurs sollicitant un agrément pour l’exploitation d’un système consolidé de publication, un point de contact dont elle publie et actualise régulièrement les coordonnées sur son site web.",
+      "text_sha256": "5cb86a4640b552339bdb4b5c1e562a06d7b457142205a6a46d277a48215b310f",
+      "md_span": {
+        "start": 4256,
+        "end": 4537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Tout demandeur sollicitant un agrément en tant que CTP fournit à l’AEMF toutes les informations visées à l’article 27 quinquies ter, paragraphe 1, du règlement (UE) no 600/2014 en remplissant le formulaire de demande figurant à l’annexe IV.\n\n2. Tout demandeur sollicitant un agrément en tant que CTP fournit à l’AEMF des informations sur tous les membres de son organe de direction en remplissant le formulaire de notification figurant à l’annexe V.\n\n3. Tout demandeur sollicitant un agrément en tant que CTP indique clairement dans sa demande d’agrément à laquelle des exigences énoncées aux articles 27 bis à 27 decies du règlement (UE) no 600/2014 il fait référence et dans quel document joint à sa demande ces informations sont fournies.\n\n4. Tout demandeur sollicitant un agrément en tant que CTP indique dans sa demande d’agrément si l’une des exigences énoncées aux articles 27 bis à 27 decies du règlement (UE) no 600/2014 ou dans le règlement délégué (UE) 2025/1143 ne s’applique pas au service de CTP pour lequel il demande cet agrément.\n\n5. L’AEMF indique sur son site web si les formulaires de demande dûment remplis, les notifications et toutes les informations complémentaires s’y rapportant doivent être transmis par voie électronique.",
+      "text_sha256": "f634f2a881c533476b1837c19f39d0096743a86aad4c8ef50d0d4135a2f35a13",
+      "md_span": {
+        "start": 4570,
+        "end": 5833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nDans les dix jours ouvrables suivant la réception d’une demande d’agrément en tant que CTP, l’AEMF envoie au demandeur par voie électronique un accusé de réception indiquant notamment les coordonnées du point de contact désigné en application l’article 7.",
+      "text_sha256": "03bdfb2dd7cc347f35546744c28a7367c0a676219444d06f0fe1fc2efeb2de42",
+      "md_span": {
+        "start": 5866,
+        "end": 6132
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nÀ la demande de l’AEMF, tout demandeur sollicitant un agrément en tant que CTP lui fournit, dans un délai de cinq jours ouvrables à compter de la réception de cette demande, les informations complémentaires dont elle a besoin pour procéder à l’évaluation de sa demande d’agrément.",
+      "text_sha256": "cc0ca2638f176ed27c04eb592dbbab1bf9f25bed7d857b9e9c9d102ec6cb6d14",
+      "md_span": {
+        "start": 6167,
+        "end": 6459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLes CTP informent l’AEMF de toute modification apportée à la composition de leur organe de direction, en remplissant le formulaire de notification figurant à l’annexe VI.",
+      "text_sha256": "e634b56fb2e7d881ea8f52a8be41b11774421f023aa5054393c95d5b1e66bde3",
+      "md_span": {
+        "start": 6494,
+        "end": 6676
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nL’AEMF informe par voie électronique les demandeurs ayant sollicité un agrément en tant que CTP de sa décision de délivrer ou de refuser cet agrément, dans un délai de cinq jours ouvrables à compter de l’adoption de la décision motivée prévue par l’article 27 quinquies ter, paragraphe 3, du règlement (UE) no 600/2014.",
+      "text_sha256": "6e99f8f75af8e974fd1c2e19261178226d9451fa49b4d50e757bf9c5075e9614",
+      "md_span": {
+        "start": 6711,
+        "end": 7042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLe règlement d’exécution (UE) 2017/1110 est abrogé.\n\nLes références faites à ce règlement abrogé s’entendent comme des références au présent règlement.",
+      "text_sha256": "3409af8b6e94752df3c993b7c70ae9d39f8e54a8016bbaac036689490aa18a66",
+      "md_span": {
+        "start": 7077,
+        "end": 7240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r1157:2025-06-12--411645d4f74dc8ad6883b5cb7088cccddbf8d3ee51cd5e38ba512fcd126daaf4#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "6aad510aeed331fa37b1e7d7b2f6069fae0e2fe918361f32ab4056682d482d4a",
+      "md_span": {
+        "start": 7275,
+        "end": 7417
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

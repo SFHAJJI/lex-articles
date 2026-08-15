@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0369:2021-03-01--94e193c67aa0d1c5deebd27e37643337d5f06053e154163be32aaedd31c4ad14",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2021/369 of 1\u00A0March 2021 establishing the technical specifications and procedures required for the system of interconnection of central registers referred to in Directive (EU) 2015/849",
+  "valid_from": "2021-03-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0369/versions/2021-03-01--94e193c67aa0d1c5deebd27e37643337d5f06053e154163be32aaedd31c4ad14/fr.xml",
+    "sha256": "9b6c96dfb37c005c7c36312e24946548e356ded427deb394cf5b9e241855314f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R0369"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0369:2021-03-01--94e193c67aa0d1c5deebd27e37643337d5f06053e154163be32aaedd31c4ad14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes spécifications techniques et les procédures nécessaires au système d’interconnexion des registres visé aux articles 30 et 31 de la directive (UE) 2015/849 sont définies en annexe.",
+      "text_sha256": "a58ae014a768c1a845da03d45a064ede4fba057f84e13da9a0eca36a7a6b01bd",
+      "md_span": {
+        "start": 835,
+        "end": 1035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0369:2021-03-01--94e193c67aa0d1c5deebd27e37643337d5f06053e154163be32aaedd31c4ad14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1068,
+        "end": 1209
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

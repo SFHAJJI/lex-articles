@@ -1,0 +1,1604 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834",
+  "language": "fr",
+  "title": "Version consolidée applicable au 06/08/2024 : Loi du 4 avril 1924 portant création de chambres professionnelles à base élective.",
+  "valid_from": "2024-08-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1924-04-04-n1/versions/2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834/fr.xml",
+    "sha256": "c2a968701ff42d97af44750db3a57def13fecfb2b26e3d60a3dd8d66d4cdbdaa",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_1er/19240506",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "II est institué une Chambre d’agriculture, une Chambre des métiers, une Chambre des salariés et une Chambre des fonctionnaires et employés publics.",
+      "text_sha256": "5f8f2931e0d8b5701b17872dc69b93c5c30f6eeaa95435dddb67382770419127",
+      "md_span": {
+        "start": 726,
+        "end": 873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_2/19240506",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Les chambres professionnelles jouissent des avantages de la personnification civile. Elles peuvent acquérir, recevoir, posséder, emprunter, aliéner, ester en justice, en un mot faire tous les actes et transactions que leur objet comporte, à l’exception des entreprises commerciales ou industrielles, et ce dans les limites de leurs attributions telles qu’elles seront définies ci-après.",
+      "text_sha256": "6ac6ad75f2825d981a7048fc02796d955a55a9ce4e7d90904bac210bb2f894b8",
+      "md_span": {
+        "start": 908,
+        "end": 1294
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_3/19240506",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Pour faire face à leurs dépenses, les chambres professionnelles sont autorisées à percevoir:\n\n1. de leurs ressortissants une cotisation dont la base de perception est établie par chaque chambre;\n2. des taxes, droits ou primes en rémunération des services qu'elles rendent.\n\nLes chambres professionnelles peuvent régler elles-mêmes les modalités de la fixation des cotisations.\n\nUn règlement d’administration publique déterminera le mode et la procédure d’établissement des rôles des cotisations, taxes, droits et primes.\n\nLa perception des cotisations, taxes, droits ou primes mis à charge des ressortissants d’une chambre professionnelle sera opérée par la chambre elle-même d’après une procédure à fixer par règlement d’administration publique.\n\nCe règlement d’administration publique pourra également prévoir que la perception des cotisations, taxes, droits ou primes mis à charge des ressortissants des chambres professionnelles des salariés pourra être faite par voie de retenue sur les traitements ou salaires à opérer par l’employeur. Cette retenue est à assimiler quant aux droits et obligations des parties en cause à la retenue d’impôt sur les traitements et salaires.\n\nEn cas de non-payement le recouvrement des arriérés pourra être effectué par les chambres professionnelles elles-mêmes ou par l’administration des contributions et accises dans les mêmes formes et avec les mêmes privilège et hypothèque que ceux des impôts directs, mais avec le droit de priorité pour ces derniers et les cotisations dues aux assurances sociales.\n\nLa prescription sera acquise trois ans après la remise de l’extrait du rôle.",
+      "text_sha256": "ed6a91c3740ba5002c30f667cde65b3db5ec79dae94e757f0ff1d61240223786",
+      "md_span": {
+        "start": 1329,
+        "end": 2949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_4/19240506",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Chaque chambre est composée de membres effectifs et de membres suppléants. Ils seront désignés par la voie de l’élection.\n\nIl est attaché à chaque chambre un secrétaire nommé et rémunéré par elle. La nomination en est toutefois soumise à l’approbation du Gouvernement.",
+      "text_sha256": "f04d0145b9d6f49f998d5d0aff7834194515c7233ca70bf64d2cfcc012045ecf",
+      "md_span": {
+        "start": 2984,
+        "end": 3252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_5/20230820",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "2023-08-20",
+      "text_md": "Sont électeurs tous les ressortissants d’une chambre professionnelle âgés de 16 ans accomplis, sans préjudice d’autres conditions d’électorat prévues par les dispositions particulières régissant les différentes chambres.",
+      "text_sha256": "860f2dd3a43c60908739f0865e2ee5d93ac37cd57c2848caef672282e88c7122",
+      "md_span": {
+        "start": 3287,
+        "end": 3507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_6/20240402",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "2024-04-02",
+      "text_md": "**(1)** Sont éligibles les électeurs âgés de 18 ans accomplis, sans préjudice d’autres conditions d’éligibilité prévues par les dispositions particulières régissant les différentes chambres.\n\n**(2)** Sont exclus de l’éligibilité:\n\n1. les condamnés à des peines criminelles;\n2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;\n3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;\n4. les majeurs en tutelle.\n\nLes preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.\n\nNe peuvent être admis comme preuve de justification de la condition d’honorabilité précitée que les attestations, certificats et documents datant de moins de trois mois à partir de leur établissement.\n\nLorsque le candidat réside à l’étranger, seuls les documents équivalents émanant de l’autorité compétente de l’Etat de résidence sont à produire.",
+      "text_sha256": "0df23790e2211911f73a75a04cc1f59d3daa7231a544999953312e4a41dff9f1",
+      "md_span": {
+        "start": 3542,
+        "end": 4575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_7/20240806",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les membres des chambres professionnelles seront élus pour un terme de cinq ans; ils seront rééligibles.\n\nLes élections seront secrètes et auront lieu au cours du mois de mars, aux jour et heure à déterminer par le Gouvernement.\n\nPar dérogation aux dispositions de l’alinéa qui précède, les élections pour le renouvellement de la Chambre des salariés auront lieu au cours des mois de février ou de mars, aux jour et heure à déterminer par le ministre ayant le Travail dans ses attributions.\n\nPar dérogation aux dispositions de l’alinéa 2, les élections pour le renouvellement de la Chambre d’agriculture auront lieu au cours des mois de février ou de mars, aux jour et heure à déterminer par le ministre ayant l’Agriculture dans ses attributions. En outre, les mandats en cours des membres du collège des agriculteurs, du collège des viticulteurs et du collège des horticulteurs de la Chambre d’agriculture sont prolongés au-delà d’une durée de cinq ans jusqu’à l’entrée en fonction des membres des trois collèges élus suite à chaque élection ayant pour objet de déterminer une nouvelle composition de la Chambre d’agriculture.\n\nLe même règlement modifie en conséquence les dates prévues aux articles 10 et 11 de la loi sus-visée.\n\nPar dérogation à l’alinéa 2, les élections pour le renouvellement de la Chambre des fonctionnaires et employés publics auront lieu au cours des mois de février, mars ou avril, aux jour et heure à déterminer par le ministre ayant la Fonction publique dans ses attributions.",
+      "text_sha256": "b0867c3654a4431478c74048b218f0531aa1c10c89b77551d4465046daab4337",
+      "md_span": {
+        "start": 4610,
+        "end": 6114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_8/19240506",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Le mandat de délégué d’une chambre professionnelle est incompatible avec celui de parlementaire et avec les fonctions de conseiller d’Etat, sans préjudice d’autres incompatibilités le cas échéant prévues par des dispositions légales et réglementaires particulières.",
+      "text_sha256": "77118beea790efbd14a18d571cb540f9417a1fb8745535b60bcddfec9752f825",
+      "md_span": {
+        "start": 6149,
+        "end": 6414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9_20240806",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_9_20240806",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_9/20211030",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "(...)",
+      "text_sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+      "md_span": {
+        "start": 6458,
+        "end": 6463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_10/19240506",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "**(1)** La qualité d’électeur est constatée par l’inscription sur les listes électorales.\n\n**(2)** Sauf disposition contraire et particulière pour l’une ou l’autre des chambres professionnelles, la liste des électeurs est établie par le collège des bourgmestre et échevins, séparément pour chaque chambre; elle est permanente, sauf les radiations et inscriptions qui peuvent avoir lieu tous les quatre ans lors de leur révision. La liste renseigne pour chaque électeur les nom, prénoms, profession, date et lieu de naissance, ainsi que le domicile électoral. Tous les cinq ans, dans la première quinzaine du mois de décembre, le collège des bourgmestre et échevins fait publier, dans la forme ordinaire des publications officielles, un avis portant invitation à tout citoyen de produire avant le 14 décembre, contre récépissé, les titres de ceux qui ont droit à l’électorat. Du 15 décembre au 10 janvier, le même collège procède à la révision de la liste des citoyens appelés à participer à l’élection des membres des chambres professionnelles.\n\nIl y maintient ou y inscrit d’office ou à la demande des intéressés ceux, qui, ayant au 15 décembre leur domicile dans la commune, réunissent les conditions de l’électorat pour chaque chambre. Le domicile électoral est au lieu de la résidence habituelle, c’est-à-dire où l’électeur habite d’ordinaire avec sa famille.\n\n**(3)** Pour les élections à la Chambre des salariés, la liste des électeurs est établie par le ministre ayant le Travail dans ses attributions, à la date par lui fixée, sur base des données lui fournies à cette fin par le Centre commun de la sécurité sociale, séparément pour chaque groupe.\n\nLa liste renseigne pour chaque électeur les nom, prénoms, nationalité, date et lieu de naissance et lieu de résidence habituelle, c’est-à-dire le lieu où l’électeur habite d’ordinaire avec sa famille.\n\n**(4)** Pour les élections à la Chambre d’agriculture, la liste des électeurs est établie par le Ministre ayant l’agriculture dans ses attributions, à la date par lui fixée, sur base des données lui fournies à cette fin par le Centre commun de la sécurité sociale, séparément pour chaque groupe.",
+      "text_sha256": "ee56d931e996cffb78850cbe605845ed888714906050f5a28d2f9e5acc2bc89e",
+      "md_span": {
+        "start": 6500,
+        "end": 8655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_11/19240506",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "**(1)** Les listes sont arrêtées définitivement le 10 janvier. Elles sont déposées à l’inspection du public dans un local communal à désigner par le conseil communal.\n\nCe dépôt est porté, le 11 janvier, à la connaissance des citoyens par un avis publié dans la forme ordinaire, qui les invite à présenter, le 21 janvier au plus tard, tous recours auxquels les listes pourraient donner lieu.\n\nTout individu indûment inscrit, omis ou rayé peut présenter un recours, par écrit ou verbalement, au secrétariat de la commune; ces recours sont reçus, contre récépissé, par le secrétaire communal ou par la personne déléguée par le collège des bourgmestre et échevins.\n\nLe recours est en outre exercé pour chacune des chambres professionnelles par la personne à désigner à ces fins par le Gouvernement.\n\n**(2)** Par dérogation au paragraphe (1), pour les élections à la Chambre des salariés et à la Chambre d’agriculture, les listes sont arrêtées définitivement le vingtième jour suivant celui de la publication de la date des élections.\n\nElles sont ouvertes à l’inspection du public dans un local à désigner par le président du bureau électoral compétent.\n\nLe vingt-et-unième jour suivant celui de la publication de la date des élections, I’ouverture des listes à l’inspection est portée à la connaissance du public par un avis publié dans la forme à déterminer par règlement grand-ducal, qui contient obligatoirement l’information que tous les recours auxquels pourraient donner lieu les listes sont à présenter au plus tard le trentième jour suivant celui de la publication de la date des élections.\n\nToute personne incorrectement ou indûment inscrite ou omise peut présenter un recours, par écrit ou verbalement, auprès d’une personne à désigner à cette fin par le Gouvernement.\n\nLe recours est en outre exercé pour chacune des chambres par la personne à désigner à cette fin par le Gouvernement.",
+      "text_sha256": "ec72ce381780bf11cbd7e4ac8ec1a14c9270690711977a6018c33d1d699652cb",
+      "md_span": {
+        "start": 8692,
+        "end": 10584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_12/19240506",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Dans les trois jours à partir de l’expiration du délai de recours, respectivement le collège des bourgmestre et échevins et la personne désignée conformément à l’article 11 (2), alinéa 4, en ce qui concerne les élections à la Chambre des salariés et à la Chambre d’agriculture, transmettent ces recours et toutes les pièces qui s’y rapportent au juge de paix qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties et, s’il le juge utile, un délégué du collège échevinal, respectivement la personne désignée conformément à l’article 11 (2), alinéa 4. Dans tous les cas les débats seront publics et le jugement est réputé contradictoire.",
+      "text_sha256": "72840c75208251eef19eb613e935f30d18246ed842ee0e82c3890bf74b417c86",
+      "md_span": {
+        "start": 10621,
+        "end": 11293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_13/19240506",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Toutes réclamations, tous exploits, actes de procédure et expéditions en matière électorale peuvent être faits sur papier libre.\n\nToutes les pièces sont dispensées de l’enregistrement.",
+      "text_sha256": "7aa9b58cd9c2194110bc206b4025ec6eab4dcdd0ff77e84c45f23a95bd5efba7",
+      "md_span": {
+        "start": 11330,
+        "end": 11514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_14/19240506",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Les sièges sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables.\n\nSont élus délégués suppléants, les candidats rangeant, par le nombre des voix obtenues, après les délégués effectifs.\n\nToutefois un règlement d’administration publique peut décréter que l’élection des délégués des chambres professionnelles aura lieu au scrutin de liste et suivant les règles de la représentation proportionnelle établies par la loi électorale du 16 août 1919.",
+      "text_sha256": "5b12db27ecde5a4a1db6f1151419edbc16dc718df52e3134941dd0f9ae316da1",
+      "md_span": {
+        "start": 11551,
+        "end": 12025
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1919/08/16/n1/jo",
+          "text": "loi électorale du 16 août 1919"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_15/19240506",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Tout électeur peut introduire auprès de la Cour administrative un recours contre l’élection. Le recours doit être introduit sous peine de forclusion dans les cinq jours de la date de la publication des résultats au Journal officiel du Grand-Duché de Luxembourg.\n\nLa Cour statue au fond, dans les vingt jours suivant la date à laquelle elle a été saisie. Le greffe de la Cour donne avis de ce recours, par lettre recommandée, au ministre compétent qui informe les candidats et le public par les voies ordinaires.\n\nLorsqu’une élection est définitivement déclarée nulle, le ministre compétent fixe jour dans la huitaine à l’effet de procéder à de nouveaux scrutins dans les soixante jours.",
+      "text_sha256": "a0e71d6bc95a35376602f6201175676bc6f315745d4b28a7f10849b6c6020f35",
+      "md_span": {
+        "start": 12062,
+        "end": 12748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_16/19240506",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "**(1)** Sans préjudice des dispositions des paragraphes (2) et (3) suivants l’organisation des élections et la procédure électorale sont fixées par règlement grand-ducal.\n\nLe cas échéant, ce règlement désigne également les propriétaires ou gestionnaires de banques de données qui détiennent des données nominatives nécessaires à l’établissement et à la mise à jour des listes des électeurs des chambres professionnelles et qui doivent mettre à la disposition des autorités compétentes les données nécessaires à cette fin.\n\n**(2)** Toute liste de candidats doit comprendre un nombre de candidats au moins égal au nombre des délégués effectifs et suppléants à élire.\n\n**(3)** Le ministre compétent peut instituer un ou plusieurs bureaux de vote réunissant tous les électeurs d’un groupe professionnel, pourvu que leur nombre ne dépasse pas 200 pour le Grand-Duché.",
+      "text_sha256": "ec3cef72f06a9262bc801e6595df29f2eb2c8bf2804ce14e39e8dbc7019cf20a",
+      "md_span": {
+        "start": 12785,
+        "end": 13647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_17/19240506",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Il est interdit d’opérer ou de demander l’inscription d’une personne sur plus d’une liste électorale auprès de la même chambre professionnelle.\n\nL’auteur de l’infraction commise sciemment sera puni d’une amende de 251 à 2.500 euros.",
+      "text_sha256": "d73326758ae04c986d0f85aa6eb44b5635ce12ea91c177cc816114f60c6ef55f",
+      "md_span": {
+        "start": 13684,
+        "end": 13916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17bis",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_17bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_17bis/20211030",
+      "type": "article",
+      "num": "Art. 17bis.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Ne peuvent se présenter en tant que candidats aux élections :\n\n1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;\n2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.",
+      "text_sha256": "d0f7019293e879c8df9c13f3a856f960c95fa15c3727df9eccd32fbf4ec77df4",
+      "md_span": {
+        "start": 13959,
+        "end": 14269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_18/19240506",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Seront punis d'une amende de 251 à 5.000 euros:\n\n1. quiconque, pour se faire inscrire sur une liste d’électeurs, aura produit des actes ou pièces qu’il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur ces listes ou de l’en faire rayer;\n2. celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques; ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul;\n3. quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre;\n4. si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;\n5. ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer; quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres; ; les membres d’un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;\n6. tout président, scrutateur ou secrétaire d’un bureau ou tout témoin de candidat qui aura révélé le secret d’un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait; tout membre ou secrétaire d’un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu’il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;\n7. les citoyens qui, invités à remplir au jour de l’élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n’auront pas fait connaître, dans les quarante-huit heures leurs motifs d’empêchement à celui dont l’invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu’à la clôture définitive des procès-verbaux.",
+      "text_sha256": "ac3769c6434f46f3e55b0808f1a19322c74395c5a963443485738f33d8c19cbd",
+      "md_span": {
+        "start": 14306,
+        "end": 17868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_19/19240506",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "L’action publique et l’action civile résultant des infractions prévues par la présente loi seront prescrites après six mois révolus à partir du jour où les délits ont été commis.",
+      "text_sha256": "0f2b7fef1fdfe1281fb153242b1bd7179847073d7d9b6e94a07a645386714ed7",
+      "md_span": {
+        "start": 17905,
+        "end": 18083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_20/19240506",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Les dispositions afférentes du premier livre du Code pénal, ainsi que les articles 130-1 à 132-1 du code d’instruction criminelle sont applicables à ces mêmes infractions.",
+      "text_sha256": "b37991663cfafd8139b281a6319c2528045889867fe4cb78bfec54d5d31904ba",
+      "md_span": {
+        "start": 18120,
+        "end": 18291
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_21/19240506",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Si des causes d’inéligibilité ou des faits constituant des manquements graves aux devoirs du mandataire viennent à être connus, la chambre afférente relèvera le délégué dont s’agit de ses fonctions après l’avoir entendu dans ses explications.\n\nEn cas de refus du mandat de délégué ou lorsque, pour un motif quelconque, un membre de la chambre quitte ses fonctions, son emploi ou sa profession avant l’expiration de son mandat, il n’est pas procédé à une élection complémentaire, mais les suppléants sont appelés aux fonctions de délégué effectif dans l’ordre correspondant au résultat des élections. Les membres suppléants sont remplacés, dans le même ordre, par ceux qui, lors des élections, ont recueilli des suffrages sans cependant avoir été élus.\n\nLe remplaçant achève le mandat de celui qu’il remplace.",
+      "text_sha256": "8b20494d861406b0343d0d5723dcd44ca2e177e8c8bd697af0bfc2dbe65b42e4",
+      "md_span": {
+        "start": 18328,
+        "end": 19136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_22/19240506",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Il est interdit aux patrons et à leurs agents de restreindre les employés et les ouvriers dans la liberté d’accepter et de remplir leur mission ou de les léser pour des motifs pris dans ces faits.\n\nPour le cas où le temps consacré à l’accomplissement de leurs devoirs paraîtrait excessif, il pourra, à la demande du patron, être décidé par justice qu’il y a lieu à réduction de la rémunération servie aux intéressés ou même, suivant la gravité des cas, à résiliation du contrat.",
+      "text_sha256": "89d8fc4aea776179f98f583b6496d9aeb1fb34945b2a09b0af01ec4d7d02a676",
+      "md_span": {
+        "start": 19173,
+        "end": 19651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_23/19240506",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Chaque chambre désignera dans sa première réunion, parmi ses membres, le président, le vice-président et deux assesseurs. Il lui sera loisible de constituer dans son sein un comité composé du président et de deux membres, chargés, suivant l’étendue de leur mandat, d’expédier les affaires.\n\nLe mode de délibération est fixé par un règlement d’ordre interne soumis à l’approbation du Gouvernement.\n\nPar dérogation aux alinéas 1 et 2 ci-dessus, la Chambre des salariés désigne dans sa première réunion un comité dont la composition est fixée par son règlement d’ordre interne, approuvé par le Gouvernement.\n\nLe comité désigne parmi ses membres le président de la Chambre des salariés, le ou les vice-présidents conformément à son règlement d’ordre interne.",
+      "text_sha256": "482af27053939579aa0b01ee0639c6c53467ae235ec938908886591df65536f3",
+      "md_span": {
+        "start": 19688,
+        "end": 20442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_24/19240506",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Chaque chambre se réunit toutes les fois que son bureau le juge nécessaire ou qu’un tiers de ses membres le demande. La convocation est faite par le président moyennant un avis écrit qui indique l’ordre du jour.\n\nLa Chambre des salariés peut s’adjoindre des experts issus des syndicats représentatifs sur le plan national. Ces experts n’ont pas de droit de vote.",
+      "text_sha256": "80532f441bdb56eeb893119dcad0dc35603f4c267cacf1f3795c34ab1e7234d7",
+      "md_span": {
+        "start": 20479,
+        "end": 20841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_25/19240506",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "L’indemnité du secrétaire prévue à l’art. 4, ainsi que les frais de route et de séjour des membres de la chambre seront fixés par cette dernière et liquidés sur son budget.",
+      "text_sha256": "1b6bd0007c077b0460dcc90018fcc9f3cae759d3d21123b0c3d6c06606df7b2e",
+      "md_span": {
+        "start": 20878,
+        "end": 21050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_26/19240506",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Les résolutions des chambres professionnelles sont adoptées à la majorité absolue des voix. Toutefois, si une résolution n’a pas recueilli la majorité absolue des voix lors d’un premier vote, elle peut être adoptée à la majorité des membres présents lors d’un second vote pouvant intervenir au plus tôt huit jours après le premier vote.",
+      "text_sha256": "9946ef146ae261838dd61d5817ad4023fab6277b6f138f973d6bfc0a15b71a4e",
+      "md_span": {
+        "start": 21087,
+        "end": 21423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_27/19240506",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Le secrétaire dresse pour chaque séance un procès-verbal qui sera porté à la connaissance du Gouvernement.",
+      "text_sha256": "2915dd28e8ead9a7812ae5c785edbc7c5db146fe238233d190e46267760a8ce6",
+      "md_span": {
+        "start": 21460,
+        "end": 21566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_28/19240506",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Dispositions générales."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Le Gouvernement est autorisé à dissoudre la chambre pour des motifs graves. S’il est fait usage de ce droit, des élections nouvelles auront lieu dans les trois mois de l’arrêté de dissolution.\n\nDepuis le jour de la dissolution de la chambre jusqu’à celui de la nouvelle constitution de son bureau après la réélection, les affaires courantes de la chambre seront gérées par son secrétaire sous l’approbation du Gouvernement.\n\nIl est loisible au Gouvernement de commissionner un délégué à assister aux réunions de la chambre. Ce délégué pourra y prendre la parole chaque fois qu’il le désire et faire des propositions.",
+      "text_sha256": "041ad227f3b0615a8fd45a58e71ef1e9bceb8053c6acb10a52c9a66ed9b1c4d4",
+      "md_span": {
+        "start": 21603,
+        "end": 22219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_29/19240506",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Chambre d'agriculture"
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "La tâche de la chambre d’agriculture consiste à créer et à subventionner le cas échéant tous établissements, institutions, oeuvres ou services d’utilité essentiellement agricole, à en féconder l’activité, à fournir des avis, à formuler des réclamations, à solliciter des informations et la production de données statistiques.\n\nLa chambre a le droit de faire des propositions au Gouvernement que ce dernier doit examiner et soumettre à la Chambre des députés, lorsque leur objet rentre dans la compétence de celle-ci.\n\nPour toutes les lois et tous les arrêtés ministériels et grand-ducaux concernant principalement l’agriculture et la viticulture, I’avis de la chambre doit être demandé, à l’exception des arrêtés ministériels ou grand-ducaux édictant d’urgence des mesures de police sanitaire du bétail.\n\nSont notamment de la compétence de la chambre d’agriculture:\n\n1. la sauvegarde des intérêts des agriculteurs et des viticulteurs. Elle veille notamment à l’observation de la législation intéressant principalement l’agriculture et la viticulture;\n2. son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant principalement l’agriculture ou la viticulture;\n3. elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt de l’agriculture ou de la viticulture et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;\n4. elle fait des propositions concernant la surveillance de l’enseignement agricole et viticole.\n\nL’énumération qui précède n’a pas de caractère limitatif.",
+      "text_sha256": "92eff82b917a3eb54d8a516a67c4b687a8684362d0c92fb6c786fb9f330da816",
+      "md_span": {
+        "start": 22298,
+        "end": 23930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_30/19240506",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Chambre d'agriculture"
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "**(1)** La chambre d’agriculture est composée de dix-neuf membres effectifs et de dix-neuf membres suppléants, dont quinze agriculteurs, trois viticulteurs et un horticulteur.\n\n**(2)** Un règlement grand-ducal, à publier trois mois avant chaque élection, peut modifier la composition numérique, I’énumération des branches d’activité agricole et la répartition des sièges prévues au paragraphe 1er.\n\n**(3)** Les membres visés au paragraphe 1er sont élus au scrutin de liste avec répartition des sièges aux différentes listes, proportionnellement au nombre des suffrages qu’elles ont recueillis. En vue de l’élection des membres de la Chambre d’agriculture, le pays forme une seule circonscription électorale.\n\n**(4)** L’élection assure des sièges de délégué à quinze agriculteurs, à trois viticulteurs et à un horticulteur.\n\n**(5)** Il y a trois collèges d’électeurs. Un premier collège comprend les agriculteurs, un deuxième les viticulteurs et un troisième les horticulteurs.\n\nAucun électeur ne peut faire partie de plus d’un collège électoral. Les électeurs remplissant en principe les conditions pour exercer le droit de vote dans plusieurs collèges, ne peuvent l’exercer que dans le seul collège électoral de leur choix.",
+      "text_sha256": "55dc9191693935ee38f9429c260754247af4d61da19d6f503b662e2192fdbe7e",
+      "md_span": {
+        "start": 23967,
+        "end": 25191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_31/20240402",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Chambre d'agriculture"
+      ],
+      "article_valid_from": "2024-04-02",
+      "text_md": "**(1)** Sont électeurs à la Chambre d’agriculture, sans préjudice des conditions fixées à l’article 6 de la loi modifiée du 4 avril 1924 susvisée:\n\n1. les agriculteurs, viticulteurs, éleveurs, arboriculteurs, horticulteurs, pépiniéristes, jardiniers, maraîchers et pisciculteurs, domiciliés au Grand-Duché, à condition d’exercer leur profession à titre principal;\n2. les conjoints, les parents et alliés en ligne directe ou en ligne collatérale, jusqu’au 3ème degré inclusivement des personnes visées sub a) ci-dessus, pourvu qu’ils soient considérés comme aidants au sens de la législation sur la sécurité sociale agricole. Il en est de même de la personne même non parente ni alliée qui, en l’absence d’héritiers du sang ou adoptifs, a été déclarée par le chef d’exploitation comme devant lui succéder à la tête de l’exploitation;\n3. les bénéficiaires de pension au titre d’une activité au sens du point a) et n’appartenant pas à une autre profession.\n\nSont exclus de l’électorat et de l’éligibilité:\n\n1. Ies condamnés à des peines criminelles;\n2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;\n3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;\n4. les majeurs en tutelle.\n\nLes preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.\n\nLorsque le candidat réside au Grand-Duché depuis moins de cinq ans, il doit en outre produire les documents équivalents émanant de l’autorité compétente de l’Etat de résidence antérieur.\n\nLorsque le candidat réside à l’étranger, seuls les documents équivalents émanant de l’autorité compétente de l’Etat de résidence sont à produire.\n\n**(2)** La fonction de membre de la Chambre d’agriculture prend fin au moment où l’intéressé atteint l’âge de 72 ans.",
+      "text_sha256": "923700ccfa5cea4a962d849f20a791eacae29cb2bb5510723349948010f1c05b",
+      "md_span": {
+        "start": 25228,
+        "end": 27139
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/jo",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31bis",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_31bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_31bis/20211030",
+      "type": "article",
+      "num": "Art. 31bis.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Chambre d'agriculture"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Le revenu professionnel de l’exploitation agricole, déterminé conformément à l’article 241, alinéas 11 et 12 du code des assurances sociales, sert de base de perception des cotisations en faveur de la chambre d’agriculture. La cotisation est à charge du chef d’exploitation.",
+      "text_sha256": "5ccfcfbec8a24ab0dc8299f185a12a6c3344773cc3a6297cf09701a4c6f4f3a2",
+      "md_span": {
+        "start": 27182,
+        "end": 27456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31ter",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_31ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_31ter/20211030",
+      "type": "article",
+      "num": "Art. 31ter.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Chambre d'agriculture"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Les frais en rapport avec l’élection à la Chambre d’agriculture sont à charge de l’Etat.",
+      "text_sha256": "2c307cc9e1a091060582ea08f062970645737ae78f842b9232f53d9f3330a765",
+      "md_span": {
+        "start": 27499,
+        "end": 27587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32_à_34_20240806",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_32_à_34_20240806",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_32/20211030",
+      "type": "article",
+      "num": "Art. 32 à 34.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Chambre des artisans"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "(...)",
+      "text_sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+      "md_span": {
+        "start": 27685,
+        "end": 27690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35_à_37bis_20240806",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_35_à_37bis_20240806",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_35/20211030",
+      "type": "article",
+      "num": "Art. 35 à 37bis.",
+      "heading": null,
+      "path": [
+        "Chapitre IV.- — Chambre de commerce."
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "(...)",
+      "text_sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+      "md_span": {
+        "start": 27793,
+        "end": 27798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_38/19240506",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre V.- — Chambre des employés privés."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "La tâche de la Chambre des salariés consiste à créer et à subventionner le cas échéant, tous établissements, institutions, oeuvres ou services voués essentiellement à l’amélioration du sort des personnes visées à l’article 41 (1), à en féconder l’activité, à fournir des avis, à formuler des réclamations, à solliciter des informations et la production de données statistiques.\n\nLa chambre a le droit de faire des propositions au Gouvernement que ce dernier doit examiner et soumettre à la Chambre des députés, lorsque leur objet rentre dans la compétence de celle-ci.\n\nPour toutes les lois et tous les arrêtés ministériels et grand-ducaux, concernant principalement les personnes visées à l’article 41 (1), l’avis de la chambre des salariés doit être demandé.\n\nSont notamment de la compétence de la Chambre des salariés:\n\n1. la sauvegarde et la défense des intérêts des personnes visées à l’article 41 (1). Elle veille notamment à l’observation de la législation et des règlements applicables à ces personnes;\n2. la surveillance et le contrôle de l’exécution des contrats de travail individuels et collectifs;\n3. son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant les personnes visées à l’article 41 (1);\n4. elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt des personnes visées à l’article 41 (1) et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;\n5. elle fait des propositions concernant la surveillance de l’enseignement professionnel des personnes visées à l’article 41 (1).\n\nL’énumération qui précède n’a pas de caractère limitatif.",
+      "text_sha256": "f2360a981b23290ce2e88473d270d5a233a965b6a75b77025e9e787350252f93",
+      "md_span": {
+        "start": 27883,
+        "end": 29603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_39/19240506",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre V.- — Chambre des employés privés."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "La Chambre des salariés se compose de membres effectifs et de membres suppléants.\n\nIls sont désignés par la voie de l’élection dont la procédure est fixée par voie de règlement grand-ducal.\n\nLa composition numérique, la répartition sectorielle ou par branche d’occupation et la répartition des sièges sont fixées par règlement grand-ducal.\n\nChaque groupe distinct d’électeurs ayant droit à un nombre déterminé de délégués, forme un collège électoral spécial pour la désignation des délégués.\n\nLa proportion des membres suppléants appartenant aux diverses branches d’occupation est la même que celle fixée pour les membres effectifs.",
+      "text_sha256": "610348a574d5df6c1b4b67443d21e4aa6435119cc69027414af518351fd429c5",
+      "md_span": {
+        "start": 29640,
+        "end": 30272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_40/19240506",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre V.- — Chambre des employés privés."
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "A la suite de la première assemblée constituante, la Chambre des salariés se dote d’un règlement d’ordre interne dans un délai de six mois. Ce règlement d’ordre interne détermine notamment la composition et le fonctionnement des organes de la Chambre des salariés.",
+      "text_sha256": "0fdddf96b490805b8cbe110a3ac4c713ace8c1a4e82bd514cc65a33d7b69bd40",
+      "md_span": {
+        "start": 30309,
+        "end": 30573
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_41/20230820",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre V.- — Chambre des employés privés."
+      ],
+      "article_valid_from": "2023-08-20",
+      "text_md": "**(1)** Sont qualifiés pour participer à l’élection des délégués composant la Chambre des salariés\n\n1. Code du travail même code\n2. les agents de la Société nationale des Chemins de Fer luxembourgeois;\n3. les personnes bénéficiant d’une pension au titre d’une occupation visée aux points 1. et 2. ci-avant au moment de la publication de la date des élections ;\n4. les personnes bénéficiaires d’une indemnité de chômage complet au titre d’une occupation visée aux points 1 et 2 ci-avant au moment de la publication de la date des élections, ainsi que les demandeurs d’emploi bénéficiaires d’une aide financière ou d’une mesure en faveur de l’emploi au moment de la publication de la date des élections ;\n5. les salariés et apprentis qui bénéficient d’un congé parental à temps plein au moment de la publication de la date des élections.\n\n**(2)** Sont éligibles, sans préjudice des dispositions de l’article 6 de la présente loi, les électeurs âgés de 18 ans au moins au jour de l’élection, à condition, en ce qui concerne les ressortissants non membres d’un Etat partie à l’Accord sur l’Espace économique européen et de la Confédération helvétique d’être en possession d’un permis de travail valable de type B ou C conformément aux articles 2 et 3 du règlement grand-ducal modifié du 12 mai 1972 déterminant les mesures applicables pour l’emploi des étrangers sur le territoire du Grand-Duché, ainsi que des documents exigés par la loi modifiée du 28 mars 1972 concernant: 1) l’entrée et le séjour des étrangers; 2) le contrôle médical des étrangers et 3) l’emploi de la main-d’œuvre étrangère.",
+      "text_sha256": "b91e72b4f64603d95bd2f15c4a811195cdc66ac90c9dfbbe1ca06197c9d31dd6",
+      "md_span": {
+        "start": 30610,
+        "end": 32203
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1972/05/12/n1/jo",
+          "text": "règlement grand-ducal modifié du 12 mai 1972"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1972/03/28/n1/jo",
+          "text": "loi modifiée du 28 mars 1972"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43bis",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_41/20240806",
+      "type": "article",
+      "num": "Art. 43bis.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "La chambre des fonctionnaires et employés publics a pour mission de créer et de subventionner le cas échéant tous établissements, institutions, oeuvres ou services voués essentiellement à l’amélioration de la condition sociale des fonctionnaires et employés publics, d’en féconder l’activité, de fournir des avis, de formuler des réclamations, de solliciter des informations et la production de données statistiques.\n\nLa chambre a le droit de faire des propositions au Gouvernement que ce dernier doit examiner et soumettre à la Chambre des Députés lorsque leur objet rentre dans la compétence de celle-ci, à l’exception toutefois des propositions concernant le régime des rémunérations.\n\nL’avis de la Chambre des fonctionnaires et employés publics est demandé sur tous les projets et propositions de loi, et sur tous les projets de règlements grand-ducaux, y compris les amendements y relatifs, qui concernent principalement les fonctionnaires et employés publics. Un délai raisonnable est dans tous les cas accordé à la Chambre des fonctionnaires et employés publics pour qu’elle puisse émettre son avis.\n\nLa chambre des fonctionnaires et employés publics est notamment compétente:\n\n1. pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables;\n2. pour donner son avis, avant le vote définitif par la Chambre des députés, sur les lois qui concernent principalement les fonctionnaires et employés publics;\n3. pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics;\n4. pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels ;\n5. pour établir des statistiques concernant la Fonction publique, ainsi que pour réaliser des études et analyses sur la Fonction publique et les agents publics ;\n6. pour informer, assister et conseiller ses ressortissants sur les matières qui relèvent de son champ d’activité et qui sont d’intérêt général pour la Fonction publique.",
+      "text_sha256": "831bdc2b4273cf24a94ae1abaecb94dec11ff74a90cfed3eb92a2d0d17097513",
+      "md_span": {
+        "start": 32313,
+        "end": 34646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-2",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_42/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-2.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Par dérogation aux dispositions de l’article 10 la liste des électeurs à la Chambre des fonctionnaires et employés publics est établie par le ministre ayant la Fonction publique dans ses attributions.\n\nEn vue de l’établissement de cette liste, le ministre constitue un fichier, comprenant les fonctionnaires et employés en activité de service et retraités de l’Etat, des établissements publics et des communes.\n\nLa constitution du fichier se fait en collaboration avec les propriétaires et gestionnaires des banques de données visés à l’article 16, paragraphe 1, alinéa 2 de la présente loi et obligés à mettre à la disposition du ministre les données nécessaires à l’établissement et la mise à jour des listes des électeurs. Pour les fonctionnaires et employés de l’État, la constitution du fichier se fait en collaboration avec le Centre des technologies de l’information de l’État. En ce qui concerne les fonctionnaires et employés des établissements publics, la constitution du fichier se fait en collaboration avec les établissements concernés. En ce qui concerne les fonctionnaires et employés des communes, la constitution du fichier se fait en collaboration avec les communes, les syndicats de communes, les établissements publics placés sous la surveillance des communes et la Caisse de prévoyance des fonctionnaires et employés communaux.\n\nLa liste des électeurs comprend pour chaque électeur les nom, prénoms, fonction, administration, adresse, numéro d’identification national, groupe et numéro d’ordre.\n\nLa liste des électeurs est arrêtée par le ministre ayant la Fonction publique dans ses attributions. Elle comprend tous ceux qui à la date de l’arrêt de cette liste prévue à l’article 43*bis.*-3, alinéa 1er, remplissent les conditions de l’électorat.\n\nLa liste est contrôlée et le cas échéant corrigée dans le mois qui suit par un comité électoral, institué par arrêté du ministre de la fonction publique.",
+      "text_sha256": "57fb8ff9ebd058ad2cc7d068a6212540e5f8ac242970dcdc1eab18077f36abc7",
+      "md_span": {
+        "start": 34694,
+        "end": 36616
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-3",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-3.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Par dérogation aux dispositions de l’article 11, la liste des électeurs à la Chambre des fonctionnaires et employés publics est arrêtée par le ministre ayant la Fonction publique dans ses attributions cent quinze jours avant la clôture du vote.\n\nLe ministre de la fonction publique transmet alors immédiatement aux collèges des bourgmestre et échevins les listes des électeurs ayant leur domicile dans les différentes communes.\n\nLe même jour, la liste est déposée à l’inspection du public dans un local à désigner par le ministre ayant la Fonction publique dans ses attributions.\n\nCe dépôt est porté à la connaissance du public par un avis publié au Journal officiel du Grand-Duché de Luxembourg. L‘avis invite les intéressés à présenter, dans les dix jours au plus tard, toutes les réclamations auxquelles la liste pourrait donner lieu.\n\nToute personne indûment inscrite, inscrite dans un groupe qui n’est pas le sien, ou dont le nom a été omis ou rayé, peut présenter une réclamation écrite auprès du ministre ayant la Fonction publique dans ses attributions.",
+      "text_sha256": "71db3453e092bad255f12ef0322e47591c4fa1510c4218bb765c79b354096747",
+      "md_span": {
+        "start": 36664,
+        "end": 37725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-4",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_4/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-4.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Par dérogation à l’article 12, et au plus tard dans les trois jours, le ministre ayant la Fonction publique dans ses attributions donne suite ou non à chaque réclamation. Un recours contre la décision prise sur base d’une réclamation peut lui être adressé dans les deux jours de la notification de celle-ci par lettre recommandée à la poste. Il transmet ce recours et toutes les pièces qui s’y rapportent au juge de paix qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties, et s’il le juge utile, un délégué du ministre ayant la Fonction publique dans ses attributions. Dans tous les cas, le jugement est réputé contradictoire. Il n’est pas susceptible d’appel.\n\nLe greffier de la justice de paix transmet l’expédition du jugement statuant sur le recours au ministre ayant la Fonction publique dans ses attributions dans les trois jours ouvrables.\n\nEn exécution des jugements ayant statué sur les recours, le ministre ayant la Fonction publique dans ses attributions modifie sans délais la liste des électeurs.\n\nSoixante-dix jours avant la clôture du vote, le ministre arrête définitivement la liste des électeurs et en transmet une copie au président du bureau électoral.",
+      "text_sha256": "8e471dc36e66f51c0b9ee2d25ce56f59da0d0251216e136b4f63e38159459b12",
+      "md_span": {
+        "start": 37773,
+        "end": 38985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-5",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_5/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-5.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le bureau électoral désigne ceux de ses membres qui sont chargés d’enregistrer les listes de candidats.\n\nLes formules imprimées des listes, attestations et déclarations sont à la disposition des intéressés sous format papier et informatique à partir du soixantième jour qui précède la clôture du vote.\n\nChaque liste de candidats est accompagnée :\n\n1. d’un extrait du bulletin n° 3 du casier judiciaire qui date de moins de trois mois ;\n2. d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans ce groupe ;\n3. d’une attestation délivrée à chaque candidat par son administration certifiant qu’il appartient ou, lorsqu’il est retraité, a appartenu au cadre de son personnel.\n\nChaque liste de candidats est déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l’ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par la présente loi.\n\nLa liste indique le groupe auquel les candidats appartiennent, les nom, prénoms, numéro d’identification, fonction, administration et adresse des candidats. Pour les électeurs qui la présentent, la liste indique le groupe, les nom, prénoms, numéro d’identification, fonction, administration et adresse.\n\nNul ne peut figurer, ni comme candidat ni comme présentant, sur plus d’une liste.\n\nPar dérogation à l’article 16, paragraphe 2, chaque liste comprend un nombre de candidats égal au nombre de membres effectifs et suppléants à élire.\n\nPour chaque groupe électoral, les listes de candidats sont à présenter par dix électeurs inscrits dans ce groupe et qui ne sont pas candidats.",
+      "text_sha256": "2f81e1ae06b8711e3ee55ca842cdd30bbdc3ea07f021112c023532151572cbe1",
+      "md_span": {
+        "start": 39033,
+        "end": 40664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-6",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_6/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-6.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les listes de candidats sont déposées auprès du président du bureau électoral au plus tard le quarante-cinquième jour qui précède la clôture du vote, à dix-huit heures.\n\nLe soixantième jour qui précède la clôture du vote, le président du bureau électoral publie au Journal officiel du Grand-Duché de Luxembourg un avis fixant les jours, heures et lieu auxquels il reçoit les présentations de candidats et les désignations de témoins.\n\nLe président du bureau électoral ou son représentant vérifie la conformité des listes de candidats présentées aux dispositions de l’article 43*bis*.-5, valide les listes ainsi retenues et en informe le mandataire dans les meilleurs délais.\n\nUn candidat inscrit sur une liste ne peut en être rayé que s’il notifie au président du bureau électoral par courrier recommandé avec accusé de réception, la volonté de s’en retirer. Toute liste peut être complétée par les noms de candidats qui sont présentés par tous les signataires de la liste. Les notifications doivent avoir lieu avant l’expiration du délai fixé pour les déclarations de candidature.",
+      "text_sha256": "f5f2c6ea9ffa3904a24b11496d7d4d9ebdcb94e5549084e285f9c72b6a69c167",
+      "md_span": {
+        "start": 40712,
+        "end": 41793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-7",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_7/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-7.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "À l’expiration du délai pour la présentation des candidatures, le bureau électoral arrête les listes de candidats présentées pour les différents groupes électoraux, avec indication pour chaque candidat de ses nom, prénoms et fonction.\n\nChaque liste porte une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l’expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d’ordre par le président du bureau électoral.\n\nLe ministre ayant la Fonction publique dans ses attributions vérifie pour chaque candidat qu’il est électeur.",
+      "text_sha256": "8ffbe5ca863e11ca6aa3938aeb53b7ead9a05dbe2cb679a23f6d3ab674d46877",
+      "md_span": {
+        "start": 41841,
+        "end": 42554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-8",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_8/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-8.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Lors de la présentation des candidats, le mandataire de la liste peut désigner un témoin et un témoin suppléant pour assister aux opérations du bureau électoral. Le témoin et le témoin suppléant sont électeurs appartenant au même groupe que les candidats.\n\nLe président désigne par voie de tirage au sort, pour chaque groupe, le témoin qui remplit ce mandat.",
+      "text_sha256": "f7f371d1589b55e888ef67f7d06ce85586fb122e20581343eb3a6bce93611d59",
+      "md_span": {
+        "start": 42602,
+        "end": 42960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-9",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_9/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-9.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Lorsque le nombre de candidats d’un groupe ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans ce groupe, ces candidats sont proclamés élus par le président du bureau électoral sans autre formalité, sous condition toutefois que pour ce groupe, il n’ait été présenté qu’une seule liste de candidats et que cette liste désigne expressément, d’une part, les membres effectifs et, d’autre part, les membres suppléants dans l’ordre suivant lequel ils remplacent les membres effectifs. Il en est dressé procès-verbal qui est signé, séance tenante, par le président et le secrétaire du bureau électoral, pour être immédiatement adressé au ministre ayant la Fonction publique dans ses attributions.",
+      "text_sha256": "7150ef88e410d09aae564be7b6bcd2b5ec784671aeaadbaeed613774cfb96df2",
+      "md_span": {
+        "start": 43008,
+        "end": 43728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-10",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_10/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-10.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les listes de candidats présentées pour les différents groupes sont portées à la connaissance du public par un avis publié dans la presse au plus tard cinq jours après la date d’arrêt des listes. Cet avis reproduit, pour chacun des groupes, les nom, prénoms, fonction et administration des candidats. Pour chaque liste d’un groupe, l’ordre de présentation des candidats y est maintenu et les listes y sont placées suivant l’ordre déterminé par le tirage au sort opéré par le président du bureau électoral. Sont imprimés en tête de chaque liste et en caractères gras, le numéro d’ordre, en chiffres arabes, ainsi que la dénomination de la liste.\n\nLes listes de candidats portant une dénomination identique pour chacun des groupes d’électeurs appelés à voter, se voient attribuer pour chaque liste le même numéro d’ordre déterminé par le tirage au sort opéré par le président du bureau électoral. Dans l’hypothèse envisagée par l’article 43*bis*.-9, les noms des candidats proclamés élus sont insérés dans l’avis qui sera publié dans la presse. Les électeurs de ce groupe ne sont dès lors pas admis à voter.\n\nL’avis publié dans la presse reproduit en outre les instructions pour l’électeur. Le détail des instructions à l’électeur est déterminé par règlement grand-ducal.",
+      "text_sha256": "ecb11ea741ebbef81edd6a778f1248062b92e1d78d28441a35cb70ca7aec9e15",
+      "md_span": {
+        "start": 43778,
+        "end": 45047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-11",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_11/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-11.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le bureau électoral est institué par le ministre ayant la Fonction publique dans ses attributions au plus tard soixante-dix jours avant la clôture du vote. Il comporte un président, un vice-président et un secrétaire et des scrutateurs.\n\nLe ministre désigne le président, le vice-président et le secrétaire.\n\nLe président désigne les scrutateurs.\n\nLe secrétaire n’a pas voix délibérative.\n\nLe bureau électoral siège dans des locaux appropriés mis à disposition par l’État.",
+      "text_sha256": "cc7c851abcd10a2521e3afe0a68354d492b184dd216320839da06244cf75a2c9",
+      "md_span": {
+        "start": 45097,
+        "end": 45569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-12",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_12/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-12.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le bureau électoral est un organe collégial dont les décisions sont prises à la majorité des voix des membres présents. En cas d’égalité des voix exprimées, celle du président est prépondérante. En cas d’empêchement du président, les fonctions de celui-ci sont assumées par le vice-président.",
+      "text_sha256": "025fdbbe8ce6aae444bca5b37516b04e68bde45fd4a29078da3ca285740034a3",
+      "md_span": {
+        "start": 45619,
+        "end": 45911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-13",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_13/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-13.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les témoins peuvent siéger au bureau électoral pendant toute la durée des opérations. S’ils ne se présentent pas, les opérations se poursuivent sans interruption et sont valables, nonobstant leur absence.",
+      "text_sha256": "a184b5c4d7aa453e121acc1c697d582195b37478799c6b311d151d0d739b3c86",
+      "md_span": {
+        "start": 45961,
+        "end": 46165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-14",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_14/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-14.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les membres du bureau électoral sont tenus de recenser fidèlement les suffrages.\n\nLes membres du bureau électoral et les témoins sont tenus de garder le secret des votes.\n\nIl est donné lecture de l’alinéa 2 et mention en est faite au procès-verbal.",
+      "text_sha256": "b2486ca1a080de08f77663854cf4dbdf1c22c55efcdbaf60b5e8c3b9ac635b14",
+      "md_span": {
+        "start": 46215,
+        "end": 46463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-15",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_15/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-15.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Ne peuvent siéger au bureau électoral les membres sortants de la Chambre des fonctionnaires et employés publics, les candidats ainsi que leurs parents ou alliés jusqu’au deuxième degré compris.",
+      "text_sha256": "734b37c1bfa60e691e1391f8c910307e03feb74eae61f0da85e9b504e431d142",
+      "md_span": {
+        "start": 46513,
+        "end": 46706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-16",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_16/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-16.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les membres du bureau électoral ont droit à une indemnité qui est fixée à 5 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948, par heure de travail effectif.",
+      "text_sha256": "cb142872f6a8dd76103d8f3d5256e3a8d87f538ba3249bd3bc9961666de97f42",
+      "md_span": {
+        "start": 46756,
+        "end": 46950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-17",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_17/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-17.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "À l’expiration du délai fixé pour le dépôt des candidatures, le bureau électoral compose les bulletins de vote qui, tout comme les enveloppes, varient de couleur suivant les différents groupes électoraux.\n\nPour chaque groupe électoral, le bulletin de vote reproduit les numéros d’ordre et les dénominations des différentes listes présentées, ainsi que les nom et prénoms des candidats. Chaque liste est surmontée d’une case réservée au vote de liste, deux autres cases se trouvent à la suite des nom et prénoms de chaque candidat, selon le modèle à fixer par règlement grand-ducal.",
+      "text_sha256": "44dbff1e7dc85c23539c16f0cd256def8504b45cf5e29ae87681c4b9b34f4b52",
+      "md_span": {
+        "start": 47000,
+        "end": 47581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-18",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_18/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-18.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le papier devant servir à la confection des bulletins est fourni par le service ayant les imprimés et fournitures de bureau de l’État dans ses attributions et est scellé par ses soins avant d’être remis au bureau électoral.\n\nDès réception des bulletins, le bureau électoral vérifie leur nombre pour les différents groupes et le résultat de la vérification est mentionné au procès-verbal de l’élection.\n\nLes bulletins employés par le bureau électoral pour un même groupe électoral sont identiques, sous le rapport du papier, du format et de l’impression. L’emploi de tous autres bulletins est interdit.",
+      "text_sha256": "f425f8fa5a24464be9ba9e6b020e59d2a28875e60557e68c49170d3ccb3298c2",
+      "md_span": {
+        "start": 47631,
+        "end": 48232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-19",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_19/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-19.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "**(1)** Au plus tard vingt jours avant la clôture du vote, le président du bureau électoral fait parvenir, sous la forme d’une lettre simple, à chaque électeur un bulletin de vote et une notice contenant les instructions pour les électeurs.\n\nLe bureau électoral tient compte de tout changement de résidence enregistré au registre national des personnes physiques au moins huit jours ouvrables avant la date prévue pour l’envoi des bulletins de vote.\n\n**(2)** L’enveloppe d’envoi est l’enveloppe avec laquelle le bureau électoral envoie aux électeurs les documents pour le vote, et qui porte dans l’angle supérieur gauche l’adresse du président du bureau électoral.\n\nL’enveloppe électorale est l’enveloppe dans laquelle est inséré le bulletin de vote et qui porte l’indication « Élections pour la Chambre des fonctionnaires et employés publics, loi modifiée du 4 avril 1924 », ainsi que la désignation du groupe pour lequel l’élection a lieu.\n\nL’enveloppe de transmission est l’enveloppe avec laquelle l’électeur renvoie l’enveloppe électorale à l’adresse du président du bureau électoral et qui renseigne dans l’angle inférieur gauche le groupe, le numéro d’ordre, le nom, les prénoms et l’adresse de l’électeur, ainsi que, le cas échéant, un code barre contenant ces mêmes informations.\n\n**(3)** Les bulletins de vote sont placés dans l’enveloppe électorale, laissée ouverte.\n\nL’enveloppe de transmission, laissée également ouverte, est jointe à l’envoi. Le tout est inséré dans l’enveloppe d’envoi à l’adresse de l’électeur.\n\nLe format, l’adressage et l’affranchissement des enveloppes de transmission et d’envoi sont ceux prévus par la Convention postale universelle.",
+      "text_sha256": "558d9d128a68e0d99c6e2b5f33af8187ec907aa2aa8f63d741c21d81de775efe",
+      "md_span": {
+        "start": 48282,
+        "end": 49952
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/jo",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43bis-20",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_20/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-20.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs et de membres suppléants à élire dans le groupe électoral en question.\n\nL’expression du vote se fait par l’apposition d’une marque impersonnelle non attribuable dans les cases réservées à cet effet.\n\nToute marque, même imparfaite, exprime valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.",
+      "text_sha256": "4f981ba751c2e43c8404d53fb06c961eecde58a27557d8dc7822b160bcce4b3a",
+      "md_span": {
+        "start": 50002,
+        "end": 50418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-21",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_21/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-21.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "L’électeur place le bulletin plié dans l’enveloppe électorale qu’il ferme. Il glisse celle-ci dans l’enveloppe de transmission, ferme le pli et le remet à la poste, sous la forme d’une lettre simple, au plus tard le jour de clôture du vote.",
+      "text_sha256": "4e7f388db1a81a3710010b81d641d6f6d55bc59ec9516350135ff82610eec2aa",
+      "md_span": {
+        "start": 50468,
+        "end": 50708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-22",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_22/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-22.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "L’électeur, dont le bulletin a été détérioré, peut en demander un autre par écrit au président et renvoie sous le même pli le premier bulletin qui sera aussitôt détruit. Il en est fait mention au procès-verbal de l’élection.",
+      "text_sha256": "0e95bdbba7d63387bce34bf588acb7bdf165b5f4344699f6f2d4bf9fb1355c39",
+      "md_span": {
+        "start": 50758,
+        "end": 50982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-23",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_23/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-23.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Après la clôture du vote, le bureau électoral fait le récolement des bulletins non employés dans les différents groupes électoraux. Ces bulletins sont immédiatement détruits. Le nombre en est mentionné au procès-verbal.",
+      "text_sha256": "c1857f03c619e233aa7afdce0612924ea4694caa4ef34cb6f8b11ac03a0a6524",
+      "md_span": {
+        "start": 51032,
+        "end": 51251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-24",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_24/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-24.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les bulletins envoyés après la date de clôture du vote sont exclus d’office, le cachet de la poste faisant foi.\n\nLe dépouillement du vote commence dans les cinq jours après le jour de clôture du vote.\n\nLes enveloppes de transmission sont comptées. Les numéros d’ordre figurant sur les enveloppes de transmission sont enregistrés sur une liste établie à cet effet.\n\nLes enveloppes de transmission déclarées nulles conformément à l’article 43*bis*.-27, point 1°, sont écartées.\n\nLes enveloppes de transmission valables sont ouvertes et les enveloppes électorales en sont retirées. Les enveloppes de transmission sont détruites immédiatement. Les enveloppes électorales sont classées par groupe électoral.\n\nAprès avoir mélangé les enveloppes électorales, le bureau électoral ouvre les enveloppes électorales et retire les bulletins.\n\nLes enveloppes électorales déclarées nulles conformément à l’article 43bis.-*27*, point 2°, et le ou les bulletins y contenus, sont écartés.",
+      "text_sha256": "5a24a9eee19d9ee8ba352998cd6f987dca73f9548adda5ce6a9658feb36bafa3",
+      "md_span": {
+        "start": 51301,
+        "end": 52272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-25",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_25/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-25.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les bulletins sont vérifiés par deux scrutateurs quant à leur validité et classés sur deux tas, selon bulletins valables et bulletins nuls. Leur nombre est mentionné au procès-verbal.\n\nLes suffrages inscrits sur les bulletins reconnus valables sont énoncés nominativement par le président ou un membre du bureau électoral qui le supplée et portés par deux scrutateurs sur les listes de dépouillement.\n\nLes bulletins nuls et douteux sont soumis à un contrôle approfondi par tous les membres du bureau électoral présents. Les témoins présents ont voix consultative. Les bulletins définitivement déclarés nuls sont paraphés par le président et un scrutateur. Les contestations et les décisions sont mentionnées au procès-verbal.\n\nLes suffrages exprimés sur les bulletins reconnus valables après le contrôle prévu à l’alinéa 3, sont énoncés nominativement par le président ou un membre du bureau électoral qui le supplée et portés sur les listes de dépouillement par deux scrutateurs.",
+      "text_sha256": "cbb26d821f0255e95400282ab8cf5524cc75c055de525f7e6931148f8653d478",
+      "md_span": {
+        "start": 52322,
+        "end": 53302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-26",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_26/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-26.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les bulletins valables et nuls sont gardés jusqu’à ce que les résultats des élections soient définitifs.",
+      "text_sha256": "2aa8d3ed8ec319137d479b6b019f04c106df05362cadc812107f194339fa2631",
+      "md_span": {
+        "start": 53352,
+        "end": 53456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-27",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_27/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-27.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Sont nuls :\n\n1. 1. qui ont été timbrées par la poste postérieurement au jour de clôture du vote ;\n2. non fermées ;\n3. sur lesquelles le numéro d’ordre et, le cas échéant, le code barre ne sont plus visibles ;\n4. contenant plusieurs enveloppes électorales ;\n2. 1. non fermées ;\n2. marquées ;\n3. autres que celles délivrées par le président du bureau électoral ;\n4. contenant plusieurs bulletins ;\n3. 1. autres que ceux délivrés par le président du bureau électoral ;\n2. non renfermés dans une enveloppe électorale ;\n3. qui expriment plus de suffrages que de candidats effectifs et suppléants à élire ;\n4. qui portent une marque ou un signe distinctif quelconques ;\n5. sur lesquels le votant s’est fait connaître ;\n6. qui contiennent à l’intérieur un papier ou un objet quelconques ;\n7. qui ne contiennent l’expression d’aucun suffrage.",
+      "text_sha256": "c7cdf1df1d504a7a147cf1972af935db0931161d8a98af9a89a58f06ce83989b",
+      "md_span": {
+        "start": 53506,
+        "end": 54340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-28",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_28/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-28.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le bureau électoral arrête pour les différents groupes électoraux le nombre de votants, de bulletins nuls, de bulletins valables, de suffrages de listes et de suffrages nominatifs obtenus par chaque candidat. Le tout est mentionné au procès-verbal.",
+      "text_sha256": "5e9699256bd003a3e5d819f3ec9115926022980e752dbcfb3e78ae77b886f629",
+      "md_span": {
+        "start": 54390,
+        "end": 54638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-29",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_29/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-29.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Pour chacun des différents groupes électoraux, le nombre total de suffrages valables de listes est divisé par le nombre de membres effectifs à élire dans ce groupe, augmenté de un.\n\nOn entend par « nombre électoral », le nombre entier qui est immédiatement supérieur au quotient ainsi obtenu.\n\nÀ chaque liste d’un groupe, il est attribué autant de sièges de membres effectifs et autant de sièges de membres suppléants dans ce groupe que le nombre électoral est contenu de fois dans le nombre de suffrages recueillis par cette liste.\n\nLorsque le nombre de membres effectifs et de membres suppléants élus par cette répartition reste inférieur à celui de membres effectifs et de membres suppléants à élire dans ce groupe, on divise le nombre de suffrages de chaque liste du même groupe par le nombre de sièges de membres effectifs qu’elle a déjà obtenus augmenté de un. Le siège de membre effectif et le siège correspondant de membre suppléant sont attribués à la liste qui obtient le quotient le plus élevé. Le même procédé est répété s’il reste encore des sièges disponibles dans ce groupe.\n\nEn cas d’égalité de quotient, le siège disponible de membre effectif et celui de membre suppléant sont attribués à la liste qui a recueilli le plus de suffrages.\n\nLes différents sièges de membres effectifs et de membres suppléants, dont dispose un groupe, sont attribués dans chaque liste aux candidats ayant obtenu le plus grand nombre de suffrages. En cas d’égalité de suffrages, l’élection est acquise au candidat appartenant à la liste ayant obtenu le plus grand nombre de suffrages de liste. En cas de nouvelle parité des suffrages, est proclamé élu le candidat qui est désigné par tirage au sort par le président du bureau électoral.\n\nToutefois, si par les opérations qui précèdent, plus de deux sièges de membres effectifs étaient à attribuer dans un groupe à des candidats d’une même administration de l’État ou d’un même établissement public pour les groupes 1, 3, 4 et 7, les deux candidats de ces mêmes entités, à quelque liste qu’ils appartiennent, qui ont obtenu le plus grand nombre de suffrages sont définitivement déclarés élus membres effectifs. En cas de parité de suffrages, l’élection est acquise au candidat appartenant à la liste ayant obtenu le plus grand nombre de suffrages de liste. En cas de nouvelle parité des suffrages, est proclamé élu le candidat qui est désigné par tirage au sort par le président du bureau électoral. Les sièges restant à pourvoir dans les groupes respectifs sont attribués, dans l’ordre décroissant du nombre de votes obtenus, aux suppléants des listes respectives qui ne sont pas de la même entité. Le membre élu écarté prend rang comme premier suppléant de sa liste.",
+      "text_sha256": "d84bcf414d6fb39325bbc013891af7f1033bf555f72ef700d02a9921e53c467c",
+      "md_span": {
+        "start": 54688,
+        "end": 57399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-30",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_30/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-30.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Le procès-verbal est signé séance tenante par les membres du bureau électoral, envoyé au ministre ayant la Fonction publique dans ses attributions et publié au Journal officiel du Grand-Duché de Luxembourg.\n\nÀ l’expiration des délais prévus pour l’introduction des recours, tous les documents relatifs à l’élection sont détruits, à l’exception des procès-verbaux.",
+      "text_sha256": "106a0086e934f96698e7f7f48b987425f14bb622f05dee4392a41a2dd9f5f651",
+      "md_span": {
+        "start": 57449,
+        "end": 57812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis-31",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43bis-31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43bis_31/20240806",
+      "type": "article",
+      "num": "Art. 43bis.-31.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Lorsque le délai fixé par le présent chapitre pour faire une déclaration, un acte ou un dépôt expire un samedi, un dimanche, un jour férié légal ou considéré comme tel, le délai est prolongé de façon à englober le premier jour ouvrable qui suit.",
+      "text_sha256": "be18fdb5a74bcbac144ba61b9e5bdabd92d535653607be0acb6663d781a15c19",
+      "md_span": {
+        "start": 57862,
+        "end": 58107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43ter",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43ter/20240806",
+      "type": "article",
+      "num": "Art. 43ter.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "La chambre des fonctionnaires et employés publics se compose de vingt-neuf membres effectifs et d’autant de membres suppléants. Les membres seront désignés par la voie de l’élection.\n\nL’élection assurera les mandats aux groupes suivants :\n\n| Groupe 1 | 3 mandats ; |\n| --- | --- |\n| Groupe 2 | 1 mandat ; |\n| Groupe 3 | 4 mandats ; |\n| Groupe 4 | 7 mandats ; |\n| Groupe 5 | 2 mandats ; |\n| Groupe 6 | 2 mandats ; |\n| Groupe 7 | 3 mandats ; |\n| Groupe 8 | 1 mandat ; |\n| Groupe 9 | 5 mandats ; |\n| Groupe 10 | 1 mandat. |\n\nLes différents groupes représentent les ressortissants suivants :\n\n1. le groupe 1 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A1, qui ne relèvent pas de la rubrique « Enseignement » ainsi que les fonctionnaires de l’État appartenant à la Magistrature ;\n2. le groupe 2 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A2, qui ne relèvent pas de la rubrique « Enseignement » ;\n3. le groupe 3 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement B qui ne relèvent pas de la rubrique « Enseignement » ;\n4. le groupe 4 comprend les fonctionnaires de l’État et des établissements publics des catégories de traitement C et D ;\n5. le groupe 5 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A qui relèvent de la rubrique « Enseignement », à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6 ;\n6. le groupe 6 comprend les différentes fonctions d’instituteurs et d’instituteurs spécialisés de la catégorie de traitement A de la rubrique « Enseignement » et les fonctionnaires de la catégorie de traitement B de la rubrique « Enseignement » ;\n7. le groupe 7 comprend les employés de l’État et des établissements publics qui ne relèvent pas de la rubrique « Enseignement » ainsi que les volontaires de l’Armée ;\n8. le groupe 8 comprend les employés de l’État et des établissements publics qui relèvent de la rubrique « Enseignement » ;\n9. le groupe 9 comprend les fonctionnaires et employés communaux ;\n10. le groupe 10 comprend les ministres du culte catholique.\n\nPar «fonctionnaires de l’Etat et des établissements publics» au sens du présent article il faut entendre les fonctionnaires de l’Etat régis par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, ainsi que les employés statutaires des établissements publics assimilés aux fonctionnaires de l’Etat en vertu d’une disposition légale ou réglementaire.\n\nPar employés de l’État et des établissements publics au sens du présent article il faut entendre les employés de l’État régis par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ainsi que les employés des établissements publics qui leur sont assimilés en vertu d’une disposition légale ou réglementaire.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 1 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement A, groupe de traitement A1, ainsi qu’à la rubrique V. Magistrature.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 2 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement A, groupe de traitement A2.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 3 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement B.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 4 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous les dénominations catégorie de traitement C et catégorie de traitement D.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 5 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, à la rubrique II. Enseignement sous la dénomination catégorie de traitement A, à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6.\n\nLa répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 6 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, à la rubrique II. Enseignement sous la dénomination catégorie de traitement A pour les différentes fonctions d’instituteurs et d’instituteurs spécialisés et sous la dénomination catégorie de traitement B.\n\nLa répartition des employés en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux employés de l’État, dans le groupe 7 est celle qui figure aux articles 43 à 49 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dans tous les sous-groupes y visés, à l’exception du sous-groupe de l’enseignement.\n\nLa répartition des employés en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux employés de l’État, dans le groupe 8 est celle qui figure aux articles 43 à 46 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dans le sous-groupe de l’enseignement.\n\nPar fonctionnaires et employés communaux au sens du présent article il faut entendre les fonctionnaires en service et retraités des communes, des syndicats de communes et des établissements publics placés sous la surveillance des communes régis par la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, ainsi que les employés en service et retraités de ces organismes qui sont assimilés aux employés communaux en vertu d’une disposition légale ou réglementaire.\n\nAu sein de la Chambre des fonctionnaires et employés publics, aucune administration de l’État, ni aucun établissement public ne peut occuper plus de deux mandats dans chacun des groupes 1, 3, 4 et 7.\n\nL’attribution des mandats aux différentes catégories définies ci-dessus pourra être modifiée par règlement grand-ducal à publier au moins trois mois avant les élections quinquennales, si une évolution dans l’importance réciproque des différentes catégories, intervenue après la constitution de la chambre, fait apparaître cette modification comme équitable. Ce règlement doit toutefois attribuer au moins un siège à chaque catégorie d’électeurs.\n\nLes délégués des différents groupes désignés ci-dessus pourront former, suivant les besoins, des commissions spéciales qui pourront délibérer séparément sur des questions qui intéressent particulièrement les groupes respectifs. A la demande des commissions spéciales, leur avis sera joint à l’avis de la chambre.\n\nLorsque la chambre est saisie de questions intéressant plus particulièrement l’un ou l’autre des groupes susvisés, elle ne pourra émettre son avis qu’après avoir demandé l’avis de la commission spéciale représentant ce groupe. Cet avis devra être donné endéans les quinze jours.",
+      "text_sha256": "dbbaadca44c5b0cd47838e6500a17261723e892894ced99fadfe9916b465aec7",
+      "md_span": {
+        "start": 58150,
+        "end": 67218
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1985/12/24/n3/jo",
+          "text": "loi modifiée du 24 décembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43quater",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43quater/20240806",
+      "type": "article",
+      "num": "Art. 43quater.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Chaque groupe d’électeurs forme un collège électoral spécial en vue de la désignation de ses délégués.\n\nSont qualifiés, pour participer à l’élection des membres de la chambre, les fonctionnaires et employés publics qui au moment de l’établissement des listes électorales remplissent l’une des fonctions déterminées à l’article qui précède ou qui s’y préparent en tant que stagiaires ou qui jouissent d’une pension du chef de l’une de ces fonctions.",
+      "text_sha256": "bf84a9f0376ed25f6a64f662f6bbb355f463d6d0e340869c98efae996898c682",
+      "md_span": {
+        "start": 67267,
+        "end": 67715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43quinquies_20240806",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43quinquies_20240806",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43quinquies/20211001",
+      "type": "article",
+      "num": "Art. 43quinquies.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2021-10-01",
+      "text_md": "(...)",
+      "text_sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+      "md_span": {
+        "start": 67779,
+        "end": 67784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43sexies",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43sexies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43sexies/20211001",
+      "type": "article",
+      "num": "Art. 43sexies.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2021-10-01",
+      "text_md": "Si le secrétaire de la chambre est recruté parmi les électeurs de la chambre, il peut maintenir, avec l’assentiment de son employeur, son statut originaire. Dans ce cas, la chambre sera tenue de rembourser à l’employeur les sommes versées au titre de traitement, accessoires compris, ainsi qu’une quotité de la pension qui correspond aux années passées au service de la chambre.",
+      "text_sha256": "3cf894b2c3c647557dd5dd9b47c507c4771a76eacedad7fd9d8912f46dfaefe3",
+      "md_span": {
+        "start": 67833,
+        "end": 68211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43septies",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43septies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43septies/20211001",
+      "type": "article",
+      "num": "Art. 43septies.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2021-10-01",
+      "text_md": "La participation aux activités de la chambre ne donnera lieu à aucune rémunération, sauf pour le remboursement des frais de voyage. Les membres de la chambre et les suppléants, pour les périodes de suppléance, jouissent chaque mois d’un congé spécial d’une demi-journée pour se consacrer aux activités de la chambre; ce congé est de deux demi-journées pour les membres du bureau.",
+      "text_sha256": "2a8a3e64864ca38eaa10b7b38a20996a7ee408bc5c7f67e1c69db46339b7a7e8",
+      "md_span": {
+        "start": 68262,
+        "end": 68641
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43octies",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_43octies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_43octies/20211001",
+      "type": "article",
+      "num": "Art. 43octies.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Chambre des fonctionnaires et employés publics"
+      ],
+      "article_valid_from": "2021-10-01",
+      "text_md": "L’exercice des droits qui découlent de la présente loi, tant par la chambre elle-même que par ses membres, ne doit porter préjudice ni aux dispositions légales relatives aux droits et devoirs des fonctionnaires, ni aux lois disciplinaires.",
+      "text_sha256": "9d328dbf9da12923b3989c5777b0d7ee7c3db0808ebab3db4284be2ed487c70e",
+      "md_span": {
+        "start": 68690,
+        "end": 68929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_44/19240506",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre final.- — Dispositions diverses"
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "Chaque fois que deux ou plusieurs chambres professionnelles auront à s’occuper d’intérêts communs elles pourront se réunir pour en délibérer en vue d’une décision commune. Dans ce cas, chaque chambre déléguera à la réunion plusieurs de ses membres. Le nombre total de ces délégués ne pourra dépasser celui de la chambre intéressée la plus nombreuse.\n\nLe Gouvernement pourra, chaque fois que le besoin s’en présentera, convoquer les délégués de deux ou plusieurs chambres professionnelles, en vue de délibérations en commun sur des questions intéressant les différentes professions. Les frais resteront à la charge des différentes chambres.",
+      "text_sha256": "1d006162583e44b5c8c45a7915a20696f06de69a035d0b08c932b3a707c617e7",
+      "md_span": {
+        "start": 69011,
+        "end": 69650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45_et_46",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_45_et_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_45/19240506",
+      "type": "article",
+      "num": "Art. 45 et 46.",
+      "heading": null,
+      "path": [
+        "Chapitre final.- — Dispositions diverses"
+      ],
+      "article_valid_from": "1924-05-06",
+      "text_md": "*(devenus sans objet)*",
+      "text_sha256": "92bfd682f594c5db07fa64dbeca18a0ca177347a79aac3c5ffdc0ad67930e3d4",
+      "md_span": {
+        "start": 69699,
+        "end": 69721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1924-04-04-n1:2024-08-06--a9c465acd3e1e5beea5dd3060dcde7374276b2690a1bb7934dbf59a7d927a834#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/art_47/19240506",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre final.- — Dispositions diverses"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "La loi du 28 juin 1920 portant création d’une chambre de travail est abrogée.",
+      "text_sha256": "d44b46fb28566aa78f239f0a653a542fc338223439ae9c4b9de83497a38d6267",
+      "md_span": {
+        "start": 69758,
+        "end": 69835
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1920/06/28/n1/jo",
+          "text": "loi du 28 juin 1920"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

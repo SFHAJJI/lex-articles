@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2257:2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/2257 of 11\u00A0August 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2257/versions/2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b/en.xml",
+    "sha256": "cae091af5bd0a3ec070d89083150e9a6b11920317d271da203858917be9426ef",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2257"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2257:2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Institutions shall determine the components P&Llong and P&Lshort referred to in Article 325w(1), (2) and (5) of Regulation (EU) No 575/2013 by use of the following formulae:\n\nwhere:\n\n| VA | = | the market value of the instrument from which the exposure arises for the institution at the time of the calculation of the gross JTD amount for that exposure. |\n| --- | --- | --- |\n\n2. Institutions shall determine the components Adjustmentlong and Adjustmentshort referred to in Article 325w(1) and (2) of Regulation (EU) No 575/2013 by use of the following formulae:\n\nwhere:\n\n| VF | = | the market value of the instrument from which the exposure arises for the institution, calculated under the assumption that at the time of the calculation of the gross JTD amount for that exposure, the debt instrument defaulted and experienced a zero recovery rate. |\n| --- | --- | --- |\n\n3. Institutions shall determine the components Adjustmentlong and Adjustmentshort referred to in Article 325w(5) of Regulation (EU) No 575/2013 by use of the following formulae:\n\nwhere:\n\n| VF | = | the market value of the instrument from which the exposure arises for the institution, calculated under the assumption that at the time of the calculation of the gross JTD amount for that exposure, the equity instrument experienced a full loss in value. |\n| --- | --- | --- |",
+      "text_sha256": "409fd995c3f895610fed595de4ac11f22016fdfe57b226ded3bf1952ec3d03d0",
+      "md_span": {
+        "start": 717,
+        "end": 2076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2257:2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The alternative methodology to estimate the gross JTD amounts of the exposures referred to in Article 325w(7) of Regulation (EU) No 575/2013 shall consist in calculating the difference between the market value of a derivative instrument as referred to in that paragraph, from which the exposure arises for the institution at the time of the estimation of the gross JTD amount, and the market value of that derivative instrument, calculated under the assumption that the obligor is in default at that time.\n\n2. Where the obligor is in default at the time of the estimation, and the market value of the instrument from which the exposure arises for the institution at that time reflects the gain or loss resulting from the default of the obligor, the alternative methodology referred to in Article 325w(7) of Regulation (EU) No 575/2013 shall consist in regarding the gross JTD amount of the exposure to be zero.",
+      "text_sha256": "9919ee49e62642248e942d69593d054f4c472976599a16755abc38178c89fd36",
+      "md_span": {
+        "start": 2109,
+        "end": 3033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2257:2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. For the purposes of Article 325w(1) and (2) of Regulation (EU) No 575/2013, institutions shall determine the notional amounts of instruments other than those referred to in Article 325w(4), points (a) and (b), of that Regulation by use of the following formulae:\n\n| (a) | for exposures to debt instruments classified as senior debt instruments or covered bonds, the notional amount of the instrument from which the exposure arises shall be:(i)in case of a long exposure:(ii)in case of a short exposure:where:LGD=the LGD assigned to the debt instrument in accordance with Article 325w(3) of Regulation (EU) No 575/2013;VD=the market value of the instrument from which the exposure arises for the institution, calculated under the assumption that, at the time of the calculation of the gross JTD amount for that exposure, the debt instrument defaulted and experienced a recovery rate that is calculated with respect to the face value of the debt instrument and which shall be equal to (1–LGD);VF=VF as specified in Article 1(2) of this Regulation; |  |\n| --- | --- | --- |\n| (i) | in case of a long exposure: |  |\n| (ii) | in case of a short exposure: |  |\n| LGD | = | the LGD assigned to the debt instrument in accordance with Article 325w(3) of Regulation (EU) No 575/2013; |\n| VD | = | the market value of the instrument from which the exposure arises for the institution, calculated under the assumption that, at the time of the calculation of the gross JTD amount for that exposure, the debt instrument defaulted and experienced a recovery rate that is calculated with respect to the face value of the debt instrument and which shall be equal to (1–LGD); |\n| VF | = | VF as specified in Article 1(2) of this Regulation; |\n\n| (b) | for exposures to debt instruments classified as non-senior debt instruments, the notional amount of the instrument from which the exposure arises shall be zero. |\n| --- | --- |\n\n2. For the purposes of Article 325w(5) of Regulation (EU) No 575/2013, the notional amount of the instrument from which the exposure arises, and that is not a cash equity instrument, shall be zero.",
+      "text_sha256": "cec000fe9b596c3f8b2cde45e1168454b2ddc8c790dfadf833d3aaeec24859e6",
+      "md_span": {
+        "start": 3066,
+        "end": 5189
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2257:2022-08-11--14ca107df3d43b9d76cb86052482c47ad30efedf8136d31e63d8c402bc74f26b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 5222,
+        "end": 5373
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

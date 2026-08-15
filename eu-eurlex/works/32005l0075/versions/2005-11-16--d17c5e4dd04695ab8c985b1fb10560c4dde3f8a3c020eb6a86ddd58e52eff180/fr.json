@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0075:2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180",
+  "language": "fr",
+  "title": "Directive 2005/75/EC",
+  "valid_from": "2005-11-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0075/versions/2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180/fr.xml",
+    "sha256": "40300ea56534fa617002c76203cd97ed876d8dfe592d6bb9d296799b2147455b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0075"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005l0075:2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 78, paragraphe 2, de la directive 2004/18/CE, les points b) et c) sont remplacés par le texte suivant:\n\n| «b) | le seuil prévu à l'article 67, paragraphe 1, point a), sur le seuil révisé applicable aux marchés publics de services passés par les pouvoirs adjudicateurs visés à l'annexe IV; |\n| --- | --- |\n\n| c) | les seuils prévus à l'article 8, premier alinéa, point b), et à l'article 67, paragraphe 1, points b) et c), sur le seuil révisé applicable aux marchés publics de services passés par les pouvoirs adjudicateurs qui ne sont pas visés à l'annexe IV.» |\n| --- | --- |",
+      "text_sha256": "0c4565aeea16184b4eda1de93b226c239a4fbddbc5a6126af532544a4a58d702",
+      "md_span": {
+        "start": 631,
+        "end": 1236
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005l0075:2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 31 janvier 2006.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.",
+      "text_sha256": "d96214e7b2348463d5e6d2f7d6b34c83e0a115d75f9fe7198a1347de0f220188",
+      "md_span": {
+        "start": 1269,
+        "end": 1732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32005l0075:2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le jour de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "b8d03b4357c0490265a7d0d63431844731ac7396199e3001ed99651d2c886f06",
+      "md_span": {
+        "start": 1765,
+        "end": 1883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32005l0075:2005-11-16--d17c5e4dd04695ab8c985b1fb10560c4dde3f8a3c020eb6a86ddd58e52eff180#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1916,
+        "end": 1989
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004l0039:2018-01-03--012e9a0f53eb5d36f352f2e79712c8976ecf171763aa3ca444a642a009228606",
+  "language": "en",
+  "title": "Directive 2004/39/EC",
+  "valid_from": "2018-01-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004l0039/versions/2018-01-03--012e9a0f53eb5d36f352f2e79712c8976ecf171763aa3ca444a642a009228606/en.html",
+    "sha256": "4fe248c8363cfcaa3b62b2277485d318f1cc26d0e91a9780cd186840e12be4cd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0039-20180103"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32004l0039:2018-01-03--012e9a0f53eb5d36f352f2e79712c8976ecf171763aa3ca444a642a009228606#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "02004L0039 — EN — 03.01.2018 — 005.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B DIRECTIVE 2004/39/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p.1) repealed by: Official Journal No page date Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 L 173 349 12.6.2014",
+      "text_sha256": "482c32b20fb77b2bae0afc6c94a81c200bbf7473fa07f5090bb4822258269416",
+      "md_span": {
+        "start": 653,
+        "end": 1550
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

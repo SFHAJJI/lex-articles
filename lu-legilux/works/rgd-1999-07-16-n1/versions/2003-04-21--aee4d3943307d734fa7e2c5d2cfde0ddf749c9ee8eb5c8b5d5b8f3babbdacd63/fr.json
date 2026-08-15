@@ -1,0 +1,197 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/12/2002 : Règlement grand-ducal du 16 juillet 1999 portant nomenclature et classification des établissements classés.",
+  "valid_from": "2003-04-21",
+  "valid_to": "2003-05-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-07-16-n1/versions/2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63/fr.pdf-memorial/eli-etat-leg-memorial-2003-a48-fr-pdf.pdf",
+    "sha256": "ff325ca002037e09dbe100a59bf1d173491b1ea689874f929aa988e5bee07b48",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/07/16/n1/consolide/20030421/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement concerne l’évaluation des incidences sur l’environnement des projets publics et privés susceptibles d’avoir des incidences notables sur l’environnement.",
+      "text_sha256": "07d2b2115648ed7724d401ca7c9ddf03af01bad5d656b464462c91f3bf577019",
+      "md_span": {
+        "start": 743,
+        "end": 916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Au sens du présent règlement, on entend par: 1. \"projet\": la réalisation de travaux de construction ou d’autres installations ou ouvrages ainsi que d’autres interventions dans le milieu naturel ou le paysage, y compris celles destinées à l’exploitation des ressources du sol. 2. \"maître d’ouvrage\": soit l’auteur d’une demande d’autorisation concernant un projet privé, soit l’autorité publique qui prend l’initiative à l’égard d’un projet. 3. \"Ministre\": le membre du Gouvernement ayant l’environnement dans ses attributions. 4. \"autorité compétente\": l’administration de l’Environnement.",
+      "text_sha256": "7666fbe929aed2f267e014559860f65a74888e97b70dd9a4f9689be412632cc9",
+      "md_span": {
+        "start": 963,
+        "end": 1552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Font partie intégrante du présent règlement les annexes suivantes: Annexe I: Liste des projets visés par l'article 4. paragraphe a) et table de concordance avec la nomenclature des établissements classés Annexe II: Liste des projets visés par l'article 4. paragraphe b) et table de concordance avec la nomenclature des établissements classés Annexe III: Critères de sélection visés à l'article 4. paragraphe b) Annexe IV: Informations visées à l'article 5, paragraphe 2.",
+      "text_sha256": "5b983d5342b3efae91e1acc7073f697eca186e2cfadada30e509db992a123d87",
+      "md_span": {
+        "start": 1595,
+        "end": 2065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Projets soumis à une évaluation des incidences",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sous réserve des dispositions de l’article 5, a) les établissements figurant à l’annexe I du présent règlement sont soumis d’office à une évaluation en ce qui concerne leurs incidences sur l’environnement. Il en est de même de toute modification ou extension d'un projet visé à l'annexe I qui répond en elle-même aux critères ou aux seuils qui y sont énoncés. b) les établissements figurant à l’annexe II du présent règlement sont soumis à une évaluation dès lors qu’il résulte d’un examen, cas par cas, effectué par l’autorité compétente, qu’un projet déterminé est susceptible d’avoir des incidences notables sur l’environnement. Pour l’examen cas par cas, il est tenu compte des critères de sélection pertinents dont question à l’annexe III. Il en est de même de toute modification ou extension des projets figurant à l'annexe I, à l'exception de ceux mentionnés sous a) du présent article, et ceux figurant à l'annexe II, déjà autorisés, réalisés ou en cours de réalisation, qui peut avoir des incidences négatives importantes sur l'environnement et des projets visés à l'annexe I qui servent exclusivement ou essentiellement à la mise au point et à l'essai de nouvelles méthodes ou produits et qui ne sont pas utilisés pendant plus de deux ans.",
+      "text_sha256": "f50939d079200d054112dd0fee827c34b66fd0a7e490e6442063f3ca47009d96",
+      "md_span": {
+        "start": 2147,
+        "end": 3396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Contenu des évaluations des incidences sur l’environnement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. L’évaluation des incidences sur l’environnement identifie, décrit et évalue de manière appropriée, en fonction de chaque cas particulier et conformément aux dispositions suivantes, les effets directs et indirects d’un projet sur les facteurs suivants: a) l’homme, la faune et la flore, b) le sol, l’eau, l’air, le climat et le paysage, c) les biens matériels et le patrimoine culturel, d) l’interaction entre les facteurs visés aux premier, deuxième et troisième tirets. 734 2. Dans le cas des projets qui, en application de l’article 4, doivent être soumis à une évaluation des incidences sur l’environnement, le maître d’ouvrage fournit, sous une forme appropriée, les informations spécifiées à l’annexe IV dans la mesure où a) l’autorité compétente considère que ces informations sont appropriées à un stade donné de la procédure d’autorisation, par rapport aux caractéristiques spécifiques d’un projet donné ou d’un type de projet et par rapport aux éléments environnementaux susceptibles d’être affectés; b) le maître d’ouvrage est raisonnablement en mesure de rassembler ces données, compte tenu, entre autres, des connaissances et des méthodes d’évaluation existantes. 3. Les informations à fournir par le maître d’ouvrage, conformément au paragraphe précédent, comportent au minimum: a) une description du projet comportant des informations relatives au site, à la conception et aux dimensions du projet, b) une description des mesures envisagées pour éviter et réduire des effets négatifs importants et, si possible, y remédier, c) les données nécessaires pour identifier et évaluer les effets principaux que le projet est susceptible d’avoir sur l’environnement, d) une esquisse des principales solutions de substitution qui ont été examinées par le maître d’ouvrage et une indication des principales raisons de son choix, eu égard aux effets sur l’environnement, e) un résumé non technique des informations visées aux points précédents. 4. En cas de besoin, l'autorité compétente ainsi que les autorités visées au paragraphe 2 de l’article 6, mettent les informations appropriées, notamment eu égard à l’article 5, paragraphe 1, à la disposition du maître d’ouvrage.",
+      "text_sha256": "cc58a44be9b0c4ef18e642281e55e811f3ab1e9e79bceddae7b1b7ec9725c84d",
+      "md_span": {
+        "start": 3490,
+        "end": 5670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Procédures relatives aux évaluations des incidences sur l’environnement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Si le maître d’ouvrage le requiert avant de présenter une demande d’autorisation, l’autorité compétente rend un avis sur les informations à fournir par le maître d’ouvrage conformément à l’article 5. L’autorité compétente consulte le maître d’ouvrage et les autorités visées au paragraphe 2 du présent article avant de rendre son avis. Le fait que l’autorité compétente ait rendu un avis au titre du présent paragraphe ne l’empêche pas de demander ultérieurement au maître d’ouvrage de présenter des informations complémentaires. 2. Dès lors qu’un projet déterminé concerne ou est susceptible de concerner d’autres autorités, en raison de leurs responsabilités spécifiques en matière d’environnement, l’autorité compétente invite ces derniers à donner leur avis sur les informations fournies par le maître d’ouvrage. A cet effet, elle leur transmet les informations recueillies dans ce contexte. 3. Le résultat des consultations et les informations recueillies en vertu du présent règlement et des dispositions en matière de coopération transfrontière telles que prévues par la loi du 10 juin 1999 doivent être pris en considération dans le cadre de la procédure d’autorisation.",
+      "text_sha256": "6d69f5e0b642650cd71a5e23485750b7d491ecffc8adde9b8478b3887ac80a98",
+      "md_span": {
+        "start": 5777,
+        "end": 6958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Publicité des décisions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsqu'une décision d'octroi ou de refus d'autorisation a été prise, la publicité des décisions telle que prévue par la loi du 10 juin 1999 porte sur les informations suivantes: - la teneur de la décision et les conditions dont celle-ci est éventuellement assortie, - les motifs et considérations principaux qui ont fondé la décision, - une description, le cas échéant, des principales mesures destinées à éviter, réduire et, si possible, compenser les effets négatifs importants.",
+      "text_sha256": "d36e50244b770170663e97649166de403434d1724e2067afe35bcbadce53b4d3",
+      "md_span": {
+        "start": 7017,
+        "end": 7497
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Restrictions spéciales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les dispositions du présent règlement n’affectent pas le respect des restrictions imposées par les dispositions légales, réglementaires et administratives et les pratiques juridiques établies en matière de secret commercial et industriel, notamment de propriété intellectuelle, ainsi qu’en matière de protection de l’intérêt public.",
+      "text_sha256": "c62210731ab738c0cb20be0c6b815cc48ec35bbf8aaa5cd9a09570905ac10f80",
+      "md_span": {
+        "start": 7555,
+        "end": 7887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Dispositions transitoires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les dispositions du présent règlement sont applicables aux évaluations des incidences sur l'environnement qui font partie intégrante d'un dossier de demande d'autorisation dont l'affichage n'a pas encore été effectué.",
+      "text_sha256": "9a8f95797db330bd473db5890bc8b07cdb3a0030f45cda5d64a722f935bbd6d3",
+      "md_span": {
+        "start": 7948,
+        "end": 8165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1999-07-16-n1:2003-04-21--aee4d3943307d734fa7e2c5d2cfde0ddf749c9ee8eb5c8b5d5b8f3babbdacd63#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l’Environnement est chargé de l’exécution du présent règlement qui sera publié au Mémorial. Pour le Ministre de l'Environnement, Palais de Luxembourg, le 7 mars 2003. Le Secrétaire d'État, Henri Eugène Berger Dir. 85/337/CEE, 97/11/CE 735 Annexe I Liste des projets visés par l'article 4. point a) et table de concordance avec la nomenclature des établissements classés N° N° de la dénomination de l’établissement Courant nomenclature 1. 303.1. Raffineries de pétrole brut (à l’exclusion des entreprises fabriquant uniquement des lubrifiants à partir de pétrole brut) ainsi que les installations de gazéification et de liquéfaction d’au moins 500 tonnes de charbon ou de schiste bitumineux par jour. 2. 78A.1) Centrales thermiques et autres installations de combustion d’une puissance calorifique d’au moins 300 MW. 143.1)a) Centrales nucléaires et autres réacteurs nucléaires, y compris le démantèlement ou le déclassement de ces centrales ou réacteurs (à l’exception des installations de recherche pour la production et la transformation des matières fissiles et fertiles, dont la puissance maximale ne dépasse pas 1 kW de charge thermique continue). 3. 109 a) Installations pour le retraitement de combustibles nucléaires irradiés. 108 Installations destinées: 1) à la production ou à l’enrichissement de combustibles nucléaires, 2) au traitement de combustibles nucléaires irradiés ou de déchets hautement radioactifs, 3) à l’élimination définitive de combustibles nucléaires irradiés, 4) exclusivement à l'élimination définitive de déchets radioactifs, 5) exclusivement au stockage (prévu pour plus de dix ans) de combustibles nucléaires irradiés ou de déchets radioactifs dans un site différent du site de production. 4. 239.1) Usines intégrées de première fusion de la fonte et de l’acier. 239.2)a) Installations destinées à la production de métaux bruts non ferreux à partir de minerais, de concentrés de minerai ou de matières premières secondaires selon des procédés métallurgiques, chimiques ou électrolytiques. 5. 20 Installations destinées à l’extraction de l’amiante ainsi qu’au traitement et à la transformation de l’amiante et de produits contenant de l’amiante: pour les produits en amiante-ciment, une production annuelle de plus de 20 000 tonnes de produits finis; pour les garnitures de friction, une production annuelle de plus de 50 tonnes de produits finis; pour les autres utilisations de l’amiante, une utilisation de plus de 200 tonnes par an. 6. 293.1 Installations chimiques intégrées, à savoir les installations prévues pour la fabrication à l’échelle industrielle de substances par transformation chimique, où plusieurs unités sont juxtaposées et fonctionnellement liées entre elles, et qui sont destinées: i) à la fabrication de produits chimiques organiques de base; ii) à la fabrication de produits chimiques inorganiques de base; iii) à la fabrication d’engrais à base de phosphore, d’azote ou de potassium (engrais simples ou composés); iv) à la fabrication de produits de base phytosanitaires et de biocides; v) à la fabrication de produits pharmaceutiques de base selon un procédé chimique ou biologique; vi) à la fabrication d’explosifs. 7. 9 Construction d’aéroports dont la piste de décollage et d’atterrissage a une longueur d’au moins 2.100 mètres. 8. 358A.2) Voies navigables et ports de navigation intérieure permettant l’accès de bateaux de plus de 1.350 tonnes. 286.1) Ports de commerce, quais de chargement et de déchargement reliés à la terre et avant-ports (à l’exclusion des quais pour transbordeurs) accessibles aux bateaux de plus de 1.350 tonnes. 9. 124.3) Mise en décharge de déchets dangereux. 736 208.4) Installations d'élimination de déchets dangereux par incinération. 338.1) Installations d'élimination de déchets dangereux par traitement chimique. 10. 208.3) Installations d’élimination des déchets non dangereux, par incinération, d’une capacité de plus de 100 tonnes par jour. 338.6) Installations d'élimination des déchets non dangereux par traitement chimique, d'une capacité de plus de 100 tonnes par jour. 11. 136A.2) Eaux souterraines: Dispositifs de captage ou de recharge artificielle des eaux souterraines lorsque le volume annuel d’eaux à capter ou à recharger atteint ou dépasse 10 millions de mètres cubes. 12. 343A.2) et 3) Transvasement de ressources hydrauliques: 2) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d’éventuelles pénuries d’eau et que le volume annuel des eaux transvasées dépasse 100 hectomètres cubes. 3) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2000 hectomètres cubes et que le volume des eaux transvasées dépasse 5 % de ce débit. Dans les deux cas, les transvasements d’eau potable amenée par canalisation sont exclus. 13. 136.2) Installations de traitement des eaux résiduaires d’une capacité supérieure à 150.000 équivalents-habitants. 14. 271.2) Extraction de pétrole et de gaz naturel à des fins commerciales, lorsque les quantités extraites dépassent quotidiennement 500 tonnes de pétrole et 500.000 mètres cubes de gaz. 15. 40.2) Barrages et autres installations destinées à retenir les eaux ou à les stocker de façon permanente lorsque le nouveau volume d’eau ou un volume supplémentaire d’eau à retenir ou à stocker dépasse 10 hectomètres cubes. 16. 293.8) Canalisations pour le transport de gaz, de pétrole ou de produits chimiques, d’un diamètre supérieur à 800 millimètres et d’une longueur supérieure à 40 kilomètres. 17. 361.3) Installations destinées à l’élevage intensif de volailles disposant de plus de 85.000 emplacements pour poulets ou de 60.000 emplacements pour poules; 285.9) Installations destinées à l’élevage intensif de porcs disposant de plus de 3.000 emplacements pour porcs de production (de plus de 30 kilogrammes) ou de 900 emplacements pour truies. 18. 262.1) Installations industrielles destinées à la fabrication de pâte de papier à partir de bois ou d’autres matières fibreuses; 262.3) Installations industrielles destinées à la fabrication de papier et de carton, d’une capacité de production supérieure à 200 tonnes par jour. 19. 73.2) Carrières et exploitations minières à ciel ouvert lorsque la surface du site dépasse 25 hectares ou, pour les tourbières, 150 hectares. 20. 143.3)c) Construction de lignes aériennes de transport d’énergie électrique d’une tension de 220 kV ou plus et d’une longueur de plus de 15 kilomètres. 21. 293.3) Installations de stockage de pétrole, de produits pétrochimiques ou de produits chimiques, d’une capacité de 200.000 tonnes ou plus. Annexe II Liste des projets visés par l'article 4. point b) et table de concordance avec la liste de la nomenclature des établissements classés N° N° de la Désignation de l’établissement Courant nomenclature 1. Agriculture, sylviculture et aquaculture 1.b) 10A Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive. 1.c) 204A Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres concernant une surface d'un seul tenant de plus de 10 ha. 737 1.d) 51A Boisement et déboisement: a) premier boisement en vue de la reconversion des sols d'une superficie d'un seul tenant de plus de 30 ha b) déboisement en vue de la reconversion des sols d'une superficie d'un seul tenant de plus de 20 ha. 1.e) 285.8) Installations destinées à l’élevage intensif de porcs disposant de plus de 2.000 emplacements pour porcs de production (de plus de 30 kg) ou de 750 emplacements pour truies (projets non visés par l’annexe I). 361.2) Installations destinées à l’élevage intensif de volailles disposant de plus de 40.000 emplacements pour la volaille (projets non visés par l’annexe I). 1.f) 24 Aquaculture (Pisciculture intensive). 2. Industrie extractive 2.a) 73.1) Carrières, exploitations minières à ciel ouvert et tourbières (projets non visés à l’annexe I). 2.b),c) 246.2) Exploitation minière souterraine; extraction de minéraux par dragage marin ou fluvial. 2.d) 170 Forages en profondeur (Forages géothermiques, forages pour les stockages des déchets nucléaires et pour l’approvisionnement en eau)(à l’exception des forages pour étudier la stabilité des sols). 2.e) 246.3) Installations industrielles de surface pour l’extraction de minerais. 271.1) Extraction de pétrole et de gaz. 314 Schistes bitumineux (Extraction, distillation, raffinage, transformation de). 85B Installations industrielles de surface pour l’extraction de charbon. 3. Industrie de l’énergie 3.a) 143.1)c) Installations industrielles et artisanales de production d’énergie électrique (projets non visés à l’annexe I). 144.1) a) Installations industrielles destinées à la production de vapeur et d’eau chaude (projets non visés à l’annexe I). 3.b) 143.3)a) Installations industrielles destinées au transport d’énergie électrique par lignes aériennes (projets non visés à l’annexe I). 144. 2) Installations industrielles destinées au transport de vapeur, d’eau surchauffée ou de fluides caloriporteurs. 183 Installations industrielles destinées à la production ou au transport de gaz. 3.c) 184 Stockage aérien de gaz naturel d’une capacité égale ou supérieure à 100.000 mètres cubes. 3.d) 181 Stockage souterrain de gaz combustibles d’une capacité en litres d’eau égale ou supérieure à 100.000 litres. 3.e) 107 Stockage aérien de plus de 100 mètres cubes de combustibles fossiles. 3.f) 200 Agglomération industrielle de houille et de lignite. 3.g) 122 Installations destinées à stocker en permanence ou à éliminer définitivement des déchets radioactifs (autres que celles visées à l’annexe I). 123 Installations pour la collecte et le traitement de déchets radioactifs (autres que celles visées à l’annexe I). 3.h) 143.1)b) Centrales hydroélectriques d’une puissance électrique supérieure à 50 MW. 3.i) 143.1)g) Eoliennes à partir d’une production d’énergie électrique d’une puissance de 2,5 MW par site. 4. Production et travail des métaux 4.a) 240.2) Installations pour la production de fonte ou d’acier (fusion primaire ou secondaire), y compris les équipements pour coulée continue d’une capacité de plus de 2,5 tonnes par heure. 4.b) 240.4)i) Installations destinées à la transformation des métaux ferreux par laminage à chaud avec une capacité supérieure à 20 tonnes d’acier brut par heure. 240.4)ii) Installations destinées à la transformation des métaux ferreux par forgeage à l’aide de marteaux dont l’énergie de frappe dépasse 50 kilojoules par marteau et lorsque la puissance calorifique mise en œuvre est supérieure à 20 MW. 240.6) Installations de traitement de surface et revêtement des métaux. 738 4.c) 168.2) Fonderies de métaux ferreux d’une capacité de production supérieure à 20 tonnes par jour. 4.d) 120 Fabrication, raffinage du cuivre. 240.3) Installations de production, y compris la fusion, l’alliage, l’étirage et le laminage des métaux non ferreux excepté les métaux précieux. 4.e) 240.6) Installations de traitement de surface et revêtement des métaux. 236.1) Traitement en surface de matières plastiques utilisant un procédé électrolytique ou chimique. 4.f) 35 Automobiles: construction et assemblage et construction de moteurs. 4.g) 82 Chantiers navals. 4.h) 33.1)b) Ateliers et garages de réparation et d’entretien pour aéronefs se situant dans une zone d’activités commerciale, artisanale ou industrielle et occupant 50 personnes et plus sur le site. 33.2) Ateliers et garages de réparation et d’entretien pour aéronefs se situant à l’extérieur d’une zone d’activités commerciale, artisanale ou industrielle. 4.i) 162 Atelier de construction de matériel ferroviaire d’une capacité de transformation des métaux ferreux supérieure à 2,5 tonnes par heure. 4.j) 156.2) Emploi d’explosifs. 4.k) 245A Minerai métallique: installation de grillage, de frittage ou de calcination de minerai métallique. 5. Industrie minérale 5.a) 104 Cokeries. 5.b) 98.2) Installations destinées à la production de clinker (ciment) dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour, ou de chaux dans des fours rotatifs avec une capacité de production supérieure à 50 tonnes par jour, ou dans d’autres types de fours avec une capacité de production supérieure à 50 tonnes par jour. 5.c) 19.1) Amiante: fabrication, traitement, transformation et utilisation de l’amiante ou de produits contenant de l’amiante (projets non visés à l’annexe I). 5.d) 353.2) Installations destinées à la fabrication du verre, y compris celles destinées à la production de fibres de verre avec une capacité de fusion supérieure à 20 tonnes par jour. 5.e) 235A Matières minérales: installations destinées à la fusion de matières minérales, y compris celles destinées à la production de fibres minérales avec une capacité de fusion supérieure à 20 tonnes par jour. 5.f) 79A.1) Céramique: installations destinées à la fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines, avec une capacité de production supérieure à 75 tonnes par jour, et/ou une capacité de four de plus de 4 m3 et de plus de 300 kg/m3 par four. 6. Industrie chimique (projets non visés à l’annexe I) 6.a) 293.4) Industrie chimique: Traitement de produits intermédiaires et fabrication de produits chimiques en général. 6.b) 270.1) Fabrication, transvasement et traitement de pesticides, de produits phytopharmaceutiques et agropharmaceutiques. 267.1)i. Fabrication de peinture (produits de préparation du procédé de peinture, produits de peinture, produits de brillance et autres produits de protection). 269 Fabrication et dépôts de plus de 30 kg de peroxydes. 6.c) 293.2) Installations de stockage de pétrole, de produits pétrochimiques ou de produits chimiques, d’une capacité de 20.000 tonnes ou plus. 7. Industrie alimentaire 7.a) 115 Corps gras d’origine animale ou végétale (traitement industriel). 7.b) 113 Conserverie de produits animaux et végétaux. 7.c) 214.1) Fabrication de produits laitiers. 174 Fromageries industrielles. 7.d) 60.b) Brasseries et malteries: lorsque la capacité de production annuelle est supérieure à 5.000 hl. 739 7.e) 94.1)b) Chocolateries et confiseries se situant dans une zone d’activités commerciale, artisanale ou industrielle et occupant 150 personnes et plus sur le site de fabrication. 94.2.b) Chocolateries et confiseries se situant à l’extérieur d’une zone d’activités commerciale, artisanale ou industrielle et occupant 15 personnes et plus sur le site de fabrication. 189 Fabrication de glucose, sirop ou sucre de fécule. 283 Fabrication et utilisation industrielle du sirop de plus de 1.000 kg par an de pommes, poires et autres fruits ou matières végétales saccharifères. 319 Siroperies industrielles. 7.f) 1.2) Abattoirs avec une capacité de production de carcasses supérieure à 50 tonnes par jour. 7.g) 159 Féculeries. 7.h) 278 Fabrication de la farine et d’huile de poisson. 7.i) 329 Sucreries industrielles. 8. Industrie textile, industries du cuir, du bois et du papier 8.a) 262.2 Installations industrielles destinées à la fabrication de papier et de carton dont la capacité de production est supérieure à 20 tonnes par jour (projets non visés à l’annexe I). 8.b) 334A Textiles et fibres: Installations destinées au prétraitement (opération de lavage, blanchiment, mercerisation) ou à la teinture de fibres ou de textiles dont la capacité de traitement est supérieure à 10 tonnes par jour. 8.c) 332.2) Tanneries, lorsque la capacité de traitement est supérieure à 12 tonnes de produits finis par jour. 8.d) 76 Usine de production et de traitement de cellulose. 9. Industrie du caoutchouc 68 Caoutchouc (Fabriques de, fabrication d’articles en, ateliers de vulcanisation). 10. Projets d’infrastructure 10.a) 363.1) Création / aménagement de zones d’activités commerciales, artisanales et industrielles. 10.b) 81 Chantiers de construction. 1) de plus de 10 mètres en-dessous du niveau de la voie publique la plus proche. 2) dans le rocher se situant à plus de 3 mètres en-dessous du niveau de la voie publique la plus proche. 226.3) Un ou plusieurs magasins pour la vente au détail et en gros dont les locaux de vente et les locaux attenants à ceux-ci et servant de dépôts de marchandises (plusieurs magasins dans un même bâtiment) ont une surface totale de plus de 10.000 m2. 36.2), 36.3) Garages et parkings couverts, ouverts au public ou à utilisation privée, de plus de 1.000 véhicules. 10.c) 90.1),2) Construction de plates-formes ferroviaires et intermodales et construction de terminaux intermodaux (projets non visés à l’annexe I). 10.d) 9.2) Construction d’aéroports (projets non visés à l’annexe I). 10.e) 286.2 Construction de ports et d'installations portuaires, y compris de ports de pêche (projets non visés à l’annexe I). 10.f) 358A.1), 3) Voies navigables et ouvrages de canalisation et de régularisation de cours d’eau (projets non visés à l’annexe I). 10.g) 40.1) Barrages et autres installations destinés à retenir les eaux ou à les stocker d’une manière durable (projets non visés à l’annexe I). 10.h) 343 Transports: Tramways, métros aériens et souterrains, lignes suspendues ou lignes analogues de type particulier servant exclusivement ou principalement au transport des personnes. 10.i) 185 Gazoducs (Conduites à gaz et cabines de détente d’une pression supérieure à 4 bars)(projets non visés par l’annexe I). 256 Oléoducs (projets non visés par l’annexe I). 740 10.j) 25 Aqueducs (Conduites d’eau d’une pression nominale supérieure à 1,6 MPa (16 bar)) sur de longues distances. 10.l) 136A.1) Eaux souterraines: Dispositifs de captage ou de recharge artificielle des eaux souterraines (projets non visés à l’annexe I). 10.m) 343A.1) Transvasement de ressources hydrauliques: Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux. Les transvasements d’eau potable amenée par canalisation sont exclus (projets non visés à l’annexe I). 11. Autres projets 11.a) 275.1) Pistes ou terrains spécialement aménagés pour courses et essais de véhicules motorisés. 11.b) Installations d’élimination de déchets (projets non prévus à l’annexe I). 124.1) Décharges recevant plus de 10 tonnes par jour ou d'une capacité totale de plus de 25.000 tonnes, à l'exclusion des décharges de déchets inertes. 124.2) Autres décharges de déchets que celles mentionnées au point 1) 208.1) Installations d'incinération de déchets en général. 208.2) Installations pour l'incinération des déchets municipaux, telles que définies par la réglementation grand-ducale concernant la réduction de la pollution atmosphérique en provenance des installations d'incinération des déchets municipaux, d'une capacité supérieure à 3 tonnes par heure. 338.2) Installations d'élimination ou de valorisation de déchets dangereux avec une capacité de plus de 10 tonnes par jour. 338.3) Installations d'élimination de déchets non dangereux avec une capacité de plus de 50 tonnes par jour. 338.4) Installations de valorisation de déchets non dangereux avec une capacité de plus de 50 tonnes par jour. 338.5) Installations de compostage de boues d'épuration. 338.7) Autres installations de traitement de déchets par procédés physiques, chimiques, biologiques et thermiques non mentionnés aux points précédents. 11.c) 136.1) Installations de traitement d’eaux résiduaires pour des établissements du type artisanal, commercial et industriel et pour des constructions comportant plus de 5 habitations, à l’exception des séparateurs d’hydrocarbures et des séparateurs de graisses (projets non visés à l’annexe I). 11.d) 55 Dépôts de boues, voiries, suies, boues d’épuration des eaux et des gaz de plus de 25.000 tonnes. 11.e) 161 Ferrailles: Stockage de ferrailles, y compris les ferrailles provenant de véhicules sur une surface dépassant 50 m2 ou d’un volume dépassant 50 m3. 11. f) 39 Bancs d’essai pour moteurs à combustion interne, turbines et réacteurs. 11.g) 163 Fibres minérales artificielles (Fabrication / production de). 11.h) 148.1) Clos d’équarrissage. 12. Tourisme et loisirs 12.a) 334 Téléphériques, télésièges et remontées mécaniques de tout genre. 12.b) 287 Ports de plaisance. 12.c) 356 Villages de vacances, complexes hôteliers à l’extérieur des zones urbaines et aménagements associés avec un nombre de chambres supérieur à 500 unités. 12.d) 67 Campings ayant plus de 600 emplacements. 12.e) 264.A Parc d’attraction à thème. Annexe III Critères de sélection visés à l'article 4, paragraphe b) 1. Caractéristiques des projets Les caractéristiques des projets doivent être considérées notamment par rapport: - à la dimension du projet, - au cumul avec d'autres projets, - à l'utilisation des ressources naturelles, 741 - à la production des déchets, - à la pollution et aux nuisances, - au risque d'accidents, eu égard notamment aux substances ou aux technologies mises en œuvre. 2. Localisation des projets La sensibilité environnementale des zones géographiques susceptibles d'être affectées par le projet doit être considérée en prenant notamment en compte: - l'occupation des sols existants; - la richesse relative, la qualité et la capacité de régénération des ressources naturelles de la zone; - la capacité de charge de l'environnement naturel, en accordant une attention particulière aux zones suivantes: 1. zones humides; 2. zones côtières; 3. zones de montagnes et de forêts; 4. réserves et parcs naturels; 5. zones répertoriées ou protégées par la législation; zones de protection spéciale, en particulier celles concernant la conservation de toutes les espèces d'oiseaux vivant naturellement à l'état sauvage et celles concernant la conservation des habitats naturels ainsi que la faune et la flore sauvages; 6. zones dans lesquelles les normes de qualité environnementales fixées par les législations nationale et communautaire sont déjà dépassées; 7. zones à forte densité de population; 8. paysages importants du point de vue historique, culturel et archéologique. 3. Caractéristiques de l'impact potentiel Les incidences notables qu'un projet pourrait avoir doivent être considérées en fonction des critères énumérés aux points 1 et 2, notamment par rapport à: - l'étendue de l'impact (zone géographique et importance de la population affectée), - la nature transfrontière de l'impact, - l'ampleur et la complexité de l'impact, - la probabilité de l'impact, - la durée, la fréquence et la réversibilité de l'impact. Annexe IV Informations visées à l'article 5, paragraphe 2 1. Description du projet, y compris en particulier: - une description des caractéristiques physiques de l'ensemble du projet et des exigences en matière d'utilisation du sol lors des phases de construction et de fonctionnement, - une description des principales caractéristiques des procédés de fabrication, par exemple sur la nature et les quantités de matériaux utilisés, - une estimation des types et des quantités des résidus et des émissions attendus (pollution de l'eau, de l'air et du sol, bruit, vibration, lumière, chaleur, radiation, etc.) résultant du fonctionnement du projet proposé. 2. Une esquisse des principales solutions de substitution qui ont été examinées par le maître d'ouvrage et une indication des principales raisons de son choix, eu égard aux effets sur l'environnement. 3. Une description des éléments de l'environnement susceptibles d'être affectés de manière notable par le projet proposé, y compris notamment la population, la faune, la flore, le sol, l'eau, l'air, les facteurs climatiques, les biens matériels, y compris le patrimoine architectural et archéologique, le paysage ainsi que l'interrelation entre les facteurs précités. 4. Une description1 des effets importants que le projet proposé est susceptible d'avoir sur l'environnement résultant: - du fait de l'existence de l'ensemble du projet, - de l'utilisation des ressources naturelles, - de l'émission des polluants, de la création de nuisances ou de l'élimination des déchets, et la mention par le maître d'ouvrage des méthodes de prévisions utilisées pour évaluer les effets sur l'environnement. 5. Une description des mesures envisagées pour éviter, réduire et, si possible, compenser les effets négatifs importants du projet sur l'environnement. 6. Un résumé non technique des informations transmises sur la base des rubriques mentionnées. ___________ 1 Cette description devrait porter sur les effets directs et, le cas échéant, sur les effets indirects secondaires, cumulatifs, à court, moyen et long terme, permanents et temporaires, positifs et négatifs du projet. 742 7. Un aperçu des difficultés éventuelles (lacunes techniques ou manques dans les connaissances) rencontrées par le maître d'ouvrage dans la compilation des informations requises.",
+      "text_sha256": "633e4f475d63bbdb20d19c5b66225e015ca56685d9daf970506ea4debef77e33",
+      "md_span": {
+        "start": 8212,
+        "end": 33103
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 498 line(s) in",
+    "took lines 33..531 of 2180 from the gazette issue"
+  ]
+}

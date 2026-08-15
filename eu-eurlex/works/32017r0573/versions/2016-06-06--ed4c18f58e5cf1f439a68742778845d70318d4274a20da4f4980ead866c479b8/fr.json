@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/573 of 6 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-06",
+  "valid_to": "2017-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0573/versions/2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8/fr.xml",
+    "sha256": "10481f04cc7e2471c5fca3ed3a807d7170f6a9da10bba177441b7cc572b036d2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0573"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les plates-formes de négociation offrant des services de colocalisation veillent, dans les limites de ce que permettent les installations disponibles en termes d'espace, de puissance, de refroidissement ou autre, à ce que ces services soient fournis de manière équitable et non discriminatoire conformément aux dispositions des paragraphes 2, 3 et 4, en ce qui concerne:\n\n| a) | les centres de données qu'elles possèdent et gèrent elles-mêmes; |\n| --- | --- |\n\n| b) | les centres de données qu'elles possèdent mais qui sont gérés par un tiers choisi par elles; |\n| --- | --- |\n\n| c) | les centres de données que possède et gère un tiers avec lequel elles ont un accord d'externalisation pour l'organisation de leur infrastructure d'exécution des ordres, ainsi que de l'accès de proximité à cette infrastructure; |\n| --- | --- |\n\n| d) | les services d'hébergement de proximité que possède et gère un tiers avec lequel elles ont passé un accord contractuel. |\n| --- | --- |\n\n2. Les plates-formes de négociation donnent accès à leur réseau dans les mêmes conditions à tous les utilisateurs qui se sont abonnés aux mêmes services de colocalisation, y compris en termes d'espace, de puissance, de refroidissement, de longueur de câble, d'accès aux données, de connectivité au marché, de technologie, d'appui technique et de types de messages.\n\n3. Les plates-formes de négociation prennent toutes les mesures raisonnables pour surveiller toutes les connexions et les valeurs de latence afin d'assurer un traitement non discriminatoire de tous les utilisateurs des services de colocalisation ayant le même type de latence d'accès.\n\n4. Les plates-formes de négociation mettent à disposition des services de colocalisation individuels sans obligation d'achat de services groupés.",
+      "text_sha256": "b63ae462c0a1e9f63abd9fb6709a5cf5b20104c941f5e2f3f6f60aafc9c11aa3",
+      "md_span": {
+        "start": 712,
+        "end": 2502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes plates-formes de négociation publient sur leurs sites web les informations suivantes concernant leurs services de colocalisation:\n\n| a) | une liste des services fournis, donnant des informations sur l'espace, la puissance, la longueur de câble, le refroidissement, l'accès aux données, la connectivité au marché, la technologie, l'appui technique, les types de messages, les télécommunications ainsi que sur les produits et services connexes; |\n| --- | --- |\n\n| b) | la structure des frais pour chaque service, telle qu'indiquée à l'article 3, paragraphe 2; |\n| --- | --- |\n\n| c) | les conditions d'accès à ce service, y compris les exigences en termes d'informatique et les modalités opérationnelles; |\n| --- | --- |\n\n| d) | les différents types de latences d'accès disponibles; |\n| --- | --- |\n\n| e) | la procédure d'allocation de l'espace de colocalisation; |\n| --- | --- |\n\n| f) | les exigences applicables aux tiers prestataires de services de colocalisation, le cas échéant. |\n| --- | --- |",
+      "text_sha256": "c4e4cd314139bf785348cb4759c810629149479884cb4e1f7befe92c4cef8330",
+      "md_span": {
+        "start": 2535,
+        "end": 3546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les plates-formes de négociation appliquent les mêmes tarifs et offrent les mêmes conditions à tous les utilisateurs d'un même type de service, sur la base de critères objectifs. Les plates-formes de négociation peuvent mettre en place des structures tarifaires différentes pour le même type de service uniquement lorsque ces structures tarifaires reposent sur des critères objectifs, mesurables et non discriminatoires concernant:\n\n| a) | le volume total négocié, le nombre de transactions ou les frais de négociation cumulés; |\n| --- | --- |\n\n| b) | les services ou paquets de services fournis par la plate-forme; |\n| --- | --- |\n\n| c) | l'étendue ou le domaine de l'utilisation demandée; |\n| --- | --- |\n\n| d) | l'apport de liquidité conformément à l'article 48, paragraphe 2, de la directive 2014/65/UE ou en qualité de teneur de marché au sens de l'article 4, paragraphe 1, point 7), de la directive 2014/65/UE. |\n| --- | --- |\n\n2. Les plates-formes de négociation veillent à ce que leur structure tarifaire soit suffisamment détaillée pour permettre aux utilisateurs de prévoir les frais qu'ils devront supporter sur la base au moins des éléments suivants:\n\n| a) | les services facturables, y compris l'activité qui entraîne les frais; |\n| --- | --- |\n\n| b) | les frais dus pour chaque service, avec mention de leur nature fixe ou variable; |\n| --- | --- |\n\n| c) | les rabais, mesures d'incitation ou de dissuasion. |\n| --- | --- |\n\n3. Les plates-formes de négociation mettent à disposition des services individuels, non groupés avec d'autres.",
+      "text_sha256": "5e76944af0beb08c323e186f2bfebef6f65a6ee7f38fe09951f856efcdfbb0a4",
+      "md_span": {
+        "start": 3579,
+        "end": 5142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes plates-formes de négociation publient dans un seul document complet et publiquement accessible sur leur site web les critères objectifs utilisés pour la fixation de leurs frais, structures tarifaires et autres conditions prévus à l'article 3, ainsi que les frais d'exécution, frais auxiliaires, rabais, mesures incitatives et mesures dissuasives.",
+      "text_sha256": "62bf7762b53adf0fae296c201dabbb39c802adfa4f6eefb12e635153e3ae266e",
+      "md_span": {
+        "start": 5175,
+        "end": 5536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes plates-formes de négociation ne proposent pas à leurs membres, participants ou clients de structure tarifaire suivant laquelle toutes leurs transactions, dès qu'elles ont dépassé un certain seuil, bénéficient d'un tarif réduit pour une période donnée, y compris les transactions qui ont été exécutées avant d'atteindre ce seuil.",
+      "text_sha256": "2864af877216beaebed168a78eff69176d80a25f30859cf0c551ff2fdd37e6da",
+      "md_span": {
+        "start": 5569,
+        "end": 5912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06--ed4c18f58e5cf1f439a68742778845d70318d4274a20da4f4980ead866c479b8#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 3 janvier 2018.",
+      "text_sha256": "28996e9e5adacbc906f3fbee01e0d04fc40a951ac6f90204e5c4e282d657041f",
+      "md_span": {
+        "start": 5945,
+        "end": 6129
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

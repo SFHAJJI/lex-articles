@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0849:2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/849 of 6\u00A0May 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-05-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0849/versions/2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6/en.xml",
+    "sha256": "0931fc172046a8cc8e5d7ea4425e90b8ee142910e60a9ac8e0c27be4e3f64995",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0849"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0849:2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the formats and procedures as regards the submission of information by Member States to the Commission and the Cooperation Group for the list of certified wallets pursuant to Article 5d of Regulation (EU) No 910/2014, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Commission Recommendation (EU) 2021/946 (5), and in particular the Architecture and Reference Framework.",
+      "text_sha256": "fe132ed319839e997e613b8150e6fc5b654611ddf3d73cb7f6c0d2f374f149fe",
+      "md_span": {
+        "start": 742,
+        "end": 1239
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_202500849EN.000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0849:2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions apply:\n\n| (1) | ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices; |\n| --- | --- |\n\n| (2) | ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit; |\n| --- | --- |\n\n| (3) | ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user; |\n| --- | --- |\n\n| (4) | ‘wallet provider’ means a natural or legal person who provides wallet solutions; |\n| --- | --- |\n\n| (5) | ‘wallet user’ means a user who is in control of the wallet unit; |\n| --- | --- |\n\n| (6) | ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device; |\n| --- | --- |\n\n| (7) | ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations; |\n| --- | --- |\n\n| (8) | ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit; |\n| --- | --- |\n\n| (9) | ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit. |\n| --- | --- |",
+      "text_sha256": "4f9ba4a865fd3221565a8b08b0645f09d0107ab7f0e26621d6aa38118a69140a",
+      "md_span": {
+        "start": 1272,
+        "end": 3425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0849:2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Member States shall submit the information set out in the Annex to the Commission and to the Cooperation Group through a secure electronic channel made available by the Commission.\n\n2. Member States shall submit the information required under paragraph 1 at least in English.\n\n3. Where there are any changes to the submitted information, including changes to the certification status of the wallets, Member States shall submit the updated information through the channel referred to in paragraph 1.",
+      "text_sha256": "346fa9f3c5a79b00f9a9c1ae2bae13769cd29b3a87030c276ec68971d74204aa",
+      "md_span": {
+        "start": 3458,
+        "end": 3970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0849:2025-05-06--0e4963036145a57a37e6296f3b13891b36f337632b09e20bd9e993f3414fb9e6#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 4003,
+        "end": 4154
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 6 octobre 2009 déterminant la composition et le fonctionnement de la commission permanente d'experts prévue par l'article 29 de la loi concernant le personnel de l'enseignement fondamental.",
+  "valid_from": "2014-04-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-10-06-n2/versions/2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3/fr.xml",
+    "sha256": "7b2c675c0c8d36f49c319d8a7ed64701fa759b80e63f531f606442739f19117d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2/consolide/20140418/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La commission permanente d'experts prévue par l'article 29 de la loi concernant le personnel de l'enseignement fondamental se compose de 12 membres à savoir:\n\n- de trois représentants du ministre ayant l'Éducation nationale dans ses attributions, appelé par la suite le ministre;\n- d'un représentant du ministre ayant la Fonction publique dans ses attributions;\n- d'un représentant du ministre ayant l'Intérieur dans ses attributions;\n- d'un représentant de l'Inspection générale des finances;\n- d'un représentant du STATEC;\n- (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental»;\n- de deux représentants des enseignants;\n- de deux représentants du syndicat des communes.\n\nLes membres de la commission sont nommés par arrêté ministériel pour un mandat renouvelable de trois ans.",
+      "text_sha256": "49acbe5321a822db0680e0e583fa080f7f4001fc8db79b4c831665e80360d8b3",
+      "md_span": {
+        "start": 818,
+        "end": 1645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le ministre désigne parmi les représentants de son département le président et le secrétaire de la commission.",
+      "text_sha256": "c36b7228c9a0b48662dd04ca1e58cb8051b598029e3bf1eafc92890a10c657d0",
+      "md_span": {
+        "start": 1680,
+        "end": 1790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La commission se réunit en séance plénière sur convocation du ministre ou du président de la commission.",
+      "text_sha256": "3d5efc7193790e703e1b69512cd4b0003273a515a0b15e2d0fca2769bbeeaba4",
+      "md_span": {
+        "start": 1825,
+        "end": 1929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La commission peut se constituer en sous-commissions chargées chacune de l'étude d'un aspect spécifique et de planification à faire.",
+      "text_sha256": "c8542d72b6a8b46b7e97f41adf5be88eefd41246ef278962d391b5189741017c",
+      "md_span": {
+        "start": 1964,
+        "end": 2096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avec l'accord du ministre, la commission peut recourir à l'avis d'experts indemnisés sur base contractuelle.",
+      "text_sha256": "6fc19eaa339a9d2241dbb65b97494adb6e00b0fa810fe67e13286be703c4da80",
+      "md_span": {
+        "start": 2131,
+        "end": 2239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les rapports et avis que la commission est appelée à produire sont approuvés à la majorité des voix par les membres présents qui doivent être au nombre de 7 au moins, sans qu'un membre puisse s'abstenir du vote. Les opinions minoritaires sont également actées et motivées.",
+      "text_sha256": "1c32271b122a7b5e6193dc44a4d73e453d5f1098787b3c3ba8b938f4bc90ea61",
+      "md_span": {
+        "start": 2274,
+        "end": 2546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les rapports et avis, signés par tous les membres présents, sont transmis au ministre.",
+      "text_sha256": "c8731ca826e079e72b741207a1cbdd0819c073768401a6471134ea830dfb1304",
+      "md_span": {
+        "start": 2581,
+        "end": 2667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres de la commission ont droit à un jeton de présence dont le montant sera fixé par règlement du Gouvernement en Conseil.",
+      "text_sha256": "bfcc6271ca0480ce15d93b1d4f85d5af2d7f40cfa020182e8a577fc1a527e521",
+      "md_span": {
+        "start": 2702,
+        "end": 2831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18--99586e85a07c70942c11b1c6d94c0de1f6ae8270e9ba82977db80ec5458ff8d3#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l'Éducation nationale et de la Formation professionnelle est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7d0b94a30660241e4e19ee887e77f80d19e5e767d56a4253a1e15066b5afe39b",
+      "md_span": {
+        "start": 2866,
+        "end": 3017
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

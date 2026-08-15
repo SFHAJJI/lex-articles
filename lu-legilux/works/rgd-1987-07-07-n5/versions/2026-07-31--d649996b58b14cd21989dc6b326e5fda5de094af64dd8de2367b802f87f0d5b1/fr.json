@@ -1,0 +1,182 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 7 juillet 1987 concernant l'organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l'administration de l'emploi en matière d'indemnisation du chômage complet.",
+  "valid_from": "2026-07-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1987-07-07-n5/versions/2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1/fr.xml",
+    "sha256": "f6cff74947624afb6b9f2aad9a015ef62009d6269124bf31e0728ec72f73fe7c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_1er/19870720",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-07-20",
+      "text_md": "La demande en réexamen des décisions du directeur de l’administration de l’emploi, visées à l’article 35, paragraphe 2. de la loi modifiée du 30 juin 1976 portant\n\n1. création d’un fonds pour l’emploi;\n2. réglementation de l’octroi des indemnités de chômage complet est à introduire, sous peine de forclusion, avant l’expiration d’un délai de 40 jours à dater de la notification de la décision auprès de la commission spéciale chargée des réexamens en matière de chômage complet, dénommée ci-après la commission.\n\nElle doit être adressée par envoi recommandé à la poste au président de la commission et déposée à l’adresse de l’administration de l’emploi; elle contiendra les nom, prénoms, matricule et adresse du requérant, une référence suffisante à la décision critiquée ainsi que l’énoncé des moyens que le requérant entend faire valoir.\n\nLa demande en réexamen n’a pas d’effet suspensif.",
+      "text_sha256": "dec9ebb3f802e882b1e88ee57fba988e25bd71dc135b35781437d3c21b023a40",
+      "md_span": {
+        "start": 830,
+        "end": 1722
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/06/30/n1/jo",
+          "text": "loi modifiée du 30 juin 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_2/20260731",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Le personnel du secrétariat de la commission enregistre la demande en réexamen et adresse à chaque membre titulaire de la commission copie de la demande ensemble avec le dossier administratif.",
+      "text_sha256": "77ae31e7a4cdd59c4b5e9fcd9cbda745102878945ff3b610b292063786586745",
+      "md_span": {
+        "start": 1757,
+        "end": 1949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_3/20260731",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-07-31",
+      "text_md": "**1.** La commission se réunit aux jour, heure et lieu fixés par le président.\n\nLe président adresse les convocations à chacun des membres titulaires de la commission au moins huit jours avant la date prévue pour la session; il avise en même temps chaque suppléant de cette convocation.\n\nTout membre titulaire de la commission empêché d’assister à une session doit en aviser son suppléant et lui transmettre le dossier administratif dont il a obtenu communication conformément aux dispositions de l’article 2.\n\n**2.** L e personnel du secrétariat de la commission fait un exposé de l’affaire.\n\n**3.** Le directeur de l’administration de l’emploi ou son représentant est entendu en ses observations et explications.\n\n**4.** Le président peut convoquer des experts ou conseillers techniques.\n\n**5.** Les séances de la commission ne sont pas publiques\n\n**6.** La commission délibère valablement quand la majorité des membres du groupe des employeurs et du groupe des salariés sont présents.\n\nLes décisions de la commission sont prises à la majorité des voix exprimées.\n\nEn cas d’égalité des voix, le président décide.",
+      "text_sha256": "e687289750742775c476c88fe82c5aee35da755591ca1ed10cdd70575d014684",
+      "md_span": {
+        "start": 1984,
+        "end": 3098
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_4/19870720",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-07-20",
+      "text_md": "**1.** Le président peut demander toute mesure d’instruction complémentaire à l’administration de l’emploi.\n\n**2.** Le président peut exiger la comparution personnelle du requérant qui pourra se faire assister d’un conseil.\n\nDans ce cas le requérant est invité par lettre recommandée à se présenter devant la commission spéciale. Il y aura un délai d’au moins huit jours entre la remise de la convocation à la poste et la date fixée pour la comparution.\n\nLa convocation est valablement faite à l’adresse indiquée dans la demande en réexamen ou au domicile élu dans cette demande.\n\nLe requérant ou son conseil dûment mandaté peut prendre connaissance du dossier administratif à l’administration de l’emploi, sans déplacement des pièces.\n\nS’il ne se présente pas à la date indiquée sur la convocation, il peut être passé outre.",
+      "text_sha256": "1e00f50da9408bc33eb255d52c22eb6269b08738188766323c4b6d1ba0e9aade",
+      "md_span": {
+        "start": 3133,
+        "end": 3958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_5/19870720",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-07-20",
+      "text_md": "La commission peut suppléer d’office aux moyens qui n’ont pas été invoqués. Elle statue par réformation et au fond.",
+      "text_sha256": "d4a22ad43930a09a6fb8c9ed6bfbdcfff7363e739567963ca14a95a0bdd4ff8f",
+      "md_span": {
+        "start": 3993,
+        "end": 4108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_6/19870720",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-07-20",
+      "text_md": "Les décisions de la commission sont prises sur le champ. Le président peut toutefois reporter les délibérations à une date ultérieure. La décision de la commission dans ces cas sera prise au plus tard dans le mois.",
+      "text_sha256": "3f6e3a8c4f02819a9ff58e95784a15c645b6552cc747306962e7837ff9f4e10a",
+      "md_span": {
+        "start": 4143,
+        "end": 4357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_7/20260731",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Le personnel du secrétariat de la commission dresse procès-verbal de la décision de la commission qu’il signe ensemble avec le président et qu’il notifie au requérant par lettre recommandée.",
+      "text_sha256": "604670d4ac93da4851422803e490f3dd493e14fbfd99d0af18b7ce078e8aa85f",
+      "md_span": {
+        "start": 4392,
+        "end": 4582
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_8/20260731",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Pour chaque réunion, les membres de la commission, le président, le personnel du secrétariat ainsi que les experts ou conseillers techniques ont droit à des jetons de présence qui sont fixés comme suit :\n\n|  | Fonctionnaire/Employé de l’État (brut) | Salarié/Indépendant (net) |\n| --- | --- | --- |\n| Président | 30 euros / présence | 30 euros / présence |\n| Membre | 30 euros / présence | 30 euros / présence |\n| Expert / Conseiller technique | 30 euros / présence | 30 euros / présence |\n| Secrétaire | 30 euros / présence | / |",
+      "text_sha256": "e51d2c6c95780fa7c7692d73a994d61acbbf11bf7e35d16bc4a6e6c857b255c4",
+      "md_span": {
+        "start": 4617,
+        "end": 5147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1987-07-07-n5:2026-07-31--d649996b58b14cd21989dc6b326e5fda5de094af64dd8de2367b802f87f0d5b1#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/art_9/19870720",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1987-07-20",
+      "text_md": "Notre Ministre du Travail est chargé de l’exécution du présent règlement qui sortira ses effets le jour de sa publication au Mémorial.\n\nLes demandes en réexamen introduites avant la date de publication au Mémorial de l’arrêté de nomination des membres de la commission sont vidées par la commission nationale de l’emploi.",
+      "text_sha256": "d2cc14e9055719c37b36c1aa16d3622748d9a075648908994f03c8d7af27e341",
+      "md_span": {
+        "start": 5182,
+        "end": 5503
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

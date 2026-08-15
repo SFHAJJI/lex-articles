@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r2022:2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/2022 of 14 July 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-07-14",
+  "valid_to": "2016-11-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r2022/versions/2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3/en.xml",
+    "sha256": "5be761632d091397fd19f62ec93ba527da512a8d1fc71bf088e744442a41842a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R2022"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r2022:2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nA third-country firm applying for the provision of investment services or performance of activities throughout the Union in accordance with the second subparagraph of Article 46(4) of Regulation (EU) No 600/2014 shall submit the following information to ESMA:\n\n| (a) | full name of the firm, including its legal name and any other trading name to be used by the firm; |\n| --- | --- |\n\n| (b) | contact details of the firm, including the head office address, telephone number and email address; |\n| --- | --- |\n\n| (c) | contact details of the person in charge of the application, including telephone number and email address; |\n| --- | --- |\n\n| (d) | website, where available; |\n| --- | --- |\n\n| (e) | national identification number of the firm, where available; |\n| --- | --- |\n\n| (f) | legal entity identifier (LEI) of the firm, where available; |\n| --- | --- |\n\n| (g) | Business Identifier Code (BIC) of the firm, where available; |\n| --- | --- |\n\n| (h) | name and address of the competent authority of the third country that is responsible for the supervision of the firm; where more than one authority is responsible for supervision, the details of the respective areas of competence shall be provided; |\n| --- | --- |\n\n| (i) | the link to the register of each competent authority of the third country, where available; |\n| --- | --- |\n\n| (j) | information on which investment services, activities, and ancillary services it is authorised to provide in the country where the firm is established; |\n| --- | --- |\n\n| (k) | the investment services to be provided and activities to be performed in the Union, together with any ancillary services. |\n| --- | --- |",
+      "text_sha256": "4c640cbfc3f1b0a419f5bb42ca365bf82be6dcdee237b7f6ce920fa96991f70c",
+      "md_span": {
+        "start": 721,
+        "end": 2393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r2022:2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The third-country firm shall inform ESMA, within 30 days, of any change of the information provided under Article 1(a) to (g), (j) and (k).\n\n2. Information provided to ESMA under Article 1(j) shall be provided through a written declaration issued by a competent authority of the third country.\n\n3. The information provided to ESMA under Article 1 shall be in English, using the Latin alphabet. Any accompanying documents provided to ESMA under Article 1 and in paragraph 2 of this Article shall be in English or, where they have been written in a different language, a certified English translation shall also be provided.",
+      "text_sha256": "b5aca6fe18851cb96507df0b0195b7929817c21bb56a99298889a9607fc091b2",
+      "md_span": {
+        "start": 2426,
+        "end": 3062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r2022:2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. A third-country firm shall provide the information referred to in Article 46(5) of Regulation (EU) No 600/2014 to the clients in a durable medium.\n\n2. The information referred to in Article 46(5) of Regulation (EU) No 600/2014, shall be:\n\n| (a) | provided in English or in the official language, or one of the official languages, of the Member State where the services are to be provided; |\n| --- | --- |\n\n| (b) | presented and laid out in a way that is easy to read, using characters of readable size; |\n| --- | --- |\n\n| (c) | without using colours that may diminish the comprehensibility of the information. |\n| --- | --- |",
+      "text_sha256": "de56c4a0b65825e87147753993a8000d1f7546bd52e5218a014d62321b7cf6ab",
+      "md_span": {
+        "start": 3095,
+        "end": 3734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r2022:2016-07-14--c30e66b3aadaa19fecfba853ac2a5bf2153ceed0b2aaf9b092a20d679525b3d3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date referred to in the second paragraph of Article 55 of Regulation (EU) No 600/2014.",
+      "text_sha256": "7c4dbaf6cc262908cffce0dcb602d1235d77b3d6876e0aa2a03e0d0a9644e6c2",
+      "md_span": {
+        "start": 3767,
+        "end": 4030
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

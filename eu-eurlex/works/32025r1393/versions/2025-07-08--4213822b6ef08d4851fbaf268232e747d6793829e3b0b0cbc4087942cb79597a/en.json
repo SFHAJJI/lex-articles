@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1393:2025-07-08--4213822b6ef08d4851fbaf268232e747d6793829e3b0b0cbc4087942cb79597a",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/1393 of 8\u00A0July 2025 amending Delegated Regulatio…",
+  "valid_from": "2025-07-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1393/versions/2025-07-08--4213822b6ef08d4851fbaf268232e747d6793829e3b0b0cbc4087942cb79597a/en.xml",
+    "sha256": "db3d4c428e3b9c41dce0cd04d800bcbddc1d9e75ff3547c2d81b41dd574fc4d8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1393"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1393:2025-07-08--4213822b6ef08d4851fbaf268232e747d6793829e3b0b0cbc4087942cb79597a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 1a is inserted in Delegated Regulation (EU) 2025/1184.\n\n‘Article 1a\n\nBy 31 December 2025, the Commission shall conclude the review of third countries that are not identified as being subject to calls for action or increased monitoring by the FATF, but whose membership in that international standard-setter is suspended, to assess whether to amend the Annex to Delegated Regulation (EU)2016/1675 accordingly.’.",
+      "text_sha256": "f9817a09a10eed781cd05edb6826684237b5b79ea98733262a53fbe9a9ba1641",
+      "md_span": {
+        "start": 702,
+        "end": 1131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1393:2025-07-08--4213822b6ef08d4851fbaf268232e747d6793829e3b0b0cbc4087942cb79597a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1164,
+        "end": 1315
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

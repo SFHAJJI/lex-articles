@@ -1,0 +1,1307 @@
+---
+lex_id: 'eu-eurlex:32015r0061:2015-01-17--3e56ee2b0ca54d5ebae428156d76c6c7dae491388026fb31ddabbd6cf6caa3d2'
+title: 'Commission Delegated Regulation (EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013'
+valid_from: '2015-01-17'
+valid_to: '2020-04-29'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015R0061-20150117'
+source_sha256: '89265b12d45c46a62c9646feef88d2bb40743559413ebb98abfc39fd8a260b6a'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## TITRE I
+
+### **RATIO DE COUVERTURE DES BESOINS DE LIQUIDITÉ**
+
+<a id="art_premier"></a>
+
+### Article premier — Objet
+
+Le présent règlement établit des règles pour préciser l'exigence de couverture des besoins de liquidité prévue à l'article 412, paragraphe 1, du règlement (UE) no 575/2013.
+
+<a id="art_2"></a>
+
+### Article 2 — Champ d'application
+
+1. Le présent règlement s'applique aux établissements de crédit faisant l'objet d'une surveillance en vertu de la directive 2013/36/UE du Parlement européen et du Conseil (1).
+
+2. Les établissements de crédit se conforment aux dispositions du présent règlement sur une base individuelle conformément à l'article 6, paragraphe 4, du règlement (UE) no 575/2013. Les autorités compétentes peuvent exempter entièrement ou partiellement un établissement de crédit de l'application du présent règlement sur une base individuelle conformément aux articles 8 et 10 du règlement (UE) no 575/2013, pour autant que les conditions fixées dans ce règlement soient remplies.
+
+3. Lorsqu'un groupe comprend un ou plusieurs établissements de crédit, l'établissement mère dans l'Union, l'établissement contrôlé par une compagnie financière holding mère dans l'Union ou l'établissement contrôlé par une compagnie financière holding mixte mère dans l'Union applique les obligations énoncées dans le présent règlement sur une base consolidée, conformément à l'article 11, paragraphe 3, du règlement (UE) no 575/2013 et à toutes les dispositions suivantes:
+
+a) les actifs de pays tiers qui satisfont aux exigences fixées au titre II et qui sont détenus par une entreprise filiale dans un pays tiers ne sont pas considérés comme des actifs liquides aux fins de la consolidation lorsqu'ils ne possèdent pas le statut d'actifs liquides en vertu de la législation nationale du pays tiers qui définit l'exigence de couverture des besoins de liquidité;
+
+b) lorsque les sorties de trésorerie d'une entreprise filiale dans un pays tiers sont, en vertu de la législation nationale de ce pays tiers qui définit l'exigence de couverture des besoins de liquidité, soumises à des pourcentages plus élevés que ceux indiqués au titre III, elles sont consolidées en appliquant ces pourcentages plus élevés prévus par la législation nationale dudit pays tiers;
+
+c) lorsque les entrées de trésorerie d'une entreprise filiale dans un pays tiers sont, en vertu de la législation nationale de ce pays tiers qui définit l'exigence de couverture des besoins de liquidité, soumises à des pourcentages plus faibles que ceux indiqués au titre III, elles sont consolidées en appliquant ces pourcentages plus faibles prévus par la législation nationale dudit pays tiers;
+
+d) les entreprises d'investissement au sein du groupe sont soumises aux dispositions de l'article 4 du présent règlement sur une base consolidée ainsi qu'aux dispositions de l'article 412 du règlement (UE) no 575/2013 en ce qui concerne la définition des actifs liquides et des sorties et entrées de trésorerie aussi bien au niveau individuel que consolidé. Pour le reste, les entreprises d'investissement restent soumises à l'exigence détaillée de ratio de couverture des besoins de liquidité instituée pour les entreprises d'investissement par la législation nationale des États membres, en attendant que soit précisée une exigence de ratio de couverture des besoins de liquidité conformément à l'article 508 du règlement (UE) no 575/2013;
+
+e) au niveau consolidé, le montant des entrées de trésorerie correspondant à un établissement de crédit spécialisé visé à l'article 33, paragraphes 3 et 4, n'est pris en compte qu'à hauteur du montant des sorties de trésorerie correspondant à la même entreprise.
+
+<a id="art_3"></a>
+
+### Article 3 — Définitions
+
+Aux fins du présent règlement, on entend par:
+
+| 1) | «actifs de niveau 1» : les actifs d'une liquidité et d'une qualité de crédit extrêmement élevées visés à l'article 416, paragraphe 1, deuxième alinéa, du règlement (UE) no 575/2013; |
+| --- | --- |
+
+| 2) | «actifs de niveau 2» : les actifs d'une liquidité et d'une qualité de crédit élevées visés à l'article 416, paragraphe 1, deuxième alinéa, du règlement (UE) no 575/2013. Les actifs de niveau 2 sont eux-mêmes subdivisés en actifs de niveau 2A et de niveau 2B, conformément au titre II, chapitre 2, du présent règlement; |
+| --- | --- |
+
+| 3) | «coussin de liquidité» : le montant d'actifs liquides détenus par un établissement de crédit conformément au titre II du présent règlement; |
+| --- | --- |
+
+| 4) | «monnaie de déclaration» : la monnaie dans laquelle les éléments de liquidité visés aux titres II et III de la sixième partie du règlement (UE) no 575/2013 doivent être déclarés à l'autorité compétente en application de l'article 415, paragraphe 1, dudit règlement; |
+| --- | --- |
+
+| 5) | «exigence de couverture par les actifs» : le ratio entre les actifs et les passifs tel que déterminé par la législation nationale d'un État membre ou d'un pays tiers à des fins de rehaussement du crédit dans le cadre d'obligations garanties; |
+| --- | --- |
+
+| 6) | «PME» : une micro, petite ou moyenne entreprise au sens de la recommandation 2003/361/CE de la Commission (2); |
+| --- | --- |
+
+| 7) | «sorties nettes de trésorerie» : le montant obtenu en soustrayant les entrées de trésorerie d'un établissement de crédit de ses sorties de trésorerie conformément au titre III du présent règlement; |
+| --- | --- |
+
+| 8) | «dépôt de la clientèle de détail» ou «dépôt de détail» : un passif à l'égard d'une personne physique ou d'une PME, si cette PME relève de la catégorie des expositions sur la clientèle de détail dans le cadre de l'application de l'approche standard ou de l'approche NI pour le risque de crédit, ou un passif à l'égard d'une entreprise éligible au traitement énoncé à l'article 153, paragraphe 4, du règlement (UE) no 575/2013, à condition que les dépôts totaux de cette PME ou de cette entreprise ne dépassent pas 1 000 000 EUR; |
+| --- | --- |
+
+| 9) | «client financier» : un client qui exerce une ou plusieurs des activités visées à l'annexe I de la directive 2013/36/UE en tant qu'activité principale, ou qui est une des entités suivantesa) un établissement de crédit;b) une entreprise d'investissement;c) un établissement financier;d) une entité de titrisation («SSPE»);e) un organisme de placement collectif («OPC»);f) un fonds d'investissement à capital fixe;g) une entreprise d'assurance;h) une entreprise de réassurance;i) une compagnie financière holding ou une compagnie financière holding mixte; |
+| --- | --- |
+
+| 10) | «société d'investissement personnelle» : une entreprise ou une fiducie dont, respectivement, le propriétaire ou le bénéficiaire effectif est une personne physique ou un groupe de personnes physiques étroitement liées, et qui a été créée dans le seul but de gérer le patrimoine de ses propriétaires et n'exerce aucune autre activité commerciale, industrielle ou professionnelle. L'objet d'une société d'investissement personnelle peut comprendre d'autres activités annexes, consistant par exemple à assurer la séparation du patrimoine personnel et du patrimoine professionnel, à faciliter la transmission familiale du patrimoine ou à prévenir un éclatement du patrimoine après le décès d'un membre de la famille, pour autant que ces activités soient liées à son objet principal de gestion du patrimoine des propriétaires; |
+| --- | --- |
+
+| 11) | «tensions» : une détérioration soudaine ou marquée de la liquidité ou de la solvabilité d'un établissement de crédit, provoquée par une modification des conditions de marché ou par des facteurs idiosyncratiques et entraînant un risque significatif que l'établissement de crédit se trouve dans l'impossibilité d'honorer ses engagements arrivant à échéance au cours des 30 prochains jours calendaires; |
+| --- | --- |
+
+| 12) | «prêts sur marge» : des prêts assortis de sûretés accordés à des clients pour leur permettre de prendre des positions avec effet de levier. |
+| --- | --- |
+
+<a id="art_4"></a>
+
+### Article 4 — Ratio de couverture des besoins de liquidité
+
+1. L'exigence détaillée de couverture des besoins de liquidité prévue par l'article 412, paragraphe 1, du règlement (UE) no 575/2013 est égale au ratio entre le coussin de liquidité d'un établissement de crédit et ses sorties nettes de trésorerie sur une période de tensions de 30 jours calendaires, et elle est exprimée en pourcentage. Les établissements de crédit calculent leur ratio de couverture des besoins de liquidité conformément à la formule suivante:
+
+2. Les établissements de crédit maintiennent un ratio de couverture des besoins de liquidité d'au moins 100 %.
+
+3. Par dérogation au paragraphe 2, les établissements de crédit peuvent monétiser leurs actifs liquides pour couvrir leurs sorties nettes de trésorerie durant les périodes de tensions, même si cette utilisation d'actifs liquides est susceptible de se traduire par un recul de leur ratio de couverture des besoins de liquidité en dessous de 100 % au cours de ces périodes.
+
+4. À tout moment, si le ratio de couverture des besoins de liquidité d'un établissement de crédit recule en dessous de 100 % ou si l'on peut raisonnablement s'attendre à ce qu'il recule en dessous de 100 %, les exigences énoncées à l'article 414 du règlement (UE) no 575/2013 s'appliquent. Tant que le ratio de couverture des besoins de liquidité n'a pas été ramené au niveau visé au paragraphe 2, l'établissement de crédit est tenu de déclarer à l'autorité compétente son ratio de couverture des besoins de liquidité conformément au règlement d'exécution (UE) no 680/2014 de la Commission.
+
+5. Les établissements de crédit calculent et assurent le suivi de leur ratio de couverture des besoins de liquidité dans la monnaie de déclaration et dans chacune des monnaies nécessitant une déclaration séparée en application de l'article 415, paragraphe 2, du règlement (UE) no 575/2013, ainsi que de leurs passifs, dans la monnaie de déclaration. Les établissements de crédit déclarent à leur autorité compétente leur ratio de couverture des besoins de liquidité conformément au règlement d'exécution (UE) no 680/2014 de la Commission (3).
+
+<a id="art_5"></a>
+
+### Article 5 — Scénarios de tensions aux fins du ratio de couverture des besoins de liquidité
+
+Les scénarios suivants peuvent être considérés comme représentatifs des circonstances dans lesquelles un établissement de crédit peut être considéré comme soumis à des tensions:
+
+a) le retrait d'une partie significative des dépôts de la clientèle de détail;
+
+b) la perte totale ou partielle des capacités de financement de gros non garanti, notamment les dépôts de gros et autres sources de financement éventuelles telles que les lignes de liquidité ou de crédit, confirmées ou non;
+
+c) la perte partielle ou totale des financements à court terme garantis;
+
+d) des sorties de trésorerie supplémentaires résultant d'un abaissement de la notation de crédit allant jusqu'à trois crans;
+
+e) une hausse de la volatilité des marchés affectant la valeur des sûretés ou leur qualité ou créant des besoins supplémentaires de sûretés;
+
+f) des tirages non programmés sur des facilités de crédit et de liquidité;
+
+g) l'obligation potentielle de racheter des titres de dette ou d'honorer des obligations non contractuelles.
+
+## *CHAPITRE 1*
+
+### ***Dispositions générales***
+
+<a id="art_6"></a>
+
+### Article 6 — Composition du coussin de liquidité
+
+Pour pouvoir entrer dans la composition du coussin de liquidité d'un établissement de crédit, les actifs liquides doivent satisfaire à chacune des exigences suivantes:
+
+a) les exigences générales fixées à l'article 7;
+
+b) les exigences opérationnelles fixées à l'article 8;
+
+c) les critères d'éligibilité à un classement en tant qu'actif de niveau 1 ou de niveau 2 conformément au chapitre 2.
+
+<a id="art_7"></a>
+
+### Article 7 — Exigences générales relatives aux actifs liquides
+
+1. Pour pouvoir être considérés comme des actifs liquides, les actifs d'un établissement de crédit respectent les dispositions des paragraphes 2 à 6.
+
+2. Les actifs correspondent à un bien, un droit ou un intérêt détenu par un établissement de crédit et non grevé. À cet égard, un actif est réputé non grevé lorsque l'établissement de crédit n'est soumis à aucune restriction légale, contractuelle, réglementaire ou autre l'empêchant de liquider, de vendre, de transférer, d'affecter ou, de manière générale, de se défaire de cet actif par une opération active de vente ferme ou de mise en pension dans les 30 jours calendaires suivants. Les actifs suivants sont réputés non grevés:
+
+a) les actifs compris dans un panier qui sont disponibles pour une utilisation immédiate comme sûreté afin d'obtenir un financement supplémentaire dans le cadre de lignes de crédit confirmées mais pas encore financées dont dispose l'établissement de crédit. Il s'agit notamment des actifs placés par un établissement de crédit auprès de l'établissement central d'un réseau coopératif ou d'un système de protection institutionnel. Les établissements de crédit considèrent que les actifs inclus dans le panier sont grevés par ordre de liquidité croissante sur la base du classement de la liquidité figurant au chapitre 2, en commençant par les actifs non admissibles dans le coussin de liquidité;
+
+b) les actifs que l'établissement de crédit a reçus comme sûretés aux fins de l'atténuation du risque de crédit dans le cadre d'opérations de prise en pension ou d'opérations de financement sur titres et qu'il peut céder.
+
+3. Les actifs n'ont pas été émis par l'établissement de crédit lui-même, par son entreprise mère, à moins qu'il ne s'agisse d'une entité du secteur public qui n'est pas un établissement de crédit, par sa filiale ou une autre filiale de son entreprise mère ou par une entité de titrisation avec laquelle il a des liens étroits;
+
+4. Les actifs n'ont pas été émis par l'une des entités suivantes:
+
+a) un autre établissement de crédit, sauf si l'émetteur est une entité du secteur public visée à l'article 10, paragraphe 1, point c) et à l'article 11, paragraphe 1, points a) et b), si l'actif est une obligation garantie visée à l'article 10, paragraphe 1, point f) et à l'article 11, paragraphe 1, points c) et d) ou si l'actif appartient à la catégorie décrite à l'article 10, paragraphe 1, point e);
+
+b) une entreprise d'investissement;
+
+c) une entreprise d'assurance;
+
+d) une entreprise de réassurance;
+
+e) une compagnie financière holding;
+
+f) une compagnie financière holding mixte;
+
+g) toute autre entité exerçant une ou plusieurs des activités énumérées à l'annexe I de la directive 2013/36/UE. Aux fins du présent article, les entités de titrisation sont réputées ne pas faire partie des entités visées au présent point.
+
+5. La valeur des actifs doit pouvoir être déterminée sur la base de prix de marché largement diffusés pouvant facilement être obtenus. En l'absence de prix de marché, la valeur des actifs doit pouvoir être déterminée au moyen d'une formule de calcul simple utilisant des données publiques et ne dépend pas de manière significative d'hypothèses fortes.
+
+6. Les actifs sont cotés sur un marché reconnu ou négociables sur des marchés actifs généralement approuvés de vente ferme ou de mise en pension simple. Ces critères sont évalués séparément pour chaque marché. Un actif admis à la négociation sur une plate-forme organisée qui n'est pas un marché reconnu, que ce soit dans un État membre ou dans un pays tiers, n'est réputé liquide que si cette plate-forme constitue un marché actif et important de vente ferme d'actifs. L'établissement de crédit prend en compte les éléments suivants en tant que critères minimaux pour déterminer si, aux fins du présent paragraphe, une plate-forme de négociation constitue un marché actif et important:
+
+a) des données historiques montrant que le marché est large et profond, telles que des fourchettes de cotation étroites, un volume d'échanges élevé et des participants au marché nombreux et diversifiés;
+
+b) la présence d'une solide infrastructure de marché.
+
+7. Les exigences énoncées aux paragraphes 5 et 6 ne s'appliquent pas:
+
+a) aux pièces et billets de banque visés à l'article 10, paragraphe 1, point a);
+
+b) aux expositions sur les banques centrales visées à l'article 10, paragraphe 1, points b) et d), et à l'article 11, paragraphe 1, point b);
+
+c) à la facilité de liquidité confirmée à usage restreint visée à l'article 12, paragraphe 1, point d);
+
+d) aux dépôts et autres financements dans les réseaux coopératifs et les systèmes de protection institutionnels visés à l'article 16.
+
+<a id="art_8"></a>
+
+### Article 8 — Exigences opérationnelles
+
+1. Les établissements de crédit appliquent des politiques et des limites garantissant que les actifs liquides qui composent leur coussin de liquidité demeurent suffisamment diversifiés à tout moment. À cette fin, les établissements de crédit tiennent compte du degré de diversification entre les différentes catégories d'actifs liquides et au sein d'une même catégorie d'actifs liquides visés au chapitre 2 du présent titre ainsi que de tout autre facteur de diversification pertinent, tel que le type d'émetteurs et de contreparties ou la situation géographique de ces émetteurs et de ces contreparties.
+
+Les autorités compétentes peuvent imposer des restrictions ou des exigences spécifiques relatives aux actifs liquides détenus par un établissement de crédit pour garantir le respect de l'exigence énoncée dans le présent paragraphe. Une telle restriction ou exigence ne s'applique cependant pas:
+
+a) aux catégories suivantes d'actifs de niveau 1:
+
+i) les pièces et billets de banque visés à l'article 10, paragraphe 1, point a);
+
+ii) les expositions sur les banques centrales visées à l'article 10, paragraphe 1, points b) et d);
+
+iii) les actifs représentatifs de créances sur, ou garanties par, des banques multilatérales de développement ou des organisations internationales visés à l'article 10, paragraphe 1, point g);
+
+b) aux catégories d'actifs de niveau 1 représentatifs de créances sur, ou garanties par, des administrations centrales, régionales ou locales ou des entités du secteur public visées à l'article 10, paragraphe 1, points c) et d), à condition que l'établissement de crédit détienne l'actif considéré pour couvrir les sorties nettes de trésorerie en situation de tensions encourues dans la monnaie de l'État membre ou du pays tiers, ou que l'actif soit émis par une administration centrale, régionale ou locale ou une entité du secteur public de l'État membre d'origine de l'établissement de crédit;
+
+c) à la facilité de liquidité confirmée à usage restreint visée à l'article 12, paragraphe 1, point d);
+
+2. Les établissements de crédit ont aisément accès aux actifs liquides qu'ils détiennent et sont en mesure de les monétiser à tout moment de la période de tensions de 30 jours calendaires, au moyen d'une vente ferme ou d'une mise en pension sur des marchés de la pension livrée généralement approuvés. Un actif liquide est réputé aisément accessible à un établissement de crédit lorsque aucun obstacle juridique ou pratique n'empêche l'établissement de crédit de le monétiser rapidement.
+
+Les actifs servant au rehaussement de crédit dans le cadre d'opérations structurées ou à la couverture des coûts opérationnels des établissements de crédit ne sont pas réputés aisément accessibles à un établissement de crédit.
+
+Les actifs détenus dans un pays tiers où existent des restrictions à leur libre transfert ne sont réputés aisément accessibles que dans la mesure où l'établissement de crédit les utilise pour faire face aux sorties de trésorerie dans ce pays tiers. Les actifs détenus dans une monnaie non convertible ne sont réputés aisément accessibles que dans la mesure où l'établissement de crédit utilise ces actifs pour faire face aux sorties de trésorerie dans cette monnaie.
+
+3. Un établissement de crédit veille à ce que ses actifs liquides soient sous le contrôle d'une fonction spécifique de gestion de la liquidité en son sein. Le respect de cette exigence est démontré à l'autorité compétente de l'une des manières suivantes:
+
+a) en plaçant les actifs liquides dans un panier séparé, directement géré par la fonction de gestion de la liquidité, dans le seul but de les utiliser en tant que source éventuelle de fonds, y compris en période de tensions;
+
+b) en mettant en place des systèmes et contrôles internes afin de donner à la fonction de gestion de la liquidité un contrôle opérationnel effectif lui permettant, à tout moment de la période de tensions de 30 jours calendaires, de monétiser les actifs liquides détenus et d'accéder aux fonds éventuels sans conflit direct avec les stratégies d'entreprise ou de gestion des risques existantes. En particulier, un actif n'est pas inclus dans le coussin de liquidité si sa vente sans remplacement au cours de la période de tensions de 30 jours calendaires est susceptible, en supprimant une couverture, de créer une position de risque ouverte dépassant les limites internes de l'établissement de crédit;
+
+c) en combinant les options a) et b), pour autant que l'autorité compétente juge cette combinaison acceptable.
+
+4. Les établissements de crédit monétisent régulièrement, et au moins une fois par an, un échantillon suffisamment représentatif des actifs liquides qu'ils détiennent, en procédant à des ventes fermes ou à des mises en pension simples sur un marché de la pension livrée généralement approuvé. Les établissements de crédit élaborent des stratégies de cession d'échantillons d'actifs liquides permettant de:
+
+a) tester l'accès au marché de ces actifs et la possibilité de les utiliser;
+
+b) vérifier l'efficacité des processus utilisés par l'établissement de crédit pour la monétisation rapide des actifs;
+
+c) réduire au minimum le risque que la monétisation par l'établissement de crédit de ses actifs en période de tensions n'envoie un signal négatif au marché.
+
+L'exigence énoncée au premier alinéa ne s'applique pas aux actifs de niveau 1 visés à l'article 10 autres que les obligations garanties de qualité extrêmement élevée, à la facilité de liquidité confirmée à usage restreint visée à l'article 12, paragraphe 1, point d), ou aux dépôts et autres apports de liquidités dans les réseaux coopératifs et les systèmes de protection institutionnels visés à l'article 16.
+
+5. L'exigence énoncée au paragraphe 2 n'empêche pas les établissements de crédit de couvrir le risque de marché attaché à leurs actifs liquides, pour autant que les conditions suivantes soient remplies:
+
+a) l'établissement de crédit met en place des dispositifs internes appropriés, conformément aux paragraphes 2 et 3, afin de garantir que ces actifs resteront aisément accessibles et sous le contrôle de la fonction de gestion de la liquidité;
+
+b) les entrées et sorties de trésorerie nettes qui résulteraient d'un dénouement anticipé de l'opération de couverture sont prises en considération dans l'évaluation de l'actif concerné, conformément à l'article 9.
+
+6. Les établissements de crédit veillent à ce que les monnaies dans lesquelles sont libellés leurs actifs liquides soient en adéquation avec la répartition par monnaie de leurs sorties nettes de trésorerie. Toutefois, le cas échéant, les autorités compétentes peuvent exiger que les établissements de crédit restreignent l'asymétrie des monnaies en limitant la proportion des sorties nettes de trésorerie dans une monnaie qui peuvent être couvertes, en période de tensions, par la détention d'actifs liquides non libellés dans cette monnaie. Cette restriction peut uniquement s'appliquer pour la monnaie de déclaration ou pour une monnaie nécessitant une déclaration séparée conformément à l'article 415, paragraphe 2, du règlement (UE) no 575/2013. Pour déterminer le niveau de la restriction éventuelle pouvant être appliquée à l'asymétrie des monnaies en vertu du présent paragraphe, les autorités compétentes prennent en considération au moins les éléments suivants:
+
+a) la capacité de l'établissement de crédit à prendre une ou plusieurs des mesures suivantes:
+
+i) utiliser les actifs liquides pour générer de la liquidité dans la monnaie et dans le pays dans lesquels les sorties nettes de trésorerie surviennent;
+
+ii) échanger des devises et lever des fonds sur les marchés des changes en situation de tensions correspondant à la période de tensions de 30 jours calendaires visée à l'article 4;
+
+iii) transférer un excédent de liquidité d'une monnaie à une autre, d'un pays à un autre et d'une entité juridique à une autre au sein de son groupe en situation de tensions correspondant à la période de tensions de 30 jours calendaires visée à l'article 4;
+
+b) l'impact de variations soudaines et défavorables des taux de change sur les positions asymétriques existantes et sur l'efficacité des éventuelles couvertures de change en place.
+
+Toute restriction de l'asymétrie des monnaies imposée conformément au présent paragraphe est réputée constituer une exigence spécifique de liquidité visée à l'article 105 de la directive 2013/36/UE.
+
+<a id="art_9"></a>
+
+### Article 9 — Évaluation des actifs liquides
+
+Aux fins du calcul de son ratio de couverture des besoins de liquidité, un établissement de crédit utilise la valeur de marché de ses actifs liquides. La valeur de marché des actifs liquides est diminuée, le cas échéant, par l'application des décotes indiquées au chapitre 2 et à l'article 8, paragraphe 5, point b).
+
+## *CHAPITRE 2*
+
+### ***Actifs liquides***
+
+<a id="art_10"></a>
+
+### Article 10 — Actifs de niveau 1
+
+1. Les actifs de niveau 1 comprennent uniquement les actifs qui appartiennent à l'une ou à plusieurs des catégories suivantes et qui satisfont dans chaque cas aux critères d'éligibilité fixés par le présent acte:
+
+a) les pièces et les billets de banque;
+
+b) les expositions suivantes sur les banques centrales:
+
+i) les actifs représentatifs de créances sur, ou garanties par, la Banque centrale européenne (BCE) ou la banque centrale d'un État membre;
+
+ii) les actifs représentatifs de créances sur, ou garanties par, des banques centrales de pays tiers, pour autant qu'un organisme externe d'évaluation du crédit (OEEC) désigné attribue aux expositions sur la banque centrale ou sur l'administration centrale du pays tiers considéré une évaluation de crédit se situant au moins à l'échelon 1 de qualité de crédit conformément à l'article 114, paragraphe 2, du règlement (UE) no 575/2013;
+
+iii) les réserves détenues par l'établissement de crédit auprès d'une banque centrale visée aux points i) et ii), pour autant que l'établissement de crédit soit autorisé à effectuer à tout moment des retraits sur ces réserves en période de tensions et que les conditions de ces retraits aient été précisées dans un accord entre l'autorité compétente concernée et la BCE ou la banque centrale;
+
+c) les actifs représentatifs de créances sur, ou garanties par, l'une des administrations centrales, régionales ou locales ou l'une des entités du secteur public suivantes:
+
+i) l'administration centrale d'un État membre;
+
+ii) l'administration centrale d'un pays tiers, pour autant qu'un OEEC désigné lui attribue une évaluation de crédit se situant au moins à l'échelon 1 de qualité de crédit conformément à l'article 114, paragraphe 2, du règlement (UE) no 575/2013;
+
+iii) les administrations régionales ou locales d'un État membre, pour autant que les expositions sur ces administrations soient traitées comme des expositions sur l'administration centrale de cet État membre conformément à l'article 115, paragraphe 2, du règlement (UE) no 575/2013;
+
+iv) les administrations régionales ou locales d'un pays tiers, pour autant que les expositions sur ces administrations soient traitées comme des expositions sur l'administration centrale de ce pays tiers conformément à l'article 115, paragraphe 4, du règlement (UE) no 575/2013;
+
+v) les entités du secteur public, pour autant que les expositions sur ces entités soient traitées comme des expositions sur l'administration centrale d'un État membre ou sur l'une des administrations régionales ou locales visées au point iii) conformément à l'article 116, paragraphe 4, du règlement (UE) no 575/2013;
+
+d) les actifs représentatifs de créances sur, ou garanties par, l'administration centrale ou la banque centrale d'un pays tiers qui ne reçoit pas de la part d'un OECC désigné une évaluation de crédit se situant à l'échelon 1 de qualité de crédit conformément à l'article 114, paragraphe 2, du règlement (UE) no 575/2013, pour autant que, dans ce cas, l'établissement de crédit ne puisse comptabiliser l'actif comme un actif de niveau 1 que pour couvrir les sorties nettes de trésorerie en situation de tensions encourues dans la même monnaie que celle dans laquelle l'actif est libellé.
+
+Lorsque l'actif n'est pas libellé dans la monnaie nationale du pays tiers, l'établissement de crédit ne peut comptabiliser l'actif comme un actif de niveau 1 qu'à concurrence du montant de ses sorties nettes de trésorerie dans cette monnaie, en situation de tensions, correspondant à ses activités dans le pays où le risque de liquidité est encouru;
+
+e) les actifs émis par des établissements de crédit qui satisfont au moins à un des deux critères suivants:
+
+i) l'émetteur est un établissement de crédit institué ou établi par l'administration centrale d'un État membre ou par une administration régionale ou locale d'un État membre, cette administration a l'obligation légale de protéger la base économique de l'établissement et de préserver sa viabilité financière tout au long de son existence et toute exposition sur l'administration régionale ou locale concernée, le cas échéant, est traitée comme une exposition sur l'administration centrale de l'État membre conformément à l'article 115, paragraphe 2, du règlement (UE) no 575/2013;
+
+ii) l'établissement de crédit est une banque de développement qui, aux fins du présent article, s'entend comme tout établissement de crédit dont l'objet est de contribuer à la progression vers la réalisation des objectifs de politique publique de l'Union ou de l'administration centrale, régionale ou locale d'un État membre, principalement à travers l'octroi de prêts de développement sur une base non concurrentielle et à des fins non lucratives, sous réserve qu'au moins 90 % des prêts qu'il accorde soient directement ou indirectement garantis par l'administration centrale, régionale ou locale et que toute exposition sur cette administration régionale ou locale, le cas échéant, soit traitée comme une exposition sur l'administration centrale de l'État membre conformément à l'article 115, paragraphe 2, du règlement (UE) no 575/2013;
+
+f) les expositions sous la forme d'obligations garanties de qualité extrêmement élevée qui satisfont à toutes les exigences suivantes:
+
+i) il s'agit d'obligations visées à l'article 52, paragraphe 4, de la directive 2009/65/CE ou elles satisfont aux conditions d'éligibilité pour bénéficier du traitement prévu à l'article 129, paragraphe 4 ou 5, du règlement (UE) no 575/2013;
+
+ii) les expositions sur des établissements dans le panier de couverture remplissent les conditions prévues à l'article 129, paragraphe 1, point c), et à l'article 129, paragraphe 1, dernier alinéa, du règlement (UE) no 575/2013;
+
+iii) l'établissement de crédit qui investit dans ces obligations garanties et l'émetteur respectent l'obligation de transparence visée à l'article 129, paragraphe 7, du règlement (UE) no 575/2013;
+
+iv) leur volume d'émission est au moins égal à 500 millions d'EUR (ou le montant équivalent en monnaie nationale);
+
+v) les obligations garanties ont reçu d'un OEEC désigné une évaluation de crédit se situant au moins à l'échelon 1 de qualité de crédit conformément à l'article 129, paragraphe 4, du règlement (UE) no 575/2013 ou à l'échelon de qualité de crédit équivalent, dans le cas d'une évaluation de crédit à court terme ou, en l'absence d'évaluation de crédit, elles reçoivent une pondération de risque de 10 % conformément à l'article 129, paragraphe 5, dudit règlement;
+
+vi) le panier de couverture remplit à tout moment une exigence de couverture par les actifs dépassant d'au moins 2 % le montant requis pour honorer les créances attachées aux obligations garanties;
+
+g) les actifs représentatifs de créances sur, ou garanties par, des banques multilatérales de développement ou des organisations internationales visées respectivement à l'article 117, paragraphe 2, et à l'article 118, du règlement (UE) no 575/2013.
+
+2. La valeur de marché des obligations garanties de qualité extrêmement élevée visées au paragraphe 1, point f), est soumise à une décote de 7 % au moins. À part les décotes prévues à l'article 15, paragraphe 2, points a) et b) en ce qui concerne les actions et parts d'OPC, aucune décote n'est exigée sur la valeur des autres actifs de niveau 1.
+
+<a id="art_11"></a>
+
+### Article 11 — Actifs de niveau 2A
+
+1. Les actifs de niveau 2A comprennent uniquement les actifs qui appartiennent à l'une ou à plusieurs des catégories suivantes et qui satisfont dans chaque cas aux critères d'éligibilité fixés par le présent acte:
+
+a) les actifs représentatifs de créances sur, ou garanties par, des administrations régionales ou locales ou des entités du secteur public d'un État membre, lorsque les expositions sur ces administrations ou entités reçoivent une pondération de risque de 20 % en vertu de l'article 115, paragraphe 1 ou 5, ou en vertu de l'article 116, paragraphe 1, 2 ou 3 du règlement (UE) no 575/2013, selon le cas;
+
+b) les actifs représentatifs de créances sur, ou garanties par, l'administration centrale ou la banque centrale d'un pays tiers ou une administration régionale ou locale ou une entité du secteur public d'un pays tiers, pour autant qu'ils reçoivent une pondération de risque de 20 % en vertu de l'article 114, paragraphe 2, de l'article 115 ou de l'article 116 du règlement (UE) no 575/2013, selon le cas;
+
+c) les expositions sous la forme d'obligations garanties de qualité élevée qui satisfont à toutes les exigences suivantes:
+
+i) il s'agit d'obligations visées à l'article 52, paragraphe 4, de la directive 2009/65/CE ou elles satisfont aux conditions d'éligibilité pour bénéficier du traitement prévu à l'article 129, paragraphe 4 ou 5, du règlement (UE) no 575/2013;
+
+ii) les expositions sur des établissements dans le panier de couverture remplissent les conditions prévues à l'article 129, paragraphe 1, point c), du règlement (UE) no 575/2013;
+
+iii) l'établissement de crédit qui investit dans ces obligations garanties et l'émetteur respectent l'obligation de transparence énoncée à l'article 129, paragraphe 7, du règlement (UE) no 575/2013;
+
+iv) leur volume d'émission est au moins égal à 250 millions d'EUR (ou le montant équivalent en monnaie nationale);
+
+v) les obligations garanties ont reçu d'un OEEC désigné une évaluation de crédit se situant au moins à l'échelon 2 de qualité de crédit conformément à l'article 129, paragraphe 4, du règlement (UE) no 575/2013 ou à l'échelon de qualité de crédit équivalent, dans le cas d'une évaluation de crédit à court terme, ou, en l'absence d'évaluation de crédit, elles reçoivent une pondération de risque de 20 % conformément à l'article 129, paragraphe 5, dudit règlement;
+
+vi) le panier de couverture remplit à tout moment une exigence de couverture par les actifs dépassant d'au moins 7 % le montant requis pour honorer les créances attachées aux obligations garanties. Toutefois, si des obligations garanties dont l'évaluation de crédit se situe à l'échelon 1 de qualité de crédit ne satisfont pas au critère de volume d'émission minimal prévu par l'article 10, paragraphe 1, point f) iv) pour les obligations garanties de qualité extrêmement élevées, mais remplissent les exigences énoncées aux points i), ii), iii) et iv) pour les obligations garanties de qualité élevée, elles sont soumises, à la place, à une exigence de couverture par les actifs minimale de 2 %;
+
+d) les expositions sous forme d'obligations garanties émises par des établissements de crédit dans des pays tiers, qui satisfont à toutes les exigences suivantes:
+
+i) il s'agit d'obligations garanties conformes à la législation nationale du pays tiers, qui doit les définir comme des titres de dette émis par des établissements de crédit, ou par une filiale détenue à 100 % par un établissement de crédit garant de l'émission, et garantis par un panier d'actifs de couverture, auquel les détenteurs d'obligations peuvent avoir directement et prioritairement recours pour le remboursement du principal et le versement des intérêts en cas de défaut de l'émetteur;
+
+ii) l'émetteur et les obligations garanties sont soumis par la législation nationale du pays tiers à une surveillance publique spécifique visant à protéger les détenteurs d'obligations, et les dispositions réglementaires et de surveillance appliquées dans le pays tiers doivent être au moins équivalentes à celles appliquées dans l'Union;
+
+iii) les obligations garanties sont adossées à un panier d'actifs appartenant à un ou plusieurs des types décrits à l'article 129, paragraphe 1, point b), point d) i), point f) i) ou point g), du règlement (UE) no 575/2013. Lorsque ce panier comprend des prêts garantis par des biens immeubles, les exigences énoncées à l'article 208 et à l'article 229, paragraphe 1, du règlement (UE) no 575/2013 doivent être respectées;
+
+iv) les expositions sur des établissements dans le panier de couverture remplissent les conditions prévues à l'article 129, paragraphe 1, point c), et à l'article 129, paragraphe 1, dernier alinéa, du règlement (UE) no 575/2013;
+
+v) l'établissement de crédit qui investit dans ces obligations garanties et l'émetteur respectent l'obligation de transparence énoncée à l'article 129, paragraphe 7, du règlement (UE) no 575/2013;
+
+vi) les obligations garanties ont reçu d'un OEEC désigné une évaluation de crédit se situant au moins à l'échelon 1 de qualité de crédit conformément à l'article 129, paragraphe 4, du règlement (UE) no 575/2013 ou à l'échelon de qualité de crédit équivalent dans le cas d'une évaluation de crédit à court terme ou, en l'absence d'évaluation de crédit, elles reçoivent une pondération de risque de 10 % conformément à l'article 129, paragraphe 5, dudit règlement; et
+
+vii) le panier de couverture remplit à tout moment une exigence de couverture par les actifs dépassant d'au moins 7 % le montant requis pour honorer les créances attachées aux obligations garanties. Toutefois, lorsque le volume d'émission des obligations garanties est supérieur ou égal à 500 millions d'EUR (ou le montant équivalent en monnaie nationale), elles sont soumises, à la place, à une exigence de couverture par les actifs minimale de 2 %;
+
+e) des titres de dette d'entreprises qui remplissent l'ensemble des exigences suivantes:
+
+i) ils reçoivent une évaluation de crédit établie par un OEEC désigné qui se situe au moins à l'échelon 1 de qualité de crédit conformément à l'article 122 du règlement (UE) no 575/2013 ou à l'échelon équivalent de qualité de crédit en cas d'évaluation de crédit à court terme;
+
+ii) le volume d'émission des titres est au moins égal à 250 millions d'EUR (ou le montant équivalent en monnaie nationale);
+
+iii) la maturité maximale des titres à la date de l'émission est de 10 ans;
+
+2. Une décote d'au moins 15 % s'applique à la valeur de marché de chacun des actifs de niveau 2A.
+
+<a id="art_12"></a>
+
+### Article 12 — Actifs de niveau 2B
+
+1. Les actifs de niveau 2B comprennent uniquement les actifs qui appartiennent à l'une ou à plusieurs des catégories suivantes et qui satisfont dans chaque cas aux critères d'éligibilité fixés par le présent acte:
+
+a) les expositions sous la forme de titres adossés à des actifs répondant aux conditions prévues à l'article 13;
+
+b) les titres de dette d'entreprises qui remplissent l'ensemble des exigences suivantes:
+
+i) ils ont reçu une évaluation de crédit établie par un OEEC désigné qui se situe au moins à l'échelon 3 de qualité de crédit, conformément à l'article 122 du règlement (UE) no 575/2013, ou à l'échelon équivalent de qualité de crédit dans le cas d'une évaluation de crédit à court terme;
+
+ii) le volume d'émission des titres est au moins égal à 250 millions d'EUR (ou le montant équivalent en monnaie nationale);
+
+iii) la maturité maximale des titres à la date de l'émission est de 10 ans;
+
+c) les actions, à condition qu'elles remplissent l'ensemble des exigences suivantes:
+
+i) elles font partie d'un indice boursier important dans un État membre ou dans un pays tiers, identifié comme tel aux fins du présent point par l'autorité compétente de l'État membre ou de l'autorité publique concernée du pays tiers. En l'absence de décision de l'autorité compétente ou de l'autorité publique concernée sur les indices boursiers importants, les établissements de crédit considèrent comme tel un indice boursier composé d'entreprises phares dans le pays en question;
+
+ii) elles sont libellées dans la monnaie de l'État membre d'origine de l'établissement de crédit ou, si elles sont libellées dans une autre monnaie, elles ne sont comptabilisées au titre du niveau 2B qu'à concurrence du montant nécessaire pour couvrir les sorties nettes de trésorerie en situation de tensions dans cette monnaie ou dans le pays où est pris le risque de liquidité; et
+
+iii) elles ont prouvé qu'elles constituaient une source fiable de liquidité à tout moment, y compris en période de tensions. Cette condition est réputée remplie si, sur une période de tensions sur le marché de 30 jours calendaires, le niveau de baisse du prix ou d'augmentation de la décote de l'action n'a pas dépassé respectivement 40 % ou 40 points de pourcentage; et
+
+d) les facilités de liquidité confirmées à usage restreint pouvant être fournies par la BCE ou par la banque centrale d'un État membre ou d'un pays tiers, pour autant que les conditions fixées à l'article 14 soient remplies;
+
+e) les expositions sous la forme d'obligations garanties de qualité élevée qui satisfont à toutes les exigences suivantes:
+
+i) il s'agit d'obligations visées à l'article 52, paragraphe 4, de la directive 2009/65/CE ou elles satisfont aux conditions d'éligibilité pour bénéficier du traitement prévu à l'article 129, paragraphe 4 ou 5, du règlement (UE) no 575/2013;
+
+ii) l'établissement de crédit qui investit dans ces obligations garanties respecte l'obligation de transparence visée à l'article 129, paragraphe 7, du règlement (UE) no 575/2013;
+
+iii) l'émetteur des obligations garanties met les informations visées à l'article 129, paragraphe 7, point a), du règlement (UE) no 575/2013 à la disposition des investisseurs au moins une fois par trimestre;
+
+iv) leur volume d'émission est au moins égal à 250 millions d'EUR (ou le montant équivalent en monnaie nationale);
+
+v) les obligations garanties sont assorties de sûretés constituées exclusivement des actifs visés à l'article 129, paragraphe 1, point a), point d) i) et point e), du règlement (UE) no 575/2013;
+
+vi) le panier d'actifs sous-jacents est constitué exclusivement d'expositions recevant une pondération de risque inférieure ou égale à 35 % en vertu de l'article 125 du règlement (UE) no 575/2013 en ce qui concerne le risque de crédit;
+
+vii) le panier de couverture remplit à tout moment une exigence de couverture par les actifs dépassant d'au moins 10 % le montant requis pour honorer les créances attachées aux obligations garanties;
+
+viii) l'établissement de crédit émetteur est tenu de déclarer publiquement une fois par mois que le panier de couverture remplit l'exigence de couverture par les actifs de 10 %;
+
+f) pour les établissements de crédit qui, selon leurs statuts, ne sont pas en mesure, pour des raisons religieuses, de détenir des actifs porteurs d'intérêts, les actifs non porteurs d'intérêts représentatifs de créances sur, ou garanties par, des banques centrales ou l'administration centrale ou la banque centrale d'un pays tiers, ou une administration régionale ou locale ou une entité du secteur public d'un pays tiers, à condition que ces actifs aient reçu d'un OEEC désigné une évaluation de crédit se situant au moins à l'échelon 5 de qualité de crédit conformément à l'article 114 du règlement (UE) no 575/2013, ou à l'échelon de qualité de crédit équivalent dans le cas d'une évaluation de crédit à court terme.
+
+2. La valeur de marché de chacun des actifs de niveau 2B fait l'objet des décotes minimales suivantes:
+
+a) pour les titrisations de niveau 2B, la décote applicable fixée par l'article 13, paragraphe 14;
+
+b) pour les titres de dette d'entreprises visés au paragraphe 1, point b), une décote de 50 %;
+
+c) pour les actions visées au paragraphe 1, point c), une décote de 50 %;
+
+d) pour les programmes ou émissions d'obligations garanties visées au paragraphe 1, point e), une décote de 30 %;
+
+e) pour les actifs non porteurs d'intérêts visés au paragraphe 1, point f), une décote de 50 %.
+
+3. Pour les établissements de crédit qui, selon leurs statuts, ne sont pas en mesure, pour des raisons religieuses, de détenir des actifs porteurs d'intérêts, l'autorité compétente peut autoriser une dérogation au paragraphe 1, points b) ii) et b) iii) du présent article, à condition que la disponibilité insuffisante d'actifs non porteurs d'intérêts remplissant ces conditions puisse être démontrée et que les actifs non porteurs d'intérêts en question soient suffisamment liquides sur les marchés privés.
+
+Pour déterminer si les actifs non porteurs d'intérêts sont suffisamment liquides aux fins du premier alinéa, l'autorité compétente examine les facteurs suivants:
+
+a) les données disponibles concernant leur liquidité sur le marché, notamment les volumes d'échange, les fourchettes de cotation observées, la volatilité des prix et l'incidence sur les prix; et
+
+b) d'autres facteurs pertinents quant à leur liquidité, notamment des données historiques sur la largeur et la profondeur du marché de ces actifs non porteurs d'intérêts, le nombre et la diversité des participants au marché et la présence d'une solide infrastructure de marché.
+
+<a id="art_13"></a>
+
+### Article 13 — Titrisations de niveau 2B
+
+1. Les expositions sous la forme de titres adossés à des actifs visées à l'article 12, paragraphe 1, point a), sont assimilables à des titrisations de niveau 2B si elles remplissent les critères fixés aux paragraphes 2 à 14.
+
+2. La position de titrisation et les expositions sous-jacentes à cette position répondent à l'ensemble des exigences suivantes:
+
+a) la position s'est vu attribuer par un OEEC désigné une évaluation de crédit qui la situe au moins à l'échelon 1 de qualité de crédit, conformément à l'article 251 ou à l'article 261 du règlement (UE) no 575/2013, ou à l'échelon équivalent de qualité de crédit, dans le cas d'une évaluation de crédit à court terme;
+
+b) la position se situe dans la ou les tranches de la titrisation ayant le rang le plus élevé et conserve ce niveau pendant toute la durée de l'opération. À cet effet, une tranche est réputée avoir le rang le plus élevé si, après notification d'un avis d'exécution *(enforcement notice)* et, le cas échéant, d'un avis d'exigibilité immédiate, elle n'est pas subordonnée à d'autres tranches de la même opération ou du même dispositif de titrisation en ce qui concerne le paiement du principal et des intérêts, sans tenir compte des montants dus au titre de contrats dérivés sur taux d'intérêt ou sur devises, de commissions ou d'autres montants analogues, conformément à l'article 261 du règlement (UE) no 575/2013;
+
+c) les expositions sous-jacentes ont été acquises par l'entité de titrisation (SSPE), au sens de l'article 4, paragraphe 1, point 66) du règlement (UE) no 575/2013, d'une manière qui est opposable aux tiers, et sont hors de portée du vendeur (initiateur, sponsor ou prêteur initial) et de ses créanciers, y compris en cas d'insolvabilité du vendeur;
+
+d) le transfert à l'entité de titrisation des expositions sous-jacentes ne peut faire l'objet dans le pays d'enregistrement du vendeur (initiateur, sponsor ou prêteur initial) de dispositions strictes en matière de restitution. Il peut notamment, mais pas uniquement, s'agir de dispositions en vertu desquelles le liquidateur du vendeur (initiateur, sponsor ou prêteur initial) peut invalider la vente des expositions sous-jacentes au seul motif qu'elle a été conclue durant une certaine période précédant la déclaration d'insolvabilité du vendeur, ou de dispositions selon lesquelles l'entité de titrisation ne peut empêcher cette invalidation que si elle peut prouver qu'elle n'avait pas connaissance de l'insolvabilité du vendeur au moment de la vente;
+
+e) la gestion des expositions sous-jacentes est régie par un accord de recouvrement comportant des clauses de continuité du recouvrement qui garantissent, au minimum, que la défaillance ou l'insolvabilité de l'organe de gestion n'entraîne pas de cessation du recouvrement;
+
+f) les documents relatifs à la titrisation comprennent des clauses de continuité garantissant, au minimum, le remplacement des contreparties des produits dérivés et des fournisseurs de liquidité, selon le cas, lorsqu'ils font défaut ou deviennent insolvables;
+
+g) la position de titrisation est adossée soit à un panier d'expositions sous-jacentes homogènes appartenant toutes à une seule des sous-catégories suivantes, soit à un panier d'expositions sous-jacentes homogènes combinant des prêts immobiliers résidentiels visés aux points i) et ii):
+
+i) prêts immobiliers résidentiels, garantis par une hypothèque de premier rang, accordés à des particuliers pour l'achat de leur résidence principale, sous réserve du respect de l'une des deux conditions suivantes:
+
+— les prêts figurant dans le panier respectent en moyenne le ratio prêt/valeur prévu à l'article 129, paragraphe 1, point d) i), du règlement (UE) no 575/2013;
+
+— la législation nationale de l'État membre de provenance des prêts limite par l'application d'un ratio emprunt/revenus le montant qu'un débiteur peut emprunter au titre d'un prêt immobilier résidentiel, et l'État membre a notifié cette disposition législative à la Commission et à l'ABE. Le ratio emprunt/revenus est calculé sur le revenu annuel brut de l'emprunteur, en tenant compte de ses obligations fiscales et autres engagements, ainsi que du risque de variation des taux d'intérêt sur la durée du prêt. Pour chaque prêt immobilier résidentiel inclus dans le panier, le pourcentage du revenu brut de l'emprunteur pouvant être consacré au remboursement du prêt, intérêts, principal et frais inclus, ne dépasse pas 45 %;
+
+ii) prêts immobiliers résidentiels pleinement garantis visés à l'article 129, paragraphe 1, point e), du règlement (UE) no 575/2013, à condition qu'ils respectent les exigences en matière de sûretés énoncées dans cette disposition et le ratio prêt/valeur moyen prévu à l'article 129, paragraphe 1, point d) i), du règlement (UE) no 575/2013;
+
+iii) prêts commerciaux, contrats de crédit-bail et facilités de crédit au profit d'entreprises établies dans un État membre destinés à financer des dépenses d'investissement ou des opérations commerciales autres que l'acquisition ou le développement de biens immobiliers commerciaux, à condition qu'au moins 80 % des emprunteurs inclus dans le panier, en termes d'encours du portefeuille, soient des petites et moyennes entreprises au moment de l'émission de la titrisation, et qu'aucun des emprunteurs ne soit un établissement au sens de l'article 4, paragraphe 1, point 3) du règlement (UE) no 575/2013;
+
+iv) prêts et contrats de crédit-bail automobiles au profit d'emprunteurs ou de preneurs établis ou résidant dans un État membre. À ces fins, en font partie les prêts ou contrats de crédit-bail destinés à financer des véhicules à moteur ou des remorques au sens de l'article 3, points 11 et 12, de la directive 2007/46/CE du Parlement européen et du Conseil, des tracteurs agricoles ou forestiers, tels que visés dans la directive 2003/37/CE du Parlement européen et du Conseil, des motocycles ou tricycles à moteur au sens de l'article 1, paragraphe 2, points b) et c), de la directive 2002/24/CE du Parlement européen et du Conseil, ou des véhicules à chenilles visés à l'article 2, paragraphe 2, point c), de la directive 2007/46/CE. Ces crédits ou contrats de crédit-bail peuvent inclure des produits d'assurance et des services connexes ou d'autres parties du véhicule et, dans le cas de contrats de crédit-bail, la valeur résiduelle des véhicules faisant l'objet du crédit-bail. Tous les crédits et contrats de crédit-bail figurant dans le panier sont garantis par un gage ou une autre sûreté de premier rang constituée sur le véhicule ou par une garantie appropriée en faveur de l'entité de titrisation, telle qu'une clause de réserve de propriété;
+
+v) les prêts et facilités de crédit accordés à des particuliers résidant dans un État membre en vue d'une consommation personnelle, familiale ou du ménage;
+
+h) la position n'est pas une position de retitrisation ou de titrisation synthétique au sens, respectivement, de l'article 4, paragraphe 63 et de l'article 242, paragraphe 11, du règlement (UE) no 575/2013;
+
+i) les expositions sous-jacentes n'incluent pas d'instruments financiers transférables ou dérivés, à l'exception des instruments financiers émis par l'entité de titrisation elle-même, ou par d'autres parties au sein de la structure de titrisation, et des produits dérivés utilisés pour couvrir le risque de change et le risque de taux d'intérêt;
+
+j) que ce soit au moment de l'émission de la titrisation ou au moment, quel qu'il soit, de leur intégration au panier après cette émission, les expositions sous-jacentes n'incluent pas d'expositions sur des débiteurs en difficulté (ou, le cas échéant, sur des garants en difficulté), un débiteur en difficulté (ou garant en difficulté) étant un emprunteur (ou un garant), qui:
+
+i) s'est déclaré en faillite, a convenu avec ses créanciers d'un effacement ou d'un rééchelonnement de dette ou a vu un tribunal accorder à ses créanciers un droit à exécution ou des indemnités en raison d'un défaut de paiement dans les trois années précédant la date d'initiation de l'opération;
+
+ii) figure sur un registre officiel de personnes ayant des antécédents négatifs en matière de crédit;
+
+iii) a fait l'objet d'une évaluation de crédit établie par un OEEC ou a un score de crédit révélant, par rapport au débiteur moyen pour ce type de prêts dans le pays concerné, un risque non négligeable que des engagements de paiement contractuels ne soient pas honorés;
+
+k) que ce soit au moment de l'émission de la titrisation ou au moment, quel qu'il soit, de leur intégration au panier après cette émission, les expositions sous-jacentes n'incluent pas d'expositions en défaut au sens de l'article 178, paragraphe 1, du règlement (UE) no 575/2013;
+
+3. Le remboursement des positions de titrisation n'a pas été conçu de façon à dépendre essentiellement de la vente d'actifs garantissant les expositions sous-jacentes. Toutefois, cette disposition ne fait pas obstacle au renouvellement ou au refinancement ultérieur de ces expositions.
+
+4. La structure de l'opération de titrisation répond aux exigences suivantes:
+
+a) lorsque le montage de la titrisation ne prévoit pas de période de rechargement, ou que la période de rechargement a pris fin, et qu'un avis d'exécution ou d'exigibilité immédiate a été notifié, le principal perçu au titre des expositions sous-jacentes est transféré aux détenteurs des positions de titrisation par un remboursement séquentiel de ces positions, aucune quantité importante de liquidités n'étant alors retenue dans l'entité de titrisation à chaque date de paiement;
+
+b) si le montage de la titrisation prévoit une période de rechargement, les documents relatifs à l'opération définissent des événements appropriés pour le déclenchement d'un remboursement anticipé, comprenant au minimum:
+
+i) une détérioration de la qualité de crédit des expositions sous-jacentes;
+
+ii) une incapacité à générer suffisamment de nouvelles expositions sous-jacentes d'une qualité de crédit au moins équivalente;
+
+iii) les événements relevant de l'insolvabilité qui affectent l'initiateur ou l'organe de gestion.
+
+5. Au moment de l'émission de la titrisation, les emprunteurs (ou, le cas échéant, les garants) ont effectué au moins un versement, sauf si la titrisation est adossée aux facilités de crédit visées au paragraphe 2, point g) v).
+
+6. Dans le cas de titrisations dont les expositions sous-jacentes sont des prêts immobiliers résidentiels visés au paragraphe 2, points g) i) ou g) ii), le panier de prêts n'inclut aucun prêt qui a été commercialisé et pour lequel la demande a été évaluée alors que le demandeur du prêt ou, le cas échéant, les intermédiaires concernés, ont été informés que le prêteur pourrait ne pas vérifier les informations fournies.
+
+7. Dans le cas de titrisations dont les expositions sous-jacentes sont des prêts immobiliers résidentiels visés au paragraphe 2, points g) i) ou g) ii), l'évaluation de la solvabilité de l'emprunteur respecte les exigences fixées à l'article 18, paragraphes 1 à 4, paragraphe 5, point a), et paragraphe 6, de la directive 2014/17/UE du Parlement européen et du Conseil (4) ou, dans les pays tiers, des exigences équivalentes.
+
+8. Dans le cas de titrisations dont les expositions sous-jacentes sont des prêts automobiles, des contrats de crédit-bail automobiles ou des prêts et facilités de crédit à la consommation visés au paragraphe 2, points g) iv) et g) v), l'évaluation de la solvabilité de l'emprunteur respecte les exigences définies par l'article 8 de la directive 2008/48/CE du Parlement européen et du Conseil (5).
+
+9. Lorsqu'ils sont établis dans l'Union, l'initiateur, le sponsor ou le prêteur initial de la titrisation respectent les exigences établies dans la cinquième partie du règlement (UE) no 575/2013 et communiquent, conformément à l'article 8 *ter* du règlement (UE) no 1060/2009, les informations relatives à la qualité du crédit et aux performances des expositions sous-jacentes, à la structure de l'opération, aux flux de trésorerie et aux éventuelles sûretés destinées à garantir les expositions, ainsi que toute information nécessaire aux investisseurs pour effectuer des tests de résistance complets et bien documentés. Lorsque l'initiateur, le sponsor et le prêteur initial sont établis en dehors de l'Union, des données par prêt complètes, et conformes aux normes généralement acceptées par les acteurs du marché, sont mises à la disposition des investisseurs existants et potentiels et des organes de réglementation, au moment de l'émission, puis sur une base régulière.
+
+10. Les expositions sous-jacentes n'ont pas été initiées par l'établissement de crédit qui détient la position de titrisation dans son coussin de liquidité, par sa filiale, par son entreprise mère, par une filiale de son entreprise mère ou par toute autre entreprise étroitement liée à cet établissement.
+
+11. Le volume d'émission de la tranche est au moins égal à 100 millions d'EUR (ou le montant équivalent en monnaie nationale).
+
+12. La tranche présente encore une durée de vie moyenne pondérée inférieure ou égale à cinq ans, qui est calculée en se fondant sur la valeur la plus basse entre, d'une part, l'hypothèse relative aux paiements anticipés retenue pour la tarification de l'opération et d'autre part, un taux constant de paiement anticipé de 20 %, pour lequel l'établissement de crédit postule que l'option de rachat s'exercera à la première date autorisée.
+
+13. L'initiateur des expositions sous-jacentes de la titrisation est un établissement au sens de l'article 4, paragraphe 3, du règlement (UE) no 575/2013 ou une entreprise dont l'activité principale consiste à exercer une ou plusieurs des activités visées à l'annexe I, points 2 à 12 et point 15, de la directive 2013/36/UE.
+
+14. La valeur de marché des titrisations de niveau 2B fait l'objet des décotes minimales suivantes:
+
+a) 25 % pour les titrisations adossées aux sous-catégories d'actifs visées au paragraphe 2, point g) i), point g) ii) et point g) iv);
+
+b) 35 % pour les titrisations adossées aux sous-catégories d'actifs visées au paragraphe 2, point g) iii), et point g) v).
+
+<a id="art_14"></a>
+
+### Article 14 — Facilités de liquidité confirmées à usage restreint
+
+Pour être assimilables à des actifs de niveau 2B, les facilités de liquidité confirmées à usage restreint pouvant être fournies par une banque centrale visées à l'article 12, paragraphe 1, point d) doivent remplir l'ensemble des critères suivants:
+
+a) en dehors des périodes de tensions, la facilité donne lieu à une commission d'engagement sur le montant total confirmé, qui est au moins égale à la plus grande des deux valeurs suivantes:
+
+i) 75 points de base par an; ou
+
+ii) au moins 25 points de base par an au-dessus de l'écart entre, d'une part, le rendement des actifs auxquels est adossée la facilité et d'autre part, le rendement d'un portefeuille d'actifs liquides représentatif, après ajustement pour tenir compte de toute différence sensible en termes de risque de crédit;
+
+En période de tensions, la banque centrale peut réduire la commission d'engagement décrite au premier alinéa, sous réserve du respect des exigences minimales applicables aux facilités de liquidité dans le cadre des autres approches de la liquidité, conformément à l'article 19;
+
+b) la facilité est adossée à des actifs non grevés d'un type spécifié par la banque centrale. Les actifs constituant la sûreté remplissent tous les critères suivants:
+
+i) ils sont détenus sous une forme qui facilite leur transfert rapide à la banque centrale en cas d'utilisation de la facilité;
+
+ii) leur valeur après la décote appliquée par la banque centrale suffit à couvrir le montant total de la facilité;
+
+iii) ils ne peuvent pas être comptabilisés en tant qu'actifs liquides aux fins de la constitution du coussin de liquidité de l'établissement de crédit;
+
+c) la facilité est compatible avec la politique de la banque centrale en matière de contreparties;
+
+d) la durée d'engagement de la facilité dépasse la période de tensions de 30 jours calendaires visée à l'article 4;
+
+e) la facilité n'est pas révoquée par la banque centrale avant son échéance contractuelle et aucune autre décision de crédit n'est prise tant que l'établissement de crédit concerné est jugé solvable;
+
+f) la banque centrale a rendu publique sa politique officielle en la matière, en annonçant sa décision d'accorder des facilités de liquidité confirmées à usage restreint, les conditions qui régissent ces facilités et les types d'établissements de crédit qui sont autorisés à en demander le bénéfice.
+
+<a id="art_15"></a>
+
+### Article 15 — Organismes de placement collectif (OPC)
+
+1. Les parts ou actions d'OPC sont admissibles en tant qu'actifs liquides de même niveau que les actifs liquides sous-jacents de l'OPC concerné, à concurrence, en chiffres absolus, de 500 millions d'EUR (ou le montant équivalent en monnaie nationale) pour chaque établissement de crédit pris individuellement, pour autant que:
+
+a) les exigences de l'article 132, paragraphe 3, du règlement (UE) no 575/2013 soient respectées;
+
+b) l'OPC n'investisse que dans des actifs et produits dérivés liquides et, dans ce dernier cas, seulement dans la mesure nécessaire pour réduire le risque de taux d'intérêt, de change ou de crédit du portefeuille.
+
+2. Les établissements de crédit appliquent les décotes minimales suivantes à la valeur de leurs parts ou actions d'OPC, en fonction de la catégorie d'actifs liquides sous-jacents:
+
+a) 0 % pour les pièces et les billets de banque et pour les expositions sur les banques centrales visées à l'article 10, paragraphe 1, point b);
+
+b) 5 % pour les actifs de niveau 1 autres que les obligations garanties de qualité extrêmement élevée;
+
+c) 12 % pour les obligations garanties de qualité extrêmement élevée visées à l'article 10, paragraphe 1, point f);
+
+d) 20 % pour les actifs de niveau 2A;
+
+e) 30 % pour les titrisations de niveau 2B adossées aux sous-catégories d'actifs visées à l'article 13, paragraphe 2, point g) i), point g) ii) et point g) iv);
+
+f) 35 % pour les obligations garanties de niveau 2B visées à l'article 12, paragraphe 1, point e);
+
+g) 40 % pour les titrisations de niveau 2B adossées aux sous-catégories d'actifs visées à l'article 13, paragraphe 2, point g) iii) et point g) v); et
+
+h) 55 % pour les titres de dette d'entreprises de niveau 2B visés à l'article 12, paragraphe 1, point b), pour les actions visées à l'article 12, paragraphe 1, point c) et pour les actifs non porteurs d'intérêts visés à l'article 12, paragraphe 1, point f).
+
+3. L'approche visée au paragraphe 2 est appliquée comme suit:
+
+a) si l'établissement de crédit a connaissance des expositions sous-jacentes de l'OPC, il peut directement lui attribuer la décote correspondant à ces expositions sous-jacentes conformément au paragraphe 2;
+
+b) si l'établissement de crédit n'a pas connaissance des expositions sous-jacentes de l'OPC, il doit partir de l'hypothèse que l'OPC investit, à concurrence du montant maximum autorisé par son mandat, et par ordre croissant, dans des actifs liquides tels qu'ils sont classés aux fins du paragraphe 2, en commençant par ceux visés au paragraphe 2, point g), et jusqu'à ce que la limite maximale d'investissement total soit atteinte. La même approche est suivie pour déterminer le niveau de liquidité des actifs sous-jacents, si l'établissement de crédit n'a pas connaissance des expositions sous-jacentes de l'OPC.
+
+4. Les établissements de crédit élaborent des méthodes et des procédures robustes pour calculer et déclarer la valeur de marché et les décotes appliquées aux parts ou actions d'OPC. Si l'exposition n'est pas suffisamment importante pour que l'établissement de crédit élabore ses propres méthodes, et pour autant que, dans chaque cas, l'autorité compétente se soit assuré du respect de cette condition, un établissement de crédit peut s'en remettre uniquement aux tiers suivants pour calculer et déclarer les décotes applicables aux parts et actions d'OPC:
+
+a) l'établissement dépositaire de l'OPC, sous réserve que l'OPC investisse exclusivement dans des titres et dépose tous ces titres auprès de cet établissement dépositaire; ou
+
+b) pour les autres OPC, la société de gestion de l'OPC, sous réserve que celle-ci réponde aux exigences énoncées à l'article 132, paragraphe 3, point a) du règlement (UE) no 575/2013.
+
+5. Si un établissement de crédit ne se conforme pas aux exigences énoncées au paragraphe 4 du présent article en ce qui concerne des parts ou actions d'OPC, il cesse de les reconnaître en tant qu'actifs liquides aux fins du présent règlement conformément à l'article 18.
+
+<a id="art_16"></a>
+
+### Article 16 — Dépôts et autres financements dans le cadre de réseaux coopératifs et de systèmes de protection institutionnels
+
+1. Si un établissement de crédit fait partie d'un système de protection institutionnel du type visé à l'article 113, paragraphe 7, du règlement (UE) no 575/2013, à un réseau pouvant bénéficier de l'exemption prévue par l'article 10 de ce règlement, ou à un réseau coopératif dans un État membre, les dépôts à vue que l'établissement de crédit a effectués auprès de l'établissement central sont traités comme des actifs liquides conformément à l'une des dispositions suivantes:
+
+a) si la législation nationale ou les documents juridiquement contraignants qui régissent le système ou réseau imposent à l'établissement central de conserver les dépôts ou de les investir dans des actifs liquides d'un niveau ou d'une catégorie donnés, ces dépôts sont traités comme des actifs liquides de ce même niveau ou de cette même catégorie, conformément au présent règlement;
+
+b) si l'établissement central n'est pas tenu de conserver les dépôts ou de les investir dans des actifs liquides d'un niveau ou d'une catégorie donnés, les dépôts sont traités comme des actifs de niveau 2B conformément au présent règlement, et leurs encours sont soumis à une décote minimale de 25 %.
+
+2. Si, en vertu de la législation d'un État membre ou des documents juridiquement contraignants qui régissent l'un des réseaux ou systèmes décrits au paragraphe 1, l'établissement de crédit peut obtenir de l'établissement central ou d'un autre établissement du même réseau ou système un financement en liquidités dans les 30 jours calendaires, ce financement est traité comme un actif de niveau 2B, dans la mesure où il n'est pas garanti par des actifs liquides d'un niveau ou d'une catégorie donnés. Une décote minimale de 25 % est appliquée au montant de principal confirmé du ﬁnancement en liquidités.
+
+<a id="art_17"></a>
+
+### Article 17 — Composition du coussin de liquidité par niveau d'actifs
+
+1. Les établissements de crédit se conforment à tout moment aux exigences suivantes concernant la composition de leur coussin de liquidité:
+
+a) un minimum de 60 % du coussin de liquidité est composé d'actifs de niveau 1;
+
+b) un minimum de 30 % du coussin de liquidité est composé d'actifs de niveau 1 à l'exclusion des obligations garanties de qualité extrêmement élevée visées à l'article 10, paragraphe 1, point f);
+
+c) un maximum de 15 % du coussin de liquidité peut être composé d'actifs de niveau 2B;
+
+2. L'établissement de crédit applique les exigences énoncées au paragraphe 1 après avoir procédé aux ajustements nécessaires pour tenir compte de l'impact, sur le stock d'actifs liquides, des opérations de financement garanties, des opérations de prêt garanties ou des opérations d'échange de sûretés faisant appel à des actifs liquides, lorsque ces opérations arrivent à échéance dans les 30 jours calendaires, après avoir déduit toutes les décotes applicables et à condition qu'il respecte les exigences opérationnelles énoncées à l'article 8.
+
+3. Les établissements de crédit déterminent la composition de leur coussin de liquidité en appliquant les formules figurant à l'annexe I du présent règlement.
+
+<a id="art_18"></a>
+
+### Article 18 — Manquement aux exigences imposées
+
+1. Si un actif liquide cesse de respecter l'une des exigences générales définies à l'article 7, les exigences opérationnelles énoncées à l'article 8, paragraphe 2, ou l'un des critères d'admissibilité définis dans le présent chapitre, l'établissement de crédit cesse de le reconnaître comme actif liquide au plus tard 30 jours calendaires à compter de la date de manquement.
+
+2. Le paragraphe 1 ne s'applique aux parts ou actions d'OPC qui cessent de répondre aux critères d'éligibilité que si elles ne dépassent pas 10 % du total des actifs de l'OPC.
+
+<a id="art_19"></a>
+
+### Article 19 — Autres approches de la liquidité
+
+1. S'il n'existe pas suffisamment d'actifs liquides dans une monnaie donnée pour permettre aux établissements de crédit de respecter le ratio de couverture des besoins de liquidité prévu à l'article 4, une ou plusieurs des dispositions suivantes s'appliquent:
+
+a) l'exigence de cohérence entre les monnaies énoncée à l'article 8, paragraphe 6, ne s'applique pas à cette monnaie;
+
+b) l'établissement de crédit peut couvrir le déficit d'actifs liquides dans une monnaie par une facilité de crédit de la banque centrale d'un État membre ou d'un pays tiers dans cette monnaie, à condition que cette facilité remplisse l'ensemble des conditions suivantes:
+
+i) elle fait l'objet d'un engagement contractuel irrévocable pour les 30 jours calendaires suivants
+
+ii) son tarif comporte une commission qui est due indépendamment du montant éventuellement décaissé;
+
+iii) le montant de la commission est tel que le rendement net des actifs utilisés pour garantir la facilité ne peut dépasser le rendement net d'un portefeuille d'actifs liquides représentatif, après ajustement pour tenir compte de toute différence sensible en termes de risque de crédit;
+
+c) s'il existe un déficit d'actifs de niveau 1, mais qu'il existe suffisamment d'actifs de niveau 2A, l'établissement de crédit peut détenir des actifs de niveau 2A supplémentaires dans son coussin de liquidité, et les plafonds par niveau d'actifs fixés à l'article 17 sont réputés être modifiés en conséquence. Ces actifs de niveau 2A supplémentaires font l'objet d'une décote minimale de 20 %. Tous les actifs de niveau 2B détenus par l'établissement de crédit restent soumis aux décotes applicables dans chaque cas conformément aux dispositions du présent chapitre.
+
+2. Les établissements de crédit appliquent les dérogations prévues au paragraphe 1 de manière inversement proportionnelle à la disponibilité des actifs liquides concernés. Ils évaluent leurs besoins de liquidités pour l'application du présent article en tenant compte de leur capacité à réduire, par une saine gestion de la liquidité, ces besoins en actifs liquides et de la détention de ces actifs par les autres participants au marché.
+
+3. Les monnaies pouvant bénéficier des dérogations prévues au paragraphe 1, et la mesure dans laquelle une ou plusieurs de ces dérogations peuvent s'appliquer globalement à une monnaie donnée, sont déterminées par le règlement d'exécution que doit adopter la Commission conformément à l'article 419, paragraphe 4, du règlement (UE) no 575/2013.
+
+4. Les conditions détaillées applicables à l'utilisation des dérogations prévues au paragraphe 1, points a) et b) sont définies par l'acte délégué que doit adopter la Commission conformément à l'article 419, paragraphe 5, du règlement (UE) no 575/2013.
+
+## *CHAPITRE 1*
+
+### ***Sorties nettes de trésorerie***
+
+<a id="art_20"></a>
+
+### Article 20 — Définition des sorties nettes de trésorerie
+
+1. Les sorties nettes de trésorerie correspondent à la somme des sorties de trésorerie visée au point a), diminuée de la somme des entrées de trésorerie visée au point b), mais ne peuvent pas être inférieures à zéro; elles sont calculées comme suit:
+
+a) la somme des sorties de trésorerie au sens du chapitre 2;
+
+b) la somme des entrées de trésorerie au sens du chapitre 3, calculées comme suit:
+
+i) les entrées exemptées de l'application du plafond en vertu de l'article 33, paragraphe 2 ou 3;
+
+ii) la valeur la plus basse, mais non inférieure à zéro, entre la valeur des entrées visées à l'article 33, paragraphe 4, et 90 % des sorties de trésorerie visées au point a), diminuées des entrées exemptées visées à l'article 33, paragraphes 2 et 3;
+
+iii) la valeur la plus basse, mais non inférieure à zéro, entre la valeur des entrées autres que celles visées à l'article 33, paragraphes 2, 3 et 4, et 75 % des sorties de trésorerie visées au point a), diminuées des entrées exemptées visées à l'article 33, paragraphes 2 et 3, et des entrées, divisées par 0,9 pour tenir compte de l'application du plafond de 90 %, visées à l'article 33, paragraphe 4.
+
+2. Les entrées et sorties de trésorerie sont évaluées sur une période de tensions de 30 jours calendaires, dans l'hypothèse d'un scénario associant tensions idiosyncratiques et tensions sur l'ensemble du marché visées à l'article 5.
+
+3. Le calcul visé au paragraphe 1 est effectué en appliquant la formule figurant à l'annexe II.
+
+<a id="art_21"></a>
+
+### Article 21 — Exigences en matière d'évaluation de l'effet des sûretés reçues lors d'opérations sur instruments dérivés
+
+Les établissements de crédit calculent les sorties et entrées de trésorerie attendues sur une période de 30 jours calendaires pour les contrats énumérés à l'annexe II du règlement (UE) no 575/2013 sur une base nette par contrepartie, sous réserve que des conventions bilatérales de compensation aient été conclues conformément à l'article 295 dudit règlement. Aux fins du présent article, «sur une base nette» signifie également net des sûretés à recevoir, à condition qu'elles soient éligibles en tant qu'actifs liquides en vertu du titre II du présent règlement. Les sorties et entrées de trésorerie liées à des opérations sur dérivés de change comportant l'échange simultané (ou intrajournalier) de l'intégralité du principal sont calculées sur une base nette, même si ces opérations ne sont pas couvertes par une convention bilatérale de compensation.
+
+## *CHAPITRE 2*
+
+### ***Sorties de trésorerie***
+
+<a id="art_22"></a>
+
+### Article 22 — Définition des sorties de trésorerie
+
+1. Les sorties de trésorerie sont calculées en multipliant les soldes de différents types ou catégories de passifs et d'engagements hors bilan par leur taux attendu de retrait ou de décaissement, conformément aux dispositions du présent chapitre.
+
+2. Les sorties de trésorerie visées au paragraphe 1 incluent les montants suivants, multipliés dans chaque cas par le taux de sortie applicable:
+
+a) l'encours actuel des dépôts stables de la clientèle de détail et des autres dépôts de détail calculé conformément aux articles 24, 25 et 26;
+
+b) les encours actuels d'autres éléments de passif qui deviennent exigibles ou peuvent donner lieu à une demande de remboursement de l'émetteur ou du fournisseur du financement dans les 30 jours calendaires suivants, ou que le fournisseur du financement s'attend à voir l'établissement de crédit lui rembourser dans les 30 jours calendaires suivants, calculés conformément aux articles 27 et 28;
+
+c) les sorties de trésorerie supplémentaires calculées conformément au paragraphe 30;
+
+d) le montant maximum pouvant être décaissé au cours des 30 jours calendaires suivants au titre de facilités de crédit et de liquidité confirmées non utilisées, calculé conformément à l'article 31;
+
+e) les sorties de trésorerie supplémentaires qui ressortent de l'évaluation effectuée conformément à l'article 23.
+
+<a id="art_23"></a>
+
+### Article 23 — Sorties de trésorerie supplémentaires pour d'autres produits et services
+
+1. Les établissements de crédit évaluent régulièrement la probabilité et le volume potentiel, sur 30 jours calendaires, des sorties de trésorerie liées aux produits ou services qui ne relèvent pas des articles 27 à 31 et qu'ils proposent, ou dont ils sont les sponsors, ou que des acheteurs potentiels estimeraient leur être associés. Ces produits ou services incluent notamment, mais pas exclusivement, les sorties de trésorerie résultant de tout dispositif contractuel visé à l'article 429 et à l'annexe I du règlement (UE) no 575/2013, tel que:
+
+a) les autres obligations de hors bilan et obligations de financement éventuel, y compris, mais pas exclusivement, les facilités de financement non confirmées,
+
+b) les prêts et avances non utilisés accordés à des contreparties de gros;
+
+c) les prêts hypothécaires accordés mais pas encore prélevés;
+
+d) les cartes de crédit;
+
+e) les découverts;
+
+f) les sorties prévues liées au renouvellement de prêts ou à l'octroi de nouveaux prêts à la clientèle de détail ou de gros;
+
+g) les montants à payer prévus sur des dérivés;
+
+h) les produits liés aux crédits commerciaux de hors bilan.
+
+2. Les sorties de trésorerie visées au paragraphe 1 sont évaluées dans le cadre d'un scénario associant tensions idiosyncratiques et tensions sur l'ensemble du marché visées à l'article 5. Aux fins de cette évaluation, les établissements de crédit tiennent particulièrement compte de toute atteinte significative à la réputation qui pourrait résulter de l'absence de soutien financier à de tels produits et services. Les établissements de crédit déclarent au moins une fois par an aux autorités compétentes les produits et services pour lesquels la probabilité et le volume potentiel des sorties de trésorerie, visés au paragraphe 1, ont une importance significative, et les autorités compétentes déterminent les sorties de trésorerie à affecter. Les autorités compétentes peuvent appliquer un taux de sortie de trésorerie allant jusqu'à 5 % pour les produits liés aux crédits commerciaux de hors bilan visés à l'article 429 et à l'annexe I du règlement (UE) no 575/2013.
+
+3. Les autorités compétentes remettent au moins une fois par an à l'ABE un rapport sur les types de produits ou de services pour lesquels elles ont calculé les sorties de trésorerie sur la base des déclarations des établissements de crédit; elles expliquent dans ce rapport la méthode employée pour calculer ces sorties de trésorerie.
+
+<a id="art_24"></a>
+
+### Article 24 — Sorties de trésorerie relatives à des dépôts de détail stables
+
+1. À moins que les critères d'application d'un taux de sortie plus élevé prévu par l'article 25, paragraphe 2, 3 ou 5, ne soient remplis, le montant des dépôts de détail couverts par un système de garantie des dépôts conforme à la directive 94/19/CE du Parlement européen et du Conseil (6) ou à la directive 2014/49/UE, ou par un système de garantie des dépôts équivalent d'un pays tiers, est considéré comme stable et multiplié par 5 % lorsque le dépôt:
+
+a) fait partie d'une relation établie, rendant un retrait très improbable; ou
+
+b) est détenu sur un compte courant.
+
+2. Aux fins du paragraphe 1, point a), un dépôt de détail est considéré comme faisant partie d'une relation établie si le déposant satisfait à l'un au moins des critères suivants:
+
+a) il a avec l'établissement de crédit une relation contractuelle active d'au moins 12 mois;
+
+b) il a avec l'établissement de crédit une relation d'emprunt portant sur des prêts immobiliers résidentiels ou sur d'autres prêts à long terme;
+
+c) il compte dans l'établissement de crédit au moins un autre produit actif, autre qu'un prêt.
+
+3. Aux fins du paragraphe 1, point b), un dépôt de détail est considéré comme détenu sur un compte courant si des salaires, revenus ou transactions sont régulièrement portés, respectivement, au crédit ou au débit de ce compte.
+
+4. Par dérogation au paragraphe 1, à compter du 1er janvier 2019, les autorités compétentes peuvent autoriser les établissements de crédit à multiplier par 3 % le montant des dépôts de détail stables visés au paragraphe 1 qui sont couverts par un système de garantie des dépôts conforme à la directive 2014/49/UE pour un montant maximum de 100 000 EUR, en application de l'article 6, paragraphe 1, de cette directive, à condition que la Commission ait confirmé que le système de garantie des dépôts officiellement reconnu remplit tous les critères suivants:
+
+a) le système de garantie des dépôts s'est doté des moyens financiers disponibles visés par l'article 10 de la directive 2014/49/UE, qu'il a constitués ex ante via les contributions versées par ses membres au moins une fois par an;
+
+b) le système de garantie des dépôts a les moyens de s'assurer l'obtention rapide de financements supplémentaires en cas d'appel massif à ses réserves, y compris l'obtention de contributions extraordinaires des établissements de crédit membres et l'accès à d'autres mécanismes de financement appropriés pour obtenir un financement à court terme de la part de tiers, publics ou privés;
+
+c) le système de garantie des dépôts garantit un délai de remboursement de sept jours ouvrables, conformément à l'article 8, paragraphe 1, de la directive 2014/49/UE, à compter de la date d'application du taux de sortie de trésorerie de 3 %.
+
+5. Les autorités compétentes ne délivrent l'autorisation prévue au paragraphe 4 qu'après avoir obtenu l'accord préalable de la Commission. Cet accord est demandé au moyen d'une notification motivée, démontrant que le taux de retrait pour les dépôts de détail stables serait inférieur à 3 % pour toute période de tensions correspondant aux scénarios visés à l'article 5. La notification motivée est transmise à la Commission au moins trois mois avant la date à partir de laquelle l'autorisation est demandée. La Commission évalue la conformité du système de garantie des dépôts avec les conditions énoncées au paragraphe 4, points a), b) et c). Si ces conditions sont remplies, la Commission approuve la demande de l'autorité compétente d'accorder l'autorisation, à moins qu'il existe des raisons impérieuses de ne pas l'approuver, compte tenu du fonctionnement du marché intérieur des dépôts de détail. Tous les établissements de crédit affiliés à un tel système agréé de garantie des dépôts peuvent appliquer le taux de sortie de trésorerie de 3 %. La Commission consulte l'ABE sur la conformité du système de garantie des dépôts concerné avec les conditions énoncées au paragraphe 4, points a), b) et c).
+
+6. Les établissements de crédit peuvent être autorisés par leur autorité compétente à multiplier par 3 % le montant des dépôts de détail qui sont couverts par un système de garantie des dépôts d'un pays tiers équivalent au système visé au paragraphe 1, si le pays tiers autorise ce traitement.
+
+<a id="art_25"></a>
+
+### Article 25 — Sorties de trésorerie relatives à d'autres dépôts de détail
+
+1. Les établissements de crédit multiplient par 10 % les autres dépôts de détail, y compris la part des dépôts de détail ne relevant pas de l'article 24, à moins que les conditions prévues au paragraphe 2 s'appliquent.
+
+2. Les autres dépôts de détail font l'objet de taux de sortie plus élevés, déterminés par l'établissement de crédit conformément au paragraphe 3, si les conditions suivantes sont remplies:
+
+a) le solde total des dépôts, incluant tous les comptes de dépôt du client auprès de cet établissement de crédit ou de ce groupe, est supérieur à 500 000 EUR;
+
+b) le dépôt est un compte exclusivement en ligne;
+
+c) le dépôt offre un taux d'intérêt conforme à l'une des conditions suivantes:
+
+i) il dépasse sensiblement le taux moyen offert pour des produits de détail similaires;
+
+ii) son rendement dépend du rendement d'un indice ou d'un ensemble d'indices de marché;
+
+iii) son rendement dépend d'une variable de marché autre qu'un taux d'intérêt variable;
+
+d) le dépôt est initialement un dépôt à terme arrivant à échéance au cours de la période de 30 jours calendaires, ou il s'accompagne d'un délai de préavis fixe inférieur à 30 jours calendaires, conformément aux dispositions contractuelles, et il ne fait pas partie des dépôts qui peuvent bénéficier du traitement prévu au paragraphe 4;
+
+e) pour les établissements de crédit établis dans l'Union, le déposant est résident d'un pays tiers, ou le dépôt est libellé dans une autre monnaie que l'euro ou que la monnaie nationale d'un État membre. Pour les établissements de crédit ou succursales de pays tiers, le déposant est non-résident dans le pays tiers, ou le dépôt est libellé dans une autre monnaie que la monnaie nationale du pays tiers.
+
+3. Les établissements de crédit appliquent un taux de sortie supérieur, déterminé comme suit:
+
+a) si les dépôts de détail remplissent le critère défini au paragraphe 2, point a), ou deux des critères définis au paragraphe 2, points b) à e), il leur est appliqué un taux de sortie situé entre 10 % et 15 %;
+
+b) si les dépôts de détail remplissent soit le critère défini au paragraphe 2, point a), et au moins un autre des critères définis au paragraphe 2, soit trois ou plus des critères définis au paragraphe 2, il leur est appliqué un taux de sortie situé entre 15 % et 20 %.
+
+Les autorités compétentes peuvent appliquer au cas par cas un taux de sortie majoré si la situation particulière de l'établissement de crédit le justifie. Les établissements de crédit appliquent le taux de sortie visé au paragraphe 3, point b) aux dépôts de détail pour lesquels l'évaluation prévue au paragraphe 2 n'a pas eu lieu ou n'est pas terminée.
+
+4. Les établissements peuvent exclure du calcul des sorties de trésorerie certaines catégories bien définies de dépôts de détail dès lors que, dans tous les cas, l'établissement applique rigoureusement les dispositions suivantes pour toute la catégorie des dépôts, à moins que les difficultés du déposant ne permettent de justifier une exception:
+
+a) le déposant n'est pas autorisé à retirer le dépôt dans les 30 jours calendaires; ou
+
+b) en cas de retrait anticipé dans les 30 jours calendaires, le déposant doit payer une pénalité qui inclut la perte des intérêts entre la date du retrait et la date d'échéance contractuelle, plus une pénalité significative qui ne doit pas excéder les intérêts dus pour le temps écoulé entre la date du dépôt et la date du retrait.
+
+Si une partie du dépôt visé au premier alinéa peut être retirée sans pénalité, seule cette partie est traitée comme un dépôt à vue, le solde étant traité comme un dépôt à terme conformément au présent paragraphe. Un taux de sortie de 100 % est appliqué aux dépôts annulés dont l'échéance résiduelle est inférieure à 30 jours calendaires et dont il a été convenu de rembourser le montant à un autre établissement de crédit.
+
+5. Par dérogation à l'article 24, paragraphes 1 à 4, les établissements de crédit appliquent aux dépôts de détail reçus dans des pays tiers un pourcentage de sortie plus élevé, si ce pourcentage est prévu par la législation nationale établissant les exigences de liquidité dans ce pays tiers.
+
+<a id="art_26"></a>
+
+### Article 26 — Sorties de trésorerie s'accompagnant d'entrées de trésorerie interdépendantes
+
+Sous réserve de l'autorisation préalable de l'autorité compétente, les établissements de crédit peuvent calculer une sortie de trésorerie nette en en déduisant une entrée de trésorerie interdépendante qui remplit toutes les conditions suivantes:
+
+a) l'entrée de trésorerie interdépendante est directement liée à la sortie de trésorerie et n'entre pas dans le calcul des entrées de trésorerie prévu au chapitre 3;
+
+b) l'entrée de trésorerie interdépendante est requise par un engagement légal, réglementaire ou contractuel;
+
+c) l'entrée de trésorerie interdépendante remplit l'une des conditions suivantes:
+
+i) elle intervient obligatoirement avant la sortie concernée;
+
+ii) elle est reçue dans les dix jours et est garantie par l'administration centrale d'un État membre.
+
+<a id="art_27"></a>
+
+### Article 27 — Sorties de trésorerie relatives à des dépôts opérationnels
+
+1. Les établissements de crédit multiplient par 25 % les passifs résultant de dépôts détenus:
+
+a) par le déposant, pour pouvoir bénéficier, de la part de l'établissement de crédit, de services de compensation, de dépositaire, de gestion de trésorerie ou d'autres services analogues fournis dans le cadre d'une relation opérationnelle établie;
+
+b) conformément aux modalités générales de partage des tâches prévues par un système de protection institutionnel conforme aux exigences de l'article 113, paragraphe 7, du règlement (UE) no 575/2013 ou par un groupe d'établissements de crédit coopératifs affiliés de manière permanente à un organisme central conforme aux exigences de l'article 113, paragraphe 6, dudit règlement, ou en tant que dépôt légal ou contractuel par un autre établissement de crédit membre du même système de protection institutionnel ou réseau coopératif, à condition que ces dépôts ne soient pas comptabilisés en tant qu'actifs liquides pour l'établissement de crédit déposant conformément au paragraphe 3 et à l'article 16;
+
+c) par le déposant dans le cadre d'une relation opérationnelle établie autre que celle visée au point a);
+
+d) par le déposant afin d'obtenir des services de compensation en espèces et d'établissement central, et lorsque l'établissement de crédit appartient à l'un des réseaux ou systèmes visés à l'article 16;
+
+2. Par dérogation au paragraphe 1, les établissements de crédit multiplient par 5 % la part des passifs résultant de dépôts visés au paragraphe 1, point a), qui est couverte par un système de garantie des dépôts conforme à la directive 94/19/CE ou à la directive 2014/49/UE ou par un système de garantie des dépôts équivalent dans un pays tiers.
+
+3. Les dépôts d'établissements de crédit auprès de l'établissement central qui sont considérés comme des actifs liquides pour l'établissement de crédit déposant, conformément à l'article 16, se voient appliquer un taux de sortie de 100 % pour l'établissement central sur le montant de ces actifs liquides après décote. Ces actifs liquides ne sont pas pris en compte pour la couverture de sorties de trésorerie autres que celles visées dans la première phrase du présent paragraphe, et ne sont pas pris en compte dans le calcul des composantes du reste du coussin de liquidité effectué conformément à l'article 17 pour l'établissement central au niveau individuel.
+
+4. Les services de compensation, de dépositaire, de gestion de trésorerie ou autres services analogues visés au paragraphe 1, points a) et d) n'incluent que les services de ce type fournis dans le cadre d'une relation établie qui revêt une importance critique pour le déposant. Les dépôts visés au paragraphe 1, points a), c) et d), font l'objet de limitations légales ou opérationnelles significatives qui rendent improbable un retrait significatif dans les 30 jours calendaires. Les fonds en excédent de ceux requis pour la fourniture de services opérationnels sont considérés comme des dépôts non opérationnels.
+
+5. Les dépôts découlant d'une relation de correspondant bancaire ou de la fourniture de services de courtage principal ne sont pas considérés comme des dépôts opérationnels et se voient appliquer un taux de sortie de 100 %.
+
+6. Afin d'identifier les dépôts visés au point c) du paragraphe 1, les établissements de crédit considèrent qu'il existe une relation opérationnelle établie avec un client non financier, à l'exclusion des dépôts à terme, des dépôts d'épargne et des dépôts effectués par des courtiers, si tous les critères suivants sont remplis:
+
+a) la rémunération du compte est fixée au moins 5 points de base en dessous du taux qui prévaut pour les dépôts de gros présentant des caractéristiques comparables, sans être nécessairement négative;
+
+b) le dépôt est détenu sur des comptes dédiés et est tarifé de manière à ne pas créer d'incitations économiques qui pousseraient le déposant à y conserver des fonds au-delà de ce que requiert la relation opérationnelle;
+
+c) des opérations d'une importance significative sont fréquemment portées au crédit et au débit du compte en question;
+
+d) l'un des critères suivants est rempli:
+
+i) la relation avec le déposant existe depuis au moins 24 mois;
+
+ii) le dépôt est utilisé pour au moins deux services actifs. Ces services peuvent comprendre un accès direct ou indirect à des services de paiement national ou international, le négoce de titres ou des services de dépositaire.
+
+Seule la partie du dépôt qui est nécessaire à la prestation du service dont le dépôt est un sous-produit est considérée comme un dépôt opérationnel. L'excédent est considéré comme non opérationnel.
+
+<a id="art_28"></a>
+
+### Article 28 — Sorties de trésorerie relatives à d'autres passifs
+
+1. Les établissements de crédit multiplient par 40 % les passifs résultant de dépôts de clients qui sont des clients non financiers, des entités souveraines, des banques centrales, des banques multilatérales de développement, des entités du secteur public, des coopératives de crédit agréées par une autorité compétente, des sociétés d'investissement personnelles ou des courtiers en dépôts, dans la mesure où ils ne relèvent pas de l'article 27.
+
+Par dérogation au premier alinéa, lorsque les passifs visés audit alinéa sont couverts par un système de garantie des dépôts conforme à la directive 94/19/CE ou à la directive 2014/49/UE ou par un système de garantie des dépôts équivalent d'un pays tiers, ils sont multipliés par 20 %.
+
+2. Les établissements de crédit multiplient les passifs qui résultent de leurs propres coûts d'exploitation par 0 %.
+
+3. Les établissements de crédit multiplient par les pourcentages suivants les passifs qui résultent d'opérations de prêts garanties et d'opérations ajustées aux conditions du marché arrivant à échéance dans les 30 jours calendaires, au sens de l'article 192, paragraphes 2 et 3 du règlement no 575/2013:
+
+a) 0 %, s'ils sont garantis par des actifs assimilables à des actifs de niveau 1 en vertu de l'article 10, à l'exception des obligations garanties de qualité extrêmement élevée visées à l'article 10, paragraphe 1, point f), ou si le prêteur est une banque centrale;
+
+b) 7 %, s'ils sont garantis par des actifs assimilables aux obligations garanties de qualité extrêmement élevée visées à l'article 10, paragraphe 1, point f);
+
+c) 15 %, s'ils sont garantis par des actifs assimilables à des actifs de niveau 2A en vertu de l'article 11;
+
+d) 25 %:
+
+i) s'ils sont garantis par des actifs visés à l'article 13, paragraphe 2, point g) i), point g) ii) ou point g) iv);
+
+ii) s'ils sont garantis par des actifs non assimilables à des actifs liquides en vertu des articles 10 et 11 et si le prêteur est l'administration centrale ou une entité du secteur public de l'État membre ou d'un pays tiers où l'établissement de crédit a été agréé ou a établi une succursale, ou une banque multilatérale de développement. Les entités du secteur public bénéficiant de ce traitement sont limitées à celles qui font l'objet d'une pondération du risque de 20 % ou moins conformément aux dispositions de l'article 116, paragraphes 4 et 5, du règlement (UE) no 575/2013;
+
+e) 35 %, s'ils sont garantis par les sous-catégories d'actifs visées à l'article 13, paragraphe 2, point g) iii) ou point g) v);
+
+f) 50 % s'ils sont garantis par:
+
+i) des titres de dette d'entreprises assimilables à des actifs de niveau 2B en vertu de l'article 12, paragraphe 1, point b);
+
+ii) des actions assimilables à des actifs de niveau 2B en vertu de l'article 12, paragraphe 1, point c);
+
+g) 100 %, s'ils sont garantis par des actifs non assimilables à des actifs liquides en vertu du titre II, à l'exception des opérations relevant du point d) ii) du présent paragraphe, ou si le prêteur est une banque centrale.
+
+4. Les opérations d'échange de sûretés qui arrivent à échéance dans les 30 jours calendaires suivants donnent lieu à une sortie de trésorerie, correspondant à l'excédent de valeur de liquidité des actifs empruntés par rapport à la valeur de liquidité des actifs prêtés, sauf si la contrepartie est une banque centrale, auquel cas il est appliqué un taux de sortie de 0 %.
+
+5. Les soldes compensatoires détenus sur des comptes ségrégués dans le cadre de régimes de protection des clients imposés par les réglementations nationales sont traités comme des entrées, conformément à l'article 32, et exclus du stock d'actifs liquides.
+
+6. Les établissements de crédit appliquent un taux de sortie de 100 % à tous les bons, obligations et autres titres de dette émis par l'établissement de crédit, sauf si l'obligation est vendue exclusivement sur le marché de détail et détenue sur un compte de détail, auquel cas ces instruments peuvent être assimilés à la catégorie de dépôts de détail appropriée. Des limites sont définies de sorte que ces instruments ne puissent pas être achetés et détenus par d'autres parties que la clientèle de détail.
+
+<a id="art_29"></a>
+
+### Article 29 — Sorties de trésorerie au sein d'un groupe ou d'un système de protection institutionnel
+
+1. Par dérogation au paragraphe 31, les autorités compétentes peuvent autoriser au cas par cas l'application d'un taux de sortie minoré aux facilités de crédit ou de liquidité, si toutes les conditions suivantes sont remplies:
+
+a) il existe des raisons de supposer que les sorties de trésorerie seront moins élevées, même en cas de tensions sur le marché associées à des tensions idiosyncratiques propres au fournisseur;
+
+b) la contrepartie est l'établissement mère ou un établissement filiale de l'établissement de crédit, ou une autre filiale du même établissement mère, ou elle est liée à l'établissement de crédit par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE du Conseil (7), ou elle est membre du même système de protection institutionnel, au sens de l'article 113, paragraphe 7, du règlement (UE) no 575/2013, ou elle est l'établissement central ou l'un des affiliés d'un réseau ou d'un groupe coopératif visés par l'article 10 du présent règlement;
+
+c) ce taux de sortie minoré n'est pas inférieur au taux d'entrée appliqué par la contrepartie;
+
+d) l'établissement de crédit et la contrepartie sont établis dans le même État membre.
+
+2. Les autorités compétentes peuvent ne pas imposer le respect de la condition énoncée au paragraphe 1, point d), lorsque l'article 20, paragraphe 1, point b), du règlement (UE) no 575/2013 est appliqué. Dans ce cas, les critères objectifs suivants doivent également être remplis:
+
+a) le fournisseur et le récepteur des liquidités présentent un profil de risque de liquidité faible;
+
+b) il existe des accords et des engagements juridiquement contraignants entre les entités du groupe en ce qui concerne les facilités de crédit ou de liquidité non utilisées;
+
+c) le profil de risque de liquidité du récepteur des liquidités est dûment pris en compte dans la gestion du risque de liquidité du fournisseur;
+
+Lorsqu'une autorité compétente autorise l'application d'un tel taux de sortie minoré, elle informe l'ABE du résultat du processus visé par l'article 20, paragraphe 1, point b), du règlement (UE) no 575/2013. Le respect des conditions d'une telle minoration des sorties de trésorerie est régulièrement examiné par les autorités compétentes.
+
+<a id="art_30"></a>
+
+### Article 30 — Sorties de trésorerie supplémentaires
+
+1. Les sûretés, autres que les espèces et actifs visés à l'article 10, constituées par l'établissement de crédit aux fins des contrats énumérés à l'annexe II du règlement (UE) no 575/2013 et des dérivés de crédit, sont soumises à un taux de sortie supplémentaire de 20 %.
+
+Les sûretés composées d'actifs visés à l'article 10, paragraphe 1, point f) constituées par l'établissement de crédit aux fins des contrats énumérés à l'annexe II du règlement (UE) no 575/2013 et des dérivés de crédit, sont soumises à un taux de sortie supplémentaire de 10 %.
+
+2. Les établissements de crédit calculent et notifient aux autorités compétentes une sortie de trésorerie supplémentaire pour tous les contrats conclus dont les clauses contractuelles entraînent, dans les 30 jours calendaires, et en cas de dégradation significative de la qualité de crédit de ces établissements, des sorties supplémentaires de trésorerie ou des besoins supplémentaires en sûretés. Les établissements de crédit notifient cette sortie de trésorerie aux autorités compétentes au plus tard à la date de remise des déclarations prévues par l'article 415 du règlement (UE) no 575/2013. Si les autorités compétentes jugent ces sorties de trésorerie importantes par rapport aux sorties de trésorerie potentielles de l'établissement, elles lui imposent l'ajout, pour ces contrats, d'une sortie de trésorerie supplémentaire, correspondant aux besoins supplémentaires en sûretés ou aux sorties de trésorerie résultant d'une dégradation significative de sa qualité de crédit équivalant à une baisse de trois crans de son évaluation externe de crédit. L'établissement de crédit applique un taux de sortie de 100 % à ces sûretés ou sorties de trésorerie supplémentaires. L'établissement de crédit réexamine régulièrement le degré de cette dégradation significative au vu des éléments pertinents des contrats qu'il a conclus et notifie les résultats de ce réexamen aux autorités compétentes.
+
+3. L'établissement de crédit ajoute une sortie de trésorerie supplémentaire correspondant aux besoins en sûretés qu'entraînerait l'impact d'un scénario de marché défavorable sur ses opérations sur dérivés, ses opérations de financement et ses autres contrats, s'il devait être important. Ce calcul est effectué conformément à l'acte délégué que doit adopter la Commission en vertu de l'article 423, paragraphe 3, du règlement (UE) no 575/2013.
+
+4. Les établissements de crédit comptabilisent sur une base nette les sorties et les entrées de trésorerie attendues sur 30 jours calendaires pour les contrats énumérés à l'annexe II du règlement (UE) no 575/2013, conformément à l'article 21. En cas de sortie nette de trésorerie, l'établissement de crédit multiplie le résultat par un taux de sortie de 100 %. Les établissements de crédit excluent de ces calculs les exigences en matière de liquidités qui résulteraient de l'application des paragraphes 1, 2 et 3.
+
+5. L'établissement de crédit ajoute une sortie de trésorerie supplémentaire correspondant à 100 % de la valeur de marché des titres ou autres actifs vendus à découvert et livrables dans les 30 jours calendaires, sauf s'il détient les titres à livrer ou les a empruntés à des conditions ne prévoyant leur restitution qu'après 30 jours calendaires et si ces titres ne font pas partie de ses actifs liquides. Si la position courte est couverte par une cession temporaire de titre assortie d'une sûreté, l'établissement de crédit présume que la position courte sera maintenue pendant toute la période de 30 jours calendaires et se verra appliquer un taux de sortie de 0 %.
+
+6. L'établissement de crédit ajoute une sortie de trésorerie supplémentaire correspondant à 100 %:
+
+a) des sûretés excédentaires détenues par l'établissement qui peuvent être contractuellement demandées à tout moment par la contrepartie;
+
+b) des sûretés à remettre à une contrepartie dans les 30 jours calendaires;
+
+c) des sûretés correspondant à des actifs éligibles en tant qu'actifs liquides aux fins du titre II qui peuvent être remplacées sans l'accord de l'établissement de crédit par des actifs correspondant à des actifs non éligibles en tant qu'actifs liquides aux fins du titre II.
+
+7. Les dépôts reçus en garantie ne sont pas considérés comme des passifs aux fins des articles 27 ou 29, mais ils sont soumis, le cas échéant, aux dispositions des paragraphes 1 à 6 du présent article.
+
+8. Les établissements de crédit tablent sur une sortie de trésorerie de 100 % pour perte de financements sur les titres adossés à des actifs, obligations garanties et autres instruments structurés arrivant à échéance dans les 30 jours calendaires, lorsque ces instruments sont émis par l'établissement de crédit lui-même ou par des structures ou entités ad hoc dont il est le sponsor.
+
+9. Les établissements de crédit tablent sur une sortie de trésorerie de 100 % pour perte de financements sur papiers commerciaux adossés à des actifs, structures ou véhicules d'investissement ad hoc et autres facilités de financement. Ce taux de sortie de 100 % s'applique au montant arrivant à échéance ou au montant des actifs qui pourraient être restitués ou des liquidités exigibles.
+
+10. En ce qui concerne la part des programmes de financement visés aux paragraphes 8 et 9, les établissements de crédit qui fournissent les facilités de liquidité connexes ne doivent pas comptabiliser à la fois l'instrument de financement arrivant à échéance et la facilité de liquidité pour les programmes consolidés.
+
+11. Les actifs empruntés sans garantie et arrivant à échéance dans les 30 jours calendaires sont présumés faire l'objet d'un retrait intégral, entraînant une sortie d'actifs liquides de 100 %, à moins que l'établissement de crédit détienne les titres et qu'ils ne fassent pas partie de son coussin de liquidité.
+
+12. En ce qui concerne la prestation de services de courtage principal, si un établissement de crédit a financé les actifs d'un client en les compensant, en interne, par les ventes à découvert d'un autre client, ces opérations se voient appliquer un taux de retrait de 50 % correspondant à cette obligation conditionnelle, puisqu'en cas de retraits par la clientèle, l'établissement de crédit pourrait être contraint de trouver des ressources supplémentaires pour financer ces positions.
+
+<a id="art_31"></a>
+
+### Article 31 — Sorties de trésorerie relatives à des facilités de crédit et de liquidité
+
+1. Aux fins du présent article, on entend par facilité de liquidité toute facilité confirmée de soutien non utilisée qui servirait à refinancer la dette d'un client dans des situations où il n'est pas en mesure de refinancer cette dette sur les marchés financiers. Son montant correspond à l'encours de dette émise par le client qui arrive à échéance dans les 30 jours calendaires et qui est couvert par la facilité. La part d'une facilité de liquidité couvrant une dette dont l'échéance n'intervient pas dans les 30 jours calendaires n'entre pas dans la définition de la facilité. Toute capacité supplémentaire de la facilité est traitée comme une facilité de crédit confirmée et se voit appliquer le taux de décaissement précisé dans le présent article. Les crédits généraux de fonds de roulement aux entreprises n'entrent pas dans la catégorie des facilités de liquidité, mais dans celle des facilités de crédit.
+
+2. Les établissements de crédit calculent les sorties liées aux facilités de crédit et de liquidité en multipliant le montant de ces facilités par les taux de sortie correspondants fixés aux paragraphes 3 à 5. Les sorties de trésorerie liées aux facilités de crédit et de liquidité confirmées sont définies en pourcentage du montant maximum pouvant être décaissé dans les 30 jours calendaires, net de toute exigence de liquidité éventuellement applicable au titre de l'article 23 pour les crédits commerciaux de hors bilan, et net de toute sûreté mise à la disposition de l'établissement de crédit et valorisée conformément à l'article 9, à condition que cette sûreté remplisse l'ensemble des conditions suivantes:
+
+a) elle peut être réutilisée par l'établissement de crédit;
+
+b) elle est détenue sous forme d'actifs liquides, mais n'est pas comptabilisée dans la composition du coussin de liquidité; et
+
+c) elle n'est pas composée d'actifs émis par la contrepartie de la facilité ou par l'une des entités qui lui sont affiliées.
+
+Si l'établissement de crédit dispose des informations nécessaires, le montant maximum décaissable au titre de facilités de crédit et de liquidité est calculé comme le montant maximum qui pourrait être décaissé compte tenu des propres obligations de la contrepartie ou du calendrier prédéfini des prélèvements contractuels exigibles sur 30 jours calendaires.
+
+3. Le montant maximum décaissable durant les 30 jours calendaires suivants au titre de facilités de crédit et de liquidité confirmées et non utilisées est multiplié par 5 % si elles relèvent de la catégorie des expositions sur des dépôts de détail.
+
+4. Le montant maximum décaissable dans les 30 jours calendaires au titre de facilités de crédit et de liquidité confirmées et non utilisées est multiplié par 10 % si elles remplissent les conditions suivantes:
+
+a) elles ne relèvent pas de la catégorie des expositions sur des dépôts de détail;
+
+b) elles ont été fournies à une clientèle composée de clients non financiers, à savoir d'entreprises non financières, d'entités souveraines, de banques centrales, de banques multilatérales de développement et d'entités du secteur public;
+
+c) elles n'ont pas été accordées afin d'apporter au client un financement de substitution dans une situation où il n'est pas en mesure de satisfaire ses exigences de financement sur les marchés financiers.
+
+5. Le montant maximum décaissable au titre de facilités de liquidité engagées et non utilisées au cours des 30 jours calendaires suivants est multiplié par 30 % si elles respectent les conditions visées au paragraphe 4, points a) et b), et de 40 % si elles sont fournies à des sociétés d'investissement personnelles.
+
+6. Le montant confirmé et non utilisé d'une facilité de liquidité qui a été octroyée à une entité de titrisation pour lui permettre d'acheter des actifs autres que des titres auprès de clients autres que financiers est multiplié par 10 %, dans la mesure où il dépasse le montant des actifs actuellement achetés auprès de clients et où le montant maximal décaissable est contractuellement limité au montant des actifs actuellement achetés.
+
+7. L'établissement central d'un régime ou réseau visé à l'article 16 multiplie par un taux de sortie de 75 % l'engagement de financement en liquidités pris auprès d'un établissement de crédit membre si cet établissement peut considérer ce financement comme un actif liquide conformément à l'article 16, paragraphe 2. Un taux de sortie de 75 % est appliqué au principal de l'engagement de ﬁnancement en liquidités.
+
+8. L'établissement de crédit multiplie par les taux de sortie suivants le montant maximal décaissable dans les 30 jours calendaires au titre des autres facilités de crédit et de liquidité confirmées et non utilisées:
+
+a) 40 %, pour les facilités de crédit et de liquidité accordées aux établissements de crédit et pour les facilités de crédit accordées à d'autres établissements financiers réglementés, y compris les entreprises d'assurance, les entreprises d'investissement, les OPC et les fonds d'investissement à capital fixe;
+
+b) 100 %, pour les facilités de liquidité que l'établissement de crédit a accordées à des entités de titrisation autres que celles visées au paragraphe 6, et pour les accords imposant à l'établissement d'acheter des actifs à une entité de titrisation ou d'en échanger avec elle;
+
+c) 100 %, pour les facilités de crédit et de liquidité accordées à des clients financiers non visés aux points a) et b) et aux paragraphes 1 à 7.
+
+9. Par dérogation aux paragraphes 1 à 8, les établissements de crédit établis et financés par l'administration centrale ou par une administration régionale d'au moins un État membre peuvent appliquer les traitements prévus aux paragraphes 3 et 4 aux facilités de crédit et de liquidité accordées à des organismes spécialisés dans les prêts incitatifs à seule fin de financer, directement ou indirectement, de tels prêts, à condition que ces prêts répondent aux exigences requises pour l'application des taux de sortie visés aux paragraphes 3 et 4.
+
+Par dérogation à l'article 32, paragraphe 3, point g), si ces prêts incitatifs sont accordés en tant que prêts intermédiaires, via un autre établissement de crédit agissant en tant qu'intermédiaire, les établissements de crédit peuvent leur appliquer une entrée et une sortie de trésorerie symétriques.
+
+Les prêts incitatifs visés au présent paragraphe ne sont accordés qu'à des personnes autres que des clients financiers, sur une base non concurrentielle et dans un but non lucratif, afin de promouvoir des objectifs de politique publique de l'Union ou de l'administration centrale ou régionale de l'État membre concerné. Le recours à ces facilités ne doit être possible que à la suite d'une demande de prêt incitatif à laquelle on peut raisonnablement s'attendre et jusqu'à concurrence du montant de cette demande, à condition que l'utilisation des fonds versés soit ensuite déclarée.
+
+10. Les établissements de crédit multiplient par 100 % toute sortie de trésorerie résultant de passifs arrivant à échéance dans les 30 jours calendaires, autres que ceux visés aux articles 23 à 31.
+
+## *CHAPITRE 3*
+
+### ***Entrées de trésorerie***
+
+<a id="art_32"></a>
+
+### Article 32 — Entrées de trésorerie
+
+1. Les entrées de trésorerie sont évaluées sur une période de 30 jours calendaires. Elles ne comprennent que les entrées de trésorerie contractuelles sur les expositions non échues et pour lesquelles l'établissement de crédit n'a pas de raison de supposer une non-exécution dans les 30 jours calendaires.
+
+2. Un taux d'entrée de 100 % est appliqué aux entrées de trésorerie, et notamment:
+
+a) aux montants à recevoir des banques centrales et des clients financiers. Dans le cas de ces derniers, les entrées de trésorerie résultant des éléments suivants en particulier sont considérées comme assujetties au taux d'entrée de 100 %:
+
+i) les titres venant à échéance dans les 30 jours calendaires;
+
+ii) les opérations de financement des crédits commerciaux visées à l'article 162, paragraphe 3, deuxième alinéa, point b), du règlement (UE) no 575/2013 ayant une échéance résiduelle inférieure à 30 jours calendaires;
+
+b) aux montants à recevoir résultant de positions sur des indices majeurs d'instruments de capitaux propres, à condition qu'il n'y ait pas de double comptabilisation avec des actifs liquides. Ces montants incluent les montants contractuellement dus dans les 30 jours calendaires, tels que les dividendes en espèces provenant de tels indices majeurs et les montants en espèces à recevoir provenant de tels instruments de capitaux propres vendus, mais non encore réglés, s'ils ne sont pas comptabilisés comme des actifs liquides conformément au titre II.
+
+3. Par dérogation au paragraphe 2, les entrées de trésorerie visées au présent paragraphe sont soumises aux exigences suivantes:
+
+a) les montants à recevoir des clients non financiers aux fins du paiement du principal sont réduits soit de 50 % de leur valeur, soit des engagements contractuels d'octroi d'un financement à ces clients, si cette deuxième valeur est plus élevée. Aux fins du présent point, les clients non financiers comprennent les entreprises, les emprunteurs souverains, les banques multilatérales de développement et les entités du secteur public; par dérogation à cette disposition, les établissements de crédit qui ont reçu un engagement visé à l'article 31, paragraphe 9, afin de pouvoir verser un prêt incitatif à un bénéficiaire final, ou qui ont reçu un engagement similaire d'une banque multilatérale de développement ou d'une entité du secteur public, peuvent prendre en compte une entrée de trésorerie à concurrence du montant de la sortie de trésorerie qu'ils appliquent à l'engagement correspondant d'octroyer ces prêts incitatifs;
+
+b) les montants à recevoir résultant d'opérations de prêts garanties et d'opérations ajustées aux conditions du marché au sens de l'article 192, points 2) et 3), du règlement (UE) no 575/2013 qui sont garantis par des actifs liquides ne sont pas pris en compte à concurrence de la valeur de ces actifs liquides, nette des décotes applicables conformément au titre II. Les montants à recevoir pour la valeur restante, ou qui sont garantis par des actifs ne pouvant être considérés comme des actifs liquides conformément au titre II, sont intégralement pris en compte. Aucune entrée de trésorerie ne peut être prise en compte si la sûreté est utilisée pour couvrir une position courte conformément à l'article 30, paragraphe 5;
+
+c) les montants à recevoir au titre de prêts sur marge venant contractuellement à échéance accordés contre une sûreté constituée d'actifs non liquides peuvent se voir appliquer un taux d'entrée de 50 %. Ces entrées de trésorerie ne peuvent être prises en compte que si l'établissement de crédit n'utilise pas la sûreté qu'il a reçue initialement en contrepartie des prêts pour couvrir des positions courtes;
+
+d) les montants à recevoir traités conformément à l'article 27 par l'établissement de crédit qui doit ces montants, à l'exception des dépôts effectués auprès de l'établissement central visés à l'article 27, paragraphe 3, sont multipliés par un taux d'entrée symétrique correspondant. Lorsque le taux correspondant ne peut pas être établi, un taux d'entrée de 5 % est appliqué;
+
+e) les opérations d'échange de sûretés venant à échéance dans les 30 jours calendaires donnent lieu à une entrée de trésorerie, correspondant à l'excédent de valeur de liquidité des actifs prêtés par rapport à la valeur de liquidité des actifs empruntés;
+
+f) si la sûreté obtenue via une opération de prise en pension, d'emprunt de titres ou d'échange de sûretés, venant à échéance dans un délai de 30 jours, est réutilisée pour couvrir des positions courtes pouvant être prolongées au-delà de 30 jours, l'établissement de crédit suppose que l'accord de prise en pension ou d'emprunt de titres sera renouvelé et ne donnera pas lieu à des entrées de trésorerie, compte tenu de son besoin de continuer à couvrir les positions courtes ou de racheter les titres en question. Les positions courtes incluent le cas où, dans un portefeuille parfaitement apparié, l'établissement de crédit a vendu ferme à découvert un titre dans le cadre d'une stratégie de négociation ou de couverture et le cas où il est à découvert sur un titre dans un portefeuille de pension parfaitement apparié et a emprunté un titre pour une période donnée et l'a prêté pour une période plus longue;
+
+g) les facilités de crédit ou de liquidité non utilisées et tout autre engagement reçus d'entités autres que les banques centrales et celles visées à l'article 34 ne sont pas pris en considération. Les facilités de liquidité confirmées non utilisées fournies par la banque centrale qui sont comptabilisées comme des actifs liquides conformément à l'article 14 ne sont pas prises en compte comme une entrée de trésorerie;
+
+h) les montants à recevoir provenant de titres émis par l'établissement de crédit lui-même ou par une entité liée sont pris en compte sur une base nette, avec application d'un taux d'entrée basé sur le taux d'entrée applicable à l'actif sous-jacent en vertu du présent article;
+
+i) les actifs sans date d'expiration contractuelle définie sont pris en compte en leur appliquant un taux d'entrée de 20 %, à condition que le contrat permette à l'établissement de crédit de se retirer ou d'exiger le paiement dans un délai de 30 jours;
+
+4. Le paragraphe 3, point a), ne s'applique pas aux montants à recevoir provenant d'opérations de prêts garanties et d'opérations ajustées aux conditions du marché au sens de l'article 192, points 2) et 3), du règlement (UE) no 575/2013 qui sont garantis par des actifs liquides conformément au titre II, visés au paragraphe 3, point b). Les entrées résultant de la reprise de soldes détenus sur des comptes cantonnés, conformément aux exigences réglementaires de protection des instruments négociables de la clientèle, sont intégralement prises en compte, à condition que ces soldes cantonnés soient maintenus dans les actifs liquides au sens du titre II.
+
+5. Les sorties et les entrées de trésorerie attendues sur une période de 30 jours calendaires pour les contrats énumérés à l'annexe II du règlement (UE) no 575/2013 sont calculées sur une base nette, comme prévu à l'article 21, et sont multipliées par 100 % dans le cas d'une entrée nette de trésorerie.
+
+6. Les établissements ne prennent pas en compte les entrées de trésorerie qui proviennent de l'un quelconque des actifs liquides visés au titre II autres que les paiements à recevoir sur les actifs qui ne sont pas incorporés dans la valeur de marché de l'actif.
+
+7. Les établissements de crédit ne tiennent pas compte des entrées de trésorerie qui résultent de toute nouvelle obligation contractée.
+
+8. Les établissements de crédit ne tiennent compte des entrées de trésorerie à recevoir dans des pays tiers pour lesquels il existe des restrictions aux transferts ou qui sont libellées dans des monnaies non convertibles que dans la mesure où elles correspondent à des sorties de trésorerie, respectivement, dans le pays tiers ou la monnaie en question.
+
+<a id="art_33"></a>
+
+### Article 33 — Plafond applicable aux entrées de trésorerie
+
+1. Les établissements de crédit limitent la comptabilisation des entrées de trésorerie à 75 % du total des sorties de trésorerie au sens du chapitre 2, à moins qu'une entrée de trésorerie spécifique ne fasse l'objet d'une exemption conformément au paragraphe 2, 3 ou 4.
+
+2. Sous réserve de l'autorisation préalable de l'autorité compétente, l'établissement de crédit peut exempter totalement ou partiellement du plafond visé au paragraphe 1 les entrées de trésorerie suivantes:
+
+a) les entrées de trésorerie dont le fournisseur est une entreprise mère ou une filiale de l'établissement de crédit, ou une autre filiale de la même entreprise mère, ou est lié à l'établissement de crédit par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE;
+
+b) les entrées de trésorerie résultant de dépôts effectués auprès d'autres établissements de crédit au sein d'un groupe d'entités remplissant les conditions du traitement prévu à l'article 113, paragraphe 6 ou 7, du règlement (UE) no 575/2013;
+
+c) les entrées de trésorerie visées à l'article 26, y compris les entrées de trésorerie provenant de prêts hypothécaires ou de prêts incitatifs tels que visés à l'article 31, paragraphe 9, ou d'une banque multilatérale de développement ou d'une entité du secteur public pour lesquelles l'établissement de crédit a agi en qualité d'intermédiaire.
+
+3. Sous réserve de l'autorisation préalable de l'autorité compétente, les établissements de crédit spécialisés peuvent être exemptés du plafond applicable aux entrées de trésorerie lorsque leurs activités principales sont le crédit-bail et l'affacturage, à l'exclusion des activités décrites au paragraphe 4, et que les conditions énoncées au paragraphe 5 sont remplies.
+
+4. Sous réserve de l'autorisation préalable de l'autorité compétente, les établissements de crédit spécialisés peuvent être soumis à un plafond de 90 % sur les entrées de trésorerie, lorsque les conditions énoncées au paragraphe 5 sont remplies et qu'ils ont pour activités principales:
+
+a) l'octroi de financements pour l'acquisition de véhicules à moteur;
+
+b) l'octroi de crédits aux consommateurs au sens de la directive 2008/48/CE sur le crédit à la consommation.
+
+5. Les établissements de crédit visés au paragraphe 3 peuvent être exemptés du plafond applicable aux entrées de trésorerie, et les établissements de crédit visés au paragraphe 4 peuvent appliquer un plafond plus élevé de 90 %, sous réserve de remplir les conditions suivantes:
+
+a) les activités de l'entreprise présentent un faible profil de risque de liquidité, compte tenu des facteurs suivants:
+
+i) les entrées et les sorties de trésorerie sont synchronisées;
+
+ii) au niveau individuel, l'établissement de crédit n'est pas financé de manière importante par les dépôts de la clientèle de détail;
+
+b) au niveau individuel, le ratio de leurs activités principales telles que visées au paragraphe 3 ou 4 dépasse 80 % du total du bilan;
+
+c) les exemptions sont déclarées dans les rapports annuels.
+
+Les autorités compétentes indiquent à l'ABE quels établissements de crédit spécialisés ont été exemptés ou sont soumis à un plafond plus élevé et accompagnent cette information d'une justification. L'ABE publie et tient à jour une liste des établissements de crédit spécialisés exemptés ou soumis à un plafond plus élevé. L'ABE peut demander des documents justificatifs.
+
+6. Les exemptions prévues aux paragraphes 2, 3 et 4, lorsqu'elles sont approuvées par l'autorité compétente, peuvent être appliquées tant au niveau individuel qu'au niveau consolidé, sous réserve des dispositions de l'article 2, paragraphe 3, point e).
+
+7. Les établissements de crédit calculent le montant des sorties nettes de trésorerie dans le cadre de l'application du plafond d'entrées conformément à la formule figurant à l'annexe II du présent règlement
+
+<a id="art_34"></a>
+
+### Article 34 — Entrées de trésorerie au sein d'un groupe ou d'un système de protection institutionnel
+
+1. Par dérogation à l'article 32, paragraphe 3, point g), les autorités compétentes peuvent autoriser au cas par cas l'application d'un taux d'entrée majoré aux facilités de crédit ou de liquidité non utilisées, lorsque toutes les conditions suivantes sont remplies:
+
+a) il existe des raisons de supposer que les entrées de trésorerie seront plus élevées, même en situation de tensions sur le marché combinées à des tensions idiosyncratiques dans le chef du fournisseur;
+
+b) la contrepartie est l'entreprise mère ou une filiale de l'établissement de crédit, ou une autre filiale de la même entreprise mère, ou elle est liée à l'établissement de crédit par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE, ou elle est membre du même système de protection institutionnel, au sens de l'article 113, paragraphe 7, du règlement (UE) no 575/2013, ou elle est l'établissement central ou l'un des affiliés d'un réseau ou d'un groupe coopératif visés à l'article 10 du règlement (UE) no 575/2013;
+
+c) lorsque le taux d'entrée dépasse 40 %, un taux de sortie symétrique correspondant est appliqué par la contrepartie, par dérogation à l'article 31;
+
+d) l'établissement de crédit et la contrepartie sont établis dans le même État membre.
+
+2. Lorsque l'établissement de crédit et l'établissement de crédit qui est la contrepartie sont établis dans des États membres différents, les autorités compétentes peuvent renoncer à appliquer la condition énoncée au paragraphe 1, point d), lorsque, outre les critères énoncés au paragraphe 1, les critères objectifs supplémentaires énoncés aux points a), b) et c) suivants sont remplis:
+
+a) le fournisseur et le récepteur des liquidités présentent un profil de risque de liquidité faible;
+
+b) il existe des accords et des engagements juridiquement contraignants entre les entités du groupe en ce qui concerne les facilités de crédit ou de liquidité;
+
+c) le profil de risque de liquidité du récepteur des liquidités a été dûment pris en compte dans la gestion du risque de liquidité du fournisseur des liquidités.
+
+Les autorités compétentes travaillent en étroite concertation, conformément à l'article 20, paragraphe 1, point b), du règlement (UE) no 575/2013, pour déterminer si les critères supplémentaires énoncés au présent paragraphe sont remplis.
+
+3. Lorsque les critères supplémentaires prévus au paragraphe 2 sont remplis, l'autorité compétente du récepteur des liquidités est autorisée à appliquer un taux d'entrée préférentiel pouvant aller jusqu'à 40 %. Néanmoins, l'approbation des deux autorités compétentes est requise pour tout taux d'entrée préférentiel supérieur à 40 %, qui est appliqué sur une base symétrique.
+
+Lorsque l'application d'un taux d'entrée préférentiel supérieur à 40 % est autorisée, les autorités compétentes informent l'ABE du résultat du processus visé au paragraphe 2. Les autorités compétentes vérifient régulièrement que les conditions d'une telle majoration du taux d'entrée continuent d'être remplies.
+
+## TITRE IV
+
+### **DISPOSITIONS FINALES**
+
+<a id="art_35"></a>
+
+### Article 35 — Maintien des acquis applicables aux actifs bancaires garantis par un État membre
+
+1. Les actifs émis par des établissements de crédit qui bénéficient d'une garantie de l'administration centrale d'un État membre ne peuvent être considérés comme des actifs de niveau 1 que si la garantie:
+
+a) a été accordée ou engagée pour un montant maximal avant le 30 juin 2014;
+
+b) est une garantie directe, explicite, irrévocable et inconditionnelle et couvre le défaut de paiement du principal et des intérêts à l'échéance.
+
+2. Lorsque le garant est une administration régionale ou locale d'un État membre, l'actif garanti ne peut être considéré comme un actif de niveau 1 que si les expositions sur ces administrations régionales ou locales sont traitées comme des expositions sur leur administration centrale, conformément à l'article 115, paragraphe 2, du règlement (UE) no 575/2013 et que la garantie satisfait aux exigences énoncées au paragraphe 1.
+
+3. Les actifs visés aux paragraphes 1 et 2 continuent d'être éligibles en tant qu'actifs de niveau 1 aussi longtemps que la garantie reste en vigueur pour l'émetteur concerné ou ses actifs, selon le cas, telle que modifiée ou remplacée de temps à autre. Lorsque le montant d'une garantie en faveur d'un émetteur ou de ses actifs est augmenté à une date postérieure au 30 juin 2014, les actifs ne peuvent être considérés comme des actifs liquides que jusqu'à concurrence du montant maximal de la garantie qui avait été engagé avant cette date.
+
+4. Les actifs visés au présent article sont soumis aux mêmes exigences que celles applicables en vertu du présent règlement aux actifs de niveau 1 représentatifs de créances sur, ou garanties par, des administrations centrales, régionales ou locales ou des entités du secteur public, tels que visés à l'article 10, paragraphe 1, point c).
+
+5. Lorsqu'un établissement de crédit ou ses actifs bénéficient d'un système de garanties, ce système dans son ensemble est considéré comme une garantie aux fins du présent article.
+
+<a id="art_36"></a>
+
+### Article 36 — Disposition transitoire applicable aux agences de gestion d'actifs dépréciés subventionnées par un État membre
+
+1. Les obligations de premier rang émises par les agences de gestion d'actifs dépréciés subventionnées par un État membre suivantes sont considérées comme des actifs de niveau 1 jusqu'au 31 décembre 2023:
+
+a) en Irlande, la National Asset Management Agency (NAMA);
+
+b) en Espagne, la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, S.A. (SAREB);
+
+c) en Slovénie, la Bank Asset Management Company, instituée par la loi de la République de Slovénie portant mesures visant à renforcer la stabilité des banques (Measures of the Republic of Slovenia to Strengthen the Stability of Banks Act, MSSBA).
+
+2. Les actifs visés au paragraphe 1 sont soumis aux mêmes exigences que celles applicables en vertu du présent règlement aux actifs de niveau 1 représentatifs de créances sur, ou garanties par, des administrations centrales, régionales ou locales ou des entités du secteur public, tels que visés à l'article 10, paragraphe 1, point c).
+
+<a id="art_37"></a>
+
+### Article 37 — Disposition transitoire pour les titrisations adossées à des prêts immobiliers résidentiels
+
+1. Par dérogation à l'article 13, les titrisations émises avant le 1er octobre 2015 dont les expositions sous-jacentes sont des prêts immobiliers résidentiels visés à l'article 13, paragraphe 2, point g) i), sont éligibles en tant qu'actifs de niveau 2B si elles remplissent toutes les conditions énoncées à l'article 13 autres que les conditions relatives au ratio prêt/valeur ou au ratio emprunt/revenus fixées par l'article 13, paragraphe 2, point g) i).
+
+2. Par dérogation à l'article 13, les titrisations émises après le 1er octobre 2015 dont les expositions sous-jacentes sont des prêts immobiliers résidentiels visés à l'article 13, paragraphe 2, point g) i), qui ne respectent pas les exigences de ratio prêt/valeur moyen ou de ratio emprunt/revenus énoncées audit point sont éligibles en tant qu'actifs de niveau 2B jusqu'au 1er octobre 2025, à condition que ces expositions sous-jacentes comprennent des prêts immobiliers résidentiels qui, au moment où ils ont été accordés, n'étaient pas soumis à une législation nationale imposant des ratios emprunt/revenus et qui ont été accordés avant le 1er octobre 2015.
+
+<a id="art_38"></a>
+
+### Article 38 — Disposition transitoire pour l'introduction du ratio de couverture des besoins de liquidité
+
+1. Conformément à l'article 460, paragraphe 2, du règlement (UE) no 575/2013, le ratio de couverture des besoins de liquidité prévu à l'article 4 est introduit comme suit:
+
+a) 60 % de l'exigence de couverture des besoins de liquidités à compter du 1er octobre 2015;
+
+b) 70 % à compter du 1er janvier 2016;
+
+c) 80 % à compter du 1er janvier 2017;
+
+d) 100 % à compter du 1er janvier 2018.
+
+2. Conformément à l'article 412, paragraphe 5, du règlement (UE) no 575/2013, les États membres ou les autorités compétentes peuvent imposer aux établissements de crédit agréés au niveau national ou à un sous-ensemble de ces établissements de crédit de maintenir une exigence de couverture des besoins de liquidité plus haute, pouvant aller jusqu'à 100 %, jusqu'à l'instauration complète de la norme minimale contraignante au taux de 100 % conformément au présent règlement.
+
+<a id="art_39"></a>
+
+### Article 39 — Entrée en vigueur
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.
+
+Il s'applique à compter du 1er octobre 2015.
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+
+<a id="annexe_i"></a>
+
+### ANNEXE I
+
+**Formules pour déterminer la composition du coussin de liquidité**
+
+1. Les établissements de crédit utilisent les formules indiquées dans la présente annexe pour déterminer la composition de leur coussin de liquidité conformément à l'article 17.
+
+2. Calcul du coussin de liquidité: à la date du calcul, le coussin de liquidité de l'établissement de crédit est égal à:
+
+a) le montant des actifs de niveau 1; plus
+
+b) le montant des actifs de niveau 2A; plus
+
+c) le montant des actifs de niveau 2B;
+
+moins le montant le moins élevé entre:
+
+d) la somme de a), b) et c); et
+
+e) le «montant de l'excédent d'actifs liquides» tel que calculé conformément aux paragraphes 3 et 4 de la présente annexe.
+
+3. Montant de l'«excédent d'actifs liquides»: ce montant est constitué des éléments définis ci-dessous:
+
+a) un montant ajusté d'actifs de niveau 1 hors obligations garanties, qui est égal à la valeur de tous les actifs liquides de niveau 1, à l'exception des obligations garanties de niveau 1, que détiendrait l'établissement de crédit à l'issue du dénouement de toute opération de financement garanti, de toute opération de prêt garanti, de tout échange d'actifs ou de toute opération sur dérivés assortie de sûretés arrivant à échéance dans les 30 jours calendaires à compter de la date du calcul et dans le cadre de laquelle l'établissement de crédit et la contrepartie échangent des actifs liquides sur au moins l'une des jambes de la transaction;
+
+b) un montant ajusté d'obligations garanties de niveau 1, qui est égal à la valeur après décotes de toutes les obligations garanties de niveau 1 que détiendrait l'établissement de crédit à l'issue du dénouement de toute opération de financement garanti, de toute opération de prêt garanti, de tout échange d'actifs ou de toute opération sur dérivés assortie de sûretés arrivant à échéance dans les 30 jours calendaires à compter de la date du calcul et dans le cadre de laquelle l'établissement de crédit et la contrepartie échangent des actifs liquides sur au moins l'une des jambes de la transaction;
+
+c) un montant ajusté d'actifs de niveau 2A, qui est égal à la valeur après décotes de tous les actifs de niveau 2A que détiendrait l'établissement de crédit à l'issue du dénouement de toute opération de financement garanti, de toute opération de prêt garanti, de tout échange d'actifs ou de toute opération sur dérivés assortie de sûretés arrivant à échéance dans les 30 jours calendaires à compter de la date du calcul et dans le cadre de laquelle l'établissement de crédit et la contrepartie échangent des actifs liquides sur au moins l'une des jambes de la transaction; et
+
+d) un montant ajusté d'actifs de niveau 2B, qui est égal à la valeur après décotes de tous les actifs de niveau 2B que détiendrait l'établissement de crédit à l'issue du dénouement de toute opération de financement garanti, de toute opération de prêt garanti, de tout échange d'actifs ou de toute opération sur dérivés assortie de sûretés arrivant à échéance dans les 30 jours calendaires à compter de la date du calcul et dans le cadre de laquelle l'établissement de crédit et la contrepartie échangent des actifs liquides sur au moins l'une des jambes de la transaction.
+
+4. Calcul du «montant de l'excédent d'actifs liquides»: ce montant est égal à:
+
+a) le montant ajusté des actifs de niveau 1 hors obligations garanties; plus
+
+b) le montant ajusté des obligations garanties de niveau 1; plus
+
+c) le montant ajusté des actifs de niveau 2A; plus
+
+d) le montant ajusté des actifs de niveau 2B;
+
+moins le montant le moins élevé entre:
+
+e) la somme de a), b), c) et d);
+
+f) 100/30 multiplié par a);
+
+g) 100/60 multiplié par la somme de a) et b);
+
+h) 100/85 multiplié par la somme de a), b) et c);
+
+5. La composition du coussin de liquidité après prise en compte du dénouement de toute opération de financement garanti, de toute opération de prêt garanti, de tout échange d'actifs ou de toute opération sur dérivés assortie de sûretés et application des plafonds qui précèdent conformément à l'article 17 est déterminée comme suit:
+
+a″ (le montant ajusté des actifs de niveau 1 hors obligations garanties après application du plafond)
+
+= a (le montant ajusté des actifs de niveau 1 hors obligations garanties avant application du plafond)
+
+b″ (le montant ajusté d'obligations garanties de niveau 1 après application du plafond)
+
+= MIN(b, a70/30)
+
+sachant que b = le montant ajusté d'obligations garanties de niveau 1 avant application du plafond
+
+c″ (le montant ajusté d'actifs de niveau 2A après application du plafond)
+
+= MIN(c, (a + b″)40/60, MAX(a70/30 – b″, 0)]
+
+sachant que c = le montant ajusté d'actifs de niveau 2A avant application du plafond
+
+d″ (le montant ajusté d'actifs de niveau 2B après application du plafond)
+
+= MIN(d, (a + b″ + c″)15/85, MAX[(a + b″)40/60 – c″,0), MAX(70/30a – b″ – c″,0)]
+
+sachant que d = le montant ajusté d'actifs de niveau 2B avant application du plafond)
+
+<a id="annexe_ii"></a>
+
+### ANNEXE II
+
+**Formule pour le calcul des sorties nettes de trésorerie**
+
+| NLO (NET liquidity outflow) | = | Sorties nettes de trésorerie |
+| --- | --- | --- |
+
+| TO (Total outflows) | = | Total des sorties de trésorerie |
+| --- | --- | --- |
+
+| TI (Total inflows) | = | Total des entrées de trésorerie |
+| --- | --- | --- |
+
+| FEI (Fully exempted inflows) | = | Entrées de trésorerie entièrement exemptées |
+| --- | --- | --- |
+
+| IHC (Inflows subject to higher cap of 90 % outflows) | = | Entrées de trésorerie soumises à un plafond s'élevant à 90 % des sorties de trésorerie |
+| --- | --- | --- |
+
+| IC (Inflows subject to cap of 75 % of outflows) | = | Entrées de trésorerie soumises à un plafond s'élevant à 75 % des sorties de trésorerie |
+| --- | --- | --- |
+
+Les sorties nettes de trésorerie sont égales au total des sorties de trésorerie moins la réduction correspondant aux entrées de trésorerie entièrement exemptées, moins la réduction correspondant aux entrées de trésorerie soumises au plafond de 90 %, moins la réduction correspondant aux entrées de trésorerie soumises au plafond de 75 %
+
+NLO = TO – MIN(FEI, TO) – MIN(IHC, 0,9*MAX(TO – FEI, 0)) – MIN(IC, 0,75*MAX(TO – FEI – IHC/0,9, 0))
+
+(1) Directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE (JO L 176 du 27.6.2013, p. 338).
+
+(2) Recommandation 2003/361/CE de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises (JO L 124 du 20.5.2003, p. 36).
+
+(3) Règlement d'exécution (UE) no 680/2014 de la Commission du 16 avril 2014 définissant des normes techniques d'exécution en ce qui concerne l'information prudentielle à fournir par les établissements, conformément au règlement (UE) no 575/2013 du Parlement européen et du Conseil (JO L 191 du 28.6.2014, p. 1).
+
+(4) Directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/CE et 2013/36/UE et le règlement (UE) no 1093/2010 (JO L 60 du 28.2.2014, p. 34).
+
+(5) Directive 2008/48/CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil (JO L 133 du 22.5.2008, p. 66).
+
+(6) Directive 94/19/CE du Parlement européen et du Conseil u 30 mai 1994, relative aux systèmes de garantie des dépôts (JO L 135 du 31.5.1994, p. 5).
+
+(7) Septième directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l'article 54 paragraphe 3 point g) du traité, concernant les comptes consolidés (JO L 193 du 18.7.1983, p. 1).

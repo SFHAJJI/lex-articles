@@ -1,0 +1,67 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-06-24-a532:2020-12-21--492964f3a421976f0b007802b447f9a7e677bf6c111f368f7ef23db5134a5640",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/12/2021 : Loi du 24 juin 2020 portant introduction d’une mesure temporaire relative à l’application de l’article 12 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain dans le cadre de la lutte contre le Covid-19.",
+  "valid_from": "2020-12-21",
+  "valid_to": "2021-07-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-06-24-a532/versions/2020-12-21--492964f3a421976f0b007802b447f9a7e677bf6c111f368f7ef23db5134a5640/fr.xml",
+    "sha256": "8a76793bff7b351f0da8ff9d9944d58cbedfa8e18dba1124246156d598e68b1c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20201221/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-06-24-a532:2020-12-21--492964f3a421976f0b007802b447f9a7e677bf6c111f368f7ef23db5134a5640#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/art_1er/20200625",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Sans préjudice de l’article 12, alinéa 5, de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain, le collège des bourgmestre et échevins peut organiser la réunion d’information avec la population en ayant recours, exclusivement ou partiellement à la visioconférence, permettant la communication entre la population et le collège des bourgmestre et échevins pendant la réunion.\n\nLorsque la réunion d’information se tient exclusivement ou partiellement par visioconférence, la publication du dépôt par voie d’affiches apposées dans la commune de la manière usuelle et invitant le public à prendre connaissance du projet, prévue à l’article 12, alinéa 2, de la loi précitée du 19 juillet 2004, la publication dans au moins quatre quotidiens imprimés et publiés au Grand-Duché de Luxembourg, prévue à l’article 12, alinéa 3, de la loi précitée du 19 juillet 2004 et le site internet de la commune où est publié le projet d’aménagement général font mention que la réunion a lieu exclusivement ou partiellement par visioconférence et de l’outil, dont il sera fait usage, ainsi que des modalités d’inscription et d’accès.",
+      "text_sha256": "92d5d6ed2136ced0d533d55feadfef91df34be58ca4091d46715c50e4a3bcec2",
+      "md_span": {
+        "start": 861,
+        "end": 2019
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/07/19/n1/jo",
+          "text": "loi modifiée du 19 juillet 2004"
+        },
+        {
+          "href": "http://legilux.lu/eli/etat/leg/loi/2004/07/19/n1/jo",
+          "text": "loi précitée du 19 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-06-24-a532:2020-12-21--492964f3a421976f0b007802b447f9a7e677bf6c111f368f7ef23db5134a5640#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/art_2/20201221",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "La présente loi entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg et reste applicable jusqu’au 15 juillet 2021 inclus.",
+      "text_sha256": "b31ca74fdbd054365a87c9725fafd2675ecd9a68669a73a0bab96b2993c6aef6",
+      "md_span": {
+        "start": 2054,
+        "end": 2214
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

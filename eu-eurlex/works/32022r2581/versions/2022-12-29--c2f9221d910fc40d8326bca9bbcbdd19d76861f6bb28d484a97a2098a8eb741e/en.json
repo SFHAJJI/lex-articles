@@ -1,0 +1,112 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2581:2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/2581 of 20\u00A0June 2022 laying down implementing technical standards for the application of Directive 2013/36/EU",
+  "valid_from": "2022-12-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2581/versions/2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e/en.html",
+    "sha256": "b0052673c1da956a89309e411436f1b9d01cf0f10fa87a5d52a998e2ae172cfa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2581-20221229"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2581:2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Submission of the application for authorisation as a credit institution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Applicants for authorisation as a credit institution shall submit the information set out in Articles 1 to 9 of Delegated Regulation (EU) 2022/2580 to their competent authority by filling in the template set out in the Annex to this Regulation.\n\n**2.** Competent authorities shall indicate on their website the contact details for submitting an application for authorisation as a credit institution and shall indicate whether that application is to be submitted in paper format, in electronic form or both.",
+      "text_sha256": "531b22d46e0ef71732efd4a4a313bce7c8b81bec7cd9dd589e3665cce62f3d6f",
+      "md_span": {
+        "start": 852,
+        "end": 1365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2581:2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Assessment of completeness of applications for authorisation as a credit institution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Applications for authorisation as a credit institution shall be deemed to be complete if those applications contain all the information required by Delegated Regulation (EU) 2022/2580.\n\n**2.** Where the information provided in the application is assessed and found to be incomplete, the competent authorities shall send, in paper format or by electronic means, a request the applicants concerned indicating the further information required, and shall provide to those applicants the opportunity to submit the information identified.\n\n**3.** Upon an application being assessed as complete, the competent authority shall inform the applicant of that fact, together with the date of receipt of the complete application or, as the case may be, the date of receipt of the information that completed the application.\n\n**4.** Competent authorities may require the applicant to provide additional explanations and supplementary information for the purposes of assessing the application.",
+      "text_sha256": "d473bc3ac4360acb257b3ac815fc1dbbec57d72e9ac5562f3668f01b45b82219",
+      "md_span": {
+        "start": 1489,
+        "end": 2474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2581:2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Applications for authorisation as a credit institution subject to this Regulation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall apply to applications for authorisation as a credit institution submitted on or after 18 July 2023.",
+      "text_sha256": "471ef1266e1287c6a5b507f9f58fa5d80183493b00c06472aff5e317ba9b2691",
+      "md_span": {
+        "start": 2595,
+        "end": 2716
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2581R%2801%29",
+          "text": "32022R2581R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2581",
+          "text": "32022R2581"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2581:2022-12-29--c2f9221d910fc40d8326bca9bbcbdd19d76861f6bb28d484a97a2098a8eb741e#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Entry into force and application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall apply from 18 July 2023.",
+      "text_sha256": "742efb2492c26921c7b187499a063c2443e322cc62a7c6d605c6143fb0e61354",
+      "md_span": {
+        "start": 2788,
+        "end": 2978
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2581R%2801%29",
+          "text": "32022R2581R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2581",
+          "text": "32022R2581"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

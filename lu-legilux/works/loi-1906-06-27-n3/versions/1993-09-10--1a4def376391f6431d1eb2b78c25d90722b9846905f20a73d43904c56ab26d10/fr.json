@@ -1,0 +1,256 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/04/2017 : Loi du 27 juin 1906, concernant la protection de la santé publique.",
+  "valid_from": "1993-09-10",
+  "valid_to": "2017-04-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1906-06-27-n3/versions/1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10/fr.xml",
+    "sha256": "69b267482e24f993ea341d2a25ec446ac3da3c06a86bb911ab153ba040b52b4d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930910/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_1er/19060706",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Dans chaque commune, le conseil communal est tenu, afin de protéger la santé publique, de déterminer, sous forme d'arrêtés communaux portant règlement sanitaire:\n\n1° les précautions à prendre, en exécution de l'art. 50 du décret du 14 décembre 1789, relatif à la constitution des municipalités, et de l'art. 3 du titre XI de la loi des 16-24 août 1790, pour prévenir ou pour faire cesser les maladies transmissibles, spécialement les mesures de désinfection ou même de destruction des objets à l'usage des malades ou qui ont été souillés par eux, et généralement des objets quelconques pouvant servir de véhicule à la contagion. La liste des maladies transmissibles sera dressée, après avis du Collège médical, par le membre du Gouvernement ayant dans ses attributions le service sanitaire;\n\n2° les prescriptions destinées à assurer la salubrité des cimetières, de la voirie, des maisons, logements, constructions et leurs dépendances ;\n\n3° les prescriptions relatives à l'alimentation des agglomérations en eau potable et à l'évacuation des matières usées.\n\nSauf le cas d'urgence, les règlements sanitaires ne pourront être pris sans l'avis préalable du médecin-inspecteur.",
+      "text_sha256": "b82213b2607db96453ee4562cead483d893c2b2f4ac161ac640d348b04c7ab41",
+      "md_span": {
+        "start": 674,
+        "end": 1848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_2/19060706",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Si, dans le délai d'un an à partir de la mise en vigueur de la présente loi, une commune n'a pas pris de règlement sanitaire sur les matières visées à l'article qui précède, ou si les prescriptions prises sont reconnues insuffisantes, il pourra, six mois après une mise en demeure, être pris un arrêté grand-ducal, dans la forme des règlements d'administration publique, le conseil communal entendu.",
+      "text_sha256": "7d6a3c9e973da419a75e6b78d2bba877c14d041c7a36043dd51806f2b776c5e4",
+      "md_span": {
+        "start": 1883,
+        "end": 2282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3_19930910",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_3_19930910",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_3/19930910",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-10",
+      "text_md": "L'arrêté déclarant d'utilité publique l'acquisition de tout ou partie d'une source, ou son captage, déterminera les terrains à acquérir en pleine propriété, ainsi que ceux qui seront grevés d'une servitude pour le passage de la conduite d'eau.\n\nCette disposition est applicable aux puits ou galeries fournissant de l'eau potable empruntée à une nappe souterraine.\n\nL'arrêté visé à l'alinéa 1er du présent article déterminera en même temps, s'il y a lieu, un périmètre de protection contre la pollution de la source ou de la nappe souterraine.\n\nII est interdit d'épandre sur les terrains compris dans ce périmètre, des engrais humains ou d'autres matières susceptibles de nuire à la salubrité de l'eau, d'y enterrer des cadavres et d'y forer des puits.\n\nL'indemnité qui pourra être due aux propriétaires de ces terrains sera déterminée suivant les formes de la loi du 17 décembre 1859 sur l'expropriation pour cause d'utilité publique.",
+      "text_sha256": "7cf403a922f9f71d199d5be37cb114a726e3dda4ca2ffaa4479c1ed41921679c",
+      "md_span": {
+        "start": 2326,
+        "end": 3260
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1859/12/17/n5/jo",
+          "text": "loi du 17 décembre 1859"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4_19930910",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_4_19930910",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_4/19770312",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-03-12",
+      "text_md": "La vaccination antivariolique est obligatoire au cours de la première année de la vie, ainsi que la revaccination au cours de la onzième année. Le père, la mère, ou le tuteur, les directeurs d'hospices ou d'établissements pénitentiaires et de bienfaisance sont personnellement responsables de l'exécution de cette mesure.\n\nEn temps d'épidémie, les conseils communaux auront le droit de décréter d'urgence la revaccination obligatoire pour les habitants des quartiers contaminés ou menacés.\n\nToutefois, s'il est établi par un certificat de médecin, dûment motivé, ou si au cours des séances de vaccination organisées par les autorités publiques, il est constaté par le médecinvaccinateur qu'un sujet ne peut être vacciné à cause de son état de santé, la vaccination resp. la revaccination est ajournée à une date ultérieure. Dans ce cas il doit y être procédé dès que les causes qui ont motivé l'ajournement de la vaccination auront disparu.\n\nLes étrangers qui se proposent d'établir leur résidence dans le Grand-Duché devront produire, en même temps que la déclaration prévue par l'art. 1er de la loi du 30 décembre 1893, concernant la police des étrangers, un certificat de vaccination remontant à moins de dix ans.\n\nPour le surplus, un règlement d'administration publique déterminera les conditions de l'application des dispositions du premier alinéa concernant la vaccination et la revaccination obligatoires.",
+      "text_sha256": "1cbdbd7846d00ca0ab157ec5916b072ba2091f2c0600d7b15193c89b5848fe2d",
+      "md_span": {
+        "start": 3304,
+        "end": 4716
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1893/12/30/n1/jo",
+          "text": "loi du 30 décembre 1893"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_5/19060706",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Nous Nous réservons de déterminer par un règlement d'administration publique:\n\n1° les prescriptions concernant la protection des enfants du premier âge;\n\n2° l'organisation d'un service Ce désinfection aux frais de l'Etat;\n\n3° les règles générales applicables aux exhumations et au transport des cadavres.",
+      "text_sha256": "a8d469513638c9367b3adf2aa44a03d74d7043ef045f0c2220fce589422476d3",
+      "md_span": {
+        "start": 4751,
+        "end": 5055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_6/19060706",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Les infractions aux règlements d'administration publique à prendre en exécution de l'art. 5 n° 1 de la présente loi seront punies d'une amende de vingt-six francs à cent francs.\n\nLa même peine sera applicable à tous ceux qui auront mis obstacle à l'accomplissement des devoirs des autorités communales compétentes ou des délégués sanitaires, en ce qui touche l'application de la présente loi et des règlements sanitaires prévus aux art. 1er et 2 ci-avant.\n\nEn cas de nouvelle infraction de même espèce commise dans les trois ans à partir d'une condamnation antérieure passée en force de chose jugée, la peine édictée au présent article pourra être portée au double.",
+      "text_sha256": "7db0e91859f6f8a8cc823ca87c4f37229f341f3bd259d2e23bfe0b5fcbc0b272",
+      "md_span": {
+        "start": 5090,
+        "end": 5755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_7/19060706",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Seront punis d'une amende de quinze francs à vingt-cinq francs:\n\n1° quiconque aura commis une contravention aux prescriptions des règlements sanitaires prévus aux art. 1er et 2, ou des règlements d'administration publique prévus à l'art. 5, nos 2, et 3 de la présente loi;\n\n2° quiconque aura enfreint la défense édictée à l'avant-dernier alinéa de l'art. 3 de la présente loi;\n\n3° les personnes qui n'auront pas exécuté les obligations leur imposées par l'art. 4 al. 1er, 3 et 4 de la présente loi, ou par la décision du conseil communal ou le règlement d'administration publique visés aux alinéas 2 et 5 du même article;\n\n4° quiconque, par négligence ou incurie, dégradera des ouvrages publics ou communaux destinés à recevoir ou à conduire des eaux d'alimentation;\n\n5° quiconque, par négligence ou incurie, laissera introduire des matières excrémentielles ou toutes autres matières susceptibles de nuire à la salubrité, dans l'eau des sources, des fontaines, des puits, citernes, conduites, aqueducs ou réservoirs d'eau servant à l'alimentation publique;\n\n6° quiconque abandonnera des cadavres d'animaux , des débris de boucherie, fumier, matières fécales, et, en général, des residus animaux putrescibles dans les failles, gouffres, bêtoires ou excavations de toute nature autres que les fosses nécessaires au fonctionnement d'établissements classés.\n\nNonobstant l'application de la peine prévue au présent article, l'entrée ou l'établissement dans le Grand-Duché pourront être réfusés, conformément à l'art. 5 de la loi du 30 décembre 1893, à l'étranger qui n'aura pas satisfait à l'obligation lui imposée par l'art. 4, al. 4 de la présente loi.",
+      "text_sha256": "7d6973422fef27949ec22b0a9f27f31c3f979ea6dc93ff4b372db96c4f62e9db",
+      "md_span": {
+        "start": 5790,
+        "end": 7439
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1893/12/30/n1/jo",
+          "text": "loi du 30 décembre 1893"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_8/19060706",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Tout acte volontaire de même nature que ceux prévus à l'art. 7 nos 4 et 5 qui précède, sera puni d'un emprisonnement de huit jours à un an et d'une amende de vingt-six francs à cinq cents francs.",
+      "text_sha256": "c8efadecb17c3df3b065301de8d9fd264e6eb926e24837ebdd2670eeafccedf6",
+      "md_span": {
+        "start": 7474,
+        "end": 7669
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_9/19060706",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Dans tous les cas, les tribunaux ordonneront, d'office et aux frais du condamné, l'exécution des mesures ou prescriptions dont l'inobservation aura formé l'objet de l'infraction, de même que le rétablissement en leur état antérieur des terrains, sources, fontaines, puits, constructions, ouvrages ou objets, de quelque nature qu'ils soient, qui auront été souillés, dégradés ou atteints d'une manière quelconque en contravention des prescriptions de la présente loi et des règlements sanitaires prévus aux art. 1er et 2 ci-avant.",
+      "text_sha256": "16a11d40c36eddeb74248fcb71bd4f35f5d5334664a4e4a82cdcbcab2286d553",
+      "md_span": {
+        "start": 7704,
+        "end": 8233
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_10/19060706",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Les dispositions de la présente loi ne préjudicient en rien à l'application éventuelle des pénalités plus fortes prévues par le Code pénal ou par d'autres lois spéciales.\n\nLes art. 1er à 100 inclus, et resp. les art. 565 et 566 du Code pénal, de même que la loi du 18 juin 1879, modifiée par celle du 16 mai 1904, portant attribution aux cours et tribunaux de l'appréciation des circonstances atténuantes, sont applicables aux infractions prévues par la présente loi.",
+      "text_sha256": "e8728a7b057860a4bc9e25e7e80f23e8d79607974196966d602fc997b9037035",
+      "md_span": {
+        "start": 8270,
+        "end": 8737
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1879/06/18/n2/jo",
+          "text": "loi du 18 juin 1879"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1904/05/16/n3/jo",
+          "text": "16 mai 1904"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_11/19060706",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "Pour l'exécution de la présente loi et des lois sanitaires en général, le Gouvernement peut conférer la qualité d'officier de police judiciaire aux personnes qu'il déléguera à ces fins, suivant le mode et les formalités à déterminer par un règlement d'administration publique.\n\nCes agents prêteront, devant le tribunal de l'arrondissement dans lequel ils seront appelés à exercer leurs fonctions, le serment suivant:Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l'Etat; je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité. - Ainsi Dieu me soit en aide !",
+      "text_sha256": "2af8b1571bc1590e5c722f90347355d878bf549dc45ec546de0ccc3c5801b932",
+      "md_span": {
+        "start": 8774,
+        "end": 9394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10--1a4def376391f6431d1eb2b78c25d90722b9846905f20a73d43904c56ab26d10#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/art_12/19060706",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1906-07-06",
+      "text_md": "La présente loi ne sera exécutoire que six mois après sa publication au *Mémorial*.",
+      "text_sha256": "7ee9a8bea807a7f25dfc215c3df1a8c6227f91ebe5ab34dc75413b710def42bf",
+      "md_span": {
+        "start": 9431,
+        "end": 9514
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

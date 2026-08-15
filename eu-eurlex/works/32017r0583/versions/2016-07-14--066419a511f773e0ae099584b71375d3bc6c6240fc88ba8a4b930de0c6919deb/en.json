@@ -1,0 +1,367 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/583 of 14 July 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-07-14",
+  "valid_to": "2017-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0583/versions/2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb/en.xml",
+    "sha256": "0bd195c1cb896d1755fe62c154679063baa32c9f97277ccf2b878cd5ba7b69cb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0583"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| 1. | ‘package transaction’ means either of the following:(a)a transaction in a derivative contract or other financial instrument contingent on the simultaneous execution of a transaction in an equivalent quantity of an underlying physical asset (Exchange for Physical or EFP);(b)a transaction which involves the execution of two or more component transactions in financial instruments; and:(i)which is executed between two or more counterparties;(ii)where each component of the transaction bears meaningful economic or financial risk related to all the other components;(iii)where the execution of each component is simultaneous and contingent upon the execution of all the other components; |\n| --- | --- |\n| (a) | a transaction in a derivative contract or other financial instrument contingent on the simultaneous execution of a transaction in an equivalent quantity of an underlying physical asset (Exchange for Physical or EFP); |\n| (b) | a transaction which involves the execution of two or more component transactions in financial instruments; and:(i)which is executed between two or more counterparties;(ii)where each component of the transaction bears meaningful economic or financial risk related to all the other components;(iii)where the execution of each component is simultaneous and contingent upon the execution of all the other components; |\n| (i) | which is executed between two or more counterparties; |\n| (ii) | where each component of the transaction bears meaningful economic or financial risk related to all the other components; |\n| (iii) | where the execution of each component is simultaneous and contingent upon the execution of all the other components; |\n\n| 2. | ‘request-for-quote system’ means a trading system where the following conditions are met:(a)a quote or quotes by a member or participant are provided in response to a request for a quote submitted by one or more other members or participants;(b)the quote is executable exclusively by the requesting member or participant;(c)the requesting member or market participant may conclude a transaction by accepting the quote or quotes provided to it on request; |\n| --- | --- |\n| (a) | a quote or quotes by a member or participant are provided in response to a request for a quote submitted by one or more other members or participants; |\n| (b) | the quote is executable exclusively by the requesting member or participant; |\n| (c) | the requesting member or market participant may conclude a transaction by accepting the quote or quotes provided to it on request; |\n\n| 3. | ‘voice trading system’ means a trading system where transactions between members are arranged through voice negotiation. |\n| --- | --- |",
+      "text_sha256": "a939e36d14a277a5415d39615d9ee7baf3e12a73b40a5e37f96b3f56a642c5e3",
+      "md_span": {
+        "start": 720,
+        "end": 3505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nMarket operators and investment firms operating a trading venue shall make public the range of bid and offer prices and the depth of trading interest at those prices, in accordance with the type of trading system they operate and the information requirements set out in Annex I",
+      "text_sha256": "b27bcb0e2f4956b4e30fd1e941b19ba0f4f1a9d78c0d0eec551fe34e32a028f3",
+      "md_span": {
+        "start": 3538,
+        "end": 3826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAn order is large in scale compared with normal market size where, at the point of entry of the order or following any amendment to the order, it is equal to or larger than the minimum size of order which shall be determined in accordance with the methodology set out in Article 13.",
+      "text_sha256": "760b32b0c7863a7a215b89ae3af4f2cb2703492c6bc8af92b6f63e22e3dc8acd",
+      "md_span": {
+        "start": 3859,
+        "end": 4152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The type of order held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived is an order which:\n\n| (a) | is intended to be disclosed to the order book operated by the trading venue and is contingent on objective conditions that are defined in advance by the system's protocol; |\n| --- | --- |\n\n| (b) | does not interact with other trading interest prior to disclosure to the order book operated by the trading venue; |\n| --- | --- |\n\n| (c) | once disclosed to the order book it interacts with other orders in accordance with the rules applicable to orders of that kind at the time of disclosure. |\n| --- | --- |\n\n2. The minimum size of orders held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived shall, at the point of entry and following any amendment, be one of the following:\n\n| (a) | in the case of a reserve order, greater than or equal to EUR 10 000; |\n| --- | --- |\n\n| (b) | for all other orders, a size that is greater than or equal to the minimum tradable quantity set in advance by the system operator under its rules and protocols. |\n| --- | --- |\n\n3. A reserve order referred to in paragraph 2(a) shall be considered a limit order consisting of a disclosed order relating to a portion of the quantity and a non-disclosed order relating to the remainder of the quantity, where the non-disclosed quantity is capable of execution only after its release to the order book as a new disclosed order.",
+      "text_sha256": "4f79db1b9b6a325b6066a885a8a4c6bb04155cf1eea8b27f8e1500246bd6ccfb",
+      "md_span": {
+        "start": 4185,
+        "end": 5760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. An actionable indication of interest is above the size specific to the financial instrument where, at the point of entry or following any amendment, it is equal to or larger than the minimum size of an actionable indication of interest which shall be determined in accordance with the methodology set out in Article 13.\n\n2. Indicative pre-trade prices for actionable indications of interest that are above the size specific to the financial instrument determined in accordance with paragraph 1 and smaller than the relevant large in scale size determined in accordance with Article 3 shall be considered close to the price of the trading interests where the trading venue makes public any of the following:\n\n| (a) | the best available price; |\n| --- | --- |\n\n| (b) | a simple average of prices; |\n| --- | --- |\n\n| (c) | an average price weighted on the basis of the volume, price, time or the number of actionable indications of interest. |\n| --- | --- |\n\n3. Market operators and investment firms operating a trading venue shall make public the methodology for calculating pre-trade prices and the time of publication when entering and updating indicative pre-trade prices.",
+      "text_sha256": "ced9d93622b42744ab657c4fc8f82d7527c532e10e7bf015d09f3fd49a1ebf87",
+      "md_span": {
+        "start": 5793,
+        "end": 6980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nA financial instrument or a class of financial instruments shall be considered not to have a liquid market if so specified in accordance with the methodology set out in Article 13.",
+      "text_sha256": "47e742082a27dabc0c4f2c9552916671c863799936449ae28ea680ef0a4fff43",
+      "md_span": {
+        "start": 7013,
+        "end": 7204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Investment firms trading outside the rules of a trading venue and market operators and investment firms operating a trading venue shall make public by reference to each transaction the details set out in Tables 1 and 2 of Annex II and use each applicable flag listed in Table 3 of Annex II.\n\n2. Where a previously published trade report is cancelled, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make public a new trade report which contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II.\n\n3. Where a previously published trade report is amended, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make the following information public:\n\n| (a) | a new trade report that contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II; |\n| --- | --- |\n\n| (b) | a new trade report that contains all the details of the original trade report with all necessary details corrected and the amendment flag as specified in Table 3 of Annex II. |\n| --- | --- |\n\n4. Post-trade information shall be made available as close to real time as is technically possible and in any case:\n\n| (a) | for the first three years of application of Regulation (EU) No 600/2014, within 15 minutes after the execution of the relevant transaction; |\n| --- | --- |\n\n| (b) | thereafter, within 5 minutes after the execution of the relevant transaction. |\n| --- | --- |\n\n5. Where a transaction between two investment firms is concluded outside the rules of a trading venue, either on own account or on behalf of clients, only the investment firm that sells the financial instrument concerned shall make the transaction public through an APA.\n\n6. By way of derogation from paragraph 5, where only one of the investment firms party to the transaction is a systematic internaliser in the given financial instrument and it is acting as the buying firm, only that firm shall make the transaction public through an APA, informing the seller of the action taken.\n\n7. Investment firms shall take all reasonable steps to ensure that the transaction is made public as a single transaction. For that purpose, two matching trades entered at the same time and for the same price with a single party interposed shall be considered to be a single transaction.\n\n8. Information relating to a package transaction shall be made available with respect to each component as close to real-time as is technically possible, having regard to the need to allocate prices to particular financial instruments and shall include the package transaction flag or the exchange for physicals transaction flag as specified in Table 3 of Annex II. Where the package transaction is eligible for deferred publication pursuant to Article 8, information on all components shall be made available after the deferral period for the transaction has lapsed.",
+      "text_sha256": "46cdbdf7c65da66d09b8abb5b78d24b9c0e269b9f4c93975234dc2fdb9bd8b53",
+      "md_span": {
+        "start": 7237,
+        "end": 10287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Where a competent authority authorises the deferred publication of the details of transactions pursuant to Article 11(1) of Regulation (EU) No 600/2014, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make public each transaction no later than 19.00 local time on the second working day after the date of the transaction, provided one of the following conditions is satisfied:\n\n| (a) | the transaction is large in scale compared with the normal market size as specified in Article 9; |\n| --- | --- |\n\n| (b) | the transaction is in a financial instrument or a class of financial instruments for which there is not a liquid market as specified in accordance with the methodology set out in Article 13; |\n| --- | --- |\n\n| (c) | the transaction is executed between an investment firm dealing on own account other than on a matched principal basis as per Article 4(1)(38) of Directive 2014/65/EU of the European Parliament and of the Council (6) and another counterparty and is above a size specific to the instrument as specified in Article 10; |\n| --- | --- |\n\n| (d) | the transaction is a package transaction which meets one of the following criteria:(i)one or more of its components are transactions in financial instruments which do not have a liquid market;(ii)one or more of its components are transactions in financial instruments that are large in scale compared with the normal market size as determined by Article 9;(iii)the transaction is executed between an investment firm dealing on own account other than on a matched principal basis as per Article 4(1)(38) of Directive 2014/65/EU and another counterparty, and one or more of its components are transactions in financial instruments that are above the size specific to the instrument as determined by Article 10. |\n| --- | --- |\n| (i) | one or more of its components are transactions in financial instruments which do not have a liquid market; |\n| (ii) | one or more of its components are transactions in financial instruments that are large in scale compared with the normal market size as determined by Article 9; |\n| (iii) | the transaction is executed between an investment firm dealing on own account other than on a matched principal basis as per Article 4(1)(38) of Directive 2014/65/EU and another counterparty, and one or more of its components are transactions in financial instruments that are above the size specific to the instrument as determined by Article 10. |\n\n2. When the time limit of deferral set out in paragraph 1 has lapsed, all the details of the transaction shall be published unless an extended or an indefinite time period of deferral is granted in accordance with Article 11.\n\n3. Where a transaction between two investment firms, either on own account or on behalf of clients, is executed outside the rules of a trading venue, the relevant competent authority for the purposes of determining the applicable deferral regime shall be the competent authority of the investment firm responsible for making the trade public through an APA in accordance with paragraphs 5, 6 and 7 of Article 7.",
+      "text_sha256": "67a2dee79047a547730f2eff3be060f7f2c916a88492a18bfa24096b186da1f3",
+      "md_span": {
+        "start": 10320,
+        "end": 13488
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087EN.01022901-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nA transaction shall be considered large in scale compared with normal market size where it is equal to or larger than the minimum size of transaction, which shall be calculated in accordance with the methodology set out in Article 13.",
+      "text_sha256": "7f12acd8d2e16fafd1d0d496a479b75fa3771a63e5e83b7f1240fccbc97e8b50",
+      "md_span": {
+        "start": 13521,
+        "end": 13766
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nA transaction shall be considered above a size specific to the financial instrument where it is equal to or larger than the minimum size of transaction, which shall be calculated in accordance with the methodology set out in Article 13.",
+      "text_sha256": "5608a5e6adafe8f960c47ea2d1c92f57534a151cc0d523b126c880b02a06856e",
+      "md_span": {
+        "start": 13801,
+        "end": 14049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Where competent authorities exercise their powers in conjunction with an authorisation of deferred publication pursuant to Article 11(3) of Regulation (EU) No 600/2014, the following shall apply:\n\n| (a) | where Article 11(3)(a) of Regulation (EU) No 600/2014 applies, competent authorities shall request the publication of either of the following information during the full period of deferral as set out in Article 8:(i)all the details of a transaction laid down in Tables 1 and 2 of Annex II with the exception of details relating to volume;(ii)transactions in a daily aggregated form for a minimum number of 5 transactions executed on the same day, to be made public the following working day before 9.00 local time; |\n| --- | --- |\n| (i) | all the details of a transaction laid down in Tables 1 and 2 of Annex II with the exception of details relating to volume; |\n| (ii) | transactions in a daily aggregated form for a minimum number of 5 transactions executed on the same day, to be made public the following working day before 9.00 local time; |\n\n| (b) | where Article 11(3)(b) of Regulation (EU) No 600/2014 applies, competent authorities shall allow the omission of the publication of the volume of an individual transaction for an extended time period of four weeks; |\n| --- | --- |\n\n| (c) | in respect of non-equity instruments that are not sovereign debt and where Article 11(3)(c) of Regulation (EU) No 600/2014 applies, competent authorities shall allow, for an extended time period of deferral of four weeks, the publication of the aggregation of several transactions executed over the course of one calendar week on the following Tuesday before 9.00 local time; |\n| --- | --- |\n\n| (d) | in respect of sovereign debt instruments and where Article 11(3)(d) of Regulation (EU) No 600/2014 applies, competent authorities shall allow, for an indefinite period of time, the publication of the aggregation of several transactions executed over the course of one calendar week on the following Tuesday before 9.00 local time. |\n| --- | --- |\n\n2. Where the extended period of deferral set out in paragraph 1(b) has lapsed, the following requirements shall apply:\n\n| (a) | in respect of all instruments that are not sovereign debt, the publication of the full details of all individual transactions, on the next working day before 9.00 local time; |\n| --- | --- |\n\n| (b) | in respect of sovereign debt instruments where competent authorities decide not to use the options provided for in Article 11(3)(b) and (d) of Regulation (EU) No 600/2014 consecutively, pursuant to the second subparagraph of Article 11(3) of Regulation (EU) No 600/2014, the publication of the full details of all individual transactions on the next working day before 9.00 local time; |\n| --- | --- |\n\n| (c) | in respect of sovereign debt instruments, where competent authorities apply the options provided for in Article 11(3)(b) and (d) of Regulation (EU) No 600/2014 consecutively pursuant to the second subparagraph of Article 11(3) of Regulation (EU) No 600/2014, the publication of several transactions executed in the same calendar week in an aggregated form on the Tuesday following the expiry of the extended period of deferral of four weeks counting from the last day of that calendar week before 9.00 local time. |\n| --- | --- |\n\n3. In respect of all instruments that are not sovereign debt, all the details of the transactions on an individual basis shall be published four weeks after the publication of the aggregated details in accordance with paragraph 1(c) before 9.00 local time.\n\n4. The aggregated daily or weekly data referred to in paragraphs 1 and 2 shall contain the following information for bonds, structured finance products, derivatives and emission allowances in respect of each day or week of the calendar period concerned:\n\n| (a) | the weighted average price; |\n| --- | --- |\n\n| (b) | the total volume traded as referred to in Table 4 of Annex II; |\n| --- | --- |\n\n| (c) | the total number of transactions. |\n| --- | --- |\n\n5. Transactions shall be aggregated per ISIN-code. Where the ISIN code is not available, transactions shall be aggregated at the level of the class of financial instruments to which the liquidity test set out in Article 13 applies.\n\n6. Where the weekday foreseen for the publications set out in points (c) and (d) of paragraph 1, and paragraphs 2 and 3, is not a working day, the publications shall be effected on the following working day before 9.00 local time.",
+      "text_sha256": "567878bab23a2d5284ab356987d0484d65969c0a29cbf522e7a843d4d6cb1744",
+      "md_span": {
+        "start": 14084,
+        "end": 18596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nThe obligation to make public the volume and price of transactions and the time at which they were concluded as set out in Article 21(1) of Regulation (EU) No 600/2014 shall not apply to any of the following:\n\n| (a) | transactions listed in Article 2(5) of Commission Delegated Regulation (EU) 2017/590 (7); |\n| --- | --- |\n\n| (b) | transactions executed by a management company as defined in Article 2(1)(b) of Directive 2009/65/EC of the European Parliament and of the Council (8) or an alternative investment fund manager as defined in Article 4(1)(b) of Directive 2011/61/EU of the European Parliament and of the Council (9) which transfer the beneficial ownership of financial instruments from one collective investment undertaking to another and where no investment firm is a party to the transaction; |\n| --- | --- |\n\n| (c) | ‘give-up transaction’ or ‘give-in transaction’ which is a transaction where an investment firm passes a client trade to, or receives a client trade from, another investment firm for the purpose of post-trade processing; |\n| --- | --- |\n\n| (d) | transfers of financial instruments such as collateral in bilateral transactions or in the context of a central counterparty (CCP) margin or collateral requirements or as part of the default management process of a CCP. |\n| --- | --- |",
+      "text_sha256": "b3efa83c3110b9bba3037dc32815441c9cdb891468609752e778ffb04ca59cf8",
+      "md_span": {
+        "start": 18631,
+        "end": 19955
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_2017087EN.01022901-E0007",
+          "text": "(7)"
+        },
+        {
+          "href": "#ntr8-L_2017087EN.01022901-E0008",
+          "text": "(8)"
+        },
+        {
+          "href": "#ntr9-L_2017087EN.01022901-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. For determining financial instruments or classes of financial instruments for which there is not a liquid market for the purposes of Article 6 and point (b) of paragraph 1 of Article 8, the following methodologies shall be applied across asset classes:\n\n| (a) | Static determination of liquidity for:(i)the asset class of securitised derivatives as defined in Table 4.1 of Annex III;(ii)the following sub-asset classes of equity derivatives: stock index options, stock index futures/forwards, stock options, stock futures/forwards, stock dividend options, stock dividend futures/forwards, dividend index options, dividend index futures/forwards, volatility index options, volatility index futures/forwards, ETF options, ETF futures/forwards and other equity derivatives as defined in Table 6.1 of Annex III;(iii)the asset class of foreign exchange derivatives as defined in Table 8.1 of Annex III;(iv)the sub-asset classes of other interest rate derivatives, other commodity derivatives, other credit derivatives, other C10 derivatives, other contracts for difference (CFDs), other emission allowances and other emission allowance derivatives as defined in Tables 5.1, 7.1, 9.1, 10.1, 11.1, 12.1 and 13.1 of Annex III. |\n| --- | --- |\n| (i) | the asset class of securitised derivatives as defined in Table 4.1 of Annex III; |\n| (ii) | the following sub-asset classes of equity derivatives: stock index options, stock index futures/forwards, stock options, stock futures/forwards, stock dividend options, stock dividend futures/forwards, dividend index options, dividend index futures/forwards, volatility index options, volatility index futures/forwards, ETF options, ETF futures/forwards and other equity derivatives as defined in Table 6.1 of Annex III; |\n| (iii) | the asset class of foreign exchange derivatives as defined in Table 8.1 of Annex III; |\n| (iv) | the sub-asset classes of other interest rate derivatives, other commodity derivatives, other credit derivatives, other C10 derivatives, other contracts for difference (CFDs), other emission allowances and other emission allowance derivatives as defined in Tables 5.1, 7.1, 9.1, 10.1, 11.1, 12.1 and 13.1 of Annex III. |\n\n| (b) | Periodic assessment based on quantitative and, where applicable, qualitative liquidity criteria for:(i)all bond types except ETCs and ETNs as defined in Table 2.1 of Annex III and as further specified in Article 17(1);(ii)ETC and ETN bond types as defined in Table 2.4 of Annex III;(iii)the asset-class of interest rate derivatives except the sub-asset class of other interest rate derivatives as defined in Table 5.1of Annex III;(iv)the following sub-asset classes of equity derivatives: swaps and portfolio swaps as defined in Table 6.1 of Annex III;(v)the asset-class of commodity derivatives except the sub-asset class of other commodity derivatives as defined in Table 7.1 of Annex III;(vi)the following sub-asset classes of credit derivatives: index credit default swaps and single name credit default swaps as defined in Table 9.1 of Annex III;(vii)the asset-class of C10 derivatives except the sub-asset class of other C10 derivatives as defined in Table 10.1 of Annex III;(viii)the following sub-asset classes of contracts for difference (CFDs): currency CFDs and commodity CFDs as defined in Table 11.1 of Annex III;(ix)the asset-class of emission allowances except the sub-asset class of other emission allowances as defined in Table 12.1 of Annex III;(x)the asset-class of emission allowance derivatives except the sub-asset class of other emission allowance derivatives as defined in Table 13.1 of Annex III. |\n| --- | --- |\n| (i) | all bond types except ETCs and ETNs as defined in Table 2.1 of Annex III and as further specified in Article 17(1); |\n| (ii) | ETC and ETN bond types as defined in Table 2.4 of Annex III; |\n| (iii) | the asset-class of interest rate derivatives except the sub-asset class of other interest rate derivatives as defined in Table 5.1of Annex III; |\n| (iv) | the following sub-asset classes of equity derivatives: swaps and portfolio swaps as defined in Table 6.1 of Annex III; |\n| (v) | the asset-class of commodity derivatives except the sub-asset class of other commodity derivatives as defined in Table 7.1 of Annex III; |\n| (vi) | the following sub-asset classes of credit derivatives: index credit default swaps and single name credit default swaps as defined in Table 9.1 of Annex III; |\n| (vii) | the asset-class of C10 derivatives except the sub-asset class of other C10 derivatives as defined in Table 10.1 of Annex III; |\n| (viii) | the following sub-asset classes of contracts for difference (CFDs): currency CFDs and commodity CFDs as defined in Table 11.1 of Annex III; |\n| (ix) | the asset-class of emission allowances except the sub-asset class of other emission allowances as defined in Table 12.1 of Annex III; |\n| (x) | the asset-class of emission allowance derivatives except the sub-asset class of other emission allowance derivatives as defined in Table 13.1 of Annex III. |\n\n| (c) | Periodic assessment based on qualitative liquidity criteria for:(i)the following sub-asset classes of credit derivatives: CDS index options and single name CDS options as defined in Table 9.1 of Annex III;(ii)the following sub-asset classes of contracts for difference (CFDs): equity CFDs, bond CFDs, CFDs on an equity future/forward and CFDs on an equity option as defined in Table 11.1 of Annex III. |\n| --- | --- |\n| (i) | the following sub-asset classes of credit derivatives: CDS index options and single name CDS options as defined in Table 9.1 of Annex III; |\n| (ii) | the following sub-asset classes of contracts for difference (CFDs): equity CFDs, bond CFDs, CFDs on an equity future/forward and CFDs on an equity option as defined in Table 11.1 of Annex III. |\n\n| (d) | Periodic assessment based on a two tests methodology for structured finance products as defined in Table 3.1 of Annex III. |\n| --- | --- |\n\n2. For determining the size specific to the financial instrument referred to in Article 5 and the orders that are large in scale compared with normal market size referred to in Article 3, the following methodologies shall be applied:\n\n| (a) | the threshold value for:(i)ETC and ETN bond types as defined in Table 2.5 of Annex III;(ii)the asset class of securitised derivatives as defined in Table 4.2 of Annex III;(iii)each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III;(iv)each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III;(v)each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III;(vi)each sub-asset class considered not to have a liquid market for the asset classes of emission allowances and emission allowance derivatives as defined in Tables 12.3 and 13.3 of Annex III;(vii)each structured finance product where Test-1 under paragraph 1(d) is not passed as defined in Table 3.2 of Annex III;(viii)each structured finance product considered not to have a liquid market where only Test-1 under paragraph 1(d) is passed as defined in Table 3.3 of Annex III. |\n| --- | --- |\n| (i) | ETC and ETN bond types as defined in Table 2.5 of Annex III; |\n| (ii) | the asset class of securitised derivatives as defined in Table 4.2 of Annex III; |\n| (iii) | each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III; |\n| (iv) | each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III; |\n| (v) | each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III; |\n| (vi) | each sub-asset class considered not to have a liquid market for the asset classes of emission allowances and emission allowance derivatives as defined in Tables 12.3 and 13.3 of Annex III; |\n| (vii) | each structured finance product where Test-1 under paragraph 1(d) is not passed as defined in Table 3.2 of Annex III; |\n| (viii) | each structured finance product considered not to have a liquid market where only Test-1 under paragraph 1(d) is passed as defined in Table 3.3 of Annex III. |\n\n| (b) | the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile as further specified in Article 17(3) and the threshold floor for:(i)each bond type, except ETCs and ETNs, as defined in Table 2.3 of Annex III;(ii)each sub-class having a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and CFDs as defined in Tables 5.2, 7.2, 9.2, 10.2 and 11.2 of Annex III;(iii)each sub-asset class having a liquid market for the asset classes of emission allowances and emission allowance derivatives as defined in Tables 12.2 and 13.2 of Annex III;(iv)each structured finance product considered to have a liquid market where Test-1 and Test-2 under paragraph 1(d) are passed as defined in Table 3.3 of Annex III. |\n| --- | --- |\n| (i) | each bond type, except ETCs and ETNs, as defined in Table 2.3 of Annex III; |\n| (ii) | each sub-class having a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and CFDs as defined in Tables 5.2, 7.2, 9.2, 10.2 and 11.2 of Annex III; |\n| (iii) | each sub-asset class having a liquid market for the asset classes of emission allowances and emission allowance derivatives as defined in Tables 12.2 and 13.2 of Annex III; |\n| (iv) | each structured finance product considered to have a liquid market where Test-1 and Test-2 under paragraph 1(d) are passed as defined in Table 3.3 of Annex III. |\n\n3. For the determination of the size specific to the financial instrument referred to in Article 8(1)(c) and transactions that are large in scale compared with normal market size referred to in Article 8(1)(a), the following methodologies shall be applied:\n\n| (a) | the threshold value for:(i)ETC and ETN bond types as defined in Table 2.5 of Annex III;(ii)the asset class of securitised derivatives as defined in Table 4.2 of Annex III;(iii)each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III;(iv)each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III;(v)each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III;(vi)each sub-asset class considered not to have a liquid market for the asset class of emission allowances and emission allowance derivatives as defined in Tables 12.3 and 13.3 of Annex III;(vii)each structured finance product where Test-1 under paragraph 1(d) is not passed as defined in Table 3.2 of Annex III;(viii)each structured finance product considered not to have a liquid market where only Test-1 under paragraph 1(d) is passed as defined in Table 3.3 of Annex III. |\n| --- | --- |\n| (i) | ETC and ETN bond types as defined in Table 2.5 of Annex III; |\n| (ii) | the asset class of securitised derivatives as defined in Table 4.2 of Annex III; |\n| (iii) | each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III; |\n| (iv) | each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III; |\n| (v) | each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III; |\n| (vi) | each sub-asset class considered not to have a liquid market for the asset class of emission allowances and emission allowance derivatives as defined in Tables 12.3 and 13.3 of Annex III; |\n| (vii) | each structured finance product where Test-1 under paragraph 1(d) is not passed as defined in Table 3.2 of Annex III; |\n| (viii) | each structured finance product considered not to have a liquid market where only Test-1 under paragraph 1(d) is passed as defined in Table 3.3 of Annex III. |\n\n| (b) | the trade size below which lies the percentage of the transactions corresponding to the trade percentile for each bond type, except ETCs and ETNs, as defined in Table 2.3 of Annex III; |\n| --- | --- |\n\n| (c) | the greatest of the trade size below which lies the percentage of the transactions corresponding to the trade percentile, the trade size below which lies the percentage of volume corresponding to the volume percentile and the threshold floor for each sub-class considered to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and CFDs as provided in Tables 5.2, 7.2, 9.2, 10.2 and 11.2 of Annex III; |\n| --- | --- |\n\n| (d) | the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile and the threshold floor for:(i)each sub-asset class considered to have a liquid market for the asset classes of emission allowances and emission allowance derivatives as provided in Tables 12.2 and 13.2 of Annex III;(ii)each structured finance product considered to have a liquid market where the Test-1 and Test-2 under paragraph 1(d) are passed as defined in Table 3.3 of Annex III. |\n| --- | --- |\n| (i) | each sub-asset class considered to have a liquid market for the asset classes of emission allowances and emission allowance derivatives as provided in Tables 12.2 and 13.2 of Annex III; |\n| (ii) | each structured finance product considered to have a liquid market where the Test-1 and Test-2 under paragraph 1(d) are passed as defined in Table 3.3 of Annex III. |\n\n4. For the purpose of paragraph 3(c) where the trade size corresponding to the volume percentile for the determination of the transaction that is large in scale compared with normal market size is higher than the 97,5 trade percentile, the trade volume shall not be taken into consideration and the size specific to the financial instrument referred to in Article 8(1)(c) and the size of transactions large in scale compared with normal market size referred to in Article 8(1)(a) shall be determined as the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile and the threshold floor.\n\n5. In accordance with Delegated Regulations (EU) 2017/590 and (EU) 2017/577 competent authorities shall collect on a daily basis the data from trading venues, APAs and CTPs which is necessary to perform the calculations to determine:\n\n| (a) | the financial instruments and classes of financial instruments not having a liquid market as set out in paragraph 1; |\n| --- | --- |\n\n| (b) | the sizes large in scale compared to normal market size and the size specific to the instrument as set out in paragraphs 2 and 3. |\n| --- | --- |\n\n6. Competent authorities performing the calculations for a class of financial instruments shall establish cooperation arrangements between each other as to ensure the aggregation of the data across the Union necessary for the calculations.\n\n7. For the purpose of paragraph 1(b) and (d), paragraph 2(b) and paragraph 3(b), (c) and (d), competent authorities shall take into account transactions executed in the Union between 1 January and 31 December of the preceding year.\n\n8. The trade size for the purpose of paragraph 2(b) and paragraph 3(b), (c) and (d) shall be determined according to the measure of volume as defined in Table 4 of Annex II. Where the trade size defined for the purpose of paragraphs 2 and 3 is expressed in monetary value and the financial instrument is not denominated in euros, the trade size shall be converted to the currency in which that financial instrument is denominated by applying the European Central Bank euro foreign exchange reference rate as of 31 December of the preceding year.\n\n9. Market operators and investment firms operating a trading venue may convert the trade sizes determined according to paragraphs 2 and 3 to the corresponding number of lots as defined in advance by that trading venue for the respective sub-class or sub-asset class. Market operators and investment firms operating a trading venue may maintain such trade sizes until application of the results of the next calculations performed in accordance to paragraph 17.\n\n10. The calculations referred to in paragraph 2(b)(i) and paragraph 3(b) shall exclude transactions with a size equal to or smaller than EUR 100 000.\n\n11. For the purpose of the determinations referred to in paragraphs 2 and 3, points (b) of paragraph 2 and points (b), (c) and (d) of paragraph 3 shall not apply whenever the number of transactions considered for calculations is smaller than 1 000, in which case the following thresholds shall be applied:\n\n| (a) | EUR 100 000 for all bond types except ETCs and ETNs; |\n| --- | --- |\n\n| (b) | the threshold values defined in paragraph 2(a) and paragraph 3(a) for all financial instruments not covered in point (a) of this paragraph. |\n| --- | --- |\n\n12. Except when they refer to emission allowances or derivatives thereof, the calculations referred to in paragraph 2(b) and paragraph 3(b), (c) and (d) shall be rounded up to the next:\n\n| (a) | 100 000 where the threshold value is smaller than 1 million; |\n| --- | --- |\n\n| (b) | 500 000 where the threshold value is equal to or greater than 1 million but smaller than 10 million; |\n| --- | --- |\n\n| (c) | 5 million where the threshold value is equal to or greater than 10 million but smaller than 100 million; |\n| --- | --- |\n\n| (d) | 25 million where the threshold value is equal to or greater than 100 million. |\n| --- | --- |\n\n13. For the purpose of paragraph 1, the quantitative liquidity criteria specified for each asset class in Annex III shall be determined according to Section 1 of Annex III.\n\n14. For equity derivatives that are admitted to trading or first traded on a trading venue, that do not belong to a sub-class for which the size specific to the financial instrument referred to in Article 5 and Article 8(1)(c) and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1)(a) have been published and which belong to one of the sub-asset classes specified in paragraph 1(a)(ii), the size specific to the financial instrument and the size of orders and transactions large in scale compared with normal market size shall be those applicable to the smallest average daily notional amount (ADNA) band of the sub-asset class to which the equity derivative belongs.\n\n15. Financial instruments admitted to trading or first traded on a trading venue which do not belong to any sub-class for which the size specific to the financial instrument referred to in Article 5 and Article 8(1)(c) and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1)(a) have been published shall be considered not to have a liquid market until application of the results of the calculations performed in accordance to paragraph 17. The applicable size specific to the financial instrument referred to in Articles 5 and Article 8(1)(c) and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1)(a) shall be those of the sub-classes determined not to have a liquid market belonging to the same sub-asset class.\n\n16. After the end of the trading day but before the end of that day, trading venues shall submit to competent authorities the details included in Annex IV for performing the calculations referred to in paragraph 5 whenever the financial instrument is admitted to trading or first traded on that trading venue or whenever the details previously provided have changed.\n\n17. Competent authorities shall ensure the publication of the results of the calculations referred to under paragraph 5 for each financial instrument and class of financial instrument by 30 April of the year following the date of application of Regulation (EU) No 600/2014 and by 30 April of each year thereafter. The results of the calculations shall apply from 1 June each year following publication.\n\n18. For the purposes of the calculations in paragraph 1(b)(i) and by way of derogation from paragraphs 7, 15 and 17, competent authorities shall, in respect of bonds except ETCs and ETNs, ensure the publication of the calculations referred to under paragraph 5(a) on a quarterly basis, on the first day of February, May, August and November following the date of application of Regulation (EU) No 600/2014 and on the first day of February, May, August and November each year thereafter. The calculations shall include transactions executed in the Union during the preceding calendar quarter and shall apply for the 3 month period beginning on the sixteenth day of February, May, August and November each year.\n\n19. Bonds, except for ETCs and ETNs, that are admitted to trading or first traded on a trading venue during the first two months of a quarter shall be considered to have a liquid market as specified in Table 2.2 of Annex III until the application of the results of the calculation of the calendar quarter.\n\n20. Bonds, except for ETCs and ETNs, that are admitted to trading or first traded on a trading venue during the last month of a quarter shall be considered to have a liquid market as specified in Table 2.2 of Annex III until the application of the results of the calculation of the following calendar quarter.",
+      "text_sha256": "9aa64ca7cc42889f71cf713987028e3e287796c7f7969c494750207d52ac5674",
+      "md_span": {
+        "start": 19990,
+        "end": 41978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nA transaction shall be considered to be entered into by a member of the European System of Central Banks (ESCB) in performance of monetary, foreign exchange and financial stability policy where that transaction meets any of the following requirements:\n\n| (a) | the transaction is carried out for the purposes of monetary policy, including an operation carried out in accordance with Articles 18 and 20 of the Statute of the European System of Central Banks and of the European Central Bank annexed to the Treaty on European Union or an operation carried out under equivalent national provisions for members of the ESCB in Member States whose currency is not the euro; |\n| --- | --- |\n\n| (b) | the transaction is a foreign-exchange operation, including operations carried out to hold or manage official foreign reserves of the Member States or the reserve management service provided by a member of the ESCB to central banks in other countries to which the exemption has been extended in accordance with Article 1(9) of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (c) | the transaction is carried out for the purposes of financial stability policy. |\n| --- | --- |",
+      "text_sha256": "7172e60f2d39d39ba153d56bf30e556334d53e17aa5101176e2f70714c035e00",
+      "md_span": {
+        "start": 42013,
+        "end": 43192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nArticle 1(6) of Regulation (EU) No 600/2014 shall not apply to the following types of transactions entered into by a member of the ESCB for the performance of an investment operation that is unconnected with that member's performance of one of the tasks referred to in Article 14:\n\n| (a) | transactions entered into for the management of its own funds; |\n| --- | --- |\n\n| (b) | transactions entered into for administrative purposes or for the staff of the member of the ESCB which include transactions conducted in the capacity as administrator of a pension scheme for its staff; |\n| --- | --- |\n\n| (c) | transactions entered into for its investment portfolio pursuant to obligations under national law. |\n| --- | --- |",
+      "text_sha256": "60baf56bd43eefdf031a1c83c1f14ec6f7bfe0a8b2547e5d51c8fafec801ceab",
+      "md_span": {
+        "start": 43227,
+        "end": 43958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. For financial instruments for which there is a liquid market in accordance with the methodology set out in Article 13, a competent authority may temporarily suspend the obligations set out in Articles 8 and 10 Regulation (EU) No 600/2014 where for a class of bonds, structured finance products, emission allowances or derivatives, the total volume as defined in Table 4 of Annex II calculated for the previous 30 calendar days represents less than 40 % of the average monthly volume calculated for the 12 full calendar months preceding those 30 calendar days.\n\n2. For financial instruments for which there is not a liquid market in accordance with the methodology set out in Article 13, a competent authority may temporarily suspend the obligations referred to in Articles 8 and 10 of Regulation (EU) No 600/2014 when for a class of bonds, structured finance products, emission allowances or derivatives, the total volume as defined in Table 4 of Annex II calculated for the previous 30 calendar days represents less than 20 % of the average monthly volume calculated for the 12 full calendar months preceding those 30 calendar days.\n\n3. Competent authorities shall take into account the transactions executed on all venues in the Union for the class of bonds, structured finance products, emission allowances or derivatives concerned when performing the calculations referred to in paragraphs 1 and 2. The calculations shall be performed at the level of the class of financial instruments to which the liquidity test set out in Article 13 is applied.\n\n4. Before competent authorities decide to suspend transparency obligations, they shall ensure that the significant decline in liquidity across all venues is not the result of seasonal effects of the relevant class of financial instruments on liquidity.",
+      "text_sha256": "2cac9c0e208415d5d72a942a98bfca0f0d0eeac4c46eb6d00a617721a22f96a5",
+      "md_span": {
+        "start": 43993,
+        "end": 45813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. For determining the bonds for which there is not a liquid market for the purposes of Article 6 and according to the methodology specified in Article 13(1)(b), the approach for the liquidity criterion ‘average daily number of trades’ shall be taken applying the ‘average daily number of trades’ corresponding to stage S1 (15 daily trades).\n\n2. Corporate bonds and covered bonds that are admitted to trading or first traded on a trading venue shall be considered to have a liquid market until the application of the results of the first quarterly liquidity determination as set out in Article 13(18) where:\n\n| (a) | the issuance size exceeds EUR 1 000 000 000 during stages S1 and S2, as determined in accordance with paragraph 6; |\n| --- | --- |\n\n| (b) | the issuance size exceeds EUR 500 000 000 during stages S3 and S4, as determined in accordance with paragraph 6. |\n| --- | --- |\n\n3. For determining the size specific to the financial instrument for the purposes of Article 5 and according to the methodology specified in Article 13(2)(b), the approach for the trade percentile to be applied shall be used applying the trade percentile corresponding to the stage S1 (30th percentile).\n\n4. ESMA shall, by 30 July of the year following the date of application of Regulation (EU) No 600/2014 and by 30 July of each year thereafter, submit to the Commission an assessment of the operation of the thresholds for the liquidity criterion 'average daily number of trades' for bonds as well as the trade percentiles that determine the size specific to the financial instruments covered by paragraph 8. The obligation to submit the assessment of the operation of the thresholds for the liquidity criterion for bonds ceases once S4 in the sequence of paragraph 6 is reached. The obligation to submit the assessment of the trade percentiles ceases once S4 in the sequence of paragraph 8 is reached.\n\n5. The assessment referred to in paragraph 4 shall take into account:\n\n| (a) | the evolution of trading volumes in non-equity instruments covered by the pre-trade transparency obligations pursuant to Article 8 and 9 of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (b) | the impact on liquidity providers of the percentile thresholds used to determine the size specific to the financial instrument; and |\n| --- | --- |\n\n| (c) | any other relevant factors. |\n| --- | --- |\n\n6. ESMA shall, in light of the assessment undertaken in accordance with paragraphs 4 and 5, submit to the Commission an amended version of the regulatory technical standard adjusting the threshold for the liquidity criterion ‘average daily number of trades’ for bonds according to the following sequence:\n\n| (a) | S2 (10 daily trades) by 30 July of the year following the date of application of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (b) | S3 (7 daily trades) by 30 July of the year thereafter; and |\n| --- | --- |\n\n| (c) | S4 (2 daily trades) by 30 July of the year thereafter. |\n| --- | --- |\n\n7. Where ESMA does not submit an amended regulatory technical standard adjusting the threshold to the next stage according to the sequence referred to in paragraph 6, the ESMA assessment undertaken in accordance with paragraphs 4 and 5 shall explain why adjusting the threshold to the relevant next stage is not warranted. In this instance, the move to the next stage will be postponed by one year.\n\n8. ESMA shall, in light of the assessment undertaken in accordance with paragraphs 4 and 5, submit to the Commission an amended version of the regulatory technical standard adjusting the threshold for trade percentiles according to the following sequence:\n\n| (a) | S2 (40th percentile) by 30 July of the year following the date of application of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (b) | S3 (50th percentile) by 30 July of the year thereafter; and |\n| --- | --- |\n\n| (c) | S4 (60th percentile) by 30 July of the year thereafter. |\n| --- | --- |\n\n9. Where ESMA does not submit an amended regulatory technical standard adjusting the threshold to the next stage according to the sequence referred to in paragraph 8, the ESMA assessment undertaken in accordance with paragraphs 4 and 5 shall explain why adjusting the threshold to the relevant next stage is not warranted. In this instance, the move to the next stage will be postponed by one year.",
+      "text_sha256": "b077d0573ede9c540ac5c05710e4f9c2c0e8d65c0f6904993baf566b684ed474",
+      "md_span": {
+        "start": 45848,
+        "end": 50190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Competent authorities shall, no later than six months prior to the date of application of Regulation (EU) No 600/2014, collect the necessary data, calculate and ensure publication of the details referred to in Article 13(5).\n\n2. For the purposes of paragraph 1:\n\n| (a) | the calculations shall be based on a six-month reference period commencing 18 months prior to the date of application of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (b) | the results of the calculations contained in the first publication shall be used until the results of the first regular calculations set out in Article 13(17) apply. |\n| --- | --- |\n\n3. By derogation from paragraph 1, for all bonds, except ETCs and ETNs, competent authorities shall use their best endeavours to ensure publication of the results of the transparency calculations specified in paragraph 1(b)(i) of Article 13 no later than on the first day of the month preceding the date of application of Regulation (EU) No 600/2014, based on a reference period of three months commencing on the first day of the fifth month preceding the date of application of Regulation (EU) No 600/2014.\n\n4. Competent authorities, market operators and investment firms including investment firms operating a trading venue shall use the information published in accordance with paragraph 3 until the results of the first regular calculation set out in Article 13(18) apply.\n\n5. Bonds, except for ETCs and ETNs, which are admitted to trading or first traded on a trading venue in the three month period preceding the date of application of Regulation (EU) No 600/2014 shall be considered not to have a liquid market as set out in Table 2.2 of Annex III until the results of the first regular calculation set out in Article 13(18) apply.",
+      "text_sha256": "748963ef693941abd62a642fe44edc38c5dd50b007031f35adff2ffc0f8a6509",
+      "md_span": {
+        "start": 50225,
+        "end": 52007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0583:2016-07-14--066419a511f773e0ae099584b71375d3bc6c6240fc88ba8a4b930de0c6919deb#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018. However, Article 18 shall apply from the date of the entry of force of this Regulation.",
+      "text_sha256": "75b98d8283131ee52a3f123f4f60d62a2eb13adc6509efe6dcef4251e5496b99",
+      "md_span": {
+        "start": 52042,
+        "end": 52319
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

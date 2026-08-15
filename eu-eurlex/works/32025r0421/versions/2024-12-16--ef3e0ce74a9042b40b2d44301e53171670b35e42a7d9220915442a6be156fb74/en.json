@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/421 of 16\u00A0December 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-12-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0421/versions/2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74/en.xml",
+    "sha256": "1bccd4f61141d914960bd024c539088363aa217cfd5ae7f7f75515e1d299d4f2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0421"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The data necessary for the classification of crypto-asset white papers is set out the Annex.\n\n2. The data set out in the Annex shall be provided in a common format in accordance with the ISO 20022 standard.\n\n3. By way of derogation from paragraph 2 of this Article, where the data set out in the Annex is included in the crypto-asset white paper referred to in Article 6, Article 19 or Article 51 of Regulation (EU) 2023/1114, the data set out in the Annex to this Regulation may be provided in the same machine-readable format in which the crypto-asset white paper was prepared in accordance with Implementing Regulation (EU) 2024/2984.",
+      "text_sha256": "ab95303ce1c618f1b681139182a91beef6ab5cabe67dfde86df242a5ef52f088",
+      "md_span": {
+        "start": 716,
+        "end": 1367
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhen using the ISO 17442 Legal Entity Identifier, persons drawing up a crypto-asset white paper referred to in Articles 6, Article 19 or Article 51 of Regulation (EU) 2023/1114 shall ensure that the identifier is:\n\n| (a) | valid and issued in accordance with the terms of any of the Local Operating Units of the Global Legal Entity Identifier System; |\n| --- | --- |\n\n| (b) | included in the Global Legal Entity Identifier database maintained by the Central Operating Unit appointed by the Regulatory Oversight Committee. |\n| --- | --- |",
+      "text_sha256": "588adefbf7e392c30217eeb8529e2584ea430b79c53737ed03d2ccb5f134ad64",
+      "md_span": {
+        "start": 1400,
+        "end": 1948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. When the ISO 24165 Digital Token Identifier is provided, the crypto-asset white paper shall be identified with a valid identifier of type 3 pertaining to the group of crypto-assets to which the white paper relates.\n\n2. When the ISO 24165 Digital Token Identifier is provided, the crypto-asset or crypto-assets to which the crypto-asset white paper relates shall be individually identified with a valid identifier assigned to each of the crypto-assets to which the white paper relates.\n\n3. When the ISO 24165 Digital Token Identifier is not available, the crypto-asset white paper shall identify the crypto-assets to which the crypto-asset white paper relates, by using a digital token identifier approved by ESMA at Union level, which meets all of the following characteristics:\n\n| (a) | unique; |\n| --- | --- |\n\n| (b) | neutral; |\n| --- | --- |\n\n| (c) | reliable; |\n| --- | --- |\n\n| (d) | open source; |\n| --- | --- |\n\n| (e) | scalable; |\n| --- | --- |\n\n| (f) | accessible; |\n| --- | --- |\n\n| (g) | available at a reasonable cost basis; and |\n| --- | --- |\n\n| (h) | is subject to an appropriate governance framework. |\n| --- | --- |",
+      "text_sha256": "7ad4fe208234b2358a5f717c097d7c10faaa0636c94668cb767494ce072b0bf2",
+      "md_span": {
+        "start": 1981,
+        "end": 3128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0421:2024-12-16--ef3e0ce74a9042b40b2d44301e53171670b35e42a7d9220915442a6be156fb74#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from 23 December 2025.",
+      "text_sha256": "f81323df069183b475a0237e0d49fcbe396a45af18dc80bf1de10d8a0207edeb",
+      "md_span": {
+        "start": 3161,
+        "end": 3364
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

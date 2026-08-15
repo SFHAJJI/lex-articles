@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0213:2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b",
+  "language": "en",
+  "title": "Commission Regulation (EC) No 213/2008 of 28 November 2007 amending Regulation (EC) No 2195/2002",
+  "valid_from": "2007-11-28",
+  "valid_to": "2008-04-03",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0213/versions/2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b/en.xml",
+    "sha256": "3bd5bfbe60f6968f6bb64e6bb824ab6c565e4786fde44378828318faf1544b66",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0213"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008r0213:2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EC) No 2195/2002 is amended as follows:\n\n| 1. | Annex I is replaced by the text set out in the Annex I to this Regulation. |\n| --- | --- |\n\n| 2. | Annex II is deleted. |\n| --- | --- |\n\n| 3. | Annex III is replaced by the text set out in Annex II to this Regulation. |\n| --- | --- |\n\n| 4. | Annex IV is replaced by the text set out in Annex III to this Regulation. |\n| --- | --- |\n\n| 5. | Annex V is replaced by the text set out in Annex IV to this Regulation. |\n| --- | --- |",
+      "text_sha256": "fa3ab73ad27e3d5c2a7179b2594e34df410edeed299695e09e69a30ca8d1c9ec",
+      "md_span": {
+        "start": 713,
+        "end": 1211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r0213:2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nDirective 2004/17/EC is amended as follows:\n\n| 1. | The table set out in Annex XII is replaced by the text set out in Annex V to this Regulation. |\n| --- | --- |\n\n| 2. | The table set out in Annex XVIIA is replaced by the text set out in Annex VI to this Regulation. |\n| --- | --- |\n\n| 3. | The table set out in Annex XVIIB is replaced by the text set out in Annex VII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "a887d673ced51756736b6cae2f102bd01679af165062ff91243198ea8f07d5ee",
+      "md_span": {
+        "start": 1244,
+        "end": 1659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r0213:2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nDirective 2004/18/EC is amended as follows:\n\n| 1. | The table set out in Annex I is replaced by the text set out in Annex V to this Regulation. |\n| --- | --- |\n\n| 2. | In Annex II, the table set out in Annex IIA is replaced by the text set out in Annex VI to this Regulation. |\n| --- | --- |\n\n| 3. | In Annex II, the table set out in Annex IIB is replaced by the text set out in Annex VII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "a06f9cd909f24d33d46e480cf7aa9be97a106c50c4522b94700c27e369548cac",
+      "md_span": {
+        "start": 1692,
+        "end": 2127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32008r0213:2007-11-28--74ee182efc640b535c76faccd2600df20902b50ce1124ae5f7751c90b40a849b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.\n\nIt shall apply from 15 September 2008",
+      "text_sha256": "1e462f8696bd74a3c4bc80e67da0a767df7ac0faf82d0cc411b6a6e889ffe76b",
+      "md_span": {
+        "start": 2160,
+        "end": 2337
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0861:2016-02-18--f89dead49cce5001c181ad1cecd6f0c1aca1f475810f0b61563f52917609e419",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2016/861 of 18 February 2016 correcting Commission Delegated Regulation (EU) No 528/2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2016-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0861/versions/2016-02-18--f89dead49cce5001c181ad1cecd6f0c1aca1f475810f0b61563f52917609e419/fr.xml",
+    "sha256": "e22918fee2f8857c2eed189fe774b0e51e3f213f0c4d63cd7847a906a6feaef3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0861"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0861:2016-02-18--f89dead49cce5001c181ad1cecd6f0c1aca1f475810f0b61563f52917609e419#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'article 2 du règlement délégué (UE) no 528/2014 est remplacé par le texte suivant:\n\n«Article 2\n\nSeuls les établissements qui n'achètent que des options et warrants peuvent utiliser la méthode simplifiée.»",
+      "text_sha256": "dbb7a65832868173b32aee793a6c6e025c69a819042650679e55f6a033477193",
+      "md_span": {
+        "start": 778,
+        "end": 1001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0861:2016-02-18--f89dead49cce5001c181ad1cecd6f0c1aca1f475810f0b61563f52917609e419#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nÀ l'article 4, paragraphe 1, du règlement délégué (UE) no 604/2014, le point c) est remplacé par le texte suivant:\n\n| «c) | le membre du personnel s'est vu accorder au cours de l'exercice précédent une rémunération totale égale ou supérieure à la plus faible rémunération totale accordée au cours du même exercice à un membre de la direction générale ou à un membre du personnel qui remplit l'un des critères énoncés aux points 1), 5), 6), 8), 11), 12), 13) ou 14) de l'article 3.» |\n| --- | --- |",
+      "text_sha256": "c5dc0c0fa8ac7d6c4494e7d5aabe8f5f1845c27cb314077dc406b2e96346901f",
+      "md_span": {
+        "start": 1034,
+        "end": 1542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0861:2016-02-18--f89dead49cce5001c181ad1cecd6f0c1aca1f475810f0b61563f52917609e419#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "e2b04ee2b40481ba71bf6f064175a8301083c00b49e356c6b9c1c1633ffc8e31",
+      "md_span": {
+        "start": 1575,
+        "end": 1706
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

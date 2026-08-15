@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:a-1938-01-14-n1:1955-06-21--3ede720a083ac5fb867080485b9ef742c7a2a2a9907449a114a1bba473660e37",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/06/1955 : Arrêté du 14 janvier 1938, concernant la composition de la Commission supérieure des maladies professionnelles pour l'étude des maladies professionnelles dans l'agriculture.",
+  "valid_from": "1955-06-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/a-1938-01-14-n1/versions/1955-06-21--3ede720a083ac5fb867080485b9ef742c7a2a2a9907449a114a1bba473660e37/fr.xml",
+    "sha256": "20e6b97d694f8a7b0d2a1f3b35d3b278b742ba63e82d1e01065d165812ac75ff",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/consolide/19550621/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:a-1938-01-14-n1:1955-06-21--3ede720a083ac5fb867080485b9ef742c7a2a2a9907449a114a1bba473660e37#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/art_1er/19550621",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1955-06-21",
+      "text_md": "Pour l'étude des maladies pouvant être considérées comme maladies professionnelles spéciales à l'agriculture, les représentants des patrons et des assurés industriels dans la Commission supérieure des maladies professionnelles seront remplacés par deux représentants de l'agriculture désignés par le Ministre du Travail et de la Prévoyance sociale, sur proposition de la Chambre d'Agriculture, suivant le mode prévu à l'art. 1er, al. 3 de l'arrêté du 5 février 1937 précité. Le médecin de confiance de l´Association d´Assurance contre les accidents, Section agricole et forestière, fera partie de la Commission aux mêmes fins.",
+      "text_sha256": "85f0c113f093065ffe68b1734ba9ddd92e9e00ac427dd814a134853372b6497e",
+      "md_span": {
+        "start": 772,
+        "end": 1398
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/a/1937/02/05/n1/jo",
+          "text": "arrêté du 5 février 1937"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:a-1938-01-14-n1:1955-06-21--3ede720a083ac5fb867080485b9ef742c7a2a2a9907449a114a1bba473660e37#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/art_2/19380126",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1938-01-26",
+      "text_md": "Le présent arrêté sera publié au *Mémorial*.",
+      "text_sha256": "51a76eadb35092f694d5ee9ddeb8fdefbfee21a697f4a20d733bc9ebdc5837aa",
+      "md_span": {
+        "start": 1433,
+        "end": 1477
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

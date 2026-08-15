@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r0180:2015-02-09--0e012c3533ba8a2aaa416c38265d4eb5937d1f430d007a93770596bfc1d97cb8",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2015/180 of 9 February 2015 on amending Regulation (EC) No 748/2009 on the list of aircraft operators that performed an aviation activity listed in Annex I to Directive 2003/87/EC",
+  "valid_from": "2015-02-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r0180/versions/2015-02-09--0e012c3533ba8a2aaa416c38265d4eb5937d1f430d007a93770596bfc1d97cb8/fr.xml",
+    "sha256": "d08de5676a508714739ec6ac72f60966c5a6e201239b44c7d8c69a029bfae22a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0180"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r0180:2015-02-09--0e012c3533ba8a2aaa416c38265d4eb5937d1f430d007a93770596bfc1d97cb8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'annexe du règlement (CE) no 748/2009 est remplacée par l'annexe du présent règlement.",
+      "text_sha256": "18c67393dc3986cf2de021eb88aca29d2852dbc136313baab9282ef07bf1a250",
+      "md_span": {
+        "start": 817,
+        "end": 921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r0180:2015-02-09--0e012c3533ba8a2aaa416c38265d4eb5937d1f430d007a93770596bfc1d97cb8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "8268800cea4f256373429e9bd1de08d049f6b567f5fcc49f7c4acf9fbf0e5724",
+      "md_span": {
+        "start": 954,
+        "end": 1095
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

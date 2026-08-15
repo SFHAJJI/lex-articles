@@ -1,0 +1,477 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/1778 of 16\u00A0July 2026 laying down the implementation arrangements for the digital product passport registry set up under Regulation (EU)\u00A02024/1781",
+  "valid_from": "2026-07-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r1778/versions/2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4/en.xml",
+    "sha256": "0ca96b0bd48d98362da6a8184d2e2e60b29a81cd9166090424bb34f4e71e3b94",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1778"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Regulation sets out implementation arrangements for the functioning of the digital product passport registry established in accordance with Article 13 of Regulation (EU) 2024/1781 including rules that apply to economic operators that place any of the following products on the market or put them into service, requiring the existence of a digital product passport and its registration in the registry:\n\n| (a) | products covered by delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781; |\n| --- | --- |\n\n| (b) | batteries covered by Article 77 of Regulation (EU) 2023/1542; |\n| --- | --- |\n\n| (c) | construction products covered by Article 76 of Regulation (EU) 2024/3110; |\n| --- | --- |\n\n| (d) | toys covered by Article 19 of Regulation (EU) 2025/2509; |\n| --- | --- |\n\n| (e) | detergents and end-user surfactants covered by Article 21 of Regulation (EU) 2026/405; |\n| --- | --- |\n\n| (f) | any other product covered by Union legislation requiring a digital product passport and its registration in the registry established under Article 13 of Regulation (EU) 2024/1781. |\n| --- | --- |\n\n2. Those implementation arrangements shall also include rules governing the use of the registry by value chain actors, competent national authorities, customs authorities and the Commission.The implementation arrangements and rules referred to in paragraph 1 of this Article relate to:\n\n| (a) | management of access to the registry; |\n| --- | --- |\n\n| (b) | the verification process that allows economic operators and value chain actors to be verified; |\n| --- | --- |\n\n| (c) | the technical set-up of the registry, including the semantic repository, the log system related to data exchange models and software release management; |\n| --- | --- |\n\n| (d) | the process of registering and storing unique identifiers; |\n| --- | --- |\n\n| (e) | the process of registering and storing commodity codes for products intended to be placed under the customs procedure ‘release for free circulation’; |\n| --- | --- |\n\n| (f) | requirements to register, where relevant, the granularity level of the digital product passport: model, batch, item; |\n| --- | --- |\n\n| (g) | statuses related to registered digital product passport data; |\n| --- | --- |\n\n| (h) | data that will allow the traceability of products within their relevant product group, across the granularity levels, as referred to in Article 8(2), applicable for their digital product passport; |\n| --- | --- |\n\n| (i) | update and deletion of registration data; |\n| --- | --- |\n\n| (j) | processing of personal data; |\n| --- | --- |\n\n| (k) | measures aimed at preventing, detecting and addressing any improper or fraudulent use of the registry; |\n| --- | --- |\n\n| (l) | technical audits; |\n| --- | --- |\n\n| (m) | ensuring the availability of the registry and of the data it contains. |\n| --- | --- |",
+      "text_sha256": "87608f0aaa9557f9ff630976742cfda25019ad6c25ca08fb956d8dcf93bf9d73",
+      "md_span": {
+        "start": 801,
+        "end": 3672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions apply:\n\n| (1) | ‘digital product passport registry’ or ‘registry’ means the information system established and maintained by the Commission in accordance with Article 13 of Regulation (EU) 2024/1781; |\n| --- | --- |\n\n| (2) | ‘login credentials’ means a set of unique identifiers, such as a username and password, that enables a user to verify its identity in order to authenticate themselves in the registry; |\n| --- | --- |\n\n| (3) | ‘authentication token’ means a token that securely transmits information about successful authentication and is used to prove authenticated sessions or delegated access between applications and the digital product passport information system; |\n| --- | --- |\n\n| (4) | ‘identity verification process’ means the process by which a natural person or legal person provides evidence of identity and, where applicable, of establishment; |\n| --- | --- |\n\n| (5) | ‘verified economic operator’ means an economic operator that has successfully completed the identity verification process in the registry in accordance with Article 4; |\n| --- | --- |\n\n| (6) | ‘value chain actor’ means a natural or legal person, other than the economic operator, that performs activities in the value chain of a product requiring a digital product passport and its registration in the registry, such as a repairer, refurbisher, remanufacturer or recycler; |\n| --- | --- |\n\n| (7) | ‘verified value chain actor’ means a value chain actor that has successfully completed the identity verification process in the registry in accordance with Article 5; |\n| --- | --- |\n\n| (8) | ‘semantic repository’ means a collection of data models and semantic definitions that are composed of a structured and logically interrelated set of terms and their meanings specifying the core elements of the digital product passport, the definitions of names or vocabularies, the data elements and the ontology associated with specific data in order to ensure common understanding across all users, and cross-lingual interpretation used for digital product passport validation and for linking the registry data with the digital product passports; |\n| --- | --- |\n\n| (9) | ‘semantic interoperability’ means the ability of information systems and the organisations that support them to exchange data in such a way that the meaning of exchanged information is mutually understood and unambiguously interpretable by all parties, regardless of the underlying technology or jurisdiction; |\n| --- | --- |\n\n| (10) | ‘controlled vocabulary’ means a structured and authoritative set of standardised terms with defined meanings with a view to ensuring consistent representation of data attributes across digital product passports; |\n| --- | --- |\n\n| (11) | ‘semantic specification’ means any artefact published in the semantic repository, including ontologies, data models, controlled vocabularies, and code lists, together with their versioning metadata and provenance information; |\n| --- | --- |\n\n| (12) | ‘semantic conformity’ means the extent to which the data contained in a digital product passport comply with the applicable semantic specification, in that:(a)all data elements required under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law are present;(b)the mandatory (required and defined) and optional (not required but defined) data elements defined under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law comply with the applicable requirements, such as, regards structure, format, value type, controlled vocabulary and rules on applicability; and(c)those data elements are capable of being interpreted consistently by other systems through reference to the applicable semantic repository; |\n| --- | --- |\n| (a) | all data elements required under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law are present; |\n| (b) | the mandatory (required and defined) and optional (not required but defined) data elements defined under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law comply with the applicable requirements, such as, regards structure, format, value type, controlled vocabulary and rules on applicability; and |\n| (c) | those data elements are capable of being interpreted consistently by other systems through reference to the applicable semantic repository; |\n\n| (13) | ‘data model’ means a structured framework that organises elements of data, standardises the structure, determines how they relate to one another, and identifies the entities, their attributes and the relationship between those entities; |\n| --- | --- |\n\n| (14) | ‘log system’ means an automated system that records and stores information on all operations and interactions carried out in the registry; |\n| --- | --- |\n\n| (15) | ‘data exchange model’ means a structured framework through which data can be exchanged between different systems and platforms; |\n| --- | --- |\n\n| (16) | ‘hash of the version of the digital product passport’ means the output generated from the relevant electronic data using a cryptographic algorithm from the relevant version of the digital product passport; |\n| --- | --- |\n\n| (17) | ‘massive data download’ means the retrieval of an exceptionally large or complex dataset - typically ranging from terabytes to petabytes in scale - which exceeds the processing or storage capabilities of conventional tools or a single local machine or interferes with monitoring safeguards. |\n| --- | --- |\n\nThe definitions of ‘product’, ‘product group’, ‘digital product passport’, ‘digital product passport service provider’, ‘placing on the market’, ‘putting into service’, ‘economic operator’, as set out in Article 2, points (1), (5), (28), (32), (40), (41) and (46), respectively, of Regulation (EU) 2024/1781, apply.\n\nFor the purposes of this Regulation, ‘digital product passport’ includes the battery passport established by Article 77 of Regulation (EU) 2023/1542.\n\nThe definitions of ‘authentication’, ‘qualified electronic signature’, ‘qualified trust service provider’, ‘qualified electronic seal’, ‘qualified certificate for electronic seal’ and ‘electronic time stamp’, as set out in Article 3, points (5), (12), (20), (27), (30) and (33), respectively, of Regulation (EU) No 910/2014, apply.\n\nThe definition of ‘machine-readable format’, as defined in Article 2, point (13), of Directive (EU) 2019/1024 of the European Parliament and of the Council (12), applies.\n\nThe definition of ‘processing’, as set out in Article 3, point (3), of Regulation (EU) 2018/1725 of the European Parliament and of the Council (13), applies.\n\nThe definition of ‘incident’, as set out in Article 6, point (6), of Directive (EU) 2022/2555 of the European Parliament and of the Council (14), applies.\n\nThe definition of ‘controller’, as set out in Article 3, point (8), of Regulation (EU) 2018/1725, applies.\n\nThe definitions of ‘market surveillance’, ‘market surveillance authority’ and ‘release for free circulation’, as set out in Article 3, points (3), (4), and (25), respectively, of Regulation (EU) 2019/1020 of the European Parliament and of the Council (15), apply.\n\nThe definitions of ‘customs authorities’ and ‘customs controls’, as set out in Article 5, points (1) and (3), respectively, of Regulation (EU) No 952/2013, apply.",
+      "text_sha256": "cc47d42668df66819b400471dd49b20ace68d8492c1ab743c6a983f61375d022",
+      "md_span": {
+        "start": 3705,
+        "end": 11203
+      },
+      "citations": [
+        {
+          "href": "#ntr12-L_202601778EN.000101-E0012",
+          "text": "(12)"
+        },
+        {
+          "href": "#ntr13-L_202601778EN.000101-E0013",
+          "text": "(13)"
+        },
+        {
+          "href": "#ntr14-L_202601778EN.000101-E0014",
+          "text": "(14)"
+        },
+        {
+          "href": "#ntr15-L_202601778EN.000101-E0015",
+          "text": "(15)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe registry shall consist of the following:\n\n| (a) | a website providing a secure user interface for economic operators, value chain actors, competent national authorities and customs authorities to access the registry; |\n| --- | --- |\n\n| (b) | an API for registering the digital product passport and receiving information from the registry; |\n| --- | --- |\n\n| (c) | a verification platform to confirm and verify the existence and completeness of the digital product passports; |\n| --- | --- |\n\n| (d) | a scheme for generating unique registration identifiers; |\n| --- | --- |\n\n| (e) | a storage component for at least the unique identifiers and the commodity codes for products intended to be placed under the customs procedure ‘release for free circulation’; |\n| --- | --- |\n\n| (f) | a list of verified digital product passport service providers registered in the registry; |\n| --- | --- |\n\n| (g) | a semantic repository; |\n| --- | --- |\n\n| (h) | a log system; |\n| --- | --- |\n\n| (i) | identification and authorisation schemes for registry users. |\n| --- | --- |",
+      "text_sha256": "bc8510b22416ebf2c695c64c195efa54fcaa3025d0c8fd2e81c6a22c1ea0375d",
+      "md_span": {
+        "start": 11236,
+        "end": 12311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Economic operators that are natural persons acting as sole traders shall be qualified as ‘verified economic operators’ if one of the following conditions is satisfied:\n\n| (a) | where required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014; or they submit evidence of their identity by means of an electronic identification means that meets the requirements of Regulation (EU) No 910/2014 with regard to the assurance levels ‘high’, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator; |\n| --- | --- |\n\n| (b) | where not required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator. |\n| --- | --- |\n\n2. Economic operators acting as legal persons shall be qualified as ‘verified economic operators’ if one of the following conditions is satisfied:\n\n| (a) | where required to be established in the Union, they submit evidence of their identity and of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014; or after submitting evidence of their identity and of their establishment by means of a qualified electronic attestation of attributes issued under Union law that enables the identification of the economic operator; |\n| --- | --- |\n\n| (b) | where not required to be established in the Union, they submit evidence of their identity and, where applicable, of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator. |\n| --- | --- |\n\n3. Without prejudice to other Union law, access to the digital product passport registry shall be granted to verified economic operators for the purpose of registering digital product passports. .\n\n4. Economic operators shall retain the status as verified economic operators until their electronic identification means expire but no longer than three years from the date of verification in accordance with paragraph 1 or 2. Once such means expire or the three-year period has expired, whichever occurs first, economic operators shall no longer be able to register new digital product passports in the registry or modify any data referred to in Article 8. They may do so only if they successfully repeat the identity verification process in accordance with paragraph 1 or 2. The status of the digital product passport in the registry shall be updated accordingly.\n\n5. Without prejudice to paragraph 4, where the digital product passport registry is integrated with another Union information system with an equivalent or identical identity verification process, the economic operator already registered in that information system is not required to undergo a new identity verification process in the digital product passport registry.",
+      "text_sha256": "40ca8b76aaabe90acd2c9de4a55816e1c48f8aeb8d4ced4d8c15f1bd66f4e782",
+      "md_span": {
+        "start": 12344,
+        "end": 15892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. A value chain actor who is a natural person acting as a sole trader shall obtain a verified status in the registry if one of the two following conditions is fulfilled:\n\n| (a) | where required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014; or they submit evidence of their identity by means of an electronic identification means that meets the requirements of Regulation (EU) No 910/2014 with regard to the assurance levels ‘high’, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor; |\n| --- | --- |\n\n| (b) | where not required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor. |\n| --- | --- |\n\n2. A value chain actor acting as a legal person shall obtain a verified status in the registry if one of the following conditions is satisfied:\n\n| (a) | where required to be established in the Union, they submit evidence of their identity and of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014; or they submit evidence of their identity and of their establishment by means of a qualified electronic attestation of attributes issued under Union law that enables the identification of the value chain actor; |\n| --- | --- |\n\n| (b) | where not required to be established in the Union, they submit evidence of their identity and, where applicable, of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor. |\n| --- | --- |\n\n3. Only verified value chain actors shall have access to the registry and may perform, where specified in the relevant Union law, actions in the registry.\n\n4. A value chain actor shall retain the status as verified until their electronic identification means expire and in any event no longer than three years from the date of verification in accordance with paragraph 1 or 2. Once such means have expired or once the three-year period has expired, whichever occurs first, these actors shall no longer be able to perform registrations or modify any data in the registry. They may do so only if they successfully repeat the identity verification process in accordance with paragraph 1 or 2.\n\n5. Without prejudice to paragraph 4, where the digital product passport registry is integrated with another Union information system with an equivalent or identical identity verification process, the value chain actor already registered in that information system is not required to undergo a new identity verification process in the digital product passport registry.",
+      "text_sha256": "e184232d3f80f4b56df133809d00a1969df5aa5ef1436faaded63215216c39bd",
+      "md_span": {
+        "start": 15925,
+        "end": 19292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Where provided by Union law, verified economic operators and verified value chain actors may delegate access rights to third party users acting on their behalf.\n\n2. Any personal data which is entered as part of the user profile of a verified economic operator or a verified value chain actor shall be processed in accordance with Regulation (EU) 2018/1725.\n\n3. Each economic operator and each value chain actor shall be responsible for managing their electronic verification process in accordance with Articles 4 and 5, respectively.\n\n4. The verified economic operator and verified value chain actor shall be responsible for updating their data in the event of any relevant change.",
+      "text_sha256": "ab0d91139a9bf4cc328980f4cc87f3f64d8f196a4db0ab2545ef2970aeabcf26",
+      "md_span": {
+        "start": 19325,
+        "end": 20020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6a",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_6a",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6a\n\nRegistered digital product passports may be transferred to another verified economic operator or, where applicable, to a verified value chain actor that takes over the obligations from the previous actor in relation to those digital product passports from the date indicated for the transfer.",
+      "text_sha256": "df4d547de9487858f15e7993155ff8fbd0f08f225c4529d2f88af5eaa269e048",
+      "md_span": {
+        "start": 20055,
+        "end": 20359
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. At the latest by 18 February 2027, Member States shall appoint a designated national administrator who shall act as the single official contact point for the Commission for the purposes of managing registry access rights for that Member State.\n\n2. Member States shall communicate to the Commission the name and contact details of their respective designated national administrator and shall notify the Commission of any subsequent changes with regard to their designated national administrator.\n\n3. The designated national administrator may delegate registry access rights to relevant national authorities within its Member State. Such delegation shall be carried out under the full responsibility of the Member State and in a way that ensures the security, integrity and confidentiality of the registry data accessed in accordance with this Regulation.\n\n4. National authorities which have been granted access by their designated national administrator may delegate and manage registry access rights further within their respective authority.\n\n5. Personal data contained in the user profiles and user accounts of the competent national authorities and customs authorities shall be processed by the Commission in its capacity as controller in accordance with Regulation (EU) 2018/1725.",
+      "text_sha256": "05b2528242a0872bd2d2b20d134c64cab784a5b8eddec1068dfb71e3f5382c80",
+      "md_span": {
+        "start": 20392,
+        "end": 21690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. For products referred to in Article 1(1), point (a), a digital product passport shall be registered by a verified economic operator placing the product on the market or putting it into service at the level specified in the applicable delegated acts (model, batch or item level) adopted pursuant to Article 4 of Regulation (EU) 2024/1781.\n\n2. For products referred to in Article 1(1), points (b) to (f), a digital product passport shall be registered by the relevant actor at the level (model, batch or item level) specified in the relevant Union law.\n\nWhere Union law provides for a third party to perform actions in the registry on behalf of the actors referred to in the first or second sub-paragraphs, such third party, once verified according to Article 19(4), will be allowed to perform registration actions in the registry.\n\n3. Where the same product is subject to different Union rules requiring the registration of its digital product passport at different levels of granularity, the digital product passport shall be registered for that product at the most granular level required by the relevant Union legislation.\n\n4. Where the digital product passport is created at item level, in accordance with paragraph 1, both batch and model identifiers shall be linked to that digital product passport where batch and model design exist for the product.\n\n5. Where the digital product passport is created at batch level, in accordance with paragraph 1, the model identifier shall be linked to that digital product passport where model design exists for the product.\n\n6. The relevant actor referred to in paragraph 1 shall register a digital product passport either through the secure user interface of the registry as provided for in Article 3, point (a), or through the API as provided for in Article 3, point (b).\n\n7. Upon submission for registration, the Commission shall read the digital product passport content and automatically confirm:\n\n| (a) | the semantic conformity of the data provided in the digital product passport, as provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or in the applicable delegated acts adopted pursuant to Article 77 of Regulation (EU) 2023/1542, or under other Union law providing for the data about the digital product passport to be registered in the digital product passport registry; |\n| --- | --- |\n\n| (b) | where relevant, coherence of the mandatory data to be uploaded in the registry against the value of the data provided in the digital product passport; |\n| --- | --- |\n\n| (c) | the conformity of the digital product passport with the granularity level (model, batch or item) as provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or in the applicable delegated acts adopted pursuant to Article 77 of Regulation (EU) 2023/1542, or under other Union law providing for a specific level for the digital product passport to be registered in the registry; |\n| --- | --- |\n\n| (d) | where relevant, the validity of the commodity code of the product in relation to the permitted ranges for this product group; |\n| --- | --- |\n\n| (e) | where relevant, the link to the back-up hosted by a digital product passport service provider. |\n| --- | --- |\n\n8. Following a successful verification in accordance with paragraph 6, the registry shall generate and store a unique and persistent registration identifier as part of the registration data.\n\n9. Additionally, the Commission shall store in the registry the following information as part of the registration data:\n\n| (a) | where relevant, the unique identifiers; |\n| --- | --- |\n\n| (b) | where relevant, the commodity code of the product; |\n| --- | --- |\n\n| (c) | where relevant, reference to the digital product passport service provider; |\n| --- | --- |\n\n| (d) | registrant information, including date and time of the registration and the integrity of the digital product passport as part of the evidence of the registration event. |\n| --- | --- |\n\n10. Upon successful submission by the relevant actor as referred to in paragraph 1, of the data in the registry, the Commission shall automatically communicate to that relevant actor the unique registration identifier for that specific product generated in accordance with paragraph 9. The unique registration identifier shall be communicated through the user interface or the API response, depending on the service used by the relevant actor during registration.",
+      "text_sha256": "928827f7757bdc6db083762cc625c9178bfcdc2f4198c5fe6c2df185025429a3",
+      "md_span": {
+        "start": 21723,
+        "end": 26242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. An economic operator or, where relevant, a third party on behalf of the economic operator, that has registered a digital product passport in the registry in accordance with Article 8 shall be able to generate, at any given time, proof of registration for one or more digital product passports for which that economic operator is responsible.\n\n2. The proof of registration shall serve as evidence, including vis-à-vis third parties, that the registration obligation for that digital product passport has been fulfilled. It shall be generated as a secure electronic document that can be downloaded by the actor that registered the digital product passport from the registry, and shall contain at least the following data:\n\n| (a) | the unique product identifier; |\n| --- | --- |\n\n| (b) | where relevant, the commodity code as referred to in Article 8(9), point (b); |\n| --- | --- |\n\n| (c) | the name and identity of the verified economic operator responsible for the registration as referred to in Article 8(9), point (d); |\n| --- | --- |\n\n| (d) | the date and time of the registration for the latest version of the digital product passport for which the proof is generated in accordance with Article 8(9), point (d), which is validated by an electronic time stamp of the Commission; |\n| --- | --- |\n\n| (e) | a hash of the version of the digital product passport for which the proof is generated. |\n| --- | --- |\n\n3. Proof of registration shall be guaranteed by means of a qualified electronic seal as provided for in Article 38 of Regulation (EU) No 910/2014 and shall include the electronic time stamp of the Commission referred to in paragraph 2, point (d).\n\n4. The Commission shall make available in the registry to the requesting verified economic operator the proof of registration through the registry’s secure user interface or through the API, depending on the service chosen by the economic operator. That proof shall remain available for a period of 90 calendar days from the date of its generation.",
+      "text_sha256": "4d06a8ed03118a17c5a0e83d20a267f8993d0ad923489a86873fb810ebe71571",
+      "md_span": {
+        "start": 26275,
+        "end": 28296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Any change to the digital product passport registration data, including its creation, modification and deletion, shall be logged in the log system of the registry in accordance with Article 14 and reflected in the status of the registration.\n\n2. The registry shall support the versioning of the registered data, and storea timestamp of the Commission for each update.\n\n3. Where Union law does not provide for a specific duration of availability of the digital product passport, digital product passport registration data, as referred to in Article 8(7) and (8), shall be deleted automatically from the registry 10 years after registration. Where Union law provides for a specific duration of availability of the digital product passport, the retention period of such data shall be aligned with the period of availability of the digital product passport.\n\n4. Registry users shall have the right to request deletion of their respective account if they are no longer responsible for activities related to the registry.",
+      "text_sha256": "49f4c1464ad818dbb819de031dde9c18fa429d1c0cf9cff5a944f9925d7ef6f6",
+      "md_span": {
+        "start": 28331,
+        "end": 29361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The data model applicable to each product group shall, where available, be based on the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or on other applicable Union law.\n\n2. Where appropriate, the data models may build on existing Union semantic assets, controlled vocabularies and reference data models.\n\n3. All data contained within a digital product passport shall be structured in accordance with the common data models and semantic definitions published in the semantic repository referred to in Article 12.\n\n4. Data models shall be versioned.",
+      "text_sha256": "1d01944f41083ba46367c94de0057a614dae38ff8f9d087bfcfda9a2c7fdccfa",
+      "md_span": {
+        "start": 29396,
+        "end": 29985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The Commission shall establish and maintain a digital product passport semantic repository, which serves as an authoritative and machine-readable source for the data models, semantic definitions and vocabularies applicable to digital product passports across all product groups. The semantic repository shall be developed and maintained in accordance with Regulation (EU) 2024/903 of the European Parliament and of the Council (16).\n\n2. The semantic repository shall contain at least the following:\n\n| (a) | the semantic meaning of data attributes required within a digital product passport and technical specifications for creating, where relevant, typed and resolvable links between different digital product passports, and links between digital product passport attributes and underlying evidence communicated through the product value chain; |\n| --- | --- |\n\n| (b) | the data models for the different products within the scope of this Regulation and their formats; |\n| --- | --- |\n\n| (c) | the metadata collected regarding the data models for the products; |\n| --- | --- |\n\n| (d) | the semantic meaning of the roles provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781, or by other Union legislation applicable to any product that is required to use a digital product passport; |\n| --- | --- |\n\n| (e) | multilingual labels and definitions for all mandatory data attributes. |\n| --- | --- |\n\n3. The metadata as referred to in paragraph 2 point (c) shall be in conformity with the DCAT-AP (17) specifications.\n\n4. The Commission shall ensure that, for any data model attributes newly introduced in the semantic repository, the multilingual labels and definitions as referred to in paragraph 2 point (e) are published in the semantic repository.\n\n5. The semantic repository shall include a search service to allow any user to read, search and retrieve semantic definitions and data structures.\n\n6. The Commission shall ensure that the content of the semantic repository is accessible through publicly documented APIs. These APIs shall support common data formats and provide machine-readable semantic assets to facilitate automated use by external systems.\n\n7. Access to and use of the semantic repository and its APIs shall be provided free of charge.",
+      "text_sha256": "f2c547ece09186cf51dc455605dd583559f54a911a92893cf48b6d53aa075729",
+      "md_span": {
+        "start": 30020,
+        "end": 32340
+      },
+      "citations": [
+        {
+          "href": "#ntr16-L_202601778EN.000101-E0016",
+          "text": "(16)"
+        },
+        {
+          "href": "#ntr17-L_202601778EN.000101-E0017",
+          "text": "(17)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The Commission shall provide a helpdesk service to ensure that economic operators, value chain actors, competent national authorities and customs authorities are able to receive technical support upon request. The helpdesk service shall operate year-round from 08:00 to 20:00 Brussels time. Further operational details shall be made available on the Commission’s website. In addition, the Commission shall develop by February 2029 an automated technical support tool, which shall be accessible on a 24-hour basis throughout the year.\n\n2. Written exchanges between economic operators, value chain actors, competent national authorities or customs authorities and the helpdesk shall be stored for six months after the technical support request referred to in paragraph 1 has been closed and made available to market surveillance authorities upon request.",
+      "text_sha256": "f476bce93f754fbf638ab27ce7d899561ee79d703664eede506002e46647b360",
+      "md_span": {
+        "start": 32375,
+        "end": 33242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The Commission shall establish, maintain and run a log system. The Commission shall ensure the creation of a complete, accurate and reliable audit trail in the log system.\n\n2. In the log system the Commission shall log events relating to all of the following categories of actions:\n\n| (a) | data related to access and authentication entries; |\n| --- | --- |\n\n| (b) | data modifications by all registry users, including the uploading or updating of data referred to in Article 13(4) of Regulation (EU) 2024/1781 or of data required to be uploaded in the registry pursuant to other Union legislation that mandates the use of the digital product passport for a product; |\n| --- | --- |\n\n| (c) | administrative actions by all registry users, including the creation, change or deletion of user accounts, changes to access rights and permissions, and any changes to the registry’s configuration and other administrative actions of registry users; |\n| --- | --- |\n\n| (d) | data exchange logs. |\n| --- | --- |\n\n3. To ensure that the data stored in the registry is processed securely and in compliance with Union law, the Commission shall keep the logs for a period of:\n\n| (a) | six months for the categories of actions referred to in paragraph 2, point (a); |\n| --- | --- |\n\n| (b) | five years for the categories of actions referred to in paragraph 2, points (c) and (d); |\n| --- | --- |\n\n| (c) | for the duration of the registration for the events relating to the categories of actions referred to in paragraph 2, point (b). |\n| --- | --- |\n\n4. In the case of suspected incidents and for the purposes of audits and random checks of security performed by competent national authorities and customs authorities, the Commission shall make the relevant logs referred to in paragraph 2 available to the relevant national authorities.\n\n5. The Commission shall implement appropriate technical and organisational measures to guarantee the security of all logs and protect their integrity, in particular against unauthorised or unlawful processing, accidental loss, destruction or damage. Such measures shall, at least, ensure the immutability and confidentiality of the logs.",
+      "text_sha256": "540b51400719f4a666372dc9d99d35e301ef5c057b3e538c240c46ca30b7f1bf",
+      "md_span": {
+        "start": 33277,
+        "end": 35452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The Commission shall make available on its website guidelines and instructions on how to register and manage data in the registry.\n\n2. The registry shall be accessible at all times, except during necessary maintenance activities such as the deployment of new software releases, and without prejudice to paragraph 3. In those instances, the Commission shall issue an advance notice of inaccessibility on the public website of the registry.\n\n3. The Commission may suspend the availability of the registry, without prior notice, where it is necessary due to a malfunction, a cyber-attack or a compelling urgent security need, until the issue is resolved.\n\n4. Where registration is prevented by the temporary unavailability or malfunctioning of the registry, the Commission shall record the date and time of unavailability and make such information available to economic operators, value chain actors, competent national authorities and customs authorities upon request for no less than five years.",
+      "text_sha256": "bbe1c61a6e3797d47bf6bd8e1f540dc8d03f4b0228e693835441a6e0262186d9",
+      "md_span": {
+        "start": 35487,
+        "end": 36496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. The Commission shall ensure the security of the registry and its components as referred to in Article 3. To that end, the Commission may conduct technical audits and random checks on the components of the registry.\n\n2. For the purposes of paragraph 1, the Commission shall take the necessary measures in order to:\n\n| (a) | prevent any unauthorised access to the registry; |\n| --- | --- |\n\n| (b) | prevent any unauthorised processing of registry data; |\n| --- | --- |\n\n| (c) | detect any unauthorised activities in the registry; |\n| --- | --- |\n\n| (d) | prevent any data breaches of the registry; |\n| --- | --- |\n\n| (e) | ensure that security events are logged in accordance with the information technology security standards applied by the Commission. |\n| --- | --- |",
+      "text_sha256": "42a97a584c82eed5ba171ab2f547151ae011ac34917532ebccd77bb8237d8790",
+      "md_span": {
+        "start": 36531,
+        "end": 37313
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nWhere the Commission identifies an inappropriate or fraudulent activity in the registry, including any such activity linked to massive data download, it shall take the necessary measures to prevent and counter that activity and mitigate the effects thereof.\n\nAny user who becomes aware of, or has reasonable grounds to suspect, malicious behaviour in or against the registry shall immediately inform the Commission and, where appropriate, the Member States concerned.",
+      "text_sha256": "3a09d44bc3abe53f93a59fd5a4967d5e5be29b32b246b7d213b01d9f122def18",
+      "md_span": {
+        "start": 37348,
+        "end": 37827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. The Commission shall store the following personal data in the registry to ensure the verification of the identity of all users:\n\n| (a) | first and last name of each user; or first and last name of the person legally entitled to act as a legal representative for the economic operator, where applicable; |\n| --- | --- |\n\n| (b) | authentication credentials associated with the user, including login credentials or authentication tokens, necessary for secure access to the registry; |\n| --- | --- |\n\n| (c) | postal address of the economic operators and value chain actors that are users; |\n| --- | --- |\n\n| (d) | email address of each user; |\n| --- | --- |\n\n| (e) | metadata embedded in uploaded documents where such metadata contributes to the identification or verification of a user. |\n| --- | --- |\n\n2. In the case of natural persons, it shall also be required to store personal identifiers, such as a passport number, national identity card number or national eID number, civil registry number, tax identification number issued by the relevant national authority of the respective Member State, or any third-country identifier that is assigned to a person or any documentation that identifies that person.\n\n3. Personal data collected shall be processed in accordance with Regulation (EU) 2018/1725.",
+      "text_sha256": "b60b775bf690e2b3d3f130e1e726253b13a95e7ac38be12cf86460568b911ab5",
+      "md_span": {
+        "start": 37862,
+        "end": 39177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. A verified economic operator registering a digital product passport shall provide the Commission as manager of the registry with all information necessary for the registration, as provided for in Article 8. The verified economic operator shall be responsible for the accuracy and completeness of the information submitted at the time of registration.\n\n2. The verified economic operator shall ensure that the information stored in the registry of the digital product passport is kept accurate, complete and up to date at all times.\n\n3. The verified economic operator shall be responsible for implementing appropriate technical and organisational security measures for its IT systems and credentials used to access the registry, to prevent unauthorised access to or modification of registration data through its IT system.\n\n4. Where a verified economic operator authorises a third party to perform registration actions in the registry on its behalf, the third party actor needs to follow the verification process in accordance with Article 5. The verified economic operator shall remain fully responsible for compliance with the obligations set out in this Regulation.\n\n5. Each verified economic operator shall be responsible for the data it submits to the Commission as manager of the registry and shall be considered as the controller of the data it submits.",
+      "text_sha256": "0099c1de88c18f352afd05dc7e4b99693f341189e755b43686f6c2fc4e2148f6",
+      "md_span": {
+        "start": 39212,
+        "end": 40585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Where a verified value chain actor authorises a third party to act on its behalf, the verified value chain actor shall remain responsible for compliance with the obligations set out in this Regulation.\n\n2. A verified value chain actor shall be responsible for implementing appropriate technical and organisational security measures with regard to its IT systems and credentials that are used to access the registry, in order to prevent unauthorised access to or modification of registration data through its IT system.\n\n3. Where Union law provides for value chain actors to upload any information to the digital product passport registry, each verified value chain actor shall be responsible for the data it submits to the Commission as manager of the registry and shall be considered as the controller of the data it submits.",
+      "text_sha256": "c60df89a13ecfa989993e5ecb8b85af505dd2f735f4f7bae5133c8265839312c",
+      "md_span": {
+        "start": 40620,
+        "end": 41461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. The Commission shall ensure that the data stored in the registry is processed securely and in compliance with Union law, including applicable rules on the protection of personal data.\n\n2. The Commission shall be the owner of the registry and responsible for its management, including its development, availability, monitoring, updating, maintenance and hosting.\n\n3. The data that the Commission can obtain from the registry may be transmitted to the relevant services within the Commission or to competent national authorities for the purposes of carrying out measures required under other Union legislative acts, including market surveillance, consumer protection and customs compliance.",
+      "text_sha256": "822ddcaa6829b633a8881af5b707819027c46031240b486611ed44cd7cd6e52f",
+      "md_span": {
+        "start": 41496,
+        "end": 42199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Where Member States create an interconnection with the registry, they shall be considered the respective owners of their information systems, including any components developed by Member States for the interconnection. Member States shall be responsible for the establishment, development, availability, monitoring, updating, maintenance and hosting of the components used to access the registry under their responsibility.\n\n2. Member States shall ensure an appropriate level of security of the national components used to access the registry, in accordance with Union law. Member States shall inform, without undue delay, the Commission of changes and updates to the components under their responsibility that may affect the functioning, availability and reliability of the registry.\n\n3. Member States may process the data from the registry. Where the Member States process data obtained from the registry, such data shall be processed in accordance with Union law.\n\n4. When processing personal data for the purposes of carrying out their duties defined in Union law or under national law in compliance with Union law, Member States shall be regarded as controllers as defined in Article 4, point (7), of Regulation (EU) 2016/679.\n\n5. Member States shall be responsible for any data processing activities carried out within their sphere of control, including:\n\n| (a) | managing the registration and onboarding of competent national authorities and where relevant, customs authorities, through the designated national administrator as referred to in Article 7(2); |\n| --- | --- |\n\n| (b) | ensuring that any data processing taking place within their sphere of control is performed in accordance with Regulation (EU) 2016/679; |\n| --- | --- |\n\n| (c) | withdrawing a user’s rights of access to the registry in case of unauthorised or incorrect access to the registry. |\n| --- | --- |",
+      "text_sha256": "698069ec2ad23410626b326fafc35a04a593fb3101ee853002f2cba71728a46e",
+      "md_span": {
+        "start": 42234,
+        "end": 44129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nWithin the monitoring and evaluation of Regulation 2024/1781 of its contribution to the functioning of the internal market, the Commission shall, by the end of 2032, and every six years thereafter, carry out an evaluation of this Regulation to take into account the functioning of the digital product passport registry and if appropriate present a draft proposal for revision.",
+      "text_sha256": "d5827ff8596d5acee31b1b56475fab48058be4d8b55abb85345d5e949128d5e4",
+      "md_span": {
+        "start": 44164,
+        "end": 44552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32026r1778:2026-07-16--dca01014b37b741b8f50f16463401b216dfd117122a80dd2d17ef357ec64e1a4#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "4281f69c04b359ddbcbdb7e610b092158d8655aae6bec011d8d7c4370d44d84d",
+      "md_span": {
+        "start": 44587,
+        "end": 44739
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

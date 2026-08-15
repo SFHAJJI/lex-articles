@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2026/83 of 4\u00A0December 2025 amending Delegated Regulat…",
+  "valid_from": "2025-12-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0083/versions/2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc/fr.xml",
+    "sha256": "2466225c3e0b7ee29d3737845b8f3f6116843cfa6af25e75d6803a89cfb7f874",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0083"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe du règlement délégué (UE) 2016/1675 est modifiée conformément à l’annexe du présent règlement.",
+      "text_sha256": "783b2d3123428c06396a902b4ea9f58c6e35558b376eefd78651c1a1e38eb039",
+      "md_span": {
+        "start": 702,
+        "end": 822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 855,
+        "end": 996
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784",
+  "language": "en",
+  "title": "Council Directive 2010/23/EU of 16\u00A0March 2010 amending Directive 2006/112/EC on the common…",
+  "valid_from": "2010-03-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010l0023/versions/2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784/en.xml",
+    "sha256": "9882cc16255ab5f6a4225e3fb9f3b5b6ae9cfc3936f25ba17da658515c657853",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0023"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Directive 2006/112/EC the following Article shall be inserted:\n\n‘Article 199a\n\n1. Member States may, until 30 June 2015 and for a minimum period of two years, provide that the person liable for payment of VAT is the taxable person to whom any of the following supplies are made:\n\n| (a) | the transfer of allowances to emit greenhouse gases as defined in Article 3 of Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community(*1), transferable in accordance with Article 12 of that Directive; |\n| --- | --- |\n\n| (b) | the transfer of other units that may be used by operators for compliance with the same Directive. |\n| --- | --- |\n\n2. Member States shall inform the Commission of the application of the mechanism provided for in paragraph 1 on the introduction of any such mechanism and shall provide the following information to the Commission:\n\n| (a) | a statement on the scope of the measure applying the mechanism and a detailed description of accompanying measures, including any reporting obligations on taxable persons and any control measures; |\n| --- | --- |\n\n| (b) | evaluation criteria to enable comparison between fraudulent activities in relation to the services listed in paragraph 1 before and after the application of the mechanism, fraudulent activities in relation to other services before and after the application of the mechanism, and any increase in other types of fraudulent activities before and after the application of the mechanism; |\n| --- | --- |\n\n| (c) | the date of commencement and the period to be covered by the measure applying the mechanism. |\n| --- | --- |\n\n3. Member States applying the mechanism provided for in paragraph 1 shall, on the basis of the evaluation criteria provided for under paragraph 2(b), submit a report to the Commission no later than 30 June 2014. The report shall clearly indicate the information to be treated as confidential and the information which may be published.\n\nThe report shall provide a detailed assessment of the measure’s overall effectiveness and efficiency, in particular as regards:\n\n| (a) | the impact on fraudulent activities in relation to supplies of services covered by the measure; |\n| --- | --- |\n\n| (b) | the possible shift of fraudulent activities to goods or other services; |\n| --- | --- |\n\n| (c) | the compliance costs for taxable persons resulting from the measure. |\n| --- | --- |\n\n4. Each Member State that has detected, as from the entry into force of this Article, a shift in trends of fraudulent activities in its territory in relation to the services listed in paragraph 1, shall submit a report to the Commission in that respect no later than 30 June 2014.\n\n(*1) OJ L 275, 25.10.2003, p. 32.’ \"",
+      "text_sha256": "724b634066f13d685190752b5a3361cab48013ffb685828c6b1626a2d04543cd",
+      "md_span": {
+        "start": 702,
+        "end": 3524
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2010072EN.01000101-E0005",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2010072EN.01000101-E0005",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC",
+          "text": "OJ L 275, 25.10.2003, p. 32"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nMember States choosing to apply the mechanism provided for in Article 199a paragraph 1 of Directive 2006/112/EC shall communicate the provisions of the measure applying the mechanism to the Commission when the mechanism commences.",
+      "text_sha256": "a825b7a96df9b53f7d704b706a317704b3ae0682c4b8c8658a02a545216ca501",
+      "md_span": {
+        "start": 3557,
+        "end": 3798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "a543a02e0010b2aa64df406fb87b16ddcbad4c037c5a0842ea091f62a512f2c6",
+      "md_span": {
+        "start": 3831,
+        "end": 3968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe Directive shall apply until 30 June 2015.",
+      "text_sha256": "02b81db8a54fe5ce2fe17f38142c0f720d508174bd21b16f522e1855f4eb957e",
+      "md_span": {
+        "start": 4001,
+        "end": 4057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "725df0217ed142da14a49015de17b082300380898cb4484ae4b0cb7393a801e0",
+      "md_span": {
+        "start": 4090,
+        "end": 4150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16--e1c50f129201727a33b279b2c27e14c32b6cd731ba40e2909e269f6904df8784#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Directive shall be published in the Official Journal of the European Union.",
+      "text_sha256": "a3b2ffe708b3fe6cac13c212f84585a74a96074f86565ba832076c6f3e3e60b1",
+      "md_span": {
+        "start": 4183,
+        "end": 4274
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

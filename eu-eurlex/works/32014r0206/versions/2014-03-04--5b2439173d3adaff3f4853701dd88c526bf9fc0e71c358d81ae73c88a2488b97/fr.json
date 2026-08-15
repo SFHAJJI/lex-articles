@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0206:2014-03-04--5b2439173d3adaff3f4853701dd88c526bf9fc0e71c358d81ae73c88a2488b97",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No\u00A0206/2014 of 4\u00A0March 2014 amending Regulation (EU) No\u00A0601/201…",
+  "valid_from": "2014-03-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0206/versions/2014-03-04--5b2439173d3adaff3f4853701dd88c526bf9fc0e71c358d81ae73c88a2488b97/fr.xml",
+    "sha256": "514a05788176a17c56852b10d3a331fe15b4f37bf461a640ed76c2189e78fb71",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0206"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0206:2014-03-04--5b2439173d3adaff3f4853701dd88c526bf9fc0e71c358d81ae73c88a2488b97#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe VI du règlement (UE) no 601/2012 est modifiée conformément à l’annexe du présent règlement.",
+      "text_sha256": "4c29e417913d7f825a4d41c107ed29da1c6e822b69594a68add4c174649009c3",
+      "md_span": {
+        "start": 702,
+        "end": 819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0206:2014-03-04--5b2439173d3adaff3f4853701dd88c526bf9fc0e71c358d81ae73c88a2488b97#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl s’applique à compter du 1er janvier 2013.",
+      "text_sha256": "7b5596b654dde55ee45fc438002a05cd09d11bbe62810bf2812cd004a65b4446",
+      "md_span": {
+        "start": 852,
+        "end": 1029
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

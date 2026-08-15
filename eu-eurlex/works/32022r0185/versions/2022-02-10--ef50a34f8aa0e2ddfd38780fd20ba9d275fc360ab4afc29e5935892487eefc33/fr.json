@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0185:2022-02-10--ef50a34f8aa0e2ddfd38780fd20ba9d275fc360ab4afc29e5935892487eefc33",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2022/185 of 10\u00A0February 2022 correcting certain language versions of Implementing Regulation (EU) 2021/451 laying down implementing technical standards for the application of Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-02-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0185/versions/2022-02-10--ef50a34f8aa0e2ddfd38780fd20ba9d275fc360ab4afc29e5935892487eefc33/fr.xml",
+    "sha256": "116a5dfc7b31c645875292e54db1a5d67c444bd077f4c433fe550963e2bb19b7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0185"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0185:2022-02-10--ef50a34f8aa0e2ddfd38780fd20ba9d275fc360ab4afc29e5935892487eefc33#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n(ne concerne pas la version française)",
+      "text_sha256": "a197b60e39e164ca9717e535f61b9250c2b47f57f7f61f697c88ffe55fb20ab4",
+      "md_span": {
+        "start": 853,
+        "end": 908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0185:2022-02-10--ef50a34f8aa0e2ddfd38780fd20ba9d275fc360ab4afc29e5935892487eefc33#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 941,
+        "end": 1082
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

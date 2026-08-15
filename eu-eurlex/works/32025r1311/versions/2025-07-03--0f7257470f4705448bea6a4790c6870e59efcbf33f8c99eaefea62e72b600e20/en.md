@@ -1,0 +1,325 @@
+---
+lex_id: 'eu-eurlex:32025r1311:2025-07-03--0f7257470f4705448bea6a4790c6870e59efcbf33f8c99eaefea62e72b600e20'
+title: 'Commission Delegated Regulation (EU) 2025/1311 of 3 July 2025 supplementing Regulation (EU) No 575/2013'
+valid_from: '2025-07-03'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1311'
+source_sha256: '095423c7dce6db8404b643617171f5f0fc33bda52c8de2a5f8ab08755f2139ce'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+1. Institutions shall assign extensions and changes to the use of their alternative internal models to one of the following categories:
+
+| (a) | material extensions and changes to the use of alternative internal models, identified in accordance with Article 2(1) and (2), which require permission from the competent authorities; |
+| --- | --- |
+
+| (b) | non-material extensions and changes to the use of alternative internal models, which require notification to the competent authorities. |
+| --- | --- |
+
+2. Institutions shall assign non-material extensions and changes to the use of their alternative internal models as referred to in paragraph 1, point (b), to one of the following sub-categories:
+
+| (a) | extensions and changes, identified in accordance with Article 3(1) and (2), to be notified with additional information; |
+| --- | --- |
+
+| (b) | extensions and changes to be notified with basic information. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. Institutions shall categorise changes to the use of their alternative internal models as material, as referred to in Article 1(1), point (a), where those changes fulfil any of the following conditions:
+
+| (a) | they meet any of the qualitative criteria set out in Part I of the Annex; |
+| --- | --- |
+
+| (b) | they result in a change equal to or higher than 1 %, in absolute terms, calculated for the first business day of the testing of the impact of the change, of any of the risk numbers Rni as set out in paragraph 4 which are considered relevant pursuant to paragraph 5, and result in any of the following:(i)an increase equal to or higher than 15 %, in absolute terms, of the following sum:where Rn1, Rn2 and Rn3 are the risk numbers referred to in paragraph 4 of this Article, respectively, and mc is the multiplication factor referred to in Article 325ba(1), point (b)(i), of Regulation (EU) No 575/2013;(ii)a decrease of 10 % or more, in absolute terms, of the sum SIMA referred to in point (b)(i) of this paragraph;(iii)an increase equal to or higher than 20 %, in absolute terms, of any of the risk numbers Rni referred to in paragraph 4 which are considered relevant pursuant to paragraph 5;(iv)a decrease equal to or higher than 15 %, in absolute terms, of any of the risk numbers Rni referred to in point (b)(iii) of this paragraph. |
+| --- | --- |
+| (i) | an increase equal to or higher than 15 %, in absolute terms, of the following sum:where Rn1, Rn2 and Rn3 are the risk numbers referred to in paragraph 4 of this Article, respectively, and mc is the multiplication factor referred to in Article 325ba(1), point (b)(i), of Regulation (EU) No 575/2013; |
+| (ii) | a decrease of 10 % or more, in absolute terms, of the sum SIMA referred to in point (b)(i) of this paragraph; |
+| (iii) | an increase equal to or higher than 20 %, in absolute terms, of any of the risk numbers Rni referred to in paragraph 4 which are considered relevant pursuant to paragraph 5; |
+| (iv) | a decrease equal to or higher than 15 %, in absolute terms, of any of the risk numbers Rni referred to in point (b)(iii) of this paragraph. |
+
+2. Institutions shall categorise extensions of the use of their alternative internal models as material, as referred to in Article 1(1), point (a), where those extensions fulfil any of the following conditions:
+
+| (a) | they meet any of the qualitative criteria set out in Part I of the Annex; |
+| --- | --- |
+
+| (b) | they result in a change equal to or higher than 1 %, in absolute terms, calculated for the first business day of the testing of the impact of the extension, of any of the risk numbers Rni set out in paragraph 4 which are considered relevant pursuant to paragraph 5, and result in any of the following:(i)a change equal to or higher than 10 %, in absolute terms, of the sum SIMA referred to in paragraph 1, point (b)(i);(ii)a change equal to or higher than 15 %, in absolute terms, of any of the risk numbers Rni set out in paragraph 4 which are considered relevant pursuant to paragraph 5. |
+| --- | --- |
+| (i) | a change equal to or higher than 10 %, in absolute terms, of the sum SIMA referred to in paragraph 1, point (b)(i); |
+| (ii) | a change equal to or higher than 15 %, in absolute terms, of any of the risk numbers Rni set out in paragraph 4 which are considered relevant pursuant to paragraph 5. |
+
+3. By way of derogation from paragraphs 1 and 2, institutions shall not categorise as material extensions and changes to the use of their alternative internal models that were requested by their competent authority.
+
+4. To assess whether the conditions in paragraph 1, point (b), and paragraph 2, point (b), are fulfilled, institutions shall consider the following risk numbers Rni:
+
+| (a) | Rn1, the institution’s previous day’s expected shortfall risk measure (ESt-1) referred to in Article 325ba(1), point (a)(i), of Regulation (EU) No 575/2013, for the portfolio of all positions referred to in paragraph 10 of this Article; |
+| --- | --- |
+
+| (b) | Rn2, the institution’s previous day’s stress scenario risk measure (SSt-1) referred to in Article 325ba(1), point (a)(ii), of Regulation (EU) No 575/2013, for the portfolio of all positions referred to in paragraph 10 of this Article; |
+| --- | --- |
+
+| (c) | Rn3, the most recent own funds requirement for default risk referred to in Article 325ba(2), point (a), of Regulation (EU) No 575/2013, for the portfolio of all positions referred to in paragraph 10 of this Article. |
+| --- | --- |
+
+5. Institutions shall consider the risk number Rni set out in paragraph 4 as relevant where that risk number fulfils all the following conditions:
+
+| (a) | on at least one day over the period referred to in paragraph 9: |
+| --- | --- |
+
+| (b) | on the first business day of the testing of the impact of the extension or change:where SIMA is the sum referred to in paragraph 1, point (b)(i). |
+| --- | --- |
+
+Institutions shall check the conditions referred to in the first subparagraph both with and without the extension or change to the use of their alternative internal models.
+
+6. To assess whether the conditions in paragraph 1, point (b)(i) or (b)(iii), are fulfilled, institutions shall determine the impact of the change to the use of their alternative internal models by taking the highest increase, in absolute terms over the period referred to in paragraph 9, of the ratios set out in paragraphs 7 or 8, respectively.
+
+To assess whether the conditions in paragraph 1, point (b)(ii) or (b)(iv), are fulfilled, institutions shall determine the impact of the change to the use of their alternative internal models by taking the highest decrease, in absolute terms over the period referred to in paragraph 9, of the ratios set out in paragraphs 7 or 8, respectively.
+
+To assess whether the conditions in paragraph 2, point (b)(i) or (b)(ii), are fulfilled, institutions shall determine the impact of the extension to the use of their alternative internal models by taking the highest change, in absolute terms over the period referred to in paragraph 9, of the ratios set out in paragraphs 7 or 8, respectively.
+
+7. Institutions shall calculate the ratio to be used for assessing whether the conditions set out in paragraph 1, points (b)(i) and (ii), or paragraph 2, point (b)(i), are fulfilled as follows:
+
+| (a) | in numerator, the difference between the sum SIMA referred to in paragraph 1, point (b)(i), with and without the extension or change to the use of their alternative internal models; |
+| --- | --- |
+
+| (b) | in the denominator, the sum SIMA referred to in paragraph 1, point (b)(i), without the extension or change to the use of their alternative internal models. |
+| --- | --- |
+
+8. Institutions shall calculate the ratio to be used for assessing whether the conditions set out in paragraph 1, points (b)(iii) and (iv), and paragraph 2, point (b)(ii), are fulfilled as follows:
+
+| (a) | in the numerator, the difference between the relevant risk number Rni referred to in paragraph 4, with and without the extension or change to the use of their alternative internal models; |
+| --- | --- |
+
+| (b) | in the denominator, the relevant risk number Rni referred to in paragraph 4, without the extension or change to the use of their alternative internal models. |
+| --- | --- |
+
+9. Institutions shall calculate the ratios referred to in paragraphs 7 and 8 for a period of 15 consecutive business days starting from the first business day of the testing of the impact of the extension or change to the use of their alternative internal models.
+
+The choice of the 15 consecutive business days period shall be representative of the trading and hedging activity under normal market conditions for the portfolio of positions affected by the extension or change to the use of their alternative internal models. That period shall be part of the 9 months preceding the notification or request for permission to their competent authority as referred to in Article 325az(7) of Regulation (EU) No 575/2013.
+
+10. Institutions shall calculate the risk numbers Rni set out in paragraph 4 for the portfolio of all positions assigned to trading desks which fulfil all the requirements set out in of Article 325az(2) of Regulation (EU) No 575/2013 at the moment of notification or request of permission to their competent authority as referred to in Article 325az(7) of Regulation (EU) No 575/2013.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Institutions shall categorise non-material changes to the use of their alternative internal models as requiring notification with additional information, as referred to in Article 1(2), point (a), where those changes fulfil any of the following conditions:
+
+| (a) | they meet any of the qualitative criteria set out in the Part II of the Annex; |
+| --- | --- |
+
+| (b) | they result in a change equal to or higher than 1 %, in absolute terms, calculated for the first business day of the testing of the impact of the change of any of the risk numbers Rni set out in Article 2(4) which are considered as relevant pursuant to Article 2(5), and result in any of the following:(i)an increase equal to or higher than 10 % and lower than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i);(ii)a decrease equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i);(iii)an increase equal to or higher than 15 % and lower than 20 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5);(iv)a decrease equal to or higher than 10 % and lower than 15 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5). |
+| --- | --- |
+| (i) | an increase equal to or higher than 10 % and lower than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i); |
+| (ii) | a decrease equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i); |
+| (iii) | an increase equal to or higher than 15 % and lower than 20 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5); |
+| (iv) | a decrease equal to or higher than 10 % and lower than 15 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5). |
+
+2. Institutions shall categorise non-material extensions to the use of their alternative internal models as requiring notification with additional information, as referred to in Article 1(2), point (a), where those extensions fulfil any of the following conditions:
+
+| (a) | they meet any of the qualitative criteria set out in Part II of the Annex; |
+| --- | --- |
+
+| (b) | they result in a change equal to or higher than 1 %, in absolute terms, calculated for the first business day of the testing of the impact of the extension of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5), and result in any of the following:(i)a change equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i);(ii)a change equal to or higher than 10 % and lower than 15 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5). |
+| --- | --- |
+| (i) | a change equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i); |
+| (ii) | a change equal to or higher than 10 % and lower than 15 %, in absolute terms, of any of the risk numbers Rni referred to in Article 2(4) which are considered relevant pursuant to Article 2(5). |
+
+3. Institutions shall notify their competent authorities in accordance with Article 325az(7), second subparagraph, of Regulation (EU) No 575/2013, 4 weeks before they implement a non-material extension or change to the use of their alternative internal models.
+
+4. To assess whether the conditions referred to in paragraph 1, points (b)(i) or (b)(iii) are fulfilled, institutions shall determine the impact of the change to the use of their alternative internal models by taking the highest increase, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+To assess whether the conditions referred to in paragraph 1, points (b)(ii) or (b)(iv) are fulfilled, institutions shall determine the impact of the change to the use of their alternative internal models by taking the highest decrease, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+To assess whether the conditions referred to in paragraph 2, points (b)(i) or (b)(ii) are fulfilled, institutions shall determine the impact of the extension to the use of their alternative internal models by taking the highest change, in absolute terms over the period referred to in Article 2(9) of the ratios referred to in Article 2(7) or (8), respectively.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Institutions shall assign changes to the choice of the subset of the modellable risk factors referred to in Article 325bc(2) of Regulation (EU) No 575/2013 to one of the following categories:
+
+| (a) | material changes to the institution’s choice of the subset of the modellable risk factors, identified in accordance with Article 5(1) of this Regulation, which require permission from the competent authorities; |
+| --- | --- |
+
+| (b) | non-material changes to the institution’s choice of the subset of the modellable risk factors, which require notification to the competent authorities. |
+| --- | --- |
+
+2. Institutions shall assign changes to the institution’s choice of the subset of the modellable risk factors referred to in paragraph 1, point (b), to one of the following sub-categories:
+
+| (a) | changes to the institution’s choice of the subset of the modellable risk factors, identified in accordance with Article 6(1), to be notified with additional information; |
+| --- | --- |
+
+| (b) | changes to the institution’s choice of the subset of the modellable risk factors to be notified with basic information. |
+| --- | --- |
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Institutions shall categorise changes to the institution’s choice of the subset of modellable risk factors referred to in Article 325bc of Regulation (EU) No 575/2013 as material, in accordance with Article 4(1), point (a), of this Regulation, where that change results in both of the following:
+
+| (a) | a change equal to or higher than 1 %, in absolute terms, calculated for the first business day of the testing of the impact of the change to the institution’s choice of the subset of modellable risk factors, of the risk number Rn1 referred to in Article 2(4), point (a); |
+| --- | --- |
+
+| (b) | any of the following:(i)an increase equal to or higher than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i);(ii)a decrease equal to or higher than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i);(iii)an increase equal to or higher than 20 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a);(iv)a decrease equal to or higher than 15 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a);(v)a decrease of the ratio set out in paragraph 4, which leads to the following condition being met:where Rchange is the ratio set out in paragraph 4 with the implementation of the change to the choice of the subset of modellable risk factors. |
+| --- | --- |
+| (i) | an increase equal to or higher than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i); |
+| (ii) | a decrease equal to or higher than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(1), point (b)(i); |
+| (iii) | an increase equal to or higher than 20 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a); |
+| (iv) | a decrease equal to or higher than 15 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a); |
+| (v) | a decrease of the ratio set out in paragraph 4, which leads to the following condition being met:where Rchange is the ratio set out in paragraph 4 with the implementation of the change to the choice of the subset of modellable risk factors. |
+
+2. By way of derogation from paragraph 1, institutions shall not consider as material changes to their choice of subset of modellable risk factors that were requested by their competent authority.
+
+3. By way of derogation from paragraph 1, institutions shall consider changes to their choice of the subset of modellable risk factors that follow from a failure to meet the requirement set out in Article 325bc(2), point (a), of Regulation (EU) No 575/2013 as non-material changes to be notified with basic information.
+
+4. For the purposes of paragraph 1, point (b)(v), institutions shall calculate the ratio Rchange in accordance with the following formula:
+
+where institutions shall calculate PESt+kRC and PESt+kFC in accordance with Article 325bc(3) and (4) of Regulation (EU) No 575/2013, and where t shall be the first business day of the testing of the impact of the change to the institution’s choice of the subset of modellable risk factors, and where the sum shall be taken over the 15 consecutive business days period referred to in Article 2(9) of this Regulation.
+
+5. To assess whether the conditions referred to in in paragraph 1, points (b)(i) or (b)(iii) are fulfilled, institutions shall determine the impact of the change to their choice of subset of modellable risk factors by taking the highest increase, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+To assess whether the conditions referred to in paragraph 1, points (b)(ii) or (b)(iv) are fulfilled, institutions shall determine the impact of the change to their choice of subset of modellable risk factors by taking the highest decrease, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Institutions shall categorise non-material changes to their choice of the subset of modellable risk factors as requiring notification with additional information, in accordance with Article 4(2), point (a), where they result in all of the following:
+
+| (a) | a change equal to or higher than 1 %, in absolute terms, computed for the first business day of the testing of the impact of the change to the institution’s choice of the subset of modellable risk factors, of the risk number Rn1 set out in Article 2(4), point (a); |
+| --- | --- |
+
+| (b) | any of the following:(i)an increase equal to or higher than 10 % and lower than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i);(ii)a decrease equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i);(iii)an increase equal to or higher than 15 % and lower than 20 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a);(iv)a decrease equal to or higher than 10 % and lower than 15 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a); |
+| --- | --- |
+| (i) | an increase equal to or higher than 10 % and lower than 15 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i); |
+| (ii) | a decrease equal to or higher than 5 % and lower than 10 %, in absolute terms, of the sum SIMA referred to in Article 2(2), point (b)(i); |
+| (iii) | an increase equal to or higher than 15 % and lower than 20 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a); |
+| (iv) | a decrease equal to or higher than 10 % and lower than 15 %, in absolute terms, of the risk number Rn1 referred to in Article 2(4), point (a); |
+
+| (c) | Rchange does not meet the criterion set out in Article 5(1), point (b)(v). |
+| --- | --- |
+
+2. Institutions shall notify their competent authorities in accordance with Article 325az(7), second subparagraph, of Regulation (EU) No 575/2013 4 weeks before they implement a non-material change to their choice of the subset of modellable risk factors.
+
+Institutions shall, however, notify any changes to their choice of subset of the modellable risk factors that follow from a failure to meet the requirement set out in Article 325bc(2), point (a), of that Regulation before they implement such a change.
+
+3. To assess whether the conditions referred to in paragraph 1, points (b)(i) or (b)(iii), are fulfilled, institutions shall determine the impact of the change to the their choice of the subset of modellable risk factors by taking the highest increase, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+To assess whether the conditions referred to in paragraph 1, points (b)(ii) or (b)(iv) are fulfilled, institutions shall determine the impact of the change to their choice of subset of modellable risk factors by taking the highest decrease, in absolute terms over the period referred to in Article 2(9), of the ratios referred to in Article 2(7) or (8), respectively.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. When calculating the quantitative impacts in accordance with Article 2(1) and (2), Article 3(1) and (2), Article 5(1) and Article 6(1), institutions shall use the most recent model setup and calibration and the data inputs corresponding to the period referred to in Article 2(9).
+
+No calculation requirements shall apply to extensions and changes having no direct quantitative impact.
+
+2. Competent authorities shall consider several modifications to the alternative internal model, separately submitted by an institution, as a single model extension or change where such modifications are similar in nature or related in scope. Competent authorities shall consider groups of modifications to the alternative internal model, submitted as a single model extension or change, as separate model extensions or changes where such modifications to the model are not similar in nature or related in scope.
+
+3. In case of doubt on the categorisation referred to in Articles 1 or 4, institutions shall provide the competent authority with an explanatory note justifying their choices of category or sub-category and presenting possible alternatives. The competent authority may change the category or sub-category provided in the request for a permission as referred to in Article 325az(7), first subparagraph, of Regulation (EU) No 575/2013, or the notification as referred to in Article 325az(7), second subparagraph, of that Regulation.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. Institutions that have been granted a permission for a material extension of, or change to, the use of alternative internal models, or a material change to the subset of the modellable risk factors, as referred to in Article 325az(7), first subparagraph, of Regulation (EU) No 575/2013, shall calculate their own funds requirements based on the approved extension or change from the date specified in the permission.
+
+2. In case of a delay of the implementation of an extension or change to the use of alternative internal models or a change to the subset of the modellable risk factors for which a competent authority has granted a permission as referred to in Article 325az(7), first subparagraph, of Regulation (EU) No 575/2013, institutions shall, without undue delay:
+
+| (a) | notify their competent authority of such a delay; |
+| --- | --- |
+
+| (b) | submit to their competent authority a plan for a timely implementation of the approved extension or change, to be approved by the competent authority. |
+| --- | --- |
+
+3. Institutions that have notified their competent authority of an extension or change and have subsequently decided not to implement such extension or change, shall notify their competent authority thereof without undue delay.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. Institutions shall, when they ask their competent authority for a permission as referred to in Article 325az(7), first subparagraph, of Regulation (EU) No 575/2013, provide their competent authority, with all of the following documentation:
+
+| (a) | a description of the extension or change to the use of their alternative internal models, or of the change to their choice of the subset of modellable risk factors, and a description of the rationale and objective of that extension or change; |
+| --- | --- |
+
+| (b) | the implementation date of such extension or change; |
+| --- | --- |
+
+| (c) | the scope of trading desks affected by the extension or change to the use of the alternative internal model or the change to the institution’s choice of the subset of modellable risk factors including information on the trading volume of those desks; |
+| --- | --- |
+
+| (d) | technical and process documents; |
+| --- | --- |
+
+| (e) | reports of the institutions’ independent review or validation; |
+| --- | --- |
+
+| (f) | a confirmation that the competent body of the institution has, through the institution’s approval processes, approved the extension or change to the use of the alternative internal model or the change to the institution’s choice of the subset of modellable risk factors, and the date of that approval; |
+| --- | --- |
+
+| (g) | where applicable, any relevant one of the following, together with a justification of representativeness of the period of 15 consecutive business days selected for the quantitative impact:(i)the quantitative impact of the extension or change to the use of the alternative internal model on the sum referred to in Article 2(1), point (b)(i);(ii)the quantitative impact of the extension or change to the use of the alternative internal model on the relevant risk numbers Rni referred to in Article 2(4);(iii)the quantitative impact of the change to the institution’s choice of the subset of modellable risk factors on the sum referred to in Article 2(1), point (b)(i);(iv)the quantitative impact of the change to the institution’s choice of the subset of modellable risk factors on the risk number Rn1 referred to in Article 2(4), point (a),(v)the ratio Rchange referred to in Article 5(4); |
+| --- | --- |
+| (i) | the quantitative impact of the extension or change to the use of the alternative internal model on the sum referred to in Article 2(1), point (b)(i); |
+| (ii) | the quantitative impact of the extension or change to the use of the alternative internal model on the relevant risk numbers Rni referred to in Article 2(4); |
+| (iii) | the quantitative impact of the change to the institution’s choice of the subset of modellable risk factors on the sum referred to in Article 2(1), point (b)(i); |
+| (iv) | the quantitative impact of the change to the institution’s choice of the subset of modellable risk factors on the risk number Rn1 referred to in Article 2(4), point (a), |
+| (v) | the ratio Rchange referred to in Article 5(4); |
+
+| (h) | information about the potential impact on trading desks that do not fulfil all the requirements of Article 325az(2) of Regulation (EU) No 575/2013 when the institution asks its competent authority for a permission as referred to in Article 325az(7), first subparagraph, of Regulation (EU) No 575/2013, or notifies its competent authority in accordance with Article 325az(7), second subparagraph, of that Regulation, including an estimate of the quantitative impact on the relevant risk numbers Rni referred to in Article 2(4) of this Regulation; |
+| --- | --- |
+
+| (i) | records of the current and previous version number of the institution’s alternative internal models concerned. |
+| --- | --- |
+
+2. For non-material extensions or changes to be notified with additional information, as referred to in Article 1(2), point (a), and Article 4(2), point (a), institutions shall submit, together with the notification, all the documentation referred to in paragraph 1, points (a) to (i), of this Article.
+
+3. For non-material extensions or changes to be notified with basic information, as referred to in Article 1(2), point (b), and Article 4(2), point (b), institutions shall submit, together with the notification, the documentation referred to in paragraph 1, points (a), (b) and (c) and points (f) to (i), of this Article.
+
+4. The reports of the institutions’ independent review or validation referred to in paragraph 1, point (e), of this Article shall contain all the following:
+
+| (a) | a verification of the materiality assessment and of the representativeness of the period of 15 consecutive business days used; |
+| --- | --- |
+
+| (b) | a critical review of the characteristics of the extension or change to the use of the alternative internal model, or change to the institution’s choice of the subset of modellable risk factors, performed in accordance with Article 325bi(2) and Article 325bj of Regulation (EU) No 575/2013; |
+| --- | --- |
+
+| (c) | a plan for a timely implementation of necessary corrective measures suggested as part of the independent review or validation process. |
+| --- | --- |
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.

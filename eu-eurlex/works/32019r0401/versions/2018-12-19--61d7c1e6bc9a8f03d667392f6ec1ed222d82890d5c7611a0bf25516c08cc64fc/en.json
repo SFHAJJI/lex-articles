@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/401 of 19 December 2018 amending Regulation (EU)…",
+  "valid_from": "2018-12-19",
+  "valid_to": "2019-03-13",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0401/versions/2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc/en.xml",
+    "sha256": "48c1fcf1454b8062c7eca4b7cd5fd7fe14ff03aa8a90ad09e61bb0de0cfd17ab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0401"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 41(4) of Regulation (EU) No 389/2013, the following paragraph is added:\n\n‘4. From the day following the one on which both ratification instruments concerning the Withdrawal Agreement have been deposited, allowances created for 2019 and 2020 shall not be identified with a country code if compliance with Directive 2003/87/EC for emissions taking place during these years is required by an agreement setting out arrangements for the withdrawal of such a Member State from the European Union.’",
+      "text_sha256": "374aeb39422e96883428eae079023f2c46e901a8b86e7a66badd9ae36e4909cd",
+      "md_span": {
+        "start": 708,
+        "end": 1221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0401:2018-12-19--61d7c1e6bc9a8f03d667392f6ec1ed222d82890d5c7611a0bf25516c08cc64fc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 1254,
+        "end": 1395
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

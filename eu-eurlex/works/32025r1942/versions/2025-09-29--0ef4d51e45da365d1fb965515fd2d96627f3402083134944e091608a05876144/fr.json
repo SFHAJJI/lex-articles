@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1942 of 29\u00A0September 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-09-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1942/versions/2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144/fr.xml",
+    "sha256": "014a83062d390d82bbf39d811d7b2848e786f2704135d0a606d34de6348aabc3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1942"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes normes de référence et les spécifications visées à l’article 33, paragraphe 2, et à l’article 40 du règlement (UE) no 910/2014 figurent à l’annexe du présent règlement.",
+      "text_sha256": "f5c004f842bce97860f5dba96c6e87c22c5767213cc077afe6e1c795eb1e9fa8",
+      "md_span": {
+        "start": 750,
+        "end": 939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 972,
+        "end": 1113
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

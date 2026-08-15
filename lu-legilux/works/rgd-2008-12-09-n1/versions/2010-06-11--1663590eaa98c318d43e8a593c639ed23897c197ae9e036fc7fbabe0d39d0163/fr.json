@@ -1,0 +1,502 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/06/2010 : Règlement grand-ducal du 9 décembre 2008 ayant pour objet la désignation des délégués des institutions et juridictions de sécurité sociale.",
+  "valid_from": "2010-06-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-12-09-n1/versions/2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163/fr.xml",
+    "sha256": "d127a53d10dca666f2bd86737e109382802167bb93a5484cb7656811f14e9ce3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/consolide/20100611/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_1er/20081215",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Dans les trente jours suivant la constitution des chambres professionnelles à la suite de leurs élections, celles-ci procèdent à la désignation des délégués des institutions et juridictions de sécurité sociale d'après les modalités du présent règlement.\n\nA cet effet, les chambres professionnelles s’assemblent en collèges électoraux.\n\nDans la Chambre des salariés:\n\n- un premier collège électoral est constitué par tous les groupes de la Chambre des salariés à l’exception du groupe des agents actifs et retraités des chemins de fer luxembourgeois;\n- un deuxième collège électoral est constitué par le groupe des agents actifs et retraités des chemins de fer luxembourgeois.\n\nDans la Chambre des fonctionnaires et employés publics:\n\n- un premier collège électoral est constitué par tous les groupes de la Chambre des fonctionnaires et employés publics à l’exception du groupe des fonctionnaires et employés communaux;\n- un deuxième collège électoral est constitué par le groupe des fonctionnaires et employés communaux.\n\nLa Chambre de commerce, la Chambre des métiers et la Chambre d’agriculture constituent chacune un seul collège électoral.\n\nLe président de la chambre professionnelle nouvellement constituée fixe la date et l’heure de la désignation des délégués des institutions et juridictions de sécurité sociale, ainsi que la durée du scrutin qui sont communiquées aux membres des collèges électoraux par lettre recommandée.",
+      "text_sha256": "ae9637aa09f12f408e734de891bef1588b01680df4b836fc14729fa20ce01cf8",
+      "md_span": {
+        "start": 837,
+        "end": 2269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_2/20100611",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale"
+      ],
+      "article_valid_from": "2010-06-11",
+      "text_md": "Chaque collège électoral est appelé à désigner ou à élire les délégués effectifs et suppléants conformément au tableau figurant en annexe faisant partie intégrante du présent règlement.\n\nPour chaque délégué effectif, il y a lieu de désigner ou d’élire selon les mêmes modalités un délégué suppléant.\n\nA défaut de désignation conjointe, la désignation des cinq délégués des employeurs de la Caisse nationale de santé se fait suivant les modalités suivantes: la Chambre de commerce en désigne, pour la première moitié du mandat, deux, la Chambre des métiers en désigne trois et pour la deuxième moitié du mandat, la Chambre de commerce en désigne trois, la Chambre des métiers en désigne deux.\n\nA défaut de désignation conjointe, la désignation des cinq délégués des employeurs du Centre commun de la sécurité sociale, se fait suivant les modalités suivantes: la Chambre de commerce en désigne, pour la première moitié du mandat, trois, la Chambre des métiers en désigne deux et pour la deuxième moitié du mandat, la Chambre de commerce en désigne deux, la Chambre des métiers en désigne trois.\n\nA défaut de désignation conjointe, la désignation des sept délégués des employeurs de l’Association d’assurance accident se fait suivant les modalités suivantes: la Chambre de commerce en désigne, pour la première moitié du mandat, trois, la Chambre des métiers en désigne quatre et pour la deuxième moitié du mandat, la Chambre de commerce en désigne quatre, la Chambre des métiers en désigne trois.",
+      "text_sha256": "59c810dd12c583a4e33e30feb428708f11816a2e2b0abc5f85c4da9eb9ae6519",
+      "md_span": {
+        "start": 2304,
+        "end": 3798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_3/20081215",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les modalités de la désignation",
+        "Section 1 — Présentation de candidatures"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "La présentation des candidats se fait, pour chaque institution et juridiction de sécurité sociale, sous forme de listes à remettre au président de la chambre professionnelle, au plus tard avant dix-sept heures du soir du deuxième jour ouvrable avant la date fixée pour la désignation. Passé ce délai, les candidatures ne sont plus recevables. Le dépôt est attesté par un reçu à délivrer par le président de la chambre professionnelle au déposant.\n\nChaque liste doit être présentée sous sa signature par un membre de la chambre professionnelle qui peut être en même temps candidat.\n\nLa liste indique les numéros d’identité de sécurité sociale, noms, prénoms, professions et domiciles des candidats, ainsi que de la personne qui la présente et la dépose.\n\nToute liste doit comprendre un nombre de candidats égal au double du nombre des délégués effectifs à élire.\n\nChaque liste électorale doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l’expiration du délai imparti pour les déclarations de candidatures, ces listes sont désignées par une lettre d’ordre par le président de la chambre professionnelle.",
+      "text_sha256": "f51a4d9319c802a949981bee3b7d7d9bf5ef0e0ccd6bd1e0fc02d6b847d0cf1e",
+      "md_span": {
+        "start": 3928,
+        "end": 5185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_4/20081215",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les modalités de la désignation",
+        "Section 1 — Présentation de candidatures"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le président de la chambre professionnelle vérifie, arrête et enregistre les listes de candidats. Il les munit de numéros d'ordre correspondant à leur ordre de présentation.\n\nLes électeurs peuvent prendre inspection des listes déposées au siège de la chambre professionnelle.",
+      "text_sha256": "a15bbf5a87da96c34fa1fb4157059d5920f1dba4bf2f93915c0494aa370acbdc",
+      "md_span": {
+        "start": 5220,
+        "end": 5495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_5/20081215",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Les modalités de la désignation",
+        "Section 2 — Dispense d'élections"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Si une seule liste de candidats a été présentée et que cette liste désigne expressément, d'une part les délégués effectifs, et, d'autre part, les délégués suppléants dans l'ordre suivant lequel ils doivent remplacer les délégués effectifs respectifs, ceux-ci sont désignés par le président de la chambre professionnelle sans autre formalité. Il en est dressé procès-verbal qui est signé par le président de la chambre professionnelle.\n\nIl y aura un délégué suppléant pour chaque délégué effectif. Le délégué suppléant appelé à remplacer un délégué effectif devra représenter la même chambre professionnelle que le délégué effectif empêché ou qui a cessé ses fonctions.\n\nEn cas de pluralité de listes, il est procédé à des élections conformément à la procédure définie au chapitre 3.",
+      "text_sha256": "a00758bcf81aa48aa41a985b3c176d900400a3bc3d168c306aff0456a0da1a9c",
+      "md_span": {
+        "start": 5568,
+        "end": 6350
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_6/20081215",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 1 — Mode de scrutin"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Les élections se font à l'urne au scrutin de liste suivant les règles de la représentation proportionnelle.",
+      "text_sha256": "a67349f064012bff923f5de3e9ef1b194cde04c7ad8ddd7ba706239f337938a2",
+      "md_span": {
+        "start": 6456,
+        "end": 6563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_7/20081215",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 2 — Bureau électoral"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le bureau électoral se compose du président de la chambre professionnelle, d'un secrétaire et d'un nombre de scrutateurs égal au nombre de listes présentées désignés par le président de la chambre professionnelle sur proposition des mandataires ayant présenté la liste.\n\nSi le président de la chambre professionnelle est lui-même candidat à une élection, un vice-président non-candidat de la même chambre professionnelle ou, à défaut, le membre non-candidat le plus âgé de la même chambre professionnelle assumera la présidence du bureau électoral.\n\nAucun candidat ne peut faire partie du bureau électoral.",
+      "text_sha256": "919dd34dca4f58d1cb5a5814606de2df4895a88d21c68389d5bfa49991ffaf6e",
+      "md_span": {
+        "start": 6632,
+        "end": 7238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_8/20081215",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 3 — Bulletins de vote"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le président du bureau électoral établit la formule des bulletins de vote qui reproduisent les numéros d'ordre des listes, leur dénomination, les noms et prénoms des candidats ainsi que le nombre de suffrages dont dispose l'électeur.\n\nChaque liste est surmontée d'une case réservée au vote, deux autres cases se trouvant à la suite des noms et prénoms de chaque candidat. La case de tête est noire et présente au milieu un cercle de la couleur du papier.",
+      "text_sha256": "7913ed81fb8be1eba9ff48277683c15d9c3908e41b8249c2390d8c6a91239065",
+      "md_span": {
+        "start": 7308,
+        "end": 7762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_9/20081215",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 4 — Opérations de vote"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Les noms des électeurs qui se présentent pour voter sont pointés sur les listes électorales. L'électeur reçoit ensuite des mains du président du bureau électoral un bulletin de vote, plié en quatre, à angle droit, et se rend dans un compartiment isolé pour le remplir.\n\nAprès avoir exprimé son vote, l'électeur montre au président du bureau électoral le bulletin dûment replié et le dépose dans l'urne. Le secrétaire prend note du dépôt.",
+      "text_sha256": "da29f26259dd0200311f1bf2e81e56b64d3702a218cba6fc88c248f62b9d06c8",
+      "md_span": {
+        "start": 7833,
+        "end": 8270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_10/20081215",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 4 — Opérations de vote"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le droit de vote est exercé personnellement. En cas d'empêchement d'un membre effectif du collège électoral, le vote par procuration peut être exercé par un membre suppléant. Pour être admis au vote, ce dernier doit présenter au bureau électoral la lettre recommandée visée à l'article 1er, alinéa 6, ainsi qu'une procuration signée par le membre effectif empêché. Acte en est fait au procès-verbal.",
+      "text_sha256": "f6980e71ef360bd97fd38947088aba51d16fa982a46cd54137c6a7c5999b0404",
+      "md_span": {
+        "start": 8307,
+        "end": 8706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_11/20081215",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 4 — Opérations de vote"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Chaque électeur dispose d'autant de suffrages qu'il y a de délégués effectifs et suppléants à élire.\n\nL’électeur peut attribuer deux suffrages aux candidats de son choix jusqu’à concurrence du total des suffrages dont il dispose. Chaque croix (+ ou x) inscrite dans l’une des deux cases réservées derrière les noms des candidats vaut un suffrage.\n\nL’électeur qui remplit le cercle de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x), adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.\n\nTout cercle rempli même incomplètement et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.\n\nL’électeur qui aurait détérioré son bulletin, peut en obtenir un autre par le président du bureau électoral contre remise du bulletin détérioré qui est détruit. Acte en est pris au procès-verbal.",
+      "text_sha256": "ad3383ed938b418f4774b4796545230344b698d4b78eaf06a194001937835cbb",
+      "md_span": {
+        "start": 8743,
+        "end": 9681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_12/20081215",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 5 — Dépouillement des bulletins"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Après la clôture du scrutin, le président du bureau électoral mêle tous les bulletins déposés dans l'urne. Les bulletins sont dépliés par le secrétaire, soumis à l'inspection du bureau et remis au président qui énonce nominativement les suffrages.\n\nLes scrutateurs font le recensement et en tiennent note séparément. Ces notes sont paraphées par le président du bureau électoral et annexées au procès-verbal.",
+      "text_sha256": "0ee6de5c57fb07c97b7cae4880cfc5a80b411e8019a23676098c4e869799092d",
+      "md_span": {
+        "start": 9763,
+        "end": 10171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_13/20081215",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 5 — Dépouillement des bulletins"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Est nul tout bulletin qui:\n\n1. ne contient l'expression d'aucun suffrage;\n2. contient plus de suffrages qu'il y a de membres à élire;\n3. porte une marque quelconque;\n4. fait connaître le votant.",
+      "text_sha256": "7f12c2ae417ab47dd5209c6898156980c5f7b1dbd5113e3a0f6efe5033bce932",
+      "md_span": {
+        "start": 10208,
+        "end": 10402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_14/20081215",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le bureau électoral arrête le nombre des bulletins nuls et des bulletins valables et les fait inscrire au procès-verbal. Il en est de même pour les suffrages de liste et les suffrages nominatifs.",
+      "text_sha256": "1954c2c79f54caa1bbe97882611ef43cb718dabd678d71d075892f17ecf400df",
+      "md_span": {
+        "start": 10479,
+        "end": 10674
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_15/20081215",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Les suffrages donnés à une liste en totalité (suffrages de liste) ou aux candidats individuellement (suffrages nominatifs) comptent à la liste pour le calcul de la répartition proportionnelle des sièges entre les listes.\n\nLe nombre total des suffrages valables des listes est divisé par le nombre des délégués effectifs à élire augmenté de un. Est appelé «nombre électoral» le nombre entier immédiatement supérieur au quotient ainsi obtenu.",
+      "text_sha256": "2b4dcc4b161d96cd131f354b7a81f047e5d1fcc0e17c57f89f90125c48a359ad",
+      "md_span": {
+        "start": 10711,
+        "end": 11151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_16/20081215",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Chaque liste reçoit à la répartition autant de sièges que le nombre électoral est contenu de fois dans le nombre des suffrages qu'elle a recueillis.\n\nLorsque le nombre des délégués élus à la suite de la répartition prévue à l’alinéa 1er reste inférieur à celui des délégués effectifs à élire, on divise le nombre des suffrages de chaque liste par le nombre de sièges qu’elle a déjà obtenus, augmenté de un. Le siège est attribué à la liste qui obtient le quotient le plus élevé. On répète le même procédé s’il reste encore des sièges disponibles.\n\nEn cas d’égalité, le siège disponible est attribué à la liste qui a recueilli le plus de suffrages.\n\nLes opérations de calcul sont à faire par un scrutateur et le secrétaire du bureau électoral.",
+      "text_sha256": "fa3062b8f3cd8885890266286ba540874fec4427b4d3609a30b672f798201914",
+      "md_span": {
+        "start": 11188,
+        "end": 11930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_17/20081215",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Les sièges sont attribués dans chaque liste aux candidats ayant obtenu le plus grand nombre de suffrages nominatifs. En cas d'égalité de suffrages, le candidat le plus âgé est élu.",
+      "text_sha256": "b8cceb39f4584dd25e44b58543311fb14ee5abda68febceb166618339434a6cb",
+      "md_span": {
+        "start": 11967,
+        "end": 12147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_18/20081215",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Les noms des délégués effectifs élus sont proclamés par le président du bureau électoral dès que le résultat de l'élection est connu et communiqués par tous moyens appropriés aux électeurs.\n\nIl en est de même des délégués suppléants qui sont proclamés pour chaque liste au même nombre que les délégués effectifs de la liste, dans l’ordre des voix que chacun a obtenues.\n\nEst de même proclamé le nombre de suffrages nominatifs obtenus par chacun des autres candidats dans l’ordre des suffrages obtenus. Ils acquièrent rang de suppléant au fur et à mesure qu’il y a lieu de compléter le nombre de ceux-ci.",
+      "text_sha256": "b6a2975bca0ea9d9e5062a10c89e3c4422825322dba0319acc1177fd86dc66b0",
+      "md_span": {
+        "start": 12184,
+        "end": 12787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_19/20081215",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le procès-verbal des opérations qui précèdent est dressé et signé séance tenante et communiqué aux institutions et juridictions de sécurité sociale respectives. Le procès-verbal des opérations qui précèdent est conservé dans les archives des institutions et juridictions de sécurité sociale. Expédition en est transmise au plus tard le lendemain de sa signature au ministre ayant dans ses attributions la Sécurité sociale. Les bulletins sont tenus à la disposition du ministre ayant dans ses attributions la Sécurité sociale jusqu'au surlendemain de l'expiration du délai prévu pour les réclamations dans des contenants scellés par le président. Ils sont détruits dans la suite.",
+      "text_sha256": "a9af8cda62086ab669b08feff79f0ebac1f7bdc58a4a04f321301b76be6cbf00",
+      "md_span": {
+        "start": 12824,
+        "end": 13502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_20/20081215",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 6 — Attribution des sièges"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Lorsqu'un délégué est exclu ou déchargé de ses fonctions ou lorsque, pour un motif quelconque, un délégué quitte ses fonctions avant l'expiration de son mandat, il n'est pas procédé à une élection complémentaire avant l'expiration d'un délai de cinq ans à compter de la date des dernières élections des délégués des institutions et juridictions de sécurité sociale, mais les suppléants sont appelés aux fonctions de délégués effectifs dans l'ordre correspondant au résultat des élections. Le remplaçant achève le mandat de celui qu'il remplace.\n\nEn cas d’empêchement des membres effectifs d’une liste, les délégués suppléants de la même liste, dans l’ordre correspondant au résultat des élections, sont convoqués aux séances de la délégation pour y siéger avec voix délibérative.\n\nLe délégué suppléant appelé à remplacer un délégué effectif devra représenter la même chambre professionnelle que le délégué effectif empêché ou qui a cessé ses fonctions.\n\nSi, pendant la période quinquennale en cours, le nombre de membres suppléants devient inférieur au nombre des membres effectifs, les candidats n’ayant pas obtenu un mandat aux premières élections, mais ayant appartenu à la même liste électorale que les membres à suppléer, remplacent d’office les postes des membres suppléants vacants dans l’ordre du nombre des voix obtenues lors de ces élections.\n\nS’il ne peut être pourvu au remplacement d’un membre suppléant conformément à l’alinéa précédent, un nouveau membre suppléant est désigné par le collège électoral auquel appartient le membre à remplacer sur proposition du groupement auquel appartient le membre à remplacer.",
+      "text_sha256": "3e6f1a01ab0767f73212676383f4a53d2568b72fff8ca3c9e81d06595eb55328",
+      "md_span": {
+        "start": 13539,
+        "end": 15166
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_21/20081215",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Procédure électorale",
+        "Section 7 — Contestations"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Toutes les contestations qui surgissent au sein du bureau électoral au cours du dépouillement des bulletins ou de l'attribution des sièges ou qui ont été soulevées par les témoins, sont tranchées à la majorité des voix, celle du président étant prépondérante en cas de parité.\n\nCes contestations et décisions sont relatées succinctement au procès-verbal.\n\nLa validité de l’élection peut être contestée par les candidats sous peine de forclusion dans les huit jours après la proclamation du résultat.\n\nLes recours motivés sont à adresser par écrit, sous pli recommandé à la poste, au ministre ayant dans ses attributions la Sécurité sociale qui décide d’urgence.\n\nSuivant les circonstances, il y a lieu à annulation des élections dans leur ensemble ou à révision de leur résultat.",
+      "text_sha256": "f500ae88483474d5299e61fffd68648c00f7a25a74d5b2127476acc5416f1d21",
+      "md_span": {
+        "start": 15234,
+        "end": 16013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_22/20081215",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Disposition abrogatoire et formule exécutoire"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Le règlement grand-ducal modifié du 13 juillet 1993 ayant pour objet la désignation des délégués des assurés et des employeurs dans les institutions d'assurance maladie, le centre commun de la sécurité sociale, les caisses de pension, le Fonds de compensation commun au régime général de pension et les juridictions de sécurité sociale ainsi que des délégués des assurés dans l'association d'assurance contre les accidents, section industrielle est abrogé.",
+      "text_sha256": "cfcd986d005c4914ea5a7de299c5d7a7a7d7e6d6d9ac577d0160d4ab70d46e68",
+      "md_span": {
+        "start": 16113,
+        "end": 16569
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1993/07/13/n3",
+          "text": "règlement grand-ducal modifié du 13 juillet 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/art_23/20081215",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Disposition abrogatoire et formule exécutoire"
+      ],
+      "article_valid_from": "2008-12-15",
+      "text_md": "Notre Ministre de la Santé et de la Sécurité sociale est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "2c7bacb7cf1301cdd3c6d0be8e12bbaa82cb3395f5f9d35b1db1bacb5ce66269",
+      "md_span": {
+        "start": 16606,
+        "end": 16734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2008-12-09-n1:2010-06-11--1663590eaa98c318d43e8a593c639ed23897c197ae9e036fc7fbabe0d39d0163#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "|  | **CNS** | **CMFEP** | **CMFEC** | **EMCFL** | **Mutualité** | **AAA** | **CNAP** | **FDC** | **CCSS** | **CAAS** | **CSAS** |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Ch. des salariés** |  |  |  |  |  | 7 eff./7 suppl. (désignés par les deux collèges électoraux) |  |  | 5 eff./5 suppl. (désignés par les deux collèges électoraux) |  |  |\n| collège électoral sans CFL | 5 eff./5 suppl. |  |  |  |  |  | 8 eff./8 suppl. | 4 eff./4 suppl. |  | 25 d. assurés | 10 d. assurés |\n| collège électoral CFL | 1eff./1 suppl. |  |  | 6 eff./6 suppl. |  |  |  |  |  | 3 d. assurés | 3 d. assurés |\n| **Ch. des fonctionnaires et employés publics** |  |  |  |  |  | 1 eff./1 suppl. (désigné par les deux collèges électoraux) |  |  | 1 eff./1 suppl. (désigné par les deux collèges électoraux) |  |  |\n| collège électoral Etat | 1eff./1 suppl. | 6 eff./6 suppl. |  |  |  |  |  |  |  | 3 d. assurés | 3 d. assurés |\n| collège électoral communes | 1eff./1 suppl. |  | 6 eff./6 suppl. |  |  |  |  |  |  | 3 d. assurés | 3 d. assurés |\n| **Ch. de commerce** | 1 d. non-salarié eff./1 suppl.2 d. employeurs eff./2 suppl. pour 2,5 années (3 pour 2,5 années après) |  |  |  | 3 eff./3 suppl. | 3 d. employeurs eff./3 suppl. pour 2,5 années (4 pour 2,5 années après) | 1 d. non-salarié eff./1 suppl.4 d. employeurs eff./4 suppl | 2 d. eff./2 suppl. | 3 d. employeurs eff./3 suppl. pour 2,5 années (2 pour 2,5 années après) | 11 d. employeurs | 4 d. employeurs |\n| **Ch. des métiers ** | 1 d. non-salarié eff./1 suppl.3 d. employeurs eff./3 suppl. pour 2,5 années (2 pour 2,5 années après) |  |  |  | 3 eff./3 suppl. | 4 d. employeurs eff./4 suppl. pour 2,5 années (3 pour 2,5 années après) | 1 d. non-salarié eff./1 suppl.1 d. non-salarié eff./1 suppl | 2 d. eff./2 suppl. | 2 d. employeurs eff./2 suppl. pour 2,5 années (3 pour 2,5 années après) | 11 d. employeurs | 4 d. employeurs |\n| **Ch. d’agriculture** | 1 d. non-salarié eff./1 suppl. |  |  |  | 1 eff. /1 suppl. | 1 eff. /1 suppl. | 1 d. non-salarié eff./1 suppl. |  | 1 eff. /1 suppl. | 3 d. employeurs | 2 d. employeurs |",
+      "text_sha256": "f9428115baced233f21a7658d13eee89e735aafa4ffde5cb9f4ac827bbbfa168",
+      "md_span": {
+        "start": 16775,
+        "end": 18875
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

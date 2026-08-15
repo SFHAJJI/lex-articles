@@ -1,0 +1,126 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 01/09/2016 : Loi du 23 juillet 2016 réglant le montant et les modalités d'octroi du soutien financier annuel à la communauté musulmane du Grand-Duché de Luxembourg, arrêtant les exemptions en matière d'acquisition d'immeubles affectés à l'exercice du culte musulman et conférant la personnalité juridique à l'Assemblée de la Communauté musulmane du Grand-Duché de Luxembourg.",
+  "valid_from": "2016-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-07-23-n15/versions/2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22/fr.xml",
+    "sha256": "234764bb0ac622e38e992015310b8ef78eebba2c36ade28060b68d1e5c702b5f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_1er/20160901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "Il est accordé à l’Assemblée de la Communauté musulmane du Grand-Duché de Luxembourg, ci-après dénommée «Shoura», un soutien financier annuel de 450.000 euros (n.i. 775,17).\n\nLe soutien financier annuel est viré à la Shoura, au 31 janvier au plus tard. Pour l’année de l’entrée en vigueur de la présente loi, le soutien financier accordé à la Shoura est calculé au prorata du nombre de mois à courir à partir de la date de l’entrée en vigueur de la loi.",
+      "text_sha256": "df1a1b3afd05c4e726c72394e326af788e2b4e259fb0467ea5537c82e3830399",
+      "md_span": {
+        "start": 969,
+        "end": 1422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_2/20160901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "La Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg qui représente les communautés musulmanes établies sur le territoire du Grand-Duché de Luxembourg, constitue une personne juridique de droit public. Elle est représentée judiciairement et extrajudiciairement par son président ou par un délégué spécialement mandaté par la Shoura.",
+      "text_sha256": "be679d3665bf72356d0ece81389386a8a6564acd1c234e3e950e93960842a314",
+      "md_span": {
+        "start": 1457,
+        "end": 1813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_3/20160901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "Les comptes de fin d’année de la Shoura sont soumis au contrôle d’un réviseur d’entreprises, respectivement d’un commissaire aux comptes pour les comptes ne dépassant pas 500.000 euros. Les comptes et le rapport du réviseur d’entreprises respectivement du commissaire aux comptes doivent être transmis jusqu’au 30 juin de l’exercice subséquent au membre du Gouvernement ayant les Cultes dans ses attributions.\n\nLe soutien financier annuel visé à l’article 1er est versé au bénéficiaire sous réserve du respect de la modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État.",
+      "text_sha256": "d7279545930a2115f3f9c2ecc66ec021174360c89b831336523837710c5845d3",
+      "md_span": {
+        "start": 1848,
+        "end": 2446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_4/20160901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "Le paiement du soutien financier visé à l’article 1er est suspendu en cas de non-respect par les communautés musulmanes regroupées au sein de la Shoura de l’ordre public luxembourgeois et des droits de l’homme garantis par la Constitution et par les normes internationales ayant force légale au Luxembourg.",
+      "text_sha256": "d7ac1d1c1d1be2c9bcf8539a2141cae5c15b70ec1e59df212aac12e514d99d61",
+      "md_span": {
+        "start": 2481,
+        "end": 2787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_5/20160901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "Toute mutation immobilière en faveur des communautés musulmanes regroupées au sein de la Shoura dans l’intérêt de l’exercice du culte musulman est exempte des droits de timbre, des droits d’enregistrement, de succession et de mutation par décès et des droits de transcription.",
+      "text_sha256": "1bf4f18ff5ee78b5240e6824f767b012d32dd7adf0a86116d95531dd5cba6130",
+      "md_span": {
+        "start": 2822,
+        "end": 3098
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-07-23-n15:2016-09-01--65b609f8895c5fd996972fb6deb04f6401fbf6b58388b4aed8cb1562e7a31f22#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/art_6/20160901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.\n\nMandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.",
+      "text_sha256": "82d1406f79ba2ec8976a8b6b7b4a45e4e136cd141ac876cd003ee685319f9eae",
+      "md_span": {
+        "start": 3133,
+        "end": 3361
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

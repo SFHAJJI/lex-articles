@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/461 of 16 March 2017 laying down implementing technical standards with regard to common procedures, forms and templates for the consultation process between the relevant competent authorities for proposed acquisitions of qualifying holdings in credit institutions as referred to in Article 24 of Directive 2013/36/EU",
+  "valid_from": "2017-03-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0461/versions/2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091/en.xml",
+    "sha256": "7db1fbad517ffaac789c149056acd181b1fab08af2f80d96dec09eb52a47dafc",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0461"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the common procedures, forms and templates for the consultation process referred to in Article 24 of Directive 2013/36/EU between the following:\n\n| (a) | the competent authority of an existing credit institution in which a qualifying holding is proposed to be acquired or increased or which is responsible for providing the authorisation to commence the activity of a credit institution (the ‘requesting authority’); |\n| --- | --- |\n\n| (b) | the relevant competent authority of the proposed acquirer, shareholder or member, where such proposed acquirer, shareholder or member falls under one of the categories referred to in points (a), (b) and (c) of Article 24(1) of Directive 2013/36/EU (the ‘requested authority’). |\n| --- | --- |",
+      "text_sha256": "dbe070f38d204d2424af7483caae2ef74a147f8ed039cef61af9a798e75c7c59",
+      "md_span": {
+        "start": 972,
+        "end": 1743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purpose of the consultation process set out in Article 24 of Directive 2013/36/EU, the relevant competent authorities shall designate, by way of a single address of a dedicated department or mailbox, contact points for transmitting consultation notices and other communication in accordance with this Regulation and shall make those contact points publicly available on their websites.",
+      "text_sha256": "3d9bf316070deb89669885083c823efdc58f18df7e22916e7c6ae905ea583e89",
+      "md_span": {
+        "start": 1776,
+        "end": 2180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The requesting authority shall send a consultation notice to the requested authority as soon as possible after receipt of a notification referred to in Article 22(1) of Directive 2013/36/EU and, in any event, no later than 10 working days after the commencement of the assessment period referred to in the second subparagraph of Article 22(2) of that Directive.\n\n2. Where the assessment provided for in Article 23(1) of Directive 2013/36/EU is conducted as part of the assessment of an application for the authorisation of a credit institution to commence its activities, the requesting authority shall send a consultation notice to the requested authority as soon as possible after receipt of such an application and, in any event, no later than 10 working days after the receipt of the complete information referred to in Article 15 of Directive 2013/36/EU.\n\n3. The requesting authority shall send the consultation notices referred to in paragraphs 1 and 2 in writing by post, facsimile or secure electronic means and address them to the designated contact point of the requested authority.\n\n4. The requesting authority shall send the consultation notices referred to in paragraphs 1 and 2 by completing the template set out in Annex I, specifying the main details of the proposed holding and of the information that the requesting authority asks from the requested authority in relation thereto.",
+      "text_sha256": "e5f5c1156f09d1b676f48f6d84940bacb62595097abf45103f70c30cf9d6b0e1",
+      "md_span": {
+        "start": 2213,
+        "end": 3625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe requested authority shall send the requesting authority an acknowledgement of receipt of the consultation notice referred to in Article 3 within 2 working days of receiving such notice.",
+      "text_sha256": "ae47144b2111bd13b8e1aa7b1ff0405758af63a47a797127c4d12fb33ee04662",
+      "md_span": {
+        "start": 3658,
+        "end": 3858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. A response to a consultation notice shall be made in writing, using the format set out in Annex II, by post, facsimile or secure electronic means. It shall be addressed to the designated contact point of the requesting authority referred to in Article 2, unless otherwise specified by the requesting authority.\n\n2. The requested authority shall provide the requesting authority as soon as possible and no later than 20 working days after receipt of the consultation notice with:\n\n| (a) | all relevant information requested in the consultation notice, including any views or reservations in relation to the acquisition by the proposed acquirer; |\n| --- | --- |\n\n| (b) | all essential information, on its own initiative. |\n| --- | --- |\n\n3. Where the requested authority is unable to meet the time limit set out in paragraph 2, it shall immediately inform the requesting authority of the justifiable reasons that necessitate any such delay and provide an estimated date of response. The requested authority shall provide regular feedback on the progress made either of its own initiative or upon the request of the requesting authority.\n\n4. Where, due to justified cases of necessity, the requested authority is not able to provide all the required information in time for meeting the time limit set out in paragraph 2, it shall:\n\n| (a) | provide the information which is already available within the time limit set out in paragraph 2, using the format set out in Annex II; |\n| --- | --- |\n\n| (b) | provide any missing information as soon as it becomes available and in a manner, including verbally, which ensures that any necessary action may proceed expediently. |\n| --- | --- |\n\n5. If the requested information is provided verbally pursuant to point (b) of paragraph 4, it shall subsequently be confirmed in writing in accordance with paragraph 1, unless the competent authorities involved agree otherwise.",
+      "text_sha256": "0caf8d4f151674001499b67d483a9fcdfe7f4ba7bc753e95a9f3b55e80a7effc",
+      "md_span": {
+        "start": 3891,
+        "end": 5812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The requesting authority and the requested authority shall communicate in relation to a consultation notice and the response using the most expedient means from among those set out in Article 3(3) and Article 5(1), taking due account of confidentiality considerations, correspondence times, the volume of material to be communicated and the ease of access to the information by the requesting authority.\n\n2. The information provided by the requested authority shall, to the best of its knowledge, be complete, accurate and up to date.\n\n3. Upon receipt of a consultation notice, the requested authority shall communicate with the requesting authority in a timely manner where it needs any clarification in relation to the information requested.\n\nThe requesting authority shall in turn respond promptly to any clarifications requested by the requested authority.\n\n4. If the information requested is held by another authority of the same Member State as the requested authority but which does not constitute a competent authority for the purposes of Article 24 of Directive 2013/36/EU, the requested authority shall undertake best efforts to collect the information promptly and transmit it to the requesting authority in accordance with Article 5.\n\nIf the information requested is held by another authority of a different Member State or by another authority of the same Member State which constitutes a competent authority for the purposes of Article 24 of Directive 2013/36/EU, the requested authority shall promptly inform the requesting authority thereof.\n\n5. The requested authority and the requesting authority shall cooperate to resolve any difficulties that may arise in responding to a request.\n\n6. The requested authority and the requesting authority shall provide feedback to each other on the outcome of the assessment in relation to which the consultation process occurred and, where appropriate, on the usefulness of the information or other assistance received and on any problems encountered in providing such assistance or information.\n\n7. Where new information or a need for further information comes to light during the assessment period, the requesting authority and the requested authority shall ensure that all essential and relevant information is exchanged. The templates set out in Annexes I and II shall, where appropriate, be used for this purpose.\n\n8. During the consultation process, competent authorities shall use an official language of a Member State of the Union which is a language commonly used for international supervisory cooperation, and shall publish the choice of such language or languages on their websites. The competent authorities of Member States that have a common official language, or mutually agree to use another official language of a Member State of the Union, may use that language.",
+      "text_sha256": "3e3e21ee2917c88e94faf241dc133e4c50d3641307e981ab5dd81e05252c7654",
+      "md_span": {
+        "start": 5845,
+        "end": 8695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0461:2017-03-16--5e59a921bd7cd78282a539ac6aeede2f0a1ae87d5fa736715d430cdabd871091#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 8728,
+        "end": 8879
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/02/2015 : Règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l'obtention d'un titre de voyage pour étrangers.",
+  "valid_from": "2006-08-14",
+  "valid_to": "2008-01-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2005-01-26-n1/versions/2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8/fr.xml",
+    "sha256": "e48f25c3ce905fe5c7ce6333708b3599a9b0a3a2f44250e9bf236bdedc259e25",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20060814/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_1er_definition_et_champ_d_application/20050207",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définition et champ d'application",
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "**1.** Le titre de voyage pour étrangers est un document de voyage délivré à des personnes résidant régulièrement sur le territoire du Grand-Duché de Luxembourg et dont l'identité et la nationalité sont établies, mais qui ne sont pas en mesure d'obtenir un passeport national de la part des autorités de leur pays d'origine.\n\n**2.** Dans des cas exceptionnels, un tel titre de voyage peut également être délivré lorsque la procédure de délivrance d'un passeport national est excessivement longue.\n\n**3.** Ne tombent pas sous le champ d'application des présentes dispositions, les personnes qui bénéficient du statut de réfugié conféré en conformité avec la Convention de Genève, du 28 juillet 1951, ou du statut d'apatride conféré en conformité avec la Convention de New York, du 28 septembre 1954.",
+      "text_sha256": "72884f4cb1964bd5479ee9f4867925ceb1db232cd6116da0f6a0c4cb62d44ede",
+      "md_span": {
+        "start": 758,
+        "end": 1556
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_2_conditions_pour_pouvoir_pretendre_a_l_obtention_d_un_titre_de_voyage_pour_etrangers/20050207",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Conditions pour pouvoir prétendre à l'obtention d'un titre de voyage pour étrangers",
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "**1.** Pour pouvoir prétendre à l'obtention d'un titre de voyage pour étrangers, le requérant doit:\n\n- être titulaire d'un permis de séjour, ou avoir obtenu de la part de l'autorité luxembourgeoise compétente l'accord pour l'octroi d'un tel permis;\n- apporter la preuve qu'une demande en obtention d'un passeport national a été rejetée par les autorités du pays d'origine ou pouvoir justifier qu'une demande en obtention d'un passeport national a été introduite auprès de l'ambassade du pays d'origine depuis six mois au moins et qu'elle est restée sans suites;\n- autoriser le Ministère des Affaires Etrangères et de l'Immigration à s'enquérir auprès de l'Ambassade du pays d'origine sur les raisons qui sont à la base du refus de la délivrance d'un passeport national ou, le cas échéant, de la procédure de délivrance excessivement longue.\n\n**2.** Aucun titre de voyage pour étrangers ne sera délivré:\n\n- lorsqu'il appert que le requérant a été condamné dans son pays d'origine ou dans tout autre pays pour des crimes contre l'humanité ou pour toute autre infraction pénale, ou qu'il est recherché pour ces mêmes faits. Il appartient au Ministère des Affaires Etrangères de juger de la gravité des faits reprochés;\n- lorsque le requérant est susceptible de compromettre la sécurité et l'ordre publics.",
+      "text_sha256": "425b068f3e15a3aa45f58a64fbb1f19b3ebf1f104a0f00af66c9aaf36554182a",
+      "md_span": {
+        "start": 1675,
+        "end": 2977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_3_procedure_de_delivrance_prolongation_et_taxes/20060814",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Procédure de délivrance, prolongation et taxes",
+      "path": [],
+      "article_valid_from": "2006-08-14",
+      "text_md": "**1.** Les demandes en obtention d'un titre de voyage pour étrangers sont à présenter, moyennant le formulaire annexé au présent règlement, au Ministère des Affaires Etrangères et de l'Immigration, bureau des passeports, seule autorité habilitée à délivrer des titres de voyage pour étrangers. Les demandes doivent être accompagnées des pièces justificatives mentionnées à l'article 2. par.1 et 2, de deux photos d'identité récentes ainsi que d'un extrait récent du casier judiciaire.\n\n**«2»** Le titre de voyage pour étrangers est établi pour une durée d'un an et non prorogeable.\n\n**«3»** La délivrance d'un titre de voyage pour étrangers est soumise au paiement d'une taxe de 2 (deux) euros.",
+      "text_sha256": "bd82e2fad413bef04d697a6cd6c7e86dfcce52b9eb97b7e2f95170bbf5c66910",
+      "md_span": {
+        "start": 3059,
+        "end": 3753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_4_retrait_et_restitution/20050207",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Retrait et restitution",
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "**1.** Le titre de voyage pour étrangers peut être retiré à son détenteur\n\n- lorsqu'il a été constaté que sa délivrance a eu lieu sur base de fausses déclarations du titulaire;\n- lorsque les faits énumérés à l'article 2. par. 2. ci-dessus viennent à la connaissance du Ministère des Affaires Etrangères après la délivrance du titre de voyage pour étrangers;\n- lorsque son titulaire a été condamné à une peine d'emprisonnement ferme d'un an ou plus;\n- lorsque le Ministre compétent en matière d'entrée et de séjour au Luxembourg a signifié à l'intéressé un ordre de quitter le territoire.\n\n**2.** Le titre de voyage pour étrangers devra être restitué au Ministère des Affaires Etrangères et de l'Immigration\n\n- lorsqu'un passeport national a été délivré à son titulaire;\n- lorsque le titulaire a pris résidence dans un autre pays;\n- lorsque le titulaire a acquis la nationalité luxembourgeoise ou toute autre nationalité.",
+      "text_sha256": "8500904f105f07ef750de020ce8bf5dcf777ce030f0f55beccec17e8b3251a83",
+      "md_span": {
+        "start": 3811,
+        "end": 4731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_5_dispositions_generales/20050207",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Dispositions générales",
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "**1.** Le titulaire d'un titre de voyage pour étrangers reste soumis aux règles générales de la législation luxembourgeoise régissant l'entrée, le séjour et l'admissibilité au travail des étrangers au Grand-Duché de Luxembourg.\n\n**2.** Le titre de voyage pour étrangers est délivré pour permettre à son détenteur de se déplacer en dehors du territoire luxembourgeois dans les pays qui ont reconnu ce titre de voyage pour l'entrée et le séjour sur leur territoire. Il ne dispense pas du visa si celui-ci est requis.\n\n**3.** Le titre de voyage permet seulement le retour au Grand-Duché dans la limite de la validité du permis de séjour y apposée. Dans tous les cas, le retour au Grand-Duché n'est plus possible après un séjour de six mois consécutifs à l'étranger, sauf dérogation spéciale accordée, avant le départ, par le Ministre ayant dans ses attributions l'entrée et le séjour des étrangers sur le territoire du Grand-Duché de Luxembourg.\n\n**4.** Le titre de voyage pour étrangers ne donne pas automatiquement droit à l'assistance consulaire des autorités luxembourgeoises en cas de difficultés à l'étranger.",
+      "text_sha256": "e7fb3db907ead980e76b19d12bdaf864eaab1c2525bb6155acb01c9e2221e48a",
+      "md_span": {
+        "start": 4789,
+        "end": 5901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14--6db85fec1b6c8389dc65bd8c0c00f73136810232c8f03d4d0a2b57c0878502b8#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_6/20050207",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "Notre Ministre des Affaires Etrangères et de l'Immigration est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b5bf0e41a47c743f93881d462a317db57d3405308edfbefbdda544d0f6d6bb64",
+      "md_span": {
+        "start": 5936,
+        "end": 6070
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

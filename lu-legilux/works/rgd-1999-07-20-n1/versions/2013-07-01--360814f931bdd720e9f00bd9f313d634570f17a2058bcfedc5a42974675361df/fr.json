@@ -1,0 +1,182 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 20 juillet 1999 déterminant la composition, le mode de fonctionnement et les indemnités du comité d'accompagnement en matière d'établissements classés.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-07-20-n1/versions/2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df/fr.xml",
+    "sha256": "374848b3cd791292b07b5acff40c7e8a09adce9d30d74500d5bad836701e2465",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_1er/20101010",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-10-10",
+      "text_md": "Le comité d'accompagnement tel qu'il a été institué par la loi du 10 juin 1999 relative aux établissements classés et dénommé ci-après «le comité» se compose comme suit:\n\n- 1 délégué du ministre ayant dans ses attributions l'environnement;\n- 1 délégué du ministre ayant dans ses attributions l'économie;\n- 1 délégué du ministre ayant dans ses attributions les classes moyennes;\n- 1 délégué du ministre ayant dans ses attributions l'agriculture;\n\n- 2 représentants de l'Administration de l'environnement;\n- 1 représentant de l'Inspection du travail et des mines;\n- 1 représentant de l'Administration de la gestion de l'eau;\n\n- 1 représentant de la Chambre des Métiers;\n- 1 représentant de la Chambre de Commerce;\n- 1 représentant de la Chambre d'Agriculture;\n\n- 1 représentant de la Chambre des Salariés;\n\n- 1 représentant du Mouvement écologique;\n- 1 représentant de la Ligue Luxembourgeoise pour la protection de la nature et des oiseaux;\n- 1 représentant du SYVICOL.",
+      "text_sha256": "fe34bca8bb27d5b6ba935333df6a413d45515e7920e8362a5b769b86053c5a97",
+      "md_span": {
+        "start": 785,
+        "end": 1753
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/10/n5/jo",
+          "text": "loi du 10 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_2/19990801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Le Président ainsi que les autres membres effectifs et suppléants du comité sont nommés par le Gouvernement en Conseil pour un terme de trois ans.\n\nLes mandats sont renouvelables.\n\nEn cas de vacance de poste, le nouveau titulaire termine le mandat du membre qu'il remplace.",
+      "text_sha256": "f799ba92c82868f1b85d5d6b55f290b44877c9cdc32af4d4a18388ba118b6cc3",
+      "md_span": {
+        "start": 1788,
+        "end": 2061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_3/19990801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "La présidence du comité est assurée par le délégué du ministre ayant dans ses attributions l'environnement.\n\nLe ministère de l'Environnement est chargé du secrétariat du comité et de la coordination technique et administrative des travaux du comité.",
+      "text_sha256": "dac3a461a73bc1beb7a1123b7a26ef49ca0e0cc05b58a7debeeab1616c5cc076",
+      "md_span": {
+        "start": 2096,
+        "end": 2345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_4/19990801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Le président convoque les réunions du comité aux date, heure et lieu fixés par lui. Il établit l'ordre du jour qui fait partie intégrante de la convocation. Il coordonne le développement des travaux et assure la transmission des prises de position et tout particulièrement des recommandations et avis du comité aux ministres ayant dans leurs attributions respectivement le travail et l'environnement.\n\nLe comité peut valablement siéger si au moins neuf membres sont présents ou représentés. Les membres empêchés peuvent se faire remplacer par leurs suppléants.\n\nLes décisions sont prises à la majorité des membres présents ou représentés. En cas de partage des voix, celle du président sera prépondérante.",
+      "text_sha256": "87035adf1e471c974eb3f72daa1f0723ec4013743fee7f78ef5319d5c815ac71",
+      "md_span": {
+        "start": 2380,
+        "end": 3085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_5/19990801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Le comité peut mettre en place des groupes de travail.\n\nEn cas de nécessité, le président du comité peut faire appel à un ou plusieurs experts.",
+      "text_sha256": "576418ec048758daf761b2aa4349fa9b2462ee6cc9dab4b8f0130d99958564d2",
+      "md_span": {
+        "start": 3120,
+        "end": 3263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_6/19990801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Le comité pourra préciser son organisation et son fonctionnement par un règlement d'ordre intérieur.",
+      "text_sha256": "599e66d571260de03ce7b569f3c24d5007f5b42a089129fed4eb8f6f35a06f35",
+      "md_span": {
+        "start": 3298,
+        "end": 3398
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_7/20130701",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Les membres du comité ainsi que les experts ont droit à un jeton de présence qui est fixé à 9.30 € par séance.",
+      "text_sha256": "0e7436732040daa66785f24ce4476942cc6d357256aa85a7ed573dcbbbc98149",
+      "md_span": {
+        "start": 3433,
+        "end": 3543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_8/19990801",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Le présent règlement entre en vigueur le 1er août 1999.",
+      "text_sha256": "0cdefb0fc75a6916f8e83d22dc5c3a4f538299da9358b42f354cf142a1c7a138",
+      "md_span": {
+        "start": 3578,
+        "end": 3633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1999-07-20-n1:2013-07-01--360814f931bdd720e9f00bd9f313d634570f17a2058bcfedc5a42974675361df#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/art_9/19990801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-01",
+      "text_md": "Notre ministre du Travail et de l'Emploi et Notre ministre de l'Environnement sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5247c422cbda4ae73e43275f24c350eb5f83f5736c7449fbf95359035333a073",
+      "md_span": {
+        "start": 3668,
+        "end": 3854
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,54 @@
+---
+lex_id: 'eu-eurlex:32022r0504:2022-03-25--85f68d1137c0fa26448ce2198350f840c4b3dee4c5c0337fe180c6f343ec2fc1'
+title: 'Regulation (EU) 2022/504 of the European Central Bank of 25 March 2022 amending Regulation…'
+valid_from: '2022-03-25'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0504'
+source_sha256: '7e62c76f060b5087818752df71a70e7a9dd50a4d910bc2992d149c3bd7a8b0c0'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le règlement (UE) 2016/445 (BCE/2016/4) est modifié comme suit:
+
+| 1. | L’article 5 est supprimé ; |
+| --- | --- |
+
+| 2. | À l'article 9, les paragraphes 3 à 5 sont remplacés par le texte suivant:«3. Les expositions énumérées à l’article 400, paragraphe 2, point c), du règlement (UE) n° 575/2013 prises par un établissement de crédit sur les entreprises visées au même article, dans la mesure où ces entreprises sont établies dans l’Union, sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement, pour autant que soient remplies les conditions énoncées à l'article 400, paragraphe 3, de ce même règlement, telles qu'elles sont précisées à l'annexe I du présent règlement, et dans la mesure où ces entreprises sont soumises à la même surveillance prudentielle sur base consolidée conformément au règlement (UE) n° 575/2013, à la directive 2002/87/CE du Parlement européen et du Conseil(*1) ou à des règles équivalentes en vigueur dans un pays tiers, comme cela est précisé à l'annexe I du présent règlement.4. Les expositions énumérées à l'article 400, paragraphe 2, point d), du règlement (UE) n° 575/2013 sont exemptées de l'application de l'article 395, paragraphe 1, de ce règlement, pour autant que soient remplies les conditions énoncées à l'article 400, paragraphe 3, de ce règlement, telles qu'elles sont précisées à l'annexe II du présent règlement.5. Les expositions énumérées à l'article 400, paragraphe 2, points e) à l), du règlement (UE) n° 575/2013 sont totalement exemptées, ou dans le cas de l'article 400, paragraphe 2, point i), sont exemptées à hauteur du montant maximal autorisé, de l'application de l'article 395, paragraphe 1, de ce règlement, sous réserve que les conditions prévues à l'article 400, paragraphe 3, de ce règlement soient remplies.(*1) Directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier, et modifiant les directives 73/239/CEE, 79/267/CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE et 93/22/CEE du Conseil et les directives 98/78/CE et 2000/12/CE du Parlement européen et du Conseil (JO L 35 du 11.2.2003, p. 1).» " |
+| --- | --- |
+
+| 3. | Au chapitre IV, après l’intitulé «Liquidité», l’intitulé suivant est inséré: « Section IExigence de couverture des besoins de liquidité » |
+| --- | --- |
+
+| 4. | Les articles 10 et 11 sont supprimés; |
+| --- | --- |
+
+| 5. | L’article 11 bis suivant est inséré:«Article 11 bisArticle 12, paragraphe 1, point c) i), du règlement délégué (UE) 2015/61: Identification d’indices boursiers importants d’un État membre ou d’un pays tiersLes indices suivants constituent des indices boursiers importants aux fins de déterminer l’étendue des actions qui pourraient être considérées comme des actifs de niveau 2B en vertu de l’article 12, paragraphe 1, point c), du règlement délégué (UE) 2015/61:a)les indices énumérés à l’annexe I du règlement d’exécution (UE) 2016/1646 de la Commission(*2)b)tout indice boursier important, non inclus au point a), dans un État membre ou dans un pays tiers, identifié comme tel aux fins du présent point par l’autorité compétente de l’État membre en question ou par l’autorité publique du pays tiers en question;c)tout indice boursier important, non inclus aux points a) ou b), qui comprend des entreprises phares dans le pays en question.(*2) Règlement d’exécution (UE) 2016/1646 de la Commission du 13 septembre 2016 définissant des normes techniques d'exécution concernant les indices importants et les marchés reconnus, conformément au règlement (UE) n° 575/2013 du Parlement européen et du Conseil concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement (JO L 245 du 14.9.2016, p. 5).» " |
+| --- | --- |
+| a) | les indices énumérés à l’annexe I du règlement d’exécution (UE) 2016/1646 de la Commission(*2) |
+| b) | tout indice boursier important, non inclus au point a), dans un État membre ou dans un pays tiers, identifié comme tel aux fins du présent point par l’autorité compétente de l’État membre en question ou par l’autorité publique du pays tiers en question; |
+| c) | tout indice boursier important, non inclus aux points a) ou b), qui comprend des entreprises phares dans le pays en question. |
+
+| 6. | Au chapitre IV, après l’article 12, la section II suivante est insérée: « Section IIRatio de financement stable net (Net Stable Funding Ratio - NSFR)Article 12 bisArticle 428 septdecies, paragraphe 10, du règlement (UE) no 575/2013: Facteurs de financement stable requis pour les expositions de hors bilanÀ moins que la BCE ne détermine des facteurs de financement stable requis différents, pour les expositions de hors bilan entrant dans le champ d’application de l’article 428 septdecies, paragraphe 10, du règlement (UE) n° 575/2013, les établissements appliquent, aux expositions de hors bilan non visées à la sixième partie, titre IV, chapitre 4, du règlement (UE) no 575/2013, des facteurs de financement stable requis correspondant aux taux de sortie de trésorerie qu’ils appliquent aux produits et services liés dans le contexte de l’article 23 du règlement délégué (UE) 2015/61 en ce qui concerne l’exigence de couverture des besoins de liquidité.Article 12 terArticle 428 octodecies, paragraphe 2, du règlement (UE) no 575/2013: Détermination du terme de la charge grevant les actifs qui ont fait l’objet d’une ségrégationLorsque des actifs ont fait l’objet d’une ségrégation conformément à l’article 11, paragraphe 3, du règlement (UE) no 648/2012 du Parlement européen et du Conseil(*3) et que les établissements ne sont pas en mesure de céder ces actifs librement, les établissements considèrent lesdits actifs comme grevés pour une période correspondant au terme des engagements envers leurs clients sur lesquels porte cette obligation de ségrégation.Article 12 quaterArticle 428 quaterquadragies, paragraphe 10, du règlement (UE) n° 575/2013: Facteurs de financement stable requis pour les expositions de hors bilanLes établissements auxquels la BCE a accordé l’autorisation d’appliquer l’exigence de financement stable net simplifiée visée à la sixième partie, titre IV, chapitre 5, du règlement (UE) n° 575/2013 suivent l’approche prévue à l’article 12 bis.Article 12 quinquiesArticle 428 quinquesquadragies, paragraphe 2, du règlement (UE) n° 575/2013: Détermination du terme de la charge grevant les actifs qui ont fait l’objet d’une ségrégationLes établissements auxquels la BCE a accordé l’autorisation de calculer le ratio de financement stable net visé à la sixième partie, titre IV, chapitre 5, du règlement (UE) n° 575/2013 suivent l’approche prévue à l’article 12 ter.(*3) Règlement (UE) n° 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux (JO L 201 du 27.7.2012, p. 1).» " |
+| --- | --- |
+
+| 7. | Les articles 13 à 16 sont supprimés; |
+| --- | --- |
+
+| 8. | L'annexe I est modifiée conformément à l'annexe du présent règlement. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Le présent règlement entre en vigueur le cinquième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/1111 of 22 June 2017 laying down implementing technical standards with regard to procedures and forms for submitting information on sanctions and measures in accordance with Directive 2014/65/EU",
+  "valid_from": "2017-06-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1111/versions/2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec/en.xml",
+    "sha256": "533d0ab9c5f275828d701dfb82991bd8f765afdd36b79bd4c4382664b0fce75e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1111"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Each competent authority shall designate a single contact point for sending communications on any issue relating to the submission of information in accordance with Articles 2 to 6.\n\nCompetent authorities shall notify the European Securities and Markets Authority (ESMA) of the contact points designated in accordance with the first subparagraph.\n\n2. ESMA shall designate a contact point for receiving the communications referred to in paragraph 1.\n\n3. ESMA shall publish the contact point referred to in paragraph 2 on its website.",
+      "text_sha256": "8ebf497a0e843fa521e8269975db0b771f7d354250a2f53be9a0a38ec2bb478e",
+      "md_span": {
+        "start": 850,
+        "end": 1396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Competent authorities shall submit to ESMA the information referred to in the second subparagraph of Article 71(3) and Article 71(5) of Directive 2014/65/EU using the interfaces provided by the information technology system set up by ESMA to manage the receipt, storage, publication and exchange of that information.\n\n2. The information referred to in paragraph 1 shall be submitted to ESMA in a report file in the form set out in Annex I to this Regulation.",
+      "text_sha256": "1ac07ed9fd1c05339d0bafe15a0a6f2973ec808075c75f9678f395e112293ffd",
+      "md_span": {
+        "start": 1429,
+        "end": 1901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Where a competent authority wishes to invalidate an existing report file it has previously submitted to ESMA in accordance with Article 2, it shall cancel the existing report and send a new report file.\n\n2. Where a competent authority wishes to update an existing report file it has previously submitted to ESMA in accordance with Article 2, it shall resubmit the report file with the updated information.",
+      "text_sha256": "25304cb10a841c42402cf3f955eec7c7f7f6ebf4da058fffe3ac4281c2623dc2",
+      "md_span": {
+        "start": 1934,
+        "end": 2353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Competent authorities shall notify ESMA of an administrative sanction imposed but not published, including any appeal in relation thereto and the outcome thereof, by sending the report file within 10 working days at the latest after the decision not to publish the sanction has been taken.\n\n2. Competent authorities shall notify ESMA of any information, including the final judgement, in relation to any criminal sanction by sending the report within 10 working days at the latest after it has received that information.",
+      "text_sha256": "388bc7d8c4a84e4bb511932d382e1fe61fd1de8695c6c8c5d9e3270f94d46c82",
+      "md_span": {
+        "start": 2386,
+        "end": 2920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nCompetent authorities shall provide ESMA with the information referred to in the first subparagraph of Article 71(4) of Directive 2014/65/EU by filling in the form set out in Annex II to this Regulation. That form shall include the information on all sanctions and measures imposed by the competent authority, as referred to in Article 71 of Directive 2014/65/EU, during the previous calendar year.\n\nThe form referred to in the first subparagraph shall be completed electronically and sent to ESMA by email by 31 March of each year at the latest.",
+      "text_sha256": "f799a61a6316d68b9844537855ecf8c5e2e7c6e2047a8bd28ce60c9a5e7b042c",
+      "md_span": {
+        "start": 2953,
+        "end": 3510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nWhere Member States have in accordance with Article 70 of Directive 2014/65/EU laid down criminal sanctions for the infringements referred to in that Article, competent authorities shall provide ESMA with the data referred to in the second subparagraph of Article 71(4) of Directive 2014/65/EU by filling in the form set out in Annex III to this Regulation. That form shall include data on all criminal investigations undertaken and criminal sanctions imposed for infringements referred to in the second subparagraph of Article 71(4) of Directive 2014/65/EU by the competent authority during the previous calendar year.\n\nThe form referred to in the first subparagraph shall be completed electronically and sent to ESMA by email by 31 March of each year at the latest.",
+      "text_sha256": "ca72d9c1d2074cc700620c3e8fa1c7b38069ee2fe8787c954267bd21203305f6",
+      "md_span": {
+        "start": 3543,
+        "end": 4321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r1111:2017-06-22--9373ddf00625f0230c41231635f41ea667a5fa3434139ce3aba14f4355f274ec#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "3f4b1215510ba521cc574f987444e162c19028808d48a3a34eed4c3626744807",
+      "md_span": {
+        "start": 4354,
+        "end": 4542
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

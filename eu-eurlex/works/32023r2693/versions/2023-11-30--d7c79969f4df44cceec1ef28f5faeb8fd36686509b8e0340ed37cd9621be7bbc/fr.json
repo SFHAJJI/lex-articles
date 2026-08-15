@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2693:2023-11-30--d7c79969f4df44cceec1ef28f5faeb8fd36686509b8e0340ed37cd9621be7bbc",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2023/2693 of 30\u00A0November 2023 determining that the…",
+  "valid_from": "2023-11-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2693/versions/2023-11-30--d7c79969f4df44cceec1ef28f5faeb8fd36686509b8e0340ed37cd9621be7bbc/fr.xml",
+    "sha256": "b00c12393b156f4ce03320ad7ce2b532fc9cba5a4a3968f391d23019fe58f5e9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2693"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2693:2023-11-30--d7c79969f4df44cceec1ef28f5faeb8fd36686509b8e0340ed37cd9621be7bbc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes informations devant être échangées automatiquement en vertu de la loi sur la fiscalité (taux annuels pour la période 2022-2023, économie des plateformes et questions correctives) de 2023 [Taxation (Annual Rates for 2022-23, Platform Economy, and Remedial Matters) Act 2023] et de l’accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux revenus tirés des plateformes numériques (ci-après l’«accord multilatéral») signé à ce jour par les autorités compétentes de la Nouvelle-Zélande et de la Belgique, de la Bulgarie, de la Croatie, de Chypre, de l’Estonie, de la Finlande, de l’Irlande, de la Lettonie, du Luxembourg, de Malte, des Pays-Bas, de la Pologne, du Portugal, de la République slovaque, de la Slovénie, de l’Espagne et de la Suède (ci-après les «États membres signataires») sont équivalentes, au sens de l’annexe V, section I, point A 7), de la directive 2011/16/UE, aux informations figurant à l’annexe V, section III, point B, de la directive 2011/16/UE.\n\nLa détermination de l’équivalence s’applique comme suit:\n\n| i) | elle s’applique aux activités concernées consistant en la location de biens immobiliers et en un service personnel tel que défini à l’annexe V, section I, point A 11), de la directive 2011/16/UE à compter de la date d’entrée en vigueur de toutes les sections de la loi sur la fiscalité (taux annuels pour la période 2022-2023, économie des plateformes et questions correctives) de 2023 qui appliquent les dispositions prévues dans les règles types de déclaration à l’intention des vendeurs relevant de l’économie du partage et de l’économie à la demande publiées en 2020 par l’Organisation de coopération et de développement économiques (OCDE), et qui ont été évaluées par la Commission; |\n| --- | --- |\n\n| ii) | elle s’applique aux activités concernées consistant en la location de tout mode de transport et en la vente de biens tels que définis à l’annexe V, section I, point C 9), de la directive 2011/16/UE à compter de la date d’entrée en vigueur de toutes les sections de la loi sur l’administration fiscale de 1994, telle que modifiée par la loi sur la fiscalité (taux annuels pour la période 2022-2023, économie des plateformes et questions correctives) de 2023, qui appliquent les dispositions prévues par les règles types de déclaration pour les plateformes numériques: Cadre pour les échanges internationaux et module optionnel pour la vente des biens, publiées par l’OCDE en 2021, et qui ont été évaluées par la Commission; |\n| --- | --- |\n\n| iii) | outre les conditions énoncées aux points i) et ii), elle ne s’applique que lorsque la relation d’échange entre les autorités compétentes de la Nouvelle-Zélande et de chaque État membre signataire est activée conformément à la section 7 de l’accord multilatéral. |\n| --- | --- |",
+      "text_sha256": "932f32142f25aae8af3ad4148b9a5ff8b8197e9e3de41ffe100aabe3d197a976",
+      "md_span": {
+        "start": 702,
+        "end": 3552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2693:2023-11-30--d7c79969f4df44cceec1ef28f5faeb8fd36686509b8e0340ed37cd9621be7bbc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 3585,
+        "end": 3726
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

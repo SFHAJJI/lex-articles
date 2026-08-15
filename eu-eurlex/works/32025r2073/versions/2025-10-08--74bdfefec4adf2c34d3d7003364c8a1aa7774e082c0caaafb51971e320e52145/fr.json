@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2073:2025-10-08--74bdfefec4adf2c34d3d7003364c8a1aa7774e082c0caaafb51971e320e52145",
+  "language": "fr",
+  "title": "Regulation (EU) 2025/2073",
+  "valid_from": "2025-10-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2073/versions/2025-10-08--74bdfefec4adf2c34d3d7003364c8a1aa7774e082c0caaafb51971e320e52145/fr.xml",
+    "sha256": "63970a4d5fa38abbc0739a8860fe58c3fb26c2635f2a7bb1c401940164d440c9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2073"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2073:2025-10-08--74bdfefec4adf2c34d3d7003364c8a1aa7774e082c0caaafb51971e320e52145#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes annexes A et B du règlement (UE) 2015/848 sont remplacées par le texte figurant à l’annexe du présent règlement.",
+      "text_sha256": "d69f087636c68ce71d0d641848febb9df71e0366158f7c4cf08f9107961139ce",
+      "md_span": {
+        "start": 636,
+        "end": 769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2073:2025-10-08--74bdfefec4adf2c34d3d7003364c8a1aa7774e082c0caaafb51971e320e52145#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 802,
+        "end": 943
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

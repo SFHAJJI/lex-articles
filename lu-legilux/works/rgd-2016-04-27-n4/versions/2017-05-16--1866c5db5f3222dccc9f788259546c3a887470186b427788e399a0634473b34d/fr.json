@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 29/09/2024 : Règlement grand-ducal du 27 avril 2016 relatif à la pulvérisation aérienne.",
+  "valid_from": "2017-05-16",
+  "valid_to": "2024-09-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-04-27-n4/versions/2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d/fr.xml",
+    "sha256": "2d26fa0e19eb68d9b0f82341e716b48b86261b8839c02e2124422f773afdf7c5",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/consolide/20170516/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_1er/20170516",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Dans la zone de pulvérisation aérienne, telle que définie à l’annexe, l’épandage de produits phytopharmaceutiques par aéronef peut être autorisé entre le 15 avril et le 15 août pour lutter contre les maladies fongiques principales dans les vignobles dont la pente moyenne est supérieure ou égale à 20 pour cent ou dans lesquels l’épandage de produits phytopharmaceutiques ne peut être exécuté moyennant un engin à traction directe.\n\nLes maladies fongiques principales sont le mildiou (*Plasmopara viticola*), l’oïdium (*Uncinula necator*), le rougeot parasitaire (*Pseudopeziza tracheiphila*) et le black rot (*Guignardia bidwellii*).\n\nUn formulaire est mis à la disposition des demandeurs par l’Administration des services techniques de l’agriculture.",
+      "text_sha256": "1d11dcbdbd4df59bccf1a234469d582dc5135256120869befb49022bd71265fb",
+      "md_span": {
+        "start": 682,
+        "end": 1434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_2/20160503",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-05-03",
+      "text_md": "La demande d’autorisation comprend:\n\n1. 1. pour les personnes physiques: l’indication des nom, prénom et domicile du demandeur, de l’entreprise responsable de la pulvérisation aérienne et de l’opérateur;\n2. pour les personnes morales: l’indication de la dénomination sociale, de la forme sociale et du siège social du demandeur et de l’entreprise responsable de la pulvérisation aérienne;\n2. er loi du 19 décembre 2014\n3. er loi précitée du 19 décembre 2014\n4. un extrait d’une carte topographique récente permettant d’identifier l’emplacement du terrain d’atterrissage de l’aéronef;\n5. une carte topographique récente précisant les parcelles concernées;\n6. les maladies fongiques principales à combattre par la pulvérisation aérienne;\n7. une liste indiquant le nombre de pulvérisations aériennes prévues avec l’indication, pour chaque application, des produits phytopharmaceutiques utilisés, de leur numéro d’agrément, de la quantité et de la période d’application.",
+      "text_sha256": "7e405aaae9443cd5b3c5bb19c8400d587ae7d40b1a7e10945b98384342827365",
+      "md_span": {
+        "start": 1469,
+        "end": 2435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_3/20160503",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-05-03",
+      "text_md": "La demande d’autorisation isolée comprend, outre les points 1 à 5 de l’article 2:\n\n1. une description de la circonstance particulière relevant de l’urgence ou d’une situation exceptionnelle;\n2. l’indication de la date prévisionnelle de l’application, le nom des produits phytopharmaceutiques appliqués, leur numéro d’agrément et la quantité.",
+      "text_sha256": "a01d99e2af74c753c5541e9dcbc1da09f60cc324fdc907e0635be84e71ad55d4",
+      "md_span": {
+        "start": 2470,
+        "end": 2811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_4/20160503",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-05-03",
+      "text_md": "Le ministre ayant l’Agriculture et la Viticulture dans ses attributions, désigné ci-après «le ministre», autorise les produits phytopharmaceutiques pour la pulvérisation aérienne sur avis de la commission des produits phytopharmaceutiques prévue à l’article 3 de la loi précitée du 19 décembre 2014.\n\nPar dérogation à l’alinéa premier, le ministre peut, dans le cas d’une autorisation isolée, autoriser des produits phytopharmaceutiques pour la pulvérisation aérienne sans demander l’avis de la commission. Il en informe la commission.",
+      "text_sha256": "833e206dd34d846c36fa1dacc094bd3c4c0faf73a64b7b0ed7bf8d4a40a2ecb5",
+      "md_span": {
+        "start": 2846,
+        "end": 3381
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rect/2015/01/22/n1/jo",
+          "text": "loi précitée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_5/20160503",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-05-03",
+      "text_md": "L’entreprise responsable doit équiper l’aéronef avec des buses limitant la dérive de la pulvérisation.\n\nL’entreprise responsable de la pulvérisation aérienne doit assurer l’enregistrement et l’archivage numérique des pulvérisations réalisées au moyen d’un système de géoréférencement. Les données sont à conserver par le demandeur pendant trois ans. A la demande des agents de contrôle énumérés à l’article 18 de la loi précitée du 19 décembre 2014, le demandeur doit remettre à ceux-ci le tracé imprimé sur un plan topographique ou sur une photographie aérienne récente.\n\nLe site de ravitaillement de l’aéronef doit être équipé d’une manche à air, d’un appareil de mesure de vitesse du vent et d’un thermomètre.",
+      "text_sha256": "14277442cf2c451547d736d827f75fca3355aac499a69f52a8e8e1febb81cb5a",
+      "md_span": {
+        "start": 3416,
+        "end": 4128
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rect/2015/01/22/n1/jo",
+          "text": "loi précitée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_6/20170516",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "**(1)** La réalisation de la pulvérisation aérienne est interdite si la vitesse du vent est supérieure à 5 mètres par seconde et si la température de l'air est supérieure à 25 degrés Celsius.\n\n**(2)** L’opérateur doit respecter une distance de sécurité de 20 mètres vis-à-vis des lieux suivants :\n\n1. er loi précitée du 19 décembre 2014\n2. parcs d'élevage de gibier ;\n3. points d'eau et captages d'eau potable ;\n4. bassins de pisciculture et d'aquaculture ;\n5. règlement (CE) n° 834/2007\n6. surfaces agricoles, viticoles, arboricoles ou horticoles pour lesquelles l’exploitant a demandé le respect du maintien d’une distance de sécurité.\n\nLes exploitants des surfaces mentionnées aux points 5 et 6 communiquent l’emplacement exact de ces surfaces au ministre avant le 1er septembre de l’année précédant la saison de pulvérisation aérienne.\n\n**(3)** La distance de sécurité par rapport aux zones protégées en vertu de la loi modifiée du 19 janvier 2004 relative à la protection de la nature et des ressources naturelles et en vertu de la loi modifiée du 19 décembre 2008 relative à l’eau, ainsi que par rapport aux eaux de surface permanentes est indiquée sur les cartes annexées au présent règlement.\n\n**(4)** Une distance de sécurité n’est pas à observer vis-à-vis des voies publiques à l’intérieur des ou contiguës aux zones couvertes par la pulvérisation aérienne.",
+      "text_sha256": "5bdd0193862ce97c009396415835898573fd7a261d5c4725b6775170c181bc88",
+      "md_span": {
+        "start": 4163,
+        "end": 5530
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/01/19/n1/jo",
+          "text": "loi modifiée du 19 janvier 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n17/jo",
+          "text": "loi modifiée du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_20170516",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_7_20170516",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_7/20170516",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Par dérogation à l’article 6, alinéa 2, point 2, la distance de sécurité est de 5 mètres pour l’année 2016.\n\nL’article 6, alinéa 2, points 8 et 9, est applicable à partir de la saison de pulvérisation aérienne 2017.",
+      "text_sha256": "fd722a76b92ce01f13c5cdb3460f984ee98eb18ec20f597007c64621b2f3298b",
+      "md_span": {
+        "start": 5574,
+        "end": 5789
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/art_8/20170516",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Notre Ministre de l’Agriculture, de la Viticulture et de la Protection des consommateurs et Notre Ministre de l’Environnement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "bd1819211f5226844b4882ad99d99e5854f4bfda1f4676c39ed0b678002eaad1",
+      "md_span": {
+        "start": 5824,
+        "end": 6058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2016-04-27-n4:2017-05-16--1866c5db5f3222dccc9f788259546c3a887470186b427788e399a0634473b34d#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe - Zone de pulvérisation aérienne",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6132,
+        "end": 6132
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,206 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 528/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2016-06-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0528/versions/2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81/en.xml",
+    "sha256": "946614028358fe0e5c44b2a5c596526a3590fd17109f0b5e0de9f4647838092c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0528-20160602"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Determination of the Own funds requirements for the non-delta risk of options and warrants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Institutions shall calculate their own funds requirements for market risk in relation to the non-delta risk of options or warrants as required by Article 329(3), Article 352(6) and Article 358(4) of Regulation (EU) No 575/2013, according to one of the following approaches:(a) the simplified approach as set out in Articles 2 and 3 of this Regulation;(b) the delta plus approach as set out in Articles 4, 5 and 6 of this Regulation;(c) the scenario approach as set out in Articles 7, 8 and 9 of this Regulation.\n\n**2.** When calculating own funds requirements on a consolidated basis institutions may combine the use of different approaches.On an individual basis, institutions may only combine the scenario approach and the delta plus approach subject to the conditions established in Articles 4 to 9.\n\n**3.** For the purposes of the calculation referred to in paragraph 1, institutions shall take the following steps:(a) break down baskets of options or warrants into their fundamental components;(b) break down caps and floors or other options which relate to interest rates at various dates, into a chain of independent options referring to different time periods (‘caplet’ and ‘floorlets’);(c) treat options or warrants on fixed-to-floating interest rates swaps into options or warrants on the fixed interest leg of the swap;(d) treat options or warrants that relate to more than one underlying among those described in Article 5(3), as a basket of options or warrants where each option has a single distinct underlying.",
+      "text_sha256": "6e03049796f1384ca968b386a41fe19a6b71e43df1bd5e07721545aaad108464",
+      "md_span": {
+        "start": 824,
+        "end": 2356
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Only institutions that exclusively purchase options and warrants may use the simplified approach.",
+      "text_sha256": "1486f9689c24f57a971736919fa51f26fa02cdf331e76d655db0c9089f82b456",
+      "md_span": {
+        "start": 2393,
+        "end": 2490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Determination of own funds requirements according to the simplified approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Institutions applying the simplified approach shall calculate the own funds requirements relative to non-delta risks of call and put options or warrants as the higher amount between zero and the difference between the following values:(a) the gross amount, as described in paragraphs 2 to 5;(b) the risk weighted delta equivalent amount, which shall be calculated as the market value of the underlying instrument, multiplied by the delta and then multiplied by one of the following relevant weightings:(i) for specific and general equity risk or interest rate risk, ►C1 according to Part Three,** ◄ ** Title IV, Chapter 2 of Regulation (EU) No 575/2013;(ii) for commodity risk, according to Part Three, Title IV, Chapter 4 of Regulation (EU) No 575/2013; and(iii) for foreign exchange risk, according to Part Three, Title IV, Chapter 3 of Regulation (EU) No 575/2013.\n\n**2.** For options or warrants which fall under one of the following two categories, the gross amount referred to in paragraph 1 shall be determined according to paragraphs 3 to 4:(a) where the buyer has the unconditional right to buy the underlying asset at a predetermined price at the expiration date or at any time before the expiration date, and where the seller has the obligation to fulfil the buyer's demand (‘simple call options or warrants’);(b) where the buyer has the unconditional right to sell the underlying asset in the same manner as described in point (a) (‘simple put options or warrants’).\n\n**3.** The gross amount referred to in paragraph 1 shall be calculated as the maximum between zero and the market value of the underlying security multiplied by the sum of specific and general market risk own funds requirements for the underlying minus the amount of the profit, if any, resulting from the instant execution of the option (‘in the money’), where one of the following conditions is met:(a) the option or warrant incorporates a right to sell the underlying asset (‘long put’) and is combined with holdings in the underlying asset (‘long position in the underlying instrument’);(b) the option or warrant incorporates a right to buy the underlying asset (‘long call’) and is combined with the promise to sell holdings in the underlying instrument (‘short position in the underlying asset’).\n\n**4.** Where the option or warrant incorporates a right to buy the underlying asset (‘long call’) or a right to sell the underlying asset (‘long put’), the gross amount referred to in paragraph 1 shall be the lesser of the following two amounts:(a) the market value of the underlying security multiplied by the sum of specific and general market risk requirements for the underlying asset;(b) the value of the position determined by the mark-to-market method or the mark-to-model method as provided in points (b) and (c) of Article 104(2) of Regulation (EU) No 575/2013 (‘market value of the option or warrant’).\n\n**5.** For all types of options or warrants which do not have the characteristics referred to in paragraph 2, the gross amount referred to in paragraph 1 shall be the market value of the option or warrant.",
+      "text_sha256": "17ec17f85706c4b1d29ca5e0d08eb4aa289e563dfa5cf76da8226bed983010a5",
+      "md_span": {
+        "start": 2606,
+        "end": 5716
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0528R%2801%29",
+          "text": "►C1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Overview of determination of own funds requirements according to the Delta-plus approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where institutions opt to apply the Delta-plus approach, for options and warrants whose gamma is a continuous function in the price of the underlying and whose vega is a continuous function in the implied volatility (‘continuous options and warrants’), the own funds requirements for non-delta risks on options or warrants shall be calculated as the sum of the following requirements:(a) the own funds requirements relating to the partial derivative of delta with reference to the price of the underlying which, for bond options or warrants is the partial derivative of delta with reference to the yield-to-maturity of the underlying bond, and for swaptions is the partial derivative of the delta with reference to the swap rate;(b) the requirement relating to the first partial derivative of the value of an option or warrant, with reference to the implied volatility.\n\n**2.** Implied volatility shall be taken to be the value of the volatility in the option or warrant pricing formula for which, given a certain pricing model and given the level of all other observable pricing parameters, the theoretical price of the option or warrant is equal to its market value, where ‘market value’ is understood in the manner described in Article 3(4).\n\n**3.** The own funds requirements for non-delta risks related to non-continuous options or warrants shall be determined as follows:(a) where the options or warrants have been bought, as the maximum amount between zero and the difference between the following values:(i) the market value of the option or warrant, understood in the manner described in Article 3(4);(ii) the risk weighted delta equivalent amount, understood in the manner described in Article 3(1)(b);(b) where the options or warrants have been sold, as the maximum between zero and the difference between the following amounts:(i) the relevant market value of the underlying asset, which shall be taken to be either the maximum possible payment at expiry date, if it is contractually fixed, or the market value of the underlying asset or the effective notional value if no maximum possible payment is contractually fixed;(ii) the risk weighted delta equivalent amount, understood in the manner described in Article 3(1)(b).\n\n**4.** The value for gamma and vega used in the calculation of own funds requirements shall be calculated using an appropriate pricing model as referred to in Article 329(1), Article 352(1) and Article 358(3) of Regulation (EU) No 575/2013 Where either gamma or vega cannot be calculated in accordance with this paragraph, the capital requirement on non-delta risks shall be calculated according to paragraph 3.",
+      "text_sha256": "35ce1e587314b3ec7a4ee29b8c66708104f9976a12e9e65edad058acc13e8125",
+      "md_span": {
+        "start": 5844,
+        "end": 8499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Determination of the Own funds requirements for gamma risk according to the Delta-plus approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of Article 4(1)(a), the own funds requirements for gamma risk shall be calculated by a process consisting of the following sequence of steps:(a) for each individual option or warrant a gamma impact shall be calculated;(b) the gamma impacts of individual options or warrants which refer to the same distinct underlying type shall be summed up;(c) the absolute value of the sum of all of the negative values resulting from step (b) shall provide the own funds requirements for gamma risk. Positive values resulting from step (b) shall be disregarded.\n\n**2.** For the purpose of the step in point (a) of paragraph 1, gamma impacts shall be calculated in accordance with the formula described in Annex I.\n\n**3.** For the purposes of the step in point (b) of paragraph 1, a distinct underlying type shall be:(a) for interest rates in the same currency: each maturity time band as set out in Table 2 of Article 339 of Regulation (EU) No 575/2013;(b) for equities and stock indices: each market as defined in the rules to be developed pursuant to Article 341 (3) of Regulation (EU) No 575/2013;(c) for foreign currencies and gold: each currency pair and gold;(d) for commodities: commodities considered identical as defined in Article 357(4) of Regulation (EU) No 575/2013.",
+      "text_sha256": "d4f7c4d81047348c52ecda8444af11859f6b6c75caf5e43dac2f4d77984159d3",
+      "md_span": {
+        "start": 8634,
+        "end": 9924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Determination of the Own funds requirements for vega risk according to the Delta-plus approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of Article 4(1)(b), the own funds requirement for vega risk shall be calculated by a process consisting of the following sequence of steps:\n\n(a) for each individual option the value of vega shall be determined;\n\n(b) for each individual option an assumed plus/minus 25 % shift in the implied volatility shall be calculated, where implied volatility shall be understood in the manner described in Article 4(2);\n\n(c) for each individual option the vega value resulting from the step in point (a) shall be multiplied by the assumed shift in implied volatility resulting from the step in point (b);\n\n(d) for each distinct underlying type, understood in the manner described in Article 5(3), the values resulting from the step in point (c) shall be summed up;\n\n(e) the sum of absolute values resulting from the step in point (d) shall provide the total own funds requirement for vega risk.",
+      "text_sha256": "1c256c29f49053e65e0b82c810792076953489da415a458856ed8cc6a53c6e8b",
+      "md_span": {
+        "start": 10058,
+        "end": 10958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Conditions of application of the scenario approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Institutions may use the scenario approach where they fulfil all of the following requirements:\n\n(a) they have established a risk control unit that monitors the risk of the options portfolio of the institutions and reports the results to the management;\n\n(b) they have notified competent authorities of a predefined scope of exposures to be covered by this approach consistently over time;\n\n(c) they integrate the results of the scenario approach in the internal reporting to the management of the institution.\n\n►C1 For the purposes of point (b),** ◄ ** institutions shall define the precise positions that are subject to the scenario approach, including the type of product or identified desk and portfolio, the distinctive risk management approach that applies to such positions, the dedicated IT application that applies to such positions, and a justification for the allocation of those positions to the scenario approach, with regard to those positions allocated to other approaches.",
+      "text_sha256": "031373b45519d7301e51ae51bcfb869a0a69506130fba3ee5841b37ddb9032ef",
+      "md_span": {
+        "start": 11048,
+        "end": 12036
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0528R%2801%29",
+          "text": "►C1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Definition of the scenario matrix according to the scenario approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For each distinct underlying type, as referred to in Article 5(3), an institution shall define a scenario matrix which contains a set of scenarios.\n\n**2.** The first dimension of the scenario matrix shall be the price changes in the underlying above and below its current value. That range of changes shall consist of the following:(a) for interest rate options or warrants, plus/minus the assumed change in interest rates set out in column 5 of Table 2 of Article 339 of Regulation (EU) No 575/2013;(b) for options or warrants on equity or equity indices, plus/minus the weighting provided in Article 343 of Regulation (EU) No 575/2013;(c) for foreign exchange and gold options or warrants, plus/minus the weighting indicated in Article 351 of Regulation (EU) No 575/2013 or, where appropriate, plus/minus the weighting indicated in Article 354 of Regulation (EU) No 575/2013;(d) for commodity options (warrants), plus/minus the weighting indicated in point (a) of Article 360(1) of Regulation (EU) No 575/2013.\n\n**3.** The price change scenarios in the underlying shall be defined by a grid of at least seven points which includes the current observation and divides the range indicated in paragraph 2 in equally spaced intervals.\n\n**4.** The second dimension of the scenario matrix shall be defined by volatility changes. The range of changes in volatilities shall be between plus/minus 25 % of the implied volatility, where implied volatility shall be understood as referred to in Article 4(2). That range shall be divided into a grid of at least three points which include a 0 % change and where the range is divided into equally spaced intervals.\n\n**5.** The scenario matrix is determined by all possible combinations of points, as referred to in paragraphs 3 and 4. Each combination shall constitute a single scenario.",
+      "text_sha256": "dd30e6dbcfcf0f57ed2eb88465d395f1a3ddcfacc71b7d33e7b5ea3defb32db3",
+      "md_span": {
+        "start": 12144,
+        "end": 13976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Determination of the own funds requirements according to the scenario approach",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "According to the scenario approach, the own funds requirement on non-delta risk of options or warrants shall be calculated through a process consisting of the following sequence of steps:\n\n(a) for each individual option or warrant, all the scenarios referred to in Article 8 shall be applied to calculate simulated net loss or gain corresponding to each scenario. That simulation shall be done using full revaluation methods, by simulating the price changes by the use of pricing models and without relying to local approximations of those models;\n\n(b) for each distinct underlying type, as referred to in Article 5(3), the values obtained as a result of the calculation in point (a) and referring to the individual scenarios, shall be aggregated;\n\n(c) for each distinct underlying type as referred to in Article 5(3), the ‘relevant scenario’ shall be calculated as the scenario for which the values determined in step (b) result in the largest loss, or the lowest gain if there are no losses;\n\n(d) for each distinct underlying type, as referred to in Article 5(3), the own funds requirements shall be calculated in accordance with the formula described in Annex II;\n\n(e) the total own funds requirement in the case of non-delta risk of options or warrants shall be the sum of the own fund requirements obtained from the calculation referred to in step (d) for all distinct underlying types as referred to in Article 5(3).",
+      "text_sha256": "562817d173df5c202f57ac72e696ed0072835f194513862d0ebef163b348b4fe",
+      "md_span": {
+        "start": 14094,
+        "end": 15516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0528:2016-06-02--9e418fd336f23a2aa8dc530516a75263b6f96398451c741f559739604e047f81#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 15574,
+        "end": 15716
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

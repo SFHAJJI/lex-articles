@@ -1,0 +1,133 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08",
+  "language": "en",
+  "title": "Council Directive 2013/24/EU of 13\u00A0May 2013 adapting certain directives in the field of co…",
+  "valid_from": "2017-07-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0024/versions/2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08/en.html",
+    "sha256": "2877a251e999da00f1e5975ed57fdf89b3eb826300d696b14bd7b48e94d26555",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013L0024-20170720"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Directives ►M1 —————** ◄ **►M2 —————** ◄ ** 2009/102/EC, ►M2 —————** ◄ ** are amended as set out in the Annex to this Directive.",
+      "text_sha256": "3497b523e0284c8289006d722fbea9968584aa3ad578da9906bad94c321b3f98",
+      "md_span": {
+        "start": 715,
+        "end": 843
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013L0034",
+          "text": "►M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017L1132",
+          "text": "►M2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall adopt and publish, by the date of accession of Croatia to the Union at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.\n\nThey shall apply those provisions from the date of accession of Croatia to the Union.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "ab4ebb6103765948897be37b61cd058fd800cba33a135baec6d9b2ceaa25a226",
+      "md_span": {
+        "start": 880,
+        "end": 1645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force subject to and as from the date of the entry into force of the Treaty of Accession of Croatia.",
+      "text_sha256": "93ef08101efe54c6e3c3fab717b8c32ba819da848754995391f6de8a1d2fcada",
+      "md_span": {
+        "start": 1682,
+        "end": 1814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 1851,
+        "end": 1900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32013l0024:2017-07-20--6c32f4a171d8cd52c8f27dc6e7a5fd5dfd5c813bcfe3679461967e8ffb5c6e08#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "PART A\n\n**COMPANY LAW**\n\n2. In Annex I to Directive 2009/102/EC, the following is inserted after the entry for France:\n\n‘— Croatia:\n\n“društvo s ograničenom odgovornošću, dioničko društvo,” ’.\n\nPART B\n\n**ACCOUNTING STANDARDS**",
+      "text_sha256": "5345bce98e1c4cd5aa98b1112f08049a286b20193c92016233b84d7b442197f7",
+      "md_span": {
+        "start": 1933,
+        "end": 2158
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017L1132",
+          "text": "32017L1132: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013L0024",
+          "text": "32013L0024"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013L0034",
+          "text": "32013L0034: DELETED"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

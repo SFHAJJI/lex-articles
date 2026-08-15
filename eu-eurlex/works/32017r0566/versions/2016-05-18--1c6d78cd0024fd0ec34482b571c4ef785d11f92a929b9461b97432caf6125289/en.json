@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0566:2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/566 of 18 May 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-05-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0566/versions/2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289/en.xml",
+    "sha256": "598c6a01cb029abb675bb757586528dd22d4b406f9ccb6744fc0e36104adef70",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0566"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0566:2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (a) | ‘order’ includes all input messages, including messages on submission, modification and cancellation sent to the trading system of a trading venue, relating to an order or a quote, but excluding cancellation messages sent subsequent to:(i)uncrossing in an auction;(ii)a loss of venue connectivity;(iii)the use of a kill functionality; |\n| --- | --- |\n| (i) | uncrossing in an auction; |\n| (ii) | a loss of venue connectivity; |\n| (iii) | the use of a kill functionality; |\n\n| (b) | ‘transaction’ means a totally or partially executed order; |\n| --- | --- |\n\n| (c) | ‘volume’ means the quantity of financial instruments traded expressed as any of the following:(i)the number of instruments for shares, depositary receipts, ETFs, certificates and other similar financial instruments;(ii)the nominal value for bonds and structured finance products;(iii)the number of lots size or contracts for derivatives;(iv)metric tonnes of carbon dioxide for emission allowances. |\n| --- | --- |\n| (i) | the number of instruments for shares, depositary receipts, ETFs, certificates and other similar financial instruments; |\n| (ii) | the nominal value for bonds and structured finance products; |\n| (iii) | the number of lots size or contracts for derivatives; |\n| (iv) | metric tonnes of carbon dioxide for emission allowances. |",
+      "text_sha256": "857ace5e471787fc9a576816deb89c03deee8f5b4a576f4aaab70dca2850f07c",
+      "md_span": {
+        "start": 706,
+        "end": 2116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0566:2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nTrading venues shall calculate the ratio of unexecuted orders to transactions effectively entered into the system by each of their members and participants for every financial instrument traded under an electronic continuous auction order book or a quote-driven or a hybrid trading system.",
+      "text_sha256": "ef3bd2dffb5f00ee5f5810204f51d967204fc8d07d28befe6252cdff7f716d26",
+      "md_span": {
+        "start": 2149,
+        "end": 2449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0566:2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Trading venues shall calculate the ratio of unexecuted orders to transactions for each of their members or participants at least at the end of every trading session in both of the following ways:\n\n| (a) | in volume terms | : | (total volume of orders/total volume of transactions) – 1; |\n| --- | --- | --- | --- |\n| (b) | in number terms | : | (total number of orders/total number of transactions) – 1. |\n\n2. The maximum ratio of unexecuted orders to transactions calculated by the trading venue shall be deemed to have been exceeded by a member or participant of the trading venue during a trading session if the trading activity of that member or participant in one specific instrument, taking into account all phases of the trading session, including the auctions, exceeds either or both of the two ratios set out in paragraph 1.\n\n3. Trading venues shall calculate the number of orders received from each member or participant following the counting methodology per order type set out in the Annex.\n\n4. Where a trading venue uses an order type which is not explicitly laid down in the Annex, it shall count the messages in accordance with the general system behind the counting methodology and on the basis of the most similar order type appearing in the Annex.",
+      "text_sha256": "592cc5a1f98776b4e9b14f7f8f77fac28fd063faf08f3ced32357e7e35f9b1da",
+      "md_span": {
+        "start": 2482,
+        "end": 3760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0566:2016-05-18--1c6d78cd0024fd0ec34482b571c4ef785d11f92a929b9461b97432caf6125289#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date that appears first in the second subparagraph of Article 93(1) of Directive 2014/65/EU.",
+      "text_sha256": "fee2ceb5600e8f1608bc6725079b8b9c5c0829de448a2a4e94d447bb00398f27",
+      "md_span": {
+        "start": 3793,
+        "end": 4058
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,1522 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2",
+  "language": "fr",
+  "title": "Loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés.",
+  "valid_from": "2023-07-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-07-23-n7/versions/2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2/fr.xml",
+    "sha256": "95007045d2aab7a338ef20f8c569b0cbd1a54899a164d42bb9e6e43f54a825c7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/consolide/20230728/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_1er/20160801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Du champ d’application et des dispositions générales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Pour l'application de la présente loi, seront considérés comme fonds d'investissement alternatifs réservés tous les organismes de placement collectif situés au Luxembourg:\n\n1. loi modifiée du 12 juillet 2013\n2. dont l'objet exclusif est le placement collectif de leurs fonds en valeurs dans le but de répartir les risques d'investissement et de faire bénéficier les investisseurs des résultats de la gestion de leurs actifs, et\n3. qui réservent leurs titres ou parts d'intérêts à un ou plusieurs investisseurs avertis, et\n4. dont les statuts, le règlement de gestion ou le contrat social prévoient qu'ils sont soumis aux dispositions de la présente loi.\n\nPar «gestion» au sens du point b), on entend une activité comprenant au moins le service de gestion de portefeuille.\n\n**(2)** Les fonds d'investissement alternatifs réservés peuvent revêtir les formes juridiques prévues aux chapitres 2, 3 et 4.",
+      "text_sha256": "699ed02a833d7082c2a8cc6d9289fe79e4c5e1b653ab7783a6bb9d281eb17851",
+      "md_span": {
+        "start": 710,
+        "end": 1617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_2/20230728",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Du champ d’application et des dispositions générales."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Est investisseur averti au sens de la présente loi, l'investisseur institutionnel, l'investisseur professionnel au sens de l’annexe II de la Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE, ci-après « directive 2014/65/UE », ainsi que tout autre investisseur qui répond aux conditions suivantes:\n\n1. il a déclaré par écrit son adhésion au statut d'investisseur averti et\n2. 1. il investit un minimum de 100.000 euros dans le fonds d'investissement alternatif réservé, ou\n2. règlement (UE) n° 575/2013 règlement (UE) n° 648/2012 directive 2014/65/UE directive 2009/65/CE directive 2011/61/UE directives 2003/41/CE 2009/65/CE n° 1060/2009 (UE) n° 1095/2010 directive 2011/61/UE\n\n**(2)** Les conditions du présent article ne s'appliquent pas aux dirigeants et aux autres personnes qui interviennent dans la gestion des fonds d'investissement alternatifs réservés.\n\n**(3)** Le fonds d'investissement alternatif réservé doit se doter des moyens nécessaires en vue d'assurer le respect des conditions prévues au paragraphe 1er.",
+      "text_sha256": "e134ac5f46abc45cd24879437237e52a77feede47badb52ebfb69ac3795d53d0",
+      "md_span": {
+        "start": 1652,
+        "end": 2817
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2014/65/jo",
+          "text": "Directive 2014/65/UE"
+        },
+        {
+          "href": "/eli/dir_ue/2002/92/jo",
+          "text": "directive 2002/92/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "directive 2011/61/UE"
+        },
+        {
+          "href": "/eli/dir_ue/2014/65/jo",
+          "text": "directive 2014/65/UE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_3/20160801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Du champ d’application et des dispositions générales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les fonds d'investissement alternatifs réservés sont considérés comme situés au Luxembourg lorsque le siège statutaire de la société de gestion du fonds commun de placement ou celui de la société d'investissement se trouve au Luxembourg. L'administration centrale doit être située au Luxembourg.",
+      "text_sha256": "d5f836c51b9e1204af396d40632f45a61b8a979c1d342df820acb9786e6b8858",
+      "md_span": {
+        "start": 2852,
+        "end": 3147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_4/20160801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Du champ d’application et des dispositions générales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Sous réserve de l'application de l'article 2, paragraphe 2, points c) et d) de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, tout fonds d'investissement alternatif réservé doit être géré par un gestionnaire, qui peut être soit un gestionnaire établi au Luxembourg agréé au titre du chapitre 2 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, soit un gestionnaire établi dans un autre Etat membre au sens de la directive 2011/61/UE ou dans un pays tiers agréé au titre du chapitre II de la directive 2011/61/UE, sous réserve de l'application de l'article 66, paragraphe 3 de ladite directive lorsque la gestion du fonds d'investissement alternatif réservé est assurée par un gestionnaire établi dans un pays tiers.\n\n**(2)** Le gestionnaire doit être déterminé conformément aux dispositions prévues à l'article 4 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs respectivement conformément aux dispositions de l'article 5 de la directive 2011/61/UE.\n\nLe gestionnaire doit être un gestionnaire externe au sens de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs. Ce gestionnaire externe doit être agréé conformément aux dispositions du chapitre 2 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs respectivement conformément aux dispositions du chapitre II de la directive 2011/61/UE.\n\n**(3)** En cas de retrait du gestionnaire intervenu de sa propre initiative ou de celle du fonds d'investissement alternatif réservé ou au cas où le gestionnaire n'est plus agréé comme requis par le paragraphe 2 ou en cas de faillite du gestionnaire, les administrateurs ou gérants du fonds d'investissement alternatif réservé ou sa société de gestion doivent prendre toutes mesures nécessaires pour que le gestionnaire soit remplacé par un autre gestionnaire qui remplit les conditions requises par le paragraphe 2. Si le gestionnaire n'est pas remplacé dans les 2 mois à partir du retrait du gestionnaire, les administrateurs ou gérants du fonds d'investissement alternatif réservé ou de sa société de gestion doivent demander au tribunal d'arrondissement siégeant en matière commerciale dans les 3 mois suivant le retrait du gestionnaire de prononcer la dissolution et la liquidation du fonds d'investissement alternatif réservé conformément à l'article 18.",
+      "text_sha256": "04ed5dbb4dfa8b25f50e0b4b47966dff4c264370ad4384875b2aa5c76d82c499",
+      "md_span": {
+        "start": 3182,
+        "end": 5701
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "directive 2011/61/UE"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "ladite directive"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_5/20160801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Du champ d’application et des dispositions générales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** La garde des actifs d'un fonds d'investissement alternatif réservé doit être confiée à un dépositaire désigné conformément aux dispositions de l'article 19 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.\n\n**(2)** Le dépositaire doit, soit avoir son siège statutaire au Luxembourg, soit y avoir une succursale, s'il a son siège statutaire dans un autre Etat membre de l'Union européenne.\n\n**(3)** Sans préjudice de la disposition prévue au deuxième alinéa du présent paragraphe, le dépositaire doit être un établissement de crédit ou une entreprise d'investissement au sens de la loi modifiée du 5 avril 1993 relative au secteur financier. Une entreprise d'investissement n'est éligible au titre de dépositaire que dans la mesure où cette entreprise d'investissement répond par ailleurs aux conditions prévues à l'article 19, paragraphe 3, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.\n\nPour les fonds d'investissement alternatifs réservés pour lesquels aucun droit au remboursement ne peut être exercé pendant une période de cinq ans suivant la date des investissements initiaux et qui, conformément à leur politique principale en matière d'investissements, n'investissent généralement pas dans des actifs qui doivent être conservés conformément à l'article 19, paragraphe 8, point a), de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ou qui investissent généralement dans des émetteurs ou des sociétés non cotées pour éventuellement en acquérir le contrôle conformément à l'article 24 de ladite loi, le dépositaire peut également être une entité de droit luxembourgeois qui a le statut de dépositaire professionnel d'actifs autres que des instruments financiers visé à l'article 26-1 de la loi modifiée du 5 avril 1993 relative au secteur financier.\n\nLe dépositaire doit justifier d'une expérience professionnelle adéquate en ce qu'il doit déjà exercer ces fonctions pour des organismes de placement collectif visés par la loi modifiée du 17 décembre 2010 sur les organismes de placement collectif, par la loi modifiée du 13 février 2007 sur les fonds d'investissement spécialisés ou par la loi modifiée du 15 juin 2004 relative à la société d'investissement en capital à risque. Cette exigence ne s'applique pas si le dépositaire a le statut de dépositaire professionnel d'actifs autres que des instruments financiers visé à l'article 26-1 de la loi modifiée du 5 avril 1993 relative au secteur financier.\n\n**(4)** Les missions et la responsabilité du dépositaire sont définies suivant les règles contenues dans l'article 19 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.\n\n**(5)** En cas de retrait du dépositaire intervenu de sa propre initiative ou de celle du fonds d'investissement alternatif réservé ou de sa société de gestion ou au cas où le dépositaire ne remplit plus les conditions énoncées aux paragraphes 2 et 3 ou en cas de faillite du dépositaire, les administrateurs ou gérants du fonds d'investissement alternatif réservé ou sa société de gestion doivent prendre toutes mesures nécessaires pour que le dépositaire soit remplacé par un autre dépositaire qui remplit les conditions requises par les paragraphes 2 et 3. Si le dépositaire n'est pas remplacé dans les 2 mois, les administrateurs ou gérants du fonds d'investissement réservé ou de sa société de gestion doivent demander au tribunal d'arrondissement siégeant en matière commerciale dans les 3 mois suivant le retrait du dépositaire de prononcer la dissolution et la liquidation du fonds d'investissement alternatif réservé conformément à l'article 35.",
+      "text_sha256": "d93792b31a481bbd9baeb9acd914fe55e8cac0fcc6c2e8c60d731973de650522",
+      "md_span": {
+        "start": 5736,
+        "end": 9498
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n9/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2007/02/13/n1/jo",
+          "text": "loi modifiée du 13 février 2007"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_6/20160801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Est réputée fonds commun de placement pour l'application de la présente loi, toute masse indivise de valeurs composée et gérée selon le principe de la répartition des risques pour le compte de propriétaires indivis qui ne sont engagés que jusqu'à concurrence de leur mise et dont les droits sont représentés par des parts réservées à un ou plusieurs investisseurs avertis.",
+      "text_sha256": "586a2d311fd33f50a78db2cf7dee78797cd8a99edc936e5fd3168d8921ce181f",
+      "md_span": {
+        "start": 9583,
+        "end": 9955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_7/20160801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le fonds commun de placement ne répond pas des obligations de la société de gestion ou des porteurs de parts; il ne répond que des obligations et frais mis expressément à sa charge par son règlement de gestion.",
+      "text_sha256": "91225e0f1ce034c5772a710efcc9a2a78bbf94d4894e937c27bd8197b71c31bc",
+      "md_span": {
+        "start": 9990,
+        "end": 10200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_8/20190722",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2019-07-22",
+      "text_md": "Un fonds commun de placement visé par la présente loi doit être géré par une société de gestion de droit luxembourgeois agréées conformément aux chapitres 15, 16 ou 18 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif.",
+      "text_sha256": "676694f5fc3ea7b66cacfda63f9f88a1a6cb0461606601d9a2abc67337abfb30",
+      "md_span": {
+        "start": 10235,
+        "end": 10491
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n9/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_9/20230728",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d'une ou de plusieurs quote-parts du fonds commun de placement qu'elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d'inscription des parts ou de fractions de parts sans limitation de fractionnement.\n\nLes droits attachés aux fractions de parts sont exercés au prorata de la fraction de part détenue à l'exception toutefois des droits de vote éventuels qui ne peuvent être exercés que par part entière. Les titres au porteur sont signés par la société de gestion et par le dépositaire.\n\nCes signatures peuvent être reproduites mécaniquement.\n\n**(2)** La propriété des parts sous forme de titres nominatifs ou au porteur s'établit et leur transmission s'opère suivant les règles prévues aux articles 430-4 et 430-6 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. Les droits sur les parts inscrites en compte-titres s'établissent et leur transmission s'opère suivant les règles prévues dans la loi du 6 avril 2013 relative aux titres dématérialisés et la loi modifiée du 1er août 2001 concernant la circulation de titres.\n\n**(3)** Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si le règlement de gestion le prévoit, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés.\n\nA moins d'une défense formelle exprimée dans le règlement de gestion, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur.\n\nSi le règlement de gestion le prévoit, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi du 6 avril 2013 relative aux titres dématérialisés.\n\nLes porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.",
+      "text_sha256": "63424958de056399eb8b41a9a64fff7ae1bb7b135c1e551c4050b45300068d9e",
+      "md_span": {
+        "start": 10526,
+        "end": 12705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2013/04/06/n1/jo",
+          "text": "loi du 6 avril 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2001/08/01/n9/jo",
+          "text": "loi modifiée du 1er août 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_10/20160801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** L'émission et, le cas échéant, le rachat des parts s'opèrent suivant les modalités et formes prévues dans le règlement de gestion.\n\n**(2)** L'émission et le rachat des parts sont interdits:\n\n1. pendant la période où il n'y a pas de société de gestion ou de dépositaire;\n2. en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant la société de gestion ou le dépositaire.",
+      "text_sha256": "4722c2c265ec302b1e4b081cd6b439674282cb7df31ae359d53cc92022fe0dde",
+      "md_span": {
+        "start": 12742,
+        "end": 13254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_11/20160801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sauf disposition contraire du règlement de gestion du fonds, l'évaluation des actifs du fonds commun de placement se base sur la juste valeur. Cette valeur doit être déterminée en suivant les modalités décrites au règlement de gestion.\n\nSans préjudice de l'alinéa précédent, l'évaluation des actifs des fonds communs de placement relevant de la présente loi se fait conformément aux règles contenues à l'article 17 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.",
+      "text_sha256": "1af2f8175a2efe96d61e99daf9cbd916c56bb8c17925a1f26c65defc76a10808",
+      "md_span": {
+        "start": 13291,
+        "end": 13809
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_12/20160801",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les porteurs de parts ou leurs créanciers ne peuvent pas exiger le partage ou la dissolution du fonds commun de placement.",
+      "text_sha256": "5f50d3ae14c9062da2c7f7cbf4989eec7f69be86853cd5cae347e8eacb7a8c48",
+      "md_span": {
+        "start": 13846,
+        "end": 13968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_13/20160801",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** La société de gestion établit le règlement de gestion du fonds commun de placement. Ce règlement doit être déposé au registre de commerce et des sociétés et sa publication au Recueil électronique des sociétés et associations est faite par une mention du dépôt de ce document, conformément aux dispositions du titre Ier, chapitre V*bis* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. Les clauses de ce règlement sont considérées comme acceptées par les porteurs de parts du fait même de l'acquisition de ces parts.\n\n**(2)** Le règlement de gestion du fonds commun de placement contient au moins les indications suivantes:\n\n1. la dénomination et la durée du fonds commun de placement, la dénomination de la société de gestion et du dépositaire;\n2. la politique d'investissement, en fonction des buts spécifiques qu'elle se propose et des critères dont elle s'inspire;\n3. la politique de distribution dans le cadre de l'article 16;\n4. les rémunérations et les dépenses que la société de gestion est habilitée à prélever sur le fonds, ainsi que le mode de calcul de ces rémunérations;\n5. les dispositions sur la publicité;\n6. la date de clôture des comptes du fonds commun de placement;\n7. les cas de dissolution du fonds commun de placement, sans préjudice des causes légales;\n8. les modalités d'amendement du règlement de gestion;\n9. les modalités d'émission et, le cas échéant, de rachat des parts;\n10. les règles applicables à l'évaluation et au calcul de la valeur nette d'inventaire par part.",
+      "text_sha256": "fab5ddd174da565875542274921a2cc4c36ed17d566adcffe6cb19f4cdf1ad21",
+      "md_span": {
+        "start": 14005,
+        "end": 15616
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_14/20160801",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** La société de gestion gère le fonds commun de placement en conformité avec le règlement de gestion et dans l'intérêt exclusif des porteurs de parts.\n\n**(2)** Elle agit en son propre nom, tout en indiquant qu'elle agit pour le compte du fonds commun de placement.\n\n**(3)** Elle exerce tous les droits attachés aux valeurs dont se compose le portefeuille du fonds commun de placement.",
+      "text_sha256": "619e0e345df95cab735a24a3c37261c3d4cb59eaa3fe1b4a770d9484c60b832a",
+      "md_span": {
+        "start": 15653,
+        "end": 16043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_15/20160801",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La société de gestion doit exécuter ses obligations avec la diligence d'un mandataire salarié. Elle répond, à l'égard des porteurs de parts, du préjudice résultant de l'inexécution ou de la mauvaise exécution de ses obligations.",
+      "text_sha256": "0375bdf15c2197083ebd50d3bd0c844b2b8408c384c7d12110c6cd3b48bc2b7f",
+      "md_span": {
+        "start": 16080,
+        "end": 16308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_16/20160801",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sauf stipulation contraire du règlement de gestion, les actifs nets du fonds commun de placement peuvent être distribués dans les limites de l'article 20.",
+      "text_sha256": "747b4464d9a371135e608ec991188d0f72065d3b873418073640770a6f5e0961",
+      "md_span": {
+        "start": 16345,
+        "end": 16499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_17/20160801",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La société de gestion et le dépositaire doivent, dans l'exercice de leurs fonctions respectives, agir de façon indépendante et exclusivement dans l'intérêt des participants.",
+      "text_sha256": "dfc3c0b1bd0660c7363f4ab6e1efc3bc3d3a9f22d0112ebb81e7d1585d6194eb",
+      "md_span": {
+        "start": 16536,
+        "end": 16709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_18/20160801",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les fonctions de la société de gestion ou du dépositaire à l'égard du fonds commun de placement prennent fin:\n\n1. en cas de retrait de la société de gestion, à la condition qu'elle soit remplacée par une autre société de gestion agréée au sens de l'article 8;\n2. en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la société de gestion; en attendant son remplacement qui doit avoir lieu dans les deux mois, il prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts;\n3. lorsque la société de gestion ou le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation;\n4. lorsque l'autorité de contrôle compétente retire son agrément à la société de gestion ou au dépositaire;\n5. dans tous les autres cas prévus par le règlement de gestion.",
+      "text_sha256": "cf461fb84d3570908db42ae99bd10a01c06c65104572ebae120320952e05dfb6",
+      "md_span": {
+        "start": 16746,
+        "end": 17662
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_19/20160801",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Le fonds commun de placement se trouve en état de liquidation:\n\n1. à l'échéance du délai éventuellement fixé par le règlement de gestion;\n2. en cas de cessation des fonctions de la société de gestion ou du dépositaire conformément aux points b), c), d) et e) de l'article 18, s'ils n'ont pas été remplacés dans les deux mois, sans préjudice du cas spécifique visé au point c) ci-dessous;\n3. en cas de faillite de la société de gestion;\n4. si l'actif net du fonds commun de placement est devenu inférieur pendant plus de six mois au quart du minimum légal prévu à l'article 20 ci-après;\n5. dans tous les autres cas prévus par le règlement de gestion.\n\n**(2)** Le fait entraînant l'état de liquidation est déposé sans retard dans le dossier du fonds commun de placement auprès du registre de commerce et des sociétés et publié par les soins de la société de gestion ou du dépositaire au Recueil électronique des sociétés et associations conformément aux dispositions du titre Ier, chapitre V*bis* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, et dans au moins deux journaux à diffusion adéquate, dont au moins un journal luxembourgeois, aux frais du fonds commun de placement.\n\n**(3)** Dès la survenance du fait entraînant l'état de liquidation du fonds commun de placement, l'émission des parts est interdite, sous peine de nullité. Le rachat des parts reste possible, si le traitement égalitaire des porteurs de parts peut être assuré.",
+      "text_sha256": "1e4f122a08a7a7655aa179f6f24bc14087a5f7506be2c332e59de63a6c3a674f",
+      "md_span": {
+        "start": 17699,
+        "end": 19252
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_20/20230728",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "L'actif net du fonds commun de placement ne peut être inférieur à 1.250.000 euros. Ce minimum doit être atteint dans un délai de vingt-quatre mois à partir de l'entrée en vigueur du règlement de gestion du fonds commun de placement.",
+      "text_sha256": "5ca37b9b92fb8872795f76f659a2b4ad858c4ed8723daaa787a542136def3228",
+      "md_span": {
+        "start": 19289,
+        "end": 19521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_21/20160801",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Ni la société de gestion, ni le dépositaire, agissant pour le compte de fonds communs de placement, ne peuvent accorder des crédits à des porteurs de parts du fonds commun de placement.",
+      "text_sha256": "bbc9f4bc5ef697be97ed9ffac192307a5251155b53226c249034da0c7c02ed9c",
+      "md_span": {
+        "start": 19558,
+        "end": 19743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_22/20160801",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Des fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La mention fonds commun de placement ou la mention FCP est complétée, pour les fonds tombant sous l'application de la présente loi, par celle de fonds d'investissement alternatif réservé ou FIAR.",
+      "text_sha256": "af1dc1be13ea6899d1d3d17f5d81b325159aba2fea6465d08fcea8cc574c14ef",
+      "md_span": {
+        "start": 19780,
+        "end": 19975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_23/20160801",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Par sociétés d'investissement à capital variable («SICAV») au sens de la présente loi, on entend les fonds d'investissement alternatifs réservés tels que définis à l'article 1er, paragraphe 1er:\n\n- qui ont adopté la forme d'une société anonyme, d'une société en commandite par actions, d'une société en commandite simple, d'une société en commandite spéciale, d'une société à responsabilité limitée ou d'une société coopérative organisée sous forme de société anonyme, et\n- dont les statuts ou le contrat social stipulent que le montant du capital est égal à tout moment à la valeur de l'actif net de la société.",
+      "text_sha256": "5acedd1c5f4094a3f2dc07042c87467f969096560590316ccf24532e89928102",
+      "md_span": {
+        "start": 20080,
+        "end": 20692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_24/20230728",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Les SICAV sont soumises aux dispositions générales applicables aux sociétés commerciales, pour autant qu'il n'y est pas dérogé par la présente loi.\n\n**(2)** Lorsque les statuts ou le contrat social d'une SICAV et toute modification qui y est apportée sont constatés dans un acte notarié, ce dernier est dressé en langue française, allemande ou anglaise au choix des comparants. Par dérogation aux dispositions de l'arrêté du 24 prairial, an XI, lorsque cet acte notarié est dressé en langue anglaise, l'obligation de joindre à cet acte une traduction en une langue officielle lorsqu'il est présenté à la formalité de l'enregistrement, ne s'applique pas. Cette obligation ne s'applique pas non plus pour tous les autres actes devant être constatés sous forme notariée, tels que les actes notariés dressant procès-verbal d'assemblées d'actionnaires d'une SICAV ou constatant un projet de fusion concernant une SICAV.\n\n**(3)** Par dérogation à l’article 461-6, alinéa 2, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, les SICAV relevant du présent chapitre et qui ont adopté la forme d'une société anonyme, d'une société en commandite par actions ou d'une société coopérative organisée sous forme de société anonyme ne sont pas tenues d'adresser les comptes annuels, de même que le rapport du réviseur d'entreprises agréé, le rapport de gestion et, le cas échéant, les observations du conseil de surveillance aux actionnaires en nom en même temps que la convocation à l'assemblée générale annuelle. La convocation indique l'endroit et les modalités de mise à disposition de ces documents aux actionnaires et précise que chaque actionnaire peut demander que les comptes annuels, de même que le rapport du réviseur d'entreprises agréé, le rapport de gestion et, le cas échéant, les observations du conseil de surveillance lui soient envoyés.\n\n**(4)** Pour les SICAV ayant adopté la forme d'une société anonyme, d'une société en commandite par actions ou d'une société coopérative organisée sous forme de société anonyme, les convocations aux assemblées générales des actionnaires peuvent prévoir que le quorum de présence à l'assemblée générale est déterminé en fonction des actions émises et en circulation le cinquième jour qui précède l'assemblée générale à vingt-quatre heures (heure de Luxembourg) (dénommé «date d'enregistrement»). Les droits des actionnaires de participer à une assemblée générale et d'exercer le droit de vote attaché à leurs actions sont déterminés en fonction des actions détenues par chaque actionnaire à la date d'enregistrement.",
+      "text_sha256": "aa5863a9651f07bb8cd44e6fcff9338439ccf794027b9a93b1ce3e3c31effae2",
+      "md_span": {
+        "start": 20729,
+        "end": 23316
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/a/1803/06/13/n1/jo",
+          "text": "arrêté du 24 prairial, an XI"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_25/20230728",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "Le capital souscrit de la SICAV, augmenté des primes d'émission ou la valeur de la mise constitutive de parts d'intérêts, ne peut être inférieur à 1.250.000 euros. Ce minimum doit être atteint dans un délai de vingt-quatre mois à partir de la constitution de la SICAV.",
+      "text_sha256": "acdecba4212f5326b5b352b58ed5860ec2e582a95ca66150f45e1dc9d5272b14",
+      "md_span": {
+        "start": 23353,
+        "end": 23621
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_26/20230728",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** La SICAV peut à tout moment émettre ses titres ou parts d'intérêts, sauf disposition contraire des statuts ou du contrat social.\n\n**(2)** L'émission et, le cas échéant, le rachat des titres ou parts d'intérêts s'opèrent suivant les modalités et formes prévues dans les statuts ou le contrat social.\n\n**(3)** Le capital d'une SICAV doit être entièrement souscrit et le montant de souscription doit être libéré de 5 pour cent au moins par action ou part par un versement en numéraire ou par un apport autre qu'en numéraire.\n\n**(4)** Sauf dispositions contraires dans les statuts ou le contrat social, l'évaluation des actifs de la SICAV se base sur la juste valeur. Cette valeur doit être déterminée en suivant les modalités décrites dans les statuts ou le contrat social.\n\nSans préjudice des dispositions qui précèdent, l'évaluation des actifs des SICAV relevant de la présente loi se fait conformément aux règles contenues à l'article 17 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs et dans les actes délégués prévus par la directive 2011/61/UE.\n\n**(5)** Les statuts ou le contrat social précisent les conditions dans lesquelles les émissions et les rachats peuvent être suspendus, sans préjudice des causes légales.\n\nL’émission et le rachat des titres ou parts d’intérêts sont interdits :\n\n1. pendant la période où la SICAV n’a pas de dépositaire ;\n2. en cas de mise en liquidation, de déclaration en faillite ou de demande d’admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d’une mesure analogue visant le dépositaire.\n\n**(6)** Les statuts ou le contrat social indiquent la nature des frais à charge de la SICAV.\n\n**(7)** Les titres ou parts d'intérêts d'une SICAV sont sans mention de valeur.\n\n**(8)** Le titre ou la part d'intérêts indique le montant minimum du capital social et ne comporte aucune indication quant à la valeur nominale ou quant à la part du capital social qu'elle représente.",
+      "text_sha256": "a532aab2d475cdfe2303b3ab19a9f025168c1989de9d85fd86e584c46e88dba9",
+      "md_span": {
+        "start": 23658,
+        "end": 25660
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "directive 2011/61/UE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_27/20160801",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Les variations du capital social se font de plein droit et sans mesures de publicité et d'inscription au registre de commerce et des sociétés.\n\n**(2)** Les remboursements aux investisseurs à la suite d'une réduction du capital social ne sont pas soumis à d'autre restriction que celle de l'article 29, paragraphe 1er.\n\n**(3)** En cas d'émission de titres ou de parts d'intérêts nouveaux, un droit de préférence ne peut être invoqué par les anciens actionnaires ou porteurs de parts, à moins que les statuts ne prévoient un tel droit par une disposition expresse.",
+      "text_sha256": "1bc57a81f1c5b0315860e368aa3518e92f2cabeab7a9e806b55b5e9acb0dd814",
+      "md_span": {
+        "start": 25697,
+        "end": 26267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_28/20160801",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Dans le cas où le capital de la SICAV est inférieur aux deux tiers du capital minimum tel que défini à l'article 25, les administrateurs ou gérants doivent soumettre la question de la dissolution de la SICAV à l'assemblée générale délibérant sans condition de présence et décidant à la majorité simple des titres ou parts représentés à l'assemblée.\n\n**(2)** Si le capital de la SICAV est inférieur au quart du capital minimum tel que défini à l'article 25, les administrateurs ou gérants doivent soumettre la question de la dissolution de la SICAV à l'assemblée générale délibérant sans condition de présence. La dissolution pourra être prononcée par les actionnaires ou porteurs de parts possédant un quart des titres ou parts d'intérêts représentés à l'assemblée.\n\n**(3)** La convocation doit se faire de façon que l'assemblée soit tenue dans un délai de quarante jours à partir de la constatation que le capital est devenu inférieur respectivement aux deux tiers ou au quart du capital minimum tel que défini à l'article 25.\n\n**(4)** Si les documents constitutifs de la SICAV ne prévoient pas d'assemblées générales et si le capital de la SICAV est inférieur au quart du capital minimum tel que défini à l'article 25 pendant une période excédant 2 mois, les administrateurs ou gérants doivent mettre le fonds d'investissement alternatif réservé en état de liquidation et, le cas échéant, à cet effet demander dans les 3 mois à partir de cette constatation au tribunal d'arrondissement siégeant en matière commerciale de prononcer la dissolution et la liquidation du fonds d'investissement alternatif réservé conformément à l'article 35.",
+      "text_sha256": "61d4346617a777619f674f7dffeb92f7140d85c38cdf8cd84da5d2732d216099",
+      "md_span": {
+        "start": 26304,
+        "end": 27951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_29/20160801",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Sauf stipulation contraire des statuts ou du contrat social, l'actif net de la SICAV peut être distribué dans les limites de l'article 25.\n\n**(2)** Les SICAV ne sont pas obligées de constituer une réserve légale.\n\n**(3)** Les SICAV ne sont pas assujetties à des règles en matière de versement d'acomptes sur dividendes autres que celles prévues par leurs statuts.",
+      "text_sha256": "41c0c867ded6cf86014795d41aea4b9fe4dc4c91a48f62445eadc2bc7c3106cd",
+      "md_span": {
+        "start": 27988,
+        "end": 28359
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_30/20160801",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La mention société en commandite par actions, société en commandite simple, société en commandite spéciale, société à responsabilité limitée, société anonyme ou société coopérative organisée sous forme de société anonyme est complétée, pour les sociétés tombant sous l'application de la présente loi, par celle de société d'investissement à capital variable-fonds d'investissement alternatif réservé ou celle de SICAV-FIAR.",
+      "text_sha256": "a142b0875001c1e7deb2b683204503bda5c4fed7bf9dc35b52f632bc61ed5161",
+      "md_span": {
+        "start": 28396,
+        "end": 28819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_31/20160801",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Des fonds d'investissement alternatifs réservés qui n'ont pas la forme juridique de SICAV ou de fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les fonds d'investissement alternatifs réservés, qui n'ont pas la forme juridique de SICAV ou de fonds communs de placement, sont soumis aux dispositions du présent chapitre.",
+      "text_sha256": "47b9d1f8f472dc864797d80c51cbf60793f325d15eaaa0738284a741c581c178",
+      "md_span": {
+        "start": 28998,
+        "end": 29172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_32/20230728",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Des fonds d'investissement alternatifs réservés qui n'ont pas la forme juridique de SICAV ou de fonds communs de placement."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Le capital souscrit, augmenté des primes d'émission, ou la valeur de la mise constitutive de parts d'intérêts des fonds d'investissement alternatifs réservés relevant du présent chapitre ne peut être inférieur à 1.250.000 euros. Ce minimum doit être atteint dans un délai de vingt-quatre mois à partir de leur constitution.\n\n**(2)** Dans le cas où le capital ou la valeur de la mise constitutive de parts d'intérêts est inférieur aux deux tiers du minimum légal tel que défini au paragraphe 1er, les administrateurs ou gérants doivent soumettre la question de la dissolution du fonds d'investissement alternatif réservé à l'assemblée générale délibérant sans condition de présence et décidant à la majorité simple des titres ou parts d'intérêts représentés à l'assemblée.\n\n**(3)** Dans le cas où le capital ou la valeur de la mise constitutive de parts d'intérêts est inférieur au quart du minimum légal tel que défini au paragraphe 1er, les administrateurs ou gérants doivent soumettre la question de la dissolution à l'assemblée générale délibérant sans condition de présence. La dissolution pourra être prononcée par les investisseurs possédant un quart des titres représentés à l'assemblée.\n\n**(4)** La convocation doit se faire de façon que l'assemblée soit tenue dans le délai de quarante jours à partir de la constatation que le capital ou la valeur de la mise constitutive de parts d'intérêts est devenu inférieur respectivement aux deux tiers ou au quart du minimum légal tel que défini au paragraphe 1er.\n\n**(5)** Si les documents constitutifs du fonds d'investissement alternatif réservé ne prévoient pas d'assemblées générales et si le capital ou la valeur de la mise constitutive de parts d'intérêts du fonds d'investissement alternatif réservé est inférieur au quart du minimum légal tel que défini au paragraphe 1er pendant une période excédant 2 mois, les administrateurs ou gérants doivent demander dans les 3 mois de cette constatation au tribunal d'arrondissement siégeant en matière commerciale de prononcer la dissolution et la liquidation du fonds d'investissement alternatif réservé conformément à l'article 35.\n\n**(6)** Dans la mesure où le fonds d'investissement alternatif réservé est constitué sous la forme d'une société anonyme, d'une société en commandite par actions ou d'une société à responsabilité limitée, son capital doit être entièrement souscrit et chaque action ou part doit être libérée de 5 pour cent au moins par un versement en numéraire ou par un apport en nature.",
+      "text_sha256": "bcb434b476eddd6c16311f5fc990ef2550cd162d35ae3a1243c7c904c370817e",
+      "md_span": {
+        "start": 29209,
+        "end": 31725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_33/20160801",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Des fonds d'investissement alternatifs réservés qui n'ont pas la forme juridique de SICAV ou de fonds communs de placement."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Sauf dispositions contraires dans les documents constitutifs, l'évaluation des actifs du fonds d'investissement alternatif réservé se base sur la juste valeur. Cette valeur doit être déterminée en suivant les modalités décrites dans les documents constitutifs.\n\nSans préjudice de l'alinéa précédent, l'évaluation des actifs des fonds d'investissement alternatifs réservés se fait conformément aux règles contenues à l'article 17 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs et dans les actes délégués prévus par la directive2011/61/UE.\n\n**(2)** L'article 24, paragraphes 2, 3 et 4, et l'article 26, paragraphe 5, sont applicables aux fonds d'investissement alternatifs réservés relevant du présent chapitre.\n\n**(3)** La dénomination des fonds d'investissement alternatifs réservés régis par le présent chapitre 4 est complétée par la mention de fonds d'investissement alternatif réservé ou FIAR.",
+      "text_sha256": "b9c8fb5135ca3293c58c4c1090e69de73e6ef3d7fb955ff4a1e3149e1e5815b0",
+      "md_span": {
+        "start": 31762,
+        "end": 32723
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "directive"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "2011/61/UE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_34/20230728",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — Des formalités de constitution des fonds d'investissement alternatifs réservés."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** La constitution de tout fonds d'investissement alternatif réservé doit être constatée par acte notarié dans les 5 jours ouvrables de sa constitution, sauf si le fonds d’investissement alternatif réservé est formé par acte notarié.\n\n**(2)** Dans les 15 jours ouvrables de leur constitution si le fonds d’investissement alternatif réservé est formé par acte notarié ou de la constatation de leur constitution par acte notarié, une mention de la constitution des fonds d'investissement alternatifs réservés, avec l'indication du gestionnaire qui les gère suivant l'article 4, doit être déposée au registre de commerce et des sociétés aux fins de publication au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\n**(3)** Les fonds d'investissement alternatifs réservés doivent se faire inscrire sur une liste tenue par le registre de commerce et des sociétés. Cette inscription doit intervenir dans les 20 jours ouvrables de leur constitution si le fonds d’investissement alternatif réservé est formé par acte notarié ou de la constatation par acte notarié de la constitution du fonds d'investissement alternatif réservé.\n\n**(3*bis*)** En cas de modification des indications communiquées aux fins de l’inscription sur la liste visée au paragraphe 3, le fonds d’investissement alternatif réservé en informe le registre de commerce et des sociétés dans un délai de vingt jours ouvrables après la mise en œuvre de ladite modification.\n\n**(4)** Les modalités de tenue de la liste pré-mentionnée et des indications à publier au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises sont arrêtées par règlement grand-ducal.",
+      "text_sha256": "2849aacc07cb8614ccfa26a08a16c327093044b8f2cc3cd2a8a4ed9f03bf2a05",
+      "md_span": {
+        "start": 32858,
+        "end": 34908
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_35/20160801",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Le tribunal d'arrondissement siégeant en matière commerciale prononce sur la demande du procureur d'Etat la dissolution et la liquidation des fonds d'investissement alternatifs réservés, qui poursuivent des activités contraires à la loi pénale ou qui contreviennent gravement aux dispositions de la présente loi, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ou des lois régissant les sociétés commerciales.\n\nEn ordonnant la liquidation, le tribunal nomme un juge-commissaire ainsi qu'un ou plusieurs liquidateurs. Il arrête le mode de liquidation. Il peut rendre applicables dans la mesure qu'il détermine les règles régissant la liquidation de la faillite. Le mode de liquidation peut être modifié par décision ultérieure, soit d'office, soit sur requête du ou des liquidateurs.\n\nLe tribunal arbitre les frais et honoraires des liquidateurs; il peut leur allouer des avances. Le jugement prononçant la dissolution et ordonnant la liquidation est exécutoire par provision.\n\n**(2)** Le ou les liquidateurs peuvent intenter et soutenir toutes actions pour le fonds d'investissement alternatif réservé, recevoir tous paiements, donner mainlevée avec ou sans quittance, réaliser toutes les valeurs du fonds d'investissement alternatif réservé et en faire le réemploi, créer ou endosser tous effets de commerce, transiger ou compromettre sur toutes contestations. Ils peuvent aliéner les immeubles du fonds d'investissement alternatif réservé par adjudication publique.\n\nIls peuvent, en outre, mais seulement avec l'autorisation du tribunal, hypothéquer les biens du fonds d'investissement alternatif réservé, les donner en gage, aliéner les immeubles du fonds d'investissement alternatif réservé, de gré à gré.\n\n**(3)** A partir du jugement, toutes actions mobilières ou immobilières, toutes voies d'exécution sur les meubles ou les immeubles ne pourront être suivies, intentées ou exercées que contre les liquidateurs.\n\nLe jugement de mise en liquidation arrête toutes saisies, à la requête des créanciers chirographaires et non privilégiés sur les meubles et immeubles.\n\n**(4)** Après le paiement ou la consignation des sommes nécessaires au paiement des dettes, les liquidateurs distribuent aux investisseurs les sommes ou valeurs qui leur reviennent.\n\n**(5)** Les liquidateurs peuvent convoquer de leur propre initiative et doivent convoquer, sur demande des investisseurs représentant au moins le quart des avoirs du fonds d'investissement alternatif réservé, une assemblée générale des investisseurs à l'effet de décider si, au lieu d'une liquidation pure et simple, il y a lieu de faire apport de l'actif du fonds d'investissement alternatif réservé en liquidation à un autre fonds d'investissement alternatif réservé. Cette décision est prise, à condition que l'assemblée générale soit composée d'un nombre d'investisseurs représentant la moitié au moins de la valeur de la mise constitutive ou du capital social, à la majorité des deux tiers des voix des investisseurs présents ou représentés.\n\n**(6)** Les décisions judiciaires prononçant la dissolution et ordonnant la liquidation d'un fonds d'investissement alternatif réservé sont publiées au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis* de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et dans deux journaux à diffusion adéquate, dont au moins un journal luxembourgeois, désignés par le tribunal. Ces publications sont faites à la diligence du ou des liquidateurs.\n\n**(7)** En cas d'absence ou d'insuffisance d'actifs, constatée par le juge-commissaire, les actes de procédure sont exempts de tous droits de greffe et d'enregistrement et les frais et honoraires des liquidateurs sont à charge du Trésor et liquidés comme frais judiciaires.\n\n**(8)** Les liquidateurs sont responsables tant envers les tiers qu'envers le fonds d'investissement alternatif réservé de l'exécution de leur mandat et des fautes commises par leur gestion.\n\n**(9)** Lorsque la liquidation est terminée, les liquidateurs font rapport au tribunal sur l'emploi des valeurs du fonds d'investissement alternatif réservé et soumettent les comptes et pièces à l'appui. Le tribunal nomme des commissaires pour examiner les documents. Il est statué, après le rapport des commissaires, sur la gestion des liquidateurs et sur la clôture de la liquidation.\n\nCelle-ci est publiée conformément au paragraphe 6. Cette publication comprend en outre:\n\n- l'indication de l'endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins;\n- l'indication des mesures prises conformément à l'article 37 en vue de la consignation des sommes et valeurs revenant aux créanciers, aux investisseurs ou associés dont la remise n'a pu leur être faite.\n\n**(10)** Toutes les actions contre les liquidateurs de fonds d'investissement alternatifs réservés, pris en cette qualité, se prescrivent par cinq ans à partir de la publication de la clôture des opérations de liquidation prévue au paragraphe 9.\n\nLes actions contre les liquidateurs, pour faits de leurs fonctions, se prescrivent par cinq ans à partir de ces faits ou, s'ils ont été celés par dol, à partir de la découverte de ces faits.\n\n**(11)** Les dispositions du présent article s'appliquent également aux fonds d'investissement alternatifs réservés qui n'ont pas demandé la publication et l'inscription sur la liste prévue à l'article 34 dans le délai y imparti.",
+      "text_sha256": "709db77af59572b9665e0277b63202a2f1048d43625b93ed86f97b845c22e2c3",
+      "md_span": {
+        "start": 35013,
+        "end": 40629
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_36/20160801",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Les fonds d'investissement alternatifs réservés sont, après leur dissolution, réputés exister pour les besoins de leur liquidation.\n\n**(2)** Toutes les pièces émanant d'un fonds d'investissement alternatif réservé en état de liquidation mentionnent qu'il est en liquidation.",
+      "text_sha256": "1c537d986e69d096544a2acaa933e3a853e59e9680bbaf4bdc99d2792e3e7492",
+      "md_span": {
+        "start": 40666,
+        "end": 40948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_37/20160801",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des sociétés d’investissement à capital variable."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "En cas de liquidation volontaire ou forcée d'un fonds d'investissement alternatif réservé, les sommes et valeurs revenant à des titres ou parts d'intérêts dont les détenteurs ne se sont pas présentés lors de la clôture des opérations de liquidation sont déposées à la Caisse de Consignation au profit de qui il appartiendra.",
+      "text_sha256": "a1e65767f9e91f9ac526583c6dad7e8ac93519a729bfd14cd905161fdc35a1a2",
+      "md_span": {
+        "start": 40985,
+        "end": 41309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_38/20230728",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — De l'établissement d'un document d'émission et d'un rapport annuel et des informations à communiquer aux investisseurs."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Le fonds d'investissement alternatif réservé et la société de gestion pour chacun des fonds communs de placement qu'elle gère doivent établir:\n\n- un document d'émission, et\n- un rapport annuel par exercice.\n\n**(2)** Le rapport annuel doit être mis à disposition des investisseurs dans les six mois, à compter de la fin de la période à laquelle ce rapport se réfère.\n\n**(3)** Au cas où un prospectus en vertu de la loi modifiée du 10 juillet 2005 relative aux prospectus pour valeurs mobilières a été publié, il n'y a plus d'obligation d'établir un document d'émission au sens de la présente loi.\n\n**(4)** Nonobstant les paragraphes 1er et 2 des articles 29 et 30 de la loi modifiée du 19 décembre 2002 relative au registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, les fonds d'investissement alternatifs réservés préparent leur rapport annuel selon le schéma repris en annexe. Les exigences de ce schéma ne sont pas applicables aux fonds d'investissement alternatifs réservés visés à l'article 48, paragraphe 1er. Le rapport annuel doit contenir un bilan ou un état du patrimoine, un compte ventilé des revenus et des dépenses de l'exercice, un rapport sur les activités de l'exercice écoulé ainsi que toute information significative permettant aux investisseurs de porter en connaissance de cause un jugement sur l'évolution de l'activité et les résultats du fonds d'investissement alternatif réservé. Les articles 56 et 57 de la loi modifiée du 19 décembre 2002 relative au registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises s'appliquent toutefois aux fonds d'investissement alternatifs réservés visés au chapitre 3 et au chapitre 4 de la présente loi.\n\nLe contenu du rapport annuel des fonds d'investissement alternatifs réservés est régi par les règles figurant à l'article 20 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.\n\n**(5)** Nonobstant l’article 1711-1 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, les fonds d'investissement alternatifs réservés ainsi que leurs filiales sont exempts de l'obligation de consolider les sociétés détenues à titre d'investissement.\n\n**(6)** Pour les fonds d'investissement alternatifs réservés, les apports autres qu'en numéraire font l'objet au moment de l'apport d'un rapport à établir par un réviseur d'entreprises agréé. Les conditions et les modalités prévues à l’article 420-10 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont applicables à l'établissement de ce rapport, nonobstant la forme juridique adoptée par le fonds d'investissement alternatif réservé concerné.",
+      "text_sha256": "de618d11b28bc907edb3d385fdba4c6b7e0832c32f691f2c5ccf564b322f1220",
+      "md_span": {
+        "start": 41484,
+        "end": 44224
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/07/10/n1/jo",
+          "text": "loi modifiée du 10 juillet 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_39/20160801",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — De l'établissement d'un document d'émission et d'un rapport annuel et des informations à communiquer aux investisseurs."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le document d'émission doit contenir les renseignements qui sont nécessaires pour que les investisseurs puissent juger en pleine connaissance de cause l'investissement qui leur est proposé et notamment les risques inhérents à celui-ci.\n\nLe document d'émission doit contenir une disposition bien visible sur sa page de couverture que le fonds d'investissement alternatif réservé n'est pas soumis à la surveillance d'une autorité de contrôle luxembourgeoise.",
+      "text_sha256": "d2d8e162d35bac1afbf6ea2265292740008f97fb5d21640d214ee74b4053f569",
+      "md_span": {
+        "start": 44261,
+        "end": 44717
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_40/20160801",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — De l'établissement d'un document d'émission et d'un rapport annuel et des informations à communiquer aux investisseurs."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les éléments essentiels du document d'émission doivent être tenus à jour au moment de l'émission de titres ou parts d'intérêts supplémentaires à de nouveaux investisseurs.",
+      "text_sha256": "eafab5f661269c6dbbf60a006168c080728ffcbd52a591237e0fd336b63af681",
+      "md_span": {
+        "start": 44754,
+        "end": 44925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_41/20160801",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — De l'établissement d'un document d'émission et d'un rapport annuel et des informations à communiquer aux investisseurs."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "En ce qui concerne les informations à communiquer aux investisseurs, les fonds d'investissement alternatifs réservés doivent se conformer aux règles contenues à l'article 21 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.",
+      "text_sha256": "0d6dd659317e3616d883891799a85d5629f86dbaecd26d07b8919c38b698f4c6",
+      "md_span": {
+        "start": 44962,
+        "end": 45239
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_42/20160801",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — De l'établissement d'un document d'émission et d'un rapport annuel et des informations à communiquer aux investisseurs."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Le document d'émission et le dernier rapport annuel publié sont remis sans frais aux souscripteurs qui le demandent.\n\n**(2)** Le rapport annuel est remis sans frais aux investisseurs qui le demandent.",
+      "text_sha256": "e07c7e95c123ddb0b76758fca7bd5113066bae09a8fff98b2246fe65f78e6144",
+      "md_span": {
+        "start": 45276,
+        "end": 45484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_43/20230728",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. — Du réviseur d'entreprises agréé."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Les fonds d'investissement alternatifs réservés doivent faire contrôler, par un réviseur d'entreprises agréé, les données comptables contenues dans leur rapport annuel.\n\nL'attestation du réviseur d'entreprises agréé et, le cas échéant, ses réserves sont reproduites intégralement dans chaque rapport annuel.\n\nLe réviseur d'entreprises agréé doit justifier d'une expérience professionnelle adéquate en ce qu'il doit déjà exercer ces fonctions pour des organismes de placement collectif visés par la loi modifiée du 17 décembre 2010 sur les organismes de placement collectif, par la loi modifiée du 13 février 2007 sur les fonds d'investissement spécialisés ou par la loi modifiée du 15 juin 2004 relative à la société d'investissement en capital à risque.\n\n**(2)** Le réviseur d'entreprises agréé est nommé et rémunéré par le fonds d'investissement alternatif réservé.\n\n**(3)** L'institution des commissaires prévue aux articles 443-1, 600-7, 811-2 et 710-27 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales est supprimée pour les sociétés d'investissement soumises à la présente loi. Les administrateurs ou gérants sont seuls compétents dans tous les cas où la loi modifiée du 10 août 1915 concernant les sociétés commerciales prévoit l'intervention des commissaires aux comptes et des administrateurs ou gérants réunis.\n\nL'institution des commissaires prévue à l’article 1100-15 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales est supprimée pour les sociétés d'investissement soumises à la présente loi. Lorsque la liquidation sera terminée, un rapport sur la liquidation sera établi par le réviseur d'entreprises agréé. Ce rapport sera présenté lors de l'assemblée générale lors de laquelle les liquidateurs feront leur rapport sur l'emploi des valeurs sociales et soumettront les comptes et pièces à l'appui. La même assemblée se prononcera sur l'acceptation des comptes de liquidation, sur la décharge et sur la clôture de la liquidation.",
+      "text_sha256": "2abfc5f3dcfc1303ad4f6d45bec9bb75133f0778b8a015d41c177182fa81bda0",
+      "md_span": {
+        "start": 45572,
+        "end": 47569
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n9/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2007/02/13/n1/jo",
+          "text": "loi modifiée du 13 février 2007"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_44/20160801",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — De la protection du nom."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Aucun organisme ne peut faire état d'appellations ou d'une qualification donnant l'apparence d'activités relevant de la législation sur les fonds d'investissement alternatifs réservés, s'il n'est pas inscrit sur la liste prévue par l'article 34.\n\n**(2)** Le tribunal d'arrondissement siégeant en matière commerciale du lieu où est situé le fonds d'investissement alternatif réservé ou du lieu où il est fait usage de l'appellation, à la requête du ministère public, peut interdire à quiconque de faire usage de l'appellation telle que définie au paragraphe 1er, lorsque les conditions prescrites par la présente loi ne sont pas ou ne sont plus remplies.\n\n**(3)** Le jugement ou l'arrêt coulé en force de chose jugée qui prononce cette interdiction est publié, par les soins du ministère public et aux frais de la personne condamnée, dans deux journaux luxembourgeois ou étrangers à diffusion adéquate.",
+      "text_sha256": "a5ff2ba0738f32c03e542f8df5d5b5fa99d7c1e3dd5c79bd3d597ece9bb79df5",
+      "md_span": {
+        "start": 47649,
+        "end": 48558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_45/20160801",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Des dispositions fiscales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** Sans préjudice de la perception des droits d'enregistrement et de transcription et de l'application de la législation nationale portant sur la taxe sur la valeur ajoutée et sous réserve des dispositions de l'article 48 de la présente loi, il n'est pas dû d'autre impôt par les fonds d'investissement alternatifs réservés, en dehors de la taxe d'abonnement visée à l'article 46.\n\n**(2)** Les distributions effectuées par les fonds d'investissement alternatifs réservés se font sans retenue à la source. Elles ne sont pas imposables dans le chef des contribuables non-résidents.",
+      "text_sha256": "278c3a1e50556fcf40471fc7ea76447d26435be01f06458aaffb3f242937e216",
+      "md_span": {
+        "start": 48641,
+        "end": 49225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_46/20230728",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Des dispositions fiscales."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "**(1)** Le taux de la taxe d'abonnement annuelle due par les fonds d'investissement alternatifs réservés est de 0,01 pour cent.\n\n**(2)** Sont exonérés de la taxe d'abonnement:\n\n1. loi modifiée du 17 décembre 2010 loi modifiée du 13 février 2007 Pour se voir appliquer l’exonération de la taxe d’abonnement sur la valeur des avoirs représentée par des parts d’autres organismes de placement collectif qui sont déjà soumises à la taxe d’abonnement, les organismes qui détiennent de telles parts doivent en indiquer séparément la valeur dans les déclarations périodiques qu’ils font à l’Administration de l’enregistrement, des domaines et de la TVA ;\n2. 1. règlement (UE) 2017/1131\n2. dont l'échéance résiduelle pondérée du portefeuille ne dépasse pas 90 jours; et\n3. qui bénéficient de la notation la plus élevée possible d'une agence de notation reconnue;\n3. 1. des institutions de retraite professionnelle, ou véhicules d'investissement similaires, créés sur l'initiative d'un ou de plusieurs employeurs pour le bénéfice de leurs salariés; et\n2. des sociétés d'un ou de plusieurs employeurs investissant les fonds qu'ils détiennent, pour fournir des prestations de retraite à leurs salariés;\n4. les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels des fonds d'investissement alternatifs réservés à compartiments multiples dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. Sont des institutions de microfinance au sens du présent point les institutions financières dont au moins la moitié des actifs est constituée par des investissements dans la microfinance ainsi que les organismes de placement collectif, les fonds d'investissement spécialisés et fonds d'investissement alternatifs réservés dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. a microfinance vise toute opération financière autre que les prêts à la consommation dont l'objectif est d'assister les populations pauvres exclues du système financier traditionnel par le financement de petites activités génératrices de revenus et dont la valeur ne dépasse pas 5.000 euros ;\n5. règlement (UE) 2015/760\n\nPour se voir appliquer ces exonérations, les fonds d'investissement alternatifs réservés doivent en indiquer séparément la valeur des avoirs nets éligibles dans les déclarations périodiques qu'ils font à l’Administration de l’enregistrement, des domaines et de la TVA.\n\n**(3)** La base d'imposition de la taxe d'abonnement est constituée par la totalité des avoirs nets des fonds d'investissement alternatifs réservés évalués au dernier jour de chaque trimestre.\n\n**(4)** Toute condition de poursuite d'un objectif exclusif posée par le présent article ne fait pas obstacle à la gestion de liquidités à titre accessoire, ni à l'usage de techniques et instruments employés à des fins de couverture ou aux fins d'une gestion efficace du portefeuille.",
+      "text_sha256": "ddafec61a313e872e720bf4b7a66ef52accf9f6c9593a4a05a4f8cf3ba7016af",
+      "md_span": {
+        "start": 49262,
+        "end": 52312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_47/20160801",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Des dispositions fiscales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "L'Administration de l'enregistrement et des domaines a dans ses attributions le contrôle fiscal des fonds d'investissement alternatifs réservés.\n\nSi, à une date postérieure à la constitution des fonds d'investissement alternatifs réservés, l'Administration de l'enregistrement et des domaines constate que les fonds d'investissement alternatifs réservés se livrent à des opérations qui dépassent le cadre des activités autorisées par la présente loi, les articles 45 et 46 cessent d'être applicables. En outre, l'Administration de l'enregistrement et des domaines peut percevoir une amende fiscale de 0,2 pour cent sur le montant intégral des avoirs des fonds d'investissement alternatifs réservés.",
+      "text_sha256": "2cb9bf81169e7973579429342effcfb9ea6e6bb89e8a0b6aeb420c41689d7dae",
+      "md_span": {
+        "start": 52349,
+        "end": 53047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_48/20160801",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Des dispositions fiscales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "**(1)** a) Les articles 45, paragraphe 1er, 46 et 47 ne s'appliquent pas aux fonds d'investissement alternatifs réservés visés aux chapitres 3 et 4, qui prévoient dans leurs documents constitutifs que leur objet exclusif est le placement de leurs fonds en valeurs représentatives de capital à risque et que les dispositions du présent article leur sont applicables. Par placement en capital à risque, on entend l'apport de fonds direct ou indirect à des entités en vue de leur lancement, de leur développement ou de leur introduction en bourse. Par dérogation aux dispositions de l'article 1er, les fonds d'investissement alternatifs réservés ou compartiments visés par le présent paragraphe ne sont pas obligés de répartir les risques d'investissement.\n\n1. Le réviseur d'entreprises agréé du fonds d'investissement alternatif réservé établira pour chaque exercice un rapport visant à certifier que pendant l'exercice écoulé, le fonds d'investissement alternatif réservé a respecté la politique d'investissement en capital à risque. Ce rapport sera transmis à l'Administration des Contributions directes.\n\n**(2)** Ne constituent pas des revenus imposables dans le chef d'une société de capitaux visée par le présent article, les revenus provenant des valeurs mobilières ainsi que les revenus dégagés par la cession, l'apport ou la liquidation de ces actifs. Les moins-values réalisées lors de la cession de valeurs mobilières ainsi que les moins-values non réalisées mais comptabilisées par suite de la réduction de valeur de ces actifs ne peuvent pas être déduites des revenus imposables de la société.\n\n**(3)** Ne constituent pas des revenus imposables dans le chef d'un fonds d'investissement alternatif réservé visé par le présent article, les revenus obtenus sur les fonds qui sont en attente pour être placés en capital à risque. Cette exemption ne s'applique que s'il peut être établi que les fonds en cause ont été effectivement placés en capital à risque et que pour une période de douze mois au plus immédiatement antérieure à leur placement en capital à risque.",
+      "text_sha256": "d31aaa389d4fe5a0ccebcf07fcaaf7a54c89661538874da2b76d81b243035d15",
+      "md_span": {
+        "start": 53084,
+        "end": 55156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_49/20190722",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Des dispositions spéciales relatives à la forme juridique."
+      ],
+      "article_valid_from": "2019-07-22",
+      "text_md": "**(1)** Les fonds d'investissement alternatifs réservés peuvent être constitués avec des compartiments multiples correspondant chacun à une partie distincte du patrimoine du fonds d'investissement alternatif réservé.\n\n**(2)** Dans les documents constitutifs du fonds d'investissement alternatif réservé, cette possibilité et les modalités y relatives doivent être prévues expressément. La politique d'investissement spécifique de chaque compartiment doit être décrite dans le document d'émission établi pour le fonds d'investissement alternatif réservé ou dans le document d'émission spécifique établi pour le compartiment concerné.\n\n**(3)** Les titres et parts d'intérêts des fonds d'investissement alternatifs réservés à compartiments multiples peuvent être de valeur inégale avec ou sans mention de valeur, selon la forme juridique choisie.\n\n**(4)** Les fonds communs de placement composés de plusieurs compartiments peuvent arrêter par un règlement de gestion distinct les caractéristiques et les règles applicables à chaque compartiment.\n\n**(5)** Les droits des investisseurs et des créanciers relatifs à un compartiment ou nés à l'occasion de la constitution, du fonctionnement ou de la liquidation d'un compartiment sont limités aux actifs de ce compartiment, sauf clause contraire des documents constitutifs.\n\nLes actifs d'un compartiment répondent exclusivement des droits des investisseurs relatifs à ce compartiment et ceux des créanciers dont la créance est née à l'occasion de la constitution, du fonctionnement ou de la liquidation de ce compartiment, sauf clause contraire des documents constitutifs.\n\nDans les relations entre investisseurs, chaque compartiment est traité comme une entité à part, sauf clause contraire des documents constitutifs.\n\n**(6)** Chaque compartiment d'un fonds d'investissement alternatif réservé peut être liquidé séparément sans qu'une telle liquidation ait pour effet d'entraîner la liquidation d'un autre compartiment. Seule la liquidation du dernier compartiment du fonds d'investissement alternatif réservé entraîne la liquidation du fonds d'investissement alternatif réservé au sens de l'article 35. Dans ce cas, lorsque le fonds d'investissement alternatif réservé revêt une forme sociétaire, dès la survenance du fait entraînant l'état de liquidation du fonds d'investissement alternatif réservé, et sous peine de nullité, l'émission des parts est interdite, sauf pour les besoins de la liquidation.\n\n**(7)** Un compartiment d'un fonds d'investissement alternatif réservé peut, aux conditions prévues dans le document d'émission, souscrire, acquérir et/ou détenir des titres ou parts d'intérêts à émettre ou émis par un ou plusieurs autres compartiments du même fonds d'investissement alternatif réservé, sans que ce fonds d'investissement alternatif réservé, lorsqu'il est constitué sous forme sociétaire, ne soit soumis aux exigences que pose la loi modifiée du 10 août 1915 concernant les sociétés commerciales en matière de souscription, acquisition et/ou détention par une société de ses propres actions mais sous réserve toutefois que:\n\n1. le compartiment cible n'investit pas à son tour dans le compartiment qui est investi dans ce compartiment cible, et\n2. le droit de vote éventuellement attaché aux titres ou parts d'intérêts concernés sera suspendu aussi longtemps qu'ils seront détenus par le compartiment en question et sans préjudice d'un traitement approprié dans la comptabilité et les rapports périodiques, et\n3. en toute hypothèse, aussi longtemps que ces titres ou parts d'intérêts seront détenus par le fonds d'investissement alternatif réservé, leur valeur ne sera pas prise en compte pour le calcul de l'actif net du fonds d'investissement alternatif réservé aux fins de vérification du seuil minimum des actifs nets imposé par la présente loi.\n\n**(8)** Un document d'émission séparé peut être établi pour chaque compartiment. Celui-ci doit indiquer que le fonds d'investissement alternatif réservé peut comprendre d'autres compartiments.\n\n**(9)** Un rapport annuel séparé peut être établi pour chaque compartiment à condition de comprendre, en outre des informations concernant le compartiment concerné, des données agrégées de tous les compartiments.\n\n**(10)** Les fonds d'investissement alternatifs réservés peuvent, sous réserve des autorisations réglementaires nécessaires, se transformer en organisme de placement collectif régi par la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, en fonds d'investissement spécialisé régi par la loi modifiée du 13 février 2007 relative aux fonds d'investissement spécialisés ou en société d'investissement en capital à risque visée par la loi modifiée du 15 juin 2004 relative à la société d'investissement en capital à risque et leurs documents constitutifs pourront être mis en harmonie avec les dispositions des lois pré-mentionnées, par résolution d'une assemblée générale réunissant les deux tiers des voix exprimées, quelle que soit la portion du capital représentée.\n\n**(11)** Les fonds d'investissement alternatifs de droit luxembourgeois autres que les fonds d'investissement alternatifs régis par la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, par la loi modifiée du 13 février 2007 relative aux fonds d'investissement spécialisés ou par la loi modifiée du 15 juin 2004 relative à la société d'investissement en capital à risque peuvent se transformer en fonds d'investissement alternatif réservé et leurs documents constitutifs pourront être mis en harmonie avec les dispositions de la présente loi, par résolution d'une assemblée générale réunissant les deux tiers des voix exprimées, quelle que soit la portion du capital représentée.\n\n**(12)** Les fonds communs de placement visés par la présente loi peuvent se transformer en SICAV et leurs documents constitutifs et d’émission peuvent être mis en harmonie avec les dispositions du chapitre 3, par résolution d’une assemblée générale des porteurs de parts réunissant les deux tiers des voix des porteurs de parts présents ou représentés, quelle que soit la portion de la valeur nette d’inventaire du fonds commun de placement représentée. Les convocations à une telle assemblée sont communiquées aux porteurs de parts conformément aux dispositions régissant la convocation d’assemblées générales d’actionnaires de sociétés anonymes telles que prévues aux articles 450-8 et 450-9 de la loi modifiée du 10 août 1915 sur les sociétés commerciales.",
+      "text_sha256": "6055c1754859da7e71c98344be74eaa96e4ba7c14c1bf953145f6e3f6f4078d6",
+      "md_span": {
+        "start": 55271,
+        "end": 61771
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n9/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2007/02/13/n1/jo",
+          "text": "loi modifiée du 13 février 2007"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_49bis",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_49bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_49bis/20230728",
+      "type": "article",
+      "num": "Art. 49bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 11*bis* — De la commercialisation sur le territoire du Luxembourg."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "Par dérogation à l’article 46, paragraphe 1er, lettre a), de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, les titres ou parts d’intérêts des fonds d’investissement alternatifs réservés peuvent être commercialisés par le gestionnaire sur le territoire du Luxembourg conformément à la présente loi.",
+      "text_sha256": "d32b7bc5d0fc30d8ae91bd4bd69901c567bba4d31bb4d9076b85b937c576513f",
+      "md_span": {
+        "start": 61894,
+        "end": 62246
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_50/20160801",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. — De la commercialisation et de la gestion transfrontalières."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La commercialisation par leur gestionnaire dans l'Union européenne des titres ou parts d'intérêts des fonds d'investissement alternatifs réservés ainsi que la gestion sur une base transfrontalière de ces fonds d'investissement alternatifs réservés sont régies par les dispositions énoncées au chapitre 6 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs pour les fonds d'investissement alternatifs réservés gérés par un gestionnaire établi au Luxembourg, respectivement par les dispositions énoncées aux chapitres VI et VII de la directive 2011/61/UE pour les fonds d'investissement alternatifs réservés gérés par un gestionnaire établi dans un autre Etat membre ou dans un pays tiers, sous réserve de l'application de l'article 66, paragraphe 3, de ladite directive lorsque le fonds d'investissement alternatif réservé est géré par un gestionnaire établi dans un pays tiers.",
+      "text_sha256": "6d1c984e6606901f0aafa7dbbdd893eb081e4a3de089bc8e1b951612dc168fdb",
+      "md_span": {
+        "start": 62362,
+        "end": 63290
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/07/12/n1/jo",
+          "text": "loi modifiée du 12 juillet 2013"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "directive 2011/61/UE"
+        },
+        {
+          "href": "/eli/dir_ue/2011/61/jo",
+          "text": "ladite directive"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_51/20160801",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement:\n\n1. ceux qui ont procédé ou fait procéder à l'émission ou au rachat des parts du fonds commun de placement dans les cas visés aux articles 10, paragraphe 2, et 19, paragraphe 3;\n2. er\n3. ceux qui, comme administrateurs, gérants ou commissaires de la société de gestion ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs du fonds commun de placement sur des parts du même fonds, ou qui ont fait, par un moyen quelconque, aux frais du fonds commun de placement, des versements en libération des parts ou admis comme faits des versements qui ne se sont pas effectués réellement;\n4. les administrateurs ou gérants de la société de gestion qui ont contrevenu à l'article 11.",
+      "text_sha256": "20687c6529d30076d8a424b646ff33e2b4734911bc5f993dcbd3e76cdb605d0f",
+      "md_span": {
+        "start": 63372,
+        "end": 64187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_52/20160801",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'une amende de 500 à 25.000 euros, ceux qui en violation de l'article 44 ont fait état d'une appellation ou d'une qualification donnant l'apparence d'activités soumises à la législation sur les fonds d'investissement alternatifs réservés s'ils ne sont pas inscrits sur la liste prévue par l'article 34.",
+      "text_sha256": "1b36b7cf0659e164f867bc5a2ab18690a6f8afb9a48d3559377a92e524d1ad24",
+      "md_span": {
+        "start": 64224,
+        "end": 64538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_53/20160801",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement, les fondateurs, administrateurs ou gérants d'une société d'investissement qui ont contrevenu aux articles 26, paragraphe 2, et 26, paragraphe 4.",
+      "text_sha256": "0b5e79fccf711654ef0da23cea395e02c5f36eaafb142ed8f956e533c245a5c5",
+      "md_span": {
+        "start": 64575,
+        "end": 64849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_54/20160801",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement, les administrateurs ou gérants d'une société d'investissement qui n'ont pas convoqué l'assemblée générale extraordinaire conformément à l'article 28 et à l'article 32, paragraphes 2, 3 et 4 ou qui n'ont pas respecté les articles 28, paragraphe 4, et 32, paragraphe 5.",
+      "text_sha256": "cb8151a2ce716cab0f149286e4459c3566a92d6cc507d06056c0311408c02454",
+      "md_span": {
+        "start": 64886,
+        "end": 65283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_55/20160801",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'un emprisonnement de trois mois à deux ans et d'une amende de 500 à 50.000 euros ou d'une de ces peines seulement, ceux qui ont procédé ou fait procéder à des opérations de collecte de fonds auprès d'investisseurs sans qu'ait été introduite, pour le fonds d'investissement alternatif réservé pour lequel ils ont agi, une demande de publication et d'inscription sur la liste prévues à l'article 34, paragraphes 1er et 2.",
+      "text_sha256": "7c423d22c84e122d560188b645b8fde25127c7e0724c0a809c1d6372a54f7155",
+      "md_span": {
+        "start": 65320,
+        "end": 65752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_56/20160801",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Des dispositions pénales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement, les administrateurs ou gérants d'un fonds d'investissement alternatif réservé ou de sa société de gestion, qui n'ont pas observé les obligations qui leur ont été imposées par la présente loi.",
+      "text_sha256": "bdb61b893d88977472dac8805c97b5e37f9d0c050d6429e59109bc119a496e2c",
+      "md_span": {
+        "start": 65789,
+        "end": 66110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_57/20160801",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le paragraphe 3, alinéa 1, numéro 5, de la loi modifiée du 16 octobre 1934 concernant l'impôt sur la fortune est modifié comme suit:",
+      "text_sha256": "1aa1cd8c100682ae70f4dbc399a1b4da35d6c77fb33c93bcdd3480a8c5bab302",
+      "md_span": {
+        "start": 66209,
+        "end": 66341
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1934/10/16/n1/jo",
+          "text": "loi modifiée du 16 octobre 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_58/20160801",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le paragraphe 2, alinéa 2, numéro 4, de la loi modifiée du 1er décembre 1936 concernant l'impôt commercial communal est modifié comme suit:",
+      "text_sha256": "f60d39c2d895015d5df9c561be7cef64c92c9cb80f7e7374d476e690553e0939",
+      "md_span": {
+        "start": 66378,
+        "end": 66517
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1936/12/01/n2/jo",
+          "text": "loi modifiée du 1er décembre 1936"
+        }
+      ]
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_59/20160801",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu est modifiée comme suit:\n\n1. er loi du 23 juillet 2016\n2. er loi du 23 juillet 2016\n3. bis er loi du 23 juillet 2016",
+      "text_sha256": "136f3f87181b53f7aeeeee399aaf0b79fbcf38899ae5f09404b960caaa85ba46",
+      "md_span": {
+        "start": 66554,
+        "end": 66738
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_60/20160801",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "L'article 29-2, paragraphe 1er, de la loi modifiée du 5 avril 1993 relative au secteur financier est modifié par l'ajout, à la suite des mots organismes de titrisation agréés, des termes fonds d'investissement alternatifs réservés,.",
+      "text_sha256": "15b7d02b456e4c98584ed4ea4043340213b183052deadc8e0c882061d7b162ca",
+      "md_span": {
+        "start": 66775,
+        "end": 67007
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_61/20160801",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "L'article 68 de la loi modifiée du 13 février 2007 relative aux fonds d'investissement spécialisés est modifié par l'ajout, à la fin de la lettre a) du paragraphe 2, des termes ou par l'article 46 de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés.",
+      "text_sha256": "679a4f074158eedbbe8ac3bde788d9f00a75a03c062648c1b6225d1b15bc2f99",
+      "md_span": {
+        "start": 67044,
+        "end": 67327
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2007/02/13/n1/jo",
+          "text": "loi modifiée du 13 février 2007"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n7/jo",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_62/20160801",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le point a) de l'article 175 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif est modifié par l'ajout, à la fin du point a), des termes ou par l'article 46 de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés.",
+      "text_sha256": "01b95888c4438256871ebd76632a3363848fdadb0451061c1617e12d94229b35",
+      "md_span": {
+        "start": 67364,
+        "end": 67645
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n9/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n7/jo",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_63/20160801",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2016-08-01",
+      "text_md": "La référence à la présente loi peut se faire sous forme abrégée en recourant à l'intitulé suivant: «loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés».",
+      "text_sha256": "fbdd1534c1e8595bee35863ad79822c18aefdf9e05176546d852bdb3fa19e51f",
+      "md_span": {
+        "start": 67682,
+        "end": 67863
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/art_64/20230728",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Des dispositions modificatives et finales."
+      ],
+      "article_valid_from": "2023-07-28",
+      "text_md": "L’article 46, paragraphe 2, lettre b), dans sa version applicable au 28 juillet 2023, reste applicable aux fonds d’investissement alternatifs réservés qui au 28 juillet 2023 ont bénéficié de l’exonération prévue à ladite lettre b).",
+      "text_sha256": "e7a220fc99ea37d62da1ec75310c882668349cf2a07a4d15693773d1079530d2",
+      "md_span": {
+        "start": 67900,
+        "end": 68131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2016-07-23-n7:2023-07-28--05f744f0e4fb55e0519795a8f92ed504f386f2dee5e7a783d47d702f77f0fca2#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Informations à insérer dans le rapport annuel par les fonds d’investissement alternatifs réservés autres que ceux soumis à l’article 48***\n\n1. 1. investissements,\n2. avoirs bancaires,\n3. autres actifs,\n4. total des actifs,\n5. passif,\n6. valeur nette d’inventaire.\n2. Nombre de parts en circulation.\n3. Valeur nette d’inventaire par part.\n4. Informations qualitatives ou quantitatives sur le portefeuille d’investissements permettant aux investisseurs de parts en connaissance de cause un jugement sur l’évolution de l’activité et les résultats du fonds d’investissement alternatif réservé.\n5. 1. revenus de placement,\n2. autres revenus,\n3. coûts de gestion,\n4. coûts de dépôt,\n5. autres charges, taxes et impôts,\n6. revenu net,\n7. revenus distribués et réinvestis,\n8. augmentation ou diminution du compte capital,\n9. plus-values ou moins-values de placements,\n10. toute autre modification affectant les actifs et les engagements du fonds d’investissement alternatif réservé.\n6. 1. la valeur nette d’inventaire globale,\n2. la valeur nette d’inventaire par part.",
+      "text_sha256": "81f041a0b8da25414d2d8b916214e1957af35b6ed706376cd04102f072749a49",
+      "md_span": {
+        "start": 68172,
+        "end": 69235
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

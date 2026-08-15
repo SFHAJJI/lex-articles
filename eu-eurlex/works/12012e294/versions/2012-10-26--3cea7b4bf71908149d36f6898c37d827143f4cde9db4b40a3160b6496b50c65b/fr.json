@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012e294:2012-10-26--3cea7b4bf71908149d36f6898c37d827143f4cde9db4b40a3160b6496b50c65b",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART SIX - INS…",
+  "valid_from": "2012-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012e294/versions/2012-10-26--3cea7b4bf71908149d36f6898c37d827143f4cde9db4b40a3160b6496b50c65b/fr.xml",
+    "sha256": "1def9860bbf99767c649528eacc060484ed65b016cb99c4e35e5a9636d366671",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E294"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012e294:2012-10-26--3cea7b4bf71908149d36f6898c37d827143f4cde9db4b40a3160b6496b50c65b#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.10.2012 FR Journal officiel de l'Union européenne C 326/1 TRAITÉ SUR LE FONCTIONNEMENT DE L'UNION EUROPÉENNE (VERSION CONSOLIDÉE) SIXIÈME PARTIE DISPOSITIONS INSTITUTIONNELLES ET FINANCIÈRES TITRE I DISPOSITIONS INSTITUTIONNELLES CHAPITRE 2 ACTES JURIDIQUES DE L'UNION, PROCÉDURES D'ADOPTION ET AUTRES DISPOSITIONS SECTION 2 PROCÉDURES D'ADOPTION DES ACTES ET AUTRES DISPOSITIONS Article 294 (ex-article 251 TCE) 1. Lorsque, dans les traités, il est fait référence à la procédure législative ordinaire pour l'adoption d'un acte, la procédure suivante est applicable. 2. La Commission présente une proposition au Parlement européen et au Conseil. 3. Le Parlement européen arrête sa position en première lecture et la transmet au Conseil. 4. Si le Conseil approuve la position du Parlement européen, l'acte concerné est adopté dans la formulation qui correspond à la position du Parlement européen. 5. Si le Conseil n'approuve pas la position du Parlement européen, il adopte sa position en première lecture et la transmet au Parlement européen. 6. Le Conseil informe pleinement le Parlement européen des raisons qui l'ont conduit à adopter sa position en première lecture. La Commission informe pleinement le Parlement européen de sa position. 7. Si, dans un délai de trois mois après cette transmission, le Parlement européen: a) approuve la position du Conseil en première lecture ou ne s'est pas prononcé, l'acte concerné est réputé adopté dans la formulation qui correspond à la position du Conseil; b) rejette, à la majorité des membres qui le composent, la position du Conseil en première lecture, l'acte proposé est réputé non adopté; c) propose, à la majorité des membres qui le composent, des amendements à la position du Conseil en première lecture, le texte ainsi amendé est transmis au Conseil et à la Commission, qui émet un avis sur ces amendements. 8. Si, dans un délai de trois mois après réception des amendements du Parlement européen, le Conseil, statuant à la majorité qualifiée: a) approuve tous ces amendements, l'acte concerné est réputé adopté; b) n'approuve pas tous les amendements, le président du Conseil, en accord avec le président du Parlement européen, convoque le comité de conciliation dans un délai de six semaines. 9. Le Conseil statue à l'unanimité sur les amendements ayant fait l'objet d'un avis négatif de la Commission. 10. Le comité de conciliation, qui réunit les membres du Conseil ou leurs représentants et autant de membres représentant le Parlement européen, a pour mission d'aboutir à un accord sur un projet commun à la majorité qualifiée des membres du Conseil ou de leurs représentants et à la majorité des membres représentant le Parlement européen dans un délai de six semaines à partir de sa convocation, sur la base des positions du Parlement européen et du Conseil en deuxième lecture. 11. La Commission participe aux travaux du comité de conciliation et prend toute initiative nécessaire en vue de promouvoir un rapprochement des positions du Parlement européen et du Conseil. 12. Si, dans un délai de six semaines après sa convocation, le comité de conciliation n'approuve pas de projet commun, l'acte proposé est réputé non adopté. 13. Si, dans ce délai, le comité de conciliation approuve un projet commun, le Parlement européen et le Conseil disposent chacun d'un délai de six semaines à compter de cette approbation pour adopter l'acte concerné conformément à ce projet, le Parlement européen statuant à la majorité des suffrages exprimés et le Conseil à la majorité qualifiée. À défaut, l'acte proposé est réputé non adopté. 14. Les délais de trois mois et de six semaines visés au présent article sont prolongés respectivement d'un mois et de deux semaines au maximum à l'initiative du Parlement européen ou du Conseil. 15. Lorsque, dans les cas prévus par les traités, un acte législatif est soumis à la procédure législative ordinaire sur initiative d'un groupe d'États membres, sur recommandation de la Banque centrale européenne ou sur demande de la Cour de justice, le paragraphe 2, le paragraphe 6, deuxième phrase, et le paragraphe 9 ne sont pas applicables. Dans ces cas, le Parlement européen et le Conseil transmettent à la Commission le projet d'acte ainsi que leurs positions en première et deuxième lectures. Le Parlement européen ou le Conseil peut demander l'avis de la Commission tout au long de la procédure, avis que la Commission peut également émettre de sa propre initiative. Elle peut également, si elle l'estime nécessaire, participer au comité de conciliation conformément au paragraphe 11.",
+      "text_sha256": "831c48e49a99885803a90c4741f4a982d0c3775313f344b66cdc8e218adb750c",
+      "md_span": {
+        "start": 713,
+        "end": 5293
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

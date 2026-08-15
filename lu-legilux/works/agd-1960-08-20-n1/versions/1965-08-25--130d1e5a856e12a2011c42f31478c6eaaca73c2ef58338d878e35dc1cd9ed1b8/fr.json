@@ -1,0 +1,1000 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8",
+  "language": "fr",
+  "title": "Version consolidée applicable au 10/11/1986 : Arrêté grand-ducal du 20 août 1960 portant règlement d'administration publique pour l'application de la loi du 30 juillet 1960 concernant la création d'un Fonds National de Solidarité.",
+  "valid_from": "1965-08-25",
+  "valid_to": "1986-11-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-1960-08-20-n1/versions/1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8/fr.xml",
+    "sha256": "c0b52584a067ebb6bcf872f84be5ad5b5a78a0183c17819ec4fc5e2d2ae15e2b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19650825/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_1er/19600824",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "I. — **Disposition préliminaire.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Dans le texte ci-après le Fonds National de Solidarité sera dénommé «le Fonds» et la loi du 30 juillet 1960 concernant la création de ce Fonds sera dénommée «la loi».",
+      "text_sha256": "23112489afaf794e1af812109c321718d183a625d3fb2011c969eef23ebc5bcc",
+      "md_span": {
+        "start": 833,
+        "end": 999
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi du 30 juillet 1960"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_2/19600824",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "II. — **Présentation et instruction des demandes; allocation des pensions.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Les requêtes en obtention d'une pension de solidarité sont à adresser au Fonds au moyen d'une formule, délivrée aux intéressés sur leur demande, par les secrétariats communaux ou par le Fonds.",
+      "text_sha256": "f15a32ebfccd5980504a2e06e67f465cbd3ae5776819c3b6bffb4c578b596005",
+      "md_span": {
+        "start": 1115,
+        "end": 1307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_3/19600824",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "II. — **Présentation et instruction des demandes; allocation des pensions.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "L'instruction des demandes comportera pour autant que de besoin une enquête auprès des intéressés, auprès des administrations communales et fiscales et auprès des organismes d'assistance et de sécurité sociale compétents.",
+      "text_sha256": "4587e7d7fde356248e23499055789be8ece55952df3d134df3b3a35e33600d65",
+      "md_span": {
+        "start": 1342,
+        "end": 1563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_4/19600824",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "II. — **Présentation et instruction des demandes; allocation des pensions.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Le Fonds peut demander à toute personne, institution ou entreprise de lui faire connaître dans le délai d'un mois le montant des pensions, retraites, rentes ou allocations périodiques, autres que celles accordées pour soins de santé, qu'elles sont tenues de servir aux personnes devant bénéficier d'une pension de solidarité.",
+      "text_sha256": "bdea92f4f4dce046a2eb359aa01bf0a8870e64c650cc62f94149ca43ff8dbd78",
+      "md_span": {
+        "start": 1598,
+        "end": 1923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_5/19600824",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "II. — **Présentation et instruction des demandes; allocation des pensions.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** La décision du Fonds sur une requête en obtention d'une pension doit être notifiée au requérant dans les trois mois de l'introduction de la requête.\n\n**(2)** Sans préjudice de la disposition de l'article 39, alinéa (1) de la loi, la pension sera accordée avec effet à partir du premier du mois suivant la date de la présentation de la requête au Fonds.",
+      "text_sha256": "2bd176a87cf52fc1c825d8320c425862ffe8bdc83c662c33e7eacf41bd6ad59e",
+      "md_span": {
+        "start": 1958,
+        "end": 2318
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_6/19600824",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "II. — **Présentation et instruction des demandes; allocation des pensions.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Les modifications des conditions d'attribution et des éléments de calcul des différentes pensions de solidarité sont à surveiller par le Fonds en vue des changements qu'elles entraînent pour les pensions.\n\n**(2)** Les bénéficiaires d'une pension sont tenus de signaler à cet effet au Fonds, dans le délai d'un mois, tous les faits qui seraient de nature à modifier leurs droits à pension.\n\n**(3)** Le Fonds organisera en outre dans le même but un contrôle périodique par enquête sur place et recueillera les renseignements utiles auprès des administrations communales et fiscales et auprès des organismes d'assistance et de sécurité sociale compétents.",
+      "text_sha256": "1b21476b7bf83e03333e743a4095768ef3569322fe3fa888073a3a93b6eaabe0",
+      "md_span": {
+        "start": 2353,
+        "end": 3013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_7/19600824",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le requérant d'une pension de solidarité doit déclarer au Fonds son revenu intégral ainsi que toute sa fortune, de même que le revenu et la fortune des personnes visées aux alinéas (2) et (3) de l'article 3 de la loi.\n\n**(2)** Ces personnes ou leurs représentants légaux certifieront sur la déclaration du requérant l'exactitude des indications y fournies à leur égard.",
+      "text_sha256": "eddb72e2fc42e952e35ab3104a40cd2606eafb112125325da72d43fbb51ed269",
+      "md_span": {
+        "start": 3225,
+        "end": 3602
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_8/19600824",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Sont à déclarer comme revenu tous les éléments considérés comme tels par la loi sur l'impôt sur le revenu, mais en faisant abstraction de tous abattements et exonérations et sans qu'il soit tenu compte de toute déduction ne correspondant pas à une charge réelle de la période considérée.\n\n**(2)** Sont notamment à déclarer:\n\n*a*) les revenus d'un travail régulier ou généralement d'une activité professionnelle régulière quelconque;\n\n*b*) les revenus de biens mobiliers et immobiliers;\n\n*c*) les rentes ou pensions accordées à un titre quelconque;\n\n*d*) les droits d'habitation, d'usufruit et d'entretien.",
+      "text_sha256": "aa18c6048b58d0c973a587dd898ff023db945218060455bd1baf4c4df8232e36",
+      "md_span": {
+        "start": 3637,
+        "end": 4250
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_9/19600824",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Sont à déclarer comme fortune tous les éléments considérés comme tels par la loi sur l'impôt sur la fortune, mais en faisant abstraction de tous abattements et exonérations et sans qu'il soit tenu compte de toute déduction ne correspondant pas à une charge réelle de la période considérée.\n\n**(2)** Sont notamment à déclarer:\n\n*a*) les moyens de payement selon la valeur nominale;\n\n*b*) les prêts, les avoirs en compte et généralement les créances selon leur valeur recouvrable;\n\n*c*) les actions, les parts de société, les obligations, selon leur valeur boursière ou, à défaut, selon leur valeur vénale réelle;\n\n*d*) les immeubles de toute nature, bâtis et non bâtis, suivant leur valeur vénale;\n\n*e*) les métaux précieux, les bijoux, perles, pierres précieuses, les objets de luxe, d'art, les collections, suivant leur valeur vénale;\n\n*f*) le gros bétail, suivant sa valeur marchande.",
+      "text_sha256": "6f7f2725954b581a109c06ce9aa746fd3aa98123e866935499ce180af5755301",
+      "md_span": {
+        "start": 4285,
+        "end": 5179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_10/19600824",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Sont à déclarer les donations directes ou indirectes faites par le requérant ou par les personnes visées aux alinéas (2) et (3) de l'article 3 de la loi. A la demande du Fonds les actes de donation sont à lui soumettre.\n\n**(2)** Le Fonds devra sans délai et par lettre recommandée communiquer aux donataires les déclarations faites à leur sujet et les rendre attentifs aux dispositions de l'article 12 alinéa (1) *c*) de la loi.",
+      "text_sha256": "2d1d44e343d341a28956262ac227bddd67be8e8ca779fdd5e8d74bba380b8d26",
+      "md_span": {
+        "start": 5216,
+        "end": 5652
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_11/19600824",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Sont à déclarer les personnes tenues à l'obligation alimentaire et visées par l'article 7 de la loi. La déclaration devra fournir dans la mesure du possible les précisions nécessaires sur l'état de famille, le revenu et la fortune de ces personnes.",
+      "text_sha256": "4769e9c3a2ed6272d59cf8d770475a038e55a0a3699458388394c3870f3b6e7d",
+      "md_span": {
+        "start": 5689,
+        "end": 5937
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_12/19600824",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** La valeur vénale de la fortune mobilière sera déterminée par le Fonds d'après les règles admises par l'administration des contributions.\n\n**(2)** La valeur vénale des immeubles sera obtenue par multiplication de la valeur unitaire établie par le service de l'évaluation des immeubles de l'administration des contributions, avec le coefficient correspondant du tableau annexé A qui fait corps avec le présent arrêté. Cette valeur pourra être rectifiée soit d'office, soit à la demande de l'intéressé, sur expertise ordonnée par le Fonds.",
+      "text_sha256": "2c6952fc12d801ed815dede4d0d78c587cb7ccc874cc7194c0432680bb0bc416",
+      "md_span": {
+        "start": 5974,
+        "end": 6518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_13/19600824",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Les revenus en nature, tels que logement et nourriture sont évalués eu égard à l'importance des prestations servies.\n\n**(2)** La valeur des prestations en nature comprenant l'entretien complet ne pourra toutefois être fixée, lorsqu'il s'agit d'une personne seule, à un montant inférieur à mille deux cents francs par mois pour les hommes et à mille francs pour les femmes. La valeur du logement comprise dans ces chiffres ne peut être inférieure à cent cinquante francs par chambre. Les chiffres qui précèdent correspondent à l'indice cent trente.",
+      "text_sha256": "e6eec2a9d39ae7f4092a679cc27b8f96b886f2099ef75c4c05e1a2c154646994",
+      "md_span": {
+        "start": 6555,
+        "end": 7110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_14/19600824",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Les ressources résultant de la fortune se déterminent par conversion en rente vi gère immédiate de la valeur globale de la fortune au moyen des multiplicateurs résultant des barèmes annexés B et C qui font corps avec le présent arrêté. Cette rente viagère ne pourra cependant en aucun cas être inférieure au revenu effectif retiré de cette fortune.\n\n**(2)** En cas d'application de l'article 6 alinéa (2) de la loi il sera seulement tenu compte du loyer ou de la valeur locative de la partie de l'immeuble dépassant les besoins du requérant et de sa famille.",
+      "text_sha256": "939ae4cfa45590f2a42ad356932182fbb0be7b64d7368b5aad47fe27d540f8a8",
+      "md_span": {
+        "start": 7147,
+        "end": 7713
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_15/19600824",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Le Fonds portera en déduction du revenu les charges réelles de la période considérée. Seront notamment considérés comme telles:\n\n*a*) les frais d'obtention justifiés;\n\n*b*) les intérêts des dettes;\n\n*c*) les frais de maladie grave ou d'infirmité à charge du requérant, dans la mesure où ils ne sont pas couverts soit par voie d'une assurance maladie, soit par les dispositions des littéra *b*) ou c) de l'alinéa (2) de l'article 3 de la loi, soit par toute autre voie.",
+      "text_sha256": "7f2a7b26400fd204f2de1bf7ba0ad4e629c7d25bf25d58a5c0634aa5c26eb66c",
+      "md_span": {
+        "start": 7750,
+        "end": 8218
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_16/19600824",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Ne sont en outre pas comptés comme revenu:\n\n*a*) la valeur locative de l'habitation occupée par le requérant et sa famille dans la maison dont il est propriétaire, dans la mesure où cette habitation ne dépasse pas ses besoins ou ceux de sa famille, conformément à l'alinéa (1) de l'article 6 de la loi;\n\n*b*) les secours bénévoles alloués au titre de l'assistance publique par l'Etat, les communes et les bureaux de bienfaisance, ni les secours alloués par des oeuvres de bienfaisance, conformément à l'alinéa (7) de l'article 5 de la loi.",
+      "text_sha256": "130582d3efb5f256ca0fd28985a04662f4a39cb030b485730febfc9271d651cd",
+      "md_span": {
+        "start": 8255,
+        "end": 8794
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_17/19600824",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "III. — **Détermination du revenu global annuel à prendre en considération pour le calcul d'une pension de solidarité ou d'une allocation visée par l'article 37 de la loi.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Le revenu global annuel sera obtenu par addition des ressources déterminées par le Fonds selon les règles qui précèdent. Le chiffre sera arrondi au multiple de cent francs immédiatement inférieur.",
+      "text_sha256": "c22678ade34846b53f264e7b8d25f1228be932b93a9ff43ed1c739c168215ada",
+      "md_span": {
+        "start": 8831,
+        "end": 9027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_18/19600824",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "IV. — **Prise en compte des créances alimentaires.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le Fonds invite les débiteurs d'aliments visés par l'article 7 de la loi à indiquer l'aide qu'ils peuvent allouer au requérant ou à prouver, le cas échéant, qu'ils ne sont pas en mesure d'apporter une telle aide.\n\n**(2)** Le Fonds peut faire une enquête sur la situation du débiteur d'aliments en faisant appel aux moyens d'investigation indiqués à l'article 3 du présent arrêté.",
+      "text_sha256": "1a0ab3a69f9a8147bc9da8cd275f99d47c172fb8b2011eca2495feb4d1ac90d4",
+      "md_span": {
+        "start": 9121,
+        "end": 9508
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_19/19600824",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "IV. — **Prise en compte des créances alimentaires.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Si l'aide apportée au requérant par les débiteurs d'aliments paraît insuffisante au Fonds, ce dernier invite les débiteurs à en accroître le montant.\n\n**(2)** En cas de refus de la part des intéressés, le Fonds peut intenter l'action en justice, prévue par l'article 7, alinéa (2) de la loi, après une mise en demeure en due forme.",
+      "text_sha256": "bd97e25ed313d94457aed0602e81691742c96a6bdacfd318ba2cc306490da073",
+      "md_span": {
+        "start": 9545,
+        "end": 9884
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_20/19600824",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "IV. — **Prise en compte des créances alimentaires.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Aucune action en justice ne pourra être intentée contre le débiteur d'aliments qui ne dispose que d'un revenu au sens du paragraphe 2, alinéa 2 de la loi sur l'impôt sur le revenu, inférieur à une fois et demie le salaire minimum légal.\n\n**(2)** Pour sa décision le Fonds tiendra compte, non seulement de la situation de fortune du débiteur d'aliments, mais encore de tous autres éléments tels que charge d'enfants ou maladie pouvant justifier le refus du débiteur de s'acquitter de sa dette d'aliments.",
+      "text_sha256": "e29a419d4936af27165d74b9829f4d735779f1c0c6233828226474ef1ddb0238",
+      "md_span": {
+        "start": 9921,
+        "end": 10432
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi sur l'impôt sur le revenu"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_21/19600824",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "IV. — **Prise en compte des créances alimentaires.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Le Fonds surveillera la situation du débiteur d'aliments en vue d'une éventuelle adaptation de ses obligations.",
+      "text_sha256": "ace275112442830ef0ecb3fd3bed4c59232bfb97fb65db82f0bfdad5835b45f0",
+      "md_span": {
+        "start": 10469,
+        "end": 10580
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_22/19600824",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Si le bénéficiaire d'une pension de solidarité revient à meilleure fortune dans une mesure telle qu'il pourra restituer tout ou partie des arrérages touchés de la part du Fonds, il sera tenu de le faire.\n\n**(2)** En cas de refus de sa part, une action en restitution ne pourra cependant être intentée contre lui par le Fonds que pour les arrérages dépassant trente mille francs.",
+      "text_sha256": "957169e4f66a03da3e2715a8c71fe8df2a770d7cb73708c8daf7bd78da5b3ff2",
+      "md_span": {
+        "start": 10694,
+        "end": 11080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_23/19650825",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1965-08-25",
+      "text_md": "**(I)** Lorsque la succession d´un bénéficiaire de pension échoit en tout ou en partie à des successeurs en ligne directe ou au conjoint survivant, le Fonds ne pourra faire valoir aucune demande en restitution pour une première tranche d´arrérages fixée à cent cinquante mille francs s´il n´y a qu´un seul successeur ou que le conjoint survivant. Ce montant est majoré de cinquante mille francs pour chaque personne supplémentaire ainsi appelée à la succession étant entendu que le total immunisé ne pourra pas dépasser trois cent mille francs.\n\n**(2)** A défaut de successeurs en ligne directe et de conjoint survivant, le Fonds ne pourra faire valoir aucune demande en restitution pour une tranche d´arrérages de cinquante mille francs, sans distinction du nombre de successeurs entrant en ligne de compte.\n\n**(3)** Si le conjoint survivant ou un successeur en ligne directe mineur a été en tout ou en partie à charge du défunt au moment du décès et s´il justifie qu´il dispose d´un revenu au sens du paragraphe 2, alinéa 2 de la loi sur l´impôt sur le revenu inférieur à une fois et demie le salaire minimum légal, aucune restitution ne peut être demandée pour une part proportionnelle à ses droits dans la succession. L´avantage qui résulte de cette disposition doit revenir entièrement à ce successeur.",
+      "text_sha256": "b9f3e81875f9c186de8a3bd8c483db32c937d2b47dad972de0730cd4f02224dc",
+      "md_span": {
+        "start": 11117,
+        "end": 12424
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi sur l´impôt sur le revenu"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_24/19600824",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Les limites tracées à l'action en restitution dans l'article 23 s'appliquent également au donataire et au légataire du bénéficiaire d'une pension, s'il a la qualité d'héritier ou de successeur, même renonçant.",
+      "text_sha256": "3212b78555ed1893344256ba5f97f7afbdb3db043734b31fd63f1111b9ffe152",
+      "md_span": {
+        "start": 12461,
+        "end": 12670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_25/19650825",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1965-08-25",
+      "text_md": "Le Fonds ne pourra faire inscrire l´hypothèque légale, prévue par l´article 13 de la loi pour garantie des demandes en restitution des pensions que pour les montants d´arrérages qui dépassent la tranche immunisée, prévue par les alinéas (I) et (2) de l´article 23 et seulement si la valeur globale des biens du bénéficiaire de la pension est supérieure à deux cent mille francs.",
+      "text_sha256": "e433cd4682ac3502f64a75edcb2a17476378e8608086a41df7cfdf15082cce81",
+      "md_span": {
+        "start": 12707,
+        "end": 13085
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_26/19600824",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Si plusieurs immeubles sont disponibles pour l'inscription de cette hypothèque, l'inscription peut n'être prise que sur l'un ou certains d'entre eux du moment que la valeur immobilière ainsi grevée couvre en totalité la créance à garantir. Parmi les immeubles disponibles le Fonds choisira celui ou ceux qui représentent la meilleure garantie pour la créance à couvrir.",
+      "text_sha256": "34385513dbcd6e7d2d85f5a68dec9440e9c1eb420282a0be5f011d5f4954f96b",
+      "md_span": {
+        "start": 13122,
+        "end": 13491
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_27/19600824",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Dans le cas d'un ménage de parents ou alliés, visé par l'article 3 alinéa (3) de la loi, l'inscription de l'hypothèque sera faite sur les biens immobiliers de chaque intéressé pour sa part de la pension allouée.\n\n**(2)** Pour l'évaluation de cette part, la pension totale sera divisée en portions égales. Chaque portion sera ensuite capitalisée d'après les dispositions de l'article 13 alinéa (2) de la loi.",
+      "text_sha256": "24ea567506f8f6ac90569672dea059129a42482c6714c1c664b84f2f29eabd3b",
+      "md_span": {
+        "start": 13528,
+        "end": 13943
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_28/19600824",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "V. — **Restitution des pensions et inscription de l'hypothèque légale.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "La mainlevée des inscriptions, prises en vertu de l'article 13 de la loi, sera demandée par le Fonds dans les trois mois suivant l'extinction de la créance à garantir.",
+      "text_sha256": "22fe18b9f5e8766b5e23a191bc2ad2d30c6c4e6d9ef5106a1909e59cde62bc92",
+      "md_span": {
+        "start": 13980,
+        "end": 14147
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_29/19600824",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "VI. — **Soins de santé.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** La cotisation personnelle à payer par les personnes, affiliées à une caisse de maladie en vertu de l'article 14 de la loi, est fixée à cinquante-deux francs par mois pour les personnes seules et à soixante-dix-huit francs par mois pour les couples.\n\n**(2)** Si dans un ménage de parents ou alliés selon l'article 3 alinéa (3) de la loi une seule personne bénéficie de l'article 14 de la loi, sa cotisation sera de cinquante-deux francs par mois; ce montant sera augmenté de vingt-six francs pour toute personne supplémentaire d'un tel ménage tombant sous l'application de l'article 3 alinéa (3) de la loi.\n\n**(3)** Les cotisations qui précèdent correspondent à l'indice cent trente. Elles varieront avec cet indice dans la mesure des pensions de solidarité et seront arrondies au franc immédiatement inférieur.",
+      "text_sha256": "6d9794a178e10a356e43ca651b90da51b0e4bdba52fb4bc6e9e5784a1778578a",
+      "md_span": {
+        "start": 14214,
+        "end": 15032
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_30/19600824",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "VI. — **Soins de santé.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Après la clôture de chaque exercice l'Etat remboursera à chaque caisse de maladie intéressée les frais administratifs relatifs aux prestations accordées aux bénéficiaires visés par l'article 14 de la loi.\n\n**(2)** Ces frais seront fixés par rapport au coût administratif total en proportion du montant des prestations accordées en vertu de l'article 14 de la loi et du montant total des prestations de la même espèce accordées par la caisse.",
+      "text_sha256": "21b37232462e4051e2186a91993a7934335ac2193c6fa124a325d6bc1a91e1c5",
+      "md_span": {
+        "start": 15069,
+        "end": 15518
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_31/19600824",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "VII. — **Recours contre les décisions du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Pour l'application de l'article 23 alinéa (4) de la loi la valeur en capital des pensions de solidarité est obtenue en multipliant la pension mensuelle par douze et par le coefficient correspondant à l´âge du bénéficiaire au moment de l´octroi de la prestation.\n\n**(2)** L'âge du bénéficiaire est calculé par différence de l'année d'attribution de la pension et de l'année de la naissance du bénéficiaire de la pension.\n\n**(3)** Les coefficients de multiplication sont appliqués conformément au barème D qui fait corps avec le présent arrêté.",
+      "text_sha256": "369c887a7b4e3220f718a6353a0f45e8af45e7b57e48af296a67de370a0e4436",
+      "md_span": {
+        "start": 15609,
+        "end": 16159
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_32/19600824",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "VII. — **Recours contre les décisions du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Pour l'application de l'article précédent dans le cas d'un ménage de parents ou alliés, visé par l'article 3 alinéa (3) de la loi, l'âge du requérant sera pris en considération.",
+      "text_sha256": "843cc16cee19d0fd658b7e09929a398b4b18b080b6f0bae564cd266403ad6d1b",
+      "md_span": {
+        "start": 16196,
+        "end": 16373
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_33/19600824",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "VII. — **Recours contre les décisions du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "La procédure à suivre devant le conseil arbitral et devant le conseil supérieur des assurances sociales et les frais de justice sont régis par l'arrêté grand-ducal du 13 octobre 1945 portant fixation du siège, de la compétence et de l'organisation du conseil arbitral et du conseil supérieur des assurances sociales et règlement de procédure devant les dits conseils ainsi que par les modifications ultérieures de ces dispositions.",
+      "text_sha256": "bd787139c5295b1c21d865ef0ca38c37d0d28f37f50598622d557315e79ea452",
+      "md_span": {
+        "start": 16410,
+        "end": 16841
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1945/10/13/n4/jo",
+          "text": "arrêté grand-ducal du 13 octobre 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_34/19600824",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "VII. — **Recours contre les décisions du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Les juges qui remplaceront le président du conseil arbitral en vertu de l'article 26 de la loi toucheront les mêmes vacations que le président du conseil supérieur des assurances sociales.",
+      "text_sha256": "68041f01d391d0680ad5c711ee0fd7b919fd03af2f50b93e7ef82f306ec167f0",
+      "md_span": {
+        "start": 16878,
+        "end": 17066
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_35/19600824",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le comité-directeur est composé d'un président et de six membres nommés par le Gouvernement.\n\n**(2)** II s'adjoindra un secrétaire.",
+      "text_sha256": "74e1694423db1d380dfa1439b2edb3202a42720cd6d6f1f85ab046c6c1130b3c",
+      "md_span": {
+        "start": 17137,
+        "end": 17276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_36/19600824",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le comité-directeur représente et gère le Fonds dans toutes les affaires qui n'auront pas été déférées à un autre organe par la loi.\n\n**(2)** Il lui appartient notamment:\n\n*a*) de présenter au ministre d'Etat le projet de budget et les arrêtés de compte annuels;\n\n*b*) de statuer au sujet des prestations légales et des demandes en restitution;\n\n*c*) d'engager, de nommer et de congédier les employés du Fonds et d'exercer les fonctions d'autorité à leur égard;\n\n*d*) de statuer sur le placement de la fortune du Fonds;\n\n*e*) de statuer sur l'acquisition et l'aliénation d'immeubles ainsi que sur la constitution de charges sur ces immeubles;\n\n*f*) de décider s'il y a lieu ou non d'ester en justice.\n\nLe tout dans les limites des dispositions de la loi et des règlements.",
+      "text_sha256": "43cd5a2139b6bd11c9487e763c8f2fcaa83bcf15f5469d5911f80ed648c1a6a1",
+      "md_span": {
+        "start": 17313,
+        "end": 18093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_37/19600824",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le président fixe les séances du comité qu'il convoquera dans les délais et suivant le mode de convocation à arrêter par le comité.\n\n**(2)** A la demande écrite, indiquant l'ordre du jour, de deux membres du comité, le président est obligé de convoquer une séance dans les huit jours.\n\n**(3)** Le président du comité-directeur ou son représentant ouvre, dirige et clôt les délibérations du comité.",
+      "text_sha256": "3dc9b38f16daa8c2b76ec8683f642cef0ca29be86d8bcd33a354364c70eebd00",
+      "md_span": {
+        "start": 18130,
+        "end": 18535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_38/19600824",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le comité-directeur délibère valablement si la majorité des membres est présente.\n\n**(2)** Les décisions sont prises à la majorité des membres présents.\n\n**(3)** La voix du président est prépondérante en cas de partage.\n\n**(4)** En cas d'empêchement du président, il est remplacé par le membre par lui désigné.",
+      "text_sha256": "a7f0b612c8ec53dfb9b05262b53a085a16b5534b4e1691dd8940ca946ab2cdf6",
+      "md_span": {
+        "start": 18572,
+        "end": 18890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_39/19600824",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Pour chaque séance du comité-directeur le secrétaire dressera un procès-verbal des délibérations et des décisions. prises. Les procès-verbaux qui indiqueront la date des séances ainsi que les noms des membres présents sont signés par le président et le secrétaire.\n\n**(2)** Une copie du procès-verbal sera remise aux membres du comité-directeur. Lors de la prochaine séance les membres du comité pourront formuler leurs objections. En cas de difficultés, les rectifications éventuelles proposées seront mises aux voix.",
+      "text_sha256": "f5dffa944e53b4de33b60ffaa88c5bc2272423c297401cdce556946edf64e629",
+      "md_span": {
+        "start": 18927,
+        "end": 19453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_40/19600824",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Le Fonds et le comité-directeur sont représentés vis-à-vis des tiers par le président.\n\n**(2)** Les résolutions du comité-directeur se manifestent au nom du Fonds avec l'addition: «le comité-directeur».",
+      "text_sha256": "1054b7fc6a3fd751b88df11724b97ca131f3f0944593a15315b7b16f004255c8",
+      "md_span": {
+        "start": 19490,
+        "end": 19700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_41/19600824",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "**(1)** Conformément à l'article 16 alinéa (4) de la loi, le comité-directeur peut nommer dans son sein des sous-commissions auxquelles il peut confier l'accomplissement de certaines tâches ou l'exercice de certaines de ses attributions.\n\n**(2)** Chaque sous-commission se composera, outre le président du comité-directeur, de deux membres au moins.\n\n**(3)** Le président fixera les réunions des sous-commissions suivant les besoins de la tâche à accomplir. Les procès-verbaux des réunions doivent être signés par les membres et le secrétaire et être soumis au comité-directeur soit pour information, soit pour approbation.",
+      "text_sha256": "68514a65f26ba7690f39c8c2023cb497f00649953566acd6188e9ddc57be7eae",
+      "md_span": {
+        "start": 19737,
+        "end": 20360
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/art_42/19600824",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "VIII. — **Gestion du Fonds.**"
+      ],
+      "article_valid_from": "1960-08-24",
+      "text_md": "Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté qui sera inséré au *Mémorial*.",
+      "text_sha256": "d3167718f714b021c883070d50c73e4e75e0c5441227ce91ee34dff9310a1510",
+      "md_span": {
+        "start": 20397,
+        "end": 20532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE A.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Multiplicateurs de la valeur unitaire en francs : |  |  |\n| --- | --- | --- |\n| A) | Immeubles affectés à usage agricole, forestier et viticole, tout le pays | 4 |\n| B) | Autres immeubles : |  |\n| *a*) | Ville de Luxembourg(sans Cessange, Hamm, Fetschenhof, Cents et Kirchberg) | 5,5 |\n| *b*) | Ville d´Esch-sur-Alzette | 5 |\n| *c*) | Localités de Bettembourg, Diekirch, Differdange, Dudelange, Echternach, Ettelbruck, Grevenmacher, Kayl, Pétange, Remich, Rodange, Rumelange, Schifflange, Wiltz, ainsi que Cessange, Hamm, Howald, Fetschenhof, Cents et Kirchberg | 4,5 |\n| *d*) | Reste du pays | 4 |",
+      "text_sha256": "24226b3835d677680728fd568af590095bc431f75e3e2827d5e7194d3c775bf2",
+      "md_span": {
+        "start": 20576,
+        "end": 21176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE B",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Multiplicateurs de la fortune en cas de requérants non mariés.\n\n(L´âge du bénéficiaire est calculé par différence de l´année d´attribution de la pension et de l´année de naissance du bénéficiaire).",
+      "text_sha256": "6118c088f8f3f9fc20c0194d32210d17f951d308098bde8005e76af2b1b26ed3",
+      "md_span": {
+        "start": 21219,
+        "end": 21416
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE C",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Multiplicateurs de la fortune pour requérants mariés.\n\n(On prendra la moyenne des âges déterminés individuellement d´après les règles de l´annexe B).",
+      "text_sha256": "acc5ce3861ef086ad106da00b0776337392e41b5a619a37ee325d9920271e810",
+      "md_span": {
+        "start": 21459,
+        "end": 21608
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:agd-1960-08-20-n1:1965-08-25--130d1e5a856e12a2011c42f31478c6eaaca73c2ef58338d878e35dc1cd9ed1b8#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE D",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 21651,
+        "end": 21651
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

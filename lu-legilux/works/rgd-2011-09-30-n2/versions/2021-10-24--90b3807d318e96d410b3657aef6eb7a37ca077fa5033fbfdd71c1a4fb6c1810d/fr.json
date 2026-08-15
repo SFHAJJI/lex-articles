@@ -1,0 +1,554 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 24/10/2021 : Règlement grand-ducal du 30 septembre 2011 portant organisation de la procédure électorale pour la Chambre des Métiers.",
+  "valid_from": "2021-10-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-09-30-n2/versions/2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d/fr.xml",
+    "sha256": "3e41d14774d8779898d79b1acbd869a91c5b6d67abd989200375d4333561cabe",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/consolide/20211024/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_1er/20211024",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Bureau électoral**"
+      ],
+      "article_valid_from": "2021-10-24",
+      "text_md": "Le bureau électoral est institué au plus tard cent trente jours avant le scrutin. Il siège dans les locaux mis à disposition par l’État ou par la Chambre des métiers.",
+      "text_sha256": "7de84976bec590bb0a3494cdbf7a7baf9b8769cd85303ce0beff2b5b37763fa0",
+      "md_span": {
+        "start": 764,
+        "end": 930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_2/20111008",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Bureau électoral**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le bureau électoral est un organe collégial dont les décisions sont prises à la majorité des voix des membres présents; en cas d'égalité des voix exprimés, celle du président est prépondérante. En cas d'empêchement du président, les fonctions de celui-ci sont assumées par le vice-président.",
+      "text_sha256": "d1db936ce800daf313a9100bfdd21bf813f5bc3deb2f842038917c688c0f489d",
+      "md_span": {
+        "start": 965,
+        "end": 1256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_3/20111008",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Bureau électoral**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Ne peuvent siéger au bureau électoral les membres sortants de la Chambre des Métiers, les candidats ainsi que leurs parents ou alliés jusqu'au deuxième degré compris.",
+      "text_sha256": "a9d38d22830547588a6fa135992aad04b6275a4c6e89232f7ab7916f000b7083",
+      "md_span": {
+        "start": 1291,
+        "end": 1457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_4/20111008",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Bureau électoral**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Les membres du bureau électoral ont droit à une indemnité qui est fixée à 5 euros, indice 100, par heure de travail effectif.",
+      "text_sha256": "16c722824e10ba64dccfe9dc36f4fa43affcc8c3dc4aff500e60bea64f5884cf",
+      "md_span": {
+        "start": 1492,
+        "end": 1617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_5/20111008",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre II. ** — **Candidatures**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le bureau électoral désigne ceux de ses membres qui sont chargés d'enregistrer les candidatures. Celles-ci sont enregistrées dans l'ordre de leur présentation. Un récépissé est délivré au candidat au moment du dépôt de sa candidature.",
+      "text_sha256": "a6a5e429e593df2514ed0dcc5b9283db1a8ab363fc0fd6a81e8b1aedaf33ba0a",
+      "md_span": {
+        "start": 1693,
+        "end": 1927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_6/20111008",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II. ** — **Candidatures**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le candidat qui veut retirer sa candidature notifie sa décision au bureau électoral par courrier recommandé avec accusé de réception, avant l'expiration du délai pour le dépôt des candidatures.",
+      "text_sha256": "cfa4524948eccfd0cde943d6a2832e429c5ea4bf2e3390bec1de20d3685db385",
+      "md_span": {
+        "start": 1962,
+        "end": 2155
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_7/20111008",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre II. ** — **Candidatures**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "A l'expiration du délai pour la présentation des candidatures le bureau électoral arrête les listes des candidats présentés pour les différents groupes électoraux, avec indication pour chaque candidat de ses nom, prénoms, profession, et, lorsque le candidat est le titulaire de l'autorisation d'établissement pour compte d'une personne morale, la dénomination de celle-ci.",
+      "text_sha256": "81797c1073140678dacee77612aaba86ee137945c85dbe2781cff8cb2540c545",
+      "md_span": {
+        "start": 2190,
+        "end": 2562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_8/20111008",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section I. * — *Des bulletins*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "A l'expiration du délai fixé pour le dépôt des candidatures le bureau électoral formule les bulletins de vote qui doivent varier de couleur suivant les différents groupes électoraux.\n\nPour chaque groupe électoral, les candidats sont portés sur des bulletins suivant l'ordre alphabétique de leurs noms. A la suite du nom figure le prénom de chaque candidat et, le cas échéant, la dénomination de la personne morale ou de la succursale. A la suite des noms ou de la dénomination, une case est réservée à l'expression du vote, selon le modèle annexé au présent règlement.",
+      "text_sha256": "0c7c277795472fd4be64596ae47a58de4b8e7e5a92073c370228978c284e96c5",
+      "md_span": {
+        "start": 2686,
+        "end": 3254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_9/20111008",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section I. * — *Des bulletins*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le papier devant servir à la confection des bulletins est fourni par le Centre des technologies de l'information de l'Etat et est timbré par ses soins avant d'être remis au bureau électoral.\n\nLes bulletins employés au bureau électoral pour un même groupe électoral doivent être identiques, sous le rapport du papier, du format et de l'impression. L'emploi de tous autres bulletins est interdit.",
+      "text_sha256": "af426aacba1911a639131d0901a5adc4da23fd1d6be67a6c10112d36009c717b",
+      "md_span": {
+        "start": 3289,
+        "end": 3683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section II**. * — *Des enveloppes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "On entend par :\n\n| 1° enveloppe électorale : | l’enveloppe dans laquelle est inséré le bulletin de vote et qui porte l’indication « Élections pour la Chambre des métiers, loi du 2 septembre 2011 », ainsi que la désignation du groupe pour lequel l’élection a lieu. |\n| --- | --- |\n| 2° enveloppe de transmission : | l’enveloppe avec laquelle l’électeur renvoie l’enveloppe électorale à l’adresse du président du bureau électoral et qui renseigne dans l’angle inférieur gauche le groupe, le numéro d’ordre, le nom, les prénoms et l’adresse de l’électeur. |\n| 3° enveloppe d’envoi : | l’enveloppe avec laquelle le bureau électoral envoie aux électeurs les documents pour le vote, et qui porte dans l’angle supérieur gauche l’adresse du président du bureau de vote. |\n\nLe format, l’adressage et l’affranchissement des enveloppes électorales doivent être conformes aux instructions de la Convention postale universelle telles que définies par l’Union postale universelle.",
+      "text_sha256": "35296070213597209f42b5d43665392baeceea2812da57143035ccb211cee407",
+      "md_span": {
+        "start": 3761,
+        "end": 4727
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/09/02/n2/jo",
+          "text": "loi du 2 septembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10bis",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_10bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Au plus tard quinze jours avant le scrutin, le président du bureau électoral fait parvenir, sous la forme d’une simple lettre, à chaque électeur un bulletin de vote et une notice contenant les instructions pour les électeurs.\n\nLes bulletins de vote sont placés dans l’enveloppe électorale, laissée ouverte. L’enveloppe de transmission, laissée également ouverte, est jointe à l’envoi.\n\nLe tout est inséré dans l’enveloppe d’envoi à l’adresse de l’électeur.",
+      "text_sha256": "7163042687655d9021d15ff586b8bf64d7ea967399355e0d77f18d0e38b524d0",
+      "md_span": {
+        "start": 4802,
+        "end": 5258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_11/20111008",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Chaque électeur dispose d'autant de suffrages qu'il y a de membres effectifs à élire dans le groupe électoral en question. L'expression du vote se fait par une croix apposée dans la case réservée à cet effet.\n\nToute croix, même imparfaite, exprime valablement le vote, à moins que l'intention de rendre le bulletin reconnaissable ne soit manifeste.",
+      "text_sha256": "6a9291d817c2f11ce0dcd60cce1a170696e1f55e6b55b786cdb26441e1e7612a",
+      "md_span": {
+        "start": 5295,
+        "end": 5643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_12/20111008",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Toute marque, toute inscription, signature, rature ou signe quelconque apportés au bulletin de vote entraînent l'annulation de celui-ci par le bureau électoral.",
+      "text_sha256": "c2254a1457bbfab6d5c768d5d9b22935b00b1ea7b9dd7f00b754b5a6388c91b8",
+      "md_span": {
+        "start": 5680,
+        "end": 5840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_13/20211024",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": "2021-10-24",
+      "text_md": "L’électeur place le bulletin plié, le tampon à l’extérieur, dans l’enveloppe électorale qu’il ferme. Il glisse celle-ci dans l’enveloppe de transmission, ferme le pli, et le remet à la poste, sous la forme d’une simple lettre, au plus tard le jour du scrutin.",
+      "text_sha256": "91dee73d90495c46d2c0b9c06b391bbed8c45dfc68512d1335fe1f86de6f0398",
+      "md_span": {
+        "start": 5877,
+        "end": 6136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_14/20111008",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "L'électeur qui, par inadvertance, a détérioré le bulletin à lui remis, peut en demander un autre par écrit au président, en joignant le premier qui est aussitôt détruit. Il en est fait mention au procès-verbal de l'élection.",
+      "text_sha256": "e6063a9eecdfc249ffcebebab770629524240092bcd28e27ee28c4c00bec1a20",
+      "md_span": {
+        "start": 6173,
+        "end": 6397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_15/20111008",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Opérations électorales**",
+        "*Section III.* — *Du vote*"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Après la clôture du scrutin le bureau électoral fait le récolement des bulletins non employés dans les différents groupes électoraux. Ces bulletins sont immédiatement détruits. Le nombre en est mentionné au procès-verbal.",
+      "text_sha256": "22679bd3b498ad0dce1ef4b64f4eb7a3309ce7d550ace7bcfad7b86f8cc392d7",
+      "md_span": {
+        "start": 6434,
+        "end": 6655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_16/20211024",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2021-10-24",
+      "text_md": "Les bulletins envoyés après la date limite fixée à l’article 13 sont exclus d’office, le cachet de la poste faisant foi.\n\nDans les cinq jours après la date limite d’expédition des bulletins, le bureau électoral se réunit et classe les envois qui lui sont parvenus par groupes. Les membres du bureau électoral pointent sur les listes électorales respectivement les noms et les dénominations des votants.\n\nIls ouvrent ensuite les enveloppes adressées au président, en retirent les enveloppes contenant les bulletins de vote et détruisent les enveloppes ayant servi à l'expédition au président. Il est ensuite procédé au dépouillement en ouvrant les enveloppes contenant les bulletins, et en retirant ceux-ci.\n\nLe nombre des votants et celui des bulletins recueillis sont inscrits au procès-verbal. Si une enveloppe contient plusieurs bulletins, ceux-ci seront nuls. Mention en sera faite au procès-verbal.",
+      "text_sha256": "ee5cb56f5f592eab31156a525425f50ab261ea6fec2060ead6f76bb0e9d0b097",
+      "md_span": {
+        "start": 6747,
+        "end": 7650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_17/20111008",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Les bulletins sont dépliés par l'un des scrutateurs qui les remet au président. Celui-ci, ou s'il est empêché, le vice-président, énonce les suffrages attribués aux différents candidats, remet les bulletins à un autre membre du bureau qui les vérifie et qui les classe sur deux tas, selon bulletins valables et bulletins nuls.\n\nDeux des scrutateurs font le recensement des suffrages et en tiennent note, chacun séparément.",
+      "text_sha256": "13a5875e2bc327edab184f3fba348def90debc533af9c48e5cb4be831d10122b",
+      "md_span": {
+        "start": 7687,
+        "end": 8109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_18/20211024",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2021-10-24",
+      "text_md": "Sont nuls:\n\n1. les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;\n2. les bulletins ne contenant l'expression d'aucun suffrage;\n3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;\n4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;\n5. les bulletins dont l'enveloppe extérieure ne porte pas la signature",
+      "text_sha256": "c35a55b206d049f296fbe39e7a92044acc2837896c214d796500f51736e0db78",
+      "md_span": {
+        "start": 8146,
+        "end": 8697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_19/20111008",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Lorsque tous les bulletins d'un groupe ont été dépouillés, les autres membres du bureau les examinent et présentent leurs observations et réclamations.\n\nLes bulletins contestés sont ajoutés aux bulletins valables s'ils sont admis comme tels par décision du bureau. Les contestations et les décisions sont actées au procès-verbal.",
+      "text_sha256": "d57a2db804f4fa2c0263decd2b63dcb3ce4b3926f74325bc93c1a834af0b5302",
+      "md_span": {
+        "start": 8734,
+        "end": 9063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_20/20111008",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le bureau arrête pour les différents groupes électoraux le nombre des votants, celui des bulletins nuls et des bulletins valables, ainsi que le nombre des suffrages obtenus par chaque candidat. Le tout est inscrit au procès-verbal.",
+      "text_sha256": "de8ef4f349d26cc93f813cdbc326ab1dd287bd73884b0a683b5a688c18e63a7c",
+      "md_span": {
+        "start": 9100,
+        "end": 9331
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21_20211024",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_21_20211024",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_21/20211024",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2021-10-24",
+      "text_md": "Les différents sièges de membres effectifs, respectivement de membres suppléants sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables. En cas d'égalité de suffrages, l'élection est acquise au candidat le plus âgé.",
+      "text_sha256": "ef977c56a4418acafbf95dc47637d743d5d9b93d2243322ca79d5a203bf4c380",
+      "md_span": {
+        "start": 9377,
+        "end": 9622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_22/20111008",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Du dépouillement du scrutin**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le procès-verbal est signé séance tenante par les membres du bureau et par le secrétaire.\n\nA l'expiration des délais prévus pour l'introduction des recours, tous les documents relatifs à l'élection sont détruits, à l'exception des procès-verbaux.",
+      "text_sha256": "f63900936d7072a27a444be9f5a57171d81a058238c9f5e13a4ffeb7172e106f",
+      "md_span": {
+        "start": 9659,
+        "end": 9905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_23/20111008",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Prorogation des délais**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Lorsque le délai fixé par le présent règlement pour faire une déclaration, un acte ou un dépôt expire un dimanche ou un jour férié légal, les déclarations, actes ou dépôts sont faits le premier jour ouvrable suivant le dimanche ou le jour férié légal.",
+      "text_sha256": "5b21d69a3ec87898ee130fc83bea043afb5a49f27942f0e354d4d24f5a8a3191",
+      "md_span": {
+        "start": 9991,
+        "end": 10242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_24/20111008",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Le règlement grand-ducal du 10 novembre 2006 portant règlement de la procédure électorale pour la Chambre des Métiers est abrogé.",
+      "text_sha256": "79f1d03c15543a1d53d4b4f763d665b7d5d740f63017803862096fa1932e8902",
+      "md_span": {
+        "start": 10327,
+        "end": 10456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/11/10/n2/jo",
+          "text": "règlement grand-ducal du 10 novembre 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/art_25/20111008",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2011-10-08",
+      "text_md": "Notre Ministre des Classes moyennes et du Tourisme est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7424ccfd71a946fd050f8b73adde7e5be4c2ef0a9753ee6abf52e5b374bf5fe8",
+      "md_span": {
+        "start": 10493,
+        "end": 10620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2011-09-30-n2:2021-10-24--90b3807d318e96d410b3657aef6eb7a37ca077fa5033fbfdd71c1a4fb6c1810d#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Modèle du bulletin de vote",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 10681,
+        "end": 10681
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

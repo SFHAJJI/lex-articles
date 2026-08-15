@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e114:2016-06-07--46915171fbd23e7330fd76adc7e808b51fa69d2f680575ea6096e1ddbd9d6e78",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e114/versions/2016-06-07--46915171fbd23e7330fd76adc7e808b51fa69d2f680575ea6096e1ddbd9d6e78/en.xml",
+    "sha256": "85dcae05324aa9dc93e221b1b19ddfd4072f4c47378f562bd4dff812c4023426",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E114"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e114:2016-06-07--46915171fbd23e7330fd76adc7e808b51fa69d2f680575ea6096e1ddbd9d6e78#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 EN Official Journal of the European Union C 202/94 Article 114 (ex Article 95 TEC) 1. Save where otherwise provided in the Treaties, the following provisions shall apply for the achievement of the objectives set out in Article 26. The European Parliament and the Council shall, acting in accordance with the ordinary legislative procedure and after consulting the Economic and Social Committee, adopt the measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States which have as their object the establishment and functioning of the internal market. 2. Paragraph 1 shall not apply to fiscal provisions, to those relating to the free movement of persons nor to those relating to the rights and interests of employed persons. 3. The Commission, in its proposals envisaged in paragraph 1 concerning health, safety, environmental protection and consumer protection, will take as a base a high level of protection, taking account in particular of any new development based on scientific facts. Within their respective powers, the European Parliament and the Council will also seek to achieve this objective. 4. If, after the adoption of a harmonisation measure by the European Parliament and the Council, by the Council or by the Commission, a Member State deems it necessary to maintain national provisions on grounds of major needs referred to in Article 36, or relating to the protection of the environment or the working environment, it shall notify the Commission of these provisions as well as the grounds for maintaining them. 5. Moreover, without prejudice to paragraph 4, if, after the adoption of a harmonisation measure by the European Parliament and the Council, by the Council or by the Commission, a Member State deems it necessary to introduce national provisions based on new scientific evidence relating to the protection of the environment or the working environment on grounds of a problem specific to that Member State arising after the adoption of the harmonisation measure, it shall notify the Commission of the envisaged provisions as well as the grounds for introducing them. 6. The Commission shall, within six months of the notifications as referred to in paragraphs 4 and 5, approve or reject the national provisions involved after having verified whether or not they are a means of arbitrary discrimination or a disguised restriction on trade between Member States and whether or not they shall constitute an obstacle to the functioning of the internal market. In the absence of a decision by the Commission within this period the national provisions referred to in paragraphs 4 and 5 shall be deemed to have been approved. When justified by the complexity of the matter and in the absence of danger for human health, the Commission may notify the Member State concerned that the period referred to in this paragraph may be extended for a further period of up to six months. 7. When, pursuant to paragraph 6, a Member State is authorised to maintain or introduce national provisions derogating from a harmonisation measure, the Commission shall immediately examine whether to propose an adaptation to that measure. 8. When a Member State raises a specific problem on public health in a field which has been the subject of prior harmonisation measures, it shall bring it to the attention of the Commission which shall immediately examine whether to propose appropriate measures to the Council. 9. By way of derogation from the procedure laid down in Articles 258 and 259, the Commission and any Member State may bring the matter directly before the Court of Justice of the European Union if it considers that another Member State is making improper use of the powers provided for in this Article. 10. The harmonisation measures referred to above shall, in appropriate cases, include a safeguard clause authorising the Member States to take, for one or more of the non-economic reasons referred to in Article 36, provisional measures subject to a Union control procedure.",
+      "text_sha256": "ef8caee950a117ea25c78da04fac8eb216f307104e9e544549dbe47b949854da",
+      "md_span": {
+        "start": 713,
+        "end": 4774
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

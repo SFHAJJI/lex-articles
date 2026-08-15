@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2776:2024-10-31--8f400bb32ba186611c73bcef5a034c85183eb27b61d0377d6947590d86704343",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2776 of 31\u00A0October 2024 correcting Implementi…",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2776/versions/2024-10-31--8f400bb32ba186611c73bcef5a034c85183eb27b61d0377d6947590d86704343/en.xml",
+    "sha256": "1b33199bfb5f56e9e858cb3210fffa180722afd9df223a23dfb03ed5d17090e1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2776"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2776:2024-10-31--8f400bb32ba186611c73bcef5a034c85183eb27b61d0377d6947590d86704343#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annexes to Implementing Regulation (EU) 2023/914 are amended in accordance with the Annex to this Regulation.",
+      "text_sha256": "37d0c5a6ec2f644d748644c6ecd39ef48647a6041e68aca626cb4ea31ba7ba5d",
+      "md_span": {
+        "start": 702,
+        "end": 826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2776:2024-10-31--8f400bb32ba186611c73bcef5a034c85183eb27b61d0377d6947590d86704343#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 859,
+        "end": 1010
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

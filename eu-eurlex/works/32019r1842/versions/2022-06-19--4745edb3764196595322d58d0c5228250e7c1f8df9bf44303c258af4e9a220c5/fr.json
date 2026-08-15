@@ -1,0 +1,173 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2019/1842 of 31 October 2019 laying down rules for the application of Directive 2003/87/EC",
+  "valid_from": "2022-06-19",
+  "valid_to": "2025-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1842/versions/2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5/fr.html",
+    "sha256": "b5c5bdcdfc43edfdcb2c4c92aea00ddca7c39738ad2e8922d7fcccc0421d35d6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R1842-20220619"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement s’applique à l’allocation de quotas à titre gratuit conformément à l’article 10 *bis* de la directive 2003/87/CE pour la période d’échanges 2021-2030.",
+      "text_sha256": "88cdadf1e9725c529267539835c0d00ba42e25a7daaf23c7fdc6bdbd85d8a155",
+      "md_span": {
+        "start": 794,
+        "end": 965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «niveau d’activité moyen», pour chaque sous-installation, la moyenne arithmétique des niveaux d’activité annuels correspondant aux deux années civiles précédant la présentation d’un rapport visé à l’article 3, paragraphe 1;\n\n2) «installation en place», une installation en place au sens de l’article 2, point 1), du règlement délégué (UE) 2019/331;\n\n3) «sous-installation avec référentiel de chaleur», une sous-installation avec référentiel de chaleur au sens de l’article 2, point 3), du règlement délégué (UE) 2019/331;\n\n4) «sous-installation avec référentiel de combustibles», une sous-installation avec référentiel de combustibles au sens de l’article 2, point 6), du règlement délégué (UE) 2019/331;\n\n5) «période d’allocation», une période d’allocation au sens de l’article 2, point 15), du règlement délégué (UE) 2019/331;\n\n6) «groupe», un groupe au sens de l’article 2, point 11), de la directive 2013/34/UE du Parlement européen et du Conseil (1).",
+      "text_sha256": "58ccbd63e18a49e689d5cad09bcc61ac3fa72ba2a7d58de72ac1865b9dc0aaca",
+      "md_span": {
+        "start": 1016,
+        "end": 2021
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Exigences en matière de déclaration",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** À partir de 2021, les exploitants d’installations auxquelles des quotas à titre gratuit ont été alloués en vertu de l’article 10 *bis* de la directive 2003/87/CE pour la période d’échanges 2021-2030 déclarent, chaque année, le niveau d’activité de chaque sous-installation au cours de l’année civile précédente. En 2021, ce rapport contiendra les données pour les deux années précédant sa présentation.\n\nLes nouveaux entrants peuvent présenter les rapports visés à l’article 5, paragraphe 2, du règlement délégué (UE) 2019/331 l’année suivant la date de début de l’exploitation.\n\n**2.** La déclaration du niveau d’activité doit contenir des informations sur le niveau d’activité de chaque sous-installation et sur chacun des paramètres énumérés à la section 1, à l’exception du point 1.3 c) et des points 2.3 à 2.7, de l’annexe IV du règlement délégué (UE) 2019/331. La déclaration du niveau d’activité contient également des informations sur, le cas échéant, la structure du groupe auquel l’installation appartient et sur la question de savoir si une sous-installation a cessé ses activités.\n\nL’autorité compétente peut exiger des exploitants qu’ils communiquent également, dans la déclaration du niveau d’activité, des informations sur tout paramètre supplémentaire figurant à l’annexe IV du règlement délégué (UE) 2019/331 ou visé à son paragraphe 1.\n\n**3.** La déclaration du niveau d’activité est présentée au plus tard le 31 mars de chaque année au cours des années 2021 à 2030, à l’autorité compétente qui octroie l’allocation à titre gratuit, sauf si l’autorité compétente a fixé un délai antérieur pour cette présentation. Elle est accompagnée d’un rapport de vérification de la déclaration du niveau d’activité, établi conformément au règlement d’exécution (UE) 2018/2067.\n\nLes États membres peuvent exiger la présentation d’une déclaration provisoire du niveau d’activité, contenant toutes les informations disponibles au moment de sa présentation. Les États membres peuvent fixer des délais pour la présentation de la déclaration provisoire du niveau d’activité.\n\nL’autorité compétente peut suspendre la délivrance de quotas d’émission à titre gratuit à une installation jusqu’à ce que l’autorité compétente ait établi qu’il n’y a pas lieu d’adapter la quantité de quotas allouée à l’installation concernée, ou jusqu’à ce que la Commission ait adopté une décision conformément à l’article 23, paragraphe 4, du règlement délégué (UE) 2019/331 en ce qui concerne l’adaptation des quotas alloués à cette installation.\n\nLe cas échéant, l’autorité compétente récupère les quotas reçus en excédent, résultant d’un octroi excessif de quotas, conformément à la procédure prévue à l’article 48, paragraphe 4, du règlement délégué (UE) 2019/1122 de la Commission (2).\n\nL’autorité compétente peut exiger des exploitants et des vérificateurs qu’ils utilisent des modèles électroniques ou des formats de fichiers spécifiques pour la présentation des déclarations du niveau d’activité.\n\n**4.** L’autorité compétente évalue la déclaration du niveau d’activité visée aux paragraphes 1 à 3 du présent article conformément aux exigences des articles 7 à 12 du règlement délégué (UE) 2019/331. L’autorité compétente peut procéder à une estimation prudente de la valeur de tout paramètre dans les situations suivantes:a) aucune déclaration de niveau d’activité vérifiée n’a été présentée par l’exploitant dans le délai visé au paragraphe 3 et la délivrance des quotas n’a pas été suspendue;b) la valeur vérifiée communiquée n’est pas conforme au présent règlement ou au règlement délégué (UE) 2019/331;c) la déclaration du niveau d’activité d’un exploitant n’a pas été vérifiée conformément au règlement d’exécution (UE) 2018/2067.\n\nL’autorité compétente n’augmente pas l’allocation destinée à une installation sur la base d’une estimation effectuée dans la situation visée au point a).\n\nLorsqu’un vérificateur a déclaré, dans le rapport de vérification au titre du règlement d’exécution (UE) 2018/2067, l’existence d’inexactitudes non importantes qui n’ont pas été rectifiées par l’exploitant avant la délivrance du rapport de vérification, l’autorité compétente évalue ces inexactitudes et procède, dans la mesure du possible, à une estimation prudente de la valeur d’un paramètre. L’autorité compétente informe l’exploitant de la nécessité éventuelle d’apporter des corrections à la déclaration du niveau d’activité et communique quelles sont ces corrections. L’exploitant met ces informations à la disposition du vérificateur.",
+      "text_sha256": "bf6e9315d3bea14042cc6656bab4b4f94df5d6a0a7f68320ec09b32d39f1a01b",
+      "md_span": {
+        "start": 2096,
+        "end": 6625
+      },
+      "citations": [
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Niveaux d’activité moyens",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** L’autorité compétente détermine, chaque année, le niveau d’activité moyen de chaque sous-installation, sur la base des déclarations du niveau d’activité pour la période de deux ans concernée.\n\n**2.** Le niveau d’activité moyen des nouvelles sous-installations et des nouveaux entrants n’est pas calculé pour les trois premières années civiles d’exploitation.",
+      "text_sha256": "a669c3f59fde0b134cdd962f2298964d8c6c2de3d87919dd8a640e89c1bd8b74",
+      "md_span": {
+        "start": 6690,
+        "end": 7055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Adaptations de l’allocation à titre gratuit liées aux variations du niveau d’activité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque année, l’autorité compétente compare le niveau d’activité moyen de chaque sous-installation, déterminé conformément à l’article 4, au niveau d’activité historique utilisé initialement pour déterminer l’allocation à titre gratuit. Lorsque la valeur absolue de la différence entre le niveau d’activité moyen et le niveau d’activité historique de la sous-installation concernée est supérieure à 15 %, l’allocation de quotas à titre gratuit à cette installation est adaptée. Cette adaptation s’applique à compter de l’année suivant les deux années civiles utilisées pour déterminer le niveau d’activité moyen, et à condition que l’adaptation de la quantité annuelle provisoire de quotas d’émission alloués gratuitement à la sous-installation corresponde au moins à 100 quotas d’émission. Cette adaptation s’effectue en augmentant ou en diminuant l’allocation à titre gratuit pour la sous-installation concernée, à raison du pourcentage exact de la variation du niveau d’activité moyen par rapport au niveau d’activité historique initialement utilisé pour déterminer l’allocation à titre gratuit.\n\n**2.** Lorsqu’une adaptation au titre du paragraphe 1 a été effectuée, au cours d’une période d’allocation, d’autres adaptations ne peuvent avoir lieu que si la valeur absolue de la différence entre le niveau d’activité moyen et le niveau d’activité historique de cette sous-installation dépasse l’intervalle de 5 % le plus proche au-delà de la variation de 15 % qui a entraîné l’adaptation précédente de l’allocation à titre gratuit pour l’installation concernée, en augmentant ou en diminuant l’allocation à titre gratuit pour la sous-installation concernée à raison du pourcentage exact de la variation du niveau d’activité moyen par rapport au niveau d’activité historique initialement utilisé pour déterminer l’allocation à titre gratuit, et à condition que l’adaptation de la quantité annuelle provisoire de quotas d’émission alloués gratuitement à la sous-installation corresponde au moins à 100 quotas d’émission.\n\n**3.** Si l’augmentation ou la diminution du niveau d’activité moyen d’une sous-installation n’excède plus 15 % par rapport au niveau d’activité historique initialement utilisé pour déterminer l’allocation à titre gratuit, l’allocation de quotas à titre gratuit à cette sous-installation est égale à l’allocation initiale déterminée conformément à l’article 16 ou 18 du règlement délégué (UE) 2019/331, à compter de l’année suivant les deux années civiles utilisées pour déterminer le niveau d’activité moyen.\n\n**4.** Si une sous-installation a cessé ses activités, l’allocation de quotas à titre gratuit de cette sous-installation est fixée à zéro, à compter de l’année suivant la cessation des activités.\n\n**5.** Pour les nouvelles sous-installations et les nouveaux entrants, l’allocation de quotas d’émission à titre gratuit n’est pas adaptée pendant les trois premières années civiles d’exploitation. Pour les première et deuxième années civiles d’exploitation, l’allocation de quotas d’émission à titre gratuit est fondée respectivement sur le niveau d’activité de chaque année; pour la troisième année civile d’exploitation, l’allocation de quotas d’émission à titre gratuit est fondée sur le niveau d’activité historique utilisé pour déterminer l’allocation à titre gratuit.\n\n**6.** La quantité annuelle finale de quotas d’émission alloués à titre gratuit à une installation est la somme des quotas d’émission alloués à toutes les sous-installations, calculée conformément à l’article 16 ou 18, selon le cas, du règlement délégué (UE) 2019/331.",
+      "text_sha256": "f37056759998db11a9c8ca5f34ae03775a7c4edf86f058c85679495258f55a03",
+      "md_span": {
+        "start": 7180,
+        "end": 10762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Autres changements dans l’exploitation de l’installation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsqu’un opérateur démontre, sur la base des données fournies dans la déclaration du niveau d’activité et de toute information supplémentaire demandée par l’autorité compétente, que la diminution du niveau d’activité d’une sous-installation pour laquelle la quantité de quotas alloués à titre gratuit a été déterminée sur la base d’un référentiel de chaleur ou de combustibles n’est pas liée à une modification des niveaux de production de la sous-installation, mais à l’augmentation de l’efficacité énergétique de cette sous-installation conformément au paragraphe 3 du présent article, par rapport à celle fondée sur les données de référence ou sur la déclaration de données du nouvel entrant, dans une proportion supérieure à 15 %, aucune adaptation de l’allocation à titre gratuit n’est effectuée.\n\n**2.** Lorsqu’un opérateur ne démontre pas, à la demande de l’autorité compétente, sur la base des données présentées dans la déclaration du niveau d’activité et de toute information supplémentaire demandée par l’autorité compétente, que l’augmentation du niveau d’activité d’une sous-installation pour laquelle la quantité de quotas alloués à titre gratuit a été déterminée sur la base d’un référentiel de chaleur ou de combustibles est liée à une modification des niveaux de production de la sous-installation, et non à la diminution de l’efficacité énergétique de cette sous-installation conformément au paragraphe 3 du présent article, par rapport à celle fondée sur les données de référence ou sur la déclaration de données du nouvel entrant, dans une proportion supérieure à 15 %, l’autorité compétente peut rejeter l’adaptation de l’allocation à titre gratuit.\n\n**3.** Pour les sous-installations avec référentiel de chaleur et les sous-installations avec référentiel de combustibles, la variation de l’efficacité énergétique est déterminée en comparant les quotients de la quantité de chaleur ou de combustibles utilisée pour la production de chaque produit et les quantités de leur production respective conformément à la déclaration relative aux données de référence et après la survenance du changement dans l’activité de la sous-installation. L’efficacité énergétique est déterminée pour la production de chaque produit couvert par chaque code PRODCOM de la sous-installation figurant dans la liste visée à l’article 2, paragraphe 2, du règlement (CEE) no 3924/91 du Conseil (3).\n\nConformément au premier alinéa du présent paragraphe, les quantités de chaleur et de combustibles utilisées pour la production de chaque produit sont déterminées selon les méthodes définies dans le plan méthodologique de surveillance approuvé conformément à l’article 6 du règlement délégué (UE) 2019/331.\n\n**4.** Lorsque la déclaration du niveau d’activité présentée conformément à l’article 3 indique que la moyenne mobile sur deux ans d’un paramètre mentionné à l’article 16, paragraphe 5, ou aux articles 19, 20, 21 ou 22 du règlement délégué (UE) 2019/331, autre que les niveaux d’activité, a varié de plus de 15 % pour une sous-installation par rapport aux valeurs utilisées pour déterminer le niveau initial d’allocation à titre gratuit, l’allocation de quotas à titre gratuit pour cette installation est adaptée à compter de l’année suivant les deux années utilisées pour déterminer le changement des paramètres, pour autant que l’adaptation de la quantité annuelle provisoire de quotas d’émission alloués à titre gratuit à la sous-installation corresponde au moins à 100 quotas d’émission, en augmentant ou en diminuant l’allocation à titre gratuit pour la sous-installation concernée en fonction de la nouvelle valeur exacte du paramètre.",
+      "text_sha256": "578acde2071990fd5e934bd697695da6e6c31adba939bd972354c96eaf8acdc2",
+      "md_span": {
+        "start": 10858,
+        "end": 14510
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r1842:2022-06-19--4745edb3764196595322d58d0c5228250e7c1f8df9bf44303c258af4e9a220c5#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Entrée en vigueur et application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.\n\n(1) Directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises (JO L 182 du 29.6.2013, p. 19).\n\n(2) Règlement délégué (UE) 2019/1122 de la Commission du 12 mars 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne le fonctionnement du registre de l’Union (JO L 177 du 2.7.2019, p. 3).\n\n(3) Règlement (CEE) no 3924/91 du Conseil du 19 décembre 1991 relatif à la création d’une enquête communautaire sur la production industrielle (JO L 374 du 31.12.1991, p. 1).",
+      "text_sha256": "0c35be817be0fcd58ffa9e6553d61a762aa0618e226a3d82473e83d7f1ad05c9",
+      "md_span": {
+        "start": 14582,
+        "end": 15475
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

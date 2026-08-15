@@ -1,0 +1,532 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/04/2022 : Arrêté grand-ducal du 9 octobre 2020 portant institution de la Maison du Grand-Duc.",
+  "valid_from": "2022-04-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-2020-10-09-a817/versions/2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050/fr.xml",
+    "sha256": "7e0b9d3feb718672f3ae9c48dfaecfeedb09e15c2b6602400723ae9f93645114",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_1er/20201009",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Sous l’égide du Grand-Duc, il est institué une Maison du Grand-Duc.",
+      "text_sha256": "25e173518834838d2b68186c74f12f15d33dacbe3ef55c4ae9b7e85d0faad84f",
+      "md_span": {
+        "start": 775,
+        "end": 842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_2/20201009",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "La Maison du Grand-Duc a pour mission de fournir au Grand-Duc le soutien administratif et logistique nécessaire à l’exercice de la fonction de Chef de l’État.",
+      "text_sha256": "80ebb65b7a9287d791119bb9264cc01acf23b9274458b1cf1246ac9dba729387",
+      "md_span": {
+        "start": 877,
+        "end": 1035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_3/20201009",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "La Maison du Grand-Duc est placée sous la responsabilité du Maréchal de la Cour, désigné ci-après « le Maréchal ».",
+      "text_sha256": "6586868ef3024017fabaa19eac6f5650d2912b2e9cef6a762be942e05b7d7650",
+      "md_span": {
+        "start": 1070,
+        "end": 1184
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_4/20220404",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2022-04-04",
+      "text_md": "**(1)** Le cadre du personnel de la Maison du Grand-Duc comprend un Maréchal, un Conseiller du Grand-Duc, quatre directeurs et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nLe cadre du personnel peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État dans la limite des crédits budgétaires.\n\n**(2)** Le Maréchal, le Conseiller du Grand-Duc et les directeurs ont la qualité de fonctionnaires et sont nommés par le Grand-Duc.\n\nSans préjudice de l’alinéa 1er, le Maréchal peut également être engagé sous le régime de l’employé de l’État sur base de l’article 33 de la loi précitée du 25 mars 2015.\n\nPour être nommé à l’une de ces fonctions, il faut être de nationalité luxembourgeoise, remplir les conditions d’études pour l’accès au groupe de traitement A1, tels que définis par le règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État et avoir l’honorabilité nécessaire ainsi que l’expérience adéquate pour l’exercice de ces fonctions.\n\nIl faut être titulaire d’une habilitation de sécurité « TRÈS SECRET » telle que prévue par la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité.\n\n**(3)** Avant d’entrer en fonction, le Maréchal, le Conseiller du Grand-Duc et les directeurs prêtent serment entre les mains du Grand-Duc ou, en cas d’empêchement, du Ministre d’État délégué à cette fin conformément à l’article 3 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.\n\n**(4)** Les membres de l’Armée luxembourgeoise occupant des postes au sein de la Maison du Grand-Duc sont régis par la loi modifiée du 23 juillet 1952 concernant l’organisation militaire.\n\nPendant la période pendant laquelle il occupe l’une des fonctions prévues à l’article 10, paragraphe 1er, l’aide de camp affecté au Grand-Duc est classé au grade F16 prévu par la loi précitée du 25 mars 2015.\n\n**(5)** Dans la limite des crédits budgétaires la Maison du Grand-Duc peut recourir à des experts qui concourent à l’accomplissement de sa mission sur base de contrats de prestation de services à conclure par le Maréchal.",
+      "text_sha256": "ba8bd9624ff00b03468e82c5ea32482acb8b41978766dae7d8fb7d6d953dbdb9",
+      "md_span": {
+        "start": 1219,
+        "end": 3659
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi précitée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2015/09/30/n3/jo",
+          "text": "règlement grand-ducal modifié du 30 septembre 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/15/n5/jo",
+          "text": "loi modifiée du 15 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi modifiée du 23 juillet 1952"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi précitée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_5/20201009",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** La protection rapprochée du Chef de l’État et des Membres de Sa Famille est assurée par des agents de la Police grand-ducale, membres de l’Unité spéciale.\n\n**(2)** La sécurité du Palais Grand-Ducal, du Château de Colmar Berg et du Château de Fischbach est assurée par les services de la Police grand-ducale.\n\n**(3)** Les modalités pratiques de la mission de protection rapprochée et de la sécurité du Palais Grand-Ducal, du Château de Colmar Berg et du Château de Fischbach sont agréées par le Maréchal et le Directeur général de la Police grand-ducale.",
+      "text_sha256": "79e5e3344e52df91b24b8f50664851bc5c8b315e5f5f2d2d5e2c059182e36ecc",
+      "md_span": {
+        "start": 3694,
+        "end": 4255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_6/20201009",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** La Maison du Grand-Duc publie au premier semestre de chaque année un rapport d’activités couvrant, pour l’exercice précédent, les activités officielles du Grand-Duc, du Grand-Duc Héritier et de leurs Membres de Famille ayant participé à des événements officiels.\n\n**(2)** Dans le cadre du rapport d’activités, la Maison du Grand-Duc rend également compte de l’exécution du budget lui alloué pour l’exercice en question.\n\n**(3)** Une version schématique de l’organigramme est publiée sur le site Internet de la Maison du Grand-Duc.",
+      "text_sha256": "7eb5c8400b5d4105246fd00e7683588ab1f825718647ca9c59ea59434def74a5",
+      "md_span": {
+        "start": 4290,
+        "end": 4828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_7/20201009",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Maréchal de la Cour**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Dans l’exercice de ses fonctions, le Maréchal représente le Grand-Duc.\n\n**(2)** Il a la charge d’organiser les activités officielles du Grand-Duc dans l’exercice de ses fonctions de Chef de l’État.\n\n**(3)** Il représente la Maison du Grand-Duc à l’égard des tiers et en justice, en demande ou en défense.\n\n**(4)** Il est chargé des relations entre la Cour grand-ducale et le Gouvernement.\n\n**(5)** Il organise les audiences au niveau national et international et les visites d’État au Luxembourg et à l’étranger, et en assure le suivi.\n\n**(6)** Il est en charge des activités publiques du Grand-Duc Héritier et des Membres de Famille visés à l’article 6, paragraphe 1er.\n\n**(7)** Il est en charge de la communication externe et interne de la Maison du Grand-Duc.",
+      "text_sha256": "165bf7c7110351811c002db7d74ab79f3405491c70d3975887e383175feabf60",
+      "md_span": {
+        "start": 4909,
+        "end": 5679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_8/20201009",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Maréchal de la Cour**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Le Maréchal a sous ses ordres le personnel de la Maison du Grand-Duc. Il exerce à l’égard du personnel de la Maison du Grand-Duc les pouvoirs conférés au chef d’administration par la législation applicable aux agents de l’État.",
+      "text_sha256": "32e3acfb2c60fbebbd93c0a6a1c249ed1cda987f988e355fdab30c2a83cab302",
+      "md_span": {
+        "start": 5714,
+        "end": 5941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_9/20201009",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Maréchal de la Cour**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Le Maréchal est classé au grade S1 prévu par la loi précitée du 25 mars 2015.",
+      "text_sha256": "6ae977c73a3aec92d304a3c76361ac772464b9d2b865bc838bbb29c1741d0fc8",
+      "md_span": {
+        "start": 5976,
+        "end": 6053
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi précitée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_10/20201009",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Comité de direction**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Maréchal est assisté d’un Comité de direction comprenant, outre le Maréchal, le Directeur du Bureau du Maréchal, le Conseiller du Grand-Duc, le Directeur Administration, Finances et Ressources humaines, le Directeur Organisation et Sécurité et le Directeur des Régies et Infrastructures.\n\n**(2)** Le Comité de direction se réunit sur initiative et sous la présidence du Maréchal qui en fixe l’ordre du jour.",
+      "text_sha256": "29b8ba978f043cadd909cfb82aaec29dfc36f6716bf547647e04659fded13c28",
+      "md_span": {
+        "start": 6136,
+        "end": 6554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_11/20201009",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Comité de direction**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Maréchal peut consentir aux membres du Comité de direction des délégations de signature en matière administrative et financière pour les affaires relevant de ses compétences conformément aux dispositions qui suivent.\n\n**(2)** Les délégations de signature sont écrites.\n\n**(3)** Le Maréchal donne communication de ses délégations de signature sur demande aux services publics intéressés.\n\n**(4)** Les délégations de signature sont révocables à tout moment. Elles prennent fin avec la cessation des pouvoirs du Maréchal.",
+      "text_sha256": "31fa8bf2e19a74b5aa12bd063f23daf8bf4712c97bd7da99346ef210941d4d2f",
+      "md_span": {
+        "start": 6591,
+        "end": 7120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_12/20201009",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Comité de direction**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Sans préjudice des dispositions de l’article 4, paragraphe 4, le Directeur du Bureau du Maréchal, le Conseiller du Grand-Duc, le Directeur Administration, Finances et Ressources humaines, le Directeur Organisation et Sécurité et le Directeur des Régies et Infrastructures sont classés au grade 17 prévu par la loi précitée du 25 mars 2015 et sont régies par la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État.\n\nL’article 17 de la loi précitée du 25 mars 2015 leur est également applicable.",
+      "text_sha256": "3b32d8f3953c95077325d1693088c3056ee09e93ca19f16f05fd8a0f131184c7",
+      "md_span": {
+        "start": 7157,
+        "end": 7793
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi précitée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2005/12/09/n1/jo",
+          "text": "loi modifiée du 9 décembre 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_13/20201009",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Comité de direction**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Directeur du Bureau du Maréchal est l’adjoint du Maréchal. Il dirige le Bureau du Maréchal et les fonctions y rattachées. En cas d’absence du Maréchal il agit comme remplaçant et préside le Comité de direction.\n\n**(2)** Le Conseiller du Grand-Duc conseille et informe le Grand-Duc sur l’actualité politique, économique et sociale et les grands dossiers nationaux et internationaux.\n\n**(3)** Le Directeur Administration, Finances et Ressources humaines a dans ses compétences l’administration générale, la comptabilité, les finances, les ressources humaines et les technologies de l’information de la Maison du Grand-Duc.\n\nIl prépare le budget de la Maison du Grand-Duc et veille à son exécution, conformément au chapitre 5.\n\nIl est responsable de la gestion des ressources humaines de la Maison du Grand-Duc. Il développe une politique de bien-être du personnel et sera responsable de sa mise en œuvre.\n\nIl veille au respect par les agents de la Maison du Grand-Duc de la législation en vigueur en matière de protection des données à caractère personnel.\n\nIl est responsable de la mise en place des systèmes informatiques appropriés au sein de la Maison du Grand-Duc.\n\n**(4)** Le Directeur Organisation et Sécurité est responsable de la coordination du service des aides de camp, du service de la protection rapprochée et du service de protection des lieux de la Maison du Grand-Duc.\n\n**(5)** Le Directeur des Régies et Infrastructures est responsable de la coordination et du fonctionnement des régies du Palais Grand-Ducal, du Château de Colmar Berg et du Château de Fischbach. Il gère le parc automobile de la Maison du Grand-Duc et les plans de mission des chauffeurs. Il est en charge des infrastructures.",
+      "text_sha256": "39cb18ae59e3f63fe368ca430db1ac6807b469afd145ac055445ab807888a192",
+      "md_span": {
+        "start": 7830,
+        "end": 9551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_14/20201009",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Comité de coordination**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Il est créé un Comité de coordination chargé des missions suivantes :\n\n1. le suivi du bon fonctionnement de la Maison du Grand-Duc dans l’esprit du présent arrêté ;\n2. la coordination des relations entre le Grand-Duc et le Gouvernement ;\n3. l’approbation de l’avant-projet de budget de la Maison du Grand-Duc ;\n4. l’approbation de l’organigramme fonctionnel et personnel de la Maison du Grand-Duc, y inclus les éventuels amendements, tels que proposés par le Maréchal ;\n5. l’exercice, à l’égard du personnel de la Maison du Grand-Duc, des pouvoirs conférés au Ministre du ressort par la législation applicable aux agents de l’État ;\n6. l’approbation de la publication des communications d’ordre institutionnel de la Maison du Grand-Duc ;\n7. l’établissement d’un inventaire des biens, propriété des Membres de la Famille grand-ducale, qui contribuent à l’exercice de la fonction du Chef de l’État et pour lesquels l’État prend en charge les frais d’entretien, de réparation et de rénovation.",
+      "text_sha256": "e9494a9c50eaf4cb462773e524e99dc0c2b82664c28da624a221ded426a356aa",
+      "md_span": {
+        "start": 9637,
+        "end": 10627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_15/20201009",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Comité de coordination**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Comité de coordination est co-présidé par le Maréchal et le Secrétaire général du Conseil de Gouvernement. Les co-présidents peuvent s’adjoindre des collaborateurs et des experts.\n\n**(2)** Le Comité peut être assisté d’un secrétaire désigné de commun accord par les co-présidents.",
+      "text_sha256": "f4ff8b84e7ab1cc9f3a98ca0cf107ff7b2e96eb01c703f9fcea09c4c7aa9c398",
+      "md_span": {
+        "start": 10664,
+        "end": 10955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_16/20201009",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Comité de coordination**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Comité de coordination se réunit au moins six fois par an sur l’initiative de l’un de ses co-présidents. Les réunions peuvent se tenir par téléconférence.\n\n**(2)** Les décisions du Comité de coordination sont prises d’un commun accord par les co-présidents.",
+      "text_sha256": "f48205afc292d7f440f69de3b08b3f7eb21d1ce386af1d9c5217948752a3a3b6",
+      "md_span": {
+        "start": 10992,
+        "end": 11260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_17/20201009",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Comité de coordination**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le Maréchal saisit le Comité de coordination de toute demande de renforcement ou de remplacement d’effectifs. Après vérification de la description de poste en question par rapport à l’organigramme, le Comité de coordination saisit le Ministre d’État des demandes et des prévisions d’effectifs ainsi que du nombre d’effectifs engagés, afin qu’il puisse en être tenu compte dans l’élaboration des propositions de la Commission d’économies et de rationalisation relatives au renforcement de personnel au service de l’État dans le cadre de la procédure budgétaire.\n\n**(2)** Le Maréchal veille à la publication des postes vacants, déterminés et budgétisés selon la procédure prévue au paragraphe 1er. Il soumet les dossiers des candidats sélectionnés au Comité de coordination pour approbation avant leur engagement.\n\n**(3)** Toute demande de changement d’affectation ou de changement d’administration émanant du Maréchal et concernant un agent de la Maison du Grand-Duc est soumise pour approbation au Comité de coordination.",
+      "text_sha256": "89037354d1f607acd4cae7d1e686f4b0b0fbcb20603bffc8d2a3bfcce3905446",
+      "md_span": {
+        "start": 11297,
+        "end": 12326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_18/20201009",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Budget**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Les fonds nécessaires au fonctionnement de la Maison du Grand-Duc sont à charge des crédits inscrits au budget de l’État.\n\n**(2)** Le budget alloué à la Maison du Grand-Duc est exécuté conformément à la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, y inclus en ce qui concerne le contrôle de son exécution par la Direction du contrôle financier en appliquant les modalités des procédures communes fixées par le Ministre des Finances. En application de la loi modifiée du 8 juin 1999 portant organisation de la Cour des comptes, la Cour des comptes examine la légalité et la régularité des dépenses de la Maison du Grand-Duc. Le Maréchal revêt le rôle d’ordonnateur.\n\n**(3)** L’avant-projet de budget de la Maison du Grand-Duc pour l’exercice budgétaire suivant est soumis par le Maréchal au Comité de coordination. Le Secrétaire général du Conseil de Gouvernement soumet l’avant-projet de budget approuvé par le Comité de coordination à l’Inspection générale des finances pour inclusion dans le projet de loi concernant le budget des recettes et des dépenses de l’État pour l’exercice budgétaire suivant et la programmation financière des exercices budgétaires suivants conformément à la lettre circulaire budgétaire.",
+      "text_sha256": "3ba73b901dd658035225134a760370a559528435048a8c4ebbc5600b2bec6eb8",
+      "md_span": {
+        "start": 12396,
+        "end": 13662
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n1/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_19/20201009",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Budget**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "L’État prend en charge les frais d’entretien, de gros entretien, de sécurisation et de rénovation relatifs au Château de Fischbach pour les périodes pendant lesquelles il sert de domicile au Grand-Duc Héritier, au Lieutenant-Représentant ou à l’Ancien Grand-Duc.",
+      "text_sha256": "537075b624ef210335e5544997abd0fe740f8e92f03f3791ec737e3aaa398f65",
+      "md_span": {
+        "start": 13699,
+        "end": 13961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_20/20201009",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Budget**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "En cas d’aliénation d’un bien qui est la propriété des Membres de la Famille grand-ducale et pour lequel l’État a pris en charge des frais d’entretien, de réparation ou de rénovation conformément à l’article 14, point 7°, l’Administration des Biens du Grand-Duc rembourse au Trésor public le montant correspondant aux frais d’entretien, de réparation ou de rénovation pris en charge par l’État, en tenant compte de la dépréciation de valeur due à l’usage et au temps, suivant une table d’amortissement agréée par le Comité de coordination et gérée par la Maison du Grand-Duc. Ce remboursement est effectué dans les deux mois qui suivent la date de l’aliénation en question.",
+      "text_sha256": "944608e65e1e312c30af1b36d4008996078baa627000b3b3fc2b0e4ae5a3e486",
+      "md_span": {
+        "start": 13998,
+        "end": 14671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_21/20201009",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "**(1)** Le personnel au service de la Cour grand-ducale disposant d’un contrat de travail conclu avec l’Administration des Biens du Grand-Duc au jour de l’entrée en vigueur du présent arrêté et dont le poste figure dans l’organigramme arrêté selon la procédure prévue à l’article 14, point 4, est repris par la Maison du Grand-Duc selon les conditions prévues par le présent arrêté, au plus tard au 30 juin 2021. À cette fin, la date d’entrée en service auprès de la Cour grand-ducale est considérée comme date d’entrée en service en tant qu’agent de l’État.\n\n**(2)** Les agents de la Police grand-ducale affectés à la protection rapprochée au moment de l’entrée en vigueur du présent arrêté sont intégrés dans l’Unité spéciale de la Police grand-ducale.",
+      "text_sha256": "21e703217a39927fd9b6bf860c84d6b1d6674a81a0099c8da9ab9784c1dd5f89",
+      "md_span": {
+        "start": 14760,
+        "end": 15514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_22/20201009",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Les paragraphes 2 et 3 de l’article 18 s’appliquent à partir du 1er janvier 2021.",
+      "text_sha256": "fb4f5e7be1f67997a3b753e9321b1c049e6d307d390239bc7ff6f3a958f29825",
+      "md_span": {
+        "start": 15598,
+        "end": 15679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_23/20201009",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Les paragraphes 1er et 2 de l’article 6 s’appliquent à partir du 1er janvier 2022.",
+      "text_sha256": "8476cb5a1d694a86ac3f6daf4ec909a3b4cd5cf647ea994f1f10bc1476374b57",
+      "md_span": {
+        "start": 15716,
+        "end": 15798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:agd-2020-10-09-a817:2022-04-04--4b395abed9fed44927cb3b3446b8435df8eb8a51f0dd0c6b5389b04f76071050#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/art_24/20201009",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2020-10-09",
+      "text_md": "Notre Premier Ministre, Ministre d’État est chargé de l’exécution du présent arrêté qui sera publié au Journal officiel du Grand-Duché de Luxembourg et qui entrera en vigueur le jour de sa publication.",
+      "text_sha256": "0042afd028c051edc2bb0e9a5af7c9bf03cd983920c4b5b8f999893cb836c3bb",
+      "md_span": {
+        "start": 15835,
+        "end": 16036
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

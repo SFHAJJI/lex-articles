@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0065r(09):2017-03-10--7c87452a0c101e56fc6fed4c3169089f0138d714ed907c5d51a7adc9fb6450dc",
+  "language": "en",
+  "title": "Corrigendum to Directive 2014/65/EU",
+  "valid_from": "2017-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0065r(09)/versions/2017-03-10--7c87452a0c101e56fc6fed4c3169089f0138d714ed907c5d51a7adc9fb6450dc/en.xml",
+    "sha256": "41f4c75887c70c41889375a98c134f56ecc2d6be33bedee3da9b4ffd4e386ed8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065R%2809%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0065r(09):2017-03-10--7c87452a0c101e56fc6fed4c3169089f0138d714ed907c5d51a7adc9fb6450dc#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "10.3.2017 EN Official Journal of the European Union L 64/116 Corrigendum to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU ( Official Journal of the European Union L 173 of 12 June 2014 ) On page 421, first subparagraph of Article 34(9): for: ‘ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 3, 4, 5 and 7.’, read: ‘ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 2, 3, 4, 5 and 7.’; on page 423, first subparagraph of Article 35(12): for: ‘ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 3, 4, 7 and 10.’, read: ‘ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 2, 3, 4, 7 and 10.’.",
+      "text_sha256": "855aa242c723fb53188bd6b6709bb7556fbf080b4bc7cd66329f7ff26c900b8a",
+      "md_span": {
+        "start": 673,
+        "end": 1905
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

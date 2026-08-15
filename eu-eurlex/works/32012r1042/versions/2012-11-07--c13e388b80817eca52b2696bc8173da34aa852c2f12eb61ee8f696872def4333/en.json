@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1042:2012-11-07--c13e388b80817eca52b2696bc8173da34aa852c2f12eb61ee8f696872def4333",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A01042/2012 of 7\u00A0November 2012 amending Regulation (EU) No\u00A0103…",
+  "valid_from": "2012-11-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1042/versions/2012-11-07--c13e388b80817eca52b2696bc8173da34aa852c2f12eb61ee8f696872def4333/en.xml",
+    "sha256": "f09af4b61a320a1b5d61bf1e6d47a57c41208f3a399e11b5bb02079120cca478",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1042"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32012r1042:2012-11-07--c13e388b80817eca52b2696bc8173da34aa852c2f12eb61ee8f696872def4333#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EU) No 1031/2010 is amended as follows:\n\n| (1) | Article 25, paragraph 2 is amended as follows:(a)point (c) is replaced by the following:‘(c)any evidence of anti-competitive behaviour, market abuse, money laundering, terrorist financing or criminal activity;’;(b)point (f) is replaced by the following:‘(f)information about the number, nature and status of any complaints made pursuant to Articles 59(4) or 64(1) as well as any complaints made against an auction platform to the national competetent authorities supervising that auction platform, the courts or competent administrative bodies provided for in the national measures transposing Article 52(2) of Directive 2004/39/EC.’; |\n| --- | --- |\n| (a) | point (c) is replaced by the following:‘(c)any evidence of anti-competitive behaviour, market abuse, money laundering, terrorist financing or criminal activity;’; |\n| ‘(c) | any evidence of anti-competitive behaviour, market abuse, money laundering, terrorist financing or criminal activity;’; |\n| (b) | point (f) is replaced by the following:‘(f)information about the number, nature and status of any complaints made pursuant to Articles 59(4) or 64(1) as well as any complaints made against an auction platform to the national competetent authorities supervising that auction platform, the courts or competent administrative bodies provided for in the national measures transposing Article 52(2) of Directive 2004/39/EC.’; |\n| ‘(f) | information about the number, nature and status of any complaints made pursuant to Articles 59(4) or 64(1) as well as any complaints made against an auction platform to the national competetent authorities supervising that auction platform, the courts or competent administrative bodies provided for in the national measures transposing Article 52(2) of Directive 2004/39/EC.’; |\n\n| (2) | Annex III is amended in accordance with the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "d3a957854137965524d92d8c8801ace46c33144182ae62ae71e79ec10e3dadc3",
+      "md_span": {
+        "start": 702,
+        "end": 2643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r1042:2012-11-07--c13e388b80817eca52b2696bc8173da34aa852c2f12eb61ee8f696872def4333#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 2676,
+        "end": 2817
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

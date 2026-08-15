@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e053:2016-06-07--ccbc1c870fad9c302cc9e6dbb3ba13575be633dfd94b1bed39de99a693c35653",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e053/versions/2016-06-07--ccbc1c870fad9c302cc9e6dbb3ba13575be633dfd94b1bed39de99a693c35653/fr.xml",
+    "sha256": "2660768fa05db754928d5c5d4cad2add4b6580a83b638fbe5ca66a88fc1e69d7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E053"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e053:2016-06-07--ccbc1c870fad9c302cc9e6dbb3ba13575be633dfd94b1bed39de99a693c35653#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/69 Article 53 (ex-article 47 TCE) 1. Afin de faciliter l'accès aux activités non salariées et leur exercice, le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire, arrêtent des directives visant à la reconnaissance mutuelle des diplômes, certificats et autres titres, ainsi qu'à la coordination des dispositions législatives, réglementaires et administratives des États membres concernant l'accès aux activités non salariées et à l'exercice de celles-ci. 2. En ce qui concerne les professions médicales, paramédicales et pharmaceutiques, la suppression progressive des restrictions est subordonnée à la coordination de leurs conditions d'exercice dans les différents États membres.",
+      "text_sha256": "22704e5133015c4a617674bae28229c0150f0b7a703380ef06ac863af5785260",
+      "md_span": {
+        "start": 713,
+        "end": 1493
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

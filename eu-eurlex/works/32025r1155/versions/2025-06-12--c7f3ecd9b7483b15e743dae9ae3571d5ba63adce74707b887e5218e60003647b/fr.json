@@ -1,0 +1,473 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/1155 of 12\u00A0June 2025 supplementing Regulation (EU) No\u00A0600/2014",
+  "valid_from": "2025-06-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1155/versions/2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b/fr.xml",
+    "sha256": "79fd9ed3eaf8db2f42af6bfabea82669e10cf49f8b5546e5db91aefa80745970",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1155"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par:\n\n| a) | «données d’entrée»: les données transmises par les contributeurs en données au CTP, conformément à l’article 22 bis, paragraphe 1, du règlement (UE) no 600/2014; |\n| --- | --- |\n\n| b) | «données de sortie»: les données diffusées par le CTP, conformément à l’article 27 nonies, paragraphe 1, point d), du règlement (UE) no 600/2014. |\n| --- | --- |",
+      "text_sha256": "9bb416d86564ceb961479965e0e13396138acc72a12718c76f553f61cb5409fd",
+      "md_span": {
+        "start": 715,
+        "end": 1133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. En ce qui concerne la transmission de données d’entrée, les contributeurs en données proposent aux CTP au moins un protocole de transmission conforme aux exigences minimales de qualité des protocoles de transmission spécifiées dans les tableaux 1 à 4 de l’annexe I.\n\n2. Après avoir convenu du protocole de transmission sélectionné pour la transmission des données d’entrée, les CTP et les contributeurs en données veillent à ce que les exigences minimales visées au paragraphe 1 soient systématiquement respectées sans interruption.",
+      "text_sha256": "5d805d676edfbd29f46764369dcab6501f46e2ded9c69084354ab96a36ca87ec",
+      "md_span": {
+        "start": 1166,
+        "end": 1712
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les contributeurs en données transmettent les données d’entrée aux centres de données des CTP dans des délais aussi proches du temps réel que le permettent les moyens techniques et sans retard artificiel.\n\n2. Les contributeurs en données transmettent au CTP pour les actions et les fonds cotés les données d’entrée pré-négociation dans des délais aussi proches du temps réel que le permettent les moyens techniques et, en tout état de cause, au plus tard 50 millisecondes après l’horodatage de l’ordre avec un intervalle de confiance de 95 % mesuré quotidiennement.\n\n3. Les contributeurs en données transmettent au CTP pour les actions et les fonds cotés les données d’entrée post-négociation relatives aux transactions exécutées sur une plate-forme de négociation dans un délai aussi proche du temps réel que le permettent les moyens techniques et, en tout état de cause, au plus tard 50 millisecondes après l’horodatage de la transaction avec un intervalle de confiance de 95 % mesuré quotidiennement.\n\n4. Les contributeurs en données transmettent au CTP pour les actions et les fonds cotés les données d’entrée post-négociation relatives aux transactions exécutées en dehors d’une plate-forme de négociation dans un délai aussi proche du temps réel que le permettent les moyens techniques et, en tout état de cause, dans un délai de 50 millisecondes après l’horodatage de la réception de la déclaration de transaction de l’entreprise d’investissement ou de l’entité de publication désignée (DPE) avec un intervalle de confiance de 95 % mesuré quotidiennement.\n\n5. Les contributeurs en données transmettent au CTP pour les obligations et au CTP pour les dérivés de gré à gré les données d’entrée post-négociation relatives aux transactions exécutées sur une plate-forme de négociation dans un délai aussi proche du temps réel que le permettent les moyens techniques et, en tout état de cause, dans un délai de 500 millisecondes après l’horodatage de l’exécution de la transaction concernée.\n\n6. Les contributeurs en données transmettent au CTP pour les obligations et au CTP pour les dérivés de gré à gré les données d’entrée post-négociation relatives aux transactions exécutées en dehors d’une plate-forme de négociation dans un délai aussi proche du temps réel que le permettent les moyens techniques et, en tout état de cause, dans un délai de 500 millisecondes après l’horodatage de la réception de la déclaration de transaction de l’entreprise d’investissement ou de la DPE.",
+      "text_sha256": "ba07b430f5dc0ca4eb8eb4b0255016c96953f4255ef4d4823b197bcb3dfa7f79",
+      "md_span": {
+        "start": 1745,
+        "end": 4241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes contributeurs en données transmettent les données d’entrée aux centres de données des CTP dans un format conforme à la méthode ISO 20022.",
+      "text_sha256": "91f201bec42379badc9fd21eba76507ec3e346100c04cdc7dfb33eeaed6f4d3c",
+      "md_span": {
+        "start": 4274,
+        "end": 4426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. En ce qui concerne les données de marché essentielles pour une obligation donnée, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque transaction, les informations prévues dans le tableau 6 de l’annexe II pour lesquelles figure l’indication «entrée» ou «les deux» dans la dernière colonne du tableau 6.\n\n2. En ce qui concerne les données réglementaires, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque instrument financier, les informations prévues dans le tableau 2 de l’annexe II pour lesquelles figure l’indication «les deux» dans la dernière colonne du tableau 2.\n\n3. En ce qui concerne les données réglementaires, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque système de négociation, les informations prévues dans le tableau 3 de l’annexe II pour lesquelles figure l’indication «les deux» dans la dernière colonne du tableau 3.",
+      "text_sha256": "63b5dcba7776daa3a79eb210d881aed38a42cda0571fd083f8a0743ff9a69e32",
+      "md_span": {
+        "start": 4459,
+        "end": 5441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. En ce qui concerne les données de marché essentielles post-négociation pour une action ou un fonds coté donné, les contributeurs en données transmettent au centre de données du CTP l’ensemble des éléments suivants:\n\n| a) | par référence à chaque transaction, les informations prévues dans le tableau 7 de l’annexe II pour lesquelles figure l’indication «entrée» ou «les deux» dans la dernière colonne du tableau 7; |\n| --- | --- |\n\n| b) | le premier jour de chaque mois (n), la liste des transactions qui ont été exécutées au cours du mois précédant (n-1), conformément à l’article 4, paragraphe 1, point c), du règlement (UE) no 600/2014. |\n| --- | --- |\n\n2. En ce qui concerne les données de marché essentielles pré-négociation pour une action ou un fonds coté donné, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque meilleur prix d’achat et de vente et à chaque prix auquel le système de négociation à enchères satisferait au mieux son algorithme de négociation, les informations prévues dans le tableau 2 de l’annexe III.\n\n3. En ce qui concerne les données réglementaires, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque instrument financier, les informations prévues dans le tableau 4 de l’annexe II pour lesquelles figure l’indication «les deux» dans la dernière colonne du tableau 4.\n\n4. En ce qui concerne les données réglementaires, les contributeurs en données transmettent au centre de données du CTP, par référence à chaque système de négociation, les informations prévues dans le tableau 5 de l’annexe II pour lesquelles figure l’indication «les deux» dans la dernière colonne du tableau 5.",
+      "text_sha256": "3859bcc21ba6f039a74937a6273957c715de553e29b1b33d6cd586d4923c7c36",
+      "md_span": {
+        "start": 5474,
+        "end": 7182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. En ce qui concerne les données de marché essentielles pour une obligation donnée, le CTP diffuse, par référence à chaque transaction, les informations prévues dans le tableau 6 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne du tableau 6.\n\n2. En ce qui concerne les données réglementaires relatives aux obligations, le CTP diffuse:\n\n| a) | par référence à chaque instrument financier, les informations prévues dans le tableau 2 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne du tableau 2; |\n| --- | --- |\n\n| b) | par référence à chaque système de négociation, les informations prévues dans le tableau 3 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne du tableau 3. |\n| --- | --- |",
+      "text_sha256": "53c781913dd35461cb7ad37613cfb438e857c30cd177ec250b8cb52060810c51",
+      "md_span": {
+        "start": 7215,
+        "end": 8063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. En ce qui concerne les données de marché essentielles post-négociation pour une action ou un fonds côté donné, le CTP diffuse, par référence à chaque transaction, les informations prévues dans le tableau 7 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne du tableau 7.\n\n2. En ce qui concerne les données de marché essentielles pré-négociation pour une action ou un fonds coté donné, le CTP diffuse, par référence au meilleur prix d’achat et de vente européen ou au prix auquel le système de négociation à enchères satisferait au mieux son algorithme de négociation, les informations prévues dans les tableaux 3, 4 et 5 de l’annexe III.\n\n3. En ce qui concerne les données réglementaires relatives aux actions et aux fonds cotés, le CTP diffuse l’ensemble des éléments suivants:\n\n| a) | par référence à chaque instrument financier, les informations prévues dans le tableau 4 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne de ce tableau; |\n| --- | --- |\n\n| b) | par référence à chaque système de négociation, les informations prévues dans le tableau 5 de l’annexe II pour lesquelles figure l’indication «sortie» ou «les deux» dans la dernière colonne du tableau 5. |\n| --- | --- |",
+      "text_sha256": "9e8ef079ebe4fd1cbbfb5a979907a4f89749d4b53d5b7d801e3c93d72d8983d4",
+      "md_span": {
+        "start": 8096,
+        "end": 9389
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les CTP diffusent les données de sortie au moyen d’une interface utilisateur graphique afin de garantir la lisibilité par un humain.\n\n2. Les CTP diffusent aussi les données de sortie au minimum dans les deux formats suivants, simultanément:\n\n| a) | CSV (Comma Separated Values); |\n| --- | --- |\n\n| b) | un format conforme à la méthodologie ISO 20022. |\n| --- | --- |\n\n3. Les CTP:\n\n| a) | mettent à la disposition du public des instructions expliquant où et comment obtenir et utiliser facilement les données, notamment l’indication du format électronique; |\n| --- | --- |\n\n| b) | rendent publiques toutes les modifications apportées aux instructions visées au point a) au moins trois mois avant qu’elles ne prennent effet, sauf en cas d’urgence dûment justifiée nécessitant qu’elles prennent effet plus rapidement; |\n| --- | --- |\n\n| c) | incluent sur la page d’accueil de leur site internet un lien vers les instructions visées au point a). |\n| --- | --- |",
+      "text_sha256": "743020005554e7510a237b0c49bb91c7e11178653b2a57949209fb8402e460f3",
+      "md_span": {
+        "start": 9422,
+        "end": 10393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les CTP mettent en place et maintiennent les dispositifs nécessaires pour garantir qu’ils collectent, consolident et publient avec exactitude les informations reçues des contributeurs en données et qu’ils n’introduisent aucune erreur ni n’omettent aucune information. Les CTP corrigent les informations lorsqu’ils sont eux-mêmes à l’origine de l’erreur ou de l’omission.\n\n2. Les CTP surveillent constamment en temps réel les performances de leurs systèmes informatiques afin de garantir que les données d’entrée qu’ils ont reçues sont bien consolidées et publiées.\n\n3. Les CTP effectuent des rapprochements périodiques entre les données d’entrée qu’ils reçoivent et les données de sortie qu’ils publient afin de vérifier que les données de sortie ont été correctement publiées.\n\n4. Les CTP mettent en place des mécanismes permettant de confirmer aux contributeurs en données qu’ils ont reçu les données d’entrée et attribuent un code d’identification de transaction à chaque message de données d’entrée qu’ils reçoivent. Les CTP mentionnent le code d’identification de transaction lors de toute communication ultérieure avec le contributeur en données au sujet d’un ensemble spécifique d’informations déclarées.\n\n5. Les CTP mettent en place et maintiennent des dispositifs permettant de repérer les données d’entrée reçues qui sont incomplètes, qui ne satisfont pas aux exigences énoncées aux articles 5 et 6 ou qui contiennent des informations susceptibles d’être erronées. Ces dispositifs comprennent des mécanismes automatiques d’alerte de prix et de volume, tenant compte:\n\n| a) | du secteur et du segment sur lequel l’instrument financier est négocié; |\n| --- | --- |\n\n| b) | des niveaux de liquidité, incluant les niveaux de négociation historiques; |\n| --- | --- |\n\n| c) | de prix et de volumes de référence appropriés; |\n| --- | --- |\n\n| d) | si nécessaire, d’autres paramètres propres aux caractéristiques de l’instrument financier. |\n| --- | --- |\n\n6. Les CTP qui constatent que les données d’entrée qu’ils ont reçues sont incomplètes ou ne satisfont pas à d’autres exigences de déclaration prévues par le présent règlement ne publient pas ces données et alertent rapidement le contributeur qui les a transmises.\n\n7. Les CTP qui constatent que les données d’entrée qu’ils ont reçues sont susceptibles d’être erronées diffusent les données de sortie correspondantes et signalent rapidement le problème potentiel de qualité des données tant au public qu’au contributeur en données.\n\n8. Dès réception d’une notification d’un problème de qualité des données, les contributeurs en données en accusent réception et, si nécessaire, entament le processus pour soumettre de nouveau les données corrigées.\n\n9. Les CTP contrôlent l’actualité des données d’entrée reçues de la part des contributeurs en données afin de détecter les violations graves et répétées des exigences énoncées à l’article 3.\n\n10. Les CTP effacent et modifient les informations figurant dans une déclaration de transaction à la demande du contributeur en données qui a fourni les informations lorsque ce contributeur en données ne peut pas supprimer ou modifier ses propres informations pour des raisons techniques.\n\n11. Les CTP communiquent avec leurs clients au moyen de mécanismes de communication interactifs formalisés permettant aux utilisateurs de données de signaler au CTP toute inexactitude éventuelle dans la diffusion des données de sortie.\n\n12. Les CTP publient des politiques non discrétionnaires décrivant les mesures visant à faire respecter la qualité des données et la manière dont ces mesures sont appliquées. Ces politiques contiennent des orientations claires sur l’application desdites mesures, garantissant le respect de l’application non discrétionnaire, la proportionnalité, l’actualité, la cohérence et la transparence.",
+      "text_sha256": "b1a7c9150a6c5cfb56c5380606fd06c8d05a683f88d404cbaa59ea3e07e50810",
+      "md_span": {
+        "start": 10428,
+        "end": 14260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLes opérateurs des plates-formes de négociation et leurs membres, participants ou utilisateurs, les internalisateurs systématiques, les entités de publication désignées (DPE), les dispositifs de publication agréés (APA) et les CTP synchronisent les horloges professionnelles qu’ils utilisent pour enregistrer la date et l’heure de tout événement méritant d’être signalé avec le temps universel coordonné (TUC) établi et géré par les laboratoires du temps énumérés dans la base de données gérée par le Bureau international des poids et mesures. Les opérateurs des plates-formes de négociation et leurs membres, participants ou utilisateurs, les internalisateurs systématiques, les DPE, les APA et les CTP peuvent aussi synchroniser les horloges professionnelles qu’ils utilisent pour enregistrer la date et l’heure de tout événement méritant d’être signalé avec le TUC diffusé par un système à satellites, à condition que tout décalage par rapport au TUC soit comptabilisé et supprimé de l’horodatage.",
+      "text_sha256": "1f3fe3ea7ec7ff8d932dcbaf1a09b60b8bcd894e3e334353695dfd65c384184c",
+      "md_span": {
+        "start": 14295,
+        "end": 15307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les opérateurs des plates-formes de négociation et les internalisateurs systématiques veillent à ce que leurs horloges professionnelles respectent les niveaux de précision indiqués dans le tableau 1 de l’annexe IV selon le temps d’attente de passerelle à passerelle de chacun de leurs systèmes de négociation. Le temps d’attente de passerelle à passerelle est le temps mesuré à partir du moment où un message est reçu par une passerelle externe du système de la plate-forme de négociation, envoyé au moyen du protocole de soumission de l’ordre, traité par le moteur d’appariement, puis renvoyé jusqu’au moment où un accusé de réception est envoyé à partir de la passerelle.\n\n2. Par dérogation au paragraphe 1, les opérateurs des plates-formes de négociation et les internalisateurs systématiques qui exploitent un système de négociation à la criée, ou un système de négociation avec demandes d’offre de prix (request for quote) qui nécessite, pour les transactions, une intervention humaine ou qui ne permet pas le trading algorithmique, ou un système qui formalise les transactions négociées conformément à l’article 4, paragraphe 1, point b), du règlement (UE) no 600/2014, veillent à ce que leurs horloges professionnelles ne s’écartent pas de plus d’une seconde du TUC visé à l’article 11. L’opérateur de la plate-forme de négociation ou l’internalisateur systématique veille à ce que les heures soient enregistrées avec une granularité d’au moins une seconde.\n\n3. Les opérateurs des plates-formes de négociation et les internalisateurs systématiques qui exploitent plusieurs types de systèmes de négociation veillent à ce que chaque système respecte le niveau de précision applicable audit système conformément aux paragraphes 1 et 2.",
+      "text_sha256": "4529631b75b54535eed3d99aebf742c091712143f0b2976b27e72c70d8959bb6",
+      "md_span": {
+        "start": 15342,
+        "end": 17096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les membres, participants ou utilisateurs des plates-formes de négociation veillent à ce que leurs horloges professionnelles utilisées pour enregistrer l’heure d’événements méritant d’être signalés respectent le niveau de précision indiqué dans le tableau 2 de l’annexe IV.\n\n2. Les membres, participants ou utilisateurs des plates-formes de négociation qui exercent plusieurs types d’activités de négociation veillent à ce que les systèmes qu’ils utilisent pour enregistrer l’heure d’événements méritant d’être signalés respectent le niveau de précision applicable à chacune de ces activités de négociation conformément aux exigences énoncées dans le tableau 2 de l’annexe IV.",
+      "text_sha256": "8ff8dd4e6e9f1cddc888bbfc0e553296e30f24e36270715198114d9741ab4a4a",
+      "md_span": {
+        "start": 17131,
+        "end": 17822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les DPE enregistrent à la milliseconde près, ou plus précisément encore, la date et l’heure des événements méritant d’être signalés.\n\n2. Les DPE veillent à ce que leurs horloges professionnelles utilisées pour enregistrer l’heure des événements méritant d’être signalés ne s’écartent pas de plus d’une milliseconde de l’heure de référence fixée à l’article 11.\n\n3. Par dérogation aux paragraphes 1 et 2, les DPE qui ont également acquis le statut d’internalisateur systématique se conforment aux dispositions de l’article 12.",
+      "text_sha256": "63fa54a5aca6398e0fe6cc98246c8c2c50c8acb6599453bd568f53ec41afe6dd",
+      "md_span": {
+        "start": 17857,
+        "end": 18397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les APA et les CTP enregistrent à la milliseconde près, ou plus précisément encore, la date et l’heure des événements à méritant d’être signalés.\n\n2. Les APA et les CTP veillent à ce que leurs horloges professionnelles utilisées pour enregistrer l’heure des événements méritant d’être signalés ne s’écartent pas de plus d’une milliseconde de l’heure de référence définie à l’article 11.",
+      "text_sha256": "a7b0cbeddaac019d99ad369f1c33596bb3f838e74ede1ebe5b780896e5768238",
+      "md_span": {
+        "start": 18432,
+        "end": 18833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLes opérateurs des plates-formes de négociation et leurs membres, participants ou utilisateurs mettent en place un système de traçabilité au TUC. Ils sont en mesure de démontrer la traçabilité au TUC en informant sur la conception, le fonctionnement et les spécifications du système. Ils sont en mesure de déterminer le moment précis où l’horodatage est appliqué et de démontrer que l’endroit du système où l’horodatage est appliqué ne change pas. Ils évaluent au moins une fois par an la conformité du système de traçabilité au TUC avec le présent règlement.",
+      "text_sha256": "36db7a2da24703958fad5d3dee43cd6d4ecd89b91c0fd0a2dcde317f471366a8",
+      "md_span": {
+        "start": 18868,
+        "end": 19439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Aux fins de la redistribution d’une partie des recettes générées par le système consolidé de publication aux contributeurs en données qui remplissent un ou plusieurs des critères énoncés à l’article 27 nonies, paragraphe 6, du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés détermine:\n\n| a) | le montant des recettes à redistribuer, sur la base du total des recettes générées par le système consolidé de publication sur la fenêtre de calcul, comme le spécifie le CTP; et |\n| --- | --- |\n\n| b) | la liste des marchés réglementés, des MTF et des marchés de croissance des PME qui ont transmis des données d’entrée au cours de la période d’évaluation, soit pour l’ensemble de la période, soit pour une partie de celle-ci (les «contributeurs en données éligibles»). |\n| --- | --- |\n\n2. Après avoir déterminé le montant des recettes à redistribuer et la liste des contributeurs en données éligibles conformément au paragraphe 1, le CTP pour les actions et les fonds cotés effectue les calculs prévus aux articles 18 à 21. Le CTP pour les actions et les fonds cotés effectue ces calculs au moins une fois par an et, en tout état de cause, avant le vingtième jour du mois suivant la fenêtre de calcul, en utilisant les transactions enregistrées par chaque contributeur en données au cours de la période d’évaluation. Le CTP pour les actions et les fonds cotés applique les pourcentages résultant de ces calculs rétroactivement sur la dernière fenêtre de calcul.\n\n3. Aux fins des paragraphes 1 et 2, la fenêtre de calcul correspond à chaque période pour laquelle une partie des recettes du système consolidé de publication est redistribuée.\n\n4. Aux fins du paragraphe 2, la période d’évaluation correspond aux douze mois sur lesquels le volume de négociation concerné à multiplier par chaque pondération est pris en considération.",
+      "text_sha256": "205f044a3197a22eaee88ea3847e96de86c879855782906dd2cde82ab9759ad4",
+      "md_span": {
+        "start": 19474,
+        "end": 21335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Pour calculer le montant des recettes à redistribuer aux contributeurs en données éligibles qui remplissent le critère énoncé à l’article 27 nonies, paragraphe 6, point a), du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés détermine le volume de négociation annuel total généré pour les actions pour chaque contributeur en données éligible qui est un marché réglementé ou un marché de croissance des PME en additionnant chaque enregistrement de transaction reçu par ce contributeur en données.\n\n2. Le CTP pour les actions et les fonds cotés détermine le volume de négociation annuel total pour les actions dans l’Union en additionnant tous les enregistrements de transactions reçus par tous les contributeurs en données.\n\n3. Aux fins des calculs visés aux paragraphes 1 et 2, les transactions sont comptabilisées une seule fois.\n\n4. Afin de déterminer si un contributeur en données éligible remplit le critère énoncé à l’article 27 nonies, paragraphe 6, point a), du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés divise le montant déterminé conformément au paragraphe 1 par le montant déterminé conformément au paragraphe 2 pour chaque marché réglementé et marché de croissance des PME, identifié par le code d’identification de marché d’exploitation, comme indiqué dans la norme ISO 10383.\n\n5. Pour chaque contributeur en données éligible satisfaisant au critère énoncé à l’article 27 nonies, paragraphe 6, point a), du règlement (UE) no 600/2014, identifié par le MIC de segment, comme indiqué dans la norme ISO 10383, ou par le MIC d’exploitation, lorsqu’il n’existe pas de MIC de segment, le CTP pour les actions et les fonds cotés multiplie le volume de négociation concerné généré par ce MIC, tel que déterminé conformément au paragraphe 1, par une pondération de 4,5.",
+      "text_sha256": "d8ae102e96b8eb2e2afd3641771999efb3b0654dcb9d325f542dd22163ccc60d",
+      "md_span": {
+        "start": 21370,
+        "end": 23208
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Afin de déterminer si un contributeur en données éligible remplit le critère énoncé à l’article 27 nonies, paragraphe 6, point b), du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés évalue, pour chaque contributeur en données éligible, si ce contributeur a fourni une première admission à la négociation d’actions ou de fonds cotés le 27 mars 2019 ou après cette date. Cette évaluation s’appuie sur les informations publiées par l’AEMF conformément à l’article 7, paragraphe 6, du règlement délégué (UE) 2017/585 de la Commission (9).\n\nLe CTP pour les actions et les fonds cotés détermine:\n\n| a) | pour chaque contributeur en données éligible satisfaisant au critère énoncé à l’article 27 nonies, paragraphe 6, point a), du règlement (UE) no 600/2014, le volume de négociation annuel total généré pour les actions et les fonds cotés, en additionnant chaque enregistrement de transaction reçu par ce contributeur en données; |\n| --- | --- |\n\n| b) | pour chaque contributeur en données éligible ne satisfaisant pas au critère énoncé à l’article 27 nonies, paragraphe 6, point a), du règlement (UE) no 600/2014, le volume de négociation annuel total correspondant à des actions et des fonds cotés qui ont été initialement admis à la négociation le 27 mars 2019 ou après cette date, en additionnant chaque enregistrement de transaction pertinent reçu par ce contributeur en données. |\n| --- | --- |\n\nAux fins des calculs visés aux points a) et b), les transactions sont comptabilisées une seule fois.\n\n2. Pour chaque contributeur en données éligible satisfaisant au critère énoncé à l’article 27 nonies, paragraphe 6, point b), du règlement (UE) no 600/2014, identifié par le MIC de segment, comme indiqué dans la norme ISO 10383, ou par le MIC d’exploitation, lorsqu’il n’existe pas de MIC de segment, le CTP pour les actions et les fonds cotés multiplie le volume de négociation concerné généré par ce MIC, tel que déterminé conformément au paragraphe 1, deuxième alinéa, par une pondération de 4,0.",
+      "text_sha256": "7126269d62ed01b78702767c77e448ea56bb1df3c846a21d641e3a0ff292ad85",
+      "md_span": {
+        "start": 23243,
+        "end": 25278
+      },
+      "citations": [
+        {
+          "href": "#ntr9-L_202501155FR.000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Afin de déterminer si un contributeur en données éligible remplit le critère énoncé à l’article 27 nonies, paragraphe 6, point c), du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés détermine, pour chaque contributeur en données éligible, le volume de négociation annuel total soumis à la transparence pré-négociation généré pour les actions et les fonds cotés.\n\nAux fins du calcul visé au premier alinéa, le CTP pour les actions et les fonds cotés inclut tous les enregistrements de transactions reçus des contributeurs en données éligibles qui ne sont pas signalés comme des transactions négociées soumises à des conditions autres que le prix de marché en vigueur (code signalétique «PRIC»), des transactions selon un prix de référence (code signalétique «RFPT»), des transactions négociées portant sur des instruments financiers liquides (code signalétique «NLIQ»), des transactions négociées portant sur des instruments financiers non liquides (code signalétique «OILQ»), comme indiqué dans le tableau 4 de l’annexe I du règlement délégué (UE) 2017/587, ou comme des transactions relevant de la dérogation pré-négociation pour taille élevée conformément à l’article 6, paragraphe 1, point b). Dans tous les cas, les transactions sont comptabilisées une seule fois.\n\n2. Pour chaque contributeur en données éligible satisfaisant au critère énoncé à l’article 27 nonies, paragraphe 6, point c), du règlement (UE) no 600/2014, identifié par le MIC de segment, comme indiqué dans la norme ISO 10383, ou par le MIC d’exploitation, lorsqu’il n’existe pas de MIC de segment, le CTP pour les actions et les fonds cotés multiplie le volume de négociation concerné généré par ce MIC, tel que déterminé conformément au paragraphe 1 du présent article, par une pondération de 1,5.",
+      "text_sha256": "57444625830efa38935d7c26c018ad079ccdfa14cca37669cde4f9c40f220784",
+      "md_span": {
+        "start": 25313,
+        "end": 27122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Pour chaque contributeur en données éligible, le CTP pour les actions et les fonds cotés fait la somme des résultats des multiplications des pondérations par les volumes de négociation effectuées conformément aux articles 18 à 20.\n\n2. Le CTP pour les actions et les fonds cotés détermine la somme totale des résultats des calculs visés au paragraphe 1 pour l’ensemble des contributeurs en données éligibles.\n\n3. Le CTP pour les actions et les fonds cotés divise la somme par contributeur en données effectuée conformément au paragraphe 1 par la somme totale effectuée conformément au paragraphe 2. Les pourcentages obtenus pour chaque contributeur en données sont multipliés par le montant total des recettes à redistribuer.",
+      "text_sha256": "b6095d80b4dbb99501458f4f8e85b1f26f3491d5331264e844fe212f701fd455",
+      "md_span": {
+        "start": 27157,
+        "end": 27896
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Pour décider de l’opportunité de suspendre la participation d’un contributeur en données au système de redistribution des recettes comme le prévoit l’article 27 nonies, paragraphe 8, point c), du règlement (UE) no 600/2014, le CTP pour les actions et les fonds cotés examine si l’un des critères suivants est rempli:\n\n| a) | pendant trois jours consécutifs, le contributeur en données n’a pas présenté de déclarations de transactions ou de déclarations d’ordres ou a présenté plus de trois déclarations de transactions ou déclarations d’ordres dans un délai supérieur au délai aussi proche du temps réel que le permettent les moyens techniques, au sens de l’article 3, et ces déclarations de transactions ou déclarations d’ordres représentent au moins un volume de transactions ou d’ordres qui, en pourcentage, n’est pas inférieur à 10 % du volume total des transactions ou des ordres présentés en un seul jour; |\n| --- | --- |\n\n| b) | pendant trois jours consécutifs, le contributeur en données a présenté plus de trois déclarations de transactions ou déclarations d’ordres qui sont incomplètes ou qui contiennent des données potentiellement erronées, au sens de l’article 10, et ces déclarations de transactions ou déclarations d’ordres représentent au moins un volume de transactions ou d’ordres qui, en pourcentage, n’est pas inférieur à 10 % du volume total des transactions ou des ordres soumis en un seul jour; |\n| --- | --- |\n\n| c) | le contributeur en données ne satisfait plus aux exigences minimales de qualité des protocoles de transmission prévues à l’article 2; |\n| --- | --- |\n\n| d) | le contributeur en données ne satisfait plus aux exigences relatives au niveau de précision avec laquelle les horloges professionnelles doivent être synchronisées conformément au chapitre III. |\n| --- | --- |\n\n2. Le CTP pour les actions et les fonds cotés peut décider de ne pas suspendre la participation d’un contributeur en données au système de redistribution des recettes lorsque les situations visées au paragraphe 1 se sont produites en raison de circonstances extraordinaires, inévitables ou inattendues.",
+      "text_sha256": "2dc1904007203f2b3f9d0c445269a123591c95fe11ee330d0961e21fc9738986",
+      "md_span": {
+        "start": 27931,
+        "end": 30058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Lorsque le CTP pour les actions et les fonds cotés a constaté une violation grave et répétée par un contributeur en données selon les critères énoncés à l’article 22, paragraphe 1, points a) et b), il en informe le contributeur en données dès que possible et, en tout état de cause, dans un délai de deux jours ouvrables à compter du moment où il a constaté la violation grave et répétée. Dans la notification adressée au contributeur en données, le CTP:\n\n| a) | indique les déclarations de transactions ou les déclarations d’ordres en lien avec lesquelles le contributeur en données est présumé avoir commis une violation et le nombre de jours pendant lesquels la redistribution des recettes peut être suspendue; |\n| --- | --- |\n\n| b) | fournit des informations au contributeur en données à l’appui de son évaluation. |\n| --- | --- |\n\nDans un délai d’une semaine à compter de la notification visée au premier alinéa, le contributeur en données peut fournir au CTP des informations complémentaires en vue de prouver que les obligations en matière de données n’ont pas été enfreintes ou qu’il s’est produit une circonstance exceptionnelle visée à l’article 22, paragraphe 2, et demander au CTP de revoir son évaluation sur la base de ces informations complémentaires.\n\nLe CTP réexamine son évaluation en tenant compte des informations complémentaires fournies par le contributeur en données et, lorsqu’il estime que les informations ne sont pas complètes, fixe un délai dans lequel le contributeur en données doit fournir des informations complémentaires.\n\n2. Le dernier jour de la période pour laquelle les recettes sont redistribuées, le CTP établit son évaluation finale visant à déterminer si les critères de suspension temporaire de la participation d’un contributeur en données au système de redistribution des recettes, conformément à l’article 22, paragraphe 1, sont remplis.\n\nLe CTP informe le contributeur en données de son évaluation finale dans les deux jours ouvrables suivant le dernier jour de la période pour laquelle les recettes sont redistribuées. Le CTP informe le contributeur en données des motivations de son évaluation finale, y compris des obligations en matière de données considérées comme enfreintes, et précise le montant des recettes susceptibles d’être retenues.\n\nDans un délai d’une semaine à compter de la réception des informations visées au deuxième alinéa du présent paragraphe, le contributeur en données peut fournir au CTP des informations complémentaires prouvant que les obligations en matière de données visées aux articles 22 bis, 22 ter et 22 quater du règlement (UE) no 600/2014 n’ont pas été enfreintes ou qu’il s’est produit une circonstance exceptionnelle visée à l’article 22, paragraphe 2, et demander au CTP de revoir son évaluation finale sur la base de ces informations complémentaires.\n\nLe CTP réexamine son évaluation finale en tenant compte des informations complémentaires fournies par le contributeur en données et, lorsqu’il estime que les informations ne sont pas complètes, fixe un délai dans lequel le contributeur en données doit fournir des informations complémentaires.\n\n3. Le CTP informe le contributeur en données concerné de sa décision finale relative à la suspension de la participation au système de redistribution des recettes au plus tard deux semaines après avoir informé le contributeur en données de l’évaluation finale visée au paragraphe 2, deuxième alinéa.\n\nLorsque le CTP prend la décision finale de suspendre la participation d’un contributeur en données au système de redistribution des recettes, il peut redistribuer les recettes retenues aux autres contributeurs en données éligibles dans la fenêtre de redistribution suivant cette décision.",
+      "text_sha256": "93dc77a984ccc1ef3cb1a30d4045698f3d08e3b2832c249b7a86d9f97b390c5b",
+      "md_span": {
+        "start": 30093,
+        "end": 33832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Lorsque le CTP pour les actions et les fonds cotés constate, sur la base des informations complémentaires fournies par le contributeur en données conformément à l’article 23, paragraphe 1, deuxième alinéa, et à l’article 23, paragraphe 2, troisième alinéa, que les obligations en matière de données visées aux articles 22 bis, 22 ter et 22 quater du règlement (UE) no 600/2014 n’ont pas été enfreintes, il redistribue les recettes retenues, avec intérêts, au plus tard deux semaines après la décision finale visée à l’article 23, paragraphe 3.\n\n2. Aux fins du calcul des intérêts visés au paragraphe 1, le CTP tient compte du taux moyen de la facilité de dépôt de la Banque centrale européenne ou, lorsque le CTP est établi dans un État membre dont la monnaie n’est pas l’euro, du taux d’intérêt officiel pour le crédit au jour le jour pratiqué par la banque centrale de l’État membre où le CTP est établi, sur la période de suspension de la participation au système de redistribution des recettes.",
+      "text_sha256": "2234d7964d0a3344d4c1f96b27756ff1fabfb9f6b6e39864d60c342e59dde37d",
+      "md_span": {
+        "start": 33867,
+        "end": 34880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nLe règlement délégué (UE) 2017/574 est abrogé avec effet au 2 mars 2026.\n\nLes références faites au règlement délégué abrogé s’entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe V.",
+      "text_sha256": "5a95953f283961351361718cf91e0324fe66b6575a3908953f91f96936c2271e",
+      "md_span": {
+        "start": 34915,
+        "end": 35169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32025r1155:2025-06-12--c7f3ecd9b7483b15e743dae9ae3571d5ba63adce74707b887e5218e60003647b#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nLes articles 11 à 16 sont applicables à partir du 2 mars 2026.",
+      "text_sha256": "dbb01b5d0d4971ed621cbfab1b42208b2525b0d9be46a64351adbb51ad424a74",
+      "md_span": {
+        "start": 35204,
+        "end": 35410
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

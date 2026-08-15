@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1535:2025-07-29--e9b00856e1b9fcdd18f9e5ac3d42b40e9b2484220e9c82ad026edec7cbe80b1b",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/1535 of 29\u00A0July 2025 supplementing Regulation (EU)\u00A02024/2847",
+  "valid_from": "2025-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1535/versions/2025-07-29--e9b00856e1b9fcdd18f9e5ac3d42b40e9b2484220e9c82ad026edec7cbe80b1b/fr.xml",
+    "sha256": "564a614aa08c8524b55b39c532e01febb3b506278974aa1beffbb19be7065ccc",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1535"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1535:2025-07-29--e9b00856e1b9fcdd18f9e5ac3d42b40e9b2484220e9c82ad026edec7cbe80b1b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’application du règlement (UE) 2024/2847 aux produits comportant des éléments numériques relevant du règlement (UE) no 168/2013 est exclue.\n\nToutefois, cette exclusion ne s’applique pas aux véhicules à pédalage de la catégorie L1e mentionnés à l’article 3, point 94), b), du règlement (UE) no 168/2013.",
+      "text_sha256": "443a9b639f783aa7d38435e97a6c0e16f1ef9c5a0c7d694ded9e26429c368c4b",
+      "md_span": {
+        "start": 713,
+        "end": 1033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1535:2025-07-29--e9b00856e1b9fcdd18f9e5ac3d42b40e9b2484220e9c82ad026edec7cbe80b1b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1066,
+        "end": 1207
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

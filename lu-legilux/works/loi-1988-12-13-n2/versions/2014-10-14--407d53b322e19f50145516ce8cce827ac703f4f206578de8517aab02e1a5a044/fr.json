@@ -1,0 +1,187 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044",
+  "language": "fr",
+  "title": "Version consolidée applicable au 14/10/2014 : Loi du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel.",
+  "valid_from": "2014-10-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1988-12-13-n2/versions/2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044/fr.xml",
+    "sha256": "c0c7b2ef914e5acde0a7f2596dadd64326e7fbabe0ecbcad2b7e6f8d1d9538ff",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/consolide/20141014/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_1er/20141014",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Le régime et sa finalité",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Il est instauré un régime fiscal temporaire spécial sur la base de certificats d’investissement audiovisuel, désigné ci-après par le «régime», destiné à favoriser les investissements de capitaux à risque dans la production d’œuvres audiovisuelles à réaliser au Grand-Duché de Luxembourg.",
+      "text_sha256": "b2b82651c41b63313c73578245b709f486804634f626e22ea2f461c5aae81e6f",
+      "md_span": {
+        "start": 747,
+        "end": 1034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_2/20141014",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Les bénéficiaires",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Le Gouvernement peut émettre, au titre des exercices 1999 à 2013, des certificats d’investissement audiovisuel à des sociétés de capitaux agréées, résidentes et pleinement imposables, qui ont pour objet social principal la production audiovisuelle et qui produisent effectivement des œuvres audiovisuelles dans des conditions déterminées à l’article 4 de la présente loi.\n\nSur avis préalable de l’établissement public «Fonds national de soutien à la production audiovisuelle» créé par la loi du 11 avril 1990 telle que modifiée par la suite, désigné ci-après par le «Fonds», les agréments de ces sociétés de production, dont les conditions et modalités sont fixées par règlement grand-ducal, sont délivrés par le ou les membre(s) du Gouvernement ayant dans leurs attributions les finances, le secteur audiovisuel et la culture. Ceux-ci sont désignés au sens de la présente loi par les termes «ministres compétents» procédant par décision commune.\n\nLes sociétés de production qui désirent bénéficier du régime des certificats d’investissement audiovisuel adressent à cette fin une requête au Fonds visé ci-dessus. Le Conseil d’administration du Fonds avise la requête et la transmet aux ministres compétents qui décident de l’éligibilité du projet. Les modalités de cette procédure sont définies par règlement grand-ducal.",
+      "text_sha256": "53a4786ef895d73b0e42f344c4599586c44097a144a80844799aa47b75ec24ed",
+      "md_span": {
+        "start": 1087,
+        "end": 2408
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/04/11/n1/jo",
+          "text": "loi du 11 avril 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_3/20141014",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Les certificats d’investissement audiovisuel",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Les certificats d’investissement audiovisuel sont délivrés par les ministres compétents procédant par décision commune, sur avis préalable du Fonds.\n\nLes modalités de délivrer des certificats d’investissement audiovisuel sont déterminées par règlement grand-ducal.\n\nLes certificats d’investissement audiovisuel ne sont émis que pour des œuvres achevées au titre de la demande introduite.\n\nLe montant des certificats d’investissement audiovisuel ne peut être supérieur à la somme des contributions financières que fournit la société requérante et qui figurent au plan de financement définitif de l’œuvre audiovisuelle pour laquelle le bénéfice du régime de la présente loi est demandé.\n\nLes certificats d’investissement audiovisuel sont nominatifs et peuvent être endossés une seule fois. Ils ne peuvent pas être fractionnés.\n\nLa demande d’attribution des certificats d’investissement audiovisuel est à faire par la société requérante qui précise le montant maximal pour lequel le(s) certificat(s) est (sont) demandé(s) en son (leur) nom et/ou le cas échéant au nom d’un ou de plusieurs bénéficiaires substitutifs.\n\nLe bénéficiaire principal, les bénéficiaires substitutifs et les endossataires des certificats d’investissement audiovisuel ne peuvent être que des personnes morales constituées sous forme de sociétés de capitaux ou de sociétés coopératives.",
+      "text_sha256": "861d6c553d4e00ce4e82f61e12998769758bc77ed04cc693c35ebe6dad53e6bf",
+      "md_span": {
+        "start": 2488,
+        "end": 3844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_4/20141014",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Conditions d’éligibilité des œuvres",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "**1.** Les œuvres audiovisuelles susceptibles de bénéficier du régime des certificats d’investissement audiovisuel doivent répondre aux critères ci-après énumérés:\n\n- contribuer au développement du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, compte tenu d’une proportionnalité raisonnable entre les avantages consentis et les retombées économiques, culturelles et sociales à long terme de la production de ces œuvres;\n- être conçues pour être réalisées au sein de l’Union européenne et en particulier sur le territoire du Grand-Duché de Luxembourg;\n- être exploitées ou co-exploitées par la société de production, notamment par le biais de la détention effective et durable d’une part significative des droits;\n- offrir des perspectives de retour sur investissement raisonnables.\n\n**2.** Sont exclus d’office du bénéfice du régime instauré par la présente loi:\n\n- les œuvres pornographiques, incitatrices à la violence ou à la haine raciale, apologétique de crimes contre l’humanité et, de manière générale, contrevenant à l’ordre public et aux bonnes mœurs;\n- les œuvres destinées ou utilisées à des fins de publicité;\n- les programmes d’information, débats d’actualité ou les émissions sportives.",
+      "text_sha256": "00573cc5144d586d9e07eab7f7114c0e61f4c4177372aac6ebd7a575bc5435c7",
+      "md_span": {
+        "start": 3915,
+        "end": 5138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_5/20141014",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Détermination du montant des certificats",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Le montant des certificats d’investissement audiovisuel à émettre est fixé en fonction des critères d’éligibilité définis à l’article 4 ci-avant en tenant compte des coûts de production effectivement exposés et des dépenses y relatives effectuées au Grand-Duché de Luxembourg.\n\nPar coûts de production au sens de la loi, on entend les charges décaissables de la société requérante, figurant dans la comptabilité de celle-ci, considérées comme adéquates aux besoins de la production d’œuvres audiovisuelles au Grand-Duché de Luxembourg et conformes aux objectifs de la présente loi.\n\nUn règlement grand-ducal précisera l’assiette de calcul des dépenses éligibles et pourra fixer des forfaits ou des limites de prise en compte de certaines catégories de dépenses.",
+      "text_sha256": "cbf02d5556f18dbe5c2d49012b75a93a4cd27e5b913116999ae3514d6cc7f082",
+      "md_span": {
+        "start": 5214,
+        "end": 5975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_6/20141014",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Les contribuables détenteurs d’un certificat d’investissement audiovisuel à la fin de l’année d’imposition obtiennent, sur demande, une bonification d’impôt sur le revenu, qualifiée de bonification d’impôt pour investissement audiovisuel, fixée à 30% de la valeur nominale du certificat.\n\nLa bonification d’impôt est limitée à 30% du revenu imposable du contribuable bénéficiaire. Elle est déduite de l’impôt dû sur le revenu des collectivités, majoré de la contribution au fonds pour l’emploi, pour l’année d’imposition visée par le certificat d’investissement audiovisuel.\n\nA défaut d’impôt suffisant, la bonification d’impôt en souffrance n’est pas restituable et non reportable. En cas de concours de différentes imputations, un rang de priorité est réservé à la bonification d’impôt pour investissement audiovisuel.\n\nLa bonification d’impôt pour investissement audiovisuel ne peut être cumulée avec la bonification d’impôt pour investissement en capital-risque.",
+      "text_sha256": "c5a3b5bc2308ef902ebf6e9f9604a22354b3cf5af2bdb08b8216ec7f4d1bc801",
+      "md_span": {
+        "start": 6010,
+        "end": 6976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_7/20141014",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Gestion administrative du régime",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Le Fonds national de soutien à la production audiovisuelle est chargé d’assumer la gestion administrative, la surveillance et le contrôle du régime.",
+      "text_sha256": "721c08214e8a1c78fcc0a449eb0ab5badc183993975d96a5543c2e58e4a1b52c",
+      "md_span": {
+        "start": 7044,
+        "end": 7192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_8/20141014",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Remise de matériel audiovisuel",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Dans l’intérêt de la promotion du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, et sans préjudice des dispositions de l’article 2 alinéa 1 de la loi du 18 mai 1989 portant création du Centre national de l’audiovisuel, les bénéficiaires principaux des certificats d’investissement audiovisuel ont l’obligation de remettre au Fonds, sans frais pour celui-ci, une copie de l’œuvre audiovisuelle produite ayant bénéficié du régime instauré par la présente loi, ainsi qu’une copie de tout matériel de promotion disponible et un extrait d’au moins trente (30) secondes de cette œuvre, libres de droits, le tout sur des supports matériels à définir par le Fonds.",
+      "text_sha256": "d9c24160662cf1b07340bd26be14c05c20fc40b306440a445a89d6f05eaaaa2c",
+      "md_span": {
+        "start": 7258,
+        "end": 7936
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/05/18/n1/jo",
+          "text": "loi du 18 mai 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1988-12-13-n2:2014-10-14--407d53b322e19f50145516ce8cce827ac703f4f206578de8517aab02e1a5a044#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/art_9/20141014",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Recours",
+      "path": [],
+      "article_valid_from": "2014-10-14",
+      "text_md": "Les décisions administratives prises en application de la présente loi sont susceptibles d’un recours en annulation devant le tribunal administratif.",
+      "text_sha256": "14f47b9626a811ed48c0f6463e02616475a85ace630ef54e7c33a94216eb54a9",
+      "md_span": {
+        "start": 7979,
+        "end": 8128
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

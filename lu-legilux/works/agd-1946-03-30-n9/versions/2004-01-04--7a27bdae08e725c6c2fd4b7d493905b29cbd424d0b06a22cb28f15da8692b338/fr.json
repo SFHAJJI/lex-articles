@@ -1,0 +1,148 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/01/2004 : Arrêté grand-ducal du 30 mars 1946 portant institution d'une décoration civique.",
+  "valid_from": "2004-01-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-1946-03-30-n9/versions/2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338/fr.xml",
+    "sha256": "2e188a02f44bad437b858d2259b10719127f78c02bfbc17dbc5e0e132b70930b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/20040104/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_1er/19460503",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1946-05-03",
+      "text_md": "Il est institué une distinction honorifique sous la dénomination de: «Ordre de la Résistance 1940 1944».",
+      "text_sha256": "0f4dd38d96fd3a3ac1fb775519f7196efde6e3fd8d27513a2479842198d476fb",
+      "md_span": {
+        "start": 682,
+        "end": 786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_2/20040104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "L'ordre de la Résistance est accordé aux personnes non militaires qui, au cours de la période, d'occupation ennemie, soit comme membre d'une organisation de résistance soit à titre individuel, se sont particulièrement distinguées au service de la cause nationale ou alliée par des actes éclatants de résistance, de courage et de dévouement.\n\nCette dinstinction pourra dans des cas particuliers et exceptionnels être accordée à des étrangers.\n\nElle peut être décernée à titre posthume.",
+      "text_sha256": "55318b2f8eb16691912f95b1fd2c4a1e660656d1b532b3fb6e197da66e0a5cc0",
+      "md_span": {
+        "start": 821,
+        "end": 1305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_3/20040104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "La décoration comprend deux degrés :\n\nLa croix et la médaille.\n\nLa Croix ne peut être décernée qu'à titre posthume. La Médaille n'est plus conférée à partir de l'entrée en vigueur du présent règlement.",
+      "text_sha256": "091d4ce2869a3eb313b81b8de8b2a13a77369f3ce7c0d9a94123508502adb328",
+      "md_span": {
+        "start": 1340,
+        "end": 1541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_4/19460503",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1946-05-03",
+      "text_md": "La croix sera en bronze surmontée du monogramme avec la couronne royale.\n\nL'avers de l'insigne présente une tête de lion ainsi que la devise «Je maintiendrai» et les millésimes 1940—1944, entourés d'une chaîne coupée par la croix. Le revers porte en son milieu la lettre R (résistance) entourée de lauriers.\n\nLa médaille sera également en bronze. L'avers présente le lion héraldique de Luxembourg brisant une chaîne. Le revers présente le monogramme encadré de deux feuilles de laurier et surmonté de la couronne ainsi que la devise: « Je maintiendrai» et les millésimes 1940-1944.",
+      "text_sha256": "91a2548c9a3b2a7de45452abb672d96072fc90f8f5753590a735a48de06af815",
+      "md_span": {
+        "start": 1576,
+        "end": 2157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_5/19460503",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1946-05-03",
+      "text_md": "Le ruban sera rayé rouge et blanc bordé d'un filet bleu.",
+      "text_sha256": "349a4bb12498fe66ebe4b63aa49f151659eaf248d6fe7ebd47a5a01cc29da0fa",
+      "md_span": {
+        "start": 2192,
+        "end": 2248
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_6/20040104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "La Croix de la Résistance est conférée par arrêté grand-ducal sur le rapport de Notre Premier Ministre, Ministre d'Etat, et sur avis du Comité directeur pour le Souvenir de la Résistance, prévu par la loi modifiée du 25 février 1967 ayant pour objet diverses mesures en faveur des personnes devenues victimes d'actes illégaux de l'occupant.",
+      "text_sha256": "8774796d3d1e4f1567d3dfad7422233c0143b592125bde549763079a69e768fd",
+      "md_span": {
+        "start": 2283,
+        "end": 2623
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/02/25/n1/jo",
+          "text": "loi modifiée du 25 février 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:agd-1946-03-30-n9:2004-01-04--7a27bdae08e725c6c2fd4b7d493905b29cbd424d0b06a22cb28f15da8692b338#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/art_7/19460503",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1946-05-03",
+      "text_md": "Notre Ministre de l'Intérieur est chargé de l'exécution du présent arrêté qui sera publié au *Mémorial*.",
+      "text_sha256": "5fc6c1d94eee21a7ffb744e8e892523767f5dd0045e229415c6d5e269d6d6b68",
+      "md_span": {
+        "start": 2658,
+        "end": 2762
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

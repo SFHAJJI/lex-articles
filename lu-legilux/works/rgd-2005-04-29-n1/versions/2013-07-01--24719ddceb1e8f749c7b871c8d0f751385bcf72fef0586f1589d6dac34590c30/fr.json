@@ -1,0 +1,80 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2005-04-29-n1:2013-07-01--24719ddceb1e8f749c7b871c8d0f751385bcf72fef0586f1589d6dac34590c30",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 29 avril 2005 concernant les indemnités du jury d'examen pour le stage judiciaire et abrogeant le règlement grand-ducal du 19 décembre 1963 portant révision des indemnités du jury d'examen pour le stage judiciaire.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2005-04-29-n1/versions/2013-07-01--24719ddceb1e8f749c7b871c8d0f751385bcf72fef0586f1589d6dac34590c30/fr.xml",
+    "sha256": "3b01bd29156c755559bc64797ebb68ff8bdd3d70695e4b589736b1efaac87f95",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2005-04-29-n1:2013-07-01--24719ddceb1e8f749c7b871c8d0f751385bcf72fef0586f1589d6dac34590c30#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/art_1er/20130701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Le membre du jury d'examen pour le stage judiciaire, chargé de la correction des copies des candidats pour l'une des matières d'une session de l'examen de fin de stage judiciaire, a droit à une indemnité de 5,8938 euros par copie corrigée. Ce montant correspond au nombre cent de l'indice pondéré du coût de la vie au 1er janvier 1948 et est adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l'Etat.",
+      "text_sha256": "8711c0da3170ef7c040042e9b381cf3027f8553b05692d7daf3751f9d70a12d6",
+      "md_span": {
+        "start": 848,
+        "end": 1288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2005-04-29-n1:2013-07-01--24719ddceb1e8f749c7b871c8d0f751385bcf72fef0586f1589d6dac34590c30#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/art_2/20050516",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-05-16",
+      "text_md": "Le règlement grand-ducal du 19 décembre 1963 portant révision des indemnités du jury d'examen pour le stage judiciaire est abrogé.",
+      "text_sha256": "05376aa3963322b2d8e4348e9c8070d005079937e4374efd32eedd896db4741c",
+      "md_span": {
+        "start": 1323,
+        "end": 1453
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1963/12/19/n4/jo",
+          "text": "règlement grand-ducal du 19 décembre 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2005-04-29-n1:2013-07-01--24719ddceb1e8f749c7b871c8d0f751385bcf72fef0586f1589d6dac34590c30#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/art_3/20050516",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-05-16",
+      "text_md": "Notre Ministre de la Justice est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b0d81033158d40c3d05d9b128566a2ada8e9d2038d77850e668f3fc3babe31d5",
+      "md_span": {
+        "start": 1488,
+        "end": 1592
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016l2258:2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad",
+  "language": "en",
+  "title": "Council Directive (EU) 2016/2258 of 6 December 2016 amending Directive 2011/16/EU as regar…",
+  "valid_from": "2016-12-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016l2258/versions/2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad/en.xml",
+    "sha256": "11b2dad5000526c9ac74f29f6510dcb00e4913f12f84de9b1d042113213ebd98",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L2258"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016l2258:2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 22 of Directive 2011/16/EU, the following paragraph is inserted:\n\n‘(1a) For the purpose of the implementation and enforcement of the laws of the Member States giving effect to this Directive and to ensure the functioning of the administrative cooperation it establishes, Member States shall provide by law for access by tax authorities to the mechanisms, procedures, documents and information referred to in Articles 13, 30, 31 and 40 of Directive (EU) 2015/849 of the European Parliament and of the Council(*1).",
+      "text_sha256": "2d77e86ee0ad6c56d4f006b52887e1c281e0f9378e4a355124500fac59d38727",
+      "md_span": {
+        "start": 702,
+        "end": 1236
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2016342EN.01000101-E0006",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016l2258:2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall adopt and publish, by 31 December 2017 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those measures from 1 January 2018.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "9ec1b3b2c8cd62c4191ddf5d800aeedcaff251ef82cb9147dfa71ab67931e365",
+      "md_span": {
+        "start": 1269,
+        "end": 1968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016l2258:2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force on the date of its adoption.",
+      "text_sha256": "fe43c8970b7bf5f09a6026236594059101106149e71877119cf42a89f4692300",
+      "md_span": {
+        "start": 2001,
+        "end": 2078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016l2258:2016-12-06--47a8fc714609dffe04179e4dc23084d60ae76c16d182b2c9cec35292f50349ad#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 2111,
+        "end": 2171
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/07/2010 : Arrêté ministériel du 30 juin 1999 concernant l'élimination des huiles et des graisses végétales et animales.",
+  "valid_from": "2010-07-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/amin-1999-06-30-n1/versions/2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2/fr.xml",
+    "sha256": "128078a177313206df9013526809e3f634aff676f8af474305e04f8b4544f513",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/consolide/20100703/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "article_1er",
+      "provision_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2#article_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/art_1er/20100703",
+      "type": "article",
+      "num": "Article 1er:",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-07-03",
+      "text_md": "Les transferts de déchets d’huiles et de graisses végétales ou animales, destinés à des opérations de valorisation qui permettent une introduction directe ou indirecte des déchets ou de leurs composantes dans la chaîne alimentaire, telle que p. ex. la production d’aliments pour bétail, sont interdits.\n\nLa valorisation des déchets d’huiles et de graisses végétales ou animales par biométhanisation dans une installation de production de biogaz peut toutefois être autorisée si une des conditions suivantes est remplie:\n\n- Les déchets proviennent directement d’une origine connue, sans intermédiaire et sans que d’autres déchets n’aient pu être rajoutés entre l’origine et l’installation de biométhanisation. Les risques de contamination doivent pouvoir être exclus (p. ex. absence de substances contaminantes à l’origine).\n- Les déchets proviennent d’origines différentes et sont mélangés auprès d’une installation dûment autorisée à cet effet. Pour chaque lot quittant cette installation une analyse de conformité prouve l’absence de substances contaminantes.\n- L’installation de biométhanisation fait elle-même à tout moment preuve de la disponibilité et du fonctionnement d’un contrôle analytique des différents lots d’huiles et de graisses acceptés.\n\nLes modalités d’application du présent article sont à déterminer dans les autorisations des installations concernées.",
+      "text_sha256": "9cb3d73baa9e61507bc229375b7dffaf0d7629bf5998524b5d342cbf638460b2",
+      "md_span": {
+        "start": 720,
+        "end": 2093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_2",
+      "provision_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2#article_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/art_2/20100703",
+      "type": "article",
+      "num": "Article 2:",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-07-03",
+      "text_md": "La présente circulaire concerne notamment, mais pas exclusivement, les déchets suivants (selon la dénomination européenne):\n\n| – | 020399 | Déchets non spécifiés ailleurs |\n| --- | --- | --- |\n| – | 020204 | Boues provenant du traitement in situ des effluents |\n| – | 200125 | Huiles et matières grasses alimentaires. |",
+      "text_sha256": "e6194848b687f04124974f1922a4a203f2524effbcd85d1b4bc3c46232b4e720",
+      "md_span": {
+        "start": 2135,
+        "end": 2454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_3",
+      "provision_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2#article_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/art_3/20100703",
+      "type": "article",
+      "num": "Article 3:",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-07-03",
+      "text_md": "Le présent arrêté s’applique sans préjudice des dispositions du règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.",
+      "text_sha256": "1edfbe4c9a03203859d30483c14122fdf7690cd6bceaa19b8b43eaf464e6c46e",
+      "md_span": {
+        "start": 2496,
+        "end": 2753
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2002/1774/jo",
+          "text": "règlement (CE) n° 1774/2002"
+        }
+      ]
+    },
+    {
+      "anchor": "article_4",
+      "provision_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03--57cfc4b35eee972a92e97262d4f901ab1c1bcd2d1ec99cab5096c08b26eac7a2#article_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/art_4/19990802",
+      "type": "article",
+      "num": "Article 4:",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-08-02",
+      "text_md": "L’administration de l’Environnement est chargée de l’exécution du présent arrêté qui sera publié au Mémorial.",
+      "text_sha256": "ed205e86a765c82505b8ccf90b9b2e0c5db422d59fff9445a3eb6ec2a86e8897",
+      "md_span": {
+        "start": 2795,
+        "end": 2904
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1043:2021-06-24--28c52d84a4d815932163168ccd2962a283f9f7f81405a80d83fbc00e4e52d14d",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/1043 of 24\u00A0June 2021 on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2021-06-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1043/versions/2021-06-24--28c52d84a4d815932163168ccd2962a283f9f7f81405a80d83fbc00e4e52d14d/en.xml",
+    "sha256": "cb7cf2b7c4c8211c9027f714ad3ee368567ca92a94377f1fa23114affb55d4ed",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1043"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1043:2021-06-24--28c52d84a4d815932163168ccd2962a283f9f7f81405a80d83fbc00e4e52d14d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe transitional period referred to in Article 497(1), point (b)(iii), of Regulation (EU) No 575/2013 is extended until 28 June 2022.",
+      "text_sha256": "d9f89cc579f2ef2003bf5b8e741c9d3e273192e0ae740d66cbc56fc3d7d6ebe8",
+      "md_span": {
+        "start": 837,
+        "end": 981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1043:2021-06-24--28c52d84a4d815932163168ccd2962a283f9f7f81405a80d83fbc00e4e52d14d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 29 June 2021.",
+      "text_sha256": "23ce6d56b2325a47a93d42e4374d02ebe4e31757b993109ddbc77a687f7e4637",
+      "md_span": {
+        "start": 1014,
+        "end": 1196
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0662:2021-04-22--c8fc16ddc4616d0c5f54b7a91149a4037071424b0c405b7944049aace76f6307",
+  "language": "en",
+  "title": "Commission Regulation (EU) 2021/662 of 22\u00A0April 2021 amending Regulation (EC) No\u00A0748/2009 …",
+  "valid_from": "2021-04-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0662/versions/2021-04-22--c8fc16ddc4616d0c5f54b7a91149a4037071424b0c405b7944049aace76f6307/en.xml",
+    "sha256": "3044c9111b5d0ff5b62bd8a35f18d3bded06dbd47ebede53478a55be5d5b5670",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0662"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0662:2021-04-22--c8fc16ddc4616d0c5f54b7a91149a4037071424b0c405b7944049aace76f6307#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Regulation (EC) No 748/2009 is replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "a4de4d6bc6f0bcefa2dd670df3ec9be53053658794fd09fc4d1f47080eda78c5",
+      "md_span": {
+        "start": 702,
+        "end": 818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0662:2021-04-22--c8fc16ddc4616d0c5f54b7a91149a4037071424b0c405b7944049aace76f6307#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 851,
+        "end": 998
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

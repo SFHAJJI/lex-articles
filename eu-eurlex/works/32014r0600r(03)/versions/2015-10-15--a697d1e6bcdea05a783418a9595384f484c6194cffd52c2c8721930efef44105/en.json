@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0600r(03):2015-10-15--a697d1e6bcdea05a783418a9595384f484c6194cffd52c2c8721930efef44105",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) No 600/2014",
+  "valid_from": "2015-10-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0600r(03)/versions/2015-10-15--a697d1e6bcdea05a783418a9595384f484c6194cffd52c2c8721930efef44105/en.xml",
+    "sha256": "f8d3294d567e57416015432c6c73cdbb5c53d1827d8016dda5e888de113fc9d6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600R%2803%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014r0600r(03):2015-10-15--a697d1e6bcdea05a783418a9595384f484c6194cffd52c2c8721930efef44105#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "15.10.2015 EN Official Journal of the European Union L 270/4 Corrigendum to Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 ( Official Journal of the European Union L 173 of 12 June 2014 ) On page 148, the third paragraph of Article 55: for: ‘Notwithstanding the second paragraph, Article 1(8) and (9), Article 2(2), Article 5(6) and (9), …’, read: ‘Notwithstanding the second paragraph, Article 1(8) and (9), Article 2(2), Article 4(6), Article 5(6) and (9), …’.",
+      "text_sha256": "fb16780cce435d045c934986c04b34edac3c83c424b3feef717f01d7214003b1",
+      "md_span": {
+        "start": 680,
+        "end": 1261
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

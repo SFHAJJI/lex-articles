@@ -1,0 +1,589 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7",
+  "language": "fr",
+  "title": "Loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal",
+  "valid_from": "2025-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2022-05-27-a250/versions/2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7/fr.xml",
+    "sha256": "a310cf5a706b3f876d02f218596175a6ae838e5ee5d3c9b285b075f19dadf700",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_1er/20220901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Définitions"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "Au sens de la présente loi, on entend par :\n\n1. er\n2. « branches » : toute branche d’enseignement qui peut être enseignée par l’établissement et qui a pour finalité de faire acquérir des connaissances théoriques ou pratiques dans une section déterminée de l’enseignement musical ;\n3. « chargé de la direction » : le chargé de la direction issu du personnel enseignant et bénéficiant d’une décharge hebdomadaire à fixer par la commune ou le syndicat de communes dans le cadre de sa tâche d’enseignant pour assurer une tâche complète ou partielle de chargé de la direction ;\n4. « commissaire du Gouvernement » : le commissaire du Gouvernement à l’enseignement musical ;\n5. « commissaire du Gouvernement adjoint » : le commissaire du Gouvernement adjoint à l’enseignement musical ;\n6. « commission des programmes » : la commission consultative des programmes de l’enseignement musical ;\n7. « commission de classement » : la commission consultative ayant pour mission de conseiller le ministre ayant l’Intérieur dans ses attributions dans toute question de reconnaissance de diplômes et certificats en vue du classement de l’enseignant ;\n8. « enseignant » : l’enseignant engagé dans un établissement sous le régime de l’employé communal, sous-groupe enseignement ou du salarié ;\n9. « enseignement musical » : l’enseignement musical dans le secteur communal dans les domaines de la musique, de la danse et des arts de la parole ;\n10. « établissement » : l’établissement d’enseignement musical dénommé « école de musique locale », « école de musique régionale » ou « conservatoire » créé par la commune ou le syndicat de communes ;\n11. « minerval » : la taxe d’inscription de l’enseignement musical telle que fixée par la commune ou le syndicat de communes ;\n12. « ministre » : le ministre ayant l’Enseignement musical dans ses attributions ;\n13. « ministère » : le ministère auquel l’Enseignement musical est affecté ;\n14. « outil de gestion informatique » : outil de gestion informatique tel que prévu à l’article 20 ;\n15. « personnel enseignant » : les professeurs et les enseignants de l’enseignement musical ;\n16. « professeur » : le professeur engagé dans un conservatoire sous le statut du fonctionnaire communal dans le groupe de traitement A1, sous-groupe enseignement musical de la rubrique enseignement.",
+      "text_sha256": "8a4d6fab34ee9d9fdc1ff32b8a3f09703db70896cf6101f30a1eb358eb6e9e7f",
+      "md_span": {
+        "start": 680,
+        "end": 2988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_2/20220901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Ministre de tutelle"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** L’enseignement musical est organisé par la commune ou le syndicat de communes par année scolaire sur une base de trente-six semaines de cours, sous réserve de la tutelle à exercer par le ministre pour les volets pédagogique, administratif et financier.\n\n**(2)** Le calendrier des vacances et congés de l’année scolaire pour l’enseignement musical est fixé par règlement grand-ducal. L’année scolaire commence le premier jour après la fin des vacances d’été et se termine le jour précédant le début des vacances d’été.",
+      "text_sha256": "dfd221252acf605be25ab5556fb87cac2a6070a89da1d460acba962794283ee7",
+      "md_span": {
+        "start": 3060,
+        "end": 3585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_3/20220901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Contrôle, surveillance et organismes d’encadrement de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Dans l’exercice de l’autorité de tutelle du ministre visée à l’article 2, paragraphe 1er, un commissaire du Gouvernement est nommé pour un mandat renouvelable de sept ans.\n\n**(2)** Il a pour missions :\n\n1. d’exercer les fonctions de coordination, de contrôle et de surveillance de l’enseignement musical dans tous ses aspects et dans le respect de la présente loi ;\n2. de conseiller le ministre et les autres membres du Gouvernement dans toute question concernant l’enseignement musical ;\n3. d’instruire toutes les questions concernant l’enseignement musical soumises à la décision du Gouvernement ;\n4. de porter conseil à la commune ou au syndicat de communes et à l’établissement sur toute question relative à l’enseignement musical.\n\nLe commissaire du Gouvernement est d’office membre des commissions consultatives en relation avec l’enseignement musical.\n\nLe ministre peut charger le commissaire du Gouvernement de toute autre mission qui relève de ses compétences.\n\n**(3)** Dans l’exécution de ses missions, le commissaire du Gouvernement est secondé par un commissaire du Gouvernement adjoint nommé dans les mêmes conditions que le commissaire du Gouvernement.\n\n**(4)** Les candidats pour les fonctions de commissaire du Gouvernement et de commissaire du Gouvernement adjoint doivent remplir l’une des deux conditions suivantes :\n\n1. loi modifiée du 28 octobre 2016\n2. loi précitée du 28 octobre 2016\n\nEn outre, les candidats doivent disposer d’au moins cinq ans d’expérience professionnelle dans le domaine de l’enseignement musical.\n\nLe commissaire du Gouvernement et le commissaire du Gouvernement adjoint sont nommés par le Grand-Duc sur proposition du Gouvernement en conseil.",
+      "text_sha256": "f5f3b83c5a1ee04424ab5ea756c10f74a077a12bae13b41965a75df42db4a905",
+      "md_span": {
+        "start": 3714,
+        "end": 5409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_4/20220901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Contrôle, surveillance et organismes d’encadrement de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Le ministre nomme une commission des programmes ayant pour mission d’émettre des propositions quant aux différentes branches, aux différents niveaux, à la durée des cours, aux programmes d’études et d’examens, aux modalités d’obtention, de délivrance et de nomenclature des diplômes ainsi que quant aux modalités de transition entre les différents niveaux.\n\n**(2)** La commission des programmes se compose de membres effectifs et de membres suppléants. Les membres effectifs se répartissent comme suit :\n\n1. un représentant du Conservatoire de la Ville de Luxembourg ;\n2. un représentant du Conservatoire de musique de la Ville d’Esch-sur-Alzette ;\n3. un représentant du Conservatoire de musique du Nord ;\n4. deux représentants des établissements membres de l’Association des écoles de musique ;\n5. deux représentants des établissements tombant sous la compétence de l’École de musique de l’Union Grand-Duc Adolphe ;\n6. un représentant du Syndicat intercommunal des villes et communes luxembourgeoises.\n\nLe commissaire du Gouvernement ou, en son absence, le commissaire du Gouvernement adjoint assiste aux réunions avec voix consultative.\n\nLes membres effectifs et suppléants de la commission des programmes sont nommés pour un mandat renouvelable de trois ans. Le président de la commission des programmes est nommé par le ministre parmi les membres effectifs. Sous l’approbation du ministre, la commission des programmes peut s’adjoindre des experts et déléguer des missions spéciales délimitées.\n\nChaque membre effectif a un suppléant qui le remplace en cas de besoin. En cas d’empêchement du président, les membres présents déterminent parmi eux celui qui préside la séance.\n\n**(3)** La commission des programmes se réunit aussi souvent que sa mission l’exige et au moins six fois par an.\n\nLe président convoque la commission des programmes par écrit, soit à son initiative, soit à la demande de plusieurs de ses membres. La convocation contient l’ordre du jour et est adressée aux membres de la commission des programmes au moins cinq jours ouvrables avant la date fixée pour la réunion.\n\nLa commission des programmes ne peut délibérer valablement que si plus de la moitié de ses membres sont présents. Les décisions sont prises à la majorité absolue des suffrages. En cas de partage des voix, la voix du président ou de celui qui le remplace est prépondérante.\n\nLes membres effectifs et suppléants ainsi que les experts visés ci-dessus touchent par réunion des jetons de présence à fixer par règlement grand-ducal.\n\n**(4)** Le secrétariat de la commission des programmes est assuré par un agent désigné par le ministre, qui n’a pas qualité de membre.\n\nLe secrétaire de la commission des programmes dresse un compte-rendu des réunions de la commission qui est envoyé aux membres effectifs et suppléants.",
+      "text_sha256": "f103c5cba1d3240097681f9cd9f3467797a5ec79fdf6f0154baba94403fa38cb",
+      "md_span": {
+        "start": 5444,
+        "end": 8260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_5/20220901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Établissement, branches, niveaux et organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La commune détermine les branches enseignées et fixe les modalités d’admissibilité et d’admission des élèves dans leur établissement sous réserve des dispositions de la présente loi.",
+      "text_sha256": "bbaddcf31522cd3ea5d2ae209a0aeb2cf45c89958eaf497562948d9e91224b88",
+      "md_span": {
+        "start": 8387,
+        "end": 8569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_6/20220901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Établissement, branches, niveaux et organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** L’enseignement musical est dispensé par un établissement dénommé :\n\n1. er\n2. er\n3. er\n\nLe cours d’adultes de l’enseignement musical peut être dispensé dans les établissements prévus aux points 1° à 3°.\n\n**(2)** À titre exceptionnel et sur demande motivée de la commune ou du syndicat de communes auprès du ministre en vue de l’obtention d’une autorisation ministérielle, l’école de musique régionale peut assurer l’enseignement musical de la division moyenne spécialisée prévue à l’article 8, paragraphe 1er, point 6°.\n\nUn règlement grand-ducal détermine les conditions à remplir et les modalités en vue de l’obtention d’une autorisation ministérielle.",
+      "text_sha256": "e3a56178ca0fd27c69c64c0d40b4d53d0ea30b26cfa87da23a4d20e5769f1e0e",
+      "md_span": {
+        "start": 8604,
+        "end": 9264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_7/20220901",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Établissement, branches, niveaux et organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** La commune ou le syndicat de communes peut confier les missions définies à l’article 6, paragraphe 1er, points 1° et 2°, par voie conventionnelle, à un prestataire de son choix. Le prestataire ne poursuit pas de but lucratif.\n\n**(2)** Le prestataire doit :\n\n1. er\n2. engager ou occuper du personnel enseignant remplissant les conditions de formation et d’admission exigées pour les enseignants d’un établissement et appliquer les critères de rémunération conformément aux dispositions de l’article 14.\n\n**(3)** En cas d’application du présent article, la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’État, dans les établissements publics et dans les écoles est applicable.",
+      "text_sha256": "67ff5608573637ec8a34f5402d8d6914dab7ca526a71c1edf66915a402ed372c",
+      "md_span": {
+        "start": 9299,
+        "end": 10028
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/19/n1/jo",
+          "text": "loi modifiée du 19 mars 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_8/20220901",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Établissement, branches, niveaux et organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** L’enseignement musical comprend différentes branches.\n\nChaque branche peut comprendre :\n\n1. l’éveil ;\n2. 1. le premier cycle se clôturant par l’obtention du diplôme du premier cycle ;\n2. le deuxième cycle se clôturant par l’obtention du diplôme du deuxième cycle ;\n3. le degré inférieur se clôturant par l’obtention du certificat du degré inférieur ;\n4. la division moyenne comprenant un cycle se clôturant par l’obtention soit du diplôme du troisième cycle, soit du certificat de la division moyenne ;\n5. le degré moyen se clôturant par l’obtention du certificat du degré moyen ;\n6. la division moyenne spécialisée comprenant un cycle se clôturant par l’obtention soit du diplôme du premier prix, soit du certificat de la division moyenne spécialisée ;\n7. la division supérieure se clôturant par l’obtention du diplôme supérieur ;\n8. le degré supérieur se clôturant par l’obtention du certificat du degré supérieur ;\n9. des cours d’adultes.\n\nUn règlement grand-ducal détermine les différentes branches, les niveaux, la durée des cours, les programmes d’études et d’examens, les modalités d’obtention, de délivrance et de nomenclature des diplômes et certificats, ainsi que les modalités de transition entre les différents niveaux et établissements.\n\n**(2)** Pour toute branche non prévue par règlement grand-ducal, la commune ou le syndicat de communes peut soumettre au ministre une demande d’autorisation pour enseigner la branche. Après autorisation du ministre, la commune ou le syndicat de communes bénéficie de la participation financière telle que prévue à l’article 16.\n\n**(3)** La commune ou le syndicat de communes peut soumettre au ministre une demande d’autorisation pour introduire un projet-pilote se différenciant des branches prévues aux paragraphes 1er et 2. Après autorisation du ministre, la commune ou le syndicat de communes bénéficie de la participation financière telle que prévue à l’article 16.\n\nLe règlement grand-ducal précité détermine en outre les modalités d’autorisation pour toute branche ne figurant pas dans la liste des branches énumérées et pour tout projet-pilote envisagé par une commune ou un syndicat de communes.",
+      "text_sha256": "ba4725309d948afcdc8282c5744325828e7182e8f0e1bd7e1b0763b32d572dc2",
+      "md_span": {
+        "start": 10063,
+        "end": 12225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_9/20220901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Établissement, branches, niveaux et organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Les dénominations « école de musique locale », « école de musique régionale » et « conservatoire » sont réservées aux établissements répondant aux dispositions prévues par la présente loi.\n\nLe ministre autorise les dénominations « école de musique régionale » et « conservatoire » conformément aux dispositions des articles 6 et 8.\n\nPour l’école de musique locale, la commune ou le syndicat de communes est dispensé de l’obligation d’autorisation préalable du ministre.\n\nLe nombre de conservatoires dans le pays est limité aux trois conservatoires suivants :\n\n1. le Conservatoire de la Ville de Luxembourg ;\n2. le Conservatoire de musique de la Ville d’Esch-sur-Alzette ;\n3. le Conservatoire de musique du Nord.\n\n**(2)** La commune ou le syndicat de communes qui demande de se voir attribuer l’autorisation prévue au paragraphe 1er fait parvenir au ministre, avant le 1er janvier de l’année scolaire précédente, un dossier accompagné d’une demande d’autorisation pour la dénomination d’une école de musique régionale. Le dossier contient un récapitulatif des trois années scolaires précédant la demande, renseignant le nombre d’élèves dans les différentes branches et niveaux, ainsi qu’une liste de ses enseignants au moment de la demande mentionnant les qualifications et groupes d’indemnité.\n\nLa commune ou le syndicat de communes qui se voit attribuer une autorisation propose l’enseignement des divisions et degrés prévus par la présente loi.\n\n**(3)** L’autorisation reste valable pour une période illimitée. Une modification des dénominations des établissements ne peut intervenir que si l’enseignement musical dispensé par la commune ou le syndicat de communes concerné répond aux critères définis par la présente loi.",
+      "text_sha256": "6377a80587b06d280b74c541effb2bed7f1b7053def9b86cdc47db2ba05c3da4",
+      "md_span": {
+        "start": 12260,
+        "end": 13992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_10/20250901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2025-09-01",
+      "text_md": "Le conseil communal ou le comité du syndicat de communes qui souhaite organiser un enseignement musical délibère annuellement avant le 1er septembre sur l’organisation de cet enseignement pour l’année scolaire à venir. En cas de besoin, cette décision peut être modifiée avant le 15 janvier de l’année scolaire en cours.",
+      "text_sha256": "cd1131d87d6e5215624d69212eca0a8c88dda3f98a3e87beda03c925eb6e7622",
+      "md_span": {
+        "start": 14085,
+        "end": 14405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_11/20250901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2025-09-01",
+      "text_md": "**(1)** La décision de la commune ou du syndicat de communes détermine le nombre de cours que la commune ou le syndicat de communes offre dans les différentes branches et pour les différents niveaux en distinguant entre cours individuels et cours collectifs.\n\n**(2)** L’organisation de l’enseignement musical précise pour chaque cours individuel ou collectif :\n\n1. le nom et le prénom du personnel enseignant ;\n2. la dénomination de la branche ;\n3. s’il s’agit d’un cours individuel ou collectif ;\n4. le niveau ;\n5. la durée hebdomadaire exprimée en minutes sur base de trente-six semaines de cours par année scolaire, sans égard quant au nombre effectif de semaines pour l’année scolaire où est dispensé le cours ;\n6. le nombre effectif de semaines pour l’année scolaire où est dispensé le cours ;\n7. le nombre d’élèves par classe s’il s’agit d’un cours collectif.\n\n**(3)** L’organisation de l’enseignement musical précise également toute autre prestation exercée par le personnel enseignant dans le cadre de sa tâche avec indication exacte, exprimée en minutes, de la durée hebdomadaire.\n\nElle précise, en annexe, pour chaque cours, les noms, prénoms, qualifications et grades de classement du personnel enseignant.\n\n**(4)** Au cours d’une même année, un élève ne peut s’inscrire simultanément, dans un ou plusieurs établissements, dans une même branche. Il en va de même pour l’élève qui a réussi son année d’études, qui ne peut se réinscrire dans le même niveau dans un établissement.\n\n**(5)** Pour le 15 septembre au plus tard de l’année scolaire concernée, la commune ou le syndicat de communes enregistre et valide dans l’outil de gestion informatique toutes données d’identification strictement nécessaires des élèves inscrits, la dénomination de la branche, le niveau et la durée hebdomadaire du cours.\n\nAu cas où un élève inscrit et dont l’inscription est validée par la commune ou le syndicat de communes au 15 septembre se désiste du cours, la commune ou le syndicat de communes peut accepter un autre élève en remplacement. Ce remplacement a lieu avant le 31 décembre, sans pour autant dépasser le temps d’enseignement validé préalablement au 15 septembre.\n\n**(6)** Pour le 31 décembre au plus tard de l’année scolaire concernée, la commune ou le syndicat de communes enregistre et valide dans l’outil de gestion informatique, outre les données requises au paragraphe 5, les noms et prénoms du personnel enseignant ainsi que le jour et l’horaire du cours.\n\n**(7)** Pour le 1er octobre au plus tard de l’année scolaire subséquente, la commune ou le syndicat de communes valide dans l’outil de gestion informatique les élèves ayant achevé l’année scolaire écoulée selon les modalités du règlement grand-ducal prévues à l’article 8.\n\n**(8)** Pour pouvoir bénéficier de la participation financière telle que prévue aux articles 16, 17 et 18, toutes les données demandées ci-avant sont à enregistrer et à valider par la commune ou le syndicat de communes dans les délais précités dans l’outil de gestion informatique.\n\nToute validation par la commune ou le syndicat de communes dans l’outil de gestion informatique des données précitées vaut certification exacte.",
+      "text_sha256": "012e9ced6416b3f3c01ccc75d02f934154936229f9626211b53f546cb337ab44",
+      "md_span": {
+        "start": 14442,
+        "end": 17613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_12/20220901",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "Au cas où la commune ou le syndicat de communes décide de confier l’enseignement musical défini dans son organisation scolaire à un prestataire, en application de l’article 7, le prestataire fournit toutes les informations requises à la commune ou au syndicat de communes conformément aux dispositions de l’article 11.",
+      "text_sha256": "5c84bb85196760de7e248c30a4a2bebe2004ea06102baf90ac267a2bbf3f0721",
+      "md_span": {
+        "start": 17650,
+        "end": 17968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_13/20220901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Organisation de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** L’organisation de l’enseignement musical est transmise pour avis au commissaire du Gouvernement dans les dix jours qui suivent celui de la délibération.\n\n**(2)** L’organisation de l’enseignement musical est soumise à l’approbation du ministre ayant l’Intérieur dans ses attributions.",
+      "text_sha256": "4fcbebd864624606bc0a4be407bb4347052aefbece5b417e36eaaac56b09c77c",
+      "md_span": {
+        "start": 18005,
+        "end": 18296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_14/20220901",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Personnel de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** La commune ou le syndicat de communes peut engager :\n\n1. 1. un chargé de la direction à tâche complète ou partielle sous le régime de l’employé communal dans le groupe d’indemnité A2, sous-groupe de l’enseignement ou du salarié à tâche complète ou partielle dans le groupe d’indemnité A2 ;\n2. des enseignants sous le régime de l’employé communal dans le groupe d’indemnité A2, sous-groupe de l’enseignement ou du salarié dans le groupe d’indemnité A2.\n2. 1. un directeur à tâche complète et un directeur adjoint à tâche complète ou partielle sous le régime de l’employé communal, dans le groupe d’indemnité A1, sous-groupe administratif ou un chargé de la direction à tâche complète ou partielle sous le régime de l’employé communal, dans le groupe d’indemnité A2, sous-groupe de l’enseignement ou du salarié à tâche complète ou partielle dans le groupe d’indemnité A2 ;\n2. des enseignants sous le régime de l’employé communal dans le groupe d’indemnité A2, sous-groupe de l’enseignement ou du salarié dans le groupe d’indemnité A2.\n3. 1. un directeur à tâche complète et un directeur adjoint à tâche complète ou partielle sous le statut du fonctionnaire communal dans le groupe de traitement A1, sous-groupe à attributions particulières de la rubrique enseignement ;\n2. des professeurs sous le statut du fonctionnaire communal dans le groupe de traitement A1, sous-groupe enseignement musical de la rubrique enseignement ;\n3. des enseignants sous le régime de l’employé communal dans le groupe d’indemnité A2, sous-groupe de l’enseignement ou du salarié dans le groupe d’indemnité A2.\n\nLes professeurs assurent, dans le délai de cinq ans à compter de l’entrée en vigueur de la présente loi, au moins un tiers du total des heures hebdomadaires enseignées. En cas du non-respect constaté lors du contrôle de l’organisation de l’enseignement musical prévue aux articles 10 à 13, les taux de base par minute prévus à l‘article 16, paragraphes 2 et 3, sont diminués de 25 pour cent pour les divisions moyenne spécialisée et supérieure ainsi que du degré supérieur prévus à l’article 16, paragraphe 3, points 3° et 4°, pour la liquidation de la participation financière suivant le constat du non-respect. Si un cas de non-respect est constaté, la commune ou le syndicat de communes est informé de la sanction mise en place avec l’approbation de l’organisation de l’enseignement musical telle que prévue à l’article 13.\n\n**(2)** La commune ou le syndicat de communes peut, à titre exceptionnel et au cas où il n’a pas pu être procédé à l’engagement d’un enseignant dans un des groupes d’indemnité définis au paragraphe 1er, points 1° à 3°, engager un enseignant sous le régime de l’employé communal dans le groupe d’indemnité B1, sous-groupe enseignement ou du salarié dans le groupe d’indemnité B1, selon les modalités prévues à l’article 15.",
+      "text_sha256": "8ca422b526a07adb8b27961080ba0c575139cad1630c2064b7d24e9eca560148",
+      "md_span": {
+        "start": 18386,
+        "end": 21231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_15/20220901",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Personnel de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Le ministre ayant l’Intérieur dans ses attributions nomme une commission de classement ayant pour mission d’émettre des avis préalables conformes sur toute question de reconnaissance de diplômes et de certificats dans le domaine de l’enseignement musical en vue du classement de l’enseignant et de son engagement par la commune ou le syndicat de communes dans le groupe d’indemnité B1 tel que prévu à l’article 14, paragraphe 2.\n\n**(2)** La commission de classement se compose des cinq membres effectifs suivants :\n\n1. un membre désigné par le ministre ayant l’Intérieur dans ses attributions parmi ses agents, qui assume la fonction de président ;\n2. le commissaire du Gouvernement ;\n3. un membre désigné par le ministre ayant l’Éducation nationale dans ses attributions parmi ses agents ;\n4. un membre désigné par le ministre ayant l’Enseignement musical dans ses attributions parmi les directeurs d’un conservatoire ;\n5. un membre désigné par le ministre ayant l’Enseignement supérieur dans ses attributions parmi ses agents.\n\nPour chaque membre effectif, il est nommé un membre suppléant.\n\nLe mandat des membres est de trois ans renouvelable.\n\n**(3)** La commune ou le syndicat de communes introduit le dossier de l’enseignant avec les copies des pièces requises auprès du commissaire du Gouvernement qui le fait suivre après vérification et contrôle au président de la commission de classement. Les dossiers à traiter par la commission de classement sont préparés de manière conjointe par le président et le commissaire du Gouvernement.\n\nLe dossier comprend les pièces suivantes :\n\n1. une copie du diplôme de fin d’études secondaires luxembourgeois ou d’un diplôme reconnu équivalent attestée par le ministre ayant l’Éducation nationale dans ses attributions ;\n2. une copie du diplôme du premier prix luxembourgeois dans une des branches de l’enseignement musical prévues par la présente loi ou d’un diplôme similaire au système luxembourgeois soumis à une décision d’équivalence par la commission, ainsi qu’une traduction en langue française, allemande ou anglaise établie par un traducteur assermenté, si le diplôme est établi dans une langue autre que ces trois langues.\n\n**(4)** Au cas où l’enseignant ne peut pas se prévaloir d’un diplôme du premier prix luxembourgeois ou équivalent, la commune ou le syndicat de communes peut introduire auprès du ministre une demande d’obtention d’un certificat spécial pour l’enseignant. La commune ou le syndicat de communes joint à sa demande une copie du diplôme de fin d’études secondaires luxembourgeois ou une équivalence attestée par le ministre ayant l’Éducation nationale dans ses attributions. Le certificat spécial attestant les compétences nécessaires pour enseigner une branche déterminée de l’enseignement musical peut être délivré par le ministre suite à l’avis favorable du commissaire du Gouvernement. À cet effet, l’établissement organise une épreuve pratique, en présence du commissaire du Gouvernement, qui consiste en une leçon à donner à des élèves. Après l’obtention d’un certificat spécial, le commissaire du Gouvernement fait suivre le dossier au président en vue d’un avis de classement dans le groupe d’indemnité B1.\n\n**(5)** La commission de classement se réunit aussi souvent que sa mission l’exige et au minimum trois fois par an.\n\nLe président convoque la commission de classement par écrit, soit à son initiative, soit à la demande de plusieurs de ses membres. La convocation contient l’ordre du jour et est adressée aux membres de la commission de classement au moins cinq jours ouvrables avant la date fixée pour la réunion.\n\nLa commission de classement ne peut délibérer valablement que si la majorité de ses membres sont présents. Les avis sont pris à la majorité simple des suffrages. Les membres effectifs et suppléants touchent des jetons de présence à fixer par règlement grand-ducal, à l’exception du commissaire du Gouvernement et du commissaire du Gouvernement adjoint.\n\n**(6)** Le secrétariat de la commission de classement est assuré par un agent désigné par le ministre, qui n’a pas qualité de membre.\n\nLe ministre ayant l’Intérieur dans ses attributions transmet l’avis de classement de l’enseignant à la commune ou au syndicat de communes en vue de l’engagement de celui-ci.",
+      "text_sha256": "1e35e97ffdbfdc15dc0a03b6bafa2671c20e6937feb94c253b08b2cb552cfcdd",
+      "md_span": {
+        "start": 21268,
+        "end": 25545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_16/20250901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Financement de l’enseignement musical"
+      ],
+      "article_valid_from": "2025-09-01",
+      "text_md": "**(1)** Les frais de fonctionnement de l’enseignement musical sont à charge de la commune ou du syndicat de communes. Chaque commune ou syndicat de communes fixe le minerval.\n\n**(2)** Une participation financière de l’État est prévue annuellement au budget du ministère. Le calcul de la participation financière de l’État se fait suivant un taux de base par minute suivant les données qui sont validées par la commune ou le syndicat de communes dans l’outil de gestion informatique.\n\n**(3)** Le taux annuel de base par minute, toute branche confondue et dispensée pendant trente-six semaines de cours par année scolaire, se compose d’un montant s’élevant à :\n\n1. 41,32 euros pour les cours de l’éveil, de la division inférieure et du degré inférieur, ainsi que pour les cours d’adultes ;\n2. 66,33 euros pour les cours de la division moyenne et du degré moyen ;\n3. 90,44 euros pour les cours de la division moyenne spécialisée ;\n4. 126,62 euros pour les cours de la division supérieure et du degré supérieur.\n\nSont prises en compte les minutes enseignées des branches et niveaux des cours tels que définis par le règlement grand-ducal prévu à l’article 8.\n\nLes montants fixés ci-dessus correspondent à la cote d’application 968,04 de l’échelle mobile des salaires et sont adaptés à la cote d’application en vigueur au 1er septembre précédant l’année scolaire de référence pour laquelle la participation financière de l’État est due.\n\nIls sont également adaptés à la valeur du point indiciaire pour les fonctionnaires, les fonctionnaires stagiaires et les employés de l’État bénéficiant de l’application du régime de pension des fonctionnaires de l’État applicable au 1er septembre précédant l’année scolaire de référence, conformément aux dispositions de l’article 2 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nPour le calcul de l’adaptation, la valeur mensuelle initiale du point indiciaire est de 2,5137607 euros au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.\n\n**(4)** Pour les cours individuels, la durée hebdomadaire à prendre en considération est la durée effective du cours dispensé par le personnel enseignant à l’élève, sans dépasser la durée hebdomadaire déterminée par règlement grand-ducal.\n\n**(5)** Pour les cours collectifs, la durée hebdomadaire à prendre en considération, sans dépasser celle définie par règlement grand-ducal, est fixée à :\n\n1. la durée effective du cours déterminée par la commune ou le syndicat de communes et dispensé par le personnel enseignant pour les cours de musique de chambre et de combo ;\n2. quatre minutes par élève et par heure de cours pour tous les autres cours collectifs.\n\n**(6)** La durée hebdomadaire à prendre en considération pour des cours dispensés pendant une partie de l’année scolaire, à notifier par la commune ou le syndicat de communes dans l’outil de gestion informatique, est réduite proportionnellement au nombre de semaines dispensées. La durée hebdomadaire de l’élève ayant abandonné le cours pendant l’année scolaire n’est pas prise en considération.\n\n**(7)** La commune ou le syndicat de communes signale tout abandon d’un élève dans l’outil de gestion informatique endéans un délai de cinq jours ouvrables.\n\n**(8)** La durée hebdomadaire à prendre en considération est déterminée par le moyen de l’outil de gestion informatique.\n\n**(9)** La participation financière de l’État est uniquement due à la commune ou au syndicat de communes pour l‘élève ayant achevé son année scolaire. La participation financière de l’État au profit de la commune ou du syndicat de communes pour l’année scolaire écoulée est liquidée au courant de l’année scolaire subséquente.\n\n**(10)** Chaque commune ou syndicat de communes participe au financement tel que prévu au paragraphe 3, via le Fonds de dotation globale des communes instauré par la loi modifiée du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes aux mêmes conditions et limites que l’État. Cette participation est prévue annuellement au budget du ministère et elle est liquidée en même temps que la participation financière de l’État prévue au paragraphe 9.",
+      "text_sha256": "0e222f0398d87213f225a236d826963786658e69869ae3561ded2a952230951b",
+      "md_span": {
+        "start": 25637,
+        "end": 29861
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/12/14/n1/jo",
+          "text": "loi modifiée du 14 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_17/20250901",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Financement de l’enseignement musical"
+      ],
+      "article_valid_from": "2025-09-01",
+      "text_md": "**(1)** Outre la participation financière prévue à l’article 16, l’État prend en charge un taux annuel supplémentaire, par minute enseignée, pour les branches et niveaux suivants :\n\n1. éveil musical : « éveil 1 » à « éveil 3 » ;\n2. formation musicale et formation musicale jazz : jusqu’à l’obtention du certificat de la division inférieure ;\n3. branches instrumentales de la formation instrumentale et de la formation instrumentale jazz : à partir de l’« éveil 1 » jusqu’à l’obtention du diplôme du premier cycle ;\n4. chant classique, chant rock/pop, chant baroque, chant musical et chant jazz : jusqu’à l’obtention du diplôme du premier cycle ;\n5. formation chorale : jusqu’à l’obtention du certificat du degré inférieur ;\n6. diction : jusqu’à l’obtention du diplôme du premier cycle ;\n7. formation théâtrale : « année 1 » à « année 7 » ;\n8. formation musicale pour danseurs : jusqu’à l’obtention du certificat du degré inférieur ;\n9. éveil à la danse : « éveil 1 » à « éveil 3 » ;\n10. danse classique, danse contemporaine et danse jazz : jusqu’à l’obtention du diplôme du premier cycle.\n\n**(2)** La commune ou le syndicat de communes perçoit ce taux annuel supplémentaire par minute uniquement pour les élèves inscrits dans les branches et niveaux précités et qui sont âgés de moins de dix-huit ans au 1er septembre précédant l’année scolaire concernée.\n\nLa commune ou le syndicat de communes ne facture, en contrepartie de ce taux annuel supplémentaire, aucun minerval, ni taxes quelconques, à l’élève admis dans son établissement et remplissant les présentes conditions, à l’exception d’une éventuelle taxe fixée par la commune ou le syndicat de communes pour la location d’un instrument mis à disposition de l’élève par la commune ou le syndicat de communes.\n\nL’élève profite de la gratuité des cours.\n\n**(3)** Sont prises en compte les minutes enseignées des branches et niveaux des cours tels que définis par le règlement grand-ducal prévu à l’article 8 et suivant les données validées par la commune ou le syndicat de communes dans l’outil de gestion informatique.\n\n**(4)** La durée hebdomadaire à prendre en considération et la liquidation de cette participation financière supplémentaire est déterminée selon les modalités prévues à l’article 16, paragraphes 4 à 9.\n\n**(5)** Le taux annuel supplémentaire par minute pour les branches et niveaux énumérés au paragraphe 1er et dispensés pendant trente-six semaines de cours par année scolaire est fixé à 15 euros.\n\nLes montants fixés ci-dessus correspondent à la cote d’application 834,76 de l’échelle mobile des salaires et sont adaptés à la cote d’application en vigueur au 1er septembre précédant l’année scolaire de référence pour laquelle la participation financière de l’État est due.\n\nIls sont également adaptés à la valeur du point indiciaire pour les fonctionnaires, les fonctionnaires stagiaires et les employés de l’État bénéficiant de l’application du régime de pension des fonctionnaires de l’État applicable au 1er septembre précédant l’année scolaire de référence, conformément aux dispositions de l’article 2 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nPour le calcul de l’adaptation, la valeur mensuelle initiale du point indiciaire est de 2,4173333 euros au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.",
+      "text_sha256": "c850a567511f35a5d2000f0078e608991ede3340bd13ae16e430b6b2e754756d",
+      "md_span": {
+        "start": 29898,
+        "end": 33301
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_18/20220901",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Financement de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Au cas où les conditions de l’article 17, paragraphes 1er et 2, ne sont pas remplies, l’État fixe un plafond du minerval et des taxes quelconques facturés à l’élève par la commune ou le syndicat de communes à hauteur de 100 euros par branche et par année scolaire. Le minerval, taxe quelconque comprise, ne peut en aucun cas dépasser ce plafond, exception faite en ce qui concerne la location d’un instrument mis à disposition de l’élève par la commune ou le syndicat de communes.\n\n**(2)** Outre sa participation financière prévue à l’article 16, l’État prend en charge un taux annuel supplémentaire par minute, sur base de trente-six semaines de cours par année scolaire, fixé à 10 euros et qui n’est dû que si les modalités énumérées à l’article 17 ne sont pas remplies. Sont prises en compte les minutes enseignées et la durée des cours dans les branches et niveaux tels que définis à l’article 8, paragraphe 1er, points 1° à 5°, et suivant les données validées par la commune ou le syndicat de communes dans l’outil de gestion informatique.\n\n**(3)** Outre sa participation financière prévue au paragraphe 2, l’État prend en charge un taux annuel supplémentaire par minute, sur base de trente-six semaines de cours par année scolaire, fixé à 15 euros dans le cadre de la mission nationale confiée aux conservatoires telle que prévue à l’article 6, paragraphe 1er, point 3°. Sont prises en compte les minutes enseignées et la durée des cours dans les branches et niveaux tels que définis à l’article 8, paragraphe 1er, points 6° à 8°, et suivant les données validées par la commune ou le syndicat de communes dans l’outil de gestion informatique.\n\n**(4)** La durée hebdomadaire à prendre en considération et la liquidation de ces participations financières supplémentaires sont déterminées selon les modalités prévues à l’article 16, paragraphes 4 à 9.\n\nLes montants fixés aux paragraphes 2 et 3 correspondent à la cote d’application 834,76 de l’échelle mobile des salaires et sont adaptés à la cote d’application en vigueur au 1er septembre précédant l’année scolaire de référence pour laquelle la participation financière de l’État est due.\n\nIls sont également adaptés à la valeur du point indiciaire pour les fonctionnaires, les fonctionnaires stagiaires et les employés de l’État bénéficiant de l’application du régime de pension des fonctionnaires de l’État applicable au 1er septembre précédant l’année scolaire de référence, conformément aux dispositions de l’article 2 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Pour le calcul de l’adaptation, la valeur mensuelle initiale du point indiciaire est de 2,4173333 euros au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.",
+      "text_sha256": "ca4c49c5a54c93fda3d517545cd31c4de2044d038d2b0766c004dab1c566d027",
+      "md_span": {
+        "start": 33338,
+        "end": 36144
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_19/20220901",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Financement de l’enseignement musical"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "**(1)** Il est mis en place une aide qui a pour objet de prendre en charge le minerval conformément aux dispositions de l’article 18 et consiste dans le remboursement de ce dernier aux parents ou tuteurs par l’État.\n\n**(2)** L’élève, pour lequel l’aide est demandée, est inscrit dans un établissement et âgé de moins de dix-huit ans au 1er septembre précédant l’année scolaire de référence. Le ménage dont fait partie l’élève dispose d’un revenu mensuel brut inférieur à trois fois et demi le salaire social minimum non qualifié, augmenté de 500 euros pour chaque enfant de moins de dix-huit ans au 1er septembre précédant l’année scolaire de référence à charge à partir du deuxième enfant.\n\n**(3)** Si le revenu mensuel brut, tel que fixé au paragraphe 2, dépasse le seuil fixé jusqu’à hauteur de 10 pour cent, 75 pour cent du minerval sont remboursés.\n\n**(4)** Si le revenu mensuel brut, tel que fixé au paragraphe 2, dépasse le seuil fixé au-delà de 10 pour cent et jusqu’à hauteur de 20 pour cent, 50 pour cent du minerval sont remboursés.\n\n**(5)** Les pièces suivantes sont à produire avec la demande :\n\n1. une facture détaillée du minerval établie par l’établissement ou la commune ou le syndicat de communes ;\n2. la preuve de paiement de la facture ;\n3. loi modifiée du 9 juillet 2004\n4. un certificat attestant le versement des allocations familiales, ou à défaut, une copie de l’extrait du dernier versement des allocations familiales ;\n5. loi modifiée du 9 juillet 2004\n6. un certificat de composition de ménage.\n\n**(6)** Les demandes en obtention de l’aide sont à adresser moyennant un formulaire spécifique avec les pièces justificatives à l’appui jusqu’au 1er octobre de l’année scolaire subséquente au plus tard au commissaire du Gouvernement.\n\nL’aide est versée aux ayants droits à partir du 1er janvier de l’année scolaire de référence.",
+      "text_sha256": "6b27b8500d458c718f08dbd1e5acd9f0ddb7f8284f09208be981c4955ea6d918",
+      "md_span": {
+        "start": 36181,
+        "end": 38033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_20/20220901",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Outil de gestion informatique"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "Il est mis en place un outil de gestion informatique par le Centre de gestion informatique de l’éducation pour assurer le traitement de données à caractère personnel nécessaires dans le cadre de l’exécution de la présente loi.",
+      "text_sha256": "67f983ed65bf582ef3da2007db4d525f349c79a74d9596bfc4b9a7d9f5d024bf",
+      "md_span": {
+        "start": 38117,
+        "end": 38343
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_21/20220901",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :\n\n1. er 1. Les fonctions de commissaire du Gouvernement adjoint à l’enseignement musical,\n2. de commissaire à l’enseignement musical, de commissaire du Gouvernement à l’enseignement musical,\n2. er commissaire du Gouvernement adjoint à l’enseignement musical Ombudsman fir Kanner a Jugendlecher\n3. de commissaire à l’enseignement musical de commissaire du Gouvernement à l’enseignement musical\n4. 1. commissaire du Gouvernement adjoint à l’enseignement musical , directeur fonctionnel du Corps grand-ducal d’incendie et de secours\n2. commissaire à l’enseignement musical commissaire du Gouvernement à l’enseignement musical",
+      "text_sha256": "1daf567b4d2e149bc306e30550e76cf57461e7f12e89197c6ad0f87b8839292b",
+      "md_span": {
+        "start": 38463,
+        "end": 39248
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_22/20220901",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La loi modifiée du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal ; b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ; c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État est abrogée.",
+      "text_sha256": "2bf2a92d4a32c95867f3cff3bed5bef3663ab22b74221acbb4db1b5eb633b5e3",
+      "md_span": {
+        "start": 39285,
+        "end": 39605
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/04/28/n2/jo",
+          "text": "loi modifiée du 28 avril 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1989/05/24/n1/jo",
+          "text": "loi du 24 mai 1989"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_23/20220901",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "Les dénominations « école de musique régionale » et « conservatoire » autorisées avant la mise en vigueur de la présente loi restent valables.",
+      "text_sha256": "a5a39cb2e33000444b8ff3588f1c7c7ca08b643d58dfa4195a5f6b9116d58abe",
+      "md_span": {
+        "start": 39642,
+        "end": 39784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_24/20220901",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "Par dérogation à l’article 9, paragraphe 2, la commune ou le syndicat de communes peut introduire sa demande d’autorisation pour l’année scolaire 2022/2023 jusqu’au 15 septembre 2022.",
+      "text_sha256": "6412eb61d685d3a1e90cb4d1827ccb43046a9d2d236c2168812ac3e6f4450148",
+      "md_span": {
+        "start": 39821,
+        "end": 40004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_25/20220901",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La commune ou le syndicat de communes peut continuer à occuper des chargés de cours, engagés contractuellement au moment de l’entrée en vigueur de la présente loi en qualité d’employé communal ou de salarié et classés à l’un des grades E3ter ou E1, tels qu’ils sont prévus par le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal, ou à l’un des groupes d’indemnités A1 ou C1, tels qu’ils sont prévus pour les employés communaux.\n\nPar dérogation à l’article 14, la commune ou le syndicat de communes peut engager ces agents sous condition qu’il ne se situe pas de période dépassant trois mois entre les contrats successifs.",
+      "text_sha256": "8f227d740801355f44e8c726f7bdee8590d929cad0469592b9944439ead1b7b4",
+      "md_span": {
+        "start": 40041,
+        "end": 40826
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/09/25/n4/jo",
+          "text": "règlement grand-ducal modifié du 25 septembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_26/20220901",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La référence à la présente loi se fait sous la forme suivante : « loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal ».",
+      "text_sha256": "3e6948b8ea9e99c0f7c04db2378fcd651c81677b495f1eac2139327a7cc040ed",
+      "md_span": {
+        "start": 40863,
+        "end": 41022
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 27 mai 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2022-05-27-a250:2025-09-01--67120e602927c584cf566aef0f89f927954784fca1a0c014f34f50a46c702ab7#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/art_27/20220901",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions modificatives, abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2022-09-01",
+      "text_md": "La présente loi entre en vigueur le 1er septembre 2022.",
+      "text_sha256": "86af0317fc0129d2d0ffaf863440001f106bc024fa6ddc12014d14e85f2d6d28",
+      "md_span": {
+        "start": 41059,
+        "end": 41114
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,897 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/01/1990 : Règlement grand-ducal du 29 octobre 1986 fixant les modalités d'application de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité et de la loi du 26 juillet 1986 portant\\na) création du droit à un revenu minimum garanti;\\nb) création d'un service national d'action sociale;\\nc) modification de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité.",
+  "valid_from": "1990-01-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1986-10-29-n1/versions/1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb/fr.xml",
+    "sha256": "96b43320c5726a29f8eaf435083ba8dd9d73784bde1eee6315a75be5d0d551fc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/consolide/19900127/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_1er/19861110",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Dans le texte du présent règlement le fonds national de solidarité est dénommé «le fonds», l'office social «l'office», le service national d'action sociale «le service» et la loi du 26 juillet 1986 portant a) création du droit à un revenu minimum garanti; b) création d´un service national d´action sociale; c) modification de la loi du 30 juillet 1960 concernant la création d´un fonds national de solidarité est dénommée « la loi ».",
+      "text_sha256": "2258bad936024db567557b46ca9a310f9ecfa02d51f4466672fb5919e8e482b9",
+      "md_span": {
+        "start": 1015,
+        "end": 1449
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "loi du 26 juillet 1986"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi du 30 juillet 1960"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_2/19900127",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Les requêtes en vue de l´obtention d´un complément sont à adresser à l´office ou au fonds. A cet effet une formule est délivrée aux intéressés sur leur demande ou à l´initiative de l´office par le secrétariat communal, par l´office ou par le fonds.\n\nLe personnel des organismes compétents et des services concernés par la loi aide le requérant qui le demande, à accomplir toutes les formalités et à obtenir toutes les pièces prévues par le présent règlement.\n\nLa demande est envoyée à l´office ou au fonds, par simple lettre à la poste; elle peut également être déposée directement à l´office ou auprès du fonds. L´organisme saisi y porte chaque fois sans délai la date du dépôt.\n\nLa demande est réputée être faite à la date du dépôt prévue à l´alinéa précédent à condition qu´elle soit dûment remplie et qu´elle soit accompagnée des pièces visées à l´article 3 ci-après justifiant l´accomplissement des conditions stipulées à l´article 2 de la loi. Au cas où toutes les pièces ne sont pas jointes, celle-ci est censée être faite à la date où la dernière des pièces prévues au paragraphe (1) de l'article 3 ci-après parvient à l'office ou au fonds.",
+      "text_sha256": "597263ec9f4e04e82053b8b65fab61e51f8f9dd63c67009c9a7456036bf0bc04",
+      "md_span": {
+        "start": 1571,
+        "end": 2719
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_3/19900127",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "**(1)** Pour chaque personne faisant partie de la communauté domestique et pour laquelle un complément est demandé, la condition de résidence prévue à l'article 2 (1) a) de la loi doit être certifiée par la ou les communes où la personne a résidé au Luxembourg. Pour les enfants, seule la condition de résidence au moment de la demande doit être certifiée par la commune.\n\nPour chaque enfant est à joindre une attestation de la caisse nationale des prestations familiales certifiant que l'enfant a droit aux allocations familiales.\n\n**(2)** Pour les personnes âgées de moins de soixante ans, est à joindre à la demande en outre et selon le cas:\n\n- une attestation d'affiliation obligatoire à un régime de pension contributif ou non-contributif;\n- une attestation du régime de pension ou de l'association d'assurance contre les accidents que la personne bénéficie d'une pension d'invalidité ou d'une rente plénière;\n- une attestation de l'administration de l'emploi certifiant que la personne est inscrite comme demandeur d'emploi;\n- la loi\n\nEn ce qui concerne les requérants inaptes au travail et âgés de moins de soixante ans, l'organisme compétent peut demander un rapport du contrôlemédical de la sécurité sociale attestant que les conditions prévues à l'article 2(2)a) de la loi sont remplies. Il en est de même des bénéficiaires du revenu minimum garanti qui demandent la majoration du complément en vertu du paragraphe (4) de l'article 3 de la loi.",
+      "text_sha256": "5806afad75c13a3b50f39f800f25dd369288295ef10d6801f9b6a542cfa0df99",
+      "md_span": {
+        "start": 2754,
+        "end": 4208
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_4/19900127",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "La demande du requérant donne lieu à l'établissement, par l'organisme compétent, d'un dossier qui comporte:\n\n1. un rapport établi à la suite d'une enquête sur la situation de revenu et de fortune du requérant et de toutes les personnes qui vivent avec lui en communauté domestique;\n2. la décision notifiée au requérant concernant l'octroi ou le refus du complément;\n3. une attestation, en cas d'octroi du complément, certifiant l'affiliation du bénéficiaire à une caisse de maladie;\n4. le cas échéant, un rapport établi sur base d'une enquête sociale.\n\nSi, au moment de l'octroi du complément, le bénéficiaire n'est pas encore affilié à l'assurance maladie, le fonds présente immédiatement, le cas échéant à la demande de l'office compétent, une demande d'affiliation à la caisse nationale d'assurance maladie des ouvriers afin de régulariser la situation du bénéficiaire conformément à l'article 9 de la loi.\n\nAu cas où le droit au revenu minimum garanti n'est ouvert qu'en vertu de l'article 2 (1) d) de la loi, l'organisme compétent transmet immédiatement une copie du dossier au service.\n\nEn cas d'application de l'article 15 de la loi, le dossier est instruit dans le mois qui suit la décision du président de l'office ou de son délégué.",
+      "text_sha256": "dcc02e07293609d9ca4ac6ea361e94e29ec9acd131d71459fd5f543a44adad1a",
+      "md_span": {
+        "start": 4243,
+        "end": 5485
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_5/19861110",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Pour l´instruction du dossier l´office ou le fonds procède, pour autant que de besoin, à une enquête auprès des intéressés, auprès des administrations communales et fiscales, auprès des organismes d´assistance et de sécurité sociale compétents et auprès des institutions et services publics et privés oeuvrant dans le domaine de l´action sociale.\n\nIls peuvent notamment demander à toute personne, institution ou entreprise de leur faire connaître dans le délai de quinze jours le montant des rémunérations, des pensions, rentes ou allocations périodiques qu´elles sont tenues de servir aux personnes devant bénéficier d´un complément.",
+      "text_sha256": "b8d01bb2320fadeb74e229fb5f53c8daedde190a1d2144cba515705483a85fe9",
+      "md_span": {
+        "start": 5520,
+        "end": 6154
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_6/19861110",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Le complément est dû à partir du mois au cours duquel le dépôt de la demande a été effectué. En cas d´application de l´article 15 de la loi, le complément est versé sans retard.",
+      "text_sha256": "bfc4e2c58ef0a3d8349925f53534037b8c612a88c11005129d14266983700887",
+      "md_span": {
+        "start": 6189,
+        "end": 6366
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_7/19900127",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Présentation et instruction des demandes; allocation du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Les modifications des conditions d´attribution et les éléments de calcul des compléments alloués sont à surveiller par l´organisme qui assure le service du complément.\n\nA cet effet, les bénéficiaires du complément sont tenus de signaler immédiatement tous les faits qui seraient de nature à modifier leurs droits au complément\n\nL´organisme qui assure le service du complément organise dans le même but un contrôle périodique par enquête sur place et recueille les renseignements utiles auprès des administrations communales et fiscales et auprès des organismes d´assistance et de sécurité sociale compétents.\n\nL´office et le fonds peuvent, le cas échéant, demander avant chaque paiement auprès des bureaux de population des communes un certificat de vie de l´ayant droit.\n\nLe service signale à l´office ou au fonds ceux des bénéficiaires du complément qui sont tenus de se soumettre soit à des cours de recyclage, soit à une mise au travail, soit à une insertion professionnelle, mais qui ne se conforment pas à cette obligation.",
+      "text_sha256": "ea3cc95c374916718469b0794234fc14fff156752124683d7b06e5f35a524f03",
+      "md_span": {
+        "start": 6401,
+        "end": 7430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_8/19861110",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Le requérant du complément doit déclarer à l´office ou au fonds son revenu intégral ainsi que toute sa fortune, de même que le revenu et la fortune des personnes visées aux articles 3, 5 et 8 de la loi.\n\nCes personnes ou leurs représentants légaux certifieront, le cas échéant, sur la déclaration du requérant l´exactitude des indications y fournies à leur égard.",
+      "text_sha256": "4d22c8162fe491b124f9345f78e8cf3d3fb3dd6846cb6d95bf010ba0dc5f16c0",
+      "md_span": {
+        "start": 7525,
+        "end": 7888
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_9/19861110",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Sont à déclarer comme revenu tous les éléments de ressources annuelles, en faisant abstraction de tous abattements et exonérations fiscales ou autres et sans qu´il soit tenu compte de toute déduction.\n\nSont notamment à déclarer:\n\n1. les revenus d´un travail régulier ou occasionnel ou généralement d´une activité professionnelle quelconque;\n2. les revenus de biens mobiliers et immobiliers;\n3. les rentes ou pensions accordées à un titre quelconque;\n4. les droits d´habitation, d´usufruit et d´entretien.",
+      "text_sha256": "817a5e86c9936344582eefbef06be0e1bfc715c623bee030cffcb0e83622e990",
+      "md_span": {
+        "start": 7923,
+        "end": 8427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_10/19861110",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Sont à déclarer comme fortune tous les éléments considérés comme tels par la loi sur l´impôt sur la fortune, mais en faisant abstraction de tous abattements et exonérations et sans qu´il soit tenu compte de toute déduction.\n\nSont notamment à déclarer:\n\n1. les moyens de paiement selon la valeur nominale;\n2. les prêts, les avoirs en compte et généralement les créances selon leur valeur recouvrable;\n3. les actions, les parts de société, les obligations, selon leur valeur boursière ou, à défaut, selon leur valeur vénale réelle;\n4. les immeubles de toute nature, bâtis ou non bâtis, suivant leur valeur vénale;\n5. les métaux précieux, les bijoux, perles, pierres précieuses, les objets de luxe, d´art, les collections, suivant leur valeur vénale;\n6. le gros bétail, suivant la valeur marchande.",
+      "text_sha256": "25e8fecac7d58f4099dc8e0f6a89ddf48c9e25b57129595a57ad215fe5650821",
+      "md_span": {
+        "start": 8464,
+        "end": 9259
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1934/10/16/n1/jo",
+          "text": "loi sur l´impôt sur la fortune"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_11/19900127",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "La valeur vénale de la fortune immoblière est déterminée par l´office ou le fonds diaprès les règles admises par l´administration des contributions.\n\nLa valeur vénale des immeubles est obtenue par multiplication de la valeur unitaire établie par le service de l´évaluation des immeubles de l´administration des contributions, avec le coefficient correspondant du tableau annexé A qui fait corps avec le présent règlement. Cette valeur peut être rectifiée soit d´office, soit à la demande de l´intéressé, sur expertise ordonnée par le fonds.",
+      "text_sha256": "b4dd0c462a45706e43cc148ffe0b7c49ca051beb3afde093a7548fc2fc59cad5",
+      "md_span": {
+        "start": 9296,
+        "end": 9836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_12/19900127",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Sont à déclarer les donations directes ou indirectes faites par le requérant ou par les personnes visées aux paragraphes (2) et (3) de l'article 3 de la loi. A la demande de l´office ou du fonds les actes de donations sont à lui soumettre.\n\nL´office ou le fonds doit sans délai et par lettre recommandée communiquer aux donataires les déclarations faites à leur sujet et les rendre attentifs aux dispositions de l´article 23 alinéa 1er c) de la loi.",
+      "text_sha256": "d7854c974deac9a57f87bdeb709139487e16a83a2668b2372b81f627475cc478",
+      "md_span": {
+        "start": 9873,
+        "end": 10322
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_13/19861110",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Déclaration des revenus et de la fortune"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Sont à déclarer les personnes tenues à l´obligation alimentaire et visées par l´article 8 de la loi. La déclaration doit fournir dans la mesure du possible les précisions nécessaires sur l´état de famille, le revenu et la fortune de ces personnes.",
+      "text_sha256": "2ec37ee700e716ffcdcc05c58bb6b359dfab101515013e39c9d46934482e75bb",
+      "md_span": {
+        "start": 10359,
+        "end": 10606
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_14/19861110",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Les revenus professionnels mensuels réguliers sont pris en compte suivant leur montant brut correspondant au mois pour lequel le complément est demandé ou, à défaut, au mois précédent celui-ci. Au cas où ces revenus mensuels réguliers présentent des fluctuations, le montant mensuel peut être déterminé sur la base d´une moyenne s´étendant au maximum sur les douze mois précédents.\n\nPour autant qu´il ne soit possible de déterminer des revenus professionnels mensuels correspondant à une activité indépendante, le revenu mensuel est égal à un douzième du revenu annuel pris en compte pour la détermination de l´assiette de cotisation en matière d´assurance pension.\n\nEn cas de travail saisonnier, le revenu mensuel équivaut à la moyenne des revenus correspondants sur les douze mois précédents.\n\nLe revenu professionnel, résultant d´une activité occasionnelle, non pris en compte au moment de la détermination du complément, peut être pris en compte pour la détermination du complément d´un mois subséquent\n\nLes indemnités pécuniaires de maladie, de maternité et d´accidents de travail sont assimileés aux revenus provenant d´une activité professionnelle en vue de l´application de l´alinéa 4 du paragraphe 1er de l´article 6 de la loi.",
+      "text_sha256": "45049705167d9ef677d21ffe31dbe22e0fc636138dbc09dd0830731ffb0d9b51",
+      "md_span": {
+        "start": 10758,
+        "end": 11994
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_15/19861110",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Les autres revenus mensuels réguliers tels pensions, rentes, loyers d´immeubles, sont pris en compte suivant leur montant correspondant au mois pour lequel le complément est demandé.\n\nPour la conversion en revenus mensuels les revenus déterminés sur une base annuelle sont à diviser par douze.",
+      "text_sha256": "68f2f6c47e8550e9e8f389c73ce77106afb9b5bca01e556776a460100a2b3793",
+      "md_span": {
+        "start": 12031,
+        "end": 12324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_16/19861110",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Les revenus en nature, tels que logement et nourriture sont évalués eu égard à l´importance des prestations servies.\n\nLa valeur des prestations en nature comprenant l´entretien complet ne peut toutefois être fixée à un montant inférieur à la valeur moyenne des rémunérations en nature en matière de sécurité sociale.",
+      "text_sha256": "f30b8cca8387eaa7fc1222a56fc3cc8f9df78e37fb61eff02d929350a2a42f82",
+      "md_span": {
+        "start": 12361,
+        "end": 12677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_17/19900127",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Les ressources résultant de la fortune se déterminent par conversion en rente viagère immédiate de la valeur globale de la fortune au moyen des multiplicateurs résultant des barèmes annexés B et C qui font corps avec le présent règlement. Cette rente viagère ne peut cependant en aucun cas être inférieure au revenu effectif retiré de cette fortune.\n\nEn cas d´application de l´article 7 alinéa 3 de la loi il est seulement tenu compte du loyer ou de la valeur locative de la partie de l´immeuble dépassant les besoins du requérant et de sa famille.",
+      "text_sha256": "521faa4c00610406694449f2eabdf63a86e36ea2d144b3839adeacb5b7eca578",
+      "md_span": {
+        "start": 12714,
+        "end": 13262
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_18/19900127",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Ne sont pas comptés comme revenus:\n\na) la valeur locative de l´habitation occupée par le requérant et sa famille dans la maison dont il est propriétaire, dans la mesure où cette habitation ne dépasse pas ses besoins ou ceux de sa famille, conformément à l´alinéa 3 de l´article 7 de la loi;\n\nb) les secours bénévoles alloués au titre de l´assistance publique par l´Etat, les communes et les offices sociaux, ni les secours alloués par des oeuvres de bienfaisance, conformément à l´alinéa 1 de l´article 6 de la loi.",
+      "text_sha256": "3cf9c9dde075f955df4782ede6ec610cd02de4d35131859cde3f6c2b24eb01c6",
+      "md_span": {
+        "start": 13299,
+        "end": 13814
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_19/19900127",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Détermination du revenu global mensuel à prendre en considération pour le calcul du complément"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Le revenu global mensuel est obtenu par addition des ressources déterminées par l´office ou par le fonds selon les règles qui précèdent.",
+      "text_sha256": "c261d4567220b5d357a3e3208356f36f0b81d9084bba4a7e3fe5f88df3e7df32",
+      "md_span": {
+        "start": 13851,
+        "end": 13987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_20/19861110",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Prise en compte des créances alimentaires"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "L´office ou le fonds invite les débiteurs d´aliments visés par l´article 8 de la loi à indiquer l´aide qu´ils peuvent allouer au requérant ou à prouver, le cas échéant, qu´ils ne sont pas en mesure d´apporter une telle aide.\n\nL´office ou le fonds peut faire une enquête sur la situation du débiteur d´aliments en faisant appel aux moyens d´investigation indiqués à l´article 4 du présent règlement.",
+      "text_sha256": "7cf409203511d836eae4c4f57c562e622e114388f2f85b4116aa5ead12c1abb0",
+      "md_span": {
+        "start": 14085,
+        "end": 14483
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_21/19861110",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Prise en compte des créances alimentaires"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Si l´aide apportée au requérant par les débiteurs d´aliments paraît insuffisante à l´office ou au fonds, ces derniers invitent les débiteurs à en accroître le montant.\n\nEn cas de refus de la part des intéressés, le fonds peut intenter l´action en justice, prévue par l´article 8, alinéa 2 de la loi, après une mise en demeure en due forme.",
+      "text_sha256": "36d7be380988393916eb53ae52e6784b80132075a651335034b70cf61c942b10",
+      "md_span": {
+        "start": 14520,
+        "end": 14859
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_22/19861110",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Prise en compte des créances alimentaires"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Aucune action en justice ne peut être intentée contre le débiteur d´aliments qui ne dispose que d´un revenu imposable inférieur à deux fois et demie le salaire social minimum de référence.\n\nPour sa décision l´office ou le fonds tient compte, non seulement de la situation de fortune du débiteur d´aliments, mais encore de tous autres éléments tels que charge d´enfants ou maladie pouvant justifier le refus du débiteur de s´acquitter de sa dette d´aliments.",
+      "text_sha256": "4b0efbd07f5dd446724b6280f6d6484a51db732609f8ad4bee54f033a5e8e4b7",
+      "md_span": {
+        "start": 14896,
+        "end": 15353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_23/19861110",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Prise en compte des créances alimentaires"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Le fonds surveille la situation du débiteur d´aliments en vue d´une éventuelle adaptation de ses obligations.",
+      "text_sha256": "7cb02c27ddb5aba50b78988661d183d994cd51f89aeb8a9a7b44bac0d147cbd4",
+      "md_span": {
+        "start": 15390,
+        "end": 15499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_24/19900127",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Si le bénéficiaire d´un complément revient à meilleure fortune dans une mesure telle qu´il peut restituer tout ou partie des arrérages touchés, il est tenu de le faire.\n\nEn cas de refus de sa part, une action en restitution ne peut cependant être intentée contre lui par le fonds que pour les arrérages dépassant cent mille francs.",
+      "text_sha256": "796716b88098ddd61f8172cb91483cefa4db5086b1a32ab3693c9eceed47d315",
+      "md_span": {
+        "start": 15620,
+        "end": 15951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_25/19900127",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Lorsque la succession d'un bénéficiaire de complément échoit en tout ou en partie au conjoint survivant ou à des successeurs en ligne directe, le fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l'actif de la succession fixée à cinq cent mille francs pour le conjoint survivant et à deux cent cinquante mille francs pour chaque successeur en ligne directe.\n\nA défaut de successeurs en ligne directe et de conjoint survivant le fonds ne peut faire valoir aucune demande en restitution pour une tranche d'arrérages de cinquante mille francs, sans distinction du nombre de successeurs entrant en ligne de compte.\n\nSi le conjoint survivant ou un successeur en ligne directe mineur a été en tout ou en partie à charge du défunt au moment du décès et s'il justifie qu'il dispose d'un revenu imposable inférieur à deux fois et demie le salaire social minimum de référence, aucune restitution ne peut être demandée pour une part proportionnelle à ses droits dans la succession.\n\nL'avantage qui résulte de cette disposition doit revenir entièrement à ce successeur.\n\nLorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du complément continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul soit conjointement au bénéficiaire du complément et à son conjoint, le fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant.\n\nToutefois pour garantir les droits à une restitution ultérieure l'immeuble est grevé d'une hypothèque légale dont l'inscription est requise par le fonds.",
+      "text_sha256": "00837a4c0592bae9f8b9499dda5a168cfe244340c281e3f0c0c41706b635cffb",
+      "md_span": {
+        "start": 15988,
+        "end": 17639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_26/19861110",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Les limites tracées à l´action en restitution dans l´article 25 s´appliquent également au donataire et au légataire du bénéficiaire d´un complément, s´il a la qualité d´hériter ou de successeur, même renonçant.",
+      "text_sha256": "5046e32220b0abbfc7eb8cf61c408df5f4e5c2668d2d4b648f32731a7371de14",
+      "md_span": {
+        "start": 17676,
+        "end": 17886
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_27/19900127",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Le fonds ne peut faire inscrire l´hypothèque légale, prévue par l´article 24 de la loi pour garantie des demandes en restitution des compléments que pour les montants d´arrérages qui dépassent la tranche immunisée prévue par le premier alinéa de l'article 25.",
+      "text_sha256": "a564f5829d342383c42ce4acc630f5cc2c49f818c32b4dae2d5cec60a885bcd4",
+      "md_span": {
+        "start": 17923,
+        "end": 18182
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_28/19900127",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Si plusieurs immeubles sont disponibles pour l´inscription de l'hypothèque légale, prévue par l'article 24 de la loi, l´inscription est prise sur l´un ou certains d´entre eux du moment que la valeur immobilière ainsi grevée couvre en totalité la créance à garantir. Parmi les immeubles disponibles le fonds choisit celui ou ceux qui représentent la meilleure garantie pour la créance à couvrir.",
+      "text_sha256": "1265a20127c2260e657b5ce8a67de46883915ae8df10fdf4fe65d55bcccf7c3c",
+      "md_span": {
+        "start": 18219,
+        "end": 18613
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_29/19900127",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Dans le cas d´un ménage de parents ou alliés ou d´une communauté domestique visé par l´article 3 de la loi, l´inscription hypothécaire est faite sur les biens immobiliers de chaque intéressé pour sa part du complément allouée.\n\nPour l´évaluation de cette part, le complément total est divisé en portions égales. Chaque portion est ensuite capitalisée d´après les dispositions de l´article 24 paragraphe 2 de la loi.",
+      "text_sha256": "412037697bb7fa82dc48abd5e394171c13fa92e34016ef675b459e5e734d1e4d",
+      "md_span": {
+        "start": 18650,
+        "end": 19065
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_30/19861110",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Restitution des compléments et inscription de l´hypothèque légale"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "La mainlevée des inscriptions, prises en vertu de l´article 24 de la loi, est demandée par le fonds dans les trois mois qui suivent l´extinction de la créance à garantir.",
+      "text_sha256": "e006b1aa3bfbc3bb2d5a0778940a4ee2abe685bef05ad280977b47221ce89ae1",
+      "md_span": {
+        "start": 19102,
+        "end": 19272
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_31/19900127",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Recours"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Pour l´application de l´article 23 alinéa 4 de la loi du 30 juillet 1960 concernant la création d´un fonds national de solidarité, la valeur en capital des compléments est obtenue en multipliant le complément mensuel par douze et par le coefficient correspondant à l´âge du bénéficiaire au moment de l´octroi de la prestation.\n\nL´âge du bénéficiaire est calculé par différence de l´année d´attribution de la pension et de l´année de la naissance du bénéficiaire du complément.\n\nLes coefficients de multiplication sont appliqués conformément au barème annexé D qui fait corps avec le présent règlement.",
+      "text_sha256": "da0e6afbff2fcf8318b2d6004690d6d0045eb074f0cb8fadd2601ae3a30fc5f0",
+      "md_span": {
+        "start": 19336,
+        "end": 19937
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi du 30 juillet 1960"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_32/19861110",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Recours"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Pour l´application de l´article précédent dans le cas visé à l´article 3 (2) de la loi, l´âge du bénéficiaire le plus âgé est pris en considération.",
+      "text_sha256": "4293b79d6701f645d751c7480dafc0671ea2a2a6f0f629196426790c97c1a9d2",
+      "md_span": {
+        "start": 19974,
+        "end": 20122
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/07/26/n2/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_33/19861110",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Recours"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "La procédure à suivre devant le conseil arbitral et devant le conseil supérieur des assurances sociales et les frais de justice sont régis par l´arrêté grand-ducal du 13 octobre 1945 portant fixation du siège, de la compétence et de l´organisation du conseil arbitral et du conseil supérieur des assurances sociales et règlement de procédure devant lesdits conseils ainsi que par les modifications ultérieures de ces dispositions.",
+      "text_sha256": "59e817d4d147065d61e21b49107696a5b9a857f9815975c0fc1281fb489cca16",
+      "md_span": {
+        "start": 20159,
+        "end": 20589
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1945/10/13/n4/jo",
+          "text": "arrêté grand-ducal du 13 octobre 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_34/19861110",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Recours"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Les juges qui remplaceront le président du conseil arbitral en vertu de l´article 26 de la loi du 30 juillet 1960 précitée touchent les mêmes vacations que le président du conseil supérieur des assurances sociales.",
+      "text_sha256": "de07d5742359d252faca7d6795df572f471ccb91e62d5aa3bef1e4c9f3c6d3cc",
+      "md_span": {
+        "start": 20626,
+        "end": 20840
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi du 30 juillet 1960 précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_35/19861110",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Dispositions abrogatoires et finales"
+      ],
+      "article_valid_from": "1986-11-10",
+      "text_md": "Sont abrogés les articles 2 à 34 ainsi que les annexes afférentes de l´arrêté grand-ducal du 20 août 1960 portant règlement d´administration publique pour l´application de la loi du 30 juillet 1960 concernant la création d´un fonds national de solidarité.",
+      "text_sha256": "40e3217b9935d4918b58d5f5caa245ef1cead250366c13fa0960804dd033c03b",
+      "md_span": {
+        "start": 20934,
+        "end": 21189
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1960/08/20/n1/jo",
+          "text": "arrêté grand-ducal du 20 août 1960"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi du 30 juillet 1960"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/art_36/19900127",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Dispositions abrogatoires et finales"
+      ],
+      "article_valid_from": "1990-01-27",
+      "text_md": "Notre Ministre de la famille, du logement social et de la solidarité sociale, Notre Ministre de la sécurité sociale, Notre Ministre du travail, Notre Ministre des finances et Notre Ministre délégué au budget sont chargés de l´exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur conjointement avec la loi.",
+      "text_sha256": "ac549f9b018ac0937dac4721b9735df220aad9b0664a16c10b54b5e7eb82452b",
+      "md_span": {
+        "start": 21226,
+        "end": 21560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE A",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Multiplicateurs de la valeur unitaire en francs |  |  |  |\n| --- | --- | --- | --- |\n| A) | Immeubles affectés à usage agricole, forestier et viticole, tout le pays | 4 |  |\n| B) | Autres immeubles: |  |  |\n|  | a) | Ville de Luxembourg | 5,5 |\n|  | b) | Ville d´Esch-sur-Alzette | 5 |\n|  | c) | Localités de Bettembourg, Diekirch, Differdange, Dudelange, Echternach, Ettelbruck, |  |\n|  |  | Grevenmacher, Kayl, Pétange, Remich, Rodange, Rumelange, Schifflange et Wiltz | 4,5 |\n|  | d) | Reste du pays | 4 |",
+      "text_sha256": "db6f05d60f96aabc2c33927f77efedf66f02ea2a1744e82706e9eb7ce054f3c2",
+      "md_span": {
+        "start": 21603,
+        "end": 22113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE B",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Multiplicateurs de la fortune en cas de requérants non mariés |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| (L´âge du bénéficiaire est calculé par différence de l´année d´attributiondu complément et de l´année de naissance du bénéficiaire.) |  |  |  |  |  |  |  |\n| Age du bénéficiaire | Multiplicateur | Age du bénéficiaire | Multiplicateur |  |  |  |  |\n| 0-30 |  | 0,0442 |  | 65 |  | 0,0913 |  |\n| 1 |  | 448 |  | 6 |  | 949 |  |\n| 2 |  | 452 |  | 7 |  | 984 |  |\n| 3 |  | 457 |  | 8 |  | 1022 |  |\n| 4 |  | 462 |  | 9 |  | 1064 |  |\n| 35 |  | 0,0468 |  | 70 |  | 0,1110 |  |\n| 6 |  | 474 |  | 1 |  | 1153 |  |\n| 7 |  | 480 |  | 2 |  | 1196 |  |\n| 8 |  | 486 |  | 3 |  | 1225 |  |\n| 9 |  | 493 |  | 4 |  | 1268 |  |\n| 40 |  | 0,0499 |  | 75 |  | 0,1300 |  |\n| 1 |  | 507 |  | 6 |  | 1324 |  |\n| 2 |  | 517 |  | 7 |  | 1348 |  |\n| 3 |  | 523 |  | 8 |  | 1367 |  |\n| 4 |  | 532 |  | 9 |  | 1385 |  |\n| 45 |  | 0,0542 |  | 80 |  | 0,1402 |  |\n| 6 |  | 552 |  | 1 |  | 1417 |  |\n| 7 |  | 563 |  | 2 |  | 1430 |  |\n| 8 |  | 573 |  | 3 |  | 1441 |  |\n| 9 |  | 586 |  | 4 |  | 1450 |  |\n| 50 |  | 0,0599 |  | 85 |  | 0,1457 |  |\n| 1 |  | 613 |  | 6 |  | 1464 |  |\n| 2 |  | 628 |  | 7 |  | 1468 |  |\n| 3 |  | 644 |  | 8 |  | 1471 |  |\n| 4 |  | 660 |  | 9 |  | 1474 |  |\n| 55 |  | 0,0677 |  | 90 |  | 0,1476 |  |\n| 6 |  | 695 |  | 1 |  | 1484 |  |\n| 7 |  | 713 |  | 2 |  | 1497 |  |\n| 8 |  | 732 |  | 3 |  | 1515 |  |\n| 9 |  | 753 |  | 4 |  | 1535 |  |\n| 60 |  | 0,0776 |  | 95 |  | 0,1557 |  |\n| 1 |  | 801 |  | 6 |  | 1570 |  |\n| 2 |  | 826 |  | 7 |  | 1596 |  |\n| 3 |  | 854 |  | 8 |  | 1624 |  |\n| 4 |  | 883 |  | 9 |  | 1652 |  |",
+      "text_sha256": "4be7270b4fb85ea9d9199e247ff81f16b148e1cd5de352d05d171235d395dc8a",
+      "md_span": {
+        "start": 22156,
+        "end": 23816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE C",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Multiplicateurs de la fortune pour requérants mariés |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| (On prendra la moyenne des âges déterminés individuellement d´après les règles de l´annexe B.) |  |  |  |  |  |  |  |\n| Age moyen | Multiplicateur | Age moyen | Multiplicateur |  |  |  |  |\n| 0-35 |  | 0,0416 |  | 60 |  | 0,0628 |  |\n| 6 |  | 419 |  | 1 |  | 644 |  |\n| 7 |  | 422 |  | 2 |  | 661 |  |\n| 8 |  | 426 |  | 3 |  | 679 |  |\n| 9 |  | 431 |  | 4 |  | 698 |  |\n| 40 |  | 0,0436 |  | 65 |  | 0,0719 |  |\n| 1 |  | 441 |  | 6 |  | 740 |  |\n| 2 |  | 447 |  | 7 |  | 763 |  |\n| 3 |  | 453 |  | 8 |  | 788 |  |\n| 4 |  | 460 |  | 9 |  | 817 |  |\n| 45 |  | 0,0467 |  | 70 |  | 0,0849 |  |\n| 6 |  | 474 |  | 1 |  | 879 |  |\n| 7 |  | 482 |  | 2 |  | 907 |  |\n| 8 |  | 490 |  | 3 |  | 933 |  |\n| 9 |  | 498 |  | 4 |  | 957 |  |\n| 50 |  | 0,0507 |  | 75 |  | 0,0980 |  |\n| 1 |  | 516 |  | 6 |  | 997 |  |\n| 2 |  | 526 |  | 7 |  | 1012 |  |\n| 3 |  | 537 |  | 8 |  | 1026 |  |\n| 4 |  | 548 |  | 9 |  | 1038 |  |\n| 55 |  | 0,0560 |  | 80 |  | 0,1048 |  |\n| 6 |  | 572 |  | 1 |  | 1058 |  |\n| 7 |  | 585 |  | 2 |  | 1067 |  |\n| 8 |  | 599 |  | 3 |  | 1076 |  |\n| 9 |  | 613 |  | 4 |  | 1085 |  |",
+      "text_sha256": "98f07ff219b1671e0646d1783e6f25c32efd3a5f5dc23b81ae7e699685117296",
+      "md_span": {
+        "start": 23859,
+        "end": 25077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-1986-10-29-n1:1990-01-27--851a955ab37cbb94b0948b8390261fe13bc79c158b3689e022cd2f53591706bb#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE D",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Age du bénéficiaire | Coefficient | Age du bénéficiaire | Coefficient |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 0-30 |  | 22,62 |  | 65 |  | 10,95 |  |\n| 31 |  | 22,32 |  | 6 |  | 10,54 |  |\n| 2 |  | 22,12 |  | 7 |  | 10,16 |  |\n| 3 |  | 21,88 |  | 8 |  | 9,78 |  |\n| 4 |  | 21,65 |  | 9 |  | 9,40 |  |\n| 35 |  | 21,37 |  | 70 |  | 9,01 |  |\n| 6 |  | 21,10 |  | 1 |  | 8,67 |  |\n| 7 |  | 20,83 |  | 2 |  | 8,36 |  |\n| 8 |  | 20,58 |  | 3 |  | 8,16 |  |\n| 9 |  | 20,28 |  | 4 |  | 7,89 |  |\n| 40 |  | 20,04 |  | 75 |  | 7,69 |  |\n| 1 |  | 19,72 |  | 6 |  | 7,55 |  |\n| 2 |  | 19,34 |  | 7 |  | 7,42 |  |\n| 3 |  | 19,12 |  | 8 |  | 7,32 |  |\n| 4 |  | 18,80 |  | 9 |  | 7,22 |  |\n| 45 |  | 18,45 |  | 80 |  | 7,13 |  |\n| 6 |  | 18,12 |  | 1 |  | 7,06 |  |\n| 7 |  | 17,76 |  | 2 |  | 6,99 |  |\n| 8 |  | 17,45 |  | 3 |  | 6,94 |  |\n| 9 |  | 17,06 |  | 4 |  | 6,90 |  |\n| 50 |  | 16,69 |  | 85 |  | 6,86 |  |\n| 1 |  | 16,31 |  | 6 |  | 6,83 |  |\n| 2 |  | 15,92 |  | 7 |  | 6,81 |  |\n| 3 |  | 15,53 |  | 8 |  | 6,80 |  |\n| 4 |  | 15,15 |  | 9 |  | 6,78 |  |\n| 55 |  | 14,77 |  | 90 |  | 6,77 |  |\n| 6 |  | 14,39 |  | 1 |  | 6,74 |  |\n| 7 |  | 14,03 |  | 2 |  | 6,68 |  |\n| 8 |  | 13,66 |  | 3 |  | 6,60 |  |\n| 9 |  | 13,28 |  | 4 |  | 6,51 |  |\n| 60 |  | 12,89 |  | 95 |  | 6,42 |  |\n| 1 |  | 12,48 |  | 6 |  | 6,37 |  |\n| 2 |  | 12,11 |  | 7 |  | 6,26 |  |\n| 3 |  | 11,71 |  | 8 |  | 6,16 |  |\n| 4 |  | 11,33 |  | 9 |  | 6,05 |  |",
+      "text_sha256": "3725339cafa77ccb58640eef403cbcb6495f82b6cde96672072933ae02fee009",
+      "md_span": {
+        "start": 25120,
+        "end": 26570
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

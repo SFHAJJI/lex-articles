@@ -1,0 +1,179 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 28 décembre 1990 portant exécution de l'article 140 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu.",
+  "valid_from": "2008-01-01",
+  "valid_to": "2010-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1990-12-28-n21/versions/2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a/fr.xml",
+    "sha256": "c3fa67659d1354e98adc31969bfbb84496f9cfc2f9610b50d197d3b512ecf3ba",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20080101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_1er/20080101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** En vue de la détermination de la retenue d'impôt sur les salaires, les contribuables résidents sont rangés dans les trois classes d'impôt visées à l'article 119 de la loi concernant l'impôt sur le revenu, d'après la situation constatée lors du recensement fiscal annuel prévu par le paragraphe 165 de la loi générale des impôts.\n\nLa classe d'impôt 1a pour personnes ayant droit à une modération d'impôt pour enfant est à accorder sous condition aux personnes qui, au début de l'année, sont susceptibles de bénéficier de la modération d'impôt pour enfant prévue à l'article 122 de la loi. L'octroi de la classe d'impôt 1a en vertu de l'article 119, numéro 2, lettre b) de la loi a donc un caractère essentiellement provisoire au 1er janvier de l'année d'imposition. Par contribuable susceptible de bénéficier d'une modération d'impôt pour enfant, il y a lieu de comprendre le contribuable qui, au début de l'année d'imposition, a dans son ménage:\n\n1. au moins un enfant pour lequel il est attributaire des allocations familiales,\n2. un enfant majeur qui est lui-même attributaire des allocations familiales,\n3. loi règlement grand-ducal loi loi\n\n**(2)** Toutefois les changements de situation intervenant postérieurement au recensement sont pris en considération dans les conditions et limites précisées aux articles 2 et 4.\n\n**(3)** Pour les contribuables résidents qui n'ont pas été recensés et pour ceux qui demandent l'établissement d'une fiche de retenue au cours de l'année d'imposition, la situation au début de l'année est déterminante, sauf application des dispositions de l'article 4.",
+      "text_sha256": "48a670b0d9e44d41d160734c50cea213b19c7a2c07f5d72ad3de911a8a0746d0",
+      "md_span": {
+        "start": 750,
+        "end": 2351
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi concernant l'impôt sur le revenu"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1931/05/22/n1/jo",
+          "text": "loi générale des impôts"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_2/19910104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-01-04",
+      "text_md": "**(1)** Sont pris en considération tous les changements de situation survenant durant la période comprise entre le recensement et le début de l'année d'imposition tant en faveur qu'en défaveur du contribuable résident.\n\n**(2)** La prise en considération a lieu d'office en ce qui concerne les changements qui peuvent être déduits des données figurant sur la feuille de recensement et ceux qui font l'objet d'inscriptions sur les registres d'état civil de la commune qui doit émettre la fiche de retenue. Dans les autres cas elle a lieu à la demande du contribuable résident, la carence de ce dernier n'étant pourtant pas exclusive d'une intervention d'office de l'administration communale.",
+      "text_sha256": "e56d8911617e1569cb28c96ca96a68d8971c133148d1ec2f093321f1d76c9b34",
+      "md_span": {
+        "start": 2386,
+        "end": 3075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_3/19910104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-01-04",
+      "text_md": "Les dispositions des articles 1er et 2 du présent règlement sont applicables de façon correspondante aux contribuables non résidents, sauf que la répartition de ceux-ci dans les trois classes de l'article 119 de la loi concernant l'impôt sur le revenu s'effectue compte tenu des prescriptions de l'article 157bis, alinéas 1 à 4 de ladite loi. En vue de la répartition susmentionnée les contribuables non résidents sont tenus de remettre au bureau de la retenue d'impôt Luxembourg Non résidents une demande selon le modèle prescrit, indiquant leur situation de famille et l'état de leurs revenus professionnels tant indigènes qu'étrangers.",
+      "text_sha256": "1113b04fce985dbf54e4d07f05e4ac6934296c1df2183c111a783847503dc123",
+      "md_span": {
+        "start": 3110,
+        "end": 3748
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi concernant l'impôt sur le revenu"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "ladite loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_4/20080101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Les changements de situation intervenant au cours de l'année d'imposition ne sont pris en considération que s'il en résulte un classement plus favorable pour les contribuables. Le cas échéant, ces dispositions ne s'appliquent pas aux contribuables visés à l'article 119, numéro 2, lettre b) de la loi, du fait que dans leur chef le rangement en classe 1a présente un caractère provisoire au début de l'année d'imposition.",
+      "text_sha256": "6d7646628b6fd7c207dfca169c9fc0035833ed735c88127ca3b2d311e9ef86f2",
+      "md_span": {
+        "start": 3783,
+        "end": 4204
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_5/19910104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-01-04",
+      "text_md": "Les modifications et rectifications de classes d'impôt résultant de l'application du présent règlement ont effet à compter du jour de l'événement qui est à l'origine de la situation, mais au plus tôt à partir du 1er janvier de l'année d'imposition.",
+      "text_sha256": "da556796843b95867e6d007eb72ce3b5aacfd12e28cbcb8c421e1cf4fa54832e",
+      "md_span": {
+        "start": 4239,
+        "end": 4487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_6/19910104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-01-04",
+      "text_md": "Le présent règlement est applicable à partir de l'année d'imposition 1991. A partir de la même année d'imposition le règlement grand-ducal du 30 septembre 1968 portant exécution de l'article 140 de la loi concernant l'impôt sur le revenu est abrogé.",
+      "text_sha256": "c60fec0906beb1bb28606d077c216d1679a7ce13ac5a43361bfa1f470bb038a0",
+      "md_span": {
+        "start": 4522,
+        "end": 4771
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1968/09/30/n1/jo",
+          "text": "règlement grand-ducal du 30 septembre 1968"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi concernant l'impôt sur le revenu"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n21:2008-01-01--60c3a59e0e2a052b2a5e9e22a24e366d1fd169de057a790806476e2bdfb8a77a#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/art_7/19910104",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-01-04",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+      "md_span": {
+        "start": 4806,
+        "end": 4909
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

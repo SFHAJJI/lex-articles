@@ -1,0 +1,150 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/301 of 23\u00A0October 2024 supplementing Regulation (EU)\u00A02022/2554",
+  "valid_from": "2024-10-23",
+  "valid_to": "2025-02-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0301/versions/2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563/en.xml",
+    "sha256": "052c6f97988fc7e0753c2fc64d7b9aa985b3aab309e4e6d7bfc54f11c4b83554",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0301"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFinancial entities shall include in the initial notification, the intermediate report, and the final report, as referred to in Article 19(4) of Regulation (EU) 2022/2554, the following general information:\n\n| (a) | the type of submission (initial notification, intermediate report, or final report); |\n| --- | --- |\n\n| (b) | the name of the financial entity, its LEI code, and the type of financial entity, as referred to in Article 2(1) of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (c) | the name and identification code of the entity that submits the initial notification, or intermediate or final report, for the financial entity; |\n| --- | --- |\n\n| (d) | where applicable, the names and LEI codes of all financial entities covered in the aggregated initial notification or intermediate or final report; |\n| --- | --- |\n\n| (e) | the contact details of the persons responsible for communicating with the competent authority on the major ICT-related incident; |\n| --- | --- |\n\n| (f) | where applicable, the identification of the parent undertaking of the group to which the financial entity belongs; |\n| --- | --- |\n\n| (g) | where there is monetary impact, the currency the amounts are based on. |\n| --- | --- |",
+      "text_sha256": "894b64eef88f5f35fee16bfbc8b1d9cede0ae7ee5336b3fca1b3b9bea92323bb",
+      "md_span": {
+        "start": 721,
+        "end": 1948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nInitial notifications as referred to in Article 19(4), point (a), of Regulation (EU) 2022/2554 shall contain at least all of the following specific information:\n\n| (a) | the incident reference code assigned by the financial entity; |\n| --- | --- |\n\n| (b) | the date of detection, time of detection, and classification of the incident pursuant to Article 8 of Commission Delegated Regulation (EU) 2024/1772 (7); |\n| --- | --- |\n\n| (c) | a description of the ICT-related incident; |\n| --- | --- |\n\n| (d) | the criteria, laid down in Articles 1 to 8 of Delegated Regulation (EU) 2024/1772, on the basis of which the financial entity classified the ICT-related incident as major; |\n| --- | --- |\n\n| (e) | the Members States that are impacted by the ICT-related incident; |\n| --- | --- |\n\n| (f) | information on how the ICT-related incident was discovered; |\n| --- | --- |\n\n| (g) | where available, information about the origin of the ICT-related incident; |\n| --- | --- |\n\n| (h) | information about whether the financial entity has activated a business continuity plan; |\n| --- | --- |\n\n| (i) | where applicable, information about the reclassification of the ICT-related incident from major to non-major; |\n| --- | --- |\n\n| (j) | where available, any other relevant information. |\n| --- | --- |",
+      "text_sha256": "b9bece56505cbb17cfe377e30655056e808ea11e0a31dc4b8657dac2ee40f28b",
+      "md_span": {
+        "start": 1981,
+        "end": 3282
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202500301EN.000101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nIntermediate reports as referred to in Article 19(4), point (b), of Regulation (EU) 2022/2554 shall contain at least all of the following specific information:\n\n| (a) | where applicable, the incident reference code provided by the competent authority; |\n| --- | --- |\n\n| (b) | the date and time of occurrence of the ICT-related incident; |\n| --- | --- |\n\n| (c) | where applicable, the date and time when the financial entity has recovered its regular activities; |\n| --- | --- |\n\n| (d) | information about how the criteria laid down in Articles 1 to 8 of Delegated Regulation (EU) 2024/1772 have been fulfilled, on the basis of which the financial entity classified the ITC-related incident as major; |\n| --- | --- |\n\n| (e) | the type of ICT-related incident; |\n| --- | --- |\n\n| (f) | where applicable, the threats and techniques used by the threat actor; |\n| --- | --- |\n\n| (g) | affected functional areas and business processes; |\n| --- | --- |\n\n| (h) | affected infrastructure components supporting business processes; |\n| --- | --- |\n\n| (i) | impact on the financial interest of clients; |\n| --- | --- |\n\n| (j) | information about reporting about the ICT-related incident to other authorities; |\n| --- | --- |\n\n| (k) | temporary actions or measures taken or planned to be taken by the financial entity to recover from the ICT-related incident; |\n| --- | --- |\n\n| (l) | where applicable, information on indicators of compromise. |\n| --- | --- |",
+      "text_sha256": "329e54fb4f0df04bba2663c1ab7c4580660c415f402f823e8b29b8581352a6ca",
+      "md_span": {
+        "start": 3315,
+        "end": 4773
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nFinal reports as referred to in Article 19(4), point (c), of Regulation (EU) 2022/2554 shall contain all of the following specific information:\n\n| (a) | information about the root causes of the ICT-related incident; |\n| --- | --- |\n\n| (b) | dates and times when the ICT-related incident was resolved and the root cause(s) addressed; |\n| --- | --- |\n\n| (c) | information on the resolution of the ICT-related incident; |\n| --- | --- |\n\n| (d) | where applicable, information relevant for resolution authorities; |\n| --- | --- |\n\n| (e) | information about direct and indirect costs and losses stemming from the ICT-related incident and information about financial recoveries; |\n| --- | --- |\n\n| (f) | where applicable, information about recurring ICT-related incidents. |\n| --- | --- |",
+      "text_sha256": "144bc666740399d3a50c0384be81abd92fe76587d56a2ff04d3f1a2dbf945b5f",
+      "md_span": {
+        "start": 4806,
+        "end": 5598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Financial entities shall submit the initial notification and the intermediate and final reports as referred to in Article 19(4), points (a), (b) and (c), of Regulation (EU) 2022/2554 within the following time limits:\n\n| (a) | for the initial report: as early as possible, but in any case, within four hours from the classification of the ICT-related incident as a major ICT-related incident and no later than 24 hours from the moment the financial entity has become aware of the ICT-related incident; |\n| --- | --- |\n\n| (b) | for the intermediate report: at the latest within 72 hours from the submission of the initial notification, even where the status or the handling of the incident have not changed as referred to in Article 19(4), point (b), of Regulation (EU) 2022/2554. Financial entities shall submit an updated intermediate report without undue delay, and in any case when the regular activities have been recovered; |\n| --- | --- |\n\n| (c) | for the final report: no later than one month after either the submission of the intermediate report, or, where applicable, after the latest updated intermediate report. |\n| --- | --- |\n\n2. Where the financial entity has not classified an ICT-related incident as major within 24 hours from the moment the financial entity has become aware of the ITC-related incident but classifies that ICT-related incident as major at a later stage, the financial entity shall submit the initial notification within four hours from the classification of the ICT-related incident as a major incident.\n\n3. Financial entities that are unable to submit the initial notification, intermediate report, or final report within the time limits set out in paragraph 1, shall inform the competent authority thereof without undue delay, but no later than the respective time limits for the submission of the notification or report, and shall explain the reasons for the delay.\n\n4. Where the time limit for the submission of an initial notification, intermediate report, or a final report falls on a weekend day or a bank holiday in the Member State of the reporting financial entity, the financial entity may submit the initial notification, intermediate or final reports by noon of the next working day.\n\n5. Paragraph 4 shall not apply for the submission of an initial notification or an intermediate report by credit institutions, central counterparties, operators of trading venues, and other financial entities identified as essential or important entities pursuant to Article 3 of Directive (EU) 2022/2555.\n\n6. Competent authorities may decide that paragraph 4 shall not apply for the submission of an initial notification or an intermediate report by financial entities, other than those referred to in paragraph 5, which are significant or have a systemic character for the financial sector at national or Union level. Competent authorities shall notify their decision to the identified financial entities. The decision of the competent authority shall only apply in respect of incidents reported after the date of notification of the decision by the competent authority to the identified financial entities.",
+      "text_sha256": "218253e9acaa83e72f017770d74106de3377cc82ab90a0da625f4269c4b571f4",
+      "md_span": {
+        "start": 5631,
+        "end": 8786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThe content of the voluntary notification in relation to significant cyber threats as referred to in Article 19(2) of Regulation (EU) 2022/2554 shall cover all of the following:\n\n| (a) | general information about the notifying financial entity as set out in Article 1; |\n| --- | --- |\n\n| (b) | the date and time of detection of the significant cyber threat and any other relevant timestamps related to the significant cyber threat; |\n| --- | --- |\n\n| (c) | a description of the significant cyber threat; |\n| --- | --- |\n\n| (d) | information about the potential impact of the significant cyber threat on the financial entity, its clients, or financial counterparts; |\n| --- | --- |\n\n| (e) | the classification criteria that would have triggered a major incident report laid down in Articles 1 to 8 of Delegated Regulation (EU) 2024/1772 if the cyber threat had materialised; |\n| --- | --- |\n\n| (f) | information about the status of the significant cyber threat and any changes in the threat activity; |\n| --- | --- |\n\n| (g) | where applicable, a description of the actions taken by the financial entity to prevent the materialisation of the significant cyber threats; |\n| --- | --- |\n\n| (h) | information about any notification of the significant cyber threat to other financial entities or authorities; |\n| --- | --- |\n\n| (i) | where applicable, information on indicators of compromise; |\n| --- | --- |\n\n| (j) | where available, any other relevant information. |\n| --- | --- |",
+      "text_sha256": "8a98c3feb348834a625768677496170b2dc18e21d250ad31ae3d6cad71a231c5",
+      "md_span": {
+        "start": 8819,
+        "end": 10306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23--331287d9fb57500ee67c6fb3b25c4647e64c4c691a8e99e48750d7b35d64f563#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 10339,
+        "end": 10490
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

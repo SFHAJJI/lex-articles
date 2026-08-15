@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009d1008:2024-12-23--bc5d815c6b0d804ca9e030f81d041c0c4d82e176f46f9e8ab7864d9910e0e92a",
+  "language": "fr",
+  "title": "Council Implementing Decision of 7\u00A0December 2009 authorising the Republic of Latvia to ext…",
+  "valid_from": "2024-12-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009d1008/versions/2024-12-23--bc5d815c6b0d804ca9e030f81d041c0c4d82e176f46f9e8ab7864d9910e0e92a/fr.html",
+    "sha256": "f376a12c513e0d84b8bc9f5b7b152c4f0c87ab89aee6347e384fd1cfca51205f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009D1008-20241223"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009d1008:2024-12-23--bc5d815c6b0d804ca9e030f81d041c0c4d82e176f46f9e8ab7864d9910e0e92a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article 193 de la directive 2006/112/CE, la Lettonie est autorisée à continuer de désigner le destinataire des biens ou des services comme le redevable de la TVA dans le cas des opérations concernant le bois.",
+      "text_sha256": "bccf1c05e1951069b1351ba2d9ca50e73a8a4ee368b07ab1c6f62ae26ec7bd79",
+      "md_span": {
+        "start": 721,
+        "end": 948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009d1008:2024-12-23--bc5d815c6b0d804ca9e030f81d041c0c4d82e176f46f9e8ab7864d9910e0e92a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente décision expire le 31 décembre 2026.",
+      "text_sha256": "d2898f5f41f84e9aea0f4982e8f964d0073816fd643be22067a0a1ac169655d7",
+      "md_span": {
+        "start": 985,
+        "end": 1033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009d1008:2024-12-23--bc5d815c6b0d804ca9e030f81d041c0c4d82e176f46f9e8ab7864d9910e0e92a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La République de Lettonie est destinataire de la présente décision.",
+      "text_sha256": "990d947a4940514c55a24d195717b0429b67a4943177fd356227ae1c546451b6",
+      "md_span": {
+        "start": 1070,
+        "end": 1137
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020l0876:2020-06-24--d6808744012c45300eb5a07b703f8cd60329ad6670a49449459a749ce8ce15a9",
+  "language": "en",
+  "title": "Council Directive (EU) 2020/876 of 24 June 2020 amending Directive 2011/16/EU to address t…",
+  "valid_from": "2020-06-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020l0876/versions/2020-06-24--d6808744012c45300eb5a07b703f8cd60329ad6670a49449459a749ce8ce15a9/en.xml",
+    "sha256": "8554d68b81d0294ce6f2080ebe6d5ea1fcd0a84bbef16ced007b46baeaf141d4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L0876"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020l0876:2020-06-24--d6808744012c45300eb5a07b703f8cd60329ad6670a49449459a749ce8ce15a9#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Directive 2011/16/EU, the following articles are inserted:\n\n‘Article 27a\n\nOptional deferral of time limits because of the COVID-19 pandemic\n\n1. Notwithstanding the time limits for filing information on reportable cross-border arrangements as specified in Article 8ab(12), Member States may take the measures necessary to allow intermediaries and relevant taxpayers to file, by 28 February 2021, information on reportable cross-border arrangements the first step of which was implemented between 25 June 2018 and 30 June 2020.\n\n2. Where Member States take measures as referred to in paragraph 1, they shall also take the measures necessary to allow:\n\n| (a) | notwithstanding Article 8ab(18), the first information to be communicated by 30 April 2021; |\n| --- | --- |\n\n| (b) | the period of 30 days for filing information referred to in Article 8ab(1) and (7) to begin by 1 January 2021 where:(i)a reportable cross-border arrangement is made available for implementation or is ready for implementation, or where the first step in its implementation has been made between 1 July 2020 and 31 December 2020; or(ii)intermediaries within the meaning of the second paragraph of point 21 of Article 3 provide, directly or by means of other persons, aid, assistance or advice between 1 July 2020 and 31 December 2020; |\n| --- | --- |\n| (i) | a reportable cross-border arrangement is made available for implementation or is ready for implementation, or where the first step in its implementation has been made between 1 July 2020 and 31 December 2020; or |\n| (ii) | intermediaries within the meaning of the second paragraph of point 21 of Article 3 provide, directly or by means of other persons, aid, assistance or advice between 1 July 2020 and 31 December 2020; |\n\n| (c) | in the case of marketable arrangements, the first periodic report in accordance with Article 8ab(2) to be made by the intermediary by 30 April 2021. |\n| --- | --- |\n\n3. Notwithstanding the time limit laid down in point (b) of Article 8(6), Member States may take the measures necessary to allow the communication of information referred to in Article 8(3a) that relates to the calendar year 2019 or another appropriate reporting period to take place within 12 months following the end of the calendar year 2019 or the other appropriate reporting period.\n\nArticle 27b\n\nExtension of the period of deferral\n\n1. The Council, acting unanimously on a proposal from the Commission, may take an implementing decision to extend the period of deferral of the time limits set out in Article 27a by three months, provided that severe risks to public health, hindrances and economic disturbance caused by the COVID-19 pandemic continue to exist and Member States apply lockdown measures.\n\n2. The proposal for a Council implementing decision shall be submitted to the Council at least one month before the expiry of the relevant deadline.’.",
+      "text_sha256": "ed8c36157eda96420ba02d0aba832f2b5c6fbee628d929346948f2ca7e65fd63",
+      "md_span": {
+        "start": 702,
+        "end": 3607
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020l0876:2020-06-24--d6808744012c45300eb5a07b703f8cd60329ad6670a49449459a749ce8ce15a9#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "27b81f6a0af5bafa2acbc2a8fef0b7fb39767696739334a87bdec92944ac857f",
+      "md_span": {
+        "start": 3640,
+        "end": 3780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020l0876:2020-06-24--d6808744012c45300eb5a07b703f8cd60329ad6670a49449459a749ce8ce15a9#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+      "md_span": {
+        "start": 3813,
+        "end": 3873
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

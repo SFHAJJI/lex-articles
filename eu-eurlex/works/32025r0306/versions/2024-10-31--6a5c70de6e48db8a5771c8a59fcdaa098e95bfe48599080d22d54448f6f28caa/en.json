@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/306 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0306/versions/2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa/en.xml",
+    "sha256": "b0c2b5358ef9f1a43c084236ca2dbd019145ef08780ea1561f8bf32b2f0c6945",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0306"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nCompetent authorities shall designate a contact point for receiving the applications for authorisation as a crypto-asset service provider in accordance with Article 62 of Regulation (EU) 2023/1114.\n\nCompetent authorities shall keep the contact details of the designated contact point up-to-date and shall make those contact details public on their websites.",
+      "text_sha256": "195c34b985565c1386ef568e13de7fba79b209d71d5a65cb6b466f6a0854153e",
+      "md_span": {
+        "start": 772,
+        "end": 1140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. A legal person or other undertaking seeking authorisation as a crypto-asset service provider in accordance with Article 62 of Regulation (EU) 2023/1114 (‘applicant’) shall submit to the competent authority its application for authorisation by filling in the form set out in the Annex of this Regulation.\n\n2. The legal person or other undertaking shall submit the application in a manner which enables storage of information so that it is accessible for future reference and that allows the reproduction of the information stored.",
+      "text_sha256": "3f51077ff6045577beb6d20b1c76bfdae69e53f323a640704667cacb2c48fd1b",
+      "md_span": {
+        "start": 1173,
+        "end": 1716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nCompetent authorities shall send electronically, on paper, or in both forms, an acknowledgement of receipt to the applicant. That acknowledgement of receipt shall include the contact details of the department, function or staff member of the competent authority handling the application.",
+      "text_sha256": "458661c2d99edc823de92f30e865dad30df76ec01ae369a7a4cea93219b4b771",
+      "md_span": {
+        "start": 1749,
+        "end": 2047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The applicant shall notify the competent authority of any changes to the information provided in the application for authorisation without undue delay. The applicant shall provide the updated information by using the form set out in the Annex.\n\n2. Where the applicant provides updated information in accordance with paragraph 1, the time limit laid down in Article 63(9) of Regulation (EU) 2023/1114 shall start from the date of receipt of that updated information by the competent authority.\n\n3. Crypto-asset service providers shall notify the competent authority of any changes to the information based on which the authorisation was granted.",
+      "text_sha256": "82e1dc77991d51687f7832971079da8663d4b0f6333bb8b88cc952f7fe2de155",
+      "md_span": {
+        "start": 2080,
+        "end": 2738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nCompetent authorities shall notify the applicant of their decision granting or refusing the authorisation, as referred to in Article 63(9) of Regulation (EU) 2023/1114, in paper form, by electronic means or both.",
+      "text_sha256": "39dde31acf704e8c663bcd220285f59df3366f279feabc240b9dea5272ca7402",
+      "md_span": {
+        "start": 2771,
+        "end": 2994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31--6a5c70de6e48db8a5771c8a59fcdaa098e95bfe48599080d22d54448f6f28caa#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fa276107727fcac2c4e64f6e6728350e99397b510291050a1165e007d077a146",
+      "md_span": {
+        "start": 3027,
+        "end": 3178
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

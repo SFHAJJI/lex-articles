@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/1872 of 1\u00A0July 2024 amending the implementing technical standards laid down in Implementing Regulation (EU)\u00A02016/1799 as regards the mapping tables specifying the correspondence between the credit risk assessments of external credit assessment institutions and the credit quality steps set out in Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1872/versions/2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30/fr.xml",
+    "sha256": "9499819623f120b38cc355e72480a66e7c8aa29a11433c97b1a63fead67f8b11",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1872"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) 2016/1799 est modifié comme suit:\n\nL’annexe III est remplacée par le texte figurant à l’annexe du présent règlement.",
+      "text_sha256": "ac055a8e97e6f494e1ffdad33c9911e7ec8e67b8f8ddd454603384baf712927a",
+      "md_span": {
+        "start": 980,
+        "end": 1143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1176,
+        "end": 1317
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

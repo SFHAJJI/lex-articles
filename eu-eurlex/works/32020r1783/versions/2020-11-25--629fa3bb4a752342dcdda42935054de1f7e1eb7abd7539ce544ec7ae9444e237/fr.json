@@ -1,0 +1,621 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237",
+  "language": "fr",
+  "title": "Regulation (EU) 2020/1783",
+  "valid_from": "2020-11-25",
+  "valid_to": "2020-12-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1783/versions/2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237/fr.xml",
+    "sha256": "6743120cdcfbeecf88b46441fb8da5983daf37dc02ebaa858cbcee0e7c469e33",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R1783"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement s’applique en matière civile ou commerciale lorsqu’une juridiction d’un État membre, conformément au droit dudit État membre, demande:\n\n| a) | à la juridiction compétente d’un autre État membre de procéder à l’exécution d’une mesure d’instruction; ou |\n| --- | --- |\n\n| b) | de procéder à l’exécution directe d’une mesure d’instruction dans un autre État membre. |\n| --- | --- |\n\n2. La demande ne doit pas avoir pour objet d’obtenir des preuves qui ne sont pas destinées à être utilisées dans une procédure judiciaire qui est déjà engagée ou qui est envisagée.",
+      "text_sha256": "636fe695962e3ca11891a4151f651ff8e59e216b41d077888454edf0c94ac4d3",
+      "md_span": {
+        "start": 642,
+        "end": 1243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «juridiction», les juridictions et autres autorités dans les États membres, dont la liste est communiquée à la Commission en vertu de l’article 31, paragraphe 3, qui exercent des fonctions judiciaires, qui agissent en vertu d’une délégation de pouvoir octroyée par une autorité judiciaire ou qui agissent sous le contrôle d’une autorité judiciaire, et qui sont compétentes en vertu du droit national pour l’obtention des preuves aux fins de procédures judiciaires en matière civile ou commerciale; |\n| --- | --- |\n\n| 2) | «système informatique décentralisé», un réseau de systèmes informatiques nationaux et de points d’accès interopérables dont le fonctionnement relève de la responsabilité et de la gestion individuelles de chaque État membre, qui permet un échange d’informations transfrontière sécurisé et fiable entre les systèmes informatiques nationaux. |\n| --- | --- |",
+      "text_sha256": "d92c219db18128de491f65de950f7b94d3895a152d48acbfa8a4f5f65d27e02d",
+      "md_span": {
+        "start": 1276,
+        "end": 2217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les demandes visées à l’article 1er, paragraphe 1, point a), sont transmises directement par la juridiction devant laquelle la procédure est engagée ou devant laquelle il est envisagé de l’engager (ci-après dénommée «juridiction requérante»), à la juridiction compétente d’un autre État membre (ci-après dénommée «juridiction requise»), en vue de l’obtention des preuves.\n\n2. Chaque État membre dresse une liste des juridictions compétentes pour l’obtention des preuves conformément au présent règlement. Cette liste indique également la compétence territoriale et, le cas échéant, la compétence spéciale desdites juridictions.",
+      "text_sha256": "52af122159e4b746879b854921eaacbcd5abfc9420c0572f16da84ba9ce100b3",
+      "md_span": {
+        "start": 2250,
+        "end": 2891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Chaque État membre désigne un organisme central qui est chargé:\n\n| a) | de fournir des informations aux juridictions; |\n| --- | --- |\n\n| b) | de rechercher des solutions aux difficultés qui peuvent se présenter à l’occasion d’une demande; |\n| --- | --- |\n\n| c) | de transmettre, dans des cas exceptionnels, une demande à la juridiction compétente à la requête d’une juridiction requérante. |\n| --- | --- |\n\n2. Les États membres fédéraux, les États membres dans lesquels plusieurs systèmes juridiques sont en vigueur et les États membres ayant des unités territoriales autonomes peuvent désigner plusieurs organismes centraux.\n\n3. Chaque État membre désigne également l’organisme central visé au paragraphe 1 du présent article ou une ou plusieurs autorités compétentes qui sont chargés de statuer sur les demandes effectuées au titre de l’article 19.",
+      "text_sha256": "0d9527aa2e2a85d306e1804f0ba5d83e0956efc17a77d8ae135b1f5744f563d8",
+      "md_span": {
+        "start": 2924,
+        "end": 3788
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les demandes sont effectuées au moyen du formulaire A ou, le cas échéant, du formulaire L qui figurent à l’annexe I. Chaque demande contient les indications suivantes:\n\n| a) | la juridiction requérante et, le cas échéant, la juridiction requise; |\n| --- | --- |\n\n| b) | les noms et adresses des parties à la procédure et, le cas échéant, de leurs représentants; |\n| --- | --- |\n\n| c) | la nature et l’objet de l’instance ainsi qu’un exposé sommaire des faits; |\n| --- | --- |\n\n| d) | une description de la mesure d’instruction demandée; |\n| --- | --- |\n\n| e) | s’il s’agit d’une demande visant à ce qu’une personne soit entendue:—le ou les noms et adresses de la personne à entendre,—les questions à poser à la personne à entendre ou un exposé des faits sur lesquels ladite personne doit être entendue,—le cas échéant, la mention du droit de refus de témoigner prévu par le droit de l’État membre dont relève la juridiction requérante,—toute demande de déposition sous serment ou de déclaration sur l’honneur en lieu et place d’une déposition sous serment et l’indication de toute forme spéciale à utiliser pour recueillir ce serment ou cette déclaration,—le cas échéant, toute autre information jugée nécessaire par la juridiction requérante; |\n| --- | --- |\n| — | le ou les noms et adresses de la personne à entendre, |\n| — | les questions à poser à la personne à entendre ou un exposé des faits sur lesquels ladite personne doit être entendue, |\n| — | le cas échéant, la mention du droit de refus de témoigner prévu par le droit de l’État membre dont relève la juridiction requérante, |\n| — | toute demande de déposition sous serment ou de déclaration sur l’honneur en lieu et place d’une déposition sous serment et l’indication de toute forme spéciale à utiliser pour recueillir ce serment ou cette déclaration, |\n| — | le cas échéant, toute autre information jugée nécessaire par la juridiction requérante; |\n\n| f) | s’il s’agit d’une demande relative à toute mesure d’instruction autre que celle mentionnée au point e), les pièces ou autres objets à examiner; |\n| --- | --- |\n\n| g) | le cas échéant, toute demande effectuée en vertu de l’article 12, paragraphe 3 ou 4, ou de l’article 13 ou 14, ainsi que tout renseignement nécessaire à l’exécution de cette demande. |\n| --- | --- |\n\n2. La demande, ainsi que toutes les pièces qui l’accompagnent, sont dispensées de légalisation et de toute formalité équivalente.\n\n3. Les pièces que la juridiction requérante estime nécessaire de joindre à la demande pour l’exécution de celle-ci doivent être accompagnées d’une traduction des documents dans la langue dans laquelle la demande a été écrite.",
+      "text_sha256": "0d69646b7d35a63761375a5a59a2b0b8b276f5b3a98b79f5e6e4d8ad7b699294",
+      "md_span": {
+        "start": 3821,
+        "end": 6481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLes demandes et les communications effectuées en vertu du présent règlement sont rédigées dans la langue officielle de l’État membre requis ou, s’il existe plusieurs langues officielles dans cet État membre, dans la langue officielle ou dans l’une des langues officielles du lieu où il doit être procédé à l’exécution de la mesure d’instruction demandée ou dans toute autre langue que l’État membre requis a indiqué accepter.\n\nChaque État membre indique à la Commission toute langue officielle de l’Union, autre que la ou les siennes, dans laquelle les formulaires qui figurent à l’annexe I peuvent être remplis.",
+      "text_sha256": "1bb0eb2eae6bc00064fe19e271b84e12595bf8f5ae7537ed53e447faf897b999",
+      "md_span": {
+        "start": 6514,
+        "end": 7137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les demandes et les communications effectuées en vertu du présent règlement sont transmises au moyen d’un système informatique décentralisé sécurisé et fiable, dans le plein respect des droits et libertés fondamentaux. Ce système informatique décentralisé se fonde sur une solution interopérable telle que l’e-CODEX.\n\n2. Le cadre juridique général régissant l’utilisation des services de confiance qualifiés décrits dans le règlement (UE) no 910/2014 s’applique aux demandes et aux communications transmises au moyen du système informatique décentralisé.\n\n3. Lorsque les demandes et les communications visées au paragraphe 1 du présent article exigent ou portent un cachet ou une signature manuscrite, ceux-ci peuvent être remplacés par des «cachets électroniques qualifiés» ou des «signatures électroniques qualifiées» au sens du règlement (UE) no 910/2014.\n\n4. Lorsque la transmission conformément au paragraphe 1 s’avère impossible en raison d’une perturbation du système informatique décentralisé ou de la nature de la preuve concernée, ou en raison de circonstances exceptionnelles, elle est effectuée par les moyens alternatifs les plus rapides et les plus appropriés, en tenant compte de la nécessité d’assurer la fiabilité et la sécurité de la transmission.",
+      "text_sha256": "2cfe21481a2dbb8d2d6a1887513b2413d6e74310665e7ebad180918d712531c0",
+      "md_span": {
+        "start": 7170,
+        "end": 8449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLes documents transmis au moyen du système informatique décentralisé ne doivent pas être privés d’effet juridique ni considérés comme irrecevables comme moyens de preuve dans le cadre d’une procédure au seul motif que ces documents se présentent sous une forme électronique.",
+      "text_sha256": "8c13d8d40abbb0192b29bb99dd9b60083119a1f8545487624c9cf9019f2fb82a",
+      "md_span": {
+        "start": 8482,
+        "end": 8767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. La juridiction requise compétente adresse, au moyen du formulaire B qui figure à l’annexe I, un accusé de réception à la juridiction requérante dans les sept jours à compter de la réception de la demande. Si celle-ci ne remplit pas les conditions prévues aux articles 6 et 7, la juridiction requise en fait mention dans l’accusé de réception.\n\n2. Si la juridiction requise n’est pas compétente pour exécuter une demande qui remplit les conditions fixées à l’article 6, effectuée au moyen du formulaire A qui figure à l’annexe I, ladite juridiction transmet la demande à la juridiction compétente de l’État membre dont elle relève et en informe la juridiction requérante au moyen du formulaire C qui figure à l’annexe I.",
+      "text_sha256": "7b3a596af6f304b44f2a1185b344e28bf5ae3482652597c4a6a5d0009c95be0d",
+      "md_span": {
+        "start": 8800,
+        "end": 9533
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Si une demande ne peut être exécutée parce qu’elle ne contient pas toutes les informations nécessaires visées à l’article 5, la juridiction requise en informe la juridiction requérante sans tarder, et au plus tard dans les trente jours à compter de la réception de la demande, au moyen du formulaire D qui figure à l’annexe I, et demande à la juridiction requérante de lui transmettre les informations manquantes, en les décrivant de manière aussi précise que possible.\n\n2. Si une demande ne peut pas être exécutée parce qu’une consignation ou une avance a été demandée conformément à l’article 22, paragraphe 3, la juridiction requise en informe la juridiction requérante sans tarder, au plus tard dans les trente jours à compter de la réception de la demande, au moyen du formulaire D qui figure à l’annexe I, et informe la juridiction requérante sur la manière de procéder à la consignation ou à l’avance. La juridiction requise accuse réception de la consignation ou de l’avance sans tarder, au plus tard dans les dix jours à compter de la réception de la consignation ou de l’avance, au moyen du formulaire E qui figure à l’annexe I.",
+      "text_sha256": "c2e9fbff4cd9dad67ea13ebff800095217c19b84c1e547fbb66057b2fb237098",
+      "md_span": {
+        "start": 9568,
+        "end": 10721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Lorsque, conformément à l’article 9, paragraphe 1, la juridiction requise a mentionné, dans l’accusé de réception, que la demande ne remplit pas les conditions prévues aux articles 6 et 7, ou lorsqu’elle a informé la juridiction requérante, conformément à l’article 10, que la demande ne peut être exécutée parce qu’elle ne contient pas toutes les informations nécessaires visées à l’article 5, le délai fixé à l’article 12 commence à courir à compter de la réception, par la juridiction requise, de la demande dûment complétée.\n\n2. Lorsque la juridiction requise a demandé une consignation ou une avance conformément à l’article 22, paragraphe 3, le délai fixé à l’article 12 commence à courir à compter du moment où la consignation ou l’avance est effectuée.",
+      "text_sha256": "bb3aa95dabf34dfba28d1ec3dfaa105128cc896d350acacb7cf17baa8779f8f0",
+      "md_span": {
+        "start": 10756,
+        "end": 11531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. La juridiction requise exécute la demande sans tarder, et au plus tard dans un délai de 90 jours à compter de la réception de la demande.\n\n2. La juridiction requise exécute la demande conformément au droit national dont elle relève.\n\n3. La juridiction requérante peut demander que la demande soit exécutée selon une procédure spéciale prévue par le droit national dont elle relève, au moyen du formulaire A qui figure à l’annexe I. La juridiction requise exécute la demande conformément à la procédure spéciale, à moins que cela ne soit incompatible avec le droit national dont elle relève ou qu’elle ne soit pas en mesure de le faire en raison de difficultés pratiques majeures. Si la juridiction requise, pour l’une de ces raisons, ne se conforme pas à la demande visant à ce que la demande soit exécutée conformément à une procédure spéciale, elle en informe la juridiction requérante au moyen du formulaire H qui figure à l’annexe I.\n\n4. La juridiction requérante peut demander à la juridiction requise de recourir à des technologies de communication spécifiques pour procéder à l’exécution de la mesure d’instruction, en particulier à la vidéoconférence ou à la téléconférence.\n\nLa juridiction requise utilise les technologies de communication indiquées en vertu du premier alinéa, à moins que cela ne soit incompatible avec le droit national dont elle relève ou que la juridiction requise ne soit pas en mesure de le faire en raison de difficultés pratiques majeures.\n\nSi la juridiction requise n’utilise pas les technologies de communication indiquées pour l’une de ces raisons, elle en informe la juridiction requérante au moyen du formulaire H qui figure à l’annexe I.\n\nSi les technologies de communication visées au premier alinéa ne sont pas disponibles dans la juridiction requérante ou dans la juridiction requise, ces juridictions peuvent d’un commun accord les mettre à disposition.",
+      "text_sha256": "fc175f4460cc414ee0de06c1e21d8118ff0a68e649ab2e6d97c241bc59bc73e0",
+      "md_span": {
+        "start": 11566,
+        "end": 13478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Si le droit de l’État membre dont relève la juridiction requérante le prévoit, les parties et, le cas échéant, leurs représentants ont le droit d’être présents lorsque la juridiction requise procède à l’exécution de la mesure d’instruction.\n\n2. Dans sa demande, la juridiction requérante informe la juridiction requise, au moyen du formulaire A qui figure à l’annexe I, de la présence des parties et, le cas échéant, de leurs représentants ainsi que, s’il y a lieu, du fait que leur participation à l’exécution de la mesure d’instruction est demandée. Cette information peut également être fournie à tout autre moment opportun.\n\n3. Si la participation des parties et, le cas échéant, de leurs représentants à l’exécution de la mesure d’instruction est demandée, la juridiction requise détermine les conditions de leur participation conformément à l’article 12.\n\n4. La juridiction requise informe les parties et, le cas échéant, leurs représentants du moment et du lieu où il sera procédé à l’exécution de la mesure d’instruction et, s’il y a lieu, des conditions de leur participation à l’exécution de la mesure d’instruction, en utilisant le formulaire I qui figure à l’annexe I.\n\n5. Les paragraphes 1 à 4 sont sans préjudice de la faculté dont dispose la juridiction requise de demander aux parties et, le cas échéant, à leurs représentants d’être présents ou de participer à l’exécution de la mesure d’instruction, si le droit de l’État membre dont elle relève le prévoit.",
+      "text_sha256": "766b3a22e5b65034f6e8362d36017acf8fedcb84019466fd9c066c76355a1abf",
+      "md_span": {
+        "start": 13513,
+        "end": 15003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Lorsque cela est compatible avec le droit de l’État membre dont relève la juridiction requérante, des représentants de cette dernière ont le droit d’être présents lorsque la juridiction requise procède à l’exécution de la mesure d’instruction.\n\n2. Aux fins du présent article, le terme «représentant» englobe le personnel judiciaire désigné par la juridiction requérante, conformément au droit national dont elle relève. La juridiction requérante peut aussi désigner toute autre personne pour la représenter, tel un expert, conformément au droit national dont elle relève.\n\n3. Dans sa demande, la juridiction requérante informe la juridiction requise, au moyen du formulaire A qui figure à l’annexe I, de la présence de ses représentants et, s’il y a lieu, du fait que leur participation à l’exécution de la mesure d’instruction est demandée. Cette information peut également être fournie à tout autre moment opportun.\n\n4. Si la participation des représentants de la juridiction requérante à l’exécution de la mesure d’instruction est demandée, la juridiction requise détermine, conformément à l’article 12, les conditions de leur participation.\n\n5. La juridiction requise informe la juridiction requérante, au moyen du formulaire I qui figure à l’annexe I, du moment et du lieu où il sera procédé à l’exécution de la mesure d’instruction et, s’il y a lieu, des conditions auxquelles les représentants peuvent y participer.",
+      "text_sha256": "ad2a917649550059c9a2b5ecf937ea249e0ec9d13ba73d38841a6c82046a8c92",
+      "md_span": {
+        "start": 15038,
+        "end": 16476
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nSi nécessaire, la juridiction requise applique les mesures coercitives appropriées pour l’exécution de la demande dans les cas et dans la mesure où le droit de l’État membre dont relève la juridiction requise le prévoit pour l’exécution d’une demande formulée aux mêmes fins par les autorités nationales dont elle relève ou par une des parties concernées.",
+      "text_sha256": "437aff318b5c33f90ab931d41dbd3fc94aa8f2a2642cc76adf98345257152ec4",
+      "md_span": {
+        "start": 16511,
+        "end": 16878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Une demande visant à l’audition d’une personne n’est pas exécutée si la personne concernée invoque le droit de refuser de déposer ou une interdiction de déposer:\n\n| a) | en vertu du droit de l’État membre dont relève la juridiction requise; ou |\n| --- | --- |\n\n| b) | en vertu du droit de l’État membre dont relève la juridiction requérante, lorsque ce droit ou cette interdiction a été indiqué dans la demande ou, si nécessaire, a été confirmé par la juridiction requérante à l’initiative de la juridiction requise. |\n| --- | --- |\n\n2. L’exécution d’une demande ne peut être refusée que pour des motifs autres que ceux visés au paragraphe 1, lorsqu’un ou plusieurs des motifs suivants s’appliquent:\n\n| a) | la demande ne relève pas du champ d’application du présent règlement; |\n| --- | --- |\n\n| b) | l’exécution de la demande n’entre pas dans les attributions du pouvoir judiciaire selon le droit de l’État membre dont relève la juridiction requise; |\n| --- | --- |\n\n| c) | la juridiction requérante n’a pas déféré à la requête de la juridiction requise de compléter la demande de procéder à l’exécution de la mesure d’instruction conformément à l’article 10, dans les trente jours à compter de cette requête; ou |\n| --- | --- |\n\n| d) | une consignation ou une avance demandée conformément à l’article 22, paragraphe 3, n’a pas été effectuée dans les soixante jours à compter de la demande, par la juridiction requise, de consignation ou de versement d’avance. |\n| --- | --- |\n\n3. La juridiction requise ne peut refuser d’exécuter une demande au seul motif que, en vertu du droit national dont elle relève, une autre juridiction dudit État membre dispose d’une compétence exclusive en ce qui concerne l’objet de l’instance ou que le droit dudit État membre n’admettrait pas le droit d’action en ce qui concerne l’objet de l’instance.\n\n4. Si l’exécution de la demande est refusée pour l’un des motifs visés au paragraphe 2, la juridiction requise en informe la juridiction requérante, au moyen du formulaire K qui figure à l’annexe I, dans un délai de soixante jours à compter de la réception de la demande par la juridiction requise.",
+      "text_sha256": "1973537fcf76f771049e94824465d48850ab24c3664673364a453be3e91a31fb",
+      "md_span": {
+        "start": 16913,
+        "end": 19063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nSi la juridiction requise n’est pas en mesure d’exécuter la demande dans un délai de 90 jours à compter de la réception de la demande, elle en informe la juridiction requérante au moyen du formulaire J qui figure à l’annexe I, en précisant les raisons du retard et en indiquant le délai qu’elle estime nécessaire pour exécuter la demande.",
+      "text_sha256": "ae8d59b4e29ec242b8975467a2bc9679c544f29feb2a15b580e25c0f90891729",
+      "md_span": {
+        "start": 19098,
+        "end": 19448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nLa juridiction requise transmet sans tarder les pièces confirmant l’exécution de la demande à la juridiction requérante et renvoie, le cas échéant, les pièces reçues de la part de la juridiction requérante. Ces pièces sont accompagnées d’une confirmation d’exécution, établie au moyen du formulaire K qui figure à l’annexe I.",
+      "text_sha256": "83d8015f7425ccb2b80d42e718601a8210d72ce92f181a3e35ad226793a4ae4d",
+      "md_span": {
+        "start": 19483,
+        "end": 19820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Lorsqu’une juridiction demande de procéder à l’exécution directe d’une mesure d’instruction dans un autre État membre, elle présente sa demande à l’organisme central ou à l’autorité compétente de cet État membre, au moyen du formulaire L qui figure à l’annexe I.\n\n2. L’exécution directe de la mesure d’instruction ne peut avoir lieu que si elle peut être effectuée sur une base volontaire, sans qu’il soit nécessaire de recourir à des mesures coercitives.\n\nLorsque, dans le cadre de l’exécution directe d’une mesure d’instruction, une personne doit être entendue, la juridiction requérante informe cette personne que la mesure d’instruction sera exécutée sur une base volontaire.\n\n3. L’exécution directe d’une mesure d’instruction est effectuée par un membre du personnel judiciaire ou par toute autre personne, tel un expert, désignés conformément au droit de l’État membre dont relève la juridiction requérante.\n\n4. Dans un délai de trente jours à compter de la réception de la demande de procéder à l’exécution directe de la mesure d’instruction, l’organisme central ou l’autorité compétente de l’État membre requis indique à la juridiction requérante, au moyen du formulaire M qui figure à l’annexe I, si la demande est acceptée et, si nécessaire, informe la juridiction requérante des conditions dans lesquelles l’exécution directe de la mesure d’instruction doit être effectuée conformément au droit de l’État membre dont il ou elle relève.\n\nL’organisme central ou l’autorité compétente peut charger une juridiction de l’État membre dont il ou elle relève de participer à l’exécution directe de la mesure d’instruction afin de veiller à ce que le présent article soit correctement appliqué et à ce que les conditions dans lesquelles l’exécution directe de la mesure d’instruction doit être effectuée soient respectées.\n\n5. Lorsque la juridiction requérante n’a pas reçu les informations dans un délai de trente jours à compter de l’accusé de réception de la demande de procéder à l’exécution directe d’une mesure d’instruction indiquant si la demande a été acceptée, elle peut adresser un rappel à l’organisme central ou à l’autorité compétente de l’État membre requis. Si la juridiction requérante ne reçoit pas de réponse dans un délai de quinze jours à compter de l’accusé de réception du rappel, la demande de procéder à l’exécution directe d’une mesure d’instruction est considérée acceptée. Toutefois, dans des circonstances exceptionnelles, lorsque l’organisme central ou l’autorité compétente a été empêchée de réagir à la demande dans le délai imparti à la suite du rappel, des motifs justifiant le refus de l’exécution directe d’une mesure d’instruction peuvent, à titre exceptionnel, encore être invoqués à tout moment après l’expiration de ce délai jusqu’à l’exécution directe effective de la mesure d’instruction.\n\n6. L’organisme central ou l’autorité compétente de l’État membre requis peut charger une juridiction de l’État membre dont il ou elle relève de fournir une assistance pratique pour l’exécution directe d’une mesure d’instruction.\n\n7. L’organisme central ou l’autorité compétente de l’État membre requis ne peut refuser une demande de procéder à l’exécution directe d’une mesure d’instruction que si:\n\n| a) | la demande ne relève pas du champ d’application du présent règlement; |\n| --- | --- |\n\n| b) | elle ne contient pas toutes les informations nécessaires visées à l’article 5; ou |\n| --- | --- |\n\n| c) | l’exécution directe de la mesure d’instruction demandée est contraire aux principes fondamentaux du droit de l’État membre dont il ou elle relève. |\n| --- | --- |\n\n8. Sans préjudice des conditions fixées conformément au paragraphe 4, la juridiction requérante procède à l’exécution directe de la mesure d’instruction conformément au droit de l’État membre dont elle relève.",
+      "text_sha256": "7143d0022df34d162bf1bd5f89c5722e192e3cdac0f6115f4eca83612bf2b693",
+      "md_span": {
+        "start": 19855,
+        "end": 23684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Lorsque des preuves doivent être obtenues par l’audition d’une personne qui est présente sur le territoire d’un autre État membre et que la juridiction demande de procéder à l’exécution directe de la mesure d’instruction conformément à l’article 19, ladite juridiction obtient les preuves en utilisant la vidéoconférence ou d’autres technologies de communication à distance, à condition que la juridiction dispose de ces technologies et qu’elle considère que l’usage de ces technologies est approprié dans les circonstances spécifiques de l’affaire.\n\n2. La demande de procéder à l’exécution directe d’une mesure d’instruction en utilisant la vidéoconférence ou d’autres technologies de communication à distance est soumise au moyen du formulaire N qui figure à l’annexe I. La juridiction requérante et l’organisme central ou l’autorité compétente de l’État membre requis, ou la juridiction chargée de fournir une assistance pratique pour l’exécution directe de la mesure d’instruction, s’accordent sur les modalités pratiques de l’audition.\n\nSur demande, la juridiction requérante reçoit une assistance pour trouver un interprète, si nécessaire.",
+      "text_sha256": "f912548a0792d2303a051eefc6061a1ef6b74a6b88015d2f364cccb197495afe",
+      "md_span": {
+        "start": 23719,
+        "end": 24879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLes États membres peuvent prévoir dans leur droit national que leurs juridictions ont la possibilité de demander à leurs agents diplomatiques ou consulaires, sur le territoire d’un autre État membre et à l’intérieur de la zone dans laquelle ils sont accrédités, de procéder à l’exécution d’une mesure d’instruction dans les locaux de la mission diplomatique ou du consulat, sauf circonstances exceptionnelles, sans qu’il soit nécessaire d’introduire une demande préalable, en procédant à l’audition, sur une base volontaire et sans qu’il soit nécessaire de recourir à des mesures coercitives, de ressortissants de l’État membre qu’ils représentent dans le cadre d’une procédure pendante devant les juridictions de l’État membre qu’ils représentent. L’agent diplomatique ou consulaire requis exécute la demande conformément au droit de l’État membre dont il relève.",
+      "text_sha256": "83aa820d2e24b078b5c4fbd57408d869b83d4312f4a71698415b699a184e36ff",
+      "md_span": {
+        "start": 24914,
+        "end": 25790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. L’exécution d’une demande de procéder à l’exécution d’une mesure d’instruction conformément à l’article 12 ne peut donner lieu à aucune demande de remboursement de taxes ou de frais.\n\n2. Par dérogation au paragraphe 1, la juridiction requise peut demander le remboursement des taxes ou frais. Si la juridiction requise en fait la demande, la juridiction requérante s’assure sans tarder du remboursement:\n\n| — | des honoraires versés aux experts et aux interprètes, et |\n| --- | --- |\n\n| — | des frais résultant de l’application de l’article 12, paragraphes 3 et 4. |\n| --- | --- |\n\nL’obligation pour les parties de supporter de tels honoraires ou frais est régie par le droit de l’État membre de la juridiction requérante.\n\n3. Lorsque l’avis d’un expert est requis avant d’exécuter la demande de procéder à l’exécution d’une mesure d’instruction, la juridiction requise peut demander à la juridiction requérante une consignation ou une avance adéquate au regard des frais anticipés de l’avis de l’expert. Dans tous les autres cas, la consignation ou l’avance n’est pas une condition de l’exécution de la demande de procéder à l’exécution d’une mesure d’instruction.\n\nLa consignation ou l’avance est effectuée par les parties si cela est prévu par le droit de l’État membre de la juridiction requérante.",
+      "text_sha256": "aad86012720925e21445b0e221cd3a9a1c52c8b83ecc6daeb7f40111a66db398",
+      "md_span": {
+        "start": 25825,
+        "end": 27142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. La Commission établit et met régulièrement à jour un manuel contenant les informations communiquées par les États membres conformément à l’article 31, ainsi que la liste des accords ou arrangements en vigueur conformément à l’article 29, paragraphe 3. Elle met le manuel à disposition sous forme électronique, notamment par l’intermédiaire du réseau judiciaire européen en matière civile et commerciale et sur le portail européen e-justice.\n\n2. La Commission est habilitée à adopter des actes délégués conformément à l’article 24 pour modifier l’annexe I afin de mettre à jour les formulaires qui y figurent ou d’apporter des modifications techniques à ces formulaires.",
+      "text_sha256": "6ec6d27f2a23eea36f521e2cdbb197660a6d972112511b81ac7986eb4f07a589",
+      "md_span": {
+        "start": 27177,
+        "end": 27861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.\n\n2. Le pouvoir d’adopter des actes délégués visé à l’article 23, paragraphe 2, est conféré à la Commission pour une période de cinq ans à compter du 22 décembre 2020. La Commission élabore un rapport relatif à la délégation de pouvoir au plus tard neuf mois avant la fin de la période de cinq ans. La délégation de pouvoir est tacitement prorogée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil s’oppose à cette prorogation trois mois au plus tard avant la fin de chaque période.\n\n3. La délégation de pouvoir visée à l’article 23, paragraphe 2, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au Journal officiel de l’Union européenne ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.\n\n4. Avant l’adoption d’un acte délégué, la Commission consulte les experts désignés par chaque État membre, conformément aux principes définis dans l’accord interinstitutionnel du 13 avril 2016«Mieux légiférer».\n\n5. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.\n\n6. Un acte délégué adopté en vertu de l’article 23, paragraphe 2, n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de deux mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de deux mois à l’initiative du Parlement européen ou du Conseil.",
+      "text_sha256": "38d1fe44c5dd256af5b3d47a41668be05a919381221cc08a637a8c4476036568",
+      "md_span": {
+        "start": 27896,
+        "end": 29876
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. La Commission adopte des actes d’exécution qui établissent le système informatique décentralisé, et qui décrivent:\n\n| a) | les spécifications techniques définissant les méthodes de communication par voie électronique aux fins du système informatique décentralisé; |\n| --- | --- |\n\n| b) | les spécifications techniques des protocoles de communication; |\n| --- | --- |\n\n| c) | les objectifs en matière de sécurité de l’information et les mesures techniques pertinentes garantissant des normes minimales de sécurité de l’information pour le traitement et la communication des informations au sein du système informatique décentralisé; |\n| --- | --- |\n\n| d) | les objectifs minimaux en matière de disponibilité et les éventuelles exigences techniques correspondantes pour les services fournis par le système informatique décentralisé; |\n| --- | --- |\n\n| e) | la création d’un comité directeur composé de représentants des États membres et chargé d’assurer le fonctionnement et l’entretien du système informatique décentralisé afin d’atteindre les objectifs du présent règlement. |\n| --- | --- |\n\n2. Les actes d’exécution visés au paragraphe 1 du présent article sont adoptés au plus tard le 23 mars 2022 en conformité avec la procédure d’examen visée à l’article 26, paragraphe 2.",
+      "text_sha256": "f05de3eff45fce087452fa5c1133bf1f1009edfa859b9edc90837f28d70b9371",
+      "md_span": {
+        "start": 29911,
+        "end": 31202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.\n\n2. Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no 182/2011 s’applique.",
+      "text_sha256": "03ae06077970aa306e86e4c725c683f58039cb71789f61afc01f3f6fb031ab7d",
+      "md_span": {
+        "start": 31237,
+        "end": 31469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. La Commission est responsable de la création, de l’entretien et du développement futur d’un logiciel de mise en œuvre de référence que les États membres peuvent choisir d’utiliser comme système dorsal en lieu et place d’un système informatique national. La création, l’entretien et le développement futur du logiciel de mise en œuvre de référence sont financés par le budget général de l’Union.\n\n2. La Commission assure, gère et soutient la mise en œuvre, à titre gratuit, des composants logiciels servant de support aux points d’accès.",
+      "text_sha256": "35313d721eaa50e07fccffd6cbfba26b99dff1c2e29117259c3b91154063b55d",
+      "md_span": {
+        "start": 31504,
+        "end": 32055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. Chaque État membre supporte les coûts d’installation, d’exploitation et d’entretien de ses points d’accès reliant les systèmes informatiques nationaux dans le cadre du système informatique décentralisé.\n\n2. Chaque État membre supporte les coûts de création et d’adaptation de ses systèmes informatiques nationaux nécessaires pour permettre l’interopérabilité de ces systèmes avec les points d’accès, ainsi que les coûts de gestion, d’exploitation et d’entretien de ces systèmes.\n\n3. Les paragraphes 1 et 2 s’entendent sans préjudice de la faculté qu’ont les États membres de demander des subventions destinées à soutenir les activités visées auxdits paragraphes au titre des programmes financiers de l’Union.",
+      "text_sha256": "e902ef2b57b6ee55fe1e0b4279ac84b7f2f5c2dc5076104d3bba9b98414499fd",
+      "md_span": {
+        "start": 32090,
+        "end": 32813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\n1. Pour les matières auxquelles il s’applique, le présent règlement prévaut, dans les rapports entre les États membres qui y sont parties, sur d’autres dispositions contenues dans des accords ou arrangements bilatéraux ou multilatéraux conclus par les États membres, et en particulier la convention de La Haye du 1er mars 1954 relative à la procédure civile et la convention de La Haye du 18 mars 1970 sur l’obtention des preuves à l’étranger en matière civile ou commerciale.\n\n2. Le présent règlement ne fait pas obstacle au maintien ou à la conclusion par les États membres d’accords ou d’arrangements visant à faciliter davantage l’obtention de preuves, pour autant que ces accords ou arrangements soient compatibles avec le présent règlement.\n\n3. Les États membres transmettent à la Commission:\n\n| a) | une copie des accords ou arrangements, visés au paragraphe 2, conclus entre les États membres ainsi que les projets d’accords ou d’arrangements qu’ils entendent conclure; et |\n| --- | --- |\n\n| b) | toute dénonciation ou modification de ces accords ou arrangements. |\n| --- | --- |",
+      "text_sha256": "499d6b8244de9e9d35883934b117895fd845ae252051df865464d560b448eed8",
+      "md_span": {
+        "start": 32848,
+        "end": 33947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. Tout traitement de données à caractère personnel effectué au titre du présent règlement, y compris l’échange ou la transmission de données à caractère personnel par les autorités compétentes, est effectué en conformité avec le règlement (UE) 2016/679.\n\nTout échange ou toute transmission d’informations par les autorités compétentes au niveau de l’Union est effectué conformément au règlement (UE) 2018/1725.\n\nLes données à caractère personnel qui ne sont pas pertinentes pour le traitement d’un cas spécifique sont immédiatement supprimées.\n\n2. L’autorité ou les autorités compétentes en vertu du droit national sont considérées comme les responsables du traitement au sens du règlement (UE) 2016/679 pour ce qui est du traitement de données à caractère personnel effectué au titre du présent règlement.\n\n3. Nonobstant les paragraphes 1 et 2, les informations transmises au titre du présent règlement ne sont utilisées par la juridiction requise qu’aux fins pour lesquelles elles ont été transmises.\n\n4. Les juridictions requises veillent à préserver la confidentialité de ces informations, conformément au droit national dont elles relèvent.\n\n5. Les paragraphes 3 et 4 sont sans préjudice des dispositions législatives nationales permettant aux personnes concernées d’être informées de l’usage qui a été fait des informations transmises en application du présent règlement.\n\n6. Le présent règlement est sans préjudice de la directive 2002/58/CE.",
+      "text_sha256": "8794d789d85c3d4900fdbd375b59604b17c4e29f61a5d56eff582b0e0a02c556",
+      "md_span": {
+        "start": 33982,
+        "end": 35444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. Les États membres communiquent à la Commission les éléments suivants:\n\n| a) | la liste dressée en vertu de l’article 3, paragraphe 2, comportant l’indication de la compétence territoriale et, le cas échéant, de la compétence spéciale des juridictions; |\n| --- | --- |\n\n| b) | les noms et adresses des organismes centraux et des autorités compétentes désignés en vertu de l’article 4, paragraphe 3, en indiquant leur compétence territoriale; |\n| --- | --- |\n\n| c) | les moyens techniques dont les juridictions figurant sur la liste dressée en vertu de l’article 3, paragraphe 2, disposent pour assurer la réception des demandes; |\n| --- | --- |\n\n| d) | les langues acceptées pour les demandes, comme le prévoit l’article 6. |\n| --- | --- |\n\n2. Les États membres communiquent à la Commission toute modification ultérieure portant sur les informations visées au paragraphe 1.\n\n3. Chaque État membre communique à la Commission les coordonnées des autres autorités qui sont compétentes pour obtenir des preuves aux fins de procédures judiciaires en matière civile ou commerciale. Les États membres communiquent à la Commission toute modification ultérieure portant sur ces coordonnées.\n\n4. S’ils sont en mesure d’exploiter le système informatique décentralisé avant l’échéance fixée par le présent règlement, les États membres peuvent adresser une notification à la Commission. La Commission met ces informations à disposition par voie électronique, en particulier sur le portail européen e-Justice.",
+      "text_sha256": "ee57e8276fdbfb327ad26c45c01563aa1008ded93b9af0f00a82914b122ccc46",
+      "md_span": {
+        "start": 35479,
+        "end": 36988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. Au plus tard le 2 juillet 2023, la Commission établit un programme détaillé pour le suivi des réalisations, des résultats et de l’incidence du présent règlement.\n\n2. Le programme de suivi précise les mesures que doivent prendre la Commission et les États membres pour assurer le suivi des réalisations, des résultats et de l’incidence du présent règlement. Il définit le moment auquel les données visées au paragraphe 3 doivent être collectées pour la première fois, soit au plus tard le 2 juillet 2026, et la fréquence à laquelle ces données doivent être collectées par la suite.\n\n3. Les États membres fournissent à la Commission les données ci-après nécessaires aux fins du suivi, lorsqu’elles sont disponibles:\n\n| a) | le nombre de demandes de procéder à l’exécution d’une mesure d’instruction transmises conformément à l’article 7, paragraphe 1, et à l’article 19, paragraphe 1, respectivement; |\n| --- | --- |\n\n| b) | le nombre de demandes de procéder à l’exécution d’une mesure d’instruction exécutées conformément à l’article 12 et à l’article 19, paragraphe 8, respectivement; |\n| --- | --- |\n\n| c) | le nombre de cas dans lesquels la demande de procéder à l’exécution d’une mesure d’instruction a été transmise par d’autres moyens que par l’intermédiaire du système informatique décentralisé, conformément à l’article 7, paragraphe 4. |\n| --- | --- |\n\n4. Le logiciel de mise en œuvre de référence et, s’il est équipé pour ce faire, le système dorsal national sont programmés pour collecter les données visées au paragraphe 3, points a) et b), et ils transmettent régulièrement ces données à la Commission.",
+      "text_sha256": "15c6b31218f4528257769777e220261d059ab7726de7a1f43194a6b727c43a6b",
+      "md_span": {
+        "start": 37023,
+        "end": 38652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\n1. Au plus tard cinq ans après la date d’application de l’article 7, conformément à l’article 35, paragraphe 3, la Commission procède à une évaluation du présent règlement et présente un rapport contenant ses principales conclusions au Parlement européen, au Conseil et au Comité économique et social européen, accompagné, le cas échéant, d’une proposition législative.\n\n2. Les États membres fournissent à la Commission les informations nécessaires à l’établissement du rapport visé au paragraphe 1.",
+      "text_sha256": "6b0d782d2b5fb012bde17ca139a2d9ee498799f56affb275f1579bd290f66e81",
+      "md_span": {
+        "start": 38687,
+        "end": 39198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. Le règlement (CE) no 1206/2001 est abrogé à partir de la date d’application du présent règlement, à l’exception de l’article 6 du règlement (CE) no 1206/2001 qui est abrogé à partir de la date d’application de l’article 7 visée à l’article 35, paragraphe 3, du présent règlement.\n\n2. Les références faites au règlement abrogé s’entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe III.",
+      "text_sha256": "f5d6c95e1a66f26ac875e0e022d00b1618beda9af6f71268c0afdc75b28b6311",
+      "md_span": {
+        "start": 39233,
+        "end": 39694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32020r1783:2020-11-25--629fa3bb4a752342dcdda42935054de1f7e1eb7abd7539ce544ec7ae9444e237#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\n1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er juillet 2022.\n\n2. L’article 31, paragraphe 3, s’applique à partir du 23 mars 2022.\n\n3. L’article 7 s’applique à partir du premier jour du mois suivant la période de trois ans qui suit la date d’entrée en vigueur des actes d’exécution visés à l’article 25.",
+      "text_sha256": "2885fa2c003bba41f3fb3c85dcf21c4e108b2cbac1b771940306f29b2abd8bb3",
+      "md_span": {
+        "start": 39729,
+        "end": 40165
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

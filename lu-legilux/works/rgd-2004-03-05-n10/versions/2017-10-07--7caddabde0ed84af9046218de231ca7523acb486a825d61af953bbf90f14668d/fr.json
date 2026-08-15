@@ -1,0 +1,131 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/10/2017 : Règlement grand-ducal du 5 mars 2004 fixant les modalités de désignation, les droits et les devoirs des délégués à l'égalité entre femmes et hommes au sein des départements ministériels et des administrations.",
+  "valid_from": "2017-10-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-03-05-n10/versions/2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d/fr.xml",
+    "sha256": "8e46991e004529ff40b6fb4fe3761cfb3ee235f2f1b77a36cb613d90b1db0c47",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_1er/20171007",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Désignation",
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "**1.** Un délégué à l’égalité entre femmes et hommes (ci-après «délégué à l’égalité») est désigné au sein de chaque département ministériel et administration de l’Etat qui ne dispose pas d’une représentation du personnel de l’Etat au sens de l’article 36 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.\n\nLe délégué à l'égalité est choisi par le ministre du ressort parmi les agents ayant posé leur candidature. Est admissible comme candidat tout fonctionnaire ou employé de l'Etat occupé par le département ministériel ou l’administration en question. A défaut de candidat, le ministre du ressort détermine parmi le personnel celui qui assumera ces fonctions. Les stagiaires fonctionnaires ne sont pas éligibles en tant que délégués à l’égalité.\n\n**2.** La durée du mandat du délégué à l’égalité désigné par le ministre du ressort est de cinq ans. Le mandat est renouvelable.\n\n**3.** Au sein des départements ministériels et administrations qui disposent d'une représentation du personnel au sens de l'article 36 visé ci-dessus, chaque représentation désigne parmi ses membres un délégué à l'égalité.",
+      "text_sha256": "bc545def3dc5d3bfa3a1f975cbc7f1d662a4b378799984fd50316fbd505ae61d",
+      "md_span": {
+        "start": 825,
+        "end": 1968
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_2/20171007",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Missions",
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "Sans préjudice des attributions que peuvent lui confier d'autres dispositions légales, le délégué à l'égalité a pour mission notamment de\n\n1. formuler des propositions sur toute question ayant trait directement ou indirectement à l’égalité de traitement entre les hommes et les femmes travaillant auprès du département ministériel ou de l’administration, en ce qui concerne plus particulièrement l’organisation du travail, la formation et l’évolution professionnelle\n2. proposer au ministre du ressort des actions de sensibilisation du personnel ainsi que des plans de mesures visant à promouvoir l'égalité des chances entre hommes et femmes, le cas échéant en collaboration avec le département ministériel ayant l’Égalité des chances dans ses attributions\n3. donner des consultations à l'intention du personnel au sujet des questions visées au point a) ci-dessus\n4. présenter des réclamations individuelles ou collectives au supérieur hiérarchique de la ou des personnes qui s'estiment traitées de façon inégale, à condition de disposer de l'accord écrit de la ou des personnes concernées\n5. veiller à la protection du personnel contre le harcèlement sexuel ou moral à l'occasion des relations de travail, proposer au ministre du ressort toute action de prévention qu'il juge nécessaire dans ce domaine, assister et conseiller les agents ayant fait l'objet d'un harcèlement sexuel ou moral à l’occasion des relations de travail\n6. émettre un avis , à demander par le chef d’administration, sur les horaires de travail à appliquer\n7. loi modifiée du 16 avril 1979\n8. se concerter au moins une fois par an, sur invitation du ministre ayant l’Égalité des chances dans ses attributions, avec les autres délégués au sujet de leurs missions ou en vue de la mise en place coordonnée d’actions positives dans le secteur public.",
+      "text_sha256": "1bee3acdecdffcf4d44febb9be6da0cc26c455a3d34a4f5bd1e093b8f77ad263",
+      "md_span": {
+        "start": 2012,
+        "end": 3832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_3/20171007",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Devoirs du délégué à l'égalité",
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "**1.** Dans le cadre de l'accomplissement des missions qui lui sont dévolues, le délégué à l'égalité est tenu au respect de la confidentialité des faits dont il a eu connaissance. Il ne peut les divulguer qu'à condition d'y avoir été autorisé par écrit par la personne en cause.\n\n**2.** Le délégué à l'égalité remet au ministre du ressort et au chef de l’administration dont il relève un rapport annuel sur ses activités qui est intégré dans le rapport d’activité du département ministériel ou de l’administration. De même il est tenu d'informer le personnel sur ses activités.",
+      "text_sha256": "fb26921358cb4a5235cc2bfacdaa0da88dc4bd6fce2593c0ead360e509b864d3",
+      "md_span": {
+        "start": 3898,
+        "end": 4475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_4/20171007",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Droits du délégué à l'égalité",
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "**1.** En vue de pouvoir s'acquitter des tâches qui lui sont dévolues, le délégué à l'égalité se voit accorder une dispense de service de quatre heures par mois. Il pourra bénéficier d’une formation nécessaire à l’accomplissement de ses missions.\n\n**2.** Il a le droit de collaborer librement et directement avec le personnel de son département ministériel ou administration.\n\n**3.** Il ne saurait subir de préjudice quelconque en raison de son activité spécifique dans l'intérêt de l'égalité entre les femmes et les hommes.",
+      "text_sha256": "b2584892952b8237577bf4d203c38fffbceb78ad1b3aa8df0bddbe967af3014d",
+      "md_span": {
+        "start": 4540,
+        "end": 5064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_5/20171007",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Disposition transitoire",
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "Il sera procédé à la première désignation du délégué à l'égalité au plus tard dans les trois mois qui suivent l'entrée en vigueur du présent règlement.",
+      "text_sha256": "2c108a72a2bfdb4857ba7c7944b45a60236826625733609df9e782ad90c4c418",
+      "md_span": {
+        "start": 5123,
+        "end": 5274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n10:2017-10-07--7caddabde0ed84af9046218de231ca7523acb486a825d61af953bbf90f14668d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/art_6/20171007",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-10-07",
+      "text_md": "Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "33ec7247c4311741271b27c8c0cb6f2d26fc40a77edb54585077850ddc009c05",
+      "md_span": {
+        "start": 5309,
+        "end": 5445
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

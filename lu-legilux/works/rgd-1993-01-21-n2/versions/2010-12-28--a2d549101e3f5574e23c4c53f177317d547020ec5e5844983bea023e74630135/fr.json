@@ -1,0 +1,135 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 21 janvier 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour les services luxembourgeois par satellite, ainsi que les règles générales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.",
+  "valid_from": "2010-12-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1993-01-21-n2/versions/2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135/fr.xml",
+    "sha256": "eb67dd5660d561d448b1ab7dfa0a678c6009c919e821a3b11a4f9a02234516a0",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/consolide/20101228/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_1er/20101228",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "Les concessions pour les services luxembourgeois par satellite sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi».",
+      "text_sha256": "153521ef4a7303a3427df5c625134c64cd257406313908f6c3fea61b7c044298",
+      "md_span": {
+        "start": 876,
+        "end": 1245
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_2/19930214",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-14",
+      "text_md": "Après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil, qui décide de l'attribution de la concession.",
+      "text_sha256": "6cc135537cb4ef85a1753bb4ad276233f5db8fcdc0c59729c6f42fa6db430373",
+      "md_span": {
+        "start": 1280,
+        "end": 1460
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_3/19930214",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-14",
+      "text_md": "Le Ministre accorde les concessions, assorties des cahiers des charges, au nom du Gouvernement.",
+      "text_sha256": "5027ba56030d4b05a22cbda99248f8c64d8a7f69b92970038927533b8851bed2",
+      "md_span": {
+        "start": 1495,
+        "end": 1590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_4/20101228",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "1. Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.\n2. Une concession peut porter sur un ou plusieurs services.",
+      "text_sha256": "a0a7b0bd508bd3a909aa23385ab216f2fe0190de56eea398c633e0085d7d1ff0",
+      "md_span": {
+        "start": 1625,
+        "end": 1928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_5/20101228",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "1. loi\n2. Si la concession porte sur plusieurs services, le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.",
+      "text_sha256": "4199121ed0c7866d7ee0d4ffa62679c27b177e77d1701bc790cc5a57a0d6bbcc",
+      "md_span": {
+        "start": 1963,
+        "end": 2204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1993-01-21-n2:2010-12-28--a2d549101e3f5574e23c4c53f177317d547020ec5e5844983bea023e74630135#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/art_6/19930214",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-02-14",
+      "text_md": "Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5c590ff6962447456b899f0cc409b9a15bcd6cc93fb5193cc4b5eb4f2891ffb9",
+      "md_span": {
+        "start": 2239,
+        "end": 2355
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

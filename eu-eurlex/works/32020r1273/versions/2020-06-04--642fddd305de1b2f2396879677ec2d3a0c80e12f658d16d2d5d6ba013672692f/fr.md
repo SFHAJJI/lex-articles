@@ -1,0 +1,130 @@
+---
+lex_id: 'eu-eurlex:32020r1273:2020-06-04--642fddd305de1b2f2396879677ec2d3a0c80e12f658d16d2d5d6ba013672692f'
+title: 'Commission Delegated Regulation (EU) 2020/1273 of 4 June 2020 amending and correcting Delegated Regulation (EU) 2019/980 supplementing Regulation (EU) 2017/1129'
+valid_from: '2020-06-04'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R1273'
+source_sha256: '9b9dc6c84ffa56e9865fc4be677e996b6929f650407677327a3d9ee947d24c9c'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le règlement délégué (UE) 2019/980 est modifié comme suit:
+
+| 1) | L’article 2 est remplacé par le texte suivant:«Article 2Document d’enregistrement pour les titres de capital1. Pour les titres de capital, le document d’enregistrement contient les informations visées à l’annexe 1 du présent règlement, à moins qu’il ne soit établi conformément à l’article 9, 14 ou 15 du règlement (UE) 2017/1129.2. Par dérogation au paragraphe 1, pour les titres suivants, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, le document d’enregistrement peut être établi conformément à l’article 7 du présent règlement dans le cas de titres destinés à des investisseurs de détail ou conformément à son article 8 dans le cas de titres destinés au marché de gros:a)les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement;b)les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé;c)les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+| --- | --- |
+| a) | les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement; |
+| b) | les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé; |
+| c) | les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+
+| 2) | L’article 4 est remplacé par le texte suivant:«Article 4Document d’enregistrement pour les émissions secondaires de titres de capital1. Un document d’enregistrement spécifique pour des titres de capital établi conformément à l’article 14 du règlement (UE) 2017/1129 contient les informations visées à l’annexe 3 du présent règlement.2. Par dérogation au paragraphe 1, pour les titres suivants, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, le document d’enregistrement spécifique peut être établi conformément à l’article 9 du présent règlement:a)les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement;b)les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé;c)les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+| --- | --- |
+| a) | les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement; |
+| b) | les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé; |
+| c) | les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+
+| 3) | L’article 12 est remplacé par le texte suivant:«Article 12Note relative aux valeurs mobilières pour les titres de capital ou les parts émises par des organismes de placement collectif de type fermé1. Pour les titres de capital ou les parts émises par des organismes de placement collectif de type fermé, la note relative aux valeurs mobilières contient les informations visées à l’annexe 11 du présent règlement, à moins qu’elle ne soit établie conformément à l’article 14 ou 15 du règlement (UE) 2017/1129.2. Par dérogation au paragraphe 1, pour les titres visés à l’article 19, paragraphes 1 et 2, et à l’article 20, paragraphes 1 et 2, du présent règlement, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, la note relative aux valeurs mobilières est établie conformément à l’article 15 du présent règlement dans le cas de titres destinés à des investisseurs de détail ou conformément à son article 16 dans le cas de titres destinés au marché de gros.» |
+| --- | --- |
+
+| 4) | L’article 13 est remplacé par le texte suivant:«Article 13Note relative aux valeurs mobilières pour les émissions secondaires de titres de capital ou de parts émises par des organismes de placement collectif de type fermé1. Une note spécifique relative aux valeurs mobilières pour des titres de capital ou des parts émises par des organismes de placement collectif de type fermé établie conformément à l’article 14 du règlement (UE) 2017/1129 contient les informations visées à l’annexe 12 du présent règlement.2. Par dérogation au paragraphe 1, pour les titres visés à l’article 19, paragraphes 1 et 2, et à l’article 20, paragraphes 1 et 2, du présent règlement, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, la note spécifique relative aux valeurs mobilières est établie conformément à l’article 17 du présent règlement.» |
+| --- | --- |
+
+| 5) | À l’article 24, le paragraphe 4 est remplacé par le texte suivant:«4.Lorsqu’un document d’enregistrement universel est utilisé aux fins de l’article 9, paragraphe 12, du règlement (UE) 2017/1129, les informations visées dans cette disposition sont présentées conformément au règlement délégué (UE) 2019/815 de la Commission(*1).(*1) Règlement délégué (UE) 2019/815 de la Commission du 17 décembre 2018 complétant la directive 2004/109/CE du Parlement européen et du Conseil par des normes techniques de réglementation précisant le format d’information électronique unique (JO L 143 du 29.5.2019, p. 1).» " |
+| --- | --- |
+| «4. | Lorsqu’un document d’enregistrement universel est utilisé aux fins de l’article 9, paragraphe 12, du règlement (UE) 2017/1129, les informations visées dans cette disposition sont présentées conformément au règlement délégué (UE) 2019/815 de la Commission(*1). |
+
+| 6) | À l’article 25, le paragraphe 5 est remplacé par le texte suivant:«5.Lorsqu’un document d’enregistrement universel est utilisé aux fins de l’article 9, paragraphe 12, du règlement (UE) 2017/1129, les informations visées dans cette disposition sont présentées conformément au règlement délégué (UE) 2019/815 de la Commission.» |
+| --- | --- |
+| «5. | Lorsqu’un document d’enregistrement universel est utilisé aux fins de l’article 9, paragraphe 12, du règlement (UE) 2017/1129, les informations visées dans cette disposition sont présentées conformément au règlement délégué (UE) 2019/815 de la Commission.» |
+
+| 7) | L’article 28 est remplacé par le texte suivant:«Article 28Document d’enregistrement du prospectus de croissance de l’Union pour les titres de capital1. Un document d’enregistrement spécifique pour des titres de capital établi conformément à l’article 15 du règlement (UE) 2017/1129 contient les informations visées à l’annexe 24 du présent règlement.2. Par dérogation au paragraphe 1, pour les titres suivants, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, le document d’enregistrement spécifique peut être établi conformément à l’article 29 du présent règlement:a)les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement;b)les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé;c)les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+| --- | --- |
+| a) | les titres visés à l’article 19, paragraphe 1, et à l’article 20, paragraphe 1, du présent règlement; |
+| b) | les titres visés à l’article 19, paragraphe 2, du présent règlement, lorsque ces titres sont échangeables ou convertibles en actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé; |
+| c) | les titres visés à l’article 20, paragraphe 2, du présent règlement, lorsque ces titres confèrent le droit de souscrire ou d’acquérir des actions qui ont été ou seront émises par une entité appartenant au groupe de l’émetteur et qui ne sont pas admises à la négociation sur un marché réglementé.» |
+
+| 8) | L’article 30 est remplacé par le texte suivant:«Article 30Note relative aux valeurs mobilières du prospectus de croissance de l’Union pour les titres de capital1. Une note spécifique relative aux valeurs mobilières pour des titres de capital établie conformément à l’article 15 du règlement (UE) 2017/1129 contient les informations visées à l’annexe 26 du présent règlement.2. Par dérogation au paragraphe 1, pour les titres visés à l’article 19, paragraphes 1 et 2, et à l’article 20, paragraphes 1 et 2, du présent règlement, lorsque ces titres ne sont pas des actions ou d’autres valeurs mobilières équivalentes à des actions, la note spécifique relative aux valeurs mobilières est établie conformément à l’article 31 du présent règlement.» |
+| --- | --- |
+
+| 9) | À l’article 32, paragraphe 1, le point e) est remplacé par le texte suivant:«e)les informations visées à la section 1 de l’annexe 24 et à la section 1 de l’annexe 26 du présent règlement, ou les informations visées à la section 1 de l’annexe 25 et à la section 1 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières;» |
+| --- | --- |
+| «e) | les informations visées à la section 1 de l’annexe 24 et à la section 1 de l’annexe 26 du présent règlement, ou les informations visées à la section 1 de l’annexe 25 et à la section 1 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières;» |
+
+| 10) | À l’article 32, paragraphe 1, le point g) est remplacé par le texte suivant:«g)pour les titres de capital, les informations visées au point 2.1 de l’annexe 26 du présent règlement et, lorsque les titres de capital sont émis par un émetteur dont la capitalisation boursière est supérieure à 200 000 000 EUR, les informations visées au point 2.2 de ladite annexe 26;» |
+| --- | --- |
+| «g) | pour les titres de capital, les informations visées au point 2.1 de l’annexe 26 du présent règlement et, lorsque les titres de capital sont émis par un émetteur dont la capitalisation boursière est supérieure à 200 000 000 EUR, les informations visées au point 2.2 de ladite annexe 26;» |
+
+| 11) | À l’article 32, paragraphe 1, les points p) et q) suivants sont ajoutés:«p)lorsque des informations sur l’action sous-jacente sont exigées conformément à l’article 19, paragraphe 2, point b), ou paragraphe 3, ou à l’article 20, paragraphe 2, point b), du présent règlement, les informations visées à la section 6 de l’annexe 26 ou les informations visées à la section 6 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières;q)lorsque l’émetteur ou la personne chargée de rédiger le prospectus consent à son utilisation, comme visé à l’article 5, paragraphe 1, second alinéa, du règlement (UE) 2017/1129, les informations visées à la section 7 de l’annexe 26 ou à la section 7 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières;» |
+| --- | --- |
+| «p) | lorsque des informations sur l’action sous-jacente sont exigées conformément à l’article 19, paragraphe 2, point b), ou paragraphe 3, ou à l’article 20, paragraphe 2, point b), du présent règlement, les informations visées à la section 6 de l’annexe 26 ou les informations visées à la section 6 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières; |
+| q) | lorsque l’émetteur ou la personne chargée de rédiger le prospectus consent à son utilisation, comme visé à l’article 5, paragraphe 1, second alinéa, du règlement (UE) 2017/1129, les informations visées à la section 7 de l’annexe 26 ou à la section 7 de l’annexe 27 du présent règlement, selon le type de valeurs mobilières;» |
+
+| 12) | L’article 46 bis suivant est inséré:«Article 46 bisProspectus approuvés entre le 21 juillet 2019 et le 16 septembre 2020Les prospectus qui ont été approuvés entre le 21 juillet 2019 et le 16 septembre 2020 restent valides jusqu’à la fin normale de leur validité.» |
+| --- | --- |
+
+| 13) | L’annexe 1 est modifiée conformément à l’annexe I du présent règlement; |
+| --- | --- |
+
+| 14) | L’annexe 3 est modifiée conformément à l’annexe II du présent règlement; |
+| --- | --- |
+
+| 15) | L’annexe 4 est modifiée conformément à l’annexe III du présent règlement; |
+| --- | --- |
+
+| 16) | L’annexe 6 est modifiée conformément à l’annexe IV du présent règlement; |
+| --- | --- |
+
+| 17) | L’annexe 7 est modifiée conformément à l’annexe V du présent règlement; |
+| --- | --- |
+
+| 18) | L’annexe 8 est modifiée conformément à l’annexe VI du présent règlement; |
+| --- | --- |
+
+| 19) | L’annexe 9 est modifiée conformément à l’annexe VII du présent règlement; |
+| --- | --- |
+
+| 20) | L’annexe 16 est modifiée conformément à l’annexe VIII du présent règlement; |
+| --- | --- |
+
+| 21) | L’annexe 24 est modifiée conformément à l’annexe IX du présent règlement; |
+| --- | --- |
+
+| 22) | L’annexe 25 est modifiée conformément à l’annexe X du présent règlement; |
+| --- | --- |
+
+| 23) | L’annexe 26 est modifiée conformément à l’annexe XI du présent règlement; |
+| --- | --- |
+
+| 24) | L’annexe 27 est modifiée conformément à l’annexe XII du présent règlement. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+| 1. | À l’article 33 du règlement délégué (UE) 2019/980, le paragraphe 7 est remplacé par le texte suivant:«7.Le résumé spécifique peut utiliser des rubriques pour présenter les informations visées aux sections 2, 3 et 4 de l’annexe 23 du présent règlement.» |
+| --- | --- |
+| «7. | Le résumé spécifique peut utiliser des rubriques pour présenter les informations visées aux sections 2, 3 et 4 de l’annexe 23 du présent règlement.» |
+
+| 2. | À l’article 42, paragraphe 2, le point g) est remplacé par le texte suivant:«g)un appendice si l’article 26, paragraphe 4, du règlement (UE) 2017/1129 l’exige, sauf si aucun résumé n’est requis en vertu de l’article 7, paragraphe 1, deuxième alinéa, dudit règlement;» |
+| --- | --- |
+| «g) | un appendice si l’article 26, paragraphe 4, du règlement (UE) 2017/1129 l’exige, sauf si aucun résumé n’est requis en vertu de l’article 7, paragraphe 1, deuxième alinéa, dudit règlement;» |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l’Union européenne.
+
+Cependant, l’article 1er, points 1) à 8), et l’article 2 sont applicables à partir du 21 juillet 2019.

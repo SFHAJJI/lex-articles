@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31968r1017:2009-03-25--47f8d59e11ee9319420bf9dd1713f09f831e08838d95fa669f1228e7771497de",
+  "language": "fr",
+  "title": "Regulation (EEC) No 1017/68 of the Council of 19 July 1968 applying rules of competition t…",
+  "valid_from": "2009-03-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31968r1017/versions/2009-03-25--47f8d59e11ee9319420bf9dd1713f09f831e08838d95fa669f1228e7771497de/fr.html",
+    "sha256": "f4c43cff24201c07de80dab2f26b3a3ecf0ddbc053672f1ec70977d98d20993a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01968R1017-20090325"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31968r1017:2009-03-25--47f8d59e11ee9319420bf9dd1713f09f831e08838d95fa669f1228e7771497de#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1968R1017 — FR — 25.03.2009 — 003.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B RÈGLEMENT (CEE) No 1017/68 DU CONSEIL du 19 juillet 1968 portant application de règles de concurrence aux secteurs des transports par chemin de fer, par route et par voie navigable (JO L 175, 23.7.1968, p.1) abrogé par: Journal officiel n° page date Règlement (CE) no 169/2009 du Conseil du 26 février 2009 L 61 1 5.3.2009",
+      "text_sha256": "af49dd15e935ff5a3aa99ddbc01b938403e6007ca45e0a099b9cbdddb0521dd8",
+      "md_span": {
+        "start": 724,
+        "end": 1186
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

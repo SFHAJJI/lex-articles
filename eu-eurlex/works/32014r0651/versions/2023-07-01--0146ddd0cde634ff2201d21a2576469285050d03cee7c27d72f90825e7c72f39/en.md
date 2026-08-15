@@ -1,0 +1,2598 @@
+---
+lex_id: 'eu-eurlex:32014r0651:2023-07-01--0146ddd0cde634ff2201d21a2576469285050d03cee7c27d72f90825e7c72f39'
+title: 'Commission Regulation (EU) No 651/2014 of 17 June 2014 declaring certain categories of aid…'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0651-20230701'
+source_sha256: '4fa8d65ff7a521489e6dc3d879e076796e522fe9019059a4e831b1332b648fc6'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### **COMMON PROVISIONS**
+
+<a id="art_1"></a>
+
+### Article 1 — Scope
+
+**1.** This Regulation shall apply to the following categories of aid:(a) regional aid;(b) aid to SMEs in the form of investment aid, operating aid and SMEs' access to finance;(c) aid for environmental protection;(d) aid for research and development and innovation;(e) training aid;(f) recruitment and employment aid for disadvantaged workers and workers with disabilities;(g) aid to make good the damage caused by certain natural disasters;(h) social aid for transport for residents of remote regions;(i) aid for broadband infrastructures;(j) aid for culture and heritage conservation;▼M1(k) aid for sport and multifunctional recreational infrastructure;(l) aid for local infrastructures;▼M4(m) aid for regional airports;(n) aid for ports;▼M4(o) aid for European Territorial Cooperation projects; and(p) aid involved in financial products supported by the InvestEU Fund.▼B
+
+**2.** This Regulation shall not apply to:▼M6(a) schemes under Sections 1 (with the exception of Article 15), 2 (with the exception of Articles 19c and 19d), 3, 4, 7 (with the exception of Article 44) and 10 of Chapter III of this Regulation, if the average annual State aid budget per Member State exceeds EUR 150 million, from 6 months after their entry into force, as well as aid implemented in the form of financial products under Section 16 of Chapter III, if the average annual State aid budget per Member State exceeds EUR 200 million, from 6 months after their entry into force. For aid under Section 16 of Chapter III of this Regulation, only contributions by a Member State to the Member State compartment of the EU guarantee, referred to in Article 9(1), point (b), of Regulation (EU) 2021/523 of the European Parliament and of the Council (1), which are earmarked for a specific financial product shall be taken into account for assessing whether the average annual State aid budget of that Member State related to the financial product exceeds EUR 200 million. The Commission may decide that this Regulation shall continue to apply for a longer period to any of these aid schemes after having assessed the relevant evaluation plan notified by the Member State to the Commission, within 20 working days from the scheme’s entry into force. Where the Commission has already extended the application of this Regulation beyond the initial 6 months as regards such schemes, Member States may decide to extend those schemes until the end of the period of application of this Regulation, provided that the Member State concerned has submitted an evaluation report in line with the evaluation plan approved by the Commission;▼B(b) any alterations of schemes referred to in Article 1(2)(a), other than modifications which cannot affect the compatibility of the aid scheme under this Regulation or cannot significantly affect the content of the approved evaluation plan;(c) aid to export-related activities towards third countries or Member States, namely aid directly linked to the quantities exported, to the establishment and operation of a distribution network or to other current costs linked to the export activity;(d) aid contingent upon the use of domestic over imported goods.
+
+**3.** This Regulation shall not apply to:▼M6(a) aid granted in the fishery and aquaculture sector, within the scope of Regulation (EU) No 1379/2013 of the European Parliament and of the Council (2) with the exception of:— training aid;— aid for SMEs’ access to finance;— aid in the field of research and development;— innovation aid for SMEs;— aid for disadvantaged workers and workers with disabilities;— regional investment aid in outermost regions;— regional operating aid schemes;— aid for community-led local development (‘CLLD’) projects;— aid to European Territorial Cooperation projects;— as of 1 July 2023, aid in the form of reductions in environmental taxes under Article 15(1), point (f), and Article 15(3) of Council Directive 2003/96/EC (3);— aid involved in financial products supported by the InvestEU Fund, except for operations listed in Article 1(1) of Commission Regulation (EU) No 717/2014 (4);— for aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat referred to in Article 19c;— for aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine referred to in Article 19d;(b) aid granted in the primary agricultural production sector, with the exception of regional investment aid in outermost regions, regional operating aid schemes, aid for consultancy in favour of SMEs, risk finance aid, aid for research and development, innovation aid for SMEs, environmental aid, training aid, aid for disadvantaged workers and workers with disabilities, aid to community-led local development (CLLD) projects, aid to European Territorial Cooperation projects, aid involved in financial products supported by the InvestEU Fund, aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat as referred to in Article 19c and aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine as referred to in Article 19d;▼M1(c) aid granted in the sector of processing and marketing of agricultural products, in the following cases:(i) where the amount of the aid is fixed on the basis of the price or quantity of such products purchased from primary producers or put on the market by the undertakings concerned;(ii) where the aid is conditional on being partly or entirely passed on to primary producers;(d) aid to facilitate the closure of uncompetitive coal mines, as covered by Council Decision 2010/787/EU (5);(e) the categories of regional aid referred to in Article 13.
+
+Where an undertaking is active in the excluded sectors as referred to in points (a), (b) or (c) of the first subparagraph and in sectors which fall within the scope of this Regulation, this Regulation applies to aid granted in respect of the latter sectors or activities, provided that Member States ensure by appropriate means, such as separation of activities or distinction of costs, that the activities in the excluded sectors do not benefit from the aid granted in accordance with this Regulation.
+
+**4.** This Regulation shall not apply to:(a) aid schemes which do not explicitly exclude the payment of individual aid in favour of an undertaking which is subject to an outstanding recovery order following a previous Commission decision declaring an aid granted by the same Member State illegal and incompatible with the internal market, with the exception of aid schemes to make good the damage caused by certain natural disasters and aid schemes covered by Article 19b, Section 2a as well as Section 16 of Chapter III;(b) ad hoc aid in favour of an undertaking as referred to in point (a);(c) aid to undertakings in difficulty, with the exception of aid schemes to make good the damage caused by certain natural disasters, start-up aid schemes, regional operating aid schemes, aid schemes covered by Article 19b, aid to SMEs under Article 56f and aid to financial intermediaries under Articles 16, 21, 22 and 39 as well as Section 16 of Chapter III, provided undertakings in difficulty are not treated more favourably than other undertakings. However, this Regulation shall apply, by derogation, to undertakings which were not in difficulty on 31 December 2019 but became undertakings in difficulty during the period from 1 January 2020 to 31 December 2021.
+
+**5.** This Regulation shall not apply to State aid measures, which entail, by themselves, by the conditions attached to them or by their financing method a non-severable violation of Union law, in particular:(a) aid measures where the grant of aid is subject to the obligation for the beneficiary to have its headquarters in the relevant Member State or to be predominantly established in that Member State; However, the requirement to have an establishment or branch in the aid granting Member State at the moment of payment of the aid is allowed.(b) aid measures where the grant of aid is subject to the obligation for the beneficiary to use nationally produced goods or national services;(c) aid measures restricting the possibility for the beneficiaries to exploit the research, development and innovation results in other Member States.
+
+**6.** Chapter III, Section 7, of this Regulation shall not apply to State aid measures for production of nuclear energy.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(1) ‘aid’ means any measure fulfilling all the criteria laid down in Article 107(1) of the Treaty;
+
+(2) ‘small and medium-sized enterprises’ or ‘SMEs’ means undertakings fulfilling the criteria laid down in Annex I;
+
+(3) ‘worker with disabilities’ means any person who: (a) is recognised as worker with disabilities under national law; or (b) has long-term physical, mental, intellectual or sensory impairment(s) which, in interaction with various barriers, may hinder their full and effective participation in a work environment on an equal basis with other workers;
+
+(4) ‘disadvantaged worker’ means any person who: (a) has not been in regular paid employment for the previous 6 months; or (b) is between 15 and 24 years of age; or (c) has not attained an upper secondary educational or vocational qualification (International Standard Classification of Education 3) or is within two years after completing full-time education and who has not previously obtained his or her first regular paid employment; or (d) is over the age of 50 years; or (e) lives as a single adult with one or more dependents; or (f) works in a sector or profession in a Member State where the gender imbalance is at least 25 % higher than the average gender imbalance across all economic sectors in that Member State, and belongs to that underrepresented gender group; or (g) is a member of an ethnic minority within a Member State and who requires development of his or her linguistic, vocational training or work experience profile to enhance prospects of gaining access to stable employment;
+
+(5) ‘transport’ means transport of passengers by aircraft, maritime transport, road, rail, or by inland waterway or freight transport services for hire or reward;
+
+(6) ‘transport costs’ means the costs of transport for hire or reward actually paid by the beneficiaries per journey, comprising: (a) freight charges, handling costs and temporary stocking costs, in so far as these costs relate to the journey; (b) insurance costs applied to the cargo; (c) taxes, duties or levies applied to the cargo and, if applicable, to the deadweight, both at point of origin and point of destination; and (d) safety and security control costs, surcharges for increased fuel costs;
+
+(7) ‘remote regions’ means outermost regions, Malta, Cyprus, Ceuta and Melilla, islands which are part of the territory of a Member State and sparsely populated areas;
+
+(8) ‘marketing of agricultural products’ means holding or display with a view to sale, offering for sale, delivery or any other manner of placing on the market, except the first sale by a primary producer to resellers or processors and any activity preparing a product for such first sale; a sale by a primary producer to final consumers shall be considered to be marketing if it takes place in separate premises reserved for that purpose;
+
+(9) ‘primary agricultural production’ means production of products of the soil and of stock farming, listed in Annex I to the Treaty, without performing any further operation changing the nature of such products;
+
+(10) ‘processing of agricultural products’ means any operation on an agricultural product resulting in a product which is also an agricultural product, except on-farm activities necessary for preparing an animal or plant product for the first sale;
+
+(11) ‘agricultural product’ means the products listed in Annex I to the Treaty, except fishery and aquaculture products listed in Annex I to Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013;
+
+(12) ‘outermost regions’ means regions as defined in Article 349 of the Treaty. In accordance with European Council Decision 2010/718/EU, from 1 January 2012, Saint-Barthélemy ceased to be an outermost region. In accordance with European Council Decision 2012/419/EU on 1 January 2014, Mayotte became an outermost region;
+
+(13) ‘coal’ means high-grade, medium-grade and low-grade category A and B coal within the meaning of the international codification system for coal established by the United Nations Economic Commission for Europe and clarified in the Council decision of 10 December 2010 on State aid to facilitate the closure of uncompetitive coal mines (6);
+
+(14) ‘individual aid’ means: (i) ad hoc aid; and (ii) awards of aid to individual beneficiaries on the basis of an aid scheme;
+
+(15) ‘aid scheme’ means any act on the basis of which, without further implementing measures being required, individual aid awards may be made to undertakings defined within the act in a general and abstract manner and any act on the basis of which aid which is not linked to a specific project may be granted to one or several undertakings for an indefinite period of time and/or for an indefinite amount;
+
+(16) ‘evaluation plan’ means a document containing at least the following minimum elements: the objectives of the aid scheme to be evaluated, the evaluation questions, the result indicators, the envisaged methodology to conduct the evaluation, the data collection requirements, the proposed timing of the evaluation including the date of submission of the final evaluation report, the description of the independent body conducting the evaluation or the criteria that will be used for its selection and the modalities for ensuring the publicity of the evaluation;
+
+(17) ‘ad hoc aid’ means aid not granted on the basis of an aid scheme;
+
+(18) ‘undertaking in difficulty’ means an undertaking in respect of which at least one of the following circumstances occurs: (a) In the case of a limited liability company (other than an SME that has been in existence for less than 3 years or, for the purposes of eligibility for risk finance aid, an SME that fulfils the condition in Article 21(3), point (b), and qualifies for risk finance investments following due diligence by the selected financial intermediary), where more than half of its subscribed share capital has disappeared as a result of accumulated losses. This is the case when deduction of accumulated losses from reserves (and all other elements generally considered as part of the own funds of the company) leads to a negative cumulative amount that exceeds half of the subscribed share capital. For the purposes of this provision, ‘limited liability company’ refers in particular to the types of company mentioned in Annex I to Directive 2013/34/EU of the European Parliament and of the Council (7) and ‘share capital’ includes, where relevant, any share premium. (b) In the case of a company where at least some of its members have unlimited liability for the debt of the company (other than an SME that has been in existence for less than 3 years or, for the purposes of eligibility for risk finance aid, an SME that fulfils the condition in Article 21(3), point (b), and qualifies for risk finance investments following due diligence by the selected financial intermediary), where more than half of its capital as shown in the company accounts has disappeared as a result of accumulated losses. For the purposes of this provision, ‘a company where at least some of its members have unlimited liability for the debt of the company’ refers in particular to the types of company mentioned in Annex II to Directive 2013/34/EU. (c) Where the undertaking is subject to collective insolvency proceedings or fulfils the criteria under its domestic law for being placed in collective insolvency proceedings at the request of its creditors. (d) Where the undertaking has received rescue aid and has not yet reimbursed the loan or terminated the guarantee, or has received restructuring aid and is still subject to a restructuring plan. (e) In the case of an undertaking that is not an SME, where, for the past two years: (1) the undertaking's book debt to equity ratio has been greater than 7,5 and (2) the undertaking's EBITDA interest coverage ratio has been below 1,0.
+
+(19) ‘territorial spending obligations’: mean the obligations imposed by the authority granting the aid on beneficiaries to spend a minimum amount and/or conduct a minimum level of production activity in a particular territory;
+
+(20) ‘adjusted aid amount’ means the maximum permissible aid amount for a large investment project, calculated in accordance with the following formula: adjusted aid amount = R × (A + 0.50 × B + 0 × C) where: R is the maximum aid intensity applicable in the area concerned, excluding the increased aid intensity for SMEs; A is the part of eligible costs equal to EUR 55 million; B is the part of eligible costs between EUR 55 million and EUR 110 million, and C is the part of eligible costs above EUR 110 million;
+
+(21) ‘repayable advance’ means a loan for a project which is paid in one or more instalments and the conditions for the reimbursement of which depend on the outcome of the project;
+
+(22) ‘gross grant equivalent’ means the amount of the aid if it had been provided in the form of a grant to the beneficiary, before any deduction of tax or other charge;
+
+(23) ‘start of works’ means the earlier of either the start of construction works relating to the investment, or the first legally binding commitment to order equipment or any other commitment that makes the investment irreversible. Buying land and preparatory works such as obtaining permits and conducting feasibility studies are not considered start of works. For take-overs, ‘start of works’ means the moment of acquiring the assets directly linked to the acquired establishment;
+
+(24) ‘large enterprises’ means undertakings not fulfilling the criteria laid down in Annex I;
+
+(25) ‘fiscal successor scheme’ means a scheme in the form of tax advantages which constitutes an amended version of a previously existing scheme in the form of tax advantages and which replaces it.
+
+(26) ‘aid intensity’ means the gross aid amount expressed as a percentage of the eligible costs, before any deduction of tax or other charge;
+
+(27) ‘assisted areas’ means areas designated in a regional aid map that has been approved in application of Article 107(3), points (a) and (c) of the Treaty and is in force at the time of the award of the aid;
+
+(28) ‘date of granting of the aid’ means the date when the legal right to receive the aid is conferred on the beneficiary under the applicable national legal regime;
+
+(29) ‘tangible assets’ means assets consisting of land, buildings and plant, machinery and equipment;
+
+(30) ‘intangible assets’ means assets that do not have a physical or financial embodiment such as patents, licences, know-how or other intellectual property;
+
+(31) ‘wage cost’ means the total amount actually payable by the beneficiary of the aid in respect of the employment concerned, comprising over a defined period of time the gross wage before tax and compulsory contributions such as social security, child care and parent care costs;
+
+(32) ‘net increase in the number of employees’ means a net increase in the number of employees in the establishment concerned compared to the average over a given period in time, after deducting from the number of jobs created any job losses during that period. The number of persons employed full-time, part-time and seasonal has to be considered with their annual labour unit fractions;
+
+(33) ‘dedicated infrastructure’ means infrastructure that is built for *ex-ante* identifiable undertaking(s) and tailored to their needs.
+
+(34) ‘financial intermediary’ means any financial institution regardless of its form and ownership, including funds of funds, private investment funds, public investment funds, banks, micro-finance institutions and guarantee societies;
+
+(35) ‘journey’ means the movement of goods from the point of origin to the point of destination, including any intermediary sections or stages within or outside the Member State concerned, made using one or more means of transport;
+
+(36) ‘fair rate of return (FRR)’ means the expected rate of return equivalent to a risk-adjusted discount rate which reflects the level of risk of a project and the nature and level of capital the private investors plan to invest;
+
+(37) ‘total financing’ means the overall investment amount made into an eligible undertaking or project under Section 3 or under Articles 16 or 39 of this Regulation to the exclusion of entirely private investments provided on market terms and outside the scope of the relevant State aid measure;
+
+(38) ‘competitive bidding process’ means a non-discriminatory bidding process that provides for the participation of a sufficient number of undertakings and where the aid is granted on the basis of either the initial bid submitted by the bidder or a clearing price. In addition, the budget or volume related to the bidding process is a binding constraint leading to a situation where not all bidders can receive aid;
+
+(39) ‘operating profit’ means the difference between the discounted revenues and the discounted operating costs over the economic lifetime of the investment, where this difference is positive. The operating costs include costs such as personnel costs, materials, contracted services, communications, energy, maintenance, rent, administration, but exclude depreciation charges and the costs of financing if these have been covered by investment aid. Discounting revenues and operating costs using an appropriate discount rate allows a reasonable profit to be made;
+
+(39a) ‘arm's length’ means that the conditions of the transaction between the contracting parties do not differ from those which would be stipulated between independent undertakings and contain no element of collusion. Any transaction that results from an open, transparent and non-discriminatory procedure is considered as meeting the arm's length principle;
+
+(39b) ‘written’ means any form of written document, including electronic documents, provided that such electronic documents are recognised as equivalent under the applicable administrative procedures and legislation in the Member State concerned.
+
+**Definitions applying to regional aid**
+
+(41) ‘regional investment aid’ means regional aid granted for an initial investment or an initial investment in favour of a new economic activity;
+
+(42) ‘regional operating aid’ means aid to reduce an undertaking's current expenditure, including categories such as personnel costs, materials, contracted services, communications, energy, maintenance, rent, administration, but excluding depreciation charges and the costs of financing related to an investment that benefited from investment aid;
+
+(43) ‘steel sector’ means the production of one or more of the following: (a) pig iron and ferro-alloys: pig iron for steelmaking, foundry and other pig iron, spiegeleisen and high-carbon ferro-manganese, not including other ferro-alloys; (b) crude and semi-finished products of iron, ordinary steel or special steel: liquid steel cast or not cast into ingots, including ingots for forging semi-finished products: blooms, billets and slabs; sheet bars and tinplate bars; hot-rolled wide coils, with the exception of production of liquid steel for castings from small and medium-sized foundries; (c) hot finished products of iron, ordinary steel or special steel: rails, sleepers, fishplates, soleplates, joists, heavy sections of 80 mm and over, sheet piling, bars and sections of less than 80 mm and flats of less than 150 mm, wire rod, tube rounds and squares, hot-rolled hoop and strip (including tube strip), hot-rolled sheet (coated or uncoated), plates and sheets of 3 mm thickness and over, universal plates of 150 mm and over, with the exception of wire and wire products, bright bars and iron castings; (d) cold finished products: tinplate, terneplate, blackplate, galvanised sheets, other coated sheets, cold-rolled sheets, electrical sheets and strip for tinplate, cold-rolled plate, in coil and in strip; (e) tubes: all seamless steel tubes, welded steel tubes with a diameter of over 406.4 mm;
+
+(43a) ‘lignite’ means low-rank C or ortho-lignite and low-rank B or meta-lignite as defined by the international codification system for coal established by the United Nations Economic Commission for Europe;
+
+(45) ‘transport sector’ means the transport of passengers by aircraft, maritime transport, road or rail and by inland waterway or freight transport services for hire or reward; more specifically, the ‘transport sector’ means the following activities in terms of the statistical classification of economic activities (NACE Rev. 2), established by Regulation (EC) No 1893/2006 of the European Parliament and of the Council (8): (a) NACE 49: Land transport and transport via pipelines, excluding NACE 49.32 Taxi operation, 49.39 Operation of teleferics, funiculars, ski and cable lifts if not part of urban or suburban transit systems, 49.42 Removal services, 49.5 Transport via pipeline; (b) NACE 50: Water transport; (c) NACE 51: Air transport, excluding NACE 51.22 Space transport;
+
+(46) ‘scheme targeted at a limited number of specific sectors of economic activity’ means a scheme which covers activities falling within the scope of less than five classes (four-digit numerical code) of the NACE Rev. 2 statistical classification.
+
+(47) ‘tourism activity’ means the following activities in terms of NACE Rev. 2: (a) NACE 55:Accommodation; (b) NACE 56: Food and beverage service activities; (c) NACE 79: Travel agency, tour operator reservation service and related activities; (d) NACE 90: Creative, arts and entertainment activities; (e) NACE 91: Libraries, archives, museums and other cultural activities; (f) NACE 93: Sports activities and amusement and recreation activities;
+
+(47a) ‘completion of the investment’ means the moment when the investment is considered by the national authorities as completed or, in the absence thereof, 3 years after the start of works;
+
+(48) ‘sparsely populated areas’ means NUTS 2 regions with less than 8 inhabitants per km2 or NUTS 3 regions with less than 12,5 inhabitants per km2 or areas which are recognized by the Commission as such in an individual decision on a regional aid map in force at the time the aid is granted;
+
+(48a) ‘very sparsely populated areas’ means NUTS 2 regions with less than 8 inhabitants per km2 or areas which are recognized by the Commission as such in an individual decision on a regional aid map in force at the time the aid is granted;
+
+(49) ‘initial investment’ means one of the following: (a) an investment in tangible and intangible assets related to one or more of the following: — the setting-up of a new establishment; — the extension of the capacity of an existing establishment; — the diversification of the output of an establishment into products or services not previously produced in the establishment; or — a fundamental change in the overall production process of the product(s) or the overall provision of the service(s) concerned by the investment in the establishment; (b) an acquisition of assets belonging to an establishment that has closed or would have closed had it not been purchased. The sole acquisition of the shares of an undertaking does not qualify as initial investment. A replacement investment thus does not constitute an initial investment.
+
+(50) ‘same or a similar activity’ means an activity in the same class (four-digit numerical code) of the NACE Rev. 2 statistical classification of economic activities (NACE Rev. 2);
+
+(51) ‘initial investment that creates a new economic activity’ means: (a) an investment in tangible and intangible assets related to one or both of the following: — the setting up of a new establishment; — the diversification of the activity of an establishment, provided that the new activity is not the same or a similar activity to the activity previously performed in the establishment; or (b) an acquisition of assets belonging to an establishment that has closed or would have closed had it not been purchased, provided that the new activity to be carried out using the acquired assets is not the same or a similar activity than the one carried out in the establishment before the acquisition. Sole acquisition of the shares of an undertaking does not qualify as initial investment that creates a new economic activity;
+
+(52) ‘large investment project’ means an initial investment with eligible costs exceeding EUR 50 million, calculated at prices and exchange rates on the date of granting the aid;
+
+(53) ‘point of destination’ means the place where the goods are unloaded;
+
+(54) ‘point of origin’ means the place where the goods are loaded for transport;
+
+(55) ‘areas eligible for operating aid’ means an outermost region referred to in Article 349 of the Treaty, a sparsely populated area or a very sparsely populated area;
+
+(56) ‘means of transport’ means rail transport, road freight transport, inland waterway transport, maritime transport, air transport, and intermodal transport;
+
+(57) ‘urban development fund’ (‘UDF’) means a specialised investment vehicle set up for the purpose of investing in urban development projects under an urban development aid measure. UDFs are managed by an urban development fund manager;
+
+(58) ‘urban development fund manager’ means a professional management company with legal personality, selecting and making investments in eligible urban development projects;
+
+(59) ‘urban development project’ (‘UDP’) means an investment project that has the potential to support the implementation of interventions envisaged by an integrated approach to sustainable urban development and contribute to achieving of the objectives defined therein, including projects with an internal rate of return which may not be sufficient to attract financing on a purely commercial basis. An urban development project may be organised as a separate block of finance within the legal structures of the beneficiary private investor or as a separate legal entity, e.g. a special purpose vehicle;
+
+(60) ‘integrated sustainable urban development strategy’ means a strategy officially proposed and certified by a relevant local authority or public sector agency, defined for a specific urban geographic area and period, that set out integrated actions to tackle the economic, environmental, climate, demographic and social challenges affecting urban areas;
+
+(61) ‘in-kind contribution’ means the contribution of land or real estate where the land or real estate forms part of the urban development project;
+
+(61a) ‘relocation’ means a transfer of the same or similar activity or part thereof from an establishment in one contracting party to the EEA Agreement (initial establishment) to the establishment in which the aided investment takes place in another contracting party to the EEA Agreement (aided establishment). There is a transfer if the product or service in the initial and in the aided establishments serves at least partly the same purposes and meets the demands or needs of the same type of customers and jobs are lost in the same or similar activity in one of the initial establishments of the beneficiary in the EEA;
+
+**Definitions for Aid to SMEs**
+
+(62) ‘employment directly created by an investment project’ means employment concerning the activity to which the investment relates, including employment created following an increase in the utilisation rate of the capacity created by the investment;
+
+**Definitions for Aid for access to finance for SMEs**
+
+(66) ‘quasi-equity investment’ means a type of financing that ranks between equity and debt, having a higher risk than senior debt and a lower risk than common equity and whose return for the holder is predominantly based on the profits or losses of the underlying target undertaking and which are unsecured in the event of default. Quasi-equity investments can be structured as debt, unsecured and subordinated, including mezzanine debt, and in some cases convertible into equity, or as preferred equity;
+
+(67) ‘guarantee’ in the context of sections 1, 3 and 7 of the Regulation means a written commitment to assume responsibility for all or part of a third party's newly originated loan transactions such as debt or lease instruments, as well as quasi-equity instruments.;
+
+(68) ‘guarantee rate’ means the percentage of loss coverage by a public investor of each and every transaction eligible under the relevant State aid measure;
+
+(69) ‘exit’ means the liquidation of holdings by a financial intermediary or investor, including trade sale, write-offs, repayment of shares/loans, sale to another financial intermediary or another investor, sale to a financial institution and sale by public offering, including an initial public offering (IPO);
+
+(70) ‘financial endowment’ means a repayable public investment made to a financial intermediary for the purposes of making investments under a risk finance measure, and where all the proceeds shall be returned to the public investor;
+
+(71) ‘risk finance investment’ means equity and quasi-equity investments, loans including leases, guarantees, or a mix thereof to eligible undertakings for the purposes of making new investments;
+
+(72) ‘independent private investor’ means an investor who is private and independent, as defined in this point. ‘Private’ investors mean investors who, irrespective of their ownership structure, pursue a purely commercial interest, use their own resources and bear the full risk in respect of their investment, and include, in particular: credit institutions investing at own risk and from own resources, private endowments and foundations, family offices and business angels, corporate investors, insurance undertakings, pension funds, academic institutions, as well as natural persons who either conduct an economic activity or not. The European Investment Bank, the European Investment Fund, an international financial institution in which a Member State is a shareholder, or a legal entity that carries out financial activities on a professional basis which has been given a mandate by a Member State or a Member State’s entity at central, regional or local level to carry out development or promotional activities (national promotional bank or another promotional institution), will not be considered private investors for the purposes of this definition. ‘Independent’ investor means an investor that is not a shareholder of the eligible undertaking in which it invests. In the context of follow-on investments, an investor remains ‘independent’ if it was considered as an independent investor in a previous investment round. Upon the creation of a new company, any private investors, including the founders, of such new company, are considered to be independent from that company;
+
+(73) ‘natural person’ for the purpose of Articles 21a and 23 means a person other than a legal entity and who is not an undertaking for the purposes of Article 107(1) of the Treaty;
+
+(74) ‘equity investment’ means the provision of capital to an undertaking, invested directly or indirectly in return for the ownership of a corresponding share of that undertaking;
+
+(75) ‘first commercial sale’ means the first sale by a company on a product or service market, excluding limited sales to test the market;
+
+(76) ‘unlisted SME’ means an SME which is not listed on the official list of a stock exchange, except for alternative trading platforms.
+
+(77) ‘follow-on investment’ means additional risk finance investment in a company subsequent to one or more previous risk finance investment rounds;
+
+(78) ‘replacement capital’ means the purchase of existing shares in a company from an earlier investor or shareholder;
+
+(79) ‘entrusted entity’ means the European Investment Bank and the European Investment Fund, an international financial institution in which a Member State is a shareholder, or a legal entity that carries out financial activities on a professional basis which has been given mandate by a Member State or a Member State’s entity at central, regional or local level to carry out development or promotional activities (a promotional bank or another promotional institution). The entrusted entity can be selected or directly appointed in accordance with the provisions of Directive 2014/24/EU of the European Parliament and of the Council (9) or in accordance with Article 38(4), point (b)(iii), of Regulation (EU) No 1303/2013 of the European Parliament and of the Council (10) or Article 59(3) of Regulation (EU) 2021/1060 of the European Parliament and of the Council (11), whichever is applicable;
+
+(80) ‘innovative enterprise’ means an enterprise that meets one of the following conditions: (a) it can demonstrate, by means of an evaluation carried out by an external expert, that it will in the foreseeable future develop products, services or processes which are new or substantially improved compared to the state of the art in its industry, and which carry a risk of technological or industrial failure; (b) its research and development costs represent at least 10 % of its total operating costs in at least one of the 3 years preceding the granting of the aid or, in the case of a start-up enterprise without any financial history, in the audit of its current fiscal period, as certified by an external auditor; (c) in the 3 years preceding the granting of the aid: (i) it has been awarded a Seal of Excellence quality label by the European Innovation Council in accordance with the Horizon 2020 work programme 2018-2020 adopted by Commission Implementing Decision C(2017)7124 (12) or with Article 2(23) and Article15(2) of Regulation (EU) 2021/695 of the European Parliament and of the Council (13); or (ii) it has received an investment by the European Innovation Council Fund, such as an investment in the context of the Accelerator Programme as referred to in Article 48(7) of Regulation (EU) 2021/695; (d) in the 3 years preceding the granting of the aid: (i) it has participated in any action of the Commission’s space initiative ‘CASSINI’ (such as the Business Accelerator or the Matchmaking) (14); or (ii) it has received investment from the CASSINI Seed and Growth Funding Facility, or the InnovFin Space Equity Pilot; or (iii) it has been awarded a CASSINI Prize; or (iv) it has been granted funding in accordance with Regulation (EU) 2021/695 in the space research area resulting in the creation of a start-up; (v) or has been granted funding as a beneficiary of a research and development action under the European Defence Fund in accordance with Regulation (EU) 2021/697 of the European Parliament and of the Council (15); or (vi) has been granted funding under the European Defence Industrial Development Programme in accordance with Regulation (EU) 2018/1092 of the European Parliament and of the Council (16);
+
+(81) ‘alternative trading platform’ means a multilateral trading facility as defined in Article 4(1), point (22) of Directive 2014/65/EU of the European Parliament and of the Council (17) where at least 50 % of the financial instruments admitted to trading are issued by SMEs;
+
+(82) ‘loan’ means an agreement which obliges the lender to make available to the borrower an agreed amount of money for an agreed period of time and under which the borrower is obliged to repay the amount within the agreed period. It may take the form of a loan, or another funding instrument, including a lease, which provides the lender with a predominant component of minimum yield. The refinancing of existing loans shall not be an eligible loan.
+
+**Definitions for Aid for research and development and innovation**
+
+(83) ‘research and knowledge-dissemination organisation’ means an entity (such as universities or research institutes, technology transfer agencies, innovation intermediaries, research-oriented physical or virtual collaborative entities), irrespective of its legal status (organised under public or private law) or way of financing, whose primary goal is to independently conduct fundamental research, industrial research or experimental development or to widely disseminate the results of such activities by way of teaching, publication or knowledge transfer. Where such entity also pursues economic activities the financing, the costs and the revenues of those economic activities must be accounted for separately. Undertakings that can exert a decisive influence upon such an entity, in the quality of, for example, shareholders or members, may not enjoy preferential access to the results generated by it;
+
+(84) ‘fundamental research’ means experimental or theoretical work undertaken primarily to acquire new knowledge of the underlying foundations of phenomena and observable facts, without any direct commercial application or use in view;
+
+(85) ‘industrial research’ means the planned research or critical investigation aimed at the acquisition of new knowledge and skills for developing new products, processes or services or aimed at bringing about a significant improvement in existing products, processes or services, including digital products, processes or services, in any area, technology, industry or sector (including, but not limited to, digital industries and technologies, such as super-computing, quantum technologies, block chain technologies, artificial intelligence, cyber security, big data and cloud technologies). Industrial research comprises the creation of components parts of complex systems, and may include the construction of prototypes in a laboratory environment or in an environment with simulated interfaces to existing systems as well as of pilot lines, when necessary for the industrial research and notably for generic technology validation;
+
+(86) ‘experimental development’ means acquiring, combining, shaping and using existing scientific, technological, business and other relevant knowledge and skills with the aim of developing new or improved products, processes or services, including digital products, processes or services, in any area, technology, industry or sector (including, but not limited to, digital industries and technologies, such as for example super-computing, quantum technologies, block chain technologies, artificial intelligence, cyber security, big data and cloud or edge technologies). This may also encompass, for example, activities aiming at the conceptual definition, planning and documentation of new products, processes or services. Experimental development may comprise prototyping, demonstrating, piloting, testing and validation of new or improved products, processes or services in environments representative of real life operating conditions where the primary objective is to make further technical improvements on products, processes or services that are not substantially set. This may include the development of a commercially usable prototype or pilot which is necessarily the final commercial product and which is too expensive to produce for it to be used only for demonstration and validation purposes. Experimental development does not include routine or periodic changes made to existing products, production lines, manufacturing processes, services and other operations in progress, even if those changes may represent improvements;
+
+(87) ‘feasibility study’ means the evaluation and analysis of the potential of a project, which aims at supporting the process of decision-making by objectively and rationally uncovering its strengths and weaknesses, opportunities and threats, as well as identifying the resources required to carry it through and ultimately its prospects for success;
+
+(88) ‘personnel costs’ means the costs of researchers, technicians and other supporting staff to the extent employed on the relevant project or activity;
+
+(90) ‘effective collaboration’ means collaboration between at least two independent parties to exchange knowledge or technology, or to achieve a common objective based on the division of labour where the parties jointly define the scope of the collaborative project, contribute to its implementation and share its risks, as well as its results. One or several parties may bear the full costs of the project and thus relieve other parties of its financial risks. Contract research and provision of research services are not considered forms of collaboration;
+
+(90a) ‘Non-defence applications’ for the purposes of Article 25e refers to applications in products other than defence-related products listed in the Annex to Directive 2009/43/EC of the European Parliament and of the Council (18);
+
+(91) ‘research infrastructure’ means facilities, resources and related services that are used by the scientific community to conduct research in their respective fields and covers scientific equipment or sets of instruments, knowledge-based resources such as collections, archives or structured scientific information, enabling information and communication technology-based infrastructures such as grid, computing, software and communication, or any other entity of a unique nature essential to conduct research. Such infrastructures may be ‘single-sited’ or ‘distributed’ (an organised network of resources) in accordance with Article 2(a) of Council Regulation (EC) No 723/2009 of 25 June 2009 on the Community legal framework for a European Research Infrastructure Consortium (ERIC) (19);
+
+(92) ‘innovation clusters’ means structures or organised groups of independent parties (such as innovative start-ups, small, medium and large enterprises, as well as research and knowledge dissemination organisations, research infrastructures, testing and experimentation infrastructures, Digital Innovation Hubs, non-for-profit organisations and other related economic actors) designed to stimulate innovative activity and new ways of collaboration, such as by digital means, by sharing and/or promoting the sharing of facilities and exchange of knowledge, and expertise and by contributing effectively to knowledge transfer, networking, information dissemination and collaboration among the undertakings and other organisations in the cluster. Digital Innovation Hubs, including European Digital Innovation Hubs funded under the centrally managed Digital Europe Programme established by Regulation (EU) 2021/694 of the European Parliament and of the Council (20), are entities whose aim is to stimulate the broad uptake of digital technologies, such as artificial intelligence, cloud, edge and high-performance computing and cybersecurity, by industry (in particular by SMEs) and public sector organisations. Digital Innovation Hubs may qualify as an innovation cluster by themselves for the purposes of this Regulation;
+
+(93) ‘highly qualified personnel’ means staff having a tertiary education degree and at least 5 years of relevant professional experience which may also include doctoral training;
+
+(94) ‘innovation advisory services’ means consultancy, assistance or training in the fields of knowledge transfer, acquisition, protection or exploitation of intangible assets or the use of standards and regulations embedding them, as well as consultancy, assistance or training on the introduction or use of innovative technologies and solutions (including digital technologies and solutions);
+
+(95) ‘innovation support services’ means the provision of office space, data banks, cloud and data storage services, libraries, market research, laboratories, quality labelling, testing, experimentation and certification or other related services, including those services provided by research and knowledge dissemination organisations, research infrastructures, testing and experimentation infrastructures or innovation clusters, for the purpose of developing more effective or technologically advanced products, processes or services, including the implementation of innovative technologies and solutions (including digital technologies and solutions);
+
+(96) ‘organisational innovation’ means the implementation of a new organisational method at the level of the undertaking (at group level in the given industry sector in the EEA), workplace organisation or external relations, including for instance by making use of novel or innovative digital technologies. Excluded from this definition are changes that are based on organisational methods already in use in the undertaking, changes in management strategy, mergers and acquisitions, ceasing to use a process, simple capital replacement or extension, changes resulting purely from changes in factor prices, customisation, localisation, regular, seasonal and other cyclical changes and trading of new or significantly improved products;
+
+(97) ‘process innovation’ means the implementation of a new or significantly improved production or delivery method, including significant changes in techniques, equipment or software, at the level of the undertaking (at group level in the given industry sector in the EEA), including for instance by making use of novel or innovative digital technologies or solutions. Excluded from this definition are minor changes or improvements, increases in production or service capabilities through the addition of manufacturing or logistical systems which are very similar to those already in use, ceasing to use a process, simple capital replacement or extension, changes resulting purely from changes in factor prices, customisation, localisation, regular, seasonal and other cyclical changes and trading of new or significantly improved products;
+
+(98) ‘secondment’ means temporary employment of staff by a beneficiary with the right for the staff to return to the previous employer;
+
+(98a) ‘testing and experimentation infrastructure’ means facilities, equipment, capabilities and resources, such as test beds, pilot lines, demonstrators, testing facilities or living labs, and related support services that are used predominantly by undertakings, especially SMEs, which seek support for testing and experimentation, in order to develop new or improved products, processes and services, and to test and upscale technologies, to advance through industrial research and experimental development. Access to publicly funded testing and experimentation infrastructures is open to several users and must be granted on a transparent and non-discriminatory basis and on market terms. Testing and experimentation infrastructures are sometimes also known as technology infrastructures (21);
+
+**Definitions for aid for disadvantaged workers and for workers with disabilities**
+
+(99) ‘severely disadvantaged worker’ means any person who: (a) has not been in regular paid employment for at least 24 months; or (b) has not been in regular paid employment for at least 12 months and belongs to one of the categories (b) to (g) mentioned under the definition of ‘disadvantaged worker’.
+
+(100) ‘sheltered employment’ means employment in an undertaking where at least 30 % of workers are workers with disabilities;
+
+**Definitions applying to aid for environmental protection**
+
+(101) ‘environmental protection’ means any action or activity designed to reduce or prevent pollution, negative environmental impacts or other damage to physical surroundings (including to air, water and soil), ecosystems or natural resources by human activities, including to mitigate climate change, to reduce the risk of such damage, to protect and restore biodiversity or to lead to more efficient use of natural resources, including energy-saving measures and the use of renewable sources of energy and other techniques to reduce greenhouse gas emissions and other pollutants, as well as to shift to circular economy models to reduce the use of primary materials and increase efficiencies. It also covers actions that reinforce adaptive capacity and minimise vulnerability to climate impacts;
+
+(102) ‘Union standard’ means: (a) a mandatory Union standard setting the levels to be attained in environmental terms by individual undertakings, excluding standards or targets set at Union level which are binding for Member States but not for individual undertakings; or (b) the obligation to use the best available techniques (BAT), as defined in Directive 2010/75/EU of the European Parliament and of the Council (22), and to ensure that emission levels do not exceed those that would be achieved when applying BAT; where emission levels associated with the BAT have been defined in implementing acts adopted under Directive 2010/75/EU or under other applicable directives, those levels will be applicable for the purposes of this Regulation; where those levels are expressed as a range, the limit for which the BAT is first achieved for the undertaking concerned will be applicable;
+
+(102a) ‘recharging infrastructure’ means a fixed or mobile infrastructure supplying vehicles or mobile terminal equipment or mobile groundhandling equipment with electricity;
+
+(102b) ‘refuelling infrastructure’ means a fixed or mobile infrastructure supplying vehicles or mobile terminal equipment or mobile groundhandling equipment with hydrogen;
+
+(102c) ‘renewable hydrogen’ means hydrogen produced from renewable energy in accordance with the methodologies set out for renewable liquid and gaseous transport fuels of non-biological origin in Directive (EU) 2018/2001 of the European Parliament and of the Council (23);
+
+(102d) ‘renewable electricity’ means electricity generated from renewable sources, as defined in Article 2, point (1), of Directive (EU) 2018/2001;
+
+(102e) ‘smart recharging’ means a recharging operation in which the intensity of electricity delivered to the battery is adjusted in real-time, based on information received through electronic communication;
+
+(102f) ‘clean vehicle’ means: (a) concerning light-duty road vehicles: a clean vehicle as defined in Article 4, point (4)(a), of Directive 2009/33/EC of the European Parliament and of the Council (24); (b) concerning heavy-duty road vehicles: — 25 — until 31 December 2025, a clean vehicle as defined in Article 4, point (4)(b), of Directive 2009/33/EC and not falling within the scope of Regulation (EU) 2019/1242; (c) concerning inland waterway vessels: — 2 — 2 2 2 (d) concerning maritime vessels: — 2 2 — 2 2 (e) concerning rail rolling stock: rolling stock that has zero direct tailpipe CO2 emissions when operated on a track with necessary infrastructure and that uses a conventional engine where such infrastructure is not available (bimode);
+
+(102g) ‘zero-emission vehicle’ means: (a) concerning two- and three-wheel vehicles and quadricycles: a vehicle falling within the scope of Regulation (EU) No 168/2013 of the European Parliament and of the Council (26) with zero tailpipe CO2 emissions, calculated in accordance with the requirements laid down in Article 24 and Annex V to that Regulation; (b) concerning light-duty road vehicles: a vehicle of category M1, M2 or N1 with zero tailpipe CO2 emissions, as determined in accordance with the requirements laid down in Commission Regulation (EU) 2017/1151 (27); (c) concerning heavy-duty road vehicles: a zero-emission heavy duty vehicle as defined in Article 4, point (5), of Directive 2009/33/EC; (d) concerning inland waterway vessels: an inland vessel for passenger or freight transport with zero direct (tailpipe/exhaust) CO2 emissions; (e) concerning maritime vessels: a sea and coastal vessel for passenger or freight transport, for port operations or for auxiliary activities that has zero direct (tailpipe) CO2 emissions; (f) concerning rail rolling stock: rolling stock that has zero direct (tailpipe) CO2 emissions;
+
+(102h) ‘vehicle’ means any of the following: (a) a road vehicle of category M1, M2, N1, M3, N2, N3 or L; (b) an inland or a sea and coastal vessel for passenger or freight transport; (c) rolling stock; (d) aircraft;
+
+(102i) ‘mobile groundhandling equipment’ means mobile equipment used in service activities incidental to air or maritime transport;
+
+(102j) ‘mobile terminal equipment’ means mobile equipment used for the loading, unloading and transhipment of goods and intermodal loading units, and for moving cargo within a terminal area;
+
+(103) ‘energy efficiency’ means energy efficiency as defined in Article 2, point (4), of Directive 2012/27/EU of the European Parliament and of the Council (28);
+
+(103a) ‘primary energy’ means energy from renewable and non-renewable sources which has not undergone any conversion or transformation process;
+
+(103c) ‘digitalisation’ means the adoption of technologies carried out by electronic devices and/or systems which make it possible to increase product functionality, develop online services, modernise processes, or migrate to business models based on the disintermediation of goods production and service delivery, eventually producing a transformative impact;
+
+(103d) ‘smart-readiness’ means the capability of buildings or building units to adapt their operation to the needs of the occupant, including optimising energy efficiency and overall performance, and to adapt their operation in response to signals from the grid;
+
+(103e) ‘small mid-cap’ means an undertaking that is not an SME and whose number of employees does not exceed 499, calculated in accordance with Articles 3 to 6 of Annex I, the annual turnover of which does not exceed EUR 100 million or the annual balance sheet of which does not exceed EUR 86 million; several entities shall be considered as one undertaking if any of the conditions listed in Article 3(3) of Annex I is fulfilled. For the purpose of the application of Article 56e(10) and Article 56f, small mid-cap means an undertaking that is not an SME and employs up to 499 employees;
+
+(103f) ‘energy savings’ means energy savings as defined in Article 2, point (5), of Directive 2012/27/EU;
+
+(104) ‘energy efficiency project’ means an investment project that increases the energy efficiency of a building;
+
+(105) ‘energy efficiency fund’ or ‘EEF’ means a special investment vehicle set up for the purpose of investing in energy efficiency projects aimed at improving the energy efficiency of buildings. EEFs are managed by an energy efficiency fund manager;
+
+(106) ‘energy efficiency fund manager’ means a professional management company with a legal personality, selecting and making investments in eligible energy efficiency projects;
+
+(107) ‘high-efficiency cogeneration’ means cogeneration which satisfies the definition of high efficiency cogeneration as set out in Article 2(34) of Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (29);
+
+(108) ‘cogeneration’ or ‘combined heat and power’ or ‘CHP’ means cogeneration as defined in Article 2, point (30), of Directive 2012/27/EU;
+
+(108a) ‘cogeneration based on renewable energy sources’ means cogeneration using 100 % energy from renewable sources as an input for the production of heat and power;
+
+(108b) ‘heat pump’ means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground to buildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature. For reversible heat pumps, it may also move heat from the building to the natural surroundings;
+
+(109) ‘energy from renewable sources’ or ‘renewable energy’ means energy produced by plants using only renewable energy sources as defined in Article 2, point (1), of Directive (EU) 2018/2001, as well as the share in terms of calorific value of energy produced from renewable energy sources in hybrid plants which also use conventional energy sources and includes renewable electricity used for filling storage systems connected behind-the-meter (jointly installed or as an add-on to the renewable installation), but excludes electricity produced as a result of storage systems;
+
+(109a) ‘renewable energy community’ means renewable energy community as defined in Article 2, point (16) of Directive (EU) 2018/2001;
+
+(114) ‘innovative technology’ means a new and recently qualified technology compared to the state of the art in the industry, which carries a risk of technological or industrial failure and is not an optimisation or scaling up of an existing technology;
+
+(114a) ‘demonstration project’ means demonstration project as defined in Article 2, point (24), of Regulation (EU) 2019/943 of the European Parliament and of the Council (30);
+
+(114b) ‘contract for difference’ means an aid instrument which entitles the beneficiary to a payment equal to the difference between a fixed ‘strike’ price(s) and a reference price – such as a market price, per unit of output;
+
+(115) ‘balancing’ for electricity means balancing as defined in Article 2, point (10), of Regulation (EU) 2019/943;
+
+(116) ‘standard balancing responsibilities’ means non-discriminatory balancing responsibilities across technologies which do not exempt from balance responsibility any generator as set out in Article 5 of Regulation (EU) 2019/943;
+
+(116a) ‘balance responsible party (BRP)’ means balance responsible party as defined in Article 2, point (14), of Regulation (EU) 2019/943;
+
+(117) ‘biomass’ means the biodegradable fraction of products, waste and residues from biological origin, as defined in Article 2, point (24), of Directive (EU) 2018/2001;
+
+(117a) ‘biofuels’ means biofuels as defined in Article 2, point (33), of Directive (EU) 2018/2001;
+
+(117b) ‘biogas’ means biogas as defined in Article 2, point (28), of Directive (EU) 2018/2001;
+
+(117c) ‘bioliquids’ means bioliquids as defined in Article 2, point (32), of Directive (EU) 2018/2001;
+
+(117d) ‘biomass fuels’ means biomass fuels as defined in Article 2, point (27), of Directive (EU) 2018/2001;
+
+(118) ‘funding gap’ means the net extra cost determined by the difference between the economic revenues and costs (including the investment and operation) of the aided project and those of the alternative project which the aid beneficiary would credibly carry out in the absence of aid. To determine the funding gap, the Member State must quantify, for the factual scenario and a credible counterfactual scenario, all main costs and revenues, the estimated weighted average cost of capital (‘WACC’) of the beneficiaries to discount future cash flows, as well as the net present value (‘NPV’) for the factual and counterfactual scenarios, over the lifetime of the project. The typical net extra cost can be estimated as the difference between the NPV for the factual scenario and for the counterfactual scenario over the lifetime of the reference project;
+
+(119) ‘environmental tax or parafiscal levy’ means a tax or a levy applied on a specific tax base, products or services that have a clear negative effect on the environment or which seeks to charge certain activities, goods or services so that the environmental costs may be included in their price or so that producers and consumers are oriented towards activities which better respect the environment;
+
+(120) ‘Union minimum tax level’ means the minimum level of taxation provided for in the Union legislation; for energy products and electricity it means the minimum level of taxation laid down in Annex I to Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (31);
+
+(121a) ‘remediation’ means environmental management actions, such as the removal or detoxification of contaminates or excess nutrients from soil and water, that aim to remove sources of degradation;
+
+(121b) ‘rehabilitation’ means environmental management actions that aim to reinstate a level of ecosystem functioning on degraded sites, where the goal is renewed and ongoing provision of ecosystem services rather than the biodiversity and integrity of a designated natural or semi-natural reference ecosystem;
+
+(121c) ‘ecosystem’ means ecosystem as defined in Article 2, point (13), of Regulation (EU) 2020/852 of the European Parliament and of the Council (32);
+
+(121d) ‘biodiversity’ means biodiversity as defined in Article 2, point (15), of Regulation (EU) 2020/852;
+
+(122) ‘polluter pays principle’ or ‘PPP’ means that the costs of measures to deal with pollution should be borne by the polluter who causes the pollution;
+
+(123) ‘pollution’ means the damage caused by a polluter directly or indirectly damaging the environment, or by creating conditions leading to such damage to physical surroundings or natural resources;
+
+(123a) ‘pollutant’ means a pollutant as defined in Article 2, point (10), of Regulation (EU) 2020/852;
+
+(123b) ‘pollution’ means pollution as defined in Article 3, point (2), of Directive 2010/75/EU;
+
+(123c) ‘nature-based solution’ means an action to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which addresses social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services, resilience and biodiversity benefits;
+
+(123d) ‘restoration’ means the process of assisting the recovery of an ecosystem as a means of conserving biodiversity and increasing ecosystem resilience, notably to climate change. The restoration of ecosystems includes measures taken for the improvement of the condition of an ecosystem and the recreation or re-establishment of an ecosystem where that condition was lost and the improvement of ecosystem resilience and adaptation to climate change;
+
+(124) ‘energy efficient district heating and cooling’ means efficient district heating and cooling as defined in Article 2, point (41), of Directive 2012/27/EU;
+
+(124a) ‘district heating’ and ‘district cooling’ means district heating or district cooling as defined in Article 2, point (19), of Directive 2010/31/EU;
+
+(124b) ‘district heating and cooling systems’, means heating and/or cooling generation facilities, thermal storage and distribution network, comprising both primary – transmission – and secondary network of pipelines, to supply heating or cooling to consumers. Reference to district heating is to be interpreted as district heating and/or cooling systems, depending on whether the networks supply heat or cooling jointly or separately;
+
+(125) ‘polluter’ means someone who directly or indirectly damages the environment or who creates conditions leading to such damage.
+
+(126) ‘re-use’ means re-use as defined in Article 3, point (13), of Directive 2008/98/EC of the European Parliament and of the Council (33);
+
+(127) ‘preparing for re-use’ means preparing for re-use as defined in Article 3, point (16), of Directive 2008/98/EC;
+
+(128) ‘recycling’ means recycling as defined in Article 3, point (17), of Directive 2008/98/EC;
+
+(128a) ‘resource efficiency’ means reducing the quantity of inputs needed to produce a unit of output or substituting primary inputs with secondary inputs;
+
+(128b) ‘waste’ means waste as defined in Article 3, point (1), of Directive 2008/98/EC;
+
+(128c) ‘waste heat’ means waste heat as defined in Article 2, point (9), of Directive (EU) 2018/2001;
+
+(128d) ‘treatment’ means treatment as defined in Article 3, point (14), of Directive 2008/98/EC as well as treatment of other products, materials, or substances;
+
+(128e) ‘recovery’ means recovery as defined in Article 3, point (15), of Directive 2008/98/EC as well as recovery of other products, materials or substances;
+
+(128f) ‘disposal’ means disposal as defined in Article 3, point (19), of Directive 2008/98/EC;
+
+(128g) ‘other products, materials or substances’ means materials, products and substances other than waste, including by-products referred to in Article 5 of Directive 2008/98/EC, agricultural and forestry residues, waste water, rain water and runoff water, minerals, nutrients, residual gases from production processes, and redundant products, parts and materials;
+
+(128h) ‘redundant products, parts and materials’ means products, parts or materials that are no longer needed by or useful for its holder but are suitable for re-use;
+
+(128i) ‘separate collection’ means separate collection as defined in Article 3, point (11), of Directive 2008/98/EC;
+
+(130) ‘energy infrastructure’ means any physical equipment or facility which is located within the Union or linking the Union to one or more third countries and falling under the following categories: (a) electricity: (i) transmission and distribution systems, where ‘transmission’ means the transport of electricity onshore as well as offshore on the extra high-voltage and high-voltage interconnected system with a view to its delivery to final customers or to distributors, but does not include supply and ‘distribution’ means the transport of electricity onshore as well as offshore on high-voltage, medium-voltage and low-voltage distribution systems with a view to its delivery to customers, but does not include supply; (ii) any equipment or installation essential for the systems referred to in point (i) to operate safely, securely and efficiently, including protection, monitoring and control systems at all voltage levels and substations; (iii) fully integrated network components, as defined in Article 2, point (51), of Directive (EU) 2019/944 of the European Parliament and of the Council (34); (iv) smart electricity grids, which means systems and components integrating information and communications technology, through operational digital platforms, control systems and sensor technologies both at transmission and distribution level, aiming at a more secure, efficient and intelligent electricity transmission and distribution network, increased capacity to integrate new forms of generation, storage and consumption and facilitating new business models and market structures; (v) off-shore electricity grids, which means any equipment or installation of electricity transmission or distribution infrastructure as defined in point (i), which has dual functionality: interconnection and transmission or distribution of offshore renewable electricity from the offshore generation sites to two or more countries. This also includes smart grids as well as any offshore adjacent equipment or installation essential to operate safely, securely and efficiently, including protection, monitoring and control systems, and necessary substations if they also ensure technology interoperability and among other interface compatibility between different technologies; (b) gas (natural gas, biogas- including biomethane – and/or renewable gas of non-biological origin): (i) transmission and distribution pipelines for the transport of gas that form part of a network, excluding high-pressure pipelines used for upstream distribution of natural gas; (ii) underground storage facilities connected to the high-pressure gas pipelines referred to in point (i); (iii) reception, storage and regasification or decompression facilities for liquefied or compressed gas; (iv) any equipment or installation essential for the system to operate safely, securely and efficiently or to enable bi-directional capacity, including compressor stations; (v) smart gas grids, which means any of the following equipment or installation aiming at enabling and facilitating the integration of renewable and low-carbon gases (including hydrogen or gases of non-biological origin) into the network: digital systems and components integrating information and communication technologies, control systems and sensor technologies to enable the interactive and intelligent monitoring, metering, quality control and management of gas production, transmission, distribution and consumption within a gas network. Furthermore, smart grids may also include equipment to enable reverse flows from the distribution to the transmission level and related necessary upgrades to the existing network; (c) hydrogen: (i) transmission pipelines, for the high-pressure transport of hydrogen, as well as distribution pipelines for the local distribution of hydrogen, giving access to multiple network users on a transparent and non-discriminatory basis; (ii) storage facilities, which means facilities used for the stocking of hydrogen of a high grade of purity, including the part of a hydrogen terminal used for storage but excluding the portion used for production operations, and including facilities reserved exclusively for hydrogen network operators in carrying out their functions. Hydrogen storage facilities include underground storage facilities connected to the high-pressure hydrogen pipelines referred to in point (i); (iii) dispatch, reception, storage and regasification or decompression facilities for hydrogen or hydrogen embedded in other chemical substances with the objective of injecting the hydrogen into the grid either for gas or dedicated to hydrogen; (iv) terminals, which means installations used for the transformation of liquid hydrogen into gaseous hydrogen for injection into the hydrogen network. Terminals include ancillary equipment and temporary storage necessary for the transformation process and subsequent injection into the hydrogen network, but does not include any part of the hydrogen terminal used for storage; (v) interconnectors, which means a hydrogen network (or part thereof) which crosses or spans a border between Member States, or between a Member State and a third country up to the territory of the Member States or the territorial sea of that Member State; (vi) any equipment or installation essential for the hydrogen system to operate safely, securely and efficiently or to enable bi-directional capacity, including compressor stations; Any of the assets listed under points (i) to (vi) may be newly constructed assets or assets converted from natural gas to hydrogen, or a combination of the two. Assets listed under points (i) to (vi), which are subject to third party access shall qualify as energy infrastructure; (d) carbon dioxide: (i) pipelines, other than upstream pipeline network, used to transport carbon dioxide from more than one source, this is to say, industrial installations (including power plants) that produce carbon dioxide gas from combustion or other chemical reactions involving fossil or non-fossil carbon-containing compounds, for the purpose of permanent geological storage of carbon dioxide pursuant to Article 3 of Directive 2009/31/EC of the European Parliament and of the Council (35) or for the purpose of use of carbon dioxide as feedstock or to enhance the yields of biological processes; (ii) facilities for liquefaction and buffer storage of carbon dioxide in view of its transport or storage. This does not include infrastructure within a geological formation used for the permanent geological storage of carbon dioxide pursuant to Article 3 of Directive 2009/31/EC and associated surface and injection facilities; (iii) any equipment or installation essential for the system in question to operate properly, securely and efficiently, including protection, monitoring and control systems. This may include dedicated mobile assets for the transport and storage of carbon dioxide, provided that such mobile assets fulfil the definition of a clean vehicle; Assets listed under points (i), (ii) and (iii) which are subject to third party access shall qualify as energy infrastructure; (e) infrastructure used for transmission or distribution of thermal energy in the form of steam, hot water or chilled liquids from multiple producers or users, based on use of renewable energy or waste heat from industrial applications; (f) Projects of Common Interest, as defined in Article 2, point (4), of Regulation (EU) No 347/2013 of the European Parliament and of the Council (36) and project of mutual interest referred to in Article 171 of the Treaty; (g) other infrastructure categories that enable physical or wireless connection of renewable or carbon-free energy between producers and users from multiple access and exit points and which are open to access by third parties not belonging to the infrastructure owner or manager undertakings; Assets listed under points (a) to (g) which are built for one or a small group of *ex ante* identified users and tailored to their needs (‘dedicated infrastructure’) shall not qualify as energy infrastructure.
+
+(130a) ‘distribution system operator’ (DSO) means a distribution system operator as defined in Article 2, point (29), of Directive (EU) 2019/944;
+
+(130b) ‘transmission system operator’ (TSO) means a transmission system operator as defined in Article 2, point (35), of Directive (EU) 2019/944;
+
+(130c) ‘electricity storage’ means deferring the final use of electricity to a moment later than when it was generated, or the conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy;
+
+(130d) ‘thermal storage’ means deferring the final use of thermal energy to a moment later than when it was generated, or the conversion of electrical or thermal energy into a form of energy which can be stored, the storing of such energy, and, where appropriate, the subsequent conversion or reconversion of such energy into thermal energy for final use (i.e., heating or cooling);
+
+(131) ‘internal energy market legislation’ means Directive (EU) 2019/944, Directive 2009/73/EC of the European Parliament and of the Council (37), Regulation (EU) 2019/943 and Regulation (EC) No 715/2009 of the European Parliament and of the Council (38);
+
+(131a) ‘carbon capture and storage’ or ‘CCS’ means a set of technologies that make it possible to capture the CO2 emitted from industrial plants, including process-inherent emissions, or to capture it directly from ambient air, to transport it to a storage site and inject it in suitable underground geological formations for the purpose of permanent storage;
+
+(131b) ‘carbon capture and use’ or ‘CCU’ means a set of technologies that make it possible to capture the CO2 emitted from industrial plants, including process-inherent emissions, or to capture it directly from ambient air, and to transport it to a CO2-consumption or utilisation site for full usage of that CO2;
+
+**Definitions applying to social aid for transport for residents of remote regions**
+
+(132) ‘normal residence’ means the place where a natural person lives for at least 185 days, in each calendar year, because of personal and occupational ties; in the case of a person whose occupational ties are in a different place from his/her personal ties and who lives in two or more Member States, the place of normal residence is regarded as the place of his/her personal ties provided that he/she returns there regularly; where a person is living in a Member State in order to carry out a task of a set duration, the place of residence is still regarded as being the place of his/her personal ties, irrespective of whether he/she returns there during the course of this activity; attendance at a university or school in another Member State does not constitute a transfer of normal residence; alternatively, ‘normal residence’ shall have the meaning attributed to it in Member States' national law.
+
+**Definitions for aid for broadband infrastructures**
+
+(135) ‘ducts’ means underground pipes or conduits used to house (fibre, copper or coax) cables of a broadband network.
+
+(136) ‘physical unbundling’ grants access to the end-consumer access line and allows competitors' own transmission systems to directly transmit over it.
+
+(137) ‘broadband infrastructure’ means a broadband network without any active component and comprises the physical infrastructure, including ducts, poles, masts, towers, dark fibre, cabinets and cables (including dark fibre and copper cables);
+
+(137a) ‘backhaul network’ means the part of a broadband network that connects the access network to the backbone network and which does not provide direct access to end-users. It is the part of the network where the traffic of end users is aggregated;
+
+(137b) ‘backbone network’ means the core network that interconnects backhaul networks from different areas or regions;
+
+(137c) ‘access network’ means the segment of a broadband network that connects the backhaul network with the end users’ premises or devices;
+
+(139) ‘wholesale access’ means access which enables an operator to utilise the facilities of another operator. The wholesale access shall include, on the basis of the current technological developments, at least the following access products: (i) for FTTx networks: access to the broadband infrastructure, unbundling and bitstream access; (ii) for cable networks: access to the broadband infrastructure and access to active services; (iii) for fixed wireless networks: access to the broadband infrastructure and access to active services; (iv) for mobile networks: access to the broadband infrastructure and access to active services (at least roaming); (v) for satellite platforms: access to active services; (vi) for backhaul networks: access to the broadband infrastructure and access to active services;
+
+(139a) ‘premises passed’ means end-user premises to which, upon request from end-users and within 4 weeks from the date of request, a provider can provide broadband services (regardless of whether these premises are already connected or not connected to the network). The price charged for the provision of broadband services at the end users’ premises in this case must not exceed normal connection fees, meaning it must not include any additional or exceptional cost as compared to the standard commercial practice and, in any case, must not exceed the usual price in the Member State concerned. That price must be determined by the competent national authority;
+
+(139b) ‘socioeconomic drivers’ means entities which by their mission, nature or location can directly or indirectly generate important socioeconomic benefits to citizens, business and local communities located in their surrounding territory or in their area of influence, including among others public authorities, public or private entities entrusted with the operation of services of general interest or of services of general economic interest as set out in Article 106(2) of the Treaty and digitally intensive enterprises;
+
+(139c) ‘5G corridor’ means a transport path, road, railway or inland waterway, fully covered with digital connectivity infrastructure, in particular 5G systems, and enabling the uninterrupted provision of synergy digital services as defined in Regulation (EU) 2021/1153 of the European Parliament and of the Council (39), such as connected and automated mobility, similar smart mobility services for railways or digital connectivity on inland waterways;
+
+(139d) ‘peak-time’ means the time of the day with a typical duration of one hour where the network load is usually at its maximum;
+
+(139e) ‘peak-time conditions’ means the conditions under which the network is expected to operate at ‘peak-time’;
+
+(139f) ‘relevant time horizon’ means a time horizon used for verifying planned private investments and corresponds to the time frame that the Member State estimates for deploying the planned State funded network, starting from the moment of publication of the public consultation on the planned State intervention until the entry into operation of the network (i.e. start of the provision of wholesale and/or retail services on the State funded network). The relevant time horizon cannot be shorter than 2 years;
+
+**Definitions for aid for culture and heritage conservation**
+
+(140) ‘difficult audiovisual works’: means the works identified as such by Member States on the basis of pre-defined criteria when setting up schemes or granting the aid and may include films whose sole original version is in a language of a Member State with a limited territory, population or language area, short films, films by first-time and second-time directors, documentaries, or low budget or otherwise commercially difficult works.
+
+(141) Development Assistance Committee (DAC) List of the OECD: means all countries and territories that are eligible to receive official development assistance and included in the list compiled by the Organisation for Economic Cooperation and Development (OECD);
+
+(142) ‘reasonable profit’ shall be determined with respect to the typical profit for the sector concerned. In any event, a rate of return on capital that does not exceed the relevant swap rate plus a premium of 100 basis points will be considered to be reasonable.
+
+**Definitions for aid for sport and multifunctional recreational infrastructures**
+
+(143) ‘professional sport’ means the practice of sport in the nature of gainful employment or remunerated service, irrespective of whether or not a formal labour contract has been established between the professional sportsperson and the relevant sport organisation, where the compensation exceeds the cost of participation and constitutes a significant part of the income for the sportsperson. Travel and accommodation expenses to participate to the sport event shall not be considered as compensation for the purposes of this Regulation.
+
+**Definitions for Aid for regional airports**
+
+(144) ‘airport infrastructure’ means infrastructure and equipment for the provision of airport services by the airport to airlines and the various service providers, including runways, terminals, aprons, taxiways, centralised ground handling infrastructure and any other facilities that directly support the airport services, excluding infrastructure and equipment which is primarily necessary for pursuing non-aeronautical activities;
+
+(145) ‘airline’ means any airline with a valid operating licence issued by a Member State or a Member of the Common European Aviation Area pursuant to Regulation (EC) No 1008/2008 of the European Parliament and of the Council (40);
+
+(146) ‘airport’ means an entity or group of entities performing the economic activity of providing airport services to airlines;
+
+(147) ‘airport services’ means services provided to airlines by an airport or any of its subsidiaries, to ensure the handling of aircraft, from landing to take-off, and of passengers and freight, so as to enable airlines to provide air transport services, including the provision of ground handling services and the provision of centralised ground handling infrastructure;
+
+(148) ‘average annual passenger traffic’ means a figure determined on the basis of the inbound and outbound passenger traffic during the two financial years preceding that in which the aid is granted;
+
+(149) ‘centralised ground handling infrastructure’ means infrastructure which is normally operated by the airport manager and put at the disposal of the various providers of ground handling services active at the airport in exchange for remuneration, excluding equipment owned or operated by the providers of ground handling services;
+
+(150) ‘high-speed train’ means a train capable of reaching speeds of over 200 km/h;
+
+(151) ‘ground handling services’ means services provided to airport users at airports as described in the Annex to Council Directive 96/67/EC (41);
+
+(152) ‘non-aeronautical activities’ means commercial services to airlines or other users of the airport, including ancillary services to passengers, freight forwarders or other service providers, renting out of offices and shops, car parking and hotels;
+
+(153) ‘regional airport’ means an airport with average annual passenger traffic of up to 3 million passengers;
+
+**Definitions for Aid for ports**
+
+(154) ‘port’ means an area of land and water made up of such infrastructure and equipment, so as to permit the reception of waterborne vessels, their loading and unloading, the storage of goods, the receipt and delivery of those goods and the embarkation and disembarkation of passengers, crew and other persons and any other infrastructure necessary for transport operators in the port;
+
+(155) ‘maritime port’ means a port for, principally, the reception of sea-going vessels;
+
+(156) ‘inland port’ means a port other than a maritime port, for the reception of inland waterway vessels;
+
+(157) ‘port infrastructure’ means infrastructure and facilities for the provision of transport related port services, for example berths used for the mooring of ships, quay walls, jetties and floating pontoon ramps in tidal areas, internal basins, backfills and land reclamation, infrastructure for the collection of ship-generated waste and cargo residues and recharging and refuelling infrastructure in ports supplying vehicles, mobile terminal equipment and mobile groundhandling equipment with electricity, hydrogen, ammonia and methanol;
+
+(158) ‘port superstructure’ means surface arrangements (such as for storage), fixed equipment (such as warehouses and terminal buildings) as well as mobile equipment (such as cranes) located in a port for the provision of transport related port services;
+
+(159) ‘access infrastructure’ means any type of infrastructure necessary to ensure access and entry from land or sea and river by users to a port, or in a port, such as roads, rail tracks, channels and locks;
+
+(160) ‘dredging’ means the removal of sediments from the bottom of the waterway access to a port, or in a port;
+
+(162) ‘vessels’ mean floating structures, whether self-propelled or not, with one or more surface displacement hulls;
+
+(163) ‘sea-going vessels’ mean vessels other than those which navigate solely or mainly in inland waterways or in waters within, or closely adjacent to, sheltered waters;
+
+(164) ‘inland waterway vessels’ mean vessels intended solely or mainly for navigation on inland waterways or in waters within, or closely adjacent to, sheltered waters;
+
+(165) ‘infrastructure for the collection of ship-generated waste and cargo residues’ means fixed, floating or mobile port facilities capable of receiving ship-generated waste or cargo residues as defined in Directive 2000/59/EC of the European Parliament and of the Council (42).
+
+**Definitions for aid involved in financial products supported by the InvestEU Fund (terms defined under other headings of this Article shall have the same meaning as laid down therein also for aid involved in financial products supported by the InvestEU Fund)**
+
+(166) ‘InvestEU Fund’, ‘EU guarantee’, ‘financial product’, ‘national promotional banks or institutions’ and ‘implementing partner’ have the meaning set out in Article 2 of Regulation (EU) 2021/523;
+
+(167) ‘financial intermediary’ for the purposes of Section 16 means a financial intermediary within the meaning of point (34), with the exception of implementing partners;
+
+(168) ‘commercial financial intermediary’ means a financial intermediary which operates on a for profit basis and at full own risk, without a public guarantee, national promotional banks or institutions are not considered to be commercial financial intermediaries;
+
+(169) ‘TEN-T urban node’ has the meaning set out in Article 3, point (p), of Regulation (EU) No 1315/2013 of the European Parliament and of the Council (43);
+
+(170) ‘new entrant’ means a railway undertaking within the meaning of Article 3(1) of Directive 2012/34/EU of the European Parliament and of the Council (44), which fulfils the following conditions: (a) it received a licence pursuant to Article 17(3) of Directive 2012/34/EU for the relevant market segment less than 20 years before the aid is granted; (b) it is not linked within the meaning of Article 3(3) of Annex I to this Regulation to a railway undertaking that received a license within the meaning of Article 3(14) of Directive 2012/34/EU prior to 1 January 2010;
+
+(171) ‘urban transport’ means transport within a city or an agglomeration and its commuting zones;
+
+(172) ‘ecosystem’, ‘biodiversity’ and ‘the good condition of an ecosystem’ have the meaning set out in Article 2 of Regulation (EU) 2020/852 of the European Parliament and of the Council (45).
+
+<a id="art_3"></a>
+
+### Article 3 — Conditions for exemption
+
+Aid schemes, individual aid granted under aid schemes and ad hoc aid shall be compatible with the internal market within the meaning of Article 107(2) or (3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that such aid fulfils all the conditions laid down in Chapter I of this Regulation, as well as the specific conditions for the relevant category of aid laid down in Chapter III of this Regulation.
+
+<a id="art_4"></a>
+
+### Article 4 — Notification thresholds
+
+**1.** This Regulation shall not apply to aid which exceeds the following thresholds:▼M6(a) for regional investment aid: for an investment with eligible costs of EUR 110 million or more, the aid amounts per undertaking per investment projects as set out below:— in cases of maximum regional aid intensity of 10 %: EUR 8.25 million;— in cases of maximum regional aid intensity of 15 %: EUR 12.38 million;— in cases of maximum regional aid intensity of 20 %: EUR 16.5 million;— in cases of maximum regional aid intensity of 25 %: EUR 20.63 million;— in cases of maximum regional aid intensity of 30 %: EUR 24.75 million;— in cases of maximum regional aid intensity of 35 %: EUR 28.88 million;— in cases of maximum regional aid intensity of 40 %: EUR 33 million;— in cases of maximum regional aid intensity of 50 %: EUR 41.25 million;— in cases of maximum regional aid intensity of 60 %: EUR 49.5 million;— in cases of maximum regional aid intensity of 70 %: EUR 57.75 million;(b) for regional urban development aid, EUR 22 million as laid down in Article 16(3);(c) for investment aid to SMEs: EUR 8.25 million per undertaking per investment project;(d) for aid for consultancy in favour of SMEs: EUR 2.2 million per undertaking, per project;(e) for aid to SMEs for participation in fairs: EUR 2.2 million per undertaking, per year;▼M6(ea) for aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat referred to in Article 19c: EUR 200 000 per beneficiary per calendar year. For microenterprises active in the primary production of agricultural products, this limit shall be EUR 25 000 per beneficiary per calendar year, and for microenterprises active in the fishery and aquaculture sectors, EUR 30 000 per beneficiary per calendar year;(eb) for aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine referred to in Article 19d: EUR 2 million per beneficiary per calendar year. For SMEs active in the primary production of agricultural products, this limit shall be EUR 250 000 per beneficiary per calendar year, and for SMEs active in the fishery and aquaculture sectors, EUR 300 000 per beneficiary per calendar year. Aid granted to undertakings active in the processing and marketing of agricultural products shall be conditional on not being partly or entirely passed on to primary producers;▼M6(f) for aid for undertakings participating in European Territorial Cooperation projects: for aid under Article 20, EUR 2.2 million per undertaking, per project; for aid under Article 20a, the amounts laid down in Article 20a(2) per undertaking, per project;(g) for risk finance aid: EUR 16.5 million per eligible undertaking as laid down in Article 21(8) and Article 21a(2);(h) for aid for start-ups: the amounts laid down per undertaking in Article 22(3), (4), (5) and (7);(i) for aid for research and development:(i) if the project is predominantly fundamental research: EUR 55 million per undertaking, per project; that is the case where more than half of the eligible costs of the project are incurred through activities which fall within the category of fundamental research;(ii) if the project is predominantly industrial research: EUR 35 million per undertaking, per project; that is the case where more than half of the eligible costs of the project are incurred through activities which fall within the category of industrial research or within the categories of industrial research and fundamental research taken together;(iii) if the project is predominantly experimental development: EUR 25 million per undertaking, per project; that is the case where more than half of the eligible costs of the project are incurred through activities which fall within the category of experimental development;(iv) if the project is a Eureka project, is implemented by a Joint Undertaking established on the basis of Article 185 or of Article 187 of the Treaty, or complies with the conditions set out in Article 25(6), point (d), the amounts referred to in points (i) to (iii) are doubled;(v) if the aid for research and development projects is granted in the form of repayable advances which, in the absence of an accepted methodology to calculate their gross grant equivalent, are expressed as a percentage of the eligible costs and the measure provides that in case of a successful outcome of the project, as defined on the basis of a reasonable and prudent hypothesis, the advances will be repaid with an interest rate at least equal to the discount rate applicable at the time of grant, the amounts referred to in points (i) to (iv) are increased by 50 %;(vi) aid for feasibility studies in preparation for research activities: EUR 8.25 million per study;(vii) for aid for SMEs for research and development projects awarded a Seal of Excellence quality label and implemented under Article 25a, the amount referred to in Article 25a;(viii) for aid Marie Skłodowska-Curie actions and ERC Proof of Concept actions implemented under Article 25b, the amounts referred to in Article 25b;(ix) for aid involved in co-funded research and development projects implemented under Article 25c, the amounts referred to in Article 25c;(x) for aid for Teaming actions, the amounts referred to in Article 25d;(xi) for aid involved in the co-funding of projects supported by the European Defence Fund or the European Defence Industrial Development Programme under Article 25e: EUR 80 million per undertaking, per project;(j) for investment aid for research infrastructures: EUR 35 million per infrastructure;(ja) for investment aid for testing and experimentation infrastructures: EUR 25 million per infrastructure;(k) for aid for innovation clusters: EUR 10 million per cluster;(l) Innovation aid for SMEs: EUR 10 million per undertaking, per project;(m) for aid for process and organisational innovation: EUR 12.5 million per undertaking, per project;(n) for training aid: EUR 3 million per training project;(o) for aid for the recruitment of disadvantaged workers: EUR 5.5 million per undertaking, per year;(p) for aid for the employment of workers with disabilities in the form of wage subsidies: EUR 11 million per undertaking, per year;(q) for aid for compensating the additional costs of employing workers with disabilities: EUR 11 million per undertaking, per year;(r) for aid for compensating the costs of assistance provided to disadvantaged workers: EUR 5.5 million per undertaking, per year;(s) for investment aid for environmental protection, unless otherwise specified: EUR 30 million per undertaking per investment project;(sa) for aid for dedicated infrastructure and storage referred to in Article 36(4): EUR 25 million per project;▼M6(sb) for investment aid for recharging or refuelling infrastructure referred to in Article 36a(1) and (2): EUR 30 million per undertaking per project and, in the case of schemes, an average annual budget of EUR 300 million;(sc) for investment aid for the combined improvements of the energy and environmental performance of buildings referred to in Articles 38a(7) and 39(2a): EUR 30 million per undertaking per project;(sd) for aid for the facilitation of energy performance contracting referred to in Article 38b: EUR 30 million of total nominal outstanding financing per beneficiary;(se) for investment aid for energy efficiency projects in buildings in the form of financial instruments: the amounts set out in Article 39(5);(sf) for aid in form of reduction of environmental taxes or levies referred to in Article 44a: EUR 50 million per scheme per year;▼M6 —————▼M6(v) for operating aid for the promotion of electricity from renewable sources, as referred to in Article 42, and operating aid for the promotion of energy from renewable sources and renewable hydrogen in small projects and renewable energy communities, as referred to in Article 43: EUR 30 million per undertaking per project; the sum of the budgets of all the schemes falling under Article 42 and the sum of the budgets of all the schemes falling under Article 43 should respectively not exceed EUR 300 million per year;(w) for aid for district heating and/or cooling systems, as referred to in Article 46: EUR 50 million per undertaking per project;(x) for aid for energy infrastructure, as referred to in Article 48: EUR 70 million per undertaking per project;(y) for aid for the deployment of fixed broadband networks awarded in the form of a grant: EUR 100 million total costs per project; for aid for fixed broadband networks awarded in the form of a financial instrument the nominal amount of total financing provided to any final beneficiary per project must not exceed EUR 150 million;▼M4(ya) for aid for the deployment of 4G or 5G mobile networks awarded in the form of a grant: EUR 100 million total costs per project; for aid for 4G or 5G mobile networks awarded in the form of a financial instrument the nominal amount of total financing provided to any final beneficiary per project must not exceed EUR 150 million;(yb) for aid for certain projects of common interest in the area of trans-European digital connectivity infrastructures financed under Regulation (EU) 2021/1153 or awarded a Seal of Excellence quality label under that Regulation awarded in the form of a grant: EUR 100 million total costs per project; for aid for certain projects of common interest in the area of trans-European digital connectivity infrastructures awarded in the form of a financial instrument the nominal amount of total financing provided to any final beneficiary per project must not exceed EUR 150 million;(yc) for aid in the form of connectivity vouchers schemes: the total State aid budget over 24 months for all connectivity voucher schemes in a Member State must not exceed EUR 50 million (total amount including national and regional or local voucher schemes);▼M6(yd) for aid for the deployment of backhaul networks awarded in the form of a grant: EUR 100 million total costs per project; for aid for the deployment of backhaul networks awarded in the form of a financial instrument the nominal amount of total financing provided to any final beneficiary per project must not exceed EUR 150 million;▼M6(z) for investment aid for culture and heritage conservation: EUR 165 million per project; operating aid for culture and heritage conservation: EUR 82.5 million per undertaking per year;(aa) for aid schemes for audiovisual works: EUR 55 million per scheme per year;(bb) for investment aid for sport and multifunctional recreational infrastructures: EUR 33 million or the total costs exceeding EUR 110 million per project; operating aid for sport infrastructure: EUR 2.2 million per infrastructure per year;(cc) for investment aid for local infrastructures: EUR 11 million or the total costs exceeding EUR 22 million for the same infrastructure;▼M1(dd) for aid for regional airports: the aid intensities and aid amounts laid down in Article 56a;▼M6(ee) for aid for maritime ports: eligible costs of EUR 143 million per project (or EUR 165 million per project in a maritime port included in the work plan of a Core Network Corridor as referred to in Article 47 of Regulation (EU) No 1315/2013 of the European Parliament and of the Council (46)); as regards dredging a project is defined as all dredging carried out within 1 calendar year;(ff) for aid for inland ports: eligible costs of EUR 44 million per project (or EUR 55 million per project in an inland port included in the work plan of a Core Network Corridor as referred to in Article 47 of Regulation (EU) No 1315/2013); as regards dredging a project is defined as all dredging carried out within 1 calendar year;▼M4(gg) for aid involved in financial products supported by the InvestEU Fund: the amounts laid down in Section 16 of Chapter III; and▼M6(hh) for aid to SMEs for costs incurred by participating in community-led local development (‘CLLD’) projects: for aid under Article 19a, EUR 2 million per undertaking, per project; for aid under Article 19b, the amounts laid down in Article 19b(2) per project.▼B
+
+**2.** The thresholds set out or referred to in paragraph 1 shall not be circumvented by artificially splitting up the aid schemes or aid projects.
+
+<a id="art_5"></a>
+
+### Article 5 — Transparency of aid
+
+**1.** This Regulation shall apply only to aid in respect of which it is possible to calculate precisely the gross grant equivalent of the aid *ex ante* without any need to undertake a risk assessment (‘transparent aid’).
+
+**2.** The following categories of aid shall be considered to be transparent:(a) aid comprised in grants and interest rate subsidies;(b) aid comprised in loans, where the gross grant equivalent has been calculated on the basis of the reference rate prevailing at the time of the grant;(c) aid comprised in guarantees:(i) where the gross grant equivalent has been calculated on the basis of safe-harbour premiums laid down in a Commission notice; or(ii) where before the implementation of the measure, the methodology to calculate the gross grant equivalent of the guarantee has been accepted on the basis of the Commission Notice on the application of Articles 87 and 88 of the EC Treaty to State aid in the form of guarantees (47), or any successor notice, following notification of that methodology to the Commission under any regulation adopted by the Commission in the State aid area applicable at the time, and the approved methodology explicitly addresses the type of guarantee and the type of underlying transaction at stake in the context of the application of this Regulation;(d) aid in the form of tax advantages, where the measure provides for a cap ensuring that the applicable threshold is not exceeded;(e) aid for regional urban development if the conditions laid down in Article 16 are fulfilled;▼M4(ea) aid to undertakings for their participation in European Territorial Cooperation projects under Article 20a, where it provides for a cap ensuring that the applicable threshold laid down in Article 20a is not exceeded;▼M6(f) aid comprised in risk finance measures if the conditions laid down in Articles 21 and 21a are fulfilled;▼B(g) aid for start-ups if the conditions laid down in Article 22 are fulfilled;▼M6(ga) aid for SMEs in the form of reduced access fees or free access to innovation advisory services and innovation support services, as defined in Article 2, points (94) and (95) respectively, offered for example by research and knowledge dissemination organisations, research infrastructures, testing and experimentation infrastructures or innovation clusters based on an aid scheme provided that the following conditions are met:(i) the advantage consisting in reduced fees or free access acquired is quantifiable and demonstrable;(ii) the full or partial price discounts for services and the rules in accordance with which SMEs may apply for and be selected and granted discounts are made publicly available (through web sites or other suitable means) before the service provider starts offering the discounts;(iii) the service provider shall keep records of the amounts of aid granted to each SME in the form of price discounts to make sure that the ceilings set out in Article 28(3) and (4) are complied with. Such records shall be kept for 10 years from the date on which the last aid was granted by the service provider;▼B(h) aid for energy efficiency projects if the conditions laid down in Article 39 are fulfilled;(i) aid in the form of premiums in addition to the market price if the conditions laid down in Article 42 are fulfilled;(j) aid in the form of repayable advances, if the total nominal amount of the repayable advance does not exceed the thresholds applicable under this Regulation or if, before implementation of the measure, the methodology to calculate the gross grant equivalent of the repayable advance has been accepted following its notification to the Commission;▼M1(k) aid in the form of the sale or the lease of tangible assets below market rates where the value is established either by an independent expert evaluation prior to the transaction or by reference to a publicly available, regularly updated and generally accepted benchmark;▼M6(l) aid involved in financial products supported by the InvestEU Fund, if the conditions laid down in Chapter III, Section 16, are fulfilled;▼M6(m) aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat, if the conditions set out in Articles 19c are fulfilled;(n) aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine, if the conditions set out in Article 19d are fulfilled.▼B
+
+<a id="art_6"></a>
+
+### Article 6 — Incentive effect
+
+**1.** This Regulation shall apply only to aid which has an incentive effect.
+
+**2.** Aid shall be considered to have an incentive effect if the beneficiary has submitted a written application for the aid to the Member State concerned before work on the project or activity starts. The application for the aid shall contain at least the following information:(a) undertaking's name and size;(b) description of the project, including its start and end dates;(c) location of the project;(d) list of project costs;(e) type of aid (grant, loan, guarantee, repayable advance, equity injection or other) and amount of public funding needed for the project;
+
+**3.** Ad hoc aid granted to large enterprises shall be considered to have an incentive effect if, in addition to ensuring that the condition laid down in paragraph 2 is fulfilled, the Member State has verified, before granting the aid concerned, that documentation prepared by the beneficiary establishes that the aid will result in one or more of the following:(a) in the case of regional investment aid: that a project is carried out, which would not have been carried out in the area concerned or would not have been sufficiently profitable for the beneficiary in the area concerned in the absence of the aid.(b) in all other cases, that there is:— a material increase in the scope of the project/activity due to the aid, or— a material increase in the total amount spent by the beneficiary on the project/activity due to the aid, or— a material increase in the speed of completion of the project/activity concerned;
+
+**4.** By way of derogation from paragraphs 2 and 3, measures in the form of tax advantages shall be deemed to have an incentive effect if the following conditions are fulfilled:(a) the measure establishes a right to aid in accordance with objective criteria and without further exercise of discretion by the Member State; and(b) the measure has been adopted and is in force before work on the aided project or activity has started, except in the case of fiscal successor schemes, where the activity was already covered by the previous schemes in the form of tax advantages.
+
+**5.** By way of derogation from paragraphs 2, 3 and 4, the following categories of aid are not required to have or shall be deemed to have an incentive effect:▼M1(a) regional operating aid and regional urban development aid, where the relevant conditions laid down in Articles 15 and 16 are fulfilled;▼M6(b) aid for access to finance for SMEs, if the relevant conditions laid down in Articles 21, 21a and 22 are fulfilled;▼B(c) aid for the recruitment of disadvantaged workers in the form of wage subsidies and aid for the employment of workers with disabilities in the form of wage subsidies, if the relevant conditions laid down in Articles 32 and 33 respectively are fulfilled;▼M1(d) aid compensating for the additional costs of employing workers with disabilities and aid for compensating the costs of assistance provided to disadvantaged workers, where the relevant conditions laid down in Articles 34 and 35 are fulfilled;▼B(e) aid in the form of reductions in environmental taxes under Directive 2003/96/EC, if the conditions laid down in Article 44 of this Regulation are fulfilled;(f) aid to make good the damage caused by certain natural disasters, if the conditions laid down in Article 50 are fulfilled;(g) social aid for transport for residents of remote regions, if the conditions laid down in Article 51 are fulfilled;(h) aid for culture and heritage conservation, if the conditions laid down in Article 53 are fulfilled;▼M4(i) aid for undertakings participating in European Territorial Cooperation projects, if the relevant conditions in Article 20 or Article 20a are fulfilled;(j) aid for research and development projects awarded a Seal of Excellence quality label, Marie Skłodowska-Curie actions and ERC Proof of Concept actions awarded a Seal of Excellence quality label, aid involved in co-funded projects and in co-funded Teaming actions, if the relevant conditions laid down in Article 25a, Article 25b, Article 25c or Article 25d are fulfilled;(k) aid involved in financial products supported by the InvestEU Fund, if the conditions laid down in Section 16 of Chapter III are fulfilled;▼M6(l) aid for SMEs participating in or benefitting from community-led local development (‘CLLD’) projects, if the relevant conditions in Article 19a or 19b are fulfilled;▼M6(m) aid for the remediation of environmental damage and the rehabilitation of natural habitats and ecosystems where the remediation or rehabilitation costs exceed the increase in value of the land or property and the conditions laid down in Article 45 are fulfilled;(n) aid for the protection of biodiversity and the implementation of nature-based solutions for climate change adaptation and mitigation where the conditions laid down in Article 45 are fulfilled;(o) aid for the promotion of energy from renewable energy sources under Article 41, 42 and 43 when the aid is granted automatically in accordance with objective and non-discriminatory criteria and without further exercise of discretion by the Member State and the measure has been adopted and is in force before work on the aided project or activity has started;(p) aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat, subject to the conditions set out in Article 19c;(q) aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine, subject to the conditions set out in Article 19d.▼B
+
+<a id="art_7"></a>
+
+### Article 7 — Aid intensity and eligible costs
+
+**1.** For the purposes of calculating aid intensity and eligible costs, all figures used shall be taken before any deduction of tax or other charge. Value added tax charged on eligible costs or expenses that is refundable under the applicable national tax law shall, however, not be taken into account for calculating aid intensity and eligible costs. The eligible costs shall be supported by documentary evidence which shall be clear, specific and contemporary. The amounts of eligible costs may be calculated in accordance with simplified cost options, provided that an operation is at least partly financed through a Union fund that allows the use of simplified cost options and that the category of costs is eligible according to the relevant exemption provision. In such case, the simplified cost options provided in the relevant rules governing the Union fund are applicable. In addition, for projects implemented in line with Recovery and Resilience Plans as approved by the Council under Regulation (EU) 2021/241 of the European Parliament and of the Council (48), the amounts of eligible costs may also be calculated in accordance with simplified cost options, provided that the simplified cost options set out in Regulation (EU) No 1303/2013 or Regulation (EU) 2021/1060 are used. In addition, for aid under Articles 25a and 25b, indirect costs can be calculated in accordance with the rules laid down in the respective paragraph 3 of Articles 25a and 25b.
+
+**2.** Where aid is granted in a form other than a grant, the aid amount shall be the gross grant equivalent of the aid.
+
+**3.** ►M1 Aid payable in the future, including aid payable in several instalments, shall be discounted to its value at the moment it is granted.** ◄ ** The eligible costs shall be discounted to their value at the moment the aid is granted. The interest rate to be used for discounting purposes shall be the discount rate applicable at the moment the aid is granted.
+
+**5.** Where aid is granted in the form of repayable advances which, in the absence of an accepted methodology to calculate their gross grant equivalent, are expressed as a percentage of the eligible costs and the measure provides that in case of a successful outcome of the project, as defined on the basis of a reasonable and prudent hypothesis, the advances will be repaid with an interest rate at least equal to the discount rate applicable at the moment the aid is granted, the maximum aid intensities laid down in Chapter III may be increased by 10 percentage points.
+
+**6.** Where regional aid is granted in the form of repayable advances, the maximum aid intensities established in a regional aid map in force at the moment the aid is granted may not be increased.
+
+<a id="art_8"></a>
+
+### Article 8 — Cumulation
+
+**1.** In determining whether the notification thresholds in Article 4 and the maximum aid intensities in Chapter III are respected, the total amount of State aid for the aided activity or project or undertaking shall be taken into account.
+
+**2.** Where Union funding centrally managed by the institutions, agencies, joint undertakings or other bodies of the Union that is not directly or indirectly under the control of the Member State is combined with State aid, only the latter shall be considered for determining whether notification thresholds and maximum aid intensities or maximum aid amounts are respected, provided that the total amount of public funding granted in relation to the same eligible costs does not exceed the most favourable funding rate laid down in the applicable rules of Union law. By way of derogation, the total public funding for projects supported by the European Defence Fund may reach up to the total eligible costs of the project, irrespective of the maximum funding rate applicable under this fund, provided that the notification thresholds and maximum aid intensities or maximum aid amounts under this Regulation are respected.
+
+**3.** Aid with identifiable eligible costs exempted by this Regulation may be cumulated with:(a) any other State aid, as long as those measures concern different identifiable eligible costs,▼M4(b) any other State aid, in relation to the same eligible costs, partly or fully overlapping, only if such cumulation does not result in exceeding the highest aid intensity or aid amount applicable to this aid under this Regulation.Financing provided to the final beneficiaries with support from the InvestEU Fund covered by Section 16 of Chapter III and the cost covered by this financing shall not be considered for determining compliance with the cumulation provisions laid down in the first sentence of this point. Instead, the amount relevant for determining compliance with the cumulation provisions of the first sentence of this point shall be calculated as follows. First, the nominal amount of the financing supported by the InvestEU Fund shall be deducted from the total eligible project costs, obtaining the total remaining eligible costs; second, the maximum aid shall be calculated by applying the relevant highest aid intensity or aid amount only to the total remaining eligible costs.In cases of Articles for which the notification threshold is expressed as a maximum aid amount, the nominal amount of financing provided to the final beneficiaries with the support from the InvestEU Fund shall also not be considered for determining whether the notification thresholds in Article 4 are respected.Alternatively, for senior loans or guarantees on senior loans supported by the InvestEU Fund under Section 16 of Chapter III, the gross grant equivalent of the aid entailed in such loans or guarantees provided to the final beneficiaries may be calculated in accordance with Article 5(2), point (b) or (c), as appropriate. This gross grant equivalent of the aid can be used for ensuring, in line with the first sentence of this point, that cumulation with any other aid for the same identifiable eligible costs does not result in exceeding the highest aid intensity or aid amount applicable to the aid under this Regulation or the relevant notification threshold under this Regulation.
+
+**4.** Aid without identifiable eligible costs exempted under Articles 19b, 20a, 21, 21a, 22 or 23, Article 56e(5), point (a)(ii), (iii) or (iv), Article 56e(10) and Article 56f may be cumulated with any other State aid with identifiable eligible costs. Aid without identifiable eligible costs may be cumulated with any other State aid without identifiable eligible costs, up to the highest relevant total financing threshold fixed in the specific circumstances of each case by this or another block exemption regulation or decision adopted by the Commission. Aid without identifiable eligible costs exempted under this Regulation may be cumulated with other aid without identifiable eligible costs granted to remedy a serious disturbance in the economy of a Member State under Article 107(3), point (b), of the Treaty approved in a decision adopted by the Commission. Aid without identifiable eligible costs exempted under Article 56e(5), point (a)(ii), (iii) or (iv), Article 56e(10) and Article 56f may be cumulated with other aid without identifiable eligible costs exempted under those Articles.
+
+**5.** State aid exempted under this Regulation shall not be cumulated with any de minimis aid in respect of the same eligible costs if such cumulation would result in an aid intensity exceeding those laid down in Chapter III of this Regulation.
+
+**6.** By way of derogation from paragraph 3(b), aid in favour of workers with disabilities, as provided for in Articles 33 and 34 may be cumulated with other aid exempted under this Regulation in relation to the same eligible costs above the highest applicable threshold under this Regulation, provided that such cumulation does not result in an aid intensity exceeding 100 % of the relevant costs over any period for which the workers concerned are employed.
+
+**7.** By way of derogation from paragraphs 1 to 6, in determining whether the ceilings for regional operating aid in outermost regions, as set out in Article 15(4), are respected, only regional operating aid in outermost regions implemented under this Regulation shall be taken into account.
+
+<a id="art_9"></a>
+
+### Article 9 — Publication and information
+
+**1.** The Member State concerned shall ensure the publication, in the Commission’s transparency award module (49) or on a comprehensive State aid website, at national or regional level, of:(a) the summary information referred to in Article 11 in the standardised format laid down in Annex II or a link providing access to it;(b) the full text of each aid measure, as referred to in Article 11 or a link providing access to the full text;(c) the information referred to in Annex III on each individual aid award exceeding EUR 100 000 , or for aid involved in financial products supported by the InvestEU fund under Section 16 on each individual aid award exceeding EUR 500 000 , or for beneficiaries active in primary agricultural production or in the fishery and aquaculture sector, other than those to which Section 2a applies, on each individual aid award exceeding EUR 10 000 .
+
+As regards aid granted to European Territorial Cooperation projects as referred to in Article 20, the information referred to in this paragraph shall be placed on the website of the Member State in which the managing authority concerned, as defined in Article 21 of Regulation (EU) No 1299/2013 of the European Parliament and of the Council (50), or Article 45 of Regulation (EU) 2021/1059 of the European Parliament and of the Council (51), whichever is applicable, is located. Alternatively, the participating Member States may decide that each of them shall provide the information relating to the aid measures within their territory on the respective websites.
+
+The publication obligations laid down in the first subparagraph shall not apply to aid granted to European Territorial Cooperation projects referred to in Article 20a, as well as community-led local development (‘CLLD’) projects under Article 19b.
+
+**2.** For schemes in the form of tax advantages, and for schemes covered by Articles 16, 21a and 22 (52) the conditions set out in paragraph 1, first subparagraph, point (c), of this Article shall be considered fulfilled if Member States publish the required information on individual aid amounts in the following ranges (in EUR million):0.01-0.1 (only for fishery and aquaculture as well as primary agricultural production);0.1-0.5;0.5-1;1-2;2-5;5-10;10-30; and30 and more.
+
+**3.** For schemes under Article 51 of this Regulation, the publication obligations laid down in this article shall not apply to final consumers.
+
+**3a.** If a financial product has been implemented by a Member State under the InvestEU Member State compartment or by a national promotional bank acting as an implementing partner or acting as a financial intermediary under InvestEU, the Member State remains under the obligation to ensure the publication of information as laid down in paragraph 1, first subparagraph, point (c). However, this obligation is deemed to be fulfilled if the implementing partner provides to the Commission the information as laid down in paragraph 1, first subparagraph, point (c), no later than 30 June of the year following the financial year in which the aid was granted and if the guarantee agreement signed between the Commission and the implementing partner stipulates the requirement to provide to the Commission the information as laid down in paragraph 1, first subparagraph, point (c).
+
+**4.** The information referred to in paragraph 1, point (c), shall be organised and accessible in a standardised manner, as described in Annex III, and shall allow for effective search and download functions. It shall be published within 6 months from the date the aid was granted, or for aid in the form of tax advantages, within 1 year from the date the tax declaration is due, and shall be available for at least 10 years from the date on which the aid was granted. For aid in the form of tax advantages, if there is no formal requirement for an annual declaration, 31 December of the year for which the aid was granted will be considered as the granting date for the purposes of this paragraph.
+
+**5.** The Commission shall publish on its website:(a) the links to the State aid websites referred to in paragraph 1 of this Article;(b) the summary information referred to in Article 11.
+
+**6.** Member States shall comply with the provisions of this Article at the latest within two years after the entry into force of this Regulation.
+
+## CHAPTER II
+
+### **MONITORING**
+
+<a id="art_10"></a>
+
+### Article 10 — Withdrawal of the benefit of the block exemption
+
+Where a Member State grants aid allegedly exempted from the notification requirement under this Regulation without fulfilling the conditions set out in Chapters I to III, the Commission may, after having provided the Member State concerned with the possibility to make its views known, adopt a decision stating that all or some of the future aid measures adopted by the Member State concerned which would otherwise fulfil the requirements of this Regulation, are to be notified to the Commission in accordance with Article 108(3) of the Treaty. The measures to be notified may be limited to the measures granting certain types of aid or in favour of certain beneficiaries or aid measures adopted by certain authorities of the Member State concerned.
+
+<a id="art_11"></a>
+
+### Article 11 — Reporting
+
+**1.** Member States, or in the case of aid granted to European Territorial Cooperation projects under Article 20, alternatively the Member State in which the Managing Authority, as defined in Article 21 of Regulation (EU) No 1299/2013, or Article 45 of Regulation (EU) 2021/1059, whichever is applicable, is located, shall transmit to the Commission:(a) via the Commission’s electronic notification system, the summary information about each aid measure exempted under this Regulation in the standardised format laid down in Annex II, together with a link providing access to the full text of the aid measure, including its amendments, within 20 working days following its entry into force; and(b) an annual report, as referred to in Commission Regulation (EC) No 794/2004 (53) in electronic form, on the application of this Regulation, containing the information indicated in that Regulation, in respect of each whole year or each part of the year during which this Regulation applies. For financial products implemented by a Member State under the InvestEU Member State compartment or by a national promotional bank acting as an implementing partner or acting as a financial intermediary under InvestEU, this obligation of the Member State is deemed to be fulfilled if the implementing partner provides the annual reports to the Commission, in accordance with the relevant reporting requirements laid down in the guarantee agreement signed between the Commission and the implementing partner.
+
+The first subparagraph shall not apply in respect of aid granted to European Territorial Cooperation projects referred to in Article 20a, as well as to community-led local development (‘CLLD’) projects as referred to in Article 19b.
+
+**2.** Where, as a consequence of the extension of the application period of this Regulation until 31 December 2023 by Commission Regulation (EU) 2020/972 (54), a Member State plans to extend measures in respect of which the summary information was submitted to the Commission in accordance with paragraph 1 of this Article, that Member State shall update that summary information regarding the extension of those measures and communicate that update to the Commission within 20 working days following the entry into force of the act which extends the respective measure by the Member State.
+
+<a id="art_12"></a>
+
+### Article 12 — Monitoring
+
+**1.** In order to enable the Commission to monitor the aid exempted from notification by this Regulation, Member States, or alternatively, in the case of aid granted to European Territorial Cooperation projects referred to in Article 20, the Member State in which the Managing Authority is located, shall maintain detailed records with the information and supporting documentation necessary to establish that all the conditions laid down in this Regulation are fulfilled. Such records shall be kept for 10 years from the date on which the *ad hoc* aid was granted or the last aid was granted under the scheme.
+
+The first subparagraph shall not apply in respect of aid granted to European Territorial Cooperation projects referred to in Article 20a, as well as to European Innovation Partnership for agricultural productivity and sustainability Operational Group projects and to community-led local development (‘CLLD’) projects as referred to Article 19b.
+
+**2.** In the case of schemes under which fiscal aid is granted automatically, such as those based on tax declarations of the beneficiaries, and where there is no *ex ante* verification that all compatibility conditions are met for each beneficiary, Member States shall regularly verify, at least *ex post* and on a sample basis, that all compatibility conditions are met, and draw the necessary conclusions. Member States shall maintain detailed records of the verifications for at least 10 years from the date of the controls.
+
+**3.** The Commission may request, from each Member State, all the information and supporting documentation which the Commission considers necessary to monitor the application of this Regulation, including the information mentioned in paragraphs 1 and 2. The Member State concerned shall provide the Commission with the requested information and supporting documents within a period of 20 working days from receipt of the request or such longer period as may be fixed in the request.
+
+## Subsection A
+
+### **Regional investment and operating aid**
+
+<a id="art_13"></a>
+
+### Article 13 — Scope of regional aid
+
+This Section shall not apply to:
+
+(a) aid in the steel sector, the lignite sector and the coal sector;
+
+(b) aid to the transport sector as well as the related infrastructure; aid for energy generation, storage, transmission, distribution and infrastructure, except for regional investment aid in outermost regions and regional operating aid schemes; and aid in the broadband sector except for regional operating aid schemes;
+
+(c) regional aid in the form of schemes which are targeted at a limited number of specific sectors of economic activity; schemes aimed at tourism activities or processing and marketing of agricultural products are not considered to be targeted at specific sectors of economic activity;
+
+(d) regional operating aid granted to undertakings whose principal activities fall under Section K ‘Financial and insurance activities’ of the NACE Rev. 2 or to undertakings that perform intra-group activities whose principal activities fall under classes 70.10 ‘Activities of head offices’ or 70.22 ‘Business and other management consultancy activities’ of NACE Rev. 2.
+
+<a id="art_14"></a>
+
+### Article 14 — Regional investment aid
+
+**1.** Regional investment aid measures shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aid shall be granted in assisted areas.
+
+**3.** In assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty, the aid may be granted for any form of initial investment regardless of the size of the beneficiary. In assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty, the aid may be granted to SMEs for any form of initial investment and to large enterprises only for an initial investment that creates a new economic activity in the area concerned.
+
+**4.** The eligible costs shall be one or several of the following:(a) investment costs in tangible and intangible assets; or(b) the estimated wage costs of employment created as a result of an initial investment, calculated over 2 years; or(c) a combination of part of the costs referred to in points (a) and (b) but not exceeding the amount of point (a) or (b), whichever is higher.
+
+**5.** The investment shall be maintained in the area concerned for at least 5 years, or 3 years for SMEs, after the completion of the investment. This shall not prevent the replacement of a plant or equipment that has become outdated or broken within this period, provided that the economic activity is retained in the area concerned for the minimum period.
+
+**6.** The assets acquired shall be new except for SMEs and for the acquisition of an establishment.Costs related to the lease of tangible assets may be taken into account under the following conditions:(a) for land and buildings, the lease must continue for at least 5 years after the expected date of completion of the investment for large enterprises, and 3 years for SMEs;(b) for plant or machinery, the lease must take the form of financial leasing and must contain an obligation for the aid beneficiary to purchase the asset at the expiry of the term of the lease.
+
+In the case of an initial investment as referred to in Article 2, point 49(b) or point 51(b), in principle only the costs of buying the assets from third parties unrelated to the buyer shall be taken into consideration. However, if a member of the family of the original owner, or one or more employees, takes over a small enterprise, the condition that the assets shall be bought from third parties unrelated to the buyer does not apply. The transaction shall take place under market conditions. If the acquisition of the assets of an establishment is accompanied by an additional investment eligible for regional aid, the eligible costs of that additional investment should be added to the cost of acquisition of the assets of the establishment. If aid has already been granted for the acquisition of assets prior to their purchase, the costs of those assets shall be deducted from the eligible costs related to the acquisition of an establishment.
+
+**7.** For aid awarded to large enterprises for a fundamental change in the production process, the eligible costs shall exceed the depreciation of the assets linked to the activity to be modernised over the preceding 3 fiscal years. For aid awarded to large enterprises or SMEs for a diversification of an existing establishment, the eligible costs shall exceed by at least 200 % the book value of the reused assets, as registered in the fiscal year preceding the start of works.
+
+**8.** Intangible assets are eligible for the calculation of investment costs if they fulfil the following conditions:(a) they must be used exclusively in the establishment receiving the aid;(b) they must be amortisable;(c) they must be purchased under market conditions from third parties unrelated to the buyer; and▼M6(d) they must be included in the assets of the undertaking that receives the aid and must remain associated with the project for which the aid is awarded for at least 5 years (3 years for SMEs).
+
+For large enterprises, costs of intangible assets shall be eligible only up to 50 % of the total eligible investment costs for the initial investment. For SMEs, 100 % of the costs of intangible assets shall be eligible.
+
+**9.** Where eligible costs are calculated by reference to the estimated wage costs as referred to in paragraph 4(b), the following conditions shall be fulfilled:▼M6(a) the investment project shall lead to a net increase in the number of employees in the establishment concerned compared to the average over the previous 12 months, after deducting from the number of jobs created any job losses that occurred during that period, expressed in annual labour units;(b) each post shall be filled within 3 years of completion of the investment;▼M4(c) each job created through the investment shall be maintained in the area concerned for a period of at least five years from the date the post was first filled, or three years in the case of SMEs, except if the job is lost between 1 January 2020 and 30 June 2021.
+
+**12.** ►M6 The aid intensity shall not exceed the maximum aid intensity established in the regional aid map which is in force at the time the aid is awarded in the area concerned.** ◄ ** Where the aid intensity is calculated on the basis of paragraph 4(c), the maximum aid intensity shall not exceed the most favourable amount resulting from the application of that intensity on the basis of investment costs or wage costs. For large investment projects the aid amount shall not exceed the adjusted aid amount calculated in accordance with the mechanism defined in Article 2, point 20;
+
+**13.** ►M6 Any initial investment related to the same or a similar activity started by the same beneficiary (at group level) within a period of 3 years from the date of start of works on another aided investment in the same level 3 region of the Nomenclature of Territorial Units for Statistics shall be considered to be part of a single investment project.** ◄ ** Where such single investment project is a large investment project, the total aid amount for the single investment project shall not exceed the adjusted aid amount for large investment projects.
+
+**14.** The aid beneficiary shall provide a financial contribution of at least 25 % of the eligible costs through its own resources or by external financing, in a form that is free of any public support. The 25 % own contribution requirement shall not apply to investment aid granted for investment in the outermost regions insofar as a lower contribution is necessary to fully accommodate the maximum aid intensity.
+
+**15.** For an initial investment linked to European territorial cooperation projects covered by Regulation (EU) No 1299/2013 or Regulation (EU) 2021/1059, the aid intensity of the area in which the initial investment is located shall apply to all beneficiaries participating in the project. If the initial investment is located in two or more assisted areas, the maximum aid intensity shall be the one applicable in the assisted area where the highest amount of eligible costs are incurred. In assisted areas eligible for aid under Article 107(3), point (c), of the Treaty, this provision shall apply to large enterprises only if the initial investment creates a new economic activity.
+
+**16.** The beneficiary shall confirm that it has not carried out a relocation to the establishment in which the initial investment for which aid is requested is to take place, in the two years preceding the application for aid and give a commitment that it will not do so up to a period of two years after the initial investment for which aid is requested is completed. ►M2 With regard to commitments given prior to 31 December 2019, any loss of jobs, in the same or similar activity in one of the initial establishments of the beneficiary in the EEA, occurring between 1 January 2020 and 30 June 2021, shall not be considered a transfer within the meaning of Article 2(61a) of this Regulation.** ◄ **
+
+**17.** In the fisheries and aquaculture sector, aid shall not be granted to undertakings that have committed one or more of the infringements set out in Article 10(1)(a) to (d) and Article 10(3) of Regulation (EU) No 508/2014 of the European Parliament and of the Council (55) and for operations of Article 11 of that Regulation.
+
+<a id="art_15"></a>
+
+### Article 15 — Regional operating aid
+
+**1.** Regional operating aid schemes in outermost regions, sparsely populated areas and very sparsely populated areas shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** In sparsely populated areas, the regional operating aid schemes shall compensate for the additional transport costs of goods which have been produced in areas eligible for operating aid, as well as additional transport costs of goods that are further processed in those areas, under the following conditions:(a) the aid is objectively quantifiable in advance on the basis of a fixed sum or per tonne/kilometre ratio or any other relevant unit;▼M6(b) the additional transport costs are calculated on the basis of the journey of the goods inside the national border of the Member State concerned using the means of transport which results in the lowest costs for the beneficiary. The Member State may impose environmental standards to be fulfilled by the mode of transport chosen, and if such standards are imposed on the beneficiary it may base the calculation of the additional transport costs on the lowest cost for fulfilling those environmental standards.▼M1
+
+The aid intensity shall not exceed 100 % of the additional transport costs as set out in this paragraph.
+
+**3.** In sparsely and very sparsely populated areas, the regional operating aid schemes shall prevent or reduce depopulation under the following conditions:▼M1(a) the beneficiaries have their economic activity in the area concerned;(b) the annual aid amount per beneficiary under all operating aid schemes does not exceed 20 % of the annual labour costs incurred by the beneficiary in the area concerned.
+
+**4.** ►C1 In outermost regions, the operating aid schemes shall compensate for the additional operating costs incurred in those regions as a direct result of one or several of the permanent handicaps referred to in Article 349 of the Treaty, where the beneficiaries have their economic activity in an outermost region provided that the annual aid amount per beneficiary under all operating aid schemes implemented under this Regulation does not exceed one of the following percentages:** ◄ **(a) 35 % of the gross value added annually created by the beneficiary in the outermost region concerned;(b) 40 % of the annual labour costs incurred by the beneficiary in the outermost region concerned;(c) 30 % of the annual turnover of the beneficiary realised in the outermost region concerned.
+
+## Subsection B
+
+### **Urban development aid**
+
+<a id="art_16"></a>
+
+### Article 16 — Regional urban development aid
+
+**1.** Regional urban development aid shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Urban development projects shall fulfil the following criteria:(a) they are implemented via urban development funds in assisted areas;(b) they are co-financed by the European Structural and Investment Funds;(c) they support the implementation of an ‘integrated sustainable urban development strategy’;
+
+**3.** The total investment in an urban development project under any urban development aid measure shall not exceed EUR 22 million.
+
+**4.** The eligible costs shall be the overall costs of the urban development project to the extent that they comply with Articles 37 and 65 of Regulation (EU) No 1303/2013, or Articles 67 and 68 of Regulation (EU) 2021/1060, whichever is applicable.
+
+**5.** Aid granted by an urban development fund to the eligible urban development projects may take the form of equity, quasi-equity, loans, guarantees, or a mix thereof.
+
+**6.** The urban development aid shall leverage additional investment from independent private investors as defined in Article 2 point (72) at the level of the urban development funds or the urban development projects, so as to achieve an aggregate amount reaching a minimum of 20 % of the total financing provided to an urban development project.
+
+**7.** Private and public investors may provide cash or an in-kind contribution or a combination of those for the implementation of an urban development project. An in-kind contribution shall be taken into account at its market value, as certified by an independent qualified expert or duly authorised official body.
+
+**8.** The urban development measures shall fulfil the following conditions:(a) urban development fund managers shall be selected through an open, transparent and non-discriminatory call in accordance with the applicable Union and national laws. In particular, there shall be no discrimination between urban development fund managers on the basis of their place of establishment or incorporation in any Member State. Urban development fund managers may be required to fulfil predefined criteria objectively justified by the nature of the investments;(b) the independent private investors shall be selected through an open, transparent and non-discriminatory call in accordance with applicable Union and national laws aimed at establishing the appropriate risk-reward sharing arrangements whereby, for investments other than guarantees, asymmetric profit-sharing shall be given preference over downside protection. If the private investors are not selected by such a call, the fair rate of return to the private investors shall be established by an independent expert selected via an open, transparent and non-discriminatory call;(c) in the case of asymmetric loss-sharing between public and private investors, the first loss assumed by the public investor shall be capped at 25 % of the total investment;(d) in the case of guarantees to private investors in urban development projects, the guarantee rate shall be limited to 80 % and total losses assumed by a Member State shall be capped at 25 % of the underlying guaranteed portfolio;(e) the investors shall be allowed to be represented in the governance bodies of the urban development fund, such as the supervisory board or the advisory committee;(f) the urban development fund shall be established according to the applicable laws. The Member State shall provide for a due diligence process in order to ensure a commercially sound investment strategy for the purpose of implementing the urban development aid measure.
+
+**9.** Urban development funds shall be managed on a commercial basis and shall ensure profit-driven financing decisions. This is considered to be the case when the managers of the urban development fund fulfill the following conditions:(a) the managers of urban development funds shall be obliged by law or contract to act with the diligence of a professional manager in good faith and avoiding conflicts of interest; best practices and regulatory supervision shall apply;(b) the remuneration of the managers of urban development funds shall conform to market practices. This requirement is considered to be met where a manager is selected through an open, transparent and non-discriminatory call, based on objective criteria linked to experience, expertise and operational and financial capacity;(c) the managers of urban development funds shall receive a remuneration linked to performance, or shall share part of the investment risks by co-investing own resources so as to ensure that their interests are permanently aligned with the interests of the public investors;(d) the managers of urban development funds shall set out an investment strategy, criteria and the proposed timing of investments in urban development projects, establishing the *ex ante* financial viability and their expected impact on urban development;(e) a clear and realistic exit strategy shall exist for each equity and quasi-equity investment.
+
+**10.** Where an urban development fund provides loans or guarantees to urban development projects, the following conditions shall be fulfilled:(a) in the case of loans, the nominal amount of the loan is taken into account in calculating the maximum investment amount for the purposes of paragraph 3 of this Article;(b) in the case of guarantees, the nominal amount of the underlying loan is taken into account in calculating the maximum investment amount for the purposes of paragraph 3 of this Article.
+
+**11.** The Member State may assign the implementation of the urban development aid measure to an entrusted entity.
+
+## *SECTION 2*
+
+### ***Aid to SMEs***
+
+<a id="art_17"></a>
+
+### Article 17 — Investment aid to SMEs
+
+**1.** Investment aid to SMEs operating inside or outside the territory of the Union shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be one or several of the following:(a) the costs of investment in tangible and intangible assets, including one-off non-amortizable costs linked directly to the investment and its initial installation;(b) the estimated wage costs of employment directly created by the investment project, calculated over 2 years;(c) a combination of part of the costs referred to in points (a) and (b) but not exceeding the amount of point (a) or (b), whichever is higher.
+
+**3.** In order to be considered an eligible cost for the purposes of this Article, an investment shall consist of the following:(a) an investment in tangible and intangible assets related to the setting-up of a new establishment; the extension of an existing establishment; the diversification of the output of an establishment into products or services not previously produced in or provided from the establishment; or a fundamental change in the overall production process of the product(s) or overall provision of the service(s) concerned by the investment in the establishment; or(b) an acquisition of assets belonging to an establishment that has closed or would have closed had it not been purchased. Sole acquisition of the shares of an undertaking does not qualify as investment. The transaction shall take place under market conditions. In principle, only the costs of buying the assets from third parties unrelated to the buyer shall be taken into consideration. However, if a member of the family of the original owner, or one or more employees, takes over a small enterprise, the condition that the assets shall be bought from third parties unrelated to the buyer does not apply.
+
+A replacement investment thus does not constitute an investment in the meaning of this paragraph.
+
+**3a.** Costs related to the lease of tangible assets may be taken into account under the following conditions:(a) for land and buildings, the lease must continue for at least 3 years after the expected date of completion of the investment;(b) for plant or machinery, the lease must take the form of financial leasing and must contain an obligation for the aid beneficiary to purchase the asset at the expiry of the term of the lease.
+
+**4.** Intangible assets shall fulfil all of the following conditions:(a) they shall be used exclusively in the establishment receiving the aid;▼M6(b) they shall be amortisable;▼B(c) they shall be purchased under market conditions from third parties unrelated to the buyer;▼M6(d) they shall be included in the assets of the undertaking that receives the aid for at least 3 years.▼B
+
+**5.** Employment directly created by an investment project shall fulfil the following conditions:(a) it shall be created within three years of completion of the investment;(b) there shall be a net increase in the number of employees in the establishment concerned, compared with the average over the previous 12 months;(c) it shall be maintained during a minimum period of three years from the date the post was first filled.
+
+**6.** The aid intensity shall not exceed:(a) 20 % of the eligible costs in the case of small enterprises;(b) 10 % of the eligible costs in the case of medium-sized enterprises.
+
+<a id="art_18"></a>
+
+### Article 18 — Aid for consultancy in favour of SMEs
+
+**1.** Aid for consultancy in favour of SMEs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+**3.** The eligible costs shall be the costs of consultancy services provided by external consultants.
+
+**4.** The services concerned shall not be a continuous or periodic activity nor relate to the undertaking's usual operating costs, such as routine tax consultancy services, regular legal services or advertising.
+
+<a id="art_19"></a>
+
+### Article 19 — Aid to SMEs for participation in fairs
+
+**1.** Aid to SMEs for participation in fairs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be the costs incurred for renting, setting up and running the stand for the participation of an undertaking in any particular fair or exhibition.
+
+**3.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+<a id="art_19a"></a>
+
+### Article 19a — Aid for costs incurred by SMEs participating in community-led local development (‘CLLD’) projects
+
+**1.** Aid for costs incurred by SMEs participating in CLLD projects covered by Regulation (EU) No 1303/2013 or Regulation (EU) 2021/1060 shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The following costs, set out in Article 35(1) of Regulation (EU) No 1303/2013 or Article 34(1) of Regulation (EU) 2021/1060, whichever is applicable, shall be eligible for CLLD projects:(a) the costs of preparatory support, capacity building, training and networking with a view of preparing and implementing a CLLD strategy;(b) implementation of approved operations;(c) preparation and implementation of the cooperation activities;(d) running costs linked to the management of the implementation of the CLLD strategy;(e) animation of the CLLD strategy in order to facilitate exchange between stakeholders to provide information and to promote the strategy and projects, and to support potential beneficiaries with a view of developing operations and preparing applications.
+
+**3.** The aid intensity shall not exceed the maximum support rates provided for in the Fund specific Regulations supporting CLLD.
+
+<a id="art_19b"></a>
+
+### Article 19b — Limited amounts of aid to SMEs benefitting from community-led local development (‘CLLD’) projects
+
+**1.** Aid to undertakings participating in, or benefitting from, CLLD projects, as referred to in Article 19a(1), shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The total amount of aid under this Article granted per project shall not exceed EUR 200 000 .
+
+<a id="art_19c"></a>
+
+### Article 19c — Aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat
+
+**1.** Aid to microenterprises in the form of of public interventions concerning the supply of electricity, gas or heat shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled. This Article shall apply to:(a) public interventions in price setting reducing the prices applied by suppliers to microenterprises per unit of electricity, gas or heat;(b) payments made to microenterprises, be it directly or via suppliers, per unit of electricity, gas or heat consumption compensating for part of the costs of that consumption.
+
+**2.** The measures pursuant to paragraph 1 shall:(a) discriminate neither between suppliers nor between microenterprises;(b) provide that all suppliers are eligible to provide offers for the supply of electricity, gas or heat to microenterprises on the same basis;(c) provide for a mechanism that, if granted via a supplier, ensures that the aid is passed on to the largest extent possible the final beneficiary; and(d) result in a price that is above cost, at a level where effective price competition can occur.
+
+**3.** The aid amount shall be equal to the payment granted or, in the case of public interventions in price setting, shall not exceed the difference between the market price that would have had to be paid for the total electricity, gas and/or heat consumed by a beneficiary, and the price to be paid for this consumption following the public intervention.
+
+<a id="art_19d"></a>
+
+### Article 19d — Aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine
+
+**1.** Aid to SMEs in the form of public interventions concerning the supply of electricity, gas or heat, to the extent it is produced from natural gas or electricity, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled. This Article shall apply to:(a) public interventions in price setting reducing the prices applied by suppliers per unit of electricity, gas or heat;(b) payments granted to SMEs, be it directly or via suppliers, per unit of electricity, gas or heat consumption compensating for part of the costs of that consumption.
+
+**2.** The measures pursuant to paragraph 1 shall:(a) be limited to maximum 70 % of the beneficiary's consumption of electricity, gas or heat produced from natural gas or electricity over the period covered by the aid measure;(b) discriminate neither between suppliers nor between SMEs;(c) provide for compensation of suppliers, if the public intervention requires them to supply below cost;(d) provide that all suppliers are eligible to provide offers for the supply of electricity, gas or heat on the same basis;(e) provide for a mechanism that, if granted via a supplier, ensures that the aid is passed on to the largest extent possible to the final beneficiary; and(f) result in an average unit price of supplies at least equal to the average price per unit of electricity, gas, or heat respectively to final customers in the Member State concerned over the period from 1 January to 31 December 2021.
+
+**3.** Payments made to suppliers for supplies provided to SMEs, as imposed by public interventions in price setting below the cost of the supplier, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that:(a) the public intervention in price setting meets the requirements set out in paragraph 2; and(b) the compensation payment shall not exceed the difference between the price that the supplier could have expected to achieve when applying market-based supply prices without the intervention and the price set below cost by the public intervention.
+
+**4.** This Article shall apply to aid granted for the cost of electricity, gas or heat which is consumed during a period where public interventions in price setting for the benefit of SMEs that receive supplies of either gas, electricity or heat are expressly allowed pursuant to secondary legislation based on Article 122 of the Treaty. The granting of aid shall occur no later than 12 months after the end of this period.
+
+**5.** The aid amount shall be equal to the payment granted either to the SME or the supplier, or, in the case of public interventions in price setting, shall not exceed the difference between the market price that would have had to be paid for the total energy consumed by a beneficiary, and the price to be paid for this consumption following the public intervention.
+
+## *SECTION 2a*
+
+### ***Aid for European Territorial Cooperation***
+
+<a id="art_20"></a>
+
+### Article 20 — Aid for costs incurred by undertakings participating in European Territorial Cooperation project
+
+**1.** Aid for costs incurred by undertakings participating in European Territorial Cooperation projects covered by Regulation (EU) No 1299/2013 or Regulation (EU) 2021/1059 shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** To the extent that they are linked to the cooperation project, the following costs, which shall have the meaning ascribed to them in Commission Delegated Regulation (EU) No 481/2014 (56), or Articles 38 to 44 of Regulation (EU) 2021/1059, whichever is applicable, shall be eligible costs:(a) staff costs;(b) office and administrative costs;(c) travel and accommodation costs;(d) external expertise and services costs;(e) equipment costs;(f) costs for infrastructure and works.
+
+**3.** The aid intensity shall not exceed the maximum co-financing rate provided for in Regulation (EU) No 1303/2013 or Regulation (EU) 2021/1060 and/or Regulation (EU) 2021/1059, whichever is applicable.
+
+<a id="art_20a"></a>
+
+### Article 20a — Limited amounts of aid to undertakings for participation in European Territorial Cooperation projects
+
+**1.** Aid to undertakings for their participation in European Territorial Cooperation projects covered by Regulation (EU) No 1299/2013 or by Regulation (EU) 2021/1059 shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The total amount of aid under this Article granted to an undertaking per project shall not exceed EUR 22 000 .
+
+## *SECTION 3*
+
+### ***Aid for access to finance for SMEs***
+
+<a id="art_21"></a>
+
+### Article 21 — Risk finance aid
+
+**1.** Risk finance aid schemes in favour of SMEs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Member States, either directly or through an entrusted entity, shall implement the risk finance measure via one or more financial intermediaries. Member States or entrusted entities shall provide a public contribution to financial intermediaries in accordance with paragraphs 9 to 13; and financial intermediaries, in accordance with paragraphs 14 to 17, shall make risk finance investments in accordance with paragraphs 4 to 8, into eligible undertakings that comply with paragraph 3. Neither Member States nor entrusted entities shall invest directly into the eligible undertakings without the involvement of a financial intermediary.
+
+**3.** Eligible undertakings shall be undertakings that are unlisted SMEs and fulfil, at the time of the initial risk finance investment, at least one of the following conditions:(a) they have not been operating in any market;(b) they have been operating in any market for any of the following:(i) less than 10 years following their registration; or(ii) less than 7 years after their first commercial sale.Where one of the eligibility periods referred to in points (i) and (ii) has been applied to a given undertaking, only that period can be applied also to any subsequent risk finance aid to the same undertaking. For undertakings that have acquired another undertaking or were formed through a merger, the eligibility period applied shall also encompass the operations of the acquired undertaking or the merged undertakings, respectively, except for such acquired or merged undertakings whose turnover accounts for less than 10 % of the turnover of the acquiring undertaking in the financial year preceding the acquisition or, in case of undertakings formed through a merger, less than 10 % of the combined turnover that the merging undertakings had in the financial year preceding the merger. Concerning the eligibility period referred to in point (i), if applied, for undertakings that are not subject to registration, the eligibility period shall start from either the moment when the undertaking starts its economic activity or the moment when it becomes liable to tax with regard to its economic activity, whichever is earlier;(c) they require an initial investment which, based on a business plan prepared in view of a new economic activity, is higher than 50 % of their average annual turnover in the preceding 5 years. By way of derogation from the first sentence, that threshold shall be limited to 30 % with regard to the following investments, which shall be considered initial investments into a new economic activity:(i) investments significantly improving the environmental performance of the activity in accordance with Article 36(2);(ii) other environmentally sustainable investments as defined in Article 2(1) of Regulation (EU) 2020/852;(iii) investments aiming at increasing capacity for the extraction, separation, refining, processing or recycling of a critical raw material listed in Annex IV.
+
+**4.** The risk finance investment may also cover follow-on investments made in eligible undertakings, including after the eligibility period referred to in paragraph 3, point (b), if the following cumulative conditions are fulfilled:(a) the total amount of risk finance referred to in paragraph 8 is not exceeded;(b) the possibility of follow-on investments was provided for in the original business plan;(c) the undertaking receiving the follow-on investments has not become a ‘linked enterprise’, within the meaning of Article 3(3) of Annex I, with another undertaking other than the financial intermediary or the independent private investor providing risk finance under the measure, unless the new entity is an SME.
+
+**5.** Risk finance investments into eligible undertakings may take the form of equity, quasi-equity investments, loans, guarantees, or a mix thereof.
+
+**6.** When guarantees are provided, the guarantee shall not exceed 80 % of the underlying loan to the eligible undertaking.
+
+**7.** For risk finance investments in the form of equity and quasi-equity investments in eligible undertakings, a risk finance measure may cover replacement capital only if the latter is combined with new capital representing at least 50 % of each investment round into the eligible undertakings.
+
+**8.** The total outstanding amount of risk finance investment referred to in paragraph 5 shall not exceed EUR 16.5 million per eligible undertaking under any risk finance measure. In order to calculate this maximum risk finance investment amount, the following shall be taken into account:(a) in the case of loans and quasi-equity investments structured as debt, the nominal outstanding amount of the instrument;(b) in the case of guarantees, the nominal outstanding amount of the underlying loan.
+
+**9.** The public contribution provided to financial intermediaries may take one of the following forms:(a) equity or quasi-equity, or financial endowment to provide risk finance investment directly or indirectly to eligible undertakings;(b) loans to provide risk finance investment directly or indirectly to eligible undertakings;(c) guarantees to cover losses from risk finance investment directly or indirectly to eligible undertakings.
+
+**10.** Risk-reward sharing arrangements between, on the one hand, the Member State (or its entrusted entity) and, on the other hand, private investors, financial intermediaries or fund managers, shall be adequate and shall comply with the following conditions:(a) for risk finance aid in forms other than guarantees, prioritised returns from profits (asymmetric profit sharing or upside incentives) shall be given preference over protection against potential losses (downside protection);(b) in the case of asymmetric loss-sharing between public and private investors, the first loss borne by the public investor shall be capped at 25 % of the risk finance investment;(c) for risk finance aid in the form of guarantees, the guarantee rate shall be limited to 80 % and total losses assumed by a Member State shall be capped at a maximum of 25 % of the underlying guaranteed portfolio. Only guarantees covering expected losses of the underlying guaranteed portfolio may be provided for free. If a guarantee also comprises coverage of unexpected losses, the financial intermediary shall pay, for the part of the guarantee covering unexpected losses, a market-conform guarantee premium.
+
+**11.** Where the public contribution provided to the financial intermediary takes the form of equity and quasi-equity as referred to in paragraph 9, point (a), no more than 30 % of the financial intermediary's aggregate capital contributions and uncalled committed capital may be used for liquidity management purposes.
+
+**12.** For risk finance measures aimed at providing risk finance investments in the form of equity, quasi-equity or loans to eligible undertakings, the public contribution provided to the financial intermediary shall leverage additional finance from independent private investors at the level of the financial intermediaries or the eligible undertakings, so as to achieve an aggregate private participation rate reaching the following minimum thresholds:(a) 10 % of the risk finance investment provided to the eligible undertakings referred to in paragraph 3, point (a);(b) 40 % of the risk finance investment provided to the eligible undertakings referred to in paragraph 3 point (b);(c) 60 % of the risk finance investment provided to the eligible undertakings referred to in paragraph 3, point (c), and for follow-on risk finance investment in eligible undertakings after the eligibility period referred to in paragraph 3, point (b).Finance provided by independent private investors benefitting from risk finance aid in the form of tax incentives in accordance with Article 21a shall not be taken into account for the purposes of reaching the aggregate private participation rates set out in the first subparagraph of this paragraph.The private participation rates mentioned in the first subparagraph, points (b) and (c), shall be reduced to 20 % under point (b) and 30 % under point (c) for investments that are either: made in assisted areas designated in an approved regional aid map in force at the time of provision of the risk finance investment in application of Article 107(3), point (a), of the Treaty; or that receive support on the basis of the Member State’s recovery and resilience plan as approved by the Council; or receive support from the European Defence Fund in accordance with Regulation (EU) 2021/697 or under the Union Space Programme in accordance with Regulation (EU) 2021/696 of the European Parliament and of the Council (57); or that receive support from Union funds implemented under shared management covered by Regulation (EU) 1303/2013, Regulation (EU) 2021/1060 or Regulation (EU) 2021/2115 of the European Parliament and of the Council (58).
+
+**13.** Where a risk finance measure is implemented through a financial intermediary targeting eligible undertakings at different development stages as referred to in paragraphs 3 and 4, the financial intermediary shall achieve a private participation rate that represents at least the weighted average based on the volume of the individual investments in the underlying portfolio and resulting from the application of the minimum participation rates to such investments as referred to in paragraph 12, unless the required participation from independent private investors is achieved at the level of the eligible undertakings.
+
+**14.** Financial intermediaries and fund managers shall be selected through an open, transparent and non-discriminatory procedure in accordance with applicable Union and national laws. Member States may require that eligible financial intermediaries and fund managers fulfil predefined criteria objectively justified by the nature of the investments. The procedure shall be based on objective criteria linked to experience, expertise and operational and financial capacity, and shall comply with the following cumulative conditions:(a) it shall ensure that eligible financial intermediaries and fund managers are established in accordance with the applicable laws;(b) it shall not discriminate between financial intermediaries and fund managers on the basis of their place of establishment or incorporation in any Member State;(c) it shall aim at establishing adequate risk-reward sharing arrangements as referred to in paragraph 10, and profit-driven decisions as referred to in paragraph 15.
+
+**15.** Risk finance measures shall ensure that the financial intermediaries receiving the public contribution take profit-driven decisions when providing eligible undertakings with risk finance investments. This obligation is met where the following cumulative conditions are fulfilled:(a) the Member State, or the entity entrusted with the implementation of the measure, shall provide for a due diligence process in order to ensure a commercially sound investment strategy for the purpose of implementing the risk finance measure, including an appropriate risk diversification policy aimed at achieving economic viability and efficient scale in terms of size and territorial scope of the relevant portfolio of investments;(b) risk finance investments provided to the eligible undertakings shall be based on a viable business plan, containing details of product, sales and profitability development, establishing *ex ante* financial viability;(c) a clear and realistic exit strategy shall exist for each equity and quasi-equity investment.
+
+**16.** Financial intermediaries shall be managed on a commercial basis. This requirement is met where the financial intermediary and, depending on the type of risk finance measure, the fund manager, fulfil the following cumulative conditions:(a) they shall be obliged by law or contract to act in accordance with best practices and with the diligence of a professional manager acting in good faith and avoiding conflicts of interest; regulatory supervision shall apply, where relevant;(b) their remuneration shall conform to market practices. This requirement is presumed to be met as long as they are selected through an open, transparent and non-discriminatory selection procedure in accordance with in paragraph 14;(c) they shall share part of the investment risks by either co-investing their own resources or receiving a remuneration linked to performance, so as to ensure that their interests are permanently aligned with the interests of the Member State or its entrusted entity;(d) they shall set out an investment strategy, criteria and the proposed timing of investments;(e) investors shall be allowed to be represented in the governance bodies of the investment fund, such as the supervisory board or the advisory committee, if any.
+
+**17.** In a risk finance measure where risk finance investment is provided to eligible undertakings in the form of guarantees, loans or quasi-equity investments structured as debt, the financial intermediary shall undertake risk finance investments into eligible undertakings that would not have been carried out or would have been carried out in a restricted or different manner without the aid. The financial intermediary shall be able to demonstrate that it operates a mechanism that ensures that all the advantages are passed on to the largest extent to the eligible undertakings in the form of higher volumes of financing, riskier portfolios, lower collateral requirements, lower guarantee premiums or lower interest rates.
+
+**18.** Risk finance measures providing risk finance investments for SMEs that do not fulfil the conditions laid down in paragraph 3 shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the following cumulative conditions are fulfilled:(a) at the level of the SMEs, the aid fulfils the conditions laid down in Commission Regulation (EU) No 1407/2013 (59), Commission Regulation (EU) No 1408/2013 (60) or Regulation (EU) No 717/2014, whichever is applicable;(b) all the conditions laid down in this Article are fulfilled, with the exception of the conditions set out in paragraphs 3, 4, 8, 12 and/or 13;(c) for risk finance measures providing risk finance investments to eligible undertakings in the form of equity, quasi-equity or loans, the measure shall leverage additional financing from independent private investors at the level of the financial intermediaries or the SMEs, so as to achieve an aggregate private participation rate reaching at least 60 % of the risk finance provided to the SMEs.
+
+The private participation rate mentioned in the first subparagraph, point (c), shall be reduced to 30 % for investments that are either: made in assisted areas designated in an approved regional aid map in force at the time of provision of the risk finance investment in application of Article 107(3), point (a), of the Treaty; or that receive support on the basis of the Member State’s recovery and resilience plan as approved by the Council; or receive support from the European Defence Fund in accordance with Regulation (EU) 2021/697or under the Union Space Programme in accordance with Regulation (EU) 2021/696 or from Union Funds implemented under shared management covered by Regulation (EU) 1303/2013, Regulation (EU) 2021/1060 or Regulation (EU) 2021/2115.
+
+<a id="art_21a"></a>
+
+### Article 21a — Risk finance aid to SMEs in the form of tax incentives for private investors who are natural persons
+
+**1.** Risk finance aid schemes in favour of SMEs in the form of tax incentives to independent private investors who are natural persons providing risk finance directly or indirectly to eligible undertakings shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Eligible undertakings are those that fulfill the criteria laid down in Article 21(3). The total risk finance investment provided under Article 21 and under this Article to each eligible undertaking shall not exceed the maximum amount laid down in Article 21(8).
+
+**3.** Where the independent private investor provides risk finance indirectly through a financial intermediary, the eligible investment shall take the form of the acquisition of shares or participations in the financial intermediary, which shall in turn provide risk finance investments to eligible undertakings in accordance with Article 21(5) to (8). No tax incentive may be granted in respect of the services provided by the financial intermediary or its managers.
+
+**4.** Where the independent private investor provides risk finance directly to the eligible undertaking, only the acquisition of newly issued full-risk ordinary shares issued by an eligible undertaking shall constitute an eligible investment. Those shares shall be kept for at least 3 years. Replacement capital shall only be covered under the conditions laid down in Article 21(7). Concerning the possible forms of tax incentives, losses arising upon disposal of the shares may be set-off against income tax. In the case of tax relief on dividends, any dividend received in respect of qualifying shares may be (fully or partially) exempt from income tax. Any profit on the sale of qualifying shares may be either (fully or partially) exempt from capital gains tax or the tax liability with respect to such profit may be deferred if reinvested in new qualifying shares within 1 year.
+
+**5.** Where the independent private investor provides risk finance directly to the eligible undertaking, in order to ensure an adequate participation of such independent private investor, in accordance with Article 21(12), the tax relief, counted as the cumulative maximum tax relief from all tax incentives combined, shall not surpass the following maximum thresholds:(a) 50 % of the eligible investment carried out by the independent private investor into the eligible undertakings referred to in Article 21(3), point (a);(b) 35 % of the eligible investment carried out by the independent private investor into the eligible undertakings referred to in Article 21(3), point (b);(c) 20 % of the eligible investment carried out by the independent private investor into the eligible undertakings referred to in Article 21(3), point (c), or of a follow-on eligible investment into an eligible undertaking after the eligibility period referred to in Article 21(3), point (b).
+
+The tax relief thresholds for the direct investments mentioned in the first subparagraph, may be increased up to 65 % under point (a), up to 50 % under point (b) and up to 35 % under point (c) for investments that are either: made in assisted areas designated in an approved regional aid map in force at the time of provision of the risk finance investment in application of Article 107(3), point (a), of the Treaty; or that receive support on the basis of the Member State’s recovery and resilience plan as approved by the Council; or receive support from the European Defence Fund in accordance with Regulation (EU) 2021/697 or under the Union Space Programme in accordance with Regulation (EU) 2021/696; or that receive support from Union funds implemented under shared management covered by Regulation (EU) 1303/2013, Regulation (EU) 2021/1060 or Regulation (EU) 2021/2115.
+
+**6.** Where the independent private investor provides risk finance indirectly through a financial intermediary, and in accordance with Article 21(12), the tax relief, counted as the cumulative maximum tax relief from all tax incentives combined, shall not surpass 30 % of the eligible investment carried out by the independent private investor into an eligible undertaking referred to in Article 21(3). This tax relief threshold may be increased up to 50 % for investments that are either: made in assisted areas designated in an approved regional aid map in force at the time of provision of the risk finance investment in application of Article 107(3), point (a), of the Treaty; or that receive support on the basis of the Member State’s recovery and resilience plan as approved by the Council; or receive support from the European Defence Fund in accordance with Regulation (EU) 2021/697 or under the Union Space Programme in accordance with Regulation (EU) 2021/696; or that receive support from Union funds implemented under shared management covered by Regulation (EU) 1303/2013, Regulation (EU) 2021/1060 or Regulation (EU) 2021/2115.
+
+<a id="art_22"></a>
+
+### Article 22 — Aid for start-ups
+
+**1.** Start-up aid schemes shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Eligible undertakings shall be any unlisted small enterprise up to 5 years following its registration, that fulfils the following cumulative conditions:(a) it has not taken over the activity of another undertaking, unless the turnover of the overtaken activity accounts for less than 10 % of the turnover of the eligible undertaking in the financial year preceding the take-over;(b) it has not yet distributed profits;(c) it has not acquired another undertaking or has not been formed through a merger, unless the turnover of the acquired undertaking accounts for less than 10 % of the turnover of the eligible undertaking in the financial year preceding the acquisition or the turnover of the undertaking formed through a merger is less than 10 % higher than the combined turnover that the merging undertakings had in the financial year preceding the merger.
+
+For eligible undertakings that are not subject to registration, the 5 year eligibility period shall start from either the moment when the undertaking starts its economic activity or the moment it becomes liable to tax with regard to its economic activity, whichever is earlier.
+
+By way of derogation from the first subparagraph, point (c), undertakings formed through a merger between undertakings eligible for aid under this Article shall also be considered eligible undertakings up to 5 years from the date of registration of the oldest of the merging undertakings.
+
+**3.** Start-up aid shall take the form of:(a) loans with interest rates which are not conform with market conditions, with a duration of 10 years and up to a maximum nominal amount of EUR 1.1 million, or EUR 1.65 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty, or EUR 2.2 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty. For loans with a duration comprised between 5 years and 10 years the maximum amounts may be adjusted by multiplying the amounts above by the ratio between 10 years and the actual duration of the loan. For loans with a duration of less than 5 years, the maximum amount shall be the same as for loans with a duration of 5 years;(b) guarantees with premiums which are not conform with market conditions, with a duration of 10 years and up to maximum EUR 1.65 million of amount guaranteed, or EUR 2.48 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty, or EUR 3.3 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty. For guarantees with a duration comprised between 5 years and 10 years the maximum amount guaranteed may be adjusted by multiplying the amounts above by the ratio between 10 years and the actual duration of the guarantee. For guarantees with a duration of less than 5 years, the maximum amount guaranteed shall be the same as for guarantees with a duration of 5 years. The guarantee shall not exceed 80 % of the underlying loan;(c) grants, including equity or quasi equity investment, interests rate and guarantee premium reductions up to EUR 0.5 million gross grant equivalent or EUR 0.75 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty, or EUR 1 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty;(d) tax incentives to eligible undertakings up to EUR 0.5 million gross grant equivalent or EUR 0.75 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty, or EUR 1 million for undertakings established in assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty.
+
+**4.** A beneficiary can receive support through a mix of the aid instruments referred to in paragraph 3 of this Article, provided that the proportion of the amount granted through one aid instrument, calculated on the basis of the maximum aid amount allowed for that instrument, is taken into account in order to determine the residual proportion of the maximum aid amount allowed for the other instruments forming part of such a mixed instrument.
+
+**5.** For small and innovative enterprises, the maximum amounts set out in paragraph 3 may be doubled.
+
+**6.** Where a start-up aid scheme is implemented through one or more financial intermediaries, the conditions applying to financial intermediaries laid down in Article 21(10), (14), (15), (16) and (17), shall apply.
+
+**7.** In addition to the amounts laid down in paragraphs 3, 4 and 5, start-up aid schemes can take the form of either a transfer of intellectual property (IP) or a grant of the related access rights, either free of charge or below market value. The transfer or the grant shall be from a research and knowledge-dissemination organisation, within the meaning of Article 2, point (83), that has developed the underlying IP through its independent own or collaborative research and development activity, to an eligible undertaking within the meaning paragraph 2. The transfer or the grant shall fulfill all of the following conditions:(a) the purpose of the transfer of IP or the grant of related access rights is to bring a new product or service to the market; and(b) the value of the IP is set at its market price, which is the case if it has been set according to one of the following methods:(i) the amount has been established by means of an open, transparent and non-discriminatory competitive procedure;(ii) an independent expert valuation confirms that the amount is at least equal to the market price;(iii) in cases where the eligible undertaking has a right of first refusal as regards the IP generated in collaboration with the research and knowledge-dissemination organisation, where the research and knowledge-dissemination organisation exercises a reciprocal right to solicit more economically advantageous offers from third parties so that the collaborating eligible undertaking has to match its offer accordingly.The value of any contribution, both financial and non-financial, of the eligible undertaking to the costs of the research and knowledge-dissemination organisation’s activities that resulted in the IP concerned may be deducted from the value of the IP referred to in this point.(c) the aid amount of the IP transfer or the grant of the related access rights under this paragraph shall not exceed EUR 1 million. The aid amount corresponds to the value of the IP referred to in point (b), less the above-mentioned deduction referred to in the last sentence of point (b) and less any remuneration due from the beneficiary for that IP. The value of the IP referred to in point (b) can exceed EUR 1 million, in which case such additional amount may be covered by the eligible undertaking with own funds or other means.
+
+<a id="art_23"></a>
+
+### Article 23 — Aid to alternative trading platforms specialised in SMEs
+
+**1.** Aid in favour of alternative trading platforms specialised in SMEs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Where the platform operator is a small enterprise, the aid measure may take the form of start-up aid to the platform operator, in which case the conditions laid down in Article 22 shall apply.
+
+The aid measure may take the form of tax incentives to independent private investors that are natural persons in respect of their risk finance investments made through an alternative trading platform into undertakings eligible under the conditions laid down in Article 21a(2) and (5).
+
+<a id="art_24"></a>
+
+### Article 24 — Aid for scouting costs
+
+**1.** Aid for scouting costs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be:(a) the costs for initial screening and formal due diligence undertaken by managers of financial intermediaries or investors to identify eligible undertakings pursuant to Articles 21, 21a and 22;(b) the costs for investment research, as defined in Article 36(1) of Commission Delegated Regulation (EU) 2017/565 (61), in an individual eligible undertaking pursuant to Articles 21, 21a and 22, provided this research is publicly disseminated, and, if it has been disseminated to clients of the investment research provider before public dissemination, is disseminated publicly in the same form and no later than 3 months after the first dissemination to clients.
+
+**3.** Investment research referred to in paragraph 2, point (b), of this Article shall fulfil the requirements laid down in Articles 36 and 37 of Delegated Regulation (EU) 2017/565.
+
+**4.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+## *SECTION 4*
+
+### ***Aid for research and development and innovation***
+
+<a id="art_25"></a>
+
+### Article 25 — Aid for research and development projects
+
+**1.** Aid for research and development projects, including research and development projects having received a Seal of Excellence quality label under the Horizon 2020 or under the Horizon Europe programme and co-funded research and development projects and, where applicable, aid for co-funded Teaming actions, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aided part of the research and development project shall completely fall within one or more of the following categories:(a) fundamental research;(b) industrial research;(c) experimental development;(d) feasibility studies.
+
+**3.** The eligible costs of research and development projects shall be allocated to a specific category of research and development and shall be the following:(a) personnel costs: researchers, technicians and other supporting staff to the extent employed on the project;(b) costs of instruments and equipment to the extent and for the period used for the project. Where such instruments and equipment are not used for their full life for the project, only the depreciation costs corresponding to the life of the project, as calculated on the basis of generally accepted accounting principles are considered as eligible.(c) Costs for of buildings and land, to the extent and for the duration period used for the project. With regard to buildings, only the depreciation costs corresponding to the life of the project, as calculated on the basis of generally accepted accounting principles are considered as eligible. For land, costs of commercial transfer or actually incurred capital costs are eligible.(d) costs of contractual research, knowledge and patents bought or licensed from outside sources at arm's length conditions, as well as costs of consultancy and equivalent services used exclusively for the project;▼M6(e) additional overheads and other operating expenses, including costs of materials, supplies and similar products, incurred directly as a result of the project; without prejudice to Article 7(1), third sentence, such research and development project costs may alternatively be calculated on the basis of a simplified cost approach in the form of a flat-rate of up to 20 %, applied to total eligible research and development project costs referred to in points (a) to (d). In this case, the research and development project costs used for the calculation of the indirect costs shall be established on the basis of normal accounting practices and shall comprise only eligible research and development project costs referred to in points (a) to (d).▼B
+
+**4.** The eligible costs for feasibility studies shall be the costs of the study.
+
+**5.** The aid intensity for each beneficiary shall not exceed:(a) 100 % of the eligible costs for fundamental research;(b) 50 % of the eligible costs for industrial research;(c) 25 % of the eligible costs for experimental development;(d) 50 % of the eligible costs for feasibility studies.
+
+**6.** The aid intensities for industrial research and experimental development may be increased up to a maximum aid intensity of 80 % of the eligible costs in accordance with points (a) to (d), where points (b), (c) and (d) must not be combined with each other:(a) by 10 percentage points for medium-sized enterprises and by 20 percentage point for small enterprises;(b) by 15 percentage points if one of the following conditions is fulfilled:(i) the project involves effective collaboration:— between undertakings among which at least one is an SME, or is carried out in at least two Member States, or in a Member State and in a Contracting Party of the EEA Agreement, and no single undertaking bears more than 70 % of the eligible costs, or— between an undertaking and one or more research and knowledge-dissemination organisations, where the latter bear at least 10 % of the eligible costs and have the right to publish their own research results;(ii) the results of the project are widely disseminated through conferences, publication, open access repositories, or free or open source software;(iii) the beneficiary commits to, on a timely basis, make available licences for research results of aided research and development projects, which are protected by intellectual property rights, at a market price and on non-exclusive and non-discriminatory basis for use by interested parties in the EEA;(iv) the research and development project is carried out in an assisted region fulfilling the conditions of Article 107(3), point (a), of the Treaty;(c) by 5 percentage points if the research and development project is carried out in an assisted region fulfilling the conditions of Article 107(3), point (c), of the Treaty;(d) by 25 percentage points if the research and development project:(i) has been selected by a Member State following an open call to form part of a project jointly designed by at least three Member States or contracting parties to the EEA Agreement; and(ii) involves effective collaboration between undertakings in at least two Member States or contracting parties to the EEA Agreement when the beneficiary is a SME, or in at least three Member States or contracting parties to the EEA Agreement when the beneficiary is a large enterprise; and(iii) if at least one the two following conditions is fulfilled:— the results of the research and development project are widely disseminated in at least three Member States or contracting parties to the EEA Agreement through conferences, publication, open access repositories, or free or open source software; or— the beneficiary commits to, on a timely basis, make available licences for research results of aided research and development projects, which are protected by intellectual property rights, at a market price and on non-exclusive and non-discriminatory basis for use by interested parties in the EEA.
+
+**7.** The aid intensities for feasibility studies may be increased by 10 percentage points for medium-sized enterprises and by 20 percentage points for small enterprises;
+
+<a id="art_25a"></a>
+
+### Article 25a — Aid for projects awarded a Seal of Excellence quality label
+
+**1.** Aid for SMEs for research and development projects as well as feasibility studies awarded a Seal of Excellence quality label under the Horizon 2020 or the Horizon Europe programme, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible activities of the aided research and development project or feasibility study shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules, excluding activities going beyond experimental development activities.
+
+**3.** The categories, maximum amounts and methods of calculation of eligible costs of the aided research and development project or feasibility study shall be those defined as eligible under the Horizon 2020 or Horizon Europe programme rules.
+
+**4.** The maximum aid amount shall not exceed EUR 2,5 million per SME per research and development project or feasibility study.
+
+**5.** The total public funding provided for each research and development project or feasibility study shall not exceed the funding rate set out for that research and development project or feasibility study under the Horizon 2020 or under the Horizon Europe programme rules.
+
+<a id="art_25b"></a>
+
+### Article 25b — Aid for Marie Skłodowska-Curie actions and ERC Proof of Concept actions
+
+**1.** Aid for Marie Skłodowska-Curie actions and ERC Proof of Concept actions awarded a Seal of Excellence quality label under the Horizon 2020 or the Horizon Europe programme shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible activities of the aided action shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules.
+
+**3.** The categories, maximum amounts and methods of calculation of eligible costs of the aided action shall be those defined as eligible under the Horizon 2020 or Horizon Europe programme rules.
+
+**4.** The total public funding provided for each aided action shall not exceed the maximum level of support provided for in the Horizon 2020 or the Horizon Europe programme.
+
+<a id="art_25c"></a>
+
+### Article 25c — Aid involved in co-funded research and development projects
+
+**1.** Aid provided to a co-funded research and development project or a feasibility study (including research and development projects implemented under a European institutionalised Partnership based on Article 185 or Article 187 of the Treaty or a programme co-fund action, as defined in the Horizon Europe programme rules) which is implemented by at least three Member States, or alternatively two Member States and at least one associated country, and selected on the basis of the evaluation and ranking made by independent experts following trans-national calls in line with the Horizon 2020 or Horizon Europe programme rules, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible activities of the aided research and development project or feasibility study shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules, excluding activities going beyond experimental development activities.
+
+**3.** The categories, maximum amounts and methods of calculation of eligible costs shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules.
+
+**4.** The total public funding provided shall not exceed the funding rate established for the research and development project or feasibility study following the selection, ranking and evaluation under the Horizon 2020 or Horizon Europe programme rules.
+
+**5.** The funding provided by the Horizon 2020 or Horizon Europe programme shall cover at least 30 % of the total eligible costs of a research and innovation action or an innovation action as defined under the Horizon 2020 or Horizon Europe programme.
+
+<a id="art_25d"></a>
+
+### Article 25d — Aid for Teaming actions
+
+**1.** Aid provided to co-funded Teaming actions, involving at least two Member States and selected on the basis of the evaluation and ranking made by independent experts following transnational calls under the Horizon 2020 or the Horizon Europe programme rules, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible activities of the co-funded Teaming action shall be those defined as eligible under the Horizon 2020 or Horizon Europe programme rules. Activities going beyond experimental development activities are excluded.
+
+**3.** The categories, maximum amounts and methods of calculation of eligible costs shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules. In addition, investment costs in project-related tangible and intangible assets shall be eligible.
+
+**4.** The total public funding provided shall not exceed the funding rate established for the Teaming action following the selection, ranking and evaluation under the Horizon 2020 or the Horizon Europe programme rules. In addition, for investments in project related tangible and intangible assets the aid shall not exceed 70 % of the investment costs.
+
+**5.** For investment aid for infrastructures under a Teaming action the following additional conditions shall apply:(a) where the infrastructure pursues both economic and non-economic activities, the financing, costs and revenues of each type of activity shall be accounted for separately on the basis of consistently applied and objectively justifiable cost accounting principles;(b) the price charged for the operation or use of the infrastructure shall correspond to a market price;(c) access to the infrastructure shall be open to several users and be granted on a transparent and non-discriminatory basis. Undertakings which have financed at least 10 % of the investment costs of the infrastructure may be granted preferential access under more favourable conditions. In order to avoid overcompensation, such access shall be proportional to the undertaking’s contribution to the investment costs and these conditions shall be made publicly available;(d) where the infrastructure receives public funding for both economic and non-economic activities, Member States shall put in place a monitoring and claw-back mechanism in order to ensure that the applicable aid intensity is not exceeded as a result of an increase in the share of economic activities compared to the situation envisaged at the time of awarding the aid.
+
+<a id="art_25e"></a>
+
+### Article 25e — Aid involved in the co-funding of projects supported by the European Defence Fund or the European Defence Industrial Development Programme
+
+**1.** Aid provided to co-fund a research and development project funded by the European Defence Fund or the European Defence Industrial Development Programme and which is evaluated, ranked and selected in line with the European Defence Fund or the European Defence Industrial Development Programme rules, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs of the aided project shall be those defined as eligible under the European Defence Fund or the European Defence Industrial Development Programme rules.
+
+**3.** The total public funding provided can reach up to 100 % of the eligible costs of the project, meaning that the costs of the project not covered by Union funding can be covered by State aid.
+
+**4.** In case the aid intensity received by the beneficiary exceeds the maximum aid intensity the beneficiary could have received under Article 25(5), (6) and (7), the beneficiary must pay a market price to the granting authority to use for non-defence applications the intellectual property rights or prototypes resulting from the project. In any event, the maximum amount to be paid to the granting authority for this use shall not exceed the difference between the aid received by the beneficiary and the maximum amount of aid the beneficiary could have received applying the maximum aid intensity allowed for that beneficiary under Article 25(5), (6) and (7).
+
+<a id="art_26"></a>
+
+### Article 26 — Investment aid for research infrastructures
+
+**1.** Aid for the construction or upgrade of research infrastructures that perform economic activities shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Where a research infrastructure pursues both economic and non-economic activities, the financing, costs and revenues of each type of activity shall be accounted for separately on the basis of consistently applied and objectively justifiable cost accounting principles.
+
+**3.** The price charged for the operation or use of the infrastructure shall correspond to a market price.
+
+**4.** Access to the infrastructure shall be open to several users and be granted on a transparent and non-discriminatory basis. Undertakings which have financed at least 10 % of the investment costs of the infrastructure may be granted preferential access under more favourable conditions. In order to avoid overcompensation, such access shall be proportional to the undertaking's contribution to the investment costs and these conditions shall be made publicly available.
+
+**5.** The eligible costs shall be the investment costs in intangible and tangible assets.
+
+**6.** The aid intensity shall not exceed 50 % of the eligible costs. The aid intensity may be increased up to 60 % subject to at least two Member States providing the public funding, or for a research infrastructure evaluated and selected at Union level.
+
+**7.** Where a research infrastructure receives public funding for both economic and non-economic activities, Member States shall put in place a monitoring and claw-back mechanism in order to ensure that the applicable aid intensity is not exceeded as a result of an increase in the share of economic activities compared to the situation envisaged at the time of awarding the aid.
+
+<a id="art_26a"></a>
+
+### Article 26a — Investment aid for testing and experimentation infrastructures
+
+**1.** Aid for the construction or upgrade of testing and experimentation infrastructures shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The price charged for the operation or use of the infrastructure shall correspond to a market price or reflect their costs plus a reasonable margin in the absence of a market price.
+
+**3.** Access to the infrastructure shall be open to several users and be granted on a transparent and non-discriminatory basis. Undertakings which have financed at least 10 % of the investment costs of the infrastructure may be granted preferential access under more favourable conditions. In order to avoid overcompensation, such access shall be proportional to the undertaking's contribution to the investment costs and these conditions shall be made publicly available.
+
+**4.** The eligible costs shall be the investment costs in intangible and tangible assets.
+
+**5.** The aid intensity shall not exceed 25 % of the eligible costs.
+
+**6.** The aid intensity may be increased up to a maximum aid intensity of 40 %, 50 % and 60 % of the eligible investment costs of large, medium and small sized enterprises respectively as follows:a) by 10 percentage points for medium sized enterprises and 20 percentage points for small enterprises;b) by additional 10 percentage points for cross-border testing and experimentation infrastructures which are subject to at least two Member States providing the public funding or for testing and experimentation infrastructures evaluated and selected at Union level;c) by additional 5 percentage points for testing and experimentation infrastructures of which at least 80 % of annual capacity is allocated to SMEs.
+
+<a id="art_27"></a>
+
+### Article 27 — Aid for innovation clusters
+
+**1.** Aid for innovation clusters shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Investment aid can be granted to the owner of the innovation cluster. Operating aid can be granted to the operator of the innovation cluster. The operator, when different from the owner, can either have a legal personality or be a consortium of undertakings without a separate legal personality. In all instances separate accounting for the costs and revenues of each activity (ownership, operation and use of the cluster) has to be kept according to the applicable accounting standards by each undertaking.
+
+**3.** Access to the cluster's premises, facilities and activities shall be open to several users and be granted on a transparent and non-discriminatory basis. Undertakings which have financed at least 10 % of the investment costs of the innovation cluster may be granted preferential access under more favourable conditions. In order to avoid overcompensation, such access shall be proportional to the undertaking's contribution to the investment costs and these conditions shall be made publicly available.
+
+**4.** The fees charged for using the cluster’s facilities and for participating in the cluster’s activities shall correspond to the market price or reflect their costs including a reasonable margin.
+
+**5.** Investment aid may be granted for the construction or upgrade of innovation clusters. The eligible costs shall be the investment costs in intangible and tangible assets.
+
+**6.** The aid intensity of investment aid for innovation clusters shall not exceed 50 % of the eligible costs. The aid intensity may be increased by 15 percentage points for innovation clusters located in assisted areas fulfilling the conditions of Article 107(3)(a) of the Treaty and by 5 percentage points for innovation clusters located in assisted areas fulfilling the conditions of Article 107(3)(c) of the Treaty
+
+**7.** Operating aid may be granted for the operation of innovation clusters. It shall not exceed 10 years.
+
+**8.** The eligible costs of operating aid for innovation clusters shall be the personnel and administrative costs (including overhead costs) relating to:(a) animation of the cluster to facilitate collaboration, information sharing and the provision or channelling of specialised and customised business support services;(b) marketing of the cluster to increase participation of new undertakings or organisations and to increase visibility;(c) management of the cluster's facilities; organisation of training programmes, workshops and conferences to support knowledge sharing and networking and transnational cooperation.
+
+**9.** The aid intensity of operating aid shall not exceed 50 % of the total eligible costs during the period over which the aid is granted.
+
+<a id="art_28"></a>
+
+### Article 28 — Innovation aid for SMEs
+
+**1.** Innovation aid for SMEs shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled:
+
+**2.** The eligible costs shall be the following:(a) costs for obtaining, validating and defending patents and other intangible assets;(b) costs for secondment of highly qualified personnel from a research and knowledge-dissemination organization or a large enterprise, working on research, development and innovation activities in a newly created function within the beneficiary and not replacing other personnel;▼M6(c) costs for innovation advisory and support services, including those services provided by research and knowledge dissemination organisations, research infrastructures, testing and experimentation infrastructures or innovation clusters.▼B
+
+**3.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+**4.** In the particular case of aid for innovation advisory and support services the aid intensity can be increased up to 100 % of the eligible costs provided that the total amount of aid for innovation advisory and support services does not exceed EUR 220 000 per undertaking within any 3 year period.
+
+<a id="art_29"></a>
+
+### Article 29 — Aid for process and organisational innovation
+
+**1.** Aid for process and organisational innovation shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid to large undertakings shall only be compatible if they effectively collaborate with SMEs in the aided activity and the collaborating SMEs incur at least 30 % of the total eligible costs.
+
+**3.** The eligible costs shall be the following:(a) personnel costs;(b) costs of instruments, equipment, buildings and land to the extent and for the period used for the project;(c) costs of contractual research, knowledge and patents bought or licensed from outside sources at arm's length conditions;(d) additional overheads and other operating costs, including costs of materials, supplies and similar products, incurred directly as a result of the project.
+
+**4.** The aid intensity shall not exceed 15 % of the eligible costs for large undertakings and 50 % of the eligible costs for SMEs.
+
+<a id="art_30"></a>
+
+### Article 30 — Aid for research and development in the fishery and aquaculture sector
+
+**1.** Aid for research and development in the fishery and aquaculture sector shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aided project shall be of interest to all undertakings in the particular sector or sub-sector concerned.
+
+**3.** Prior to the date of the start of the aided project the following information shall be published on the internet:(a) that the aided project will be carried out;(b) the goals of the aided project;(c) the approximate date for the publication of the results expected from the aided project and its place of publication on the internet;(d) a reference that the results of the aided project will be available to all undertakings active in the particular sector or sub-sector concerned at no cost.
+
+**4.** The results of the aided project shall be made available on internet from the end date of the aided project or the date on which any information concerning those results is given to members of any particular organisation, whatever comes first. The results shall remain available on internet for a period of at least 5 years starting from the end date of the aided project.
+
+**5.** Aid shall be granted directly to the research and knowledge-dissemination organisation and shall not involve the direct granting of non-research related aid to an undertaking producing, processing or marketing fishery or aquaculture products.
+
+**6.** The eligible costs shall be those provided in Article 25(3).
+
+**7.** The aid intensity shall not exceed 100 % of the eligible costs.
+
+## *SECTION 5*
+
+### ***Training aid***
+
+<a id="art_31"></a>
+
+### Article 31 — Training aid
+
+**1.** Training aid shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall not be granted for training which undertakings carry out to comply with national mandatory standards on training.
+
+**3.** The eligible costs shall be the following:(a) trainers' personnel costs, for the hours during which the trainers participate in the training;▼M1(b) trainers' and trainees' operating costs directly relating to the training project such as travel expenses, accommodation costs, materials and supplies directly related to the project, depreciation of tools and equipment, to the extent that they are used exclusively for the training project;▼B(c) costs of advisory services linked to the training project;(d) trainees' personnel costs and general indirect costs (administrative costs, rent, overheads) for the hours during which the trainees participate in the training.
+
+**4.** The aid intensity shall not exceed 50 % of the eligible costs. It may be increased, up to a maximum aid intensity of 70 % of the eligible costs, as follows:(a) by 10 percentage points if the training is given to workers with disabilities or disadvantaged workers;(b) by 10 percentage points if the aid is granted to medium-sized enterprises and by 20 percentage points if the aid is granted to small enterprises.
+
+**5.** Where the aid is granted in the maritime transport sector, the aid intensity may be increased to 100 % of the eligible costs provided that the following conditions are met:(a) the trainees are not active members of the crew but are supernumerary on board; and(b) the training is carried out on board of ships entered in Union registers.
+
+## *SECTION 6*
+
+### ***Aid for disadvantaged workers and for workers with disabilities***
+
+<a id="art_32"></a>
+
+### Article 32 — Aid for the recruitment of disadvantaged workers in the form of wage subsidies
+
+**1.** Aid schemes for the recruitment of disadvantaged workers shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Eligible costs shall be the wage costs over a maximum period of 12 months following recruitment of a disadvantaged worker. Where the worker concerned is a severely disadvantaged worker, eligible costs shall be the wage costs over a maximum period of 24 months following recruitment.
+
+**3.** Where the recruitment does not represent a net increase, compared with the average over the previous 12 months, in the number of employees in the undertaking concerned, the post or posts shall have fallen vacant following voluntary departure, disability, retirement on grounds of age, voluntary reduction of working time or lawful dismissal for misconduct and not as a result of redundancy.
+
+**4.** Except in the case of lawful dismissal for misconduct, the disadvantaged workers shall be entitled to continuous employment for a minimum period consistent with the national legislation concerned or any collective agreements governing employment contracts.
+
+**5.** If the period of employment is shorter than 12 months, or 24 months in the case of severely disadvantaged workers, the aid shall be reduced pro rata accordingly.
+
+**6.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+<a id="art_33"></a>
+
+### Article 33 — Aid for the employment of workers with disabilities in the form of wage subsidies
+
+**1.** Aid for the employment of workers with disabilities shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Eligible costs shall be the wage costs over any given period during which the worker with disabilities is employed.
+
+**3.** Where the recruitment does not represent a net increase, compared with the average over the previous 12 months, in the number of employees in the undertaking concerned, the post or posts shall have fallen vacant following voluntary departure, disabilities, retirement on grounds of age, voluntary reduction of working time or lawful dismissal for misconduct and not as a result of redundancy.
+
+**4.** Except in the case of lawful dismissal for misconduct, the workers with disabilities shall be entitled to continuous employment for a minimum period consistent with the national legislation concerned or any collective agreements which are legally binding for the undertaking and governing employment contracts.
+
+**5.** The aid intensity shall not exceed 75 % of the eligible costs.
+
+<a id="art_34"></a>
+
+### Article 34 — Aid for compensating the additional costs of employing workers with disabilities
+
+**1.** Aid for compensating the additional costs of employing workers with disabilities shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be the following:(a) costs of adapting the premises;(b) costs of employing staff solely for time spent on the assistance of the workers with disabilities and of training such staff to assist workers with disabilities;(c) costs of adapting or acquiring equipment, or acquiring and validating software for use by workers with disabilities, including adapted or assistive technology facilities, which are additional to those which the beneficiary would have incurred had it employed workers who are not workers with disabilities;(d) costs directly linked to transport of workers with disabilities to the working place and for work related activities;(e) wage costs for the hours spent by a worker with disabilities on rehabilitation;(f) where the beneficiary provides sheltered employment, the costs of constructing, installing or modernising the production units of the undertaking concerned, and any costs of administration and transport, provided that such costs result directly from the employment of workers with disabilities.
+
+**3.** The aid intensity shall not exceed 100 % of the eligible costs.
+
+<a id="art_35"></a>
+
+### Article 35 — Aid for compensating the costs of assistance provided to disadvantaged workers
+
+**1.** Aid for compensating the costs of assistance provided to disadvantaged workers shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempt from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be the costs of:(a) employing staff solely for time spent on the assistance of the disadvantaged workers over a maximum period of 12 months following recruitment of a disadvantaged worker or over a maximum period of 24 months following recruitment of a severely disadvantaged worker;(b) of training such staff to assist disadvantaged workers.
+
+**3.** The assistance provided shall consist of measures to support the disadvantaged worker's autonomy and adaptation to the work environment, in accompanying the worker in social and administrative procedures, facilitation of communication with the entrepreneur and managing conflicts.
+
+**4.** The aid intensity shall not exceed 50 % of the eligible costs.
+
+## *SECTION 7*
+
+### ***Aid for environmental protection***
+
+<a id="art_36"></a>
+
+### Article 36 — Investment aid for environmental protection, including decarbonisation
+
+**1.** Investment aid for environmental protection, including aid for the reduction and removal of greenhouse gas emissions, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**1a.** This Article shall not apply to measures for which more specific rules are laid down in Articles 36a, 36b and 38 to 48. This Article shall also not apply to investments in equipment, machinery and industrial production facilities using fossil fuels, including those using natural gas. This is without prejudice to the possibility to grant aid for the installation of add-on components improving the level of environmental protection of existing equipment, machinery and industrial production facilities, in which case the investment shall result neither in the expansion of the production capacity nor higher consumption of fossil fuels.
+
+**1b.** This Article shall also apply to investments in equipment and machinery using, and infrastructure transporting, hydrogen to the extent that the hydrogen used or transported qualifies as renewable hydrogen. It shall also apply to investments in equipment and machinery using hydrogen-derived fuels the energy content of which is derived from renewable sources other than biomass and that have been produced in accordance with the methodologies set out for renewable liquid and gaseous transport fuels of non-biological origin in Directive (EU) 2018/2001 and its implementing or delegated acts.
+
+This Article shall also apply to aid for investments in installations, equipment and machinery producing or using, and dedicated infrastructure referred to in Article 2, point (130), last sentence, transporting hydrogen produced from electricity and which does not qualify as renewable hydrogen, to the extent that it can be demonstrated that the electricity-based hydrogen produced, used or transported achieves life-cycle greenhouse gas emissions savings of at least 70 % relative to a fossil fuel comparator of 94g CO2eq/MJ. To determine the life-cycle greenhouse gas emissions savings under this subparagraph, the greenhouse gas emissions linked to the production of electricity used to produce hydrogen shall be determined by the marginal generation unit in the bidding zone where the electrolyser is located in the imbalance settlement periods when the electrolyser consumes electricity from the grid.
+
+In the cases referred to in the first and second subparagraphs, only hydrogen fulfilling the conditions set out in those subparagraphs shall be used, transported or – where relevant – produced throughout the lifetime of the investment. The Member State shall obtain a commitment to that effect.
+
+**2.** The investment shall fulfil one of the following conditions:▼M6(a) it shall enable the implementation of a project leading to an increase in the environmental protection of the activities of the beneficiary, beyond Union standards in force, irrespective of the presence of mandatory national standards that are more stringent than the Union standards; for projects linked to or involving dedicated infrastructure referred to in Article 2, point (130), last sentence, for hydrogen within the meaning of paragraph 1b, waste heat or CO2 or including a connection to energy infrastructure for hydrogen within the meaning of paragraph 1b, waste heat or CO2, the increase in the environmental protection may also result from the activities of another entity involved in the infrastructure chain; or(b) it shall enable the implementation of a project leading to an increase in the environmental protection of the activities of the beneficiary in the absence of Union standards; for projects linked to or involving dedicated infrastructure referred to in Article 2, point (130), last sentence, for hydrogen within the meaning of paragraph 1b, waste heat or CO2 or including a connection to energy infrastructure for hydrogen within the meaning of paragraph 1b, waste heat or CO2, the increase in the environmental protection may also result from the activities of another entity involved in the infrastructure chain; or▼M6(c) it shall enable the implementation of a project leading to an increase in the environmental protection of the activities of the beneficiary to comply with Union standards that have been adopted but are not yet in force; for projects linked to or involving dedicated infrastructure referred to in Article 2, point (130), last sentence, for hydrogen within the meaning of paragraph 1b, waste heat or CO2 or including a connection to energy infrastructure for hydrogen within the meaning of paragraph 1b, waste heat or CO2, the increase in the environmental protection may also result from the activities of another entity involved in the infrastructure chain.
+
+**2a.** Investments in CO2 capture and transport shall fulfil the following cumulative conditions:(a) the CO2 capture and/or transport, including individual elements of the CCS or CCU chain, shall be integrated into a complete CCS and/or CCU chain;(b) the net present value (‘NPV’) of the investment project over its lifetime shall be negative. For the purpose of calculating the project’s NPV, the avoided costs of CO2 emissions shall be taken into account;(c) the eligible costs shall be exclusively the additional investment costs stemming from capturing the CO2 from a CO2-emitting installation (industrial installation or power plant) or directly from ambient air as well as from buffer storage and transportation of captured CO2 emissions.
+
+**2b.** When the aid aims at reducing or avoiding direct emissions, the aid must not merely displace the emissions concerned from one sector to another and must overall reduce the targeted emissions; in particular, when the aid aims at reducing greenhouse gas emissions, the aid must not merely displace these emissions from one sector to another and must reduce them overall.
+
+**3.** Aid shall not be granted where investments are undertaken to ensure that undertakings merely comply with the Union standards in force. Aid enabling undertakings to comply with Union standards that have been adopted but not yet in force may be granted under this Article provided that the investment for which the aid is granted is implemented and finalised at least 18 months before the date of entry into force of the standard concerned.
+
+**4.** The eligible costs shall be the extra investment costs determined by comparing the costs of the investment to those of a counterfactual scenario that would occur in the absence of the aid, as follows:(a) where the counterfactual scenario consists in carrying out a less environmentally-friendly investment that corresponds to normal commercial practice in the sector or for the activity concerned, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the costs of the less environmentally-friendly investment;(b) where the counterfactual scenario consists in carrying out the same investment at a later point in time, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the Net Present Value of the costs of the later investment, discounted to the point in time when the aided investment would be undertaken;(c) where the counterfactual scenario consists in maintaining the existing installations and equipment in operation, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the Net Present Value of the investments in the maintenance, repair and modernisation of the existing installations and equipment, discounted to the point in time when the aided investment would be undertaken;(d) in the case of equipment subject to leasing agreements, the eligible costs shall consist in the difference in Net Present Value between the leasing of equipment for which State aid is granted and the leasing of the less environmentally-friendly equipment that would be leased in the absence of the aid; the leasing costs shall not include costs relating to the operation of the equipment or installation (fuel costs, insurance, maintenance, other consumables), irrespective of whether they are part of the leasing contract.
+
+In all situations listed in the first subparagraph, points (a) to (d), the counterfactual scenario shall correspond to an investment with comparable output capacity and lifetime that complies with Union standards already in force. The counterfactual scenario shall be credible in the light of legal requirements, market conditions and incentives generated by the EU ETS system.
+
+Where the investment for which State aid is granted consists in the installation of an add-on component to an already existing facility, for which there is no less environmentally-friendly counterfactual investment, the eligible costs shall be the total investment costs.
+
+Where the investment for which State aid is granted consists in the construction of dedicated infrastructure referred to in Article 2, point (130), last sentence, for hydrogen within the meaning of paragraph 1b, waste heat or CO2, that is necessary to enable the increase in the level of environmental protection as referred to in paragraphs 2 and 2a, the eligible costs shall be the total investment costs. Costs for the construction or upgrade of storage facilities, with the exception of storage facilities for renewable hydrogen and hydrogen covered by paragraph 1b, second subparagraph, shall not be eligible.
+
+The costs not directly linked to the achievement of a higher level of environmental protection shall not be eligible.
+
+**5.** The aid intensity shall not exceed 40 % of the eligible costs. Where the investment, with the exception of those which rely on the use of biomass, results in a 100 % reduction of the direct greenhouse gas emissions, the aid intensity may reach 50 %.
+
+**6.** In case of investments relating to CCS and/or CCU, the aid intensity shall not exceed 30 % of the eligible costs.
+
+**7.** The aid intensity may be increased by 10 percentage points for aid granted to medium sized undertakings and by 20 percentage points for aid granted to small undertakings.
+
+**8.** The aid intensity may be increased by 15 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(a) of the Treaty and by 5 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(c) of the Treaty.
+
+**9.** The aid intensity may reach 100 % of the investment costs where aid is granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid in relation to the project’s contribution to the environmental objectives of the measure, for example the aid requested per unit of environmental protection to be delivered.
+
+**10.** Alternatively to paragraphs 4 to 9, the aid amount shall not exceed the difference between the investment costs directly linked to the achievement of a higher level of environmental protection and the operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections and verified *ex post* through a claw-back mechanism.
+
+**11.** By way of derogation from paragraph 4, first subparagraph, points (a) to (d), and paragraphs 9 and 10, the eligible costs may be determined without the identification of the counterfactual scenario and in the absence of a competitive bidding process. In that case, the eligible costs shall be the investment costs directly linked to the achievement of a higher level of environmental protection and the applicable aid intensities and bonuses set out in paragraphs 5 to 8 are reduced by 50 %.
+
+<a id="art_36a"></a>
+
+### Article 36a — Investment aid for recharging or refuelling infrastructure
+
+**1.** Investment aid for recharging or refuelling infrastructure shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** This Article shall only cover aid granted for recharging or refuelling infrastructures that supply vehicles, mobile terminal equipment or mobile groundhandling equipment with electricity or hydrogen. For aided refuelling infrastructure supplying hydrogen, the Member State shall obtain from the beneficiary a commitment that by 31 December 2035 at the latest, the refuelling infrastructure will solely supply renewable hydrogen. This Article does not apply to aid for investments relating to recharging and refuelling infrastructure in ports.
+
+**3.** The eligible costs shall be the costs of the construction, installation, upgrade or extension of recharging or refuelling infrastructure. Those costs may include the costs of the recharging or refuelling infrastructure itself and related technical equipment, the installation of or upgrades to electrical or other components, including electrical cables and power transformers, required for connecting the recharging or refuelling infrastructure to the grid or to a local electricity or hydrogen production or storage unit, as well as civil engineering works, land or road adaptations, installation costs and costs for obtaining related permits.
+
+The eligible costs may also cover the investment costs of on-site production of renewable electricity or renewable hydrogen, and the investment costs of storage units for storing renewable electricity or hydrogen. The nominal production capacity of the on-site renewable electricity or renewable hydrogen production installation shall not exceed the maximum rated output or refuelling capacity of the recharging or refuelling infrastructure to which it is connected.
+
+**4.** Aid under this Article shall be granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid in relation to the project’s contribution to the environmental objectives of the measure for example aid requested per recharging or refuelling point.
+
+**5.** Where the aid is granted in a competitive bidding process complying with the conditions of paragraph 4, the aid intensity may reach up to 100 % of the eligible costs.
+
+**6.** By way of derogation from paragraph 4, aid may be granted in the absence of a competitive bidding process when the aid is granted based on an aid scheme. In this case, the aid intensity shall not exceed 20 % of the eligible costs. The aid intensity may be increased by 20 percentage points for medium-sized enterprises and by 30 percentage points for small enterprises. The aid intensity may also be increased by 15 percentage points for investments located in assisted areas designated in an approved regional aid map in force at the time of provision of the aid in application of in Article 107(3), point (a), of the Treaty or by 5 percentage points for investments located in assisted areas designated in an approved regional aid map in force at the time of provision of the aid in application of Article 107(3), point (c), of the Treaty.
+
+**7.** The aid granted to any one undertaking shall not exceed 40 % of the total budget of the scheme concerned.
+
+**8.** Where the recharging or refuelling infrastructure is open for access by users other than the aid beneficiary or beneficiaries, aid shall only be granted for the construction, installation, upgrade or extension of recharging or refuelling infrastructure accessible to the public and providing non-discriminatory access to users, including in relation to tariffs, authentication and payment methods and other terms and conditions of use. The fees charged to users other than the aid beneficiary or beneficiaries for using the recharging or refuelling infrastructure shall correspond to market prices.
+
+**9.** Operators of recharging or refuelling infrastructure that offer or allow contract-based payments on their infrastructure shall not discriminate between mobility service providers, for example by applying preferential access conditions, or through price differentiation without an objective justification.
+
+**10.** The necessity of aid to invest in recharging or refuelling infrastructure of the same category as the one to be supported with aid (for example, for recharging infrastructure: normal or high power) shall be established through an *ex ante* open public consultation or an independent market study, which are no older than 1 year at the moment of the entry into force of the aid measure. In particular, it shall be established that no such investment is likely to take place on commercial terms within 3 years from the entry into force of the aid measure.
+
+The obligation to conduct an *ex ante* open public consultation or an independent market study laid down in the first subparagraph shall not apply to aid for the construction, installation, upgrade or extension of recharging or refuelling infrastructure that is not accessible to the public.
+
+**11.** By way of derogation from paragraph 10, the necessity of aid for recharging or refuelling infrastructure for road vehicles shall be presumed where vehicles powered exclusively by electricity (for recharging infrastructures) or vehicles powered at least partially by hydrogen (for refuelling infrastructures) represent respectively less than 3 % of the total number of vehicles of the same category registered in the Member State concerned. For the purpose of this paragraph, passenger cars and light-duty commercial vehicles shall be considered as being part of the same category of vehicles.
+
+**12.** Any concession or other entrustment to a third party to operate the supported recharging or refuelling infrastructure shall be assigned on a competitive, transparent and non-discriminatory basis, having due regard to the applicable procurement rules.
+
+**13.** Where aid is granted for the deployment of new recharging infrastructure that allows for a transfer of electricity with a power output of less than or equal to 22 kW, the infrastructure must be capable of supporting smart recharging functionalities.
+
+<a id="art_36b"></a>
+
+### Article 36b — Investment aid for the acquisition of clean vehicles or zero-emission vehicles and for the retrofitting of vehicles
+
+**1.** Investment aid for the acquisition of clean vehicles or zero-emission vehicles for road, railway, inland waterway and maritime transport and for the retrofitting of vehicles other than aircraft to qualify as clean vehicles or as zero-emission vehicles shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall be granted for the purchase or the leasing for a duration of at least 12 months of clean vehicles powered at least partially by electricity or by hydrogen or zero-emission vehicles and for the retrofitting of vehicles allowing them to qualify as clean vehicles or zero-emission vehicles.
+
+**3.** The eligible costs shall be the following:(a) for investments consisting in the purchase of clean vehicles or zero-emission vehicles, the extra costs of purchasing the clean vehicle or the zero-emission vehicle. Those shall be calculated as the difference between the investment costs of purchasing the clean vehicle or the zero-emission vehicle and the investment costs of purchasing a vehicle of the same category that complies with applicable Union standards already in force and would have been acquired without the aid;(b) for investments consisting in the leasing of clean vehicles or zero-emission vehicles, the extra costs of leasing the clean vehicle or the zero-emission vehicle. Those shall be calculated as the difference between the net present value of leasing the clean vehicle or the zero-emission vehicle and the net present value of leasing a vehicle of the same category that complies with applicable Union standards already in force and would have been leased without the aid. For the purposes of determining the eligible costs, the operating costs linked to the operation of the vehicle, including energy costs, insurance costs and maintenance costs, shall not be taken into account, irrespective of whether they are included in the leasing contract;(c) for investments consisting in the retrofitting of vehicles allowing them to qualify as clean vehicles or zero-emission vehicles, the costs of the investment in the retrofitting.
+
+**4.** Aid under this Article shall be granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid in relation to the project’s contribution to the environmental objectives of the measure for example aid requested per clean or zero-emission vehicle.
+
+**5.** Where the aid is granted in a competitive bidding process complying with the conditions of paragraph 4, the aid intensity shall not exceed:(a) 100 % of the eligible costs for the purchase or the leasing of zero-emission vehicles or the retrofitting of vehicles allowing them to qualify as zero-emission vehicles;(b) 80 % of the eligible costs for the purchase or the leasing of clean vehicles, or of the retrofitting of vehicles allowing them to qualify as clean vehicles.
+
+**6.** By way of derogation from paragraph 4, aid may be granted outside of a competitive bidding process when the aid is granted based on an aid scheme.
+
+In those cases, the aid intensity shall not exceed 20 % of the eligible cost. The aid intensity may be increased by 10 percentage points for zero-emission vehicles and by 20 percentage points for medium-sized enterprises or by 30 percentage points for small enterprises.
+
+**7.** By derogation from paragraph 4, aid may also be granted outside of a competitive bidding process when the aid is granted for undertakings that have been awarded a public service contract for the provision of public passenger transport services by land, rail or water following an open, transparent and non-discriminatory public tender only in relation to the acquisition of clean vehicles or zero-emission vehicles used for the provision of the public passenger transport services subject to the public service contract.
+
+In this case, the aid intensity shall not exceed 40 % of the eligible cost. The aid intensity may be increased by 10 percentage points for zero-emission vehicles.
+
+<a id="art_38"></a>
+
+### Article 38 — Investment aid for energy efficiency measures other than in buildings
+
+**1.** Investment aid enabling undertakings to improve energy efficiency other than in buildings shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall not be granted under this Article for investments undertaken to comply with Union standards that have been adopted and are in force. Aid may be granted under this Article for investments undertaken to comply with Union standards that have been adopted but are not yet in force, provided that the investment is implemented and finalised at least 18 months before the standard enters into force.
+
+**2a.** This Article shall not apply to aid for cogeneration and aid for district heating and/or cooling.
+
+**2b.** Aid for the installation of energy equipment fired by fossil fuels, including natural gas, shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**3.** The eligible costs shall be the extra investment costs necessary to achieve the higher level of energy efficiency. They shall be determined by comparing the costs of the investment to those of the counterfactual scenario that would occur in the absence of the aid, as follows:(a) where the counterfactual scenario consists in carrying out a less energy-efficient investment that corresponds to normal commercial practice in the sector or for the activity concerned, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the costs of the less energy-efficient investment;(b) where the counterfactual scenario consists in carrying out the same investment at a later point in time, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the Net Present Value of the costs of the later investment, discounted to the point in time when the aided investment would be undertaken;(c) where the counterfactual scenario consists in maintaining the existing installations and equipment in operation, the eligible costs shall consist in the difference between the costs of the investment for which State aid is granted and the Net Present Value of the investment in the maintenance, repair and modernisation of the existing installation and equipment, discounted to the point in time when the aided investment would be undertaken;(d) In the case of equipment subject to leasing agreements, the eligible costs shall consist in the difference in Net Present Value between the leasing of the equipment for which State aid is granted and the leasing of the less energy-efficient equipment that would be leased in the absence of aid; the leasing costs shall not include costs relating to the operation of the equipment or installation (fuel costs, insurance, maintenance, other consumables), irrespective of whether they are part of the leasing contract.
+
+In all situations listed in the first subparagraph, the counterfactual shall correspond to an investment with comparable output capacity and lifetime that complies with Union standards already in force. The counterfactual shall be credible in the light of legal requirements, market conditions and incentives generated by the EU ETS system.
+
+Where the investment consists in a clearly identifiable investment solely aimed at improving energy efficiency, for which there is no less energy efficient counterfactual investment, the eligible costs shall be the total investment costs.
+
+The costs not directly linked to the achievement of a higher level of energy efficiency shall not be eligible.
+
+**4.** The aid intensity shall not exceed 30 % of the eligible costs.
+
+**5.** The aid intensity may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+**6.** The aid intensity may be increased by 15 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(a) of the Treaty and by 5 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(c) of the Treaty.
+
+**7.** The aid intensity may reach 100 % of the total investment costs where aid is granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid in relation to the project’s contribution to the environmental objectives of the measure, for example aid requested per unit of energy saved or of energy efficiency gained. Those criteria shall not account for less than 70 % of the weighting of all the selection criteria.
+
+**8.** By way of derogation from paragraph 3, points (a) to (d) and paragraph 7, the eligible costs may be determined without the identification of the counterfactual scenario and in the absence of a competitive bidding process. In that case, the eligible costs shall be the total investment costs directly linked to the achievement of a higher level of energy efficiency and the applicable aid intensities and bonuses set out in paragraphs 4, 5 and 6 are reduced by 50 %.
+
+<a id="art_38a"></a>
+
+### Article 38a — Investment aid for energy efficiency measures in buildings
+
+**1.** Investment aid enabling undertakings to achieve energy efficiency in buildings shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall not be granted under this Article for investments undertaken to comply with Union standards that have been adopted and are in force.
+
+**3.** Aid may be granted under this Article for investments undertaken to comply with Union standards that have been adopted but are not yet in force. Where the relevant Union standards are minimum energy performance standards, the aid must be granted before the standards become mandatory for the undertaking concerned. In that case, the Member State must ensure that beneficiaries provide a precise renovation plan and timetable demonstrating that the aided renovation is at least sufficient to ensure compliance with the minimum energy performance standards. Where the relevant Union standards are different from minimum energy performance standards, the investment must be implemented and finalised at least 18 months before the Union standard enters into force.
+
+**4.** This Article shall not apply to aid for cogeneration and aid for district heating and/or cooling.
+
+**5.** The eligible costs shall be the total investment costs. The costs not directly linked to the achievement of a higher level of energy efficiency in the building shall not be eligible.
+
+**6.** The aid shall induce an improvement in the energy performance of the building measured in primary energy of at least: (i) 20 % compared to the situation prior to the investment in the case of renovation of existing buildings, or (ii) 10 % compared to the situation prior to the investment in the case of renovation measures concerning the installation or replacement of just one type of building elements as defined in Article 2(9) of Directive 2010/31/EU and such targeted renovation measures do not represent more than 30 % of the part of the scheme’s budget dedicated to energy efficiency measures, or (iii) 10 % compared to the threshold set for the nearly zero-energy building requirements in national measures transposing Directive 2010/31/EU in the case of new buildings. The initial primary energy demand and the estimated improvement shall be established by reference to an Energy Performance Certificate as defined in Article 2(12) of Directive 2010/31/EU.
+
+**7.** The aid granted for the improvement of the energy efficiency of the building may be combined with aid for any or all of the following measures:(a) the installation of integrated on-site equipment generating electricity, heating or cooling from renewable energy sources, including but not limited to photovoltaic panels and heat pumps;(b) the installation of equipment for the storage of the energy generated by the on-site renewable energy installations. The storage equipment shall absorb at least 75 % of its energy from a directly connected renewable energy generation installation, on an annual basis;(c) the connection to an energy efficient district heating and/or cooling system and related equipment;(d) the construction and installation of recharging infrastructure for use by the building users, and related infrastructure, such as ducting, where the parking facilities are located either inside the building or are physically adjacent to the building;(e) the installation of equipment for the digitalisation of the building in particular to increase its smart-readiness, including passive in-house wiring or structured cabling for data networks and the ancillary part of the broadband infrastructure on the property to which the building belongs, but excluding wiring or cabling for data networks outside the property;(f) investments in green roofs and equipment for the retention and use of rain water.
+
+In case of any such combined works, as set out in points (a) to (f), the entire investment cost of the various installations and equipment shall constitute the eligible costs. The costs not directly linked to the achievement of a higher level of energy or environmental performance shall not be eligible.
+
+**8.** The aid may be granted either to the building owner(s) or the tenant(s), depending on who is commissioning the energy efficiency measure.
+
+**9.** Aid may also be granted for the improvement of the energy efficiency of the heating or cooling equipment inside the building.
+
+**10.** Aid for the installation of energy equipment fired by fossil fuels, including natural gas, shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**11.** The aid intensity shall not exceed 30 % of the eligible costs.
+
+**12.** By way of derogation from paragraph 11, where the investment consists in the installation or replacement of just one type of building element as defined in Article 2(9) of Directive 2010/31/EU, the aid intensity shall not exceed 25 %.
+
+**13.** By way of derogation from paragraphs 11 and 12, where aid for investments in buildings undertaken to comply with minimum energy performance standards qualifying as Union standards is granted less than 18 months before the Union standards enter into force, the aid intensity must not exceed 15 % of the eligible costs where the investment consists in the installation or replacement of just one type of building element as defined in Article 2(9) of Directive 2010/31/EU and 20 % in all other cases.
+
+**14.** The aid intensity may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+**15.** The aid intensity may be increased by 15 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3), point (a), of the Treaty and by 5 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3), point (c), of the Treaty.
+
+**16.** The aid intensity may be increased by 15 percentage points for aid granted to improve the energy efficiency of existing buildings, where the aid induces an improvement in the energy performance of the building measured in primary energy of at least 40 % compared to the situation prior to the investment. This increase in aid intensity does not apply where the investment does not improve the energy performance of the building beyond the level imposed by minimum energy performance standards qualifying as Union standards entering into force within less than 18 months from the moment the investment is implemented and finalised.
+
+<a id="art_38b"></a>
+
+### Article 38b — Aid for the facilitation of energy performance contracting
+
+**1.** Aid for the facilitation of energy performance contracting shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid may be granted under this Article for the facilitation of energy performance contracting within the meaning of Article 2, point (27), of Directive 2012/27/EU.
+
+**3.** Eligible for aid under this Article are SMEs and small mid-caps that are providers of energy performance improvement measures, and which are the final beneficiaries of the aid.
+
+**4.** The aid shall take the form of a senior loan or guarantee to the provider of the energy efficiency improvement measures under an energy performance contract, or consist in a financial product aimed at financing the provider (for example, factoring or forfaiting).
+
+**5.** The duration of the loan or guarantee to the provider of energy efficiency improvement measures shall not exceed 10 years.
+
+**6.** Where the aid takes the form of a senior loan, the co-investment by commercial providers of debt funding shall not be lower than 30 % of the value of the underlying porfolio of energy performance contracts, and the repayment by the provider of energy efficiency improvement measures shall at least be equal to the nominal amount of the loan.
+
+**7.** Where the aid takes the form of a guarantee, the guarantee shall not exceed 80 % of the underlying loan’s principal and losses are sustained proportionally and under the same conditions by the credit institution and the State. The guaranteed amount shall decrease proportionally, in such a way that the guarantee never covers more than 80 % of the outstanding loan.
+
+**8.** The nominal amount of total outstanding financing provided per beneficiary shall not exceed EUR 30 million.
+
+<a id="art_39"></a>
+
+### Article 39 — Investment aid for energy efficiency projects in buildings in the form of financial instruments
+
+**1.** Investment aid for energy efficiency projects in buildings shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Eligible for aid under this Article are investments improving the energy efficiency of buildings.
+
+**2a.** The aid granted for the improvement of the energy efficiency of the building may be combined with aid for any or all of the following measures:(a) the installation of integrated on-site equipment generating electricity, heating or cooling from renewable energy sources, including but not limited to photovoltaic panels and heat pumps;(b) the installation of equipment for the storage of the energy generated by the on-site renewable energy installations. The storage equipment shall absorb at least 75 % of its energy from a directly connected renewable energy generation installation, on an annual basis;(c) investments in the connection to an energy efficient district heating and/or cooling system and related equipment;(d) the construction and installation of recharging infrastructure for use by the building users, and related infrastructure, such as ducting, where the car park is located either inside the building or is physically adjacent to the building;(e) the installation of equipment for the digitalisation of the building, in particular to increase its smart-readiness. Eligible investments may include interventions limited to passive in-house wiring or structured cabling for data networks and the ancillary part of the broadband infrastructure on the property to which the building belongs, but excluding wiring or cabling for data networks outside the property;(f) investments in green roofs and equipment for the retention and use of rain water.
+
+**3.** The eligible costs shall be the total costs of the energy efficiency project, except for buildings referred to in paragraph 2a, where the eligible costs shall be the total costs of the energy efficiency project as well as the investment cost of the various pieces of equipment listed in paragraph 2a.
+
+**4.** The aid shall be granted in the form of an endowment, equity, a guarantee or a loan to an energy efficiency fund or other financial intermediary, which shall pass it on to the largest extent possible to the final beneficiaries, being the building owners or tenants, in the form of higher volumes of financing, lower collateral requirements, lower guarantee premiums or lower interest rates.
+
+**5.** ►M6 The energy efficiency fund or other financial intermediary shall grant loans or guarantees to the eligible energy efficiency projects. The nominal value of the loan or the amount guaranteed shall not exceed EUR 25 million per final beneficiary and project, except in the case of the combined investments referred to in paragraph 2a, where it shall not exceed EUR 30 million.** ◄ ** The guarantee shall not exceed 80 % of the underlying loan.
+
+**6.** The repayment by the building owners to the energy efficiency fund or other financial intermediary shall not be less than the nominal value of the loan.
+
+**7.** The energy efficiency aid shall leverage additional investment from independent private investors as defined in Article 2, point (72), reaching at minimum 30 % of the total financing provided to an energy efficiency project. When the aid is provided by an energy efficiency fund, the leverage of such private investment can be done at the level of the energy efficiency fund and/or at the level of the energy efficiency projects, so as to achieve an aggregate minimum 30 % of the total financing provided to an energy efficiency project.
+
+**8.** Member States can set up energy efficiency funds and/or can use financial intermediaries when providing energy efficiency aid. The following conditions must then be fulfilled:(a) Financial intermediary managers, as well as energy efficiency fund managers shall be selected through an open, transparent and non-discriminatory call in accordance with applicable Union and national laws. In particular, there shall be no discrimination on the basis of their place of establishment or incorporation in any Member State. Financial intermediaries and energy efficiency fund managers may be required to fulfil predefined criteria objectively justified by the nature of the investments;(b) The independent private investors shall be selected through an open, transparent and non-discriminatory call in accordance with applicable Union and national laws aimed at establishing the appropriate risk-reward sharing arrangements whereby, for investments other than guarantees, asymmetric profit-sharing shall be given preference over downside protection. If the private investors are not selected by such a call, the fair rate of return to the private investors shall be established by an independent expert selected via an open, transparent and non-discriminatory call;(c) In the case of asymmetric loss-sharing between public and private investors, the first loss assumed by the public investor shall be capped at 25 % of the total investment;(d) In the case of guarantees, the guarantee rate shall be limited to 80 % and total losses assumed by a Member State shall be capped at 25 % of the underlying guaranteed portfolio. Only guarantees covering the expected losses of the underlying guaranteed portfolio can be provided for free. If a guarantee also comprises coverage of unexpected losses, the financial intermediary shall pay, for the part of the guarantee covering unexpected losses, a market-conform guarantee premium;(e) The investors shall be allowed to be represented in the governance bodies of the energy efficiency fund or financial intermediary, such as the supervisory board or the advisory committee;▼M6(f) The energy efficiency fund or financial intermediary shall be established in accordance with the applicable laws and the Member State shall ensure a due diligence process in order to verify that commercially sound investment strategy will be applied for the purpose of implementing the energy efficiency aid measure.▼B
+
+**9.** Financial intermediaries, including energy efficiency funds shall be managed on a commercial basis and shall ensure profit-driven financing decisions. This is considered to be the case when the financial intermediary and, as the case may be, the managers of the energy efficiency fund fulfil the following conditions:(a) they are obliged by law or contract to act with the diligence of a professional manager in good faith and avoiding conflicts of interest; best practices and regulatory supervision shall apply;(b) their remuneration conforms with market practices. This requirement is considered to be met where the manager is selected through an open, transparent and non-discriminatory call, based on objective criteria linked to experience, expertise and operational and financial capacity;(c) they shall receive a remuneration linked to performance, or shall share part of the investment risks by co-investing own resources so as to ensure that their interests are permanently aligned with the interests of the public investor;(d) they shall set out an investment strategy, criteria and the proposed timing of investments in energy efficiency projects, establishing the *ex-ante* financial viability and their expected impact on energy efficiency.(e) a clear and realistic exit strategy shall exist for the public funds invested in the energy efficiency fund or granted to the financial intermediary, allowing the market to finance energy efficiency projects when the market is ready to do so.
+
+**10.** Aid shall not be granted under this Article for investments undertaken to comply with Union standards that have been adopted and are in force.
+
+**11.** Aid may be granted under this Article for investments undertaken to comply with Union standards that have been adopted but are not yet in force. Where the relevant Union standards are minimum energy performance standards, the aid must be granted before the standards become mandatory for the undertaking concerned. In that case, the Member State must ensure that beneficiaries provide a precise renovation plan and timetable demonstrating that the aided renovation is at least sufficient to ensure compliance with the minimum energy performance standards. Where the relevant Union standards are different from minimum energy performance standards, the investment must be implemented and finalised at least 18 months before the standard enters into force.
+
+**12.** Aid may also be granted for the improvement of the energy efficiency of the heating or cooling equipment inside the building.
+
+**13.** Aid for the installation of energy equipment fired by fossil fuels, including natural gas, shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**14.** The Member State may assign the implementation of the aid measure to an entrusted entity.
+
+<a id="art_41"></a>
+
+### Article 41 — Investment aid for the promotion of energy from renewable sources, of renewable hydrogen and of high-efficiency cogeneration
+
+**1.** Investment aid for the promotion of energy from renewable energy sources, of renewable hydrogen and of high-efficiency cogeneration, with the exception of electricity produced from renewable hydrogen, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**1a.** Investment aid for electricity storage projects under this Article shall be exempted from the notification requirement of Article 108(3) of the Treaty only to the extent that it is granted to combined renewable and storage projects (behind-the-meter), where both elements are components of a single investment or where storage is connected to an existing renewable generation installation. The storage component shall absorb at least 75 % of its energy from directly connected renewable energy generation installation, on an annual basis. All investment components (generation and storage) are considered to constitute a single integrated project for verification of compliance with the thresholds set out in Article 4. The same rules shall apply to thermal storage directly connected to a renewable energy production installation.
+
+**2.** Investment aid for the production and storage of biofuels, bioliquids, biogas (including biomethane) and biomass fuels shall be exempted from the notification requirement of Article 108(3) of the Treaty only to the extent that the aided fuels are compliant with the sustainability and greenhouse gases emissions saving criteria of Directive (EU) 2018/2001 and its implementing or delegated acts and are made from the feedstock listed in Annex IX to that Directive. The storage component shall obtain at least 75 % of its fuel content from directly connected biofuels, bioliquids, biogas (including biomethane) and biomass fuels production installations, on an annual basis. All investment components (production and storage) are considered to constitute a single integrated project for verification of compliance with the thresholds set out in Article 4 of this Regulation.
+
+**3.** Investment aid for the production of hydrogen shall be exempted from the notification requirement of Article 108(3) of the Treaty only for installations producing exclusively renewable hydrogen. For renewable hydrogen projects consisting of an electrolyser and one or more renewable generation units behind a single grid connection point, the capacity of the electrolyser shall not exceed the combined capacity of the renewable generation units. The investment aid may cover dedicated infrastructure for the transmission or distribution of renewable hydrogen, as well as storage facilities for renewable hydrogen.
+
+**4.** Investment aid for high-efficiency cogeneration units shall be exempted from the notification requirement of Article 108(3) of the Treaty only to the extent that they provide overall primary energy savings compared to separate production of heat and electricity as provided for by Directive 2012/27/EU or any subsequent legislation replacing this act in full or in part. Investment aid for electricity and thermal storage projects directly connected to high-efficiency cogeneration based on renewable energy sources shall be exempted from the notification requirement of Article 108(3) of the Treaty under the conditions laid down in paragraph 1a of this Article.
+
+**4a.** Investment aid for high-efficiency cogeneration shall be exempted from the notification requirement of Article 108(3) of the Treaty only if it is not for fossil fuel fired cogeneration installations, with the exception of natural gas where compliance with the 2030 and 2050 climate targets is ensured in accordance with section 4.30 of Annex 1 to Commission Delegated Regulation (EU) 2021/2139 (62).
+
+**5.** The investment aid shall be granted in respect of newly installed or refurbished capacities. The aid amount shall be independent from the output.
+
+**6.** The eligible costs shall be the total investment cost.
+
+**7.** The aid intensity shall not exceed:(a) 45 % of the eligible costs for investments in the production of renewable energy sources, including heat pumps compliant with Annex VII to Directive 2018/2001, renewable hydrogen and high-efficiency cogeneration based on renewable energy sources;(b) 30 % of the eligible costs for any other investment covered by this Article.
+
+**8.** The aid intensity may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+**10.** The aid intensity may reach 100 % of the eligible costs where aid is granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results or rationing) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid per unit of energy capacity from renewable sources or high efficiency-cogeneration.
+
+<a id="art_42"></a>
+
+### Article 42 — Operating aid for the promotion of electricity from renewable sources
+
+**1.** Operating aid for the promotion of electricity from renewable energy sources, with the exception of electricity produced from renewable hydrogen, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall be granted in a competitive bidding process, which fulfils all of the following conditions in addition to those laid down in Article 2, point (38):(a) the aid award shall be based on objective, clear, transparent and non-discriminatory eligibility and selection criteria, defined *ex ante* and published at least 6 weeks in advance of the deadline for submitting applications, to enable effective competition;(b) during the implementation of a scheme, in case of a bidding process where all bidders receive aid, the design of said process shall be corrected to restore effective competition in the subsequent bidding processes, for example, by reducing the budget or volume;(c) *ex post* adjustments to the bidding process outcome (such as subsequent negotiations on bid results or rationing) shall be excluded;(d) at least 70 % of the total selection criteria used for ranking bids and, ultimately, for allocating the aid in the competitive bidding process shall be defined in terms of aid per unit of electricity output or capacity from renewable sources.
+
+The bidding process shall be open to all generators producing electricity from renewable energy sources on a non-discriminatory basis.
+
+**3.** The bidding process can be limited to specific technologies where:(a) a measure aims specifically to support demonstration projects;(b) a measure aims to address not only decarbonisation but also air quality or other pollution;(c) a Member State identifies reasons to expect that eligible sectors or innovative technologies have the potential to make an important and cost-effective contribution to environmental protection and deep decarbonisation in the longer term;(d) a measure is required to achieve diversification necessary to avoid exacerbating issues related to network stability;(e) a more selective approach can be expected to lead to lower costs of achieving environmental protection (for example through reduced system integration costs as a result of diversification, including between renewables, which could also include demand response and/or storage), and/or result in less distortion of competition.
+
+Member States shall carry out a detailed assessment of the applicability of such conditions and report it to the Commission according to the modalities described in Article 11(1), point (a).
+
+**4.** Where the bidding process is limited to one or more innovative technologies, the aid granted to these technologies shall not exceed 5 % of the planned new electricity capacity from renewable energy sources per year in total.
+
+**5.** Aid shall be granted as a premium in addition to the market price or in the form of a contract for difference whereby the generators sell their electricity directly in the market.
+
+**6.** Aid beneficiaries shall sell their electricity directly in the market and be subject to standard balancing responsibilities. Beneficiaries may outsource balancing responsibilities to other undertakings on their behalf, such as aggregators. Furthermore, aid shall not be paid for any periods where prices are negative. For the avoidance of doubt, this applies as of the moment when prices turn negative.
+
+**7.** Small-scale renewable electricity installations may benefit from aid in the form of direct price support that covers the full costs of operation and from an exemption from the requirement to sell the electricity produced on the market, in accordance with Article 4(3) of Directive (EU) 2018/2001. Installations will be considered as small-scale for the purposes of this paragraph if their capacity is below the applicable threshold under Article 5(2), point (b), or Article 5(4) of Regulation (EU) 2019/943.
+
+**11.** Aid shall only be granted over the lifetime of the project.
+
+<a id="art_43"></a>
+
+### Article 43 — Operating aid for the promotion of energy from renewable sources and of renewable hydrogen in small projects and renewable energy communities
+
+**1.** Operating aid for the promotion of energy from renewable sources and of renewable hydrogen in small projects and renewable energy communities, with the exception of electricity produced from renewable hydrogen, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** For the purposes of this Article small projects are defined as follows:(i) for electricity generation or storage – projects below or equal to 1 MW of installed capacity;(ii) for electricity consumption – projects with a maximum demand below or equal to 1 MW;(iii) for heat generation and gas production technologies – projects below or equal to 1 MW of installed capacity or equivalent;(iv) for the production of renewable hydrogen – projects below or equal to 3 MW of installed capacity or equivalent;(v) for the production of biofuels, bioliquids, biogas (including biomethane) and biomass fuels – projects below or equal to an installed capacity of 50 000 tonnes/year;(vi) for 100 % SME-owned projects and demonstration projects – projects below or equal to 6 MW installed capacity or maximum demand;(vii) for projects 100 % owned by micro or small enterprises for wind generation only – projects below or equal to 18 MW of installed capacity.
+
+**2a.** Aid to renewable energy communities shall be exempted from the notification requirement of Article 108(3) of the Treaty only for projects with an installed capacity or maximum demand below or equal to 6 MW from all renewable sources except for wind energy only, for which aid shall be granted to installations with an installed capacity below or equal to 18 MW.
+
+**2b.** Operating aid for the production of hydrogen shall be exempted from the notification requirement of Article 108(3) of the Treaty only for installations producing exclusively renewable hydrogen.
+
+**3.** Operating aid for the production of biofuels, bioliquids, biogas (including biomethane) and biomass fuels shall be exempted from the notification requirement of Article 108(3) of the Treaty only to the extent that the aided fuels are compliant with the sustainability and greenhouse gases emissions saving criteria of Directive (EU) 2018/2001 and its implementing or delegated acts and are made from the feedstock listed in Annex IX to that Directive.
+
+**5.** Aid shall be limited to the minimum needed for carrying out the aided project or activity. This condition is fulfilled if the aid corresponds to the net extra cost (‘funding gap’) necessary to meet the objective of the aid measure, compared to the counterfactual scenario in the absence of aid. A detailed assessment of the net extra cost is not required if the aid amounts are determined through a competitive bidding process, because the latter provides a reliable estimate of the minimum aid required by potential beneficiaries.
+
+**6.** Aid shall only be granted over the lifetime of the project.
+
+**7.** Aid shall be granted as a premium in addition to the market price or in the form of a contract for difference whereby the generators sell their electricity directly in the market.
+
+**8.** Aid beneficiaries shall be subject to standard balancing responsibilities. Beneficiaries may outsource balancing responsibilities to other undertakings on their behalf, such as aggregators. Furthermore, aid shall not be paid for any periods where prices are negative. For the avoidance of doubt, this applies as of the moment when prices turn negative.
+
+**9.** Small-scale renewable electricity installations and demonstration projects may benefit from aid in the form of direct price support that covers the full costs of operation and from an exemption from the requirement to sell the electricity produced on the market, in accordance with Article 4(3) of Directive (EU) 2018/2001. Installations will be considered as small-scale for the purposes of this paragraph if their capacity is below the applicable threshold under Article 5(2), point (b), or Article 5(4) of Regulation (EU) 2019/943.
+
+<a id="art_44"></a>
+
+### Article 44 — Aid in the form of reductions in taxes under Directive 2003/96/EC
+
+**1.** Aid schemes in the form of reductions in taxes fulfilling the conditions of Directive 2003/96/EC shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The beneficiaries of the tax reduction shall be selected on the basis of transparent and objective criteria.
+
+**3.** The beneficiaries of the tax reduction shall pay at least the minimum level of taxation laid down in Annex I to Directive 2003/96/EC, except for reductions:(a) granted on the basis of Article 15(1), point (a), of Directive 2003/96/EC, for taxable products used under fiscal control in the field of pilot projects for the technological development of more environmentally-friendly products or in relation to fuels from renewable resources;(b) granted on the basis of of Article 15(1), point (b), first, second, fourth and fifth indents, of Directive 2003/96/EC, for electricity (i) of solar, wind, wave, tidal or geothermal origin, (ii) of hydraulic origin produced in hydroelectric installations, (iii) generated from methane emitted by abandoned coalmines, and (iv) generated from fuel cells;(c) granted on the basis of Article 15(1), point (b), third indent, of Directive 2003/96/EC, for electricity generated from biomass or from products produced from biomass, to the extent that biomass is compliant with the sustainability and greenhouse gases emissions saving criteria of Directive (EU) 2018/2001 and its implementing or delegated acts;(d) granted on the basis of Article 15(1), point (d) of Directive 2003/96/EC, for electricty produced from combined heat and power generation, provided that cogeneration by the combined generators is high-efficiency cogeneration as defined in Article 2, point (34), of Directive 2012/27/EU;(e) granted on the basis of Article 15(1), point (l), of Directive 2003/96/EC, for products falling within CN code 2705 used for heating purposes;(f) granted on the basis of Article 16(1) of Directive 2003/96/EC.
+
+**4.** Aid schemes in the form of tax reductions may be based on a reduction of the applicable tax rate or on the payment of a fixed compensation amount or on a combination of these mechanisms.
+
+**5.** Tax reductions granted on the basis of Article 16(1) of Directive 2003/96/EC shall be exempted from the notification requirement of Article 108(3) of the Treaty only to the extent that the aided fuels are compliant with the sustainability and greenhouse gases emissions saving criteria of Directive (EU) 2018/2001 and its implementing or delegated acts, and are made from the feedstock listed in Annex IX to that Directive.
+
+<a id="art_44a"></a>
+
+### Article 44a — Aid in the form of reductions in environmental taxes or parafiscal levies
+
+**1.** Aid schemes in the form of reductions in environmental taxes or parafiscal levies shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled. This Article shall not apply to reductions in taxes or levies on energy products and electricity, defined in Article 2 of Directive 2003/96/EC.
+
+**2.** Aid in the form of reductions in environmental taxes or parafiscal levies shall be compatible only where the reduction allows to achieve a higher level of environmental protection by including in the scope of the environmental tax or levy undertakings that would not be able to pursue their economic activities without the reduction.
+
+**3.** Only those undertakings that would not be able to pursue their economic activities without the reduction are eligible for aid. For the purposes of this Article, this is considered the case for undertakings whose production costs would substantially increase due to the environmental tax or parafiscal levy without the reduction and which are not able to pass that increase on to customers. The increase in the production costs shall be calculated as a proportion of the gross value added for each sector or category of beneficiaries.
+
+**4.** The beneficiaries shall be selected on the basis of transparent, non-discriminatory and objective criteria. The aid shall be granted in the same way to all eligible undertakings operating in the same sector of economic activity that are in the same or similar factual situation in respect of the objectives of the aid measure.
+
+**5.** The gross grant equivalent of the aid shall not exceed 80 % of the nominal rate of the tax or levy.
+
+**6.** Aid schemes in the form of reductions in environmental taxes or parafiscal levies may be based on a reduction of the applicable tax rate or on the payment of a fixed compensation amount or on a combination of these mechanisms.
+
+<a id="art_45"></a>
+
+### Article 45 — Investment aid for the remediation of environmental damage, the rehabilitation of natural habitats and ecosystems, the protection or restoration of biodiversity and the implementation of nature-based solutions for climate change adaptation and mitigation
+
+**1.** Investment aid for the remediation of environmental damage, the rehabilitation of natural habitats and ecosystems, the protection or restoration of biodiversity and the implementation of nature-based solutions for climate change adaptation and mitigation shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid under this Article may be granted for the following activities :(a) the remediation of environmental damage, including damage to the quality of the soil, surface water or groundwater or to the marine environment;(b) the rehabilitation of natural habitats and ecosystems from a degraded state;(c) the protection or restoration of biodiversity or of ecosystems to contribute to achieving the good condition of ecosystems or to protect ecosystems that are already in good condition;(d) the implementation of nature-based solutions for climate change adaptation and mitigation.
+
+**3.** This Article shall not apply to aid to make good the damage caused by natural disasters, such as earthquakes, avalanches, landslides, floods, tornadoes, hurricanes, volcanic eruptions and wild fires of natural origin.
+
+**4.** This Article shall also not apply to aid for remediation or rehabilitation following the closure of power plants and mining or extraction operations.
+
+**5.** Without prejudice to Directive 2004/35/CE of the European Parliament and of the Council (63) or other relevant Union rules on liability for environmental damage, where the entity or undertaking liable for the environmental damage under the law applicable in each Member State is identified, that entity or undertaking shall finance the works necessary to prevent and correct environmental degradation and contamination in accordance with the ‘polluter pays’ principle, and no aid shall be granted for the works that the entity or undertaking would be legally required to conduct. The Member State shall take all necessary measures, including legal action, to identify the liable entity or undertaking at the origin of the environmental damage and make it bear the relevant costs. Where the entity or undertaking liable under the applicable law cannot be identified or made to bear the costs of remediating the environmental damage it has caused, in particular because the liable undertaking has ceased to legally exist and no other undertaking can be regarded as its legal or economic successor, or where there is insufficient financial security to meet the costs of remediation, aid may be granted to support the remediation or rehabilitation works. Aid shall not be granted for the implementation of compensatory measures referred to in Article 6(4) of Council Directive 92/43/EEC (64). Aid may be granted under this Article to cover the extra costs necessary to increase the scope or ambition of those measures, beyond the legal obligations under Article 6(4) of Directive 92/43/EEC.
+
+**6.** For investments in the remediation of environmental damage or the rehabilitation of natural habitats and ecosystems, the eligible costs shall be the costs incurred for the remediation or rehabilitation works, less the increase in the value of the land or property.
+
+**7.** Evaluations of the increase in the value of the land or property resulting from remediation or rehabilitation shall be carried out by an independent qualified expert.
+
+**8.** For investments in the protection or restoration of biodiversity and in the implementation of nature-based solutions for climate change adaptation and mitigation, the eligible costs shall be the total costs of the works resulting in the contribution to protecting or restoring biodiversity or in the implementation of nature-based solutions for climate change adaptation and mitigation.
+
+**9.** The aid intensity shall not exceed:(a) 100 % of the eligible costs for investments in the remediation of environmental damage or the rehabilitation of natural habitats and ecosystems;(b) 70 % of the eligible costs for investments in the protection or restoration of biodiversity and in nature-based solutions for climate change adaptation and mitigation.
+
+**10.** The aid intensity for investments in the protection or restoration of biodiversity and in the implementation of nature-based solutions for climate change adaptation and mitigation may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+<a id="art_46"></a>
+
+### Article 46 — Investment aid for energy efficient district heating and/or cooling
+
+**1.** Investment aid for the construction, extension or upgrade of energy efficient district heating and/or cooling systems, which includes the construction, extension or the upgrade of heating or cooling generation installations and/or thermal storage solutions and/or the distribution network, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall only be granted for the construction, extension or upgrade of district heating and/or cooling systems that are or are to become energy efficient as defined in Article 2, point (41), of Directive 2012/27/EU. Where the system does not yet become fully energy efficient as a result of the supported works on the distribution network, the additional upgrades required to fullfil the conditions for falling under the definition of energy efficient district heating and/or cooling shall, for heating and/or cooling generation facilities which are subject to the aid, commence within 3 years from the start of the supported works on the distribution network.
+
+**3.** Aid may be granted for energy generation based on renewable sources, including heat pumps compliant with Annex VII to Directive (EU) 2018/2001, waste heat or high-efficient cogeneration, as well as thermal storage solutions. Aid for energy generation based on waste may be based either on waste that meets the definition of renewable energy sources or waste used to fuel installations that meet the definition of high-efficiency cogeneration. Waste used as input fuel must not circumvent the waste hierarchy principle as defined in Article 4(1), of Directive 2008/98/EC.
+
+**4.** Aid shall not be granted for the construction or upgrade of fossil fuel based generation facilities, except for natural gas. Aid for the construction or upgrade of natural gas based generation facilities may be granted only where compliance with the 2030 and 2050 climate targets is ensured in accordance with Annex 1, section 4.30 of Delegated Regulation (EU) 2021/2139.
+
+**5.** Aid for upgrades of storage and distribution networks that transmit heating and cooling generated based on fossil fuels may only be granted where all of the following conditions are met:(a) the distribution network is or becomes suitable for the transmission of heating or cooling generated from renewable energy sources and/or waste heat;(b) the upgrade does not result in an increased generation of energy from fossil fuels except for natural gas. In case of an upgrade to the storage or network distributing heating and cooling generated from natural gas, in as far as the upgrade results in an increased generation of energy from natural gas, those generation facilities need to be in compliance with the 2030 and 2050 climate targets, in accordance with Annex 1, section 4.31, to Delegated Regulation (EU) 2021/2139.
+
+**6.** The eligible costs shall be the investment costs related to the construction or upgrade of an energy efficient district heating and/or cooling system.
+
+**7.** The aid intensity shall not exceed 30 % of the eligible costs. The aid intensity may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+**8.** The aid intensity may be increased by 15 percentage points for investments using only renewable energy sources, waste heat, or a combination of the two, including renewable cogeneration.
+
+**9.** As an alternative to paragraph 7, the aid intensity may reach up to 100 % of the funding gap. The aid shall be limited to the minimum needed for carrying out the aided project or activity. This condition is fulfilled if the aid corresponds to the funding gap as defined under Article 2, point (118). A detailed assessment of the net extra cost is not required if the aid amounts are determined through a competitive bidding process, because the latter provides a reliable estimate of the minimum aid required by potential beneficiaries.
+
+<a id="art_47"></a>
+
+### Article 47 — Investment aid for resource efficiency and for supporting the transition towards a circular economy
+
+**1.** Investment aid for resource efficiency and circularity shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aid shall be granted for the following types of investments:(a) investments improving resource efficiency through one or both of the following:(i) a net reduction in the resources consumed in the production of a given quantity of output compared to a pre-existing production process used by the beneficiary or to alternative projects or activities listed under paragraph 7. The resources consumed shall include all material resources consumed, with the exception of energy, and the reduction shall be determined by measuring or estimating consumption before and after the implementation of the aid measure, taking into account any adjustment for external conditions that may affect resource consumption;(ii) the replacement of primary raw materials or feedstock with secondary (re-used or recovered, including recycled) raw materials or feedstock;(b) investments for the prevention and reduction of waste generation, preparing for re-use, decontaminating and recycling of waste generated by the beneficiary or investments for the preparing for re-use, decontaminating and recycling of waste generated by third parties and which would otherwise be unused, disposed of, or be treated based on a treatment operation that is situated lower in the priority order of the waste hierarchy referred to in Article 4(1), of Directive 2008/98/EC or in a less resource-efficient manner, or would lead to a lower quality of recycling output;(c) investments for the collection, sorting, decontamination, pre-treatment and treatment of other products, materials or substances generated by the beneficiary or by third parties and which would otherwise be unused or used in a less resource-efficient manner;(d) investments for the separate collection and sorting of waste with a view to its preparing for re-use or recycling.
+
+**3.** Aid for waste disposal and waste recovery operations to generate energy shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**4.** The aid shall not relieve undertakings that generate waste from any costs or obligations relating to the treatment of waste for which they are liable under Union or national law, including under extended producer responsibility schemes, or from costs that should be considered as normal costs for an undertaking.
+
+**5.** The aid must not incentivise the generation of waste or the increased use of resources.
+
+**6.** Investments related to technologies constituting an already profitable established commercial practice throughout the Union shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**7.** The eligible costs shall be the extra investment costs determined by comparing the total investment costs of the project with those of a less environmentally-friendly project or activity that shall be one of the following:(a) a counterfactual scenario consisting in a comparable investment that would credibly be realised in a new or pre-existing production process without aid and which does not achieve the same level of resource efficiency;(b) a counterfactual scenario consisting in treating the waste based on a treatment operation that is situated lower in the priority order of the waste hierarchy referred to in Article 4(1), of Directive 2008/98/EC or treating the waste, other products, materials or substances in a less resource-efficient way;(c) a counterfactual scenario consisting in a comparable investment in a conventional production process using primary raw material, or feedstock, if the obtained secondary (re-used or recovered) product is technically and economically substitutable with the primary product.
+
+In all situations listed in the first subparagraph, points (a) and (c), the counterfactual scenario shall correspond to an investment with comparable output capacity and lifetime that complies with Union standards already in force. The counterfactual scenario shall be credible in the light of legal requirements, market conditions and incentives.
+
+Where the investment consists in installing an add-on component to an already existing facility, for which there is no less environmentally-friendly equivalent, or where the aid applicant can demonstrate that no investment would take place in the absence of aid, the eligible costs shall be the total investment costs.
+
+**8.** The aid intensity shall not exceed 40 % of the eligible costs. The aid intensity may be increased by 20 percentage points for aid granted to small undertakings and by 10 percentage points for aid granted to medium-sized undertakings.
+
+**9.** The aid intensity may be increased by 15 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(a) of the Treaty and by 5 percentage points for investments located in assisted areas fulfilling the conditions of Article 107(3)(c) of the Treaty.
+
+**10.** Aid shall not be granted under this Article for investments undertaken to comply with Union standards that have been adopted and are in force. Aid may be granted under this Article for investments undertaken to comply with Union standards that have been adopted but are not yet in force, provided that the investment is implemented and finalised at least 18 months before the standard enters into force.
+
+<a id="art_48"></a>
+
+### Article 48 — Investment aid for energy infrastructure
+
+**1.** Investment aid for the construction or upgrade of energy infrastructure shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid for energy infrastructure that is partly or fully exempted from third party access or tariff regulation in accordance with internal energy market legislation shall not be exempted under this Article from the notification requirement of Article 108(3) of the Treaty.
+
+**3.** Aid for investments in electricity and gas storage projects shall not be exempt from the notification requirement under this Article.
+
+**4.** Aid for gas infrastructure shall only be exempted from the notification requirement of Article 108(3) of the Treaty where the infrastructure in question is dedicated to the use for hydrogen and/or for renewable gases, or used for the transport of more than 50 % hydrogen and renewable gases.
+
+**5.** The eligible costs shall be the total investment costs.
+
+**6.** The aid intensity may reach up to 100 % of the funding gap. The aid shall be limited to the minimum needed for carrying out the aided project or activity. This condition is fulfilled if the aid corresponds to the funding gap as defined under Article 2, point (118). A detailed assessment of the net extra cost is not required if the aid amounts are determined through a competitive bidding process, because it provides a reliable estimate of the minimum aid required by potential beneficiaries.
+
+<a id="art_49"></a>
+
+### Article 49 — Aid for studies and consultancy services on environmental protection and energy matters
+
+**1.** Aid for studies or consultancy services, including energy audits, directly linked to investments eligible for aid under this Section shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Where the entire study or consultancy service concerns investments eligible for aid under this Section, the eligible costs shall be the costs of the study or consultancy service. Where only part of the study or consultancy service concerns investments eligible for aid under this Section, the eligible costs shall be the costs of the part of the study or consultancy service relating to those investments.
+
+**2a.** Aid shall be granted irrespective of whether the findings of the study or the consultancy service are followed by an investment eligible for aid under this Section.
+
+**3.** The aid intensity shall not exceed 60 % of the eligible costs.
+
+**4.** The aid intensity may be increased by 20 percentage points for studies or consultancy services undertaken on behalf of small undertakings and by 10 percentage points for studies or consultancy services undertaken on behalf of medium-sized undertakings.
+
+**5.** Aid shall not be granted for energy audits carried out to comply with Directive 2012/27/EU, unless the energy audit is carried out in addition to the mandatory energy audit under that Directive.
+
+## *SECTION 8*
+
+### ***Aid to make good the damage caused by certain natural disasters***
+
+<a id="art_50"></a>
+
+### Article 50 — Aid schemes to make good the damage caused by certain natural disasters
+
+**1.** Aid schemes to make good the damage caused by earthquakes, avalanches, landslides, floods, tornadoes, hurricanes, volcanic eruptions and wild fires of natural origin shall be compatible with the internal market within the meaning of Article 107(2)(b) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall be granted subject to the following conditions:(a) the competent public authorities of a Member State have formally recognised the character of the event as a natural disaster; and(b) there is a direct causal link between the natural disaster and the damages suffered by the affected undertaking.
+
+**3.** Aid schemes related to a specific natural disaster shall be introduced within three years following the occurrence of the event. Aid on the basis of such schemes shall be granted within four years following the occurrence.
+
+**4.** The costs arising from the damage incurred as a direct consequence of the natural disaster, as assessed by an independent expert recognised by the competent national authority or by an insurance undertaking shall be eligible costs. Such damage may include material damage to assets such as buildings, equipment, machinery or stocks and loss of income due to the full or partial suspension of activity for a period not exceeding six months from the occurrence of the disaster. The calculation of the material damage shall be based on the repair cost or economic value of the affected asset before the disaster. It shall not exceed the repair cost or the decrease in fair market value caused by the disaster, that is to say the difference between the property's value immediately before and immediately after the occurrence of the disaster. Loss of income shall be calculated on the basis of financial data of the affected undertaking (earnings before interest and taxes (EBIT), depreciation and labour costs related only to the establishment affected by the natural disaster) by comparing the financial data for the six months after the occurrence of the disaster with the average of three years chosen among the five years preceding the occurrence of the disaster (by excluding the two years giving the best and the worst financial result) and calculated for the same six months period of the year. The damage shall be calculated at the level of the individual beneficiary.
+
+**5.** The aid and any other payments received to compensate for the damage, including payments under insurance policies, shall not exceed 100 % of the eligible costs.
+
+## *SECTION 9*
+
+### ***Social aid for transport for residents of remote regions***
+
+<a id="art_51"></a>
+
+### Article 51 — Social aid for transport for residents of remote regions
+
+**1.** Aid for air and maritime passenger transport shall be compatible with the internal market pursuant to Article 107(2)(a) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The entire aid shall be for the benefit of final consumers who have their normal residence in remote regions.
+
+**3.** The aid shall be granted for passenger transport on a route linking an airport or port in a remote region with another airport or port within the European Economic Area.
+
+**4.** The aid shall be granted without discrimination as to the identity of the carrier or type of service and without limitation as to the precise route to or from the remote region.
+
+**5.** The eligible costs shall be the price of a return ticket from or to the remote region, including all taxes and charges invoiced by the carrier to the consumer.
+
+**6.** The aid intensity shall not exceed 100 % of the eligible costs.
+
+## *SECTION 10*
+
+### ***Aid for broadband infrastructures***
+
+<a id="art_52"></a>
+
+### Article 52 — Aid for fixed broadband networks
+
+**1.** Aid for fixed broadband network deployment shall be compatible with the internal market pursuant to Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be all costs for the construction, management and operation of a fixed broadband network. The maximum aid amount for a project shall be established on the basis of a competitive selection process as set out in paragraph 6, point (a). Where an investment is carried out in accordance with paragraph 6, point (b), without a competitive selection process, the aid amount shall not exceed the difference between the eligible costs and the normal operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante* on the basis of reasonable projections and verified *ex post* through a claw-back mechanism. The reasonable projection of the measure requires that all costs and all revenues, which are expected to be incurred over the economic lifetime of the investment, shall be taken into account.
+
+**3.** The following alternative types of investment are eligible:(a) fixed broadband network deployment to connect households and socioeconomic drivers in areas where there is no network providing a speed of at least 100 Mbps download under peak-time conditions (threshold speed) existing or credibly planned to be deployed within the relevant time horizon. This shall be verified by mapping and public consultation in accordance with paragraph 4;(b) fixed broadband network deployment to connect socio-economic drivers in areas where there is only one network providing a speed of at least 100 Mbps download under peak time conditions but below 300 Mbps download under peak-time conditions (threshold speed) existing or credibly planned to be deployed within the relevant time horizon. This shall be verified by mapping and public consultation in accordance with paragraph 5.
+
+**4.** Areas where there is at least one network that can be upgraded to provide a speed of at least 1 Gbps download under peak time conditions are not eligible for interventions under points (a) and (b) of paragraph 3. A network is considered to be upgradable to provide a speed of at least 1 Gbps download under peak time conditions if it can provide this speed with a marginal investment, such as an upgrade of active equipment, without significant investment in broadband infrastructure.
+
+**5.** The mapping and public consultation for the purposes of paragraph 3 shall meet the following requirements cumulatively:(a) the mapping shall identify the geographic target areas planned to be covered under the State intervention and shall take into account all existing fixed broadband networks. The mapping shall be performed:(i) for fixed wired networks, at address level on the basis of premises passed;(ii) for fixed wireless access networks, at address level on the basis of premises passed or on the basis of maximum 100x100 metre grids.Where a network deployment includes, at the same time, the deployment of an access network and a limited deployment of the necessary ancillary backhaul network to enable the functioning of the access network, a mapping of backhaul networks is not required.All the elements of the methodology and the underlying technical criteria used to map the target areas must be made publicly available. Mapping shall always be verified through a public consultation;(b) the public consultation shall be carried out by the competent public authority through the publication of the main characteristics of the planned State intervention and the list of geographic target areas identified in the mapping exercise in accordance with point (a). That information must be made available on a publicly accessible website at regional and national level. The public consultation shall invite interested parties to comment on the planned State intervention and to submit substantiated information in accordance with point (a) regarding their networks providing the threshold speeds set out in paragraph 3 existing or credibly planned to be deployed in the target area within the relevant time horizon. The public consultation shall last at least 30 days.
+
+**6.** The intervention shall bring a significant improvement (step change) compared to the networks existing or credibly planned to be deployed within the relevant time horizon, as identified through the mapping and public consultation carried out in accordance with paragraph 5. Credibly planned networks shall be taken into account for the assessment of the step-change only if they would, on their own, provide similar performance to that of the planned State funded network in the target areas within the relevant time horizon. A step change takes place if, as a result of the subsidised intervention, a significant new investment in the broadband network is undertaken and the subsidised network brings significant new capabilities to the market in terms of broadband service availability, capacity, speeds and competition compared to the existing or credibly planned networks within the relevant time horizon. The intervention shall include more than 70 % investments in broadband infrastructure. In any case, an eligible intervention, as laid down in paragraph 3, must result at least in the following improvements:(a) for interventions under paragraph 3, point (a), the State funded network shall at least triple the download speed compared to the existing networks (target speed);(b) for interventions under paragraph 3, point (b), the State funded network shall at least triple the download speed compared to the existing networks and shall provide a speed of at least 1 Gbps download under peak-time conditions (target speed).
+
+**7.** The aid shall be granted as follows:(a) the aid shall be allocated on the basis of an open, transparent and non-discriminatory competitive selection procedure in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer;(b) when the aid is granted without a competitive selection procedure to a public authority to deploy and manage, directly or through an in-house entity, a fixed broadband network, the public authority or the in-house entity, as the case may be, shall provide only wholesale services using the subsidised network. Any concession or other entrustment to a third party to build or operate the network shall be allocated through an open, transparent and non-discriminatory competitive selection procedure, in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer.
+
+**8.** The subsidised network shall offer wholesale access, as defined in Article 2, point (139), under fair and non-discriminatory conditions. By derogation, interventions eligible under paragraph 3, point (a), may offer virtual unbundling instead of physical unbundling if the virtual unbundling access product is approved in advance by the national regulatory authority or other competent authority. Active wholesale access shall be granted for at least 10 years from the start of the operation of the network and the wholesale access to the broadband infrastructure shall be granted for the lifetime of the elements concerned. Access based on virtual unbundling must be granted for a period of time equal to the lifespan of the infrastructure for which virtual unbundling is a substitute. The same access conditions shall apply to the entirety of the network, including on parts of the network where existing infrastructures have been used. The access obligations shall be enforced irrespective of any change in ownership, management or operation of the network. The network shall provide access to at least three access seekers and shall make available at least 50 % of the capacity to access seekers. In order to render the wholesale access effective and to enable the access seekers to provide services, wholesale access shall also be granted to parts of the network that have not been State funded or that may not have been deployed by the aid beneficiary, such as by granting access to active equipment even if only broadband infrastructure is financed.
+
+**9.** The wholesale access price shall be based on one of the following benchmarks and pricing principles:(a) the average published wholesale prices that prevail in other comparable and more competitive areas of the Member State;(b) the regulated prices already set or approved by the national regulatory authority for the markets and services concerned; or(c) cost orientation or a methodology mandated in accordance with the sectorial regulatory framework.
+
+Without prejudice to the competences of the national regulatory authority under the regulatory framework, the national regulatory authority shall be consulted on wholesale access products, the terms and conditions for access, including on prices, and on disputes related to the application of this Article.
+
+**10.** Member States shall put in place a monitoring and claw-back mechanism if the amount of aid granted to the project exceeds EUR 10 million.
+
+**11.** To ensure that aid remains proportional and does not lead to overcompensation or cross-subsidisation of non-aided activities, the aid beneficiary shall ensure accounting separation between the funds used for the deployment and the operation of the State funded network and other funds at its disposal.
+
+<a id="art_52a"></a>
+
+### Article 52a — Aid for 4G and 5G mobile networks
+
+**1.** Aid for 4G and 5G mobile network deployment shall be compatible with the internal market pursuant to Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be all costs for the construction, management and operation of passive and active components of a mobile network. The maximum aid amount for a project shall be established on the basis of a competitive selection process as set out in paragraph 7, point (a). Where an investment is carried out in accordance with paragraph 7, point (b), without a competitive selection process, the aid amount shall not exceed the difference between the eligible costs and the normal operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante* on the basis of reasonable projections and verified *ex pos*t through a claw-back mechanism. The reasonable projection of the measure requires that all costs and all revenues, which are expected to be incurred over the economic lifetime of the investment, shall be taken into account.
+
+**3.** Mobile 5G network deployment shall be located in areas where there are no 4G and no 5G mobile networks existing or credibly planned to be deployed within the relevant time horizon. Mobile 4G network deployment shall be located in areas where there are no 3G, 4G or 5G mobile networks existing or credibly planned to be deployed within the relevant time horizon. These requirements shall be verified by mapping and public consultation in accordance with paragraph 4.
+
+**4.** The mapping and public consultation for the purposes of paragraph 3 shall meet the following requirements cumulatively:(a) the mapping shall clearly identify the geographic target areas planned to be covered under the State intervention and shall take into account all existing mobile networks. Mapping shall be performed on the basis of maximum 100x100 metre grids. All the elements of the methodology and the underlying technical criteria used to map the target areas must be made publicly available. Mapping shall always be verified through a public consultation;Where a network deployment includes, at the same time, the deployment of an access network and a limited deployment of the necessary ancillary backhaul network to enable the functioning of the access network, a separate mapping of backhaul networks is not required;(b) the public consultation shall be carried out by the competent public authority through the publication of the main characteristics of the planned State intervention and the list of geographic target areas identified in the mapping exercise in accordance with point (a). That information must be made available on a publicly accessible website at regional and national level. The public consultation shall invite interested parties to comment on the planned State intervention and to submit substantiated information in accordance with point (a) regarding their mobile networks with the characteristics set out in paragraph 3 that are existing or credibly planned to be deployed in the target area within the relevant time horizon. The public consultation shall last at least 30 days.
+
+**5.** The aided infrastructure shall not be taken into account to meet the coverage obligations of the mobile networks operators that arise out of conditions attached to rights of use of 4G and 5G spectrum.
+
+**6.** The intervention shall bring a significant improvement (step change) compared to the mobile networks existing or credibly planned to be deployed within the relevant time horizon, as identified through mapping and public consultation carried out in accordance with paragraph 4. Credibly planned networks shall be taken into account for the assessment of the step-change only if they would, on their own, provide similar performance to that of the planned State funded network in the target areas within the relevant time horizon. A step change takes place if, as a result of the subsidised intervention, a significant new investment in the mobile network is undertaken and the subsidised network brings significant new capabilities to the market in terms of mobile service availability, capacity, speeds and competition compared to the existing or credibly planned networks within the relevant time horizon. The intervention shall include more than 50 % investment in broadband infrastructure.
+
+**7.** The aid shall be granted as follows:(a) the aid shall be allocated on the basis of an open, transparent and non-discriminatory competitive selection procedure in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer;(b) when the aid is granted without a competitive selection procedure to a public authority to deploy and manage, directly or through an in-house entity, a mobile network, the public authority or the in-house entity, as the case may be, shall provide only wholesale services using the subsidised network. Any concession or other entrustment to a third party to build or operate the network shall be allocated through an open, transparent and non-discriminatory competitive selection process, in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer.
+
+**8.** The operation of the subsidised network shall offer wholesale access, as defined in Article 2, point (139), under fair and non-discriminatory conditions. Active wholesale access shall be granted for at least 10 years from the start of the operation of the network and wholesale access to the broadband infrastructure shall be granted for the lifetime of the elements concerned. The same access conditions shall apply on the entirety of the network, including on the parts of such network where existing infrastructures have been used. The access obligations shall be enforced irrespective of any change in ownership, management or operation of the network. In order to render the wholesale access effective and to enable the access seekers to provide services, wholesale access shall also be granted to parts of the network that have not been State funded or that may not have been deployed by the aid beneficiary, such as by granting access to active equipment even if only broadband infrastructure is financed.
+
+**9.** The wholesale access price shall be based on one of the following benchmarks and pricing principles:(a) the average published wholesale prices that prevail in other comparable and more competitive areas of the Member State;(b) the regulated prices already set or approved by the national regulatory authority for the markets and services concerned;(c) cost orientation or a methodology mandated in accordance with the sectorial regulatory framework.
+
+Without prejudice to the competences of the national regulatory authority under the regulatory framework, the national regulatory authority shall be consulted on the wholesale access products, the terms and conditions for access, including on prices, and on disputes related to the application of this Article.
+
+**10.** Member States shall put in place a monitoring and claw-back mechanism if the amount of aid granted to the project exceeds EUR 10 million.
+
+**11.** The use of the State funded mobile 4G or 5G network to provide fixed wireless access services shall only be allowed in areas where there is no network providing speeds of at least 100 Mbps download under peak-time conditions existing or credibly planned to be deployed within the relevant time horizon, if the following cumulative conditions are met:(a) the mapping and public consultation exercise take into account the fixed broadband networks existing or credibly planned determined according to Article 52(5);(b) the supported 4G or 5G fixed wireless access network shall at least triple the download speed compared to the existing or credibly planned networks (target speed) according to Article 52(5).
+
+**12.** To ensure that aid remains proportional and does not lead to overcompensation or cross-subsidisation of non-aided activities, the aid beneficiary shall ensure accounting separation between the funds used for the deployment and the operation of the State funded network and other funds at its disposal.
+
+<a id="art_52b"></a>
+
+### Article 52b — Aid for projects of common interest in the area of trans-European digital connectivity infrastructure
+
+**1.** Aid for projects of common interest in the area of trans-European digital connectivity infrastructure financed under Regulation (EU) 2021/1153 or awarded a Seal of Excellence quality label under that Regulation shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Projects shall fulfil the cumulative general compatibility conditions laid down in paragraph 3. They shall, in addition, fall under one of the categories of eligible projects laid down in paragraph 4 and shall fulfil all specific compatibility conditions for the relevant category laid down in that paragraph. Only projects which refer solely to the elements and entities specified under each relevant category in paragraph 4 shall fall within the scope of the exemption in paragraph 1.
+
+**3.** The general cumulative compatibility conditions shall be the following:(a) the beneficiary must provide a financial contribution of at least 25 % of the eligible costs through its own resources or through external financing not containing any public financial support. When the 25 % contribution of the beneficiary is provided through external financing via an investment platform combining different sources of financing, the condition that external financing must not contain any public financial support laid down in the previous sentence is replaced by the requirement of a presence in the platform of at least 30 % of private investment;(b) only costs that are eligible investment costs under Regulation (EU) 2021/1153 for the deployment of the infrastructure are eligible for aid;(c) the project must be selected in compliance with Regulation (EU) 2021/1153 in one of the following ways:(i) by an independent financial intermediary appointed by the Commission on the basis of commonly agreed investment guidelines;(ii) by the Commission through a competitive bidding process based on clear, transparent and non-discriminatory criteria;(iii) by independent experts appointed by the Commission;(d) the project must enable connectivity capabilities going beyond the requirements relating to any existing legal obligations, such as those attached to a right to use spectrum;(e) the project must ensure third party open wholesale access including unbundling under fair, reasonable and non-discriminatory conditions in accordance with Article 52(7) and (8) or Article 52a(8) and (9) as appropriate.
+
+**4.** The categories of eligible projects and the specific cumulative compatibility conditions applicable to them shall be the following:(a) investments in the deployment of a cross-border section of a 5G corridor along a transport corridor identified in the trans-European transport network guidelines as laid down in Regulation (EU) No 1315/2013 (TEN-T corridors) that meet the following specific cumulative conditions:(i) the project consists of a cross-border section of a 5G corridor which crosses the border between two or more Member States, or crosses the border of at least one Member State and at least one European Economic Area country;(ii) the total cross-border sections of 5G corridors located in a Member State shall not represent more than 15 % of the total length of the 5G corridors along the trans-European transport core network in that Member State that are not covered by any existing legal obligations, such as those attached to a right to use spectrum. Exceptionally, if a Member State supports the deployment of cross-border 5G corridors along its trans-European transport comprehensive network, the total cross-border sections of 5G corridors located in that Member State shall not represent more than 15 % of the total length of the 5G corridors along the trans-European transport comprehensive network in that Member State that are not covered by any existing legal obligations, such as those attached to a right to use spectrum;(iii) the project ensures a significant new investment in the 5G mobile network suitable for connected and automated mobility services going beyond marginal investments related merely to the upgrade of the active elements of the network;(iv) the project supports the deployment of new passive infrastructure only if existing passive infrastructure cannot be reused;(b) investments in the deployment of a cross-border section of a pan-European terabit backbone network supporting the objectives of the European High-Performance Computing Joint Undertaking by interconnecting certain computing facilities, supercomputing facilities and data infrastructures that meet the following specific cumulative conditions:(i) the project shall deploy or acquire connectivity assets, including Indefeasible Rights of Use, dark fibre or equipment, for building a cross-border section of a pan-European backbone network that supports the interconnection with unconstrained end to end connectivity of a minimum of 1 Tbps, of at least two computing facilities, supercomputing facilities or data infrastructures that: (1) are hosting entities of the European High Performance Computing Joint Undertaking established in accordance with Council Regulation (EU) 2018/1488 (65), or are research infrastructures and other computing and data infrastructures supporting research flagships and missions set out in Regulation (EU) 2021/695 of the European Parliament and of the Council (66) and Council Regulation (EC) No 723/2009 that contribute to the objectives of the European High-Performance Computing Joint Undertaking; and (2) are located in at least two Member States or at least one Member State and at least one member of the European Research Area;(ii) the project ensures a significant new investment in the backbone network going beyond marginal investments, such as investments related to mere software upgrades or licensing;(iii) the acquisition of connectivity assets is carried out through public procurement;(iv) the project supports the deployment of new passive infrastructure only if existing passive infrastructure cannot be reused;(c) investments in the deployment of a cross-border section of a backbone network interconnecting cloud infrastructures of certain socioeconomic drivers that meet the following specific cumulative conditions:(i) the project interconnects cloud infrastructures of socioeconomic drivers that are public administrations or public or private entities entrusted with the operation of services of general interest or of services of general economic interest within the meaning of Article 106(2) of the Treaty;(ii) the project consists of a cross-border section of the deployment of new cross-border backbone networks or a significant upgrade of existing ones that (1) crosses the border between two or more Member States; or (2) crosses the border between at least one Member State and at least one European Economic Area country;(iii) the project covers at least two eligible socioeconomic drivers under point (i), each operating in a different Member State or in one Member State and one European Economic Area country;(iv) the project ensures a significant new investment in the backbone network going beyond marginal investments, such as investments related to mere software upgrades or licensing. The project shall be able to reliably provide symmetric download and upload speeds of at least multiples of 10 Gbps;(v) the project supports the deployment of new passive infrastructure only if existing passive infrastructure cannot be reused;(d) investments in the deployment of a submarine cable network that meet the following specific cumulative conditions:(i) the project consists of a cross-border section of a submarine cable network which (1) crosses the border between two or more Member States; or (2) crosses the border of at least one Member State and at least one European Economic Area country. Alternatively, the entity receiving aid shall only ensure the provision of wholesale services and the supported infrastructure shall improve the connectivity of European outermost regions, overseas territories, or island regions, even within a single Member State;(ii) the project must not concern routes served already by at least two present or credibly planned backbone infrastructures;(iii) the project ensures a significant new investment in the submarine cable network, by rolling-out a new submarine cable or connection to an existing submarine cable, addressing redundancy issues and going beyond marginal investments. The project shall be able to reliably provide symmetric download and upload speeds of at least 1 Gbps;(iv) the project supports the deployment of new passive infrastructure only if existing passive infrastructure cannot be reused.
+
+<a id="art_52c"></a>
+
+### Article 52c — Connectivity vouchers
+
+**1.** Aid in the form of a connectivity voucher scheme for consumers, to facilitate teleworking, online education, training services, or for SMEs shall be compatible with the internal market pursuant to Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The duration of a voucher scheme shall not exceed 3 years. The validity of the vouchers for end users cannot exceed 2 years.
+
+**3.** The following categories of vouchers shall be eligible:(a) vouchers available to consumers and SMEs for subscribing to a new broadband service or upgrading the existing subscription to a service providing speeds of at least 30 Mbps download under peak-time conditions, provided that all providers of electronic communications services providing speeds of at least 30 Mbps download under peak-time conditions are eligible under the scheme. Vouchers shall not be awarded for switching providers providing the same speeds as the speeds already available under the existing subscription or for upgrades of an existing subscription of at least 30 Mbps download under peak-time conditions;(b) vouchers available to SMEs for subscribing to a new broadband service or upgrading the existing subscription to a service providing speeds of at least 100 Mbps download under peak-time conditions, provided that all providers of electronic communications services providing speeds of at least 100 Mbps download under peak-time conditions are eligible under the scheme. Vouchers shall not be awarded for switching providers providing the same speeds as the speeds already available under the existing subscription or for upgrades of an existing subscription of at least 100 Mbps download under peak-time conditions.
+
+**4.** The vouchers shall cover up to 50 % of the eligible costs. Eligible costs are the monthly fee, the standard set-up costs and the necessary terminal equipment for the end users to use the broadband services with the speeds specified in paragraph 3. The costs for in-house wiring and limited deployment in the end users’ private properties or in the public property in close proximity to the end users’ private properties are also eligible to the extent they are necessary and ancillary to the provision of the service. The voucher shall be paid by the public authorities directly to the end-users or directly to the service provider chosen by the end users.
+
+**5.** Vouchers shall not be provided for areas where there is no network providing the eligible services specified in paragraph 3. Member States must carry out a public consultation through publication of the main characteristics of the scheme and of the list of geographic target areas on a publicly accessible website at regional and national level. The public consultation shall invite interested parties to comment on the draft measure and to submit substantiated information regarding their existing networks able to reliably provide the speed specified in paragraph 3. The public consultation shall last at least 30 days.
+
+**6.** Vouchers shall be technologically neutral. The schemes shall ensure equal treatment of all possible service providers and shall offer end users the widest possible choice of providers irrespective of the technologies used. For that purpose, the Member State shall set up an online registry of all eligible service providers or implement an equivalent alternative method to ensure the openness, transparency and non-discriminatory nature of the State intervention. End users shall have the possibility to consult this information about all undertakings that are able to provide eligible services. All undertakings capable of providing eligible services shall have the right, upon request, to be included in the online registry or in any alternative location chosen by the Member State.
+
+**7.** In order to minimise market distortions, Member States shall carry out a market assessment identifying the eligible providers present in the area and collecting information to calculate their market share, the take-up of eligible services and their prices. Aid shall only be granted if the market assessment determines that the scheme is designed sufficiently broadly in order not to unduly benefit a limited number of providers and that the scheme does not lead to reinforcing the (local) market power of certain providers.
+
+**8.** To be eligible, when a provider of broadband services is vertically integrated and has a retail market share above 25 %, it must offer, on the corresponding wholesale access market, wholesale access products on the basis of which any access seeker will be able to provide the eligible services at the speed specified in paragraph 3, under open, transparent and non-discriminatory conditions.
+
+The wholesale access price shall be set on one of the following benchmarks and pricing principles:
+
+(a) the average published wholesale prices that prevail in other comparable and more competitive areas of the Member State;
+
+(b) the regulated prices already set or approved by the national regulatory authority for the markets and services concerned;
+
+(c) costs orientation or a methodology mandated in accordance with the sectoral regulatory framework.
+
+Without prejudice to the competences of the national regulatory authority under the regulatory framework, the national regulatory authority shall be consulted on on wholesale access products, the terms and conditions for access, including on prices, and on disputes related to the application of this Article.
+
+<a id="art_52d"></a>
+
+### Article 52d — Aid for backhaul networks
+
+**1.** Aid for backhaul network deployment shall be compatible with the internal market pursuant to Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The eligible costs shall be all costs for the construction, management and operation of a backhaul network. The maximum aid amount for a project shall be established on the basis of a competitive selection process as set out in paragraph 6, point (a). Where an investment is carried out in accordance with paragraph 6, point (b), without a competitive selection process, the aid amount shall not exceed the difference between the eligible costs and the normal operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante* on the basis of reasonable projections and verified *ex post* through a claw-back mechanism. The reasonable projection of the measure requires that all costs and all revenues, which are expected to be incurred over the economic lifetime of the investment, shall be taken into account.
+
+**3.** Backhaul network deployment shall be located in areas where there is no backhaul network based on fibre or on other technologies able to provide the same level of performance and reliability as fibre existing or credibly planned to be deployed within the relevant time horizon. This shall be verified by mapping and public consultation in accordance with paragraph 4.
+
+**4.** The mapping and public consultation for the purposes of paragraph 3 shall meet the following requirements cumulatively:(a) the mapping shall identify the target areas for the backhaul State intervention and shall take into account all existing backhaul networks. All the elements of the methodology and the underlying technical criteria used to map the target areas must be made publicly available. Mapping shall always be verified through a public consultation;(b) the public consultation shall be carried out by the competent public authority through the publication of the main characteristics of the planned State intervention and the list of areas identified in the mapping exercise in accordance with point (a). That information must be made available on a publicly accessible website at regional and national level. The public consultation shall invite interested parties to comment on the planned State intervention and to submit substantiated information in accordance with point (a) regarding the backhaul networks existing or credibly planned to be deployed within the relevant time horizon. The public consultation shall last at least 30 days.
+
+**5.** The intervention shall bring a significant improvement (step change) compared to the backhaul networks existing or credibly planned to be deployed within the relevant time horizon, as identified through mapping and public consultation carried out in accordance with paragraph 4. Credibly planned networks shall be taken into account for the assessment of the step-change only if they would, on their own, provide similar performance to that of the planned State funded network in the target areas within the relevant time horizon. A step change takes place if, as a result of the subsidised intervention, a significant new investment in the backhaul network is undertaken and the subsidised backhaul network is based on fibre or on other technologies able to provide the same level of performance of fibre, as opposed to the existing or credibly planned networks within the relevant time horizon. The intervention must include more than 70 % investment in broadband infrastructure.
+
+**6.** The aid shall be granted as follows:(a) the aid shall be allocated on the basis of an open, transparent and non-discriminatory competitive selection procedure in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer;(b) when the aid is granted without a competitive selection procedure to a public authority to deploy and manage, directly or through an in-house entity, a backhaul network, the public authority or the in-house entity, as the case may be, shall provide only wholesale services using the subsidised network. Any concession or other entrustment to a third party to build or operate the network shall be allocated through an open, transparent and non-discriminatory competitive selection procedure, in line with the principles of public procurement rules and respecting the principle of technology neutrality, based on the most economically advantageous offer.
+
+**7.** The operation of the subsidised network shall offer wholesale access, as defined in Article 2, point (139), under fair and non-discriminatory conditions to both fixed and mobile networks. Active wholesale access shall be granted for at least 10 years from the start of the operation of the network and the wholesale access to the broadband infrastructure shall be granted for the lifetime of the elements concerned. The same access conditions shall apply to the entirety of the network, including on parts of the network where existing infrastructures have been used. The access obligations shall be enforced irrespective of any change in ownership, management or operation of the network. The State funded network shall cater for all fixed and mobile networks in the target areas of the backhaul intervention and shall make available at least 50 % of the capacity to access seekers. In order to render the wholesale access effective and to enable the access seekers to provide services, wholesale access shall also be granted to parts of the network that have not been State funded or that may not have been deployed by the aid beneficiary, such as by granting access to active equipment even if only broadband infrastructure is financed.
+
+**8.** The wholesale access price shall be based on one of the following benchmarks and pricing principles:(a) the average published wholesale prices that prevail in other comparable, more competitive areas of the Member State;(b) the regulated prices already set or approved by the national regulatory authority for the markets and services concerned; or(c) cost orientation or a methodology mandated in accordance with the sectorial regulatory framework.
+
+Without prejudice to the competences of the national regulatory authority under the regulatory framework, the national regulatory authority shall be consulted on wholesale access products, the terms and conditions for access, including on prices, and on disputes related to the application of this Article.
+
+**9.** Member States shall put in place a monitoring and claw-back mechanism if the amount of aid granted to a project exceeds EUR 10 million.
+
+**10.** To ensure that aid remains proportional and does not lead to overcompensation or cross-subsidisation of non-aided activities, the aid beneficiary shall ensure accounting separation between the funds used for the deployment and the operation of the State funded network and other funds at its disposal.
+
+## *SECTION 11*
+
+### ***Aid for culture and heritage conservation***
+
+<a id="art_53"></a>
+
+### Article 53 — Aid for culture and heritage conservation
+
+**1.** Aid for culture and heritage conservation shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** The aid shall be granted for the following cultural purposes and activities:▼M1(a) museums, archives, libraries, artistic and cultural centres or spaces, theatres, cinemas, opera houses, concert halls, other live performance organisations, film heritage institutions and other similar artistic and cultural infrastructures, organisations and institutions;▼B(b) tangible heritage including all forms of movable or immovable cultural heritage and archaeological sites, monuments, historical sites and buildings; natural heritage linked to cultural heritage or if formally recognized as cultural or natural heritage by the competent public authorities of a Member State;(c) intangible heritage in any form, including folklorist customs and crafts;(d) art or cultural events and performances, festivals, exhibitions and other similar cultural activities;(e) cultural and artistic education activities as well as promotion of the understanding of the importance of protection and promotion of the diversity of cultural expressions through educational and greater public awareness programs, including with the use of new technologies;(f) writing, editing, production, distribution, digitisation and publishing of music and literature, including translations.
+
+**3.** The aid may take the form of:(a) investment aid, including aid for the construction or upgrade of culture infrastructure;(b) operating aid.
+
+**4.** For investment aid, the eligible costs shall be the investment costs in tangible and intangible assets, including:(a) costs for the construction, upgrade, acquisition, conservation or improvement of infrastructure, if at least 80 % of either the time or the space capacity per year is used for cultural purposes;(b) costs for the acquisition, including leasing, transfer of possession or physical relocation of cultural heritage;(c) costs for safeguarding, preservation, restoration and rehabilitation of tangible and intangible cultural heritage, including extra costs for storage under appropriate conditions, special tools, materials and costs for documentation, research, digitalisation and publication;(d) costs for improving the accessibility of cultural heritage to the public, including costs for digitisation and other new technologies, costs to improve accessibility for persons with special needs (in particular, ramps and lifts for disabled persons, braille indications and hands-on exhibits in museums) and for promoting cultural diversity with respect to presentations, programmes and visitors;(e) costs for cultural projects and activities, cooperation and exchange programmes and grants including costs for selection procedures, costs for promotion and costs incurred directly as a result of the project;
+
+**5.** For operating aid, the eligible costs shall be the following:(a) the cultural institution's or heritage site's costs linked to continuous or periodic activities including exhibitions, performances and events and similar cultural activities that occur in the ordinary course of business;(b) costs of cultural and artistic education activities as well as promotion of the understanding of the importance of protection and promotion of the diversity of cultural expressions through educational and greater public awareness programs, including with the use of new technologies;(c) costs of the improvement of public access to the cultural institution or heritage sites and activities including costs of digitisation and of use of new technologies as well as costs of improving accessibility for persons with disabilities;(d) operating costs directly relating to the cultural project or activity, such as rent or lease of real estate and cultural venues, travel expenses, materials and supplies directly related to the cultural project or activity, architectural structures for exhibitions and stage sets, loan, lease and depreciation of tools, software and equipment, costs for access rights to copyright works and other related intellectual property rights protected contents, costs for promotion and costs incurred directly as a result of the project or activity; depreciation charges and the costs of financing are only eligible if they have not been covered by investment aid;(e) costs for personnel working for the cultural institution or heritage site or for a project;(f) costs for advisory and support services provided by outside consultants and service providers, incurred directly as a result of the project.
+
+**6.** For investment aid, the aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism. The operator of the infrastructure is allowed to keep a reasonable profit over the relevant period.
+
+**7.** For operating aid, the aid amount shall not exceed what is necessary to cover the operating losses and a reasonable profit over the relevant period. This shall be ensured *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**8.** For aid not exceeding EUR 2.2 million, the maximum amount of aid may be set at 80 % of eligible costs, as an alternative to application of the method referred to in paragraphs 6 and 7.
+
+**9.** ►M1 For the activities defined in paragraph 2(f), the maximum aid amount shall not exceed either the difference between the eligible costs and the project's discounted revenues or 70 % of the eligible costs.** ◄ ** The revenues shall be deducted from the eligible costs *ex ante* or through a clawback mechanism. The eligible costs shall be the costs for publishing of music and literature, including the authors' fees (copyright costs), translators' fees, editors' fees, other editorial costs (proofreading, correcting, reviewing), layout and pre-press costs and printing or e-publication costs.
+
+**10.** Aid to press and magazines, whether they are published in print or electronically, shall not be eligible under this Article.
+
+<a id="art_54"></a>
+
+### Article 54 — Aid schemes for audiovisual works
+
+**1.** Aid schemes to support the script-writing, development, production, distribution and promotion of audiovisual works shall be compatible with the internal market pursuant to Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Aid shall support a cultural product. To avoid manifest errors in the qualification of a product as cultural, each Member State shall establish effective processes, such as selection of proposals by one or more persons entrusted with the selection or verification against a predetermined list of cultural criteria.
+
+**3.** Aid may take the form of:(a) aid to the production of audiovisual works;(b) pre-production aid; and(c) distribution aid.
+
+**4.** Where a Member States makes the aid subject to territorial spending obligations, aid schemes for the production of audiovisual works may either:(a) require that up to 160 % of the aid granted to the production of a given audiovisual work is spent in the territory of the Member State granting the aid; or(b) calculate the aid granted to the production of a given audiovisual work as a percentage of the expenditure on production activities in the granting Member State, typically in case of aid schemes in the form of tax incentives.
+
+In both cases, the maximum expenditure subject to territorial spending obligations shall in no case exceed 80 % of the overall production budget.
+
+For projects to be eligible for aid, a Member State may also require a minimum level of production activity in the territory concerned, but that level shall not exceed 50 % of the overall production budget.
+
+**5.** The eligible costs shall be the following:(a) for production aid: the overall costs of production of audiovisual works including costs to improve accessibility for persons with disabilities.(b) for pre-production aid: the costs of script-writing and the development of audiovisual works.(c) for distribution aid: the costs of distribution and promotion of audiovisual works.
+
+**6.** The aid intensity for the production of audiovisual works shall not exceed 50 % of the eligible costs.
+
+**7.** The aid intensity may be increased as follows:(a) to 60 % of the eligible costs for cross-border productions funded by more than one Member State and involving producers from more than one Member State;(b) to 100 % of the eligible costs for difficult audiovisual works and co-productions involving countries from the Development Assistance Committee (DAC) List of the OECD.
+
+**8.** The aid intensity for pre-production shall not exceed 100 % of the eligible costs. If the resulting script or project is made into an audiovisual work such as a film, the pre-production costs shall be incorporated in the overall budget and taken into account when calculating the aid intensity. The aid intensity for distribution shall be the same as the aid intensity for production.
+
+**9.** Aid shall not be reserved for specific production activities or individual parts of the production value chain. Aid for film studio infrastructures shall not be eligible under this Article.
+
+**10.** Aid shall not be reserved exclusively for nationals and beneficiaries shall not be required to have the status of undertaking established under national commercial law.
+
+## *SECTION 12*
+
+### ***Aid for sport and multifunctional recreational infrastructures***
+
+<a id="art_55"></a>
+
+### Article 55 — Aid for sport and multifunctional recreational infrastructures
+
+**1.** Aid for sport and multifunctional recreational infrastructures shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** Sport infrastructure shall not be used exclusively by a single professional sport user. Use of the sport infrastructure by other professional or non-professional sport users shall annually account for at least 20 % of time capacity. If the infrastructure is used by several users simultaneously, corresponding fractions of time capacity usage shall be calculated.
+
+**3.** Multifunctional recreational infrastructure shall consist of recreational facilities with a multi-functional character offering, in particular, cultural and recreational services with the exception of leisure parks and hotel facilities.
+
+**4.** Access to the sport or multifunctional recreational infrastructures shall be open to several users and be granted on a transparent and non-discriminatory basis. Undertakings which have financed at least 30 % of the investment costs of the infrastructure may be granted preferential access under more favourable conditions, provided those conditions are made publicly available.
+
+**5.** If sport infrastructure is used by professional sport clubs, Member States shall ensure that the pricing conditions for its use are made publicly available.
+
+**6.** Any concession or other entrustment to a third party to construct, upgrade and/or operate the sport or multifunctional recreational infrastructure shall be assigned on a open, transparent and non-discriminatory basis, having due regard to the applicable procurement rules.
+
+**7.** The aid may take the form of:(a) investment aid, including aid for the construction or upgrade of sport and multifunctional recreational infrastructure;(b) operating aid for sport infrastructure;
+
+**8.** For investment aid for sport and multifunctional recreational infrastructure the eligible costs shall be the investment costs in tangible and intangible assets.
+
+**9.** For operating aid for sport infrastructure the eligible costs shall be the operating costs of the provision of services by the infrastructure. Those operating costs include costs such as personnel costs, materials, contracted services, communications, energy, maintenance, rent, administration, etc., but exclude depreciation charges and the costs of financing if these have been covered by investment aid.
+
+**10.** For investment aid for sport and multifunctional recreational infrastructure, the aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**11.** For operating aid for sport infrastructure, the aid amount shall not exceed the operating losses over the relevant period. This shall be ensured *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**12.** For aid not exceeding EUR 2.2 million, the maximum amount of aid may be set at 80 % of eligible costs, as an alternative to application of the method referred to in paragraphs 10 and 11.
+
+## *SECTION 13*
+
+### ***Aid for local infrastructures***
+
+<a id="art_56"></a>
+
+### Article 56 — Investment aid for local infrastructures
+
+**1.** Financing for the construction or upgrade of local infrastructures which concerns infrastructure that contribute at a local level to improving the business and consumer environment and modernising and developing the industrial base shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempt from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**2.** This Article shall not apply to aid for infrastructures that is covered by other sections of Chapter III of this Regulation with the exception of Section 1 — Regional aid. This Article shall also not apply to airport infrastructure and port infrastructure.
+
+**3.** The infrastructure shall be made available to interested users on an open, transparent and non-discriminatory basis. The price charged for the use or the sale of the infrastructure shall correspond to market price.
+
+**4.** Any concession or other entrustment to a third party to operate the infrastructure shall be assigned on an open, transparent and non-discriminatory basis, having due regard to the applicable procurement rules.
+
+**5.** The eligible costs shall be the investment costs in tangible and intangible assets.
+
+**6.** The aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**7.** Dedicated infrastructure shall not be exempted under this Article.
+
+## *SECTION 14*
+
+### ***Aid for regional airports***
+
+<a id="art_56a"></a>
+
+### Article 56a — Aid for regional airports
+
+**1.** Investment aid to an airport shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in paragraphs 3 to 14 of this Article and in Chapter I are fulfilled.
+
+**2.** Operating aid to an airport shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in paragraphs 3, 4, 10 and 15 to 18 of this Article and in Chapter I are fulfilled.
+
+**3.** The airport shall be open to all potential users. In the case of physical limitation of capacity, the allocation shall take place on the basis of pertinent, objective, transparent and non-discriminatory criteria.
+
+**4.** The aid shall not be granted for the relocation of existing airports or for the creation of a new passenger airport, including the conversion of an existing airfield into a passenger airport.
+
+**5.** The investment concerned shall not exceed what is necessary to accommodate the medium-term expected traffic on the basis of reasonable traffic forecasts.
+
+**6.** The investment aid shall not be granted to an airport located within 100 kilometres or 60 minutes travelling time by car, bus, train or high-speed train from an existing airport from which scheduled air services, within the meaning of Article 2(16) of Regulation (EC) No 1008/2008, are operated.
+
+**7.** Paragraphs 5 and 6 shall not apply to airports with average annual passenger traffic of up to 200 000 passengers during the two financial years preceding the year in which aid is actually granted if the investment aid is not expected to result in the airport increasing its average annual passenger traffic to above 200 000 passengers within two financial years following the granting of the aid. Investment aid granted to such airports shall comply either with paragraph 11 or with paragraphs 13 and 14.
+
+**8.** Paragraph 6 shall not apply where the investment aid is granted to an airport situated within 100 kilometres from existing airports from which scheduled air services, within the meaning of Article 2(16) of Regulation (EC) No 1008/2008, are operated, provided the route between each of these other existing airports and the airport receiving the aid necessarily involves either a total travelling time by maritime transportation of at least 90 minutes or air transportation.
+
+**9.** The investment aid shall not be granted to airports with average annual passenger traffic of more than three million passengers during the two financial years preceding the year in which aid is actually granted. The investment aid shall not be expected to result in the airport increasing its average annual traffic to above three million passengers within two financial years following the granting of the aid.
+
+**10.** The aid shall not be granted to airports with average annual freight traffic of more than 200 000 tonnes during the two financial years preceding the year in which aid is actually granted. The aid shall not be expected to result in the airport increasing its average annual freight traffic to above 200 000 tonnes within two financial years following the granting of the aid.
+
+**11.** The investment aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**12.** The eligible costs shall be the costs relating to the investments in airport infrastructure, including planning costs.
+
+**13.** The investment aid amount shall not exceed:(a) 50 % of eligible costs for airports with an average annual passenger traffic of one to three million passengers during the two financial years preceding the year in which aid is actually granted;(b) 75 % of the eligible costs for airports with average annual passenger traffic of up to one million passengers during the two financial years preceding the year in which aid is actually granted.
+
+**14.** The maximum aid intensities set out in paragraph 13 may be increased by 20 percentage points for airports located in remote regions.
+
+**15.** Operating aid shall not be granted to airports with average annual passenger traffic of more than 200 000 passengers during the two financial years preceding the year in which aid is actually granted.
+
+**16.** The amount of operating aid shall not exceed what is necessary to cover the operating losses and a reasonable profit over the relevant period. The aid shall be granted either in the form of periodic instalments fixed *ex ante*, which shall not be increased during the period for which the aid is granted, or in the form of amounts defined *ex post* based on the observed operating losses.
+
+**17.** Operating aid shall not be paid out in respect of any calendar year during which the annual passenger traffic of the airport exceeds 200 000 passengers.
+
+**18.** The granting of the operating aid shall not be made conditional upon the conclusion of arrangements with specific airlines relating to airport charges, marketing payments or other financial aspects of the airlines' operations at the airport concerned.
+
+## *SECTION 15*
+
+### ***Aid for ports***
+
+<a id="art_56b"></a>
+
+### Article 56b — Aid for maritime ports
+
+**1.** Aid for maritime ports shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**1a.** Aid under this Article shall not be granted for the construction, installation, or upgrade of refuelling infrastructure supplying vessels with fossil-based fuels, such as diesel, natural gas, in gaseous form (compressed natural gas (CNG)) and liquefied form (liquefied natural gas (LNG)), and liquefied petroleum gas (LPG).
+
+**2.** The eligible costs shall be the costs, including planning costs, of:(a) investments for the construction, replacement or upgrade of port infrastructures;(b) investments for the construction, replacement or upgrade of access infrastructure;(c) dredging.
+
+**2a.** For aid for recharging and refuelling infrastructure supplying electricity, hydrogen, ammonia and methanol, the eligible costs shall be the costs of the construction, installation, upgrade or extension of recharging or refuelling infrastructure. Those costs may include the costs of the recharging or refuelling infrastructure itself and related technical equipment, including fixed, mobile or floating facilities, the installation of, or upgrades to, electrical or other components, including electrical cables and power transformers, required for connecting the recharging or refuelling infrastructure to the grid or to a local electricity or hydrogen production or storage unit, as well as civil engineering works, land or road adaptations, installation costs and costs for obtaining related permits.
+
+The eligible costs may also cover the investment costs of on-site production of renewable electricity or renewable hydrogen and the investment costs of storage units for storing renewable electricity or hydrogen. The nominal production capacity of the on-site renewable electricity or renewable hydrogen production installation shall not exceed the maximum rated output or refuelling capacity of the recharging or refuelling infrastructure to which it is connected.
+
+**3.** Costs relating to non-transport related activities, including industrial production facilities active in a port, offices or shops, as well as for port superstructures shall not be eligible costs.
+
+**4.** The aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment or dredging. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**5.** The aid intensity per investment referred to in paragraph 2, point (a), shall not exceed:(a) 100 % of the eligible costs where total eligible costs of the project are up to EUR 22 million;(b) 80 % of the eligible costs where total eligible costs of the project are above EUR 22 million and up to EUR 55 million;(c) 60 % of the eligible costs where total eligible costs of the project are above EUR 55 million and up to the amount laid down in Article 4(1), point (ee).
+
+The aid intensity shall not exceed 100 % of the eligible costs determined in paragraph 2, points (b) and (c), up to the amount laid down in Article 4(1), point (ee).
+
+**6.** The aid intensities laid down in points (b) and (c) of the first subparagraph of paragraph 5 may be increased by 10 percentage points for investments located in assisted areas fulfilling the conditions of point (a) of Article 107(3) of the Treaty and by 5 percentage points for investments located in assisted areas fulfilling the conditions of point (c) of Article 107(3) of the Treaty.
+
+**7.** Any concession or other entrustment to a third party to construct, upgrade, operate or rent aided port infrastructure shall be assigned on a competitive, transparent, non-discriminatory and unconditional basis.
+
+**8.** The aided port infrastructure shall be made available to interested users on an equal and non-discriminatory basis on market terms.
+
+**8a.** When aid is granted for the construction, installation or upgrade of a refuelling infrastructure supplying hydrogen, the beneficiary shall give a commitment that by 31 December 2035 at the latest the aided refuelling infrastructure will supply solely renewable hydrogen. When aid is granted for the construction, installation or upgrade of a refuelling infrastructure supplying ammonia or methanol, the beneficiary shall give a commitment that by 31 December 2035 at the latest the aided refuelling infrastructure will supply solely ammonia or methanol the energy content of which is derived from renewable sources other than biomass and that have been produced in accordance with the methodologies set out for renewable liquid and gaseous transport fuels of non-biological origin in Directive (EU) 2018/2001 and its implementing or delegated acts.
+
+**9.** For aid not exceeding EUR 5.5 million, the maximum amount of aid may be set at 80 % of eligible costs, as an alternative to application of the method referred to in paragraphs 4, 5 and 6.
+
+<a id="art_56c"></a>
+
+### Article 56c — Aid for inland ports
+
+**1.** Aid for inland ports shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+
+**1a.** Aid under this Article shall not be granted for the construction, installation, or upgrade of refuelling infrastructure supplying vessels with fossil-based fuels, such as diesel, natural gas, in gaseous form (compressed natural gas (CNG)) and liquefied form (liquefied natural gas (LNG)), and liquefied petroleum gas (LPG).
+
+**2.** The eligible costs shall be the costs, including planning costs, of:(a) investments for the construction, replacement or upgrade of port infrastructures;(b) investments for the construction, replacement or upgrade of access infrastructure;(c) dredging.
+
+**2a.** For aid for recharging and refuelling infrastructure supplying electricity, hydrogen, ammonia and methanol, the eligible costs shall be the costs of the construction, installation, upgrade or extension of recharging or refuelling infrastructure. Those costs may include the costs of the recharging or refuelling infrastructure itself and related technical equipment, including fixed, mobile or floating facilities, the installation of, or upgrades to, electrical or other components, including electrical cables and power transformers, required for connecting the recharging or refuelling infrastructure to the grid or to a local electricity or hydrogen production or storage unit, as well as civil engineering works, land or road adaptations, installation costs and costs for obtaining related permits.
+
+The eligible costs may also cover the investment costs of on-site production of renewable electricity or renewable hydrogen and the investment costs of storage units for storing renewable electricity or hydrogen. The nominal production capacity of the on-site renewable electricity or renewable hydrogen production installation shall not exceed the maximum rated output or refuelling capacity of the recharging or refuelling infrastructure to which it is connected.
+
+**3.** Costs relating to non-transport related activities, including industrial production facilities active in a port, offices or shops, as well as for port superstructures shall not be eligible costs.
+
+**4.** The aid amount shall not exceed the difference between the eligible costs and the operating profit of the investment or dredging. The operating profit shall be deducted from the eligible costs *ex ante*, on the basis of reasonable projections, or through a claw-back mechanism.
+
+**5.** The maximum aid intensity shall not exceed 100 % of the eligible costs up to the amount laid down in point (ff) of Article 4(1).
+
+**6.** Any concession or other entrustment to a third party to construct, upgrade, operate or rent aided port infrastructure shall be assigned on a competitive, transparent, non-discriminatory and unconditional basis.
+
+**7.** The aided port infrastructure shall be made available to interested users on an equal and non-discriminatory basis on market terms.
+
+**7a.** When aid is granted for the construction, installation or upgrade of a refuelling infrastructure supplying hydrogen, the beneficiary shall give a commitment that by 31 December 2035 at the latest the aided refuelling infrastructure will supply solely renewable hydrogen. When aid is granted for the construction, installation or upgrade of a refuelling infrastructure supplying ammonia or methanol, the beneficiary shall give a commitment that by 31 December 2035 at the latest the aided refuelling infrastructure will supply solely ammonia or methanol the energy content of which is derived from renewable sources other than biomass and that have been produced in accordance with the methodologies set out for renewable liquid and gaseous transport fuels of non-biological origin in Directive (EU) 2018/2001 and its implementing or delegated acts.
+
+**8.** For aid not exceeding EUR 2.2 million, the maximum amount of aid may be set at 80 % of eligible costs, as an alternative to application of the method referred to in paragraphs 4 and 5.
+
+## *SECTION 16*
+
+### ***Aid involved in financial products supported by the InvestEU Fund***
+
+<a id="art_56d"></a>
+
+### Article 56d — Scope and common conditions
+
+**1.** This Section shall apply to aid involved in financial products supported by the InvestEU Fund that provide aid to implementing partners, financial intermediaries or final beneficiaries.
+
+**2.** The aid shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in Chapter I, this Article, and either Article 56e or Article 56f are fulfilled.
+
+**3.** The aid shall comply with all applicable conditions laid down in Regulation (EU) 2021/523 and the InvestEU Investment Guidelines laid down in the Annex to Commission Delegated Regulation (EU) 2021/1078 (67).
+
+**4.** The maximum thresholds laid down in Articles 56e and 56f shall apply to the total outstanding financing, in so far as that financing provided under any financial product supported by the InvestEU Fund contains aid. The maximum thresholds shall apply:(a) per project in the case of aid with identifiable eligible costs covered by Article 56e(2), (3) and (4), Article 56e(5), point (a)(i), and Article 56e(6), (7), (8) and (9);(b) per final beneficiary in the case of aid without identifiable eligible costs covered by Article 56e(5), points (a)(ii), (iii) and (iv), Article 56e(10) and Article 56f.
+
+**5.** Aid shall not be granted in the form of refinancing of or guarantees on existing portfolios of financial intermediaries.
+
+<a id="art_56e"></a>
+
+### Article 56e — Conditions for aid involved in financial products supported by the InvestEU Fund
+
+**1.** Aid to the final beneficiary under a financial product supported by the InvestEU Fund shall:(a) comply with the conditions set out in one of paragraphs 2 to 9; and(b) where the financing is provided in the form of loans to the final beneficiary, have an interest rate that corresponds at least to the base rate of the reference rate applicable at the time of the granting of the loan.
+
+**2.** Aid for projects of common interest in the area of trans-European digital connectivity infrastructure financed under Regulation (EU) 2021/1153 or awarded a Seal of Excellence quality label under that Regulation shall only be granted to projects fulfilling all general and specific compatibility conditions laid down in Article 52b. The nominal amount of total financing provided to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 150 million.
+
+**3.** Aid for fixed broadband network deployment and aid for 4G and 5G mobile network deployment to connect certain eligible socioeconomic drivers shall comply with the following conditions:(a) aid shall only be granted to projects fulfilling all compatibility conditions laid down respectively in Articles 52 and 52a unless indicated otherwise in points (c) and (d) of this paragraph;(b) the nominal amount of total financing provided to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 150 million;(c) the project connects socioeconomic drivers that are public administrations or public or private entities entrusted with the operation of services of general interest or of services of general economic interest within the meaning of Article 106(2) of the Treaty. Projects including elements or entities other than those specified under this point are excluded;(d) by way of derogation from Article 52(4), the identified market failure must be verified either by available appropriate mapping or, when such mapping is not available, by a public consultation, as follows:(i) the mapping can be considered appropriate if it is not older than 18 months. The mapping shall clearly identify the socio economic drivers envisaged to be covered under the public intervention and shall include all networks providing, under peak time conditions, speeds of at least 100 Mbps download but below 300 Mbps download (threshold speeds) existing or credibly planned to be deployed in the relevant time horizon that pass the premises of the identified eligible socioeconomic driver as refered to in point (c). The mapping shall be carried out by the competent public authority. The mapping shall be performed (1) for purely fixed networks at address level on the basis of premises passed; (2) for fixed wireless access networks at address level on the basis of premises passed or on the basis of maximum 100x100 metre grids; (3) for mobile networks on the basis of maximum 100x100 metre grids. All the elements of the methodology and the underlying technical criteria used to map the target areas must be made publicly available. To foster synergies and simplification for the public administration, a geographical survey conducted pursuant to Article 22 of Directive (EU) 2018/1972 may be considered to constitute an appropriate mapping in the meaning of this point, provided that the conditions laid down in this point are met;(ii) the public consultation shall be carried out by the competent public authority through the publication on a publicly accessible website at regional and national level of the main characteristics of the planned State intervention. The public consultation shall invite interested parties to comment on the planned State intervention and to submit substantiated information regarding networks providing, under peak time conditions, speeds of at least 100 Mbps download but below 300 Mbps download (threshold speeds) existing or credibly planned to be deployed in the relevant time horizon and that pass the premises of an eligible socioeconomic driver as refered to in point (c) and identified in accordance with point (i), based on information: (1) for purely fixed networks, at address level on the basis of premises passed; (2) for fixed wireless access networks, at address level on the basis of premises passed or on the basis of maximum 100x100 metre grids; (3) for mobile networks on the basis of maximum 100x100 metre grids. The public consultation shall last at least 30 days.
+
+**4.** Aid for energy generation and energy infrastructure shall comply with the following conditions:▼M6(a) Aid shall be granted only for investments in energy infrastructure which are not exempted from third party access, tariff regulation and unbundling, based on the internal energy market legislation, for the following categories of projects:(i) as regards gas infrastructure, projects included in the prevailing Union list of Projects of Common Interest in Annex VII to Regulation (EU) No 347/2013; and(ii) all projects with regards to electricity infrastructure, hydrogen infrastructure and carbon dioxide infrastructure.(b) investment aid for generation of energy from renewable energy sources shall comply with the following requirements:(i) aid shall only be granted for new installations selected on a competitive, transparent, objective and non-discriminatory basis in accordance with Article 41(10);(ii) aid may be granted to combined renewable and electricity or thermal storage projects, provided that the requirements set out in Article 41(1a) are fulfilled;(iii) aid may be granted to combined biofuels, bioliquids, biogas (including biomethane) and biomass fuels storage projects, provided that the requirements set out in Article 41(2) are fulfilled;(iv) in case of installations producing renewable hydrogen, aid shall only be granted for installation compliant with the requirements set out in Article 41(3);(v) in case of installations producing biofuels, aid shall only be granted for installations producing biofuels compliant with the sustainability and greenhouse gases emissions saving criteria referred to in Article 29 of Directive (EU) 2018/2001 and its implementing or delegated acts and are made from the feedstock listed in Annex IX to that Directive.▼M4(c) The nominal amount of total financing provided to any final beneficiary per project referred to in point (a) under the support of the InvestEU Fund shall not exceed EUR 150 million. The nominal amount of total financing provided to any final beneficiary per project referred to in point (b) under the support of the InvestEU Fund shall not exceed EUR 75 million.
+
+**5.** Aid for social, educational, cultural and natural heritage infrastructure and activities shall comply with the following conditions:▼M6(a) the nominal amount of total financing provided to any final beneficiary under the support of the InvestEU Fund shall not exceed:(i) EUR 110 million per project for investments in infrastructure used for the provision of social services and for education; EUR 165 million per project for cultural and heritage conservation purposes and activities set out in Article 53(2), including natural heritage;(ii) EUR 33 million for activities related to social services;(iii) EUR 82.5 million for activities related to culture and heritage conservation; and(iv) EUR 5.5 million for education and training.▼M4(b) aid shall not be granted for training aimed at complying with mandatory national training requirements.
+
+**6.** Aid for transport and transport infrastructures shall comply with the following conditions:(a) aid for infrastructure, except ports, shall be provided only to the following projects:(i) projects of common interest as defined in Article 3, point (a), of Regulation (EU) No 1315/2013, except for projects concerning port or airport infrastructure;(ii) connections to Trans-European transport network urban nodes;(iii) rolling stock only for the provision of rail transport services not covered by a public service contract within the meaning of Regulation (EC) No 1370/2007 of the European Parliament and of the Council (68), provided the beneficiary is a new entrant;(iv) urban transport;▼M6(v) recharging or refuelling infrastructure that supplies vehicles with electricity or hydrogen. For aided refuelling infrastructure supplying hydrogen, the beneficiary shall give a commitment that by 31 December 2035 at the latest, the refuelling infrastructure will solely supply renewable hydrogen. This paragraph does not apply to aid for investments relating to recharging and refuelling infrastructure in ports.▼M4(b) aid for port infrastructure projects shall comply with the following requirements:(i) aid may only be provided for investments in access infrastructure and port infrastructure that are made available to interested users on an equal and non-discriminatory basis on market terms;(ii) any concession or other entrustment to a third party to construct, upgrade, operate or rent aided port infrastructure shall be assigned on a competitive, transparent, non-discriminatory and unconditional basis;(iii) aid shall not be granted for investments in port superstructures.▼M6(iv) When aid is granted for refuelling infrastructure supplying hydrogen, the beneficiary shall give a commitment that by 31 December 2035 at the latest, the refuelling infrastructure will solely supply renewable hydrogen. When aid is granted for the construction, installation or upgrade of a refuelling infrastructure supplying ammonia or methanol, the beneficiary shall give a commitment that by 31 December 2035 at the latest the aided refuelling infrastructure will supply solely ammonia or methanol the energy content of which is derived from renewable sources other than biomass and that have been produced in accordance with the methodologies set out for renewable liquid and gaseous transport fuels of non-biological origin in Directive (EU) 2018/2001 and its implementing or delegated acts.▼M6(c) the nominal amount of total financing provided under point (a) or (b) to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 165 million.▼M4
+
+**7.** Aid for other infrastructures shall comply with the following conditions:(a) aid shall be provided only to the following projects:(i) investment in water supply and waste water infrastructure for the general public;▼M6(ii) investment for resource efficiency and circularity in accordance with Article 47(1) to (6) and (10);▼M4(iii) investment in research infrastructure;(iv) investment in the construction or upgrade of innovation cluster facilities;▼M6(v) investment in testing and experimentation infrastructures;▼M6(b) the nominal amount of total financing provided to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 110 million.▼M4
+
+**8.** Aid for environmental protection, including climate protection, shall comply with the following conditions:(a) aid shall be provided only to the following projects:▼M6(i) investments enabling undertakings to remedy or prevent damage to physical surroundings (including climate change) or natural resources by a beneficiary’s own activities or by activities of another entity participating in the same project, provided that (i) the investments do not concern equipment, machinery or industrial production facilities using fossil fuels, including natural gas, without prejudice to the possibility to grant aid for the installation of add-on components improving the level of environmental protection of existing equipment, machinery and industrial production facilities, in which case the investment costs shall not relate to CO2-emitting installations; and (ii) in case of investments in equipment, machinery and industrial production facilities using hydrogen, the beneficiary commits to exclusively use renewable hydrogen throughout the lifetime of the investment. Aid shall not be granted under this point for investments undertaken to comply with Union standards that have been adopted, except if the investment is implemented and finalised at least 18 months before the standard enters into force;(ii) measures improving the energy efficiency of a building or an undertaking, provided that the investments do not concern equipment, machinery or industrial production using fossil fuels, including natural gas. Aid shall not be granted under this point for investments undertaken to comply with Union standards that have been adopted, except if the investment is implemented and finalised at least 18 months before the standard enters into force. By way of derogation, aid may be granted under this point for investments in buildings undertaken to comply with minimum energy performance standards qualifying as Union standards, provided that the aid is granted before the standards become mandatory for the undertaking concerned;▼M4(iii) remediation of contaminated sites, insofar as no legal or physical person liable for the environmental damage under the applicable law is identified in line with the ‘polluter pays’ principle as referred to in Article 45(3);(iv) environmental studies;(v) enhancement and restoration of biodiversity and ecosystems where that activity contributes to protecting, conserving or restoring biodiversity and to achieving the good condition of ecosystems, or to protecting ecosystems that are already in good condition;▼M6(vi) investment aid for the acquisition of clean vehicles powered at least partially by electricity or by hydrogen, or zero-emission vehicles for road, railway, inland waterway and maritime transport and for the retrofitting of vehicles to qualify as clean vehicles or as zero-emission vehicles;▼M6(b) without prejudice to point (a), the aid granted for the improvement of the energy efficiency of the building may be combined with aid for any or all of the following measures:(i) the installation of integrated on-site equipment generating electricity, heating or cooling from renewable energy sources, including but not limited to photovoltaic panels and heat pumps;(ii) the installation of equipment for the storage of the energy generated by the on-site renewable energy installations;(iii) the connection to an energy efficient district heating and/or cooling system and related equipment;(iv) the construction and installation of recharging infrastructure for use by the building users, and related infrastructure, such as ducting, where car parking facilities are located either inside the building or are physically adjacent to the building;(v) the installation of equipment for the digitalisation of the building, in particular to increase its smart-readiness, including passive in-house wiring or structured cabling for data networks and the ancillary part of the broadband infrastructure on the property to which the building belongs, but excluding wiring or cabling for data networks outside the property;(vi) investments in green roofs and equipment for the retention and use of rain water.The aid measure shall not support the installation of energy equipment using fossil fuels, including natural gas.The aid may be granted either to the building owner(s) or tenant(s), depending on who obtains the financing for the project.▼M4(c) the nominal amount of total financing provided to any final beneficiary per project referred to in point (a) under the support of the InvestEU Fund shall not exceed EUR 50 million;(d) the nominal amount of total financing provided per project referred to in point (b) under the support of the InvestEU Fund shall not exceed EUR 50 million per final beneficiary and building;▼M6(e) aid for energy efficiency improvement measures may also relate to the facilitation of energy performance contracting, subject to the following cumulative conditions:(i) the support is provided to SMEs or small mid-caps that are providers of energy performance improvement measures, and which are the final beneficiaries of the aid;(ii) the aid is provided for the facilitation of energy performance contracting within the meaning of Article 2, point (27), of Directive 2012/27/EU;(iii) the aid takes the form of a senior loan or guarantee to the provider of the energy efficiency improvement measures under an energy performance contract, or consists in a financial product aimed at financing the provider (for example, factoring or forfaiting);(iv) the nominal amount of total outstanding financing provided under this point per beneficiary does not exceed EUR 30 million.▼M4
+
+**9.** Aid for research, development, innovation and digitalisation shall comply with the following conditions:(a) aid may be granted for:(i) fundamental research;(ii) industrial research;(iii) experimental development;(iv) process innovation or organisational innovation for SMEs;(v) innovation advisory services and innovation support services for SMEs;(vi) digitalisation for SMEs;(b) for projects falling under points (a) (i), (ii) and (iii), the nominal amount of total financing provided to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 75 million. For projects falling under point (a) (iv), (v) and (vi), the nominal amount of total financing provided to any final beneficiary per project under the support of the InvestEU Fund shall not exceed EUR 30 million.
+
+**10.** SMEs or, where applicable, small mid-caps may, in addition to the categories of aid provided for in paragraphs 2 to 9, also receive aid in the form of financing supported by the InvestEU Fund provided that the respective conditions are fulfilled:(a) the nominal amount of total financing provided per final beneficiary under the support of the InvestEU Fund does not exceed EUR 16.5 million and is provided to:(i) unlisted SMEs that have not yet been operating in any market or have been operating for less than 10 years following their registration or less than 7 years after their first commercial sale; where either the period of operating for less than 10 years following their registration or less than 7 years after their first commercial sale has been applied to a given undertaking, only that period can be applied also to any subsequent aid under the present Article to the same undertaking. For undertakings that have acquired another undertaking or were formed through a merger, the eligibility period applied shall also encompass the operations of the acquired undertaking or the merged undertakings, respectively, except for such acquired or merged undertakings whose turnover accounts for less than 10 % of the turnover of the acquiring undertaking in the financial year preceding the acquisition or, in case of undertakings formed through a merger, less than 10 % of the combined turnover that the merging undertakings had in the financial year preceding the merger. Concerning the registration-related eligibility period, if used, for eligible undertakings that are not subject to registration, the ten-year eligibility period is considered to start from the earlier of either the moment when the undertaking starts its economic activity or the moment when it becomes liable to tax with regard to its economic activity. The financing under the support of the InvestEU Fund may also cover follow-on investments in unlisted SMEs after the eligibility period referred to in this point if the following cumulative conditions are fulfilled: (1) the nominal amount of total financing referred to in point (a) is not exceeded, (2) the possibility of follow-on investments was provided for in the original business plan and (3) the final beneficiary receiving the follow-on investment has not become a ‘linked enterprise’, within the meaning of Article 3(3) of Annex I, with another undertaking other than the financial intermediary or an independent private investor providing financing under the support of the InvestEU Fund, unless the new entity is an SME;(ii) unlisted SMEs starting a new economic activity, where the initial investment shall be higher than 50 % of the average annual turnover in the preceding 5 years. By derogation from the first sentence, the following shall be considered investments for new economic activities, if the related initial investment, based on a business plan, is higher than 30 % of the average annual turnover in the preceding 5 years: (1) investments significantly improving the environmental performance of the activity beyond mandatory Union standards in accordance with Article 36(2) of this Regulation, (2) other environmentally sustainable investments as defined in Article 2(1) of Regulation (EU) 2020/852, and (3) investments aiming at increasing capacity for the extraction, separation, refining, processing or recycling of a critical raw material listed in Annex IV. The environmentally sustainable character of the investment shall be demonstrated in accordance with Article 3 of Regulation (EU) 2020/852, including the ‘do no significant harm’ principle, or through other comparable methodologies, including, among others, the sustainability proofing for the InvestEU Fund. For measures which are identical to measures within Recovery and Resilience Plans as approved by the Council, their compliance with the ‘do no significant harm’ principle is considered fulfilled as this has already been verified;(iii) SMEs and small mid-caps that are innovative enterprises as defined in Article 2, point (80);(b) the nominal amount of total financing provided per final beneficiary under the support of the InvestEU Fund does not exceed EUR 16.5 million and is provided to SMEs or small mid-caps whose principal activities are located in assisted areas provided that the financing is not used for relocation of activities as defined in Article 2, point (61a);(c) the nominal amount of total financing provided per final beneficiary under the support of the InvestEU Fund does not exceed EUR 2.2 million and is provided to SMEs or small mid-caps.
+
+<a id="art_56f"></a>
+
+### Article 56f — Conditions for aid involved in intermediated commercially-driven financial products supported by the InvestEU Fund
+
+**1.** Financing to the final beneficiaries shall be provided by commercial financial intermediaries which shall be selected in an open, transparent and non-discriminatory way based on objective criteria.
+
+**2.** The commercial financial intermediary that provides financing to the final beneficiary shall retain a minimum risk exposure of 20 % of each financing transaction.
+
+**3.** The nominal amount of total financing provided to each final beneficiary through all commercial financial intermediaries shall not exceed EUR 8.25 million.
+
+## *CHAPTER IV*
+
+### ***FINAL PROVISIONS***
+
+<a id="art_57"></a>
+
+### Article 57 — Repeal
+
+Regulation (EC) No 800/2008 shall be repealed.
+
+<a id="art_58"></a>
+
+### Article 58 — Transitional provisions
+
+**1.** This Regulation shall apply to individual aid granted before the respective provisions of this Regulation have entered into force where the aid fulfils all the conditions laid down in this Regulation, with the exception of Article 9.
+
+**2.** Any aid not exempted from the notification requirement of Article 108(3) of the Treaty by virtue of this Regulation or other regulations adopted pursuant to Article 1 of Regulation (EC) No 994/98 previously in force shall be assessed by the Commission in accordance with the relevant frameworks, guidelines, communications and notices.
+
+**3.** Any individual aid granted before 1 January 2015 by virtue of any regulation adopted pursuant to Article 1 of Regulation (EC) No 994/98 in force at the time of granting the aid shall be compatible with the internal market and exempted from the notification requirement of Article 108(3) of the Treaty with the exclusion of regional aid. Risk capital aid schemes in favour of SMEs set up before 1 July 2014 and exempted from the notification requirement of Article 108(3) of the Treaty under Regulation (EC) No 800/2008, shall remain exempted and compatible with the internal market until the termination of the funding agreement, provided the commitment of the public funding into the supported private equity investment fund, on the basis of such agreement, was made before 1 January 2015 and the other conditions for exemption remain fulfilled.
+
+**3a.** Any individual aid granted between 1 July 2014 and [date of entry into force of this amendment] in accordance with the provisions of this Regulation as applicable at the time of granting the aid shall be compatible with the internal market and exempted from the notification requirement of Article 108(3) of the Treaty. Any individual aid granted before 1 July 2014 in accordance with the provisions of this Regulation, with the exception of Article 9, as applicable either before or after 10 July 2017, before or after 3 August 2021, or before or after [date of entry into force of this amendment] shall be compatible with the internal market and exempted from the notification requirement of Article 108(3) of the Treaty.
+
+**4.** At the end of the period of validity of this Regulation, any aid schemes exempted under this Regulation shall remain exempted during an adjustment period of 6 months. The exemption of risk finance aid exempted pursuant to Article 21(9), point (a), shall expire at the end of the period set out in the funding agreement, provided the commitment of public funding to the supported private equity investment fund was made on the basis of such agreement within 6 months from the end of the period of validity of this Regulation and all other conditions for exemption remain fulfilled.
+
+**5.** If this Regulation is amended, any aid scheme exempted under this Regulation as applicable at the time of the entry into force of the scheme shall remain exempted during an adjustment period of six months.
+
+<a id="art_59"></a>
+
+### Article 59
+
+This Regulation shall enter into force on 1 July 2014.
+
+It shall apply until 31 December 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+
+
+<a id="sme_definition"></a>
+
+### SME DEFINITION
+
+
+
+<a id="art_1__2"></a>
+
+### Article 1 — Enterprise
+
+An enterprise is considered to be any entity engaged in an economic activity, irrespective of its legal form. This includes, in particular, self-employed persons and family businesses engaged in craft or other activities, and partnerships or associations regularly engaged in an economic activity.
+
+<a id="art_2__2"></a>
+
+### Article 2 — Staff headcount and financial thresholds determining enterprise categories
+
+**1.** The category of micro, small and medium-sized enterprises (‘SMEs’) is made up of enterprises which employ fewer than 250 persons and which have an annual turnover not exceeding EUR 50 million, and/or an annual balance sheet total not exceeding EUR 43 million.
+
+**2.** Within the SME category, a small enterprise is defined as an enterprise which employs fewer than 50 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 10 million.
+
+**3.** Within the SME category, a micro-enterprise is defined as an enterprise which employs fewer than 10 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 2 million.
+
+<a id="art_3__2"></a>
+
+### Article 3 — Types of enterprise taken into consideration in calculating staff numbers and financial amounts
+
+**1.** An ‘autonomous enterprise’ is any enterprise which is not classified as a partner enterprise within the meaning of paragraph 2 or as a linked enterprise within the meaning of paragraph 3.
+
+**2.** ‘Partner enterprises’ are all enterprises which are not classified as linked enterprises within the meaning of paragraph 3 and between which there is the following relationship: an enterprise (upstream enterprise) holds, either solely or jointly with one or more linked enterprises within the meaning of paragraph 3, 25 % or more of the capital or voting rights of another enterprise (downstream enterprise).
+
+However, an enterprise may be ranked as autonomous, and thus as not having any partner enterprises, even if this 25 % threshold is reached or exceeded by the following investors, provided that those investors are not linked, within the meaning of paragraph 3, either individually or jointly to the enterprise in question:
+
+(a) public investment corporations, venture capital companies, individuals or groups of individuals with a regular venture capital investment activity who invest equity capital in unquoted businesses (business angels), provided the total investment of those business angels in the same enterprise is less than EUR 1 250 000 ;
+
+(b) universities or non-profit research centres;
+
+(c) institutional investors, including regional development funds;
+
+(d) autonomous local authorities with an annual budget of less than EUR 10 million and less than 5 000 inhabitants.
+
+**3.** ‘Linked enterprises’ are enterprises which have any of the following relationships with each other:(a) an enterprise has a majority of the shareholders' or members' voting rights in another enterprise;(b) an enterprise has the right to appoint or remove a majority of the members of the administrative, management or supervisory body of another enterprise;(c) an enterprise has the right to exercise a dominant influence over another enterprise pursuant to a contract entered into with that enterprise or to a provision in its memorandum or articles of association;(d) an enterprise, which is a shareholder in or member of another enterprise, controls alone, pursuant to an agreement with other shareholders in or members of that enterprise, a majority of shareholders' or members' voting rights in that enterprise.
+
+There is a presumption that no dominant influence exists if the investors listed in the second subparagraph of paragraph 2 are not involving themselves directly or indirectly in the management of the enterprise in question, without prejudice to their rights as shareholders.
+
+Enterprises having any of the relationships described in the first subparagraph through one or more other enterprises, or any one of the investors mentioned in paragraph 2, are also considered to be linked.
+
+Enterprises which have one or other of such relationships through a natural person or group of natural persons acting jointly are also considered linked enterprises if they engage in their activity or in part of their activity in the same relevant market or in adjacent markets.
+
+An ‘adjacent market’ is considered to be the market for a product or service situated directly upstream or downstream of the relevant market.
+
+**4.** Except in the cases set out in paragraph 2, second subparagraph, an enterprise cannot be considered an SME if 25 % or more of the capital or voting rights are directly or indirectly controlled, jointly or individually, by one or more public bodies.
+
+**5.** Enterprises may make a declaration of status as an autonomous enterprise, partner enterprise or linked enterprise, including the data regarding the thresholds set out in Article 2. The declaration may be made even if the capital is spread in such a way that it is not possible to determine exactly by whom it is held, in which case the enterprise may declare in good faith that it can legitimately presume that it is not owned as to 25 % or more by one enterprise or jointly by enterprises linked to one another. Such declarations are made without prejudice to the checks and investigations provided for by national or Union rules.
+
+<a id="art_4__2"></a>
+
+### Article 4 — Data used for the staff headcount and the financial amounts and reference period
+
+**1.** The data to apply to the headcount of staff and the financial amounts are those relating to the latest approved accounting period and calculated on an annual basis. They are taken into account from the date of closure of the accounts. The amount selected for the turnover is calculated excluding value added tax (VAT) and other indirect taxes.
+
+**2.** Where, at the date of closure of the accounts, an enterprise finds that, on an annual basis, it has exceeded or fallen below the headcount or financial thresholds stated in Article 2, this will not result in the loss or acquisition of the status of medium-sized, small or micro-enterprise unless those thresholds are exceeded over two consecutive accounting periods.
+
+**3.** In the case of newly-established enterprises whose accounts have not yet been approved, the data to apply is to be derived from a bona fide estimate made in the course of the financial year.
+
+<a id="art_5__2"></a>
+
+### Article 5 — Staff headcount
+
+The headcount corresponds to the number of annual work units (AWU), i.e. the number of persons who worked full-time within the enterprise in question or on its behalf during the entire reference year under consideration. The work of persons who have not worked the full year, the work of those who have worked part-time, regardless of duration, and the work of seasonal workers are counted as fractions of AWU. The staff consists of:
+
+(a) employees;
+
+(b) persons working for the enterprise being subordinated to it and deemed to be employees under national law;
+
+(c) owner-managers;
+
+(d) partners engaging in a regular activity in the enterprise and benefiting from financial advantages from the enterprise.
+
+Apprentices or students engaged in vocational training with an apprenticeship or vocational training contract are not included as staff. The duration of maternity or parental leaves is not counted.
+
+<a id="art_6__2"></a>
+
+### Article 6 — Establishing the data of an enterprise
+
+**1.** In the case of an autonomous enterprise, the data, including the number of staff, are determined exclusively on the basis of the accounts of that enterprise.
+
+**2.** The data, including the headcount, of an enterprise having partner enterprises or linked enterprises are determined on the basis of the accounts and other data of the enterprise or, where they exist, the consolidated accounts of the enterprise, or the consolidated accounts in which the enterprise is included through consolidation.
+
+To the data referred to in the first subparagraph are added the data of any partner enterprise of the enterprise in question situated immediately upstream or downstream from it. Aggregation is proportional to the percentage interest in the capital or voting rights (whichever is greater). In the case of cross-holdings, the greater percentage applies.
+
+To the data referred to in the first and second subparagraph are added 100 % of the data of any enterprise, which is linked directly or indirectly to the enterprise in question, where the data were not already included through consolidation in the accounts.
+
+**3.** For the application of paragraph 2, the data of the partner enterprises of the enterprise in question are derived from their accounts and their other data, consolidated if they exist. To these are added 100 % of the data of enterprises which are linked to these partner enterprises, unless their accounts data are already included through consolidation.
+
+For the application of the same paragraph 2, the data of the enterprises which are linked to the enterprise in question are to be derived from their accounts and their other data, consolidated if they exist. To these are added, pro rata, the data of any possible partner enterprise of that linked enterprise, situated immediately upstream or downstream from it, unless it has already been included in the consolidated accounts with a percentage at least proportional to the percentage identified under the second subparagraph of paragraph 2.
+
+**4.** Where in the consolidated accounts no staff data appear for a given enterprise, staff figures are calculated by aggregating proportionally the data from its partner enterprises and by adding the data from the enterprises to which the enterprise in question is linked.
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+
+
+<a id="information_regarding_state_aid_exempt_under_the_conditions_of_this_regulation"></a>
+
+### INFORMATION REGARDING STATE AID EXEMPT UNDER THE CONDITIONS OF THIS REGULATION
+
+PART I
+
+**to be provided through the established Commission IT application as laid down in Article 11**
+
+PART II
+
+**to be provided through the established Commission electronic notification system as laid down in Article 11**
+
+Please indicate under which provision of the GBER the aid measure is implemented.
+
+| Primary Objective - General Objectives (list) | Objectives(list) | Maximum aid intensityin %or Maximum annual aid amount in national currency (in full amounts) | SME – bonuses (if applicable)in % |  |
+| --- | --- | --- | --- | --- |
+| Regional aid - investment aid (1) (Art. 14) | □ Scheme | … % | … % |  |
+| □ *Ad hoc* aid | … % | … % |  |  |
+| Regional aid - operating aid (Art. 15) | □ In sparsely populated areas (Art. 15(2)) | … % | … % |  |
+| □ In very sparsely populated areas (Art. 15(3)) | … % | … % |  |  |
+| □ In outermost regions (Art. 15(4)) | … % | … % |  |  |
+| □ Regional urban development aid (Art. 16) | …. national currency | … % |  |  |
+| Aid to SMEs (Arts. 17 – 19d) | □ Investment aid to SMEs (Art. 17) | … % | … % |  |
+| □ Aid for consultancy in favour of SMEs (Art. 18) | … % | … % |  |  |
+| □ Aid to SMEs for participation in fairs (Art. 19) | … % | … % |  |  |
+| □ Aid for costs incurred by SMEs participating in community-led local development (‘CLLD’) projects (Art. 19a) | … % | … % |  |  |
+| □ Limited amounts of aid to SMEs benefitting from community-led local development (‘CLLD’) projects (Art. 19b) (2) | … national currency | … % |  |  |
+| □ Aid to microenterprises in the form of public interventions concerning the supply of electricity, gas or heat (Art. 19c) | … % | … % |  |  |
+| □ Aid to SMEs in the form of temporary public interventions concerning the supply of electricity, gas or heat produced from natural gas or electricity to mitigate the impact of price increases following Russia’s war of aggression against Ukraine (Art. 19d) | … % | … % |  |  |
+| Aid for European Territorial Cooperation (Arts. 20 – 20a) | □ Aid for costs incurred by undertakings participating in European Territorial Cooperation projects (Art. 20) | … % | … % |  |
+| □ Limited amounts of aid to undertakings for participation in European Territorial Cooperation projects (Art. 20a) (3) | … national currency | … % |  |  |
+| Aid for access to finance for SMEs (Arts. 21-22) | □ Risk finance aid (Art. 21) | … national currency | N/A |  |
+| □ Risk finance aid to SMEs in the form of tax incentives for private investors who are natural persons (Art. 21a) | … national currency | N/A |  |  |
+| □ Aid for start-ups (Art. 22) | … national currency | N/A |  |  |
+| □ SME aid - Aid to alternative trading platforms specialised in SMEs (Art. 23) | … national currency | N/A |  |  |
+| □ SME aid - Aid for scouting costs (Art. 24) | … % | N/A |  |  |
+| Aid for research, development and innovation (Arts. 25 - 30) | Aid for research and develop-ment projects (Art. 25) | □ Fundamental research(Art. 25(2)(a)) | … % | … % |
+| □ Industrial research(Art. 25(2) b)) | … % | … % |  |  |
+| □ Experimental development (Art. 25(2)(c)) | … % | … % |  |  |
+| □ Feasibility studies (Art. 25(2)(d)) | … % | … % |  |  |
+| □ Aid for projects awarded a Seal of Excellence quality label (Art. 25a) | … national currency | … % |  |  |
+| □ Aid for Marie Skłodowska-Curie actions and European Research Council Proof of Concept actions (Art. 25b) | … national currency | … % |  |  |
+| □ Aid involved in co-funded research and development projects (Art. 25c) | … % | … % |  |  |
+| □ Aid for Teaming actions (Art. 25d) | … % | … % |  |  |
+| □ Aid involved in in the co-funding of projects supported by the European Defence Fund or the European Defence Industrial Development Programme (Art. 25e) | … % | … % |  |  |
+| □ Investment aid for research infrastructures (Art. 26) | … % | … % |  |  |
+| □ Investment aid for testing and experimentation infrastructures (Art. 26a) | … % | … % |  |  |
+| □ Aid for innovation clusters (Art. 27) | … % | … % |  |  |
+| □ Innovation aid for SMEs (Art. 28) | … % | … % |  |  |
+| □ Aid for process and organisational innovation (Article 29) | … % | … % |  |  |
+| □ Aid for research and development in the fishery and aquaculture sector (Art. 30) | … % | … % |  |  |
+| □ Training aid (Art. 31) | … % | … % |  |  |
+| Aid for disadvantaged workers and workers with disabilities (Arts. 32-35) | □ Aid for the recruitment of disadvantaged workers in the form of wage subsidies (Art. 32) | … % | … % |  |
+| □ Aid for the employment of workers with disabilities in the form of wage subsidies (Art. 33) | … % | … % |  |  |
+| □ Aid for compensating the additional costs of employing workers with disabilities (Art. 34) | … % | … % |  |  |
+| □ Aid for compensating the costs of assistance provided to disadvantaged workers (Art. 35) | … % | … % |  |  |
+| Aid for Environmental protection (Arts. 36-49) | □ Investment aid for environmental protection, including decarbonisation (Art. 36) | … % | … % |  |
+| □ Investment aid for recharging or refuelling infrastructure (Art. 36a) | … % | … % |  |  |
+| □ Investment aid for the acquisition of clean vehicles or zero-emission vehicles and for the retrofitting of vehicles (Art. 36b) | … % | … % |  |  |
+| □ Investment aid for energy efficiency measures other than in buildings (Art. 38) | … % | … % |  |  |
+| □ Investment aid for energy efficiency measures in buildings (Art. 38a) | … % | … % |  |  |
+| □ Aid for the facilitation of energy performance contracting (Art. 38b) | … national currency | N/A |  |  |
+| □ Investment aid for energy efficiency projects in buildings in the form of financial instruments (Art. 39) | … national currency | N/A |  |  |
+| □ Investment aid for the promotion of energy from renewable sources, of renewable hydrogen and of high-efficiency cogeneration (Art. 41) | … % | … % |  |  |
+| □ Operating aid for the promotion of electricity from renewable sources (Art. 42) | … % | … % |  |  |
+| □ Operating aid for the promotion of energy from renewable sources and of renewable hydrogen in small projects and renewable energy communities (Art. 43) | … % | … % |  |  |
+| □ Aid in the form of reductions in taxes under Directive 2003/96/EC (Art. 44) | … % | N/A |  |  |
+| □ Aid in the form of reductions in environmental taxes or parafiscal levies (Art. 44a) | … % | N/A |  |  |
+| □ Investment aid for the remediation of environmental damage, the rehabilitation of natural habitats and ecosystems, the protection or restoration of biodiversity and the implementation of nature-based solutions for climate change adaptation and mitigation (Art. 45) | … % | … % |  |  |
+| □ Investment aid for energy efficient district heating and/or cooling (Art. 46) | … % | … % |  |  |
+| □ Investment aid for resource efficiency and for supporting the transition towards a circular economy (Art. 47) | … % | … % |  |  |
+| □ Investment aid for energy infrastructure (Art. 48) | … % | … % |  |  |
+| □ Aid for studies and consultancy services on environmental protection and energy matters (Art. 49) | … % | … % |  |  |
+| □ Aid schemes to make good the damage caused by certain natural disasters (Art. 50) | Maximum aid intensity | … % | … % |  |
+| Type of natural disaster | □ earthquake□ avalanche□ landslide□ flood□ tornado□ hurricane□ volcanic eruption□ wild fire |  |  |  |
+| Date of occurrence of the natural disaster | dd/mm/yyyy **to** dd/mm/yyyy |  |  |  |
+| □ Social aid for transport for residents of remote regions (Art. 51) | … national currency | … % |  |  |
+| □ Aid for fixed broadband networks (Art. 52) | … national currency | … % |  |  |
+| □ Aid for 4G and 5G mobile networks (Art. 52a) | … national currency | … % |  |  |
+| □ Aid for projects of common interest in the area of trans-European digital connectivity infrastructure (Art. 52b) | … % | … % |  |  |
+| □ Connectivity vouchers (Art. 52c) | … national currency | … % |  |  |
+| □ Aid for backhaul networks (Art. 52d) | … % | … % |  |  |
+| □ Aid for culture and heritage conservation (Art. 53) | … % | … % |  |  |
+| □ Aid schemes for audio-visual works (Art. 54) | … % | … % |  |  |
+| □ Aid for sport and multifunctional recreational infrastructures (Art. 55) | … % | … % |  |  |
+| □ Investment aid for local infrastructures (Art. 56) | … % | … % |  |  |
+| □ Aid for regional airports (Art. 56a) | … % | … % |  |  |
+| □ Aid for maritime ports (Art. 56b) | … % | … % |  |  |
+| □ Aid for inland ports (Art. 56c) | … % | … % |  |  |
+| Aid involved in financial products supported by the InvestEU Fund (Arts. 56d-56f) | Art. 56e | □ Aid for projects of common interest in the area of trans-European digital connectivity infrastructure financed under Regulation (EU) 2021/1153 or awarded a Seal of Excellence quality label under that Regulation (Art. 56e(2)) | … national currency | … % |
+| □ Aid for fixed broadband network deployment and aid for 4G and 5G mobile network deployment to connect certain eligible socio-economic drivers (Art. 56e(3)) | … national currency | … % |  |  |
+| □ Aid for energy generation and energy infrastructure (Art. 56e(4)) | … national currency | … % |  |  |
+| □ Aid for social, educational, cultural and natural heritage infrastructure and activities (Art. 56e(5)) | … national currency | … % |  |  |
+| □ Aid for transport and transport infrastructures (Art. 56e(6)) | … national currency | … % |  |  |
+| □ Aid for other infrastructures (Art. 56e(7)) | … national currency | … % |  |  |
+| □ Aid for environmental protection, including climate protection (Art. 56e(8)) | … national currency | … % |  |  |
+| □ Aid for research, development, innovation and digitalisation (Art. 56e(9)) | … national currency | … % |  |  |
+| □ Aid in the form of financing supported by the InvestEU Fund provided to SMEs or small mid-caps (Art 56e(10)) | … national currency | … % |  |  |
+| □ Aid involved in intermediated commercially-driven financial products supported by the InvestEU Fund (Art. 56f) | … national currency | … % |  |  |
+| (1)In the case of *ad hoc* regional aid supplementing aid awarded under aid scheme(s), please indicate both the aid intensity granted under the scheme and the intensity of the *ad hoc* aid.(2)According to Article 11(1), reporting on aid granted under Article 19b is not mandatory. Reporting on such aid is, therefore, merely optional.(3)According to Article 11(1), reporting on aid granted under Article 20a is not mandatory. Reporting on such aid is, therefore, merely optional. |  |  |  |  |
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+
+
+<a id="provisions_for_the_publication_of_information_as_laid_down_in_article_9_1"></a>
+
+### Provisions for the publication of information as laid down in Article 9(1)
+
+Member States shall organise their comprehensive State aid websites, on which the information laid down in Article 9(1) is to be published, in such a way as to allow easy access to the information. Information shall be published in a spreadsheet data format, which allows data to be searched, extracted and easily published on the internet, for instance in CSV or XML format. Access to the website shall be allowed to any interested party without restrictions. No prior user registration shall be required to access the website.
+
+The following information on individual awards as laid down in Article 9(1)(c) shall be published:
+
+— Name of the beneficiary
+
+— Beneficiary's identifier
+
+— Type of enterprise (SME/large) at the time of granting
+
+— 69
+
+— 70
+
+— 71
+
+— 72
+
+— Date of granting
+
+— Objective of the aid
+
+— Granting authority
+
+— For schemes under Articles 16 and 21, name of the entrusted entity, and the names of the selected financial intermediaries
+
+— 73
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+
+
+<a id="critical_raw_materials_referred_to_in_article_21_3_point_c_and_article_56e_10_point_a_ii"></a>
+
+### Critical raw materials referred to in Article 21(3), point (c), and Article 56e (10), point (a)(ii)
+
+The following raw materials shall be considered as critical raw material as referred to in Article 21(3), point (c), and Article 56e, (10), point (a)(ii):
+
+(a) Antimony
+
+(b) Arsenic
+
+(c) Bauxite
+
+(d) Baryte
+
+(e) Beryllium
+
+(f) Bismuth
+
+(g) Boron
+
+(h) Cobalt
+
+(i) Coking Coal
+
+(j) Copper
+
+(k) Feldspar
+
+(l) Fluorspar
+
+(m) Gallium
+
+(n) Germanium
+
+(o) Hafnium
+
+(p) Helium
+
+(q) Heavy Rare Earth Elements
+
+(r) Light Rare Earth Elements
+
+(s) Lithium
+
+(t) Magnesium
+
+(u) Manganese
+
+(v) Natural Graphite
+
+(w) Nickel – battery grade
+
+(x) Niobium
+
+(y) Phosphate rock
+
+(z) Phosphorus
+
+(aa) Platinum Group Metals
+
+(bb) Scandium
+
+(cc) Silicon metal
+
+(dd) Strontium
+
+(ee) Tantalum
+
+(ff) Titanium metal
+
+(gg) Tungsten
+
+(hh) Vanadium
+
+(1) Regulation (EU) 2021/523 of the European Parliament and of the Council of 24 March 2021 establishing the InvestEU Programme and amending Regulation (EU) 2015/1017 (OJ L 107, 26.3.2021, p. 30).
+
+(2) Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products, amending Council Regulation (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).
+
+(3) Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, 31.10.2003, p. 51).
+
+(4) Commission Regulation (EU) No 717/2014 of 27 June 2014 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to *de minimis* aid in the fishery and aquaculture sector (OJ L 190, 28.6.2014, p. 45).
+
+(5) Council Decision 2010/787/EU of 10 December 2010 on State aid to facilitate the closure of uncompetitive coal mines (OJ L 336, 21.12.2010, p. 24).
+
+(6) OJ L 336, 21.12.2010, p. 24.
+
+(7) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+(8) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).
+
+(9) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).
+
+(10) Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (OJ L 347, 20.12.2013, p. 320).
+
+(11) Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy (OJ L 231, 30.6.2021, p. 159).
+
+(12) Commission Implementing Decision C(2017)7124 of 27 October 2017 on the adoption of the work programme for 2018-2020 within the framework of the Specific Programme Implementing Horizon 2020 – the Framework Programme for Research and Innovation (2014-2020) and on the financing of the work programme for 2018.
+
+(13) Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1).
+
+(14) The CASSINI initiative, first announced in the ‘SME Strategy for a sustainable and digital Europe’ (COM(2020) 103 final of 10.3.2020), is a collection of concrete actions whose aims include easing access to risk capital for SMEs active in the space sector to fund their expansion.
+
+(15) Regulation (EU) 2021/697 of the European Parliament and of the Council of 29 April 2021 establishing the European Defence Fund and repealing Regulation (EU) 2018/1092 (OJ L 170, 12.5.2021, p. 149);
+
+(16) Regulation (EU) 2018/1092 of the European Parliament and of the Council of 18 July 2018 establishing the European Defence Industrial Development Programme aiming at supporting the competitiveness and innovation capacity of the Union's defence industry (OJ L 200, 7.8.2018, p. 30).
+
+(17) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+(18) Directive 2009/43/EC of the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community (OJ L 146, 10.6.2009, p. 1).
+
+(19) OJ L 206, 8.8.2009, p. 1.
+
+(20) Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 (OJ L 166, 11.5.2021, p. 1).
+
+(21) See Commission Staff Working Document, ‘Technology Infrastructures’, SWD(2019) 158 final, 8.4.2019.
+
+(22) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+
+(23) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
+
+(24) Directive 2009/33/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of clean road transport vehicles in support of low-emission mobility (OJ L 120, 15.5.2009, p. 5).
+
+(25) Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).
+
+(26) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+(27) Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 175, 7.7.2017, p. 1).
+
+(28) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1).
+
+(29) OJ L 315, 14.11.2012, p. 1.
+
+(30) Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (OJ L 158, 14.6.2019, p. 54).
+
+(31) OJ L 283, 31.10.2003, p. 51.
+
+(32) Regulation (EU) No 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+
+(33) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3).
+
+(34) Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (OJ L 158, 14.6.2019, p. 125).
+
+(35) Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 5.6.2009, p. 114).
+
+(36) Regulation (EU) No 347/2013 of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure (OJ L 115, 25.4.2013, p. 39).
+
+(37) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94).
+
+(38) Regulation (EC) No 715/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the natural gas transmission networks and repealing Regulation (EC) No 1775/2005 (OJ L 211, 14.8.2009, p. 36).
+
+(39) Regulation (EU) 2021/1153 of the European Parliament and of the Council of 7 July 2021 establishing the Connecting Europe Facility and repealing Regulations (EU) No 1316/2013 and (EU) No 283/2014 (OJ L 249, 14.7.2021, p. 38).
+
+(40) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3).
+
+(41) Council Directive 96/67/EC of 15 October 1996 on access to the groundhandling market at Community airports (OJ L 272, 25.10.1996, p. 36).
+
+(42) Directive 2000/59/EC of the European Parliament and of the Council of 27 November 2000 on port reception facilities for ship-generated waste and cargo residues (OJ L 332, 28.12.2000, p. 81).
+
+(43) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1).
+
+(44) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).
+
+(45) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+
+(46) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1).
+
+(47) OJ C 155, 20.6.2008, p. 10.
+
+(48) Regulation (EU) 2021/241 of the European Parliament and of the Council of 12 February 2021 establishing the Recovery and Resilience Facility (OJ L 57, 18.2.2021, p. 17).
+
+(49) State Aid Transparency Public Search, available at: https://webgate.ec.europa.eu/competition/transparency/public?lang=en.
+
+(50) Regulation (EU) No 1299/2013 of the European Parliament and of the Council of 17 December 2013 on specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal (OJ L 347, 20.12.2013, p. 259).
+
+(51) Regulation (EU) 2021/1059 of the European Parliament and of the Council of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94).
+
+(52) For schemes under Articles 16, 21a and 22 of the present Regulation, the requirement to publish information on each individual award exceeding EUR 100 000 can be waived with respect to SMEs which have not carried out any commercial sale in any market.
+
+(53) Commission Regulation (EC) No 794/2004 of 21 April 2004 implementing Council Regulation (EU) 2015/1589 laying down detailed rules for the application of Article 108 of the Treaty on the Functioning of the European Union (OJ L 140, 30.4.2004, p. 1).
+
+(54) Commission Regulation (EU) 2020/972 of 2 July 2020 amending Regulation (EU) No 1407/2013 as regards its prolongation and amending Regulation (EU) No 651/2014 as regards its prolongation and relevant adjustments (OJ L 215, 7.7.2020, p. 3).
+
+(55) Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).
+
+(56) Commission Delegated Regulation (EU) No 481/2014 of 4 March 2014 supplementing Regulation (EU) No 1299/2013 of the European Parliament and of the Council with regard to specific rules on eligibility of expenditure for cooperation programmes (OJ L 138, 13.5.2014, p. 45).
+
+(57) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69).
+
+(58) Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013 (OJ L 435, 6.12.2021, p. 1).
+
+(59) Commission Regulation (EU) No 1407/2013 of 18 December 2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to *de minimis* aid (OJ L 352, 24.12.2013, p.1).
+
+(60) Commission Regulation (EU) No 1408/2013 of 18 December 2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to *de minimis* aid in the agriculture sector (OJ L 352, 24.12.2013 p. 9).
+
+(61) Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive (OJ L 87, 31.3.2017, p. 1).
+
+(62) Commission Delegated Regulation (EU) 2021/2139 of 4 June 2021 supplementing Regulation (EU) 2020/852 of the European Parliament and of the Council by establishing the technical screening criteria for determining the conditions under which an economic activity qualifies as contributing substantially to climate change mitigation or climate change adaptation and for determining whether that economic activity causes no significant harm to any of the other environmental objectives (OJ L 442, 9.12.2021, p. 1).
+
+(63) Directive 2004/35/CE of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56).
+
+(64) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+(65) Council Regulation (EU) 2018/1488 of 28 September 2018 establishing the European High Performance Computing Joint Undertaking (OJ L 252, 8.10.2018, p. 1).
+
+(66) Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1).
+
+(67) Commission Delegated Regulation (EU) 2021/1078 of 14 April 2021 supplementing Regulation (EU) 2021/523 of the European Parliament and of the Council by setting out the investment guidelines for the InvestEU Fund (OJ L 234, 2.7.2021, p. 18).
+
+(68) Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and repealing Council Regulations (EEC) No 1191/69 and (EEC) No 1107/70 (OJ L 315, 3.12.2007, p. 1).
+
+(69) NUTS — Nomenclature of Territorial Units for Statistics. Typically, the region is specified at level 2.
+
+(70) ►M1 Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).** ◄ **
+
+(71) ►M1 Gross grant equivalent, or for measures under Articles 16, 21, 22 or 39 of this Regulation, the amount of the investment.** ◄ ** For operating aid, the annual amount of aid per beneficiary can be provided. For fiscal schemes and for schemes under Articles 16 (Regional urban development aid) and 21 (Risk finance aid), this amount can be provided by the ranges set out in Article 9(2) of this Regulation.
+
+(72) If the aid is granted through multiple aid instruments, the aid amount shall be provided by instrument.
+
+(73) As provided by the Commission under the electronic procedure referred to in Article 11 of this Regulation.

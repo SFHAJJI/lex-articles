@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0176:2014-02-25--3651856b62460a5b7998306382ddb94ffc98232b1ddc40160af48f43ad0f8687",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0176/2014 of 25\u00A0February 2014 amending Regulation (EU) No\u00A0103…",
+  "valid_from": "2014-02-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0176/versions/2014-02-25--3651856b62460a5b7998306382ddb94ffc98232b1ddc40160af48f43ad0f8687/en.xml",
+    "sha256": "70e679afa359462bdfd4c0fb46c37f1d28a541e2df776e87c17f70c75b9a9c22",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0176"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0176:2014-02-25--3651856b62460a5b7998306382ddb94ffc98232b1ddc40160af48f43ad0f8687#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EU) No 1031/2010 is amended as follows:\n\n| (1) | after the second subparagraph of Article 10(2), the following subparagraphs are added:‘The volume of allowances to be auctioned in a given year determined pursuant to the first or second subparagraphs of this paragraph in 2014-16 shall be reduced by the quantity of allowances for the respective year set out in the second column of the table in Annex IV to this Regulation.Where in 2014 the volume of reduction set out in Annex IV cannot be spread over a period of more than 9 months it shall be decreased by 100 million allowances and thereafter by the same amount for each quarter of the year. In that case, the volumes of reduction for 2015 and 2016 shall be adjusted in equal instalments accordingly.The volume of allowances to be auctioned in a given year determined pursuant to the first or second subparagraphs of this paragraph in 2019-20 shall be increased by the quantity of allowances for the respective year set out in the third column of the table in Annex IV to this Regulation.In respect of Member States applying Article 10c of the Directive and without prejudice to the first sentence of Article 10c(2) of the Directive, the total quantity of allowances to be auctioned in a given year following the adjustment set out in the second column of the table in Annex IV to this Regulation shall not be lower than the quantity of allowances to be transitionally allocated free of charge to installations for electricity production in that same year.If necessary, the total quantity of allowances to be auctioned in a given year in the period 2014-16 by a Member State applying Article 10c of the Directive shall be increased accordingly. To the extent that the total quantity of allowances to be auctioned is increased in accordance with the previous sentence, it shall subsequently be reduced to ensure that the distribution pursuant to the first subparagraph of this paragraph is complied with. The volumes of allowances to be auctioned referred to in the second and third column of the table in Annex IV to this Regulation shall be adjusted to reflect any such increase and reduction.’; |\n| --- | --- |\n\n| (2) | the last sentence of Article 32(1) shall be replaced by the following: ‘However, the volume of allowances covered by Chapter III of Directive 2003/87/EC auctioned in an individual auction conducted by those auction platforms in 2014 to 2016 shall be no less than 2 million allowances.’; |\n| --- | --- |\n\n| (3) | an annex is added after Annex III as follows: ‘ANNEX IVAdjustments to the volumes of allowances (in million) to be auctioned in 2013-20 referred to in Article 10(2)YearVolume of reductionVolume of increase2013 2014400 2015300 2016200 2017 2018 2019 300 2020 600 ’ |  |\n| --- | --- | --- |\n| Year | Volume of reduction | Volume of increase |\n| 2013 |  |  |\n| 2014 | 400 |  |\n| 2015 | 300 |  |\n| 2016 | 200 |  |\n| 2017 |  |  |\n| 2018 |  |  |\n| 2019 |  | 300 |\n| 2020 |  | 600 ’ |",
+      "text_sha256": "93b2a0be48cb2e436793d7a04e4c905247c698f4666f09f6aa5e6c97c991c2db",
+      "md_span": {
+        "start": 702,
+        "end": 3690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0176:2014-02-25--3651856b62460a5b7998306382ddb94ffc98232b1ddc40160af48f43ad0f8687#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 3723,
+        "end": 3864
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

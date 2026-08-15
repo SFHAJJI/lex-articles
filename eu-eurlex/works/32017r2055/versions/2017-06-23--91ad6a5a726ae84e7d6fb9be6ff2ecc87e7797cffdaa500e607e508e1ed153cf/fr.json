@@ -1,0 +1,320 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/2055 of 23 June 2017 supplementing Directive (EU) 2015/2366",
+  "valid_from": "2017-06-23",
+  "valid_to": "2025-02-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2055/versions/2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf/fr.xml",
+    "sha256": "50ade8a05a3b14decf0ff873ce6482a31ae8bfeab057ef3259ec3fee6fd25c19",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2055"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement établit des règles sur la coopération et l'échange d'informations entre les autorités compétentes de l'État membre d'origine et de l'État membre d'accueil en ce qui concerne les notifications de l'exercice du droit d'établissement ou de la libre prestation de services par des établissements de paiement, conformément à l'article 28 de la directive (UE) 2015/2366.\n\n2. Le présent règlement s'applique mutatis mutandis aux notifications, entre les autorités compétentes de l'État membre d'origine et de l'État membre d'accueil, de l'exercice du droit d'établissement ou de la libre prestation de services par des établissements de monnaie électronique, y compris lorsque ceux-ci distribuent de la monnaie électronique par l'intermédiaire d'une personne physique ou morale conformément à l'article 3, paragraphes 1, 4 et 5, de la directive 2009/110/CE et à l'article 111 de la directive (UE) 2015/2366.\n\n3. Le périmètre des informations échangées entre les autorités compétentes de l'État membre d'origine et de l'État membre d'accueil et le traitement à réserver à ces informations n'ont aucune incidence sur la compétence de ces autorités au sens de la directive (UE) 2015/2366.",
+      "text_sha256": "d59aeefe91ca869f847ce376bd8667136311b3444cd108e043cbec4831724f51",
+      "md_span": {
+        "start": 718,
+        "end": 1937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| a) | «demande de passeport», une demande de passeport «succursale», une demande de passeport «services» ou une demande de passeport «agent»; |\n| --- | --- |\n\n| b) | «demande de passeport 'succursale'», une demande introduite conformément à l'article 28, paragraphe 1, de la directive (UE) 2015/2366 par un établissement de paiement agréé souhaitant établir une succursale dans un autre État membre; |\n| --- | --- |\n\n| c) | «demande de passeport 'services'», une demande introduite conformément à l'article 28, paragraphe 1, de la directive (UE) 2015/2366 par un établissement de paiement agréé souhaitant fournir des services dans un autre État membre; |\n| --- | --- |\n\n| d) | «demande de passeport 'agent'», une demande introduite conformément à l'article 28, paragraphe 1, de la directive (UE) 2015/2366 par un établissement de paiement agréé souhaitant fournir des services de paiement dans un autre État membre en ayant recours à un agent, comme visé à l'article 19, paragraphe 5, de ladite directive. |\n| --- | --- |",
+      "text_sha256": "f7029cda5ba0a61dd67e00adf99179fd6c1ede11a05a4c53c9a7d9b92c4bbeee",
+      "md_span": {
+        "start": 1970,
+        "end": 3051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les notifications visées à l'article 1er, paragraphe 1, sont effectuées au moyen des modèles figurant aux annexes II, III, V et VI.\n\n2. Les notifications visées à l'article 1er, paragraphe 2, sont effectuées au moyen des modèles figurant aux annexes II, III, V et VI.\n\n3. Les notifications visées à l'article 1er, paragraphe 2, qui concernent les cas dans lesquels des établissements de monnaie électronique distribuent de la monnaie électronique par l'intermédiaire d'une personne physique ou morale sont effectuées au moyen des modèles figurant aux annexes IV et VI.\n\n4. Les modèles visés aux paragraphes 1, 2 et 3 et les informations qui y sont contenues satisfont aux exigences suivantes:\n\n| a) | ils sont soumis par écrit, dans une langue acceptée par les autorités compétentes tant de l'État membre d'origine que de l'État membre d'accueil; |\n| --- | --- |\n\n| b) | ils sont envoyés par voie électronique lorsque cela est accepté par les autorités compétentes de l'État membre d'accueil où l'établissement de paiement entend fournir des services de paiement, avec accusé électronique de réception par ces autorités compétentes, ou ils sont envoyés par courrier postal avec accusé de réception. |\n| --- | --- |\n\n5. Chaque autorité compétente met les informations suivantes à la disposition des autres autorités compétentes:\n\n| a) | les langues acceptées au titre du paragraphe 4, point a); |\n| --- | --- |\n\n| b) | l'adresse électronique à laquelle envoyer les modèles et informations lorsqu'ils sont transmis par voie électronique, ou l'adresse postale à laquelle les envoyer lorsqu'ils sont transmis par la poste. |\n| --- | --- |",
+      "text_sha256": "238aa1dd11b95766081eca96a4c2db58806c99591f70510ba0be0de56575c09c",
+      "md_span": {
+        "start": 3084,
+        "end": 4732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. À la réception d'une demande de passeport émanant d'un établissement de paiement, les autorités compétentes de l'État membre d'origine évaluent si les informations fournies conformément à l'article 28, paragraphe 1, de la directive (UE) 2015/2366 sont complètes et exactes.\n\n2. Lorsque les informations fournies dans la demande sont jugées incomplètes ou inexactes par application du paragraphe 1, les autorités compétentes de l'État membre d'origine en informent sans délai l'établissement de paiement, en indiquant à quels égards les informations sont jugées incomplètes ou inexactes.\n\n3. Les délais visés à l'article 28, paragraphe 2, premier alinéa, et à l'article 28, paragraphe 3, premier alinéa, de la directive (UE) 2015/2366 sont réputés commencer à courir à la date de réception d'une demande de passeport complète et exacte.",
+      "text_sha256": "6a24bbdd95cfb5510d19c6676d0426dc8c7fc3014c4bc3d3a1360b146fe146ad",
+      "md_span": {
+        "start": 4765,
+        "end": 5614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLorsqu'une procédure de règlement des différends entre les autorités compétentes de différents États membres a été engagée en vertu de l'article 27 de la directive (UE) 2015/2366 en ce qui concerne une demande de passeport présentée par un établissement de paiement conformément à l'article 28 de ladite directive, les autorités compétentes de l'État membre d'origine informent l'établissement de paiement que la décision relative à sa demande de passeport est différée dans l'attente d'un règlement au titre de l'article 19 du règlement (UE) no 1093/2010.",
+      "text_sha256": "a9c183011b2b81681acadade0c3f3f5a37d937010a94c5308de9237175732551",
+      "md_span": {
+        "start": 5647,
+        "end": 6214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Aux fins de l'article 28, paragraphe 2, premier alinéa, de la directive (UE) 2015/2366, lorsqu'un établissement de paiement présente une demande de passeport «succursale», les autorités compétentes de l'État membre d'origine communiquent les informations suivantes aux autorités compétentes de l'État membre d'accueil:\n\n| a) | la date de réception d'une demande de passeport complète et exacte de la part de l'établissement de paiement, conformément à l'article 4; |\n| --- | --- |\n\n| b) | l'État membre dans lequel l'établissement de paiement entend exercer des activités; |\n| --- | --- |\n\n| c) | le type de demande de passeport; |\n| --- | --- |\n\n| d) | le nom, l'adresse et, s'il y a lieu, le numéro d'agrément et le numéro d'identification unique de l'établissement de paiement dans l'État membre d'origine, aux formats prévus à l'annexe I; |\n| --- | --- |\n\n| e) | lorsqu'il existe, l'identifiant d'entité juridique de l'établissement de paiement; |\n| --- | --- |\n\n| f) | l'identité et les coordonnées d'une personne de contact dans l'établissement de paiement qui soumet la demande de passeport «succursale»; |\n| --- | --- |\n\n| g) | l'adresse de la succursale devant être établie dans l'État membre d'accueil; |\n| --- | --- |\n\n| h) | l'identité et les coordonnées des personnes qui seront chargées de la gestion de la succursale devant être établie dans l'État membre d'accueil; |\n| --- | --- |\n\n| i) | les services de paiement devant être fournis dans l'État membre d'accueil; |\n| --- | --- |\n\n| j) | la structure organisationnelle de la succursale devant être établie dans l'État membre d'accueil; |\n| --- | --- |\n\n| k) | un plan d'entreprise, contenant notamment un calcul budgétaire prévisionnel pour les trois premiers exercices, démontrant que la succursale est en mesure de mettre en œuvre les systèmes, ressources et procédures appropriés et proportionnés nécessaires à son bon fonctionnement dans l'État membre d'accueil; |\n| --- | --- |\n\n| l) | une description du dispositif de gouvernance et des mécanismes de contrôle interne de la succursale, y compris ses procédures administratives et en matière de gestion des risques, qui démontre que ce dispositif de gouvernance, ces mécanismes de contrôle interne et ces procédures sont proportionnés, adaptés, sains et adéquats pour l'exercice de l'activité de services de paiement dans l'État membre d'accueil et conformes aux exigences en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme énoncées dans la directive (UE) 2015/849 du Parlement européen et du Conseil (4). |\n| --- | --- |\n\n2. Lorsqu'un établissement de paiement a informé les autorités compétentes de son État membre d'origine de son intention d'externaliser des fonctions opérationnelles de services de paiement dans l'État membre d'accueil, les autorités compétentes de l'État membre d'origine en informent les autorités compétentes de l'État membre d'accueil.",
+      "text_sha256": "ee5b577d0938851711c8c4a66c614d0b35c4a1d91a393926c70143123ea24af7",
+      "md_span": {
+        "start": 6247,
+        "end": 9180
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017294FR.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les autorités compétentes de l'État membre d'origine transmettent les informations visées à l'article 6 aux autorités compétentes de l'État membre d'accueil en utilisant à cet effet le modèle figurant à l'annexe II et elles informent l'établissement de paiement qu'elles ont bien transmis les informations.\n\n2. Lorsqu'il y a plusieurs notifications à transmettre, les autorités compétentes peuvent communiquer ces informations de manière groupée en utilisant les champs prévus dans l'annexe II.",
+      "text_sha256": "3e4c9dec2bb20c9cfc9a18189a1cb9cd71963fd8710fa0a320d86d8115ed0af4",
+      "md_span": {
+        "start": 9213,
+        "end": 9721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Lorsque, conformément à l'article 28, paragraphe 4, de la directive (UE) 2015/2366, l'établissement de paiement informe les autorités compétentes de son État membre d'origine de toute modification pertinente par rapport à une demande antérieure, les autorités compétentes de l'État membre d'origine communiquent ces modifications pertinentes aux autorités compétentes de l'État membre d'accueil.\n\n2. Aux fins du paragraphe 1, les autorités compétentes de l'État membre d'origine communiquent les modifications pertinentes aux autorités compétentes de l'État membre d'accueil en ne complétant que les parties du modèle figurant à l'annexe II du présent règlement qui sont concernées par ces modifications.",
+      "text_sha256": "277f5fd5d10959b86e552e6c5eda75ab1f03c496208e8e1cbf368eb157f837f4",
+      "md_span": {
+        "start": 9754,
+        "end": 10472
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nAux fins de l'article 28, paragraphe 3, troisième alinéa, de la directive (UE) 2015/2366, les autorités compétentes de l'État membre d'origine communiquent la date à laquelle un établissement de paiement commencera ses activités dans un État membre d'accueil aux autorités compétentes dudit État membre d'accueil sans retard injustifié, en utilisant à cet effet le modèle figurant à l'annexe VI du présent règlement.",
+      "text_sha256": "896d99e77eebf92f2ef960764ee5002e09f7f63192277ce99ab1235f9222f440",
+      "md_span": {
+        "start": 10505,
+        "end": 10932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Aux fins de l'article 28, paragraphe 2, premier alinéa, de la directive (UE) 2015/2366, lorsqu'un établissement de paiement présente une demande de passeport «agent», les autorités compétentes de l'État membre d'origine communiquent les informations suivantes aux autorités compétentes de l'État membre d'accueil:\n\n| a) | la date de réception d'une demande de passeport complète et exacte de la part de l'établissement de paiement, conformément à l'article 4. |\n| --- | --- |\n\n| b) | l'État membre dans lequel l'établissement de paiement entend exercer des activités en ayant recours à un agent; |\n| --- | --- |\n\n| c) | le type de demande de passeport; |\n| --- | --- |\n\n| d) | la nature de la demande de passeport et, lorsque le recours à l'agent dans l'État membre d'accueil ne donne pas lieu à un établissement, une description des circonstances prises en considération par les autorités compétentes de l'État membre d'origine dans leur évaluation; |\n| --- | --- |\n\n| e) | le nom, l'adresse et, s'il y a lieu, le numéro d'agrément et le numéro d'identification unique de l'établissement de paiement dans l'État membre d'origine, aux formats prévus à l'annexe I; |\n| --- | --- |\n\n| f) | lorsqu'il existe, l'identifiant d'entité juridique de l'établissement de paiement; |\n| --- | --- |\n\n| g) | l'identité et les coordonnées d'une personne de contact dans l'établissement de paiement qui soumet la demande de passeport «agent»; |\n| --- | --- |\n\n| h) | l'identité et les coordonnées de l'agent engagé par l'établissement de paiement; |\n| --- | --- |\n\n| i) | s'il y a lieu, le numéro d'identification unique de l'agent dans l'État membre où il est situé, aux formats prévus à l'annexe I; |\n| --- | --- |\n\n| j) | s'il y a lieu, l'identité et les coordonnées des personnes responsables du point de contact central lorsqu'un tel point a été désigné en vertu de à l'article 29, paragraphe 4, de la directive (UE) 2015/2366; |\n| --- | --- |\n\n| k) | les services de paiement devant être fournis dans l'État membre d'accueil par l'intermédiaire de l'agent; |\n| --- | --- |\n\n| l) | une description des mécanismes de contrôle interne qui seront appliqués par l'agent pour se conformer aux exigences en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme énoncées dans la directive (UE) 2015/849; |\n| --- | --- |\n\n| m) | l'identité et les coordonnées des dirigeants et des personnes responsables de la gestion de l'agent auquel il est recouru pour la prestation de services de paiement et, pour les agents autres que des prestataires de services de paiement, la preuve de leur compétence et de leur honorabilité; |\n| --- | --- |\n\n2. Lorsqu'un établissement de paiement a informé les autorités compétentes de son État membre d'origine de son intention d'externaliser des fonctions opérationnelles de services de paiement dans l'État membre d'accueil, les autorités compétentes de l'État membre d'origine en informent les autorités compétentes de l'État membre d'accueil.",
+      "text_sha256": "d122ce284b5faab7b430119e2ef1380d996c2d072488845a98211b7c61967583",
+      "md_span": {
+        "start": 10967,
+        "end": 13970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les autorités compétentes de l'État membre d'origine transmettent les informations visées à l'article 10 aux autorités compétentes de l'État membre d'accueil en utilisant à cet effet le modèle figurant à l'annexe III et elles informent l'établissement de paiement qu'elles ont bien transmis les informations.\n\n2. Lorsqu'il y a plusieurs notifications à transmettre, les autorités compétentes peuvent communiquer ces informations de manière groupée en utilisant les champs prévus dans l'annexe III.",
+      "text_sha256": "ada1566ce9d6fc581b5628ea01acee31d7b67acd3cfd77c32b77b2e4e0955f80",
+      "md_span": {
+        "start": 14005,
+        "end": 14517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Lorsque, conformément à l'article 28, paragraphe 4, de la directive (UE) 2015/2366, l'établissement de paiement informe les autorités compétentes de son État membre d'origine de toute modification pertinente par rapport à une demande antérieure de passeport «agent», les autorités compétentes de l'État membre d'origine communiquent ces modifications pertinentes aux autorités compétentes de l'État membre d'accueil.\n\n2. Aux fins du paragraphe 1, les autorités compétentes de l'État membre d'origine communiquent les modifications pertinentes aux autorités compétentes de l'État membre d'accueil en ne complétant que les parties du modèle figurant à l'annexe III du présent règlement qui sont concernées par ces modifications.",
+      "text_sha256": "826a9c6ce91fd424d7ea50c85f3630f0095e569af3b96e6aba1308958bc4ecdf",
+      "md_span": {
+        "start": 14552,
+        "end": 15293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nAux fins de l'article 28, paragraphe 3, troisième alinéa, de la directive (UE) 2015/2366, les autorités compétentes de l'État membre d'origine communiquent la date à laquelle un établissement de paiement commencera ses activités par l'intermédiaire d'un agent dans un État membre d'accueil aux autorités compétentes dudit État membre d'accueil sans retard injustifié, en utilisant à cet effet le modèle figurant à l'annexe VI du présent règlement.",
+      "text_sha256": "46cf6eed87d3a71d1be99ad40dc8f3fd583e6280255e46d237c34bb164c7ad05",
+      "md_span": {
+        "start": 15328,
+        "end": 15787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Aux fins de l'article 28, paragraphe 2, premier alinéa, de la directive (UE) 2015/2366, lorsqu'un établissement de paiement présente une demande de passeport «services», les autorités compétentes de l'État membre d'origine communiquent les informations suivantes aux autorités compétentes de l'État membre d'accueil:\n\n| a) | la date de réception d'une demande de passeport complète et exacte de la part de l'établissement de paiement, conformément à l'article 4. |\n| --- | --- |\n\n| b) | l'État membre dans lequel l'établissement de paiement entend fournir des services; |\n| --- | --- |\n\n| c) | le type de demande de passeport; |\n| --- | --- |\n\n| d) | le nom, l'adresse et, s'il y a lieu, le numéro d'agrément et le numéro d'identification unique de l'établissement de paiement dans l'État membre d'origine, aux formats prévus à l'annexe I; |\n| --- | --- |\n\n| e) | lorsqu'il existe, l'identifiant d'entité juridique de l'établissement de paiement; |\n| --- | --- |\n\n| f) | l'identité et les coordonnées d'une personne de contact dans l'établissement de paiement qui soumet la demande de passeport «services»; |\n| --- | --- |\n\n| g) | la date prévue pour le début de la prestation de services dans l'État membre d'accueil; |\n| --- | --- |\n\n| h) | le ou les services de paiement devant être fournis dans l'État membre d'accueil. |\n| --- | --- |\n\n2. Lorsqu'un établissement de paiement a informé les autorités compétentes de son État membre d'origine de son intention d'externaliser des fonctions opérationnelles de services de paiement dans l'État membre d'accueil, les autorités compétentes de l'État membre d'origine en informent les autorités compétentes de l'État membre d'accueil.",
+      "text_sha256": "05f18f9cf7fe20270f4a58f000871b13ddd6b9e1a8926341e84b33c3b387a4a2",
+      "md_span": {
+        "start": 15822,
+        "end": 17517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les autorités compétentes de l'État membre d'origine transmettent les informations visées à l'article 14 aux autorités compétentes de l'État membre d'accueil en utilisant à cet effet le modèle figurant à l'annexe V et elles informent l'établissement de paiement qu'elles ont bien transmis les informations.\n\n2. Lorsqu'il y a plusieurs notifications à transmettre, les autorités compétentes peuvent communiquer ces informations de manière groupée en utilisant les champs prévus dans l'annexe V.",
+      "text_sha256": "3147d995e8d9d2221063ecb6b53da4116727e53e6b36b89486910b5c1ed089f0",
+      "md_span": {
+        "start": 17552,
+        "end": 18060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Lorsque, conformément à l'article 28, paragraphe 4, de la directive (UE) 2015/2366, l'établissement de paiement informe les autorités compétentes de son État membre d'origine de toute modification pertinente par rapport à une demande antérieure de passeport «services», les autorités compétentes de l'État membre d'origine communiquent ces modifications pertinentes aux autorités compétentes de l'État membre d'accueil.\n\n2. Aux fins du paragraphe 1, les autorités compétentes de l'État membre d'origine communiquent les modifications pertinentes aux autorités compétentes de l'État membre d'accueil en ne complétant que les parties du modèle figurant à l'annexe V du présent règlement qui sont concernées par ces modifications.",
+      "text_sha256": "d8e76c3d29a4b23037df2b94e444771530e19085eb739b15da12fdca2a557104",
+      "md_span": {
+        "start": 18095,
+        "end": 18837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r2055:2017-06-23--91ad6a5a726ae84e7d6fb9be6ff2ecc87e7797cffdaa500e607e508e1ed153cf#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "943cecbdf7978ed93c841eeab487d7a36a250c643b56de0e0ebe68046112af23",
+      "md_span": {
+        "start": 18872,
+        "end": 19014
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2015 : Loi du 26 juillet 2010 portant transposition de la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE) en droit national.",
+  "valid_from": "2015-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-07-26-n4/versions/2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac/fr.xml",
+    "sha256": "82624432bdc1b62fe4fb90c28249df54c218cc92c459460cc6b5cec97653e452",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/consolide/20150101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_1er/20100801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objectifs",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "La présente loi a pour objet de fixer les règles destinées à établir une infrastructure luxembourgeoise de données géographiques (ILDG) ayant une incidence sur l'environnement.\n\nElle règle également les conditions relatives à l'accès et à l'utilisation de séries de données géographiques, de services de données géographiques et de métadonnées.\n\nLa présente loi s'applique sans préjudice des dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel et de ses règlements d'exécution, de la loi du 25 novembre 2005 concernant l'accès du public à l'information en matière d'environnement, et de la loi du 4 décembre 2007 sur la réutilisation des informations du secteur public et n'affecte pas l'existence et la titularité de droits de propriété intellectuelle par des autorités publiques.",
+      "text_sha256": "8613cd75fe78b63bb64c2087e274ae309fd3d651e20a5f04d9ede1949386baf6",
+      "md_span": {
+        "start": 851,
+        "end": 1724
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2005/11/25/n4",
+          "text": "loi du 25 novembre 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2007/12/04/n1",
+          "text": "loi du 4 décembre 2007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_2/20100801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Aux fins de la présente loi, on entend par:\n\n1) «infrastructure luxembourgeoise de données géographiques (ILDG)», des métadonnées, des séries de données géographiques et des services de données géographiques; des services et des technologies en réseau; des accords sur le partage, l’accès et l’utilisation; et des mécanismes, des processus et des procédures de coordination et de suivi établis, exploités ou mis à disposition conformément à la présente loi;\n\n1. «donnée géographique», toute donnée faisant directement ou indirectement référence à un lieu ou une zone géographique spécifique;\n2. «série de données géographiques», une compilation identifiable de données géographiques;\n3. «services de données géographiques», les opérations qui peuvent être exécutées à l’aide d’une application informatique sur les données géographiques contenues dans des séries de données géographiques ou sur les métadonnées qui s’y rattachent;\n4. «objet géographique», une représentation abstraite d’un phénomène réel lié à un lieu ou à une zone géographique spécifique;\n5. «métadonnée», l’information décrivant les séries et services de données géographiques et rendant possible leur recherche, leur inventaire et leur utilisation;\n6. «interopérabilité», la possibilité d’une combinaison de séries de données géographiques et d’une interaction des services, sans intervention manuelle répétitive de telle façon que le résultat soit cohérent et la valeur ajoutée des séries et des services de données renforcée;\n7. 1. le gouvernement ou toute autre administration publique, y compris les organes publics consultatifs, aux niveaux national ou communal;\n2. toute personne physique ou morale exerçant des fonctions d’administration publique, en ce compris des tâches, des activités ou des services spécifiques en rapport avec l’environnement;\n3. toute personne physique ou morale ayant des responsabilités ou des fonctions publiques, ou fournissant des services publics en rapport avec l’environnement sous le contrôle d’un organisme ou d’une personne visés au point a) ou b);\n8. «tiers», toute personne physique ou morale autre qu’une autorité publique;\n9. directive 2007/2/CE",
+      "text_sha256": "d2894aae27f22db22ef9c989510fc392d2276cf961e774d29b25a64b71b1d635",
+      "md_span": {
+        "start": 1771,
+        "end": 3931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_3/20150101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Champ d'application",
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "**(1)** La loi s’applique\n\n1. 1. une autorité publique, après qu’elle les a produites elle-même ou qu’elle les a reçues d’une autre autorité publique, qui les a produites ou que les données sont gérées ou mises à jour par une autre autorité publique, les données en question rentrant dans le champ d’application de ses missions publiques;\n2. un tiers à la disposition duquel le réseau a été mis conformément à l’article 6;\n2. aux opérations qui peuvent être exécutées à l’aide d’une application informatique sur ces séries de données ou sur les métadonnées qui s’y rattachent.\n\nLorsque plusieurs copies identiques d’une même série de données géographiques sont détenues par plusieurs autorités publiques ou en leur nom, la présente loi s’applique uniquement à la version de référence dont sont tirées les différentes copies.\n\nDans le cas de séries et services de données géographiques à l’égard desquelles un tiers détient des droits de propriété intellectuelle, l’autorité publique ne peut agir en application de la présente loi qu’avec le consentement de ce tiers.\n\n**(2)** Par dérogation au paragraphe 1er, la présente loi ne s’applique aux séries de données géographiques détenues par une commune ou au nom de celle-ci que si des dispositions législatives en imposent la collecte ou la diffusion.",
+      "text_sha256": "13f1a7208232b437f78fc2bf3f0fa58ad3a745b07fdb319e0805e6a6bc49c022",
+      "md_span": {
+        "start": 3986,
+        "end": 5286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_4/20100801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Etats limitrophes",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Afin de garantir la cohérence d'éléments géographiques qui concernent la frontière entre le Grand-Duché et un ou plusieurs Etats limitrophes, les autorités responsables des données géographiques y relatives décident d'un commun accord de la représentation et de la position de ces éléments communs.",
+      "text_sha256": "20eeb817f1dad4f21348f0e8b9b370794ad9a1b363c57cc8ff43100a8a7bd968",
+      "md_span": {
+        "start": 5339,
+        "end": 5637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_5/20150101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Métadonnées",
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les autorités publiques qui détiennent ou gèrent des données visées à l'article 3, créent, gèrent et tiennent à jour des métadonnées conformément aux règles énoncées aux parties C et D de l'annexe du règlement No 1205/2008 de la Commission du 3 décembre 2008 portant modalités d'application de la directive en ce qui concerne les métadonnées et les mettent à disposition du géoportail.\n\nLes métadonnées comprennent des informations relatives\n\n1. à l'interopérabilité des séries et services de données;\n2. aux conditions d'accès et à l'utilisation des séries et services de données et, le cas échéant, les frais correspondants;\n3. à la qualité et la validité des séries de données;\n4. les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.\n5. aux restrictions à l’accès public et les raisons de ces restrictions.\n\nLa structure du catalogue des métadonnées sera fixée par règlement grand-ducal en conformité aux prescriptions européennes prises en exécution de la directive.\n\nLes métadonnées relatives aux domaines énoncés aux annexes I et II sont créées avant le 4 décembre 2010. Les métadonnées relatives aux domaines énoncés à l'annexe III sont créées avant le 4 décembre 2013.",
+      "text_sha256": "832604fa43ece3c174b179703f827f08b6744cef402d15f8884898d385d0caa3",
+      "md_span": {
+        "start": 5684,
+        "end": 6965
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2008/1205",
+          "text": "règlement No 1205/2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_6/20100801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Réseau de services",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Les autorités publiques mettent à disposition du public les données visées à l'article 3 pour lesquelles des métadonnées ont été créées conformément à la présente loi, par le biais d'un réseau de services offrant les fonctionnalités suivantes:\n\n1. un service de recherche permettant d'identifier les séries et services de données géographiques sur la base du contenu des métadonnées correspondantes et d'afficher le contenu de ces métadonnées;\n2. un service de consultation permettant d'afficher des données, de naviguer, de changer d'échelle, d'opter pour une vue panoramique ou de superposer plusieurs séries de données consultables et d'afficher les légendes et les métadonnées;\n3. un service de téléchargement de données géographiques;\n4. un service de transformation géodésique de données;\n5. un service d'accès direct aux données géographiques moyennant des services web interopérables. Ces services sont accessibles par internet moyennant un portail, appelé Géoportail National du Grand-Duché de Luxembourg.\n\nLa fonction de recherche permet d'effectuer une recherche à partir des critères suivants:\n\n1. les mots-clés;\n2. la classification thématique des services et des séries de données géographiques;\n3. la qualité et la validité des données géographiques;\n4. le degré de conformité par rapport aux règles de mise en oeuvre déterminées par les normes européennes;\n5. la localisation géographique;\n6. les conditions d'accès et d'utilisation des séries et services de données;\n7. les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.\n\nLes tiers détenant des séries et services de données géographiques remplissant les critères de l'article 3 et respectant les règles de mise en oeuvre concernant les obligations relatives aux métadonnées, aux services en réseau et à l'interopérabilité peuvent relier leurs séries et services de données au réseau visé à l'alinéa premier.",
+      "text_sha256": "54d4612395ac308af1fa19c9ffed9fedb041551f20c280d6ce1ac284a4fefd01",
+      "md_span": {
+        "start": 7019,
+        "end": 9001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_7/20100801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Interopérabilité",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Dans le cadre de l'ILDG, les séries et services de données sont mis à disposition conformément aux normes européennes, de façon à ce qu'ils soient interopérables avec ceux des autres Etats membres de l'Union européenne et puissent être intégrés à l'infrastructure mise en place et exploitée par la Commission européenne, et accessibles par l'intermédiaire de cette infrastructure.\n\nL'alinéa premier est applicable dans les délais suivants:\n\n1. pour les séries de données nouvellement collectées et restructurées et les services de données correspondants, dans un délai de deux ans à compter de l'adoption des normes européennes;\n2. pour les autres séries et services de données, dans un délai de sept ans à compter de l'adoption des normes européennes.\n\nL'accès aux services et données mentionnés à l'article 3 est ouvert par le biais du portail de la Commission européenne.",
+      "text_sha256": "8832e180e50deb23d1f7749fc3a4a72409fad781a03009630f486023f1872c0b",
+      "md_span": {
+        "start": 9053,
+        "end": 9927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_8/20100801",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Accessibilité",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Les métadonnées, les données géographiques, les séries et services de données géographiques et les services en réseau visés par la présente loi sont constitués en réseau électronique national accessible par internet via le Géoportail National du Grand-Duché de Luxembourg.",
+      "text_sha256": "7b25b5d103c6f24f3a52b6fddfc75089fc662efb23978e2d5c40e0fb40b8cc0f",
+      "md_span": {
+        "start": 9976,
+        "end": 10248
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_9/20100801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Coordination",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "**(1)** Il est institué auprès du ministre ayant l'Administration du cadastre et de la topographie dans ses attributions, ci-après «le ministre», un comité de coordination de l'ILDG (CC-ILDG), qui a pour mission:\n\n1. d'émettre des avis au ministre relatifs aux données géographiques qui font objet de la présente loi;\n2. de donner son avis sur toutes les questions que le ministre lui soumet en la matière;\n3. de coordonner les contributions à l'ILDG.\n\nL'organisation, le mode de fonctionnement, la composition et les attributions du CC-ILDG sont déterminés par règlement grand-ducal.\n\n**(2)** L'Administration du cadastre et de la topographie est chargée de réaliser et de gérer l'ILDG et d'assurer le contact avec la Commission européenne en ce qui concerne l'ILDG.",
+      "text_sha256": "e28007924a201a7ea6942c3391972897f3e3c0e612ae566f16512c9e9f2a6a95",
+      "md_span": {
+        "start": 10296,
+        "end": 11063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_10/20100801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Principes de tarification",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Les services de consultation et de recherche sont gratuits. N'est pas considéré comme service de consultation un service qui dépasse une visualisation contemplative à l'écran par réseau.\n\nNonobstant l'alinéa précédent, les autorités publiques peuvent percevoir des droits pour les services de consultation dans la mesure où ces droits sont nécessaires à l'élaboration et la mise à jour des données en question, notamment dans le cas de données volumineuses nécessitant un rythme de mise à jour fréquent.\n\nLes autorités publiques peuvent percevoir des droits pour les services autres que les services de consultation et de recherche.\n\nLorsque l'utilisation des services est soumise à une tarification, le règlement de la tarification doit pouvoir être effectué par des services de paiement électronique.\n\nUn règlement grand-ducal établira le montant, le mode et les conditions de perception des droits perçus par les autorités publiques.\n\nDans les cas non couverts par la loi du 4 décembre 2007 sur la réutilisation des informations du secteur public, la reproduction, la diffusion ou l'utilisation des données à des fins commerciales, ou pour des fins de publications est interdite.",
+      "text_sha256": "796679304af0626cb1bb1dfa0276241684640b237dde8a3c79e997a7d9f627ed",
+      "md_span": {
+        "start": 11126,
+        "end": 12308
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2007/12/04/n1/jo",
+          "text": "loi du 4 décembre 2007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_11/20100801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Restrictions",
+      "path": [],
+      "article_valid_from": "2010-08-01",
+      "text_md": "Les autorités publiques ou le CC-ILDG peuvent restreindre l'accès public aux séries et services de données géographiques par les services de recherche visés à l'article 6 de la présente loi lorsqu'un tel accès porterait atteinte aux relations internationales, à la sécurité publique ou à la défense nationale.\n\nLes autorités publiques peuvent restreindre l'accès public aux séries et services de données géographiques par les services visés à l'article 6 de la présente loi, autres que les services de recherche, lorsqu'un tel accès porterait atteinte:\n\n1. à la confidentialité des travaux des autorités publiques, lorsque cette confidentialité est prévue par la loi;\n2. aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;\n3. à la bonne marche de la justice;\n4. à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;\n5. à la possibilité pour toute personne d'avoir un procès équitable;\n6. à la confidentialité des informations commerciales ou industrielles et artisanales, afin de protéger un intérêt économique légitime;\n7. à la confidentialité des statistiques et du secret fiscal;\n8. à la confidentialité des données à caractère personnel ou de fichiers concernant une personne physique, à moins que celle-ci n'ait donné son accord à la divulgation de ces données;\n9. aux intérêts ou à la protection de toute personne qui a fourni les informations demandées sur base volontaire sans y être obligée par la loi ou en vertu de la loi à moins que celle-ci n'ait librement consenti à la divulgation de ces données;\n10. à la protection de l'environnement auquel ces informations ont trait;\n11. aux droits de propriété intellectuelle.\n\nLes motifs de refus visés ci-dessus sont interprétés de manière restrictive, en tenant compte dans chaque cas de l'intérêt que présenterait pour le public l'accès à ces informations. Dans chaque cas, il convient d'apprécier l'intérêt que présenterait pour le public la divulgation par rapport à celui que présenterait un accès limité ou soumis à conditions.\n\nL'accès ne peut être restreint en vertu des points a), f), g), h), i) et j) pour les informations concernant les émissions dans l'environnement.",
+      "text_sha256": "4cd8e1eeb4613aee48be202ea3925a3445b374a03795d0f25e06d874f138a783",
+      "md_span": {
+        "start": 12358,
+        "end": 14589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/art_12/20150101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Partage des données",
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les autorités publiques visées à l'article 2, point 8, a) et b) se partagent mutuellement et partagent avec les autorités publiques correspondantes des Etats membres, les institutions et organes de l'Union européenne et, sous réserve de réciprocité, les organes établis par des accords internationaux auxquels l'Union européenne et le Luxembourg sont parties, aux fins de l'exécution de missions publiques ayant une incidence sur l'environnement, les séries et services de données géographiques qu'elles détiennent.\n\nLes autorités publiques peuvent demander un paiement et octroyer des licences pour ces séries et services partagés.\n\nLe paiement est fixé au minimum requis pour assurer la qualité nécessaire et la fourniture des séries et des services de données géographiques, tout en permettant un retour sur investissement raisonnable, et en assurant, le cas échéant, les exigences d'autofinancement des autorités publiques qui fournissent des séries et des services de données géographiques. Les séries et services de données géographiques fournis aux institutions et aux organes communautaires pour la réalisation des obligations de rapport résultant de la législation communautaire en matière d'environnement ne sont pas soumis à paiement.\n\nUn règlement grand-ducal établira le montant et le mode de perception des droits perçus par les autorités publiques.\n\nLes autorités publiques ou le CC-ILDG peuvent limiter le partage visé à l'alinéa premier, lorsqu'un tel partage est susceptible de porter atteinte:\n\n1. aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;\n2. à la bonne marche de la justice;\n3. à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;\n4. à la possibilité pour toute personne d'avoir un procès équitable.\n\nLes données partagées ne peuvent être utilisées par les bénéficiaires que pour les objectifs et dans les conditions fixés par la directive et dans le respect des droits de propriété intellectuelle.",
+      "text_sha256": "927cbfd662c1ee7975db112b7a59a66488d6ecc3d96a2ddd86816ca85b0ee46c",
+      "md_span": {
+        "start": 14646,
+        "end": 16672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*1) Référentiels de coordonnées*\n\nSystèmes de référencement unique des informations géographiques dans l’espace sous forme d’une série de coordonnées (x, y, z) et/ou la latitude et la longitude et l’altitude, en se fondant sur un point géodésique horizontal et vertical.\n\n*2) Systèmes de maillage géographique*\n\nGrille multi-résolution harmonisée avec un point d’origine commun et une localisation ainsi qu’une taille des cellules harmonisées.\n\n*3) Dénominations géographiques*\n\nNoms de zones, de régions, de localités, de grandes villes, de banlieues, de villes moyennes ou d’implantations, ou tout autre élément géographique ou topographique d’intérêt public ou historique.\n\n*4) Unités administratives*\n\nUnités d’administration séparées par des limites administratives et délimitant les zones dans lesquelles les Etats membres détiennent et/ou exercent leurs compétences, aux fins de l’administration locale, régionale et nationale.\n\n*5) Adresses*\n\nLocalisation des propriétés fondée sur les identifiants des adresses, habituellement le nom de la rue, le numéro de la maison et le code postal.\n\n*6) Parcelles cadastrales*\n\nZones définies par les registres cadastraux ou équivalents.\n\n*7) Réseaux de transport*\n\nRéseaux routier, ferroviaire, aérien et navigable ainsi que les infrastructures associées. Sont également incluses les correspondances entre les différents réseaux, ainsi que le réseau transeuropéen de transport tel que défini dans la décision No 1692/96/CE du Parlement européen et du Conseil du 23 juillet 1996 sur les orientations communautaires pour le développement du réseau transeuropéen de transport (1) et les révisions futures de cette décision.\n\n*8) Hydrographie*\n\nEléments hydrographiques, y compris les zones maritimes ainsi que toutes les autres masses d’eau et les éléments qui y sont liés, y compris les bassins et sous-bassins hydrographiques. Conformes, le cas échéant, aux définitions établies par la directive 2000/60/CE du Parlement européen et du Conseil du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l’eau (2) et sous forme de réseaux.\n\n*9) Sites protégés*\n\nZone désignée ou gérée dans un cadre législatif international, communautaire ou national en vue d’atteindre des objectifs spécifiques de conservation.",
+      "text_sha256": "19b18a1851ce8c5d743adf7f61c4b9d2603aba8bfd780a6d5d194ea82fd5eecd",
+      "md_span": {
+        "start": 16715,
+        "end": 19005
+      },
+      "citations": [
+        {
+          "href": "http://data.europa.eu/eli/dec/1996/1692/oj",
+          "text": "décision No 1692/96/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2000/60/jo",
+          "text": "directive 2000/60/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*1) Altitude*\n\nModèles numériques pour l’altitude des surfaces terrestres, glaciaires et océaniques. Comprend l’altitude terrestre, la bathymétrie et la ligne de rivage.\n\n*2) Occupation des terres*\n\nCouverture physique et biologique de la surface terrestre, y compris les surfaces artificielles, les zones agricoles, les forêts, les zones (semi-)naturelles, les zones humides et les masses d’eau.\n\n*3) Ortho-imagerie*\n\nImages géoréférencées de la surface terrestre, provenant de satellites ou de capteurs aéroportés.\n\n*4) Géologie*\n\nGéologie caractérisée en fonction de la composition et de la structure. Englobe le substratum rocheux, les aquifères et la géomorphologie.",
+      "text_sha256": "5dd139f842ee81ac5b27d883bf77acf12573d6519e0accbd3a2b22aa863f1918",
+      "md_span": {
+        "start": 19049,
+        "end": 19720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01--1145b846dcca23c6593a19df7f4dd3f3bac7dba606e7ef0c5be1f52824c397ac#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*1) Unités statistiques*\n\nUnités de diffusion ou d’utilisation d’autres informations statistiques.\n\n*2) Bâtiments*\n\nSituation géographique des bâtiments.\n\n*3) Sols*\n\nSols et sous-sol caractérisés selon leur profondeur, texture, structure et teneur en particules et en matières organiques, pierrosité, érosion, le cas échéant pente moyenne et capacité anticipée de stockage de l’eau.\n\n*4) Usage des sols*\n\nTerritoire caractérisé selon sa dimension fonctionnelle prévue ou son objet socio-économique actuel et futur (par exemple, résidentiel, industriel, commercial, agricole, forestier, récréatif).\n\n*5) Santé et sécurité des personnes*\n\nRépartition géographique des pathologies dominantes (allergies, cancers, maladies respiratoires, etc.) liées directement (pollution de l’air, produits chimiques, appauvrissement de la couche d’ozone, bruit, etc.) ou indirectement (alimentation, organismes génétiquement modifiés, etc.) à la qualité de l’environnement, et ensemble des informations relatif à l’effet de celle-ci sur la santé des hommes (marqueurs biologiques, déclin de la fertilité, épidémies) ou leur bienêtre (fatigue, stress, etc.).\n\n*6) Services d’utilité publique et services publics*\n\nComprend les installations d’utilité publique, tels que les égouts ou les réseaux et installations liés à la gestion des déchets, à l’approvisionnement énergétique, à l’approvisionnement en eau, ainsi que les services administratifs et sociaux publics, tels que les administrations publiques, les sites de la protection civile, les écoles et les hôpitaux.\n\n*7) Installations de suivi environnemental*\n\nLa situation et le fonctionnement des installations de suivi environnemental comprennent l’observation et la mesure des émissions, de l’état du milieu environnemental et d’autres paramètres de l’écosystème (biodiversité, conditions écologiques de la végétation, etc.) par les autorités publiques ou pour leur compte.\n\n*8) Lieux de production et sites industriels*\n\nSites de production industrielle, y compris les installations couvertes par la directive 96/61/CE du Conseil du 24 septembre 1996 relative à la prévention et à la réduction intégrées de la pollution (1) et les installations de captage d’eau, d’extraction minière et de stockage.\n\n*9) Installations agricoles et aquacoles*\n\nEquipement et installations de production agricoles (y compris les systèmes d’irrigation, les serres et les étables).\n\n*10) Répartition de la population - démographie*\n\nRépartition géographique des personnes, avec les caractéristiques de population et les niveaux d’activité, regroupées par grille, région, unité administrative ou autre unité analytique.\n\n*11) Zones de gestion, de restriction ou de réglementation et unités de déclaration*\n\nZones gérées, réglementées ou utilisées pour les rapports aux niveaux international, européen, national, régional et local. Sont inclus les décharges, les zones restreintes aux alentours des sources d’eau potable, les zones vulnérables aux nitrates, les chenaux réglementés en mer ou les eaux intérieures importantes, les zones destinées à la décharge de déchets, les zones soumises à limitation du bruit, les zones faisant l’objet de permis d’exploration et d’extraction minière, les districts hydrographiques, les unités correspondantes utilisées pour les rapports et les zones de gestion du littoral.\n\n*12) Zones à risque naturel*\n\nZones sensibles caractérisées en fonction des risques naturels (tous les phénomènes atmosphériques, hydrologiques, sismiques, volcaniques, ainsi que les feux de friche qui peuvent, en raison de leur situation, de leur gravité et de leur fréquence, nuire gravement à la société), tels qu’inondations, glissements et affaissements de terrain, avalanches, incendies de forêts, tremblements de terre et éruptions volcaniques.\n\n*13) Conditions atmosphériques*\n\nConditions physiques dans l’atmosphère. Comprend les données géographiques fondées sur des mesures, sur des modèles ou sur une combinaison des deux, ainsi que les lieux de mesure.\n\n*14) Caractéristiques géographiques météorologiques*\n\nConditions météorologiques et leur mesure: précipitations, température, évapotranspiration, vitesse et direction du vent.\n\n*15) Caractéristiques géographiques océanographiques*\n\nConditions physiques des océans (courants, salinité, hauteur des vagues, etc.).\n\n*16) Régions maritimes*\n\nConditions physiques des mers et des masses d’eau salée divisées en régions et en sous-régions à caractéristiques communes.\n\n*17) Régions biogéographiques*\n\nZones présentant des conditions écologiques relativement homogènes avec des caractéristiques communes.\n\n*18) Habitats et biotopes*\n\nZones géographiques ayant des caractéristiques écologiques particulières – conditions, processus, structures et fonctions (de maintien de la vie) – favorables aux organismes qui y vivent. Sont incluses les zones terrestres et aquatiques qui se distinguent par leurs caractéristiques géographiques, abiotiques ou biotiques, qu’elles soient naturelles ou semi-naturelles.\n\n*19) Répartition des espèces*\n\nRépartition géographique de l’occurrence des espèces animales et végétales regroupées par grille, région, unité administrative ou autre unité analytique.\n\n*20) Sources d’énergie*\n\nSources d’énergie comprenant les hydrocarbures, l’énergie hydraulique, la bioénergie, l’énergie solaire, l’énergie éolienne, etc., le cas échéant accompagnées d’informations relatives à la profondeur/ la hauteur de la source.\n\n*21) Ressources minérales*\n\nRessources minérales comprenant les minerais métalliques, les minéraux industriels, etc., le cas échéant accompagnées d’informations relatives à la profondeur/ la hauteur de la ressource.",
+      "text_sha256": "97373e1d28dced1dbdbe24c6651b88b26d22a84a6ab1a53fe6d99708c69d2ad2",
+      "md_span": {
+        "start": 19765,
+        "end": 25415
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1996/61/jo",
+          "text": "directive 96/61/CE"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

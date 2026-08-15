@@ -1,0 +1,141 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737",
+  "language": "fr",
+  "title": "Council Directive 2004/106/EC of 16 November 2004 amending Directives 77/799/EEC concernin…",
+  "valid_from": "2004-11-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004l0106/versions/2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737/fr.xml",
+    "sha256": "b66f640ed9ee4e5b267efbf8c08b01116de997126a0d9bfa274dbfdefcdb9b9b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0106"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 77/799/CEE est modifiée comme suit:\n\n| 1) | Le titre est remplacé par le titre suivant: «Directive 77/799/CEE du Conseil du 19 décembre 1977 concernant l'assistance mutuelle des autorités compétentes des États membres dans le domaine des impôts directs et des taxes sur les primes d'assurance». |\n| --- | --- |\n\n| 2) | À l'article 1er, le paragraphe 1 est remplacé par le texte suivant:«1. Les autorités compétentes des États membres échangent, conformément à la présente directive, toutes les informations susceptibles de leur permettre l'établissement correct des impôts sur le revenu et la fortune, ainsi que toutes les informations relatives à l'établissement des taxes sur les primes d'assurance, visées à l'article 3, sixième tiret, de la directive 76/308/CEE du Conseil du 15 mars 1976 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certaines cotisations, droits, taxes et autres mesures(*1).»(*1) JO L 73 du 19.3.1976, p. 18. Directive modifiée en dernier lieu par l'acte d'adhésion de 2003.\" |\n| --- | --- |",
+      "text_sha256": "055078c218f276933bfece5dbf8086e3467b093f67f3e13637a509a2a57c1184",
+      "md_span": {
+        "start": 702,
+        "end": 1786
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2004359FR.01003001-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2004359FR.01003001-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_1976_073_R_TOC",
+          "text": "JO L 73 du 19.3.1976, p. 18"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa directive 92/12/CEE est modifiée comme suit:\n\n| 1) | l'article 15 bis est supprimé; |\n| --- | --- |\n\n| 2) | l'article 15 ter est supprimé; |\n| --- | --- |\n\n| 3) | à l'article 19, le paragraphe 6 est supprimé. |\n| --- | --- |",
+      "text_sha256": "e439906742ac7f8a7315438b0b56292917811bc62344b9ca17225a6ad72da8b2",
+      "md_span": {
+        "start": 1819,
+        "end": 2057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes références faites à la directive 77/799/CEE, en ce qui concerne les droits d'accises, s'entendent comme faites au règlement (CE) no 2073/2004.\n\nLes références faites à la directive 92/12/CEE, en ce qui concerne la coopération administrative dans le domaine des droits d'accises, s'entendent comme faites au règlement (CE) no 2073/2004.",
+      "text_sha256": "fc56a08a38651038b6fc5599fb119aaf16c7150b946d6cea9c17bb79d1bc6030",
+      "md_span": {
+        "start": 2090,
+        "end": 2440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avant le 30 juin 2005. Ils en informent immédiatement la Commission.\n\nIls appliquent ces dispositions à partir du 1er juillet 2005.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.\n\n3. Par dérogation à l'article 2 de la directive 2004/56/CE, les États membres ne sont pas tenus d'adopter et appliquer les dispositions requises pour se conformer à la directive 2004/56/CE pour ce qui concerne les droits d'accises.",
+      "text_sha256": "f8c6f32e57eb6c5fb2dc10686be1f8e61ac2be79dc8a80ca2f5143248b280545",
+      "md_span": {
+        "start": 2473,
+        "end": 3429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "d04bb82c7a15c84e4e94b72be45c066d8779d0e77d41ebb631a90bba106c5763",
+      "md_span": {
+        "start": 3462,
+        "end": 3604
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16--393812aab3f69e807f65b8869b65a5a3851a99d606589f500875221bffa9a737#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "c543e122d516e8e9a7054a000a16b82e598ce3aff16f5992f583c87319c0fd62",
+      "md_span": {
+        "start": 3637,
+        "end": 3710
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

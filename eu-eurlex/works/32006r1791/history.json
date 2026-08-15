@@ -11,19 +11,19 @@
         "valid_from": "2015-07-15",
         "valid_to": "2015-10-13",
         "text_sha256": "14e04070587f9f9e57d55c2201bb14e4749c5b6d094ed86f377636c349fe9511",
-        "in_version": "eu-eurlex:32006r1791:2015-07-15"
+        "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "valid_from": "2015-10-14",
         "valid_to": "2017-06-25",
         "text_sha256": "149c0c83ad45b74fbba73001d13e3faae6581fc0b3e4283f80d96fec19ea14af",
-        "in_version": "eu-eurlex:32006r1791:2015-10-14"
+        "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
       },
       {
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "eeee857d8be25e07c22af74ec22f2673d50ce086d6bb341eb79d1e918328c922",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "anx_8_b_12_13": [
@@ -31,7 +31,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "anx_i": [
@@ -39,7 +39,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "anx_iii": [
@@ -47,25 +47,25 @@
         "valid_from": "2015-07-15",
         "valid_to": "2017-06-25",
         "text_sha256": "2d2921c8810b740368b415fa97b1aebff8542b7fa2d96f87b53f939b7d9bdc9b",
-        "in_version": "eu-eurlex:32006r1791:2015-07-15"
+        "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "valid_from": "2017-06-26",
         "valid_to": "2018-12-17",
         "text_sha256": "3aa16a790b71d03d39087452006570cd04b8d83ffee3c64cd4c482ce6ee5848e",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "valid_from": "2018-12-18",
         "valid_to": "2019-02-19",
         "text_sha256": "3e9b4a6dbe509111ae4c9f3963746ed54174ab4a00366015cdf8872ec3aca677",
-        "in_version": "eu-eurlex:32006r1791:2018-12-18"
+        "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
       },
       {
         "valid_from": "2019-02-20",
         "valid_to": null,
         "text_sha256": "07bdd5a45b9da4fce145bc55b00e3714c648bc36db7bafed6671a0bc6f0d693c",
-        "in_version": "eu-eurlex:32006r1791:2019-02-20"
+        "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
       }
     ],
     "anx_vii": [
@@ -73,53 +73,53 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "art_1": [
       {
         "valid_from": "2006-11-20",
-        "valid_to": "2015-07-14",
+        "valid_to": "2006-12-31",
         "text_sha256": "c4d57d5150a33bc236130509063ab96ea6e4188181bf9f09cb3b330f181b3253",
-        "in_version": "eu-eurlex:32006r1791:2006-11-20"
+        "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
       },
       {
         "valid_from": "2015-07-15",
         "valid_to": "2015-10-13",
         "text_sha256": "0ca612f84f3cfc9ceda3f2e447f2829460ce4cb7346f8a76afe8476c42203ff7",
-        "in_version": "eu-eurlex:32006r1791:2015-07-15"
+        "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "valid_from": "2015-10-14",
         "valid_to": "2018-12-17",
         "text_sha256": "8dd5e1c5de421807a389f6e728c815d71bcb1ae8912b7160b2fb0defd7d76908",
-        "in_version": "eu-eurlex:32006r1791:2015-10-14"
+        "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
       },
       {
         "valid_from": "2018-12-18",
         "valid_to": "2019-02-19",
         "text_sha256": "e2dd05ac0fdeed476f339edcc76250574138b82a624332e5f8d32dca8fa506ab",
-        "in_version": "eu-eurlex:32006r1791:2018-12-18"
+        "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
       },
       {
         "valid_from": "2019-02-20",
         "valid_to": null,
         "text_sha256": "5338ac3b27ff142d800a71b194b81ba7d376924aa98e476144b194aa2175809f",
-        "in_version": "eu-eurlex:32006r1791:2019-02-20"
+        "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
       }
     ],
     "art_2": [
       {
         "valid_from": "2006-11-20",
-        "valid_to": "2015-07-14",
+        "valid_to": "2006-12-31",
         "text_sha256": "1fef8368aedc0777cc26d6d45fb1da47beb31fcb91e56600285632e3ffc5ab6b",
-        "in_version": "eu-eurlex:32006r1791:2006-11-20"
+        "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
       },
       {
         "valid_from": "2015-07-15",
         "valid_to": null,
         "text_sha256": "a4027ff9886f7bbd2bef44b265f57ca76d394ce6f368344dec3a878fd354e76f",
-        "in_version": "eu-eurlex:32006r1791:2015-07-15"
+        "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       }
     ],
     "article_14c_1_b_of_the_regulation": [
@@ -127,7 +127,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "cc5ac92f7bef50e61d10b1c82fbabbe0d724f54f932b1fbe7156a6c969b6d6ba",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "articles_4_8_10a_d_and_122_of_the_implementing_regulation": [
@@ -135,7 +135,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "b1363aa0d5b6443d86131deabec641a048815632ac8d251ebdab8d38d33f5460",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "grant_of_family_benefits": [
@@ -143,7 +143,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "instances_in_which_a_person_shall_be_simultaneously_subject_to_the_legislation_of_two_member_states": [
@@ -151,7 +151,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "territories_referred_to_in_article_2_15": [
@@ -159,7 +159,7 @@
         "valid_from": "2017-06-26",
         "valid_to": null,
         "text_sha256": "72c7aaf60750e99c6f12f96b0f0c5d7be719ddd5ed76670672d03f4bc371f3f8",
-        "in_version": "eu-eurlex:32006r1791:2017-06-26"
+        "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ]
   },
@@ -167,52 +167,52 @@
     {
       "type": "inserted",
       "anchor": "annex",
-      "at_version": "eu-eurlex:32006r1791:2015-07-15"
+      "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
     },
     {
       "type": "inserted",
       "anchor": "anx_iii",
-      "at_version": "eu-eurlex:32006r1791:2015-07-15"
+      "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
     },
     {
       "type": "inserted",
       "anchor": "anx_8_b_12_13",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "anx_i",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "anx_vii",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "article_14c_1_b_of_the_regulation",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "articles_4_8_10a_d_and_122_of_the_implementing_regulation",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "grant_of_family_benefits",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "instances_in_which_a_person_shall_be_simultaneously_subject_to_the_legislation_of_two_member_states",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     },
     {
       "type": "inserted",
       "anchor": "territories_referred_to_in_article_2_15",
-      "at_version": "eu-eurlex:32006r1791:2017-06-26"
+      "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
     }
   ],
   "anchors_by_language": {
@@ -222,19 +222,19 @@
           "valid_from": "2015-07-15",
           "valid_to": "2015-10-13",
           "text_sha256": "14e04070587f9f9e57d55c2201bb14e4749c5b6d094ed86f377636c349fe9511",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2015-10-14",
           "valid_to": "2017-06-25",
           "text_sha256": "149c0c83ad45b74fbba73001d13e3faae6581fc0b3e4283f80d96fec19ea14af",
-          "in_version": "eu-eurlex:32006r1791:2015-10-14"
+          "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
         },
         {
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "eeee857d8be25e07c22af74ec22f2673d50ce086d6bb341eb79d1e918328c922",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "anx_8_b_12_13": [
@@ -242,7 +242,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "anx_i": [
@@ -250,7 +250,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "anx_iii": [
@@ -258,25 +258,25 @@
           "valid_from": "2015-07-15",
           "valid_to": "2017-06-25",
           "text_sha256": "2d2921c8810b740368b415fa97b1aebff8542b7fa2d96f87b53f939b7d9bdc9b",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2017-06-26",
           "valid_to": "2018-12-17",
           "text_sha256": "3aa16a790b71d03d39087452006570cd04b8d83ffee3c64cd4c482ce6ee5848e",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         },
         {
           "valid_from": "2018-12-18",
           "valid_to": "2019-02-19",
           "text_sha256": "3e9b4a6dbe509111ae4c9f3963746ed54174ab4a00366015cdf8872ec3aca677",
-          "in_version": "eu-eurlex:32006r1791:2018-12-18"
+          "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
         },
         {
           "valid_from": "2019-02-20",
           "valid_to": null,
           "text_sha256": "07bdd5a45b9da4fce145bc55b00e3714c648bc36db7bafed6671a0bc6f0d693c",
-          "in_version": "eu-eurlex:32006r1791:2019-02-20"
+          "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
         }
       ],
       "anx_vii": [
@@ -284,53 +284,53 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "art_1": [
         {
           "valid_from": "2006-11-20",
-          "valid_to": "2015-07-14",
+          "valid_to": "2006-12-31",
           "text_sha256": "c4d57d5150a33bc236130509063ab96ea6e4188181bf9f09cb3b330f181b3253",
-          "in_version": "eu-eurlex:32006r1791:2006-11-20"
+          "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
         },
         {
           "valid_from": "2015-07-15",
           "valid_to": "2015-10-13",
           "text_sha256": "0ca612f84f3cfc9ceda3f2e447f2829460ce4cb7346f8a76afe8476c42203ff7",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2015-10-14",
           "valid_to": "2018-12-17",
           "text_sha256": "8dd5e1c5de421807a389f6e728c815d71bcb1ae8912b7160b2fb0defd7d76908",
-          "in_version": "eu-eurlex:32006r1791:2015-10-14"
+          "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
         },
         {
           "valid_from": "2018-12-18",
           "valid_to": "2019-02-19",
           "text_sha256": "e2dd05ac0fdeed476f339edcc76250574138b82a624332e5f8d32dca8fa506ab",
-          "in_version": "eu-eurlex:32006r1791:2018-12-18"
+          "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
         },
         {
           "valid_from": "2019-02-20",
           "valid_to": null,
           "text_sha256": "5338ac3b27ff142d800a71b194b81ba7d376924aa98e476144b194aa2175809f",
-          "in_version": "eu-eurlex:32006r1791:2019-02-20"
+          "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
         }
       ],
       "art_2": [
         {
           "valid_from": "2006-11-20",
-          "valid_to": "2015-07-14",
+          "valid_to": "2006-12-31",
           "text_sha256": "1fef8368aedc0777cc26d6d45fb1da47beb31fcb91e56600285632e3ffc5ab6b",
-          "in_version": "eu-eurlex:32006r1791:2006-11-20"
+          "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
         },
         {
           "valid_from": "2015-07-15",
           "valid_to": null,
           "text_sha256": "a4027ff9886f7bbd2bef44b265f57ca76d394ce6f368344dec3a878fd354e76f",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         }
       ],
       "article_14c_1_b_of_the_regulation": [
@@ -338,7 +338,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "cc5ac92f7bef50e61d10b1c82fbabbe0d724f54f932b1fbe7156a6c969b6d6ba",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "articles_4_8_10a_d_and_122_of_the_implementing_regulation": [
@@ -346,7 +346,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "b1363aa0d5b6443d86131deabec641a048815632ac8d251ebdab8d38d33f5460",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "grant_of_family_benefits": [
@@ -354,7 +354,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "instances_in_which_a_person_shall_be_simultaneously_subject_to_the_legislation_of_two_member_states": [
@@ -362,7 +362,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "territories_referred_to_in_article_2_15": [
@@ -370,7 +370,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "72c7aaf60750e99c6f12f96b0f0c5d7be719ddd5ed76670672d03f4bc371f3f8",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ]
     },
@@ -380,19 +380,19 @@
           "valid_from": "2015-07-15",
           "valid_to": "2015-10-13",
           "text_sha256": "1d185cde73a7aabe7897fb38cea71d4eb3ae0faa39d7488754ccba2065b743fe",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2015-10-14",
           "valid_to": "2017-06-25",
           "text_sha256": "7fdde6863e78d2d1e4fcc8fa793c957c1d31c77e37523687c3330a94f0c49342",
-          "in_version": "eu-eurlex:32006r1791:2015-10-14"
+          "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
         },
         {
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "da0ed65d62a3b5947e199d27d21138c923d631f4e7639d909e662eb3129cb20e",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "annexe_8_b_12_13": [
@@ -400,7 +400,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "annexe_i": [
@@ -408,7 +408,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "annexe_iii": [
@@ -416,25 +416,25 @@
           "valid_from": "2015-07-15",
           "valid_to": "2017-06-25",
           "text_sha256": "e3b76654a2906b3f7b604560e859f6b9f8a36118f24f0a747b124d03b7a114ce",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2017-06-26",
           "valid_to": "2018-12-17",
           "text_sha256": "2b12f6a0381d82961b1dc27e2a76d643acf8d82e66a58eea9b8df074125fcafe",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         },
         {
           "valid_from": "2018-12-18",
           "valid_to": "2019-02-19",
           "text_sha256": "03c867f655018a85f0d7ccae29ca6d8df61a7996d147dbec83a532205dddd926",
-          "in_version": "eu-eurlex:32006r1791:2018-12-18"
+          "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
         },
         {
           "valid_from": "2019-02-20",
           "valid_to": null,
           "text_sha256": "4e4a66904f65f3e960434a535f4f5e826e462ed122f05e7d4ca9d658c44e2791",
-          "in_version": "eu-eurlex:32006r1791:2019-02-20"
+          "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
         }
       ],
       "annexe_vii": [
@@ -442,29 +442,29 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "art_1": [
         {
           "valid_from": "2006-11-20",
-          "valid_to": "2015-07-14",
+          "valid_to": "2006-12-31",
           "text_sha256": "ddcde7a9f9d8bbb82c64092a6798fc8f068aee60e68851790478c294c4c212c9",
-          "in_version": "eu-eurlex:32006r1791:2006-11-20"
+          "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
         }
       ],
       "art_2": [
         {
           "valid_from": "2006-11-20",
-          "valid_to": "2015-07-14",
+          "valid_to": "2006-12-31",
           "text_sha256": "564461b03d4574a5949c03af1bd9a386f30675491bb3ed1de82f87553b50fdab",
-          "in_version": "eu-eurlex:32006r1791:2006-11-20"
+          "in_version": "eu-eurlex:32006r1791:2006-11-20--ed208a38f1b6c5e0c0e99607ade81dc83b97ab645547ed9ecfc2505cfd20f5fd"
         },
         {
           "valid_from": "2015-07-15",
           "valid_to": null,
           "text_sha256": "abd4965e0175ca69078fb516c313def577cfe1d0624d16ffeb59f0ee5a394830",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         }
       ],
       "art_premier": [
@@ -472,25 +472,25 @@
           "valid_from": "2015-07-15",
           "valid_to": "2015-10-13",
           "text_sha256": "4fcd0d8f5edd608380d4852b7ae94e0692e7e4b90ea262f3330bb5b894b86617",
-          "in_version": "eu-eurlex:32006r1791:2015-07-15"
+          "in_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
         },
         {
           "valid_from": "2015-10-14",
           "valid_to": "2018-12-17",
           "text_sha256": "cd9fb4b475fef6e18e92b3d4b71587103da0491c89367289efc6536540391a55",
-          "in_version": "eu-eurlex:32006r1791:2015-10-14"
+          "in_version": "eu-eurlex:32006r1791:2015-10-14--a678c0478991c47fc7e16d340befe6d89c3fb78a61028199d41105748ccb52f2"
         },
         {
           "valid_from": "2018-12-18",
           "valid_to": "2019-02-19",
           "text_sha256": "2e40d84946208beaa2891494d59dc9367bf15fad3e88eacf42d9459a861cc8d7",
-          "in_version": "eu-eurlex:32006r1791:2018-12-18"
+          "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
         },
         {
           "valid_from": "2019-02-20",
           "valid_to": null,
           "text_sha256": "d8305ae535e5f4e3ad54035e404405f6d06d86393aa81e1e2a22ef59bff3e8c0",
-          "in_version": "eu-eurlex:32006r1791:2019-02-20"
+          "in_version": "eu-eurlex:32006r1791:2019-02-20--82996dc65410c051dfdac009b32af01ad9d151833496cc66b1de75831d89d5bf"
         }
       ],
       "article_14_quater_point_b_du_reglement": [
@@ -498,7 +498,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "5282569f55bc7527160e25b9ac64760016a32a46156b435de86a88ed8d807127",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "article_4_paragraphe_8_article_10_bis_point_d_et_article_122_du_reglement_d_application": [
@@ -506,7 +506,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "07a0b951205260fbefc2f32a390160d44a77ea59334a2625abf0c5623b4c29e3",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "cas_dans_lesquels_une_personne_est_soumise_simultanement_a_la_legislation_de_deux_etats_membres": [
@@ -514,7 +514,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "octroi_des_prestations_familiales": [
@@ -522,7 +522,7 @@
           "valid_from": "2017-06-26",
           "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         }
       ],
       "territoires_vises_a_l_article_2_point_15": [
@@ -530,13 +530,13 @@
           "valid_from": "2017-06-26",
           "valid_to": "2018-12-17",
           "text_sha256": "6c522168dd9636c7e62a0146fb3eb46dafae69dd579925dca1f6d552b42e0c2c",
-          "in_version": "eu-eurlex:32006r1791:2017-06-26"
+          "in_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
         },
         {
           "valid_from": "2018-12-18",
           "valid_to": null,
           "text_sha256": "053580b13d2e94809c3ab31377e578ce32721f3f22a813bea525eaaef7dcfcf5",
-          "in_version": "eu-eurlex:32006r1791:2018-12-18"
+          "in_version": "eu-eurlex:32006r1791:2018-12-18--191bd35fae23920bcc6771fc31783d0982050752e8ccccda0011446e318c5b3a"
         }
       ]
     }
@@ -546,114 +546,114 @@
       {
         "type": "inserted",
         "anchor": "annex",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "anx_iii",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "anx_8_b_12_13",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "anx_i",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "anx_vii",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "article_14c_1_b_of_the_regulation",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "articles_4_8_10a_d_and_122_of_the_implementing_regulation",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "grant_of_family_benefits",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "instances_in_which_a_person_shall_be_simultaneously_subject_to_the_legislation_of_two_member_states",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "territories_referred_to_in_article_2_15",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ],
     "fr": [
       {
         "type": "removed",
         "anchor": "art_1",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "annexe",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "annexe_iii",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "art_premier",
-        "at_version": "eu-eurlex:32006r1791:2015-07-15"
+        "at_version": "eu-eurlex:32006r1791:2015-07-15--ac9a1ca3f99d4aac464b4247888f99b4c94c8fabaa2d7b35800d3c01e5724b0e"
       },
       {
         "type": "inserted",
         "anchor": "annexe_8_b_12_13",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "annexe_i",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "annexe_vii",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "article_14_quater_point_b_du_reglement",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "article_4_paragraphe_8_article_10_bis_point_d_et_article_122_du_reglement_d_application",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "cas_dans_lesquels_une_personne_est_soumise_simultanement_a_la_legislation_de_deux_etats_membres",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "octroi_des_prestations_familiales",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       },
       {
         "type": "inserted",
         "anchor": "territoires_vises_a_l_article_2_point_15",
-        "at_version": "eu-eurlex:32006r1791:2017-06-26"
+        "at_version": "eu-eurlex:32006r1791:2017-06-26--12706879176d95792947063f356cf52ca46582877aaea416ebe7c17e94172253"
       }
     ]
   }

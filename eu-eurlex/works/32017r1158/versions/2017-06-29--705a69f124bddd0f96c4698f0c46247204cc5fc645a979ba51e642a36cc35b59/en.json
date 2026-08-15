@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/1158 of 29 June 2017 laying down implementing technical standards with regards to the procedures and forms for competent authorities exchanging information with the European Securities Market Authority as referred to in Article 33 of Regulation (EU) No 596/2014",
+  "valid_from": "2017-06-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1158/versions/2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59/en.xml",
+    "sha256": "1218b72b0b9280dd323292f2b5fc24af08d97ac984fbe35070b5a2576476f630",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1158"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, ‘electronic means’ are means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio, optical technologies, or any other electromagnetic means.",
+      "text_sha256": "126324eac9bd4fa398d014f3dd33dec79072f8637fb2846a2658879f8c398089",
+      "md_span": {
+        "start": 917,
+        "end": 1185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Each competent authority shall designate a single contact point for sending the information referred to in Article 3 and for communications on any issue relating to submission of that information.\n\n2. Competent authorities shall notify the European Securities and Markets Authority (ESMA) of the contact points designated in accordance with paragraph 1.\n\n3. ESMA shall designate a contact point for receiving the information set out in Articles 3 and 4 and for communications on any issue relating to the reception of that information.\n\n4. ESMA shall publish the contact point referred to in paragraph 2 on its website.",
+      "text_sha256": "ad74850ae6bd2294344f383f1970a3edbecf8ad0c2b8bba7ae7594001435b634",
+      "md_span": {
+        "start": 1218,
+        "end": 1851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Competent authorities shall provide ESMA with the information referred to in paragraphs 1 and 2 of Article 33 of Regulation (EU) No 596/2014, by filling in, as appropriate, the form set out in Annex I to this Regulation.\n\n2. The information referred to in paragraph 1 shall be provided to ESMA no later than 31 of March of each year and shall relate to all investigations undertaken and all sanctions and measures imposed during the previous calendar year.\n\n3. Competent authorities shall provide ESMA with the information referred to in paragraph 1 by secure electronic means of transmission.\n\n4. For the purposes of paragraph 1, ESMA shall specify and identify the secure electronic means to be used. Those means shall ensure that the completeness, integrity and confidentiality of the information is maintained during its transmission.",
+      "text_sha256": "ee3d0ce57368693543a873e509c3bb5133933e51fcf90d80370cf5955e18d8ad",
+      "md_span": {
+        "start": 1884,
+        "end": 2736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Competent authorities shall report to ESMA the sanctions and measures referred to in Article 33(3) of Regulation (EU) No 596/2014 using the interfaces provided by the information technology system, and the related database, set up by ESMA to manage the receipt, storage and publication of information on those sanctions and measures.\n\n2. The sanctions and measures referred to in paragraph 1 shall be submitted to ESMA in a report file in the format set out in Annex II.",
+      "text_sha256": "f7ea7d62a306c08036a61a6470e6e7b130debfdb9cda6bf0d649a8040eb80c66",
+      "md_span": {
+        "start": 2769,
+        "end": 3253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Where a competent authority wishes to invalidate an existing report file it has previously submitted to ESMA in accordance with Article 4, it shall cancel the existing report file and send a new report file.\n\n2. Where a competent authority wishes to update an existing report file it has previously submitted to ESMA in accordance with Article 4, it shall resubmit the report file with the updated information.",
+      "text_sha256": "c44a8ba31f07fdea0f80b240de5ad4ac161ad4b498f2ec545dbe1d2f5c8f7607",
+      "md_span": {
+        "start": 3286,
+        "end": 3710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1158:2017-06-29--705a69f124bddd0f96c4698f0c46247204cc5fc645a979ba51e642a36cc35b59#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fa276107727fcac2c4e64f6e6728350e99397b510291050a1165e007d077a146",
+      "md_span": {
+        "start": 3743,
+        "end": 3894
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

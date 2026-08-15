@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760",
+  "language": "en",
+  "title": "Council Directive 2013/18/EU of 13\u00A0May 2013 adapting Directive 2009/28/EC",
+  "valid_from": "2013-05-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0018/versions/2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760/en.xml",
+    "sha256": "5cdcc97ea176d05f153aa2dcf1d1040b3651e02056b7b0b19ed2b37a89729a7e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0018"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn part A of Annex I to Directive 2009/28/EC, the following is inserted in the table after the entry for France:\n\n| ‘Croatia | 12,6 % | 20 %’ |\n| --- | --- | --- |",
+      "text_sha256": "01cb7777ba360ec5031466bcb8c35e2bad305342b2039d0aba8e3b2bb96978c0",
+      "md_span": {
+        "start": 684,
+        "end": 858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall adopt and publish, by the date of accession of Croatia to the Union at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.\n\nThey shall apply those provisions from the date of accession of Croatia to the Union.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "eb79de7f4bfc5efc71fdcf8403eccde9add970ac9df50f910f34eddc4fcc4aee",
+      "md_span": {
+        "start": 891,
+        "end": 1667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force subject to and as from the date of the entry into force of the Treaty of Accession of Croatia.",
+      "text_sha256": "737c9ea311fa56a39869d68e5e56be4be697fcb3f901a154b7b5006caacb2aa8",
+      "md_span": {
+        "start": 1700,
+        "end": 1843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 1876,
+        "end": 1936
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255",
+  "language": "fr",
+  "title": "Loi du 23 décembre 2016 relative aux abus de marché.",
+  "valid_from": "2018-03-05",
+  "valid_to": "2026-04-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-12-23-n15/versions/2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255/fr.xml",
+    "sha256": "2eee9e23598358148b32e11c88b86c34de7b54d44a185ee0c8150b97ad505cc3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/consolide/20180305/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_1er/20161231",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions.",
+      "path": [
+        "**Chapitre 1er** — **Définitions**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Aux fins de la présente loi, on entend par:\n\n1. règlement (UE) n° 596/2014 directive 2003/6/CE directives 2003/124/CE 2003/125/CE 2004/72/CE règlement (UE) n° 596/2014\n2. er règlement (UE) n° 596/2014\n3. er règlement (UE) n° 596/2014\n4. «Etat membre»: un Etat membre de l’Union européenne. Sont assimilés aux Etats membres de l’Union européenne les Etats parties à l’Accord sur l’Espace économique européen autres que les Etats membres de l’Union européenne, dans les limites définies par cet accord et les actes y afférents;\n5. er règlement (UE) n° 596/2014\n6. er règlement (UE) n° 596/2014\n7. er directive 2014/65/UE directive 2002/92/CE directive 2011/61/UE directive 2014/65/UE\n8. er directive 2014/65/UE\n9. «pays tiers»: un Etat qui n’est pas un Etat membre;\n10. er loi modifiée du 23 décembre 1998\n11. er directive 2014/65/UE\n12. règlement (UE) n° 596/2014\n13. règlement (UE) n° 1227/2011\n14. directive 2012/30/UE\n15. directive 2014/65/UE\n16. règlement (UE) n° 596/2014\n17. er directive 2014/65/UE\n18. er directive 2014/65/UE",
+      "text_sha256": "aaf6706f917c4e8efa6a821d3b61a1edd6557609976f00209d928fd07a59ff24",
+      "md_span": {
+        "start": 667,
+        "end": 1698
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_2/20161231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Champ d’application.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Le champ d’application du présent chapitre est déterminé par les articles 2, 5 et 6 du règlement (UE) n° 596/2014.",
+      "text_sha256": "2e6f14bff8ae6494a40e94a3d6074e192aff2904267fdbcbc0c8724d6e4262c3",
+      "md_span": {
+        "start": 1824,
+        "end": 1938
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_3/20161231",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Autorité compétente.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La CSSF est l’autorité compétente au Luxembourg aux fins du règlement (UE) n° 596/2014 et des mesures prises pour son exécution.\n\n**(2)** La CSSF veille à l’application des dispositions du règlement (UE) n° 596/2014 en ce qui concerne l’ensemble des actions réalisées au Luxembourg et les actions réalisées à l’étranger se rapportant à des instruments:\n\n1. admis à la négociation sur un marché réglementé opérant au Luxembourg;\n2. pour lesquels une demande d’admission à la négociation sur un tel marché a été introduite;\n3. mis aux enchères sur une plate-forme d’enchères opérant au Luxembourg;\n4. négociés sur un MTF opérant au Luxembourg;\n5. négociés sur un OTF opérant au Luxembourg; ou\n6. pour lesquels une demande d’admission à la négociation sur un MTF opérant au Luxembourg a été présentée.\n\n**(3)** La CSSF est l’autorité compétente pour la coopération internationale et l’échange d’informations conformément aux dispositions de la présente loi et du règlement (UE) n° 596/2014.",
+      "text_sha256": "f6c01c4b4f91cd3c50a6e94b941e9692675e209ad3ff1f207c6ccb89d86550f0",
+      "md_span": {
+        "start": 1994,
+        "end": 2989
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_4/20161231",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Pouvoirs de la CSSF.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Aux fins de l’application du règlement (UE) n° 596/2014 et de la présente loi, la CSSF est investie de tous les pouvoirs de surveillance et d’enquête nécessaires à l’exercice de ses fonctions dans les limites définies par ledit règlement et par la présente loi.\n\nLes pouvoirs de la CSSF incluent le droit:\n\n1. d’avoir accès à tout document et à toute donnée, sous quelque forme que ce soit, et d’en recevoir ou prendre copie;\n2. d’exiger des informations de toute personne ou de leur en demander, y compris des personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi que des mandants de celles-ci, et, si nécessaire, de convoquer une personne et de l’interroger afin d’obtenir des informations;\n3. en ce qui concerne les instruments dérivés sur matières premières, de demander des informations aux participants au marché opérant sur les marchés au comptant qui leur sont liés selon des formats standards, d’obtenir des rapports sur des transactions et d’avoir un accès direct aux systèmes des opérateurs;\n4. de procéder à des inspections sur place, y compris de saisir tout document, fichier électronique ou autre chose qui paraît utile à la manifestation de la vérité, auprès des personnes soumises à sa surveillance prudentielle et des émetteurs et, sous réserve de l’autorisation judiciaire prévue à l’article 5, auprès de toute autre personne physique ou morale;\n5. de transmettre des informations au Procureur d’Etat en vue de poursuites pénales;\n6. d’exiger la communication des enregistrements téléphoniques, des communications électroniques ou des enregistrements de données relatives au trafic détenus par des personnes soumises à sa surveillance prudentielle;\n7. règlement (UE) n° 596/2014\n8. règlement (UE) n° 596/2014\n9. de suspendre la négociation des instruments financiers concernés;\n10. de requérir le gel ou la mise sous séquestre d’actifs auprès du Président du tribunal d’arrondissement de et à Luxembourg statuant sur requête;\n11. de prononcer l’interdiction temporaire d’exercice d’activité professionnelle dans le secteur financier à l’encontre des personnes soumises à sa surveillance prudentielle, ainsi que des membres de leur organe d’administration, de gestion ou de surveillance;\n12. de prendre des mesures en vue d’assurer la bonne information du public, entre autres des mesures visant à corriger des informations fausses ou trompeuses qui ont été divulguées et d’exiger d’un émetteur ou de toute autre personne ayant publié ou diffusé des informations fausses ou trompeuses de publier un communiqué rectificatif;\n13. règlement (UE) n° 596/2014\n14. règlement (UE) n° 596/2014\n\n**(2)** Le paragraphe 1er s’applique sans préjudice des dispositions légales sur le secret professionnel.\n\n**(3)** Toute personne qui met des informations à la disposition de la CSSF conformément au règlement (UE) n° 596/2014 ou à la présente loi n’est pas considérée comme violant une quelconque restriction à la divulgation d’informations requise en vertu d’un contrat ou d’une disposition législative, réglementaire ou administrative, et cela n’entraîne, pour la personne concernée, aucune responsabilité quelle qu’elle soit relative à cette notification.\n\n**(4)** En application de l’article 17, paragraphe 4, alinéa 3, du règlement (UE) n° 596/2014, l’enregistrement des explications prévues audit alinéa ne doit être présenté que sur demande de la CSSF.",
+      "text_sha256": "84cebf92f2747079a1d1b65d9fc9cb207a2682ffb286b6d64179c04945e65622",
+      "md_span": {
+        "start": 3045,
+        "end": 6488
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_5/20161231",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Autorisation judiciaire.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sans préjudice de l’article 6, paragraphe 1er, alinéa 1, la CSSF n’exerce les pouvoirs prévus à l’article 4, paragraphe 1er, point 4, à l’égard des personnes qui ne sont ni des personnes soumises à la surveillance prudentielle de la CSSF ni des émetteurs et les pouvoirs prévus à l’article 4, paragraphe 1er, point 7, qu’après autorisation préalable par ordonnance du juge d’instruction près le tribunal d’arrondissement de et à Luxembourg. L’ordonnance est rendue sur requête sur la demande motivée de la CSSF. Le juge d’instruction directeur ou en cas d’empêchement le magistrat qui le remplace désigne, pour chaque requête de la CSSF, le juge qui en sera chargé.\n\n**(2)** Le juge d’instruction vérifie que la demande motivée de la CSSF qui lui est soumise est justifiée et proportionnée au but recherché. La demande comporte tous les éléments d’information de nature à justifier l’autorisation demandée. Pour les inspections sur place, le juge d’instruction désigne un ou plusieurs membres du Service de Police Judiciaire, dont obligatoirement un membre ayant la qualité d’officier de police judiciaire, chargés d’assister les agents de la CSSF lors de l’inspection sur place.\n\n**(3)** L’ordonnance visée au paragraphe 1er est susceptible des voies de recours comme en matière d’ordonnances du juge d’instruction. Les voies de recours ne sont pas suspensives.",
+      "text_sha256": "286293a8a5c5b11e377136eb1a1d7251252a1321c4b3f6b5cd8c45d26c84cf21",
+      "md_span": {
+        "start": 6548,
+        "end": 7918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_6/20161231",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Inspections sur place.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Les inspections sur place par la CSSF auprès de personnes qui ne sont ni des personnes soumises à la surveillance prudentielle de la CSSF ni des émetteurs ne peuvent être effectuées sans l’assentiment exprès de la personne chez laquelle l’inspection a lieu, sauf autorisation judiciaire préalable conformément à l’article 5.\n\nLes inspections sur place auprès de personnes qui ne sont pas des personnes soumises à la surveillance prudentielle de la CSSF ni des émetteurs et pour lesquelles aucun assentiment exprès n’a été obtenu s’effectuent conformément aux dispositions du présent article.\n\n**(2)** La personne visée par l’inspection sur place de la CSSF et son conseil peuvent assister à l’inspection; ils en reçoivent avis la veille, avec indication, sous peine de nullité de l’objet de l’inspection et de son but. Exceptionnellement, lorsqu’il y a lieu de craindre la disparition imminente d’éléments dont la constatation et l’examen semblent utiles à la manifestation de la vérité, les agents de la CSSF et les membres du Service de Police Judiciaire chargés de les assister procèdent d’urgence à ces opérations sans que les intéressés doivent y être appelés. Ils dressent un procès-verbal de leurs opérations. Si, en raison de l’urgence, les intéressés n’ont pas été appelés, le motif en est indiqué dans le procès-verbal.\n\n**(3)** Les inspections sur place sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la manifestation de la vérité. Le juge d’instruction en donne préalablement avis au Procureur d’Etat. Les inspections sur place ne peuvent, à peine de nullité, être commencées avant six heures et demie ni après vingt heures.\n\nLors de l’inspection sur place les agents de la CSSF et les membres du Service de Police Judiciaire chargés de les assister veillent au respect du droit commun de la procédure pénale applicable aux saisies et perquisitions et à l’application des règles légales applicables aux mesures d’instruction et d’inspection pour les professions soumises à une loi qui leur est propre.\n\n**(4)** Les documents, fichiers électroniques et autres choses saisis sont inventoriés dans le procès-verbal. Si leur inventaire sur place présente des difficultés, ils font l’objet de scellés jusqu’au moment de leur inventaire, en présence des personnes qui ont assisté à l’inspection sur place. La CSSF reçoit immédiatement ou, le cas échéant, prend copie de tous les documents et fichiers électroniques saisis. Les originaux des documents, les fichiers électroniques et les autres choses saisis sont déposés au greffe ou confiés à un gardien de saisie ou à la CSSF. Les dispositions de la procédure pénale relatives aux saisies s’appliquent.\n\n**(5)** Le procès-verbal des inspections sur place est signé par la personne chez laquelle l’inspection a eu lieu et par les personnes qui y ont assisté. En cas de refus de signer, le procès-verbal en fait mention. Il leur est laissé copie du procès-verbal. Copie du procès-verbal est adressée au juge d’instruction qui a délivré l’ordonnance et à la personne visée par l’inspection.",
+      "text_sha256": "17fc8b9aeab532e71c49778bb643aa606a37657d3a40cc771a9c6bbd0cf8a8da",
+      "md_span": {
+        "start": 7976,
+        "end": 11084
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_7/20161231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Coopération entre la CSSF et le Procureur d’Etat.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La CSSF coopère avec le Procureur d’Etat pour la répression administrative ou pénale des violations ou des infractions aux dispositions du règlement (UE) n° 596/2014 ou de la présente loi et des mesures prises pour leur exécution. A cette fin, la CSSF, le Procureur d’Etat et le Service de Police Judiciaire peuvent échanger toute information qu’ils jugent utile ou nécessaire.\n\n**(2)** Si des indices peuvent justifier l’ouverture par la CSSF d’une procédure administrative susceptible d’aboutir à l’imposition d’une sanction administrative pour violation de l’article 14 ou 15 du règlement (UE) n° 596/2014, elle en informe le Procureur d’Etat. Le Procureur d’Etat décide endéans deux semaines de la réception de cette information s’il exerce l’action publique, et donne avis de sa décision à la CSSF.\n\nSi le Procureur d’Etat décide de poursuivre, la CSSF ne procède pas. En cas de décision négative ou en l’absence d’une réponse du Procureur d’Etat après le délai de deux semaines, la CSSF procède.\n\nLorsqu’au cours de la procédure la CSSF constate l’existence d’indices que les personnes suspectées sont susceptibles d’avoir contrevenu aux dispositions du chapitre 3, elle se dessaisit du dossier et le transmet au Procureur d’Etat pour poursuite de l’enquête.\n\nSi le Procureur d’Etat estime au cours de son enquête et avant qu’il ne cite à comparaître que les conditions prévues au chapitre 3 ne sont pas remplies mais que l’article 12 est susceptible de s’appliquer, il transmet le dossier à la CSSF pour poursuivre la procédure.\n\n**(3)** Lorsque le Procureur d’Etat est saisi sur base d’une plainte de faits susceptibles de constituer une infraction aux dispositions du chapitre 3 et qu’il décide d’exercer l’action publique, il en informe la CSSF. Dans ce cas, la CSSF ne procède pas. Si le Procureur d’Etat décide de ne pas poursuivre, la CSSF procède.\n\nSi le Procureur d’Etat estime au cours de son enquête et avant qu’il ne cite à comparaître que les conditions prévues au chapitre 3 ne sont pas remplies mais que l’article 12 est susceptible de s’appliquer, il transmet le dossier à la CSSF pour poursuivre la procédure.",
+      "text_sha256": "9c195d5bebaccb139d9861c6a45adcf06d3e6108616f94366d2f3117013dc915",
+      "md_span": {
+        "start": 11169,
+        "end": 13309
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_8/20161231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Signalement des violations.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La CSSF met en place des mécanismes efficaces pour permettre le signalement des violations potentielles ou réelles du règlement (UE) n° 596/2014 à la CSSF. Les mécanismes en question obéissent aux dispositions de l’annexe de la présente loi.\n\n**(2)** Les employeurs exerçant des activités réglementées par la réglementation relative aux services financiers mettent en place des procédures internes appropriées permettant à leur personnel de signaler toute violation du règlement (UE) n° 596/2014.",
+      "text_sha256": "dca4f666d9e75d3a2f2f45e2f72c8ab67ede55e1b758788cf8ed724d0bb3c4f5",
+      "md_span": {
+        "start": 13372,
+        "end": 13876
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_9/20161231",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Confidentialité des notifications à la CSSF.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sauf disposition légale contraire, il est interdit aux personnes qui procèdent à une notification à la CSSF en vertu de l’article 16, paragraphe 1er ou 2, du règlement (UE) n° 596/2014 d’en informer les tiers, y compris les personnes pour le compte desquelles les opérations ont été effectuées ou les parties liées à ces personnes.\n\n**(2)** La CSSF s’abstient d’informer quiconque de l’identité des personnes qui ont effectué des notifications à la CSSF en vertu de l’article 16, paragraphe 1er ou 2, du règlement (UE) n° 596/2014 si en le faisant, elle nuit ou risque de nuire à ces personnes. Cette disposition est sans préjudice des exigences des régimes de contrôle d’application et de sanctions définies dans le règlement (UE) n° 596/2014, la présente loi et la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.",
+      "text_sha256": "0928033b7870fe0a4db999fbf1e43187032d1950f4c241a6542810c45604005a",
+      "md_span": {
+        "start": 13956,
+        "end": 14856
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_10/20161231",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Coopération avec les autorités compétentes des Etats membres.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La CSSF coopère avec les autorités compétentes des autres Etats membres, ainsi qu’avec les autres organismes visés à l’article 25 du règlement (UE) n° 596/2014 dans les limites prévues par ledit article et en faisant usage des pouvoirs qui lui sont conférés par la loi.\n\n**(2)** Lorsque la CSSF coopère avec les autorités compétentes d’autres Etats membres en vue de faciliter le recouvrement des sanctions pécuniaires, les frais de recouvrement autres que ceux liés au fonctionnement de la CSSF sont à charge de l’autorité requérante.\n\n**(3)** Sans préjudice des obligations lui incombant dans le cadre de procédures judiciaires à caractère pénal, la CSSF peut uniquement utiliser les informations reçues au titre du présent article ou du règlement (UE) n° 596/2014 pour l’exercice de ses fonctions telles que définies dans la présente loi et dans le cadre de procédures administratives ou judiciaires spécifiquement liées à cet exercice. Toutefois, si l’autorité compétente communiquant l’information y consent, la CSSF peut utiliser l’information reçue à d’autres fins ou la transmettre à une autorité compétente étrangère.\n\n**(4)** Conformément à l’article 25, paragraphe 6, du règlement (UE) n° 596/2014, la CSSF peut demander à une autorité compétente étrangère de mener une enquête ou une inspection sur place sur le territoire de l’autorité compétente en question. Elle peut demander à l’autorité compétente étrangère de pouvoir participer directement par l’intermédiaire de ses agents à l’enquête ou à l’inspection sur place.",
+      "text_sha256": "04fd7531f0dd54e5ff3744163b30319c6db6251deef76c5e02fec3f28603ae92",
+      "md_span": {
+        "start": 14955,
+        "end": 16497
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_11/20161231",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Coopération avec les autorités de surveillance de pays tiers.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La CSSF coopère avec les autorités de surveillance de pays tiers lorsque cela est nécessaire à l’accomplissement de leur mission respective et aux fins de l’application du règlement (UE) n° 596/2014, dans les limites prévues par ledit règlement et par la présente loi et en faisant usage des pouvoirs qui lui sont conférés par la loi. La CSSF prête son concours aux autorités de surveillance de pays tiers notamment en échangeant des informations et en coopérant dans le cadre d’enquêtes.\n\n**(2)** La CSSF communique immédiatement, sur demande, toute information requise aux fins visées au paragraphe 1er. Lorsque la CSSF reçoit une demande d’information, elle prend le cas échéant immédiatement les mesures nécessaires pour recueillir l’information demandée. Si la CSSF n’est pas en mesure de fournir immédiatement l’information demandée, elle en notifie les raisons à l’autorité de surveillance qui a présenté la demande.\n\n**(3)** La communication d’informations par la CSSF à une autorité de surveillance d’un pays tiers est soumise aux conditions suivantes:\n\n1. les informations communiquées sont nécessaires à l’accomplissement de la mission de l’autorité de surveillance qui les reçoit;\n2. les informations communiquées tombent sous le secret professionnel de l’autorité de surveillance qui les reçoit. Le secret professionnel de cette autorité offre des garanties au moins équivalentes au secret professionnel auquel la CSSF est soumise;\n3. l’autorité de surveillance qui reçoit des informations de la part de la CSSF ne peut les utiliser qu’aux fins pour lesquelles elles lui ont été communiquées et est en mesure d’assurer qu’aucun autre usage n’en sera fait.\n\nPar ailleurs, la CSSF peut refuser de donner suite à une demande d’informations émanant d’une autorité de surveillance d’un pays tiers lorsque:\n\n1. la communication de l’information concernée est susceptible de porter atteinte à la souveraineté, à la sécurité ou à l’ordre public de l’Etat luxembourgeois;\n2. une procédure judiciaire est déjà engagée pour les mêmes faits et à l’encontre des mêmes personnes devant les tribunaux luxembourgeois;\n3. ces personnes ont déjà été définitivement jugées pour les mêmes faits au Luxembourg; ou\n4. cette autorité n’accorde pas le même droit d’information à la CSSF.\n\nDans les cas visés à l’alinéa 2, points 2 et 3, la CSSF le notifie à l’autorité de surveillance qui a présenté la demande en lui fournissant des informations aussi circonstanciées que possible sur la procédure ou le jugement en question.\n\n**(4)** Sans préjudice des obligations lui incombant dans le cadre de procédures judiciaires à caractère pénal, la CSSF peut uniquement utiliser les informations reçues au titre du présent article pour l’exercice de ses fonctions telles que définies dans la présente loi et dans le cadre de procédures administratives ou judiciaires spécifiquement liées à cet exercice. Toutefois, si l’autorité de surveillance du pays tiers communiquant l’information y consent, la CSSF peut utiliser l’information reçue à d’autres fins ou la transmettre à une autorité compétente ou une autorité de surveillance d’un pays tiers.\n\n**(5)** Lorsque la CSSF a la conviction que des actes enfreignant les dispositions du règlement (UE) n° 596/2014 sont ou ont été accomplis dans un pays tiers, ou que des actes accomplis au Luxembourg portent atteinte à des instruments financiers négociés sur un marché opérant dans un pays tiers et pour lequel des dispositions et interdictions en matière d’abus de marché similaires aux exigences du règlement (UE) n° 596/2014 sont prévues, elle en informe l’autorité de surveillance du pays tiers concerné d’une manière aussi détaillée que possible.\n\n**(6)** Lorsque la CSSF est informée par une autorité de surveillance d’un pays tiers que des actes enfreignant les lois étrangères en matière d’abus de marché sont ou ont été accomplis au Luxembourg, ou que des actes accomplis dans un pays tiers portent atteinte à des instruments financiers négociés sur une plate-forme de négociation située ou opérant au Luxembourg, la CSSF prend les mesures appropriées. Elle communique à l’autorité de surveillance qui l’a informée les résultats de son intervention et, dans la mesure du possible, l’informe des principaux développements provisoires de son action.\n\nLa CSSF se concerte avec les autorités de surveillance des pays tiers sur le suivi qu’il est proposé de donner à son action.\n\n**(7)** La CSSF peut demander à une autorité de surveillance d’un pays tiers de mener une enquête ou une inspection sur place sur le territoire de l’autorité de surveillance en question. Elle peut demander à l’autorité de surveillance en question de pouvoir participer directement par l’intermédiaire de ses agents à l’enquête ou à l’inspection sur place.\n\n**(8)** Lorsque la CSSF reçoit une demande de la part d’une autorité de surveillance d’un pays tiers de mener une enquête ou une inspection sur place au Luxembourg, elle donne une suite favorable à cette demande sous réserve des dispositions du paragraphe 9. Elle peut autoriser, sur demande, certains agents de l’autorité requérante à l’accompagner lors de l’enquête ou de l’inspection sur place. Cependant, l’enquête ou l’inspection sur place est intégralement placée sous le contrôle de la CSSF.\n\n**(9)** La CSSF peut refuser de procéder à une enquête ou à une inspection sur place au titre d’une demande présentée par une autorité de surveillance d’un pays tiers ou peut ne pas autoriser les agents de l’autorité de surveillance requérante à l’accompagner, lorsque:\n\n1. cette enquête ou inspection sur place est susceptible de porter atteinte à la souveraineté, à la sécurité ou à l’ordre public de l’Etat luxembourgeois;\n2. une procédure judiciaire est déjà engagée au Luxembourg pour les mêmes faits et à l’encontre des mêmes personnes;\n3. ces personnes ont déjà été définitivement jugées pour les mêmes faits au Luxembourg;\n4. l’autorité requérante n’accorde pas le même droit à la CSSF; ou\n5. le secret professionnel de l’autorité requérante n’offre pas des garanties au moins équivalentes au secret professionnel auquel la CSSF est soumise.\n\nDans les cas visés à l’alinéa 1, points 2 et 3, la CSSF le notifie à l’autorité de surveillance qui a présenté la demande en lui fournissant des informations aussi circonstanciées que possible sur la procédure ou le jugement concernés.",
+      "text_sha256": "a546d335a270281a9b4d97b022c6672a5c6a6e8eadf2a9ea3ee5f04feffd5687",
+      "md_span": {
+        "start": 16596,
+        "end": 22963
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_12/20161231",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Sanctions administratives et autres mesures administratives.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sans préjudice de toute sanction pénale et des pouvoirs de la CSSF au titre de l’article 4, la CSSF a le pouvoir de prendre les sanctions administratives et autres mesures administratives appropriées en ce qui concerne les violations suivantes:\n\n1. er er er er er règlement (UE) n° 596/2014\n2. règlement (UE) n° 596/2014\n3. er\n\n**(2)** En cas de violation d’un des articles visés au paragraphe 1er, point 1, la CSSF a le pouvoir d’infliger les sanctions administratives suivantes et de prendre les mesures administratives suivantes:\n\n1. une injonction ordonnant à la personne responsable de la violation de mettre un terme au comportement en cause et de s’abstenir de le réitérer;\n2. la restitution de l’avantage retiré de cette violation ou des pertes qu’elle a permis d’éviter, si ceux-ci peuvent être déterminés;\n3. un avertissement public indiquant la personne responsable de la violation et la nature de la violation;\n4. le retrait ou la suspension de l’agrément d’une personne soumise à la surveillance prudentielle de la CSSF;\n5. l’interdiction provisoire, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’une personne soumise à la surveillance prudentielle de la CSSF. L’interdiction provisoire ne peut dépasser un terme de cinq ans;\n6. règlement (UE) n° 596/2014\n7. l’interdiction provisoire pour un terme ne dépassant pas cinq ans, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, de négocier pour leur propre compte;\n8. requérir la suspension ou l’exclusion d’une personne en tant que membre ou participant d’une plate-forme de négociation;\n9. des amendes administratives d’un montant maximal de dix fois le montant de l’avantage retiré de la violation ou des pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés;\n10. 1. règlement (UE) n° 596/2014\n2. règlement (UE) n° 596/2014\n3. règlement (UE) n° 596/2014\n11. 1. règlement (UE) n° 596/2014\n2. règlement (UE) n° 596/2014\n3. règlement (UE) n° 596/2014\n\nAux fins de l’alinéa 1, point 11, lettres a) et b), lorsque la personne morale est une entreprise mère ou une filiale qui est tenue d’établir des comptes consolidés en vertu de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant conformément aux directives comptables pertinentes, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime. Pour les banques il s’agit de la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers et pour les entreprises d’assurance il s’agit de la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d’assurance.\n\n**(3)** Lorsque la CSSF constate une violation des dispositions visées au paragraphe 1er, point 2 ou 3, la CSSF peut infliger à l’égard de la personne à laquelle la violation est imputable une amende d’ordre de 250 à 250.000 euros.\n\n**(4)** La CSSF peut prononcer une amende d’ordre de 250 à 250.000 euros contre ceux qui font obstacle à l’exercice de ses pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 4, paragraphe 1er, point 8, qui lui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 4, paragraphe 1er, point 1, 2, 3, 6 ou 7 ou qui ne se conforment pas aux exigences de la CSSF basées sur l’article 4, paragraphe 1er, point 12 ou 14.\n\n**(5)** Les frais exposés pour le recouvrement forcé des amendes administratives sont à charge des personnes auxquelles ces amendes ont été infligées.",
+      "text_sha256": "fa2e5bc955f511dcba1338f1aecb98a193e1c50043f5bcfcfb82fb8f5cb520a8",
+      "md_span": {
+        "start": 23061,
+        "end": 27379
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2013/34/jo",
+          "text": "directive 2013/34/UE"
+        },
+        {
+          "href": "/eli/dir_ue/1986/635/jo",
+          "text": "directive 86/635/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/1991/674/jo",
+          "text": "directive 91/674/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_13/20161231",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Exercice des pouvoirs de surveillance et de sanction.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Au moment de déterminer le type et le niveau des sanctions administratives, la CSSF tient compte de l’ensemble des circonstances pertinentes, y compris, le cas échéant:\n\n1. de la gravité et de la durée de la violation;\n2. du degré de responsabilité de la personne responsable de la violation;\n3. de l’assise financière de la personne responsable de la violation, telle qu’elle ressort, par exemple, du chiffre d’affaires total de la personne morale ou des revenus annuels de la personne physique;\n4. de l’importance des gains obtenus ou des pertes évitées par la personne responsable de la violation, dans la mesure où ils peuvent être déterminés;\n5. du degré de coopération de la personne responsable de la violation avec la CSSF, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne;\n6. des violations commises précédemment par la personne responsable de la violation; et\n7. des mesures prises par la personne responsable de la violation pour éviter sa répétition.",
+      "text_sha256": "baf45538ea1a742ebdb18cb992c351d7ff507ed0a42bc4801a316bf071aaa438",
+      "md_span": {
+        "start": 27470,
+        "end": 28501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_14/20161231",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Publication des décisions de la CSSF.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La CSSF veille à ce que toute décision publiée conformément à l’article 34 du règlement (UE) n° 596/2014 demeure disponible sur son site internet pendant une période de cinq ans après sa publication.\n\nLes données à caractère personnel contenues dans les publications visées à l’alinéa 1 ne sont maintenues sur le site internet de la CSSF que pendant une période maximale de 12 mois.",
+      "text_sha256": "90593d8ea86e29a5a21eb6f144cc178ac606e89903b37421c2ca717cfe832f44",
+      "md_span": {
+        "start": 28576,
+        "end": 28958
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_15/20161231",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Recours administratifs.",
+      "path": [
+        "**Chapitre 2** — **Répression administrative des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Un recours en pleine juridiction est ouvert devant le Tribunal administratif à l’encontre des décisions de la CSSF prises dans le cadre de la présente loi.",
+      "text_sha256": "23fa677bbc4f52f5e510ff3b8f31170b5811507b2ade63937d8fd16c74e204fe",
+      "md_span": {
+        "start": 29019,
+        "end": 29174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_16/20161231",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Champ d’application.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Le présent chapitre s’applique:\n\n1. aux instruments financiers admis à la négociation sur un marché réglementé ou faisant l’objet d’une demande d’admission à la négociation sur un marché réglementé;\n2. aux instruments financiers négociés sur un MTF, admis à la négociation sur un MTF ou faisant l’objet d’une demande d’admission à la négociation sur un MTF;\n3. aux instruments financiers négociés sur un OTF;\n4. aux instruments financiers non visés au point 1, 2 ou 3, dont le cours ou la valeur dépend du cours ou de la valeur d’un instrument financier visé auxdits points ou qui a un effet sur ce cours ou cette valeur, y compris, sans s’y limiter, aux contrats d’échange sur risque de crédit ou aux contrats financiers pour différences.\n\nLe présent chapitre s’applique également aux comportements ou aux transactions, y compris les offres, qui se rapportent à la mise aux enchères sur une plate-forme d’enchères agréée en tant que marché réglementé de quotas d’émission ou d’autres produits mis aux enchères qui sont basés sur ces derniers, y compris lorsque les produits mis aux enchères ne sont pas des instruments financiers, en vertu du règlement (UE) n° 1031/2010 de la Commission du 12 novembre 2010 relatif au calendrier, à la gestion et aux autres aspects de la mise aux enchères des quotas d’émission de gaz à effet de serre conformément à la directive 2003/87/CE du Parlement européen et du Conseil établissant un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté, dénommé ci-après «règlement (UE) n° 1031/2010». Sans préjudice des dispositions spécifiques relatives aux offres présentées dans le cadre d’une mise aux enchères, toute disposition du présent chapitre faisant référence aux ordres s’applique également à ces offres.\n\n**(2)** Le présent chapitre ne s’applique pas:\n\n1. er règlement (UE) n° 596/2014\n2. règlement (UE) n° 596/2014\n3. er règlement (UE) n° 596/2014\n\n**(3)** Les articles 23 et 24 s’appliquent également:\n\n1. er\n2. aux types d’instruments financiers, y compris les contrats dérivés ou les instruments dérivés servant au transfert du risque de crédit, pour lesquels la transaction, l’ordre, l’offre ou le comportement a un effet sur le cours ou la valeur d’un contrat au comptant sur matières premières lorsque le cours ou la valeur dépendent du cours ou de la valeur de ces instruments financiers;\n3. aux comportements liés aux indices de référence.\n\n**(4)** Le présent chapitre s’applique à toute transaction, ordre ou comportement concernant tout instrument financier visé aux paragraphes 1er et 3, indépendamment du fait que cette transaction, cet ordre ou ce comportement ait lieu ou non sur une plate-forme de négociation.",
+      "text_sha256": "8d1ec41948755fabefa3a68a53adca6fe1ba4ffbd0e6e7aa59308558f6b2a368",
+      "md_span": {
+        "start": 29294,
+        "end": 31999
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2010/1031/jo",
+          "text": "règlement (UE) n° 1031/2010"
+        },
+        {
+          "href": "/eli/dir_ue/2003/87/jo",
+          "text": "directive 2003/87/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_17/20161231",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Opération d’initié.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Constitue une opération d’initié le fait pour une personne détenant des informations privilégiées d’en faire usage lors de l’acquisition ou de la cession, pour son propre compte ou pour le compte d’un tiers, directement ou indirectement, d’instruments financiers auxquels ces informations se rapportent.\n\n**(2)** Constitue également une opération d’initié l’utilisation d’informations privilégiées pour annuler ou pour modifier un ordre concernant un instrument financier auquel ces informations se rapportent, lorsque l’ordre a été passé avant que la personne concernée ne détienne les informations privilégiées.\n\n**(3)** Pour les mises aux enchères de quotas d’émission ou d’autres produits mis aux enchères qui sont basés sur ces derniers, organisées en vertu du règlement (UE) n° 1031/2010, l’utilisation d’informations privilégiées visée au paragraphe 2 englobe également la proposition, la modification ou le retrait d’une offre par une personne pour son propre compte ou pour le compte d’un tiers.\n\n**(4)** Constitue également une opération d’initié le fait de recourir aux recommandations ou aux incitations visées à l’article 19, lorsque la personne qui y recourt sait qu’elles sont basées sur des informations privilégiées.\n\n**(5)** Le présent article s’applique à toute personne qui détient des informations privilégiées parce qu’elle:\n\n1. est membre des organes d’administration, de gestion ou de surveillance de l’émetteur ou du participant au marché des quotas d’émission;\n2. détient une participation dans le capital de l’émetteur ou du participant au marché des quotas d’émission;\n3. a accès aux informations grâce à l’exercice de tâches résultant d’un emploi, d’une profession ou de fonctions; ou\n4. participe à des activités criminelles.\n\nLe présent article s’applique également à toute personne qui a obtenu des informations privilégiées dans des circonstances autres que celles visées à l’alinéa 1, lorsque cette personne sait qu’il s’agit d’informations privilégiées.\n\n**(6)** Aux fins du présent article, il ne doit pas être considéré que le simple fait qu’une personne détient ou a détenu des informations privilégiées signifie que cette personne a utilisé ces informations et a donc effectué une opération d’initié sur la base d’une acquisition ou d’une cession, si son comportement peut être considéré comme légitime au sens de l’article 9 du règlement (UE) n° 596/2014.",
+      "text_sha256": "66b67f19141842ed73083ab2f03438510ebc85fbe99010feaf2b6f0758bd5825",
+      "md_span": {
+        "start": 32056,
+        "end": 34459
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2010/1031/jo",
+          "text": "règlement (UE) n° 1031/2010"
+        },
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_18/20161231",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Sanctions applicables à l’opération d’initié.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Les personnes visées à l’article 17, paragraphe 5, qui ont commis une opération d’initié prévue à l’article 17, avec la volonté de procurer, à soi-même ou à autrui, à l’aide de tout moyen frauduleux, un bénéfice illicite, même indirect, sont punies d’un emprisonnement de trois mois à quatre ans et d’une amende de 251 à 5.000.000 euros, ou de l’une de ces peines seulement, lorsqu’il s’agit de personnes physiques. Lorsqu’il s’agit de personnes morales, les faits sont punis d’une amende de 500 à 15.000.000 euros.\n\nLes amendes visées à l’alinéa 1 peuvent être portées jusqu’au décuple du montant du profit réalisé, sans qu’elles ne puissent être inférieures à ce même profit.\n\nLa tentative de commettre l’infraction visée à l’alinéa 1 sera punie des mêmes peines.",
+      "text_sha256": "82d2d99fc7c61b17923f596d13f937bc33424a346c6f5d2ba8460fef89e257c9",
+      "md_span": {
+        "start": 34542,
+        "end": 35307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_19/20161231",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Fait de recommander à une autre personne ou de l’inciter à effectuer une opération d’initié.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Il est interdit à toute personne visée à l’article 17, paragraphe 5, de recommander à une autre personne d’effectuer une opération d’initié, ou d’inciter une autre personne à effectuer une opération d’initié.\n\n**(2)** Aux fins du paragraphe 1er, le fait de recommander à une autre personne d’effectuer une opération d’initié ou d’inciter une autre personne à effectuer une opération d’initié, survient lorsque la personne dispose d’informations privilégiées et\n\n1. recommande, sur la base de ces informations, qu’une autre personne acquière ou cède des instruments financiers auxquels ces informations se rapportent, ou incite cette personne à procéder à une telle acquisition ou à une telle cession; ou\n2. recommande, sur la base de ces informations, qu’une autre personne annule ou modifie un ordre concernant un instrument financier auquel ces informations se rapportent, ou incite cette personne à procéder à une telle annulation ou à une telle modification.",
+      "text_sha256": "bda21d6812dd32f39e7bc45f423c98e15a905c15cb6613f3ba55302569993db2",
+      "md_span": {
+        "start": 35437,
+        "end": 36407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_20/20161231",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Sanctions applicables au fait de recommander à une autre personne ou de l’inciter à effectuer une opération d’initié.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Les personnes qui ont violé l’interdiction prévue par l’article 19 avec la volonté de procurer, à soi-même ou à autrui, à l’aide de tout moyen frauduleux, un bénéfice illicite, même indirect, sont punies d’un emprisonnement de trois mois à quatre ans et d’une amende de 251 à 5.000.000 euros, ou de l’une de ces peines seulement, lorsqu’il s’agit de personnes physiques. Lorsqu’il s’agit de personnes morales, les faits sont punis d’une amende de 500 à 15.000.000 euros.\n\nLes amendes visées à l’alinéa 1 peuvent être portées jusqu’au décuple du montant du profit réalisé, sans qu’elles ne puissent être inférieures à ce même profit.",
+      "text_sha256": "ff4420ce105c0ad6f49e20e994cbc3111477b4f7376fbc54bbe7f8d6fb299e19",
+      "md_span": {
+        "start": 36562,
+        "end": 37194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_21/20161231",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Divulgation illicite d’informations privilégiées.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Constitue une divulgation illicite d’informations privilégiées le fait pour une personne détenant des informations privilégiées de divulguer ces informations à toute autre personne, sauf lorsque la divulgation s’effectue dans l’exercice normal de son travail, de sa profession ou de ses fonctions, y compris lorsqu’elle relève d’un sondage de marché effectué conformément à l’article 11, paragraphes 1er à 8, du règlement (UE) n° 596/2014.\n\n**(2)** Le présent article s’applique à toute personne se trouvant dans les situations ou les circonstances visées à l’article 17, paragraphe 5.\n\n**(3)** Constitue également une divulgation illicite d’informations privilégiées la divulgation ultérieure des recommandations ou incitations visées à l’article 19, si la personne qui divulgue la recommandation ou l’incitation sait qu’elle est basée sur des informations privilégiées.",
+      "text_sha256": "1c84abefcf7a43be7db41f07a184fec32e4a72bdb90d233e6ff7fdb8f03cc180",
+      "md_span": {
+        "start": 37281,
+        "end": 38160
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_22/20161231",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Sanctions applicables à la divulgation illicite d’informations privilégiées.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Les personnes qui ont commis une divulgation illicite d’informations privilégiées prévue à l’article 21 avec la volonté de procurer, à soi-même ou à autrui, à l’aide de tout moyen frauduleux, un bénéfice illicite, même indirect, sont punies d’un emprisonnement de huit jours à deux ans et d’une amende de 251 à 500.000 euros, ou de l’une de ces peines seulement, lorsqu’il s’agit de personnes physiques. Lorsqu’il s’agit de personnes morales, les faits sont punis d’une amende de 500 à 1.500.000 euros.",
+      "text_sha256": "c1b3a7bfb529a2267e59331227ddb3f919d4dcc70a01fe30e8a1af448aedb2c7",
+      "md_span": {
+        "start": 38274,
+        "end": 38776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_23/20161231",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Manipulation de marché.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Constitue une manipulation de marché le fait:\n\n1. 1. donne des indications fausses ou trompeuses sur l’offre, la demande ou le cours d’un instrument financier ou d’un contrat au comptant sur matières premières qui lui est lié; ou\n2. fixe à un niveau anormal ou artificiel le cours d’un ou de plusieurs instruments financiers ou d’un contrat au comptant sur matières premières qui leur est lié; sauf si les raisons pour lesquelles la personne qui a effectué la transaction ou passé l’ordre sont légitimes et que cette transaction ou cet ordre sont conformes aux pratiques de marché admises sur la plate-forme de négociation concernée;\n2. d’effectuer une transaction, de passer un ordre, d’exercer toute autre activité ou d’adopter tout autre comportement affectant le cours d’un ou de plusieurs instruments financiers ou d’un contrat au comptant sur matières premières qui leur est lié, en ayant recours à des procédés fictifs ou à toute autre forme de tromperie ou d’artifice;\n3. de diffuser des informations, par l’intermédiaire des médias, dont l’internet, ou par tout autre moyen, qui donnent des indications fausses ou trompeuses quant à l’offre, la demande ou le cours d’un instrument financier ou d’un contrat au comptant sur matières premières qui lui est lié, ou qui fixent le cours d’un ou de plusieurs instruments financiers ou d’un contrat au comptant sur matières premières qui leur est lié à un niveau anormal ou artificiel, lorsque les personnes qui ont diffusé les informations tirent, pour elles-mêmes ou pour une autre personne, un avantage ou un profit de la diffusion des informations en question; ou\n4. de transmettre des informations fausses ou trompeuses, ou de fournir des données fausses ou trompeuses, ou d’adopter tout autre comportement constituant une manipulation du calcul d’un indice de référence.",
+      "text_sha256": "bea50fe4838345544d971ad5978b9fbebda20c187e06d71b3e1c6b893a8b0fb9",
+      "md_span": {
+        "start": 38837,
+        "end": 40665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_24/20180305",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Sanctions applicables à la manipulation de marché.",
+      "path": [
+        "**Chapitre 3** — **Répression pénale des abus de marché**"
+      ],
+      "article_valid_from": "2018-03-05",
+      "text_md": "Les personnes qui ont commis une manipulation de marché prévue à l’article 23 avec la volonté de procurer, à soi-même ou à autrui, à l’aide de tout moyen frauduleux, un bénéfice illicite, même indirect, sont punies d’un emprisonnement de trois mois à quatre ans et d’une amende de 251 à 5.000.000 euros, ou de l’une de ces peines seulement, lorsqu’il s’agit de personnes physiques. Lorsqu’il s’agit de personnes morales, les faits sont punis d’une amende de 500 à 15.000.000 euros.\n\nLa tentative de commettre l’infraction visée à l’alinéa 1 sera punie des mêmes peines.",
+      "text_sha256": "9a10c872283288fb989aa88408e95d245537494e30bc125deb70c1846b8ddba7",
+      "md_span": {
+        "start": 40753,
+        "end": 41322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_25/20161231",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Dispositions modificatives.",
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "A l’article 1er, point 10, de la loi modifiée du 11 janvier 2008 relative aux obligations de transparence des émetteurs, les mots en vertu de l’article 6 de la directive 2003/6/CE du Parlement européen et du Conseil du 28 janvier 2003 sur les opérations d’initiés et les manipulations de marché sont remplacés par les mots en vertu des articles 17 et 19 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission.",
+      "text_sha256": "f52f92db681b356778d507895a02af623d4108583c6684cf395ece29dd9b273d",
+      "md_span": {
+        "start": 41433,
+        "end": 42078
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/01/11/n1/jo",
+          "text": "loi modifiée du 11 janvier 2008"
+        },
+        {
+          "href": "/eli/dir_ue/2003/6/jo",
+          "text": "directive 2003/6/CE"
+        },
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        },
+        {
+          "href": "/eli/dir_ue/2003/124/jo",
+          "text": "directives 2003/124/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2003/125/jo",
+          "text": "2003/125/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2004/72/jo",
+          "text": "2004/72/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_26/20161231",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Dispositions abrogatoires.",
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La loi modifiée du 9 mai 2006 relative aux abus de marché est abrogée.",
+      "text_sha256": "fdbc1e03336504ad7518e94152a5807795bbcbb1f84a24c152981f04ee746bd5",
+      "md_span": {
+        "start": 42142,
+        "end": 42212
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/05/09/n1/jo",
+          "text": "loi modifiée du 9 mai 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_27/20161231",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Dispositions transitoires.",
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Les références dans la présente loi à la directive 2014/65/UE s’entendent, avant le 3 janvier 2018, comme faites à la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du Conseil et abrogeant la directive 93/22/CEE du Conseil, dénommée ci-après «directive 2004/39/CE», conformément au tableau de correspondance figurant à l’annexe IV de la directive 2014/65/UE dans la mesure où ce tableau de correspondance contient des dispositions faisant référence à la directive 2004/39/CE.\n\nLes dispositions de la présente loi ne s’appliquent qu’à partir du 3 janvier 2018 aux OTF, aux quotas d’émission ou aux produits mis aux enchères basés sur ces derniers.",
+      "text_sha256": "55a92b5645743b2b7b107f3acefcd6e1034efb3d1dd5295a2eb3d4f391455be8",
+      "md_span": {
+        "start": 42276,
+        "end": 43095
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2014/65/jo",
+          "text": "directive 2014/65/UE"
+        },
+        {
+          "href": "/eli/dir_ue/2004/39/jo",
+          "text": "directive 2004/39/CE"
+        },
+        {
+          "href": "/eli/dir_ue/1985/611/jo",
+          "text": "directives 85/611/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/1993/6/jo",
+          "text": "93/6/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/2000/12/jo",
+          "text": "directive 2000/12/CE"
+        },
+        {
+          "href": "/eli/dir_ue/1993/22/jo",
+          "text": "directive 93/22/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/art_28/20161231",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Référence sous forme abrégée.",
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «loi du 23 décembre 2016 relative aux abus de marché».",
+      "text_sha256": "51438f5f9cc8501d236b0ca98098b38f3d0dc0f1ced17c9893594c1cc418c6e3",
+      "md_span": {
+        "start": 43162,
+        "end": 43319
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n15/jo",
+          "text": "loi du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2016-12-23-n15:2018-03-05--7b61e99fdae62758c814b7ae4d9e23f38a8a0122830d5691ce9a236cdf48e255#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**I. Objet**\n\nLes sections II à XII définissent les règles précisant les mécanismes visés à l’article 8, paragraphe 1er, pour permettre le signalement des violations potentielles ou réelles du règlement (UE) n° 596/2014 à la CSSF.\n\n**II. Définitions **\n\nAux fins de la présente annexe, on entend par:\n\n1. règlement (UE) n° 596/2014\n2. règlement (UE) n° 596/2014\n3. règlement (UE) n° 596/2014\n\n**III. Membres du personnel spécialisés**\n\n**(1)** La CSSF affecte des membres de son personnel spécialisés, dénommés ci-après «membres du personnel spécialisés», au traitement des signalements des violations. Les membres du personnel spécialisés sont formés à cette fin.\n\n**(2)** Les membres du personnel spécialisés exercent les fonctions suivantes:\n\n1. communication à toute personne intéressée d’informations au sujet des procédures de signalement des violations;\n2. réception et suivi des signalements des violations;\n3. maintien des contacts avec l’informateur lorsque celui-ci a révélé son identité.\n\n**IV. Informations concernant la réception des signalements des violations et de leur suivi**\n\n**(1)** La CSSF publie dans une section distincte, aisément identifiable et accessible de son site internet les informations concernant la réception des signalements des violations énumérées au paragraphe 2.\n\n**(2)** Les informations visées au paragraphe 1er se composent de l’ensemble des éléments suivants:\n\n1. er 1. les numéros de téléphone, en indiquant si les conversations passant par ces lignes téléphoniques sont enregistrées ou non;\n2. les adresses électroniques et postales spécifiques, sécurisées et garantissant la confidentialité, permettant de contacter les membres du personnel spécialisés;\n2. les procédures applicables aux signalements des violations visées à la section V;\n3. les règles de confidentialité applicables aux signalements des violations conformément aux procédures applicables à ceux-ci visées à la section V;\n4. les procédures de protection des salariés;\n5. règlement (UE) n° 596/2014\n\n**(3)** La CSSF peut publier sur son site internet des informations plus détaillées au sujet de la réception et du suivi des signalements visés au paragraphe 2.\n\n**V. Procédures applicables aux signalements des violations**\n\n**(1)** Les procédures applicables aux signalements des violations visées à la section IV, paragraphe 2, point 2, indiquent clairement:\n\n1. la possibilité de signaler des violations de manière anonyme;\n2. la façon dont la CSSF peut demander à l’informateur de clarifier les informations communiquées ou de fournir des informations supplémentaires dont il a connaissance;\n3. le type et le contenu du retour d’informations au sujet des résultats du signalement de violation qui sera transmis à l’informateur après le signalement, et les délais dans lesquels il devrait être transmis;\n4. règlement (UE) n° 596/2014\n\n**(2)** La description détaillée visée au paragraphe 1er, point 4, garantit que l’informateur est conscient des cas exceptionnels dans lesquels la confidentialité des données peut ne pas être garantie, notamment lorsque la divulgation de données est imposée par la législation luxembourgeoise ou de l’Union européenne dans le cadre d’enquêtes ou de procédures judiciaires engagées ultérieurement, ou afin de garantir les libertés d’autres personnes, notamment les droits de la défense de la personne faisant l’objet d’un signalement, sous réserve en tout cas des garanties appropriées prévues dans ces dispositions légales.\n\n**VI. Canaux de communication**\n\n**(1)** La CSSF met en place des canaux de communication indépendants et autonomes, sûrs et garantissant la confidentialité, pour la réception et le suivi des signalements des violations.\n\n**(2)** Ces canaux de communication sont considérés comme indépendants et autonomes pour autant qu’ils respectent l’ensemble des critères suivants:\n\n1. ils sont distincts des canaux de communication généraux de la CSSF, notamment de ceux utilisés par la CSSF pour la communication en interne et avec des tiers dans le cadre de ses activités habituelles;\n2. ils sont élaborés, mis en place et gérés de façon à garantir l’exhaustivité, l’intégrité et la confidentialité des informations et à empêcher l’accès à ces informations par des membres du personnel de la CSSF non autorisés;\n3. ils permettent le stockage d’informations durables conformément à la section VII afin de permettre de nouvelles enquêtes.\n\n**(3)** Ces canaux de communication permettent de signaler les violations potentielles ou réelles de toutes les façons suivantes, au minimum:\n\n1. signalement par écrit des violations, au format électronique ou papier;\n2. signalement oral des violations, par téléphone, avec enregistrement ou non;\n3. rencontre en personne avec des membres du personnel spécialisés de la CSSF.\n\n**(4)** La CSSF communique les informations visées à la section IV, paragraphe 2, à l’informateur avant réception du signalement de violation, ou au plus tard au moment de la réception.\n\n**(5)** Elle veille également à ce qu’un signalement de violation reçu par l’intermédiaire d’autres canaux que les canaux de communication visés au paragraphe 1er soit rapidement transféré, sans aucune modification, aux membres du personnel spécialisés de la CSSF par les canaux de communication visés au paragraphe 1er.\n\n**VII. Tenue de registres des signalements reçus**\n\n**(1)** La CSSF tient un registre de tous les signalements de violations reçus conformément au règlement (UE) n° 596/2014 et à la présente loi.\n\n**(2)** La CSSF envoie rapidement un accusé de réception des signalements des violations écrits, à l’adresse postale ou électronique indiquée par l’informateur, sauf demande contraire explicite de celui-ci ou au cas où la CSSF a des motifs raisonnables de croire qu’accuser réception d’un signalement écrit compromettrait la protection de l’identité de l’informateur.\n\n**(3)** Lorsque l’enregistrement d’un appel est utilisé pour le signalement de violations, la CSSF a le droit de consigner le signalement oral sous la forme:\n\n1. d’un enregistrement audio de la conversation sur un support durable permettant l’accès aux informations; ou\n2. d’une transcription complète et précise de la conversation, réalisée par les membres du personnel spécialisés de la CSSF. Dans le cas où l’informateur a révélé son identité, la CSSF lui donne la possibilité de vérifier, de rectifier et d’approuver la transcription de l’appel par l’apposition de sa signature.\n\n**(4)** Lorsqu’une ligne téléphonique non enregistrée est utilisée pour le signalement de violations, la CSSF a le droit de consigner le signalement oral sous la forme d’un compte-rendu précis de la conversation réalisé par les membres du personnel spécialisés de la CSSF. Dans le cas où l’informateur a révélé son identité, la CSSF lui donne la possibilité de vérifier, de rectifier et d’approuver le compte-rendu de l’appel par l’apposition de sa signature.\n\n**(5)** Lorsqu’une personne demande une rencontre en personne avec les membres du personnel spécialisés de la CSSF afin de signaler une violation en vertu de la section VI, paragraphe 3, point 3, la CSSF veille à ce qu’un compte-rendu complet et précis de la rencontre soit conservé sous une forme durable permettant l’accès aux informations. Elle a le droit de consigner la rencontre en personne sous la forme:\n\n1. d’un enregistrement audio de la conversation sur un support durable permettant l’accès aux informations; ou\n2. d’un compte-rendu précis de la rencontre réalisé par les membres du personnel spécialisés de la CSSF. Dans le cas où l’informateur a révélé son identité, la CSSF lui donne la possibilité de vérifier, de rectifier et d’approuver le compte-rendu de la rencontre par l’apposition de sa signature.\n\n**VIII. Protection des salariés**\n\n**(1)** La CSSF et l’Inspection du Travail et des Mines échangent des informations et coopèrent pour la protection des salariés qui signalent des violations du règlement (UE) n° 596/2014 à la CSSF, ou sont accusés d’avoir commis de telles violations, contre les représailles, la discrimination ou d’autres types de traitement inéquitable auxquels ils pourraient être exposés à la suite du signalement des violations du règlement (UE) n° 596/2014 ou en lien avec celui-ci.\n\n**(2)** La CSSF et l’Inspection du Travail et des Mines se dotent de procédures communes précisant l’échange d’informations et la coopération visés au paragraphe 1er et garantissant au moins que:\n\n1. les informateurs ont accès à des informations et des recommandations détaillées sur les recours et procédures prévus par la législation luxembourgeoise pour les protéger contre tout traitement inéquitable, notamment sur les procédures de demande d’une indemnisation financière;\n2. la CSSF fournit aux informateurs une assistance devant toute autre autorité pertinente jouant un rôle dans la protection de ces derniers contre tout traitement inéquitable, notamment en certifiant le statut d’informateur de la personne dans le cadre de conflits du travail.\n\n**IX. Procédures de protection des données à caractère personnel**\n\n**(1)** La CSSF conserve les registres visés à la section VII au sein d’un système sécurisé et confidentiel.\n\n**(2)** L’accès au système visé au paragraphe 1er est soumis à des restrictions afin de garantir que les données qui y sont conservées soient uniquement accessibles aux membres du personnel de la CSSF qui ont besoin de ces données dans l’exercice de leurs fonctions.\n\n**X. Transmission des données au sein et en dehors de la CSSF**\n\n**(1)** La CSSF dispose de procédures adéquates pour la transmission, en son sein et à des tiers, des données à caractère personnel de l’informateur et de la personne faisant l’objet d’un signalement.\n\n**(2)** La CSSF veille également à ce que la transmission en son sein ou vers l’extérieur des données relatives au signalement d’une violation ne révèle pas, directement ou indirectement, l’identité de l’informateur ou de la personne faisant l’objet d’un signalement, ou toute autre référence à des circonstances qui permettrait de déduire l’identité de ces personnes, à moins qu’une telle transmission ne soit conforme aux règles de confidentialité visées à la section V, paragraphe 1er, point 4.\n\n**XI. Procédures pour la protection des personnes faisant l’objet d’un signalement**\n\n**(1)** Lorsque l’identité des personnes faisant l’objet d’un signalement est inconnue du public, leur identité est protégée au moins de la même façon que l’identité des personnes faisant l’objet d’une enquête de la CSSF.\n\n**(2)** Les procédures établies à la section IX s’appliquent également à la protection de l’identité des personnes faisant l’objet d’un signalement.\n\n**XII. Révision des procédures par les autorités compétentes**\n\nLa CSSF révise ses procédures pour la réception des signalements des violations et leur suivi de manière régulière, au minimum une fois tous les deux ans. Lors de la révision de ces procédures, la CSSF tient compte de son expérience ainsi que de celle d’autres autorités compétentes et adapte ses procédures en conséquence et conformément aux évolutions du marché et des technologies.",
+      "text_sha256": "de66a5cfaba96e0c12932ee40e6cd0a9c9dd3cf89907f26e52684e55eb5c8dfd",
+      "md_span": {
+        "start": 43360,
+        "end": 54468
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/596/jo",
+          "text": "règlement (UE) n° 596/2014"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea",
+  "language": "fr",
+  "title": "Council Directive 2013/61/EU of 17\u00A0December 2013 amending Directives 2006/112/EC and 2008/…",
+  "valid_from": "2013-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0061/versions/2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea/fr.xml",
+    "sha256": "d13f0cca0bb4e6ba163beedd4bc6f2ba0c7bc421ced541a04ad96ca4e6f2a0d9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0061"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 6, paragraphe 1, de la directive 2006/112/CE, le point c) est remplacé par le texte suivant:\n\n| «c) | les territoires français visés à l'article 349 et à l'article 355, paragraphe 1, du traité sur le fonctionnement de l'Union européenne;». |\n| --- | --- |",
+      "text_sha256": "8e7446a194c9bce6bc26b1d44db5c62f7f02d029bdfeb35bed6a129b8839c4b2",
+      "md_span": {
+        "start": 702,
+        "end": 986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nL'article 5 de la directive 2008/118/CE est modifié comme suit:\n\n| 1) | Au paragraphe 2, le point b) est remplacé par le texte suivant:«(b)les territoires français visés à l'article 349 et à l'article 355, paragraphe 1, du traité sur le fonctionnement de l'Union européenne;». |\n| --- | --- |\n| «(b) | les territoires français visés à l'article 349 et à l'article 355, paragraphe 1, du traité sur le fonctionnement de l'Union européenne;». |\n\n| 2) | Le paragraphe 5 est remplacé par le texte suivant:«La France peut notifier, par une déclaration, que la présente directive et les directives visées à l'article 1er s'appliquent aux territoires visés au paragraphe 2, point b), — sous réserve de mesures d'adaptation à la situation d'ultrapériphéricité de ces territoires — pour l'ensemble ou certains des produits soumis à accise visés à l'article 1er, à partir du premier jour du deuxième mois suivant le dépôt de cette déclaration.». |\n| --- | --- |",
+      "text_sha256": "a71c0ef0ddcc132ac425e3c8696dd52c71c1dd3ddf979633821c3ea6a6beef96",
+      "md_span": {
+        "start": 1019,
+        "end": 1980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avec effet au 1er janvier 2014. Ils communiquent à la Commission le texte de ces dispositions avant le 1er janvier 2015.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "c126708048411200a73d762b3c8a238869a88945b45ea31b520731c81a9408a7",
+      "md_span": {
+        "start": 2013,
+        "end": 2738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa présente directive entre en vigueur le 1er janvier 2014.",
+      "text_sha256": "89685cb271f5abb1f92f1fd0aaea17b4dc0bb285d4db218a945936c4d21d2e00",
+      "md_span": {
+        "start": 2771,
+        "end": 2841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17--70df68024ce07a58f80a2adbb182bb5a514e9ad719aa8bcf362e9c4d524e31ea#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "d262bf068f985c2f9fbd6d3529e6c955709d83fa74b232a89d98dfc32026f00e",
+      "md_span": {
+        "start": 2874,
+        "end": 2947
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No\u00A0183/2014 of 20\u00A0December 2013 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-07-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0183/versions/2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22/en.html",
+    "sha256": "04413ca550ba2ea85973f1482759cfaf87ffba8c73aa93faf3595254714379d0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0183-20220711"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Identification of General and Specific Credit Risk Adjustments for the purposes of Articles 111, 159, 166, 167, 168, 178, 246 and 266 of Regulation (EU) No 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of this Regulation, the amounts required to be included in the calculation of general and specific credit risk adjustments by an institution shall be equal to all amounts by which an institution’s Common Equity Tier 1 capital has been reduced in order to reflect losses exclusively related to credit risk according to the applicable accounting framework and recognised as such in the profit or loss account, irrespective of whether they result from impairments, value adjustments or provisions for off-balance sheet items.\n\nAny amounts resulting pursuant to the first subparagraph which have been recognised during the financial year, may only be included in the calculation of general and specific credit risk adjustments if the respective amounts have been deducted from an institution’s Common Equity Tier 1 capital, either in accordance with Article 36(1) of Regulation (EU) No 575/2013, or, in the event of interim profits or year-end profits that have not been approved in accordance with Article 26(2) of that Regulation, by way of a corresponding immediate reduction in Common Equity Tier 1 capital for the determination of own funds.\n\n**2.** The amounts referred to in paragraph 1 shall be included in the calculation of general credit risk adjustments by the institution (General Credit Risk Adjustments) where they fulfil both of the following criteria:(a) they are freely and fully available, as regards to timing and amount, to meet credit risk losses that have not yet materialised;(b) they reflect credit risk losses for a group of exposures for which the institution has currently no evidence that a loss event has occurred.\n\n**3.** All other amounts referred to in paragraph 1 shall be included in the calculation of specific credit risk adjustments (Specific Credit Risk Adjustments).\n\n**4.** Subject to meeting the criteria of Paragraph 2, the institution shall include the following losses in the calculation of General Credit Risk Adjustments:(a) losses recognised to cover higher average portfolio loss experience over the last years although there is currently no evidence of loss events supporting these loss level observed in the past;(b) losses for which the institution is not aware of a credit deterioration for a group of exposures but where some degree of non-payment is statistically probable based on past experience.\n\n**5.** The institution shall always include the following losses in the calculation of Specific Credit Risk Adjustments referred to in Paragraph 3:(a) losses recognised in the profit or loss account for instruments measured at fair value that represent credit risk impairment under the applicable accounting framework;(b) losses as a result of current or past events affecting a significant individual exposure or exposures that are not individually significant which are individually or collectively assessed;(c) losses for which historical experience, adjusted on the basis of current observable data, indicates that the loss has occurred but the institution is not yet aware which individual exposure has suffered these losses.\n\n**6.** Without prejudice to paragraph 1, when calculating the specific credit risk adjustments for the purposes of assigning the risk weights referred to in Article 127(1), points (a) and (b), of Regulation (EU) No 575/2013 to the unsecured part of a defaulted exposure, institutions shall include any positive difference between the amount owed by the obligor on that exposure and the sum of the following:(a) the additional own funds reduction if that exposure was written-off fully;(b) any already existing own funds reductions related to that exposure.",
+      "text_sha256": "5045245901c9cdefe7bc69acbe41ee1f94764eafb01dbc377e44f64c09de6fea",
+      "md_span": {
+        "start": 901,
+        "end": 4564
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0954",
+          "text": "32022R0954: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0183",
+          "text": "32014R0183"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Assigning Specific Credit Risk Adjustments for a group of exposures to the exposures within the group",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a Specific Credit Risk Adjustment reflects losses related to the credit risk of a group of exposures, institutions shall assign that Specific Credit Risk Adjustment to all single exposures of that group proportionally to the risk-weighted exposure amounts. For that purpose, the exposure values shall be determined without taking into account any Specific Credit Risk Adjustments.\n\n**2.** For the treatment of expected loss amounts referred to in Article 159 of Regulation (EU) No 575/2013 for a group of non-defaulted exposures, institutions shall not be required to assign a Specific Credit Risk Adjustment to the single exposures of the group.\n\n**3.** Where a Specific Credit Risk Adjustment relates to a group of exposures the credit risk own funds requirements of which are calculated partially under the Standardised Approach and partially under the Internal Ratings Based Approach, the institution shall assign that Specific Credit Risk Adjustment to the group of exposures covered by each of the Approaches proportionally to the risk weighted exposure amounts of the group before applying the actions referred to in paragraphs 1 and 2. For that purpose, the exposure values shall be determined without taking into account any Specific Credit Risk Adjustments.\n\n**4.** When assigning the Specific Credit Risk Adjustments to exposures, institutions shall ensure that the same portion is not assigned twice to different exposures.",
+      "text_sha256": "3fc61cb0b71d2f9c0c3d8d8c1fd8bf8ced33876f5b0b0295045c682e13cc685c",
+      "md_span": {
+        "start": 4705,
+        "end": 6153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Calculation credit risk adjustments for the purpose of determining the exposure value according to Articles 111, 166, 167, 168, 246 and 266 of Regulation (EU) No 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of determining the exposure value according to Articles 111, 166 to168, 246 and 266 of Regulation (EU) No 575/2013, institutions shall calculate Specific Credit Risk Adjustments related to an exposure as the amounts of Specific Credit Risk Adjustments for that single exposure, or as the amounts of Specific Credit Risk Adjustments that the institution has assigned to that exposure according to Article 2.",
+      "text_sha256": "3170656933132463d4e2c61768409beac242b133a0b0d18ba5ee2112c3904a5d",
+      "md_span": {
+        "start": 6363,
+        "end": 6786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Calculation of general and specific credit risk adjustments for the purposes of the treatment of expected loss amounts according to Article 159 of Regulation (EU) No 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of the treatment of expected loss amounts according to Article 159 of Regulation (EU) No 575/2013, the institution shall calculate the total General Credit Risk Adjustments related to the exposures included in the treatment of expected loss amounts as the sum of those amounts, identified as General Credit Risk Adjustments according to Article 1 of this Regulation, that the institution has assigned pursuant to Article 110(3) of Regulation (EU) No 575/2013.\n\n**2.** For the purposes of the treatment of expected loss amounts according to Article 159 of Regulation (EU) No 575/2013, the calculation of total Specific Credit Risk Adjustments related to the exposures included in the treatment of expected loss amounts shall be the sum of the amounts of points (a) and (b), excluding exposures in default:(a) amounts identified as Specific Credit Risk Adjustments according to Article 1 which are related to the credit risk of a single exposure;(b) amounts identified as Specific Credit Risk Adjustments according to Article 1 which are related to the credit risk of a group of exposures and which have been assigned according to Article 2.\n\n**3.** The total Specific Credit Risk Adjustments related to an exposure in default shall be calculated as the sum of all amounts of Specific Credit Risk Adjustments for that single exposure, or as the amounts of Specific Credit Risk Adjustments that the institution has assigned to that exposure according to Article 2.",
+      "text_sha256": "dbd38389e30e960a5d36f3c307b4787e9659a350e13dcde2891e8659ea34b501",
+      "md_span": {
+        "start": 7000,
+        "end": 8485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Calculation of Specific Credit Risk Adjustments for own funds requirements for the purposes of the determination of default according to Article 178 of Regulation (EU) No 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of determining default according to Article 178 of Regulation (EU) No 575/2013, Specific Credit Risk Adjustments shall be calculated as the amounts of Specific Credit Risk Adjustments related to the credit risk of a single exposure or single obligor.",
+      "text_sha256": "a47f1d49697f1fa6d970da503cd4d49668fb948426a53489e3dd668395955e40",
+      "md_span": {
+        "start": 8704,
+        "end": 8971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Documentation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Institutions shall document the identification and calculation of General Credit Risk Adjustments and Specific Credit Risk Adjustments.",
+      "text_sha256": "c314d59eff65ba6f0f08bec818a0e10ac1b84923756d41d56f2d5de282f8654c",
+      "md_span": {
+        "start": 9024,
+        "end": 9159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0183:2022-07-11--484fda7c8d67029d0d8b72e3790f52be8550cbd879bb2447c5645aa82a5b0b22#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 9215,
+        "end": 9357
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

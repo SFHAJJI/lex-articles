@@ -1,0 +1,256 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/10/2022 : Règlement grand-ducal du 23 mai 2022 concernant la réglementation de la circulation sur la grande voirie et les aires de service.",
+  "valid_from": "2022-10-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-05-23-a281/versions/2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9/fr.xml",
+    "sha256": "5144a9363d6d4bb52b7d61e1559c14697bfe8a84470547583b338aafa399a989",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_1er/20220617",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Sans préjudice des dispositions de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques en ce qui concerne la circulation sur les autoroutes et les routes pour véhicules automoteurs, qui font partie intégrante de la grande voirie en vertu de l’article 5 de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques, les dispositions du présent règlement s’appliquent aux autoroutes, aux routes pour véhicules automoteurs ainsi qu’à la voirie ouverte à la circulation publique sur les aires de service de Wasserbillig (autoroute A1), de Berchem (autoroute A3), de Pontpierre (autoroute A4) et de Capellen (autoroute A6).",
+      "text_sha256": "9141a0caa066895dd035c031b852dd84b8f02b79f384278e007afc3025b24cbb",
+      "md_span": {
+        "start": 734,
+        "end": 1471
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1955/11/23/n1/jo",
+          "text": "arrêté grand-ducal modifié du 23 novembre 1955"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi modifiée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_2/20220617",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Au sens du présent règlement, les termes ci-après ont les significations suivantes :\n\n*conducteur *: tout conducteur d’un véhicule admis à circuler sur les autoroutes et les routes pour véhicules automoteurs conformément aux articles 156 et 156*ter* de l’arrêté grand-ducal précité du 23 novembre 1955, à moins qu’il n’en soit spécifié autrement ;\n\n*aire de service *: aire de ravitaillement et de repos ouverte à la circulation publique et aménagée en bordure d’autoroute et comprenant notamment une zone d’approche, des voies de circulation, des parkings et des établissements à caractère commercial ;\n\n*zone d’approche *: voie d’accès à l’aire de service située dans le prolongement de la voie de décélération ou, le cas échéant, dans le prolongement de la bretelle de sortie de l’autoroute ;\n\n*voie voitures *: voie de circulation réservée à la circulation des véhicules automoteurs autres que les autocars et les camions ; toutefois, les véhicules des fournisseurs des établissements à caractère commercial sont autorisés à y circuler ;\n\n*voie camions *: voie de circulation réservée à la circulation des camions et des autocars ; toutefois, les véhicules des fournisseurs des établissements à caractère commercial sont autorisés à y circuler ;\n\n*voie mixte *: voie de circulation ouverte à la circulation des véhicules automoteurs ;\n\n*voirie d’accès par la voirie normale* : voirie reliant la voirie normale à une aire, ouverte à la circulation des véhicules automoteurs ;\n\n*parking voitures *: parking réservé aux véhicules automoteurs dont la masse maximale autorisée ne dépasse pas 3,5 tonnes ;\n\n*parking caravanes *: parking réservé aux caravanes, aux camping-cars, aux autocaravanes et aux voitures avec une remorque ;\n\n*parking autocars *: parking réservé aux autocars ;\n\n*parking camions *: parking réservé aux camions ;\n\n*zone d’approvisionnement voitures et caravanes *: zone réservée à la circulation et à l’arrêt des véhicules automoteurs autres que les camions et les autocars, en vue de leur approvisionnement en carburant ;\n\n*zone d’approvisionnement camions et autocars *: zone réservée à la circulation et à l’arrêt des camions et autocars, en vue de leur approvisionnement en carburant.",
+      "text_sha256": "35478c4f98522c4205fbd6d3c20414791b91170083603538dd9b59fd09806024",
+      "md_span": {
+        "start": 1506,
+        "end": 3715
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1955/11/23/n1/jo",
+          "text": "arrêté grand-ducal précité du 23 novembre 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_3/20220617",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Les dispositions suivantes sont applicables sur les autoroutes et les routes pour véhicules automoteurs :\n\n1. Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre.\n2. Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre et complété par un panneau additionnel du modèle 1 portant le symbole du véhicule automoteur destiné au transport de choses avec l’inscription de « 3,5t » sur la silhouette du véhicule.\n3. arrêté grand-ducal modifié précité du 23 novembre 1955 Cette disposition est indiquée par le signal B,1.\n4. - en présence d’un îlot médian séparant la bretelle d’accès de la bretelle de sortie, les conducteurs doivent, le cas échéant, contourner celui-ci conformément au signal en place ;\n- un passage pour piétons est aménagé, le cas échéant, à l’intersection avec la voirie normale ;\n- lorsque l’accès à la bretelle se fait par deux branches de voies distinctes, les conducteurs qui accèdent par la branche de droite dans le sens de la circulation doivent céder le passage aux conducteurs qui accèdent par la branche de gauche ;\n- lorsque deux bretelles d’accès se rejoignent en amont de l’autoroute, les conducteurs qui circulent sur la bretelle qui débouche dans l’autre bretelle doivent céder le passage aux conducteurs qui circulent sur celle-ci ;\n- lorsque deux bretelles d’accès se rejoignent en amont de la chaussée de l’autoroute, les conducteurs qui circulent sur ces bretelles doivent suivre les directions indiquées par les signaux en place. Ces dispositions sont indiquées respectivement par les signaux D,2, E,11a, B,1 et D,1a portant l’indication de la ou les directions à suivre.\n5. arrêté grand-ducal modifié précité - sur l’autoroute A6, échangeur Windhof, en direction de Luxembourg-ville ;\n- sur l’autoroute A6, échangeur Mamer, en direction de Luxembourg-ville ;\n- sur l’autoroute A6, échangeur Bridel, en direction de Luxembourg-ville ;\n- sur l’autoroute A6, échangeur Strassen, en direction de Luxembourg-ville.\n6. - à l’intersection avec la voirie normale, les conducteurs qui circulent sur la bretelle doivent céder le passage aux conducteurs de véhicules et d’animaux qui circulent dans les deux sens sur la voirie normale et, le cas échéant, lorsque les conditions de visibilité sont réduites, marquer l’arrêt et céder le passage à ces derniers ;\n- un passage pour piétons est aménagé, le cas échéant, à l’intersection avec la voirie normale ;\n- l’accès à la bretelle est interdit aux conducteurs à partir de la voirie normale ou, le cas échéant, à partir de la zone d’approche d’une aire de service en direction de la chaussée de l’autoroute. Ces dispositions sont indiquées respectivement par les signaux B,1, B,2a, E,11a et C,1a.\n7. - à 70 km/h sur les voies de décélération menant vers les aires de service et, le cas échéant, sur les bretelles de sortie menant vers les aires de service ;\n- Cette disposition est indiquée par le signal C,14 portant le chiffre « 70 », complété par un panneau additionnel du modèle 1 portant le symbole du véhicule automoteur destiné au transport de choses avec l’inscription « 7,5 t » sur la silhouette du véhicule et par un panneau additionnel du modèle 3b avec l’inscription « ↑ 2 km ↑ » ;\n- aux vitesses telles que reprises à l’annexe 3, qui fait partie intégrante du présent règlement, aux endroits y indiqués. Ces dispositions sont indiquées par le signal C,14 portant le chiffre de la vitesse maximale limitée.\n8. Cette interdiction est indiquée par le signal C,13aa.",
+      "text_sha256": "9114c25ec6d8115fdd1ff26d328644eb41c9e262c2200b5aec513e78958d86b1",
+      "md_span": {
+        "start": 3750,
+        "end": 7300
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_4/20220617",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Sur les aires de service et la voirie reliant la voirie étatique aux aires de service, les dispositions suivantes sont applicables :\n\n1. - à 50 km/h dans la zone d’approche et la voirie d’accès par la voirie normale ;\n- à 30 km/h sur les voiries publiques à l’exception de la voirie d’accès par la voirie normale et dans les zones autres que la zone d’approche. Ces dispositions sont indiquées par le signal C,14 portant le chiffre de la vitesse maximale limitée.\n2. Cette interdiction est indiquée par le signal C,1a.\n3. Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre.\n4. Cette interdiction est indiquée par le signal C,4a portant les symboles des catégories de véhicules concernées, complété par un panneau additionnel du modèle 5a portant l’inscription « excepté fournisseurs ».\n5. Cette interdiction est indiquée par le signal C,3a, complété par un panneau additionnel du modèle 1 portant le symbole du véhicule automoteur suivi de l’inscription « ≤ 3,5t » et par un panneau additionnel du modèle 5a portant l’inscription « excepté fournisseurs ».\n6. - les sorties des parkings à hauteur du croisement avec les voies pour autocars et camions, les voies mixtes et les voies pour voitures ;\n- les voies voitures à hauteur du croisement avec les voies pour autocars et camions et les voies mixtes ;\n- les voies mixtes à hauteur du croisement avec les voies pour autocars et camions ;\n- les voies mixtes de la branche droite, dans le sens de la circulation, lorsque deux branches de voies mixtes se rejoignent, à hauteur du croisement avec les voies mixtes de la branche gauche ;\n- les voies camions de la branche droite, dans le sens de la circulation, lorsque deux branches de voies camions se rejoignent, à hauteur du croisement avec les voies camions de la branche gauche. Cette disposition est indiquée sur les voies non prioritaires par le signal B,1.\n7. - les voies pour voitures à hauteur du croisement avec les zones d’approvisionnement voitures et caravanes ;\n- les voies mixtes à hauteur du croisement avec les zones d’approvisionnement voitures et caravanes. Cette disposition est indiquée sur les voies non prioritaires par le signal B,2a.\n8. - les voies camions à hauteur du croisement avec les zones d’approvisionnement pour autocars et pour camions. Cette disposition est indiquée sur les voies non prioritaires par le signal B,1.\n9. - Cette disposition est indiquée par le signal D,3 ;\n- Cette disposition est indiquée par le signal B,2a.\n10. arrêté grand-ducal modifié précité\n11. Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.\n12. Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.\n13. Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.\n14. Cette disposition est indiquée par le signal C,19.\n15. Cette disposition est indiquée par le signal C,18.\n16. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté » et « max. 1 h » suivie du symbole des véhicules automoteurs électriques et véhicules automoteurs électriques hybrides, le stationnement est interdit, à l’exception du stationnement des véhicules automoteurs électriques et véhicules automoteurs électriques hybrides raccordés au point de recharge. La durée maximale de stationnement est limitée à 1 heure.\n17. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5b portant l’inscription « excepté handicapés max. 9 h » suivie du symbole du fauteuil roulant, le stationnement est interdit, à l’exception du stationnement des véhicules servant au transport de personnes handicapées à condition qu’ils soient munis d’une carte de stationnement pour personnes handicapées en cours de validité. La durée maximale de stationnement est limitée à 9 heures.\n18. Aux endroits indiqués par le signal C,19 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté autocars », l’arrêt et le stationnement sont interdits, à l’exception de l’arrêt et du stationnement des autocars.",
+      "text_sha256": "ac214adb42a7b3de60c847bb8fe0e7907f9f54f902685a3c7bc8b6ce10a226d2",
+      "md_span": {
+        "start": 7335,
+        "end": 11492
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_5/20220617",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "La pose, l’entretien et la conservation des signaux routiers incombent à l’Administration des Ponts et Chaussées.",
+      "text_sha256": "a7109cc70d514cd94f6b90223feb8499397e389d725688b99cb53db2cff549c8",
+      "md_span": {
+        "start": 11527,
+        "end": 11640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_6/20220617",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Les infractions aux dispositions des articles 3 et 4 sont punies conformément à l’article 7 de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques.",
+      "text_sha256": "e0091ffcfc9215c75ac1ddda916d79629f9385ab41795b9ba67403a6273cd3ee",
+      "md_span": {
+        "start": 11675,
+        "end": 11883
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi modifiée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_7/20220617",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-17",
+      "text_md": "Le règlement grand-ducal modifié du 31 octobre 2008 concernant la réglementation de la circulation sur la grande voirie et les aires de service et le règlement grand-ducal du 5 février 2010 concernant la réglementation de la circulation sur la grande voirie et les aires de service sont abrogés.",
+      "text_sha256": "4eb12ce6eed2e97a5ac16c4ae9bd9c83592dc62a9ab60cc80ba6e8e1118eb93c",
+      "md_span": {
+        "start": 11918,
+        "end": 12213
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/10/31/n7/jo",
+          "text": "règlement grand-ducal modifié du 31 octobre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/05/n3/jo",
+          "text": "règlement grand-ducal du 5 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/art_8/20220617",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-23",
+      "text_md": "Notre ministre ayant les Travaux publics dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "625f5f88cde56b96288493e6e449bf112fac117d7d6a60ea943f88845108ff3e",
+      "md_span": {
+        "start": 12248,
+        "end": 12423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 1. Plans de signalisation des bretelles d’accès et de sortie",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 12525,
+        "end": 12525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 2. Plans de situation des aires de service",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 12609,
+        "end": 12609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 3. Vitesses maximales dérogatoires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La vitesse maximale autorisée est limitée à :\n\n- 50 km/h aux endroits suivants :\n\n| **voie publique** | **localisation du tronçon** | **délimitation du tronçon** |\n| --- | --- | --- |\n| A1 – Bretelle TRS-G | Giratoire Serra en provenance de Luxembourg et en direction du giratoire Schaffner | PK 0,020 – PK 0,800 |\n| A1 – Bretelle T8-T | Giratoire Serra en provenance de Luxembourg et en direction de l’échangeur Sennigerberg | PK 0,810 – PK 1,155 |\n| A1 – Bretelle T8-N | Giratoire Serra en provenance de Luxembourg et en direction de l’A7 | PK 0,420 – PK 0,840 |\n| A1 – Bretelle N-T15 | Échangeur Wasserbillig – Bretelle de sortie en provenance de Luxembourg | PK 0,080 – PK 0,730 |\n| B7 – Bretelle F7-F | Échangeur Schieren – Bretelle d’accès en direction du Friedhof | PK 0,035 – PK 0,305 |\n| B7 – Bretelle N-F8 | Échangeur Ettelbruck – Bretelle de sortie en provenance de Luxembourg | PK 0,000 – PK 0,485 |\n| B7 – Bretelle F-F8 | Échangeur Ettelbruck – Bretelle de sortie en provenance du Friedhof | PK 0,140 – PK 0,345 |\n\n- 70 km/h aux endroits suivants :\n\n| **voie publique** | **localisation du tronçon** | **délimitation du tronçon** |\n| --- | --- | --- |\n| A3 | En provenance du croix de Gasperich et en direction du giratoire Gluck | PK 0,650 – PK 0,100 |\n| A4 | En provenance du croix de Cessange en direction du giratoire de Merl | PK 0,515 – PK 0,000 |\n| A4 | En provenance de la jonction Lankelz en direction du giratoire de Raemerich | PK 15,750 – PK 16,160 |\n| A7 – Bretelle F-N-T8 | Jonction Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction du giratoire Serra | PK 0,185 – PK 1,340 |\n| A7 – Bretelle F-N-G | Jonction Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction du giratoire Schaffner | PK 0,205 – PK 0,480 |\n| A7 – Bretelle F-N-T | Jonction Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction de l’échangeur Sennigerberg | PK 0,220 – PK 0,800 |\n| A7 - Bretelle F2-N | Échangeur Lorentzweiler - Bretelle d’accès en direction de la jonction Grünewald | A7F2-N PR 0,00+060 -A7F2-N PR 0,00+620 |\n| A13 | Jonction Lankelz en provenance de l’échangeur Ehlerange | PK 8,655 – PK 8,760 |\n| A13 | Jonction Lankelz en direction de l’échangeur Ehlerange | PK 8,735 – PK 8,550 |\n| A13 – Bretelle P-L-R | Jonction Lankelz en provenance de l’échangeur Ehlerange | PK 0,200 – PK 0,470 |\n| B4 | En provenance du croix de cessange en direction du giratoire de Merl | PK 0,955 – PK 0,435 |\n| B4 | En provenance de Hollerich en direction du croix de Cessange | PK 0,780 – PK 0,950 |\n| B4A | En provenance de Hollerich en direction du giratoire Merl | PK 0,435 – PK 0,820 |\n| B7 – Bretelle F-F8 | Échangeur Ettelbruck – Bretelle de sortie en provenance du Friedhof | PK 0,000 – PK 0,140 |\n| B7 | En provenance de l’échangeur Schieren et en direction du giratoire Fridhof | PK 25,670 – PK 26,720 |\n| B7 | En provenance de l’échangeur Ettelbruck et en direction du giratoire Fridhof | PK 28,575 – PK 29,500 |\n| B7 | En provenance de l’échangeur Ingeldorf en direction de l’échangeur Ettelbruck | PK 29,370 – PK 28,620 |\n| B7 | En provenance de l’échangeur Ingeldorf en direction de l’échangeur Schieren | PK 26,700 – PK 25,620 |\n| B7 – Bretelle F-F7 | Échangeur Schieren – Bretelle de sortie en provenance du giratoire Fridhof | PK 0,048 – PK 0,515 |\n\n- **90 km/h aux endroits suivants :**\n\n| **voie publique** | **localisation du tronçon** | **délimitation du tronçon** |\n| --- | --- | --- |\n| A1 | Wasserbillig (frontière) en direction de Luxembourg | PK 35,665 – PK 35,590 |\n| A1 | Wasserbillig (frontière) en direction de Trèves (Allemagne) | PK 35,000 – PK 35,665 |\n| A3 | Croix de Gasperich en direction du giratoire Gluck | PK 1,470 – PK 0,650 |\n| A4 | En provenance du croix de Cessange en direction de Luxembourg | PK 0,730 – PK 0,515 |\n| A4 | Jonction Lankelz en direction du giratoire de Raemerich | PK 14,740 – PK 15,750 |\n| A4 | Giratoire de Raemerich en direction de la jonction Lankelz | PK 16,200 – PK 15,500 |\n| A6 | Weyler (frontière) en direction de Arlon (Belgique) | PK 20,310 – PK 20,600 |\n| A7 | Échangeur Schieren en direction de l’échangeur Ettelbruck | PK 24,735 – PK 24,800 |\n| A7 | En provenance de l’échangeur Waldhof, en direction de la jonction Grünewald | PK 0,355 – PK 0,175 |\n| A7 – Bretelle F-N-T | Échangeur Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction du giratoire Serra | PK 0,000 – PK 0,220 |\n| A7 – Bretelle F-N-T8 | Échangeur Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction du giratoire Serra | PK 0,000 – PK 0,185 |\n| A7 – Bretelle F-N-G | Échangeur Grunewald – Bretelle en provenance de l’échangeur Waldhof et en direction du giratoire Schaffner | PK 0,000 – PK 0,205 |\n| A13 | Giratoire Biff en direction de la jonction Lankelz | PK 0,000 – PK 0,240 |\n| A13 | En provenance de l’échangeur Sanem et en direction du giratoire Biff | PK 0,420 – PK 0,000 |\n| A13 | En provenance de l’échangeur Differdange et en direction de la jonction de Lankelz | PK 7,450 – PK 8,655 |\n| A13 | Jonction de Lankelz en direction de l’échangeur Differdange | PK 8,550 – PK 7,880 |\n| A13 | En provenance de l’échangeur Mondorf en direction de Perl (Allemagne) | PK 40,560 – PK 41,155 |\n| A13 | En provenance de Perl (Allemagne) en direction de Luxembourg | PK 41,155 – PK 40,560 |\n\n- **110 km/h aux endroits suivants :**\n\n| **voie publique** | **localisation du tronçon** | **délimitation du tronçon** |\n| --- | --- | --- |\n| A4 | Échangeur Lallange en direction de la jonction Lankelz | PK 12,310 – PK 14,740 |\n| A4 | Jonction Lankelz en direction de l’échangeur Lallange | PK 15,500 – PK 11,980 |\n| A13 | Giratoire Biff en provenance de Pétange et en direction de la jonction Lankelz | PK 0,240 – PK 7,200 |\n| A13 | En provenance de la jonction Lankelz et en direction du giratoire Biff | PK 7,880 – PK 0,420 |\n| A13 | En provenance de l’échangeur Schifflange en direction de la jonction | PK 11,068 – PK 11,860 |",
+      "text_sha256": "ecb20dee440f53b7ca4c008a2630840e2174b70db5727344d3433b88da534922",
+      "md_span": {
+        "start": 12685,
+        "end": 18650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-2022-05-23-a281:2022-10-23--25675738c4b3a04085b89a3f08672d5157cec2024f3e66bad0efe123ab3309a9#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe 4. Interdictions de dépassement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le dépassement est interdit aux endroits suivants :\n\n| **voie publique** | **localisation du tronçon** | **délimitation du tronçon** |\n| --- | --- | --- |\n| A3 – Bretelle E-B-G | Croix de Bettembourg – En provenance de Kayl et en direction de Luxembourg | PK 0,775 – PK 1,000 |\n| A3 – Bretelle V-G-C | Croix de Gasperich – En provenance du giratoire Gluck en direction du croix de Cessange | PK 0,305 – PK 0,445 |\n| A7 | Échangeur Ettelbruck en direction du giratoire Fridhof | PK 24,740 – PK 24,810 |\n| B7 | Échangeur Ettelbruck en direction du giratoire Fridhof | PK 25,525 – PK 29,830 |\n| B7 | Échangeur Ingeldorf en direction du giratoire Fridhof | PK 30,930 – PK 31,450 |\n| B7 | Giratoire Fridhof en direction de la jonction Grunewald | PK 31,130 – PK 28,625 |\n| B7 | En provenance du giratoire Fridhof et en direction de la jonction Grunewald | PK 27,700 – PK 26,410 |",
+      "text_sha256": "c145c5478c467bf8f0244be72cb91b466557d74466c4d21a468ee5c20a95b2f2",
+      "md_span": {
+        "start": 18723,
+        "end": 19597
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

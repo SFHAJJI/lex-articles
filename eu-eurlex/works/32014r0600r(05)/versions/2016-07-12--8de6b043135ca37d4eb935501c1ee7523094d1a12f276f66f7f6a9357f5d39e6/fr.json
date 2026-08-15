@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0600r(05):2016-07-12--8de6b043135ca37d4eb935501c1ee7523094d1a12f276f66f7f6a9357f5d39e6",
+  "language": "fr",
+  "title": "Corrigendum to Regulation (EU) No 600/2014",
+  "valid_from": "2016-07-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0600r(05)/versions/2016-07-12--8de6b043135ca37d4eb935501c1ee7523094d1a12f276f66f7f6a9357f5d39e6/fr.xml",
+    "sha256": "98fe26568d8fcb21c735bbdbc05a90e808f82217166aa25ccb7370f3c7c0810a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0600R%2805%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014r0600r(05):2016-07-12--8de6b043135ca37d4eb935501c1ee7523094d1a12f276f66f7f6a9357f5d39e6#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "12.7.2016 FR Journal officiel de l'Union européenne L 187/30 Rectificatif au règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 ( «Journal officiel de l'Union européenne» L 173 du 12 juin 2014 ) Page 98, article 2, paragraphe 1, point 18: au lieu de: «18. “autorité compétente”: une autorité compétente au sens de l'article 2, paragraphe 1, point 26), de la directive 2014/65/UE;» lire: «18. “autorité compétente”: une autorité compétente au sens de l'article 4, paragraphe 1, point 26), de la directive 2014/65/UE;».",
+      "text_sha256": "39e37fc39adc85758fdc77c3646f3140184133c54ee7eacc09dc11f1313016a3",
+      "md_span": {
+        "start": 680,
+        "end": 1315
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

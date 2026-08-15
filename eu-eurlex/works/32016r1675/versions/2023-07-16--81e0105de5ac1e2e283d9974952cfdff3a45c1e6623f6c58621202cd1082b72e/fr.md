@@ -1,0 +1,23 @@
+---
+lex_id: 'eu-eurlex:32016r1675:2023-07-16--81e0105de5ac1e2e283d9974952cfdff3a45c1e6623f6c58621202cd1082b72e'
+title: 'Commission Delegated Regulation (EU) 2016/1675 of 14 July 2016 supplementing Directive (EU) 2015/849'
+valid_from: '2023-07-16'
+valid_to: '2023-10-17'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1675-20230716'
+source_sha256: '58ca095130541bb5c3ca9b4718127aa438f1e236f9bc23067aaf41096d0065c1'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article premier
+
+La liste des pays tiers présentant des carences stratégiques dans leurs régimes de lutte contre le blanchiment de capitaux et le financement du terrorisme qui font peser une menace significative sur le système financier de l'Union (les «pays tiers à haut risque») figure en annexe.
+
+<a id="art_2"></a>
+
+### Article 2
+
+Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.

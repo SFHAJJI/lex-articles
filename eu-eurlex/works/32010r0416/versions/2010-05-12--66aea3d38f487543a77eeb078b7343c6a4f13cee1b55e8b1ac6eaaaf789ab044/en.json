@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010r0416:2010-05-12--66aea3d38f487543a77eeb078b7343c6a4f13cee1b55e8b1ac6eaaaf789ab044",
+  "language": "en",
+  "title": "Commission Regulation (EU) No 416/2010 of 12 May 2010 amending Annexes I, II and III to Co…",
+  "valid_from": "2010-05-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010r0416/versions/2010-05-12--66aea3d38f487543a77eeb078b7343c6a4f13cee1b55e8b1ac6eaaaf789ab044/en.xml",
+    "sha256": "c5a3bf4a918f3b5c1adc4238d6dbfcfd0541e9802018be9ddd5ae6effb616343",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0416"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010r0416:2010-05-12--66aea3d38f487543a77eeb078b7343c6a4f13cee1b55e8b1ac6eaaaf789ab044#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnexes I to III to Regulation (EC) No 44/2001 are replaced by the corresponding Annexes to this Regulation.",
+      "text_sha256": "245418586e90cdd4d91b4862fa805fae06fc21f66f42adf800e4bfd16cc01e47",
+      "md_span": {
+        "start": 702,
+        "end": 821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010r0416:2010-05-12--66aea3d38f487543a77eeb078b7343c6a4f13cee1b55e8b1ac6eaaaf789ab044#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 854,
+        "end": 995
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

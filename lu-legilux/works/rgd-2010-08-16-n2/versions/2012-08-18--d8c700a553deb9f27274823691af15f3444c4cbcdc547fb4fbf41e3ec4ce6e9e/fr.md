@@ -1,0 +1,287 @@
+---
+lex_id: 'lu-legilux:rgd-2010-08-16-n2:2012-08-18--d8c700a553deb9f27274823691af15f3444c4cbcdc547fb4fbf41e3ec4ce6e9e'
+title: 'Version consolidée applicable au 27/03/2021 : Règlement grand-ducal du 16 août 2010 définissant les règles spéciales applicables à la commercialisation du bétail de boucherie.'
+valid_from: '2012-08-18'
+valid_to: '2021-03-26'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20120818/fr'
+source_sha256: '648d41d3238aed6ca6951f2a244a1210b12b138a36b49248d3c965389af485b6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/2 · lex derive'
+---
+
+## Chapitre 1er — Définitions
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+Au sens du présent règlement, on entend par:
+
+- acheteur: toute personne physique ou morale qui achète des animaux de boucherie à des fins commerciales ou qui exploite un abattoir.
+- vendeur: le détenteur de l'animal destiné à être abattu. Au moment de l'abattage des animaux indigènes, il est enregistré en tant que tel dans le système d'identification et d'enregistrement national des différentes espèces d'animaux de boucherie.
+- fournisseur: la personne physique ou morale qui vend un animal de boucherie à un abattoir ou qui laisse abattre un animal de boucherie dans un abattoir pour son propre compte, ladite personne physique ou morale étant assimilée au vendeur dans le cas où elle est le détenteur de l'animal destiné à être abattu.
+- abattoir: l'établissement agréé dans lequel les animaux de boucherie sont abattus.
+- - - veau (bovin dont l'âge est inférieur ou égal à 8 mois);
+- jeune bovin (bovin dont l'âge est supérieur à 8 mois et inférieur ou égal à 12 mois);
+- taurillon (jeune bovin mâle non castré dont l'âge est supérieur à 12 mois et inférieur ou égal à 24 mois);
+- taureau (bovin non castré dont l'âge est supérieur à 24 mois);
+- bœuf (bovin mâle castré dont l'âge est supérieur à 12 mois);
+- génisse (bovin femelle n'ayant pas vêlé dont l'âge est supérieur à 12 mois);
+- jeune vache (bovin femelle qui a déjà vêlé et dont l'âge est supérieur à 12 mois et inférieur ou égal à 60 mois);
+- vache (bovin femelle qui a déjà vêlé et dont l'âge est supérieur à 60 mois).
+- - jeune porcelet (porc d'un poids abattu inférieur à 12 kg);
+- porcelet (porc d'un poids abattu égal ou supérieur à 12 kg et inférieur à 50 kg);
+- porc à l'engrais (porc d'un poids abattu égal ou supérieur à 50 kg);
+- truie (porc femelle ayant servi à la reproduction);
+- verrat (porc mâle ayant servi à la reproduction).
+- - agneau de lait (ovin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 14 kg);
+- agneau (ovin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore agnelé);
+- antenaise (ovin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore agnelé);
+- brebis (ovin femelle qui a déjà agnelé);
+- bélier (ovin mâle dont l'âgé est supérieur à 12 mois).
+- - chevreau de lait (caprin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 10 kg);
+- chevreau (caprin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore chevretté);
+- chevrette (caprin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore chevretté);
+- chèvre (caprin femelle qui a déjà chevretté);
+- bouc (caprin mâle dont l'âge est supérieur à 12 mois).
+- - poulain (cheval dont l'âge est inférieur ou égal à 18 mois);
+- cheval (cheval dont l'âge est supérieur à 18 mois);
+- âne;
+- hybride.
+- carcasse: le corps entier de l'animal abattu tel qu'il se présente après les opérations de saignée, d'éviscération et, en outre, en ce qui concerne les bovins, ovins, caprins et solipèdes, de dépouillement.
+- demi-carcasse: le produit obtenu par fente de la carcasse selon un plan de symétrie passant par le milieu de chaque vertèbre cervicale, dorsale, lombaire et sacrée, par le milieu du sternum et de la symphyse ischiopubienne.
+- numéro de marché: le numéro unique (journalier, hebdomadaire ou mensuel) attribué à l'animal de boucherie et permettant la traçabilité de l'animal vers la carcasse et, le cas échéant, vers les données de classement de cet animal et vice versa.
+
+## Chapitre 2 — Dispositions communes applicables au bétail de boucherie de toute espèce
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+**(1)** Toute transaction de bétail de boucherie entre le vendeur et l'acheteur et entre le fournisseur et l'acheteur doit être établie par un document et un certificat d'abattage.
+
+**(2)** Le prix de vente est déterminé en fonction du poids abattu, du classement et de l'espèce de l'animal de boucherie.
+
+**(3)** Le document visé au paragraphe 1 est à établir par l'acheteur. Il doit porter une des dénominations suivantes: décompte, décompte marché, facture d'achat ou bordereau d'achat. Il doit contenir au moins les indications suivantes:
+
+- la date de la livraison;
+- le nom, l'adresse et le numéro de troupeau de l'exploitation du vendeur;
+- le nom et l'adresse du fournisseur dans le cas où celui-ci est différent du vendeur;
+- le nom, l'adresse et, le cas échéant, la raison sociale de l'acheteur;
+- le numéro de marché;
+- le poids exprimé en kilogrammes de la carcasse chaude pour les animaux de boucherie de l'espèce porcine domestique; froide pour les animaux de boucherie des autres espèces domestiques;
+- le prix par kg de la carcasse chaude pour les animaux de boucherie de l'espèce porcine domestique; froide pour les animaux de boucherie des autres espèces domestiques;
+- le taux de réfaction du poids de la carcasse chaude vers le poids de la carcasse froide pour les animaux de boucherie des espèces domestiques autres que porcine;
+- les frais de transport et d'assurance, tous les autres frais à charge du vendeur ainsi que le taux et le montant de la T.V.A. qui s'applique pour chacun de ces éléments, lesdits éléments étant à préciser séparément;
+- la valeur brute de la carcasse à payer par l'acheteur pour le bétail de boucherie ainsi que le taux et le montant de la T.V.A. qui s'applique, cette dernière devant être renseignée séparément;
+- le numéro d'identification en vertu des réglementations respectives en vigueur sur l'identification et l'enregistrement des différentes espèces d'animaux de boucherie;
+- pour les bovins la catégorie et la classe définies conformément aux dispositions communautaires et du présent règlement grand-ducal;
+- pour les ovins: la catégorie;
+- pour les caprins: la catégorie;
+- pour les porcins: la catégorie et la classe définies conformément aux dispositions communautaires et du présent règlement grand-ducal et le pourcentage de viande maigre de la carcasse à une décimale près;
+- pour les solipèdes: la catégorie.
+
+**(4)** Le certificat d'abattage est à établir par l'abattoir et doit contenir au moins les indications suivantes:
+
+- la date de l'abattage;
+- le nom, l'adresse et le numéro de troupeau de l'exploitation du vendeur;
+- le nom et l'adresse du fournisseur dans le cas où celui-ci est différent du vendeur;
+- le nom, l'adresse et, le cas échéant, la raison sociale de l'acheteur;
+- l'abattoir dans lequel l'abattage a lieu;
+- le numéro d'identification en vertu des réglementations respectives en vigueur sur l'identification et l'enregistrement des différentes espèces d'animaux de boucherie;
+- le numéro de marché;
+- le poids exprimé en kilogrammes de la carcasse chaude pour les animaux de boucherie de l'espèce porcine domestique; froide pour les animaux de boucherie des autres espèces domestiques;
+- le taux de réfaction du poids de la carcasse chaude vers le poids de la carcasse froide pour les animaux de boucherie des espèces domestiques autres que porcine;
+- l'indication d'une éventuelle saisie partielle ou totale de l'animal;
+- pour les bovins la catégorie et la classe définies conformément aux dispositions communautaires et du présent règlement;
+- pour les ovins: la catégorie;
+- pour les caprins: la catégorie;
+- pour les porcins: la catégorie et la classe définies conformément aux dispositions communautaires et du présent règlement et le pourcentage de viande maigre de la carcasse à une décimale près;
+- pour les solipèdes: la catégorie.
+
+Le certificat d'abattage est établi séparément pour chaque bétail de boucherie ou sous forme d'un relevé journalier regroupant l'ensemble des abattages par vendeur en un nombre suffisant d'exemplaires dont un est destiné au vendeur, un destiné au fournisseur et un destiné à l'abattoir.
+
+Les abattoirs envoient au Service d'Economie rurale pour le mardi au plus tard un relevé hebdomadaire regroupant les abattages de la semaine sous forme d'un fichier électronique. Ce relevé doit reprendre l'ensemble des indications figurant sur les certificats d'abattage de la période concernée.
+
+**(5)** Par dérogation au paragraphe 1, dans le cas où l'abattoir agit comme acheteur vis-à-vis du vendeur du bétail de boucherie et pour autant qu'il ait été constaté par le Service d'Economie rurale qu'il n'existe pas de risque d'erreur dans l'identification du bétail de boucherie, le document visé au paragraphe 1 n'a pas besoin d'être accompagné d'un certificat d'abattage, à condition que ledit document reprend au moins les indications visées aux paragraphes 3 et 4 du présent article.
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+Le poids abattu doit être constaté sur une bascule étalonnée. L'opération de pesage ne peut s'effectuer que si le numéro de la marque auriculaire et/ou le numéro de marché ou d'identification du bétail de boucherie est saisi dans le système de pesage.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+**(1)** Les opérations de classement obligatoires des carcasses prévues pour les bovins et porcins par les dispositions communautaires et du présent règlement sont effectuées par des agents à désigner par l'abattoir. Ces agents doivent être en possession d'un certificat attestant la participation du détenteur à un cours de formation en matière de classification pour les carcasses respectives et doivent suivre au plus tard tous les 3 ans avec succès un cours de recyclage. Les cours sont organisés par le Service d'Economie rurale.
+
+**(2)** Pour les bovins et les porcins, les opérations de classement et de marquage des carcasses doivent avoir lieu aussi rapidement que possible après l'abattage et au plus tard au moment du pesage.
+
+**(3)** Le ou les responsables du classement des carcasses et demi-carcasses des bovins et porcins auprès des abattoirs doivent établir lors des opérations de classement un rapport reprenant le numéro de la marque auriculaire des bovins respectivement le numéro de marché des porcins, ainsi que la classe et le poids des carcasses et demi-carcasses correspondantes.
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+L'acheteur est responsable à l'égard du vendeur ou fournisseur du paiement du prix du bétail de boucherie augmenté de la T.V.A. s'appliquant à la transaction en question et diminué des frais à charge du vendeur ou fournisseur tels que visés à l'article 2 paragraphe 3, tiret 9.
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+Le paiement du prix du bétail de boucherie au vendeur ou au fournisseur doit intervenir endéans les 21 jours.
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+Le vendeur, le fournisseur et l'acheteur sont tenus de conserver les documents visés à l'article 2, paragraphe 1 et les certificats d'abattage pendant au moins deux ans.
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+Les acheteurs et fournisseurs doivent tenir des relevés ou relevés informatiques dans lesquels ils inscrivent le bétail de boucherie faisant l'objet de leur commerce ou transitant à travers leurs installations, avec indication du vendeur, du fournisseur et de l'acheteur, du numéro auriculaire ou d'identification, du numéro de marché, de la catégorie du bétail et, dans le cas des animaux de l'espèce bovine et porcine, de la classe des carcasses ou demicarcasses.
+
+Ils tiennent ces relevés ou relevés informatiques à la disposition des organes de contrôle visés à l'article 16 paragraphe 2 et permettent l'accès à leurs installations aux agents de ces organes de contrôle pendant les heures de travail.
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+Le ou les responsables d'un abattoir veillent à l'observation des dispositions du présent règlement en ce qui concerne la présentation de la carcasse pour les opérations de pesage, l'exécution des opérations de pesage, le cas échéant, le classement et l'inscription du poids abattu et, dans le cas des animaux de boucherie de l'espèce bovine et porcine domestique, du résultat du classement sur le certificat d'abattage et, le cas échéant, sur le document visé à l'article 2, paragraphe 1.
+
+Les abattoirs informent hebdomadairement et au plus tard le lundi à 9 heures le Service d'Economie rurale et l'Administration des services vétérinaires du programme d'abattage (espèces d'animaux de boucherie par jour et planche de travail journalière planifiée) pour la semaine en cours et, le cas échéant, de toute modification majeure dudit programme d'abattage.
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+**(1)** Dans le cadre du système de constatation des prix de marché et du calcul des prix représentatifs hebdomadaires pour les bovins et porcins suivant la réglementation communautaire en vigueur, tous les acheteurs de bétail de boucherie qui abattent ou qui laissent abattre plus de cinq animaux par semaine sur la base d'une moyenne annuelle doivent communiquer au Service d'Economie rurale pour le mardi au plus tard, le numéro de marché et le prix par kilogrammes de carcasse froide pour les abattages de la semaine précédente.
+
+**(2)** Dans ce même cadre les abattoirs sont tenus de communiquer au Service d'Economie rurale pour le mardi au plus tard les données d'abattage exigées pour chaque animal abattu, individualisé par un numéro de marché pour les abattages de la semaine précédente et suivant les règles établies par le même service.
+
+Ils sont tenus de conserver, pendant au moins deux ans, les documents relatifs au classement des carcasses.
+
+## Chapitre 3 — Dispositions applicables aux animaux de boucherie de l'espèce bovine domestique
+
+<a id="art_11"></a>
+
+### Art. 11.
+
+**(1)** Le poids abattu de l'animal de boucherie de l'espèce bovine est constaté conformément aux modalités de l'article 3, après les opérations de saignée, d'éviscération et de dépouillement, étant entendu que la carcasse doit
+
+être présentée:
+
+- sans la tête et sans les pieds; la tête est séparée de la carcasse au niveau de l'articulation atloido-occipitale, les pieds sont sectionnés au niveau des articulations carpo-métacarpiennes ou tarso-métatarsiques;
+- sans les organes contenus dans les cavités thoracique et abdominale, sans les rognons, la graisse de rognons et la graisse du bassin;
+- sans les organes sexuels avec les muscles attenants, sans la mamelle et la graisse mammaire;
+- sans hampe ni onglet;
+- sans queue pour toutes les catégories à l'exception des veaux;
+- sans moelle épinière pour toutes les catégories à l'exception des veaux;
+- sans gras de testicule;
+- sans couronne du tende de tranche;
+- sans gouttière jugulaire (veine grasse);
+- sans graisses externes dans les limites prévues au paragraphe 2.
+
+**(2)** L'émoussage qui comporte exclusivement l'enlèvement partiel des graisses externes ne peut se faire que:
+
+- sur la carcasse figurant dans les classes suivantes d'état d'engraissement telles que précisées à l'article 12: 3 -, 3 =, 3 +, 4 -, 4 =, 4 +, 5 -, 5 =, 5 +;
+- en région dorsale, au niveau de la hanche, de l'aloyau et du milieu de train de côtes;
+- en région latérale, au niveau du gros bout de poitrine, sur le pourtour de la région ano-génitale et de la queue;
+- au niveau du tende de tranche.
+
+Sont interdits:
+
+- l'élimination des graisses internes ou de couverture mettant à nu, en quelque endroit que ce soit, le tissu musculaire;
+- l'enlèvement de graisses autres que celles définies ci-dessus, et notamment au niveau de l'épaule et de la région ventrale;
+- l'ablation d'une partie quelconque de la paroi abdominale;
+- l'élimination de toute partie musculaire, tendineuse ou aponévrotique non comprise dans les amas graisseux dont l'enlèvement est autorisé.
+
+**(3)** La carcasse est pesée dans les meilleurs délais après l'abattage et avant le processus de refroidissement, mais au plus tard soixante minutes après l'étourdissement de l'animal. Le poids de la carcasse froide est calculé en appliquant un pourcentage de réfaction de 2 % au poids constaté de la carcasse chaude. Cette réfaction doit être marquée sur le certificat d'abattage et le document visé à l'article 2, paragraphe 1.
+
+**(4)** Si la constatation du poids chaud abattu se fait plus de soixante minutes après l'étourdissement de l'animal, aucune réfaction ne peut être appliquée au poids constaté par pesage.
+
+**(5)** Sur le document visé à l'article 2, paragraphe 1, la valeur brute de la carcasse est calculée sur base du poids froid constaté suivant les paragraphes 1 à 4.
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+**(1)** Les abattoirs qui abattent plus de 75 gros bovins par semaine sur la base d'une moyenne annuelle sont tenus de procéder au classement et au marquage de toutes les carcasses et demi-carcasses, étant entendu qu'il y a lieu de ranger dans une classe séparée S les carcasses ou demi-carcasses de bovins abattus correspondant à la description spécifique de cette classe dans la règlementation communautaire en vigueur.
+
+**(2)** Conformément à l'annexe V, point A, III du règlement (CE) n° 1234/2007 du Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en ce qui concerne certains produits de ce secteur, les abattoirs appliquent le classement des carcasses de gros bovins avec une subdivision de chacune des classes de conformation et d'état d'engraissement dans 3 sous-positions, la subdivision comportant pour chaque classe les positions «inférieure» marquée par le signe -, «moyenne» marquée par le signe = et «supérieure» marquée par le signe +.
+
+## Chapitre 4 — Dispositions applicables aux animaux de boucherie de l'espèce porcine domestique
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+**(1)** L’article 13 paragraphe (1) du règlement grand-ducal du 16 août 2010 définissant les règles spéciales applicables à la commercialisation du bétail de boucherie commune est modifié comme suit:
+
+- sans la moelle épinière,
+- sans le cerveau,
+- sans les soies,
+- sans les onglons,
+- sans les organes contenus dans les cavités thoracique et abdominale,
+- sans les rognons,
+- sans la panne,
+- sans la langue,
+- sans le diaphragme,
+- chez les animaux mâles, sans les organes génitaux et chez les truies, sans les glandes mammaires et les tétines.
+
+**(2)** La carcasse est pesée dans les meilleurs délais après l'abattage et avant le processus de refroidissement, mais au plus tard dans les quarante-cinq minutes après l'étourdissement de l'animal.
+
+**(3)** Sur le document visé à l'article 2, paragraphe 1, la valeur brute de la carcasse est calculée sans réfaction sur base du poids constaté suivant les paragraphes (1) et (2).
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+**(1)** Les opérations de classement obligatoires sont effectuées au Luxembourg conformément aux dispositions de l'article 23 du règlement (CE) n° 1249/2008 de la Commission du 10 décembre 2008 portant modalités d'application des grilles communautaires de classement des carcasses de bovins, de porcins et d'ovins et de la communication des prix y afférents.
+
+**(2)** Les abattoirs qui abattent plus de 200 porcs par semaine sur la base d'une moyenne annuelle sont tenus de procéder au classement de toutes les carcasses de porcs, à l'exclusion des porcs ayant servi à la reproduction, abattus dans l'établissement concerné et au marquage desdites carcasses étant entendu qu'il y a lieu de ranger dans une classe séparée S les porcs abattus pour lesquels la viande maigre estimée représente 60% ou plus du poids de la carcasse.
+
+## Chapitre 5 — Dispositions applicables aux animaux de boucherie de l'espèce ovine et caprine domestique
+
+<a id="art_15"></a>
+
+### Art. 15.
+
+**(1)** Le poids abattu de l'animal de boucherie de l'espèce ovine et caprine est constaté conformément aux modalités de l'article 3, après les opérations de saignée, d'éviscération et de dépouillement, étant entendu que la carcasse doit être présentée avec la queue et la moelle épinière pour toute catégorie à l'exception des animaux inférieurs à 12 mois et sans que les graisses externes aient été enlevées.
+
+**(2)** Par dérogation au paragraphe (1), il peut être procédé à l'enlèvement des graisses externes en cas d'engraissement excessif de la carcasse et sur demande expresse du propriétaire du bétail de boucherie.
+
+**(3)** La carcasse est pesée dans les meilleurs délais après l'abattage et avant le processus de refroidissement, mais au plus tard dans les quarante-cinq minutes après l'étourdissement de l'animal. Le poids de la carcasse froide est calculé en appliquant un pourcentage de réfaction de 2,5% au poids constaté de la carcasse chaude. Cette réfaction doit être marquée sur le certificat d'abattage et le document visé à l'article 2, paragraphe 1.
+
+**(4)** Si la constatation du poids chaud abattu se fait plus de quarante-cinq minutes après l'étourdissement de l'animal, aucune réfaction ne peut être appliquée au poids constaté par pesage.
+
+**(5)** Sur le document visé à l'article 2, paragraphe 1, la valeur brute de la carcasse est calculée sur base du poids froid constaté suivant les paragraphes (1) à (4).
+
+## Chapitre 6 — Dispositions finales
+
+<a id="art_16"></a>
+
+### Art. 16.
+
+**(1)** Le Service d'Economie rurale et l'Administration des services vétérinaires sont désignés comme instances chargées de l'application du présent règlement.
+
+**(2)** Le contrôle des dispositions du présent règlement s'effectue conformément à l'article 2 de la loi du 8 juin 1984 fixant le cadre général pour l'établissement de règles concernant la commercialisation du bétail de boucherie.
+
+**(3)** Les infractions aux dispositions des articles 2 à 15 du présent règlement sont punies des peines prévues aux articles 3 et 4 de la loi du 8 juin 1984 précitée.
+
+<a id="art_17"></a>
+
+### Art. 17.
+
+Le règlement grand-ducal modifié du 15 juillet 1985 définissant les règles spéciales applicables à la commercialisation du bétail de boucherie est abrogé.
+
+<a id="art_18"></a>
+
+### Art. 18.
+
+Notre Ministre de l'Agriculture, de la Viticulture et du Développement rural, Notre Ministre de l'Economie et du Commerce extérieur, Notre Ministre des Classes moyennes et du Tourisme, Notre Ministre de la Justice et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.

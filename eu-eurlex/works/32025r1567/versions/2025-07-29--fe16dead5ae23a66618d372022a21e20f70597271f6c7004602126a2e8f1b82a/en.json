@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1567:2025-07-29--fe16dead5ae23a66618d372022a21e20f70597271f6c7004602126a2e8f1b82a",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1567 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1567/versions/2025-07-29--fe16dead5ae23a66618d372022a21e20f70597271f6c7004602126a2e8f1b82a/en.xml",
+    "sha256": "827de55730176c120628a972672ca99a2b82c0d39e22bd6a26e45676be5bf937",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1567"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1567:2025-07-29--fe16dead5ae23a66618d372022a21e20f70597271f6c7004602126a2e8f1b82a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe reference standards and specifications for the management of remote qualified electronic signature creation devices and of remote qualified electronic seal creation devices as qualified trust services referred to in Article 29a(2) and Article 39a of Regulation (EU) No 910/2014 are set out in the Annex to this Regulation.",
+      "text_sha256": "bf80b8bd91e1187e89134114b6b0ae1c035bdaf5064813da7be7113b885f0eff",
+      "md_span": {
+        "start": 745,
+        "end": 1082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1567:2025-07-29--fe16dead5ae23a66618d372022a21e20f70597271f6c7004602126a2e8f1b82a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from 19 August 2027.",
+      "text_sha256": "d7c759ee5e0baad5906b362b4f9a8683e66bc648158dd9b5827d44af0cda89ed",
+      "md_span": {
+        "start": 1115,
+        "end": 1316
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

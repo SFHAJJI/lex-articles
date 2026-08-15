@@ -1,8 +1,38 @@
 {
-  "schema": "lex-articles-generation/1",
-  "deriver_fingerprint": "6b36ede99d106ed97227261a209aaafafdad17f2",
-  "corpus_commits": {
-    "lu-legilux": "bf5f75d9a298ab58bf2b4403041c1c9fccbbc240",
-    "eu-eurlex": "9f41362f547fac9c924deee5ac836a30d19e6a03"
+  "schema": "lex-articles-generation/3",
+  "publishers": {
+    "eu-eurlex": {
+      "collection": "eu-eurlex",
+      "corpus_repository": "lex-corpus-eu-eurlex",
+      "corpus_commit": "e9c4df0981c855855a1a28218cf086ddeb5bb691",
+      "corpus_manifest_sha256": "eb5abe73c30f7d50decc71539e0e39a76ebb3b1da437b69fd9e3ab38c65a4bd0",
+      "ingester_code_commit": "744549f4656090f00b5b3008a94589bf726e6ed1",
+      "deriver_code_commit": "9339b0a33bbf9e9385366ab030640b15354d8518",
+      "deriver_tree_id": "69f0bef039a569f897e7ea81cefa6850d65606db",
+      "profiles": [
+        "html-eu-tolerant/1",
+        "xhtml-eu-xlink-context/1",
+        "xhtml-eu/1"
+      ],
+      "profiles_sha256": "dc2648dad7205e41eef345172b8413322834a36850a80f266e1632f466660f65"
+    },
+    "lu-legilux": {
+      "collection": "lu-legilux",
+      "corpus_repository": "lex-corpus-lu-legilux",
+      "corpus_commit": "c087f9153a8cde5429965ffa897db001f3acdf09",
+      "corpus_manifest_sha256": "9b723d5562e7110d525ae8667910cd8b463b8a993b12c7a3f38604baa8cf76fc",
+      "ingester_code_commit": "0a7ad53c36176c2d52473e0182e86e5c918f60b5",
+      "deriver_code_commit": "9339b0a33bbf9e9385366ab030640b15354d8518",
+      "deriver_tree_id": "69f0bef039a569f897e7ea81cefa6850d65606db",
+      "profiles": [
+        "akn-lu-document/1",
+        "akn-lu-identical-scl-duplicate/1",
+        "akn-lu/2",
+        "pdf-lu/1",
+        "pdf-memorial-lu/1",
+        "pdf-memorial-lu/2"
+      ],
+      "profiles_sha256": "74534202088578b97f7b1e14e8cfa11700f29316cffdcd5ee304c051c764b12e"
+    }
   }
 }

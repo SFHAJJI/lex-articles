@@ -1,0 +1,295 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa",
+  "language": "fr",
+  "title": "Regulation (EU) 2023/2859",
+  "valid_from": "2023-12-13",
+  "valid_to": "2023-12-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2859/versions/2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa/fr.xml",
+    "sha256": "8d1141348108153a72f6f516cdf727942f82139178f1533884120d2845b5ead3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2859"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Au plus tard le 10 juillet 2027, l’AEMF établit et gère un point d’accès unique européen (ESAP) fournissant un accès électronique centralisé aux informations suivantes:\n\n| a) | les informations rendues publiques en vertu des actes législatifs de l’Union énumérés dans la liste figurant en annexe ou en vertu de tout autre acte juridiquement contraignant de l’Union qui prévoient un accès électronique centralisé aux informations sur l’ESAP; |\n| --- | --- |\n\n| b) | les informations que toute entité régie par le droit d’un État membre choisit de rendre accessibles sur l’ESAP à titre volontaire, conformément à l’article 3, paragraphe 1, et qui sont visées dans les actes législatifs de l’Union énumérés dans la liste figurant en annexe ou dans tout autre acte juridiquement contraignant de l’Union qui prévoient un accès électronique centralisé aux informations sur l’ESAP. |\n| --- | --- |\n\n2. Les informations visées au paragraphe 1, point a), du présent article ne sont pas communiquées aux organismes de collecte aux fins d’être rendues accessibles sur l’ESAP avant la date d’application de l’obligation de communiquer ces informations conformément aux actes législatifs de l’Union énumérés dans la liste figurant en annexe ou à d’autres actes juridiquement contraignants de l’Union prévoyant un accès électronique centralisé aux informations sur l’ESAP.\n\n3. Les organismes de collecte qui sont des organes ou organismes de l’Union peuvent mettre à disposition sur l’ESAP des informations historiques à compter de la date d’application de l’obligation de communiquer les informations à l’ESAP conformément aux actes législatifs de l’Union énumérés dans la liste figurant en annexe ou à d’autres actes juridiquement contraignants de l’Union prévoyant un accès électronique centralisé aux informations sur l’ESAP.",
+      "text_sha256": "356a0e41d91b3fe272850860478a90daa99253dbb9081be4f4a7ac9a37f1a94c",
+      "md_span": {
+        "start": 642,
+        "end": 2477
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «entité», toute personne physique ou morale:a)qui est tenue de communiquer les informations visées à l’article 1er, paragraphe 1, point a), à un organisme de collecte; oub)qui communique des informations à un organisme de collecte à titre volontaire conformément à l’article 1er, paragraphe 1, point b), afin que ces informations soient rendues accessibles sur l’ESAP; |\n| --- | --- |\n| a) | qui est tenue de communiquer les informations visées à l’article 1er, paragraphe 1, point a), à un organisme de collecte; ou |\n| b) | qui communique des informations à un organisme de collecte à titre volontaire conformément à l’article 1er, paragraphe 1, point b), afin que ces informations soient rendues accessibles sur l’ESAP; |\n\n| 2) | «organisme de collecte», un organe ou organisme de l’Union ou un organisme national, une autorité nationale ou un registre national désignés en tant que tels en vertu de l’un des actes législatifs de l’Union conformément à l’article 1er, paragraphe 1, point a), ou désignés en tant que tels par un État membre conformément à l’article 3, paragraphe 2; |\n| --- | --- |\n\n| 3) | «format permettant l’extraction de données», tout format ouvert au sens de l’article 2, point 14), de la directive (UE) 2019/1024 utilisé à grande échelle ou requis par la loi, qui permet l’extraction de données par une machine et qui est lisible par l’être humain; |\n| --- | --- |\n\n| 4) | «format lisible par machine», un format lisible par machine tel qu’il est défini à l’article 2, point 13), de la directive (UE) 2019/1024; |\n| --- | --- |\n\n| 5) | «cachet électronique qualifié», un cachet électronique qualifié au sens de l’article 3, point 27), du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| 6) | «interface de programmation d’applications» ou «API», un ensemble de fonctions, de procédures, de définitions et de protocoles qui permet la communication de machine à machine et l’échange continu de données; |\n| --- | --- |\n\n| 7) | «métadonnées», des informations structurées qui facilitent l’extraction, l’utilisation ou la gestion d’une ressource d’informations, y compris en décrivant, en expliquant ou en localisant la source de cette information; |\n| --- | --- |\n\n| 8) | «données à caractère personnel», les données à caractère personnel au sens de l’article 4, point 1), du règlement (UE) 2016/679; |\n| --- | --- |\n\n| 9) | «informations historiques», les informations visées à l’article 1er, paragraphe 1, point a), qui ont été rendues publiques au plus tôt cinq ans avant la date d’application de l’obligation de communiquer ces informations à l’ESAP; |\n| --- | --- |\n\n| 10) | «comité mixte», le comité visé à l’article 54 du règlement (UE) no 1093/2010, à l’article 54 du règlement (UE) no 1094/2010 et à l’article 54 du règlement (UE) no 1095/2010. |\n| --- | --- |",
+      "text_sha256": "0636623e7c3c81c97c4d5dc787034c8ce6eb822f2187540fe6bf2f561ddddd09",
+      "md_span": {
+        "start": 2510,
+        "end": 5365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. À compter du 10 janvier 2030, une entité peut communiquer les informations visées à l’article 1er, paragraphe 1, point b), à l’organisme de collecte de l’État membre dans lequel elle a son siège social afin de rendre ces informations accessibles sur l’ESAP.\n\nLorsqu’elle communique ces informations à l’organisme de collecte, l’entité:\n\n| a) | veille à ce que les informations soient accompagnées de métadonnées indiquant qu’elles sont rendues accessibles sur l’ESAP à titre volontaire; |\n| --- | --- |\n\n| b) | veille à ce que les informations soient accompagnées de métadonnées indiquant si elles contiennent des données à caractère personnel; |\n| --- | --- |\n\n| c) | veille à ce que les informations soient accompagnées des métadonnées nécessaires au fonctionnement de la fonction de recherche sur l’ESAP visée à l’article 7, paragraphe 3; |\n| --- | --- |\n\n| d) | utilise un format permettant l’extraction de données pour la communication des informations; |\n| --- | --- |\n\n| e) | veille à ce que les informations communiquées relèvent du champ d’application de l’article 1er, paragraphe 1, point b); |\n| --- | --- |\n\n| f) | veille à ce que des données à caractère personnel ne figurent pas parmi les informations, sauf lorsque lesdites données sont exigées par le droit de l’Union ou le droit national ou constituent un élément nécessaire des informations relatives aux activités économiques de l’entité. |\n| --- | --- |\n\n2. Au plus tard le 9 janvier 2030, chaque État membre désigne au moins un organisme de collecte pour la collecte des informations communiquées à titre volontaire et en informe l’AEMF.\n\n3. Les autorités européennes de surveillance instituées par les règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010 du Parlement européen et du Conseil (ci-après dénommées collectivement «AES») élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution visant à préciser les éléments suivants:\n\n| a) | les métadonnées devant accompagner les informations communiquées conformément au paragraphe 1; |\n| --- | --- |\n\n| b) | le cas échéant, les formats ou modèles spécifiques à utiliser pour la communication des informations conformément au paragraphe 1. |\n| --- | --- |\n\n4. Lorsqu’elles élaborent les normes techniques d’exécution visées au paragraphe 3, les AES tiennent compte de toute norme déjà définie dans les actes législatifs sectoriels de l’Union correspondants et, en particulier, de toute norme destinée spécifiquement aux PME.\n\nLes AES soumettent les projets de normes techniques d’exécution à la Commission au plus tard le 10 janvier 2028.\n\nLa Commission est habilitée à adopter les normes techniques d’exécution visées au premier alinéa du présent paragraphe conformément à l’article 15 du règlement (UE) no 1093/2010, à l’article 15 du règlement (UE) no 1094/2010 et à l’article 15 du règlement (UE) no 1095/2010.\n\nLes AES, par l’intermédiaire du comité mixte, adoptent des lignes directrices à l’intention des entités afin de garantir l’exactitude des métadonnées communiquées, en ce comprises les conditions d’inclusion de données à caractère personnel dans les communications volontaires.\n\n5. Lorsque les informations visées au paragraphe 1 contiennent des données à caractère personnel, les entités veillent à ce que tout traitement de ces données repose sur l’un des motifs licites de traitement énumérés à l’article 6, paragraphe 1, du règlement (UE) 2016/679. Le présent règlement ne crée pas de base juridique pour le traitement de données à caractère personnel.",
+      "text_sha256": "3f638d6fac076bf214d9e4454c2de1129558b276806922c073d46cf3bcadfca2",
+      "md_span": {
+        "start": 5398,
+        "end": 8956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nL’AEMF publie une liste des organismes de collecte, indiquant un localisateur uniforme de ressources (adresse URL) de chacun de ces organismes, sur le portail internet prévu à l’article 7, paragraphe 1, point a).\n\nL’AEMF veille à ce que ladite liste soit maintenue à jour et en notifie toute modification à la Commission.",
+      "text_sha256": "61353896230aa0656ab51791d51848ef554cb1a999d9ff676ca85e476fbf8ed1",
+      "md_span": {
+        "start": 8989,
+        "end": 9321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les organismes de collecte exécutent les tâches suivantes:\n\n| a) | ils collectent les informations communiquées par les entités; |\n| --- | --- |\n\n| b) | ils stockent les informations communiquées par les entités ou générées par les organismes de collecte eux-mêmes et, s’il y a lieu, s’appuient sur les procédures et les infrastructures existantes pour le stockage des informations; |\n| --- | --- |\n\n| c) | ils effectuent des validations techniques automatiques des informations communiquées par les entités afin de vérifier si ces informations respectent ce qui suit:i)elles ont été communiquées dans un format permettant l’extraction de données ou, s’il y a lieu, dans le format lisible par machine décrit dans l’un des actes législatifs de l’Union conformément à l’article 1er, paragraphe 1, point a), en vertu duquel les informations sont communiquées;ii)les métadonnées relatives aux informations, décrites en vertu du paragraphe 10, point e), du présent article et, le cas échéant, de l’article 3, paragraphe 1, point a), sont disponibles et complètes;iii)elles sont accompagnées, le cas échéant, d’un cachet électronique qualifié; |\n| --- | --- |\n| i) | elles ont été communiquées dans un format permettant l’extraction de données ou, s’il y a lieu, dans le format lisible par machine décrit dans l’un des actes législatifs de l’Union conformément à l’article 1er, paragraphe 1, point a), en vertu duquel les informations sont communiquées; |\n| ii) | les métadonnées relatives aux informations, décrites en vertu du paragraphe 10, point e), du présent article et, le cas échéant, de l’article 3, paragraphe 1, point a), sont disponibles et complètes; |\n| iii) | elles sont accompagnées, le cas échéant, d’un cachet électronique qualifié; |\n\n| d) | ils n’imposent pas, pour l’utilisation et la réutilisation des informations accessibles sur l’ESAP, de conditions autres que les conditions qui correspondent à celles dont sont assorties les licences types ouvertes visées à l’article 9; |\n| --- | --- |\n\n| e) | ils mettent en œuvre l’API et communiquent à l’ESAP, gratuitement et dans les délais applicables, les informations, les métadonnées relatives à ces informations et, le cas échéant, le cachet électronique qualifié; |\n| --- | --- |\n\n| f) | dans la mesure où cela relève des compétences techniques des organismes de collecte, ils fournissent une assistance aux entités qui communiquent les informations pour ce qui est, au minimum, des procédures de communication, de rejet et de nouvelle communication; |\n| --- | --- |\n\n| g) | ils veillent à ce que les informations visées à l’article 1er, paragraphe 1, restent à la disposition de l’ESAP pendant au moins dix ans, sauf si les actes législatifs de l’Union visés à l’article 1er, paragraphe 1, point a), en disposent autrement. |\n| --- | --- |\n\nAux fins du point g) du premier alinéa du présent paragraphe, et conformément aux règlements (UE) 2016/679 et (UE) 2018/1725, les organismes de collecte prennent les mesures techniques et organisationnelles appropriées pour s’assurer que, lorsque les métadonnées accompagnant les informations communiquées ont trait à des données à caractère personnel, ces informations ne soient pas conservées afin d’être mises à la disposition de l’ESAP ni ne sont rendues accessibles sur l’ESAP pendant plus de cinq ans, sauf si les actes législatifs de l’Union relevant de l’article 1er, paragraphe 1, point a), du présent règlement en disposent autrement.\n\n2. Les organismes de collecte peuvent rejeter les informations communiquées par les entités si les informations sont manifestement inappropriées, outrageantes ou hors du champ des informations visées à l’article 1er, paragraphe 1.\n\nLes organismes de collecte retirent les informations rendues accessibles sur l’ESAP qu’ils jugent manifestement inappropriées, outrageantes ou hors du champ des informations visées à l’article 1er, paragraphe 1.\n\n3. Les organismes de collecte rejettent les informations communiquées par les entités si les validations automatiques visées au paragraphe 1, point c), du présent article révèlent que les informations ne sont pas conformes aux exigences prévues audit point ou, le cas échéant, sur la base des notifications reçues conformément à l’article 10, paragraphe 2.\n\n4. Les organismes de collecte informent les entités du rejet ou du retrait d’informations et des raisons de ce rejet ou de ce retrait dans un délai raisonnable.\n\n5. Lorsque les informations communiquées par une entité en vertu de l’article 1er, paragraphe 1, point a), sont rejetées ou retirées par un organisme de collecte, cette entité rectifie et communique une nouvelle fois les informations sans retard injustifié. L’organisme de collecte informe l’AEMF lorsque les informations sont rejetées, retirées ou remplacées en vertu du paragraphe 2 du présent article.\n\nLes entités peuvent choisir de ne communiquer les informations qu’une seule fois et à un seul organisme de collecte. La communication et toute nouvelle communication d’informations, ainsi que des métadonnées pertinentes qui les accompagnent, se font auprès du même organisme de collecte.\n\n6. Les entités sont responsables de l’exhaustivité et de l’exactitude des informations dans la langue dans laquelle elles sont communiquées ainsi que des métadonnées pertinentes les accompagnant qu’elles communiquent aux organismes de collecte. En particulier, les entités sont responsables de l’identification de la présence de données à caractère personnel parmi les informations qu’elles communiquent aux organismes de collecte avec les métadonnées pertinentes les accompagnant en indiquant si les informations contiennent des données à caractère personnel.\n\n7. En ce qui concerne les informations relevant du champ d’application du présent règlement, les organismes de collecte n’exercent pas le droit prévu à l’article 7, paragraphe 1, de la directive 96/9/CE du Parlement européen et du Conseil (15) pour le fabricant d’une base de données, ou tout autre droit de propriété intellectuelle, d’une manière qui empêche ou restreint l’utilisation et la réutilisation de contenus de la base de données conformément à l’article 9 du présent règlement.\n\n8. Un organisme de collecte peut déléguer les tâches visées au paragraphe 1, points a), b), c), e), f) et g), et aux paragraphes 3 et 4, à une personne morale régie par le droit d’un État membre ou à un organe ou organisme de l’Union (ci-après dénommé «délégataire»). Toute délégation de tâches prend la forme d’un accord écrit précisant les tâches à déléguer et les conditions auxquelles elles doivent être exécutées (ci-après dénommé «accord de délégation»).\n\nLes conditions énoncées dans l’accord de délégation garantissent que:\n\n| a) | le délégataire n’a aucun conflit d’intérêts; |\n| --- | --- |\n\n| b) | le délégataire n’utilise pas les informations obtenues de manière inappropriée ou anticoncurrentielle ou dans un but autre que celui prévu dans l’accord de délégation; |\n| --- | --- |\n\n| c) | le délégataire assure la protection des informations conformément à l’article 6 pour ce qui concerne les tâches déléguées; |\n| --- | --- |\n\n| d) | le délégataire informe régulièrement l’organisme de collecte de la réalisation générale des tâches déléguées; |\n| --- | --- |\n\n| e) | sans retard injustifié, le délégataire informe l’organisme de collecte de l’inexécution d’une tâche déléguée. |\n| --- | --- |\n\nL’organisme de collecte reste responsable de toute tâche qu’il délègue, y compris la communication à l’AEMF de toute information dont celle-ci a besoin en rapport avec une tâche déléguée.\n\nLa responsabilité de l’organisme de collecte n’est pas modifiée par le fait que l’organisme de collecte ait délégué des tâches à un tiers. L’organisme de collecte ne délègue pas ses tâches dans une mesure telle qu’il ne puisse plus être considéré comme un organisme de collecte.\n\nL’organisme de collecte veille à ce que toute délégation de tâches soit exercée selon un bon rapport coût-efficacité et que, dans toute la mesure du possible, la délégation serve à permettre aux procédures et aux infrastructures de collecte existantes de continuer de s’appliquer aux fins de l’ESAP.\n\nL’organisme de collecte informe l’AEMF de toute accord de délégation qu’il conclut.\n\n9. Les organismes de collecte garantissent des niveaux appropriés d’authenticité, de disponibilité, d’intégrité et de non-répudiation des informations communiquées par les entités pour être rendues accessibles sur l’ESAP. Pour assurer ces niveaux, les États membres peuvent autoriser les organismes de collecte à exiger que les informations communiquées par les entités pour être rendues accessibles sur l’ESAP soient accompagnées d’un cachet électronique qualifié.\n\n10. Les AES élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution précisant les éléments suivants:\n\n| a) | la manière dont les validations techniques automatiques visées au paragraphe 1, point c), du présent article doivent être effectuées pour chaque type d’informations communiquées par les entités; |\n| --- | --- |\n\n| b) | les caractéristiques du cachet électronique qualifié visé au paragraphe 1, point c), iii), du présent article et au paragraphe 9 du présent article; |\n| --- | --- |\n\n| c) | les licences types ouvertes visées au paragraphe 1, point d), du présent article; |\n| --- | --- |\n\n| d) | les caractéristiques de l’API à mettre en œuvre en application du paragraphe 1, point e), du présent article; |\n| --- | --- |\n\n| e) | les caractéristiques des métadonnées nécessaires à la fonction de recherche de l’ESAP visée à l’article 7, paragraphe 3, des métadonnées visées au paragraphe 6 du présent article et de toute autre métadonnée nécessaire au fonctionnement de l’ESAP; |\n| --- | --- |\n\n| f) | les délais visés au paragraphe 1, point e), du présent article; |\n| --- | --- |\n\n| g) | la liste indicative et les caractéristiques des formats pouvant être acceptés en tant que formats permettant l’extraction de données et formats lisibles par machine visés au paragraphe 1, point c), i), du présent article. |\n| --- | --- |\n\n11. Lorsqu’elles élaborent les projets de normes techniques d’exécution visés au paragraphe 10, les AES tiennent compte des normes déjà définies dans les actes législatifs sectoriels de l’Union correspondants et, en particulier, des normes conçues spécifiquement pour les PME.\n\nLes AES soumettent ces projets de normes techniques d’exécution à la Commission au plus tard le 10 septembre 2024.\n\nLa Commission est habilitée à adopter les normes techniques d’exécution visées au premier alinéa du présent paragraphe conformément à l’article 15 du règlement (UE) no 1093/2010, à l’article 15 du règlement (UE) no 1094/2010 et à l’article 15 du règlement (UE) no 1095/2010.\n\n12. Les organismes de collecte qui sont des organes ou organismes de l’Union et qui mettent à la disposition de l’ESAP des informations historiques conformément à l’article 1er, paragraphe 3, effectuent les tâches suivantes:\n\n| a) | ils préparent ces informations dans un format permettant l’extraction de données; |\n| --- | --- |\n\n| b) | ils accompagnent ces informations de métadonnées précisant les éléments suivants:i)les noms de l’entité;ii)le type d’informations suivant la classification prévue par l’article 7, paragraphe 4, point c);iii)lorsqu’il est disponible, l’identifiant d’entité juridique de l’entité précisé conformément à l’article 7, paragraphe 4, point b); |\n| --- | --- |\n| i) | les noms de l’entité; |\n| ii) | le type d’informations suivant la classification prévue par l’article 7, paragraphe 4, point c); |\n| iii) | lorsqu’il est disponible, l’identifiant d’entité juridique de l’entité précisé conformément à l’article 7, paragraphe 4, point b); |\n\n| c) | ils précisent que les informations sont des informations historiques. |\n| --- | --- |\n\nPar dérogation au paragraphe 1, point g), du présent article, les informations historiques ne sont pas rendues accessibles sur l’ESAP pendant plus de cinq ans.",
+      "text_sha256": "02ac2b65b4e00b8fff7ef457ebde3b2db518c32b6a6c4716993a4d6cf9286a6a",
+      "md_span": {
+        "start": 9354,
+        "end": 21340
+      },
+      "citations": [
+        {
+          "href": "#ntr15-L_202302859FR.000101-E0015",
+          "text": "(15)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nL’AEMF met en place une politique de sécurité informatique efficace et proportionnée pour l’ESAP et garantit des niveaux appropriés d’authenticité, de disponibilité, d’intégrité et de non-répudiation des informations rendues accessibles sur l’ESAP, ainsi que de protection des données à caractère personnel. L’AEMF peut procéder à des réexamens périodiques de la politique de sécurité informatique de l’ESAP et de sa situation en matière de cybersécurité compte tenu des tendances et développements les plus récents en matière de cybersécurité au niveau international et au niveau de l’Union.",
+      "text_sha256": "3d79298dc4d0d6766cf7c021691e93f5646ef70256af7b80939a42b8bcd9b254",
+      "md_span": {
+        "start": 21373,
+        "end": 21976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. L’AEMF veille à ce que l’ESAP dispose au moins des fonctionnalités suivantes:\n\n| a) | un portail internet doté d’une interface conviviale, qui tient compte des besoins d’accès des personnes en situation de handicap, destiné à donner accès aux informations figurant sur l’ESAP dans toutes les langues officielles de l’Union; |\n| --- | --- |\n\n| b) | une API qui permet un accès facile aux informations figurant sur l’ESAP; |\n| --- | --- |\n\n| c) | une fonction de recherche dans toutes les langues officielles de l’Union; |\n| --- | --- |\n\n| d) | un visionneur pour les informations; |\n| --- | --- |\n\n| e) | un service de traduction automatique pour les informations extraites; |\n| --- | --- |\n\n| f) | un service de téléchargement, y compris pour de grandes quantités de données; |\n| --- | --- |\n\n| g) | un service de notification informant les utilisateurs de toute nouvelle information sur l’ESAP; |\n| --- | --- |\n\n| h) | la présentation des informations communiquées à titre volontaire en vertu de l’article 1er, paragraphe 1, point b), de façon que:i)elles puissent être clairement distinguées des informations communiquées à titre obligatoire en vertu de l’article 1er, paragraphe 1, point a);ii)le cas échéant, les utilisateurs soient informés que les informations ne répondent pas nécessairement à toutes les exigences applicables aux informations communiquées à titre obligatoire en vertu de l’article 1er, paragraphe 1, point a), et qu’elles ne seront pas nécessairement mises à jour au fil du temps. |\n| --- | --- |\n| i) | elles puissent être clairement distinguées des informations communiquées à titre obligatoire en vertu de l’article 1er, paragraphe 1, point a); |\n| ii) | le cas échéant, les utilisateurs soient informés que les informations ne répondent pas nécessairement à toutes les exigences applicables aux informations communiquées à titre obligatoire en vertu de l’article 1er, paragraphe 1, point a), et qu’elles ne seront pas nécessairement mises à jour au fil du temps. |\n\n2. L’AEMF veille à ce que l’ESAP offre les fonctionnalités prévues au paragraphe 1, points e) et g), d’ici au 10 juillet 2028. L’AEMF veille à ce que l’ESAP offre les fonctionnalités prévues au paragraphe 1, point h), au plus tard le 9 janvier 2030.\n\n3. La fonction de recherche visée au paragraphe 1, point c), du présent article permet d’effectuer une recherche sur la base des métadonnées suivantes:\n\n| a) | les noms de l’entité qui a communiqué les informations ainsi que de la personne physique ou morale à laquelle les informations se rapportent; |\n| --- | --- |\n\n| b) | l’identifiant d’entité juridique de l’entité qui a communiqué les informations et de la personne morale à laquelle les informations se rapportent; |\n| --- | --- |\n\n| c) | le type d’informations, telles qu’elles sont visées à l’article 1er, paragraphe 1, communiquées par l’entité et l’indication que ces informations ont été communiquées soit à titre obligatoire en application de l’article 1er, paragraphe 1, point a), soit à titre volontaire en application du point b) dudit paragraphe; |\n| --- | --- |\n\n| d) | la date et l’heure auxquelles les informations ont été communiquées par l’entité à l’organisme de collecte; |\n| --- | --- |\n\n| e) | la date ou la période à laquelle les informations se rapportent; |\n| --- | --- |\n\n| f) | la taille, par catégorie, de l’entité qui a communiqué les informations et de la personne morale à laquelle les informations se rapportent; |\n| --- | --- |\n\n| g) | le pays du siège social de la personne morale à laquelle les informations se rapportent; |\n| --- | --- |\n\n| h) | le ou les secteurs industriels des activités économiques de la personne physique ou morale auxquelles les informations se rapportent; |\n| --- | --- |\n\n| i) | l’organisme de collecte responsable de la collecte des informations; |\n| --- | --- |\n\n| j) | la langue dans laquelle les informations ont été communiquées. |\n| --- | --- |\n\n4. Les AES élaborent, par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution précisant les éléments suivants:\n\n| a) | les caractéristiques de l’API prévue au paragraphe 1, point b); |\n| --- | --- |\n\n| b) | l’identifiant d’entité juridique spécifique visé au paragraphe 3, point b); |\n| --- | --- |\n\n| c) | la classification des types d’informations visés au paragraphe 3, point c); |\n| --- | --- |\n\n| d) | les catégories de tailles des entités visées au paragraphe 3, point f); |\n| --- | --- |\n\n| e) | la caractérisation des secteurs industriels visés au paragraphe 3, point h). |\n| --- | --- |\n\nLes AES soumettent ces projets de normes techniques d’exécution à la Commission au plus tard le 10 septembre 2024.\n\nLa Commission est habilitée à adopter les normes techniques d’exécution visées au premier alinéa du présent paragraphe conformément à l’article 15 du règlement (UE) no 1093/2010, à l’article 15 du règlement (UE) no 1094/2010 et à l’article 15 du règlement (UE) no 1095/2010.",
+      "text_sha256": "a6d909f57acc724034ef054e4a642d9b5632357d67f806fef0312b8460716f81",
+      "md_span": {
+        "start": 22009,
+        "end": 26950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Afin de promouvoir la transparence et de favoriser le bon fonctionnement des marchés des capitaux de l’Union, l’AEMF veille à ce que l’accès aux informations sur l’ESAP soit donné sans discrimination et à ce que les utilisateurs aient accès gratuitement, directement et immédiatement aux informations sur l’ESAP.\n\n2. L’AEMF facture cependant des frais pour des services spécifiques qui impliquent des coûts de maintenance et d’entretien élevés ou qui concernent des recherches et des téléchargements portant sur des volumes importants d’informations. Ces frais ne dépassent pas les coûts directs supportés par l’AEMF pour la fourniture de ces services. Les frais perçus pour ces services sont alloués au fonctionnement général de l’ESAP.\n\n3. L’AEMF peut demander aux utilisateurs des services pour lesquels l’AEMF facture des frais, tels qu’ils sont visés au paragraphe 2, de remplir une déclaration numérique.\n\n4. Nonobstant le paragraphe 2, l’AEMF permet aux entités suivantes d’avoir accès gratuitement, directement et immédiatement aux informations sur l’ESAP dans la mesure nécessaire à ces entités pour mener à bien leurs responsabilités, mandats et obligations respectifs:\n\n| a) | toute institution ou tout organe ou organisme de l’Union; |\n| --- | --- |\n\n| b) | toute autorité compétente désignée par un État membre en vertu d’un acte législatif de l’Union; |\n| --- | --- |\n\n| c) | tout membre du système statistique européen tel qu’il est défini à l’article 4 du règlement (CE) no 223/2009 du Parlement européen et du Conseil (16); |\n| --- | --- |\n\n| d) | tout membre du système européen de banques centrales; |\n| --- | --- |\n\n| e) | les autorités de résolution désignées en vertu de l’article 3 de la directive 2014/59/UE du Parlement européen et du Conseil (17); |\n| --- | --- |\n\n| f) | toute institution publique ou tout organe ou organisme public d’un État membre; |\n| --- | --- |\n\n| g) | tout établissement d’enseignement et de formation à des fins exclusives de recherche, les établissements universitaires, les organisations de presse et les organisations non gouvernementales dans la mesure où l’accès aux informations est nécessaire à l’accomplissement de leurs tâches; |\n| --- | --- |\n\n| h) | les entités qui fournissent et utilisent des informations sur l’ESAP pour remplir leurs obligations réglementaires. |\n| --- | --- |\n\n5. Aux fins du paragraphe 2, l’AEMF élabore des projets de normes techniques d’exécution pour déterminer la nature et la portée des services spécifiques pour lesquels des frais peuvent être facturés, ainsi que la structure des frais associés.\n\nL’AEMF soumet ces projets de normes techniques d’exécution à la Commission.\n\nLa Commission est habilitée à adopter les normes techniques d’exécution visées au premier alinéa du présent paragraphe conformément à l’article 15 du règlement (UE) no 1095/2010.\n\n6. L’AEMF publie et rend facilement accessibles sur le site internet de l’ESAP la structure des frais, les seuils de volume, le cas échéant, ainsi que les taux. L’AEMF réexamine chaque année les seuils de volume et les taux.",
+      "text_sha256": "c0b57a5ffbe0f5b871c3213d0b85d3605da622a05085263fa769f26f47623ea1",
+      "md_span": {
+        "start": 26983,
+        "end": 30067
+      },
+      "citations": [
+        {
+          "href": "#ntr16-L_202302859FR.000101-E0016",
+          "text": "(16)"
+        },
+        {
+          "href": "#ntr17-L_202302859FR.000101-E0017",
+          "text": "(17)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Ni l’AEMF ni les organismes de collecte ne sont tenus responsables de quelque manière que ce soit de l’accès, de l’utilisation ou de la réutilisation des informations communiquées par les entités aux organismes de collecte et rendues accessibles sur l’ESAP.\n\n2. Les données à caractère personnel accessibles sur l’ESAP sont utilisées et réutilisées conformément au règlement (UE) 2016/679. Toute donnée à caractère personnel réutilisée n’est pas conservée plus longtemps que nécessaire et, en tout état de cause, au-delà d’un délai de cinq ans, sauf si les actes législatifs de l’Union relevant de l’article 1er, paragraphe 1, point a), du présent règlement en disposent autrement.\n\n3. L’AEMF veille à ce que l’utilisation et la réutilisation des informations accessibles sur l’ESAP ne soient soumises à aucune condition, sauf si ces conditions répondent aux exigences suivantes:\n\n| a) | elles sont objectives et non discriminatoires; |\n| --- | --- |\n\n| b) | elles sont justifiées sur la base d’un objectif d’intérêt public; |\n| --- | --- |\n\n| c) | le cas échéant, en fonction du type d’informations, elles correspondent aux conditions dont sont assorties les licences types ouvertes au sens de l’article 2, point 5), de la directive (UE) 2019/1024 et permettent l’utilisation, la modification et le partage libres de ces informations par tous quelle qu’en soit la finalité. |\n| --- | --- |\n\n4. L’utilisation et la réutilisation des informations rendues accessibles sur l’ESAP à des fins réglementaires et non commerciales ne sont pas limitées par les entités qui communiquent leurs informations en vue de leur publication en vertu d’un droit sui generis visé à l’article 7, paragraphe 1, de la directive 96/9/CE.",
+      "text_sha256": "4de951c5b5537797c329315501a578218dd79e13d8a290c5459640e145a65552",
+      "md_span": {
+        "start": 30100,
+        "end": 31827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. L’AEMF effectue des validations automatiques pour vérifier si toutes les informations transmises à l’ESAP par les organismes de collecte respectent les exigences énoncées à l’article 5, paragraphe 1, point c).\n\nLorsque les informations transmises par l’organisme de collecte ont été communiquées par une entité, l’AEMF peut effectuer des validations automatiques sur la base d’échantillons. Ces validations automatiques ne diffèrent pas de celles qui sont effectuées par les organismes de collecte conformément à l’article 5, paragraphe 1, point c).\n\n2. L’AEMF met en œuvre des procédés techniques appropriés pour notifier automatiquement à un organisme de collecte les cas dans lesquels les informations transmises ne respectent pas les exigences énoncées à l’article 5, paragraphe 1, point c). En cas de non-respect de ces exigences, les entités sont responsables des informations. L’organisme de collecte informe l’entité lorsque les informations ont été rejetées et lui notifie les raisons de ce rejet conformément à l’article 5, paragraphe 4.\n\n3. L’AEMF peut effectuer des contrôles supplémentaires de la qualité des données, de leur intégrité et de la preuve de leur origine. Sur la base des résultats de ces contrôles, l’AEMF peut informer les organismes de collecte des insuffisances recensées et suspendre l’accessibilité des informations sur l’ESAP.",
+      "text_sha256": "4fde6415707d3f26358dcc811dbfa9472657030926b7082f5f5b0dae04e218cf",
+      "md_span": {
+        "start": 31862,
+        "end": 33236
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. L’AEMF, en étroite coopération avec l’ABE et l’AEAPP, effectue les tâches suivantes:\n\n| a) | veiller à ce que les informations transmises par les organismes de collecte, après leur communication par les entités, soient rendues accessibles sur l’ESAP sans retard injustifié; |\n| --- | --- |\n\n| b) | offrir une assistance aux organismes de collecte; |\n| --- | --- |\n\n| c) | veiller à ce que l’ESAP soit accessible au moins 97 % du temps chaque mois, exclusion faite des cas de maintenance programmée, de mises à jour de contenus et de mises à niveau de pages, auquel cas les utilisateurs doivent être clairement informés en précisant la durée probable d’interruption des services de l’ESAP; |\n| --- | --- |\n\n| d) | se concerter, s’il y a lieu, avec les organismes de collecte au sujet des difficultés communes et des principes de conduite communs, notamment afin de discuter:i)de la gestion quotidienne de l’ESAP;ii)de l’élaboration et de la mise en œuvre d’une politique de qualité ainsi que, s’il y a lieu, d’accords de niveau de service entre l’AEMF et les organismes de collecte;iii)des conditions de financement de l’ESAP, notamment les situations dans lesquelles des frais peuvent être facturés et le mode de calcul de ces frais;iv)des menaces existantes et potentielles en matière de cybersécurité;v)de la mise en œuvre et du fonctionnement de l’ESAP en ce qui concerne toute délégation de tâches conformément à l’article 5, paragraphe 8; |\n| --- | --- |\n| i) | de la gestion quotidienne de l’ESAP; |\n| ii) | de l’élaboration et de la mise en œuvre d’une politique de qualité ainsi que, s’il y a lieu, d’accords de niveau de service entre l’AEMF et les organismes de collecte; |\n| iii) | des conditions de financement de l’ESAP, notamment les situations dans lesquelles des frais peuvent être facturés et le mode de calcul de ces frais; |\n| iv) | des menaces existantes et potentielles en matière de cybersécurité; |\n| v) | de la mise en œuvre et du fonctionnement de l’ESAP en ce qui concerne toute délégation de tâches conformément à l’article 5, paragraphe 8; |\n\n| e) | superviser la mise en œuvre et le fonctionnement de l’ESAP et faire rapport à la Commission sur ce sujet une fois par an comme précisé à l’article 12. |\n| --- | --- |\n\n2. Aux fins du paragraphe 1 du présent article, l’AEMF veille à ce que, par la mise en place d’un groupe de travail, d’un groupe ou d’un comité ad hoc, selon le cas, les experts et les parties intéressées soient consultés afin de fournir conseils et assistance en vue de la mise en œuvre technique de l’ESAP. En outre, l’AEMF peut consulter le groupe des parties intéressées au secteur financier visé à l’article 37 du règlement (UE) no 1095/2010.\n\n3. À moins que cela ne soit nécessaire pour faciliter l’accès aux informations transmises par les organismes de collecte et pour la mise en œuvre des exigences du présent règlement, l’AEMF ne stocke pas d’informations contenant des données à caractère personnel, sauf à des fins de traitement automatique, intermédiaire et transitoire. L’AEMF prend les mesures techniques et organisationnelles nécessaires pour garantir que le traitement de données à caractère personnel via l’ESAP est effectué conformément au règlement (UE) 2018/1725 et que les informations contenant des données à caractère personnel ne sont pas conservées ni mises à disposition plus longtemps que ne le prévoit l’article 5, paragraphe 1, point g).\n\n4. L’AEMF veille à ce que le traitement des données à caractère personnel soit conforme au cadre juridique relatif à la protection des données à caractère personnel traitées par les institutions, organes et organismes de l’Union.",
+      "text_sha256": "7740ed6b4a98d8f99e4af5ab17946ddc86d05eedd2f31bca7e350be9c1d2490a",
+      "md_span": {
+        "start": 33271,
+        "end": 36931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. L’AEMF, en étroite coopération avec l’ABE et l’AEAPP, supervise le fonctionnement de l’ESAP sur la base, au moins, des indicateurs qualitatifs et quantitatifs énoncés au paragraphe 2 et publie et présente au Parlement européen et au Conseil un rapport annuel sur le fonctionnement de l’ESAP.\n\n2. Les indicateurs qualitatifs et quantitatifs visés au paragraphe 1 sont les suivants:\n\n| a) | le nombre de visiteurs, de recherches et de téléchargements; |\n| --- | --- |\n\n| b) | le type d’informations visionnées et téléchargées, en pourcentage; |\n| --- | --- |\n\n| c) | les frais visés à l’article 8, paragraphe 2, et les montants facturés par l’AEMF; |\n| --- | --- |\n\n| d) | le pourcentage de recherches qui débouchent sur un visionnage ou un téléchargement, par type d’informations et d’accès; |\n| --- | --- |\n\n| e) | la quantité et le pourcentage des informations lisibles par machine accessibles sur l’ESAP ainsi que la quantité et le pourcentage d’informations lisibles par machine visionnées et téléchargées; |\n| --- | --- |\n\n| f) | la part de notifications à la suite des validations automatiques visées à l’article 10, paragraphe 2; |\n| --- | --- |\n\n| g) | tout dysfonctionnement ou incident important qui perturbe le fonctionnement ou les performances générales de l’ESAP; |\n| --- | --- |\n\n| h) | une évaluation indiquant si les informations figurant sur l’ESAP sont accessibles, si elles sont de bonne qualité, si elles sont utilisables, si elles sont fiables et si elles sont disponibles en temps utile; |\n| --- | --- |\n\n| i) | une évaluation de la réalisation des objectifs de l’ESAP, tenant compte de l’évolution de son utilisation et des flux d’information dans l’Union; |\n| --- | --- |\n\n| j) | une évaluation de la satisfaction des utilisateurs finaux; |\n| --- | --- |\n\n| k) | une comparaison avec des systèmes similaires dans des pays tiers. |\n| --- | --- |\n\n3. Avant de soumettre le rapport visé au paragraphe 1 du présent article, l’AEMF consulte le groupe de travail, le groupe ou le comité ad hoc mis en place en vertu de l’article 11, paragraphe 2, du présent règlement et peut consulter le groupe des parties intéressées au secteur financier prévu à l’article 37 du règlement (UE) no 1095/2010.",
+      "text_sha256": "b17a8e9a9a4374b74b8ffb094cf20bce567abeec83b1347bd209dd28bf891d2e",
+      "md_span": {
+        "start": 36966,
+        "end": 39192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Au plus tard le 10 janvier 2029, la Commission, en étroite coopération avec l’AEMF et compte tenu des rapports annuels visés à l’article 12, présente un rapport au Parlement européen et au Conseil sur la mise en œuvre, le fonctionnement et l’efficacité de l’ESAP.\n\n2. Le rapport visé au paragraphe 1 aborde les éléments suivants:\n\n| a) | les problèmes techniques rencontrés par les entités et par les organismes de collecte lors de la mise en œuvre de l’ESAP; |\n| --- | --- |\n\n| b) | l’efficacité du système de collecte et de transmission d’informations aux fins de l’ESAP; |\n| --- | --- |\n\n| c) | la résilience opérationnelle de l’ESAP face aux risques informatiques et la fiabilité des informations rendues accessibles sur l’ESAP, y compris au moyen de cachets électroniques qualifiés; |\n| --- | --- |\n\n| d) | les coûts supportés par les entités et par les organismes de collecte, y compris une évaluation indiquant si les organismes de collecte qui sont des autorités compétentes ont augmenté leurs redevances de surveillance à la suite des coûts qu’ils doivent supporter en raison de l’ESAP; |\n| --- | --- |\n\n| e) | les coûts supportés par l’AEMF en tant gestionnaire de l’ESAP et le système de financement de l’ESAP; |\n| --- | --- |\n\n| f) | l’impact de l’ESAP sur l’accès du public aux informations des entités dans le domaine des services financiers, des marchés des capitaux et de la durabilité; |\n| --- | --- |\n\n| g) | l’impact de l’ESAP sur la visibilité des entités auprès des investisseurs transfrontaliers, y compris la visibilité des PME; |\n| --- | --- |\n\n| h) | l’impact de l’ESAP sur la position sur le marché des fournisseurs de données privés dans l’Union; |\n| --- | --- |\n\n| i) | l’interopérabilité de l’ESAP avec des plateformes mondiales similaires; |\n| --- | --- |\n\n| j) | la mise en œuvre et le fonctionnement de l’ESAP en ce qui concerne la délégation de tâches conformément à l’article 5, paragraphe 8. |\n| --- | --- |\n\n3. Compte tenu de la valeur ajoutée, des difficultés techniques et des coûts escomptés, le rapport visé au paragraphe 1 comporte une analyse coûts-bénéfices de l’inclusion future, dans le champ d’application du présent règlement, d’informations éventuellement pertinentes qui ne sont pas encore accessibles sur l’ESAP au moment où le rapport est élaboré, ce qui entraîne une lacune dans les données.\n\nLe rapport comporte également des recommandations pour l’évolution future de l’ESAP.\n\n4. La Commission adopte un acte délégué conformément à l’article 14 pour modifier les actes législatifs de l’Union visés au second alinéa du présent paragraphe afin de reporter de 36 mois au maximum l’inclusion, sur l’ESAP, d’informations dont la communication à l’ESAP n’est pas encore obligatoire ou autorisée en vertu de l’article 1er, paragraphe 1, point a), si la Commission conclut, dans le rapport visé au paragraphe 1 du présent article, à l’existence avérée de difficultés graves et généralisées en ce qui concerne les éléments énumérés au paragraphe 2, points a) et b), du présent article.\n\nLes actes législatifs de l’Union visés au premier alinéa du présent paragraphe comprennent les actes suivants:\n\n| — | règlement (UE) no 575/2013 (article 434 ter); |\n| --- | --- |\n\n| — | règlement (UE) no 537/2014 (article 13 bis); |\n| --- | --- |\n\n| — | règlement (UE) no 600/2014 (article 23 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2015/760 (article 25 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2015/2365 (article 32 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2017/1131 (article 37 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2019/2033 (article 46 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2023/1114 (article 110 bis); |\n| --- | --- |\n\n| — | règlement (UE) 2023/2631 (article 15 bis); |\n| --- | --- |\n\n| — | directive 2002/87/CE (article 30 ter); |\n| --- | --- |\n\n| — | directive 2004/25/CE (article 16 bis); |\n| --- | --- |\n\n| — | directive 2006/43/CE (article 20 bis); |\n| --- | --- |\n\n| — | directive 2007/36/CE (article 14 quater); |\n| --- | --- |\n\n| — | directive 2009/138/CE (article 304 ter); |\n| --- | --- |\n\n| — | directive 2011/61/UE (article 69 ter); |\n| --- | --- |\n\n| — | directive 2013/36/UE (article 116 bis); |\n| --- | --- |\n\n| — | directive 2014/59/UE (article 128 bis); |\n| --- | --- |\n\n| — | directive 2014/65/UE (article 87 bis); |\n| --- | --- |\n\n| — | directive (UE) 2016/97 (article 40 bis); |\n| --- | --- |\n\n| — | directive (UE) 2016/2341 (article 63 bis); |\n| --- | --- |\n\n| — | directive (UE) 2019/2034 (article 44 bis); |\n| --- | --- |\n\n| — | directive (UE) 2019/2162 (article 29 bis). |\n| --- | --- |",
+      "text_sha256": "b7753f62156a0984e6f47972a0f7f146435d4ca5c76fda6dd8fdd8077e622c2a",
+      "md_span": {
+        "start": 39227,
+        "end": 43812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.\n\n2. Le pouvoir d’adopter un acte délégué visé à l’article 13, paragraphe 4, est conféré à la Commission pour une période de douze mois à compter de la publication du rapport visé à l’article 13, paragraphe 1.\n\n3. La délégation de pouvoir visée à l’article 13, paragraphe 4, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au Journal officiel de l’Union européenne ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.\n\n4. Avant l’adoption d’un acte délégué, la Commission consulte les experts désignés par chaque État membre, conformément aux principes définis dans l’accord interinstitutionnel du 13 avril 2016«Mieux légiférer».\n\n5. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.\n\n6. Un acte délégué n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de trois mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de trois mois à l’initiative du Parlement européen ou du Conseil.",
+      "text_sha256": "b4ac6dab1576728b97befd77ae88c8c03c6fc585bfbb8b8476b43713485f1519",
+      "md_span": {
+        "start": 43847,
+        "end": 45474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32023r2859:2023-12-13--2bfc490320ad398ebfa0399a874982d87e224d6ca63f3dc2ac85278d45f941fa#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "cfe081e7e89f0f96375ca681c3629abad2b3f587618ae2d84c70ed835ab879b5",
+      "md_span": {
+        "start": 45509,
+        "end": 45651
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

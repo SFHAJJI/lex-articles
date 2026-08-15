@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r2139:2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/2139 of 4 June 2021 supplementing Regulation (EU) 2020/852",
+  "valid_from": "2025-01-08",
+  "valid_to": "2025-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r2139/versions/2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246/fr.xml",
+    "sha256": "558c56ed42e34fe80fb93cd691c5daed70c0d307dd096d8ec622137de5ba45d7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02021R2139-20250108"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r2139:2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les critères d’examen technique permettant de déterminer à quelles conditions on peut considérer qu’une activité économique contribue substantiellement à l’atténuation du changement climatique et ne cause de préjudice important à aucun des autres objectifs environnementaux énoncés à l’article 9 du règlement (UE) 2020/852 sont établis à l’annexe I du présent règlement.",
+      "text_sha256": "17adc47b8e073a8610ccb8bf040a5993fb031c667e3e2abcfda39a96fae91972",
+      "md_span": {
+        "start": 736,
+        "end": 1106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r2139:2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les critères d’examen technique permettant de déterminer à quelles conditions on peut considérer qu’une activité économique contribue substantiellement à l’adaptation au changement climatique et ne cause de préjudice important à aucun des autres objectifs environnementaux énoncés à l’article 9 du règlement (UE) 2020/852 sont établis à l’annexe II du présent règlement.",
+      "text_sha256": "ab4bd3f3524841ec4cf58a1a219e9f0a8846ad01af5e79f7a0c73eb9781497e6",
+      "md_span": {
+        "start": 1143,
+        "end": 1513
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2a",
+      "provision_id": "eu-eurlex:32021r2139:2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246#art_2a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 bis",
+      "heading": "Réexamen",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’elle procède au réexamen visé à l’article 19, paragraphe 5, du règlement (UE) 2020/852, la Commission examine et évalue également la nécessité de modifier les dates visées à l’annexe I, section 4.27, section 4.28, section 4.29, point 1 b), section 4.30, point 1 b), et section 4.31, point 1 b).\n\nTout examen de la date visée à l’annexe I, sections 4.27 et 4.28, point 2), tient compte des progrès techniques accomplis dans la commercialisation de combustibles résistants aux accidents dans l’Union et dans le monde.",
+      "text_sha256": "fe77c6d82a943be4d67ae30db2005d21e3c6b1f42fc8875764a066fcd95feccd",
+      "md_span": {
+        "start": 1566,
+        "end": 2088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r2139:2025-01-08--29ccad40f23a9bbc60c5a8e0ea442c4f51ed648a768b1ba3bf7dc4207200b246#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nIl est applicable à partir du 1er janvier 2022.",
+      "text_sha256": "cff71ca1b557fc3dce22ab135fd996f8b504bdcae0277f693fb1f5ef4f78b5ab",
+      "md_span": {
+        "start": 2125,
+        "end": 2306
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

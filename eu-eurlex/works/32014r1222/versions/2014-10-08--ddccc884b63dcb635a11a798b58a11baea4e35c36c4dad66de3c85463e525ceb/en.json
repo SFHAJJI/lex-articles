@@ -1,0 +1,172 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 1222/2014 of 8 October 2014 supplementing Directive 2013/36/EU",
+  "valid_from": "2014-10-08",
+  "valid_to": "2016-09-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1222/versions/2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb/en.xml",
+    "sha256": "99c4c7c1f62ae8869bcf185d6f95ff652ac2752897af579e2f7a6599f8e5bbfc",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1222"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation specifies the methodology in accordance with which the authority referred to in Article 131(1) of Directive 2013/36/EU (hereinafter referred to as ‘relevant authority’) of a Member State shall identify, on a consolidated basis, a relevant entity as a global systemically important institution (G-SII), and the methodology for the definition of subcategories of G-SIIs and the allocation of G-SIIs to those subcategories based on their systemic significance and, as part of the methodology, timelines and data to be used for the identification.",
+      "text_sha256": "cfb231f40e54dda28e613f779ea3bb72d96a15773dbf813040ff81c10da6824d",
+      "md_span": {
+        "start": 719,
+        "end": 1289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purpose of this Regulation, the following definitions apply:\n\n| (1) | ‘Relevant entity’ means an EU parent institution or EU parent financial holding company or EU parent mixed financial holding company or an institution that is not a subsidiary of an EU parent institution or EU parent financial holding company or EU parent mixed financial holding company; |\n| --- | --- |\n\n| (2) | ‘Indicator value’ means for each indicator set out in Article 6 and for each relevant entity of the sample the individual value of the indicator and for each bank authorised in a third country a comparable individual value publicly disclosed in accordance with internationally agreed standards; |\n| --- | --- |\n\n| (3) | ‘Denominator’ means for each indicator the total aggregate value of the indicator values of the relevant entities and banks authorised in third countries of the sample; |\n| --- | --- |\n\n| (4) | ‘Cut-off score’ means a score value determining the lowest boundary and the boundaries between the five subcategories as defined in Article 131(9) of Directive 2013/36/EU. |\n| --- | --- |",
+      "text_sha256": "255ce6df2920a3a36d5c0fa917ba3c60fdc14f021ddc66e5279d928d9b554473",
+      "md_span": {
+        "start": 1322,
+        "end": 2426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The EBA shall identify a sample of institutions or groups whose indicator values are to be used as reference values representing the global banking sector for the purpose of calculating the scores, taking into account internationally agreed standards, in particular the sample used by the Basel Committee on Banking Supervision for the identification of global systemically important banks and shall notify relevant authorities of the relevant entities included in the sample by 31 July of each year.\n\nThe sample shall consist of relevant entities and banks authorised in third countries and comprise the 75 largest of them, based on the total exposure as defined in Article 6(1), as well as relevant entities that were designated as G-SIIs and banks in third countries that were designated as global systemically important in the previous year.\n\nThe EBA shall exclude or add relevant entities or banks authorised in third countries, if and to the extent necessary to ensure an adequate reference system for assessing systemic significance reflecting the global financial markets and the global economy, taking into account internationally agreed standards including the sample used by the Basel Committee on Banking Supervision.\n\n2. The relevant authority shall report the indicator values of each relevant entity with an exposure measure above EUR 200 billion which is authorised within its jurisdiction to the EBA not later than 31 July each year. The relevant authority shall ensure that the indicator values are identical to the ones submitted to the Basel Committee on Banking Supervision and to those disclosed by that relevant entity in accordance with Commission Implementing Regulation (EU) No 1030/2014 (3). The relevant authority shall use the templates set out therein.\n\n3. The EBA shall compute the denominators, based on the indicator values reported by the relevant authority pursuant to paragraph 2, taking into account internationally agreed standards, in particular the denominators published by the Basel Committee on Banking Supervision for that year, and notify them to relevant authorities. The denominator of an indicator shall be the aggregate amount of the indicator values across all relevant entities and banks authorised in third countries in the sample, as reported for the relevant entities pursuant to paragraph 2 and disclosed by the banks authorised in third countries on 31 July of the relevant year.",
+      "text_sha256": "63b1d2c1d740b04ed6b175ddffc9fcf7fdd031437e57ee7aa9273f9c856cf7bc",
+      "md_span": {
+        "start": 2459,
+        "end": 4908
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2014330EN.01002701-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The relevant authority shall calculate the scores of the relevant entities that are included in the sample notified by the EBA, which are authorised in its jurisdiction, not later than 15 December of each year. Where the relevant authority, in the exercise of sound supervisory judgment, designates a relevant entity as a G-SII in accordance with Article 131(10)(b) of Directive 2013/36/EU, the relevant authority shall communicate a detailed statement in written form on the reasons for its assessment to the EBA not later than 15 December of each year.\n\n2. The identification of a relevant entity as a G-SII and the allocation to a subcategory shall take effect as of the 1 January of the second year following the calendar year when the denominators have been determined in accordance with Article 3.",
+      "text_sha256": "4ac5ff33ea785d38b42549e3ba1e9ea67f833d722873222fe869681605abdb5f",
+      "md_span": {
+        "start": 4941,
+        "end": 5758
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The indicator values shall be based on reported data of the relevant entity of the preceding financial year-end, on a consolidated basis, and for banks authorised in third countries on data disclosed in accordance with internationally agreed standards. Relevant authorities may use indicator values of relevant entities whose financial year-end is 30 June based on their position on 31 December.\n\n2. The relevant authority shall determine the score of each relevant entity of the sample as the simple average of the category scores subject to a maximum category score of 500 base points for the category measuring the substitutability. Each category score shall be calculated as the simple average of the values resulting from dividing each of the indicator values of that category by the denominator of the indicator notified by the EBA. The scores shall be expressed in base points and shall be rounded to the nearest whole base point.\n\n3. The lowest cut-off score shall be 130 base points. The subcategories shall be allocated as follows:\n\n| (a) | subcategory 1 shall encompass scores from 130 to 229 base points; |\n| --- | --- |\n\n| (b) | subcategory 2 shall encompass scores from 230 to 329 base points; |\n| --- | --- |\n\n| (c) | subcategory 3 shall encompass scores from 330 to 429 base points; |\n| --- | --- |\n\n| (d) | subcategory 4 shall encompass scores from 430 to 529 base points; |\n| --- | --- |\n\n| (e) | subcategory 5 shall encompass scores from 530 to 629 base points. |\n| --- | --- |\n\n4. The relevant authority shall identify a relevant entity as a G-SII where the score of that entity is equal to or higher than the lowest cut-off score. A decision to designate a relevant entity as a G-SII in the exercise of sound supervisory judgment in accordance with Article 131(10)(b) of Directive 2013/36/EU shall be based on an assessment of whether its failure would have a significant negative impact on the global financial market and the global economy.\n\n5. The relevant authority shall allocate a G-SII to a subcategory in accordance with its score. A decision to re-allocate a G-SII from a lower subcategory to a higher subcategory in the exercise of sound supervisory judgment in accordance with Article 131(10)(a), of Directive 2013/36/EU shall be based on an assessment whether its failure would have a higher negative impact on the global financial market and the global economy.\n\n6. The decisions referred to in paragraphs 4 and 5 may be supported by ancillary indicators, which shall not be indicators of the probability that the relevant entity fails. Such decisions shall comprise well documented and verifiable quantitative and qualitative information.",
+      "text_sha256": "35603a6e32cd06892addebb1dea38ab9dd32424c5b9ccc67a2f8c5cb96863daa",
+      "md_span": {
+        "start": 5791,
+        "end": 8478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The category measuring the size of the group shall consist of one indicator equal to the total exposure of the group as further specified in the Annex.\n\n2. The category measuring the interconnectedness of the group with the financial system shall consist of all of the following indicators, as further specified in the Annex:\n\n| (a) | intra-financial system assets; |\n| --- | --- |\n\n| (b) | intra-financial system liabilities; |\n| --- | --- |\n\n| (c) | securities outstanding. |\n| --- | --- |\n\n3. The category measuring the substitutability of the services or of the financial infrastructure provided by the group shall consist of all of the following indicators, as further specified in the Annex:\n\n| (a) | assets under custody; |\n| --- | --- |\n\n| (b) | payments activity; |\n| --- | --- |\n\n| (c) | underwritten transactions in debt and equity markets. |\n| --- | --- |\n\n4. The category measuring the complexity of the group shall consist of all of the following indicators, as further specified in the Annex:\n\n| (a) | notional amount of over-the-counter derivatives; |\n| --- | --- |\n\n| (b) | assets included in the level 3 of fair-value measured in accordance with Commission Regulation (EU) No 1255/2012 (4); |\n| --- | --- |\n\n| (c) | trading and available-for-sale securities. |\n| --- | --- |\n\n5. The category measuring the cross border activity of the group shall consist of the following indicators, as further specified in the Annex:\n\n| (a) | cross-jurisdictional claims; |\n| --- | --- |\n\n| (b) | cross-jurisdictional liabilities. |\n| --- | --- |\n\n6. For data reported in currencies other than the Euro, the relevant authority shall use an appropriate exchange rate taking into account the reference exchange rate published by the European Central Bank applicable on 31 December and international standards. For the payment activity indicator as referred to in paragraph 3(b), the relevant authority shall use the average exchanges rates for the relevant year.",
+      "text_sha256": "469df8d83138b8dbc76af7b2cbdc8f100608537225a68adb0b6f5fcc3e477cd8",
+      "md_span": {
+        "start": 8511,
+        "end": 10488
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2014330EN.01002701-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nBy way of derogation from the first subparagraph of Article 3(1), the EBA shall determine the sample to identify a relevant entity as a G-SII for the year 2014 by 14 January 2015. The relevant authorities shall report the indicator values regarding relevant entities within that sample based on data for financial year-ends prior to July 2014 to the EBA, by 21 January 2015. Based on those indicator values, the EBA shall calculate the denominators for the year 2014 by 30 January 2015. The relevant authorities shall determine, on the basis of those denominators, the scores for the relevant entities for the year 2014. They shall also identify G-SIIs and allocate them to subcategories. Concurrently, the relevant authority shall notify the identified G-SIIs to the Commission, the ESRB and EBA and publish their names together with their scores for the year 2014 by 28 February 2015.\n\nBy way of derogation from Article 4(2), the identification of a relevant entity as a G-SII and the subcategory it is allocated to, based on the scores for the year 2014, shall apply from 1 January 2016.",
+      "text_sha256": "98a0cb8dfb44a90ce848303b544329f10380caee7755c2f282568803ae588508",
+      "md_span": {
+        "start": 10521,
+        "end": 11622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r1222:2014-10-08--ddccc884b63dcb635a11a798b58a11baea4e35c36c4dad66de3c85463e525ceb#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2015.",
+      "text_sha256": "fd59a8425a5e06527dcfa303fd73ca12ef8d9a15d37362513c208efcfd3d1c40",
+      "md_span": {
+        "start": 11655,
+        "end": 11843
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

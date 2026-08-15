@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2847r(02):2025-07-02--1567c08f2a7c6e99e9d744852c17429ca81d1ed36f903b7fe1eacf626d7c2ed8",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) 2024/2847",
+  "valid_from": "2025-07-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2847r(02)/versions/2025-07-02--1567c08f2a7c6e99e9d744852c17429ca81d1ed36f903b7fe1eacf626d7c2ed8/en.xml",
+    "sha256": "8fb5f7dad72e6d9211b28ee3daf88eb85df0c64c33382c8568b586e6d31c1bd9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R%2802%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32024r2847r(02):2025-07-02--1567c08f2a7c6e99e9d744852c17429ca81d1ed36f903b7fe1eacf626d7c2ed8#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Official Journal of the European Union EN L series 2025/90555 2.7.2025 Corrigendum to Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) ( Official Journal of the European Union L, 2024/2847, 20 November 2024 ) Page 65, Article 64(10), introductory wording: for: ‘By way of derogation from paragraphs 3 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:’ , read: ‘By way of derogation from paragraphs 2 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:’. ELI: http://data.europa.eu/eli/reg/2024/2847/corrigendum/2025-07-02/oj ISSN 1977-0677 (electronic edition)",
+      "text_sha256": "34b774788d01ae10471b7f8d4f3f9b5879522f97ac871a957f884928d26351ce",
+      "md_span": {
+        "start": 678,
+        "end": 1561
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

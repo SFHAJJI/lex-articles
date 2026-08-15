@@ -1,0 +1,259 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 27 octobre 2018 arrêtant la nomenclature des actes et services des sages-femmes pris en charge par l'assurance maladie.",
+  "valid_from": "2026-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-10-27-a1008/versions/2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2/fr.xml",
+    "sha256": "df25eac2197b403ae72595f9072870c31a60ca37d26c8a488b78888f639ffa5a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20260901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_1er/20260901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Prise en charge des actes et services**"
+      ],
+      "article_valid_from": "2026-09-01",
+      "text_md": "Les actes et services des sages-femmes ne peuvent être pris en charge par une des institutions de sécurité sociale visées par le Code de la sécurité sociale que si cet acte est inscrit au tableau annexé au présent règlement et qui en fait partie intégrante.\n\nLes sages-femmes peuvent en outre mettre en compte les actes et services inscrits dans la nomenclature des infirmiers.\n\nLes sages-femmes exécutent les actes pris en charge en accord avec les règlements fixant les attributions de leur profession sur la base de la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.\n\nNe peuvent être pris en charge que les actes accomplis effectivement et personnellement par le prestataire et ceci uniquement en milieu extra-hospitalier.\n\nL'équipement dont se servent les prestataires pour dispenser les prestations doit être approprié et suffire aux exigences posées par les données acquises par la science.",
+      "text_sha256": "7081c1c4e4e12bec662c0e09d73ab5d3663685cc8a56b36f82a0e4627775b28a",
+      "md_span": {
+        "start": 798,
+        "end": 1746
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1992/03/26/n1/jo",
+          "text": "loi modifiée du 26 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_2/20190101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Tarif d'un acte**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Le tarif d'un acte est obtenu en multipliant son coefficient par la valeur de la lettre-clé négociée par les parties signataires de la convention prévue à l'article 61 du Code de la sécurité sociale.\n\nLe tarif d'un acte est compté en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d'euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d'euros.",
+      "text_sha256": "2de13e3b29f42fffedff69a0cf3910a30a5b02611e08cf71a2f0ef0ae37c31fe",
+      "md_span": {
+        "start": 1805,
+        "end": 2294
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_3/20220201",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Cumul des actes**"
+      ],
+      "article_valid_from": "2022-02-01",
+      "text_md": "Une position comprenant plusieurs actes ne peut être scindée en ses actes la composant.\n\nAucun cumul entre les différents actes de la présente nomenclature n’est possible à l’exception des actes de la section 3 « Accouchement ». La prestation de l’acte VSF64 pendant la période prévue pour les forfaits VSF61 et VSF62 n’est pas considérée comme un cumul d’actes et est dès lors possible dans le cadre de la prise en charge par l’assurance maladie-maternité.",
+      "text_sha256": "ee1f08328aa57083a6eba3c361fbf69ca30bae00e033bf80fc030572cd946744",
+      "md_span": {
+        "start": 2353,
+        "end": 2810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_4/20190101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Frais de location d'appareil et d'installation**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Le tarif des actes comprend les frais d'appareil, de matériel et d'installation du prestataire.",
+      "text_sha256": "a7cb5e6cf122c45a808715a13f76f4c6fc984f3eba43aa0dc2e7f0699c4d3906",
+      "md_span": {
+        "start": 2900,
+        "end": 2995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_5/20190101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Obligation de documentation**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Dans le cadre des actes prévus pour la période prénatale, les sages-femmes inscrivent leurs observations et remarques dans le carnet de maternité de la personne traitée, afin d’assurer la continuité de prise en charge globale de celle-ci.\n\nDans le cadre des actes prévus pour la période post-natale, les sages-femmes inscrivent leurs observations et remarques dans le carnet de santé de l’enfant, afin d’assurer la continuité de prise en charge globale de celui-ci.",
+      "text_sha256": "82303e49992b8f1eb7a38e8e05258a6547cbed1b58adf71be7ebf46224316643",
+      "md_span": {
+        "start": 3066,
+        "end": 3531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_6/20190101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Frais de déplacement**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Les frais de déplacement comprennent l'indemnité de déplacement et les frais de voyage par kilomètre.\n\nLes frais de voyage par kilomètre ne peuvent être mis en compte que pour un déplacement à l'extérieur de la localité où le prestataire a établi son cabinet et à l'intérieur de celle-ci, si le déplacement dépasse un kilomètre. Toutefois, les frais de voyage mis en compte ne peuvent dépasser les frais correspondant à la distance effectivement parcourue.\n\nLes frais de déplacement du prestataire ne peuvent être pris en charge pour les traitements accomplis en milieu hospitalier.\n\nSi, lors du même déplacement, la sage-femme traite plusieurs personnes de la même communauté domestique, les frais de déplacement ne peuvent être mis en compte que pour la personne la première traitée.",
+      "text_sha256": "eb4ccfc4dfa97b3234989e754a092c033b78181e096f3b56d55f7572259889f2",
+      "md_span": {
+        "start": 3595,
+        "end": 4380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_7/20220201",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Majoration des actes**"
+      ],
+      "article_valid_from": "2022-02-01",
+      "text_md": "Le tarif des actes de la première partie de l'annexe, à l'exception des positions VSF61 et VSF 62, accomplis le samedi après 12.00 heures, le dimanche, un jour férié légal ou entre 20.00 et 22.00 heures, est majoré de 25 %. Sur le mémoire d'honoraires le code de l'acte est complété par « T » si l'acte est presté le samedi après 12.00 heures, par « D » si l'acte est presté un dimanche, par « F » si l'acte est presté un jour férié légal et par « G » si l'acte est presté entre 20.00 et 22.00 heures.\n\nLe tarif des actes de la première partie de l'annexe, à l'exception des positions VSF61 et VSF62 accomplis entre 22.00 et 7.00 heures est majoré de 50 %. Sur le mémoire d'honoraires le code de l'acte est complété par « N ».",
+      "text_sha256": "4c2e6890d78ee270b895536535db3dd831110536bcfc31019ccdff6e14e4fe06",
+      "md_span": {
+        "start": 4444,
+        "end": 5170
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_8/20190101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Disposition abrogatoire**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Le règlement grand-ducal modifié du 19 mars 1999 arrêtant la nomenclature des actes et services des sages-femmes pris en charge par l’assurance maladie est abrogé avec effet au 31 décembre 2018.",
+      "text_sha256": "dbf5a229e92b3f928b8b711023ed0f31b9b5e9f3bca644dc0a4af431f1792935",
+      "md_span": {
+        "start": 5237,
+        "end": 5431
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/03/19/n5/jo",
+          "text": "règlement grand-ducal modifié du 19 mars 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_9/20190101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Entrée en vigueur**"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le 1er janvier 2019.",
+      "text_sha256": "1757f50816ad4accce56708fd758234d608d1a882e8ba325d552dcaee1d0de47",
+      "md_span": {
+        "start": 5492,
+        "end": 5562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/art_10/20190101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Entrée en vigueur**"
+      ],
+      "article_valid_from": "2026-09-01",
+      "text_md": "Notre Ministre de la Sécurité sociale et Notre Ministre de la Santé sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "59e399ffe66ce9965df16e531ee496518774312d722f04b90e75373b919aba74",
+      "md_span": {
+        "start": 5599,
+        "end": 5812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2018-10-27-a1008:2026-09-01--d30d625d3817a3231da32b80db86c929e0bf23cc76eb50916eb139df04f14af2#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Tableau des actes et services tel que prévu ****à l’article 1 du présent règlement grand-ducal** | **Tarifs** |\n| --- | --- |\n\nPREMIÈRE PARTIE : ACTES TECHNIQUES\n\nSection 1 : Santé sexuelle et planification familiale\n\n| **Position** | **Libellé** | **Code ** | **Coeff.** |\n| --- | --- | --- | --- |\n| 1) | Consultation de prévention pour l’éducation sexuelle et familiale, durée minimale de 30 minutes, maximum 2 fois par an | VSF01 | 8,70 |\n\nSection 2 : Période prénatale\n\n| **Position** | **Libellé** | **Code ** | **Coeff.** |\n| --- | --- | --- | --- |\n| 1) | Surveillance et réalisation de soins obstétricaux au cours d’une grossesse physiologique | VSF11 | 6,50 |\n| 2) | Surveillance et réalisation de soins obstétricaux, y compris cardiotocogramme, au cours d’une grossesse physiologique avant 40 SA, maximum 2 fois par grossesse | VSF12 | 16,00 |\n| 3) | Surveillance et réalisation de soins obstétricaux, y compris cardiotocogramme, au cours d’une grossesse physiologique à partir de 40 SA | VSF13 | 16,00 |\n| 4) | Surveillance et réalisation de soins obstétricaux au cours d’une grossesse pathologique, sur ordonnance médicale | VSF14 | 6,50 |\n| 5) | Surveillance et réalisation de soins obstétricaux, y compris cardiotocogramme, au cours d’une grossesse pathologique, sur ordonnance médicale | VSF15 | 16,00 |\n| 6) | Consultation au cours de la grossesse conformément au règlement grand-ducal modifié du 27 juillet 2016 portant exécution de certaines dispositions du Livre IV du Code de la sécurité sociale | VSF16 | 13,00 |\n| 7) | Entretien prénatal à domicile, durée minimale de 60 minutes, maximum 1 entretien par grossesse | VSF21 | 15,00 |\n| 8) | 1ère séance de préparation à la naissance et à la parentalité, individuelle ou en couple, durée minimale de 60 minutes | VSF22 | 14,00 |\n| 9) | Séance supplémentaire de préparation à la naissance et à la parentalité, individuelle ou en couple, durée minimale de 60 minutes | VSF23 | 13,40 |\n| 10) | Séance supplémentaire de préparation à la naissance et à la parentalité, en groupe de 2 ou 3 patientes ou couples, durée minimale de 60 minutes | VSF24 | 10,50 |\n| 11) | Séance supplémentaire de préparation à la naissance et à la parentalité, en groupe de 4 à 6 patientes ou couples, durée minimale de 60 minutes | VSF25 | 8,50 |\n| 12) | Séance de préparation à la naissance et à la parentalité, individuelle ou en couple, à domicile, en cas de grossesse pathologique, sur ordonnance médicale, durée minimale de 60 minutes, maximum 6 séances par grossesse | VSF26 | 15,00 |\n\nRemarque :\n\n1. La CNS prend en charge 6 séances maximum d’actes VSF22 à VSF25 par grossesse.\n\nSection 3 : Accouchement\n\n| **Position** | **Libellé** | **Code ** | **Coeff.** |\n| --- | --- | --- | --- |\n| 1) | Accouchement céphalique unique par voie naturelle pour un accouchement extrahospitalier | VSF41 | 80,00 |\n| 2) | Surveillance du travail par une sage-femme pour un accouchement extrahospitalier | VSF42 | 130,00 |\n| 3) | Surveillance du travail par une sage-femme, n’effectuant pas l’accouchement en raison de complications au cours du travail pour un accouchement extrahospitalier | VSF43 | 100,00 |\n| 4) | Forfait « consommables » pour un accouchement extrahospitalier | VSF44 | 24,00 |\n\nSection 4 : Période postnatale\n\n| **Position** | **Libellé** | **Code ** | **Coeff.** |\n| --- | --- | --- | --- |\n| 1) | Forfait pour soins post-partum à domicile, portant sur une durée de 15 jours après la naissance de l’enfant, indemnité de déplacement comprise | VSF61 | 36,00 |\n| 2) | Forfait pour soins post-partum complexes à domicile, portant sur une durée de 21 jours après la naissance de l’enfant, indemnité de déplacement comprise | VSF62 | 60,00 |\n| 3) | Intervention au cours du post-partum ou pendant la période de l’allaitement du nourrisson, sur ordonnance médicale, en dehors du forfait prévu sous VSF61 et VSF62, en cas de pathologie | VSF63 | 6,50 |\n| 4) | Consultation au cours du post-partum conformément au règlement grand-ducal modifié du 27 juillet 2016 portant exécution de certaines dispositions du Livre IV du Code de la sécurité sociale | VSF64 | 13,00 |\n| 5) | Intervention au cours du post-partum ou pendant la période de l’allaitement du nourrisson, sur ordonnance médicale, en dehors du forfait prévu sous VSF61 et VSF62, en cas d’affection | VSF65 | 6,50 |\n| 6) | Première intervention, en dehors du forfait prévu sous VSF61 et VSF62, en cas de difficultés d’allaitement ou d’alimentation du nourrisson de moins de 9 mois | VSF71 | 13,00 |\n| 7) | Interventions suivantes, en dehors du forfait prévu sous VSF61 et VSF62, en cas de difficultés d’allaitement ou d’alimentation du nourrisson de moins de 9 mois, maximum 2 interventions | VSF72 | 6,50 |\n| 8) | Première intervention, en cas de difficultés d’allaitement ou d’alimentation du nourrisson entre 9 mois et moins de 2 ans | VSF73 | 13,00 |\n| 9) | Interventions suivantes, en cas de difficultés d’allaitement ou d’alimentation du nourrisson entre 9 mois et moins de 2 ans, maximum 2 interventions | VSF74 | 6,50 |\n| 10) | Rééducation périnéale en post-partum, maximum 8 séances | VSF81 | 7,90 |\n\nREMARQUES :\n\n1. - sur ordonnance,\n- En cas de naissances multiples,\n- En cas d’accouchement prématuré,\n- En cas de césarienne,\n- in utero\n- En cas de sortie précoce de l’hôpital le jour ou le lendemain de l’accouchement.\n2. - Prématurité,\n- Insuffisance pondérale,\n- Engorgement mammaire.\n\n|  | **Code** | **Coefficient** |  |  |\n| --- | --- | --- | --- | --- |\n| **DEUXIÈME PARTIE : FRAIS DE DÉPLACEMENT** |  |  |  |  |\n| 1) | Indemnité de déplacement (sauf villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange) | SD1 | 1,10 |  |\n| 2) | Indemnité de déplacement dans les villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange | SD2 | 1,61 |  |\n| 3) | Indemnité de déplacement pour urgence demandé et fait entre 20 et 22h, le samedi après 12h, le dimanche ou un jour férié légal (sauf villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange) | SD4 | 1,35 |  |\n| 4) | Indemnité de déplacement pour urgence demandé et fait entre 20 et 22h, le samedi après 12h, le dimanche ou un jour férié légal dans les villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange | SD5 | 2,00 |  |\n| 5) | Indemnité de déplacement pour urgence demandé et fait entre 22 et 7h (sauf villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange) | SD6 | 1,64 |  |\n| 6) | Indemnité de déplacement pour urgence demandé et fait entre 22 et 7h dans les villes de Luxembourg, Esch-sur-Alzette, Differdange ou Dudelange | SD7 | 2,42 |  |\n| 7) | Frais de voyage par kilomètre parcouru d'après la carte officielle des distances | SD9 | 0,32 |  |\n| **TROISIÈME PARTIE : TARIFS SPÉCIAUX** |  |  |  |  |\n| 1) | Téléconsultation dans le cadre de l’épidémie COVID-19 selon les recommandations de la Direction de la santé, y compris, le cas échéant, l’établissement des prescriptions médicales | S45 | 6,00 | 26,51 |\n| **QUATRIÈME PARTIE : REMARQUES**Dans le cadre d’un contexte épidémique imposant la modification du fonctionnement du système sanitaire par le Ministère de la Santé, les dispositions suivantes sont applicables dans le contexte de l’ordonnance de la Direction de la santé du 4 mai 2020 concernant les activités exercées en cabinet libéral.Certains actes de la nomenclature sont autorisés à être effectués en téléconsultation sous réserve du respect des éléments suivants :L’acte S14 lorsque le praticien estime que les circonstances entourant la réalisation de l’acte en téléconsultation le permettent ;L’acte S45 dans le cadre du suivi autonome de la sage-femme, lorsque le praticien estime que les circonstances entourant la réalisation de l’acte en téléconsultation le permettent, tant pendant le suivi de la grossesse ainsi que pendant la période post-natale, en dehors de toute prise en charge forfaitaire ;Le recours à la téléconsultation ne peut se faire que pour des patientes dont la prise en charge ou le traitement ont déjà été initiés en présentiel ;Le recours à la téléconsultation se fait préférentiellement par l’utilisation de l’outil de l’agence e-Santé avec visiophonie ;La présence physique au Luxembourg du professionnel de santé reste requise.Dans le cadre d’un retour à domicile anticipé, c’est-à-dire pour une sortie de moins de 48 heures après la naissance de l’enfant, le médecin traitant peut prescrire le forfait S26 pour permettre d’assurer la continuité de la prise en charge en dehors du milieu hospitalier. |  |  |  |  |",
+      "text_sha256": "c18813e2abb94a84b2a8f4a60fee00ef9f632bd5251aad582e141f103acd20c1",
+      "md_span": {
+        "start": 5859,
+        "end": 14354
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2016/07/27/n1/jo",
+          "text": "règlement grand-ducal modifié du 27 juillet 2016"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

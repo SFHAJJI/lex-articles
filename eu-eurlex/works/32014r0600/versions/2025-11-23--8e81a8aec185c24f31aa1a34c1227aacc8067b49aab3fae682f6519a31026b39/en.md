@@ -1,0 +1,1809 @@
+---
+lex_id: 'eu-eurlex:32014r0600:2025-11-23--8e81a8aec185c24f31aa1a34c1227aacc8067b49aab3fae682f6519a31026b39'
+title: 'Regulation (EU) No 600/2014'
+valid_from: '2025-11-23'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0600-20251123'
+source_sha256: '5ed719b403ea8cb2d1e797978579cb033c00f27a819da3a3e63abc2063207b22'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter and scope
+
+**1.** This Regulation establishes uniform requirements in relation to the following:(a) disclosure of trade data to the public;(b) reporting of transactions to the competent authorities;(c) trading of derivatives on organised venues;(d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;(e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;(f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch;▼M3(g) the authorisation and supervision of data reporting services providers.▼B
+
+**2.** This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council (1) when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+
+**3.** Title V of this Regulation also applies to all financial counterparties and non-financial counterparties that are subject to the clearing obligation under Title II of Regulation (EU) No 648/2012.
+
+**4.** Title VI of this Regulation also applies to CCPs and persons with proprietary rights to benchmarks.
+
+**4a.** Chapter 1 of Title VII of this Regulation also applies to third‐country firms providing investment services or performing investment activities within the Union.
+
+**5.** Title VIII of this Regulation applies to third-country firms providing investment services or activities within the Union following an applicable equivalence decision by the Commission with or without a branch.
+
+**5a.** Title II and Title III of this Regulation shall not apply to securities financing transactions as defined in point (11) of Article 3 of Regulation (EU) 2015/2365 of the European Parliament and of the Council (2).
+
+**5b.** All multilateral systems shall operate either in accordance with the provisions of Title II of Directive 2014/65/EU concerning MTFs or OTFs or in accordance with the provisions of Title III of that Directive concerning regulated markets.
+
+Systematic internalisers shall operate in accordance with Title III of this Regulation.
+
+Without prejudice to Articles 23 and 28, all investment firms concluding transactions in financial instruments which are not concluded on multilateral systems or on systematic internalisers shall comply with Articles 20 and 21.
+
+**6.** Articles 8, 8a, 8b, 10 and 21 shall not apply to regulated markets, market operators and investment firms in respect of a transaction entered into by a member of the European System of Central Banks (ESCB), where that member has given prior notification to its counterparty that the transaction is exempt, and where one of the following applies:(a) the member of the ESCB is a member of the Eurosystem acting under Chapter IV of Protocol No 4 on the Statute of the European System of Central Banks and of the European Central Bank, annexed to the Treaty on European Union and to the TFEU, with the exception of Article 24 of that Statute;(b) the member of the ESCB is not a member of the Eurosystem and the transaction is entered into in performance of monetary or foreign exchange policy, including operations carried out to hold or manage official foreign reserves, which that member of the ESCB is legally empowered to pursue; or(c) the transaction is entered into in performance of financial stability policy which that member of the ESCB is legally empowered to pursue.
+
+**7.** Paragraph 6 shall not apply in respect of transactions entered into by a member of the ESCB which is not a member of the Eurosystem, in performance of their investment operations.
+
+**8.** ESMA shall, in close cooperation with the ESCB, develop draft regulatory technical standards to specify the monetary, foreign exchange and financial stability policy operations and the types of transactions to which paragraphs 6 and 7 apply with regard to members of the ESCB which are not members of the Eurosystem.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 March 2026.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**9.** The Commission shall be empowered to adopt delegated acts in accordance with Article 50 to extend the scope of paragraph 6 to other central banks.
+
+To that end, the Commission shall, by 1 June 2015, submit a report to the European Parliament and to the Council assessing the treatment of transactions by third-country central banks which for the purposes of this paragraph includes the Bank for International Settlements. The report shall include an analysis of their statutory tasks and their trading volumes in the Union. The report shall:
+
+(a) identify provisions applicable in the relevant third countries regarding the regulatory disclosure of central bank transactions, including transactions undertaken by members of the ESCB in those third countries, and
+
+(b) assess the potential impact that regulatory disclosure requirements in the Union may have on third-country central bank transactions.
+
+If the report concludes that the exemption provided for in paragraph 6 is necessary in respect of transactions where the counterparty is a third-country central bank carrying out monetary policy, foreign exchange and financial stability operations, the Commission shall provide that that exemption applies to that third-country central bank.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+**1.** For the purposes of this Regulation, the following definitions apply:(1) ‘investment firm’ means an investment firm as defined in Article 4(1)(1) of Directive 2014/65/EU;(2) ‘investment services and activities’ means investment services and activities defined in Article 4(1)(2) of Directive 2014/65/EU;(3) ‘ancillary services’ means ancillary services as defined in Article 4(1)(3) of Directive 2014/65/EU;(4) ‘execution of orders on behalf of clients’ means execution on behalf of clients as defined in Article 4(1)(5) of Directive 2014/65/EU;(5) ‘dealing on own account’ means dealing on own account as defined in Article 4(1)(6) of Directive 2014/65/EU;(6) ‘market maker’ means a market maker as defined in Article 4(1)(7) of Directive 2014/65/EU;(7) ‘client’ means a client as defined in Article 4(1)(9) of Directive 2014/65/EU;(8) ‘professional client’ means a professional client as defined in Article 4(1)(10) of Directive 2014/65/EU;▼M8(8a) ‘SME growth market’ means an SME growth market as defined in Article 4(1), point (12), of Directive 2014/65/EU;▼B(9) ‘financial instrument’ means a financial instrument as defined in Article 4(1)(15) of Directive 2014/65/EU;(10) ‘market operator’ means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;▼M8(11) ‘multilateral system’ means any system or facility in which multiple third-party buying and selling trading interests in financial instruments are able to interact;▼B(12) ‘systematic internaliser’ means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;(13) ‘regulated market’ means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU;(14) ‘multilateral trading facility’ or ‘MTF’ means a multilateral trading facility as defined in Article 4(1)(22) of Directive 2014/65/EU;(15) ‘organised trading facility’ or ‘OTF’ means an organised trading facility as defined in Article 4(1)(23) of Directive 2014/65/EU;(16) ‘trading venue’ means a trading venue as defined in Article 4(1)(24) of Directive 2014/65/EU;▼M8(16a) ‘designated publishing entity’ means an investment firm responsible for making transactions public through an APA in accordance with Article 20(1) and Article 21(1);▼M8(17) ‘liquid market’ means:(a) for the purposes of Articles 9, 11 and 11a:(i) as regards bonds, a market in which there are ready and willing buyers and sellers on a continuous basis, where the market is assessed according to the issuance size of the bond;(ii) as regards a financial instrument or a class of financial instrument other than those referred to in point (i), a market in which there are ready and willing buyers and sellers on a continuous basis, where the market is assessed in accordance with the following criteria, taking into consideration the specific market structures of the particular financial instrument or of the particular class of financial instrument:— the average frequency and size of transactions over a range of market conditions, having regard to the nature and life cycle of products within the class of financial instrument,— the number and type of market participants, including the ratio of market participants to traded financial instruments in a particular product,— the average size of spreads, where available,— the issuance size, where appropriate;(b) for the purposes of Articles 4, 5 and 14, a market for a financial instrument that is traded daily, where the market is assessed according to the following criteria:(i) the market capitalisation of that financial instrument;(ii) the average daily number of transactions in that financial instrument;(iii) the average daily turnover for that financial instrument;▼M3(18) ‘competent authority’ means a competent authority as defined in point (26) of Article 4(1) of Directive 2014/65/EU and, for the authorisation and supervision of data reporting services providers, ESMA, with the exception of those approved reporting mechanisms (ARMs) and approved publication arrangements (APAs) with a derogation in accordance with paragraph 3 of this Article;▼B(19) ‘credit institution’ means a credit institution as defined in Article 4(1)(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (3);(20) ‘branch’ means a branch as defined in Article 4(1)(30) of Directive 2014/65/EU;(21) ‘close links’ means close links as defined in Article 4(1)(35) of Directive 2014/65/EU;(22) ‘management body’ means a management body as defined in Article 4(1)(36) of Directive 2014/65/EU;▼M3(22a) ‘senior management’ means senior management as defined in point (37) of Article 4(1) of Directive 2014/65/EU;▼B(23) ‘structured deposit’ means a structured deposit as defined in Article 4(1)(43) of Directive 2014/65/EU;(24) ‘transferable securities’ means transferable securities as defined in Article 4(1)(44) of Directive 2014/65/EU;(25) ‘depositary receipts’ means depositary receipts as defined in Article 4(1)(45) of Directive 2014/65/EU;(26) ‘exchange-traded fund’ or ‘ETF’ means an exchange-traded fund as defined in Article 4(1)(46) of Directive 2014/65/EU;(27) ‘certificates’ means those securities which are negotiable on the capital market and which in case of a repayment of investment by the issuer are ranked above shares but below unsecured bond instruments and other similar instruments;(28) ‘structured finance products’ means those securities created to securitise and transfer credit risk associated with a pool of financial assets entitling the security holder to receive regular payments that depend on the cash flow from the underlying assets;(29) ‘derivatives’ means those financial instruments defined in point (44)(c) of Article 4(1) of Directive 2014/65/EU; and referred to in Annex I, Section C (4) to (10) thereto;(30) ‘commodity derivatives’ means those financial instruments defined in point (44)(c) of Article 4(1) of Directive 2014/65/EU; which relate to a commodity or an underlying referred to in Section C(10) of Annex I to Directive 2014/65/EU; or in points (5), (6), (7) and (10) of Section C of Annex I thereto;(31) ‘CCP’ means a CCP within the meaning of Article 2(1) of Regulation (EU) No 648/2012;(32) ‘exchange-traded derivative’ means a derivative that is traded on a regulated market or on a third-country market considered to be equivalent to a regulated market in accordance with Article 28 of this Regulation, and as such does not fall within the definition of an OTC derivative as defined in Article 2(7) of Regulation (EU) No 648/2012;▼M8(32a) ‘OTC derivative’ means an OTC derivative as defined in Article 2, point (7), of Regulation (EU) No 648/2012;▼B(33) ‘actionable indication of interest’ means a message from one member or participant to another within a trading system in relation to available trading interest that contains all necessary information to agree on a trade;▼M3(34) ‘approved publication arrangement’ or ‘APA’ means a person authorised under this Regulation to provide the service of publishing trade reports on behalf of investment firms pursuant to Articles 20 and 21;▼M8(35) ‘consolidated tape provider’ or ‘CTP’ means a person authorised in accordance with Title IVa, Chapter 1, of this Regulation to provide the service of collecting data from trading venues and APAs, and of consolidating those data into a continuous electronic live data stream providing core market data and regulatory data;▼M3(36) ‘approved reporting mechanism’ or ‘ARM’ means a person authorised under this Regulation to provide the service of reporting details of transactions to competent authorities or to ESMA on behalf of investment firms;▼M3(36a) ‘data reporting services provider’ means a person referred to in points (34) to (36) and a person referred to in Article 27b(2);▼M8(36b) ‘core market data’ means:(a) all of the following data on a given share or ETF at any given timestamp:(i) for continuous order books, the European best bid and offer with the corresponding volume;(ii) for auction trading systems, the price at which the trading algorithm would be best satisfied and the volume potentially executed at that price by participants in that system;(iii) the transaction price and volume executed at that price;(iv) for transactions, the type of trading system and the applicable waivers and deferrals;(v) except for the information referred to in points (i) and (ii), the market identifier code uniquely identifying the trading venue and, for other execution venues, the identifier code identifying the type of execution venue;(vi) the standardised instrument identifier that applies across execution venues;(vii) the timestamp information on the following, as applicable:— the execution of the transaction and any amendment thereto,— the entry of the best bids and offers into the order book,— the indication, in an auction trading system, of the prices or volumes,— the publication by the trading venues of the elements listed in the first, second and third indents,— the dissemination of core market data;(b) all of the following data on a given bond or OTC derivative at any given timestamp:(i) the transaction price and quantity or size executed at that price;(ii) the market identifier code uniquely identifying the trading venue and, for other execution venues, the identifier code identifying the type of execution venue;(iii) for bonds, the standardised instrument identifier that applies across execution venues;(iv) for OTC derivatives, the identifying reference data as referred to in Article 27(1), second subparagraph;(v) the timestamp information on the following:— the execution of the transaction and any amendment thereto,— the publication of the transaction by the trading venues,— the dissemination of core market data;(vi) the type of trading system and the applicable waivers and deferrals;(36c) ‘regulatory data’ means data related to the status of systems matching orders in financial instruments and data related to the trading status of individual financial instruments;▼B(37) ‘home Member State’ means a home Member State as defined in Article 4(1)(55) of Directive 2014/65/EU;(38) ‘host Member State’ means a host Member State as defined in Article 4(1)(56) of Directive 2014/65/EU;(39) ‘benchmark’ means any rate, index or figure, made available to the public or published that is periodically or regularly determined by the application of a formula to, or on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates or other values, or surveys and by reference to which the amount payable under a financial instrument or the value of a financial instrument is determined.(40) ‘interoperability arrangement’ means an interoperability arrangement as defined in Article 2(12) of Regulation (EU) No 648/2012;(41) ‘third-country financial institution’ means an entity, the head office of which is established in a third country, that is authorised or licensed under the law of that third country to carry out any of the services or activities listed in Directive 2013/36/EU, Directive 2014/65/EU; Directive 2009/138/EC of the European Parliament and of the Council (4), Directive 2009/65/EC of the European Parliament and of the Council (5), Directive 2003/41/EC of the European Parliament and of the Council (6) or Directive 2011/61/EU of the European Parliament and of the Council (7);(42) ‘third-country firm’ means a third-country firm as defined in Article 4(1)(57) of Directive 2014/65/EU;(43) ‘wholesale energy product’ means wholesale energy products as defined in Article 2(4) of Regulation (EU) No 1227/2011 of the European Parliament and of the Council (8);(44) ‘agricultural commodity derivatives’ means derivative contracts relating to products listed in Article 1 of, and Annex I, Parts I to XX and XXIV/1 to, Regulation (EU) No 1308/2013 of the European Parliament and of the Council (9);(45) ‘liquidity fragmentation’ means a situation in which:(a) participants in a trading venue are unable to conclude a transaction with one or more other participants in that venue because of the absence of clearing arrangements to which all participants have access; or(b) a clearing member or its clients would be forced to hold their positions in a financial instrument in more than one CCP which would limit the potential for the netting of financial exposures;(46) ‘sovereign debt’ means sovereign debt as defined in Article 4(1)(61) of Directive 2014/65/EU;(47) ‘portfolio compression’ means a risk reduction service in which two or more counterparties wholly or partially terminate some or all of the derivatives submitted by those counterparties for inclusion in the portfolio compression and replace the terminated derivatives with another derivative whose combined notional value is less than the combined notional value of the terminated derivatives;▼M1(48) ‘exchange for physical’ means a transaction in a derivative contract or other financial instrument contingent on the simultaneous execution of an equivalent quantity of an underlying physical asset;(49) ‘package order’ means an order priced as a single unit:(a) for the purpose of executing an exchange for physical; or(b) in two or more financial instruments for the purpose of executing a package transaction;(50) ‘package transaction’ means:(a) an exchange for physical; or(b) a transaction involving the execution of two or more component transactions in financial instruments and which fulfils all of the following criteria:(i) the transaction is executed between two or more counterparties;(ii) each component of the transaction bears meaningful economic or financial risk related to all the other components;(iii) the execution of each component is simultaneous and contingent upon the execution of all the other components.▼B
+
+**2.** The Commission shall be empowered to adopt delegated acts in accordance with Article 50 to specify certain technical elements of the definitions laid down in paragraph 1 to adjust them to market developments.
+
+**3.** The Commission is empowered to adopt delegated acts in accordance with Article 50, specifying criteria to identify those ARMs and APAs that, by way of derogation from this Regulation on account of their limited relevance for the internal market, are subject to authorisation and supervision by a competent authority of a Member State as defined in point (26) of Article 4(1) of Directive 2014/65/EU.
+
+When adopting the delegated act, the Commission shall take into account one or more of the following elements:
+
+(a) the extent to which the services are provided to investment firms authorised in one Member State only;
+
+(b) the number of trade reports or transactions;
+
+(c) whether the ARM or APA is part of a group of financial market participants operating cross border.
+
+Where an entity is supervised by ESMA for any services provided in its capacity as a data reporting services provider under this Regulation, none of its activities as an ARM or APA shall be excluded from ESMA supervision under any delegated act adopted pursuant to this paragraph.
+
+<a id="art_3"></a>
+
+### Article 3 — Pre-trade transparency requirements for trading venues in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments
+
+**1.** Market operators and investment firms operating a trading venue shall make public current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems for shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue. That requirement shall also apply to actionable indication of interests. Market operators and investment firms operating a trading venue shall make that information available to the public on a continuous basis during normal trading hours.
+
+**2.** The transparency requirements referred to in paragraph 1 shall be calibrated for different types of trading systems including order-book, quote-driven, hybrid and periodic auction trading systems.
+
+**3.** Market operators and investment firms operating a trading venue shall give access, on reasonable commercial terms and on a non-discriminatory basis, to the arrangements they employ for making public the information referred to in paragraph 1 to investment firms which are obliged to publish their quotes in shares, depositary receipts, ETFs, certificates and other similar financial instruments pursuant to Article 14.
+
+<a id="art_4"></a>
+
+### Article 4 — Waivers for equity instruments
+
+**1.** Competent authorities shall be able to waive the obligation for market operators and investment firms operating a trading venue to make public the information referred to in Article 3(1) for:(a) systems matching orders based on a trading methodology by which the price of the financial instrument referred to in Article 3(1) is derived from the trading venue where that financial instrument was first admitted to trading or the most relevant market in terms of liquidity, where that reference price is widely published and is regarded by market participants as a reliable reference price. The continued use of that waiver shall be subject to the conditions set out in Article 5.(b) systems that formalise negotiated transactions which are:▼M8(i) made within the current volume-weighted spread reflected on the order book or the quotes of the market makers of the trading venue operating that system;▼B(ii) in an illiquid share, depositary receipt, ETF, certificate or other similar financial instrument that does not fall within the meaning of a liquid market, and are dealt within a percentage of a suitable reference price, being a percentage and a reference price set in advance by the system operator; or(iii) subject to conditions other than the current market price of that financial instrument;(c) orders that are large in scale compared with normal market size;(d) orders held in an order management facility of the trading venue pending disclosure.
+
+**2.** The reference price referred to in paragraph 1(a) shall be established by obtaining:(a) the midpoint within the current bid and offer prices of the trading venue where that financial instrument was first admitted to trading or the most relevant market in terms of liquidity; or(b) when the price referred to in point (a) is not available, the opening or closing price of the relevant trading session.
+
+Orders shall only reference the price referred to in point (b) outside the continuous trading phase of the relevant trading session.
+
+**3.** Where trading venues operate systems which formalise negotiated transactions in accordance with paragraph 1(b)(i):(a) those transactions shall be carried out in accordance with the rules of the trading venue;(b) the trading venue shall ensure that arrangements, systems and procedures are in place to prevent and detect market abuse or attempted market abuse in relation to such negotiated transactions in accordance with Article 16 of Regulation (EU) No 596/2014;(c) the trading venue shall establish, maintain and implement systems to detect any attempt to use the waiver to circumvent other requirements of this Regulation or Directive 2014/65/EU and to report attempts to the competent authority.
+
+Where a competent authority grants a waiver in accordance with paragraph 1(b)(i) or (iii), that competent authority shall monitor the use of the waiver by the trading venue to ensure that the conditions for use of the waiver are respected.
+
+**4.** Before granting a waiver in accordance with paragraph 1, competent authorities shall notify ESMA and other competent authorities of the intended use of each individual waiver and provide an explanation regarding its functioning, including the details of the trading venue where the reference price is established as referred to in paragraph 1(a). Notification of the intention to grant a waiver shall be made not less than four months before the waiver is intended to take effect. Within two months following receipt of the notification, ESMA shall issue a non-binding opinion to the competent authority in question assessing the compatibility of each waiver with the requirements established in paragraph 1 and specified in the regulatory technical standard adopted pursuant to paragraph 6. Where that competent authority grants a waiver and a competent authority of another Member State disagrees, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010. ESMA shall monitor the application of the waivers and shall submit an annual report to the Commission on how they are applied in practice.
+
+**5.** A competent authority may, either on its own initiative or upon request by another competent authority, withdraw a waiver granted under paragraph 1 as specified under paragraph 6,if it observes that the waiver is being used in a way that deviates from its original purpose or if it believes that the waiver is being used to circumvent the requirements established in this Article.
+
+Competent authorities shall notify ESMA and other competent authorities of such withdrawal providing full reasons for their decision.
+
+**6.** ESMA shall develop draft regulatory technical standards to specify the following:▼M8(a) the details of pre-trade data, the range of bid and offer prices or designated market-maker quotes, and the depth of trading interest at those prices, to be made public for each class of financial instrument concerned in accordance with Article 3(1), taking into account the necessary calibration for different types of trading systems as referred to in Article 3(2);▼B(b) the most relevant market in terms of liquidity of a financial instrument in accordance with paragraph 1(a);(c) the specific characteristics of a negotiated transaction in relation to the different ways the member or participant of a trading venue can execute such a transaction;(d) the negotiated transactions that do not contribute to price formation which avail of the waiver provided for under paragraph 1(b)(iii);(e) the size of orders that are large in scale and the type and the minimum size of orders held in an order management facility of a trading venue pending disclosure for which pre-trade disclosure may be waived under paragraph 1 for each class of financial instrument concerned;
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**7.** Waivers granted by competent authorities in accordance with Article 29(2) and Article 44(2) of Directive 2004/39/EC and Articles 18, 19 and 20 of Regulation (EC) No 1287/2006 before ►M1 3 January 2018** ◄ ** shall be reviewed by ESMA by ►M1 3 January 2020** ◄ **. ESMA shall issue an opinion to the competent authority in question assessing the continued compatibility of each of those waivers with the requirements established in this Regulation and any delegated act and regulatory technical standard based on this Regulation.
+
+<a id="art_5"></a>
+
+### Article 5 — Volume cap
+
+**1.** Trading venues shall suspend their use of the waiver referred to in Article 4(1), point (a), where the percentage of trading in a financial instrument in the Union carried out under that waiver exceeds 7 % of the total volume of trading in that financial instrument in the Union. Trading venues shall base their decision to suspend the use of that waiver on the data published by ESMA in accordance with paragraph 4 of this Article, and shall take such decision within two working days of the publication of those data and for a period of three months.
+
+**4.** ESMA shall publish within seven working days of the end of March, June, September and December of each calendar year the total volume of trading in the Union per financial instrument in the previous 12 months, the percentages of trading in each financial instrument carried out across the Union under the waiver referred to in Article 4(1), point (a), and the methodology that is used to derive those percentages of trading in each financial instrument.
+
+**7.** In order to ensure a reliable basis for monitoring the trading taking place under the waiver referred to in Article 4(1), point (a), and for determining whether the limit referred to in paragraph 1 has been exceeded, operators of trading venues shall have in place systems and procedures to enable the identification of all trades which have taken place on their venue under that waiver.
+
+**8.** The period for the publication of trading data by ESMA, and for which trading in a financial instrument under the waiver is to be monitored, shall start on 29 September 2025.
+
+**9.** ESMA shall develop draft regulatory technical standards to specify the method, including the flagging of transactions, by which it collates, calculates and publishes the transaction data, as outlined in paragraph 4, in order to provide an accurate measurement of the total volume of trading per financial instrument and the percentages of trading that use the waiver across the Union.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 March 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**10.** By 29 September 2027, and every year thereafter, ESMA shall submit to the Commission a report assessing the volume-cap threshold set in paragraph 1, taking into account financial stability, international best practices, the competitiveness of Union firms, the significance of the market impact and the efficiency of price formation.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 50 to amend this Regulation by adjusting the volume-cap threshold set in paragraph 1 of this Article. For the purposes of this subparagraph, the Commission shall take into account the report from ESMA referred to in the first subparagraph of this paragraph, international developments and standards agreed at Union or international level.
+
+<a id="art_6"></a>
+
+### Article 6 — Post-trade transparency requirements for trading venues in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments
+
+**1.** Market operators and investment firms operating a trading venue shall make public the price, volume and time of the transactions executed in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on that trading venue. Market operators and investment firms operating a trading venue shall make details of all such transactions public as close to real-time as is technically possible.
+
+**2.** Market operators and investment firms operating a trading venue shall give access, on reasonable commercial terms and on a non-discriminatory basis, to the arrangements they employ for making public the information under paragraph 1 of this Article to investment firms which are obliged to publish the details of their transactions in shares, depositary receipts, ETFs, certificates and other similar financial instruments pursuant to Article 20.
+
+<a id="art_7"></a>
+
+### Article 7 — Authorisation of deferred publication
+
+**1.** Competent authorities shall be able to authorise market operators and investment firms operating a trading venue to provide for deferred publication of the details of transactions based on their type or size.
+
+In particular, the competent authorities may authorise the deferred publication in respect of transactions that are large in scale compared with the normal market size for that share, depositary receipt, ETF, certificate or other similar financial instrument or that class of share, depositary receipt, ETF, certificate or other similar financial instrument.
+
+Market operators and investment firms operating a trading venue shall obtain the competent authority’s prior approval of proposed arrangements for deferred trade-publication, and shall clearly disclose those arrangements to market participants and the public. ESMA shall monitor the application of those arrangements for deferred trade-publication and shall submit an annual report to the Commission on how they are applied in practice.
+
+Where a competent authority authorises deferred publication and a competent authority of another Member State disagrees with the deferral or disagrees with the effective application of the authorisation granted, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+**2.** ESMA shall develop draft regulatory technical standards to specify the following in such a way as to enable the publication of information required under Article 64 of Directive 2014/65/EU:(a) the details of transactions that investment firms, including systematic internalisers and market operators and investment firms operating a trading venue shall make available to the public for each class of financial instrument concerned in accordance with Article 6(1), including identifiers for the different types of transactions published under Article 6(1) and Article 20, distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;(b) the time limit that would be deemed in compliance with the obligation to publish as close to real time as possible including when trades are executed outside ordinary trading hours.(c) the conditions for authorising investment firms, including systematic internalisers and market operators and investment firms operating a trading venue to provide for deferred publication of the details of transactions for each class of financial instruments concerned in accordance with paragraph 1 of this Article and with Article 20(1);(d) the criteria to be applied when deciding the transactions for which, due to their size or the type, including liquidity profile of the share, depositary receipt, ETF, certificate or other similar financial instrument involved, deferred publication is allowed for each class of financial instrument concerned.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_8"></a>
+
+### Article 8 — Pre-trade transparency requirements for trading venues in respect of bonds, structured finance products and emission allowances
+
+**1.** When applying a central limit order book or a periodic auction trading system, market operators and investment firms operating a trading venue shall make public current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems in respect of bonds, structured finance products and emission allowances. Those market operators and investment firms shall make that information available to the public on a continuous basis during normal trading hours.
+
+**2.** The transparency requirements referred to in paragraph 1 shall be calibrated for different types of trading systems.
+
+<a id="art_8a"></a>
+
+### Article 8a — Pre-trade transparency requirements for trading venues in respect of derivatives
+
+**1.** When applying a central limit order book or a periodic auction trading system, market operators operating a regulated market shall make public current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems in respect of exchange-traded derivatives. Those market operators shall make that information available to the public on a continuous basis during normal trading hours.
+
+**2.** When applying a central limit order book or a periodic auction trading system, market operators and investment firms operating an MTF or an OTF shall make public current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems in respect of OTC derivatives that are denominated in euro, Japanese yen, US dollars or pounds sterling and that:(a) are subject to the clearing obligation under Title II of Regulation (EU) No 648/2012, are centrally cleared, and, in respect of interest rate derivatives, have a contractually agreed tenor of 1, 2, 3, 5, 7, 10, 12, 15, 20, 25 or 30 years;(b) are single-name credit default swaps that reference a global systemically important bank and that are centrally cleared; or(c) are credit default swaps that reference an index comprising global systemically important banks and that are centrally cleared.
+
+Those market operators and investment firms shall make that information available to the public on a continuous basis during normal trading hours.
+
+**3.** The transparency requirements referred to in paragraphs 1 and 2 shall be calibrated for different types of trading systems.
+
+**4.** The Commission is empowered to adopt delegated acts in accordance with Article 50 to amend paragraph 2, first subparagraph, of this Article as regards the OTC derivatives subject to the transparency requirements laid down in that subparagraph in light of market developments.
+
+<a id="art_8b"></a>
+
+### Article 8b — Pre-trade transparency requirements for trading venues in respect of package orders
+
+**1.** When applying a central limit order book or a periodic auction trading system, market operators and investment firms operating a trading venue shall make public current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems in respect of package orders composed of bonds, structured finance products, emission allowances or derivatives. Those market operators and investment firms shall make that information available to the public on a continuous basis during normal trading hours.
+
+**2.** The transparency requirements referred to in paragraph 1 shall be calibrated for different types of trading systems.
+
+<a id="art_9"></a>
+
+### Article 9 — Waivers for bonds, structured finance products, emission allowances, derivatives and package orders
+
+**1.** ►M8 Competent authorities shall be able to waive the obligation for market operators and investment firms operating a trading venue to make public the information referred to in Article 8(1), Article 8a(1) and (2) and Article 8b(1) for:** ◄ **(a) orders that are large in scale compared with normal market size and orders held in an order management facility of the trading venue pending disclosure;▼M8 —————▼M8(c) OTC derivatives which are not subject to the trading obligation as referred to in Article 28 and for which there is not a liquid market, and other financial instruments for which there is not a liquid market;▼M1(d) orders for the purpose of executing an exchange for physical;(e) package orders that meet one of the following conditions:(i) at least one of its components is a financial instrument for which there is not a liquid market, unless there is a liquid market for the package order as a whole;(ii) at least one of its components is large in scale compared with the normal market size, unless there is a liquid market for the package order as a whole.▼M8 —————▼B
+
+**2.** Before granting a waiver in accordance with paragraph 1, competent authorities shall notify ESMA and other competent authorities of the intended use of each individual waiver and provide an explanation regarding their functioning. Notification of the intention to grant a waiver shall be made not less than four months before the waiver is intended to take effect. Within two months following receipt of the notification, ESMA shall issue an opinion to the competent authority in question assessing the compatibility of the waiver with the requirements established in paragraph 1 and specified in the regulatory technical standards adopted pursuant to paragraph 5. Where that competent authority grants a waiver and a competent authority of another Member State disagrees, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010. ESMA shall monitor the application of the waivers and submit an annual report to the Commission on how they are applied in practice.
+
+**2a.** Competent authorities shall be able to waive the obligation referred to in Article 8b(1) for each individual component of a package order.
+
+**3.** ►M8 Competent authorities may, either on their own initiative or upon request by other competent authorities or by ESMA, withdraw a waiver granted pursuant to paragraph 1 if they observe that the waiver is being used in a way that deviates from its original purpose or if they consider that the waiver is being used to circumvent the requirements established in this Article.** ◄ **
+
+Competent authorities shall notify ESMA and other competent authorities of such withdrawal without delay and before it takes effect, providing full reasons for their decision.
+
+**4.** ►M8 The competent authority responsible for supervising one or more trading venues on which a class of bond, structured finance product, emission allowance or derivative is traded may, where the liquidity of that class of financial instrument falls below a specified threshold, temporarily suspend the obligations referred to in Article 8. The specified threshold shall be set on the basis of objective criteria specific to the market for the financial instrument concerned. Notification of such temporary suspension shall be published on the website of the relevant competent authority and shall be notified to ESMA. ESMA shall publish that temporary suspension on its website.** ◄ **
+
+The temporary suspension shall be valid for an initial period not exceeding three months from the date of its publication on the website of the relevant competent authority. Such a suspension may be renewed for further periods not exceeding three months at a time if the grounds for the temporary suspension continue to be applicable. Where the temporary suspension is not renewed after that three-month period, it shall automatically lapse.
+
+Before suspending, or renewing a temporary suspension of, the obligations referred to in Article 8, the relevant competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary suspension is justified in accordance with the first and second subparagraphs of this paragraph.
+
+**5.** ESMA shall develop draft regulatory technical standards to specify the following:(a) the parameters and methods for calculating the threshold of liquidity referred to in paragraph 4 in relation to the financial instrument. The parameters and methods for Member States to calculate the threshold shall be set in such a way that when the threshold is reached, it represents a significant decline in liquidity across all venues within the Union for the financial instrument concerned based on the criteria used under Article 2(1)(17);▼M8(b) the range of bid and offer prices and the depth of trading interests at those prices to be made public for each class of financial instrument concerned in accordance with Article 8(1), Article 8a(1) and (2) and Article 8b(1), taking into account the necessary calibration for different types of trading systems as referred to in Article 8(2), Article 8a(3) and Article 8b(2);▼B(c) the size of orders that are large in scale and the type and the minimum size of orders held in an order management facility pending disclosure for which pre-trade disclosure may be waived under paragraph 1 for each class of financial instrument concerned;▼M8 —————▼B(e) the financial instruments or the classes of financial instruments for which there is not a liquid market where pre-trade disclosure may be waived under paragraph 1;▼M8(f) the characteristics of central limit order books and periodic auction trading systems.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 March 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**6.** In order to ensure the consistent application of points (i) and (ii) of paragraph (1)(e), ESMA shall develop draft regulatory technical standards to establish a methodology for determining those package orders for which there is a liquid market. When developing such methodology for determining whether there is a liquid market for a package order as a whole, ESMA shall assess whether packages are standardised and frequently traded.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 28 February 2017.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_10"></a>
+
+### Article 10 — Post-trade transparency requirements for trading venues in respect of bonds, structured finance products, emission allowances and derivatives
+
+**1.** Market operators and investment firms operating a trading venue shall make public the price, volume and time of transactions executed in respect of bonds, structured finance products and emission allowances traded on a trading venue. Those requirements shall also apply to transactions executed in respect of exchange-traded derivatives and in respect of OTC derivatives as referred to in Article 8a(2). Market operators and investment firms operating a trading venue shall make details of all such transactions public as close to real time as technically possible.
+
+**2.** Market operators and investment firms operating a trading venue shall give access, on reasonable commercial terms and on a non-discriminatory basis, to their arrangements for making public the information pursuant to paragraph 1 of this Article to investment firms which are obliged, pursuant to Article 21, to publish the details of their transactions in bonds, structured finance products, emission allowances and OTC derivatives as referred to in Article 8a(2).
+
+**3.** Information relating to a package transaction shall be made available in respect of each component as close to real time as technically possible, having regard to the need to allocate prices to particular financial instruments, and shall include a flag to identify that the component belongs to a package.
+
+Where a component of the package transaction is eligible for deferred publication pursuant to Article 11 or 11a, information on the component shall be made available after the period of deferral for the transaction has lapsed.
+
+<a id="art_11"></a>
+
+### Article 11 — Deferred publication in respect of bonds, structured finance products or emission allowances
+
+**1.** Market operators and investment firms operating a trading venue may defer the publication of the details of transactions executed in respect of bonds, structured finance products or emission allowances traded on a trading venue, including the price and the volume, in accordance with this Article.
+
+Market operators and investment firms operating a trading venue shall clearly disclose the arrangements for deferred publication to market participants and the public. ESMA shall monitor the application of those arrangements and shall, every two years, submit a report to the Commission on how they are used in practice.
+
+**1a.** The arrangements for deferred publication in respect of bonds, or classes thereof, shall be organised by using five categories:(a) category 1: transactions of a medium size in a financial instrument for which there is a liquid market;(b) category 2: transactions of a medium size in a financial instrument for which there is not a liquid market;(c) category 3: transactions of a large size in a financial instrument for which there is a liquid market;(d) category 4: transactions of a large size in a financial instrument for which there is not a liquid market;(e) category 5: transactions of a very large size.When the period of deferral lapses, all the details of the transactions on an individual basis shall be published.
+
+**1b.** The arrangements for deferred publication in respect of structured finance products or emission allowances, or classes thereof, traded on a trading venue shall be organised pursuant to the regulatory technical standards referred to in paragraph 4, point (g).
+
+When the period of deferral lapses, all the details of the transactions on an individual basis shall be published.
+
+**2.** The competent authority responsible for supervising one or more trading venues on which a class of bond, structured finance product or emission allowance is traded may, where the liquidity of that class of financial instrument falls below the threshold determined in accordance with the methodology as referred to in Article 9(5), point (a), temporarily suspend the obligations referred to in Article 10. That threshold shall be established on the basis of objective criteria specific to the market for the financial instrument concerned.
+
+Such a temporary suspension shall be published on the website of the relevant competent authority and shall be notified to ESMA. ESMA shall publish that temporary suspension on its website.
+
+ESMA may, in the case of an emergency, such as a significant adverse effect on the liquidity of a class of bond, structured finance product or emission allowance traded in the Union, extend the maximum deferral durations set in accordance with the regulatory technical standards adopted pursuant to paragraph 4, points (f) and (g). Before deciding on such an extension, ESMA shall consult with any competent authority responsible for supervising one or more trading venues on which that class of bond, structured finance product or emission allowance is traded. Such an extension shall be published on the ESMA website.
+
+The temporary suspension referred to in the first subparagraph or the extension referred to in the third subparagraph shall be valid for an initial period not exceeding three months from the date of its publication on the website of the relevant competent authority or ESMA, respectively. Such a suspension or extension may be renewed for further periods not exceeding three months at a time if the grounds for the temporary suspension or extension continue to be applicable.
+
+Before suspending or renewing the temporary suspension as referred to in the first subparagraph, the relevant competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary suspension is justified in accordance with the first and fourth subparagraphs.
+
+**3.** In addition to the deferred publication as referred to in paragraph 1, the competent authority of a Member State may allow, in respect of sovereign debt instruments issued by that Member State, or classes thereof:(a) the omission of the publication of the volume of an individual transaction for an extended period not exceeding six months; or(b) the publication of the details of several transactions in an aggregated form for an extended period not exceeding six months.
+
+With regard to transactions in sovereign debt instruments not issued by a Member State, decisions in accordance with the first subparagraph shall be taken by ESMA.
+
+ESMA shall publish on its website the list of deferrals allowed pursuant the first and second subparagraphs. ESMA shall monitor the application of decisions taken pursuant to the first and second subparagraphs and shall, every two years, submit a report to the Commission on how they are used in practice.
+
+When the period of deferral lapses, all the details of the transactions on an individual basis shall be published.
+
+**4.** ESMA shall, after consulting the expert stakeholder group established pursuant to Article 22b(2), develop draft regulatory technical standards to specify the following in such a way as to enable the publication of information required pursuant to this Article and Article 27g:(a) the details of transactions that investment firms and market operators are to make available to the public for each class of financial instrument as referred to in paragraph 1 of this Article, including identifiers for the different types of transactions published pursuant to Article 10(1) and Article 21(1), distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;(b) the time limit that is considered to comply with the obligation to publish as close to real time as technically possible including when trades are executed outside normal trading hours;(c) for which structured finance products or emission allowances traded on a trading venue, or classes thereof, a liquid market exists;(d) what constitutes a liquid and illiquid market for bonds, or classes thereof, expressed as thresholds determined according to the issuance size of those bonds;(e) for a liquid or illiquid bond, or for a class thereof, what constitutes a transaction of a medium size, of a large size and of a very large size, as referred to in paragraph 1a of this Article, on the basis of a quantitative and qualitative analysis and taking into account the criteria in Article 2(1), point (17)(a), and other relevant criteria where applicable;(f) in respect of bonds, or classes thereof, the price and volume deferrals applicable to each of the five categories set out in paragraph 1a, applying the following maximum durations:(i) for transactions in category 1: a price deferral and a volume deferral not exceeding 15 minutes;(ii) for transactions in category 2: a price deferral and a volume deferral not exceeding the end of the trading day;(iii) for transactions in category 3: a price deferral not exceeding the end of the first trading day after the transaction date and a volume deferral not exceeding one week after the transaction date;(iv) for transactions in category 4: a price deferral not exceeding the end of the second trading day after the transaction date and a volume deferral not exceeding two weeks after the transaction date;(v) for transactions in category 5: a price deferral and a volume deferral not exceeding four weeks after the transaction date;(g) the arrangements for deferred publication in respect of structured finance products and emission allowances, or classes thereof, on the basis of a quantitative and qualitative analysis and taking into account the criteria in Article 2(1), point (17)(a), and other relevant criteria where applicable;(h) in respect of sovereign debt instruments, or classes thereof, the criteria to be applied when determining the size or type of a transaction in such instruments for which decisions can be taken pursuant to paragraph 3.
+
+For each of the categories set out in paragraph 1a, ESMA shall regularly update the draft regulatory technical standards referred to in the first subparagraph, point (f), of this paragraph in order to recalibrate the applicable deferral duration with the aim of gradually decreasing it where appropriate. No later than one year after the decreased deferral durations become applicable, ESMA shall perform a quantitative and qualitative analysis to assess the effects of the decrease. Where available, ESMA shall use the post-trade transparency data disseminated by the CTP for this purpose. If adverse effects to the financial instruments appear, ESMA shall update the draft regulatory technical standards referred to in the first subparagraph, point (f), of this paragraph to increase the deferral duration back to the previous level.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first and second subparagraphs in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_11a"></a>
+
+### Article 11a — Deferred publication in respect of derivatives
+
+**1.** Market operators and investment firms operating a trading venue may defer the publication of the details of transactions executed in respect of exchange-traded derivatives and in respect of OTC derivatives as referred to in Article 8a(2), including the price and the volume, in accordance with this Article.
+
+Market operators and investment firms operating a trading venue shall clearly disclose the arrangements for deferred publication to market participants and the public. ESMA shall monitor the application of those arrangements and shall, every two years, submit a report to the Commission on how they are used in practice.
+
+The arrangements for deferred publication in respect of exchange-traded derivatives or of OTC derivatives as referred to in Article 8a(2), or classes thereof, shall be organised by using five categories:
+
+(a) category 1: transactions of a medium size in a financial instrument for which there is a liquid market;
+
+(b) category 2: transactions of a medium size in a financial instrument for which there is not a liquid market;
+
+(c) category 3: transactions of a large size in a financial instrument for which there is a liquid market;
+
+(d) category 4: transactions of a large size in a financial instrument for which there is not a liquid market;
+
+(e) category 5: transactions of a very large size.
+
+When the period of deferral lapses, all the details of the transactions on an individual basis shall be published.
+
+**2.** The competent authority responsible for supervising one or more trading venues on which a class of exchange-traded derivative or of OTC derivative as referred to in Article 8a(2) is traded may, where the liquidity of that class of financial instrument falls below the threshold determined in accordance with the methodology as referred to in Article 9(5), point (a), temporarily suspend the obligations referred to in Article 10. That threshold shall be established on the basis of objective criteria specific to the market for the financial instrument concerned.
+
+Such a temporary suspension shall be published on the website of the relevant competent authority and shall be notified to ESMA. ESMA shall publish that temporary suspension on its website.
+
+ESMA may, in the case of an emergency, such as a significant adverse effect on the liquidity of a class of exchange-traded derivative or of OTC derivative as referred to in Article 8a(2) traded in the Union, extend the maximum deferral durations set in accordance with the regulatory technical standards adopted pursuant to paragraph 3, point (e), of this Article. Before deciding on such an extension, ESMA shall consult with any competent authority responsible for supervising one or more trading venues on which that class of exchange-traded derivative or of OTC derivative as referred to in Article 8a(2) is traded. Such an extension shall be published on the ESMA website.
+
+The temporary suspension referred to in the first subparagraph or the extension referred to in the third subparagraph shall be valid for an initial period not exceeding three months from the date of its publication on the website of the relevant competent authority or ESMA, respectively. Such a suspension or extension may be renewed for further periods not exceeding three months at a time if the grounds for the temporary suspension or extension continue to be applicable.
+
+Before suspending or renewing the temporary suspension as referred to in the first subparagraph, the relevant competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary suspension is justified in accordance with the first and fourth subparagraphs.
+
+**3.** ESMA shall, after consulting the expert stakeholder group established pursuant to Article 22b(2), develop draft regulatory technical standards to specify the following in such a way as to enable the publication of information required pursuant to this Article and Article 27g:(a) the details of transactions that investment firms and market operators are to make available to the public for each class of derivative as referred to in paragraph 1 of this Article, including identifiers for the different types of transactions published pursuant to Article 10(1) and Article 21(1), distinguishing between those determined by factors linked primarily to the valuation of the derivatives and those determined by other factors;(b) the time limit that is considered to comply with the obligation to publish as close to real time as technically possible including when trades are executed outside normal trading hours;(c) for which derivatives, or classes thereof, a liquid market exists;(d) for a liquid or illiquid derivative, or for a class thereof, what constitutes a transaction of a medium size, of a large size and of a very large size, as referred to in paragraph 1, third subparagraph, of this Article on the basis of a quantitative and qualitative analysis and taking into account the criteria in Article 2(1), point (17)(a), and other relevant criteria where applicable;(e) the price and volume deferrals applicable to each of the five categories set out in paragraph 1, third subparagraph, of this Article, on the basis of a quantitative and qualitative analysis and taking into account the criteria in Article 2(1), point (17)(a), the size of the transaction and other relevant criteria where applicable.
+
+For each of the categories set out in paragraph 1, third subparagraph, of this Article ESMA shall regularly update the draft regulatory technical standards referred to in the first subparagraph, point (e), of this paragraph in order to recalibrate the applicable deferral duration with the aim of gradually decreasing it where appropriate. No later than one year after the decreased deferral durations become applicable, ESMA shall perform a quantitative and qualitative analysis to assess the effects of the decrease. Where available, ESMA shall use the post-trade transparency data disseminated by the CTP for this purpose. If adverse effects to the financial instruments appear, ESMA shall update the draft regulatory technical standards referred to in the first subparagraph, point (e), of this paragraph to increase the deferral duration back to the previous level.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 September 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first and second subparagraphs in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+ESMA shall review the regulatory technical standards referred to in the first and second subparagraphs in conjunction with the expert stakeholder group established pursuant to Article 22b(2) and amend them to take into account any substantial changes in the calibration of the price and volume deferrals pursuant to the first subparagraph, point (e), and the second subparagraph of this paragraph.
+
+<a id="art_12"></a>
+
+### Article 12 — Obligation to make pre-trade and post-trade data available separately
+
+**1.** Market operators and investment firms operating a trading venue shall make the information published in accordance with Articles 3, 4 and 6 to 11a available to the public by offering pre-trade and post-trade transparency data separately.
+
+**2.** ESMA shall develop draft regulatory technical standards to specify the offering of pre-trade and post-trade transparency data, including the level of disaggregation of the data to be made available to the public as referred to in paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_13"></a>
+
+### Article 13 — Obligation to make pre-trade and post-trade data available on a reasonable commercial basis
+
+**1.** Market operators and investment firms operating a trading venue, APAs, CTPs and systematic internalisers shall make available to the public the information published in accordance with Articles 3, 4, 6 to 11a, 14, 20, 21, 27g and 27h on a reasonable commercial basis, including unbiased and fair contractual terms.
+
+Those market operators and investment firms, APAs, CTPs and systematic internalisers shall ensure non-discriminatory access to such information. The data policies of those market operators and investment firms, APAs, CTPs and systematic internalisers shall be made available to the public free of charge in a manner which is easy to access and to understand.
+
+**2.** Market operators and investment firms operating a trading venue, APAs and systematic internalisers shall make available to the public the information referred to in paragraph 1 free of charge 15 minutes after publication in a format that is machine-readable and usable for all users, including retail investors.
+
+**3.** The reasonable commercial basis shall include the level of fees and other contractual terms. The level of fees shall be determined by the cost of producing and disseminating the information referred to in paragraph 1 and a reasonable margin.
+
+**4.** Market operators and investment firms operating a trading venue, APAs, CTPs and systematic internalisers shall, upon request, provide their competent authority with information on the actual costs of producing and disseminating the information referred to in paragraph 1, including a reasonable margin.
+
+**5.** ESMA shall develop draft regulatory technical standards to specify:(a) what constitutes unbiased and fair contractual terms as referred to in paragraph 1, first subparagraph;(b) what constitutes non-discriminatory access to information as referred to in paragraph 1, second subparagraph;(c) the uniform content, format and terminology of the data policies to be made available to the public pursuant to paragraph 1, second subparagraph;(d) the data access, and the content and format of the information to be made available to the public pursuant to paragraph 1;(e) the elements to be included in the calculation of cost and reasonable margin as referred to in paragraph 3;(f) the uniform content, format and terminology of the information to be provided to the competent authorities pursuant to paragraph 4.
+
+ESMA shall, every two years, monitor and assess the developments in the cost of data and shall, where appropriate, update those draft regulatory technical standards on the basis of its assessment.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first and second subparagraphs in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_14"></a>
+
+### Article 14 — Obligation for systematic internalisers to make public firm quotes in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments
+
+**1.** Investment firms shall make public firm quotes in respect of those shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue for which they are systematic internalisers and for which there is a liquid market.
+
+Where there is not a liquid market for the financial instruments referred to in the first subparagraph, systematic internalisers shall disclose quotes to their clients upon request.
+
+**2.** This Article and Articles 15, 16 and 17 shall apply to systematic internalisers when they deal in sizes of up to and including the threshold determined in the regulatory technical standards adopted pursuant to paragraph 7, point (b), of this Article.
+
+**3.** The minimum quote size of systematic internalisers shall be determined in the regulatory technical standards adopted pursuant to paragraph 7, point (c). For a particular share, depositary receipt, ETF, certificate or other similar financial instrument traded on a trading venue, each quote shall include a firm bid and offer price for a size which could be of up to and including the threshold referred to in paragraph 2. The price shall reflect the prevailing market conditions for that share, depositary receipt, ETF, certificate or other similar financial instrument.
+
+**4.** Shares, depositary receipts, ETFs, certificates and other similar financial instruments shall be grouped in classes on the basis of the arithmetic average value of the orders executed in the market for that financial instrument. The standard market size for each class of shares, depositary receipts, ETFs, certificates and other similar financial instruments shall be a size representative of the arithmetic average value of the orders executed in the market for the financial instruments included in each class.
+
+**5.** The market for each share, depositary receipt, ETF, certificate or other similar financial instrument shall be comprised of all orders executed in the Union in respect of that financial instrument excluding those that are large in scale compared to normal market size.
+
+**6.** The competent authority of the most relevant market in terms of liquidity as defined in Article 26 for each share, depositary receipt, ETF, certificate and other similar financial instrument shall determine at least annually, on the basis of the arithmetic average value of the orders executed in the market in respect of that financial instrument, the class to which it belongs. That information shall be made public to all market participants and communicated to ESMA which shall publish the information on its website.
+
+**7.** In order to ensure the efficient valuation of shares, depositary receipts, ETFs, certificates and other similar financial instruments and maximise the possibility of investment firms to obtain the best deal for their clients, ESMA shall develop draft regulatory technical standards to specify:(a) the arrangements for the publication of a firm quote as referred to in paragraph 1;(b) the determination of the threshold referred to in paragraph 2, which shall take into account the international best practices, the competitiveness of Union firms, the significance of the market impact and the efficiency of price formation and which shall not be below twice the standard market size;(c) the determination of the minimum quote size as referred to in paragraph 3, which shall not exceed 90 % of the threshold referred to in paragraph 2 and which shall not be below the standard market size;(d) the determination of whether prices reflect prevailing market conditions as referred to in paragraph 3; and(e) the standard market size as referred to in paragraph 4.ESMA shall submit those draft regulatory technical standards to the Commission by 29 March 2025.Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_15"></a>
+
+### Article 15 — Execution of client orders
+
+**1.** Systematic internalisers shall make public their quotes on a regular and continuous basis during normal trading hours. They may update their quotes at any time. They shall be allowed, under exceptional market conditions, to withdraw their quotes.
+
+Member States shall require that firms that meet the definition of systematic internaliser notify their competent authority. Such notification shall be transmitted to ESMA. ESMA shall establish a list of all SIs in the Union.
+
+Systematic internalisers shall establish and implement transparent and non-discriminatory rules and objective criteria for the efficient execution of orders. They shall have arrangements for the sound management of their technical operations, including the establishment of effective contingency arrangements to address risks of systems disruption.
+
+**2.** Systematic internalisers shall, while complying with Article 27 of Directive 2014/65//EU, execute the orders they receive from their clients in relation to the shares, depositary receipts, ETFs, certificates and other similar financial instruments for which they are systematic internalisers at the quoted prices at the time of reception of the order.
+
+However, in justified cases, they may execute those orders at a better price provided that the price falls within a public range close to market conditions.
+
+**3.** Systematic internalisers may execute orders they receive from their professional clients at prices different than their quoted ones without having to comply with the requirements established in paragraph 2, in respect of transactions where execution in several securities is part of one transaction or in respect of orders that are subject to conditions other than the current market price.
+
+**4.** Where a systematic internaliser quoting only one quote or whose highest quote is lower than the standard market size receives an order from a client of a size bigger than its quotation size, but lower than the standard market size, it may decide to execute that part of the order which exceeds its quotation size, provided that it is executed at the quoted price, except where otherwise permitted under the conditions laid down in paragraphs 2 and 3. Where the systematic internaliser is quoting in different sizes and receives an order between those sizes, which it chooses to execute, it shall execute the order at one of the quoted prices in compliance with Article 28 of Directive 2014/65/EU, except where otherwise permitted under the conditions of paragraphs 2 and 3 of this Article.
+
+**5.** ESMA shall develop draft implementing technical standards to determine the content and format of the notification referred to in paragraph 1, second subparagraph.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 29 March 2025.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_16"></a>
+
+### Article 16 — Obligations of competent authorities
+
+The competent authorities shall check that systematic internalisers comply with the conditions for order execution laid down in Article 15(1) and with the conditions for price improvement laid down in Article 15(2).
+
+<a id="art_17"></a>
+
+### Article 17 — Access to quotes
+
+**1.** Systematic internalisers shall be allowed to decide, on the basis of their commercial policy and in an objective non-discriminatory way, the clients to whom they give access to their quotes. To that end there shall be clear standards for governing access to their quotes. Systematic internalisers may refuse to enter into or discontinue business relationships with clients on the basis of commercial considerations such as the client credit status, the counterparty risk and the final settlement of the transaction.
+
+**2.** In order to limit the risk of exposure to multiple transactions from the same client, systematic internalisers shall be allowed to limit in a non-discriminatory way the number of transactions from the same client which they undertake to enter at the published conditions. They may, in a non-discriminatory way and in accordance with Article 28 of Directive 2014/65//EU, limit the total number of transactions from different clients at the same time provided that this is allowable only where the number and/or volume of orders sought by clients considerably exceeds the norm.
+
+**3.** In order to ensure the efficient valuation of shares, depositary receipts, ETFs, certificates and other similar financial instruments and maximise the possibility for investment firms to obtain the best deal for their clients, the Commission shall adopt delegated acts in accordance with Article 50 specifying:(a) the criteria specifying when a quote is published on a regular and continuous basis and is easily accessible as referred to in Article 15(1) as well as the means by which investment firms may comply with their obligation to make public their quotes, which shall include the following possibilities:(i) through the facilities of any regulated market which has admitted the financial instrument in question to trading;(ii) through an APA;(iii) through proprietary arrangements;(b) the criteria specifying those transactions where execution in several securities is part of one transaction or those orders that are subject to conditions other than current market price as referred to in Article 15(3);(c) the criteria specifying what can be considered as exceptional market conditions that allow for the withdrawal of quotes as well as the conditions for updating quotes as referred to in Article 15(1);(d) the criteria specifying when the number and/or volume of orders sought by clients considerably exceeds the norm as referred to in paragraph 2.(e) the criteria specifying when prices fall within a public range close to market conditions as referred to in Article 15(2).
+
+<a id="art_17a"></a>
+
+### Article 17a — Tick sizes
+
+**1.** Systematic internalisers’ quotes, price improvements on those quotes and execution prices shall comply with the tick sizes set in accordance with Article 49 of Directive 2014/65/EU.
+
+**2.** The requirements laid down in Article 15(2) of this Regulation and in Article 49 of Directive 2014/65/EU shall not prevent systematic internalisers from matching orders at midpoint within the current bid and offer prices.
+
+<a id="art_20"></a>
+
+### Article 20 — Post-trade disclosure by investment firms, including systematic internalisers, in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments
+
+**1.** Investment firms which, either on own account or on behalf of clients, conclude transactions in shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue, shall make public the volume and price of those transactions and the time at which they were concluded. That information shall be made public through an APA.
+
+**1a.** Each individual transaction shall be made public once through a single APA.
+
+**2.** The information which is made public in accordance with paragraph 1 of this Article and the time-limits within which it is published shall comply with the requirements adopted pursuant to Article 6, including the regulatory technical standards adopted in accordance with Article 7(2)(a). Where the measures adopted pursuant to Article 7 provide for deferred publication for certain categories of transaction in shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue, that possibility shall also apply to those transactions when undertaken outside trading venues.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the following:(a) identifiers for the different types of transactions published under this Article, distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;(b) the application of the obligation under paragraph 1 to transactions involving the use of those financial instruments for collateral, lending or other purposes where the exchange of financial instruments is determined by factors other than the current market valuation of the financial instrument.▼M8 —————▼B
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_21"></a>
+
+### Article 21 — Post-trade disclosure by investment firms in respect of bonds, structured finance products, emission allowances and derivatives
+
+**1.** Investment firms which, either on own account or on behalf of clients, conclude transactions in bonds, structured finance products and emission allowances traded on a trading venue or OTC derivatives as referred to in Article 8a(2), shall make public the volume and price of those transactions and the time at which they were concluded. That information shall be made public through an APA.
+
+**2.** Each individual transaction shall be made public once through a single APA.
+
+**3.** The information which is made public in accordance with paragraph 1 and the time-limits within which it is published shall comply with the requirements adopted pursuant to Article 10, including the regulatory technical standards adopted pursuant to Article 11(4), points (a) and (b), and Article 11a(3), points (a) and (b).
+
+**4.** With regard to bonds, structured finance products and emission allowances traded on a trading venue, investment firms may defer the publication of the price or volume on the same conditions as laid down in Article 11.
+
+**4a.** With regard to OTC derivatives as referred to in Article 8a(2), investment firms may defer the publication of the price or volume on the same conditions as laid down in Article 11a.
+
+**5.** ►M8 ESMA shall develop draft regulatory technical standards in such a way as to enable the publication of information required pursuant to Article 27g to specify the following:** ◄ **(a) the identifiers for the different types of transactions published in accordance with this Article, distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;(b) the application of the obligation under paragraph 1 to transactions involving the use of those financial instruments for collateral, lending or other purposes where the exchange of financial instruments is determined by factors other than the current market valuation of the financial instrument.▼M8 —————▼B
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_21a"></a>
+
+### Article 21a — Designated publishing entities
+
+**1.** Competent authorities shall grant investment firms the status of designated publishing entity for specific classes of financial instrument, upon the request of those investment firms. The competent authority shall communicate such requests to ESMA.
+
+**2.** Where only one party to a transaction is a designated publishing entity pursuant to paragraph 1 of this Article, that party shall be responsible for making transactions public through an APA in accordance with Article 20(1) or Article 21(1).
+
+**3.** Where neither of the parties to a transaction, or both of the parties to a transaction, are designated publishing entities pursuant to paragraph 1 of this Article, only the entity that sells the financial instrument concerned shall be responsible for making the transaction public through an APA in accordance with Article 20(1) or Article 21(1).
+
+**4.** ESMA shall by 29 September 2024 establish and shall regularly update a register of all designated publishing entities, specifying their identity and the classes of financial instrument for which they are designated publishing entities. ESMA shall publish that register on its website.
+
+<a id="art_22"></a>
+
+### Article 22 — Providing information for the purposes of transparency and other calculations
+
+**1.** ►M8 In order to carry out calculations for determining the requirements for the pre- and post-trade transparency and the trading obligation regimes referred to in Articles 3 to 11a, 14 to 21 and 32 which are applicable to financial instruments, and in order to prepare reports to the Commission in accordance with Article 4(4), Article 7(1), Article 9(2), Article 11(3) and Article 11a(1), ESMA and competent authorities may require information from:** ◄ **(a) trading venues;(b) APAs; and(c) CTPs.
+
+**2.** Trading venues, APAs and CTPs shall store the necessary data for a sufficient period.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the content and frequency of data requests and the formats and the timeframe in which trading venues, APAs and CTPs are to respond to data requests referred to in paragraph 1, the type of data that is to be stored, and the minimum period for which trading venues, APAs and CTPs are to store data in order to be able to respond to data requests in accordance with paragraph 2.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_22a"></a>
+
+### Article 22a — Transmission of data to the CTP
+
+**1.** Trading venues and APAs (‘data contributors’) shall, with regard to shares, ETFs and bonds that are traded on a trading venue, and with regard to OTC derivatives as referred to in Article 8a(2), transmit to the data centre of the CTP, as close to real time as technically possible, regulatory data and the data required pursuant to Article 3(1), without prejudice to Article 4, and pursuant to Article 6(1), Article 10(1) and Articles 20 and 21, and, where regulatory technical standards are adopted pursuant to Article 22b(3), point (d), in accordance with the requirements specified therein. Those data shall be transmitted in a harmonised format, through a high-quality transmission protocol.
+
+**2.** An investment firm operating an SME growth market, or a market operator, whose annual trading volume of shares represents 1 % or less of the annual trading volume of shares in the Union shall not be required to transmit its data to the CTP where:(a) that investment firm or market operator is not a part of a group comprising or having close links with an investment firm or a market operator whose annual trading volume of shares represents more than 1 % of the annual trading volume of shares in the Union; or(b) the regulated market or SME growth market operated by that investment firm or market operator accounts for more than 85 % of the annual trading volume of shares that were initially admitted to trading on that regulated market or SME growth market.
+
+**3.** Notwithstanding paragraph 2, an investment firm operating an SME growth market, or a market operator, which meets the conditions laid down in that paragraph may decide to transmit data to the CTP in accordance with paragraph 1, provided that it notifies ESMA and the CTP accordingly. Such an investment firm or market operator shall start transmitting data to the CTP within 30 working days of the date of the notification to ESMA.
+
+**4.** ESMA shall publish on its website and keep up to date a list of investment firms operating SME growth markets and market operators that meet the conditions laid down in paragraph 2, indicating which of them have decided to apply paragraph 3.
+
+**5.** Each CTP shall choose, from among the types of transmission protocols that the data contributors offer to other users, which transmission protocol is to be used for the direct transmission of the data referred to in paragraph 1 to the data centre of the CTP.
+
+**6.** Data contributors shall not receive any remuneration for transmitting the data referred to in paragraph 1 of this Article or the transmission protocol referred to in paragraph 5 of this Article, other than the revenue received pursuant to Article 27h(5), (6) and (7).
+
+**7.** Data contributors shall, where applicable, apply the deferrals laid down in Articles 7, 11 and 11a, Article 20(2) and Article 21(4) to the data to be transmitted to the CTP.
+
+**8.** Where the CTP considers the quality of the data to be insufficient, it shall notify the competent authority of the data contributor accordingly. The competent authority shall take the necessary measures in accordance with Article 38g of this Regulation and Articles 69 and 70 of Directive 2014/65/EU.
+
+<a id="art_22b"></a>
+
+### Article 22b — Data quality
+
+**1.** The data transmitted to the CTP pursuant to Article 22a(1) and the data disseminated by the CTP pursuant to Article 27h(1), point (d), shall comply with the regulatory technical standards adopted pursuant to Article 4(6), point (a), Article 7(2), point (a), Article 11(4), point (a), and Article 11a(3), point (a), unless provided otherwise in the regulatory technical standards adopted pursuant to paragraph 3, points (b) and (d), of this Article.
+
+**2.** The Commission shall establish an expert stakeholder group by 29 June 2024 to provide advice on the quality and the substance of data and the quality of the transmission protocol referred to in Article 22a(1). The expert stakeholder group and ESMA shall work closely together. The expert stakeholder group shall make its advice public.
+
+The expert stakeholder group shall be composed of members with a sufficiently wide range of expertise, skills, knowledge and experience to provide adequate advice.
+
+The members of the expert stakeholder group shall be selected following an open and transparent selection procedure. In selecting the members of the expert stakeholder group, the Commission shall ensure that they reflect the diversity of market participants across the Union.
+
+The expert stakeholder group shall elect a Chair from among its members, for a term of two years. The European Parliament may invite the Chair of the expert stakeholder group to make a statement before it and to answer any questions from its members whenever so requested.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the quality of the transmission protocol, measures to address erroneous trade reporting and enforcement standards in relation to data quality, including arrangements regarding cooperation between data contributors and the CTP, and, where necessary, the quality and the substance of the data for the operation of the consolidated tapes.
+
+Those draft regulatory technical standards shall in particular specify all of the following:
+
+(a) the minimum requirements for the quality of the transmission protocols referred to in Article 22a(1);
+
+(b) the presentation of the core market data to be disseminated by the CTP, in accordance with prevailing industry standards and practices;
+
+(c) what constitutes the transmission of data as close to real time as technically possible;
+
+(d) where necessary, the data needed to be transmitted to the CTP in order for it to be operational, taking into account the advice of the expert stakeholder group established pursuant to paragraph 2, including the substance and the format of those data, in accordance with prevailing industry standards and practices.
+
+For the purposes of the first subparagraph of this paragraph, ESMA shall take into account the advice from the expert stakeholder group established pursuant to paragraph 2 of this Article, international developments, and standards agreed at Union or international level. ESMA shall ensure that the draft regulatory technical standards take into account the transparency requirements laid down in Articles 3, 6, 8, 8a, 8b, 10, 11, 11a, 14, 20, 21 and 27g.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_22c"></a>
+
+### Article 22c — Synchronisation of business clocks
+
+**1.** Trading venues and their members, participants or users, systematic internalisers, designated publishing entities, APAs and CTPs shall synchronise the business clocks they use to record the date and time of any reportable event.
+
+**2.** ESMA shall, in accordance with international standards, develop draft regulatory technical standards to specify the level of accuracy to which business clocks are to be synchronised.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_23"></a>
+
+### Article 23 — Trading obligation for investment firms
+
+**1.** An investment firm shall ensure that the trades it undertakes in shares which have a European Economic Area (EEA) International Securities Identification Number (ISIN), and which are traded on a trading venue, take place on a regulated market, an MTF, a systematic internaliser or a third-country trading venue assessed as equivalent in accordance with Article 25(4), point (a), of Directive 2014/65/EU, as appropriate, unless:(a) those shares are traded on a third-country venue in the local currency or in a non-EEA currency; or(b) those trades are carried out between eligible counterparties, between professional counterparties or between eligible and professional counterparties and do not contribute to the price discovery process.
+
+**2.** An investment firm that operates an internal matching system which executes client orders in shares, depositary receipts, ETFs, certificates and other similar financial instruments on a multilateral basis must ensure it is authorised as an MTF under Directive 2014/65/EU and comply with all relevant provisions pertaining to such authorisations.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the particular characteristics of those transactions in shares that do not contribute to the price discovery process as referred to in paragraph 1, taking into consideration cases such as:(a) non-addressable liquidity trades; or(b) where the exchange of such financial instruments is determined by factors other than the current market valuation of the financial instrument.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_23a"></a>
+
+### Article 23a — Accessibility of information on the European single access point
+
+From 10 January 2030, the information referred to in Article 14(6), Article 15(1), second subparagraph, Articles 18(4) and 27(1), Article 34, Articles 40(5), 42(5), 44(2), 45(6) and Article 48 of this Regulation, shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council (10). The collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.
+
+That information shall comply with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata: (i) all the names of the investment firm to which the information relates; (ii) where available, the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859; (iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation; (iv) an indication of whether the information contains personal data.
+
+<a id="art_24"></a>
+
+### Article 24 — Obligation to uphold integrity of markets
+
+Without prejudice to the allocation of responsibilities for enforcing Regulation (EU) No 596/2014, competent authorities coordinated by ESMA in accordance with Article 31 of Regulation (EU) No 1095/2010 shall monitor the activities of investment firms to ensure that they act honestly, fairly and professionally and in a manner which promotes the integrity of the market.
+
+<a id="art_25"></a>
+
+### Article 25 — Obligation to maintain records
+
+**1.** Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the Council (11). ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
+
+**2.** The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The competent authority of the trading venue may request those data on an ongoing basis. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shall perform a facilitation and coordination role in relation to the access by competent authorities to information under this paragraph.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the details and formats of the relevant order data required to be maintained under paragraph 2 of this Article that is not referred to in Article 26.
+
+Those draft regulatory technical standards shall include the identification code of the member or participant which transmitted the order, the identification code of the order, the date and time the order was transmitted, the characteristics of the order, including the type of order, the limit price if applicable, the validity period, any specific order instructions, details of any modification, cancellation, partial or full execution of the order, the agency or principal capacity.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 5 September 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_26"></a>
+
+### Article 26 — Obligation to report transactions
+
+**1.** Investment firms which execute transactions in financial instruments shall report complete and accurate details of such transactions to the competent authority as quickly as possible, and no later than the close of the following working day.
+
+The competent authorities shall, in accordance with Article 85 of Directive 2014/65/EU, establish the necessary arrangements in order to ensure that the following competent authorities also receive that information:
+
+(a) the competent authority of the most relevant market in terms of liquidity for those financial instruments;
+
+(b) the competent authorities responsible for the supervision of the transmitting investment firms;
+
+(c) the competent authorities responsible for the supervision of the branches which have been part of the transaction; and
+
+(d) the competent authority responsible for the supervision of the trading venues used.
+
+The competent authority referred to in the first subparagraph shall without undue delay make available to ESMA any information reported in accordance with this Article.
+
+**2.** The obligation laid down in paragraph 1 shall apply to:(a) financial instruments which are admitted to trading or traded on a trading venue or for which a request for admission to trading has been made, irrespective of whether such transactions are carried out on the trading venue, with the exception of transactions in OTC derivatives other than those referred in Article 8a(2), to which the obligation shall apply only when carried out on a trading venue;(b) financial instruments where the underlying is a financial instrument that is traded on a trading venue, irrespective of whether such transactions are carried out on the trading venue;(c) financial instruments where the underlying is an index or a basket composed of financial instruments that are traded on a trading venue, irrespective of whether such transactions are carried out on the trading venue;(d) OTC derivatives as referred to in Article 8a(2), irrespective of whether such transactions are carried out on the trading venue.
+
+**3.** The reports shall, in particular, include details of the names and numbers of the financial instruments bought or sold, the quantity, the dates and times of execution, the effective dates, the transaction prices, a designation to identify the parties on whose behalf the investment firm has executed that transaction, a designation to identify the persons and the computer algorithms within the investment firm responsible for the investment decision and the execution of the transaction, a designation to identify the entity subject to the reporting obligation, and means of identifying the investment firms concerned. Reports on a transaction made at the trading venue shall include a transaction identification code generated and disseminated by the trading venue to both buying and selling members of the trading venue.
+
+For transactions not carried out on a trading venue, the reports shall include a designation identifying the types of transactions in accordance with the regulatory technical standards adopted pursuant to Article 20(3), point (a), and Article 21(5), point (a), of this Regulation. For commodity derivatives, the reports shall indicate whether the transaction reduces risk in an objectively measurable way in accordance with Article 57 of Directive 2014/65/EU.
+
+**4.** Investment firms which transmit orders shall include in the transmission of that order all the details as specified in paragraphs 1 and 3. Instead of including the mentioned details when transmitting orders, an investment firm may choose to report the transmitted order, if it is executed, as a transaction in accordance with the requirements under paragraph 1. In that case, the transaction report by the investment firm shall state that it pertains to a transmitted order.
+
+**5.** The operator of a trading venue shall report details of transactions in financial instruments traded on its platform which are executed through its systems by any member, participant or user not subject to this Regulation in accordance with paragraphs 1 and 3.
+
+**6.** In reporting the designation to identify the clients as required under paragraphs 3 and 4, investment firms shall use a legal entity identifier established to identify clients that are legal persons.
+
+ESMA shall develop by 3 January 2016 guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to ensure that the application of legal entity identifiers within the Union complies with international standards, in particular those established by the Financial Stability Board.
+
+**7.** The reports shall be made to the competent authority either by the investment firm itself, an ARM acting on its behalf or by the trading venue through whose system the transaction was completed, in accordance with paragraphs 1, 3 and 9.
+
+Investment firms shall have responsibility for the completeness, accuracy and timely submission of the reports which are submitted to the competent authority.
+
+By way of derogation from that responsibility, where an investment firm reports details of those transactions through an ARM which is acting on its behalf or a trading venue, the investment firm shall not be responsible for failures in the completeness, accuracy or timely submission of the reports which are attributable to the ARM or trading venue. In those cases and subject to Article 66(4) of Directive 2014/65/EU the ARM or trading venue shall be responsible for those failures.
+
+Investment firms must nevertheless take reasonable steps to verify the completeness, accuracy and timeliness of the transaction reports which were submitted on their behalf.
+
+The home Member State shall require the trading venue, when making reports on behalf of the investment firm, to have sound security mechanisms in place designed to guarantee the security and authentication of the means of transfer of information, to minimise the risk of data corruption and unauthorised access and to prevent information leakage maintaining the confidentiality of the data at all times. The home Member State shall require the trading venue to maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.
+
+Trade-matching or reporting systems, including trade repositories registered or recognised in accordance with Title VI of Regulation (EU) No 648/2012, may be approved by the competent authority as an ARM in order to transmit transaction reports to the competent authority in accordance with paragraphs 1, 3 and 9.
+
+Where transactions have been reported to a trade repository in accordance with Article 9 of Regulation (EU) No 648/2012 which is approved as an ARM and where those reports contain the details required under paragraphs 1, 3 and 9 and are transmitted to the competent authority by the trade repository within the time limit set in paragraph 1, the obligation on the investment firm laid down in paragraph 1 shall be considered to have been complied with.
+
+Where there are errors or omissions in the transaction reports, the ARM, investment firm or trading venue reporting the transaction shall correct the information and submit a corrected report to the competent authority.
+
+**8.** ►M8 An investment firm shall report transactions executed wholly or partly through its branch to the competent authority of the home Member State of the investment firm. The branch of a third country firm shall submit its transaction reports to the competent authority which authorised the branch. Where a third-country firm has set up branches in more than one Member State, those branches shall determine the competent authority that is to receive all the transaction reports.** ◄ **
+
+When, in accordance with Article 35(8) of Directive 2014/65/EU, reports provided for under this Article are transmitted to the competent authority of the host Member State, it shall transmit that information to the competent authorities of the home Member State of the investment firm, unless the competent authorities of the home Member State decide that they do not want to receive that information.
+
+**9.** ESMA shall develop draft regulatory technical standards to specify:(a) data standards and formats for the information to be reported in accordance with paragraphs 1 and 3, including the methods and arrangements for reporting financial transactions and the form and content of such reports;(b) the criteria for defining a relevant market in accordance with paragraph 1;▼M8(c) the references of the financial instruments bought or sold, the quantity, the dates and times of execution, the effective dates, the transaction prices, the information and details of the identity of the client, a designation to identify the parties on whose behalf the investment firm has executed that transaction, a designation to identify the persons and the computer algorithms within the investment firm responsible for the investment decision and the execution of the transaction, a designation to identify the entity subject to the reporting obligation, the means of identifying the investment firms concerned, the way in which the transaction was executed, data fields necessary for the processing and analysis of the transaction reports in accordance with paragraph 3;▼M8 —————▼M8(e) the relevant categories of indices to be reported in accordance with paragraph 2, point (c);▼B(f) the conditions upon which legal entity identifiers are developed, attributed and maintained, by Member States in accordance with paragraph 6, and the conditions under which those legal entity identifiers are used by investment firms so as to provide, pursuant to paragraphs 3, 4 and 5, for the designation to identify the clients in the transaction reports they are required to establish pursuant to paragraph 1;(g) the application of transaction reporting obligations to branches of investment firms;(h) what constitutes a transaction and execution of a transaction for the purposes of this Article;(i) when an investment firm is deemed to have transmitted an order for the purposes of paragraph 4;▼M8(j) the conditions for linking specific transactions and the means of identifying aggregated orders resulting in the execution of a transaction; and(k) the date by which transactions are to be reported.
+
+When developing those draft regulatory technical standards, ESMA shall take into account international developments and standards agreed at Union or international level, and the consistency of those draft regulatory technical standards with the reporting requirements laid down in Regulations (EU) No 648/2012 and (EU) 2015/2365.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 September 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**10.** By ►M1 3 January 2020** ◄ **, ESMA shall submit a report to the Commission on the functioning of this Article, including its interaction with the related reporting obligations under Regulation (EU) No 648/2012, and whether the content and format of transaction reports received and exchanged between competent authorities comprehensively enables monitoring of the activities of investment firms in accordance with Article 24 of this Regulation. The Commission may take steps to propose any changes, including providing for transactions to be transmitted only to a single system appointed by ESMA instead of to competent authorities. The Commission shall forward ESMA’s report to the European Parliament and to the Council.
+
+**11.** By 29 March 2028, ESMA shall submit to the Commission a report assessing the feasibility of more integration in transaction reporting and streamlining of data flows pursuant to this Article to:(a) reduce duplicative or inconsistent requirements for transaction data reporting, and in particular duplicative or inconsistent requirements laid down in this Regulation and Regulations (EU) No 648/2012 and (EU) 2015/2365, and in other relevant Union legal acts;(b) improve data standardisation and efficient sharing and use of data reported within any Union reporting framework by any relevant authority at Union or national level.
+
+When preparing the report, ESMA shall, where relevant, work in close cooperation with the other bodies of the European System of Financial Supervision and the European Central Bank.
+
+<a id="art_27"></a>
+
+### Article 27 — Obligation to supply financial instrument reference data
+
+**1.** ►M8 With regard to financial instruments admitted to trading or traded on a trading venue or where the issuer has approved trading of the issued instrument or where a request for admission to trading has been made, trading venues shall provide ESMA with identifying reference data for the purposes of transaction reporting pursuant to Article 26 and of the transparency requirements pursuant to Articles 3, 6, 8, 8a, 8b, 10, 14, 20 and 21.
+
+With regard to OTC derivatives, identifying reference data shall be based on a globally agreed unique product identifier and on any other relevant identifying reference data.
+
+With regard to OTC derivatives not covered by the first subparagraph of this paragraph that fall within the scope of Article 26(2), each designated publishing entity shall provide ESMA with the identifying reference data.** ◄ **
+
+Identifying reference data shall be made ready for submission to ESMA in an electronic and standardised format before trading commences in the financial instrument that it refers to. The financial instrument reference data shall be updated whenever there are changes to the data with respect to a financial instrument. ESMA shall publish those reference data immediately on its website. ESMA shall give competent authorities access without undue delay to those reference data.
+
+**2.** In order to allow competent authorities to monitor, pursuant to Article 26, the activities of investment firms to ensure that they act honestly, fairly and professionally and in a manner which promotes the integrity of the market, ESMA shall, after consulting the competent authorities, establish the necessary arrangements in order to ensure that:(a) ESMA effectively receives the financial instrument reference data pursuant to paragraph 1 of this Article;(b) the quality of the financial instrument reference data received pursuant to paragraph 1 of this Article is appropriate for the purpose of transaction reporting under Article 26;(c) the financial instrument reference data received pursuant to paragraph 1 of this Article is efficiently and without undue delay transmitted to the relevant competent authorities;(d) there are effective mechanisms in place between ESMA and the competent authorities to resolve data delivery or data quality issues.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify:(a) data standards and formats for the financial instrument reference data in accordance with paragraph 1, including the methods and arrangements for supplying the data and any update thereto to ESMA and transmitting it to competent authorities in accordance with paragraph 1, and the form and content of such data;(b) the technical measures that are necessary in relation to the arrangements to be made by ESMA and the competent authorities pursuant to paragraph 2;▼M8(c) the date by which reference data are to be reported.
+
+When developing those draft regulatory technical standards, ESMA shall take into account international developments and standards agreed at Union or international level, and the consistency of those draft regulatory technical standards with the reporting requirements laid down in Regulations (EU) No 648/2012 and (EU) 2015/2365.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**4.** ESMA may suspend the reporting obligations specified in paragraph 1 for certain or all financial instruments where all of the following conditions are met:(a) the suspension is necessary in order to preserve the integrity and quality of the reference data subject to reporting obligation as specified in paragraph 1 which may be put at risk by any of the following:(i) serious incompleteness, inaccuracy or corruption of the submitted data, or(ii) unavailability in a timely manner, disruption or damage of the functioning of systems used for the submitting, collecting, processing or storing the respective reference data by ESMA, national competent authorities, market infrastructures, clearing and settlement systems, and important market participants;(b) the existing Union regulatory requirements that are applicable do not address the threat;(c) the suspension does not have any detrimental effect on the efficiency of financial markets or investors that is disproportionate to the benefits of the action;(d) the suspension does not create any regulatory arbitrage.
+
+When taking the measure referred to in the first subparagraph of this paragraph, ESMA shall take into account the extent to which the measure ensures the accuracy and completeness of the reported data for the purposes specified in paragraph 2.
+
+Before deciding to take the measure referred to in the first subparagraph, ESMA shall notify the relevant competent authorities.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 50 in order to supplement this Regulation by specifying the conditions referred to in the first subparagraph and the circumstances under which the suspension referred to in that subparagraph ceases to apply.
+
+**5.** By 29 June 2024, the Commission shall adopt delegated acts in accordance with Article 50 to supplement this Regulation by specifying the identifying reference data to be used with regard to OTC derivatives for the purposes of the transparency requirements laid down in Article 8a(2) and Articles 10 and 21.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 50 to supplement this Regulation by specifying the identifying reference data to be used with regard to OTC derivatives for the purposes of Article 26.
+
+<a id="art_27a"></a>
+
+### Article 27a
+
+For the purposes of this Title, a national competent authority means a competent authority as defined in point (26) of Article 4(1) of Directive 2014/65/EU.
+
+<a id="art_27b"></a>
+
+### Article 27b — Requirement for authorisation
+
+**1.** The operation of an APA, a CTP or an ARM as a regular occupation or business shall be subject to prior authorisation by ESMA in accordance with this Title.
+
+By way of derogation from the first subparagraph of this paragraph, an APA or ARM identified in accordance with the delegated act referred to in Article 2(3) shall be subject to prior authorisation and supervision by the relevant national competent authority in accordance with this Title.
+
+**2.** An investment firm or a market operator operating a trading venue may also provide the services of an APA, a CTP or an ARM, subject to the prior verification by ESMA or the relevant national competent authority that the investment firm or the market operator complies with this Title. The provision of those services shall be included in their authorisation.
+
+**3.** ESMA shall establish a register of all data reporting services providers in the Union. The register shall be publicly available and shall contain information on the services for which the data reporting services provider is authorised and it shall be updated on a regular basis.
+
+Where ESMA, or a national competent authority where relevant, has withdrawn an authorisation in accordance with Article 27e, that withdrawal shall be published in the register for a period of five years.
+
+**4.** Data reporting services providers shall provide their services under the supervision of ESMA or the national competent authority where relevant. ESMA, or the national competent authority where relevant, shall regularly review the compliance of data reporting services providers with this Title. ESMA, or the national competent authority where relevant, shall monitor that data reporting services providers comply at all times with the conditions for initial authorisation established under this Title.
+
+<a id="art_27c"></a>
+
+### Article 27c — Authorisation of data reporting services providers
+
+**1.** Data reporting services providers shall be authorised by ESMA, or the national competent authority where relevant, for the purposes of this Title where:(a) the data reporting services provider is a legal person established in the Union; and(b) the data reporting services provider meets the requirements laid down in this Title.
+
+**2.** The authorisation referred to in paragraph 1 shall specify the data reporting service which the data reporting services provider is authorised to provide. Where an authorised data reporting services provider seeks to extend its business to additional data reporting services, it shall submit a request to ESMA, or the national competent authority where relevant, for extension of that authorisation.
+
+**3.** An authorised data reporting services provider shall comply at all times with the conditions for authorisation referred to in this Title. An authorised data reporting services provider shall, without undue delay, notify ESMA, or the national competent authority where relevant, of any material changes to the conditions for authorisation.
+
+**4.** The authorisation referred to in paragraph 1 shall be effective and valid for the entire territory of the Union, and shall allow the data reporting services provider to provide the services for which it has been authorised throughout the Union.
+
+<a id="art_27d"></a>
+
+### Article 27d — Procedures for granting and refusing applications for authorisation of ARMs and APAs
+
+**1.** The applicant APA or ARM shall submit an application providing all information necessary to enable ESMA, or, where relevant, the national competent authority, to confirm that the APA or ARM has put in place, at the time of initial authorisation, all the necessary arrangements to meet its obligations pursuant to this Title, including a programme of operations setting out, inter alia, the types of services envisaged and the organisational structure.
+
+**2.** ESMA, or, where relevant, the national competent authority, shall assess whether the application for authorisation is complete within 20 working days of receipt of the application.
+
+Where the application is not complete, ESMA, or, where relevant, the national competent authority, shall set a deadline by which the APA or ARM is to provide additional information.
+
+After assessing the application as complete, ESMA, or, where relevant, the national competent authority, shall notify the APA or ARM accordingly.
+
+**3.** ESMA, or, where relevant, the national competent authority, shall, within six months of receipt of a complete application, assess the compliance of the APA or ARM with this Title. It shall adopt a reasoned decision granting or refusing authorisation and shall notify the applicant APA or ARM accordingly within five working days of adoption.
+
+**4.** ESMA shall develop draft regulatory technical standards to determine:(a) the information to be provided under paragraph 1, including the programme of operations;▼M8(b) the information to be included in the notifications referred to in Article 27f(2) as regards APAs and ARMs.▼M3
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**5.** ►M8 ESMA shall develop draft implementing technical standards to determine standard forms, templates and procedures for the information to be provided pursuant to paragraph 1 of this Article and the information to be included in the notifications referred to in Article 27f(2) as regards APAs and ARMs.** ◄ **
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_27da"></a>
+
+### Article 27da — Procedure for the selection of a single CTP for each asset class
+
+**1.** For each of the following asset classes, ESMA shall organise a separate selection procedure for the appointment of a single CTP for a period of five years:(a) bonds;(b) shares and ETFs; and(c) OTC derivatives or relevant subclasses of OTC derivative.
+
+ESMA shall initiate the first selection procedure pursuant to the first subparagraph, point (a), by 29 December 2024.
+
+ESMA shall initiate the first selection procedure pursuant to the first subparagraph, point (b), within six months of the initiation of the selection procedure pursuant to the first subparagraph, point (a).
+
+ESMA shall initiate the first selection procedure pursuant to the first subparagraph, point (c), of this paragraph within three months of the date of application of the delegated act referred to in Article 27(5) and no earlier than six months from the initiation of the selection procedure laid down in the first subparagraph, point (b), of this paragraph.
+
+ESMA shall initiate subsequent selection procedures pursuant to the first subparagraph in time to allow the provision of the consolidated tape to continue without disruption.
+
+**2.** For each of the asset classes referred to in paragraph 1, ESMA shall select the applicant that is suitable for operating the consolidated tape on the basis of the following criteria:(a) the technical ability of the applicant to provide a resilient consolidated tape throughout the Union;(b) the capacity of the applicant to comply with the organisational requirements laid down in Article 27h;(c) the ability of the applicant to receive, consolidate and disseminate, as applicable:(i) for shares and ETFs, pre-trade and post-trade data;(ii) for bonds, post-trade data;(iii) for OTC derivatives, post-trade data;(d) the adequacy of the governance structure of the applicant;(e) the speed at which the applicant can disseminate core market data and regulatory data;(f) the appropriateness of the applicant’s methods and arrangements to ensure data quality;(g) the total expenditure needed by the applicant to develop the consolidated tape and the costs of operating the consolidated tape on an ongoing basis;(h) the level of the fees that the applicant intends to charge to the different types of users of the consolidated tape, the simplicity of its fee and licensing models, and compliance with Article 13;(i) for the consolidated tape for bonds, the existence of arrangements for revenue redistribution in accordance with Article 27h(5);(j) the use of modern interface technologies by the applicant for the dissemination of core market data and regulatory data and for connectivity;(k) the appropriateness of the arrangements put in place by the applicant to keep records in accordance with Article 27ha(3);(l) the ability of the applicant to ensure resilience and business continuity, and the arrangements that the applicant intends to put in place to mitigate and address outages and cyber risk;(m) the arrangements the applicant intends to put in place to mitigate the energy consumption generated by the collection, processing and storage of data;(n) where an application is submitted by joint applicants, the necessity, in terms of technical and logistical capacity, for each of the applicants to apply jointly.
+
+**3.** The applicant shall provide all the information necessary to enable ESMA to confirm that the applicant has put in place, at the time of the application, all the necessary arrangements to fulfil the criteria laid down in paragraph 2 of this Article and to comply with the organisational requirements laid down in Article 27h.
+
+**4.** Within six months of the initiation of each selection procedure referred to in paragraph 1, ESMA shall adopt a reasoned decision selecting the applicant that is suitable for operating the consolidated tape and inviting it to submit without undue delay an application for authorisation.
+
+**5.** Where no applicant has been selected pursuant to this Article or authorised pursuant to Article 27db, ESMA shall initiate a new selection procedure within six months of the end of the unsuccessful selection or authorisation procedure.
+
+<a id="art_27db"></a>
+
+### Article 27db — Procedures for granting and refusing applications for authorisation of CTPs
+
+**1.** The applicant for authorisation referred to in Article 27da(4) shall provide all the information necessary to enable ESMA to confirm that the applicant has put in place, at the time of the application for authorisation, all the necessary arrangements to fulfil the criteria laid down in Article 27da(2).
+
+**2.** ESMA shall assess whether the application for authorisation is complete within 20 working days of receipt of the application.
+
+Where the application for authorisation is not complete, ESMA shall set a deadline by which the applicant is to provide additional information.
+
+After assessing the application for authorisation as complete, ESMA shall notify the applicant accordingly.
+
+**3.** Within three months of receipt of a complete application for authorisation, ESMA shall assess the compliance of the applicant with this Title. It shall adopt a reasoned decision granting or refusing authorisation and shall notify the applicant accordingly within five working days of the date of adoption of such reasoned decision. A decision granting authorisation shall specify the conditions under which the applicant is to operate.
+
+**4.** Following authorisation pursuant to paragraph 3, ESMA may grant the applicant authorised as a CTP a transition period to put in place the necessary operational and technical arrangements.
+
+**5.** The CTP shall comply at all times with the organisational requirements laid down in Article 27h and with the conditions laid down in the reasoned decision authorising the CTP referred to in paragraph 3 of this Article.
+
+A CTP that is no longer able to comply with those requirements and conditions shall inform ESMA thereof without undue delay.
+
+**6.** The withdrawal of the authorisation referred to in Article 27e shall take effect only after a new CTP has been selected and authorised for the asset class concerned in accordance with Articles 27da and 27db.
+
+**7.** ESMA shall develop draft regulatory technical standards to determine:(a) the information to be provided pursuant to paragraph 1;(b) the information to be included in the notifications referred to in Article 27f(2) as regards CTPs.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**8.** ESMA shall develop draft implementing technical standards to determine standard forms, templates and procedures for the information to be provided pursuant to paragraph 1 of this Article and the information to be included in the notifications referred to Article 27f(2) as regards CTPs.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 29 December 2024.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_27e"></a>
+
+### Article 27e — Withdrawal of authorisation
+
+**1.** ESMA, or the national competent authority where relevant, may withdraw the authorisation of a data reporting services provider where the latter:(a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has provided no services for the preceding six months;(b) obtained the authorisation by making false statements or by any other irregular means;(c) no longer meets the conditions under which it was authorised;(d) has seriously and systematically infringed this Regulation.
+
+**2.** ESMA shall, where relevant, without undue delay, notify the national competent authority in the Member State where the data reporting services provider is established of a decision to withdraw the authorisation of a data reporting services provider.
+
+**3.** A data reporting services provider from which authorisation is to be withdrawn shall ensure orderly substitution, including the transfer of data to other data reporting services providers, the provision of due notice to its clients and the redirection of reporting flows to other data reporting services providers before the withdrawal.
+
+<a id="art_27f"></a>
+
+### Article 27f — Requirements for the management body of a data reporting services provider
+
+**1.** The management body of a data reporting services provider shall at all times be of sufficiently good repute, possess sufficient knowledge, skills and experience and commit sufficient time to perform their duties.
+
+The management body shall possess adequate collective knowledge, skills and experience to be able to understand the activities of the data reporting services provider. Each member of the management body shall act with honesty, integrity and independence of mind to effectively challenge the decisions of the senior management where necessary and to effectively oversee and monitor management decision-making where necessary.
+
+Where a market operator seeks authorisation to operate an APA, a CTP or an ARM pursuant to Article 27d and the members of the management body of the APA, the CTP or the ARM are the same as the members of the management body of the regulated market, those persons are deemed to comply with the requirements laid down in the first subparagraph.
+
+**2.** A data reporting services provider shall notify to ESMA, or the national competent authority where relevant, the names of all members of its management body and any changes to its membership, along with all information needed to assess whether the entity complies with paragraph 1.
+
+**3.** The management body of a data reporting services provider shall define and oversee the implementation of the governance arrangements that ensure effective and prudent management of an organisation, including the segregation of duties in the organisation and the prevention of conflicts of interest, and in a manner that promotes the integrity of the market and the interest of its clients.
+
+**4.** ESMA, or, where relevant, the national competent authority, shall refuse or withdraw authorisation if it is not satisfied that the person or persons who effectively direct the business of the data reporting services provider are of sufficiently good repute, or if there are objective and demonstrable grounds for believing that proposed changes to the management body of the data reporting services provider pose a threat to its sound and prudent management and to the adequate consideration of the interest of its clients and the integrity of the market
+
+**5.** ESMA shall develop draft regulatory technical standards by 1 January 2021 for the assessment of the suitability of the members of the management body described in paragraph 1, taking into account different roles and functions carried out by them and the need to avoid conflicts of interest between members of the management body and users of the APA, CTP or ARM.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_27g"></a>
+
+### Article 27g — Organisational requirements for APAs
+
+**1.** An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.
+
+**2.** The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:(a) the identifier of the financial instrument;(b) the price at which the transaction was concluded;(c) the volume of the transaction;(d) the time of the transaction;(e) the time the transaction was reported;(f) the price notation of the transaction;(g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code ‘SI’ or otherwise the code ‘OTC’;(h) if applicable, an indicator that the transaction was subject to specific conditions.
+
+**3.** An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information collected in a non-discriminatory way and shall operate and maintain appropriate arrangements to separate different business functions.
+
+**4.** An APA shall comply with the requirements concerning the security of network and information systems set out in Regulation (EU) 2022/2554 of the European Parliament and of the Council (12).
+
+**4a.** An APA shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the transparency requirements laid down in Article 20(1) and Article 21(1).
+
+An APA shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately.
+
+**4b.** An APA shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.
+
+**5.** The APA shall have systems in place that can effectively check trade reports for completeness, identify omissions and obvious errors, and request re-transmission of any such erroneous reports.
+
+**6.** ESMA shall develop draft regulatory technical standards to determine common formats, data standards and technical arrangements facilitating the consolidation of information as referred to in paragraph 1.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**8.** ESMA shall develop draft regulatory technical standards specifying:(a) the means by which an APA may comply with the information obligation referred to in paragraph 1;(b) the content of the information published under paragraph 1, including at least the information referred to in paragraph 2 in such a way as to enable the publication of information required under this Article;▼M6(c) the concrete organisational requirements laid down in paragraphs 3 and 5.▼M3
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_27h"></a>
+
+### Article 27h — Organisational requirements for CTPs
+
+**1.** A CTP shall, in accordance with the conditions for authorisation referred to in Article 27db:(a) collect all data transmitted by data contributors in relation to the asset class for which it is authorised;(b) collect fees from users, while providing access, free of charge, to the consolidated tape to retail investors, academics, civil society organisations and competent authorities;(c) in the case of the consolidated tape for shares and ETFs, redistribute part of its revenue in accordance with paragraph 6;(d) disseminate core market data and regulatory data to users as a continuous electronic live data stream on non-discriminatory terms as close to real time as technically possible;(e) ensure that the core market data and regulatory data are easily accessible, machine-readable and usable for all users, including retail investors;(f) have systems in place that can effectively check the completeness of the data transmitted by data contributors, identify obvious errors, and request the re-submission of data;(g) where the CTP is controlled by a group of economic operators, have a compliance system in place to ensure that the operation of the consolidated tape does not result in a distortion of competition.
+
+For the purposes of the first subparagraph, point (d), a CTP for shares and ETFs shall not publish the market identifier code when disseminating the European best bid and offer as close as to real time as technically possible to the public.
+
+**2.** A CTP shall adopt, publish on its website and regularly update service level standards covering all of the following:(a) an inventory of data contributors from whom data are received;(b) modes and speed of delivery of core market data and regulatory data to users;(c) measures taken to ensure operational continuity in the provision of core market data and regulatory data.
+
+**3.** A CTP shall have sound security arrangements in place designed to guarantee the security of the means of transfer of data between the data contributors and the CTP and between the CTP and the users and to minimise the risk of data corruption and unauthorised access. The CTP shall maintain adequate resources and have back-up facilities in place to offer and maintain its services at all times.
+
+**4.** For each of the asset classes referred to in Article 27da(1), a CTP shall publish a list of the financial instruments that are covered by the consolidated tape, indicating their identifying reference data.
+
+The CTP shall offer access, free of charge, to its list, and shall ensure that the list is regularly reviewed and updated, in order to offer a comprehensive view of all the financial instruments covered by the consolidated tape.
+
+**5.** A CTP for financial instruments other than shares and ETFs may redistribute to data contributors part of the revenue generated by the consolidated tape.
+
+**6.** A CTP for shares and ETFs shall redistribute part of the revenue generated by the consolidated tape, as indicated in the reasoned decision referred to in Article 27db(3), to data contributors meeting one or more of the following criteria (the ‘revenue redistribution scheme’):(a) the data contributor is a regulated market or an SME growth market whose annual trading volume of shares represents 1 % or less of the annual trading volume of shares in the Union (‘small trading venue’);(b) the data contributor is a trading venue that provided initial admission to trading of shares or ETFs on 27 March 2019 or thereafter;(c) the data are transmitted by a trading venue and pertain to transactions in shares and ETFs that have been concluded on a trading system that provides pre-trade transparency, where those transactions did not result from orders that were subject to a waiver from pre-trade transparency pursuant to Article 4(1), point (c).
+
+**7.** For the purposes of the revenue redistribution scheme, the CTP shall take into account the following trading volume (the ‘relevant trading volume’):(a) for the purposes of paragraph 6, point (a), the total annual trading volume generated by that trading venue;(b) for the purposes of paragraph 6, point (b):(i) in the case of small trading venues, their total annual trading volume;(ii) in the case of trading venues other than small trading venues, the trading volume pertaining to the shares and ETFs referred to in that point;(c) for the purposes of paragraph 6, point (c), the volume pertaining to the shares and ETFs referred to in that point.
+
+The CTP shall determine the amount of the revenue to be redistributed to data contributors under the revenue redistribution scheme by multiplying the relevant trading volume by the weighting assigned to each criterion laid down in paragraph 6, as specified in the regulatory technical standards adopted pursuant to paragraph 8.
+
+If trading venues meet more than one of the criteria laid down in paragraph 6, the amounts resulting from the calculation referred to in the second subparagraph of this paragraph shall be added cumulatively.
+
+**8.** ESMA shall develop draft regulatory technical standards to:(a) specify the weighting assigned to each criterion laid down in paragraph 6;(b) further specify the method for calculating the amount of the revenue to be redistributed to data contributors as referred to in paragraph 7, second subparagraph;(c) specify the criteria under which the CTP can, where the CTP proves that a data contributor has seriously and repeatedly breached the data requirements referred to in Articles 22a, 22b and 22c, temporarily suspend the participation of that data contributor in the revenue redistribution scheme, and specify the conditions under which the CTP is to:(i) resume revenue redistribution; and(ii) where there was no breach of those requirements, provide that data contributor with the revenue retained plus interest.
+
+For the purposes of the first subparagraph, point (a), of this paragraph, the criterion laid down in paragraph 6, point (a), shall have a higher weighting than the criterion laid down in point (b) of that paragraph, and the criterion laid down in point (b) of that paragraph shall have a higher weighting than the criterion laid down in point (c) of that paragraph.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 December 2024.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_27ha"></a>
+
+### Article 27ha — Reporting obligations for CTPs
+
+**1.** A CTP shall, every year, publish on its website performance statistics and incident reports relating to data quality and data systems. Those performance statistics and incident reports shall be publicly accessible free of charge.
+
+**2.** ESMA shall develop draft regulatory technical standards to specify the content, timing, format and terminology of the reporting obligation laid down in paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 29 September 2025.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**3.** A CTP shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.
+
+<a id="art_27i"></a>
+
+### Article 27i — Organisational requirements for ARMs
+
+**1.** An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.
+
+**2.** The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.
+
+**3.** An ARM shall comply with the requirements concerning the security of network and information systems set out in Regulation (EU) 2022/2554.
+
+**4.** The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.
+
+The ARM shall have systems in place to enable the ARM to detect errors or omissions caused by the ARM itself and to enable the ARM to correct and transmit, or re-transmit as the case may be, correct and complete transaction reports to the competent authority.
+
+**4a.** An ARM shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the reporting obligation laid down in Article 26.
+
+An ARM shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately. The prices and fees charged by an ARM shall be cost-related.
+
+**4b.** An ARM shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.
+
+**5.** ESMA shall develop draft regulatory technical standards specifying:(a) the means by which the ARM may comply with the information obligation referred to in paragraph 1; and▼M6(b) the concrete organisational requirements laid down in paragraphs 2 and 4.▼M3
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_28"></a>
+
+### Article 28 — Obligation to trade on regulated markets, MTFs or OTFs
+
+**1.** ►M8 Financial counterparties and non-financial counterparties that are subject to the clearing obligation under Title II of Regulation (EU) No 648/2012 shall conclude transactions with other such financial counterparties or other such non-financial counterparties in derivatives pertaining to a class of derivative that has been declared subject to the trading obligation in accordance with Article 32 and listed in the register referred to in Article 34 only on:** ◄ **(a) regulated markets;(b) MTFs;(c) OTFs; or(d) third-country trading venues, provided that the Commission has adopted a decision in accordance with paragraph 4 and provided that the third country provides for an effective equivalent system for the recognition of trading venues authorised under Directive 2014/65/EU to admit to trading or trade derivatives declared subject to a trading obligation in that third country on a non-exclusive basis.
+
+**2.** ►M8 —————** ◄ **
+
+ESMA shall regularly monitor the activity in derivatives which have not been declared subject to the trading obligation as described in paragraph 1 in order to identify cases where a particular class of contracts may pose systemic risk and to prevent regulatory arbitrage between derivative transactions subject to the trading obligation and derivative transactions which are not subject to the trading obligation.
+
+**2a.** Transactions in derivatives that are exempt from or not subject to the clearing obligation under Title II of Regulation (EU) No 648/2012 shall not be subject to the trading obligation.
+
+**3.** Derivatives declared subject to the trading obligation pursuant to paragraph 1 shall be eligible to be admitted to trading on a regulated market or to trade on any trading venue as referred to in paragraph 1 on a non-exclusive and non-discriminatory basis.
+
+**4.** The Commission may, in accordance with the examination procedure referred to in Article 51(2) adopt decisions determining that the legal and supervisory framework of a third country ensures that a trading venue authorised in that third country complies with legally binding requirements which are equivalent to the requirements for the trading venues referred to in paragraph 1(a), (b) or (c) of this Article, resulting from this Regulation, Directive 2014/65/EU, and Regulation (EU) No 596/2014, and which are subject to effective supervision and enforcement in that third country.
+
+Those decisions shall be for the sole purpose of determining eligibility as a trading venue for derivatives subject to the trading obligation.
+
+The legal and supervisory framework of a third country is considered to have equivalent effect where that framework fulfils all the following conditions:
+
+(a) trading venues in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+
+(b) trading venues have clear and transparent rules so that derivatives are capable of being traded in a fair, orderly and efficient manner, and are freely negotiable;
+
+(c) issuers of financial instruments are subject to periodic and ongoing information requirements ensuring a high level of investor protection;
+
+(d) it ensures market transparency and integrity via rules addressing market abuse in the form of insider dealing and market manipulation;
+
+A decision of the Commission under this paragraph may be limited to a category or categories of trading venues. In that case, a third-country trading venue is only included in paragraph 1(d) if it falls within a category covered by the Commission’s decision.
+
+**5.** In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards to specify the types of contracts referred to in paragraph 2 which have a direct, substantial and foreseeable effect within the Union and the cases where the trading obligation is necessary or appropriate to prevent the evasion of any provision of this Regulation.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+Where possible and appropriate, the regulatory technical standards referred to in this paragraph shall be identical to those adopted under Article 4(4) of Regulation (EU) No 648/2012.
+
+<a id="art_29"></a>
+
+### Article 29 — Clearing obligation for derivatives traded on regulated markets and timing of acceptance for clearing
+
+**1.** The operator of a regulated market shall ensure that all transactions in derivatives that are concluded on that regulated market are cleared by a CCP.
+
+**2.** CCPs, trading venues and investment firms which act as clearing members in accordance with Article 2(14) of Regulation (EU) No 648/2012 shall have in place effective systems, procedures and arrangements in relation to cleared derivatives to ensure that transactions in cleared derivatives are submitted and accepted for clearing as quickly as technologically practicable using automated systems.
+
+In this paragraph, ‘cleared derivatives’ means
+
+(a) all derivatives which are to be cleared pursuant to the clearing obligation under paragraph 1 of this Article or pursuant to the clearing obligation under Article 4 of Regulation (EU) No 648/2012;
+
+(b) all derivatives which are otherwise agreed by the relevant parties to be cleared.
+
+**3.** ESMA shall develop draft regulatory technical standards to specify the minimum requirements for systems, procedures and arrangements, including the acceptance timeframes, under this Article taking into account the need to ensure proper management of operational or other risks.
+
+ESMA shall have ongoing authority to develop further regulatory technical standards to update those in force if it considers that that is required as industry standards evolve.
+
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first and second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_30"></a>
+
+### Article 30 — Indirect Clearing Arrangements
+
+**1.** Indirect clearing arrangements with regard to exchange-traded derivatives are permissible provided that those arrangements do not increase counterparty risk and ensure that the assets and positions of the counterparty benefit from protection with equivalent effect to that referred to in Articles 39 and 48 of Regulation (EU) No 648/2012.
+
+**2.** ESMA shall develop draft regulatory technical standards to specify the types of indirect clearing service arrangements, where established, that meet the conditions referred to in paragraph 1, ensuring consistency with provisions established for OTC derivatives under Chapter II of Commission Delegated Regulation (EU) No 149/2013 (13).
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_31"></a>
+
+### Article 31 — Post-trade risk reduction services
+
+**1.** The transparency requirements laid down in Articles 8a, 10 and 21 of this Regulation, the trading obligation laid down in Article 28 of this Regulation and the obligation to execute orders on terms most favourable to the client laid down in Article 27 of Directive 2014/65/EU shall not apply to transactions in OTC derivatives that are formed and established as a result of post-trade risk reduction services.
+
+**3.** Investment firms and market operators that are providers of post-trade risk reduction services shall keep complete and accurate records of the transactions referred to in paragraph 1 of this Article that are not already recorded or reported in accordance with Regulation (EU) No 648/2012. Those investment firms and market operators shall make those records available to the relevant competent authority or ESMA promptly upon request.
+
+**4.** The Commission is empowered to adopt delegated acts in accordance with Article 50 to supplement this Regulation by specifying:(a) post-trade risk reduction services for the purposes of paragraph 1;(b) the transactions to be recorded pursuant to paragraph 3.
+
+<a id="art_32"></a>
+
+### Article 32 — Trading obligation procedure
+
+**1.** ESMA shall develop draft regulatory technical standards to specify the following:(a) which of the class of derivatives declared subject to the clearing obligation in accordance with Article 5(2) and (4) of Regulation (EU) No 648/2012 or a relevant subset thereof shall be traded on the venues referred to in Article 28(1) of this Regulation;(b) the date or dates from which the trading obligation takes effect, including any phase-in and the categories of counterparties to which the obligation applies where such phase-in and such categories of counterparties have been provided for in regulatory technical standards in accordance with Article 5(2)(b) of Regulation (EU) No 648/2012.
+
+ESMA shall submit those draft regulatory technical standards to the Commission within six months after the adoption of the regulatory technical standards in accordance with Article 5(2) of Regulation (EU) No 648/2012 by the Commission.
+
+Before submitting the draft regulatory technical standards to the Commission for adoption, ESMA shall conduct a public consultation and, where appropriate, may consult third-country competent authorities.
+
+Power is conferred to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**2.** In order for the trading obligation to take effect:▼M8(a) the class of derivative pursuant to paragraph 1, point (a), of this Article or a relevant subset thereof must be traded on at least one trading venue as referred to in Article 28(1); and▼B(b) there must be sufficient third-party buying and selling interest in the class of derivatives or a relevant subset thereof so that such a class of derivatives is considered sufficiently liquid to trade only on the venues referred to in Article 28(1).
+
+**3.** In developing the draft regulatory technical standards referred to in paragraph 1, ESMA shall consider the class of derivatives or a relevant subset thereof as sufficiently liquid pursuant to the following criteria:(a) the average frequency and size of trades over a range of market conditions, having regard to the nature and lifecycle of products within the class of derivatives;(b) the number and type of active market participants including the ratio of market participants to products/contracts traded in a given product market;(c) the average size of the spreads.
+
+In preparing those draft regulatory technical standards, ESMA shall take into consideration the anticipated impact that trading obligation might have on the liquidity of a class of derivatives or a relevant subset thereof and the commercial activities of end users which are not financial entities.
+
+ESMA shall determine whether the class of derivatives or relevant subset thereof is only sufficiently liquid in transactions below a certain size.
+
+**4.** ►M8 ESMA shall, on its own initiative, in accordance with the criteria laid down in paragraph 2 and after conducting a public consultation, identify and notify to the Commission the classes of derivative or individual derivative contracts that should be subject to the obligation to trade on the venues referred to in Article 28(1) of this Regulation, but for which no CCP has yet received authorisation pursuant to Article 14 or 15 of Regulation (EU) No 648/2012.** ◄ **
+
+Following the notification by ESMA referred to in the first subparagraph, the Commission may publish a call for development of proposals for the trading of those derivatives on the venues referred to in Article 28(1).
+
+**4a.** Where ESMA considers that the suspension of the clearing obligation as referred to in Article 6a of Regulation (EU) No 648/2012 is a material change in the criteria for the trading obligation to take effect, as referred to in paragraph 5 of this Article, ESMA may request that the Commission suspend the trading obligation laid down in Article 28(1) of this Regulation for the same classes of OTC derivative that are subject to the request to suspend the clearing obligation.
+
+**4b.** ESMA may request that the Commission suspend the trading obligation laid down in Article 28(1) for specific classes of OTC derivative or for a specific type of counterparty, where such a suspension is necessary to avoid or address adverse effects on liquidity or a serious threat to financial stability and to ensure the orderly functioning of financial markets in the Union and where that suspension is proportionate to those aims.
+
+**4c.** The requests referred to in paragraphs 4a and 4b shall not be made public.
+
+**4d.** After having received the requests referred to in paragraphs 4a and 4b, the Commission shall, without undue delay and on the basis of the reasons and evidence provided by ESMA, do either of the following:(a) by way of an implementing act, suspend the trading obligation for classes of OTC derivative or for types of counterparties;(b) reject the requested suspension.
+
+For the purposes of point (b) of the first subparagraph, the Commission shall inform ESMA of the reasons why it rejected the requested suspension. The Commission shall immediately inform the European Parliament and the Council of that rejection and forward them the reasons provided to ESMA. The information provided to the European Parliament and the Council regarding the rejection and the reasons for that rejection shall not be made public.
+
+The suspension referred to in the first subparagraph, point (a), shall be valid for an initial period of no more than three months from the date of publication of the implementing act referred to in that point.
+
+Where the grounds for the suspension referred to in the first subparagraph, point (a), continue to apply, the Commission may, by way of an implementing act, extend that suspension for further periods of no more than three months, with the total period of the suspension of no more than 12 months.
+
+The implementing acts referred to in the first subparagraph, point (a), and the fourth subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 51.
+
+**5.** ESMA shall in accordance with paragraph 1, submit to the Commission draft regulatory technical standards to amend, suspend or revoke existing regulatory technical standards whenever there is a material change in the criteria set out in paragraph 2. Before doing so, ESMA may, where appropriate, consult the competent authorities of third countries.
+
+Power is conferred to the Commission to adopt regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**6.** ESMA shall develop draft regulatory technical standards to specify the criteria referred to in paragraph 2(b).
+
+ESMA shall submit drafts for those regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_32a"></a>
+
+### Article 32a — Stand-alone suspension of the trading obligation
+
+**1.** At the request of the competent authority of a Member State, the Commission may, by way of an implementing act, suspend the trading obligation laid down in Article 28 (the ‘derivative trading obligation’) with respect to certain financial counterparties, where appropriate after consulting ESMA. The competent authority shall indicate why it considers that the conditions for a suspension are met. In particular, the competent authority shall demonstrate that a financial counterparty within its jurisdiction:(a) regularly acts as a market maker in an OTC derivative subject to the derivative trading obligation and regularly receives requests for a quote for the derivatives subject to the derivative trading obligation from a non-EEA counterparty which has no active membership on an EEA trading venue that offers trading in the OTC derivative subject to the derivative trading obligation; or(b) regularly acts as a market maker in a credit default swap subject to the derivative trading obligation and:(i) intends to trade credit default swaps subject to the derivative trading obligation on own account on a trading venue open only to counterparties that are CCP clearing members as defined in Article 2, point (14), of Regulation (EU) No 648/2012 (‘dealer-to-dealer’ venue);(ii) intends to trade credit default swaps subject to the derivative trading obligation on own account with a counterparty which is a market maker and which has no active membership on an EEA dealer-to-dealer venue that offers trading in the OTC derivatives subject to the derivative trading obligation; and(iii) clears those credit default swaps in a CCP authorised or recognised pursuant to Regulation (EU) No 648/2012.
+
+The implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 51.
+
+**2.** When assessing whether to suspend the derivative trading obligation pursuant to paragraph 1, the Commission shall consider whether to suspend it for specific markets, and shall take into account whether such suspension of the derivative trading obligation would have a distortive effect on the clearing obligation under Title II of Regulation (EU) No 648/2012.
+
+The Commission shall also contact other competent authorities of other Member States to assess whether financial counterparties in Member States other than that making the request pursuant to paragraph 1 (the ‘requesting Member State’) are in a situation similar to that in the requesting Member State.
+
+The competent authority of a Member State other than the requesting Member State may, after adoption of the implementing act referred to in paragraph 1, request that financial counterparties that are in a situation similar to that in the requesting Member State be added to the implementing act. The competent authority of the Member State making that request shall demonstrate why it considers that the conditions for a suspension are met.
+
+**3.** Where the derivative trading obligation is suspended pursuant to paragraph 1 or 2 with respect to a financial counterparty, the derivative trading obligation shall not apply with respect to its counterparty, as referred to in paragraph 1, point (a), or paragraph 1, point (b)(ii).
+
+**4.** The implementing act referred to in paragraph 1 shall be accompanied by the evidence presented by the competent authority requesting the suspension.
+
+**5.** The implementing act referred to in paragraph 1 shall be communicated to ESMA and shall be published in the register referred to in Article 34.
+
+**6.** The Commission shall regularly review whether the grounds for the suspension of the derivative trading obligation continue to apply.
+
+<a id="art_33"></a>
+
+### Article 33 — Mechanism to avoid duplicative or conflicting rules
+
+**1.** The Commission shall be assisted by ESMA in monitoring and preparing reports, at least on an annual basis, to the European Parliament and to the Council on the international application of principles laid down in Articles 28 and 29, in particular with regard to potential duplicative or conflicting requirements on market participants, and recommend possible actions.
+
+**2.** The Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of the relevant third country:(a) are equivalent to the requirements resulting from Articles 28 and 29;(b) ensure protection of professional secrecy that is equivalent to that set out in this Regulation;(c) are being effectively applied and enforced in an equitable and non-distortive manner so as to ensure effective supervision and enforcement in that third country.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51.
+
+**3.** An implementing act on equivalence as referred to in paragraph 2 shall have the effect that counterparties entering into a transaction subject to this Regulation shall be deemed to have fulfilled the obligation contained in Articles 28 and 29 where at least one of the counterparties is established in that third country and the counterparties are in compliance with those legal, supervisory and enforcement arrangements of the relevant third country.
+
+**4.** The Commission shall, in cooperation with ESMA, monitor the effective implementation by third countries, for which an implementing act on equivalence has been adopted, of the requirements equivalent to those contained in Articles 28 and 29 and regularly report, at least on an annual basis, to the European Parliament and to the Council.
+
+Within 30 calendar days of the presentation of the report where the report reveals a significant defect or inconsistency in the application of the equivalent requirements by third-country authorities, the Commission may withdraw the recognition as equivalent of the third-country legal framework in question. Where an implementing act on equivalence is withdrawn, transactions by counterparties shall automatically be subject again to all requirements contained in Articles 28 and 29 of this Regulation.
+
+<a id="art_34"></a>
+
+### Article 34 — Register of derivatives subject to the trading obligation
+
+ESMA shall publish and maintain on its website a register specifying, in an exhaustive and unequivocal manner, the derivatives that are subject to the obligation to trade on the venues referred to in Article 28(1), the venues where they are admitted to trading or traded, and the dates from which the obligation takes effect.
+
+<a id="art_35"></a>
+
+### Article 35 — Non-discriminatory access to a CCP
+
+**1.** ►M8 Without prejudice to Article 7 of Regulation (EU) No 648/2012, a CCP shall accept to clear financial instruments on a non-discriminatory and transparent basis, including as regards collateral requirements and fees relating to access, regardless of the trading venue on which a transaction is executed.The requirement in the first subparagraph shall not apply to exchange-traded derivatives.The CCP shall in particular ensure that a trading venue has the right to non-discriminatory treatment of contracts traded on that trading venue in terms of:** ◄ **(a) collateral requirements and netting of economically equivalent contracts, where the inclusion of such contracts in the close-out and other netting procedures of a CCP based on the applicable insolvency law would not endanger the smooth and orderly functioning, the validity or enforceability of such procedures; and(b) cross-margining with correlated contracts cleared by the same CCP under a risk model that complies with Article 41 of Regulation (EU) No 648/2012.
+
+A CCP may require that the trading venue comply with the operational and technical requirements established by the CCP including the risk management requirements. The requirement in this paragraph does not apply to any derivative contract that is already subject to the access obligations under Article 7 of Regulation (EU) No 648/2012.
+
+A CCP is not bound by this Article if it is connected by close links to a trading venue which has given notification under Article 36(5).
+
+**2.** A request to access a CCP by a trading venue shall be formally submitted to a CCP, its relevant competent authority and the competent authority of the trading venue. The request shall specify to which types of financial instruments access is requested.
+
+**3.** The CCP shall provide a written response to the trading venue within three months of receiving the request referred to in paragraph 2, either permitting access, provided that the relevant competent authority has granted access pursuant to paragraph 4, or denying access. The CCP may deny a request for access subject to the conditions laid down in paragraph 6, point (a). Where a CCP denies access, it shall provide full reasons in its response and inform its competent authority of the decision in writing. Where the trading venue is established in a Member State other than that of the CCP, the CCP shall also forward that written response to the competent authority of the trading venue. The CCP shall provide access within three months of providing a positive response to the access request.
+
+**4.** ►M8 The competent authority of the CCP or that of the trading venue shall grant a trading venue access to a CCP provided that such access would not threaten the smooth and orderly functioning of the markets, in particular due to liquidity fragmentation, or would not adversely affect systemic risk.** ◄ **
+
+If a competent authority refuses access it shall issue its decision within two months following receipt of the request referred to in paragraph 2 and provide full reasons to the other competent authority, the CCP and the trading venue including the evidence on which the decision is based.
+
+**5.** As regards transferable śecurities and money market instruments, a CCP that has been newly established and authorised as a CCP as defined in Article 2(1) of Regulation (EU) No 648/2012 to clear under Article 17 of Regulation (EU) No 648/2012 or recognised under Article 25 of Regulation (EU) No 648/2012 or authorised under a pre-existing national authorisation regime for a period of less than three years on 2 July 2014 may, before ►M1 3 January 2018** ◄ **, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority may decide that this Article does not apply to the CCP in respect of transferable securities and money market instruments, for a transitional period until ►M1 3 July 2020** ◄ **.
+
+Where such a transitional period is approved, the CCP cannot benefit from the access rights under Article 36 or this Article in respect of transferable securities and money market instruments for the duration of that transitional arrangement. The competent authority shall notify members of the college of competent authorities for the CCP and ESMA when a transitional period is approved. ESMA shall publish a list of all notifications that it receives.
+
+Where a CCP which has been approved for the transitional arrangements under this paragraph is connected by close links to one or more trading venues, those trading venues shall not benefit from access rights under Article 36 or this Article in respect of transferable securities and money market instruments for the duration of the transitional arrangement.
+
+A CCP which is authorised during the three year period prior to entry into force, but is formed by a merger or acquisition involving at least one CCP authorised prior to that period, shall not be permitted to apply for the transitional arrangements under this paragraph.
+
+**6.** ESMA shall develop draft regulatory technical standards to specify:(a) the specific conditions under which an access request may be denied by a CCP, including the anticipated volume of transactions, the number and type of users, arrangements for managing operational risk and complexity or other factors creating significant undue risks;(b) the conditions under which access must be permitted by a CCP, including confidentiality of information provided regarding financial instruments during the development phase, the non-discriminatory and transparent basis as regards clearing fees, collateral requirements and operational requirements regarding margining;(c) the conditions under which granting access will threaten the smooth and orderly functioning of markets or would adversely affect systemic risk;(d) the procedure for making a notification under paragraph 5;(e) the conditions for non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of collateral requirements and netting of economically equivalent contracts and cross-margining with correlated contracts cleared by the same CCP.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_36"></a>
+
+### Article 36 — Non-discriminatory access to a trading venue
+
+**1.** ►M8 Without prejudice to Article 8 of Regulation (EU) No 648/2012, a trading venue shall, upon request, provide trade feeds on a non-discriminatory and transparent basis, including as regards fees relating to access, to any CCP authorised or recognised pursuant to that Regulation that wishes to clear transactions in financial instruments that are concluded on that trading venue. That requirement shall not apply to:(a) any derivative contract that is already subject to the access obligations laid down in Article 8 of Regulation (EU) No 648/2012;(b) exchange-traded derivatives.** ◄ **
+
+A trading venue is not bound by this Article if it is connected by close links to a CCP which has given notification that it is availing of the transitional arrangements under Article 35(5).
+
+**2.** A request to access a trading venue by a CCP shall be formally submitted to a trading venue, its relevant competent authority and the competent authority of the CCP.
+
+**3.** The trading venue shall provide a written response to the CCP within three months of receiving the request referred to in paragraph 2, either permitting access, provided that the relevant competent authority has granted access pursuant to paragraph 4, or denying access. The trading venue may deny a request for access subject to the conditions laid down in paragraph 6, point (a). Where a trading venue denies access, it shall provide full reasons in its response and inform its competent authority of the decision in writing. Where the CCP is established in a Member State other than that of the trading venue, the trading venue shall also forward that written response to the competent authority of the CCP. The trading venue shall provide access within three months of providing a positive response to the access request.
+
+**4.** ►M8 The competent authority of the trading venue or that of the CCP shall grant a CCP access to a trading venue provided that such access would not threaten the smooth and orderly functioning of the markets, in particular due to liquidity fragmentation, and provided that the trading venue has put in place adequate arrangements to prevent such fragmentation, or would not adversely affect systemic risk.** ◄ **
+
+If a competent authority denies access it shall issue its decision within two months following receipt of the request referred to in paragraph 2 and provide full reasons to the other competent authority, the trading venue and the CCP including the evidence on which its decision is based.
+
+**6.** ESMA shall develop draft regulatory technical standards to specify:(a) the specific conditions under which an access request may be denied by a trading venue, including conditions based on the anticipated volume of transactions, the number of users, arrangements for managing operational risk and complexity or other factors creating significant undue risks;(b) the conditions under which access shall be granted, including confidentiality of information provided regarding financial instruments during the development phase and the non-discriminatory and transparent basis as regards fees related to access;(c) the conditions under which granting access will threaten the smooth and orderly functioning of the markets, or would adversely affect systemic risk.▼M8 —————▼B
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_37"></a>
+
+### Article 37 — Non-discriminatory access to and obligation to licence benchmarks
+
+**1.** Where the value of any financial instrument is calculated by reference to a benchmark, a person with proprietary rights to the benchmark shall ensure that CCPs and trading venues are permitted, for the purposes of trading and clearing, non-discriminatory access to:(a) relevant price and data feeds and information on the composition, methodology and pricing of that benchmark for the purposes of clearing and trading; and(b) licences.
+
+A licence including access to information shall be granted on a fair, reasonable and non-discriminatory basis within three months following the request by a CCP or a trading venue.
+
+Access shall be given at a reasonable commercial price taking into account the price at which access to the benchmark is granted or the intellectual property rights are licensed on equivalent terms to another CCP, trading venues or any related persons for the purposes of clearing and trading. Different prices can be charged to different CCPs, trading venues or any related persons only where objectively justified having regard to reasonable commercial grounds such as the quantity, scope or field of use demanded.
+
+**2.** Where a new benchmark is developed after ►M1 3 January 2018 ** ◄ ** the obligation to licence starts no later than 30 months after a financial instrument referencing that benchmark commenced trading or was admitted to trading. Where a person with proprietary rights to a new benchmark owns an existing benchmark, that person shall establish that compared to any such existing benchmark the new benchmark meets the following cumulative criteria:(a) the new benchmark is not a mere copy or adaptation of any such existing benchmark and the methodology, including the underlying data, of the new benchmark is meaningfully different from any such existing benchmark; and(b) the new benchmark is not a substitute for any such existing benchmark.
+
+This paragraph shall be without prejudice to the application of competition rules and, in particular, Article 101 and 102 TFEU.
+
+**3.** No CCP, trading venue or related entity may enter into an agreement with any provider of a benchmark the effect of which would be either:(a) to prevent any other CCP or trading venue from obtaining access to such information or rights as referred to in paragraph 1; or(b) to prevent any other CCP or trading venue from obtaining access to such a licence, as referred to in paragraph 1.
+
+**4.** ESMA shall develop draft regulatory technical standards to specify:(a) the information through licensing to be made available under paragraph 1(a) for the sole use of the CCP or trading venue;(b) other conditions under which access is granted, including confidentiality of information provided;(c) the standards guiding how a benchmark may be proven to be new in accordance with paragraph 2(a) and (b).
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_38"></a>
+
+### Article 38 — Access for third-country CCPs and trading venues
+
+**1.** A trading venue established in a third country may request access to a CCP established in the Union only if the Commission has adopted a decision in accordance with Article 28(4) relating to that third country.
+
+A CCP established in a third country may request access to a trading venue in the Union subject to that CCP being recognised pursuant to Article 25 of Regulation (EU) No 648/2012.
+
+CCPs and trading venues established in third countries shall be permitted to make use of the access rights referred to in Articles 35 and 36 only with regard to financial instruments covered by those Articles and provided that the Commission has adopted a decision in accordance with paragraph 3 of this Article, determining that the legal and supervisory framework of the third country is considered to provide for an effective equivalent system for permitting CCPs and trading venues authorised under foreign regimes access to CCPs and trading venues established in that third country.
+
+**2.** CCPs and trading venues established in third countries may only request a licence and the access rights in accordance with Article 37 provided that the Commission has adopted a decision in accordance with paragraph 3 of this Article that the legal and supervisory framework of that third country is considered to provide for an effective equivalent system under which CCPs and trading venues authorised in foreign jurisdictions are permitted access on a fair reasonable and non-discriminatory basis to:(a) relevant price and data feeds and information of composition, methodology and pricing of benchmarks for the purposes of clearing and trading; and(b) licences,from persons with proprietary rights to benchmarks established in that third country.
+
+**3.** The Commission may, in accordance with the examination procedure referred to in Article 51, adopt decisions determining that the legal and supervisory framework of a third country ensures that a trading venue and CCP authorised in that third country complies with legally binding requirements which are equivalent to the requirements referred to in paragraph 2 of this Article and which are subject to effective supervision and enforcement in that third country.
+
+The legal and supervisory framework of a third country is considered equivalent where that framework fulfils all the following conditions:
+
+(a) trading venues in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+
+(b) it provides for an effective equivalent system for permitting CCPs and trading venues authorised under foreign regimes access to CCPs and trading venues established in that third country;
+
+(c) the legal and supervisory framework of that third country provides for an effective equivalent system under which CCPs and trading venues authorised in foreign jurisdictions are permitted access on a fair reasonable and non discriminatory basis to: (i) relevant price and data feeds and information of composition, methodology and pricing of benchmarks for the purposes of clearing and trading; and (ii) licences,
+
+from persons with proprietary rights to benchmarks established in that third country.
+
+<a id="art_38a"></a>
+
+### Article 38a — Exercise of ESMA’s powers
+
+The powers conferred on ESMA or any official of or other person authorised by ESMA by Articles 38b to 38e shall not be used to require the disclosure of information or documents which are subject to legal privilege.
+
+<a id="art_38b"></a>
+
+### Article 38b — Request for information
+
+**1.** ESMA may by simple request or by decision require the following persons to provide all information to enable ESMA to carry out its duties under this Regulation:(a) an APA, a CTP, an ARM, where they are supervised by ESMA, and an investment firm or a market operator operating a trading venue to operate the data reporting services of an APA, a CTP or an ARM, and the persons that control them or are controlled by them;(b) the managers of the persons referred to in point (a);(c) the auditors and advisors of the persons referred to in point (a);
+
+**2.** Any simple request for information referred to in paragraph 1 shall:(a) refer to this Article as the legal basis of that request;(b) state the purpose of the request;(c) specify the information required;(d) include a time limit within which the information is to be provided;(e) include a statement that there is no obligation on the person from whom the information is requested to provide that information but that in the event of a voluntary reply to the request, the information provided must not be incorrect or misleading;(f) indicate the amount of the fine to be imposed in accordance with Article 38h where the information provided is incorrect or misleading.
+
+**3.** When requiring to supply information under paragraph 1 by decision, ESMA shall:(a) refer to this Article as the legal basis of that request;(b) state the purpose of the request;(c) specify the information required;(d) set a time limit within which the information is to be provided;(e) indicate the periodic penalty payments provided for in Article 38i where the production of the required information is incomplete;(f) indicate the fine provided for in Article 38h, where the answers to questions asked are incorrect or misleading;(g) indicate the right to appeal the decision before ESMA’s Board of Appeal and to have the decision reviewed by the Court of Justice of the European Union (Court of Justice) in accordance with Articles 60 and 61 of Regulation (EU) No 1095/2010.
+
+**4.** The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law or by their statutes shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+
+**5.** ESMA shall, without undue delay, send a copy of the simple request or of its decision to the competent authority of the Member State of the persons referred to in paragraph 1.
+
+<a id="art_38c"></a>
+
+### Article 38c — General investigations
+
+**1.** In order to carry out its duties under this Regulation, ESMA may conduct necessary investigations of persons referred to in Article 38b(1). To that end, the officials and other persons authorised by ESMA shall be empowered to:(a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;(b) take or obtain certified copies of or extracts from such records, data, procedures and other material;(c) summon and ask any person referred to in Article 38b(1) or their representatives or staff for oral or written explanations on facts or documents relating to the subject matter and purpose of the inspection and to record the answers;(d) interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;(e) request records of telephone and data traffic.
+
+**2.** The officials and other persons authorised by ESMA for the purposes of the investigations referred to in paragraph 1 shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the investigation. That authorisation shall also indicate the periodic penalty payments provided for in Article 38i where the production of the required records, data, procedures or any other material, or the answers to questions asked to persons referred to in Article 38b(1) are not provided or are incomplete, and the fines provided for in Article 38h, where the answers to questions asked to persons referred to in Article 38b(1) are incorrect or misleading.
+
+**3.** The persons referred to in Article 38b(1) are required to submit to investigations launched on the basis of a decision of ESMA. The decision shall specify the subject matter and purpose of the investigation, the periodic penalty payments provided for in Article 38i, the legal remedies available under Regulation (EU) No 1095/2010 and the right to have the decision reviewed by the Court of Justice.
+
+**4.** In good time before an investigation referred to in paragraph 1, ESMA shall inform the competent authority of the Member State where the investigation is to be carried out of the investigation and of the identity of the authorised persons. Officials of the competent authority concerned shall, upon the request of ESMA, assist those authorised persons in carrying out their duties. Officials of the competent authority concerned may also attend the investigations upon request.
+
+**5.** If a request for records of telephone or data traffic referred to in point (e) of paragraph 1 requires authorisation from a judicial authority according to applicable national law, such authorisation shall be applied for. Such authorisation may also be applied for as a precautionary measure.
+
+**6.** Where a national judicial authority receives an application for the authorisation of a request for records of telephone or data traffic referred to in point (e) of paragraph 1, that authority shall verify the following:(a) the decision adopted by ESMA referred to in paragraph 3 is authentic;(b) any measures to be taken are proportionate and not arbitrary or excessive.
+
+For the purposes of point (b), the national judicial authority may ask ESMA for detailed explanations, in particular relating to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place and the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity for the investigation or demand that it be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1095/2010.
+
+<a id="art_38d"></a>
+
+### Article 38d — On-site inspections
+
+**1.** In order to carry out its duties under this Regulation, ESMA may conduct all necessary on-site inspections at any business premises of the persons referred to in Article 38b(1).
+
+**2.** The officials and other persons authorised by ESMA to conduct an on-site inspection may enter any business premises of the persons subject to an investigation decision adopted by ESMA and shall have all the powers stipulated in Article 38b(1). They shall also have the power to seal any business premises and books or records for the period of, and to the extent necessary for, the inspection.
+
+**3.** In sufficient time before the inspection, ESMA shall give notice of the inspection to the competent authority of the Member State where the inspection is to be conducted. Where the proper conduct and efficiency of the inspection so require, ESMA, after informing the relevant competent authority, may carry out the on-site inspection without prior notice. Inspections in accordance with this Article shall be conducted provided that the relevant competent authority has confirmed that it does not object to those inspections.
+
+**4.** The officials and other persons authorised by ESMA to conduct an on-site inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the periodic penalty payments provided for in Article 38i where the persons concerned do not submit to the inspection.
+
+**5.** The persons referred to in Article 38b(1) shall submit to on-site inspections ordered by decision of ESMA. The decision shall specify the subject matter and purpose of the inspection, appoint the date on which it is to begin and indicate the periodic penalty payments provided for in Article 38i, the legal remedies available under Regulation (EU) No 1095/2010 as well as the right to have the decision reviewed by the Court of Justice.
+
+**6.** Officials of, as well as those authorised or appointed by, the competent authority of the Member State where the inspection is to be conducted shall, at the request of ESMA, actively assist the officials and other persons authorised by ESMA. Officials of the competent authority of the Member State concerned may also attend the on-site inspections.
+
+**7.** ESMA may also require competent authorities to carry out specific investigatory tasks and on-site inspections as provided for in this Article and in Article 38b(1) on its behalf.
+
+**8.** Where the officials and other accompanying persons authorised by ESMA find that a person opposes an inspection ordered pursuant to this Article, the competent authority of the Member State concerned shall afford them the necessary assistance, requesting, where appropriate, the assistance of the police or of an equivalent enforcement authority, so as to enable them to conduct their on-site inspection.
+
+**9.** If the on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7 requires authorisation by a judicial authority according to national law, such authorisation shall be applied for. Such authorisation may also be applied for as a precautionary measure.
+
+**10.** Where a national judicial authority receives an application for the authorisation of an on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7, that authority shall verify the following:(a) the decision adopted by ESMA referred to in paragraph 5 is authentic;(b) any measures to be taken are proportionate and not arbitrary or excessive.
+
+For the purposes of point (b), the national judicial authority may ask ESMA for detailed explanations, in particular relating to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place and the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity for the investigation or demand that it be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1095/2010.
+
+<a id="art_38e"></a>
+
+### Article 38e — Exchange of information
+
+ESMA and the competent authorities shall, without undue delay, provide each other with the information required for the purposes of carrying out their duties under this Regulation.
+
+<a id="art_38f"></a>
+
+### Article 38f — Professional secrecy
+
+The obligation of professional secrecy referred to in Article 76 of Directive 2014/65/EU shall apply to ESMA and all persons who work or who have worked for ESMA or for any other person to whom ESMA has delegated tasks, including auditors and experts contracted by ESMA.
+
+<a id="art_38g"></a>
+
+### Article 38g — Supervisory measures by ESMA
+
+**1.** ►M8 Where ESMA finds that a person listed in Article 38b(1), point (a), has not complied with any of the requirements laid down in Articles 20 to 22c, or in Title IVa, it shall take one or more of the following actions:** ◄ **(a) adopt a decision requiring the person to bring the infringement to an end;(b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 38h and 38i;(c) issue public notices.
+
+**2.** When taking the actions referred to in paragraph 1, ESMA shall take into account the nature and seriousness of the infringement, having regard to the following criteria:(a) the duration and frequency of the infringement;(b) whether financial crime has been occasioned, facilitated or otherwise attributable to the infringement;(c) whether the infringement has been committed intentionally or negligently;(d) the degree of responsibility of the person responsible for the infringement;(e) the financial strength of the person responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;(f) the impact of the infringement on investors’ interests;(g) the importance of the profits gained, losses avoided by the person responsible for the infringement or the losses for third parties derived from the infringement, insofar as they can be determined;(h) the level of cooperation of the person responsible for the infringement with ESMA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;(i) previous infringements by the person responsible for the infringement;(j) measures taken after the infringement by the person responsible for the infringement to prevent its repetition.
+
+**3.** Without undue delay, ESMA shall notify any action taken pursuant to paragraph 1 to the person responsible for the infringement, and shall communicate it to the competent authorities of the Member States and to the Commission. It shall publicly disclose any such action on its website within 10 working days from the date when it was taken.
+
+The disclosure to the public referred to in the first subparagraph shall include the following:
+
+(a) a statement affirming the right of the person responsible for the infringement to appeal the decision;
+
+(b) where relevant, a statement affirming that an appeal has been lodged and specifying that such an appeal does not have suspensive effect;
+
+(c) a statement asserting that it is possible for ESMA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1095/2010.
+
+<a id="art_38h"></a>
+
+### Article 38h — Fines
+
+**1.** ►M8 Where ESMA, in accordance with Article 38k(5), finds that a person listed in Article 38b(1), point (a), has intentionally or negligently not complied with any of the requirements laid down in Article 22 to 22c, or in Title IVa, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.** ◄ **
+
+An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
+
+**2.** The maximum amount of the fine referred to in paragraph 1 shall be EUR 200 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency.
+
+**3.** When determining the level of a fine pursuant to paragraph 1, ESMA shall take into account the criteria set out in Article 38g(2).
+
+<a id="art_38i"></a>
+
+### Article 38i — Periodic penalty payments
+
+**1.** ESMA shall, by decision, impose periodic penalty payments in order to compel:(a) a person to put an end to an infringement in accordance with a decision taken pursuant to point (a) of Article 38g(1);(b) a person referred to in Article 38b(1):(i) to supply complete information which has been requested by a decision pursuant to Article 38b;(ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 38c;(iii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 38d.
+
+**2.** A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+
+**3.** Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+
+**4.** A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA’s decision. Following the end of the period, ESMA shall review the measure.
+
+<a id="art_38j"></a>
+
+### Article 38j — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+
+**1.** ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 38h and 38i unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the Council (14).
+
+**2.** Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be of an administrative nature.
+
+**3.** Where ESMA decides to impose no fines or penalty payments, it shall inform the European Parliament, the Council, the Commission, and the competent authorities of the Member State concerned accordingly and shall set out the reasons for its decision.
+
+**4.** Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be enforceable.
+
+Enforcement shall be governed by the rules of procedure in force in the Member State in the territory of which it is carried out.
+
+**5.** The amounts of the fines and periodic penalty payments shall be allocated to the general budget of the European Union.
+
+<a id="art_38k"></a>
+
+### Article 38k — Procedural rules for taking supervisory measures and imposing fines
+
+**1.** Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements of the requirements provided for in Title IVa, ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision or the authorisation process of the data reporting services provider concerned and shall perform its functions independently from ESMA.
+
+**2.** The investigation officer referred to in paragraph 1 shall investigate the alleged infringements, taking into account any comments submitted by the persons who are subject to the investigations, and shall submit a complete file with his or her findings to ESMA.
+
+**3.** In order to carry out his or her tasks, the investigation officer may exercise the power to request information in accordance with Article 38b and to conduct investigations and on-site inspections in accordance with Articles 38c and 38d.
+
+**4.** Where carrying out his or her tasks, the investigation officer shall have access to all documents and information gathered by ESMA in its supervisory activities.
+
+**5.** Upon completion of his or her investigation and before submitting the file with his or her findings to ESMA, the investigation officer shall give the persons subject to the investigations the opportunity to be heard on the matters being investigated. The investigation officer shall base his or her findings only on facts on which the persons concerned have had the opportunity to comment.
+
+**6.** The rights of the defence of the persons subject to the investigation shall be fully respected during investigations under this Article.
+
+**7.** When submitting the file with his or her findings to ESMA, the investigation officer shall notify the persons who are subject to the investigation. The persons subject to the investigations shall be entitled to have access to the file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information affecting third parties.
+
+**8.** On the basis of the file containing the investigation officer’s findings and, when requested by the persons subject to the investigation, after having heard those persons in accordance with Article 38l, ESMA shall decide if one or more of the infringements of the requirements provided for in Title IVa have been committed by the persons subject to the investigation and, in such a case, shall take a supervisory measure in accordance with Article 38g.
+
+**9.** The investigation officer shall not participate in ESMA’s deliberations or in any other way intervene in ESMA’s decision-making process.
+
+**10.** The Commission shall adopt delegated acts in accordance with Article 50 by 1 October 2021 to further specify the rules of procedure for the exercise of the power to impose fines or periodic penalty payments, including provisions on the rights of the defence, temporal provisions, and the collection of fines or periodic penalty payments, and the limitation periods for the imposition and enforcement of fines and periodic penalty payments.
+
+**11.** ESMA shall refer matters for criminal prosecution to the relevant national authorities where, in carrying out its duties under this Regulation, it finds that there are serious indications of the possible existence of facts liable to constitute a criminal offence. In addition, ESMA shall refrain from imposing fines or periodic penalty payments where a prior acquittal or conviction arising from identical fact or facts which are substantially the same has already acquired the force of *res judicata* as the result of criminal proceedings under national law.
+
+<a id="art_38l"></a>
+
+### Article 38l — Hearing of the persons concerned
+
+**1.** Before taking any decision pursuant to Articles 38g, 38h and 38i, ESMA shall give the persons subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons subject to the proceedings have had an opportunity to comment.
+
+The first subparagraph shall not apply if urgent action is needed in order to prevent significant and imminent damage to the financial system. In such a case ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+
+**2.** The rights of the defence of the persons subject to investigations shall be fully respected in the proceedings. They shall be entitled to have access to ESMA’s file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA’s internal preparatory documents.
+
+<a id="art_38m"></a>
+
+### Article 38m — Review by the Court of Justice
+
+The Court of Justice shall have unlimited jurisdiction to review decisions whereby ESMA has imposed a fine or a periodic penalty payment. It may annul, reduce or increase the fine or periodic penalty payment imposed.
+
+<a id="art_38n"></a>
+
+### Article 38n — Authorisation and supervisory fees
+
+**1.** ESMA shall charge fees to the data reporting services providers in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3 of this Article. Those fees shall fully cover ESMA’s necessary expenditure relating to the authorisation and supervision of data reporting services providers and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 38o.
+
+**2.** The amount of an individual fee charged to a particular data reporting services provider shall cover all administrative costs incurred by ESMA for the authorisation and supervisory activities relating to that provider. It shall be proportionate to the turnover of the data reporting services provider.
+
+**3.** The Commission shall adopt a delegated act in accordance with Article 50 supplementing this Regulation by 1 October 2021 to specify the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
+
+<a id="art_38o"></a>
+
+### Article 38o — Delegation of tasks by ESMA to competent authorities
+
+**1.** Where necessary for the proper performance of a supervisory task, ESMA may delegate specific supervisory tasks to the competent authority of a Member State in accordance with the guidelines issued by ESMA pursuant to Article 16 of Regulation (EU) No 1095/2010. Such specific supervisory tasks may, in particular, include the power to carry out requests for information in accordance with Article 38b and to conduct investigations and on-site inspections in accordance with Article 38c and Article 38d.
+
+**2.** Prior to delegation of a task, ESMA shall consult the relevant competent authority about:(a) the scope of the task to be delegated;(b) the timetable for the performance of the task; and(c) the transmission of necessary information by and to ESMA.
+
+**3.** In accordance with the delegated act adopted pursuant to Article 38n(3), ESMA shall reimburse a competent authority for costs incurred as a result of carrying out delegated tasks.
+
+**4.** ESMA shall review the decision referred to in paragraph 1 at appropriate intervals. A delegation may be revoked at any time.
+
+**5.** A delegation of tasks shall not affect the responsibility of ESMA nor limit ESMA’s ability to conduct and oversee the delegated activity.
+
+<a id="art_39"></a>
+
+### Article 39 — Market monitoring
+
+**1.** In accordance with Article 9(2) of Regulation (EU) No 1095/2010, ESMA shall monitor the market for financial instruments which are marketed, distributed or sold in the Union.
+
+**2.** In accordance with Article 9(2) of Regulation (EU) No 1093/2010, EBA shall monitor the market for structured deposits which are marketed, distributed or sold in the Union.
+
+**3.** Competent authorities shall monitor the market for financial instruments and structured deposits which are marketed, distributed or sold in or from their Member State.
+
+<a id="art_39a"></a>
+
+### Article 39a — Prohibition of receiving payment for order flow
+
+**1.** Investment firms acting on behalf of retail clients, as defined in Article 4(1), point (11), of Directive 2014/65/EU, or professional clients as referred to in Section II of Annex II to that Directive shall not receive any fee, commission or non-monetary benefit from any third party for executing orders from those clients on a particular execution venue or for forwarding orders of those clients to any third party for their execution on a particular execution venue (‘payment for order flow’).
+
+The first subparagraph shall not apply to rebates or discounts on the transaction fees of execution venues, where permitted under the approved and public tariff structure of a trading venue in the Union or of a third-country trading venue, where they exclusively benefit the client. Such discounts or rebates shall not result in a monetary benefit to the investment firm.
+
+**2.** A Member State in which, before 28 March 2024, investment firms acting on behalf of clients are established which receive a fee, a commission or a non-monetary benefit from any third party for executing orders from those clients on a particular execution venue or for forwarding orders of those clients to any third party for their execution on a particular execution venue, may exempt investment firms under its jurisdiction from the prohibition laid down in paragraph 1 until 30 June 2026 where those investment firms provide investment services to clients domiciled or established in that Member State.
+
+To apply the exemption referred to in the first subparagraph, a Member State which fulfils the condition laid down in the first subparagraph shall notify ESMA by 29 September 2024 to that effect. ESMA shall maintain a list of Member States using that exemption. The list shall be made available to the public and updated regularly.
+
+<a id="art_40"></a>
+
+### Article 40 — ESMA temporary intervention powers
+
+**1.** In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:(a) the marketing, distribution or sale of certain financial instruments or financial instruments with certain specified features; or(b) a type of financial activity or practice.
+
+A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by ESMA.
+
+**2.** ESMA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:(a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system in the Union;(b) regulatory requirements under Union law that are applicable to the relevant financial instrument or activity do not address the threat;(c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+
+Where the conditions set out in the first subparagraph are fulfilled, ESMA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a financial instrument has been marketed, distributed or sold to clients.
+
+**3.** When taking action under this Article, ESMA shall ensure that the action:(a) does not have a detrimental effect on the efficiency of financial markets or on investors that is disproportionate to the benefits of the action;(b) does not create a risk of regulatory arbitrage, and(c) has been taken after consulting the public bodies competent for the oversight, administration and regulation of physical agricultural markets under Regulation (EC) No 1234/2007, where the measure relates to agricultural commodities derivatives.
+
+Where a competent authority or competent authorities have taken a measure under Article 42, ESMA may take any of the measures referred to in paragraph 1 without issuing the opinion provided for in Article 43.
+
+**4.** Before deciding to take any action under this Article, ESMA shall notify competent authorities of the action it proposes.
+
+**5.** ESMA shall publish on its website notice of any decision to take any action under this Article. The notice shall specify details of the prohibition or restriction and specify a time after the publication of the notice from which the measures will take effect. A prohibition or restriction shall only apply to action taken after the measures take effect.
+
+**6.** ESMA shall review a prohibition or restriction imposed under paragraph 1 at appropriate intervals, and at least every six months. Following at least two consecutive renewals and based on proper analysis in order to assess the impact on the consumer, ESMA may decide on the annual renewal of the prohibition or restriction.
+
+**7.** Action adopted by ESMA under this Article shall prevail over any previous action taken by a competent authority.
+
+**8.** The Commission shall adopt delegated acts in accordance with Article 50 specifying criteria and factors to be taken into account by ESMA in determining when there is a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system of the Union referred to in paragraph 2(a).
+
+Those criteria and factors shall include:
+
+(a) the degree of complexity of a financial instrument and the relation to the type of client to whom it is marketed and sold;
+
+(b) the size or the notional value of an issuance of financial instruments;
+
+(c) the degree of innovation of a financial instrument, an activity or a practice;
+
+(d) the leverage a financial instrument or practice provides.
+
+<a id="art_41"></a>
+
+### Article 41 — EBA temporary intervention powers
+
+**1.** In accordance with Article 9(5) of Regulation (EU) No 1093/2010, EBA may where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:(a) the marketing, distribution or sale of certain structured deposits or structured deposits with certain specified features; or(b) a type of financial activity or practice.
+
+A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by EBA.
+
+**2.** EBA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:(a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union;(b) regulatory requirements under Union law that are applicable to the relevant structured deposit or activity do not address the threat;(c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+
+Where the conditions set out in the first subparagraph are fulfilled, EBA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a structured deposit has been marketed, distributed or sold to clients.
+
+**3.** When taking action under this Article, EBA shall ensure that the action:(a) does not have a detrimental effect on the efficiency of financial markets or on investors that is disproportionate to the benefits of the action; and(b) does not create a risk of regulatory arbitrage.
+
+Where a competent authority or competent authorities have taken a measure under Article 42, EBA may take any of the measures referred to in paragraph 1 without issuing the opinion provided for in Article 43.
+
+**4.** Before deciding to take any action under this Article, EBA shall notify competent authorities of the action it proposes.
+
+**5.** EBA shall publish on its website notice of any decision to take any action under this Article. The notice shall specify details of the prohibition or restriction and specify a time after the publication of the notice from which the measures will take effect. A prohibition or restriction shall only apply to action taken after the measures take effect.
+
+**6.** EBA shall review a prohibition or restriction imposed under paragraph 1 at appropriate intervals, and at least every six months. Following at least two consecutive renewals and based on proper analysis in order to assess the impact on the consumer, EBA may decide on the annual renewal of the prohibition or restriction.
+
+**7.** Action adopted by EBA under this Article shall prevail over any previous action taken by a competent authority.
+
+**8.** The Commission shall adopt delegated acts in accordance with Article 50 to specify criteria and factors to be taken into account by EBA in determining when there is a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets and to the stability of the whole or part of the financial system of the Union referred to in paragraph 2(a).
+
+Those criteria and factors shall include:
+
+(a) the degree of complexity of a structured deposit and the relation to the type of client to whom it is marketed and sold;
+
+(b) the size or the notional value of an issuance of structured deposits;
+
+(c) the degree of innovation of a structured deposit, an activity or a practice;
+
+(d) the leverage a structured deposit or practice provides.
+
+<a id="art_42"></a>
+
+### Article 42 — Product intervention by competent authorities
+
+**1.** A competent authority may prohibit or restrict the following in or from that Member State:(a) the marketing, distribution or sale of certain financial instruments or structured deposits or financial instruments or structured deposits with certain specified features; or(b) a type of financial activity or practice.
+
+**2.** A competent authority may take the action referred to in paragraph 1 if it is satisfied on reasonable grounds that:(a) either(i) a financial instrument, structured deposit or activity or practice gives rise to significant investor protection concerns or poses a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of whole or part of the financial system within at least one Member State; or(ii) a derivative has a detrimental effect on the price formation mechanism in the underlying market;(b) existing regulatory requirements under Union law applicable to the financial instrument, structured deposit or activity or practice do not sufficiently address the risks referred to in point (a) and the issue would not be better addressed by improved supervision or enforcement of existing requirements;(c) the action is proportionate taking into account the nature of the risks identified, the level of sophistication of investors or market participants concerned and the likely effect of the action on investors and market participants who may hold, use or benefit from the financial instrument, structured deposit or activity or practice;(d) the competent authority has properly consulted competent authorities in other Member States that may be significantly affected by the action;(e) the action does not have a discriminatory effect on services or activities provided from another Member State; and(f) it has properly consulted public bodies competent for the oversight, administration and regulation of physical agricultural markets under Regulation (EC) No 1234/2007, where a financial instrument or activity or practice poses a serious threat to the orderly functioning and integrity of the physical agricultural market.
+
+Where the conditions set out in the first subparagraph are fulfilled, the competent authority may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a financial instrument or structured deposit has been marketed, distributed or sold to clients.
+
+A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by the competent authority.
+
+**3.** The competent authority shall not impose a prohibition or restriction under this Article unless, not less than one month before the measure is intended to take effect, it has notified all other competent authorities and ESMA in writing or through another medium agreed between the authorities the details of:(a) the financial instrument or activity or practice to which the proposed action relates;(b) the precise nature of the proposed prohibition or restriction and when it is intended to take effect; and(c) the evidence upon which it has based its decision and upon which it is satisfied that each of the conditions in paragraph 2 are met.
+
+**4.** In exceptional cases where the competent authority deems it necessary to take urgent action under this Article in order to prevent detriment arising from the financial instruments, structured deposits, practices or activities referred to in paragraph 1, the competent authority may take action on a provisional basis with no less than 24 hours’ written notice, before the measure is intended to take effect, to all other competent authorities and ESMA or, for structured deposits, EBA, provided that all the criteria in this Article are met and that, in addition, it is clearly established that a one month notification period would not adequately address the specific concern or threat. The competent authority shall not take action on a provisional basis for a period exceeding three months.
+
+**5.** The competent authority shall publish on its website notice of any decision to impose any prohibition or restriction referred to in paragraph 1. The notice shall specify details of the prohibition or restriction, a time after the publication of the notice from which the measures will take effect and the evidence upon which it is satisfied each of the conditions in paragraph 2 are met. The prohibition or restriction shall only apply in relation to actions taken after the publication of the notice.
+
+**6.** The competent authority shall revoke a prohibition or restriction if the conditions in paragraph 2 no longer apply.
+
+**7.** The Commission shall adopt delegated acts in accordance with Article 50 specifying criteria and factors to be taken into account by competent authorities in determining when there is a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the of the financial system within at least one Member State referred to in paragraph 2(a).
+
+Those criteria and factors shall include:
+
+(a) the degree of complexity of a financial instrument or structured deposit and the relation to the type of client to whom it is marketed, distributed and sold;
+
+(b) the degree of innovation of a financial instrument or structured deposit, an activity or a practice;
+
+(c) the leverage a financial instrument or structured deposit or practice provides;
+
+(d) in relation to the orderly functioning and integrity of financial markets or commodity markets, the size or the notional value of an issuance of financial instruments or structured deposits.
+
+<a id="art_43"></a>
+
+### Article 43 — Coordination by ESMA and EBA
+
+**1.** ESMA or, for structured deposits, EBA shall perform a facilitation and coordination role in relation to action taken by competent authorities under Article 42. In particular ESMA or, for structured deposits, EBA shall ensure that action taken by a competent authority is justified and proportionate and that where appropriate a consistent approach is taken by competent authorities.
+
+**2.** After receiving notification under Article 42 of any action that is to be imposed under that Article, ESMA or, for structured deposits, EBA shall adopt an opinion on whether the prohibition or restriction is justified and proportionate. If ESMA or, for structured deposits, EBA considers that the taking of a measure by other competent authorities is necessary to address the risk, it shall state this in its opinion. The opinion shall be published on ESMA’s or, for structured deposits, EBA website.
+
+**3.** Where a competent authority proposes to take, or takes, action contrary to an opinion adopted by ESMA or EBA under paragraph 2 or declines to take action contrary to such an opinion, it shall immediately publish on its website a notice fully explaining its reasons for so doing.
+
+<a id="art_44"></a>
+
+### Article 44 — Coordination of national position management measures and position limits by ESMA
+
+**1.** ESMA shall perform a facilitation and coordination role in relation to measures taken by competent authorities pursuant to Article 69(2)(o) and (p) of Directive 2014/65/EU. In particular, ESMA shall ensure that a consistent approach is taken by competent authorities with regard to when those powers are exercised, the nature and scope of the measures imposed, and the duration and follow-up of any measures.
+
+**2.** After receiving notification of any measure under Article 79(5) of Directive 2014/65/EU, ESMA shall record the measure and the reasons therefor. In relation to measures taken pursuant to Article 69(2)(o) or (p) of Directive 2014/65/EU, it shall maintain and publish on its website a database with summaries of the measures in force including details of the person concerned, the applicable financial instruments, any limits on the size of positions the persons can hold at all times, any exemptions thereto granted in accordance with Article 57 of Directive 2014/65/EU, and the reasons therefor.
+
+<a id="art_45"></a>
+
+### Article 45 — Position management powers of ESMA
+
+**1.** In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA shall, where both conditions in paragraph 2 are satisfied, take one or more of the following measures:(a) request from any person all relevant information regarding the size and purpose of a position or exposure entered into via a derivative;(b) after analysing the information obtained in accordance with point (a), require any such person to reduce the size of or to eliminate the position or exposure in accordance with the delegated act referred to in paragraph 10(b);(c) as a last resort, limit the ability of a person from entering into a commodity derivative.
+
+**2.** ESMA shall take a decision under paragraph 1 only if both of the following conditions are fulfilled:(a) the measures listed in paragraph 1 address a threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union;(b) a competent authority or competent authorities have not taken measures to address the threat or the measures taken do not sufficiently address the threat;
+
+ESMA shall perform its assessment of the fulfilment of the conditions referred to in points (a) and (b) of the first subparagraph of this paragraph in accordance with the criteria and factors provided for in the delegated act referred to in paragraph 10(a) of this Article.
+
+**3.** When taking measures referred to in paragraph 1 ESMA shall ensure that the measure:(a) significantly addresses the threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union or significantly improve the ability of competent authorities to monitor the threat as measured in accordance with the criteria and factors provided for in the delegated act referred to in paragraph 10(a) of this Article;(b) does not create a risk of regulatory arbitrage as measured in accordance with paragraph 10(c) of this Article;(c) does not have any of the following detrimental effects on the efficiency of financial markets that is disproportionate to the benefits of the measure: reducing liquidity in those markets, restraining the conditions for reducing risks directly related to the commercial activity of a non-financial counterparty, or creating uncertainty for market participants.
+
+ESMA shall consult the Agency for the Cooperation of Energy Regulators established under Regulation (EC) No 713/2009 of the European Parliament and of the Council (15) before taking any measures related to wholesale energy products.
+
+ESMA shall consult the public bodies competent for the oversight, administration and regulation of physical agricultural markets under Regulation (EC) No 1234/2007, before taking any measure related to agricultural commodity derivatives.
+
+**4.** Before deciding to undertake or renew any measure referred to in paragraph 1, ESMA shall notify relevant competent authorities of the measure it proposes. In the case of a request under points (a) or (b) of paragraph 1 the notification shall include the identity of the person or persons to whom it was addressed and the details and reasons therefor. In the event of a measure under paragraph 1(c) the notification shall include details of the person concerned, the applicable financial instruments, the relevant quantitative measures such as the maximum size of a position the person in question can enter into, and the reasons therefor.
+
+**5.** The notification shall be made not less than 24 hours before the measure is intended to take effect or to be renewed. In exceptional circumstances, ESMA may make the notification less than 24 hours before the measure is intended to take effect where it is not possible to give 24 hours notice.
+
+**6.** ESMA shall publish on its website notice of any decision to impose or renew any measure referred to in paragraph 1(c). The notice shall include details on the person concerned, the applicable financial instruments, the relevant quantitative measures such as the maximum size of a position the person in question can enter into, and the reasons therefor.
+
+**7.** A measure referred to in paragraph 1(c) shall take effect when the notice is published or at a time specified in the notice that is after its publication and shall only apply to a transaction entered into after the measure takes effect.
+
+**8.** ESMA shall review its measures referred to in paragraph 1(c) at appropriate intervals and at least every three months. If a measure is not renewed after that three month period, it shall automatically expire. Paragraphs 2 to 8 shall also apply to a renewal of measures.
+
+**9.** A measure adopted by ESMA under this Article shall prevail over any previous measure taken by a competent authority under Article 69(2)(o) or (p) of Directive 2014/65/EU.
+
+**10.** The Commission shall adopt in accordance with Article 50 delegated acts to specify criteria and factors to determine:(a) the existence of a threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union as referred to in paragraph 2(a) taking account of the degree to which positions are used to hedge positions in physical commodities or commodity contracts and the degree to which prices in underlying markets are set by reference to the prices of commodity derivatives;(b) the appropriate reduction of a position or exposure entered into via a derivative referred to in paragraph 1(b) of this Article;(c) the situations where a risk of regulatory arbitrage as referred to in paragraph 3(b) of this Article could arise.
+
+Those criteria and factors shall take into account the regulatory technical standards referred to in Article 57(3) of Directive 2014/65/EU and shall differentiate between situations where ESMA takes action because a competent authority has failed to act and those where ESMA addresses an additional risk which the competent authority is not able to sufficiently address pursuant to Article 69(2)(j) or (o) of Directive 2014/65/EU.
+
+<a id="art_46"></a>
+
+### Article 46 — General provisions
+
+**1.** A third-country firm may provide investment services or perform investment activities with or without any ancillary services to eligible counterparties and to professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU established throughout the Union without the establishment of a branch where it is registered in the register of third-country firms kept by ESMA in accordance with Article 47.
+
+**2.** ESMA shall register a third-country firm that has applied for the provision of investment services or performance of activities throughout the Union in accordance with paragraph 1 only where the following conditions are met:(a) the Commission has adopted a decision in accordance with Article 47(1);(b) the firm is authorised in the jurisdiction where its head office is established to provide the investment services or activities to be provided in the Union and it is subject to effective supervision and enforcement ensuring a full compliance with the requirements applicable in that third country;(c) cooperation arrangements have been established pursuant to Article 47(2);▼M2(d) the firm has established the necessary arrangements and procedures to report the information set out in paragraph 6a.▼B
+
+**3.** Where a third-country firm is registered in accordance with this Article, Member States shall not impose any additional requirements on the third-country firm in respect of matters covered by this Regulation or by Directive 2014/65/EU and shall not treat third-country firms more favourably than Union firms.
+
+**4.** The third-country firm referred to in paragraph 1 shall submit its application to ESMA after the adoption by the Commission of the decision referred to in Article 47 determining that the legal and supervisory framework of the third country in which the third-country firm is authorised is equivalent to the requirements described in Article 47(1).
+
+The applicant third-country firm shall provide ESMA with all information necessary for its registration. Within 30 working days of receipt of the application, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant third-country firm is to provide additional information.
+
+The registration decision shall be based on the conditions set out in paragraph 2.
+
+Within 180 working days of the submission of a complete application, ESMA shall inform the applicant third-country firm in writing with a fully reasoned explanation whether the registration has been granted or refused.
+
+Member States may allow third‐country firms to provide investment services to, or to perform investment activities together with ancillary services for, eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in their territories in accordance with national regimes where no Commission decision in accordance with Article 47(1) has been adopted or where such a decision has been adopted but either is no longer in effect or does not cover the services or activities concerned.
+
+**5.** Third-country firms providing services in accordance with this Article shall inform clients established in the Union, before the provision of any investment services, that they are not allowed to provide services to clients other than eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU and that they are not subject to supervision in the Union. They shall indicate the name and the address of the competent authority responsible for supervision in the third country.
+
+The information in the first subparagraph shall be provided in writing and in a prominent way.
+
+Member States shall ensure that where an eligible counterparty or professional client within the meaning of Section I of Annex II to Directive 2014/65/EU established or situated in the Union initiates at its own exclusive initiative the provision of an investment service or activity by a third‐country firm, this Article does not apply to the provision of that service or activity by the third‐country firm to that person, including a relationship specifically related to the provision of that service or activity. Without prejudice to intragroup relationships, where a third‐country firm, including through an entity acting on its behalf or having close links with such third‐country firm or any other person acting on behalf of such entity, solicits clients or potential clients in the Union, it shall not be deemed to be a service provided at the own exclusive initiative of the client. An initiative by such clients shall not entitle the third‐country firm to market new categories of investment products or investment services to that individual.
+
+**6.** Third-country firms providing services or performing activities in accordance with this Article shall, before providing any service or performing any activity in relation to a client established in the Union, offer to submit any disputes relating to those services or activities to the jurisdiction of a court or arbitral tribunal in a Member State.
+
+**6a.** Third‐country firms providing services or performing activities in accordance with this Article shall, on an annual basis, inform ESMA of the following:
+
+(a) the scale and scope of the services and activities carried out by the firms in the Union, including the geographical distribution across Member States;
+
+(b) for firms performing the activity referred to in point (3) of Section A of Annex I to Directive 2014/65/EU, their monthly minimum, average and maximum exposure to EU counterparties;
+
+(c) for firms providing services referred to in point (6) of Section A of Annex I to Directive 2014/65/EU, the total value of financial instruments originating from EU counterparties underwritten or placed on a firm commitment basis over the previous 12 months;
+
+(d) the turnover and the aggregated value of the assets corresponding to the services and activities referred to in point (a);
+
+(e) whether investor protection arrangements have been taken, and a detailed description thereof;
+
+(f) the risk management policy and arrangements applied by the firm to the carrying out of the services and activities referred to in point (a);
+
+(g) the governance arrangements, including key function holders for the activities of the firm in the Union;
+
+(h) any other information necessary to enable ESMA or the competent authorities to carry out their tasks in accordance with this Regulation.
+
+ESMA shall communicate the information received in accordance with this paragraph to the competent authorities of the Member States where a third‐country firm provides investment services or performs investment activities in accordance with this Article.
+
+Where necessary for the accomplishment of the tasks of ESMA or the competent authorities in accordance with this Regulation, ESMA may, including upon the request of the competent authority of the Member States where a third‐country firm provides investment services or performs investment activities in accordance with this Article, ask third‐country firms providing services or performing activities in accordance with this Article to provide any further information in respect of their operations.
+
+**6b.** Where a third‐country firm provides services or performs activities in accordance with this Article, it shall keep, at the disposal of ESMA, the data relating to all orders and all transactions in the Union in financial instruments which they have carried out, whether on own account or on behalf of a client, for a period of five years.
+
+Upon the request of the competent authority of a Member State, where a third‐country firm provides investment services or performs investment activities in accordance with this Article, ESMA shall access the relevant data kept at its disposal in accordance with the first subparagraph and shall make that data available to the requesting competent authority.
+
+**6c.** Where a third‐country firm does not cooperate in an investigation or an on‐site inspection carried out in accordance with Article 47(2), or where it does not comply with a request from ESMA in accordance with paragraph 6a or 6b of this Article in due time and in a proper manner, ESMA may withdraw its registration or temporarily prohibit or restrict its activities in accordance with Article 49.
+
+**7.** ESMA, in consultation with EBA, shall develop draft regulatory technical standards to specify the information that the applicant third-country firm is to provide in the application for registration referred to in paragraph 4 and the information to be reported in accordance with paragraph 6a.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 26 September 2020.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**8.** ESMA shall develop draft implementing technical standards to specify the format in which the application for registration referred to in paragraph 4 is to be submitted and the information referred to in paragraph 6a is to be reported.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 26 September 2020.
+
+Power is conferred on the Commission to supplement this Regulation by adopting the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_47"></a>
+
+### Article 47 — Equivalence decision
+
+**1.** The Commission may adopt a decision in accordance with the examination procedure referred to in Article 51(2) in relation to a third country stating that the legal and supervisory arrangements of that third country ensure all of the following:(a) that firms authorised in that third country comply with legally binding prudential, organisational and business conduct requirements which have equivalent effect to the requirements set out in this Regulation, in Regulation (EU) No 575/2013 and Regulation (EU) 2019/2033 of the European Parliament and of the Council (16), in Directive 2013/36/EU, Directive 2014/65/EU and Directive (EU) 2019/2034 of the European Parliament and of the Council (17), and in the implementing measures adopted under those legislative acts;(b) that firms authorised in that third country are subject to effective supervision and enforcement ensuring compliance with the applicable legally binding prudential, organisational and business conduct requirements; and(c) that the legal framework of that third country provides for an effective equivalent system for the recognition of investment firms authorised under third‐country legal regimes.Where the scale and scope of the services provided and the activities performed by third‐country firms in the Union following the adoption of the decision referred to in the first subparagraph are likely to be of systemic importance for the Union, the legally binding prudential, organisational and business conduct requirements referred to in the first subparagraph may only be considered to have equivalent effect to the requirements set out in the acts referred to in that subparagraph after a detailed and granular assessment. To that end, the Commission shall also assess and take into account the supervisory convergence between the third country concerned and the Union.
+
+**1a.** The Commission is empowered to adopt delegated acts in accordance with Article 50 to supplement this Regulation by further specifying the circumstances under which the scale and scope of the services provided and activities performed by third‐country firms in the Union following the adoption of an equivalence decision referred to in the paragraph 1 are likely to be of systemic importance to the Union.Where the scale and scope of the services provided and activities performed by third‐country firms are likely to be of systemic importance for the Union, the Commission may attach specific operational conditions to equivalence decisions to ensure that ESMA and national competent authorities have the necessary tools to prevent regulatory arbitrage and monitor the activities of third‐country investment firms registered in accordance with Article 46(2) in respect of services provided and activities performed in the Union by ensuring that those firms comply with:(a) requirements which have an equivalent effect to the requirements referred to in Articles 20 and 21;(b) reporting requirements which have an equivalent effect to the requirements referred to in Article 26, where such information cannot be obtained directly and on an ongoing basis through a Memorandum of Understanding with the third‐country competent authority;(c) requirements that have an equivalent effect to the trading obligation referred to in Articles 23 and 28, where applicable.When adopting the decision referred to in paragraph 1 of this Article, the Commission shall take into account whether the third country is identified as a non‐cooperative jurisdiction for tax purposes under the relevant Union policy or as a high‐risk third country pursuant to Article 9(2) of Directive (EU) 2015/849.
+
+**1b.** The prudential, organisational and business conduct framework of a third country may be considered to have equivalent effect where that framework fulfils all of the following conditions:(a) firms providing investment services or performing investment activities in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;(b) firms providing investment services or performing investment activities in that third country are subject to sufficient capital requirements and, in particular, firms providing services or carrying out the activities referred to in point (3) or (6) of Section A of Annex I to Directive 2014/65/EU are subject to comparable capital requirements to those they would apply if they were established in the Union;(c) firms providing investment services or performing investment activities in that third country are subject to appropriate requirements applicable to shareholders and members of their management body;(d) firms providing investment services or performing investment activities are subject to adequate business conduct and organisational requirements;(e) market transparency and integrity is ensured by preventing market abuse in the form of insider dealing and market manipulation.For the purposes of paragraph 1a of this Article, when assessing the equivalence of third-country rules as regards the trading obligation set out in Articles 23 and 28, the Commission shall also assess whether the third country’s legal framework provides for criteria for the designation of trading venues as eligible for compliance with the trading obligation which have a similar effect to those set out under this Regulation or under Directive 2014/65/EU.
+
+**2.** ESMA shall establish cooperation arrangements with the relevant competent authorities of third countries whose legal and supervisory frameworks have been recognised as effectively equivalent in accordance with paragraph 1. Such arrangements shall specify at least:▼M2(a) the mechanism for the exchange of information between ESMA and the competent authorities of third countries concerned, including access to all information regarding the non‐Union firms authorised in third countries that is requested by ESMA, and, where relevant, the arrangements for the onward sharing by ESMA of such information with competent authorities of the Member States;▼B(b) the mechanism for prompt notification to ESMA where a third-country competent authority deems that a third-country firm that it is supervising and ESMA has registered in the register provided for in Article 48 infringes the conditions of its authorisation or other law to which it is obliged to adhere;▼M2(c) the procedures concerning the coordination of supervisory activities including investigations and on‐site inspections which ESMA may carry out, in cooperation with the competent authorities of the Member States where the third‐country firm provides investment services or performs investment activities in accordance with Article 46, where it is necessary for the accomplishment of the tasks of ESMA or the competent authorities in accordance with this Regulation, having duly informed the competent authority of the third country thereof.▼M2(d) the procedures concerning a request for information pursuant to Article 46(6a) and (6b) that ESMA may submit to a third‐country firm registered in accordance with Article 46(2).
+
+**3.** A third-country firm established in a country whose legal and supervisory framework has been recognised to be effectively equivalent in accordance with paragraph 1, and which is authorised in accordance with Article 39 of Directive 2014/65/EU shall be able to provide the services and activities covered under the authorisation to eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in other Member States of the Union without the establishment of new branches. For that purpose, it shall comply with the information requirements for the cross-border provision of services and activities in Article 34 of Directive 2014/65/EU.
+
+The branch shall remain subject to the supervision of the Member State where the branch is established in accordance with Article 39 of Directive 2014/65/EU. However, and without prejudice to the obligations to cooperate laid down in Directive 2014/65/EU, the competent authority of the Member State where the branch is established and the competent authority of the host Member State may establish proportionate cooperation agreements in order to ensure that the branch of the third-country firm providing investment services within the Union delivers the appropriate level of investor protection.
+
+**4.** A third-country firm may no longer use the rights under Article 46(1) where the Commission adopts a decision in accordance with the examination procedure referred to in Article 51(2) withdrawing its decision under paragraph 1 of this Article in relation to that third country.
+
+**5.** ESMA shall monitor the regulatory and supervisory developments, the enforcement practices and other relevant market developments in third countries for which equivalence decisions have been adopted by the Commission pursuant to paragraph 1 in order to verify that the conditions on the basis of which those decisions have been taken are still fulfilled. ESMA shall submit a confidential report on its findings to the Commission on an annual basis. Where considered appropriate by ESMA, ESMA may consult EBA with regard to the report.The report shall also reflect the trends observed on the basis of the data collected under Article 46(6a), in particular as regards firms providing services or performing the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU.
+
+**6.** The Commission shall, on the basis of the report referred to in paragraph 5, submit a report to the European Parliament and to the Council at least on an annual basis. The report shall include a list of the equivalence decisions taken or withdrawn by the Commission in the reporting year, as well as any measures taken by ESMA pursuant to Article 49, and provide the rationale for those decisions and measures.The Commission report shall include information on the monitoring of the regulatory and supervisory developments, the enforcement practices and other relevant market developments in third countries for which equivalence decisions have been adopted. It shall also take stock of how the cross‐border provision of investment services by third‐country firms has evolved in general and in particular as regards the services and activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU. In due course, the report shall also include information concerning ongoing equivalence assessments that the Commission is undertaking in relation to a third country.
+
+<a id="art_48"></a>
+
+### Article 48 — Register
+
+ESMA shall keep a register of the third-country firms allowed to provide investment services or perform investment activities in the Union in accordance with Article 46. The register shall be publicly accessible on the website of ESMA and shall contain information on the services or activities which the third-country firms are permitted to provide or perform and the reference of the competent authority responsible for their supervision in the third country.
+
+<a id="art_49"></a>
+
+### Article 49 — Measures to be taken by ESMA
+
+**1.** ESMA may temporarily prohibit or restrict a third‐country firm from providing investment services or performing investment activities with or without any ancillary services in accordance with Article 46(1) where the third‐country firm has failed to comply with any prohibition or restriction imposed by ESMA or EBA in accordance with Articles 40 and 41 or by a competent authority in accordance with Article 42, has failed to comply with a request from ESMA in accordance with Article 46(6a) and (6b) in due time and a proper manner, or where the third‐country firm does not cooperate with an investigation or an on‐site inspection carried out in accordance with Article 47(2).
+
+**2.** Without prejudice to paragraph 1, ESMA shall withdraw the registration of a third‐country firm in the register established in accordance with Article 48 where ESMA has referred the matter to the competent authority of the third country, and that competent authority has not taken the appropriate measures needed to protect investors or the proper functioning of the markets in the Union, or has failed to demonstrate that the third‐country firm concerned complies with the requirements applicable to it in the third country or with the conditions under which a decision in accordance with Article 47(1) has been adopted, and one of the following applies:(a) ESMA has well‐founded reasons, based on documented evidence, including but not limited to the annual information provided in accordance with Article 46(6a), to believe that, in the provision of investment services and activities in the Union, the third‐country firm is acting in a manner which is clearly prejudicial to the interests of investors or the orderly functioning of markets;(b) ESMA has well‐founded reasons, based on documented evidence, including but not limited to the annual information provided in accordance with Article 46(6a), to believe that, in the provision of investment services and activities in the Union, the third‐country firm has seriously infringed the provisions applicable to it in the third country and on the basis of which the Commission has adopted the Decision in accordance with Article 47(1).
+
+**3.** ESMA shall inform the third‐country competent authority of its intention to take action in accordance with paragraph 1 or 2 in due course.In deciding the appropriate action to take under this Article, ESMA shall take into account the nature and seriousness of the risk posed to investors and the proper functioning of the markets in the Union, having regard to the following criteria:(a) the duration and frequency of the risk arising;(b) whether the risk has revealed serious or systemic weaknesses in the third‐country firm’s procedures;(c) whether financial crime has been occasioned, facilitated or otherwise attributable to the risk;(d) whether the risk has arisen intentionally or negligently.ESMA shall inform the Commission and the third‐country firm concerned of any measure adopted in accordance with paragraph 1 or 2 without delay and shall publish its decision on its website.The Commission shall assess whether the conditions under which a decision in accordance with Article 47(1) was adopted continue to persist in relation to the third country concerned.
+
+<a id="art_50"></a>
+
+### Article 50 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Article 1(9), Article 2(2) and (3), Article 5(10), Article 8a(4), Article 17(3), Article 27(4) and (5), Article 31(4), Article 38k(10), Article 38n(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10), (14b) and (15), shall be conferred on the Commission for an indeterminate period from 2 July 2014.
+
+**3.** The delegation of power referred to in Article 1(9), Article 2(2) and (3), Article 5(10), Article 8a(4), Article 17(3), Article 27(4) and (5), Article 31(4), Article 38k(10), Article 38n(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10), (14b) and (15), may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**5.** A delegated act adopted pursuant to Article 1(9), Article 2(2) or (3), Article 5(10), Article 8a(4), Article 17(3), Article 27(4) or (5), Article 31(4), Article 38k(10), Article 38n(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10) or Article 52(10), (14b) or (15), shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+<a id="art_51"></a>
+
+### Article 51 — Committee procedure
+
+**1.** The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC (18). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_52"></a>
+
+### Article 52 — Reports and review
+
+**1.** By ►M1 3 March 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact in practice of the transparency obligations established pursuant to Articles 3 to 13, in particular on the impact of the volume cap mechanism described in Article 5, including on the cost of trading for eligible counterparties and professional clients and on trading of shares of small and mid-cap companies, and its effectiveness in ensuring that the use of the relevant waivers does not harm price formation and how any appropriate mechanism for imposing sanctions for infringements of the volume cap might operate, and on the application and continued appropriateness of the waivers to pre-trade transparency obligations established pursuant to Article 4(2) and (3) and Article 9(2) to (5).
+
+**2.** The report referred to in paragraph 1 shall include the impact on European equity markets of the use of the waiver under Article 4(1)(a) and (b)(i) and the volume cap mechanism under Article 5, with particular reference to:(a) the level and trend of non-lit order book trading within the Union since the introduction of this Regulation;(b) the impact on the pre-trade transparent quoted spreads;(c) the impact on the depth of liquidity on lit order books;(d) the impact on competition and on investors within the Union;(e) the impact on trading of shares of small and mid-cap companies;(f) developments at international level and discussions with third countries and international organisations.
+
+**3.** If the report concludes that the use of the waiver under Article 4(1)(a) and (b)(i) is harmful to price formation or to trading of shares of small and mid-cap companies, the Commission shall, where appropriate, make proposals, including amendments to this Regulation, regarding the use of those waivers. Such proposals shall include an impact assessment of the proposed amendments, and shall take into account the objectives of this Regulation and the effects on market disruption and competition, and potential impacts on investors in the Union.
+
+**4.** By ►M1 3 March 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the functioning of Article 26, including whether the content and format of transaction reports received and exchanged between competent authorities comprehensively enable to monitor the activities of investment firms in accordance with Article 26(1). The Commission may make any appropriate proposals, including providing for transactions to be reported to a system appointed by ESMA instead of to competent authorities, which allows relevant competent authorities to access all the information reported pursuant to this Article for the purposes of this Regulation and of Directive 2014/65/EU and the detection of insider dealing and market abuse in accordance with Regulation (EU) No 596/2014.
+
+**5.** By ►M1 3 March 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on appropriate solutions to reduce information asymmetries between market participants as well as tools for regulators to better monitor quotation activities on trading venues. That report shall at least assess the feasibility of developing a European best bid and offer system for consolidated quotes to fulfil those objectives.
+
+**6.** By ►M1 3 March 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the progress made in moving trading in standardised OTC derivatives to exchanges or electronic trading platforms pursuant to Articles 25 and 28.
+
+**7.** By ►M1 3 July 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the development in prices for pre-trade and post-trade transparency data from regulated markets, MTFs, OTFs, APAs and CTPs.
+
+**8.** By ►M1 3 July 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council reviewing the interoperability provisions in Article 36 of this Regulation and of Article 8 of Regulation (EU) No 648/2012.
+
+**9.** By ►M1 3 July 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the application of Articles 35 and 36 of this Regulation and of Articles 7 and 8 of Regulation (EU) No 648/2012.
+
+By ►M1 3 July 2022** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the application of Article 37.
+
+**10.** By ►M1 3 July 2020** ◄ **, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact of Article 35 and 36 of this Regulation on newly established and authorised CCPs as referred to in Article 35(5) and trading venues connected to those CCPs by close links and whether the transitional arrangement provided for in Article 35(5) shall be extended, weighing the possible benefits to consumers of improving competition and the degree of choice available to market participants against the possible disproportionate effect of those provisions on newly established and authorised CCPs and the constraints of local market participants in accessing global CCPs and the smooth functioning of the market.
+
+Subject to the conclusions of that report, the Commission may adopt a delegated act in accordance with Article 50 to extend the transitional period in accordance with Article 35(5) by a maximum of 30 months.
+
+**14.** By 30 June 2026, ESMA, in close cooperation with the expert stakeholder group established pursuant to Article 22b(2), shall assess the market demand for the consolidated tape for shares and ETFs, the impact of that consolidated tape on the functioning, attractiveness and international competitiveness of Union markets and firms, and whether the consolidated tape has delivered on its aim to decrease information asymmetries between market participants and to make the Union a more attractive location to invest. ESMA shall report to the Commission on the appropriateness of adding additional features to the consolidated tape, such as the dissemination of the market identifier code for pre-trade data. On the basis of that report, the Commission shall submit, where appropriate, a legislative proposal to the European Parliament and the Council.
+
+**14a.** Three years after the first authorisation of a consolidated tape, the Commission shall, after consulting ESMA and the expert stakeholder group established pursuant to Article 22b(2), submit a report to the European Parliament and to the Council on the following:(a) the asset classes covered by a consolidated tape;(b) the timeliness and the quality of the data transmitted to the CTP;(c) the timeliness of the dissemination, and the quality, of the core market data and regulatory data;(d) the role of core market data and regulatory data in reducing implementation shortfall;(e) the number of users of the consolidated tape per asset class;(f) the effect of core market data and regulatory data on remedying information asymmetries between various capital market participants;(g) the appropriateness of the transmission protocols used for the transmission of data to the CTP;(h) the appropriateness and functioning of the revenue redistribution scheme, in particular as regards data contributors that are small trading venues;(i) the effects of the core market data and regulatory data on investments in SMEs.
+
+**14b.** By 29 March 2025, the Commission shall, in close cooperation with ESMA, assess the possibility of extending the requirements of Article 26 of this Regulation to AIFMs as defined in Article 4(1), point (b), of Directive 2011/61/EU, and management companies, as defined in Article 2(1), point (b), of Directive 2009/65/EC, which provide investment services and activities and which execute transactions in financial instruments. In particular, the Commission shall include in that assessment a cost-benefit analysis and an evaluation of the scope of such extension.
+
+On the basis of that assessment and taking into account the goals of the capital markets union, the Commission is empowered to adopt delegated acts in accordance with Article 50 to amend this Regulation by extending the requirements of Article 26 in accordance with the first subparagraph of this paragraph.
+
+**14c.** By 29 March 2028, ESMA shall submit to the Commission a report assessing the appropriateness of the volume cap set in Article 5(1) and the necessity to remove or to extend it to other trading systems or execution venues which derive their prices from a reference price, taking into account international best practices, the competitiveness of Union financial markets, and the effects of that volume cap on the fair and orderly trading on markets, and on the efficiency of price formation.
+
+**15.** ►M8 The Commission is empowered to adopt delegated acts in accordance with Article 50 to supplement this Regulation, by specifying measures in order to:** ◄ **▼M8(e) ensure that the core market data and regulatory data are provided on a reasonable commercial basis and meet the needs of the users of those data across the Union;▼M8 —————▼M8(g) specify arrangements applicable where the CTP no longer fulfils the selection criteria;(h) specify arrangements under which a CTP may continue to operate a consolidated tape provided that no new entity is authorised through the selection procedure.
+
+<a id="art_53"></a>
+
+### Article 53 — Amendment of Regulation (EU) No 648/2012
+
+Regulation (EU) No 648/2012 is amended as follows:
+
+(1) in Article 5(2), the following subparagraph is added: ‘In the developing of the draft regulatory technical standards under this paragraph ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts as laid down in Article 95 of Directive 2014/65/EU (19).
+
+(2) Article 7 is amended as follows: (a) paragraph 1 is replaced by the following: **‘1.** A CCP that has been authorised to clear OTC derivative contracts shall accept clearing such contracts on a non-discriminatory and transparent basis, including as regards collateral requirements and fees related to access, regardless of the trading venue. This in particular shall ensure that a trading venue has the right to non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of:(a) collateral requirements and netting of economically equivalent contracts, where the inclusion of such contracts in the close-out and other netting procedures of a CCP based on the applicable insolvency law would not endanger the smooth and orderly functioning, the validity or enforceability of such procedures; and(b) cross-margining with correlated contracts cleared by the same CCP under a risk model that complies with Article 41. A CCP may require that a trading venue comply with the operational and technical requirements established by the CCP, including the risk-management requirements.’; (b) the following paragraph is added: **‘6.** The conditions laid down in paragraph 1 regarding non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of collateral requirements and netting of economically equivalent contracts and cross-margining with correlated contracts cleared by the same CCP shall be further specified by the technical standards adopted pursuant to Article 35(6)(e) of Regulation (EU) No 600/2014 (*1).’;
+
+(3) In Article 81(3), the following subparagraph is added: ‘A trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014 (*1) ’.
+
+<a id="art_54"></a>
+
+### Article 54 — Transitional provisions
+
+**1.** Third‐country firms may continue to provide services and activities in Member States, in accordance with national regimes, until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47. Services and activities not covered by such a decision may continue to be provided in accordance with national regime.
+
+**3.** The provisions of the delegated acts adopted pursuant to Regulation (EU) No 600/2014 as applicable before 28 March 2024 shall continue to apply until the date of application of the delegated acts adopted pursuant to Regulation (EU) No 600/2014 as applicable from that date.
+
+<a id="art_54a"></a>
+
+### Article 54a — Transitional measures related to ESMA
+
+**1.** All competences and duties related to the supervisory and enforcement activity in the field of data reporting services providers shall be transferred to ESMA on 1 January 2022, except for competences and duties related to APAs and ARMs subject to derogation referred to in Article 2(3). Those transferred competences and duties shall be taken-up by ESMA on the same date.
+
+**2.** Any files and working documents related to the supervisory and enforcement activity in the field of data reporting services providers, including any ongoing examinations and enforcement actions, or certified copies thereof, shall be taken over by ESMA on the date referred to in paragraph 1.
+
+However, an application for authorisation that has been received by competent authorities before 1 October 2021 shall not be transferred to ESMA, and the decision to register or refuse registration shall be taken by the relevant competent authority.
+
+**3.** The competent authorities referred to in paragraph 1 shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 January 2022. Those competent authorities shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity in the field of data reporting services providers.
+
+**4.** ESMA shall act as the legal successor to the competent authorities referred to in paragraph 1 in any administrative or judicial proceedings that result from supervisory and enforcement activity pursued by those competent authorities in relation to matters that fall under this Regulation.
+
+**5.** Any authorisation of a data reporting services provider granted by a competent authority as defined in point 26 of Article 4(1) of Directive 2014/65/EU shall remain valid after the transfer of competences to ESMA.
+
+<a id="art_54b"></a>
+
+### Article 54b — Relations with auditors
+
+**1.** Any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the Council (20), performing in a data reporting services provider the task described in Article 34 of Directive 2013/34/EU of the European Parliament and of the Council (21) or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:(a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of data reporting services provider;(b) affect the continuous functioning of the data reporting services provider;(c) lead to refusal to certify the accounts or to the expression of reservations.
+
+That person shall also have a duty to report any facts and decisions of which the person becomes aware in the course of carrying out one of the tasks referred to in the first subparagraph in an undertaking having close links with the data reporting services provider within which he or she is carrying out that task.
+
+**2.** The disclosure in good faith to the competent authorities, by persons authorised within the meaning of Directive 2006/43/EC, of any fact or decision referred to in paragraph 1 shall not constitute a breach of any contractual or legal restriction on disclosure of information and shall not involve such persons in liability of any kind.
+
+<a id="art_55"></a>
+
+### Article 55 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall apply from 3 January 2018.
+
+►C1 Notwithstanding the second paragraph, Article 1(8) and (9), Article 2(2), Article 4(6), Article 5(6) and (9),** ◄ ** Article 7(2), Article 9(5), Article 11(4), Article 12(2), Article 13(2), Article 14(7), Article 15(5), Article 17(3), Article 19(2) and (3), Article 20(3), Article 21(5), Article 22(4), Article 23(3), Article 25(3), Article 26(9), Article 27(3), Article 28(4), Article 28(5), Article 29(3), Article 30(2), Article 31(4), Article 32(1), (5) and(6), Article 33(2), Article 35(6), Article 36(6), Article 37(4), Article 38(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 46(7), Article 47(1) and (4), Article 52(10) and (12) and Article 54(1) shall apply immediately following the entry into force of this Regulation.
+
+Notwithstanding the second paragraph, Article 37(1), (2) and (3) shall apply from 3 January 2020.

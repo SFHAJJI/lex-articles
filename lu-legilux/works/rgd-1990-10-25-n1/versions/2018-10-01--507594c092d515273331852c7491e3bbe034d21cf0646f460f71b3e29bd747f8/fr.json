@@ -1,0 +1,186 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 25 octobre 1990 concernant la prestation d'heures de travail supplémentaires par des fonctionnaires ainsi que leur astreinte à domicile.",
+  "valid_from": "2018-10-01",
+  "valid_to": "2022-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1990-10-25-n1/versions/2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8/fr.xml",
+    "sha256": "ce553e15fd403ae6dd03176922418a94580d3d17c40dca6d09d1dba3662666ff",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20181001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_1er/20181001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — ** Champ d’application**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le présent règlement grand-ducal s’applique aux fonctionnaires de l’État énumérés aux rubriques I. - Administration générale, II. - Magistrature, III. - Force publique et VII. - Douanes figurant à l’annexe A de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État",
+      "text_sha256": "f91b70b224d3963b0a967a9cf6cbaeae4a8b0028209d41776c5646e682cf6283",
+      "md_span": {
+        "start": 816,
+        "end": 1120
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_3/20181001",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Conditions et modalités suivant lesquelles le fonctionnaire est tenu d’accomplir des heures supplémentaires**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1291,
+        "end": 1291
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_4/20181001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Conditions et modalités suivant lesquelles le fonctionnaire est tenu d’accomplir des heures supplémentaires**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** Dans les cas d’urgence, la prestation d’heures supplémentaires est, dans tous les cas, soumise à l’autorisation préalable du Ministre du ressort ou son délégué.\n\nLe Ministre des Finances et le Ministre de la Fonction publique en sont informés avec indication des motifs précis et des circonstances particulières ayant nécessité la prestation d’heures supplémentaires dans un délai qui ne peut dépasser un mois consécutivement à l’autorisation du Ministre du ressort.\n\n**2.** Dans les cas de surcroît exceptionnel de travail la prestation d’heures supplémentaires est autorisée pour une période de six mois au maximum par décision du Ministre du ressort sur avis conforme du Ministre des Finances et du Ministre de la Fonction publique.\n\nA cette fin le Ministre du ressort ou son délégué fait parvenir une demande d’avis au Ministre des Finances et au Ministre de la Fonction publique qui en saisit le Centre de gestion du personnel et de l’organisation de l’État.\n\nEn cas de désaccord entre les Ministres concernés, il en est référé au Gouvernement en conseil.\n\nToutefois, pour les fonctionnaires dont les fonctions sont classées aux grades 10 à 18, M1 à M7, A8 à A15 et D11 à D14*bis* de l’annexe A de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, la prestation d’heures supplémentaires est autorisée directement par le Gouvernement en conseil.",
+      "text_sha256": "5fa6ddee164797d418ed38a92a8177678db45f98e60abe4be85fc05ee421d488",
+      "md_span": {
+        "start": 1326,
+        "end": 2727
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_5/20181001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Conditions et modalités suivant lesquelles le fonctionnaire est tenu d’accomplir des heures supplémentaires**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** «Le Centre de gestion du personnel et de l’organisation de l’État» est chargée:\n\n1. d’émettre son avis sur toute demande tendant à autoriser la prestation d’heures supplémentaires prévues à l’article 3 paragraphe 2;\n2. d’examiner la conformité de la demande avec l’intérêt de l’administration publique et les possibilités de l’organisation des heures supplémentaires dans l’administration dont émane la demande;\n3. d’examiner les incidences financières de la prestation des heures supplémentaires.\n\n**2.** L’avis du Ministre des Finances ainsi que celui du Centre de gestion du personnel et de l’organisation de l’État sont transmis au plus tard dans les quinze jours suivant la réception de la demande au Ministre de la Fonction publique qui le soumet incessamment au Ministre du ressort.",
+      "text_sha256": "397ed6d290f689f652624f86bed9b71d96070fbe1d97df97cc4621b95c74912a",
+      "md_span": {
+        "start": 2762,
+        "end": 3558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_6/20181001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Indemnités pour heures de travail supplémentaires et pour astreinte à domicile**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** Les heures de travail supplémentaires sont à rémunérer sur la base du taux horaire, qui équivaut à 1/173 du traitement mensuel brut.\n\nPour les heures de travail supplémentaires prestées le dimanche, il est ajouté un supplément de 40%.\n\nPour les heures de travail supplémentaires prestées un jour férié légal, respectivement un jour férié de rechange, le supplément s’élève à 70%.\n\nSi les heures de travail supplémentaires sont effectuées entre 22 heures du soir et 6 heures du matin, un supplément pour travail de nuit de 20% est ajouté aux taux précités.\n\nSi les heures de travail supplémentaires sont compensées par un repos correspondant, les suppléments sont seuls dus.\n\n**2.** Pour le fonctionnaire qui a accompli sa tâche hebdomadaire et qui doit faire du service supplémentaire le samedi, le supplément est celui dû pour travail de dimanche.",
+      "text_sha256": "b833f0c290392fc1699593a7ece1bfd26ec5a0ba3a411c0dde6672b47bc1e83c",
+      "md_span": {
+        "start": 3699,
+        "end": 4554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_7/20181001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Indemnités pour heures de travail supplémentaires et pour astreinte à domicile**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le fonctionnaire soumis à astreinte à domicile bénéficie d’un congé de compensation d’une heure par permanence. Si pour des raisons de service, une compensation s’avère impossible, il est accordé au fonctionnaire, qu’il se produise une intervention ou non, une indemnité fixée comme suit:\n\n*A) Permanences de nuit*\n\n1. pour les astreintes aux jours ouvrables (à partir de 19.00 heures jusqu’à 7.00 heures): 0,62 euros (n.i. 100);\n2. pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 19.00 heures jusqu’à 7.00 heures): 1,24 euros (n.i. 100);\n\n*B) Permanence de jour*\n\n1. pour les astreintes aux jours ouvrables (à partir de 7.00 heures jusqu’à 19.00 heures): 0,62 euros (n.i. 100);\n2. pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 7.00 heures jusqu’à 19.00 heures): 1,24 euros (n.i. 100);",
+      "text_sha256": "cafc97a29c166f1b16c8c2531005cbdf480de9179e8e195228fe23fe67de9154",
+      "md_span": {
+        "start": 4589,
+        "end": 5506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_9/20181001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions transitoires et exécutoires**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Par dérogation aux articles 6 et 7 ci-dessus, les régimes d’indemnisation plus favorables en vigueur dans les administrations et services de l’État à la date du 1er janvier 1990 restent maintenus aussi longtemps qu’ils ne sont pas dépassés par les dispositions du présent règlement.",
+      "text_sha256": "225bd1815a3de26dba746e9dad43a1306b28eeef7f55ad0eccf43aff74b95ffb",
+      "md_span": {
+        "start": 5609,
+        "end": 5891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1990-10-25-n1:2018-10-01--507594c092d515273331852c7491e3bbe034d21cf0646f460f71b3e29bd747f8#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/art_10/20181001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions transitoires et exécutoires**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui est publié au Mémorial.",
+      "text_sha256": "5f4f85e280f5c4a37d8f4bfe15ed609c1f2b94041364174bc8b9c0d4ef786734",
+      "md_span": {
+        "start": 5928,
+        "end": 6063
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

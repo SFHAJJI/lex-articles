@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2459:2017-12-05--9bbe96f6d6489e3273fb81213b845344db2aad42b1af2e3e5ec797792014e7b4",
+  "language": "en",
+  "title": "Council Implementing Regulation (EU) 2017/2459 of 5 December 2017 amending Implementing Re…",
+  "valid_from": "2017-12-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2459/versions/2017-12-05--9bbe96f6d6489e3273fb81213b845344db2aad42b1af2e3e5ec797792014e7b4/en.xml",
+    "sha256": "b7250ede9cac9666a27a730ad07253452feeda2e0a2119e9d415e0af57c0c463",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2459"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2459:2017-12-05--9bbe96f6d6489e3273fb81213b845344db2aad42b1af2e3e5ec797792014e7b4#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 24b of Implementing Regulation (EU) No 282/2011 is replaced by the following:\n\n‘Article 24b\n\nFor the application of Article 58 of Directive 2006/112/EC, where telecommunications, broadcasting or electronically supplied services are supplied to a non-taxable person:\n\n| (a) | through his fixed land line, it shall be presumed that the customer is established, has his permanent address or usually resides at the place of installation of the fixed land line; |\n| --- | --- |\n\n| (b) | through mobile networks, it shall be presumed that the place where the customer is established, has his permanent address or usually resides is the country identified by the mobile country code of the SIM card used when receiving those services; |\n| --- | --- |\n\n| (c) | for which the use of a decoder or similar device or a viewing card is needed and a fixed land line is not used, it shall be presumed that the customer is established, has his permanent address or usually resides at the place where that decoder or similar device is located, or if that place is not known, at the place to which the viewing card is sent with a view to being used there; |\n| --- | --- |\n\n| (d) | under circumstances other than those referred to in Article 24a and in points (a), (b) and (c) of this Article, it shall be presumed that the customer is established, has his permanent address or usually resides at the place identified as such by the supplier on the basis of two items of non-contradictory evidence as listed in Article 24f of this Regulation. |\n| --- | --- |\n\nWithout prejudice to point (d) of the first paragraph, for supplies of services falling under that point, where the total value of such supplies, exclusive of VAT, provided by a taxable person from his business establishment or a fixed establishment located in a Member State, does not exceed EUR 100 000, or the equivalent in national currency, in the current and the preceding calendar year, the presumption shall be that the customer is established, has his permanent address or usually resides at the place identified as such by the supplier on the basis of one item of evidence provided by a person involved in the supply of the services other than the supplier or the customer, as listed in points (a) to (e) of Article 24f.\n\nWhere, during a calendar year, the threshold provided in the second paragraph has been exceeded, that paragraph shall not apply as of that time and until such time as the conditions provided in that paragraph are fulfilled again.\n\nThe corresponding value in national currency of the amount shall be calculated by applying the exchange rate published by the European Central Bank on the date of adoption of Council Implementing Regulation (EU) 2017/2459(*1).",
+      "text_sha256": "5fe68f96687e5525d9d9ad6e70f3e513f490c9e217cd2c1772a5f4147a268bb9",
+      "md_span": {
+        "start": 702,
+        "end": 3451
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2017348EN.01003201-E0004",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2459:2017-12-05--9bbe96f6d6489e3273fb81213b845344db2aad42b1af2e3e5ec797792014e7b4#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2019.",
+      "text_sha256": "43377862de9894e3ac54c00877a8e919b9b85cc12475cc895dd3d2e021be9d0b",
+      "md_span": {
+        "start": 3484,
+        "end": 3672
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

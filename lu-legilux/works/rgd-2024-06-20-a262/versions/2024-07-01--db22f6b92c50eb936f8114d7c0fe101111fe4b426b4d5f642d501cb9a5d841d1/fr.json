@@ -1,0 +1,119 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2024-06-20-a262:2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 01/07/2024 : Règlement grand-ducal du 20 juin 2024 portant modification :\\n1° du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\\n2° du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\\n3° du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.\\n",
+  "valid_from": "2024-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2024-06-20-a262/versions/2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1/fr.xml",
+    "sha256": "cd66c15c72d90c65246f9e56bd7390549fe41d9ca2d5034330ab5d82d9f1a590",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/consolide/20240701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2024-06-20-a262:2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/art_1er/20240701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-07-01",
+      "text_md": "L’article 3*bis* du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est remplacé comme suit :« Art. 3*bis.*Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les ressources du titulaire de la carte bleue européenne sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. Le ministre peut tenir compte du nombre de membres que compte la famille du titulaire de la carte bleue européenne. Cette évaluation tient compte des contributions des membres de la famille aux revenus du ménage. ».",
+      "text_sha256": "85a0f5f3de48c980dd472251f4521a14f0ba7e156d75b649d77caa04a833c62b",
+      "md_span": {
+        "start": 1343,
+        "end": 2100
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/09/05/n1/jo",
+          "text": "règlement grand-ducal modifié du 5 septembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2024-06-20-a262:2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/art_2/20240701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-07-01",
+      "text_md": "À la suite de l’article 9 du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, il est inséré un article 9*bis* nouveau, libellé comme suit :« Art. 9*bis*.Le titre de séjour visé à l’article 45-1, paragraphe 1er, de la loi, mentionne les conditions d’accès au marché du travail.Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 3, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par le Grand-Duché de Luxembourg le [date] ». Lorsque la protection internationale dont bénéficie le titulaire de la carte bleue européenne est retirée, une nouvelle carte bleue européenne ne contenant pas l’observation prémentionnée lui est délivrée.Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 4, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par [nom de l’Etat membre] le [date] ».Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 5, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « [Professions non énumérées à l’annexe I] ». ».",
+      "text_sha256": "d5ae14685e8ee9aedcc12f76f5a45b70e7f64a3f68931bdc1d01c8684a1d0034",
+      "md_span": {
+        "start": 2135,
+        "end": 3664
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/09/05/n6/jo",
+          "text": "règlement grand-ducal modifié du 5 septembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2024-06-20-a262:2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/art_3/20240701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-07-01",
+      "text_md": "L’article 1er du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est modifié comme suit :\n\n1. er et demie\n2. Les alinéas 2, 3 et 4 sont supprimés.\n3. aux alinéas qui précèdent er Mémorial Journal officiel du Grand-Duché de Luxembourg",
+      "text_sha256": "833ea0845e868c91d2379a06d892ca4eee7c11f69939ddbfc2808e263a3f799e",
+      "md_span": {
+        "start": 3699,
+        "end": 4115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/09/26/n3/jo",
+          "text": "règlement grand-ducal modifié du 26 septembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2024-06-20-a262:2024-07-01--db22f6b92c50eb936f8114d7c0fe101111fe4b426b4d5f642d501cb9a5d841d1#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/art_4/20240701",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-07-01",
+      "text_md": "Le ministre ayant l’Immigration dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "908ef2a83b07e153f49af8d47d68ec59d9ce53bfeeadb50133147f7dc29e119d",
+      "md_span": {
+        "start": 4150,
+        "end": 4316
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

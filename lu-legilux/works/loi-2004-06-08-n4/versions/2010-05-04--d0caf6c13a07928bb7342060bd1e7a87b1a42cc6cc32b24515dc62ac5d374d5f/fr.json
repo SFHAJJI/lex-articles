@@ -1,0 +1,1848 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/08/2026 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.",
+  "valid_from": "2010-05-04",
+  "valid_to": "2024-07-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2004-06-08-n4/versions/2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f/fr.xml",
+    "sha256": "e3a1e698727ddd6b79df00990619a0ec77923fa44fb1988fc9af847490b609ec",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20100504/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’objet de la loi"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente loi vise à assurer la liberté d’expression dans le domaine des médias.",
+      "text_sha256": "795586e84d2719765815fd7da629e4bc7a98418582bfb173d1ac1afac5acefad",
+      "md_span": {
+        "start": 709,
+        "end": 791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’objet de la loi"
+      ],
+      "article_valid_from": null,
+      "text_md": "Conformément à l’article 10 de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, signée à Rome, le 4 novembre 1950 et approuvée par la loi du 29 août 1953, toute restriction ou ingérence en la matière doit être prévue par la loi, poursuivre un but légitime et être nécessaire dans une société démocratique, c’est-à-dire répondre à un besoin social impérieux et être proportionnée au but légitime poursuivi.",
+      "text_sha256": "478051477a82af94fc9e6fef33dc5132ad65527148d8339d1d2c23718fda9170",
+      "md_span": {
+        "start": 826,
+        "end": 1263
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1953/08/29/n1/jo",
+          "text": "loi du 29 août 1953"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des définitions"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente loi, on entend par:\n\n1. collaborateur: toute personne, «journaliste professionnel» ou non qui, auprès ou pour le compte d’un éditeur, participe à la collecte, l’analyse, le commentaire et le traitement rédactionnel d’informations;\n2. loi modifiée du 14 août 2000\n3. éditeur: toute personne physique ou morale qui, à titre d’activité principale ou régulière, conçoit et structure une publication, en assume la direction éditoriale, décide de la mettre à la disposition du public en général ou de catégories de publics par la voie d’un média et ordonne à cette fin sa reproduction ou multiplication;\n4. information: tout exposé de faits, toute opinion ou idée exprimés sous quelque forme que ce soit;\n5. information identifiant une source: toute information qui est susceptible de conduire à l’identification d’une source d’un «journaliste professionnel», et notamment les noms et données personnelles, ainsi que la voix et l’image d’une source, les circonstances concrètes de l’obtention des informations recueillies par le «journaliste professionnel» auprès d’une source, la partie non publiée de l’information recueillie par le «journaliste professionnel» et les notes ou documents personnels du «journaliste professionnel» liés à son activité professionnelle;\n6. Loi du 11 avril 2010 «journaliste professionnel: toute personne qui exerce à titre régulier une activité dont elle tire son revenu professionnel principal, que ce soit en tant que salarié ou en tant qu’indépendant, auprès ou pour le compte d’un éditeur et qui consiste dans la collecte, l’analyse, le commentaire et le traitement rédactionnel d’informations, à condition que cette personne remplisse les conditions suivantes: 1. avoir la qualité de journaliste au sens de la présente loi,\n2. avoir l’âge de la majorité,\n3. Code pénal\n4. n’exercer aucun commerce ni activité ayant pour objet la publicité.»\n7. ligne éditoriale: ensemble des principes généraux du traitement de l’information dans le domaine culturel, économique, idéologique, moral, politique et social déterminé par l’éditeur;\n8. média: tout moyen technique, corporel ou incorporel, utilisé en vue d’une publication;\n9. publication: ensemble d’informations mis à la disposition du public ou de catégories de personnes par un éditeur moyennant recours à un média;\n10. publication corporelle: une publication réalisée sous forme d’un support corporel de quelque nature qu’il soit;\n11. publication périodique: une publication réalisée dans une forme comparable et à des intervalles réguliers ou irréguliers, au courant d’une année civile;\n12. source: toute personne qui fournit des informations à un «journaliste professionnel».",
+      "text_sha256": "4f605acd577d3c2e1f916341a5436cb0a0a9afb7a91bc4af5e4018583facbf2c",
+      "md_span": {
+        "start": 1333,
+        "end": 4013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des droits des «journalistes professionnels» dans le cadre de leurs relations avec les éditeurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "Tout «journaliste professionnel» a le droit de refuser la communication au public d’une information sous sa signature, lorsque des modifications substantielles y ont été apportées sans son consentement.\n\nNe constitue pas un motif réel et sérieux de licenciement au sens de la loi du 24 avril 1989 sur le contrat de travail, telle que modifiée et ne justifie pas une sanction de quelque nature qu’elle soit le fait pour un «journaliste professionnel» d’avoir opposé un refus dans les conditions précitées.",
+      "text_sha256": "1d742242105c212fc10f08398d724681f0f6b47df55eb6f8e27c35beac3b90f1",
+      "md_span": {
+        "start": 4164,
+        "end": 4668
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/05/24/n1/jo",
+          "text": "loi du 24 avril 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des droits des «journalistes professionnels» dans le cadre de leurs relations avec les éditeurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "En cas de changement fondamental de la ligne éditoriale, le «journaliste professionnel» dont la conviction ou conscience personnelle est incompatible avec la nouvelle ligne éditoriale peut rompre le contrat de travail qui le lie à l’éditeur, sans être tenu le cas échéant au préavis. Cette rupture du contrat de travail ne saurait être opposée au «journaliste professionnel» pour le priver du bénéfice des indemnités de chômage complet par application de l’article 14, paragraphe 1er, lettre a) de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour l’emploi, 2. réglementation de l’octroi des indemnités de chômage complet.",
+      "text_sha256": "0be60f01c2ef54e6ef12328e781a7854d23d93d0aa51efdfbccd64ec37adc8d2",
+      "md_span": {
+        "start": 4703,
+        "end": 5343
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/06/30/n1/jo",
+          "text": "loi modifiée du 30 juin 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Des droits inhérents à la liberté d’expression",
+        "Section 1. — Du droit de rechercher et de commenter les informations"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** La liberté d’expression visée à l’article 1er de la présente loi comprend le droit de recevoir et de rechercher des informations, de décider de les communiquer au public dans la forme et suivant les modalités librement choisies, ainsi que de les commenter et de les critiquer.\n\n**(2)** La distinction entre la présentation d’un fait et le commentaire y relatif doit être perceptible pour le public.",
+      "text_sha256": "79c94fbd5514e9947e8164447f5ab6e76cd489583219783b94e2fcd13ac69924",
+      "md_span": {
+        "start": 5518,
+        "end": 5924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Des droits inhérents à la liberté d’expression",
+        "Section 2. — De la protection des sources"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Tout «journaliste professionnel» entendu comme témoin par une autorité administrative ou judiciaire dans le cadre d’une procédure administrative ou judiciaire a le droit de refuser de divulguer des informations identifiant une source, ainsi que le contenu des informations qu’il a obtenues ou collectées.\n\n**(2)** En outre, l’éditeur ainsi que toute personne ayant pris connaissance d’une information identifiant une source à travers la collecte, le traitement éditorial ou la diffusion de cette information dans le cadre de leurs relations professionnelles avec un «journaliste professionnel», peuvent se prévaloir du droit consacré par le paragraphe (1) du présent article\n\n**(3)** Les autorités de police, de justice ou administratives doivent s’abstenir d’ordonner ou de prendre des mesures qui auraient pour objet ou effet de contourner ce droit, notamment en procédant ou en faisant procéder à des perquisitions ou saisies sur le lieu de travail ou au domicile du «journaliste professionnel» concerné ou des personnes visées au paragraphe (2) du présent article.\n\n**(4)** Si des informations identifiant une source ont été obtenues de manière régulière à travers l’une des actions visées au paragraphe (3) du présent article qui n’avait pas pour objet ou pour but de découvrir l’identité d’une source, ces informations ne peuvent pas être utilisées comme preuve dans le cadre d’une action ultérieure en justice, sauf dans le cas où la divulgation de celles-ci serait justifiée en application de l’article 8 de la présente loi.",
+      "text_sha256": "b81fe798b3daba09781b0af71b46fed184564c647904faabb853d8d9d711ce30",
+      "md_span": {
+        "start": 6006,
+        "end": 7546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Des droits inhérents à la liberté d’expression",
+        "Section 2. — De la protection des sources"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, par dérogation à l’article précédent, lorsque l’action des autorités de police, de justice ou administratives concerne la prévention, la poursuite ou la répression de crimes contre les personnes, de trafic de stupéfiants, de blanchiment d’argent, de terrorisme ou d’atteintes à la sûreté de l’Etat, ni le «journaliste professionnel» ni les personnes visées au paragraphe (2) de l’article 7 ne peuvent se prévaloir du droit prévu au paragraphe (1) de l’article 7 et les mesures prévues au paragraphe (3) de l’article 7 peuvent être ordonnées.",
+      "text_sha256": "a5e45ae7c39a3082b87002757f489e54271250c92f6ce492bb60265b6c78e65a",
+      "md_span": {
+        "start": 7581,
+        "end": 8133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Des droits inhérents à la liberté d’expression",
+        "Section 3. — Du droit d’auteur"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les œuvres journalistiques sont protégées par le droit d’auteur au même titre que les œuvres littéraires et artistiques.\n\nLa qualité d’auteur, ainsi que les droits de l’auteur sur l’œuvre journalistique, sont régis par la législation concernant les droits d’auteur, les droits voisins et les bases de données.",
+      "text_sha256": "b660225c2ec62bf03ca194bd25c3fa0f721db5ec1b093f6db6578508d8c8b604",
+      "md_span": {
+        "start": 8204,
+        "end": 8513
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 1. — Du devoir d’exactitude et de véracité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le collaborateur a un devoir d’exactitude et de véracité par rapport aux faits communiqués.\n\nIl a l’obligation de les vérifier préalablement eu égard à leur véracité, leur contenu et leur origine, dans la mesure raisonnable de ses moyens et compte tenu des circonstances de l’espèce.",
+      "text_sha256": "728e6b35ed2d7170e79d8044149c94dab6b743eae8348dc6ee70bbdee9a208ed",
+      "md_span": {
+        "start": 8673,
+        "end": 8956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 1. — Du devoir d’exactitude et de véracité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute présentation inexacte d’un fait contenue dans une publication doit être rectifiée spontanément dès que l’inexactitude relative à la présentation du fait concerné est établie ou dès que le collaborateur concerné ou l’éditeur en ont eu connaissance.\n\nL’éditeur de la publication dans laquelle le fait inexact a été communiqué est tenu de diffuser la rectification, sans préjudice de la réparation du dommage subi.",
+      "text_sha256": "c897943ebfbc25f24fd1ad297d68d248d0a96f294ac4859928ced7a6c27b6148",
+      "md_span": {
+        "start": 8993,
+        "end": 9410
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 2. — De la présomption d’innocence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Chacun a droit au respect de la présomption d’innocence.\n\n**(2)** Lorsque, en dehors des cas prévus à l’article 13, une personne est, avant toute condamnation définitive, présentée publiquement comme coupable de faits faisant l’objet d’une enquête ou d’une instruction judiciaire, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à la présomption d’innocence, et ce aux frais de la personne responsable de cette atteinte.",
+      "text_sha256": "b5eba35f5c2ee9f3a612b2bb10195af355cc43d0deb3fc5a0cb40108dd0928bd",
+      "md_span": {
+        "start": 9495,
+        "end": 10170
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 2. — De la présomption d’innocence"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, la communication au public d’une publication contenant une information présentant une personne comme coupable de faits faisant l’objet d’une enquête ou d’une instruction n’engage pas la responsabilité de la personne responsable au sens de l’article 21:\n\n1. lorsqu’elle est faite avec l’autorisation de la personne concernée;\n2. lorsqu’elle est faite à la demande des autorités judiciaires pour les besoins ou dans le cadre d’une enquête ou instruction judiciaire;\n3. 1. que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la présomption d’innocence, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée;\n4. 1. que la citation soit clairement identifiée comme telle, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée, et\n3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.",
+      "text_sha256": "5b7934c515f1b7319658dcb01107b0ac38aaa247b933d02263683fa80e47b54e",
+      "md_span": {
+        "start": 10207,
+        "end": 11242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 3. — De la protection de la vie privée"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Chacun a droit au respect de sa vie privée.\n\n**(2)** Lorsque, en dehors des cas prévus à l’article 15 de la présente loi, une information relative à la vie privée d’une personne est communiquée au public, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à la vie privée, et ce aux frais de la personne responsable de cette atteinte.",
+      "text_sha256": "714ee885ec663793106493790d2b6b4bb512f7e0be23a3f98c3ea1e91155eae5",
+      "md_span": {
+        "start": 11331,
+        "end": 11917
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 3. — De la protection de la vie privée"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, la communication au public d’une publication contenant une information en rapport avec la vie privée d’une personne n’engage pas la responsabilité de la personne responsable au sens de l’article 21:\n\n1. lorsqu’elle est faite avec l’autorisation de la personne concernée;\n2. lorsqu’elle est faite à la demande des autorités judiciaires pour les besoins ou dans le cadre d’une enquête ou instruction judiciaire;\n3. lorsqu’elle est en rapport direct avec la vie publique de la personne concernée;\n4. 1. que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la vie privée, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée;\n5. 1. que la citation soit clairement identifiée comme telle, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée, et\n3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.",
+      "text_sha256": "a1baae5fb175cc14c83ad7fc527172f2971c2c0480b846621f407a2aed316b1b",
+      "md_span": {
+        "start": 11954,
+        "end": 13006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 4. — De la protection de la réputation et de l’honneur"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Chacun a droit au respect de son honneur et de sa réputation.\n\n**(2)** Lorsque, en dehors des cas prévus à l’article 17 de la présente loi, une information portant atteinte à l’honneur ou à la réputation d’une personne est communiquée au public, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à l’honneur ou à la réputation, et ce aux frais de la personne responsable de cette atteinte.",
+      "text_sha256": "c170cdbb4203a1001cd17e546831c868c9ff58c5ca01bc1402bb491dae5d0345",
+      "md_span": {
+        "start": 13111,
+        "end": 13752
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 4. — De la protection de la réputation et de l’honneur"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, la communication au public d’une publication contenant une information portant atteinte à la réputation ou à l’honneur d’une personne n’engage pas la responsabilité de la personne responsable au sens de l’article 21:\n\n1. 1. cette preuve est rapportée ou\n2. qu’en l’absence de cette preuve, la personne responsable au sens de l’article 21, sous réserve que toutes les diligences aient été faites afin d’éviter une atteinte à la réputation ou à l’honneur de la personne, prouve par toutes voies de droit qu’elle avait des raisons suffisantes pour conclure à la véracité des faits rapportés ainsi que l’existence d’un intérêt prépondérant du public à connaître l’information litigieuse;\n2. 1. que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la réputation ou à l’honneur de la personne, et\n2. que l’indication de l’identité de celui qui est à l’origine des propos litigieux accompagne l’information communiquée;\n3. 1. que la citation soit clairement identifiée comme telle, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée, et\n3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.",
+      "text_sha256": "561d27e4149cd90adcaa23e6ab9c982ee020dc687a7ebed6fa3115a19f530d22",
+      "md_span": {
+        "start": 13789,
+        "end": 15082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 5. — De la protection des mineurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "Est interdite la communication au public par la voie d’un média d’informations relatives à l’identité ou permettant l’identification:\n\n- d’un mineur ayant quitté ses parents, son tuteur, la personne ou l’institution qui était chargée de sa garde ou à laquelle il était confié;\n- code pénal\n- d’un mineur qui s’est suicidé;\n- d’un mineur victime d’une infraction.",
+      "text_sha256": "f0faea6fb6df6266d95dd9c98258b5eb8b106b067b9d624c599f2ae04388c7bb",
+      "md_span": {
+        "start": 15166,
+        "end": 15528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 5. — De la protection des mineurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, la communication au public d’une publication contenant une information visée à l’article 18 de la présente loi n’engage pas la responsabilité de la personne responsable au sens de l’article 21:\n\n1. lorsqu’elle est réalisée dans l’intérêt du mineur à la demande des personnes qui en ont la garde;\n2. lorsqu’elle est faite à l’initiative des autorités administratives ou judiciaires;\n3. 1. que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la protection d’un mineur, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée;\n4. 1. que la citation soit clairement identifiée comme telle, et\n2. que l’indication de l’identité de l’auteur des propos cités accompagne l’information communiquée, et\n3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.",
+      "text_sha256": "ba53915c5429404071fe909631a8e76b312a5347634526ccbc990f96d78eb4bd",
+      "md_span": {
+        "start": 15565,
+        "end": 16517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des devoirs découlant de la liberté d’expression",
+        "Section 6. — Dispositions communes"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** L’obligation de diligence implique le devoir de procéder, préalablement à la communication au public, à des vérifications conformément à l’article 10 de la présente loi.\n\n**(2)** L’intérêt public prépondérant implique que la valeur de l’information communiquée est telle que sa connaissance est utile pour la formation de l’opinion publique.",
+      "text_sha256": "cb8a17fd301e8690cbce7cdaae5c959d2ea31252cc0352f67dfa2180c1062d13",
+      "md_span": {
+        "start": 16594,
+        "end": 16943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Des personnes responsables"
+      ],
+      "article_valid_from": null,
+      "text_md": "La responsabilité, civile ou pénale, pour toute faute commise par la voie d’un média incombe au collaborateur, s’il est connu, à défaut à l’éditeur et à défaut au diffuseur.",
+      "text_sha256": "08e195141c207404435295057a520ebbb7c986e218b718286ff420cc7c719f95",
+      "md_span": {
+        "start": 17026,
+        "end": 17199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Des personnes responsables"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation aux dispositions de l’art. 66 du Code pénal, et pour tous les cas non spécialement prévus par ce code, seront punis comme complices de tout crime ou délit commis, ceux qui, soit par des discours tenus dans des réunions ou dans des lieux publics, soit par des placards ou affiches exposés au regard du public, soit par des écrits, imprimés ou non, soit par tout autre support de la parole, du son, de l’image ou de l’écrit, vendus, mis en vente, diffusés, distribués, mis à la disposition du public par quelque moyen que ce soit, y compris par voie d’un média ou exposés dans des lieux ou réunions publics, auront provoqué directement à le commettre.\n\nCette disposition sera également applicable lorsque la provocation n’aura été suivie que d’une tentative de crime ou de délit, conformément aux articles 51 à 53 du Code pénal.\n\nDans le cas où la provocation n’aura été suivie d’aucun effet, ou lorsque la tentative du délit auquel elle aura incité n’est pas réprimée par les lois pénales, l’auteur de la provocation sera puni d’une amende de 500 euros à 5.000 euros et d’un emprisonnement de huit jours à un an, ou de l’une de ces peines seulement, sans que toutefois la peine puisse excéder celle du délit même.",
+      "text_sha256": "76d6514a56725e44056bf78a08bf52efb10b640ffcdca4e8ed22bd0ac0d52121",
+      "md_span": {
+        "start": 17236,
+        "end": 18463
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 1. — Des missions"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** *(Loi du 11 avril 2010)*\n\n«Il est institué un Conseil de Presse doté de la personnalité civile. Le Conseil de Presse est compétent en matière d’octroi et de retrait de la carte de journaliste visée à l’article 31.»\n\n**(2)** Le Conseil de Presse est en outre chargé:\n\n1. d’élaborer un code de déontologie ayant pour objet de définir les droits et devoirs des «journalistes professionnels» et des éditeurs «y compris dans le domaine des traitements de données à caractère personnel» et de veiller à sa publication;\n2. de mettre en place une Commission des Plaintes chargée de recevoir et de traiter des plaintes émanant des particuliers et concernant une information contenue dans une publication diffusée par la voie d’un média «y compris des plaintes concernant le respect des droits et libertés des personnes en matière de traitement des données à caractère personnel» sans préjudice des pouvoirs réservés à la Commission nationale pour la protection des données instituée par la législation en vigueur en matière de protection des personnes à l’égard du traitement des données à caractère personnel.\n3. d’étudier toutes les questions relatives à la liberté d’expression dans les médias dont il sera saisi par le Gouvernement ou dont il jugera utile de se saisir lui-même.\n\n**(3)** Le Conseil de Presse peut en outre émettre des recommandations et des directives pour le travail des «journalistes professionnels» et des éditeurs et organiser des cours de formation professionnelle pour les «journalistes professionnels» et les éditeurs.",
+      "text_sha256": "9ea9f88399ff0f5cfdf600b329b075dac2cb2c2f59f80cd4060f9ba01a2c4a88",
+      "md_span": {
+        "start": 18572,
+        "end": 20117
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 2. — De la composition du Conseil de Presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Conseil de Presse est composé d’un nombre minimal de 14 membres, qui représentent par moitié les éditeurs et par moitié les «journalistes professionnels».",
+      "text_sha256": "636cb18861b63c15bcbab1747844f6e9a83ec46749650d130c32aec3f54e44d4",
+      "md_span": {
+        "start": 20211,
+        "end": 20368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 2. — De la composition du Conseil de Presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les membres du Conseil de Presse sont nommés par voie d’arrêté grand-ducal, sur proposition des milieux professionnels respectifs.",
+      "text_sha256": "df9368ce21418912802acc678d062a81ec5dc57f2cc19691109fca0740ce7034",
+      "md_span": {
+        "start": 20405,
+        "end": 20535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 3. — De la présidence"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présidence du Conseil de Presse est assurée alternativement pour une durée de deux ans par un représentant des éditeurs et par un représentant des «journalistes professionnels».\n\nLes modalités d’élection du Président et les conditions d’éligibilité à la présidence sont déterminées par le Conseil de Presse.\n\nLe Conseil de Presse se dote d’un règlement d’ordre intérieur fixant notamment la procédure qui sera suivie devant lui, ainsi que son fonctionnement.\n\nLe Président du Conseil de Presse assure également, pour la durée de son mandat, la présidence de la Commission des Cartes de presse visée à l’article 27 de la présente loi.\n\n*(Loi du 11 avril 2010)*\n\n«Le Conseil de Presse est représenté par son président tant judiciairement qu’extrajudiciairement.»",
+      "text_sha256": "bb77dacd12b9b1c6a16a1dce50f70779a6bab0b9d35d8b6f195042cde86f08d2",
+      "md_span": {
+        "start": 20607,
+        "end": 21370
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 4. — De la Commission des Cartes de presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est créé au sein du Conseil de Presse une Commission des Cartes de presse, chargée d’exécuter la mission spécifiée à l’article 23 (1) de la présente loi.",
+      "text_sha256": "a02defba840815c1652331e4825bb3f63ddab56679048325a2ccea82acd7796c",
+      "md_span": {
+        "start": 21463,
+        "end": 21619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 4. — De la Commission des Cartes de presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "La Commission des Cartes de presse se compose de «six» membres, dont le Président du Conseil de Presse. Le nombre de membres à désigner par les éditeurs et les «journalistes professionnels» est de «deux» ou de «trois», selon que le Président du Conseil de Presse est un représentant des éditeurs ou un représentant des «journalistes professionnels».\n\nLeur mandat d’une durée de deux ans est renouvelable.\n\nLes modalités de désignation et les conditions d’éligibilité sont déterminées par le Conseil de Presse.\n\nLe Conseil de Presse règle la procédure qui sera suivie devant la Commission des Cartes de presse.",
+      "text_sha256": "f1ffa95058491fb11079e1715338086c3429fd066e37181b3671568beff7ef04",
+      "md_span": {
+        "start": 21656,
+        "end": 22265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 4. — De la Commission des Cartes de presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(Loi du 11 avril 2010)*\n\n«Les décisions de la Commission des Cartes de presse sont susceptibles d’un appel devant la Commission d’appel des Cartes de presse.\n\nLa Commission d’appel des Cartes de presse se compose de cinq membres, dont un juriste et deux membres représentent les éditeurs et deux membres représentent les journalistes.\n\nLeur mandat d’une durée de deux ans est renouvelable.\n\nLe membre juriste est nommé par arrêté grand-ducal sur proposition du Conseil de Presse. Il préside la Commission d’appel des Cartes de presse.\n\nLes modalités de désignation et les modalités d’éligibilité des membres à désigner par les éditeurs et les journalistes sont déterminées par le Conseil de Presse.\n\nLe Conseil de Presse règle la procédure qui sera suivie devant la Commission d’appel des Cartes de presse.\n\nL’appel contre la décision de la Commission des Cartes de presse est déclaré au secrétariat du Conseil de Presse dans un délai de quarante jours qui court pour les parties en cause du jour où la décision leur a été notifiée, à la diligence de la Commission des Cartes de presse, par lettre recommandée avec accusé de réception.»",
+      "text_sha256": "c93e4df24c28566b4891a7dd5bae382ed7a59be471adfebe4b7496620bcc3bca",
+      "md_span": {
+        "start": 22302,
+        "end": 23439
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 4. — De la Commission des Cartes de presse"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les modalités relatives à l’établissement des documents et insignes d’identification délivrés par le Conseil de Presse seront déterminées par voie de règlement grand-ducal.",
+      "text_sha256": "ffefba22eab2d2eaf874e0063e6c6128619b06bb222555f3d15b3dd30b6207f4",
+      "md_span": {
+        "start": 23476,
+        "end": 23648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 5. — Des conditions d’octroi de la carte"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(Loi du 11 avril 2010)*\n\n«La carte de journaliste professionnel constitue une attestation de l’exercice du métier de journaliste professionnel et est délivrée à toute personne qui remplit les conditions de l’article 3, point 6.»",
+      "text_sha256": "c64826c4a8cdcb7c0aa66df697e5ea2f3585c2650eb53ded37de5183a0bcf3e5",
+      "md_span": {
+        "start": 23739,
+        "end": 23968
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 6. — De la Commission des Plaintes"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est créé au sein du Conseil de Presse une Commission des Plaintes chargée de l’exécution de la mission prévue à l’article 23 (2) 2.",
+      "text_sha256": "b4c0ac4388ba39495ff43e7d86804968088da87a81eb7335c5c63130a93a9845",
+      "md_span": {
+        "start": 24053,
+        "end": 24187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 6. — De la Commission des Plaintes"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** La Commission se compose de cinq membres dont deux représentent les éditeurs et deux les «journalistes professionnels».\n\n**(2)** Le cinquième membre représentant le public préside la Commission des Plaintes. Il doit assumer cette présidence en toute neutralité et impartialité et ne peut de ce fait exercer aucune activité dans le domaine des publications.\n\nIl doit être juriste et est nommé par voie d’arrêté grand-ducal, sur proposition du Conseil de Presse.\n\n**(3)** Le Président du Conseil de Presse ne peut pas siéger à la Commission des Plaintes.",
+      "text_sha256": "5b51c35032bfc82b8be6ca9521fd854fce75f979a0dfcad72fa3934e210f7a4b",
+      "md_span": {
+        "start": 24224,
+        "end": 24784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 6. — De la Commission des Plaintes"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les modalités de saisine de la Commission des Plaintes, les conditions de recevabilité des plaintes et la procédure qui sera suivie devant elle seront déterminées par le Conseil de Presse, de même que les modalités de désignation de ses membres, à l’exception du représentant du public, et les conditions d’éligibilité.",
+      "text_sha256": "7fd26a7e19b58c5d35a106f11f2a360ee673ea328ee9eeb37c9da62be79fd6a4",
+      "md_span": {
+        "start": 24821,
+        "end": 25140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Du Conseil de Presse",
+        "Section 6. — De la Commission des Plaintes"
+      ],
+      "article_valid_from": null,
+      "text_md": "La Commission des Plaintes peut rejeter ou approuver la plainte. La décision d’approuver une plainte peut être assortie d’une recommandation, à l’adresse de la ou des personnes responsables, d’un blâme public ou non public, à communiquer par l’éditeur d’après les modalités à déterminer par la Commission des Plaintes.",
+      "text_sha256": "94dd1c1e59d328ab20c56d5b6e7c4a269217f74587fffa5769b94d1f69f320e3",
+      "md_span": {
+        "start": 25177,
+        "end": 25495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 1. — Des conditions d’exercice"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice des autres voies de droit, toute personne physique ou morale, toute association de fait ou tout corps constitué, cité nominativement ou implicitement désigné dans une publication périodique, a le droit de requérir la diffusion gratuite d’une réponse.",
+      "text_sha256": "890b4f9c563dd4c2cc220d6cd39657c71a054812631d7a6fe82d07adacf2780d",
+      "md_span": {
+        "start": 25617,
+        "end": 25882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande est adressée par envoi recommandé avec avis de réception à l’éditeur au plus tard le quatre-vingt-dixième jour qui suit la date de la diffusion.",
+      "text_sha256": "9f17493652e6d550790dbe7366f34da1228ba2bdf703da2e48ae01622198ea3a",
+      "md_span": {
+        "start": 25953,
+        "end": 26108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si la personne visée est un mineur, le représentant légal exercera le droit de réponse sans préjudice de l’article 12 de la Convention relative aux Droits de l’Enfant.",
+      "text_sha256": "0868712064d59c46fdcb96380bb112f2a7dba83e6a4c8211764537dcee855ac0",
+      "md_span": {
+        "start": 26145,
+        "end": 26312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si la personne visée est décédée, le droit de réponse appartient à tous les parents en ligne directe ou au conjoint ou, à défaut, aux parents les plus proches. Il n’est exercé qu’une fois et par le plus diligent d’entre eux. Si au jour du décès de la personne visée, le délai prévu à l’article 37 est en cours, les ayants droit ne disposent que de la partie de ce délai restant à courir.",
+      "text_sha256": "717122e0d225763fa46d609b9308b4653d2b29fe88c334d1f51afe9d5d55c365",
+      "md_span": {
+        "start": 26349,
+        "end": 26736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande contient, sous peine de refus de diffusion, l’indication précise des textes, mentions ou citations auxquels se rapporte la réponse, ainsi que le texte de la réponse dont la diffusion est demandée. Elle doit être signée et indiquer l’identité complète du requérant, à savoir ses nom, prénom et domicile s’il s’agit d’une personne physique, sa raison ou dénomination sociale, sa forme juridique, l’adresse de son siège social et la qualité du signataire s’il s’agit d’une personne morale, sa dénomination, son siège et la qualité du signataire s’il s’agit d’une association de fait.",
+      "text_sha256": "f3f4b8db68fba6371916749553c8756f9c79ee4bbc7f0292e6e1a8d1caf2ba22",
+      "md_span": {
+        "start": 26773,
+        "end": 27364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Peut être refusée la diffusion de toute réponse:\n\n1. qui est injurieuse ou contraire aux lois ou aux bonnes mœurs;\n2. qui met un tiers en cause sans nécessité;\n3. qui est rédigée dans une langue autre que celle des propos incriminés;\n4. qui n’a pas de rapport immédiat avec les propos ou les images incriminés.",
+      "text_sha256": "d0931593fb5108eca69b43c6f9b825b2b1dd5f004d0e781fea9752c0945a9971",
+      "md_span": {
+        "start": 27401,
+        "end": 27711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Non compris l’adresse, les salutations, les réquisitions d’usage et la signature, la réponse peut atteindre l’étendue de l’information à laquelle elle se réfère. Elle pourra en toute hypothèse comporter mille lettres d’écriture.",
+      "text_sha256": "1563705ece37da854b81c32af52e790616335df6d869cb9094770dcd76e6017c",
+      "md_span": {
+        "start": 27748,
+        "end": 27976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si la réponse se rapporte à une publication écrite, elle sera insérée en entier dans la partie rédactionnelle sans intercalation, de préférence au même endroit que le texte ayant donné lieu à la demande et dans les caractères du corps de base des textes rédactionnels. Si elle se rapporte à une publication non écrite, la réponse devra être diffusée à l’heure la plus proche de celle où la diffusion des propos ou des images incriminés a eu lieu.\n\nDans tous les cas, elle pourra être assortie d’une réplique ou d’un commentaire qui sera formulé dans la forme décrite ci-dessus et qui ne pourra dépasser un tiers de l’étendue de la réponse.",
+      "text_sha256": "7e3d2a8c624e32ed108fcd8348ec2f36ba29e49be1f09bc636b0ea36163f33df",
+      "md_span": {
+        "start": 28013,
+        "end": 28652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’il s’agit d’une publication paraissant au moins cinq fois par semaine, la réponse doit être diffusée dans le premier numéro ou dans la première livraison du même type ou de la même série réalisés après l’expiration d’un délai de trois jours, non compris les dimanches ou jours fériés, et qui prend cours à compter du jour de la réception de la demande par le destinataire. Lorsqu’il s’agit d’une publication périodique paraissant à intervalles plus longs ou lorsque la première livraison du même type ou de la même série est réalisée à des intervalles plus longs et que la demande a été reçue au moins quinze jours avant la prochaine diffusion, la réponse doit être intégrée dans le premier numéro ou la première livraison du même type ou de la même série à réaliser et à diffuser après la réception de la demande.",
+      "text_sha256": "442d855bd299680ac8a5bbd3fd2da9486c61bd6f1e79f2659838c39a40af64ab",
+      "md_span": {
+        "start": 28689,
+        "end": 29510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "La réponse est lue par la personne qui est désignée par l’éditeur, mais qui ne peut être ni l’auteur de l’information incriminée, ni le requérant ayant exercé le droit de réponse.",
+      "text_sha256": "8e398f37652f6b92cb232e2ee5b2f00531778e707a1482ce738170036a880ae4",
+      "md_span": {
+        "start": 29547,
+        "end": 29726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice d’autres voies de droit, et notamment d’une action en réparation au fond, lorsque la réponse n’a pas été diffusée endéans les délais prévus à l’article 44 de la présente loi ou n’a pas été diffusée conformément à la demande ou lorsque celle-ci est jugée insatisfaisante ou insuffisante, le Président du Tribunal d’arrondissement peut, à la demande du requérant, ordonner la diffusion d’une réponse dans la publication concernée, dans un délai et selon les modalités qu’il détermine.\n\nCette demande doit, sous peine de forclusion, être introduite dans les trois mois à compter de la date à laquelle la réponse aurait dû être diffusée ou à laquelle la réponse jugée insatisfaisante a été diffusée.",
+      "text_sha256": "709a19e1ba66d5dff466c5b2c68eff3c2ced996e28bd7ddb3400072ea90db7a9",
+      "md_span": {
+        "start": 29802,
+        "end": 30512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande est introduite et jugée comme en matière de référés.\n\nLe Président du Tribunal d’arrondissement statue au fond et selon la procédure prévue en matière de référé conformément aux articles 934 à 940 du nouveau code de procédure civile. Toutefois, par dérogation à l’article 939, alinéa 2 du nouveau code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition.",
+      "text_sha256": "bb6b8939b7900d95b0be0f23327e92686cbb54d20619119e0696d43c4182a50a",
+      "md_span": {
+        "start": 30549,
+        "end": 30941
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "nouveau code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’ordonnance du Président du Tribunal d’arrondissement doit être rendue dans les dix jours à partir de la date de l’audience pour laquelle l’assignation à comparaître a été lancée.",
+      "text_sha256": "a91ad61753aab6360e5ebcbce059d4e6f9e23ebea1e4df44b235c14c4e63ffc1",
+      "md_span": {
+        "start": 30978,
+        "end": 31158
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "La décision ordonnant la diffusion de la réponse endéans le délai déterminé peut condamner l’éditeur à payer au requérant une astreinte ne pouvant pas dépasser 1.250 euros par jour de retard à partir de l’expiration du délai fixé.\n\nL’éditeur peut en outre être condamné à diffuser, simultanément avec la réponse, le texte en entier, en partie ou le dispositif de l’ordonnance rendue par le Président du Tribunal d’arrondissement.",
+      "text_sha256": "522689c9e8b87b8d574076578e627f008bab4d6a58438ed0a8fcc58b8d43e28a",
+      "md_span": {
+        "start": 31195,
+        "end": 31624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Du droit de réponse",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’ordonnance rendue par le Président du Tribunal d’arrondissement est susceptible d’appel dans un délai de quinze jours à partir de la signification.\n\nL’acte d’appel contient assignation à jour fixe. L’appel est porté devant la Cour d’appel et il est jugé d’urgence et selon la même procédure qu’en première instance.",
+      "text_sha256": "fa79865594ba54bcb32c693ae330a2c9e6008d2398bf0f9eef2bc5961ce5af7b",
+      "md_span": {
+        "start": 31661,
+        "end": 31978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 1. — Des conditions d’exercice"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice des autres voies de droit, toute personne bénéficiaire d’une décision d’acquittement, de renvoi des fins de la poursuite ou de non-lieu, a le droit de requérir la diffusion gratuite d’une information redressant une mise en cause erronée antérieure.",
+      "text_sha256": "52c0670d5e34c177e68d40c40df84d94a80b3a879463779223eda6d89036e635",
+      "md_span": {
+        "start": 32113,
+        "end": 32376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande est adressée par envoi recommandé avec avis de réception à l’éditeur au plus tard le quatre-vingt-dixième jour qui suit la date à laquelle la décision de non-lieu a acquis force de chose jugée, ou la date à laquelle la décision de renvoi des fins de la poursuite ou d’acquittement a acquis force de chose jugée.",
+      "text_sha256": "87f742c03f30bb41df070566efd3e904d8ca98cb73d2c35fea6f6af95bab187e",
+      "md_span": {
+        "start": 32447,
+        "end": 32769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si la personne visée est un mineur, le représentant légal exercera le droit d’information postérieure sans préjudice de l’article 12 de la Convention relative aux Droits de l’Enfant.",
+      "text_sha256": "13d43d92441cdc71d922d50b83b596034adb01dc97e5fc8b8722218bc387ddc7",
+      "md_span": {
+        "start": 32806,
+        "end": 32988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si la personne visée est décédée après la date où les décisions de non-lieu, de renvoi des fins de la poursuite ou d’acquittement ont acquis force de chose jugée, ce droit appartient à tous les parents en ligne directe ou au conjoint ou, à défaut, aux parents les plus proches. Il n’est exercé qu’une fois et par le plus diligent d’entre eux. Si au jour du décès de la personne visée, le délai prévu à l’article 52 est en cours, les ayants droit ne disposent que de la partie de ce délai restant à courir.",
+      "text_sha256": "be23ea945d5a3f41f8ee6fb74400a6885444c7d1885247f58a01ef8281c28df7",
+      "md_span": {
+        "start": 33025,
+        "end": 33530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "La demande contient, sous peine de refus de diffusion, l’indication précise des propos ou des images contenant l’information sur laquelle porte ce droit. Elle doit être signée et indiquer l’identité complète du requérant, à savoir ses nom, prénom et domicile. A la demande sont joints le texte de l’information postérieure, la décision de non-lieu, de renvoi des fins de la poursuite ou d’acquittement, ainsi qu’une attestation émanant de l’autorité judiciaire compétente et établissant que la décision n’est pas frappée d’un recours et qu’elle est définitive.",
+      "text_sha256": "ccf7e4202cbad19c68ea40f778c5e9f6e83f94c6a6b3ab806e2ad86e0ab57d39",
+      "md_span": {
+        "start": 33567,
+        "end": 34127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le texte de l’information postérieure est formulé dans la même langue que celle de l’information ayant suscité la demande et contient exclusivement les mentions suivantes:\n\n1. le nom de l’éditeur;\n2. la référence à l’information visée à l’article 51 et ouvrant le droit à l’information postérieure;\n3. la décision de non-lieu, de renvoi des fins de la poursuite ou d’acquittement en faveur du requérant;\n4. la date de cette décision;\n5. le fait qu’elle n’est plus susceptible d’opposition, d’appel ou de pourvoi en cassation;\n6. la juridiction qui a rendu cette décision.",
+      "text_sha256": "ad15454f816c2bc71c9c125a178d64d95598a2e603dcfa042c9c9a910122fc05",
+      "md_span": {
+        "start": 34164,
+        "end": 34735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si l’information postérieure se rapporte à une publication écrite, elle sera insérée en entier dans la partie rédactionnelle sans intercalation, de préférence au même endroit que le texte ayant donné lieu à la demande et dans les caractères du corps de base des textes rédactionnels. Si elle se rapporte à une publication périodique non écrite, elle devra être diffusée à l’heure la plus proche de celle où la diffusion des propos ou images visés par la demande d’information a eu lieu.\n\nDans tous les cas, elle pourra être assortie d’une réplique ou d’un commentaire qui sera formulé dans la forme décrite ci-dessus et qui ne pourra dépasser un tiers de l’étendue de la réponse.",
+      "text_sha256": "9bfcfc28a93354ec999d5ab2cb99e0f97b3c22bd2abe7a2cdac2bd9f1e6a957b",
+      "md_span": {
+        "start": 34772,
+        "end": 35451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_58",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’il s’agit d’une publication paraissant au moins cinq fois par semaine, l’information postérieure doit être diffusée dans le premier numéro ou dans la première livraison du même type ou de la même série réalisés après l’expiration d’un délai de trois jours, non compris les dimanches ou jours fériés, et qui prend cours à compter du jour de la réception de la demande par l’éditeur. Lorsqu’il s’agit d’une publication périodique paraissant à intervalles plus longs ou lorsque la première livraison du même type ou de la même série est réalisée à des intervalles plus longs et que la demande a été reçue au moins quinze jours avant la prochaine diffusion, l’information postérieure doit être intégrée dans le premier numéro ou la première livraison du même type ou de la même série à réaliser et à diffuser après la réception de la demande.",
+      "text_sha256": "e8ea751155eedb1fbc0037b34bbc289899a305421e483b0594d1645e8261eab4",
+      "md_span": {
+        "start": 35488,
+        "end": 36333
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_59",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 2. — De la procédure"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’information postérieure est lue par la personne qui est désignée par l’éditeur, mais qui ne peut être ni l’auteur de l’information incriminée, ni le requérant ayant exercé le droit à l’information postérieure.",
+      "text_sha256": "e5ffcbaf143069d71d278ad5b76c4b8448a548e8f7232b1a7465b2c6bff6b10a",
+      "md_span": {
+        "start": 36370,
+        "end": 36581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_60",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Du droit d’information postérieure",
+        "Section 3. — Des voies de recours"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice d’autres voies de droit, et notamment d’une action en réparation au fond, lorsque l’information postérieure n’a pas été diffusée endéans les délais prévus à l’article 58 de la présente loi ou n’a pas été diffusée conformément à la demande ou lorsque, dans le cas d’une information spontanée, celle-ci est jugée insatisfaisante ou insuffisante par le requérant, celui-ci peut exercer les voies de recours prévues aux articles 46 à 50 de la présente loi.\n\nCette demande doit, sous peine de forclusion, être introduite dans les trois mois à compter de la date à laquelle l’information postérieure aurait dû être diffusée ou à laquelle l’information spontanée jugée insatisfaisante a été diffusée.",
+      "text_sha256": "12226ec20c23dc74a16031d71e1df393b062361ae5131c35777c93e89b0ac8e1",
+      "md_span": {
+        "start": 36657,
+        "end": 37365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_61",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "Chapitre X. — Dispositions communes au droit de réponse et au droit d’information postérieure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute personne qui désire exercer le droit de réponse ou le droit d’information postérieure dans le cadre d’une publication périodique relevant de la loi du 27 juillet 1991 sur les médias électroniques telle que modifiée, peut, par envoi recommandé, invoquer auprès du bénéficiaire de la concession ou permission dans le délai de conservation obligatoire de l’enregistrement prévu à l’article 6 de la loi du 27 juillet 1991 précitée, le droit de consulter l’enregistrement de l’élément de programme concerné, afin de juger si elle peut ou veut exercer un droit de réponse ou, le cas échéant, un droit d’information postérieure. Elle devra se voir accorder le droit de consulter gratuitement l’enregistrement sur place ou recevoir gratuitement communication d’une copie de l’enregistrement sur un support approprié dans un délai de sept jours de sa demande. L’enregistrement devra être conservé jusqu’à l’expiration du délai prévu pour introduire auprès de l’éditeur une demande en diffusion d’une réponse ou d’une information postérieure.",
+      "text_sha256": "9a9f06f1a06d5a19cb445cbee2276dc3bd061f9cd00158ac7a645bafa94c000a",
+      "md_span": {
+        "start": 37500,
+        "end": 38538
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_62",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute publication non périodique doit indiquer l’identité et l’adresse de l’auteur ou de l’éditeur, ainsi que le lieu d’impression ou de production et de mise à disposition du public.\n\nSi l’auteur ou l’éditeur est une personne morale, sa dénomination et l’adresse de son siège social doivent être indiquées.\n\nSi l’auteur ou l’éditeur n’a pas la personnalité juridique, l’identité et l’adresse de la ou des personnes qui assume(nt) la fonction d’auteur ou d’éditeur doivent être indiquées.\n\nElle doit en outre indiquer la date de la première mise à disposition du public.",
+      "text_sha256": "43dbe4ae455f32725ed0fc4de5d91a3bb967909d88401d93638e60fb148f42d8",
+      "md_span": {
+        "start": 38621,
+        "end": 39191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_63",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’il s’agit d’une publication périodique, l’identité et l’adresse professionnelle de l’éditeur, l’identité et l’adresse professionnelle des responsables de la rédaction et le lieu de mise à disposition du public ainsi que la date de première mise à disposition du public doivent être indiqués.\n\nSi l’éditeur est une personne morale, sa dénomination, l’adresse de son siège social, ainsi que le nom de son représentant légal doivent être indiqués.\n\nSi l’éditeur n’a pas la personnalité juridique, le nom, le prénom et l’adresse professionnelle de la ou des personnes qui assument la qualité d’éditeur doivent être indiqués.",
+      "text_sha256": "f58b592dd111ca170af617e5a88cb4236b35b92c1e5eb67014e7e6b219d238ec",
+      "md_span": {
+        "start": 39228,
+        "end": 39855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_64",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "La ligne éditoriale d’une publication périodique peut être publiée par l’éditeur.",
+      "text_sha256": "078f514afdef4f428b3c8b8a47ae82392f5ad3bd23ba98b946e1f883cbd7e5ff",
+      "md_span": {
+        "start": 39892,
+        "end": 39973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_65",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les publications périodiques contenant une table des matières doivent indiquer l’endroit où sont publiées les informations précisées aux articles 63, 64, 66 et 67 de la présente loi.",
+      "text_sha256": "d69354fe62bbd24e7e67d9803668cc76b189b02f97c9310efeeeb3230efb771a",
+      "md_span": {
+        "start": 40010,
+        "end": 40192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_66",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute publication éditée par une personne morale indique une fois par an, au premier numéro diffusé ou dans la première livraison réalisée dans l’année:\n\n- l’identité des personnes qui détiennent directement ou indirectement une participation excédant 25 pour cent du capital social de la personne morale;\n- l’identité des personnes composant les organes d’administration et de direction, ainsi que l’identité de la ou des personnes chargées de la direction et de la gestion journalière de la société;\n- en cas de superposition de plusieurs personnes morales, les indications ci-dessus doivent être complétées de façon à ce que le public ait connaissance des nom, prénom, profession et pays de domicile de toutes les personnes physiques contrôlant la personne morale qui édite la publication en question par le biais de ces personnes morales, lorsqu’elles détiennent dans l’une quelconque de ces personnes morales une participation excédant 25 pour cent du capital social, lorsqu’elles font partie des organes d’administration et de direction de l’une de ces personnes morales, ou lorsqu’elles sont chargées de la gestion journalière de l’une de ces personnes morales.",
+      "text_sha256": "37e1d94f798fa1c432f2e21960c8ead398e66e01eef8ab508bef4c25dc5d539b",
+      "md_span": {
+        "start": 40229,
+        "end": 41397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_67",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’une personne à identifier conformément à l’article 66 de la présente loi est encore membre d’un organe d’administration ou de direction d’une personne morale propriétaire d’une autre publication ou éditant une autre publication, ou si elle détient directement ou indirectement dans une autre publication une participation excédant 25 pour cent du capital social, le nom de cette publication, la dénomination sociale de l’éditeur, sa forme juridique, son objet commercial ou social et son siège ou lieu d’établissement doivent également être indiqués.",
+      "text_sha256": "73cf47a726ea0972a1e42203bb02a06bd61d591f7ce9f2c9ab17e462856b1702",
+      "md_span": {
+        "start": 41434,
+        "end": 41991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_68",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont exceptées des formalités prévues aux articles 62 à 67 et 69, les menues impressions que nécessitent les besoins du commerce ou les relations sociales, telles que les formulaires, étiquettes, liste des prix, bulletins de vote et cartes de visite.",
+      "text_sha256": "222bb9b00a21e1b7e9907aa5ecfdbd3a0ee1523ef296e5ba2882234ee3e7b91d",
+      "md_span": {
+        "start": 42028,
+        "end": 42278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_69",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "Chapitre XI. — Du régime des publications"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les publications qui bénéficient d’une concession ou permission accordée sur la base de la loi du 27 juillet 1991 sur les médias électroniques telle que modifiée, sont exemptes des formalités prévues par la présente section.\n\nToutefois, les bénéficiaires d’une telle concession ou permission doivent tenir les informations visées aux articles 62 à 67 de la présente loi, ainsi que la liste de toutes les publications éditées par eux en permanence à la disposition du public.",
+      "text_sha256": "e37880b36f9203d581bddf47a4a5d37f77a9ddcca3f5899968b54c607e370490",
+      "md_span": {
+        "start": 42315,
+        "end": 42789
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_70",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 1. — De la prescription"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’action publique, lorsqu’elle résulte d’une infraction commise par la voie d’un média, ainsi que l’action civile, qu’elle résulte d’une infraction commise par la voie d’un média ou d’un quasi-délit commis par la voie d’un média et qu’elle est exercée soit devant les juridictions répressives en même temps que l’action publique, soit devant les juridictions civiles, se prescrivent chacune après trois mois à partir de la date de première mise à disposition du public.",
+      "text_sha256": "90f4d54853c38ecd78938b7a62f421cb851acb1c4801a6fa532a705f1f8df14d",
+      "md_span": {
+        "start": 42909,
+        "end": 43378
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_71",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 1. — De la prescription"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le délit est censé commis au moment de la première communication incriminée au public ou de la première mise à disposition au public. Dans le cas d’une publication en ligne, la première mise à disposition au public correspond au moment où elle a été rendue accessible au public.",
+      "text_sha256": "30daef1117a33154a2f55b1274cd0b6db2e879d6b7f36bb15fd6a011992af36f",
+      "md_span": {
+        "start": 43415,
+        "end": 43693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_72",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 1. — De la prescription"
+      ],
+      "article_valid_from": null,
+      "text_md": "La date de la première mise à disposition du public est présumée, sauf preuve contraire, être celle indiquée dans la publication.\n\nA défaut d’indication de date, la preuve de la date de première mise à disposition du public incombe à la personne qui invoque la prescription à l’encontre de l’action, pénale ou civile.",
+      "text_sha256": "3989a8ec2f4eda127c571f04755956d8ca12bbcdf6d952647398bbc3f23e3810",
+      "md_span": {
+        "start": 43730,
+        "end": 44047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_73",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 1. — De la prescription"
+      ],
+      "article_valid_from": null,
+      "text_md": "La prescription est interrompue par tout acte d’instruction ou de poursuite. Si l’interruption de la prescription a eu lieu dans le délai imparti, le nouveau délai de prescription sera d’un an.",
+      "text_sha256": "da4a5b23ab6fcaf83bbf09b6775b0ee649c1a33fb884d4dc0349da1c76afa52c",
+      "md_span": {
+        "start": 44084,
+        "end": 44277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_74",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 2. — De la communication au public d’une décision de justice"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute juridiction, pénale ou civile statuant au fond sur base des dispositions de la présente loi peut ordonner, endéans le délai et selon les modalités qu’elle détermine, la communication au public dans la publication concernée de tout ou de partie de la décision qui aura reconnu la culpabilité ou la responsabilité de la personne responsable au sens de l’article 21 de la présente loi.\n\nLa décision qui ordonne cette communication au public peut condamner l’éditeur à payer à la victime une astreinte ne dépassant pas 1.250 euros par jour de retard, conformément aux articles 2059 à 2066 du Code civil.",
+      "text_sha256": "07e629e5da05d9b02085d0798827bebfaf9f4dad8bafc17c274b5b0ae9a3a5d0",
+      "md_span": {
+        "start": 44388,
+        "end": 44993
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_75",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 3. — De la saisie d’une publication"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Dans le cadre d’une procédure pénale ayant pour objet une infraction commise par la voie d’un média, la saisie intégrale ou partielle de toute publication contenant une infraction pénale peut être ordonnée, sans préjudice de l’application des articles 31 et 66 du Code d’instruction criminelle, à condition que la mesure ordonnée ne soit pas disproportionnée au but légitime poursuivi, à savoir la protection des droits de la victime, et que cette protection ne puisse pas être obtenue par une autre mesure telle que la diffusion d’une réponse, d’une information postérieure ou d’une rectification.\n\n**(2)** Dans le cas d’une infraction commise par la voie d’un média, la mesure visée au paragraphe (1) pourra encore être ordonnée dans le cadre d’une instruction contre inconnu, si la personne responsable au sens de l’article 21 de la présente loi n’a pu être identifiée.",
+      "text_sha256": "e41051e052e2220b964015906614ac48f6de7912361367565d3caeed8742a7a1",
+      "md_span": {
+        "start": 45079,
+        "end": 45959
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_76",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "Chapitre XII. — Dispositions de procédure",
+        "Section 3. — De la saisie d’une publication"
+      ],
+      "article_valid_from": null,
+      "text_md": "La saisie ne s’étendra pas aux exemplaires isolés se trouvant entre les mains de personnes qui ne les tiennent pas à la disposition du public.",
+      "text_sha256": "9a17c1000c7f842fa952ed4ad2da76c70ac986841659a7a153c5761ce1b26f9e",
+      "md_span": {
+        "start": 45996,
+        "end": 46138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_77",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(Loi du 11 avril 2010)*\n\n«Quiconque fait état de la qualité de «journaliste professionnel», sans remplir les conditions prévues à l’article 3, point 6, est puni d’une amende de 500.- à 25.000.- euros. En cas de récidive, l’amende est portée au double.»",
+      "text_sha256": "48846886aaf4e467d86f12948aa0ed7badb48c4c96982d2dc4cb16df425b52bf",
+      "md_span": {
+        "start": 46217,
+        "end": 46470
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "Loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_78",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "efed74fede43ec5d0337182f15a3fc65a302aa6b4eda246e57e62521aa97c73b",
+      "md_span": {
+        "start": 46507,
+        "end": 46570
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_79",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "efed74fede43ec5d0337182f15a3fc65a302aa6b4eda246e57e62521aa97c73b",
+      "md_span": {
+        "start": 46607,
+        "end": 46670
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_80",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "efed74fede43ec5d0337182f15a3fc65a302aa6b4eda246e57e62521aa97c73b",
+      "md_span": {
+        "start": 46707,
+        "end": 46770
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_81",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "(...) (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "51df454ab6eae5c4a72fa36109a98dcbdb19c78e40d6475bc3be70d0740faf51",
+      "md_span": {
+        "start": 46807,
+        "end": 46868
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_82",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "(...) (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "51df454ab6eae5c4a72fa36109a98dcbdb19c78e40d6475bc3be70d0740faf51",
+      "md_span": {
+        "start": 46905,
+        "end": 46966
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_83",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "Chapitre XIII. — «Disposition pénale»"
+      ],
+      "article_valid_from": null,
+      "text_md": "*(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)",
+      "text_sha256": "efed74fede43ec5d0337182f15a3fc65a302aa6b4eda246e57e62521aa97c73b",
+      "md_span": {
+        "start": 47003,
+        "end": 47066
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/04/11/n5/jo",
+          "text": "loi du 11 avril 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_84",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "Chapitre XIV. — Des dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "La loi modifiée du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste est abrogée.\n\nL’article 2 de la prédite loi continuera toutefois à servir de fondement juridique aux règlements d’application afférents.",
+      "text_sha256": "0769aa5c6f4c3d40da69de06834480132f8d291ec4958798b4ce6a7af9d5e280",
+      "md_span": {
+        "start": 47153,
+        "end": 47411
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/12/20/n2/jo",
+          "text": "loi modifiée du 20 décembre 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_85",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "Chapitre XV. — Des dispositions abrogatoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "La loi modifiée du 20 juillet 1869 est abrogée.",
+      "text_sha256": "fd169f150e2c251181015459c3d5c7f866cf94e48649e6875064702afe6512df",
+      "md_span": {
+        "start": 47497,
+        "end": 47544
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1869/07/20/n3/jo",
+          "text": "loi modifiée du 20 juillet 1869"
+        }
+      ]
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-2004-06-08-n4:2010-05-04--d0caf6c13a07928bb7342060bd1e7a87b1a42cc6cc32b24515dc62ac5d374d5f#art_86",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "Chapitre XV. — Des dispositions abrogatoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les articles 36 et 37 de la loi modifiée du 27 juillet 1991 sur les médias électroniques sont abrogés.",
+      "text_sha256": "568311eebfda459db72553fdc2b12fb8fb61d86d6cf3b261bca7780d15b59a23",
+      "md_span": {
+        "start": 47581,
+        "end": 47683
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi modifiée du 27 juillet 1991"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

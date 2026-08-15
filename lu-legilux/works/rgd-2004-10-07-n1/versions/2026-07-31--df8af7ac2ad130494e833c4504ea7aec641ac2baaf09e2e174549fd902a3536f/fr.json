@@ -1,0 +1,886 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.",
+  "valid_from": "2026-07-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-10-07-n1/versions/2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f/fr.xml",
+    "sha256": "19fba5472f5dff2c1409763ce2548b38d01d52e3961e908422507d8891f4b7cb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20260731/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_1er/20140202",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**1.** Le président de la Commission médicale est élu à la majorité des voix des membres titulaires de la Commission médicale.\n\nLorsque le poste de président est devenu vacant par suite d’une démission ou d’un décès du membre titulaire, la Commission élira un nouveau président parmi ses membres titulaires, qui terminera le mandat de son prédécesseur.\n\n**2.** La Commission médicale établit un règlement d’ordre intérieur qui détermine notamment les modalités de convocation, de délibération et de vote de la Commission qui sera approuvé par règlement grand-ducal.\n\n**3.** La Commission médicale se réunit aux jour, heure et lieu fixés par le président dans la convocation écrite. Les tâches administratives de la Commission médicale sont exécutées par une cellule administrative au sein du Service des salariés handicapés de l’Administration de l’Emploi.\n\n**4.** Le Président convoque les membres de la Commission médicale. Hormis le cas d’urgence, les convocations sont envoyées et accompagnées des dossiers avec les pièces justificatives tels que définis notamment au point 2 du paragraphe 1 de l’article 5 et au point 2 du paragraphe 1 de l’article 10 ci-après et ce au moins huit jours avant la date prévue pour la réunion de la Commission.\n\nTout membre titulaire de la Commission empêché d’assister à une session doit en aviser son suppléant et lui transmettre le dossier avec les pièces justificatives, dont il a eu communication ensemble avec la convocation.\n\n**5.** Les séances de la Commission ne sont pas publiques.",
+      "text_sha256": "7f1aedd95a1b42f10b1ea14d18d41ff39dd6249bb9f41aba01900fc809f606bb",
+      "md_span": {
+        "start": 968,
+        "end": 2495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_2/20260731",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Pour chaque réunion, les membres de la Commission médicale, le président, les experts ou conseillers techniques et les secrétaires de la Commission médicale présents à la réunion à la demande de la Commission médicale, ont droit à des jetons de présence qui sont fixés comme suit :\n\n|  | Fonctionnaire/Employé de l’État (montant brut) | Salarié/Indépendant (montant net) |\n| --- | --- | --- |\n| Président | 30 euros / présence | 50 euros / heure de présence |\n| Membre | 30 euros / présence | 50 euros / heure de présence |\n| Expert / Conseiller technique | 30 euros / présence | 50 euros / heure de présence |\n| Secrétaire | 30 euros / présence | / |",
+      "text_sha256": "a90291fffbda7fefb291d7306d3ae6195124a96c78b6fe3f4ff65fe94cd8966b",
+      "md_span": {
+        "start": 2530,
+        "end": 3181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_3/20041017",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les membres de la Commission médicale, les membres du secrétariat et les experts sont tenus au secret professionnel.",
+      "text_sha256": "18518311c1b84d920d0e2e8d182c510e65dbc36360eeeda23266c6c514e74a46",
+      "md_span": {
+        "start": 3216,
+        "end": 3332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_4/20260731",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2026-07-31",
+      "text_md": "**1.** Le secrétariat instruit les demandes déposées et informe les requérants des pièces manquantes, ainsi que des pièces supplémentaires éventuelles à verser à la demande de la Commission médicale.\n\n**2.** Le secrétariat est en charge des notifications des décisions de la Commission, des transferts de dossiers à effectuer en conformité avec la loi du 12 septembre 2003 relative aux personnes handicapées, ci-après appelée «loi» et de l’article 9 ci-après, ainsi que de la réception et du dépôt des pièces à effectuer pour le compte de la Commission médicale.\n\n**3.** Le personnel du secrétariat établit un procès-verbal de chaque réunion. Le procès-verbal est signé par le président et par le personnel du secrétariat.",
+      "text_sha256": "0ca213f224c26443f8a9af622bf6ad17196efa55511977c6165df8e97a2f1442",
+      "md_span": {
+        "start": 3367,
+        "end": 4089
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi du 12 septembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_5/20140202",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 2. — Procédure pour la reconnaissance de la qualité de salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**(1)** La demande en reconnaissance de la qualité de salarié handicapé est à introduire par écrit sur un formulaire établi par la Commission médicale et est accompagnée des pièces justificatives suivantes:\n\n1. 1. - une copie du contrat de travail auprès de son employeur actuel dont l'entreprise est légalement établie au Grand-Duché de Luxembourg\n- loi modifiée du 29 août 2008 règlement grand-ducal du 5 septembre 2008\n- un certificat d'affiliation établi par le Centre Commun de la Sécurité sociale\n- toute pièce renseignant sur la qualification professionnelle du requérant telle notamment des certificats d'étude ou de formation, des diplômes, des indications sur les travaux et les fonctions exercées par le requérant auprès de l'employeur\n- une copie de la fiche d'aptitude en cours de validité établie par le médecin du travail compétent.\n2. - un certificat de résidence datant de moins de trois mois délivré par la commune de la résidence du requérant et établissant que le requérant y est domicilié et y réside effectivement\n- loi modifiée du 29 août 2008 même loi\n- un titre de séjour en cours de validité autorisant les ressortissants de pays tiers à exercer une activité salariale et/ou indépendante\n- toute pièce renseignant sur la qualification professionnelle du requérant telle notamment des certificats d’étude ou de formation, des diplômes, des indications sur les travaux et les fonctions exercées par le requérant avant le dépôt de sa demande\n- un engagement écrit du requérant qu’il est disponible pour un emploi\n- un certificat d’affiliation établi par le Centre Commun de la Sécurité sociale.\n2. - un rapport médical récent et détaillé établi par le médecin traitant précisant les causes présumées de la diminution alléguée de la capacité de travail du requérant et comportant le cas échéant des précisions quant à son état de santé et quant à l'évolution prévisible de son état de santé. Le rapport médical peut être complété par un rapport d'un psychologue du travail sur demande de la Commission médicale\n- un bilan médical récent et détaillé établi par le médecin du travail de l'Administration de l'emploi, portant indication de la diminution de la capacité de travail du requérant et se prononçant sur son aptitude à exercer un emploi sur le marché de travail ordinaire ou dans un atelier protégé, au cas où le requérant serait un demandeur d'emploi\n3. d'un certificat de nationalité ou une attestation équivalente,\n4. - er Code civil\n\n**(2)** La Commission médicale peut se faire communiquer par le requérant ou par un expert toute pièce qu’elle juge utile ou indispensable pour se prononcer sur la reconnaissance de la qualité de salarié handicapé du requérant.\n\nElle peut demander par l’intermédiaire du médecin inspecteur de la division de la santé au travail du ministre ayant la Santé dans ses attributions tous les documents médicaux nécessaires au médecin de travail compétent en vue de se prononcer sur les critères médicaux libellés au paragraphe 1 de l’article 1er de la loi.\n\n**(3)** La demande en reconnaissance de la qualité de salarié handicapé doit être signée et datée par le requérant ou son représentant. Si le requérant a besoin d’être représenté dans ses actes, la demande sera signée par son représentant légal ou par l’administrateur légal.",
+      "text_sha256": "9b9cb72ecb3c2eea5bd94bbcb0b188b8a4564890af3d49c58d893e2913452eef",
+      "md_span": {
+        "start": 4211,
+        "end": 7505
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_6/20140202",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 2. — Procédure pour la reconnaissance de la qualité de salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**1.** Pour la détermination de la qualité de salarié handicapé, il est le cas échéant tenu compte de l’existence d’une diminution du potentiel individuel de travail par rapport à l’activité professionnelle antérieure. Est en outre prise en considération l’importance de la capacité de travail résiduelle par rapport aux possibilités d’une remise au travail dans un délai rapproché ou la rééducabilité de l’intéressé.\n\n**2.** Les organismes de la sécurité sociale compétents, de même que le Fonds national de solidarité sont tenus de fournir à la Commission médicale les renseignements qu’ils détiennent et qui sont nécessaires à la Commission médicale pour se prononcer sur la demande en reconnaissance de la qualité de handicapé introduite par le requérant.",
+      "text_sha256": "a86e2d6f76bfdb194ebd702f65bc5e59e425a5bf57db86a702dc912bd58b5235",
+      "md_span": {
+        "start": 7540,
+        "end": 8299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_7/20041017",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 2. — Procédure pour la reconnaissance de la qualité de salarié handicapé"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le requérant est tenu de prêter son concours aux examens et investigations jugés utiles par la Commission. Faute par lui de se conformer dans les quinze jours à une sommation à cette fin par lettre recommandée à la poste, la Commission médicale peut débouter le requérant de sa demande.",
+      "text_sha256": "3a731f78a8edb9467c21b58f8d1b7c30374ec870060661bdca0553496990fa4a",
+      "md_span": {
+        "start": 8334,
+        "end": 8620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_8/20041017",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 2. — Procédure pour la reconnaissance de la qualité de salarié handicapé"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le président de la Commission médicale ou son suppléant signe les décisions prises par la Commission ensemble avec le secrétaire de la Commission, qui dresse procès-verbal de la réunion de la Commission médicale et qui veille à la notification de la décision au requérant par lettre recommandée selon les dispositions du paragraphe 3 de l’article 3 de la loi.",
+      "text_sha256": "2c0aafbebf53654b1e85e6f34f35f64eca5007d7c6e9ef44b6c681a0c7730d92",
+      "md_span": {
+        "start": 8655,
+        "end": 9014
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_9/20140202",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 2. — Procédure pour la reconnaissance de la qualité de salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "Dès que la décision d’attribution de la qualité de salarié handicapé prise par la Commission médicale est devenue définitive, le salarié handicapé est tenu à se faire inscrire au service en charge du développement de l’emploi et de la formation et au service des salariés handicapés de l’Agence pour le développement de l’emploi ou auprès de l’une de ses agences. Le service établit un certificat d’inscription qui est transmis conjointement avec le dossier que la Commission médicale transmettra à la Commission d’orientation et de reclassement aux fins de prise de décision au sens du paragraphe 1 de l’article 6 de la loi et pour déterminer les mesures à prendre en faveur des salariés handicapés conformément à l’article 8 de la loi.\n\nLe dossier transmis à la Commission d’orientation et de reclassement comprend toutes les informations et pièces justificatives produites par le requérant et permettant à la commission de prendre ses décisions quant à l’orientation et au reclassement professionnel des salariés handicapés sur le marché du travail et dans un atelier protégé ainsi que de déterminer les mesures à proposer au directeur de l’Administration de l’Emploi en conformité avec l’article 8 de la loi, à savoir notamment:\n\n- la demande en reconnaissance de la qualité de salarié handicapé établie par le requérant ou son représentant avec la décision définitive de la Commission médicale portant reconnaissance de la qualité de salarié handicapé,\n- le certificat d’inscription établi par le service des salariés handicapés,\n- les pièces justificatives libellées au paragraphe 1 de l’article 5 du présent règlement grand-ducal.",
+      "text_sha256": "7d60f1b04d3f34a19287e4e9b7f8849d2bd5c7fb40dfc0f620a17bb57f75f573",
+      "md_span": {
+        "start": 9049,
+        "end": 10686
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_10/20140202",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 3. — Procédure en obtention du revenu pour personnes gravement handicapées"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**(1)** La demande en obtention du revenu pour personnes gravement handicapées est formée par écrit sur un formulaire délivré par la Commission médicale et sera accompagnée des pièces justificatives suivantes:\n\n1° un certificat de naissance ou une attestation équivalente établissant que le requérant est âgé de dix-huit ans au moins au moment de l’introduction de sa demande en obtention du revenu,\n\n2° des pièces renseignant sur la diminution de la capacité de travail et l’état de santé général du requérant\n\n- un rapport médical récent et détaillé établi par le médecin traitant, précisant les causes présumées de l’incapacité de travail du requérant, établissant que la déficience a été acquise avant l’âge de 65 ans et comportant le cas échéant des précisions quant à son état de santé et quant à l’évolution prévisible de son état de santé\n- un bilan médical récent et détaillé établi par le médecin du travail de l’Administration de l’emploi, portant indication du taux de la diminution de la capacité de travail du requérant et établissant que le requérant présente un état de santé qui est tel que tout effort s’avère contre-indiqué; au cas où le requérant serait un demandeur d’emploi\n\n3° un certificat de nationalité ou une attestation équivalente,\n\n4° des pièces attestant de la qualité de représentant légal si le requérant a besoin d’être représenté dans ses actes,\n\n5° un certificat de résidence datant de moins de trois mois délivré par la commune de résidence du requérant et établissant que le requérant y est domicilié et y réside effectivement. En outre, le requérant doit:\n\n- loi modifiée du 29 août 2008\n- er\n\n**(2)** La Commission médicale peut se faire communiquer par le requérant ou par un expert toute pièce qu’elle juge utile ou indispensable pour se prononcer sur la diminution de la capacité de travail et sur l’état de santé du requérant.\n\nElle peut demander par l’intermédiaire du médecin inspecteur de la division de la santé au travail du ministre ayant la Santé dans ses attributions tous les documents médicaux nécessaires au médecin de travail compétent en vue de se prononcer sur les critères médicaux libellés aux points b) et c) du paragraphe 2 de l’article 1er de la loi.\n\n**(3)** La demande en obtention du revenu pour personnes gravement handicapées doit être signée et datée par le requérant ou son représentant. Si le requérant a besoin d’être représenté dans ses actes, la demande sera signée par son représentant légal ou par l’administrateur légal.",
+      "text_sha256": "aced673af387574074d6b96e5af6e74b53f62cb073301ba92e2c0e883bf7eaf1",
+      "md_span": {
+        "start": 10812,
+        "end": 13309
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_11/20041017",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 3. — Procédure en obtention du revenu pour personnes gravement handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "**(1)** Les organismes de la sécurité sociale compétents, de même que le Fonds national de solidarité sont tenus de fournir à la Commission médicale les renseignements qu’ils détiennent et qui sont nécessaires à la Commission médicale pour se prononcer sur la demande en obtention du revenu pour personnes gravement handicapées conformément aux points b) et c) du paragraphe 2 de l’article 1er de la loi.\n\n**(2)** Le requérant est tenu de prêter son concours aux examens et investigations jugés utiles par la Commission. Faute par lui de se conformer dans les quinze jours à une sommation à cette fin par lettre recommandée à la poste, la Commission médicale peut débouter le requérant de sa demande.",
+      "text_sha256": "cf784fe38dd98eae8d8123f5a3661bb5d6b686f4bf537ba50f6145bd4c779a1c",
+      "md_span": {
+        "start": 13346,
+        "end": 14046
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_12/20041017",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 3. — Procédure en obtention du revenu pour personnes gravement handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "**(1)** Le président de la Commission médicale ou son suppléant signe les décisions prises par la Commission médicale ensemble avec le secrétaire de la Commission, qui dresse procès-verbal de la réunion de la Commission médicale et qui veille à la notification de la décision au requérant par lettre recommandée dans un délai de deux mois à partir de la date où la demande est réputée être faite.\n\n**(2)** Après que la décision prise par la Commission médicale est devenue définitive, la Commission transmet sa décision ensemble avec la demande et les pièces justificatives libellées à l’article 10 ci-avant sans délai au Fonds aux fins d’attribution du revenu pour personnes gravement handicapées.",
+      "text_sha256": "260caf7810ea0ae29b4ae9b14beb6487c8e44928bdefc2c06c706d8eba6e41be",
+      "md_span": {
+        "start": 14083,
+        "end": 14781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_13/20041017",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 3. — Procédure en obtention du revenu pour personnes gravement handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "**(1)** Dès réception de la décision définitive transmise par la Commission médicale, le Fonds examine en outre si les conditions d’âge et de résidence sont remplies et décide de l’octroi ou du refus du revenu pour personnes gravement handicapées. Le Fonds informe la Commission médicale de sa décision.\n\n**(2)** Le requérant du revenu pour personnes gravement handicapées est tenu de déclarer l’intégralité de ses revenus professionnels et de remplacement dont il bénéficie au titre de la législation luxembourgeoise ou étrangère au Fonds. Les organismes de sécurité sociale compétents sont tenus de transmettre sans délai et dès leur saisine par le Fonds, les données se rapportant aux prestations de tout ordre perçues par le requérant aux fins de permettre au Fonds de déterminer le montant du revenu pour personnes gravement handicapées.",
+      "text_sha256": "2b566beb74b3d71a5cbc0e83044cfe8a4002e8996a2a46067c4d65caa0fae222",
+      "md_span": {
+        "start": 14818,
+        "end": 15660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_14/20190101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 1er: — Le fonctionnement de la Commission médicale",
+        "Section 3. — Procédure en obtention du revenu pour personnes gravement handicapées"
+      ],
+      "article_valid_from": "2019-01-01",
+      "text_md": "La restitution des sommes avancées par le Fonds au titre du revenu pour personnes gravement handicapées se fait dans les limites et selon les garanties des articles 28, 29, 30 (2) et 32 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale**.",
+      "text_sha256": "ca5896aa9874bdf5d0915e32f55d21d79f43265b74548d89c1dc594cfbb116c5",
+      "md_span": {
+        "start": 15697,
+        "end": 15953
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/07/28/a630/jo",
+          "text": "loi du 28 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_15/20041017",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "**1.** La Commission d’orientation et de reclassement professionnel, ci-après désignée par l’abréviation «COR» se réunit aux jour, heure et lieu fixés par le président.\n\n**2.** La COR établit un règlement d’ordre intérieur qui détermine notamment les modalités de convocation, de délibération et de vote de la Commission qui sera approuvé par règlement grand-ducal.\n\n**3.** Hormis le cas d’urgence, les convocations sont envoyées et accompagnées des dossiers avec les pièces justificatives tels que définis à l’article 9 ci-avant et ce au moins huit jours avant la date prévue pour la réunion de la commission.\n\nTout membre titulaire de la Commission empêché d’assister à une session doit en aviser son suppléant et lui transmettre le dossier administratif dont il a eu communication ensemble avec la convocation.\n\n**4.** Les séances de la Commission ne sont pas publiques.",
+      "text_sha256": "bb0658f21ec9ea5257cf7df3078d2269f61618a4a0f2f49459e499087a09832e",
+      "md_span": {
+        "start": 16146,
+        "end": 17019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_16/20260731",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Pour chaque réunion, les membres de la COR, le président, les experts ou conseillers techniques et les secrétaires de la COR présents à la réunion à la demande de la COR, ont droit à des jetons de présence qui sont fixés comme suit :\n\n|  | Fonctionnaire/Employé de l’État (montant brut) | Salarié/Indépendant (montant net) |\n| --- | --- | --- |\n| Président | 30 euros / présence | 50 euros / heure de présence |\n| Membre | 30 euros / présence | 50 euros / heure de présence |\n| Expert / Conseiller technique | 30 euros / présence | 50 euros / heure de présence |\n| Secrétaire | 30 euros / présence | / |",
+      "text_sha256": "ea7c9828cae483382304e86336b815a3efb6196f8fb9a1f2d4cca0d07e7e7467",
+      "md_span": {
+        "start": 17056,
+        "end": 17659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_17/20041017",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les membres de la COR, les membres du secrétariat et les experts sont tenus au secret professionnel.",
+      "text_sha256": "8c818ea616d1a0c56ac47de2837f11810490b8001902a0a46d75140b6f5a4b65",
+      "md_span": {
+        "start": 17696,
+        "end": 17796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_18/20041017",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 1. — Généralités"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les missions du secrétariat de la COR pour la mise en œuvre des procédures devant la COR sont identiques à celles du secrétariat de la Commission médicale.",
+      "text_sha256": "8d481618cd078831b4b086c5e5aefddb947a74d7d6ba9ec1659a396a6fc68081",
+      "md_span": {
+        "start": 17833,
+        "end": 17988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_19/20260731",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 2. — Procédure d’orientation et de reclassement professionnel du salarié handicapé"
+      ],
+      "article_valid_from": "2026-07-31",
+      "text_md": "Après avoir reçu communication du dossier administratif du requérant de la part du secrétariat de la Commission médicale conformément à l’article 9 ci-avant, le secrétariat de la COR accuse réception du dossier, qui est marqué de la date d’entrée auprès la COR.\n\nLe Président convoque les membres de la COR. Hormis le cas d’urgence, les convocations sont envoyées et accompagnées des dossiers avec les pièces justificatives tels que définis à l’article 9 ci-avant et ce au moins huit jours avant la date prévue pour la réunion de la Commission.\n\nTout membre titulaire de la Commission empêché d’assister à une session doit en aviser son suppléant et lui transmettre le dossier avec les pièces justificatives, dont il a eu communication ensemble avec la convocation.",
+      "text_sha256": "41a0c13c78b1b96f36b978f854e6967f235e0e3d7197cf566b12d044a608062c",
+      "md_span": {
+        "start": 18122,
+        "end": 18887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_20/20140202",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 2. — Procédure d’orientation et de reclassement professionnel du salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "La COR ayant à se prononcer par une décision motivée sur l’orientation du salarié handicapé sur le marché de travail ordinaire ou dans un atelier protégé, prend sa décision sur base de la capacité de travail du requérant et sur les possibilités réelles d’intégration à l’embauche ou sur l’admission à un poste de travail du marché ordinaire ou dans un atelier protégé.\n\nEn vue d’une orientation sur le marché ordinaire ou dans un atelier protégé, la COR pourra notamment tenir compte des éléments suivants:\n\n- des antécédents scolaires et professionnels du salarié handicapé,\n- des souhaits exprimés par le requérant ainsi que des capacités d’adaptation intellectuelles et physiques du requérant à l’exercice et à l’apprentissage d’un métier,\n- des besoins du salarié handicapé compte tenu de la nature et du degré de son handicap, de ses capacités antérieures et résiduelles de travail, établis par le médecin traitant dans son rapport médical,\n- du bilan médical établi par le médecin du travail de l’Agence pour le développement de l’emploi portant indication du taux de la diminution de la capacité de travail du requérant et se prononçant sur son aptitude à exercer un emploi sur le marché de travail ordinaire ou dans un atelier protégé de même que sur l’évaluation de ses capacités de travail résiduelles, ainsi que sa proposition, s’il y a lieu, de mesures d’orientation vers un emploi sur le marché ordinaire ou dans un atelier protégé,\n- du bilan établi par un psychologue de travail de l’Administration de l’emploi,\n- de l’appréciation d’un ou de plusieurs organismes gestionnaires des ateliers protégés concernant l’employabilité du requérant dans un atelier protégé.",
+      "text_sha256": "0bcab40fb5efd9dfbef04093f5a1e2847966e4a38f4432c5f2f9d3339e110d50",
+      "md_span": {
+        "start": 18924,
+        "end": 20603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_21/20140202",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 2. — Procédure d’orientation et de reclassement professionnel du salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "La COR peut se faire communiquer par le salarié handicapé ou par un expert toute pièce qu’elle juge utile ou indispensable pour se prononcer sur l’orientation ou le reclassement professionnel du salarié handicapé. Elle peut s’adjoindre, en cas de besoin, toutes les personnes dont le concours en raison de leur compétence ou de leur fonction lui paraît utile pour l’exécution de ses missions.\n\nLes organismes de sécurité sociale compétents et le Fonds national de solidarité transmettent sans délai, dès leur saisine par le président de la COR, les données se rapportant aux personnes concernées que la COR a jugées utiles pour sa prise de décision en matière d’orientation et de reclassement professionnel du salarié handicapé.",
+      "text_sha256": "635680606b398eeb7605d34bc0288fbf0a0d24494be11b6ed68176ba07591e66",
+      "md_span": {
+        "start": 20640,
+        "end": 21368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_22/20140202",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 2. — Procédure d’orientation et de reclassement professionnel du salarié handicapé"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "Le salarié handicapé est tenu de prêter son concours aux examens et investigations jugés utiles par la COR. Faute par lui de se conformer dans les quinze jours à compter de la date d’envoi de la sommation lui adressée à cette fin par lettre recommandée remise à la poste, la Commission peut débouter le requérant de sa demande.",
+      "text_sha256": "d4c7d94a09b485005c0dc20ff9e34bf1a695c132d173ce109859ae35ead0f6f4",
+      "md_span": {
+        "start": 21405,
+        "end": 21732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_23/20041017",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 2. — Procédure d’orientation et de reclassement professionnel du salarié handicapé"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le président de la COR ou son suppléant signe les décisions prises par la Commission ensemble avec le secrétaire de la Commission, qui dresse procès-verbal de la réunion de la COR et qui veille à la notification de la décision au requérant par lettre recommandée dans un délai de deux mois à compter de la date d’entrée du dossier auprès la Commission.",
+      "text_sha256": "a6356b1dc4dab9431f4bf9c1e2a26f8cec1e4a7b80bb77cc935d761235ad516c",
+      "md_span": {
+        "start": 21769,
+        "end": 22121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_24/20041017",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le Directeur de l’Administration de l’Emploi décide de la prise en charge financière totale ou partielle des frais d’orientation, de formation, de réadaptation et de rééducation professionnelles.\n\nLes frais comprennent notamment les indemnités de réentraînement à l’effort, d’initiation, de remise au travail ainsi que d’autres frais en rapport avec ces mesures comme notamment les frais d’inscription, les frais de transport, les frais de repas, le petit matériel didactique. Le remboursement des frais se fait au candidat sur présentation d’une facture acquittée ou directement à l’institut de formation.",
+      "text_sha256": "f6e07a7406227c34a35a733b1dc9ab312f0924170393887fcce8de94efc370fe",
+      "md_span": {
+        "start": 22325,
+        "end": 22931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_25/20140202",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**1.** L’avis de la Commission d’orientation et de reclassement professionnel tel que prévu par les articles 8 et 15 de la loi est fondé notamment sur un ou plusieurs critères établis ci-après, à savoir:\n\n- la perte de rendement du salarié handicapé due à la diminution de sa capacité de travail\n- l’évolution prévisible de l’handicap\n- les conditions d’adaptation du salarié handicapé au milieu du travail\n- la situation sur le marché du travail ordinaire\n- le respect du quota obligatoire par l’employeur\n- la loi\n- les efforts de maintien à l’emploi entrepris par l’employeur en faveur des salariés handicapés\n- l’existence d’un lien causal entre le poste de travail et la mesure proposée\n- la nature et la durée du travail à prester\n- les problèmes de mobilité et d’accessibilité du salarié\n- les conclusions découlant d’une étude du poste de travail à occuper par le salarié handicapé et d’un bilan des déficits et de la capacité résiduelle de ce dernier à établir par le médecin du travail compétent.\n\nLa participation de l’Etat au salaire du salarié handicapé guidé vers le marché de travail ordinaire variera entre 40% et 100% du salaire brut, y compris la part patronale des cotisations de sécurité sociale. Pour les salariés handicapés engagés dans un atelier protégé, l’Etat participe au salaire à raison de 100% du montant, tel que déterminé au 1er paragraphe de l’article 21 de la loi.\n\nAu cas où le handicapé aurait acquis à l’issue de sa rééducation professionnelle et de son expérience professionnelle reçue à son nouveau poste de travail, un rendement égal au rendement d’un valide, la participation aux frais de salaire est arrêtée par le directeur de l’Administration de l’Emploi, sur avis motivé de la Commission d’orientation et de reclassement professionnel.\n\n**2.** Le taux de participation pourra être revu périodiquement par le directeur de l’Administration de l’Emploi, sur avis conforme et motivé de la Commission d’orientation et de reclassement professionnel, en fonction de l’évolution du handicap et de l’adaptation du salarié handicapé au milieu du travail.\n\nPour la fixation du taux de participation, la Commission d’orientation et de reclassement peut demander, en cas de besoin, un avis de la Commission médicale portant sur l’état médical des impétrants.\n\nEn cas d’aggravation du handicap, une demande en obtention du relèvement du taux de participation pourra être introduite sur base d’une demande émanant de l’employeur, accompagnée d’un avis motivé du médecin du travail compétent.\n\n**3.** Sur demande de l’employeur occupant régulièrement un nombre de salariés handicapés supérieur aux taux d’emploi obligatoires prévus par les dispositions de la loi du 12 septembre 2003 relative aux personnes handicapées; le remboursement de la part patronale des charges de sécurité sociale sera accordé par le directeur de l’Administration de l’Emploi, sur avis de la Commission d’orientation et de reclassement professionnel. Cette décision est basée notamment sur un rapport du Service des salariés de l’Administration de l’Emploi ayant pour objet d’établir le respect ou non par l’employeur des obligations visées par l’article 10 (2) dernier alinéa de la loi.\n\nSont éligibles au remboursement de la part patronale des charges de sécurité sociale, les employeurs du secteur privé et les employeurs du secteur public, exception faite de l’Etat.",
+      "text_sha256": "b40942d43325a707d80bd7dd54397511600bc4c3767b135955d58ffb698b4e34",
+      "md_span": {
+        "start": 22968,
+        "end": 26343
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi du 12 septembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_26/20140202",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "Le directeur de l’Administration de l’Emploi décide de la prise en charge éventuelle par l’Etat, sur avis conforme et motivé de la COR, de tout ou partie, notamment:\n\n- de l’aménagement des postes de travail et des accès au travail;\n- de l’acquisition d’équipement professionnel et de matériel didactique;\n- du remboursement des frais de transport vers le lieu de travail.\n\nLe directeur de l’Administration de l’Emploi peut charger un représentant du service des salariés handicapés ou d’un autre service concerné, pour assurer le suivi de ces mesures. Cet organisme s’assurera sur place des mesures à prendre et aura le contrôle du déroulement technique en collaboration avec l’employeur et le médecin du travail compétent.",
+      "text_sha256": "3e530dd5c7d8443e4b424012d9cca72f8a743b03b87c183201466a87f1e1509b",
+      "md_span": {
+        "start": 26380,
+        "end": 27104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_27/20140202",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "L’Etat peut accorder la prise en charge des cotisations au titre de l’assurance pension complémentaire prévue à l’article 173, alinéa 3 du code des assurances sociales aux salariés indépendants qui ont obtenu la reconnaissance de la qualité de salarié handicapé conformément à l’article 3 de la loi du 12 septembre 2003 relative aux personnes handicapées, lorsqu’ils poursuivent leur activité professionnelle sur le territoire du Grand-Duché de Luxembourg.",
+      "text_sha256": "0e451e81d777df10adaaf6fb71ee3b6e08e490a4352988e5cc2564257d4cba9b",
+      "md_span": {
+        "start": 27141,
+        "end": 27597
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code des assurances sociales"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi du 12 septembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_28/20041017",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Dans certains cas de rigueur à caractère social dûment établi, l’Etat peut prendre à sa charge, en tout ou en partie, les cotisations d’assurance obligatoire.",
+      "text_sha256": "7178c6b2170a656f91a81230313ad0554faba86a6dad86dbe018701cd07189a4",
+      "md_span": {
+        "start": 27634,
+        "end": 27792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_29/20041017",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le directeur de l’Administration de l’Emploi accordera la prise en charge pour la durée d’une année sur proposition de la COR.\n\nLa prise en charge est renouvelable dans les mêmes conditions.",
+      "text_sha256": "5edb5597283d28d9bfe9411ded678799de14244c330caaafadf4b137f3c28ea0",
+      "md_span": {
+        "start": 27829,
+        "end": 28019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_30/20041017",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les demandes de prise en charge sont à adresser au directeur de l’Administration de l’Emploi qui les transmet à la COR pour avis.\n\nLes intéressés sont tenus de signaler à l’Administration de l’Emploi tout fait de nature à apporter un changement aux conditions d’attribution du bénéfice de la prise en charge par l’Etat.",
+      "text_sha256": "450206002f59391ec52c5e0c7076964c02ff4c9cae236844f0aa288f27d97155",
+      "md_span": {
+        "start": 28056,
+        "end": 28375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_31/20041017",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 2: — Le fonctionnement de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Section 3. — Détermination de la forme et du contenu des mesures visées à l’article 8 alinéa 4 de la loi du 12 septembre 2003 relative aux personnes handicapées"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les cotisations prévues à l’article 27 ci-avant sont payées par l’Etat sur base d’un extrait de compte individuel ou collectif établi par le Centre commun de la sécurité sociale.\n\nLes cotisations prévues à l’article 28 sont remboursées par l’Etat aux ayants droit contre production des pièces justificatives.",
+      "text_sha256": "a8139a4c26a6bf7ea48938bc1aca882786b378696697f7bef5b8771015c62bf5",
+      "md_span": {
+        "start": 28412,
+        "end": 28720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_32/20140202",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés",
+        "Chapitre 3: — Procédure applicable au salarié handicapé, qui pour des raisons indépendantes de sa volonté n’a pas accès à un emploi salarié"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**(1)** La demande du salarié handicapé visé par le dernier alinéa du paragraphe 2 de l’article 1er de la loi sera accompagnée des pièces justificatives suivantes:\n\n1. salarié\n2. une décision devenue définitive de la Commission d'orientation et de reclassement professionnel quant à l'orientation du requérant sur le marché de travail ordinaire ou dans un atelier protégé,\n3. er la loi\n4. des pièces récentes établissant l'état des ressources du requérant,\n5. une attestation délivrée par le service de placement de l'administration de l'emploi établissant que le requérant n'a pas accès à un emploi salarié pour des raisons indépendantes de sa volonté,\n6. - er Code civil\n\n**(2)** Le Fonds peut se faire communiquer par le requérant ou par un expert toute pièce jugée utile ou indispensable pour se prononcer sur l’attribution du revenu pour personnes gravement handicapées.\n\n**(3)** La demande en obtention du revenu pour personnes gravement handicapées faite en application du dernier alinéa du paragraphe 2 de l’article 1er de la loi doit être signée par le requérant. Si le requérant a besoin d’être représenté dans ses actes, la demande sera cosignée par l’administrateur légal ou par son représentant légal.",
+      "text_sha256": "eb9920ff02340cebd44d944a0621281ac3fcef0e90281e0b821d1ebd3baf4370",
+      "md_span": {
+        "start": 28902,
+        "end": 30116
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_33/20140202",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Titre II: — Le fonctionnement de la Commission spéciale"
+      ],
+      "article_valid_from": "2014-02-02",
+      "text_md": "**1.** Pour les demandes en réexamen des décisions d’orientation de la Commission d’orientation, la Commission spéciale instituée par l’article L.527-1, paragraphe (2) du Code du travail, est complétée, au besoin et suivant les cas par:\n\n- un fonctionnaire de l’Etat représentant les organismes de sécurité sociale;\n- un représentant des associations de mutilés de guerre ainsi que des prisonniers et déportés politiques;\n- deux représentants des associations des personnes présentant un handicap de la vue et/ou de l’ouïe;\n- deux représentants des associations des personnes présentant un handicap physique ou mental;\n- un représentant d’une association des personnes présentant un handicap psychique;\n- loi du 12 septembre 2003\n\nIl est nommé un membre suppléant pour chacun des membres titulaires susvisés.\n\n**2.** Les membres complétant la commission spéciale de réexamen sont nommés par le ministre ayant le Travail et l’Emploi dans ses attributions, sur proposition du Conseil supérieur des personnes handicapées.\n\n**3.** Ils assistent aux délibérations de la commission avec voix consultative.",
+      "text_sha256": "c0f17cbfe0e7ab2909db5cb9b27c69fa300ad3f2687d42724a945a360b7fae66",
+      "md_span": {
+        "start": 30213,
+        "end": 31312
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/31/n2/jo",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_34/20041017",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Titre II: — Le fonctionnement de la Commission spéciale"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Pour le fonctionnement de la commission spéciale susvisée, les mêmes règles que celles prévues par le règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Administration de l’Emploi en matière d’indemnisation de chômage complet sont d’application.",
+      "text_sha256": "0bc28ed32e11095af19df47f8bc8f6c050a72a467a567267da66fb2ead3e4a55",
+      "md_span": {
+        "start": 31349,
+        "end": 31695
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1987/07/07/n5/jo",
+          "text": "règlement grand-ducal du 7 juillet 1987"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_35/20041017",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Titre III: — La procédure en révision devant la Commission médicale ou devant la Commission d’orientation et de reclassement professionnel"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Les demandes en révision prévues par la loi sont introduites par les requérants et traitées selon les conditions, procédures et les modalités applicables aux demandes faites en application de ladite loi et du présent règlement grand-ducal.",
+      "text_sha256": "74c3a5b54c851b00e40d1118fd543033089e8ff4f3ab4e527d1b0eba42063959",
+      "md_span": {
+        "start": 31875,
+        "end": 32114
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "la loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "ladite loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_36/20041017",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Titre IV: — Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Sont abrogés:\n\n- règlement grand-ducal du 14 avril 1992\n- règlement grand-ducal modifié du 14 avril 1992 loi du 12 novembre 1991\n- règlement grand-ducal du 14 avril 1992\n- règlement grand-ducal du 25 novembre 1992\n- règlement grand-ducal du 7 juin 2000 règlement grand-ducal du 14 avril 1992",
+      "text_sha256": "dbc9a422785695617b3f536f4ea3862d2f73e0b5fe694717c6899422f2ae907e",
+      "md_span": {
+        "start": 32193,
+        "end": 32484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_37/20041017",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Titre V: — Mise en vigueur et dispositions exécutoire et de publication"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Le présent règlement grand-ducal entrera en vigueur le quatrième jour de sa publication au Mémorial.",
+      "text_sha256": "8aaaa57a3395be440583ee80a870f87407e9c87dc9b0e84006dcf2c093cc567b",
+      "md_span": {
+        "start": 32597,
+        "end": 32697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31--df8af7ac2ad130494e833c4504ea7aec641ac2baaf09e2e174549fd902a3536f#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/art_38/20041017",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Titre V: — Mise en vigueur et dispositions exécutoire et de publication"
+      ],
+      "article_valid_from": "2004-10-17",
+      "text_md": "Notre Ministre de la Famille et de l’Intégration ainsi que Notre Ministre du Travail et de l’Emploi sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "cd8f2f332261ce101fc13e9a4a069428a9260545cfa4b108a05ac53f8400c6cb",
+      "md_span": {
+        "start": 32734,
+        "end": 32911
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

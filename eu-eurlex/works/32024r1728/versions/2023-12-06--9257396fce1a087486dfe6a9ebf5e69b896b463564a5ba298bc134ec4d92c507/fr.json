@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2024/1728 of 6\u00A0December 2023 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2023-12-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1728/versions/2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507/fr.xml",
+    "sha256": "e9b1402426d1785eb6532e5a26bf21a839786faccdeaa04e8bc9ad7c540dfbbe",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1728"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Deux personnes physiques ou morales, ou plus, constituent un ensemble du point de vue du risque parce que l’une d’entre elles détient sur l’autre ou sur les autres, directement ou indirectement, un pouvoir de contrôle lorsque l’une d’entre elles est tenue d’établir des états financiers consolidés qui incluent l’autre ou les autres personnes, en application de l’article 22, paragraphes 1 et 2, de la directive 2013/34/UE du Parlement européen et du Conseil (3) ou de la norme internationale d’information financière (IFRS) 10, selon ce qui est prévu par le droit national de l’État membre concerné.\n\n2. Le paragraphe 1 s’applique également aux personnes morales qui ne sont pas incluses dans les états financiers consolidés en raison des exemptions ou des dérogations établies dans la directive 2013/34/UE ou dans la norme IFRS 10, selon ce qui est prévu par le droit national de l’État membre concerné.\n\n3. Lorsque le paragraphe 1 n’est pas applicable, deux personnes physiques ou morales, ou plus, constituent un ensemble du point de vue du risque parce que l’une d’entre elles détient sur l’autre ou sur les autres, directement ou indirectement, un pouvoir de contrôle, dans les circonstances suivantes:\n\n| a) | la personne physique ou morale détient la majorité des droits de vote dans une ou plusieurs autres personnes; |\n| --- | --- |\n\n| b) | la personne physique ou morale a le droit ou la faculté de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une ou plusieurs autres personnes; |\n| --- | --- |\n\n| c) | la personne physique ou morale est en mesure d’exercer une influence dominante sur une ou plusieurs autres personnes en vertu d’une loi ou d’un contrat, ou de clauses statutaires. |\n| --- | --- |\n\n4. Lorsque les paragraphes 1, 2 ou 3 ne sont pas applicables, deux personnes physiques ou morales, ou plus, peuvent être réputées constituer un ensemble du point de vue du risque parce que l’une d’entre elles détient sur l’autre ou sur les autres, directement ou indirectement, un pouvoir de contrôle, dans les circonstances suivantes, entre autres:\n\n| a) | la personne physique ou morale a le droit ou la faculté de décider de la stratégie ou de diriger les activités d’une ou plusieurs autres personnes; |\n| --- | --- |\n\n| b) | la personne physique ou morale a le droit ou la faculté de décider de transactions importantes, y compris du transfert de bénéfices ou de pertes d’une ou plusieurs autres personnes; |\n| --- | --- |\n\n| c) | la personne physique ou morale a le droit ou la faculté de coordonner la gestion d’une ou plusieurs personnes morales. |\n| --- | --- |\n\n5. Par dérogation aux paragraphes 1, 2 et 3, lorsque, dans des cas exceptionnels, un établissement est en mesure de démontrer qu’il n’existe pas d’ensemble du point de vue du risque en dépit du fait que les circonstances prévues dans ces paragraphes sont présentes en ce qui concerne deux personnes physiques ou morales, ou plus, alors l’établissement peut ne pas identifier ces personnes comme un groupe de clients liés.",
+      "text_sha256": "44b11aab5458841cf1c1fce519f679b433ed2469ff2135cc82e6383c31923bf6",
+      "md_span": {
+        "start": 718,
+        "end": 3807
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_202401728FR.000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Deux personnes physiques ou morales, ou plus, constituent un ensemble du point de vue du risque parce qu’il existe entre elles des liens tels qu’il est probable que, si l’une d’entre elles rencontrait des problèmes financiers, notamment des difficultés de financement ou de remboursement, l’autre ou les autres connaîtraient également des problèmes financiers, dans les circonstances suivantes, entre autres:\n\n| a) | lorsque l’insolvabilité ou la défaillance d’une personne physique ou morale est susceptible d’entraîner l’insolvabilité ou la défaillance d’une ou plusieurs autres personnes physiques ou morales; |\n| --- | --- |\n\n| b) | lorsqu’une personne physique ou morale a garanti, en tout ou en partie, l’exposition d’une autre personne physique ou morale et que ladite exposition est si importante pour le garant que ce dernier est susceptible de rencontrer des problèmes financiers si la garantie est appelée; |\n| --- | --- |\n\n| c) | lorsqu’une partie importante des recettes brutes ou des dépenses brutes d’une personne physique ou morale découle de transactions effectuées avec une autre personne physique ou morale qui ne peut pas être remplacée rapidement sans entraîner des coûts supplémentaires excessifs; |\n| --- | --- |\n\n| d) | lorsqu’une partie importante des biens produits ou des services proposés par une personne physique ou morale est vendue ou fournie à une autre personne physique ou morale et que ce lien ne peut pas être remplacé rapidement sans entraîner des coûts supplémentaires excessifs; |\n| --- | --- |\n\n| e) | lorsqu’une partie importante des créances ou des dettes d’une personne physique ou morale porte sur une autre personne physique ou morale; |\n| --- | --- |\n\n| f) | lorsque la source de financement prévue pour le remboursement des emprunts de deux personnes physiques ou morales, ou plus, est la même et qu’aucune desdites personnes ne dispose d’une autre source de revenus indépendante avec laquelle le service de son emprunt peut être assuré et l’emprunt entièrement remboursé, et que la source de financement prévue ne peut pas être remplacée rapidement sans entraîner des coûts supplémentaires excessifs; |\n| --- | --- |\n\n| g) | lorsque l’on s’attend à ce que les problèmes financiers d’une personne physique ou morale entraînent, pour une autre personne physique ou morale, des difficultés à rembourser ses dettes entièrement et en temps opportun, car ces personnes sont légalement ou contractuellement solidairement tenues à des obligations vis-à-vis de l’établissement; |\n| --- | --- |\n\n| h) | lorsque deux personnes physiques ou morales, ou plus, dépendent de la même source pour la majorité de leur financement et qu’en cas d’insolvabilité ou de défaillance de cette source de financement, celle-ci ne peut pas être remplacée rapidement sans entraîner des coûts supplémentaires excessifs; |\n| --- | --- |\n\n| i) | lorsque deux personnes morales, ou plus, sont placées sous une direction unique, comme prévu à l’article 22, paragraphe 7, point a), de la directive 2013/34/UE; |\n| --- | --- |\n\n| j) | lorsque l’organe de direction de deux personnes morales, ou plus, est composé en majorité des mêmes personnes, comme prévu à l’article 22, paragraphe 7, point b), de la directive 2013/34/UE; |\n| --- | --- |\n\n| k) | lorsque la majorité des droits de vote dans deux personnes morales, ou plus, est détenue par les mêmes personnes physiques ou morales. |\n| --- | --- |\n\n2. Par dérogation au paragraphe 1, lorsque, dans des cas exceptionnels, un établissement est en mesure de démontrer qu’il n’existe pas d’ensemble du point de vue du risque en dépit du fait qu’une ou plusieurs des circonstances prévues dans ce paragraphe sont présentes en ce qui concerne deux personnes physiques ou morales, ou plus, alors l’établissement peut ne pas identifier ces personnes comme un groupe de clients liés.",
+      "text_sha256": "4a0ddd188c8d711f8b19876f9e10cba5fb972f200683cba6c2b53f42dbae6dc2",
+      "md_span": {
+        "start": 3840,
+        "end": 7694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Trois personnes physiques ou morales, ou plus, constituent un ensemble du point de vue du risque lorsque deux de ces personnes, ou plus, constituent un ensemble du point de vue du risque en raison d’un lien de contrôle au sens de l’article 1er (groupe de contrôle) et qu’une ou plusieurs personnes physiques ou morales sont liées à une ou plusieurs des personnes faisant partie du groupe de contrôle en raison d’une dépendance économique au sens de l’article 2.\n\n2. Lorsque la personne liée en raison d’une dépendance économique visée au paragraphe 1 fait partie d’un autre groupe de clients liés, alors toutes les personnes, qu’elles soient contrôlées par cette personne économiquement dépendante ou qu’elles soient elles-mêmes économiquement dépendantes de cette personne, constituent également un ensemble du point de vue du risque avec les personnes du groupe de contrôle visé au paragraphe 1.\n\n3. Par dérogation aux paragraphes 1 et 2, lorsque, dans des cas exceptionnels, un établissement est en mesure de démontrer qu’il n’existe pas d’ensemble du point de vue du risque en dépit du fait que les circonstances prévues dans ces paragraphes sont présentes en ce qui concerne trois personnes physiques ou morales, ou plus, alors l’établissement peut ne pas identifier ces personnes comme un groupe de clients liés.",
+      "text_sha256": "0fea285a716b5386802e5b668b6fce866e56ce14d82dc6f45b8b4e68a61daa5a",
+      "md_span": {
+        "start": 7727,
+        "end": 9059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1728:2023-12-06--9257396fce1a087486dfe6a9ebf5e69b896b463564a5ba298bc134ec4d92c507#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "b8c1b172e87d9f3d25fa7408c473a0c09567665b259934334f0182acb0dfdc95",
+      "md_span": {
+        "start": 9092,
+        "end": 9233
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

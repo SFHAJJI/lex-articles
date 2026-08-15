@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:32009l0028:2021-07-01--300e34468e3616218bd550b0d7ee6ede93638186f7cc25146ca0db0c9207b109'
+title: 'Directive 2009/28/EC'
+valid_from: '2021-07-01'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0028-20210701'
+source_sha256: 'b7de467974447d7bf72c28c5ba7267ee300eca435222ba7f23fefad1c10abd58'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+02009L0028 — EN — 01.07.2021 — 003.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B DIRECTIVE 2009/28/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (Text with EEA relevance) (OJ L 140, 5.6.2009, p.16) Repealed by: Official Journal No page date Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 L 328 82 21.12.2018 The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0028-20151005

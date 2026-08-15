@@ -1,0 +1,108 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1801:2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1801 of 11 October 2016 on laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for securitisation in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2022-12-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1801/versions/2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66/fr.html",
+    "sha256": "4464f0278704a051538e061dbaa084f1bf4d3217ba236a02bf53d7e74fd310bb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1801-20221225"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1801:2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Tableaux de correspondance dans l’approche fondée sur les notations externes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La correspondance entre, d’une part, les catégories de notation utilisées par chaque organisme externe d’évaluation du crédit pour les positions de titrisation relevant de l’approche fondée sur les notations externes et, d’autre part, les échelons de qualité de crédit visés aux articles 263 et 264 du règlement (UE) no 575/2013 est donnée à l’annexe II du présent règlement.",
+      "text_sha256": "5a2f6da7e32bb40f6542e1f710e0a628e2a8374d6ae2fc9476f41cd2ab72e9b4",
+      "md_span": {
+        "start": 977,
+        "end": 1352
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R1801",
+          "text": "32016R1801"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1801:2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+      "md_span": {
+        "start": 1409,
+        "end": 1651
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2365",
+          "text": "32022R2365: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2365",
+          "text": "32022R2365: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32016r1801:2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1692,
+        "end": 1692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "tableaux_de_correspondance_aux_fins_de_l_article_2",
+      "provision_id": "eu-eurlex:32016r1801:2022-12-25--645d594315819c971534be7040b7e12a6b433d5496859cc8395f59cfa0e33e66#tableaux_de_correspondance_aux_fins_de_l_article_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Tableaux de correspondance aux fins de l’article 2",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| *A.M. Best (EU) Rating Services B.V.* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit des émissions à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | aaa(sf) | aa+(sf) | aa(sf) | aa-(sf) | a+(sf) | a(sf) | a-(sf) | bbb+(sf) | bbb(sf) | bbb-(sf) | bb+(sf) | bb(sf) | bb-(sf) | b+(sf) | b(sf) | b-(sf) | ccc+(sf), ccc(sf), ccc-(sf) | Inférieure à ccc-(sf) |\n| Échelle de notation des émissions à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AMB-1+(sf), AMB-1(sf) | AMB-2(sf) | AMB-3(sf) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à AMB-3(sf) |\n| *ARC Ratings SA* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation des émissions à moyen et à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAASF | AA+SF | AASF | AA-SF | A+SF | ASF | A-SF | BBB+SF | BBBSF | BBB-SF | BB+SF | BBSF | BB-SF | B+SF | BSF | B-SF | CCC+SF, CCCSF CCC-SF | Inférieure à CCC-SF |\n| Échelle de notation des émissions à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | A-1+SF, A-1 SF | A-2SF, | A-3SF |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à A-3SF |\n| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| *Axesor Risk Management S.L.* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit des produits financiers structurés à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAA(sf) | AA+(sf) | AA(sf) | AA-(sf) | A+(sf) | A(sf) | A-(sf) | BBB+(sf) | BBB(sf) | BBB-(sf) | BB+(sf) | BB(sf) | BB-(sf) | B+(sf) | B(sf) | B-(sf) | CCC+(sf), CCC(sf), CCC-(sf) | Inférieure à CCC-(sf) |\n| *Creditreform Rating AG* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAAsf | AA+sf | AAsf | AA-sf | A+sf | Asf | A-sf | BBB+sf | BBBsf | BBB-sf | BB+sf | BBsf | BB-sf | B+sf | Bsf | B-sf | CCCsf | Inférieure à CCCsf |\n| *DBRS Ratings GmbH* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation des obligations à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAA(sf) | AA(high)(sf) | AA(sf) | AA(low)(sf) | A(high)(sf) | A(sf) | A(low)(sf) | BBB(high)(sf) | BBB(sf) | BBB(low)(sf) | BB(high)(sf) | BB(sf) | BB(low)(sf) | B(high)(sf) | B(sf) | B(low)(sf) | CCC(high)(sf), CCC(sf), CCC(low)(sf) | Inférieure à CCC(low)(sf) |\n| Échelle de notation des billets de trésorerie et de la dette à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | R-1(high)(sf), R-1(middle)(sf), R-1(low)(sf) | R-2(high)(sf), R-2(middle)(sf), R-2(low)(sf) | R-3(sf) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à R-3(sf) |\n| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| *Fitch Ratings Ireland Limited* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAASF | AA+SF | AASF | AA-SF | A+SF | ASF | A-SF | BBB+SF | BBBSF | BBB-SF | BB+SF | BBSF | BB-SF | B+SF | BSF | B-SF | CCCSF | Inférieure à CCCSF |\n| Échelle de notation à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | F1+SF, F1 SF | F2SF | F3SF |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à F3SF |\n| *HR Ratings de México, S.A. de C.V.* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | HR AAA (E) | HR AA+ (E) | HR AA (E) | HR AA- (E) | HR A+ (E) | HR A (E) | HR A- (E) | HR BBB+ (E) | HR BBB (E) | HR BBB- (E) | HR BB+ (E) | HR BB (E) | HR BB- (E) | HR B+ (E) | HR B (E) | HR B- (E) | HR C+ (E) | Inférieure à HR C+ (E) |\n| *ICAP S.A.* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit mondiale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAASF, AAA-SF | AA+SF | AASF | AA-SF | A+SF | ASF | A-SF | BBB+SF | BBBSF | BBB-SF | BB+SF | BBSF | BB-SF | B+SF | BSF | B-SF | CCC+SF CCCSF, CCC-SF | Inférieure à CCC-SF |\n| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| *Japan Credit Rating Agency Ltd* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation des émissions à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAA | AA+ | AA | AA- | A+ | A | A- | BBB+ | BBB | BBB- | BB+ | BB | BB- | B+ | B | B- | CCC | Inférieure à CCC |\n| Échelle de notation des émissions à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | J-1+, J-1 | J-2 | J-3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à J-3 |\n| *Kroll Bond Rating Agency Europe Limited* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAA(sf) | AA+(sf) | AA(sf) | AA-(sf) | A+(sf) | A(sf) | A-(sf) | BBB+(sf) | BBB(sf) | BBB-(sf) | BB+(sf) | BB(sf) | BB-(sf) | B+(sf) | B(sf) | B-(sf) | CCC+(sf), CCC(sf), CCC-(sf) | Inférieure à CCC-(sf) |\n| Échelle de notation de crédit à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | K1+(sf), K1(sf) | K2(sf) | K3(sf) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à K3(sf) |\n| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| *Moody’s Investors Service* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation à long terme mondiale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Aaa(sf) | Aa1(sf) | Aa2(sf) | Aa3(sf) | A1(sf) | A2(sf) | A3(sf) | Baa1(sf) | Baa2(sf) | Baa3(sf) | Ba1(sf) | Ba2 (sf) | Ba3 (sf) | B1 (sf) | B2 (sf) | B3 (sf) | Caa1(sf), Caa2(sf), Caa3(sf) | Inférieure à Caa3(sf) |\n| Échelle de notation à court terme mondiale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | P-1 (sf) | P-2 (sf) | P-3 (sf) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à P-3(sf) |\n| *Scope Ratings GmbH* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit à long terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAASF | AA+SF | AASF | AA-SF | A+SF | ASF | A-SF | BBB+SF | BBBSF | BBB-SF | BB+SF | BBSF | BB-SF | B+SF | BSF | B-SF | CCCSF | Inférieure à CCCSF |\n| Échelle de notation de crédit à court terme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | S-1+SF, S-1SF | S-2 SF | S-3 SF |  |  |  | , |  |  |  |  |  |  |  |  |  |  | Inférieure à S-3 SF |\n| EQC | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **Tous les autres** |\n| *S&P Global Ratings Europe Limited* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Échelle de notation de crédit des émissions à long terme mondiale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | AAA(sf) | AA+(sf) | AA(sf) | AA-(sf) | A+(sf) | A(sf) | A-(sf) | BBB+(sf) | BBB(sf) | BBB-(sf) | BB+(sf) | BB(sf) | BB-(sf) | B+(sf) | B(sf) | B-(sf) | CCC+(sf), CCC(sf), CCC-(sf) | Inférieure à CCC-(sf) |\n| Échelle de notation de crédit des émissions à court terme mondiale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | A-1+(sf), A-1(sf) | A-2(sf) | A-3(sf) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Inférieure à A-3(sf) |",
+      "text_sha256": "66e5d8b82421da595c420889f5db499888a37650e31e2c19030c218aeb09eb1f",
+      "md_span": {
+        "start": 1815,
+        "end": 9976
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

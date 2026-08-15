@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e108:2016-06-07--4044fd021ff6d5607aace48bebaa326f0710f7283b811d134e63d57b73f80a78",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e108/versions/2016-06-07--4044fd021ff6d5607aace48bebaa326f0710f7283b811d134e63d57b73f80a78/fr.xml",
+    "sha256": "f1cc11a8a24057f2c2b8083d0f853cf480a9429fc594151ac7d29f981fd9ba53",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E108"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e108:2016-06-07--4044fd021ff6d5607aace48bebaa326f0710f7283b811d134e63d57b73f80a78#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/92 Article 108 (ex-article 88 TCE) 1. La Commission procède avec les États membres à l'examen permanent des régimes d'aides existant dans ces États. Elle propose à ceux-ci les mesures utiles exigées par le développement progressif ou le fonctionnement du marché intérieur. 2. Si, après avoir mis les intéressés en demeure de présenter leurs observations, la Commission constate qu'une aide accordée par un État ou au moyen de ressources d'État n'est pas compatible avec le marché intérieur aux termes de l'article 107, ou que cette aide est appliquée de façon abusive, elle décide que l'État intéressé doit la supprimer ou la modifier dans le délai qu'elle détermine. Si l'État en cause ne se conforme pas à cette décision dans le délai imparti, la Commission ou tout autre État intéressé peut saisir directement la Cour de justice de l'Union européenne, par dérogation aux articles 258 et 259. Sur demande d'un État membre, le Conseil, statuant à l'unanimité, peut décider qu'une aide, instituée ou à instituer par cet État, doit être considérée comme compatible avec le marché intérieur, en dérogation des dispositions de l'article 107 ou des règlements prévus à l'article 109, si des circonstances exceptionnelles justifient une telle décision. Si, à l'égard de cette aide, la Commission a ouvert la procédure prévue au présent paragraphe, premier alinéa, la demande de l'État intéressé adressée au Conseil aura pour effet de suspendre ladite procédure jusqu'à la prise de position du Conseil. Toutefois, si le Conseil n'a pas pris position dans un délai de trois mois à compter de la demande, la Commission statue. 3. La Commission est informée, en temps utile pour présenter ses observations, des projets tendant à instituer ou à modifier des aides. Si elle estime qu'un projet n'est pas compatible avec le marché intérieur, aux termes de l'article 107, elle ouvre sans délai la procédure prévue au paragraphe précédent. L'État membre intéressé ne peut mettre à exécution les mesures projetées, avant que cette procédure ait abouti à une décision finale. 4. La Commission peut adopter des règlements concernant les catégories d'aides d'État que le Conseil a déterminées, conformément à l'article 109, comme pouvant être dispensées de la procédure prévue au paragraphe 3 du présent article.",
+      "text_sha256": "9a9ced4ace15ebbe5c6ca66c6b25cf29a1ff03757be51fa0e8f8509660644580",
+      "md_span": {
+        "start": 713,
+        "end": 3064
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

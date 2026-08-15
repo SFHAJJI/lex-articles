@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1502:2015-09-08--7fe934dcdf761168f12914bd121de725ac4394a4b3838905ba7a68179c7ee180",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014",
+  "valid_from": "2015-09-08",
+  "valid_to": "2015-09-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1502/versions/2015-09-08--7fe934dcdf761168f12914bd121de725ac4394a4b3838905ba7a68179c7ee180/en.xml",
+    "sha256": "5697550d734fa0368f002f0f5b7183eeb87704d1349b5450d2f98ecd89ffb373",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1502"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r1502:2015-09-08--7fe934dcdf761168f12914bd121de725ac4394a4b3838905ba7a68179c7ee180#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Assurance levels low, substantial and high for electronic identification means issued under a notified electronic identification scheme shall be determined with reference to the specifications and procedures set out in the Annex.\n\n2. The specifications and procedures set out in the Annex shall be used to specify the assurance level of the electronic identification means issued under a notified electronic identification scheme by determining the reliability and quality of following elements:\n\n| (a) | enrolment, as set out in section 2.1 of the Annex to this Regulation pursuant to Article 8(3)(a) of Regulation (EU) No 910/2014; |\n| --- | --- |\n\n| (b) | electronic identification means management, as set out in section 2.2 of the Annex to this Regulation pursuant to Article 8(3)(b) and (f) of Regulation (EU) No 910/2014; |\n| --- | --- |\n\n| (c) | authentication, as set out in section 2.3 of the Annex to this Regulation pursuant to Article 8(3)(c) of Regulation (EU) No 910/2014; |\n| --- | --- |\n\n| (d) | management and organisation, as set out in section 2.4 of the Annex to this Regulation pursuant to Article 8(3)(d) and (e) of Regulation (EU) No 910/2014. |\n| --- | --- |\n\n3. When the electronic identification means issued under a notified electronic identification scheme meets a requirement listed in a higher assurance level then it shall be presumed to fulfil the equivalent requirement of a lower assurance level.\n\n4. Unless otherwise stated in the relevant part of the Annex, all elements listed in the Annex for a particular assurance level of the electronic identification means issued under a notified electronic identification scheme shall be met in order to match the claimed assurance level.",
+      "text_sha256": "cbf276150138bc5def89d55f40d3e73efee11e231577b1203967fa0c0339c6ae",
+      "md_span": {
+        "start": 862,
+        "end": 2592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1502:2015-09-08--7fe934dcdf761168f12914bd121de725ac4394a4b3838905ba7a68179c7ee180#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 2625,
+        "end": 2776
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

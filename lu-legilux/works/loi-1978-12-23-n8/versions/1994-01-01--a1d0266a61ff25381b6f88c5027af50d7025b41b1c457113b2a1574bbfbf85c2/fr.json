@@ -1,0 +1,332 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/1994 : Loi du 23 décembre 1978 concernant les cartes de priorité et d'invalidité.",
+  "valid_from": "1994-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1978-12-23-n8/versions/1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2/fr.xml",
+    "sha256": "1e0ee5c44a1782a06f6e1438187d63232d29ebff7909bef79e2836d7f00ce87b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/consolide/19940101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_1er/19790102",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Il est créé une carte de priorité et des cartes d´invalidité au profit des personnes qui sont à considérer comme invalides au sens des dispositions de la présente loi.",
+      "text_sha256": "3f5ddb54c1522d96873dd8c0886bca37a5410f35899ed8a8d844dd0f5eabbd9e",
+      "md_span": {
+        "start": 676,
+        "end": 843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_2/19790102",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "La carte de priorité est délivrée aux personnes handicapées de la marche dont l´invalidité bien qu´inférieure à cinquante pour-cent leur cause cependant de sérieuses difficultés de déplacement ou de station debout.\n\nLes titulaires de la carte de priorité bénéficient d´un droit de priorité de passage ou de service, ainsi que d´une place assise en toutes circonstances.\n\nLa carte de priorité peut être délivrée conjointement avec la carte d´invalidité de la première catégorie prévue à l´article 3 ci-après.",
+      "text_sha256": "bba20160380b03219948ab1b01402ce9c8726979d2140487914428d3c62d3c18",
+      "md_span": {
+        "start": 878,
+        "end": 1385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_3/19790102",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes d´invalidité sont de trois catégories:\n\n1. celles de la première sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à trente pour-cent sans atteindre cinquante pour-cent;\n2. celles de la seconde sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à cinquante pour-cent;\n3. celles de la troisième sont délivrées aux personnes dont l´état physique ou mental est tel qu´elles ne peuvent se déplacer sans l´assistance d´une tierce personne.",
+      "text_sha256": "8684cf7e8f13a349b4867070b7c89c1591bfb766de31351a217ed4dcfb93c572",
+      "md_span": {
+        "start": 1420,
+        "end": 1938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_4/19790102",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les détenteurs d´une carte d´invalidité de la première catégorie bénéficient d´une réduction de cinquante pour-cent sur les tarifs des moyens de transports publics.\n\nLes détenteurs d´une carte d´invalidité de la deuxième catégorie bénéficient d´une réduction de soixante-quinze pour-cent sur les tarifs des moyens de transports publics. En outre ils bénéficient d´un droit de priorité de passage ou de service, ainsi que d´une place assise en toutes circonstances.\n\nLes détenteurs d´une carte d´invalidité de la troisième catégorie bénéficient des mêmes facilités que les détenteurs d´une carte de la deuxième catégorie et ce tant pour eux mêmes que pour une personne accompagnatrice.",
+      "text_sha256": "96bc3fbc12d4582925ab67062e03de78a29e9abacf08d1a5e6ec38c794ae1504",
+      "md_span": {
+        "start": 1973,
+        "end": 2657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_5/19790102",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les tarifs visés à l´article qui précède sont ceux d´un billet normal, sans préjudice de dispositions plus favorables que les administrations ou services intéressés pourront accorder en matière d´abonnements.",
+      "text_sha256": "048a957af3152b579138367d5988abfaa6bc4bb5910379335dbde5d3e46de4d2",
+      "md_span": {
+        "start": 2692,
+        "end": 2900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_6/19940101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-01-01",
+      "text_md": "Les cartes de priorité et d´invalidité sont délivrées par le ministre de l´Intérieur ou par son délégué.\n\nLes cartes peuvent être délivrées aux personnes qui résident dans le pays ou y travaillent régulièrement.\n\nLa demande est présentée sur une formule spéciale accompagnée de deux photographies récentes du prétendant-droit.\n\nElle est accompagnée en outre d´un certificat de résidence émanant de la commune de résidence habituelle de l´intéressé.\n\nPour les personnes résidant à l´étranger mais travaillant régulièrement au Grand-Duché le certificat de résidence est remplacé par une attestation de l´employeur.\n\nLa demande de carte de priorité ou d´invalidité est soumise à l´avis:\n\n1. l´intéressé\n2. du médecin-chef de l´office des assurances sociales s´il s´agit d´un accidenté de travail. Si l´intéressé touche une rente de ce chef l´attestation de l´office des assurances sociales constatant ce fait et le degré d´invalidité suffit.\n3. du médecin-directeur de la Santé Publique ou de son délégué dans tous les autres cas.",
+      "text_sha256": "a29132ab85730da014a77605cb02b5fd9589c5be406c320cbf781e6772cd6236",
+      "md_span": {
+        "start": 2935,
+        "end": 3962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_7/19790102",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "La délivrance des cartes de priorité et d´invalidité ainsi que des certificats et attestations y relatifs est faite sans frais.",
+      "text_sha256": "5d9a1775abb10f5eaf14eb44bed6baa642135dfc65eeff6817d9c4cd4b1397eb",
+      "md_span": {
+        "start": 3997,
+        "end": 4124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_8/19790102",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes de priorité et d´invalidité délivrées en raison d´une invalidité permanente à des personnes résidant au Grand-Duché sont valables sans limitation de durée.\n\nLes détenteurs sont cependant tenus de faire renouveler leur carte dans les cas suivants:\n\n1. Si la photographie ne répond plus à l´apparence du détenteur.\n2. Si l´état de la carte est tel qu´elle est devenue difficilement lisible.\n3. Si les indications portées sur la carte ne répondent plus à la réalité.\n\nLe renouvellement se fait sans frais contre remise de l´ancienne carte et de deux photographies récentes du détenteur.",
+      "text_sha256": "da20e98813d5697d061ba44ab5cacfed777d1a4126e6811e176609fd8db60a96",
+      "md_span": {
+        "start": 4159,
+        "end": 4753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_9/19790102",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes de priorité et d´invalidité délivrées en raison d´une invalidité provisoire à des personnes résidant au Grand-Duché sont valables pour une durée de cinq ans au maximum.",
+      "text_sha256": "e800a2b475127e00d2187ae394d964f8e0e8067ae96dbb9b1a2e356fb6fd5926",
+      "md_span": {
+        "start": 4788,
+        "end": 4967
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_10/19790102",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes de priorité et d´invalidité délivrées à des personnes résidant à l´étranger mais travaillant au pays sont valables pour une durée de cinq ans au maximum.",
+      "text_sha256": "c21412e871a85324ee961623ee1dfe20793d7042d6dfa3c7448e50c404f56d05",
+      "md_span": {
+        "start": 5004,
+        "end": 5168
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_11/19790102",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Le renouvellement des cartes visées aux articles 9 et 10 ci-avant est soumis aux formalités prévues par l´article 6 ci-dessus pour la première délivrance d´une carte. Il en est de même pour le remplacement d´une carte par celle d´une autre catégorie.\n\nToutefois le renouvellement des cartes visées à l´article 10 et délivrées en raison d´une invalidité permanente n´est pas sujet à l´avis des autorités visées aux trois derniers alinéas de l´article 6 ci-avant.",
+      "text_sha256": "820339529bf38ced6ef04dbb14beef0e2362d95050a492b385e6d4cd26405907",
+      "md_span": {
+        "start": 5205,
+        "end": 5666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_12/19790102",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "En cas de perte d´une carte le détenteur peut se faire délivrer sans frais et contre remise d´une photographie récente un duplicata.\n\nCe dernier est émis pour le restant de la validité de l´ancienne carte.",
+      "text_sha256": "f58aedf4be489e549b910130a5c7073a342194bd658b91435f369f3aff232d51",
+      "md_span": {
+        "start": 5703,
+        "end": 5908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_13/19790102",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Un règlement grand-ducal détermine les modèles détaillés des cartes de priorité et d´invalidité ainsi que des formules et certificats prévus par la présente loi.\n\nLe même règlement grand-ducal détermine également le signe distinctif spécial des cartes délivrées aux mutilés et invalides de guerre.\n\nSont considérés comme mutilés et invalides de guerre au sens de la disposition qui précède les invalides et mutilés luxembourgeois dont l´invalidité est démontrée provenir:\n\n1. de l´emprisonnement, de l´internement dans un camp de concentration ou de la déportation pour des raisons politiques;\n2. de l´évasion ou de la vie en cachette devant les mesures de l´occupant en raison de leur activité patriotique active dans une organisation de résistance ou de faits de résistance individuelle caractérisée, si la disparition a été le seul moyen d´éviter un danger imminent pour la vie et la liberté;\n3. l´enrôlement dans les armées et formations paramilitaires alliées; la collaboration à un service de renseignement et d´action luxembourgeoise ou alliée pour des motifs patriotiques; la collaboration à une organisation de résistance; la tentative de rejoindre les armées alliées; la désertion de l´armée allemande par un non-volontaire; l´insoumission à l´armée allemande, à l´S.H.D. et à l´R.A.D.; des mutilations volontaires pour échapper au service militaire dans l´armée allemande; de l´enrôlement forcé dans l´armée allemande, l´S.H.D. et l´R.A.D.;\n4. d´un fait caractérisé de guerre.",
+      "text_sha256": "a088e3590c0be3ffe0f42a5c98adefffec2a70e0955b10d0df8f9bed5010b6a0",
+      "md_span": {
+        "start": 5945,
+        "end": 7432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_14/19790102",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes de priorité et d´invalidité émises avant l´entrée en vigueur de la présente loi en exécution de la loi du 24 décembre 1948 concernant l´octroi de cartes spéciales à certains invalides de guerre, à certains accidentés de travail ainsi qu´aux pupilles de la nation et aux orphelins de guerre restent en vigueur jusqu´à l´expiration de leur validité.\n\nLes titulaires peuvent cependant en demander le remplacement sans frais par les cartes prévues par la présente loi, même avant la date limite de validité, en observant les formalités prévues par l´article 8, dernier alinéa de la présente loi.",
+      "text_sha256": "95326cc6356684d5e4aa605411b93c2d7847a4be7cac5f74aa3b39414642f69e",
+      "md_span": {
+        "start": 7469,
+        "end": 8071
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1948/12/24/n3/jo",
+          "text": "loi du 24 décembre 1948"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_15/19790102",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Les cartes pour pupilles de la nation et orphelins de guerre émises sous l´empire de la loi précitée du 24 décembre 1948 restent en vigueur et peuvent être prolongées ou renouvelées jusqu´à l´expiration des délais prévus par l´article 2 dernier alinéa de la prédite loi du 24 décembre 1948.\n\nToutefois les cartes de cette espèce délivrées à titre permanent pour cause d´invalidité sont remplacées par des cartes d´invalidité de la troisième catégorie prévues par l´article 3 sub c) de la présente loi, ces cartes sont du modèle spécial visé à l´article 13, deuxième alinéa de la présente loi.",
+      "text_sha256": "94a245199d366e6ddf3d3a6b05542d040f210698ab499d6a54f0bfdec6b60e44",
+      "md_span": {
+        "start": 8108,
+        "end": 8700
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1948/12/24/n3/jo",
+          "text": "loi précitée du 24 décembre 1948"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1948/12/24/n3/jo",
+          "text": "loi du 24 décembre 1948"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_16/19790102",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "Sans préjudice des dispositions prévues à l´article 13, deuxième alinéa, ainsi qu´aux articles 14 et 15 de la présente loi, la loi du 24 décembre 1948 concernant l´octroi de cartes spéciales à certains invalides de guerre, à certains accidentés de travail ainsi qu´aux pupilles de la nation et aux orphelins de guerre est abrogée.",
+      "text_sha256": "ccd51fd260bcbe9391a2791bcf5890e7ddec3e6e1130d7fd272231a0a37ed683",
+      "md_span": {
+        "start": 8737,
+        "end": 9067
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1948/12/24/n3/jo",
+          "text": "loi du 24 décembre 1948"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1978-12-23-n8:1994-01-01--a1d0266a61ff25381b6f88c5027af50d7025b41b1c457113b2a1574bbfbf85c2#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/art_17/19790102",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1979-01-02",
+      "text_md": "La présente loi entre en vigueur le premier du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "988dc252f252e48211787545affe423ae0b80fe2f75ea85fd59443e7da41428f",
+      "md_span": {
+        "start": 9104,
+        "end": 9192
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

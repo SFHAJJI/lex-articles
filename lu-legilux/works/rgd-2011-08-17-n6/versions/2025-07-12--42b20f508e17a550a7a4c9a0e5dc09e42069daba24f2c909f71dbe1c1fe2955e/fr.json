@@ -1,0 +1,386 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/04/2026 : Règlement grand-ducal du 17 août 2011 précisant le financement des mesures d'aide sociale à l'enfance et à la famille.",
+  "valid_from": "2025-07-12",
+  "valid_to": "2026-04-12",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-08-17-n6/versions/2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e/fr.xml",
+    "sha256": "edf496754ce21ba3d919361d7013b62ba7dd90d5b2eebb3a549ece2b2af89dcd",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20250712/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_1er/20110902",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — LES FORFAITS JOURNALIERS"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "**Les forfaits journaliers, prévus aux points 1, 2, 3 et 6 de l’article 15** de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, comprennent les frais de rémunération de l’ensemble du personnel, les frais d’entretien d’une mesure d’accueil de jour et/ou de nuit, les frais relatifs aux équipements de faible valeur et les frais relatifs aux contrats d’entretien de l’équipement technique d’une structure d’accueil.\n\nLes facteurs suivants sont pris en compte pour la détermination des frais de personnel:\n\n1. les frais salariaux selon les dispositions légales, réglementaires et conventionnelles en vigueur;\n2. la quote-part pour les «frais généraux» comprenant les frais liés au personnel de direction et d’administration;\n3. la quote-part pour les frais de personnel logistique et technique;\n\nLes facteurs suivants sont pris en compte pour la détermination des frais d’entretien: les frais réels et l’évolution de l’indice du coût de la vie.",
+      "text_sha256": "959ada63ba0d232749917941e48f3af25b038be9887c57165834f2ca88879b06",
+      "md_span": {
+        "start": 772,
+        "end": 1739
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_2/20110902",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — LES FORFAITS JOURNALIERS"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "**Les forfaits journaliers, prévus pour le placement familial ou l’accueil socio-éducatif de jour et de nuit ou de jour en famille d’accueil aux points 4 et 5 de l’article 15** de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, se composent d’une part «frais d’entretien» et d’une part «indemnisation». Pour ce qui est des frais d’entretien, les facteurs suivants sont pris en compte: les frais réels et l’évolution de l’indice du coût de la vie; pour ce qui est de la part indemnisation: l’évolution du salaire social minimum. La fixation de ces forfaits tient compte de la déduction préalable des prestations familiales et du boni enfants versés au prestataire conformément à l’article 18 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille.",
+      "text_sha256": "7d3fb855a5b76899791403b9ed00dabea785c0f178bb4f04ab1d1740d696a6b5",
+      "md_span": {
+        "start": 1774,
+        "end": 2567
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_3/20110902",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — LES FORFAITS JOURNALIERS"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Le Ministère de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais suivants:\n\n- les frais médicaux ou paramédicaux se rapportant à des prestations non remboursées par la Caisse de maladie;\n- les frais spéciaux pouvant incomber aux familles d’accueil en matière de prestations médicales, scolaires, paramédicales et parascolaires;\n- les frais spécifiques liés aux familles d’accueil;\n- les frais de loyer immobilier;\n- loi du 16 décembre 2008\n- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment.\n\nLes frais de formation continue et de supervision font l’objet d’une demande de subvention préalable au Ministre de la Famille et de l’Intégration qui peut, dans les limites des dispositions légales et réglementaires afférentes, accorder une participation financière à ces frais à condition qu’il s’agisse d’un organisme agréé et reconnu comme service d’aide sociale.",
+      "text_sha256": "0615203674d00847a23948663142de00f74ecee6c03ef4392700623842b3c26b",
+      "md_span": {
+        "start": 2602,
+        "end": 3720
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_4/20180415",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — LES FORFAITS HORAIRES"
+      ],
+      "article_valid_from": "2018-04-15",
+      "text_md": "**Les forfaits horaires prévus aux points 7 à 14 de l’article 15 **de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille comprennent les frais de personnel et une quote-part pour les frais généraux, les frais d’encadrement logistique, les frais d’appareil, et de matériel du prestataire. Les forfaits horaires, excepté le forfait horaire prévu au point 10 de l'article 15 de la loi précitée, sont déterminés en considération des tarifications appliquées par l'assurance maladie et l'assurance dépendance à des prestations similaires.Le forfait horaire prévu au point 10 de l'article 15 de ladite loi est fixé conformément à la tarification applicable à la fonction de médiateur en matière civile et commerciale.\n\nLes frais de formation continue, de supervision, les frais de déplacement, les frais de loyer immobilier, les frais relatifs aux équipements et infrastructures et aux contrats d’entretien de techniques spéciales du bâtiment ne sont pas compris dans les forfaits horaires.\n\nIls ne sont pas dus en cas de concours avec des remboursements dus pour des prestations de même nature par l’assurance maladie, l’assurance dépendance, l’assurance contre les accidents, la législation relative aux personnes handicapées, respectivement la législation sur l’éducation différenciée. De même les forfaits horaires ne sont pas dus pour des prestations offertes par un service étatique spécialisé.\n\nLe forfait journalier «accueil de base», de même que le forfait journalier «accueil psychothérapeutique» ne peuvent être complétés par des forfaits horaires suivant article 15, point 9) de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille. Par contre, si la situation de l’enfant le requiert, le forfait journalier «accueil orthopédagogique» peut être complété par des forfaits horaires suivant article 15, point 9) de la loi en question. Ces mesures supplémentaires sont prestées en conformité avec le projet d’intervention validé par l’Office National de l’Enfance.\n\nLe Ministre de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais:\n\n- les frais de loyer immobilier;\n- loi du 16 décembre 2008\n- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment;\n- les frais de formation continue.\n\nEn ce qui concerne les frais de déplacement, l’ONE valide la prise en charge d’un nombre déterminé de « déplacements », qui correspondront forfaitairement à 70 % d’un forfait horaire (coefficient : 0,70). Ce forfait horaire comprend à la fois la prise en charge des frais de personnel et la prise en charge des frais de transport (leasing, essence… ).",
+      "text_sha256": "434e1a50da8e5a46ab73547b645165dfe4a85500e09f93756c710d15363f19f9",
+      "md_span": {
+        "start": 3795,
+        "end": 6627
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi précitée"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "ladite loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi en question"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_5/20110902",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — LE FORFAIT MENSUEL"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Le forfait mensuel pour la prestation d’orientation, de coordination et d’évaluation des mesures d’aide, énoncée au point 15 de l’article 15 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille comprend les frais de personnel et une quote-part pour les frais généraux, les frais d’encadrement logistique, les frais de déplacement, les frais d’appareil, de matériel et d’installation du prestataire.\n\nNe sont pas compris dans le forfait mensuel, les frais de loyer immobilier, les frais relatifs aux équipements et infrastructures et aux contrats d’entretien de techniques spéciales du bâtiment.\n\nLe forfait mensuel est basé sur une moyenne des frais réels occasionnés par les prestations d’orientation, d’évaluation et de coordination.",
+      "text_sha256": "4eb9f33385ab2c0081c0549a18a72d1558a12f936cf0326986ab8d990b9017ee",
+      "md_span": {
+        "start": 6699,
+        "end": 7457
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_6/20110902",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — LES MODALITES DE FIXATON DES FORFAITS"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Les forfaits journaliers sont fixés au plus une fois par an en fonction de l’évolution des facteurs précisés aux articles 1er à 3 ci-avant. A partir du 1er janvier 2014 chaque quatrième année, les différents éléments composant le forfait pourront être revus en fonction des frais réels des organismes gestionnaires et en fonction d’éventuels nouveaux éléments. Durant les trois années subséquentes les forfaits sont adaptés en fonction des éléments retenus.\n\nLes forfaits horaires sont déterminés en considération de l’évolution des tarifications appliquées par l’assurance maladie et l’assurance dépendance à des prestations similaires.",
+      "text_sha256": "a2bdcd324934501a2277375ec0ac00909f685ed02ab28a18d3594941ec245374",
+      "md_span": {
+        "start": 7548,
+        "end": 8185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_7/20110902",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — LES MODALITES DE FIXATON DES FORFAITS"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Il est créée une commission de concertation, appelée ci-après la commission, qui a pour mission d’analyser et d’aviser les modalités de détermination des forfaits. La commission soumet son avis au Ministre de la Famille et de l’Intégration. La commission réunit:\n\n- un représentant du Ministre de la Famille et de l’Intégration;\n- un représentant du Ministre des Finances;\n- le directeur de l’Office National de l’Enfance;\n- deux représentants de gestionnaires privés offrant des mesures d’aide à l’enfance et à la famille.\n\nLes membres de la commission sont nommés par le Ministre de la Famille et de l’Intégration et le Ministre des Finances pour un mandat d’une durée de 5 ans.\n\nDes experts peuvent être invités aux séances de la commission. La présidence et le secrétariat de la commission sont assurés par un représentant de l’Etat. La période de concertation débute le 1er octobre et finit le 31 décembre de la même année.",
+      "text_sha256": "847b6781428fbd48e388aebc6ec57606204e752426899f6d9c1808ff1c98881c",
+      "md_span": {
+        "start": 8220,
+        "end": 9148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_8/20110902",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — LES MODALITES DE PARTICIPATION FINANCIERE DES BENEFICIAIRES"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour et de nuit, la participation financière des parents est déterminée de la manière suivante:\n\n1. La participation est le résultat d’une quote-part Q exprimée en un pourcentage du revenu semi-net R moins une constante C exprimée en valeur absolue: QR – C.\n2. Est à considérer comme revenu semi-net, le 12e de l’ensemble des revenus annuels, de quelque nature qu’ils soient, dont disposent les parents, déduction faite des éléments qui, selon les dispositions de la loi concernant l’impôt sur le revenu, sont mis en compte pour la détermination du revenu imposable au cas où l’ensemble de ces revenus serait soumis à l’impôt. Les seuls revenus qui sont à exclure de l’ensemble des revenus sont les prestations familiales.\n3. La constante C est de 64,45 €.\n4. Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.\n\nLes bases de calcul pour ces participations et pour la facturation en rapport sont le mois-calendrier et les périodes de présence. Sauf en cas d’accueil de moins de 8 jours au cours d’un mois-calendrier, la participation est due pour le mois entier.\n\nL’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.\n\nL’Etat facture cette participation aux parents ou responsables légaux sur base des journées de présence fournies par le prestataire et en fait le recouvrement par les moyens de droit. Les journées de présence sont à transmettre à l’Office National de l’Enfance jusqu’au 15e du mois suivant le mois d’accueil.",
+      "text_sha256": "7fc1381c1278c7cdd24f4358491d976da1888570c454d02268408fb40c006bca",
+      "md_span": {
+        "start": 9261,
+        "end": 11312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_9/20110902",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — LES MODALITES DE PARTICIPATION FINANCIERE DES BENEFICIAIRES"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Le montant de la participation financière aux frais des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, précisé à l’article 8 ci-avant, est également le maximum de la participation financière mensuelle des parents qui pourra être retenu dans le contexte d’un projet d’intervention pour la totalité des mesures d’aide au bénéfice des enfants d’une même famille concernées par les articles 9, 10 et 11 du présent règlement.",
+      "text_sha256": "7223042a95f81facc24719682e2d29ae30eb5e075827677db2cbf85a21929d25",
+      "md_span": {
+        "start": 11347,
+        "end": 11852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_10/20110902",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — LES MODALITES DE PARTICIPATION FINANCIERE DES BENEFICIAIRES"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour, la participation financière des parents correspond à 60% de la participation financière définie à l’article 8.\n\nL’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.\n\nL’Etat facture cette participation aux parents sur base du nombre des journées de présence fournies par le prestataire et en fait le recouvrement par les moyens de droit. Les données concernant le nombre des journées de présence sont à transmettre à l’Office National de l’Enfance jusqu’au 15 du mois suivant le mois d’accueil.",
+      "text_sha256": "b7c1f9c7bcf24ed792dbafcfa7f608cdcd35f882f369e90821c507b498947e5f",
+      "md_span": {
+        "start": 11889,
+        "end": 12724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_11/20110902",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — LES MODALITES DE PARTICIPATION FINANCIERE DES BENEFICIAIRES"
+      ],
+      "article_valid_from": "2011-09-02",
+      "text_md": "Dans le contexte des mesures d’aide correspondant aux forfaits définis par l’article 15 – points 7, 8, 9, 10, 11 et 12 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, la participation financière des parents est calculée sur base du nombre des forfaits horaires dont a bénéficié l’enfant.\n\nLa participation des parents est déterminée sur base de la tarification précisée ci-dessous:\n\n- Revenus de la famille supérieurs à 5 fois le salaire social minimum mensuel: € 6 par forfait horaire (n.i. 719,84).\n- Revenus de la famille supérieurs à 3 fois le salaire social minimum mensuel, mais inférieurs à 5 fois le salaire social minimum mensuel: € 4 par forfait horaire (n.i. 719,84).\n- Revenus de la famille supérieurs à 2 fois le salaire social minimum mensuel, mais inférieurs à 3 fois le salaire social minimum mensuel: € 2 par forfait horaire (n.i. 719,84).\n- Revenus de la famille inférieurs à 2 fois le salaire social minimum mensuel: gratuité.\n\nLes montants précités au titre de forfait horaire correspondent au nombre indice 719,84 et sont adaptés selon les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.\n\nL’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.\n\nL’Etat facture cette participation aux parents ou responsables légaux sur base des forfaits horaires déclarés par les prestataires et en fait le recouvrement par les moyens de droit. La déclaration des forfaits horaires prestés est à transmettre à l’Office National de l’Enfance jusqu’au 15 du mois suivant le mois de la prestation.",
+      "text_sha256": "b1fa23d9c02bfa5a002853229c94cc7e1cba719d5b44ae33796dac52ff3b0c21",
+      "md_span": {
+        "start": 12761,
+        "end": 14436
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_11bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_11bis/20130212",
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Mesures transitoires pour les années 2011 et 2012"
+      ],
+      "article_valid_from": "2013-02-12",
+      "text_md": "Les prestataires ayant droit aux forfaits journaliers pour le placement institutionnel ou l'accueil socio-éducatif de jour ou de jour et de nuit du chef des prestations effectuées entre le 1er janvier 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 2,43% des montants perçus.\n\nLes prestataires ayant droit aux forfaits horaires du chef des prestations effectuées entre le 1er octobre 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 4,55% des montants perçus.\n\nLes prestataires ayant droit aux forfaits mensuels du chef des prestations effectuées entre le 1er octobre 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 1,53% des montants perçus.",
+      "text_sha256": "78cc827b1167d3ca9b5e3da21d7cccfa3285cf19c5c0243bf997505dda3deb59",
+      "md_span": {
+        "start": 14547,
+        "end": 15296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11ter",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_11ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_11ter/20130212",
+      "type": "article",
+      "num": "Art. 11ter.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Mesures transitoires pour les années 2011 et 2012"
+      ],
+      "article_valid_from": "2013-02-12",
+      "text_md": "Pour les prestataires ayant droit à des forfaits horaires, journaliers et mensuels du chef des prestations effectuées entre le 1er janvier 2012 et le 31 décembre 2012, la liquidation du montant correspondant à la différence entre les montants des forfaits définis par le «Tableau des forfaits valable à partir du 1er janvier 2011» et les montants des forfaits fixés par le «Tableau des forfaits valable à partir du 1er janvier 2013» se fait par voie d'un paiement unique. Ces deux tableaux figurent en annexe du présent règlement grand-ducal.",
+      "text_sha256": "99ec6697d45088348f42a8cb8f1c6ba4500c5bf8d97df759a693c1b5622d16f8",
+      "md_span": {
+        "start": 15339,
+        "end": 15881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_12/20250712",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": "2025-07-12",
+      "text_md": "En application de l’article 16 de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, les montants des forfaits valables à partir de la mise en vigueur du présent règlement grand-ducal sont fixés à l’annexe « Tableau des forfaits valables à partir du 1er janvier 2025 ».\n\nLes montants des forfaits fixés à l’annexe 11 correspondent au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés périodiquement aux variations du coût de la vie conformément aux dispositions de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et sans préjudice quant aux modalités de détermination des forfaits prévus par le présent règlement grand-ducal.\n\nDans le contexte des forfaits définis par l’article 15 de la loi aux points 1, 2, 3, 6, 7 et 8, l’ONE pourra verser aux organismes dûment reconnus comme services d’aide sociale à l’enfance des avances financières ne dépassant pas les 90% de l’estimation prévisionnelle du volume de mesures d’aide à prester au cours d’une période de six mois.",
+      "text_sha256": "d0e15bc61c2d50a4f26262aea3c0f4056ea345d7a4f8cc049ad97a90389eaf3b",
+      "md_span": {
+        "start": 15957,
+        "end": 17098
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi modifiée du 16 décembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/art_13/20240705",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": "2025-07-12",
+      "text_md": "Notre Ministre de la Famille et de l’Intégration et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "2e032d234a1e3f761f66ba3747580f7e5275e64768b7e348e8f1bb9e6a5d0bcd",
+      "md_span": {
+        "start": 17135,
+        "end": 17323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2011-08-17-n6:2025-07-12--42b20f508e17a550a7a4c9a0e5dc09e42069daba24f2c909f71dbe1c1fe2955e#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **TABLEAU DES FORFAITS ****valable à partir du 1er janvier 2025**(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008) |\n| --- |\n\n**A. Forfaits journaliers « institutionnels »**\n\n|  | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 36,1402 |\n| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 40,6493 |\n| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |\n| d’accueil psychothérapeutique d’accueil urgent en situation de crise psychosociale aiguë d’accueil d’enfants de moins de trois ansd’accueil psychothérapeutique limité aux périodes scolairesd’accueil dans un petit groupe | 3.13.23.33.43.5 | € 59,0328€ 46,8415€ 60,6667€ 41,7534€ 63,9162 |\n| Forfait journalier pour l’accueil socio-éducatif de jour dans un |  |  |\n| foyer orthopédagogiquefoyer psychothérapeutiquefoyer psychothérapeutique limité aux périodes scolaires | 6.16.26.3 | € 14,6777€ 28,2781€ 28,2781 |\n\n**B. Forfaits journaliers « accueil en famille »**\n\n|  | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil : |  |  |\n| Jour et Nuit : enfant de moins de 6 ans | 4.01 | € 1,9097 |\n| Jour et Nuit : enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |\n| Jour et Nuit : enfant de 12 ans et plus | 4.03 | € 2,4816 |\n| Jour – journée entière | 5.01 | € 1,3404 |\n| Jour – demi-journée | 5.02 | € 0,9691 |\n| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour : |  |  |\n| Jour et Nuit : accueil d’un enfant | 4.11 | € 3,8789 |\n| Jour : accueil d’un enfant – journée entière | 5.11 | € 2,7744 |\n| Jour : accueil d’un enfant – demi-journée | 5.12 | € 1,3865 |\n\n**C. Forfaits horaires « aide et assistance »**\n\n| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Forfait pour l’aide socio-familiale en famille | 7 | € 9,5251 |\n| Déplacement | 7D | € 6,6676 |\n| Forfait pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 14,8642 |\n| Déplacement | 8.1D | € 10,4049 |\n| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 13,4702 |\n| Déplacement | 8.2D | € 9,4291 |\n| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE) | 8.3 | € 17,0577 |\n| Déplacement | 8.3D | € 11,9404 |\n\n**D. Forfaits horaires « consultation – soutien »**\n\n| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,6131 |\n| Déplacement | 9.0D | € 10,6583 |\n| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,2139) | 9.1 | € 9,2420 |\n| Déplacement | 9.1D | € 12,9388 |\n\n- quote-part\n\n| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 6,8252 |\n| Déplacement | 11A0D | € 9,5553 |\n| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,2803) | 11A1 | € 8,7386 |\n| Déplacement | 11A1D | € 12,2340 |\n| **Les forfaits correspondent à une séance d’une durée de 30 minutes.** |  |  |\n| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute) | 11B | € 6,8252 |\n| Déplacement | 11BD | € 9,5553 |\n\n- quote-part\n\n| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée 30 minutes ** | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Séance pour consultation ou guidance | 11C1 | € 6,8252 |\n| Bilan orthophonique | 11C2 | € 8,1893 |\n| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,4596 |\n| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 8,1893 |\n| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,8252 |\n| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,8252 |\n| Déplacement | 11CD | € 9,5553 |\n\n- quote-part\n\n**E. Forfaits horaires « assistance des prestataires** **»**\n\n| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |\n| --- | --- | --- |\n| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |\n| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |\n| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |\n| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |\n| Forfait horaire pour l’assistance psychothérapeutique des prestataires |  |  |\n| prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1592) | 14.11 | € 8,6283 |\n| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |\n\n- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.",
+      "text_sha256": "4ea71f966e232de6eee6a59164022ba09adbd722074f320dea737416c6939ff4",
+      "md_span": {
+        "start": 17370,
+        "end": 23367
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/16/n4/jo",
+          "text": "loi du 16 décembre 2008"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

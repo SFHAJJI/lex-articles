@@ -1,0 +1,1601 @@
+---
+lex_id: 'eu-eurlex:32015l2366:2015-12-23--7ce4a67961f3a2dbd2efe4f38a602fbf89ebf2fc2d141ecb5d88ce3a3f3e1f07'
+title: 'Directive (EU) 2015/2366'
+valid_from: '2015-12-23'
+valid_to: '2024-04-07'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L2366-20151223'
+source_sha256: 'e9063e8919bf93bd2b92ae0c6f816ad83bcf6ca42a5b97cdc277214e5080e1c3'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+**1.** This Directive establishes the rules in accordance with which Member States shall distinguish between the following categories of payment service provider:(a) credit institutions as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (1), including branches thereof within the meaning of point (17) Article 4(1) of that Regulation where such branches are located in the Union, whether the head offices of those branches are located within the Union or, in accordance with Article 47 of Directive 2013/36/EU and with national law, outside the Union;(b) electronic money institutions within the meaning of point (1) of Article 2 of Directive 2009/110/EC, including, in accordance with Article 8 of that Directive and with national law, branches thereof, where such branches are located within the Union and their head offices are located outside the Union, in as far as the payment services provided by those branches are linked to the issuance of electronic money;(c) post office giro institutions which are entitled under national law to provide payment services;(d) payment institutions;(e) the ECB and national central banks when not acting in their capacity as monetary authority or other public authorities;(f) Member States or their regional or local authorities when not acting in their capacity as public authorities.
+
+**2.** This Directive also establishes rules concerning:(a) the transparency of conditions and information requirements for payment services; and(b) the respective rights and obligations of payment service users and payment service providers in relation to the provision of payment services as a regular occupation or business activity.
+
+<a id="art_2"></a>
+
+### Article 2 — Scope
+
+**1.** This Directive applies to payment services provided within the Union.
+
+**2.** Titles III and IV apply to payment transactions in the currency of a Member State where both the payer’s payment service provider and the payee’s payment service provider are, or the sole payment service provider in the payment transaction is, located within the Union.
+
+**3.** Title III, except for point (b) of Article 45(1), point (2)(e) of Article 52 and point (a) of Article 56, and Title IV, except for Articles 81 to 86, apply to payment transactions in a currency that is not the currency of a Member State where both the payer’s payment service provider and the payee’s payment service provider are, or the sole payment service provider in the payment transaction is, located within the Union, in respect to those parts of the payments transaction which are carried out in the Union.
+
+**4.** Title III, except for point (b) of Article 45(1), point (2)(e) of Article 52, point (5)(g) of Article 52 and point (a) of Article 56, and Title IV, except for Article 62(2) and (4), Articles 76, 77, 81, 83(1), 89 and 92, apply to payment transactions in all currencies where only one of the payment service providers is located within the Union, in respect to those parts of the payments transaction which are carried out in the Union.
+
+**5.** Member States may exempt institutions referred to in points (4) to (23) of Article 2(5) of Directive 2013/36/EU from the application of all or part of the provisions of this Directive.
+
+<a id="art_3"></a>
+
+### Article 3 — Exclusions
+
+This Directive does not apply to the following:
+
+(a) payment transactions made exclusively in cash directly from the payer to the payee, without any intermediary intervention;
+
+(b) payment transactions from the payer to the payee through a commercial agent authorised via an agreement to negotiate or conclude the sale or purchase of goods or services on behalf of only the payer or only the payee;
+
+(c) professional physical transport of banknotes and coins, including their collection, processing and delivery;
+
+(d) payment transactions consisting of the non-professional cash collection and delivery within the framework of a non-profit or charitable activity;
+
+(e) services where cash is provided by the payee to the payer as part of a payment transaction following an explicit request by the payment service user just before the execution of the payment transaction through a payment for the purchase of goods or services;
+
+(f) cash-to-cash currency exchange operations where the funds are not held on a payment account;
+
+(g) payment transactions based on any of the following documents drawn on the payment service provider with a view to placing funds at the disposal of the payee: (i) paper cheques governed by the Geneva Convention of 19 March 1931 providing a uniform law for cheques; (ii) paper cheques similar to those referred to in point (i) and governed by the laws of Member States which are not party to the Geneva Convention of 19 March 1931 providing a uniform law for cheques; (iii) paper-based drafts in accordance with the Geneva Convention of 7 June 1930 providing a uniform law for bills of exchange and promissory notes; (iv) paper-based drafts similar to those referred to in point (iii) and governed by the laws of Member States which are not party to the Geneva Convention of 7 June 1930 providing a uniform law for bills of exchange and promissory notes; (v) paper-based vouchers; (vi) paper-based traveller’s cheques; (vii) paper-based postal money orders as defined by the Universal Postal Union;
+
+(h) payment transactions carried out within a payment or securities settlement system between settlement agents, central counterparties, clearing houses and/or central banks and other participants of the system, and payment service providers, without prejudice to Article 35;
+
+(i) payment transactions related to securities asset servicing, including dividends, income or other distributions, or redemption or sale, carried out by persons referred to in point (h) or by investment firms, credit institutions, collective investment undertakings or asset management companies providing investment services and any other entities allowed to have the custody of financial instruments;
+
+(j) services provided by technical service providers, which support the provision of payment services, without them entering at any time into possession of the funds to be transferred, including processing and storage of data, trust and privacy protection services, data and entity authentication, information technology (IT) and communication network provision, provision and maintenance of terminals and devices used for payment services, with the exclusion of payment initiation services and account information services;
+
+(k) services based on specific payment instruments that can be used only in a limited way, that meet one of the following conditions: (i) instruments allowing the holder to acquire goods or services only in the premises of the issuer or within a limited network of service providers under direct commercial agreement with a professional issuer; (ii) instruments which can be used only to acquire a very limited range of goods or services; (iii) instruments valid only in a single Member State provided at the request of an undertaking or a public sector entity and regulated by a national or regional public authority for specific social or tax purposes to acquire specific goods or services from suppliers having a commercial agreement with the issuer;
+
+(l) payment transactions by a provider of electronic communications networks or services provided in addition to electronic communications services for a subscriber to the network or service: (i) for purchase of digital content and voice-based services, regardless of the device used for the purchase or consumption of the digital content and charged to the related bill; or (ii) performed from or via an electronic device and charged to the related bill within the framework of a charitable activity or for the purchase of tickets; provided that the value of any single payment transaction referred to in points (i) and (ii) does not exceed EUR 50 and: — the cumulative value of payment transactions for an individual subscriber does not exceed EUR 300 per month, or — where a subscriber pre-funds its account with the provider of the electronic communications network or service, the cumulative value of payment transactions does not exceed EUR 300 per month;
+
+(m) payment transactions carried out between payment service providers, their agents or branches for their own account;
+
+(n) payment transactions and related services between a parent undertaking and its subsidiary or between subsidiaries of the same parent undertaking, without any intermediary intervention by a payment service provider other than an undertaking belonging to the same group;
+
+(o) cash withdrawal services offered by means of ATM by providers, acting on behalf of one or more card issuers, which are not a party to the framework contract with the customer withdrawing money from a payment account, on condition that those providers do not conduct other payment services as referred to in Annex I. Nevertheless the customer shall be provided with the information on any withdrawal charges referred to in Articles 45, 48, 49 and 59 before carrying out the withdrawal as well as on receipt of the cash at the end of the transaction after withdrawal.
+
+<a id="art_4"></a>
+
+### Article 4 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘home Member State’ means either of the following: (a) the Member State in which the registered office of the payment service provider is situated; or (b) if the payment service provider has, under its national law, no registered office, the Member State in which its head office is situated;
+
+(2) ‘host Member State’ means the Member State other than the home Member State in which a payment service provider has an agent or a branch or provides payment services;
+
+(3) ‘payment service’ means any business activity set out in Annex I;
+
+(4) ‘payment institution’ means a legal person that has been granted authorisation in accordance with Article 11 to provide and execute payment services throughout the Union;
+
+(5) ‘payment transaction’ means an act, initiated by the payer or on his behalf or by the payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and the payee;
+
+(6) ‘remote payment transaction’ means a payment transaction initiated via internet or through a device that can be used for distance communication;
+
+(7) ‘payment system’ means a funds transfer system with formal and standardised arrangements and common rules for the processing, clearing and/or settlement of payment transactions;
+
+(8) ‘payer’ means a natural or legal person who holds a payment account and allows a payment order from that payment account, or, where there is no payment account, a natural or legal person who gives a payment order;
+
+(9) ‘payee’ means a natural or legal person who is the intended recipient of funds which have been the subject of a payment transaction;
+
+(10) ‘payment service user’ means a natural or legal person making use of a payment service in the capacity of payer, payee, or both;
+
+(11) ‘payment service provider’ means a body referred to in Article 1(1) or a natural or legal person benefiting from an exemption pursuant to Article 32 or 33;
+
+(12) ‘payment account’ means an account held in the name of one or more payment service users which is used for the execution of payment transactions;
+
+(13) ‘payment order’ means an instruction by a payer or payee to its payment service provider requesting the execution of a payment transaction;
+
+(14) ‘payment instrument’ means a personalised device(s) and/or set of procedures agreed between the payment service user and the payment service provider and used in order to initiate a payment order;
+
+(15) ‘payment initiation service’ means a service to initiate a payment order at the request of the payment service user with respect to a payment account held at another payment service provider;
+
+(16) ‘account information service’ means an online service to provide consolidated information on one or more payment accounts held by the payment service user with either another payment service provider or with more than one payment service provider;
+
+(17) ‘account servicing payment service provider’ means a payment service provider providing and maintaining a payment account for a payer;
+
+(18) ‘payment initiation service provider’ means a payment service provider pursuing business activities as referred to in point (7) of Annex I;
+
+(19) ‘account information service provider’ means a payment service provider pursuing business activities as referred to in point (8) of Annex I;
+
+(20) ‘consumer’ means a natural person who, in payment service contracts covered by this Directive, is acting for purposes other than his or her trade, business or profession;
+
+(21) ‘framework contract’ means a payment service contract which governs the future execution of individual and successive payment transactions and which may contain the obligation and conditions for setting up a payment account;
+
+(22) ‘money remittance’ means a payment service where funds are received from a payer, without any payment accounts being created in the name of the payer or the payee, for the sole purpose of transferring a corresponding amount to a payee or to another payment service provider acting on behalf of the payee, and/or where such funds are received on behalf of and made available to the payee;
+
+(23) ‘direct debit’ means a payment service for debiting a payer’s payment account, where a payment transaction is initiated by the payee on the basis of the consent given by the payer to the payee, to the payee’s payment service provider or to the payer’s own payment service provider;
+
+(24) ‘credit transfer’ means a payment service for crediting a payee’s payment account with a payment transaction or a series of payment transactions from a payer’s payment account by the payment service provider which holds the payer’s payment account, based on an instruction given by the payer;
+
+(25) ‘funds’ means banknotes and coins, scriptural money or electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC;
+
+(26) ‘value date’ means a reference time used by a payment service provider for the calculation of interest on the funds debited from or credited to a payment account;
+
+(27) ‘reference exchange rate’ means the exchange rate which is used as the basis to calculate any currency exchange and which is made available by the payment service provider or comes from a publicly available source;
+
+(28) ‘reference interest rate’ means the interest rate which is used as the basis for calculating any interest to be applied and which comes from a publicly available source which can be verified by both parties to a payment service contract;
+
+(29) ‘authentication’ means a procedure which allows the payment service provider to verify the identity of a payment service user or the validity of the use of a specific payment instrument, including the use of the user’s personalised security credentials;
+
+(30) ‘strong customer authentication’ means an authentication based on the use of two or more elements categorised as knowledge (something only the user knows), possession (something only the user possesses) and inherence (something the user is) that are independent, in that the breach of one does not compromise the reliability of the others, and is designed in such a way as to protect the confidentiality of the authentication data;
+
+(31) ‘personalised security credentials’ means personalised features provided by the payment service provider to a payment service user for the purposes of authentication;
+
+(32) ‘sensitive payment data’ means data, including personalised security credentials which can be used to carry out fraud. For the activities of payment initiation service providers and account information service providers, the name of the account owner and the account number do not constitute sensitive payment data;
+
+(33) ‘unique identifier’ means a combination of letters, numbers or symbols specified to the payment service user by the payment service provider and to be provided by the payment service user to identify unambiguously another payment service user and/or the payment account of that other payment service user for a payment transaction;
+
+(34) ‘means of distance communication’ means a method which, without the simultaneous physical presence of the payment service provider and the payment service user, may be used for the conclusion of a payment services contract;
+
+(35) ‘durable medium’ means any instrument which enables the payment service user to store information addressed personally to that payment service user in a way accessible for future reference for a period of time adequate to the purposes of the information and which allows the unchanged reproduction of the information stored;
+
+(36) ‘microenterprise’ means an enterprise, which at the time of conclusion of the payment service contract, is an enterprise as defined in Article 1 and Article 2(1) and (3) of the Annex to Recommendation 2003/361/EC;
+
+(37) ‘business day’ means a day on which the relevant payment service provider of the payer or the payment service provider of the payee involved in the execution of a payment transaction is open for business as required for the execution of a payment transaction;
+
+(38) ‘agent’ means a natural or legal person who acts on behalf of a payment institution in providing payment services;
+
+(39) ‘branch’ means a place of business other than the head office which is a part of a payment institution, which has no legal personality and which carries out directly some or all of the transactions inherent in the business of a payment institution; all of the places of business set up in the same Member State by a payment institution with a head office in another Member State shall be regarded as a single branch;
+
+(40) ‘group’ means a group of undertakings which are linked to each other by a relationship referred to in Article 22(1), (2) or (7) of Directive 2013/34/EU or undertakings as defined in Articles 4, 5, 6 and 7 of Commission Delegated Regulation (EU) No 241/2014 (2), which are linked to each other by a relationship referred to in Article 10(1) or in Article 113(6) or (7) of Regulation (EU) No 575/2013;
+
+(41) ‘electronic communications network’ means a network as defined in point (a) of Article 2 of Directive 2002/21/EC of the European Parliament and of the Council (3);
+
+(42) ‘electronic communications service’ means a service as defined in point (c) of Article 2 of Directive 2002/21/EC;
+
+(43) ‘digital content’ means goods or services which are produced and supplied in digital form, the use or consumption of which is restricted to a technical device and which do not include in any way the use or consumption of physical goods or services;
+
+(44) ‘acquiring of payment transactions’ means a payment service provided by a payment service provider contracting with a payee to accept and process payment transactions, which results in a transfer of funds to the payee;
+
+(45) ‘issuing of payment instruments’ means a payment service by a payment service provider contracting to provide a payer with a payment instrument to initiate and process the payer’s payment transactions;
+
+(46) ‘own funds’ means funds as defined in point 118 of Article 4(1) of Regulation (EU) No 575/2013 where at least 75 % of the Tier 1 capital is in the form of Common Equity Tier 1 capital as referred to in Article 50 of that Regulation and Tier 2 is equal to or less than one third of Tier 1 capital;
+
+(47) ‘payment brand’ means any material or digital name, term, sign, symbol or combination of them, capable of denoting under which payment card scheme card-based payment transactions are carried out;
+
+(48) ‘co-badging’ means the inclusion of two or more payment brands or payment applications of the same payment brand on the same payment instrument.
+
+<a id="art_5"></a>
+
+### Article 5 — Applications for authorisation
+
+**1.** For authorisation as a payment institution, an application shall be submitted to the competent authorities of the home Member State, together with the following:(a) a programme of operations setting out in particular the type of payment services envisaged;(b) a business plan including a forecast budget calculation for the first 3 financial years which demonstrates that the applicant is able to employ the appropriate and proportionate systems, resources and procedures to operate soundly;(c) evidence that the payment institution holds initial capital as provided for in Article 7;(d) for the payment institutions referred to in Article 10(1), a description of the measures taken for safeguarding payment service users’ funds in accordance with Article 10;(e) a description of the applicant’s governance arrangements and internal control mechanisms, including administrative, risk management and accounting procedures, which demonstrates that those governance arrangements, control mechanisms and procedures are proportionate, appropriate, sound and adequate;(f) a description of the procedure in place to monitor, handle and follow up a security incident and security related customer complaints, including an incidents reporting mechanism which takes account of the notification obligations of the payment institution laid down in Article 96;(g) a description of the process in place to file, monitor, track and restrict access to sensitive payment data;(h) a description of business continuity arrangements including a clear identification of the critical operations, effective contingency plans and a procedure to regularly test and review the adequacy and efficiency of such plans;(i) a description of the principles and definitions applied for the collection of statistical data on performance, transactions and fraud;(j) a security policy document, including a detailed risk assessment in relation to its payment services and a description of security control and mitigation measures taken to adequately protect payment service users against the risks identified, including fraud and illegal use of sensitive and personal data;(k) for payment institutions subject to the obligations in relation to money laundering and terrorist financing under Directive (EU) 2015/849 of the European Parliament and of the Council (4) and Regulation (EU) 2015/847 of the European Parliament and of the Council (5), a description of the internal control mechanisms which the applicant has established in order to comply with those obligations;(l) a description of the applicant’s structural organisation, including, where applicable, a description of the intended use of agents and branches and of the off-site and on-site checks that the applicant undertakes to perform on them at least annually, as well as a description of outsourcing arrangements, and of its participation in a national or international payment system;(m) the identity of persons holding in the applicant, directly or indirectly, qualifying holdings within the meaning of point (36) of Article 4(1) of Regulation (EU) No 575/2013, the size of their holdings and evidence of their suitability taking into account the need to ensure the sound and prudent management of a payment institution;(n) the identity of directors and persons responsible for the management of the payment institution and, where relevant, persons responsible for the management of the payment services activities of the payment institution, as well as evidence that they are of good repute and possess appropriate knowledge and experience to perform payment services as determined by the home Member State of the payment institution;(o) where applicable, the identity of statutory auditors and audit firms as defined in Directive 2006/43/EC of the European Parliament and of the Council (6);(p) the applicant’s legal status and articles of association;(q) the address of the applicant’s head office.
+
+For the purposes of points (d), (e) (f) and (l) of the first subparagraph, the applicant shall provide a description of its audit arrangements and the organisational arrangements it has set up with a view to taking all reasonable steps to protect the interests of its users and to ensure continuity and reliability in the performance of payment services.
+
+The security control and mitigation measures referred to in point (j) of the first subparagraph shall indicate how they ensure a high level of technical security and data protection, including for the software and IT systems used by the applicant or the undertakings to which it outsources the whole or part of its operations. Those measures shall also include the security measures laid down in Article 95(1). Those measures shall take into account EBA’s guidelines on security measures as referred to in Article 95(3) when in place.
+
+**2.** Member States shall require undertakings that apply for authorisation to provide payment services as referred to in point (7) of Annex I, as a condition of their authorisation, to hold a professional indemnity insurance, covering the territories in which they offer services, or some other comparable guarantee against liability to ensure that they can cover their ►C1 liabilities as specified in Articles 73, 90 and 92.** ◄ **
+
+**3.** Member States shall require undertakings that apply for registration to provide payment services as referred to in point (8) of Annex I, as a condition of their registration, to hold a professional indemnity insurance covering the territories in which they offer services, or some other comparable guarantee against their liability vis-à-vis the account servicing payment service provider or the payment service user resulting from non-authorised or fraudulent access to or non-authorised or fraudulent use of payment account information.
+
+**4.** By 13 January 2017, EBA shall, after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, issue guidelines, addressed to the competent authorities, in accordance with Article 16 of Regulation (EU) No 1093/2010 on the criteria on how to stipulate the minimum monetary amount of the professional indemnity insurance or other comparable guarantee referred to in paragraphs 2 and 3.
+
+In developing the guidelines referred to in the first subparagraph, EBA shall take account of the following:
+
+(a) the risk profile of the undertaking;
+
+(b) whether the undertaking provides other payment services as referred to in Annex I or is engaged in other business;
+
+(c) the size of the activity: (i) for undertakings that apply for authorisation to provide payment services as referred to in point (7) of Annex I, the value of the transactions initiated; (ii) for undertakings that apply for registration to provide payment services as referred to in point (8) of Annex I, the number of clients that make use of the account information services;
+
+(d) the specific characteristics of comparable guarantees and the criteria for their implementation.
+
+EBA shall review those guidelines on a regular basis.
+
+**5.** By 13 July 2017, EBA shall, after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 concerning the information to be provided to the competent authorities in the application for the authorisation of payment institutions, including the requirements laid down in points (a), (b), (c), (e) and (g) to (j) of the first subparagraph of paragraph 1 of this Article.
+
+EBA shall review those guidelines on a regular basis and in any event at least every 3 years.
+
+**6.** Taking into account, where appropriate, experience acquired in the application of the guidelines referred to in paragraph 5, EBA may develop draft regulatory technical standards specifying the information to be provided to the competent authorities in the application for the authorisation of payment institutions, including the requirements laid down in points (a), (b), (c), (e) and (g) to (j) of paragraph 1.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**7.** The information referred to in paragraph 4 shall be notified to competent authorities in accordance with paragraph 1.
+
+<a id="art_6"></a>
+
+### Article 6 — Control of the shareholding
+
+**1.** Any natural or legal person who has taken a decision to acquire or to further increase, directly or indirectly, a qualifying holding within the meaning of point (36) of Article 4(1)of Regulation (EU) No 575/2013 in a payment institution, as a result of which the proportion of the capital or of the voting rights held would reach or exceed 20 %, 30 % or 50 %, or so that the payment institution would become its subsidiary, shall inform the competent authorities of that payment institution in writing of their intention in advance. The same applies to any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding, or to reduce its qualifying holding so that the proportion of the capital or of the voting rights held would fall below 20 %, 30 % or 50 %, or so that the payment institution would cease to be its subsidiary.
+
+**2.** The proposed acquirer of a qualifying holding shall supply to the competent authority information indicating the size of the intended holding and relevant information referred to in Article 23(4) of Directive 2013/36/EU.
+
+**3.** Member States shall require that where the influence exercised by a proposed acquirer, as referred to in paragraph 2 is likely to operate to the detriment of the prudent and sound management of the payment institution, the competent authorities shall express their opposition or take other appropriate measures to bring that situation to an end. Such measures may include injunctions, penalties against directors or the persons responsible for the management, or the suspension of the exercise of the voting rights attached to the shares held by the shareholders or members of the payment institution in question.
+
+Similar measures shall apply to natural or legal persons who fail to comply with the obligation to provide prior information, as laid down in this Article.
+
+**4.** If a holding is acquired despite the opposition of the competent authorities, Member States shall, regardless of any other penalty to be adopted, provide for the exercise of the corresponding voting rights to be suspended, the nullity of votes cast or the possibility of annulling those votes.
+
+<a id="art_7"></a>
+
+### Article 7 — Initial capital
+
+Member States shall require payment institutions to hold, at the time of authorisation, initial capital, comprised of one or more of the items referred to in Article 26(1)(a) to (e) of Regulation (EU) No 575/2013 as follows:
+
+(a) where the payment institution provides only the payment service as referred to in point (6) of Annex I, its capital shall at no time be less than EUR 20 000 ;
+
+(b) where the payment institution provides the payment service as referred to in point (7) of Annex I, its capital shall at no time be less than EUR 50 000 ;
+
+(c) where the payment institution provides any of the payment services as referred to in points (1) to (5) of Annex I, its capital shall at no time be less than EUR 125 000 .
+
+<a id="art_8"></a>
+
+### Article 8 — Own funds
+
+**1.** The payment institution’s own funds, shall not fall below the amount of initial capital as referred to in Article 7 or the amount of own funds as calculated in accordance with Article 9 of this Directive, whichever is the higher.
+
+**2.** Member States shall take the necessary measures to prevent the multiple use of elements eligible for own funds where the payment institution belongs to the same group as another payment institution, credit institution, investment firm, asset management company or insurance undertaking. This paragraph shall also apply where a payment institution has a hybrid character and carries out activities other than providing payment services.
+
+**3.** If the conditions laid down in Article 7 of Regulation (EU) No 575/2013 are met, Member States or their competent authorities may choose not to apply Article 9 of this Directive to payment institutions which are included in the consolidated supervision of the parent credit institution pursuant to Directive 2013/36/EU.
+
+<a id="art_9"></a>
+
+### Article 9 — Calculation of own funds
+
+**1.** Notwithstanding the initial capital requirements set out in Article 7, Member States shall require payment institutions, except those offering only services as referred to in point (7) or (8), or both, of Annex I, to hold, at all times, own funds calculated in accordance with one of the following three methods, as determined by the competent authorities in accordance with national legislation:Method AThe payment institution’s own funds shall amount to at least 10 % of its fixed overheads of the preceding year. The competent authorities may adjust that requirement in the event of a material change in a payment institution’s business since the preceding year. Where a payment institution has not completed a full year’s business at the date of the calculation, the requirement shall be that its own funds amount to at least 10 % of the corresponding fixed overheads as projected in its business plan, unless an adjustment to that plan is required by the competent authorities.Method BThe payment institution’s own funds shall amount to at least the sum of the following elements multiplied by the scaling factor k defined in paragraph 2, where payment volume (PV) represents one twelfth of the total amount of payment transactions executed by the payment institution in the preceding year:(a) 4,0 % of the slice of PV up to EUR 5 million;plus(b) 2,5 % of the slice of PV above EUR 5 million up to EUR 10 million;plus(c) 1 % of the slice of PV above EUR 10 million up to EUR 100 million;plus(d) 0,5 % of the slice of PV above EUR 100 million up to EUR 250 million;plus(e) 0,25 % of the slice of PV above EUR 250 million.Method CThe payment institution’s own funds shall amount to at least the relevant indicator defined in point (a), multiplied by the multiplication factor defined in point (b) and by the scaling factor k defined in paragraph 2.(a) The relevant indicator is the sum of the following:(i) interest income;(ii) interest expenses;(iii) commissions and fees received; and(iv) other operating income.Each element shall be included in the sum with its positive or negative sign. Income from extraordinary or irregular items shall not be used in the calculation of the relevant indicator. Expenditure on the outsourcing of services rendered by third parties may reduce the relevant indicator if the expenditure is incurred from an undertaking subject to supervision under this Directive. The relevant indicator is calculated on the basis of the 12-monthly observation at the end of the previous financial year. The relevant indicator shall be calculated over the previous financial year. Nevertheless own funds calculated according to Method C shall not fall below 80 % of the average of the previous 3 financial years for the relevant indicator. When audited figures are not available, business estimates may be used.(b) The multiplication factor shall be:(i) 10 % of the slice of the relevant indicator up to EUR 2,5 million;(ii) 8 % of the slice of the relevant indicator from EUR 2,5 million up to EUR 5 million;(iii) 6 % of the slice of the relevant indicator from EUR 5 million up to EUR 25 million;(iv) 3 % of the slice of the relevant indicator from EUR 25 million up to 50 million;(v) 1,5 % above EUR 50 million.
+
+**2.** The scaling factor k to be used in Methods B and C shall be:(a) 0,5 where the payment institution provides only the payment service as referred to in point (6) of Annex I;(b) 1 where the payment institution provides any of the payment services as referred to in any of points (1) to (5) of Annex I.
+
+**3.** The competent authorities may, based on an evaluation of the risk-management processes, risk loss data base and internal control mechanisms of the payment institution, require the payment institution to hold an amount of own funds which is up to 20 % higher than the amount which would result from the application of the method chosen in accordance with paragraph 1, or permit the payment institution to hold an amount of own funds which is up to 20 % lower than the amount which would result from the application of the method chosen in accordance with paragraph 1.
+
+<a id="art_10"></a>
+
+### Article 10 — Safeguarding requirements
+
+**1.** The Member States or competent authorities shall require a payment institution which provides payment services as referred to in points (1) to (6) of Annex I to safeguard all funds which have been received from the payment service users or through another payment service provider for the execution of payment transactions, in either of the following ways:(a) funds shall not be commingled at any time with the funds of any natural or legal person other than payment service users on whose behalf the funds are held and, where they are still held by the payment institution and not yet delivered to the payee or transferred to another payment service provider by the end of the business day following the day when the funds have been received, they shall be deposited in a separate account in a credit institution or invested in secure, liquid low-risk assets as defined by the competent authorities of the home Member State; and they shall be insulated in accordance with national law in the interest of the payment service users against the claims of other creditors of the payment institution, in particular in the event of insolvency;(b) funds shall be covered by an insurance policy or some other comparable guarantee from an insurance company or a credit institution, which does not belong to the same group as the payment institution itself, for an amount equivalent to that which would have been segregated in the absence of the insurance policy or other comparable guarantee, payable in the event that the payment institution is unable to meet its financial obligations.
+
+**2.** Where a payment institution is required to safeguard funds under paragraph 1 and a portion of those funds is to be used for future payment transactions with the remaining amount to be used for non-payment services, that portion of the funds to be used for future payment transactions shall also be subject to the requirements of paragraph 1. Where that portion is variable or not known in advance, Member States shall allow payment institutions to apply this paragraph on the basis of a representative portion assumed to be used for payment services provided such a representative portion can be reasonably estimated on the basis of historical data to the satisfaction of the competent authorities.
+
+<a id="art_11"></a>
+
+### Article 11 — Granting of authorisation
+
+**1.** Member States shall require undertakings other than those referred to in points (a), (b), (c), (e) and (f) of Article 1(1) and other than natural or legal persons benefiting from an exemption pursuant to Article 32 or 33, who intend to provide payment services, to obtain authorisation as a payment institution before commencing the provision of payment services. An authorisation shall only be granted to a legal person established in a Member State.
+
+**2.** Competent authorities shall grant an authorisation if the information and evidence accompanying the application complies with all of the requirements laid down in Article 5 and if the competent authorities’ overall assessment, having scrutinised the application, is favourable. Before granting an authorisation, the competent authorities may, where relevant, consult the national central bank or other relevant public authorities.
+
+**3.** A payment institution which, under the national law of its home Member State is required to have a registered office, shall have its head office in the same Member State as its registered office and shall carry out at least part of its payment service business there.
+
+**4.** The competent authorities shall grant an authorisation only if, taking into account the need to ensure the sound and prudent management of a payment institution, the payment institution has robust governance arrangements for its payment services business, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective procedures to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures; those arrangements, procedures and mechanisms shall be comprehensive and proportionate to the nature, scale and complexity of the payment services provided by the payment institution.
+
+**5.** Where a payment institution provides any of the payment services as referred to in points (1) to (7) of Annex I and, at the same time, is engaged in other business activities, the competent authorities may require the establishment of a separate entity for the payment services business, where the non-payment services activities of the payment institution impair or are likely to impair either the financial soundness of the payment institution or the ability of the competent authorities to monitor the payment institution’s compliance with all obligations laid down by this Directive.
+
+**6.** The competent authorities shall refuse to grant an authorisation if, taking into account the need to ensure the sound and prudent management of a payment institution, they are not satisfied as to the suitability of the shareholders or members that have qualifying holdings.
+
+**7.** Where close links as defined in point (38) of Article 4(1) of Regulation (EU) No 575/2013 exist between the payment institution and other natural or legal persons, the competent authorities shall grant an authorisation only if those links do not prevent the effective exercise of their supervisory functions.
+
+**8.** The competent authorities shall grant an authorisation only if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the payment institution has close links, or difficulties involved in the enforcement of those laws, regulations or administrative provisions, do not prevent the effective exercise of their supervisory functions.
+
+**9.** An authorisation shall be valid in all Member States and shall allow the payment institution concerned to provide the payment services that are covered by the authorisation throughout the Union, pursuant to the freedom to provide services or the freedom of establishment.
+
+<a id="art_12"></a>
+
+### Article 12 — Communication of the decision
+
+Within 3 months of receipt of an application or, if the application is incomplete, of all of the information required for the decision, the competent authorities shall inform the applicant whether the authorisation is granted or refused. The competent authority shall give reasons where it refuses an authorisation.
+
+<a id="art_13"></a>
+
+### Article 13 — Withdrawal of authorisation
+
+**1.** The competent authorities may withdraw an authorisation issued to a payment institution only if the institution:(a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has ceased to engage in business for more than 6 months, if the Member State concerned has made no provision for the authorisation to lapse in such cases;(b) has obtained the authorisation through false statements or any other irregular means;(c) no longer meets the conditions for granting the authorisation or fails to inform the competent authority on major developments in this respect;(d) would constitute a threat to the stability of or the trust in the payment system by continuing its payment services business; or(e) falls within one of the other cases where national law provides for withdrawal of an authorisation.
+
+**2.** The competent authority shall give reasons for any withdrawal of an authorisation and shall inform those concerned accordingly.
+
+**3.** The competent authority shall make public the withdrawal of an authorisation, including in the registers referred to in Articles 14 and 15.
+
+<a id="art_14"></a>
+
+### Article 14 — Registration in the home Member State
+
+**1.** Member States shall establish a public register in which the following are entered:(a) authorised payment institutions and their agents;(b) natural and legal persons benefiting from an exemption pursuant to Article 32 or 33, and their agents; and(c) the institutions referred to in Article 2(5) that are entitled under national law to provide payment services.
+
+Branches of payment institutions shall be entered in the register of the home Member State if those branches provide services in a Member State other than their home Member State.
+
+**2.** The public register shall identify the payment services for which the payment institution is authorised or for which the natural or legal person has been registered. Authorised payment institutions shall be listed in the register separately from natural and legal persons benefiting from an exemption pursuant to Article 32 or 33. The register shall be publicly available for consultation, accessible online, and updated without delay.
+
+**3.** Competent authorities shall enter in the public register any withdrawal of authorisation and any withdrawal of an exemption pursuant to Article 32 or 33.
+
+**4.** Competent authorities shall notify EBA of the reasons for the withdrawal of any authorisation and of any exemption pursuant to Article 32 or 33
+
+<a id="art_15"></a>
+
+### Article 15 — EBA register
+
+**1.** EBA shall develop, operate and maintain an electronic, central register that contains the information as notified by the competent authorities in accordance with paragraph 2. EBA shall be responsible for the accurate presentation of that information.
+
+EBA shall make the register publicly available on its website, and shall allow for easy access to and easy search for the information listed, free of charge.
+
+**2.** Competent authorities shall, without delay, notify EBA of the information entered in their public registers as referred to in Article 14 in a language customary in the field of finance.
+
+**3.** Competent authorities shall be responsible for the accuracy of the information specified in paragraph 2 and for keeping that information up-to-date.
+
+**4.** EBA shall develop draft regulatory technical standards setting technical requirements on development, operation and maintenance of the electronic central register and on access to the information contained therein. The technical requirements shall ensure that modification of the information is only possible by the competent authority and EBA.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 13 January 2018.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**5.** EBA shall develop draft implementing technical standards on the details and structure of the information to be notified pursuant to paragraph 1, including the common format and model in which this information is to be provided.
+
+EBA shall submit those draft implementing technical standards to the Commission by 13 July 2017.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_16"></a>
+
+### Article 16 — Maintenance of authorisation
+
+Where any change affects the accuracy of information and evidence provided in accordance with Article 5, the payment institution shall, without undue delay, inform the competent authorities of its home Member State accordingly.
+
+<a id="art_17"></a>
+
+### Article 17 — Accounting and statutory audit
+
+**1.** Directives 86/635/EEC and 2013/34/EU, and Regulation (EC) No 1606/2002 of the European Parliament and of the Council (7), shall apply to payment institutions *mutatis mutandis*.
+
+**2.** Unless exempted under Directive 2013/34/EU and, where applicable, Directive 86/635/EEC, the annual accounts and consolidated accounts of payment institutions shall be audited by statutory auditors or audit firms within the meaning of Directive 2006/43/EC.
+
+**3.** For supervisory purposes, Member States shall require that payment institutions provide separate accounting information for payment services and activities referred to in Article 18(1), which shall be subject to an auditor’s report. That report shall be prepared, where applicable, by the statutory auditors or an audit firm.
+
+**4.** The obligations established in Article 63 of Directive 2013/36/EU shall apply *mutatis mutandis* to the statutory auditors or audit firms of payment institutions in respect of payment services activities.
+
+<a id="art_18"></a>
+
+### Article 18 — Activities
+
+**1.** Apart from the provision of payment services, payment institutions shall be entitled to engage in the following activities:(a) the provision of operational and closely related ancillary services such as ensuring the execution of payment transactions, foreign exchange services, safekeeping activities, and the storage and processing of data;(b) the operation of payment systems, without prejudice to Article 35;(c) business activities other than the provision of payment services, having regard to applicable Union and national law.
+
+**2.** Where payment institutions engage in the provision of one or more payment services, they may hold only payment accounts which are used exclusively for payment transactions.
+
+**3.** Any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of Article 9 of Directive 2013/36/EU, or electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC.
+
+**4.** Payment institutions may grant credit relating to payment services as referred to in point (4) or (5) of Annex I only if all of the following conditions are met:(a) the credit shall be ancillary and granted exclusively in connection with the execution of a payment transaction;(b) notwithstanding national rules on providing credit by credit cards, the credit granted in connection with a payment and executed in accordance with Article 11(9) and Article 28 shall be repaid within a short period which shall in no case exceed 12 months;(c) such credit shall not be granted from the funds received or held for the purpose of executing a payment transaction;(d) the own funds of the payment institution shall at all times and to the satisfaction of the supervisory authorities be appropriate in view of the overall amount of credit granted.
+
+**5.** Payment institutions shall not conduct the business of taking deposits or other repayable funds within the meaning of Article 9 of Directive 2013/36/EU.
+
+**6.** This Directive shall be without prejudice to Directive 2008/48/EC, other relevant Union law or national measures regarding conditions for granting credit to consumers not harmonised by this Directive that comply with Union law.
+
+<a id="art_19"></a>
+
+### Article 19 — Use of agents, branches or entities to which activities are outsourced
+
+**1.** Where a payment institution intends to provide payment services through an agent it shall communicate the following information to the competent authorities in its home Member State:(a) the name and address of the agent;(b) a description of the internal control mechanisms that will be used by the agent in order to comply with the obligations in relation to money laundering and terrorist financing under Directive (EU) 2015/849, to be updated without delay in the event of material changes to the particulars communicated at the initial notification;(c) the identity of directors and persons responsible for the management of the agent to be used in the provision of payment services and, for agents other than payment service providers, evidence that they are fit and proper persons;(d) the payment services of the payment institution for which the agent is mandated; and(e) where applicable, the unique identification code or number of the agent.
+
+**2.** Within 2 months of receipt of the information referred to in paragraph 1, the competent authority of the home Member State shall communicate to the payment institution whether the agent has been entered in the register provided for in Article 14. Upon entry in the register, the agent may commence providing payment services.
+
+**3.** Before listing the agent in the register, the competent authorities shall, if they consider that the information provided to them is incorrect, take further action to verify the information.
+
+**4.** If, after taking action to verify the information, the competent authorities are not satisfied that the information provided to them pursuant to paragraph 1 is correct, they shall refuse to list the agent in the register provided for in Article 14 and shall inform the payment institution without undue delay.
+
+**5.** If the payment institution wishes to provide payment services in another Member State by engaging an agent or establishing a branch it shall follow the procedures set out in Article 28.
+
+**6.** Where a payment institution intends to outsource operational functions of payment services, it shall inform the competent authorities of its home Member State accordingly.
+
+Outsourcing of important operational functions, including IT systems, shall not be undertaken in such way as to impair materially the quality of the payment institution’s internal control and the ability of the competent authorities to monitor and retrace the payment institution’s compliance with all of the obligations laid down in this Directive.
+
+For the purposes of the second subparagraph, an operational function shall be regarded as important if a defect or failure in its performance would materially impair the continuing compliance of a payment institution with the requirements of its authorisation requested pursuant to this Title, its other obligations under this Directive, its financial performance, or the soundness or the continuity of its payment services. Member States shall ensure that when payment institutions outsource important operational functions, the payment institutions meet the following conditions:
+
+(a) the outsourcing shall not result in the delegation by senior management of its responsibility;
+
+(b) the relationship and obligations of the payment institution towards its payment service users under this Directive shall not be altered;
+
+(c) the conditions with which the payment institution is to comply in order to be authorised and remain so in accordance with this Title shall not be undermined;
+
+(d) none of the other conditions subject to which the payment institution’s authorisation was granted shall be removed or modified.
+
+**7.** Payment institutions shall ensure that agents or branches acting on their behalf inform payment service users of this fact.
+
+**8.** Payment institutions shall communicate to the competent authorities of their home Member State without undue delay any change regarding the use of entities to which activities are outsourced and, in accordance with the procedure provided for in paragraphs 2, 3 and 4, agents, including additional agents.
+
+<a id="art_20"></a>
+
+### Article 20 — Liability
+
+**1.** Member States shall ensure that, where payment institutions rely on third parties for the performance of operational functions, those payment institutions take reasonable steps to ensure that the requirements of this Directive are complied with.
+
+**2.** Member States shall require that payment institutions remain fully liable for any acts of their employees, or any agent, branch or entity to which activities are outsourced.
+
+<a id="art_21"></a>
+
+### Article 21 — Record-keeping
+
+Member States shall require payment institutions to keep all appropriate records for the purpose of this Title for at least 5 years, without prejudice to Directive (EU) 2015/849 or other relevant Union law.
+
+<a id="art_22"></a>
+
+### Article 22 — Designation of competent authorities
+
+**1.** Member States shall designate as the competent authorities responsible for the authorisation and prudential supervision of payment institutions which are to carry out the duties provided for under this Title either public authorities, or bodies recognised by national law or by public authorities expressly empowered for that purpose by national law, including national central banks.
+
+The competent authorities shall guarantee independence from economic bodies and avoid conflicts of interest. Without prejudice to the first subparagraph, payment institutions, credit institutions, electronic money institutions, or post office giro institutions shall not be designated as competent authorities.
+
+The Member States shall inform the Commission accordingly.
+
+**2.** Member States shall ensure that the competent authorities designated under paragraph 1 possess all powers necessary for the performance of their duties.
+
+**3.** Member States on whose territories there is more than one competent authority for matters covered by this Title shall ensure that those authorities cooperate closely so that they can discharge their respective duties effectively. The same applies where the authorities competent for matters covered by this Title are not the competent authorities responsible for the supervision of credit institutions.
+
+**4.** The tasks of the competent authorities designated under paragraph 1 shall be the responsibility of the competent authorities of the home Member State.
+
+**5.** Paragraph 1 shall not imply that the competent authorities are required to supervise business activities of the payment institutions other than the provision of payment services and the activities referred to in point (a) of Article 18(1).
+
+<a id="art_23"></a>
+
+### Article 23 — Supervision
+
+**1.** Member States shall ensure that the controls exercised by the competent authorities for checking continued compliance with this Title are proportionate, adequate and responsive to the risks to which payment institutions are exposed.
+
+In order to check compliance with this Title, the competent authorities shall, in particular, be entitled to take the following steps:
+
+(a) to require the payment institution to provide any information needed to monitor compliance specifying the purpose of the request, as appropriate, and the time limit by which the information is to be provided;
+
+(b) to carry out on-site inspections at the payment institution, at any agent or branch providing payment services under the responsibility of the payment institution, or at any entity to which activities are outsourced;
+
+(c) to issue recommendations, guidelines and, if applicable, binding administrative provisions;
+
+(d) to suspend or to withdraw an authorisation pursuant to Article 13.
+
+**2.** Without prejudice to the procedures for the withdrawal of authorisations and the provisions of criminal law, the Member States shall provide that their respective competent authorities, may, as against payment institutions or those who effectively control the business of payment institutions which breach laws, regulations or administrative provisions concerning the supervision or pursuit of their payment service business, adopt or impose in respect of them penalties or measures aimed specifically at ending observed breaches or the causes of such breaches.
+
+**3.** Notwithstanding the requirements of Article 7, Article 8(1) and (2) and Article 9, Member States shall ensure that the competent authorities are entitled to take steps described under paragraph 1 of this Article to ensure sufficient capital for payment services, in particular where the non-payment services activities of the payment institution impair or are likely to impair the financial soundness of the payment institution.
+
+<a id="art_24"></a>
+
+### Article 24 — Professional secrecy
+
+**1.** Member States shall ensure that all persons who work or who have worked for the competent authorities, as well as experts acting on behalf of the competent authorities, are bound by the obligation of professional secrecy, without prejudice to cases covered by criminal law.
+
+**2.** In the exchange of information in accordance with Article 26, professional secrecy shall be strictly applied to ensure the protection of individual and business rights.
+
+**3.** Member States may apply this Article taking into account, *mutatis mutandis*, Articles 53 to 61 of Directive 2013/36/EU.
+
+<a id="art_25"></a>
+
+### Article 25 — Right to apply to the courts
+
+**1.** Member States shall ensure that decisions taken by the competent authorities in respect of a payment institution pursuant to the laws, regulations and administrative provisions adopted in accordance with this Directive may be contested before the courts.
+
+**2.** Paragraph 1 shall apply also in respect of failure to act.
+
+<a id="art_26"></a>
+
+### Article 26 — Exchange of information
+
+**1.** The competent authorities of the different Member States shall cooperate with each other and, where appropriate, with the ECB and the national central banks of the Member States, EBA and other relevant competent authorities designated under Union or national law applicable to payment service providers.
+
+**2.** Member States shall, in addition, allow exchange of information between their competent authorities and the following:(a) the competent authorities of other Member States responsible for the authorisation and supervision of payment institutions;(b) the ECB and the national central banks of Member States, in their capacity as monetary and oversight authorities, and, where appropriate, other public authorities responsible for overseeing payment and settlement systems;(c) other relevant authorities designated under this Directive, Directive (EU) 2015/849 and other Union law applicable to payment service providers, such as laws applicable to money laundering and terrorist financing;(d) EBA, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010.
+
+<a id="art_27"></a>
+
+### Article 27 — Settlement of disagreements between competent authorities of different Member States
+
+**1.** Where a competent authority of a Member State considers that, in a particular matter, cross-border cooperation with competent authorities of another Member State referred to in Article 26, 28, 29, 30 or 31 of this Directive does not comply with the relevant conditions set out in those provisions, it may refer the matter to EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010.
+
+**2.** Where EBA has been requested to assist pursuant to paragraph 1 of this Article, it shall take a decision under Article 19(3) of Regulation (EU) No 1093/2010 without undue delay. EBA may also assist the competent authorities in reaching an agreement on its own initiative in accordance with the second subparagraph of Article 19(1) of that Regulation. In either case, the competent authorities involved shall defer their decisions pending resolution under Article 19 of that Regulation.
+
+<a id="art_28"></a>
+
+### Article 28 — Application to exercise the right of establishment and freedom to provide services
+
+**1.** Any authorised payment institution wishing to provide payment services for the first time in a Member State other than its home Member State, in the exercise of the right of establishment or the freedom to provide services, shall communicate the following information to the competent authorities in its home Member State:(a) the name, the address and, where applicable, the authorisation number of the payment institution;(b) the Member State(s) in which it intends to operate;(c) the payment service(s) to be provided;(d) where the payment institution intends to make use of an agent, the information referred to in Article 19(1);(e) where the payment institution intends to make use of a branch, the information referred to in points (b) and (e) of Article 5(1) with regard to the payment service business in the host Member State, a description of the organisational structure of the branch and the identity of those responsible for the management of the branch.
+
+Where the payment institution intends to outsource operational functions of payment services to other entities in the host Member State, it shall inform the competent authorities of its home Member State accordingly.
+
+**2.** Within 1 month of receipt of all of the information referred to in paragraph 1 the competent authorities of the home Member State shall send it to the competent authorities of the host Member State.
+
+Within 1 month of receipt of the information from the competent authorities of the home Member State, the competent authorities of the host Member State shall assess that information and provide the competent authorities of the home Member State with relevant information in connection with the intended provision of payment services by the relevant payment institution in the exercise of the freedom of establishment or the freedom to provide services. The competent authorities of the host Member State shall inform the competent authorities of the home Member State in particular of any reasonable grounds for concern in connection with the intended engagement of an agent or establishment of a branch with regard to money laundering or terrorist financing within the meaning of Directive (EU) 2015/849.
+
+Where the competent authorities of the home Member State do not agree with the assessment of the competent authorities of the host Member State, they shall provide the latter with the reasons for their decision.
+
+If the assessment of the competent authorities of the home Member State in particular in light of the information received from the competent authorities of the host Member State, is not favourable, the competent authority of the home Member State shall refuse to register the agent or branch or shall withdraw the registration if already made.
+
+**3.** Within 3 months of receipt of the information referred to in paragraph 1 the competent authorities of the home Member State shall communicate their decision to the competent authorities of the host Member State and to the payment institution.
+
+Upon entry in the register referred to in Article 14, the agent or branch may commence its activities in the relevant host Member State.
+
+The payment institution shall notify to the competent authorities of the home Member State the date from which it commences its activities through the agent or branch in the relevant host Member State. The competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.
+
+**4.** The payment institution shall communicate to the competent authorities of the home Member State without undue delay any relevant change regarding the information communicated in accordance with paragraph 1, including additional agents, branches or entities to which activities are outsourced in the host Member States in which it operates The procedure provided for under paragraphs 2 and 3 shall apply.
+
+**5.** EBA shall develop draft regulatory technical standards specifying the framework for cooperation, and for the exchange of information, between competent authorities of the home and of the host Member State in accordance with this Article. Those draft regulatory technical standards shall specify the method, means and details of cooperation in the notification of payment institutions operating on a cross-border basis and, in particular, the scope and treatment of information to be submitted, including common terminology and standard notification templates to ensure a consistent and efficient notification process.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 13 January 2018.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_29"></a>
+
+### Article 29 — Supervision of payment institutions exercising the right of establishment and freedom to provide services
+
+**1.** In order to carry out the controls and take the necessary steps provided for in this Title and in the provisions of national law transposing Titles III and IV, in accordance with Article 100(4), in respect of the agent or branch of a payment institution located in the territory of another Member State, the competent authorities of the home Member State shall cooperate with the competent authorities of the host Member State.
+
+By way of cooperation in accordance with the first subparagraph, the competent authorities of the home Member State shall notify the competent authorities of the host Member State where they intend to carry out an on-site inspection in the territory of the latter.
+
+However, the competent authorities of the home Member State may delegate to the competent authorities of the host Member State the task of carrying out on-site inspections of the institution concerned.
+
+**2.** The competent authorities of the host Member States may require that payment institutions having agents or branches within their territories shall report to them periodically on the activities carried out in their territories.
+
+Such reports shall be required for information or statistical purposes and, as far as the agents and branches conduct the payment service business under the right of establishment, to monitor compliance with the provisions of national law transposing Titles III and IV. Such agents and branches shall be subject to professional secrecy requirements at least equivalent to those referred to in Article 24.
+
+**3.** The competent authorities shall provide each other with all essential and/or relevant information, in particular in the case of infringements or suspected infringements by an agent or a branch, and where such infringements occurred in the context of the exercise of the freedom to provide services. In that regard, the competent authorities shall communicate, upon request, all relevant information and, on their own initiative, all essential information, including on the compliance of the payment institution with the conditions under Article 11(3).
+
+**4.** Member States may require payment institutions operating on their territory through agents under the right of establishment, the head office of which is situated in another Member State, to appoint a central contact point in their territory to ensure adequate communication and information reporting on compliance with Titles III and IV, without prejudice to any provisions on anti-money laundering and countering terrorist financing provisions and to facilitate supervision by competent authorities of home Member State and host Member States, including by providing competent authorities with documents and information on request.
+
+**5.** EBA shall develop draft regulatory technical standards specifying the criteria to be applied when determining, in accordance with the principle of proportionality, the circumstances when the appointment of a central contact point is appropriate, and the functions of those contact points, pursuant to paragraph 4.
+
+Those draft regulatory technical standards shall, in particular, take account of:
+
+(a) the total volume and value of transactions carried out by the payment institution in host Member States;
+
+(b) the type of payment services provided; and
+
+(c) the total number of agents established in the host Member State.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 13 January 2017.
+
+**6.** EBA shall develop draft regulatory technical standards specifying the framework for cooperation, and for the exchange of information, between the competent authorities of the home Member State and of the host Member State in accordance with this Title and to monitor compliance with the provisions of national law transposing Titles III and IV. The draft regulatory technical standards shall specify the method, means and details of cooperation in the supervision of payment institutions operating on a cross-border basis and, in particular, the scope and treatment of information to be exchanged, to ensure consistent and efficient supervision of payment institutions exercising cross-border provision of payment services.
+
+Those draft regulatory technical standards shall also specify the means and details of any reporting requested by host Member States from payment institutions on the payment business activities carried out in their territories in accordance with paragraph 2, including the frequency of such reporting.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 13 January 2018.
+
+**7.** Power is delegated to the Commission to adopt the regulatory technical standards referred to in paragraphs 5 and 6 in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_30"></a>
+
+### Article 30 — Measures in case of non-compliance, including precautionary measures
+
+**1.** Without prejudice to the responsibility of the competent authorities of the home Member State, where the competent authority of the host Member State ascertains that a payment institution having agents or branches in its territory does not comply with this Title or with national law transposing Title III or IV, it shall inform the competent authority of the home Member State without delay.
+
+The competent authority of the home Member State, after having evaluated the information received pursuant to the first subparagraph, shall, without undue delay, take all appropriate measures to ensure that the payment institution concerned puts an end to its irregular situation. The competent authority of the home Member State shall communicate those measures without delay to the competent authority of the host Member State and to the competent authorities of any other Member State concerned.
+
+**2.** In emergency situations, where immediate action is necessary to address a serious threat to the collective interests of the payment service users in the host Member State, the competent authorities of the host Member State may, in parallel to the cross-border cooperation between competent authorities and pending measures by the competent authorities of the home Member State as set out in Article 29, take precautionary measures.
+
+**3.** Any precautionary measures under paragraph 2 shall be appropriate and proportionate to their purpose to protect against a serious threat to the collective interests of the payment service users in the host Member State. They shall not result in a preference for payment service users of the payment institution in the host Member State over payment service users of the payment institution in other Member States.
+
+Precautionary measures shall be temporary and shall be terminated when the serious threats identified are addressed, including with the assistance of or in cooperation with the home Member State’s competent authorities or with EBA as provided for in Article 27(1).
+
+**4.** Where compatible with the emergency situation, the competent authorities of the host Member State shall inform the competent authorities of the home Member State and those of any other Member State concerned, the Commission and EBA in advance and in any case without undue delay, of the precautionary measures taken under paragraph 2 and of their justification.
+
+<a id="art_31"></a>
+
+### Article 31 — Reasons and communication
+
+**1.** Any measure taken by the competent authorities pursuant to Article 23, 28, 29 or 30 involving penalties or restrictions on the exercise of the freedom to provide services or the freedom of establishment shall be properly justified and communicated to the payment institution concerned.
+
+**2.** Articles 28, 29 and 30 shall be without prejudice to the obligation of competent authorities under Directive (EU) 2015/849 and Regulation (EU) 2015/847, in particular under Article 48(1) of Directive (EU) 2015/849 and Article 22(1) of Regulation (EU) 2015/847, to supervise or monitor the compliance with the requirements laid down in those instruments.
+
+<a id="art_32"></a>
+
+### Article 32 — Conditions
+
+**1.** Member States may exempt or allow their competent authorities to exempt, natural or legal persons providing payment services as referred to in points (1) to (6) of Annex I from the application of all or part of the procedure and conditions set out in Sections 1, 2 and 3, with the exception of Articles 14, 15, 22, 24, 25 and 26, where:(a) the monthly average of the preceding 12 months’ total value of payment transactions executed by the person concerned, including any agent for which it assumes full responsibility, does not exceed a limit set by the Member State but that, in any event, amounts to no more than EUR 3 million. That requirement shall be assessed on the projected total amount of payment transactions in its business plan, unless an adjustment to that plan is required by the competent authorities; and(b) none of the natural persons responsible for the management or operation of the business has been convicted of offences relating to money laundering or terrorist financing or other financial crimes.
+
+**2.** Any natural or legal person registered in accordance with paragraph 1 shall be required to have its head office or place of residence in the Member State in which it actually carries out its business.
+
+**3.** The persons referred to in paragraph 1 of this Article shall be treated as payment institutions, save that Article 11(9) and Articles 28, 29 and 30 shall not apply to them.
+
+**4.** Member States may also provide that any natural or legal person registered in accordance with paragraph 1 of this Article may engage only in certain activities listed in Article 18.
+
+**5.** The persons referred to in paragraph 1 of this Article shall notify the competent authorities of any change in their situation which is relevant to the conditions specified in that paragraph. Member States shall take the necessary steps to ensure that where the conditions set out in paragraph 1, 2 or 4 of this Article are no longer met, the persons concerned shall seek authorisation within 30 calendar days in accordance with Article 11.
+
+**6.** Paragraphs 1 to 5 of this Article shall not apply in respect of Directive (EU) 2015/849 or of national anti-money-laundering law.
+
+<a id="art_33"></a>
+
+### Article 33 — Account information service providers
+
+**1.** Natural or legal persons providing only the payment service as referred to in point (8) of Annex I shall be exempt from the application of the procedure and conditions set out in Sections 1 and 2, with the exception of points (a), (b), (e) to (h), (j), (l), (n), (p) and (q) of Article 5(1), Article 5(3) and Articles 14 and 15. Section 3 shall apply, with the exception of Article 23(3).
+
+**2.** The persons referred to in paragraph 1 of this Article shall be treated as payment institutions, save that Titles III and IV shall not apply to them, with the exception of Articles 41, 45 and 52 where applicable, and of Articles 67, 69 and 95 to 98.
+
+<a id="art_34"></a>
+
+### Article 34 — Notification and information
+
+If a Member State applies an exemption pursuant to Article 32, it shall, by 13 January 2018, notify the Commission of its decision accordingly and it shall notify the Commission forthwith of any subsequent change. In addition, the Member State shall inform the Commission of the number of natural and legal persons concerned and, on an annual basis, of the total value of payment transactions executed as of 31 December of each calendar year, as referred to in point (a) of Article 32(1).
+
+<a id="art_35"></a>
+
+### Article 35 — Access to payment systems
+
+**1.** Member States shall ensure that the rules on access of authorised or registered payment service providers that are legal persons to payment systems are objective, non-discriminatory and proportionate and that they do not inhibit access more than is necessary to safeguard against specific risks such as settlement risk, operational risk and business risk and to protect the financial and operational stability of the payment system.
+
+Payment systems shall not impose on payment service providers, on payment service users or on other payment systems any of the following requirements:
+
+(a) restrictive rule on effective participation in other payment systems;
+
+(b) rule which discriminates between authorised payment service providers or between registered payment service providers in relation to the rights, obligations and entitlements of participants;
+
+(c) restriction on the basis of institutional status.
+
+**2.** Paragraph 1 shall not apply to:(a) payment systems designated under Directive 98/26/EC;(b) payment systems composed exclusively of payment service providers belonging to a group.
+
+For the purposes of point (a) of the first subparagraph, Member States shall ensure that where a participant in a designated system allows an authorised or registered payment service provider that is not a participant in the system to pass transfer orders through the system that participant shall, when requested, give the same opportunity in an objective, proportionate and non-discriminatory manner to other authorised or registered payment service providers in line with paragraph 1.
+
+The participant shall provide the requesting payment service provider with full reasons for any rejection.
+
+<a id="art_36"></a>
+
+### Article 36 — Access to accounts maintained with a credit institution
+
+Member States shall ensure that payment institutions have access to credit institutions’ payment accounts services on an objective, non-discriminatory and proportionate basis. Such access shall be sufficiently extensive as to allow payment institutions to provide payment services in an unhindered and efficient manner.
+
+The credit institution shall provide the competent authority with duly motivated reasons for any rejection.
+
+<a id="art_37"></a>
+
+### Article 37 — Prohibition of persons other than payment service providers from providing payment services and duty of notification
+
+**1.** Member States shall prohibit natural or legal persons that are neither payment service providers nor explicitly excluded from the scope of this Directive from providing payment services.
+
+**2.** Member States shall require that service providers carrying out either of the activities referred to in points (i) and (ii) of point (k) of Article 3 or carrying out both activities, for which the total value of payment transactions executed over the preceding 12 months exceeds the amount of EUR 1 million, send a notification to competent authorities containing a description of the services offered, specifying under which exclusion referred to in point (k)(i) and (ii) of Article 3 the activity is considered to be carried out.
+
+On the basis of that notification, the competent authority shall take a duly motivated decision on the basis of criteria referred to in point (k) of Article 3 where the activity does not qualify as a limited network, and inform the service provider accordingly.
+
+**3.** Member States shall require that service providers carrying out an activity referred to in point (l) of Article 3 send a notification to competent authorities and provide competent authorities an annual audit opinion, testifying that the activity complies with the limits set out in point (l) of Article 3.
+
+**4.** Notwithstanding paragraph 1, competent authorities shall inform EBA of the services notified pursuant to paragraphs 2 and 3, stating under which exclusion the activity is carried out.
+
+**5.** The description of the activity notified under paragraphs 2 and 3 of this Article shall be made publicly available in the registers provided for in Articles 14 and 15.
+
+<a id="art_38"></a>
+
+### Article 38 — Scope
+
+**1.** This Title applies to single payment transactions, framework contracts and payment transactions covered by them. The parties may agree that it shall not apply in whole or in part when the payment service user is not a consumer.
+
+**2.** Member States may apply the provisions in this Title to microenterprises in the same way as to consumers.
+
+**3.** This Directive shall be without prejudice to Directive 2008/48/EC, other relevant Union law or national measures regarding conditions for granting credit to consumers not harmonised by this Directive that comply with Union law.
+
+<a id="art_39"></a>
+
+### Article 39 — Other provisions in Union law
+
+The provisions of this Title are without prejudice to any Union law containing additional requirements on prior information.
+
+However, where Directive 2002/65/EC is also applicable, the information requirements set out in Article 3(1) of that Directive, with the exception of points (2)(c) to (g), (3)(a), (d) and (e), and (4)(b) of that paragraph shall be replaced by Articles 44, 45, 51 and 52 of this Directive.
+
+<a id="art_40"></a>
+
+### Article 40 — Charges for information
+
+**1.** The payment service provider shall not charge the payment service user for providing information under this Title.
+
+**2.** The payment service provider and the payment service user may agree on charges for additional or more frequent information, or transmission by means of communication other than those specified in the framework contract, provided at the payment service user’s request.
+
+**3.** Where the payment service provider may impose charges for information in accordance with paragraph 2, they shall be reasonable and in line with the payment service provider’s actual costs.
+
+<a id="art_41"></a>
+
+### Article 41 — Burden of proof on information requirements
+
+Member States shall stipulate that the burden of proof lies with the payment service provider to prove that it has complied with the information requirements set out in this Title.
+
+<a id="art_42"></a>
+
+### Article 42 — Derogation from information requirements for low-value payment instruments and electronic money
+
+**1.** In cases of payment instruments which, according to the relevant framework contract, concern only individual payment transactions that do not exceed EUR 30 or that either have a spending limit of EUR 150 or store funds that do not exceed EUR 150 at any time:(a) by way of derogation from Articles 51, 52 and 56, the payment service provider shall provide the payer only with information on the main characteristics of the payment service, including the way in which the payment instrument can be used, liability, charges levied and other material information needed to take an informed decision as well as an indication of where any other information and conditions specified in Article 52 are made available in an easily accessible manner;(b) it may be agreed that, by way of derogation from Article 54, the payment service provider is not required to propose changes to the conditions of the framework contract in the same way as provided for in Article 51(1);(c) it may be agreed that, by way of derogation from Articles 57 and 58, after the execution of a payment transaction:(i) the payment service provider provides or makes available only a reference enabling the payment service user to identify the payment transaction, the amount of the payment transaction, any charges and/or, in the case of several payment transactions of the same kind made to the same payee, information on the total amount and charges for those payment transactions;(ii) the payment service provider is not required to provide or make available information referred to in point (i) if the payment instrument is used anonymously or if the payment service provider is not otherwise technically in a position to provide it. However, the payment service provider shall provide the payer with a possibility to verify the amount of funds stored.
+
+**2.** For national payment transactions, Member States or their competent authorities may reduce or double the amounts referred to in paragraph 1. For prepaid payment instruments, Member States may increase those amounts up to EUR 500.
+
+<a id="art_43"></a>
+
+### Article 43 — Scope
+
+**1.** This Chapter applies to single payment transactions not covered by a framework contract.
+
+**2.** Where a payment order for a single payment transaction is transmitted by a payment instrument covered by a framework contract, the payment service provider shall not be obliged to provide or make available information which is already given to the payment service user on the basis of a framework contract with another payment service provider or which will be given to him according to that framework contract.
+
+<a id="art_44"></a>
+
+### Article 44 — Prior general information
+
+**1.** Member States shall require that before the payment service user is bound by a single payment service contract or offer, the payment service provider makes available to the payment service user, in an easily accessible manner, the information and conditions specified in Article 45 with regard to its own services. At the payment service user’s request, the payment service provider shall provide the information and conditions on paper or on another durable medium. The information and conditions shall be given in easily understandable words and in a clear and comprehensible form, in an official language of the Member State where the payment service is offered or in any other language agreed between the parties.
+
+**2.** If the single payment service contract has been concluded at the request of the payment service user using a means of distance communication which does not enable the payment service provider to comply with paragraph 1, the payment service provider shall fulfil its obligations under that paragraph immediately after the execution of the payment transaction.
+
+**3.** The obligations under paragraph 1 of this Article may also be discharged by supplying a copy of the draft single payment service contract or the draft payment order including the information and conditions specified in Article 45.
+
+<a id="art_45"></a>
+
+### Article 45 — Information and conditions
+
+**1.** Member States shall ensure that the following information and conditions are provided or made available by the payment service provider to the payment service user:(a) a specification of the information or unique identifier to be provided by the payment service user in order for a payment order to be properly initiated or executed;(b) the maximum execution time for the payment service to be provided;(c) all charges payable by the payment service user to the payment service provider and, where applicable, a breakdown of those charges;(d) where applicable, the actual or reference exchange rate to be applied to the payment transaction.
+
+**2.** In addition, Member States shall ensure that payment initiation service providers shall, prior to initiation, provide the payer with, or make available to the payer, the following clear and comprehensive information:(a) the name of the payment initiation service provider, the geographical address of its head office and, where applicable, the geographical address of its agent or branch established in the Member State where the payment service is offered, and any other contact details, including electronic mail address, relevant for communication with the payment initiation service provider; and(b) the contact details of the competent authority.
+
+**3.** Where applicable, any other relevant information and conditions specified in Article 52 shall be made available to the payment service user in an easily accessible manner.
+
+<a id="art_46"></a>
+
+### Article 46 — Information for the payer and payee after the initiation of a payment order
+
+In addition to the information and conditions specified in Article 45, where a payment order is initiated through a payment initiation service provider, the payment initiation service provider shall, immediately after initiation, provide or make available all of the following data to the payer and, where applicable, the payee:
+
+(a) confirmation of the successful initiation of the payment order with the payer’s account servicing payment service provider;
+
+(b) a reference enabling the payer and the payee to identify the payment transaction and, where appropriate, the payee to identify the payer, and any information transferred with the payment transaction;
+
+(c) the amount of the payment transaction;
+
+(d) where applicable, the amount of any charges payable to the payment initiation service provider for the transaction, and where applicable a breakdown of the amounts of such charges.
+
+<a id="art_47"></a>
+
+### Article 47 — Information for payer’s account servicing payment service provider in the event of a payment initiation service
+
+Where a payment order is initiated through a payment initiation service provider, it shall make available to the payer’s account servicing payment service provider the reference of the payment transaction.
+
+<a id="art_48"></a>
+
+### Article 48 — Information for the payer after receipt of the payment order
+
+Immediately after receipt of the payment order, the payer’s payment service provider shall provide the payer with or make available to the payer, in the same way as provided for in Article 44(1), all of the following data with regard to its own services:
+
+(a) a reference enabling the payer to identify the payment transaction and, where appropriate, information relating to the payee;
+
+(b) the amount of the payment transaction in the currency used in the payment order;
+
+(c) the amount of any charges for the payment transaction payable by the payer and, where applicable, a breakdown of the amounts of such charges;
+
+(d) where applicable, the exchange rate used in the payment transaction by the payer’s payment service provider or a reference thereto, when different from the rate provided in accordance with point (d) of Article 45(1), and the amount of the payment transaction after that currency conversion;
+
+(e) the date of receipt of the payment order.
+
+<a id="art_49"></a>
+
+### Article 49 — Information for the payee after execution
+
+Immediately after the execution of the payment transaction, the payee’s payment service provider shall provide the payee with, or make available to, the payee, in the same way as provided for in Article 44(1), all of the following data with regard to its own services:
+
+(a) a reference enabling the payee to identify the payment transaction and, where appropriate, the payer and any information transferred with the payment transaction;
+
+(b) the amount of the payment transaction in the currency in which the funds are at the payee’s disposal;
+
+(c) the amount of any charges for the payment transaction payable by the payee and, where applicable, a breakdown of the amounts of such charges;
+
+(d) where applicable, the exchange rate used in the payment transaction by the payee’s payment service provider, and the amount of the payment transaction before that currency conversion;
+
+(e) the credit value date.
+
+<a id="art_50"></a>
+
+### Article 50 — Scope
+
+This Chapter applies to payment transactions covered by a framework contract.
+
+<a id="art_51"></a>
+
+### Article 51 — Prior general information
+
+**1.** Member States shall require that, in good time before the payment service user is bound by any framework contract or offer, the payment service provider provide the payment service user on paper or on another durable medium with the information and conditions specified in Article 52. The information and conditions shall be given in easily understandable words and in a clear and comprehensible form, in an official language of the Member State where the payment service is offered or in any other language agreed between the parties.
+
+**2.** If the framework contract has been concluded at the request of the payment service user using a means of distance communication which does not enable the payment service provider to comply with paragraph 1, the payment service provider shall fulfil its obligations under that paragraph immediately after conclusion of the framework contract.
+
+**3.** The obligations under paragraph 1 may also be discharged by providing a copy of the draft framework contract including the information and conditions specified in Article 52.
+
+<a id="art_52"></a>
+
+### Article 52 — Information and conditions
+
+Member States shall ensure that the following information and conditions are provided to the payment service user:
+
+1. on the payment service provider: (a) the name of the payment service provider, the geographical address of its head office and, where applicable, the geographical address of its agent or branch established in the Member State where the payment service is offered, and any other address, including electronic mail address, relevant for communication with the payment service provider; (b) the particulars of the relevant supervisory authorities and of the register provided for in Article 14 or of any other relevant public register of authorisation of the payment service provider and the registration number or equivalent means of identification in that register;
+
+2. on use of the payment service: (a) a description of the main characteristics of the payment service to be provided; (b) a specification of the information or unique identifier that has to be provided by the payment service user in order for a payment order to be properly initiated or executed; (c) the form of and procedure for giving consent to initiate a payment order or execute a payment transaction and withdrawal of such consent in accordance with Articles 64 and 80; (d) a reference to the time of receipt of a payment order in accordance with Article 78 and the cut-off time, if any, established by the payment service provider; (e) the maximum execution time for the payment services to be provided; (f) whether there is a possibility to agree on spending limits for the use of the payment instrument in accordance with Article 68(1); (g) in the case of co-badged, card-based payment instruments, the payment service user’s rights under Article 8 of Regulation (EU) 2015/751;
+
+3. on charges, interest and exchange rates: (a) all charges payable by the payment service user to the payment service provider including those connected to the manner in and frequency with which information under this Directive is provided or made available and, where applicable, the breakdown of the amounts of such charges; (b) where applicable, the interest and exchange rates to be applied or, if reference interest and exchange rates are to be used, the method of calculating the actual interest, and the relevant date and index or base for determining such reference interest or exchange rate; (c) if agreed, the immediate application of changes in reference interest or exchange rate and information requirements relating to the changes in accordance with Article 54(2);
+
+4. on communication: (a) where applicable, the means of communication, including the technical requirements for the payment service user’s equipment and software, agreed between the parties for the transmission of information or notifications under this Directive; (b) the manner in, and frequency with which, information under this Directive is to be provided or made available; (c) the language or languages in which the framework contract will be concluded and communication during this contractual relationship undertaken; (d) the payment service user’s right to receive the contractual terms of the framework contract and information and conditions in accordance with Article 53;
+
+5. on safeguards and corrective measures: (a) where applicable, a description of the steps that the payment service user is to take in order to keep safe a payment instrument and how to notify the payment service provider for the purposes of point (b) of Article 69(1); (b) the secure procedure for notification of the payment service user by the payment service provider in the event of suspected or actual fraud or security threats; (c) if agreed, the conditions under which the payment service provider reserves the right to block a payment instrument in accordance with Article 68; (d) the liability of the payer in accordance with Article 74, including information on the relevant amount; (e) how and within what period of time the payment service user is to notify the payment service provider of any unauthorised or incorrectly initiated or executed payment transaction in accordance with Article 71 as well as the payment service provider’s liability for unauthorised payment transactions in accordance with Article 73; (f) the liability of the payment service provider for the initiation or execution of ►C1 payment transactions in accordance with Articles 89 and 90;** ◄ ** (g) the conditions for refund in accordance with Articles 76 and 77;
+
+6. on changes to, and termination of, the framework contract: (a) if agreed, information that the payment service user will be deemed to have accepted changes in the conditions in accordance with Article 54, unless the payment service user notifies the payment service provider before the date of their proposed date of entry into force that they are not accepted; (b) the duration of the framework contract; (c) the right of the payment service user to terminate the framework contract and any agreements relating to termination in accordance with Article 54(1) and Article 55;
+
+7. on redress: (a) any contractual clause on the law applicable to the framework contract and/or the competent courts; (b) the ADR procedures available to the payment service user in accordance with Articles 99 to 102.
+
+<a id="art_53"></a>
+
+### Article 53 — Accessibility of information and conditions of the framework contract
+
+At any time during the contractual relationship the payment service user shall have a right to receive, on request, the contractual terms of the framework contract as well as the information and conditions specified in Article 52 on paper or on another durable medium.
+
+<a id="art_54"></a>
+
+### Article 54 — Changes in conditions of the framework contract
+
+**1.** Any changes in the framework contract or in the information and conditions specified in Article 52 shall be proposed by the payment service provider in the same way as provided for in Article 51(1) and no later than 2 months before their proposed date of application. The payment service user can either accept or reject the changes before the date of their proposed date of entry into force.
+
+Where applicable in accordance with point (6)(a) of Article 52, the payment service provider shall inform the payment service user that it is to be deemed to have accepted those changes if it does not notify the payment service provider before the proposed date of their entry into force that they are not accepted. The payment service provider shall also inform the payment service user that, in the event that the payment service user rejects those changes, the payment service user has the right to terminate the framework contract free of charge and with effect at any time until the date when the changes would have applied.
+
+**2.** Changes in the interest or exchange rates may be applied immediately and without notice, provided that such a right is agreed upon in the framework contract and that the changes in the interest or exchange rates are based on the reference interest or exchange rates agreed on in accordance with point (3)(b) and (c) of Article 52. The payment service user shall be informed of any change in the interest rate at the earliest opportunity in the same way as provided for in Article 51(1), unless the parties have agreed on a specific frequency or manner in which the information is to be provided or made available. However, changes in interest or exchange rates which are more favourable to the payment service users, may be applied without notice.
+
+**3.** Changes in the interest or exchange rate used in payment transactions shall be implemented and calculated in a neutral manner that does not discriminate against payment service users.
+
+<a id="art_55"></a>
+
+### Article 55 — Termination
+
+**1.** The payment service user may terminate the framework contract at any time, unless the parties have agreed on a period of notice. Such a period shall not exceed 1 month.
+
+**2.** Termination of the framework contract shall be free of charge for the payment service user except where the contract has been in force for less than 6 months. Charges, if any, for termination of the framework contract shall be appropriate and in line with costs.
+
+**3.** If agreed in the framework contract, the payment service provider may terminate a framework contract concluded for an indefinite period by giving at least 2 months’ notice in the same way as provided for in Article 51(1).
+
+**4.** Charges for payment services levied on a regular basis shall be payable by the payment service user only proportionally up to the termination of the contract. If such charges are paid in advance, they shall be reimbursed proportionally.
+
+**5.** The provisions of this Article are without prejudice to the Member States’ laws and regulations governing the rights of the parties to declare the framework contract unenforceable or void.
+
+**6.** Member States may provide for more favourable provisions for payment service users.
+
+<a id="art_56"></a>
+
+### Article 56 — Information before execution of individual payment transactions
+
+In the case of an individual payment transaction under a framework contract initiated by the payer, a payment service provider shall, at the payer’s request for this specific payment transaction, provide explicit information on all of the following:
+
+(a) the maximum execution time;
+
+(b) the charges payable by the payer;
+
+(c) where applicable, a breakdown of the amounts of any charges.
+
+<a id="art_57"></a>
+
+### Article 57 — Information for the payer on individual payment transactions
+
+**1.** After the amount of an individual payment transaction is debited from the payer’s account or, where the payer does not use a payment account, after receipt of the payment order, the payer’s payment service provider shall provide the payer, without undue delay and in the same way as laid down in Article 51(1), with all of the following information:(a) a reference enabling the payer to identify each payment transaction and, where appropriate, information relating to the payee;(b) the amount of the payment transaction in the currency in which the payer’s payment account is debited or in the currency used for the payment order;(c) the amount of any charges for the payment transaction and, where applicable, a breakdown of the amounts of such charges, or the interest payable by the payer;(d) where applicable, the exchange rate used in the payment transaction by the payer’s payment service provider, and the amount of the payment transaction after that currency conversion;(e) the debit value date or the date of receipt of the payment order.
+
+**2.** A framework contract shall include a condition that the payer may require the information referred to in paragraph 1 to be provided or made available periodically, at least once a month, free of charge and in an agreed manner which allows the payer to store and reproduce information unchanged.
+
+**3.** However, Member States may require payment service providers to provide information on paper or on another durable medium at least once a month, free of charge.
+
+<a id="art_58"></a>
+
+### Article 58 — Information for the payee on individual payment transactions
+
+**1.** After the execution of an individual payment transaction, the payee’s payment service provider shall provide the payee without undue delay in the same way as laid down in Article 51(1) with all of the following information:(a) a reference enabling the payee to identify the payment transaction and the payer, and any information transferred with the payment transaction;(b) the amount of the payment transaction in the currency in which the payee’s payment account is credited;(c) the amount of any charges for the payment transaction and, where applicable, a breakdown of the amounts of such charges, or the interest payable by the payee;(d) where applicable, the exchange rate used in the payment transaction by the payee’s payment service provider, and the amount of the payment transaction before that currency conversion;(e) the credit value date.
+
+**2.** A framework contract may include a condition that the information referred to in paragraph 1 is to be provided or made available periodically, at least once a month and in an agreed manner which allows the payee to store and reproduce information unchanged.
+
+**3.** However, Member States may require payment service providers to provide information on paper or on another durable medium at least once a month, free of charge.
+
+<a id="art_59"></a>
+
+### Article 59 — Currency and currency conversion
+
+**1.** Payments shall be made in the currency agreed between the parties.
+
+**2.** Where a currency conversion service is offered prior to the initiation of the payment transaction and where that currency conversion service is offered at an ATM, at the point of sale or by the payee, the party offering the currency conversion service to the payer shall disclose to the payer all charges as well as the exchange rate to be used for converting the payment transaction.
+
+The payer shall agree to the currency conversion service on that basis.
+
+<a id="art_60"></a>
+
+### Article 60 — Information on additional charges or reductions
+
+**1.** Where, for the use of a given payment instrument, the payee requests a charge or offers a reduction, the payee shall inform the payer thereof prior to the initiation of the payment transaction.
+
+**2.** Where, for the use of a given payment instrument, the payment service provider or another party involved in the transaction requests a charge, it shall inform the payment service user thereof prior to the initiation of the payment transaction.
+
+**3.** The payer shall only be obliged to pay for the charges referred to in paragraphs 1 and 2 if their full amount was made known prior to the initiation of the payment transaction.
+
+<a id="art_61"></a>
+
+### Article 61 — Scope
+
+**1.** Where the payment service user is not a consumer, the payment service user and the ►C1 payment service provider may agree that Article 62(1), Article 64(3), and Articles 72, 74, 76, 77, 80, 89 and 90** ◄ ** do not apply in whole or in part. The payment service user and the payment service provider may also agree on time limits that are different from those laid down in Article 71.
+
+**2.** Member States may provide that Article 102 does not apply where the payment service user is not a consumer.
+
+**3.** Member States may provide that provisions in this Title are applied to microenterprises in the same way as to consumers.
+
+**4.** This Directive shall be without prejudice to Directive 2008/48/EC, other relevant Union law or national measures regarding conditions for granting credit to consumers not harmonised by this Directive that comply with Union law.
+
+<a id="art_62"></a>
+
+### Article 62 — Charges applicable
+
+**1.** The payment service provider shall not charge the payment service user for fulfilment of its information obligations or corrective and preventive measures under this Title, ►C1 unless otherwise specified in Article 79(1), Article 80(5) and Article 88(4).** ◄ ** Those charges shall be agreed between the payment service user and the payment service provider and shall be appropriate and in line with the payment service provider’s actual costs.
+
+**2.** Member States shall require that for payment transactions provided within the Union, where both the payer’s and the payee’s payment service providers are, or the sole payment service provider in the payment transaction is, located therein, the payee pays the charges levied by his payment service provider, and the payer pays the charges levied by his payment service provider.
+
+**3.** The payment service provider shall not prevent the payee from requesting from the payer a charge, offering him a reduction or otherwise steering him towards the use of a given payment instrument. Any charges applied shall not exceed the direct costs borne by the payee for the use of the specific payment instrument.
+
+**4.** In any case, Member States shall ensure that the payee shall not request charges for the use of payment instruments for which interchange fees are regulated under Chapter II of Regulation (EU) 2015/751 and for those payment services to which Regulation (EU) No 260/2012 applies.
+
+**5.** Member States may prohibit or limit the right of the payee to request charges taking into account the need to encourage competition and promote the use of efficient payment instruments.
+
+<a id="art_63"></a>
+
+### Article 63 — Derogation for low value payment instruments and electronic money
+
+**1.** In the case of payment instruments which, according to the framework contract, solely concern individual payment transactions not exceeding EUR 30 or which either have a spending limit of EUR 150, or store funds which do not exceed EUR 150 at any time, payment service providers may agree with their payment service users that:(a) point (b) of Article 69(1), points (c) and (d) of Article 70(1), and Article 74(3) do not apply if the payment instrument does not allow its blocking or prevention of its further use;(b) Articles 72 and 73, and Article 74(1) and (3), do not apply if the payment instrument is used anonymously or the payment service provider is not in a position for other reasons which are intrinsic to the payment instrument to prove that a payment transaction was authorised;(c) by way of derogation from Article 79(1), the payment service provider is not required to notify the payment service user of the refusal of a payment order, if the non-execution is apparent from the context;(d) by way of derogation from Article 80, the payer may not revoke the payment order after transmitting the payment order or giving consent to execute the payment transaction to the payee;(e) by way of derogation from Articles 83 and 84, other execution periods apply.
+
+**2.** For national payment transactions, Member States or their competent authorities may reduce or double the amounts referred to in paragraph 1. They may increase them for prepaid payment instruments up to EUR 500.
+
+**3.** Articles 73 and 74 of this Directive shall apply also to electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC, except where the payer’s payment service provider does not have the ability to freeze the payment account on which the electronic money is stored or block the payment instrument. Member States may limit that derogation to payment accounts on which the electronic money is stored or to payment instruments of a certain value.
+
+<a id="art_64"></a>
+
+### Article 64 — Consent and withdrawal of consent
+
+**1.** Member States shall ensure that a payment transaction is considered to be authorised only if the payer has given consent to execute the payment transaction. A payment transaction may be authorised by the payer prior to or, if agreed between the payer and the payment service provider, after the execution of the payment transaction.
+
+**2.** Consent to execute a payment transaction or a series of payment transactions shall be given in the form agreed between the payer and the payment service provider. Consent to execute a payment transaction may also be given via the payee or the payment initiation service provider.
+
+In the absence of consent, a payment transaction shall be considered to be unauthorised.
+
+**3.** Consent may be withdrawn by the payer at any time, but no later than at the moment of irrevocability in accordance with Article 80. Consent to execute a series of payment transactions may also be withdrawn, in which case any future payment transaction shall be considered to be unauthorised.
+
+**4.** The procedure for giving consent shall be agreed between the payer and the relevant payment service provider(s).
+
+<a id="art_65"></a>
+
+### Article 65 — Confirmation on the availability of funds
+
+**1.** Member States shall ensure that an account servicing payment service provider shall, upon the request of a payment service provider issuing card-based payment instruments, immediately confirm whether an amount necessary for the execution of a card-based payment transaction is available on the payment account of the payer, provided that all of the following conditions are met:(a) the payment account of the payer is accessible online at the time of the request;(b) the payer has given explicit consent to the account servicing payment service provider to respond to requests from a specific payment service provider to confirm that the amount corresponding to a certain card-based payment transaction is available on the payer’s payment account;(c) the consent referred to in point (b) has been given before the first request for confirmation is made.
+
+**2.** The payment service provider may request the confirmation referred to in paragraph 1 where all of the following conditions are met:(a) the payer has given explicit consent to the payment service provider to request the confirmation referred to in paragraph 1;(b) the payer has initiated the card-based payment transaction for the amount in question using a card based payment instrument issued by the payment service provider;(c) the payment service provider authenticates itself towards the account servicing payment service provider before each confirmation request, and securely communicates with the account servicing payment service provider in accordance with point (d) of Article 98(1).
+
+**3.** In accordance with Directive 95/46/EC, the confirmation referred to in paragraph 1 shall consist only in a simple ‘yes’ or ‘no’ answer and not in a statement of the account balance. That answer shall not be stored or used for purposes other than for the execution of the card-based payment transaction.
+
+**4.** The confirmation referred to in paragraph 1 shall not allow for the account servicing payment service provider to block funds on the payer’s payment account.
+
+**5.** The payer may request the account servicing payment service provider to communicate to the payer the identification of the payment service provider and the answer provided.
+
+**6.** This Article does not apply to payment transactions initiated through card-based payment instruments on which electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC is stored.
+
+<a id="art_66"></a>
+
+### Article 66 — Rules on access to payment account in the case of payment initiation services
+
+**1.** Member States shall ensure that a payer has the right to make use of a payment initiation service provider to obtain payment services as referred to in point (7) of Annex I. The right to make use of a payment initiation service provider shall not apply where the payment account is not accessible online.
+
+**2.** When the payer gives its explicit consent for a payment to be executed in accordance with Article 64, the account servicing payment service provider shall perform the actions specified in paragraph 4 of this Article in order to ensure the payer’s right to use the payment initiation service.
+
+**3.** The payment initiation service provider shall:(a) not hold at any time the payer’s funds in connection with the provision of the payment initiation service;(b) ensure that the personalised security credentials of the payment service user are not, with the exception of the user and the issuer of the personalised security credentials, accessible to other parties and that they are transmitted by the payment initiation service provider through safe and efficient channels;(c) ensure that any other information about the payment service user, obtained when providing payment initiation services, is only provided to the payee and only with the payment service user’s explicit consent;(d) every time a payment is initiated, identify itself towards the account servicing payment service provider of the payer and communicate with the account servicing payment service provider, the payer and the payee in a secure way, in accordance with point (d) of Article 98(1);(e) not store sensitive payment data of the payment service user;(f) not request from the payment service user any data other than those necessary to provide the payment initiation service;(g) not use, access or store any data for purposes other than for the provision of the payment initiation service as explicitly requested by the payer;(h) not modify the amount, the payee or any other feature of the transaction.
+
+**4.** The account servicing payment service provider shall:(a) communicate securely with payment initiation service providers in accordance with point (d) of Article 98(1);(b) immediately after receipt of the payment order from a payment initiation service provider, provide or make available all information on the initiation of the payment transaction and all information accessible to the account servicing payment service provider regarding the execution of the payment transaction to the payment initiation service provider;(c) treat payment orders transmitted through the services of a payment initiation service provider without any discrimination other than for objective reasons, in particular in terms of timing, priority or charges vis-à-vis payment orders transmitted directly by the payer.
+
+**5.** The provision of payment initiation services shall not be dependent on the existence of a contractual relationship between the payment initiation service providers and the account servicing payment service providers for that purpose.
+
+<a id="art_67"></a>
+
+### Article 67 — Rules on access to and use of payment account information in the case of account information services
+
+**1.** Member States shall ensure that a payment service user has the right to make use of services enabling access to account information as referred to in point (8) of Annex I. That right shall not apply where the payment account is not accessible online.
+
+**2.** The account information service provider shall:(a) provide services only where based on the payment service user’s explicit consent;(b) ensure that the personalised security credentials of the payment service user are not, with the exception of the user and the issuer of the personalised security credentials, accessible to other parties and that when they are transmitted by the account information service provider, this is done through safe and efficient channels;(c) for each communication session, identify itself towards the account servicing payment service provider(s) of the payment service user and securely communicate with the account servicing payment service provider(s) and the payment service user, in accordance with point (d) of Article 98(1);(d) access only the information from designated payment accounts and associated payment transactions;(e) not request sensitive payment data linked to the payment accounts;(f) not use, access or store any data for purposes other than for performing the account information service explicitly requested by the payment service user, in accordance with data protection rules.
+
+**3.** In relation to payment accounts, the account servicing payment service provider shall:(a) communicate securely with the account information service providers in accordance with point (d) of Article 98(1); and(b) treat data requests transmitted through the services of an account information service provider without any discrimination for other than objective reasons.
+
+**4.** The provision of account information services shall not be dependent on the existence of a contractual relationship between the account information service providers and the account servicing payment service providers for that purpose.
+
+<a id="art_68"></a>
+
+### Article 68 — Limits of the use of the payment instrument and of the access to payment accounts by payment service providers
+
+**1.** Where a specific payment instrument is used for the purposes of giving consent, the payer and the payer’s payment service provider may agree on spending limits for payment transactions executed through that payment instrument.
+
+**2.** If agreed in the framework contract, the payment service provider may reserve the right to block the payment instrument for objectively justified reasons relating to the security of the payment instrument, the suspicion of unauthorised or fraudulent use of the payment instrument or, in the case of a payment instrument with a credit line, a significantly increased risk that the payer may be unable to fulfil its liability to pay.
+
+**3.** In such cases the payment service provider shall inform the payer of the blocking of the payment instrument and the reasons for it in an agreed manner, where possible, before the payment instrument is blocked and at the latest immediately thereafter, unless providing such information would compromise objectively justified security reasons or is prohibited by other relevant Union or national law.
+
+**4.** The payment service provider shall unblock the payment instrument or replace it with a new payment instrument once the reasons for blocking no longer exist.
+
+**5.** An account servicing payment service provider may deny an account information service provider or a payment initiation service provider access to a payment account for objectively justified and duly evidenced reasons relating to unauthorised or fraudulent access to the payment account by that account information service provider or that payment initiation service provider, including the unauthorised or fraudulent initiation of a payment transaction. In such cases the account servicing payment service provider shall inform the payer that access to the payment account is denied and the reasons therefor in the form agreed. That information shall, where possible, be given to the payer before access is denied and at the latest immediately thereafter, unless providing such information would compromise objectively justified security reasons or is prohibited by other relevant Union or national law.
+
+The account servicing payment service provider shall allow access to the payment account once the reasons for denying access no longer exist.
+
+**6.** In the cases referred to in paragraph 5, the account servicing payment service provider shall immediately report the incident relating to the account information service provider or the payment initiation service provider to the competent authority. The information shall include the relevant details of the case and the reasons for taking action. The competent authority shall assess the case and shall, if necessary, take appropriate measures.
+
+<a id="art_69"></a>
+
+### Article 69 — Obligations of the payment service user in relation to payment instruments and personalised security credentials
+
+**1.** The payment service user entitled to use a payment instrument shall:(a) use the payment instrument in accordance with the terms governing the issue and use of the payment instrument, which must be objective, non-discriminatory and proportionate;(b) notify the payment service provider, or the entity specified by the latter, without undue delay on becoming aware of the loss, theft, misappropriation or unauthorised use of the payment instrument.
+
+**2.** For the purposes of point (a) of paragraph 1, the payment service user shall, in particular, as soon as in receipt of a payment instrument, take all reasonable steps to keep its personalised security credentials safe.
+
+<a id="art_70"></a>
+
+### Article 70 — Obligations of the payment service provider in relation to payment instruments
+
+**1.** The payment service provider issuing a payment instrument shall:(a) make sure that the personalised security credentials are not accessible to parties other than the payment service user that is entitled to use the payment instrument, without prejudice to the obligations on the payment service user set out in Article 69;(b) refrain from sending an unsolicited payment instrument, except where a payment instrument already given to the payment service user is to be replaced;(c) ensure that appropriate means are available at all times to enable the payment service user to make a notification pursuant to point (b) of Article 69(1) or to request unblocking of the payment instrument pursuant to Article 68(4); on request, the payment service provider shall provide the payment service user with the means to prove, for 18 months after notification, that the payment service user made such a notification;(d) provide the payment service user with an option to make a notification pursuant to point (b) of Article 69(1) free of charge and to charge, if at all, only replacement costs directly attributed to the payment instrument;(e) prevent all use of the payment instrument once notification pursuant to point (b) of Article 69(1) has been made.
+
+**2.** The payment service provider shall bear the risk of sending a payment instrument or any personalised security credentials relating to it to the payment service user.
+
+<a id="art_71"></a>
+
+### Article 71 — Notification and rectification of unauthorised or incorrectly executed payment transactions
+
+**1.** The payment service user shall obtain rectification of an unauthorised or incorrectly executed payment transaction from the payment service provider only if the payment service user notifies the payment service provider without undue delay on becoming aware of any such transaction giving rise to a claim, including that under Article 89, and no later than 13 months after the debit date.
+
+The time limits for notification laid down in the first subparagraph do not apply where the payment service provider has failed to provide or make available the information on the payment transaction in accordance with Title III.
+
+**2.** Where a payment initiation service provider is involved, the payment service user shall obtain rectification from the account servicing payment service provider pursuant to paragraph 1 of this Article, without prejudice to Article 73(2) and Article 89(1).
+
+<a id="art_72"></a>
+
+### Article 72 — Evidence on authentication and execution of payment transactions
+
+**1.** Member States shall require that, where a payment service user denies having authorised an executed payment transaction or claims that the payment transaction was not correctly executed, it is for the payment service provider to prove that the payment transaction was authenticated, accurately recorded, entered in the accounts and not affected by a technical breakdown or some other deficiency of the service provided by the payment service provider.
+
+If the payment transaction is initiated through a payment initiation service provider, the burden shall be on the payment initiation service provider to prove that within its sphere of competence, the payment transaction was authenticated, accurately recorded and not affected by a technical breakdown or other deficiency linked to the payment service of which it is in charge.
+
+**2.** Where a payment service user denies having authorised an executed payment transaction, the use of a payment instrument recorded by the payment service provider, including the payment initiation service provider as appropriate, shall in itself not necessarily be sufficient to prove either that the payment transaction was authorised by the payer or that the payer acted fraudulently or failed with intent or gross negligence to fulfil one or more of the obligations under Article 69. The payment service provider, including, where appropriate, the payment initiation service provider, shall provide supporting evidence to prove fraud or gross negligence on part of the payment service user.
+
+<a id="art_73"></a>
+
+### Article 73 — Payment service provider’s liability for unauthorised payment transactions
+
+**1.** Member States shall ensure that, without prejudice to Article 71, in the case of an unauthorised payment transaction, the payer’s payment service provider refunds the payer the amount of the unauthorised payment transaction immediately, and in any event no later than by the end of the following business day, after noting or being notified of the transaction, except where the payer’s payment service provider has reasonable grounds for suspecting fraud and communicates those grounds to the relevant national authority in writing. Where applicable, the payer’s payment service provider shall restore the debited payment account to the state in which it would have been had the unauthorised payment transaction not taken place. This shall also ensure that the credit value date for the payer’s payment account shall be no later than the date the amount had been debited.
+
+**2.** Where the payment transaction is initiated through a payment initiation service provider, the account servicing payment service provider shall refund immediately, and in any event no later than by the end of the following business day the amount of the unauthorised payment transaction and, where applicable, restore the debited payment account to the state in which it would have been had the unauthorised payment transaction not taken place.
+
+If the payment initiation service provider is liable for the unauthorised payment transaction, it shall immediately compensate the account servicing payment service provider at its request for the losses incurred or sums paid as a result of the refund to the payer, including the amount of the unauthorised payment transaction. In accordance with Article 72(1), the burden shall be on the payment initiation service provider to prove that, within its sphere of competence, the payment transaction was authenticated, accurately recorded and not affected by a technical breakdown or other deficiency linked to the payment service of which it is in charge.
+
+**3.** Further financial compensation may be determined in accordance with the law applicable to the contract concluded between the payer and the payment service provider or the contract concluded between the payer and the payment initiation service provider if applicable.
+
+<a id="art_74"></a>
+
+### Article 74 — Payer’s liability for unauthorised payment transactions
+
+**1.** By way of derogation from Article 73, the payer may be obliged to bear the losses relating to any unauthorised payment transactions, up to a maximum of EUR 50, resulting from the use of a lost or stolen payment instrument or from the misappropriation of a payment instrument.
+
+The first subparagraph shall not apply if:
+
+(a) the loss, theft or misappropriation of a payment instrument was not detectable to the payer prior to a payment, except where the payer has acted fraudulently; or
+
+(b) the loss was caused by acts or lack of action of an employee, agent or branch of a payment service provider or of an entity to which its activities were outsourced.
+
+The payer shall bear all of the losses relating to any unauthorised payment transactions if they were incurred by the payer acting fraudulently or failing to fulfil one or more of the obligations set out in Article 69 with intent or gross negligence. In such cases, the maximum amount referred to in the first subparagraph shall not apply.
+
+Where the payer has neither acted fraudulently nor intentionally failed to fulfil its obligations under Article 69, Member States may reduce the liability referred to in this paragraph, taking into account, in particular, the nature of the personalised security credentials and the specific circumstances under which the payment instrument was lost, stolen or misappropriated.
+
+**2.** Where the payer’s payment service provider does not require strong customer authentication, the payer shall not bear any financial losses unless the payer has acted fraudulently. Where the payee or the payment service provider of the payee fails to accept strong customer authentication, it shall refund the financial damage caused to the payer’s payment service provider.
+
+**3.** The payer shall not bear any financial consequences resulting from use of the lost, stolen or misappropriated payment instrument after notification in accordance with point (b) of Article 69(1), except where the payer has acted fraudulently.
+
+If the payment service provider does not provide appropriate means for the notification at all times of a lost, stolen or misappropriated payment instrument, as required under point (c) of Article 70(1), the payer shall not be liable for the financial consequences resulting from use of that payment instrument, except where the payer has acted fraudulently.
+
+<a id="art_75"></a>
+
+### Article 75 — Payment transactions where the transaction amount is not known in advance
+
+**1.** Where a payment transaction is initiated by or through the payee in the context of a card-based payment transaction and the exact amount is not known at the moment when the payer gives consent to execute the payment transaction, the payer’s payment service provider may block funds on the payer’s payment account only if the payer has given consent to the exact amount of the funds to be blocked.
+
+**2.** The payer’s payment service provider shall release the funds blocked on the payer’s payment account under paragraph 1 without undue delay after receipt of the information about the exact amount of the payment transaction and at the latest immediately after receipt of the payment order.
+
+<a id="art_76"></a>
+
+### Article 76 — Refunds for payment transactions initiated by or through a payee
+
+**1.** Member States shall ensure that a payer is entitled to a refund from the payment service provider of an authorised payment transaction which was initiated by or through a payee and which has already been executed, if both of the following conditions are met:(a) the authorisation did not specify the exact amount of the payment transaction when the authorisation was made;(b) the amount of the payment transaction exceeded the amount the payer could reasonably have expected taking into account the previous spending pattern, the conditions in the framework contract and relevant circumstances of the case.
+
+At the payment service provider’s request, the payer shall bear the burden of proving such conditions are met.
+
+The refund shall consist of the full amount of the executed payment transaction. The credit value date for the payer’s payment account shall be no later than the date the amount was debited.
+
+Without prejudice to paragraph 3 of this Article, Member States shall ensure that, in addition to the right referred to in the first subparagraph of this paragraph, for direct debits as referred to in Article 1 of Regulation (EU) No 260/2012, the payer has an unconditional right to a refund within the time limits laid down in Article 77 of this Directive.
+
+**2.** However, for the purposes of point (b) of the first subparagraph of paragraph 1, the payer shall not rely on currency exchange reasons if the reference exchange rate agreed with its payment service provider in accordance with point (d) of Article 45(1) and point (3)(b) of Article 52 was applied.
+
+**3.** It may be agreed in a framework contract between the payer and the payment service provider that the payer has no right to a refund where:(a) the payer has given consent to execute the payment transaction directly to the payment service provider; and(b) where applicable, information on the future payment transaction was provided or made available in an agreed manner to the payer for at least 4 weeks before the due date by the payment service provider or by the payee.
+
+**4.** For direct debits in currencies other than euro, Member States may require their payment service providers to offer more favourable refund rights in accordance with their direct debit schemes provided that they are more advantageous to the payer.
+
+<a id="art_77"></a>
+
+### Article 77 — Requests for refunds for payment transactions initiated by or through a payee
+
+**1.** Member States shall ensure that the payer can request the refund referred to in Article 76 of an authorised payment transaction initiated by or through a payee for a period of 8 weeks from the date on which the funds were debited.
+
+**2.** Within 10 business days of receiving a request for a refund, the payment service provider shall either refund the full amount of the payment transaction or provide a justification for refusing the refund and indicate the bodies to which the payer may refer the matter in accordance with Articles 99 to 102 if the payer does not accept the reasons provided.
+
+The payment service provider’s right under the first subparagraph of this paragraph to refuse the refund shall not apply in the case set out in the fourth subparagraph of Article 76(1).
+
+<a id="art_78"></a>
+
+### Article 78 — Receipt of payment orders
+
+**1.** Member States shall ensure that the time of receipt is when the payment order is received by the payer’s payment service provider.
+
+The payer’s account shall not be debited before receipt of the payment order. If the time of receipt is not on a business day for the payer’s payment service provider, the payment order shall be deemed to have been received on the following business day. The payment service provider may establish a cut-off time near the end of a business day beyond which any payment order received shall be deemed to have been received on the following business day.
+
+**2.** If the payment service user initiating a payment order and the payment service provider agree that execution of the payment order shall start on a specific day or at the end of a certain period or on the day on which the payer has put funds at the payment service provider’s disposal, the time of receipt for the purposes of Article 83 is deemed to be the agreed day. If the agreed day is not a business day for the payment service provider, the payment order received shall be deemed to have been received on the following business day.
+
+<a id="art_79"></a>
+
+### Article 79 — Refusal of payment orders
+
+**1.** Where the payment service provider refuses to execute a payment order or to initiate a payment transaction, the refusal and, if possible, the reasons for it and the procedure for correcting any factual mistakes that led to the refusal shall be notified to the payment service user, unless prohibited by other relevant Union or national law.
+
+The payment service provider shall provide or make available the notification in an agreed manner at the earliest opportunity, and in any case, within the periods specified in Article 83.
+
+The framework contract may include a condition that the payment service provider may charge a reasonable fee for such a refusal if the refusal is objectively justified.
+
+**2.** Where all of the conditions set out in the payer’s framework contract are met, the payer’s account servicing payment service provider shall not refuse to execute an authorised payment order irrespective of whether the payment order is initiated by a payer, including through a payment initiation service provider, or by or through a payee, unless prohibited by other relevant Union or national law.
+
+**3.** For the purposes of Articles 83 and 89 a payment order for which execution has been refused shall be deemed not to have been received.
+
+<a id="art_80"></a>
+
+### Article 80 — Irrevocability of a payment order
+
+**1.** Member States shall ensure that the payment service user shall not revoke a payment order once it has been received by the payer’s payment service provider, unless otherwise specified in this Article.
+
+**2.** Where the payment transaction is initiated by a payment initiation service provider or by or through the payee, the payer shall not revoke the payment order after giving consent to the payment initiation service provider to initiate the payment transaction or after giving consent to execute the payment transaction to the payee.
+
+**3.** However, in the case of a direct debit and without prejudice to refund rights the payer may revoke the payment order at the latest by the end of the business day preceding the day agreed for debiting the funds.
+
+**4.** In the case referred to in Article 78(2) the payment service user may revoke a payment order at the latest by the end of the business day preceding the agreed day.
+
+**5.** After the time limits laid down in paragraphs 1 to 4, the payment order may be revoked only if agreed between the payment service user and the relevant payment service providers. In the case referred to in paragraphs 2 and 3, the payee’s agreement shall also be required. If agreed in the framework contract, the relevant payment service provider may charge for revocation.
+
+<a id="art_81"></a>
+
+### Article 81 — Amounts transferred and amounts received
+
+**1.** Member States shall require the payment service provider(s) of the payer, the payment service provider(s) of the payee and any intermediaries of the payment service providers to transfer the full amount of the payment transaction and refrain from deducting charges from the amount transferred.
+
+**2.** However, the payee and the payment service provider may agree that the relevant payment service provider deduct its charges from the amount transferred before crediting it to the payee. In such a case, the full amount of the payment transaction and charges shall be separated in the information given to the payee.
+
+**3.** If any charges other than those referred to in paragraph 2 are deducted from the amount transferred, the payment service provider of the payer shall ensure that the payee receives the full amount of the payment transaction initiated by the payer. Where the payment transaction is initiated by or through the payee, the payment service provider of the payee shall ensure that the full amount of the payment transaction is received by the payee.
+
+<a id="art_82"></a>
+
+### Article 82 — Scope
+
+**1.** This Section applies to:(a) payment transactions in euro;(b) national payment transactions in the currency of the Member State outside the euro area;(c) payment transactions involving only one currency conversion between the euro and the currency of a Member State outside the euro area, provided that the required currency conversion is carried out in the Member State outside the euro area concerned and, in the case of cross-border payment transactions, the cross-border transfer takes place in euro.
+
+**2.** This Section applies to payment transactions not referred to in the paragraph 1, unless otherwise agreed between the payment service user and the payment service provider, with the exception of Article 87, which is not at the disposal of the parties. However, if the payment service user and the payment service provider agree on a longer period than that set in Article 83, for intra-Union payment transactions, that longer period shall not exceed 4 business days following the time of receipt as referred to in Article 78.
+
+<a id="art_83"></a>
+
+### Article 83 — Payment transactions to a payment account
+
+**1.** Member States shall require the payer’s payment service provider to ensure that after the time of receipt as referred to in Article 78, the amount of the payment transaction will be credited to the payee’s payment service provider’s account by the end of the following business day. That time limit may be extended by a further business day for paper-initiated payment transactions.
+
+**2.** Member States shall require the payment service provider of the payee to value date and make available the amount of the payment transaction to the payee’s payment account after the payment service provider has received the funds in accordance with Article 87.
+
+**3.** Member States shall require the payee’s payment service provider to transmit a payment order initiated by or through the payee to the payer’s payment service provider within the time limits agreed between the payee and the payment service provider, enabling settlement, as far as direct debit is concerned, on the agreed due date.
+
+<a id="art_84"></a>
+
+### Article 84 — Absence of payee’s payment account with the payment service provider
+
+Where the payee does not have a payment account with the payment service provider, the funds shall be made available to the payee by the payment service provider who receives the funds for the payee within the time limit laid down in Article 83.
+
+<a id="art_85"></a>
+
+### Article 85 — Cash placed on a payment account
+
+Where a consumer places cash on a payment account with that payment service provider in the currency of that payment account, the payment service provider shall ensure that the amount is made available and value dated immediately after receipt of the funds. Where the payment service user is not a consumer, the amount shall be made available and value dated at the latest on the following business day after receipt of the funds.
+
+<a id="art_86"></a>
+
+### Article 86 — National payment transactions
+
+For national payment transactions, Member States may provide for shorter maximum execution times than those provided for in this Section.
+
+<a id="art_87"></a>
+
+### Article 87 — Value date and availability of funds
+
+**1.** Member States shall ensure that the credit value date for the payee’s payment account is no later than the business day on which the amount of the payment transaction is credited to the payee’s payment service provider’s account.
+
+**2.** The payment service provider of the payee shall ensure that the amount of the payment transaction is at the payee’s disposal immediately after that amount is credited to the payee’s payment service provider’s account where, on the part of the payee’s payment service provider, there is:(a) no currency conversion; or(b) a currency conversion between the euro and a Member State currency or between two Member State currencies.
+
+The obligation laid down in this paragraph shall also apply to payments within one payment service provider.
+
+**3.** Member States shall ensure that the debit value date for the payer’s payment account is no earlier than the time at which the amount of the payment transaction is debited to that payment account.
+
+<a id="art_88"></a>
+
+### Article 88 — Incorrect unique identifiers
+
+**1.** If a payment order is executed in accordance with the unique identifier, the payment order shall be deemed to have been executed correctly with regard to the payee specified by the unique identifier.
+
+**2.** If the unique identifier provided by the payment service user is incorrect, the payment service provider shall not be liable under Article 89 for non-execution or defective execution of the payment transaction.
+
+**3.** However, the payer’s payment service provider shall make reasonable efforts to recover the funds involved in the payment transaction. The payee’s payment service provider shall cooperate in those efforts also by communicating to the payer’s payment service provider all relevant information for the collection of funds.
+
+In the event that the collection of funds under the first subparagraph is not possible, the payer’s payment service provider shall provide to the payer, upon written request, all information available to the payer’s payment service provider and relevant to the payer in order for the payer to file a legal claim to recover the funds.
+
+**4.** If agreed in the framework contract, the payment service provider may charge the payment service user for recovery.
+
+**5.** If the payment service user provides information in addition to that specified in point (a) of Article 45(1) or point (2)(b) of Article 52, the payment service provider shall be liable only for the execution of payment transactions in accordance with the unique identifier provided by the payment service user.
+
+<a id="art_89"></a>
+
+### Article 89 — Payment service providers’ liability for non-execution, defective or late execution of payment transactions
+
+**1.** Where a payment order is initiated directly by the payer, the payer’s payment service provider shall, without prejudice to Article 71, Article 88(2) and (3), and Article 93, be liable to the payer for correct execution of the payment transaction, unless it can prove to the payer and, where relevant, to the payee’s payment service provider that the payee’s payment service provider received the amount of the payment transaction in accordance with Article 83(1). In that case, the payee’s payment service provider shall be liable to the payee for the correct execution of the payment transaction.
+
+Where the payer’s payment service provider is liable under the first subparagraph, it shall, without undue delay, refund to the payer the amount of the non-executed or defective payment transaction, and, where applicable, restore the debited payment account to the state in which it would have been had the defective payment transaction not taken place.
+
+The credit value date for the payer’s payment account shall be no later than the date on which the amount was debited.
+
+Where the payee’s payment service provider is liable under the first subparagraph, it shall immediately place the amount of the payment transaction at the payee’s disposal and, where applicable, credit the corresponding amount to the payee’s payment account.
+
+The credit value date for the payee’s payment account shall be no later than the date on which the amount would have been value dated, had the transaction been correctly executed in accordance with Article 87.
+
+Where a payment transaction is executed late, the payee’s payment service provider shall ensure, upon the request of the payer’s payment service provider acting on behalf of the payer, that the credit value date for the payee’s payment account is no later than the date the amount would have been value dated had the transaction been correctly executed.
+
+In the case of a non-executed or defectively executed payment transaction where the payment order is initiated by the payer, the payer’s payment service provider shall, regardless of liability under this paragraph, on request, make immediate efforts to trace the payment transaction and notify the payer of the outcome. This shall be free of charge for the payer.
+
+**2.** Where a payment order is initiated by or through the payee, the payee’s payment service provider shall, without prejudice to Article 71, Article 88(2) and (3), and Article 93, be liable to the payee for correct transmission of the payment order to the payment service provider of the payer in accordance with Article 83(3). Where the payee’s payment service provider is liable under this subparagraph, it shall immediately re-transmit the payment order in question to the payment service provider of the payer.
+
+In the case of a late transmission of the payment order, the amount shall be value dated on the payee’s payment account no later than the date the amount would have been value dated had the transaction been correctly executed.
+
+In addition, the payment service provider of the payee shall, without prejudice to Article 71, Article 88(2) and (3), and Article 93, be liable to the payee for handling the payment transaction in accordance with its obligations under Article 87. Where the payee’s payment service provider is liable under this subparagraph, it shall ensure that the amount of the payment transaction is at the payee’s disposal immediately after that amount is credited to the payee’s payment service provider’s account. The amount shall be value dated on the payee’s payment account no later than the date the amount would have been value dated had the transaction been correctly executed.
+
+►C1 In the case of a non-executed or defectively executed payment transaction for which the payee's payment service provider is not liable under the first and third subparagraphs, the payer's payment service provider shall be liable to the payer.** ◄ ** Where the payer’s payment service provider is so liable he shall, as appropriate and without undue delay, refund to the payer the amount of the non-executed or defective payment transaction and restore the debited payment account to the state in which it would have been had the defective payment transaction not taken place. The credit value date for the payer’s payment account shall be no later than the date the amount was debited.
+
+The obligation under the fourth subparagraph shall not apply to the payer’s payment service provider where the payer’s payment service provider proves that the payee’s payment service provider has received the amount of the payment transaction, even if execution of payment transaction is merely delayed. If so, the payee’s payment service provider shall value date the amount on the payee’s payment account no later than the date the amount would have been value dated had it been executed correctly.
+
+In the case of a non-executed or defectively executed payment transaction where the payment order is initiated by or through the payee, the payee’s payment service provider shall, regardless of liability under this paragraph, on request, make immediate efforts to trace the payment transaction and notify the payee of the outcome. This shall be free of charge for the payee.
+
+**3.** In addition, payment service providers shall be liable to their respective payment service users for any charges for which they are responsible, and for any interest to which the payment service user is subject as a consequence of non-execution or defective, including late, execution of the payment transaction.
+
+<a id="art_90"></a>
+
+### Article 90 — Liability in the case of payment initiation services for non-execution, defective or late execution of payment transactions
+
+**1.** Where a payment order is initiated by the payer through a payment initiation service provider, the account servicing payment service provider shall, without prejudice to Article 71 and Article 88(2) and (3), refund to the payer the amount of the non- executed or defective payment transaction and, where applicable, restore the debited payment account to the state in which it would have been had the defective payment transaction not taken place.
+
+The burden shall be on the payment initiation service provider to prove that the payment order was received by the payer’s account servicing payment service provider in accordance with Article 78 and that within its sphere of competence the payment transaction was authenticated, accurately recorded and not affected by a technical breakdown or other deficiency linked to the non-execution, defective or late execution of the transaction.
+
+**2.** If the payment initiation service provider is liable for the non-execution, defective or late execution of the payment transaction, it shall immediately compensate the account servicing payment service provider at its request for the losses incurred or sums paid as a result of the refund to the payer.
+
+<a id="art_91"></a>
+
+### Article 91 — Additional financial compensation
+
+Any financial compensation additional to that provided for under this Section may be determined in accordance with the law applicable to the contract concluded between the payment service user and the payment service provider.
+
+<a id="art_92"></a>
+
+### Article 92 — Right of recourse
+
+**1.** Where the liability of a payment service provider under Articles 73, 89 and 90 is attributable to another payment service provider or to an intermediary, that payment service provider or intermediary shall compensate the first payment service provider for any losses incurred or sums paid under Articles 73, 89 and 90. That shall include compensation where any of the payment service providers fail to use strong customer authentication.
+
+**2.** Further financial compensation may be determined in accordance with agreements between payment service providers and/or intermediaries and the law applicable to the agreement concluded between them.
+
+<a id="art_93"></a>
+
+### Article 93 — Abnormal and unforeseeable circumstances
+
+No liability shall arise under Chapter 2 or 3 in cases of abnormal and unforeseeable circumstances beyond the control of the party pleading for the application of those circumstances, the consequences of which would have been unavoidable despite all efforts to the contrary, or where a payment service provider is bound by other legal obligations covered by Union or national law.
+
+<a id="art_94"></a>
+
+### Article 94 — Data protection
+
+**1.** Member States shall permit processing of personal data by payment systems and payment service providers when necessary to safeguard the prevention, investigation and detection of payment fraud. The provision of information to individuals about the processing of personal data and the processing of such personal data and any other processing of personal data for the purposes of this Directive shall be carried out in accordance with Directive 95/46/EC, the national rules which transpose Directive 95/46/EC and with Regulation (EC) No 45/2001.
+
+**2.** Payment service providers shall only access, process and retain personal data necessary for the provision of their payment services, with the explicit consent of the payment service user.
+
+<a id="art_95"></a>
+
+### Article 95 — Management of operational and security risks
+
+**1.** Member States shall ensure that payment service providers establish a framework with appropriate mitigation measures and control mechanisms to manage the operational and security risks, relating to the payment services they provide. As part of that framework, payment service providers shall establish and maintain effective incident management procedures, including for the detection and classification of major operational and security incidents.
+
+**2.** Member States shall ensure that payment service providers provide to the competent authority on an annual basis, or at shorter intervals as determined by the competent authority, an updated and comprehensive assessment of the operational and security risks relating to the payment services they provide and on the adequacy of the mitigation measures and control mechanisms implemented in response to those risks.
+
+**3.** By 13 July 2017, EBA shall, in close cooperation with the ECB and after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 with regard to the establishment, implementation and monitoring of the security measures, including certification processes where relevant.
+
+EBA shall, in close cooperation with the ECB, review the guidelines referred to in the first subparagraph on a regular basis and in any event at least every 2 years.
+
+**4.** Taking into account experience acquired in the application of the guidelines referred to in paragraph 3, EBA shall, where requested to do so by the Commission as appropriate, develop draft regulatory technical standards on the criteria and on the conditions for establishment, and monitoring, of security measures.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**5.** EBA shall promote cooperation, including the sharing of information, in the area of operational and security risks associated with payment services among the competent authorities, and between the competent authorities and the ECB and, where relevant, the European Union Agency for Network and Information Security.
+
+<a id="art_96"></a>
+
+### Article 96 — Incident reporting
+
+**1.** In the case of a major operational or security incident, payment service providers shall, without undue delay, notify the competent authority in the home Member State of the payment service provider.
+
+Where the incident has or may have an impact on the financial interests of its payment service users, the payment service provider shall, without undue delay, inform its payment service users of the incident and of all measures that they can take to mitigate the adverse effects of the incident.
+
+**2.** Upon receipt of the notification referred to in paragraph 1, the competent authority of the home Member State shall, without undue delay, provide the relevant details of the incident to EBA and to the ECB. That competent authority shall, after assessing the relevance of the incident to relevant authorities of that Member State, notify them accordingly.
+
+EBA and the ECB shall, in cooperation with the competent authority of the home Member State, assess the relevance of the incident to other relevant Union and national authorities and shall notify them accordingly. The ECB shall notify the members of the European System of Central Banks on issues relevant to the payment system.
+
+On the basis of that notification, the competent authorities shall, where appropriate, take all of the necessary measures to protect the immediate safety of the financial system.
+
+**3.** By 13 January 2018, EBA shall, in close cooperation with the ECB and after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 addressed to each of the following:(a) payment service providers, on the classification of major incidents referred to in paragraph 1, and on the content, the format, including standard notification templates, and the procedures for notifying such incidents;(b) competent authorities, on the criteria on how to assess the relevance of the incident and the details of the incident reports to be shared with other domestic authorities.
+
+**4.** EBA shall, in close cooperation with the ECB, review the guidelines referred to in paragraph 3 on a regular basis and in any event at least every 2 years.
+
+**5.** While issuing and reviewing the guidelines referred to in paragraph 3, EBA shall take into account standards and/or specifications developed and published by the European Union Agency for Network and Information Security for sectors pursuing activities other than payment service provision.
+
+**6.** Member States shall ensure that payment service providers provide, at least on an annual basis, statistical data on fraud relating to different means of payment to their competent authorities. Those competent authorities shall provide EBA and the ECB with such data in an aggregated form.
+
+<a id="art_97"></a>
+
+### Article 97 — Authentication
+
+**1.** Member States shall ensure that a payment service provider applies strong customer authentication where the payer:(a) accesses its payment account online;(b) initiates an electronic payment transaction;(c) carries out any action through a remote channel which may imply a risk of payment fraud or other abuses.
+
+**2.** With regard to the initiation of electronic payment transactions as referred to in point (b) of paragraph 1, Member States shall ensure that, for electronic remote payment transactions, payment service providers apply strong customer authentication that includes elements which dynamically link the transaction to a specific amount and a specific payee.
+
+**3.** With regard to paragraph 1, Member States shall ensure that payment service providers have in place adequate security measures to protect the confidentiality and integrity of payment service users’ personalised security credentials.
+
+**4.** Paragraphs 2 and 3 shall also apply where payments are initiated through a payment initiation service provider. Paragraphs 1 and 3 shall also apply when the information is requested through an account information service provider.
+
+**5.** Member States shall ensure that the account servicing payment service provider allows the payment initiation service provider and the account information service provider to rely on the authentication procedures provided by the account servicing payment service provider to the payment service user in accordance with paragraphs 1 and 3 and, where the payment initiation service provider is involved, in accordance with paragraphs 1, 2 and 3.
+
+<a id="art_98"></a>
+
+### Article 98 — Regulatory technical standards on authentication and communication
+
+**1.** EBA shall, in close cooperation with the ECB and after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, develop draft regulatory technical standards addressed to payment service providers as set out in Article 1(1) of this Directive in accordance with Article 10 of Regulation (EU) No 1093/2010 specifying:(a) the requirements of the strong customer authentication referred to in Article 97(1) and (2);(b) the exemptions from the application of Article 97(1), (2) and (3), based on the criteria established in paragraph 3 of this Article;(c) the requirements with which security measures have to comply, in accordance with Article 97(3) in order to protect the confidentiality and the integrity of the payment service users’ personalised security credentials; and(d) the requirements for common and secure open standards of communication for the purpose of identification, authentication, notification, and information, as well as for the implementation of security measures, between account servicing payment service providers, payment initiation service providers, account information service providers, payers, payees and other payment service providers.
+
+**2.** The draft regulatory technical standards referred to in paragraph 1 shall be developed by EBA in order to:(a) ensure an appropriate level of security for payment service users and payment service providers, through the adoption of effective and risk-based requirements;(b) ensure the safety of payment service users’ funds and personal data;(c) secure and maintain fair competition among all payment service providers;(d) ensure technology and business-model neutrality;(e) allow for the development of user-friendly, accessible and innovative means of payment.
+
+**3.** The exemptions referred to in point (b) of paragraph 1 shall be based on the following criteria:(a) the level of risk involved in the service provided;(b) the amount, the recurrence of the transaction, or both;(c) the payment channel used for the execution of the transaction.
+
+**4.** EBA shall submit the draft regulatory technical standards referred to in paragraph 1 to the Commission by 13 January 2017.
+
+Power is delegated to the Commission to adopt those regulatory technical standards in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**5.** In accordance with Article 10 of Regulation (EU) No 1093/2010, EBA shall review and, if appropriate, update the regulatory technical standards on a regular basis in order, inter alia, to take account of innovation and technological developments.
+
+<a id="art_99"></a>
+
+### Article 99 — Complaints
+
+**1.** Member States shall ensure that procedures are set up which allow payment service users and other interested parties including consumer associations, to submit complaints to the competent authorities with regard to payment service providers' alleged infringements of the provisions of national law implementing the provisions of this Directive.
+
+**2.** Where appropriate and without prejudice to the right to bring proceedings before a court in accordance with national procedural law, the reply from the competent authorities shall inform the complainant of the existence of the ADR procedures set up in accordance with Article 102.
+
+<a id="art_100"></a>
+
+### Article 100 — Competent authorities
+
+**1.** Member States shall designate competent authorities to ensure and monitor effective compliance with this Directive. Those competent authorities shall take all appropriate measures to ensure such compliance.
+
+They shall be either:
+
+(a) competent authorities within the meaning of Article 4(2) of Regulation (EU) No 1093/2010; or
+
+(b) bodies recognised by national law or by public authorities expressly empowered for that purpose by national law.
+
+They shall not be payment service providers, with the exception of national central banks.
+
+**2.** The authorities referred to in paragraph 1 shall possess all powers and adequate resources necessary for the performance of their duties. Where more than one competent authority is empowered to ensure and monitor effective compliance with this Directive, Member States shall ensure that those authorities collaborate closely so that they can discharge their respective duties effectively.
+
+**3.** The competent authorities shall exercise their powers in accordance with national law either:(a) directly under their own authority or under the supervision of the judicial authorities; or(b) by application to courts which are competent to grant the necessary decision, including, where appropriate, by appeal, if the application to grant the necessary decision is not successful.
+
+**4.** In the event of infringement or suspected infringement of the provisions of national law transposing Titles III and IV, the competent authorities referred to in paragraph 1 of this Article shall be those of the home Member State of the payment service provider, except for agents and branches conducted under the right of establishment where the competent authorities shall be those of the host Member State.
+
+**5.** Member States shall notify the Commission of the designated competent authorities referred to in paragraph 1 as soon as possible and in any event by 13 January 2018. They shall inform the Commission of any division of duties of those authorities. They shall immediately notify the Commission of any subsequent change concerning the designation and respective competences of those authorities.
+
+**6.** EBA shall, after consulting the ECB, issue guidelines, addressed to the competent authorities, in accordance with Article 16 of Regulation (EU) No 1093/2010 on the complaints procedures to be taken into consideration to ensure compliance with paragraph 1 of this Article. Those guidelines shall be issued by 13 January 2018 and shall be updated on a regular basis, as appropriate.
+
+<a id="art_101"></a>
+
+### Article 101 — Dispute resolution
+
+**1.** Member States shall ensure that payment service providers put in place and apply adequate and effective complaint resolution procedures for the settlement of complaints of payment service users concerning the rights and obligations arising under Titles III and IV of this Directive and shall monitor their performance in that regard.
+
+Those procedures shall be applied in every Member State where the payment service provider offers the payment services and shall be available in an official language of the relevant Member State or in another language if agreed between the payment service provider and the payment service user.
+
+**2.** Member States shall require that payment service providers make every possible effort to reply, on paper or, if agreed between payment service provider and payment service user, on another durable medium, to the payment service users’ complaints. Such a reply shall address all points raised, within an adequate timeframe and at the latest within 15 business days of receipt of the complaint. In exceptional situations, if the answer cannot be given within 15 business days for reasons beyond the control of the payment service provider, it shall be required to send a holding reply, clearly indicating the reasons for a delay in answering to the complaint and specifying the deadline by which the payment service user will receive the final reply. In any event, the deadline for receiving the final reply shall not exceed 35 business days.
+
+Member States may introduce or maintain rules on dispute resolution procedures that are more advantageous to the payment service user than that referred to in the first subparagraph. Where they do so, those rules shall apply.
+
+**3.** The payment service provider shall inform the payment service user about at least one ADR entity which is competent to deal with disputes concerning the rights and obligations arising under Titles III and IV.
+
+**4.** The information referred to in paragraph 3 shall be mentioned in a clear, comprehensive and easily accessible way on the website of the payment service provider, where one exists, at the branch, and in the general terms and conditions of the contract between the payment service provider and the payment service user. It shall specify how further information on the ADR entity concerned and on the conditions for using it can be accessed.
+
+<a id="art_102"></a>
+
+### Article 102 — ADR procedures
+
+**1.** Member States shall ensure that adequate, independent, impartial, transparent and effective ADR procedures for the settlement of disputes between payment service users and payment service providers concerning the rights and obligations arising under Titles III and IV of this Directive are established according to the relevant national and Union law in accordance with Directive 2013/11/EU of the European Parliament and the Council (8), using existing competent bodies where appropriate. ►C1 Member States shall ensure that ADR procedures are applicable to payment service providers.** ◄ **
+
+**2.** Member States shall require the bodies referred to in paragraph 1 of this Article to cooperate effectively for the resolution of cross-border disputes concerning the rights and obligations arising under Titles III and IV.
+
+<a id="art_103"></a>
+
+### Article 103 — Penalties
+
+**1.** Member States shall lay down rules on penalties applicable to infringements of the national law transposing this Directive and shall take all necessary measures to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive.
+
+**2.** Member States shall allow their competent authorities to disclose to the public any administrative penalty that is imposed for infringement of the measures adopted in the transposition of this Directive, unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.
+
+<a id="art_104"></a>
+
+### Article 104 — Delegated acts
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 105 concerning:
+
+(a) adapting the reference to Recommendation 2003/361/EC in point (36) of Article 4 of this Directive where that Recommendation is amended;
+
+(b) updating the amounts specified in Article 32(1) and Article 74(1) to take account of inflation.
+
+<a id="art_105"></a>
+
+### Article 105 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Article 104 shall be conferred on the Commission for an undetermined period of time from 12 January 2016.
+
+**3.** The delegation of power referred to in Article 104 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the *Official Journal of the European Union* or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**5.** A delegated act adopted pursuant to Article 104 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 3 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 3 months at the initiative of the European Parliament or of the Council.
+
+<a id="art_106"></a>
+
+### Article 106 — Obligation to inform consumers of their rights
+
+**1.** By 13 January 2018, the Commission shall produce a user-friendly electronic leaflet, listing in a clear and easily comprehensible manner, the rights of consumers under this Directive and related Union law.
+
+**2.** The Commission shall inform Member States, European associations of payment service providers and European consumer associations of the publication of the leaflet referred to in paragraph 1.
+
+The Commission, EBA and the competent authorities shall each ensure that the leaflet is made available in an easily accessible manner on their respective websites.
+
+**3.** Payment service providers shall ensure that the leaflet is made available in an easily accessible manner on their websites, if existing, and on paper at their branches, their agents and the entities to which their activities are outsourced.
+
+**4.** Payment service providers shall not charge their clients for making available information under this Article.
+
+**5.** In respect of persons with disabilities, the provisions of this Article shall be applied using appropriate alternative means, allowing the information to be made available in an accessible format.
+
+<a id="art_107"></a>
+
+### Article 107 — Full harmonisation
+
+**1.** Without prejudice to Article 2, Article 8(3), Article 32, Article 38(2), Article 42(2), Article 55(6), Article 57(3), Article 58(3), Article 61(2) and (3), Article 62(5), Article 63(2) and (3), ►C1 the fourth subparagraph of Article 74(1)** ◄ ** and Article 86, insofar as this Directive contains harmonised provisions, Member States shall not maintain or introduce provisions other than those laid down in this Directive.
+
+**2.** Where a Member State makes use of any of the options referred to in paragraph 1, it shall inform the Commission thereof as well as of any subsequent changes. The Commission shall make the information public on a website or other easily accessible means.
+
+**3.** Member States shall ensure that payment service providers do not derogate, to the detriment of payment service users, from the provisions of national law transposing this Directive except where explicitly provided for therein.
+
+However, payment service providers may decide to grant more favourable terms to payment service users.
+
+<a id="art_108"></a>
+
+### Article 108 — Review clause
+
+The Commission shall, by 13 January 2021, submit to the European Parliament, the Council, the ECB and the European Economic and Social Committee, a report on the application and impact of this Directive, and in particular on:
+
+(a) the appropriateness and the impact of the rules on charges as set out in Article 62(3), (4) and (5);
+
+(b) the application of Article 2(3) and (4), including an assessment of whether Titles III and IV can, where technically feasible, be applied in full to payment transactions referred to in those paragraphs;
+
+(c) access to payment systems, having regard in particular to the level of competition;
+
+(d) the appropriateness and the impact of the thresholds for the payment transactions referred to in point (l) of Article 3;
+
+(e) the appropriateness and the impact of the threshold for the exemption referred to in point (a) of Article 32(1);
+
+(f) whether, given developments, it would be desirable, as a complement to the provisions in Article 75 on payment transactions where the amount is not known in advance and funds are blocked, to introduce maximum limits for the amounts to be blocked on the payer’s payment account in such situations.
+
+If appropriate, the Commission shall submit a legislative proposal together with its report.
+
+<a id="art_109"></a>
+
+### Article 109 — Transitional provision
+
+**1.** Member States shall allow payment institutions that have taken up activities in accordance with the national law transposing Directive 2007/64/EC by 13 January 2018, to continue those activities in accordance with the requirements provided for in Directive 2007/64/EC without being required to seek authorisation in accordance with Article 5 of this Directive or to comply with the other provisions laid down or referred to in Title II of this Directive until 13 July 2018.
+
+Member States shall require such payment institutions to submit all relevant information to the competent authorities in order to allow the latter to assess, by 13 July 2018, whether those payment institutions comply with the requirements laid down in Title II and, if not, which measures need to be taken in order to ensure compliance or whether a withdrawal of authorisation is appropriate.
+
+Payment institutions which upon verification by the competent authorities comply with the requirements laid down in Title II shall be granted authorisation and shall be entered in the registers referred to in Articles 14 and 15. Where those payment institutions do not comply with the requirements laid down in Title II by 13 July 2018, they shall be prohibited from providing payment services in accordance with Article 37.
+
+**2.** Member States may provide for payment institutions referred to in paragraph 1 of this Article to be automatically granted authorisation and entered in the registers referred to in Articles 14 and 15 if the competent authorities already have evidence that the requirements laid down in Articles 5 and 11 are complied with. The competent authorities shall inform the payment institutions concerned before the authorisation is granted.
+
+**3.** This paragraph applies to natural or legal persons who benefited under Article 26 of Directive 2007/64/EC before 13 January 2018, and pursued payment services activities within the meaning of Directive 2007/64/EC.
+
+Member States shall allow those persons to continue those activities within the Member State concerned in accordance with Directive 2007/64/EC, until 13 January 2019 without being required to seek authorisation under Article 5 of this Directive or, to obtain an exemption pursuant to Article 32 of this Directive, or to comply with the other provisions laid down or referred to in Title II of this Directive.
+
+Any person referred to in the first subparagraph who has not, by 13 January 2019, been authorised or exempted under this Directive shall be prohibited from providing payment services in accordance with Article 37 of this Directive.
+
+**4.** Member States may allow natural and legal persons benefiting from an exemption as referred to in paragraph 3 of this Article to be deemed to benefit from an exemption and automatically entered in the registers referred to in Articles 14 and 15 where the competent authorities have evidence that the requirements laid down in Article 32 are complied with. The competent authorities shall inform the payment institutions concerned.
+
+**5.** Notwithstanding paragraph 1 of this Article, payment institutions that have been granted authorisation to provide payment services as referred to in point (7) of the Annex to Directive 2007/64/EC shall retain that authorisation for the provision of those payment services which are considered to be payment services as referred to in point (3) of the Annex I to this Directive where, by 13 January 2020, the competent authorities have the evidence that the requirements laid down in point (c) of Article 7 and in Article 9 of this Directive are complied with.
+
+<a id="art_110"></a>
+
+### Article 110 — Amendments to Directive 2002/65/EC
+
+In Article 4 of Directive 2002/65/EC, paragraph 5 is replaced by the following:
+
+**‘5.** Where Directive (EU) 2015/2366 of the European Parliament and of the Council (*1) is also applicable, the information provisions under Article 3(1) of this Directive, with the exception of points (2)(c) to (g), (3)(a), (d) and (e), and (4)(b), shall be replaced with Articles 44, 45, 51 and 52 of Directive (EU) 2015/2366.
+
+<a id="art_111"></a>
+
+### Article 111 — Amendments to Directive 2009/110/EC
+
+Directive 2009/110/EC is amended as follows:
+
+(1) Article 3 is amended as follows: (a) paragraph 1 is replaced by the following: **‘1.** Without prejudice to this Directive, Article 5, Articles 11 to 17, Article 19(5) and (6) and Articles 20 to 31 of Directive (EU) 2015/2366 of the European Parliament and of the Council (*2), including the delegated acts adopted under Article 15(4), Article 28(5) and Article 29(7) thereof, shall apply to electronic money institutions *mutatis mutandis*. (b) paragraphs 4 and 5 are replaced by the following: **‘4.** Member States shall allow electronic money institutions to distribute and redeem electronic money through natural or legal persons which act on their behalf. Where the electronic money institution distributes electronic money in another Member State by engaging such a natural or legal person, Articles 27 to 31, with exception of Article 29(4) and (5), of Directive (EU) 2015/2366, including the delegated acts adopted in accordance with Article 28(5) and Article 29(7) thereof, shall apply *mutatis mutandis* to such electronic money institution. **5.** Notwithstanding paragraph 4 of this Article, electronic money institutions shall not issue electronic money through agents. Electronic money institutions shall be allowed to provide payment services referred to in point (a) of Article 6(1) of this Directive through agents subject to the conditions laid down in Article 19 of Directive (EU) 2015/2366.’;
+
+(2) in Article 18, the following paragraph is added: **‘4.** Member States shall allow electronic money institutions that have, before 13 January 2018, taken up activities in accordance with this Directive and with Directive 2007/64/EC in the Member State in which their head office is located to continue those activities in that Member State or in another Member State without being required to seek authorisation in accordance with Article 3 of this Directive or to comply with other requirements laid down or referred to in Title II of this Directive until 13 July 2018. Member States shall require electronic money institutions referred to in the first subparagraph to submit all relevant information to the competent authorities in order to allow the later to assess, by 13 July 2018, whether those electronic money institutions comply with the requirements laid down in Title II of this Directive, and, if not, which measures need to be taken in order to ensure compliance or whether a withdrawal of authorisation is appropriate. Electronic money institutions referred to in the first subparagraph which upon verification by the competent authorities comply with the requirements laid down in Title II shall be granted authorisation and shall be entered in the register. Where those electronic money institutions do not comply with the requirements laid down in Title II by 13 July 2018 they shall be prohibited from issuing electronic money.’.
+
+<a id="art_112"></a>
+
+### Article 112 — Amendments to Regulation (EU) No 1093/2010
+
+Regulation (EU) No 1093/2010 is amended as follows:
+
+(1) in Article 1, paragraph 2 is replaced by the following: **‘2.** The Authority shall act within the powers conferred by this Regulation and within the scope of, Directive 2002/87/EC, Directive 2009/110/EC, Regulation (EU) No 575/2013 of the European Parliament and of the Council (*3), Directive 2013/36/EU of the European Parliament and of the Council (*4), Directive 2014/49/EU of the European Parliament and of the Council (*5), Regulation (EU) 2015/847 of the European Parliament and the Council (*6), Directive (EU) 2015/2366 of the European Parliament and of the Council (*7) and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC and Directive (EU)2015/849 of the European Parliament and of the Council (*8), including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013 (*9).
+
+(2) Article 4(1) is replaced by the following: **‘(1)** “financial institutions” means credit institutions as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013, investment firms as defined in point (2) of Article 4(1) of Regulation (EU) No 575/2013, financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, payment service providers as defined in point (11) of Article 4 of Directive (EU) 2015/2366 and electronic money institutions as defined in point (1) of Article 2 of Directive 2009/110/EC, save that, with regard to Directive (EU) 2015/849, ‘financial institutions’ means credit institutions and financial institutions as defined in points (1) and (2) of Article 3 of Directive (EU) 2015/849;’.
+
+<a id="art_113"></a>
+
+### Article 113 — Amendment to Directive 2013/36/EU
+
+In Annex I to Directive 2013/36/EU, point (4) is replaced by the following:
+
+‘(4) Payment services as defined in point (3) of Article 4 of Directive (EU) 2015/2366 of the European Parliament and of the Council (*10);
+
+<a id="art_114"></a>
+
+### Article 114 — Repeal
+
+Directive 2007/64/EC is repealed with effect from 13 January 2018.
+
+Any reference to the repealed Directive shall be construed as a reference to this Directive and shall be read in accordance with the correlation table in Annex II to this Directive.
+
+<a id="art_115"></a>
+
+### Article 115 — Transposition
+
+**1.** By 13 January 2018, Member States shall adopt and publish the measures necessary to comply with this Directive. They shall immediately inform the Commission thereof.
+
+**2.** They shall apply those measures from 13 January 2018.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+**3.** Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+**4.** By way of derogation from paragraph 2, Member States shall ensure the application of the security measures referred to in Articles 65, 66, 67 and 97 from 18 months after the date of entry into force of the regulatory technical standards referred to in Article 98.
+
+**5.** Member States shall not forbid legal persons that have performed in their territories, before 12 January 2016, activities of payment initiation service providers and account information service providers within the meaning of this Directive, to continue to perform the same activities in their territories during the transitional period referred to in paragraphs 2 and 4 in accordance with the currently applicable regulatory framework.
+
+**6.** Member States shall ensure that until individual account servicing payment service providers comply with the regulatory technical standards referred to in paragraph 4, account servicing payment service providers do not abuse their non-compliance to block or obstruct the use of payment initiation and account information services for the accounts that they are servicing.
+
+<a id="art_116"></a>
+
+### Article 116 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+<a id="art_117"></a>
+
+### Article 117 — Addresses
+
+This Directive is addressed to the Member States.

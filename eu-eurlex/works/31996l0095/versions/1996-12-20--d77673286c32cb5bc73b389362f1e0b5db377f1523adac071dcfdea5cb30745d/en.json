@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31996l0095:1996-12-20--d77673286c32cb5bc73b389362f1e0b5db377f1523adac071dcfdea5cb30745d",
+  "language": "en",
+  "title": "Council Directive 96/95/EC of 20 December 1996 amending, with regard to the level of the s…",
+  "valid_from": "1996-12-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31996l0095/versions/1996-12-20--d77673286c32cb5bc73b389362f1e0b5db377f1523adac071dcfdea5cb30745d/en.html",
+    "sha256": "faf120379d546c0aab8389c584c6f5fcf59226bc2a73280e49a157c1b896e1e2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0095"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31996l0095:1996-12-20--d77673286c32cb5bc73b389362f1e0b5db377f1523adac071dcfdea5cb30745d#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 31996L0095 Council Directive 96/95/EC of 20 December 1996 amending, with regard to the level of the standard rate of value added tax, Directive 77/338/EEC on the common system of value added tax Official Journal L 338 , 28/12/1996 P. 0089 - 0090 COUNCIL DIRECTIVE 96/95/EC of 20 December 1996 amending, with regard to the level of the standard rate of value added tax, Directive 77/338/EEC on the common system of value added taxTHE COUNCIL OF THE EUROPEAN UNION,Having regard to the Treaty establishing the European Community, and in particular Article 99 thereof,Having regard to the proposal from the Commission,Having regard to the opinion of the European Parliament (1),Having regard to the opinion of the Economic and Social Committee (2),Whereas Article 122 (3) (a) of Directive 77/388/EEC (3), lays down that, on the basis of the report on the operation of the transitional arrangements and proposals of the definitive arrangements to be submitted by the Commission pursuant to Article 28 thereof, the Council shall decide unanimously before 31 December 1995 on the level of the minimum rate of value added tax to be applied after 31 December 1996 with regard to the standard rate; whereas the standard rate shall be fixed by each Member State as a percentage of the taxable amount and shall be the same for the supply of goods and the supply of services; whereas from 1 January 1993 to 31 December 1996 this percentage may not be less than 15;Whereas experience has shown that, under the current taxation system, the standard rates of value added tax at present in force in the various Member States, in combination with the safeguards built into that system, have ensured that the transitional system of value added tax has functioned satisfactorily; whereas it seems therefore appropriate with regard to the standard rate, to maintain the current level of the minimum rate for a further period of two years;Whereas the transitional arrangements of the common system of value added tax should not jeopardize subsequent new arrangements; whereas the introduction of such new arrangements, which, according to Article 28 (1) of Directive 77/388/EEC, are to be based in principle on the taxation in the Member State of origin, might require a certain level of approximation of the standard rates of value added tax in the Community; whereas, consequently, the level of the standard rate to be applied after the two-year period should be decided upon unanimously by the Council, on a proposal from the Commission and after consulting the European Parliament and the Economic and Social Committee,HAS ADOPTED THIS DIRECTIVE:Article 1 Directive 77/388/EEC is hereby amended as follows:Article 12 (3) (a) shall be replaced by the following:'(a) The standard rate of value added tax shall be fixed by each Member State as a percentage of the taxable amount and shall be the same for the supply of goods and for the supply of services. From 1 January 1997 to 31 December 1998, this percentage may not be less than 15.On a proposal from the Commission and after consulting the European Parliament and the Economic and Social Committee, the Council shall decide unanimously on the level of the standard rate to be applied after 31 December 1998.Member States may also apply either one or two reduced rates. These rates shall be fixed as a percentage of the taxable amount which may not be less than 5 % and shall apply only to supplies of the categories of goods and services specified in Annex H.`Article 2 1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 January 1997 at the latest. They shall forthwith inform the Commission thereof.When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The methods of making such a reference shall be laid down by the Member States.2. Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field covered by this Directive.Article 3 This Directive shall apply from 1 January 1997.Article 4 This Directive is addressed to the Member States.,Done at Brussels, 20 December 1996.For the CouncilThe PresidentS. BARRETT(1) OJ No C 277, 23. 9. 1996, p. 25.(2) OJ No C 204, 15. 7. 1996, p. 94.(3) OJ No L 145, 13. 6. 1977, p. 1. Directive as last amended by Directive 96/42/EC (OJ No L 170, 9. 7. 1996, p. 34).",
+      "text_sha256": "f190b8e4b0db633f0e3fa0d425d50574c91f00595825016f33efcd4957a7101d",
+      "md_span": {
+        "start": 715,
+        "end": 5250
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

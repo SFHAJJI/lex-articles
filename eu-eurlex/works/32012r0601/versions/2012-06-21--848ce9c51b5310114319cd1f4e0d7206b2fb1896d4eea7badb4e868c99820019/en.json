@@ -1,0 +1,1372 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0601/2012 of 21\u00A0June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC",
+  "valid_from": "2012-06-21",
+  "valid_to": "2012-07-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r0601/versions/2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019/en.xml",
+    "sha256": "0aa2db940d2e98d4842aeea9358410d16bfc6895ed329850c8049fa34238d1a1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0601"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down rules for the monitoring and reporting of greenhouse gas emissions and activity data pursuant to Directive 2003/87/EC in the trading period of the Union emissions trading scheme commencing on 1 January 2013 and subsequent trading periods.",
+      "text_sha256": "dad832307721df2187cfcc90c7768bf5eb7b7905e2b54312e3b797ce44383aff",
+      "md_span": {
+        "start": 764,
+        "end": 1039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall apply to the monitoring and reporting of greenhouse gas emissions specified in relation to the activities listed in Annex I to Directive 2003/87/EC and activity data from stationary installations, from aviation activities and to the monitoring and reporting of tonne-kilometre data from aviation activities.\n\nIt shall apply to emissions and activity data occurring from 1 January 2013.",
+      "text_sha256": "0e7a7bf206d2bcf8cbdef069a8f7d8b4d900b03f698382ff20e7cc9dfe3e37f7",
+      "md_span": {
+        "start": 1072,
+        "end": 1490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of this Regulation, the following definitions apply:\n\n| (1) | ‘activity data’ means the data on the amount of fuels or materials consumed or produced by a process as relevant for the calculation-based monitoring methodology, expressed in terajoules, mass in tonnes, or for gases as volume in normal cubic metres, as appropriate; |\n| --- | --- |\n\n| (2) | ‘trading period’ means an eight-year period referred to in Article 13(1) of Directive 2003/87/EC; |\n| --- | --- |\n\n| (3) | ‘tonne-kilometre’ means a tonne of payload carried a distance of one kilometre; |\n| --- | --- |\n\n| (4) | ‘source stream’ means any of the following:(a)a specific fuel type, raw material or product giving rise to emissions of relevant greenhouse gases at one or more emission sources as a result of its consumption or production;(b)a specific fuel type, raw material or product containing carbon and included in the calculation of greenhouse gas emissions using a mass balance methodology; |\n| --- | --- |\n| (a) | a specific fuel type, raw material or product giving rise to emissions of relevant greenhouse gases at one or more emission sources as a result of its consumption or production; |\n| (b) | a specific fuel type, raw material or product containing carbon and included in the calculation of greenhouse gas emissions using a mass balance methodology; |\n\n| (5) | ‘emission source’ means a separately identifiable part of an installation or a process within an installation, from which relevant greenhouse gases are emitted or, for aviation activities, an individual aircraft; |\n| --- | --- |\n\n| (6) | ‘uncertainty’ means a parameter, associated with the result of the determination of a quantity, that characterises the dispersion of the values that could reasonably be attributed to the particular quantity, including the effects of systematic as well as of random factors, expressed in per cent, and describes a confidence interval around the mean value comprising 95 % of inferred values taking into account any asymmetry of the distribution of values; |\n| --- | --- |\n\n| (7) | ‘calculation factors’ means net calorific value, emission factor, preliminary emission factor, oxidation factor, conversion factor, carbon content or biomass fraction; |\n| --- | --- |\n\n| (8) | ‘tier’ means a set requirement used for determining activity data, calculation factors, annual emission and annual average hourly emission, as well as for payload; |\n| --- | --- |\n\n| (9) | ‘inherent risk’ means the susceptibility of a parameter in the annual emissions report or tonne-kilometre data report to misstatements that could be material, individually or when aggregated with other misstatements, before taking into consideration the effect of any related control activities; |\n| --- | --- |\n\n| (10) | ‘control risk’ means the susceptibility of a parameter in the annual emissions report or tonne-kilometre report to misstatements that could be material, individually or when aggregated with other misstatements, and not prevented or detected and corrected on a timely basis by the control system; |\n| --- | --- |\n\n| (11) | ‘combustion emissions’ means greenhouse gas emissions occurring during the exothermic reaction of a fuel with oxygen; |\n| --- | --- |\n\n| (12) | ‘reporting period’ means one calendar year during which emissions have to be monitored and reported, or the monitoring year as referred to in Articles 3e and 3f of Directive 2003/87/EC for tonne-kilometre data; |\n| --- | --- |\n\n| (13) | ‘emission factor’ means the average emission rate of a greenhouse gas relative to the activity data of a source stream assuming complete oxidation for combustion and complete conversion for all other chemical reactions; |\n| --- | --- |\n\n| (14) | ‘oxidation factor’ means the ratio of carbon oxidised to CO2 as a consequence of combustion to the total carbon contained in the fuel, expressed as a fraction, considering CO emitted to the atmosphere as the molar equivalent amount of CO2; |\n| --- | --- |\n\n| (15) | ‘conversion factor’ means the ratio of carbon emitted as CO2 to the total carbon contained in the source stream before the emitting process takes place, expressed as a fraction, considering carbon monoxide (CO) emitted to the atmosphere as the molar equivalent amount of CO2; |\n| --- | --- |\n\n| (16) | ‘accuracy’ means the closeness of the agreement between the result of a measurement and the true value of the particular quantity or a reference value determined empirically using internationally accepted and traceable calibration materials and standard methods, taking into account both random and systematic factors; |\n| --- | --- |\n\n| (17) | ‘calibration’ means the set of operations, which establishes, under specified conditions, the relations between values indicated by a measuring instrument or measuring system, or values represented by a material measure or a reference material and the corresponding values of a quantity realised by a reference standard; |\n| --- | --- |\n\n| (18) | ‘passengers’ means the persons onboard the aircraft during a flight excluding its on duty crew members; |\n| --- | --- |\n\n| (19) | ‘conservative’ means that a set of assumptions is defined in order to ensure that no under-estimation of annual emissions or over-estimation of tonne-kilometres occurs; |\n| --- | --- |\n\n| (20) | ‘biomass’ means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste; it includes bioliquids and biofuels; |\n| --- | --- |\n\n| (21) | ‘bioliquids’ means liquid fuel for energy purposes other than for transport, including electricity and heating and cooling, produced from biomass; |\n| --- | --- |\n\n| (22) | ‘biofuels’ means liquid or gaseous fuel for transport produced from biomass; |\n| --- | --- |\n\n| (23) | ‘legal metrological control’ means the control of the measurement tasks intended for the field of application of a measuring instrument, for reasons of public interest, public health, public safety, public order, protection of the environment, levying of taxes and duties, protection of the consumers and fair trading; |\n| --- | --- |\n\n| (24) | ‘maximum permissible error’ means the error of measurement allowed as specified in Annex I and instrument-specific Annexes to Directive 2004/22/EC of the European Parliament and of the Council (6), or national rules on legal metrological control, as appropriate; |\n| --- | --- |\n\n| (25) | ‘data flow activities’ mean activities related to the acquisition, processing and handling of data that are needed to draft an emissions report from primary source data; |\n| --- | --- |\n\n| (26) | ‘tonnes of CO2(e)’ means metric tonnes of CO2 or CO2(e); |\n| --- | --- |\n\n| (27) | ‘CO2(e)’ means any greenhouse gas, other than CO2 listed in Annex II to Directive 2003/87/EC with an equivalent global-warming potential as CO2; |\n| --- | --- |\n\n| (28) | ‘measurement system’ means a complete set of measuring instruments and other equipment, such as sampling and data processing equipment, used for the determination of variables like the activity data, the carbon content, the calorific value or the emission factor of the CO2 emissions; |\n| --- | --- |\n\n| (29) | ‘net calorific value’ (NCV) means the specific amount of energy released as heat when a fuel or material undergoes complete combustion with oxygen under standard conditions less the heat of vaporisation of any water formed; |\n| --- | --- |\n\n| (30) | ‘process emissions’ means greenhouse gas emissions other than combustion emissions occurring as a result of intentional and unintentional reactions between substances or their transformation, including the chemical or electrolytic reduction of metal ores, the thermal decomposition of substances, and the formation of substances for use as product or feedstock; |\n| --- | --- |\n\n| (31) | ‘commercial standard fuel’ means the internationally standardised commercial fuels which exhibit a 95 % confidence interval of not more than 1 % for their specified calorific value, including gas oil, light fuel oil, gasoline, lamp oil, kerosene, ethane, propane, butane, jet kerosene (jet A1 or jet A), jet gasoline (Jet B) and aviation gasoline (AvGas); |\n| --- | --- |\n\n| (32) | ‘batch’ means an amount of fuel or material representatively sampled and characterised and transferred as one shipment or continuously over a specific period of time; |\n| --- | --- |\n\n| (33) | ‘mixed fuel’ means a fuel which contains both biomass and fossil carbon; |\n| --- | --- |\n\n| (34) | ‘mixed material’ means a material which contains both biomass and fossil carbon; |\n| --- | --- |\n\n| (35) | ‘preliminary emission factor’ means the assumed total emission factor of a mixed fuel or material based on the total carbon content composed of biomass fraction and fossil fraction before multiplying it with the fossil fraction to result in the emission factor; |\n| --- | --- |\n\n| (36) | ‘fossil fraction’ means the ratio of fossil carbon to the total carbon content of a fuel or material, expressed as a fraction; |\n| --- | --- |\n\n| (37) | ‘biomass fraction’ means the ratio of carbon stemming from biomass to the total carbon content of a fuel or material, expressed as a fraction; |\n| --- | --- |\n\n| (38) | ‘energy balance method’ means a method to estimate the amount of energy used as fuel in a boiler, calculated as sum of utilisable heat and all relevant losses of energy by radiation, transmission and via the flue gas; |\n| --- | --- |\n\n| (39) | ‘continuous emission measurement’ means a set of operations having the objective of determining the value of a quantity by means of periodic measurements, applying either measurements in the stack or extractive procedures with a measuring instrument located close to the stack, whilst excluding measurement methodologies based on the collection of individual samples from the stack; |\n| --- | --- |\n\n| (40) | ‘inherent CO2’ means CO2 which is part of a fuel; |\n| --- | --- |\n\n| (41) | ‘fossil carbon’ means inorganic and organic carbon that is not biomass; |\n| --- | --- |\n\n| (42) | ‘measurement point’ means the emission source for which continuous emission measurement systems (CEMS) are used for emission measurement, or the cross-section of a pipeline system for which the CO2 flow is determined using continuous measurement systems; |\n| --- | --- |\n\n| (43) | ‘mass and balance documentation’ means the documentation as specified in international or national implementation of the Standards and Recommended Practices (SARPs), as laid down in Annex 6 to the Convention on International Civil Aviation, signed in Chicago on 7 December 1944, and as specified in Subpart J Annex III to Council Regulation (EEC) No 3922/91 (7), or equivalent applicable international rules; |\n| --- | --- |\n\n| (44) | ‘distance’ means the Great Circle Distance between the aerodrome of departure and the aerodrome of arrival, in addition to a fixed factor of 95 km; |\n| --- | --- |\n\n| (45) | ‘aerodrome of departure’ means the aerodrome at which a flight constituting an aviation activity listed in Annex I to Directive 2003/87/EC begins; |\n| --- | --- |\n\n| (46) | ‘aerodrome of arrival’ means the aerodrome at which a flight constituting an aviation activity listed in Annex I to Directive 2003/87/EC ends; |\n| --- | --- |\n\n| (47) | ‘payload’ means the total mass of freight, mail, passengers and baggage carried onboard the aircraft during a flight; |\n| --- | --- |\n\n| (48) | ‘fugitive emissions’ means irregular or unintended emissions from sources which are not localised, or too diverse or too small to be monitored individually; |\n| --- | --- |\n\n| (49) | ‘aerodrome pair’ means a pair constituted by the aerodrome of departure and the aerodrome of arrival; |\n| --- | --- |\n\n| (50) | ‘standard conditions’ means temperature of 273,15 K and pressure conditions of 101 325 Pa defining normal cubic metres (Nm3); |\n| --- | --- |\n\n| (51) | ‘CO2 capture’ means the activity of capturing from gas streams carbon dioxide (CO2), which would otherwise be emitted, for the purposes of transport and geological storage in a storage site permitted under Directive 2009/31/EC; |\n| --- | --- |\n\n| (52) | ‘CO2 transport’ means the transport of CO2 by pipelines for geological storage in a storage site permitted under Directive 2009/31/EC; |\n| --- | --- |\n\n| (53) | ‘vented emissions’ means emissions deliberately released from the installation by provision of a defined point of emission; |\n| --- | --- |\n\n| (54) | ‘enhanced hydrocarbon recovery’ means the recovery of hydrocarbons in addition to those extracted by water injection or other means; |\n| --- | --- |\n\n| (55) | ‘proxy data’ means annual values which are empirically substantiated or derived from accepted sources and which an operator uses to substitute the activity data or the calculation factors for the purpose of ensuring complete reporting when it is not possible to generate all the required activity data or calculation factors in the applicable monitoring methodology. |\n| --- | --- |\n\nIn addition, the definitions of ‘flight’ and ‘aerodrome’ laid down in the Annex to Decision 2009/450/EC and the definitions laid down in points (1), (2), (3), (5), (6) and (22) of Article 3 of Directive 2009/31/EC shall apply to this Regulation.",
+      "text_sha256": "967d3eb08c11d3aaa2ce9e5609539ea45eb32657d9bdaaabe716dce188a59c66",
+      "md_span": {
+        "start": 1523,
+        "end": 14936
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2012181EN.01003001-E0006",
+          "text": "(6)"
+        },
+        {
+          "href": "#ntr7-L_2012181EN.01003001-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nOperators and aircraft operators shall carry out their obligations related to monitoring and reporting of greenhouse gas emissions under Directive 2003/87/EC in accordance with the principles laid down in Articles 5 to 9.",
+      "text_sha256": "e789fac1b1769f5ca90ed01bae04cf07691813068e4d38bc4771db67da09d65d",
+      "md_span": {
+        "start": 14969,
+        "end": 15201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nMonitoring and reporting shall be complete and cover all process and combustion emissions from all emission sources and source streams belonging to activities listed in Annex I to Directive 2003/87/EC and other relevant activities included pursuant to Article 24 of that Directive, and of all greenhouse gases specified in relation to those activities while avoiding double-counting.\n\nOperators and aircraft operators shall apply appropriate measures to prevent any data gaps within the reporting period.",
+      "text_sha256": "d18fde18f984358b08f585ffe93852068c6ee996cf3e89e62b82b8d06c189581",
+      "md_span": {
+        "start": 15234,
+        "end": 15749
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Monitoring and reporting shall be consistent and comparable over time. To that end, operators and aircraft operators shall use the same monitoring methodologies and data sets subject to changes and derogations approved by the competent authority.\n\n2. Operators and aircraft operators shall obtain, record, compile, analyse and document monitoring data, including assumptions, references, activity data, emission factors, oxidation factors and conversion factors, in a transparent manner that enables the reproduction of the determination of emissions by the verifier and the competent authority.",
+      "text_sha256": "e80dd85355721839d4fbedcba7e63ac93a66f39ade84c168d3c72de8d91093d0",
+      "md_span": {
+        "start": 15782,
+        "end": 16391
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nOperators and aircraft operators shall ensure that emission determination is neither systematically nor knowingly inaccurate.\n\nThey shall identify and reduce any source of inaccuracies as far as possible.\n\nThey shall exercise due diligence to ensure that the calculation and measurement of emissions exhibit the highest achievable accuracy.",
+      "text_sha256": "7b1cdffd64d91a0a62b9568eb04e521e5105248d68cfb36e61e66b922f56c08a",
+      "md_span": {
+        "start": 16424,
+        "end": 16775
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThe operator or aircraft operator shall enable reasonable assurance of the integrity of emission data to be reported. They shall determine emissions using the appropriate monitoring methodologies set out in this Regulation.\n\nReported emission data and related disclosures shall be free from material misstatement, avoid bias in the selection and presentation of information, and provide a credible and balanced account of an installation’s or aircraft operator’s emissions.\n\nIn selecting a monitoring methodology, the improvements from greater accuracy shall be balanced against the additional costs. Monitoring and reporting of emissions shall aim for the highest achievable accuracy, unless this is technically not feasible or incurs unreasonable costs.",
+      "text_sha256": "3d55c50d78862da21d567d89e97a8a79d6320aa09189e0cdc015e99423f36e15",
+      "md_span": {
+        "start": 16808,
+        "end": 17574
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nOperators and aircraft operators shall take account of the recommendations included in the verification reports issued pursuant to Article 15 of Directive 2003/87/EC in their consequent monitoring and reporting.",
+      "text_sha256": "49a21c2c5fa263d39bddb477bd1a4a1da096bc9e91f4d29dfdc8fb75d79aa9d5",
+      "md_span": {
+        "start": 17607,
+        "end": 17829
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nWhere a Member State designates more than one competent authority pursuant to Article 18 of Directive 2003/87/EC, it shall coordinate the work of those authorities undertaken pursuant to this Regulation.",
+      "text_sha256": "49fa091c227205fdea8d6801b37031a8b31a69f100f8b87e127e82e1f0f9c21c",
+      "md_span": {
+        "start": 17864,
+        "end": 18079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Each operator or aircraft operator shall monitor greenhouse gas emissions, based on a monitoring plan approved by the competent authority in accordance with Article 12, taking into account the nature and functioning of the installation or aviation activity to which it applies.\n\nThe monitoring plan shall be supplemented by written procedures which the operator or aircraft operator establishes, documents, implements and maintains for activities under the monitoring plan, as appropriate.\n\n2. The monitoring plan referred to in paragraph 1 shall describe the instructions to the operator or aircraft operator in a logical and simple manner, avoiding duplication of effort and taking into account the existing systems in place at the installation or used by the operator or aircraft operator.",
+      "text_sha256": "e78d2eb8cbdd4cd2bcac204f4c961c42924a7ef68a405e4794df176fc5bd20d1",
+      "md_span": {
+        "start": 18114,
+        "end": 18921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. An operator or an aircraft operator shall submit a monitoring plan to the competent authority for approval.\n\nThe monitoring plan shall consist of a detailed, complete and transparent documentation of the monitoring methodology of a specific installation or aircraft operator and shall contain at least the elements laid down in Annex I.\n\nTogether with the monitoring plan, the operator or aircraft operator shall submit all of the following supporting documents:\n\n| (a) | evidence for each source stream and emission source demonstrating compliance with the uncertainty thresholds for activity data and calculation factors, where applicable, for the applied tiers as defined in Annex II and Annex III; |\n| --- | --- |\n\n| (b) | the results of a risk assessment providing evidence that the proposed control activities and procedures for control activities are commensurate with the inherent risks and control risks identified. |\n| --- | --- |\n\n2. Where Annex I makes a reference to a procedure, an operator or an aircraft operator shall establish, document, implement and maintain such a procedure separately from the monitoring plan.\n\nThe operator or the aircraft operator shall summarise the procedures in the monitoring plan providing the following information:\n\n| (a) | the title of the procedure; |\n| --- | --- |\n\n| (b) | a traceable and verifiable reference for identification of the procedure; |\n| --- | --- |\n\n| (c) | identification of the post or department responsible for implementing the procedure and for the data generated from or managed by the procedure; |\n| --- | --- |\n\n| (d) | a brief description of the procedure allowing the operator or aircraft operator, the competent authority and the verifier to understand the essential parameters and operations performed; |\n| --- | --- |\n\n| (e) | the location of relevant records and information; |\n| --- | --- |\n\n| (f) | the name of the computerised system used, where applicable; |\n| --- | --- |\n\n| (g) | a list of EN standards or other standards applied, where relevant. |\n| --- | --- |\n\nThe operator or aircraft operator shall make any written documentation of the procedures available to the competent authority upon request. They shall also make them available for the purposes of verification pursuant to Commission Regulation (EU) No 600/2012 (8).\n\n3. In addition to the elements referred to in paragraphs 1 and 2 of this Article, Member States may require further elements to be included in the monitoring plan of installations to meet the requirements of Article 24(1) of Commission Decision 2011/278/EU of 27 April 2011 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the Council (9), including a summary of a procedure ensuring the following:\n\n| (a) | the operator regularly checks if information regarding any planned or effective changes to the capacity, activity level and operation of an installation is relevant under that Decision; |\n| --- | --- |\n\n| (b) | the information referred to in point (a) is submitted by the operator to the competent authority by 31 December of each year. |\n| --- | --- |",
+      "text_sha256": "ae5c65ea0b367c353f2a9efd7dbb53ff5138e5c991f433049b46a795caf00aee",
+      "md_span": {
+        "start": 18956,
+        "end": 22176
+      },
+      "citations": [
+        {
+          "href": "#ntr8-L_2012181EN.01003001-E0008",
+          "text": "(8)"
+        },
+        {
+          "href": "#ntr9-L_2012181EN.01003001-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Member States may allow operators and aircraft operators to use standardised or simplified monitoring plans, without prejudice to Article 12(3).\n\nFor that purpose, Member States may publish templates for those monitoring plans, including the description of data flow and control procedures referred to in Article 57 and Article 58, based on the templates and guidelines published by the Commission.\n\n2. Before the approval of any simplified monitoring plan referred to in paragraph 1, the competent authority shall carry out a simplified risk assessment as to whether the proposed control activities and procedures for control activities are commensurate with the inherent risks and control risks identified, and justify the use of such a simplified monitoring plan.\n\nMember States may require the operator or aircraft operator to carry out the risk assessment pursuant to the previous subparagraph itself, where appropriate.",
+      "text_sha256": "4b15c46eddafcf49f0ace80544f5f1e363983128a248e3f8d9a569ba5ba9a0a0",
+      "md_span": {
+        "start": 22211,
+        "end": 23151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Each operator or aircraft operator shall regularly check if the monitoring plan reflects the nature and functioning of the installation or aviation activity in accordance with Article 7 of Directive 2003/87/EC, and whether the monitoring methodology can be improved.\n\n2. The operator or aircraft operator shall modify the monitoring plan in any of the following situations:\n\n| (a) | new emissions occur due to new activities carried out or due to the use of new fuels or materials not yet contained in the monitoring plan; |\n| --- | --- |\n\n| (b) | the change of availability of data, due to the use of new measuring instrument types, sampling methods or analysis methods, or for other reasons, leads to higher accuracy in the determination of emissions; |\n| --- | --- |\n\n| (c) | data resulting from the previously applied monitoring methodology has been found incorrect; |\n| --- | --- |\n\n| (d) | changing the monitoring plan improves the accuracy of the reported data, unless this is technically not feasible or incurs unreasonable costs; |\n| --- | --- |\n\n| (e) | the monitoring plan is not in conformity with the requirements of this Regulation and the competent authority requests the operator or aircraft operator to modify it; |\n| --- | --- |\n\n| (f) | it is necessary to respond to the suggestions for improvement of the monitoring plan contained in a verification report. |\n| --- | --- |",
+      "text_sha256": "a3b1d188cc821edf5ff32a3ea588c4edf76021fd6158f38dc747bbe6732e68f7",
+      "md_span": {
+        "start": 23186,
+        "end": 24593
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The operator or aircraft operator shall notify any proposals for modification of the monitoring plan to the competent authority without undue delay.\n\nHowever, the competent authority may allow the operator or aircraft operator to notify, by 31 December of the same year, modifications of the monitoring plan that are not significant within the meaning of paragraph 3.\n\n2. Any significant modification of the monitoring plan within the meaning of paragraphs 3 and 4 shall be subject to approval by the competent authority.\n\nWhere the competent authority considers a modification not significant, it shall inform the operator or aircraft operator thereof without undue delay.\n\n3. Significant modifications to the monitoring plan of an installation shall include the following:\n\n| (a) | changes of the category of the installation; |\n| --- | --- |\n\n| (b) | notwithstanding Article 47(8), changes regarding whether the installation is considered an installation with low emissions; |\n| --- | --- |\n\n| (c) | changes to emission sources; |\n| --- | --- |\n\n| (d) | a change from calculation-based to measurement-based methodologies, or vice versa, used to determine emissions; |\n| --- | --- |\n\n| (e) | a change in the tier level applied; |\n| --- | --- |\n\n| (f) | the introduction of new source streams; |\n| --- | --- |\n\n| (g) | a change in the categorisation of source streams — between major, minor or de-minimis source streams; |\n| --- | --- |\n\n| (h) | a change of the default value for a calculation factor, where the value is to be laid down in the monitoring plan; |\n| --- | --- |\n\n| (i) | the introduction of new procedures related to sampling, analysis or calibration, where the changes of those procedures have a direct impact on the accuracy of emissions data; |\n| --- | --- |\n\n| (j) | the implementation or adaption of a quantification methodology for emissions from leakage at storage sites. |\n| --- | --- |\n\n4. Significant changes to the monitoring plans of an aircraft operator shall include:\n\n| (a) | with regard to the emission monitoring plan:(i)a change of tiers related to fuel consumption;(ii)a change of emission factor values laid down in the monitoring plan;(iii)a change between calculation methods as laid down in Annex III;(iv)the introduction of new source streams;(v)a change in the categorisation of source streams where a minor source stream changes to a major source stream;(vi)changes in the status of the aircraft operator as a small emitter within the meaning of Article 54(1); |\n| --- | --- |\n| (i) | a change of tiers related to fuel consumption; |\n| (ii) | a change of emission factor values laid down in the monitoring plan; |\n| (iii) | a change between calculation methods as laid down in Annex III; |\n| (iv) | the introduction of new source streams; |\n| (v) | a change in the categorisation of source streams where a minor source stream changes to a major source stream; |\n| (vi) | changes in the status of the aircraft operator as a small emitter within the meaning of Article 54(1); |\n\n| (b) | with regard to the tonne-kilometre data monitoring plan:(i)a change between a non-commercial and commercial status of the air transport service provided;(ii)a change in the object of the air-transport service, the object being passengers, freight or mail. |\n| --- | --- |\n| (i) | a change between a non-commercial and commercial status of the air transport service provided; |\n| (ii) | a change in the object of the air-transport service, the object being passengers, freight or mail. |",
+      "text_sha256": "ebe0f9dd106b9b092b71b4eacc74d102c11f69977776d9a9e1c48aa531762dec",
+      "md_span": {
+        "start": 24628,
+        "end": 28156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Prior to receiving the approval or information in accordance with Article 15(2), the operator or aircraft operator may carry out monitoring and reporting using the modified monitoring plan where they can reasonably assume that the proposed modifications are not significant, or where monitoring in accordance with the original monitoring plan would lead to incomplete emission data.\n\nIn case of doubt, the operator or aircraft operator shall carry out all monitoring and reporting, and in the interim documentation, in parallel, using both the modified and the original monitoring plan.\n\n2. Upon the receipt of the approval or information in accordance with Article 15(2), the operator or aircraft operator shall only use the data relating to the modified monitoring plan and carry out all monitoring and reporting using only the modified monitoring plan.\n\n3. The operator or aircraft operator shall keep records of all modifications of the monitoring plan. In each record, the following shall be specified:\n\n| (a) | transparent description of the modification; |\n| --- | --- |\n\n| (b) | a justification for the modification; |\n| --- | --- |\n\n| (c) | the date of notification of the modification to the competent authority; |\n| --- | --- |\n\n| (d) | the date of acknowledgement, by the competent authority, of the receipt of the notification referred to in Article 15(1), where available, and the date of the approval or information referred to in Article 15(2); |\n| --- | --- |\n\n| (e) | the starting date of implementation of the modified monitoring plan in accordance with paragraph 2 of this Article. |\n| --- | --- |",
+      "text_sha256": "bfdb633b829cca73da6c1d94df0cf798d2a0b72a17423854cbefcaf328bea871",
+      "md_span": {
+        "start": 28191,
+        "end": 29823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nWhere an operator or aircraft operator claims that applying a specific monitoring methodology is technically not feasible, the competent authority shall assess the technical feasibility taking the operator’s or aircraft operator’s justification into account. That justification shall be based on the operator or aircraft operator having technical resources capable of meeting the needs of a proposed system or requirement that can be implemented in the required time for the purposes of this Regulation. Those technical resources shall include availability of required techniques and technology.",
+      "text_sha256": "3d550c52341b549cfae34bf95f24ab227bda25e01d765d570410ef79023a52b6",
+      "md_span": {
+        "start": 29858,
+        "end": 30465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Where an operator or aircraft operator claims that applying a specific monitoring methodology incurs unreasonable costs, the competent authority shall assess the unreasonable nature of the costs, taking into account the operator’s justification.\n\nThe competent authority shall consider costs unreasonable where the cost estimation exceeds the benefit. To that end, the benefit shall be calculated by multiplying an improvement factor with a reference price of EUR 20 per allowance and costs shall include an appropriate depreciation period based on the economic lifetime of the equipment.\n\n2. When assessing the unreasonable nature of the costs with regard to the choice of tier levels for activity data, the competent authority shall use as the improvement factor referred to in paragraph 1 the difference between the uncertainty currently achieved and the uncertainty threshold of the tier which would be achieved by the improvement multiplied by the average annual emissions caused by that source stream over the three most recent years.\n\nIn the absence of the average annual emissions caused by that source stream over the three most recent years, the operator or aircraft operator shall provide a conservative estimate of the annual average emissions, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2. For measuring instruments under national legal metrological control, the uncertainty currently achieved may be substituted by the maximum permissible error in service allowed by the relevant national legislation.\n\n3. When assessing the unreasonable nature of the costs with regard to measures increasing the quality of reported emissions but without direct impact on the accuracy of activity data, the competent authority shall use an improvement factor of 1 % of the average annual emissions of the respective source streams of the three most recent reporting periods. Those measures may include:\n\n| (a) | a switch from default values to analyses for the determination of calculation factors; |\n| --- | --- |\n\n| (b) | an increase of the number of analyses per source stream; |\n| --- | --- |\n\n| (c) | where the specific measuring task does not fall under national legal metrological control, the substitution of measuring instruments with instruments complying with relevant requirements of legal metrological control of the Member State in similar applications, or to measuring instruments meeting national rules adopted pursuant to Directive 2004/22/EC or Directive 2009/23/EC of the European Parliament and of the Council (10); |\n| --- | --- |\n\n| (d) | shortening of calibration and maintenance intervals of measuring instruments; |\n| --- | --- |\n\n| (e) | improvements of data flow activities and control activities reducing the inherent or control risk significantly. |\n| --- | --- |\n\n4. Measures relating to the improvement of an installation’s monitoring methodology in accordance with Article 69 shall not be deemed to incur unreasonable costs up to an accumulated amount of EUR 2 000 per reporting period. For installations with low emissions that threshold shall be EUR 500 per reporting period.",
+      "text_sha256": "8b7d4bb9b05d981968b7b65f918f3c90bd1f5fd9416b0394ac11cf3bb989d3e3",
+      "md_span": {
+        "start": 30500,
+        "end": 33667
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_2012181EN.01003001-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Each operator shall determine the category of its installation pursuant to paragraph 2, and, where relevant, of each source stream pursuant to paragraph 3 for the purpose of monitoring emissions and determining the minimum requirements for tiers.\n\n2. The operator shall classify each installation in one of the following categories:\n\n| (a) | a category A installation, where average verified annual emissions of the trading period immediately preceding the current trading period, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, are equal to or less than 50 000 tonnes of CO2(e); |\n| --- | --- |\n\n| (b) | a category B installation, where the average verified annual emissions of the trading period immediately preceding the current trading period, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, are more than 50 000 tonnes of CO2(e) and equal to or less than 500 000 tonnes of CO2(e); |\n| --- | --- |\n\n| (c) | a category C installation, where the average verified annual emissions of the trading period immediately preceding the current trading period, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, are more than 500 000 tonnes of CO2(e). |\n| --- | --- |\n\n3. The operator shall classify each source stream, comparing the source stream against the sum of all absolute values of fossil CO2 and CO2(e) corresponding to all source streams included in calculation-based methodologies and of all emissions of emission sources monitored using measurement-based methodologies, before subtraction of transferred CO2, in one of the following categories:\n\n| (a) | minor source streams, where the source streams selected by the operator jointly correspond to less than 5 000 tonnes of fossil CO2 per year or to less than 10 %, up to a total maximum contribution of 100 000 tonnes of fossil CO2 per year, whichever is the highest in terms of absolute value; |\n| --- | --- |\n\n| (b) | de-minimis source streams, where the source streams selected by the operator jointly correspond to less than 1 000 tonnes of fossil CO2 per year or to less than 2 %, up to a total maximum contribution of 20 000 tonnes of fossil CO2 per year, whichever is the highest in terms of absolute value; |\n| --- | --- |\n\n| (c) | major source streams, where the source streams do not classify in any category referred to in points (a) and (b). |\n| --- | --- |\n\n4. Where the average annual verified emissions of the trading period immediately preceding the current trading period for the installation are not available or inaccurate, the operator shall use a conservative estimate of annual average emissions, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, to determine the category of the installation.",
+      "text_sha256": "6c1041c34216d6d81bd40a12a6aee86842536cd5de9420a99a5afcb96e8324ce",
+      "md_span": {
+        "start": 33702,
+        "end": 36555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. An operator shall define the monitoring boundaries for each installation.\n\nWithin those boundaries, the operator shall include all relevant greenhouse gas emissions from all emission sources and source streams belonging to activities carried out at the installation and listed in Annex I to Directive 2003/87/EC, as well as from activities and greenhouse gases included by a Member State pursuant to Article 24 of Directive 2003/87/EC.\n\nThe operator shall also include emissions from regular operations and abnormal events including start-up and shut-down and emergency situations over the reporting period, with the exception of emissions from mobile machinery for transportation purposes.\n\n2. When defining the monitoring and reporting process, the operator shall include the sector specific requirements laid down in Annex IV.\n\n3. Where leakages from a storage complex pursuant to Directive 2009/31/EC are identified and lead to emissions, or release of CO2 to the water column, they shall be considered as emission sources for the respective installation and shall be monitored in accordance with section 23 of Annex IV to this Regulation.\n\nThe competent authority may allow the exclusion of a leakage emission source from the monitoring and reporting process, once corrective measures pursuant to Article 16 of Directive 2009/31/EC have been taken and emissions or release into the water column from that leakage can no longer be detected.",
+      "text_sha256": "3d07129fd0313403e54d62554a6fdbf75620e6cbde80dbd1ae45fae083340d87",
+      "md_span": {
+        "start": 36590,
+        "end": 38049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. For the monitoring of the emissions of an installation, the operator shall choose to apply either a calculation-based methodology or a measurement-based methodology, subject to specific provisions of this Regulation.\n\nA calculation-based methodology shall consist in determining emissions from source streams based on activity data obtained by means of measurement systems and additional parameters from laboratory analyses or default values. The calculation-based methodology may be implemented through the standard methodology set out in Article 24 or the mass balance methodology set out in Article 25.\n\nA measurement-based methodology shall consist in determining emissions from emission sources by means of continuous measurement of the concentration of the relevant greenhouse gas in the flue gas and of the flue gas flow, including the monitoring of CO2 transfers between installations where the CO2 concentration and the flow of the transferred gas are measured.\n\nWhere the calculation-based methodology is applied, the operator shall for each source stream define, in the monitoring plan, whether the standard methodology or the mass balance methodology is used, including the relevant tiers in accordance with Annex II.\n\n2. An operator may combine, subject to approval by the competent authority, standard methodology, mass balance and measurement-based methodologies for different emission sources and source streams belonging to one installation, provided that neither gaps nor double counting concerning emissions occur.\n\n3. Where the operator does not choose a measurement-based methodology, the operator shall choose the methodology required by the relevant section of Annex IV, unless he provides evidence to the competent authorities that the use of such methodology is technically not feasible or incurs unreasonable costs, or that another methodology leads to a higher overall accuracy of emissions data.",
+      "text_sha256": "a8b82555d1da2f13c31cd65b914d495b0819e72e98ea4789ce0850f6a858a3d7",
+      "md_span": {
+        "start": 38084,
+        "end": 40022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nBy way of derogation from Article 21(1), the operator may use a monitoring methodology that is not based on tiers (hereinafter ‘the fall-back methodology’) for selected source streams or emission sources, provided that all of the following conditions are met:\n\n| (a) | applying at least tier 1 under the calculation-based methodology for one or more major source streams or minor source streams and a measurement-based methodology for at least one emission source related to the same source streams is technically not feasible or would incur unreasonable costs; |\n| --- | --- |\n\n| (b) | the operator assesses and quantifies each year the uncertainties of all parameters used for the determination of the annual emissions in accordance with the ISO Guide to the Expression of Uncertainty in Measurement (JCGM 100:2008), or another equivalent internationally accepted standard, and includes the results in the annual emissions report; |\n| --- | --- |\n\n| (c) | the operator demonstrates to the satisfaction of the competent authority that by applying such a fall-back monitoring methodology, the overall uncertainty thresholds for the annual level of greenhouse gas emissions for the whole installation do not exceed 7,5 % for category A installations, 5,0 % for category B installations and 2,5 % for category C installations. |\n| --- | --- |",
+      "text_sha256": "22990f440ea04652d4bd0050f6dbf6f4082a9b33bca3f89b85ae846f90e67bf3",
+      "md_span": {
+        "start": 40057,
+        "end": 41409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Where it is for technical reasons temporarily not feasible to apply the tier in the monitoring plan for the activity data or each calculation factor of a fuel or material stream as approved by the competent authority, the operator concerned shall apply the highest achievable tier until the conditions for application of the tier approved in the monitoring plan have been restored.\n\nThe operator shall take all necessary measures to allow the prompt restoration of the tier in the monitoring plan as approved by the competent authority.\n\n2. The operator concerned shall notify the temporary change referred to in paragraph 1 to the monitoring methodology without undue delay to the competent authority, specifying:\n\n| (a) | the reasons for the deviation from the tier; |\n| --- | --- |\n\n| (b) | in detail the interim monitoring methodology that the operator uses to determine the emissions until the conditions for the application of the tier in the monitoring plan have been restored; |\n| --- | --- |\n\n| (c) | the measures the operator is taking to restore the conditions for the application of the tier in the monitoring plan approved by the competent authority; |\n| --- | --- |\n\n| (d) | the anticipated point in time when application of the tier as approved by the competent authority will be resumed. |\n| --- | --- |",
+      "text_sha256": "9a2851510caa57a68d685e8f42ebd50376aa9ec9a78a4d0bbc98b8a947736384",
+      "md_span": {
+        "start": 41444,
+        "end": 42778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Under the standard methodology, the operator shall calculate combustion emissions per source stream by multiplying the activity data related to the amount of fuel combusted, expressed as terajoules based on net calorific value (NCV), with the corresponding emission factor, expressed as tonnes CO2 per terajoule (t CO2/TJ) consistent with the use of NCV, and with the corresponding oxidation factor.\n\nThe competent authority may allow the use of emission factors for fuels, expressed as t CO2/t or t CO2/Nm3. In that case, the operator shall determine combustion emissions by multiplying the activity data related to the amount of fuel combusted, expressed as tonnes or normal cubic metres, with the corresponding emission factor and the corresponding oxidation factor.\n\n2. The operator shall determine process emissions per source stream by multiplying the activity data related to the material consumption, throughput or production output, expressed in tonnes or normal cubic metres with the corresponding emission factor, expressed in t CO2/t or t CO2/Nm3, and the corresponding conversion factor.\n\n3. Where a tier 1 or tier 2 emission factor already includes the effect of incomplete chemical reactions, the oxidation factor or conversion factor shall be set to 1.",
+      "text_sha256": "2877ee462bd07c6743d575c456eb668f511ed96e1b042c5eefa92b1a9c9034e1",
+      "md_span": {
+        "start": 42813,
+        "end": 44096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. Under the mass balance methodology, the operator shall calculate the CO2 quantity corresponding to each source stream included in the mass balance by multiplying the activity data related to the amount of material entering or leaving the boundaries of the mass balance, with the material’s carbon content multiplied by 3 664 t CO2/t C, applying section 3 of Annex II.\n\n2. Notwithstanding Article 49, the emissions of the total process covered by the mass balance shall be the sum of the CO2 quantities corresponding to all source streams covered by the mass balance. CO emitted to the atmosphere shall be calculated in the mass balance as emission of the molar equivalent amount of CO2.",
+      "text_sha256": "20cae2c1daa7f92c335aea8d4e4f9feba204cf023d191d91cb8c03a78db88b83",
+      "md_span": {
+        "start": 44131,
+        "end": 44832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. When defining the relevant tiers in accordance with Article 21(1), to determine the activity data and each calculation factor, each operator shall apply the following:\n\n| (a) | at least the tiers listed in Annex V, in the case of an installation that is a category A installation, or where a calculation factor is required for a source stream that is a commercial standard fuel; |\n| --- | --- |\n\n| (b) | in other cases than those referred to in point (a), the highest tier as defined in Annex II. |\n| --- | --- |\n\nHowever, the operator may apply a tier one level lower than required in accordance with the first subparagraph for category C installations and up to two levels lower for category A and B installations, with a minimum of tier 1, where it shows to the satisfaction of the competent authority that the tier required in accordance with the first subparagraph is technically not feasible or incurs unreasonable costs.\n\nThe competent authority may, for a transitional period of up to three years, allow an operator to apply lower tiers than those referred to in the second subparagraph, with a minimum of tier 1, provided that both of the following conditions are met:\n\n| (a) | the operator shows to the satisfaction of the competent authority that the tier required pursuant to the second subparagraph is technically not feasible or incurs unreasonable costs; |\n| --- | --- |\n\n| (b) | the operator provides an improvement plan indicating how and by when at least the tier required pursuant to the second subparagraph will be reached. |\n| --- | --- |\n\n2. For activity data and each calculation factor for minor source streams, the operator shall apply the highest tier which is technically feasible and does not incur unreasonable costs, with a minimum of tier 1.\n\n3. For activity data and each calculation factor for de-minimis source streams, the operator may determine activity data and each calculation factor by using conservative estimations instead of using tiers, unless a defined tier is achievable without additional effort.\n\n4. For the oxidation factor and conversion factor, the operator shall, as a minimum, apply the lowest tiers listed in Annex II.\n\n5. Where the competent authority has allowed the use of emission factors expressed as t CO2/t or t CO2/Nm3 for fuels, and for fuels used as process input or in mass balances in accordance with Article 25, the net calorific value may be monitored using lower tiers than the highest tier as defined in Annex II.",
+      "text_sha256": "3df5ae088d981d2d2319be3da3f7e2deeddbd30523f651a50694312dd530ac46",
+      "md_span": {
+        "start": 44867,
+        "end": 47365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. The operator shall determine the activity data of a source stream in one of the following ways:\n\n| (a) | based on continual metering at the process which causes the emissions; |\n| --- | --- |\n\n| (b) | based on aggregation of metering of quantities separately delivered taking into account relevant stock changes. |\n| --- | --- |\n\n2. For the purposes of point (b) of paragraph 1, the quantity of fuel or material processed during the reporting period shall be calculated as the quantity of fuel or material purchased during the reporting period, minus the quantity of fuel or material exported from the installation, plus the quantity of fuel or material in stock at the beginning of the reporting period, minus the quantity of fuel or material in stock at the end of the reporting period.\n\nWhere it is technically not feasible or would incur unreasonable costs to determine quantities in stock by direct measurement, the operator may estimate those quantities based on one of the following:\n\n| (a) | data from previous years and correlated with output for the reporting period; |\n| --- | --- |\n\n| (b) | documented procedures and respective data in audited financial statements for the reporting period. |\n| --- | --- |\n\nWhere the determination of activity data for the entire calendar year is technically not feasible or would incur unreasonable costs, the operator may choose the next most appropriate day to separate a reporting year from the following one, and reconcile accordingly to the calendar year required. The deviations involved for one or more source streams shall be clearly recorded, form the basis of a value representative for the calendar year, and be considered consistently in relation to the next year.",
+      "text_sha256": "f76a3ae86630af7bdfa5e216eee6bab6d4de18705e29357ff67acacb907e9247",
+      "md_span": {
+        "start": 47400,
+        "end": 49138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. For determining the activity data in accordance with Article 27, the operator shall use metering results based on measurement systems under its own control at the installation, provided that all of the following conditions are complied with:\n\n| (a) | the operator must carry out an uncertainty assessment and ensures that the uncertainty threshold of the relevant tier level is met; |\n| --- | --- |\n\n| (b) | the operator must ensure at least once per year, and after each calibration of measuring instruments, that the calibration results multiplied by a conservative adjustment factor based on an appropriate time series of previous calibrations of that or similar measuring instruments for taking into account the effect of uncertainty in service, are compared with the relevant uncertainty thresholds. |\n| --- | --- |\n\nWhere tier thresholds approved in accordance with Article 12 are exceeded or equipment found not to conform to other requirements, the operator shall take corrective action without undue delay and notify the competent authority thereof.\n\n2. The operator shall provide the uncertainty assessment referred to in point (a) of paragraph 1 to the competent authority when notifying a new monitoring plan or when it is relevant for a change to the approved monitoring plan.\n\nThe assessment shall comprise the specified uncertainty of the applied measuring instruments, uncertainty associated with the calibration, and any additional uncertainty connected to how the measuring instruments are used in practice. Uncertainty related to stock changes shall be included in the uncertainty assessment where the storage facilities are capable of containing at least 5 % of the annual used quantity of the fuel or material considered. When carrying out the assessment, the operator shall take into account the fact that the stated values used to define tier uncertainty thresholds in Annex II refer to the uncertainty over the full reporting period.\n\nThe operator may simplify the uncertainty assessment by assuming that the maximum permissible errors specified for the measuring instrument in service, or where lower, the uncertainty obtained by calibration, multiplied by a conservative adjustment factor for taking into account the effect of uncertainty in service, is to be regarded as the uncertainty over the whole reporting period as required by the tier definitions in Annex II, provided that measuring instruments are installed in an environment appropriate for their use specifications.\n\n3. Notwithstanding paragraph 2, the competent authority may allow the operator to use metering results based on measurement systems under its own control at the installation, where the operator provides evidence that the measuring instruments applied are subject to relevant national legal metrological control.\n\nFor that purpose, the maximum permissible error in service allowed by the relevant national legislation on legal metrological control for the relevant measuring task may be used as the uncertainty value without providing further evidence.",
+      "text_sha256": "d9d85879b0bef91eab7402ae24f318889b71fb449865bdec180949040f87685f",
+      "md_span": {
+        "start": 49173,
+        "end": 52245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\n1. Where, based on a simplified uncertainty assessment, the use of measurement systems outside the operator’s own control, compared to the use of those within the operator’s own control pursuant to Article 28, allows the operator to comply with at least as high a tier, gives more reliable results and is less prone to control risks, the operator shall determine the activity data from measurement systems outside its own control.\n\nTo that end, the operator may revert to one of the following data sources:\n\n| (a) | amounts from invoices issued by a trade partner, provided that a commercial transaction between two independent trade partners takes place; |\n| --- | --- |\n\n| (b) | direct readings from the measurement systems. |\n| --- | --- |\n\n2. The operator shall ensure compliance with the applicable tier pursuant to Article 26.\n\nTo that end, the maximum permissible error in service allowed by relevant legislation for national legal metrological control for the relevant commercial transaction may be used as uncertainty without providing further evidence.\n\nWhere the applicable requirements under national legal metrological control are less stringent than the applicable tier pursuant to Article 26, the operator shall obtain evidence on the applicable uncertainty from the trade partner responsible for the measurement system.",
+      "text_sha256": "3010608ba9e6ad5b0167e0b70a0395475594fb5306dffc69f4a0c315fbdfbbba",
+      "md_span": {
+        "start": 52280,
+        "end": 53627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. The operator shall determine calculation factors either as default values or values based on analysis depending on the applicable tier.\n\n2. The operator shall determine and report calculation factors consistently with the state used for related activity data, referring to the fuel’s or material’s state in which the fuel or material is purchased or used in the emission causing process, before it is dried or otherwise treated for laboratory analysis.\n\nWhere such an approach incurs unreasonable costs, or where higher accuracy can be achieved, the operator may consistently report activity data and calculation factors referring to the state in which laboratory analyses are carried out.",
+      "text_sha256": "4d8e73b1e6e065d1ab371672e0c55178f1951f9aa27f9fa393206b6d4b744413",
+      "md_span": {
+        "start": 53662,
+        "end": 54366
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. Where the operator determines calculation factors as default values, it shall, in accordance with the requirement of the applicable tier, as set out in Annexes II and VI, use one of the following values:\n\n| (a) | standard factors and stoichiometric factors listed in Annex VI; |\n| --- | --- |\n\n| (b) | standard factors used by the Member State for its national inventory submission to the Secretariat of the United Nations Framework Convention on Climate Change; |\n| --- | --- |\n\n| (c) | literature values agreed with the competent authority, including standard factors published by the competent authority, which are compatible with factors referred to in point (b), but they are representative of more disaggregated sources of fuel streams; |\n| --- | --- |\n\n| (d) | values specified and guaranteed by the supplier of a material where the operator can demonstrate to the satisfaction of the competent authority that the carbon content exhibits a 95 % confidence interval of not more than 1 %; |\n| --- | --- |\n\n| (e) | values based on analyses carried out in the past, where the operator can demonstrate to the satisfaction of the competent authority that those values are representative for future batches of the same material. |\n| --- | --- |\n\n2. The operator shall specify all default values used in the monitoring plan.\n\nWhere the default values change on an annual basis, the operator shall specify the authoritative applicable source of that value in the monitoring plan.\n\n3. The competent authority may only approve a change of default values for a calculation factor in the monitoring plan pursuant to Article 15(2), where the operator provides evidence that the new default value leads to a more accurate determination of emissions.\n\n4. Upon application by the operator, the competent authority may allow that the net calorific value and emission factors of fuels are determined using the same tiers as required for commercial standard fuels provided that the operator submits, at least every three years, evidence that the 1 % interval for the specified calorific value has been met during the last three years.",
+      "text_sha256": "37e4036f1c588f6c3ab70c78e60dbb023f2ba50c19c35be2e299ee6f3703f182",
+      "md_span": {
+        "start": 54401,
+        "end": 56537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. The operator shall ensure that any analyses, sampling, calibrations and validations for the determination of calculation factors are carried out by applying methods based on corresponding EN standards.\n\nWhere such standards are not available, the methods shall be based on suitable ISO standards or national standards. Where no applicable published standards exist, suitable draft standards, industry best practice guidelines or other scientifically proven methodologies shall be used, limiting sampling and measurement bias.\n\n2. Where online gas chromatographs or extractive or non-extractive gas analysers are used for emission determination, the operator shall obtain approval from the competent authority for the use of such equipment. The equipment shall be used only with regard to composition data of gaseous fuels and materials. As minimum quality assurance measures, the operator shall ensure that an initial validation and annually repeated validations of the instrument are performed.\n\n3. The result of any analysis shall be used only for the delivery period or batch of fuel or material for which the samples have been taken, and for which the samples were intended to be representative.\n\nFor the determination of a specific parameter the operator shall use the results of all analyses made with regards to that parameter.",
+      "text_sha256": "bda78ab3cb8a7bc2ad90ba715a3b0d6445b567e7546d075870849971bb97a311",
+      "md_span": {
+        "start": 56572,
+        "end": 57921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\n1. Where calculation factors are determined by analyses, the operator shall submit to the competent authority for approval for each fuel or material a sampling plan in the form of a written procedure, which contains information on methodologies for the preparation of samples, including information on responsibilities, locations, frequencies and quantities, and methodologies for the storage and transport of samples.\n\nThe operator shall ensure that the derived samples are representative for the relevant batch or delivery period and free of bias. Relevant elements of the sampling plan shall be agreed with the laboratory carrying out the analysis for the respective fuel or material, and evidence of that agreement shall be included in the plan. The operator shall make the plan available for the purposes of verification pursuant to Regulation (EU) No 600/2012.\n\n2. The operator shall, in agreement with the laboratory carrying out the analysis for the respective fuel or material and subject to the approval of the competent authority, adapt the elements of the sampling plan where analytical results indicate that the heterogeneity of the fuel or material significantly differs from the information on heterogeneity on which the original sampling plan for that specific fuel or material was based.",
+      "text_sha256": "d9701bef7aa0634b5aa6f5245771ed7226fc90063e21af82caebe0484327f967",
+      "md_span": {
+        "start": 57956,
+        "end": 59272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. The operator shall ensure that laboratories used to carry out analyses for the determination of calculation factors are accredited in accordance with EN ISO/IEC 17025, for the relevant analytical methods.\n\n2. Laboratories not accredited in accordance with EN ISO/IEC 17025 may only be used for the determination of calculation factors where the operator can demonstrate to the satisfaction of the competent authority that access to laboratories referred to in paragraph 1 is technically not feasible or would incur unreasonable costs and that the non-accredited laboratory meets requirements equivalent to EN ISO/IEC 17025.\n\n3. The competent authority shall deem a laboratory to meet the requirements equivalent to EN ISO/IEC 17025 within the meaning of paragraph 2 where the operator provides, to the extent feasible, in the form of and to a similar level of detail required for procedures pursuant to Article 12(2), evidence in accordance with the second and the third subparagraph of this paragraph.\n\nWith respect to quality management, the operator shall produce an accredited certification of the laboratory in conformity with EN ISO/IEC 9001, or other certified quality management systems that cover the laboratory. In the absence of such certified quality management systems, the operator shall provide other appropriate evidence that the laboratory is capable of managing its personnel, procedures, documents and tasks in a reliable manner.\n\nWith respect to technical competence, the operator shall provide evidence that the laboratory is competent and able to generate technically valid results using the relevant analytical procedures. Such evidence shall cover at least the following elements:\n\n| (a) | management of the personnel’s competence for the specific tasks assigned; |\n| --- | --- |\n\n| (b) | suitability of accommodation and environmental conditions; |\n| --- | --- |\n\n| (c) | selection of analytical methods and relevant standards; |\n| --- | --- |\n\n| (d) | where applicable, management of sampling and sample preparation, including control of sample integrity; |\n| --- | --- |\n\n| (e) | where applicable, development and validation of new analytical methods or application of methods not covered by international or national standards; |\n| --- | --- |\n\n| (f) | uncertainty estimation; |\n| --- | --- |\n\n| (g) | management of equipment, including procedures for calibration, adjustment, maintenance and repair of equipment, and record keeping thereof; |\n| --- | --- |\n\n| (h) | management and control of data, documents and software; |\n| --- | --- |\n\n| (i) | management of calibration items and reference materials; |\n| --- | --- |\n\n| (j) | quality assurance for calibration and test results, including regular participation in proficiency testing schemes, applying analytical methods to certified reference materials, or inter-comparison with an accredited laboratory; |\n| --- | --- |\n\n| (k) | management of outsourced processes; |\n| --- | --- |\n\n| (l) | management of assignments, customer complaints, and ensuring timely corrective action. |\n| --- | --- |",
+      "text_sha256": "32e1a0e90e2264b60d288670e230c29a222de2780888d83bdcf085b5e464ac23",
+      "md_span": {
+        "start": 59307,
+        "end": 62397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\n1. The operator shall apply the minimum frequencies for analyses for relevant fuels and materials listed in Annex VII. Annex VII will be reviewed on a regular basis and in the first instance not more than two years from this Regulation entering into force.\n\n2. The competent authority may allow the operator to use a different frequency than those referred to in paragraph 1, where minimum frequencies are not available or where the operator demonstrates one of the following:\n\n| (a) | based on historical data, including analytical values for the respective fuels or materials in the reporting period immediately preceding the current reporting period, any variation in the analytical values for the respective fuel or material does not exceed 1/3 of the uncertainty value to which the operator has to adhere with regard to the activity data determination of the relevant fuel or material; |\n| --- | --- |\n\n| (b) | using the required frequency would incur unreasonable costs. |\n| --- | --- |",
+      "text_sha256": "0ccc9e399eca01d84f11c6e895a161c386642f696bd72059d2eafc06ddb0a438",
+      "md_span": {
+        "start": 62432,
+        "end": 63436
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\n1. The operator shall determine activity-specific emission factors for CO2 emissions.\n\n2. Emission factors of fuels, including when used as process input, shall be expressed as t CO2/TJ.\n\nThe competent authority may allow the operator to use an emission factor for a fuel expressed as t CO2/t or t CO2/Nm3 for combustion emissions, where the use of an emission factor expressed as t CO2/TJ incurs unreasonable costs or where at least equivalent accuracy of the calculated emissions can be achieved by using such an emission factor.\n\n3. For the conversion of the carbon content into the respective value of a CO2 related emission factor or vice versa, the operator shall use the factor 3 664 t CO2/t C.",
+      "text_sha256": "d4806f418899bf4d2efbcd463b4c57122e8e82e5126386e6fbc6f7256ec670c4",
+      "md_span": {
+        "start": 63471,
+        "end": 64184
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_37",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 37\n\n1. The operator shall use as a minimum tier 1 to determine oxidation or conversion factors. The operator shall use a value of 1 for oxidation or for a conversion factor where the emission factor includes the effect of incomplete oxidation or conversion.\n\nHowever, the competent authority may require operators to always use tier 1.\n\n2. Where several fuels are used within an installation and tier 3 is to be used for the specific oxidation factor, the operator may ask for the approval of the competent authority for one or both of the following:\n\n| (a) | the determination of one aggregate oxidation factor for the whole combustion process and to apply it to all fuels; |\n| --- | --- |\n\n| (b) | the attribution of the incomplete oxidation to one major source stream and use of a value of 1 for the oxidation factor of the other source streams. |\n| --- | --- |\n\nWhere biomass or mixed fuels are used, the operator shall provide evidence that application of points (a) or (b) of the first subparagraph does not lead to an underestimation of emissions.",
+      "text_sha256": "b236466f30fb7251c07abf173db5e3697cdecf8a939866d2702100c65596e562",
+      "md_span": {
+        "start": 64219,
+        "end": 65281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_38",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 38\n\n1. The operator may determine the activity data of biomass source streams without using tiers and providing analytical evidence regarding the biomass content, where that source stream consists exclusively of biomass and the operator can ensure that it is not contaminated with other materials or fuels.\n\n2. The emission factor of biomass shall be zero.\n\nThe emission factor of a mixed fuel or material shall be calculated and reported as the preliminary emission factor determined in accordance with Article 30 multiplied by the fossil fraction of the fuel or material.\n\n3. Peat, xylite and fossil fractions of mixed fuels or materials shall not be considered biomass.\n\n4. Where the biomass fraction of mixed fuels or materials is equal or higher than 97 %, or where due to the amount of the emissions associated with the fossil fraction of the fuel or material it qualifies as a de-minimis source stream, the competent authority may allow the operator to apply no-tier methodologies, including the energy balance method, for determining activity data and relevant calculation factors, unless the respective value is to be used for the subtraction of biomass derived CO2 from emissions determined by means of continuous emission measurement.",
+      "text_sha256": "5693a75bba3a2d0699a9975918c8b88de0859357584d682b12b0df565a37718e",
+      "md_span": {
+        "start": 65316,
+        "end": 66569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_39",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 39\n\n1. Where subject to the tier level required and to the availability of appropriate default values as referred to in Article 31(1), the biomass fraction of a specific fuel or material are determined using analyses, the operator shall determine that biomass fraction on the basis of a relevant standard and the analytical methods therein, and apply that standard only if approved by the competent authority.\n\n2. Where the determination of the biomass fraction of a mixed fuel or material by analysis in accordance with paragraph 1 is technically not feasible or would incur unreasonable costs, the operator shall base its calculation on standard emission factors and biomass fraction values for mixed fuels and materials and estimation methods published by the Commission.\n\nIn the absence of such standard factors and values, the operator shall either assume the absence of a biomass share or submit an estimation method to determine the biomass fraction to the competent authority for approval. For fuels or materials originating from a production process with defined and traceable input streams, the operator may base such estimation on a mass balance of fossil and biomass carbon entering and leaving the process.\n\n3. By way of derogation from paragraphs 1 and 2 and Article 30, where the guarantee of origin has been established in accordance with Articles 2(j) and 15 of Directive 2009/28/EC for biogas injected into and subsequently removed from a gas network, the operator shall not use analyses for the determination of the biomass fraction.",
+      "text_sha256": "c3cddab7c6a5789c5b71179748938b353345524831c5884b22503590327e6ddb",
+      "md_span": {
+        "start": 66604,
+        "end": 68164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_40",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 40\n\nThe operator shall use measurement-based methodologies for all emissions of nitrous oxide (N2O) as laid down in Annex IV, and for quantifying CO2 transferred pursuant to Article 49.\n\nIn addition, the operator may use measurement-based methodologies for CO2 emission sources where it can provide evidence that for each emission source the tiers required in accordance with Article 41 are complied with.",
+      "text_sha256": "81faed1387dcd4d904f15a616e1e8348de160c0f57cd1efcfab7db6492d03697",
+      "md_span": {
+        "start": 68199,
+        "end": 68612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_41",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 41\n\n1. For each emission source which emits more than 5 000 tonnes of CO2(e) per year, or which contributes more than 10 % of the total annual emissions of the installation, whichever is higher in terms of absolute emissions, the operator shall apply the highest tier listed in section 1 of Annex VIII. For all other emission sources, the operator shall apply at least one tier lower than the highest tier.\n\n2. Only where the operator can demonstrate to the satisfaction of the competent authority that application of the tier required under paragraph 1 is technically not feasible or incurs unreasonable costs and application of a calculation methodology using the tier levels required by Article 26 is technically not feasible or incurs unreasonable costs, may a next lower tier be used for the relevant emission source, with a minimum of tier 1.",
+      "text_sha256": "dec753d0c7ca2f7b91475af6eb08dd5a99fb57b6459a940953b63491beb9aa64",
+      "md_span": {
+        "start": 68647,
+        "end": 69503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_42",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 42\n\n1. All measurements shall be carried out applying methods based on EN 14181 Stationary source emissions — Quality assurance of automated measuring systems, EN 15259 Air quality — Measurement of stationary source emissions — Requirements for measurement sections and sites and for the measurement objective, plan and report, and other corresponding EN standards.\n\nWhere such standards are not available, the methods shall be based on suitable ISO standards, standards published by the Commission or national standards. Where no applicable published standards exist, suitable draft standards, industry best practice guidelines or other scientifically proven methodologies shall be used, limiting sampling and measurement bias.\n\nThe operator shall consider all relevant aspects of the continuous measurement system, including the location of the equipment, calibration, measurement, quality assurance and quality control.\n\n2. The operator shall ensure that laboratories carrying out measurements, calibrations and relevant equipment assessments for continuous emission measurement systems (CEMS) shall be accredited in accordance with EN ISO/IEC 17025 for the relevant analytical methods or calibration activities.\n\nWhere the laboratory does not have such accreditation, the operator shall ensure that equivalent requirements of Article 34(2) and (3) are met.",
+      "text_sha256": "99d60f7e647265f29c5c1b4f55b28dbb8f0f4a25d2bd0a93f226418bd710c479",
+      "md_span": {
+        "start": 69538,
+        "end": 70906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_43",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 43\n\n1. The operator shall determine the annual emissions from an emission source over the reporting period by summing up over the reporting period all hourly values of the measured greenhouse gas concentration multiplied by the hourly values of the flue gas flow, where the hourly values shall be averages over all individual measurement results of the respective operating hour.\n\nIn the case of CO2 emissions, the operator shall determine annual emission on the basis of equation 1 in Annex VIII. CO emitted to the atmosphere shall be treated as the molar equivalent amount of CO2.\n\nIn the case of nitrous oxide (N2O), the operator shall determine annual emissions on the basis of the equation in subsection B.1 of section 16 of Annex IV.\n\n2. Where several emission sources exist in one installation and cannot be measured as one emission source, the operator shall measure emissions from those sources separately and add the results to obtain the total emissions of the specific gas over the reporting period.\n\n3. The operator shall determine the greenhouse gas concentration in the flue gas by continuous measurement at a representative point through one of the following:\n\n| (a) | direct measurement; |\n| --- | --- |\n\n| (b) | in the case of a high concentration in the flue gas, calculation of the concentration using an indirect concentration measurement applying Equation 3 of Annex VIII and taking into account the measured concentration values of all other components of the gas stream as laid down in the operator’s monitoring plan. |\n| --- | --- |\n\n4. Where relevant, the operator shall determine separately any CO2 amount stemming from biomass using calculation-based monitoring methodologies and subtract it from the total measured CO2 emissions.\n\n5. The operator shall determine the flue gas flow for the calculation in accordance with paragraph 1 by one of the following methods:\n\n| (a) | calculation by means of a suitable mass balance, taking into account all significant parameters on the input side, including for CO2 emissions at least input material loads, input airflow and process efficiency, as well as on the output side including at least the product output, the O2, SO2 and NOx concentration; |\n| --- | --- |\n\n| (b) | determination by continuous flow measurement at a representative point. |\n| --- | --- |",
+      "text_sha256": "244466fe4321d9516e331118bb1ad2780161964c094cf699873639fccb092310",
+      "md_span": {
+        "start": 70941,
+        "end": 73280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_44",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 44\n\n1. The operator shall calculate hourly averages for each parameter, including concentrations and flue gas flow, relevant for determining emissions using a measurement-based methodology by using all data points available for that specific hour.\n\nWhere an operator can generate data for shorter reference periods without additional cost, he shall use those periods for the determination of the annual emissions in accordance with Article 43(1).\n\n2. Where the continuous measurement equipment for a parameter is out of control, out of range or out of operation for part of the hour or reference period referred to in paragraph 1, the operator shall calculate the related hourly average pro rata to the remaining data points for that specific hour or shorter reference period provided that at least 80 % of the maximum number of data points for a parameter are available. Article 45(2) to (4) shall apply where less than 80 % of the maximum number of data points for a parameter are available.",
+      "text_sha256": "4e0c77571fa93a586f9eedbb3fe378872f5eb0ac17f7a06ae9b608d42569f4c8",
+      "md_span": {
+        "start": 73315,
+        "end": 74316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_45",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 45\n\n1. Where a piece of measurement equipment within the continuous emissions monitoring system is out of operation for more than five consecutive days in any calendar year, the operator shall inform the competent authority without undue delay and propose adequate measures to improve the quality of the continuous emissions monitoring system affected.\n\n2. Where a valid hour or shorter reference period in accordance with Article 44(1) of data cannot be provided for one or more parameters of the measurement-based methodology due to the equipment being out of control, out of range or out of operation, the operator shall determine values for substitution of each missing hour of data.\n\n3. Where a valid hour or shorter reference period of data cannot be provided for a parameter directly measured as concentration, the operator shall calculate a substitution value as the sum of an average concentration and twice the standard deviation associated with that average, using Equation 4 in Annex VIII.\n\nWhere the reporting period is not applicable for determining such substitution values due to significant technical changes at the installation, the operator shall agree with the competent authority a representative timeframe for determining the average and standard deviation, where possible with the duration of one year.\n\n4. Where a valid hour of data cannot be provided for a parameter other than concentration, the operator shall obtain substitute values of that parameter through a suitable mass balance model or an energy balance of the process. The operator shall validate the results by using the remaining measured parameters of the measurement-based methodology and data at regular working conditions considering a time period of the same duration as the data gap.",
+      "text_sha256": "56285de5dc50fd63e2c1241776c779d23a15e19f276ba7dfb5c1b5815551c0a6",
+      "md_span": {
+        "start": 74351,
+        "end": 76136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_46",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 46\n\nThe operator shall corroborate emissions determined by a measurement-based methodology, with the exception of nitrous oxide (N2O) emissions from nitric acid production and greenhouse gases transferred to a transport network or a storage site, by calculating the annual emissions of each considered greenhouse gas for the same emission sources and source streams.\n\nThe use of tier methodologies shall not be required.",
+      "text_sha256": "2fba9422b2024ef6e414a19220690b86e2125478baeaf39a85d66fcf3191e4e6",
+      "md_span": {
+        "start": 76171,
+        "end": 76599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_47",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 47\n\n1. The competent authority may allow the operator to submit a simplified monitoring plan in accordance with Article 13, provided that it operates an installation with low emissions.\n\nThe first subparagraph shall not apply to installations carrying out activities for which N2O is included pursuant to Annex I to Directive 2003/87/EC.\n\n2. For the purposes of the first subparagraph of paragraph 1, an installation shall be considered an installation with low emissions where at least one of the following conditions is met:\n\n| (a) | the average annual emissions of that installation reported in the verified emission reports during the trading period immediately preceding the current trading period, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, were less than 25 000 tonnes of CO2(e) per year; |\n| --- | --- |\n\n| (b) | the average annual emissions referred to in point (a) are not available or are no longer applicable because of changes in the installation’s boundaries or changes to the operating conditions of the installation, but the annual emissions of that installation for the next five years, with the exclusion of CO2 stemming from biomass and before subtraction of transferred CO2, will be, based on a conservative estimation method, less than 25 000 tonnes of CO2(e) per year. |\n| --- | --- |\n\n3. The operator of an installation with low emissions shall not be required to submit the supporting documents referred to in the third subparagraph of Article 12(1), and shall be exempt from the requirement of reporting on improvement referred to in Article 69(4).\n\n4. By way of derogation from Article 27, the operator of an installation with low emissions may determine the amount of fuel or material by using available and documented purchasing records and estimated stock changes. The operator shall also be exempt from the requirement to provide the uncertainty assessment referred to in Article 28(2) to the competent authority.\n\n5. The operator of an installation with low emissions shall be exempt from the requirement of Article 28(2) to determine stock data at the beginning and the end of the reporting period, where the storage facilities are capable of containing at least 5 % of the annual consumption of fuel or material during the reporting period, in order to include related uncertainty in an uncertainty assessment.\n\n6. By way of derogation from Article 26(1) the operator of an installation with low emissions may apply as a minimum tier 1 for the purposes of determining activity data and calculation factors for all source streams, unless higher accuracy is achievable without additional effort for the operator, without providing evidence that applying higher tiers is technically not feasible or would incur unreasonable costs.\n\n7. For the purpose of determining calculation factors on the basis of analyses in accordance with Article 32, the operator of an installation with low emissions may use any laboratory that is technically competent and able to generate technically valid results using the relevant analytical procedures, and provides evidence for quality assurance measures as referred to in Article 34(3).\n\n8. Where an installation with low emissions subject to simplified monitoring exceeds the threshold referred to in paragraph 2 in any calendar year, its operator shall notify the competent authority thereof without undue delay.\n\nThe operator shall, without undue delay, submit a significant modification of the monitoring plan within the meaning of point (b) of Article 15(3), to the competent authority for approval.\n\nHowever, the competent authority shall allow that the operator continues simplified monitoring provided that that operator demonstrates to the satisfaction of the competent authority that the threshold referred to in paragraph 2 has not already been exceeded within the past five reporting periods and will not be exceeded again from the following reporting period onwards.",
+      "text_sha256": "ae0fbc336a47ce375af1cc496ca52dae6e689a1d54fbf28f1009e927954e455d",
+      "md_span": {
+        "start": 76634,
+        "end": 80633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_48",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 48\n\n1. Inherent CO2 which is transferred into an installation, including that contained in natural gas or a waste gas including blast furnace gas or coke oven gas, shall be included in the emission factor for that fuel.\n\n2. Where inherent CO2 originates from activities covered by Annex I to Directive 2003/87/EC or included pursuant to Article 24 of that Directive and is subsequently transferred out of the installation as part of a fuel to another installation and activity covered by that Directive, it shall not be counted as emissions of the installation where it originates.\n\nHowever, where inherent CO2 is emitted, or transferred out of the installation to entities not covered by that Directive, it shall be counted as emissions of the installation where it originates.\n\n3. The operators may determine quantities of inherent CO2 transferred out of the installation both at the transferring and at the receiving installation. In that case, the quantities of respectively transferred and received inherent CO2 shall be identical.\n\nWhere the quantities of transferred and received inherent CO2 are not identical, the arithmetic average of both measured values shall be used in both the transferring and receiving installations’ emission reports, where the deviation between the values can be explained by the uncertainty of the measurement systems. In such case, the emission report shall refer to the alignment of that value.\n\nWhere the deviation between the values cannot be explained by the approved uncertainty range of the measurement systems, the operators of the transferring and receiving installations shall align the values by applying conservative adjustments approved by the competent authority.",
+      "text_sha256": "bc09f825d815ad3e267b69b738b38eb38dbddead2df5cc1a1080c49e4afcc090",
+      "md_span": {
+        "start": 80668,
+        "end": 82389
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_49",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 49\n\n1. The operator shall subtract from the emissions of the installation any amount of CO2 originating from fossil carbon in activities covered by Annex I to Directive 2003/87/EC, which is not emitted from the installation, but transferred out of the installation to any of the following:\n\n| (a) | a capture installation for the purpose of transport and long-term geological storage in a storage site permitted under Directive 2009/31/EC; |\n| --- | --- |\n\n| (b) | a transport network with the purpose of long-term geological storage in a storage site permitted under Directive 2009/31/EC; |\n| --- | --- |\n\n| (c) | a storage site permitted under Directive 2009/31/EC for the purpose of long-term geological storage. |\n| --- | --- |\n\nFor any other transfer of CO2 out of the installation, no subtraction of CO2 from the installation’s emissions shall be allowed.\n\n2. The operator of the installation out of which the CO2 transferred shall provide in its annual emission report the receiving installation’s installation identification code recognised in accordance with Commission Regulation (EU) No 1193/2011 of 18 November 2011 establishing a Union Registry for the trading period commencing on 1 January 2013, and subsequent trading periods, of the Union emissions trading scheme pursuant to Directive 2003/87/EC of the European Parliament and of the Council and Decision No 280/2004/EC of the European Parliament and of the Council and amending Regulations (EC) No 2216/2004 and (EU) No 920/2010 (11).\n\nThe first subparagraph shall also apply to the receiving installation with respect to the transferring installation’s installation identification code.\n\n3. For the determination of the quantity of CO2 transferred from one installation to another, the operator shall apply a measurement-based methodology including in accordance with Articles 43, 44 and 45. The emission source shall correspond to the measurement point and the emissions shall be expressed as the quantity of CO2 transferred.\n\n4. For determining the quantity of CO2 transferred from one installation to another, the operator shall apply tier 4 as defined in section 1 of Annex VIII.\n\nHowever, the operator may apply the next lower tier provided that it establishes that applying tier 4 as defined in section 1 of Annex VIII is technically not feasible or incurs unreasonable costs.\n\n5. The operators may determine quantities of CO2 transferred out of the installation both at the transferring and at the receiving installation. In that case, Article 48(3) shall apply.",
+      "text_sha256": "cfd67efe6712e30b6789f3bf9b0a51723ad931770128010d39d1df62261dae6e",
+      "md_span": {
+        "start": 82424,
+        "end": 84971
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_2012181EN.01003001-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_50",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 50\n\n1. Each aircraft operator shall monitor and report emissions from aviation activities for all flights included in Annex I to Directive 2003/87/EC that are performed by that aircraft operator during the reporting period and for which the aircraft operator is responsible.\n\nTo that end, the aircraft operator shall attribute all flights to the calendar year according to the time of departure measured in Coordinated Universal Time.\n\n2. The aircraft operator intending to apply for an allocation of allowances free of charge pursuant to Articles 3e or 3f of Directive 2003/87/EC shall also monitor tonne-kilometre data for the same flights during the respective monitoring years.\n\n3. For the purpose of identifying the unique aircraft operator referred to in point (o) of Article 3 of Directive 2003/87/EC that is responsible for a flight, the call sign used for air traffic control purposes, shall be used. The call sign shall be one of the following:\n\n| (a) | the ICAO designator laid down in box 7 of the flight plan; |\n| --- | --- |\n\n| (b) | where the ICAO designator of the aircraft operator is not available, the registration markings of the aircraft. |\n| --- | --- |\n\n4. Where the identity of the aircraft operator is not known, the competent authority shall consider the owner of the aircraft as aircraft operator unless it proves the identity the aircraft operator responsible.",
+      "text_sha256": "4a9a2ab6d0cb87d2b3bab42e25e8f00471d8493da49c957b7b8ec47294a19ef2",
+      "md_span": {
+        "start": 85006,
+        "end": 86402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_51",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 51\n\n1. At the latest four months before an aircraft operator commences aviation activities covered by Annex I to Directive 2003/87/EC, it shall submit to the competent authority a monitoring plan for the monitoring and reporting of emissions in accordance with Article 12.\n\nBy way of derogation from the first subparagraph, an aircraft operator that performs an aviation activity covered by Annex I to Directive 2003/87/EC for the first time that could not be foreseen four months in advance of the activity, shall submit a monitoring plan to the competent authority without undue delay, but no later than six weeks after performance of that activity. The aircraft operator shall provide adequate justification to the competent authority why a monitoring plan could not be submitted four months in advance of the activity.\n\nWhere the administering Member State referred to in Article 18a of Directive 2003/87/EC is not known in advance, the aircraft operator shall without undue delay submit the monitoring plan when information on the competent authority of the administering Member State becomes available.\n\n2. Where the aircraft operator is intending to apply for an allocation of allowances free of charge pursuant to Articles 3e or 3f of Directive 2003/87/EC, it shall also submit a monitoring plan for the monitoring and reporting of tonne-kilometre data. That monitoring plan shall be submitted at the latest four months prior to the start of one of the following:\n\n| (a) | the monitoring year mentioned in Article 3e(1) of Directive 2003/87/EC for applications pursuant to that Article; |\n| --- | --- |\n\n| (b) | the second calendar year of the period referred to in Article 3c(2) of Directive 2003/87/EC for applications pursuant to Article 3f of that Directive. |\n| --- | --- |",
+      "text_sha256": "3098b0bd9e878b3dd39b8936953191121b4ff8d6575cb69dba3ca21eb7a94cb5",
+      "md_span": {
+        "start": 86437,
+        "end": 88231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_52",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 52\n\n1. Each aircraft operator shall determine the annual CO2 emissions from aviation activities by multiplying the annual consumption of each fuel expressed in tonnes by the respective emission factor.\n\n2. Each aircraft operator shall determine the fuel consumption for each flight and for each fuel, including fuel consumed by the auxiliary power unit. For that purpose, the aircraft operator shall use one of the methods laid down in section 1 of Annex III. The aircraft operator shall choose the method which provides for the most complete and timely data combined with the lowest uncertainty without incurring unreasonable costs.\n\n3. Each aircraft operator shall determine the fuel uplift referred to in section 1 of Annex III based on one of the following:\n\n| (a) | the measurement by the fuel supplier, as documented in the fuel delivery notes or invoices for each flight; |\n| --- | --- |\n\n| (b) | data from aircraft onboard measurement systems recorded in the mass and balance documentation, in the aircraft technical log or transmitted electronically from the aircraft to the aircraft operator. |\n| --- | --- |\n\n4. The aircraft operator shall determine fuel contained in the tank using data from aircraft onboard measurement systems and recorded in the mass and balance documentation, in the aircraft technical log or transmit it electronically from the aircraft to the aircraft operator.\n\n5. Aircraft operators shall apply tier 2 as set out in section 2 of Annex III.\n\nHowever, aircraft operators having reported average annual emissions over the trading period immediately preceding the current trading period, which were equal to or less than 50 000 tonnes of fossil CO2 may apply as a minimum tier 1 as defined in section 2 of Annex III. All aircraft operators may apply as a minimum tier 1 as defined in section 2 of Annex III for source streams jointly corresponding to less than 5 000 tonnes of fossil CO2 per year or less than 10 %, up to a maximum contribution of 100 000 tonnes of fossil CO2 per year, whichever is highest in terms of absolute value. Where, for the purposes of this subparagraph reported emissions are not available or no longer applicable, the aircraft operator may use a conservative estimate or projection to determine the average annual emissions.\n\n6. Where the amount of fuel uplift or the amount of fuel remaining in the tanks is determined in units of volume, expressed in litres, the aircraft operator shall convert that amount from volume to mass by using actual density values. The aircraft operator shall determine the actual density by using one of the following:\n\n| (a) | on-board measurement systems; |\n| --- | --- |\n\n| (b) | the density measured by the fuel supplier at fuel uplift and recorded on the fuel invoice or delivery note. |\n| --- | --- |\n\nThe actual density shall be expressed in kg/litre and determined for the applicable temperature for a specific measurement.\n\nIn cases for which actual density values are not available, a standard density factor of 0,8 kg/litre shall be applied upon approval by the competent authority.\n\n7. For the purposes of the calculation referred to in paragraph 1, the aircraft operator shall use the default emission factors set out in Table 2 in Annex III.\n\nFor reporting purposes, that approach shall be considered as tier 1. For fuels not listed in that table, the aircraft operator shall determine the emission factor in accordance with Article 32, considered as tier 2. For such fuels, the net calorific value shall be determined and reported as a memo-item.\n\n8. By way of derogation from paragraph 7, the aircraft operator may, upon approval by the competent authority, derive the emission factor or the carbon content, on which it is based, or the net calorific value for commercially traded fuels from the purchasing records for the respective fuel provided by the fuel supplier, provided that those have been derived based on internationally accepted standards and the emission factors listed in Table 2 in Annex III cannot be applied.",
+      "text_sha256": "8a57b6306b4e9b471e491836f0f85631e7adb602aa52a9fb88850c2f2899cb04",
+      "md_span": {
+        "start": 88266,
+        "end": 92308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_53",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 53\n\nArticle 39 shall apply accordingly to the determination of the biomass fraction of a mixed fuel.\n\nNotwithstanding Article 39(2), the competent authority shall allow the use of a methodology uniformly applicable in all Member States for the determination of the biomass fraction, as appropriate.\n\nUnder that methodology, the biomass fraction, net calorific value and emission factor or carbon content of the fuel used in an EU ETS aviation activity listed in Annex I to Directive 2003/87/EC shall be determined using fuel purchase records.\n\nThe methodology shall be based on the guidelines provided by the Commission to facilitate its consistent application in all Member States.\n\nThe use of biofuels for aviation shall be assessed in accordance with Article 18 of Directive 2009/28/EC.",
+      "text_sha256": "d5b40a1a92d1a941faabf02c1ebf3ca4e46e9e8deadbd2889b2e6aac7a8ba8c5",
+      "md_span": {
+        "start": 92343,
+        "end": 93140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_54",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 54\n\n1. Aircraft operators operating fewer than 243 flights per period for three consecutive four-month periods and aircraft operators operating flights with total annual emissions lower than 25 000 tonnes CO2 per year shall be considered small emitters.\n\n2. By way of derogation from Article 52, small emitters may estimate the fuel consumption using tools implemented by Eurocontrol or another relevant organisation, which can process all relevant air traffic information corresponding to that available to Eurocontrol and avoid any underestimations of emissions.\n\nThe applicable tools may only be used if they are approved by the Commission including the application of correction factors to compensate for any inaccuracies in the modelling methods.\n\n3. By way of derogation from Article 12, a small emitter who intends to make use of any of the tools referred to in paragraph 2 of this Article may submit only the following information in the monitoring plan for emissions:\n\n| (a) | information required pursuant to point 1 of section 2 of Annex I; |\n| --- | --- |\n\n| (b) | evidence that the thresholds for small emitters set out in paragraph 1 of this Article are met; |\n| --- | --- |\n\n| (c) | the name of or reference to the tool as referred to in paragraph 2 of this Article that will be used for estimating the fuel consumption. |\n| --- | --- |\n\nA small emitter shall be exempted from the requirement to submit the supporting documents referred to in the third subparagraph of Article 12(1).\n\n4. Where an aircraft operator uses any of the tools referred to in paragraph 2 and exceeds the thresholds referred to in paragraph 1 during a reporting year, the aircraft operator shall notify the competent authority thereof without undue delay.\n\nThe aircraft operator shall, without undue delay, submit a significant modification of the monitoring plan within the meaning of point (vi) of Article 15(4)(a) to the competent authority for approval.\n\nHowever, the competent authority shall allow that the aircraft operator continues to use a tool referred to in paragraph 2 provided that that aircraft operator demonstrates to the satisfaction of the competent authority that the thresholds referred to in paragraph 1 have not already been exceeded within the past five reporting periods and will not be exceeded again from the following reporting period onwards.",
+      "text_sha256": "e3c401c782b15c6d3a60f9cf143b600c941341ea81622a17686caa480471e6e2",
+      "md_span": {
+        "start": 93175,
+        "end": 95544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_55",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 55\n\n1. The aircraft operator shall identify sources of uncertainty and their associated levels of uncertainty. The aircraft operator shall consider that information when selecting the monitoring methodology pursuant to Article 52(2).\n\n2. Where the aircraft operator determines fuel uplifts in accordance with point (a) of Article 52(3), it shall not be required to provide further proof of the associated uncertainty level.\n\n3. Where on-board systems are used for measuring fuel uplift or fuel contained in tanks in accordance with point (b) of Article 52(3), the level of uncertainty associated with fuel measurements shall be supported by all of the following:\n\n| (a) | the aircraft manufacturer’s specifications determining uncertainty levels of on-board fuel measurement systems; |\n| --- | --- |\n\n| (b) | evidence of carrying out routine checks of the satisfactory operation of the fuel measurement systems. |\n| --- | --- |\n\n4. Notwithstanding paragraphs 2 and 3, the aircraft operator may base uncertainties for all other components of the monitoring methodology on conservative expert judgement taking into account the estimated number of flights within the reporting period.\n\n5. The aircraft operator shall regularly perform suitable control activities, including cross-checks between the fuel uplift quantity as provided by invoices and the fuel uplift quantity indicated by on-board measurement, and take corrective action if notable deviations are observed.",
+      "text_sha256": "4eb08fd4abf869b03e54b1f5b527e1f8fdf5302078168e819ab66dbe0bdef837",
+      "md_span": {
+        "start": 95579,
+        "end": 97054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_56",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 56\n\n1. The aircraft operator intending to apply for an allocation of allowances free of charge pursuant to Articles 3e or 3f of Directive 2003/87/EC shall monitor tonne-kilometre data for all flights covered by Annex I to Directive 2003/87/EC in the monitoring years relevant for such applications.\n\n2. The aircraft operator shall calculate tonne-kilometre data by multiplying the distance, calculated in accordance with section 4 of Annex III and expressed in kilometres (km), with the payload, calculated as the sum of the mass of freight, mail, passengers and checked baggage expressed in tonnes (t).\n\n3. The aircraft operator shall determine the mass of freight and mail on the basis of the actual or standard mass contained in the mass and balance documentation for the relevant flights.\n\nAircraft operators not required to have a mass and balance documentation shall propose in the monitoring plan a suitable methodology for determining the mass of freight and mail, while excluding the tare weight of all pallets and containers that are not payload and the service weight.\n\n4. The aircraft operator shall determine the mass of passengers using one of the following tiers:\n\n| (a) | Tier 1: consisting in a default value of 100 kg for each passenger including their checked baggage; |\n| --- | --- |\n\n| (b) | Tier 2: consisting in the mass for passengers and checked baggage contained in the mass and balance documentation for each flight. |\n| --- | --- |\n\nHowever, the tier selected shall apply to all flights in the monitoring years relevant for applications pursuant to Articles 3e or 3f of Directive 2003/87/EC.",
+      "text_sha256": "1facab2002553418cbbcc7af1b96f0bbff9f6ce8ea7e3f081a4c5a36cf9b06a2",
+      "md_span": {
+        "start": 97089,
+        "end": 98716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_57",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 57\n\n1. The operator or aircraft operator shall establish, document, implement and maintain written procedures for data flow activities for the monitoring and reporting of greenhouse gas emissions and ensure that the annual emission report resulting from data flow activities, does not contain misstatements and is in conformance with the monitoring plan, those written procedures and this Regulation.\n\nWhere the aircraft operator intends to apply for an allocation of allowances free of charge pursuant to Articles 3e or 3f of Directive 2003/87/EC, the first subparagraph shall also apply to the monitoring and reporting of tonne-kilometre data.\n\n2. Descriptions of written procedures for data flow activities in the monitoring plan shall at least cover the following elements:\n\n| (a) | the items of information listed in Article 12(2); |\n| --- | --- |\n\n| (b) | identification of the primary data sources; |\n| --- | --- |\n\n| (c) | each step in the data flow from primary data to annual emissions or tonne-kilometre data which shall reflect the sequence and interaction between the data flow activities; |\n| --- | --- |\n\n| (d) | the relevant processing steps related to each specific data flow activity including the formulas and data used to determine the emissions or tonne-kilometre data; |\n| --- | --- |\n\n| (e) | relevant electronic data processing and storage systems used as well as the interaction between such systems and other inputs including manual input; |\n| --- | --- |\n\n| (f) | the way outputs of data flow activities are recorded. |\n| --- | --- |",
+      "text_sha256": "0e4d8d12fbd063dc9388864247950e538b56988e805d4863f08a78605a6ad705",
+      "md_span": {
+        "start": 98751,
+        "end": 100319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_58",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 58\n\n1. The operator or aircraft operator shall establish, document, implement and maintain an effective control system to ensure that the annual emission report and, where applicable, the tonne-kilometre report resulting from data flow activities does not contain misstatements and is in conformity with the monitoring plan and this Regulation.\n\n2. The control system referred to in paragraph 1 shall consist of the following:\n\n| (a) | an operator’s or aircraft operator’s assessment of inherent risks and control risks; |\n| --- | --- |\n\n| (b) | written procedures related to control activities that are to mitigate the risks identified. |\n| --- | --- |\n\n3. Written procedures related to control activities as referred to in point (b) of paragraph 2 shall at least include:\n\n| (a) | quality assurance of the measurement equipment; |\n| --- | --- |\n\n| (b) | quality assurance of the information technology system used for data flow activities, including process control computer technology; |\n| --- | --- |\n\n| (c) | segregation of duties in the data flow activities and control activities as well as management of necessary competencies; |\n| --- | --- |\n\n| (d) | internal reviews and validation of data; |\n| --- | --- |\n\n| (e) | corrections and corrective action; |\n| --- | --- |\n\n| (f) | control of out-sourced processes; |\n| --- | --- |\n\n| (g) | keeping records and documentation including the management of document versions. |\n| --- | --- |\n\n4. The operator or aircraft operator shall monitor the effectiveness of the control system, including by carrying out internal reviews and taking into account the findings of the verifier during the verification of annual emission reports and, where applicable, tonne-kilometre data reports, carried out pursuant to Regulation (EU) No 600/2012.\n\nWhenever the control system is found to be ineffective or not commensurate with the risks identified, the operator or aircraft operator shall seek to improve the control system and update the monitoring plan or the underlying written procedures for data flow activities, risk assessments and control activities as appropriate.",
+      "text_sha256": "2ff8bb39311288064f0367fec5d7966adaa23e8b82c33553c46413d8456becab",
+      "md_span": {
+        "start": 100354,
+        "end": 102478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_59",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 59\n\n1. For the purposes of point (a) of Article 58(3), the operator or aircraft operator shall ensure that all relevant measuring equipment is calibrated, adjusted and checked at regular intervals including prior to use, and checked against measurement standards traceable to international measurement standards, where available, in accordance with the requirements of this Regulation and proportionate to the risks identified.\n\nWhere components of the measuring systems cannot be calibrated, the operator or aircraft operator shall identify those in the monitoring plan and propose alternative control activities.\n\nWhen the equipment is found not to comply with required performance, the operator or aircraft operator shall promptly take necessary corrective action.\n\n2. With regard to continuous emission measurement systems, the operator shall apply quality assurance based on the standard Quality assurance of automated measuring systems (EN 14181), including parallel measurements with standard reference methods at least once per year, performed by competent staff.\n\nWhere such quality assurance requires emission limit values (ELVs) as necessary parameters for the basis of calibration and performance checks, the annual average hourly concentration of the greenhouse gas shall be used as a substitute for such ELVs. Where the operator finds a non-compliance with the quality assurance requirements, including that recalibration has to be performed, it shall report that circumstance to the competent authority and take corrective action without undue delay.",
+      "text_sha256": "0d2e56aaaca8448560cff41a2136b86dd24bdcab50add207da5a65a3aaba46e1",
+      "md_span": {
+        "start": 102513,
+        "end": 104086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_60",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 60\n\nFor the purposes of point (b) of Article 58(3), the operator or aircraft operator shall ensure that the information technology system is designed, documented, tested, implemented, controlled and maintained in a way to process reliable, accurate and timely data in accordance with the risks identified in accordance with point (a) of Article 58(2).\n\nThe control of the information technology system shall include access control, control of back up, recovery, continuity planning and security.",
+      "text_sha256": "b64309761b1811fb7c2d2d0bae5bdf20d6895a5820a3881e559983cbf8c990bd",
+      "md_span": {
+        "start": 104121,
+        "end": 104624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_61",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 61\n\nFor the purposes of point (c) of Article 58(3), the operator or aircraft operator shall assign responsible persons for all data flow activities and for all control activities in a way to segregate conflicting duties. In the absence of other control activities, it shall ensure for all data flow activities commensurate with the identified inherent risks that all relevant information and data shall be confirmed by at least one person who has not been involved in the determination and recording of that information or data.\n\nThe operator or aircraft operator shall manage the necessary competencies for the responsibilities involved, including the appropriate assignment of responsibilities, training, and performance reviews.",
+      "text_sha256": "f04a23d836d76366da047a445132929cff4f86d7e4ccde77098b9777730fec5a",
+      "md_span": {
+        "start": 104659,
+        "end": 105398
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_62",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 62\n\n1. For the purposes of point (d) of Article 58(3) and based on the inherent risks and control risks identified in the risk assessment referred to in point (a) of Article 58(2), the operator or aircraft operator shall review and validate data resulting from the data flow activities referred to in Article 57.\n\nSuch review and validation of the data shall at least include:\n\n| (a) | a check as to whether the data are complete; |\n| --- | --- |\n\n| (b) | a comparison of the data that the operator or aircraft operator has obtained, monitored and reported over several years; |\n| --- | --- |\n\n| (c) | a comparison of data and values resulting from different operational data collection systems, including the following comparisons, where applicable:(i)a comparison of fuel or material purchasing data with data on stock changes and data on consumption for the applicable source streams;(ii)a comparison of calculation factors that have been determined by analysis, calculated or obtained from the supplier of the fuel or material, with national or international reference factors of comparable fuels or materials;(iii)a comparison of emissions obtained from measurement-based methodologies and the results of the corroborating calculation pursuant to Article 46;(iv)a comparison of aggregated data and raw data. |\n| --- | --- |\n| (i) | a comparison of fuel or material purchasing data with data on stock changes and data on consumption for the applicable source streams; |\n| (ii) | a comparison of calculation factors that have been determined by analysis, calculated or obtained from the supplier of the fuel or material, with national or international reference factors of comparable fuels or materials; |\n| (iii) | a comparison of emissions obtained from measurement-based methodologies and the results of the corroborating calculation pursuant to Article 46; |\n| (iv) | a comparison of aggregated data and raw data. |\n\n2. The operator or aircraft operator shall, to the extent possible, ensure the criteria for rejecting data as part of the review and validation are known in advance. For that purpose the criteria for rejecting data shall be laid down in the documentation of the relevant written procedures.",
+      "text_sha256": "20910fbd81d7883374cdd14a69c4668a9fd515e3a38a19a3f70daf379287a4d7",
+      "md_span": {
+        "start": 105433,
+        "end": 107655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_63",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 63\n\n1. Where any part of the data flow activities referred to in Article 57 or control activities referred to in Article 58 is found not to function effectively, or to function outside boundaries that are set in documentation of procedures for those data flow activities and control activities, the operator or aircraft operator shall make appropriate corrections and correct rejected data whilst avoiding underestimation of emissions.\n\n2. For the purpose of paragraph 1, the operator or aircraft operator shall at least proceed to all of the following:\n\n| (a) | assessment of the validity of the outputs of the applicable steps in the data flow activities referred to in Article 57 or control activities referred to in Article 58; |\n| --- | --- |\n\n| (b) | determination of the cause of the malfunctioning or error concerned; |\n| --- | --- |\n\n| (c) | implementation of appropriate corrective action, including correcting any affected data in the emission report or tonne-kilometre report, as appropriate. |\n| --- | --- |\n\n3. The operator or aircraft operator shall carry out the corrections and corrective actions pursuant to paragraph 1 of this Article such that they are responsive to the inherent risks and control risks identified in the risk assessment referred to in Article 58.",
+      "text_sha256": "eb8ba36f8dd22ebd6a669e17f9ec7a3b3f2d3095790129ccc04025a8a5cc40e0",
+      "md_span": {
+        "start": 107690,
+        "end": 108982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_64",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 64\n\nWhere the operator or aircraft operator outsources one or more data flow activities referred to in Article 57 or control activities referred to in Article 58, the operator or aircraft operator shall proceed to all of the following:\n\n| (a) | check the quality of the outsourced data flow activities and control activities in accordance with this Regulation; |\n| --- | --- |\n\n| (b) | define appropriate requirements for the outputs of the outsourced processes as well as the methods used in those processes; |\n| --- | --- |\n\n| (c) | check the quality of the outputs and methods referred to in point (b) of this Article; |\n| --- | --- |\n\n| (d) | ensure that outsourced activities are carried out such that those are responsive to the inherent risks and control risks identified in the risk assessment referred to in Article 58. |\n| --- | --- |",
+      "text_sha256": "4fec923a1e9eb82870d882cd653c7cdabc369ecb7a0aecac0d724080d996eae1",
+      "md_span": {
+        "start": 109017,
+        "end": 109869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_65",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 65\n\n1. Where data relevant for the determination of the emissions of an installation are missing, the operator shall use an appropriate estimation method for determining conservative surrogate data for the respective time period and missing parameter.\n\nWhere the operator has not laid down the estimation method in a written procedure, it shall establish such written procedure and submit to the competent authority an appropriate modification of the monitoring plan in accordance with Article 15 for approval.\n\n2. Where data relevant for the determination of an aircraft operator’s emissions for one flight or more flights are missing, the aircraft operator shall use surrogate data for the respective time period calculated in accordance with the alternative method defined in the monitoring plan.\n\nWhere surrogate data cannot be determined in accordance with the first subparagraph of this paragraph, the emissions for that flight or those flights may be estimated by the aircraft operator from the fuel consumption determined by using a tool referred to in Article 54(2).",
+      "text_sha256": "b5cf3cdc6a937e225765200c9d5acef6bbaa3d308481d7469a6cbcd863f8d99b",
+      "md_span": {
+        "start": 109904,
+        "end": 110987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_66",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 66\n\n1. The operator or aircraft operator shall keep records of all relevant data and information, including information as listed in Annex IX, for at least 10 years.\n\nThe documented and archived monitoring data shall allow for the verification of the annual emissions report or tonne-kilometre data in accordance with Regulation (EU) No 600/2012. Data reported by the operator or aircraft operator contained in an electronic reporting and data management system set up by the competent authority may be considered to be retained by the operator or aircraft operator, if they can access those data.\n\n2. The operator or aircraft operator shall ensure that relevant documents are available when and where they are needed to perform the data flow activities as well as control activities.\n\nThe operator or aircraft operator shall, upon request, make those documents available to the competent authority as well as to the verifier verifying the emissions report or tonne-kilometre data report in accordance with Regulation (EU) No 600/2012.",
+      "text_sha256": "81242607d01597f926dd39dff13fd920c2c7326b0dc84e40bcb64ad24eed8047",
+      "md_span": {
+        "start": 111022,
+        "end": 112065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_67",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 67\n\n1. The operator or aircraft operator shall submit to the competent authority by 31 March of each year an emission report that covers the annual emissions of the reporting period and that is verified in accordance with Regulation (EU) No 600/2012.\n\nHowever, competent authorities may require operators or aircraft operators to submit the verified annual emission report earlier than by 31 March, but by 28 February at the earliest.\n\n2. Where the aircraft operator chooses to apply for the allocation of emission allowances free of charge pursuant to Article 3e or 3f of Directive 2003/87/EC, the aircraft operator shall submit to the competent authority by 31 March of the year following the monitoring year referred to in Article 3e or 3f of that Directive a tonne-kilometre data report that covers the tonne-kilometre data of the monitoring year and that is verified in accordance with Regulation (EU) No 600/2012.\n\n3. The annual emission reports and tonne-kilometre data reports shall at least contain the information listed in Annex X.",
+      "text_sha256": "1e21e70bd2e4cad0a62ba165f1a334bded559b5036fd5281ca4425114c5fef65",
+      "md_span": {
+        "start": 112100,
+        "end": 113150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_68",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 68\n\n1. Where an aircraft operator cannot provide verified tonne-kilometre data to the competent authority by the relevant deadline pursuant to Article 3e(1) of Directive 2003/87/EC because of serious and unforeseeable circumstances outside of its control, that aircraft operator shall submit to the competent authority, for the purposes of that provision, the best tonne-kilometre data that can be made available given the circumstances, including data based, where necessary, on credible estimates.\n\n2. Where the conditions set out in paragraph 1 are met, the Member State shall, for the purposes of the application referred to in Article 3e(1) of Directive 2003/87/EC and in accordance with paragraph 2 of that Article, submit the data received in respect of the aircraft operator concerned, together with an explanation of the circumstances that led to the absence of a report verified in accordance with Regulation (EU) No 600/2012, to the Commission.\n\nThe Commission and the Member States shall use those data for the purposes of Article 3e(3) and (4) of Directive 2003/87/EC.\n\n3. Where the Member State submits data received in respect of an aircraft operator to the Commission pursuant to paragraph 2 of this Article, the aircraft operator concerned shall ensure a verification of the submitted tonne-kilometre data in accordance with Regulation (EU) No 600/2012 as soon as possible and, in any case, upon termination of the circumstances referred to in paragraph 1 of this Article.\n\nThe aircraft operator shall, without undue delay, submit the verified data to the competent authority.\n\nThe competent authority concerned shall reduce and publish the revised allocation of free allowances for the aircraft operator pursuant to Article 3e(4) of Directive 2003/87/EC as appropriate. The relevant allocation shall not be increased. Where applicable, the aircraft operator shall return any excess allowances received pursuant to Article 3e(5) of that Directive.\n\n4. The competent authority shall put into place effective measures to ensure that the aircraft operator concerned complies with its obligations pursuant to paragraph 3.",
+      "text_sha256": "a172e196cdbbddba6455ca5a93d1dad74634ebb0d67e8da57adec03dc366461d",
+      "md_span": {
+        "start": 113185,
+        "end": 115327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_69",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 69\n\n1. Each operator or aircraft operator shall regularly check whether the monitoring methodology applied can be improved.\n\nAn operator of an installation shall submit to the competent authority for approval a report containing the information referred to in paragraph 2 or 3, where appropriate, by the following deadlines:\n\n| (a) | for a category A installation, by 30 June every four years; |\n| --- | --- |\n\n| (b) | for a category B installation, by 30 June every two years; |\n| --- | --- |\n\n| (c) | for a category C installation, by 30 June every year. |\n| --- | --- |\n\nHowever, the competent authority may set an alternative date for submission of the report, but no later date than 30 September of the same year.\n\n2. Where the operator does not apply at least the tiers required pursuant to the first subparagraph of Article 26(1) and to Article 41(1), the operator shall provide a justification as to why it is technically not feasible or would incur unreasonable costs to apply the required tiers.\n\nHowever, where evidence is found that measures needed for reaching those tiers have become technically feasible and do not any more incur unreasonable costs, the operator shall notify the competent authority of appropriate modifications of the monitoring plan in accordance with Article 15, and submit proposals for implementing the related measures and its timing.\n\n3. Where the operator applies a fall-back monitoring methodology referred to in Article 22, the operator shall provide: a justification as to why it is technically not feasible or would incur unreasonable costs to apply at least tier 1 for one or more major or minor source streams.\n\nHowever, where evidence is found that measures needed for reaching at least tier 1 for those source streams have become technically feasible and do not any more incur unreasonable costs, the operator shall notify the competent authority of appropriate modifications of the monitoring plan in accordance with Article 15 and submit proposals for implementing the related measures and its timing.\n\n4. Where the verification report established in accordance with Regulation (EU) No 600/2012 states outstanding non-conformities or recommendations for improvements, in accordance with Articles 27, 29 and 30 of that Regulation, the operator or aircraft operator shall submit to the competent authority for approval a report by 30 June of the year in which that verification report is issued by the verifier. That report shall describe how and when the operator or aircraft operator has rectified or plans to rectify the non-conformities identified by the verifier and to implement recommended improvements.\n\nWhere applicable, such report may be combined with the report referred to in paragraph 1 of this Article.\n\nWhere recommended improvements would not lead to an improvement of the monitoring methodology, the operator or aircraft operator shall provide a justification of why that is the case. Where the recommended improvements would incur unreasonable costs, the operator or aircraft operator shall provide evidence of the unreasonable nature of the costs.",
+      "text_sha256": "0d260103838678161fb03234f55e6f4b3a110928937bbd674525b1095df97c7a",
+      "md_span": {
+        "start": 115362,
+        "end": 118485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_70",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 70\n\n1. The competent authority shall make a conservative estimate of the emissions of an installation or aircraft operator in any of the following situations:\n\n| (a) | no verified annual emission report has been submitted by the operator or aircraft operator by the deadline required pursuant to Article 67(1); |\n| --- | --- |\n\n| (b) | the verified annual emission report referred to in Article 67(1) is not in compliance with this Regulation; |\n| --- | --- |\n\n| (c) | the emission report of an operator or aircraft operator has not been verified in accordance with Regulation (EU) No 600/2012. |\n| --- | --- |\n\n2. Where a verifier has stated, in the verification report pursuant to Regulation (EU) No 600/2012, the existence of non-material misstatements which have not been corrected by the operator or aircraft operator before issuing the verification statement, the competent authority shall assess those misstatements, and make a conservative estimate of the emissions of the installation or aircraft operator where appropriate. The competent authority shall inform the operator or aircraft operator whether and which corrections are required to the emissions report. The operator or aircraft operator shall make that information available to the verifier.\n\n3. Member States shall establish an efficient exchange of information between competent authorities responsible for approval of monitoring plans and competent authorities responsible for acceptance of annual emission reports.",
+      "text_sha256": "0260e4e0e6f73e0dc2d5e39ff76d9b4313958f5d6e8094b424ac0ffaac34ed55",
+      "md_span": {
+        "start": 118520,
+        "end": 120016
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_71",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 71\n\nEmission reports held by the competent authority shall be made available to the public by that authority subject to national rules adopted pursuant to Directive 2003/4/EC. With regard to the application of the exception, as specified in Article 4(2)(d) of that Directive, operators or aircraft operators may indicate in their report which information they consider commercially sensitive.",
+      "text_sha256": "dfc5cc7bc8939515149756da4bd965cb787dce3bef0f77426bb3853acf351557",
+      "md_span": {
+        "start": 120051,
+        "end": 120451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_72",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 72\n\n1. Total annual emissions shall be reported as rounded tonnes of CO2 or CO2(e).\n\nTonne-kilometres shall be reported as rounded values of tonne-kilometres.\n\n2. All variables used to calculate the emissions shall be rounded to include all significant digits for the purpose of calculating and reporting emissions.\n\n3. All data per flights shall be rounded to include all significant digits for the purpose of calculating the distance and payload pursuant to Article 56 as well as reporting the tonne-kilometre data.",
+      "text_sha256": "1476eacc61237149198ec6a31ce39a8baf0539857f8a97e375e51ff96d96c5cc",
+      "md_span": {
+        "start": 120486,
+        "end": 121011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_73",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 73\n\nEach activity listed in Annex I to Directive 2003/87/EC that is carried out by an operator or aircraft operator shall be labelled using the codes, where applicable, from the following reporting schemes:\n\n| (a) | the Common Reporting Format for national greenhouse gas inventory systems as approved by the respective bodies of the United Nations Framework Convention on Climate Change; |\n| --- | --- |\n\n| (b) | the installation’s identification number in the European Pollutant Release and Transfer Register in accordance with Regulation (EC) No 166/2006 of the European Parliament and of the Council (12); |\n| --- | --- |\n\n| (c) | the IPPC activity of Annex I to Regulation (EC) No 166/2006; |\n| --- | --- |\n\n| (d) | the NACE code in accordance with Regulation (EC) No 1893/2006 of the European Parliament and of the Council (13). |\n| --- | --- |",
+      "text_sha256": "d7b0f55b5e1b15847b72781b8ae49796f3ba6ef4fa20e68338813b2c730cefbc",
+      "md_span": {
+        "start": 121046,
+        "end": 121904
+      },
+      "citations": [
+        {
+          "href": "#ntr12-L_2012181EN.01003001-E0012",
+          "text": "(12)"
+        },
+        {
+          "href": "#ntr13-L_2012181EN.01003001-E0013",
+          "text": "(13)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_74",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 74\n\n1. Member States may require the operator and aircraft operator to use electronic templates or specific file formats for submission of monitoring plans and changes to the monitoring plan, as well as for submission of annual emissions reports, tonne-kilometre data reports, verification reports and improvement reports.\n\nThose templates or file format specifications established by the Member States shall, at least, contain the information contained in electronic templates or file format specifications published by the Commission.\n\n2. When establishing the templates or file format specifications referred to in paragraph 1, the Member States may choose one or both of the following options:\n\n| (a) | file format specifications using a standardised electronic reporting language (hereinafter the ‘EU ETS reporting language’) based on XML for the use in connection with advanced automated systems; |\n| --- | --- |\n\n| (b) | templates published in a form usable by standard office software, including spreadsheets and word processor files. |\n| --- | --- |",
+      "text_sha256": "40ed9c65689cc4a958b70eb7c0a240cf39192fdb2a1843241904806b97daf9e4",
+      "md_span": {
+        "start": 121939,
+        "end": 123005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_75",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 75\n\n1. Where a Member State chooses to use automated systems for electronic data exchange based on the EU ETS reporting language in accordance with point (a) of Article 74(2), those systems shall ensure in a cost efficient way, through the implementation of technological measures in accordance with the current state of technology:\n\n| (a) | integrity of data, preventing modification of electronic messages during transmission; |\n| --- | --- |\n\n| (b) | confidentiality of data, through the use of security techniques, including encryption techniques, such that the data is only accessible to the party for which it was intended and that no data can be intercepted by unauthorised parties; |\n| --- | --- |\n\n| (c) | authenticity of data, such that the identity of both the sender and receiver of data is known and verified; |\n| --- | --- |\n\n| (d) | non-repudiation of data, such that one party of a transaction cannot deny having received a transaction nor can the other party deny having sent a transaction, by applying methods such as signing techniques, or independent auditing of system safeguards. |\n| --- | --- |\n\n2. Any automated systems used by Member States based on the EU ETS reporting language for communication between the competent authority, operator and aircraft operator, as well as verifier and accreditation body within the meaning of Regulation (EU) No 600/2012, shall meet the following non-functional requirements, through implementation of technological measures in accordance with the current state of technology:\n\n| (a) | access control, such that the system is only accessible to authorised parties and no data can be read, written or updated by unauthorised parties, through implementation of technological measures in order to achieve the following:(i)restriction of physical access to the hardware on which automated systems run through physical barriers;(ii)restriction of logical access to the automated systems through the use of technology for identification, authentication and authorisation; |\n| --- | --- |\n| (i) | restriction of physical access to the hardware on which automated systems run through physical barriers; |\n| (ii) | restriction of logical access to the automated systems through the use of technology for identification, authentication and authorisation; |\n\n| (b) | availability, such that data accessibility is ensured, even after significant time and the introduction of possible new software; |\n| --- | --- |\n\n| (c) | audit trail, such that it is ensured that changes to data can always be found and analysed in retrospect. |\n| --- | --- |",
+      "text_sha256": "529558a6ba9752781822a632a8006cfebbbe18d7f722bb3f218cc3806e719811",
+      "md_span": {
+        "start": 123040,
+        "end": 125640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_76",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 76\n\n1. Decision 2007/589/EC is repealed.\n\n2. The provisions of Decision 2007/589/EC shall continue to apply to the monitoring, reporting and verification of emissions and, where applicable, activity data occurring prior to 1 January 2013.",
+      "text_sha256": "bf25f09199cb093531e40bc3561f0437ce082ff1bcd06422ba2706e5bd5a1c38",
+      "md_span": {
+        "start": 125675,
+        "end": 125921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "eu-eurlex:32012r0601:2012-06-21--848ce9c51b5310114319cd1f4e0d7206b2fb1896d4eea7badb4e868c99820019#art_77",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 77\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2013.",
+      "text_sha256": "12a3890f27b8b6a702e7bcdc893c912fd44964b51a05bd586ecb9d1ba95a711c",
+      "md_span": {
+        "start": 125956,
+        "end": 126145
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

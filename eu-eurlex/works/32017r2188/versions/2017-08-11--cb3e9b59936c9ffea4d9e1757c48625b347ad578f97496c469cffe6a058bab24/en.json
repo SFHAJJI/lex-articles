@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2188:2017-08-11--cb3e9b59936c9ffea4d9e1757c48625b347ad578f97496c469cffe6a058bab24",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017 amending Regulation (EU) No 575/2013",
+  "valid_from": "2017-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2188/versions/2017-08-11--cb3e9b59936c9ffea4d9e1757c48625b347ad578f97496c469cffe6a058bab24/en.xml",
+    "sha256": "ac0e3fbe0b7a5860476a544820d182945f8efeba0cd717a6d23dd71b2b0dd88f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2188"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2188:2017-08-11--cb3e9b59936c9ffea4d9e1757c48625b347ad578f97496c469cffe6a058bab24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 496(1) of Regulation (EU) No 575/2013, the introductory sentence is replaced by the following:\n\n‘Competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that both of the following conditions are fulfilled:’.",
+      "text_sha256": "c435c236ffbf482455bf833e4a9138588423c9080683c4523a91b31b3ba7f402",
+      "md_span": {
+        "start": 712,
+        "end": 1158
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2188:2017-08-11--cb3e9b59936c9ffea4d9e1757c48625b347ad578f97496c469cffe6a058bab24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2018.",
+      "text_sha256": "d24a6cf4141f807e63ff1ed0532a685ed08910826ef40ea134aafc6bae358cdf",
+      "md_span": {
+        "start": 1191,
+        "end": 1379
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l0770r(01):2019-11-26--7702a1df1ebb62a89ccea209923fd9f5fde2d4490a60f6ec0520f8a538a646cd",
+  "language": "fr",
+  "title": "Rectificatif à la directive (UE) 2019/770 du Parlement européen et du Conseil du 20 mai 20…",
+  "valid_from": "2019-11-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l0770r(01)/versions/2019-11-26--7702a1df1ebb62a89ccea209923fd9f5fde2d4490a60f6ec0520f8a538a646cd/fr.xml",
+    "sha256": "d30ffb14859cc48c71c323023877e40f645cc4130f981f2e9ca1d9894f7bbe23",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0770R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32019l0770r(01):2019-11-26--7702a1df1ebb62a89ccea209923fd9f5fde2d4490a60f6ec0520f8a538a646cd#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.11.2019 FR Journal officiel de l'Union européenne L 305/60 Rectificatif à la directive (UE) 2019/770 du Parlement européen et du Conseil du 20 mai 2019 relative à certains aspects concernant les contrats de fourniture de contenus numériques et de services numériques ( «Journal officiel de l’Union européenne» L 136 du 22 mai 2019 ) Page 3, au considérant 17, seconde phrase: au lieu de: «(17) […] Toutefois, dans le cas des contrats mixtes, lorsque le contrat est conclu à des fins qui n’entrent qu’en partie dans le cadre de l’activité professionnelle de l’intéressé et lorsque la finalité professionnelle est si limitée qu’elle n’est pas prédominante dans le contexte global du contrat, cette personne devrait également être considérée comme un consommateur.» lire: «(17) […] Toutefois, dans le cas des contrats mixtes, lorsque le contrat est conclu à des fins qui n’entrent qu’en partie dans le cadre de l’activité professionnelle de l’intéressé et lorsque la finalité professionnelle est si limitée qu’elle n’est pas prédominante dans le contexte global du contrat, les États membres devraient également rester libres de déterminer si cette personne devrait également être considérée comme un consommateur et à quelles conditions.» Page 12, au considérant 61: au lieu de: «(61) Lorsque le professionnel omet de fournir le contenu numérique ou le service numérique, le consommateur devrait lui enjoindre de fournir ce contenu ou ce service. […] Si le professionnel omet alors de fournir le contenu numérique ou le service numérique, le consommateur devrait avoir droit à la résolution du contrat. […]», lire: «(61) Lorsque le professionnel n’a pas fourni le contenu numérique ou le service numérique, le consommateur devrait lui enjoindre de fournir ce contenu ou ce service. […] Si, alors, le professionnel ne fournit pas le contenu numérique ou le service numérique, le consommateur devrait avoir droit à la résolution du contrat. […]». Page 13, au considérant 65, deuxième phrase: au lieu de: «(65) […] Dans certaines situations, il est justifié que le consommateur ait droit à une réduction immédiate du prix ou à la résolution immédiate du contrat, par exemple lorsque le professionnel a, précédemment déjà, omis de mettre en conformité avec succès le contenu numérique ou le service numérique, ou qu’il ne peut être attendu du consommateur qu’il demeure confiant quant à la capacité du professionnel à procéder à la mise en conformité du contenu numérique ou du service numérique en raison de la gravité du défaut de conformité concerné. […]», lire: «(65) […] Dans certaines situations, il est justifié que le consommateur ait droit à une réduction immédiate du prix ou à la résolution immédiate du contrat, par exemple lorsque le professionnel n’a pas, précédemment, mis en conformité avec succès le contenu numérique ou le service numérique, ou qu’il ne peut être attendu du consommateur qu’il demeure confiant quant à la capacité du professionnel à procéder à la mise en conformité du contenu numérique ou du service numérique en raison de la gravité du défaut de conformité concerné. […]». Page 14, au considérant 73, deuxième phrase: au lieu de: «(73) […] Le consommateur devrait dès lors pouvoir faire valoir son droit à réparation pour le préjudice causé par un défaut de conformité ou par un manquement à l’obligation de fournir le contenu numérique ou le service numérique. […]», lire: «(73) […] Le consommateur devrait dès lors pouvoir faire valoir son droit à réparation pour le préjudice causé par un défaut de conformité ou par le défaut de fourniture du contenu numérique ou du service numérique. […]». Page 21, à l’article 8, paragraphe 3, phrase introductive: au lieu de: «3. Lorsque le consommateur omet d’installer dans un délai raisonnable les mises à jour fournies par le professionnel conformément au paragraphe 2, le professionnel […]», lire: «3. Lorsque le consommateur n’installe pas, dans un délai raisonnable, les mises à jour fournies par le professionnel conformément au paragraphe 2, le professionnel […]».",
+      "text_sha256": "fea6b2885af2b45bd70d0216626f627e75967599b3e642008de540f01df4f660",
+      "md_span": {
+        "start": 729,
+        "end": 4777
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

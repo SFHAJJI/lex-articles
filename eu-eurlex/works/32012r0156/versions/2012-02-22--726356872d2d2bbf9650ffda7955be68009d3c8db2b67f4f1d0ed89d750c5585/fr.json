@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r0156:2012-02-22--726356872d2d2bbf9650ffda7955be68009d3c8db2b67f4f1d0ed89d750c5585",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No\u00A0156/2012 of 22\u00A0February 2012 amending Annexes I to IV to Cou…",
+  "valid_from": "2012-02-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r0156/versions/2012-02-22--726356872d2d2bbf9650ffda7955be68009d3c8db2b67f4f1d0ed89d750c5585/fr.xml",
+    "sha256": "dfedda78d207e0c3c3b15504f89d4ce54deec0475a650a9caa14f1e0902cbdce",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R0156"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32012r0156:2012-02-22--726356872d2d2bbf9650ffda7955be68009d3c8db2b67f4f1d0ed89d750c5585#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes annexes I à IV du règlement (CE) no 44/2001 sont remplacées par le texte figurant à l’annexe du présent règlement.",
+      "text_sha256": "8cc11f00de38ae3b5240fad478d7d0b4a4d320c50eb69a09c5e1e1f1e739f3dc",
+      "md_span": {
+        "start": 702,
+        "end": 837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r0156:2012-02-22--726356872d2d2bbf9650ffda7955be68009d3c8db2b67f4f1d0ed89d750c5585#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 870,
+        "end": 1011
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

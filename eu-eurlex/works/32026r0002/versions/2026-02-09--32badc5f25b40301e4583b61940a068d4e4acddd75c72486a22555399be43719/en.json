@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/2 of 9\u00A0February 2026 laying down rules for the application of Regulation (EU)\u00A02024/1781",
+  "valid_from": "2026-02-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0002/versions/2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719/en.xml",
+    "sha256": "a097fedba55b210bc06f9f4f856844a8e4fa841315786db8cac31077c7e5a454",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0002"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation establishes the details and format for the disclosure of information on discarded unsold consumer products. It shall apply to products discarded in each financial year as from the first full financial year after the date of application of this Regulation. Economic operators shall disclose that information within 12 months after the end of that financial year.",
+      "text_sha256": "d186e1215d261d3cd379e873b8aa134c73e5ef56853d23ce2fd3702f3c4dee60",
+      "md_span": {
+        "start": 743,
+        "end": 1131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The visual presentation and content of the disclosure of information on discarded unsold consumer products shall comply with the format set out in Annex I.\n\n2. Economic operators that are bound by the obligation to publish sustainability reporting in their management report pursuant to Article 19a or 29a of Directive 2013/34/EU or that publish such or similar reports on a voluntary basis, and include the information on discarded unsold consumer products in the format set out in Annex I in that sustainability reporting, may, instead of disclosing that information on the website directly, provide on their website a link to that report with a clear mention where it contains the information on discarded unsold consumer products.",
+      "text_sha256": "3d8cfdc2cd6fc17fdf13fc116bcfe6a557ce4ac4ac65ef20118b1526e7724b6e",
+      "md_span": {
+        "start": 1164,
+        "end": 1912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe disclosure of information on discarded unsold consumer products shall be delimited based on the first two digits of the relevant combined nomenclature (CN) codes set out in Annex I to Regulation (EEC) No 2658/87.\n\nHowever, the products listed in Annex II to this Regulation shall be delimited based on the first four digits of the relevant combined nomenclature (CN) codes as referred to in that Annex.",
+      "text_sha256": "80767573efaade127b378f6952b96377058314903bc6cfe55e0900429c0c8356",
+      "md_span": {
+        "start": 1945,
+        "end": 2362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nEconomic operators shall keep the information and documentation necessary to demonstrate, in accordance with Article 24(2) of Regulation (EU) 2024/1781, the delivery and reception of the discarded unsold consumer products, including statements on the reception and treatment of discarded unsold consumer products received by economic operators from waste treatment operators, for five years after the disclosure of information on such products.",
+      "text_sha256": "8bd084b63abaf174b6d33f48ded0ba2ba3548047e45d6e9323fd91837f91aacb",
+      "md_span": {
+        "start": 2395,
+        "end": 2850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. When competent national authorities verify compliance of economic operators with obligations related to the disclosure of information on discarded unsold consumer products, they shall apply the principles and procedure laid down in Annex III.\n\n2. When competent national authorities consider that non-compliance is relevant for one or more other Member States, they shall inform the competent national authorities of those Member States.",
+      "text_sha256": "0e11535e72e8966326dc1ca0f3cf7b903d6a42cf8ceabc8b73f738e3b78ae3fe",
+      "md_span": {
+        "start": 2883,
+        "end": 3334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThe Commission shall review this Regulation, taking into account the experience gained in the implementation of the disclosure of information on discarded unsold consumer products, in particular the relevance of the details and format for the disclosure set out in Annex I, the delimitation of product types set out in Annex II, and how such information is to be verified. The Commission shall present the results of this review, including, if appropriate, a draft revision proposal, no later than 2 March 2031.",
+      "text_sha256": "71a7706c1b290cade308c1d111cc335db0aa19a0acf1b616dde3a5c099163d35",
+      "md_span": {
+        "start": 3367,
+        "end": 3889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r0002:2026-02-09--32badc5f25b40301e4583b61940a068d4e4acddd75c72486a22555399be43719#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 2 March 2027.",
+      "text_sha256": "abc0a683871420054d9c44c98f8e06efb94514961d0424a0ff02822310061d56",
+      "md_span": {
+        "start": 3922,
+        "end": 4108
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

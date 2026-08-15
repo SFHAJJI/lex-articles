@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0212:2017-12-13--6c65c316c77b6e42916e79f46846dc18b18a6d6d55faea91a1a4e5f4ac8dbbfa",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2018/212 of 13 December 2017 amending Delegated Regulation (EU) 2016/1675 supplementing Directive (EU) 2015/849",
+  "valid_from": "2017-12-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0212/versions/2017-12-13--6c65c316c77b6e42916e79f46846dc18b18a6d6d55faea91a1a4e5f4ac8dbbfa/fr.xml",
+    "sha256": "1b58349016083118c0bbc888a3153d4736d4a2e562bf5e553f225f71f2c06545",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0212"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0212:2017-12-13--6c65c316c77b6e42916e79f46846dc18b18a6d6d55faea91a1a4e5f4ac8dbbfa#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'annexe du règlement délégué (UE) 2016/1675, dans le tableau figurant au point I, les lignes suivantes sont insérées:\n\n| «11 | Sri Lanka |\n| --- | --- |\n| 12 | Trinité-et-Tobago |\n| 13 | Tunisie» |",
+      "text_sha256": "17d2d1e6ff73120836588cd6dce3e38189edd62a69d76e9acdde813779e28bce",
+      "md_span": {
+        "start": 759,
+        "end": 976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0212:2017-12-13--6c65c316c77b6e42916e79f46846dc18b18a6d6d55faea91a1a4e5f4ac8dbbfa#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 1009,
+        "end": 1150
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

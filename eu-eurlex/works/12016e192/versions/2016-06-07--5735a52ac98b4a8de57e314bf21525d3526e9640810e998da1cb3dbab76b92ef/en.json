@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e192:2016-06-07--5735a52ac98b4a8de57e314bf21525d3526e9640810e998da1cb3dbab76b92ef",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e192/versions/2016-06-07--5735a52ac98b4a8de57e314bf21525d3526e9640810e998da1cb3dbab76b92ef/en.xml",
+    "sha256": "2049d379ea19b4867b31b503dd6265edc7c2ece39d8c8c939eb815c7a4864898",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E192"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e192:2016-06-07--5735a52ac98b4a8de57e314bf21525d3526e9640810e998da1cb3dbab76b92ef#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 EN Official Journal of the European Union C 202/133 Article 192 (ex Article 175 TEC) 1. The European Parliament and the Council, acting in accordance with the ordinary legislative procedure and after consulting the Economic and Social Committee and the Committee of the Regions, shall decide what action is to be taken by the Union in order to achieve the objectives referred to in Article 191. 2. By way of derogation from the decision-making procedure provided for in paragraph 1 and without prejudice to Article 114, the Council acting unanimously in accordance with a special legislative procedure and after consulting the European Parliament, the Economic and Social Committee and the Committee of the Regions, shall adopt: (a) provisions primarily of a fiscal nature; (b) measures affecting: — town and country planning, — quantitative management of water resources or affecting, directly or indirectly, the availability of those resources, — land use, with the exception of waste management; (c) measures significantly affecting a Member State's choice between different energy sources and the general structure of its energy supply. The Council, acting unanimously on a proposal from the Commission and after consulting the European Parliament, the Economic and Social Committee and the Committee of the Regions, may make the ordinary legislative procedure applicable to the matters referred to in the first subparagraph. 3. General action programmes setting out priority objectives to be attained shall be adopted by the European Parliament and the Council, acting in accordance with the ordinary legislative procedure and after consulting the Economic and Social Committee and the Committee of the Regions. The measures necessary for the implementation of these programmes shall be adopted under the terms of paragraph 1 or 2, as the case may be. 4. Without prejudice to certain measures adopted by the Union, the Member States shall finance and implement the environment policy. 5. Without prejudice to the principle that the polluter should pay, if a measure based on the provisions of paragraph 1 involves costs deemed disproportionate for the public authorities of a Member State, such measure shall lay down appropriate provisions in the form of: — temporary derogations, and/or — financial support from the Cohesion Fund set up pursuant to Article 177.",
+      "text_sha256": "def408f4e584f1a955577a5fb8c421faad988c4c088c72efa44469d9ec106639",
+      "md_span": {
+        "start": 713,
+        "end": 3090
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

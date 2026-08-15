@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0292:2024-09-26--7bb37815b5767033014384ee326cc03623572223872a76510c53f46f6a18a9cf",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/292 of 26\u00A0September 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-09-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0292/versions/2024-09-26--7bb37815b5767033014384ee326cc03623572223872a76510c53f46f6a18a9cf/fr.xml",
+    "sha256": "fc4a58856aae4a87b7ac46515653a157cc0b39ef8f8bdbd386dbdfa4425f8b6f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0292"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26--7bb37815b5767033014384ee326cc03623572223872a76510c53f46f6a18a9cf#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe document type à utiliser si possible par les autorités compétentes des États membres pour les accords de coopération conclus en vertu de l’article 107, paragraphe 1, du règlement (UE) 2023/1114 figure à l’annexe du présent règlement.",
+      "text_sha256": "61355fa6dc3f4ee18ebce6414ca6126045de1f750d02ce9a784a03aecd118221",
+      "md_span": {
+        "start": 717,
+        "end": 970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26--7bb37815b5767033014384ee326cc03623572223872a76510c53f46f6a18a9cf#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLorsque les autorités compétentes s’appuient sur un arrangement administratif en vertu de l’article 46, paragraphe 3, point b), du règlement (UE) 2016/679 pour le transfert de données à caractère personnel aux autorités de surveillance d’un pays tiers, cet arrangement administratif est annexé à l’accord de coopération conclu conformément à l’article 107, paragraphe 1, du règlement (UE) 2023/1114.",
+      "text_sha256": "9bdb0c1b62022246481ef5126093f044beadf405925a739c31a8a4b175072acc",
+      "md_span": {
+        "start": 1003,
+        "end": 1413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26--7bb37815b5767033014384ee326cc03623572223872a76510c53f46f6a18a9cf#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "2be326f48a7bb411fa6711790e75e6a35be6d3cd69277fcbe048ba6ef8caa375",
+      "md_span": {
+        "start": 1446,
+        "end": 1587
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

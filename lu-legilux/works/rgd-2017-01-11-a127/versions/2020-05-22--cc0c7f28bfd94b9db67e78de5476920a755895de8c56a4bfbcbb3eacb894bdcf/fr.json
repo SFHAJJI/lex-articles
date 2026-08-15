@@ -1,0 +1,372 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/05/2020 : Règlement grand-ducal modifié du 11 janvier 2017 déterminant les modalités d’admission dans les classes de 7e de l’enseignement secondaire.",
+  "valid_from": "2020-05-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-01-11-a127/versions/2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf/fr.xml",
+    "sha256": "fc7a1122b99a0b9374adb4e3ff542a32e72ed1a2bf35b3749b5b32ddf15d2e25",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20200522/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_1er/20170207",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **La procédure générale**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Au cours du quatrième cycle de l’enseignement fondamental, les parents de l’élève concerné participent trimestriellement aux échanges individuels tels que définis à l’article 6 du règlement grand-ducal modifié du 6 juillet 2009 déterminant les modalités d’évaluation des élèves ainsi que le contenu du dossier d’évaluation.\n\nLes perspectives d’orientation de l’élève sur base de sa progression, ainsi que de ses intérêts et de ses aspirations sont discutées par le titulaire de classe, en tant que représentant de l’équipe pédagogique, et les parents de l’élève lors de ces échanges individuels à partir du troisième trimestre de la première année que l’élève passe au quatrième cycle.\n\nPar dérogation à l’alinéa précédent, les perspectives d’orientation de l’élève qui, conformément au premier alinéa de l’article 23 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental, est susceptible d’atteindre au moins le socle de compétences défini pour le quatrième cycle de l’enseignement fondamental au terme de la première année passée dans ce cycle, sont discutées lors des échanges individuels à partir du deuxième trimestre.",
+      "text_sha256": "73f564b946cadf6eedaabe50dfbdeef6827b6dfb4a3cd991899bc7832aaf0807",
+      "md_span": {
+        "start": 793,
+        "end": 1950
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/07/06/n2/jo",
+          "text": "règlement grand-ducal modifié du 6 juillet 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_2/20200522",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **La procédure générale**"
+      ],
+      "article_valid_from": "2020-05-22",
+      "text_md": "Lors de l’entretien d’orientation, le titulaire de classe, en tant que représentant de l’équipe pédagogique, et les parents de l’élève décident de l’orientation de l’élève vers l’ordre d’enseignement secondaire qui correspond le mieux à ses aspirations et capacités.\n\nEn cas d’accord, les deux parties arrêtent une décision d’orientation commune soit pour une des classes de 7e de l’enseignement secondaire classique, soit pour une des classes de 7e de la voie d’orientation de l’enseignement secondaire général, soit pour une des classes de 7ede la voie de préparation de l’enseignement secondaire général. Le cas échéant, elles s’expriment en faveur d’une filière particulière ou d’une école à caractère international. La décision d’orientation est consignée sur un formulaire signé par les deux parties, dont la forme est arrêtée par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «le ministre». Les parents inscrivent leur enfant à un lycée de l’ordre d’enseignement correspondant à la décision d’orientation. Ils transmettent une copie de la décision d’orientation au directeur du lycée concerné.\n\nEn cas de désaccord, la prise de décision est dévolue à la commission d’orientation de la région concernée, ci-après dénommée « la commission ». À cette fin, le titulaire de classe et les parents adressent conjointement au président de la commission concernée le formulaire actant le désaccord, dont la forme est arrêtée par le ministre. Le formulaire est obligatoirement accompagné des documents énumérés à l’article 26, paragraphe 2, de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental. Les documents doivent être consultés par les membres permanents de la commission concernée au bureau du président de la commission dans les délais fixés dans le calendrier prévu à l’alinéa 4.\n\nLe calendrier des différentes étapes de la procédure d’orientation est fixé par le ministre.\n\nPar dérogation à l’alinéa 4, pour l’année scolaire 2019/2020, le ministre peut fixer un ou plusieurs calendriers des différentes étapes de la procédure d’orientation afin de garantir le bon déroulement de la fin de l’année scolaire en cours.",
+      "text_sha256": "60d96af804fd5404f19a291c6b72b25ebe90df8b4897d7703b3cc761373bbaf2",
+      "md_span": {
+        "start": 1985,
+        "end": 4174
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_3/20180612",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **La procédure générale**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Le psychologue est chargé, au cas où les parents de l’élève optent pour son intervention, de recueillir des informations supplémentaires notamment par l’application de tests psychologiques visant à soutenir l’orientation au cours et à la fin du quatrième cycle de l’enseignement fondamental. Lors du deuxième échange individuel au cours de la deuxième année du quatrième cycle, il informe les parents sur les résultats des tests et il contribue à conseiller et informer les parents quant au choix d’une classe de 7e de l’enseignement secondaire classique, de l’enseignement secondaire général ou d’une école à caractère international.\n\nLes interventions des psychologues sont coordonnées par le Centre psycho-social et d’accompagnement scolaires.",
+      "text_sha256": "969cb30141b429b682f4b7e13c35ea6b42fa107d1b0a58cdce190f433c2cc200",
+      "md_span": {
+        "start": 4209,
+        "end": 4955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_4/20170207",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Les modalités d’orientation**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Le titulaire de classe prépare l’entretien d’orientation avec les parents de l’élève concerné ainsi que la décision d’orientation en rassemblant les pièces énumérées à l’article 26, paragraphe 2, de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental et des productions montrant la progression de l’élève au cours du quatrième cycle, c’est-à-dire au moins:\n\n1. quatre productions écrites en langue française dont deux productions écrites libres ;\n2. quatre productions écrites en langue allemande dont deux productions écrites libres ;\n3. quatre productions incluant tous les domaines de développement et d’apprentissage des mathématiques;\n4. deux productions du domaine des sciences naturelles et humaines ;\n5. deux créations artistiques dont un dessin ;\n6. un autoportrait rédigé dans une des trois langues scolaires au choix de l’élève.",
+      "text_sha256": "09de326b175b5d4ec53f3a59aa411b78f7e993d7e1f0fcc3b040be5bd2e81077",
+      "md_span": {
+        "start": 5043,
+        "end": 5915
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_5/20180612",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Les modalités d’orientation**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Les sujets des différentes parties des épreuves communes ainsi que leurs modalités d’évaluation et de passation sont élaborés par un ou des groupes de travail, composés d’instituteurs et de directeurs de région de l’enseignement fondamental et de membres du personnel enseignant de l’enseignement secondaire classique ou secondaire général.\n\nLes membres du ou des groupes de travail ainsi que leurs suppléants sont nommés par le ministre pour un terme de cinq ans.",
+      "text_sha256": "9fe8622c85ba7687a2d4db1733ef3400c42a4ff5e4519ed9e618ef4903a4c584",
+      "md_span": {
+        "start": 5950,
+        "end": 6414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_6/20170207",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **La commission d’orientation**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Les parents de l’élève concerné, le titulaire de classe concerné ainsi que, le cas échéant, le psychologue d’orientation peuvent présenter leurs observations devant la commission. À des fins de communication, les parents de l’élève peuvent être accompagnés par une personne parlant une des trois langues officielles du pays.\n\nLa commission prend, pour chaque élève concerné, une décision d’orientation motivée.",
+      "text_sha256": "456749bc4ec50b307c8a140136893cb29bf194421a14b069e00584ddd4e9468d",
+      "md_span": {
+        "start": 6502,
+        "end": 6912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_7/20170207",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **La commission d’orientation**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Le président de la commission coordonne l’ensemble des opérations d’orientation de la commission et convoque les membres permanents et invités de la commission par écrit au moins huit jours ouvrables avant la séance de la commission.",
+      "text_sha256": "e4da90fdc1d8e674b89bd02112727efa33e93001e4e98b76f2dad0b3c6f3c9a4",
+      "md_span": {
+        "start": 6947,
+        "end": 7180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_8/20170207",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **La commission d’orientation**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Les membres de la commission décident par vote à main levée.\n\nEn cas de désaccord entre les membres de la commission, la décision d’orientation est émise à la majorité des voix.\n\nSi, en cas de désaccord, aucune majorité n’est réalisée dans la commission, la voix du président de la commission est prépondérante.\n\nSi un des membres invités ne se présente pas devant la commission, cette absence est actée dans la décision d’orientation de la commission.",
+      "text_sha256": "b6e818c78be21805391e1c45f1c2e2dab5e18132f4129e3be593a1cc8ffe96e0",
+      "md_span": {
+        "start": 7215,
+        "end": 7667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_9/20170207",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **La commission d’orientation**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Le formulaire actant la décision d’orientation de la commission, dont la forme est arrêtée par le ministre, est transmis dans les délais arrêtés par le calendrier aux parents de l’élève concerné et au titulaire de classe concerné, en tant que représentant de l’équipe pédagogique. Le président de la commission transmet au ministre le compte-rendu concernant les décisions d’orientation émises.",
+      "text_sha256": "687fe555fe983ee35e6b4d87c118bc1106555f04190abc00f8b23c982afcb4fc",
+      "md_span": {
+        "start": 7702,
+        "end": 8096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_10/20180612",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **La commission d’orientation**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Les parents inscrivent leur enfant à un lycée de l’ordre d’enseignement secondaire correspondant à la décision d’orientation émise par la commission. Ils transmettent une copie de la décision d’orientation au directeur du lycée concerné.",
+      "text_sha256": "679eed2f3b93a34b6b0c17d870aac00c18a33284d9e0dea473b04f9d80bd5cbc",
+      "md_span": {
+        "start": 8133,
+        "end": 8370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_11/20180612",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **L’admission à une classe de 7e de la voie de préparation de l’enseignement secondaire général**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Un élève âgé de douze ans ou qui atteint l’âge de douze ans au 1er septembre de l’année en cours et qui fréquente soit une classe du troisième cycle, soit une classe de la première année du quatrième cycle, peut être orienté vers une classe de 7ede la voie de préparation de l’enseignement secondaire général.\n\nUne orientation vers une classe de 7ede la voie de préparation de l’enseignement secondaire général pour l’année scolaire subséquente est proposée aux parents de l’élève concerné par le titulaire de classe au plus tard lors du deuxième échange individuel trimestriel prévu par la réglementation afférente, le directeur de région concerné entendu en son avis.\n\nLorsque les parents sont d’accord avec la proposition du titulaire de classe, une décision d’orientation est signée par les deux parties, dont la forme est arrêtée par le ministre, lors du troisième échange individuel de l’année scolaire en cours et les parents inscrivent leur enfant à une classe de 7ede la voie de préparation de l’enseignement secondaire général. Ils transmettent une copie de la décision d’orientation au directeur du lycée concerné. Une copie de la décision d’orientation est transmise par le titulaire de classe au directeur de région concerné. Ce dernier transmet au ministre l’information concernant les décisions d’orientation émises.\n\nEn cas de désaccord des parents avec la proposition du titulaire de classe, l’élève continue sa scolarité au sein de l’enseignement fondamental dans le respect des limites prévues à l’article 23, alinéa 6 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental.",
+      "text_sha256": "96eb98eb24f82ee6cdcca2adadcfbc89b57841950c029bcec00fe8c8273224c0",
+      "md_span": {
+        "start": 8526,
+        "end": 10152
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n3/jo",
+          "text": "loi modifiée du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_12/20180612",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **L’admission à une classe de 7e de la voie de préparation de l’enseignement secondaire général**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Chaque élève qui quitte l’enseignement fondamental avant ou à la fin de la première année du quatrième cycle pour une classe de 7ede la voie de préparation de l’enseignement secondaire général reçoit un bilan des compétences, tel que décrit par la réglementation afférente.\n\nSi l’élève ne bénéficie pas d’un plan de prise en charge individualisé, la commission d’inclusion est saisie par le titulaire de classe, pour autant que les parents aient marqué leur accord, afin de faire établir un diagnostic conformément à l’article 1er du règlement grand-ducal du 12 mai 2009 fixant le fonctionnement des commissions d’inclusion scolaire régionales.",
+      "text_sha256": "98643ab685a997e69355fbe70e858a9ea056c35712b4b1be935dde0985baa5dc",
+      "md_span": {
+        "start": 10189,
+        "end": 10833
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/05/12/n1/jo",
+          "text": "règlement grand-ducal du 12 mai 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_13/20170207",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Le règlement grand-ducal du 26 décembre 2012 déterminant les modalités d’admission dans les classes de 7e de l’enseignement secondaire ou de l’enseignement secondaire technique est abrogé.",
+      "text_sha256": "c710b7d1db5cb784d2a4c51813501051c124972b3e1eea417df36f64323830c8",
+      "md_span": {
+        "start": 10946,
+        "end": 11134
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/12/26/n4/jo",
+          "text": "règlement grand-ducal du 26 décembre 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_14/20180612",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2018-06-12",
+      "text_md": "Par dérogation à l’article 12, alinéas 3 et 4, du règlement grand-ducal modifié du 6 juillet 2009 déterminant les modalités d’évaluation des élèves ainsi que le contenu du dossier d’évaluation, la décision de recourir à une année supplémentaire au quatrième cycle de l’enseignement fondamental est prise lors du deuxième échange individuel au cours de la deuxième année du quatrième cycle. Dans le respect de cette date limite et après concertation avec les parents, l’équipe pédagogique leur communique la décision de recourir à une année supplémentaire.\n\nEn cas de désaccord avec la décision de l’équipe pédagogique, les parents peuvent introduire dans le délai de 15 jours un recours auprès du directeur de région qui statue endéans 15 jours.",
+      "text_sha256": "3d14a2586b905f5dc195b89324aee717b60dac142c42fab2f2dff572798075c9",
+      "md_span": {
+        "start": 11171,
+        "end": 11916
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/07/06/n2/jo",
+          "text": "règlement grand-ducal modifié du 6 juillet 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_15/20170207",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Pendant l’année scolaire 2016/2017, ces dispositions s’appliquent aux élèves inscrits en première année du quatrième cycle de l’enseignement fondamental.\n\nPour les élèves inscrits en deuxième ou en troisième année du quatrième cycle de l’enseignement fondamental pour l’année scolaire 2016/2017, les dispositions prévues par le règlement grand-ducal du 26 décembre 2012 déterminant les modalités d’admission dans les classes de 7e de l’enseignement secondaire ou de l’enseignement secondaire technique, en vigueur pendant l’année scolaire 2015/2016, restent applicables.",
+      "text_sha256": "876fc0a24f9ce5acaa27bfbb0e0e1120ab4226ece1b9af7ec60174733c22786f",
+      "md_span": {
+        "start": 11953,
+        "end": 12523
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/12/26/n4/jo",
+          "text": "règlement grand-ducal du 26 décembre 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2017-01-11-a127:2020-05-22--cc0c7f28bfd94b9db67e78de5476920a755895de8c56a4bfbcbb3eacb894bdcf#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/art_16/20170207",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2017-02-07",
+      "text_md": "Notre Ministre de l'Éducation nationale, de l’Enfance et de la Jeunesse est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7d62eeaff8c77486d86b399110fd120cfd07808a9dd28265795ff2a072d2ef86",
+      "md_span": {
+        "start": 12560,
+        "end": 12707
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,180 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d",
+  "language": "fr",
+  "title": "Loi du 24 août 2016 portant introduction du cours commun «\u00A0vie et société\u00A0» dans l'enseignement secondaire et secondaire technique.",
+  "valid_from": "2017-09-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-08-24-n4/versions/2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d/fr.xml",
+    "sha256": "01b08c83389cc698180ce14db0182216dfb6bff7d951463705d33495fb50014d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/consolide/20170915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_1er/20170915",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-09-15",
+      "text_md": "Il est introduit dans l'enseignement secondaire et secondaire technique un cours commun dénommé «vie et société» qui remplace le cours d'instruction religieuse et morale et le cours d'éducation morale et sociale.",
+      "text_sha256": "2ce5733324c0790f5fcb3158acdf86cd86c0bc04d58d4a7b39284ff5845e6325",
+      "md_span": {
+        "start": 687,
+        "end": 899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_2/20160915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "La loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire) est modifiée comme suit:\n\n1. L'article 48 est abrogé.\n2. er",
+      "text_sha256": "83e8b56c124890e6ed2368292387dce0bccd7b08278f028db73f5327db5a1c96",
+      "md_span": {
+        "start": 934,
+        "end": 1099
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1968/05/10/n1",
+          "text": "loi modifiée du 10 mai 1968"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_3/20160915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "La loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit:\n\n1. À l'article 4, alinéa 5, dernier tiret, les mots «l'instruction religieuse, la formation morale et sociale» sont remplacés par ceux de «le cours vie et société».\n2. L'article 37 est abrogé.",
+      "text_sha256": "c36e6462e65b7e3d9f342d445efc8f36a6a53973347d51ab6328df8f397e7420",
+      "md_span": {
+        "start": 1134,
+        "end": 1487
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/09/04/n1",
+          "text": "loi modifiée du 4 septembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_4/20160915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "La loi modifiée du 25 juillet 2005 portant création d'un lycée-pilote est modifiée comme suit:\n\n1. 1. er Les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l'enseignement secondaire et de septième à neuvième de l'enseignement secondaire technique.\n2. 1. la branche «vie et société»\n2. À l'article 5quater, les mots «À l'exception des cours de formation morale et sociale et d'instruction religieuse et morale dont les finalités sont assurées par l'éducation aux valeurs telle que définie à l'article 4 et de la rédaction des mémoires» sont remplacés par les mots «À l'exception de la rédaction des mémoires».",
+      "text_sha256": "959fd1d3df16a78e5b3ffa41e9681e52c227f4b4b9af526bf7c387540c153b83",
+      "md_span": {
+        "start": 1522,
+        "end": 2181
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/07/25/n2",
+          "text": "loi modifiée du 25 juillet 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_5/20160915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Les agents de l'État en service, en congé parental ou en congé sans traitement auprès d'un lycée à l'entrée en vigueur de la présente loi et ayant assuré le cours d'instruction religieuse et morale, le cours de formation morale et sociale ou le cours éducation aux valeurs sont autorisés à assurer le cours «vie et société», à condition d'avoir participé à une formation d'initiation au cours «vie et société». L'initiation porte sur les objectifs, les contenus et les principes didactiques et méthodologiques du cours «vie et société». La formation est organisée par l'Institut de formation de l'éducation nationale. La durée de la formation est de seize heures qui sont reconnues au titre de la formation continue obligatoire.\n\nL'Institut de formation de l'éducation nationale met en place des formations continues portant sur le cours «vie et société».",
+      "text_sha256": "3cf78953e7cd9857071bb1d94c52520e608728591508894dc1a53ffc84937977",
+      "md_span": {
+        "start": 2216,
+        "end": 3071
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_6/20160915",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Les fonctionnaires stagiaires en doctrine chrétienne et en formation morale et sociale, admis au stage d'insertion professionnelle avant l'entrée en vigueur de la présente loi, accomplissent leur stage, à partir de la rentrée scolaire 2016/2017, dans la branche «vie et société».",
+      "text_sha256": "159a932d1db2de6386880e2141c2722af03daeef906ca45f7999b17e482ce922",
+      "md_span": {
+        "start": 3106,
+        "end": 3385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_7/20170915",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-09-15",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en utilisant les termes de «loi du 24 août 2016 portant introduction du cours commun «vie et société» dans l'enseignement secondaire et secondaire technique».",
+      "text_sha256": "47a8e015932d2fab67027ecfbf6ad6292cfd10e0827b5b7ce1c4b85e002899de",
+      "md_span": {
+        "start": 3420,
+        "end": 3646
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 24 août 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2016-08-24-n4:2017-09-15--f0aa3a3ea83fad465d24bd441e2cafa78a4393e4caa072dcc76f20fd98d6f51d#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/24/n4/art_8/20160915",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "La présente loi entre en vigueur à la rentrée scolaire 2016/2017.",
+      "text_sha256": "7801596a288ce90a2ca1a914b4ec0f7dd764fcf9d7f483aff9d7de6dd81c2da0",
+      "md_span": {
+        "start": 3681,
+        "end": 3746
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

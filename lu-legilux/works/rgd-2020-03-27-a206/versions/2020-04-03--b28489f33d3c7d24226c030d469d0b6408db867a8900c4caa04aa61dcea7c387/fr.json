@@ -1,0 +1,234 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/04/2020 : Règlement grand-ducal du 27 mars 2020 portant dérogation aux articles L.521-9., L.521-11., L.524-5., L.543-11., L.543-20., L.552-2. du Code du travail et aux articles 8 et 10 du règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail.",
+  "valid_from": "2020-04-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-03-27-a206/versions/2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387/fr.xml",
+    "sha256": "eb3ab839c7a14fa30125c614e218f9f6dd10548b8cf7e83318c848ec6c142d97",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_1er/20200327",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article L. 521-9 du Code du travail :\n\n1. ème\n2. La dispense maximale prévue au paragraphe 5 alinéa 2 est prorogée jusqu’à la fin de l’état de crise.",
+      "text_sha256": "f3b35d36ff9ead0eaac611bb12ff7388fcb41c26d8e1e4618d074f4f0e07b51a",
+      "md_span": {
+        "start": 1053,
+        "end": 1221
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_2/20200403",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Par dérogation à l’article L. 521-11, paragraphes 1 à 5, du même Code, la durée des droits aux indemnités de chômage, qu’ils soient initiaux ou en prolongation, est prolongée de la durée de l’état de crise.\n\nLa période de référence de vingt-quatre mois, visée au paragraphe 2, est allongée d’une période égale à la durée de l’état de crise.",
+      "text_sha256": "30cedc6558f2a476b1e1d09aaea06ee64ad4cd545c3bd1baa65e8f6ba06be2b1",
+      "md_span": {
+        "start": 1256,
+        "end": 1596
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_3/20200327",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article L. 524-5 alinéa 1er du même code, le promoteur n’est pas tenu de rembourser le Fonds pour l’emploi pendant la durée de l’état de crise déclaré par le Gouvernement luxembourgeois.",
+      "text_sha256": "d1846156e6fbb35580fec83cff1b53b28320c35bf4309d3efe65a5ededdf4894",
+      "md_span": {
+        "start": 1631,
+        "end": 1836
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_4/20200327",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article L. 543-11, paragraphe 3, du même code, le Fonds pour l’emploi rembourse aux promoteurs pendant la durée de l’état de crise déclaré par le Gouvernement luxembourgeois, une quote-part de cent-pour cent de l’indemnité touchée par le jeune demandeur d’emploi, ceci même pour la durée de la prolongation.",
+      "text_sha256": "9909e0a15bb26fafc303c3f16030f0d1b3ee61ed384fd29a63684cea9c76cf3a",
+      "md_span": {
+        "start": 1871,
+        "end": 2197
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_5/20200327",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article L. 543-20, du même code, le Fonds pour l’emploi rembourse aux promoteurs pendant la durée de l’état de crise déclaré par le Gouvernement luxembourgeois, une quote-part de cent-pour cent de l’indemnité touchée par le jeune demandeur d’emploi, ceci même pour la durée de la prolongation.",
+      "text_sha256": "1da03f7970ff1b18ea531535f98ec0b6e36f892e14d7db63377ac4cbbe1b79c7",
+      "md_span": {
+        "start": 2232,
+        "end": 2544
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_6/20200327",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article L. 552-2, paragraphe 2, du même code,\n\n1. Les délais impartis au médecin du travail aux alinéas 2, 5 et 7 sont supprimés.\n2. Pendant la durée la durée de l’état de crise déclaré par le Gouvernement luxembourgeois, si l’intéressé ne donne pas suite à la convocation du médecin du travail compétent, le dossier sera mis en suspens et l’intéressé sera reconvoqué dès que possible.",
+      "text_sha256": "cb341e1c7c2a0a65adf7c353d6739dd5bee92656732b812a290ecf8a318dd430",
+      "md_span": {
+        "start": 2579,
+        "end": 2983
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_7/20200403",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-03",
+      "text_md": "Par dérogation à l’article L. 622-4, paragraphe 4, alinéa 2 du même Code**, **l’Agence pour le Développement de l’Emploi dispose, durant l’état de crise proclamé par le Gouvernement, d’un délai de six semaines pour proposer des candidats à l’employeur.",
+      "text_sha256": "ccdb962d3c2e33ecae1437d59d97bfc818ae5ae90cb926fe4d523c3a98b1e76d",
+      "md_span": {
+        "start": 3018,
+        "end": 3270
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_8/20200327",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Par dérogation à l’article 10 paragraphe 1er du règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail, la décision de la commission mixte est notifiée endéans trente jours ouvrables, à la personne concernée ainsi qu’à son employeur.",
+      "text_sha256": "1aa0f3993abc418ba9bb8be11a1af1e8ab52f1533c0d25a726dad7d810ea8796",
+      "md_span": {
+        "start": 3305,
+        "end": 3753
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2002/10/14/n1/jo",
+          "text": "règlement grand-ducal du 14 octobre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_9/20200327",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 3788,
+        "end": 3901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a206:2020-04-03--b28489f33d3c7d24226c030d469d0b6408db867a8900c4caa04aa61dcea7c387#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/art_10/20200327",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Notre ministre du Travail, de l’Emploi et de l’Économie sociale et solidaire est chargé de l’exécution des dispositions du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "78816f75ad4f796faa06378c5dd6e3e8f4dadcae3febc07cc728d3af869b41b3",
+      "md_span": {
+        "start": 3938,
+        "end": 4144
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

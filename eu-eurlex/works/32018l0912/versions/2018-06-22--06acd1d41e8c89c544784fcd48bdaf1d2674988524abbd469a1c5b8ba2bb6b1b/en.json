@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018l0912:2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b",
+  "language": "en",
+  "title": "Council Directive (EU) 2018/912 of 22 June 2018 amending Directive 2006/112/EC on the comm…",
+  "valid_from": "2018-06-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018l0912/versions/2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b/en.xml",
+    "sha256": "4dabc5118f6c3e7dc6d6d4df79283d1505c949936985c61885a03d1f81859495",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L0912"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018l0912:2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 97 of Directive 2006/112/EC is replaced by the following:\n\n‘Article 97\n\nThe standard rate shall not be lower than 15 %.’.",
+      "text_sha256": "b2348bb90e524a8560b33d135ab0e715db6a9e93ece81b4d833e58dad340961b",
+      "md_span": {
+        "start": 702,
+        "end": 842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018l0912:2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 September 2018 at the latest. They shall immediately communicate the text of those measures to the Commission.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such a reference is to be made.\n\n2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "ddf24d0f5bb28136694050d264daa9f43ffcbb8d9d00451b362b071e8d5201d3",
+      "md_span": {
+        "start": 875,
+        "end": 1532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018l0912:2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "1738b72395490bb5313013237ff74761d9b4ff368296c3ccf63f2003d992f67b",
+      "md_span": {
+        "start": 1565,
+        "end": 1715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018l0912:2018-06-22--06acd1d41e8c89c544784fcd48bdaf1d2674988524abbd469a1c5b8ba2bb6b1b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 1748,
+        "end": 1808
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

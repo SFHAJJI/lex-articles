@@ -1,0 +1,2367 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a",
+  "language": "fr",
+  "title": "Loi du 18 juillet 2018 sur la Police grand-ducale.",
+  "valid_from": "2023-09-05",
+  "valid_to": "2024-02-29",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2018-07-18-a621/versions/2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a/fr.xml",
+    "sha256": "3365803030a91c8220ceb30fc9032022b99efe036291d110ad58b3c7b5d1e9ec",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230905/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_1er/20180801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police grand-ducale, ci-après dénommée « Police », est un service national de police générale chargé d’assurer la sécurité intérieure.\n\nElle est placée sous l’autorité du ministre ayant la Police dans ses attributions, désigné ci-après par « ministre ».",
+      "text_sha256": "7a6c4fed7d32b90fe45081e3878cf4e9d3767227bc98822f47bceb88fd7883a7",
+      "md_span": {
+        "start": 665,
+        "end": 921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_2/20180801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Dans l’exercice de ses missions la Police veille au respect et contribue à la protection des libertés et des droits individuels.\n\nLa Police est proche de la population, à laquelle elle fournit conseil et assistance. Elle agit par des actions préventives, pro-actives, dissuasives et répressives.",
+      "text_sha256": "5b64d05f165519c021ca89c68bf57fc3c46871b3b3a5e12f2c0fd0f31f6e1ea5",
+      "md_span": {
+        "start": 956,
+        "end": 1251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_3/20180801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Dans l’exercice de ses missions de police administrative, la Police veille au maintien de l’ordre public, à l’exécution et au respect des lois et des règlements de police généraux et communaux, à la prévention des infractions et à la protection des personnes et des biens.\n\nÀ cet effet, elle assure une surveillance générale dans les lieux qui lui sont légalement accessibles, exécute des mesures de police administrative et prend les mesures matérielles de police administrative de sa compétence.",
+      "text_sha256": "c95b97ee3cde6dfae4433b5f235525c103e62f15f6f05156dcdede43ba6d014e",
+      "md_span": {
+        "start": 1381,
+        "end": 1878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_4/20180801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les missions de police administrative sont exercées par les officiers de police administrative et les agents de police administrative.\n\nOnt la qualité d’officier de police administrative :\n\n1. les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive ;\n2. les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 55.\n\nOnt la qualité d’agent de police administrative tous les membres du cadre policier qui n'ont pas la qualité d'officier de police administrative.",
+      "text_sha256": "0b6e21c4ecb34f098068d1cd79d06451ec3335b484bbd068aeafc4200433fe7f",
+      "md_span": {
+        "start": 1913,
+        "end": 2565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_5/20230101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2023-01-01",
+      "text_md": "**(1)** Lorsqu’il existe un danger grave, concret et imminent pour la sécurité publique, le ministre ou le fonctionnaire désigné par lui à cette fin, désigné ci-après par « son délégué » peut, tant que ce danger perdure, faire exécuter, pour la période de temps qu’il détermine et qui ne peut excéder dix jours, renouvelables sur décision du ministre ou de son délégué, des contrôles d’identité sur la partie de la voie publique ou dans les lieux accessibles au public concernés par ce danger, qui sont déterminés par le ministre ou son délégué. Les contrôles peuvent être mis en œuvre sur décision orale du ministre ou de son délégué, à confirmer par écrit dans les quarante-huit heures.\n\n**(2)** La Police peut procéder à des contrôles d’identité des personnes visées par une des mesures prévues aux articles 5*bis,* 7, 10, 12, 13 et 14.\n\nLa Police peut également procéder à des contrôles d’identité des personnes qui demandent à accéder à un périmètre de sécurité tel que prévu à l’article 6. Les personnes qui refusent de se soumettre à un contrôle d’identité, se voient interdire l'accès au périmètre de sécurité.\n\nLa Police peut encore procéder à des contrôles d’identité des personnes qui refusent d’obtempérer à l’instauration d’un périmètre de sécurité ou qui ne le respectent pas.\n\nLa Police peut procéder à des contrôles d’identité dans le cadre de la constatation d’infractions qui peuvent faire l’objet de sanctions administratives conformément à la loi du 27 juillet 2022 relative aux sanctions administratives communales et à l’élargissement des compétences des agents municipaux.\n\n**(3)** Les pièces d’identité ne peuvent être retenues que pendant le temps nécessaire au contrôle de l’identité.\n\n**(4)** Si la personne refuse ou est dans l’impossibilité de faire la preuve de son identité, elle peut être retenue pendant le temps nécessaire à l’établissement de son identité, sans que cette rétention ne puisse excéder six heures à compter du contrôle.\n\n**(5)** La vérification d'identité est faite par un officier de police administrative auquel la personne est présentée sans délai. Celui-ci l’invite à fournir tous éléments permettant d'établir son identité et procède, s'il y a lieu, à toutes opérations de vérification nécessaires.\n\n**(6)** Dès sa rétention, la personne concernée est informée, par écrit et contre récépissé, dans une langue qu'elle comprend, sauf les cas d'impossibilité matérielle dûment constatés, de son droit de prévenir une personne de son choix et de faire aviser le ministre ou son délégué. Un téléphone est mis à sa disposition à cet effet. Le ministre ou son délégué peut, à tout moment, mettre fin à la rétention.\n\n**(7)** Le recours à la prise d'empreintes digitales ou de photographies doit être impérativement nécessaire à l'établissement de l'identité de la personne et est subordonné à une autorisation préalable du ministre ou de son délégué.\n\nLes empreintes digitales et les photographies recueillies en application du présent article peuvent être traitées ultérieurement à des fins de prévention, de recherche et de poursuite d’infractions. Si la personne contrôlée ne fait l’objet d’aucun signalement, d’aucune mesure d’exécution ou de recherche, le rapport d’identification et toutes les pièces s’y rapportant ne peuvent faire l’objet d’aucune mesure de conservation et sont détruits dans un délai de six mois sous le contrôle du ministre ou de son délégué.\n\n**(8)** La vérification d'identité opérée après rétention fait l'objet d'un rapport mentionnant le nom de l’officier de police administrative qui y a procédé, les motifs qui l’ont justifiée, le jour et l'heure du contrôle effectué, le jour et l'heure de la présentation devant l'officier de police administrative, le jour et l'heure de la remise en liberté et la déclaration de la personne contrôlée qu'elle a été informée de son droit d'avertir la personne de son choix, de faire aviser le ministre ou son délégué ainsi que de faire acter toutes autres déclarations qu'elle désire.\n\nLe rapport est présenté à la signature de la personne contrôlée. Si celle-ci refuse de signer, mention est faite du refus et des motifs de celui-ci. Le rapport est transmis au ministre et copie en est remise à l'intéressé.",
+      "text_sha256": "5aef390d77d0d3b22a1cae9e10c0479e90e0a9d45ee8c2f6a1eaf562634e3e96",
+      "md_span": {
+        "start": 2600,
+        "end": 6824
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2022/07/27/a400/jo",
+          "text": "loi du 27 juillet 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_5bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_5bis/20220829",
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2022-08-29",
+      "text_md": "Lorsqu’une personne entrave l’entrée ou la sortie accessible au public d’un bâtiment public ou privé de sorte à entraver la liberté de circuler d’autrui, la Police peut rappeler à l’ordre la personne.\n\nLorsque la personne n’obtempère pas au rappel à l’ordre, la Police peut enjoindre la personne de s’éloigner des lieux.\n\nEn cas de refus d’obtempérer immédiatement à l’injonction donnée, la personne peut être éloignée, au besoin par la force.\n\nDans le cas d’un éloignement par la force, un rapport est dressé par l’officier ou l’agent de police administrative ayant procédé à l’éloignement. Ce rapport mentionne le nom de l’officier ou de l’agent de police administrative qui y a procédé, les motifs qui ont justifié la force, le lieu, la date du début et de la fin de l’intervention, ainsi que les nom et prénom et la date de naissance de la personne éloignée.\n\nLe rapport est transmis au ministre et au bourgmestre compétent et copie en est remise à la personne.",
+      "text_sha256": "8c81e1fb533fe07a20304b7ef9897e0e5940df138466482d3fab6e8f90e3db63",
+      "md_span": {
+        "start": 6865,
+        "end": 7830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_6/20180801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Lorsqu’il existe un danger grave, concret et imminent pour la sécurité publique, le bourgmestre peut, tant que ce danger perdure, instituer, pour la période de temps qu’il détermine et qui ne peut excéder dix jours, renouvelables sur décision du bourgmestre, un périmètre de sécurité par lequel il limite ou interdit l’accès et le séjour sur la partie de la voie publique ou dans les lieux accessibles au public concernés par ce danger, qui sont déterminés par lui.\n\nSi le périmètre de sécurité à établir concerne le territoire de plus d’une commune, l’institution et le renouvellement en appartiennent au ministre ou à son délégué.\n\nLe périmètre de sécurité peut être instauré sur décision orale, à confirmer par écrit dans les quarante-huit heures.\n\n**(2)** Dans l’urgence la Police peut instituer un périmètre de sécurité pour garantir ses interventions et celles des services de secours.\n\n**(3)** Le périmètre est établi moyennant des installations matérielles ou des injonctions.\n\nToute personne non autorisée qui tente d’accéder, accède, ou qui se maintient dans le périmètre de sécurité peut être éloignée, au besoin par la force.\n\nLe périmètre de sécurité est levé dès que les conditions ayant justifié sa mise en place ne sont plus réunies.",
+      "text_sha256": "adbea2818ab5df02d0aa9e312ef7381c5d5082186fd6aad2cddfc8cd56996c82",
+      "md_span": {
+        "start": 7865,
+        "end": 9122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_7/20180801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les personnes signalées ou recherchées peuvent être retenues aux fins d’exécution des actes à la base du signalement ou de l’avis de recherche pendant le temps strictement nécessaire à l’exécution de ces mesures, sans que cette rétention ne puisse excéder six heures.\n\nDès sa rétention, la personne concernée est informée, par écrit et contre récépissé, dans une langue qu'elle comprend, sauf les cas d'impossibilité matérielle dûment constatés, de son droit de prévenir une personne de son choix et de faire aviser l’autorité à l’origine du signalement ou de la recherche. Un téléphone est mis à sa disposition à cet effet. L’autorité à l’origine du signalement ou de la recherche peut, à tout moment, mettre fin à la rétention.\n\nUn rapport est transmis à l’autorité qui est à l’origine du signalement ou de la recherche.",
+      "text_sha256": "d0180d74b629809ad49dd8695c071be161d3732280be5102e801e4d67d1de1bc",
+      "md_span": {
+        "start": 9157,
+        "end": 9979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_8/20180801",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Lorsque les personnes visées à l’article 5, paragraphe 2, alinéas 2 et 3, se trouvent à bord d’un véhicule, la Police peut procéder à une fouille du véhicule. Le véhicule dont le conducteur refuse la fouille se voit interdire l’accès au périmètre de sécurité.\n\nLa fouille est exécutée par des officiers de police administrative, assistés, le cas échéant, par des agents de police administrative.\n\nLe véhicule ne peut être immobilisé que le temps strictement nécessaire au déroulement de la fouille.\n\nLa fouille se déroule en présence du conducteur du véhicule.\n\nLa fouille des véhicules spécialement aménagés à usage d’habitation et effectivement utilisés comme résidence ne peut être faite que conformément aux dispositions relatives aux perquisitions et visites domiciliaires.",
+      "text_sha256": "ef7ae43fb8e44153a3bc10290fa47e9b786127811668b198411618ee75ddf9eb",
+      "md_span": {
+        "start": 10014,
+        "end": 10792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8bis",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_8bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_8_bis/20230210",
+      "type": "article",
+      "num": "Art. 8 bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2023-02-10",
+      "text_md": "**(1)** La Police peut procéder à la fouille de sécurité dans les cas suivants :\n\n1. er\n2. lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues aux articles 5, paragraphe 4, et aux articles 7, 14 et 15, porte des objets dangereux pour elle-même ou pour autrui.\n3. lorsqu’une personne à l’égard de laquelle il existe un ou plusieurs indices qu’elle présente un danger grave, concret et imminent pour la sécurité publique, accède à un périmètre de sécurité prévu à l’article 6. En l’absence d’accord de la personne concernée de se soumettre à la fouille, celle-ci se voit interdire l’accès au périmètre de sécurité.\n\n**(2)** La fouille de sécurité consiste en une fouille simple, une fouille intégrale ou une fouille intime.\n\n**(3)** La fouille simple s’effectue au moyen d’une palpation ou à l’aide de moyens de détection électronique, sans que la personne concernée n’ait à se dévêtir partiellement ou intégralement. La fouille simple inclut le contrôle des effets personnels de la personne fouillée.\n\n**(4)** La fouille intégrale, comportant l’obligation pour la personne concernée de se dévêtir partiellement ou intégralement, peut être entreprise lorsque les moyens utilisés dans le cadre de la fouille simple se sont avérés insuffisants. La fouille intégrale consiste dans le contrôle visuel de la surface nue du corps, de l’intérieur de la bouche et des oreilles, ainsi que des aisselles et de l’entre-jambes de la personne concernée.\n\n**(5)** La fouille intime consiste dans le contrôle des cavités ou ouvertures corporelles autres que celles visées au paragraphe 4, la personne concernée étant dévêtue partiellement ou intégralement. Il peut être procédé à une fouille intime s’il existe des raisons sérieuses de croire que la personne visée dissimule des objets ou substances qui présentent un danger grave, concret et imminent pour l’ordre public ou des objets dangereux pour elle-même ou pour autrui, que la fouille intégrale ne permet pas de découvrir.\n\nLa fouille intime est effectuée, sur décision du ministre ou de son délégué, par un médecin requis à cet effet, qui délivre un certificat y relatif. Pour des raisons de sécurité, le médecin peut solliciter la présence d’un officier de police administrative ou d’un agent de police administrative.\n\n**(6)** La fouille de sécurité est effectuée dans le respect de la dignité humaine et évite toute humiliation de la personne fouillée. La personne concernée, qui fait l’objet d’une fouille, ne peut être retenue que pendant le temps strictement nécessaire à cette opération.\n\nLa fouille intégrale et la fouille intime sont effectuées à l’abri des regards de tierces personnes. Le dévêtement intégral de la personne concernée lors des fouilles intégrale et intime ne peut se faire qu’en deux temps.\n\nSauf en cas d’impossibilité matérielle, la fouille simple est effectuée par un agent de police administrative ou un officier de police administrative du même sexe que la personne fouillée.\n\nDans tous les cas, la fouille intégrale est effectuée par un agent de police administrative ou un officier de police administrative du même sexe que la personne fouillée.\n\nEn l’absence d’accord de la personne concernée, les fouilles simple et intégrale peuvent être exercées sous la contrainte physique dans les cas prévus au paragraphe 1er, points 1° et 2°. La personne concernée est informée de cette possibilité préalablement à toute fouille.\n\nSeule la contrainte strictement nécessaire à l’exercice de la fouille est autorisée. En aucun cas l’application des moyens de contrainte ne doit être prolongée au-delà du temps strictement nécessaire pour réaliser la fouille.\n\n**(7)** L’officier de police administrative ou l’agent de police administrative procède à la saisie des objets ou substances présentant un danger grave, concret et imminent pour la sécurité publique dans les lieux accessibles au public ainsi que des objets dangereux pour la personne fouillée elle-même ou pour autrui.\n\nLa saisie ne peut pas durer plus longtemps que le temps requis par les circonstances qui la justifient et ne peut en aucun cas dépasser douze heures. La Police informe le propriétaire ou détenteur de la fin de la saisie.\n\nÀ la fin de la saisie, les objets et substances sont tenus à disposition de leur propriétaire ou détenteur pendant un délai de trois mois.\n\nAux fins de saisie ou de garde, la Police peut requérir le concours de personnes qui sont tenues d’obtempérer et de fournir, le cas échéant, les moyens nécessaires. Les modalités d’indemnisation, de recours ainsi que celles se rapportant aux mesures sociales sont régies par la loi modifiée du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.\n\nLes frais engendrés suite à la saisie sont à charge du propriétaire et le recouvrement des frais se fera comme en matière domaniale.\n\nLa saisie fait l’objet d’un rapport au ministre mentionnant le nom de l’officier de police administrative qui l’a exécutée, les motifs qui l’ont justifiée, le lieu, la date et l’inventaire des objets soustraits. Copie du rapport est transmise au propriétaire ou détenteur.\n\nLes objets et substances saisis et non réclamés endéans un délai de trois mois sont considérés comme délaissés et la propriété en est transmise à l’État.\n\n**(8)** En cas de fouille intégrale ou de fouille intime, il est établi un rapport mentionnant le nom de l’officier de police administrative ou de l’agent de police administrative exécutant la fouille intégrale, le nom de la personne fouillée, les motifs qui ont justifié la fouille, le lieu, la date et l’heure du début et de la fin de la fouille et le cas échéant :\n\n- l’absence d’accord de la personne concernée à la fouille intégrale ou à la fouille intime ;\n- le fait que la fouille intime a été effectuée sur décision du ministre ou de son délégué ;\n- le nom du médecin ayant exécuté la fouille intime.\n\nUn exemplaire du rapport est remis à la personne fouillée et un autre est transmis sans délai au ministre.",
+      "text_sha256": "2c44cd9ae614d3fb2ba7879585770e836e259a042263ecfa38db3f4de3fd2451",
+      "md_span": {
+        "start": 10834,
+        "end": 16864
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1981/12/08/n2/jo",
+          "text": "loi modifiée du 8 décembre 1981"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_9/20180801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police peut toujours pénétrer dans les lieux accessibles au public afin de veiller au maintien de l’ordre public, au respect des lois et règlements de police généraux et communaux.",
+      "text_sha256": "81a37b7ab67b2cc3d1e180c58f627aa9740a50ccde510a7acfd7f65c538b7caf",
+      "md_span": {
+        "start": 16899,
+        "end": 17082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_10/20180801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Lorsqu’il y a des raisons sérieuses de croire à un péril imminent pour la vie ou l’intégrité physique de personnes, les officiers et agents de police administrative peuvent entrer dans des bâtiments, leurs annexes, les véhicules qui s’y trouvent ainsi que des zones non bâties, tant de jour que de nuit, en vue de rechercher les personnes en danger ou la cause du danger et, s’il y a lieu, d’y porter remède, dans chacun des cas suivants :\n\n1. à la demande ou avec le consentement d’une personne qui a la jouissance effective d’un lieu non accessible au public ;\n2. en cas d’appel de secours venant de l’intérieur ;\n3. lorsque le péril imminent ne peut être écarté d’aucune autre manière, sur décision du bourgmestre.\n\nIl est dressé rapport au bourgmestre mentionnant le nom des policiers qui sont entrés dans les lieux visés, les motifs, les lieux, les dates du début et de la fin de l’intervention. Copie est remise à la personne qui a la jouissance effective du lieu.",
+      "text_sha256": "bc4d439a2f561a63c7fe9428876c0bde63b72174d1b351e5358129a75d156e1d",
+      "md_span": {
+        "start": 17119,
+        "end": 18089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_11/20180801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "En cas d’évènements calamiteux, de catastrophes ou de sinistres, la Police prend, en collaboration avec les autorités et services compétents, toutes les mesures nécessaires pour sauver et protéger les personnes et les biens en danger.\n\nÀ cette fin, le directeur général de la Police grand-ducale ou son délégué peut requérir le concours de personnes qui sont tenues d’obtempérer et de fournir, le cas échéant, les moyens nécessaires. Les modalités d’indemnisation, de recours ainsi que celles se rapportant aux mesures sociales sont régies par la loi modifiée du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.",
+      "text_sha256": "f922537f9f4bf4caec52f75e163459e7d00729f1967c61c7d8fd8dbd73140a97",
+      "md_span": {
+        "start": 18126,
+        "end": 18798
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1981/12/08/n2/jo",
+          "text": "loi modifiée du 8 décembre 1981"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_12/20180801",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Sans préjudice d’autres dispositions légales prévoyant la fermeture provisoire d’établissements commerciaux, le bourgmestre peut faire procéder à la fermeture temporaire d’un établissement commercial ou d’un établissement accessible au public soumis à la loi modifiée du 29 juin 1989 portant réforme du régime des cabarets si l’ordre public est gravement troublé par des agissements survenant dans ou en relation avec cet établissement et lorsque toute autre mesure destinée à faire cesser le trouble s’avère inefficace. La fermeture temporaire est exécutée par des officiers de police administrative, assistés le cas échéant par des agents de police administrative.\n\nLa fermeture temporaire dure jusqu’à la prochaine heure d’ouverture légale de l‘établissement concerné.\n\nLa fermeture temporaire fait l'objet d'un rapport au bourgmestre mentionnant le nom de l’officier de police administrative qui l’a exécutée, les motifs qui l’ont justifiée, la date et l’heure. Copie du rapport est transmise au propriétaire ou au gérant de l’établissement visé.",
+      "text_sha256": "55b593de18361e32d81914e4c6cec7da231985ccbc82bef78a1cc2db7529ceab",
+      "md_span": {
+        "start": 18835,
+        "end": 19885
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_13/20180801",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Lorsque des objets ou substances présentent un danger grave, concret et imminent pour l’ordre public dans les lieux accessibles au public, et lorsque toute autre mesure destinée à faire cesser le trouble s’avère inefficace, le bourgmestre peut faire procéder à leur saisie administrative. La saisie est exécutée par des officiers de police administrative, assistés le cas échéant par des agents de police administrative.\n\n**(2)** La saisie ne peut pas durer plus longtemps que le temps requis par les circonstances qui la justifient afin de faire cesser le trouble et ne peut en aucun cas dépasser douze heures. La Police informe le propriétaire ou détenteur de la fin de la saisie.\n\nÀ la fin de la saisie, les objets et substances sont tenus à disposition de leur propriétaire ou détenteur pendant un délai de trois mois.\n\n**(3)** Aux fins de saisie ou de garde, la Police peut requérir le concours de personnes qui sont tenues d’obtempérer et de fournir, le cas échéant, les moyens nécessaires. Les modalités d’indemnisation, de recours ainsi que celles se rapportant aux mesures sociales sont régies par la loi modifiée du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.\n\nLes frais engendrés suite à la saisie sont à charge du propriétaire et le recouvrement des frais se fera comme en matière domaniale.\n\n**(4)** La saisie fait l’objet d’un rapport au bourgmestre mentionnant le nom de l’officier de police administrative qui l’a exécutée, les motifs qui l’ont justifiée, le lieu, la date et l’inventaire des objets soustraits. Copie du rapport est transmise au propriétaire ou détenteur.\n\n**(5)** Les objets et substances saisis et non réclamés endéans le délai visé au paragraphe 2 sont considérés comme délaissés et la propriété en est transmise à l’État.",
+      "text_sha256": "6960561c0b77968e51c2225ff92e18447ba762686490b0ce579cbb63254ae858",
+      "md_span": {
+        "start": 19922,
+        "end": 21754
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1981/12/08/n2/jo",
+          "text": "loi modifiée du 8 décembre 1981"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_14/20180801",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** La Police peut procéder à la mise en détention administrative d’une personne majeure qui compromet l’ordre public ou qui constitue un danger pour elle-même ou pour autrui et en avise immédiatement le ministre ou son délégué.\n\nLa mise en détention administrative est réalisée sur ordre d’un officier de police administrative.\n\nElle ne peut pas durer plus longtemps que le temps requis par les circonstances qui la justifient afin de faire cesser le trouble et ne peut en aucun cas dépasser douze heures.\n\n**(2)** Toute personne mise en détention administrative doit être informée sans délai de la privation de liberté, des motifs qui la sous-tendent et de la durée maximale de cette privation de liberté.\n\nDès sa détention, la personne concernée est informée par écrit et contre récépissé, dans une langue qu’elle comprend, sauf les cas d'impossibilité matérielle dûment constatés, de son droit de se faire examiner par un médecin et de prévenir une personne de son choix. Un téléphone est mis à sa disposition à cet effet. Le ministre ou son délégué peut, à tout moment, mettre fin à la rétention.\n\n**(3)** La détention administrative fait l’objet d’un rapport mentionnant le nom de l’officier de police administrative qui l’a exécutée, les motifs qui l’ont justifiée, le lieu, les dates et heures du début et de la fin, la déclaration de la personne retenue qu'elle a été informée de son droit de se faire examiner par un médecin et d'avertir la personne de son choix ainsi que de faire acter toutes autres déclarations qu'elle désire. Le rapport est présenté à la signature de la personne retenue. Si celle-ci refuse de signer, mention est faite du refus et des motifs de celui-ci. Le rapport est transmis au ministre et au bourgmestre et copie en est remise à la personne concernée.",
+      "text_sha256": "f1e7fc1319539611daaaf6982ddc0564f26c5684250a16e12f9b8931a7755723",
+      "md_span": {
+        "start": 21791,
+        "end": 23584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_15/20180801",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police, sur réquisition, assiste les autorités qui ont qualité pour demander, conformément à la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux, l’admission dans un service de psychiatrie d’une personne qui compromet l’ordre public, ou pour l’y faire réadmettre.\n\nDans l’exécution de cette mission, les officiers et agents de police administrative ont un droit d’accès de jour comme de nuit à tout lieu en vue de se saisir d’une personne tombant sous l’application de l’alinéa 1er. Toutefois, si la personne concernée se trouve dans un immeuble servant à l’habitation, ce droit d’accès ne peut être exercé que sur autorisation du procureur d’État compétent et à condition qu’il existe des raisons sérieuses de croire à un péril imminent pour la santé de la personne concernée ou pour la sécurité d’autrui.",
+      "text_sha256": "659b06274de0d6ad5e36f81870e5031fee539f99e4c8d726f6bfba968de88a54",
+      "md_span": {
+        "start": 23621,
+        "end": 24500
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/12/10/n1/jo",
+          "text": "loi du 10 décembre 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_16/20180801",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 1re** — **Missions de police administrative**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Copie de tout rapport établi par la Police dans le cadre de l’exécution des missions de police administrative énoncées dans les dispositions ci-dessus est transmise à l’Inspection générale de la Police.\n\n**(2)** Les décisions ministérielles visées aux articles 5, paragraphe 1er et 6, paragraphe 1er, alinéa 2, sont portées à la connaissance des bourgmestres territorialement compétents.",
+      "text_sha256": "bf741a2fe5e032beef09de9520608c70879df565cdabfb68c9a67ac3aeee272e",
+      "md_span": {
+        "start": 24537,
+        "end": 24932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_17/20180801",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 2 ** — **Missions de police judiciaire**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les missions de police judiciaire sont exercées par les officiers de police judiciaire et les agents de police judiciaire.\n\nOnt la qualité d’officier de police judiciaire :\n\n1. Les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive.\n2. Les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54.\n3. loi modifiée du 25 mars 2015 loi modifiée du 25 mars 2015\n\nAvant d’acquérir la qualité d’officier de police judiciaire, les membres du cadre civil énumérés à l’alinéa précédent prêtent, entre les mains du directeur général ou de son délégué, le serment suivant :\n\n« Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité ».\n\nOnt la qualité d’agent de police judiciaire, les membres du cadre policier et les membres du cadre civil du Service de police judiciaire remplissant des missions de police judiciaire qui n’ont pas la qualité d’officier de police judiciaire.\n\nL’octroi de la qualité d’agent de police judiciaire pour les membres du cadre civil visés à l’alinéa 4 est soumise à l’accomplissement de la formation prévue à l’alinéa 2, et la prestation de serment visé ci-dessus entre les mains du directeur général de la Police grand-ducale ou de son délégué.",
+      "text_sha256": "535df580cb8ee951faf6697b766d012843102f9d1c94acb118d6efeb58f8e73c",
+      "md_span": {
+        "start": 25025,
+        "end": 26402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_18/20180801",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 2 ** — **Missions de police judiciaire**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Dans l’exercice de ses missions de police judiciaire, la Police a pour tâches :\n\n1. de rechercher les crimes, les délits et les contraventions, de les constater, d’en rassembler les preuves, d’en donner connaissance aux autorités judiciaires, de rechercher, saisir, arrêter et mettre à la disposition de l’autorité judiciaire les auteurs, dans les formes déterminées par la loi ;\n2. d’exécuter les actes d’enquête et d’instruction ordonnés par les autorités judiciaires ;\n3. de rechercher les personnes dont l’arrestation est prévue par la loi, de les appréhender et de les mettre à la disposition des autorités judiciaires ;\n4. de rechercher, de saisir et de mettre à la disposition de l’autorité judiciaire les objets dont la saisie est prescrite ;\n5. de transmettre aux autorités judiciaires le compte rendu de leurs missions ainsi que les informations recueillies à cette occasion.\n\nLes membres de la Police recueillent tous les renseignements que le procureur général d’État ou les procureurs d’État estiment utiles à une bonne administration de la Justice.",
+      "text_sha256": "3fdb94421dd4f9d02c71ad562207c6f974b9c12fb63868088e413088cb7a8093",
+      "md_span": {
+        "start": 26439,
+        "end": 27501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_19/20180801",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 2 ** — **Missions de police judiciaire**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police est chargée de la recherche, du prélèvement, de la conservation et de l’exploitation des traces et empreintes, y compris les empreintes digitales et génétiques conformément aux lois applicables.\n\nElle tient et met à jour les fichiers dactyloscopiques et les fichiers en matière de traitements génétiques et la documentation relative aux condamnés.",
+      "text_sha256": "11fcbeee8ad7592b1d07cc280738088a5ca638d161b7da877783781b0bb78985",
+      "md_span": {
+        "start": 27538,
+        "end": 27895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_20/20180801",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** La Police assiste l’Armée en tout ce qui concerne la sûreté de l’Armée, la discipline et la police des militaires.\n\nDans le cadre de la police militaire, les officiers de police judiciaire exercent leurs missions de police judiciaire telles que définies par le Code pénal militaire et le Code de procédure militaire.\n\n**(2)** Elle participe à la défense intérieure du territoire en ce qui concerne les missions de sûreté, de recherche d’informations et d’alerte et, pour toute autre mission, après concertation entre le ministre, le ministre ayant l’Armée dans ses attributions, le ministre ayant la Justice dans ses attributions et le ministre de l’Intérieur.\n\nLe personnel de la Police employé à cette mission ne peut être placé en soutien des unités de l’Armée pour des missions de combat.",
+      "text_sha256": "ef63fa6cdc671418b2591748a566e095ff6a74b5afb416820cb8ac1076598690",
+      "md_span": {
+        "start": 27973,
+        "end": 28773
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1982/12/31/n1/jo",
+          "text": "Code pénal militaire"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1982/12/31/n2/jo",
+          "text": "Code de procédure militaire"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_21/20180801",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police se saisit de ceux qui lui sont signalés comme étant évadés d’un service de psychiatrie, d’un hôpital ou d’un établissement psychiatrique spécialisé où ils avaient été admis ou placés conformément à la loi et les tient à la disposition des autorités compétentes. Elle en avise immédiatement le procureur d’État compétent.",
+      "text_sha256": "37955756ec09358596a6a48a3315e83540a2813887bfa440e015a43bd1737fb5",
+      "md_span": {
+        "start": 28810,
+        "end": 29140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_22/20180801",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police prête main-forte dans l’exercice de la police des cours et tribunaux.",
+      "text_sha256": "9e13fcbdea813f8b0a1de9fa2f3adcec7702fb20edf650bac5e7a2dfe62db4a1",
+      "md_span": {
+        "start": 29177,
+        "end": 29256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_23/20180801",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police prend à l’égard des animaux dangereux ou agonisants toutes les mesures nécessaires pour mettre fin à leur divagation ou agonie.",
+      "text_sha256": "3df516ac7e7df48ec5f6561f233f6f00b0255c56affc871e1d29c33394a10d02",
+      "md_span": {
+        "start": 29293,
+        "end": 29430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_24/20180801",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Lors de cérémonies publiques, la Police peut assurer des missions protocolaires en accord avec les autorités compétentes.",
+      "text_sha256": "e6d69d6f467edcbf83f24dc43eca8bedb393294e6e22565d536f9243105f8cbf",
+      "md_span": {
+        "start": 29467,
+        "end": 29588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_25/20180801",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police reçoit les appels transmis par un réseau national d’alarme et prend les mesures de police nécessaires.\n\nLa Police ne reçoit directement que les appels provenant d’un raccordement de personnes morales de droit public ou d’autres institutions d’intérêt public. Les appels de la part de personnes privées ne sont reçus que si la personne est considérée comme menacée ou bien si elle déclenche directement l’alarme actif.\n\nUn règlement grand-ducal définit les modalités d’exécution du présent article.",
+      "text_sha256": "ad82eac7a5de6c52faa22b01472de5ae820d9c75cd369201e5d3b35665c91ad8",
+      "md_span": {
+        "start": 29625,
+        "end": 30132
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_26/20180801",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Missions**",
+        "**Section 3** — **Autres missions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police peut, sur demande d’institutions, d’organes et d’organismes de l’Union européenne qui ont leur siège ou sont installés au Luxembourg, procéder à des vérifications de sécurité des personnes employées par un prestataire de service qui se trouve en relation contractuelle avec l’institution, l’organe ou l’organisme de l’Union européenne. Ces vérifications ne concernent que les personnes intervenant sur des sites au Luxembourg.\n\nLes vérifications de sécurité ont pour objectif de déterminer si ces personnes sont susceptibles de présenter un risque pour la sécurité de l’institution, de l’organe ou de l’organisme de l’Union européenne.\n\nLes modalités de ces vérifications et les pièces à produire par l’institution, l’organe ou l’organisme de l’Union européenne sont fixées par règlement grand-ducal.",
+      "text_sha256": "9a5a85c7188de9dc31dd64c9c225be382e35fb0e9ee410371ad9ccbd0c02096b",
+      "md_span": {
+        "start": 30169,
+        "end": 30979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_27/20180801",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 1re** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police doit obtempérer aux réquisitions prises dans les cas et par les autorités prévues par la loi.",
+      "text_sha256": "b280ba3a02246256c883d6adbf58fb42ce2f8dfcf44b55b6f8e6c5db0d6f366e",
+      "md_span": {
+        "start": 31108,
+        "end": 31211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_28/20180801",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 1re** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Outre la base légale en vertu de laquelle la réquisition est faite, elle doit indiquer le nom et la qualité de l’autorité requérante, être écrite, datée et signée.\n\nDans la réquisition, l’autorité requérante peut indiquer le jour et l’heure de la fin des missions faisant l’objet de celle-ci. En l’absence d’une telle indication, l’autorité requise est tenue d’informer l’autorité requérante de la fin de l’évènement faisant l’objet de la réquisition aux fins de levée par l’autorité requérante.",
+      "text_sha256": "6ce748e1cd2ff8bc6c4ecb486b5f9ec8d607c885ccf6609f91573515e8d6252e",
+      "md_span": {
+        "start": 31248,
+        "end": 31743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_29/20180801",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 1re** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Pour l’exécution des réquisitions adressées à la Police, les autorités compétentes, sans s’immiscer dans l’organisation du service, précisent l’objet de la réquisition et peuvent faire des recommandations sur les moyens à mettre en œuvre et les ressources à utiliser.\n\nL’autorité requérante transmet à la Police toutes les informations utiles à l’exécution de la réquisition.\n\nLa Police prépare les mesures d’exécution en fonction des informations reçues de l’autorité requérante. En cas d’impossibilité de ce faire, elle en informe l’autorité requérante dans les meilleurs délais, et sans qu’il en résulte une dispense d’exécuter la réquisition.",
+      "text_sha256": "3c957d0a5fd23b1477c34640dc69473b1dde6d56afb39f918b8426d8b74b1a1b",
+      "md_span": {
+        "start": 31780,
+        "end": 32426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_30/20180801",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 2** — **Maintien de l’ordre public sur réquisition**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Lorsque l’ordre public est menacé, la Police se concerte avec l’autorité compétente en vue des dispositions à prendre et de la préparation des mesures d’exécution.\n\n**(2)** L’autorité compétente ne peut faire intervenir la Police au maintien et au rétablissement de l’ordre public qu’en vertu d’une réquisition dans les conditions prévues par la loi. L’autorité compétente adresse la réquisition au directeur de la région de Police territorialement compétent.\n\nAu cours de l’exécution d’une réquisition, le responsable de la Police se maintient en liaison avec l’autorité requérante et l’informe, à moins d’impossibilité, des moyens d’action qu’il se propose de mettre en œuvre.",
+      "text_sha256": "5e044a8a5361c0c3ca3e2f2c80ad638677aeef95df727746fede4a7aec89569d",
+      "md_span": {
+        "start": 32531,
+        "end": 33217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_31/20180801",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 2** — **Maintien de l’ordre public sur réquisition**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Sans préjudice des dispositions de l’article 34, l’autorité requérante peut interdire l’usage de la force ou l’usage des armes à feu et d’explosifs en l’indiquant spécialement dans la réquisition.\n\nEn cas de nécessité l’autorité requérante peut lever cette interdiction moyennant une réquisition complémentaire.",
+      "text_sha256": "52b8c930dcae65a73963e078c0b180a74d1df31e5083a893a763c8c9f096a70d",
+      "md_span": {
+        "start": 33254,
+        "end": 33565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_32/20180801",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 2** — **Maintien de l’ordre public sur réquisition**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’usage de la force et l’usage d’armes à feu et d’explosifs doivent être précédés de deux sommations à haute voix et qui contiennent une demande formelle d’obéissance à la loi et l’indication qu’un usage de la force respectivement un usage des armes à feu et d’explosifs sera fait.\n\nLes dispositions du premier alinéa ne s’appliquent pas à la situation visée à l’article 416 du Code pénal, ni à celle visée à l’article 34.",
+      "text_sha256": "fcf844baf0a00bc43098e2dec8de6e8648652bd72014433623091de6153a4cea",
+      "md_span": {
+        "start": 33602,
+        "end": 34024
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_33/20180801",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 2** — **Maintien de l’ordre public sur réquisition**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Après sommation, les manifestants sont tenus de se séparer et de rentrer dans l’ordre sous peine d’y être contraints par la force, sans préjudice des poursuites à exercer devant les tribunaux à l’égard de ceux qui se seraient rendus coupables d’une infraction.",
+      "text_sha256": "e2286901d0c8e9be551c9ea0c7621febd707981e03ca29b6daf04ce30d8571ea",
+      "md_span": {
+        "start": 34061,
+        "end": 34321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_34/20180801",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Des réquisitions**",
+        "**Section 2** — **Maintien de l’ordre public sur réquisition**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "En cas de nécessité absolue et sans préjudice des dispositions de l’article 416 du Code pénal, ou, en cas d’agression des unités de maintien de l’ordre de la part des manifestants, la force peut être repoussée par la force sans autorisation expresse et sans sommation préalable. Il en est de même si ces unités ne peuvent défendre autrement le terrain qu’ils occupent ou les postes dont la garde leur est confiée.",
+      "text_sha256": "6e11175ccc2563554254fba214f268b5432c2c6301f7b93ee5879455934d50fb",
+      "md_span": {
+        "start": 34358,
+        "end": 34771
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_35/20180801",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 1re** — **Relations avec les autorités communales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les directeurs des régions de Police et les chefs des commissariats de police entretiennent des relations régulières avec les bourgmestres.",
+      "text_sha256": "32eb01170adc160446e865f655732cb7b5ade5108119dc74522e2e540f5cf292",
+      "md_span": {
+        "start": 34947,
+        "end": 35086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_36/20180801",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 1re** — **Relations avec les autorités communales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "En cas d’évènements susceptibles de troubler l’ordre public, l’autorité communale et la Police échangent les informations utiles.",
+      "text_sha256": "c424c85d61b8f4d1af30b08aed85ae4b6b8c46755555fb9e2dcf438c327c8453",
+      "md_span": {
+        "start": 35123,
+        "end": 35252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_37/20180801",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 1re** — **Relations avec les autorités communales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Il est créé dans chaque région de police un comité de concertation régional qui comprend :\n\n1. un fonctionnaire désigné par le ministre ou un délégué, qui préside le comité ;\n2. loi communale\n3. le procureur général d’État ou un délégué ;\n4. le procureur d’État du tribunal d’arrondissement territorialement compétent ou un délégué ;\n5. le directeur général de la Police ou un délégué ;\n6. le directeur de la région de police territorialement compétent ou un délégué.\n\nToute personne dont la contribution aux travaux est jugée utile par le comité peut être invitée à participer.\n\n**(2)** Le comité de concertation a les attributions suivantes :\n\n1. procéder à l’étude et à l’analyse dans la région de police des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;\n2. élaborer des propositions de politique générale dans les domaines de la prévention de la délinquance et de la préservation de l’ordre public ;\n3. définir au niveau régional des objectifs et des actions coordonnées auxquels l’État, d’une part, et les communes, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;\n4. assurer le suivi de l’évolution de l’application des propositions retenues en commun au niveau régional.",
+      "text_sha256": "d21af0cf33167dd0f9987843be1c624c4a4d9e17b15dff85fb7e20d106a81e2a",
+      "md_span": {
+        "start": 35289,
+        "end": 36672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_38/20230613",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 1re** — **Relations avec les autorités communales**"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "**(1)** Il est créé pour le territoire de compétence de chaque commissariat de police un comité de prévention communal. Lorsque plusieurs commissariats sont implantés sur le territoire d’une commune, il ne sera mis en place qu’un seul comité de prévention communal.\n\nLe comité de prévention comprend :\n\n1. loi communale\n2. les échevins ou conseillers communaux éventuellement désignés par les bourgmestres ;\n3. le directeur de la région de police dans le ressort duquel se trouve la commune, ou son délégué ;\n4. les chefs des commissariats de police territorialement compétents ou leur délégué ;\n5. un agent municipal par commune relevant du territoire de compétence du commissariat de police, désigné par le bourgmestre.\n\nLe fonctionnaire désigné par le ministre et le procureur d’État territorialement compétent ont entrée dans le comité et seront entendus quand ils le demandent. Ils peuvent se faire représenter par un délégué.\n\nDes représentants de l’autorité judiciaire et des départements, administrations ou services de l’État peuvent être invités à participer aux séances des comités de prévention en fonction des sujets inscrits à l’ordre du jour de celles-ci. Il en est de même pour toute personne dont la contribution aux travaux est jugée utile par le comité.\n\n**(2)** Le comité de prévention est placé sous la présidence du bourgmestre. Si le comité de prévention réunit plusieurs communes, le président est à désigner de façon collégiale par les bourgmestres des communes faisant partie de ce comité.\n\nCeux-ci fixent également la durée du mandat du président. En cas de maladie, d’absence ou d’autre empêchement du président, celui-ci est remplacé par le président suppléant désigné dans les mêmes formes que le président. La durée de son mandat est identique à celle du mandat du président.\n\n**(3)** Le comité de prévention a les attributions suivantes :\n\n1. procéder à l’étude et à l’analyse dans les communes des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;\n2. définir au niveau communal des objectifs et des actions coordonnées auxquels l’État, d’une part, et la commune, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;\n3. élaborer des propositions concernant des mesures à prendre adaptées aux réalités locales ;\n4. assurer le suivi de l’évolution de l’application des propositions retenues en commun.",
+      "text_sha256": "d14a99fecd1b6499ea6f67e629eba20713e6c5a2f5a2093d076ea44a713dd346",
+      "md_span": {
+        "start": 36709,
+        "end": 39230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_39/20180801",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 1re** — **Relations avec les autorités communales**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les modalités de fonctionnement des comités de concertation et des comités de prévention sont fixées par règlement grand-ducal.",
+      "text_sha256": "002d8539f9a23298b7301f9dc95949e244251df6f20a05faeb27ed146cd3a205",
+      "md_span": {
+        "start": 39267,
+        "end": 39394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_40/20180801",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 2** — **Relations avec les autorités judiciaires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Il est créé un comité d’accompagnement des missions de police judiciaire constitué du procureur général d’État, qui le préside, des procureurs d’État, du juge d’instruction directeur près le tribunal d’arrondissement de Luxembourg, du directeur général de la Police grand-ducale, du directeur central de police judiciaire, du directeur du service de police judiciaire et du directeur central de police administrative. Chaque membre du comité peut se faire remplacer par un autre membre de son corps.\n\n**(2)** Le comité d’accompagnement a les attributions suivantes :\n\n1. fixer l’orientation générale du travail des services de police judiciaire ;\n2. établir le concept de police judiciaire y compris les missions des départements et sections du Service de police judiciaire ;\n3. évaluer et surveiller le travail proactif du Service de police judiciaire ;\n4. définir les priorités stratégiques en relation avec les missions de police judiciaire ;\n5. contrôler la qualité des écrits judiciaires ;\n6. aviser les candidatures pour les postes de chefs de département et de chefs de section du Service de police judiciaire ;\n7. émettre les recommandations tendant à l’amélioration du travail de police judiciaire ;\n8. approuver annuellement un rapport d’activité aux ministres ayant la Justice et la Police dans leurs attributions.",
+      "text_sha256": "130f8bc83ef310868fc8be2f3c37482364c0df1be82eaea7a2a3794ab006cc5f",
+      "md_span": {
+        "start": 39497,
+        "end": 40830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_41/20180801",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 3** — **Relations avec les autorités militaires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police informe les autorités militaires de tout ce qui peut porter atteinte à la sûreté de l’Armée.",
+      "text_sha256": "f37f80385deae607570668463f947ffb6ffd2089b9facef48b16584f2ae40528",
+      "md_span": {
+        "start": 40932,
+        "end": 41034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_42/20180801",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Relations de la Police avec d’autres autorités**",
+        "**Section 3** — **Relations avec les autorités militaires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’Armée intervient sur réquisition en due forme des autorités compétentes et dans les cas prévus par la loi pour prêter main forte à la Police dans ses missions.\n\nLe commandant de tout détachement de l’Armée appelé à intervenir avec la Police pour donner force à la loi, est tenu de se conformer à cette réquisition.\n\nDans le cas de réquisition de l’Armée sous les formes prévues par la loi, l’usage des armes par les militaires est régi par les articles 32 à 34 ci-dessus.",
+      "text_sha256": "238642540edb9e03655b99e567f6b28bbfe7524f8e067da6d0d8aa86b3c13959",
+      "md_span": {
+        "start": 41071,
+        "end": 41544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_43/20230905",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Traitement de données à caractère personnel**"
+      ],
+      "article_valid_from": "2023-09-05",
+      "text_md": "**(1)** Dans l’exercice de leurs missions de police judiciaire et de police administrative ou à d’autres fins prévues par des lois spéciales, les membres de la Police ayant la qualité d’officier ou d’agent de police judiciaire ou d’officier ou d’agent de police administrative ont un accès direct, par un système informatique, aux traitements de données à caractère personnel suivants :\n\n1. loi modifiée du 19 juin 2013 loi modifiée du 30 mars 1979\n2. Code de la sécurité sociale\n3. le fichier des étrangers exploité pour le compte du Service des étrangers du ministre ayant l’Immigration dans ses attributions ;\n4. le fichier des demandeurs d’asile exploité pour le compte du Service des réfugiés du ministre ayant l’Immigration dans ses attributions ;\n5. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions ;\n6. le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions ;\n7. le fichier des titulaires et demandeurs de permis de conduire exploité pour le compte du ministre ayant les Transports dans ses attributions ;\n8. le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministre ayant les Transports dans ses attributions ;\n9. le fichier des assujettis à la taxe sur la valeur ajoutée, exploité pour le compte de l’Administration de l’enregistrement, des domaines et de la TVA ;\n10. le fichier des armes prohibées du ministre ayant la Justice dans ses attributions ;\n11. le fichier des sociétés du Registre de commerce et des sociétés ;\n12. le registre public des bâtiments de plaisance battant pavillon luxembourgeois ;\n13. le registre foncier ;\n14. le registre des cartes d’identité.\n\n**(2)** Les membres du cadre civil de la Police, nommément désignés par le ministre sur proposition du directeur général de la Police grand-ducale, après avis du délégué à la protection des données de la Police, peuvent avoir accès aux fichiers prévus au paragraphe 1er en fonction de leurs attributions spécifiques de support des missions d’un officier ou agent de police judiciaire ou d’un officier ou agent de police administrative ou à d’autres fins prévues par des lois spéciales.\n\n**(3)** Les données à caractère personnel des fichiers accessibles en vertu du paragraphe 1er sont déterminées par règlement grand-ducal.\n\n**(4)** Le système informatique par lequel l’accès direct est opéré est aménagé de sorte que :\n\n1. er\n2. les informations relatives aux membres de la Police ayant procédé à la consultation, ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai d’au moins cinq ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.\n\n**(5)** Seules les données à caractère personnel strictement nécessaires, dans le respect du principe de proportionnalité, peuvent être consultées.",
+      "text_sha256": "825e6a30bd521701d35d4b155d128ea801d041fca663845424ece858bc285527",
+      "md_span": {
+        "start": 41650,
+        "end": 44771
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43bis",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_43bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_43bis/20210719",
+      "type": "article",
+      "num": "Art. 43bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Traitement de données à caractère personnel**"
+      ],
+      "article_valid_from": "2021-07-19",
+      "text_md": "**(1)** La Police peut, avec l’autorisation du ministre et si les autres moyens mis en œuvre pour empêcher la commission d’infractions pénales se sont avérés inefficaces, placer sous vidéosurveillance aux fins de la prévention, de la recherche et de la constatation d’infractions pénales les lieux accessibles au public qui présentent un risque particulier de commission d’infractions pénales.\n\n**(2)** Sont considérés comme présentant un risque particulier de commission d’infractions pénales :\n\n1. les lieux où sont commis, de manière répétée, des infractions pénales revêtant un certain degré de gravité ;\n2. les lieux qui par leur configuration sont de nature à favoriser la commission d’infractions pénales revêtant un certain degré de gravité ;\n3. les alentours et abords des infrastructures où sont organisés régulièrement des évènements d’envergure nationale ou internationale ;\n4. les abords, les entrées et l’intérieur de l’enceinte du stade national de football et de rugby ;\n5. les lieux qui par leur nature rassemblent un grand nombre de personnes.\n\n**(3)** L’autorisation ministérielle est délivrée, pour chaque lieu placé sous vidéosurveillance, sur base d’une analyse d’impact réalisée par le directeur général de la Police et après avis, chacun en ce qui le concerne :\n\n1. du procureur d’État territorialement compétent ;\n2. du conseil communal, et\n3. de la commission consultative prévue à l’alinéa 2.\n\nIl est créé une commission consultative ayant pour mission de donner son avis sur la mise en place d’un système de vidéosurveillance pour chaque nouveau lieu à placer sous vidéosurveillance, ainsi que d’évaluer le système de vidéosurveillance pour chaque demande de renouvellement. La composition et les modalités de fonctionnement de la commission consultative sont fixées par règlement grand-ducal.\n\nL’autorisation ministérielle est délivrée pour une durée maximale de trois ans, renouvelable selon la même procédure. Elle est publiée au Journal officiel du Grand-Duché de Luxembourg.\n\n**(4)** En dehors de l’analyse d’impact, le directeur général de la Police communique au ministre les informations suivantes :\n\n1. la justification de la nécessité de la vidéosurveillance au regard des critères définis au paragraphe 2 et des finalités poursuivies ;\n2. la délimitation des lieux à surveiller ;\n3. le nombre, le type, l’emplacement et le champ de vision des caméras ;\n4. une évaluation du nombre de personnes concernées par la vidéosurveillance ;\n5. le caractère permanent ou non de la vidéosurveillance.\n\n**(5)** Le système de vidéosurveillance prend en images les personnes circulant dans le champ de vision des caméras et enregistre ces images, ainsi que le jour et l’heure auxquels les images ont été prises sur un outil informatique.\n\nLa prise d’image peut inclure le recours à des techniques de focalisation et à des détections automatiques de situations. Le recours à des techniques de reconnaissance faciale est exclu.\n\n**(6)** Le système de vidéosurveillance est réalisé de telle sorte qu’il ne visualise pas l’intérieur des lieux non accessibles au public ni, de façon spécifique, leurs entrées.\n\nSi la configuration des lieux est telle que le système de vidéosurveillance visualise, de façon non spécifique, l’intérieur des lieux non accessibles au public ou leurs entrées, le responsable du traitement doit recourir à des procédés de masquage irréversible.\n\n**(7)** Le public est informé de manière claire et permanente de l’existence du système de vidéosurveillance.\n\n**(8)** Le traitement des données à caractère personnel dans le cadre du présent article est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.\n\nUn règlement grand-ducal détermine les mesures techniques et organisationnelles à mettre en œuvre par le responsable du traitement pour assurer la sécurité du traitement et règle les modalités d’exercice du droit d’accès prévu par la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.\n\n**(9)** Les données visées au paragraphe 5, alinéa 1er, sont effacées de manière définitive au plus tard deux mois après leur enregistrement. Ce délai ne s’applique pas si les données sont utilisées dans le cadre d’une enquête préliminaire*,* d’une instruction judiciaire ou des cas de figure visés au paragraphe 11.\n\n**(10)** Le directeur général de la Police désigne les membres de la Police qui sont habilités à visionner en temps réel les images des caméras de vidéosurveillance.\n\nLe visionnage des images enregistrées par les membres de la Police n’est autorisé que lorsqu’il est nécessaire pour l’exercice d’une mission précise.\n\n**(11)** Les données à caractère personnel relatives à des interventions policières d’envergure et présentant un intérêt dans le cadre de l’analyse du déroulement de l’intervention et de la formation interne peuvent, avec l’autorisation du directeur général de la Police, être utilisées par la Police à des fins d’analyses de déroulement de l’intervention, y compris l’examen d’incidents ayant comme objectif l’amélioration des plans et procédures d’intervention, ainsi qu’à des fins de formation interne pendant une durée maximale de dix ans. L’autorisation est délivrée, après avis du délégué à la protection des données de la Police, suite à une demande motivée du directeur central de la police administrative ou du directeur central des ressources et compétences.\n\nSi les images utilisées pour l’analyse du déroulement de l’intervention et la formation interne permettent d’identifier directement une personne concernée, des techniques de masquage irréversibles sont utilisées à des fins d’anonymisation.",
+      "text_sha256": "d8fa8f3f345219c7576a5eb0087a2b2712643381937fde1a6c784ed3f8bcab30",
+      "md_span": {
+        "start": 44814,
+        "end": 50716
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/08/01/a689/jo",
+          "text": "loi du 1er août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43ter",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_43ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43ter.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Traitement de données à caractère personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Dans l’exercice de ses missions de police judiciaire et de police administrative, la Police peut procéder, au moyen de caméras-piétons fournies à titre d’équipement, à un enregistrement audiovisuel de ses interventions.\n\nDans les lieux accessibles au public, la Police peut procéder à un enregistrement audiovisuel, lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l’intervention ou au comportement des personnes concernées.\n\nDans les lieux non accessibles au public, la Police peut procéder à un enregistrement audiovisuel dans le cadre de l’article 10, de crimes et délits flagrants ou en présence d’indices laissant présumer qu’un crime ou délit s’est produit ou est susceptible de se produire.\n\nL’enregistrement n’est pas permanent. Il prend fin s’il n’est plus requis pour une des conditions visées aux alinéas 2 et 3.\n\n**(2)** Les enregistrements ont pour finalités :\n\n1. la prévention des incidents au cours des interventions ;\n2. la constatation des infractions et la poursuite de leurs auteurs par la collecte de preuves.\n\n**(3)** Les catégories de données à caractère personnel et informations enregistrées sont :\n\n1. er\n2. le jour et les plages horaires d’enregistrement ;\n3. l’identification du porteur de la caméra lors de l’enregistrement des données ;\n4. le lieu où ont été collectées les données.\n\n**(4)** Les caméras sont portées de façon apparente par la Police.\n\nSauf si des raisons purement matérielles et indépendantes des motifs de l’intervention l’interdisent, le déclenchement de l’enregistrement audiovisuel fait l’objet d’une information des personnes qui en font l’objet.\n\nLe déclenchement de l’enregistrement fait l’objet d’un signal sonore.\n\nUn signal visuel spécifique indique si la caméra se trouve en mode d’enregistrement.\n\nLa caméra collecte temporairement des données sur sa mémoire intermédiaire.\n\nTout déclenchement implique l’enregistrement des trente secondes précédentes.\n\n**(5)** Les enregistrements sont transférés sur un support informatique sécurisé garantissant l’intégrité des enregistrements, ainsi que la traçabilité des consultations et des motifs de consultation.\n\nLa consultation des enregistrements audiovisuels par le porteur de la caméra n’est autorisée que lorsqu’elle est nécessaire pour l’exercice des missions visées au paragraphe 1er.\n\nDans le cadre de ses missions de police administrative et de police judiciaire, un membre de la Police qui présente un intérêt légitime pour la consultation des enregistrements audiovisuels peut demander l’accès à ces enregistrements. À cet effet, il présente une demande écrite motivée au directeur général de la Police.\n\nLes données de journalisation collectées conformément à l’article 24 de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale sont conservées pendant un délai d’au moins cinq ans.\n\n**(6)** Le traitement des données à caractère personnel dans le cadre du présent article est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.\n\n**(7)** Les données visées au paragraphe 3 sont effacées automatiquement et de manière définitive du système informatique au terme d’un délai de vingt-huit jours après leur enregistrement sur la caméra. Ce délai ne s’applique pas, si les données sont utilisées dans le cadre d’une enquête préliminaire, d’une instruction judiciaire ou dans les cas de figure visés au paragraphe 8.\n\n**(8)** Les données à caractère personnel relatives à des interventions policières d’envergure ou présentant un intérêt dans le cadre de l’analyse du déroulement de l’intervention et de la formation interne peuvent, avec l’autorisation du directeur général de la Police, être utilisées par la Police à des fins d’analyses de déroulement de l’intervention, y compris l’examen d’incidents ayant comme objectif l’amélioration des plans et procédures d’intervention, ainsi qu’à des fins de formation interne. L’autorisation du directeur général de la Police est délivrée après avis du délégué à la protection des données de la Police suite à une demande motivée d’un membre de la Police qui présente un intérêt légitime.\n\nSi les enregistrements audiovisuels utilisés pour l’analyse du déroulement de l’intervention et la formation interne permettent d’identifier directement ou indirectement une personne concernée, des techniques de masquage irréversibles sont utilisées à des fins d’anonymisation.",
+      "text_sha256": "68f21fa63a66b2d58b6b8a6e89a2c9a71b10f0555d2af372e89d13941f1b717a",
+      "md_span": {
+        "start": 50759,
+        "end": 55455
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/08/01/a689/jo",
+          "text": "loi du 1er août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43sexies",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_43sexies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43sexies.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Traitement de données à caractère personnel**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La Police grand-ducale a la qualité de responsable du traitement des traitements des données à caractère personnel effectués par la Police.",
+      "text_sha256": "66adbf084f476af70ebca2865dd3277b7ed5fef675b12d05e4d44443755cb8d1",
+      "md_span": {
+        "start": 55504,
+        "end": 55643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_44/20180801",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police est dirigée par un directeur général qui est assisté d’un directeur général adjoint. En cas d’empêchement le directeur général est remplacé par le directeur général adjoint, ou à défaut par le directeur central issu du cadre policier ayant la plus grande ancienneté de fonction.\n\nLe directeur général et le directeur général adjoint de la Police grand-ducale sont nommés par le Grand-Duc sur proposition du ministre parmi le personnel du cadre policier ayant au moins quinze années d’expérience professionnelle au sein du groupe de traitement A1 de la Police.",
+      "text_sha256": "d78302ea18afd391b1d14f54b50f40d9442c25b74537d157d480bb308e54d7ab",
+      "md_span": {
+        "start": 55733,
+        "end": 56302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_45/20180801",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Le directeur général, le directeur général adjoint et les directeurs centraux forment un comité de direction.\n\nLe comité de direction, assisté par un secrétariat général, est présidé par le directeur général. Le secrétariat général est dirigé par un secrétaire général.\n\n**(2)** Sont rattachés au comité de direction :\n\n1. une direction « communication » ;\n2. une direction « relations internationales » ;\n3. un service juridique ;\n4. un service psychologique ;\n5. un service d’audit financier.\n\n**(3)** Le secrétariat général visé au paragraphe 1er alinéa 2 et les directions et services visés au paragraphe 2 sont dirigés par un membre du cadre policier ou du cadre civil de la Police du groupe de traitement A1.",
+      "text_sha256": "f656f7f2bdf71f6da4f1ca991923fc3bf5b9611e674515155f37067553677a40",
+      "md_span": {
+        "start": 56339,
+        "end": 57061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_46/20180801",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La Police comprend en outre quatre directions centrales :\n\n1. la direction centrale police administrative, ci-après désignée « DCPA » ;\n2. la direction centrale police judiciaire, ci-après désignée « DCPJ » ;\n3. la direction centrale ressources et compétences, ci-après désignée « DCRC » ;\n4. la direction centrale stratégie et performance, ci-après désignée « DCSP ».\n\nChaque direction centrale est dirigée par un directeur central ayant au moins dix années d’expérience professionnelle au sein du groupe de traitement A1 de la Police. Les directeurs centraux sont nommés par le Grand-Duc sur proposition du ministre. Le directeur central de police judiciaire est nommé par le Grand-Duc sur proposition du ministre, le procureur général d’État ayant été entendu en son avis.\n\nLa fonction de directeur central des directions centrales visées aux points 1° à 4° sont accessibles aux membres du cadre policier du groupe de traitement A1. Ceux visés aux points 3° et 4° sont également accessibles aux fonctionnaires du cadre civil de la Police issus du groupe de traitement A1.",
+      "text_sha256": "9dec76c752f1b0ccc719eb1e8de8ecd4b187687b545b4d3429705800ca1699db",
+      "md_span": {
+        "start": 57098,
+        "end": 58172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_47/20180801",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La direction centrale police administrative comprend :\n\n1. la direction des opérations,\n2. 1. l’Unité de la police de l’aéroport ;\n2. l’Unité de la police de la route ;\n3. l’Unité de garde et d’appui opérationnel ;\n4. l’Unité spéciale de la Police.\n3. 1. Région Capitale avec siège à Luxembourg-Ville ;\n2. Région Centre-Est avec siège à Grevenmacher ;\n3. Région Nord avec siège à Diekirch ;\n4. Région Sud-Ouest avec siège à Esch-sur-Alzette.\n\nChaque région comprend :\n\n1. une direction ;\n2. des commissariats de police ;\n3. un service régional de police de la route ;\n4. un service régional de police spéciale.\n\nUn règlement grand-ducal délimitera les régions de Police.",
+      "text_sha256": "fc70ff94dc529b49ba3281a666637ad4da12b5d2a1a06a391b201e515c2572af",
+      "md_span": {
+        "start": 58209,
+        "end": 58879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_48/20180801",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** La direction centrale police judiciaire comprend le Service de police judiciaire, désigné ci-après « SPJ », composé :\n\n1. d’une direction ;\n2. de départements subdivisés en sections ;\n3. de services décentralisés de police judiciaire dans les régions Nord, Sud-Ouest et Centre-Est.\n\nLe nombre de départements et de sections ainsi que leurs missions respectives sont déterminés sur avis du comité d’accompagnement.\n\nLe SPJ a son siège dans la Région Capitale.\n\n**(2)** Un règlement grand-ducal détermine les conditions, formalités et modalités d’admission des membres du cadre policier au SPJ et la composition de la commission de sélection.\n\nL’accès des membres des groupes de traitement B1 et C1 au SPJ est subordonné à la réussite de l’examen de promotion et d’une épreuve de validation de connaissances. Pour réussir cette épreuve le candidat doit obtenir trois cinquième de l’ensemble des points et au moins la moitié des points dans chaque test. Le candidat qui a subi un échec peut se présenter une nouvelle fois à l’épreuve de validation des connaissances. Le contenu de l’épreuve de validation des connaissances est déterminé par règlement grand-ducal.\n\nLes membres des groupes de traitement B1 et C1 qui ne remplissent pas les conditions prévues à l’alinéa 2 dans un délai de dix ans sont désaffectés du SPJ.\n\nLes membres des groupes de traitement B1 et C1 affectés depuis plus de cinq ans au SPJ doivent suivre une formation de remise à niveau dont les modalités sont fixées par règlement grand-ducal pour occuper un poste relevant de la direction centrale police administrative*.*",
+      "text_sha256": "4ce7cf6bb33da45bd1b8d016ccaf465ecdfc7421f4ebc0344a1ef0b70725313f",
+      "md_span": {
+        "start": 58916,
+        "end": 60515
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_49/20180801",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La direction centrale « ressources et compétences » comprend :\n\n1. une direction ressources humaines ;\n2. une direction formation avec une École de Police ;\n3. une direction des finances ;\n4. une direction logistique ;\n5. une direction technologies policières.",
+      "text_sha256": "9687ac64cb3255ade821dc3a040bb6b9713eecfab7793181144b0d7c9f471b34",
+      "md_span": {
+        "start": 60552,
+        "end": 60812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_50/20180801",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La direction centrale « stratégie et performance » comprend :\n\n1. une direction planification et suivi stratégiques ;\n2. une direction organisation et amélioration ;\n3. une direction traitement de l’information ;\n4. une cellule stratégie des technologies d’information et de communication.",
+      "text_sha256": "8a39843eda4f34517d70af085ba65da592c309933e513c13d1a642635adaf02a",
+      "md_span": {
+        "start": 60849,
+        "end": 61138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_51/20180801",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les directions, unités nationales, les régions et le SPJ énumérés aux articles 47 à 50 sont dirigées par un directeur et le cas échéant par un ou des directeurs adjoints, nommés par le ministre.\n\nLe directeur et le directeur adjoint du SPJ sont nommés par le ministre, le procureur général d’État ayant été entendu en son avis.",
+      "text_sha256": "d2830a1734e97014a720591f7348418ea2e95f3fa2656ad652941718e003011f",
+      "md_span": {
+        "start": 61175,
+        "end": 61502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_52/20180801",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **L’organisation de la Police**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’emblème, l’uniforme et la carte de service de la Police sont déterminés par règlement grand-ducal.",
+      "text_sha256": "887f2a14b0e5d6b7d2db9f2bc1b37159b063062c0b14444e769de17938ac4bf1",
+      "md_span": {
+        "start": 61539,
+        "end": 61639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_53/20180801",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 1re** — **Dispositions communes**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La qualité de supérieur au sein de la Police est déterminée, selon l’ordre établi ci-après, par :\n\n1. la fonction exercée et, à égalité de fonction, par l'ancienneté ;\n2. l'exercice d'attributions particulières ;\n3. l’ancienneté appliquée aux membres du cadre policier.\n\nPour l’application du point 1°, la hiérarchie des fonctions est déterminée conformément à l’organigramme visé à l’article 4 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.\n\nExceptionnellement, à défaut de supérieur responsable, un membre de la Police prend en charge le commandement d’autres membres de la Police s'ils ne lui sont pas supérieurs en fonction pour maîtriser une situation critique.",
+      "text_sha256": "db5b3dfdc4d638b43a62d90e0a225fff9d51baaf8a401cf901a0856dbfa216f9",
+      "md_span": {
+        "start": 61763,
+        "end": 62473
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_54/20180801",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 1re** — **Dispositions communes**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’ancienneté telle que prévue par l’article 53, points 1° et 3°, comprend trois niveaux :\n\n1. Ce niveau comprend les grades d’ancienneté pour les catégories de traitement B et C considérant les dates de première nomination en fonction du classement de l’examen de fin de stage des catégories de traitement B et C. Les grades d’ancienneté comprennent dans le niveau d’inspecteur les grades : d’inspecteur adjoint, d’inspecteur, de premier inspecteur et d’inspecteur chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de leur nomination définitive. Les groupes de traitement B1 et C1 passent au niveau commissaire par la réussite de leur examen de promotion. Le groupe de traitement C2 passe au niveau commissaire suite à un changement de carrière.\n2. Ce niveau comprend les grades d’ancienneté pour la catégorie de traitement B et le groupe de traitement C1 considérant les dates de nomination dans ce niveau en fonction du classement de l’examen de promotion de leur catégorie de traitement. Les grades d’ancienneté comprennent dans le niveau commissaire les grades de commissaire adjoint, de commissaire, de premier commissaire et de commissaire en chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de la première nomination dans ce niveau.\n3. L’ancienneté se définit pour les groupes de traitement A1 respectivement A2 par la date de première nomination du fonctionnaire dans son groupe en fonction du classement à l’examen de fin de stage. Les grades d’ancienneté comprennent les grades de commissaire principal correspondant aux grades de traitement F9 et F10, de premier commissaire principal correspondant aux grades de traitement F11 et F12, de commissaire divisionnaire correspondant aux grades de traitement F13 et F14 et de premier commissaire divisionnaire correspondant au grade de traitement F15, tels que prévus à la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nLes nominations aux grades sont faites par le directeur général de la Police grand-ducale.",
+      "text_sha256": "95518d671d80bb5593e88509761c980dac4622487ceed7b0cbf2258d50a9c6dc",
+      "md_span": {
+        "start": 62510,
+        "end": 64645
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_55/20180801",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Le cadre policier comprend un directeur général, un directeur général adjoint, des directeurs centraux et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Il est complété par des fonctionnaires stagiaires.\n\n**(2)** Le ministre, sur avis du directeur général de la Police grand-ducale, est autorisé à procéder annuellement à une création de vingt postes supplémentaires du groupe de traitement B1 du cadre policier à pourvoir par voie d’examen-concours.",
+      "text_sha256": "da0005941823c0f6a7f00d9167fe359294b1a8c9689cc69f714c9758a5553d7e",
+      "md_span": {
+        "start": 64725,
+        "end": 65358
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_56/20180801",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le titre honorifique conféré au policier conformément à l’article 43 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État lui permet de porter l’uniforme de son grade d’ancienneté à l’occasion de manifestations patriotiques ou militaires.\n\nLe droit de porter l’uniforme peut être retiré par l’autorité de nomination au membre du cadre policier qui ne s’en montre pas digne.",
+      "text_sha256": "218e264292b47040396206a518b48938d3463fc938261d8a36d482313b98d253",
+      "md_span": {
+        "start": 65395,
+        "end": 65805
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_57/20180801",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le personnel du cadre policier bénéficie d’un congé supplémentaire de huit jours à ajouter au congé annuel de récréation.",
+      "text_sha256": "5d94ea2d74ba58a808462cf3a49ce5c74f7d13c8b472939504a6bee867aac3de",
+      "md_span": {
+        "start": 65842,
+        "end": 65963
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_58/20200804",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "Avant chaque admission au stage, il est procédé à une enquête de moralité afin de déterminer si le candidat dispose des qualités morales nécessaires à l’exécution d’une des fonctions du cadre policier. Cette enquête est effectuée par la Police, qui peut consulter les fichiers qui lui sont légalement accessibles et pour autant que cette consultation est pertinente quant à la finalité recherchée. À défaut des qualités morales nécessaires à l’exécution d’une des fonctions du cadre policier, l’admission au stage est refusée au candidat.",
+      "text_sha256": "1c87cd85dda4ec288adaa43cbd64e4448a461dca2c12614695af159e5a4fd193",
+      "md_span": {
+        "start": 66068,
+        "end": 66606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59_20230905",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_59_20230905",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_59/20200804",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "Le ministre, sur avis du directeur général de la Police grand-ducale, est autorisé à déterminer annuellement le nombre de fonctionnaires stagiaires du cadre policier de la catégorie de traitement C à admettre à la formation professionnelle de base.",
+      "text_sha256": "fdbd074958386e5056f52e68381e56b54fecbcf2aec7c68bd540d8a9de71105b",
+      "md_span": {
+        "start": 66652,
+        "end": 66900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_60/20200804",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "**(1)** Les fonctionnaires stagiaires du cadre policier suivent une formation professionnelle de base de deux ans, laquelle comprend une phase de formation policière théorique et pratique et une phase d’initiation pratique.\n\n**(2)** Par dérogation au paragraphe 1 er, les fonctionnaires stagiaires du cadre policier du groupe de traitement C2 suivent une formation professionnelle de base d’un an, composée d’une phase de formation policière théorique et pratique.\n\n**(3)** Le nombre d’heures de formation à effectuer lors de la phase de formation policière théorique et pratique des différents groupes de traitement est fixé par règlement grand-ducal.",
+      "text_sha256": "bfd230ce3049ecc90384ef3bcc8a59b71be80c968e84d0c10c5ae7873a6933df",
+      "md_span": {
+        "start": 66937,
+        "end": 67589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_61/20180801",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les fonctionnaires stagiaires du cadre policier bénéficient d’un congé annuel de récréation, des jours fériés et des congés extraordinaires dans les mêmes conditions que les membres du cadre policier.",
+      "text_sha256": "e4ade72f56e2da5badfe60d073dcd691b4e2e2bc31cd9bb6fa38204aa3148143",
+      "md_span": {
+        "start": 67626,
+        "end": 67826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_62/20200804",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "Le port de l’arme de service est obligatoire pour les fonctionnaires stagiaires du cadre policier qui au cours de la phase de formation théorique et pratique effectuent des stages dans les unités.\n\nL’usage des armes n’est autorisé qu’en cas de légitime défense.",
+      "text_sha256": "2b8bad905b25e92d26421efccecdc5623ed03b3753432ec07aeab67951315087",
+      "md_span": {
+        "start": 67863,
+        "end": 68124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63_20230905",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_63_20230905",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_63/20200101",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "À l’issue de la phase de formation policière théorique et pratique, les fonctionnaires stagiaires du cadre policier prêtent devant le directeur général de la Police ou son délégué un serment spécial dont la formule est celle prévue à l’article 68. Ce serment spécial leur confère la qualité d’agent de police administrative et la qualité d’agent de police judiciaire et leur permet d’exercer les missions et pouvoirs afférents conformément à la loi.",
+      "text_sha256": "05ab805710566614bba9bf9c9a05cc6b01546d13a36d2787e8af7094162dbf5a",
+      "md_span": {
+        "start": 68170,
+        "end": 68619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_102/20200804",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "À l’issue de la phase de formation policière théorique et pratique, les fonctionnaires stagiaires des groupes de traitement A1, A2, B1 et C1 du cadre policier prêtent devant le directeur général de la Police ou son délégué un serment spécial dont la formule est celle prévue à l’article 68. Ce serment spécial leur confère la qualité d’agent de police administrative et la qualité d’agent de police judiciaire et leur permet d’exercer les missions et pouvoirs afférents conformément à la loi.",
+      "text_sha256": "46782cf780699192d9db758bd24d8e57bfe0214dcdcf6bf6b22f930be6c10850",
+      "md_span": {
+        "start": 68656,
+        "end": 69148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64_20230905",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_64_20230905",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_64/20200101",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Dans le cadre de l’exécution des missions de police, les fonctionnaires stagiaires du cadre policier sont assimilés aux membres du cadre policier après avoir prêté le serment spécial prévu à l’article 68.",
+      "text_sha256": "d2c87c3a07732b17ece84b55c058e405d801e6e15c392baf2b9fdbeefeec51f5",
+      "md_span": {
+        "start": 69194,
+        "end": 69398
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_103/20200804",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "Dans le cadre de l’exécution des missions de police, les fonctionnaires stagiaires du cadre policier sont assimilés aux membres du cadre policier après avoir prêté le serment spécial prévu à l’article 68.",
+      "text_sha256": "d2c87c3a07732b17ece84b55c058e405d801e6e15c392baf2b9fdbeefeec51f5",
+      "md_span": {
+        "start": 69435,
+        "end": 69639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_65/20200804",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "Le retrait du statut de fonctionnaire stagiaire du cadre policier est prononcé par le ministre sur avis du directeur général de la Police :\n\n1. en cas d’échec à l’instruction tactique de base pour les groupes de traitement B1 et C1 ;\n2. en cas d’échec à la phase de formation policière théorique et pratique ;\n3. pour motifs graves tant dans le service qu’en dehors du service ;\n4. bis loi modifiée du 16 avril 1979\n\nLe retrait du statut de fonctionnaire stagiaire du cadre policier en application du présent article équivaut à une résiliation du stage au sens de l’article 2 de la loi précitée du 16 avril 1979.\n\nAprès un retrait du statut de fonctionnaire stagiaire du cadre policier pour les motifs évoqués au point 3°, le candidat ne peut plus être admis au stage dans la Police.",
+      "text_sha256": "c0814d10dff9069a3519c9f5e8796f78d49776f33aa8f413a36f411c3348fc71",
+      "md_span": {
+        "start": 69676,
+        "end": 70459
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi précitée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_66/20180801",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Par dérogation à l’article 60, paragraphe 1er, alinéa 1er, les candidats ayant réussi l’examen-concours pour le groupe de traitement B1 et qui ont auparavant suivi avec succès la formation professionnelle de base du groupe de traitement C1 sont dispensés de suivre la formation professionnelle de base du groupe de traitement B1.\n\n**(2)** Au cas où leur nouveau traitement serait inférieur à leur traitement de base, y compris les primes de régime militaire et d’astreinte, ils bénéficient d’un supplément personnel de traitement. Le supplément personnel diminue au fur et à mesure que le traitement augmente par l’accomplissement des conditions de stage, d’examen et d’années de service.",
+      "text_sha256": "e696f87b31cacd00083445c78e7664d58aaccbbb73373191100fd5846dcc1ace",
+      "md_span": {
+        "start": 70496,
+        "end": 71192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_67/20200804",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2020-08-04",
+      "text_md": "La réussite de la formation professionnelle de base du cadre policier telle que définie par la présente section vaut équivalence à la réussite de la période de stage prévue par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.\n\nLe fonctionnaire stagiaire du cadre policier doit avoir obtenu une note finale d’au moins deux tiers du total des points et une note suffisante dans chacun des modules lors de la phase de formation policière théorique et pratique. Pour la phase de formation policière théorique et pratique de la catégorie de traitement A le fonctionnaire stagiaire du cadre policier doit avoir réussi sa formation à l’étranger.\n\nLes conditions et formalités de recrutement ainsi que les modalités, la mise en oeuvre du plan d’insertion professionnelle, l’appréciation des performances professionnelles, le programme et la procédure des examens de la formation professionnelle de base des fonctionnaires stagiaires du cadre policier sont fixés par règlement grand-ducal.",
+      "text_sha256": "bb1cd6096243502d61d1a479d548e19690f4742267a67748e182e861ec203650",
+      "md_span": {
+        "start": 71229,
+        "end": 72248
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_68/20180801",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 1re** — **Recrutement et entrée en fonctions**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Avant d’entrer en fonctions, les membres du cadre policier prêtent, devant le ministre ou son délégué, le serment suivant :\n\n« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je jure d’obéir à mes supérieurs en tout ce qui concerne le service auquel je suis appelé et de ne faire usage, dans l’exercice de mes fonctions, de la force qui m’est confiée, que pour le maintien de l’ordre et l’exécution des lois. »",
+      "text_sha256": "daf9c6adc85cc48f2ccba5a997596a5b21a7cd950ce64af4b8629c03abffa1d7",
+      "md_span": {
+        "start": 72285,
+        "end": 72730
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1868/10/17/n1/jo",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_69/20180801",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 2** — **L’examen de promotion**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les examens de promotion dans la Police sont des examens de classement.",
+      "text_sha256": "471d627ec17dd0b1db9cfdef32a4f33c5846ff242329cf560d0f4c77f4547d1b",
+      "md_span": {
+        "start": 72820,
+        "end": 72891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_70/20180801",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 2** — **L’examen de promotion**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Pour être admis à participer à l’examen de promotion dans le groupe de traitement B1 du sous-groupe policier dans la rubrique « Armée, Police et Inspection générale de la Police », les candidats doivent, au 31 décembre qui suit la date de l’examen, avoir à leur actif au moins trois années de service à partir de la date de la première nomination.\n\n**(2)** Pour être admis à participer à l’examen de promotion dans les groupes de traitement C1 et C2 du sous-groupe policier dans la rubrique « Armée, Police et Inspection générale de la Police », les candidats doivent, au 31 décembre qui suit la date de l’examen, avoir à leur actif au moins six années de service à partir de la date de la première nomination.\n\n**(3)** Les formalités à remplir par les candidats à l’examen de promotion, le programme de l’examen ainsi que les modalités de classement et les critères de départage en cas d’égalité des notes sont déterminés par règlement grand-ducal.",
+      "text_sha256": "ce43e12c36c3faee5b5041c05f22abf7e0fbe4e38eba9c1d1d523bc6132ba762",
+      "md_span": {
+        "start": 72928,
+        "end": 73885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_71/20180801",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 2** — **L’examen de promotion**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Pour réussir à l’examen de promotion les candidats doivent obtenir au moins les trois cinquièmes du total des points des modules et au moins la moitié du maximum des points dans chaque module.",
+      "text_sha256": "9b1c1ba78df29e525c70324ffc70870b0332358edce0332f4ce95358fc56f6f7",
+      "md_span": {
+        "start": 73922,
+        "end": 74114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_72/20180801",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 2** — **L’examen de promotion**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les candidats qui ont subi un échec peuvent se présenter une nouvelle fois à l’examen de promotion.\n\nEn cas de deuxième échec, le candidat peut se présenter une dernière fois à l’examen de promotion après un délai minimum de cinq ans et à condition d’avoir suivi une formation spéciale relative à l’examen de promotion à l’École de police.",
+      "text_sha256": "51edf02a8626343194f63a7635e658e361b5049d21e01344ff5fc64672a7739b",
+      "md_span": {
+        "start": 74151,
+        "end": 74490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_73",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_73/20180801",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Par dérogation aux dispositions fixant les conditions d’admission aux différents groupes de traitement le membre du cadre policier peut accéder à un groupe de traitement supérieur au sien suivant les modalités déterminées ci-après.\n\n**(2)** Par groupe de traitement immédiatement supérieur au groupe de traitement C2, il faut entendre le groupe de traitement C1.\n\n**(3)** Par groupe de traitement immédiatement supérieur au groupe de traitement C1, il faut entendre le groupe de traitement B1.\n\n**(4)** Par groupe de traitement immédiatement supérieur au groupe de traitement B1, il faut entendre le groupe de traitement A2.\n\n**(5)** Par groupe de traitement immédiatement supérieur au groupe de traitement A2, il faut entendre le groupe de traitement A1.",
+      "text_sha256": "986f689be26f4f746d6f74857739738668367ea8ab128337396e7b098611b405",
+      "md_span": {
+        "start": 74575,
+        "end": 75338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_74/20180801",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le nombre maximum de membres du cadre policier d’un groupe de traitement admis à changer de groupe de traitement en vertu des dispositions de la présente loi est fixé à vingt pour cent de l’effectif total du groupe de traitement dont le membre du cadre policier désire faire partie qui est immédiatement supérieur au sien.\n\nToute fraction résultant de l’application du taux établi ci-dessus compte pour une unité.",
+      "text_sha256": "b86369f95fb0a69877e866b5483a8ca191dcb2099541cefbb846da55ca7ba825",
+      "md_span": {
+        "start": 75375,
+        "end": 75788
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_75/20180801",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le membre du cadre policier qui désire changer de groupe de traitement selon les modalités de la présente loi doit en faire la demande par écrit dans un délai d’un mois à partir de la publication de la vacance de poste dans le groupe de traitement supérieur.\n\nLa demande est adressée par voie hiérarchique au ministre qui en saisit la commission de contrôle de la carrière policière prévue à l’article 77.",
+      "text_sha256": "33d82e281bc79a467333b070f5d95fb81b2e860a77291810cc8e1f1eba3e343d",
+      "md_span": {
+        "start": 75825,
+        "end": 76230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_76/20180801",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Le membre du cadre policier qui désire changer de groupe de traitement peut présenter sa candidature, s’il remplit les conditions suivantes :\n\n1. avoir au moins dix années de service depuis la date de sa nomination ;\n2. avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu.\n\n**(2)** Par dérogation aux articles 75, 77, 78 et 79, le membre du groupe de traitement C2 peut accéder au groupe de traitement C1 sous les conditions suivantes :\n\n1. avoir réussi à l’examen de promotion du sous-groupe de traitement de destination ;\n2. être retenu par le ministre sur vue du dossier personnel, le directeur général de la Police grand-ducale entendu en son avis. L’appréciation du candidat se base sur la qualité de son travail, son assiduité, sa valeur personnelle, ses qualités physiques et sa capacité d’assumer des responsabilités supérieures.\n\nAprès l’examen de promotion, un classement unique est établi pour les membres du groupe de traitement C1 et les membres du groupe de traitement C2 qui ont réussi à l’examen de promotion du groupe de traitement C1 pour déterminer l’ancienneté telle que prévue à l’article 54.\n\nEn cas d’échec à l’examen de promotion du groupe de traitement C1, le membre du groupe de traitement C2 ne pourra présenter une nouvelle demande de changement de groupe de traitement qu’après un délai de trois ans. Un second échec entraîne la perte définitive du bénéfice du changement du groupe de traitement.\n\n**(3)** Avant d’être pourvu, tout poste vacant à occuper par le biais d’un changement de groupe de traitement doit être publié par la voie appropriée pendant au moins cinq jours ouvrables.\n\nPréalablement à sa publication, le poste vacant doit faire l’objet d’une description détaillée reprenant les missions spécifiques y rattachées et les compétences requises pour pouvoir l’occuper.",
+      "text_sha256": "a4fd7ea46d5857bb3e88da091b51c9eb0a5529cf1f2b20d24cef2c42834711f7",
+      "md_span": {
+        "start": 76267,
+        "end": 78142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_77/20180801",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Il est institué auprès du ministre une commission de contrôle de la carrière policière, désignée ci-après par « commission de contrôle » dont la mission consiste à :\n\n1. émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduite en vertu de l’article 75 ou de la procédure de demande de changement de groupe temporaire introduite en vertu de l’article 94 ;\n2. veiller à ce que les limites et conditions prévues par les articles 74 et 76 soient respectées pour toute demande introduite en vertu de l’article 75 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 94, paragraphe 3, soient respectées pour toute demande introduite en vertu du paragraphe 2 ;\n3. évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;\n4. évaluer le mémoire prévu à l’article 79.\n\n**(2)** La commission comprend trois membres effectifs. Deux membres sont nommés par le ministre sur proposition du directeur général, dont un des membres doit relever du groupe de traitement correspondant au moins au niveau de poste à occuper. Un membre, le président, est nommé par le ministre.\n\nPour chaque membre effectif, il est nommé un membre suppléant choisi selon les mêmes critères.\n\nLa commission dispose d’un secrétariat dont la gestion est assurée par un ou plusieurs agents à désigner par le directeur général.\n\nToutes les nominations sont révocables à tout moment.",
+      "text_sha256": "dc051378695fddf424622d0bd05d049318eee39a8b9ddcaebeb178f98759c835",
+      "md_span": {
+        "start": 78179,
+        "end": 79639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_78/20180801",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Pour délibérer valablement, tous les membres de la commission doivent être présents.\n\nToutes les affaires sont délibérées en réunion, le secrétaire rédige les procès-verbaux.\n\n**(2)** La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d’information qu’elle juge nécessaires à l’accomplissement de sa mission; elle peut désigner un de ses membres afin de procéder à toute enquête spéciale, jugée utile, et se faire assister par des experts. La commission est en droit de donner aux candidats la possibilité de présenter des observations écrites ou de venir s’expliquer oralement.\n\n**(3)** La commission émet un avis favorable ou défavorable par rapport aux points 1° à 3° de l’article 77.\n\nL’avis de la commission est pris à la majorité des voix, l’abstention n’étant pas permise.\n\nL’avis, motivé et signé par tous les membres de la commission, est à transmettre au ministre, lequel décide si le fonctionnaire est retenu ou non.\n\nLa décision est transmise à la commission de contrôle qui en informe le fonctionnaire concerné incessamment.\n\n**(4)** Les membres de la commission, le ou les secrétaires et ceux qui procèdent à des actes d’instruction conformément à l’article présent sont tenus de garder le secret sur les délibérations et les informations qui leur ont été fournies dans l’accomplissement de leur mission.",
+      "text_sha256": "e2129db1c4cd62262fa3e616b8b1ce3ca5b1db188911614e07fca05e48f63723",
+      "md_span": {
+        "start": 79676,
+        "end": 81053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_79/20180801",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Le membre du cadre policier retenu doit rédiger, dans un délai de six mois à partir de la réception de l’information prévue à l’article 78, un mémoire dont le sujet est à définir par la commission de contrôle. Le mémoire est présenté oralement devant la commission de contrôle qui attribue, séance tenante, une mention soit suffisante, soit insuffisante. À ce titre, la partie écrite du mémoire et sa présentation orale sont prises en compte à raison de cinquante pour cent chacune.\n\n**(2)** Le membre du cadre policier qui s’est vu attribuer une mention suffisante bénéficie d’une nomination dans son nouveau groupe de traitement.\n\nEn attendant sa nomination dans le nouveau groupe de traitement, le policier qui s’est vu attribuer une mention suffisante est maintenu dans son groupe de traitement initial avec garantie de tous ses droits acquis.\n\nPour accéder par promotion au grade correspondant de son nouveau groupe de traitement, le membre du cadre policier est censé remplir toutes les conditions légales prévues dans son nouveau groupe de traitement, avec dispense de l'examen de promotion dans le cas où un tel examen est prévu dans le nouveau groupe de traitement. Les avancements et promotions ultérieurs se font après chaque fois un délai minimal d'une année dans le nouveau groupe de traitement, sous réserve de remplir au total l'ancienneté requise pour les avancements en grade de son nouveau groupe de traitement à compter de la nomination dans le groupe de traitement initial.\n\n**(3)** Le membre du cadre policier qui ne s’est pas vu attribuer une mention suffisante, est considéré comme ayant échoué. Il ne pourra présenter une nouvelle demande de changement de groupe de traitement qu’après un délai de trois ans. Un second échec entraîne la perte définitive du bénéfice du changement de groupe de traitement.",
+      "text_sha256": "31e838243e8af2ed8d62f2226c4b734ed8cfdfc62bcd0843e1a49c8b0b30b2c7",
+      "md_span": {
+        "start": 81090,
+        "end": 82926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_80",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_80/20180801",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 3** — **Carrière ouverte**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le membre du cadre policier qui change de groupe de traitement bénéficie d’une promotion et est classé dans son nouveau groupe de traitement au grade immédiatement supérieur à celui qu’il avait atteint dans son groupe de traitement initial.\n\nPour l’application de cette disposition, la hiérarchie des grades est déterminée par les indices minima des tableaux indiciaires de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nAu cas où leur traitement serait inférieur à leur traitement de base, y compris les primes de régime militaire et d’astreinte, ils bénéficient d’un supplément personnel de traitement. Le supplément personnel diminue au fur et à mesure que le traitement augmente par l’accomplissement des conditions de stage, d’examen et d’années de service.",
+      "text_sha256": "e6581e3ac6c02f79ea5ca5133c865aa58c640849602d133be9e50aac9561a065",
+      "md_span": {
+        "start": 82963,
+        "end": 83818
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_81/20180801",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 2** — **Le cadre policier**",
+        "**Sous-section 4** — **Indemnités**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Une indemnité mensuelle non pensionnable d’un montant non imposable de vingt points indiciaires est allouée aux membres du SPJ ayant la qualité d’officier ou d’agent de police judiciaire, de l’Unité spéciale de la Police et aux membres du cadre policier détachés au Service de protection du Gouvernement.\n\n**(2)** Une indemnité mensuelle non pensionnable d’un montant non imposable de cinq points indiciaires est allouée aux maîtres-chiens de la Police.",
+      "text_sha256": "a6e54a95e0db0fc7f810958b08a4e97be4f4f352c797592361761eb3bd937d9e",
+      "md_span": {
+        "start": 83897,
+        "end": 84358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_82/20180801",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 3** — **Le cadre civil**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le cadre civil comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, ainsi que des employés des différentes catégories d’indemnité telles que prévues par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État.",
+      "text_sha256": "4007f97ce163382724520c7a0a06074e8fc8d255d3375e05d40fb7a5d2ab1431",
+      "md_span": {
+        "start": 84435,
+        "end": 84861
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_83/20180801",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 3** — **Le cadre civil**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Il comprend en outre des chefs d’atelier et des magasiniers conformément à l’organigramme établi en application de l’article 4 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.",
+      "text_sha256": "52c54bd26258b3aba52e033288e4805ae44d301c3682096650300fc76788f28b",
+      "md_span": {
+        "start": 84898,
+        "end": 85115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_84/20180801",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Du personnel**",
+        "**Section 3** — **Le cadre civil**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’indemnité visée à l’article 81, paragraphe 1er, est allouée aux membres du cadre civil du SPJ ayant la qualité d’officier ou d’agent de police judiciaire.",
+      "text_sha256": "f076bd2235f2c2fd22821111e82f6d0d97676e9280e7e07fd9e46f032fbf191f",
+      "md_span": {
+        "start": 85152,
+        "end": 85308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_85/20180801",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Le Code de procédure pénale est modifié comme suit :\n\n1. Ont la qualité d’officier de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.\n2. er **(1)** Sont agents de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.\n3. quatre six",
+      "text_sha256": "49690036af2234f1eff5b209eab2282749e87e70517e2dc98bb0db87351b187d",
+      "md_span": {
+        "start": 85397,
+        "end": 85815
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        },
+        {
+          "href": "???",
+          "text": "loi du 18 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_86/20180801",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’article 7, paragraphe 1er, point 4°, de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux est remplacé par le texte suivant :les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative",
+      "text_sha256": "c751b04f4533568cb49a5f69b0fc5d148e27d428afe9f0a18d40d623e5c2aa8e",
+      "md_span": {
+        "start": 85852,
+        "end": 86162
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/12/10/n1/jo",
+          "text": "loi du 10 décembre 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_87/20180801",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’article 1er, alinéa 2 de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et servics de l’État est modifié comme suit :\n\n1. - de directeur central\n2. A13, A14, P13, P14 F16, F17",
+      "text_sha256": "89e4d636852614cfb1707293536700118b10a8b79e2f31cc70537b04a865a09b",
+      "md_span": {
+        "start": 86199,
+        "end": 86505
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/12/09/n1/jo",
+          "text": "loi modifiée du 9 décembre 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_88/20180801",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :\n\n1. 1. er pour les fonctionnaires de la catégorie de traitement D, des rubriques « Armée, Police et Inspection générale de la Police » et « Douanes » pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes »\n2. er Pour les fonctionnaires de la catégorie de traitement B, groupe de traitement B1 de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du troisième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après. Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du septième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.\n3. F8 F11 catégorie D, groupe D1 catégorie C, groupe C1\n2. er 1. er 1. un sous-groupe policier avec un niveau général et un niveau supérieur ;\n2. F8 F11 F9 F12 F10 F13\n3. Pour le sous-groupe sous b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.\n4. F11 F14 F12 F15\n5. les grades F11 avec la fonction de commissaire divisionnaire et F12 avec la fonction de premier commissaire divisionnaire, les promotions aux grades F11 et F12 les grades F14 et F15 et les promotions aux grades F14 et F15\n6. - F8 F11 F9 F12 F10 F13\n- 1. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée, l’indice 616 du grade F16 est remplacé par l’indice 625.\n- F14 F17\n3. er bis **(1*bis*)** Dans la catégorie de traitement A, groupe de traitement A2, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général. Pour ce sous-groupe, le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d'avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l'Institut national d'administration publique ou d'en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.\n4. bis ter **(1*ter*)** Dans la catégorie de traitement B, groupe de traitement B1, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions. Pour ce sous-groupe, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.\n5. 1. er - catégorie de traitement D, groupe de traitement D1 catégorie de traitement C, groupe de traitement C1\n- b) un sous-groupe policier avec un niveau général et un niveau supérieur ;\n2. les grades F2 avec la fonction d’inspecteur adjoint, F3 avec la fonction d’inspecteur et F4 avec la fonction de premier inspecteur les grades F2, F3 et F4\n3. les grades F5 avec la fonction d’inspecteur-chef, F6 avec la fonction de commissaire et F7 avec la fonction de commissaire en chef les grades F5, F6 et F7\n6. 1. er - catégorie de traitement D, groupe de traitement D2 catégorie de traitement C, groupe de traitement C2\n- b) un sous-groupe policier avec un niveau général et un niveau supérieur.\n2. les grades F1 avec la fonction de caporal et F2 avec la fonction de caporal de première classe les grades F1 et F2\n3. les grades F3 avec la fonction de brigadier principal et F4 avec la fonction de brigadier-chef les grades F3 et F4\n7. 1. er C2, groupes de traitement\n2. À l’alinéa 2, les points b), c) et d) sont supprimés, le point e) devenant le nouveau point b).\n8. inspecteur général de la police inspecteur général adjoint de la police, directeurs centraux de la police\n9. 1. er catégorie de traitement D catégorie de traitement C groupe de traitement D1 groupe de traitement C1\n2. - « a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ; b) aux agents de la catégorie de traitement B, groupe de traitement B1 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;\n- catégorie de traitement D, groupe de traitement D1 catégorie de traitement C, groupe de traitement C1\n3. **(8)** Une prime d’astreinte d’une valeur de 12 points indiciaires peut être allouée au personnel du cadre civil de la Police grand-ducale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du directeur général de la Police grand-ducale.\n10. **(1)** Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux agents relevant de la catégorie de traitement C de la rubrique « Armée, Police et Inspection générale de la Police ». Une prime de régime militaire non pensionnable de 15 points indiciaires est allouée aux agents relevant des groupes de traitement A1, A2 et B1 de la rubrique « Armée, Police et Inspection générale de la Police ». Le présent paragraphe ne vise pas les fonctions du sous-groupe à attributions particulières de la musique militaire. **(2)** Une prime de formation non pensionnable de 20 points indiciaires est allouée aux fonctionnaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police », détenteurs du prix supérieur, du prix de capacité ou de perfectionnement d’un conservatoire de musique luxembourgeois ou d’un diplôme d’un conservatoire de musique étranger, reconnu équivalent par le ministre ayant l’Armée, la Police et l’Inspection générale de la Police dans ses attributions, sur avis d’une commission composée de trois hommes de l’art désignés par le même ministre.\n11. 1. Au paragraphe 2, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 130 points indiciaires.\n2. Au paragraphe 3, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 135 points indiciaires.\n3. Au paragraphe 4, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une réduction de 5 points indiciaires.\n4. Il est inséré après le paragraphe 9 un paragraphe 9*bis* qui prend la teneur suivante :(9*bis*)Lorsque la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement B1 est inférieure à la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement C1, le premier bénéficie d’un supplément personnel de traitement pensionnable correspondant à la différence entre ces deux sommes.\n12. À l’annexe A, la rubrique « III. Armée, Police et Inspection générale de la Police » est remplacée par la rubrique figurant à l’annexe A de la présente loi.\n13. À l’annexe B, sous « B1) Tableaux indiciaires », la rubrique « II. Armée, Police et Inspection générale de la Police » est remplacée par l’annexe B de la présente loi.\n14. 1. Pour les fonctionnaires de la catégorie de traitement A, groupe de traitement A2 de la rubrique « Armée, Police et Inspection générale de la Police », le grade F13 est allongé d’un dixième échelon ayant l’indice 500.\n2. catégorie de traitement D, groupe de traitement D2 catégorie de traitement C, groupe de traitement C2 Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la même rubrique, le grade F4 est allongé d’un quinzième échelon ayant l’indice 272\n15. 1. F6-F10 F6-F13\n2. F11 et F12 F14 et F15\n3. F13 et F14 F16-F17",
+      "text_sha256": "b8023b77f5c7ccf27b5a147b02922d271e46a77f1b66bcdd8adce76d1cd1589f",
+      "md_span": {
+        "start": 86542,
+        "end": 97607
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_89",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_89/20180801",
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "À la suite de l’article 22 de la loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifiée du 10 août 1991 sur la profession d’avocat, il est inséré un nouvel article 22*bis*, libellé comme suit :**Art. 22*bis* .**Lorsqu’un demandeur s’oppose de manière violente ou menaçante à l’exécution d’une décision de transfert prise dans le respect de l’article 10, paragraphe 4, le directeur ou son délégué peut requérir l’assistance de la Police grand-ducale dans les conditions du Chapitre 3 de la loi du 18 juillet 2018 sur la Police grand-ducale.",
+      "text_sha256": "0d41b211b0a9672c3a4bfe8582fdc451421ab6a95fa4c8bd6ee22f3c1a4aa77c",
+      "md_span": {
+        "start": 97644,
+        "end": 98275
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/12/18/n16/jo",
+          "text": "loi du 18 décembre 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi modifiée du 10 août 1991"
+        },
+        {
+          "href": "???",
+          "text": "loi du 18 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_90",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_90/20180801",
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9** — **Dispositions abrogatoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Sont abrogées :\n\n1. loi modifiée du 31 mai 1999\n2. loi du 29 mai 1992 1. loi modifiée du 23 juillet 1952\n2. code d’instruction criminelle\n3. loi du 16 avril 1979",
+      "text_sha256": "e8b7f57b6ef0953f1473f0e85717a5fa16e07b22ecd50e8fca6339df0191fa04",
+      "md_span": {
+        "start": 98363,
+        "end": 98524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_91",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_91/20180801",
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Par dérogation à l’article 44, paragraphe 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, pour les fonctionnaires qui au moment de l’entrée en vigueur de la présente loi étaient classés à un grade de substitution conformément aux anciennes dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, les anciennes dispositions légales restent applicables.\n\nLes titulaires classés à un grade de substitution sont pris en compte pour la fixation du contingent de quinze pour cent prévu à l’article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et ne peuvent pas bénéficier de la majoration d’échelon pour postes à responsabilités particulières prévue par cet article.\n\nToutefois, le contingent de quinze pour cent prévu à l’article 16, paragraphes 1er, 2 et 3 est temporairement augmenté de cinq pour cent à partir de l’entrée en vigueur de la présente loi pour de nouveaux titulaires désignés en application de l’article 16, paragraphes 1er, 2 et 3.",
+      "text_sha256": "8af6cce2bcccf8d2e5bb9a3cafb6c1ff09d376ae989eaafb2ab0e43fca8ceb09",
+      "md_span": {
+        "start": 98613,
+        "end": 99806
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_92",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_92/20180801",
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les membres de la Police qui occupaient au 1er octobre 2015 un poste à responsabilité particulière au sens de l’article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et conditions et modalités d’avancement des fonctionnaires de l’État et qui, dans les limites du contingent visé à l’article 91, alinéa 2, auraient eu droit à une majoration d’échelon, bénéficient de celle-ci avec effet à partir du 1er octobre 2015.\n\nLe contingent temporaire de vingt pour cent de postes à responsabilités particulières est maintenu à vingt pour cent jusqu’à ce que tous les membres du cadre policier du groupe de traitement C1 qui occupent depuis le 1er octobre 2015 un poste à responsabilités particulières aient obtenu une majoration d’échelon. S’il y a lieu, celle-ci est accordée avec effet rétroactif.",
+      "text_sha256": "59001b7d1daeadef1a71406406c334d9e07d2041e11d3eb0298dac909929ffde",
+      "md_span": {
+        "start": 99843,
+        "end": 100658
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_93",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_93/20180801",
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "L’article 54 ne porte pas préjudice à l’ancienneté légalement acquise au moment de l’entrée en vigueur de la présente loi.",
+      "text_sha256": "89deeee743705a4ebaf221649769f1bdb68a97daf347df1e5cae8348e125c9f7",
+      "md_span": {
+        "start": 100695,
+        "end": 100817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_94",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_94/20180801",
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "**(1)** Pour les membres du cadre policier en service, en congé de maternité, en congé parental ou en congé sans traitement au moment de l’entrée en vigueur de la présente loi, il est instauré un mécanisme temporaire de changement de groupe permettant à ces fonctionnaires d’accéder à un groupe de traitement immédiatement supérieur au leur dans les conditions et suivant les modalités déterminées au présent article. Le bénéfice de ce mécanisme est limité à une période de dix ans à compter de l’entrée en vigueur de la présente loi.\n\n**(2)** Le membre du cadre policier désirant profiter de ce mécanisme temporaire de changement de groupe doit en faire la demande par écrit auprès du directeur général de la Police grand-ducale avec copie au ministre, qui en saisit la commission de contrôle prévue à l’article 77.\n\n**(3)** Pour pouvoir bénéficier de ce mécanisme temporaire de changement de groupe, le membre du cadre policier doit remplir les conditions ci-dessous :\n\n1. avoir accompli quinze années de service depuis sa nomination ;\n2. être classé à une fonction relevant du niveau supérieur.\n\nPour la sélection des candidats, il sera tenu compte, s’il y a lieu, de l’appréciation des compétences professionnelles et personnelles du policier en question.\n\nLe nombre maximum de policiers d’un groupe de traitement pouvant bénéficier de ce mécanisme temporaire de changement de groupe, est fixé à vingt pour cent de l’effectif total de la catégorie de traitement C du cadre policier. Toute fraction résultant de l’application du taux établi ci-dessus compte pour une unité.\n\nLe changement de groupe de traitement dans le cadre du présent article ne peut se faire qu’une seule fois et dans les limites de l’alinéa précédent et uniquement au sein de la Police.\n\nAu cas où le nombre de candidatures admissibles dépasse les vingt pour cent, la sélection des candidatures se basera également sur le critère de l’ancienneté de service.\n\n**(4)** Sur avis de la commission de contrôle, le ministre décide de l’admissibilité du candidat. Le candidat retenu doit présenter un travail personnel de réflexion sur un sujet en relation avec la fonction qu’il occupe. La commission de contrôle définit le sujet du travail personnel de réflexion à présenter dans un délai fixé par la même commission lequel ne peut excéder un an.\n\nLe policier dont le travail personnel de réflexion a été retenu comme en ligne avec le sujet par la commission de contrôle, accède par promotion au groupe de traitement retenu au paragraphe 3 du présent article par l’autorité investie du pouvoir de nomination. Pour accéder par promotion au grade correspondant de son nouveau groupe de traitement, le policier est censé remplir toutes les conditions légales prévues dans son nouveau groupe de traitement, avec dispense de l'examen de promotion dans le cas où un tel examen est prévu dans le nouveau groupe de traitement. Les avancements et promotions ultérieurs se font après chaque fois un délai minimal d'une année dans le nouveau groupe de traitement, sous réserve de remplir au total l'ancienneté requise pour les avancements en grade de son nouveau groupe de traitement à compter de la nomination dans le groupe de traitement initial.\n\nEn cas d’un premier travail personnel de réflexion constaté comme hors sujet par la commission de contrôle, le policier qui en fait la demande et dont la nouvelle candidature a été retenue par le ministre, peut présenter un travail personnel de réflexion sur un nouveau sujet dans un délai à fixer par la même commission de contrôle et qui ne peut dépasser trois mois.\n\nLorsque ce nouveau travail personnel de réflexion a été retenu comme en ligne avec le sujet par la commission de contrôle, les dispositions de l’alinéa précédent lui sont applicables. Lorsque ce nouveau travail personnel de réflexion a été retenu comme hors sujet par la commission de contrôle, le candidat est définitivement écarté du bénéfice du mécanisme temporaire de changement de groupe.\n\n**(5)** Au cas où leur traitement serait inférieur à leur traitement de base, y compris les primes de régime militaire et d’astreinte, ils bénéficient d’un supplément personnel de traitement. Le supplément personnel diminue au fur et à mesure que le traitement augmente par l’accomplissement des conditions de stage, d’examen et d’années de service.",
+      "text_sha256": "2940174c7d2977a51b9ae8bb0d0e56dd485f3df22237a72f058b22eea0974a12",
+      "md_span": {
+        "start": 100854,
+        "end": 105177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_95",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_95/20180801",
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Pour le personnel de la carrière de l’inspecteur en service, en congé de maternité, en congé parental ou en congé sans traitement et nommé définitivement au moment de l’entrée en vigueur de la présente loi, les articles 24 et 97 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police restent applicables pendant une durée de dix ans à compter de l’entrée en vigueur de la présente loi.\n\nAu cas où leur nouveau traitement serait inférieur à leur traitement de base, y compris les primes de régime militaire et d’astreinte, ils bénéficient d’un supplément personnel de traitement. Le supplément personnel diminue au fur et à mesure que le traitement augmente par l’accomplissement des conditions de stage, d’examen et d’années de service.",
+      "text_sha256": "0de36bd07a0888fccf4c5f0831b21621a23b582de1e972af89f7a699aa6402af",
+      "md_span": {
+        "start": 105214,
+        "end": 105981
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/05/31/n7/jo",
+          "text": "loi modifiée du 31 mai 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_96",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_96/20180801",
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Par dérogation à l’article 48, paragraphe 2, sont affectés, au moment de l’entrée en vigueur de la présente loi, à ce service, les membres de la Police affectés ou détachés à un service de recherche et d’enquête criminelle ou détachés au SPJ depuis au moins trois ans. Le personnel ainsi affecté au SPJ bénéficie du même statut que le personnel y affecté avant l’entrée en vigueur de la présente loi.\n\nCelui n’ayant pas la qualité d’officier de police judiciaire au moment de l’entrée en vigueur de la présente loi disposera d’un délai maximal de cinq ans pour réussir à son examen de promotion. A défaut, le concerné est désaffecté du SPJ.\n\nPour les membres du cadre policier affectés ou détachés à un service de recherche et d’enquête criminelle ou détachés au SPJ ne remplissant pas les conditions de l’alinéa 1er du présent article, leur affectation au SPJ est soumise à la réussite de tests psychotechniques.",
+      "text_sha256": "1e46ea1813af5866926e7b6af3693afe2717da53742da60f4677ea8940c89d74",
+      "md_span": {
+        "start": 106018,
+        "end": 106931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_97",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_97/20180801",
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les primes telles que prévues à l’article 94 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police sont maintenues.",
+      "text_sha256": "39a47f22ff0a1b6818f0df4571d0a95553bc212b72324dc8ee528f611274940c",
+      "md_span": {
+        "start": 106968,
+        "end": 107115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/05/31/n7/jo",
+          "text": "loi modifiée du 31 mai 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_98",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_98/20180801",
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les fonctionnaires de la rubrique « Armée, Police et Inspection générale de la Police » en service, en congé de maternité, en congé parental ou en congé sans traitement au moment de l’entrée en vigueur de la présente loi conservent le bénéfice de l’échelon 568 de l’ancien grade F12, devenu le nouveau grade F15, et l’expectative à cet échelon.",
+      "text_sha256": "7596ab7d087b3276bbdb91ae8a11a46228e440f39b1f6ec409f0f4140b9a12e1",
+      "md_span": {
+        "start": 107152,
+        "end": 107496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_99",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_99/20180801",
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Par dérogation aux articles 17 et 54, les policiers qui, avant l’entrée en vigueur de la présente loi, ont accédé à la première fonction du niveau supérieur à l’âge de cinquante ans au moins sans avoir passé avec succès un examen de promotion sur base de l’article 14, paragraphe 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État gardent la qualité d’officier de police judiciaire.",
+      "text_sha256": "896f3946d05f49c6724c59342c2a7085121fd565c9eddaa8a9ed75e45476686c",
+      "md_span": {
+        "start": 107533,
+        "end": 108008
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_100",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_100/20180801",
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "Les dispositions de l’article 12, paragraphe 3, lettre c) et de l’article 12, paragraphe 4 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police restent applicables aux candidats des carrières de l’inspecteur et du brigadier qui ont été admis à la formation professionnelle de base avant l’entrée en vigueur de la présente loi.\n\nL’article 27 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police reste applicable en ce qui concerne les conditions d’instruction des membres du cadre supérieur de la Police et du personnel des carrières de l’inspecteur et du brigadier qui ont été admis au stage ou à la formation professionnelle de base avant l’entrée en vigueur de la présente loi.",
+      "text_sha256": "597da7a9ba2680fe063c5fdeed8e9facabd500f3554989f298d6d09904879e95",
+      "md_span": {
+        "start": 108047,
+        "end": 108792
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/05/31/n7/jo",
+          "text": "loi modifiée du 31 mai 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:loi-2018-07-18-a621:2023-09-05--b1750b5c01dfe38398f09b582f438251a64eee863102d3c207f1e8a19dc7362a#art_101",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/art_101/20180801",
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Disposition finale**"
+      ],
+      "article_valid_from": "2018-08-01",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « Loi du 18 juillet 2018 sur la Police grand-ducale ».",
+      "text_sha256": "04a147fbc5a0fb275e3367719422901e73f8e92fe3a20ddf001d8d056a36a4e8",
+      "md_span": {
+        "start": 108876,
+        "end": 109034
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "Loi du 18 juillet 2018"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

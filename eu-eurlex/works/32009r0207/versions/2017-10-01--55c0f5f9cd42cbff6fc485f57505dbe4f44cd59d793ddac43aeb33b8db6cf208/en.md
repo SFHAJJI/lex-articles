@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:32009r0207:2017-10-01--55c0f5f9cd42cbff6fc485f57505dbe4f44cd59d793ddac43aeb33b8db6cf208'
+title: 'Council Regulation (EC) No 207/2009 of 26 February 2009 on the Community trade mark (codif…'
+valid_from: '2017-10-01'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0207-20171001'
+source_sha256: '7e8059530c1e3ad17bdff861f7c13571ad6c629b4bc02b26900a1777f5417f18'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+02009R0207 — EN — 01.10.2017 — 003.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B COUNCIL REGULATION (EC) No 207/2009 of 26 February 2009 on the European Union trade mark (codified version) (Text with EEA relevance) (OJ L 078, 24.3.2009, p.1) repealed by: Official Journal No page date Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 L 154 1 16.6.2017

@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/09/1994 : Loi du 1er septembre 1988 relative à la responsabilité civile de l'Etat et des collectivités publiques.",
+  "valid_from": "1994-09-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1988-09-01-n1/versions/1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3/fr.xml",
+    "sha256": "50868b9bc35d74912583b5ea6e441d9b8d9901f3a8cd03de67f0ed3222503e15",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_1er/19880930",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "L´Etat et les autres personnes morales de droit public répondent, chacun dans le cadre de ses missions de service public, de tout dommage causé par le fonctionnement défectueux de leurs services, tant administratifs que judiciaires, sous réserve de l´autorité de la chose jugée.\n\nToutefois, lorsqu´il serait inéquitable, eu égard à la nature et à la finalité de l´acte générateur du dommage, de laisser le préjudice subi à charge de l´administré, indemnisation est due même en l´absence de preuve d´un fonctionnement défectueux du service, à condition que le dommage soit spécial et exceptionnel et qu´il ne soit pas imputable à une faute de la victime.",
+      "text_sha256": "cdbc7d415442cd7fe68db68724d484c87892e21abf78d8382e0c065202445a80",
+      "md_span": {
+        "start": 705,
+        "end": 1358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_2/19880930",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "L´Etat et les autres personnes morales de droit public sont tenus, chacun dans le cadre de ses missions de service public, de réparer le dommage résultant du fait qu´une personne, agissant soit spontanément, soit à la suite d´une sollicita tion ou d´une réquisition, a collaboré, d´une manière désintéressée, à un service public, à condition qu´en cas de collaboration spontanée, celle-ci ait été commandée par une urgente nécessité.\n\nL´Etat et les autres personnes morales de droit public ne peuvent pas s´exonérer en établissant que le dommage est dû au fait d´un tiers, sans préjudice du droit d´exercer un recours contre ce tiers.",
+      "text_sha256": "300837f8aa813e41e5cad9abb3f813bc2fbf569156e3c3f96d5bfe15292fcd26",
+      "md_span": {
+        "start": 1393,
+        "end": 2027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_3/19880930",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "L´Etat répond du dommage causé, après une évasion ou une permission de sortir, par les majeurs détenus dans un établissement pénitentiaire, par les mineurs placés dans une maison de rééducation publique ou privée ou chez un particulier et par les malades internés dans un hôpital psychiatrique, à condition qu´il existe un lien de causalité entre l´évasion ou la sortie autorisée et le dommage et que le dommage ne soit pas dû à une faute de la victime ou à un cas de force majeure.\n\nL´Etat ne peut pas s´exonérer en établissant que le dommage est dû au fait d´un tiers, sans préjudice du droit d´exercer un recours contre ce tiers.",
+      "text_sha256": "5f8deb0b3cfebf6144d0942b2063724c820d59c1d2d5d3a9b4edd5797c1935c1",
+      "md_span": {
+        "start": 2062,
+        "end": 2694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_4/19940916",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1994-09-16",
+      "text_md": "L'Etat répond du dommage causé par les personnes condamnées qui exécutent un travail d'intérêt général, à condition que le dommage ne soit pas dû à une faute de la victime ou à un cas de force majeure.\n\nL´Etat ne peut pas s´exonérer en établissant que le dommage est dû au fait d´un tiers, sans préjudice du droit d´exercer un recours contre ce tiers.",
+      "text_sha256": "540433dd063807ce0d8f5b03b4add032b945a5e095fe9b5f0fac1cd849b88181",
+      "md_span": {
+        "start": 2729,
+        "end": 3080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_5/19880930",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "L´établissement d´enseignement répond du dommage causé par les élèves pendant le temps qu´ils sont sous la surveillance des enseignants, à l´intérieur ou à l´extérieur de l´établissement.\n\nToutefois, s´il s´agit d´un dommage corporel ou d´un dommage lié à un dommage corporel indemnisables en vertu du Livre II du code des assurances sociales, les dispositions de ce code sont applicables pour la réparation de ces dommages.\n\nL´établissement d´enseignement ne peut pas s´exonérer en établissant que le dommage est dû au fait de l´enseignant ou d´un tiers, sans préjudice de son droit d´exercer un recours contre ces derniers.\n\nDans le cas d´un établissement d´enseignement public, cette responsabilité incombe, selon le cas, à l´Etat ou aux communes.",
+      "text_sha256": "822c08f4c504fa65627e3c46643647134cfb9aebdaa31d1225a824ded385299d",
+      "md_span": {
+        "start": 3115,
+        "end": 3865
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code des assurances sociales"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_6/19880930",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "Les deux derniers alinéas de l´article 1384 du code civil sont modifiés comme suit:",
+      "text_sha256": "ccf5ab7e18a4e4a61846767a21b9a91bdf789a1394e34c1debbc5aed5a03cda9",
+      "md_span": {
+        "start": 3900,
+        "end": 3983
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1988-09-01-n1:1994-09-16--4d7c7c2a3ac88176c14b9e66d978a2c8c4ee45ba3746387e0e6f4b1b912bbad3#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/art_7/19880930",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-09-30",
+      "text_md": "L´article 11 de la loi du 29 juillet 1930 concernant l´étatisation de la police locale est abrogé.",
+      "text_sha256": "c808001dbfb79c383d0561284f38683e6d2194f94dcfbb45f0f93a9a00138120",
+      "md_span": {
+        "start": 4018,
+        "end": 4116
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1930/07/29/n25/jo",
+          "text": "loi du 29 juillet 1930"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

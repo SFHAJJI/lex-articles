@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1030:2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) No 1030/2014 of 29 September 2014 laying down implementing technical standards with regard to the uniform formats and date for the disclosure of the values used to identify global systemically important institutions according to Regulation (EU) No 575/2013",
+  "valid_from": "2014-09-29",
+  "valid_to": "2016-05-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1030/versions/2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c/en.xml",
+    "sha256": "2d670b7185222aeca17a714e8cab0f83be9d5117649ac3179a835ada65a38d04",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1030"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nG-SIIs shall fill out the template set out in the Annex to this Regulation in electronic format as published on the website of the European Banking Authority (EBA). By using that template, G-SIIs shall publicly disclose the values of the indicators used for determining the score of the institutions in accordance with the identification methodology referred to in Article 131 of Directive 2013/36/EU.\n\nG-SIIs shall not be bound to disclose publicly the ancillary data and ancillary indicators.",
+      "text_sha256": "2ae962a051937308f52d9e59815fd451b4587ed8c58a3e3695c950914fd996ea",
+      "md_span": {
+        "start": 913,
+        "end": 1418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nG-SIIs shall publicly disclose the financial year-end information referred to in Article 1 no later than four months after each financial year-end.\n\nRelevant authorities may allow institutions whose financial year-end is 30 June to report indicator values based on their position at 31 December. In any case, the information shall be disclosed no later than 31 July.",
+      "text_sha256": "5ea01b499d1c52907982dfc3fccdd274f91293c805571ac8fc6ede6112895ad6",
+      "md_span": {
+        "start": 1451,
+        "end": 1828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nInstitutions may publicly disclose the values of the indicators specified in the template set out in the Annex to this Regulation in the medium they determine to disclose the information required by Part Eight of Regulation (EU) No 575/2013 in accordance with Article 434 of that Regulation.\n\nWhere the disclosures of the values of the indicators are not included in the medium referred to in the first paragraph, the G-SII shall provide a direct reference to the completed disclosures on the institution's website or to the medium in which they are made available.\n\nWithout undue delay, following the disclosure of that information by the G-SIIs, relevant authorities shall send those completed templates to EBA for centralisation purposes on its website.",
+      "text_sha256": "b89f3a1cf46d7a22c5dea609df1e08825d89fbc83ea104968508ae252c703d76",
+      "md_span": {
+        "start": 1861,
+        "end": 2628
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29--42d3e7bdced2f8efbf53bcee23513a4a384e1cab30a6fa2bd1cda6adc106b73c#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 2661,
+        "end": 2812
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

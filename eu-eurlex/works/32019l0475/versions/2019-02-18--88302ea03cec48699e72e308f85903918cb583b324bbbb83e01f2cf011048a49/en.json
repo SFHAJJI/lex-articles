@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49",
+  "language": "en",
+  "title": "Council Directive (EU) 2019/475 of 18 February 2019 amending Directives 2006/112/EC and 20…",
+  "valid_from": "2019-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l0475/versions/2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49/en.xml",
+    "sha256": "e73ced4f17deb9616a2c50e4d32fd90f585e3498db0ed1493c6920ba3fb5e73c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0475"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Directive 2006/112/EC, Article 6 is amended as follows:\n\n| (1) | in paragraph 1, the following points are added:‘(f)Campione d'Italia;(g)the Italian waters of Lake Lugano.’; |\n| --- | --- |\n| ‘(f) | Campione d'Italia; |\n| (g) | the Italian waters of Lake Lugano.’; |\n\n| (2) | in paragraph 2, points (f) and (g) are deleted. |\n| --- | --- |",
+      "text_sha256": "ab72ac8376652c25e4f2bac4652d965d096978c0ce0ebd1fec9ef48842842a98",
+      "md_span": {
+        "start": 702,
+        "end": 1055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nIn Article 5(3) of Directive 2008/118/EC, points (f) and (g) are deleted.",
+      "text_sha256": "2608a997540be1b470956779c08650274018382e19415934f5377128726c508c",
+      "md_span": {
+        "start": 1088,
+        "end": 1172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. By 31 December 2019, Member States shall adopt and publish the measures necessary to comply with this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those measures from 1 January 2020.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "817ec966253c1cc2d7692cd426f13dd8e4d5d38076de43af06b370c854a23ece",
+      "md_span": {
+        "start": 1205,
+        "end": 1852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "8fa832f5d123a1c8ce2dd61dd7d72df650218c0db35f306406e156d0fd71c020",
+      "md_span": {
+        "start": 1885,
+        "end": 2035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18--88302ea03cec48699e72e308f85903918cb583b324bbbb83e01f2cf011048a49#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "725df0217ed142da14a49015de17b082300380898cb4484ae4b0cb7393a801e0",
+      "md_span": {
+        "start": 2068,
+        "end": 2128
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

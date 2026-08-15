@@ -1,0 +1,216 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/07/2015 : Règlement ministériel du 14 février 2006 déterminant certaines exigences techniques relatives au sang et aux composants sanguins.",
+  "valid_from": "2011-06-13",
+  "valid_to": "2015-07-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rmin-2006-02-14-n3/versions/2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7/fr.xml",
+    "sha256": "56e5d689fdd7981e0eb471239b7e6ec5c4cea9c50fd50f1067715cb1fc9355a8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20110613/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_1er/20110613",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "Aux fins du présent règlement, les définitions de l’annexe I sont applicables.",
+      "text_sha256": "cb2bb9d0ca8f71c49e3eafc4538a142981ec14b310f68fa9c5d54cabf9fa8a4d",
+      "md_span": {
+        "start": 738,
+        "end": 816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_2/20110613",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "L’établissement de transfusion sanguine fournit aux candidats au don de sang ou de composants sanguins les informations figurant à l’annexe II, partie A.",
+      "text_sha256": "6f11bb5180cc44380626081573de4d4bc8f42393998992283d82b2e3f63aeb05",
+      "md_span": {
+        "start": 851,
+        "end": 1004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_3/20110613",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "Lorsqu’il a été convenu de procéder au don de sang ou de composants sanguins, les donneurs fournissent à l’établissement de transfusion sanguine les informations figurant à l’annexe II, partie B.",
+      "text_sha256": "bfba7715d89f8b68924e7564b72fac46eb981e5ea325fd6d6b732a66a4869ad5",
+      "md_span": {
+        "start": 1039,
+        "end": 1234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_4/20110613",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "L’établissement de transfusion sanguine est tenu de s’assurer que les donneurs de sang total et de composants sanguins satisfont aux critères d’admissibilité définis à l’annexe III.",
+      "text_sha256": "0c8833ad21aca0bd7afe97a4dafd92b628e6dc4999e1824dcfc37647a0534da9",
+      "md_span": {
+        "start": 1269,
+        "end": 1450
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_5/20110613",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "L’établissement de transfusion sanguine et les hôpitaux où des transfusions sanguines sont administrées sont tenus d’observer les exigences en matière de conservation, de transport et de distribution du sang et des composants sanguins telles que définies à l’annexe IV.",
+      "text_sha256": "b700523a7166ec9cf587b0e53cb7bc98665f5c6b13ef6c61f05057d09a57d243",
+      "md_span": {
+        "start": 1485,
+        "end": 1754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_6/20110613",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "L’établissement de transfusion sanguine est tenu d’observer les exigences en matière de qualité et de sécurité du sang et des composants sanguins telles que définies à l’annexe V.",
+      "text_sha256": "e5e4beb92b7e9ae795566baa26f4e62bb27d366b29d13ae771afbdda95bb04cc",
+      "md_span": {
+        "start": 1789,
+        "end": 1968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_7/20110613",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "Sans préjudice des dispositions du règlement grand-ducal du 25 janvier 2006 établissant des normes de qualité et de sécurité pour la collecte, le contrôle, la transformation, la conservation, la distribution et la transfusion du sang humain, et des composants sanguins, les prélèvements autologues sont clairement identifiés comme tels et sont séparés des dons homologues de manière à empêcher la transfusion de ces produits à d’autres patients.",
+      "text_sha256": "8f9a5e2f983bb00cccf601b565da73caa7ed1d5958648acd240baad044216c75",
+      "md_span": {
+        "start": 2003,
+        "end": 2448
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/01/25/n10/jo",
+          "text": "règlement grand-ducal du 25 janvier 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_8/20110613",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "L’établissement de transfusion sanguine ainsi que les hôpitaux où des transfusions sanguines sont administrées sont tenus d’observer les dispositions fixant les conditions techniques de la détermination des groupes sanguins ainsi que les précautions qui doivent entourer les transfusions de sang ou de composants sanguins, telles que définies à l’annexe VI.",
+      "text_sha256": "b80a4d2298f0441c4bbc23ab6f2ead5ffd1f1f43b91159ad537a8f793a272ac5",
+      "md_span": {
+        "start": 2483,
+        "end": 2840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_9/20110613",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-03-11",
+      "text_md": "Les contrôles et processus visés aux annexes II à VI doivent être validés.",
+      "text_sha256": "cfa213cbfb871f4037de4c925028d1df3c2f58341ba74e9a13fcd51527a92a53",
+      "md_span": {
+        "start": 2875,
+        "end": 2949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/art_10/20110613",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-06-13",
+      "text_md": "Le présent règlement sera publié au Mémorial avec ses annexes qui en font partie intégrante.",
+      "text_sha256": "cbcf6ac0a6563a936defb212545ccd52d0224d994ec124e6c45c48c8057350c3",
+      "md_span": {
+        "start": 2986,
+        "end": 3078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13--fe1974e5821d0e7505bd8ac8d259ba96a24d18e6041ddc16322f925beaa843a7#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IDéfinitions(visées à l’article 1er)",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. «Prélèvement autologue»: sang et composants sanguins prélevés chez un individu et destinés uniquement à une transfusion autologue différée au profit du même individu ou dont les applications humaines sont destinées au même individu.\n2. «Don homologue»: sang et composants sanguins prélevés chez un individu et destinés à une transfusion au profit d’un autre individu, ou dont les applications humaines sont destinées à un autre individu.\n3. «Validation»: établissement de preuves objectives démontrant que les exigences particulières relatives à une utilisation spécifique prévue peuvent être satisfaites en permanence.\n4. «Sang total»: don simple de sang.\n5. «Cryoconservation»: technique permettant de prolonger la durée de conservation des composants cellulaires par congélation.\n6. «Plasma»: partie liquide du sang, dans laquelle les cellules sont en suspension. Le plasma peut être séparé de la partie cellulaire d’un prélèvement de sang total pour un usage thérapeutique sous la forme de plasma frais congelé ou en vue d’une transformation ultérieure en cryoprécipité et en plasma dépourvu de cryoprécipité à des fins transfusionnelles. Il peut être utilisé pour la fabrication de médicaments dérivés de sang humain ou de plasma humain ou servir dans la préparation de mélanges de concentrés de plaquettes ou de mélanges de concentrés de plaquettes déleucocytés. Il peut également servir à la remise en suspension de préparations de globules rouges pour une exsanguino-transfusion ou une transfusion périnatale.\n7. «Lavage»: procédure d’élimination du plasma ou de la solution de conservation des produits cellulaires par centrifugation, décantage du liquide surnageant des cellules et ajout d’un liquide de suspension isotonique, qui est, à son tour, généralement éliminé et remplacé à la suite d’une nouvelle centrifugation de la suspension. Le processus de centrifugation, décantage et remplacement peut être répété à plusieurs reprises.\n8. «Solution additive de conservation»: solution formulée spécifiquement pour conserver les propriétés intéressantes des composants cellulaires pendant leur durée de conservation.\n9. «Couche leuco-plaquettaire»: composant sanguin préparé par centrifugation d’une unité de sang total et contenant la plupart de ses leucocytes et de ses plaquettes.\n10. «Globules rouges déleucocytés avec solution additive de conservation»: globules rouges provenant d’un don simple de sang total, dont une proportion élevée du plasma est retirée et dont les leucocytes sont retirés en grandes parties. Une solution nutritive/de conservation y est ajoutée.\n11. «Globules rouges d’aphérèse»: globules rouges provenant d’un don de globules rouges d’aphérèse.\n12. «Aphérèse»: processus permettant d’obtenir un ou plusieurs composants sanguins au moyen d’une transformation mécanique du sang total dans le cadre de laquelle les composants sanguins résiduels sont restitués au donneur pendant ou à l’issue du processus.\n13. «Plaquettes d’aphérèse déleucocytées»: suspension concentrée de plaquettes sanguines, obtenue par aphérèse, et dont les leucocytes ont été éliminés en grandes parties.\n14. «Mélange de plaquettes standards, déleucocyté»: suspension concentrée de plaquettes sanguines, obtenue par transformation d’unités de sang total et mélange des plaquettes obtenues pendant ou après la séparation, et dont les leucocytes ont été retirés en grandes parties.\n15. «Plasma frais congelé»: plasma surnageant séparé d’un don de sang total ou plasma prélevé par aphérèse, congelé, éventuellement soumis à une étape de viro-atténuation et stocké, pour administration en tant que plasma thérapeutique.\n16. «Granulocytes d’aphérèse»: suspension concentrée de granulocytes, obtenue par aphérèse.\n17. «Maîtrise statistique des processus»: méthode de contrôle de la qualité d’un produit ou d’un processus, fondée sur un système d’analyse d’un échantillon de taille appropriée sans devoir procéder au mesurage de chaque produit du processus.\n18. «NAT»: nucleic acid testing, technique de biologie moléculaire par amplification génomique, par exemple PCR (polymerase chain rection).\n\n***ANNEXE II***\n\n**Exigences en matière d’information**\n\n(visées aux articles 2 et 3)\n\nPARTIE A.\n\n**Informations à fournir aux candidats au don de sang ou de composants sanguins**\n\n1. Des données didactiques précises, compréhensibles par le grand public, sur les caractéristiques essentielles du sang, sur la procédure du don de sang, sur les produits dérivés des dons de sang total et d’aphérèse, et sur tous les bénéfices importants apportés aux patients.\n2. Pour les dons homologues: l’auto-exclusion, l’exclusion temporaire et permanente et les raisons de s’abstenir de donner du sang ou des composants sanguins lorsqu’il y a un risque pour le receveur. Pour les prélèvements autologues: l’éventualité d’une exclusion et les raisons pour lesquelles la procédure de don ne pourrait être exécutée en cas de risque pour la santé de l’individu, en sa qualité de donneur ou de receveur du sang ou des composants sanguins autologue(s).\n3. Des informations sur la protection des données personnelles: aucune divulgation non autorisée de l’identité du donneur, des informations relatives à sa santé, ni des résultats des examens pratiqués.\n4. Les raisons pour lesquelles le donneur est exclu, qui tiennent à la protection de sa santé.\n5. Des informations spécifiques sur la nature des procédures que comporte le don de sang, homologue ou autologue, et les risques respectifs qui y sont liés. En ce qui concerne les prélèvements autologues, l’éventualité que le sang et les composants sanguins autologues ne puissent pas suffire aux exigences de la transfusion prévue.\n6. La mention de la possibilité qu’ont les candidats de renoncer au don avant le début de celui-ci, ou de la possibilité de se retirer ou de s’auto-exclure à tout moment au cours du processus de don sans gêne, ni embarras.\n7. Les raisons pour lesquelles il importe que les donneurs informent l’établissement de transfusion sanguine de tout événement ultérieur pouvant rendre tout don antérieur impropre à la transfusion.\n8. La mention de la responsabilité de l’établissement de transfusion sanguine d’informer le donneur, par un mécanisme approprié, si les résultats des tests révèlent une anomalie pouvant avoir des conséquences pour le donneur.\n9. Les raisons pour lesquelles le sang et les composants sanguins autologues non utilisés seront écartés et ne pourront servir pour la transfusion d’autres patients.\n10. La mention que les résultats positifs confirmés des tests de dépistage des marqueurs des virus, tels que le VIH, les virus de l’hépatite B et C ou d’autres agents microbiologiques transmissibles par le sang entraîneront l’exclusion du donneur et la destruction de l’unité prélevée.\n11. La mention de la possibilité qu’a le donneur de poser des questions à tout moment.\n\nPARTIE B.\n\n**Informations que l’établissement de transfusion sanguine doit obtenir des donneurs à chaque don**\n\n1. Identification du donneur Informations personnelles permettant l’identification unique du donneur, sans risque d’erreur possible, et comportant ses coordonnées.\n2. Etat de santé et antécédents médicaux du donneur Etat de santé et antécédents médicaux, obtenus au moyen d’un questionnaire et d’un entretien individuel avec un professionnel du secteur médical formé à cet effet, qui comprennent tous les facteurs utiles susceptibles de contribuer à identifier et à exclure les personnes dont les dons pourraient présenter un risque pour leur propre santé ou pour celle d’autres personnes, par exemple le risque de transmission de maladies.\n3. Signature du donneur Signature du donneur sur le questionnaire du donneur, qui sera contresigné par le membre du personnel médical qui a obtenu les renseignements relatifs à l’état de santé et aux antécédents médicaux, confirmant que le donneur: 1. a lu et compris les informations didactiques fournies;\n2. a eu la possibilité de poser des questions;\n3. a répondu de manière satisfaisante aux questions qui lui ont été posées;\n4. a donné son consentement éclairé pour la poursuite du processus de don;\n5. a été informé, en cas de prélèvement autologue, de l’éventualité que le sang et les composants sanguins autologues ne puissent pas suffire aux exigences de la transfusion prévue, et\n6. affirme que tous les renseignements fournis par lui sont, à sa connaissance, exacts.\n\n***ANNEXE III ***\n\n**Critères d’admissibilité pour les donneurs de sang total ou de composants sanguins**\n\n(visés à l’article 4)\n\n**1. Critères d’acceptation des donneurs de sang total ou de composants sanguins**\n\nDans certains cas exceptionnels, des dons individuels provenant de personnes ne correspondant pas aux critères ci-dessous peuvent être acceptés par un professionnel de la santé responsable au sein de l’établissement de transfusion sanguine. Tous ces cas doivent être clairement documentés et être soumis aux dispositions de contrôle de qualité applicables en la matière.\n\nLes critères ci-dessous ne s’appliquent pas aux prélèvements autologues.\n\n**1.1. Age et poids des donneurs**\n\n| **Age** | de 18 à 65 ans |  |\n| --- | --- | --- |\n|  | de 17 à 18 ans | si considéré juridiquement comme majeur, ou moyennant le consentement écrit d’un parent ou d’un tuteur légal selon les termes de la loi |\n|  | premier don après 60 ans | à la discrétion du médecin de l’établissement de transfusion sanguine |\n|  | plus de 65 ans | moyennant l’autorisation du médecin de l’établissement de transfusion sanguine, renouvelée chaque année |\n\n| **Poids** | ≥ 50 kg pour les donneurs de sang total ou de cellules sanguines par aphérèse |\n| --- | --- |\n|  | 45-49 kg pour les donneurs de plasma par aphérèse, moyennant l’autorisation du médecin de l’établissement de transfusion sanguine, renouvelée chaque année |\n\n**1.2. Taux d’hémoglobine du sang du donneur**\n\n| **Hémoglobine** | pour les femmes ≥ 125 g/l | pour les hommes ≥ 135 g/l | pour les donneurs homologues de sang total et de cellules sanguines |\n| --- | --- | --- | --- |\n|  | pour les femmes ≥ 115 g/l | pour les hommes ≥ 125 g/l | pour les donneurs de plasma par aphérèse, moyennant l’autorisation du médecin de l’établissement de transfusion sanguine, renouvelée chaque année |\n\n**1.3. Taux de protéines du sang du donneur**\n\n| **Protéines** | ≥ 60 g/l | Le dosage des protéines doit être effectué au moins une fois par an pour les donneurs de plasma par aphérèse si le volume annuel prélevé dépasse 7,5 litres de plasma |\n| --- | --- | --- |\n\n**1.4. Taux de plaquettes du sang du donneur**\n\n| **Plaquettes** | nombre de plaquettes supérieur ou égal à 150 x 109/l | nombre requis, pour les donneurs de plaquettes d’aphérèse |\n| --- | --- | --- |\n\n**1.5. Délai entre deux dons de sang total**\n\n|  | Femmes | hommes |\n| --- | --- | --- |\n| sang total | ≥ 2 mois | ≥ 2 mois |\n\n**1.6. Volume des dons de sang total**\n\n|  | Femmes | hommes |\n| --- | --- | --- |\n| sang total | ≤ 500 ml +/- 10% | ≤ 500 ml +/- 10% |\n\n**2. Critères d’exclusion des donneurs de sang total et de composants sanguins**\n\n***Lorsque le sang est exclusivement utilisé pour le plasma destiné au fractionnement, les tests et périodes d’exclusion indiqués par un astérisque (*) ne sont pas applicables.***\n\n**2.1. Critères d’exclusion permanente pour les candidats à des dons homologues**\n\n| ***Maladies cardio-vasculaires*** | Candidats au don ayant une maladie cardio-vasculaire grave ou présentant des antécédents à cet égard, sauf les cas d’anomalies congénitales avec guérison complète |\n| --- | --- |\n| ***Maladies du système nerveux central*** | Antécédents d’une maladie grave du système nerveux central |\n| ***Tendance anormale aux hémorragies*** | Candidats au don présentant des antécédents d’une coagulopathie |\n| ***Episodes répétés de syncope, ou antécédents de convulsions*** | Autres que les convulsions infantiles ou après que trois ans au minimum sans convulsions se sont écoulés depuis la date de la dernière prise de médicaments antiépileptiques |\n| ***Maladies des systèmes gastro-intestinal, génito-urinaire, hématologique, immunologique, métabolique, rénal ou respiratoire*** | Candidats au don présentant une maladie grave active, chronique ou à rechute |\n| ***Diabète*** | Si le sujet est traité à l’insuline |\n| ***Maladies infectieuses*** | Hépatite B, à l’exception des personnes AgHBs négatives dont l’immunité est démontrée |\n| Hépatite C |  |\n| VIH 1/2 |  |\n| HTLV I/II |  |\n| Babésiose(*) |  |\n| Kala-azar (leishmaniose viscérale)(*) |  |\n| Trypanosomiase américaine (maladie de Chagas) |  |\n| ***Maladies malignes*** | A l’exception d’un cancer in situ avec guérison complète |\n| ***Encéphalopathies spongiformes transmissibles (EST), par exemple maladie de Creutzfeldt-Jakob, variante de la maladie de Creutzfeldt-Jakob*** | Sujets ayant des antécédents familiaux qui les exposent au risque de développer une EST, ou sujets qui ont reçu des greffons de dure-mère ou de cornée ou qui ont été traités par le passé avec des extraits de glandes hypophysaires d’origine humaine. En ce qui concerne la variante de la maladie de Creutzfeldt-Jakob, des mesures de précaution supplémentaires peuvent être recommandées |\n| ***Consommation de drogue par voie intraveineuse (IV) ou intramusculaire (IM)*** | Tout antécédent de consommation de drogue par voie IV ou IM sans prescription, y compris des hormones ou des stéroïdes anabolisants |\n| ***Receveurs d’une xénogreffe*** | Candidats au don ayant reçu une greffe d’origine non-humaine |\n| ***Comportement sexuel*** | Sujets dont le comportement sexuel les expose au risque élevé de contracter des maladies infectieuses graves transmissibles par le sang |\n\n**2.2. Critères d’exclusion temporaire pour les candidats à des dons homologues**\n\n*2.2.1. Infections*\n\n**Durée de la période d’exclusion:**\n\nAprès une maladie infectieuse, les candidats au don seront exclus pour une durée de deux semaines au minimum après constatation clinique de la guérison complète.\n\nCependant, les périodes d’exclusion suivantes s’appliquent aux infections figurant dans le tableau ci-dessous:\n\n| Brucellose(*) | *2* ans après la date de la guérison complète |\n| --- | --- |\n| Ostéomyélite | *2* ans après que la personne a été déclarée guérie |\n| Fièvre Q(*) | *2* ans après la date à laquelle la personne a été déclarée guérie |\n| Syphilis(*) | *1* an après la date à laquelle la personne a été déclarée guérie |\n| Toxoplasmose(*) | *6* mois après la date à laquelle la personne a été déclarée complètement guérie |\n| Tuberculose | *2* ans après la date à laquelle la personne a été déclarée guérie |\n| Rhumatisme articulaire aigu | *2* ans après la date de disparition des symptômes, en l’absence de preuve de maladie cardiaque chronique |\n| Fièvre supérieure à 38 °C | *2* semaines après la date de disparition des symptômes |\n| Maladies de type grippal | *2* semaines après disparition des symptômes |\n| Paludisme(*) |  |\n| Personnes qui ont vécu dans des régions à paludisme endémique pendant leurs cinq premières années de vie | *3* ans après la fin du dernier séjour dans une région endémique, pour autant que le sujet ne présente pas de symptômes; cette période peut être réduite à *4* mois si, lors de chaque don, un test immunologique ou génomique moléculaire est négatif |\n| Personnes ayant des antécédents de paludisme | *3* ans après la fin du traitement et en l’absence de symptômes. Passé cette période, les dons sont acceptés uniquement si un test immunologique ou génomique moléculaire est négatif |\n| Visiteurs asymptomatiques dans les régions endémiques | *6* mois après avoir quitté la région endémique, ou moins si un test immunologique ou génomique moléculaire est négatif |\n| Personnes ayant des antécédents de maladie fébrile non diagnostiquée pendant un séjour dans une région endémique ou dans les six mois suivants | *3* ans après la disparition des symptômes; cette période peut être réduite à *4* mois si un test immunologique ou génomique moléculaire est négatif |\n| Virus du Nil occidental (VNO)(*) | *28* jours après avoir quitté une région présentant des cas actuels de transmission du VNO à l’homme |\n\n*2.2.2. Exposition au risque d’infection transmissible par transfusion*\n\n| examen endoscopique au moyen d’instruments souples projection de sang sur une muqueuse ou piqûre avec une aiguilletransfusion de composants sanguinsgreffe de tissus ou de cellules d’origine humaine opération chirurgicale importantetatouage ou «body piercing»acupuncture (si elle n’a pas été pratiquée par un praticien qualifié et au moyen d’aiguilles stériles à usage unique) personnes à risque en raison de contacts intimes avec une personne présentant une hépatite B | Exclusion pour *6* mois, ou pour *4* mois ou moins si le test NAT pour l’hépatite C est négatif |\n| --- | --- |\n| Individus dont le comportement sexuel ou l’activité professionnelle les expose au risque de contracter des maladies infectieuses graves transmissibles par le sang. | Exclusion après la fin du comportement à risque pendant une période dont la durée dépend de la maladie en question et de la disponibilité de tests adéquats |\n\n*2.2.3 Vaccination*\n\n| Virus ou bactéries atténués | *4* semaines |\n| --- | --- |\n| Vaccins viraux, bactériens ou rickettsiens tués ou inactivés | Pas d’exclusion si l’état est satisfaisant |\n| Anatoxines | Pas d’exclusion si l’état est satisfaisant |\n| Hépatite A ou B | Pas d’exclusion si l’état est satisfaisant et en l’absence d’exposition au virus |\n| Rage | Pas d’exclusion si l’état est satisfaisant et en l’absence d’exposition au virus. Exclusion d’un an si la vaccination est administrée après l’exposition au virus |\n| Encéphalite transmise par les tiques | Pas d’exclusion si l’état est satisfaisant et en l’absence d’exposition au virus |\n\n*2.2.4 Autres exclusions temporaires*\n\n| Grossesse | *6* mois après l’accouchement ou la fin de la grossesse, sauf dans certains cas exceptionnels et à la discrétion d’un médecin |\n| --- | --- |\n| Opération chirurgicale mineure | *1* semaine |\n| Traitement dentaire | Traitement mineur par un dentiste ou un hygiéniste bucco-dentaire: exclusion jusqu’au lendemain (*NB:* les extractions, les obturations radiculaires et traitements analogues sont considérés comme des opérations chirurgicales mineures) |\n| Médication | En fonction de la nature du médicament prescrit, de son mode d’action et de la maladie traitée |\n\n**2.3. Critères d’exclusion pour les situations épidémiologiques particulières**\n\n| Situations épidémiologiques particulières (par exemple, foyers de maladies) | Exclusion en fonction de la situation épidémiologique. (Ces exclusions devraient être notifiées par l’autorité compétente à la Commission en vue d’une action à l’échelle communautaire) |\n| --- | --- |\n\n***ANNEXE IIIbis***\n\n**Critères d’exclusion pour les candidats à des prélèvements autologues**\n\n| Maladie cardiaque grave | En fonction du contexte clinique du prélèvement de sang |\n| --- | --- |\n| Personnes présentant au moment du don ou présentant des antécédents de:hépatite B, à l’exception des personnes AgHBs négatives dont l’immunité est démontréehépatite CVIH 1/2HTLV I/II | L’autorité compétente peut toutefois établir des dispositions spécifiques pour les prélèvements autologues sur ces personnes |\n| Infection bactérienne active |  |\n\n***ANNEXE IV ***\n\n**Conditions de conservation, de transport et de distribution du sang et des composants sanguins**\n\n(visées à l’article 5)\n\n1. **Conservation**\n\n1.1. **Conservation sous forme liquide**\n\n| **Composant** | **Température de conservation** | **Durée maximale de conservation** |\n| --- | --- | --- |\n| Préparations de globules rouges | + 2° C à + 6° C | de **28** à **49** jours selon les procédures appliquées pour la collecte, la préparation et la conservation. |\n| Préparations de plaquettes | + 20° C à + 24° C | **5** jours; conservation jusqu’à **7** jours si elle est conjuguée à un système de détection ou de réduction de la contamination bactérienne |\n| Préparations de granulocytes | + 20° C à + 24° C | **24** heures |\n\n1.2. **Cryoconservation**\n\n| **Composant** | **Conditions et durée de conservation** |\n| --- | --- |\n| Globules rouges | jusqu’à *30* ans selon les procédures appliquées pour la collecte, la préparation et la conservation. |\n| Plaquettes | jusqu’à *24* mois selon les procédures appliquées pour la collecte, la préparation et la conservation. |\n| Plasma et cryoprécipité | jusqu’à *36* mois selon les procédures appliquées pour la collecte, la préparation et la conservation. |\n\n***Les concentrés de globules rouges et les concentrés de plaquettes cryoconservés doivent être remis en suspension dans un milieu adéquat après décongélation. La période de conservation autorisée après la décongélation sera fonction de la méthode appliquée.***\n\n2. **Transport et distribution**\n\nLe transport et la distribution du sang et des composants sanguins à toutes les étapes de la chaîne transfusionnelle doivent s’effectuer dans des conditions garantissant l’intégrité du produit.\n\n3. **Exigences supplémentaires concernant les prélèvements autologues **\n\n3.1. Le sang et les composants sanguins autologues doivent être clairement identifiés comme tels et être conservés, transportés et distribués séparément du sang et des composants sanguins homologues.\n\n3.2. Le sang et les composants sanguins autologues doivent être étiquetés conformément aux dispositions applicables en la matière. L’étiquette doit en outre comporter l’identification du donneur et l’avertissement «POUR TRANSFUSION AUTOLOGUE EXCLUSIVEMENT».\n\n***ANNEXE V***\n\n**Exigences en matière de qualité et de sécurité du sang et des composants sanguins**\n\n(visées à l’article 6)\n\n**1. Les composants sanguins**\n\n| 1. **Préparations de globules rouges** | Les composants énumérés aux points 1.1 à 1.2 peuvent faire l’objet d’une transformation ultérieure au sein des établissements de transfusion sanguine et doivent être étiquetés en conséquence |\n| --- | --- |\n| 1.1 | Globules rouges déleucocytés avec solution additive de conservation |\n| 1.2 | Globules rouges d’aphérèse |\n| 2. **Préparations de plaquettes** | Les composants énumérés aux points 2.1 à 2.2 peuvent faire l’objet d’une transformation ultérieure au sein des établissements de transfusion sanguine et doivent être étiquetés en conséquence. |\n| 2.1 | Plaquettes d’aphérèse déleucocytés |\n| 2.2 | Mélange de plaquettes issues de sang total, déleucocyté |\n| 3. **Préparations de plasma** | Les composants énumérés au point 3.1 peuvent faire l’objet d’une transformation ultérieure au sein des établissements de transfusion sanguine et doivent être étiquetés en conséquence |\n| 3.1 | Plasma frais congelé |\n| 4. **Préparations de granulocytes** | Les composants énumérés au point 4.1 peuvent faire l’objet d’une transformation ultérieure au sein des établissements de transfusion sanguine et doivent être étiquetés en conséquence |\n| 4.1 | Granulocytes d’aphérèse |\n| 5. **Nouveaux composants** | Les exigences en matière de qualité et de sécurité des nouveaux composants sanguins doivent être réglementées par l’autorité nationale compétente. Les nouveaux composants doivent être notifiés à la Commission européenne en vue d’une action à l’échelle communautaire |\n\n**2. Exigences relatives au contrôle de la qualité du sang et des composants sanguins**\n\n2.1. Le sang et les composants sanguins doivent être soumis aux mesures de la qualité technique précisées ci-dessous et être conformes aux résultats acceptables.\n\n2.2. Le processus de collecte et de préparation doit faire l’objet d’un contrôle bactériologique adéquat.\n\n2.3. L’autorité compétente doit prendre toutes les mesures qui s’imposent pour garantir que toutes les importations de sang et de produits sanguins de pays tiers respectent toutes les dispositions réglementaires applicables en la matière, notamment les exigences de qualité et de sécurité, y compris lorsqu’ils sont utilisés comme matière première pour la fabrication de spécialités pharmaceutiques dérivées de sang humain ou de plasma humain.\n\n2.4. En ce qui concerne les prélèvements autologues, les mesures marquées d’un astérisque (*) sont simplement recommandées. Toutes les autres dispositions applicables en relation avec la qualité et la sécurité transfusionnelles établies pour les prélèvements et composants sanguins homologues sont à respecter par l’établissement de transfusion sanguine et les hôpitaux qui entreprennent des activités liées aux dons autologues (mis à part les critères d’exclusion applicables aux donneurs homologues de sang total et de composants sanguins).\n\n| **Composant ** | **Mesures de la qualité requises** | **Résultats acceptables des mesures de la qualité***(N.B. La fréquence d’échantillonnage requise pour la totalité des mesures est déterminée sur la base du contrôle statistique des processus) * |\n| --- | --- | --- |\n| Globules rouges déleucocytés avec solution additive de conservation | Volume | Conforme aux critères de conservation garantissant le respect des spécifications relatives à l’hémoglobine et à l’hémolyse |\n| Hémoglobine (*) | 40 g par unité au minimum |  |\n| Taux de leucocytes | Moins de 1 x 106 par unité |  |\n| Hémolyse | Moins de 0,8% de la masse globulaire à la fin de la durée de conservation |  |\n| Globules rouges d’aphérèse | Volume | Conforme aux critères de conservation garantissant le respect des spécifications relatives à l’hémoglobine et à l’hémolyse |\n| Hémoglobine (*) | 40 g par unité au minimum |  |\n| Hémolyse | Moins de 0,8 % de la masse globulaire à la fin de la durée de conservation |  |\n| Plaquettes d’aphérèse déleucocytées | Volume | Conforme aux critères de conservation garantissant le respect des spécifications relatives au pH |\n| Taux de plaquettes | Le taux de plaquettes peut varier pour chaque don dans les limites conformes aux conditions validées de préparation et de conservation |  |\n| Taux de leucocytes | Moins de 1 x 106 par unité |  |\n| pH | 6,4 au minimum corrigé à 22 °C à la fin de la durée de conservation |  |\n| Mélange de plaquettes standards, déleucocyté | Volume | Conforme aux critères de conservation garantissant le respect des spécifications relatives au pH |\n| Taux de plaquettes | Le taux de plaquettes peut varier pour chaque mélange dans les limites conformes aux conditions validées de préparation et de conservation |  |\n| Taux de leucocytes | Moins de 1 x 106 par unité |  |\n| pH | 6,4 au minimum corrigé à 22 °C à la fin de la durée de conservation |  |\n| Plasma frais congelé | Volume | Volume indiqué +/- 10% |\n| Facteur VIIIc (*) | Moyenne (après congélation et décongélation): 70% ou plus de la valeur de l’unité de plasma fraîchement prélevée |  |\n| Protéines totales (*) | 50 g/l au minimum |  |\n| Taux de cellules résiduelles (*) | Globules rouges: moins de 6,0 x 109/l Leucocytes: moins de 0,1 x 109/l Plaquettes: moins de 50 x 109/l |  |\n| Granulocytes d’aphérèse | Volume | Moins de 500 ml |\n| Nombre de granulocytes | Supérieur à 1 x 1010 granulocytes par unité |  |\n\n***ANNEXE VI***\n\n**Exigences en matière de groupage sanguin et précautions à prendre dans le cadre de la transfusion sanguine**\n\n**Détermination du groupe sanguin**\n\nLa détermination du groupe sanguin se fait au moyen des méthodes suivantes:\n\n1. Les résultats de toutes ces épreuves doivent être concordants.\n2. Une réaction témoin où l’antisérum anti-D est remplacé par un milieu inerte doit rester négative. Si cette réaction est positive, le typage du facteur Rhésus est sans valeur. Ce milieu inerte est avantageusement remplacé par un milieu identique à celui du réactif anti-D utilisé, mais ne contenant pas d’anticorps anti-D. Le typage du facteur D doit être complété par la recherche de l’antigène Du pour tous les sangs Rhésus D-négatifs.\n\n**Précautions à prendre avant la transfusion**\n\nLa transfusion sanguine ne peut être exécutée qu’après que les opérations suivantes ont été effectuées:\n\n1. l’identification du receveur et des échantillons qui sont prélevés sur lui doit se faire de manière à exclure toute erreur;\n2. la détermination des groupes ABO et Rh standard du receveur doit se faire par les méthodes spécifiées ci-dessus;\n3. 1. le test sérologique de compatibilité («crossmatch»), comportant au minimum une épreuve de compatibilité entre le sérum du receveur et les globules rouges du donneur suivant des méthodes scientifiquement reconnues. Cette épreuve comprend obligatoirement le test à l’antiglobuline (test de Coombs indirect);\n2. le «type and screen» comprenant à côté du groupage sanguin une recherche d’anticorps irréguliers avec des cellules-tests adéquates; en l’absence d’anticorps irrégulier(s) chez le receveur, la transfusion sanguine peut être entreprise sans avoir recours au «crossmatch»;\n3. le «crossmatch électronique» ou «computer crossmatch» consistant à effectuer la distribution de produits sanguins sécurisée par des programmes informatiques validés et à garantir une administration sûre des produits sanguins compatibles par la vérification de données électroniques du donneur et du receveur.\n4. un ultime contrôle au lit du receveur («bedside test»), se limitant à la simple vérification par sérums-tests des groupes du donneur et du receveur pour le système ABO, doit se faire juste avant l’administration des concentrés de globules rouges.",
+      "text_sha256": "41d7f2b85f1394ccdf7b36823f9001c80c00f6f8c8c3d952c3138450a9237810",
+      "md_span": {
+        "start": 3156,
+        "end": 32414
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

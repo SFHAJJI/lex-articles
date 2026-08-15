@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020d1071:2020-05-18--c0c0cdde99343d4ce824e6fc808c3b80b05db50096746f5015b7ad1add7522b7",
+  "language": "en",
+  "title": "Commission Delegated Decision (EU) 2020/1071 of 18 May 2020 amending Directive 2003/87/EC",
+  "valid_from": "2020-05-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020d1071/versions/2020-05-18--c0c0cdde99343d4ce824e6fc808c3b80b05db50096746f5015b7ad1add7522b7/en.xml",
+    "sha256": "54203dfd9eb755f9486ee5cb743155b9f71e79ead6c8a5a394faf91e70823769",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020D1071"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020d1071:2020-05-18--c0c0cdde99343d4ce824e6fc808c3b80b05db50096746f5015b7ad1add7522b7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe second paragraph of the entry ‘Aviation’ of column ‘Activities’ of the table of Annex I to Directive 2003/87/EC is amended as follows:\n\n| (1) | the second paragraph of point (j) is replaced by the following: ‘Flights referred to in point (l) or performed exclusively for the transport, on official mission, of a reigning Monarch and his immediate family; Heads of State, Heads of Government and Government Ministers, of a Member State may not be excluded under this point;’; |\n| --- | --- |\n\n| (2) | point (k) is replaced by the following:‘(k)from 1 January 2013 to 31 December 2030, flights which, but for this point, would fall within this activity, performed by a non-commercial aircraft operator operating flights with total annual emissions lower than 1 000 tonnes per year (including emissions from flights referred to in point (l));’; |\n| --- | --- |\n| ‘(k) | from 1 January 2013 to 31 December 2030, flights which, but for this point, would fall within this activity, performed by a non-commercial aircraft operator operating flights with total annual emissions lower than 1 000 tonnes per year (including emissions from flights referred to in point (l));’; |\n\n| (3) | the following point (l) is added:‘(l)flights from aerodromes situated in Switzerland to aerodromes situated in the EEA.’. |\n| --- | --- |\n| ‘(l) | flights from aerodromes situated in Switzerland to aerodromes situated in the EEA.’. |",
+      "text_sha256": "db03b5929bba5df45f2b965128949e85094cc2f61c83635966ef1c4d00bfff0f",
+      "md_span": {
+        "start": 700,
+        "end": 2125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020d1071:2020-05-18--c0c0cdde99343d4ce824e6fc808c3b80b05db50096746f5015b7ad1add7522b7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2020.",
+      "text_sha256": "ff89fe978cbac7539527015c42cdfccd5aeef00f0f05e630d96c20da33ba218e",
+      "md_span": {
+        "start": 2158,
+        "end": 2334
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

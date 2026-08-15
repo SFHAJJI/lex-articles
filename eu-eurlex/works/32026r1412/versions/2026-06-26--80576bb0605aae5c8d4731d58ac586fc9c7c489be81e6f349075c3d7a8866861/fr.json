@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r1412:2026-06-26--80576bb0605aae5c8d4731d58ac586fc9c7c489be81e6f349075c3d7a8866861",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/1412 of 26\u00A0June 2026 determining revised benchmark values for free allocation of emission allowances for the period from 2026 to 2030 pursuant to Article\u00A010a(2) of Directive\u00A02003/87/EC",
+  "valid_from": "2026-06-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r1412/versions/2026-06-26--80576bb0605aae5c8d4731d58ac586fc9c7c489be81e6f349075c3d7a8866861/fr.xml",
+    "sha256": "2f65e3029285f1d5cd0377f6278727fa5810fc560ca4e4e120b7ed7030fbe5f2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1412"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r1412:2026-06-26--80576bb0605aae5c8d4731d58ac586fc9c7c489be81e6f349075c3d7a8866861#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes valeurs révisées des référentiels énumérées à l’annexe s’appliquent à l’allocation harmonisée de quotas d’émission à titre gratuit pour la période allant de 2026 à 2030.",
+      "text_sha256": "42bf062983ae018443e6e16d239b7ea3ade9f0b2007d94d3f3a5795dfbcdd36f",
+      "md_span": {
+        "start": 840,
+        "end": 1030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r1412:2026-06-26--80576bb0605aae5c8d4731d58ac586fc9c7c489be81e6f349075c3d7a8866861#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "12cf78a3c921d990d5ec149b06cbfa703916567f0fda2e6dc3c14301fbc536be",
+      "md_span": {
+        "start": 1063,
+        "end": 1194
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

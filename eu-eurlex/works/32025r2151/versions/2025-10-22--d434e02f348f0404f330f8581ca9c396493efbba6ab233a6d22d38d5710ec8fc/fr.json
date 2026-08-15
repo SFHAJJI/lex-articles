@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2151:2025-10-22--d434e02f348f0404f330f8581ca9c396493efbba6ab233a6d22d38d5710ec8fc",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/2151 of 22\u00A0October 2025 amending Directive\u00A02014/23/EU",
+  "valid_from": "2025-10-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2151/versions/2025-10-22--d434e02f348f0404f330f8581ca9c396493efbba6ab233a6d22d38d5710ec8fc/fr.xml",
+    "sha256": "7b7873211f8bc8d62da8774a1277841decc84db445d70983bb97aa4c75395e45",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2151"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2151:2025-10-22--d434e02f348f0404f330f8581ca9c396493efbba6ab233a6d22d38d5710ec8fc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’article 8, paragraphe 1, de la directive 2014/23/UE, la mention «5 538 000 EUR» est remplacée par «5 404 000 EUR».",
+      "text_sha256": "56788e0d1fba90b27185637b136feb3e05167f4e34ed95087ea234899f3d1998",
+      "md_span": {
+        "start": 706,
+        "end": 841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2151:2025-10-22--d434e02f348f0404f330f8581ca9c396493efbba6ab233a6d22d38d5710ec8fc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2026.",
+      "text_sha256": "119ee776a68f77b15e2787fa69575805ff124e4b2c115eeca122ced6dfd1a73a",
+      "md_span": {
+        "start": 874,
+        "end": 1064
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

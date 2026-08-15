@@ -1,0 +1,2788 @@
+---
+lex_id: 'eu-eurlex:32024l1788:2024-06-13--f522471ad0a19cd1d50bbffb8c1c7988b244f95acc6f1f123f298ad7e9c3c637'
+title: 'Directive (EU) 2024/1788'
+valid_from: '2024-06-13'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1788'
+source_sha256: '966d7415350a8acf35da081c04cf37af42313b816af4f9f96933daa64439b6a9'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+1. This Directive establishes a common framework for the decarbonisation of the markets for natural gas and hydrogen, in order to contribute to the achievement of the Union’s climate and energy targets.
+
+2. This Directive establishes common rules for the transmission, distribution, supply and storage of natural gas using the natural gas system, and consumer protection provisions, with a view to creating an integrated, competitive and transparent market for natural gas in the Union. It lays down the rules relating to the organisation and functioning of that sector, access to the market, the criteria and procedures applicable to the granting of authorisations for transmission, distribution, supply and storage of natural gas using the natural gas system and the operation of that system.
+
+3. This Directive establishes common rules for the transport, supply and storage of natural gas and the transition of the natural gas system towards an integrated and highly efficient system based on renewable gas and low-carbon gas.
+
+4. This Directive establishes common rules for the transport, supply and storage of hydrogen using the hydrogen system. It lays down rules relating to the organisation and functioning of that sector, access to the market, the criteria and procedures applicable to the granting of authorisations for networks, supply and storage of hydrogen and the operation of that system.
+
+5. This Directive establishes rules for the progressive establishment of a Union-wide interconnected hydrogen system contributing to the long-term flexibility of the electricity system and to the reduction of net greenhouse gas emissions of hard-to-decarbonise sectors taking into account the greenhouse gas abatement potential and the energy and cost-efficiency in relation to other options and thereby supporting the decarbonisation of the Union energy system.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+For the purposes of this Directive, the following definitions apply:
+
+| (1) | ‘natural gas’ means gas that primarily consists of methane, including biomethane, or other types of gas, that can technically and safely be injected into, and transported through, the natural gas system; |
+| --- | --- |
+
+| (2) | ‘renewable gas’ means biogas as defined in Article 2, point (28), of Directive (EU) 2018/2001including biogas that has been upgraded to biomethane, and renewable fuels of non-biological origin as defined in Article 2, point (36), of that Directive; |
+| --- | --- |
+
+| (3) | ‘natural gas system’ means a system of infrastructure, including pipelines, liquefied natural gas (LNG) terminals and natural gas storage facilities, which transports natural gas; |
+| --- | --- |
+
+| (4) | ‘hydrogen system’ means a system of infrastructure, including hydrogen networks, hydrogen storage and hydrogen terminals, which contains hydrogen of a high grade of purity; |
+| --- | --- |
+
+| (5) | ‘hydrogen storage facility’ means a facility used for the stocking of hydrogen of a high grade of purity:(a)including the part of a hydrogen terminal used for storage but excluding the part used for production operations and facilities reserved exclusively for hydrogen network operators in carrying out their functions;(b)including large, in particular underground, hydrogen storage but excluding smaller, easily replicable hydrogen storage installations; |
+| --- | --- |
+| (a) | including the part of a hydrogen terminal used for storage but excluding the part used for production operations and facilities reserved exclusively for hydrogen network operators in carrying out their functions; |
+| (b) | including large, in particular underground, hydrogen storage but excluding smaller, easily replicable hydrogen storage installations; |
+
+| (6) | ‘hydrogen storage operator’ means a natural or legal person that carries out the function of storage of hydrogen and is responsible for operating a hydrogen storage facility; |
+| --- | --- |
+
+| (7) | ‘hydrogen linepack’ means the storage of hydrogen of a high grade of purity by compression in hydrogen networks, excluding facilities reserved for hydrogen network operators carrying out their functions; |
+| --- | --- |
+
+| (8) | ‘hydrogen terminal’ means an installation used for the offloading and transformation of liquid hydrogen or liquid ammonia into gaseous hydrogen for injection into the hydrogen network or the natural gas system or the liquefaction of gaseous hydrogen and its onloading, including ancillary services and temporary storage necessary for the transformation process and subsequent injection into the hydrogen network, but not any part of the hydrogen terminal used for storage; |
+| --- | --- |
+
+| (9) | ‘hydrogen terminal operator’ means a natural or legal person that carries out the function of offloading and transformation of liquid hydrogen or liquid ammonia into gaseous hydrogen for injection into the hydrogen network or the natural gas system or the liquefaction and onloading of gaseous hydrogen and is responsible for operating a hydrogen terminal; |
+| --- | --- |
+
+| (10) | ‘hydrogen quality’ means hydrogen purity and contaminants in line with applicable hydrogen quality standards for the hydrogen system; |
+| --- | --- |
+
+| (11) | ‘low-carbon hydrogen’ means hydrogen the energy content of which is derived from non-renewable sources, which meets the greenhouse gas emission reduction threshold of 70 % compared to the fossil fuel comparator for renewable fuels of non-biological origin set out in the methodology for assessing greenhouse gas emissions savings from renewable fuels of non-biological origin and from recycled carbon fuels, adopted pursuant to Article 29a(3) of Directive (EU) 2018/2001; |
+| --- | --- |
+
+| (12) | ‘low-carbon gas’ means the part of gaseous fuels in recycled carbon fuels as defined in Article 2, point (35), of Directive (EU) 2018/2001, low-carbon hydrogen and synthetic gaseous fuels the energy content of which is derived from low-carbon hydrogen, that meet the greenhouse gas emission reduction threshold of 70 % compared to the fossil fuel comparator for renewable fuels of non-biological origin set out in the methodology adopted pursuant to Article 29a(3) of Directive (EU) 2018/2001; |
+| --- | --- |
+
+| (13) | ‘low-carbon fuels’ means recycled carbon fuels as defined in Article 2, point (35), of Directive (EU) 2018/2001, low-carbon hydrogen and synthetic gaseous and liquid fuels the energy content of which is derived from low-carbon hydrogen, that meet the greenhouse gas emission reduction threshold of 70 % compared to the fossil fuel comparator for renewable fuels of non-biological origin set out in the methodology adopted pursuant to Article 29a(3) of Directive (EU) 2018/2001; |
+| --- | --- |
+
+| (14) | ‘hydrogen undertaking’ means a natural or legal person that carries out at least one of the following functions: production, transport, supply, purchase or storage of hydrogen or operation of a hydrogen terminal, and that is responsible for the commercial, technical or maintenance tasks related to those functions, excluding final customers; |
+| --- | --- |
+
+| (15) | ‘natural gas undertaking’ means a natural or legal person that carries out production, transmission, distribution, supply, purchase or storage of natural gas, including LNG, and which is responsible for the commercial, technical or maintenance tasks related to those functions, excluding final customers; |
+| --- | --- |
+
+| (16) | ‘upstream pipeline network’ means any pipeline or network of pipelines operated or constructed as part of an oil or natural gas production project, or used to convey natural gas from one or more such projects to a processing plant or terminal or final coastal landing terminal; |
+| --- | --- |
+
+| (17) | ‘transmission’ means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than an upstream pipeline network and other than the part of high-pressure pipelines primarily used in the context of local distribution of natural gas, with a view to its delivery to customers, excluding supply; |
+| --- | --- |
+
+| (18) | ‘transmission system operator’ means a natural or legal person that carries out the function of transmission and is responsible for operating, ensuring the maintenance of and, if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transport of natural gas; |
+| --- | --- |
+
+| (19) | ‘distribution’ means the transport of natural gas through local or regional pipeline networks with a view to its delivery to customers, excluding supply; |
+| --- | --- |
+
+| (20) | ‘distribution system operator’ means a natural or legal person that carries out the function of distribution of natural gas and is responsible for operating, ensuring the maintenance of and, if necessary, developing the distribution system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the distribution of natural gas; |
+| --- | --- |
+
+| (21) | ‘hydrogen network’ means a network of onshore and offshore pipelines used for the transport of hydrogen of a high grade of purity with a view to its delivery to customers, excluding supply; |
+| --- | --- |
+
+| (22) | ‘hydrogen transport’ means the transmission or distribution of hydrogen through a hydrogen network with a view to its delivery to customers, excluding supply; |
+| --- | --- |
+
+| (23) | ‘hydrogen transmission network’ means a network of pipelines for the transport of hydrogen of a high grade of purity, in particular a network which includes hydrogen interconnectors or which is directly connected to hydrogen storage, hydrogen terminals or two or more hydrogen interconnectors or which primarily serves the purpose of transporting hydrogen to other hydrogen networks, hydrogen storage or hydrogen terminals, without excluding the possibility of such networks to serve the purpose of supplying directly connected customers; |
+| --- | --- |
+
+| (24) | ‘hydrogen distribution network’ means a network of pipelines for the local or regional transport of hydrogen of a high grade of purity, which primarily serves the purpose of supplying directly connected customers and does not include hydrogen interconnectors, and which is not directly connected to hydrogen storage facilities or hydrogen terminals, unless the network in question was a natural gas distribution system on 4 August 2024 and has been partially or fully repurposed for the transport of hydrogen, or to two or more hydrogen interconnectors; |
+| --- | --- |
+
+| (25) | ‘hydrogen network operator’ means a natural or legal person that carries out the function of hydrogen transport and is responsible for operating, ensuring the maintenance of and, if necessary, developing the hydrogen network in a given area and, where applicable, its interconnections with other hydrogen networks, and for ensuring the long-term ability of the system to meet reasonable demands for the transport of hydrogen; |
+| --- | --- |
+
+| (26) | ‘hydrogen transmission network operator’ means a natural or legal person that is responsible for operating, ensuring the maintenance of and, if necessary, developing a hydrogen transmission network in a given area and, where applicable, its interconnections with other hydrogen networks, and for ensuring the long-term ability of the network to meet reasonable demands for hydrogen transport; |
+| --- | --- |
+
+| (27) | ‘hydrogen distribution network operator’ means a natural or legal person that is responsible for operating, ensuring the maintenance of and, if necessary, developing a hydrogen distribution network in a given area and, where applicable, its interconnections with other hydrogen networks, and for ensuring the long-term ability of the network to meet reasonable demands for hydrogen transport; |
+| --- | --- |
+
+| (28) | ‘supply’ means the sale, including resale, of natural gas, including LNG, or hydrogen, including in the form of liquid organic hydrogen carriers or liquid hydrogen and hydrogen derivatives including ammonia or methanol to customers; |
+| --- | --- |
+
+| (29) | ‘supply undertaking’ means any natural or legal person that carries out the function of supply; |
+| --- | --- |
+
+| (30) | ‘supplier of last resort’ means a supplier who is designated to take over the supply of natural gas to customers of a supplier which has ceased to operate; |
+| --- | --- |
+
+| (31) | ‘natural gas storage facility’ means a facility used for the stocking of natural gas and owned or operated by a natural gas undertaking, including the part of LNG facilities used for natural gas storage, excluding the portion used for production operations, and excluding facilities reserved exclusively for transmission system operators in carrying out their functions; |
+| --- | --- |
+
+| (32) | ‘natural gas storage system operator’ means a natural or legal person that carries out the function of storage of natural gas and is responsible for operating a natural gas storage facility; |
+| --- | --- |
+
+| (33) | ‘LNG facility’ means a terminal which is used for the liquefaction of natural gas or the importation, offloading, and re-gasification of LNG, including ancillary services and temporary storage necessary for the re-gasification process and subsequent delivery to the transmission system, excluding any part of LNG terminals used for storage; |
+| --- | --- |
+
+| (34) | ‘LNG system operator’ means a natural or legal person that carries out the function of liquefaction of natural gas, or the importation, offloading and re-gasification of LNG and is responsible for operating a LNG facility; |
+| --- | --- |
+
+| (35) | ‘system’ means any transmission networks, distribution networks, LNG facilities or natural gas storage facilities owned or operated by a natural gas undertaking, including linepack and its facilities supplying ancillary services and those of related undertakings necessary for providing access to transmission, distribution and LNG; |
+| --- | --- |
+
+| (36) | ‘ancillary services’ means all services necessary for access to and the operation of transmission networks, distribution networks, LNG facilities or natural gas storage facilities, including load balancing, blending and injection of inert gas, excluding facilities reserved exclusively for transmission system operators carrying out their functions; |
+| --- | --- |
+
+| (37) | ‘natural gas linepack’ means the storage of natural gas by compression in transmission and distribution systems, excluding facilities reserved for transmission system operators carrying out their functions; |
+| --- | --- |
+
+| (38) | ‘interconnected system’ means a number of systems which are linked with each other; |
+| --- | --- |
+
+| (39) | ‘interconnector’ means a transmission line which crosses or spans a border between Member States for the purpose of connecting the national transmission system of those Member States or a transmission line between a Member State and a third country up to the territory of the Member States or the territorial sea of that Member State; |
+| --- | --- |
+
+| (40) | ‘hydrogen interconnector’ means a hydrogen network which crosses or spans a border between Member States for the purpose of connecting the national hydrogen networks of those Member States, or a hydrogen network between a Member State and a third country up to the territory of the Member States or the territorial sea of that Member State; |
+| --- | --- |
+
+| (41) | ‘direct line’ means a natural gas pipeline complementary to the interconnected system; |
+| --- | --- |
+
+| (42) | ‘integrated natural gas undertaking’ means a vertically or horizontally integrated undertaking; |
+| --- | --- |
+
+| (43) | ‘vertically integrated undertaking’ means a natural gas undertaking or a group of natural gas undertakings or a hydrogen undertaking or group of hydrogen undertakings where the same person or the same persons are entitled, directly or indirectly, to exercise control, and where the undertaking or group of undertakings perform at least one of the functions of transmission, distribution, hydrogen transport, hydrogen terminal operation, LNG or natural gas or hydrogen storage, and at least one of the functions of production or supply of natural gas or of hydrogen; |
+| --- | --- |
+
+| (44) | ‘horizontally integrated undertaking’ means an undertaking that performs at least one of the functions of production, transmission, distribution, supply or storage of natural gas, as well as a non-natural gas activity; |
+| --- | --- |
+
+| (45) | ‘related undertaking’ means an affiliated undertaking as defined in Article 2, point (12), of Directive 2013/34/EU of the European Parliament and of the Council (38), or an undertaking which belongs to the same shareholders; |
+| --- | --- |
+
+| (46) | ‘system user’ means a natural or legal person supplying natural gas or hydrogen to, or being supplied by, the system; |
+| --- | --- |
+
+| (47) | ‘customer’ means a wholesale or final customer of natural gas or hydrogen or a natural gas or hydrogen undertaking which purchases natural gas or hydrogen; |
+| --- | --- |
+
+| (48) | ‘household customer’ means a customer purchasing natural gas or hydrogen for customer’s own household consumption; |
+| --- | --- |
+
+| (49) | ‘non-household customer’ means a customer purchasing natural gas or hydrogen which are not for his or her own household use; |
+| --- | --- |
+
+| (50) | ‘final customer’ means a customer purchasing natural gas or hydrogen for customer’s own use; |
+| --- | --- |
+
+| (51) | ‘wholesale customer’ means a natural or legal person other than a transmission system operator or distribution system operator who purchases natural gas or hydrogen for the purpose of resale inside or outside the system where the person is established; |
+| --- | --- |
+
+| (52) | ‘microenterprise’, ‘small enterprise’ or ‘medium-sized enterprise’ means a microenterprise, a small enterprise or a medium-sized enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (39); |
+| --- | --- |
+
+| (53) | ‘gas supply contract’ means a contract for the supply of natural gas or hydrogen, excluding a natural gas derivative; |
+| --- | --- |
+
+| (54) | ‘natural gas derivative’ means a financial instrument specified in Section C, point 5, 6 or 7, of Annex I to Directive 2014/65/EU of the European Parliament and of the Council (40), where that financial instrument relates to natural gas; |
+| --- | --- |
+
+| (55) | ‘control’ means any rights, contracts or any other means which, either separately or in combination and having regard to the considerations of fact or law involved, confer the possibility of exercising decisive influence on an undertaking, in particular by:(a)ownership or the right to use all or part of the assets of an undertaking;(b)rights or contracts which confer decisive influence on the composition, voting or decisions of the organs of an undertaking; |
+| --- | --- |
+| (a) | ownership or the right to use all or part of the assets of an undertaking; |
+| (b) | rights or contracts which confer decisive influence on the composition, voting or decisions of the organs of an undertaking; |
+
+| (56) | ‘long-term contract’ means a gas supply contract exceeding one year; |
+| --- | --- |
+
+| (57) | ‘entry-exit system’ means an access model for natural gas or hydrogen where system users book capacity rights independently on entry and exit points, that includes the transmission system and may include the whole or part of the distribution system, or hydrogen networks; |
+| --- | --- |
+
+| (58) | ‘balancing zone’ means a system to which a specific balancing regime is applicable, that includes the transmission system and may include the whole or part of distribution systems; |
+| --- | --- |
+
+| (59) | ‘virtual trading point’ means a non-physical commercial point within an entry-exit system where natural gas or hydrogen are exchanged between a seller and a buyer without the need to book capacity; |
+| --- | --- |
+
+| (60) | ‘network user’ means a customer or a potential customer of a system operator or a system operator itself in so far as it is necessary for that system operator to carry out its functions in relation to transport of natural gas or hydrogen; |
+| --- | --- |
+
+| (61) | ‘entry point’ means a point subject to booking procedures by network users providing access to an entry-exit system; |
+| --- | --- |
+
+| (62) | ‘exit point’ means a point subject to booking procedures by network users enabling gas flows out of the entry-exit system; |
+| --- | --- |
+
+| (63) | ‘interconnection point’ means a physical or virtual point connecting adjacent entry-exit systems or connecting an entry-exit system with an interconnector, in so far as such a point is subject to booking procedures by network users; |
+| --- | --- |
+
+| (64) | ‘virtual interconnection point’ means two or more interconnection points which connect the same two adjacent entry-exit systems, integrated together for the purposes of providing a single-capacity service; |
+| --- | --- |
+
+| (65) | ‘market participant’ means a natural or legal person that buys, sells or produces natural gas or hydrogen or that is an operator of storage services including through the placing of orders to trade in one or more markets for natural gas or hydrogen including balancing markets; |
+| --- | --- |
+
+| (66) | ‘contract termination fee’ means a charge or penalty imposed on customers by suppliers or market participants for terminating a gas supply or service contract; |
+| --- | --- |
+
+| (67) | ‘switching-related fee’ means a charge or penalty for changing suppliers or market participants, including contract termination fees, that is directly or indirectly imposed on customers by suppliers, market participants or system operators; |
+| --- | --- |
+
+| (68) | ‘billing information’ means the information provided on a final customer’s bill, apart from a request for payment; |
+| --- | --- |
+
+| (69) | ‘conventional meter’ means an analogue or electronic meter with no capability to both transmit and receive data; |
+| --- | --- |
+
+| (70) | ‘smart metering system’ means an electronic system that is capable of measuring natural gas or hydrogen fed into the grid or natural gas or hydrogen consumed from the grid, providing more information than a conventional meter, and that is capable of transmitting and receiving data for information, monitoring and control purposes, using a form of electronic communication; |
+| --- | --- |
+
+| (71) | ‘interoperability’ means, in the context of smart metering, the ability of two or more energy or communication networks, systems, devices, applications or components to interwork to exchange and use information in order to perform required functions; |
+| --- | --- |
+
+| (72) | ‘most recent available’ means, in the context of smart metering data, that it is provided within a period matching the shortest settlement period in the national market; |
+| --- | --- |
+
+| (73) | ‘best available techniques’ means, in the context of data protection and security in a smart metering environment, the most effective, advanced and practically suitable techniques for providing, in principle, the basis for complying with the Union data protection and security rules; |
+| --- | --- |
+
+| (74) | ‘energy poverty’ means energy poverty as defined in Article 2, point (52), of Directive (EU) 2023/1791; |
+| --- | --- |
+
+| (75) | ‘active customer’ means a final customer of natural gas, or a group of jointly acting final customers of natural gas, that:(a)consumes or stores renewable gas which is produced:(i)within its premises located within confined boundaries; or(ii)where permitted by the Member State concerned, within other premises;(b)provided that its activities do not constitute the final customer’s primary commercial or professional activity and comply with the law applicable to renewable gas production, in particular in relation to greenhouse gas emissions:(i)sells self-produced renewable gas using the natural gas system; or(ii)participates in flexibility or participates in energy efficiency schemes; |
+| --- | --- |
+| (a) | consumes or stores renewable gas which is produced:(i)within its premises located within confined boundaries; or(ii)where permitted by the Member State concerned, within other premises; |
+| (i) | within its premises located within confined boundaries; or |
+| (ii) | where permitted by the Member State concerned, within other premises; |
+| (b) | provided that its activities do not constitute the final customer’s primary commercial or professional activity and comply with the law applicable to renewable gas production, in particular in relation to greenhouse gas emissions:(i)sells self-produced renewable gas using the natural gas system; or(ii)participates in flexibility or participates in energy efficiency schemes; |
+| (i) | sells self-produced renewable gas using the natural gas system; or |
+| (ii) | participates in flexibility or participates in energy efficiency schemes; |
+
+| (76) | ‘energy efficiency first’ means energy efficiency first as defined in Article 2, point (18), of Regulation (EU) 2018/1999; |
+| --- | --- |
+
+| (77) | ‘repurposing’ means repurposing as defined in Article 2, point (18), of Regulation (EU) 2022/869 of the European Parliament and of the Council (41). |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Member States shall ensure that all customers are free to purchase natural gas and hydrogen from the supplier of their choice and shall ensure that all customers are free to have more than one supply contract for natural gas or hydrogen at the same time, provided that the required connection and metering points are established.
+
+2. Member States shall ensure that their national law does not unduly hamper cross-border trade in natural gas and hydrogen, the functioning and emergence of liquid trading for natural gas and hydrogen, consumer participation, investments into, in particular, renewable gas and low-carbon gas, or energy storage between Member States, and shall ensure that prices for natural gas and hydrogen reflect actual demand and supply.
+
+3. Member States shall ensure that no undue barriers exist within the internal markets for natural gas and hydrogen as regards market entry and exit, trading and operation.
+
+4. Member States and regulatory authorities shall ensure that energy undertakings are subject to transparent, proportionate and non-discriminatory rules, fees and treatment, in particular with regard to connection to the network, access to wholesale markets, access to data, switching processes and billing regimes and, where applicable, licensing.
+
+5. Member States shall ensure that market participants from third countries, when operating within the internal markets for natural gas and hydrogen, comply with applicable Union and national law, including that relating to environment and safety.
+
+6. Member States shall ensure a customer-centred and energy efficient approach in the market for hydrogen. The use of hydrogen shall be targeted for customers in hard-to-decarbonise sectors with a high greenhouse gas abatement potential where no more energy and cost-efficient options are available.
+
+7. Member States shall ensure that this Directive is implemented in a manner which fosters energy system integration while not unduly discriminating against more energy efficient solutions, such as direct electrification, in line with the energy efficiency first principle.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Suppliers shall be free to determine the price at which they supply natural gas and hydrogen to customers. Member States shall take appropriate actions to ensure effective competition between suppliers and to ensure reasonable prices for the final customers.
+
+2. Member States shall ensure the protection of customers affected by energy poverty and vulnerable household customers pursuant to Articles 26 to 29 by social policy or by other means than public interventions in the price setting for the supply of natural gas and hydrogen.
+
+3. By way of derogation from paragraphs 1 and 2, Member States may apply public interventions in the price setting for the supply of natural gas to customers affected by energy poverty or vulnerable household customers. Such public interventions shall be subject to the conditions set out in paragraphs 4 and 5.
+
+4. Public interventions in the price setting for the supply of natural gas shall:
+
+| (a) | pursue a general economic interest and not go beyond what is necessary to achieve that general economic interest; |
+| --- | --- |
+
+| (b) | be clearly defined, transparent, non-discriminatory and verifiable; |
+| --- | --- |
+
+| (c) | guarantee equal access for Union natural gas undertakings to customers; |
+| --- | --- |
+
+| (d) | be limited in time and proportionate as regards their beneficiaries; |
+| --- | --- |
+
+| (e) | not result in additional costs for market participants in a discriminatory way; |
+| --- | --- |
+
+| (f) | not hamper the gradual and timely phase-out of fossil gas in order to reach the Union 2030 climate target and climate-neutrality objective set out in Regulation (EU) 2021/1119. |
+| --- | --- |
+
+5. Any Member State applying public interventions in the price setting for the supply of natural gas in accordance with paragraph 3 of this Article shall also comply with Article 3(3), point (d), and Article 24 of Regulation (EU) 2018/1999, regardless of whether the Member State concerned has a significant number of household customers affected by energy poverty. Prior to the removal of public interventions in the price setting for the supply of natural gas, Member States shall ensure adequate support measures for customers affected by energy poverty and vulnerable household customers in accordance with paragraph 2 of this Article.
+
+6. In order to establish effective competition for natural gas supply contracts between suppliers, and to achieve fully effective market-based and affordable retail pricing of natural gas in accordance with paragraph 1, Member States may, for a transitional period, apply public interventions in the price setting for the supply of natural gas to household customers that do not benefit from public interventions pursuant to paragraph 3, and to microenterprises.
+
+7. Public interventions pursuant to paragraph 6 shall comply with the criteria set out in paragraph 4 and shall:
+
+| (a) | be accompanied by a set of measures to achieve effective competition and a methodology for assessing progress with regard to those measures; |
+| --- | --- |
+
+| (b) | be set using a methodology that ensures non-discriminatory treatment of suppliers; |
+| --- | --- |
+
+| (c) | be set at a price that is above cost, at a level where effective price competition can occur; |
+| --- | --- |
+
+| (d) | be designed to minimise any negative impact on the wholesale market for natural gas; |
+| --- | --- |
+
+| (e) | ensure that all beneficiaries of such public interventions have the possibility to choose competitive market offers and are directly informed at least every quarter of the availability of offers and savings in the competitive market, and shall ensure that they are provided with assistance to switch to a market-based offer; |
+| --- | --- |
+
+| (f) | ensure, in the case the Member State proceeds with the deployment of smart metering systems in accordance with Article 17, that all beneficiaries of such public interventions are directly informed of the possibility of installing smart meters and are provided with necessary assistance; |
+| --- | --- |
+
+| (g) | not lead to direct cross-subsidisation between customers supplied at free market prices and those supplied at regulated supply prices. |
+| --- | --- |
+
+8. Member States shall notify the measures taken in accordance with paragraphs 3 and 6 to the Commission within one month after their adoption and may apply them immediately. The notification shall be accompanied by an explanation of why other instruments were not sufficient to achieve the objective pursued, of how the requirements set out in paragraphs 4, 5 and 7 are fulfilled and of the effects of the notified measures on competition. The notification shall describe the scope of the beneficiaries, in particular customers affected by energy poverty and vulnerable household customers, as well as potential other beneficiaries, the duration of the measures and the number of household customers affected by the measures, and shall explain how the regulated prices have been determined.
+
+9. By 15 March 2025 and every two years thereafter, as part of the integrated national energy and climate progress reports, Member States shall submit reports to the Commission on the implementation of this Article and the necessity and proportionality of public interventions under this Article, and an assessment of the progress towards achieving effective competition between suppliers and the transition to market-based prices. Member States that apply regulated prices in accordance with paragraph 6 shall report on the compliance with the conditions set out in paragraph 7, including on compliance by suppliers that are required to apply such interventions, as well as on the impact of regulated prices on the finances of those suppliers.
+
+10. The Commission shall review the implementation of this Article for the purpose of achieving market-based retail pricing of natural gas and submit a report to the European Parliament and to the Council. The report shall, where appropriate, include an assessment of the impact of those measures on the progress in achieving the Union’s climate-neutrality objective and the other energy and climate objectives. It may be combined with the report referred to in Article 5(10) of Directive (EU) 2019/944 on the implementation of that Article. The report shall be submitted together with or followed by a legislative proposal, if appropriate. Such a legislative proposal may include an end date for regulated prices.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. The Council may, acting on a proposal from the Commission, by means of an implementing decision, declare a regional or Union-wide natural gas price crisis, if the following conditions are met:
+
+| (a) | the existence of very high average prices in wholesale natural gas markets of at least two-and-a-half times the average price during the previous five years, and at least 180 EUR/MWh, which is expected to continue for at least six months, subject to the calculation of the average price during the previous five years not taking into account periods during which a regional or Union-wide natural gas price crisis was declared; |
+| --- | --- |
+
+| (b) | sharp increases in natural gas retail prices in the range of 70 % occur which are expected to continue for at least three months. |
+| --- | --- |
+
+2. The implementing decision referred to in paragraph 1 shall specify its period of validity which may be for a period of up to one year. That period may be extended in accordance with the procedure set out in paragraph 8 for consecutive periods of up to one year.
+
+3. The declaration of a regional or Union-wide natural gas price crisis pursuant to paragraph 1 shall ensure a fair competition and trade across all Member States affected by the implementing decision so that the internal market is not unduly distorted.
+
+4. Where the conditions laid down in paragraph 1 are fulfilled, the Commission shall submit a proposal to declare a regional or Union-wide natural gas price crisis which shall include the proposed period of validity of the implementing decision.
+
+5. The Council, acting by a qualified majority, may amend a Commission proposal submitted pursuant to paragraph 4 or 8.
+
+6. Where the Council has adopted an implementing decision pursuant to paragraph 1 of this Article, Member States may, for the duration of the validity of that decision, apply temporary targeted public interventions in price setting for the supply of natural gas to small and medium-sized enterprises (SMEs), household customers and essential social services as defined in Article 2, point (4), of Regulation (EU) 2017/1938. Such public interventions shall:
+
+| (a) | be limited to at most 70 % of the beneficiary’s consumption during the same period of the previous year and retain an incentive for demand reduction; |
+| --- | --- |
+
+| (b) | comply with the conditions set out in Article 4(4) and (7); |
+| --- | --- |
+
+| (c) | where relevant, comply with the conditions set out in paragraph 7; |
+| --- | --- |
+
+| (d) | be designed to minimise any negative fragmentation of the internal market. |
+| --- | --- |
+
+7. Where the Council has adopted an implementing decision pursuant to paragraph 1 of this Article, Member States may for the duration of the validity of that decision, by way of derogation from Article 4(7), point (c), when applying targeted public interventions in price setting for the supply of natural gas pursuant to Article 4(6) or to paragraph 6 of this Article, exceptionally and temporarily set a price for the supply of natural gas which is below cost provided that the following conditions are fulfilled:
+
+| (a) | the price set for household customers only applies, at most, to 80 % of median household consumption and retains an incentive for demand reduction; |
+| --- | --- |
+
+| (b) | there is no discrimination between suppliers; |
+| --- | --- |
+
+| (c) | suppliers are compensated for supplying below cost in a transparent and non-discriminatory manner; |
+| --- | --- |
+
+| (d) | all suppliers are eligible to provide offers for the price for the supply of natural gas which is below cost on the same basis; |
+| --- | --- |
+
+| (e) | measures proposed do not distort the internal market for natural gas. |
+| --- | --- |
+
+8. In due time before the expiry of the period of validity specified pursuant to paragraph 2, the Commission shall assess whether the conditions laid down in paragraph 1 continue to be fulfilled. If the Commission considers that the conditions laid down in paragraph 1 continue to be fulfilled, it shall submit to the Council a proposal to extend the period of validity of an implementing decision adopted pursuant to paragraph 1. Where the Council decides to extend the period of validity, paragraphs 6 and 7 shall apply during such extended period.
+
+The Commission shall continuously assess and monitor the impact resulting from any measures adopted under this Article and publish on a regular basis the results of such assessments.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to paragraph 2, natural gas and hydrogen undertakings are operated in accordance with the principles of this Directive with a view to achieving competitive, secure and environmentally sustainable markets for natural gas and hydrogen. Member States shall not discriminate between those undertakings as regards their rights or obligations.
+
+2. Having full regard to the relevant provisions of the TFEU, in particular Article 106 thereof, Member States may impose on natural gas and hydrogen undertakings, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity and quality of supplies, and environmental protection, including energy efficiency, energy from renewable sources and climate protection and to the price of natural gas supply. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for natural gas undertakings and hydrogen undertakings of the Union to national consumers. Public service obligations which concern public interventions in the price setting for the supply of natural gas shall comply with the requirements set out in Articles 4 and 5 of this Directive.
+
+3. Public service obligations related to the security of gas supply shall ensure compliance of natural gas undertakings with the gas supply standard pursuant to Article 6 of Regulation (EU) 2017/1938 and shall be consistent with the results of the national risk assessments carried out pursuant to Article 7(3) of that Regulation, as detailed in the preventive action plans prepared pursuant to Article 9(1), points (c), (d) and (k), of that Regulation. Public service obligations going beyond what is necessary to ensure compliance with Article 6 of Regulation (EU) 2017/1938 shall comply with the criteria set out in Article 8(1) of that Regulation.
+
+4. Where financial compensation or other forms of compensation are granted by a Member State for the fulfilment of the obligations set out in this Article, it shall be done in a non-discriminatory and transparent manner.
+
+5. Member States shall, upon transposition of this Directive, inform the Commission of all measures adopted to fulfil public service obligations, including consumer and environmental protection, and their possible effect on national and international competition, whether or not such measures require a derogation from this Directive. They shall notify the Commission subsequently every two years of any changes to such measures, whether or not they require a derogation from this Directive.
+
+6. When imposing public service obligations pursuant to paragraph 2, Member States shall consult the relevant stakeholders at an early stage and in an open, inclusive and transparent manner. All official documents related to the consultations and documents used for development of the public service obligation shall be made public while preserving the confidentiality of commercially sensitive information and data protection.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. Member States as well as the regulatory authorities shall cooperate with each other for the purpose of integrating their national markets at one and more regional levels, towards the creation of regional markets, where Member States or their regulatory authorities so decide, and further towards the creation of a fully liberalised internal market. In particular, Member States or, where Member States have so provided, the regulatory authorities shall promote and facilitate the cooperation of natural gas transmission system operators and hydrogen transmission network operators at a regional level, including on cross-border issues and on the decommissioning of assets, with the aim of ensuring cost-effective decarbonisation in line with the Union’s climate-neutrality objective and creating competitive internal markets for natural gas and hydrogen, foster the consistency of their legal, regulatory and technical framework and facilitate integration of the isolated systems forming natural gas islands that persist in the Union. The geographical areas covered by such regional cooperation shall include cooperation in geographical areas defined in accordance with Article 31(3) of Regulation (EU) 2024/1789. Such cooperation may cover other geographical areas. Where the Commission considers that the rules at Union level are relevant for the regional integration of markets for natural gas and hydrogen, it shall provide appropriate non-binding guidance taking into account the specificities of those markets and the impact on neighbouring markets.
+
+2. The Agency for the Cooperation of Energy Regulators (ACER) shall cooperate with regulatory authorities and transmission system operators and hydrogen transmission network operators to ensure the compatibility of regulatory frameworks between and within the regions with the aim of creating competitive internal markets for natural gas and hydrogen. Where ACER considers that binding rules on such cooperation are required, it shall make appropriate recommendations.
+
+3. Where vertically integrated transmission system operators participate in a joint undertaking established for implementing such cooperation, the joint undertaking shall establish and implement a compliance programme which sets out the measures to be taken to ensure that discriminatory and anticompetitive conduct is excluded. That compliance programme shall set out the specific obligations of employees to meet the objective of excluding discriminatory and anticompetitive conduct. It shall be subject to the approval of ACER. Compliance with the programme shall be independently monitored by the compliance officers of the vertically integrated transmission system operators.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. In circumstances where an authorisation, such as a licence, permission, concession, consent or approval, is required for the construction or operation of natural gas facilities, hydrogen production facilities and hydrogen system infrastructure, the Member States or any competent authority they designate shall grant authorisations to build or operate such facilities, infrastructure, pipelines or associated equipment on their territory, in accordance with paragraphs 2 to 11. Member States or any competent authority they designate may also grant authorisations on the same basis for the supply of natural gas and hydrogen and for wholesale customers.
+
+2. Where Member States have a system of authorisation, they shall lay down objective and non-discriminatory criteria and transparent procedures, which shall be met where an undertaking applies for an authorisation to supply natural gas and hydrogen or to construct or operate natural gas facilities, hydrogen production facilities or hydrogen system infrastructure. The criteria and procedures for the granting of authorisations shall be made public. Member States shall ensure that authorisation procedures for such facilities, infrastructure, pipelines or associated equipment take into account the importance of the project for the internal markets for natural gas and hydrogen where appropriate. Member States shall ensure consistency of the system of authorisation for hydrogen system infrastructure with the network development plans for hydrogen transmission and distribution networks adopted pursuant to Articles 55 and 56.
+
+3. For natural gas suppliers, Member States may assess the financial strength and technical capabilities of applicants as criteria for authorisation. Such criteria shall be fully transparent and non-discriminatory.
+
+4. Member States shall ensure that any national rules concerning the authorisation procedure referred to in this Article are proportionate, necessary and contribute to the implementation of the general rules for the organisation of the markets for natural gas and hydrogen and infrastructure access, to the energy efficiency first principle, to achieving the Union’s climate and energy targets and to the implementation of Member States’ integrated national energy and climate plans, as well as their long-term strategies adopted pursuant to Regulation (EU) 2018/1999.
+
+5. The authorisation procedures for the activities referred to in paragraph 1 shall not exceed two years, including all relevant procedures of competent authorities. Where duly justified on the grounds of extraordinary circumstances, that two-year period may be extended by up to one year.
+
+6. Member States shall assess which national legislative and non-legislative measures are necessary to streamline authorisation procedures, including, without hampering, any procedural steps related to environmental impact assessment procedures and public consultations. Member States shall report to the Commission on the results of such an assessment as part of their integrated national energy and climate plans as referred to in Article 3 of Regulation (EU) 2018/1999, and in accordance with the procedure set out in Articles 7 to 12 of that Regulation, and as part of their integrated national energy and climate progress reports pursuant to Article 17 of that Regulation.
+
+7. The time limits established in paragraph 5 of this Article shall apply without prejudice to obligations under applicable Union environmental and energy law, including Directive (EU) 2018/2001, to judicial appeals, remedies and other proceedings before a court or tribunal, and to alternative dispute resolution mechanisms, including complaints procedures, non-judicial appeals and remedies, and may be extended for the duration of such procedures.
+
+8. Member States shall set up or designate one or more contact points. Those contact points shall, upon request by the applicant, and free of charge, guide the applicant through and facilitate the entire authorisation procedure for the activities referred to in paragraph 1 up to the delivery by the responsible authorities at the end of the procedure. The applicant shall not be required to contact more than one contact point for the entire process.
+
+9. Member States shall ensure that authorisations under national law for the construction and operation of natural gas system infrastructure also apply to hydrogen system infrastructure. This is without prejudice to the right of Member States to revoke those authorisations if the hydrogen infrastructure does not comply with technical safety rules for hydrogen system infrastructure set out in Union or national law.
+
+10. Member States shall ensure that existing land-use rights for the construction and operation of natural gas pipelines and other network assets shall be also applied to pipelines and other network assets for the transport of hydrogen.
+
+11. In the event of a transfer of infrastructure ownership within the same undertaking to meet the requirements of Article 69, the authorisations and land-use rights pertaining to that infrastructure shall equally be transferred to the new owner.
+
+12. Member States shall ensure that the reasons for any refusal to grant an authorisation are objective and non-discriminatory and that they are provided to the applicant. Reasons for such refusals shall be notified to the Commission for information. Member States shall establish a procedure enabling the applicant to appeal against such refusals.
+
+13. For the development of newly supplied areas and efficient operation generally, and without prejudice to Article 34, Member States may decline to grant a further authorisation to build and operate distribution pipeline systems for natural gas in any particular area, once such pipeline systems have been or are authorised to be built in that area and if existing or proposed capacity is not saturated.
+
+14. Member States shall decline to grant an authorisation to construct and operate a transmission or a distribution infrastructure for natural gas in areas where the network development plan pursuant to Article 55 provides for the decommissioning of the transmission system or relevant parts thereof or a distribution network decommissioning plan has been approved pursuant to Article 57.
+
+15. Where an authorisation within the meaning of paragraph 1 of this Article falls within the scope of application of Article 15 and Articles 15b to 17 of Directive (EU) 2018/2001, only those provisions shall apply.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. Renewable gas shall be certified in accordance with Articles 29, 29a and 30 of Directive (EU) 2018/2001. Low-carbon fuels shall be certified in accordance with this Article.
+
+2. In order to ensure that the greenhouse gas emissions savings from the use of low-carbon fuels are at least 70 %, Member States shall require economic operators to show that that threshold and the requirements established in the methodology referred to in paragraph 5 of this Article have been complied with. For those purposes, they shall require economic operators to use a mass balance system in line with Article 30(1) and (2) of Directive (EU) 2018/2001.
+
+3. Member States shall ensure that economic operators submit reliable information regarding compliance with the 70 % greenhouse gas emissions savings threshold referred to in paragraph 2 and with the greenhouse gas emissions saving methodology referred to in paragraph 5, and that economic operators make available to the relevant Member State, upon request, the data that were used to provide that information. Member States shall require economic operators to put in place an adequate standard of independent auditing of the information submitted, and to provide evidence that this has been done. The auditing shall verify that the systems used by economic operators are accurate, reliable and protected against fraud.
+
+4. The obligations laid down in paragraph 2 shall apply regardless of whether low-carbon fuels are produced within the Union or are imported. Information about the geographic origin and feedstock type of low-carbon fuels or low-carbon hydrogen per fuel supplier shall be made available to consumers on the websites of operators, suppliers or the relevant competent authorities and shall be updated on an annual basis.
+
+5. By 5 August 2025, the Commission shall adopt delegated acts in accordance with Article 90 to supplement this Directive by specifying the methodology for assessing greenhouse gas emissions savings from low-carbon fuels. That methodology shall ensure that credit for avoided emissions is not given for carbon dioxide from fossil sources the capture of which has already received an emission credit under other provisions of law and shall cover the life cycle of greenhouse gas emissions and consider indirect emissions resulting from the diversion of rigid inputs. That methodology shall be consistent with the methodology for assessing greenhouse gas emissions savings from renewable liquid and gaseous transport fuels of non-biological origin and from recycled carbon fuels, including the treatment of emissions due to the leakage of hydrogen, and take into account methane upstream emissions and actual carbon capture rates.
+
+6. Where appropriate, the Commission shall submit a report to the European Parliament and to the Council that evaluates hydrogen leakage, including environmental and climate risks, technical specificities and adequate maximum hydrogen leakage rates. On the basis of that report, the Commission shall, if appropriate, submit a legislative proposal to introduce measures that minimise possible risks of hydrogen leakage, set maximum hydrogen leakage rates and establish compliance mechanisms. Relevant maximum hydrogen leakage rates shall be included in the methodology referred to in paragraph 5.
+
+7. The Commission may adopt decisions recognising that voluntary national or international schemes setting standards for the production of low-carbon fuels or low-carbon hydrogen provide accurate data on greenhouse gas emission savings for the purposes of this Article and demonstrate compliance with the methodology referred to in paragraph 5 of this Article. The Commission shall adopt such decisions only if the scheme in question meets adequate standards of reliability, transparency and independent auditing in line with the requirements set out in Commission Implementing Regulation (EU) 2022/996 (42) for the certification of renewable fuels.
+
+8. Where an economic operator provides evidence or data obtained in accordance with a scheme that has been the subject of a recognition pursuant to paragraph 7, a Member State shall not require the economic operator to provide further evidence of compliance with the criteria for which the scheme has been recognised by the Commission.
+
+9. Competent authorities of the Member States shall supervise the operation of certification bodies that are conducting independent auditing under a voluntary scheme. Certification bodies shall submit, upon the request of competent authorities, all relevant information necessary to supervise the auditing, including the exact date, time and location of audits. Where Member States find issues of non-conformity, they shall inform the voluntary scheme without delay.
+
+10. At the request of a Member State, which may be based on a request by an economic operator, the Commission shall, on the basis of all available evidence, examine whether the greenhouse gas emissions saving criteria laid down in this Article, the methodology developed in line with paragraph 5 of this Article, and the greenhouse gas emissions savings thresholds indicated in Article 2, points (11), (12) and (13), have been met. Within six months of receipt of such a request, the Commission shall decide whether the Member State concerned may:
+
+| (a) | accept the evidence already provided to show compliance with the greenhouse gas emissions saving criteria for low-carbon fuels; or |
+| --- | --- |
+
+| (b) | by way of derogation from paragraph 8, require suppliers of the source of low-carbon fuels to provide further evidence of their compliance with the greenhouse gas emissions saving criteria and the 70 % greenhouse gas emissions savings threshold. |
+| --- | --- |
+
+11. Member States shall require the relevant economic operators to enter into the Union database established pursuant to Article 31a(1) of Directive (EU) 2018/2001, or into national databases that are linked to that Union database, in accordance with Article 31a(2) of that Directive, information on the transactions made and the sustainability characteristics of renewable gas and low-carbon fuels in line with the requirements for renewable fuels established in Article 31a of that Directive. Where guarantees of origin have been issued for the production of a consignment of low-carbon gas, they shall be subject to the same rules as those set out in in that Article for guarantees of origin issued for the production of renewable gas.
+
+12. The Commission shall adopt by means of implementing acts decisions on recognition pursuant to paragraph 7 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 91(3). Such decisions shall have a limited period of validity, not exceeding five years.
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. Member States or, where Member States have so provided, the regulatory authorities shall ensure that technical safety criteria are established and that technical rules establishing the minimum technical design and operational requirements for the connection to the system of LNG facilities, natural gas storage facilities, other transmission or distribution systems, or direct lines, as well as to the hydrogen system, are developed and made public. Those technical rules shall ensure the interoperability of systems and shall be objective and non-discriminatory. ACER may make appropriate recommendations towards achieving compatibility of those rules, where appropriate. Those rules shall be notified to the Commission in accordance with Article 5 of Directive (EU) 2015/1535 of the European Parliament and of the Council (43).
+
+2. Where relevant, Member States or, where Member States have so provided, the regulatory authorities shall require transmission system operators, distribution system operators and hydrogen network operators in their territory to publish technical rules in accordance with this Article, in particular regarding network connection rules that include gas quality, gas odorisation and gas pressure requirements. Member States shall also require transmission and distribution system operators to publish the connection fees to connect gas from renewable sources based on objective, transparent and non-discriminatory criteria.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. Member States shall ensure that all final customers are entitled to have natural gas and hydrogen provided by a supplier, subject to the supplier’s agreement, regardless of the Member State in which the supplier is registered, provided that the supplier observes the applicable trading, balancing and security of supply rules and criteria in accordance with Article 8(2). In that regard, Member States shall take all measures necessary to ensure that administrative procedures do not discriminate against suppliers already registered in another Member State.
+
+2. Without prejudice to Union rules on consumer protection, in particular Directive 2011/83/EU of the European Parliament and of the Council (44) and Council Directive 93/13/EEC (45), Member States shall ensure that final customers have the rights provided for in paragraphs 3 to 11 of this Article.
+
+3. Final customers shall have the right to a contract with their supplier that specifies:
+
+| (a) | the identity and contact details of the supplier, including address, email address and a consumer support hotline; |
+| --- | --- |
+
+| (b) | the services provided (including the product and tariff name), the main features of the services provided, the service quality levels offered, and the time for the initial connection; |
+| --- | --- |
+
+| (c) | the types of maintenance service offered; |
+| --- | --- |
+
+| (d) | the means by which up-to-date information on all applicable tariffs, maintenance charges and bundled products or services can be obtained; |
+| --- | --- |
+
+| (e) | the duration of the contract, the conditions for renewal and termination of the contract and services, including products or services that are bundled with those services, and whether terminating the contract without charge is permitted; |
+| --- | --- |
+
+| (f) | any compensation and the refund arrangements which apply if contracted service quality levels are not met, including inaccurate or delayed billing; |
+| --- | --- |
+
+| (g) | where the environmental performance, including where relevant carbon dioxide emissions, is promoted as an essential feature, clear, objective, publicly available and verifiable commitments provided by the supplier and, in the case of supply of renewable gas and low-carbon gas, certification of the renewable gas and low-carbon gas supplied in accordance with Article 9; |
+| --- | --- |
+
+| (h) | the method of initiating an out-of-court dispute settlement procedure in accordance with Article 25; |
+| --- | --- |
+
+| (i) | information relating to consumer rights, including clear and understandable information on complaint handling and how and where a complaint can be submitted and all the information referred to in this paragraph, that is clearly communicated on the bill or the hydrogen or natural gas undertaking’s website; |
+| --- | --- |
+
+| (j) | where relevant, information on the provider and the price of products or services that are tied to, or bundled with, natural gas or hydrogen supply.The contractual conditions shall be fair and well known in advance. In any case, the information shall be provided in consumer-friendly, clear and unambiguous language, prior to the conclusion or confirmation of the contract. Where contracts are concluded through intermediaries, the information referred to in this paragraph shall also be provided prior to the conclusion of the contract. Information on the provider of products or services, and the price of those products or services, that are tied to or bundled with gas supply shall be provided prior to the conclusion of the contract.Final customers shall be provided with a single summary of the key contractual conditions in a prominent manner and in concise and simple language. Member States shall require the supplier to use a common terminology. The Commission shall provide non-binding guidance in this regard. |
+| --- | --- |
+
+4. Final customers shall be given adequate notice of any intention to modify contractual conditions and shall be informed about their right to terminate the contract when the notice is given. Suppliers shall notify their final customer and in a transparent and comprehensible manner of any adjustment in the supply price and of the reasons and preconditions for the adjustment and its scope, no later than two weeks, or no later than one month in the case of household customers, before the adjustment comes into effect. Member States shall ensure that final customers are free to terminate contracts if they do not accept the new contractual conditions or adjustments in the supply price notified to them by their supplier.
+
+5. Suppliers shall provide final customers with transparent information on applicable prices, tariffs and standard terms and conditions, in respect of access to and use of services, for natural gas and hydrogen, in particular information on whether the price is fixed or variable and, where relevant, on promotions and discounts. Key contractual information shall be highlighted by the supplier.
+
+6. Suppliers shall offer final customers a wide choice of payment methods. Such payment methods shall not discriminate between customers. Vulnerable customers as referred to in Article 26 of this Directive and customers affected by energy poverty may be granted more favourable treatment. Any difference in charges related to payment methods or prepayment systems shall be objective, non-discriminatory and proportionate and shall not exceed the direct costs borne by the payee for the use of a specific payment method or a prepayment system, in accordance with Article 62 of Directive (EU) 2015/2366 of the European Parliament and of the Council (46).
+
+7. Household customers who have access to prepayment systems shall not be placed at a disadvantage by the prepayment systems.
+
+8. Suppliers shall offer final customers fair and transparent general terms and conditions, which shall be provided in plain and unambiguous language and shall not include non-contractual barriers to the exercise of customers’ rights, such as excessive contractual documentation. Customers shall be protected against unfair or misleading selling methods.
+
+9. Final customers shall have the right to a good standard of service and complaint handling by their suppliers. Suppliers shall handle complaints in a simple, fair and prompt manner.
+
+10. Suppliers shall provide natural gas household customers with adequate information on alternative measures to avoid disconnection sufficiently in advance of any planned disconnection. Such alternative measures may include information about sources of support to avoid disconnection, prepayment systems, energy audits, energy consultancy services, alternative payment plans, debt management advice or disconnection moratoria and shall not entail an extra cost to the customers facing disconnection.
+
+11. Suppliers shall provide final customers with a final closure account after any switch of supplier no later than six weeks after such a switch has taken place.
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. Customers shall have the right to switch suppliers for natural gas and hydrogen or to switch natural gas and hydrogen market participants. Member States shall ensure that a customer wishing to switch suppliers or market participants, while respecting contractual conditions, is entitled to such a switch within the shortest possible time, and in any event within three weeks from the date of the request by the customer. By 1 January 2026, the technical process of switching supplier or market participant shall take no longer than 24 hours and shall be possible on any working day.
+
+2. Member States shall ensure that the right to switch supplier or market participant is granted to customers in a non-discriminatory manner in terms of cost, effort and time.
+
+3. Member States shall ensure that at least household customers, microenterprises and small enterprises are not charged any switching-related fees for natural gas and hydrogen, included where gas supply is tied to or bundled with other services, equipment or products. However, Member States may allow suppliers or market participants to charge their customers contract termination fees where those customers voluntarily terminate fixed-term, fixed-price supply contracts before their maturity, provided that such fees:
+
+| (a) | are part of a contract that the customer has voluntarily entered into; and |
+| --- | --- |
+
+| (b) | are clearly communicated to the customer before the contract is entered into.Such fees shall be proportionate and shall not exceed the direct economic loss to the supplier or the market participant resulting from the termination of the contract by the customer. In the case of bundled offers, customers shall be able to terminate individual services of a contract. The burden of proving the direct economic loss shall be on the supplier or market participant. The permissibility of contract termination fees shall be monitored by the regulatory authority or by another competent national authority. |
+| --- | --- |
+
+4. Household customers for natural gas and hydrogen shall be entitled to participate in collective switching schemes. Member States shall remove all regulatory or administrative barriers for collective switching and provide a framework that ensures the consumer protection from abusive practices.
+
+5. Member States shall ensure that information on supplier switching is provided to final customers in a user-friendly format, including through the single points of contact referred to in Article 24.
+
+6. Member States shall ensure that customers are granted the right to terminate their gas supply contracts at short notice.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+Where the disconnection of network users pursuant to Article 38(6) is allowed, Member States shall ensure that:
+
+| (a) | the network users concerned and other relevant stakeholders, in particular consumer bodies, have been consulted; |
+| --- | --- |
+
+| (b) | network users, final customers and relevant stakeholders are informed sufficiently in advance of the planned date, the procedure for disconnection, the steps planned and the relevant timeline; |
+| --- | --- |
+
+| (c) | final customers receive information on and have access to sufficient advice on sustainable heating options, as well as information on financial support through relevant bodies to be identified by national authorities, including one-stop shops established pursuant to Articles 21 and 22 of Directive (EU) 2023/1791 and Article 18 of Directive (EU) 2024/1275 of the European Parliament and of the Council (47), and contact points set up or designated pursuant to Article 16(3) of Directive (EU) 2018/2001; |
+| --- | --- |
+
+| (d) | when planning and carrying out the phase-out of natural gas, specific needs of vulnerable customers as referred to in Article 26 and customers affected by energy poverty are duly taken into account and, where applicable, appropriate measures are taken with the aim of removing adverse effects of the natural gas phase-out taking into account the guidance referred to in Article 27, which measures may include the use of public funding and funding facilities established at Union level; |
+| --- | --- |
+
+| (e) | any financial transfer between regulated services follows the rules set out in Article 5 of Regulation (EU) 2024/1789 and there is no discrimination between different categories of customers and between energy carriers. |
+| --- | --- |
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+1. Member States shall ensure that at least natural gas household customers, as well as microenterprises and small enterprises with an expected yearly consumption of below 100 000 kWh, have access, free of charge, to at least one tool comparing the offers of suppliers, including bundled offers. Customers shall be informed of the availability of such tools in or together with their bills or by other means. Such tools shall at least:
+
+| (a) | be independent from market participants and ensure that natural gas undertakings are given equal treatment in search results; |
+| --- | --- |
+
+| (b) | clearly disclose their owners and the natural or legal person operating and controlling the tools, as well as information on how the tools are financed; |
+| --- | --- |
+
+| (c) | set out clear and objective criteria on which the comparison is to be based, including services, and disclose them; |
+| --- | --- |
+
+| (d) | use plain and unambiguous language; |
+| --- | --- |
+
+| (e) | provide accurate and up-to-date information and state the time of the last update of the information; |
+| --- | --- |
+
+| (f) | be accessible to persons with disabilities, by being perceivable, operable, understandable and robust; |
+| --- | --- |
+
+| (g) | provide an effective procedure for reporting incorrect information on published offers; |
+| --- | --- |
+
+| (h) | perform comparisons, while limiting the personal data requested to that strictly necessary for the comparison; |
+| --- | --- |
+
+| (i) | clearly indicate whether the price is fixed or variable and the duration of the contract.Member States shall ensure that at least one tool covers the entire market for natural gas. Where multiple tools cover the market, those tools shall include, as complete as practicable, a range of natural gas offers covering a significant part of the market and, where those tools do not completely cover the market, a clear statement to that effect, provided before displaying results.Suppliers and relevant intermediaries shall provide their relevant offers to at least one price comparison tool that covers the entire market.Suppliers shall ensure that the information provided to the operator of the comparison tool is accurate and up-to-date. |
+| --- | --- |
+
+2. The tools may be operated by any entity, including private companies and public authorities or bodies.
+
+3. Member States may require comparison tools referred to in paragraph 1 to include comparative criteria relating to the nature of the services offered by the suppliers, including the single unit price, all charges and information on discounts, and, where applicable, environmental performance.
+
+When establishing those criteria, Member States shall consult the relevant stakeholders.
+
+4. Member States shall appoint a competent authority to be responsible for issuing trust marks for comparison tools that meet the requirements set out in paragraph 1, and for ensuring that comparison tools bearing such a trust mark continue to meet those requirements. That competent authority shall be independent of any market participants and comparison tool operators.
+
+5. Any tool comparing the offers of market participants shall be eligible to apply for a trust mark as referred to in paragraph 4 on a voluntary and non-discriminatory basis.
+
+6. By way of derogation from paragraphs 4 and 5, Member States may choose not to provide for the issuance of trust marks to comparison tools if a public authority or body provides a comparison tool that meets the requirements set out in paragraph 1.
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+1. Member States shall ensure that final customers, in particular from the agricultural or public sectors, while maintaining their rights as final customers as established in this Directive, are entitled to act as active customers without being subject to disproportionate or discriminatory technical requirements, administrative requirements, procedures and charges, and to network charges that are not cost-reflective.
+
+2. Member States shall ensure that active customers are:
+
+| (a) | entitled to operate directly; |
+| --- | --- |
+
+| (b) | entitled to sell self-produced renewable natural gas using the natural gas system; |
+| --- | --- |
+
+| (c) | entitled to participate in energy efficiency and demand-shifting schemes; |
+| --- | --- |
+
+| (d) | entitled to delegate to a third party the management of the installations required for their activities, including installation, operation, data handling and maintenance, without that third party being considered to be an active customer; |
+| --- | --- |
+
+| (e) | subject to cost-reflective, transparent and non-discriminatory network charges, ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system; |
+| --- | --- |
+
+| (f) | financially responsible for the imbalances they cause in the natural gas system or are to delegate their balancing responsibility in accordance with Article 3, point (e), of Regulation (EU) 2024/1789. |
+| --- | --- |
+
+3. Member States may have different provisions applicable to individual and jointly-acting active customers in their national law, provided that all rights and obligations under this Article apply to all active customers. Any difference in the treatment of jointly-acting active customers shall be proportionate and duly justified.
+
+4. Member States shall ensure that active customers that own facilities that store renewable gas:
+
+| (a) | have the right to a grid connection within a reasonable time after they make a request to that effect, provided that all necessary conditions, such as balancing responsibility, are fulfilled; |
+| --- | --- |
+
+| (b) | are not subject to any double charges, including network charges, for stored renewable gas remaining within their premises; |
+| --- | --- |
+
+| (c) | are not subject to disproportionate licensing requirements or fees; |
+| --- | --- |
+
+| (d) | are allowed to provide several services simultaneously, if technically feasible. |
+| --- | --- |
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+1. Member States shall ensure that bills and billing information are accurate, easy to understand, clear, concise, user-friendly and presented in a manner that facilitates comparison by final customers and that they fulfil the minimum requirements set out in Annex I. On request, final customers shall receive a clear and understandable explanation of how their bill was derived, especially where bills are not based on actual consumption.
+
+2. Member States shall ensure that final customers receive all their bills and billing information free of charge.
+
+3. Member States shall ensure that final customers are offered the option of electronic bills and billing information and are offered flexible arrangements for the actual payment of the bills.
+
+4. Where the contract provides for a future change of the product or price, or a discount, this shall be indicated on the bill together with the date on which the change takes place.
+
+5. Member States shall consult consumer bodies when they consider changes to the requirements for the content of bills.
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+1. In order to complement energy efficiency measures adopted pursuant to Directives (EU) 2023/1791 and (EU) 2024/1275 and to further empower final customers, Member States or, where Member States have so provided, the regulatory authorities shall strongly recommend that natural gas undertakings optimise the use of natural gas by, inter alia, providing energy management services, and introducing smart metering systems in accordance with paragraph 2 of this Article, that are interoperable in particular with consumer energy management systems and with smart grids, in accordance with the applicable Union data protection rules.
+
+2. Member States shall proceed with the deployment in their territories of smart metering systems only after a cost-benefit assessment which shall be undertaken in accordance with the principles laid down in Annex II, identifying the net benefits to customers that arise from the use of smart meters and of signing up for smart meter-enabled offers. In their cost-benefit assessment, Member States may make separate assessments and evaluate the impact of deploying smart metering systems for different categories of customers and customer groups, such as household customers, microenterprises, SMEs and industry.
+
+3. Member States that proceed with the deployment of smart metering systems shall adopt and publish the minimum functional and technical requirements for the smart metering systems to be deployed in their territories, in accordance with Article 19 and Annex II. Member States shall ensure the interoperability of those smart metering systems, as well as their ability to provide output for consumer energy management systems. In that respect, Member States shall have due regard to the use of the relevant available standards, including those enabling interoperability, to best practices and to the importance of the development of smart grids and the development of the internal market for natural gas.
+
+4. Member States that proceed with the deployment of smart metering systems shall ensure the provision of clear and understandable information and advice to customers about the benefits of smart meters after consulting consumer bodies and other relevant organisations. That information shall at least:
+
+| (a) | include advice on how customer groups can use their smart metering systems to improve their energy efficiency; |
+| --- | --- |
+
+| (b) | address the specific needs of customers affected by energy poverty or vulnerable customers as referred to in Article 26 of this Directive, such as persons with a visual or hearing impairment and persons with low levels of literacy, including via engagement strategies as defined in Article 2, point (55), of Directive (EU) 2023/1791; |
+| --- | --- |
+
+5. Member States that proceed with the deployment of smart metering systems shall ensure that final customers contribute to the associated costs of the deployment in a transparent and non-discriminatory manner, while taking into account the long-term benefits to the whole value chain, including the benefits to network operations, when calculating the network charges applicable to or fees paid by customers. Member States or, where Member States have so provided, the designated competent authorities shall regularly monitor such deployment in their territories to track the delivery of benefits to customers.
+
+6. Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in paragraph 2, Member States shall ensure that the assessment is revised in response to significant changes in the underlying assumptions and in response to technological and market developments. Member States shall notify to the Commission the outcome of their updated cost-benefit assessment as it becomes available.
+
+7. The provisions in this Directive concerning smart metering systems shall apply to future installations and to installations that replace older smart meters. Smart metering systems that have already been installed, or for which the ‘start of works’ began, before 4 August 2024, may remain in operation over their lifetime. However, smart metering systems that do not meet the requirements of Article 19 and Annex II shall not remain in operation after 5 August 2036.
+
+8. For the purpose of paragraph 7, ‘start of works’ means either the start of construction works on the investment or the first firm commitment to order equipment or other commitment that makes the investment irreversible, whichever occurs first. Buying of land and preparatory works such as obtaining permits and conducting preliminary feasibility studies shall not be considered as ‘start of works’. For take-overs, ‘start of works’ means the moment of acquiring the assets directly linked to the acquired establishment.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+1. Member States shall ensure the deployment of smart metering systems that can accurately measure consumption and provide information on actual time of use, and that are able to transmit and receive data for information, monitoring and control purposes using a form of electronic communication.
+
+2. Notwithstanding paragraph 1 of this Article, such obligation to deploy shall be subject to a cost-benefit assessment at least for household customers, which shall be undertaken in accordance with the principles laid down in Annex II.
+
+3. Member States shall ensure the security of the smart metering systems and relevant data communication, and the privacy of final customers, in compliance with relevant Union data protection and privacy law, as well as their interoperability and having regard to the use of appropriate standards.
+
+4. The Commission shall adopt, by means of implementing acts, interoperability requirements for smart metering and procedures to ensure, for those eligible, access to data coming from smart metering systems. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 91(2).
+
+5. Member States that proceed with the deployment of smart metering systems shall ensure that final customers contribute to the associated costs of the deployment in a transparent and non-discriminatory manner, while taking into account the long-term benefits to the whole value chain, including to network operations, when calculating the network charges applicable to, or fees paid by, customers. Member States shall regularly monitor such deployment in their territories to track the delivery of benefits to customers.
+
+6. Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in paragraph 2, Member States shall ensure that the assessment is revised periodically in response to significant changes in the underlying assumptions and in response to technological and market developments. Member States shall notify to the Commission the outcome of their updated cost-benefit assessment as it becomes available.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+Where the deployment of smart metering systems is positively assessed as a result of the cost-benefit assessment referred to in Article 17(2), or where smart metering systems are systematically deployed after 4 August 2024, Member States shall deploy those systems in accordance with European standards, Annex II and the following requirements:
+
+| (a) | the smart metering systems accurately measure actual natural gas consumption and are capable of providing to final customers information on actual time of use, including validated historical consumption data made easily and securely available and visualised to final customers on request and at no additional cost, and non-validated most recent available consumption data made easily and securely available to final customers at no additional cost, through a standardised interface or through remote access, in order to support automated energy efficiency programmes, and other services; |
+| --- | --- |
+
+| (b) | the security of the smart metering systems and data communication complies with relevant Union security rules, having due regard to the best available techniques for ensuring the highest level of cybersecurity protection while bearing in mind the costs and the principle of proportionality; |
+| --- | --- |
+
+| (c) | the privacy of final customers and the protection of their data complies with relevant Union data protection and privacy rules; |
+| --- | --- |
+
+| (d) | where requested by final customers their natural gas consumption data is made available to them, in accordance with the implementing acts adopted pursuant to Article 23, through a standardised communication interface or through remote access, or to a third party acting on their behalf, in an easily understandable format allowing them to compare offers on a like-for-like basis; |
+| --- | --- |
+
+| (e) | appropriate advice and information is given to final customers prior to or at the time of installation of smart meters, in particular concerning their full potential with regard to the management of meter reading and the monitoring of energy consumption, and concerning the collection and processing of personal data in accordance with the applicable Union data protection rules; |
+| --- | --- |
+
+| (f) | smart metering systems enable final customers to be metered and settled at the same time resolution as the shortest settlement period in the national market.For the purposes of point (d), it shall be possible for final customers to retrieve their metering data or transmit them to another party at no additional cost and in accordance with their right to data portability under Union data protection rules. |
+| --- | --- |
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+1. Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in Article 17(2) and where smart metering systems are not systematically deployed, Member States shall ensure that customers are entitled, on request, while bearing the associated costs, to have installed or, where applicable, to have upgraded, under fair, reasonable and cost-effective conditions, a smart meter that:
+
+| (a) | is equipped, where technically feasible, with the functionalities referred to in Article 19, or with a minimum set of functionalities to be established and published by Member States at national level in accordance with Annex II; |
+| --- | --- |
+
+| (b) | is interoperable and able to deliver the desired connectivity of the metering infrastructure with consumer energy management systems. |
+| --- | --- |
+
+2. Where a customer requests the installation of a smart meter pursuant to paragraph 1, Member States or, where Member States have so provided, the designated competent authorities shall:
+
+| (a) | ensure that the offer to the customer requesting the installation of a smart meter explicitly states and clearly describes:(i)the functions and interoperability that can be supported by the smart meter and the services that can be provided as well as the benefits that can be realistically attained by having that smart meter at that moment in time;(ii)any associated costs to be borne by the customer; |
+| --- | --- |
+| (i) | the functions and interoperability that can be supported by the smart meter and the services that can be provided as well as the benefits that can be realistically attained by having that smart meter at that moment in time; |
+| (ii) | any associated costs to be borne by the customer; |
+
+| (b) | ensure that the smart meter is installed within a reasonable time, and in any event no later than four months after the customer’s request; |
+| --- | --- |
+
+| (c) | regularly, and in any event at least every two years, review and make public the associated costs, and trace the evolution of those costs as a result of technology developments and potential metering system upgrades. |
+| --- | --- |
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+1. Where final natural gas customers do not have smart meters, Member States shall ensure that final customers are provided with individual conventional meters that accurately measure their actual consumption. Member States may exempt household customers that do not use natural gas for heating purposes from this requirement where the deployment of such meters is not technically possible, financially reasonable or proportionate to the potential energy savings. That exemption may also be extended to non-household customers located in buildings where the majority of customers are household customers eligible for the exemption, if the deployment is not technically feasible.
+
+2. Member States shall ensure that final natural gas customers are able to easily read their conventional meters, either directly or indirectly through an online interface or through another appropriate interface.
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. When laying down the rules regarding the management and exchange of data, Member States or, where Member States have so provided, the designated competent authorities shall specify the rules on the access to data of the final customer by eligible parties in accordance with this Article and the applicable Union legal framework. For the purpose of this Directive, data shall be understood to include metering and consumption data as well as data required for customer switching, and other services.
+
+2. Member States shall organise the management of data in order to ensure efficient and secure data access and exchange, as well as data protection and data security.
+
+Independently of the data management model applied in each Member State, the parties responsible for data management shall provide access to the data of the final customer to any eligible party, in accordance with paragraph 1. Eligible parties shall have the requested data at their disposal in a non-discriminatory manner and simultaneously. Access to data shall be easy and the relevant procedures for obtaining access to data shall be made public.
+
+3. The rules on access to data and data storage for the purpose of this Directive shall comply with the relevant Union law.
+
+The processing of personal data within the framework of this Directive shall be carried out in accordance with Regulation (EU) 2016/679.
+
+4. Member States or, where Member States have so provided, the designated competent authorities shall authorise and certify or, where applicable, supervise the parties responsible for the data management, in order to ensure that they comply with the requirements of this Directive.
+
+Without prejudice to the tasks of the data protection officers laid down in Regulation (EU) 2016/679, Member States may decide to require that parties responsible for the data management appoint compliance officers who shall be responsible for monitoring the implementation of measures taken by those parties to ensure non-discriminatory access to data and compliance with the requirements of this Directive.
+
+Member States may appoint compliance officers or bodies referred to in Article 46(2), point (d) to fulfil the obligations under this paragraph.
+
+5. No additional costs shall be charged to final customers for access to their data or for a request to make their data available.
+
+Member States shall be responsible for setting the relevant charges for access to data by eligible parties.
+
+Member States shall ensure that any charges imposed by regulated entities that provide data services are reasonable and duly justified.
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+1. In order to promote competition in the retail market for natural gas and to avoid excessive administrative costs for the eligible parties, Member States shall facilitate the full interoperability of energy services within the Union.
+
+2. The Commission shall adopt, by means of implementing acts, interoperability requirements and non-discriminatory and transparent procedures for access to data referred to in Article 22(1). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 91(2).
+
+3. Member States shall ensure that natural gas undertakings apply the interoperability requirements and procedures for access to data referred to in paragraph 2. Those requirements and procedures shall be based on existing national practices.
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+Member States shall ensure that single points of contact are established to provide all customers, including those without access to the internet, with all necessary information concerning their rights, certified comparison tools, available support measures, including those targeted at vulnerable customers as referred to in Article 26 of this Directive, the applicable law and out-of-court dispute settlement mechanisms available to them in the event of a dispute. Such single points of contact may be part of general consumer information points and may be the same entities as the single contact points for electricity referred to in Article 25 of Directive (EU) 2019/944 or contact points established pursuant to Article 16(3) of Directive (EU) 2018/2001 and one-stop shops established pursuant to Articles 21 and 22 of Directive (EU) 2023/1791, and Article 18 of Directive (EU) 2024/1275. Member States shall promote alignment between the single points of contact established pursuant to this Directive and the bodies established pursuant to those Union legal acts.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+1. Member States shall ensure that final customers have access to simple, fair, reasonable, transparent, independent, cost-effective and efficient out-of-court mechanisms for the settlement of disputes concerning rights and obligations established under this Directive, through an independent mechanism such as an energy ombudsman or a consumer body, or through a regulatory authority. Where the final customer is a consumer within the meaning of Directive 2013/11/EU of the European Parliament and of the Council (48), such out-of-court dispute settlement mechanisms shall comply with the quality requirements of that Directive and shall provide, where warranted, for systems of reimbursement and compensation.
+
+2. Where necessary, Member States shall ensure that alternative dispute resolution entities cooperate to provide simple, fair, transparent, independent, effective and efficient out-of-court mechanisms for the settlement of disputes that arises from products or services that are tied to, or bundled with, any product or service falling under the scope of this Directive.
+
+3. The participation of natural gas undertakings in out-of-court dispute settlement mechanisms for household customers shall be mandatory unless the Member State concerned demonstrates to the Commission that other mechanisms are equally effective.
+
+4. Without prejudice to Directive 2013/11/EU, Member States shall assess the functioning of their out-of-court dispute settlement mechanisms referred to in this Article.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+1. Member States shall take appropriate measures to protect final customers, and shall, in particular, ensure that there are adequate safeguards to protect vulnerable customers and customers affected by energy poverty. In that context, each Member State shall define the concept of vulnerable customers which may refer to energy poverty. The definition of vulnerable customers shall be consistent with the concept of vulnerable customer as defined by a Member State pursuant to Article 28 of Directive (EU) 2019/944.
+
+2. In particular, Member States shall take appropriate measures to protect final customers in remote areas who are connected to the natural gas or hydrogen systems. Member States shall ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, and competitive, transparent and non-discriminatory prices, general information and dispute settlement mechanisms.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+The Commission shall provide guidance on the protection of vulnerable customers and customers affected by energy poverty during the planning and carrying out the phase-out of natural gas or when natural gas distribution networks are being decommissioned, in particular to ensure that the specific needs of such customers are duly taken into account in accordance with Article 13(1), point (d).
+
+<a id="art_28"></a>
+
+### art_28
+
+Article 28
+
+1. Member State shall take measures to prevent the disconnection of vulnerable customers and customers affected by energy poverty. In relation to vulnerable customers, those measures shall be subject to Article 26.
+
+When notifying the Commission of their transposition measures for this Directive, Member States shall explain the relationship between the first subparagraph and the corresponding parts of national transposition instruments.
+
+2. Member States shall ensure that suppliers do not terminate contracts with, or disconnect, customers on grounds in relation to which the relevant supplier is handling a complaint in accordance with Article 11(9) or which are the subject of out-of-court dispute settlement in accordance with Article 25, and shall not affect the parties’ contractual rights and obligations. Member States may take appropriate measures to avoid an abuse of process.
+
+3. Member States shall take appropriate measures to enable customers to avoid disconnection, which may include:
+
+| (a) | promoting voluntary codes of suppliers and customers aiming to prevent and manage situations of customers in arrears, which may concern support to customers to manage their energy use and costs, including flagging unusual high-energy spikes or usage, offering appropriate flexible payment plans, debt advice measures, improved communications with customers and support agencies; |
+| --- | --- |
+
+| (b) | promoting education and awareness of customers about their rights and debt management; and |
+| --- | --- |
+
+| (c) | access to finance, vouchers or subsidies to support payment of bills. |
+| --- | --- |
+
+<a id="art_29"></a>
+
+### art_29
+
+Article 29
+
+1. Member States shall establish a supplier of last resort regime or take equivalent measures to ensure continuity of supply at least for household customers. Suppliers of last resort shall be appointed in a fair, transparent and non-discriminatory procedure.
+
+2. Final customers who are transferred to suppliers of last resort shall continue to benefit from their rights as customers.
+
+3. Member States shall ensure that suppliers of last resort promptly communicate their terms and conditions to transferred customers and ensure seamless continuity of service for such customers for the period needed to find a new supplier.
+
+4. Member States shall ensure that final customers are provided with information and encouragement to switch to a market-based offer.
+
+5. Member States may require a supplier of last resort to supply natural gas to household customers and small and medium-sized enterprises who do not receive market-based offers, including for the purpose of Article 28(3). In such cases, the conditions set out in Article 4 shall apply.
+
+<a id="art_30"></a>
+
+### art_30
+
+Article 30
+
+Member States shall enable the access of renewable gas and low-carbon gas to the market and infrastructure regardless of whether the production facilities for renewable gas and low-carbon gas are connected to distribution or transmission networks, taking into account assumptions on the evolution of the production, supply and consumption of natural gas in accordance with Article 55(2), point (f).
+
+<a id="art_31"></a>
+
+### art_31
+
+Article 31
+
+1. Member States shall ensure the implementation of a system of third-party access to the transmission and distribution system and LNG facilities based on published tariffs, applicable to all customers, including supply undertakings, and applied objectively and without discrimination between system users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 78 by a regulatory authority and that those tariffs – and the methodologies, where only methodologies are approved – are published prior to their entry into force.
+
+2. Transmission system operators shall, if necessary for the purpose of carrying out their functions including in relation to cross-border transmission, have access to the network of other transmission system operators.
+
+3. This Directive shall not prevent the conclusion of long-term contracts for renewable gas and low-carbon gas in so far as they comply with Union competition rules and contribute to decarbonisation. No long-term contracts for the supply of unabated fossil gas shall be concluded with a duration beyond 31 December 2049.
+
+<a id="art_32"></a>
+
+### art_32
+
+Article 32
+
+1. Member States shall take the necessary measures to ensure that natural gas undertakings and eligible customers, wherever they are located, are able to obtain access to upstream pipeline networks, including facilities supplying technical services incidental to such access, in accordance with this Article, except for the parts of such networks and facilities which are used for local production operations at the site of a field where the natural gas is produced. The measures shall be notified to the Commission in accordance with Article 94.
+
+2. The access referred to in paragraph 1 shall be provided in a manner determined by the Member States in accordance with the relevant legal instruments. Member States shall apply the objectives of fair and open access, achieving a competitive market for natural gas and avoiding any abuse of a dominant position, taking into account security and regularity of supplies, capacity which is or can reasonably be made available, and environmental protection. The following needs may be taken into account:
+
+| (a) | the need to refuse access where there is an incompatibility of technical specifications which cannot reasonably be overcome; |
+| --- | --- |
+
+| (b) | the need to avoid difficulties which cannot reasonably be overcome and could prejudice the efficient, current and planned future production of hydrocarbons, including that from fields of marginal economic viability; |
+| --- | --- |
+
+| (c) | the need to respect the duly substantiated reasonable needs of the owner or operator of the upstream pipeline network for the transport and processing of natural gas and the interests of all other users of the upstream pipeline network or relevant processing or handling facilities who may be affected; and |
+| --- | --- |
+
+| (d) | the need to apply their laws and administrative procedures, in conformity with Union law, for the grant of authorisation for production or upstream development. |
+| --- | --- |
+
+3. Member States shall ensure that they have in place dispute-settlement arrangements, including an authority independent of the parties with access to all relevant information, to enable disputes relating to access to upstream pipeline networks to be settled expeditiously, taking into account the needs referred to in paragraph 2 and the number of parties which may be involved in negotiating access to such networks.
+
+4. In the event of cross-border disputes, the dispute-settlement arrangements for the Member State having jurisdiction over the upstream pipeline network which refuses access shall be applied. Where, in cross-border disputes, more than one Member State covers the network concerned, the Member States concerned shall consult each other with a view to ensuring that this Directive is applied consistently. Where the upstream pipeline network originates from a third country and connects to at least one Member State, the Member States concerned shall consult each other and the Member State where the first entry point to the Member States’ network is located shall consult the third country concerned where the upstream pipeline network originates, with a view to ensuring, as regards the network concerned, that this Directive is applied consistently in the territory of the Member States.
+
+<a id="art_33"></a>
+
+### art_33
+
+Article 33
+
+1. For the organisation of access to natural gas storage facilities and linepack where technically or economically necessary for providing efficient access to the system for the supply of customers, as well as for the organisation of access to ancillary services, Member States may choose either or both of the procedures referred to in paragraphs 3 and 4. Those procedures shall operate in accordance with objective, transparent and non-discriminatory criteria.
+
+When choosing the procedure for access to storage of natural gas under this Article, Member States shall take into account the results of the common and national risk assessments carried out pursuant to Article 7 of Regulation (EU) 2017/1938.
+
+The regulatory authorities shall establish and publish criteria in accordance with which the access regime applicable to natural gas storage facilities and linepack is to be determined. They shall make public, or oblige natural gas storage system operators and transmission system operators to make public, which natural gas storage facilities, or which parts of those natural gas storage facilities, and which linepack is offered under the different procedures referred to in paragraphs 3 and 4.
+
+2. Paragraph 1 shall not apply to ancillary services and temporary storage that are related to LNG facilities and are necessary for the re-gasification process and subsequent delivery to the transmission system.
+
+3. In the case of negotiated access, the regulatory authorities shall take the necessary measures for undertakings and eligible customers either inside or outside the territory covered by the interconnected system to be able to negotiate access to natural gas storage facilities and linepack, when technically or economically necessary for providing efficient access to the system, as well as for the organisation of access to other ancillary services. The parties shall be obliged to negotiate access to storage, linepack and other ancillary services in good faith.
+
+Contracts for access to storage, linepack and other ancillary services shall be negotiated with the relevant natural gas storage system operator. The regulatory authorities shall require natural gas storage system operators and natural gas undertakings to publish their main commercial conditions for the use of storage, linepack and other ancillary services on an annual basis.
+
+When developing those conditions, natural gas storage system operators shall consult system users.
+
+4. In the case of regulated access, the regulatory authorities shall take the necessary measures to give natural gas undertakings and eligible customers either inside or outside the territory covered by the interconnected system a right to access to storage, linepack and other ancillary services, on the basis of published tariffs or other terms and obligations for use of that storage and linepack, when technically or economically necessary for providing efficient access to the system, as well as for the organisation of access to other ancillary services. The regulatory authorities shall consult system users when developing those tariffs or the methodologies for those tariffs. The right of access for eligible customers may be given by enabling them to enter into supply contracts with competing undertakings other than the owner or operator of the system or a related undertaking.
+
+<a id="art_34"></a>
+
+### art_34
+
+Article 34
+
+1. Member States shall take the necessary measures to enable:
+
+| (a) | natural gas undertakings established within their territory to supply the eligible customers through a direct line; and |
+| --- | --- |
+
+| (b) | any such customer within their territory to be supplied through a direct line by natural gas undertakings. |
+| --- | --- |
+
+2. In circumstances where an authorisation, such as a licence, permission, concession, consent or approval, is required for the construction or operation of direct lines, the Member States or any competent authority they designate shall lay down the criteria for the grant of authorisations for the construction or operation of such lines in their territory. Those criteria shall be objective, transparent and non-discriminatory.
+
+3. Member States may issue an authorisation to construct a direct line subject either to the refusal of system access based on Article 38 or to the opening of a dispute-settlement procedure pursuant to Article 79.
+
+<a id="art_35"></a>
+
+### art_35
+
+Article 35
+
+1. Member States shall ensure the implementation of a system of regulated third-party access to hydrogen networks based on published tariffs and applied objectively and without discrimination between any hydrogen network users.
+
+2. Member States shall ensure that the tariffs referred to in paragraph 1 of this Article, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 78 by a regulatory authority and that those tariffs – and the methodologies, where only methodologies are approved – are published prior to their entry into force.
+
+3. Hydrogen network operators shall, where necessary for the purpose of carrying out their functions, including in relation to cross-border hydrogen transport, have access to the network of other hydrogen network operators.
+
+4. Until 31 December 2032, a Member State may decide not to apply paragraph 1. In such a case, the Member State shall ensure the implementation of a system of negotiated third-party access to hydrogen networks in accordance with objective, transparent and non-discriminatory criteria. The regulatory authorities shall take the necessary measures for hydrogen network users to be able to negotiate access to hydrogen networks and to ensure that the parties are obliged to negotiate access to hydrogen networks in good faith.
+
+5. Where negotiated access as referred to in paragraph 4 is used, regulatory authorities shall provide guidance to hydrogen network users on how negotiated tariffs are to be affected when regulated third-party access is introduced.
+
+<a id="art_36"></a>
+
+### art_36
+
+Article 36
+
+1. Member States shall ensure the implementation of a system of third-party access to hydrogen terminals based on negotiated access in an objective, transparent and non-discriminatory manner, whereby the regulatory authorities shall take the necessary measures for hydrogen terminal users to be able to negotiate access to such terminals. The parties shall be obliged to negotiate access in good faith.
+
+2. Regulatory authorities shall monitor conditions for third-party access to hydrogen terminals and their impact on the market for hydrogen and, where necessary in order to safeguard competition, take measures to improve access in line with the criteria set out in paragraph 1.
+
+<a id="art_37"></a>
+
+### art_37
+
+Article 37
+
+1. Member States shall ensure the implementation of a system of regulated third-party access to hydrogen storage and, when technically and economically necessary for providing efficient access to the system for the supply of customers, access to linepack, as well as for the organisation of access to ancillary services based on published tariffs and applied objectively and without discrimination between any hydrogen system users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation, are approved by the regulatory authority prior to their entry into force in accordance with Article 78.
+
+2. Until 31 December 2032, a Member State may decide not to apply paragraph 1. In such a case, the Member State shall ensure the implementation of a system of negotiated third-party access to hydrogen storage and, when technically and economically necessary for providing efficient access to the system for the supply of customers, access to linepack, as well as for the organisation of access to ancillary services, in accordance with objective, transparent and non-discriminatory criteria. The regulatory authorities shall take the necessary measures for hydrogen storage users to be able to negotiate access to hydrogen storage and to ensure that the parties are obliged to negotiate access to hydrogen storage in good faith.
+
+3. Member States may provide for capacity rights allocated before 5 August 2026 under a system of negotiated third-party access pursuant to paragraph 2 to be respected until their date of expiry and for them not to be affected by the implementation of a regulated third-party access pursuant to paragraph 1.
+
+<a id="art_38"></a>
+
+### art_38
+
+Article 38
+
+1. Transmission system operators, distribution system operators and hydrogen network operators may refuse access or connection to the natural gas or hydrogen system on the basis of lack of capacity or a lack of connection.
+
+2. Without prejudice to Union and national decarbonisation objectives and existing requirements to reduce or switch from fossil gas consumption, Member States shall take appropriate measures to ensure that the transmission system operator, distribution system operator or hydrogen network operators refusing access or connection to the natural gas system or hydrogen system on the basis of lack of capacity or a lack of connection makes the necessary enhancements as far as it is economic to do so or when a potential customer is willing to pay for them.
+
+3. Access to the system for renewable gas and low-carbon gas may only be refused subject to Articles 20 and 36 of Regulation (EU) 2024/1789.
+
+4. By way of derogation from paragraphs 1, 2 and 3 of this Article, a Member State shall ensure that transmission system operators and distribution system operators are allowed to refuse access or connection, or to disconnect, natural gas network users, in particular to ensure compliance with the implementation of the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, provided that:
+
+| (a) | the network development plan established pursuant to Article 55 provides for the decommissioning of the transmission system or relevant parts thereof; |
+| --- | --- |
+
+| (b) | the relevant national authority has approved the network decommissioning plan pursuant to Article 57(3); |
+| --- | --- |
+
+| (c) | the relevant distribution network operator, exempted to submit a network decommissioning plan pursuant to Article 57(5), has informed the relevant national authority of the decommissioning of the distribution network or relevant parts thereof. |
+| --- | --- |
+
+5. Member States allowing for the refusal of access or connection or for the disconnection of network users pursuant to paragraph 4 of this Article shall provide for a regulatory framework for refusal of access or connection or for disconnection that is based on objective, transparent and non-discriminatory criteria established by the regulatory authority, taking into account the interests affected, the existing requirements to reduce or switch from natural gas consumption and the relevant local heating and cooling plans established pursuant to Article 25(6) of Directive (EU) 2023/1791. Member States shall take adequate measures to protect network users in accordance with Article 13 of this Directive when allowing disconnection.
+
+6. Any refusal of access or connection and any disconnection pursuant to this Article shall be duly substantiated.
+
+<a id="art_39"></a>
+
+### art_39
+
+Article 39
+
+1. Each transmission, storage or LNG system operator for natural gas shall:
+
+| (a) | operate, maintain, develop or decommission under economic conditions secure, reliable and efficient transmission, storage or LNG facilities for natural gas to secure an open market, with due regard to the environment and the climate and the obligations laid down in Regulation (EU) 2024/1787, and ensure adequate means to meet its service obligations; |
+| --- | --- |
+
+| (b) | not discriminate between system users or classes of system users, specifically in favour of its related undertakings; |
+| --- | --- |
+
+| (c) | provide to any other transmission system operator, any other natural gas storage system operator, any other LNG system operator or any distribution system operator sufficient information to ensure that the transport and storage of natural gas may take place in a manner compatible with the secure and efficient operation of the interconnected system; |
+| --- | --- |
+
+| (d) | provide system users with the information they need for efficient access to the system. |
+| --- | --- |
+
+2. Each transmission system operator shall build sufficient cross-border capacity to integrate European transmission infrastructure accommodating all economically reasonable and technically feasible demands for capacity and taking into account security of gas supply.
+
+3. Transmission system operators shall cooperate with distribution system operators to ensure the effective participation of market participants connected to the grid in retail, wholesale and balancing markets.
+
+4. Transmission system operators shall ensure efficient gas quality management in their facilities in line with applicable gas quality standards.
+
+5. Rules adopted by transmission system operators for balancing the gas transmission system shall be objective, transparent and non-discriminatory, including rules for the charging of system users of their networks for energy imbalance. Terms and conditions, including rules and tariffs, for the provision of such services by transmission system operators shall be established pursuant to a methodology compatible with Article 78(7) in a non-discriminatory and cost-reflective manner and shall be published.
+
+6. Member States or, where Member States have so provided, the regulatory authorities may require transmission system operators to comply with minimum standards for the maintenance and development of the transmission system, including interconnection capacity.
+
+7. Member States may provide that one or several tasks listed in paragraph 1 of this Article are assigned to a transmission system operator other than the one which owns the transmission system to which the responsibilities concerned would otherwise be applicable. The transmission system operator to which the tasks are assigned shall be certified under the ownership unbundling, the independent system operator or the independent transmission operator model and fulfil the requirements provided for in Article 60, but shall not be required to own the transmission system it is responsible for.
+
+8. A transmission system operator which owns the transmission system shall fulfil the requirements provided for in Chapter IX and be certified in accordance with Article 71. This shall be without prejudice to the possibility for transmission system operators which are certified under the ownership unbundling, the independent system operator or the independent transmission operator model to delegate, on their own initiative and under their supervision, certain tasks to other transmission system operators which are certified under the ownership unbundling, the independent system operator or the independent transmission operator model, where the delegation of tasks does not endanger the effective and independent decision-making rights of the delegating transmission system operator.
+
+9. LNG, transmission and natural gas storage system operators shall cooperate, within a Member State and regionally, to ensure the most efficient use of facilities’ capacities and of synergies between those facilities, taking into account system integrity and operation and avoiding creating constraints in operating LNG and natural gas storage facilities.
+
+10. Transmission system operators shall procure the energy they use for the carrying out of their functions in accordance with transparent, non-discriminatory and market-based procedures.
+
+<a id="art_40"></a>
+
+### art_40
+
+Article 40
+
+1. Without prejudice to Article 74 or any other legal duty to disclose information, each transmission, storage or LNG system operator for natural gas, and each transmission system owner, shall preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its activities, and shall prevent information about its own activities which may be commercially advantageous from being disclosed in a discriminatory manner. If the transmission, storage or LNG system operator for natural gas, or the transmission system owner, is part of a vertically integrated undertaking, it shall not disclose, in particular, any commercially sensitive information to the remaining parts of the vertically integrated undertaking other than transmission system operators, distribution system operators or hydrogen network operators, unless this is necessary for carrying out a business transaction. In order to ensure the full respect of the rules on information unbundling, Member States shall ensure that the transmission system owner, including in the case of a combined operator the distribution system operator, and the remaining parts of the undertaking which are not transmission or distribution system operators or hydrogen network operators, do not use joint services, such as joint legal services, apart from purely administrative or IT functions.
+
+2. Transmission, storage or LNG system operators for natural gas shall not, in the context of sales or purchases of natural gas by related undertakings, misuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to the system.
+
+3. Information necessary for effective competition and the efficient functioning of the market shall be made public. That obligation shall be without prejudice to protecting commercially sensitive information.
+
+<a id="art_41"></a>
+
+### art_41
+
+Article 41
+
+1. The transmission system operator shall establish and publish transparent and efficient procedures for non-discriminatory connection of production facilities for renewable gas and low-carbon gas, in line with the capacities identified in the ten-year network development plan referred to in Article 55. Those procedures shall be subject to approval by the regulatory authorities. Member States may grant production facilities for biomethane priority to connect.
+
+2. The transmission system operators shall not be entitled to refuse economically reasonable and technically feasible connection requests of a new or of an existing but not yet connected production facility for renewable gas and low-carbon gas, except under the conditions set out in Article 38.
+
+3. For the purpose of the swift implementation of grid connection of biomethane production, Member States shall endeavour to ensure that the transmission system operator complies with reasonable time limits to assess requests for the injection of biomethane, make an offer and implement the connection, under the monitoring by the regulatory authorities carried out in accordance with Article 78(1), point (t).
+
+<a id="art_42"></a>
+
+### art_42
+
+Article 42
+
+1. The transmission system operator and the hydrogen transmission network operator shall establish and publish transparent and efficient procedures and tariffs for non-discriminatory connection of natural gas and hydrogen storage facilities, LNG facilities, hydrogen terminals and industrial customers to the transmission system and the hydrogen transmission network. Those procedures shall be subject to approval by the regulatory authority.
+
+2. The transmission system operator and the hydrogen transmission network operator shall not be entitled to refuse the connection of a new natural gas or hydrogen storage facility, LNG facility, hydrogen terminal or industrial customer on the grounds of possible future limitations to available network capacities or additional costs linked with necessary capacity increase. The transmission system operator and hydrogen transmission network operator shall ensure sufficient entry and exit capacity for the new connection.
+
+<a id="art_43"></a>
+
+### art_43
+
+Article 43
+
+Member States shall designate, or shall require undertakings which own or are responsible for distribution systems or hydrogen distribution networks to designate, following a transparent procedure, for a period of time to be determined by Member States, having regard to considerations of economic and energy efficiency and economic balance, one or more distribution system operators or hydrogen distribution network operators and shall ensure that those operators act in accordance with Articles 44, 46, 47 and 50.
+
+<a id="art_44"></a>
+
+### art_44
+
+Article 44
+
+1. Each distribution system operator shall be responsible for ensuring the long-term ability of the system to meet reasonable demands for the distribution of natural gas in accordance with Articles 55 and 57 of this Directive including for biomethane injection, and for operating, maintaining and developing or decommissioning under economic conditions a secure, reliable and efficient system in its area, with due regard for the environment, the obligations laid down in Regulation (EU) 2024/1787 and energy efficiency.
+
+2. When so decided by regulatory authorities, distribution system operators may be responsible for ensuring efficient gas quality management in their systems in line with applicable gas quality standards, where necessary for system management due to the injection of renewable gas and low-carbon gas.
+
+3. In any event, the distribution system operator shall not discriminate between system users or classes of system users, particularly in favour of its related undertakings.
+
+4. Each distribution system operator shall provide any other distribution, transmission, LNG, or natural gas storage system operator with sufficient information to ensure that the transport and storage of natural gas take place in a manner compatible with the secure and efficient operation of the interconnected system.
+
+5. Each distribution system operator shall provide system users with the information they need for efficient access to, including use of, the system.
+
+6. Where a distribution system operator is responsible for balancing the distribution system, rules adopted by it for that purpose shall be objective, transparent and non-discriminatory, including rules for the charging of system users for energy imbalance. Terms and conditions, including rules and tariffs, for the provision of such services by distribution system operators shall be established pursuant to a methodology compatible with Article 78(7) in a non-discriminatory and cost-reflective manner and shall be published.
+
+7. Distribution system operators shall cooperate with transmission system operators to ensure the effective participation of market participants connected to their infrastructure in retail, wholesale and balancing markets in the entry-exit system to which the distribution system belongs or is connected to.
+
+8. The distribution system operators shall not be entitled to refuse economically reasonable and technically feasible connection requests of a new or existing but not yet connected production facility for renewable gas and low-carbon gas, except under the conditions set out in Article 38.
+
+<a id="art_45"></a>
+
+### art_45
+
+Article 45
+
+Regulatory authorities shall require the distribution system operator to publish transparent and efficient procedures for non-discriminatory connection of production facilities for renewable gas and low-carbon gas. Those procedures shall be subject to approval by the regulatory authorities. Member States may grant production facilities for biomethane priority to connect.
+
+For the purpose of the swift implementation of grid connection of biomethane production, Member States shall endeavour to ensure that the distribution system operator complies with reasonable time limits to assess requests for the injection of biomethane, make an offer and implement the connection, under the monitoring by the regulatory authorities carried out in accordance with Article 78(1), point (t).
+
+<a id="art_46"></a>
+
+### art_46
+
+Article 46
+
+1. Where the distribution system operator or the hydrogen distribution network operator is part of a vertically integrated undertaking, it shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to distribution or hydrogen distribution. Those rules shall not create an obligation to separate the ownership of assets of the distribution system or the hydrogen distribution network from the vertically integrated undertaking. Member States may provide that hydrogen distribution network operators are able to rent or lease hydrogen network assets from other distribution system owners, distribution system operators or hydrogen distribution network operators within the same undertaking. Such renting or leasing shall not lead to cross-subsidies between different operators.
+
+2. In addition to the requirements laid down in paragraph 1, where the distribution system operator or the hydrogen distribution network operator is part of a vertically integrated undertaking, it shall be independent in terms of its organisation and decision-making from the other activities not related to distribution or hydrogen distribution. In order to achieve this, the following minimum criteria shall apply:
+
+| (a) | management of the distribution system operator or the hydrogen distribution network operator shall not participate in company structures of the integrated natural gas undertaking or the vertically integrated undertaking responsible, directly or indirectly, for the day-to-day operation of the production, transmission, and supply of natural gas and hydrogen; |
+| --- | --- |
+
+| (b) | appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of the distribution system operator or the hydrogen distribution network operator are taken into account in a manner that ensures that they are capable of acting independently; |
+| --- | --- |
+
+| (c) | the distribution system operator or the hydrogen distribution network operator shall have effective decision-making rights, independent from the integrated natural gas undertaking or the vertically integrated undertaking, with respect to assets necessary to operate, maintain or develop the network; in order to fulfil those tasks, the distribution system operator or the hydrogen distribution network operator shall have at its disposal the necessary resources including human, technical, financial and physical resources; this shall not prevent the existence of appropriate coordination mechanisms to ensure that the economic and management supervision rights of the parent company in respect of return on assets, regulated indirectly in accordance with Article 78(7), in a subsidiary are protected; in particular, this shall enable the parent company to approve the annual financial plan, or any equivalent instrument, of the distribution system operator or the hydrogen distribution network operator and to set global limits on the levels of indebtedness of its subsidiary; it shall not permit the parent company to give instructions regarding day-to-day operations, nor with respect to individual decisions concerning the construction or upgrading of distribution lines, that do not exceed the terms of the approved financial plan, or any equivalent instrument; |
+| --- | --- |
+
+| (d) | the distribution system operator or the hydrogen distribution network operator shall establish a compliance programme which sets out measures taken to ensure that discriminatory conduct is excluded, and shall ensure that observance of that compliance programme is adequately monitored; the compliance programme shall set out the specific obligations of employees to meet that objective; an annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme, or the compliance officer of the distribution system operator or the hydrogen distribution network operator to the regulatory authority and shall be published; the compliance officer of the distribution system operator or the hydrogen distribution network operator shall be fully independent and shall have access to all the necessary information of the distribution system operator or hydrogen distribution network operator and any affiliated undertaking to fulfil the compliance officer’s task. |
+| --- | --- |
+
+3. Where the distribution system operator or the hydrogen distribution network operator is part of a vertically integrated undertaking, the Member States shall ensure that the activities of the distribution system operator or the hydrogen distribution network operator are monitored by regulatory authorities or other competent bodies so that it cannot take advantage of its vertical integration to distort competition. In particular, vertically integrated distribution system operators or hydrogen distribution network operators shall not, in their communication and branding, create confusion in respect of the separate identity of the supply branch of the vertically integrated undertaking.
+
+4. Member States may decide not to apply paragraphs 1, 2 and 3 to distribution system operators which are part of an integrated natural gas undertaking serving less than 100 000 connected customers. Where a distribution system operator benefits from a derogation in accordance with this paragraph on 4 August 2024, Member States may decide not to apply paragraphs 1, 2 and 3 to a hydrogen distribution network operator within the same undertaking, provided that the combined number of connected customers of the distribution system operator and the hydrogen distribution network operator remains inferior to 100 000.
+
+<a id="art_47"></a>
+
+### art_47
+
+Article 47
+
+1. Without prejudice to Article 74 or any other legal duty to disclose information, each distribution system operator shall preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its business, and shall prevent information about its own activities which may be commercially advantageous from being disclosed in a discriminatory manner.
+
+2. Distribution system operators shall not, in the context of sales or purchases of natural gas by related undertakings, abuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to the system.
+
+<a id="art_48"></a>
+
+### art_48
+
+Article 48
+
+1. Member States may provide for regulatory authorities or other competent authorities to classify a system which distributes natural gas within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4, supply household customers, as a closed distribution system provided that:
+
+| (a) | for specific technical or safety reasons, the operations or the production process of the users of that system are integrated; or |
+| --- | --- |
+
+| (b) | that system distributes natural gas primarily to the owner or operator of the system or to their related undertakings. |
+| --- | --- |
+
+2. Member States may provide for regulatory authorities to exempt the operator of a closed natural gas distribution system from the requirement laid down in Article 31(1) that tariffs, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 78.
+
+3. Where an exemption is granted pursuant to paragraph 2 of this Article, the applicable tariffs, or the methodologies underlying their calculation, shall be reviewed and approved in accordance with Article 78 upon request by a user of the closed natural gas distribution system.
+
+4. Incidental use by a small number of household customers with employment or similar associations with the owner of the distribution system and located within the area served by a closed distribution system shall not preclude an exemption being granted pursuant to paragraph 2.
+
+5. Closed distribution systems shall be considered as distribution systems for the purposes of this Directive.
+
+<a id="art_49"></a>
+
+### art_49
+
+Article 49
+
+1. Article 46(1) shall not prevent the operation of a combined operator of transmission, storage or LNG facilities for natural gas or distribution system, provided that the operator complies with the relevant provisions of Chapter IX.
+
+2. Article 46(1) shall not prevent the operation of a combined operator of hydrogen transmission networks, hydrogen terminals, hydrogen storage facilities or hydrogen distribution networks, provided that the operator complies with Articles 68 and 69.
+
+3. Paragraphs 1 and 2 of this Article shall not prevent the operation of a combined operator across the natural gas and hydrogen systems, subject to the requirements of Article 69.
+
+<a id="art_50"></a>
+
+### art_50
+
+Article 50
+
+1. Each operator of a hydrogen network, storage or terminal shall be responsible for:
+
+| (a) | operating, maintaining and developing, including repurposing, under economic conditions a secure and reliable infrastructure for hydrogen transport or storage with due regard to the environment, in close cooperation with connected and neighbouring hydrogen network operators in order to optimise co-location of production and use of hydrogen and on the basis of the ten-year network development plan referred to in Article 55; |
+| --- | --- |
+
+| (b) | ensuring the long-term ability of the hydrogen system to meet reasonable demands identified for the transport and storage of hydrogen in accordance with the ten-year network development plan referred to in Article 55; |
+| --- | --- |
+
+| (c) | ensuring adequate means to meet its obligations; |
+| --- | --- |
+
+| (d) | providing to the operator of other networks or systems with which its system is interconnected sufficient information, including on hydrogen quality, to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system; |
+| --- | --- |
+
+| (e) | not discriminating between hydrogen system users or classes of infrastructure users, specifically in favour of its related undertakings; |
+| --- | --- |
+
+| (f) | providing hydrogen system users with the information they need for efficient access to the infrastructure; |
+| --- | --- |
+
+| (g) | taking all reasonable measures available to prevent and minimise hydrogen emissions in their operations and carrying out, at regular intervals, a hydrogen leak detection and repair survey of all relevant components under the operator responsibility; |
+| --- | --- |
+
+| (h) | submitting a hydrogen leak detection report and, where necessary, a repair or replacement programme to the competent authorities, making public statistical information on hydrogen leak detection and repair on an annual basis. |
+| --- | --- |
+
+2. Hydrogen transmission network operators shall aim to ensure sufficient cross-border capacity to integrate European hydrogen infrastructure accommodating all economically reasonable and technically feasible demands for capacity identified in the ten-year network development plan referred to in Article 55 of this Directive and the Union-wide ten-year network development plan for hydrogen referred to in Article 60 of Regulation (EU) 2024/1789 and taking into account security of hydrogen supply. Upon their certification pursuant to Article 71 of this Directive and Article 14 of Regulation (EU) 2024/1789, competent authorities of Member States may decide to task one or a limited number of hydrogen transmission network operators with the responsibility for ensuring cross-border capacity.
+
+3. Where appropriate for system management and end-users, the regulatory authority shall entrust hydrogen network operators with the responsibility for ensuring efficient hydrogen quality management and stable hydrogen quality in their networks in line with applicable hydrogen quality standards.
+
+4. Hydrogen network operators shall be responsible for balancing in their networks as from 1 January 2033, or as from an earlier date where so provided by the regulatory authority. Rules adopted by hydrogen network operators for balancing the hydrogen network shall be objective, transparent and non-discriminatory, including rules for the charging of users of their networks for energy imbalance.
+
+<a id="art_51"></a>
+
+### art_51
+
+Article 51
+
+1. Member States may provide for regulatory authorities to grant a derogation from the requirements of one or more of Articles 35, 46, 68, 69, 70 and 71 of this Directive and Articles 7 and 65 of Regulation (EU) 2024/1789 to hydrogen networks that belonged to a vertically integrated undertaking on 4 August 2024.
+
+2. Any derogation granted pursuant to paragraph 1 shall expire where:
+
+| (a) | the regulatory authority, upon request by the vertically integrated undertaking, decides to end the derogation; |
+| --- | --- |
+
+| (b) | the hydrogen network benefitting from the derogation is connected to another hydrogen network; |
+| --- | --- |
+
+| (c) | the hydrogen network benefitting from the derogation or its capacity is expanded by more than 5 % in terms of length or capacity compared to 4 August 2024; or |
+| --- | --- |
+
+| (d) | the regulatory authority concludes by decision that the continued application of the derogation would carry the risk of impeding competition or adversely affecting the efficient deployment of hydrogen infrastructure or the development and functioning of the market for hydrogen in the Member State or the Union. |
+| --- | --- |
+
+3. Every seven years as from the date of granting of a derogation pursuant to paragraph 1, the regulatory authority shall publish an assessment of the impact of the derogation on competition, on hydrogen infrastructure and on the development and functioning of the market for hydrogen in the Union or the Member State.
+
+4. Regulatory authorities may request operators of existing hydrogen networks to provide them with all information necessary for the execution of their tasks.
+
+<a id="art_52"></a>
+
+### art_52
+
+Article 52
+
+1. Member States may provide for regulatory authorities to grant a derogation from Articles 68 and 71 or from Article 46 for hydrogen networks which transport hydrogen within a geographically confined, industrial or commercial area. For the duration of the derogation, such network shall fulfil all the following conditions:
+
+| (a) | it shall not include hydrogen interconnectors; |
+| --- | --- |
+
+| (b) | it shall not have direct connections to hydrogen storage facilities or hydrogen terminals, unless such storage facilities or terminals are also connected to a hydrogen network which does not benefit from a derogation granted pursuant to this Article or to Article 51; |
+| --- | --- |
+
+| (c) | it shall primarily serve the purpose of supplying hydrogen to customers directly connected to this network; and |
+| --- | --- |
+
+| (d) | it shall not be connected to any other hydrogen network, except to networks also benefiting from a derogation granted pursuant to this Article which are operated by the same hydrogen network operator. |
+| --- | --- |
+
+2. The regulatory authority shall adopt a decision to withdraw the derogation pursuant to paragraph 1 if it concludes that the continued application of the derogation would carry the risk of impeding competition or adversely affecting the efficient deployment of hydrogen infrastructure or the development and functioning of the market for hydrogen in the Union or the Member State, or where any of the conditions listed in paragraph 1 is no longer fulfilled.
+
+Every seven years from the granting of a derogation pursuant to paragraph 1, the regulatory authority shall publish an assessment of the impact of the derogation on competition, on hydrogen infrastructure and on the development and functioning of the market for hydrogen in the Union or the Member State.
+
+Member States shall take the necessary measures to ensure that access requests of hydrogen producers as well as connection requests of industrial customers are notified to the regulatory authority, made public and treated pursuant to Article 42. Publication of access requests shall preserve the confidentiality of commercially sensitive information.
+
+<a id="art_53"></a>
+
+### art_53
+
+Article 53
+
+1. The Union shall, for each hydrogen interconnector between Member States and third countries, conclude prior to its operation an international agreement in accordance with Article 218 TFEU with the connected third countries concerned, setting out the operating rules for the hydrogen interconnector concerned, where necessary to ensure coherence and consistency with the rules applicable to hydrogen networks set out in this Directive and Regulation (EU) 2024/1789. An international agreement shall not be considered necessary where the Member State connected or intending to be connected by a hydrogen interconnector negotiates and concludes an intergovernmental agreement with the connected third countries concerned in accordance with Article 89 of this Directive, setting out the operating rules for the hydrogen interconnector concerned to ensure coherence and consistency with the rules applicable to hydrogen networks laid down in this Directive and in Regulation (EU) 2024/1789.
+
+2. Paragraph 1 of this Article shall be without prejudice to Article 85 and to the allocation of competence between the Union and the Member States.
+
+3. Paragraph 1 shall also be without prejudice to the possibility for the Union and the Member States, pursuant to their respective competence and in compliance with applicable procedures, to enter into dialogues with connected third countries, including to establish cooperation on matters relevant for the production of hydrogen such as social and environmental matters.
+
+<a id="art_54"></a>
+
+### art_54
+
+Article 54
+
+1. Without prejudice to legal duties to disclose information, each operator of a hydrogen network, hydrogen storage facility or hydrogen terminal, and each owner of a hydrogen network, shall preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its activities, and shall prevent information about its own activities which may be commercially advantageous from being disclosed in a discriminatory manner. In particular, if the operator of a hydrogen network, hydrogen storage facility or hydrogen terminal, or the owner of a hydrogen network, is part of a vertically integrated undertaking, it shall not disclose any commercially sensitive information to the remaining parts of the vertically integrated undertaking other than transmission system operators, distribution system operators or hydrogen network operators, unless this is necessary for carrying out a business transaction.
+
+2. The operator of a hydrogen network, hydrogen storage facility or hydrogen terminal shall not, in the context of sales or purchases of hydrogen by related undertakings, misuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to the system.
+
+3. Information necessary for effective competition and the efficient functioning of the market shall be made public. That obligation shall be without prejudice to protecting commercially sensitive information.
+
+<a id="art_55"></a>
+
+### art_55
+
+Article 55
+
+1. At least every two years, all transmission system operators and hydrogen transmission network operators shall submit to the relevant regulatory authority a ten-year network development plan based on existing and forecast supply and demand after having consulted the relevant stakeholders in accordance with paragraph 2, point (f). There shall be one single network development plan per Member State for natural gas and one single network development plan per Member State for hydrogen, or one joint plan for natural gas and hydrogen per Member State.
+
+Member States allowing for one joint plan shall ensure that such a plan is sufficiently transparent to allow the regulatory authority to clearly identify the specific needs of the natural gas sector and the specific needs of the hydrogen sector addressed by the plan. Separate modelling shall be performed for each energy carrier, with separate chapters showing network maps for natural gas and network maps for hydrogen.
+
+Member States in which separate plans for natural gas and hydrogen are developed shall ensure that transmission system operators and hydrogen transmission network operators cooperate closely where decisions need to be made to ensure system efficiency, as defined in Article 2, point (4), of Directive (EU) 2023/1791, across energy carriers, such as for repurposing.
+
+Hydrogen transmission network operators shall closely cooperate with electricity transmission system operators and electricity distribution system operators, if applicable, in order to coordinate joint infrastructure requirements, such as the location of electrolysers and the relevant transmission infrastructure, and shall take the utmost account of their views.
+
+Member States shall endeavour to ensure coordinated planning steps of the respective ten-year network development plans for natural gas, hydrogen and electricity.
+
+Infrastructure operators, including LNG terminal operators, natural gas storage system operators, distribution system operators, hydrogen distribution network operators, hydrogen terminal operators, hydrogen storage operators, district heating infrastructure operators and electricity operators shall be required to provide and exchange all relevant information to the transmission system operators and hydrogen transmission network operators of the ten-year network development plans. The ten-year network development plan for natural gas shall contain efficient measures in order to guarantee the adequacy of the natural gas system and the security of supply, in particular compliance with the infrastructure standards laid down in Regulation (EU) 2017/1938. The ten-year network development plans shall be published and accessible on a website along with the outcome of the stakeholder consultation. That website shall be updated regularly to ensure that the relevant stakeholders are informed about the timing, manner and scope of the consultation.
+
+2. The ten-year network development plans referred to in paragraph 1 shall, in particular:
+
+| (a) | contain comprehensive and detailed information on the main infrastructure that needs to be built or upgraded over the next ten years, taking into account any infrastructure reinforcements needed for connecting renewable gas and low-carbon gas installations and including infrastructure developed to enable reverse flows to the transmission network; |
+| --- | --- |
+
+| (b) | contain information on all the investments already decided and identify new investments and demand-side solutions not requiring new infrastructure investments which have to be executed in the next three years; |
+| --- | --- |
+
+| (c) | in the case of natural gas, include comprehensive and detailed information on infrastructure that can or is to be decommissioned; |
+| --- | --- |
+
+| (d) | in the case of hydrogen, include comprehensive and detailed information on infrastructure that can or is to be repurposed for the transmission of hydrogen, in particular to deliver hydrogen to end-users in hard-to-decarbonise sectors taking into account the greenhouse gas abatement potential and the energy and cost-efficiency in relation to other options; |
+| --- | --- |
+
+| (e) | provide for a time frame for all investment and decommissioning projects; |
+| --- | --- |
+
+| (f) | be based on a joint scenario developed every two years between the relevant infrastructure operators, including relevant distribution system operators, of at least natural gas, hydrogen, electricity and, where applicable, district heating; |
+| --- | --- |
+
+| (g) | in the case of natural gas, be consistent with the results of the common and national risk assessments pursuant to Article 7 of Regulation (EU) 2017/1938; |
+| --- | --- |
+
+| (h) | be in line with the integrated national energy and climate plan and its updates, take into account the state of play in the integrated national energy and climate reports submitted in accordance with Regulation (EU) 2018/1999, be consistent with targets set by Directive (EU) 2018/2001 and support the climate-neutrality objective set out in Article 2(1) and Article 4(1) of Regulation (EU) 2021/1119; |
+| --- | --- |
+
+| (i) | be consistent with the Union-wide ten-year network development plan for natural gas referred to in Article 32 of Regulation (EU) 2024/1789 and the Union-wide ten-year network development plan for hydrogen referred to in Article 60 of that Regulation, as applicable; |
+| --- | --- |
+
+| (j) | take into account the hydrogen distribution network development plan referred to in Article 56 and the natural gas network decommissioning plans referred to in Article 57. |
+| --- | --- |
+
+The joint scenarios referred to in the first subparagraph, point (f), shall be based on reasonable assumptions about the evolution of the production, supply and consumption, in particular the needs of hard-to-decarbonise sectors taking into account the greenhouse gas abatement potential and the energy and cost-efficiency in relation to other options, and shall take into account demand-side solutions not requiring new infrastructure investments. They shall also take into account cross-border exchanges, including with third countries, and the role of hydrogen storage and the integration of hydrogen terminals. Infrastructure operators shall conduct an extensive consultation process on such scenarios open to the relevant stakeholders including the distribution system operators for natural gas and electricity, hydrogen distribution network operators, associations involved in markets for electricity, natural gas and hydrogen, heating and cooling, supply and production undertakings, independent aggregators, demand-response operators, organisations involved in energy efficiency solutions, energy consumer associations, and civil society representatives. The consultations shall take place at an early stage prior to the development of the ten-year network development plan in an open, inclusive and transparent manner. All documents provided by the infrastructure operators to facilitate the consultations shall be made public, as shall the outcome of the stakeholder consultation. The relevant website shall be updated in a timely manner when those documents are available so that relevant stakeholders are informed sufficiently to allow them to participate in the consultation effectively.
+
+The joint scenarios referred to in the first subparagraph, point (f), of this paragraph shall be in line with Union-wide scenarios established in accordance with Article 12 of Regulation (EU) 2022/869 and with the integrated national energy and climate plan and its updates in accordance with Regulation (EU) 2018/1999 and support the climate-neutrality objective set out in Article 2(1) and Article 4(1) of Regulation (EU) 2021/1119. Such joint scenarios shall be approved by the competent national authority. The European Scientific Advisory Board on Climate Change established pursuant to Article 10a of Regulation (EC) No 401/2009 may, on its own initiative, provide an opinion on the compatibility of joint scenarios with the Union’s 2030 targets for energy and climate and its 2050 climate-neutrality objective. That opinion shall be taken into account by the competent national authority.
+
+3. When elaborating the ten-year network development plans, the transmission system operator and the hydrogen transmission network operator shall fully take into account the potential for alternatives to system expansion, for instance the use of demand response, as well as expected consumption following the application of the energy efficiency first principle in accordance with Article 27 of Directive (EU) 2023/1791, trade with other countries and the Union-wide network development plans. In view of the energy system integration, the transmission system operator and the hydrogen transmission network operator shall assess how to address, where possible, a need across electricity, heat where applicable and natural gas and hydrogen systems including information on the optimal location and size of energy storage and power to gas assets as well as the co-location of hydrogen production and consumption. The hydrogen transmission network operator shall include information on the location of end-users in hard-to-decarbonise sectors with a view to targeting the use of renewable and low-carbon hydrogen in those sectors.
+
+4. The regulatory authority shall consult all actual or potential system users on the ten-year network development plan in an open and transparent manner. Persons or undertakings claiming to be potential system users may be required to substantiate such claims. The regulatory authority shall publish the result of the consultation process, including possible needs for investments, decommissioning of assets and demand-side solutions not requiring new infrastructure investments.
+
+5. The regulatory authority shall examine whether the ten-year network development plan complies with paragraphs 1, 2 and 3 of this Article, covers all investment needs identified during the consultation process, and, where appropriate, whether it is consistent with the most recent Union-wide simulation of disruption scenarios carried out by the European Network of Transmission System Operators for Gas (ENTSO for Gas) pursuant to Article 7 of Regulation (EU) 2017/1938, with the regional and national risk assessments pursuant to Article 7 of Regulation (EU) 2017/1938 and with the non-binding Union-wide ten-year network development plans (the ‘Union-wide network development plans’) referred to in Article 30(1), point (b), of Regulation (EU) 2019/943, and with Articles 32 and 60 of Regulation (EU) 2024/1789. If any doubt arises as to the consistency with the Union-wide network development plans, the regulatory authority shall consult ACER. The regulatory authority may require the transmission system operator to amend its ten-year network development plan.
+
+The competent national authorities shall examine the consistency of the ten-year network development plan with the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, with the national energy and climate plan and its updates and with the integrated national energy and climate reports submitted in accordance with Regulation (EU) 2018/1999 and, in the case of inconsistency, may provide the regulatory authority with a substantiated opinion setting out the inconsistency, to be taken duly into account.
+
+6. The regulatory authority shall monitor and evaluate the implementation of the ten-year network development plan.
+
+7. In circumstances where the independent system operator or independent transmission operator, or the integrated hydrogen transmission network operator or independent hydrogen transmission network operator, other than for overriding reasons beyond its control, does not execute an investment which, under the ten-year network development plan, was to be executed in the following three years, Member States shall ensure that the regulatory authority is required to take at least one of the following measures to ensure that the investment in question is made if such investment is still relevant on the basis of the most recent ten-year network development plan:
+
+| (a) | require the transmission system operator or the hydrogen transmission network operator to execute the investment in question; |
+| --- | --- |
+
+| (b) | organise a tender procedure open to any investors for the investment in question; |
+| --- | --- |
+
+| (c) | oblige the transmission system operator or the hydrogen transmission network operator to accept a capital increase to finance the necessary investment and allow independent investors to participate in the capital. |
+| --- | --- |
+
+Where the regulatory authority has made use of its powers pursuant to point (b) of the first subparagraph, it may oblige the transmission system operator or the hydrogen transmission network operator to agree to one or more of the following:
+
+| (a) | financing by any third party; |
+| --- | --- |
+
+| (b) | construction, repurposing or decommissioning by any third party; |
+| --- | --- |
+
+| (c) | building the new assets concerned itself; |
+| --- | --- |
+
+| (d) | operating the new assets concerned itself. |
+| --- | --- |
+
+The transmission system operator or the hydrogen transmission network operator shall provide the investors with all information needed to realise the investment, shall connect new assets to the transmission system or the hydrogen transmission network and shall generally make its best efforts to facilitate the implementation of the investment project.
+
+The relevant financial arrangements shall be subject to approval by the regulatory authority.
+
+8. Where the regulatory authority has made use of its powers pursuant to paragraph 7, the relevant network access tariffs as set or approved by the regulatory authority shall cover the costs of the investment in question.
+
+<a id="art_56"></a>
+
+### art_56
+
+Article 56
+
+1. Hydrogen distribution network operators shall submit to the regulatory authority every four years a plan presenting the hydrogen network infrastructure they aim to develop. The plan shall be developed in close cooperation with distribution system operators for natural gas and electricity, as well as district heating and cooling operators where applicable, ensuring effective energy system integration and taking the utmost account of their views. Member States may allow hydrogen distribution network operators in accordance with this Article and distribution system operators in accordance with Article 57 that are active in the same region to develop a joint plan.
+
+Member States allowing for one joint plan shall ensure that the plan is sufficiently transparent to clearly identify the specific needs of the natural gas sector and the specific needs of the hydrogen sector addressed by the plan. Separate modelling shall be performed for each energy carrier and with separate chapters showing network maps for natural gas and network maps for hydrogen.
+
+Member States in which separate plans for natural gas and hydrogen are developed shall ensure that distribution system operators and hydrogen distribution network operators cooperate closely where decisions need to be made to ensure system-efficiency across energy carriers, such as for repurposing.
+
+2. The hydrogen distribution network development plan shall, in particular:
+
+| (a) | include information on capacity needs, both in volume and duration, as negotiated between hydrogen distribution network users and hydrogen distribution network operators, on hydrogen supply, and on capacity needs, both in volume and duration, of existing and potential future hard-to-decarbonise end-users taking into account the greenhouse gas abatement potential and the energy and cost-efficiency in relation to other options and the location of those end-users with a view to targeting the use of renewable and low-carbon hydrogen in those sectors; |
+| --- | --- |
+
+| (b) | take into account the heating and cooling plans established pursuant to Article 25(6) of Directive (EU) 2023/1791 and the demand of sectors that are not covered by the heating and cooling plans, and assess how the principle of energy efficiency first in accordance with Article 27 of that Directive is respected when considering hydrogen distribution network expansion in sectors where more energy efficient alternatives are available; |
+| --- | --- |
+
+| (c) | include information on the extent to which repurposed natural gas pipelines are to be used for the transport of hydrogen, as well as the extent to which that repurposing is required to fulfil the capacity needs established in accordance with point (a); |
+| --- | --- |
+
+| (d) | be based on a consultation process that is open to the relevant stakeholders in order to enable their early and effective participation in the planning process, including the provision and exchange of all relevant information; |
+| --- | --- |
+
+| (e) | be published on the hydrogen distribution network operator’s website with the outcome of the stakeholder consultation and submitted to the regulatory authority, together with the outcome of the stakeholder consultation; that website shall be updated regularly so that the relevant stakeholders are informed sufficiently to allow them to participate in the consultation effectively; |
+| --- | --- |
+
+| (f) | be in line with the integrated national energy and climate plan and its updates, and with the integrated national energy and climate reports submitted in accordance with Regulation (EU) 2018/1999 and support the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119; |
+| --- | --- |
+
+| (g) | be consistent with the Union-wide network development plan for hydrogen referred to in Article 60 of Regulation (EU) 2024/1789 and the national ten-year network development plans developed in accordance with Article 55 of this Directive. |
+| --- | --- |
+
+3. Hydrogen distribution network operators shall exchange all relevant information required for developing the plan with other hydrogen network operators, including hydrogen network operators in neighbouring Member States if there is a direct connection.
+
+4. The regulatory authority shall assess whether the hydrogen distribution network development plan complies with paragraph 1 of this Article. The regulatory authority shall examine the plan and may request amendments to the plan in line with the assessment. It shall take into account in that examination the overall energy-economic necessity of the hydrogen network as well as the joint scenario framework developed pursuant to Article 55(2), point (f). With regard to plans submitted in relation to hydrogen networks benefitting from a derogation pursuant to Article 51 or 52, the regulatory authority may abstain from examining the plan and making recommendations for amendments.
+
+5. The regulatory authority shall take the examination of the hydrogen distribution network development plan into account in its approval of dedicated charges within the meaning of Article 5 of Regulation (EU) 2024/1789.
+
+6. Until 31 December 2032, and without prejudice to the powers of the regulatory authority to supervise network access rules, Member States may entrust another competent authority with the task of examining the hydrogen distribution network development plan and of making recommendations for amendments to the plan by the hydrogen distribution network operator to ensure consistency with the integrated national energy and climate plans and their updates.
+
+7. By way of derogation from paragraphs 1 to 5 of this Article, Member States may decide to apply to hydrogen distribution network operators the requirements set out in Article 55 from 4 August 2024.
+
+<a id="art_57"></a>
+
+### art_57
+
+Article 57
+
+1. Member States shall ensure that distribution system operators develop network decommissioning plans where a reduction in natural gas demand requiring the decommissioning of natural gas distribution networks or parts of such networks is expected. Such plans shall be developed in close cooperation with hydrogen distribution network operators, distribution system operators for electricity, and district heating and cooling operators, ensuring effective energy system integration and reflecting the reduced use of natural gas for the heating and cooling of buildings where more energy and cost-efficient alternatives are available. Member States may allow distribution system operators in accordance with this Article and hydrogen distribution network operators in accordance with Article 56 that are active in the same region to develop a joint plan if parts of the natural gas infrastructure are to be repurposed. Member States allowing for one joint plan shall ensure that the plan is sufficiently transparent to clearly identify the specific needs of the natural gas sector and the specific needs of the hydrogen sector addressed by the plan. Where applicable, separate modelling shall be performed for each energy carrier, with separate chapters showing network maps for natural gas and network maps for hydrogen.
+
+Member States in which separate plans for natural gas and hydrogen are developed shall ensure that distribution system operators and hydrogen distribution network operators cooperate closely where decisions need to be made to ensure system-efficiency across energy carriers, such as for repurposing.
+
+2. The distribution network decommissioning plans shall at least comply with the following principles:
+
+| (a) | the plans are based on the heating and cooling plans developed in accordance with Article 25(6) of Directive (EU) 2023/1791 and duly take into account the demand of sectors that are not covered by the heating and cooling plans; |
+| --- | --- |
+
+| (b) | the plans are based on reasonable assumptions about the evolution of production, injection and supply of natural gas, including biomethane, on the one hand, and the consumption of natural gas in all sectors at distribution level, on the other hand; |
+| --- | --- |
+
+| (c) | distribution system operators identify required infrastructure adaptations, while demand-side solutions not requiring new infrastructure investments are prioritised, and the plans list infrastructure that is to be decommissioned, also in view of creating transparency with regard to the possible repurposing of such infrastructure for the transport of hydrogen; |
+| --- | --- |
+
+| (d) | distribution system operators conduct a consultation process open to the relevant stakeholders when developing the plan in order to enable their early and effective participation in the planning process, including the provision and exchange of all relevant information; the results of the consultation and the network decommissioning plan are submitted to the relevant national authority; |
+| --- | --- |
+
+| (e) | the plans and the outcome of the stakeholder consultation are published on the distribution system operators’ websites and those websites are updated regularly to ensure that the relevant stakeholders are informed sufficiently to allow them to participate in the consultation effectively; |
+| --- | --- |
+
+| (f) | the plans are updated at least every four years, based on the latest projections for natural gas demand and supply in the relevant region, and shall cover a ten-year period; |
+| --- | --- |
+
+| (g) | distribution system operators that are active in the same regional area may opt to develop one single joint network decommissioning plan; |
+| --- | --- |
+
+| (h) | the plans are consistent with the Union-wide network development plan for natural gas referred to in Article 32 of Regulation (EU) 2024/1789 and the national ten-year network development plans developed in accordance with Article 55 of this Directive; |
+| --- | --- |
+
+| (i) | the plans are consistent with the Member State’s integrated national energy and climate plan, the integrated national energy and climate progress report and the long-term strategy submitted pursuant to Regulation (EU) 2018/1999 and support the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119. |
+| --- | --- |
+
+3. Relevant national authorities shall assess whether the distribution network decommissioning plans comply with the principles laid down in paragraph 2. They shall approve or reject the distribution network decommissioning plan and may require amendments to that plan.
+
+4. The development of the distribution network decommissioning plans shall facilitate the protection of final customers in accordance with Article 13 as well as take into account their rights pursuant to Article 38(6).
+
+5. Member States may decide not to apply the obligations set out in paragraphs 1 to 4 to distribution system operators that serve fewer than 45 000 connected customers by 4 August 2024. Where distribution system operators are exempted from submitting a distribution network decommissioning plan, they shall inform the regulatory authority of the decommissioning of the distribution networks or parts thereof.
+
+6. Where parts of the natural gas distribution network may require decommissioning before their originally projected life cycle, the regulatory authority shall establish guidelines for a structural approach to the depreciation of such assets and tariff setting in accordance with Article 78(7). When developing such guidelines, regulatory authorities shall consult the relevant stakeholders, in particular distribution system operators and consumer bodies.
+
+<a id="art_58"></a>
+
+### art_58
+
+Article 58
+
+1. Member States shall provide an enabling regulatory framework for biomethane production facilities in relation to connection fees and costs resulting from their connection to the transmission or distribution networks. Such regulatory framework shall ensure that:
+
+| (a) | connection fees and costs take into account the energy efficiency first principle applicable to network development in accordance with Article 3 and Article 27(2) of Directive (EU) 2023/1791; |
+| --- | --- |
+
+| (b) | connection fees and costs are published as part of the procedures for the connection of new production facilities for renewable gas and low-carbon gas to the transmission and distribution system established in Articles 41 and 45 of this Directive and pursuant to Article 20(2) of Directive (EU) 2018/2001; |
+| --- | --- |
+
+| (c) | the principles of transparency and non-discrimination, the need for stable financial frameworks for existing investments, the advancement of the roll-out of renewable gas and low-carbon gas in the Member State concerned and the existence of alternative support mechanisms for scaling up the use of renewable gas or low-carbon gas, where appropriate, are taken into account. |
+| --- | --- |
+
+2. When setting or approving tariffs or the methodologies to be used by transmission system operators and distribution system operators, regulatory authorities may take into account the costs incurred and investments made by those system operators to comply with their obligations and not directly recovered from the connection costs and fees, insofar as the costs correspond to those of an efficient and structurally comparable regulated operator.
+
+<a id="art_59"></a>
+
+### art_59
+
+Article 59
+
+1. Where Member States apply a system of regulated third-party access to hydrogen transmission networks pursuant to Article 35(1) and where a hydrogen interconnector project is not a project of common interest as referred to in Chapter II of, and point 3 of Annex I to, Regulation (EU) 2022/869 of the European Parliament and of the Council (49), adjacent and affected hydrogen transmission network operators shall bear the costs of the project and may include them within their respective tariff systems, subject to approval by the regulatory authority. If the hydrogen transmission network operators identify a substantial gap between benefits and costs, they may design a project plan, including a request for cross-border cost allocation, and submit it jointly to the regulatory authorities concerned for joint approval.
+
+2. Where hydrogen transmission network operators submit a project plan as set out in paragraph 1, that project plan and the request for cross-border cost allocation shall be accompanied by a project-specific cost-benefit analysis, taking into account benefits beyond the borders of Member States concerned, and by a business plan evaluating the financial viability of the project, which shall include a financing solution and specify whether the hydrogen transmission network operators involved agree on a substantiated proposal for a cross-border cost allocation.
+
+The regulatory authorities concerned shall, after consulting the hydrogen transmission network operators, take a joint decision on the allocation of investment costs to be borne by each hydrogen transmission network operator for the project.
+
+3. From 1 January 2033, all hydrogen transmission network operators concerned shall negotiate a system of financial compensation to ensure financing for cross-border hydrogen infrastructure in the event that no tariffs are charged for access to hydrogen transmission networks at interconnection points between Member States pursuant to Article 7(8) of Regulation (EU) 2024/1789. When developing that system, hydrogen transmission network operators shall conduct an extensive consultation process involving all relevant market participants.
+
+4. The hydrogen transmission network operators concerned shall agree on the system of financial compensation by 31 December 2035 and submit it to the regulatory authorities concerned for their joint approval. If no agreement is reached within that period, the regulatory authorities concerned shall decide jointly within two years. Where the regulatory authorities concerned cannot reach a joint agreement within two years, ACER shall take a decision, following the procedure pursuant to Article 6(10) of Regulation (EU) 2019/942.
+
+5. The system of financial compensation shall be implemented in line with Article 78(1), point (c).
+
+6. For the transition to a system of financial compensation, existing capacity contracts shall not be affected by the established financial compensation mechanism.
+
+7. Further details required to implement the process set out in this Article, including required processes and time frames, process for reviewing and, if necessary, amending the system of financial compensation to allow the taking into account of tariff evolution and the development of the hydrogen networks, shall be set in a network code established pursuant to Article 72 of Regulation (EU) 2024/1789.
+
+<a id="art_60"></a>
+
+### art_60
+
+Article 60
+
+1. Member States shall ensure that:
+
+| (a) | each undertaking which owns a transmission system acts as a transmission system operator; |
+| --- | --- |
+
+| (b) | the same person is entitled neither:(i)directly or indirectly to exercise control over an undertaking performing any of the functions of production or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; nor(ii)directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of production or supply; |
+| --- | --- |
+| (i) | directly or indirectly to exercise control over an undertaking performing any of the functions of production or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; nor |
+| (ii) | directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of production or supply; |
+
+| (c) | the same person is not entitled to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking, of a transmission system operator or a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of production or supply; |
+| --- | --- |
+
+| (d) | the same person is not entitled to be a member of the supervisory board, the administrative board or bodies legally representing the undertaking, of both an undertaking performing any of the functions of production or supply and a transmission system operator or a transmission system. |
+| --- | --- |
+
+2. The rights referred to in paragraph 1, points (b) and (c), shall include, in particular:
+
+| (a) | the power to exercise voting rights; |
+| --- | --- |
+
+| (b) | the power to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking; or |
+| --- | --- |
+
+| (c) | the holding of a majority share. |
+| --- | --- |
+
+3. For the purpose of paragraph 1, point (b), the term ‘undertaking performing any of the functions of production or supply’ shall be understood as including ‘undertaking performing any of the functions of generation or supply’ within the meaning of Directive (EU) 2019/944, and the terms ‘transmission system operator’ and ‘transmission system’ shall be understood as including ‘transmission system operator’ and ‘transmission system’ within the meaning of that Directive.
+
+4. The obligation set out in paragraph 1, point (a), of this Article shall be deemed to be fulfilled in a situation where two or more undertakings which own transmission systems have created a joint venture which acts as a transmission system operator in two or more Member States for the transmission systems concerned. No other undertaking may be part of the joint venture, unless it has been approved pursuant to Article 61 as an independent system operator or as an independent transmission operator for the purposes of Section 3.
+
+5. For the implementation of this Article, where the person referred to in paragraph 1, points (b), (c) and (d), is the Member State or another public body, two separate public bodies exercising control over a transmission system operator or over a transmission system on the one hand, and over an undertaking performing any of the functions of production or supply on the other, shall be deemed not to be the same person.
+
+6. Member States shall ensure that neither commercially sensitive information referred to in Article 40 held by a transmission system operator which was part of a vertically integrated undertaking, nor the staff of such a transmission system operator, is transferred to undertakings performing any of the functions of production and supply.
+
+7. Where on 3 September 2009 the transmission system belonged to a vertically integrated undertaking, a Member State may decide not to apply paragraph 1. As regards the part of the transmission system connecting a Member State with a third country between the border of that Member State and the first connection point with that Member State’s network, where on 23 May 2019 the transmission system belonged to a vertically integrated undertaking, a Member State may decide not to apply paragraph 1.
+
+In such case, the Member State concerned shall either:
+
+| (a) | designate an independent system operator in accordance with Article 61; or |
+| --- | --- |
+
+| (b) | comply with the provisions of Section 3. |
+| --- | --- |
+
+8. Where on 3 September 2009 the transmission system belonged to a vertically integrated undertaking and arrangements are in place which guarantee more effective independence of the transmission system operator than the provisions of Section 3, a Member State may decide not to apply paragraph 1 of this Article.
+
+As regards the part of the transmission system connecting a Member State with a third country between the border of that Member State and the first connection point with that Member State’s network, where on 23 May 2019 the transmission system belonged to a vertically integrated undertaking and arrangements are in place which guarantee more effective independence of the transmission system operator than the provisions of Section 3, that Member State may decide not to apply paragraph 1 of this Article.
+
+9. Before an undertaking is approved and designated as a transmission system operator pursuant to paragraph 8 of this Article, it shall be certified in accordance with the procedures laid down in Article 71(4), (5) and (6) of this Directive and in Article 14 of Regulation (EU) 2024/1789. After that, the Commission shall verify that the arrangements in place clearly guarantee more effective independence of the transmission system operator than the provisions of Section 3.
+
+10. Vertically integrated undertakings which own a transmission system shall not in any event be prevented from taking steps to comply with paragraph 1.
+
+11. Undertakings performing any of the functions of production or supply shall not in any event be able to directly or indirectly take control over, or exercise any right over, unbundled transmission system operators in Member States which apply paragraph 1.
+
+<a id="art_61"></a>
+
+### art_61
+
+Article 61
+
+1. Where on 3 September 2009 the transmission system belonged to a vertically integrated undertaking, a Member State may decide not to apply Article 60(1) and to designate an independent system operator upon a proposal from the transmission system owner.
+
+As regards the part of the transmission system connecting a Member State with a third country between the border of that Member State and the first connection point with that Member State’s network, where on 23 May 2019 the transmission system belonged to a vertically integrated undertaking, that Member State may decide not to apply Article 60(1) and to designate an independent system operator upon a proposal from the transmission system owner.
+
+The designation of an independent system operator shall be subject to approval by the Commission.
+
+2. The Member State may approve and designate an independent system operator only where:
+
+| (a) | the candidate operator has demonstrated that it complies with the requirements of Article 60(1), points (b), (c) and (d); |
+| --- | --- |
+
+| (b) | the candidate operator has demonstrated that it has at its disposal the required financial, technical, physical and human resources to carry out its tasks pursuant to Article 39; |
+| --- | --- |
+
+| (c) | the candidate operator has undertaken to comply with a ten-year network development plan monitored by the regulatory authority; |
+| --- | --- |
+
+| (d) | the transmission system owner has demonstrated its ability to comply with its obligations pursuant to paragraph 5, to which end it shall provide all the draft contractual arrangements with the candidate undertaking and any other relevant entity; |
+| --- | --- |
+
+| (e) | the candidate operator has demonstrated its ability to comply with its obligations pursuant to Regulation (EU) 2024/1789 including the cooperation of transmission system operators at European and regional level. |
+| --- | --- |
+
+3. Undertakings which have been certified by the regulatory authority as having complied with the requirements of Article 72 and of paragraph 2 of this Article shall be approved and designated as independent system operators by Member States. The certification procedure in either Article 71 of this Directive and Article 14 of Regulation (EU) 2024/1789 or in Article 72 of this Directive shall be applicable.
+
+4. Each independent system operator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing the transmission system, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning, including the authorisation procedure, construction and commissioning of the new infrastructure. For that purpose, the independent system operator shall act as a transmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.
+
+5. Where an independent system operator has been designated, the transmission system owner shall:
+
+| (a) | provide all the relevant cooperation and support to the independent system operator for the fulfilment of its tasks, including in particular all relevant information; |
+| --- | --- |
+
+| (b) | finance the investments decided by the independent system operator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator; the relevant financing arrangements shall be subject to approval by the regulatory authority; prior to such approval, the regulatory authority shall consult the transmission system owner together with other interested parties; |
+| --- | --- |
+
+| (c) | provide for the coverage of liability relating to the network assets, excluding the liability relating to the tasks of the independent system operator; |
+| --- | --- |
+
+| (d) | provide guarantees to facilitate financing any network expansions with the exception of those investments where, pursuant to point (b), it has given its agreement to financing by any interested party including the independent system operator. |
+| --- | --- |
+
+6. In close cooperation with the regulatory authority, the relevant national competition authority shall be granted all relevant powers to effectively monitor compliance of the transmission system owner with its obligations pursuant to paragraph 5.
+
+<a id="art_62"></a>
+
+### art_62
+
+Article 62
+
+1. Transmission system and hydrogen transmission network owners, where an independent system operator or an independent hydrogen transmission network operator has been appointed, and natural gas storage system operators or hydrogen storage operators which are part of vertically integrated undertakings shall be independent at least in terms of their legal form, organisation and decision making from other activities not relating to transmission, distribution, transport and storage of natural gas and hydrogen.
+
+This Article shall apply only to natural gas storage facilities that are technically or economically necessary for providing efficient access to the system for the supply of customers pursuant to Article 33.
+
+2. In order to ensure the independence of the transmission system or hydrogen transmission network owner and natural gas storage system operator or hydrogen storage operator referred to in paragraph 1, the following minimum criteria shall apply:
+
+| (a) | persons responsible for the management of the transmission system or hydrogen transmission network owner and natural gas storage system operator or hydrogen storage operator shall not participate in company structures of the integrated natural gas undertaking responsible, directly or indirectly, for the day-to-day operation of the production and supply of natural gas and hydrogen; |
+| --- | --- |
+
+| (b) | appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of the transmission system or hydrogen transmission network owner and natural gas storage system operator or hydrogen storage operator are taken into account in a manner that ensures that they are capable of acting independently; |
+| --- | --- |
+
+| (c) | the natural gas storage system operator or hydrogen storage operator shall have effective decision-making rights, independent from the integrated natural gas undertaking, with respect to assets necessary to operate, maintain or develop the storage facilities; this shall not preclude the existence of appropriate coordination mechanisms to ensure that the economic and management supervision rights of the parent company in respect of return on assets regulated indirectly in accordance with Article 78(7) in a subsidiary are protected; it shall enable in particular the parent company to approve the annual financial plan, or any equivalent instrument, of the natural gas storage system operator or hydrogen storage operator and to set global limits on the levels of indebtedness of its subsidiary; it shall not permit the parent company to give instructions regarding day-to-day operations, nor with respect to individual decisions concerning the construction or upgrading of storage facilities, that do not exceed the terms of the approved financial plan, or any equivalent instrument; |
+| --- | --- |
+
+| (d) | the transmission system or hydrogen transmission network owner and the natural gas storage system operator or hydrogen storage operator shall establish a compliance programme, which shall set out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored; it shall also set out the specific obligations of employees to meet those objectives; an annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the regulatory authority and shall be published. |
+| --- | --- |
+
+3. The Commission is empowered to adopt delegated acts in accordance with Article 90 to supplement this Directive in order to set guidelines to ensure full and effective compliance of the transmission system or hydrogen transmission network owner and of the natural gas storage system operator or hydrogen storage operator with paragraph 2 of this Article.
+
+<a id="art_63"></a>
+
+### art_63
+
+Article 63
+
+1. Transmission system operators shall be equipped with all human, technical, physical and financial resources necessary for fulfilling their obligations under this Directive and carrying out the activity of natural gas transmission, in particular:
+
+| (a) | assets that are necessary for the activity of natural gas transmission, including the transmission system, shall be owned by the transmission system operator; |
+| --- | --- |
+
+| (b) | personnel necessary for the activity of natural gas transmission, including the performance of all corporate tasks, shall be employed by the transmission system operator; |
+| --- | --- |
+
+| (c) | leasing of personnel and rendering of services to and from any other parts of the vertically integrated undertaking shall be prohibited, but, a transmission system operator may render services to the vertically integrated undertaking, provided that:(i)the provision of those services does not discriminate between system users, is available to all system users on the same terms and conditions and does not restrict, distort or prevent competition in production or supply;(ii)the terms and conditions of the provision of those services are approved by the regulatory authority; |
+| --- | --- |
+| (i) | the provision of those services does not discriminate between system users, is available to all system users on the same terms and conditions and does not restrict, distort or prevent competition in production or supply; |
+| (ii) | the terms and conditions of the provision of those services are approved by the regulatory authority; |
+
+| (d) | without prejudice to the decisions of the Supervisory Body pursuant to Article 66, appropriate financial resources for future investment projects or for the replacement of existing assets shall be made available to the transmission system operator in due time by the vertically integrated undertaking following an appropriate request from the transmission system operator. |
+| --- | --- |
+
+2. The activity of natural gas transmission shall include at least the following tasks in addition to those listed in Article 39:
+
+| (a) | the representation of the transmission system operator and contacts to third parties and the regulatory authorities; |
+| --- | --- |
+
+| (b) | the representation of the transmission system operator within the ENTSO for Gas; |
+| --- | --- |
+
+| (c) | granting and managing third-party access on a non-discriminatory basis between system users or classes of system users; |
+| --- | --- |
+
+| (d) | the collection of all the transmission system related charges including access charges, balancing charges for ancillary services such as natural gas treatment, purchasing of services (balancing costs, energy for losses); |
+| --- | --- |
+
+| (e) | the operation, maintenance and development of a secure, efficient and economic transmission system; |
+| --- | --- |
+
+| (f) | investment planning ensuring the long-term ability of the system to meet reasonable demand and guaranteeing security of supply; |
+| --- | --- |
+
+| (g) | the setting up of appropriate joint ventures, including with one or more transmission system operators, natural gas exchanges, and the other relevant market participants pursuing the objective to develop the creation of regional markets or to facilitate the liberalisation process; |
+| --- | --- |
+
+| (h) | all corporate services, including legal services, accountancy and IT services. |
+| --- | --- |
+
+3. Transmission system operators shall be organised in a legal form as referred to in Annex II to Directive (EU) 2017/1132 of the European Parliament and of the Council (50).
+
+4. The transmission system operator shall not, in its corporate identity, communication, branding and premises, create confusion in respect of the separate identity of the vertically integrated undertaking or any part thereof.
+
+5. The transmission system operator shall not share IT systems or equipment, physical premises and security access systems with any part of the vertically integrated undertaking, nor use the same consultants or external contractors for IT systems or equipment, or for security access systems.
+
+6. The accounts of transmission system operators shall be audited by an auditor other than the one auditing the vertically integrated undertaking or any part thereof.
+
+<a id="art_64"></a>
+
+### art_64
+
+Article 64
+
+1. Without prejudice to the decisions of the Supervisory Body pursuant to Article 66, the transmission system operator shall have:
+
+| (a) | effective decision-making rights, independent from the vertically integrated undertaking, with respect to assets necessary to operate, maintain or develop the transmission system; |
+| --- | --- |
+
+| (b) | the power to raise money on the capital market in particular through borrowing and capital increase. |
+| --- | --- |
+
+2. The transmission system operator shall at all times act so as to ensure it has the resources it needs in order to carry out the activity of transmission properly and efficiently and develop and maintain an efficient, secure and economic transmission system.
+
+3. Subsidiaries of the vertically integrated undertaking performing functions of production or supply shall not have any direct or indirect shareholding in the transmission system operator. The transmission system operator shall neither have any direct or indirect shareholding in any subsidiary of the vertically integrated undertaking performing functions of production or supply, nor receive dividends or any other financial benefit from that subsidiary.
+
+4. The overall management structure and the corporate statutes of the transmission system operator shall ensure effective independence of the transmission system operator in compliance with this Section. The vertically integrated undertaking shall not determine, directly or indirectly, the competitive behaviour of the transmission system operator in relation to the day-to-day activities of the transmission system operator and management of the network, or in relation to activities necessary for the preparation of the ten-year network development plan developed pursuant to Article 55.
+
+5. In fulfilling their tasks listed in Article 39 and Article 63(2) of this Directive, and in complying with Article 6(1), point (a), Article 10(2), (3) and (4), Article 13(1), Article 17(1) and Article 33(6) of Regulation (EU) 2024/1789, transmission system operators shall not discriminate against different persons or entities and shall not restrict, distort or prevent competition in production or supply.
+
+6. Any commercial and financial relations between the vertically integrated undertaking and the transmission system operator, including loans from the transmission system operator to the vertically integrated undertaking, shall comply with market conditions. The transmission system operator shall keep detailed records of such commercial and financial relations and make them available to the regulatory authority upon request.
+
+7. The transmission system operator shall submit for approval by the regulatory authority all commercial and financial agreements with the vertically integrated undertaking.
+
+8. The transmission system operator shall inform the regulatory authority of the financial resources, referred to in Article 63(1), point (d), available for future investment projects or for the replacement of existing assets.
+
+9. The vertically integrated undertaking shall refrain from any action impeding or prejudicing the transmission system operator from complying with its obligations in this Section and shall not require the transmission system operator to seek permission from the vertically integrated undertaking in fulfilling those obligations.
+
+10. An undertaking which has been certified by the regulatory authority as being in compliance with the requirements of this Section shall be approved and designated as a transmission system operator by the Member State concerned. The certification procedure in either Article 71 of this Directive and Article 14 of Regulation (EU) 2024/1789 or in Article 72 of this Directive shall apply.
+
+11. The transmission system operator shall make public detailed information regarding the quality of the natural gas transported in its networks, based on Articles 16 and 17 of Commission Regulation (EU) 2015/703 (51).
+
+<a id="art_65"></a>
+
+### art_65
+
+Article 65
+
+1. Decisions regarding the appointment and renewal, working conditions including remuneration, and termination of the term of office of the persons responsible for the management or members of the administrative bodies of the transmission system operator shall be taken by the Supervisory Body of the transmission system operator appointed in accordance with Article 66.
+
+2. The identity of, and the conditions governing the term, the duration and the termination of office of, the persons nominated by the Supervisory Body for appointment or renewal as persons responsible for the executive management or as members of the administrative bodies of the transmission system operator, and the reasons for any proposed decision terminating such term of office, shall be notified to the regulatory authority. Those conditions and the decisions referred to in paragraph 1 shall become binding only if the regulatory authority has raised no objections within three weeks of the notification.
+
+The regulatory authority may object to the decisions referred to in paragraph 1 where:
+
+| (a) | doubts arise as to the professional independence of a nominated person responsible for the management or a member of the administrative bodies; or |
+| --- | --- |
+
+| (b) | in the case of premature termination of a term of office, doubts exist regarding the justification of such premature termination. |
+| --- | --- |
+
+3. No professional position or responsibility, interest or business relationship, directly or indirectly, with the vertically integrated undertaking or any part of it or its controlling shareholders other than the transmission system operator shall be exercised for a period of three years before the appointment of the persons responsible for the management or members of the administrative bodies of the transmission system operator who are subject to this paragraph.
+
+4. The persons responsible for the management or members of the administrative bodies, and employees of the transmission system operator shall have no other professional position or responsibility, interest or business relationship, directly or indirectly, with any other part of the vertically integrated undertaking or with its controlling shareholders.
+
+5. The persons responsible for the management or members of the administrative bodies, and employees of the transmission system operator shall hold no interest in or receive any financial benefit, directly or indirectly, from any part of the vertically integrated undertaking other than the transmission system operator. Their remuneration shall not depend on activities or results of the vertically integrated undertaking other than those of the transmission system operator.
+
+6. Effective rights of appeal to the regulatory authority shall be guaranteed for any complaints by the persons responsible for the management or members of the administrative bodies of the transmission system operator against premature terminations of their term of office.
+
+7. After termination of their term of office in the transmission system operator, the persons responsible for its management or members of its administrative bodies shall have no professional position or responsibility, interest or business relationship with any part of the vertically integrated undertaking other than the transmission system operator, or with its controlling shareholders, for a period of not less than four years.
+
+8. Paragraph 3 shall apply to the majority of the persons responsible for the management or members of the administrative bodies of the transmission system operator.
+
+The persons responsible for the management or members of the administrative bodies of the transmission system operator who are not subject to paragraph 3 shall have exercised no management or other relevant activity in the vertically integrated undertaking for a period of at least six months before their appointment.
+
+The first subparagraph of this paragraph and paragraphs 4 to 7 shall be applicable to all the persons belonging to the executive management and to those directly reporting to them on matters related to the operation, maintenance or development of the network.
+
+<a id="art_66"></a>
+
+### art_66
+
+Article 66
+
+1. The transmission system operator shall have a Supervisory Body which shall be in charge of taking decisions which may have a significant impact on the value of the assets of the shareholders within the transmission system operator, in particular decisions regarding the approval of the annual and longer-term financial plans, the level of indebtedness of the transmission system operator and the amount of dividends distributed to shareholders. The decisions falling under the remit of the Supervisory Body shall exclude those that are related to the day-to-day activities of the transmission system operator and management of the network, and in relation to activities necessary for the preparation of the ten-year network development plan developed pursuant to Article 55.
+
+2. The Supervisory Body shall be composed of members representing the vertically integrated undertaking, members representing third party shareholders and, where the relevant national law so provides, members representing other interested parties such as employees of the transmission system operator.
+
+3. Article 65(2), first subparagraph, and Article 65(3) to (7) shall apply to at least half of the members of the Supervisory Body minus one.
+
+Article 65(2), second subparagraph, point (b), shall apply to all the members of the Supervisory Body.
+
+<a id="art_67"></a>
+
+### art_67
+
+Article 67
+
+1. Member States shall ensure that transmission system operators establish and implement a compliance programme which sets out the measures taken in order to ensure that discriminatory conduct is excluded, and ensure that compliance with that programme is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet those objectives. It shall be subject to approval by the regulatory authority. Without prejudice to the powers of the regulatory authority, compliance with the programme shall be independently monitored by a compliance officer.
+
+2. The compliance officer shall be appointed by the Supervisory Body, subject to approval by the regulatory authority. The regulatory authority may refuse the approval of the compliance officer only for reasons of lack of independence or professional capacity. The compliance officer may be a natural or legal person. Article 65(2) to (8) shall apply to the compliance officer.
+
+3. The compliance officer shall be in charge of:
+
+| (a) | monitoring the implementation of the compliance programme; |
+| --- | --- |
+
+| (b) | elaborating an annual report setting out the measures taken in order to implement the compliance programme and submitting it to the regulatory authority; |
+| --- | --- |
+
+| (c) | reporting to the Supervisory Body and issuing recommendations on the compliance programme and its implementation; |
+| --- | --- |
+
+| (d) | notifying the regulatory authority on any substantial breaches with regard to the implementation of the compliance programme; |
+| --- | --- |
+
+| (e) | reporting to the regulatory authority on any commercial and financial relations between the vertically integrated undertaking and the transmission system operator. |
+| --- | --- |
+
+4. The compliance officer shall submit the proposed decisions on the investment plan or on individual investments in the network to the regulatory authority. This shall occur at the latest when the management or the competent administrative body of the transmission system operator submits them to the Supervisory Body.
+
+5. Where the vertically integrated undertaking, in the general assembly or through the vote of the members of the Supervisory Body it has appointed, has prevented the adoption of a decision with the effect of preventing or delaying investments, which under the ten-year network development plan was to be executed in the following three years, the compliance officer shall report this to the regulatory authority, which then shall act in accordance with Article 55.
+
+6. The conditions governing the mandate or the employment conditions of the compliance officer, including the duration of its mandate, shall be subject to approval by the regulatory authority. Those conditions shall ensure the independence of the compliance officer, including by providing it with all the resources necessary for fulfilling its duties. During its mandate, the compliance officer shall have no other professional position, responsibility or interest, directly or indirectly, in or with any part of the vertically integrated undertaking or with its controlling shareholders.
+
+7. The compliance officer shall report regularly, either orally or in writing, to the regulatory authority and shall have the right to report regularly, either orally or in writing, to the Supervisory Body of the transmission system operator.
+
+8. The compliance officer may attend all meetings of the management or administrative bodies of the transmission system operator, and those of the Supervisory Body and the general assembly. The compliance officer shall attend all meetings that address the following matters:
+
+| (a) | conditions for access to the network established by Regulation (EU) 2024/1789, in particular regarding tariffs, third-party access services, capacity allocation and congestion management, transparency, balancing and secondary markets; |
+| --- | --- |
+
+| (b) | projects undertaken in order to operate, maintain and develop the transmission system, including investments in new transport connections, in expansion of capacity and in optimisation of existing capacity; |
+| --- | --- |
+
+| (c) | energy purchases or sales necessary for the operation of the transmission system. |
+| --- | --- |
+
+9. The compliance officer shall monitor the compliance of the transmission system operator with Article 40.
+
+10. The compliance officer shall have access to all relevant data and to the offices of the transmission system operator and to all the information necessary for the fulfilment of the compliance officer’s task.
+
+11. After prior approval by the regulatory authority, the Supervisory Body may dismiss the compliance officer. It shall dismiss the compliance officer for reasons of lack of independence or professional capacity upon request of the regulatory authority.
+
+12. The compliance officer shall have access to the offices of the transmission system operator without prior announcement.
+
+<a id="art_68"></a>
+
+### art_68
+
+Article 68
+
+1. Member States shall ensure that from 5 August 2026 hydrogen transmission network operators are unbundled in accordance with the rules for natural gas transmission system operators set out in Article 60.
+
+2. For the purpose of this Article, of Articles 46 and 60 of this Directive, and of Articles 35 and 43 of Directive (EU) 2019/944, production or supply shall include production and supply of hydrogen, and transmission shall include transport of hydrogen.
+
+3. A Member State may decide not to apply paragraph 1 of this Article to hydrogen transmission networks belonging to a vertically integrated undertaking. In such case, the Member State concerned shall designate an independent hydrogen transmission network operator unbundled in accordance with the rules on independent system operators for natural gas set out in Article 61. Hydrogen transmission network operators and transmission system operators for natural gas unbundled in accordance with Article 60(1) may act as independent hydrogen transmission network operators, subject to the requirements pursuant to Article 69.
+
+4. Where a hydrogen transmission network belongs to one or more certified transmission system operators for natural gas or where, on 4 August 2024, a hydrogen transmission network belongs to a vertically integrated undertaking active in hydrogen production or supply, Member States may decide not to apply paragraph 1 of this Article and designate an entity under the sole control of the transmission system operator or the joint control of two or more transmission system operators, or under the sole control of the vertically integrated undertaking active in hydrogen production or supply as an integrated hydrogen transmission network operator unbundled in accordance with the rules on independent transmission operators for natural gas set out in Section 3 of this Chapter.
+
+Notwithstanding the first subparagraph of this paragraph, where a Member State has granted a derogation from the requirements of Article 69 pursuant to paragraph 2 of that Article and a hydrogen transmission network belongs to one or more certified transmission system operators for natural gas unbundled in accordance with the rules on independent transmission operators for natural gas set out in Section 3 of this Chapter, Member States may decide not to apply paragraph 1 of this Article and to designate that entity or an entity under the joint control of two or more transmission system operators as an integrated hydrogen transmission network operator unbundled in accordance with the rules on independent transmission operators for natural gas set out in Section 3 of this Chapter.
+
+Where an undertaking includes a transmission system operator unbundled in accordance with Article 60(1) and an integrated hydrogen transmission network operator, that undertaking may be active in hydrogen production or supply, but not in the production or supply of natural gas or electricity. Where such undertaking engages in hydrogen production or supply, the transmission system operator for natural gas shall comply with the requirements set out in Section 3 of this Chapter, and the undertaking and all parts thereof shall not book or use capacity rights to inject any hydrogen into a transmission or distribution system for natural gas operated by the undertaking.
+
+5. The rules applicable to transmission system operators set out in Article 72 shall apply to hydrogen transmission network operators.
+
+<a id="art_69"></a>
+
+### art_69
+
+Article 69
+
+1. Where a hydrogen transmission network operator is part of an undertaking active in transmission or distribution of natural gas or electricity, it shall be independent at least in terms of its legal form.
+
+2. Member States may grant derogations, on the basis of a publicly available positive cost-benefit analysis, from the requirements of paragraph 1 to hydrogen transmission network operators, subject to a positive assessment by the regulatory authority in accordance with paragraph 4.
+
+3. Derogations granted pursuant to paragraph 2 shall be published and notified to the Commission, accompanied by the assessment concerned referred to in paragraph 4, while preserving the confidentiality of commercially sensitive information.
+
+4. At the moment of granting a derogation pursuant to paragraph 2, and at least every seven years thereafter, or upon a reasoned request by the Commission, the regulatory authority of the Member State granting the derogation shall publish an assessment of the impact of the derogation on transparency, cross subsidies, network tariffs and cross-border trade. Such an assessment shall include at least the calendar of expected transfers of assets from the natural gas sector to the hydrogen sector.
+
+If the regulatory authority concludes, on the basis of an assessment, that the continued application of the derogation would have a negative impact on transparency, cross-subsidies, network tariffs and cross-border trade, or when the transfer of assets from the natural gas sector to the hydrogen sector has concluded, the Member State shall withdraw the derogation.
+
+5. By way of derogation from paragraphs 2, 3 and 4, Estonia, Latvia and Lithuania may grant derogations from the requirements of paragraph 1 to hydrogen transmission network operators. Any such derogation shall be notified to the Commission and shall expire by 31 December 2030. After the date of expiration of a derogation granted pursuant to this paragraph, Estonia, Latvia and Lithuania may grant derogations pursuant to paragraphs 2, 3 and 4.
+
+<a id="art_70"></a>
+
+### art_70
+
+Article 70
+
+Member States shall ensure that the accounts of hydrogen network operators are kept in accordance with Article 75.
+
+<a id="art_71"></a>
+
+### art_71
+
+Article 71
+
+1. Before an undertaking is approved and designated as transmission system operator or hydrogen transmission network operator, it shall be certified in accordance with paragraphs 4, 5 and 6 of this Article and with Article 14 of Regulation (EU) 2024/1789.
+
+2. Undertakings which have been certified by the regulatory authority as having complied with the requirements of Article 60 or 68, pursuant to the certification procedure, shall be approved and designated as transmission system operators or hydrogen transmission network operators by Member States. The designation of transmission system operators and hydrogen transmission network operators shall be notified to the Commission and published in the Official Journal of the European Union.
+
+3. Certified undertakings shall notify to the regulatory authority any planned transaction which may require a reassessment of their compliance with the requirements of Article 60 or 68.
+
+4. The regulatory authorities shall monitor the continuing compliance of certified undertakings with the requirements of Article 60 or 68. They shall open a certification procedure to ensure such compliance:
+
+| (a) | upon notification by the certified undertaking pursuant to paragraph 3; |
+| --- | --- |
+
+| (b) | on their own initiative where they have knowledge that a planned change in rights or influence over certified undertakings or transmission system owners may lead to an infringement of Article 60 or 68 or where they have reason to believe that such an infringement may have occurred; or |
+| --- | --- |
+
+| (c) | upon a reasoned request from the Commission. |
+| --- | --- |
+
+5. The regulatory authorities shall adopt a decision on the certification of a transmission system operator or a hydrogen transmission network operator within 100 working days from the date of the notification by the transmission system operator or the hydrogen transmission network operator or from the date of the Commission request. After expiry of that period, the certification shall be deemed to be granted. The explicit or tacit decision of the regulatory authority shall become effective only after the conclusion of the procedure set out in paragraph 6.
+
+6. The explicit or tacit decision on the certification shall be notified without delay to the Commission by the regulatory authority, together with all the relevant information with respect to that decision. The Commission shall act in accordance with the procedure laid down in Article 14 of Regulation (EU) 2024/1789.
+
+7. The regulatory authorities and the Commission may request from transmission system operators, hydrogen transmission network operators and undertakings performing any of the functions of production or supply any information relevant for the fulfilment of their tasks under this Article.
+
+8. The regulatory authorities and the Commission shall preserve the confidentiality of commercially sensitive information.
+
+<a id="art_72"></a>
+
+### art_72
+
+Article 72
+
+1. Where certification is requested by a transmission system owner, a transmission system operator, a hydrogen transmission network operator or a hydrogen transmission network owner which is controlled by a person from a third country, the regulatory authority shall notify the Commission.
+
+The regulatory authority shall also notify to the Commission without delay any circumstances that would result in a person from a third country acquiring control of a transmission system, a transmission system operator, a hydrogen transmission network or a hydrogen transmission network operator.
+
+2. The transmission system operator or hydrogen transmission network operator shall notify to the regulatory authority any circumstances that would result in a person from a third country acquiring control of the transmission system, the transmission system operator, the hydrogen transmission network or the hydrogen transmission network operator.
+
+3. The regulatory authority shall adopt a draft decision on the certification of a transmission system operator or hydrogen transmission network operator within 100 working days from the date of notification by the transmission system operator or hydrogen network operator. It shall refuse the certification if it has not been demonstrated:
+
+| (a) | that the entity concerned complies with the requirements of Article 60 or 68; and |
+| --- | --- |
+
+| (b) | to the regulatory authority, or to another competent authority designated by the Member State, that granting certification will not put at risk the security of energy supply or the essential security interests of the Member State and the Union; in considering that question the regulatory authority or other competent authority so designated shall take into account:(i)the rights and obligations of the Union with respect to that third country arising under international law, including any agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of energy supply;(ii)the rights and obligations of the Member State with respect to that third country arising under agreements concluded with it, insofar as they are in compliance with Union law;(iii)ownership, supply or other commercial relationships that could negatively affect the incentives and the ability of the transmission system owner, the transmission system operator, the hydrogen transmission network owner or the hydrogen transmission network operator to deliver natural gas or hydrogen to the Member State or the Union;(iv)other specific facts and circumstances of the case and the third country concerned. |
+| --- | --- |
+| (i) | the rights and obligations of the Union with respect to that third country arising under international law, including any agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of energy supply; |
+| (ii) | the rights and obligations of the Member State with respect to that third country arising under agreements concluded with it, insofar as they are in compliance with Union law; |
+| (iii) | ownership, supply or other commercial relationships that could negatively affect the incentives and the ability of the transmission system owner, the transmission system operator, the hydrogen transmission network owner or the hydrogen transmission network operator to deliver natural gas or hydrogen to the Member State or the Union; |
+| (iv) | other specific facts and circumstances of the case and the third country concerned. |
+
+4. The regulatory authority shall notify the draft decision to the Commission without delay, together with all the relevant information with respect to that decision.
+
+5. Member States shall provide for the regulatory authority or the designated competent authority referred to in paragraph 3, point (b), of this Article before the regulatory authority adopts a decision on the certification, to request an opinion from the Commission on whether:
+
+| (a) | the entity concerned complies with the requirements of Article 60 or 68; and |
+| --- | --- |
+
+| (b) | granting certification will put at risk the security of energy supply to the Union. |
+| --- | --- |
+
+6. The Commission shall examine the request referred to in paragraph 5 as soon as it is received. Within a period of 50 working days after receiving the request, it shall deliver its opinion to the regulatory authority or, if the request was made by the designated competent authority, to that authority.
+
+In preparing its opinion, the Commission may request the views of ACER, the Member State concerned and interested parties. In the event that the Commission makes such a request, the 50-working day period shall be extended by a further 50 working days.
+
+In the absence of an opinion by the Commission within the period referred to in the first and second subparagraphs, the Commission is deemed not to raise objections to the decision of the regulatory authority.
+
+7. When assessing whether the control by a person from a third country will put at risk the security of energy supply or the essential security interests of the Union or of any Member State, the Commission shall take into account:
+
+| (a) | the specific facts of the case and the third country concerned, including evidence of the influence of the third country concerned over the situation described in the paragraph 3, point (b)(iii); and |
+| --- | --- |
+
+| (b) | the rights and obligations of the Union with respect to that third country arising under international law, including an agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of supply. |
+| --- | --- |
+
+8. The regulatory authority shall, within a period of 50 working days after the expiry of the period referred to in paragraph 6, adopt its final decision on the certification. In adopting its final decision, the regulatory authority shall take utmost account of the Commission’s opinion. In any event a Member State shall have the right to refuse certification where granting certification puts at risk the Member State’s security of energy supply or the security of energy supply of another Member State. Where the Member State has designated another competent authority pursuant to paragraph 3, point (b), it may require the regulatory authority to adopt its final decision in accordance with the assessment of that competent authority. The regulatory authority’s final decision and the Commission’s opinion shall be published together. Where the final decision diverges from the Commission’s opinion, the Member State concerned shall provide and publish, together with that decision, the reasoning underlying that decision.
+
+9. Nothing in this Article shall affect the right of Member States to exercise, in compliance with Union law, national legal controls to protect legitimate public security interests.
+
+10. The Commission is empowered to adopt delegated acts in accordance with Article 90 in order to supplement this Directive by providing guidelines setting out the details of the procedure to be followed for the application of this Article.
+
+<a id="art_73"></a>
+
+### art_73
+
+Article 73
+
+Member States shall designate, or shall require undertakings which own natural gas storage, hydrogen storage, LNG facilities and hydrogen terminals to designate, for a period of time to be determined by Member States, having regard to considerations of efficiency and economic balance, one or more operators for such infrastructure.
+
+<a id="art_74"></a>
+
+### art_74
+
+Article 74
+
+1. Member States or any competent authority they designate, including the regulatory authorities and the dispute settlement authorities referred to in Article 32(3), shall, insofar as necessary to carry out their functions, have right of access to the accounts of natural gas and hydrogen undertakings as set out in Article 75.
+
+2. Member States and any designated competent authority, including the regulatory authorities and the dispute settlement authorities, shall preserve the confidentiality of commercially sensitive information. Member States may provide for the disclosure of such information where this is necessary in order for the competent authorities to carry out their functions.
+
+<a id="art_75"></a>
+
+### art_75
+
+Article 75
+
+1. Member States shall take the necessary steps to ensure that the accounts of natural gas and hydrogen undertakings are kept in accordance with paragraphs 2 to 5.
+
+2. Natural gas and hydrogen undertakings, whatever their system of ownership or legal form, shall draw up, submit to audit and publish their annual accounts in accordance with the rules of national law concerning the annual accounts of limited liability companies adopted pursuant to Directive 2013/34/EU.
+
+Undertakings which are not legally obliged to publish their annual accounts shall keep a copy thereof at the disposal of the public at their head office.
+
+3. Undertakings shall, in their internal accounting, keep separate accounts for each of their transmission, distribution, LNG, hydrogen terminal, natural gas and hydrogen storage and hydrogen transport activities as they would be required to do if the activities in question were carried out by separate undertakings, with a view to avoiding discrimination, cross-subsidisation and distortion of competition. Infrastructure assets of the undertakings shall be allocated to the relevant accounts and regulatory asset bases separately for natural gas, electricity or hydrogen assets and that allocation shall be made transparent. Undertakings shall also keep accounts, which may be consolidated, for other activities not relating to transmission, distribution, LNG, hydrogen terminal, natural gas or hydrogen storage or hydrogen transport activities. Revenue from ownership of the transmission, distribution or hydrogen network shall be specified in the accounts. Where appropriate, undertakings shall keep consolidated accounts for other, non-natural gas and non-hydrogen activities. The internal accounts shall include a balance sheet and a profit and loss account for each activity. The separation of accounts shall be audited in accordance with the rules laid down in paragraph 2 and reported to the regulatory authority concerned.
+
+4. The audit referred to in paragraph 2 of this Article shall, in particular, verify that the obligation to avoid discrimination and cross-subsidies referred to in paragraph 3 of this Article is respected. Without prejudice to Article 5 of Regulation (EU) 2024/1789, there shall be no cross-subsidisation between natural gas system users and hydrogen network users.
+
+5. Undertakings shall specify in their internal accounting the rules for the allocation of assets and liabilities, expenditure and income as well as for depreciation, without prejudice to nationally applicable accounting rules, which they follow in drawing up the separate accounts referred to in paragraph 3. Those internal rules may be amended only in exceptional cases. Such amendments shall be notified to the regulatory authority and duly substantiated.
+
+6. The annual accounts shall indicate in notes any transaction of a certain size conducted with related undertakings.
+
+<a id="art_76"></a>
+
+### art_76
+
+Article 76
+
+1. Each Member State shall designate a single regulatory authority at national level.
+
+2. Paragraph 1 of this Article shall be without prejudice to the designation of other regulatory authorities at regional level within Member States, provided that there is one senior representative for representation and contact purposes at Union level within the Board of Regulators of ACER in accordance with Article 7(1) of Regulation (EU) 2019/942.
+
+3. By way of derogation from paragraph 1 of this Article, a Member State may designate regulatory authorities for small systems in a geographically separate region whose consumption, in 2008, accounted for less than 3 % of the total consumption of the Member State of which it is part. That derogation shall be without prejudice to the appointment of one senior representative for representation and contact purposes at Union level within the Board of Regulators of ACER in compliance with Article 7(1) of Regulation (EU) 2019/942.
+
+4. Member States shall guarantee the independence of the regulatory authority and shall ensure that it exercises its powers impartially and transparently. For that purpose, Member States shall ensure that, when carrying out the regulatory tasks conferred on it by this Directive and related legal acts, the regulatory authority:
+
+| (a) | is legally distinct and functionally independent from any other public or private entity; |
+| --- | --- |
+
+| (b) | ensures that its staff and the persons responsible for its management:(i)act independently from any market interest;(ii)do not seek or take direct instructions from any government or other public or private entity when carrying out the regulatory tasks. That requirement is without prejudice to close cooperation, as appropriate, with other relevant national authorities or to general policy guidelines issued by the government and not related to the regulatory powers and duties pursuant to Article 78. |
+| --- | --- |
+| (i) | act independently from any market interest; |
+| (ii) | do not seek or take direct instructions from any government or other public or private entity when carrying out the regulatory tasks. That requirement is without prejudice to close cooperation, as appropriate, with other relevant national authorities or to general policy guidelines issued by the government and not related to the regulatory powers and duties pursuant to Article 78. |
+
+5. In order to protect the independence of the regulatory authority, Member States shall in particular ensure that:
+
+| (a) | the regulatory authority can take autonomous decisions, independently from any political body; |
+| --- | --- |
+
+| (b) | the regulatory authority has all the necessary human and financial resources it needs to carry out its duties and exercise its powers in an effective and efficient manner; |
+| --- | --- |
+
+| (c) | the regulatory authority has a separate annual budget allocation and autonomy in the implementation of that allocated budget; |
+| --- | --- |
+
+| (d) | the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority’s top management are appointed for a fixed term of between five and seven years, renewable once; |
+| --- | --- |
+
+| (e) | the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority’s top management are appointed based on objective, transparent and published criteria, in an independent and impartial procedure that ensures that the candidates have the necessary skills and experience for any relevant position in the regulatory authority; |
+| --- | --- |
+
+| (f) | provisions on conflict of interest are in place and confidentiality obligations extend beyond the end of the mandate of the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority’s top management; |
+| --- | --- |
+
+| (g) | the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority’s top management can be dismissed only based on transparent criteria in place. |
+| --- | --- |
+
+In regard to the first subparagraph, point (d), Member States shall ensure an appropriate rotation scheme for the board or the top management. The members of the board or, in the absence of a board, members of the top management may be relieved from office during their term only if they no longer fulfil the conditions set out in this Article or have been guilty of misconduct under national law.
+
+Member States may provide for the ex post control of the regulatory authorities’ annual accounts by an independent auditor.
+
+6. By 5 July 2026 and every four years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the compliance of national authorities with the principle of independence set out in this Article. The Commission shall make such reports publicly available.
+
+<a id="art_77"></a>
+
+### art_77
+
+Article 77
+
+In carrying out the regulatory tasks specified in this Directive, the regulatory authority shall take all reasonable measures in pursuit of the following objectives within the framework of its duties and powers as laid down in Article 78, in close consultation with other relevant national authorities, including competition authorities and relevant authorities from neighbouring Member States and neighbouring third countries, as appropriate, and without prejudice to their competencies:
+
+| (a) | promoting, in close cooperation with regulatory authorities of other Member States, the Commission and ACER, competitive, flexible, secure and environmentally sustainable internal markets for natural gas, renewable gas, low-carbon gas and hydrogen within the Union, and ensuring appropriate conditions for the effective and reliable operation of natural gas and hydrogen networks and advancing energy system integration, taking into account long-term objectives, thus contributing to the consistent, efficient and effective application of Union law in order to achieve the Union’s climate and energy goals; |
+| --- | --- |
+
+| (b) | developing competitive and properly functioning regional cross-border markets within the Union with a view to the achievement of the objectives referred to in point (a); |
+| --- | --- |
+
+| (c) | eliminating restrictions on trade in natural gas and hydrogen between Member States, including eliminating restrictions due to differences in the quality of natural gas and hydrogen or in the volume of hydrogen blended into the natural gas system or due to differences in the quality of hydrogen in the hydrogen system, developing appropriate cross-border transmission or transport capacities to meet demand and enhancing the integration of national markets ensuring the interoperability of the interconnected Union natural gas system or Union hydrogen system, which may facilitate natural gas flow across the Union; |
+| --- | --- |
+
+| (d) | helping to achieve, in the most cost-effective manner and while taking into account the energy efficiency first principle, the development of secure, reliable and efficient non-discriminatory systems that are consumer oriented, and promoting system adequacy and, in accordance with general energy and climate policy objectives, energy efficiency as well as the integration of large and small-scale production of gas from renewable sources and distributed production in both transmission and distribution networks and facilitating their operation in relation to other energy networks of electricity and heat; |
+| --- | --- |
+
+| (e) | facilitating connection and access to the network for new production capacity, in particular removing barriers that could prevent connection and access for entrants on the markets for gas and hydrogen from renewable sources; |
+| --- | --- |
+
+| (f) | ensuring that system operators and system users are granted appropriate incentives, in both the short and the long term, to increase efficiencies, especially energy efficiency, in system performance and foster market integration; |
+| --- | --- |
+
+| (g) | ensuring that customers benefit through the efficient functioning of their national market, promoting effective competition and helping to ensure high levels of consumer protection in close cooperation with relevant consumer protection authorities and consultation with relevant consumer bodies; |
+| --- | --- |
+
+| (h) | helping to achieve high standards of public service for natural gas, contributing to the protection of vulnerable customers and contributing to the compatibility of necessary data exchange processes for customer switching. |
+| --- | --- |
+
+<a id="art_78"></a>
+
+### art_78
+
+Article 78
+
+1. The regulatory authority shall have the following duties:
+
+| (a) | fixing or approving, in accordance with transparent criteria, transmission, or distribution tariffs or their methodologies, or both; |
+| --- | --- |
+
+| (b) | approving the joint scenarios for the ten-year network development plans in accordance with Article 55(2), point (f), where such approval is provided for by the Member State; |
+| --- | --- |
+
+| (c) | fixing or approving, in accordance with transparent criteria, tariffs for hydrogen network access or their methodologies, or both, without prejudice to Member States’ decisions pursuant to Article 35(4); |
+| --- | --- |
+
+| (d) | fixing or approving, in accordance with transparent criteria:(i)the size and duration of the dedicated charge and financial transfer or their methodologies, or both;(ii)the value of transferred assets and the destination of any profits and losses that may occur as a result; and(iii)the allocation of contributions to the dedicated charge; |
+| --- | --- |
+| (i) | the size and duration of the dedicated charge and financial transfer or their methodologies, or both; |
+| (ii) | the value of transferred assets and the destination of any profits and losses that may occur as a result; and |
+| (iii) | the allocation of contributions to the dedicated charge; |
+
+| (e) | ensuring compliance of transmission system operators and distribution system operators and, where relevant, system owners, as well as hydrogen network operators, any natural gas and hydrogen undertaking and other market participants with their obligations under this Directive and Regulation (EU) 2024/1789, the network codes and guidelines adopted pursuant to Articles 70, 71 and 72 of Regulation (EU) 2024/1789, Regulation (EU) 2017/1938 and other relevant Union law, including as regards cross-border issues, as well as ACER’s decisions; |
+| --- | --- |
+
+| (f) | in close coordination with the other regulatory authorities, ensuring the compliance of the ENTSO for Gas, the European entity for distribution system operators (the ‘EU DSO entity’) set up in accordance with Articles 52 to 57 of Regulation (EU) 2019/943 and the European Network of Network Operators for Hydrogen (the ‘ENNOH’) set out in accordance with Article 57 of Regulation (EU) 2024/1789 with their obligations under this Directive and Regulation (EU) 2024/1789, the network codes and guidelines adopted pursuant to Articles 70 to 74 of Regulation (EU) 2024/1789, and other relevant Union law, including as regards cross-border issues, as well as with ACER’s decisions, and jointly identifying non-compliance of the ENTSO for Gas, the EU DSO entity and the ENNOH with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, referring the matter to ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942; |
+| --- | --- |
+
+| (g) | monitoring the development of gas qualities and gas quality management by transmission system operators and where relevant by distribution system operators, including monitoring the development of costs related to the management of gas quality by system operators and the developments related to the blending and deblending of hydrogen into the natural gas system, by natural gas storage system operators and by LNG facility operators and, where a Member State has mandated another competent authority to collect information, that competent authority shall share the information with the regulatory authority; |
+| --- | --- |
+
+| (h) | monitoring the development of hydrogen quality and hydrogen quality management by hydrogen network operators where relevant as referred to in Article 50, including monitoring the development of costs related to the management of hydrogen quality; |
+| --- | --- |
+
+| (i) | taking into account the examination and assessment of the plans of the development of the hydrogen transport infrastructure submitted by hydrogen network operators pursuant to Articles 55 and 56 of this Directive when it approves the dedicated charges within the meaning of Article 5 of Regulation (EU) 2024/1789; |
+| --- | --- |
+
+| (j) | cooperating with regard to cross-border issues with the regulatory authority or authorities of the Member States concerned and with ACER, in particular through participation in the work of ACER’s Board of Regulators pursuant to Article 21 of Regulation (EU) 2019/942. In respect of infrastructure to and from a third country, the regulatory authority of the Member State where the first interconnection point with the Member States’ network is located may cooperate with the relevant authorities of the third country, including those of the Energy Community Contracting Parties, after consulting the regulatory authorities of other Member States concerned, with the aim of, as regards that infrastructure, consistent application of this Directive in the territory of the Member States; |
+| --- | --- |
+
+| (k) | complying with, and implementing, any relevant legally binding decisions of ACER and of the Commission; |
+| --- | --- |
+
+| (l) | reporting annually on its activity and the fulfilment of its duties to the relevant authorities of the Member States, ACER and the Commission, covering the steps taken and the results obtained as regards each of the tasks listed in this Article; |
+| --- | --- |
+
+| (m) | ensuring that there are no cross-subsidies between transmission, distribution, hydrogen transport, natural gas and hydrogen storage, LNG and hydrogen terminals and natural gas and hydrogen supply activities, without prejudice to Article 5(2) of Regulation (EU) 2024/1789; |
+| --- | --- |
+
+| (n) | monitoring investment plans of the transmission system operators and hydrogen transmission network operators, providing in its annual report an assessment of the investment plans of the transmission system operators and hydrogen transmission network operators as regards their consistency with the Union-wide network development plans referred to in Articles 32 and 60 of Regulation (EU) 2024/1789, and including in those assessments recommendations to amend those investment plans; |
+| --- | --- |
+
+| (o) | monitoring compliance with and reviewing the past performance of network security and reliability rules and setting or approving standards and requirements for quality of service and supply or contributing thereto together with other competent authorities; |
+| --- | --- |
+
+| (p) | monitoring the level of transparency, including of wholesale prices, and ensuring compliance of natural gas and hydrogen undertakings with transparency obligations; |
+| --- | --- |
+
+| (q) | monitoring the level and effectiveness of market opening and competition at wholesale and retail levels, including on natural gas and hydrogen exchanges, prices for household customers including prepayment systems, transparency of offers, price spikes and their impact on wholesale and consumer prices, the relationship between household prices and wholesale prices, switching rates, disconnection rates, charges for and the execution of maintenance services, complaints by household customers, and any distortion or restriction of competition, including providing any relevant information, and bringing any relevant cases to the attention of the relevant competition authorities, in particular with regard to vulnerable customers and customers who are affected by energy poverty; |
+| --- | --- |
+
+| (r) | monitoring the occurrence of restrictive contractual practices, including exclusivity clauses, which may prevent large non-household customers from contracting simultaneously with more than one supplier or restrict their choice to do so, and, where appropriate, informing the national competition authorities of such practices; |
+| --- | --- |
+
+| (s) | respecting contractual freedom with regard to long-term contracts provided that they comply with Union law, are consistent with Union policies and contribute to decarbonisation objectives, provided that no long-term contracts for supply of unabated fossil gas are concluded with a duration beyond 31 December 2049; |
+| --- | --- |
+
+| (t) | monitoring the time taken by natural gas transmission and distribution system operators or hydrogen network operators to make connections and repairs, including network connection requests by biomethane production facilities; |
+| --- | --- |
+
+| (u) | monitoring and reviewing the access conditions to natural gas storage, linepack and other ancillary services as provided for in Article 33 or 37, excluding, in the event that the access regime to natural gas storage is established pursuant to Article 33(3), the reviewing of tariffs; |
+| --- | --- |
+
+| (v) | helping to ensure, together with other relevant authorities, that the consumer protection measures, including those set out in Annex I, are effective and enforced, and, in particular, assessing the existence of barriers for customers to exercise their rights such as switching, termination of contract, and access to out-of-court dispute settlement mechanisms; |
+| --- | --- |
+
+| (w) | publishing recommendations, at least annually, in relation to compliance of supply prices with Article 7, and providing those to the competition authorities, where appropriate; |
+| --- | --- |
+
+| (x) | ensuring non-discriminatory access to customer consumption data, the provision for optional use of an easily understandable harmonised format at national level for consumption data and prompt access for all customers to such data pursuant to Articles 23 and 24; |
+| --- | --- |
+
+| (y) | monitoring the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, hydrogen network operators, suppliers and customers and other market participants pursuant to Regulation (EU) 2024/1789; |
+| --- | --- |
+
+| (z) | monitoring the correct application of the criteria that determine whether a natural gas storage facility falls under Article 33(3) or (4); |
+| --- | --- |
+
+| (aa) | monitoring the implementation of safeguards measures as referred to in Article 83; |
+| --- | --- |
+
+| (bb) | contributing to the compatibility of data exchange processes for the most important market processes at regional level; |
+| --- | --- |
+
+| (cc) | implementing the network codes and guidelines adopted pursuant to Articles 70 to 74 of Regulation (EU) 2024/1789 through national measures or, where so required, coordinated regional or Union-wide measures; |
+| --- | --- |
+
+| (dd) | ensuring an open, transparent, efficient and inclusive process for the setting up of the national ten-year network development plan in line with the requirements set out in Article 55, of the hydrogen distribution network development plan in line with the requirements set out in Article 56 and, where relevant, of the network decommissioning plan in line with the requirements set out in Article 57; |
+| --- | --- |
+
+| (ee) | approving and amending the network development plans referred to in Article 55 and, where relevant, in Article 57; |
+| --- | --- |
+
+| (ff) | examining and, where applicable, requiring amendments to the hydrogen distribution network development plan referred to in Article 56(4), where such a task is provided for by the Member State pursuant to paragraph 6 of that Article;; |
+| --- | --- |
+
+| (gg) | setting up guidelines as referred to in Article 57(6) providing criteria and methodologies for a structural approach to the decommissioning of parts of the natural gas distribution network taking into account costs of decommissioning and the specific case of those assets that might require decommissioning before their originally projected life cycle and providing guidance as regards tariff setting in such cases; |
+| --- | --- |
+
+| (hh) | monitoring the availability of comparison websites, including comparison tools that fulfil the criteria in Article 14; |
+| --- | --- |
+
+| (ii) | monitoring the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated renewable natural gas; |
+| --- | --- |
+
+| (jj) | carrying out any other duties conferred on the regulatory authority pursuant to this Directive and Regulation (EU) 2024/1789. |
+| --- | --- |
+
+2. Where a Member State has so provided, the monitoring duties set out in paragraph 1 may be carried out by other authorities than the regulatory authority. In such a case, the information resulting from such monitoring shall be made available to the regulatory authority as soon as possible.
+
+While preserving their independence, without prejudice to their own specific competencies and consistent with the principles of better regulation, the regulatory authority shall, as appropriate, consult natural gas transmission system and hydrogen network operators and, as appropriate, closely cooperate with other relevant national authorities when carrying out the duties set out in paragraph 1.
+
+Any approvals given by a regulatory authority or ACER under this Directive are without prejudice to any duly justified future use of its powers by the regulatory authority under this Article or to any penalties imposed by other relevant authorities or the Commission.
+
+3. In addition to the duties conferred on it pursuant to paragraph 1 of this Article, where an independent system operator or an independent hydrogen transmission network operator has been designated pursuant to Article 61 or 68, the regulatory authority shall:
+
+| (a) | monitor the compliance of the transmission system owner, the independent system operator or of the hydrogen transmission network owner and independent hydrogen transmission network operator, with their obligations under this Directive, and impose penalties for non-compliance with their obligations, pursuant to paragraph 4, point (d); |
+| --- | --- |
+
+| (b) | monitor the relations and communications between the independent system operator and the transmission system owner, or between the hydrogen transmission network owner and the independent hydrogen transmission network operator, so as to ensure compliance of the independent system operator or the independent hydrogen transmission network operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner, or between the hydrogen transmission network owner and the independent hydrogen transmission network operator, in respect of any complaint submitted by either party pursuant to paragraph 11; |
+| --- | --- |
+
+| (c) | without prejudice to the procedure laid down in Article 61(2), point (c), for the first ten-year network development plan, approve the investments planning and the multi-annual network development plan presented annually by the independent system operator or the independent hydrogen transmission network operator; |
+| --- | --- |
+
+| (d) | ensure that network access tariffs collected by the independent system operator or the independent hydrogen network operator include remuneration for the network owner or network owners which provides for adequate remuneration of the network assets and of any new investments made therein, provided they are economically and efficiently incurred; |
+| --- | --- |
+
+| (e) | have the powers to carry out inspections, including unannounced inspections, at the premises of the transmission system owner and the independent system operator, or of the hydrogen transmission network owner and the independent hydrogen transmission network operator. |
+| --- | --- |
+
+4. Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in paragraphs 1, 3 and 6 in an efficient and expeditious manner. For this purpose, the regulatory authority shall have at least the following powers:
+
+| (a) | to issue binding decisions on natural gas and hydrogen undertakings; |
+| --- | --- |
+
+| (b) | to carry out investigations into the functioning of the markets for natural gas and hydrogen, and to decide upon and impose any necessary and proportionate measures to promote effective competition and ensure the proper functioning of the markets for natural gas and hydrogen and, where appropriate, to cooperate with the national competition authority and the financial market regulators or the Commission in conducting an investigation relating to competition law; |
+| --- | --- |
+
+| (c) | to require any information from natural gas and hydrogen undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network; |
+| --- | --- |
+
+| (d) | to impose effective, proportionate and dissuasive penalties on natural gas and hydrogen undertakings not complying with their obligations under this Directive or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose to a competent court to impose such penalties, including the power to impose or propose the imposition of penalties of up to 10 % of the annual turnover of the transmission system operator or hydrogen network operator or of up to 10 % of the annual turnover of the vertically integrated undertaking on the transmission system operator or hydrogen network operator or on the vertically integrated undertaking, as the case may be, for non-compliance with their respective obligations pursuant to this Directive; |
+| --- | --- |
+
+| (e) | appropriate rights of investigations and relevant powers of instructions for dispute settlement pursuant to paragraphs 11 and 12. |
+| --- | --- |
+
+5. The regulatory authority located in the Member State in which the ENTSO for Gas, the ENNOH or the EU DSO entity has its seat shall have the power to impose effective, proportionate and dissuasive penalties on those entities where they do not comply with their obligations under this Directive, Regulation (EU) 2024/1789 or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose that a competent court impose such penalties.
+
+6. In addition to the duties and powers conferred on it pursuant to paragraphs 1 and 4 of this Article, where an independent transmission operator or an integrated hydrogen transmission network operator has been designated in accordance with Section 3 of Chapter IX, the regulatory authority shall be granted at least the following duties and powers:
+
+| (a) | to impose penalties pursuant to paragraph 4, point (d), for discriminatory behaviour in favour of the vertically integrated undertaking; |
+| --- | --- |
+
+| (b) | to monitor communications between the transmission system operator or the integrated hydrogen transmission network operator and the vertically integrated undertaking so as to ensure compliance of the transmission system operator or the integrated hydrogen transmission network operator with its obligations; |
+| --- | --- |
+
+| (c) | to act as a dispute settlement authority between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator in respect of any complaint submitted pursuant to paragraph 11; |
+| --- | --- |
+
+| (d) | to monitor commercial and financial relations including loans between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator; |
+| --- | --- |
+
+| (e) | to approve all commercial and financial agreements between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator, on the condition that they comply with market conditions; |
+| --- | --- |
+
+| (f) | to request justification from the vertically integrated undertaking when notified by the compliance officer in accordance with Article 67(4), in particular including evidence to the effect that no discriminatory behaviour to the advantage of the vertically integrated undertaking has occurred; |
+| --- | --- |
+
+| (g) | to carry out inspections, including unannounced inspections, at the premises of the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator; |
+| --- | --- |
+
+| (h) | to assign all or specific tasks of the transmission system operator or the integrated hydrogen transmission network operator to an independent system operator or an independent hydrogen transmission network operator appointed in accordance with Article 68 in the case of a persistent breach by the transmission system operator or the integrated hydrogen network operator of its obligations under this Directive, in particular in the case of repeated discriminatory behaviour to the benefit of the vertically integrated undertaking. |
+| --- | --- |
+
+7. The regulatory authorities shall be responsible for fixing or approving sufficiently in advance of their entry into force at least the methodologies used to calculate or establish the terms and conditions for:
+
+| (a) | connection and access to national natural gas networks, including transmission and distribution tariffs, and terms, conditions and tariffs for access to LNG facilities, whereby tariffs or methodologies allow the necessary investments in the networks and LNG facilities to be carried out in a manner allowing those investments to ensure the viability of the networks and LNG facilities; |
+| --- | --- |
+
+| (b) | connection and access to national hydrogen networks, including hydrogen network tariffs, where applicable, and terms and conditions and tariffs for access to hydrogen storage and hydrogen terminals; |
+| --- | --- |
+
+| (c) | the provision of balancing services to be performed in the most economic manner, to provide appropriate incentives for network users to balance their input and off-takes in a fair and non-discriminatory manner and to be based on objective criteria; |
+| --- | --- |
+
+| (d) | approving and monitoring dedicated charges in accordance with Article 5 of Regulation (EU) 2024/1789; |
+| --- | --- |
+
+| (e) | access to cross-border infrastructures, including the procedures for the allocation of capacity and congestion management. |
+| --- | --- |
+
+8. The methodologies or the terms and conditions referred to in paragraph 7 shall be published.
+
+9. In fixing or approving the tariffs or methodologies and the balancing services referred to in paragraph 7, the regulatory authorities shall ensure that transmission and distribution system operators and, without prejudice to a Member State’s decision pursuant to Article 35(4), hydrogen network operators are granted appropriate incentives, over both the short and long term, to increase efficiencies, foster market integration and security of supply and support the related research activities.
+
+10. The regulatory authorities shall monitor congestion management of national transmission networks and hydrogen transmission networks including interconnectors and hydrogen interconnectors, and the implementation of congestion management rules. To that end, transmission system operators, hydrogen transmission network operators or market operators shall submit their congestion management rules, including capacity allocation, to the regulatory authorities. Regulatory authorities may request amendments to those rules.
+
+<a id="art_79"></a>
+
+### art_79
+
+Article 79
+
+1. Regulatory authorities shall have the authority to require natural gas transmission, natural gas storage, LNG and distribution system operators, hydrogen storage and terminal operators, and hydrogen network operators if necessary, to modify the terms and conditions, including tariffs and methodologies referred to in this Article, to ensure that they are proportionate and applied in a non-discriminatory manner. In the event that the access regime to natural gas storage is established pursuant to Article 33(3), that task shall exclude the modification of tariffs. In the event that the access regime to hydrogen networks, hydrogen facilities or hydrogen storage is based on negotiated third-party access in accordance with Article 35(4), Article 36(1) or Article 37(2), that task shall exclude the modification of tariffs. In the event of delay in the fixing of natural gas transmission and distribution tariffs and, where appropriate, hydrogen network tariffs, regulatory authorities shall have the power to fix or approve provisional transmission and distribution tariffs or methodologies and hydrogen network tariffs or methodologies and to decide on the appropriate compensatory measures if the final tariffs or methodologies deviate from those provisional tariffs or methodologies.
+
+2. Any party having a complaint against a natural gas transmission, natural gas storage, LNG or distribution system operator or a hydrogen network, storage or terminal operator in relation to that operator’s obligations under this Directive may refer the complaint to the regulatory authority which, acting as a dispute settlement authority, shall issue a decision within a period of two months after receipt of the complaint. That period may be extended by two months where additional information is sought by the regulatory authority. That extended period may be further extended with the agreement of the complainant. The regulatory authority’s decision shall have binding effect unless and until overruled on appeal.
+
+3. Any party who is affected and who has a right to complain concerning a decision on methodologies taken pursuant to this Article or, where the regulatory authority has a duty to consult, concerning the proposed tariffs or methodologies, may, within two months, or a shorter time period as provided by Member States, following publication of the decision or proposal for a decision, submit a complaint for review. Such a complaint shall not have suspensive effect.
+
+4. Member States shall create appropriate and efficient mechanisms for regulation, control and transparency so as to avoid any abuse of a dominant position, in particular to the detriment of consumers, and any predatory behaviour. Those mechanisms shall take account of the provisions of the TFEU, and in particular Article 102 thereof.
+
+5. Member States shall ensure that the appropriate measures are taken, including administrative action or criminal proceedings in conformity with their national law, against the natural or legal persons responsible where confidentiality rules imposed by this Directive have not been respected.
+
+6. Complaints referred to in paragraphs 2 and 3 shall be without prejudice to the exercise of rights of appeal under Union or national law.
+
+7. Decisions taken by regulatory authorities shall be fully reasoned and justified to allow for judicial review. The decisions shall be available to the public while preserving the confidentiality of commercially sensitive information.
+
+8. Member States shall ensure that suitable mechanisms exist at national level under which a party affected by a decision of a regulatory authority has a right of appeal to a body independent of the parties involved and of any government.
+
+<a id="art_80"></a>
+
+### art_80
+
+Article 80
+
+1. Regulatory authorities shall closely consult and cooperate with each other, and in particular within ACER, and shall provide each other and ACER with any information necessary for the fulfilment of their tasks under this Directive. In respect of the information exchanged, the receiving authority shall ensure the same level of confidentiality as that required of the originating authority.
+
+2. Regulatory authorities shall cooperate at least at a regional level to:
+
+| (a) | foster the creation of operational arrangements in order to enable an optimal management of the network, promote joint natural gas and hydrogen exchanges and the allocation of cross-border capacity, and enable an adequate level of interconnection capacity, including through new interconnections, within the region and between regions to allow for development of effective competition and improvement of security of supply without discriminating between supply undertakings in different Member States; |
+| --- | --- |
+
+| (b) | coordinate the development of all network codes for the relevant transmission system operators, hydrogen network operators and other market participants; |
+| --- | --- |
+
+| (c) | coordinate the development of the rules governing the management of congestion; |
+| --- | --- |
+
+| (d) | ensure regulatory compliance of legal entities fulfilling transmission operators’ and network operators’ tasks at cross-border or regional level. |
+| --- | --- |
+
+3. Regulatory authorities shall have the right to enter into cooperative arrangements with each other to foster regulatory cooperation.
+
+4. The actions referred to in paragraph 2 shall be carried out, as appropriate, in close consultation with other relevant national authorities and without prejudice to their specific competencies.
+
+5. The Commission is empowered to adopt delegated acts in accordance with Article 90 in order to supplement this Directive by establishing guidelines on the extent of the duties of the regulatory authorities to cooperate with each other and with ACER.
+
+6. Regulatory authorities, or where appropriate other competent authorities, may consult and cooperate with the relevant authorities of third countries, including Energy Community Contracting Parties, in relation to the operation of natural gas and hydrogen infrastructure to and from third countries with a view to ensuring, as regards the infrastructure concerned, that this Directive is applied consistently in the territory and territorial sea of a Member State.
+
+<a id="art_81"></a>
+
+### art_81
+
+Article 81
+
+1. Any regulatory authority and the Commission may request the opinion of ACER on the compliance of a decision taken by a regulatory authority with the network codes and the guidelines adopted pursuant to this Directive or to Regulation (EU) 2024/1789.
+
+2. ACER shall provide its opinion to the regulatory authority which has requested it or to the Commission, respectively, and to the regulatory authority which has taken the decision in question within three months from the date of receipt of the request.
+
+3. Where the regulatory authority which has taken the decision does not comply with ACER’s opinion within four months from the date of receipt of that opinion, ACER shall inform the Commission accordingly.
+
+4. Any regulatory authority may inform the Commission where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the network codes and guidelines adopted pursuant to this Directive or to Regulation (EU) 2024/1789 within two months from the date of that decision.
+
+5. Where the Commission, within two months of having been informed by ACER in accordance with paragraph 3 or by a regulatory authority in accordance with paragraph 4, or on its own initiative within three months from the date of the decision, finds that the decision of a regulatory authority raises serious doubts as to its compatibility with the network codes and the guidelines adopted pursuant to this Directive or to Regulation (EU) 2024/1789, the Commission may decide to examine the case further. In such a case, it shall invite the regulatory authority and the parties to the proceedings before the regulatory authority to submit observations.
+
+6. Where the Commission takes a decision to examine the case in accordance with paragraph 5, it shall, within four months of the date of such decision, issue a final decision:
+
+| (a) | not to raise objections against the decision of the regulatory authority; or |
+| --- | --- |
+
+| (b) | to require the regulatory authority concerned to withdraw its decision on the basis that the network codes and the guidelines have not been complied with. |
+| --- | --- |
+
+7. Where the Commission has not taken a decision to examine the case further or a final decision within the time-limits set in paragraphs 5 and 6, it shall be deemed not to have raised objections to the decision of the regulatory authority.
+
+8. The regulatory authority shall comply with the Commission decision to withdraw its decision within a period of two months and shall inform the Commission accordingly.
+
+9. The Commission is empowered to adopt delegated acts in accordance with Article 90 to supplement this Directive by establishing guidelines setting out the details of the procedure to be followed for the application of this Article.
+
+<a id="art_82"></a>
+
+### art_82
+
+Article 82
+
+1. Member States shall require supply undertakings to keep at the disposal of the national authorities, including the regulatory authority and the national competition authorities, and of the Commission, for the fulfilment of their tasks, for at least five years, the relevant data relating to all transactions in natural gas and hydrogen supply contracts and natural gas and hydrogen derivatives with wholesale customers and transmission system operators, natural gas storage and LNG operators as well as hydrogen network, storage and terminal operators.
+
+2. The data shall include details on the characteristics of the relevant transactions such as duration, delivery and settlement rules, the quantity, the dates and times of execution and the transaction prices and means of identifying the wholesale customer concerned, as well as specified details of all unsettled natural gas and hydrogen supply contracts and natural gas and hydrogen derivatives.
+
+3. The regulatory authority may decide to make available to market participants elements of this information provided that commercially sensitive information on individual market participants or individual transactions is not released. This paragraph shall not apply to information about financial instruments which fall within the scope of Directive 2014/65/EU.
+
+4. The Commission is empowered to adopt delegated acts to supplement this Directive in accordance with Article 90, by establishing guidelines which define the methods and arrangements for record keeping as well as the form and content of the data that shall be kept.
+
+5. With respect to transactions in natural gas and hydrogen derivatives of supply undertakings with wholesale customers and natural gas transmission system operators, natural gas storage and LNG operators as well as hydrogen network, storage and terminal operators, this Article shall apply only once the Commission has adopted the guidelines referred to in paragraph 4.
+
+6. This Article shall not create additional obligations towards the authorities referred to in paragraph 1 of this Article for entities falling within the scope of Directive 2014/65/EU.
+
+7. In the event that the authorities referred to in paragraph 1 of this Article need access to data kept by entities falling within the scope of Directive 2014/65/EU, the authorities responsible under that Directive shall provide them with the required data.
+
+<a id="art_83"></a>
+
+### art_83
+
+Article 83
+
+In the event of a sudden crisis in the energy market or where the physical safety or security of persons, apparatus or installations or system integrity is threatened, a Member State may take the measures provided for in the national emergency plan and declare, if applicable, one of the crisis levels pursuant to Article 11 of Regulation (EU) 2017/1938.
+
+<a id="art_84"></a>
+
+### art_84
+
+Article 84
+
+1. Measures that the Member States may take pursuant to this Directive in order to ensure a level playing field shall be compatible with the TFEU, in particular Article 36 thereof, and with other Union law.
+
+2. The measures referred to in paragraph 1 shall be proportionate, non-discriminatory and transparent. Those measures may be put into effect only following notification to and approval by the Commission.
+
+3. The Commission shall act on the notification referred to in paragraph 2 within two months of the date of receipt of the notification. That period shall begin on the day following receipt of the complete information. In the event that the Commission has not acted within that two-month period, it shall be deemed not to have raised objections to the notified measures.
+
+<a id="art_85"></a>
+
+### art_85
+
+Article 85
+
+This Directive shall not affect the freedom of transmission system operators, hydrogen network operators or other economic operators to maintain in force or to conclude technical agreements on issues concerning the operation of pipelines between a Member State and a third country, insofar as those agreements are compatible with Union law and relevant decisions of the regulatory authorities of the Member States concerned. Such agreements shall be notified to the regulatory authorities of the Member States concerned.
+
+<a id="art_86"></a>
+
+### art_86
+
+Article 86
+
+1. Member States which are not directly connected to the interconnected system of any other Member State may derogate from Article 3, 8, 34 or 60 or Article 31(1). Any such derogation shall expire from the moment when the first interconnector to the Member State is completed. Any such derogation shall be notified to the Commission.
+
+2. Member States may apply to the Commission for derogations from applying Article 3, 8, 60 or 31 to outermost regions within the meaning of Article 349 TFEU or to other geographically isolated areas. Any such derogation shall expire from the moment a connection from the region or area to a Member State with an interconnected system is completed.
+
+3. Luxembourg may derogate from Article 60. Any such derogation shall be notified to the Commission.
+
+4. The Commission shall inform the Member States of applications for derogations pursuant to paragraph 2 before taking a decision, taking into account justified requests for confidentiality of commercially sensitive information.
+
+5. Derogations granted by the Commission pursuant to paragraph 2 shall be limited in time and subject to conditions that aim to increase competition in and the integration of the internal market and to ensure that the derogations do not hamper the transition towards renewable energy or the application of the energy efficiency first principle.
+
+6. Derogations granted pursuant to Directive 2009/73/EC without a date of expiry or without a set period of application shall expire on 31 December 2025. Member States that on 4 August 2024 still benefit from such derogations may decide to apply a new derogation pursuant to paragraph 1 or 7 of this Article, or they may apply to the Commission fora new derogation pursuant to paragraph 2 of this Article.
+
+7. Member States that receive the first commercial supply of their first long-term natural gas supply contract after 4 August 2024 may derogate from Article 3(1) to (4), Article 4(1), Article 8, Article 31(1), Article 32(1), Article 34, Article 39(1) to (5), Article 43, Article 44(6) and Articles 46, 60, 61 and 75. Any such derogation shall be notified to the Commission. The derogation shall expire 10 years after the reception of the first commercial supply of their first long-term natural gas supply contract.
+
+8. Notifications of derogations granted by Member States pursuant to paragraphs 1, 3 and 7, and Commission decisions to grant derogations pursuant to in paragraphs 2, 5 and 6, shall be published in the Official Journal of the European Union.
+
+<a id="art_87"></a>
+
+### art_87
+
+Article 87
+
+1. Member States may grant derogations from the application of Article 46, 68 or 71 to hydrogen networks located in outermost regions within the meaning of Article 349 TFEU and in isolated regions with the following NUTS 2 and NUTS 3 codes of Nomenclature for Territorial Units for Statistics (NUTS) established by Regulation (EC) No 1059/2003 of the European Parliament and of the Council (52):
+
+| (i) | Cyprus (NUTS 2 CY00); |
+| --- | --- |
+
+| (ii) | Kainuu (NUTS 3 FI1D8); |
+| --- | --- |
+
+| (iii) | Lapland (NUTS 3 FI1D7); |
+| --- | --- |
+
+| (iv) | Malta (NUTS 2 MT00); |
+| --- | --- |
+
+| (v) | Northern Ostrobothnia (NUTS 3 FI1D9); |
+| --- | --- |
+
+| (vi) | Upper Norrland (NUTS 2 SE33). |
+| --- | --- |
+
+2. Any derogation granted pursuant to paragraph 1 shall be made public and notified to the Commission.
+
+3. Derogations granted pursuant to paragraph 1 shall expire 15 years from the date on which they are granted, and in any event no later than 31 December 2044. Such derogations shall not be renewed. Member States shall withdraw a derogation granted pursuant to paragraph 1 where a hydrogen network benefitting from such derogation is extended beyond the isolated region or becomes connected to hydrogen networks located outside the region.
+
+4. Every seven years from the date of granting of a derogation pursuant to paragraph 1, or upon a reasoned request by the Commission, the regulatory authority of the Member State which granted that derogation shall publish an assessment of the impact of that derogation on competition, infrastructure development and market functioning. If the regulatory authority concludes after such assessment that the continued application of the derogation would carry the risk of impeding competition or adversely affecting the efficient deployment of hydrogen infrastructure or the development of the market for hydrogen in the Member State or the Union, the Member State shall withdraw the derogation.
+
+<a id="art_88"></a>
+
+### art_88
+
+Article 88
+
+1. In respect of natural gas transmission lines between a Member State and a third country completed before 23 May 2019, the Member State where the first connection point of such a transmission line with a Member State’s network is located may decide to derogate from Articles 31, 60, 71 and 72, Article 78(7) and (9) and Article 79(1) for the sections of such natural gas transmission line located in its territory and territorial sea, for objective reasons such as to enable the recovery of the investment made or for reasons of security of supply, provided that the derogation is not detrimental to competition on or the effective functioning of the internal market for natural gas, or to security of supply in the Union.
+
+The derogation shall be limited in time up to 20 years based on objective justification, renewable if justified and may be subject to conditions which contribute to the achievement of the conditions in the first subparagraph.
+
+Such derogations shall not apply to transmission lines between a Member State and a third country which has the obligation to transpose this Directive and which effectively implements this Directive in its legal order under an agreement concluded with the Union.
+
+2. Where the transmission line concerned is located in the territory of more than one Member State, the Member State in the territory of which the first connection point with the Member States’ network is located shall decide whether to grant a derogation for that transmission line after consulting all the Member States concerned.
+
+Upon request by the Member States concerned, the Commission may decide to act as an observer in the consultation between the Member State in the territory of which the first connection point is located and the third country concerning the consistent application of this Directive in the territory and territorial sea of the Member State where the first interconnection point is located, including the granting of derogations for such transmission lines.
+
+3. Decisions pursuant to paragraphs 1 and 2 shall be adopted by 24 May 2020. Member States shall notify any such decisions to the Commission and shall publish them.
+
+4. By 5 August 2026, the Commission shall submit a report to the European Parliament and to the Council on derogations granted under this Article. The report shall, in particular, assess the impact of such derogations on the effective functioning of the internal market for natural gas as well as on security of energy supply and the essential security interests of the Union and the Member States.
+
+<a id="art_89"></a>
+
+### art_89
+
+Article 89
+
+1. Without prejudice to other obligations under Union law, and to the allocation of competence between the Union and the Member States, existing agreements between a Member State and a third country on the operation of a transmission line or an upstream pipeline network may be maintained in force until the entry into force of a subsequent agreement between the Union and the same third country or until the procedure laid down in paragraphs 2 to 15 applies.
+
+2. Without prejudice to the allocation of competence between the Union and the Member States, where a Member State intends to enter into negotiations with a third country in order to amend, extend, adapt, renew or conclude an agreement on the operation of a transmission line with a third country or a hydrogen interconnector with a third country concerning matters falling, entirely or partly, within the scope of this Directive or of Regulation (EU) 2024/1789, it shall notify the Commission of its intention in writing.
+
+Such a notification shall include the relevant documentation and an indication of the provisions to be addressed in the negotiations or to be renegotiated, the objectives of the negotiations and any other relevant information, and shall be transmitted to the Commission at least five months before the intended start of the negotiations.
+
+3. Further to any notification pursuant to paragraph 2, the Commission shall authorise the Member State concerned to enter into formal negotiations with a third country for the part which may affect Union common rules unless it considers that the opening of such negotiations would:
+
+| (a) | be in conflict with Union law other than the incompatibilities arising from the allocation of competence between the Union and the Member States; |
+| --- | --- |
+
+| (b) | be detrimental to the functioning of the internal markets for natural gas or hydrogen, competition or security of supply in a Member State or in the Union, taking into account the principle of solidarity between Member States pursuant to Article 194(1) TFEU; |
+| --- | --- |
+
+| (c) | undermine the objectives of pending negotiations of international agreements by the Union with a third country; |
+| --- | --- |
+
+| (d) | be discriminatory. |
+| --- | --- |
+
+4. When carrying out the assessment pursuant to paragraph 3, the Commission shall take into account whether the intended agreement concerns a transmission line or an upstream pipeline that contributes to the diversification of natural gas supplies and suppliers by means of new natural gas sources.
+
+5. Within 90 days of receipt of the notification referred to in paragraph 2, the Commission shall adopt a decision authorising or refusing to authorise a Member State to enter into negotiations in order to amend, extend, adapt, renew or conclude an agreement with a third country. Where additional information is needed to adopt a decision, the 90-day period shall run from the date of receipt of such additional information.
+
+6. In the event that the Commission adopts a decision refusing to authorise a Member State to enter into negotiations in order to amend, extend, adapt, renew or conclude an agreement with a third country, it shall inform the Member State concerned accordingly and shall give the reasons therefor.
+
+7. Decisions authorising or refusing to authorise a Member State to enter into negotiations in order to amend, extend, adapt, renew or conclude an agreement with a third country shall be adopted, by means of implementing acts, in accordance with the procedure referred to in Article 90(2).
+
+8. The Commission may provide guidance and may request the inclusion of particular clauses in the proposed agreement, in order to ensure compatibility with Union law in accordance with Decision (EU) 2017/684 of the European Parliament and of the Council (53).
+
+9. The Commission shall be kept informed of the progress and results of the negotiations to amend, extend, adapt, renew or to conclude an agreement throughout the different stages of such negotiations and may request to participate in such negotiations between the Member State and the third country in accordance with Decision (EU) 2017/684.
+
+10. The Commission shall inform the European Parliament and the Council of the decisions adopted pursuant to paragraph 5.
+
+11. Before signing an agreement with a third country, the Member State concerned shall notify the Commission of the outcome of negotiations and shall transmit the text of the negotiated agreement to the Commission.
+
+12. Upon notification pursuant to paragraph 11, the Commission shall assess the negotiated agreement pursuant to paragraph 3. Where the Commission finds that the negotiations have resulted in an agreement which complies with paragraph 3, it shall authorise the Member State to sign and conclude the agreement.
+
+13. Within 90 days of receipt of the notification referred to in paragraph 11, the Commission shall adopt a decision authorising or refusing to authorise a Member State to sign and conclude the agreement with a third country. Where additional information is needed to adopt a decision, the 90-day period shall run from the date of receipt of such additional information.
+
+14. Where the Commission adopts a decision pursuant to paragraph 13, authorising a Member State to sign and conclude the agreement with a third country, the Member State concerned shall notify the Commission of the conclusion and entry into force of the agreement, and of any subsequent changes to the status of that agreement.
+
+15. In the event that the Commission adopts a decision refusing to authorise a Member State to sign and conclude the agreement with a third country pursuant to paragraph 13, it shall inform the Member State concerned accordingly and shall give the reasons therefor.
+
+<a id="art_90"></a>
+
+### art_90
+
+Article 90
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Articles 9, 62, 72, 80, 81 and 82 shall be conferred on the Commission for an indeterminate period of time from 4 August 2024.
+
+3. The delegation of power referred to in Articles 9, 62, 72, 80, 81 and 82 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Article 9, 62, 72, 80, 81 or 82 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art_91"></a>
+
+### art_91
+
+Article 91
+
+1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_92"></a>
+
+### art_92
+
+Article 92
+
+1. By 31 December 2030, the Commission shall review this Directive and shall submit a report to the European Parliament and to the Council, accompanied, if necessary, by appropriate legislative proposals. The review shall in particular examine the application of Article 9, and related definitions in Article 2, to assess whether facilities that begin operation from 1 January 2031 demonstrate higher greenhouse gas emission savings from the use of low-carbon fuels and low-carbon hydrogen to receive certification pursuant to that Article.
+
+2. By 5 August 2035, the Commission shall publish a communication assessing the implementation of Article 46 with regard to hydrogen distribution network operators, and the implementation of Articles 68 and 69 with regard to hydrogen transmission network operators.
+
+3. By 5 August 2034, ACER shall, for the purpose of the Commission’s communication pursuant to paragraph 2 of this Article, publish a report on the impact of Articles 46, 68 and 69 on the functioning, competition, liquidity, hydrogen infrastructure development and transparency of the market for hydrogen. ACER’s report shall include a consultation of the relevant stakeholders.
+
+<a id="art_93"></a>
+
+### art_93
+
+Article 93
+
+Directive (EU) 2023/1791 is amended as follows:
+
+| (1) | Articles 17 and 19 are deleted; |
+| --- | --- |
+
+| (2) | in Article 39, the second subparagraph is replaced by the following: ‘Articles 13 to 16 and Articles 18 and 20 and Annexes II, IX, XII, XIII and XIV shall apply from 12 October 2025 ’; |
+| --- | --- |
+
+| (3) | Annex VIII is deleted. |
+| --- | --- |
+
+<a id="art_94"></a>
+
+### art_94
+
+Article 94
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 2 to 6, Articles 8 to 31, Article 33, Articles 35 to 38, Article 39(1), point (a), Article 39(3), (4), (7), (8) and (9), Article 40(1), Articles 41, 42 and 43, Article 44(1), (2), (7) and (8), Article 45, Article 46(2) and (3), Articles 50 to 59, Article 62, Article 64(11), Articles 68 to 75, Article 76(5), Articles 77, 78 and 79, Article 81(1) and (6), Articles 82 and 83, and Annexes I and II by 5 August 2026. They shall immediately communicate the text of those measures to the Commission.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+<a id="art_95"></a>
+
+### art_95
+
+Article 95
+
+Directive 2009/73/EC, as amended by the acts listed in Annex III, Part A of this Directive, is repealed with effect from 4 August 2024, without prejudice to the obligations of Member States relating to the time-limits for the transposition into national law and the date of application of the Directives set out in Annex III, Part B of this Directive.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex IV.
+
+<a id="art_96"></a>
+
+### art_96
+
+Article 96
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 93 shall apply from 5 August 2026.
+
+<a id="art_97"></a>
+
+### art_97
+
+Article 97
+
+This Directive is addressed to the Member States.

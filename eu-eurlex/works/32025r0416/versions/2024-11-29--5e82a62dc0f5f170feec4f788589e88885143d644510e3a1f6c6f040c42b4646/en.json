@@ -1,0 +1,298 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/416 of 29\u00A0November 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0416/versions/2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646/en.xml",
+    "sha256": "d4e6d8af03dec2224b70aa749e327bbe7e68d70cec5344f6b0dd9fbcddccdd1c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0416"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall keep at the disposal of the competent authority, or give the competent authority access to the details of each order in crypto-assets advertised through their systems set out in Articles 2 to 15, as specified in the format laid down in Tables 2 and 3 of the Annex, insofar as they pertain to the order concerned.\n\n2. The data referred to in paragraph 1 shall be in a JSON format in accordance with the methodology laid out in standard ISO 20022.",
+      "text_sha256": "ad762a43408d3c9b60aafa25039977a2ea6371ce18545077905a99870de11f7a",
+      "md_span": {
+        "start": 716,
+        "end": 1259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For all orders in crypto-assets, crypto-asset service providers operating a trading platform for crypto-assets shall keep records to identify all of the following:\n\n| (a) | the participant to the trading platform for crypto-assets that is a legal entity and submits the order to the trading platform for crypto-assets, as identified in accordance with Article 4 and field 1 of Table 2 of the Annex; |\n| --- | --- |\n\n| (b) | the participant to the trading platform for crypto-assets who is a natural person and submits the order to the trading platform for crypto-assets, as identified in accordance with field 2 of Table 2 of the Annex; |\n| --- | --- |\n\n| (c) | the client on whose behalf the participant to the trading platform for crypto-assets referred to in points (a) or (b) submits the order to the trading platform for crypto-assets, as identified in accordance with field 3 of Table 2 of the Annex; |\n| --- | --- |\n\n| (d) | the person or the computer algorithm within the participant to the trading platform for crypto-assets referred to in points (a) and (b) that is responsible for the investment decision in relation to the order, as identified in accordance with field 4 of Table 2 of the Annex; |\n| --- | --- |\n\n| (e) | the person or the computer algorithm within the participant to the trading platform for crypto-assets referred to in points (a) and (b) that is responsible for the execution of the order, as identified in accordance with field 5 of Table 2 of the Annex. |\n| --- | --- |\n\nFor the purposes of point (d), where more than one persons take the investment decision, the crypto-asset service provider operating a trading platform for crypto-assets shall keep records of the person with primary responsibility for that decision. A crypto-asset service provider operating a trading platform for crypto-assets shall only identify such a person or computer algorithm where the investment decision is made on behalf of either the participant, or a client in accordance with a discretionary mandate to it by the client.\n\n2. Where a participant to the trading platform for crypto-assets intends to allocate an order to its client following submission of the order to the trading platform for crypto-assets and has not yet allocated the order to its client at the time of the submission of the order, that client shall be identified as specified in field 3 of Table 2 of the Annex.\n\n3. Where several orders of different clients are submitted to the trading platform for crypto-assets together as an aggregated order, the information referred to in field 3 of Table 2 of the Annex shall be recorded in respect of each client.",
+      "text_sha256": "7e41c17d68e6a27b4ecffee0e650b9ade3a73fcbbd34940da91f1fa84fc57a87",
+      "md_span": {
+        "start": 1292,
+        "end": 3948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Crypto-asset service provider operating a trading platform for crypto-assets shall identify natural persons in the order book records by using the designation resulting from the concatenation of the ISO 3166-1 alpha-2 specified in ISO 3166 followed by the national client identifier as specified in Annex II of Delegated Regulation (EU) 2017/590 based on the nationality of the person. The two-letter country code shall correspond to the nationality of natural person.\n\n2. The national client identifier referred to in paragraph 1 shall be assigned in accordance with the priority levels provided in Annex II of Delegated Regulation (EU) 2017/590 using the highest priority identifier that a person has regardless of whether that identifier is already known to the crypto-asset service provider operating a trading platform for crypto-assets.\n\n3. Where a natural person is a national of more than one European Economic Area (EEA) country, the country code of the first nationality when sorted alphabetically by its ISO 3166-1 alpha-2 code and the identifier of that nationality assigned in accordance with paragraph 2 shall be used. Where a natural person has a non-EEA nationality, the highest priority identifier in accordance with the field referring to ‘all other countries’ provided in Annex II of Delegated Regulation (EU) 2017/590 shall be used. Where a natural person has an EEA and a non-EEA nationality, the country code of the EEA nationality and the highest priority identifier of that nationality assigned in accordance with paragraph 2 shall be used.\n\n4. Where a natural person is a resident of a country other than the one of its nationality, crypto-asset service providers operating a trading platform for crypto-assets shall also identify that natural person based on the country of its residence as specified in field 50 of Table 2 of the Annex.\n\n5. Prefixes to names shall be excluded and first names and surnames shorter than five characters shall be appended by ‘#’. All characters shall be in upper case. No apostrophes, accents, hyphens, punctuation marks or spaces shall be used.\n\n6. Where the identifier assigned in accordance with paragraph 2 is based on CONCAT, the natural person shall be identified by the crypto-asset service provider operating a trading platform for crypto-assets using the concatenation of the following elements in the following order:\n\n| (a) | the date of birth of that person in the format YYYYMMDD; |\n| --- | --- |\n\n| (b) | the five first characters of the first name of that person; |\n| --- | --- |\n\n| (c) | the five first characters of the surname of that person. |\n| --- | --- |",
+      "text_sha256": "b5fd03d729e5166666788ab1ea017936183285ac066f35e8d11faecff6be3155",
+      "md_span": {
+        "start": 3981,
+        "end": 6629
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall identify legal entities in order book records by using the entity identifier in accordance with Article 14 of Commission Delegated Regulation establishing technical standards adopted pursuant to Article 68(10), first subparagraph, point (b).\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets shall identify crypto-assets in order book records by using the asset identifiers in accordance with Article 15 of Commission Delegated Regulation establishing technical standards adopted pursuant to Article 68(10), first subparagraph, point (b).\n\n3. Where using the Legal Entity Identifier (LEI) to identify legal entities in accordance with paragraph 1, the crypto-asset service provider operating a trading platform for crypto-assets shall ensure that the length and construction of the LEI code recorded in the order book records is compliant with the ISO 17442 standard and that the LEI code is included in the Global LEI database maintained by the Central Operating Unit appointed by the Regulatory Oversight Committee, and refers to the entity concerned.",
+      "text_sha256": "8e1efd1b86cc04b04e24cce9e7dac6055087a45d4c145e2f06fc28d61912dfc0",
+      "md_span": {
+        "start": 6662,
+        "end": 7845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThe trading capacity in which the participant of the trading platform for crypto-assets submits an order shall be recorded as specified in field 7 of Table 2 of the Annex.",
+      "text_sha256": "d443cd63f754013074b5053f6c7465680b067dc551120edcdfeef632f8e6558c",
+      "md_span": {
+        "start": 7878,
+        "end": 8060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of the date and time of the occurrence of each event listed in field 20 of Table 2 of the Annex as specified in field 8 of Table 2 of the Annex.\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of the date and time for each data element listed in fields 47, 48 and 49 of Table 2 of the Annex, as specified in field 8 of Table 2 of the Annex.",
+      "text_sha256": "f99dd36eabbd7d78bb0028dbea19f308ea5da20ccbdd0209bf58bc6a1765ffda",
+      "md_span": {
+        "start": 8093,
+        "end": 8607
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall keep a record of the validity periods and order restrictions that are listed in fields 9 and 10 of Table 2 of the Annex.\n\n2. Records of the dates and times in respect of validity periods shall be maintained for each validity period as specified in field 11 of Table 2 of the Annex.",
+      "text_sha256": "bb4d5a55791ce9ff5daa2a3abca298fdf6b2a0c415a38642f109e1993ec1a47d",
+      "md_span": {
+        "start": 8640,
+        "end": 9019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets which operate trading systems on a price visibility-time priority shall maintain a record of the priority time stamp for all orders as specified in field 12 of Table 2 of the Annex.\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets which operate trading systems on a size-time priority basis shall maintain a record of the quantities which determine the priority of orders as specified in field 13 of Table 2 of the Annex and the priority time stamp referred to in paragraph 1.\n\n3. Crypto-asset service providers operating a trading platform for crypto-assets which use a combination of price-visibility-time priority and size-time priority and display orders on their order book in time priority shall maintain a record of the priority time stamp for all orders as specified in field 12 of Table 2 of the Annex.\n\n4. Crypto-asset service providers operating a trading platform for crypto-assets which use a combination of price-visibility-time priority and size-time priority and display orders on their order book in size-time priority shall maintain a record of the quantities which determine the priority of orders as specified in field 13 of Table 2 of the Annex and the priority time stamp referred to in paragraph 1.\n\n5. Crypto-asset service providers operating a trading platform for crypto-assets shall assign and maintain a sequence number for each event as specified in field 14 of Table 2 of the Annex.",
+      "text_sha256": "3dc5f265d0267d654f6fb0cf85a05b6e419695c377400f7f0676a5493b3ed36c",
+      "md_span": {
+        "start": 9052,
+        "end": 10589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall maintain an individual identification code for each order as specified in field 19 of Table 2 of the Annex. The identification code shall be unique per following:\n\n| (a) | order book; |\n| --- | --- |\n\n| (b) | trading day; and |\n| --- | --- |\n\n| (c) | crypto-asset. |\n| --- | --- |\n\nThe code shall be valid starting from the receipt of the order by the operator of the trading platform for crypto-assets until the removal of the order from the order book. The identification code shall apply to rejected orders irrespective of the ground for their rejection.\n\n2. The operator of the trading platform for crypto-assets shall maintain the relevant details of strategy orders with implied functionality (‘SOIF’) that are disseminated to the public as specified in field 31 of Table 2 of the Annex. The order status referred to in that field shall specify whether the order is an implicit order.\n\n3. Upon execution of a SOIF, its details shall be maintained by the operator of the trading platform for crypto-assets as specified in the relevant fields in Table 2 of the Annex.\n\n4. Upon execution of a SOIF, a strategy linked order identification code shall be indicated using the same identification code for all orders connected to the particular strategy. The strategy linked order identification code shall be specified in accordance with field 44 of Table 2 of the Annex.\n\n5. Orders submitted to a trading platform for crypto-assets allowing for a routing strategy shall be identified by that trading platform for crypto-assets as ‘routed’ as specified in field 31 of Table 2 of the Annex when they are routed to another trading platform for crypto-assets. Orders submitted to a trading platform for crypto-assets allowing for a routing strategy shall retain the same identification code for their lifetime, regardless of whether any remaining quantity is re-posted on the order book.",
+      "text_sha256": "8c3ebaae712f9fb4a9cc68a25e8bd0a11866fde4322f6530be68a4aea75aa5bf",
+      "md_span": {
+        "start": 10622,
+        "end": 12603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nCrypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of the details referred to in field 20 of Table 2 of the Annex in relation to all new orders.",
+      "text_sha256": "9c286c177d057f41cb6fc6e458815b43895b320c59fc9b53e79b49275057733d",
+      "md_span": {
+        "start": 12638,
+        "end": 12845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of the order type for each order received using their own specification as specified in field 21 of Table 2 of the Annex.\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets shall classify each order received either as a limit order or as a stop order as specified in field 22 of Table 2 of the Annex.",
+      "text_sha256": "329adaf495926ad3cab75bc55f52e7196385d012b19005e4e2a2fd377e6c3f79",
+      "md_span": {
+        "start": 12880,
+        "end": 13328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nCrypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of all price-related details referring to the respective orders, as specified in Section I of Table 2 of the Annex.",
+      "text_sha256": "ae7896a30329e89d651474ab5aa7933cf98be08d91d237186c4405349fc644d1",
+      "md_span": {
+        "start": 13363,
+        "end": 13592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nCrypto-asset service providers operating a trading platform for crypto-assets shall maintain records of all order instructions received for each order as specified in Section J of Table 2 of the Annex.",
+      "text_sha256": "547ebf8cdca68a84dc5f82f109b9cb18096306d37a55f87dbef54c5056eb9a98",
+      "md_span": {
+        "start": 13627,
+        "end": 13840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nCrypto-asset service providers operating a trading platform for crypto-assets shall maintain an individual transaction identification code for each transaction resulting from the full or partial execution of an order as specified in field 46 of Table 2 and field 1 of Table 3 of the Annex, as applicable.",
+      "text_sha256": "e991d49ed4f8edf42c531b757c1ff78a3f5fef997938af89b7357d336b3d532d",
+      "md_span": {
+        "start": 13875,
+        "end": 14191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall maintain a record of the trading phases and indicative auction price and volume, as specified in Section K of Table 2 of the Annex.\n\n2. Where competent authorities request details referred to in Section K, it shall be considered that the details referred to in fields 8 and 14 to 17 of Table 2 of the Annex are to be provided based on that request.",
+      "text_sha256": "f0f4d50cc7fa661ee4a970637d958bbfe919dcbd59013d552f3eea8b09caae9b",
+      "md_span": {
+        "start": 14226,
+        "end": 14673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29--5e82a62dc0f5f170feec4f788589e88885143d644510e3a1f6c6f040c42b4646#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "263ca3be4ddab07d2b51f507ccd323276d30476c928f40384b7fea94331cee1c",
+      "md_span": {
+        "start": 14708,
+        "end": 14860
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2018/1642 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2018-07-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1642/versions/2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a/fr.xml",
+    "sha256": "d43671813e4b0391f60b4d78c61aff8794f48e02bcf0fe041a521ede66775d0c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1642"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération la vulnérabilité de l'indice de référence à la manipulation, l'autorité compétente examine au moins:\n\n| a) | si l'indice de référence est basé sur des données de transaction; |\n| --- | --- |\n\n| b) | si les contributeurs sont des entités surveillées; |\n| --- | --- |\n\n| c) | si des mesures renforçant la solidité des données sous-jacentes s'appliquent; |\n| --- | --- |\n\n| d) | si la structure organisationnelle de l'administrateur réduit les incitations à la manipulation; |\n| --- | --- |\n\n| e) | si l'administrateur a un intérêt financier dans des instruments financiers, des contrats financiers ou des fonds d'investissement faisant référence à l'indice de référence; |\n| --- | --- |\n\n| f) | s'il existe des cas avérés de manipulation de l'indice de référence ou d'un autre indice de référence déterminé selon une méthode similaire et fourni par un administrateur de taille et de structure organisationnelle similaires. |\n| --- | --- |",
+      "text_sha256": "a3060a78ee2b85a612ce77003083bc922b3bd56a32bf0ffc4a3ecf7c5feead2d",
+      "md_span": {
+        "start": 713,
+        "end": 1805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération la nature des données sous-jacentes, l'autorité compétente examine au moins:\n\n| a) | dans les cas où les données sous-jacentes sont des données de transaction, si l'administrateur est un acteur du marché ou de la réalité économique que l'indice de référence est censé mesurer; |\n| --- | --- |\n\n| b) | dans les cas où les données sous-jacentes sont fournies par des contributeurs, si les contributeurs ont un intérêt financier dans des instruments financiers ou des contrats financiers faisant référence à l'indice de référence ou pourraient tirer profit de la performance d'un fonds d'investissement qui est mesurée par l'indice de référence; |\n| --- | --- |\n\n| c) | dans les cas où les données sous-jacentes proviennent de bourses ou de systèmes de négociation situés dans un pays tiers, si un cadre de réglementation et de surveillance préservant l'intégrité des données sous-jacentes s'applique à ces bourses ou systèmes de négociation; |\n| --- | --- |\n\n| d) | dans les cas où les données sous-jacentes sont constituées d'offres de prix, si ces offres sont des offres fermes ou indicatives et si elles font l'objet de mécanismes de contrôle adéquats. |\n| --- | --- |",
+      "text_sha256": "12d9c83cf7ea1a77705127de01c63210118234b02829dd5a9b8a8f74e9d04087",
+      "md_span": {
+        "start": 1838,
+        "end": 3157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération le niveau des conflits d'intérêts, l'autorité compétente examine au moins:\n\n| a) | si l'administrateur a un intérêt financier dans des instruments financiers ou des contrats financiers faisant référence à l'indice de référence ou pourrait tirer profit de la performance d'un fonds d'investissement qui est mesurée par l'indice de référence; |\n| --- | --- |\n\n| b) | dans les cas où l'indice de référence est basé sur des données sous-jacentes fournies par des contributeurs, si la relation de l'administrateur avec ces contributeurs est soumise à des mécanismes de contrôle adéquats; |\n| --- | --- |\n\n| c) | si l'administrateur a mis en place des mesures de contrôle ou autres qui atténuent effectivement les conflits d'intérêts potentiels. |\n| --- | --- |",
+      "text_sha256": "743b09226576bf8744bb2c5ab58492266b2003501ef5e3149bea9ffe34098158",
+      "md_span": {
+        "start": 3190,
+        "end": 4095
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération le degré d'appréciation discrétionnaire de l'administrateur, l'autorité compétente examine au moins:\n\n| a) | dans les cas où la méthode d'établissement de l'indice de référence permet à l'administrateur de porter un jugement d'expert, si les jugements ou appréciations discrétionnaires sont exercés de manière suffisamment transparente; |\n| --- | --- |\n\n| b) | dans les cas où l'indice de référence est basé sur des estimations, l'efficacité des mesures de contrôle interne que l'administrateur a mises en place. |\n| --- | --- |",
+      "text_sha256": "f043c22aa53edda7a35357f17a403b632587da4737699611ac342d52685cbc25",
+      "md_span": {
+        "start": 4128,
+        "end": 4806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération l'incidence de l'indice de référence sur les marchés, l'autorité compétente examine au moins:\n\n| a) | dans les cas où l'indice de référence est particulièrement pertinent pour un marché ou des marchés spécifiques, si le manque de fiabilité de l'indice de référence aurait un effet perturbateur sur le fonctionnement de ce marché ou de ces marchés et s'il existe des substituts adéquats à cet indice; |\n| --- | --- |\n\n| b) | dans les cas où l'indice de référence constitue un indice de référence d'importance significative au sens de l'article 24, paragraphe 1, point b), du règlement (UE) 2016/1011, et où cette information est connue de l'autorité compétente, tout rapport quantitatif pertinent entre les instruments financiers, les contrats financiers ou les fonds d'investissement qui font référence à cet indice et la valeur totale de ces instruments respectifs dans un État membre. |\n| --- | --- |",
+      "text_sha256": "1887606279a5096eb2ac6c6b66507ea66d6ea878aa053cfcedae5ea19ae4bbf6",
+      "md_span": {
+        "start": 4839,
+        "end": 5891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération la nature, l'ampleur et la complexité de la fourniture de l'indice de référence, l'autorité compétente examine au moins:\n\n| a) | dans quelle proportion les données sous-jacentes reposent sur des données provenant de contributeurs, si les données sous-jacentes sont des données de transaction et comment cette proportion est prise en compte dans les mécanismes de contrôle que l'administrateur a mis en place; |\n| --- | --- |\n\n| b) | la quantité de données sous-jacentes à traiter et le nombre de sources de données; |\n| --- | --- |\n\n| c) | si l'administrateur dispose de moyens techniques suffisants pour procéder à un traitement continu et solide des données sous-jacentes; |\n| --- | --- |\n\n| d) | si la méthode retenue présente des risques opérationnels lors du traitement des données sous-jacentes; |\n| --- | --- |\n\n| e) | dans quelle mesure l'administrateur dépend de contributeurs pour la détermination de l'indice de référence. |\n| --- | --- |",
+      "text_sha256": "5944c314b71d17549ae50be158e30d60babff5132254fcc7062f6d9c09fe2f7a",
+      "md_span": {
+        "start": 5924,
+        "end": 7023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération l'importance de l'indice de référence pour la stabilité financière, l'autorité compétente évalue au moins le rapport entre la valeur totale des instruments financiers, des contrats financiers et des fonds d'investissement qui font référence à l'indice de référence et la valeur du total des actifs du secteur financier et du secteur bancaire dans un État membre, si elle a connaissance de ces informations.",
+      "text_sha256": "c104364a89c5ff9ba823e1e6a7da4b8c159b40b539bbb30dd31bada354130d2e",
+      "md_span": {
+        "start": 7056,
+        "end": 7612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération la valeur des instruments financiers, des contrats financiers ou des fonds d'investissement qui font référence à l'indice de référence, l'autorité compétente examine au moins:\n\n| a) | la valeur totale de tous les instruments financiers, contrats financiers et fonds d'investissement qui font référence à l'indice de référence, en se basant sur toutes les fourchettes de maturités ou de durées de l'indice de référence, lorsqu'elle en a connaissance; |\n| --- | --- |\n\n| b) | si l'utilisation de l'indice de référence est concentrée dans certaines catégories d'instruments financiers, de contrats financiers ou de fonds d'investissement; |\n| --- | --- |\n\n| c) | dans les cas où l'indice de référence est un indice de référence d'importance significative au sens de l'article 24, paragraphe 1, point a), du règlement (UE) 2016/1011, et où l'autorité compétente en a connaissance, le degré de proximité de la valeur totale des instruments financiers, des contrats financiers et des fonds d'investissement qui font référence à l'indice de référence par rapport aux seuils visés à l'article 20, paragraphe 1, points a) et c) i), dudit règlement. |\n| --- | --- |",
+      "text_sha256": "f2c53e04b9feeca81b188adb450d628231a8cdcfaf3401eeb20b4de3f7c59cc6",
+      "md_span": {
+        "start": 7645,
+        "end": 8950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nParmi les autres critères à retenir en vertu de l'article 25, paragraphe 3, du règlement (UE) 2016/1011 lorsqu'elle prend en considération la taille, la forme ou la structure organisationnelles de l'administrateur, l'autorité compétente examine au moins:\n\n| a) | dans les cas où la fourniture d'indices de référence n'est pas l'activité principale de l'administrateur, si la fourniture de l'indice de référence est séparée sur le plan organisationnel ou si d'autres moyens appropriés sont en place pour éviter les conflits d'intérêts; |\n| --- | --- |\n\n| b) | dans les cas où l'administrateur fait partie d'un groupe et où une ou plusieurs entités du groupe sont des utilisateurs effectifs ou potentiels de l'indice de référence, si l'administrateur agit de manière indépendante et s'il dispose d'autres moyens appropriés pour éviter les conflits d'intérêts. |\n| --- | --- |",
+      "text_sha256": "1ece4a34f538910ae6e32a7eaf86092312131545bbb8abbe104121511da6e599",
+      "md_span": {
+        "start": 8983,
+        "end": 9867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32018r1642:2018-07-13--3c5b3d2bd2f052d25738af279bf3ac75ef43ce3db2690d048d8cf91c73a9c72a#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLe présent règlement entre en vigueur le vingtième jour suivant la date de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 25 janvier 2019.",
+      "text_sha256": "436043ed86e2081351abbc630a951b19a11cefe9a785eb89a17c381d497a0783",
+      "md_span": {
+        "start": 9902,
+        "end": 10090
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

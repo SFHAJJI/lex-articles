@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1299:2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/1299 of 24\u00A0March 2022 supplementing Directive 2014/65/EU",
+  "valid_from": "2022-03-24",
+  "valid_to": "2022-07-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1299/versions/2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2/en.xml",
+    "sha256": "a40e6d2496350f4bd77985790d185b14b2c16d59f91b6ff1e5ea3ff65eb82a56",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1299"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nTrading venues shall have arrangements in place for the ongoing monitoring of positions held by end position holders and parent undertakings in each commodity derivative traded on their trading venues.",
+      "text_sha256": "738c72650bc3610c745e9f94db0b2efc16f9b37b93fb9bb238773af52fc79496",
+      "md_span": {
+        "start": 715,
+        "end": 927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. As part of their position management controls, trading venues offering trading in commodity derivatives shall set accountability levels in the spot month as defined in Article 2(3) of Commission Delegated Regulation 2022/1301 (4) and in the other months as defined in Article 2(4) of Delegated Regulation 2022/1301 for commodity derivatives made available for trading that are physically settled or can be physically settled.\n\n2. For the purpose of paragraph 1, an accountability level is the level of the net position held in a commodity derivative by an end position holder or parent undertaking that, when exceeded, may trigger a request for additional information by the trading venue in accordance with paragraph 3.\n\n3. When a net position held by an end position holder or a parent undertaking in a commodity derivative referred to in paragraph 1 exceeds the accountability level set for the spot month or for the other months in accordance with paragraph 1 of this Article, the trading venue shall, where deemed appropriate obtain information as to the nature and purpose of the position held in that commodity derivative.\n\nWhen assessing whether it is appropriate to obtain information, the trading venue shall take into account the frequency by which the accountability levels are exceeded by the same end position holder or parent undertaking, the magnitude of the excess and other relevant information already available.",
+      "text_sha256": "b5063060c46ec37c55623a3ea091e633cde287b1286670af70be53cd5dedefc2",
+      "md_span": {
+        "start": 960,
+        "end": 2405
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2022197EN.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Trading venues shall, on an annual basis, evaluate the adequacy and effectiveness of the accountability levels established pursuant to Article 2(1).\n\n2. A trading venue shall communicate to its competent authority the methodology used for setting the accountability levels referred to in Article 2(1).\n\n3. A trading venue shall inform its competent authority on an annual basis of the number of instances where accountability levels have been exceeded, of any requests for additional information made in accordance with Article 2(3) and of any actions taken in accordance with Article 2(4).",
+      "text_sha256": "d081611c2d9f223e7c401893d56aefc52f36ce82da912a16441101846325d9e7",
+      "md_span": {
+        "start": 2438,
+        "end": 3042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24--0803092427e7ad0315b0f6a5e9f3a9662c1fa1da7741c59fbee8d2792e186df2#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 3075,
+        "end": 3226
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,1779 @@
+---
+lex_id: 'eu-eurlex:32010r1031:2010-11-12--719517fdcaa416f256c50bb3dcd6737862646ffa3b8167870896825ad4aeffaa'
+title: 'Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC'
+valid_from: '2010-11-12'
+valid_to: '2011-11-24'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1031'
+source_sha256: '5e38e8d45797c470dbd6bb62348551d39677db6c9462f5b60e01b892f52f07f7'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+This Regulation provides for rules on the timing, administration and other aspects of the auctioning of allowances under Directive 2003/87/EC.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+This Regulation shall apply to the allocation through auctions of allowances under Chapter II (aviation) of Directive 2003/87/EC and to the allocation through auctions of allowances under Chapter III (stationary installations) of that Directive valid for surrendering in trading periods from 1 January 2013.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+| 1. | ‘futures’ means allowances auctioned as financial instruments, pursuant to Article 38(3) of Commission Regulation (EC) No 1287/2006 (10), for delivery at an agreed future date at the auction clearing price determined pursuant to Article 7(2) of this Regulation and upon which variation margin calls to reflect price movements are payable in cash; |
+| --- | --- |
+
+| 2. | ‘forwards’ means allowances auctioned as financial instruments, pursuant to Article 38(3) of Regulation (EC) No 1287/2006, for delivery at an agreed forward date at the auction clearing price determined pursuant to Article 7(2) of this Regulation and upon which variation margin calls to reflect price movements may be secured, either through non-cash collateral or by means of an agreed government guarantee, at the option of the central counterparty; |
+| --- | --- |
+
+| 3. | ‘two-day spot’ means allowances auctioned for delivery at an agreed date no later than the second trading day from the day of the auction, pursuant to Article 38(2)(a) of Regulation (EC) No 1287/2006; |
+| --- | --- |
+
+| 4. | ‘five-day futures’ means allowances auctioned as financial instruments, pursuant to Article 38(3) of Regulation (EC) No 1287/2006, for delivery at an agreed date no later than the fifth trading day from the day of the auction; |
+| --- | --- |
+
+| 5. | ‘bid’ means an offer in an auction to acquire a given volume of allowances at a specified price; |
+| --- | --- |
+
+| 6. | ‘bidding window’ means the time period during which bids may be submitted; |
+| --- | --- |
+
+| 7. | ‘trading day’ means any day during which an auction platform and the clearing system or settlement system connected to it are open for trading; |
+| --- | --- |
+
+| 8. | ‘investment firm’ means the same as in point (1) of Article 4(1) of Directive 2004/39/EC; |
+| --- | --- |
+
+| 9. | ‘credit institution’ means the same as in Article 4(1) of Directive 2006/48/EC of the European Parliament and of the Council (11); |
+| --- | --- |
+
+| 10. | ‘financial instrument’ means the same as in point (17) of Article 4(1) of Directive 2004/39/EC unless otherwise stated in this Regulation; |
+| --- | --- |
+
+| 11. | ‘secondary market’ means the market in which persons buy or sell allowances either before or after they are allocated either free of charge or through auctioning; |
+| --- | --- |
+
+| 12. | ‘parent undertaking’ means the same as in Articles 1 and 2 of Council Directive 83/349/EEC (12); |
+| --- | --- |
+
+| 13. | ‘subsidiary undertaking’ means the same as in Articles 1 and 2 of Directive 83/349/EEC; |
+| --- | --- |
+
+| 14. | ‘affiliate undertaking’ means an undertaking linked to a parent or subsidiary undertaking by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC; |
+| --- | --- |
+
+| 15. | ‘control’ means the same as in Article 3(2) and (3) of Council Regulation No 139/2004 (13) as applied in the Commission’s Consolidated Jurisdictional Notice (14). Recital (22) of that Regulation and paragraphs 52 and 53 of that Notice shall apply for determining the notion of control for state-owned undertakings; |
+| --- | --- |
+
+| 16. | ‘auction process’ means the process encompassing the setting of the auction calendar, the procedures for admission to bid, the procedures for submission of bids, the conduct of the auction, the calculation and announcement of the auction results, the arrangements for payment of the price due, delivery of the allowances and management of the collateral needed to cover any transaction risks, as well as the surveillance and monitoring of the proper conduct of the auctions by an auction platform; |
+| --- | --- |
+
+| 17. | ‘money laundering’ means the same as in Article 1(2) of Directive 2005/60/EC having regard to Article 1(3) and (5) of that Directive; |
+| --- | --- |
+
+| 18. | ‘terrorist financing’ means the same as in Article 1(4) of Directive 2005/60/EC having regard to Article 1(5) of that Directive; |
+| --- | --- |
+
+| 19. | ‘criminal activity’ means the same as in Article 3(4) of Directive 2005/60/EC; |
+| --- | --- |
+
+| 20. | ‘auctioneer’ means any public or private entity appointed by a Member State, to auction allowances on its behalf; |
+| --- | --- |
+
+| 21. | ‘nominated holding account’ means one or more type of holding account provided for in the applicable Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC for the purposes of participating in or conducting the auction process including the holding of allowances in escrow, pending their delivery under this Regulation; |
+| --- | --- |
+
+| 22. | ‘nominated bank account’ means a bank account designated by an auctioneer, a bidder or its successor in title for the receipt of payments due under this Regulation; |
+| --- | --- |
+
+| 23. | ‘customer due diligence measure’ means the same as in Article 8(1) of Directive 2005/60/EC having regard to Article 8(2) of that Directive; |
+| --- | --- |
+
+| 24. | ‘beneficial owner’ means the same as in Article 3(6) of Directive 2005/60/EC; |
+| --- | --- |
+
+| 25. | ‘duly certified copy’ means an authentic copy of an original document that is certified as being a true copy of the original by a qualified lawyer, accountant, notary public or similar professional who is recognised under the national law of the Member State concerned to attest officially as to whether a copy is in fact a true copy of its original; |
+| --- | --- |
+
+| 26. | ‘politically exposed persons’ means the same as in Article 3(8) of Directive 2005/60/EC; |
+| --- | --- |
+
+| 27. | ‘market abuse’ means either insider dealing as defined in point (28) of this Article or prohibited in Article 38 or market manipulation as defined in point (30) of this Article or in Article 37(b), or both; |
+| --- | --- |
+
+| 28. | ‘insider dealing’ means the use of inside information as prohibited pursuant to Articles 2, 3 and 4 of Directive 2003/6/EC in relation to a financial instrument within the meaning of Article 1(3) of Directive 2003/6/EC referred to in Article 9 of that Directive unless otherwise stated in this Regulation; |
+| --- | --- |
+
+| 29. | ‘inside information’ means the same as in Article 1(1) of Directive 2003/6/EC in relation to a financial instrument within the meaning of Article 1(3) of Directive 2003/6/EC referred to in Article 9 of that Directive unless otherwise stated in this Regulation; |
+| --- | --- |
+
+| 30. | ‘market manipulation’ means the same as in Article 1(2) of Directive 2003/6/EC in relation to a financial instrument within the meaning of Article 1(3) of Directive 2003/6/EC referred to in Article 9 of that Directive unless otherwise stated in this Regulation; |
+| --- | --- |
+
+| 31. | ‘clearing system’ means one or more infrastructure connected to the auction platform that can provide clearing, margining, netting, management of collateral, settlement and delivery, and any other services, carried out by a central counterparty, accessed either directly or indirectly through members of the central counterparty who act as intermediaries between their clients and the central counterparty; |
+| --- | --- |
+
+| 32. | ‘clearing’ means all processes preceding the opening of the bidding window, during the bidding window and following the closing of the bidding window until settlement, involving the management of any risks arising during that interval, including margining, netting, or novation, or any other services, carried out possibly by a clearing or settlement system; |
+| --- | --- |
+
+| 33. | ‘margining’ means the process by which collateral is to be pledged by an auctioneer or a bidder, or one or more intermediaries acting on their behalf, to cover a given financial position, encompassing the entire process of measuring, calculating and administering the collateral put up to cover such financial positions, intended to ensure that all payment commitments of a bidder and all delivery commitments of an auctioneer or one or more intermediaries acting on their behalf can be met within a very short period of time; |
+| --- | --- |
+
+| 34. | ‘settlement’ means payment by a successful bidder, or its successor in title, or a central counterparty, or a settlement agent of the sum due for allowances to be delivered to that bidder or its successor in title, or a central counterparty, or a settlement agent, and delivery of the allowances to the successful bidder or its successor in title, or a central counterparty or a settlement agent; |
+| --- | --- |
+
+| 35. | ‘central counterparty’ means an entity which interposes either directly between an auctioneer and a bidder or its successor in title, or between intermediaries representing them, that acts as the exclusive counterparty to each of them guaranteeing the payment of the auction proceeds to the auctioneer or an intermediary representing it or the delivery of the auctioned allowances to the bidder or an intermediary representing it, subject to Article 48; |
+| --- | --- |
+
+| 36. | ‘settlement system’ means any infrastructure whether or not connected to the auction platform that can provide settlement services, which may include clearing, netting, management of collateral, or any other services, which ultimately enable the delivery of allowances on behalf of an auctioneer to a successful bidder or its successor in title, and the payment of the sum due by a successful bidder or its successor in title to an auctioneer, carried out through either of the following:(a)the banking system and the Union registry;(b)one or more settlement agents acting on behalf of an auctioneer and a bidder or its successor in title, accessing the settlement agent either directly or indirectly through members of the settlement agent who act as intermediaries between their clients and the settlement agent; |
+| --- | --- |
+| (a) | the banking system and the Union registry; |
+| (b) | one or more settlement agents acting on behalf of an auctioneer and a bidder or its successor in title, accessing the settlement agent either directly or indirectly through members of the settlement agent who act as intermediaries between their clients and the settlement agent; |
+
+| 37. | ‘settlement agent’ means an entity acting as an agent providing accounts to the auction platform, through which accounts instructions for the transfer of the auctioned allowances given by the auctioneer or an intermediary representing it and the payment of the auction clearing price by a successful bidder, its successor in title, or an intermediary representing them are safely executed either simultaneously or nearly simultaneously in a guaranteed manner; |
+| --- | --- |
+
+| 38. | ‘collateral’ means the forms of collateral security referred to in Article 2(m) of Directive 98/26/EC of the European Parliament and of the Council (15), including any allowances accepted as security by the clearing system or settlement system; |
+| --- | --- |
+
+| 39. | ‘regulated market’ means the same as in point (14) of Article 4(1) of Directive 2004/39/EC; |
+| --- | --- |
+
+| 40. | ‘SMEs’ means operators or aircraft operators that are small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC (16); |
+| --- | --- |
+
+| 41. | ‘small emitters’ means operators or aircraft operators that emitted 25 000 tonnes of carbon dioxide equivalent emissions or less on average in the three calendar years preceding the year in which they participate in an auction, as determined by their verified emissions; |
+| --- | --- |
+
+| 42. | ‘market operator’ means the same as in point (13) of Article 4(1) of Directive 2004/39/EC; |
+| --- | --- |
+
+| 43. | ‘establishment’ means any of the following:(a)place of residence or permanent address within the Union for the purposes of the third subparagraph of Article 6(3);(b)the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC taking into account the requirements of Article 5(4) of that Directive for the purposes of Article 18(2) of this Regulation;(c)the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC taking into account the requirements of Article 5(4) of that Directive for the purposes of Article 18(3) of this Regulation, in the case of persons referred to in point (b) of Article 18(1) of this Regulation;(d)the same as in point (7) of Article 4 of Directive 2006/48/EC for the purposes of Article 18(3) of this Regulation, in the case of persons referred to in point (c) of Article 18(1) of this Regulation;(e)the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC for the purposes of Article 19(2) of this Regulation in the case of business grouping referred to in point (d) of Article 18(1) of this Regulation;(f)the same as in point 20(b) of Article 4(1) of Directive 2004/39/EC for the purposes of Article 35(4), (5) and (6) and Article 42(1) of this Regulation. |
+| --- | --- |
+| (a) | place of residence or permanent address within the Union for the purposes of the third subparagraph of Article 6(3); |
+| (b) | the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC taking into account the requirements of Article 5(4) of that Directive for the purposes of Article 18(2) of this Regulation; |
+| (c) | the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC taking into account the requirements of Article 5(4) of that Directive for the purposes of Article 18(3) of this Regulation, in the case of persons referred to in point (b) of Article 18(1) of this Regulation; |
+| (d) | the same as in point (7) of Article 4 of Directive 2006/48/EC for the purposes of Article 18(3) of this Regulation, in the case of persons referred to in point (c) of Article 18(1) of this Regulation; |
+| (e) | the same as in point 20(a) of Article 4(1) of Directive 2004/39/EC for the purposes of Article 19(2) of this Regulation in the case of business grouping referred to in point (d) of Article 18(1) of this Regulation; |
+| (f) | the same as in point 20(b) of Article 4(1) of Directive 2004/39/EC for the purposes of Article 35(4), (5) and (6) and Article 42(1) of this Regulation. |
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. Allowances shall be offered for sale on an auction platform by means of standardised electronic contracts traded on that auction platform (‘the auctioned product’). The auctioned products need not be traded on the same auction platform where the allowances are delivered within two trading days after the auction.
+
+2. Until implementation of the legal measures and technical means necessary to deliver the allowances, Member States shall auction allowances in the form of either futures or forwards.
+
+Futures or forwards shall be auctioned in accordance with Article 11(1), Article 32 and Annex I.
+
+When auctioning futures or forwards, the delivery of the allowances may be deferred to a date no later than 31 December 2013.
+
+3. No later than three months from the implementation of the legal measures and technical means necessary to deliver the allowances, Member States shall auction allowances in the form of either two-day spot or five-day futures.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+Auctions shall be carried out through an auction format whereby bidders shall submit their bids during one given bidding window without seeing bids submitted by other bidders. Each successful bidder shall pay the same auction clearing price as referred to in Article 7 for each allowance regardless of the price bid.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. The minimum volume bid for shall be one lot.
+
+One lot of two-day spot or five-day futures shall be 500 allowances.
+
+One lot of futures or forwards shall be 1 000 allowances.
+
+2. Each bid shall state the following:
+
+| (a) | the identity of the bidder and whether the bidder is bidding on its own account or on behalf of a client; |
+| --- | --- |
+
+| (b) | where the bidder is bidding on behalf of a client, the identity of the client; |
+| --- | --- |
+
+| (c) | the volume bid as a number of allowances in integral multiples of lots of 500 or 1 000 allowances; |
+| --- | --- |
+
+| (d) | the price bid in euros for each allowance specified to two decimal points. |
+| --- | --- |
+
+3. Each bid may only be submitted, modified or withdrawn during a given bidding window.
+
+Bids submitted may be modified or withdrawn by a given deadline before the close of the bidding window. Such deadline shall be set by the auction platform concerned and published on that auction platform’s website at least five trading days prior to the opening of the bidding window.
+
+Only a natural person established in the Union appointed pursuant to Article 19(2)(d) and authorised to bind a bidder for all purposes relating to the auctions including the submission of a bid (the ‘bidder’s representative’) is entitled to submit, modify or withdraw a bid on behalf of a bidder.
+
+Once submitted, each bid shall be binding, unless it is withdrawn or modified pursuant to this paragraph or withdrawn pursuant to paragraph 4.
+
+4. Where the relevant auction platform is satisfied that a genuine mistake has been made in the submission of a bid, it may, upon request of the bidder’s representative, treat the mistakenly submitted bid as withdrawn after the close of the bidding window, but before the auction clearing price has been determined.
+
+5. The reception, transmission and submission of a bid by an investment firm or credit institution on any auction platform shall be deemed to constitute an investment service within the meaning of point 2 of Article 4(1) of Directive 2004/39/EC where the auctioned product is a financial instrument.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. The auction clearing price shall be determined upon closure of the bidding window.
+
+2. An auction platform shall sort bids submitted to it in the order of the price bid. Where the price of several bids is the same, these bids shall be sorted through a random selection according to an algorithm determined by the auction platform before the auction.
+
+The volumes bid shall be added up, starting with the highest bid price. The price of the bid at which the sum of the volumes bid matches or exceeds the volume of allowances auctioned shall be the auction clearing price.
+
+3. All bids making up the sum of the volumes bid determined pursuant to paragraph 2 shall be allocated at the auction clearing price.
+
+4. Where the total volume of successful bids determined pursuant to paragraph 2 exceeds the volume of auctioned allowances, the remaining volume of the auctioned allowances shall be allocated to the bidder that has submitted the last bid making up the sum of the volumes bid.
+
+5. Where the total volume of bids sorted pursuant to paragraph 2 falls short of the volume of auctioned allowances, the auction platform shall cancel the auction.
+
+6. Where the auction clearing price is significantly under the price on the secondary market prevailing during and immediately before the bidding window when taking into account the short term volatility of the price of allowances over a defined period preceding the auction, the auction platform shall cancel the auction.
+
+7. Before an auction is started, the auction platform shall determine the methodology for the application of paragraph 6, after consulting the auction monitor and obtaining its opinion thereon and notifying the competent national authorities referred to in Article 56. The auction platform concerned shall take the utmost account of the auction monitor’s opinion.
+
+In between two bidding windows on the same auction platform, the auction platform concerned may modify the methodology after having consulted the auction monitor and notified the competent national authorities referred to in Article 56.
+
+8. Where an auction is cancelled pursuant to paragraphs 5 or 6, the auctioned volume shall be distributed evenly over the next auctions scheduled on the same auction platform.
+
+In case of allowances covered by Chapter III of Directive 2003/87/EC the volume to be auctioned shall be distributed evenly over the next four scheduled auctions.
+
+In case of allowances covered by Chapter II of Directive 2003/87/EC the volume to be auctioned shall be distributed evenly over the next two scheduled auctions.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. An auction platform shall conduct auctions separately through its own regularly recurring bidding window. The bidding window shall be opened and closed on the same trading day. The bidding window shall be kept open for no less than two hours. The bidding windows of any two or more auction platforms may not overlap and there shall be at least a two-hour delay between two consecutive bidding windows.
+
+2. The auction platform shall determine the dates and times of the auctions taking account of public holidays that affect international financial markets and any other relevant events or circumstances that, in view of the auction platform, might affect the proper conduct of the auctions necessitating changes. No auctions shall be held in the two weeks over Christmas and New Year of each year.
+
+3. In exceptional circumstances, any auction platform may, after consulting the auction monitor and obtaining its opinion thereon, change the times of any bidding window, by giving notice to all persons likely to be affected. The auction platform concerned shall take the utmost account of the auction monitor’s opinion.
+
+4. As from the sixth auction or earlier, the auction platform appointed pursuant to Article 26(1) or (2) shall conduct auctions of allowances covered by Chapter III of Directive 2003/87/EC on a weekly basis at least and auctions of allowances covered by Chapter II of Directive 2003/87/EC shall be conducted on a two-monthly basis at least.
+
+No other auction platform shall conduct an auction on any of a maximum of two days a week during which an auction platform appointed pursuant to Article 26(1) or (2) conducts an auction. Where the auction platform appointed pursuant to Article 26(1) or (2) conducts auctions on more than two days a week, it shall determine and publish on which two days no other auctions may take place. It shall do so no later than when it makes the determination and publication referred to in Article 11(1).
+
+5. As from the sixth auction or earlier, the volume of allowances to be auctioned on the auction platform appointed pursuant to Article 26(1) or (2) shall be distributed evenly over the auctions held in a given year, except that volumes auctioned in auctions held in August of each year shall be half of the volume auctioned in auctions held in other months of the year.
+
+6. Additional provisions on the timing and frequency of the auctions conducted by any auction platform other than the auction platforms appointed pursuant to Article 26(1) and (2) are set out in Article 32.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+Without prejudice to the application of the rules referred in Article 58 where appropriate, an auction platform may cancel an auction where the proper conduct of that auction is disrupted or is likely to be disrupted, due to any circumstance affecting the security or reliability of the information technology system needed to apply for admission to bid, to access or to execute an auction.
+
+In case of allowances covered by Chapter III of Directive 2003/87/EC the volume to be auctioned shall be distributed evenly over the next four scheduled auctions.
+
+In case of allowances covered by Chapter II of Directive 2003/87/EC the volume to be auctioned shall be distributed evenly over the next two scheduled auctions.
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. The volume of any allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in 2011 or 2012 and the auctioned products by means of which the allowances are to be auctioned shall be set out in Annex I to this Regulation.
+
+2. The volume of allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in 2013 and 2014 shall be the quantity of allowances determined pursuant to Articles 9 and 9a of that Directive for the calendar year concerned, less the allocation free of charge provided for in Articles 10a(7) and 11(2) of that Directive, less half of the total volume of any allowances auctioned in 2011 and 2012.
+
+The volume of allowances covered by Chapter III of Directive 2003/87/EC to be auctioned each calendar year as from 2015 onwards shall be the quantity of allowances determined pursuant to Articles 9 and 9a of that Directive for the calendar year concerned, less the allocation free of charge provided for in Articles 10a(7) and 11(2) of that Directive.
+
+Any quantity to be auctioned pursuant to Article 24 of Directive 2003/87/EC shall be added to the volume of allowances to be auctioned in a given calendar year, determined pursuant to the first or second subparagraphs of this paragraph.
+
+The volume of allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in the final year of each trading period shall take account of any cessation of operations of an installation pursuant to Article 10a(19) of that Directive, any adaptation of the level of free allocation pursuant to Article 10a(20) of that Directive and of allowances remaining in the reserve for new entrants provided for in Article 10a(7) of that Directive.
+
+3. The volume of allowances covered by Chapter III of Directive 2003/87/EC to be auctioned each calendar year as from 2013 shall be based on the Commission’s determination and publication pursuant to Article 10(1) of that Directive of the estimated amount of allowances to be auctioned or on the most recent amendment of the Commission’s original estimate as published by 31 January of the preceding year.
+
+Any subsequent change to the volume of allowances to be auctioned in a given calendar year shall be accounted for in the volume of allowances to be auctioned in the subsequent calendar year.
+
+4. Without prejudice to Article 10a(7) of Directive 2003/87/EC, for any given calendar year each Member State’s share of allowances to be auctioned covered by Chapter III of that Directive shall be the share determined pursuant to Article 10(2) of the same Directive, less any transitional free allocation made by that Member State pursuant to Article 10c of Directive 2003/87/EC in that calendar year, plus any allowances to be auctioned by that Member State in the same calendar year pursuant to Article 24 of that Directive.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. The auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall determine and publish the bidding windows, individual volumes, auction dates as well as the auctioned product, payment and delivery dates of the allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in individual auctions each calendar year, by 28 February of the previous year, or as soon as practicable thereafter, having previously consulted the Commission and obtained its opinion thereon. The auction platforms concerned shall take the utmost account of the Commission’s opinion.
+
+2. The auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall base their determinations and publications under paragraph 1 of this Article on the Commission’s determination and publication of the estimated amount of allowances to be auctioned or on the most recent amendment of the Commission’s original estimate referred to in Article 10(1) of Directive 2003/87/EC.
+
+3. The bidding windows, individual volumes and auction dates of the allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in individual auctions for the final year of each trading period, may be adjusted by the auction platform concerned to take account of any cessation of operations of an installation pursuant to Article 10a(19) of that Directive, any adaptation of the level of free allocation pursuant to Article 10a(20) of that Directive or allowances remaining in the reserve for new entrants provided for in Article 10a(7) of that Directive.
+
+4. The calendar for individual auctions of allowances covered by Chapter III of Directive 2003/87/EC conducted by an auction platform other than the auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall be determined and published pursuant to Article 32 of this Regulation.
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. The volume of allowances covered by Chapter II of Directive 2003/87/EC to be auctioned in 2012 shall be the volume calculated and decided by the Commission pursuant to Article 3d(1) of that Directive.
+
+The volume of allowances covered by Chapter II of Directive 2003/87/EC to be auctioned each calendar year as from 2013 onwards shall be the volume calculated and decided by the Commission pursuant to Article 3d(2) of that Directive, divided equally over the number of years making up the trading period in question.
+
+However, the volume of allowances to be auctioned in the final year of each trading period shall take account of allowances remaining in the special reserve referred to in Article 3f of Directive 2003/87/EC.
+
+2. For each calendar year in a given trading period, each Member State’s share of allowances to be auctioned covered by Chapter II of Directive 2003/87/EC shall be the share determined for that trading period pursuant to Article 3d(3) of that Directive divided by the number of years making up the trading period in question.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+1. The auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall determine and publish the bidding windows, individual volumes and auction dates of the allowances covered by Chapter II of Directive 2003/87/EC to be auctioned in individual auctions for 2012, by 30 September 2011, or as soon as practicable thereafter, having previously consulted the Commission and obtained its opinion thereon. The auction platforms concerned shall take the utmost account of the Commission’s opinion.
+
+2. As from 2012, the auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall determine and publish the bidding windows, individual volumes, auction dates as well as the auctioned product, payment and delivery dates of the allowances covered by Chapter II of Directive 2003/87/EC to be auctioned in individual auctions for each calendar year by 28 February of the previous year, or as soon as practicable thereafter, having previously consulted the Commission and obtained its opinion thereon. The auction platforms concerned shall take the utmost account of the Commission’s opinion.
+
+The bidding windows, individual volumes, auction dates as well as the auctioned product, payment and delivery dates of the allowances covered by Chapter II of Directive 2003/87/EC to be auctioned in individual auctions for the final year of each trading period, may be adjusted by the auction platform concerned to take account of allowances remaining in the special reserve referred to in Article 3f of that Directive.
+
+3. The auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall base their determinations and publications under paragraphs 1 and 2 on the Commission’s decision adopted pursuant to Article 3e(3) of Directive 2003/87/EC.
+
+4. The provisions on the calendar for individual auctions of allowances covered by Chapter II of Directive 2003/87/EC conducted by an auction platform other than the auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation shall be determined and published pursuant to Article 32 of this Regulation.
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+1. The determinations and publications of the annual volumes to be auctioned and of the bidding windows, volumes, dates, auctioned product, payment and delivery dates in connection with individual auctions pursuant to Articles 10 to 13 and Article 32(4) shall not be modified except for adjustments due to any of the following:
+
+| (a) | the cancellation of an auction pursuant to Article 7(5) and (6), Article 9 and Article 32(5); |
+| --- | --- |
+
+| (b) | any suspension of an auction platform other than the auction platforms appointed pursuant to Article 26(1) or (2) of this Regulation provided for in the Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC; |
+| --- | --- |
+
+| (c) | any decision by a Member State made pursuant to Article 30(8); |
+| --- | --- |
+
+| (d) | any settlement failure referred to in Article 45(5); |
+| --- | --- |
+
+| (e) | any allowances remaining in the special reserve referred to in Article 3f of Directive 2003/87/EC; |
+| --- | --- |
+
+| (f) | the cessation of operations of an installation pursuant to Article 10a(19) of Directive 2003/87/EC, any adaptation of the level of free allocation pursuant to Article 10a(20) of that Directive or allowances remaining in the reserve for new entrants provided for in Article 10a(7) of that Directive; |
+| --- | --- |
+
+| (g) | any unilateral inclusion of additional activities and gases pursuant to Article 24 of Directive 2003/87/EC; |
+| --- | --- |
+
+| (h) | any measures adopted pursuant to Article 29a of Directive 2003/87/EC; |
+| --- | --- |
+
+| (i) | the entry into force of amendments to this Regulation or to Directive 2003/87/EC. |
+| --- | --- |
+
+2. Where the manner in which a modification is to be implemented is not provided for in this Regulation, the auction platform concerned shall not implement that modification until it has previously consulted the Commission and obtained its opinion thereon. The auction platform concerned shall take the utmost account of the Commission’s opinion.
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+Without prejudice to Article 28(3), only a person who is eligible to apply for admission to bid pursuant to Article 18 and is admitted to bid pursuant to Articles 19 and 20 may submit bids directly in an auction.
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+1. An auction platform shall provide for the means to access its auctions on a non-discriminatory basis.
+
+2. An auction platform auctioning two-day spot or five-day futures shall ensure that its auctions can be accessed remotely by means of an electronic interface accessible securely and reliably through the internet.
+
+In addition, an auction platform auctioning two-day spot or five-day futures shall offer bidders the option of accessing its auctions through dedicated connections to the electronic interface.
+
+3. An auction platform auctioning two-day spot or five-day futures may offer one or more alternative means of accessing its auctions, should the main means of access be inaccessible for whatever reason, provided that such alternative means of access are secure and reliable and their use does not lead to any discrimination between bidders.
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+An auction platform auctioning two-day spot or five-day futures shall offer a practical web-based training module on the auction process it is conducting, including guidance on how to complete and submit any forms and a simulation of how to bid in an auction. It shall also make available a helpline service accessible by telephone, facsimile and electronic mail at least during the working hours of each trading day.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+1. The following persons shall be eligible to apply for admission to bid directly in auctions:
+
+| (a) | an operator or an aircraft operator having an operator holding account, bidding on its own account, including any parent undertaking, subsidiary undertaking or affiliate undertaking forming part of the same group of undertakings as the operator or the aircraft operator; |
+| --- | --- |
+
+| (b) | investment firms authorised under Directive 2004/39/EC bidding on their own account or on behalf of their clients; |
+| --- | --- |
+
+| (c) | credit institutions authorised under Directive 2006/48/EC bidding on their own account or on behalf of their clients; |
+| --- | --- |
+
+| (d) | business groupings of persons listed in point (a) bidding on their own account and acting as an agent on behalf of their members; |
+| --- | --- |
+
+| (e) | public bodies or state-owned entities of the Member States that control any of the persons listed in point (a). |
+| --- | --- |
+
+2. Without prejudice to the exemption in Article 2(1)(i) of Directive 2004/39/EC, persons covered by this exemption and authorised pursuant to Article 59 of this Regulation shall be eligible to apply for admission to bid directly in the auctions either on their own account or on behalf of clients of their main business provided that a Member State where they are established has enacted legislation enabling the relevant competent national authority in that Member State to authorise them to bid on their own account or on behalf of clients of their main business.
+
+3. Persons referred to in paragraph 1(b) or (c) shall be eligible to apply for admission to bid directly in the auctions on behalf of their clients when bidding for auctioned products that are not financial instruments provided that a Member State in which they are established has enacted legislation enabling the relevant competent national authority in that Member State to authorise them to bid on their own account or on behalf of their clients.
+
+4. Where the persons referred to in paragraph 1(b) and (c) and paragraph 2 bid on behalf of their clients, they shall ensure that those clients are themselves eligible to apply for admission to bid directly under paragraphs 1 or 2.
+
+Where the clients of the persons referred to in the first subparagraph are themselves bidding on behalf of their own clients, they shall ensure that those clients are also eligible to apply for admission to bid directly under paragraphs 1 or 2. The same shall apply to all further clients down the chain bidding indirectly in the auctions.
+
+5. The following persons shall not be eligible to apply for admission to bid directly in auctions nor may they participate in auctions through one or more persons admitted to bid pursuant to Articles 19 and 20, whether for their own account or on behalf of any other person, where they fulfil their role with respect to the auctions in question:
+
+| (a) | the auctioneer; |
+| --- | --- |
+
+| (b) | the auction platform including any clearing system and any settlement system connected to it; |
+| --- | --- |
+
+| (c) | persons who are in a position to exercise, directly or indirectly, significant influence over the management of the persons under points (a) and (b); |
+| --- | --- |
+
+| (d) | persons working for persons under points (a) and (b). |
+| --- | --- |
+
+6. The auction monitor may not participate in any auction directly or indirectly through one or more persons admitted to bid pursuant to Articles 19 and 20 whether for its own account or on behalf of any other person.
+
+Persons who are in a position to exercise, directly or indirectly, significant influence over the management of the auction monitor may not participate in any auction directly or indirectly, through one or more persons admitted to bid pursuant to Articles 19 and 20, whether for their own account or on behalf of any other person.
+
+Persons working for the auction monitor in connection with the auctions may not participate in any auction directly or indirectly, through one or more persons admitted to bid pursuant to Articles 19 and 20, whether for their own account or on behalf of any other person.
+
+7. The option made available pursuant to Articles 44 to 50 for an auction platform, including any clearing system or settlement system connected to it, to accept payment, make delivery or take collateral, from a successor in title to a successful bidder shall not undermine the application of Articles 17 to 20.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+1. When an auction platform organises a secondary market, members or participants of the secondary market organised by an auction platform auctioning two-day spot or five-day futures that are eligible persons pursuant to Article 18(1) or (2) shall be admitted to bid directly in the auctions conducted by that auction platform without any further admission requirements, provided that all of the following conditions are fulfilled:
+
+| (a) | the requirements for admission of the member or participant to trade allowances through the secondary market organised by the auction platform auctioning two-day spot or five-day futures are no less stringent than those listed under paragraph 2 of this Article; |
+| --- | --- |
+
+| (b) | the auction platform auctioning two-day spot or five-day futures receives any additional information necessary to verify the fulfilment of any requirements referred to in paragraph 2 of this Article that have not been previously verified. |
+| --- | --- |
+
+2. Persons, who are not members or participants of the secondary market organised by an auction platform auctioning two-day spot or five-day futures, and that are eligible persons pursuant to Article 18(1) or (2) shall be admitted to bid directly in the auctions conducted by that auction platform provided that they:
+
+| (a) | are established in the Union, an operator or an aircraft operator; |
+| --- | --- |
+
+| (b) | hold a nominated holding account; |
+| --- | --- |
+
+| (c) | hold a nominated bank account; |
+| --- | --- |
+
+| (d) | appoint at least one bidder’s representative as defined in the third subparagraph of Article 6(3); |
+| --- | --- |
+
+| (e) | satisfy the auction platform concerned in line with applicable customer due diligence measures as to their identity, the identity of their beneficial owners, integrity, business and trading profile having regard to the means of establishing the relationship with the bidder, the type of bidder, the nature of the auctioned product, the size of prospective bids, and the means of payment and delivery; |
+| --- | --- |
+
+| (f) | satisfy the auction platform concerned of their financial standing, in particular, that they are able to meet their financial commitments and current liabilities as they fall due; |
+| --- | --- |
+
+| (g) | have in place or are able to put in place when requested, the internal processes, procedures and contractual agreements necessary to give effect to a maximum bid-size imposed pursuant to Article 57; |
+| --- | --- |
+
+| (h) | fulfil the requirements of Article 49(1). |
+| --- | --- |
+
+When an auction platform does not organise a secondary market, persons who are eligible persons pursuant to Article 18(1) or (2) shall be admitted to bid directly in the auctions conducted by that auction platform provided that they satisfy the conditions set out in subparagraphs (a) to (h) of this paragraph.
+
+3. Persons falling under the scope of Article 18(1)(b) and (c) or Article 18(2) submitting bids on behalf of their clients shall be responsible for ensuring that all of the following conditions are fulfilled:
+
+| (a) | their clients are eligible persons pursuant to Article 18(1) or (2); |
+| --- | --- |
+
+| (b) | they have or will have in good time before the opening of the bidding window adequate internal processes, procedures and contractual agreements necessary to:(i)enable them to process bids from their clients including the submission of bids, collection of payment and transfer of allowances;(ii)prevent the disclosure of confidential information from that part of their business responsible for receiving, preparing and submitting bids on behalf of their clients to that part of their business responsible for preparing and submitting bids on their own account;(iii)ensure that their clients who themselves are acting on behalf of clients bidding in the auctions apply the requirements set out in paragraph 2 of this Article and in this paragraph and that they require the same of their clients and of the clients of their clients as provided for in Article 18(4).The auction platform concerned may rely on reliable checks carried out by the persons referred to in the first subparagraph of this paragraph, their clients, or the clients of their clients as provided for in Article 18(4).Persons referred to in the first subparagraph of this paragraph shall be responsible for ensuring that they are able to demonstrate to the auction platform whenever requested to do so by the auction platform pursuant to Article 20(5)(d) that the conditions in points (a) and (b) of the first subparagraph of this paragraph are fulfilled. |
+| --- | --- |
+| (i) | enable them to process bids from their clients including the submission of bids, collection of payment and transfer of allowances; |
+| (ii) | prevent the disclosure of confidential information from that part of their business responsible for receiving, preparing and submitting bids on behalf of their clients to that part of their business responsible for preparing and submitting bids on their own account; |
+| (iii) | ensure that their clients who themselves are acting on behalf of clients bidding in the auctions apply the requirements set out in paragraph 2 of this Article and in this paragraph and that they require the same of their clients and of the clients of their clients as provided for in Article 18(4). |
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+1. Before submitting their first bid directly through any auction platform auctioning two-day spot or five-day futures, persons eligible pursuant to Article 18(1) or (2) shall apply to the auction platform concerned for admission to bid.
+
+When an auction platform organises a secondary market, members of or participants in the secondary market organised by the auction platform concerned fulfilling the requirements of Article 19(1) shall be admitted to bid without applying under the first subparagraph of this paragraph.
+
+2. An application for admission to bid made under paragraph 1 shall be made by completing an electronic application accessible through the internet. The electronic application and its access through the internet shall be provided and maintained by the auction platform concerned.
+
+3. An application for admission to bid shall be supported by duly certified copies of all supporting documents required by the auction platform to show that the applicant satisfies the requirements of Article 19(2) and (3). An application for admission to bid shall at least include the elements listed in Annex II.
+
+4. An application for admission to bid, including any supporting documents, shall upon request be made available for inspection by the auction monitor, the competent national law enforcement authorities of a Member State conducting an investigation, referred to in Article 62(3)(e) and any competent Union bodies involved in investigations conducted on a cross-border basis.
+
+5. An auction platform auctioning two-day spot or five-day futures may refuse admission to bid in its auctions if the applicant refuses any of the following:
+
+| (a) | to comply with requests made by the auction platform for additional information or clarification or substantiation of information provided; |
+| --- | --- |
+
+| (b) | to attend an invitation made by the auction platform to interview any officers of the applicant including at its business premises or elsewhere; |
+| --- | --- |
+
+| (c) | to allow investigations or verifications, requested by the auction platform including on-site visits or spot-checks at the applicant’s business premises; |
+| --- | --- |
+
+| (d) | to comply with requests made by the auction platform for any information required from an applicant, the clients of an applicant or the clients of their clients as provided for in Article 18(4) to check compliance with the requirements of Article 19(3); |
+| --- | --- |
+
+| (e) | to comply with requests made by the auction platform for any information required to check compliance with the requirements of Article 19(2). |
+| --- | --- |
+
+6. An auction platform auctioning two-day spot or five-day futures shall apply the measures provided for in Article 13(4) of Directive 2005/60/EC in respect of its transactions or business relationships with politically exposed persons irrespective of their country of residence.
+
+7. An auction platform auctioning two-day spot or five-day futures shall require an applicant for admission to bid in its auctions to ensure that clients of the applicant comply with any request made pursuant to paragraph 5 and that any client of the applicant’s clients as provided for in Article 18(4) does the same.
+
+8. An application for admission shall be deemed to be withdrawn if the applicant fails to submit information requested by an auction platform within a reasonable period specified in a request for information made pursuant to point (a), (d) or (e) of paragraph 5, by the auction platform concerned, which shall not be less than five trading days from the date of the request for information, or fails to respond or submit to or cooperate in an interview or any investigations or verifications under point (b) or (c) of paragraph 5.
+
+9. An applicant shall not provide any auction platform auctioning two-day spot or five-day futures, with false or misleading information. An applicant shall notify the auction platform concerned fully, frankly and promptly of any changes in its circumstances that could affect its application for admission to bid in auctions conducted by that auction platform or any admission to bid already granted to it.
+
+10. An auction platform auctioning two-day spot or five-day futures shall decide on an application submitted to it and notify its decision to the applicant.
+
+The auction platform concerned may:
+
+| (a) | grant unconditional admission to the auctions for a period not exceeding the term of its appointment, including any extension or renewal of that appointment; |
+| --- | --- |
+
+| (b) | grant conditional admission to the auctions for a period not exceeding the term of its appointment, subject to fulfilment of the specified conditions, by a given date, which shall be duly verified by the auction platform concerned; |
+| --- | --- |
+
+| (c) | refuse to grant admission. |
+| --- | --- |
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+1. An auction platform auctioning two-day spot or five-day futures shall refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted to any person who:
+
+| (a) | is not or is no longer eligible to apply for admission to bid pursuant to Article 18(1) or (2); |
+| --- | --- |
+
+| (b) | does not or no longer meets the requirements of Articles 18, 19 and 20; |
+| --- | --- |
+
+| (c) | is wilfully or repeatedly in breach of this Regulation, the terms and conditions of its admission to bid in the auctions conducted by the auction platform concerned or any other related instructions or agreements. |
+| --- | --- |
+
+2. An auction platform auctioning two-day spot or five-day futures shall refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted, if it suspects money laundering, terrorist financing, criminal activity or market abuse in relation to an applicant, provided that such refusal, revocation or suspension is unlikely to frustrate efforts by the competent national authorities, to pursue or apprehend the perpetrators of such activities.
+
+In such a case, the auction platform concerned shall make a report to the financial intelligence unit (FIU) referred to in Article 21 of Directive 2005/60/EC in accordance with Article 55(2) of this Regulation.
+
+3. An auction platform auctioning two-day spot or five-day futures may refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted, to any person:
+
+| (a) | who is negligently in breach of this Regulation, the terms and conditions of its admission to bid in the auctions conducted by the auction platform concerned or any other related instructions or agreements; |
+| --- | --- |
+
+| (b) | who has otherwise behaved in a manner that is prejudicial to the orderly or efficient conduct of an auction; |
+| --- | --- |
+
+| (c) | who is referred to in Article 18(1)(b) or (c) or Article 18(2) and has not bid in any auction during the preceding 220 trading days. |
+| --- | --- |
+
+4. Persons referred to in paragraph 3 shall be notified of the refusal to grant admission, or the revocation or suspension of admission, and be given a reasonable period, specified in the decision of refusal to admit, revocation or suspension of admission, to respond in writing.
+
+After considering the person’s written response, the auction platform concerned shall if warranted:
+
+| (a) | grant or reinstate admission with effect from a given date; |
+| --- | --- |
+
+| (b) | grant conditional admission or conditional reinstatement of admission subject to fulfilment of the specified conditions by a given date, which shall be duly verified by the auction platform concerned; |
+| --- | --- |
+
+| (c) | confirm the refusal to grant admission, the revocation or suspension of admission with effect from a given date. |
+| --- | --- |
+
+The auction platform shall notify the person in question of its decision.
+
+5. Persons whose admission to bid is revoked or suspended pursuant to paragraphs 1, 2 or 3 shall take reasonable steps to ensure that their removal from the auctions:
+
+| (a) | is orderly; |
+| --- | --- |
+
+| (b) | does not prejudice the interests of their clients or interfere with the efficient functioning of the auctions; |
+| --- | --- |
+
+| (c) | does not affect their obligations to comply with any payment provisions, the terms and conditions of their admission to bid in the auctions or any other related instructions or agreements; |
+| --- | --- |
+
+| (d) | does not compromise their obligations regarding the protection of confidential information pursuant to Article 19(3)(b)(ii) which shall remain in force for 20 years following their removal from the auctions. |
+| --- | --- |
+
+The refusal to grant admission, the revocation or suspension of admission, referred to in paragraphs 1, 2 and 3, shall specify any measures needed to comply with this paragraph and the auction platform shall verify compliance with such measures.
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. Each Member State shall appoint an auctioneer. No Member State shall auction allowances without appointing an auctioneer. More than one Member State may appoint the same auctioneer.
+
+2. The auctioneer shall be appointed by the appointing Member State in good time prior to the commencement of the auctions so as to conclude and implement the necessary arrangements with the auction platform appointed or to be appointed by that Member State, including any clearing system and settlement system connected to it, allowing the auctioneer to auction allowances on behalf of the appointing Member State upon mutually agreed terms and conditions.
+
+3. For Member States not participating in the joint actions provided for in Article 26, the auctioneer shall be appointed by the appointing Member State in good time prior to the commencement of the auctions on the auction platforms appointed pursuant to Article 26(1) and (2) so as to conclude and implement the necessary arrangements with these auction platforms, including any clearing system and settlement system connected to them, to enable the auctioneer to auction allowances on behalf of the appointing Member State on such auction platforms upon mutually agreed terms and conditions, pursuant to the second subparagraph of Article 30(7) and the first subparagraph of Article 30(8).
+
+4. Member States shall refrain from disclosing any inside information within the meaning of point (29) of Article 3 and point (a) of Article 37 to any person working for an auctioneer.
+
+In the event of any unauthorised disclosure of inside information to persons working for the auctioneer, the terms of appointment of the auctioneer shall provide for adequate measures to remove from the auctions any persons to whom such unauthorised disclosure has been made.
+
+The second subparagraph of this paragraph shall apply without prejudice to the application of Articles 11 to 16 of Directive 2003/6/EC and Article 43 of this Regulation to any contravention of the prohibition of the first subparagraph of this paragraph.
+
+5. The allowances to be auctioned on behalf of a Member State shall be retained from the auctions until an auctioneer is duly appointed and until the arrangements referred to in paragraph 2 are concluded and implemented.
+
+6. Paragraph 5 is without prejudice to any legal consequences arising under Union law from a Member State failing to fulfil its obligations under paragraphs 1 to 4.
+
+7. Member States shall notify the identity of the auctioneer and its contact details to the Commission.
+
+The auctioneer’s identity and contact details shall be published on the Commission’s website.
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+The auctioneer shall:
+
+| (a) | auction the volume of allowances to be auctioned by each Member State appointing it; |
+| --- | --- |
+
+| (b) | receive the auction proceeds due to each Member State appointing it; |
+| --- | --- |
+
+| (c) | disburse the auction proceeds due to each Member State appointing it. |
+| --- | --- |
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+1. All auction processes shall be monitored by the same auction monitor.
+
+2. All Member States shall appoint an auction monitor following a joint procurement procedure between the Commission and the Member States conducted pursuant to the third subparagraph of Article 91(1) of Regulation (EC, Euratom) No 1605/2002 and Article 125c of Regulation (EC, Euratom) No 2342/2002.
+
+3. The period for which the auction monitor is appointed shall be no longer than 5 years.
+
+At least three months prior to the expiry of the term of appointment or termination of the appointment of the auction monitor, a successor shall be appointed, pursuant to paragraph 2.
+
+4. The identity and contact details of the auction monitor shall be published on the Commission’s website.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+1. The auction monitor shall monitor each auction and report on the proper implementation of the auctions conducted in the preceding month to the Commission on behalf of the Member States and to the Member States concerned, within the deadline provided for in the fourth subparagraph of Article 10(4) of Directive 2003/87/EC, pursuant to that subparagraph in particular with respect to:
+
+| (a) | fair and open access; |
+| --- | --- |
+
+| (b) | transparency; |
+| --- | --- |
+
+| (c) | price formation; |
+| --- | --- |
+
+| (d) | technical and operational aspects. |
+| --- | --- |
+
+2. The auction monitor shall provide to the Member States and the Commission an annual consolidated report which shall comprise:
+
+| (a) | the matters referred to in paragraph 1 both in relation to each individual auction and in aggregate for each auction platform; |
+| --- | --- |
+
+| (b) | any failure to comply with the contract appointing an auction platform; |
+| --- | --- |
+
+| (c) | any evidence of anti-competitive behaviour or market abuse; |
+| --- | --- |
+
+| (d) | the impact of the auctions on the market position of the auction platforms on the secondary market, if any; |
+| --- | --- |
+
+| (e) | the relationship between the auction processes covered in the consolidated report and between them and the functioning of the secondary market, pursuant to Article 10(5) of Directive 2003/87/EC; |
+| --- | --- |
+
+| (f) | information about the number, nature and status of any complaints made pursuant to Article 59(4) as well as any other complaints made to the national competent authorities supervising credit institutions and investment firms; |
+| --- | --- |
+
+| (g) | information about any follow-up given to any reports of the auction monitor made under paragraphs 3, 4 and 5; |
+| --- | --- |
+
+| (h) | any recommendations deemed appropriate to improve any of the auction processes or for any review of the following:(i)this Regulation including the review referred to in Article 33;(ii)the Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC;(iii)Directive 2003/87/EC including the review of the functioning of the carbon market provided for in Articles 10(5) and 12(1a) of that Directive. |
+| --- | --- |
+| (i) | this Regulation including the review referred to in Article 33; |
+| (ii) | the Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC; |
+| (iii) | Directive 2003/87/EC including the review of the functioning of the carbon market provided for in Articles 10(5) and 12(1a) of that Directive. |
+
+3. The auction monitor may, upon request by the Commission and one or more Member State(s), or as required in paragraph 5, report from time to time on any specific issue related to any of the auction processes, whenever it is necessary to raise the issue in question prior to the submission of the reports covered in paragraphs 1 or 2. Otherwise the auction monitor may report thereon in the reports provided for in paragraphs 1 or 2.
+
+4. A Member State not participating in the joint action provided for in Article 26 of this Regulation but opting to appoint its own auction platform pursuant to Article 30(1) and (2) of this Regulation may request the auction monitor to provide the Member States, the Commission and the auction platform concerned with a technical report on the ability of the auction platform it proposes or intends to propose, to carry out the auction process in accordance with the requirements of this Regulation and in conformity with the objectives set out in Article 10(4) of Directive 2003/87/EC.
+
+In such reports, the auction monitor shall clearly state where the auction process meets the requirements of the first subparagraph and where it does not. It shall make precise recommendations for further development or improvement to the auction process wherever appropriate, proposing a specific timeline for their implementation.
+
+5. In the event of any breach of this Regulation or non-conformity with the objectives of Article 10(4) of Directive 2003/87/EC of the auction process carried out by an auction platform, or upon request by the Commission in case it suspects such a breach, the auction monitor shall report forthwith to the Member States, the Commission and the auction platform concerned.
+
+The report shall clearly state the nature of the breach or non-conformity. It shall make precise recommendations to remedy the situation, proposing a specific timeline for their implementation. Where appropriate, it may recommend the suspension of the auction platform concerned. The auction monitor shall keep its report pursuant to this paragraph under constant review and provide quarterly up-dates thereon to the Member States, the Commission and the auction platform concerned.
+
+6. Any opinions provided pursuant to Article 7(7) or 8(3) of this Regulation by the auction monitor shall form part of its functions pursuant to this Article.
+
+7. The reports and opinions provided for pursuant to this Article shall be drawn up in a comprehensible, standardised easily accessible format to be determined as set out in the contract appointing the auction monitor.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+1. Without prejudice to Article 30, Member States shall appoint one auction platform for auctioning two-day spot or five-day futures following a joint procurement procedure between the Commission and the Member States participating in the joint action.
+
+2. Without prejudice to Article 30, Member States shall appoint one or two auction platforms for auctioning futures or forwards, provided that those auctioned products are listed in Annex I, following a joint procurement procedure between the Commission and the Member States participating in the joint action.
+
+3. The joint procurement procedure referred to in paragraphs 1 and 2 shall be conducted pursuant to the third subparagraph of Article 91(1) of Regulation (EC, Euratom) No 1605/2002 and Article 125c of Regulation (EC, Euratom) No 2342/2002.
+
+4. Any period of appointment of the auction platforms referred to in paragraphs 1 and 2 shall be no longer than five years.
+
+5. The identity and contact details of the auction platforms referred to in paragraphs 1 and 2 shall be published on the Commission’s website.
+
+6. Any Member State that joins the joint actions pursuant to paragraphs 1 and 2 after the entry into force of the joint procurement agreement entered into between the participating Member States and the Commission shall accept the terms and conditions agreed by participating Member States and the Commission in the joint procurement agreement as well as any decisions already adopted under that agreement.
+
+Any Member State that decides pursuant to Article 30(4) not to participate in the joint action but to appoint its own auction platform may be given observer status upon terms and conditions agreed in the joint procurement agreement between the Member States participating in the joint action and the Commission subject to any applicable public procurement rules.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+1. The auction platform appointed pursuant to Article 26(1) shall provide the following services to the Member States as more particularly delineated in the contract appointing it:
+
+| (a) | providing access to the auctions, pursuant to Articles 15 to 21, including the provision and maintenance of the necessary internet-based electronic interfaces and website; |
+| --- | --- |
+
+| (b) | conducting the auctions in accordance with Articles 4 to 7; |
+| --- | --- |
+
+| (c) | managing the auction calendar in accordance with Articles 8 to 14; |
+| --- | --- |
+
+| (d) | announcing and notifying the results of an auction, pursuant to Article 61; |
+| --- | --- |
+
+| (e) | providing, or ensuring through sub-contracting the provision of, the requisite clearing system or settlement system needed for:(i)the handling of payments made by successful bidders or their successors in title and distribution of the proceeds of the auctions to the auctioneer, pursuant to Articles 44 and 45;(ii)delivering the auctioned allowances to successful bidders or their successors in title, pursuant to Articles 46, 47 and 48;(iii)managing collateral including any margining, provided by the auctioneer or bidders, pursuant to Articles 49 and 50; |
+| --- | --- |
+| (i) | the handling of payments made by successful bidders or their successors in title and distribution of the proceeds of the auctions to the auctioneer, pursuant to Articles 44 and 45; |
+| (ii) | delivering the auctioned allowances to successful bidders or their successors in title, pursuant to Articles 46, 47 and 48; |
+| (iii) | managing collateral including any margining, provided by the auctioneer or bidders, pursuant to Articles 49 and 50; |
+
+| (f) | providing the auction monitor with any information relating to the conduct of the auctions, required for the carrying out of the auction monitor’s functions, pursuant to Article 53; |
+| --- | --- |
+
+| (g) | supervising the auctions, notifying suspicions of money laundering, terrorist financing, criminal activity or market abuse, administering any required remedial measures or sanctions including the provision of an extra-judicial dispute resolution mechanism, pursuant to Articles 44 to 59 and Article 64(1). |
+| --- | --- |
+
+2. At least 20 trading days prior to the opening of the first bidding window run by the auction platform appointed pursuant to Article 26(1), the auction platform shall be connected to at least one clearing system or settlement system.
+
+<a id="art_28"></a>
+
+### art_28
+
+Article 28
+
+1. An auction platform appointed pursuant to Article 26(2) shall provide the following services to the Member States:
+
+| (a) | providing access to the auctions pursuant to the arrangements in place in the secondary market, organised by the auction platform, as modified in the contracts appointing it; |
+| --- | --- |
+
+| (b) | conducting the auctions in accordance with Articles 4 to 7; |
+| --- | --- |
+
+| (c) | managing the auction calendar in accordance with Articles 8 to 14; |
+| --- | --- |
+
+| (d) | announcing and notifying the results of an auction, pursuant to Article 61; |
+| --- | --- |
+
+| (e) | providing, pursuant to the arrangements in place in the secondary market organised by the auction platform, except that Article 40 shall apply in any case, as modified in the contract appointing it, the clearing system or settlement system needed for the:(i)handling of payments made by bidders or their successors in title and the distribution of the proceeds of the auctions to the auctioneer;(ii)delivering auctioned allowances to successful bidders or their successors in title;(iii)managing collateral, including any margining, provided by the auctioneer or bidders; |
+| --- | --- |
+| (i) | handling of payments made by bidders or their successors in title and the distribution of the proceeds of the auctions to the auctioneer; |
+| (ii) | delivering auctioned allowances to successful bidders or their successors in title; |
+| (iii) | managing collateral, including any margining, provided by the auctioneer or bidders; |
+
+| (f) | providing the auction monitor with any information relating to the conduct of the auctions, required for the carrying out of the auction monitor’s functions, pursuant to Article 53; |
+| --- | --- |
+
+| (g) | surveying the auctions, notifying suspicions of money laundering, terrorist financing, criminal activity or market abuse, administering any required remedial measures or sanctions, including the provision of an extra-judicial dispute resolution mechanism, pursuant to the arrangements in place in the secondary market organised by the auction platform, as modified in the contract appointing it. |
+| --- | --- |
+
+2. At least 20 trading days prior to the opening of the first bidding window run by an auction platform appointed pursuant to Article 26(2), the auction platform concerned shall be connected to at least one clearing system or settlement system.
+
+3. Article 16(2) and (3), Articles 17, 19, 20, 21, 54, 55 and 56, Articles 60(3) and 63(4), and Article 64 shall not apply with respect to the auctions conducted by an auction platform auctioning futures or forwards.
+
+<a id="art_29"></a>
+
+### art_29
+
+Article 29
+
+Auction platforms appointed pursuant to Article 26(1) or (2) shall provide the Commission with technical support services with respect to the Commission’s work relating to the following:
+
+| (a) | completion of Annex I and any coordination of the auction calendar for Annex III; |
+| --- | --- |
+
+| (b) | any opinions provided by the Commission under this Regulation; |
+| --- | --- |
+
+| (c) | any opinions or reports provided by the auction monitor regarding the functioning of the auctions platforms appointed pursuant to Article 26(1) or (2); |
+| --- | --- |
+
+| (d) | the reports or any proposal made by the Commission pursuant to Articles 10(5) and 12(1a) of Directive 2003/87/EC; |
+| --- | --- |
+
+| (e) | any amendment to this Regulation or Directive 2003/87/EC which has an impact on the functioning of the carbon market including the implementation of the auctions; |
+| --- | --- |
+
+| (f) | any review of this Regulation, Directive 2003/87/EC or the Commission regulation adopted pursuant to Article 19(3) of that Directive which has an impact on the functioning of the carbon market including the implementation of the auctions; |
+| --- | --- |
+
+| (g) | any other joint action relating to the functioning of the carbon market including the implementation of the auctions agreed between the Commission and the Member States participating in the joint action. |
+| --- | --- |
+
+<a id="art_30"></a>
+
+### art_30
+
+Article 30
+
+1. Any Member State not participating in the joint action provided for in Article 26 of this Regulation may appoint its own auction platform for the auctioning of its share of the volume of allowances covered by Chapters II and III of Directive 2003/87/EC to be auctioned by means of two-day spot or five-day futures.
+
+2. Any Member State not participating in the joint action provided for in Article 26 of this Regulation may appoint its own auction platform for the auctioning of its share of the volume of allowances covered by Chapters II and III of Directive 2003/87/EC to be auctioned by means of the futures or forwards, provided that these products are listed in Annex I to this Regulation.
+
+3. Member States not participating in the joint action provided for in Article 26 may appoint the same auction platform or separate auction platforms for the auctioning of futures or forwards and two-day spot or five-day futures, respectively.
+
+4. Any Member State not participating in the joint action provided for in Article 26, shall inform the Commission of its decision not to participate in the joint action but to appoint its own auction platform pursuant to paragraphs 1 and 2 of this Article within three months of the entry into force of this Regulation.
+
+5. Any Member State not participating in the joint action provided for in Article 26 shall select its own auction platform appointed pursuant to paragraphs 1 and 2 of this Article on the basis of a selection procedure compliant with Union and national procurement law where a public procurement process is required by either Union or national law, respectively. The selection procedure shall be subject to all applicable remedies and enforcement procedures under Union and national law.
+
+Any period of appointment of the auction platforms referred to in paragraphs 1 and 2 shall be no longer than three years renewable for no more than a further two years.
+
+The appointment of the auction platforms referred to in paragraphs 1 and 2 shall be subject to listing the auction platform concerned in Annex III pursuant to paragraph 7. It shall not be implemented before the entry into force of the listing of the auction platform concerned in Annex III as provided for in paragraph 7.
+
+6. Each Member State not participating in the joint action provided for in Article 26 but opting to appoint its own auction platform pursuant to paragraphs 1 and 2 of this Article shall provide the Commission with a complete notification containing all of the following:
+
+| (a) | the identity of the auction platform it proposes to appoint indicating whether the same auction platform or separate auction platforms shall auction the futures or forwards, and two-day spot or five-day futures, respectively; |
+| --- | --- |
+
+| (b) | the detailed operative rules that would govern the auction process to be conducted by the auction platform(s) it proposes to appoint, including the contractual provisions concerning the appointment of the auction platform concerned including the any clearing system(s) and settlement system(s) connected to the proposed auction platform stipulating the terms and conditions governing the structure and level of fees, collateral management, payment and delivery; |
+| --- | --- |
+
+| (c) | the proposed bidding windows, individual volumes, auction dates indicating the occurrence of relevant public holidays, as well as the auctioned product, payment and delivery dates of the allowances to be auctioned in individual auctions in a given calendar year and any other information necessary for the Commission to assess whether the proposed auction calendar is compatible with the auction calendar of the auction platforms appointed pursuant to Article 26(1) or (2) as well as other auction calendars proposed by other Member States not participating in the joint action provided for in Article 26 but opting to appoint their own auction platforms; |
+| --- | --- |
+
+| (d) | the detailed rules and conditions on surveying and supervising the auctions to which its proposed auction platform shall be subject pursuant to Article 35(4), (5) and (6) as well as the detailed rules protecting against money laundering, terrorist financing, criminal activity or market abuse, including any remedial measures or sanctions; |
+| --- | --- |
+
+| (e) | the detailed measures put in place to comply with Article 22(4) and Article 34 regarding the appointment of the auctioneer.The notification shall demonstrate the compatibility with the provisions of this Regulation and conformity with the objectives in Article 10(4) of Directive 2003/87/EC.A notifying Member State may modify its original notification prior to the listing referred to in paragraph 7 of this Article.Each notifying Member State shall present its original and modified notification to the Committee referred to in Article 23(1) of Directive 2003/87/EC. |
+| --- | --- |
+
+7. Auction platforms other than those appointed pursuant to Article 26(1) or (2), the Member States appointing them, their term of appointment, and any applicable conditions or obligations, shall be set out in Annex III where the requirements of this Regulation and the objectives of Article 10(4) of Directive 2003/87/EC are satisfied. The Commission and the Committee provided for in Article 23(1) of Directive 2003/87/EC shall act solely on the basis of these requirements and objectives and shall have full regard to any reports made by the auction monitor pursuant to Article 25(4) of this Regulation.
+
+In the absence of any listing provided for in the first subparagraph, a Member State not participating in the joint action provided for in Article 26 but opting to appoint its own auction platform pursuant to paragraphs 1 and 2 of this Article shall use the auction platforms appointed pursuant to Article 26(1) or (2) to auction its share of the allowances that would have otherwise been auctioned on the auction platform to be appointed pursuant to paragraphs 1 or 2 of this Article in the period until the expiry of three months after the entry into force of the listing provided for in the first subparagraph.
+
+8. Any Member State not participating in the joint action provided for in Article 26 but opting to appoint its own auction platform pursuant to paragraphs 1 and 2 of this Article may join the joint action provided for in Article 26, pursuant to Article 26(6).
+
+The volume of allowances that were scheduled to be auctioned on an auction platform other than the auction platforms appointed pursuant to Article 26(1) or (2) shall be spread evenly over the auctions conducted by the relevant auction platform appointed pursuant to Article 26(1) or (2).
+
+<a id="art_31"></a>
+
+### art_31
+
+Article 31
+
+1. Any auction platform appointed pursuant to Article 30(1) shall carry out the same functions as the auction platform appointed pursuant to Article 26(1) as provided for in Article 27 except for Article 27(1)(c) on the auction calendar which shall not apply.
+
+2. Any auction platform appointed pursuant to Article 30(2) shall carry out the same functions as the auction platforms appointed pursuant to Article 26(2) as provided for in Article 28 except for Article 28(1)(c) on the auction calendar which shall not apply.
+
+3. The provisions on the auction calendar provided for in Article 8(1), (2) and (3), Articles 9, 10, 12, 14 and 32 shall apply to the auction platforms appointed pursuant to Article 30(1) or (2).
+
+<a id="art_32"></a>
+
+### art_32
+
+Article 32
+
+1. The volume of allowances covered by Chapter III of Directive 2003/87/EC auctioned in individual auctions conducted by an auction platform appointed pursuant to Article 30(1) or (2) of this Regulation shall be no greater than 20 million allowances and no less than 10 million allowances; save where the total volume of allowances, covered by Chapter III of Directive 2003/87/EC, to be auctioned by the appointing Member State is less than 10 million in a given calendar year, in which case the allowances shall be auctioned in a single auction per calendar year.
+
+2. The volume of allowances covered by Chapter II of Directive 2003/87/EC auctioned in individual auctions conducted by an auction platform appointed pursuant to Article 30(1) or (2) of this Regulation shall be no greater than 5 million allowances and no less than 2,5 million allowances; save where the total volume of allowances, covered by Chapter II of Directive 2003/87/EC, to be auctioned by the appointing Member State is less than 2,5 million in a given calendar year, in which case the allowances shall be auctioned in a single auction per calendar year.
+
+3. The total volume of allowances covered by Chapters II and III of Directive 2003/87/EC to be auctioned by all auction platforms appointed pursuant to Article 30(1) or (2) of this Regulation collectively shall be distributed evenly over any given calendar year, except that the volume auctioned in auctions held in August of each year shall be half of the volume auctioned in other months of the year.
+
+4. The auction platforms appointed pursuant to Article 30(1) or (2) of this Regulation shall determine and publish the bidding windows, individual volumes, auction dates as well as the auctioned product, payment and delivery dates of the allowances, covered by Chapters II and III of Directive 2003/87/EC, to be auctioned in individual auctions each year, after the determination and publication pursuant to Articles 11(1) and 13(1) of this Regulation by the auction platforms appointed pursuant to Article 26(1) and (2) of this Regulation, by 31 March of the previous year, or as soon as practicable thereafter, having previously consulted the Commission and obtained its opinion thereon. The auction platforms concerned shall take the utmost account of the Commission’s opinion.
+
+Published calendars referred to in the first subparagraph shall be consistent with any relevant conditions or obligations listed in Annex III.
+
+5. Where an auction conducted by an auction platform appointed pursuant to Article 30(1) or (2) is cancelled by the auction platform pursuant to Article 7(5) or (6) or Article 9, the auctioned volume shall be distributed evenly either over the next four auctions scheduled on the same auction platform or, if the auction platform concerned conducts less than four auctions in a given calendar year, over the next two auctions scheduled on the same auction platform.
+
+<a id="art_33"></a>
+
+### art_33
+
+Article 33
+
+Upon delivery of the annual consolidated report drawn up by the auction monitor pursuant to Article 25(2) which shall be delivered no later than 31 December 2014, the Commission shall review the arrangements provided for in this Regulation including the operation of all auction processes.
+
+The review shall analyse the experience acquired with regard to the interaction between the auction platforms appointed pursuant to Article 30(1) or (2) and those appointed pursuant to Article 26(1) or (2) as well as the interaction between the auctions and the secondary market.
+
+The review shall be carried out in consultation with Member States and stakeholders.
+
+The Commission may put forward any measures deemed necessary to deal with any distortion or malfunctioning of the internal market or the carbon market arising from the arrangements under this Regulation, having regard to the outcome of the review, with a view to entry into force of such measures by 31 December 2016.
+
+<a id="art_34"></a>
+
+### art_34
+
+Article 34
+
+1. When appointing auctioneers and the auction monitor, the Member States shall take into account the extent to which candidates:
+
+| (a) | exhibit the least risk of conflict of interest or market abuse having regard to the following:(i)any activities on the secondary market;(ii)any internal processes and procedures to mitigate the risk of conflict of interest or market abuse; |
+| --- | --- |
+| (i) | any activities on the secondary market; |
+| (ii) | any internal processes and procedures to mitigate the risk of conflict of interest or market abuse; |
+
+| (b) | are able to fulfil the auctioneer’s or the auction monitor’s functions, in a timely manner, in accordance with the highest professional and quality standards. |
+| --- | --- |
+
+2. The auctioneer’s appointment shall be subject to the conclusion of the arrangements referred to in Article 22(2) and (3) between the auctioneer and the auction platform concerned.
+
+<a id="art_35"></a>
+
+### art_35
+
+Article 35
+
+1. Auctions shall only be conducted on an auction platform authorised as a regulated market under paragraph 5 by the competent national authorities referred to in the second subparagraph of paragraph 4.
+
+2. Any auction platform appointed under this Regulation for the auctioning of two-day spot or five-days futures shall be allowed, without further legal or administrative requirements by the Member States, to provide appropriate arrangements so as to facilitate access to and participation in auctions by bidders referred to in Article 18(1) and (2).
+
+3. When appointing any auction platform, the Member States shall take into account the extent to which candidates demonstrate fulfilment of all of the following:
+
+| (a) | ensuring respect of the principle of non-discrimination both de facto and de jure; |
+| --- | --- |
+
+| (b) | full, fair and equitable access to bid in the auctions for SMEs covered by the Union scheme and access to bid in the auctions for small emitters; |
+| --- | --- |
+
+| (c) | ensuring cost-efficiency and avoiding undue administrative burden; |
+| --- | --- |
+
+| (d) | robust auction supervision, notification of suspicions of money laundering, terrorist financing, criminal activity or market abuse, administration of any required remedial measures or sanctions, including the provision of an extra-judicial dispute resolution mechanism; |
+| --- | --- |
+
+| (e) | avoiding distortions of competition in the internal market including the carbon market; |
+| --- | --- |
+
+| (f) | ensuring the proper functioning of the carbon market including the implementation of the auctions; |
+| --- | --- |
+
+| (g) | connecting to one or more clearing system or settlement system; |
+| --- | --- |
+
+| (h) | the provision of adequate measures requiring an auction platform to hand over all tangible and intangible assets necessary for the conduct of the auctions by an auction platform’s successor. |
+| --- | --- |
+
+4. An auction platform auctioning two-day spot or five-days futures shall only be appointed after the Member State where the candidate regulated market and its market operator are established has ensured in good time, and in any event prior to the opening of the first bidding window that the national measures transposing the provisions of Title III of Directive 2004/39/EC apply to the auctioning of two-day spot or five-days futures to the extent relevant.
+
+An auction platform auctioning two-day spot or five-days futures shall only be appointed after the Member State, where the candidate regulated market and its market operator are established, has ensured in good time, and in any event prior to the opening of the first bidding window, that the competent national authorities of that Member State are able to authorise and supervise them in accordance with the national measures transposing Title IV of Directive 2004/39/EC to the extent relevant.
+
+Where the candidate regulated market and its market operator are not established in the same Member State, the first and second subparagraphs shall apply to both the Member State where the candidate regulated market is established and the Member State where its market operator is established.
+
+5. The competent national authorities of the Member State referred to in the second subparagraph of paragraph 4 of this Article designated pursuant to Article 48(1) of Directive 2004/39/EC shall decide on the authorisation of a regulated market for the purposes of this Regulation, provided that the regulated market and its market operator comply with the provisions of Title III of Directive 2004/39/EC, as transposed into the national legal order of the Member State of their establishment pursuant to paragraph 4 of this Article. The decision on authorisation shall be taken in accordance with Title IV of Directive 2004/39/EC as transposed into the national legal order of the Member State of their establishment pursuant to paragraph 4 of this Article.
+
+6. The competent national authorities referred to in paragraph 5 of this Article shall maintain effective market oversight and take the necessary measures to ensure that the requirements referred to in that paragraph are complied with. To that effect, they shall be able to exercise directly, or with the assistance of other competent national authorities designated pursuant to Article 48(1) of Directive 2004/39/EC, the powers provided for in the national measures transposing Article 50 of that Directive with regard to the regulated market and its market operator referred to in paragraph 4 of this Article.
+
+The Member State of each competent national authority referred in paragraph 5 shall ensure that the national measures transposing Articles 51 and 52 of Directive 2004/39/EC apply in relation to the persons responsible for failure to comply with their obligations under Title III of Directive 2004/39/EC as transposed into the national legal order of the Member State of their establishment pursuant to paragraph 4 of this Article.
+
+For the purposes of this paragraph, national measures transposing Articles 56 to 62 of Directive 2004/39/EC shall apply to cooperation between competent national authorities of different Member States.
+
+<a id="art_36"></a>
+
+### art_36
+
+Article 36
+
+1. For the purposes of this Regulation, where two-day spot or five-days futures are financial instruments within the meaning of Article 1(3) of Directive 2003/6/EC, that Directive shall apply to the auctioning of those auctioned products.
+
+2. Where two-day spot or five-days futures are not financial instruments within the meaning of Article 1(3) of Directive 2003/6/EC, the provisions of Articles 37 to 43 of this Regulation shall apply.
+
+<a id="art_37"></a>
+
+### art_37
+
+Article 37
+
+For the purposes of Articles 38 to 43 which apply to auctioned products other than financial instruments within the meaning of Article 1(3) of Directive 2003/6/EC, the following definitions shall apply:
+
+| (a) | ‘inside information’ means information of a precise nature which has not been made public, relating, directly or indirectly, to one or more of the auctioned products, and which, if it were public, would be likely to have a significant effect on the prices at which bids would be made.For persons charged with the execution of bids, inside information also means information conveyed by a client and related to the client’s pending bids, which is of a precise nature, which related directly or indirectly to one or more auctioned products and which, if it were made public, would be likely to have a significant effect on the prices at which bids would be made; |
+| --- | --- |
+
+| (b) | ‘market manipulation’ means:(i)bids, or transactions or orders on the secondary market:—which give, or are likely to give, false or misleading signals as to the demand for or price of the auctioned products, or—which secure, by a person, or persons acting in collaboration, an auction clearing price for the auctioned products at an abnormal or artificial level,unless the person who made the bid or, on the secondary market, the transaction or the order, establishes that its reasons for so doing are legitimate;(ii)bids which employ fictitious devices or any other form of deception or contrivance;(iii)dissemination of information through the media, including the Internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the auctioned products, including the dissemination of rumours and false or misleading news, where the person who made the dissemination knew, or ought to have known, that the information was false or misleading. In respect of journalists when they act in their professional capacity such dissemination of information is to be assessed, taking into account the rules governing their profession, unless those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question. |
+| --- | --- |
+| (i) | bids, or transactions or orders on the secondary market:—which give, or are likely to give, false or misleading signals as to the demand for or price of the auctioned products, or—which secure, by a person, or persons acting in collaboration, an auction clearing price for the auctioned products at an abnormal or artificial level,unless the person who made the bid or, on the secondary market, the transaction or the order, establishes that its reasons for so doing are legitimate; |
+| — | which give, or are likely to give, false or misleading signals as to the demand for or price of the auctioned products, or |
+| — | which secure, by a person, or persons acting in collaboration, an auction clearing price for the auctioned products at an abnormal or artificial level, |
+| (ii) | bids which employ fictitious devices or any other form of deception or contrivance; |
+| (iii) | dissemination of information through the media, including the Internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the auctioned products, including the dissemination of rumours and false or misleading news, where the person who made the dissemination knew, or ought to have known, that the information was false or misleading. In respect of journalists when they act in their professional capacity such dissemination of information is to be assessed, taking into account the rules governing their profession, unless those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question. |
+
+In particular, the following instances are derived from the core definition given in point (b) of the first paragraph:
+
+| — | conduct by a person, or persons acting in collaboration, to secure a dominant position over the demand for an auctioned product which has the effect of fixing, directly or indirectly, auction clearing prices or creating other unfair trading conditions, |
+| --- | --- |
+
+| — | the buying or selling on the secondary market of allowances or related derivatives prior to the auction with the effect of fixing the auction clearing price for the auctioned products at an abnormal or artificial level or misleading bidders bidding in the auctions, |
+| --- | --- |
+
+| — | taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about an auctioned product while having previously made a bid in relation to that product and profiting subsequently from the impact of the opinions voiced on the other bid prices offered for that product, without having simultaneously disclosed that conflict of interest to the public in a proper and effective way. |
+| --- | --- |
+
+<a id="art_38"></a>
+
+### art_38
+
+Article 38
+
+1. No person referred to in the second subparagraph who possesses inside information shall use that information by submitting, modifying or withdrawing a bid, for its own account or for the account of a third party, either directly or indirectly, for an auctioned product to which that information relates.
+
+The first subparagraph shall apply to any person who possesses inside information:
+
+| (a) | by virtue of its membership of the administrative, management or supervisory bodies of the auction platform, the auctioneer or the auction monitor; or |
+| --- | --- |
+
+| (b) | by virtue of its holding in the capital of the auction platform, the auctioneer or the auction monitor; or |
+| --- | --- |
+
+| (c) | by virtue of its having access to the information through the exercise of his employment, profession or duties; or |
+| --- | --- |
+
+| (d) | by virtue of its criminal activities. |
+| --- | --- |
+
+2. Where the person referred to in paragraph 1 is a legal person, the prohibition laid down in that paragraph shall also apply to the natural persons who take part in the decision to submit, modify or withdraw the bid for the account of the legal person concerned.
+
+3. This Article shall not apply to the submission, modification or withdrawal of a bid for an auctioned product made in the discharge of an obligation that has become due where that obligation results from an agreement concluded before the person concerned possessed inside information.
+
+<a id="art_39"></a>
+
+### art_39
+
+Article 39
+
+No person who is subject to the prohibition laid down in Article 38 shall:
+
+| (a) | disclose inside information to any other person unless such disclosure is made in the normal course of the exercise of its employment, profession or duties; |
+| --- | --- |
+
+| (b) | recommend or induce another person, on the basis of inside information, to submit, modify or withdraw the bid for auction products to which that information relates. |
+| --- | --- |
+
+<a id="art_40"></a>
+
+### art_40
+
+Article 40
+
+Articles 38 and 39 shall also apply to any person, other than the persons referred to in those Articles, who possesses inside information while that person knows, or ought to have known, that it is inside information.
+
+<a id="art_41"></a>
+
+### art_41
+
+Article 41
+
+No person shall engage in market manipulation.
+
+<a id="art_42"></a>
+
+### art_42
+
+Article 42
+
+1. The auction platform, the auctioneer and the auction monitor shall each draw up a list of those persons working for them, under a contract of employment or otherwise, who have access to inside information. The auction platform shall regularly update its list and transmit it to the competent national authority of the Member State in which it is established whenever so requested. The auctioneer and the auction monitor shall each regularly update their list and transmit it to the competent national authority of the Member State where the auction platform is established and the Member State of establishment of the auctioneer or the auction monitor, as provided for in the contract(s) appointing them, whenever the competent national authority concerned so request.
+
+2. Persons discharging managerial responsibilities within the auction platform, the auctioneer, or the auction monitor and, where applicable, persons closely associated with them, shall, at least, notify to the competent national authority referred to in paragraph 1, the existence of bids submitted, modified or withdrawn on their own account relating to the auctioned products, or to derivatives or other financial instruments linked to them.
+
+3. Persons who produce or disseminate research concerning auctioned products and persons who produce or disseminate other information recommending or suggesting investment strategy, intended for distribution channels or for the public, shall take reasonable care to ensure that such information is fairly presented and disclose their interests or indicate conflicts of interest concerning auctioned products.
+
+4. The auction platform shall adopt structural provisions aimed at preventing and detecting market manipulation practices.
+
+5. Any person referred to in Article 59(1) who reasonably suspects that a transaction might constitute insider dealing or market manipulation shall notify the competent national authority of the Member State of its establishment without delay.
+
+<a id="art_43"></a>
+
+### art_43
+
+Article 43
+
+1. The competent national authorities referred to in Article 11 of Directive 2003/6/EC shall maintain effective market oversight and take the necessary measures to ensure that the provisions of Articles 37 to 42 of this Regulation are complied with.
+
+2. The competent national authorities referred to in paragraph 1 of this Article shall have the powers provided for in the national measures transposing Article 12 of Directive 2003/6/EC.
+
+3. Member States shall ensure that the national measures transposing Articles 14 and 15 of Directive 2003/6/EC apply in relation to the persons responsible for failure to comply with Articles 37 to 42 of this Regulation in relation to auctions carried out in their territory or abroad.
+
+4. For the purposes of application of Articles 37 to 42 of this Regulation and paragraph 1, 2 and 3 of this Article, national measures transposing Article 16 of Directive 2003/6/EC shall apply to cooperation between competent national authorities referred to in paragraph 1 of this Article.
+
+<a id="art_44"></a>
+
+### art_44
+
+Article 44
+
+1. Each successful bidder or its successor(s) in title, including any intermediaries acting on their behalf, shall pay the sum due notified to it pursuant to Article 61(3)(c) for the allowances won as notified to it pursuant to Article 61(3)(a), by transferring or arranging for the transfer of the sum due through the clearing system or settlement system, into the auctioneer’s nominated bank account in cleared funds either before or at the latest upon delivery of the allowances into the bidder’s nominated holding account or the nominated holding account of its successor in title.
+
+2. An auction platform including the clearing system(s) or settlement system(s) connected to it, shall transfer the payments made by the bidders or any successors in title arising from the auctioning of allowances covered by Chapters II and III of Directive 2003/87/EC to the auctioneers that auctioned the allowances in question.
+
+3. Payments to the auctioneers shall be made in euros or in the currency of the appointing Member State where that Member State is not member of the euro-zone, at the option of the Member State concerned, regardless of what currency payments are made by the bidders, provided that the clearing system or settlement system concerned is capable of handling the national currency in question.
+
+The exchange rate shall be the rate published on a recognised financial newswire service specified in the contract appointing the auction platform concerned, immediately following the close of the bidding window.
+
+<a id="art_45"></a>
+
+### art_45
+
+Article 45
+
+1. A successful bidder, or its successors in title, shall only be delivered allowances notified to the successful bidder pursuant to Article 61(3)(a), if the entire sum due notified to it pursuant to Article 61(3)(c), is paid to the auctioneer pursuant to Article 44(1).
+
+2. A successful bidder, or its successors in title, that fails to meet its obligations under paragraph 1 of this Article in full by the due date notified to the successful bidder pursuant to Article 61(3)(d) shall be in default of payment.
+
+3. A bidder in default of payment may be charged either or both of the following:
+
+| (a) | interest for each day beginning with the date on which payment was due pursuant to Article 61(3)(d) and ending on the date on which payment is made at an interest rate set out in the contract appointing the auction platform concerned, calculated on a daily basis; |
+| --- | --- |
+
+| (b) | a penalty, which shall accrue to the auctioneer less any costs deducted by the clearing system or settlement system. |
+| --- | --- |
+
+4. Without prejudice to paragraphs 1, 2 and 3, where a successful bidder is in default of payment one of the following shall occur:
+
+| (a) | the central counterparty shall interpose to take delivery of the allowances and effect payment of the sum due to the auctioneer; |
+| --- | --- |
+
+| (b) | the settlement agent shall apply collateral taken from the bidder to effect payment of the sum due to the auctioneer. |
+| --- | --- |
+
+5. In the event of a failure of settlement, the allowances shall be auctioned at the next two auctions scheduled on the auction platform concerned.
+
+<a id="art_46"></a>
+
+### art_46
+
+Article 46
+
+1. Allowances auctioned pursuant to Article 4(2) of this Regulation shall be transferred by the Union registry prior to the deadline for their delivery into a nominated holding account, to be held in escrow by the clearing system or settlement system acting as custodian, until delivery of the allowances to successful bidders or their successors in title, pursuant to the results of the auction, as provided for in the applicable Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC.
+
+2. Allowances auctioned pursuant to Article 4(3) of this Regulation shall be transferred by the Union registry prior to the opening of a bidding window, into a nominated holding account, to be held in escrow by the clearing system or settlement system acting as custodian, until delivery of the allowances to successful bidders or their successors in title, pursuant to the results of the auction, as provided for in the applicable Commission regulation adopted pursuant to Article 19(3) of Directive 2003/87/EC.
+
+<a id="art_47"></a>
+
+### art_47
+
+Article 47
+
+1. The clearing system or settlement system shall allocate each allowance auctioned by a Member State to a successful bidder, until the total volume allocated matches the volume of allowances notified to the bidder pursuant to Article 61(3)(a).
+
+A bidder may be allocated allowances from more than one Member State auctioning in the same auction if necessary to make up the volume of allowances notified to the bidder pursuant to Article 61(3)(a).
+
+2. Upon payment of the sum due, pursuant to Article 44(1), each successful bidder or its successors in title shall be delivered the allowances allocated to that bidder, as soon as practicable and in any event no later than the deadline for their delivery by transferring the allowances notified to the bidder pursuant to Article 61(3)(a) from a nominated holding account held in escrow by the clearing system or settlement system acting as custodian, in whole or in part into one or more nominated holding accounts held by the successful bidder or by its successors in title, or into a nominated holding account held in escrow by a clearing system or settlement system acting as custodian for the successful bidder or its successors in title.
+
+<a id="art_48"></a>
+
+### art_48
+
+Article 48
+
+1. Where the clearing system or settlement system fails to deliver the whole or part of the auctioned allowances due to circumstances outside its control, the clearing system or settlement system shall deliver the allowances at the earliest opportunity and the successful bidders or their successors in title shall accept delivery at that later date.
+
+2. The remedy provided for in paragraph 1 shall be the sole remedy to which a successful bidder or its successors in title shall be entitled to in case of any failure to deliver auctioned allowances, due to circumstances outside the control of the clearing system or settlement system concerned.
+
+<a id="art_49"></a>
+
+### art_49
+
+Article 49
+
+1. Prior to the opening of the bidding window for the auctioning of two-day spot or five-day futures, bidders or any intermediaries acting on their behalf, shall be required to give collateral.
+
+2. If so requested, any unused collateral posted by an unsuccessful bidder, together with any interest accrued on cash collateral, shall be released, as soon as practicable after the close of the bidding window.
+
+3. If so requested, any collateral posted by a successful bidder that has not been used for settlement, together with any interest accrued on cash collateral, shall be released, as soon as practicable after settlement.
+
+<a id="art_50"></a>
+
+### art_50
+
+Article 50
+
+1. Prior to the opening of the bidding window for the auctioning of two-day spot or five-day futures, the auctioneer shall only be required to give allowances as collateral to be held in escrow by the clearing system or settlement system acting as custodian, pending their delivery.
+
+2. When the legal measures and technical means necessary to deliver the allowances are implemented, any collateral given by Member States with respect to the auctioning of futures or forwards may, at the option of the auctioning Member State and with the agreement of the auction platform, be released and replaced by allowances to be held in escrow by the clearing system or settlement system acting as custodian, pending their delivery.
+
+3. Where any allowances given as collateral under paragraphs 1 or 2 are not used, the clearing system or settlement system may retain them, at the option of the auctioning Member State, in a nominated holding account held in escrow by the clearing system or settlement system acting as custodian, pending their delivery.
+
+<a id="art_51"></a>
+
+### art_51
+
+Article 51
+
+1. The structure and level of fees as well as any related conditions applied by any auction platform and the clearing system(s) and settlement system(s) shall be no less favourable than comparable standard fees and conditions applied on the secondary market.
+
+2. Any auction platform and the clearing system(s) and settlement system(s) may only apply fees, deductions or conditions explicitly set out in the contract appointing them.
+
+3. All fees and conditions applied pursuant to paragraphs 1 and 2 shall be clearly stated, easily understandable and publicly available. They shall be itemised indicating each charge made for each type of service.
+
+<a id="art_52"></a>
+
+### art_52
+
+Article 52
+
+1. Without prejudice to paragraph 2, the costs of the services provided for in Articles 27(1) and 28(1) and Article 31 shall be paid for through fees paid by the bidders, except that:
+
+| (a) | the cost of a central counterparty accepting a government guarantee instead of non-cash collateral when auctioning allowances as forwards shall be borne by the auctioning Member State offering the government guarantee; |
+| --- | --- |
+
+| (b) | any cost of the arrangements between the auctioneer and the auction platform referred to in Article 22(2) and (3) allowing the auctioneer to auction allowances on behalf of the appointing Member State, but excluding the costs of any clearing system or settlement system connected to the auction platform concerned, shall be borne by the auctioning Member State. |
+| --- | --- |
+
+The costs referred to in points (a) and (b) of the first subparagraph shall be deducted from the auction proceeds payable to the auctioneers, pursuant to Article 44(2) and (3).
+
+2. Where a Member State does not sign the joint procurement agreement referred to in the first subparagraph of Article 26(6) within the deadline provided for in Article 30(4), but subsequently joins the joint action, it may be required to bear its own share of the costs of the services provided for in Articles 27(1) and 28(1) from the date when that Member State commences auctioning through the auction platform appointed pursuant to Article 26(1) or (2) until the termination or expiry of the term of appointment of that auction platform.
+
+The extent to which such a Member State may be required to bear its own share of the costs of the services provided for in Articles 27(1) and 28(1), shall be provided for in the joint procurement agreement and the contract with the auction platform concerned.
+
+A Member State shall not be required to bear its own share of the costs pursuant to this paragraph where it joins the joint action following the expiry of the appointment period referred to in the second subparagraph of Article 30(5) or where it joins the joint action in the absence of a listing, pursuant to Article 30(7), of an auction platform, which has been notified pursuant to Article 30(6).
+
+The costs borne by bidders under paragraph 1 shall be reduced by the amount of the costs borne by a Member State under this paragraph.
+
+3. The share of the costs of the auction monitor that varies according to the number of auctions, as more particularly specified in the contract appointing the auction monitor, shall be evenly distributed over the number of auctions. All other costs of the auction monitor, as more particularly specified in the contract appointing the auction monitor, except for the cost relating to any report made pursuant to Article 25(4), shall be evenly distributed over the number of auction platforms, unless otherwise specified in the contract appointing the auction monitor.
+
+The share of the costs of the auction monitor relating to an auction platform appointed pursuant to Article 30(1) or (2), including the cost of any report requested pursuant to Article 25(4), shall be borne by the appointing Member State.
+
+The share of the costs of the auction monitor relating to an auction platform appointed pursuant to Article 26(1) or (2) shall be distributed between the Member States participating in the joint action in accordance with their shares in the total volume of allowances auctioned on the auction platform concerned.
+
+The costs of the auction monitor borne by each Member State shall be deducted from the auction proceeds payable by the auctioneers to the appointing Member State, pursuant to point (c) of Article 23.
+
+<a id="art_53"></a>
+
+### art_53
+
+Article 53
+
+1. Auctioneers, auction platforms and the competent national authorities supervising them shall, upon request, provide the auction monitor with any information in their possession relating to the auctions, as is reasonably required for the carrying out of the auction monitor’s functions.
+
+2. The auction monitor shall be entitled to observe the conduct of the auctions.
+
+3. Auctioneers, auction platforms and the competent national authorities supervising them shall assist the auction monitor in fulfilling its functions by actively cooperating with the auction monitor each within their own remit.
+
+4. The competent national authorities supervising credit institutions and investment firms and the competent national authorities supervising persons authorised to submit bids on behalf of others pursuant to Article 18(2) shall assist the auction monitor in fulfilling its functions by actively cooperating with the auction monitor within their competence.
+
+5. The obligations imposed on the competent national authorities in paragraphs 1, 3 and 4 shall take into account professional secrecy considerations to which they are subject under Union law.
+
+<a id="art_54"></a>
+
+### art_54
+
+Article 54
+
+1. An auction platform auctioning two-day spot or five-day futures shall monitor the relationship with bidders admitted to bid in its auctions throughout its subsistence, by doing the following:
+
+| (a) | scrutinising bids made throughout the course of that relationship to ensure that the bidding behaviour of bidders is consistent with the auction platform’s knowledge of the customer, its business and risk profile, including, where necessary, the source of funds; |
+| --- | --- |
+
+| (b) | maintaining effective arrangements and procedures for the regular monitoring of the compliance by persons admitted to bid pursuant to Article 19(1), (2) and (3) with its market conduct rules; |
+| --- | --- |
+
+| (c) | monitoring transactions undertaken by persons admitted to bid pursuant to Articles 19(1), (2) and (3) and 20(6) using its systems in order to identify breaches of the rules referred to in point (b) of this subparagraph, unfair or disorderly auctioning conditions or conduct that may invoke market abuse. |
+| --- | --- |
+
+Where scrutinising bids in accordance with point (a) of the first subparagraph, the auction platform concerned shall pay particular attention to any activity which it regards as particularly likely, by its nature, to be related to money laundering, terrorist financing or criminal activity.
+
+2. An auction platform auctioning two-day spot or five-day futures shall ensure that the documents, data or information it holds on a bidder are kept up-to-date. For this purpose, such an auction platform may:
+
+| (a) | request any information of the bidder, pursuant to Articles 19(2) and (3) and 20(5), (6) and (7), for the purposes of monitoring the relationship with that bidder following its admission to bid in the auctions, throughout the subsistence of that relationship and for a period of five years following its termination; |
+| --- | --- |
+
+| (b) | require any person admitted to bid to resubmit an application for admission to bid at regular intervals; |
+| --- | --- |
+
+| (c) | require any person admitted to bid to promptly notify the auction platform concerned of any changes to the information submitted to it pursuant to Articles 19(2) and (3) and 20(5), (6) and (7). |
+| --- | --- |
+
+3. An auction platform auctioning two-day spot or five-day futures shall keep records of:
+
+| (a) | the application for admission to bid submitted by an applicant, pursuant to Article 19(2) and (3), including any amendments thereto; |
+| --- | --- |
+
+| (b) | the checks carried out in:(i)processing the application for admission to bid submitted, pursuant to Articles 19, 20 and 21;(ii)scrutinising and monitoring the relationship, pursuant to points (a) and (c) of paragraph 1, following an applicant’s admission to bid; |
+| --- | --- |
+| (i) | processing the application for admission to bid submitted, pursuant to Articles 19, 20 and 21; |
+| (ii) | scrutinising and monitoring the relationship, pursuant to points (a) and (c) of paragraph 1, following an applicant’s admission to bid; |
+
+| (c) | all information relating to a given bid submitted by a given bidder in an auction, including any withdrawal or modification of such bids, pursuant to the second subparagraph of Article 6(3) and (4); |
+| --- | --- |
+
+| (d) | all information relating to the conduct of each auction in which a bidder has submitted a bid. |
+| --- | --- |
+
+4. An auction platform auctioning two-day spot or five-day futures shall keep the records referred to in paragraph 3 for as long as a bidder is admitted to bid in its auctions and for at least five years following the termination of the relationship with that bidder.
+
+<a id="art_55"></a>
+
+### art_55
+
+Article 55
+
+1. The competent national authorities referred to in Article 37(1) of Directive 2005/60/EC shall monitor and take the necessary measures to ensure compliance of an auction platform auctioning two-day spot or five-day futures with the customer due diligence requirements of Article 19 and Article 20(6) of this Regulation, the monitoring and record keeping requirements of Article 54 of this Regulation and the notification requirements of the paragraphs 2 and 3 of this Article.
+
+The competent national authorities referred to in the first subparagraph shall have the powers provided for in the national measures transposing Article 37(2) and (3) of Directive 2005/60/EC.
+
+An auction platform auctioning two-day spot or five-day futures may be held liable for infringements of Article 19, Articles 20(6) and (7) and 21(1) and (2), and Article 54 of this Regulation and paragraphs 2 and 3 of this Article. The national measures transposing Article 39 of Directive 2005/60/EC shall apply in this regard.
+
+2. An auction platform auctioning two-day spot or five-day futures, its directors and employees, shall cooperate fully with the FIU referred to in Article 21 of Directive 2005/60/EC by promptly:
+
+| (a) | informing the FIU, on their own initiative, where they know, suspect or have reasonable grounds to suspect that money laundering, terrorist financing or criminal activity is being or has been committed or attempted in the auctions; |
+| --- | --- |
+
+| (b) | providing the FIU, at its request, with all necessary information, in accordance with the procedures established by the applicable legislation. |
+| --- | --- |
+
+3. The information referred to in paragraph 2 shall be forwarded to the FIU of the Member State in whose territory the auction platform concerned is situated.
+
+The national measures transposing the compliance management and communication policies and procedures, referred to in Article 34(1) of Directive 2005/60/EC, shall designate the person or persons responsible for forwarding information pursuant to this Article.
+
+4. The Member State in whose territory an auction platform auctioning two-day spot or five-day futures is situated shall ensure that the national measures transposing Articles 26 to 29, 32, Article 34(1) and Article 35 of Directive 2005/60/EC apply to the auction platform concerned.
+
+<a id="art_56"></a>
+
+### art_56
+
+Article 56
+
+1. An auction platform auctioning two-day spot or five-day futures, shall notify the competent national authorities designated pursuant to Article 43(2) of Directive 2004/39/EC, responsible for supervising the auction platform concerned or for investigating and prosecuting market abuse, occurring on or through the systems of the auction platform concerned, of suspicion of market abuse by any person admitted to bid in the auctions or by any person on whose behalf the person admitted to bid in the auctions is acting.
+
+National measures transposing Article 25(2) of Directive 2005/60/EC shall apply.
+
+2. The auction platform concerned shall notify the auction monitor and the Commission of the fact that it has made a notification under paragraph 1, stating what remedial action it has taken or proposes to take to counter the wrongdoing referred to in paragraph 1.
+
+<a id="art_57"></a>
+
+### art_57
+
+Article 57
+
+1. A maximum bid-size, or any other remedial measures necessary to mitigate an actual or potential discernible risk of market abuse, money laundering, terrorist financing or other criminal activity, as well as anti-competitive behaviour, may be imposed by any auction platform after consulting the Commission and obtaining its opinion thereon, provided that implementation of a maximum bid-size or any other remedial measures would effectively mitigate the risk in question. The Commission may consult the Member States concerned and the auction monitor and obtain their opinion on the proposal made by the auction platform concerned. The auction platform concerned shall take the utmost account of the Commission’s opinion.
+
+2. The maximum bid-size shall either be expressed as a percentage of the total number of auctioned allowances in any given auction or a percentage of the total number of auctioned allowances in any given year, whichever may be most appropriate to deal with the risk of market abuse identified in Article 56(1).
+
+3. For the purposes of this Article, maximum bid-size means the maximum number of allowances that may be bid for, directly or indirectly, by any group of persons listed in Article 18(1) or (2), which belong to any of the following categories:
+
+| (a) | the same group of undertakings including any parent undertakings, its subsidiary undertakings and affiliate undertakings; |
+| --- | --- |
+
+| (b) | the same business grouping; |
+| --- | --- |
+
+| (c) | a separate economic unit having an independent power of decision where they are controlled, directly or indirectly, by public bodies or state-owned entities. |
+| --- | --- |
+
+<a id="art_58"></a>
+
+### art_58
+
+Article 58
+
+Articles 53 to 57 shall be without prejudice to any other action that an auction platform auctioning two-day spot or five-day futures is entitled to take under its market conduct rules or any other contractual arrangements in place, directly or indirectly, with any bidders admitted to bid in the auctions, provided that such action does not conflict with or undermine the provisions of Articles 53 to 57.
+
+<a id="art_59"></a>
+
+### art_59
+
+Article 59
+
+1. This Article shall apply to:
+
+| (a) | persons authorised to bid pursuant to Article 18(2); |
+| --- | --- |
+
+| (b) | investment firms and credit institutions referred to Article 18(1)(b) and (c) authorised to bid pursuant to Article 18(3). |
+| --- | --- |
+
+2. Persons referred to in paragraph 1 shall apply the following conduct rules in their relationship with their clients:
+
+| (a) | they shall accept instructions from their clients on comparable terms; |
+| --- | --- |
+
+| (b) | they may refuse to bid on behalf of a client if they have reasonable grounds to suspect money laundering, terrorist financing, criminal activity or market abuse, subject to national legislation transposing Articles 24 and 28 of Directive 2005/60/EC; |
+| --- | --- |
+
+| (c) | they may refuse to bid on behalf of a client if they have reasonable grounds to suspect that the client is unable to pay for the allowances for which it is seeking to bid; |
+| --- | --- |
+
+| (d) | they shall enter into a written agreement with their clients. Agreements entered into shall not impose any unfair conditions or restrictions on the client concerned. They shall provide for all the terms and conditions relating to the services offered including in particular payment and delivery of the allowances; |
+| --- | --- |
+
+| (e) | they may require their clients to make a deposit by way of advance payment for allowances; |
+| --- | --- |
+
+| (f) | they may not unduly limit the number of bids that a client might submit; |
+| --- | --- |
+
+| (g) | they may not prevent or restrict their clients from engaging the services of other entities eligible pursuant to Article 18(1)(b) to (e) and Article 18(2) to bid on their behalf in the auctions; |
+| --- | --- |
+
+| (h) | they shall pay due regard to the interests of their clients who request them to submit bids on their behalf in the auctions; |
+| --- | --- |
+
+| (i) | they shall treat clients fairly and without discrimination; |
+| --- | --- |
+
+| (j) | they shall maintain adequate internal systems and procedures to process requests from clients to act as agent in an auction and to be able to participate effectively in an auction in particular with regard to the submission of bids on behalf of their clients, collect payment and collateral from and transfer allowances to clients for whom they act; |
+| --- | --- |
+
+| (k) | they shall prevent the disclosure of confidential information from that part of their business responsible for receiving, preparing and submitting bids on behalf of their clients to that part of their business responsible for preparing and submitting bids on their own account or to that part of their business responsible for dealing on their own account on the secondary market; |
+| --- | --- |
+
+| (l) | they shall keep records of information obtained or created in their role as intermediaries handling bids on behalf of their clients in the auctions, for five years from the date of obtaining or creating the information concerned. |
+| --- | --- |
+
+The amount of the deposit referred to in point (e) shall be calculated on a just and reasonable basis.
+
+The method of calculating the deposit referred to in point (e) shall be set out in the agreements entered into pursuant to point (d).
+
+Any part of the deposit referred to in point (e) not used to satisfy payment for allowances shall be refunded to the payee within a reasonable period after the auction as stated in the agreements entered into pursuant to point (d).
+
+3. Persons referred to in paragraph 1 shall apply the following conduct rules when bidding on their own account or on behalf of their clients:
+
+| (a) | they shall provide any information requested by any auction platform where they are admitted to bid or by the auction monitor to fulfil their respective functions under this Regulation; |
+| --- | --- |
+
+| (b) | they shall act with integrity, reasonable skill, care and diligence. |
+| --- | --- |
+
+4. The competent national authorities designated by the Member States where the persons referred to in paragraph 1 are established shall be responsible for authorising such persons to carry out the activities referred to in that paragraph and for monitoring and enforcing compliance with the conduct rules provided for in paragraphs 2 and 3 including the handling of any complaints made for non-compliance with such conduct rules.
+
+5. The competent national authorities referred to in paragraph 4 shall only grant an authorisation to the persons referred to in paragraph 1 where the persons fulfil all of the following conditions:
+
+| (a) | they are of sufficiently good repute and sufficiently experienced as to ensure proper respect of the conduct rules provided for in paragraphs 2 and 3; |
+| --- | --- |
+
+| (b) | they have put in place the necessary processes and checks to manage conflicts of interest and serve the best interests of their clients; |
+| --- | --- |
+
+| (c) | they comply with the requirements of national legislation transposing Directive 2005/60/EC; |
+| --- | --- |
+
+| (d) | they comply with any other measures deemed necessary having regard to the nature of the bidding services being offered and the level of sophistication of the clients in question in terms of their investor or trading profile as well as any risk-based assessment of the likelihood of money laundering, terrorist financing or criminal activity. |
+| --- | --- |
+
+6. The competent national authorities of the Member State where the persons referred to in paragraph 1 are authorised shall monitor and enforce the conditions listed in paragraph 5. The Member State shall ensure that:
+
+| (a) | its competent national authorities have at their disposal the necessary investigative powers and sanctions that are effective, proportionate and dissuasive; |
+| --- | --- |
+
+| (b) | a mechanism is established for the handling of complaints and the withdrawal of authorisations where the authorised persons are in breach of their obligations pursuant to such authorisation; |
+| --- | --- |
+
+| (c) | its competent national authorities may withdraw the authorisation granted under paragraph 5 where a person referred to in paragraph 1 has seriously and systematically infringed the provisions of paragraphs 2 and 3. |
+| --- | --- |
+
+7. Clients of bidders referred to in paragraph 1 may direct any complaints that they may have with regard to compliance with the conduct rules provided for in paragraph 2 to the competent authorities mentioned in paragraph 3 in accordance with the procedural rules laid down for the handling of such complaints in the Member State where the persons referred to in paragraph 1 are supervised.
+
+8. Persons referred to in paragraph 1 that are admitted to bid at an auction platform pursuant to Articles 18, 19 and 20 shall be allowed, without further legal or administrative requirements of the Member States, to provide bidding services to clients referred to in point (a) of Article 19(3).
+
+<a id="art_60"></a>
+
+### art_60
+
+Article 60
+
+1. All legislation, guidance, instructions, forms, documents, announcements, including the auction calendar, any other non-confidential information pertinent to the auctions on a given auction platform, any decision, including any decision pursuant to Article 57, to impose a maximum bid-size and any other remedial measures necessary to mitigate an actual or potential discernible risk of money-laundering, terrorist financing, criminal activity or market abuse on that auction platform, shall be published on a dedicated up-to-date auctioning web-site maintained by the auction platform concerned.
+
+Information which is no longer relevant shall be archived. Such archives shall be accessible through the same auctioning web-site.
+
+2. Non-confidential versions of the auction monitor’s reports to the Member States and the Commission pursuant to Article 25(1) and (2) shall be published on the Commission’s website.
+
+Reports which are no longer relevant shall be archived. Such archives shall be accessible through the Commission’s web-site.
+
+3. A list of the names, addresses, telephone and facsimile numbers, electronic mail addresses and websites of all persons admitted to bid on behalf of others in auctions conducted by any auction platform auctioning two-day spot or five-day futures shall be published on the website maintained by the auction platform concerned.
+
+<a id="art_61"></a>
+
+### art_61
+
+Article 61
+
+1. An auction platform shall announce the results of each auction it conducts as soon as is reasonably practicable and no later than 15 minutes after the close of the bidding window.
+
+2. The announcement made pursuant to paragraph 1 shall at least include the following:
+
+| (a) | the volume of the allowances auctioned; |
+| --- | --- |
+
+| (b) | the auction clearing price in euros; |
+| --- | --- |
+
+| (c) | the total volume of bids submitted; |
+| --- | --- |
+
+| (d) | the total number of bidders and the number of successful bidders; |
+| --- | --- |
+
+| (e) | in case of cancellation of an auction, the auctions to which the volume of allowances will be carried over; |
+| --- | --- |
+
+| (f) | the total revenue earned from the auction; |
+| --- | --- |
+
+| (g) | the distribution of the revenue between the Member States, in the case of auction platforms appointed pursuant to Article 26(1) or (2). |
+| --- | --- |
+
+3. At the same time as the announcement pursuant to paragraph 1, the auction platform shall notify each successful bidder bidding through its systems:
+
+| (a) | the total number of allowances to be allocated to that bidder; |
+| --- | --- |
+
+| (b) | which of its tied bids, if any, were randomly selected; |
+| --- | --- |
+
+| (c) | the payment due either in euros or in the currency of a Member State not member of the euro-zone, chosen by the bidder provided that the clearing system or settlement system is capable of handling the national currency in question; |
+| --- | --- |
+
+| (d) | the date by which the payment due must be paid in cleared funds into the auctioneer’s nominated bank account. |
+| --- | --- |
+
+4. Where the currency chosen by the bidder is not euros an auction platform shall notify a successful bidder bidding in auctions conducted by it of the exchange rate it has used to calculate the amount due in the currency chosen by the successful bidder.
+
+The exchange rate shall be the rate published on a recognised financial newswire service specified in the contract appointing the auction platform concerned, immediately following the close of the bidding window.
+
+5. An auction platform shall notify the relevant clearing system and settlement system connected to it of the information notified to each successful bidder, pursuant to paragraph 3.
+
+<a id="art_62"></a>
+
+### art_62
+
+Article 62
+
+1. The following shall constitute confidential information:
+
+| (a) | the contents of a bid; |
+| --- | --- |
+
+| (b) | the contents of any instructions to bid even when no bid is submitted; |
+| --- | --- |
+
+| (c) | information which discloses, or from which can be deduced, the identity of the bidder in question and either of the following:(i)the number of allowances which a bidder wishes to acquire in an auction;(ii)the price which a bidder is willing to pay for those allowances; |
+| --- | --- |
+| (i) | the number of allowances which a bidder wishes to acquire in an auction; |
+| (ii) | the price which a bidder is willing to pay for those allowances; |
+
+| (d) | information about, or derived from, one or more bids or instructions to bid which either separately or collectively would be likely to:(i)give an indication as to the demand for allowances prior to any auction;(ii)give an indication as to the auction clearing price prior to any auction; |
+| --- | --- |
+| (i) | give an indication as to the demand for allowances prior to any auction; |
+| (ii) | give an indication as to the auction clearing price prior to any auction; |
+
+| (e) | information provided by persons in the framework of the establishment or maintenance of the relationship with bidders or in the framework of the monitoring of that relationship pursuant to Articles 19, 20, 21 and 54; |
+| --- | --- |
+
+| (f) | the auction monitor reports and opinions made pursuant to Article 25(1) to (6) except for the parts contained in any non-confidential versions of the auction monitor’s reports published by the Commission pursuant to Article 60(2); |
+| --- | --- |
+
+| (g) | business secrets provided by persons participating in a competitive procurement process to appoint an auction platform or the auction monitor; |
+| --- | --- |
+
+| (h) | information on the algorithm used for the random selection of tied bids, referred to in Article 7(2); |
+| --- | --- |
+
+| (i) | information on the methodology to define what constitutes an auction clearing price significantly under the prevailing secondary market price before and during an auction, referred to in Article 7(6). |
+| --- | --- |
+
+2. Confidential information shall not be disclosed by any person who obtained that information, whether directly or indirectly, other than in accordance with paragraph 3.
+
+3. Paragraph 2 shall not prevent the disclosure of confidential information which:
+
+| (a) | has already lawfully been made available to the public; |
+| --- | --- |
+
+| (b) | is made public with the written consent of a bidder, person admitted to bid, or person applying for admission to bid; |
+| --- | --- |
+
+| (c) | is required to be disclosed or to be publicly available by an obligation under Union law; |
+| --- | --- |
+
+| (d) | is made public pursuant to a court order; |
+| --- | --- |
+
+| (e) | is made public for the purposes of any criminal, administrative, or judicial investigations or proceedings carried out in the Union; |
+| --- | --- |
+
+| (f) | is disclosed by an auction platform to the auction monitor for the purpose of enabling or assisting the auction monitor to carry out its functions or to fulfil its obligations in relation to the auctions; |
+| --- | --- |
+
+| (g) | is aggregated or redacted prior to its disclosure, so that it is unlikely that information relating to the following is discernable:(i)individual bids or instructions to bid;(ii)individual auctions;(iii)individual bidders, prospective bidders or persons applying for admission to bid;(iv)individual applications for admission to bid;(v)individual relationships with bidders; |
+| --- | --- |
+| (i) | individual bids or instructions to bid; |
+| (ii) | individual auctions; |
+| (iii) | individual bidders, prospective bidders or persons applying for admission to bid; |
+| (iv) | individual applications for admission to bid; |
+| (v) | individual relationships with bidders; |
+
+| (h) | is referred to in paragraph 1(f) provided that it is disclosed to the public in a non-discriminatory and orderly fashion by the competent national authorities of Member States for information covered by Article 25(2)(c) and by the Commission for other information covered by Article 25(2); |
+| --- | --- |
+
+| (i) | is referred to in paragraph 1(g) provided that it is disclosed to persons working for Member States or the Commission involved in the competitive procurement process referred to in paragraph 1(g), who are themselves bound by an obligation of professional secrecy under their terms of employment; |
+| --- | --- |
+
+| (j) | is made public after the end of a period of 30 months starting from either of the following dates, subject to any subsisting professional secrecy obligations under Union law:(i)the date of the opening of the bidding window of the auction in which the confidential information is first disclosed with respect to confidential information in paragraph 1(a) to (d);(ii)the date of the termination of the relationship with a bidder with respect to confidential information in paragraph 1(e);(iii)the date of the auction monitor’s report or opinion with respect to confidential information in paragraph 1(f);(iv)the date of submission of the information in the competitive procurement process with respect to confidential information in paragraph 1(g). |
+| --- | --- |
+| (i) | the date of the opening of the bidding window of the auction in which the confidential information is first disclosed with respect to confidential information in paragraph 1(a) to (d); |
+| (ii) | the date of the termination of the relationship with a bidder with respect to confidential information in paragraph 1(e); |
+| (iii) | the date of the auction monitor’s report or opinion with respect to confidential information in paragraph 1(f); |
+| (iv) | the date of submission of the information in the competitive procurement process with respect to confidential information in paragraph 1(g). |
+
+4. The measures required to ensure that confidential information is not wrongfully disclosed and the consequences of any such wrongful disclosure by an auction platform or the auction monitor, including any persons contracted to work for them, shall be set out in the contracts appointing them.
+
+5. Confidential information obtained by an auction platform or the auction monitor, including any persons contracted to work for them, shall be used solely for the purpose of the performance of their obligations or the exercise of their functions with respect to the auctions.
+
+6. Paragraphs 1 to 5 shall not preclude the exchange of confidential information between an auction platform and the auction monitor, nor between any one of them and:
+
+| (a) | the competent national authorities supervising an auction platform; |
+| --- | --- |
+
+| (b) | the competent national authorities responsible for investigating and prosecuting money laundering, terrorist financing, criminal activity or market abuse; |
+| --- | --- |
+
+| (c) | the Commission. |
+| --- | --- |
+
+Confidential information exchanged under this paragraph shall not be disclosed to other persons than those referred to in points (a), (b) and (c) contrary to paragraph 2.
+
+7. Any person who works, or has worked for, an auction platform or the auction monitor involved in the auctions, shall be bound by the obligation of professional secrecy and shall ensure that confidential information is protected pursuant to this Article.
+
+<a id="art_63"></a>
+
+### art_63
+
+Article 63
+
+1. Written information provided by an auction platform pursuant to Article 60(1) and (3), or by the auction monitor pursuant to Article 60(2), or under the contract appointing them, which is not published in the Official Journal of the European Union, shall be in a language customary in the sphere of international finance.
+
+2. Any Member State may provide, at its own cost, for the translation of all information covered by paragraph 1 of an auction platform, into the official language(s) of that Member State.
+
+Where a Member State provides, at its own cost, for the translation of all information covered by paragraph 1 provided by the auction platform appointed pursuant to Article 26(1), any Member State having appointed an auction platform pursuant to Article 30(1) shall also provide, at its own cost, for the translation into the same language(s) of all information covered by paragraph 1 provided by the auction platform it has appointed pursuant to Article 30(1).
+
+3. Applicants for admission to bid and persons admitted to bid may submit the following in the official language of the Union they have chosen under paragraph 4 provided that a Member State has decided to provide a translation in that language under paragraph 2:
+
+| (a) | their applications for admission to bid, including any supporting documents; |
+| --- | --- |
+
+| (b) | their bids, including any withdrawal or modifications thereof; |
+| --- | --- |
+
+| (c) | any queries relating to points (a) or (b). |
+| --- | --- |
+
+An auction platform may request a certified translation into a language customary in the sphere of international finance.
+
+4. Applicants for admission to bid, persons admitted to bid and bidders participating in an auction, shall choose any official language of the Union in which they shall receive all notifications made pursuant to Articles 8(3), 20(10), 21(4) and 61(3).
+
+All other oral or written communication by any auction platform to applicants for admission to bid, persons admitted to bid or bidders participating in an auction, shall be made in the language chosen under the first subparagraph at no additional cost to the applicants, persons and bidders in question, provided that a Member State has decided to provide a translation in that language under paragraph 2.
+
+However, even where a Member State pursuant to paragraph 2 has decided to provide a translation in the language chosen under the first subparagraph of this paragraph, the applicant for admission to bid, the person admitted to bid or the bidder participating in an auction, may waive its right under the second subparagraph of this paragraph by giving prior written consent for the auction platform concerned to use only a language customary in the sphere of international finance.
+
+5. Member States shall be responsible for the accuracy of any translation made pursuant to paragraph 2.
+
+Persons submitting a translation of a document referred to in paragraph 3 and any auction platform notifying a translated document under paragraph 4 shall be responsible for ensuring that it is an accurate translation of the original.
+
+<a id="art_64"></a>
+
+### art_64
+
+Article 64
+
+1. An auction platform shall ensure that it has in place an extra-judicial mechanism to deal with complaints from applicants for admission to bid, bidders admitted to bid, or whose admission to bid has been refused, revoked or suspended.
+
+2. Member States where a regulated market appointed as an auction platform or its market operator are supervised, shall ensure that any decisions made by the extra-judicial mechanism dealing with complaints referred to in paragraph 1 of this Article are properly reasoned and are subject to the right to apply to the courts referred to in Article 52(1) of Directive 2004/39/EC. That right shall be without prejudice to any rights of appealing directly to the courts or competent administrative bodies provided for in the national measures transposing Article 52(2) of Directive 2004/39/EC.
+
+<a id="art_65"></a>
+
+### art_65
+
+Article 65
+
+1. Any errors in any payment or allowance transfers made and collateral or deposit given or released under this Regulation shall be notified to the clearing system or settlement system as soon as it comes to the notice of any person.
+
+2. The clearing system or settlement system shall take whatever measures necessary to rectify any errors in any payment or allowance transfers made and collateral or deposit given or released under this Regulation which come to their attention by whatever means.
+
+3. Any person benefiting from an error under paragraph 1 which cannot be rectified under paragraph 2, due to the intervening rights of a third party purchaser in good faith, who knew of or ought to have known of the error and failed to notify it to the clearing system or settlement system, shall be liable to make good any damage caused.
+
+<a id="art_66"></a>
+
+### art_66
+
+Article 66
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.

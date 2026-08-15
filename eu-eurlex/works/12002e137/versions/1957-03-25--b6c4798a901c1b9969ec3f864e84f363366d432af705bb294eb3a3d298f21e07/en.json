@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12002e137:1957-03-25--b6c4798a901c1b9969ec3f864e84f363366d432af705bb294eb3a3d298f21e07",
+  "language": "en",
+  "title": "Treaty establishing the European Community (Nice consolidated version)#Part Three: Communi…",
+  "valid_from": "1957-03-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12002e137/versions/1957-03-25--b6c4798a901c1b9969ec3f864e84f363366d432af705bb294eb3a3d298f21e07/en.html",
+    "sha256": "cdfe3ebe2dad293e0f2f8ed6d5af8ab19c5d8eb0172adafb81a19e1ce7be6c1c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12002E137"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12002e137:1957-03-25--b6c4798a901c1b9969ec3f864e84f363366d432af705bb294eb3a3d298f21e07#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 12002E137 Treaty establishing the European Community (Nice consolidated version) - Part Three: Community policies - Title XI: Social policy, education, vocational training and youth - Chapter 1: Social Provisions - Article 137 - Article 118 - EC Treaty (Maastricht consolidated version) - Article 118 - EEC Treaty Official Journal C 325 , 24/12/2002 P. 0093 - 0094 Official Journal C 340 , 10/11/1997 P. 0239 - Consolidated version Official Journal C 224 , 31/08/1992 P. 0045 - Consolidated version (EEC Treaty - no official publication available) Treaty establishing the European Community (Nice consolidated version)Part Three: Community policiesTitle XI: Social policy, education, vocational training and youthChapter 1: Social ProvisionsArticle 137Article 118 - EC Treaty (Maastricht consolidated version)Article 118 - EEC TreatyArticle 137 1. With a view to achieving the objectives of Article 136, the Community shall support and complement the activities of the Member States in the following fields:(a) improvement in particular of the working environment to protect workers' health and safety;(b) working conditions;(c) social security and social protection of workers;(d) protection of workers where their employment contract is terminated;(e) the information and consultation of workers;(f) representation and collective defence of the interests of workers and employers, including co-determination, subject to paragraph 5;(g) conditions of employment for third-country nationals legally residing in Community territory;(h) the integration of persons excluded from the labour market, without prejudice to Article 150;(i) equality between men and women with regard to labour market opportunities and treatment at work;(j) the combating of social exclusion;(k) the modernisation of social protection systems without prejudice to point (c).2. To this end, the Council:(a) may adopt measures designed to encourage cooperation between Member States through initiatives aimed at improving knowledge, developing exchanges of information and best practices, promoting innovative approaches and evaluating experiences, excluding any harmonisation of the laws and regulations of the Member States;(b) may adopt, in the fields referred to in paragraph 1(a) to (i), by means of directives, minimum requirements for gradual implementation, having regard to the conditions and technical rules obtaining in each of the Member States. Such directives shall avoid imposing administrative, financial and legal constraints in a way which would hold back the creation and development of small and medium-sized undertakings.The Council shall act in accordance with the procedure referred to in Article 251 after consulting the Economic and Social Committee and the Committee of the Regions, except in the fields referred to in paragraph 1(c), (d), (f) and (g) of this article, where the Council shall act unanimously on a proposal from the Commission, after consulting the European Parliament and the said Committees. The Council, acting unanimously on a proposal from the Commission, after consulting the European Parliament, may decide to render the procedure referred to in Article 251 applicable to paragraph 1(d), (f) and (g) of this article.3. A Member State may entrust management and labour, at their joint request, with the implementation of directives adopted pursuant to paragraph 2.In this case, it shall ensure that, no later than the date on which a directive must be transposed in accordance with Article 249, management and labour have introduced the necessary measures by agreement, the Member State concerned being required to take any necessary measure enabling it at any time to be in a position to guarantee the results imposed by that directive.4. The provisions adopted pursuant to this article:- shall not affect the right of Member States to define the fundamental principles of their social security systems and must not significantly affect the financial equilibrium thereof,- shall not prevent any Member State from maintaining or introducing more stringent protective measures compatible with this Treaty.5. The provisions of this article shall not apply to pay, the right of association, the right to strike or the right to impose lock-outs.",
+      "text_sha256": "0b2af19e9894130cdcc3e852757285ffd1f59be78ccbda2acbb8d4404f91d76d",
+      "md_span": {
+        "start": 713,
+        "end": 5001
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

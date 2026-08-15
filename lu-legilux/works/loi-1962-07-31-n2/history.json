@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-1962-07-31-n2",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "1369a41099f2fbd5e0e8f855aca4e7e0598b266842b1cb942e7275786a08160c",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -20,7 +20,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "5dc74f6d07d25a3fcac29bc3de88c10ba6712799b4de65cc6cff6738217ca3c1",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -29,7 +29,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "49bb8f197f8fb99669c0b5f32acfb62381f882443ce70778e2ea42dd180f33c3",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -38,7 +38,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "e1c8d670aa6b88a6205614e79088542b6a08434f881067810de1b2e2a4efd719",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -47,14 +47,14 @@
         "valid_from": "2016-07-15",
         "valid_to": "2026-03-02",
         "text_sha256": "856eb0455d6d0319cc2170b107e1acbc7dfb46510e69ec233127998a59ce8e75",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       },
       {
         "valid_from": "2026-03-03",
         "valid_to": null,
         "text_sha256": "b1867cedd2e2dab07e5240b5d7979a7f8cb92a404670a4516ed4f53899d1ba5c",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
         "article_valid_from": "2026-03-03"
       }
     ],
@@ -63,7 +63,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "9a2050f6444f54866ef926540e5a6469902c3f16e6b91b95433c963acd12d279",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15"
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30"
       }
     ],
     "art_1er": [
@@ -71,14 +71,14 @@
         "valid_from": "2016-07-15",
         "valid_to": "2026-03-02",
         "text_sha256": "7e6047be41cc3f3f5c9cc375664c5f6cc6d11e717f8979d80b66381c080f0f40",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       },
       {
         "valid_from": "2026-03-03",
         "valid_to": null,
         "text_sha256": "fc66570035b469054aa32e3e9bd0cb070e20a7d2a52028175b527029844864aa",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
         "article_valid_from": "2026-03-03"
       }
     ],
@@ -87,14 +87,14 @@
         "valid_from": "2016-07-15",
         "valid_to": "2026-03-02",
         "text_sha256": "dba26672515151095a388e5a97be91f2128ad0a88dd2d258c8dc37b1e3a68d33",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       },
       {
         "valid_from": "2026-03-03",
         "valid_to": null,
         "text_sha256": "0506b8a225fa92d8e749af3749b5716ef041113517b6e94614411fe6c28085e8",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
         "article_valid_from": "2026-03-03"
       }
     ],
@@ -103,7 +103,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "3556d36643f1945575194697e1538a262e990741504f24ad00a80e4843c3ae55",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -112,7 +112,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "79dad56ac248dc1218194a3b51eb1de8f2a0cabf8066fe39bf2e0330ceae6e07",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -121,7 +121,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "52ad57659aa31e6d3ea0db7a699c4049f07af5c6a7161da14f1aca39215cece8",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -130,7 +130,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "afc9ca6935738c6abca2ba91245e374ecfd0f424e03972663e0076512455dd04",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -139,7 +139,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "fbc32529f202b4f01e891b65dfddf31830611f27a72412ba8da79bc84af0a61f",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ],
@@ -148,7 +148,7 @@
         "valid_from": "2016-07-15",
         "valid_to": null,
         "text_sha256": "ab4ec77586e7869cf6c36ecd5b8fd3a4f7b39bd84d0b732995e8e16ecde040d0",
-        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+        "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
         "article_valid_from": "2016-07-15"
       }
     ]
@@ -161,7 +161,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "1369a41099f2fbd5e0e8f855aca4e7e0598b266842b1cb942e7275786a08160c",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -170,7 +170,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "5dc74f6d07d25a3fcac29bc3de88c10ba6712799b4de65cc6cff6738217ca3c1",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -179,7 +179,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "49bb8f197f8fb99669c0b5f32acfb62381f882443ce70778e2ea42dd180f33c3",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -188,7 +188,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "e1c8d670aa6b88a6205614e79088542b6a08434f881067810de1b2e2a4efd719",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -197,14 +197,14 @@
           "valid_from": "2016-07-15",
           "valid_to": "2026-03-02",
           "text_sha256": "856eb0455d6d0319cc2170b107e1acbc7dfb46510e69ec233127998a59ce8e75",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         },
         {
           "valid_from": "2026-03-03",
           "valid_to": null,
           "text_sha256": "b1867cedd2e2dab07e5240b5d7979a7f8cb92a404670a4516ed4f53899d1ba5c",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
           "article_valid_from": "2026-03-03"
         }
       ],
@@ -213,7 +213,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "9a2050f6444f54866ef926540e5a6469902c3f16e6b91b95433c963acd12d279",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15"
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30"
         }
       ],
       "art_1er": [
@@ -221,14 +221,14 @@
           "valid_from": "2016-07-15",
           "valid_to": "2026-03-02",
           "text_sha256": "7e6047be41cc3f3f5c9cc375664c5f6cc6d11e717f8979d80b66381c080f0f40",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         },
         {
           "valid_from": "2026-03-03",
           "valid_to": null,
           "text_sha256": "fc66570035b469054aa32e3e9bd0cb070e20a7d2a52028175b527029844864aa",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
           "article_valid_from": "2026-03-03"
         }
       ],
@@ -237,14 +237,14 @@
           "valid_from": "2016-07-15",
           "valid_to": "2026-03-02",
           "text_sha256": "dba26672515151095a388e5a97be91f2128ad0a88dd2d258c8dc37b1e3a68d33",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         },
         {
           "valid_from": "2026-03-03",
           "valid_to": null,
           "text_sha256": "0506b8a225fa92d8e749af3749b5716ef041113517b6e94614411fe6c28085e8",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2026-03-03--6e00120cae9aae0e6874a3d902b4c14b53168a1c9ce66f52344500c35754e852",
           "article_valid_from": "2026-03-03"
         }
       ],
@@ -253,7 +253,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "3556d36643f1945575194697e1538a262e990741504f24ad00a80e4843c3ae55",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -262,7 +262,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "79dad56ac248dc1218194a3b51eb1de8f2a0cabf8066fe39bf2e0330ceae6e07",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -271,7 +271,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "52ad57659aa31e6d3ea0db7a699c4049f07af5c6a7161da14f1aca39215cece8",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -280,7 +280,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "afc9ca6935738c6abca2ba91245e374ecfd0f424e03972663e0076512455dd04",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -289,7 +289,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "fbc32529f202b4f01e891b65dfddf31830611f27a72412ba8da79bc84af0a61f",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ],
@@ -298,7 +298,7 @@
           "valid_from": "2016-07-15",
           "valid_to": null,
           "text_sha256": "ab4ec77586e7869cf6c36ecd5b8fd3a4f7b39bd84d0b732995e8e16ecde040d0",
-          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+          "in_version": "lu-legilux:loi-1962-07-31-n2:2016-07-15--65dd887a7a8234024caababf323d20bf124925a7fda05082e31d24f227578b30",
           "article_valid_from": "2016-07-15"
         }
       ]

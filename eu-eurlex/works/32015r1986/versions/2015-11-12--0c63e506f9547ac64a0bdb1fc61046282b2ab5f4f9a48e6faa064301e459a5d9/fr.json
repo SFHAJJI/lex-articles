@@ -1,0 +1,558 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/1986 of 11 November 2015 establishing standar…",
+  "valid_from": "2015-11-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1986/versions/2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9/fr.html",
+    "sha256": "2b4135a9e5a3246eca390663f98f359b6e695d9cdbdd61046a99d92c428baaa9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015R1986-20151112"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les pouvoirs adjudicateurs utilisent, pour la publication au *Journal officiel de l'Union européenne* des avis visés aux articles 48, 49, 50, 72, 75 et 79 de la directive 2014/24/UE, les formulaires standard figurant aux annexes I, II, III, aux annexes VIII à XI et aux annexes XVII et XVIII du présent règlement.",
+      "text_sha256": "4fc5ddd6963e27272b4fc1fdb041865bd6e709a29cd0f129eea980974bc451d4",
+      "md_span": {
+        "start": 727,
+        "end": 1040
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les entités adjudicatrices utilisent, pour la publication au *Journal officiel de l'Union européenne* des avis visés aux articles 67 à 70 et aux articles 89, 92 et 96 de la directive 2014/25/UE, les formulaires standard figurant aux annexes IV à XI et aux annexes XVII et XIX du présent règlement.",
+      "text_sha256": "6cf429ce25195f9f6f0c36efdecac37539a3c8df95d7b163018ab59198727334",
+      "md_span": {
+        "start": 1077,
+        "end": 1374
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les pouvoirs adjudicateurs et les entités adjudicatrices utilisent, pour la publication au *Journal officiel de l'Union européenne* des avis visés aux articles 30 et 52 et à l'article 60, paragraphe 4, deuxième alinéa, de la directive 2009/81/CE, les formulaires standard figurant aux annexes XIII à XVI du présent règlement.",
+      "text_sha256": "88603a31a1bc4545d4b41f91bc89d8e08fb8f398a1fc6c770adc668aaa4cfe11",
+      "md_span": {
+        "start": 1411,
+        "end": 1736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les pouvoirs adjudicateurs et les entités adjudicatrices utilisent, pour la publication au *Journal officiel de l'Union européenne* des avis visés aux articles 31, 32 et 43 de la directive 2014/23/UE, les formulaires standard figurant aux annexes XI, ►C1 XVII** ◄ **, XX, XXI et XXII du présent règlement.",
+      "text_sha256": "a34088700cba3813847810fe68b2fcf138e78cb75ea5e649ea03d26dc36aeba0",
+      "md_span": {
+        "start": 1773,
+        "end": 2078
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32015R1986R%2802%29",
+          "text": "►C1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les pouvoirs adjudicateurs et les entités adjudicatrices utilisent, pour la publication au *Journal officiel de l'Union européenne* des avis visés à l'article 2 *quinquies*, paragraphe 4, deuxième alinéa, des directives 89/665/CEE et 92/13/CEE, le formulaire standard figurant à l'annexe XII du présent règlement.",
+      "text_sha256": "39ba101244d34ab3e9f466cc773daf8a1d4623cc65a68af9b94160fd89523569",
+      "md_span": {
+        "start": 2115,
+        "end": 2428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les pouvoirs adjudicateurs et les entités adjudicatrices transmettent les formulaires à l'Office des publications de l'Union européenne par voie électronique, au moyen de l'application en ligne eNotices ou du système TED eSender.",
+      "text_sha256": "5b3008ace3db89646b20e6bf45ec72fa5250ad7e85108342c4462076feadc723",
+      "md_span": {
+        "start": 2465,
+        "end": 2694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les formulaires standard suivants sont établis:\n\nListe des formulaires standard\n\n| Formulaire standard 1 | : | «Avis de préinformation»: annexe I |\n| --- | --- | --- |\n\n| Formulaire standard 2 | : | «Avis de marché»: annexe II |\n| --- | --- | --- |\n\n| Formulaire standard 3 | : | «Avis d'attribution de marché»: annexe III |\n| --- | --- | --- |\n\n| Formulaire standard 4 | : | «Avis périodique indicatif — secteurs spéciaux»: annexe IV |\n| --- | --- | --- |\n\n| Formulaire standard 5 | : | «Avis de marché — secteurs spéciaux»: annexe V |\n| --- | --- | --- |\n\n| Formulaire standard 6 | : | «Avis d'attribution de marché — secteurs spéciaux»: annexe VI |\n| --- | --- | --- |\n\n| Formulaire standard 7 | : | «Système de qualification — secteurs spéciaux»: annexe VII |\n| --- | --- | --- |\n\n| Formulaire standard 8 | : | «Avis sur un profil d'acheteur»: annexe VIII |\n| --- | --- | --- |\n\n| Formulaire standard 12 | : | «Avis de concours»: annexe IX |\n| --- | --- | --- |\n\n| Formulaire standard 13 | : | «Résultats de concours»: annexe X |\n| --- | --- | --- |\n\n| Formulaire standard 14 | : | «Rectificatif»: annexe XI |\n| --- | --- | --- |\n\n| Formulaire standard 15 | : | «Avis en cas de transparence ex ante volontaire»: annexe XII |\n| --- | --- | --- |\n\n| Formulaire standard 16 | : | «Avis de pré-information — défense et sécurité»: annexe XIII |\n| --- | --- | --- |\n\n| Formulaire standard 17 | : | «Avis de marché — défense et sécurité»: annexe XIV |\n| --- | --- | --- |\n\n| Formulaire standard 18 | : | «Avis d'attribution de marché — défense et sécurité»: annexe XV |\n| --- | --- | --- |\n\n| Formulaire standard 19 | : | «Avis de sous-traitance — défense et sécurité»: annexe XVI |\n| --- | --- | --- |\n\n| Formulaire standard 20 | : | «Avis de modification»: annexe XVII |\n| --- | --- | --- |\n\n| Formulaire standard 21 | : | «Services sociaux et autres services spécifiques — marchés publics»: Annexe XVIII |\n| --- | --- | --- |\n\n| Formulaire standard 22 | : | «Services sociaux et autres services spécifiques — secteurs spéciaux»: Annexe XIX |\n| --- | --- | --- |\n\n| Formulaire standard 23 | : | «Services sociaux et autres services spécifiques — concessions»: Annexe XX |\n| --- | --- | --- |\n\n| Formulaire standard 24 | : | «Avis de concession»: annexe XXI |\n| --- | --- | --- |\n\n| Formulaire standard 25 | : | «Avis d'attribution de concession»: annexe XXII |\n| --- | --- | --- |",
+      "text_sha256": "5e589bd5363f5259c703ba25efdcb137c58a70dcd6505ce101d5144b9f068f6b",
+      "md_span": {
+        "start": 2731,
+        "end": 5110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement d'exécution (UE) no 842/2011 est abrogé avec effet au 18 avril 2016.",
+      "text_sha256": "1eef2e6c053b01f774b07ab9cf3e74ed426087611231d49c3a0754f531aba312",
+      "md_span": {
+        "start": 5147,
+        "end": 5228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nL'article 3 s'applique à compter du 18 avril 2016.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "2f021028d1a82f5837e71bf2401e04444371d07f9360e1ecd9158d4836b95486",
+      "md_span": {
+        "start": 5265,
+        "end": 5559
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5598,
+        "end": 5598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5639,
+        "end": 5639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5682,
+        "end": 5682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5723,
+        "end": 5723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5762,
+        "end": 5762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vi",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5803,
+        "end": 5803
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_vii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5846,
+        "end": 5846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_viii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_viii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5891,
+        "end": 5891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ix",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_ix",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5932,
+        "end": 5932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_x",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_x",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE X",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5971,
+        "end": 5971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xi",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6012,
+        "end": 6012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6055,
+        "end": 6055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xiii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xiii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6100,
+        "end": 6100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xiv",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xiv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XIV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6143,
+        "end": 6143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xv",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6184,
+        "end": 6184
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xvi",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xvi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XVI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6227,
+        "end": 6227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xvii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xvii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XVII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6272,
+        "end": 6272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xviii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xviii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XVIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6319,
+        "end": 6319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xix",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xix",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XIX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6362,
+        "end": 6362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xx",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xx",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6403,
+        "end": 6403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xxi",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xxi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XXI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6446,
+        "end": 6446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xxii",
+      "provision_id": "eu-eurlex:32015r1986:2015-11-12--0c63e506f9547ac64a0bdb1fc61046282b2ab5f4f9a48e6faa064301e459a5d9#annexe_xxii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XXII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6491,
+        "end": 6491
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

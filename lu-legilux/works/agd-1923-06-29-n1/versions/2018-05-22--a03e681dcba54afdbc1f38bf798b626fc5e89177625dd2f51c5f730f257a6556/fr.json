@@ -1,0 +1,1330 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/10/2023 : Arrête grand-ducal du 29 juin 1923 portant règlement du service consulaire et introduction de certaines taxes à percevoir par les agents du corps consulaire.",
+  "valid_from": "2018-05-22",
+  "valid_to": "2023-10-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-1923-06-29-n1/versions/2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556/fr.xml",
+    "sha256": "dd16757c06fd1475b9b0690ecfe326af994d37b97cc82feffbd7f109e8d37de8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/20180522/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_1er/19230710",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le corps consulaire se compose de consuls généraux, de consuls et de vice-consuls, luxembourgeois ou étrangers, nommés par Nous, qui déterminerons l'étendue de la juridiction des consulats (art. 2 de la loi du 20 avril 1923).",
+      "text_sha256": "b896fb012295c3696c4a65c8de8ecbe8baf3290736f25349e8c8a2c5e3483b87",
+      "md_span": {
+        "start": 828,
+        "end": 1053
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_2/19430120",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1943-01-20",
+      "text_md": "Les vice-consuls ont les mêmes attributions que les consuls, s'ils résident dans une localité où il n'y a pas de consul.\n\nSi la résidence est commune, le vice-consul remplace le consul en cas d'absence ou d'empêchement. Hors de là, il n'exerce que les fonctions que lui délègue le consul.\n\nToutefois Notre Ministre des Affaires étrangères peut directement autoriser les vice-consuls à exercer les fonctions d'officier de l'état civil.",
+      "text_sha256": "77b795e89101087025a7985d782d51647dab811a23fdf23703c8162d3845c66b",
+      "md_span": {
+        "start": 1088,
+        "end": 1522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_3/19230710",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "A défaut de vice-consul, ou en cas d'absence ou d'empêchement du vice-consul, le consul peut déléguer tout ou partie de ses pouvoirs à un agent consulaire qu'il désigne lui-même, après en avoir, au préalable, obtenu l'autorisation du Gouvernement (art. 3 de la loi du 20 avril 1923).\n\nLe consul fera parvenir au Département des affaires étrangères un exemplaire de la signature de la personne qu'il aura chargée de remplir intérimairement les fonctions consulaires, à moins qu'elle n'y soit déjà connue.\n\nIl est défendu aux agents consulaires de nommer des sous-agents et de déléguer leurs pouvoirs à quelque titre que ce soit.",
+      "text_sha256": "f88818c3661f69c4be1d966e195f2a172deedc998d0c26a6bbf5d6c88da5d85c",
+      "md_span": {
+        "start": 1557,
+        "end": 2184
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_4/19230710",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le serment prescrit par les art. 7 et 8 de la loi du 20 avril 1923 sera prêté entre les mains de Notre Directeur général des affaires étrangères, si l'agent se trouve dans Notre capitale.\n\nDans le cas contraire, le serment sera écrit, daté et signé par l'agent et envoyé sans retard à Notre Directeur général susmentionné.",
+      "text_sha256": "67c18fb0878f76a66c3d81608d95d0090f6899b93cb283f48cf8a55d7233b76e",
+      "md_span": {
+        "start": 2219,
+        "end": 2541
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_5/19230710",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Tout consul peut, s'il le juge utile, nommer un chancelier sous sa responsabilité. Il peut aussi, au besoin, désigner une personne pour exercer, dans un cas spécial, les fonctions de chancelier.",
+      "text_sha256": "386370fa5f68df6a77edf47b1e9767b1810a9edc3cc12894a41ebabcb1837915",
+      "md_span": {
+        "start": 2576,
+        "end": 2770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_6/19230710",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le serment prescrit par l'art. 9 de la loi du 20 avril 1923 pour les chanceliers et pour les personnes désignées pour en exercer les fonctions, sera prêté entre les mains du consul, qui les a investis de leurs fonctions.\n\nLe consul informera sans retard le Directeur général des affaires étrangères de cette nomination et de la prestation du serment.",
+      "text_sha256": "c6b02c3a36127d03d4b2dabf9317862e09cc19a1ff94edd91f6ff4ca754d8c88",
+      "md_span": {
+        "start": 2805,
+        "end": 3155
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_7/19230710",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Aucun agent du service consulaire nommé par Nous ne peut, sans Notre autorisation expresse, accepter le consulat d'une Puissance étrangère.",
+      "text_sha256": "d07a966361caf9c9f51db6f5be153b55b708fc330f2ebfdff3fb0c7e0e2a8c41",
+      "md_span": {
+        "start": 3190,
+        "end": 3329
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_8/19230710",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Pour être admis à exercer leurs fonctions à l'étranger, les agents doivent être régulièrement exequaturés.\n\nL'exequatur sera demandé:\n\n1. par l'agent diplomatique luxembourgeois accrédité dans le pays;\n2. à défaut d'agent diplomatique, par le Département des affaires étrangères directement.",
+      "text_sha256": "31f1933ee7789d52ec800084502f3570b2fc2aa5a26ab9084106b43bccdd25bd",
+      "md_span": {
+        "start": 3364,
+        "end": 3655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_9/19230710",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Dès que le consul sera nanti de l'exequatur, il se fera reconnaître, en sa qualité officielle, par les autorités locales.",
+      "text_sha256": "491782b782bbe5fd18048a2747d01fa55fb0716499fd1183135fe9457599c901",
+      "md_span": {
+        "start": 3690,
+        "end": 3811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_10/19230710",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le consul qui nomme un agent consulaire se conformera à l'usage suivi dans le pays pour le faire reconnaître.",
+      "text_sha256": "53939d38fd460710d1592d9084df0f3a15e1526ebd7ba19aa9a1bf5b262f322f",
+      "md_span": {
+        "start": 3848,
+        "end": 3957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_11/19230710",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Tous les agents du corps consulaire, sans distinction de grade, relèvent de la légation luxembourgeoise accréditée dans le pays où ils résident.\n\nLa légation les surveille et ils sont tenus d'exécuter les ordres qu'elle leur adresse dans le cercle de leurs attributions.",
+      "text_sha256": "4bd30f2fec1ad758aaa42b23f4f556c3c105444569b76b4de05295202e7c8a9f",
+      "md_span": {
+        "start": 3994,
+        "end": 4264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_12/19230710",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Dans le pays où il n'existe pas de légation luxembourgeoise, les consuls relèvent directement du Directeur général des affaires étrangères.",
+      "text_sha256": "6a66bfa13446412a78ad76cb9498764ae714f3d3b2d62df618e7709204e39510",
+      "md_span": {
+        "start": 4301,
+        "end": 4440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_13/19230710",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le consul qui quitte son poste pour plus de 15 jours en avertira le Directeur général des affaires étrangères; l'agent qui, sans motif légitime, omettra de se conformer à cette disposition, pourra être considéré comme démissionnaire.",
+      "text_sha256": "c59db999128a44102f0c36c305731ef7d31479aed46bc857d7fb70fe6c75494f",
+      "md_span": {
+        "start": 4477,
+        "end": 4710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_14/19230710",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le Directeur général des affaires étrangères peut, pour motif grave, suspendre tout membre du corps consulaire de ses fonctions.\n\nQuant à la révocation, Nous Nous réservons de la prononcer Nous même, sur la proposition motivée de Notre Directeur général des affaires étrangères.",
+      "text_sha256": "acaa989de600308b5f9d271a5a98d5acba4150a7576083b25214608112e0d824",
+      "md_span": {
+        "start": 4747,
+        "end": 5025
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_15/19230710",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre Ier. — **Des consuls et du personnel des consulats.**"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les agents consulaires agissent sous la responsabilité du consul qui les nomme.\n\nLes consuls peuvent les suspendre de l'exercice de leurs fonctions, mais ils ne les révoquent qu'après en avoir prévenu Notre Directeur général des affaires étrangères.\n\nLe même pouvoir est accordé au chef de la légation dont relève le consulat et à Notre Directeur général des affaires étrangères.",
+      "text_sha256": "91d9d7eba04d78168cbc84f89e2aa3631f1c1ca571ff091f9a60946d61a3f89f",
+      "md_span": {
+        "start": 5062,
+        "end": 5441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_16/20180522",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre Ier. — *Dispositions générales*."
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "**(1)** Les consuls sont obligés, dans l'exercice de leurs fonctions, de se conformer en tous points aux dispositions qui concernent le ministre ayant les affaires étrangères dans ses attributions.\n\nIls doivent aide et protection aux Luxembourgeois voyageant ou résidant à l’étranger, et à leurs membres de la famille, dans la mesure du possible.\n\nIls fournissent au Gouvernement les renseignements et rendent les services qu'il leur demande ; ils s'efforcent en outre de renseigner le ministre ayant les affaires étrangères dans ses attributions sur toutes les affaires et sur tous les événements qui peuvent avoir de l'intérêt pour le pays.\n\n**(2)** Les consuls accordent une protection consulaire aux citoyens de l’Union européenne non représentés dans les mêmes conditions que celles s'appliquant aux Luxembourgeois.\n\nPar citoyen non représenté*,* on entend tout citoyen ayant la nationalité d’un État membre de l’Union européenne qui n’est pas représenté dans un pays tiers*,* parce que cet État soit n’y dispose pas d’une ambassade ou d’un consulat établi de façon permanente, soit y dispose d’une ambassade*,* d’un consulat ou d’un consul honoraire mais qui n’est pas en mesure d’assurer une protection consulaire effective dans une situation donnée.\n\n**(3)** Sur initiative ou après autorisation du ministre ayant les affaires étrangères dans ses attributions ou de la mission diplomatique de laquelle ils relèvent, les consuls honoraires peuvent, dans des cas exceptionnels, fournir une assistance consulaire aux Luxembourgeois, et à leurs membres de famille.",
+      "text_sha256": "8382905d720d38e3c78eeee1409137e57dd3b8c6ad8346515a510c0525cfaf75",
+      "md_span": {
+        "start": 5584,
+        "end": 7152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16bis",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_16bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_16_bis/20180522",
+      "type": "article",
+      "num": "Art. 16 bis.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre Ier. — *Dispositions générales*."
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "Par membres de la famille il y a lieu de comprendre :\n\n**(1)** Sont considérés comme membres de la famille d’un citoyen luxembourgeois :\n\n1. le conjoint ;\n2. loi modifiée du 9 juillet 2004\n3. les descendants directs et les descendants directs du conjoint ou du partenaire visé au point b) qui sont âgés de moins de 21 ans ou qui sont à charge ;\n4. les ascendants directs du citoyen luxembourgeois et les ascendants directs du conjoint ou du partenaire visé au point b).\n\n**(2)** Les membres de la famille d’un citoyen de l’Union européenne, ressortissants de pays tiers, sont assimilés aux membres de la famille du citoyen luxembourgeois.",
+      "text_sha256": "b80a651d8b10e0e30039cd20b61c4cebd7adffddd54bb67bf6f52ed0b24be6b1",
+      "md_span": {
+        "start": 7196,
+        "end": 7834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_17/19230710",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre Ier. — *Dispositions générales*."
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls correspondent avec Notre Directeur général des affaires étrangères.\n\nIls peuvent correspondre directement avec les particuliers.",
+      "text_sha256": "3299cbc82a9b76c8183f3456848bc1706ac212fc5b816a9b603548d1610d125f",
+      "md_span": {
+        "start": 7871,
+        "end": 8011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_18/19230710",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre II. — *Du pavillon, de l'écusson, du sceau et du costume de consul.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le pavillon luxembourgeois est rouge, blanc et bleu.\n\nCes couleurs seront placées horizontalement.",
+      "text_sha256": "6ee9c84d2d0baa6c1513271367108ba9f956b8af5a978856c1d7e601227b3a4c",
+      "md_span": {
+        "start": 8131,
+        "end": 8229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_19/19230710",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre II. — *Du pavillon, de l'écusson, du sceau et du costume de consul.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "L'écusson porte les armes du Grand-Duché qui sont burelées d'argent et d'azur, au lion de gueules, armé, lampassé et couronné d'or, la queue fourchue et passée en sautoir. Il portera l'inscription: Consulat général, consulat ou vice-consulat du Grand-Duché de Luxembourg.\n\nLes consuls auront soin d'appliquer l'écusson à un endroit visible, près de l'entrée de la chancellerie.",
+      "text_sha256": "23d35470c2fa4298fa62c4b9e631a0f5a3d18df1ede4797ba84e34d84f35df94",
+      "md_span": {
+        "start": 8266,
+        "end": 8643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_20/19230710",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre II. — *Du pavillon, de l'écusson, du sceau et du costume de consul.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les sceaux porteront les armes du Grand-Duché et pour légende: Consulat général, consulat ou vice-consulat du Grand-Duché de Luxembourg à ...\n\nLes consuls apposeront le sceau consulaire au bas de tous les actes portant leur signature. Ils seront responsables de la garde des sceaux officiels et de l'usage abusif qui pourrait en être fait.",
+      "text_sha256": "d6995a898b87c1eb39051710be39e5d187d760c753a80b2f0d440b049a0f26ad",
+      "md_span": {
+        "start": 8680,
+        "end": 9019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_21/19230710",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre II. — *Du pavillon, de l'écusson, du sceau et du costume de consul.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le costume de consul général et de consul luxembourgeois est réglé de la manière suivante:\n\nhabit en drap bleu foncé, doublé de même, collet droit et à une rangée de neuf boutons, dégagé sur les cuisses;\n\ngilet blanc, à une rangée de cinq boutons;\n\npantalon demi-collant sur bottes, du même drap que l'habit ou de Casimir bleu, avec la bande en argent;\n\népée en métal blanc;\n\nchapeau français, garni en plumes noires, ganse d'argent à graines d'épinards avec cocarde.\n\nL'habit sera garni d'une broderie de branches de chêne en argent, au collet, aux parements et sur les poches; deux boutons à la taille.\n\nLes boutons sont en émail blanc, et porteront les lettres CH couronnées.\n\nL'habit pourra être porté soit fermé, soit ouvert.\n\nLe costume de vice-consul est le même que celui de consul, moins la broderie sur les poches de l'habit.",
+      "text_sha256": "44239cf437a85978058d2430b11b9015c6b7c4495f39430ce88a828c086867c0",
+      "md_span": {
+        "start": 9056,
+        "end": 9891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_22/19230710",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls exercent les fonctions d'officier de l'état civil s'ils y sont autorisés par Notre Directeur général des affaires étrangères.\n\nS'ils n'ont pas obtenu cette autorisation, ils sont néanmoins compétents comme officier de l'état civil, en ce qui concerne la publication et la célébration des mariages, mais ils n'ont pas qualité pour dresser les actes de naissance, de reconnaissance et de décès (art. 4 de la loi du 20 avril 1923).",
+      "text_sha256": "756dae2dcb5e839da680fe7f43874c61a4b5df6b6faf79a7173f7dcc7de6d1a5",
+      "md_span": {
+        "start": 10001,
+        "end": 10441
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_23/19230710",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls auront soin de se conformer pour la réception et la rédaction des actes de l'état, civil aux règles prescrites par le code civil et les lois luxembourgeoises sur la matière.",
+      "text_sha256": "9ab2cc789d5c93b87ad364bd4b553fee5a408f75c6214dcd8c3e4cf437f34cca",
+      "md_span": {
+        "start": 10478,
+        "end": 10663
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_24/19430120",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1943-01-20",
+      "text_md": "Les registres dont les consuls feront usage pour l'inscription des actes seront cotés par première et par dernière et paraphés sur chaque feuille par Notre Ministre des Affaires étrangères ou par le fonctionnaire qu'il aura délégué à cet effet.",
+      "text_sha256": "312cafe3c70d55bc1ae1b3651f9de68895960512da5cfa5b21ca85ec4eb1744e",
+      "md_span": {
+        "start": 10700,
+        "end": 10944
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_25/19230710",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Immédiatement après avoir dressé un acte, le consul en enverra une expédition au Département des affaires étrangères.",
+      "text_sha256": "eec1d3d26b48a957b54e01feb0846333abdb17513c5f2e60a2d6a6555565bfe0",
+      "md_span": {
+        "start": 10981,
+        "end": 11098
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_26/19230710",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Un des doubles des registres restera déposé à la chancellerie du consulat et l'autre sera envoyé, dans le mois de la clôture qui se fait à la fin de l'année, au département des affaires étrangères, pour y rester déposé. Si les consuls n'ont rédigé aucun acte, ils se borneront à clore les registres et à dresser un certificat qu'ils transmettront au Département des affaires étrangères.",
+      "text_sha256": "9ddd1dc8a0901f198dde3b4a9d732b8a5cc856d202f41d52ced2fb6e09fce9cb",
+      "md_span": {
+        "start": 11135,
+        "end": 11521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_27/19230710",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "La publication du mariage faite par le consul sera affichée à la porte de la chancellerie. Elle sera inscrite à sa date, dans un seul registre coté et paraphé, comme il est dit dans l'art. 17 qui précède.\n\nCe registre, dûment clos, sera expédié à la fin de chaque année à la Direction générale des affaires étrangères pour y rester déposé.",
+      "text_sha256": "3aa15a56347e9734cd763bc04490857e142cf210bc6fefbc0204af0848d14136",
+      "md_span": {
+        "start": 11558,
+        "end": 11897
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_28/19230710",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls sont autorisés à dispenser, pour des causes graves, de la publication ainsi que du délai prévu par les art. 63 et 64 du Code civil (art. 5 de la loi du 20 avril 1023).",
+      "text_sha256": "13b7eee097aa7d0204509dc6c39ce362b95d142b65b0d687245433c7c8d1c488",
+      "md_span": {
+        "start": 11934,
+        "end": 12113
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1923/04/20/n2/jo",
+          "text": "loi du 20 avril 1023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_29/19230710",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre III. — *Attributions des consuls en matière d'état civil.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Avant de célébrer un mariage, les consuls s'assureront qu'en outre de la publication qui doit être faite au consulat, les futurs époux se sont soumis aux prescriptions de la loi relativement à la publication de leur mariage dans le Grand-Duché.\n\nIl est bien entendu que les consuls sont obligés de s'assurer si les futurs époux remplissent les autres conditions pour pouvoir contracter mariage.",
+      "text_sha256": "f7815fd85100b5bf4eb2d753c7d40de69887aeeef28b76fad406f60cc8c3e294",
+      "md_span": {
+        "start": 12150,
+        "end": 12544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_30/19230710",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IV. — *Des déclarations d'indigénat.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls peuvent être autorisés dans des cas déterminés à recevoir des déclarations concernant l'acquisition de la qualité de Luxembourgeois (cas prévus aux art. 9 et 10 du Code civil); ils suivront en cela les instructions que le Département des affaires étrangères leur donnera sur leur demande.",
+      "text_sha256": "8f586873ff447d9895a6bcfaf1268f3def7c59aa77b23ac995daef14cb206fce",
+      "md_span": {
+        "start": 12633,
+        "end": 12933
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_31/19230710",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre V. — *Des passeports et des visas.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls sont autorisés à délivrer des passeports aux Luxembourgeois après s'être assurés de leur qualité et de leur identité; ils ne peuvent accorder de passeports aux étrangers.",
+      "text_sha256": "f0c7f5fd2287904971d2e1995ec4069f80aa7899ad6212e2050cc64d49ad0934",
+      "md_span": {
+        "start": 13020,
+        "end": 13202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_32/19230710",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre V. — *Des passeports et des visas.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les passeports non périmés, délivrés par des autorités compétentes, et présentés soit par des Luxembourgeois soit par des étrangers, pourront recevoir le visa de Nos consuls qui auront soin à se conformer strictement aux instructions du Département des affaires étrangères.",
+      "text_sha256": "7f61d5d6e2f1b093f0dc7090729a6071f5f4934209eac69dc8bd30011371c716",
+      "md_span": {
+        "start": 13239,
+        "end": 13512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_33/19230710",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VI. — *Réception d'actes et établissement de certificats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "En dehors des actes et des certificats dont l'établissement leur est confié par des dispositions législatives spéciales, les consuls peuvent encore recevoir tous autres actes et délivrer tous autres certificats qui leur sont réclamés par des particuliers et par lesquels ils constatent ou attestent des faits ou des qualités dont ils ont personnellement connaissance ou qu'ils ont reconnus tels à la suite d'un examen de documents ou d'événements.",
+      "text_sha256": "839041e8b0595cd8675c2f4b63cd8cb05669135a3fb7f9c14dfc530dc51f673b",
+      "md_span": {
+        "start": 13622,
+        "end": 14069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_34/19230710",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII. — *Des légalisations.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les consuls légaliseront les actes délivrés par des autorités publiques de leur arrondissement et destinés à être produits dans le Grand-Duché.\n\nIls auront soin de mentionner la qualité de l'autorité dont l'acte émane et de s'assurer que ladite autorité avait, lorsque l'acte a été passé, la qualité qui y est indiquée.",
+      "text_sha256": "94565d9993007f1f81f5498047b653e0d12d2f6e07bfedc61ec3eaa3818feeb4",
+      "md_span": {
+        "start": 14148,
+        "end": 14467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_35/19230710",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII. — *Des légalisations.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Ils peuvent refuser de légaliser les actes sous seing privé, à moins que ces actes n'aient été déjà légalisés par une autorité publique du pays où ils sont établis.",
+      "text_sha256": "74111582244ab8a64eb7b02d0bc24011366dfe724cbb8213dc67e347177dffb8",
+      "md_span": {
+        "start": 14504,
+        "end": 14668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_36/19230710",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII. — *Des légalisations.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "La signature des consuls sera légalisée par Notre Directeur général des affaires étrangères ou par le fonctionnaire qu'il aura délégué à cet effet.",
+      "text_sha256": "ea645f79fa4df2c825690c7713206fa8fc254c94f8bf4a1481c02dc3f5f2b626",
+      "md_span": {
+        "start": 14705,
+        "end": 14852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37/19230710",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII. — *Des légalisations.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les arrêts, jugements ou actes rendus ou passés dans le Grand-Duché ne pourront être admis dans nos consulats que s'ils portent la légalisation de Notre Directeur général des affaires étrangères ou du fonctionnaire qu'il aura délégué.",
+      "text_sha256": "7ff4f1be9538d6146f854d3b82296b9c23bbe6e86b53118dda35bc528af6cc27",
+      "md_span": {
+        "start": 14889,
+        "end": 15123
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37bis",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_bis/20180522",
+      "type": "article",
+      "num": "Art. 37 bis.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "**(1)** Les consuls prêtent assistance, dans la mesure du possible, aux Luxembourgeois à l’étranger, ainsi qu'aux ressortissants de l’Union européenne non représentés, qui se trouvent en situation de détresse ou de difficulté, notamment dans les cas suivants :\n\n1. arrestation ou détention ;\n2. fait d’être victime d’un crime ou d’un délit ;\n3. accident ou maladie grave ;\n4. décès ;\n5. besoin d’aide et de rapatriement en situation d’urgence ;\n6. décision 96/409/PESC\n\n**(2)** Les procédures détaillées de l’assistance consulaire sont réglées par règlement ministériel.\n\n**(3)** L’assistance consulaire apportée varie selon la situation mais est, en principe, de nature administrative. Ainsi les consuls peuvent fournir une assistance avec les procédures locales, mettre à disposition l’infrastructure des missions ou encore prendre contact avec les membres de la famille.\n\n**(4)** Les consuls doivent se conformer aux législations et procédures locales. Ils ne peuvent pas intervenir dans le cours de la justice lors d’une affaire judiciaire ou d'un délit commis sur le territoire d'un pays d'accueil.",
+      "text_sha256": "6a07201c7eeb8d595c0e3de28100cc556599accbfcaed2467dde464c4b982bce",
+      "md_span": {
+        "start": 15213,
+        "end": 16316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37_ter",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37_ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_ter/20180522",
+      "type": "article",
+      "num": "Art. 37 ter.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "**(1)** Les consuls ne peuvent pas avancer de l’argent, voire régler une amende, note d'hôtel, d'hôpital ou toute autre dépense à charge du demandeur, sauf sous réserve d'un remboursement ultérieur via une reconnaissance de dette ou dans des cas d'extrême urgence.\n\nEn outre, les consuls ne peuvent accorder des avances à rembourser via une reconnaissance de dette qu’après avoir consulté le ministre ayant les affaires étrangères dans ses attributions.\n\n**(2)** Les citoyens non représentés s'engagent à rembourser à l'État membre dont ils ont la nationalité les coûts de la protection consulaire, selon les mêmes conditions que les Luxembourgeois, au moyen du formulaire type figurant à l'annexe I.\n\nDans ce cas, le consul doit consulter le ministre ayant les affaires étrangères dans ses attributions et en informer le ministère des affaires étrangères de l’État membre dont le demandeur a la nationalité.\n\n**(3)** Le consul est remboursé par l’État luxembourgeois des dépenses effectuées.\n\nL’État luxembourgeois demande le remboursement des coûts visés au paragraphe 2 à l'État membre dont le citoyen non représenté a la nationalité, au moyen du formulaire type figurant à l'annexe II.",
+      "text_sha256": "e4d60e53d8adb7dbe0f9c6323588896fd55a166a08402b8cbd1c416c0b05b28b",
+      "md_span": {
+        "start": 16361,
+        "end": 17550
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37quater",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_quater/20180522",
+      "type": "article",
+      "num": "Art. 37 quater.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "Les Luxembourgeois s'engagent à rembourser à l'État luxembourgeois les coûts de la protection consulaire, selon les mêmes conditions que les ressortissants de l’État prêtant l’assistance au moyen du formulaire type figurant à l'annexe I.",
+      "text_sha256": "d41343883ccd2a5249d7684f229383ba62d857e5b1f4764bc0a16da0d64e1806",
+      "md_span": {
+        "start": 17600,
+        "end": 17837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37quinquies",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37quinquies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_quinquies/20180522",
+      "type": "article",
+      "num": "Art. 37 quinquies.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "**(1)** Lorsque le consul reçoit une demande de protection consulaire de la part d'une personne qui prétend être un citoyen non représenté, ou qu'il est informé d'une situation d'urgence donnée dans laquelle se trouve un citoyen non représenté, il consulte sans tarder le ministère des affaires étrangères de l'État membre dont la personne revendique la nationalité ou, le cas échéant, l'ambassade ou le consulat compétent de cet État membre, et il lui fournit toutes les informations utiles dont il dispose, y compris concernant l'identité de la personne concernée, les coûts éventuels de la protection consulaire et concernant les membres de la famille auxquels la protection consulaire devrait également être accordée.\n\nCette consultation intervient avant qu'une assistance ne soit fournie. En cas d’extrême urgence, où la consultation par le consul ne peut pas se faire avant que l’assistance ne soit fournie, celle-ci doit néanmoins se faire a posteriori. Le consul facilite également l'échange d'informations entre le citoyen concerné et les autorités de l'État membre dont le citoyen a la nationalité.",
+      "text_sha256": "8d65ca8e4ab26210a5c19dd65d3144d790dc7c3f7c1b6833b14fa8319fa173cc",
+      "md_span": {
+        "start": 17893,
+        "end": 19001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37sexies",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37sexies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_sexies/20180522",
+      "type": "article",
+      "num": "Art. 37. sexies.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "**(1)** L’identification des personnes cherchant une protection consulaire se fait sur base d’un passeport ou d’une carte d'identité.\n\n**(2)** Si le citoyen non représenté n'est pas en mesure de produire un passeport ou une carte d'identité en cours de validité, sa nationalité peut être prouvée par tout autre moyen, y compris si nécessaire des vérifications auprès des agents diplomatiques ou consulaires de l'État membre dont il revendique la nationalité.\n\n**(3)** En ce qui concerne les membres de la famille*,* leur identité et l'existence d'un lien de parenté peuvent être prouvée*s* par tout moyen, y compris des vérifications effectuées auprès des agents diplomatiques ou consulaires de l'État membre dont les citoyens ont la nationalité.",
+      "text_sha256": "2968edf003da4a85ccbe0352581808ee23c6174b79fb2b041f64cf4592c7e5f8",
+      "md_span": {
+        "start": 19052,
+        "end": 19798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37septies",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_37septies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_37_septies/20180522",
+      "type": "article",
+      "num": "Art. 37 septies.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VII bis — Assistance consulaire"
+      ],
+      "article_valid_from": "2018-05-22",
+      "text_md": "En situation de crise, dont les spécificités impliquent notamment une intervention rapide pour un nombre considérable de citoyens, les procédures sont simplifiées. Les détails de la simplification en situation de crise sont réglés par règlement ministériel en coordination avec la coopération locale.\n\nLorsque l’État luxembourgeois a prêté assistance à un citoyen non représenté ou aux membres de la famille de ce dernier, il peut réclamer à ce citoyen le remboursement des dépenses effectuées, nonobstant les procédures de remboursement interétatiques existantes par ailleurs.",
+      "text_sha256": "1d6b2b08677c408d8e6dbb26a21d81187f4d9662677c4f451564a4933ce290de",
+      "md_span": {
+        "start": 19850,
+        "end": 20427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_38/19230710",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le tableau annexé au présent règlement fixe le tarif des droits qui seront à l'avenir perçus dans les chancelleries consulaires du Grand-Duché à l'étranger, sauf les réserves énoncées à l'art. 41.",
+      "text_sha256": "c68ceb5d06f17b01077c88b369603c212bb63bbdae16228bcb535fc6159963ae",
+      "md_span": {
+        "start": 20582,
+        "end": 20778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_39/19230710",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les agents émargeant au budget du Département des affaires étrangères verseront à l'État la totalité des taxes perçues par eux.",
+      "text_sha256": "a7aa59a304d88cf062626dd1104434bcbd36baa2f8d5fe6329540640c7900d4b",
+      "md_span": {
+        "start": 20815,
+        "end": 20942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_40/19240801",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1924-08-01",
+      "text_md": "Les taxes sont acquises clans leur intégralité aux agents non rétribués jusqu'à concurrence des sommes suivantes: 4000 frs., s'il s'agit d'un consulat ou d'un vice-consulat; 6000 frs., s'il s'agit d'un consulat général.\n\nL'excédent des quotités indiquées ci-dessus est attribué à l'Etat et au consulat suivant la formule ci-après établie:\n\n1. l'excédent de 1 à 25.000 frs. revient à parts égales à l'Etat et au consulat;\n2. l'excédent de 25.000 à 50.000 frs. revient pour 75 % à l'Etat et pour 25 % au consulat;\n3. l'excédent de 50.000 à 75.000 frs. revient pour 87½% à l'Etat et pour 12½ % au consulat;\n4. l'excédent de 75.000 à 100.000 frs. revient pour 92½% à l'Etat et pour 7½ % au consulat;\n5. l'excédent dépassant la somme de 100.000 frs. revient pour 95% à l'Etat et pour 5% au consulat.\n\nEn cas de changement du titulaire en cours d'année, le calcul de la part revenant au Trésor sera effectué d'après ce barème; le calcul des parts revenant aux différents titulaires se fera au prorata de la durée des mandats respectifs, en tenant compte des recettes de toute l'année.",
+      "text_sha256": "cfccca5a12c9677ec8ee0b321cd31a1e0ce16c5c0d6b5e11fa6757aa59ab6016",
+      "md_span": {
+        "start": 20979,
+        "end": 22057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_41/19230710",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le Gouvernement est autorisé à conclure avec les Puissances étrangères des arrangements établissant, sous condition de réciprocité, la gratuité ou une réduction spécifiée du prix de certaines des opérations de chancellerie soumises à des taxes.\n\nLa gratuité est en outre acquise de plein droit:\n\n1. aux actes destinés aux indigènes;\n2. aux documents réclamés par le Directeur général des affaires étrangères dans un intérêt publie ou administratif, ainsi qu'aux actes réclamés en leur qualité officielle pour leur usage personnel ou celui de leur suite, par les agents officiels des autres États, ce à titre de réciprocité.",
+      "text_sha256": "dab8c049f254ed007611a2c54a98222acd8c45fb50e77530d3eb84227ddd21f0",
+      "md_span": {
+        "start": 22094,
+        "end": 22717
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_42/19230710",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les taxes sont perçues en monnaie légale du lieu de la perception, transformée en francs au cours du franc or.",
+      "text_sha256": "f7faca7cf32a1783701c58e3f0f53b91edc153933e1e66ac047141ec3f7c3c68",
+      "md_span": {
+        "start": 22754,
+        "end": 22864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_43/19230710",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les droits perçus doivent être inscrits sur un registre spécial par catégorie, et par numéro d'ordre; ces inscriptions indiqueront la date du versement et la personne qui l'a effectué. Ce registre doit être clos à la fin de chaque année et rouvert ensuite; il fait partie des archives de la chancellerie et ne peut en être enlevé qu'en vertu d'une autorisation du Gouvernement.",
+      "text_sha256": "f2e900b33dcca2d792defcaba750ba55e06203a8ebb0b3944ba1ed9164b6b130",
+      "md_span": {
+        "start": 22901,
+        "end": 23278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_44/19240801",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre VIII. — *Tarifs des droits à percevoir par les chancelleries consulaires; de la reddition des comptes.*"
+      ],
+      "article_valid_from": "1924-08-01",
+      "text_md": "Les consuls enverront chaque trimestre dans la seconde moitié des mois de janvier, d'avril, de juillet et d'octobre, une copie certifiée conforme du registre du trimestre écoulé au Département des Affaires Etrangères.",
+      "text_sha256": "84998a3746145775811660b14f7cdd59cdc69f5fb8fbfb1aca1aa1a19b295e4d",
+      "md_span": {
+        "start": 23315,
+        "end": 23532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_45/19230710",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IX. — *Des frais à rembourser.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les dépenses susceptibles d'être remboursées font l'objet de déclarations que les agents transmettent au Département des affaires étrangères une ou plusieurs fois par an, suivant l'importance de leur montant.\n\nCes dépenses sont:\n\n1. les frais de port et d'affranchissement de la correspondance officielle;\n2. les secours provisoires accordés à des Luxembourgeois qui se trouvent dans une position nécessiteuse, par suite de circonstances indépendantes de leur volonté.\n\nLes dépenses indiquées sous le n° 2 sont à justifier par des quittances; le Directeur général des affaires étrangères fixera le montant que les consuls peuvent avancer à un compatriote nécessiteux sans avoir obtenu au préalable l'autorisation du Gouvernement.",
+      "text_sha256": "ca9b1e8594a83c4d6d00d879640d3969710112da09b1f8ea83e16839ddbadc1c",
+      "md_span": {
+        "start": 23615,
+        "end": 24344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_46/19230710",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IX. — *Des frais à rembourser.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Le Gouvernement, par une délibération prise en conseil, pourra allouer en outre aux consuls une somme aversionnelle pour frais de bureau et autoriser le remboursement de dépenses non prévues par les dispositions de l'article précédent, mais qui seraient reconnues avoir été provoquées par la nécessité du service ou faites à l'occasion de l'exercice des fonctions consulaires.",
+      "text_sha256": "44c2b41636980d9fca677da4f128556fdcb2c3b318b44e7218256b8c75d70f16",
+      "md_span": {
+        "start": 24381,
+        "end": 24757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_47/19230710",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IX. — *Des frais à rembourser.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les déclarations mentionnées à l'art. 45 sont dressées en double expédition, sur papier libre.\n\nChaque dépense doit être accompagnée d'une pièce justificative, autant que possible; à son défaut, elle doit être appuyée d'une déclaration supplétive du consul, indiquant les motifs qui empêchent la production d'une justification d'une autre nature.",
+      "text_sha256": "ddcd54f47bb2ced1430dc5efb26a4fed83d567fee7fd8e9f63912dec20414bbe",
+      "md_span": {
+        "start": 24794,
+        "end": 25140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_48/19230710",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IX. — *Des frais à rembourser.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les frais de route et de séjour auxquels les consuls pourront être astreints en suite de voyages entrepris en vertu d'un ordre exprès de Notre Directeur général des affaires étrangères, leur seront remboursés sur une déclaration signée et certifiée par eux.",
+      "text_sha256": "da5b171d972b1353e43207616ac7337106498d61379f600f410db875a0515daf",
+      "md_span": {
+        "start": 25177,
+        "end": 25434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_49/19230710",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre IX. — *Des frais à rembourser.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les dépenses prévues par les dispositions qui précèdent seront ordonnancées et réglées par Notre Directeur général des affaires étrangères, et imputées sur lé crédit porté au budget «Légations», à l'exception des secours accordés à des Luxembourgeois, qui continueront à être liquidés par le membre du Gouvernement qui a dans ses attributions la bienfaisance publique et seront imputés sur l'article spécial qui figure de ce chef au budget des dépenses.",
+      "text_sha256": "9b0d2554b4ba503ff023875d32379aae96c67f78d21e533ad870d53e9bb9645f",
+      "md_span": {
+        "start": 25471,
+        "end": 25924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_50/19230710",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les archives consulaires sont distribuées en deux groupes: celles qui se rapportent à des matières commerciales et celles qui concernent les matières de chancellerie. Elles seront classées dans des cartons par dossiers d'affaires. Les pièces politiques, s'il en existe, seront disposées par ordre chronologique dans un carton spécial.",
+      "text_sha256": "922d6d12dd5e591d7a60cfbf85cd0079a50d2f1b68f5c677ec71460db96d2835",
+      "md_span": {
+        "start": 26010,
+        "end": 26344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_51/19230710",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "La minute de toutes les dépêches comme de tous les rapports émanés des consulats sera conservée dans leurs archives; cette minute est obligatoire. Les minutes et les expéditions des documents adressées au Gouvernement grand-ducal porteront un numéro d'ordre qui en facilitera la recherche.",
+      "text_sha256": "d6e5cb7d34506607ab7cc20366dd0d2d307060152f5bceae9ba9ea8a75a33638",
+      "md_span": {
+        "start": 26381,
+        "end": 26670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_52/19230710",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Il sera tenu dans tous les consulats un registre indicateur renseignant toutes les pièces à l'entrée comme à la sortie. Ce registre contiendra les indications suivantes: Numéro d'ordre, de la série et de la dépêche, date, noms de l'expéditeur et du destinataire, sommaire. Les registres clos seront joints aux archives et perpétuellement conservés.",
+      "text_sha256": "65fcfbdba9ee5817a16475c6ea3f58414ad19a023d1e6cb165d53e7ea1b5f21e",
+      "md_span": {
+        "start": 26707,
+        "end": 27055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_53/19230710",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Aucun document d'archives, qu'il soit en registre ou en feuilles détachées, ne peut sortir des bureaux du consulat.",
+      "text_sha256": "50b6b5ad2df10cdc42c3610fabfebcc8f3e805e47c0f3bf25a45e8f38d320103",
+      "md_span": {
+        "start": 27092,
+        "end": 27207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_54/19230710",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les correspondances entre le Gouvernement et ses agents, les rapports, mémoires et autres documents par eux adressés ou reçus en leur qualité officielle sont et demeurent la propriété de l'État.",
+      "text_sha256": "e60412dc6646e60324ab05074bf1b223ed21428360410be88cbfceeca5faf480",
+      "md_span": {
+        "start": 27244,
+        "end": 27438
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_55/19230710",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1923-07-10",
+      "text_md": "Les dispositions antérieures, en tant qu'elles ne sont pas conformes aux stipulations du présent arrêté, sont rapportées.",
+      "text_sha256": "f6887cafe041f603b75ce1408b56c08676923d3036ab8bb8911b574cfde2d401",
+      "md_span": {
+        "start": 27475,
+        "end": 27596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/art_56/19600709",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Titre II. — **Des droits et des devoirs des consuls.**",
+        "Chapitre X. — *Des archives des consulats.*"
+      ],
+      "article_valid_from": "1960-07-09",
+      "text_md": "Notre Ministre d'État, Président du Gouvernement, est chargé de l'exécution du présent arrêté.",
+      "text_sha256": "11dae8e9e9a13697defa1b4d40e02582f2983c0f6ae3330560c23eb7ac0ce066",
+      "md_span": {
+        "start": 27633,
+        "end": 27727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:agd-1923-06-29-n1:2018-05-22--a03e681dcba54afdbc1f38bf798b626fc5e89177625dd2f51c5f730f257a6556#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Tarif. — Gebührenordnung.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "|  |  | Base de la perception — Einheiten pro Sicht vermerk. | Taxation. — Taxe. |\n| --- | --- | --- | --- |\n| 1 | Visa d'un passeport luxembourgeois — Sichtvermerk eines luxemburgischen Passes | par visa — pro Sichtvermerk . | 5 fr. |\n| 2 | Visa d'un passeport étranger — Sichtvermerk eines ausländischen Passes | — | taxe de réciprocité, minimum 10 fr. Gegenseitigkeitstaxe, Minimum 10 Fr. |\n| 3 | Certificat de vie — Lebensbescheinigung | par certificat — pro Bescheinigung | 3 fr. |\n| 4 | Certificat de nationalité — Heimatsschein | — | 3 fr. |\n| 5 | Certificat d'origine, de provenance, de destination — Ursprungs-, Herkunfts-, Bestimmungszeugnis | — | 3 fr. |\n| 6 | Certificat quelconque requis par l'autorité locale — Jedes andere Zeugnis von der Ortsbehörde verlangt | — | 5 fr. |\n| 7 | Tout autre certificat ou visa — Jedes andere Zeugnis oder Sichtvermerk | — | 5 fr. |\n| 8 | Légalisation d'un acte de l'état civil demandé clans un intérêt luxembourgeois — Beglaubigung einer Urkunde aus dem Zivilstandsregister, in luxemburgischem Interesse verlangt. | — | 3 fr. |\n| 9 | Légalisation d'un acte de l'état civil demandé dans un intérêt étranger — Beglaubigung einer Urkunde aus dem Zivilstandsregister, in ausländischem Interesse verlangt | — | taxe de réciprocité, minimum 6 fr. — Gegenseitigkeitstaxe, Minimum 6 Fr. |\n| 10 | Légalisation de toute autre pièce demandée dans un intérêt luxembourgeois — Beglaubigung jeder anderen Urkunde in luxemburgischem Interesse verlangt | — | 5 fr. |\n| 11 | Légalisation de toute autre pièce demandée dans un intérêt étranger — Beglaubigung jeder anderen Urkunde, in ausländischem Interesse verlangt | — | taxe de réciprocité, minimum 6 fr. — Gegenseitigkeitstaxe, Minimum 6 Fr. |\n| 12 | Recouvrement de créances, de successions ou de sommes quelconques effectué à la suite de l'intervention consulaire — Einziehung von Forderungen, Erbschaften oder irgendwelchen Summen infolge einer Dazwischenkunft des Konsuls | sur le montant des valeurs recouvrées — von dem Betrag der eingegangenen Summen | 1% sur les premiers 20.000 fr.;— 1% von den ersten 20.000 Fr.; ½% sur les 10.000 fr. suivants ; — ½ % von den folgenden 10.000 Fr,; ¼% sur le surplus; minimum 2 fr. — ¼% von dem Restbetrag; Minimum 2 Fr. |\n| 13 | Acte ou procès-verbal quelconque — Urkunde oder Protokoll irgendwelcher Art | premier rôle — erste Rolle | 10 fr. |\n|  |  | chaque rôle en sus — jede weitere Rolle | 5 fr. |\n| 14 | Expédition d'un acte ou d'un procès-verbal — Ausfertigung einer Urkunde oder eines Protokolles | par rôle — pro Rolle | 5 fr. |\n| 15 | Copie en langue étrangère — Abschrift in fremder Sprache | par rôle — pro Rolle | 10 fr. |\n| 16 | Traduction certifiée conforme — Beglaubigte Uebersetzung | premier rôle — erst Rolle | 20 fr. |\n|  |  | chaque rôle en sus — jede weitere Rolle | 10 fr. |",
+      "text_sha256": "c68822bb22d77d83a95b1201a45820fcb9ab5ad2860908be775c9a79131c1d1b",
+      "md_span": {
+        "start": 27787,
+        "end": 30613
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

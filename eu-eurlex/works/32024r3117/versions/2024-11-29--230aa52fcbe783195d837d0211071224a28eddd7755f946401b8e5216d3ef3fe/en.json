@@ -1,0 +1,492 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/3117 of 29\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-11-29",
+  "valid_to": "2024-12-26",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r3117/versions/2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe/en.xml",
+    "sha256": "46f32e9d4c58e2d2a1f20911d885558aa1d6b8587d6202efeff835ecd1333b58",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3117"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down uniform reporting formats, the frequency and dates of reporting for the reporting by institutions to their competent authorities in accordance with Article 415, paragraphs 3 and 3a, of Regulation (EU) No 575/2013, and Article 430, paragraphs 1 to 4, 7 and 9 of that Regulation.",
+      "text_sha256": "4ee9548dbc78f625cbedb9c7f00ba421b8100b2cd101c156064c469a4f6bd340",
+      "md_span": {
+        "start": 782,
+        "end": 1096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Institutions shall submit the information referred to in Annex I to competent authorities as that information stands on the following reporting reference dates:\n\n| (a) | monthly reporting: on the last day of each month; |\n| --- | --- |\n\n| (b) | quarterly reporting: 31 March, 30 June, 30 September and 31 December; |\n| --- | --- |\n\n| (c) | semi-annual reporting: 30 June and 31 December; |\n| --- | --- |\n\n| (d) | annual reporting: 31 December. |\n| --- | --- |\n\n2. Institutions shall report the financial information referred to in Annex I in accordance with the IFRS and with national accounting frameworks and referring to a certain period cumulatively from the first day of the accounting year to the reference date.\n\n3. Institutions that are permitted by national law to report their financial information based on their accounting year-end and where that accounting year-end deviates from the calendar year, may adjust reporting reference dates to bring those dates in line with the accounting year-end, so that the financial information, the information reported in accordance with Article 8, and the information for the identification of global systemically important institutions (G-SIIs) and the assignment of G-SII buffer rates is reported every 3, 6 or 12 months from their accounting year-end, respectively.",
+      "text_sha256": "949e745f4931de91e3d330c204a7429131317c55386ac270833647001bfedf79",
+      "md_span": {
+        "start": 1129,
+        "end": 2461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Institutions shall submit the information referred to in Annex I to the competent authorities by close of business on the following remittance dates:\n\n| (a) | monthly reporting: 15th calendar day after the reporting reference date; |\n| --- | --- |\n\n| (b) | quarterly reporting: 12 May, 11 August, 11 November and 11 February; |\n| --- | --- |\n\n| (c) | semi-annual reporting: 11 August and 11 February; |\n| --- | --- |\n\n| (d) | annual reporting: 11 February. |\n| --- | --- |\n\n2. Where the remittance day is a public holiday in the Member State of the competent authority to which the report is to be provided, or a Saturday or a Sunday, the institutions concerned shall submit data on the following working day.\n\n3. Institutions that report the financial information referred to in Annex I, or the information reported in accordance with Article 8, or information for the identification of G-SIIs and assignment of G-SII buffer rates using adjusted reporting reference dates based on their accounting year-end as set out in Article 2(3), may adjust the remittance dates so that the same remittance period from the adjusted reporting reference date is maintained.\n\n4. Institutions may submit unaudited figures. Where audited figures deviate from submitted unaudited figures, institutions shall submit the revised, audited figures without undue delay. Unaudited figures are figures that have not received an external auditor’s opinion whereas audited figures are figures audited by an external auditor expressing an audit opinion.\n\n5. Institutions shall submit to the competent authorities other corrections to the submitted reports than the corrections referred to in paragraph 4 without undue delay.",
+      "text_sha256": "eabdbd9cbc416ba03246955978a181247a16d90b64306b328a83758ad6c1e0db",
+      "md_span": {
+        "start": 2494,
+        "end": 4205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Small and non-complex institutions shall start reporting the information referred to in Annex I on the first reporting reference date following the date on which those institutions have met the criteria laid down in Article 4(1), point (145), of Regulation (EU) No 575/2013. Institutions that no longer meet those criteria shall stop reporting that information on the first reporting reference date following the date on which they no longer meet those criteria.\n\n2. Large institutions shall start reporting the information referred to in Annex I on the first reporting reference date following the date on which institutions have met the criteria laid down in Article 4(1), point (146) of Regulation (EU) No 575/2013. Institutions that no longer meet those criteria shall stop reporting that information subject on the first reporting reference date on which they no longer meet those criteria.\n\n3. Institutions shall start reporting the information referred to in Annex I subject to the thresholds set out in Article 5(2) and (3), Article 6(2) and (3), Articles 11 and 12, Article 15(2) to (5), and Articles 17 to 20 of this Regulation on the reporting reference date following the date on which those thresholds have been exceeded on two consecutive reporting reference dates. Institutions may stop reporting information subject to the thresholds set out in those Articles on the reporting reference date following the date on which they have fallen below the relevant thresholds on three consecutive reporting reference dates.\n\n4. By way of derogation from paragraph 3, institutions shall start reporting where they meet any of the following conditions in the 6 months preceding the reference date:\n\n| (a) | the institution concerned has been authorised to commence its activities as a credit institution pursuant to Article 8 of Directive 2013/36/EU of the European Parliament and of the Council (5); |\n| --- | --- |\n\n| (b) | the institution is an investment firm that is subject to Regulation (EU) No 575/2013 by virtue of exceeding the threshold set out in Article 4(1), point (1)(b), of that Regulation or by virtue of a decision of the competent authority in accordance with Article 5 of Directive (EU) 2019/2034 of the European Parliament and of the Council (6); |\n| --- | --- |\n\n| (c) | the institution is an entity that results from either the merger of at least two institutions or the split of an institution into at least two institutions. |\n| --- | --- |\n\n5. For the institutions referred to in paragraph 4, the following shall apply in relation to their reporting that is subject to the thresholds set out in Article 4 for the first two reference dates:\n\n| (a) | institutions that exceed the relevant threshold already on the first reference date shall report the information that is subject to that threshold both for the first and for the second reference dates; |\n| --- | --- |\n\n| (b) | institutions that exceed the relevant threshold only on the second reference date, institutions shall report the information that is subject to that threshold on the second reference date. |\n| --- | --- |\n\nInstitutions that have fallen below the relevant thresholds referred to in points (a) and (b) on three consecutive reporting reference dates may stop reporting information subject to the threshold on the next reporting reference date.",
+      "text_sha256": "7124fb4f7c456a07939ae3de11262956a7582e73f40b3242e37a4b2f822e23de",
+      "md_span": {
+        "start": 4238,
+        "end": 7599
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_202403117EN.000101-E0005",
+          "text": "(5)"
+        },
+        {
+          "href": "#ntr6-L_202403117EN.000101-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Institutions that report information on own funds and on own funds requirements as required by Article 430(1), point (a), of Regulation (EU) No 575/2013 on an individual basis shall submit that information as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation with a quarterly frequency.\n\n2. Institutions shall submit the information specified in templates C09.01 and C 09.02, and in particular the information on the geographical distribution of exposures by country, where non-domestic original exposures in all non-domestic countries in all exposure classes, as reported in accordance with template C 04.00, row 0850, are equal to or higher than 10 % of total domestic and non-domestic original exposures as reported in accordance with template C 04.00, row 0860. Exposures shall be deemed to be domestic where they are exposures to counterparties located in the Member State where the institution is established.\n\n3. Institutions that apply the core approach in accordance with Commission Delegated Regulation (EU) 2016/101 (7) and which exceed the threshold referred to in Article 4(1) of that Regulation shall report the information specified in templates C 32.03 and C 32.04.\n\n4. For the calculation of the own funds requirements referred to in Article 92(4), points (b)(i) and (c), and Article 92(5), points (b) and (c), of Regulation (EU) No 575/2013, institutions shall, until 31 December 2025, submit the information on own funds requirements relating to market risk in accordance with Article 5(12) of Implementing Regulation (EU) 2021/451.",
+      "text_sha256": "5b3d990277a6b9f4f4222e98de74ac4f5f290db348ff7f9a168c00975d3085e3",
+      "md_span": {
+        "start": 7632,
+        "end": 9254
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202403117EN.000101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Institutions that report information on own funds and on own funds requirements as required by Article 430(1), point (a), of Regulation (EU) No 575/2013 on an individual basis shall submit that information as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of the Annex I with a semi-annual frequency.\n\n2. Institutions shall submit information on all securitisation exposures as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of the Annex I, templates C 14.00 and C 14.01; except where they are part of a group in the same country in which they are subject to own funds requirements.\n\n3. Institutions shall submit information on sovereign exposures as follows:\n\n| (a) | where the aggregate carrying amount of financial assets from the counterparty sector ‘General governments’ is equal to or higher than 1 % of the sum of total carrying amount for ‘Debt securities’ and ‘Loans and advances’, institutions shall submit the information as specified in template C 33.00; |\n| --- | --- |\n\n| (b) | where the value reported for domestic exposures of non-derivative financial assets as specified in row 0010, column 0010 in template C 33.00 is less than 90 % of the value reported for domestic and non-domestic exposures for the same data point, institutions that meet the condition referred to in point (a) shall submit the information as specified in template C 33.00, with a full country breakdown; |\n| --- | --- |\n\n| (c) | institutions that meet the conditions referred to in point (a) and do not meet the condition referred in point (b) shall submit the information specified in template C 33.00, with exposures aggregated at:(i)total level; and(ii)domestic level. |\n| --- | --- |\n| (i) | total level; and |\n| (ii) | domestic level. |\n\n4. Institutions shall submit information on material losses relating to operational risk as follows:\n\n| (a) | institutions that calculate in December 2024 own funds requirements relating to operational risk in accordance with Part Three, Title III, Chapter 4, of Regulation (EU) No 575/2013 shall continue to report that information as specified in templates C 17.01 and C 17.02; |\n| --- | --- |\n\n| (b) | large institutions that calculate in December 2024 own funds requirements relating to operational risk in accordance with Part Three, Title III, Chapter 3, of Regulation (EU) No 575/2013 shall continue to report that information as specified in templates C 17.01 and C 17.02; |\n| --- | --- |\n\n| (c) | institutions other than large institutions that calculate in December 2024 own funds requirements relating to operational risk in accordance with Part Three, Title III, Chapter 3, of Regulation (EU) No 575/2013 shall continue to report the following information:(i)the information specified in template C 17.01, column 0080 for the following rows:(1)number of events (new events) (row 0910);(2)gross loss amount (new events) (row 0920);(3)number of events subject to loss adjustments (row 0930);(4)loss adjustments relating to previous reporting periods (row 0940);(5)maximum single loss (row 0950);(6)sum of the five largest losses (row 0960);(7)total direct loss recovery (except insurance and other risk transfer mechanisms) (row 0970);(8)total recoveries from insurance and other risk transfer mechanisms (row 0980);(ii)the information specified in template C 17.02; |\n| --- | --- |\n| (i) | the information specified in template C 17.01, column 0080 for the following rows:(1)number of events (new events) (row 0910);(2)gross loss amount (new events) (row 0920);(3)number of events subject to loss adjustments (row 0930);(4)loss adjustments relating to previous reporting periods (row 0940);(5)maximum single loss (row 0950);(6)sum of the five largest losses (row 0960);(7)total direct loss recovery (except insurance and other risk transfer mechanisms) (row 0970);(8)total recoveries from insurance and other risk transfer mechanisms (row 0980); |\n| (1) | number of events (new events) (row 0910); |\n| (2) | gross loss amount (new events) (row 0920); |\n| (3) | number of events subject to loss adjustments (row 0930); |\n| (4) | loss adjustments relating to previous reporting periods (row 0940); |\n| (5) | maximum single loss (row 0950); |\n| (6) | sum of the five largest losses (row 0960); |\n| (7) | total direct loss recovery (except insurance and other risk transfer mechanisms) (row 0970); |\n| (8) | total recoveries from insurance and other risk transfer mechanisms (row 0980); |\n| (ii) | the information specified in template C 17.02; |\n\n| (d) | institutions as referred to in point (c) may report the complete set of information specified in templates C 17.01 and C 17.02; |\n| --- | --- |\n\n| (e) | large institutions that calculate in December 2024 own funds requirements relating to operational risk in accordance with Part Three, Title III, Chapter 2, of Regulation (EU) No 575/2013 shall continue to report the information as specified in templates C 17.01 and C 17.02; |\n| --- | --- |\n\n| (f) | institutions other than large institutions that calculate in December 2024 own funds requirements relating to operational risk in accordance with Part Three, Title III, Chapter 2, of Regulation (EU) No 575/2013 may continue to report the information as specified in templates C 17.01 and C 17.02. |\n| --- | --- |",
+      "text_sha256": "afc1212699e71f58fad83570da43c1128efa2ece89ffc6b1c0f54680fadc622e",
+      "md_span": {
+        "start": 9287,
+        "end": 14622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nInstitutions that report information on own funds and on own funds requirements as required by Article 430(1), point (a), of Regulation (EU) No 575/2013 on a consolidated basis shall submit that information as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation as follows:\n\n| (a) | the information requirement laid down in Annex I that further specifies the reporting required pursuant to Articles 5 and 6 of this Regulation with the frequency specified therein; |\n| --- | --- |\n\n| (b) | the information requirement laid down in Annex I that further specifies the reporting relating the group solvency regarding entities included in the scope of consolidation, with a semi-annual frequency. |\n| --- | --- |",
+      "text_sha256": "e6846a30cfdf94beca0a4340e09096194658904a293fe9e3a658709526810e13",
+      "md_span": {
+        "start": 14655,
+        "end": 15428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Institutions that are to disclose the information referred to in Article 438, points (e) or (h), or Article 452, points (b), (g) or (h), of Regulation (EU) No 575/2013 with the frequency set out in Article 433a or Article 433c of that Regulation, on an individual basis in accordance with Article 6 of that Regulation, or on a consolidated basis in accordance with Article 13 of that Regulation, as applicable, shall submit the information as specified in templates C 08.03, C 08.04, C08.05, C 08.05.01, C 08.06, C 08.07 and C 34.11 of Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation.\n\n2. Institutions that are to disclose the information referred to in Article 439, point (l), of Regulation (EU) No 575/2013 with the frequency set out in Article 433a or Article 433c of that Regulation, as applicable, on an individual basis in accordance with Article 6 of that Regulation or on a consolidated basis in accordance with Article 13 of that Regulation, as applicable, shall submit the information as specified in template C 34.07 of section 1 – ‘Reporting on own funds and own funds’ of Annex I to this Regulation.",
+      "text_sha256": "4821273a4f67bc2eebeba710233319e6111fbbc85efae05d0e184d0eadd08976",
+      "md_span": {
+        "start": 15461,
+        "end": 16633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Investment firms that are subject to Article 95 of Regulation (EU) No 575/2013 and that apply the transitional provisions set out in Article 57(3) of Regulation (EU) 2019/2033 shall, when they report information on own funds requirements, as required by Article 430(1), point (a), of Regulation (EU) No 575/2013, on an individual basis, with the exception of information on the leverage ratio, submit the information as specified in the templates C 01.00 to C 05.02 of Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation with a quarterly frequency.\n\n2. Investment firms that are subject to Article 96 of Regulation (EU) No 575/2013 and that apply the transitional provisions set out in Article 57(3) of Regulation (EU) 2019/2033 shall, when they report information on own funds requirements, as required by Article 430(1), point (a), of Regulation (EU) No 575/2013, on an individual basis, submit the information referred to in Article 5, paragraphs 1 to 4, and Article 6(2) of this Regulation with the frequency laid down in those Articles as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation.",
+      "text_sha256": "a48d59a204217da6b20e021aa6e0b9147d4822c5c446ff04cd09bec76797a483",
+      "md_span": {
+        "start": 16666,
+        "end": 17873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Investment firms of groups that consist only of investment firms that apply the transitional provisions set out in Article 57(3) of Regulation (EU) 2019/2033 with reference to Article 95 of Regulation (EU) No 575/2013 shall, when they report information on own funds requirements as required by Article 430(1), point (a), of Regulation (EU) No 575/2013, on a consolidated basis, with the exception of information on the leverage ratio, submit the information as specified in Section 1 – ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation as follows:\n\n| (a) | the information on own funds and on own funds requirements as specified in templates C 01.00 to C 05.02 of Section 1 of Annex I to this Regulation with a quarterly frequency; |\n| --- | --- |\n\n| (b) | the information on own funds and on own funds requirements regarding entities included in the scope of consolidation, as specified in templates C 06.01 and C 06.02 of Section 1 of Annex I to this Regulation, with a semi-annual frequency. |\n| --- | --- |\n\n2. Investment firms of groups that consist only of investment firms that apply the transitional provisions set out in Article 57(3) of Regulation (EU) 2019/2033 with reference to Article 96 of Regulation (EU) No 575/2013, shall, when they report information on own funds requirements, as required by Article 430(1), point (a), of Regulation (EU) No 575/2013, on a consolidated basis, submit the information as specified in section 1- ‘Reporting on own funds and own funds requirements’ of Annex I to this Regulation as follows:\n\n| (a) | the information specified in Article 5, paragraphs (1) to (4) and Article 6(2) of this Regulation with the frequency laid down in those Articles; |\n| --- | --- |\n\n| (b) | the information regarding entities included in the scope of consolidation as specified in templates C 06.01 and C 06.02 of Section 1 of Annex I to this Regulation with a semi-annual frequency. |\n| --- | --- |",
+      "text_sha256": "9a390a26eae3a970cb0eb723b4fdb3b30b8325ad0cf7fd4fa3e9de2cb64b715f",
+      "md_span": {
+        "start": 17908,
+        "end": 19884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nInstitutions that submit financial information on a consolidated basis in accordance with Article 430(3) or (4) of Regulation (EU) No 575/2013 shall submit that information as specified in Section 2 – ‘Reporting on Financial information according to IFRS’ of Annex I to this Regulation with the following frequency:\n\n| (a) | the information specified in templates F 01.01 to F 19.00 of Section 2 in Annex I to this Regulation with a quarterly frequency; |\n| --- | --- |\n\n| (b) | the information specified in templates F 30.01 to F 31.02 of Section 2 of Annex I to this Regulation with a semi-annual frequency; |\n| --- | --- |\n\n| (c) | the information specified in templates F 40.01 to F 46.00 of Section 2 of Annex I to this Regulation with an annual frequency; |\n| --- | --- |\n\n| (d) | the information specified in templates F 20.01 to F 20.07.1 of Section 2 of Annex I to this Regulation with a quarterly frequency where the institution exceeds the threshold laid down in Article 5(2), second subparagraph, of this Regulation; |\n| --- | --- |\n\n| (e) | the information specified in template F 21.00 of Section 2 of Annex I to this Regulation with a quarterly frequency where tangible assets subject to operating leases are equal to or higher than 10 % of total tangible assets as reported in accordance with template F 01.01 of Section 2 of Annex I to this Regulation; |\n| --- | --- |\n\n| (f) | the information specified in template F 22.01 and F 22.02 of Section 2 of Annex Ito this Regulation with a quarterly frequency where net fee and commission income is equal to or higher than 10 % of the sum of net fee and commission income and net interest income as reported in accordance with template F 02.00 of Section 2 of Annex I to this Regulation; |\n| --- | --- |\n\n| (g) | the information specified in templates F 23.01 to 26.00 of Section 2 of Annex I to this Regulation, with a quarterly frequency where both of the following conditions are fulfilled:(i)the institution is not a small and non-complex institution;(ii)the ratio between the institution’s gross carrying amount of loans and advances that fall under Article 47a(3) of Regulation (EU) No 575/2013 and the total gross carrying amount of loans and advances that fall under Article 47a(1) of that Regulation is equal to or higher than 5 %; |\n| --- | --- |\n| (i) | the institution is not a small and non-complex institution; |\n| (ii) | the ratio between the institution’s gross carrying amount of loans and advances that fall under Article 47a(3) of Regulation (EU) No 575/2013 and the total gross carrying amount of loans and advances that fall under Article 47a(1) of that Regulation is equal to or higher than 5 %; |\n\n| (h) | the information specified in template F 47.00 of Section 2 of Annex I to this Regulation with an annual frequency where both of the conditions set out in point (g) of this paragraph are fulfilled. |\n| --- | --- |\n\nFor the purposes of point (g)(ii), the ratio shall not include loans and advances classified as held for sale, cash balances at central banks, and other demand deposits in either the denominator or the numerator.",
+      "text_sha256": "5ff757eb0d3751be3a33814109ae18086f348a32595f681ce10f9f6414952bd9",
+      "md_span": {
+        "start": 19919,
+        "end": 23048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nWhere a competent authority has extended the reporting requirements on financial information to institutions established in a Member State in accordance with Article 430(4) of Regulation (EU) No 575/2013, institutions shall submit the financial information on a consolidated basis as specified in Section 3 – ‘Reporting on Financial information according to GAAP’ of Annex I to this Regulation with the following frequency:\n\n| (a) | the information specified in templates F 01.01 to F 19.00 of Section 3 of Annex I to this Regulation with a quarterly frequency; |\n| --- | --- |\n\n| (b) | the information specified in F 30.01 to F 31.02 of Section 3 of Annex I to this Regulation with a semi-annual frequency; |\n| --- | --- |\n\n| (c) | the information specified in F 40.01 to F 46.00 of Section 3 of Annex I to this Regulation with an annual frequency; |\n| --- | --- |\n\n| (d) | the information specified in templates F 20.01 to F 20.07.1 of Section 3 of Annex I to this Regulation with a quarterly frequency where the institution exceeds the threshold laid down in Article 5(2), second subparagraph, of this Regulation; |\n| --- | --- |\n\n| (e) | the information specified in template F 21.00 of Section 3 of Annex I to this Regulation with a quarterly frequency where tangible assets subject to operating leases are equal to or higher than 10 % of total tangible assets as reported in accordance with template F 01.01 of Section 3 of Annex I to this Regulation; |\n| --- | --- |\n\n| (f) | the information specified in template F 22.01 and F 22.02 of Section 3 of Annex I to this Regulation with a quarterly frequency where net fee and commission income is equal to or higher than 10 % of the sum of net fee and commission income and net interest income as reported in accordance with template F 02.00 of Section 3 of Annex I to this Regulation; |\n| --- | --- |\n\n| (g) | the information specified in templates F 23.01 to 26.00 of Section 3 of Annex I to this Regulation with a quarterly frequency where both of the following conditions are fulfilled:(i)the institution is not a small or non-complex;(ii)the institution’s ratio as specified in Article 11(2), point (g)(ii), of this Regulation is equal to or higher than 5 %; |\n| --- | --- |\n| (i) | the institution is not a small or non-complex; |\n| (ii) | the institution’s ratio as specified in Article 11(2), point (g)(ii), of this Regulation is equal to or higher than 5 %; |\n\n| (h) | the information specified in template F 47.00 of Section 3 of Annex I to this Regulation with an annual frequency where both of the conditions set out in point (g) of this paragraph are fulfilled. |\n| --- | --- |",
+      "text_sha256": "de4d80d2eda1c269d9a4f2e9eea40c5bfd90623eb1df35b87457c6bf6dd5f843",
+      "md_span": {
+        "start": 23083,
+        "end": 25738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Institutions shall submit the aggregate data referred to in Article 430a(1) of Regulation (EU) No 575/2013 on a consolidated basis as specified in Section 4 – ‘Reporting on information on losses stemming from lending collateralised by immovable property’ of Annex I to this Regulation with an annual frequency.\n\n2. Institutions shall submit the aggregate data referred to in Article 430a(1) of Regulation (EU) No 575/2013 on an individual basis as specified in Section 4 – ‘Reporting on information on losses stemming from lending collateralised by immovable property’ of Annex I to this Regulation with an annual frequency.\n\n3. Where an institution has a branch in another Member State, that branch shall submit to the competent authority of the host Member State the aggregate data referred to in Article 430a(1) of Regulation (EU) No 575/2013 as specified in Section 4 – ‘Reporting on information on losses stemming from lending collateralised by immovable property’ of Annex I to this Regulation with an annual frequency.",
+      "text_sha256": "cb688bad2338e033944624dce6962d1c886fde7f32d841a98d08829fad7fc3db",
+      "md_span": {
+        "start": 25773,
+        "end": 26813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nInstitutions that report the information referred to in Article 394 of Regulation (EU) No 575/2013 on both an individual and a consolidated basis shall submit that information as specified in Section 5 – ‘Reporting on large exposures and concentration risk’ of Annex I to this Regulation with a quarterly frequency.",
+      "text_sha256": "110154306fb69b3f9df84f073192faa73a0bb69c915a028fc8407f42a94334a2",
+      "md_span": {
+        "start": 26848,
+        "end": 27175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Institutions that report their leverage ratio as referred to in Article 430(1), point (a), of Regulation (EU) No 575/2013 on both an individual and a consolidated basis shall submit that information as specified in Section 6 – ‘Reporting on the leverage’ of Annex I to this Regulation with a quarterly frequency. Only large institutions shall submit template C 48.00 on information on leverage ratio volatility.\n\n2. The information specified in template C 40.00, cell {r0410;c0010}on the total assets shall be reported only by:\n\n| (a) | large institutions that either are G-SIIs or have issued securities that are admitted to trading on a regulated market with a semi-annual frequency; |\n| --- | --- |\n\n| (b) | large institutions other than G-SIIs that are not listed institutions with an annual frequency; |\n| --- | --- |\n\n| (c) | institutions other than large institutions and small and non-complex institutions that have issued securities that are admitted to trading on a regulated market with an annual frequency. |\n| --- | --- |\n\n3. Institutions shall report the additional information on leverage ratio as specified in template C 40.00, cells {r0010;c0010}, {r0010;c0020}, {r0020;c0010}, {r0020;c0020}, {r0030;c0070}, {r0040;c0070}, {r0050;c0010}, {r0050;c0020}, {r0060;c0010}, {r0060;c0020}, and {r0060;c0070}, where at least one of the following conditions is met:\n\n| (a) | the derivative share specified as the derivative exposure measure divided by the total exposure measure, is more than 1,5 %; |\n| --- | --- |\n\n| (b) | the derivative share specified as the derivative exposure measure divided by the total exposure measure, exceeds 2 %. |\n| --- | --- |\n\nWhere an institution meets only the condition laid down in point (a) of the first subparagraph, the entry and exit criteria of Article 4(3) of this Regulation shall apply. An institution that meets the conditions laid down in both point (a) and point (b) of the first subparagraph shall start reporting information on leverage ratiofor the reference date following the reporting reference date on which it exceeded the threshold.\n\n4. Institutions for which the total notional value of derivatives as specified in template C 40.00, cell {r0010;c0070}, exceeds EUR 10 000 million shall report the information referred to in template 40.00, cells {r0010;c0010}, {r0010;c0020}, {r0020;c0010}, {r0020;c0020}, {r0030;c0070}, {r0040;c0070}, {r0050;c0010}, {r0050;c0020}, {r0060;c0010}, {r0060;c0020}, and {r0060;c0070}, even if their derivatives share does not fulfil the conditions set out in paragraph 3.\n\nFor the purposes of the first subparagraph paragraph, the entry criteria of Article 4(3) of this Regulation shall not apply. Institutions shall start reporting information from the next reporting reference date where they have exceeded the threshold on one reporting reference date.\n\n5. Institutions shall report the information referred to in template C 40.00, cells {r0020;c0075}, {r0050;c0075} and {r0050;c0085}, where one of the following conditions is met:\n\n| (a) | the credit derivatives volume specified in template C 40.00 as {r0020;c0070} + {r0050;c0070}, exceeds EUR 300 million; |\n| --- | --- |\n\n| (b) | the credit derivatives volume specified in template C 40.00 as {r0020;c0070} + {r0050;c0070}, exceeds EUR 500 million. |\n| --- | --- |\n\nWhere an institution meets only the condition laid down in point (a) of the first subparagraph, the entry and exit criteria of Article 4(3) of this Regulation shall apply. An institution that meets the conditions laid down in both point (a) and point (b) of the first subparagraph shall start reporting that information for the reference date following the reporting reference date on which it exceeded the threshold.",
+      "text_sha256": "f951c5a62325819a95c2f5d236894b0e977be636ea5e5d9021ff55ea511005ab",
+      "md_span": {
+        "start": 27210,
+        "end": 30962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Institutions that report their liquidity coverage as referred to in Article 412 of Regulation (EU) No 575/2013 and as required by Article 430(1), point (d), of that Regulation on both an individual and a consolidated basis shall submit that information as specified in Section 10 – ‘Reporting on the liquidity’ on Annex I to this Regulation with a monthly frequency.\n\n2. For the purposes of reporting the information set out in Section 10 – ‘Reporting on liquidity coverage’ of Annex I to this Regulation, institutions shall take into account the information submitted for the reference date and the information on the cash-flows over the 30 calendar days following the reference date.",
+      "text_sha256": "53184bad6025ac67f600eef8e87386705af265e3dead24c30d86839c76b46246",
+      "md_span": {
+        "start": 30997,
+        "end": 31697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nInstitutions that report their stable funding requirement as referred to in Article 413 of Regulation (EU) No 575/2013 and as required by Article 430(1), point (d), of that Regulation on both an individual and a consolidated basis shall submit that information as specified in Section 7 – ‘Reporting on stable funding’ of Annex I to this Regulation with a quarterly frequency as follows:\n\n| (a) | small and non-complex institutions that have chosen to calculate their net stable funding ratio (NSFR) using the methodology set out in Part Six, Title IV, Chapters 6 and 7 of Regulation (EU) No 575/2013, with the prior permission of their competent authority in accordance with Article 428ai of that Regulation, shall submit templates C 82 and C 83; |\n| --- | --- |\n\n| (b) | institutions other than those referred to in point (a) shall submit templates C 80 and C 81; |\n| --- | --- |\n\n| (c) | all institutions shall submit template C 84. |\n| --- | --- |",
+      "text_sha256": "2a1c317016299f0fa4a964231797524d4b57dbcbcf3e7bc246eedf6d178572fd",
+      "md_span": {
+        "start": 31732,
+        "end": 32695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nInstitutions that report information on additional liquidity monitoring metrics as referred to in Article 415(3), point (b), of Regulation (EU) No 575/2013 and as required by Article 430(1), point (d), of that Regulation on both an individual and a consolidated basis shall submit that information as specified in Section 9 – ‘Reporting on additional liquidity monitoring metrics’ of Annex I to this Regulation with the following frequency:\n\n| (a) | large institutions shall submit the information specified in templates C 66.01 and C 67.00 to C 71.00 of Section 9 of Annex I to this Regulation with a monthly frequency; |\n| --- | --- |\n\n| (b) | small and non-complex institutions shall submit the information specified in templates C 66.0, C 67.00 and C 71.00 of Section 9 of Annex I to this Regulation with a quarterly frequency; |\n| --- | --- |\n\n| (c) | institutions that are neither large institutions, nor small and non-complex institutions, shall submit the information specified in templates C 66.01 to C 69.00 and C 71.00 of Section 9 of Annex I to this Regulation with a monthly frequency. |\n| --- | --- |",
+      "text_sha256": "e7daba603d17786ed66af8692ea533e0f2b5c5642cf0fe5894a9e0c6765a8398",
+      "md_span": {
+        "start": 32730,
+        "end": 33856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Institutions that report on the level of asset encumbrance as referred to in Article 430(1), point (g), of Regulation (EU) No 575/2013 on both individual and consolidated basis shall submit that information as specified in Section 8 – ‘Reporting on asset encumbrance’ of Annex I with the following frequency:\n\n| (a) | the information specified in templates F 32.01 to F 33.00 and F35.00 of Section 8 of Annex I to this Regulation with a quarterly frequency; |\n| --- | --- |\n\n| (b) | the information specified in template F34.00 of Section 8 of Annex I to this Regulation with an annual frequency; |\n| --- | --- |\n\n| (c) | the information specified in templates F 36.01 and F 36.02 of Section 8 of Annex I to this Regulation with a semi-annual frequency. |\n| --- | --- |\n\n2. Institutions shall submit the information referred to in paragraph 1as follows:\n\n| (a) | institutions shall submit the information specified in Part A of Section 8 – ‘Reporting on asset encumbrance’; |\n| --- | --- |\n\n| (b) | large institutions shall submit the information specified in Parts B, C and E of Section 8 – ‘Reporting on asset encumbrance’; |\n| --- | --- |\n\n| (c) | institutions that are neither large institutions nor small and non-complex institutions shall submit the information specified in Parts B, C and E of Section 8 – ‘Reporting on asset encumbrance’ where the asset encumbrance level of the institution, specified as (Carrying amount of encumbered assets and collateral)/(Total assets and collateral), is equal to or above 15 %; |\n| --- | --- |\n\n| (d) | institutions shall report the information specified in Part D of Section 8 – ‘Reporting on asset encumbrance’, only where they issue bonds referred to in Article 52(4), first subparagraph, of Directive 2009/65/EC of the European Parliament and of the Council (9). |\n| --- | --- |",
+      "text_sha256": "3a0dac0db59bbf5b70b27ac7deb5428b4e9285781e97963bf5b86dc220b4bff6",
+      "md_span": {
+        "start": 33891,
+        "end": 35735
+      },
+      "citations": [
+        {
+          "href": "#ntr9-L_202403117EN.000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. When reporting supplementary information for the identification of G-SIIs and assigning G-SII buffer rates under Article 131 of Directive 2013/36/EU, EU parent institutions, EU parent financial holdings and EU parent mixed financial holdings shall submit the information specified in Section 11 – ‘Supplementary reporting for the purposes of identifying G-SIIs and assigning G-SII buffer rates’ of Annex I to this Regulation, on a consolidated basis with a quarterly frequency, where both of the following conditions are met:\n\n| (a) | the total exposure measure of the group, including insurance subsidiaries, is equal to or exceeds EUR 125 000 000 000; |\n| --- | --- |\n\n| (b) | the EU parent or any of its subsidiaries or any branch operated by the parent or by a subsidiary is located in a participating Member State as referred to in Article 4 of Regulation (EU) No 806/2014 of the European Parliament and of the Council (10). |\n| --- | --- |\n\n2. When reporting supplementary information for the identification of G-SIIs and assigning G-SII buffer rates under Article 131 of Directive 2013/36/EU, institutions shall submit the information specified in Section 11 – ‘Supplementary reporting for the purposes of identifying G-SIIs and assigning G-SII buffer rates’ of Annex I to this Regulation on an individual basis with a quarterly frequency, where all of the following conditions are met:\n\n| (a) | the total exposure measure of the institution is equal to or exceeds EUR 125 000 000 000; |\n| --- | --- |\n\n| (b) | the institution is located in a participating Member State as referred to in Article 4 of Regulation (EU) No 806/2014; |\n| --- | --- |\n\n| (c) | the institution is not part of a group that is subject to consolidated supervision (‘standalone institution’). |\n| --- | --- |\n\n3. By way of derogation from Article 3(1), point (b), institutions shall submit the information referred to in paragraphs 1 and 2 of this Article by close of business on the following remittance dates: 1 July, 1 October, 2 January and 1 April.\n\n4. By way of derogation from Article 4, the following shall apply with regard to the thresholds specified in paragraph 1, point (a), and paragraph 2, point (a), of this Article:\n\n| (a) | the EU parent institution, EU parent financial holding, EU parent mixed financial holding or standalone institution, as applicable, shall immediately start reporting the information referred to in paragraphs 1 and 2 in accordance with this Article where its leverage ratio exposure measure exceeds the specified threshold as of the end of the accounting year, and shall report that information for the end of that accounting year and the subsequent three quarterly reference dates; |\n| --- | --- |\n\n| (b) | the EU parent institution, EU parent financial holding, EU parent mixed financial holding or standalone institution, as applicable, shall immediately stop reporting the information referred to in paragraphs 1 and 2 in accordance with this Article where its leverage ratio exposure measure falls below the specified threshold as of the end of their accounting year. |\n| --- | --- |",
+      "text_sha256": "dfab4dd0d576637cdb5e6d4bd1982ded6cd6c497fe640a01461dc761d45d4834",
+      "md_span": {
+        "start": 35770,
+        "end": 38894
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_202403117EN.000101-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nInstitutions that report information on interest rate risk in the banking book in accordance with Article 84(5), Article 84(6) and Article 98(5a) of Directive 2013/36/EU on both an individual and a consolidated basis shall submit the information referred to in those Articles as specified in Section 12 – ‘Reporting on interest rate risk in the banking book’ of Annex I to this Regulation with the following frequency:\n\n| (a) | by all institutions: template J 01.00 of section 12 of Annex I with a quarterly frequency; |\n| --- | --- |\n\n| (b) | by large institutions: templates J 02.00, J 05.00 and J 08.00 of section 12 of Annex I with a quarterly frequency; |\n| --- | --- |\n\n| (c) | by institutions that are neither large institutions nor small and non-complex institutions: templates J 03.00 and J 06.00 of section 12 of Annex I with a quarterly frequency; |\n| --- | --- |\n\n| (d) | by small and non-complex institutions: templates J 04.00 and J 07.00 of section 12 of Annex I with a quarterly frequency; |\n| --- | --- |\n\n| (e) | by institutions that are neither large institutions nor small and non-complex institutions and by small and non-complex institutions: template J 09.00 of section 12 of Annex I with quarterly frequency; |\n| --- | --- |\n\n| (f) | by large institutions: templates J 10.01 and J 10.02 of section 12 of Annex I with an annual frequency; |\n| --- | --- |\n\n| (g) | by institutions that are neither large institutions nor small and non-complex institutions and by small and non-complex institutions: templates J 11.01 and J 11.02 of section 12 of Annex I with an annual frequency. |\n| --- | --- |",
+      "text_sha256": "c0a46e9f3c3c544ccdff37f364c8b728637f947c5822f8f8353eedbf1803e021",
+      "md_span": {
+        "start": 38929,
+        "end": 40558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. The EBA shall ensure that the IT solutions, including reporting templates and instructions, developed pursuant to Article 430(7) of Regulation (EU) No 575/2013 comply with the uniform reporting formats laid down in this Regulation at all times and include all the data points and information listed in Annex I to this Regulation.\n\n2. The EBA shall make available on its website the IT solutions, reporting templates and instructions referred to in paragraph 1. The EBA shall keep those IT solutions up-to-date and available in all official languages.",
+      "text_sha256": "bf21a16be653f73cb70c66e8d42c97181417c4b3427ba38034e5d9ec5193b90d",
+      "md_span": {
+        "start": 40593,
+        "end": 41158
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Institutions shall submit the information to be submitted under this Regulation in the data exchange formats and representations specified by the competent authorities, respect the data point definition of the data point model and the validation formulae referred to in the IT solutions made available on the EBA website, and comply with the following specifications:\n\n| (a) | they shall not include information in the data submission that is not required or not applicable; |\n| --- | --- |\n\n| (b) | they shall submit numerical values as follows:(i)they shall report data points with the data type ‘Monetary’ using a minimum precision equivalent to ten thousands of units;(ii)they shall express data points with the data type ‘Percentage’ as per unit with a minimum precision equivalent to four decimals;(iii)they shall not use decimals when reporting data points with the data type ‘Integer’ and shall use a precision equivalent to units; |\n| --- | --- |\n| (i) | they shall report data points with the data type ‘Monetary’ using a minimum precision equivalent to ten thousands of units; |\n| (ii) | they shall express data points with the data type ‘Percentage’ as per unit with a minimum precision equivalent to four decimals; |\n| (iii) | they shall not use decimals when reporting data points with the data type ‘Integer’ and shall use a precision equivalent to units; |\n\n| (c) | they shall identify institutions and insurance undertakings solely by their Legal Entity Identifier (LEI); |\n| --- | --- |\n\n| (d) | they shall identify legal entities and counterparties other than institutions and insurance undertakings by their LEI, where available. |\n| --- | --- |\n\n2. Institutions shall, together with the submitted information, submit the following information:\n\n| (a) | the reporting reference date and reference period; |\n| --- | --- |\n\n| (b) | the reporting currency; |\n| --- | --- |\n\n| (c) | the accounting standard; |\n| --- | --- |\n\n| (d) | the Legal Entity Identifier (LEI) of the reporting institution; |\n| --- | --- |\n\n| (e) | the scope of consolidation. |\n| --- | --- |",
+      "text_sha256": "ab9da43bbbf1c8cfae077d13ea44c79ba71e08aa6f22fd5357b716e0559d95b1",
+      "md_span": {
+        "start": 41193,
+        "end": 43289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. The remittance date for information with a quarterly reporting frequency relating to the reference date 31 March 2025, for the information to be reported pursuant to Articles 5, 7 to 10 and Article 15 of this Regulation, shall be 30 June 2025 at the latest.\n\n2. The first reference date for information to be reported on the composition of the trading book and the reclassifications between books pursuant to Article 5 of this Regulation shall be the last business day of the quarter in which the alternative approaches set out in Part Three, Title IV, Chapters 1a and 1b of Regulation (EU) No 575/2013 become applicable for the calculation of the own funds requirements referred to in Article 92(4), points (b)(i) and (c), and Article 92(5), points (b) and (c), of that Regulation.",
+      "text_sha256": "933ca1539dd53ebb684fd663ed25139aec9806d6c8bc1d4a1042b9de4db769e2",
+      "md_span": {
+        "start": 43324,
+        "end": 44121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. Implementing Regulation (EU) 2021/451 shall cease to apply from 1 January 2025, except for Article 5(12) and Annex I, templates 18 to 24, and Annex II, Part II, points 5.1 to 5.7. Article 15 of Implementing Regulation (EU) 2021/451 shall continue to apply until 31 December 2025 only for the purposes of Article 5(4) of this Regulation.\n\n2. Implementing Regulation (EU) 2021/451 is repealed with effect from 31 December 2025.\n\n3. References to the repealed Regulation shall be construed as references to this Regulation and be read in accordance with the correlation table in Annex II.’",
+      "text_sha256": "ef14e86b826ed156402ced93272acda8063b5a66a01f3e7897698fe57baefae3",
+      "md_span": {
+        "start": 44156,
+        "end": 44757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32024r3117:2024-11-29--230aa52fcbe783195d837d0211071224a28eddd7755f946401b8e5216d3ef3fe#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 28 June 2025.",
+      "text_sha256": "34050310aff428013718123ebe958359c386b8fcdd1b184bce5c6bf324e91eed",
+      "md_span": {
+        "start": 44792,
+        "end": 44969
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 2 février 2015 fixant le montant et les modalités de paiement des taxes à percevoir par l'Autorité luxembourgeoise indépendante de l'audiovisuel en matière de surveillance des services de médias audiovisuels et sonores.",
+  "valid_from": "2022-01-01",
+  "valid_to": "2022-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-02-02-n5/versions/2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7/fr.xml",
+    "sha256": "63109c9975538b6997e2d4bb4422438449ab6369a2aa24786cd442f383c1d1b0",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20220101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/art_1er/20220101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "Tout fournisseur de service de média audiovisuel ou sonore établi au Luxembourg dont le service est soumis à la surveillance de l'Autorité luxembourgeoise indépendante de l'audiovisuel, ci-après désignée par «l'Autorité», est assujetti au paiement d'une taxe annuelle forfaitaire à hauteur du montant de 2 000 (deux mille) euros.\n\nLa taxe est due pour chaque service de média audiovisuel qui est notifié conformément à l'article 23*bis*, 23*ter, *23*quater et 23quinquies* de la loi modifiée du 27 juillet 1991 sur les médias électroniques ou pour chaque service de média audiovisuel ou sonore pour lequel une concession ou une permission a été accordée. Toutefois, par dérogation, les fournisseurs ayant la forme d'une association sans but lucratif sont exempts du paiement de la taxe. Les fournisseurs de services de médias audiovisuels ou sonores établis au Luxembourg qui ne sont pas soumis à l’impôt sur le revenu des collectivités ou qui sont exempts de l’impôt sur le revenu des collectivités sont également exempts du paiement de la taxe.",
+      "text_sha256": "2fbafc12d2981c346b0db146416e611d6b666c1a4703fc7844cac22d2091c694",
+      "md_span": {
+        "start": 853,
+        "end": 1899
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi modifiée du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/art_2/20150101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Lorsque le service de média audiovisuel ou sonore est diffusé dans une langue autre que celles visées à l'article 3 de la loi du 24 février 1984 sur le régime des langues et que l'Autorité doit recourir aux services d'un expert externe, les frais engendrés par cette mission sont facturés par l'Autorité et doivent alors être réglés par le fournisseur du service de média audiovisuel ou sonore.",
+      "text_sha256": "2304386c911057904c396bf9b9ed70a7346d10a4a5af16a4bfde3064f73d88fc",
+      "md_span": {
+        "start": 1934,
+        "end": 2328
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/02/24/n1",
+          "text": "loi du 24 février 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/art_3/20150101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les taxes sont payables au courant du mois de janvier de l'année civile pour laquelle elles sont dues. Les frais d'experts encourus sont payables après réception de la facture émise par l'Autorité.\n\nLes taxes et frais sont payables à l'Autorité moyennant règlement sur l'un des comptes indiqués à cet effet par l'Autorité.",
+      "text_sha256": "b3f2f59995a4357e179879ac2a3296000ed32330199ef1bc90f19c1d799940c6",
+      "md_span": {
+        "start": 2363,
+        "end": 2685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/art_4/20150101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Les dispositions du présent règlement sont applicables à partir de l'exercice 2015.",
+      "text_sha256": "d43b18e41d20de0ba078096e3c24adf9b217dd011031cfb9d05ae5cadaff7f86",
+      "md_span": {
+        "start": 2720,
+        "end": 2803
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01--332a4dc7e997c2bc8f8ffc109431173552d240b8b1f69277fcc21c2302fd7dc7#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/art_5/20150101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "Notre Ministre des Communications et des Médias est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ec7c7911090d0b2df2f5a99f1dca288781a438c17af3093344604240a15f2350",
+      "md_span": {
+        "start": 2838,
+        "end": 2961
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,570 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/07/2018 : Loi du 10 novembre 2010 relative aux recours en matière de marchés publics et d’attribution de contrats de concession.",
+  "valid_from": "2018-07-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-11-10-n1/versions/2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1/fr.xml",
+    "sha256": "56f89df57df98a481b64dc988b9c4f15fe75071f2bad0d3169c4b11d155a48e6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180709/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_1er/20180709",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "La présente loi s’applique aux marchés visés par les livres II et III de la loi modifiée du 25 juin 2009 sur les marchés publics, dénommée ci-après par «la loi sur les marchés publics», sauf si ces marchés sont exclus en application des articles 24 à 32, de l’article 59, paragraphe (2), des articles 70 à 78, des articles 80 et 81 et de l’article 89 de cette même loi.\n\nLa présente loi s'applique aux marchés visés aux articles 1er et 2 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, à l'exception des marchés prévus aux articles 12 et 13 de cette loi et des marchés dont la valeur estimée hors taxe sur la valeur ajoutée (TVA) est inférieure aux seuils visés à l'article 8.\n\nLa présente loi s’applique aux concessions visées par la loi du 3 juillet 2018 sur l’attribution de contrats de concession, dénommée ci-après « la loi sur l’attribution de contrats de concession », dont la valeur estimée n’est pas inférieure aux seuils prévus à l’article 8 de cette loi, sauf si ces concessions sont exclues en application des articles 9, 10, 11, 16 et 25 de cette loi\n\nLes marchés visés à l’alinéa 1er incluent les marchés publics, les marchés de fournitures, de travaux et de services, et les accords cadres et les concessions de travaux publics visés par les livres II et III de la loi sur les marchés publics.\n\nLes procédures de recours sont accessibles à toute personne ayant ou ayant eu un intérêt à obtenir un marché déterminé et ayant été ou risquant d’être lésée par une violation alléguée de droit communautaire ou de droit national transposant le droit communautaire en matière de marchés publics.",
+      "text_sha256": "00347a51ad5046055af84365d8d4415a6d25ea84eda09feb5c92a146cc0866da",
+      "md_span": {
+        "start": 759,
+        "end": 2401
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/25/n1/jo",
+          "text": "loi modifiée du 25 juin 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/06/25/n1/jo",
+          "text": "même loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2012/12/26/n13/jo",
+          "text": "oi du 26 décembre 2012"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2012/12/26/n13/jo",
+          "text": "loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2018/07/03/a560/jo",
+          "text": "loi du 3 juillet 2018"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2018/07/03/a560/jo",
+          "text": "cette loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/06/25/n1/jo",
+          "text": "loi sur les marchés publics"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_2/20101116",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Les dispositions des articles 3, 4 et 6 sont uniquement applicables aux pouvoirs adjudicateurs visés à l’article 2 de la loi sur les marchés publics et aux entités adjudicatrices visées par l’article 56 de cette même loi qui sont des autorités administratives.\n\nLes dispositions des articles 20 et 21 sont uniquement applicables aux entités adjudicatrices privées visées par l’article 56 de la loi sur les marchés publics.\n\nSauf disposition contraire ou additionnelle prévue dans la présente loi en ce qui concerne le règlement de procédure des juridictions administratives, les dispositions de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif et de la loi du 21 juin 1999 portant règlement de procédure devant les juridictions administratives sont applicables.\n\nLes requêtes en référé devant le président du tribunal administratif prévues aux articles 3 et 6 de la présente loi doivent être signifiées au pouvoir adjudicateur ou à l’entité adjudicatrice visée de manière parallèle au dépôt au greffe du tribunal.\n\nSauf disposition contraire ou additionnelle prévue dans la présente loi, les recours qui relèvent des juridictions de l’ordre judiciaire sont réglés par les dispositions du Nouveau Code de procédure civile.",
+      "text_sha256": "95c8b84571b3cac82eb4321460fafb2b2fefaf585e4e60c7a7fee3b68861396a",
+      "md_span": {
+        "start": 2436,
+        "end": 3706
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/25/n1/jo",
+          "text": "loi sur les marchés publics"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/06/25/n1/jo",
+          "text": "même loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1996/11/07/n1/jo",
+          "text": "loi modifiée du 7 novembre 1996"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/21/n2/jo",
+          "text": "la loi du 21 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_3/20101116",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Le président du tribunal administratif ou le magistrat qui le remplace peut ordonner au provisoire toutes les mesures nécessaires qui ont pour but de faire corriger la violation alléguée ou d’empêcher d’autres dommages d’être causés aux intérêts concernés, y compris des mesures destinées à suspendre ou à faire suspendre la procédure de passation du marché en cause tant que le pouvoir adjudicateur ou l’entité adjudicatrice n’a pas procédé à la correction ordonnée.\n\nIl peut notamment supprimer les spécifications techniques, économiques ou financières discriminatoires figurant dans les documents de l’appel à la concurrence, dans les cahiers des charges ou dans tout autre document se rapportant à la procédure de passation du marché en cause.",
+      "text_sha256": "86027b67f014b88b0ae956c5891dbf9ef1c37cfd7d57a81e17223e75ff7cadc3",
+      "md_span": {
+        "start": 3741,
+        "end": 4488
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_4/20101116",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "**(1)** Le président du tribunal administratif, en tenant compte des conséquences probables des mesures pour tous les intérêts susceptibles d’être lésés, ainsi que de l’intérêt public, peut décider de ne pas accorder ces mesures lorsque des conséquences négatives pourraient dépasser leurs avantages. Une décision de ne pas accorder des mesures ne porte pas préjudice aux autres droits revendiqués par la personne requérant ces mesures.\n\n**(2)** Le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir, à la poursuite de la procédure de mise en concurrence, voire à la décision d’adjudication jusqu’à la notification de l’ordonnance en référé.\n\n**(3)** L’ordonnance est exécutoire dès sa notification.",
+      "text_sha256": "d36e90eb434480e7130b717461ac4e744d03c0b265016cc55a50185accceee34",
+      "md_span": {
+        "start": 4523,
+        "end": 5241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_5/20180709",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "La conclusion du contrat qui suit la décision d’attribution d’un marché relevant du champ d’application des Livres II et III de la loi sur les marchés publics ou du champ d’application de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou de la loi sur l’attribution de contrats de concession ne peut avoir lieu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour où la décision d’attribution du marché a été envoyée aux soumissionnaires et candidats concernés si un télécopieur ou un moyen électronique est utilisé ou, si d’autres moyens de communication sont utilisés, avant l’expiration d’un délai d’au moins quinze jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires et candidats concernés.\n\nLes soumissionnaires sont réputés concernés s’ils n’ont pas encore été définitivement exclus. Une exclusion est définitive si elle a été notifiée aux soumissionnaires concernés et a été jugée licite par une instance de recours indépendante ou ne peut plus faire l’objet d’un recours.\n\nLes candidats sont réputés concernés si le pouvoir adjudicateur ou l’entité adjudicatrice n’a pas communiqué les informations relatives au rejet de leur candidature avant que la décision d’attribution du marché soit notifiée aux soumissionnaires concernés.",
+      "text_sha256": "c99286538274c9aec66c38559787d81bd4dbbea90f18477c8d82fa4103c3bb77",
+      "md_span": {
+        "start": 5276,
+        "end": 6635
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2012/12/26/n13/jo",
+          "text": "loi du 26 décembre 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_6/20101116",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Le président du tribunal administratif peut être saisi endéans les délais prévus à l’article 5 conformément à l’article 11 de la loi du 21 juin 1999 portant règlement de procédure devant les juridictions administratives.\n\nLe pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu à l’article 5.",
+      "text_sha256": "433120cc572c82ecffc6a14a7f4a89f2f106359a95a99c7dfad13bf15441f0ea",
+      "md_span": {
+        "start": 6670,
+        "end": 7095
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/21/n2/jo",
+          "text": "loi du 21 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_7/20180709",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "La décision d’attribution est communiquée à chaque soumissionnaire et candidat concerné, accompagnée:\n\n- loi modifiée du 25 juin 2009 er loi sur l’attribution de contrats de concession\n- d’une mention précise de la durée exacte du délai de suspension applicable.",
+      "text_sha256": "082fbfa190acbb4360e67438cbb6343963a366894ed1b5b47026a9cb3561fdbf",
+      "md_span": {
+        "start": 7130,
+        "end": 7392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_8/20180709",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "Les délais visés à l’article 5 ne s’appliquent pas dans les cas suivants:\n\n1. si une publication préalable d’un avis au Journal officiel de l’Union européenne n’est pas obligatoire;\n2. si le seul soumissionnaire concerné au sens de l’article 5 est celui auquel le marché est attribué et en l’absence de candidats concernés;\n3. loi sur les marchés publics loi du 26 décembre 2012\n\nLorsque la dérogation visée au point c) est invoquée, le marché en cause est déclaré comme dépourvu d’effets conformément aux articles 9 à 11 et 15:\n\n- s’il y a eu violation des dispositions régissant l’attribution des marchés fondés sur les accords-cadres ou régissant l’attribution de marchés spécifiques fondés sur des systèmes d’acquisition dynamiques avec plusieurs opérateurs économiques remis en concurrence telles que fixées par règlement grand-ducal,\n- loi sur les marchés publics loi sur les marchés publics de la défense et de la sécurité",
+      "text_sha256": "ae4a4e0733c694acdcaf05e06003c2d4dd8933bb0c396ef6e400f7b463e69d97",
+      "md_span": {
+        "start": 7427,
+        "end": 8356
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_9/20180709",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "Un marché est déclaré dépourvu d’effets par le président du tribunal d’arrondissement siégeant comme juge des référés:\n\n1. loi sur les marchés publics loi sur l’attribution de contrats de concession\n2. loi sur les marchés publics loi du 26 décembre 2012 loi sur l’attribution de contrats de concession\n3. dans les cas visés à l’article 8, point c), deuxième alinéa.\n\nLa décision déclarant un marché dépourvu d’effets peut être subordonnée à une décision au fond établissant qu’une violation a été commise.",
+      "text_sha256": "a5a1e24fcfa4ced0d03b2c9d6df2f6b46ae06d1ddc5f3b918217697c1662d5cc",
+      "md_span": {
+        "start": 8391,
+        "end": 8896
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_10/20101116",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Les conséquences du constat de l’absence d’effets d’un marché sont laissées à l’appréciation du président du tribunal d’arrondissement siégeant comme juge des référés.\n\nL’annulation rétroactive de toutes les obligations contractuelles est possible, mais la portée de l’annulation peut également être limitée aux obligations qui doivent encore être exécutées. Dans ce deuxième cas, le président du tribunal d’arrondissement siégeant comme juge des référés devra imposer des pénalités financières au sens de l’article 14, paragraphe (2).",
+      "text_sha256": "5604b308de1f3b7385dc4f82a625b4fcf9b0dd0e5e184ce96c05c69018df810c",
+      "md_span": {
+        "start": 8933,
+        "end": 9468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_11/20130101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le président du tribunal d’arrondissement siégeant comme juge des référés a la faculté de ne pas considérer un marché comme étant dépourvu d’effets, même s’il a été passé illégalement pour des motifs visés à l’article 9, s’il constate, après avoir examiné tous les aspects pertinents, que des raisons impérieuses d’intérêt général imposent que les effets du marché soient maintenus. Dans ce cas, le président du tribunal d’arrondissement siégeant comme juge des référés doit imposer des sanctions financières, qui s’appliquent à titre de substitution.\n\nDans tous les cas, un marché ne peut être considéré comme ne produisant pas d'effet si les conséquences de cette absence d'effets peuvent sérieusement menacer l'existence même d'un programme de défense et de sécurité plus large qui est essentiel pour les intérêts d'un Etat membre de l'Union européenne en matière de sécurité.\n\nL’intérêt économique à ce que le marché produise ses effets ne peut être considéré comme une raison impérieuse que dans le cas où, dans des circonstances exceptionnelles, l’absence d’effets aurait des conséquences disproportionnées.\n\nToutefois, l’intérêt économique directement lié au marché concerné ne constitue pas une raison impérieuse d’intérêt général. L’intérêt économique directement lié au marché comprend notamment les coûts découlant d’un retard dans l’exécution du contrat, du lancement d’une nouvelle procédure de passation de marché, du changement d’opérateur économique pour la réalisation du contrat et d’obligations légales résultant de l’absence d’effets.",
+      "text_sha256": "6095c7d98872e2040fd42d4ab4effaa17d17c350773b47f096271fab47451a32",
+      "md_span": {
+        "start": 9505,
+        "end": 11059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_12/20180709",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "L’intervention du président du tribunal d’arrondissement siégeant comme juge des référés prévue à l’article 9, point a) est exclue si:\n\n- loi sur les marchés publics loi du 26 décembre 2012 loi sur l’attribution de contrats de concession\n- Journal officiel de l’Union européenne\n- Journal officiel de l’Union européenne\n\nEn cas de recours dans le délai prévu au troisième tiret selon les modalités des articles 6 ou 21, le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu au troisième tiret.",
+      "text_sha256": "4ad33aabe46414c37a2aae76fbacddcfcf6cb30fe4c1980b7b6910e82fb648b0",
+      "md_span": {
+        "start": 11096,
+        "end": 11724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_13/20101116",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "L’intervention du président du tribunal d’arrondissement siégeant comme juge des référés prévue par l’article 9, paragraphe (1), point c) est exclue si:\n\n- le pouvoir adjudicateur estime que l’attribution d’un marché est conforme à la procédure relative à l’attribution des marchés fondés sur les accords cadres avec plusieurs opérateurs économiques remis en concurrence telle que fixée par règlement grand-ducal,\n- le pouvoir adjudicateur a envoyé aux soumissionnaires concernés une décision d’attribution du marché, accompagnée d’un exposé synthétique des motifs, conformément à l’article 7, premier tiret, et\n- la conclusion du contrat n’a pas pu avoir lieu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires concernés si un télécopieur ou un moyen électronique est utilisé, ou, si d’autres moyens de communication sont utilisés, avant l’expiration d’un délai d’au moins quinze jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires concernés.\n\nEn cas de recours dans le délai prévu au troisième tiret selon les modalités de l’article 6, le pouvoir adjudicateur est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu au troisième tiret.",
+      "text_sha256": "d91effcda716156a6e08fe416bc29c1b46bde432d876f17b3c4db6c274039eb4",
+      "md_span": {
+        "start": 11761,
+        "end": 13141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_14/20101116",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "**(1)** En cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe (5) ou de l’article 21, sans que les conditions d’application de l’article 9, point b) ne soient remplies, le président du tribunal d’arrondissement siégeant comme juge des référés prononce des sanctions de substitution.\n\n**(2)** Les sanctions de substitution pouvant être prononcées suivant l’article 10, alinéa (2) et suivant l’article 14, paragraphe (1) doivent être effectives, proportionnées et dissuasives.\n\nElles consistent:\n\n- à imposer des pénalités financières au pouvoir adjudicateur ou à l’entité adjudicatrice, ou\n- à abréger la durée du marché.\n\nLe président du tribunal d’arrondissement siégeant comme juge des référés tient compte de tous les facteurs pertinents, y compris la gravité de la violation, le comportement du pouvoir adjudicateur ou de l’entité adjudicatrice et, dans les cas visés à l’article 10 la mesure dans laquelle le contrat continue à produire des effets.\n\nDans l’hypothèse où une pénalité financière est imposée, le président du tribunal d’arrondissement siégeant comme juge des référés émet un ordre de paiement d’une somme déterminée au profit de l’Etat et à percevoir par l’administration de l’enregistrement et des domaines. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a été commise. La somme à verser doit être de nature à empêcher le pouvoir adjudicateur ou l’entité adjudicatrice de commettre une nouvelle infraction à la loi. Cette pénalité financière s’élève au maximum à 15 pour cent du montant hors TVA du marché attribué.\n\nL’octroi de dommages et intérêts ne constitue pas une sanction appropriée aux fins de cet article.",
+      "text_sha256": "c9e75d7b14c27ce7e96d80206263399275c26c1466512b67410f5f6cea7744f5",
+      "md_span": {
+        "start": 13178,
+        "end": 14881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_15/20180709",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2018-07-09",
+      "text_md": "**(1)** L’introduction d’un recours en application de l’article 9 doit intervenir:\n\n1. - loi du 26 décembre 2012 ladite loi loi sur l’attribution de contrats de concession\n- loi sur l’attribution de contrats de concession er\n2. avant l’expiration d’un délai de six mois à compter du lendemain du jour de la conclusion du contrat lorsque le pouvoir adjudicateur ou l’entité adjudicatrice n’a pas respecté les dispositions du point a).",
+      "text_sha256": "a46e867abfeb1078ebecc7a88a614d34cba6b83e3530e9d90947196e24ad7cf8",
+      "md_span": {
+        "start": 14918,
+        "end": 15351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_16/20101116",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "En cas de recours téméraire et vexatoire, le président du tribunal d’arrondissement siégeant comme juge des référés peut, à la demande du pouvoir adjudicateur ou de l’entité adjudicatrice, octroyer une indemnité adéquate, dont le montant total ne peut en aucun cas dépasser 5 pour cent du montant hors TVA du marché attribué.",
+      "text_sha256": "fe13ea6d3dcb5f0dcb618492ed18f16f8b974f69889aafbb04833ad3e6c52bd8",
+      "md_span": {
+        "start": 15388,
+        "end": 15713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_17/20101116",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Tout pouvoir adjudicateur ou entité adjudicatrice autre que l’Etat qui a fait l’objet d’une notification de la Commission européenne, en application de l’article 3 de la directive 89/665/CEE du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de passation des marchés publics de fournitures de travaux, ou en application de l’article 8 de la directive 92/13/CEE du Conseil du 25 février 1992 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application de règles communautaires sur les procédures de passation des marchés des entités opérant dans les secteurs de l’eau, de l’énergie, des transports et des télécommunications, telles que modifiées par la directive 2007/66/CE du Parlement européen et du Conseil du 11 décembre 2007, est tenu de fournir à l’autorité déterminée par voie de règlement grand-ducal, dans les dix jours de la notification, tous les documents et renseignements nécessaires à l’élaboration de la communication à faire en application des directives précitées.",
+      "text_sha256": "f349e48f1945bbacea457ec7c14e8047f607d2b74477e04bbcff0ec7a258d9ce",
+      "md_span": {
+        "start": 15750,
+        "end": 16912
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1989/665/jo",
+          "text": "directive 89/665/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/1992/13/jo",
+          "text": "directive 92/13/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/2007/66/jo",
+          "text": "directive 2007/66/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_18/20101116",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "L’avis de transparence ex ante volontaire visé à l’article 12, deuxième tiret, contient les informations suivantes:\n\n1. nom et coordonnées du pouvoir adjudicateur ou de l’entité adjudicatrice;\n2. description de l’objet du marché;\n3. Journal officiel de l’Union européenne\n4. nom et coordonnées de l’opérateur économique auquel il a été décidé d’attribuer le marché, et\n5. le cas échéant, toute autre information jugée utile par le pouvoir adjudicateur ou par l’entité adjudicatrice.",
+      "text_sha256": "b913e8bea1968e33f93ac273ed5ab92a14f0fab61209acae34393328b24eb7ae",
+      "md_span": {
+        "start": 16949,
+        "end": 17431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_19/20101116",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Dispositions générales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Une autorité déterminée par voie de règlement grand-ducal communique chaque année à la Commission européenne le texte de toutes les décisions, accompagnées de leurs motifs, que les instances de recours ont prises conformément à l’article 11.",
+      "text_sha256": "4cb8fc33a0590aef64a89f1035ec125f33cb7d1b7df53d26fee3eae8b5bbcac1",
+      "md_span": {
+        "start": 17468,
+        "end": 17709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_20/20101116",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre II — Règles particulières applicables aux recours en matière de passation de marchés des entités adjudicatrices privées opérant dans les secteurs de l’eau, de l’énergie, des transports et des services postaux"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "**(1)** Le président du tribunal d’arrondissement siégeant comme juge des référés peut: soit\n\n1. prendre des mesures provisoires ayant pour but de corriger la violation alléguée ou d’empêcher que d’autres préjudices soient causés aux intérêts concernés, y compris des mesures destinées à suspendre ou à faire suspendre la procédure de passation de marché en cause ou l’exécution de toute décision prise par l’entité adjudicatrice. Il peut notamment supprimer les spécifications techniques, économiques ou financières discriminatoires figurant dans l’avis du marché, l’avis périodique indicatif, l’avis sur l’existence d’un système de qualification, l’invitation à soumissionner, les cahiers des charges ou dans tout autre document se rapportant à la procédure de passation de marché en cause; soit\n2. prendre toutes mesures autres que celles prévues au point a), ayant pour but de corriger la violation constatée et d’empêcher que des préjudices soient causés aux intérêts concernés; il peut notamment émettre un ordre de paiement d’une somme déterminée au profit de l’Etat et à percevoir par l’administration de l’enregistrement et des domaines dans le cas où l’infraction n’est pas corrigée ou évitée. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a été commise.\n\n**(2)** Le président du tribunal d’arrondissement siégeant comme juge des référés, en tenant compte des conséquences probables de ces mesures pour tous les intérêts susceptibles d’être lésés, ainsi que de l’intérêt public, peut décider de ne pas accorder ces mesures lorsque leurs conséquences négatives pourraient dépasser leurs avantages. Une décision de ne pas accorder des mesures provisoires ne porte pas atteinte aux autres droits revendiqués par la personne requérant ces mesures.\n\n**(3)** La somme à verser conformément au paragraphe (1), point b) doit être de nature à empêcher l’entité adjudicatrice de commettre une infraction ou de persévérer dans une infraction. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a bien été commise. La somme à verser doit être de nature à empêcher l’entité adjudicatrice de commettre une nouvelle infraction à la loi. Cette pénalité financière s’élève au maximum à 15 pour cent du montant hors TVA du marché attribué.\n\n**(4)** L’assignation en référé prévue par le paragraphe (2) doit se faire avant la décision d’adjudication par l’entité adjudicatrice. La requérante notifie par voie d’huissier à l’entité adjudicatrice l’assignation en référé.\n\n**(5)** L’entité adjudicatrice est obligée de surseoir à la poursuite de la procédure de mise en concurrence, voire à la décision d’adjudication jusqu’à la notification de l’ordonnance en référé.",
+      "text_sha256": "9f6452a749a2017a6d5456121a2aa7d08f9d7ff23db3508f884b8a92f4bdf3db",
+      "md_span": {
+        "start": 17968,
+        "end": 20728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_21/20101116",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre II — Règles particulières applicables aux recours en matière de passation de marchés des entités adjudicatrices privées opérant dans les secteurs de l’eau, de l’énergie, des transports et des services postaux"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "Dans les hypothèses et délais prévus à l’article 5, le président du tribunal d’arrondissement siégeant comme juge des référés peut ordonner le sursis à exécution de la conclusion du contrat par une entité adjudicatrice.\n\nLes dispositions des articles 5, 7 et 8 doivent être respectées par les entités adjudicatrices.\n\nL’entité adjudicatrice est obligée de surseoir à la signature du contrat jusqu’à la notification de l’ordonnance de référé et jusqu’à l’expiration du délai prévu à l’article 5.\n\nLorsque le sursis à exécution est prononcé, une décision au fond peut établir qu’une violation a été commise.",
+      "text_sha256": "dc9906daa1b160568a961b6ffbcfc29d741410537b3fc3f9fa21af206342e0c0",
+      "md_span": {
+        "start": 20765,
+        "end": 21370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21bis",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_21bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_21bis/20130101",
+      "type": "article",
+      "num": "Art. 21bis.",
+      "heading": null,
+      "path": [
+        "Chapitre III — Règles particulières applicables aux recours en matière de marchés de la défense et de la sécurité"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le président du tribunal d'arrondissement siégeant comme juge des référés veille au respect du niveau de confidentialité pour les informations classifiées ou autres informations contenues dans les dossiers communiqués par les parties et agit dans le respect des intérêts en matière de défense et/ou de sécurité tout au long de la procédure.",
+      "text_sha256": "49f5d05a1164de28402926a9d0aee0ad3c5b4db0b3aebcc8efb6485edf3b9947",
+      "md_span": {
+        "start": 21531,
+        "end": 21871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_22/20101116",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre IV — Dispositions finales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "La loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la directive 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics et la loi du 27 juillet 1997 relative à l’exécution en droit luxembourgeois de la directive 92/13/CEE du Conseil du 25 février 1992 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des règles communautaires sur les procédures de passation des marchés des entités opérant dans les secteurs de l’eau, de l’énergie, des transports et des télécommunications sont abrogées.",
+      "text_sha256": "b2a6cc0079fa3079d13793737787087e820ab0706204223da752b9551d50fda7",
+      "md_span": {
+        "start": 21947,
+        "end": 22679
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/03/13/n2/jo",
+          "text": "loi modifiée du 13 mars 1993"
+        },
+        {
+          "href": "/eli/dir_ue/1989/665/jo",
+          "text": "directive 89/665"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1997/07/27/n1/jo",
+          "text": "loi du 27 juillet 1997"
+        },
+        {
+          "href": "/eli/dir_ue/1992/13/jo",
+          "text": "directive 92/13/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09--dd65610856fe5766906688cbb2f39446227617245e15e14ea2120cc664486bd1#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/art_23/20101116",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre IV — Dispositions finales"
+      ],
+      "article_valid_from": "2010-11-16",
+      "text_md": "**(1)** La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.\n\n**(2)** Les procédures comportant publication d’un avis, publiées avant la date d’entrée en vigueur, et à défaut de publication d’un avis, les invitations à présenter une candidature ou à remettre une offre, lancées avant la date d’entrée en vigueur, demeurent soumises aux dispositions législatives en vigueur au moment de la publication de l’avis ou de l’invitation.",
+      "text_sha256": "91467cb38f2ea0acc8d1d197380994d2eb535493b260b5e95c2606e5aa73e8b4",
+      "md_span": {
+        "start": 22716,
+        "end": 23187
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

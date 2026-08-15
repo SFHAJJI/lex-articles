@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e016:2016-06-07--e17d15bf6c1ef6731669e052f0519748df33363ce7e93d113e2e1f6bb1e8184f",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART ONE - PRI…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e016/versions/2016-06-07--e17d15bf6c1ef6731669e052f0519748df33363ce7e93d113e2e1f6bb1e8184f/en.xml",
+    "sha256": "5f072356ccb8fd4bd0b8859bcf16c6ea22f40d7a3df9658d74a78c0d71ae8780",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E016"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e016:2016-06-07--e17d15bf6c1ef6731669e052f0519748df33363ce7e93d113e2e1f6bb1e8184f#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 EN Official Journal of the European Union C 202/55 Article 16 (ex Article 286 TEC) 1. Everyone has the right to the protection of personal data concerning them. 2. The European Parliament and the Council, acting in accordance with the ordinary legislative procedure, shall lay down the rules relating to the protection of individuals with regard to the processing of personal data by Union institutions, bodies, offices and agencies, and by the Member States when carrying out activities which fall within the scope of Union law, and the rules relating to the free movement of such data. Compliance with these rules shall be subject to the control of independent authorities. The rules adopted on the basis of this Article shall be without prejudice to the specific rules laid down in Article 39 of the Treaty on European Union.",
+      "text_sha256": "0edebbf94b8fe885f551bdd5df14b65be3637ebffe60955bc6a740f60dfa5af5",
+      "md_span": {
+        "start": 713,
+        "end": 1550
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

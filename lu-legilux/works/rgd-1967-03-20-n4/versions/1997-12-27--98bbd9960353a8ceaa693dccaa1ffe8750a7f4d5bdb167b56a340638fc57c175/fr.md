@@ -1,0 +1,335 @@
+---
+lex_id: 'lu-legilux:rgd-1967-03-20-n4:1997-12-27--98bbd9960353a8ceaa693dccaa1ffe8750a7f4d5bdb167b56a340638fc57c175'
+title: 'Version consolidée applicable au 02/11/1996 : Règlement grand-ducal du 20 mars 1967 concernant l''exécution de l''article 54, Nos 2 et 3 de la loi du 14 juillet 1966 sur l''immatriculation des bateaux de navigation intérieure et l''hypothèque fluviale.'
+valid_from: '1997-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1967/03/20/n4/consolide/19971227/fr'
+source_sha256: 'a865b5fbcd4f017dde6217726e716208d763b372066c76d6f69c0f2db15921e1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/1 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er. «Les règlements et décisions de la Commission de la Moselle instituée par la Convention entre le Grand-
+
+Duché de Luxembourg, la République Fédérale d’Allemagne et la République Française au sujet de la canalisation de la Moselle signée à Luxembourg, le 27 octobre 1956 et tels que ces règlements et décisions ont été publiés au Mémorial, sont applicables à la navigation sur la Moselle et aux parties navigables de la Sûre. L’autorité compétente au sens de ces règlements et décisions est le Service de la Navigation créé par la loi du 28 juillet 1973. Les prescriptions de caractère temporaire que cette autorité compétente est amenée à prendre, dans des cas spé- ciaux, conformément aux règlements et décisions prévus à l’alinéa 1er du présent article sont publiées par voie d’avis affichés ou à paraître dans la presse”.
+
+<a id="art_2"></a>
+
+### Art. 2. Des règlements grand-ducaux peuvent édicter toutes autres prescriptions de police et de sécurité concer-
+
+nant la navigation intérieure sur la Moselle et les parties navigables de la Sûre.
+
+<a id="art_3"></a>
+
+### Art. 3. Des règlements grand-ducaux peuvent édicter des prescriptions de police et de sécurité concernant la navi-
+
+gation de plaisance, les sports nautiques, la natation et la baignade sur tous les cours et plans d’eau. (loi du 23 septembre 1997)
+
+<a id="art_4"></a>
+
+### Art. 4. «Les infractions aux dispositions des règlements et décisions de la Commission de la Moselle commises en
+
+navigation sur la Moselle et sur les parties navigables de la Sûre, ainsi que les infractions aux règlements grand-ducaux à édicter en vertu des articles 2 et 3 sont punies d’une amende de mille à cent vingt-cinq mille francs». (loi du 23 septembre 1997)
+
+<a id="art_5"></a>
+
+### Art. 5. «En cas de contraventions prévues par la présente loi et ses règlements d’exécution, les membres de la gen-
+
+darmerie habilités par le chef de la gendarmerie, les membres de la police habilités par le directeur de la police et les agents de surveillance du Service de la Navigation désignés par le Ministre des Transports peuvent donner un ou plu- sieurs avertissements taxés si le contrevenant verse immédiatement entre leurs mains une taxe dont le ou les mon- tants sont fixés par règlement grand-ducal. Lorsque le montant de l’avertissement taxé ne peut pas être perçu sur le lieu même de l’infraction, le contrevenant peut s’en acquitter dans le délai imparti par sommation écrite ou orale du fonctionnaire ayant constaté la ou les contra- ventions, dans le bureau de gendarmerie ou de police désigné par ce fonctionnaire ou au Service de la Navigation ou par versement ou virement de la taxe sur un des comptes chéques postaux ou bancaires spécialement ouverts à cet effet au nom de la gendarmerie, de la police ou du Service de la Navigation. Il est donné autant d’avertissements taxés qu’il y a de contraventions constatées. Cependant, lorsque le même fait constitue plusieurs contraventions, l’avertissement taxé dont le montant est le plus élevé est seul donné. Le versement ou le virement de la taxe dans un délai de trente jours, à compter de la constatation de l’infraction, a pour effet d’arrêter toute poursuite. Lorsque la taxe a été réglée après ce délai, elle est remboursée en cas d’ac- quittement, et elle est imputée sur l’amende prononcée et sur les frais de justice éventuels en cas de condamnation. L’avertissement taxé est remplacé par un procès-verbal: 1° si le contrevenant est âgé de moins de dix-huit ans, 2° s’il s’agit d’une contravention ayant entraîné un dommage corporel, 3° si le contrevenant ne s’est pas acquitté de la ou des taxes dans le délai imparti, 4° si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes. Le montant à percevoir par avertissement taxé ne peut dépasser six mille francs. Le règlement grand-ducal prévu à l’alinéa 1er détermine les modalités d’application des dispositions du présent article. Le même règlement établit un catalogue groupant les contraventions suivant les différents montants des taxes à per- cevoir. 659 Si le contrevenant ne s’acquitte pas de l’avertissement sur le lieu même de l’infraction, il peut lui être enjoint, de l’accord du procureur d’Etat, de verser aux membres de la gendarmerie, aux membres de la police et aux agents de surveillance du Service de la Navigation une somme destinée à couvrir l’amende et les frais de justice éventuels en vue de la consignation de cette somme entre les mains du receveur de l’Enregistrement du siège de la justice de paix com- pétente. Un règlement grand-ducal en fixe les modalités d’application; le montant de cette somme est fixé au double de la somme prévue pour l’avertissement taxé. Jusqu’à remise de cette somme, augmentée éventuellement par les frais d’enlèvement et de garde, le bâtiment, éta- blissement et matériel flottant de quelque nature qu’il soit, conduit par le contrevenant peut être retenu. Le conduc- teur contrevenant et le ou les propriétaires ou détenteurs d’un bâtiment, établissement ou matériel flottant sont soli- dairement responsables du paiement de ces frais».
+
+<a id="art_6"></a>
+
+### Art. 6. La loi du 4 septembre 1824 concernant les bateaux à vapeur est abrogée.
+
+Texte coordonné du 11 juin 1998 de la loi du 24 janvier 1990 portant création et organisation d’un tribunal pour la navigation de la Moselle, modifiée et complétée par la loi du 23 septembre 1997 portant réglementation de la navigation de plaisance et portant modification de certaines disposi- tions légales. Chapitre 1er. - Dispositions générales
+
+<a id="art_1er__2"></a>
+
+### Art. 1er. Il est créé un tribunal pour la navigation de la Moselle dont les attributions sont exercées par la justice
+
+de paix de Luxembourg.
+
+<a id="art_2__2"></a>
+
+### Art. 2. En matière pénale, le tribunal pour la navigation de la Moselle est seul compétent pour connaître des contra-
+
+ventions aux prescriptions relatives à la navigation et à la police fluviale. Toutefois, lorsque ces contraventions sont connexes à des crimes ou délits, elles sont jugées par la juridiction com- pétente pour connaître de ces crimes ou délits. Lorsque ces contraventions sont connexes à d’autres contraventions, le tribunal pour la navigation de la Moselle est seul compétent pour connaître de toutes les contraventions.
+
+<a id="art_3__2"></a>
+
+### Art. 3. En matière civile et commerciale le tribunal pour la navigation de la Moselle est seul compétent pour
+
+connaître des contestations relatives: a) au paiement et au montant des péages, des redevances de port et de quai et des taxes généralement quelconques dues dans les ports; b) aux dommages causés du fait de la navigation par les bateliers pendant le voyage ou en abordant, même si les parties sont liées par un contrat; sa compétence ne s’étend cependant pas aux actions fondées sur un contrat et dirigées contre un bâtiment pour dommages causés par la faute de celui-ci aux personnes ou aux biens se trou- vant à son bord.
+
+<a id="art_4__2"></a>
+
+### Art. 4. La compétence du tribunal pour la navigation de la Moselle s’étend aux parties de la Moselle soumises à la
+
+souveraineté du Grand-Duché, ainsi qu’aux ports et lieux de chargement ou de déchargement y aménagés.
+
+<a id="art_5__2"></a>
+
+### Art. 5. Lorsque, dans le cas de l’article 3, b) les faits dommageables se sont produits sur les territoires des deux
+
+Etats riverains ou lorsqu’il est impossible de déterminer sur quel territoire les faits se sont produits, le tribunal pour la navigation de la Moselle connaît de l’affaire s’il a été seul saisi ou premier saisi. Lorsqu’un tribunal de l’un des autres Etats a rendu une décision d’incompétence irrévocable, le tribunal luxem- bourgeois est tenu pour compétent.
+
+<a id="art_6__2"></a>
+
+### Art. 6. Les parties peuvent se pourvoir en appel contre les jugements rendus par le tribunal pour la navigation de
+
+la Moselle en matière pénale ou en matière civile ou commerciale soit devant le tribunal d’arrondissement de Luxembourg, soit devant le Comité d’Appel de la Commission de la Moselle.
+
+<a id="art_7"></a>
+
+### Art. 7. Aucun recours en cassation n’est ouvert contre les jugements rendus en premier et dernier ressort par le
+
+tribunal pour la navigation de la Moselle ni contre les jugements rendus par le tribunal d’arrondissement de Luxembourg en matière de contentieux de la navigation de la Moselle.
+
+<a id="art_8"></a>
+
+### Art. 8. Les actes de procédure, les pièces produites ainsi que les ordonnances et jugements en matière de naviga-
+
+tion de la Moselle sont dispensés des droits de timbre et d’enregistrement. Les parties n’ont à supporter d’autres frais que ceux relatifs aux citations, significations , enquêtes, expertises et visites des lieux.
+
+<a id="art_9"></a>
+
+### Art. 9. Il ne peut être exigé aucune caution des étrangers à cause de leur nationalité.
+
+
+
+<a id="art_10"></a>
+
+### Art. 10. Les décisions des tribunaux allemands ou français pour la navigation de la Moselle sont exécutoires dans
+
+le Grand-Duché en observant, selon les cas, les formes prescrites par la loi luxembourgeoise ou par la Convention concernant la compétence judiciaire et l’exécution des décisions en matière civile et commerciale du 27 juillet 1968. 660 Les jugements et autres décisions, les citations et exploits d’ajournement dans les causes pendantes devant les tri- bunaux allemands ou français pour la navigation de la Moselle sont considérés, quant à la notification, comme émanant des autorités judiciaires luxembourgeoises. Chapitre II. - Dispositions particulières en matière pénale (loi du 13 juin 1994)
+
+<a id="art_11"></a>
+
+### Art. 11. Les contraventions aux prescriptions de police en matière de navigation sont punies d’une amende de
+
+«1.000 à 500.000» francs, sans que celle-ci puisse toutefois être supérieure à la contre-valeur en francs luxembour- geois, au jour de la décision judiciaire, de 2.500 Droits de tirage spéciaux sur le Fonds monétaire international.
+
+<a id="art_12"></a>
+
+### Art. 12. Les infractions sont constatées par les procès-verbaux soit des agents de la police générale et locale, soit
+
+des agents de surveillance du Service de la Navigation, désignés par le Ministre des Transports. Les agents de surveillance appelés à constater ces infractions prêtent, avant d’entrer en fonctions, devant le prési- dent du tribunal pour la navigation de la Moselle le serment suivant: «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonc- tions avec intégrité, exactitude et impartialité.» L’acte de prestation du serment est transcrit et visé au greffe du tribunal pour la navigation de la Moselle.
+
+<a id="art_13"></a>
+
+### Art. 13. La procédure à suivre devant le tribunal pour la navigation de la Moselle pour l’instruction et le jugement
+
+des contraventions aux prescriptions relatives à la navigation et à la police fluviale est celle applicable devant les tribu- naux de police. Les articles 216-1 à 216-10 du code d’instruction criminelle sont applicables. (loi du 23 septembre 1997)
+
+<a id="art_14"></a>
+
+### Art. 14. «En cas de contraventions prévues par la présente loi et ses règlements d’exécution, les membres de la
+
+gendarmerie habilités par le chef de la gendarmerie, les membres de la police habilités par le directeur de la police et les agents de surveillance du Service de la Navigation désignés par le Ministre des Transports peuvent donner un ou plusieurs avertissements taxés si le contrevenant verse immédiatement entre leurs mains une taxe dont le ou les mon- tants sont fixés par règlement grand-ducal. Lorsque le montant de l’avertissement taxé ne peut pas être perçu sur le lieu même de l’infraction, le contrevenant peut s’en acquitter dans le délai imparti par sommation écrite ou orale du fonctionnaire ayant constaté la ou les contra- ventions, dans le bureau de gendarmerie ou de police désigné par ce fonctionnaire ou au Service de la Navigation ou par versement ou virement de la taxe sur un des comptes chèques postaux ou bancaires spécialement ouverts à cet effet au nom de la gendarmerie, de la police ou du Service de la Navigation. Il est donné autant d’avertissements taxés qu’il y a de contraventions constatées. Cependant, lorsque le même fait constitue plusieurs contraventions, l’avertissement taxé dont le montant est le plus élevé est seul donné. Le versement ou le virement de la taxe dans un délai de trente jours, à compter de la constatation de l’infraction a pour effet d’arrêter toute poursuite. Lorsque la taxe a été réglée après ce délai, elle est remboursée en cas d’acquit- tement, et elle est imputée sur l’amende prononcée et sur les frais de justice éventuels en cas de condamnation. L’avertissement taxé est remplacé par un procès-verbal: 1° si le contrevenant est âgé de moins de dix-huit ans, 2° s’il s’agit d’une contravention ayant entraîné un dommage corporel, 3° si le contrevenant ne s’est pas acquitté de la ou des taxes dans le délai imparti, 4° si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes. Le montant à percevoir par avertissement taxé ne peut dépasser six mille francs. Le règlement grand-ducal prévu à l’alinéa 1er détermine les modalités d’application des dispositions du présent article. Le même règlement établit un catalogue groupant les contraventions suivant les différents montants des taxes à per- cevoir. Si le contrevenant qui n’a pas sa résidence normale au Grand-Duché de Luxembourg, ne s’acquitte pas de l’avertis- sement sur le lieu même de l’infraction, il devra verser aux membres de la gendarmerie, aux membres de la police et aux agents de surveillance du Service de la Navigation une somme destinée à couvrir l’amende et les frais de justice éventuels en vue de la consignation de cette somme entre les mains du receveur de l’Enregistrement du siège de la jus- tice de paix compétente. Un règlement grand-ducal en fixe les modalités d’application; le montant de cette somme est fixé au double de la somme prévue pour l’avertissement taxé. Jusqu’à remise de cette somme, augmentée éventuellement par les frais d’enlèvement et de garde, le bâtiment, éta- blissement et matériel flottant de quelque nature qu’il soit, conduit par le contrevenant peut être retenu. Il ne peut toutefois être retenu plus de 48 heures sans l’accord du procureur d’Etat. Le conducteur contrevenant et le ou les propriétaires ou détenteurs d’un bâtiment, établissement ou matériel flottant sont solidairement responsables du paie- ment de ces frais.” 661
+
+<a id="art_15"></a>
+
+### Art. 15. La condamnation par défaut prononcée par le tribunal pour la navigation de la Moselle est considérée
+
+comme non avenue si, dans les quinze jours de la signification ou de la notification qui en a été faite au prévenu ou à son domicile, celui-ci forme opposition à l’exécution du jugement et déclare oralement ou par écrit son opposition au greffe du tribunal pour la navigation de la Moselle. L’opposition pourra être faite également par déclaration en réponse au bas de l’acte de signification ou de notification. Toutefois, si la signification ou la notification n’a pas été faite à personne ou s’il ne résulte pas d’actes d’exécution du jugement que le prévenu en a eu connaissance, l’opposition est recevable jusqu’à l’expiration des délais de la pres- cription de la peine. En cas d’opposition, le ministère public cite l’opposant à l’audience. L’opposition est réputée non avenue si l’opposant ne comparaît pas.
+
+<a id="art_16"></a>
+
+### Art. 16. Les jugements rendus par le tribunal pour la navigation de la Moselle peuvent, dans tous les cas, être atta-
+
+qués par la voie de l’appel. L’appel porté devant le tribunal correctionnel de Luxembourg doit être interjeté dans les quarante jours de la signi- fication ou de la notification du jugement à personne ou à domicile. Il est poursuivi et jugé dans la même forme que les appels de jugements en matière de police correctionnelle. L’appel porté devant le Comité d’Appel de la Commission de la Moselle est signifié au greffe du tribunal pour la navi- gation de la Moselle dans les quarante jours de la signification ou de la notification du jugement de ce tribunal à per- sonne ou à domicile. La signification de l’acte d’appel est accompagnée de la déclaration expresse que l’on entend recourir à la décision du Comité d’Appel de la Commission de la Moselle. La signification de l’acte d’appel est faite éga- lement à la partie adverse, au domicile élu en première instance ou, à défaut d’élection de domicile, également au greffe du tribunal pour la navigation de la Moselle. Dans les trente jours à dater du jour de la signification de l’acte d’appel, l’appelant remet au greffe du tribunal pour la navigation de la Moselle un mémoire exposant les motifs de son recours. Le greffe de ce tribunal communique ce mémoire à la partie adverse qui est tenue d’y répondre dans le délai qui est fixé à cette fin. Le tout est transmis avec les pièces de la procédure en première instance au Comité d’Appel de la Commission de la Moselle. Faute par l’appelant de se conformer aux formalités prescrites par le présent article, l’appel est considéré comme non avenu.
+
+<a id="art_17"></a>
+
+### Art. 17. L’action publique pour une contravention aux prescriptions relatives à la navigation et à la police fluviale
+
+se prescrit conformément à l’article 640 du code d’instruction criminelle. Chapitre III. - Dispositions particulières en matière civile et commerciale
+
+<a id="art_18"></a>
+
+### Art. 18. En matière civile et commerciale, le tribunal pour la navigation de la Moselle connaît en dernier ressort
+
+des contestations jusqu’à la valeur , au jour du dernier état de la demande, de vingt Droits de tirage spéciaux sur le Fonds monétaire international et, au-dessus, à charge d’appel.
+
+<a id="art_19"></a>
+
+### Art. 19. La procédure à suivre en matière civile et commerciale devant le tribunal pour la navigation de la Moselle
+
+est celle applicable devant les justices de paix.
+
+<a id="art_20"></a>
+
+### Art. 20. La partie condamnée par défaut peut former opposition dans les quinze jours de la signification ou de la
+
+notification du jugement par défaut à personne ou à domicile. L’opposition contient sommairement les moyens de la partie et assignation au prochain jour d’audience, en obser- vant toutefois les délais prescrits pour les citations; elle indique les jour et heure de la comparution et est signifiée par exploit d’huissier. La partie opposante qui se laisserait juger une seconde fois par défaut, n’est plus reçue à former une nouvelle oppo- sition.
+
+<a id="art_21"></a>
+
+### Art. 21. Le délai pour interjeter appel est de quarante jours; il court, pour les jugements contradictoires, du jour
+
+de la signification ou de la notification du jugement à personne ou à domicile et, pour les jugements par défaut, du jour où l’opposition n’est plus recevable. L’appel est déclaré, instruit et jugé selon les règles prévues pour les appels des jugements des juges de paix. L’appel porté devant le Comité d’Appel de la Commission de la Moselle est signifié au greffe du tribunal pour la navi- gation de la Moselle dans les quarante jours de la signification ou de la notification du jugement de ce tribunal à per- sonne ou à domicile. La signification de l’acte d’appel est accompagnée de la déclaration expresse que l’on entend recourir à la décision du Comité d’Appel de la Commission de la Moselle. Elle est fait également à la partie adverse, au domicile élu en première instance, ou, à défaut d’élection de domicile, également au greffe du tribunal pour la naviga- tion de la Moselle. Dans les trente jours à dater du jour de la signification de l’acte d’appel, l’appelant remet au greffe du tribunal pour la navigation de la Moselle un mémoire exposant les motifs de son recours. Le greffe de ce tribunal communique ce mémoire à la partie adverse qui est tenue d’y répondre dans le délai qui lui est fixé à cette fin. Le tout est transmis avec les pièces de la procédure en première instance au Comité d’Appel de la Commission de la Moselle. 662 Faute par l’appelant de se conformer aux formalités prescrites par le présent article, l’appel est considéré comme non avenu.
+
+<a id="art_22"></a>
+
+### Art. 22. Lorsque dans un même litige, le demandeur et le défendeur ont fait tous les deux appel dans les délais
+
+légaux, l’un devant le Comité d’Appel de la Commission de la Moselle et l’autre devant le tribunal d’arrondissement de Luxembourg, ce tribunal connaît des deux appels s’il a été le premier saisi. L’appel porté devant le Comité d’Appel de la Commission de la Moselle est réputé formé aussitôt qu’il a été signi- fié, dans les formes et conditions prévues à l’alinéa 3 de l’article 21, au tribunal pour la navigation de la Moselle. Lorsque les deux appels ont été introduits le même jour, le tribunal d’arrondissement de Luxembourg connaît des appels si le défendeur a fait appel devant lui. Lorsque plusieurs défendeurs ont fait appel le même jour, l’un devant le Comité d’Appel de la Commission de la Moselle et l’autre devant le tribunal d’arrondissement de Luxembourg, celui-ci se dessaisit au profit du Comité d’Appel de la Commission de la Moselle. Le tribunal d’arrondissement de Luxembourg examine d’office si un appel a déjà été introduit devant le Comité d’Appel de la Commission de la Moselle. Le tribunal d’arrondissement de Luxembourg dessaisi aux termes de l’alinéa 1er renvoie le litige, sur demande de l’appelant, au Comité d’Appel de la Commission de la Moselle. Lorsque l’appel devant le Comité d’Appel de la Commission de la Moselle dessaisi a été interjeté dans les délais, le délai d’appel est réputé observé aussi devant le tri- bunal d’arrondissement de Luxembourg. Si le tribunal d’arrondissement de Luxembourg reste saisi, il comprend dans les frais ceux qui ont été exposés par la procédure d’appel engagée devant le Comité d’Appel de la Commission de la Moselle.
+
+<a id="art_23"></a>
+
+### Art. 23. Dans le cas où l’appel est porté devant le Comité d’Appel de la Commission de la Moselle, le tribunal pour
+
+la navigation de la Moselle peut, à la requête de la partie qui a obtenu gain de cause, ordonner l’exécution provisoire de son jugement en décidant toutefois, d’après la loi luxembourgeoise, si le demandeur doit fournir une caution préa- lable. Texte coordonné du 11 juin 1998 du règlement grand-ducal modifié du 20 mars 1967 concernant l’exé- cution de l’article 54, nos 2 et 3 de la loi du 14 juillet 1966 sur l’immatriculation des bateaux de navigation intérieure et l’hypothèque fluviale. 1.- Organisation et fonctionnement du bureau d’immatriculation
+
+<a id="art_1er__3"></a>
+
+### Art. 1er. Le registre matricule spécial à tenir au bureau d’immatriculation en exécution de l’article 5 de la loi du
+
+14 juillet 1966 sur l’immatriculation des bateaux de navigation intérieure et l’hypothèque fluviale est subdivisé en 9 colonnes par feuille entière qui contiendront: le numéro d’immatriculation, la date de la déclaration d’immatriculation, le nom et la devise du bateau, les caractéristiques prévues par les nos 2 et 3 de l’article 5 de la loi, les indications rela- tives à une autre immatriculation ou à l’absence d’une immatriculation du bateau, la désignation du propriétaire et le titre de propriété. La dernière colonne sera réservée à toutes observations et annotations utiles. Le registre est signé par première et dernière feuille, coté et paraphé à chaque feuille par le président du tribunal pour la navigation de la Moselle.
+
+<a id="art_2__3"></a>
+
+### Art. 2. Il peut être réservé, pour l’immatriculation de chaque bateau et l’inscription des modifications subséquentes,
+
+une ou plusieurs feuilles du registre. Il est fait mention, dans la colonne des observations, du nombre des feuilles ainsi réservées; tout espace resté en blanc sera rayé et paraphé lors de l’annulation de l’article qu’il concerne. Les inscriptions relatives au même bateau se suivent sans aucun blanc ni interligne dans un ordre chronologique; elles sont certifiées conformes aux déclarations, datées et signées par le préposé du bureau d’immatriculation. Chaque modification est portée dans la colonne qu’elle concerne; elle annule toutes les indications précédentes incompatibles avec la nouvelle inscription. Les extraits à délivrer aux tiers intéressés, conformément à l’article 7 de la loi, ne tiennent pas compte des indications annulées à moins que l’intéressé n’en fasse la demande. Mention est faite, dans la colonne des observations, de la délivrance des certificats d’immatriculation, de rectifica- tion et d’annulation ainsi que de l’émission de duplicata. Pareille mention est faite en cas de délivrance de l’état des ins- criptions hypothécaires ou du certificat de non-inscription visés par l’article 9 de la loi.
+
+<a id="art_3__3"></a>
+
+### Art. 3. Le registre d’immatriculation comporte la tenue de deux tables alphabétiques destinées à faciliter les
+
+recherches, à savoir: a) la table des noms des bateaux et b) la table des propriétaires des bateaux.
+
+<a id="art_4__3"></a>
+
+### Art. 4. La déclaration d’immatriculation contiendra les indications prévues à l’article 5 de la loi et sera accompa-
+
+gnée des pièces suivantes: a) un certificat de jaugeage, contrôlé par le service désigné par le Ministre des Transports, qui indiquera le nom et la devise du bateau ainsi que les caractéristiques prévues aux nos 2 et 3 de l’article 5 de la loi; 663 b) un certificat de nationalité du ou des propriétaires, s’il s’agit de personnes physiques; un extrait du registre aux firmes ou du registre de commerce, s’il s’agit d’une société; c) un certificat d’immatriculation, si le bateau est déjà immatriculé ailleurs; d) le titre de prorpriété dûment transcrit; toutes les fois que le titre de propriété découle d’une dévolution suc- cessorale ou testamentaire, le ou les propriétaires doivent justifier de leurs droits par la production d’un acte de notoriété passé devant un notaire ou un juge de paix. Dans les cas prévus à l’article 10 de la loi, le propriétaire produira, à l’appui de sa déclaration, en dehors des pièces visées au dit article 10, un certificat établi par le service de jaugeage constatant soit les modifications aux caractéris- tiques du bateau, soit la perte, l’innavigabilité définitve ou le déchirement du bateau. Le bureau d’immatriculation tient à la disposition des intéressés des formules imprimées pour la confection des déclarations initiales ainsi que les déclarations modificatives subséquentes.
+
+<a id="art_5__3"></a>
+
+### Art. 5. Le préposé du bureau d’immatriculation ne peut retenir, sans l’accord des parties, les pièces justificatives
+
+qui lui sont présentées. Toutefois, il aura la faculté de retenir ces écrits pendant vingt-quatre heures pour s’en procu- rer une copie ou une photocopie aux frais de l’Etat. Les indications et justifications à fournir par le propriétaire, lors du dépôt des déclarations d’immatriculation, de modification et de radiation, sont toutes de rigueur. Le préposé refusera l’immatriculation du bateau sur la base de données incomplètes ou de justifications inadéquates.
+
+<a id="art_6__3"></a>
+
+### Art. 6. Toutes déclarations dont le dépôt est ordonné au bureau d’immatriculation, toutes pièces de justification
+
+retenues, de même que tous documents de correspondance seront classés dans un dossier spécial. Ces pièces sont munies du numéro d’immatriculation.
+
+<a id="art_7__2"></a>
+
+### Art. 7. Le certificat d’immatriculation est couché sur une formule établie par l’administration de l’enregistrement
+
+et des domaines. Le certificat ainsi que les duplicata sont délivrés au propriétaire contre récépissé. Mention en est faite au registre matricule. S’il s’agit de copropriété, il n’est délivré qu’un seul certificat d’immatriculation sans préjudice des duplicata. En cas de perte du certificat ou d’un duplicata, le propriétaire est tenu d’en faire immédiatement la déclaration au bureau d’immatriculation. Règl. g.d. du 4 novembre 1997)
+
+<a id="art_8__2"></a>
+
+### Art. 8. La délivrance du certificat d’immatriculation est subordonnée au paiement, par le propriétaire du bateau,
+
+d’un droit fixe de «mille» francs. Le même tarif est applicable pour la délivrance de chaque duplicata. Les rectifications opérées tant au certificat d’immatriculation qu’aux duplicata en suite d’une déclaration de modifi- cation donnent lieu au paiement d’une rétribution de «cinq cents» francs. Le récépissé d’annulation prévu à l’article 10 de la loi est délivré sans frais. Les extraits du registre matricule délivrés en conformité de l’article 7 de la loi sont soumis à une rétribution de «mille» francs. Les extraits non certifiés ainsi que les renseignements verbaux sont délivrés contre paiement d’une rémunération de «cinq cents» francs. Les sommes ainsi perçues sont versées à la caisse de l’Etat; elles figurent à la compatabilité du receveur sous la rubrique des recettes diverses. II. - Organisation et fonctionnement du bureau des hypothèques fluviales
+
+<a id="art_9__2"></a>
+
+### Art. 9. Le conservateur des hypothèques fluviales est soumis à tous les devoirs et obligations découlant de la légis-
+
+lation applicable en matière hypothécaire sans préjudice des devoirs particuliers lui incombant en vertu des dispositions sur l’hypothèque fluviale. Le conservateur tiendra les mêmes registres, tables et répertoires qu’en matière hypothécaire. Le double du registre de dépôt prévu à l’article 2200 du Code civil sera déposé au greffe du tribunal d’arrondisse- ment à Luxembourg.
+
+<a id="art_10__2"></a>
+
+### Art. 10. Les dispositions de la loi du 26 juin 1953 sur la désignation des personnes et des biens dans les actes à
+
+transcrire ou à inscrire sont applicables à la législation sur l’hypothèque fluviale dans la mesure où ces dispositions ont trait à la désignation des parties à l’acte. Pour ce qui est de la désignation des biens, les actes de l’espèce indiqueront le nom et la devise du bateau ainsi que le bureau et le numéro d’immatriculation. La prescription de l’alinéa 1er du présent article n’est pas applicable à l’acte fait dans la forme sous signature privée. Si un tel acte ne contient pas la désignation exacte des personnes et des biens, les parties auront la faculté d’y suppléer par une déclaration mise au pied de l’acte et signée par elles ou encore par une certification émise par le juge du tri- bunal pour la navigation de la Moselle et annexée à l’acte.
+
+<a id="art_11__2"></a>
+
+### Art. 11. Lors du changement du nom ou de la devise d’un bateau, le conservateur mentionnera d’office la déclara-
+
+tion y afférente aux registres de transcription et d’inscription. 664 Pareille mention est requise dans le cas où une inscription hypothécaire a été prise sur un bateau en construction.
+
+<a id="art_12__2"></a>
+
+### Art. 12. Les extraits des inscriptions hypothécaires ainsi que les certificats de non-inscription prescrits par l’article
+
+9, no 2 de la loi seront couchés sur des formules spéciales établies par l’administration.
+
+<a id="art_13__2"></a>
+
+### Art. 13. L’indemnité de responsabilité revenant au conservateur des hypothèques fluviales est fixée au cinquième
+
+des salaires perçus. Texte coordonné du 11 juin 1998 du règlement grand-ducal du 17 février 187 sur l’identification des menues embarcations, modifié et complété par celui du 10 décembre 1997.
+
+<a id="art_1er__4"></a>
+
+### Art. 1er. Définitions
+
+I. Une menue embarcation est tout bâtiment, dont la longueur maximale de la coque, gouvernail et beaupré non compris, est inférieure à 20 mètres ou dont le port en lourd ou le déplacement ne dépasse pas 20 tonnes «métriques» (Règl. g.-d. du 10 août 1993), à l’exception: – des bâtiments construits ou aménagés pour remorquer, pousser ou mener à couple des bâtiments autres que les menues embarcations; – de ceux qui sont autorisés au transport de plus de 12 passagers appelés bateaux à passagers; – des bacs. (Règl. g.-d. du 10 décembre 1997) II. «La définition ci-avant ne concerne pas les bâtiments de plaisance lors de l’application de la loi du 23 septembre 1997 portant réglementation de la navigation de plaisance et portant modification de certaines autres dispositions légales».
+
+<a id="art_2__4"></a>
+
+### Art. 2. Généralités
+
+(Règl. g.-d. du 10 décembre 1997) «Peuvent être identifiées au registre public tel que défini par l’article 8 ci-après, les menues embarcations apparte- nant pour plus de la moitié en propriété à un ou plusieurs ressortissants de l’Union Européenne ou à une ou plusieurs personnes morales ayant leur siège social dans un Etat membre de l’Union Européenne, disposant d’un établissement stable à Luxembourg. Peuvent également être identifiées à ce registre les menues embarcations appartenant pour plus de la moitié en pro- priété à une ou plusieurs personnes non-ressortissants de l’Union Européenne si cette ou ces personnes ont leur domi- cile respectivement siège social au Grand-Duché de Luxembourg. Les menues embarcations à voile ou à moteur identifiées conformément au présent article doivent porter une marque officielle d’identification attribuée par le Ministre des Transports ou son délégué. Cette marque est unique- ment valable sur les cours et plans d’eau, à l’exception des eaux maritimes.»
+
+<a id="art_3__4"></a>
+
+### Art. 3. Nature et apposition de la marque officielle d’identification
+
+(Règl. g.-d. du 10 décembre 1997) La marque officielle d’identification se compose des lettre latines LG suivies d’un chiffre arabe. La séparation des lettres LG et du chiffre se fait moyenant un trait d’union. La marque d’identification attribuée est peinte ou attachée en lettre latines et chiffres arabes de couleur claire sur fond sombre ou de couleur sombre sur fond clair aux deux côtés du beaupré de la «menue embarcation». Les lettres et les chiffres doivent avoir une hauteur d’au moins 10 centimères, la largeur des traits étant d’au moins 1 centimètre. Le propriétaire ou détenteur veille à ce que le signe distinctif reste parfaitement lisible. «La menue embarcation» peut afficher en dehors de la marque officielle d’identification un nom ou une devise, sans que ces formules puissent donner lieu à confusion avec la marque officielle d’identification.
+
+<a id="art_4__4"></a>
+
+### Art. 4. Attribution des marques officielles d’identification
+
+(Règl. g.-d. du 10 décembre 1997) La demande d’attribution d’une marque officielle d’identification sera adressée par le propriétaire ou détenteur d’une «menue embarcation» au Ministère des Transports - Service de la Navigation. La demande doit contenir les nom et prénoms, la profession, le domicile et les lieu et date de naissance du propriétaire ou détenteur. Elle doit être accom- pagnée d’une facture ou d’un autre document en tenant lieu (Règl. g.-d. du 10 août 1993) «ainsi que par une attestation d’assurance-responsabilité civile telle que prévue par l’article 10 ci-dessous; si le propriétaire ou le détenteur de la «menue embarcation» est une personne morale, copie des statuts doit être jointe à la demande. «Une taxe de cinq cents francs sera perçue lors de la présentation des demandes d’attribution d’une marque offi- cielle d’identification d’une menue embarcation. La même taxe sera perçue lors de la présentation d’une demande en obtention d’un duplicata du certificat d’identification ou d’une prorogation dudit certificat. 665 Les taxes ci-avant désignées sont acquittées au moyen de timbres mobiles «Droit de chancellerie» fournis par l’Administration de l’Enregistrement et des Domaines. Les timbres mobiles sont apposés sur les demandes tenues à disposition des requérants».
+
+<a id="art_5__4"></a>
+
+### Art. 5. Conditions d’octroi
+
+(Règl. g.-d. du 10 décembre 1997) L’attribution de la marque officielle d’identification est subordonnée à la condition que la «menue embarcation» ne soit pas enregistrée à l’étranger. Le propriétaire ou le détenteur de la «menue embarcation» est tenu de prévenir tout de suite par écrit le Ministère des Transports – Service de la Navigation – de toute modification survenue dans les conditions ayant justifié la déli- vrance du certificat. (Règl. g.-d. du 10 août 1993) L’administration peut en cas de besoin, exiger copie d’un certificat de jaugeage respectivement d’un certificat de navigabilité ou d’agréation de la «menue embarcation» ainsi qu’un certificat de résidence du propriétaire ou du déten- teur».
+
+<a id="art_6__4"></a>
+
+### Art. 6. Certificat d’identification
+
+(Règl. g.-d. du 10 décembre 1997) Un certificat d’identification conforme au modèle reproduit en annexe qui fait partie intégrante du présent règle- ment est délivré au propriétaire ou détenteur. Ledit certificat a une validité de cinq ans. Le certificat d’identification doit se trouver à bord de la «menue embarcation» et être présenté sur demande aux agents de la police générale et aux fonctionnaires du Service de la Navigation chargés de la surveillance de la naviga- tion. Un duplicata du certificat d’identification, désigné comme tel, est délivré en cas de perte, de destruction ou de vol dûment établis par une déclaration officielle. (Règl. d.-d. du 10 août 1993) «Le Ministre des Transports ou son délégué peut délivrer un certificat d’identification valable pour une durée infé- rieure à cinq ans dans des cas particuliers tels que pour les bateaux de démonstration.»
+
+<a id="art_7__3"></a>
+
+### Art. 7. Cessation de validité de la marque d’identification
+
+(Règl. g.-d. du 10 décembre 1997) La marque d’identification attribuée n’est plus valable: a) en cas de changement de propriétaire ou de détenteur de la «menue embarcation»; b) en cas de vol, destruction, exportation ou mise hors usage de la «menue embarcation»; c) en cas de changement des caractéristiques techniques ou du nom ou de la devise de la «menue embarcation»; d) en cas de changement de domicile du propriétaire ou détenteur; e) en cas de dépassement de la durée de validité ou de non prorogation du certificat; f) si, à la suite d’une procédure administrative, le signe distinctif a été rayé d’office du registre. Dans ces cas le certificat d’identification est à retourner endéans le délai d’un mois et avec indication des motifs au Ministère des Transports - Service de la Navigation. Pour les cas où il est constaté par l’administration que la marque officielle d’identification a perdu sa validité en vertu des dispositions sous a) à f) ci-dessus ou s’il est positivement établi que les conditions d’octroi ne sont plus remplies, la marque officielle d’identification est rayée d’office du registre. En vertu de leur annulation, les certificats d’identifica- tion en question sont retirés par le Ministre des Transports ou son délégué.
+
+<a id="art_8__3"></a>
+
+### Art. 8. Registre d’identification
+
+(Règl. d.-d. du 10 décembre 1997) Il est créé au Ministère des Transports - Service de la Navigation - un registre d’identification des «menues embar- cations» avec un numéro d’ordre d’une série continue.
+
+<a id="art_9__3"></a>
+
+### Art. 9. Contrôle
+
+(Règl. g.-d. du 10 août 1993 et du 10 décembre 1997) Toute «menue embarcation» identifiée au registre d’identification peut, à tout moment, faire l’objet d’un contrôle de conformité technique ou administrative. A cette fin le Ministre des Transports ou son délégué, peut ordonner la présentation de la «menue embarcation» en un lieu et à une date déterminés. Le certificat d’identification peut être retiré par le Ministre des Transports ou son délégué si l’autorité compétente a constaté que les dispositions du présent règlement ne sont plus respectées». 666
+
+<a id="art_10__3"></a>
+
+### Art. 10. Assurance obligatoire
+
+(Règl. g.-d. du 10 août 1993 et du 10 décembre 1997) Toute «menue embarcation» établie ou circulant sur les cours et plans d’eau du Grand-Duché de Luxembourg doit être couverte pas une assurance responsabilité civile; une attestation doit certifier qu’une assurance responsabilité- civile a été conclue et elle doit être présentée sur demande aux autorités de contrôle et de surveillance prévues à l’ar- ticle 6 ci-dessus. Les contrats d’assurance garantissant la responsabilité civile de l’assuré du chef de dommages causés aux personnes et aux biens par la «menue embarcation» assurée, doivent satisfaire aux conditions minimales suivantes: 1) La compagnie d’assurance assure le preneur d’assurance, le propriétaire, le détenteur ou toute personne dûment autorisée à conduite la «menue embarcation» ainsi que les passagers à titre gratuit, chaque fois qu’est engagé leur responsabilité civile, contre les conséquences pécuniaires de la responsabilité civile qu’ils peuvent encourir à raison de dommages corporels et matériels causés à des tiers. 2) Par tiers au sens du point 1) précédent il faut entendre toute personne autre que: a) le preneur d’assurance et le détenteur de la «menue embarcation» ayant occasionné le dommage; b) la personne qui assume la conduite de la «menue embarcation» au moment où le dommage est causé ainsi que tout assuré dont la responsabilité est engagée dans la réparation du dommage; c) le conjoint des personnes mentionnées sous a) et b); d) les parents et alliés en ligne directe des personnes énumérées ci-dessus, à la condition qu’ils habitent sous le toit de celles-ci et soient entretenue de leurs deniers. Toutefois l’exclusion ne s’applique pas pour les lésions corporelles, dans les cas prévus sous a), c) et d), lorsque la «menue embarcation» désignée est conduite par une personne qui n’est ni le conjoint, ni le parent ou l’allié en ligne directe de la personne lésée. 3) La garantie minimum du contrat d’assurance doit être de 100.000.000.- frs par événement assuré avec limitation à 10.000.000.- frs pour les dégâts matériels. Elle peut être limitée à 2.000.000.- frs pour les dégâts matériels dus à des pollutions par hydrocarbures. Les pol- lutions non-accidentelles sont exclues de l’assurance. 4) La garantie doit être valable pour tous les cours et plans d’eau du territoire du Grand-Duché de Luxembourg ouverts à la navigation. 5) Sont exclus de l’assurance, sauf convention contraire, les dommages causés lors de la participation de la «menue embarcation» à moteur assurée à des courses et concours de vitesse, de durée, d’adresse ou de régularité, ainsi qu’aux essais préparatifs de ces courses et concours. 6) Toute expiration, annulation, résiliation, suspension du contrat ou de la garantie, quelle que soit leur cause, ne produit ses effets à l’encontre des personnes lésées que seize jours après réception par le Ministre des Transports de la notification afférente à lui adressée par lettre recommandée de l’assureur. Cette notification par lettre recommandée peut être remplacée par un accusé de réception du Ministre des Transports ou de son délégué. 7) L’attestation d’assurance à délivrer par l’assureur à la demande du preneur d’assurance doit porter les mentions suivantes: - Nom et prénom du propriétaire ou détenteur de la «menue embarcation» - Son domicile - Genre de l’embarcation - Constructeur/marque - Type - Puissance CV/KW - Marque d’identification - Période de validité de l’attestation d’assurance - Numéro de police - Référence au présent règlement grand-ducal.
+
+<a id="art_11__3"></a>
+
+### Art. 11. Sanctions
+
+Les infractions aux prescriptions du présent règlement grand-ducal sont punies conformément à l’article 4 de la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques et de la natation.
+
+<a id="art_12__3"></a>
+
+### Art. 12. Dispositions finales
+
+(Règl. g.-d. du 10 décembre 1997) Les marques officielles d’identification non valables sont à enlever de la «menue embarcation». En cas de change- ment de propriétaire ou de détenteur, le Service de la Navigtion peut attribuer, sur demande et à condition que l’an- cien certificat ait été retourné, l’ancienne marque officielle d’identification. 667 Les «menues embarcations» circulant ou établies sur les cours et plans d’eau du Grand-Duché de Luxembourg et appartenant à des personnes domiciliées à l’étranger ne sont pas soumises aux dispositions du présent règlement, mais doivent satisfaire à la réglementation de leur pays d’origine ou être couvertes soit par un certificat international déli- vré par le Gouvernement de leur pays ou par un organisme agréé par ce Gouvernement, soit par une carte interna- tionale établie par des organismes qualifiés du pays où il n’est pas délivré de certificat international. Toutefois l’article 10 du présent règlement leur reste applicable. (Règl. g.-d. du 10 décembre 1997) «Art. 13. Notre Ministre des Transports et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial». 668 669 670 671 672 Ministère d'Etat, Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg. Imprimerie de la Cour Victor Buck, s.à r.l., Luxembourg Editeur: Imprimeur:

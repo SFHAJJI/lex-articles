@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2392:2025-11-28--61b6cbc98e65f764166710db26c6a831a1fd0ecab07a18187731fb2aced2bb50",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/2392 of 28\u00A0November 2025 on the technical description of the categories of important and critical products with digital elements pursuant to Regulation (EU)\u00A02024/2847",
+  "valid_from": "2025-11-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2392/versions/2025-11-28--61b6cbc98e65f764166710db26c6a831a1fd0ecab07a18187731fb2aced2bb50/en.xml",
+    "sha256": "8dd48c7990527289ea46b5bd2f3c4dbbac95a89d99de2f3aa5388c3bc9398e0e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2392"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2392:2025-11-28--61b6cbc98e65f764166710db26c6a831a1fd0ecab07a18187731fb2aced2bb50#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (1) | ‘Common Criteria’ means the Common Criteria for Information Technology Security Evaluation as defined in Article 2(1) of Implementing Regulation (EU) 2024/482 or as set out in the standards referred to in Article 3(2), points (a) and (b), of that Implementing Regulation; |\n| --- | --- |\n\n| (2) | ‘Common Evaluation Methodology’ means the Common Methodology for Information Technology Security Evaluation as defined in Article 2(2) of Implementing Regulation (EU) 2024/482 or as set out in the standards referred to in Article 3(2), points (c) and (d), of that Implementing Regulation. |\n| --- | --- |",
+      "text_sha256": "8ce7f0e00d4899030822d86823727c7d0c00fb0e07f61dcf0425907780cdd364",
+      "md_span": {
+        "start": 822,
+        "end": 1519
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2392:2025-11-28--61b6cbc98e65f764166710db26c6a831a1fd0ecab07a18187731fb2aced2bb50#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The technical description of the categories of products with digital elements under classes I and II listed in Annex III to Regulation (EU) 2024/2847 shall be as set out in Annex I to this Regulation.\n\n2. The technical description of the categories of products with digital elements listed in Annex IV to Regulation (EU) 2024/2847 shall be as set out in the Annex II to this Regulation.",
+      "text_sha256": "02c8a0e1ce4008be9ac363b13e342c8b84166380f0dc8465033990665763f743",
+      "md_span": {
+        "start": 1552,
+        "end": 1952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r2392:2025-11-28--61b6cbc98e65f764166710db26c6a831a1fd0ecab07a18187731fb2aced2bb50#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 1985,
+        "end": 2136
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

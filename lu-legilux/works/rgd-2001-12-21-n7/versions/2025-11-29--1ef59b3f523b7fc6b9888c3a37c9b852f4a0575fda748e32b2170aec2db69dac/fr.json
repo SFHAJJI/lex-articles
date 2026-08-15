@@ -1,0 +1,428 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac",
+  "language": "fr",
+  "title": "Version consolidée applicable au 29/11/2025 : Règlement grand-ducal du 21 décembre 2001 portant application de la directive 2000/14/CE du Parlement Européen et du Conseil du 8 mai 2000 concernant le rapprochement des législations des Etats membres relatives aux émissions sonores dans l'environnement des matériels destinés à être utilisés à l'extérieur des bâtiments.",
+  "valid_from": "2025-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-12-21-n7/versions/2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac/fr.xml",
+    "sha256": "506d8e6f9743c64b4e1180c7ca8265ddcee659d0f5ca656674254e9b9cb6f287",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20251129/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_1er/20020104",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objectifs",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Le présent règlement vise les normes d’émissions sonores, les procédures d’évaluation de la conformité, de marquage, de documentation technique et de collecte de données concernant les émissions sonores dans l’environnement des matériels destinés à être utilisés à l’extérieur des bâtiments.",
+      "text_sha256": "38bf6d2d0d082c88f30bd86e22686ac515f5b992189e44994bb586d421332d43",
+      "md_span": {
+        "start": 935,
+        "end": 1226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_2/20020104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Le présent règlement s’applique aux matériels destinés à être utilisés à l’extérieur des bâtiments, qui sont énumérés aux articles 13 et 14 et définis à l’annexe I. Le présent règlement ne s’applique qu’aux matériels mis sur le marché ou mis en service comme entités complètes prêtes à l’emploi. Les accessoires sans moteur séparément mis sur le marché, ou mis en service en sont exclus, à l’exception des brise-béton, des marteauxpiqueurs à main et des brise-roche hydrauliques.\n2. - tous les matériels principalement destinés au transport de marchandises ou de personnes par route, rail, air ou voies d’eau,\n- les matériels spécialement conçus et construits à l’usage de l'armée ou de la police ainsi que pour les services d’urgence.",
+      "text_sha256": "e1532391ff9a9e39916e77881dbd716647ee7605e9f33901109197e6fe7cde33",
+      "md_span": {
+        "start": 1281,
+        "end": 2019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_3/20020104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Aux fins du présent règlement, on entend par :\n\n1. directive 98/37/CE\n2. décision 93/465/CEE\n3. décision 93/465/CEE\n4. « niveau de puissance acoustique LWA » : le niveau de puissance acoustique affecté d’un coefficient de pondération A et mesuré en dB par rapport à 1 pW, tel que défini dans les normes EN ISO 3744 : 1995 et EN ISO 3746 : 1995 ;\n5. « niveau de puissance acoustique mesuré » : un niveau de puissance acoustique déterminé d’après les mesures définies à l’annexe III ; les valeurs mesurées peuvent être déterminées soit sur la base d’une seule machine représentative de ce type de matériel, soit d’après la moyenne de plusieurs machines ;\n6. « niveau de puissance acoustique garanti » : un niveau de puissance acoustique déterminé conformément aux exigences énoncées à l’annexe III en incluant les incertitudes liées aux variations de la production et aux procédures de mesure, et dont le fabricant ou son mandataire établi dans la Communauté confirme qu’il n’est pas dépassé, d’après les instruments techniques utilisés et signalés dans la documentation technique.\n7. « Ministre » : le membre du Gouvernement ayant dans ses attributions l’environnement.",
+      "text_sha256": "64dc1d6d8922ae86ed57604cae114e546e9a8186c01c0ead5f78bd98f7fe8a6f",
+      "md_span": {
+        "start": 2066,
+        "end": 3234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_4/20020104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Font partie intégrante du présent règlement les annexes suivantes :\n\n| Annexe I : | Définitions des matériels |\n| --- | --- |\n| Annexe II : | Déclaration de conformité CE |\n| Annexe III : | Méthode de mesurage du bruit aérien émis par les matériels utilisés à l’extérieur des bâtiments |\n| Annexe IV : | Modèles du marquage de conformité « CE » et de l’indication du niveau de puissance acoustique garanti |\n| Annexe V : | Contrôle interne de la production |\n| Annexe VI : | Contrôle interne de la production avec évaluation de la documentation technique et contrôle périodique |\n| Annexe VII : | Vérification à l’unité |\n| Annexe VIII : | Assurance de la qualité complète |\n| Annexe IX : | Critères minimaux devant être pris en considération pour la notification des organismes |\n| Annexe X : | Vérification à l’unité |",
+      "text_sha256": "88085c77bdc192ab32ce6c43f09206da7089bc492ccb1cb76d632257a02a37d6",
+      "md_span": {
+        "start": 3277,
+        "end": 4097
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_5/20020104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Mise sur le marché",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. - ledit matériel satisfait aux exigences du présent règlement en matière d’émissions sonores dans l’environnement\n- les procédures d’évaluation de la conformité visées à l’article 15 ont été appliquées,\n- le matériel porte le marquage « CE » ainsi que l’indication du niveau de puissance acoustique garanti et est accompagné d’une déclaration de conformité CE.\n2. Si ni le fabricant ni son mandataire ne sont établis dans la Communauté, les obligations du présent règlement incombent à toute personne qui met le matériel sur le marché ou le met en service dans la Communauté.",
+      "text_sha256": "582455520150dd08afea9739e019ba94e183015b0fe122a5d4d76fd290ee9368",
+      "md_span": {
+        "start": 4151,
+        "end": 4729
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_6/20020104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Surveillance du marché",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Les matériels visés à l’article 2, paragraphe 1, ne peuvent être mis sur le marché ou mis en service que s’ils sont conformes aux dispositions du présent règlement, s’ils portent le marquage « CE » et l’indication du niveau de puissance acoustique garanti et s’ils sont accompagnés d’une déclaration de conformité CE.\n2. L’Administration de l’Environnement est chargée de régler les problèmes d’ordre technique que peut engendrer l’application du présent règlement. Elle coopère en la matière avec les autorités compétentes des autres Etats membres de l’Union européenne.",
+      "text_sha256": "d809161e594f25aedf90a1356bf8fb4d6cc0ca35b43e352d4ef5e398ea800a6f",
+      "md_span": {
+        "start": 4787,
+        "end": 5361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_7/20020104",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Libre circulation",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Ne peuvent être interdites, limitées ou empêchées la mise sur le marché ou la mise en service sur le territoire luxembourgeois de matériels visés à l’article 2, paragraphe 1, qui sont conformes aux dispositions du présent règlement, qui portent le marquage « CE » ainsi que l’indication du niveau de puissance acoustique garanti et qui sont accompagnés d’une déclaration de conformité CE.\n2. N’est pas interdite l’exposition, lors des foires commerciales, de démonstrations, d’expositions ou de manifestations similaires, de matériels visés à l’article 2, paragraphe 1, non conformes aux dispositions du présent règlement à condition qu’un panneau bien visible indique clairement que les matériels en question ne sont pas conformes, et qu’ils ne soient pas mis sur le marché ou mis en service tant qu’ils n’ont pas été mis en conformité par le fabricant ou son mandataire établi dans la Communauté. Lors des démonstrations, des mesures de sécurité adéquates doivent être prises conformément aux exigences fixées par l’Administration de l’Environnement afin d’assurer la protection des personnes.",
+      "text_sha256": "0262268425af439bdf593114987000c2e28b8b51ce406648c5821ecc17b9da81",
+      "md_span": {
+        "start": 5414,
+        "end": 6512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_8/20020104",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Présomption de conformité",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Le matériel visé à l’article 2, paragraphe 1, qui porte le marquage « CE » ainsi que l’indication du niveau de puissance acoustique garanti et qui est accompagné de la déclaration de conformité est présumé conforme à l’intégralité des dispositions du présent règlement.",
+      "text_sha256": "84a1ceae535996e3386ddd5efea9e2b74430b04b45d183913725b92721cb47d2",
+      "md_span": {
+        "start": 6573,
+        "end": 6842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_9/20020104",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Déclaration de conformité CE",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Le fabricant d’un matériel visé à l’article 2, paragraphe 1, ou son mandataire établi dans la Communauté dresse pour chaque type de matériel fabriqué une déclaration de conformité CE attestant que celui-ci est conforme aux dispositions du présent règlement ; cette déclaration de conformité contient au minimum les éléments indiqués à l’annexe II.\n2. La déclaration de conformité est établie ou traduite en langue française ou allemande lorsque le matériel est mis sur le marché ou mis en service sur le territoire luxembourgeois.\n3. Le fabricant d’un matériel visé à l’article 2, paragraphe 1, ou son mandataire établi dans la Communauté conserve un spécimen de la déclaration de conformité CE pendant dix ans à compter de la date de dernière fabrication du matériel ainsi que la documentation technique prévue à l’annexe V, point 3, à l’annexe VI, point 3, à l’annexe VII, point 2 et à l’annexe VIII, points 3.1 et 3.3.",
+      "text_sha256": "a1227ffaa49357bcbf6fafcadcce5a4244d6f6be657d0de28309567033e14c73",
+      "md_span": {
+        "start": 6906,
+        "end": 7830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_10/20020104",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Non-conformité du matériel",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Lorsque l’Administration de l’Environnement constate que du matériel visé à l’article 2, paragraphe 1, et mis sur le marché ou mis en service ne respecte pas les exigences du présent règlement, le Ministre prend toutes les mesures nécessaires pour que le fabricant ou son mandataire établi dans la Communauté mette ledit matériel en conformité avec les dispositions du présent règlement.\n2. 1. les valeurs limites visées à l’article 13 sont dépassées ou\n2. que la non-conformité aux dispositions du présent règlement se prolonge en dépit des mesures prises conformément au paragraphe 1, le Ministre prend toutes les mesures nécessaires pour limiter ou interdire la mise sur le marché ou la mise en service du matériel en question ou pour veiller à ce que le matériel soit retiré du marché. La Commission européenne et les autres Etats membres de l’Union européenne sont immédiatement informés des mesures prises. La Commission européenne procède aux consultations et informations conformément à l’article 9 de la directive 2000/14/CE.",
+      "text_sha256": "7e98c6cffccd3258f00c52c202c0cf2db70753db887cb0ba667c7861f91015ad",
+      "md_span": {
+        "start": 7894,
+        "end": 8931
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2000/14/jo",
+          "text": "directive 2000/14/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_11/20020104",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Décision de limitation de la mise sur le marché ou de la mise en service",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Toute décision prise en application du présent règlement qui limite la mise sur le marché ou la mise en service de matériel couvert par le présent règlement indique les raisons exactes qui la motivent. La mesure prise est notifiée dès que possible à la partie concernée.",
+      "text_sha256": "61a548a7a291723f2004eff521d806367797442bfa35c373b2c212263b3e0eab",
+      "md_span": {
+        "start": 9041,
+        "end": 9311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_12/20020104",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Marquage",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Le matériel visé à l’article 2, paragraphe 1 qui est mis sur le marché ou mis en service et qui est conforme aux dispositions du présent règlement porte le marquage « CE » de conformité. Ce marquage se compose des lettres « CE » sous la forme indiquée à l’annexe IV.\n2. Le marquage « CE » est accompagné de l’indication du niveau de puissance acoustique garanti. Un modèle de cette indication figure à l’annexe IV.\n3. Le marquage « CE » de conformité et l’indication du niveau de puissance acoustique garanti sont apposés de manière visible, lisible et indélébile sur chaque matériel.\n4. L’apposition sur le matériel de marquages ou d’inscriptions susceptibles d’induire en erreur quant à la signification ou la forme du marquage « CE » ou à l’indication du niveau de puissance acoustique garanti est interdite. Tout autre marquage peut être apposé sur le matériel, à condition de ne pas réduire la visibilité, ni la lisibilité du marquage « CE » et de l’indication du niveau de puissance acoustique garanti.\n5. Lorsque le matériel visé à l’article 2, paragraphe 1, est soumis au présent règlement et, pour d’autres aspects, à d’autres directives qui prévoient aussi l’apposition du marquage « CE », le marquage indique que ledit matériel satisfait également aux dispositions de ces directives. Toutefois, si une ou plusieurs de ces directives permet au fabricant de choisir, pendant une période transitoire, les modalités qu’il souhaite appliquer, le marquage « CE » indique que le matériel satisfait uniquement aux dispositions des directives appliquées par le fabricant. En l’occurrence, il y a lieu de citer, dans les documents, les spécifications ou les notices exigées par ces directives et accompagnant le matériel, les références des directives en question telles qu’elles sont publiées au Journal Officiel des Communautés européennes.",
+      "text_sha256": "a12bc4d39606d380d3f276edd40822f4296ad217ad151ac937fc17e197943e8d",
+      "md_span": {
+        "start": 9357,
+        "end": 11203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_13/20060430",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Matériels soumis à des limites d’émission sonore",
+      "path": [],
+      "article_valid_from": "2006-04-30",
+      "text_md": "Le niveau de puissance acoustique garanti des matériels énumérés ci-après ne peut dépasser le niveau de puissance acoustique admissible fixé dans le tableau suivant des valeurs limites :\n\n- *Définition : annexe I, point 3. Mesure : annexe III, partie B, point 3*\n- *Définition : annexe I, point 8. Mesure : annexe III, partie B, point 8*\n- *Définition : annexe I, point 9. Mesure : annexe III, partie B, point 9*\n- *Définition : annexe I, point 10. Mesure : annexe III, partie B, point 10*\n- *Définition : annexe I, point 12. Mesure : annexe III, partie B, point 12*\n- *Définition : annexe I, point 16. Mesure : annexe III, partie B, point 16*\n- *Définition : annexe I, point 18. Mesure : annexe III, partie B, point 18*\n- *Définition : annexe I, point 20. Mesure : annexe III, partie B, point 20*\n- *Définition : annexe I, point 21. Mesure : annexe III, partie B, point 21*\n- *Définition : annexe I, point 23. Mesure : annexe III, partie B, point 23 *\n- *Définition : annexe I, point 29. Mesure : annexe III, partie B, point 29*\n- *Définition : annexe I, point 31. Mesure : annexe III, partie B, point 31*\n- *Définition : annexe I, point 32. Mesure : annexe III, partie B, point 32*\n- *Définition : annexe I, point 33. Mesure : annexe III, partie B, point 33*\n- *Définition : annexe I, point 36. Mesure : annexe III, partie B, point 36*\n- *Définition : annexe I, point 37. Mesure : annexe III, partie B, point 37 *\n- *Définition : annexe I, point 38. Mesure : annexe III, partie B, point 38*\n- *Définition : annexe I, point 40. Mesure : annexe III, partie B, point 40*\n- *Définition : annexe I, point 41. Mesure : annexe III, partie B, point 41 *\n- *Définition : annexe I, point 45. Mesure : annexe III, partie B, point 45*\n- *Définition : annexe I, point 53. Mesure : annexe III, partie B, point 53*\n- *Définition : annexe I, point 57. Mesure : annexe III, partie B, point 57 *\n\n| Type de matériel | Puissance nette installée P, en kW Puissance électrique Pel en kW (1) Masse m de l’appareil, en kg Largeur decoupe L, en cm | Niveau admissible de puissance acoustique en dB/1 pW |  |\n| --- | --- | --- | --- |\n|  |  | Phase I à compter du 3 janvier 2002 | Phase II à compter du 3 janvier 2006 |\n| Engins de compactage (rouleaux compacteurs vibrants et plaques et pilonneuses vibrantes) | P ≤ 8 | 108 | 105 (2) |\n| 8 < P ≤ 70 | 109 | 106 (2) |  |\n| P > 70 | 89 + 11 lg P | 86 + 11 lg P (2) |  |\n| Bouteurs, chargeuses, chargeuses-pelleteuses sur chenilles | P ≤ 55 | 106 | 103 (2) |\n| P > 55 | 87 + 11 lg P | 84 + 11 lg P (2) |  |\n| Bouteurs, chargeuses, chargeuses-pelleteuses sur roues, tombereaux, niveleuses, compacteurs de remblais et de déchets de type chargeuse, chariots élévateurs en porte-à-faux à moteur à combustion interne, grues mobiles, engins de compactage (rouleaux compacteurs non vibrants), finisseurs, groupes de puissance hydraulique | P ≤ 55 | 104 | 101 (2) (3) |\n| P > 55 | 85 + 11 lg P | 82 + 11 lg P (2) (3) |  |\n| Pelles, monte-matériaux, treuils de chantier, motobineuses | P ≤ 15 | 96 | 93 |\n| P > 15 | 83 + 11 lg P | 80 + 11 lg P |  |\n| Brise-béton et marteaux-piqueurs à main | m ≤ 15 | 107 | 105 |\n| 15 < m < 30 | 94 + 11 lg m | 92 + 11 lg m (2) |  |\n| m ≥ 30 | 96 + 11 lg m | 94 + 11 lg m |  |\n| Grues à tour |  | 98 + lg P | 96 + lg P |\n| Groupes électrogènes de soudage et de puissance | Pel ≤ 2 | 97 + lg Pel | 95 + lg Pel |\n| 2 < Pel ≤ 10 | 98 + lg Pel | 96 + lg Pel |  |\n| 10 > Pel | 97 + lg Pel | 95 + lg Pel |  |\n| Motocompresseurs | P ≤ 15 | 99 | 97 |\n| P > 15 | 97 + 2 lg P | 95 + 2 lg P |  |\n| Tondeuses à gazon, coupe-gazon/coupe-bordures | L ≤ 50 | 96 | 94 (2) |\n| 50 < L ≤ 70 | 100 | 98 |  |\n| 70 < L ≤ 120 | 100 | 98 (2) |  |\n| L > 120 | 105 | 103 (2) |  |\n\n| (1) | Pel pour les groupes électrogènes de soudage: courant de soudage conventionnel multiplié par le voltage de charge conventionnel pour la plus faible valeur du taux de travail donnée par le fabricant. |\n| --- | --- |\n|  | Pel pour les groupes électrogènes de puissance: énergie primaire selon la norme ISO 8528-1:1993, point 13.3.2. |\n| (2) | Les chiffres de la phase II sont indicatifs uniquement pour les types de matériels suivants: rouleaux compacteurs à conducteur à pied, plaques vibrantes (> 3 kW), pilonneuses vibrantes, bouteurs (sur chenilles d’acier), chargeuses (sur chenilles d’acier > 55 kW), chariots élévateurs en porte-à-faux à moteur à combustion interne, finisseurs équipés d’une poutre lisseuse comportant un dispositif de compactage, brise-béton et marteaux-piqueurs à main à moteur à combustion interne (15<m<30) tondeuses à gazon, coupe-gazon/coupe-bordures. |\n|  | Les chiffres définitifs dépendront de la modification de la directive à la suite du rapport visé à l’article 20, paragraphe 1. En l’absence de modification, les chiffres de la phase I resteront applicables durant la phase II. |\n| (3) | Pour les grues mobiles monomoteurs, les chiffres de la phase I demeurent applicables jusqu’au 3 janvier 2008. Au-delà de cette date, les chiffres de la phase II s’appliquent. |\n|  | Le niveau de puissance acoustique admissible est arrondi par défaut ou par excès au nombre entier le plus proche (pour moins de 0,5, l’entier inférieur; pour 0,5 ou plus, l’entier supérieur). |",
+      "text_sha256": "f8c169bb46c3638b24e0437e70d30c9be451fcdb42dcf3661b67dd13ebdccc80",
+      "md_span": {
+        "start": 11289,
+        "end": 16500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_14/20020104",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Matériels soumis uniquement au marquage du niveau sonore",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Le niveau de puissance acoustique garanti des matériels énumérés ci-après est soumis uniquement au marquage du niveau sonore :\n\n- *Définition : annexe I, point 1. Mesure : annexe III, partie B, point 1 *\n- *Définition : annexe I, point 2. Mesure : annexe III, partie B, point 2 *\n- *Définition : annexe I, point 3. Mesure : annexe III, partie B, point 3*\n- *Définition : annexe I, point 4. Mesure : annexe III, partie B, point 4*\n- *Définition : annexe I, point 5. Mesure : annexe III, partie B, point 5*\n- *Définition : annexe I, point 6. Mesure : annexe III, partie B, point 6*\n- *Définition : annexe I, point 7. Mesure : annexe III, partie B, point 7*\n- *Définition : annexe I, point 8. Mesure : annexe III, partie B, point 8 *\n- *Définition : annexe I, point 11. Mesure : annexe III, partie B, point 11 *\n- *Définition : annexe I, point 12. Mesure : annexe III, partie B, point 12*\n- *Définition : annexe I, point 13. Mesure : annexe III, partie B, point 13*\n- *Définition : annexe I, point 14. Mesure : annexe III, partie B, point 14*\n- *Définition : annexe I, point 15. Mesure : annexe III, partie B, point 15*\n- *Définition : annexe I, point 17. Mesure : annexe III, partie B, point 17 *\n- *Définition : annexe I, point 19. Mesure : annexe III, partie B, point 19*\n- *Définition : annexe I, point 22. Mesure : annexe III, partie B, point 22*\n- *Définition : annexe I, point 24. Mesure : annexe III, partie B, point 24*\n- *Définition : annexe I, point 25. Mesure : annexe III, partie B, point 25 *\n- *Définition : annexe I, point 26. Mesure : annexe III, partie B, point 26*\n- *Définition : annexe I, point 27. Mesure : annexe III, partie B, point 27 *\n- *Définition : annexe I, point 28. Mesure : annexe III, partie B, point 28*\n- *Définition : annexe I, point 30. Mesure : annexe III, partie B, point 30*\n- *Définition : annexe I, point 34. Mesure : annexe III, partie B, point 34*\n- *Définition : annexe I, point 35. Mesure : annexe III, partie B, point 35*\n- *Définition : annexe I, point 36. Mesure : annexe III, partie B, point 36*\n- *Définition : annexe I, point 39. Mesure : annexe III, partie B, point 39*\n- *Définition : annexe I, point 41. Mesure : annexe III, partie B, point 41 *\n- *Définition : annexe I, point 42. Mesure : annexe III, partie B, point 42 *\n- *Définition : annexe I, point 43. Mesure : annexe III, partie B, point 43 *\n- *Définition : annexe I, point 44. Mesure : annexe III, partie B, point 44*\n- > *Définition : annexe I, point 45. Mesure : annexe III, partie B, point 45*\n- *Définition : annexe I, point 46. Mesure : annexe III, partie B, point 46*\n- *Définition : annexe I, point 47. Mesure : annexe III, partie B, point 47*\n- *Définition : annexe I, point 48. Mesure : annexe III, partie B, point 48*\n- *Définition : annexe I, point 49. Mesure : annexe III, partie B, point 49*\n- *Définition : annexe I, point 50. Mesure : annexe III, partie B, point 50*\n- *Définition : annexe I, point 51. Mesure : annexe III, partie B, point 51*\n- *Définition : annexe I, point 52. Mesure : annexe III, partie B, point 52*\n- *Définition : annexe I, point 54. Mesure : annexe III, partie B, point 54*\n- *Définition : annexe I, point 55. Mesure : annexe III, partie B, point 55*\n- *Définition : annexe I, point 56. Mesure : annexe III, partie B, point 56*",
+      "text_sha256": "2f829edbeb292ed4b1a5fab85d89b4fd560a05b3aceaa35c53533a18802dfe5d",
+      "md_span": {
+        "start": 16594,
+        "end": 19874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_15/20020104",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Evaluation de la conformité",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. - soit la procédure de contrôle interne de la production, avec évaluation de la documentation technique et contrôle périodique, visée à l’annexe VI,\n- soit la procédure de vérification à l’unité visée à l’annexe VII,\n- soit la procédure d’assurance qualité complète visée à l’annexe VIII.\n2. Avant de mettre sur le marché ou de mettre en service du matériel visé à l’article 14, le fabricant ou son mandataire établi dans la Communauté soumet chaque type de matériel à la procédure de contrôle interne de la production visée à l’annexe V.\n3. Sur demande motivée, la Commission européenne et tout autre Etat membre de l’Union européenne peuvent obtenir toutes les informations utilisées lors de la procédure d’évaluation de la conformité concernant un type de matériel, et notamment la documentation technique prévue à l’annexe V, point 3, à l’annexe VI, point 3, à l’annexe VII, point 2 et à l’annexe VIII, points 3.1 et 3.3.",
+      "text_sha256": "9289c3118d91149d5d9e35bc6055191332e362f0ff03563919542aada041167f",
+      "md_span": {
+        "start": 19939,
+        "end": 20867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_16/20020104",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Organismes notifiés",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. Ne sont désignés que des organismes qui satisfont aux critères énoncés à l’annexe IX. Le fait qu’un organisme satisfasse aux critères de l’annexe IX n’implique pas que le Ministre soit obligé de désigner cet organisme.\n2. Sont notifiés à la Commission européenne et aux autres Etats membres de l’Union européenne, les organismes désignés ainsi que les tâches spécifiques et les procédures d’examen qu’ils ont été chargés d’effectuer et les numéros d’identification que la Commission européenne leur a préalablement attribués.\n3. Le Ministre retire la notification s’il constate que l’organisme ne satisfait plus aux critères visés à l’annexe IX. La Commission européenne et les autres Etats membres de l’Union européenne en sont informés immédiatement.",
+      "text_sha256": "61559a53eec78b233b4b31f90df4d4e4a59f8947468b88066290a3a30adb4840",
+      "md_span": {
+        "start": 20924,
+        "end": 21679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_17/20251129",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Collecte de données relatives au bruit",
+      "path": [],
+      "article_valid_from": "2025-11-29",
+      "text_md": "1. Le fabricant ou son mandataire établi dans la Communauté envoie à l’autorité responsable de l’Etat membre de l’Union européenne où il réside ou de l’Etat membre de l’Union européenne où il met sur le marché ou met en service le matériel visé à l’article 2, paragraphe 1, ainsi qu’à la Commission européenne, une copie de la déclaration de conformité CE pour chaque type de matériel visé à l’article 2, paragraphe 1.\n2. directive 2000/14/CE",
+      "text_sha256": "1dddceb2e4b26694625e8f9709bdc288829eb049b2fff1490cd2eb29c82b0350",
+      "md_span": {
+        "start": 21755,
+        "end": 22197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_18/20020104",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Dispositions abrogatoires",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "1. le règlement grand-ducal modifié du 1er avril 1988 concernant le niveau de puissance acoustique admissible des tondeuses à gazon le règlement grand-ducal modifié du 28 septembre 1988 relatif aux matériels et engins de chantier le règlement grand-ducal du 1er juin 1989 relatif à la détermination de l’émission sonore des engins et matériels de chantier le règlement grand-ducal du 1er juin 1989 relatif au niveau de puissance acoustique admissible des motocompresseurs le règlement grand-ducal du 1er juin 1989 relatif au niveau de puissance acoustique admissible des grues à tours le règlement grand-ducal du 1er juin 1989 relatif au niveau de puissance acoustique admissible des groupes électrogènes de soudage; le règlement grand-ducal du 1er juin 1989 relatif au niveau de puissance acoustique admissible des groupes électrogènes de puissance le règlement grand-ducal du 1er juin 1989 relatif au niveau de puissance acoustique admissible des brise-béton et des marteaux piqueurs utilisés à la main le règlement grand-ducal modifié du 8 juillet 1992 relatif à : 1. la limitation des émissions sonores des pelles hydrauliques et à câbles, des bouteurs, des chargeuses et des chargeuses-pelleteuses,\n2. règlement grand-ducal du 28 septembre 1988\n2. Les attestations d’examen de type délivrées en application des règlements mentionnés au paragraphe 1 et les mesures de matériels effectuées en application desdits règlements peuvent servir à établir la domentation technique prévue à l’annexe V, point 3, à l’annexe VI, point 3, à l’annexe VII, point 2 et à l’annexe VIII, points 3.1 et 3.3 du présent règlement.",
+      "text_sha256": "99268d007fe8a7684f6491cc6c2f4159100207818f9ed87e3a6ec3d597d7c272",
+      "md_span": {
+        "start": 22260,
+        "end": 23874
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1988/04/01/n1/jo",
+          "text": "règlement grand-ducal modifié du 1er avril 1988"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1988/09/28/n6/jo",
+          "text": "règlement grand-ducal modifié du 28 septembre 1988"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n1/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n2/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n3/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n4/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n5/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1989/06/01/n6/jo",
+          "text": "règlement grand-ducal du 1er juin 1989"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1992/07/08/n3/jo",
+          "text": "règlement grand-ducal modifié du 8 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_19/20020104",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Mémorial.",
+      "text_sha256": "9bc048237d4740b7bc29a9a244631275f4ee089e5485b34e1d48b4cd65daab16",
+      "md_span": {
+        "start": 23929,
+        "end": 24005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/art_20/20020104",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": "2002-01-04",
+      "text_md": "Notre Ministre de l’Environnement est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "f72f9d732e717cca89e0db42b28461932bf8ab8960f7b571c63e4e332e5a9238",
+      "md_span": {
+        "start": 24052,
+        "end": 24161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2001-12-21-n7:2025-11-29--1ef59b3f523b7fc6b9888c3a37c9b852f4a0575fda748e32b2170aec2db69dac#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour visualiser les annexes, veuillez consulter la version pdf du Mémorial.",
+      "text_sha256": "71cc9f76479a181627c09609b91afe5ddccfb7edd4624fb674979b3366ac5a2b",
+      "md_span": {
+        "start": 24202,
+        "end": 24277
+      },
+      "citations": [
+        {
+          "href": "https://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2001/a161/fr/pdf/eli-etat-leg-memorial-2001-a161-fr-pdf.pdf",
+          "text": "Mémorial"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

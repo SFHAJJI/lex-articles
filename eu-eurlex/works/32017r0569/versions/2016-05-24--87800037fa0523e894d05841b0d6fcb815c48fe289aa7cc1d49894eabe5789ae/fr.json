@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0569:2016-05-24--87800037fa0523e894d05841b0d6fcb815c48fe289aa7cc1d49894eabe5789ae",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/569 of 24 May 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-05-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0569/versions/2016-05-24--87800037fa0523e894d05841b0d6fcb815c48fe289aa7cc1d49894eabe5789ae/fr.xml",
+    "sha256": "dba1908774e07a2ddfbfad24e092fc7678d2f8d8fdd307bf2da2470f7d2ec820",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0569"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0569:2016-05-24--87800037fa0523e894d05841b0d6fcb815c48fe289aa7cc1d49894eabe5789ae#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes opérateurs de marchés réglementés et les entreprises d'investissement ou opérateurs de marché exploitant un système multilatéral de négociation (MTF) ou un système organisé de négociation (OTF) suspendent ou retirent de la négociation un instrument dérivé visé aux points 4) à 10) de la section C de l'annexe I de la directive 2014/65/UE lorsque cet instrument dérivé est lié ou fait référence à un seul instrument financier et que ce dernier a été suspendu ou retiré de la négociation.",
+      "text_sha256": "185c4d6136c6ac8f52a59f356048394ddd3855de11b30a87c4def62c9e12d802",
+      "md_span": {
+        "start": 706,
+        "end": 1213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0569:2016-05-24--87800037fa0523e894d05841b0d6fcb815c48fe289aa7cc1d49894eabe5789ae#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 3 janvier 2018.",
+      "text_sha256": "386eb35d42320c13dd9a0aa1f96f37050392987da8e187218f2cc6df9c357753",
+      "md_span": {
+        "start": 1246,
+        "end": 1431
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

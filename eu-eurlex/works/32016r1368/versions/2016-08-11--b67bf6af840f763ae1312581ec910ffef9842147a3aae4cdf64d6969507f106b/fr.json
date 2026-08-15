@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1368:2016-08-11--b67bf6af840f763ae1312581ec910ffef9842147a3aae4cdf64d6969507f106b",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1368 of 11 August 2016 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011",
+  "valid_from": "2016-08-11",
+  "valid_to": "2017-06-29",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1368/versions/2016-08-11--b67bf6af840f763ae1312581ec910ffef9842147a3aae4cdf64d6969507f106b/fr.xml",
+    "sha256": "d5a070693df6f3edc64812f8046b6cd9ea78a0f65dc4f2a384c4fe17814cdbe9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1368"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1368:2016-08-11--b67bf6af840f763ae1312581ec910ffef9842147a3aae4cdf64d6969507f106b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'indice de référence figurant à l'annexe est considéré comme un indice de référence d'importance critique.",
+      "text_sha256": "e89ca4e658e82593e231b74e6ddb4d1a7a595219afd006c382e68f98479f3b88",
+      "md_span": {
+        "start": 791,
+        "end": 915
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1368:2016-08-11--b67bf6af840f763ae1312581ec910ffef9842147a3aae4cdf64d6969507f106b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "3c7883834de2a6311c549c126d042d3b09894c0052807156950de93272a1d9ae",
+      "md_span": {
+        "start": 948,
+        "end": 1079
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

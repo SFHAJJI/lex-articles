@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1348:2021-05-06--a10122e8a22c61d740721c5e0789bf38df9333778589513cb2e6d26514eb2fd7",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/1348 of 6\u00A0May 2021 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2021-05-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1348/versions/2021-05-06--a10122e8a22c61d740721c5e0789bf38df9333778589513cb2e6d26514eb2fd7/fr.xml",
+    "sha256": "5aca019aa0eb8c1b82f77a758aa1ce1f5be10b1c4a94fe63191e1a0624a1f5b6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1348"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06--a10122e8a22c61d740721c5e0789bf38df9333778589513cb2e6d26514eb2fd7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes autorités compétentes peuvent exiger des modifications de la déclaration de conformité visée à l’article 26, paragraphe 3, du règlement (UE) 2016/1011 lorsqu’elles estiment que cette déclaration n’indique pas clairement pourquoi l’administrateur concerné devrait être autorisé à ne pas respecter une ou plusieurs des exigences visées à l’article 26, paragraphe 1, du règlement (UE) 2016/1011, et plus particulièrement s’il y a un manque de clarté concernant:\n\n| a) | la structure organisationnelle de l’administrateur concerné et les conflits d’intérêts qui peuvent survenir du fait de sa structure; |\n| --- | --- |\n\n| b) | la détection et la gestion de conflits d’intérêts en rapport avec les membres du personnel de l’administrateur concerné, les personnes dont les services sont mis à sa disposition ou placés sous son contrôle et les personnes participant directement à la fourniture de l’indice de référence d’importance non significative; |\n| --- | --- |\n\n| c) | le processus de supervision de la fourniture de l’indice de référence d’importance non significative, compte tenu de la vulnérabilité de l’indice de référence concerné et de l’ampleur de l’organisation de l’administrateur; |\n| --- | --- |\n\n| d) | le cadre de contrôle applicable à la fourniture ou à la publication de l’indice de référence d’importance non significative ou à sa mise à disposition, y compris l’exposition de l’administrateur au risque opérationnel, au risque pour la continuité de l’activité ou au risque de perturbation du processus de fourniture de l’indice de référence. |\n| --- | --- |",
+      "text_sha256": "b3ae7559bb883737d433278c5d8125233c35fd7e3e2aa1fa9fbdd9b11d724e99",
+      "md_span": {
+        "start": 711,
+        "end": 2307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06--a10122e8a22c61d740721c5e0789bf38df9333778589513cb2e6d26514eb2fd7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes autorités compétentes peuvent exiger des modifications de la déclaration de conformité visée à l’article 26, paragraphe 3, du règlement (UE) 2016/1011 lorsqu’elles estiment que cette déclaration n’indique pas clairement pourquoi l’administrateur concerné ne devrait pas respecter une ou plusieurs des exigences visées à l’article 26, paragraphe 1, du règlement (UE) 2016/1011, et plus particulièrement s’il y a un manque de clarté concernant:\n\n| a) | le niveau de contrôle de la fourniture des données sous-jacentes et la question de savoir si, compte tenu de la nature des données sous-jacentes, ce niveau de contrôle est suffisant pour garantir l’exactitude, l’intégrité et la fiabilité des données sous-jacentes; |\n| --- | --- |\n\n| b) | la transparence des procédures de consultation sur toute modification importante de la méthodologie de l’indice de référence d’importance non significative, compte tenu de la complexité de cette méthodologie et de la nature des données sous-jacentes utilisées; |\n| --- | --- |\n\n| c) | le processus de signalement des cas de manipulation ou de tentative de manipulation de l’indice de référence d’importance non significative, notamment en ce qui concerne le contrôle des données sous-jacentes et des contributeurs; |\n| --- | --- |\n\n| d) | lorsque l’indice de référence d’importance non significative repose sur les données sous-jacentes de contributeurs, le code de conduite et la question de savoir si, compte tenu de la nature des données sous-jacentes, ce code comporte des garanties pour l’intégrité des données sous-jacentes utilisées; |\n| --- | --- |\n\n| e) | la capacité de l’administrateur à vérifier et à faire rapport sur son respect de la méthodologie de l’indice de référence d’importance non significative et du règlement (UE) 2016/1011; |\n| --- | --- |\n\n| f) | la question de savoir si, lorsque les données sous-jacentes sont fournies par un contributeur surveillé, cette fourniture est assortie de contrôles appropriés permettant de garantir l’exactitude, l’intégrité et la fiabilité des données sous-jacentes. |\n| --- | --- |",
+      "text_sha256": "5baad4b1362cf488ec1fd856627a5434c48c32cdc96b30336507416bbfb74b8d",
+      "md_span": {
+        "start": 2340,
+        "end": 4435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06--a10122e8a22c61d740721c5e0789bf38df9333778589513cb2e6d26514eb2fd7#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl s’applique à partir du 1er janvier 2022.",
+      "text_sha256": "f45128b051712a58a621c91334b90976917799381aefc435af6b3fd464801908",
+      "md_span": {
+        "start": 4468,
+        "end": 4654
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

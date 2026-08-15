@@ -1,0 +1,226 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/10/2015 : Loi du 4 mars 1896, concernant l’expropriation par zône pour cause d’utilité publique.",
+  "valid_from": "2015-10-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1896-03-04-n1/versions/2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3/fr.xml",
+    "sha256": "3581f47c6aa3145394aaeaff2716051bdf7cbe4651396b7fdca9927a277e9b35",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/consolide/20151003/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_1er/18960311",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Lorsqu’il s’agit d’un ensemble de travaux ayant pour objet d’assainir ou d’améliorer, en totalité ou en partie, un ancien quartier ou de construire un quartier nouveau, l’autorisation de procéder à l’expropriation de tous les terrains destinés aux voies de communication et à d’autres usages ou services publics, ainsi qu’aux constructions comprises dans le plan général des travaux projetés, pourra être accordée par Nous, le Conseil d’Etat entendu.\n\nL’expropriation peut s’opérer à la demande :\n\n1° de l’État ;\n\n2° des communes ou sections de commune, et\n\n3° même de particuliers, mais seulement si l’intérêt de la partie demanderesse est en même temps d’utilité publique.",
+      "text_sha256": "4d5a93a2f462029801b4c18e3bfcf623dcfa71c65ff3345c8937e8a460736e9f",
+      "md_span": {
+        "start": 687,
+        "end": 1361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_2/20151003",
+      "type": "article",
+      "num": "Art. 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-10-03",
+      "text_md": "L’utilité et le plan des travaux projetés sont soumis à l’avis d’une commission spéciale, qui, par dérogation à l’art. 13 de la loi du 17 décembre 1859, comprendra sept membres, à savoir : un fonctionnaire désigné à ces fins par le ministre ayant l’Intérieur dans ses attributions, deux membres de la Chambre des députés, un médecin, un ingénieur, un architecte et un membre d’une administration publique de bienfaisance ou d’un comité de charité, lesquels sont désignés par le Gouvernement.\n\nLes bourgmestres des communes intéressées assisteront aux réunions avec voix consultative.",
+      "text_sha256": "69b8e7d73c6360b31689dadcabb2581de2b6946086c8ca3373d3e6bc878bc1ef",
+      "md_span": {
+        "start": 1395,
+        "end": 1978
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1859/12/17/n5/jo",
+          "text": "loi du 17 décembre 1859"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_3/18960311",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Le plan général prescrit par l’art. 1er indique :\n\n1° la superficie des terrains et édifices dont la cession est nécessaire ;\n\n2° le nom de chaque propriétaire et la désignation cadastrale de la propriété ;\n\n3° les travaux à exécuter sur les dits terrains après l’expropriation ;\n\n4° les parcelles des terrains destinées à être remises en vente ou à recevoir des constructions sur l’alignement des nouvelles rues ou places.",
+      "text_sha256": "43ad36931191cf67fecab9e58ca58fcea88b78e2820454d5fdceee3f81ae38de",
+      "md_span": {
+        "start": 2013,
+        "end": 2436
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_4/18960311",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "S’il reste, hors des limites fixées pour l’exécution du plan, des enclaves ou des parcelles qui, soit à cause de leur exiguïté, soit à cause de leur situation, ne sont plus susceptibles de recevoir des constructions salubres, ces terrains sont portés au plan comme faisant partie des immeubles à exproprier ; toutefois les propriétaires peuvent être autorisés par Nous à conserver ces terrains, s’ils en font la demande avant la clôture de l’enquête.",
+      "text_sha256": "b4da13a707d78deae8c2f40b4c75e51b40c17badf42badbc3b8c3ec94b3d8b24",
+      "md_span": {
+        "start": 2471,
+        "end": 2921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_5/18960311",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Le délai du dépôt des plans prévu à l’art. 12 de la loi de 1859 est porté à un mois.",
+      "text_sha256": "f97b00b191e18c724d92d57846ec09244626d72a8772a9e78699b75a6786b163",
+      "md_span": {
+        "start": 2956,
+        "end": 3040
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1859/12/17/n5/jo",
+          "text": "loi de 1859"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_6/18960311",
+      "type": "article",
+      "num": "Art. 6",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Quand l’exécution du plan entraîne la suppression totale ou partielle d’une rue, les propriétaires riverains de la rue supprimée ont la faculté de s’avancer jusqu’à l’alignement de la nouvelle voie. S’ils ne veulent pas user de cette faculté, l’expropriation de leur propriété entière pourra être ordonnée.\n\nLes terrains à acquérir par les propriétaires seront estimés par des experts nommés par les deux parties, et par un tiers expert nommé par le président du tribunal de l’arrondissement.",
+      "text_sha256": "14398704139c577e5023c693c1eefa8300f0a70f01c66431d92887553f2308f0",
+      "md_span": {
+        "start": 3074,
+        "end": 3566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_7/18960311",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Nous Nous réservons de déterminer les conditions de la revente des terrains non occupés par la voie publique ou par les services d'utilité générale.",
+      "text_sha256": "f77dc710b54e56ed382b6587fcb88ff19cdf6bd773247eca7cfb2d82bca3ace8",
+      "md_span": {
+        "start": 3601,
+        "end": 3749
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_8/18960311",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "L’expropriation, en vertu de la présente loi, sera poursuivie, et l’indemnité due aux propriétaires sera réglée conformément aux dispositions de la loi du 17 décembre 1859, sans préjudice des dérogations spéciales qui précèdent.",
+      "text_sha256": "c7df17f9a0f6fc2257b85976b5ed3be2f0bd14aae789972519de148af65ef4a4",
+      "md_span": {
+        "start": 3784,
+        "end": 4012
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1859/12/17/n5/jo",
+          "text": "loi du 17 décembre 1859"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_9/18960311",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Lorsque les propriétés comprises au plan appartiennent à un seul propriétaire, ou lorsque tous les propriétaires sont réunis, la préférence pour l’exécution des travaux leur est toujours accordée, s’ils se soumettent à les exécuter dans le délai fixé et conformément au plan approuvé par Nous, et s’ils justifient, d’ailleurs, des ressources nécessaires.\n\nLa même préférence peut être accordée , sous les mêmes conditions, aux propriétaires qui possèdent en superficie plus de la moitié des terrains à exproprier.",
+      "text_sha256": "bf9e757ec69bc1809d6a4b7da20388b4f7caba2e1e7d1f8dbd6faea4df418741",
+      "md_span": {
+        "start": 4047,
+        "end": 4560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_10/18960311",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Les particuliers, demandeurs en concession, auteurs du plan, qui n’ont pas obtenu la concession, ont droit à une indemnité à payer par les concessionnaires des travaux, et dont le montant est fixé par Notre arrêté qui approuve les travaux et emprises.",
+      "text_sha256": "3de30a0291ff406e43b75fe70d35049fe6ad67538ff87c66db929f8aa9e88bb0",
+      "md_span": {
+        "start": 4597,
+        "end": 4848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1896-03-04-n1:2015-10-03--89fc38e75676f029fae59de031991ad92078f290768419c86d70d46f8d9783a3#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/art_11/18960311",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1896-03-11",
+      "text_md": "Les propriétaires doivent, sous peine de déchéance, réclamer la préférence dans la quinzaine qui suit l’expiration du délai fixé à l’art. 5.",
+      "text_sha256": "1b695677021a45b4aa7cd574867197d706a21f5f0e91d96d16f2593ecd02ee92",
+      "md_span": {
+        "start": 4885,
+        "end": 5025
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

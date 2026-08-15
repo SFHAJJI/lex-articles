@@ -1,0 +1,388 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/04/2025 : Règlement grand-ducal du 24 janvier 1991 portant fixation du tarif des huissiers de justice.",
+  "valid_from": "1996-07-01",
+  "valid_to": "2001-05-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1991-01-24-n2/versions/1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f/fr.xml",
+    "sha256": "8219e2396b559b6cb586a18a4a264828c6136ea974061e0cb0e3f5805c9f152b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/19960701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_1er/19910218",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Le tarif des actes ainsi que la durée et le tarif des vacations des huissiers de justice, agissant dans l'exercice des fonctions qui leur sont attribuées par l'article 13 de la loi du 4 décembre 1990 portant organisation du service des huissiers de justice, sont arrêtés comme suit:",
+      "text_sha256": "8b074673b5b33bf48b1eacf7dd039e29dcc8833d90c78f41f5cc93fb504ec92d",
+      "md_span": {
+        "start": 699,
+        "end": 981
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/12/04/n3/jo",
+          "text": "loi du 4 décembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_2/19960701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Tarif de base"
+      ],
+      "article_valid_from": "1996-07-01",
+      "text_md": "Les actes et exploits que l'huissier de justice peut accomplir dans l'exercice de ses fonctions et prévus à l'article 13 de la loi portant organisation du service des huissiers de justice sont tarifés:\n\n- par droit fixe, lorsqu'il s'agit d'une des fonctions prévues au premier alinéa de l'article 13 de la loi précitée, à l'exception du procès-verbal d'apposition de placards, de déguerpissement, d'enlèvement du mobilier et de saisie. Ce droit fixe est de 1.380,- francs;\n- par vacation pour les procès-verbaux de constat prévus au quatrième alinéa de l'article 13 de la loi précitée, ainsi que pour les procès-verbaux de déguerpissement, d'enlèvement du mobilier et de saisie, vacation qui est de 1.380,- francs par heure; toute heure commencée est due en entier;\n- par 1/5 du droit fixe pour la signification d'acte d'avoué à avoué.",
+      "text_sha256": "8709e7833ed500c57a8dd8b28c06e8114fc58f1a27fae035d313532db1123743",
+      "md_span": {
+        "start": 1034,
+        "end": 1869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_3/19910218",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Tarif de base"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Le droit fixe et la vacation comprennent la rédaction de l'original, la confection d'une copie, l'envoi de l'original, l'apposition du visa, la confection des copies des pièces jointes à l'acte et l'inscription au répertoire.",
+      "text_sha256": "f122dcf95a01c7bc47c04a22170578a5d60463cc79b4b3898484f41a97ad4be6",
+      "md_span": {
+        "start": 1904,
+        "end": 2129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_4/19910218",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Tarif de base"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Si l'huissier de justice doit remettre plusieurs copies d'un acte ou exploit, il lui est dû par copie supplémentaire 1/4 du droit fixe.",
+      "text_sha256": "c044fff530e50ee00fc9df73b6b6ea4cda8200cc695df923a1ddd52d16c7581f",
+      "md_span": {
+        "start": 2164,
+        "end": 2299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_5/19960701",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Tarif de base"
+      ],
+      "article_valid_from": "1996-07-01",
+      "text_md": "Le coût du procès-verbal d'apposition de placards prévue à l'article 617 du code de procédure civile est fixé à 2.875,- francs. Ce montant comprend la rédaction du procès-verbal, la rédaction et l'apposition des placards et les frais de voyage.",
+      "text_sha256": "72d24d5b13e6e47ceb14de1a4386851543f7abdc41b607a0d61b8119bcfcb5f0",
+      "md_span": {
+        "start": 2334,
+        "end": 2578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_6/19960701",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Frais de voyage"
+      ],
+      "article_valid_from": "1996-07-01",
+      "text_md": "Outre les droits prévus à l'article 2 du présent règlement, il est alloué à l'huissier de justice pour frais de voyage 21,- francs pour chaque kilomètre parcouru à l'aller et au retour.",
+      "text_sha256": "ca26cab1e2f09a856ab3970411354533f70bba4dab228dc5aceb0d16ebb80511",
+      "md_span": {
+        "start": 2633,
+        "end": 2818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_7/19960701",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Frais de voyage"
+      ],
+      "article_valid_from": "1996-07-01",
+      "text_md": "A l'intérieur de la ville de Luxembourg, les frais de voyage sont tarifés par un forfait de 115,- francs.\n\nA l'intérieur des villes d'Esch-sur-Alzette et de Diekirch, ce forfait est fixé à 58,- francs.",
+      "text_sha256": "8ec09c54fea4d3b51fd95af2cb547c63e0f0dedb1bb1bfd1e21c1e2d74344b5a",
+      "md_span": {
+        "start": 2853,
+        "end": 3054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_8/19910218",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Autres droits"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "L'huissier de justice peut liquider sur les recouvrements qu'il est chargé de faire, un droit de recette de 3% sur toute somme n'excédant pas 50.000,- francs, 2% sur l'excédent jusqu'à 150.000,- francs, 1% sur l'excédent de ce dernier chiffre jusqu'à 300.000,- francs et 0,5% sur tout ce qui excède ce dernier chiffre.\n\nCe droit est calculé sur le montant total de chaque créance récupérée et non sur les paiements partiels.",
+      "text_sha256": "00156f5c05a3717d267bb9d69918f955c97564faef96da2d6c741b1fa54f518c",
+      "md_span": {
+        "start": 3107,
+        "end": 3531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_9/19910218",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Autres droits"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "L'huissier de justice perçoit un droit d'acompte qui est de 1/10 du droit fixe par acompte versé. Si l'acompte est inférieur à 1.000,- francs, ce droit est réduit à 25,- francs; si l'acompte est inférieur à 300,- francs,ce droit n'est pas dû.",
+      "text_sha256": "2ae53d3211d0274593e56f7a060fe88db144a915ec878d3d01193300f3526ed8",
+      "md_span": {
+        "start": 3566,
+        "end": 3808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_10/19910218",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Autres droits"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "L'huissier de justice peut mettre en compte 1/10 du droit fixe pour chaque recherche d'adresse effectuée.",
+      "text_sha256": "3abb95ac2e2791a9c3290ad9ee3b7cc35ae2924c6b5255d20af69bbb912cc629",
+      "md_span": {
+        "start": 3845,
+        "end": 3950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_11/19910218",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Autres droits"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "La moitié du droit fixe est allouée à l'huissier de justice pour la rédaction d'une requête, l'inscription d'une hypothèque judiciaire et la transcription au bureau des hypothèques ainsi que pour la préparation d'une annonce à publier dans la presse.",
+      "text_sha256": "5df4a2a82f591884dbcce075e1b770a024914df930ee06fd625b9d73e7e1f9ba",
+      "md_span": {
+        "start": 3987,
+        "end": 4237
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_12/19910218",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Frais réellement exposés"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "L'huissier de justice est payé de ses débours par la production des quittances ou factures des transporteurs, ouvriers, crieurs, receveurs, imprimeurs, éditeurs ou sur la mention qui est faite au bas de l'acte. Les frais de port sont mis en compte suivant le tarif postal.",
+      "text_sha256": "882c1dca8baf3f6b8fa9ca7eb9a9f34779f2a3022d734e9de54b32125ae2d00b",
+      "md_span": {
+        "start": 4303,
+        "end": 4575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_13/19960701",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Frais réellement exposés"
+      ],
+      "article_valid_from": "1996-07-01",
+      "text_md": "Les frais de garde sont taxés pour chaque jour à raison de 12,- francs.",
+      "text_sha256": "9e6a73b9024497f0106511d3485d780722355a40999a8136843b0fb787e54758",
+      "md_span": {
+        "start": 4612,
+        "end": 4683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_14/19910218",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Ventes publiques"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Pour les ventes mobilières forcées ou volontaires, les huissiers de justice appliquent les tarifs prévus pour les notaires en ce qui concerne les honoraires et le droit de recette.",
+      "text_sha256": "d26242e3cbe037bd56513bc4bd53819cc84427415d23578b07efeabe28f8555f",
+      "md_span": {
+        "start": 4741,
+        "end": 4921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_15/19910218",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Majoration"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Les droits fixes et les vacations prévus au présent règlement sont doublés lorsque l'huissier de justice doit accomplir un samedi,un dimanche,un jour férié légal ou en dehors des heures légales un acte de sa fonction pour l'introduction ou le cours d'une procédure judiciaire ou administrative, ou pour la signification et l'exécution d'un titre exécutoire.",
+      "text_sha256": "1f52f050bf2cfca3ac0e3a0a7723591405bf423943730109982f7f81384beebc",
+      "md_span": {
+        "start": 4973,
+        "end": 5330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_16/19910218",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Adaptation périodique du tarif"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Les montants fixés au présent règlement sont périodiquement adaptés par voie de règlement grand-ducal.",
+      "text_sha256": "41a7e49fd46f695c6ef7d63d02c9226f30c4d49363f32a305b4daaa87608bdfa",
+      "md_span": {
+        "start": 5402,
+        "end": 5504
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_17/19910218",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Dispositions abrogatoires"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Sont abrogés:\n\n- règlement grand-ducal du 10 janvier 1970\n- règlement grand-ducal du 10 janvier 1970\n- règlement grand-ducal du 14 mars 1973\n- règlement grand-ducal du 10 avril 1975\n- règlement grand-ducal du 20 septembre 1982",
+      "text_sha256": "d1a9f5b69e512138ea9f5cbb701181bd9778c39735e38775434eb16df3e3f26b",
+      "md_span": {
+        "start": 5571,
+        "end": 5797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_18/19910218",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Entrée en vigueur"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le premier jour du deuxième mois qui suit sa publication au Mémorial.",
+      "text_sha256": "b24213b2bebaf6993d0ac724fb7e9bd2aed3b67ea718b7ebb7c1951b9fa21c6c",
+      "md_span": {
+        "start": 5856,
+        "end": 5975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1991-01-24-n2:1996-07-01--af074dcf845108c0e30a0b61fa827328c8892bb733ee2484c6e9890e1f452a0f#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/art_19/19910218",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Entrée en vigueur"
+      ],
+      "article_valid_from": "1991-02-18",
+      "text_md": "Notre Ministre de la Justice est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b0d81033158d40c3d05d9b128566a2ada8e9d2038d77850e668f3fc3babe31d5",
+      "md_span": {
+        "start": 6012,
+        "end": 6116
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

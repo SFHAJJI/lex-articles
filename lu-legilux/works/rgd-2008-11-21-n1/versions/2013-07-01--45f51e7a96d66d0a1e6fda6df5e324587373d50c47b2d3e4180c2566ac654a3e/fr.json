@@ -1,0 +1,80 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-11-21-n1:2013-07-01--45f51e7a96d66d0a1e6fda6df5e324587373d50c47b2d3e4180c2566ac654a3e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 21 novembre 2008 portant fixation de l'indemnité des membres de la Commission consultative des Droits de l'Homme du Grand-Duché de Luxembourg.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-11-21-n1/versions/2013-07-01--45f51e7a96d66d0a1e6fda6df5e324587373d50c47b2d3e4180c2566ac654a3e/fr.xml",
+    "sha256": "704987abf9901b5910780624a36534c2c61c4da1f91c40d7ccbba1933ea79e78",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-11-21-n1:2013-07-01--45f51e7a96d66d0a1e6fda6df5e324587373d50c47b2d3e4180c2566ac654a3e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/art_1er/20130701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "L'indemnité visée à l'article 11 de la loi du 21 novembre 2008 portant création d'une Commission consultative des Droits de l'Homme du Grand-Duché de Luxembourg est fixée à 18,75 euros.",
+      "text_sha256": "22ee6057958d329a19e648c61326453b4ac170cc4d7ae85b6450972fa40da8aa",
+      "md_span": {
+        "start": 776,
+        "end": 961
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/11/21/n1/jo",
+          "text": "loi du 21 novembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-11-21-n1:2013-07-01--45f51e7a96d66d0a1e6fda6df5e324587373d50c47b2d3e4180c2566ac654a3e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/art_2/20081214",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-12-14",
+      "text_md": "Les indemnités sont liquidées à la fin de chaque année sur présentation d'un état collectif indiquant pour les membres de la Commission les sommes dues à titre d'indemnité. Ledit état devra être certifié exact par le Président de la Commission.",
+      "text_sha256": "e9117db91ae99cad2facba78a9af758ab69a9d527edf8c651d5fb9ea5862f8a7",
+      "md_span": {
+        "start": 996,
+        "end": 1240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-11-21-n1:2013-07-01--45f51e7a96d66d0a1e6fda6df5e324587373d50c47b2d3e4180c2566ac654a3e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/art_3/20081214",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-12-14",
+      "text_md": "Notre Premier Ministre, Ministre d'Etat, et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b64aeda31a48fee8cdb27638ef1be00f5e0725567e23f6f0038e8517319ddec5",
+      "md_span": {
+        "start": 1275,
+        "end": 1465
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

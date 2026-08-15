@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r1137:2008-10-22--48b9742f1229f60833d798e2083e9a7723c4e455c64d383588be61e8e32afb23",
+  "language": "fr",
+  "title": "Regulation (EC) No 1137/2008",
+  "valid_from": "2008-10-22",
+  "valid_to": "2008-12-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r1137/versions/2008-10-22--48b9742f1229f60833d798e2083e9a7723c4e455c64d383588be61e8e32afb23/fr.xml",
+    "sha256": "03387a1208bccfcb840b9978eac0304e59fa982a607c0a2b869c51c91cbdb40e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R1137"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008r1137:2008-10-22--48b9742f1229f60833d798e2083e9a7723c4e455c64d383588be61e8e32afb23#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes actes dont la liste figure à l'annexe sont adaptés, conformément à ladite annexe, à la décision 1999/468/CE telle que modifiée par la décision 2006/512/CE.",
+      "text_sha256": "87264390bab3115ff1dd84456c2e35bd3fbc19e9715ddf6732e9dea54356ca9f",
+      "md_span": {
+        "start": 645,
+        "end": 821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r1137:2008-10-22--48b9742f1229f60833d798e2083e9a7723c4e455c64d383588be61e8e32afb23#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes références faites aux dispositions des actes dont la liste figure à l'annexe s'entendent comme faites à ces dispositions telles qu'adaptées par le présent règlement.",
+      "text_sha256": "7c1b0e1158da94d59e24adc4cd8608f8198cff46638bee770df716d644b05a97",
+      "md_span": {
+        "start": 854,
+        "end": 1034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r1137:2008-10-22--48b9742f1229f60833d798e2083e9a7723c4e455c64d383588be61e8e32afb23#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7720039f9cc590ca2cf0e65e106be507dd1006b57b075fd095ec38f7220a4937",
+      "md_span": {
+        "start": 1067,
+        "end": 1208
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

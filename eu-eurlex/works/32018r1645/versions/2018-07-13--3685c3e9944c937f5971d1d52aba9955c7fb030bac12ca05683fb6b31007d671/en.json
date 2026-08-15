@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1645:2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2018-07-13",
+  "valid_to": "2026-02-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1645/versions/2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671/en.xml",
+    "sha256": "d686ea23e5499f3fd80a73dee00a685446943566475482199ba28fb7cf17a596",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1645"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. An administrator located in a third country shall when applying for recognition pursuant to Article 32 of Regulation (EU) 2016/1011 provide the information listed in the Annex.\n\n2. Where the applicant has left out any of the required information, the application shall include an explanation as to why that information has not been provided.",
+      "text_sha256": "b926fc566bdbe74b29ded6bafb398608aa96ec7c8dfb18b4a703005bf22c6e40",
+      "md_span": {
+        "start": 719,
+        "end": 1074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The application for recognition shall be submitted in the official language or one of the official languages of the Member State of reference, unless otherwise indicated in the Annex. The documents referred to in point 8 of the Annex shall be submitted in a language customary in the sphere of international finance or in the official language or one of the official languages of the Member State of reference.\n\n2. The application for recognition shall be submitted by electronic means or, if accepted by the relevant competent authority, in paper form. Those electronic means shall ensure that completeness, integrity and confidentiality of the information are maintained during the transmission. The applicant shall ensure that each submitted document clearly identifies to which specific requirement of this Regulation it refers.",
+      "text_sha256": "5884079368c78c13a8ef6e1ae066af6c19c12c26a09d61c168a63c43cf78ff1a",
+      "md_span": {
+        "start": 1107,
+        "end": 1953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Any policies and procedures established to comply with requirements of Regulation (EU) 2016/1011 and described in an application shall contain or be accompanied by:\n\n| (a) | an indication of the identity of the person or persons responsible for the approval and maintenance of the policies and procedures; |\n| --- | --- |\n\n| (b) | a description of how compliance with the policies and procedures is monitored and the identity of the person or persons responsible for this monitoring; |\n| --- | --- |\n\n| (c) | a description of the measures to be taken in the event of a breach of the policies and procedures. |\n| --- | --- |\n\n2. Where an applicant is a company within a group, it may comply with paragraph 1 by submitting the policies and procedures of its group where they relate to the provision of benchmarks.",
+      "text_sha256": "7dd91548db34b23fb1f9f0f65d2a48b63da45309bba4cd9f65a619d1805c1d76",
+      "md_span": {
+        "start": 1986,
+        "end": 2811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13--3685c3e9944c937f5971d1d52aba9955c7fb030bac12ca05683fb6b31007d671#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 25 January 2019.",
+      "text_sha256": "b0aad0b5c71beb4e71daf37da297c58152981207e14cafecee439b8804af50cd",
+      "md_span": {
+        "start": 2844,
+        "end": 3033
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

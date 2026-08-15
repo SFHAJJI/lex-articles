@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638",
+  "language": "en",
+  "title": "Commission Regulation (EU) 2019/225 of 6 February 2019 amending Regulation (EC) No 748/200…",
+  "valid_from": "2019-02-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0225/versions/2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638/en.xml",
+    "sha256": "55198e9849041cc67db8f78d68a58f0b46af2425bca2edd14062b0ea6da6cb9a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0225"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Regulation (EC) No 748/2009 is replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "a4de4d6bc6f0bcefa2dd670df3ec9be53053658794fd09fc4d1f47080eda78c5",
+      "md_span": {
+        "start": 702,
+        "end": 818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the day following that on which Regulation (EC) No 748/2009 ceases to apply to and in the United Kingdom pursuant to Article 50(3) of the Treaty on European Union.\n\nHowever, this Regulation shall not apply if a withdrawal agreement concluded with the United Kingdom in accordance with Article 50(2) of the Treaty on European Union has entered into force by that date",
+      "text_sha256": "b99637816563f3ea3e5b16a2edb5e83bcad955fba50d318bac76f3e4d2f13dc0",
+      "md_span": {
+        "start": 851,
+        "end": 1380
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

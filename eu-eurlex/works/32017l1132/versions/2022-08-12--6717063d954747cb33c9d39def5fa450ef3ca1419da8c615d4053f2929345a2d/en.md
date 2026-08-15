@@ -1,0 +1,2867 @@
+---
+lex_id: 'eu-eurlex:32017l1132:2022-08-12--6717063d954747cb33c9d39def5fa450ef3ca1419da8c615d4053f2929345a2d'
+title: 'Directive (EU) 2017/1132'
+valid_from: '2022-08-12'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017L1132-20220812'
+source_sha256: 'd01e5391d8d484aa3f95f69327a7e07ffbd4c7c10c102d4cbd18d5191c58ace6'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+This Directive lays down measures concerning the following:
+
+— the coordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 54 of the Treaty, in respect of the formation of public limited liability companies and the maintenance and alteration of their capital, with a view to making such safeguards equivalent,
+
+— the coordination of safeguards which, for the protection of the interests of members and third parties, are required by Member States of companies within the meaning of the second paragraph of Article 54 of the Treaty, in respect of disclosure, the validity of obligations entered into by, and the nullity of, companies limited by shares or otherwise having limited liability, with a view to making such safeguards equivalent,
+
+— the rules on online formation of companies, on online registration of branches and on online filing of documents and information by companies and branches,
+
+— the disclosure requirements in respect of branches opened in a Member State by certain types of company governed by the law of another State,
+
+— mergers of public limited liability companies,
+
+— cross-border conversions, cross-border mergers and cross-border divisions of limited liability companies,
+
+— the division of public limited liability companies.
+
+<a id="art_2"></a>
+
+### Article 2 — Scope
+
+**1.** The coordination measures prescribed by this Section shall apply to the provisions laid down by law, regulation or administrative action in Member States relating to the types of company listed in Annex I.The name for any company of the types listed in Annex I shall comprise or be accompanied by a description which is distinct from the description required of other types of companies.
+
+**2.** Member States may decide not to apply this Section to investment companies with variable capital and to cooperatives incorporated as one of the types of company listed in Annex I. In so far as the laws of the Member States make use of this option, they shall require such companies to include the words ‘investment company with variable capital’, or ‘cooperative’ in all documents indicated in Article 26.
+
+The term ‘investment company with variable capital’, within the meaning of this Directive, means only those companies:
+
+— the exclusive object of which is to invest their funds in various stocks and shares, land or other assets with the sole aim of spreading investment risks and giving their shareholders the benefit of the results of the management of their assets,
+
+— which offer their own shares for subscription by the public, and
+
+— the statutes of which provide that, within the limits of a minimum and maximum capital, they may at any time issue, redeem or resell their shares.
+
+<a id="art_3"></a>
+
+### Article 3 — Compulsory information to be provided in the statutes or instruments of incorporation
+
+The statutes or the instrument of incorporation of a company shall always give at least the following information:
+
+(a) the type and name of the company;
+
+(b) the objects of the company;
+
+(c) where the company has no authorised capital, the amount of the subscribed capital;
+
+(d) where the company has an authorised capital, the amount thereof and also the amount of the capital subscribed at the time the company is incorporated or is authorised to commence business, and at the time of any change in the authorised capital, without prejudice to Article 14(e);
+
+(e) in so far as they are not legally determined, the rules governing the number of, and the procedure for, appointing members of the bodies responsible for representing the company vis-à-vis third parties, administration, management, supervision or control of the company and the allocation of powers among those bodies;
+
+(f) the duration of the company, except where this is indefinite.
+
+<a id="art_4"></a>
+
+### Article 4 — Compulsory information to be provided in the statutes or instruments of incorporation or separate documents
+
+The following information at least shall appear in either the statutes or the instrument of incorporation or a separate document published in accordance with the procedure laid down in the laws of each Member State in accordance with Article 16:
+
+(a) the registered office;
+
+(b) the nominal value of the shares subscribed and, at least once a year, the number thereof;
+
+(c) the number of shares subscribed without stating the nominal value, where such shares may be issued under national law;
+
+(d) the special conditions, if any, limiting the transfer of shares;
+
+(e) where there are several classes of shares, the information referred to in points (b), (c) and (d) for each class and the rights attaching to the shares of each class;
+
+(f) whether the shares are registered or bearer, where national law provides for both types, and any provisions relating to the conversion of such shares unless the procedure is laid down by law;
+
+(g) the amount of the subscribed capital paid up at the time the company is incorporated or is authorised to commence business;
+
+(h) the nominal value of the shares or, where there is no nominal value, the number of shares issued for a consideration other than in cash, together with the nature of the consideration and the name of the person providing the consideration;
+
+(i) the identity of the natural or legal persons or companies or firms by which or in whose name the statutes or the instrument of incorporation, or where the company was not formed at the same time, the drafts of those documents, have been signed;
+
+(j) the total amount, or at least an estimate, of all the costs payable by the company or chargeable to it by reason of its formation and, where appropriate, before the company is authorised to commence business;
+
+(k) any special advantage granted, at the time the company is formed or up to the time it receives authorisation to commence business, to anyone who has taken part in the formation of the company or in transactions leading to the grant of such authorisation.
+
+<a id="art_5"></a>
+
+### Article 5 — Authorisation for commencing business
+
+**1.** Where the laws of a Member State prescribe that a company may not commence business without authorisation, they shall also make provision for responsibility for liabilities incurred by or on behalf of the company during the period before such authorisation is granted or refused.
+
+**2.** Paragraph 1 shall not apply to liabilities under contracts concluded by the company conditionally upon its being granted authorisation to commence business.
+
+<a id="art_6"></a>
+
+### Article 6 — Multiple-member companies
+
+**1.** Where the laws of a Member State require a company to be formed by more than one member, the fact that all the shares are held by one person or that the number of members has fallen below the legal minimum after incorporation of the company shall not lead to the automatic dissolution of the company.
+
+**2.** If, in the cases referred to in paragraph 1, the laws of a Member State permit the company to be wound up by order of the court, the judge having jurisdiction shall be able to give the company sufficient time to regularise its position.
+
+**3.** Where a winding-up order as referred to in paragraph 2 is made, the company shall enter into liquidation.
+
+<a id="art_7"></a>
+
+### Article 7 — General provisions and joint and several liability
+
+**1.** The coordination measures prescribed by this Section shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of company listed in Annex II.
+
+**2.** If, before a company being formed has acquired legal personality, action has been carried out in its name and the company does not assume the obligations arising from such action, the persons who acted shall, without limit, be jointly and severally liable therefor, unless otherwise agreed.
+
+<a id="art_8"></a>
+
+### Article 8 — Effects of disclosure with respect to third parties
+
+Completion of the formalities of disclosure of the particulars concerning the persons who, as an organ of the company, are authorised to represent it, shall constitute a bar to any irregularity in their appointment being relied upon as against third parties, unless the company proves that such third parties had knowledge thereof.
+
+<a id="art_9"></a>
+
+### Article 9 — Acts of the organs of a company and its representation
+
+**1.** Acts done by the organs of the company shall be binding upon it even if those acts are not within the objects of the company, unless such acts exceed the powers that the law confers or allows to be conferred on those organs.
+
+However, Member States may provide that the company shall not be bound where such acts are outside the objects of the company, if it proves that the third party knew that the act was outside those objects or could not in view of the circumstances have been unaware of it. Disclosure of the statutes shall not of itself be sufficient proof thereof.
+
+**2.** The limits on the powers of the organs of the company, arising under the statutes or from a decision of the competent organs, may not be relied on as against third parties, even if they have been disclosed.
+
+**3.** If national law provides that authority to represent a company may, in derogation from the legal rules governing the subject, be conferred by the statutes on a single person or on several persons acting jointly, that law may provide that such a provision in the statutes may be relied on as against third parties on condition that it relates to the general power of representation; the question whether such a provision in the statutes can be relied on as against third parties shall be governed by Article 16.
+
+<a id="art_10"></a>
+
+### Article 10 — Drawing up and certification of the instrument of constitution and the company statutes in due legal form
+
+In all Member States whose laws do not provide for preventive administrative or judicial control, at the time of formation of a company, the instrument of constitution, the company statutes and any amendments to those documents shall be drawn up and certified in due legal form.
+
+<a id="art_11"></a>
+
+### Article 11 — Conditions for nullity of a company
+
+The laws of the Member States may not provide for the nullity of companies otherwise than in accordance with the following provisions:
+
+(a) nullity must be ordered by decision of a court of law;
+
+(b) nullity may be ordered only on the grounds: (i) that no instrument of constitution was executed or that the rules of preventive control or the requisite legal formalities were not complied with; (ii) that the objects of the company are unlawful or contrary to public policy; (iii) that the instrument of constitution or the statutes do not state the name of the company, the amount of the individual subscriptions of capital, the total amount of the capital subscribed or the objects of the company; (iv) of failure to comply with provisions of national law concerning the minimum amount of capital to be paid up; (v) of the incapacity of all the founder members; (vi) that, contrary to the national law governing the company, the number of founder members is less than two.
+
+Apart from the grounds of nullity referred to in the first paragraph, a company shall not be subject to any cause of non-existence, absolute nullity, relative nullity or declaration of nullity.
+
+<a id="art_12"></a>
+
+### Article 12 — Consequences of nullity
+
+**1.** The question whether a decision of nullity pronounced by a court of law may be relied on as against third parties shall be governed by Article 16. Where the national law entitles a third party to challenge the decision, he may do so only within six months of public notice of the decision of the court being given.
+
+**2.** Nullity shall entail the winding-up of the company, as may dissolution.
+
+**3.** Nullity shall not of itself affect the validity of any commitments entered into by or with the company, without prejudice to the consequences of the company's being wound up.
+
+**4.** The laws of each Member State may make provision for the consequences of nullity as between members of the company.
+
+**5.** Holders of shares in the capital of a company shall remain obliged to pay up the capital agreed to be subscribed by them but which has not been paid up, to the extent that commitments entered into with creditors so require.
+
+<a id="art_13"></a>
+
+### Article 13 — Scope
+
+The coordination measures prescribed by this Section and by Section 1A shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of companies listed in Annex II and, where specified, to the types of companies listed in Annexes I and IIA.
+
+<a id="art_13a"></a>
+
+### Article 13a — Definitions
+
+For the purposes of this Chapter:
+
+(1) ‘electronic identification means’ means an electronic identification means as defined in point (2) of Article 3 of Regulation (EU) No 910/2014 of the European Parliament and of the Council (1)
+
+(2) ‘electronic identification scheme’ means an electronic identification scheme as defined in point (4) of Article 3 of Regulation (EU) No 910/2014;
+
+(3) ‘electronic means’ means electronic equipment used for the processing, including digital compression, and the storage of data, and through which information is initially sent and received at its destination; that information being entirely transmitted, conveyed and received in a manner to be determined by Member States;
+
+(4) ‘formation’ means the whole process of establishing a company in accordance with national law, including the drawing up of the company’s instrument of constitution and all the necessary steps for the entry of the company in the register;
+
+(5) ‘registration of a branch’ means a process leading to disclosure of documents and information relating to a branch newly opened in a Member State;
+
+(6) ‘template’ means a model for the instrument of constitution of a company which is drawn up by Member States in compliance with national law and is used for the online formation of a company in accordance with Article 13g.
+
+<a id="art_13b"></a>
+
+### Article 13b — Recognition of identification means for the purposes of online procedures
+
+**1.** Member States shall ensure that the following electronic identification means can be used by applicants who are Union citizens in the online procedures referred to in this Chapter:(a) an electronic identification means issued under an electronic identification scheme approved by their own Member State;(b) an electronic identification means issued in another Member State and recognised for the purpose of cross-border authentication in accordance with Article 6 of Regulation (EU) No 910/2014.
+
+**2.** Member States may refuse to recognise electronic identification means where the assurance levels of those electronic identification means do not comply with the conditions set out in Article 6(1) of Regulation (EU) No 910/2014.
+
+**3.** All identification means recognised by Member States shall be made publicly available.
+
+**4.** Where justified by reason of the public interest in preventing identity misuse or alteration, Member States may, for the purposes of verifying an applicant’s identity, take measures which could require the physical presence of that applicant before any authority or person or body mandated under national law to deal with any aspect of the online procedures referred to in this Chapter, including the drawing up of the instrument of constitution of a company. Member States shall ensure that the physical presence of an applicant may only be required on a case-by-case basis where there are reasons to suspect identity falsification, and that any other steps of the procedure can be completed online.
+
+<a id="art_13c"></a>
+
+### Article 13c — General provisions on online procedures
+
+**1.** This Directive shall be without prejudice to national laws that, in accordance with Member States’ legal systems and legal traditions, designate any authority or person or body mandated under national law to deal with any aspect of online formation of companies, online registration of branches and online filing of documents and information.
+
+**2.** This Directive shall also be without prejudice to the procedures and requirements laid down by national law, including those relating to legal procedures for the drawing up of instruments of constitution, provided that online formation of a company, as referred to in Article 13g, and online registration of a branch, as referred to in Article 28a, as well as online filing of documents and information, as referred to in Articles 13j and 28b, is possible.
+
+**3.** The requirements under applicable national law concerning the authenticity, accuracy, reliability, trustworthiness and the appropriate legal form of documents or information that are submitted shall remain unaffected by this Directive, provided that online formation, as referred to in Article 13g, and online registration of a branch, as referred to in Article 28a, as well as online filing of documents and information, as referred to in Articles 13j and 28b, is possible.
+
+<a id="art_13d"></a>
+
+### Article 13d — Fees for online procedures
+
+**1.** Member States shall ensure that the rules on fees applicable to the online procedures referred to in this Chapter are transparent and are applied in a non-discriminatory manner.
+
+**2.** Any fees for online procedures charged by the registers referred to in Article 16 shall not exceed the recovery of the costs of providing such services.
+
+<a id="art_13e"></a>
+
+### Article 13e — Payments
+
+Where the completion of a procedure laid down in this Chapter requires a payment, Member States shall ensure that that payment can be made by means of a widely available online payment service that can be used for cross-border payments, that permits identification of the person that made the payment and is provided by a financial institution or payment service provider established in a Member State.
+
+<a id="art_13f"></a>
+
+### Article 13f — Information requirements
+
+Member States shall ensure that concise and user-friendly information, provided free of charge and at least in a language broadly understood by the largest possible number of cross-border users, is made available on registration portals or websites that are accessible by means of the Single Digital Gateway to assist in the formation of companies and the registration of branches. The information shall cover at least the following:
+
+(a) rules on the formation of companies, including online procedures referred to in Articles 13g and 13j, and requirements relating to the use of templates and to other formation documents, identification of persons, the use of languages and to applicable fees;
+
+(b) rules on the registration of branches, including online procedures referred to in Articles 28a and 28b, and requirements relating to registration documents, identification of persons and the use of languages;
+
+(c) an outline of the applicable rules on becoming a member of the administrative body, the management body or the supervisory body of a company, including of the rules on disqualification of directors, and on the authorities or bodies responsible for keeping information about disqualified directors;
+
+(d) an outline of the powers and responsibilities of the administrative body, the management body and the supervisory body of a company, including the authority to represent a company in dealings with third parties.
+
+<a id="art_13g"></a>
+
+### Article 13g — Online formation of companies
+
+**1.** Member States shall ensure that the online formation of companies may be carried out fully online without the necessity for the applicants to appear in person before any authority or person or body mandated under national law to deal with any aspect of the online formation of companies, including drawing up the instrument of constitution of a company, subject to the provisions laid down in Article 13b(4) and paragraph (8) of this Article.
+
+However, Member States may decide not to provide for online formation procedures for types of companies other than those listed in Annex IIA.
+
+**2.** Member States shall lay down detailed rules for the online formation of companies, including rules on the use of templates as referred to in Article 13h, and on the documents and information required for the formation of a company. As part of those rules, Member States shall ensure that such online formation may be carried out by submitting documents or information in electronic form, including electronic copies of the documents and information referred to in Article 16a(4).
+
+**3.** The rules referred to in paragraph 2 shall at least provide for the following:(a) the procedures to ensure that the applicants have the necessary legal capacity and have authority to represent the company;(b) the means to verify the identity of the applicants in accordance with Article 13b;(c) the requirements for the applicants to use trust services referred to in Regulation (EU) No 910/2014;(d) the procedures to verify the legality of the object of the company, insofar as such checks are provided for under national law;(e) the procedures to verify the legality of the name of the company, insofar as such checks are provided for under national law;(f) the procedures to verify the appointment of directors.
+
+**4.** The rules referred to in paragraph 2 may, in particular, also provide for the following:(a) the procedures to ensure the legality of the company instruments of constitution, including verifying the correct use of templates;(b) the consequences of the disqualification of a director by the competent authority in any Member State;(c) the role of a notary or any other person or body mandated under national law to deal with any aspect of the online formation of a company;(d) the exclusion of online formation in cases where the share capital of the company is paid by way of contributions in kind.
+
+**5.** Member States shall not make the online formation of a company conditional on obtaining a licence or authorisation before the company is registered, unless such a condition is indispensable for the proper oversight laid down in national law of certain activities.
+
+**6.** Member States shall ensure that where the payment of share capital is required as part of the procedure to form a company, such payment can be made online, in accordance with Article 13e, to a bank account of a bank operating in the Union. In addition, Member States shall ensure that proof of such payments can also be provided online.
+
+**7.** Member States shall ensure that the online formation is completed within five working days where a company is formed exclusively by natural persons who use the templates referred to in Article 13h, or within ten working days in other cases, from the later of the following:(a) the date of the completion of all formalities required for the online formation, including the receipt of all documents and information, which comply with national law, by an authority or a person or body mandated under national law to deal with any aspect of the formation of a company;(b) the date of the payment of a registration fee, the payment in cash for share capital, or the payment for the share capital by way of a contribution in kind, as provided for under national law.
+
+Where it is not possible to complete the procedure within the deadlines referred to in this paragraph, Member States shall ensure that the applicant is notified of the reasons for the delay.
+
+**8.** Where justified by reason of the public interest in ensuring compliance with the rules on legal capacity and on the authority of applicants to represent a company, any authority or person or body mandated under national law to deal with any aspect of the online formation of a company, including the drawing up of the instrument of constitution, may request the physical presence of the applicant. Member States shall ensure that, in such cases, the physical presence of an applicant may only be required on a case-by-case basis where there are reasons to suspect non-compliance with the rules referred to in point (a) of paragraph 3. Member States shall ensure that any other steps of the procedure can nonetheless be completed online.
+
+<a id="art_13h"></a>
+
+### Article 13h — Templates for online formation of companies
+
+**1.** Member States shall make templates available, for the types of companies listed in Annex IIA, on registration portals or websites that are accessible by means of the Single Digital Gateway. Member States may also make templates available online for the formation of other types of companies.
+
+**2.** Member States shall ensure that the templates, referred to in paragraph 1 of this Article, may be used by applicants as part of the online formation procedure referred to in Article 13g. Where those templates are used by applicants in compliance with the rules referred to in point (a) of Article 13g(4), the requirement to have the company instruments of constitution drawn up and certified in due legal form where preventive administrative or judicial control is not provided for, as laid down in Article 10, shall be deemed to have been fulfilled.
+
+This Directive shall not affect any requirement under national law to have the drawing up of instruments of constitution done in due legal form, as long as the online formation referred to in Article 13g is possible.
+
+**3.** Member States shall at least make the templates available in an official Union language broadly understood by the largest possible number of cross-border users. The availability of templates in languages other than the official language or languages of the Member State concerned shall be for information purposes only, unless that Member State decides that it is also possible to form a company with templates in such other languages.
+
+**4.** The content of the templates shall be governed by national law.
+
+<a id="art_13i"></a>
+
+### Article 13i — Disqualified directors
+
+**1.** Member States shall ensure that they have rules on disqualification of directors. Those rules shall include providing for the possibility to take into account any disqualification that is in force, or information relevant for disqualification, in another Member State. For the purpose of this Article, directors shall at least include the persons referred to in point (i) of Article 14(d).
+
+**2.** Member States may require that persons applying to become directors declare whether they are aware of any circumstances which could lead to a disqualification in the Member State concerned.
+
+Member States may refuse the appointment of a person as a director of a company where that person is currently disqualified from acting as a director in another Member State.
+
+**3.** Member States shall ensure that they are able to reply to a request from another Member State for information relevant for the disqualification of directors under the law of the Member State replying to the request.
+
+**4.** In order to reply to a request referred to in paragraph 3 of this Article, Member States shall at least make the necessary arrangements to ensure that they are able to provide without delay information on whether a given person is disqualified or is recorded in any of their registers that contain information relevant for disqualification of directors, by means of the system referred to in Article 22. Member States may also exchange further information, such as on the period and grounds of disqualification. Such exchange shall be governed by national law.
+
+**5.** The Commission shall lay down detailed arrangements and technical details for the exchange of the information referred to in paragraph 4 of this Article, by means of the implementing acts referred to in Article 24.
+
+**6.** Paragraphs 1 to 5 of this Article shall apply *mutatis mutandis* where a company files information concerning the appointment of a new director in the register referred to in Article 16.
+
+**7.** The personal data of persons referred to in this Article shall be processed in accordance with Regulation (EU) 2016/679 and national law, in order to enable the authority or the person or body mandated under national law to assess necessary information relating to the disqualification of a person as a director, with a view to preventing fraudulent or other abusive behaviour and ensuring that all persons interacting with companies or branches are protected.
+
+Member States shall ensure that the registers referred to in Article 16, authorities or persons or bodies mandated under national law to deal with any aspect of online procedures do not store personal data transmitted for the purposes of this Article any longer than is necessary, and in any event no longer than any personal data related to the formation of a company, the registration of a branch or a filing by a company or branch are stored.
+
+<a id="art_13j"></a>
+
+### Article 13j — Online filing of company documents and information
+
+**1.** Member States shall ensure that documents and information referred to in Article 14, including any modification thereof, can be filed online with the register within the time limit provided by the laws of the Member State where the company is registered. Member States shall ensure that such filing can be completed online in its entirety without the necessity for an applicant to appear in person before any authority or person or body mandated under national law to deal with the online filing, subject to the provisions laid down in Article 13b(4) and, where applicable, Article 13g(8).
+
+**2.** Member States shall ensure that the origin and integrity of the documents filed online may be verified electronically.
+
+**3.** Member States may require that certain companies or that all companies file certain or all of the documents and information referred to in paragraph 1 online.
+
+**4.** Article 13g (2) to (5) shall apply *mutatis mutandis* to online filing of documents and information.
+
+**5.** Member States may continue to allow forms of filing other than those referred to in paragraph 1, including by electronic or by paper means, by companies, by notaries or by any other persons or bodies mandated under national law to deal with such forms of filing.
+
+<a id="art_14"></a>
+
+### Article 14 — Documents and particulars to be disclosed by companies
+
+Member States shall take the measures required to ensure compulsory disclosure by companies of at least the following documents and particulars:
+
+(a) the instrument of constitution, and the statutes if they are contained in a separate instrument;
+
+(b) any amendments to the instruments referred to in point (a), including any extension of the duration of the company;
+
+(c) after every amendment of the instrument of constitution or of the statutes, the complete text of the instrument or statutes as amended to date;
+
+(d) the appointment, termination of office and particulars of the persons who either as a body constituted pursuant to law or as members of any such body: (i) are authorised to represent the company in dealings with third parties and in legal proceedings; it shall be apparent from the disclosure whether the persons authorised to represent the company may do so alone or are required to act jointly; (ii) take part in the administration, supervision or control of the company;
+
+(e) at least once a year, the amount of the capital subscribed, where the instrument of constitution or the statutes mention an authorised capital, unless any increase in the capital subscribed necessitates an amendment of the statutes;
+
+(f) the accounting documents for each financial year which are required to be published in accordance with Council Directives 86/635/EEC (2) and 91/674/EEC (3) and Directive 2013/34/EU of the European Parliament and of the Council (4);
+
+(g) any change of the registered office of the company;
+
+(h) the winding-up of the company;
+
+(i) any declaration of nullity of the company by the courts;
+
+(j) the appointment of liquidators, particulars concerning them, and their respective powers, unless such powers are expressly and exclusively derived from law or from the statutes of the company;
+
+(k) any termination of a liquidation and, in Member States where striking off the register entails legal consequences, the fact of any such striking off.
+
+<a id="art_15"></a>
+
+### Article 15 — Changes in documents and particulars
+
+**1.** Member States shall take the measures required to ensure that any changes in the documents and particulars referred to in Article 14 are entered in the competent register referred to in the first subparagraph of Article 16(1) and are disclosed, in accordance with Article 16(3) and (5), normally within 21 days of receipt of the complete documentation regarding those changes including, if applicable, the legality check as required under national law for entry in the file.
+
+**2.** Paragraph 1 shall not apply to the accounting documents referred to in Article 14(f).
+
+<a id="art_16"></a>
+
+### Article 16 — Disclosure in the register
+
+**1.** In each Member State, a file shall be opened in a central, commercial or companies register (‘the register’), for each of the companies registered therein.
+
+Member States shall ensure that companies have a European unique identifier (‘EUID’), referred to in point (8) of the Annex to Commission Implementing Regulation (EU) 2015/884CCC (5), allowing them to be unequivocally identified in communications between registers through the system of interconnection of registers established in accordance with Article 22 (‘the system of interconnection of registers’). That unique identifier shall comprise, at least, elements making it possible to identify the Member State of the register, the domestic register of origin and the company number in that register and, where appropriate, features to avoid identification errors.
+
+**2.** All documents and information that are required to be disclosed pursuant to Article 14 shall be kept in the file referred to in paragraph 1 of this Article, or entered directly in the register, and the subject matter of the entries in the register shall be recorded in the file.
+
+All documents and information referred to in Article 14, irrespective of the means by which they are filed, shall be kept in the file in the register or entered directly into it in electronic form. Member States shall ensure that all documents and information that are filed by paper means are converted by the register to electronic form as quickly as possible.
+
+Member States shall ensure that documents and information referred to in Article 14 that were filed by paper means before 31 December 2006 are converted into electronic form by the register upon receipt of an application for disclosure by electronic means.
+
+**3.** Member States shall ensure that the disclosure of the documents and information referred to in Article 14 is effected by making them publicly available in the register. In addition, Member States may also require that some or all of those documents and information are published in a national gazette designated for that purpose, or by equally effective means. Those means shall entail at least the use of a system whereby the documents or information published can be accessed in chronological order through a central electronic platform. In such cases, the register shall ensure that those documents and information are sent electronically by the register to the national gazette or to a central electronic platform.
+
+**4.** Member States shall take the necessary measures to avoid any discrepancy between what is in the register and in the file.
+
+Member States that require the publication of documents and information in a national gazette or on a central electronic platform shall take the necessary measures to avoid any discrepancy between what is disclosed in accordance with paragraph 3 and what is published in the gazette or on the platform.
+
+In cases of any discrepancies under this Article, the documents and information made available in the register shall prevail.
+
+**5.** The documents and information referred to in Article 14 may be relied on by the company as against third parties only after they have been disclosed in accordance with paragraph 3 of this Article, unless the company proves that the third parties had knowledge thereof.
+
+However, with regard to transactions taking place before the sixteenth day following the disclosure, the documents and information shall not be relied on as against third parties who prove that it was impossible for them to have had knowledge thereof.
+
+Third parties may always rely on any documents and information in respect of which the disclosure formalities have not yet been completed, save where non-disclosure causes such documents or information to have no effect.
+
+**6.** Member States shall ensure that all documents and information submitted as part of the formation of a company, the registration of a branch, or a filing by a company or a branch, is stored by the registers in a machine-readable and searchable format or as structured data;
+
+<a id="art_16a"></a>
+
+### Article 16a — Access to disclosed information
+
+**1.** Member States shall ensure that copies of all or any part of the documents and information, referred to in Article 14, may be obtained from the register on application, and that such an application may be submitted to the register by either paper or electronic means.
+
+However, Member States may decide that certain types or parts of the documents and information, which were filed by paper means on or before 31 December 2006, cannot be obtained by electronic means where a specified period has elapsed between the date of filing and the date of the application. Such a specified period shall not be less than 10 years.
+
+**2.** The price of obtaining a copy of all or any part of the documents and information referred to in Article 14, whether by paper or electronic means, shall not exceed the administrative costs thereof, including the costs of development and maintenance of registers.
+
+**3.** Electronic and paper copies supplied to an applicant shall be certified as ‘true copies’ unless the applicant dispenses with such certification.
+
+**4.** Member States shall ensure that electronic copies and extracts of the documents and information provided by the register have been authenticated by means of trust services referred to in Regulation (EU) No 910/2014, in order to guarantee that the electronic copies or extracts have been provided by the register and that their content is a true copy of the document held by the register or that it is consistent with the information contained therein.
+
+<a id="art_17"></a>
+
+### Article 17 — Up-to-date information on national law with regard to the rights of third parties
+
+**1.** Member States shall ensure that up-to-date information is made available explaining the provisions of national law pursuant to which third parties may rely on information and each type of document referred to in Article 14, in accordance with Article 16(3), (4) and (5).
+
+**2.** Member States shall provide the information required for publication on the European e-Justice portal (‘the portal’) in accordance with the portal's rules and technical requirements.
+
+**3.** The Commission shall publish that information on the portal in all the official languages of the Union.
+
+<a id="art_18"></a>
+
+### Article 18 — Availability of electronic copies of documents and particulars
+
+**1.** Electronic copies of the documents and information referred to in Article 14 shall also be made publicly available through the system of interconnection of registers. Member States may also make available documents and information referred to in Article 14 for types of companies other than those listed in Annex II.
+
+**2.** Member States shall ensure that the documents and particulars referred to in Article 14 are available through the system of interconnection of registers in a standard message format and accessible by electronic means. Member States shall also ensure that minimum standards for the security of data transmission are respected.
+
+**3.** The Commission shall provide a search service in all the official languages of the Union in respect of companies registered in the Member States, in order to make available through the portal:▼M2(a) the documents and information referred to in Article 14, including for types of companies other than those listed in Annex II, where such documents are made available by Member States;▼M3(aa) the documents and information referred to in Articles 86g, 86n, 86p, 123, 127a, 130, 160g, 160n and 160p;▼B(b) the explanatory labels, available in all the official languages of the Union, listing those particulars and the types of those documents.
+
+<a id="art_19"></a>
+
+### Article 19 — Fees chargeable for documents and information
+
+**1.** The fees charged for obtaining documents and information referred to in Article 14 through the system of interconnection of registers shall not exceed the administrative costs thereof, including the costs of development and maintenance of registers.
+
+**2.** Member States shall ensure that at least the following information and documents are available free of charge through the system of interconnection of registers:(a) the name or names and legal form of the company;(b) the registered office of the company and the Member State where it is registered;(c) the registration number of the company and its EUID;(d) details of the company website, where such details are recorded in the national register;(e) the status of the company, such as when it is closed, struck off the register, wound up, dissolved, economically active or inactive as defined in national law and where recorded in the national registers;(f) the object of the company, where it is recorded in the national register;(g) the particulars of any persons who either as a body or as members of any such body are currently authorised by the company to represent it in dealing with third parties and in legal proceedings and information as to whether the persons authorised to represent the company may do so alone or are required to act jointly;(h) information on any branches opened by the company in another Member State including the name, registration number, EUID and the Member State where the branch is registered.
+
+**3.** The exchange of any information through the system of interconnection of registers shall be free of charge for the registers.
+
+**4.** Member States may decide that the information referred to in points (d) and (f) is to be made available free of charge only for the authorities of other Member States.
+
+<a id="art_20"></a>
+
+### Article 20 — Information on the opening and termination of winding-up or insolvency proceedings and on striking-off of a company from the register
+
+**1.** The register of a company shall, through the system of interconnection of registers, make available, without delay, the information on the opening and termination of any winding-up or insolvency proceedings of the company and on the striking-off of the company from the register, if this entails legal consequences in the Member State of the register of the company.
+
+**2.** The register of the branch shall, through the system of interconnection of registers, ensure receipt, without delay, of the information referred to in paragraph 1.
+
+<a id="art_21"></a>
+
+### Article 21 — Language of disclosure and translation of documents and particulars to be disclosed
+
+**1.** Documents and particulars to be disclosed pursuant to Article 14 shall be drawn up and filed in one of the languages permitted by the language rules applicable in the Member State in which the file referred to in Article 16(1) is opened.
+
+**2.** In addition to the compulsory disclosure referred to in Article 16, Member States shall allow translations of documents and particulars referred to in Article 14 to be disclosed voluntarily in accordance with Article 16 in any official language(s) of the Union.
+
+Member States may prescribe that the translation of such documents and particulars be certified.
+
+Member States shall take the necessary measures to facilitate access by third parties to the translations voluntarily disclosed.
+
+**3.** In addition to the compulsory disclosure referred to in Article 16, and to the voluntary disclosure provided for under paragraph 2 of this Article, Member States may allow the documents and particulars concerned to be disclosed, in accordance with Article 16, in any other language(s).
+
+Member States may prescribe that the translation of such documents and particulars be certified.
+
+**4.** In cases of discrepancy between the documents and particulars disclosed in the official languages of the register and the translation voluntarily disclosed, the latter may not be relied upon as against third parties. Third parties may nevertheless rely on the translations voluntarily disclosed, unless the company proves that the third parties had knowledge of the version which was the subject of the compulsory disclosure.
+
+<a id="art_22"></a>
+
+### Article 22 — System of interconnection of registers
+
+**1.** A European central platform (‘the platform’) shall be established.
+
+**2.** The system of interconnection of registers shall be composed of:— the registers of Member States,— the platform,— the portal serving as the European electronic access point.
+
+**3.** Member States shall ensure the interoperability of their registers within the system of interconnection of registers via the platform.
+
+**4.** Member States may establish optional access points to the system of interconnection of registers. They shall notify the Commission without undue delay of the establishment of such access points and of any significant changes to their operation.
+
+The Commission may also establish optional access points to the system of interconnection of registers. Such access points shall consist of systems developed and operated by the Commission or other Union institutions, bodies, offices or agencies in order to perform their administrative functions or to comply with provisions of Union law. The Commission shall notify the Member States without undue delay of the establishment of such access points and of any significant changes to their operation.
+
+**5.** Access to information from the system of interconnection of registers shall be provided through the portal and through the optional access points established by the Member States and by the Commission.
+
+**6.** The establishment of the system of interconnection of registers shall not affect existing bilateral agreements concluded between Member States concerning the exchange of information on companies.
+
+<a id="art_23"></a>
+
+### Article 23 — Development and operation of the platform
+
+**1.** The Commission shall decide to develop and/or operate the platform either by its own means or through a third party.
+
+If the Commission decides to develop and/or operate the platform through a third party, the choice of the third party and the enforcement by the Commission of the agreement concluded with that third party shall be done in accordance with Regulation (EU, Euratom) No 966/2012.
+
+**2.** If the Commission decides to develop the platform through a third party, it shall, by means of implementing acts, establish the technical specifications for the purpose of the public procurement procedure and the duration of the agreement to be concluded with that third party.
+
+**3.** If the Commission decides to operate the platform through a third party, it shall, by means of implementing acts, adopt detailed rules on the operational management of the platform.
+
+The operational management of the platform shall include, in particular:
+
+— the supervision of the functioning of the platform,
+
+— the security and protection of data distributed and exchanged using the platform,
+
+— the coordination of relations between Member States' registers and the third party.
+
+The supervision of the functioning of the platform shall be carried out by the Commission.
+
+**4.** The implementing acts referred to in paragraphs 2 and 3 shall be adopted in accordance with the examination procedure referred to in Article 164(2).
+
+<a id="art_24"></a>
+
+### Article 24 — Implementing acts
+
+By means of implementing acts, the Commission shall adopt the following:
+
+(a) the technical specification defining the methods of communication by electronic means for the purpose of the system of interconnection of registers;
+
+(b) the technical specification of the communication protocols;
+
+(c) the technical measures ensuring the minimum information technology security standards for communication and distribution of information within the system of interconnection of registers;
+
+(d) the technical specification defining the methods of exchange of information between the register of the company and the register of the branch as referred to in Articles 20, 28a, 28c, 30a and 34;
+
+(e) the detailed list of data to be transmitted for the purpose of exchanging information between registers, as referred to in Articles 20, 28a, 28c, 30a and 34;
+
+(ea) the detailed list of data to be transmitted for the purpose of exchanging information between registers and for the purposes of disclosure, as referred to in Articles 86g, 86n, 86p, 123, 127a, 130, 160g, 160n and 160p;
+
+(f) the technical specification defining the structure of the standard message format for the purpose of the exchange of information between the registers, the platform and the portal;
+
+(g) the technical specification defining the set of the data necessary for the platform to perform its functions as well as the method of storage, use and protection of such data;
+
+(h) the technical specification defining the structure and use of the unique identifier for communication between registers;
+
+(i) the specification defining the technical methods of operation of the system of interconnection of registers as regards the distribution and exchange of information, and the specification defining the information technology services, provided by the platform, ensuring the delivery of messages in the relevant language version;
+
+(j) the harmonised criteria for the search service provided by the portal;
+
+(k) the payment modalities, taking into account available payment facilities such as online payment;
+
+(l) the details of the explanatory labels listing the particulars and the types of documents referred to in Article 14;
+
+(m) the technical conditions of availability of services provided by the system of interconnection of registers;
+
+(n) the procedure and technical requirements for the connection of the optional access points to the platform as referred to in Article 22;
+
+(o) the detailed arrangements for and technical details of the exchange between registers of the information referred to in Article 13i.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 164(2).
+
+The Commission shall adopt the implementing acts pursuant to points (d), (e), (n) and (o) by 1 February 2021. ►M3 ►C1 The Commission shall adopt the implementing acts referred to in point (ea) by 2 July 2021.** ◄ **** ◄ **
+
+<a id="art_25"></a>
+
+### Article 25 — Financing
+
+**1.** The establishment and future development of the platform and the adjustments to the portal resulting from this Directive shall be financed from the general budget of the Union.
+
+**2.** The maintenance and functioning of the platform shall be financed from the general budget of the Union and may be co-financed by fees for access to the system of interconnection of registers charged to its individual users. Nothing in this paragraph shall affect fees at the national level.
+
+**3.** By means of delegated acts and in accordance with Article 163, the Commission may adopt rules on whether to co-finance the platform by charging fees, and, in that case, the amount of the fees charged to individual users in accordance with paragraph 2 of this Article.
+
+**4.** Any fees imposed in accordance with paragraph 2 of this Article shall be without prejudice to the fees, if any, charged by Member States for obtaining documents and particulars as referred to in Article 19(1).
+
+**5.** Any fees imposed in accordance with paragraph 2 of this Article shall not be charged for obtaining the particulars referred to in Article 19(2)(a), (b) and (c).
+
+**6.** Each Member State shall bear the costs of adjusting its domestic registers, as well as their maintenance and functioning costs resulting from this Directive.
+
+<a id="art_26"></a>
+
+### Article 26 — Information on letters and order forms
+
+Member States shall prescribe that letters and order forms, whether they are in paper form or use any other medium, are to state the following particulars:
+
+(a) the information necessary in order to identify the register in which the file referred to in Article 16 is kept, together with the number of the company in that register;
+
+(b) the legal form of the company, the location of its registered office and, where appropriate, the fact that the company is being wound up.
+
+Where, in those documents, mention is made of the capital of the company, the reference shall be to the capital subscribed and paid up.
+
+Member States shall prescribe that company websites are to contain at least the particulars referred to in the first paragraph and, if applicable, a reference to the capital subscribed and paid up.
+
+<a id="art_27"></a>
+
+### Article 27 — Persons carrying out disclosure formalities
+
+Each Member State shall determine by which persons the disclosure formalities are to be carried out.
+
+<a id="art_28"></a>
+
+### Article 28 — Penalties
+
+Member States shall provide for appropriate penalties at least in the case of:
+
+(a) failure to disclose accounting documents as required by Article 14(f);
+
+(b) omission from commercial documents or from any company website of the compulsory particulars provided for in Article 26.
+
+<a id="art_28a"></a>
+
+### Article 28a — Online registration of branches
+
+**1.** Member States shall ensure that the registration in a Member State of a branch of a company that is governed by the law of another Member State may be fully carried out online without the necessity for the applicants to appear in person before any authority or any person or body mandated under national law to deal with any aspect of the application for registration of branches, subject to Article 13b(4) and *mutatis mutandis* to Article 13g(8).
+
+**2.** Member States shall lay down detailed rules for the online registration of branches, including rules on the documents and information required to be submitted to a competent authority. As part of those rules, Member States shall ensure that online registration may be carried out by submitting information or documents in electronic form, including electronic copies of the documents and information referred to in Article 16a(4), or by making use of the information or documents previously submitted to a register.
+
+**3.** The rules referred to in paragraph 2 shall at least provide for the following:(a) the procedure to ensure that the applicants have the necessary legal capacity and that they have authority to represent the company;(b) the means for verifying the identity of the person or persons registering the branch or their representatives;(c) the requirements for the applicants to use the trust services referred to in Regulation (EU) No 910/2014.
+
+**4.** The rules referred to in paragraph 2 may also provide for procedures to do the following:(a) verify the legality of the object of the branch;(b) verify the legality of the name of the branch;(c) verify the legality of the documents and information submitted for the registration of the branch;(d) provide for the role of a notary or any other person or body involved in the process of registration of the branch under the applicable national provisions.
+
+**5.** Member States may verify the information about the company by means of the system of interconnection of registers when registering a branch of a company established in another Member State.
+
+Member States shall not make the online registration of a branch conditional on obtaining any licence or authorisation before the branch is registered, unless such a condition is indispensable for the proper oversight laid down in national law of certain activities.
+
+**6.** Member States shall ensure that the online registration of a branch is completed within 10 working days of the completion of all formalities, including the receipt of all the necessary documents and information which comply with national law by an authority or a person or body mandated under national law to deal with any aspect of the registration of a branch.
+
+Where it is not possible to register a branch within the deadlines referred to in this paragraph, Member States shall ensure that the applicant is notified of the reasons for the delay.
+
+**7.** Following the registration of a branch of a company established under the laws of another Member State, the register of the Member State where that branch is registered shall notify the Member State where the company is registered that the branch has been registered by means of the system of interconnection of registers. The Member State where the company is registered shall acknowledge receipt of such notification and shall record the information in their register without delay.
+
+<a id="art_28b"></a>
+
+### Article 28b — Online filing of documents and information for branches
+
+**1.** Member States shall ensure that documents and information referred to in Article 30 or any modification thereof may be filed online within the period provided by the laws of the Member State where the branch is established. Member States shall ensure that such filing may be completed online in its entirety without the necessity for the applicants to appear in person before any authority or person or body mandated under national law to deal with the online filing, subject to the provisions laid down in Article 13b(4) and *mutatis mutandis* in Article 13g(8).
+
+**2.** Article 28a (2) to (5) shall apply *mutatis mutandis* to online filing for branches.
+
+**3.** Member States may require that certain or all documents and information referred to in paragraph 1 are only filed online.
+
+<a id="art_28c"></a>
+
+### Article 28c — Closure of branches
+
+Member States shall ensure that, upon receipt of the documents and information referred to in point (h) of Article 30(1), the register of a Member State where a branch of a company is registered informs, by means of the system of interconnection of registers, the register of the Member State where the company is registered that its branch has been closed and struck off the register. The register of the Member State of the company shall acknowledge receipt of such notification also by means of that system and shall record the information without delay.
+
+<a id="art_29"></a>
+
+### Article 29 — Disclosure of documents and particulars relating to a branch
+
+**1.** Documents and particulars relating to a branch opened in a Member State by a company of a type listed in Annex II, which is governed by the law of another Member State, shall be disclosed pursuant to the law of the Member State of the branch, in accordance with Article 16.
+
+**2.** Where disclosure requirements in respect of the branch differ from those in respect of the company, the branch's disclosure requirements shall take precedence with regard to transactions carried out with the branch.
+
+**3.** The documents and particulars referred to in Article 30(1) shall be made publicly available through the system of interconnection of registers. Article 18 and Article 19(1) shall apply *mutatis mutandis*.
+
+**4.** Member States shall ensure that branches have a unique identifier allowing them to be unequivocally identified in communications between registers through the system of interconnection of registers. That unique identifier shall comprise, at least, elements making it possible to identify the Member State of the register, the domestic register of origin and the branch number in that register, and, where appropriate, features to avoid identification errors.
+
+<a id="art_30"></a>
+
+### Article 30 — Documents and particulars to be disclosed
+
+**1.** The compulsory disclosure provided for in Article 29 shall cover the following documents and particulars only:(a) the address of the branch;(b) the activities of the branch;(c) the register in which the company file referred to in Article 16 is kept, together with the registration number in that register;(d) the name and legal form of the company and the name of the branch, if that is different from the name of the company;(e) the appointment, termination of office and particulars of the persons who are authorised to represent the company in dealings with third parties and in legal proceedings:— as a company organ constituted pursuant to law or as members of any such organ, in accordance with the disclosure by the company as provided for in Article 14(d),— as permanent representatives of the company for the activities of the branch, with an indication of the extent of their powers;(f) — the winding-up of the company, the appointment of liquidators, particulars concerning them and their powers and the termination of the liquidation in accordance with disclosure by the company as provided for in Article 14(h), (j) and (k),— insolvency proceedings, arrangements, compositions, or any analogous proceedings to which the company is subject;(g) the accounting documents in accordance with Article 31;(h) the closure of the branch.
+
+**2.** The Member State in which the branch has been opened may provide for the disclosure, as referred to in Article 29, of(a) the signature of the persons referred to in points (e) and (f) of paragraph 1 of this Article;(b) the instruments of constitution and the memorandum and articles of association if they are contained in a separate instrument, in accordance with points (a), (b) and (c) of Article 14, together with amendments to those documents;(c) an attestation from the register referred to in point (c) of paragraph 1 of this Article relating to the existence of the company;(d) an indication of the securities on the company's property situated in that Member State, provided such disclosure relates to the validity of those securities.
+
+<a id="art_30a"></a>
+
+### Article 30a — Changes to documents and information of the company
+
+The Member State where a company is registered shall notify, by means of the system of interconnection of registers, without delay, the Member State where a branch of the company is registered, in the event that a change has been filed with regard to any of the following:
+
+(a) the company’s name;
+
+(b) the company’s registered office;
+
+(c) the company’s registration number in the register;
+
+(d) the company’s legal form;
+
+(e) the documents and information referred to in points (d) and (f) of Article 14.
+
+Upon receipt of the notification referred to in the first paragraph of this Article, the register in which the branch is registered shall, by means of the system of interconnection of registers, acknowledge receipt of such notification and shall ensure that the documents and information referred to in Article 30(1) are updated without delay.
+
+<a id="art_31"></a>
+
+### Article 31 — Limits on the compulsory disclosure of accounting documents
+
+The compulsory disclosure provided for by Article 30(1)(g) shall be limited to the accounting documents of the company as drawn up, audited and disclosed pursuant to the law of the Member State by which the company is governed in accordance with Directive 2006/43/EC of the European Parliament and of the Council (6) and Directive 2013/34/EU.
+
+Member States may provide that the mandatory disclosure of accounting documents referred to in point (g) of Article 30(1) may be considered fulfilled by the disclosure in the register of the Member State in which the company is registered in accordance with point (f) of Article 14.
+
+<a id="art_32"></a>
+
+### Article 32 — Language of disclosure and translation of documents to be disclosed
+
+The Member State in which the branch has been opened may stipulate that the documents referred to in Article 30(2)(b) and Article 31 are to be published in another official language of the Union and that the translations of such documents are to be certified.
+
+<a id="art_33"></a>
+
+### Article 33 — Disclosure in cases of multiple branches in a Member State
+
+Where a company has opened more than one branch in a Member State, the disclosure referred to in Article 30(2)(b) and Article 31 may be made in the register of the branch of the company's choice.
+
+In the case referred to in the first paragraph, compulsory disclosure by the other branches shall cover the particulars of the branch register of which disclosure was made, together with the number of that branch in that register.
+
+<a id="art_34"></a>
+
+### Article 34 — Information on the opening and termination of winding-up or insolvency proceedings and on striking-off of the company from the register
+
+**1.** Article 20 shall apply to the register of the company and to the register of the branch respectively.
+
+**2.** Member States shall determine the procedure to be followed upon receipt of the information referred to in Article 20(1) and (2). Such procedure shall ensure that, where a company has been dissolved or otherwise struck off the register, its branches are likewise struck off the register without undue delay.
+
+**3.** The second sentence of paragraph 2 shall not apply to branches of companies that have been struck off the register as a consequence of any change in the legal form of the company concerned, a merger or division, or a cross-border transfer of its registered office.
+
+<a id="art_35"></a>
+
+### Article 35 — Information on letters and order forms
+
+Member States shall prescribe that letters and order forms used by a branch shall state, in addition to the information prescribed by Article 26, the register in which the file in respect of the branch is kept together with the number of the branch in that register.
+
+<a id="art_36"></a>
+
+### Article 36 — Disclosure of documents and particulars relating to a branch
+
+**1.** Documents and particulars concerning a branch opened in a Member State by a company which is not governed by the law of a Member State but which is of a legal form comparable with the types of company listed in Annex II, shall be disclosed in accordance with the law of the Member State of the branch as laid down in Article 16.
+
+**2.** Article 29(2) shall apply.
+
+<a id="art_37"></a>
+
+### Article 37 — Compulsory documents and particulars to be disclosed
+
+The compulsory disclosure provided for in Article 36 shall cover at least the following documents and particulars:
+
+(a) the address of the branch;
+
+(b) the activities of the branch;
+
+(c) the law of the State by which the company is governed;
+
+(d) where that law so provides, the register in which the company is entered and the registration number of the company in that register;
+
+(e) the instruments of constitution, and memorandum and articles of association if they are contained in a separate instrument, with all amendments to those documents;
+
+(f) the legal form of the company, its principal place of business and its object and, at least annually, the amount of subscribed capital if those particulars are not given in the documents referred to in point (e);
+
+(g) the name of the company and the name of the branch if that is different from the name of the company;
+
+(h) the appointment, termination of office and particulars of the persons who are authorised to represent the company in dealings with third parties and in legal proceedings: — as a company organ constituted pursuant to law or as members of any such organ, — as permanent representatives of the company for the activities of the branch. The extent of the powers of the persons authorised to represent the company shall be stated, as well as whether those persons may represent the company alone or are required to act jointly;
+
+(i) — the winding-up of the company and the appointment of liquidators, particulars concerning them and their powers and the termination of the liquidation, — insolvency proceedings, arrangements, compositions or any analogous proceedings to which the company is subject;
+
+(j) the accounting documents in accordance with Article 38;
+
+(k) the closure of the branch.
+
+<a id="art_38"></a>
+
+### Article 38 — Limits of compulsory disclosure of accounting documents
+
+**1.** The compulsory disclosure provided for by Article 37(j) shall apply to the accounting documents of the company as drawn up, audited and disclosed pursuant to the law of the State which governs the company. Where they are not drawn up in accordance with or in a manner equivalent to Directive 2013/34/EU, Member States may require that accounting documents relating to the activities of the branch be drawn up and disclosed.
+
+**2.** Articles 32 and 33 shall apply.
+
+<a id="art_39"></a>
+
+### Article 39 — Information on letters and order forms
+
+Member States shall prescribe that letters and order forms used by a branch state the register in which the file in respect of the branch is kept together with the number of the branch in that register. Where the law of the State by which the company is governed requires entry in a register, the register in which the company is entered, and the registration number of the company in that register shall also be stated.
+
+<a id="art_40"></a>
+
+### Article 40 — Penalties
+
+Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in Articles 29, 30, 31, 36, 37 and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39.
+
+<a id="art_41"></a>
+
+### Article 41 — Persons carrying out disclosure formalities
+
+Each Member State shall determine who shall carry out the disclosure formalities provided for in Sections 2 and 3.
+
+<a id="art_42"></a>
+
+### Article 42 — Exemptions to provisions on disclosure of accounting documents for branches
+
+**1.** Articles 31 and 38 shall not apply to branches opened by credit institutions and financial institutions covered by Council Directive 89/117/EEC (7).
+
+**2.** Pending subsequent coordination, the Member States need not apply Articles 31 and 38 to branches opened by insurance companies.
+
+<a id="art_44"></a>
+
+### Article 44 — General provisions
+
+**1.** The coordination measures prescribed by this Chapter shall apply to the provisions laid down by law, regulation or administrative action in Member States relating to the types of company listed in Annex I.
+
+**2.** The Member States may decide not to apply the provisions of this Chapter to investment companies with variable capital and to cooperatives incorporated as one of the types of company listed in Annex I. In so far as the laws of the Member States make use of this option, they shall require such companies to include the words ‘investment company with variable capital’, or ‘cooperative’ in all documents indicated in Article 26.
+
+<a id="art_45"></a>
+
+### Article 45 — Minimum capital
+
+**1.** The laws of the Member States shall require that, in order for a company to be incorporated or obtain authorisation to commence business, a minimum capital shall be subscribed the amount of which shall be not less than EUR 25 000 .
+
+**2.** Every five years the European Parliament and the Council, acting on a proposal from the Commission in accordance with Article 50(1) and Article 50(2)(g) of the Treaty, shall examine and, if need be, revise the amount expressed in paragraph 1 in euro in the light of economic and monetary trends in the Union and of the tendency to allow only large and medium-sized undertakings to opt for the types of company listed in Annex I.
+
+<a id="art_46"></a>
+
+### Article 46 — Assets
+
+Subscribed capital may be formed only of assets capable of economic assessment. However, an undertaking to perform work or supply services may not form part of those assets.
+
+<a id="art_47"></a>
+
+### Article 47 — Issuing price of shares
+
+Shares may not be issued at a price lower than their nominal value, or, where there is no nominal value, their accountable par.
+
+However, Member States may allow those who undertake to place shares in the exercise of their profession to pay less than the total price of the shares for which they subscribe in the course of this transaction.
+
+<a id="art_48"></a>
+
+### Article 48 — Paying up of shares issued for a consideration
+
+Shares issued for consideration shall be paid up at the time the company is incorporated or is authorised to commence business at not less than 25 % of their nominal value or, in the absence of a nominal value, their accountable par.
+
+However, where shares are issued for consideration other than in cash at the time the company is incorporated or is authorised to commence business, the consideration shall be transferred in full within five years of that time.
+
+<a id="art_49"></a>
+
+### Article 49 — Experts' report on consideration other than in cash
+
+**1.** A report on any consideration other than in cash shall be drawn up before the company is incorporated or is authorised to commence business, by one or more independent experts appointed or approved by an administrative or judicial authority. Such experts may be natural persons as well as legal persons and companies or firms under the laws of each Member State.
+
+**2.** The experts' report referred to in paragraph 1 shall contain at least a description of each of the assets comprising the consideration as well as of the methods of valuation used and shall state whether the values arrived at by the application of those methods correspond at least to the number and nominal value or, where there is no nominal value, to the accountable par and, where appropriate, to the premium on the shares to be issued for them.
+
+**3.** The experts' report shall be published in the manner laid down by the laws of each Member State, in accordance with Article 16.
+
+**4.** Member States may decide not to apply this Article where 90 % of the nominal value, or where there is no nominal value, of the accountable par, of all the shares is issued to one or more companies for a consideration other than in cash, and where the following requirements are met:(a) with regard to the company in receipt of such consideration, the persons referred to in point (i) of Article 4 have agreed to dispense with the experts' report;(b) such agreement has been published as provided for in paragraph 3;(c) the companies furnishing such consideration have reserves which may not be distributed under the law or the statutes and which are at least equal to the nominal value or, where there is no nominal value, the accountable par of the shares issued for consideration other than in cash;(d) the companies furnishing such consideration guarantee, up to an amount equal to that indicated in point (c), the debts of the recipient company arising between the time the shares are issued for a consideration other than in cash and one year after the publication of that company's annual accounts for the financial year during which such consideration was furnished. Any transfer of such shares shall be prohibited during that period;(e) the guarantee referred to in point (d) has been published as provided for in paragraph 3; and(f) the companies furnishing such consideration shall place a sum equal to that indicated in point (c) into a reserve which may not be distributed until three years after publication of the annual accounts of the recipient company for the financial year during which such consideration was furnished or, if necessary, until such later date as all claims relating to the guarantee referred to in point (d) which are submitted during this period have been settled.
+
+**5.** Member States may decide not to apply this Article to the formation of a new company by way of merger or division where a report by one or more independent experts on the draft terms of merger or division is drawn up.
+
+Where Member States decide to apply this Article in the cases referred to in the first subparagraph, they may provide that the report drawn up under paragraph 1 of this Article and the report by one or more independent experts on the draft terms of merger or division may be drawn up by the same expert or experts.
+
+<a id="art_50"></a>
+
+### Article 50 — Derogation from the requirement for an experts' report
+
+**1.** Member States may decide not to apply Article 49(1), (2) and (3) where, upon a decision of the administrative or management body, transferable securities as defined in point 44 of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council (8) or money-market instruments as defined in point 17 of Article 4(1) of that Directive are contributed as consideration other than in cash, and those securities or money-market instruments are valued at the weighted average price at which they have been traded on one or more regulated markets as defined in point 21 of Article 4(1) of that Directive during a sufficient period, to be determined by national law, preceding the effective date of the contribution of the respective consideration other than in cash.
+
+However, where that price has been affected by exceptional circumstances that would significantly change the value of the asset at the effective date of its contribution, including situations where the market for such transferable securities or money-market instruments has become illiquid, a revaluation shall be carried out on the initiative and under the responsibility of the administrative or management body.
+
+For the purposes of such revaluation, Article 49(1), (2) and (3) shall apply.
+
+**2.** Member States may decide not to apply Article 49(1), (2) and (3) where, upon a decision of the administrative or management body, assets, other than the transferable securities and money-market instruments referred to in paragraph 1 of this Article, are contributed as consideration other than in cash which have already been subject to a fair value opinion by a recognised independent expert and where the following conditions are fulfilled:(a) the fair value is determined for a date not more than six months before the effective date of the asset contribution; and(b) the valuation has been performed in accordance with generally accepted valuation standards and principles in the Member State which are applicable to the kind of assets to be contributed.
+
+In the case of new qualifying circumstances that would significantly change the fair value of the asset at the effective date of its contribution, a revaluation shall be carried out on the initiative and under the responsibility of the administrative or management body.
+
+For the purposes of the revaluation referred to in the second subparagraph, Article 49(1), (2) and (3) shall apply.
+
+In the absence of such a revaluation, one or more shareholders holding an aggregate percentage of at least 5 % of the company's subscribed capital on the date the decision on the increase in the capital is taken, may demand a valuation by an independent expert, in which case Article 49(1), (2) and (3) shall apply.
+
+Such shareholder(s) may submit a demand up until the effective date of the asset contribution, provided that, at the date of the demand, the shareholder(s) in question still hold(s) an aggregate percentage of at least 5 % of the company's subscribed capital, as it was on the date the decision on the increase in the capital was taken.
+
+**3.** Member States may decide not to apply Article 49(1), (2) and (3) where, upon a decision of the administrative or management body, assets, other than the transferable securities and money-market instruments referred to in paragraph 1 of this Article, are contributed as consideration other than in cash the fair value of which is derived from the value of an individual asset from the statutory accounts of the previous financial year provided that the statutory accounts have been subject to an audit in accordance with Directive 2006/43/EC.
+
+The second to fifth subparagraphs of paragraph 2 of this Article shall apply *mutatis mutandis*.
+
+<a id="art_51"></a>
+
+### Article 51 — Consideration other than in cash without an experts' report
+
+**1.** Where consideration other than in cash as referred to in Article 50 is provided without an experts' report as referred to in Article 49(1), (2) and (3), in addition to the requirements set out in point (h) of Article 4 and within one month of the effective date of the asset contribution, a declaration containing the following shall be published:(a) a description of the consideration other than in cash at issue;(b) its value, the source of this valuation and, where appropriate, the method of valuation;(c) a statement whether the value arrived at corresponds at least to the number, to the nominal value or, where there is no nominal value, the accountable par and, where appropriate, to the premium on the shares to be issued for such consideration; and(d) a statement that no new qualifying circumstances with regard to the original valuation have occurred.
+
+The publication of the declaration shall be effected in the manner laid down by the laws of each Member State in accordance with Article 16.
+
+**2.** Where consideration other than in cash is proposed to be provided without an experts' report, as referred to in Article 49(1), (2) and (3), in relation to an increase in the capital proposed to be made under Article 68(2), an announcement containing the date when the decision on the increase was taken and the information listed in paragraph 1 of this Article shall be published, in the manner laid down by the laws of each Member State in accordance with Article 16, before the contribution of the asset as consideration other than in cash is to become effective. In that event, the declaration pursuant to paragraph 1 of this Article shall be limited to the statement that no new qualifying circumstances have occurred since the aforementioned announcement was published.
+
+**3.** Each Member State shall provide for adequate safeguards ensuring compliance with the procedure set out in Article 50 and in this Article where a contribution for a consideration other than in cash is provided without an experts' report as referred to in Article 49(1), (2) and (3).
+
+<a id="art_52"></a>
+
+### Article 52 — Substantial acquisitions after incorporation or authorisation to commence business
+
+**1.** If, before the expiry of a time limit laid down by national law of at least two years from the time the company is incorporated or is authorised to commence business, the company acquires any asset belonging to a person or company or firm referred to in point (i) of Article 4 for a consideration of not less than one-tenth of the subscribed capital, the acquisition shall be examined and details of it published in the manner provided for in Article 49(1), (2) and (3), and it shall be submitted for the approval of a general meeting.
+
+Articles 50 and 51 shall apply *mutatis mutandis*.
+
+Member States may also require these provisions to be applied when the assets belong to a shareholder or to any other person.
+
+**2.** Paragraph 1 shall not apply to acquisitions effected in the normal course of the company's business, to acquisitions effected at the instance or under the supervision of an administrative or judicial authority, or to stock exchange acquisitions.
+
+<a id="art_53"></a>
+
+### Article 53 — Shareholders' obligation to pay up contributions
+
+Subject to the provisions relating to the reduction of subscribed capital, the shareholders may not be released from the obligation to pay up their contributions.
+
+<a id="art_54"></a>
+
+### Article 54 — Safeguards in the event of conversion
+
+Pending coordination of national laws at a subsequent date, Member States shall adopt the measures necessary to require provision of at least the same safeguards as are laid down in Articles 3 to 6 and Articles 45 to 53 in the event of the conversion of another type of company into a public limited liability company.
+
+<a id="art_55"></a>
+
+### Article 55 — Modification of the statutes or of the instrument of incorporation
+
+Articles 3 to 6 and Articles 45 to 54 shall be without prejudice to the provisions of Member States on competence and procedure relating to the modification of the statutes or of the instrument of incorporation.
+
+<a id="art_56"></a>
+
+### Article 56 — General rules on distribution
+
+**1.** Except for cases of reductions of subscribed capital, no distribution to shareholders may be made when on the closing date of the last financial year the net assets as set out in the company's annual accounts are or, following such a distribution, would become, lower than the amount of the subscribed capital plus those reserves which may not be distributed under the law or the statutes of the company.
+
+**2.** Where the uncalled part of the subscribed capital is not included in the assets shown in the balance sheet, that amount shall be deducted from the amount of subscribed capital referred to in paragraph 1.
+
+**3.** The amount of a distribution to shareholders may not exceed the amount of the profits at the end of the last financial year plus any profits brought forward and sums drawn from reserves available for this purpose, less any losses brought forward and sums placed to reserve in accordance with the law or the statutes.
+
+**4.** The term ‘distribution’ used in paragraphs 1 and 3 includes, in particular, the payment of dividends and of interest relating to shares.
+
+**5.** When the laws of a Member State allow the payment of interim dividends, at least the following conditions shall apply:(a) interim accounts shall be drawn up showing that the funds available for distribution are sufficient;(b) the amount to be distributed may not exceed the total profits made since the end of the last financial year for which the annual accounts have been drawn up, plus any profits brought forward and sums drawn from reserves available for this purpose, less losses brought forward and sums to be placed to reserve pursuant to the requirements of the law or the statutes.
+
+**6.** Paragraphs 1 to 5 shall not affect the provisions of the Member States as regards increases in subscribed capital by capitalisation of reserves.
+
+**7.** The laws of a Member State may provide for derogation from paragraph 1 in the case of investment companies with fixed capital.
+
+For the purposes of this paragraph, the term ‘investment company with fixed capital’ means only companies:
+
+(a) the exclusive object of which is to invest their funds in various stocks and shares, land or other assets with the sole aim of spreading investment risks and giving their shareholders the benefit of the results of the management of their assets; and
+
+(b) which offer their own shares for subscription by the public.
+
+In so far as the laws of Member States make use of the option they shall:
+
+(a) require such companies to include the term ‘investment company’ in all documents indicated in Article 26;
+
+(b) not permit any such company whose net assets fall below the amount specified in paragraph 1 to make a distribution to shareholders when on the closing date of the last financial year the company's total assets as set out in the annual accounts are, or following such distribution would become, less than one-and-a-half times the amount of the company's total liabilities to creditors as set out in the annual accounts; and
+
+(c) require any such company which makes a distribution when its net assets fall below the amount specified in paragraph 1 to include in its annual accounts a note to that effect.
+
+<a id="art_57"></a>
+
+### Article 57 — Recovery of distributions unlawfully made
+
+Any distribution made contrary to Article 56 shall be returned by shareholders who have received it if the company proves that those shareholders knew of the irregularity of the distributions made to them, or could not in view of the circumstances have been unaware of it.
+
+<a id="art_58"></a>
+
+### Article 58 — Serious loss of the subscribed capital
+
+**1.** In the case of a serious loss of the subscribed capital, a general meeting of shareholders shall be called within the period laid down by the laws of the Member States, to consider whether the company should be wound up or any other measures taken.
+
+**2.** The amount of a loss deemed to be serious within the meaning of paragraph 1 shall not be set by the laws of Member States at a figure higher than half the subscribed capital.
+
+<a id="art_59"></a>
+
+### Article 59 — No subscription of own shares
+
+**1.** The shares of a company may not be subscribed for by the company itself.
+
+**2.** If the shares of a company have been subscribed for by a person acting in his or her own name, but on behalf of the company, the subscriber shall be deemed to have subscribed for them for his or her own account.
+
+**3.** The persons or companies or firms referred to in point (i) of Article 4 or, in cases of an increase in subscribed capital, the members of the administrative or management body shall be liable to pay for shares subscribed in contravention of this Article.
+
+However, the laws of a Member State may provide that any such person may be released from his or her obligation if they prove that no fault is attributable to them personally.
+
+<a id="art_60"></a>
+
+### Article 60 — Acquisition of own shares
+
+**1.** Without prejudice to the principle of equal treatment of all shareholders who are in the same position, and to Regulation (EU) No 596/2014, Member States may permit a company to acquire its own shares, either itself or through a person acting in his or her own name but on the company's behalf. To the extent that the acquisitions are permitted, Member States shall make such acquisitions subject to the following conditions:(a) authorisation is given by the general meeting, which shall determine the terms and conditions of such acquisitions, and, in particular, the maximum number of shares to be acquired, the duration of the period for which the authorisation is given, the maximum length of which shall be determined by national law without, however, exceeding five years, and, in the case of acquisition for value, the maximum and minimum consideration. Members of the administrative or management body shall satisfy themselves that, at the time when each authorised acquisition is effected, the conditions referred to in points (b) and (c) are respected;(b) the acquisitions, including shares previously acquired by the company and held by it, and shares acquired by a person acting in his or her own name but on the company's behalf, cannot have the effect of reducing the net assets below the amount referrred to in Article 56(1) and (2); and(c) only fully paid-up shares can be included in the transaction.
+
+Furthermore, Member States may subject acquisitions within the meaning of the first subparagraph to any of the following conditions:
+
+(a) the nominal value or, in the absence thereof, the accountable par of the acquired shares, including shares previously acquired by the company and held by it, and shares acquired by a person acting in his own name but on the company's behalf, does not exceed a limit to be determined by Member States; this limit may not be lower than 10 % of the subscribed capital;
+
+(b) the power of the company to acquire its own shares within the meaning of the first subparagraph, the maximum number of shares to be acquired, the duration of the period for which the power is given and the maximum or minimum consideration are laid down in the statutes or in the instrument of incorporation of the company;
+
+(c) the company complies with appropriate reporting and notification requirements;
+
+(d) certain companies, as determined by Member States, can be required to cancel the acquired shares provided that an amount equal to the nominal value of the shares cancelled is included in a reserve which cannot be distributed to the shareholders, except in the event of a reduction in the subscribed capital; this reserve may be used only for the purposes of increasing the subscribed capital by the capitalisation of reserves;
+
+(e) the acquisition does not prejudice the satisfaction of creditors' claims.
+
+**2.** The laws of a Member State may provide for derogations from the first sentence of point (a) of the first subparagraph of paragraph 1 where the acquisition of a company's own shares is necessary to prevent serious and imminent harm to the company. In such a case, the next general meeting shall be informed by the administrative or management body of the reasons for and nature of the acquisitions effected, of the number and nominal value or, in the absence of a nominal value, the accountable par, of the shares acquired, of the proportion of the subscribed capital which they represent, and of the consideration for those shares.
+
+**3.** Member States may decide not to apply the first sentence of point (a) of the first subparagraph of paragraph 1 to shares acquired by either the company itself or by a person acting in his or her own name but on the company's behalf, for distribution to that company's employees or to the employees of an associate company. Such shares shall be distributed within 12 months of their acquisition.
+
+<a id="art_61"></a>
+
+### Article 61 — Derogation from rules on acquisition of own shares
+
+**1.** Member States may decide not to apply Article 60 to:(a) shares acquired in carrying out a decision to reduce capital, or in the circumstances referred to in Article 82;(b) shares acquired as a result of a universal transfer of assets;(c) fully paid-up shares acquired free of charge or by banks and other financial institutions as purchasing commission;(d) shares acquired by virtue of a legal obligation or resulting from a court ruling for the protection of minority shareholders in the event, particularly, of a merger, a change in the company's object or form, transfer abroad of the registered office, or the introduction of restrictions on the transfer of shares;(e) shares acquired from a shareholder in the event of failure to pay them up;(f) shares acquired in order to indemnify minority shareholders in associated companies;(g) fully paid-up shares acquired under a sale enforced by a court order for the payment of a debt owed to the company by the owner of the shares; and(h) fully paid-up shares issued by an investment company with fixed capital, as defined in the second subparagraph of Article 56(7), and acquired at the investor's request by that company or by an associate company. Point (a) of the third subparagraph of Article 56(7) shall apply. Such acquisitions may not have the effect of reducing the net assets below the amount of the subscribed capital plus any reserves the distribution of which is forbidden by law.
+
+**2.** Shares acquired in the cases listed in points (b) to (g) of paragraph 1 shall, however, be disposed of within not more than three years of their acquisition unless the nominal value or, in the absence of a nominal value, the accountable par of the shares acquired, including shares which the company may have acquired through a person acting in his own name but on the company's behalf, does not exceed 10 % of the subscribed capital.
+
+**3.** If the shares are not disposed of within the period laid down in paragraph 2, they shall be cancelled. The laws of a Member State may make this cancellation subject to a corresponding reduction in the subscribed capital. Such a reduction shall be prescribed where the acquisition of shares to be cancelled results in the net assets having fallen below the amount specified in Article 56(1) and (2).
+
+<a id="art_62"></a>
+
+### Article 62 — Consequences of illegal acquisition of own shares
+
+Shares acquired in contravention of Articles 60 and 61 shall be disposed of within one year of their acquisition. If they are not disposed of within that period, Article 61(3) shall apply.
+
+<a id="art_63"></a>
+
+### Article 63 — Holding of own shares and annual report in case of acquisition of own shares
+
+**1.** Where the laws of a Member State permit a company to acquire its own shares, either itself or through a person acting in his or her own name but on the company's behalf, they shall make the holding of these shares at all times subject to at least the following conditions:(a) among the rights attaching to the shares, the right to vote attaching to the company's own shares must in any event be suspended;(b) if the shares are included among the assets shown in the balance sheet, a reserve of the same amount, unavailable for distribution, shall be included among the liabilities.
+
+**2.** Where the laws of a Member State permit a company to acquire its own shares, either itself or through a person acting in his or her own name but on the company's behalf, they shall require the annual report to state at least:(a) the reasons for acquisitions made during the financial year;(b) the number and nominal value or, in the absence of a nominal value, the accountable par of the shares acquired and disposed of during the financial year and the proportion of the subscribed capital which they represent;(c) in the case of acquisition or disposal for a value, the consideration for the shares;(d) the number and nominal value or, in the absence of a nominal value, the accountable par of all the shares acquired and held by the company and the proportion of the subscribed capital which they represent.
+
+<a id="art_64"></a>
+
+### Article 64 — Financial assistance by a company for acquisition of its shares by a third party
+
+**1.** Where Member States permit a company to, either directly or indirectly, advance funds or make loans or provide security, with a view to the acquisition of its shares by a third party, they shall make such transactions subject to the conditions set out in paragraphs 2 to 5.
+
+**2.** The transactions shall take place under the responsibility of the administrative or management body at fair market conditions, especially with regard to interest received by the company and with regard to security provided to the company for the loans and advances referred to in paragraph 1.
+
+The credit standing of the third party or, in the case of multiparty transactions, of each counterparty thereto shall have been duly investigated.
+
+**3.** The transactions shall be submitted by the administrative or management body to the general meeting for prior approval, whereby the general meeting shall act in accordance with the rules for a quorum and a majority laid down in Article 83.
+
+The administrative or management body shall present a written report to the general meeting, indicating:
+
+(a) the reasons for the transaction;
+
+(b) the interest of the company in entering into such a transaction;
+
+(c) the conditions on which the transaction is entered into;
+
+(d) the risks involved in the transaction for the liquidity and solvency of the company; and
+
+(e) the price at which the third party is to acquire the shares.
+
+This report shall be submitted to the register for publication in accordance with Article 16.
+
+**4.** The aggregate financial assistance granted to third parties shall at no time result in the reduction of the net assets below the amount specified in Article 56(1) and (2), taking into account also any reduction of the net assets that may have occurred through the acquisition, by the company or on behalf of the company, of its own shares in accordance with Article 60(1).
+
+The company shall include, among the liabilities in the balance sheet, a reserve, unavailable for distribution, of the amount of the aggregate financial assistance.
+
+**5.** Where a third party by means of financial assistance from a company acquires that company's own shares within the meaning of Article 60(1) or subscribes for shares issued in the course of an increase in the subscribed capital, such acquisition or subscription shall be made at a fair price.
+
+**6.** Paragraphs 1 to 5 shall not apply to transactions concluded by banks and other financial institutions in the normal course of business, nor to transactions effected with a view to the acquisition of shares by or for the company's employees or the employees of an associate company.
+
+However, these transactions may not have the effect of reducing the net assets below the amount specified in Article 56(1).
+
+**7.** Paragraphs 1 to 5 shall not apply to transactions effected with a view to acquisition of shares as described in of Article 61(1)(h).
+
+<a id="art_65"></a>
+
+### Article 65 — Additional safeguards in case of related party transactions
+
+In cases where individual members of the administrative or management body of the company being party to a transaction referred to in Article 64(1) of this Directive, or of the administrative or management body of a parent undertaking within the meaning of Article 22 of Directive 2013/34/EU or such parent undertaking itself, or individuals acting in their own name, but on behalf of the members of such bodies or on behalf of such undertaking, are counterparties to such a transaction, Member States shall ensure through adequate safeguards that such transaction does not conflict with the company's best interests.
+
+<a id="art_66"></a>
+
+### Article 66 — Acceptance of the company's own shares as security
+
+**1.** The acceptance of the company's own shares as security, either by the company itself or through a person acting in his own name but on the company's behalf, shall be treated as an acquisition for the purposes of Article 60, Article 61(1), and Articles 63 and 64.
+
+**2.** The Member States may decide not to apply paragraph 1 to transactions concluded by banks and other financial institutions in the normal course of business.
+
+<a id="art_67"></a>
+
+### Article 67 — Subscription, acquisition or holding of shares by a company in which the public limited liability company holds a majority of the voting rights or on which it can exercise a dominant influence
+
+**1.** The subscription, acquisition or holding of shares in a public limited liability company by another company of a type listed in Annex II in which the public limited liability company directly or indirectly holds a majority of the voting rights or on which it can directly or indirectly exercise a dominant influence shall be regarded as having been effected by the public limited liability company itself.
+
+The first subparagraph shall also apply where the other company is governed by the law of a third country and has a legal form comparable to those listed in Annex II.
+
+However, where the public limited liability company holds a majority of the voting rights indirectly or can exercise a dominant influence indirectly, Member States need not apply the first and the second subparagraphs if they provide for the suspension of the voting rights attached to the shares in the public limited liability company held by the other company.
+
+**2.** In the absence of coordination of national legislation on groups of companies, Member States may:(a) define the cases in which a public limited liability company shall be regarded as being able to exercise a dominant influence on another company; if a Member State exercises this option, its national law shall in any event provide that a dominant influence can be exercised if a public limited liability company:(i) has the right to appoint or dismiss a majority of the members of the administrative organ, of the management organ or of the supervisory organ, and is at the same time a shareholder or member of the other company; or(ii) is a shareholder or member of the other company and has sole control of a majority of the voting rights of its shareholders or members under an agreement concluded with other shareholders or members of that company.Member States shall not be obliged to make provision for any cases other than those referred to in points (i) and (ii) of the first subparagraph;(b) define the cases in which a public limited liability company shall be regarded as indirectly holding voting rights or as able indirectly to exercise a dominant influence;(c) specify the circumstances in which a public limited liability company shall be regarded as holding voting rights.
+
+**3.** Member States need not apply the first and second subparagraphs of paragraph 1 where the subscription, acquisition or holding is effected on behalf of a person other than the person subscribing, acquiring or holding the shares, who is neither the public limited liability company referred to in paragraph 1 nor another company in which the public limited liability company directly or indirectly holds a majority of the voting rights or on which it can directly or indirectly exercise a dominant influence.
+
+**4.** Member States need not apply the first and second subparagraphs of paragraph 1 where the subscription, acquisition or holding is effected by the other company in its capacity and in the context of its activities as a professional dealer in securities, provided that it is a member of a stock exchange situated or operating within a Member State, or is approved or supervised by an authority of a Member State competent to supervise professional dealers in securities which, within the meaning of this Directive, may include credit institutions.
+
+**5.** Member States need not apply the first and second subparagraphs of paragraph 1 where shares in a public limited liability company held by another company were acquired before the relationship between the two companies corresponded to the criteria laid down in paragraph 1.
+
+However, the voting rights attached to those shares shall be suspended and the shares shall be taken into account when it is determined whether the condition laid down in Article 60(1)(b) is fulfilled.
+
+**6.** Member States need not apply Article 61(2) or (3) or Article 62 where shares in a public limited liability company are acquired by another company on condition that they provide for:(a) the suspension of the voting rights attached to the shares in the public limited liability company held by the other company; and(b) the members of the administrative or the management organ of the public limited liability company to be obliged to buy back from the other company the shares referred to in Article 61(2) and (3) and Article 62 at the price at which the other company acquired them; this sanction shall be inapplicable only where the members of the administrative or the management organ of the public limited liability company prove that that company played no part whatsoever in the subscription for or acquisition of the shares in question.
+
+<a id="art_68"></a>
+
+### Article 68 — Decision by the general meeting on the increase of capital
+
+**1.** Any increase in capital shall be decided upon by the general meeting. Both that decision and the increase in the subscribed capital shall be published in the manner laid down by the laws of each Member State, in accordance with Article 16.
+
+**2.** Nevertheless, the statutes or instrument of incorporation or the general meeting, the decision of which is to be published in accordance with the rules referred to in paragraph 1, may authorise an increase in the subscribed capital up to a maximum amount which they shall fix with due regard for any maximum amount provided for by law. Where appropriate, the increase in the subscribed capital shall be decided on within the limits of the amount fixed by the company body empowered to do so. The power of such body in this respect shall be for a maximum period of five years and may be renewed one or more times by the general meeting, each time for a period not exceeding five years.
+
+**3.** Where there are several classes of shares, the decision by the general meeting concerning the increase in capital referred to in paragraph 1 or the authorisation to increase the capital referred to in paragraph 2, shall be subject to a separate vote at least for each class of shareholder whose rights are affected by the transaction.
+
+**4.** This Article shall apply to the issue of all securities which are convertible into shares or which carry the right to subscribe for shares, but not to the conversion of such securities, nor to the exercise of the right to subscribe.
+
+<a id="art_69"></a>
+
+### Article 69 — Paying up shares issued for consideration
+
+Shares issued for consideration, in the course of an increase in subscribed capital, shall be paid up to at least 25 % of their nominal value or, in the absence of a nominal value, of their accountable par. Where provision is made for an issue premium, it shall be paid in full.
+
+<a id="art_70"></a>
+
+### Article 70 — Shares issued for consideration other than in cash
+
+**1.** Where shares are issued for consideration other than in cash in the course of an increase in the subscribed capital, the consideration shall be transferred in full within a period of five years from the decision to increase the subscribed capital.
+
+**2.** The consideration referred to in paragraph 1 shall be the subject of a report drawn up before the increase in capital is made by one or more experts who are independent of the company and appointed or approved by an administrative or judicial authority. Such experts may be natural persons as well as legal persons and companies and firms under the laws of each Member State.
+
+Article 49(2) and (3) and Articles 50 and 51 shall apply.
+
+**3.** Member States may decide not to apply paragraph 2 in the event of an increase in subscribed capital made in order to give effect to a merger, a division or a public offer for the purchase or exchange of shares and to pay the shareholders of the company which is being absorbed or divided, or which is the object of the public offer for the purchase or exchange of shares.
+
+In the case of a merger or a division, however, Member States shall apply the first subparagraph only where a report by one or more independent experts on the draft terms of merger or division is drawn up.
+
+Where Member States decide to apply paragraph 2 in the case of a merger or a division, they may provide that the report under this Article and the report by one or more independent experts on the draft terms of merger or division may be drawn up by the same expert or experts.
+
+**4.** Member States may decide not to apply paragraph 2 if all the shares issued in the course of an increase in subscribed capital are issued for a consideration other than in cash to one or more companies, on condition that all the shareholders in the company which receive the consideration have agreed not to have an experts' report drawn up and that the requirements of points (b) to (f) of Article 49(4) are met.
+
+<a id="art_71"></a>
+
+### Article 71 — Increase in capital not fully subscribed
+
+Where an increase in capital is not fully subscribed, the capital will be increased by the amount of the subscriptions received only if the conditions of the issue so provide.
+
+<a id="art_72"></a>
+
+### Article 72 — Increase in capital by consideration in cash
+
+**1.** Whenever the capital is increased by consideration in cash, the shares shall be offered on a pre-emptive basis to shareholders in proportion to the capital represented by their shares.
+
+**2.** The laws of a Member State:(a) need not apply paragraph 1 to shares which carry a limited right to participate in distributions within the meaning of Article 56 and/or in the company's assets in the event of liquidation; or(b) may permit, where the subscribed capital of a company having several classes of shares carrying different rights with regard to voting, or participation in distributions within the meaning of Article 56 or in assets in the event of liquidation, is increased by issuing new shares in only one of these classes, the right of pre-emption of shareholders of the other classes to be exercised only after the exercise of this right by the shareholders of the class in which the new shares are being issued.
+
+**3.** Any offer of subscription on a pre-emptive basis and the period within which this right shall be exercised shall be published in the national gazette appointed in accordance with Article 16. However, the laws of a Member State need not provide for such publication where all of a company's shares are registered. In such case, all the company's shareholders shall be informed in writing. The right of pre-emption shall be exercised within a period which shall not be less than 14 days from the date of publication of the offer or from the date of dispatch of the letters to the shareholders.
+
+**4.** The right of pre-emption may not be restricted or withdrawn by the statutes or instrument of incorporation. This may, however, be done by decision of the general meeting. The administrative or management body shall be required to present to such a meeting a written report indicating the reasons for restriction or withdrawal of the right of pre-emption, and justifying the proposed issue price. The general meeting shall act in accordance with the rules for a quorum and a majority laid down in Article 83. Its decision shall be published in the manner laid down by the laws of each Member State, in accordance with Article 16.
+
+**5.** The laws of a Member State may provide that the statutes, the instrument of incorporation or the general meeting, acting in accordance with the rules for a quorum, a majority and publication set out in paragraph 4 of this Article, may give the power to restrict or withdraw the right of pre-emption to the company body which is empowered to decide on an increase in subscribed capital within the limit of the authorised capital. This power may not be granted for a longer period than the power for which provision is made in Article 68(2).
+
+**6.** Paragraphs 1 to 5 shall apply to the issue of all securities which are convertible into shares or which carry the right to subscribe for shares, but not to the conversion of such securities, nor to the exercise of the right to subscribe.
+
+**7.** The right of pre-emption is not excluded for the purposes of paragraphs 4 and 5 where, in accordance with the decision to increase the subscribed capital, shares are issued to banks or other financial institutions with a view to their being offered to shareholders of the company in accordance with paragraphs 1 and 3.
+
+<a id="art_73"></a>
+
+### Article 73 — Decision by the general meeting on reduction in the subscribed capital
+
+Any reduction in the subscribed capital, except under a court order, shall be subject at least to a decision of the general meeting acting in accordance with the rules for a quorum and a majority laid down in Article 83 without prejudice to Articles 79 and 80. Such decision shall be published in the manner laid down by the laws of each Member State in accordance with Article 16.
+
+The notice convening the meeting shall specify at least the purpose of the reduction and the way in which it is to be carried out.
+
+<a id="art_74"></a>
+
+### Article 74 — Reduction in the subscribed capital in case of several classes of shares
+
+Where there are several classes of shares, the decision by the general meeting concerning a reduction in the subscribed capital shall be subject to a separate vote, at least for each class of shareholders whose rights are affected by the transaction.
+
+<a id="art_75"></a>
+
+### Article 75 — Safeguards for creditors in case of reduction in the subscribed capital
+
+**1.** In the event of a reduction in the subscribed capital, at least the creditors whose claims antedate the publication of the decision on the reduction shall at least have the right to obtain security for claims which have not fallen due by the date of that publication. Member States may not set aside such a right unless the creditor has adequate safeguards, or unless such safeguards are not necessary having regard to the assets of the company.
+
+Member States shall lay down the conditions for the exercise of the right provided for in the first subparagraph. In any event, Member States shall ensure that the creditors are authorised to apply to the appropriate administrative or judicial authority for adequate safeguards provided that they can credibly demonstrate that due to the reduction in the subscribed capital the satisfaction of their claims is at stake, and that no adequate safeguards have been obtained from the company.
+
+**2.** The laws of the Member States shall also stipulate at least that the reduction shall be void, or that no payment may be made for the benefit of the shareholders, until the creditors have obtained satisfaction or a court has decided that their application should not be acceded to.
+
+**3.** This Article shall apply where the reduction in the subscribed capital is brought about by the total or partial waiving of the payment of the balance of the shareholders' contributions.
+
+<a id="art_76"></a>
+
+### Article 76 — Derogation from safeguards for creditors in case of reduction in the subscribed capital
+
+**1.** Member States need not apply Article 75 to a reduction in the subscribed capital the purpose of which is to offset losses incurred or to include sums of money in a reserve provided that, following this operation, the amount of such reserve is not more than 10 % of the reduced subscribed capital. Except in the event of a reduction in the subscribed capital, this reserve may not be distributed to shareholders; it may be used only for offsetting losses incurred or for increasing the subscribed capital by the capitalisation of such reserve, in so far as the Member States permit such an operation.
+
+**2.** In the cases referred to in paragraph 1, the laws of the Member States shall at least provide for the measures necessary to ensure that the amounts deriving from the reduction of subscribed capital may not be used for making payments or distributions to shareholders, or discharging shareholders from the obligation to make their contributions.
+
+<a id="art_77"></a>
+
+### Article 77 — Reduction in the subscribed capital and the minimum capital
+
+The subscribed capital may not be reduced to an amount less than the minimum capital laid down in accordance with Article 45.
+
+However, Member States may permit such a reduction if they also provide that the decision to reduce the subscribed capital may take effect only when the subscribed capital is increased to an amount at least equal to the prescribed minimum.
+
+<a id="art_78"></a>
+
+### Article 78 — Redemption of subscribed capital without reduction
+
+Where the laws of a Member State authorise total or partial redemption of the subscribed capital without reduction of the latter, they shall at least require that the following conditions are observed:
+
+(a) where the statutes or instrument of incorporation provide for redemption, the latter shall be decided on by the general meeting voting at least under the usual conditions of quorum and majority; where the statutes or instrument of incorporation do not provide for redemption, the latter shall be decided upon by the general meeting acting at least under the conditions of quorum and majority laid down in Article 83; the decision shall be published in the manner prescribed by the laws of Member States, in accordance with Article 16;
+
+(b) only sums which are available for distribution within the meaning of Article 56(1) to (4) may be used for redemption purposes;
+
+(c) shareholders whose shares are redeemed shall retain their rights in the company, with the exception of their rights to the repayment of their investment and participation in the distribution of an initial dividend on unredeemed shares.
+
+<a id="art_79"></a>
+
+### Article 79 — Reduction in the subscribed capital by compulsory withdrawal of shares
+
+**1.** Where the laws of a Member State allow companies to reduce their subscribed capital by compulsory withdrawal of shares, they shall require that at least the following conditions are observed:(a) compulsory withdrawal must be prescribed or authorised by the statutes or instrument of incorporation before the shares which are to be withdrawn are subscribed for;(b) where the compulsory withdrawal is authorised merely by the statutes or instrument of incorporation, it shall be decided upon by the general meeting unless it has been unanimously approved by the shareholders concerned;(c) the company body deciding on the compulsory withdrawal shall fix the terms and manner thereof, where they have not already been fixed by the statutes or instrument of incorporation;(d) Article 75 shall apply except in the case of fully paid-up shares which are made available to the company free of charge or are withdrawn using sums available for distribution in accordance with Article 56(1) to (4); in these cases, an amount equal to the nominal value or, in the absence thereof, to the accountable par of all the withdrawn shares must be included in a reserve; except in the event of a reduction in the subscribed capital, this reserve may not be distributed to shareholders; it can be used only for offsetting losses incurred or for increasing the subscribed capital by the capitalisation of such reserve, in so far as Member States permit such an operation; and(e) the decision on compulsory withdrawal shall be published in the manner laid down by the laws of each Member State in accordance with Article 16.
+
+**2.** The first paragraph of Article 73 and Articles 74, 76 and 83 shall not apply to the cases to which paragraph 1 of this Article refers.
+
+<a id="art_80"></a>
+
+### Article 80 — Reduction in the subscribed capital by the withdrawal of shares acquired by the company itself or on its behalf
+
+**1.** In the case of a reduction in the subscribed capital by the withdrawal of shares acquired by the company itself or by a person acting in his own name but on behalf of the company, the withdrawal shall always be decided on by the general meeting.
+
+**2.** Article 75 shall apply unless the shares are fully paid up and are acquired free of charge or using sums available for distribution in accordance with Article 56(1) to (4); in these cases an amount equal to the nominal value or, in the absence thereof, to the accountable par of all the shares withdrawn shall be included in a reserve. Except in the event of a reduction in the subscribed capital, this reserve may not be distributed to shareholders. It may be used only for offsetting losses incurred or for increasing the subscribed capital by the capitalisation of such reserve, in so far as the Member States permit such an operation.
+
+**3.** Articles 74, 76 and 83 shall not apply to the cases to which paragraph 1 of this Article refers.
+
+<a id="art_81"></a>
+
+### Article 81 — Redemption of the subscribed capital or its reduction by withdrawal of shares in case of several classes of shares
+
+In the cases covered by Article 78, Article 79(1)(b) and Article 80(1), when there are several classes of shares, the decision by the general meeting concerning redemption of the subscribed capital or its reduction by withdrawal of shares shall be subject to a separate vote, at least for each class of shareholders whose rights are affected by the transaction.
+
+<a id="art_82"></a>
+
+### Article 82 — Conditions for redemption of shares
+
+Where the laws of a Member State authorise companies to issue redeemable shares, they shall require that the following conditions, at least, are complied with for the redemption of such shares:
+
+(a) redemption must be authorised by the company's statutes or instrument of incorporation before the redeemable shares are subscribed for;
+
+(b) the shares must be fully paid up;
+
+(c) the terms and the manner of redemption must be laid down in the company's statutes or instrument of incorporation;
+
+(d) redemption can be only effected by using sums available for distribution in accordance with Article 56(1) to (4) or the proceeds of a new issue made with a view to effecting such redemption;
+
+(e) an amount equal to the nominal value or, in the absence thereof, to the accountable par of all the redeemed shares must be included in a reserve which cannot be distributed to the shareholders, except in the event of a reduction in the subscribed capital; it may be used only for the purpose of increasing the subscribed capital by the capitalisation of reserves;
+
+(f) point (e) shall not apply to redemption using the proceeds of a new issue made with a view to effecting such redemption;
+
+(g) where provision is made for the payment of a premium to shareholders in consequence of a redemption, the premium may be paid only from sums available for distribution in accordance with Article 56(1) to (4), or from a reserve other than that referred to in point (e) of this Article which may not be distributed to shareholders except in the event of a reduction in the subscribed capital; this reserve may be used only for the purposes of increasing the subscribed capital by the capitalisation of reserves or for covering the costs referred to in point (j) of Article 4 or the cost of issuing shares or debentures or for the payment of a premium to holders of redeemable shares or debentures;
+
+(h) notification of redemption shall be published in the manner laid down by the laws of each Member State in accordance with Article 16.
+
+<a id="art_83"></a>
+
+### Article 83 — Voting requirements for the decisions of the general meeting
+
+The laws of the Member States shall provide that the decisions referred to in Article 72(4) and (5) and Articles 73, 74, 78 and 81 are to be taken at least by a majority of not less than two thirds of the votes attaching to the securities or the subscribed capital represented.
+
+The laws of the Member States may, however, lay down that a simple majority of the votes specified in the first paragraph is sufficient when at least half the subscribed capital is represented.
+
+<a id="art_84"></a>
+
+### Article 84 — Derogation from certain requirements
+
+**1.** Member States may derogate from the first paragraph of Article 48, the first sentence of Article 60(1)(a) and Articles 68, 69 and 72 to the extent that such derogations are necessary for the adoption or application of provisions designed to encourage the participation of employees, or other groups of persons defined by national law, in the capital of undertakings.
+
+**2.** Member States may decide not to apply the first sentence of Article 60(1)(a) and Articles 73, 74 and 79 to 82 to companies incorporated under a special law which issue both capital shares and workers' shares, the latter being issued to the company's employees as a body, who are represented at general meetings of shareholders by delegates having the right to vote.
+
+**3.** Member States shall ensure that Article 49, Article 58(1), Article 68(1), (2) and (3), the first subparagraph of Article 70(2), Articles 72 to 75, 79, 80 and 81 of this Directive do not apply in the case of application of the resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU of the European Parliament and of the Council (9) or in Title V of Regulation (EU) 2021/23 of the European Parliament and of the Council (10).
+
+**4.** Member States shall derogate from Article 58(1), Article 68, Articles 72, 73, and 74, point (b) of Article 79(1), Article 80(1) and Article 81 to the extent and for the period that such derogations are necessary for the establishment of the preventive restructuring frameworks provided for in Directive (EU) 2019/1023 of the European Parliament and of the Council (11).
+
+The first subparagraph shall be without prejudice to the principle of equal treatment of shareholders.
+
+<a id="art_85"></a>
+
+### Article 85 — Equal treatment of all shareholders who are in the same position
+
+For the purposes of the implementation of this Chapter, the laws of the Member States shall ensure equal treatment to all shareholders who are in the same position.
+
+<a id="art_86"></a>
+
+### Article 86 — Transitional provisions
+
+Member States may decide not to apply points (g), (i), (j) and (k) of Article 4 to companies already in existence at the date of entry into force of the laws, regulations and administrative provisions adopted in order to comply with Council Directive 77/91/EEC (12).
+
+<a id="art_86a"></a>
+
+### Article 86a — Scope
+
+**1.** This Chapter shall apply to conversions of limited liability companies formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the Union, into limited liability companies governed by the law of another Member State.
+
+**2.** This Chapter shall not apply to cross-border conversions involving a company the object of which is the collective investment of capital provided by the public, which operates on the principle of risk-spreading and the units of which are, at the holders’ request, repurchased or redeemed, directly or indirectly, out of the assets of that company. Action taken by such a company to ensure that the stock exchange value of its units does not vary significantly from its net asset value shall be regarded as equivalent to such repurchase or redemption.
+
+**3.** Member States shall ensure that this Chapter does not apply to companies in either of the following circumstances:(a) the company is in liquidation and has begun to distribute assets to its members;▼M4(b) the company is subject to resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU or in Title V of Regulation (EU) 2021/23.▼M3
+
+**4.** Member States may decide not to apply this Chapter to companies which are:(a) the subject of insolvency proceedings or subject to preventive restructuring frameworks;(b) the subject of liquidation proceedings other than those referred to in point (a) of paragraph 3, or▼M4(c) the subject of crisis prevention measures as defined in point (101) of Article 2(1) of Directive 2014/59/EU or in point (48) of Article 2 of Regulation (EU) 2021/23.▼M3
+
+<a id="art_86b"></a>
+
+### Article 86b — Definitions
+
+For the purposes of this Chapter:
+
+(1) ‘company’ means a limited liability company of a type listed in Annex II that carries out a cross-border conversion;
+
+(2) ‘cross-border conversion’ means an operation whereby a company, without being dissolved or wound up or going into liquidation, converts the legal form under which it is registered in a departure Member State into a legal form of the destination Member State, as listed in Annex II, and transfers at least its registered office to the destination Member State, while retaining its legal personality;
+
+(3) ‘departure Member State’ means a Member State in which a company is registered prior to a cross-border conversion;
+
+(4) ‘destination Member State’ means a Member State in which a converted company is registered as a result of a cross-border conversion;
+
+(5) ‘converted company’ means a company formed in a destination Member State as a result of a cross-border conversion.
+
+<a id="art_86c"></a>
+
+### Article 86c — Procedures and formalities
+
+In compliance with Union law, the law of the departure Member State shall govern those parts of the procedures and formalities to be complied with in connection with the cross‐border conversion in order to obtain the pre-conversion certificate, and the law of the destination Member State shall govern those parts of the procedures and formalities to be complied with following receipt of the pre-conversion certificate.
+
+<a id="art_86d"></a>
+
+### Article 86d — Draft terms of cross-border conversions
+
+The administrative or management body of the company shall draw up the draft terms of a cross-border conversion. The draft terms of a cross-border conversion shall include at least the following particulars:
+
+(a) the legal form and name of the company in the departure Member State and the location of its registered office in that Member State;
+
+(b) the legal form and name proposed for the converted company in the destination Member State and the proposed location of its registered office in that Member State;
+
+(c) the instrument of constitution of the company in the destination Member State, where applicable, and the statutes if they are contained in a separate instrument;
+
+(d) the proposed indicative timetable for the cross-border conversion;
+
+(e) the rights conferred by the converted company on members enjoying special rights or on holders of securities other than shares representing the company capital, or the measures proposed concerning them;
+
+(f) any safeguards offered to creditors, such as guarantees or pledges;
+
+(g) any special advantages granted to members of the administrative, management, supervisory or controlling bodies of the company;
+
+(h) whether any incentives or subsidies were received by the company in the departure Member State in the preceding five years;
+
+(i) details of the offer of cash compensation for members in accordance with Article 86i;
+
+(j) the likely repercussions of the cross-border conversion on employment;
+
+(k) where appropriate, information on the procedures by which arrangements for the involvement of employees in the definition of their rights to participation in the converted company are determined pursuant to Article 86l.
+
+<a id="art_86e"></a>
+
+### Article 86e — Report of the administrative or management body for members and employees
+
+**1.** The administrative or management body of the company shall draw up a report for members and employees, explaining and justifying the legal and economic aspects of the cross-border conversion, as well as explaining the implications of the cross‐border conversion for employees.
+
+It shall, in particular, explain the implications of the cross-border conversion for the future business of the company.
+
+**2.** The report shall also include a section for members and a section for employees.
+
+The company may decide either to draw up one report containing those two sections or to draw up separate reports for members and employees, respectively, containing the relevant section.
+
+**3.** The section of the report for members shall, in particular, explain the following:(a) the cash compensation and the method used to determine the cash compensation;(b) the implications of the cross-border conversion for members;(c) the rights and remedies available to members in accordance with Article 86i.
+
+**4.** The section of the report for members shall not be required where all the members of the company have agreed to waive that requirement. Member States may exclude single-member companies from the provisions of this Article.
+
+**5.** The section of the report for employees shall, in particular, explain the following:(a) the implications of the cross-border conversion for employment relationships, as well as, where applicable, any measures for safeguarding those relationships;(b) any material changes to the applicable conditions of employment or to the location of the company’s places of business;(c) how the factors set out in points (a) and (b) affect any subsidiaries of the company.
+
+**6.** The report or reports shall be made available in any case electronically, together with the draft terms of the cross-border conversion, if available, to the members and to the representatives of the employees or, where there are no such representatives, to the employees themselves, not less than six weeks before the date of the general meeting referred to in Article 86h.
+
+**7.** Where the administrative or management body of the company receives an opinion on the information referred to in paragraphs 1 and 5 in good time from the representatives of the employees or, where there are no such representatives, from the employees themselves, as provided for under national law, the members shall be informed thereof and that opinion shall be appended to the report.
+
+**8.** The section of the report for employees shall not be required where a company and its subsidiaries, if any, have no employees other than those who form part of the administrative or management body.
+
+**9.** Where the section of the report for members referred to in paragraph 3 is waived in accordance with paragraph 4 and the section for employees referred to in paragraph 5 is not required under paragraph 8, the report shall not be required.
+
+**10.** Paragraphs 1 to 9 of this Article shall be without prejudice to the applicable information and consultation rights and procedures provided for at national level following the transposition of Directives 2002/14/EC and 2009/38/EC.
+
+<a id="art_86f"></a>
+
+### Article 86f — Independent expert report
+
+**1.** Member States shall ensure that an independent expert examines the draft terms of cross-border conversion and draws up a report for members. That report shall be made available to the members not less than one month before the date of the general meeting referred to in Article 86h. Depending on the law of the Member State, the expert may be a natural or legal person.
+
+**2.** The report referred to in paragraph 1 shall in any case include the expert’s opinion as to whether the cash compensation is adequate. When assessing the cash compensation, the expert shall consider any market price of the shares in the company prior to the announcement of the conversion proposal or the value of the company excluding the effect of the proposed conversion, as determined in accordance with generally accepted valuation methods. The report shall at least:(a) indicate the method or methods used to determine the cash compensation proposed;(b) state whether the method or methods used are adequate for the assessment of the cash compensation, indicate the value arrived at using such methods and give an opinion on the relative importance attributed to those methods in arriving at the value decided on; and(c) describe any special valuation difficulties which have arisen.The expert shall be entitled to obtain from the company all information necessary for the discharge of the duties of the expert.
+
+**3.** Neither an examination of the draft terms of cross-border conversion by an independent expert nor an independent expert report shall be required if all the members of the company have so agreed.
+
+Member States may exclude single-member companies from the application of this Article.
+
+<a id="art_86g"></a>
+
+### Article 86g — Disclosure
+
+**1.** Member States shall ensure that the following documents are disclosed by the company and made publicly available in the register of the departure Member State, at least one month before the date of the general meeting referred to in Article 86h:(a) the draft terms of the cross-border conversion; and(b) a notice informing the members, creditors and representatives of the employees of the company, or, where there are no such representatives, the employees themselves, that they may submit to the company, at the latest five working days before the date of the general meeting, comments concerning the draft terms of the cross-border conversion.Member States may require that the independent expert report be disclosed and made publicly available in the register.Member States shall ensure that the company is able to exclude confidential information from the disclosure of the independent expert report.The documents disclosed in accordance with this paragraph shall also be accessible through the system of interconnection of registers.
+
+**2.** Member States may exempt a company from the disclosure requirement referred to in paragraph 1 of this Article where, for a continuous period beginning at least one month before the date fixed for the general meeting referred to in Article 86h and ending not earlier than the conclusion of that meeting, that company makes the documents referred to in paragraph 1 of this Article available on its website free of charge to the public.
+
+However, Member States shall not subject that exemption to any requirements or constraints other than those which are necessary to ensure the security of the website and the authenticity of the documents, and which are proportionate to achieving those objectives.
+
+**3.** Where the company makes the draft terms of the cross-border conversion available in accordance with paragraph 2 of this Article, it shall submit to the register of the departure Member State, at least one month before the date of the general meeting referred to in Article 86h, the following information:(a) the legal form and name of the company and the location of its registered office in the departure Member State and the legal form and name proposed for the converted company in the destination Member State and the proposed location of its registered office in that Member State;(b) the register in which the documents referred to in Article 14 are filed in respect of the company and its registration number in that register;(c) an indication of the arrangements made for the exercise of the rights of creditors, employees and members; and(d) details of the website from which the draft terms of the cross-border conversion, the notice referred to in paragraph 1, the independent expert report and complete information on the arrangements referred to in point (c) of this paragraph may be obtained online and free of charge.The register of the departure Member State shall make publicly available the information referred to in points (a) to (d) of the first subparagraph.
+
+**4.** Member States shall ensure that the requirements referred to in paragraphs 1 and 3 can be fulfilled fully online without the necessity for the applicants to appear in person before any competent authority in the departure Member State, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** Member States may require, in addition to the disclosure referred to in paragraphs 1, 2 and 3 of this Article, that the draft terms of the cross-border conversion, or the information referred to in paragraph 3 of this Article, be published in their national gazette or through a central electronic platform in accordance with Article 16(3). In that instance, Member States shall ensure that the register transmits the relevant information to the national gazette or to a central electronic platform.
+
+**6.** Member States shall ensure that the documentation referred to in paragraph 1 or the information referred to in paragraph 3 is accessible to the public free of charge through the system of interconnection of registers.
+
+Member States shall further ensure that any fees charged to the company by the registers for the disclosure referred to in paragraphs 1 and 3 and, where applicable, for the publication referred to in paragraph 5 do not exceed the recovery of the cost of providing such services.
+
+<a id="art_86h"></a>
+
+### Article 86h — Approval by the general meeting
+
+**1.** After taking note of the reports referred to in Articles 86e and 86f, where applicable, employees’ opinions submitted in accordance with Article 86e and comments submitted in accordance with Article 86g, the general meeting of the company shall decide, by means of a resolution, whether to approve the draft terms of the cross‐border conversion and whether to adapt the instrument of constitution, and the statutes if they are contained in a separate instrument.
+
+**2.** The general meeting of the company may reserve the right to make implementation of the cross-border conversion conditional on express ratification by it of the arrangements referred to in Article 86l.
+
+**3.** Member States shall ensure that the approval of the draft terms of the cross-border conversion, and of any amendment to those draft terms, requires a majority of not less than two thirds but not more than 90 % of the votes attached either to the shares or to the subscribed capital represented at the general meeting. In any event, the voting threshold shall not be higher than that provided for in national law for the approval of cross-border mergers.
+
+**4.** Where a clause in the draft terms of the cross-border conversion or any amendment to the instrument of constitution of the converting company leads to an increase of the economic obligations of a member towards the company or third parties, Member States may require, in such specific circumstances, that such clause or the amendment to the instrument of constitution be approved by the member concerned, provided that such member is unable to exercise the rights laid down in Article 86i.
+
+**5.** Member States shall ensure that the approval of the cross-border conversion by the general meeting cannot be challenged solely on the following grounds:(a) the cash compensation referred to in point (i) of Article 86d has been inadequately set; or(b) the information given with regard to the cash compensation referred to in point (a) did not comply with the legal requirements.
+
+<a id="art_86i"></a>
+
+### Article 86i — Protection of members
+
+**1.** Member States shall ensure that at least the members of a company who voted against the approval of the draft terms of the cross-border conversion have the right to dispose of their shares for adequate cash compensation, under the conditions laid down in paragraphs 2 to 5.
+
+Member States may also provide for other members of the company to have the right referred to in the first subparagraph.
+
+Member States may require that express opposition to the draft terms of the cross‐border conversion, the intention of members to exercise their right to dispose of their shares, or both, be appropriately documented, at the latest at the general meeting referred to in Article 86h. Member States may allow the recording of opposition to the draft terms of the cross-border conversion to be considered proper documentation of a negative vote.
+
+**2.** Member States shall establish the period within which the members referred to in paragraph 1 have to declare to the company their decision to exercise the right to dispose of their shares. That period shall not exceed one month after the general meeting referred to in Article 86h. Member States shall ensure that the company provides an electronic address for receiving that declaration electronically.
+
+**3.** Member States shall further establish the period within which the cash compensation specified in the draft terms of the cross-border conversion is to be paid. That period shall not end later than two months after the cross-border conversion takes effect in accordance with Article 86q.
+
+**4.** Member States shall ensure that any members who have declared their decision to exercise the right to dispose of their shares, but who consider that the cash compensation offered by the company has not been adequately set, are entitled to claim additional cash compensation before the competent authority or body mandated under national law. Member States shall establish a time limit for the claim for additional cash compensation.
+
+Member States may provide that the final decision to provide additional cash compensation is valid for all members who have declared their decision to exercise the right to dispose of their shares in accordance with paragraph 2.
+
+**5.** Member States shall ensure that the law of the departure Member State governs the rights referred to in paragraphs 1 to 4 and that the exclusive competence to resolve any disputes relating to those rights lies within the jurisdiction of that departure Member State.
+
+<a id="art_86j"></a>
+
+### Article 86j — Protection of creditors
+
+**1.** Member States shall provide for an adequate system of protection of the interests of creditors whose claims antedate the disclosure of the draft terms of the cross-border conversion and have not fallen due at the time of such disclosure.
+
+Member States shall ensure that creditors who are dissatisfied with the safeguards offered in the draft terms of the cross-border conversion, as provided for in point (f) of Article 86d, may apply, within three months of the disclosure of the draft terms of the cross-border conversion referred to in Article 86g, to the appropriate administrative or judicial authority for adequate safeguards, provided that such creditors can credibly demonstrate that, due to the cross-border conversion, the satisfaction of their claims is at stake and that they have not obtained adequate safeguards from the company.
+
+Member States shall ensure that the safeguards are conditional on the cross-border conversion taking effect in accordance with Article 86q.
+
+**2.** Member States may require that the administrative or management body of the company provide a declaration that accurately reflects its current financial status at a date no earlier than one month before the disclosure of that declaration. The declaration shall state that, on the basis of the information available to the administrative or management body of the company at the date of that declaration, and after having made reasonable enquiries, that administrative or management body is unaware of any reason why the company would, after the conversion takes effect, be unable to meet its liabilities when those liabilities fall due. The declaration shall be disclosed together with the draft terms of the cross-border conversion in accordance with Article 86g.
+
+**3.** Paragraphs 1 and 2 shall be without prejudice to the application of the law of the departure Member State concerning the satisfaction or securing of pecuniary or non‐pecuniary obligations due to public bodies.
+
+**4.** Member States shall ensure that creditors whose claims antedate the disclosure of the draft terms of the cross-border conversion are able to institute proceedings against the company also in the departure Member State within two years of the date the conversion has taken effect, without prejudice to the jurisdiction rules arising from Union or national law or from a contractual agreement. The option of instituting such proceedings shall be in addition to other rules on the choice of jurisdiction that are applicable pursuant to Union law.
+
+<a id="art_86k"></a>
+
+### Article 86k — Employee information and consultation
+
+**1.** Member States shall ensure that employees’ rights to information and consultation are respected in relation to the cross-border conversion and are exercised in accordance with the legal framework provided for in Directive 2002/14/EC and, where applicable for Community-scale undertakings or Community-scale groups of undertakings, in accordance with Directive 2009/38/EC. Member States may decide that employees’ rights to information and consultation apply with respect to the employees of companies other than those referred to in Article 3(1) of Directive 2002/14/EC.
+
+**2.** Notwithstanding Article 86e(7) and point (b) of Article 86g(1), Member States shall ensure that employees’ rights to information and consultation are respected, at least before the draft terms of the cross-border conversion or the report referred to in Article 86e are decided upon, whichever is earlier, in such a way that a reasoned response is given to the employees before the general meeting referred to in Article 86h.
+
+**3.** Without prejudice to any provisions or practices in force more favourable to employees, Member States shall determine the practical arrangements for exercising the right to information and consultation in accordance with Article 4 of Directive 2002/14/EC.
+
+<a id="art_86l"></a>
+
+### Article 86l — Employee participation
+
+**1.** Without prejudice to paragraph 2, the converted company shall be subject to the rules in force concerning employee participation, if any, in the destination Member State.
+
+**2.** However, the rules in force concerning employee participation, if any, in the destination Member State shall not apply where the company has, in the six months prior to the disclosure of the draft terms of the cross-border conversion, an average number of employees equivalent to four fifths of the applicable threshold, as laid down in the law of the departure Member State, for triggering the participation of employees within the meaning of point (k) of Article 2 of Directive 2001/86/EC, or where the law of the destination Member State does not:(a) provide for at least the same level of employee participation as operated in the company prior to the cross-border conversion, measured by reference to the proportion of employee representatives among the members of the administrative or supervisory body or their committees or of the management group which covers the profit units of the company, subject to employee representation; or(b) provide for employees of establishments of the converted company that are situated in other Member States the same entitlement to exercise participation rights as is enjoyed by those employees employed in the destination Member State.
+
+**3.** In the cases referred to in paragraph 2 of this Article, the participation of employees in the converted company and their involvement in the definition of such rights shall be regulated by the Member States, *mutatis mutandis* and subject to paragraphs 4 to 7 of this Article, in accordance with the principles and procedures laid down in Article 12(2) and (4) of Regulation (EC) No 2157/2001 and the following provisions of Directive 2001/86/EC:(a) Article 3(1), points (a)(i) and (b) of Article 3(2), Article 3(3), the first two sentences of Article 3(4), and Article 3(5) and (7);(b) Article 4(1), points (a), (g) and (h) of Article 4(2), and Article 4(3) and (4);(c) Article 5;(d) Article 6;(e) Article 7(1), with the exception of the second indent of point (b);(f) Articles 8, 10, 11 and 12; and(g) point (a) of Part 3 of the Annex.
+
+**4.** When regulating the principles and procedures referred to in paragraph 3, Member States:(a) shall confer on the special negotiating body the right to decide, by a majority of two thirds of its members representing at least two thirds of the employees, not to open negotiations or to terminate negotiations already opened and to rely on the rules on participation in force in the destination Member State;(b) may, in the case where, following prior negotiations, standard rules for participation apply and notwithstanding such rules, decide to limit the proportion of employee representatives in the administrative body of the converted company. However, if, in the company, employee representatives constituted at least one third of the administrative or supervisory body, the limitation may never result in a lower proportion of employee representatives in the administrative body than one third;(c) shall ensure that the rules on employee participation that applied prior to the cross-border conversion continue to apply until the date of application of any subsequently agreed rules or, in the absence of agreed rules, until the application of standard rules in accordance with point (a) of Part 3 of the Annex to Directive 2001/86/EC.
+
+**5.** The extension of participation rights to employees of the converted company employed in other Member States, as referred to in point (b) of paragraph 2, shall not entail any obligation for Member States which choose to do so to take those employees into account when calculating the size of workforce thresholds giving rise to participation rights under national law.
+
+**6.** Where the converted company is to be governed by an employee participation system, in accordance with the rules referred to in paragraph 2, it shall be obliged to take a legal form allowing for the exercise of participation rights.
+
+**7.** Where the converted company is operating under an employee participation system, it shall be obliged to take measures to ensure that employees’ participation rights are protected in the event of any subsequent conversion, merger or division, be it cross‐border or domestic, for a period of four years after the cross-border conversion has taken effect, by applying *mutatis mutandis* the rules laid down in paragraphs 1 to 6.
+
+**8.** A company shall communicate to its employees or their representatives the outcome of the negotiations concerning employee participation without undue delay.
+
+<a id="art_86m"></a>
+
+### Article 86m — Pre-conversion certificate
+
+**1.** Member States shall designate the court, notary or other authority or authorities competent to scrutinise the legality of cross-border conversions as regards those parts of the procedure which are governed by the law of the departure Member State and to issue a pre-conversion certificate attesting to compliance with all relevant conditions and to the proper completion of all procedures and formalities in the departure Member State (‘the competent authority’).
+
+Such completion of procedures and formalities may comprise the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies or compliance with specific sectoral requirements, including securing obligations arising from ongoing proceedings.
+
+**2.** Member States shall ensure that the application to obtain a pre-conversion certificate by the company is accompanied by the following:(a) the draft terms of the cross-border conversion;(b) the report and the appended opinion, if any, referred to in Article 86e, as well as the report referred to in Article 86f, where they are available;(c) any comments submitted in accordance with Article 86g(1); and(d) information on the approval by the general meeting referred to in Article 86h.
+
+**3.** Member States may require that the application to obtain a pre-conversion certificate by the company is accompanied by additional information, such as, in particular:(a) the number of employees at the time of the drawing up of the draft terms of the cross-border conversion;(b) the existence of subsidiaries and their respective geographical location;(c) information regarding the satisfaction of obligations due to public bodies by the company.For the purposes of this paragraph, competent authorities may request such information, if not provided by the company, from other relevant authorities.
+
+**4.** Member States shall ensure that the application referred to in paragraphs 2 and 3, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the competent authority, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** In respect of compliance with the rules concerning employee participation as laid down in Article 86l, the competent authority of the departure Member State shall verify that the draft terms of the cross-border conversion include information on the procedures by which the relevant arrangements are determined and on the possible options for such arrangements.
+
+**6.** As part of the scrutiny referred to in paragraph 1, the competent authority shall examine the following:(a) all documents and information submitted to the competent authority in accordance with paragraphs 2 and 3;(b) an indication by the company that the procedure referred to in Article 86l(3) and (4) has started, where relevant.
+
+**7.** Member States shall ensure that the scrutiny referred to in paragraph 1 is carried out within three months of the date of receipt of the documents and information concerning the approval of the cross-border conversion by the general meeting of the company. That scrutiny shall have one of the following outcomes:(a) where it is determined that the cross-border conversion complies with all the relevant conditions and that all necessary procedures and formalities have been completed, the competent authority shall issue the pre-conversion certificate;(b) where it is determined that the cross-border conversion does not comply with all the relevant conditions or that not all necessary procedures and formalities have been completed, the competent authority shall not issue the pre‐conversion certificate and shall inform the company of the reasons for its decision; in that case, the competent authority may give the company the opportunity to fulfil the relevant conditions or to complete the procedures and formalities within an appropriate period of time.
+
+**8.** Member States shall ensure that the competent authority does not issue the pre‐conversion certificate where it is determined in compliance with national law that a cross-border conversion is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes.
+
+**9.** Where the competent authority, during the scrutiny referred to in paragraph 1, has serious doubts indicating that the cross-border conversion is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes, it shall take into consideration relevant facts and circumstances, such as, where relevant and not considered in isolation, indicative factors of which the competent authority has become aware, in the course of the scrutiny referred to in paragraph 1, including through consultation of relevant authorities. The assessment for the purposes of this paragraph shall be conducted on a case-by-case basis, through a procedure governed by national law.
+
+**10.** Where it is necessary for the purposes of the assessment under paragraphs 8 and 9 to take into account additional information or to perform additional investigative activities, the period of three months provided for in paragraph 7 may be extended by a maximum of three months.
+
+**11.** Where, due to the complexity of the cross-border procedure, it is not possible to carry out the assessment within the deadlines provided for in paragraphs 7 and 10, Member States shall ensure that the applicant is notified of the reasons for any delay before the expiry of those deadlines.
+
+**12.** Member States shall ensure that the competent authority may consult other relevant authorities with competence in the different fields concerned by the cross-border conversion, including those of the destination Member State, and obtain from those authorities and from the company information and documents necessary to scrutinise the legality of the cross-border conversion, within the procedural framework laid down in national law. For the purposes of the assessment, the competent authority may have recourse to an independent expert.
+
+<a id="art_86n"></a>
+
+### Article 86n — Transmission of the pre-conversion certificate
+
+**1.** Member States shall ensure that the pre-conversion certificate is shared with the authorities referred to in Article 86o(1) through the system of interconnection of registers.
+
+Member States shall also ensure that the pre-conversion certificate is available through the system of interconnection of registers.
+
+**2.** Access to the pre-conversion certificate shall be free of charge for the authorities referred to in Article 86o(1) and for the registers.
+
+<a id="art_86o"></a>
+
+### Article 86o — Scrutiny of the legality of the cross-border conversion by the destination Member State
+
+**1.** Member States shall designate the court, notary or other authority competent to scrutinise the legality of the cross-border conversion as regards that part of the procedure which is governed by the law of the destination Member State and to approve the cross-border conversion.
+
+That authority shall in particular ensure that the converted company complies with provisions of national law on the incorporation and registration of companies and, where appropriate, that arrangements for employee participation have been determined in accordance with Article 86l.
+
+**2.** For the purposes of paragraph 1 of this Article, the company shall submit to the authority referred to in paragraph 1 of this Article the draft terms of the cross-border conversion approved by the general meeting referred to in Article 86h.
+
+**3.** Each Member State shall ensure that any application for the purposes of paragraph 1, by the company, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the authority referred to in paragraph 1, in accordance with the relevant provisions of Chapter III of Title I.
+
+**4.** The authority referred to in paragraph 1 shall approve the cross-border conversion as soon as it has determined that all relevant conditions have been properly fulfilled and formalities properly completed in the destination Member State.
+
+**5.** The pre-conversion certificate shall be accepted by the authority referred to in paragraph 1 as conclusively attesting to the proper completion of the applicable pre‐conversion procedures and formalities in the departure Member State, without which the cross-border conversion cannot be approved.
+
+<a id="art_86p"></a>
+
+### Article 86p — Registration
+
+**1.** The laws of the departure Member State and of the destination Member State shall determine, with regard to their respective territories, the arrangements, in accordance with Article 16, for disclosing the completion of the cross-border conversion in their registers.
+
+**2.** Member States shall ensure that at least the following information is entered in their registers:(a) in the register of the destination Member State, that the registration of the converted company is the result of a cross-border conversion;(b) in the register of the destination Member State, the date of registration of the converted company;(c) in the register of the departure Member State, that the striking off or removal of the company from the register is the result of a cross-border conversion;(d) in the register of the departure Member State, the date of striking off or removal of the company from the register;(e) in the registers of the departure Member State and of the destination Member State, respectively, the registration number, name and legal form of the company and the registration number, name and legal form of the converted company.The registers shall make the information referred to in the first subparagraph publicly available and accessible through the system of interconnection of registers.
+
+**3.** Member States shall ensure that the register in the destination Member State notifies the register in the departure Member State, through the system of interconnection of registers, that the cross-border conversion has taken effect. Member States shall also ensure that the registration of the company is struck off or removed from the register immediately upon receipt of that notification.
+
+<a id="art_86q"></a>
+
+### Article 86q — Date on which the cross-border conversion takes effect
+
+The law of the destination Member State shall determine the date on which the cross‐border conversion takes effect. That date shall be after the scrutiny referred to in Articles 86m and 86o has been carried out.
+
+<a id="art_86r"></a>
+
+### Article 86r — Consequences of a cross-border conversion
+
+A cross-border conversion shall, from the date referred to in Article 86q, have the following consequences:
+
+(a) all the assets and liabilities of the company, including all contracts, credits, rights and obligations, shall be those of the converted company;
+
+(b) the members of the company shall continue to be members of the converted company, unless they have disposed of their shares as referred to in Article 86i(1);
+
+(c) the rights and obligations of the company arising from contracts of employment or from employment relationships and existing at the date on which the cross-border conversion takes effect shall be those of the converted company.
+
+<a id="art_86s"></a>
+
+### Article 86s — Independent experts
+
+**1.** Member States shall lay down rules governing at least the civil liability of the independent expert responsible for drawing up the report referred to in Article 86f.
+
+**2.** Member States shall have rules in place to ensure that:(a) the expert, or the legal person on whose behalf the expert is operating, is independent from and has no conflict of interest with the company applying for the pre-conversion certificate; and(b) the expert’s opinion is impartial and objective, and is given with a view to providing assistance to the competent authority in accordance with the independence and impartiality requirements under the law and professional standards to which the expert is subject.
+
+<a id="art_86t"></a>
+
+### Article 86t — Validity
+
+A cross-border conversion which has taken effect in compliance with the procedures transposing this Directive may not be declared null and void.
+
+The first paragraph does not affect Member States’ powers, inter alia, in relation to criminal law, the prevention and combatting of terrorist financing, social law, taxation and law enforcement, to impose measures and penalties, under national law, after the date on which the cross-border conversion took effect.
+
+<a id="art_87"></a>
+
+### Article 87 — General provisions
+
+**1.** The coordination measures laid down by this Chapter shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of company listed in Annex I.
+
+**2.** Member States need not apply this Chapter to cooperatives incorporated as one of the types of company listed in Annex I. In so far as the laws of the Member States make use of this option, they shall require such companies to include the word ‘cooperative’ in all the documents referred to in Article 26.
+
+**3.** Member States need not apply this Chapter in cases where the company or companies which are being acquired or will cease to exist are the subject of bankruptcy proceedings, proceedings relating to the winding-up of insolvent companies, judicial arrangements, compositions and analogous proceedings.
+
+**4.** Member States shall ensure that this Chapter does not apply to companies which are the subject of the application of resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU or in Title V of Regulation (EU) 2021/23.
+
+<a id="art_88"></a>
+
+### Article 88 — Rules governing mergers by acquisition and mergers by formation of a new company
+
+Member States shall, as regards companies governed by their national laws, make provision for rules governing mergers by the acquisition of one or more companies by another company and merger by the formation of a new company.
+
+<a id="art_89"></a>
+
+### Article 89 — Definition of a ‘merger by acquisition’
+
+**1.** For the purposes of this Chapter, ‘merger by acquisition’ shall mean the operation whereby one or more companies are wound up without going into liquidation and transfer to another all their assets and liabilities in exchange for the issue to the shareholders of the company or companies being acquired of shares in the acquiring company and a cash payment, if any, not exceeding 10 % of the nominal value of the shares so issued or, where they have no nominal value, of their accounting par value.
+
+**2.** A Member State's laws may provide that merger by acquisition may also be effected where one or more of the companies being acquired is in liquidation, provided that this option is restricted to companies which have not yet begun to distribute their assets to their shareholders.
+
+<a id="art_90"></a>
+
+### Article 90 — Definition of a ‘merger by the formation of a new company’
+
+**1.** For the purposes of this Chapter, ‘merger by the formation of a new company’ shall mean the operation whereby several companies are wound up without going into liquidation and transfer to a company that they set up all their assets and liabilities in exchange for the issue to their shareholders of shares in the new company and a cash payment, if any, not exceeding 10 % of the nominal value of the shares so issued or, where they have no nominal value, of their accounting par value.
+
+**2.** A Member State's laws may provide that merger by the formation of a new company may also be effected where one or more of the companies which are ceasing to exist is in liquidation, provided that this option is restricted to companies which have not yet begun to distribute their assets to their shareholders.
+
+<a id="art_91"></a>
+
+### Article 91 — Draft terms of merger
+
+**1.** The administrative or management bodies of the merging companies shall draw up draft terms of merger in writing.
+
+**2.** Draft terms of merger shall specify at least:(a) the type, name and registered office of each of the merging companies;(b) the share exchange ratio and the amount of any cash payment;(c) the terms relating to the allotment of shares in the acquiring company;(d) the date from which the holding of such shares entitles the holders to participate in profits and any special conditions affecting that entitlement;(e) the date from which the transactions of the company being acquired shall be treated for accounting purposes as being those of the acquiring company;(f) the rights conferred by the acquiring company on the holders of shares to which special rights are attached and the holders of securities other than shares, or the measures proposed concerning them;(g) any special advantage granted to the experts referred to in Article 96(1) and members of the merging companies' administrative, management, supervisory or controlling bodies.
+
+<a id="art_92"></a>
+
+### Article 92 — Publication of the draft terms of merger
+
+Draft terms of merger shall be published in the manner prescribed by the laws of the Member States in accordance with Article 16, for each of the merging companies, at least one month before the date fixed for the general meeting which is to decide thereon.
+
+Any of the merging companies shall be exempt from the publication requirement laid down in Article 16 if, for a continuous period beginning at least one month before the date fixed for the general meeting which is to decide on the draft terms of merger and ending not earlier than the conclusion of that meeting, it makes the draft terms of such merger available on its website free of charge for the public. Member States shall not subject that exemption to any requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents, and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.
+
+By way of derogation from the second paragraph of this Article, Member States may require that publication be effected via the central electronic platform referred to in Article 16(5). Member States may alternatively require that such publication be made on any other website designated by them for that purpose. Where Member States avail themselves of one of those possibilities, they shall ensure that companies are not charged a specific fee for such publication.
+
+Where a website other than the central electronic platform is used, a reference giving access to that website shall be published on the central electronic platform at least one month before the date fixed for the general meeting. That reference shall include the date of publication of the draft terms of merger on the website and shall be accessible to the public free of charge. Companies shall not be charged a specific fee for such publication.
+
+The prohibition precluding the charging of companies of a specific fee for publication, laid down in the third and fourth paragraphs, shall not affect the ability of Member States to pass on to companies the costs in respect of the central electronic platform.
+
+Member States may require companies to maintain the information for a specific period after the general meeting on their website or, where applicable, on the central electronic platform or the other website designated by the Member State concerned. Member States may determine the consequences of temporary disruption of access to the website or to the central electronic platform, caused by technical or other factors.
+
+<a id="art_93"></a>
+
+### Article 93 — Approval by the general meeting of each of the merging companies
+
+**1.** A merger shall require at least the approval of the general meeting of each of the merging companies. The laws of the Member States shall provide that this approval decision shall require a majority of not less than two thirds of the votes attached either to the shares or to the subscribed capital represented.
+
+The laws of a Member State may, however, provide that a simple majority of the votes specified in the first subparagraph shall be sufficient when at least half of the subscribed capital is represented. Moreover, where appropriate, the rules governing alterations to the memorandum and articles of association shall apply.
+
+**2.** Where there is more than one class of shares, the decision concerning a merger shall be subject to a separate vote by at least each class of shareholders whose rights are affected by the transaction.
+
+**3.** The decision shall cover both the approval of the draft terms of merger and any alterations to the memorandum and articles of association necessitated by the merger.
+
+<a id="art_94"></a>
+
+### Article 94 — Derogation from the requirement of approval by the general meeting of the acquiring company
+
+The laws of a Member State need not require approval of the merger by the general meeting of the acquiring company where the following conditions are fulfilled:
+
+(a) the publication provided for in Article 92 is effected, for the acquiring company, at least one month before the date fixed for the general meeting of the company or companies being acquired which is to decide on the draft terms of merger;
+
+(b) at least one month before the date specified in point (a), all shareholders of the acquiring company are entitled to inspect the documents specified in Article 97(1) at the registered office of the acquiring company;
+
+(c) one or more shareholders of the acquiring company holding a minimum percentage of the subscribed capital is entitled to require that a general meeting of the acquiring company be called to decide whether to approve the merger; this minimum percentage may not be fixed at more than 5 %. Member States may, however, provide for the exclusion of non-voting shares from this calculation.
+
+For the purposes of point (b) of the first paragraph, Article 97(2), (3) and (4) shall apply.
+
+<a id="art_95"></a>
+
+### Article 95 — Detailed written report and information on a merger
+
+**1.** The administrative or management bodies of each of the merging companies shall draw up a detailed written report explaining the draft terms of merger and setting out the legal and economic grounds for them, in particular the share exchange ratio.
+
+That report shall also describe any special valuation difficulties which have arisen.
+
+**2.** The administrative or management bodies of each of the companies involved shall inform the general meeting of their company, and the administrative or management bodies of the other companies involved, so that the latter may inform their respective general meetings of any material change in the assets and liabilities between the date of preparation of the draft terms of merger and the date of the general meetings which are to decide on the draft terms of merger.
+
+**3.** Member States may provide that the report referred to in paragraph 1 and/or the information referred to in paragraph 2 shall not be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.
+
+<a id="art_96"></a>
+
+### Article 96 — Examination of the draft terms of merger by experts
+
+**1.** One or more experts, acting on behalf of each of the merging companies but independent of them, appointed or approved by a judicial or administrative authority, shall examine the draft terms of merger and draw up a written report to the shareholders. However, the laws of the Member States may provide for the appointment of one or more independent experts for all the merging companies, if such appointment is made by a judicial or administrative authority at the joint request of those companies. Such experts may, depending on the laws of each Member State, be natural or legal persons or companies or firms.
+
+**2.** In the report referred to in paragraph 1, the experts shall in any case state whether in their opinion the share exchange ratio is fair and reasonable. Their statement shall at least:(a) indicate the method or methods used to arrive at the share exchange ratio proposed;(b) state whether such method or methods are adequate in the case in question, indicate the values arrived at using each such methods and give an opinion on the relative importance attributed to such methods in arriving at the value decided on.
+
+The report shall also describe any special valuation difficulties which have arisen.
+
+**3.** Each expert shall be entitled to obtain from the merging companies all relevant information and documents and to carry out all necessary investigations.
+
+**4.** Neither an examination of the draft terms of merger nor an expert report shall be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.
+
+<a id="art_97"></a>
+
+### Article 97 — Availability of documents for inspection by shareholders
+
+**1.** All shareholders shall be entitled to inspect at least the following documents at the registered office at least one month before the date fixed for the general meeting which is to decide on the draft terms of merger:(a) the draft terms of merger;(b) the annual accounts and annual reports of the merging companies for the preceding three financial years;(c) where applicable, an accounting statement drawn up on a date which shall not be earlier than the first day of the third month preceding the date of the draft terms of merger, if the latest annual accounts relate to a financial year which ended more than six months before that date;(d) where applicable, the reports of the administrative or management bodies of the merging companies provided for in Article 95;(e) where applicable, the report referred to in Article 96(1).
+
+For the purposes of point (c) of the first subparagraph, an accounting statement shall not be required if the company publishes a half-yearly financial report in accordance with Article 5 of Directive 2004/109/EC and makes it available to shareholders in accordance with this paragraph. Furthermore, Member States may provide that an accounting statement shall not be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the merger have so agreed.
+
+**2.** The accounting statement provided for in point (c) of the first subparagraph of paragraph 1 shall be drawn up using the same methods and the same layout as the last annual balance sheet.
+
+However, the laws of a Member State may provide that:
+
+(a) it is not necessary to take a fresh physical inventory;
+
+(b) the valuations shown in the last balance sheet are to be altered only to reflect entries in the books of account; the following shall nevertheless be taken into account: — interim depreciation and provisions, — material changes in actual value not shown in the books.
+
+**3.** Every shareholder shall be entitled to obtain, on request and free of charge, full or, if so desired, partial copies of the documents referred to in paragraph 1.
+
+Where a shareholder has consented to the use by the company of electronic means for conveying information, such copies may be provided by electronic mail.
+
+**4.** A company shall be exempt from the requirement to make the documents referred to in paragraph 1 available at its registered office if, for a continuous period beginning at least one month before the date fixed for the general meeting which is to decide on the draft terms of merger and ending not earlier than the conclusion of that meeting, it makes them available on its website. Member States shall not subject that exemption to any requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.
+
+Paragraph 3 shall not apply if the website gives shareholders the possibility, throughout the period referred to in the first subparagraph of this paragraph, of downloading and printing the documents referred to in paragraph 1. However, in that case Member States may provide that the company is to make those documents available at its registered office for consultation by the shareholders.
+
+Member States may require companies to maintain the information on their website for a specific period after the general meeting. Member States may determine the consequences of temporary disruption of access to the website caused by technical or other factors.
+
+<a id="art_98"></a>
+
+### Article 98 — Protection of employees' rights
+
+Protection of the rights of the employees of each of the merging companies shall be regulated in accordance with Directive 2001/23/EC.
+
+<a id="art_99"></a>
+
+### Article 99 — Protection of the interests of creditors of the merging companies
+
+**1.** The laws of the Member States shall provide for an adequate system of protection of the interests of creditors of the merging companies whose claims antedate the publication of the draft terms of merger and have not fallen due at the time of such publication.
+
+**2.** For the purposes of paragraph 1, the laws of the Member States shall at least provide that such creditors shall be entitled to obtain adequate safeguards where the financial situation of the merging companies makes such protection necessary and where those creditors do not already have such safeguards.
+
+Member States shall lay down the conditions for the protection provided for in paragraph 1 and in the first subparagraph of this paragraph. In any event, Member States shall ensure that the creditors are authorised to apply to the appropriate administrative or judicial authority for adequate safeguards provided that they can credibly demonstrate that due to the merger the satisfaction of their claims is at stake and that no adequate safeguards have been obtained from the company.
+
+**3.** Such protection may be different for the creditors of the acquiring company and for those of the company being acquired.
+
+<a id="art_100"></a>
+
+### Article 100 — Protection of the interests of debenture holders of the merging companies
+
+Without prejudice to the rules governing the collective exercise of their rights, Article 99 shall apply to the debenture holders of the merging companies, except where the merger has been approved by a meeting of the debenture holders, if such a meeting is provided for under national laws, or by the debenture holders individually.
+
+<a id="art_101"></a>
+
+### Article 101 — Protection of holders of securities, other than shares, to which special rights are attached
+
+Holders of securities, other than shares, to which special rights are attached shall be given rights in the acquiring company at least equivalent to those they possessed in the company being acquired, unless the alteration of those rights has been approved by a meeting of the holders of such securities, if such a meeting is provided for under national laws, or by the holders of those securities individually, or unless the holders are entitled to have their securities repurchased by the acquiring company.
+
+<a id="art_102"></a>
+
+### Article 102 — Drawing up and certification of documents in due legal form
+
+**1.** Where the laws of a Member State do not provide for judicial or administrative preventive supervision of the legality of mergers, or where such supervision does not extend to all the legal acts required for a merger, the minutes of the general meetings which decide on the merger and, where appropriate, the merger contract subsequent to such general meetings shall be drawn up and certified in due legal form. In cases where the merger need not be approved by the general meetings of all the merging companies, the draft terms of merger shall be drawn up and certified in due legal form.
+
+**2.** The notary or the authority competent to draw up and certify the document in due legal form shall check and certify the existence and validity of the legal acts and formalities required of the company for which that notary or authority is acting and of the draft terms of merger.
+
+<a id="art_103"></a>
+
+### Article 103 — Date on which a merger takes effect
+
+The laws of the Member States shall determine the date on which a merger takes effect.
+
+<a id="art_104"></a>
+
+### Article 104 — Publication formalities
+
+**1.** A merger shall be publicised in the manner prescribed by the laws of each Member State, in accordance with Article 16, in respect of each of the merging companies.
+
+**2.** The acquiring company may itself carry out the publication formalities relating to the company or companies being acquired.
+
+<a id="art_105"></a>
+
+### Article 105 — Consequences of a merger
+
+**1.** A merger shall have the following consequences *ipso jure* and simultaneously:(a) the transfer, both as between the company being acquired and the acquiring company and, as regards third parties, to the acquiring company of all the assets and liabilities of the company being acquired;(b) the shareholders of the company being acquired become shareholders of the acquiring company; and(c) the company being acquired ceases to exist.
+
+**2.** No shares in the acquiring company shall be exchanged for shares in the company being acquired held either:(a) by the acquiring company itself or through a person acting in his own name but on its behalf; or(b) by the company being acquired itself or through a person acting in his own name but on its behalf.
+
+**3.** The foregoing shall not affect the laws of Member States which require the completion of special formalities for the transfer of certain assets, rights and obligations by the acquired company to be effective as against third parties. The acquiring company may carry out such formalities itself; however, the laws of the Member States may permit the company being acquired to continue to carry out such formalities for a limited period which may not, save in exceptional cases, be fixed at more than six months from the date on which the merger takes effect.
+
+<a id="art_106"></a>
+
+### Article 106 — Civil liability of members of the administrative or management bodies of the company being acquired
+
+The laws of the Member States shall at least lay down rules governing the civil liability, towards the shareholders of the company being acquired, of the members of the administrative or management bodies of that company in respect of misconduct on the part of members of those bodies in preparing and implementing the merger.
+
+<a id="art_107"></a>
+
+### Article 107 — Civil liability of the experts responsible for drawing up the expert report on behalf of the company being acquired
+
+The laws of the Member States shall at least lay down rules governing the civil liability, towards the shareholders of the company being acquired, of the experts responsible for drawing up on behalf of that company the report referred to in Article 96(1), in respect of misconduct on the part of those experts in the performance of their duties.
+
+<a id="art_108"></a>
+
+### Article 108 — Conditions for nullity of a merger
+
+**1.** The laws of the Member States may lay down nullity rules for mergers in accordance with the following conditions only:(a) nullity is to be ordered in a court judgment;(b) mergers which have taken effect pursuant to Article 103 may be declared void only if there has been no judicial or administrative preventive supervision of their legality, or if they have not been drawn up and certified in due legal form, or if it is shown that the decision of the general meeting is void or voidable under national law;(c) nullification proceedings may not be initiated more than six months after the date on which the merger becomes effective as against the person alleging nullity or where the situation has been rectified;(d) where it is possible to remedy a defect liable to render a merger void, the competent court is to grant the companies involved a period of time within which to rectify the situation;(e) a judgment declaring a merger void is to be published in the manner prescribed by the laws of each Member State in accordance with Article 16;(f) where the laws of a Member State permit a third party to challenge such a judgment, that party may only do so within six months of publication of the judgment in the manner prescribed by Section 1 of Chapter III of Title I;(g) a judgment declaring a merger void does not of itself affect the validity of obligations owed by or in relation to the acquiring company which arose before the judgment was published and after the date on which the merger takes effect; and(h) companies which have been parties to a merger are jointly and severally liable in respect of the obligations of the acquiring company referred to in point (g).
+
+**2.** By way of derogation from point (a) of paragraph 1, the laws of a Member State may also provide for the nullity of a merger to be ordered by an administrative authority if an appeal against such a decision lies to a court. Point (b) and points (d) to (h) of paragraph 1shall apply by analogy to the administrative authority. Such nullification proceedings may not be initiated more than six months after the date on which the merger takes effect.
+
+**3.** The laws of the Member States on the nullity of a merger pronounced following any supervision other than judicial or administrative preventive supervision of legality shall not be affected.
+
+<a id="art_109"></a>
+
+### Article 109 — Merger by formation of a new company
+
+**1.** Articles 91, 92, 93 and 95 to 108 shall apply, without prejudice to Articles 11 and 12, to merger by formation of a new company. For this purpose, ‘merging companies’ and ‘company being acquired’ shall mean the companies which will cease to exist, and ‘acquiring company’ shall mean the new company.
+
+Article 91(2)(a) shall also apply to the new company.
+
+**2.** The draft terms of merger and, if they are contained in a separate document, the memorandum or draft memorandum of association and the articles or draft articles of association of the new company shall be approved at a general meeting of each of the companies that will cease to exist.
+
+<a id="art_110"></a>
+
+### Article 110 — Transfer of all assets and liabilities by one or more companies to another company which is the holder of all their shares
+
+Member States shall make provision, in respect of companies governed by their laws, for the operation whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company which is the holder of all their shares and other securities conferring the right to vote at general meetings. Such operations shall be regulated by the provisions of Section 2 of this Chapter. However, Member States shall not impose the requirements set out in points (b), (c) and (d) of Article 91(2), Articles 95 and 96, points (d) and (e) of Article 97(1), point (b) of Article 105(1) and Articles 106 and 107.
+
+<a id="art_111"></a>
+
+### Article 111 — Exemption from the requirement of approval by the general meeting
+
+Member States shall not apply Article 93 to the operations referred to in Article 110 if the following conditions are fulfilled:
+
+(a) the publication provided for in Article 92 is effected, as regards each company involved in the operation, at least one month before the operation takes effect;
+
+(b) at least one month before the operation takes effect, all shareholders of the acquiring company are entitled to inspect the documents referred to in points (a), (b) and (c) of Article 97(1) at the company's registered office;
+
+(c) point (c) of the first paragraph of Article 94 applies.
+
+For the purposes of point (b) of the first paragraph of this Article, Article 97(2), (3) and (4) shall apply.
+
+<a id="art_112"></a>
+
+### Article 112 — Shares held by or on behalf of the acquiring company
+
+The Member States may apply Articles 110 and 111 to operations whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company, if all the shares and other securities specified in Article 110 of the company or companies being acquired are held by the acquiring company and/or by persons holding those shares and securities in their own names but on behalf of that company.
+
+<a id="art_113"></a>
+
+### Article 113 — Merger by acquisition by a company which holds 90 % or more of the shares of a company being acquired
+
+Where a merger by acquisition is carried out by a company which holds 90 % or more, but not all, of the shares and other securities conferring the right to vote at general meetings of the company or companies being acquired, Member States shall not require approval of the merger by the general meeting of the acquiring company if the following conditions are fulfilled:
+
+(a) the publication provided for in Article 92 is effected, as regards the acquiring company, at least one month before the date fixed for the general meeting of the company or companies being acquired which is to decide on the draft terms of merger;
+
+(b) at least one month before the date specified in point (a), all shareholders of the acquiring company are entitled to inspect the documents specified in points (a) and (b) and, where applicable, points (c), (d) and (e) of Article 97(1) at the company's registered office;
+
+(c) point (c) of the first paragraph of Article 94 applies.
+
+For the purposes of point (b) of the first paragraph of this Article, Article 97(2), (3) and (4) shall apply.
+
+<a id="art_114"></a>
+
+### Article 114 — Exemption from requirements applicable to mergers by acquisition
+
+Member States shall not impose the requirements set out in Articles 95, 96 and 97 in the case of a merger within the meaning of Article 113 if the following conditions are fulfilled:
+
+(a) the minority shareholders of the company being acquired are entitled to have their shares acquired by the acquiring company;
+
+(b) if they exercise that right, they are entitled to receive consideration corresponding to the value of their shares;
+
+(c) in the event of disagreement regarding such consideration, it is possible for the value of the consideration to be determined by a court or by an administrative authority designated by the Member State for that purpose.
+
+A Member State need not apply the first paragraph if the laws of that Member State entitle the acquiring company, without a previous public takeover offer, to require all the holders of the remaining securities of the company or companies to be acquired, to sell those securities to it prior to the merger at a fair price.
+
+<a id="art_115"></a>
+
+### Article 115 — Transfer of all assets and liabilities by one or more companies to another company which is the holder of 90 % or more of their shares
+
+The Member States may apply Articles 113 and 114 to operations whereby one or more companies are wound up without going into liquidation and transfer all their assets and liabilities to another company, if 90 % or more, but not all, of the shares and other securities referred to in Article 113 of the company or companies being acquired are held by that acquiring company and/or by persons holding those shares and securities in their own names but on behalf of that company.
+
+<a id="art_116"></a>
+
+### Article 116 — Mergers with cash payment exceeding 10 %
+
+Where in the case of one of the operations referred to in Article 88 the laws of a Member State permit a cash payment to exceed 10 %, Sections 2 and 3 of this Chapter and Articles 113, 114 and 115 shall apply.
+
+<a id="art_117"></a>
+
+### Article 117 — Mergers without all of the transferring companies ceasing to exist
+
+Where the laws of a Member State permit one of the operations referred to in Articles 88, 110 and 116, without all of the transferring companies thereby ceasing to exist, Section 2, except for point (c) of Article 105(1), and Section 3 or 4 of this Chapter shall apply as appropriate.
+
+<a id="art_118"></a>
+
+### Article 118 — General provisions
+
+This Chapter shall apply to mergers of limited liability companies formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the Union, provided at least two of them are governed by the laws of different Member States (hereinafter referred to as ‘cross-border mergers’).
+
+<a id="art_119"></a>
+
+### Article 119 — Definitions
+
+For the purposes of this Chapter:
+
+(1) ‘limited liability company’, hereinafter referred to as ‘company’, means: (a) a company of a type listed in Annex II; or (b) a company with share capital and having legal personality, possessing separate assets which alone serve to cover its debts and that is subject, under the national law governing it, to conditions concerning guarantees such as are provided for by Section 2 of Chapter II of Title I and Section 1 of Chapter III of Title I for the protection of the interests of members and others;
+
+(2) ‘merger’ means an operation whereby: (a) one or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to another existing company, the acquiring company, in exchange for the issue to their members of securities or shares representing the capital of that other company and, if applicable, a cash payment not exceeding 10 % of the nominal value, or, in the absence of a nominal value, of the accounting par value of those securities or shares; or (b) two or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to a company that they form, the new company, in exchange for the issue to their members of securities or shares representing the capital of that new company and, if applicable, a cash payment not exceeding 10 % of the nominal value, or in the absence of a nominal value, of the accounting par value of those securities or shares; or (c) a company, on being dissolved without going into liquidation, transfers all its assets and liabilities to the company holding all the securities or shares representing its capital.►M3 ; or** ◄ ** (d) one or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to another existing company, the acquiring company, without the issue of any new shares by the acquiring company, provided that one person holds directly or indirectly all the shares in the merging companies or the members of the merging companies hold their securities and shares in the same proportion in all merging companies.
+
+<a id="art_120"></a>
+
+### Article 120 — Further provisions concerning scope
+
+**1.** Notwithstanding Article 119(2), this Chapter shall also apply to cross-border mergers where the law of at least one of the Member States concerned allows the cash payment referred to in Article 119(2)(a) and (b) to exceed 10 % of the nominal value, or, in the absence of a nominal value, of the accounting par value of the securities or shares representing the capital of the company resulting from the cross-border merger.
+
+**2.** Member States may decide not to apply this Chapter to cross-border mergers involving a cooperative society even in the cases where the latter would fall within the definition of a limited liability company as laid down in Article 119(1).
+
+**3.** This Chapter shall not apply to cross-border mergers involving a company the object of which is the collective investment of capital provided by the public, which operates on the principle of risk-spreading and the units of which are, at the holders' request, repurchased or redeemed, directly or indirectly, out of the assets of that company. Action taken by such a company to ensure that the stock exchange value of its units does not vary significantly from its net asset value shall be regarded as equivalent to such repurchase or redemption.
+
+**4.** Member States shall ensure that this Chapter does not apply to companies in either of the following circumstances:(a) the company is in liquidation and has begun to distribute assets to its members;▼M4(b) the company is subject to resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU or in Title V of Regulation (EU) 2021/23.
+
+**5.** Member States may decide not to apply this Chapter to companies which are:(a) the subject of insolvency proceedings or subject to preventive restructuring frameworks;(b) the subject of liquidation proceedings other than those referred to in point (a) of paragraph 4, or▼M4(c) the subject of crisis prevention measures as defined in point (101) of Article 2(1) of Directive 2014/59/EU or in point (48) of Article 2 of Regulation (EU) 2021/23.
+
+<a id="art_121"></a>
+
+### Article 121 — Conditions relating to cross-border mergers
+
+**1.** Save as otherwise provided in this Chapter,▼M3 —————▼B(b) a company taking part in a cross-border merger shall comply with the provisions and formalities of the national law to which it is subject. The laws of a Member State enabling its national authorities to oppose a given internal merger on grounds of public interest shall also be applicable to a cross-border merger where at least one of the merging companies is subject to the law of that Member State. This provision shall not apply to the extent that Article 21 of Regulation (EC) No 139/2004 is applicable.
+
+**2.** The provisions and formalities referred to in point (b) of paragraph 1 of this Article shall, in particular, include those concerning the decision-making process relating to the merger and the protection of employees as regards rights other than those governed by Article 133.
+
+<a id="art_122"></a>
+
+### Article 122 — Common draft terms of cross-border mergers
+
+The management or administrative organ of each of the merging companies shall draw up the common draft terms of a cross-border merger. The common draft terms of a cross-border merger shall include at least the following particulars:
+
+(a) for each of the merging companies, its legal form and name, and the location of its registered office, and the legal form and name proposed for the company resulting from the cross-border merger and the proposed location of its registered office;
+
+(b) the ratio applicable to the exchange of securities or shares representing the company capital and the amount of any cash payment, where appropriate;
+
+(c) the terms for the allotment of securities or shares representing the capital of the company resulting from the cross-border merger;
+
+(d) the likely repercussions of the cross-border merger on employment;
+
+(e) the date from which the holding of such securities or shares representing the company capital will entitle the holders to share in profits and any special conditions affecting that entitlement;
+
+(f) the date from which the transactions of the merging companies will be treated for accounting purposes as being those of the company resulting from the cross-border merger;
+
+(g) the rights conferred by the company resulting from the cross-border merger on members enjoying special rights or on holders of securities other than shares representing the company capital, or the measures proposed concerning them;
+
+(h) any special advantages granted to members of the administrative, management, supervisory or controlling bodies of the merging companies;
+
+(i) the instrument of constitution of the company resulting from the cross-border merger, where applicable, and the statutes if they are contained in a separate instrument;
+
+(j) where appropriate, information on the procedures by which arrangements for the involvement of employees in the definition of their rights to participation in the company resulting from the cross-border merger are determined pursuant to Article 133;
+
+(k) information on the evaluation of the assets and liabilities which are transferred to the company resulting from the cross-border merger;
+
+(l) dates of the merging companies' accounts used to establish the conditions of the cross-border merger;
+
+(m) details of the offer of cash compensation for members in accordance with Article 126a;
+
+(n) any safeguards offered to creditors, such as guarantees or pledges.
+
+<a id="art_123"></a>
+
+### Article 123 — Disclosure
+
+**1.** Member States shall ensure that the following documents are disclosed by the company and made publicly available in the register of the Member State of each of the merging companies, at least one month before the date of the general meeting referred to in Article 126:(a) the common draft terms of the cross-border merger; and(b) a notice informing the members, creditors and representatives of the employees of the merging company, or, where there are no such representatives, the employees themselves, that they may submit to their respective company, at the latest five working days before the date of the general meeting, comments concerning the common draft terms of the cross-border merger.Member States may require that the independent expert report be disclosed and made publicly available in the register.Member States shall ensure that the company is able to exclude confidential information from the disclosure of the independent expert report.The documents disclosed in accordance with this paragraph shall also be accessible through the system of interconnection of registers.
+
+**2.** Member States may exempt merging companies from the disclosure requirement referred to in paragraph 1 of this Article where, for a continuous period beginning at least one month before the date fixed for the general meeting referred to in Article 126 and ending not earlier than the conclusion of that meeting, those companies make the documents referred to in paragraph 1 of this Article available on their websites free of charge to the public.
+
+However, Member States shall not subject that exemption to any requirements or constraints other than those which are necessary to ensure the security of the website and the authenticity of the documents, and which are proportionate to achieving those objectives.
+
+**3.** Where merging companies make the common draft terms of the cross-border merger available in accordance with paragraph 2 of this Article, they shall submit to their respective register, at least one month before the date of the general meeting referred to in Article 126, the following information:(a) for each of the merging companies its legal form and name and the location of its registered office and the legal form and name proposed for any newly created company and the proposed location of its registered office;(b) the register in which the documents referred to in Article 14 are filed in respect of each of the merging companies, and the registration number of the respective company in that register;(c) an indication, for each of the merging companies, of the arrangements made for the exercise of the rights of creditors, employees and members; and(d) details of the website from which the common draft terms of the cross-border merger, the notice referred to in paragraph 1, the independent expert report and complete information on the arrangements referred to in point (c) of this paragraph may be obtained online and free of charge.The register of the Member State of each of the merging companies shall make publicly available the information referred to in points (a) to (d) of the first subparagraph.
+
+**4.** Member States shall ensure that the requirements referred to in paragraphs 1 and 3 can be fulfilled fully online without the necessity for the applicants to appear in person before any competent authority in the Member States of the merging companies, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** Where the approval of the merger is not required by the general meeting of the acquiring company in accordance with Article 126(3), the disclosure referred to in paragraphs 1, 2 and 3 of this Article shall be made at least one month before the date of the general meeting of the other merging company or companies.
+
+**6.** Member States may require, in addition to the disclosure referred to in paragraphs 1, 2 and 3 of this Article, that the common draft terms of the cross-border merger, or the information referred to in paragraph 3 of this Article, be published in their national gazette or through a central electronic platform in accordance with Article 16(3). In that instance, Member States shall ensure that the register transmits the relevant information to the national gazette or to a central electronic platform.
+
+**7.** Member States shall ensure that the documentation referred to in paragraph 1 or the information referred to in paragraph 3 is accessible to the public free of charge through the system of interconnection of registers.
+
+Member States shall further ensure that any fees charged to the company by the registers for the disclosure referred to in paragraphs 1 and 3 and, where applicable, for the publication referred to in paragraph 6 do not exceed the recovery of the cost of providing such services.
+
+<a id="art_124"></a>
+
+### Article 124 — Report of the administrative or management body for members and employees
+
+**1.** The administrative or management body of each of the merging companies shall draw up a report for members and employees explaining and justifying the legal and economic aspects of the cross-border merger, as well as explaining the implications of the cross-border merger for employees.
+
+It shall, in particular, explain the implications of the cross-border merger for the future business of the company.
+
+**2.** The report shall also include a section for members and a section for employees.
+
+The company may decide either to draw up one report containing those two sections or to draw up separate reports for members and employees, respectively, containing the relevant section.
+
+**3.** The section of the report for members shall, in particular, explain the following:(a) the cash compensation and the method used to determine the cash compensation;(b) the share exchange ratio and the method or methods used to arrive at the share exchange ratio, where applicable;(c) the implications of the cross-border merger for members;(d) the rights and remedies available to members in accordance with Article 126a.
+
+**4.** The section of the report for members shall not be required where all the members of the company have agreed to waive that requirement. Member States may exclude single-member companies from the provisions of this Article.
+
+**5.** The section of the report for employees shall, in particular, explain the following:(a) the implications of the cross-border merger for employment relationships, as well as, where applicable, any measures for safeguarding those relationships;(b) any material changes to the applicable conditions of employment or to the location of the company’s places of business;(c) how the factors set out in points (a) and (b) affect any subsidiaries of the company.
+
+**6.** The report or reports shall be made available in any case electronically, together with the common draft terms of the cross-border merger, if available, to the members and to the representatives of the employees of each of the merging companies or, where there are no such representatives, to the employees themselves, not less than six weeks before the date of the general meeting referred to in Article 126.
+
+However, where the approval of the merger is not required by the general meeting of the acquiring company in accordance with Article 126(3), the report shall be made available at least six weeks before the date of the general meeting of the other merging company or companies.
+
+**7.** Where the administrative or management body of the merging company receives an opinion on the information referred to in paragraphs 1 and 5 in good time from the representatives of the employees or, where there are no such representatives, from the employees themselves, as provided for under national law, the members shall be informed thereof and that opinion shall be appended to the report.
+
+**8.** The section of the report for employees shall not be required where a merging company and its subsidiaries, if any, have no employees other than those who form part of the administrative or management body.
+
+**9.** Where the section of the report for members referred to in paragraph 3 is waived in accordance with paragraph 4 and the section for employees referred to in paragraph 5 is not required under paragraph 8, the report shall not be required.
+
+**10.** Paragraphs 1 to 9 of this Article shall be without prejudice to the applicable information and consultation rights and procedures provided for at national level following the transposition of Directives 2002/14/EC and 2009/38/EC.
+
+<a id="art_125"></a>
+
+### Article 125 — Independent expert report
+
+**1.** An independent expert report intended for members and made available not less than one month before the date of the general meeting referred to in Article 126 shall be drawn up for each merging company. Depending on the law of each Member State, such experts may be natural persons or legal persons.
+
+However, where the approval of the merger is not required by the general meeting of the acquiring company in accordance with Article 126(3), the report shall be made available at least one month before the date of the general meeting of the other merging company or companies.
+
+**2.** As an alternative to experts operating on behalf of each of the merging companies, one or more independent experts, appointed for that purpose at the joint request of the companies by a judicial or administrative authority in the Member State of one of the merging companies or of the company resulting from the cross-border merger or approved by such an authority, may examine the common draft terms of cross-border merger and draw up a single written report to all the members.
+
+**3.** The report referred to in paragraph 1 shall in any case include the expert’s opinion as to whether the cash compensation and the share exchange ratio are adequate. When assessing the cash compensation, the expert shall consider any market price of the shares in the merging companies prior to the announcement of the merger proposal or the value of the companies excluding the effect of the proposed merger, as determined in accordance with generally accepted valuation methods. The report shall at least:(a) indicate the method or methods used to determine the cash compensation proposed;(b) indicate the method or methods used to arrive at the share exchange ratio proposed;(c) state whether the method or methods used are adequate for the assessment of the cash compensation and the share exchange ratio, indicate the value arrived at using such methods and give an opinion on the relative importance attributed to those methods in arriving at the value decided on, and in the event that different methods are used in the merging companies, state also whether the use of different methods was justified; and(d) describe any special valuation difficulties which have arisen.The expert shall be entitled to obtain from the merging companies all information necessary for the discharge of the duties of the expert.
+
+**4.** Neither an examination of the common draft terms of cross-border merger by independent experts nor an expert report shall be required if all the members of each of the companies involved in the cross-border merger have so agreed.
+
+Member States may exclude single-member companies from the application of this Article.
+
+<a id="art_126"></a>
+
+### Article 126 — Approval by the general meeting
+
+**1.** After taking note of the reports referred to in Articles 124 and 125, where applicable, employees’ opinions submitted in accordance with Article 124 and comments submitted in accordance with Article 123, the general meeting of each of the merging companies shall decide, by means of a resolution, whether to approve the common draft terms of the cross-border merger and whether to adapt the instrument of constitution, and the statutes if they are contained in a separate instrument.
+
+**2.** The general meeting of each of the merging companies may reserve the right to make implementation of the cross-border merger conditional on express ratification by it of the arrangements decided on with respect to the participation of employees in the company resulting from the cross-border merger.
+
+**3.** The laws of a Member State need not require approval of the merger by the general meeting of the acquiring company if the conditions laid down in Article 94 are fulfilled.
+
+**4.** Member States shall ensure that the approval of the cross-border merger by the general meeting cannot be challenged solely on the following grounds:(a) the share exchange ratio referred to in point (b) of Article 122 has been inadequately set;(b) the cash compensation referred to in point (m) of Article 122 has been inadequately set; or(c) the information given with regard to the share exchange ratio referred to in point (a) or the cash compensation referred to in point (b) did not comply with the legal requirements.
+
+<a id="art_126a"></a>
+
+### Article 126a — Protection of members
+
+**1.** Member States shall ensure that at least the members of the merging companies who voted against the approval of the common draft-terms of the cross-border merger have the right to dispose of their shares for adequate cash compensation, under the conditions laid down in paragraphs 2 to 6, provided that as a result of the merger they would acquire shares in the company resulting from the merger which would be governed by the law of a Member State other than the Member State of their respective merging company.
+
+Member States may also provide for other members of the merging companies to have the right referred to in the first subparagraph.
+
+Member States may require that express opposition to the common draft terms of the cross-border merger, the intention of members to exercise their right to dispose of their shares, or both, be appropriately documented, at the latest at the general meeting referred to in Article 126. Member States may allow the recording of opposition to the common draft terms of the cross-border merger to be considered proper documentation of a negative vote.
+
+**2.** Member States shall establish the period within which the members referred to in paragraph 1 have to declare to the merging company concerned their decision to exercise the right to dispose of their shares. That period shall not exceed one month after the general meeting referred to in Article 126. Member States shall ensure that the merging companies provide an electronic address for receiving that declaration electronically.
+
+**3.** Member States shall further establish the period within which the cash compensation specified in the common draft terms of the cross-border merger is to be paid. That period shall not end later than two months after the cross-border merger takes effect in accordance with Article 129.
+
+**4.** Member States shall ensure that any members who have declared their decision to exercise the right to dispose of their shares, but who consider that the cash compensation offered by the merging company concerned has not been adequately set, are entitled to claim additional cash compensation before the competent authority or body mandated under national law. Member States shall establish a time limit for the claim for additional cash compensation.
+
+Member States may provide that the final decision to provide additional cash compensation is valid for all members of the merging company concerned who have declared their decision to exercise the right to dispose of their shares in accordance with paragraph 2.
+
+**5.** Member States shall ensure that the law of the Member State to which a merging company is subject governs the rights referred to in paragraphs 1 to 4 and that the exclusive competence to resolve any disputes relating to those rights lies within the jurisdiction of that Member State.
+
+**6.** Member States shall ensure that members of the merging companies who did not have or did not exercise the right to dispose of their shares, but who consider that the share exchange ratio set out in the common draft terms of the cross-border merger is inadequate, may dispute that ratio and claim a cash payment. Proceedings in that regard shall be initiated before the competent authority or body mandated under the law of the Member State to which the relevant merging company is subject, within the time limit laid down in that national law and such proceedings shall not prevent the registration of the cross-border merger. The decision shall be binding on the company resulting from the cross-border merger.
+
+Member States may also provide that the share exchange ratio as established in that decision is valid for any members of the merging company concerned who did not have or did not exercise their right to dispose of their shares.
+
+**7.** Member States may also provide that the company resulting from the cross-border merger can provide shares or other compensation instead of a cash payment.
+
+<a id="art_126b"></a>
+
+### Article 126b — Protection of creditors
+
+**1.** Member States shall provide for an adequate system of protection of the interests of creditors whose claims antedate the disclosure of the common draft terms of the cross‐border merger and have not fallen due at the time of such disclosure.
+
+Member States shall ensure that creditors who are dissatisfied with the safeguards offered in the common draft terms of the cross-border merger, as provided for in point (n) of Article 122, may apply, within three months of the disclosure of the common draft terms of the cross-border merger referred to in Article 123, to the appropriate administrative or judicial authority for adequate safeguards, provided that such creditors can credibly demonstrate that, due to the cross-border merger, the satisfaction of their claims is at stake and that they have not obtained adequate safeguards from the merging companies.
+
+Member States shall ensure that the safeguards are conditional on the cross-border merger taking effect in accordance with Article 129.
+
+**2.** Member States may require that the administrative or management body of each of the merging companies provides a declaration that accurately reflects its current financial status at a date no earlier than one month before the disclosure of that declaration. The declaration shall state that, on the basis of the information available to the administrative or management body of the merging companies at the date of that declaration, and after having made reasonable enquiries, that administrative or management body is unaware of any reason why the company resulting from the merger would be unable to meet its liabilities when those liabilities fall due. The declaration shall be disclosed together with the common draft terms of the cross-border merger in accordance with Article 123.
+
+**3.** Paragraphs 1 and 2 shall be without prejudice to the application of the laws of the Member States of the merging companies concerning the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies.
+
+<a id="art_126c"></a>
+
+### Article 126c — Employee information and consultation
+
+**1.** Member States shall ensure that employees’ rights to information and consultation are respected in relation to the cross-border merger and are exercised in accordance with the legal framework provided for in Directive 2002/14/EC, and Directive 2001/23/EC where the cross-border merger is considered to be a transfer of an undertaking within the meaning of Directive 2001/23/EC, and, where applicable for Community-scale undertakings or Community-scale groups of undertakings, in accordance with Directive 2009/38/EC. Member States may decide that employees’ rights to information and consultation apply with respect to the employees of companies other than those referred to in Article 3(1) of Directive 2002/14/EC.
+
+**2.** Notwithstanding point (b) of Article 123(1) and Article 124(7), Member States shall ensure that employees’ rights to information and consultation are respected, at least before the common draft terms of the cross-border merger or the report referred to in Article 124 are decided upon, whichever is earlier, in such a way that a reasoned response is given to the employees before the general meeting referred to in Article 126.
+
+**3.** Without prejudice to any provisions or practices in force more favourable to employees, Member States shall determine the practical arrangements for exercising the right to information and consultation in accordance with Article 4 of Directive 2002/14/EC.
+
+<a id="art_127"></a>
+
+### Article 127 — Pre-merger certificate
+
+**1.** Member States shall designate the court, notary or other authority or authorities competent to scrutinise the legality of cross-border mergers as regards those parts of the procedure which are governed by the law of the Member State of the merging company and to issue a pre-merger certificate attesting to compliance with all relevant conditions and to the proper completion of all procedures and formalities in the Member State of the merging company (‘the competent authority’).
+
+Such completion of procedures and formalities may comprise the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies or compliance with specific sectoral requirements, including securing obligations arising from ongoing proceedings.
+
+**2.** Member States shall ensure that the application to obtain a pre-merger certificate by the merging company is accompanied by the following:(a) the common draft terms of the cross-border merger;(b) the report and the appended opinion, if any, referred to in Article 124, as well as the report referred to in Article 125, where they are available;(c) any comments submitted in accordance with Article 123(1); and(d) information on the approval by the general meeting referred to in Article 126.
+
+**3.** Member States may require that the application to obtain a pre-merger certificate by the merging company is accompanied by additional information, such as, in particular:(a) the number of employees at the time of the drawing up of the common draft terms of the cross-border merger;(b) the existence of subsidiaries and their respective geographical location;(c) information regarding the satisfaction of obligations due to public bodies by the merging company.For the purposes of this paragraph, competent authorities may request such information, if not provided by the merging company, from other relevant authorities.
+
+**4.** Member States shall ensure that the application referred to in paragraphs 2 and 3, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the competent authority, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** In respect of compliance with the rules concerning employee participation as laid down in Article 133, the competent authority in the Member State of the merging company shall verify that the common draft terms of the cross-border merger include information on the procedures by which the relevant arrangements are determined and on the possible options for such arrangements.
+
+**6.** As part of the scrutiny referred to in paragraph 1, the competent authority shall examine the following:(a) all documents and information submitted to the competent authority in accordance with paragraphs 2 and 3;(b) an indication by the merging companies that the procedure referred to in Article 133(3) and (4) has started, where relevant.
+
+**7.** Member States shall ensure that the scrutiny referred to in paragraph 1 is carried out within three months of the date of receipt of the documents and information concerning the approval of the cross-border merger by the general meeting of the merging company. That scrutiny shall have one of the following outcomes:(a) where it is determined that the cross-border merger complies with all the relevant conditions and that all necessary procedures and formalities have been completed, the competent authority shall issue the pre-merger certificate;(b) where it is determined that the cross-border merger does not comply with all the relevant conditions or that not all necessary procedures and formalities have been completed, the competent authority shall not issue the pre-merger certificate and shall inform the company of the reasons for its decision; in that case, the competent authority may give the company the opportunity to fulfil the relevant conditions or to complete the procedures and formalities within an appropriate period of time.
+
+**8.** Member States shall ensure that the competent authority does not issue the pre‐merger certificate where it is determined in compliance with national law that a cross-border merger is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes.
+
+**9.** Where the competent authority, during the scrutiny referred to in paragraph 1, has serious doubts indicating that the cross-border merger is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes, it shall take into consideration relevant facts and circumstances, such as, where relevant and not considered in isolation, indicative factors of which the competent authority has become aware, in the course of the scrutiny referred to in paragraph 1, including through consultation of relevant authorities. The assessment for the purposes of this paragraph shall be conducted on a case-by-case basis, through a procedure governed by national law.
+
+**10.** Where it is necessary for the purposes of the assessment under paragraphs 8 and 9 to take into account additional information or to perform additional investigative activities, the period of three months provided for in paragraph 7 may be extended by a maximum of three months.
+
+**11.** Where, due to the complexity of the cross-border procedure, it is not possible to carry out the assessment within the deadlines provided for in paragraphs 7 and 10, Member States shall ensure that the applicant is notified of the reasons for any delay before the expiry of those deadlines.
+
+**12.** Member States shall ensure that the competent authority may consult other relevant authorities with competence in the different fields concerned by the cross-border merger, including those of the Member State of the company resulting from the merger, and obtain from those authorities and from the merging company information and documents necessary to scrutinise the legality of the cross-border merger, within the procedural framework laid down in national law. For the purposes of the assessment, the competent authority may have recourse to an independent expert.
+
+<a id="art_127a"></a>
+
+### Article 127a — Transmission of the pre-merger certificate
+
+**1.** Member States shall ensure that the pre-merger certificate is shared with the authorities referred to in Article 128(1) through the system of interconnection of registers.
+
+Member States shall also ensure that the pre-merger certificate is available through the system of interconnection of registers.
+
+**2.** Access to the pre-merger certificate shall be free of charge for the authorities referred to in Article 128(1) and for the registers.
+
+<a id="art_128"></a>
+
+### Article 128 — Scrutiny of the legality of the cross-border merger
+
+**1.** Each Member State shall designate the court, notary or other authority competent to scrutinise the legality of the cross-border merger as regards that part of the procedure which concerns the completion of the cross-border merger and, where appropriate, the formation of a new company resulting from the cross-border merger where the company created by the cross-border merger is subject to its national law. The said authority shall in particular ensure that the merging companies have approved the common draft terms of cross-border merger in the same terms and, where appropriate, that arrangements for employee participation have been determined in accordance with Article 133.
+
+**2.** For the purposes of paragraph 1 of this Article, each merging company shall submit to the authority referred to in paragraph 1 of this Article the common draft terms of the cross-border merger approved by the general meeting referred to in Article 126 or, in the event that the approval by the general meeting is not required in accordance with Article 132(3), the common draft terms of the cross-border merger approved by each merging company in accordance with national law.
+
+**3.** Each Member State shall ensure that any application for the purposes of paragraph 1, by any of the merging companies, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the authority referred to in paragraph 1, in accordance with the relevant provisions of Chapter III of Title I.
+
+**4.** The authority referred to in paragraph 1 shall approve the cross-border merger as soon as it has determined that all relevant conditions have been fulfilled.
+
+**5.** The pre-merger certificate shall be accepted by the authority referred to in paragraph 1 as conclusively attesting to the proper completion of the applicable pre-merger procedures and formalities in its respective Member State, without which the cross-border merger cannot be approved.
+
+<a id="art_129"></a>
+
+### Article 129 — Date on which the cross-border merger takes effect
+
+The law of the Member State to whose jurisdiction the company resulting from the cross-border merger is subject shall determine the date on which the cross-border merger takes effect. That date shall be after the scrutiny referred to in Article 128 has been carried out.
+
+<a id="art_130"></a>
+
+### Article 130 — Registration
+
+**1.** The laws of the Member States of the merging companies and of the company resulting from the merger shall determine, with regard to their respective territories, the arrangements, in accordance with Article 16, for disclosing the completion of the cross-border merger in their registers.
+
+**2.** Member States shall ensure that at least the following information is entered in their registers:(a) in the register of the Member State of the company resulting from the merger, that the registration of the company resulting from the merger is the result of a cross-border merger;(b) in the register of the Member State of the company resulting from the merger, the date of registration of the company resulting from the merger;(c) in the register of the Member State of each merging company, that the striking off or removal of the merging company from the register is the result of a cross-border merger;(d) in the register of the Member State of each merging company, the date of striking off or removal of the merging company from the register;(e) in the registers of the Member States of each merging company and of the Member State of the company resulting from the merger, respectively, the registration number, name and legal form of each merging company and of the company resulting from the merger.The registers shall make the information referred to in the first subparagraph publicly available and accessible through the system of interconnection of registers.
+
+**3.** Member States shall ensure that the register in the Member State of the company resulting from the cross-border merger notifies the register in the Member State of each of the merging companies, through the system of interconnection of registers, that the cross-border merger has taken effect. Member States shall also ensure that the registration of the merging company is struck off or removed from the register immediately upon receipt of that notification.
+
+<a id="art_131"></a>
+
+### Article 131 — Consequences of a cross-border merger
+
+**1.** A cross-border merger carried out as laid down in subpoints (a), (c) and (d) of point (2) of Article 119 shall, from the date referred to in Article 129, have the following consequences:(a) all the assets and liabilities of the company being acquired, including all contracts, credits, rights and obligations, shall be transferred to the acquiring company;(b) the members of the company being acquired shall become members of the acquiring company, unless they have disposed of their shares as referred to in Article 126a(1);(c) the company being acquired shall cease to exist.
+
+**2.** A cross-border merger carried out as laid down in subpoint (b) of point 2 Article 119 shall, from the date referred to in Article 129, have the following consequences:▼M3(a) all the assets and liabilities of the merging companies, including all contracts, credits, rights and obligations, shall be transferred to the new company;(b) the members of the merging companies shall become members of the new company, unless they have disposed of their shares as referred to in Article 126a(1);▼B(c) the merging companies shall cease to exist.
+
+**3.** Where, in the case of a cross-border merger of companies covered by this Chapter, the laws of the Member States require the completion of special formalities before the transfer of certain assets, rights and obligations by the merging companies becomes effective against third parties, those formalities shall be carried out by the company resulting from the cross-border merger.
+
+**4.** The rights and obligations of the merging companies arising from contracts of employment or from employment relationships and existing at the date on which the cross-border merger takes effect shall, by reason of that cross-border merger taking effect, be transferred to the company resulting from the cross-border merger on the date on which the cross-border merger takes effect.
+
+**5.** No shares in the acquiring company shall be exchanged for shares in the company being acquired held either:(a) by the acquiring company itself or through a person acting in his or her own name but on its behalf;(b) by the company being acquired itself or through a person acting in his or her own name but on its behalf.
+
+<a id="art_132"></a>
+
+### Article 132 — Simplified formalities
+
+**1.** Where a cross-border merger by acquisition is carried out either by a company which holds all the shares and other securities conferring the right to vote at general meetings of the company or companies being acquired or by a person who holds directly or indirectly all the shares in the acquiring company and in the company or companies being acquired, and the acquiring company does not allot any shares under the merger:— points (b), (c), (e) and (m) of Article 122, Article 125, and point (b) of Article 131(1) shall not apply;— Article 124 and Article 126(1) shall not apply to the company or companies being acquired.
+
+**2.** Where a cross-border merger by acquisition is carried out by a company which holds 90 % or more, but not all, of the shares and other securities conferring the right to vote at general meetings of the company or companies being acquired, reports by an independent expert or experts and the documents necessary for scrutiny shall be required only to the extent that the national law governing either the acquiring company or the company or companies being acquired so requires, in accordance with Chapter I of Title II.
+
+**3.** Where the laws of the Member States of all of the merging companies provide for the exemption from the approval by the general meeting in accordance with Article 126(3) and paragraph 1 of this Article, the common draft terms of cross-border merger or the information referred to in Article 123(1) to (3) respectively and the reports referred to in Articles 124 and 125, shall be made available at least one month before the decision on the merger is taken by the company in accordance with national law.
+
+<a id="art_133"></a>
+
+### Article 133 — Employee participation
+
+**1.** Without prejudice to paragraph 2, the company resulting from the cross-border merger shall be subject to the rules in force concerning employee participation, if any, in the Member State where it has its registered office.
+
+**2.** However, the rules in force concerning employee participation, if any, in the Member State where the company resulting from the cross-border merger has its registered office shall not apply where at least one of the merging companies has, in the six months prior to the disclosure of the common draft terms of the cross-border merger, an average number of employees equivalent to four fifths of the applicable threshold, as laid down in the law of the Member State to whose jurisdiction the merging company is subject, for triggering the participation of employees within the meaning of point (k) of Article 2 of Directive 2001/86/EC, or where the national law applicable to the company resulting from the cross-border merger does not:▼B(a) provide for at least the same level of employee participation as operated in the relevant merging companies, measured by reference to the proportion of employee representatives amongst the members of the administrative or supervisory organ or their committees or of the management group which covers the profit units of the company, subject to employee representation; or(b) provide for employees of establishments of the company resulting from the cross-border merger that are situated in other Member States the same entitlement to exercise participation rights as is enjoyed by those employees employed in the Member State where the company resulting from the cross-border merger has its registered office.
+
+**3.** In the cases referred to in paragraph 2, the participation of employees in the company resulting from the cross-border merger and their involvement in the definition of such rights shall be regulated by the Member States, *mutatis mutandis* and subject to paragraphs 4 to 7, in accordance with the principles and procedures laid down in Article 12(2), (3) and (4) of Regulation (EC) No 2157/2001 and the following provisions of Directive 2001/86/EC:(a) Article 3(1), (2) and (3), the first indent of the first subparagraph of Article 3(4), the second subparagraph of Article 3(4) and Article 3(5) and (7);(b) Article 4(1), Article 4(2)(a), (g) and (h) and Article 4(3);(c) Article 5;(d) Article 6;(e) Article 7(1), point (b) of the first subparagraph of Article 7(2), the second subparagraph of Article 7(2) and Article 7(3). However, for the purposes of this Chapter, the percentages required by point (b) of the first subparagraph of Article 7(2) of Directive 2001/86/EC for the application of the standard rules contained in Part 3 of the Annex to that Directive shall be raised from 25 to 33 1/3 %;(f) Articles 8, 10 and 12;(g) Article 13(4);(h) point (b) of Part 3 of the Annex.
+
+**4.** When regulating the principles and procedures referred to in paragraph 3, Member States:▼M3(a) shall confer on the relevant bodies of the merging companies, in the event that at least one of the merging companies is operating under an employee participation system within the meaning of point (k) of Article 2 of Directive 2001/86/EC, the right to choose without any prior negotiation to be directly subject to the standard rules for participation referred to in point (b) of Part 3 of the Annex to that Directive, as laid down by the legislation of the Member State in which the company resulting from the cross-border merger is to have its registered office, and to abide by those rules from the date of registration;▼B(b) shall confer on the special negotiating body the right to decide, by a majority of two thirds of its members representing at least two thirds of the employees, including the votes of members representing employees in at least two different Member States, not to open negotiations or to terminate negotiations already opened and to rely on the rules on participation in force in the Member State where the registered office of the company resulting from the cross-border merger will be situated;(c) may, in the case where, following prior negotiations, standard rules for participation apply and notwithstanding such rules, decide to limit the proportion of employee representatives in the administrative organ of the company resulting from the cross-border merger. However, if in one of the merging companies employee representatives constituted at least one third of the administrative or supervisory board, the limitation may never result in a lower proportion of employee representatives in the administrative organ than one third.
+
+**5.** The extension of participation rights to employees of the company resulting from the cross-border merger employed in other Member States, referred to in point (b) of paragraph 2, shall not entail any obligation for Member States which choose to do so to take those employees into account when calculating the size of workforce thresholds giving rise to participation rights under national law.
+
+**6.** Where at least one of the merging companies is operating under an employee participation system and the company resulting from the cross-border merger is to be governed by such a system in accordance with the rules referred to in paragraph 2, that company shall be obliged to take a legal form allowing for the exercise of participation rights.
+
+**7.** Where the company resulting from the cross-border merger is operating under an employee participation system, that company shall be obliged to take measures to ensure that employees' participation rights are protected in the event of any subsequent conversion, merger or division, be it cross-border or domestic, for a period of four years after the cross-border merger has taken effect, by applying *mutatis mutandis* the rules laid down in paragraphs 1 to 6.
+
+**8.** A company shall communicate to its employees or their representatives whether it chooses to apply standard rules for participation referred to in point (h) of paragraph 3 or whether it enters into negotiations within the special negotiating body. In the latter case, the company shall communicate to its employees or their representatives the outcome of the negotiations without undue delay.
+
+<a id="art_133a"></a>
+
+### Article 133a — Independent experts
+
+**1.** Member States shall lay down rules governing at least the civil liability of the independent expert responsible for drawing up the report referred to in Article 125.
+
+**2.** Member States shall have rules in place to ensure that:(a) the expert, or the legal person on whose behalf the expert is operating, is independent from and has no conflict of interest with the company applying for the pre-merger certificate; and(b) the expert’s opinion is impartial and objective, and is given with a view to providing assistance to the competent authority in accordance with the independence and impartiality requirements under the law and professional standards to which the expert is subject.
+
+<a id="art_134"></a>
+
+### Article 134 — Validity
+
+A cross-border merger which has taken effect as provided for in Article 129 may not be declared null and void.
+
+The first paragraph does not affect Member States' powers, inter alia, in relation to criminal law, the prevention and combatting of terrorist financing, social law, taxation and law enforcement, to impose measures and penalties, under national law, after the date on which the cross-border merger took effect.
+
+<a id="art_135"></a>
+
+### Article 135 — General provisions on division operations
+
+**1.** Where Member States permit the types of companies listed in Annex I coming under their laws to carry out division operations by acquisition as defined in Article 136, they shall make those operations subject to Section 2 of this Chapter.
+
+**2.** Where Member States permit the types of companies referred to in paragraph 1 to carry out division operations by the formation of new companies as defined in Article 155, they shall make those operations subject to Section 3 of this Chapter.
+
+**3.** Where Member States permit the types of companies referred to in paragraph 1 to carry out operations, whereby a division by acquisition as defined in Article 136(1) is combined with a division by the formation of one or more new companies as defined in Article 155(1), they shall make those operations subject to Section 2 of this Chapter and Article 156.
+
+**4.** Article 87(2), (3) and (4) shall apply.
+
+<a id="art_136"></a>
+
+### Article 136 — Definition of a ‘division by acquisition’
+
+**1.** For the purposes of this Chapter, ‘division by acquisition’ shall mean the operation whereby, after being wound up without going into liquidation, a company transfers to more than one company all its assets and liabilities in exchange for the allocation to the shareholders of the company being divided of shares in the companies receiving contributions as a result of the division (hereinafter referred to as ‘recipient companies’) and possibly a cash payment not exceeding 10 % of the nominal value of the shares allocated or, where they have no nominal value, of their accounting par value.
+
+**2.** Article 89(2) shall apply.
+
+**3.** In so far as this Chapter refers to provisions of Chapter I of Title II, the term ‘merging companies’ shall mean ‘the companies involved in a division’, the term ‘company being acquired’ shall mean ‘the company being divided’, the term ‘acquiring company’ shall mean ‘each of the recipient companies’ and the term ‘draft terms of merger’ shall mean ‘draft terms of division’.
+
+<a id="art_137"></a>
+
+### Article 137 — Draft terms of division
+
+**1.** The administrative or management bodies of the companies involved in a division shall draw up draft terms of division in writing.
+
+**2.** Draft terms of division shall specify at least:(a) the type, name and registered office of each of the companies involved in the division;(b) the share exchange ratio and the amount of any cash payment;(c) the terms relating to the allotment of shares in the recipient companies;(d) the date from which the holding of such shares entitles the holders to participate in profits and any special conditions affecting that entitlement;(e) the date from which the transactions of the company being divided shall be treated for accounting purposes as being those of one or other of the recipient companies;(f) the rights conferred by the recipient companies on the holders of shares to which special rights are attached and the holders of securities other than shares, or the measures proposed concerning them;(g) any special advantage granted to the experts referred to in Article 142(1) and members of the administrative, management, supervisory or controlling bodies of the companies involved in the division;(h) the precise description and allocation of the assets and liabilities to be transferred to each of the recipient companies;(i) the allocation to the shareholders of the company being divided of shares in the recipient companies and the criterion upon which such allocation is based.
+
+**3.** Where an asset is not allocated by the draft terms of division and where the interpretation of those terms does not make a decision on its allocation possible, the asset or the consideration therefor shall be allocated to all the recipient companies in proportion to the share of the net assets allocated to each of those companies under the draft terms of division.
+
+Where a liability is not allocated by the draft terms of division and where the interpretation of those terms does not make a decision on its allocation possible, each of the recipient companies shall be jointly and severally liable for it. Member States may provide that such joint and several liability be limited to the net assets allocated to each company.
+
+<a id="art_138"></a>
+
+### Article 138 — Publication of the draft terms of division
+
+Draft terms of division shall be published in the manner prescribed by the laws of each Member State in accordance with Article 16 for each of the companies involved in a division, at least one month before the date of the general meeting which is to decide thereon.
+
+Any of the companies involved in the division shall be exempt from the publication requirement laid down in Article 16 if, for a continuous period beginning at least one month before the date fixed for the general meeting which is to decide on the draft terms of division and ending not earlier than the conclusion of that meeting, it makes the draft terms of division available on its website free of charge for the public. Member States shall not subject that exemption to any requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.
+
+By way of derogation from the second paragraph, Member States may require that publication be effected via the central electronic platform referred to in Article 16(5). Member States may alternatively require that such publication be made on any other website designated by them for that purpose. Where Member States avail themselves of one of those possibilities, they shall ensure that companies are not charged a specific fee for such publication.
+
+Where a website other than the central electronic platform is used, a reference giving access to that website shall be published on that central electronic platform at least one month before the date fixed for the general meeting. That reference shall include the date of publication of the draft terms of division on the website and shall be accessible to the public free of charge. Companies shall not be charged a specific fee for such publication.
+
+The prohibition precluding the charging to companies of a specific fee for publication, laid down in the third and fourth paragraphs, shall not affect the ability of Member States to pass on to companies the costs in respect of the central electronic platform.
+
+Member States may require companies to maintain the information for a specific period after the general meeting on their website or, where applicable, on the central electronic platform or the other website designated by the Member State concerned. Member States may determine the consequences of temporary disruption of access to the website or to the central electronic platform, caused by technical or other factors.
+
+<a id="art_139"></a>
+
+### Article 139 — Approval by the general meeting of each company involved in a division
+
+**1.** A division shall require at least the approval of a general meeting of each company involved in the division. Article 93 shall apply with regard to the majority required for such decisions, their scope and the need for separate votes.
+
+**2.** Where shares in the recipient companies are allocated to the shareholders of the company being divided otherwise than in proportion to their rights in the capital of that company, Member States may provide that the minority shareholders of that company may exercise the right to have their shares purchased. In such case, they shall be entitled to receive consideration corresponding to the value of their shares. In the event of a dispute concerning such consideration, it shall be possible for the consideration to be determined by a court.
+
+<a id="art_140"></a>
+
+### Article 140 — Derogation from the requirement of approval by the general meeting of a recipient company
+
+The laws of a Member State need not require approval of a division by a general meeting of a recipient company if the following conditions are fulfilled:
+
+(a) the publication provided for in Article 138 is effected, for each recipient company, at least one month before the date fixed for the general meeting of the company being divided which is to decide on the draft terms of division;
+
+(b) at least one month before the date specified in point (a), all shareholders of each recipient company are entitled to inspect the documents specified in Article 143(1) at the registered office of that company;
+
+(c) one or more shareholders of any recipient company holding a minimum percentage of the subscribed capital is entitled to require that a general meeting of such recipient company be called to decide whether to approve the division. Such minimum percentage may not be fixed at more than 5 %. Member States may, however, provide for the exclusion of non-voting shares from this calculation.
+
+For the purposes of point (b) of the first paragraph, Article 143(2), (3) and (4) shall apply.
+
+<a id="art_141"></a>
+
+### Article 141 — Detailed written report and information on a division
+
+**1.** The administration or management bodies of each of the companies involved in the division shall draw up a detailed written report explaining the draft terms of division and setting out the legal and economic grounds for them, in particular the share exchange ratio and the criterion determining the allocation of shares.
+
+**2.** The report shall also describe any special valuation difficulties which have arisen.
+
+Where applicable, it shall disclose the preparation of the report on the consideration other than in cash referred to in Article 70(2) for recipient companies and the register where that report must be lodged.
+
+**3.** The administrative or management bodies of a company being divided shall inform the general meeting of that company and the administrative or management bodies of the recipient companies so that they can inform their respective general meetings of any material change in the assets and liabilities between the date of preparation of the draft terms of division and the date of the general meeting of the company being divided which is to decide on the draft terms of division.
+
+<a id="art_142"></a>
+
+### Article 142 — Examination of the draft terms of division by experts
+
+**1.** One or more experts acting on behalf of each of the companies involved in the division but independent of them, appointed or approved by a judicial or administrative authority, shall examine the draft terms of division and draw up a written report to the shareholders. However, the laws of a Member State may provide for the appointment of one or more independent experts for all of the companies involved in a division if such appointment is made by a judicial or administrative authority at the joint request of those companies. Such experts may, depending on the laws of each Member State, be natural or legal persons or companies or firms.
+
+**2.** Article 96(2) and (3) shall apply.
+
+<a id="art_143"></a>
+
+### Article 143 — Availability of documents for inspection by shareholders
+
+**1.** All shareholders shall be entitled to inspect at least the following documents at the registered office at least one month before the date of the general meeting which is to decide on the draft terms of division:(a) the draft terms of division;(b) the annual accounts and annual reports of the companies involved in the division for the preceding three financial years;(c) where applicable, an accounting statement drawn up as at a date which shall not be earlier than the first day of the third month preceding the date of the draft terms of division, if the latest annual accounts relate to a financial year which ended more than six months before that date;(d) where applicable, the reports of the administrative or management bodies of the companies involved in the division provided for in Article 141(1);(e) where applicable, the reports provided for in Article 142.
+
+For the purposes of point (c) of the first subparagraph, an accounting statement shall not be required if the company publishes a half-yearly financial report in accordance with Article 5 of Directive 2004/109/EC and makes it available to shareholders in accordance with this paragraph.
+
+**2.** The accounting statement provided for in point (c) of paragraph 1 shall be drawn up using the same methods and the same layout as the last annual balance sheet.
+
+However, the laws of a Member State may provide that:
+
+(a) it shall not be necessary to take a fresh physical inventory;
+
+(b) the valuations shown in the last balance sheet shall be altered only to reflect entries in the books of account; the following shall nevertheless be taken into account: (i) interim depreciation and provisions, (ii) material changes in actual value not shown in the books.
+
+**3.** Every shareholder shall be entitled to obtain, on request and free of charge, full or, if so desired, partial copies of the documents referred to in paragraph 1.
+
+Where a shareholder has consented to the use by the company of electronic means for conveying information, such copies may be provided by electronic mail.
+
+**4.** A company shall be exempt from the requirement to make the documents referred to in paragraph 1 available at its registered office if, for a continuous period beginning at least one month before the date fixed for the general meeting which is to decide on the draft terms of division and ending not earlier than the conclusion of that meeting, it makes them available on its website. Member States shall not subject that exemption to requirements or constraints other than those which are necessary in order to ensure the security of the website and the authenticity of the documents, and may impose such requirements or constraints only to the extent that they are proportionate in order to achieve those objectives.
+
+Paragraph 3 shall not apply if the website gives shareholders the possibility, throughout the period referred to in the first subparagraph of this paragraph, of downloading and printing the documents referred to in paragraph 1. However, in that case Member States may provide that the company is to make those documents available at its registered office for consultation by the shareholders.
+
+Member States may require companies to maintain the information on their website for a specific period after the general meeting. Member States may determine the consequences of temporary disruption of access to the website caused by technical or other factors.
+
+<a id="art_144"></a>
+
+### Article 144 — Simplified formalities
+
+**1.** Neither an examination of the draft terms of division nor an expert report as provided for in Article 142(1) shall be required if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the division have so agreed.
+
+**2.** Member States may permit the non-application of Article 141 and points (c) and (d) of Article 143(1) if all the shareholders and the holders of other securities conferring the right to vote of each of the companies involved in the division have so agreed.
+
+<a id="art_145"></a>
+
+### Article 145 — Protection of employees' rights
+
+Protection of the rights of the employees of each of the companies involved in a division shall be regulated in accordance with Directive 2001/23/EC.
+
+<a id="art_146"></a>
+
+### Article 146 — Protection of the interests of creditors of companies involved in a division; joint and several liability of the recipient companies
+
+**1.** The laws of Member States shall provide for an adequate system of protection for the interests of the creditors of the companies involved in a division whose claims antedate publication of the draft terms of division and have not yet fallen due at the time of such publication.
+
+**2.** For the purpose of paragraph 1, the laws of the Member States shall at least provide that such creditors shall be entitled to obtain adequate safeguards where the financial situation of the company being divided, and that of the company to which the obligation is to be transferred in accordance with the draft terms of division, make such protection necessary, and where those creditors do not already have such safeguards.
+
+Member States shall lay down the conditions for the protection provided for in paragraph 1 and in the first subparagraph of this paragraph. In any event, Member States shall ensure that the creditors are authorised to apply to the appropriate administrative or judicial authority for adequate safeguards provided that they can credibly demonstrate that due to the division the satisfaction of their claims is at stake and that no adequate safeguards have been obtained from the company.
+
+**3.** In so far as a creditor of the company to which the obligation has been transferred in accordance with the draft terms of division has not obtained satisfaction, the recipient companies shall be jointly and severally liable for that obligation. Member States may limit that liability to the net assets allocated to each of those companies other than the one to which the obligation has been transferred. However, they need not apply this paragraph where the division operation is subject to the supervision of a judicial authority in accordance with Article 157 and a majority in number representing three-quarters in value of the creditors or any class of creditors of the company being divided have agreed to forego such joint and several liability at a meeting held pursuant to point (c) of Article 157(l).
+
+**4.** Article 99(3) shall apply.
+
+**5.** Without prejudice to the rules governing the collective exercise of their rights, paragraphs 1 to 4 shall apply to the debenture holders of the companies involved in the division except where the division has been approved by a meeting of the debenture holders, if such a meeting is provided for under national laws, or by the debenture holders individually.
+
+**6.** Member States may provide that the recipient companies shall be jointly and severally liable for the obligations of the company being divided. In such case they need not apply paragraphs 1 to 5.
+
+**7.** Where a Member State combines the system of creditor protection set out in paragraphs 1 to 5 with the joint and several liability of the recipient companies as referred to in paragraph 6, it may limit such joint and several liability to the net assets allocated to each of those companies.
+
+<a id="art_147"></a>
+
+### Article 147 — Protection of holders of securities, other than shares, to which special rights are attached
+
+Holders of securities, other than shares, to which special rights are attached, shall be given rights in the recipient companies against which such securities may be invoked in accordance with the draft terms of division, at least equivalent to the rights they possessed in the company being divided, unless the alteration of those rights has been approved by a meeting of the holders of such securities, if such a meeting is provided for under national laws, or by the holders of those securities individually, or unless the holders are entitled to have their securities repurchased.
+
+<a id="art_148"></a>
+
+### Article 148 — Drawing up and certification of documents in due legal form
+
+Where the laws of a Member State do not provide for judicial or administrative preventive supervision of the legality of divisions or where such supervision does not extend to all the legal acts required for a division, Article 102 shall apply.
+
+<a id="art_149"></a>
+
+### Article 149 — Date on which a division takes effect
+
+The laws of Member States shall determine the date on which a division takes effect.
+
+<a id="art_150"></a>
+
+### Article 150 — Publication formalities
+
+**1.** A division shall be published in the manner prescribed by the laws of each Member State in accordance with Article 16 in respect of each of the companies involved in a division.
+
+**2.** Any recipient company may itself carry out the publication formalities relating to the company being divided.
+
+<a id="art_151"></a>
+
+### Article 151 — Consequences of a division
+
+**1.** A division shall have the following consequences *ipso jure* and simultaneously:(a) the transfer, both as between the company being divided and the recipient companies and as regards third parties, to each of the recipient companies of all the assets and liabilities of the company being divided; such transfer shall take effect with the assets and liabilities being divided in accordance with the allocation laid down in the draft terms of division or in Article 137(3);(b) the shareholders of the company being divided become shareholders of one or more of the recipient companies in accordance with the allocation laid down in the draft terms of division;(c) the company being divided ceases to exist.
+
+**2.** No shares in a recipient company shall be exchanged for shares held in the company being divided either:(a) by that recipient company itself or by a person acting in his own name but on its behalf; or(b) by the company being divided itself or by a person acting in his own name but on its behalf.
+
+**3.** The foregoing shall not affect the laws of Member States which require the completion of special formalities for the transfer of certain assets, rights and obligations by a company being divided to be effective as against third parties. The recipient company or companies to which such assets, rights or obligations are transferred in accordance with the draft terms of division or with Article 137(3) may carry out those formalities themselves; however, the laws of Member States may permit a company being divided to continue to carry out those formalities for a limited period which may not, save in exceptional circumstances, be fixed at more than six months from the date on which the division takes effect.
+
+<a id="art_152"></a>
+
+### Article 152 — Civil liability of members of the administrative or management bodies of a company being divided
+
+The laws of Member States shall at least lay down rules governing the civil liability of members of the administrative or management bodies of a company being divided towards the shareholders of that company in respect of misconduct on the part of members of those bodies in preparing and implementing the division and the civil liability of the experts responsible for drawing up for that company the report provided for in Article 142 in respect of misconduct on the part of those experts in the performance of their duties.
+
+<a id="art_153"></a>
+
+### Article 153 — Conditions for nullity of a division
+
+**1.** The laws of Member States may lay down nullity rules for divisions in accordance with the following conditions only:(a) nullity must be ordered in a court judgment;(b) divisions which have taken effect pursuant to Article 149 are declared void only if there has been no judicial or administrative preventive supervision of their legality, or if they have not been drawn up and certified in due legal form, or if it is shown that the decision of the general meeting is void or voidable under national law;(c) nullification proceedings are not initiated more than six months after the date on which the division becomes effective as against the person alleging nullity or if the situation has been rectified;(d) where it is possible to remedy a defect liable to render a division void, the competent court grants the companies involved a period of time within which to rectify the situation;(e) a judgment declaring a division void is published in the manner prescribed by the laws of each Member State in accordance with Article 16;(f) where the laws of a Member State permit a third party to challenge such a judgment, he does so only within six months of publication of the judgment in the manner prescribed by Chapter III of Title I;(g) a judgment declaring a division void does not of itself affect the validity of obligations owed by or in relation to the recipient companies which arose before the judgment was published and after the date referred to in Article 149;(h) each of the recipient companies is liable for its obligations arising after the date on which the division took effect and before the date on which the decision pronouncing the nullity of the division was published. The company being divided shall also be liable for such obligations; Member States may provide that this liability be limited to the share of net assets transferred to the recipient company on whose account such obligations arose.
+
+**2.** By way of derogation from point (a) of paragraph 1 of this Article, the laws of a Member State may also provide for the nullity of a division to be ordered by an administrative authority if an appeal against such a decision lies to a court. Point (b) and points (d) to (h) of paragraph 1 of this Article shall apply by analogy to the administrative authority. Such nullification proceedings may not be initiated more than six months after the date referred to in Article 149.
+
+**3.** The foregoing shall not affect the laws of the Member States on the nullity of a division pronounced following any supervision of legality.
+
+<a id="art_154"></a>
+
+### Article 154 — Exemption from the requirement of approval by the general meeting of the company being divided
+
+Without prejudice to Article 140, Member States shall not require approval of the division by the general meeting of the company being divided if the recipient companies together hold all the shares of the company being divided and all other securities conferring the right to vote at general meetings of the company being divided, and the following conditions are fulfilled:
+
+(a) each of the companies involved in the operation carries out the publication provided for in Article 138 at least one month before the operation takes effect;
+
+(b) at least one month before the operation takes effect, all shareholders of companies involved in the operation are entitled to inspect the documents specified in Article 143(1), at their company's registered office;
+
+(c) where a general meeting of the company being divided, required for the approval of the division, is not summoned, the information provided for in Article 141(3) covers any material change in the asset and liabilities after the date of preparation of the draft terms of division.
+
+For the purposes of point (b) of the first paragraph, Article 143(2), (3) and (4) and Article 144 shall apply.
+
+<a id="art_155"></a>
+
+### Article 155 — Definition of a ‘division by the formation of new companies’
+
+**1.** For the purposes of this Chapter, ‘division by the formation of new companies’ means the operation whereby, after being wound up without going into liquidation, a company transfers to more than one newly-formed company all its assets and liabilities in exchange for the allocation to the shareholders of the company being divided of shares in the recipient companies, and possibly a cash payment not exceeding 10 % of the nominal value of the shares allocated or, where they have no nominal value, of their accounting par value.
+
+**2.** Article 90(2) shall apply.
+
+<a id="art_156"></a>
+
+### Article 156 — Application of rules on divisions by acquisition
+
+**1.** Articles 137, 138, 139, and 141, Article 142(1) and (2) and Articles 143 to 153 shall apply, without prejudice to Articles 11 and 12, to division by the formation of new companies. For this purpose, the term ‘companies involved in a division’ shall refer to the company being divided and the term ‘recipient companies’ shall refer to each of the new companies.
+
+**2.** In addition to the information specified in Article 137(2), the draft terms of division shall indicate the form, name and registered office of each of the new companies.
+
+**3.** The draft terms of division and, if they are contained in a separate document, the memorandum or draft memorandum of association and the articles or draft articles of association of each of the new companies shall be approved at a general meeting of the company being divided.
+
+**4.** Member States shall not impose the requirements set out in Articles 141 and 142 and in points (c), (d) and (e) of Article 143(1) where the shares in each of the new companies are allocated to the shareholders of the company being divided in proportion to their rights in the capital of that company.
+
+<a id="art_157"></a>
+
+### Article 157 — Divisions under the supervision of a judicial authority
+
+**1.** Member States may apply paragraph 2 where division operations are subject to the supervision of a judicial authority having the power:(a) to call a general meeting of the shareholders of the company being divided in order to decide upon the division;(b) to ensure that the shareholders of each of the companies involved in a division have received or can obtain at least the documents referred to in Article 143 in time to examine them before the date of the general meeting of their company called to decide upon the division. Where a Member State makes use of the option provided for in Article 140, the period shall be long enough for the shareholders of the recipient companies to be able to exercise the rights conferred on them by that Article;(c) to call any meeting of creditors of each of the companies involved in a division in order to decide upon the division;(d) to ensure that the creditors of each of the companies involved in a division have received or can obtain at least the draft terms of division in time to examine them before the date referred to in point (b);(e) to approve the draft terms of division.
+
+**2.** Where the judicial authority establishes that the conditions referred to in points (b) and (d) of paragraph 1 have been fulfilled and that no prejudice would be caused to shareholders or creditors, it may relieve the companies involved in the division from applying:(a) Article 138, on condition that the adequate system of protection of the interest of the creditors referred to in Article 146(1) covers all claims regardless of their date;(b) the conditions referred to in points (a) and (b) of Article 140 where a Member State makes use of the option provided for in Article 140;(c) Article 143, as regards the period and the manner prescribed for the inspection of the documents referred to therein.
+
+<a id="art_158"></a>
+
+### Article 158 — Divisions with cash payment exceeding 10 %
+
+Where, in the case of one of the operations specified in Article 135, the laws of a Member State permit the cash payment to exceed 10 %, Sections 2, 3 and 4 of this Chapter shall apply.
+
+<a id="art_159"></a>
+
+### Article 159 — Divisions without the company being divided ceasing to exist
+
+Where the laws of a Member State permit one of the operations specified in Article 135 without the company being divided ceasing to exist, Sections 2, 3 and 4 of this Chapter shall apply, except for point (c) of Article 151(1).
+
+<a id="art_160"></a>
+
+### Article 160 — Transitional provisions
+
+Member States need not apply Articles 146 and 147 as regards the holders of convertible debentures and other securities convertible into shares if, at the time when the provisions referred to in Article 26(1) or (2) of Directive 82/891/EEC came into force, the position of those holders in the event of a division had previously been determined by the conditions of issue.
+
+<a id="art_160a"></a>
+
+### Article 160a — Scope
+
+**1.** This Chapter shall apply to cross-border divisions of limited liability companies formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the Union, provided that at least two of the limited liability companies involved in the division are governed by the laws of different Member States (hereinafter referred to as ‘cross-border division’).
+
+**2.** Notwithstanding point 4 of Article 160b, this Chapter shall also apply to cross-border divisions where the law of at least one of the Member States concerned allows the cash payment referred to in points (a) and (b) of point 4 of Article 160b to exceed 10 % of the nominal value, or, in the absence of a nominal value, 10 % of the accounting par value of the securities or shares representing the capital of the recipient companies.
+
+**3.** This Chapter shall not apply to cross-border divisions involving a company the object of which is the collective investment of capital provided by the public, which operates on the principle of risk-spreading and the units of which are, at the holders’ request, repurchased or redeemed, directly or indirectly, out of the assets of that company. Action taken by such a company to ensure that the stock exchange value of its units does not vary significantly from its net asset value shall be regarded as equivalent to such repurchase or redemption.
+
+**4.** Member States shall ensure that this Chapter does not apply to companies in either of the following circumstances:(a) the company is in liquidation and has begun to distribute assets to its members;▼M4(b) the company is subject to resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU or in Title V of Regulation (EU) 2021/23.▼M3
+
+**5.** Member States may decide not to apply this Chapter to companies which are:(a) the subject of insolvency proceedings or subject to preventive restructuring frameworks;(b) the subject of liquidation proceedings other than those referred to in point (a) of paragraph 4; or▼M4(c) the subject of crisis prevention measures as defined in point (101) of Article 2(1) of Directive 2014/59/EU or in point (48) of Article 2 of Regulation (EU) 2021/23.▼M3
+
+<a id="art_160b"></a>
+
+### Article 160b — Definitions
+
+For the purposes of this Chapter:
+
+(1) ‘company’ means a limited liability company of a type listed in Annex II;
+
+(2) ‘company being divided’ means a company which, in the process of a cross-border division, transfers all its assets and liabilities to two or more companies in the case of a full division, or transfers part of its assets and liabilities to one or more companies in the case of a partial division or division by separation;
+
+(3) ‘recipient company’ means a company newly formed in the course of a cross-border division;
+
+(4) ‘division’ means an operation whereby: (a) a company being divided, on being dissolved without going into liquidation, transfers all its assets and liabilities to two or more recipient companies, in exchange for the issue to the members of the company being divided of securities or shares in the recipient companies and, if applicable, a cash payment not exceeding 10 % of the nominal value, or, in the absence of a nominal value, a cash payment not exceeding 10 % of the accounting par value of those securities or shares (‘full division’); (b) a company being divided transfers part of its assets and liabilities to one or more recipient companies, in exchange for the issue to the members of the company being divided of securities or shares in the recipient companies, in the company being divided or in both the recipient companies and the company being divided, and, if applicable, a cash payment not exceeding 10 % of the nominal value, or, in the absence of a nominal value, a cash payment not exceeding 10 % of the accounting par value of those securities or shares (‘partial division’); or (c) a company being divided transfers part of its assets and liabilities to one or more recipient companies, in exchange for the issue to the company being divided of securities or shares in the recipient companies (‘division by separation’).
+
+<a id="art_160c"></a>
+
+### Article 160c — Procedures and formalities
+
+In compliance with Union law, the law of the Member State of the company being divided shall govern those parts of the procedures and formalities to be complied with in connection with the cross-border division in order to obtain the pre-division certificate, and the laws of the Member States of the recipient companies shall govern those parts of the procedures and formalities to be complied with following receipt of the pre-division certificate.
+
+<a id="art_160d"></a>
+
+### Article 160d — Draft terms of cross-border divisions
+
+The administrative or management body of the company being divided shall draw up the draft terms of a cross-border division. The draft terms of a cross-border division shall include at least the following particulars:
+
+(a) the legal form and name of the company being divided and the location of its registered office, and the legal form and name proposed for the new company or companies resulting from the cross-border division and the proposed location of their registered offices;
+
+(b) the ratio applicable to the exchange of securities or shares representing the companies’ capital and the amount of any cash payment, where appropriate;
+
+(c) the terms for the allotment of securities or shares representing the capital of the recipient companies or of the company being divided;
+
+(d) the proposed indicative timetable for the cross-border division;
+
+(e) the likely repercussions of the cross-border division on employment;
+
+(f) the date from which the holding of securities or shares representing the companies' capital will entitle the holders to share in profits, and any special conditions affecting that entitlement;
+
+(g) the date or dates from which the transactions of the company being divided will be treated for accounting purposes as being those of the recipient companies;
+
+(h) any special advantages granted to members of the administrative, management, supervisory or controlling bodies of the company being divided;
+
+(i) the rights conferred by the recipient companies on members of the company being divided enjoying special rights or on holders of securities other than shares representing the divided company capital, or the measures proposed concerning them;
+
+(j) the instruments of constitution of the recipient companies, where applicable, and the statutes if they are contained in a separate instrument, and any changes to the instrument of constitution of the company being divided in the case of a partial division or a division by separation;
+
+(k) where appropriate, information on the procedures by which arrangements for the involvement of employees in the definition of their rights to participation in the recipient companies are determined pursuant to Article 160l;
+
+(l) a precise description of the assets and liabilities of the company being divided and a statement of how those assets and liabilities are to be allocated between the recipient companies, or are to be retained by the company being divided in the case of a partial division or a division by separation, including provisions on the treatment of assets or liabilities not explicitly allocated in the draft terms of cross-border division, such as assets or liabilities which are unknown on the date on which the draft terms of cross-border division are drawn up;
+
+(m) information on the evaluation of the assets and liabilities which are to be allocated to each company involved in the cross-border division;
+
+(n) the date of the accounts of the company being divided used to establish the conditions of the cross-border division;
+
+(o) where appropriate, the allocation to the members of the company being divided of shares and securities in the recipient companies, in the company being divided or in both, and the criterion upon which such allocation is based;
+
+(p) details of the offer of cash compensation for members in accordance with Article 160i;
+
+(q) any safeguards offered to creditors, such as guarantees or pledges.
+
+<a id="art_160e"></a>
+
+### Article 160e — Report of the administrative or management body for members and employees
+
+**1.** The administrative or management body of the company being divided shall draw up a report for members and employees, explaining and justifying the legal and economic aspects of the cross-border division, as well as explaining the implications of the cross-border division for employees.
+
+It shall, in particular, explain the implications of the cross-border division for the future business of the companies.
+
+**2.** The report shall also include a section for members and a section for employees.
+
+The company may decide either to draw up one report containing those two sections or to draw up separate reports for members and employees, respectively, containing the relevant section.
+
+**3.** The section of the report for members shall, in particular, explain the following:(a) the cash compensation and the method used to determine the cash compensation;(b) the share exchange ratio and the method or methods used to arrive at the share exchange ratio, where applicable;(c) the implications of the cross-border division for members;(d) the rights and remedies available to members in accordance with Article 160i.
+
+**4.** The section of the report for members shall not be required where all the members of the company have agreed to waive that requirement. Member States may exclude single-member companies from the provisions of this Article.
+
+**5.** The section of the report for employees shall, in particular, explain the following:(a) the implications of the cross-border division for employment relationships, as well as, where applicable, any measures for safeguarding those relationships;(b) any material changes to the applicable conditions of employment or to the location of the company’s places of business;(c) how the factors set out in points (a) and (b) affect any subsidiaries of the company.
+
+**6.** The report or reports shall be made available in any case electronically, together with the draft terms of the cross-border division, if available, to the members and to the representatives of the employees of the company being divided or, where there are no such representatives, to the employees themselves, not less than six weeks before the date of the general meeting referred to in Article 160h.
+
+**7.** Where the administrative or management body of the company being divided receives an opinion on the information referred to in paragraphs 1 and 5 in good time from the representatives of the employees or, where there are no such representatives, from the employees themselves, as provided for under national law, the members shall be informed thereof and that opinion shall be appended to the report.
+
+**8.** The section of the report for employees shall not be required where a company being divided and its subsidiaries, if any, have no employees other than those who form part of the administrative or management body.
+
+**9.** Where the section of the report for members referred to in paragraph 3 is waived in accordance with paragraph 4 and the section for employees referred to in paragraph 5 is not required under paragraph 8, the report shall not be required.
+
+**10.** Paragraphs 1 to 9 of this Article shall be without prejudice to the applicable information and consultation rights and procedures provided for at national level following the transposition of Directives 2002/14/EC and 2009/38/EC.
+
+<a id="art_160f"></a>
+
+### Article 160f — Independent expert report
+
+**1.** Member States shall ensure that an independent expert examines the draft terms of the cross-border division and draws up a report for members. That report shall be made available to the members not less than one month before the date of the general meeting referred to in Article 160h. Depending on the law of the Member State, the expert may be a natural or legal person.
+
+**2.** The report referred to in paragraph 1 shall in any case include the expert’s opinion as to whether the cash compensation and the share exchange ratio are adequate. When assessing the cash compensation, the expert shall consider any market price of the shares in the company being divided prior to the announcement of the division proposal or the value of the company excluding the effect of the proposed division, as determined in accordance with generally accepted valuation methods. The report shall at least:(a) indicate the method or methods used to determine the cash compensation proposed;(b) indicate the method or methods used to arrive at the share exchange ratio proposed;(c) state whether the method or methods are adequate for the assessment of the cash compensation and the share exchange ratio, indicate the value arrived at using such methods and give an opinion on the relative importance attributed to those methods in arriving at the value decided on; and(d) describe any special valuation difficulties which have arisen.The expert shall be entitled to obtain from the company being divided all information necessary for the discharge of the duties of the expert.
+
+**3.** Neither an examination of the draft terms of cross-border division by an independent expert nor an independent expert report shall be required if all the members of the company being divided have so agreed.
+
+Member States may exclude single-member companies from the application of this Article.
+
+<a id="art_160g"></a>
+
+### Article 160g — Disclosure
+
+**1.** Member States shall ensure that the following documents are disclosed by the company and made publicly available in the register of the Member State of the company being divided, at least one month before the date of the general meeting referred to in Article 160h:(a) the draft terms of the cross-border division; and(b) a notice informing the members, creditors and representatives of the employees of the company being divided, or, where there are no such representatives, the employees themselves, that they may submit to the company, at the latest five working days before the date of the general meeting, comments concerning the draft terms of the cross-border division.Member States may require that the independent expert report be disclosed and made publicly available in the register.Member States shall ensure that the company is able to exclude confidential information from the disclosure of the independent expert report.The documents disclosed in accordance with this paragraph shall be also accessible through the system of interconnection of registers.
+
+**2.** Member States may exempt a company being divided from the disclosure requirement referred to in paragraph 1 of this Article where, for a continuous period beginning at least one month before the date fixed for the general meeting referred to in Article 160h and ending not earlier than the conclusion of that meeting, that company makes the documents referred to in paragraph 1 of this Article available on its website free of charge to the public.
+
+However, Member States shall not subject that exemption to any requirements or constraints other than those which are necessary to ensure the security of the website and the authenticity of the documents, and which are proportionate to achieving those objectives.
+
+**3.** Where the company being divided makes the draft terms of the cross-border division available in accordance with paragraph 2 of this Article, it shall submit to the register, at least one month before the date of the general meeting referred to in Article 160h, the following information:(a) the legal form and name of the company being divided and the location of its registered office and the legal form and name proposed for the newly created company or companies resulting from the cross-border division and the proposed location of their registered office;(b) the register in which the documents referred to in Article 14 are filed in respect of the company being divided, and its registration number in that register;(c) an indication of the arrangements made for the exercise of the rights of creditors, employees and members; and(d) details of the website from which the draft terms of the cross-border division, the notice referred to in paragraph 1, the independent expert report and complete information on the arrangements referred to in point (c) of this paragraph may be obtained online and free of charge.The register shall make publicly available the information referred to in points (a) to (d) of the first subparagraph.
+
+**4.** Member States shall ensure that the requirements referred to in paragraphs 1 and 3 can be fulfilled fully online without the necessity for the applicants to appear in person before any competent authority in the Member State concerned, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** Member States may require, in addition to the disclosure referred to in paragraphs 1, 2 and 3 of this Article, that the draft terms of the cross-border division, or the information referred to in paragraph 3 of this Article, be published in their national gazette or through a central electronic platform in accordance with Article 16(3). In that instance, Member States shall ensure that the register transmits the relevant information to the national gazette or to a central electronic platform.
+
+**6.** Member States shall ensure that the documentation referred to in paragraph 1 or the information referred to in paragraph 3 is accessible to the public free of charge through the system of interconnection of registers.
+
+Member States shall further ensure that any fees charged to the company by the registers for the disclosure referred to in paragraphs 1 and 3 and, where applicable, for the publication referred to in paragraph 5 do not exceed the recovery of the cost of providing such services.
+
+<a id="art_160h"></a>
+
+### Article 160h — Approval by the general meeting
+
+**1.** After taking note of the reports referred to in Articles 160e and 160f, where applicable, employees’ opinions submitted in accordance with Article 160e and comments submitted in accordance with Article 160g, the general meeting of the company being divided shall decide, by means of a resolution, whether to approve the draft terms of cross-border division and whether to adapt the instrument of constitution, and the statutes if they are contained in a separate instrument.
+
+**2.** The general meeting of the company being divided may reserve the right to make implementation of the cross-border division conditional on express ratification by it of the arrangements referred to in Article 160l.
+
+**3.** Member States shall ensure that the approval of the draft terms of the cross-border division, and of any amendment to those draft terms, requires a majority of not less than two thirds but not more than 90 % of the votes attached either to the shares or to the subscribed capital represented at the general meeting. In any event, the voting threshold shall not be higher than that provided for in national law for the approval of cross-border mergers.
+
+**4.** Where a clause in the draft terms of the cross-border division or any amendment to the instrument of constitution of the company being divided leads to an increase of the economic obligations of a member towards the company or third parties, Member States may require, in such specific circumstances, that such clause or the amendment to the instrument of constitution of the company being divided be approved by the member concerned, provided that such member is unable to exercise the rights laid down in Article 160i.
+
+**5.** Member States shall ensure that the approval of the cross-border division by the general meeting cannot be challenged solely on the following grounds:(a) the share exchange ratio referred to in point (b) of Article 160d has been inadequately set;(b) the cash compensation referred to in point (p) of Article 160d has been inadequately set; or(c) the information given with regard to the share exchange ratio referred to in point (a) or the cash compensation referred to in point (b) did not comply with the legal requirements.
+
+<a id="art_160i"></a>
+
+### Article 160i — Protection of members
+
+**1.** Member States shall ensure that at least the members of a company being divided who voted against the approval of the draft terms of the cross-border division have the right to dispose of their shares for adequate cash compensation, under the conditions laid down in paragraphs 2 to 6, provided that, as a result of the cross‐border division, they would acquire shares in the recipient companies which would be governed by the law of a Member State other than the Member State of the company being divided.
+
+Member States may also provide for other members of the company being divided to have the right referred to in the first subparagraph.
+
+Member States may require that express opposition to the draft terms of the cross‐border division, the intention of members to exercise their right to dispose of their shares, or both, be appropriately documented at the latest at the general meeting referred to in Article 160h. Member States may allow the recording of opposition to the draft terms of the cross-border division to be considered proper documentation of a negative vote.
+
+**2.** Member States shall establish the period within which the members referred to in paragraph 1 have to declare to the company being divided their decision to exercise the right to dispose of their shares. That period shall not exceed one month after the general meeting referred to in Article 160h. Member States shall ensure that the company being divided provides an electronic address for receiving that declaration electronically.
+
+**3.** Member States shall further establish the period within which the cash compensation specified in the draft terms of the cross-border division is to be paid. That period shall not end later than two months after the cross-border division takes effect in accordance with Article 160q.
+
+**4.** Member States shall ensure that any members who have declared their decision to exercise the right to dispose of their shares, but who consider that the cash compensation offered by the company being divided has not been adequately set, are entitled to claim additional cash compensation before the competent authority or body mandated under national law. Member States shall establish a time limit for the claim for additional cash compensation.
+
+Member States may provide that the final decision to provide additional cash compensation is valid for all members of the company being divided who have declared their decision to exercise the right to dispose of their shares in accordance with paragraph 2.
+
+**5.** Member States shall ensure that the law of the Member State of a company being divided governs the rights referred to in paragraphs 1 to 4 and that the exclusive competence to resolve any disputes relating to those rights lies within the jurisdiction of that Member State.
+
+**6.** Member States shall ensure that members of the company being divided who did not have or did not exercise the right to dispose of their shares, but who consider that the share-exchange ratio set out in the draft terms of the cross-border division is inadequate, may dispute that ratio and claim a cash payment. Proceedings in that regard shall be initiated before the competent authority or body mandated under the law of the Member State to which the company being divided is subject, within the time limit laid down in that national law and such proceedings shall not prevent the registration of the cross-border division. The decision shall be binding on the recipient companies and, in the event of a partial division, also on the company being divided.
+
+**7.** Member States may also provide that the recipient company concerned and, in the event of a partial division, also the company being divided, can provide shares or other compensation instead of a cash payment.
+
+<a id="art_160j"></a>
+
+### Article 160j — Protection of creditors
+
+**1.** Member States shall provide for an adequate system of protection of the interests of creditors whose claims antedate the disclosure of the draft terms of the cross‐border division and have not fallen due at the time of such disclosure.
+
+Member States shall ensure that creditors who are dissatisfied with the safeguards offered in the draft terms of the cross-border division, as provided for in point (q) of Article 160d, may apply, within three months of the disclosure of the draft terms of cross-border division referred to in Article 160g, to the appropriate administrative or judicial authority for adequate safeguards, provided that such creditors can credibly demonstrate that, due to the cross-border division, the satisfaction of their claims is at stake and that they have not obtained adequate safeguards from the company.
+
+Member States shall ensure that the safeguards are conditional on the cross-border division taking effect in accordance with Article 160q.
+
+**2.** Where a creditor of the company being divided does not obtain satisfaction from the company to which the liability is allocated, the other recipient companies, and in the case of a partial division or a division by separation, the company being divided, shall be jointly and severally liable with the company to which the liability is allocated for that obligation. However, the maximum amount of joint and several liability of any company involved in the division shall be limited to the value, at the date on which the division takes effect, of the net assets allocated to that company.
+
+**3.** Member States may require that the administrative or management body of the company being divided provide a declaration that accurately reflects its current financial status at a date no earlier than one month before the disclosure of that declaration. The declaration shall state that, on the basis of the information available to the administrative or management body of the company being divided at the date of that declaration, and after having made reasonable enquiries, that administrative or management body is unaware of any reason why any recipient company and, in the case of a partial division, the company being divided, would, after the division takes effect, be unable to meet the liabilities allocated to them under the draft terms of the cross-border division when those liabilities fall due. The declaration shall be disclosed together with the draft terms of the cross-border division in accordance with Article 160g.
+
+**4.** Paragraphs 1, 2 and 3 shall be without prejudice to the application of the law of the Member State of the company being divided concerning the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies.
+
+<a id="art_160k"></a>
+
+### Article 160k — Employee information and consultation
+
+**1.** Member States shall ensure that employees’ rights to information and consultation are respected in relation to the cross-border division and are exercised in accordance with the legal framework provided for in Directive 2002/14/EC, and Directive 2001/23/EC where the cross-border division is considered to be a transfer of an undertaking within the meaning of Directive 2001/23/EC, and, where applicable for Community-scale undertakings or Community-scale groups of undertakings, in accordance with Directive 2009/38/EC. Member States may decide that employees’ rights to information and consultation apply with respect to the employees of companies other than those referred to in Article 3(1) of Directive 2002/14/EC.
+
+**2.** Notwithstanding Article 160e(7) and point (b) of Article 160g(1), Member States shall ensure that employees’ rights to information and consultation are respected, at least before the draft terms of the cross-border division or the report referred to in Article 160e are decided upon, whichever is earlier, in such a way that a reasoned response is given to the employees before the general meeting referred to in Article 160h.
+
+**3.** Without prejudice to any provisions or practices in force more favourable to employees, Member States shall determine the practical arrangements for exercising the right to information and consultation in accordance with Article 4 of Directive 2002/14/EC.
+
+<a id="art_160l"></a>
+
+### Article 160l — Employee participation
+
+**1.** Without prejudice to paragraph 2, each recipient company shall be subject to the rules in force concerning employee participation, if any, in the Member State where it has its registered office.
+
+**2.** However, the rules in force concerning employee participation, if any, in the Member State where the company resulting from the cross-border division has its registered office shall not apply where the company being divided has, in the six months prior to the disclosure of the draft terms of the cross-border division, an average number of employees equivalent to four fifths of the applicable threshold, as laid down in the law of the Member State of the company being divided, for triggering the participation of employees within the meaning of point (k) of Article 2 of Directive 2001/86/EC, or where the national law applicable to each of the recipient companies does not:(a) provide for at least the same level of employee participation as operated in the company being divided prior to its cross-border division, measured by reference to the proportion of employee representatives among the members of the administrative or supervisory body or their committees or of the management group which covers the profit units of the company, subject to employee representation; or(b) provide for employees of establishments of the recipient companies that are situated in other Member States the same entitlement to exercise participation rights as is enjoyed by those employees employed in the Member State where the recipient company has its registered office.
+
+**3.** In the cases referred to in paragraph 2 of this Article, the participation of employees in the companies resulting from the cross-border division and their involvement in the definition of such rights shall be regulated by the Member States, *mutatis**mutandis* and subject to paragraphs 4 to 7 of this Article, in accordance with the principles and procedures laid down in Article 12(2) and (4) of Regulation (EC) No 2157/2001 and the following provisions of Directive 2001/86/EC:(a) Article 3(1), points (a)(i) and (b) of Article 3(2), Article 3(3), the first two sentences of Article 3(4), and Article 3(5) and (7);(b) Article 4(1), points (a), (g) and (h) of Article 4(2), and Article 4(3) and (4);(c) Article 5;(d) Article 6;(e) Article 7(1), with the exception of the second indent of point (b);(f) Articles 8, 10, 11 and 12; and(g) point (a) of Part 3 of the Annex.
+
+**4.** When regulating the principles and procedures referred to in paragraph 3, Member States:(a) shall confer on the special negotiating body the right to decide, by a majority of two thirds of its members representing at least two thirds of the employees, not to open negotiations or to terminate negotiations already opened and to rely on the rules on participation in force in the Member States of each of the recipient companies;(b) may, in the case where, following prior negotiations, standard rules for participation apply and notwithstanding such rules, decide to limit the proportion of employee representatives in the administrative body of the recipient companies. However, if, in the company being divided, employee representatives constituted at least one third of the administrative or supervisory body, the limitation may never result in a lower proportion of employee representatives in the administrative body than one third;(c) shall ensure that the rules on employee participation that applied prior to the cross-border division continue to apply until the date of application of any subsequently agreed rules or, in the absence of agreed rules, until the application of standard rules in accordance with point (a) of Part 3 of the Annex to Directive 2001/86/EC.
+
+**5.** The extension of participation rights to employees of the recipient companies employed in other Member States, as referred to in point (b) of paragraph 2, shall not entail any obligation for Member States which choose to do so to take those employees into account when calculating the size of workforce thresholds giving rise to participation rights under national law.
+
+**6.** Where any of the recipient companies is to be governed by an employee participation system in accordance with the rules referred to in paragraph 2, that company shall be obliged to take a legal form allowing for the exercise of participation rights.
+
+**7.** Where the recipient company is operating under an employee participation system, that company shall be obliged to take measures to ensure that employees' participation rights are protected in the event of any subsequent conversion, merger or division, be it cross-border or domestic, for a period of four years after the cross‐border division has taken effect, by applying, *mutatis mutandis*, the rules laid down in paragraphs 1 to 6.
+
+**8.** A company shall communicate to its employees or their representatives the outcome of the negotiations concerning employee participation without undue delay.
+
+<a id="art_160m"></a>
+
+### Article 160m — Pre-division certificate
+
+**1.** Member States shall designate the court, notary or other authority or authorities competent to scrutinise the legality of cross-border divisions as regards those parts of the procedure which are governed by the law of the Member State of the company being divided, and to issue a pre-division certificate attesting to compliance with all relevant conditions and to the proper completion of all procedures and formalities in that Member State (‘the competent authority’).
+
+Such completion of procedures and formalities may comprise the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies or compliance with specific sectoral requirements, including securing obligations arising from ongoing proceedings.
+
+**2.** Member States shall ensure that the application to obtain a pre-division certificate by the company being divided is accompanied by the following:(a) the draft terms of the cross-border division;(b) the report and the appended opinion, if any, referred to in Article 160e, as well as the report referred to in Article 160f, where they are available;(c) any comments submitted in accordance with Article 160g(1); and(d) information on the approval by the general meeting referred to in Article 160h.
+
+**3.** Member States may require that the application to obtain a pre-division certificate by the company being divided is accompanied by additional information, such as, in particular:(a) the number of employees at the time of the drawing up of the draft terms of the cross-border division;(b) the existence of subsidiaries and their respective geographical location;(c) information regarding the satisfaction of obligations due to public bodies by the company being divided.For the purposes of this paragraph, competent authorities may request such information, if not provided by the company being divided, from other relevant authorities.
+
+**4.** Member States shall ensure that the application referred to in paragraphs 2 and 3, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the competent authority, in accordance with the relevant provisions of Chapter III of Title I.
+
+**5.** In respect of compliance with the rules concerning employee participation as laid down in Article 160l, the competent authority of the Member State of the company being divided shall verify that the draft terms of the cross-border division include information on the procedures by which the relevant arrangements are determined and on the possible options for such arrangements.
+
+**6.** As part of the scrutiny referred to in paragraph 1, the competent authority shall examine the following:(a) all documents and information submitted to the competent authority in accordance with paragraphs 2 and 3;(b) an indication by the company being divided that the procedure referred to in Article 160l(3) and (4) has started, where relevant.
+
+**7.** Member States shall ensure that the scrutiny referred to in paragraph 1 is carried out within three months of the date of receipt of the documents and information concerning the approval of the cross-border division by the general meeting of the company being divided. That scrutiny shall have one of the following outcomes:(a) where it is determined that the cross-border division complies with all the relevant conditions and that all necessary procedures and formalities have been completed, the competent authority shall issue the pre-division certificate;(b) where it is determined that the cross-border division does not comply with all the relevant conditions or that not all necessary procedures and formalities have been completed, the competent authority shall not issue the pre-division certificate and shall inform the company of the reasons for its decision; in that case, the competent authority may give the company the opportunity to fulfil the relevant conditions or to complete the procedures and formalities within an appropriate period of time.
+
+**8.** Member States shall ensure that the competent authority does not issue the pre-division certificate where it is determined in compliance with national law that a cross-border division is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes.
+
+**9.** Where the competent authority, during the scrutiny referred to in paragraph 1, has serious doubts indicating that the cross-border division is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes, it shall take into consideration relevant facts and circumstances, such as, where relevant and not considered in isolation, indicative factors of which the competent authority has become aware, in the course of the scrutiny referred to in paragraph 1, including through consultation of relevant authorities. The assessment for the purposes of this paragraph shall be conducted on a case-by-case basis, through a procedure governed by national law.
+
+**10.** Where it is necessary for the purposes of the assessment under paragraphs 8 and 9 to take into account additional information or to perform additional investigative activities, the period of three months provided for in paragraph 7 may be extended by a maximum of three months.
+
+**11.** Where, due to the complexity of the cross-border procedure, it is not possible to carry out the assessment within the deadlines provided for in paragraphs 7 and 10, Member States shall ensure that the applicant is notified of the reasons for any delay before the expiry of those deadlines.
+
+**12.** Member States shall ensure that the competent authority may consult other relevant authorities with competence in the different fields concerned by the cross-border division, including those of the Member State of the recipient companies, and obtain from those authorities and from the company being divided information and documents necessary to scrutinise the legality of the cross-border division, within the procedural framework laid down in national law. For the purposes of the assessment, the competent authority may have recourse to an independent expert.
+
+<a id="art_160n"></a>
+
+### Article 160n — Transmission of the pre-division certificate
+
+**1.** Member States shall ensure that the pre-division certificate is shared with the authorities referred to in Article 160o(1) through the system of interconnection of registers.
+
+Member States shall also ensure that the pre-division certificate is available through the system of interconnection of registers.
+
+**2.** Access to the pre-division certificate shall be free of charge for the authorities referred to in Article 160o(1) and for the registers.
+
+<a id="art_160o"></a>
+
+### Article 160o — Scrutiny of the legality of the cross-border division
+
+**1.** Member States shall designate the court, notary or other authority competent to scrutinise the legality of the cross-border division as regards that part of the procedure which concerns the completion of the cross-border division governed by the law of the Member States of the recipient companies and to approve the cross‐border division.
+
+That authority or authorities shall in particular ensure that the recipient companies comply with provisions of national law on the incorporation and registration of companies and, where appropriate, that arrangements for employee participation have been determined in accordance with Article 160l.
+
+**2.** For the purposes of paragraph 1 of this Article, the company being divided shall submit to each authority referred to in paragraph 1 of this Article the draft terms of the cross-border division approved by the general meeting referred to in Article 160h.
+
+**3.** Each Member State shall ensure that any application for the purposes of paragraph 1, by the company being divided, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the authority referred to in paragraph 1, in accordance with the relevant provisions of Chapter III of Title I.
+
+**4.** The authority referred to in paragraph 1 shall approve the cross-border division as soon as it has determined that all relevant conditions have been properly fulfilled and formalities properly completed in the Member States of the recipient companies.
+
+**5.** The pre-division certificate shall be accepted by the authority referred to in paragraph 1 as conclusively attesting to the proper completion of the applicable pre‐division procedures and formalities in the Member State of the company being divided, without which the cross-border division cannot be approved.
+
+<a id="art_160p"></a>
+
+### Article 160p — Registration
+
+**1.** The laws of the Member States of the company being divided and of the recipient companies shall determine, with regard to their respective territories, the arrangements, in accordance with Article 16, for disclosing the completion of the cross-border division in their registers.
+
+**2.** Member States shall ensure that at least the following information is entered in their registers:(a) in the register of the Member States of the recipient companies, that the registration of the recipient company is the result of a cross-border division;(b) in the register of the Member States of the recipient companies, the dates of registration of the recipient companies;(c) in the register of the Member State of the company being divided in the event of a full division, that the striking off or removal of the company being divided from the register is the result of a cross-border division;(d) in the register of the Member State of the company being divided in the event of a full division, the date of striking off or removal of the company being divided from the register;(e) in the registers of the Member State of the company being divided and of the Member States of the recipient companies, respectively, the registration number, name and legal form of the company being divided and of the recipient companies.The registers shall make the information referred to in the first subparagraph publicly available and accessible through the system of interconnection of registers.
+
+**3.** Member States shall ensure that the registers in the Member States of the recipient companies notify the register in the Member State of the company being divided, through the system of interconnection of registers, that the recipient companies have been registered. Member States shall also ensure that, in the event of a full division, the company being divided is struck off or removed from the register immediately upon receipt of all those notifications.
+
+**4.** Member States shall ensure that the register in the Member State of the company being divided notifies the registers in the Member States of the recipient companies, through the system of interconnection of registers, that the cross‐border division has taken effect.
+
+<a id="art_160q"></a>
+
+### Article 160q — Date on which the cross-border division takes effect
+
+The law of the Member State of the company being divided shall determine the date on which the cross-border division takes effect. That date shall be after the scrutiny referred to in Articles 160m and 160o has been carried out and after the registers have received all notifications referred to in Article 160p(3).
+
+<a id="art_160r"></a>
+
+### Article 160r — Consequences of a cross-border division
+
+**1.** A cross-border full division shall, from the date referred to in Article 160q, have the following consequences:(a) all the assets and liabilities of the company being divided, including all contracts, credits, rights and obligations, shall be transferred to the recipient companies in accordance with the allocation specified in the draft terms of the cross‐border division;(b) the members of the company being divided shall become members of the recipient companies in accordance with the allocation of shares specified in the draft terms of the cross-border division, unless they have disposed of their shares as referred to in Article 160i(1);(c) the rights and obligations of the company being divided arising from contracts of employment or from employment relationships and existing at the date on which the cross-border division takes effect shall be transferred to the recipient companies;(d) the company being divided shall cease to exist.
+
+**2.** A cross-border partial division shall, from the date referred to in Article 160q, have the following consequences:(a) part of the assets and liabilities of the company being divided, including contracts, credits, rights and obligations, shall be transferred to the recipient company or companies, while the remaining part shall continue to be that of the company being divided in accordance with the allocation specified in the draft terms of the cross-border division;(b) at least some of the members of the company being divided shall become members of the recipient company or companies and at least some of the members shall remain in the company being divided or shall become members of both in accordance with the allocation of shares specified in the draft terms of the cross-border division, unless those members have disposed of their shares as referred to in Article 160i(1);(c) the rights and obligations of the company being divided arising from contracts of employment or from employment relationships and existing at the date on which the cross-border division takes effect, allocated to the recipient company or companies under the draft terms of the cross-border division, shall be transferred to the respective recipient company or companies.
+
+**3.** A cross-border division by separation shall, from the date referred to in Article 160q, have the following consequences:(a) part of the assets and liabilities of the company being divided, including contracts, credits, rights and obligations, shall be transferred to the recipient company or companies, while the remaining part shall continue to be that of the company being divided, in accordance with the allocation specified in the draft terms of the cross-border division;(b) the shares of the recipient company or companies shall be allocated to the company being divided;(c) the rights and obligations of the company being divided arising from contracts of employment or from employment relationships and existing at the date on which the cross-border division takes effect, allocated to the recipient company or companies under the draft terms of the cross-border division, shall be transferred to the respective recipient company or companies.
+
+**4.** Without prejudice to Article 160j(2), Member States shall ensure that where an asset or a liability of the company being divided is not explicitly allocated under the draft terms of the cross-border division, as referred to in point (l) of Article 160d, and where the interpretation of those terms does not make a decision on its allocation possible, the asset, the consideration therefor or the liability is allocated to all the recipient companies or, in the case of a partial division or a division by separation, to all the recipient companies and the company being divided in proportion to the share of the net assets allocated to each of those companies under the draft terms of the cross-border division.
+
+**5.** Where, in the case of a cross-border division, the laws of the Member States require the completion of special formalities before the transfer of certain assets, rights and obligations by the company being divided becomes effective as against third parties, those formalities shall be carried out by the company being divided or by the recipient companies, as appropriate.
+
+**6.** Member States shall ensure that shares in a recipient company cannot be exchanged for shares in the company being divided which are either held by the company itself or through a person acting in his or her own name but on behalf of the company.
+
+<a id="art_160s"></a>
+
+### Article 160s — Simplified formalities
+
+Where a cross-border division is carried out as a division by separation, points (b), (c), (f), (i), (o) and (p) of Article 160d and Articles 160e, 160f and 160i shall not apply.
+
+<a id="art_160t"></a>
+
+### Article 160t — Independent experts
+
+**1.** Member States shall lay down rules governing at least the civil liability of the independent expert responsible for drawing up the report referred to in Article 160f.
+
+**2.** Member States shall have rules in place to ensure that:(a) the expert, or the legal person on whose behalf the expert is operating, is independent from and has no conflict of interest with the company applying for the pre-division certificate; and(b) the expert’s opinion is impartial and objective, and is given with a view to providing assistance to the competent authority in accordance with the independence and impartiality requirements under the law and professional standards to which the expert is subject.
+
+<a id="art_160u"></a>
+
+### Article 160u — Validity
+
+A cross-border division which has taken effect in compliance with the procedures transposing this Directive may not be declared null and void.
+
+The first paragraph does not affect Member States’ powers, inter alia, in relation to criminal law, the prevention and combatting of terrorist financing, social law, taxation and law enforcement, to impose measures and penalties, under national law, after the date on which the cross-border division took effect.
+
+<a id="art_161"></a>
+
+### Article 161 — Data protection
+
+The processing of any personal data carried out in the context of this Directive shall be subject to Regulation (EU) 2016/679.
+
+<a id="art_162"></a>
+
+### Article 162 — Report, regular dialogue on the system of interconnection of registers and review
+
+**1.** The Commission shall, not later than 8 June 2022, publish a report concerning the functioning of the system of interconnection of registers, in particular examining its technical operation and its financial aspects.
+
+**2.** That report shall be accompanied, if appropriate, by proposals for amending provisions of this Directive relating to the system of interconnection of registers.
+
+**3.** The Commission and the representatives of the Member States shall regularly convene to discuss matters covered by this Directive relating to the system of interconnection of registers in any appropriate forum.
+
+**4.** By 30 June 2016, the Commission shall review the functioning of those provisions which concern the reporting and documentation requirements in the case of mergers and divisions and which have been amended or added by Directive 2009/109/EC of the European Parliament and of the Council (13), and in particular their effects on the reduction of administrative burdens on companies, in the light of experience acquired in their application, and shall present a report to the European Parliament and the Council, accompanied if necessary by proposals to amend those provisions.
+
+<a id="art_162a"></a>
+
+### Article 162a — Amendments to the Annexes
+
+Member States shall inform the Commission without delay of any changes to the types of limited liability companies provided for in their national law which would affect the contents of Annexes I, II and IIA.
+
+Where a Member State informs the Commission pursuant to the first paragraph of this Article, the Commission shall be empowered to adapt the list of the types of the companies contained in Annexes I, II and IIA in line with the information referred to in the first paragraph of this Article, by means of delegated acts in accordance with Article 163.
+
+<a id="art_163"></a>
+
+### Article 163 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Article 25(3) and Article 162a shall be conferred on the Commission for an indeterminate period of time from 31 July 2019.
+
+**3.** The delegation of power referred to in Article 25(3) and Article 162a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+**5.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**6.** A delegated act adopted pursuant to Article 25(3) or Article 162a shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+<a id="art_164"></a>
+
+### Article 164 — Committee procedure
+
+**1.** The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_165"></a>
+
+### Article 165 — Communication
+
+Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the fields covered by this Directive.
+
+<a id="art_166"></a>
+
+### Article 166 — Repeal
+
+Directives 82/891/EEC, 89/666/EEC, 2005/56/EC, 2009/101/EC, 2011/35/EU and 2012/30/EU, as amended by the Directives listed in Part A of Annex III, are repealed, without prejudice to the obligations of the Member States relating to the time limits for the transposition into national law and the dates of application of the Directives set out in Part B of Annex III.
+
+References to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex IV.
+
+<a id="art_167"></a>
+
+### Article 167 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+<a id="art_168"></a>
+
+### Article 168 — Addressees
+
+This Directive is addressed to the Member States.

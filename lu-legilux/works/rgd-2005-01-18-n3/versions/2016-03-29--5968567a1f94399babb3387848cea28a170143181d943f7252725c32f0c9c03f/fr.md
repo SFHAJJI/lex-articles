@@ -1,0 +1,148 @@
+---
+lex_id: 'lu-legilux:rgd-2005-01-18-n3:2016-03-29--5968567a1f94399babb3387848cea28a170143181d943f7252725c32f0c9c03f'
+title: 'Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l''article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2016-03-29'
+valid_to: '2018-09-27'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr'
+source_sha256: '3a42e720f029fe2f56de312c6b09e2d50932f1e3ee3993e4027800a17d9bc703'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/2 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+Les annexes au présent règlement déterminent le modèle du carnet à souches au moyen duquel se font les prescriptions en vue de la délivrance au public de substances visées à l'article 7 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie, ainsi que de médicaments et préparations en contenant.
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+L'annexe A détermine le modèle du carnet à utiliser pour la prescription d'une substance, d'un médicament ou d'une préparation dans le cadre d'un traitement médical ordinaire.
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+L'annexe B détermine le modèle du carnet à utiliser pour la prescription d'une substance, d'un médicament ou d'une préparation dans le cadre du programme de traitement de la toxicomanie par substitution.
+
+Ce même carnet est à utiliser dans le cadre d'une substitution de courte durée.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+Le carnet visé à l'article 2 ci-dessus est de couleur rose-vert. Le carnet visé à l'article 3 est de couleur bleujaune.
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+L'article 8 du règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie est complété par un alinéa final, libellé comme suit:
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+Les modifications suivantes sont apportées au règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution:
+
+1. Le candidat est rendu attentif au fait que l'admission au programme comporte son accord avec la communication de données personnelles à des fins de règlement de frais en rapport avec la délivrance du produit de substitution.
+2. L'Union des caisses de maladie est chargée de faire l'avance aux pharmaciens de leurs prestations faites en vertu du présent règlement, comportant le prix du médicament ou de la substance et les honoraires de dispensation. L'Etat rembourse à l'Union des caisses de maladie le montant des prestations effectivement avancées.
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+Notre Ministre de la Santé est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
+
+<a id="attachment_1"></a>
+
+### ANNEXE A
+
+**Modèle du carnet à souches à utiliser dans le cadre d’un traitement médical ordinaire.**
+
+**Prescription**
+
+| Carnet N° |  | Feuille N° |
+| --- | --- | --- |
+| Date de la prescription: |  |  |
+| Nom et adresse du malade: |  |  |
+|  | ........................................................................................................................... |  |
+| Matricule |  |  |
+| Rp. (en toutes lettres) |  |  |
+| (Nom de la marque du |  |  |
+| médicament et dosage) |  |  |
+| Posologie (en toutes lettres): |  |  |
+| (Durée du traitement, unités/jour, voie d’administration) |  |  |
+| Nom et adresse du prescripteur: |  | Signature: |
+| Code médecin: |  | Cachet: |
+| Date d’exécution de l’ordonnance: |  |  |
+
+<a id="attachment_2"></a>
+
+### ANNEXE B
+
+**Modèle du carnetà souches à utiliser dans le cadre du traitement de la toxicomanie par substitution.**
+
+**Prescription**
+
+| Carnet N° |  | Feuille N° |
+| --- | --- | --- |
+| [ ] Maintenance |  | [ ] Intervention brève |
+| Date de la prescription : |  |  |
+| Nom et adresse du patient : |  |  |
+|  | ............................................................................................................................ |  |
+
+| Matricule du patient : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Nom de la marque du médicament ou D.C.I et dosage prescrit (en toutes lettres)
+
+……………………………………………………………………………………………………..…..........................
+
+……………………………………………………………………………………………………..…..........................
+
+Posologie (en toutes lettres) : ……………………………………………………………………...........................
+
+(Durée du traitement, unités/jour, voie d’administration)
+
+Date de début du traitement : ……………………………………………………………………...........................
+
+Date de fin du traitement : ……………………………………………………………………................................
+
+| Grille de délivrance et de dosage : (à compléter en cas de besoin **par le médecin-prescripteur**) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Date:** | du | au | **Dose:** | ………………...... | mg |  |
+| **Date:** | du | au | **Dose:** | ………………….. | mg |  |
+| **Date:** | du | au | **Dose:** | ………………….. | mg |  |
+| **Date:** | du | au | **Dose:** | ………………….. | mg |  |
+
+Délivrance :
+
+[ ] quotidienne [ ] deux fois par semaine [ ] une fois par semaine [ ] tous les quatorze jours
+
+[ ] autre (à préciser) : ………………………………………….......................................................................
+
+Délivrance effective : (à compléter en cas de besoin **par le pharmacien**)
+
+Date effective de la 1ère délivrance: ………………………………………………………………....................
+
+Date effective de la 2ième délivrance: …………………………………………………………….....................
+
+Date effective de la 3ième délivrance: …………………………………………………………….....................
+
+Date effective de la 4ième délivrance: …………………………………………………………….....................
+
+Distribution : [ ] Pharmacie [ ] Association agrée [ ] Etablissement hospitalier
+
+Nom et adresse du médecin-prescripteur :
+
+……………………………………………………………………………………………………........................
+
+…………………………………………………………………………………………………….......................
+
+Code du médecin-prescripteur : …………………………………………………………………..................
+
+Cachet et signature du médecin-prescripteur :

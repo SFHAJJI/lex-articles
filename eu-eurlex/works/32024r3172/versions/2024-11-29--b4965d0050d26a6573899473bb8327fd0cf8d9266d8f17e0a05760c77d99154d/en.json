@@ -1,0 +1,521 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/3172 of 29\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-11-29",
+  "valid_to": "2024-12-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r3172/versions/2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d/en.xml",
+    "sha256": "4678b25d5968e7f393f6e659b643cba5f4e0e812bbad74c7687492f25863d216",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3172"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nInstitutions shall disclose the information referred to in Article 438, points (a) to (d), (f) and (g), and Article 447, points (a) to (g), of Regulation (EU) No 575/2013 as specified in Section 1 – ‘Disclosure of overview of risk management, key prudential metrics and RWA’ in Annex I.",
+      "text_sha256": "37b260bc3bb31d59d5cc41367dddc0f76c32ec0771460a09c4d23e03954b413d",
+      "md_span": {
+        "start": 782,
+        "end": 1079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nInstitutions shall disclose the information referred to in Article 435 of Regulation (EU) No 575/2013 as specified in Section 2 – ‘Disclosure of risk management objectives and policies’ in Annex I.",
+      "text_sha256": "c2cc1792c232f35bee8ee523343eb6cfb6b40d0872ff0c7ed4458fafebe4db4d",
+      "md_span": {
+        "start": 1112,
+        "end": 1320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nInstitutions shall disclose the information referred to in Article 436, points (b) to (h), of Regulation (EU) No 575/2013 as specified in Section 3 – ‘Disclosure of the scope of application’ in Annex I.",
+      "text_sha256": "05a11ba67ff4f208d4488b844089037056068a0bab8c1c7c7b376d4af37fbaa0",
+      "md_span": {
+        "start": 1353,
+        "end": 1566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nInstitutions shall disclose the information the information referred to in Article 437, points (a) to (f), of Regulation (EU) No 575/2013 as specified in Section 4 – ‘Disclosure of own funds’ in Annex I.",
+      "text_sha256": "b00d01ee8fd7beb1f62018c710fdee2ed63f24b2b1030a48752c1da66f087853",
+      "md_span": {
+        "start": 1599,
+        "end": 1813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nInstitutions shall disclose the information referred to in Article 440, points (a) and (b), of Regulation (EU) No 575/2013 as specified in Section 5 – ‘Disclosure of countercyclical capital buffers’ in Annex I.",
+      "text_sha256": "c68fd5f3bed7bb5cbfa0382ff8bc5062567513129835b4905c957883a5696aed",
+      "md_span": {
+        "start": 1846,
+        "end": 2067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nInstitutions shall disclose the information referred to in Article 451(1), points (a) to (e), and in Article 451(2) and (3) of Regulation (EU) No 575/2013 as specified in Section 6 – ‘Disclosure of leverage ratio’ in Annex I.",
+      "text_sha256": "949157395eb521c70f60c30b611ca67a8b4e24b76835ce0d45ccae8f9cc4b869",
+      "md_span": {
+        "start": 2100,
+        "end": 2336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Global systemically important institutions (G-SIIs) shall disclose the information on the values of the indicators used for determining their score referred to in Article 441 of Regulation (EU) No 575/2013 by using the uniform disclosure format referred to in Article 434a of that Regulation. G-SIIs shall use that disclosure format for the collection of the indicator values by relevant authorities as set out in Article 3(2) of Commission Delegated Regulation (EU) No 1222/2014 (10), with the exception of any ancillary data and memorandum items collected in accordance with Article 3(2) of that Delegated Regulation.\n\n2. G-SIIs shall disclose the information referred to in paragraph 1 in their year-end Pillar 3 report. G-SIIs shall redisclose the information referred to in paragraph 1 in their first Pillar 3 report following the final submission of the values of the indicators to the relevant competent authorities, where the submitted figures are different from the figures disclosed in the year-end Pillar 3 report.",
+      "text_sha256": "7a1766fd50de46d71163e632fbd8735710fa0ef25dbdff06aa94074698e9b3c7",
+      "md_span": {
+        "start": 2369,
+        "end": 3408
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_202403172EN.000101-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nInstitutions shall disclose the information referred to in Article 435(1) and in Article 451a(2), (3) and (4), of Regulation (EU) No 575/2013 as specified in Section 7 – ‘Disclosure of liquidity requirements’ in Annex I.",
+      "text_sha256": "5977cced260b8776f9520230e543166b04adbc97a394853ac9fa251009621b46",
+      "md_span": {
+        "start": 3441,
+        "end": 3672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Institutions shall disclose the information referred to in Article 435(1), points (a), (b), (d) and (f), and in Article 442 of Regulation (EU) No 575/2013 as specified in Section 8 – ‘Disclosure of credit risk quality’ in Annex I.\n\n2. Large institutions that have a ratio between the gross carrying amount of loans and advances that fall under Article 47a(3) of Regulation (EU) No 575/2013 and the total gross carrying amount of loans and advances that fall under Article 47a(1) of that Regulation equal to or higher than 5 % shall, in addition to the information referred to in paragraph 1, disclose additional information to comply with Article 442, points (c) and (f), of that Regulation. Those institutions shall disclose that information on an annual basis.\n\n3. For the purposes of paragraph 2, institutions shall exclude loans and advances classified as held for sale, cash balances at central banks, and other demand deposits both from the denominator and the numerator of the ratio.\n\n4. Institutions shall commence disclosure in accordance with paragraph 2 where they have reached or exceeded the 5 % threshold referred to in that paragraph in two consecutive quarters during the four quarters prior to the reference date of the disclosure. For the reference date of the first disclosure, institutions shall disclose the information concerned by using the templates referred to in that paragraph where they exceed the 5 % threshold on that disclosure reference date.\n\n5. Institutions shall no longer be obliged to disclose in accordance with paragraph 2 where they have fallen below the 5 % threshold on three consecutive quarters during the four quarters prior to the disclosure reference date.",
+      "text_sha256": "1e760265d6485236df9ce64da884e688827a4c1828a09ee16a10f98fe6fe5970",
+      "md_span": {
+        "start": 3705,
+        "end": 5422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nInstitutions shall disclose the information referred to in Article 453, points (a) to (f), of Regulation (EU) No 575/2013 as specified in Section 9 – ‘Disclosure of credit risk mitigation techniques’ in Annex I.",
+      "text_sha256": "2f19332281c04f2c03239565873a7106057a9b781185e8a55180cbc5d80d3924",
+      "md_span": {
+        "start": 5457,
+        "end": 5680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nInstitutions calculating risk-weighted exposure amounts under the Standardised Approach shall disclose the following information on the use of the Standardised Approach:\n\n| (a) | the information referred to in Article 444, points (a) to (e), and the information referred to in Article 453, points (g), (h) and (i), of Regulation (EU) No 575/2013 as specified in Section 10 – ‘Disclosure of credit risk SA’ in Annex I; |\n| --- | --- |\n\n| (b) | the information on the exposure values deducted from own funds referred to in Article 444, point (e), of Regulation (EU) No 575/2013 as specified in Section 4 – ‘Disclosure of own funds’ in Annex I. |\n| --- | --- |",
+      "text_sha256": "94bbaff416c6476823391eb51980a45b05ba641626ded2cfc199a0709e6b8f29",
+      "md_span": {
+        "start": 5715,
+        "end": 6384
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nInstitutions calculating risk-weighted exposure amounts under the IRB Approach shall disclose the information referred to in Article 438, point (h), Article 452, points (a) to (h), and in Article 453, points (g) and (j), of Regulation (EU) No 575/2013 as specified in Section 11 – ‘Disclosure of credit risk IRB’ in Annex I.",
+      "text_sha256": "47a35ebca95254eba70d6c85b2dc313ced569bd3ce9cab98d8459ab536f7f96c",
+      "md_span": {
+        "start": 6419,
+        "end": 6755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nInstitutions shall disclose the information referred to in Article 438, point (e), of Regulation (EU) No 575/2013 as specified in Section 12 – ‘Disclosure of specialised lending and equity exposures’ in Annex I.",
+      "text_sha256": "e3cd2588f196b1df7f1ca6573b0115068a700f5b4e982826fcd420dfe06baf53",
+      "md_span": {
+        "start": 6790,
+        "end": 7013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nInstitutions shall disclose the information referred to in Article 438, point (h), and Article 439 of Regulation (EU) No 575/2013 as specified in Section 13 – ‘Disclosure of counterparty credit risk’ in Annex I.",
+      "text_sha256": "d40c5bbf37f60e84b749abb3459b4590631bcbc2ddaccd04e1d57cfc54abd6b1",
+      "md_span": {
+        "start": 7048,
+        "end": 7271
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nInstitutions shall disclose the information referred to in Article 449 of Regulation (EU) No 575/2013 as specified in Section 14 – ‘Disclosure of exposures to securitisation positions’ in Annex I.",
+      "text_sha256": "99d8ccbc66f1a1d77f430c5fbc19ca3c80630a49bb81de6c4228e4273803d2ae",
+      "md_span": {
+        "start": 7306,
+        "end": 7514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Institutions shall disclose the information referred to in Article 435(1), points (a) to (d), Article 438, Article 445(1) and (2), Article 455(1), points (a) to (f), and Article 455(2) and (3), of Regulation (EU) No 575/2013 as specified in Section 15 – ‘Disclosure of market risk’ in Annex I.\n\n2. Until 31 December 2025, institutions shall make the disclosures in accordance with Article 15 of Commission Implementing Regulation (EU) 2021/637 (11).\n\n3. At the first date of application of the use of the alternative approaches referred to in Article 325az of Regulation (EU) No 575/2013, institutions using the alternative internal model approach for market risk shall disclose the qualitative information referred to in Article 455(1), points (a) to (f), of Regulation (EU) No 575/2013 together with the quantitative information referred to in Article 455(2) of that Regulation.",
+      "text_sha256": "63208dc7bd048cc20403df1c0c96f6d2d361f69359529661a693ff6281ce6c0b",
+      "md_span": {
+        "start": 7549,
+        "end": 8444
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_202403172EN.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nInstitutions shall disclose the information referred to in Article 438, points (d) and (h), Article 439, point (h), and Article 445a of Regulation (EU) No 575/2013 as specified in Section 16 – ‘Disclosure of credit valuation adjustment’ in Annex I.",
+      "text_sha256": "6ac83be0569312a33a073d567b023bb14f7dedcc10bebd3788f4f17116164b40",
+      "md_span": {
+        "start": 8479,
+        "end": 8739
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nInstitutions shall disclose the information referred to in Article 435, Article 438, point (d), and Article 446 of Regulation (EU) No 575/2013 as specified in Section 17 – ‘Disclosure of operational risk’ in Annex I.",
+      "text_sha256": "1dcc4d51e9b83540533aa051ab3239755b5caa84fdd4fab7d1c1e29ec5ccf9db",
+      "md_span": {
+        "start": 8774,
+        "end": 9002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Institutions shall disclose the information referred to in Article 448(1), points (a) to (g), of Regulation (EU) No 575/2013 as specified in Section 18 – ‘Disclosure of interest rate risk of non-trading book activities’ in Annex I.\n\n2. Institutions that disclose information in accordance with paragraph 1 for the first time shall not be obliged to disclose that information relating to the previous reference date.",
+      "text_sha256": "584b3c56bff85d88a83ba3361548d7b42975938b5a2b75f5fb6e97b3fc0c11c6",
+      "md_span": {
+        "start": 9037,
+        "end": 9467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nInstitutions shall disclose the information referred to in Article 450 of Regulation (EU) No 575/2013 as specified in Section 19 – ‘Disclosure of remuneration policy’ in Annex I.",
+      "text_sha256": "84e34e019643b7c07ce68092aa9a06b7f012c33cd674447aa7d6fda973980b9e",
+      "md_span": {
+        "start": 9502,
+        "end": 9692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nInstitutions shall disclose the information referred to in Article 443 of Regulation (EU) No 575/2013 as specified in Section 20 – ‘Disclosure of encumbered and unencumbered assets’ in Annex I.",
+      "text_sha256": "d34cd1e6f7ae8d2556cc53f12898230e8c1517490f021f34285bdae9ecb32612",
+      "md_span": {
+        "start": 9727,
+        "end": 9932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Institutions shall disclose the information referred to in Article 449a of Regulation (EU) No 575/2013 as specified in Section 21 – ‘Disclosure of prudential disclosures on ESG risks’ in Annex I. That information shall cover all of the following:\n\n| (a) | qualitative information on environmental, social and governance risks; |\n| --- | --- |\n\n| (b) | quantitative information on climate change transition risk; |\n| --- | --- |\n\n| (c) | quantitative information on climate change physical risks; |\n| --- | --- |\n\n| (d) | quantitative information on mitigating actions associated with economic activities that qualify as environmentally sustainable under Article 3 of Regulation (EU) 2020/852 towards those counterparties that are subject to Articles 19a or 29a of Directive 2013/34/EU, towards households, and towards local governments as referred to in Part 1, point 42(b), of Annex V to Commission Implementing Regulation (EU) 2021/451 (12); |\n| --- | --- |\n\n| (e) | quantitative information on other mitigating actions and exposures to climate-change-related risks that do not qualify as environmentally sustainable economic activities under Article 3 of Regulation (EU) 2020/852 but support counterparties in the transition or adaptation process for the objectives of climate change mitigation and climate change adaptation. |\n| --- | --- |\n\n2. Institutions may choose to disclose quantitative information on mitigating actions and exposures on climate-change-related risks associated with economic activities that qualify as environmentally sustainable under Article 3 of Regulation (EU) 2020/852, towards counterparties that are non-financial corporations, that are not subject to the disclosure obligations laid down in Articles 19a or 29a of Directive 2013/34/EU, and that are not subject to the disclosure obligations laid down in Commission Implementing Regulation (EU) 2021/2178 (13).\n\nFor the calculation of the percentage of the exposures to activities that comply with the requirements laid down in Article 3 of Regulation (EU) 2020/852 (taxonomy-aligned exposures) towards those counterparties, institutions:\n\n| (a) | may, where available, use the information received from their counterparties on a voluntary and bilateral basis through the loan origination, and regular credit review and monitoring processes; |\n| --- | --- |\n\n| (b) | where the counterparty is not able or willing to provide the data concerned on a bilateral basis, may use internal estimates and proxies and explain in the narrative accompanying the template to what extent those internal estimates and proxies have been used, and which internal estimates and proxies have been applied; |\n| --- | --- |\n\n| (c) | where they are unable to collect on a bilateral basis the information concerned, or cannot use internal estimates and proxies, or cannot collect that information or use those estimates and proxies in a way that is not overly burdensome for them or their counterparties, may explain that inability in the narrative accompanying the template. |\n| --- | --- |\n\nFor the purposes of point (a), institutions shall inform their counterparties that the provision of such information is voluntary.",
+      "text_sha256": "4b3c75b49b22fe122dad64e070661155445e64ffff76b7923a8b9095cc1da6bf",
+      "md_span": {
+        "start": 9967,
+        "end": 13167
+      },
+      "citations": [
+        {
+          "href": "#ntr12-L_202403172EN.000101-E0012",
+          "text": "(12)"
+        },
+        {
+          "href": "#ntr13-L_202403172EN.000101-E0013",
+          "text": "(13)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nInstitutions shall disclose the information for the calculation of the own funds requirements of exposures to crypto-assets in accordance with Article 501d(2) of Regulation (EU) No 575/2013 as specified in Section 22 – ‘Disclosure of exposures to crypto assets’ in Annex I.",
+      "text_sha256": "049caf2406356fb9693e66d1432016dabf2095185fcd40aca72fe55672594443",
+      "md_span": {
+        "start": 13202,
+        "end": 13487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nThe EBA shall ensure that the IT solutions, including instructions, developed for disclosures required under Titles II and III of Regulation (EU) No 575/2013 comply with the uniform disclosure formats laid down in this Regulation at all times and include all the data points and information listed in the disclosure templates.\n\nThe EBA shall make available the IT solutions referred to in first paragraph and any related instructions on its website. The EBA shall keep those IT solutions and instructions up-to-date and available in all official languages.",
+      "text_sha256": "5be4b1b2bf5cd0f22feeeda5e9fd79bdcaab4fe834dc3d017c1875428d963676",
+      "md_span": {
+        "start": 13522,
+        "end": 14090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. The numbering of rows or columns in the uniform disclosure formats referred to in the Annex Ind included in the IT solutions developed by the EBA shall not be altered where an institution omits one or more disclosures in accordance with Article 432 of Regulation (EU) No 575/2013.\n\n2. Institutions shall make a clear note in the narrative accompanying the IT solution-based template or table concerned indicating which rows or columns are not populated and stating the reason of the omission of the disclosure.\n\n3. The information required by Article 431 of Regulation (EU) No 575/2013 shall be clear and comprehensive, enabling users of that information to understand the quantitative disclosures, and shall be placed next to the templates to which that information relates.\n\n4. Numeric values shall be presented as follows:\n\n| (a) | quantitative monetary data shall be disclosed using a minimum precision equivalent to millions of units; |\n| --- | --- |\n\n| (b) | quantitative data disclosed as ‘percentage’ shall be expressed as per unit with a minimum precision equivalent to four decimals. |\n| --- | --- |\n\n5. Institutions shall also provide the following information:\n\n| (a) | disclosure reference date and reference period; |\n| --- | --- |\n\n| (b) | reporting currency; |\n| --- | --- |\n\n| (c) | name and, where relevant, the legal entity identifier (LEI) of the disclosing institution; |\n| --- | --- |\n\n| (d) | where relevant, the accounting standard used; |\n| --- | --- |\n\n| (e) | where relevant, the scope of consolidation. |\n| --- | --- |",
+      "text_sha256": "4fbbf8ee9e39999300888b0eda90ec71a89abf94a61212f861de91bd6b0ea590",
+      "md_span": {
+        "start": 14125,
+        "end": 15686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Disclosure periods shall be defined as quarterly periods T, T-1, T-2, T-3 and T-4.\n\n2. The rows or columns in the uniform disclosure formats referred to in the Annex Ind included in the IT solutions developed by the EBA shall be populated in accordance with the frequency of the disclosure laid down in Articles 433a, 433b and 433c of Regulation (EU) No 575/2013.\n\n3. Institutions subject to the obligation to publish disclosures shall disclose information with the following frequency:\n\n| (a) | institutions disclosing the information contained in the Annex I on a quarterly basis shall provide data for periods T, T-1, T-2, T-3 and T-4; |\n| --- | --- |\n\n| (b) | institutions disclosing the information contained in the Annex I on a semi-annual basis shall provide data for periods T, T-2 and T-4; |\n| --- | --- |\n\n| (c) | institutions disclosing the information contained in the Annex I on an annual basis shall provide data for periods T and T-4. |\n| --- | --- |\n\n4. Institutions shall disclose the dates corresponding to the disclosure periods.\n\n5. The disclosure of data for previous periods shall not be required where data are disclosed for the first time.",
+      "text_sha256": "e4845dc7af2996ae3531cc62d0a5a24ad3d6e1f3ee85006f47a228a69bfb8429",
+      "md_span": {
+        "start": 15721,
+        "end": 16899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Implementing Regulation (EU) 2021/637 shall cease to apply from 1 January 2025, except for Article 15 and Annexes XXIX and XXX. Article 15 and Annexes XXIX and XXX of Implementing Regulation (EU 2021/637 shall continue to apply until 31 December 2025 only for the purposes of Article 16 of this Regulation.\n\n2. Implementing Regulation (EU) 2021/637 is repealed with effect from 31 December 2025.\n\n3. References to the repealed Regulation shall be construed as references to this Regulation and read in accordance with the correlation table in Annex II.",
+      "text_sha256": "24d652f6876890eb5849c418c0e235a9c9a4447b53da2ae2a39bbd5be604aec1",
+      "md_span": {
+        "start": 16934,
+        "end": 17501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29--b4965d0050d26a6573899473bb8327fd0cf8d9266d8f17e0a05760c77d99154d#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2025.",
+      "text_sha256": "e20a7d0535fc9044eb9a86a4dd93ffcfedef15aec567b3acc0b4a8c619e1c4fa",
+      "md_span": {
+        "start": 17536,
+        "end": 17725
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

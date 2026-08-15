@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31996l0061:2008-02-18--73662df9f7f2effc3342e24f488831f77d0c32e301d80c148250d0dac73259b8",
+  "language": "en",
+  "title": "Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention…",
+  "valid_from": "2008-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31996l0061/versions/2008-02-18--73662df9f7f2effc3342e24f488831f77d0c32e301d80c148250d0dac73259b8/en.html",
+    "sha256": "1d4ea2e18b52732ab3106107f3076d7036e146452042c1e987dceca022f34761",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0061-20080218"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31996l0061:2008-02-18--73662df9f7f2effc3342e24f488831f77d0c32e301d80c148250d0dac73259b8#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1996L0061 — EN — 18.02.2008 — 005.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL DIRECTIVE 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control (OJ L 257, 10.10.1996, p.26) repealed by: Official Journal No page date Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 L 24 8 29.1.2008",
+      "text_sha256": "12d230cc62d98fad6cd1bc1090f8394f4ab19bafe2964bbe2cf8dfb63a0a234c",
+      "md_span": {
+        "start": 724,
+        "end": 1161
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

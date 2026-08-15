@@ -1,0 +1,123 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/08/2022 : Loi du 23 décembre 2014 relative à la réalisation du Pôle d'échange multimodal de la Gare d'Ettelbruck et à la modification de la loi modifiée du 10 mai 1995 relative à la gestion de l'infrastructure ferroviaire.",
+  "valid_from": "2022-08-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2014-12-23-n1/versions/2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6/fr.xml",
+    "sha256": "407ed8aed789626d35b3bbf7aebf5bef114e63cd9a0eba88cfc9f66801351c7e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/art_1er/20150102",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-02",
+      "text_md": "Le Gouvernement est autorisé à procéder à la construction du Pôle d’échange multimodal de la Gare d’Ettelbruck.",
+      "text_sha256": "85e66dd0b3116e3ddd5b3d8eda91519948305384ac86661a66510e20e945a5f1",
+      "md_span": {
+        "start": 816,
+        "end": 927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/art_2/20220802",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-02",
+      "text_md": "Les dépenses engagées au titre du projet visé à l’article 1er ne peuvent pas dépasser le montant de 196 600 000 euros. Ce montant correspond à la valeur 738,97 de l’indice semestriel des prix à la construction du 1er octobre 2013. Déduction faite des dépenses déjà engagées par le pouvoir adjudicateur, ce montant est adapté semestriellement en fonction de la variation de l’indice des prix de la construction précité.",
+      "text_sha256": "a11f5db42cf5c9a3a4a78dda85a57ba1c154951a1fa33d68916ff8f21fa8deee",
+      "md_span": {
+        "start": 962,
+        "end": 1380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/art_3/20220802",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-02",
+      "text_md": "La part des dépenses visées à l’article 2 qui est imputable au Fonds du rail ne peut pas dépasser le montant de 112.700.000 euros.\n\nLa part des dépenses visées à l’article 2 qui est imputable au Fonds des Routes ne peut pas dépasser le montant de 83 900 000 euros.",
+      "text_sha256": "c483131dfba0ab2900a424e4b2fae3f407cc206e24ca552d17fca66e420680ca",
+      "md_span": {
+        "start": 1415,
+        "end": 1679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/art_4/20150108",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-02",
+      "text_md": "Le deuxième et le troisième alinéa du paragraphe 3 de l’article 10 de la loi modifiée du 10 mai 1995 relative à la gestion de l’infrastructure ferroviaire sont modifiés et complétés comme suit:\n\n1. Le deuxième alinéa du paragraphe 3 est complété comme suit:\n\n| 33° | Pôle d’échange multimodal de la gare d’Ettelbruck | 98.000.000 Euros |\n| --- | --- | --- |\n\n1. Ces montants s’entendent hors taxe sur la valeur ajoutée (TVA). Les montants repris sous 1a°, 3°, 10°, 11, 12° et 14° correspondent à la valeur 524,53 de l'indice semestriel des prix de la construction au 1er avril 2000. Ceux repris sous 1b°, 2°, 4°, 5°, 6°, 7°, 8°, 15°, 16°, 17°, 18°, 19° et 20° correspondent à la valeur 554,26 de cet indice au 1er octobre 2001. Celui repris sous 21° correspond à la valeur 563,36 de cet indice au 1er avril 2002. Celui repris sous 22° correspond à la valeur 569,61 de cet indice au 1er octobre 2002. Les montants repris sous 9°, 23°, 24° et 25° correspondent à la valeur 666,12 de cet indice au 1er avril 2008. Celui repris sous 28° correspond à la valeur 685,44 de cet indice au 1er octobre 2010. Ceux sous 29° et 30° correspondent à la valeur 725,05 de cet indice au 1er octobre 2012. Celui sous 31° correspond à la valeur 730,85 de cet indice au 1er avril 2013. Ceux sous 32° et 33° correspondent à la valeur 738,97 de cet indice au 1er octobre 2013. Déduction faite des dépenses déjà engagées par le pouvoir adjudicateur, ce montant est adapté semestriellement en fonction de la variation de l’indice des prix de la construction précité.",
+      "text_sha256": "3f5e67457b8ebba32ab75b61a0166b3df2857d7a38f84dacb50eeaca56d365fd",
+      "md_span": {
+        "start": 1714,
+        "end": 3255
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1995/05/10/n1/jo",
+          "text": "loi modifiée du 10 mai 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2014-12-23-n1:2022-08-02--d9eb4ff768cd1b47ccf70ff4ad4cbaf4a7a7777c8d7fda264b64d6e067aaa8a6#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/art_5/20220802",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-02",
+      "text_md": "Les travaux visés à l‘article 1er de la loi du 23 décembre 2014 relative à la réalisation du Pôle d’échange multimodal de la Gare d’Ettelbruck et à la modification de la loi modifiée du 10 mai 1995 relative à la gestion de l’infrastructure ferroviaire, sont déclarés d’utilité publique.",
+      "text_sha256": "911eeaf3c5a86816da7c313e8df6533e78d8b4486fdc6c85b5f4ca2b3febed63",
+      "md_span": {
+        "start": 3290,
+        "end": 3576
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/12/23/n1/jo",
+          "text": "loi du 23 décembre 2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1995/05/10/n1/jo",
+          "text": "loi modifiée du 10 mai 1995"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

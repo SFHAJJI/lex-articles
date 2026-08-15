@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0056:2017-07-20--818a237fbed9a37887580fd4cb11b8c7bae9e8f7669e3880d97e87fb2362bac4",
+  "language": "fr",
+  "title": "Directive 2005/56/EC",
+  "valid_from": "2017-07-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0056/versions/2017-07-20--818a237fbed9a37887580fd4cb11b8c7bae9e8f7669e3880d97e87fb2362bac4/fr.html",
+    "sha256": "a60f7a73cb00f06b3fb7ab23808d9c00107f4b7d87bec4b6cd7ab69d424a3e5d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02005L0056-20170720"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32005l0056:2017-07-20--818a237fbed9a37887580fd4cb11b8c7bae9e8f7669e3880d97e87fb2362bac4#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "02005L0056 — FR — 20.07.2017 — 004.001 Ce texte constitue seulement un outil de documentation et n’a aucun effet juridique. Les institutions de l'Union déclinent toute responsabilité quant à son contenu. Les versions faisant foi des actes concernés, y compris leurs préambules, sont celles qui ont été publiées au Journal officiel de l’Union européenne et sont disponibles sur EUR-Lex. Ces textes officiels peuvent être consultés directement en cliquant sur les liens qui figurent dans ce document ►B DIRECTIVE 2005/56/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL du 26 octobre 2005 sur les fusions transfrontalières des sociétés de capitaux (Texte présentant de l'intérêt pour l'EEE) (JO L 310, 25.11.2005, p.1) abrogé par: Journal officiel n° page date Directive (UE) 2017/1132 du Parlement européen et du Conseil du 14 juin 2017 L 169 46 30.6.2017",
+      "text_sha256": "e40cde85cfd596e226e0b784eeff7ab85e2e4c8fcb73da0f1d8fc4e77e4e930c",
+      "md_span": {
+        "start": 653,
+        "end": 1497
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

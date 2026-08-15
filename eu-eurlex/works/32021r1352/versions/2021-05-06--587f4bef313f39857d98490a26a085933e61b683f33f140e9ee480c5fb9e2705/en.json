@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/1352 of 6\u00A0May 2021 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2021-05-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1352/versions/2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705/en.xml",
+    "sha256": "2d452cbd1affa8c4ee493feb3901190fbe98de88e7cd7cfa3ac5a9e99e6ece3a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1352"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. A benchmark methodology as referred to in Article 12(1), point (a), of Regulation (EU) 2016/1011, shall:\n\n| (a) | be capable of representing the underlying market or economic reality that it seeks to measure and shall incorporate factors, including parameters and input data, that are most relevant to measure the underlying market; |\n| --- | --- |\n\n| (b) | be subject to an assessment of the relationship between the key assumptions used and the sensitivity of the benchmark computed by that methodology; |\n| --- | --- |\n\n| (c) | specify the nature of the input data used in the methodology; |\n| --- | --- |\n\n| (d) | specify any criteria to be applicable in circumstances in which the quantity or quality of input data falls below the standards necessary for the methodology to determine the benchmark accurately and reliably. |\n| --- | --- |\n\n2. Administrators of non-significant benchmarks may choose not to apply paragraph 1, point (b), for those benchmarks.\n\n3. Administrators of regulated-data benchmarks may choose not to apply paragraph 1, points (b) and (c), for those benchmarks.",
+      "text_sha256": "00312439e9241b9aef8aca91399f0ddeef81c59a1cea3d8b1e6aea46717c8ce0",
+      "md_span": {
+        "start": 711,
+        "end": 1814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nA benchmark methodology as referred to in Article 12(1), point (b), of Regulation (EU) 2016/1011 shall specify all of the following:\n\n| (a) | the step of the calculation of the benchmark at which discretion is performed; |\n| --- | --- |\n\n| (b) | the criteria that are to be used when exercising the discretion; |\n| --- | --- |\n\n| (c) | the input data that are to be taken into account; |\n| --- | --- |\n\n| (d) | where applicable, a non-exhaustive list of the conditions under which:(i)transaction data in the underlying market are to be considered as not sufficient and the use of transaction data in related markets is needed;(ii)applying the methodology does not yield a result and discretion has to be exercised in the determination of the benchmark; |\n| --- | --- |\n| (i) | transaction data in the underlying market are to be considered as not sufficient and the use of transaction data in related markets is needed; |\n| (ii) | applying the methodology does not yield a result and discretion has to be exercised in the determination of the benchmark; |\n\n| (e) | the type of related markets that are to be considered appropriate for the purposes of point (d)(i). |\n| --- | --- |",
+      "text_sha256": "03ec1f2093578e0994ff468302019697cb0e15e11f20e9e2f3fcf6aca5cf49ae",
+      "md_span": {
+        "start": 1847,
+        "end": 3038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. A benchmark methodology as referred to in Article 12(1), point (c), of Regulation (EU) 2016/1011 shall contain all of the following:\n\n| (a) | an assessment of the adequacy and appropriateness of the historical values of the benchmark produced by that methodology; |\n| --- | --- |\n\n| (b) | reliable input data, including appropriate size of the data samples, if any. |\n| --- | --- |\n\n2. Benchmark administrators shall ensure that any back-testing to which the benchmark methodology is subject takes place ex post and refers to an appropriate time horizon.\n\nBack-testing shall take place at least at each annual review of the benchmark methodology and following any material change of that methodology. For regulated-data benchmarks, back-testing shall take place at the first provision of the benchmark. For critical benchmarks, a monthly back-testing shall be performed.\n\nThe benchmark methodology shall include an assessment of the back-testing results, including processes to ensure that systemic anomalies highlighted by back-testing are identified and properly addressed.",
+      "text_sha256": "71c91ff3ad5bfc650fe45fcbed120a6a74699fb44c806e28e8a6491b55328c2e",
+      "md_span": {
+        "start": 3071,
+        "end": 4160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Administrators shall assess the impact of various market conditions on the methodology using historical data from stressed market conditions. Where no appropriate historical data are available, administrators of critical benchmarks shall use hypothetical data representing stressed market conditions.\n\n2. Administrators shall use parameters and assumptions in the methodology to capture a variety of historical or, in the case of administrators of critical benchmarks, hypothetical conditions, including the most volatile periods experienced by the markets and taking into account a variety of hypotheses for correlation between underlying assets.\n\n3. Administrators of non-significant benchmarks and regulated-data benchmarks may choose not to apply paragraph 2 with respect to those benchmarks.\n\n4. Administrators may choose not to apply any of the requirements laid down in paragraphs 1 and 2, having regard to the following matters:\n\n| (a) | the nature, scale and complexity of the provision of the benchmarks; |\n| --- | --- |\n\n| (b) | the likelihood of a conflict of interest arising in the provision of the benchmarks; |\n| --- | --- |\n\n| (c) | the level of discretion involved in the process of provision of benchmarks. |\n| --- | --- |",
+      "text_sha256": "c904ad8b1f47bbcbab2109848492a98f02c541cbf06103cbdcb95d9302aaeccb",
+      "md_span": {
+        "start": 4193,
+        "end": 5448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nBenchmark administrators shall keep a documented audit trail of the calculation of the benchmark, including any assessment of the resilience of the methodology and the back-testing results.",
+      "text_sha256": "2c93eae807ecab74f6450029dd7e6d06f74b66ed6807ca192e8167c611113763",
+      "md_span": {
+        "start": 5481,
+        "end": 5681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32021r1352:2021-05-06--587f4bef313f39857d98490a26a085933e61b683f33f140e9ee480c5fb9e2705#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2022.",
+      "text_sha256": "312a1dbe476baa69fa3932eb8c55a6d94648d038a9ca04dd1907ef325760ad42",
+      "md_span": {
+        "start": 5714,
+        "end": 5902
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

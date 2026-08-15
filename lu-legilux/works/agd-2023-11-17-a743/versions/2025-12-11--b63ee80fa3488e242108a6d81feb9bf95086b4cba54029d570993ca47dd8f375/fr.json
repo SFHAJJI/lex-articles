@@ -1,0 +1,80 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-2023-11-17-a743:2025-12-11--b63ee80fa3488e242108a6d81feb9bf95086b4cba54029d570993ca47dd8f375",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/12/2025 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles.",
+  "valid_from": "2025-12-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-2023-11-17-a743/versions/2025-12-11--b63ee80fa3488e242108a6d81feb9bf95086b4cba54029d570993ca47dd8f375/fr.xml",
+    "sha256": "5c05a4fe29a1668f85775d38187f801b20708a4f7a172c8440f0c76b98999172",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20251211/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-2023-11-17-a743:2025-12-11--b63ee80fa3488e242108a6d81feb9bf95086b4cba54029d570993ca47dd8f375#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_1er/20251211",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-11",
+      "text_md": "Les compétences ministérielles sont attribuées comme suit :\n\n- Monsieur Luc FRIEDEN : Premier ministre ;\n- Monsieur Xavier BETTEL : Vice-Premier ministre ; Ministre des Affaires étrangères et européennes, de la Coopération, du Commerce extérieur et à la Grande Région ;\n- Monsieur Marc SPAUTZ : Ministre du Travail ;\n- Madame Martine HANSEN : Ministre de l’Agriculture, de l’Alimentation et de la Viticulture ;\n- Monsieur Claude MEISCH : Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse ; Ministre du Logement et de l’Aménagement du territoire ;\n- Monsieur Lex DELLES : Ministre de l’Économie, des PME, de l’Énergie et du Tourisme ;\n- Madame Yuriko BACKES : Ministre de la Défense ; Ministre de l’Égalité des genres et de la Diversité ; Ministre de la Mobilité et des Travaux publics ;\n- Monsieur Max HAHN : Ministre de la Famille, des Solidarités, du Vivre ensemble et de l’Accueil ;\n- Monsieur Gilles ROTH : Ministre des Finances ;\n- Madame Martine DEPREZ : Ministre de la Santé et de la Sécurité sociale ;\n- Monsieur Léon GLODEN : Ministre des Affaires intérieures ;\n- Madame Stéphanie OBERTIN : Ministre de la Digitalisation ; Ministre de la Recherche et de l’Enseignement supérieur ;\n- Monsieur Georges MISCHO : Ministre des Sports ; Ministre du Travail ;\n- Monsieur Serge WILMES : Ministre de l’Environnement, du Climat et de la Biodiversité ; Ministre de la Fonction publique ;\n- Madame Elisabeth MARGUE : Ministre de la Justice ; Ministre déléguée auprès du Premier ministre, chargée des Médias et des Communications ; Ministre déléguée auprès du Premier ministre, chargée des Relations avec le Parlement ;\n- Monsieur Eric THILL : Ministre de la Culture ; Ministre délégué au Tourisme.",
+      "text_sha256": "be6fef967721654a06a117c7ed70b5138c610ec66262b8f26a34d16b50552859",
+      "md_span": {
+        "start": 695,
+        "end": 2405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-2023-11-17-a743:2025-12-11--b63ee80fa3488e242108a6d81feb9bf95086b4cba54029d570993ca47dd8f375#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_2/20231117",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-11-17",
+      "text_md": "L’arrêté du 16 novembre 2023 portant attribution des compétences ministérielles aux membres du Gouvernement est abrogé.",
+      "text_sha256": "67aeea1fa4f7fdb56f6077ae11f5f1bc40f0508431ae110aea7f6f4c5d763da7",
+      "md_span": {
+        "start": 2440,
+        "end": 2559
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/2023/11/16/a739/jo",
+          "text": "arrêté du 16 novembre 2023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-2023-11-17-a743:2025-12-11--b63ee80fa3488e242108a6d81feb9bf95086b4cba54029d570993ca47dd8f375#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_3/20231117",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-11-17",
+      "text_md": "Le Premier ministre est chargé de l’exécution du présent arrêté qui sortira ses effets au 17 novembre 2023.",
+      "text_sha256": "0b17d1c825ac3eae55b443eab0e9dd1681c87b8a75b5a7536c7410f3a2f2299a",
+      "md_span": {
+        "start": 2594,
+        "end": 2701
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

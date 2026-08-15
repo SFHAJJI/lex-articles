@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0322:2016-02-10--a812e9667d3ef1dfa0667ed6b52c407d3ac6530328708ee5f91b8ee6f0aed7c1",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/322 of 10 February 2016 amending Implementing…",
+  "valid_from": "2016-02-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0322/versions/2016-02-10--a812e9667d3ef1dfa0667ed6b52c407d3ac6530328708ee5f91b8ee6f0aed7c1/en.xml",
+    "sha256": "89097d91e99452a882d6a767d5c244f26740c7c02926ec918aa13a92d710b042",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0322"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0322:2016-02-10--a812e9667d3ef1dfa0667ed6b52c407d3ac6530328708ee5f91b8ee6f0aed7c1#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) No 680/2014 is amended as follows:\n\n| (1) | Article 15 is replaced by the following:‘Article 15Format and frequency of reporting on liquidity coverage requirement1. In order to report information on the liquidity coverage requirement in accordance with Article 415 of Regulation (EU) No 575/2013 on an individual and consolidated basis, institutions shall apply the following:(a)credit institutions shall submit the information specified in Annex XXII according to the instructions in Annex XXIII with a monthly frequency;(b)all other institutions except those specified in point (a), shall submit the information specified in Annex XII according to the instructions in Annex XIII with a monthly frequency.2. The information set out in Annexes XII and XXII shall take into account the information submitted for the reference date and the information on the cash-flows of the institution over the following 30 calendar days.’; |\n| --- | --- |\n| (a) | credit institutions shall submit the information specified in Annex XXII according to the instructions in Annex XXIII with a monthly frequency; |\n| (b) | all other institutions except those specified in point (a), shall submit the information specified in Annex XII according to the instructions in Annex XIII with a monthly frequency. |\n\n| (2) | Annexes XXII and XXIII are added as set out, respectively, in Annexes I and II to this Regulation; |\n| --- | --- |\n\n| (3) | In Article 18, the following subparagraph is added:‘For the period from 10 September 2016 to 10 March 2017, as a deviation from point (a) of Article 3(1), the reporting remittance date relating to the monthly reporting of the LCR for credit institutions shall be the 30th calendar day after the reporting reference date.’. |\n| --- | --- |",
+      "text_sha256": "d14a9514eecb53b01bafd4d1e122aa2083fa877fd3c07f228656417772da0973",
+      "md_span": {
+        "start": 702,
+        "end": 2501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0322:2016-02-10--a812e9667d3ef1dfa0667ed6b52c407d3ac6530328708ee5f91b8ee6f0aed7c1#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 10 September 2016.",
+      "text_sha256": "c7682a85753e20c905bd14579139ddc1cb31287161ffb95d7f0c6263b87aa85d",
+      "md_span": {
+        "start": 2534,
+        "end": 2725
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

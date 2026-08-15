@@ -1,0 +1,803 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae",
+  "language": "fr",
+  "title": "Version consolidée applicable au 08/03/2024 : Loi du 17 mars 2004 relative au mandat d'arrêt européen et aux procédures de remise entre Etats membres de l'Union européenne.",
+  "valid_from": "2015-04-21",
+  "valid_to": "2017-04-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2004-03-17-n1/versions/2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae/fr.xml",
+    "sha256": "5955304f404a289536ee02f69b0e7aeac48d88e75abe2db206b21f78d0b638ca",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20150421/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_1er/20040326",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Principes Généraux"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** L'arrestation et la remise de personnes recherchées pour l'exercice de poursuites pénales ou pour l'exécution d'une peine ou d'une mesure de sûreté privatives de liberté entre le Luxembourg et les autres Etats membres de l'Union européenne sont régies par la présente loi.\n\n**2.** L'arrestation et la remise s'effectuent sur la base d'un mandat d'arrêt européen.\n\n**3.** Le mandat d'arrêt européen est une décision judiciaire émise par l'autorité judiciaire compétente d'un Etat membre de l'Union européenne, appelée autorité d'émission, en vue de l'arrestation et de la remise par l'autorité compétente d'un autre Etat membre, appelée autorité d'exécution, d'une personne recherchée pour l'exercice de poursuites pénales ou pour l'exécution d'une peine ou d'une mesure de sûreté privatives de liberté.\n\n**4.** Le mandat d'arrêt européen contient, dans les formes prévues par le formulaire figurant en annexe de la présente loi, les informations suivantes:\n\n1. l'identité et la nationalité de la personne recherchée;\n2. le nom, l'adresse, le numéro de téléphone et de téléfax, l'adresse de courrier électronique de l'autorité judiciaire d'émission;\n3. l'indication de l'existence d'un jugement exécutoire, d'un mandat d'arrêt ou de toute autre décision judiciaire exécutoire ayant la même force et concernant un fait visé à l'article 3;\n4. la nature et la qualification légale de l'infraction, notamment au regard de l'article 3;\n5. la description des circonstances dans lesquelles l'infraction a été commise, y compris le moment et le lieu de sa commission et le degré de participation à l'infraction de la personne recherchée;\n6. la peine prononcée, s'il s'agit d'un jugement définitif, ou l'échelle de peines prévue par la loi de l'Etat d'émission;\n7. dans la mesure du possible, les autres conséquences de l'infraction.\n\n**5.** Le mandat d'arrêt européen adressé aux autorités luxembourgeoises doit être rédigé en français ou en allemand ou en anglais ou être accompagné d'une traduction dans l'une de ces trois langues.",
+      "text_sha256": "451d537215d66b811727416723334fa680850ebecf4cec316f999b63cdf9a48b",
+      "md_span": {
+        "start": 773,
+        "end": 2804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_2/20040326",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I.- — Principes Généraux"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Un mandat d'arrêt européen peut être émis:\n\n1. pour des faits punis par la loi de l’Etat d’émission d’une peine ou d’une mesure de sûreté privatives de liberté d’un maximum d’au moins douze mois\n\nou,\n\n2. lorsqu’une condamnation à une peine est intervenue ou qu’une mesure de sûreté a été infligée, pour des sanctions prononcées d’une durée d’au moins quatre mois.",
+      "text_sha256": "3e3d5e62d6ced1493bcbceb0c0af9ad89aa120f03a4ee02c389e3c39cdd543c3",
+      "md_span": {
+        "start": 2839,
+        "end": 3202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_3/20040326",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 1.- — Conditions d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** L'exécution d'un mandat d'arrêt européen est refusée si le fait qui est à la base du mandat d'arrêt européen ne constitue pas une infraction au regard du droit luxembourgeois.\n\n**2.** En matière de taxes et impôts, de douane et de change, l'exécution du mandat d'arrêt européen ne pourra être refusée pour le motif que la loi luxembourgeoise n'impose pas le même type de taxe ou d'impôts ou ne contient pas le même type de réglementation en matière de taxes ou impôts, de douane et de change que la législation de l'Etat d'émission.\n\n**3.** Par dérogation au paragraphe 1er, un mandat d'arrêt européen est exécuté sans contrôle de la double incrimination et aux conditions de la présente loi, si le fait constitue une des infractions suivantes, pour autant qu'il soit puni dans l'Etat d'émission d'une peine ou d'une mesure de sûreté privatives de liberté d'un maximum d'au moins 3 ans:\n\n1. participation à une organisation criminelle;\n2. terrorisme;\n3. traite des êtres humains;\n4. exploitation sexuelle des enfants et pédopornographie;\n5. trafic illicite de stupéfiants et de substances psychotropes;\n6. trafic illicite d'armes, de munitions et d'explosifs;\n7. corruption;\n8. fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la Convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes;\n9. blanchiment du produit du crime;\n10. faux monnayage et contrefaçon de l'euro;\n11. cybercriminalité;\n12. crimes contre l'environnement, y compris le trafic illicite d'espèces animales menacées, et le trafic illicite d'espèces et d'essences végétales menacées;\n13. aide à l'entrée et au séjour irréguliers;\n14. homicide volontaire, coups et blessures graves;\n15. trafic illicite d'organes et de tissus humains;\n16. enlèvement, séquestration et prise d'otage;\n17. racisme et xénophobie;\n18. vols organisés ou avec arme;\n19. trafic illicite de biens culturels y compris antiquités et oeuvres d'art;\n20. escroquerie;\n21. racket et extorsion de fonds;\n22. contrefaçon et piratage de produits;\n23. falsification de documents administratifs et trafic de faux;\n24. falsification de moyens de paiement;\n25. trafic illicite de substances hormonales et autres facteurs de croissance;\n26. trafic illicite de matières nucléaires et radioactives;\n27. trafic de véhicules volés;\n28. viol;\n29. incendie volontaire;\n30. crimes relevant de la juridiction de la Cour pénale internationale;\n31. détournement d'avion ou de navire;\n32. sabotage.",
+      "text_sha256": "c3213fcf35c3c669b2f6bb37fea00b4cf3ad04fa0a99abf313d37ea8bfddea21",
+      "md_span": {
+        "start": 3392,
+        "end": 5921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_4/20040326",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 1.- — Conditions d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "L'exécution du mandat d'arrêt européen est également refusée dans les cas suivants:\n\n1. si l’infraction qui est à la base du mandat d’arrêt européen est couverte par une loi d’amnistie au Luxembourg, pour autant que les faits aient pu être poursuivis au Luxembourg en vertu de la loi luxembourgeoise;\n\n2. s’il résulte des informations à la disposition des autorités luxembourgeoises compétentes que la personne recherchée a été définitivement jugée pour les mêmes faits au Luxembourg ou dans un autre Etat membre, à condition que, en cas de condamnation, la sanction ait été subie ou soit actuellement en cours d’exécution ou ne puisse plus être exécutée selon les lois de l’Etat de condamnation;\n\n3. si la personne qui fait l’objet du mandat d’arrêt européen est un mineur de moins de seize ans accomplis au moment des faits.",
+      "text_sha256": "30cc958a116f2f93414cdf2b16777ecfe0f8f69c0c2ca6a33e88862c38d9d556",
+      "md_span": {
+        "start": 5956,
+        "end": 6782
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_5/20150421",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 1.- — Conditions d'exécution"
+      ],
+      "article_valid_from": "2015-04-21",
+      "text_md": "L'exécution peut être refusée dans les cas suivants:\n\n1) lorsque la personne qui fait l’objet du mandat d’arrêt européen est poursuivie au Luxembourg pour le même fait que celui qui est à la base du mandat d’arrêt européen;\n\n2) lorsque l'autorité judiciaire luxembourgeoise a décidé soit de ne pas engager des poursuites pour le fait faisant l’objet du mandat d’arrêt européen soit d’y mettre fin, ou lorsque la personne recherchée a fait l'objet au Luxembourg d'une autre décision définitive pour les mêmes faits qui fait obstacle à l'exercice ultérieur de poursuites;\n\n3) lorsqu’il y a prescription de l’action publique ou de la peine selon la loi luxembourgeoise et que les faits relèvent de la compétence des juridictions luxembourgeoises;\n\n4) s’il résulte des informations à la disposition du juge que la personne recherchée a été définitivement jugée pour les mêmes faits par un Etat non membre de l’Union européenne, à condition que, en cas de condamnation, la sanction ait été subie ou soit actuellement en cours d’exécution ou ne puisse plus être exécutée selon les lois de l’Etat de condamnation;\n\n5) si le mandat d’arrêt européen a été délivré aux fins d’exécution d’une peine ou d’une mesure de sûreté, lorsque la personne recherchée est de nationalité luxembourgeoise et que les autorités luxembourgeoises compétentes s’engagent à exécuter cette peine ou mesure de sûreté conformément à la loi luxembourgeoise;\n\n6) si le mandat d'arrêt européen a été délivré aux fins d'exécution d'une peine ou d'une mesure de sûreté, lorsque la personne recherchée est un étranger qui réside au Luxembourg et dont le séjour au Luxembourg peut paraître opportun en raison de son intégration ou des liens qu'elle a établis au Luxembourg et que les autorités luxembourgeoises compétentes s'engagent à exécuter cette peine ou mesure de sûreté conformément à la loi luxembourgeoise.\n\nDans les cas visés au présent point ainsi que dans les cas visés au point 5 ci-dessus, l’exécution, par les personnes concernées, de la peine ou de la mesure de sûreté prononcée à leur encontre, aura lieu dans les conditions de la loi du 25 avril 2003 sur le transfèrement des personnes condamnées;\n\n7) lorsque le mandat d’arrêt européen porte sur des infractions qui:\n\n- ont été commises en tout ou en partie sur le territoire luxembourgeois ou en un lieu assimilé à son territoire;\n- ont été commises hors du territoire de l'Etat d'émission et que le droit luxembourgeois n'autorise pas la poursuite des mêmes infractions commises hors du territoire;\n\n8) lorsque la personne qui fait l'objet du mandat d'arrêt européen est un mineur âgé de plus de seize ans accomplis au moment des faits.\n\n9) Selon le certificat prévu à l'annexe I, la personne n'a pas comparu en personne au procès qui a mené à la décision, sauf si le certificat indique:\n\n- qu'elle a en temps utile été citée à personne et a été informée officiellement et effectivement de la date et du lieu du procès et du fait qu'une décision pouvait être rendue en cas de non-comparution, ou\n- qu'elle a donné mandat à un conseil juridique et a été effectivement défendue par ce conseil pendant le procès, ou\n- qu'après s'être vu signifier la décision et avoir été expressément informée de son droit à une nouvelle procédure de jugement ou à une procédure d'appel, la personne a indiqué expressément qu'elle ne contestait pas la décision ou elle n'a pas demandé une nouvelle procédure de jugement ou une procédure d'appel dans le délai légal.",
+      "text_sha256": "50f8268008457638438a2586e5da14b11555a79c543cc04d2c851782c9746f46",
+      "md_span": {
+        "start": 6817,
+        "end": 10294
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/04/25/n6/jo",
+          "text": "loi du 25 avril 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_6/20110816",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 2.- — Signalement et arrestation"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "Un signalement effectué conformément aux dispositions de l’article 95 de la Convention d’application du 19 juin 1990 de l’Accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes vaut mandat d’arrêt européen.\n\nLa personne recherchée peut être arrêtée sur la base du signalement visé à l’alinéa précédent ou sur production du mandat d’arrêt européen à la requête du procureur d’Etat territorialement compétent.\n\nLe mandat d’arrêt européen peut être transmis par les voies suivantes:\n\n- par le système d’information Schengen;\n- par Interpol;\n- par tout autre moyen laissant une trace écrite, dans des conditions permettant aux autorités luxembourgeoises d’en vérifier l’authenticité.\n\nSi le procureur d’Etat estime que les informations communiquées par l’Etat d’émission dans le mandat d’arrêt européen sont insuffisantes, il demande la fourniture d’urgence des informations complémentaires nécessaires et peut fixer une date limite pour leur réception.",
+      "text_sha256": "67bb964e3972db915928746801ff1d0a5231a3d77086874d6db2ab837de66b87",
+      "md_span": {
+        "start": 10375,
+        "end": 11377
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_7/20040326",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "La personne recherchée se voit notifier le mandat d'arrêt européen délivré à son encontre ou, s'il y a lieu, le signalement dans le Système d'Information Schengen la concernant.\n\nLa personne est en outre informée:\n\n1. de la faculté de se faire assister d'un avocat de son choix ou à désigner d'office, et\n2. de la faculté de consentir à la remise, respectivement de renoncer au bénéfice de la règle de la spécialité.\n\nIl est dressé procès-verbal des arrestation, notification et informations qui précèdent, ainsi que des déclarations de la personne recherchée.\n\nSi la personne arrêtée ne comprend ni le français ni l'allemand, elle sera assistée d'un interprète qui signe le procès-verbal.\n\nCe procès-verbal est remis au procureur d'Etat au plus tard dans les 24 heures suivant l'arrestation.",
+      "text_sha256": "ee90a331fce1ccc41de4faa711dfc65377d99799a4bb6ec940906ad26f72ee4f",
+      "md_span": {
+        "start": 11453,
+        "end": 12245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_8/20040326",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "La personne arrêtée est présentée au juge d'instruction dans les 24 heures de son arrestation. Le juge d'instruction procède à un interrogatoire d'identité. Si la personne arrêtée n'a pas d'avocat, elle est rendue attentive à la faculté de se faire assister par un avocat. Sa réponse est actée au procès-verbal. Le juge d'instruction recueille les déclarations éventuelles de la personne recherchée sur les faits à la base du mandat d'arrêt européen.\n\nLe juge d'instruction entend ensuite la personne recherchée sur le fait de son éventuel maintien en détention et recueille ses observations à ce sujet. Le juge d'instruction décide s'il convient ou non de maintenir en détention la personne recherchée, sur la base du mandat d'arrêt européen et en tenant compte des circonstances de fait mentionnées dans celui-ci de même que de celles invoquées par la personne recherchée.",
+      "text_sha256": "db13c9a19beca9f273c5eb0c7640e9659932720f6ec729cc8104304295a29ce6",
+      "md_span": {
+        "start": 12280,
+        "end": 13154
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_9/20040326",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "La personne arrêtée sur base d'un mandat d'arrêt européen peut à tout moment présenter une demande de mise en liberté. La demande est à adresser à la chambre du conseil du tribunal d'arrondissement. Les formes et la procédure de cette demande sont régies par les dispositions du code d'instruction criminelle relatives à la mise en liberté provisoire.\n\nLa mise en liberté ne peut toutefois être ordonnée que:\n\n1. si la procédure d'arrestation est entachée d'une irrégularité portant une atteinte grave aux droits de la personne recherchée, ou\n2. s'il existe des garanties réelles permettant d'avoir la conviction que la personne recherchée ne se soustraira pas à la remise à l'Etat d'émission.\n\nAu cas où la mise en liberté est ordonnée, l'Etat d'émission en est avisé sans délai.\n\nLa mise en liberté ne s'oppose pas à une nouvelle arrestation ultérieure.",
+      "text_sha256": "38b2b5b718377b8aa11550d402014b44859a591505a8535a31d681bc9660b5fe",
+      "md_span": {
+        "start": 13189,
+        "end": 14044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_10/20110816",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "**1.** A tout moment à partir de l'arrestation, la personne arrêtée peut consentir à sa remise sans autre formalité. Elle peut également renoncer à la règle de la spécialité.\n\nLe consentement, respectivement la renonciation sont irrévocables.\n\n**2.** Il faut un consentement ou une renonciation formels déclarés devant un magistrat du parquet compétent. Il en est dressé procès-verbal qui est signé par le magistrat, la personne arrêtée et, le cas échéant, par son avocat. Ce procès-verbal mentionne les informations données concernant les effets de son consentement.\n\nLors de la déclaration visée à l'alinéa qui précède, la personne arrêtée est assistée de son avocat qui signe le procès-verbal. Si la personne arrêtée n'a pas d'avocat, elle est rendue attentive à la faculté de se faire assister par un avocat. Sa réponse est actée au procès-verbal.\n\nLe consentement, respectivement la renonciation peuvent être formulés par écrit. Dans ce cas, ils sont joints au procès-verbal.\n\n**3.** Si la personne arrêtée ne comprend ni le français ni l'allemand, le consentement formel respectivement la renonciation ne sont recueillis que sous l'assistance d'un interprète qui signe le procès-verbal.\n\nLe consentement équivaut à une décision d'exécution du mandat d'arrêt européen sans autre formalité.\n\n**4.** Les dispositions du présent article ne sont pas applicables aux relations avec le Royaume des Pays-Bas et le Royaume de Belgique qui restent régies par l'article 19 du traité Benelux d'extradition et d'entraide judiciaire en matière pénale du 27 juin 1962.",
+      "text_sha256": "326dfb3e985018ea5f76ac461494a7c21f68efaf15282e3850a1c6b457e9778f",
+      "md_span": {
+        "start": 14081,
+        "end": 15640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_11/20040326",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Si le mandat d'arrêt européen a été émis pour l'exercice de poursuites pénales, et à défaut de consentement à la remise, il est procédé par le juge d'instruction, en attendant la décision sur la remise, à l'audition de la personne concernée, dans les conditions arrêtées de commun accord avec l'autorité d'émission et le cas échéant en présence d'un représentant de l'autorité d'émission.",
+      "text_sha256": "ac564b697558e6e81469a6db4fc1f7535ff6bdd3f99b6c86f62afb695aa634ac",
+      "md_span": {
+        "start": 15677,
+        "end": 16065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_12/20040326",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Sauf dans l'hypothèse où la personne recherchée consent à sa remise sans formalité, la chambre du conseil du tribunal d'arrondissement du lieu de l'arrestation statue à la requête du procureur d'Etat sur la remise de la personne recherchée dans les vingt jours de l'arrestation.\n\nL'audience de la chambre du conseil du tribunal d'arrondissement est publique, à moins que la personne recherchée ne réclame le huis clos.\n\nLe ministère public, la personne recherchée et son avocat, convoqués par le greffe de la chambre du conseil du tribunal d'arrondissement au moins 48 heures avant l'audience, sont entendus.\n\nL'ordonnance de la chambre du conseil est notifiée à la personne recherchée dans les formes prévues pour les notifications en matière répressive.",
+      "text_sha256": "4571127749e68cd867bfd783343822b0f553a06c861cd7ea122877ed6376ccc9",
+      "md_span": {
+        "start": 16102,
+        "end": 16857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_13/20040326",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Le procureur d'Etat et la personne recherchée peuvent dans tous les cas relever appel de la décision de la chambre du conseil.\n\nL'appel est consigné sur un registre tenu à cet effet au greffe du tribunal dont relève la chambre du conseil. Il doit être formé dans un délai de trois jours, qui court contre le procureur d'Etat à compter du jour de la décision et contre la personne recherchée à compter du jour de la notification.\n\nLa personne recherchée arrêtée peut également déclarer son appel à l'un des membres du personnel d'administration ou de garde des établissements pénitentiaires. L'appel est acté sur un registre spécial. Il est daté et signé par le fonctionnaire qui le reçoit et signé par la personne recherchée arrêtée. Si celle-ci ne veut ou ne peut signer, il en est fait mention dans l'acte. Une copie de l'acte est immédiatement transmise au greffe de la juridiction qui a rendu la décision entreprise.\n\nLe droit d'appel appartient également au procureur général d‘Etat qui dispose à cet effet d'un délai de dix jours à partir de la date de l'ordonnance. Cet appel peut être formé par déclaration ou notification au greffe du tribunal dont relève la chambre du conseil.\n\n**2.** L'appel est porté devant la chambre du conseil de la Cour d'appel.\n\n**3.** L'audience de la chambre du conseil de la Cour d'appel est publique, à moins que la personne recherchée ne réclame le huis clos.\n\nLa personne recherchée et son avocat, lesquels sont avertis par le greffier au plus tard 48 heures avant l'audience, et le ministère public sont entendus.\n\n**4.** La décision de la chambre du conseil de la Cour d'appel intervient au plus tard 20 jours après qu'appel aura été formé.\n\n**5.** La décision de la chambre du conseil de la Cour d'appel n'est pas susceptible de faire l'objet d'un recours en cassation.",
+      "text_sha256": "bc500fc4f3af1ddfd7247725527e40e69915927aba45325ba4db30e73a884b85",
+      "md_span": {
+        "start": 16894,
+        "end": 18714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_14/20110816",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "**1.** En cas de consentement à la remise ou lorsqu'une décision sur la remise de la personne est devenue définitive, le ministère public en informe l'autorité compétente de l'Etat d'émission, en vue de convenir d'une date de remise.\n\n**2.** La personne arrêtée est remise dans les plus brefs délais, et en tout cas au plus tard dix jours après la décision sur la remise.\n\n**3.** En cas de force majeure ou pour des raisons humanitaires sérieuses empêchant la remise de la personne arrêtée dans le délai prévu au paragraphe 2, le ministère public prend immédiatement contact avec l'autorité compétente de l'Etat d'émission pour convenir d'une nouvelle date de remise.\n\n**4.** La remise a lieu dans les dix jours suivant la nouvelle date convenue.\n\n**5.** A l'expiration des délais visés au présent article, si la personne se trouve toujours en détention, elle est remise en liberté.\n\n**6.** Lorsque dans des circonstances exceptionnelles, le Luxembourg ne peut pas respecter les délais impartis par le présent article pour la remise de la personne arrêtée, il en informe EUROJUST en précisant les raisons du retard.\n\n**7.** Une personne qui a été remise par le Luxembourg, ne peut être remise ultérieurement par l’Etat d’émission à un autre Etat membre en vertu d’un mandat d’arrêt européen émis pour une infraction commise avant sa première remise, sans le consentement des autorités luxembourgeoises.\n\nLa demande écrite de consentement est présentée conformément à l’article 1er, paragraphes 4. et 5. de la présente loi.\n\nL’autorité judiciaire luxembourgeoise qui a décidé la remise antérieure donne le consentement demandé, lorsque l’infraction pour laquelle il est demandé entraîne elle-même l’obligation de remise aux termes de la présente loi. Les cas de refus prévus aux articles 3 à 5 de la loi sont applicables.\n\nLa décision est prise au plus tard trente jours après réception de la demande.\n\nLe consentement n’est pas requis dans les cas suivants:\n\n1. lorsqu’ayant eu la possibilité de le faire, la personne recherchée n’a pas quitté le territoire de l’Etat membre auquel elle a été remise dans les 45 jours suivant son élargissement définitif, ou qu’elle y est retournée après l’avoir quitté;\n2. Le consentement de la personne est donné aux autorités judiciaires compétentes de l’Etat membre d’émission et est consigné conformément au droit interne de cet Etat;\n3. lorsque la personne remise ne bénéficie pas de la règle de la spécialité.\n\n**8.** Une personne qui a été remise par le Luxembourg ne peut être extradée ultérieurement par l’Etat d’émission vers un Etat tiers en vertu d’une demande d’extradition émise pour une infraction commise avant sa remise, sans le consentement des autorités luxembourgeoises. Ce consentement est soumis aux conditions d’extradition des conventions applicables et au droit national.",
+      "text_sha256": "1a63906b181984b4e90996afc20ad861ef9729e9b90682dc1251cc8af75e171d",
+      "md_span": {
+        "start": 18751,
+        "end": 21581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_15/20040326",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Par dérogation à ce qui est prévu à l'article 14, le ministère public peut différer la remise de la personne arrêtée pour qu'elle puisse être poursuivie au Luxembourg ou, si elle y a déjà été condamnée, pour qu'elle puisse purger une peine encourue en raison d'un fait autre que celui visé par le mandat d'arrêt européen.\n\n**2.** Au lieu de différer la remise, le ministère public peut remettre temporairement à l'Etat d'émission la personne arrêtée, dans des conditions à déterminer d'un commun accord avec l'autorité compétente de l'Etat d'émission.",
+      "text_sha256": "36649e88890ab2b363be0f883d1a08f2601b5837cd149a9773520313aca730de",
+      "md_span": {
+        "start": 21618,
+        "end": 22176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_16/20040326",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 3.- — Procédure d'exécution"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Toutes les informations relatives à la durée de la détention de la personne arrêtée au titre de l'exécution du mandat d'arrêt européen sont transmises par le ministère public à l'autorité judiciaire d'émission au moment de la remise.",
+      "text_sha256": "7ab203b78fea03ea3b7f057351aa662b453e289a55fb9c47947b7bc9fa56349c",
+      "md_span": {
+        "start": 22213,
+        "end": 22446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_17/20040326",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 4.- — Remise d'objets"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** A la requête de l'autorité d'émission ou du procureur d'Etat, le juge d'instruction saisit, conformément au droit luxembourgeois, les objets qui peuvent servir de pièces à conviction et les objets qui ont été acquis par la personne recherchée du fait de l'infraction.\n\n**2.** La remise des objets visés au paragraphe 1er a lieu conformément aux dispositions des paragraphes (3) à (5) de l'article 9 de la loi du 8 août 2000 sur l'entraide judiciaire internationale en matière pénale. La remise de ces objets est effectuée même dans le cas où le mandat d'arrêt européen ne peut pas être exécuté par suite du décès ou de l'évasion de la personne recherchée.\n\n**3.** Lorsque les objets visés au paragraphe 1 sont susceptibles de saisie ou de confiscation sur le territoire luxembourgeois, les autorités judiciaires luxembourgeoises concernées peuvent, si les objets sont requis aux fins d'une procédure pénale en cours, les conserver temporairement ou les remettre à l'Etat d'émission sous réserve de restitution.",
+      "text_sha256": "77a26bb08178b661b615513f358bf6ca5e2e32d0d837e7d35b37c4e436e957d1",
+      "md_span": {
+        "start": 22518,
+        "end": 23535
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2000/08/08/n4/jo",
+          "text": "loi du 8 août 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_18/20110816",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 5.- — Règle de la spécialité"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "**1.** Si, après la remise d'une personne par les autorités luxembourgeoises à l'Etat d'émission, l'autorité compétente de l'Etat d'émission souhaite poursuivre, condamner ou priver de liberté la personne remise, pour une infraction commise avant la remise autre que celle qui a motivé cette remise, une demande de consentement doit être présentée aux autorités luxembourgeoises. A cette demande écrite présentée conformément à l'article 1er, paragraphes 4 et 5 de la présente loi est joint un procès-verbal consignant les déclarations de la personne remise ou son refus de faire une déclaration. Le consentement est donné lorsque l’infraction pour laquelle il est demandé entraîne elle-même l’obligation de remise aux termes de la présente loi. Les cas de refus prévus aux articles 3 à 5 de la loi sont applicables.\n\nLe lieu de séjour de la personne remise est précisé.\n\nLes dispositions des articles 12 et 13 de la présente loi s'appliquent sous réserve du paragraphe suivant.\n\nLa personne qui a été remise à l'Etat d'émission n'est pas convoquée mais informée de la date à laquelle est fixée l'audience de la chambre du conseil qui a décidé de la remise et de la faculté qu'elle a de se faire représenter par un avocat de son choix ou à désigner d'office. Cette information est envoyée par voie postale au moins 8 jours avant la date à laquelle l'audience est fixée.\n\n**2.** La décision visée au paragraphe précédent est prise au plus tard 30 jours après réception de la demande.\n\n**3.** Les paragraphes 1er et 2 ne s'appliquent pas dans les cas suivants:\n\n1. lorsqu'ayant eu la possibilité de le faire, la personne remise n'a pas quitté le territoire de l'Etat d'émission dans les 45 jours suivant son élargissement définitif, ou qu'elle y est revenue après l'avoir quitté;\n2. l'infraction n'est pas punie d'une peine ou d'une mesure de sûreté privatives de liberté;\n3. la procédure pénale ne donne pas lieu à l'application d'une mesure restreignant sa liberté individuelle;\n4. lorsque la personne remise encourt une peine ou une mesure non privative de liberté, notamment une peine pécuniaire ou une mesure qui en tient lieu, même si cette peine ou mesure est susceptible de restreindre sa liberté individuelle;\n5. lorsque la personne remise a donné son consentement à sa remise et a renoncé à la règle de la spécialité;\n6. lorsque la personne remise a expressément renoncé, après la remise, à bénéficier de la règle de la spécialité pour des faits spécifiques antérieurs à sa remise.",
+      "text_sha256": "891163bbb35b37159cc7108afae914f43071582177abb0d9d143984768a7101c",
+      "md_span": {
+        "start": 23614,
+        "end": 26103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_19/20040326",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Lorsque le mandat d'arrêt européen a été délivré aux fins d'exécution d'une peine ou d'une mesure de sûreté prononcée par une décision rendue par défaut, et si la personne concernée n'a pas été citée personnellement ni informée autrement de la date et du lieu de l'audience qui a mené à la décision rendue par défaut, la remise peut être subordonnée à la condition que l'autorité d'émission donne des assurances jugées suffisantes pour garantir à la personne qui fait l'objet du mandat d'arrêt européen qu'elle aura la possibilité de faire opposition dans l'Etat d'émission et d'être jugée en sa présence.",
+      "text_sha256": "151df4e476a53d2839c732812ec507305f7e1ec10e882ca768d4de5967de3a49",
+      "md_span": {
+        "start": 26176,
+        "end": 26781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_20/20101107",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2010-11-07",
+      "text_md": "**1.** Lorsque la personne qui fait l'objet d'un mandat d'arrêt européen aux fins de poursuite est de nationalité luxembourgeoise, la remise peut être subordonnée à la condition que la personne, après avoir été entendue, soit renvoyée au Luxembourg pour y subir la peine ou la mesure de sûreté qui serait prononcée à son encontre dans l'Etat d'émission.\n\n**2.** Il en va de même de la personne étrangère qui réside au Luxembourg et dont le renvoi au Luxembourg peut paraître opportun en raison de son intégration ou des liens qu'elle a établis au Luxembourg.\n\n**3.** L'exécution, par les personnes concernées, de la peine ou de la mesure de sûreté prononcée à leur encontre, aura lieu dans les conditions de la loi du 25 avril 2003 sur le transfèrement des personnes condamnées.\n\n**4.** Si la remise n’est pas effectuée, le Luxembourg soumet l’affaire à ses autorités compétentes aux fins de poursuites selon les règles prévues.",
+      "text_sha256": "61d5e65e780ab8031929fb557ec4c088a0e72bdcf124bd44d91ce25a3bd9849c",
+      "md_span": {
+        "start": 26818,
+        "end": 27746
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/04/25/n6/jo",
+          "text": "loi du 25 avril 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_21/20040326",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Lorsque la personne qui fait l'objet d'un mandat d'arrêt européen a été précédemment extradée vers le Luxembourg à partir d'un Etat extérieur à l'Union européenne et que cette personne est protégée par les dispositions relatives à la spécialité de l'arrangement en vertu duquel elle a été extradée, le ministère public en informe sans délai le ministre de la justice, afin que celui-ci demande immédiatement le consentement de l'Etat ayant extradé la personne recherchée.",
+      "text_sha256": "05fff7494e2f891cbf8bf923e8ebbe06badfd38df566cae76e6279818f7d95a4",
+      "md_span": {
+        "start": 27783,
+        "end": 28254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_22/20040326",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Lorsque la personne recherchée bénéficie d'un privilège ou d'une immunité au Luxembourg, son arrestation ne peut avoir lieu et les délais prévus aux articles 12 et 14 ne commencent à courir qu'à compter du jour où ce privilège ou cette immunité ont été levés.\n\nLorsque la levée du privilège ou de l'immunité relève d'une autorité luxembourgeoise, le ministère public en fait la demande sans délai à cette autorité.",
+      "text_sha256": "190059bc3c25d58679acb64fc1fce6dfd91f20b5294782829d112941a1990e0f",
+      "md_span": {
+        "start": 28291,
+        "end": 28705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_23/20040326",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Si plusieurs Etats membres ont émis un mandat d'arrêt européen à l'encontre de la même personne, le choix du pays auquel sera remise la personne est opéré par la chambre du conseil du tribunal d'arrondissement en tenant dûment compte de toutes les circonstances et, en particulier, de la gravité relative et du lieu de commission des infractions, des dates respectives des mandats d'arrêt européens ainsi que du fait que le mandat a été émis pour la poursuite ou pour l'exécution d'une peine ou d'une mesure privatives de liberté.",
+      "text_sha256": "66cb5d953daa0a32b0eb556e8ebd1951ca7b397053ac410e2ac0cf697deb6e9e",
+      "md_span": {
+        "start": 28742,
+        "end": 29272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_24/20040326",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** En cas de conflit entre un mandat d'arrêt européen et une demande d'extradition présentée par un pays tiers, le ministère public en informe sans délai le ministre de la justice, avec communication de son avis motivé, afin que le ministre de la justice décide s'il y a lieu de donner la priorité au mandat d'arrêt européen ou à la demande d'extradition.\n\n**2.** La décision est prise par le ministre de la Justice, en tenant dûment compte de toutes les circonstances, en particulier, de la gravité relative et du lieu de commission des infractions, des dates respectives du mandat d'arrêt européen et de la demande d'extradition ainsi que du fait que le mandat a été émis pour la poursuite ou pour l'exécution d'une peine ou d'une mesure privatives de liberté, ainsi que de celles qui sont mentionnées dans la convention applicable.",
+      "text_sha256": "1674161e9b8f4655275e8c4163feff91bafb427dfa75c937592ac8ab8da5d059",
+      "md_span": {
+        "start": 29309,
+        "end": 30147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_25/20040326",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre II.- — Mandat d'arrêt européen adressé au Luxembourg par un autre Etat membre de l'Union européenne",
+        "Section 6.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Si une personne, détenue à Luxembourg sur base d'un mandat d'arrêt européen est remise par la suite à l'autorité d'émission et fait l'objet d'une décision d'acquittement ou de non lieu dans l'Etat d'émission, la détention subie au Luxembourg ne saurait donner droit à un dédommagement au sens de la loi du 30 décembre 1981 sur la détention préventive inopérante.",
+      "text_sha256": "8a2eb98d5ecf3389c601ddc2da3b601d670b2c6c4a404303054d0041c6419583",
+      "md_span": {
+        "start": 30184,
+        "end": 30546
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1981/12/30/n1/jo",
+          "text": "loi du 30 décembre 1981"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_26/20110816",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 1.- — Conditions"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "**1.** Lorsqu’il y a lieu de croire qu’une personne recherchée au Luxembourg aux fins de poursuite se trouve sur le territoire d’un autre Etat membre de l’Union européenne, un mandat d’arrêt européen est émis, selon les formes et dans les conditions prévues aux articles 1er et 2, par le juge d’instruction et par les juridictions d’instruction et de jugement dans la mesure où ils sont compétents, au titre du Code d’instruction criminelle, pour émettre un mandat d’arrêt.\n\n**2.** Lorsqu’il y a lieu de croire qu’une personne recherchée au Luxembourg aux fins d’exécution d’une peine se trouve sur le territoire d’un autre Etat membre de l’Union européenne, un mandat d’arrêt européen est émis par le procureur général d’Etat selon les formes et dans les conditions prévues aux articles 1er et 2.",
+      "text_sha256": "fd8731e36a6b9b87ef15088ade5301e66ff74738f4c677f2f6516b7c39ff1f09",
+      "md_span": {
+        "start": 30698,
+        "end": 31495
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_27/20040326",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 1.- — Conditions"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Lorsque le lieu où se trouve la personne est connu, le mandat d'arrêt européen peut être adressé directement à l'autorité d'exécution.\n\n**2.** La transmission du mandat d'arrêt européen peut être faite par les voies suivantes:\n\n- par le système d'information Schengen;\n- par Interpol;\n- par tout autre moyen laissant une trace écrite, dans des conditions permettant à l'Etat d'exécution d'en vérifier l'authenticité.",
+      "text_sha256": "b82b41239a994bdba539ffc6345cf074be67cb30bc55f53e8afece3706533804",
+      "md_span": {
+        "start": 31532,
+        "end": 31955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_28/20040326",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 1.- — Conditions"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Toute période de détention résultant de l'exécution d'un mandat d'arrêt européen est déduite de la durée totale de privation de liberté à subir au Luxembourg par suite de la condamnation à une peine ou mesure de sûreté privatives de liberté.",
+      "text_sha256": "1561be23cdd95ec79f90496f337579efd32bdc360702aa425b0130f7044bdb9e",
+      "md_span": {
+        "start": 31992,
+        "end": 32233
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_29/20040326",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 2.- — Règle de la spécialité"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Une personne qui a été remise au Luxembourg sur base d'un mandat d'arrêt européen ne peut être poursuivie, condamnée ou privée de liberté au Luxembourg pour une infraction commise avant sa remise autre que celle qui a motivé sa remise.\n\n**2.** Si les autorités judiciaires compétentes souhaitent poursuivre, condamner ou priver de liberté la personne remise, pour une infraction commise avant la remise autre que celle qui a motivé cette remise, une demande de consentement doit être présentée à l'autorité judiciaire d'exécution, accompagnée des informations mentionnées à l'article 1, paragraphe 4 de la présente loi, ainsi que d'une traduction, si nécessaire.\n\n**3.** Les paragraphes 1er et 2 ne s'appliquent pas dans les cas suivants:\n\n1. lorsqu'ayant eu la possibilité de le faire, la personne remise n'a pas quitté le territoire luxembourgeois dans les 45 jours suivant son élargissement définitif, ou qu'elle y est revenue après l'avoir quitté;\n2. l'infraction n'est pas punie d'une peine ou d'une mesure de sûreté privatives de liberté;\n3. la procédure pénale ne donne pas lieu à l'application d'une mesure restreignant sa liberté individuelle;\n4. lorsque la personne remise encourt une peine ou une mesure non privative de liberté, notamment une peine pécuniaire ou une mesure qui en tient lieu, même si cette peine ou mesure est susceptible de restreindre sa liberté individuelle;\n5. lorsque la personne remise a donné son consentement à sa remise et a renoncé à la règle de la spécialité;\n6. lorsque la personne remise a expressément renoncé, après sa remise, à bénéficier de la règle de la spécialité pour des faits spécifiques antérieurs à sa remise.",
+      "text_sha256": "00333633395d1e1cb6ce310b29ec0ae30135557c0bf7c758dcc7d2d25298008a",
+      "md_span": {
+        "start": 32312,
+        "end": 33982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_30/20040326",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 3.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Lorsque le mandat d'arrêt européen a été émis par une autorité judiciaire luxembourgeoise et lorsque la personne recherchée bénéficie d'un privilège ou d'une immunité dans l'Etat d'exécution, et que la levée du privilège ou de l'immunité relève d'une autorité d'un autre Etat que celui d'exécution ou d'une organisation internationale, l'autorité d'émission adresse la demande de levée à l'Etat ou à l'organisation internationale concernée conformément au droit applicable.",
+      "text_sha256": "e34bb810c8dd6e2b38a2b75ec5238289c868b7991df6845da669e2f433278320",
+      "md_span": {
+        "start": 34055,
+        "end": 34528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_31/20040326",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre III.- — Mandat d'arrêt européen émis par les autorités luxembourgeoises",
+        "Section 3.- — Cas particuliers"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Une personne qui a été remise au Luxembourg en vertu d'un mandat d'arrêt européen peut, sans le consentement de l'Etat d'exécution, être remise à un autre Etat membre que l'Etat d'exécution en vertu d'un mandat d'arrêt européen émis pour une infraction commise avant sa remise, dans les cas suivants:\n\n1. lorsqu'ayant eu la possibilité de le faire, la personne recherchée n'a pas quitté le territoire luxembourgeois dans les 45 jours suivant son élargissement définitif, ou qu'elle y est revenue après l'avoir quitté;\n2. lorsque la personne recherchée accepte d'être remise à un autre Etat membre que l'Etat d'exécution en vertu d'un mandat d'arrêt européen. Le consentement est donné conformément aux dispositions de l'article 10;\n3. lorsque la personne ne bénéficie pas de la règle de la spécialité.\n\n**2.** En dehors des cas visés au paragraphe 1er, une demande de consentement doit être présentée à l'autorité d'exécution, accompagnée des informations mentionnées à l'article 1, paragraphe 4, ainsi que d'une traduction, si nécessaire.\n\n**3.** Nonobstant le paragraphe 1, une personne qui a été remise en vertu d'un mandat d'arrêt européen ne peut être extradée vers un Etat tiers sans le consentement de l'autorité compétente de l'Etat membre d'où la personne recherchée a été remise.",
+      "text_sha256": "8e474f060e79d6c8d22df43a5bf27aadcb2b32bfd3cb913037d9e4b497821bd4",
+      "md_span": {
+        "start": 34565,
+        "end": 35861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_32/20040326",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre IV.- — Transit"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "**1.** Le Luxembourg permet le transit à travers son territoire d'une personne recherchée qui fait l'objet d'une remise, à condition d'avoir reçu des renseignements sur:\n\n- l'identité et la nationalité de la personne faisant l'objet du mandat d'arrêt européen,\n- l'existence d'un mandat d'arrêt européen,\n- la nature et la qualification légale de l'infraction,\n- la description des circonstances de l'infraction, y compris la date et le lieu.\n\n**2.** Lorsque la personne qui fait l'objet d'un mandat d'arrêt européen aux fins de poursuite est ressortissante du Luxembourg ou y réside, le transit peut être subordonné à la condition que la personne, après avoir été entendue, soit renvoyée au Luxembourg pour y subir la peine ou la mesure de sûreté qui serait prononcée à son encontre dans l'Etat d'émission.\n\nL'exécution, par les personnes concernées, de la peine ou de la mesure de sûreté prononcée à leur encontre, aura lieu dans les conditions de la loi du 25 avril 2003 sur le transfèrement des personnes condamnées.\n\n**3.** Lorsque le transit d'un ressortissant ou d'une personne résidant au Luxembourg est demandé aux fins d'exécution d'une peine, celui-ci peut être refusé si les autorités luxembourgeoises compétentes s'engagent à exécuter cette peine ou mesure de sûreté conformément à la loi luxembourgeoise.\n\nL'exécution, par les personnes concernées, de la peine ou de la mesure de sûreté prononcée à leur encontre, aura lieu dans les conditions de la loi du 25 avril 2003 sur le transfèrement des personnes condamnées.\n\n**4.** Les frais occasionnés par le transit à travers le territoire luxembourgeois sont à charge de l'Etat d'émission.",
+      "text_sha256": "4ac405fe0f1ac164ee25165461b8e2fdcd4d64851ed7d8f1d9f3cde9f5806b8c",
+      "md_span": {
+        "start": 35926,
+        "end": 37577
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/04/25/n6/jo",
+          "text": "loi du 25 avril 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_33/20040326",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre IV.- — Transit"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Le procureur général d'Etat est l'autorité chargée de recevoir les demandes de transit et les documents nécessaires, de même que toute autre correspondance officielle concernant les demandes de transit.",
+      "text_sha256": "6e1d51868395baf5e3b15e5d255c442a4a443979ea8e62cf83b6cc896c9de46a",
+      "md_span": {
+        "start": 37614,
+        "end": 37816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_34/20040326",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre IV.- — Transit"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "L'utilisation de la voie aérienne sans escale prévue est autorisée, sans formalité. Toutefois, lorsque survient un atterrissage fortuit, les articles 32 et 33 sont d'application.",
+      "text_sha256": "243f8def8ed25f78bb6999e40f30fa82f3d03340694b242b307431dbe4b7283c",
+      "md_span": {
+        "start": 37853,
+        "end": 38031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_35/20040326",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre IV.- — Transit"
+      ],
+      "article_valid_from": "2004-03-26",
+      "text_md": "Les articles 32 et 33 s'appliquent également lorsqu'un transit concerne une personne qui est extradée d'un Etat tiers vers un Etat membre.",
+      "text_sha256": "c03703cb989204a7ad145320da05769f4aac8422e00d081f201ce7242f3a0cbb",
+      "md_span": {
+        "start": 38068,
+        "end": 38206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_36/20110816",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre V.- — Disposition transitoire"
+      ],
+      "article_valid_from": "2011-08-16",
+      "text_md": "A titre transitoire et jusqu’au moment où le système d’information Schengen aura la capacité de transmettre toutes les informations figurant à l’article 1er, paragraphe 4., le signalement vaut mandat d’arrêt européen en attendant la réception d’une copie de l’original avec sa traduction éventuelle, qui doit parvenir, au plus tard, le sixième jour ouvrable à compter de la date d’arrestation de la personne recherchée, faute de quoi celle-ci est remise d’office en liberté, à moins qu’elle ne soit détenue pour une autre cause.",
+      "text_sha256": "9e8c31517229493786fee8f0137e0472d6e242127db7d6bcb9362ead4c07c516",
+      "md_span": {
+        "start": 38286,
+        "end": 38814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/art_37/20150421",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre VI.- — Relation avec d'autres instruments légaux"
+      ],
+      "article_valid_from": "2015-04-21",
+      "text_md": "**1.** La présente loi remplace, dans les relations avec un Etat membre de l’Union européenne qui a transposé la décision-cadre du Conseil du 13 juin 2002 relative au mandat d’arrêt européen et aux procédures de remise entre les Etats membres, les dispositions correspondantes des conventions suivantes:\n\n1. la convention européenne d’extradition du 13 décembre 1957, son protocole additionnel du 15 octobre 1975, son deuxième protocole additionnel du 17 mars 1978, et la convention européenne pour la répression du terrorisme du 17 janvier 1977 pour autant qu’elle concerne l’extradition;\n2. l’accord du 26 mai 1989 entre les douze Etats membres des Communautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d’extradition;\n3. la convention du 10 mars 1995 relative à la procédure simplifiée d’extradition entre les Etats membres de l’Union européenne;\n4. la convention du 27 septembre 1996 relative à l’extradition entre les Etats membres de l’Union européenne;\n5. le titre III, chapitre 4, de la convention d’application du 19 juin 1990 de l’accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes;\n6. er\n\n**2.** Les signalements dans le Système d'Information Schengen, conformément à l'article 95 de la Convention d'application de l'Accord de Schengen, valent mandat d'arrêt européen dès l'entrée en vigueur de la présente loi, sous réserve de l'application des dispositions de l'article 36.\n\nEn cas d'arrestation opérée avant l'entrée en vigueur de la présente loi sur base d'un signalement dans le Système d'Information Schengen émanant d'un Etat membre, les demandes de remise antérieures à l'entrée en vigueur de la présente loi resteront régies par les instruments existants dans le domaine de l'extradition applicables dans les relations avec cet Etat membre.\n\n**3.** Dans les relations avec les Etats n'ayant pas transposé en leur droit national la décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre Etats membres au moment de l'entrée en vigueur de la présente loi, les instruments existants dans le domaine de l'extradition applicables dans les relations avec ces Etats continueront à régir les demandes de remise jusqu'à l'entrée en vigueur des mesures de transposition nationales respectives. A partir de la date d'entrée en vigueur de ces mesures de transposition nationales respectives, les dispositions du paragraphe 2 s'appliqueront mutatis mutandis, l'expression «entrée en vigueur de la présente loi» étant réputée remplacée par «entrée en vigueur de la mesure de transposition nationale».",
+      "text_sha256": "1496e86db1eafe0207dec807a1af44ef46cb11e3fb4a441f13605ac8f67eba32",
+      "md_span": {
+        "start": 38913,
+        "end": 41603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2004-03-17-n1:2015-04-21--0ae2242e85c18d62ea951b018fd4e4f003e81fe4fd427c9aca244f9f97bf7eae#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Mandat d’arrêt européen(1) **\n\nLe présent mandat a été émis par une autorité judiciaire compétente. Je demande que la personne mentionnée cidessous soit arrêtée et remise aux autorités judiciaires aux fins de l’exercice de poursuites pénales ou de l’exécution d’une peine ou d’une mesure de sûreté privatives de liberté.\n\n| a) Renseignements relatifs à l’identité de la personne recherchée: |\n| --- |\n| Nom: |\n| Prénom(s): |\n| Nom de jeune fille, s’il y a lieu: |\n| Les alias, s’il y a lieu: |\n| Sexe: |\n| Nationalité: |\n| Date de naissance: |\n| Lieu de naissance: |\n| Résidence et/ou adresse connue: |\n| Si connu: la ou les langues que la personne recherchée comprend: |\n| . |\n| Traits distinctifs/description de la personne recherchée: |\n| . |\n| Photo et empreintes digitales de la personne recherchée, si elles sont disponibles et s’il est possible de les communiquer, ou les coordonnées de la personne à contacter afin d’obtenir ces informations ou un profil ADN (si ces données peuvent être communiquées, mais n’ont pas été incluses). |\n\n| b) Décision sur laquelle se fonde le mandat d’arrêt: |\n| --- |\n| 1. Mandat d’arrêt ou décision judiciaire ayant la même force: |\n| Type: |\n| 2. Jugement exécutoire: |\n| . |\n| Référence: |\n\n(1) Il sera fait mention du détenteur de l’autorité judiciaire dans les différentes versions linguistiques.\n\n| c) Indications sur la durée de la peine: |\n| --- |\n| 1. Durée maximale de la peine ou mesure de sûreté privatives de liberté qui peut être infligée pour l’infraction/les infractions commise(s): |\n| . |\n| . |\n|  |\n| 2. Durée de la peine ou mesure de sûreté privatives de liberté infligée: |\n| . |\n| Peine restant à purger: |\n| . |\n| . |\n\n| d) Indiquez si l’intéressé a comparu en personne au procès qui a mené à la décision: |  |\n| --- | --- |\n| 1. | *□* Oui, l’intéressé a comparu en personne au procès qui a mené à la décision. |\n| 2. | *□* Non, l’intéressé n’a pas comparu en personne au procès qui a mené à la décision. |\n| 3. | Si vous avez coché la case du point 2, veuillez confirmer si: |\n|  | *□* 3.1 a) l’intéressé a été cité à personne le ... (jour/mois/année) et a ainsi été informé de la date et du lieu fixés pour le procès qui a mené à la décision, et s’il a été informé qu’une décision pouvait être rendue en cas de non-comparution; |\n| ou |  |\n|  | *□* 3.1 b) l’intéressé n’a pas été cité à personne, mais a été informé officiellement et effectivement par d’autres moyens de la date et du lieu fixés pour le procès qui a mené à la décision, de telle sorte qu’il a été établi de manière non équivoque que l’intéressé a eu connaissance du procès prévu, et a été informé qu’une décision pouvait être rendue en cas de non-comparution; |\n| ou |  |\n|  | *□* 3.2 ayant eu connaissance du procès prévu, l’intéressé a donné mandat à un conseil juridique, qui a été désigné soit par l’intéressé soit par l’Etat, pour le défendre au procès, et a été effectivement défendu par ce conseil pendant le procès; |\n| ou |  |\n|  | *□ *3.3 l’intéressé s’est vu signifier la décision le ... (jour/mois/année) et a été expressément informé de son droit à une nouvelle procédure de jugement ou à une procédure d’appel, à laquelle l’intéressé a le droit de participer et qui permet de réexaminer l’affaire sur le fond, en tenant compte des nouveaux éléments de preuve, et peut aboutir à une infirmation de la décision initiale, et *□* l’intéressé a indiqué expressément qu’il ne contestait pas la décision; |\n| ou |  |\n|  | *□* l’intéressé n’a pas demandé une nouvelle procédure de jugement ou une procédure d’appel dans le délai imparti; |\n| ou |  |\n|  | *□* 3.4 l’intéressé n’a pas reçu personnellement la signification de la décision, maisil la recevra personnellement sans délai après la remise, et lorsqu’il l’aura reçue, il sera expressément informé de son droit à une nouvelle procédure de jugement ou à une procédure d’appel, à laquelle l’intéressé a le droit de participer et qui permet de réexaminer l’affaire sur le fond, en tenant compte des nouveaux éléments de preuve, et peut aboutir à une infirmation de la décision initiale, et il sera informé du délai dans lequel il doit demander une nouvelle procédure de jugement ou une procédure d’appel, soit … jours. |\n| 4. | Si vous avez coché la case du point 3.1 b), 3.2 ou 3.3 ci-dessus, veuillez indiquer comment la condition concernée a été remplie:.. |\n\n| e) Infraction(s): |\n| --- |\n| Le présent mandat se rapporte au total à: …………………………………………………………………………………………………… infractions. |\n| Description des circonstances dans lesquelles la ou les infractions ont été commises, y compris le moment (la date et l’heure), le lieu ainsi que le degré de participation de la personne recherchée à l’infraction ou aux infractions. |\n| . |\n| . |\n| . |\n| Nature et qualification légale de la ou des infractions et disposition statutaire ou code applicable: |\n| . |\n| . |\n| . |\n| . |\n| . |\n| I. Cocher, le cas échéant, s’il s’agit d’une ou des infractions suivantes punies dans l’Etat membre d’émission d’une peine ou une mesure de sûreté privatives de liberté d’un maximum d’au moins 3 ans telles qu’elles sont définies par le droit de l’Etat membre d’émission:participation à une organisation criminelle;terrorisme;traite des êtres humains;exploitation sexuelle des enfants et pédopornographie;trafic illicite de stupéfiants et de substances psychotropes;trafic illicite d’armes, de munitions et d’explosifs;corruption;fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes;blanchiment du produit du crime;faux monnayage, y compris la contrefaçon de l’euro;cybercriminalité;crimes contre l’environnement, y compris le trafic illicite d’espèces animales menacées et le trafic illicite d’espèces et d’essences végétales menacées;aide à l’entrée et au séjour irréguliers;homicide volontaire, coups et blessures graves;trafic illicite d’organes et de tissus humains;enlèvement, séquestration et prise d’otage;racisme et xénophobie;vols organisés ou avec arme;trafic illicite de biens culturels, y compris antiquités et oeuvres d’art;escroquerie;racket et extorsion de fonds;contrefaçon et piratage de produits;falsification de documents administratifs et trafic de faux;falsification de moyens de paiement;trafic illicite de substances hormonales et autres facteurs de croissance;trafic illicite de matières nucléaires et radioactives;trafic de véhicules volés;viol;incendie volontaire;crimes relevant de la juridiction de la Cour pénale internationale;détournement d’avion/navire;sabotage. |\n| II. Description complète de l’infraction ou des infractions qui ne relèvent pas des cas visés au point I ci-avant: |\n| . |\n| . |\n\n| f) Autres circonstances pertinentes en l’espèce (informations facultatives): |\n| --- |\n|  |\n| *(NB: il serait possible d’inclure ici des remarques sur l’extraterritorialité, l’interruption de périodes limitées dans le temps et autres conséquences de l’infraction)* |\n| . |\n| . |\n\n| g) Le présent mandat se rapporte également à la saisie et à la remise des objets qui peuvent servir de pièces à conviction. |\n| --- |\n|  |\n| Le présent mandat se rapporte également à la saisie et à la remise des objets acquis par la personne recherchée du fait de l’infraction: |\n|  |\n| Description des objets (et lieux où ils se trouvent) s’ils sont connus. |\n| . |\n| . |\n| . |\n\n| h) L’infraction ou les infractions pour laquelle ou lesquelles ce mandat a été émis est ou sont passibles d’une peine ou mesure de sûreté privatives de liberté à caractère perpétuel ou a (ont) eu pour effet une telle peine ou mesure: |\n| --- |\n| – le système juridique de l’Etat membre d’émission prévoit une révision de la peine infligée – sur demande ou au plus tard après 20 ans – en vue de la non-exécution de cette peine ou mesure, |\n| et/ou |\n| – le système juridique de l’Etat membre d’émission prévoit l’application de mesures de clémence auxquelles la personne peut prétendre en vertu du droit ou de la pratique de l’Etat membre d’émission en vue de la non-exécution de cette peine ou mesure. |\n\n| i) L’autorité judiciaire qui a émis le mandat: |\n| --- |\n| Nom officiel: |\n| Nom de son représentant(1): |\n| . |\n| Fonction (titre/grade): |\n| . |\n| Référence du dossier: |\n| Adresse: |\n| . |\n| No de tél.: (indicatif du pays) (indicatif de zone ou urbain) (...) |\n| No de télécopie: (indicatif du pays) (indicatif de zone ou urbain) (...) |\n| E-mail: |\n| Coordonnées de la personne à contacter afin de prendre les dispositions pratiques nécessaires à la remise de la personne: |\n| . |\n\n(1) Il sera fait mention du détenteur de l’autorité judiciaire dans les différentes versions linguistiques.\n\n| En cas de désignation d’une autorité centrale pour la transmission et la réception administratives de mandats d’arrêt européens: |\n| --- |\n| Nom de l’autorité centrale: |\n| . |\n| Personne à contacter, le cas échéant (titre/grade et nom): |\n| . |\n| Adresse: |\n| . |\n| No de tél.: (indicatif du pays) (indicatif de zone ou urbain) (...) |\n| No de télécopie: (indicatif du pays) (indicatif de zone ou urbain) (...) |\n| E-mail: |\n\n| Signature de l’autorité judiciaire d’émission et/ou de son représentant: |\n| --- |\n| . |\n| Nom: |\n| Fonction (titre/grade): |\n| Date: |\n|  |\n| Cachet officiel (s’il est disponible) |",
+      "text_sha256": "8dc7442af7dde899988f74615ca7a5880f84d8a552d1687eeaff1081b06a14e6",
+      "md_span": {
+        "start": 41644,
+        "end": 50997
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

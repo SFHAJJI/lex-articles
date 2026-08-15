@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1018:2021-06-22--2f9197b730e846deb5d8c45bf7ea9d683ba2d72f075d8c596fc69a6323d3089b",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/1018 of 22\u00A0June 2021 amending the implementin…",
+  "valid_from": "2021-06-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1018/versions/2021-06-22--2f9197b730e846deb5d8c45bf7ea9d683ba2d72f075d8c596fc69a6323d3089b/en.xml",
+    "sha256": "634841d5c2329a1975b743c54c94729b3d9d6286df416394eb3d3700d0ba0bc4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1018"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22--2f9197b730e846deb5d8c45bf7ea9d683ba2d72f075d8c596fc69a6323d3089b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Implementing Regulation (EU) 2021/637, the following Article 6a is inserted:\n\n‘Article 6a\n\nDisclosure of indicators of global systemic importance\n\n1. G-SIIs shall disclose the information on the values of the indicators used for determining their score referred to in Article 441 of Regulation (EU) No 575/2013 by using the uniform disclosure format referred to in Article 434a of Regulation (EU) No 575/2013 which shall be used for the collection of the indicator values by relevant authorities as set out in Article 3(2) of Commission Delegated Regulation (EU) No 1222/2014, with the exception of any ancillary data and memorandum items collected in accordance with that Article.\n\n2. G-SIIs shall disclose the information referred to in paragraph 1 in their year-end Pillar 3 report. G-SIIs shall redisclose the information referred to in paragraph 1 in their first Pillar 3 report following the final submission of the values of the indicators to the relevant authorities, where the submitted figures are different from the figures disclosed in the year-end Pillar 3 report.’",
+      "text_sha256": "46d7d4dd543576a433f9791b6dc754f39d4f15598881ec39cd29a640c91327f1",
+      "md_span": {
+        "start": 702,
+        "end": 1794
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22--2f9197b730e846deb5d8c45bf7ea9d683ba2d72f075d8c596fc69a6323d3089b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nImplementing Regulation (EU) No 1030/2014 is repealed.",
+      "text_sha256": "168f94ca4396ec7cdd1a343f3f3c424b2321526767c6e3c45cf472bb52dd5402",
+      "md_span": {
+        "start": 1827,
+        "end": 1892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22--2f9197b730e846deb5d8c45bf7ea9d683ba2d72f075d8c596fc69a6323d3089b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.\n\nIt shall apply from 28 June 2021.",
+      "text_sha256": "abaf5f43f4c55fdfbde4bc87f4681214cd3635e0b93410ac253e372113d7876f",
+      "md_span": {
+        "start": 1925,
+        "end": 2086
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

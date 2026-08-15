@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2019/225 of 6 February 2019 amending Regulation (EC) No 748/200…",
+  "valid_from": "2019-02-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0225/versions/2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638/fr.xml",
+    "sha256": "917303b41a727a3a06e7854913e0736262434b51886f80610a9bdbb8be5fe2d1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0225"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'annexe du règlement (CE) no 748/2009 est remplacée par le texte figurant à l'annexe du présent règlement.",
+      "text_sha256": "d66c43d71773488d0a03853d53d4894faad4e75fcd73e6f6c42046bc707d358c",
+      "md_span": {
+        "start": 702,
+        "end": 826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0225:2019-02-06--3c154a14f5f6ef03ec6c346bfb30897a4c547f2f5a69b0327222776f6fc85638#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl est applicable à partir du jour suivant celui où le règlement (CE) no 748/2009 cesse de s'appliquer au Royaume-Uni et sur le territoire de celui-ci en vertu de l'article 50, paragraphe 3, du traité sur l'Union européenne.\n\nToutefois, le présent règlement ne s'applique pas si un accord de retrait conclu avec le Royaume-Uni conformément à l'article 50, paragraphe 2, du traité sur l'Union européenne est entré en vigueur à cette date.",
+      "text_sha256": "584a6e4bfa08471b477c08894cfbb261dd1a346cd564d2d7d225eb61c78ba6bc",
+      "md_span": {
+        "start": 859,
+        "end": 1429
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

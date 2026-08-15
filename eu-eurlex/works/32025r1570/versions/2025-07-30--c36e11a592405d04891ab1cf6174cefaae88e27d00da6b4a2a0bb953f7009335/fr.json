@@ -1,0 +1,69 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1570 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1570/versions/2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335/fr.html",
+    "sha256": "37b52bd3a8fd32761791ec9371e60211a6468995af31387f14c567f8d00e435b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02025R1570-20250730"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** La notification visée à l’article 31, paragraphe 1, du règlement (UE) no 910/2014 contient au moins les informations visées à l’annexe du présent règlement et est effectuée sous forme électronique par l’intermédiaire d’un canal électronique sécurisé mis à disposition par la Commission.\n\n**2.** En cas de modification des informations communiquées après la soumission initiale, y compris des modifications du statut de certification des dispositifs de création de signature électronique qualifiés et des dispositifs de création de cachet électronique qualifiés, les États membres transmettent les informations mises à jour avec les documents d’accompagnement pertinents par le canal visé au paragraphe 1.",
+      "text_sha256": "a99097af9dd152ed2b4e92b137693b5f4fd5a65b78f09a01c0245c4412a8bc79",
+      "md_span": {
+        "start": 764,
+        "end": 1475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nIl est applicable à partir du 19 novembre 2025.",
+      "text_sha256": "68c33948d2273a1e81ad7484b2dd0820dde5d77091b9eb9e2d1830328cd93e7a",
+      "md_span": {
+        "start": 1512,
+        "end": 1693
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1570R%2801%29",
+          "text": "32025R1570R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1570",
+          "text": "32025R1570"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2303:2022-11-24--53c9e1590633c6523020df697b28d5a15beaf928b60336e90dfe3fb1879263e7",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/2303 of 24\u00A0November 2022 amending Implementin…",
+  "valid_from": "2022-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2303/versions/2022-11-24--53c9e1590633c6523020df697b28d5a15beaf928b60336e90dfe3fb1879263e7/en.xml",
+    "sha256": "b8feff8ed3742f6ac24958b44f9751bcbd68d9d80b6fca6bde20bf6fb036ee8c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2303"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2303:2022-11-24--53c9e1590633c6523020df697b28d5a15beaf928b60336e90dfe3fb1879263e7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2019/1780 is amended as follows:\n\n| (1) | Article 3 is replaced by the following:‘Article 3RepealImplementing Regulation (EU) 2015/1986 is repealed with effect from 14 November 2022.’; |\n| --- | --- |\n\n| (2) | The following Article 3a is inserted:‘Article 3aTransitional provisionFrom 14 November 2022 to 24 October 2023, both the forms established by this Regulation and those established by Implementing Regulation (EU) 2015/1986 may be used for the publication of notices in the Official Journal of the European Union.’; |\n| --- | --- |\n\n| (3) | The Annex is amended in accordance with the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "ede9b2db14ebe98f2e37affe5215828ac72bb76a4028a75eb0d6bc3c50088e20",
+      "md_span": {
+        "start": 702,
+        "end": 1376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2303:2022-11-24--53c9e1590633c6523020df697b28d5a15beaf928b60336e90dfe3fb1879263e7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1409,
+        "end": 1560
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/1640 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2018-07-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1640/versions/2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817/en.xml",
+    "sha256": "d8198233457209faa08bdcf9d0963efb5dab763b052471450ac9b03b33390148",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1640"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation does not cover or apply to supervised contributors which contribute data only for non-significant benchmarks.\n\nThe requirements imposed under this Regulation are without prejudice to those imposed under Articles 11 and 15 of the Regulation (EU) 2016/1011 and the regulatory technical standards adopted under Article 11(5) and Article 15(6) of Regulation (EU) 2016/1011 (3).",
+      "text_sha256": "99848172ed137b9b02cce7a72fee76a91f9871bd7c08c6225c5698503028f755",
+      "md_span": {
+        "start": 713,
+        "end": 1113
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2018274EN.01001601-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe control framework that a supervised contributor is required to have in place pursuant to Article 16(1) of Regulation (EU) 2016/1011 shall include the establishment and maintenance of at least the following controls:\n\n| (a) | an effective oversight mechanism for overseeing the process for contributing input data that includes a risk management system, the identification of senior personnel who are responsible for the data contribution process and the involvement of any compliance and internal audit functions within the contributor's organisation; |\n| --- | --- |\n\n| (b) | a policy on whistle-blowing, including appropriate safeguards for whistle-blowers; |\n| --- | --- |\n\n| (c) | a procedure for detecting and managing breaches of Regulation (EU) 2016/1011 and breaches of the applicable code of conduct developed under Article 15 of that Regulation, including a procedure for investigating any detected breach and recording the actions taken as a consequence; |\n| --- | --- |\n\n| (d) | periodic reviews of the process for contributing data, to be conducted at least annually and whenever there is a change in the applicable code of conduct. |\n| --- | --- |",
+      "text_sha256": "3f104c9c0d8a2a5af8406fc54e3346f9f3668381da3d826b00a4baee6b0449f0",
+      "md_span": {
+        "start": 1146,
+        "end": 2322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The systems and controls that a supervised contributor is required to have in place pursuant to Article 16(2)(a) of Regulation (EU) 2016/1011 shall include a documented and effective process for contributing data, and shall include at least the following:\n\n| (a) | a process for the designation of submitters and procedures for making contributions when a submitter is unexpectedly unavailable, including the designation of alternates; |\n| --- | --- |\n\n| (b) | procedures and systems for monitoring the data used for the contributions, and the contributions themselves, that are capable of producing alerts in line with parameters predefined by the contributor. |\n| --- | --- |\n\n2. Without prejudice to any requirement imposed under Article 15 of Regulation (EU) 2016/1011, the contributor shall have regard to the following criteria in determining for the purposes of Article 16(2)(a) of that Regulation whether it is proportionate to have in place a process for sign-off by a natural person holding a position senior to that of the submitter:\n\n| (a) | the level of discretion involved in the process of contribution; |\n| --- | --- |\n\n| (b) | the nature, scale and complexity of the supervised contributor's activities; |\n| --- | --- |\n\n| (c) | whether conflicts of interest may rise between the contribution of input data to the benchmark and any trading or other activities performed by the contributor. |\n| --- | --- |\n\n3. Where the controls put in place by a supervised contributor include a process for sign-off by a natural person holding a position senior to that of the submitter, those controls shall include clear rules about the timing of the sign-off and, if they include the possibility of sign-off after submission of the input data, they shall specify the circumstances in which sign-off after submission is permitted and the maximum time-period within which such sign-off is to occur.",
+      "text_sha256": "ea27e4fc9d8227daa492a724d23e682f318373bfbb1cf774ffd000cffd4708bd",
+      "md_span": {
+        "start": 2355,
+        "end": 4270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The systems and controls that a supervised contributor is required to have in place pursuant to Article 16(2)(b) of Regulation (EU) 2016/1011 shall include training programmes to ensure that each submitter has:\n\n| (a) | adequate knowledge and experience of how the benchmark is intended to measure the underlying market or economic reality; |\n| --- | --- |\n\n| (b) | adequate knowledge of all the elements of the applicable code of conduct developed under Article 15(1) of that Regulation, if any. |\n| --- | --- |\n\n2. The knowledge of submitters referred to in points (a) and (b) of paragraph 1 and of the requirements of Regulation (EU) 2016/1011 as well as Regulation (EU) No 596/2014 of the European Parliament and of the Council (4), to the extent applicable to the tasks of the submitters, shall be re-assessed periodically, and in any event at least annually, to verify that it is still appropriate for each of them to act as submitters.\n\n3. Paragraph 2 shall not apply in the case of supervised contributors of significant benchmarks.",
+      "text_sha256": "5eb8d62c52a9355932806a412d3061aee6fdc0f4eb482e3c681b014a698885ff",
+      "md_span": {
+        "start": 4303,
+        "end": 5357
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2018274EN.01001601-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The measures for the management of conflicts of interest that a supervised contributor is required to have in place pursuant to Article 16(2)(c) of Regulation (EU) 2016/1011 shall include at least the following measures:\n\n| (a) | a register of conflicts of interest, that shall be kept up to date and used to record any conflicts of interest identified and any measures taken to manage them. The register shall be accessible to internal or external auditors; |\n| --- | --- |\n\n| (b) | physical separation of submitters from other employees of the contributor, where such separation is appropriate taking into account the level of discretion involved in the process of contribution, the nature, scale and complexity of the contributor's activities and whether conflicts of interest may arise between the contribution of input data to the benchmark and any trading or other activities performed by the contributor; |\n| --- | --- |\n\n| (c) | appropriate internal oversight procedures including, in a case where there is no organisational or physical separation of employees, rules governing the interaction of submitters with front office employees. |\n| --- | --- |\n\n2. The measures for the management of conflict of interest shall also include remuneration policies in relation to submitters that ensure that the remuneration of a submitter is not linked to any of the following:\n\n| (a) | the value of the benchmark; |\n| --- | --- |\n\n| (b) | the specific values of the submissions made; and |\n| --- | --- |\n\n| (c) | the performance of any specific activity of the supervised contributor that may give rise to a conflict of interest with the contribution of input data to the benchmark. |\n| --- | --- |",
+      "text_sha256": "8752ee1cd591f9ebf06852dbd330088dc68c3d82e501294b5963cb6634775146",
+      "md_span": {
+        "start": 5390,
+        "end": 7101
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The records to be kept pursuant to Article 16(2)(d) of Regulation (EU) 2016/1011 of communications in relation to provision of input data shall include records of the contributions made and the names of the submitters.\n\n2. The records to be kept pursuant to Article 16(2)(d) of Regulation (EU) 2016/1011 of the contributor's exposure to financial instruments that use the benchmark as a reference shall include records of the type of activity carried on by the supervised contributor that gives rise to the exposure.\n\n3. The records to be kept pursuant to Article 16(2)(e) of Regulation (EU) 2016/1011 of internal and external audits shall include records of the audit brief, the audit report and any actions taken in response to each audit.\n\n4. Paragraph 3 shall not apply in the case of supervised contributors of significant benchmarks.",
+      "text_sha256": "39d2957be26ed193ab1d13b6aa298d6a3d0338148ad2c7092505d2b29ee2a198",
+      "md_span": {
+        "start": 7134,
+        "end": 7987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThe policies that a supervised contributor is required to establish pursuant to Article 16(3) of Regulation (EU) 2016/1011 where the input data relies on expert judgement shall include at least the following elements:\n\n| (a) | a framework for ensuring consistency between different submitters, and consistency over time, in relation to the use of judgement or the exercise of discretion; |\n| --- | --- |\n\n| (b) | identification of the types of information that can, or cannot, be taken into account in the use of judgement or the exercise of discretion; |\n| --- | --- |\n\n| (c) | procedures for the review of any use of judgement or exercise of discretion. |\n| --- | --- |",
+      "text_sha256": "4fa71d575e12fbf8c8c637fe05ab5c75563990b2254bbd0eff747706b86b8480",
+      "md_span": {
+        "start": 8020,
+        "end": 8702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32018r1640:2018-07-13--65a37c87fd54a2a07865b824490dff362bac4083c2558c162c23f8e2d416b817#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 25 January 2019.",
+      "text_sha256": "026573370d3f60f2ffa7abf3017ae79bb35fcaba713d7b66a1fde05118546b7d",
+      "md_span": {
+        "start": 8735,
+        "end": 8924
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

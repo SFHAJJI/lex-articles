@@ -1,0 +1,206 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 déterminant les modalités d'attribution des permissions pour les servicess de télévision et de télétexte diffusé et services y assimilés, ainsi que les règles générales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.",
+  "valid_from": "2010-12-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1993-03-17-n2/versions/2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134/fr.xml",
+    "sha256": "58578c0aa6596065ea6bed9565b72a0b851efae77801af97aa103722ad54b587",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_1er/20101228",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "Les permissions pour les services de télévision et pour les services de télétexte diffusé et services y assimilés visant un public résident sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi modifiée du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi» .",
+      "text_sha256": "3237f2bec9cac4a30abf678eda7669d2282784875dc6051379101e9af5669543",
+      "md_span": {
+        "start": 885,
+        "end": 1341
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi modifiée du 27 juillet 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2_20101228",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_2_20101228",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_2/20101228",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "Les permissions sont accordées après publication d'un appel de candidatures, sauf les exceptions prévues par la loi, qui font l'objet de l'art. 8 du présent règlement.",
+      "text_sha256": "f0c493f5d216a74460a7814fac0e64de7ff86e3c5fda6f404023983fa7533fd6",
+      "md_span": {
+        "start": 1385,
+        "end": 1552
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_3/20101228",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "**(1)** Le Ministre procède aux appels de candidatures en publiant les fréquences et emplacements disponibles, avec leurs caractéristiques respectives et en indiquant le dernier délai pour la présentation des dossiers de candidature.\n\n**(2)** L’appel de candidatures publié précisera les informations à fournir par les candidats et les critères de sélection des bénéficiaires. Ces critères tiendront compte de l’intérêt du public et des objectifs de la loi, tels qu’ils sont définis à l’article 1er de la loi.\n\n**(3)** L’appel de candidatures pourra également préciser les conditions auxquelles devront répondre le bénéficiaire d’une permission et le service qu’il propose.\n\n**(4)** Après l’écoulement du délai pour la présentation des dossiers de candidature, et après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des permissions.",
+      "text_sha256": "1b6a5b3b828ed908245427fe9595b087ff2d21c771b23f22ab637bac3568324a",
+      "md_span": {
+        "start": 1587,
+        "end": 2529
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_4/19930417",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-04-17",
+      "text_md": "De même en l’absence d’appel public de candidatures, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des permissions.",
+      "text_sha256": "ab551134034944adaf0ff5d476dbf83fb69ddc98d55380eb489898f575ab60a2",
+      "md_span": {
+        "start": 2564,
+        "end": 2724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_5/19930417",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-04-17",
+      "text_md": "Le Ministre accorde les permissions, assorties des cahiers des charges, au nom du Gouvernement.",
+      "text_sha256": "aceab8b1cc2c6f42b61ecaa2e860f33ecfa4f4231773a0a6251692eab6e1e75c",
+      "md_span": {
+        "start": 2759,
+        "end": 2854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_6/19930417",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-04-17",
+      "text_md": "Les permissions sont d’une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire sans qu’il doive être procédé à un appel de candidatures. Les dispositions de la nouvelle permission et du cahier des charges peuvent être différentes de celles applicables antérieurement.",
+      "text_sha256": "15e66148ee803c643f2461c9217df4ad070465de8f10d1b2a89a9e3b018e1bf2",
+      "md_span": {
+        "start": 2889,
+        "end": 3186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_7/19930417",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-04-17",
+      "text_md": "Les cahiers des charges assortis aux permissions seront conformes à l’article 12 de la loi.",
+      "text_sha256": "48886ed7bf6ebd55514594ad72add558dea661857c13c843ae008e03509c5031",
+      "md_span": {
+        "start": 3221,
+        "end": 3312
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8_20101228",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_8_20101228",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_8/20101228",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "Pour un programme diffusé par une fréquence couverte par une concession existante au sens de l'article 5, alinéa (1) de la loi, une permission peut être accordée sans appel de candidatures au bénéficiaire de ladite concession.",
+      "text_sha256": "9bb9c8678107621b9ee8dad5176d04232a8ec3e7c56252a2ecb0827c86f84d94",
+      "md_span": {
+        "start": 3356,
+        "end": 3582
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1993-03-17-n2:2010-12-28--89423bd7b1038ef042f22f26d8075ba4c87da6c2bdc8bc855dd1e93177516134#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/art_9/19930417",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-04-17",
+      "text_md": "Notre Premier Ministre, Ministre d’Etat, est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "28f635422c5aeeba33d5dee7fcf825445c77eb743b0d962021306726351c8ef6",
+      "md_span": {
+        "start": 3617,
+        "end": 3733
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

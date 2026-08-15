@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2984 of 29\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2984/versions/2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343/en.xml",
+    "sha256": "f1b7d169de7bc7b96814b570b8de6eec7cc67445bc51d68bde578bbd44f2afb5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2984"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Persons drawing up a crypto-asset white paper referred to in Article 6(1), Article 19(1) or Article 51(1) of Regulation (EU) 2023/1114 shall provide the information required by this Regulation in a manner that is non-discriminatory, fair, clear and not misleading, presented in a concise and comprehensible form and shall not omit material information.\n\n2. The templates for the white papers for crypto-assets other than asset-referenced tokens or e-money tokens, for asset-referenced tokens and for e-money tokens are set out in the Annex respectively.",
+      "text_sha256": "bb3cee0acc0c9393424b24c438657a10941674f087aa277f839fb58a5799ac85",
+      "md_span": {
+        "start": 774,
+        "end": 1341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Crypto-asset white papers shall be drawn up in XHTML format marking the fields set out in the Annex using Inline XBRL 1.1 specifications of the eXtensible Business Reporting Language (XBRL) and shall comply with the following requirements:\n\n| (a) | the Inline XBRL instance document containing the crypto-asset white paper shall be submitted as a single XHTML file; |\n| --- | --- |\n\n| (b) | issuers of a crypto-asset referred to in Article 19(1) and Article 51(1) of Regulation (EU) 2023/1114 shall be indicated in the Inline XBRL instance document using the ISO 17442 legal entity identifier, where available; |\n| --- | --- |\n\n| (c) | persons drawing up a crypto-asset white paper referred to in Article 6(1), and other persons than the issuer drawing up a crypto-asset white paper referred to in Article 19(1) and Article 51(1) of Regulation (EU) 2023/1114 shall be indicated in the Inline XBRL instance document using the ISO 17442 legal entity identifier, where available, or another identifier required pursuant to applicable national law. |\n| --- | --- |\n\n2. Taxonomy shall be used for the drawing up of a crypto-asset white paper and the elements shall be those set out in Table 2, Table 3 or Table 4 of the Annex.",
+      "text_sha256": "a1aabb851558552ba4d38fce10fc895a4b359f2616120e200e4adc7665a283c0",
+      "md_span": {
+        "start": 1374,
+        "end": 2609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nESMA may publish machine-readable and downloadable XBRL taxonomy files based on the taxonomy referred to in Article 2(2).",
+      "text_sha256": "fecf194720da664dc1dcfa5f068db773061bb0901a38c15e98eb3691622b55a2",
+      "md_span": {
+        "start": 2642,
+        "end": 2774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2984:2024-11-29--bb4f87e5ea0b33f546c78b6922b1a5c7b1ccfc2643123f44cc3177dfa150e343#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 23 December 2025.",
+      "text_sha256": "08b04f459d16713cdf4addb84b9319ac1abd1fc920af53dbf5e7e6703f80a919",
+      "md_span": {
+        "start": 2807,
+        "end": 2997
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,1902 @@
+---
+lex_id: 'eu-eurlex:32022l2523:2022-12-15--abe798611d8120a6f89c5b7458fd2168a184d5ed98196a13b93e3d4a110935e2'
+title: 'Council Directive (EU) 2022/2523 of 14 December 2022 on ensuring a global minimum level of…'
+valid_from: '2022-12-15'
+valid_to: '2022-12-21'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2523'
+source_sha256: '799d0dd6a5d8914a4cd35dc73e2d656a55f2e11cda1d2d2b2ee56f779acb0b1c'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+1. This Directive establishes common measures for the minimum effective taxation of multinational enterprise (MNE) groups and large-scale domestic groups in the form of:
+
+| (a) | an income inclusion rule (IIR) in accordance with which a parent entity of an MNE group or of a large-scale domestic group computes and pays its allocable share of top-up tax in respect of the low-taxed constituent entities of the group; and |
+| --- | --- |
+
+| (b) | an undertaxed profit rule (UTPR) in accordance with which a constituent entity of an MNE group has an additional cash tax expense equal to its share of top-up tax that was not charged under the IIR in respect of the low-taxed constituent entities of the group. |
+| --- | --- |
+
+2. Member States may elect to apply a qualified domestic top-up tax in accordance with which top-up tax shall be computed and paid on the excess profit of all the low-taxed constituent entities located in their jurisdiction pursuant to this Directive.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. This Directive applies to constituent entities located in a Member State that are members of an MNE group or of a large-scale domestic group which has an annual revenue of EUR 750 000 000 or more, including the revenue of the excluded entities referred to in paragraph 3, in its ultimate parent entity’s consolidated financial statements in at least two of the four fiscal years immediately preceding the tested fiscal year.
+
+2. Where one or more of the four fiscal years referred to in paragraph 1 is longer or shorter than 12 months, the revenue threshold referred to in that paragraph shall be adjusted proportionally for each of those fiscal years.
+
+3. This Directive does not apply to the following entities (‘excluded entities’):
+
+| (a) | a governmental entity, an international organisation, a non-profit organisation, a pension fund, an investment fund that is an ultimate parent entity or a real estate investment vehicle that is an ultimate parent entity; |
+| --- | --- |
+
+| (b) | an entity where at least 95 % of the value of the entity is owned by one or more entities referred to in point (a), directly or through one or several excluded entities, except pension services entities, and that:(i)operates exclusively, or almost exclusively, to hold assets or invest funds for the benefit of the entity or entities referred to in point (a); or(ii)exclusively carries out activities ancillary to those performed by the entity or entities referred to in point (a); |
+| --- | --- |
+| (i) | operates exclusively, or almost exclusively, to hold assets or invest funds for the benefit of the entity or entities referred to in point (a); or |
+| (ii) | exclusively carries out activities ancillary to those performed by the entity or entities referred to in point (a); |
+
+| (c) | an entity where at least 85 % of the value of the entity is owned, directly or through one or several excluded entities, by one or more entities referred to in point (a), except pension services entities, provided that substantially all of its income is derived from dividends or equity gains or losses that are excluded from the computation of the qualifying income or loss in accordance with Article 16(2), points (b) and (c). |
+| --- | --- |
+
+By way of derogation from the first subparagraph of this paragraph, the filing constituent entity may make an election, in accordance with Article 45(1), not to treat an entity referred to in points (b) and (c) of that subparagraph as an excluded entity.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+For the purposes of this Directive, the following definitions apply:
+
+| (1) | ‘entity’ means any legal arrangement that prepares separate financial accounts or any legal person; |
+| --- | --- |
+
+| (2) | ‘constituent entity’ means:(a)any entity that is part of an MNE group or of a large-scale domestic group; and(b)any permanent establishment of a main entity that is part of an MNE group referred to in point (a); |
+| --- | --- |
+| (a) | any entity that is part of an MNE group or of a large-scale domestic group; and |
+| (b) | any permanent establishment of a main entity that is part of an MNE group referred to in point (a); |
+
+| (3) | ‘group’ means:(a)a collection of entities which are related through ownership or control as defined by the acceptable financial accounting standard for the preparation of consolidated financial statements by the ultimate parent entity, including any entity that may have been excluded from the consolidated financial statements of the ultimate parent entity solely based on its small size, on materiality grounds or on the grounds that it is held for sale; or(b)an entity that has one or more permanent establishments, provided that it is not part of another group as defined in point (a); |
+| --- | --- |
+| (a) | a collection of entities which are related through ownership or control as defined by the acceptable financial accounting standard for the preparation of consolidated financial statements by the ultimate parent entity, including any entity that may have been excluded from the consolidated financial statements of the ultimate parent entity solely based on its small size, on materiality grounds or on the grounds that it is held for sale; or |
+| (b) | an entity that has one or more permanent establishments, provided that it is not part of another group as defined in point (a); |
+
+| (4) | ‘MNE group’ means any group that includes at least one entity or permanent establishment which is not located in the jurisdiction of the ultimate parent entity; |
+| --- | --- |
+
+| (5) | ‘large-scale domestic group’ means any group of which all constituent entities are located in the same Member State; |
+| --- | --- |
+
+| (6) | ‘consolidated financial statements’ means:(a)the financial statements prepared by an entity in accordance with an acceptable financial accounting standard, in which the assets, liabilities, income, expenses and cash flows of that entity and of any entities in which it has a controlling interest are presented as those of a single economic unit;(b)for groups defined in point (3)(b), the financial statements prepared by an entity in accordance with an acceptable financial accounting standard;(c)the financial statements of the ultimate parent entity that are not prepared in accordance with an acceptable financial accounting standard and that have been subsequently adjusted to prevent any material competitive distortions; and(d)where the ultimate parent entity does not prepare financial statements as described in point (a), (b) or (c), the financial statements that would have been prepared if the ultimate parent entity were required to prepare such financial statements in accordance with:(i)an acceptable financial accounting standard; or(ii)another financial accounting standard, and provided such financial statements have been adjusted to prevent any material competitive distortions; |
+| --- | --- |
+| (a) | the financial statements prepared by an entity in accordance with an acceptable financial accounting standard, in which the assets, liabilities, income, expenses and cash flows of that entity and of any entities in which it has a controlling interest are presented as those of a single economic unit; |
+| (b) | for groups defined in point (3)(b), the financial statements prepared by an entity in accordance with an acceptable financial accounting standard; |
+| (c) | the financial statements of the ultimate parent entity that are not prepared in accordance with an acceptable financial accounting standard and that have been subsequently adjusted to prevent any material competitive distortions; and |
+| (d) | where the ultimate parent entity does not prepare financial statements as described in point (a), (b) or (c), the financial statements that would have been prepared if the ultimate parent entity were required to prepare such financial statements in accordance with:(i)an acceptable financial accounting standard; or(ii)another financial accounting standard, and provided such financial statements have been adjusted to prevent any material competitive distortions; |
+| (i) | an acceptable financial accounting standard; or |
+| (ii) | another financial accounting standard, and provided such financial statements have been adjusted to prevent any material competitive distortions; |
+
+| (7) | ‘fiscal year’ means the accounting period with respect to which the ultimate parent entity of an MNE group or of a large-scale domestic group prepares its consolidated financial statements or, if the ultimate parent entity does not prepare consolidated financial statements, the calendar year; |
+| --- | --- |
+
+| (8) | ‘filing constituent entity’ means an entity filing a top-up tax information return in accordance with Article 44; |
+| --- | --- |
+
+| (9) | ‘governmental entity’ means an entity that meets all the following criteria:(a)it is part of, or wholly owned by, a government, including any political subdivision or local authority thereof;(b)it does not carry on a trade or business and has the principal purpose of:(i)fulfilling a government function; or(ii)managing or investing that government’s or jurisdiction’s assets through the making and holding of investments, asset management, and related investment activities for that government’s or jurisdiction’s assets;(c)it is accountable to a government on its overall performance, and provides annual information reporting to that government; and(d)its assets vest in a government upon dissolution and, to the extent it distributes net earnings, such net earnings are distributed solely to that government with no portion of its net earnings inuring to the benefit of any private person; |
+| --- | --- |
+| (a) | it is part of, or wholly owned by, a government, including any political subdivision or local authority thereof; |
+| (b) | it does not carry on a trade or business and has the principal purpose of:(i)fulfilling a government function; or(ii)managing or investing that government’s or jurisdiction’s assets through the making and holding of investments, asset management, and related investment activities for that government’s or jurisdiction’s assets; |
+| (i) | fulfilling a government function; or |
+| (ii) | managing or investing that government’s or jurisdiction’s assets through the making and holding of investments, asset management, and related investment activities for that government’s or jurisdiction’s assets; |
+| (c) | it is accountable to a government on its overall performance, and provides annual information reporting to that government; and |
+| (d) | its assets vest in a government upon dissolution and, to the extent it distributes net earnings, such net earnings are distributed solely to that government with no portion of its net earnings inuring to the benefit of any private person; |
+
+| (10) | ‘international organisation’ means any intergovernmental organisation, including a supranational organisation, or wholly-owned agency or instrumentality thereof that meets all the following criteria:(a)it is comprised primarily of governments;(b)it has in effect a headquarters or substantially similar agreement with the jurisdiction in which it is established, for example arrangements that entitle the organisation’s offices or establishments in that jurisdiction to privileges and immunities; and(c)law or its governing documents prevent its income inuring to the benefit of private persons; |
+| --- | --- |
+| (a) | it is comprised primarily of governments; |
+| (b) | it has in effect a headquarters or substantially similar agreement with the jurisdiction in which it is established, for example arrangements that entitle the organisation’s offices or establishments in that jurisdiction to privileges and immunities; and |
+| (c) | law or its governing documents prevent its income inuring to the benefit of private persons; |
+
+| (11) | ‘non-profit organisation’ means an entity that meets all the following criteria:(a)it is established and operated in its jurisdiction of residence:(i)exclusively for religious, charitable, scientific, artistic, cultural, athletic, educational or other similar purposes; or(ii)as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;(b)substantially all the income from the activities mentioned in point (a) is exempt from income tax in its jurisdiction of residence;(c)it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;(d)the income or assets of the entity may not be distributed to, or applied for the benefit of, a private person or non-charitable entity other than:(i)pursuant to the conduct of the entity’s charitable activities;(ii)as payment of reasonable compensation for services rendered or for the use of property or capital; or(iii)as payment representing the fair market value of property which the entity has purchased; and(e)upon termination, liquidation or dissolution of the entity, all of its assets are to be distributed to or revert to a non-profit organisation or to the government, including any governmental entity, of the entity’s jurisdiction of residence or any political subdivision thereof;(f)it does not carry on a trade or business that is not directly related to the purposes for which it was established; |
+| --- | --- |
+| (a) | it is established and operated in its jurisdiction of residence:(i)exclusively for religious, charitable, scientific, artistic, cultural, athletic, educational or other similar purposes; or(ii)as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare; |
+| (i) | exclusively for religious, charitable, scientific, artistic, cultural, athletic, educational or other similar purposes; or |
+| (ii) | as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare; |
+| (b) | substantially all the income from the activities mentioned in point (a) is exempt from income tax in its jurisdiction of residence; |
+| (c) | it has no shareholders or members who have a proprietary or beneficial interest in its income or assets; |
+| (d) | the income or assets of the entity may not be distributed to, or applied for the benefit of, a private person or non-charitable entity other than:(i)pursuant to the conduct of the entity’s charitable activities;(ii)as payment of reasonable compensation for services rendered or for the use of property or capital; or(iii)as payment representing the fair market value of property which the entity has purchased; and |
+| (i) | pursuant to the conduct of the entity’s charitable activities; |
+| (ii) | as payment of reasonable compensation for services rendered or for the use of property or capital; or |
+| (iii) | as payment representing the fair market value of property which the entity has purchased; and |
+| (e) | upon termination, liquidation or dissolution of the entity, all of its assets are to be distributed to or revert to a non-profit organisation or to the government, including any governmental entity, of the entity’s jurisdiction of residence or any political subdivision thereof; |
+| (f) | it does not carry on a trade or business that is not directly related to the purposes for which it was established; |
+
+| (12) | ‘flow-through entity’ means an entity to the extent it is fiscally transparent with respect to its income, expenditure, profit or loss in the jurisdiction where it was created unless it is tax resident and subject to a covered tax on its income or profit in another jurisdiction;a flow-through entity is deemed to be:(a)a tax-transparent entity with respect to its income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located;(b)a reverse hybrid entity with respect to its income, expenditure, profit or loss to the extent that it is not fiscally transparent in the jurisdiction in which its owner is located;for the purposes of this definition, a ‘fiscally transparent entity’ means an entity whose income, expenditure, profit or loss is treated by the laws of a jurisdiction as if it were derived or incurred by the direct owner of that entity in proportion to its interest in that entity;an ownership interest in an entity or a permanent establishment that is a constituent entity shall be treated as held through a tax transparent structure if that ownership interest is held indirectly through a chain of tax transparent entities;a constituent entity that is not tax resident and not subject to a covered tax or a qualified domestic top-up tax based on its place of management, place of creation or similar criteria shall be treated as a flow-through entity and a tax transparent entity in respect of its income, expenditure, profit or loss, to the extent that:(a)its owners are located in a jurisdiction that treats the entity as fiscally transparent;(b)it does not have a place of business in the jurisdiction where it was created; and(c)the income, expenditure, profit or loss is not attributable to a permanent establishment; |
+| --- | --- |
+| (a) | a tax-transparent entity with respect to its income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located; |
+| (b) | a reverse hybrid entity with respect to its income, expenditure, profit or loss to the extent that it is not fiscally transparent in the jurisdiction in which its owner is located; |
+| (a) | its owners are located in a jurisdiction that treats the entity as fiscally transparent; |
+| (b) | it does not have a place of business in the jurisdiction where it was created; and |
+| (c) | the income, expenditure, profit or loss is not attributable to a permanent establishment; |
+
+| (13) | ‘permanent establishment’ means:(a)a place of business or a deemed place of business located in a jurisdiction where it is treated as a permanent establishment in accordance with an applicable tax treaty, provided that such jurisdiction taxes the income attributable to it in accordance with a provision similar to Article 7 of the OECD Model Tax Convention on Income and Capital, as amended;(b)if there is no applicable tax treaty, a place of business or a deemed place of business located in a jurisdiction which taxes the income attributable to such place of business on a net basis in a manner similar to which it taxes its own tax residents;(c)if a jurisdiction has no corporate income tax system, a place of business or a deemed place of business located in such jurisdiction that would be treated as a permanent establishment in accordance with the OECD Model Tax Convention on Income and Capital, as amended, provided that such jurisdiction would have had the right to tax the income that would have been attributable to the place of business in accordance with Article 7 of that Convention; or(d)a place of business or a deemed place of business that is not described in points (a) to (c) through which operations are conducted outside the jurisdiction where the entity is located, provided that such jurisdiction exempts the income attributable to such operations; |
+| --- | --- |
+| (a) | a place of business or a deemed place of business located in a jurisdiction where it is treated as a permanent establishment in accordance with an applicable tax treaty, provided that such jurisdiction taxes the income attributable to it in accordance with a provision similar to Article 7 of the OECD Model Tax Convention on Income and Capital, as amended; |
+| (b) | if there is no applicable tax treaty, a place of business or a deemed place of business located in a jurisdiction which taxes the income attributable to such place of business on a net basis in a manner similar to which it taxes its own tax residents; |
+| (c) | if a jurisdiction has no corporate income tax system, a place of business or a deemed place of business located in such jurisdiction that would be treated as a permanent establishment in accordance with the OECD Model Tax Convention on Income and Capital, as amended, provided that such jurisdiction would have had the right to tax the income that would have been attributable to the place of business in accordance with Article 7 of that Convention; or |
+| (d) | a place of business or a deemed place of business that is not described in points (a) to (c) through which operations are conducted outside the jurisdiction where the entity is located, provided that such jurisdiction exempts the income attributable to such operations; |
+
+| (14) | ‘ultimate parent entity’ means:(a)an entity that owns, directly or indirectly, a controlling interest in any other entity and that is not owned, directly or indirectly, by another entity with a controlling interest in it; or(b)the main entity of a group as defined in point (3)(b); |
+| --- | --- |
+| (a) | an entity that owns, directly or indirectly, a controlling interest in any other entity and that is not owned, directly or indirectly, by another entity with a controlling interest in it; or |
+| (b) | the main entity of a group as defined in point (3)(b); |
+
+| (15) | ‘minimum tax rate’ means fifteen percent (15 %); |
+| --- | --- |
+
+| (16) | ‘top-up tax’ means the top-up tax computed for a jurisdiction or a constituent entity pursuant to Article 27; |
+| --- | --- |
+
+| (17) | ‘controlled foreign company tax regime’ means a set of tax rules, other than a qualified IIR, under which a direct or indirect shareholder of a foreign entity, or the main entity of a permanent establishment, is subject to taxation on its share of part or all of the income earned by that foreign constituent entity, irrespective of whether that income is distributed to the shareholder; |
+| --- | --- |
+
+| (18) | ‘qualified IIR’ means a set of rules that is implemented in the domestic law of a jurisdiction, provided that such jurisdiction does not provide any benefits that are related to those rules, and that is:(a)equivalent to the rules laid down in this Directive or, as regards third-country jurisdictions, the Tax Challenges Arising from the Digitalisation of the Economy Global Anti-Base Erosion Model Rules (Pillar Two) (‘OECD Model Rules’), in accordance with which the parent entity of an MNE group or of a large-scale domestic group computes and pays its allocable share of top-up tax in respect of the low-taxed constituent entities of that group;(b)administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, with the OECD Model Rules; |
+| --- | --- |
+| (a) | equivalent to the rules laid down in this Directive or, as regards third-country jurisdictions, the Tax Challenges Arising from the Digitalisation of the Economy Global Anti-Base Erosion Model Rules (Pillar Two) (‘OECD Model Rules’), in accordance with which the parent entity of an MNE group or of a large-scale domestic group computes and pays its allocable share of top-up tax in respect of the low-taxed constituent entities of that group; |
+| (b) | administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, with the OECD Model Rules; |
+
+| (19) | ‘low-taxed constituent entity’ means:(a)a constituent entity of an MNE group or of a large-scale domestic group that is located in a low-tax jurisdiction; or(b)a stateless constituent entity that, in respect of a fiscal year, has qualifying income and an effective tax rate which is lower than the minimum tax rate; |
+| --- | --- |
+| (a) | a constituent entity of an MNE group or of a large-scale domestic group that is located in a low-tax jurisdiction; or |
+| (b) | a stateless constituent entity that, in respect of a fiscal year, has qualifying income and an effective tax rate which is lower than the minimum tax rate; |
+
+| (20) | ‘intermediate parent entity’ means a constituent entity that owns, directly or indirectly, an ownership interest in another constituent entity in the same MNE group or large-scale domestic group and that does not qualify as an ultimate parent entity, a partially-owned parent entity, a permanent establishment or an investment entity; |
+| --- | --- |
+
+| (21) | ‘controlling interest’ means an ownership interest in an entity whereby the interest holder is required, or would have been required, to consolidate the assets, liabilities, income, expenses and cash flows of the entity on a line-by-line basis, in accordance with an acceptable financial accounting standard; a main entity is deemed to hold the controlling interests in its permanent establishments; |
+| --- | --- |
+
+| (22) | ‘partially-owned parent entity’ means a constituent entity that owns, directly or indirectly, an ownership interest in another constituent entity of the same MNE group or large-scale domestic group, and for which more than 20 % of the ownership interest in its profits is held, directly or indirectly, by one or several persons that are not constituent entities of that MNE group or large-scale domestic group and that does not qualify as an ultimate parent entity, a permanent establishment or an investment entity; |
+| --- | --- |
+
+| (23) | ‘ownership interest’ means any equity interest that carries rights to the profits, capital or reserves of an entity or of a permanent establishment; |
+| --- | --- |
+
+| (24) | ‘parent entity’ means an ultimate parent entity which is not an excluded entity, an intermediate parent entity or a partially-owned parent entity; |
+| --- | --- |
+
+| (25) | ‘acceptable financial accounting standard’ means International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/2002 of the European Parliament and of the Council (8)) and the generally accepted accounting principles of Australia, Brazil, Canada, the Member States of the European Union, the Member States of the European Economic Area, Hong Kong (China), Japan, Mexico, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Russia, Singapore, Switzerland, the United Kingdom and the United States of America; |
+| --- | --- |
+
+| (26) | ‘authorised financial accounting standard’ means, in respect of an entity, a set of generally acceptable accounting principles permitted by an authorised accounting body in the jurisdiction where that entity is located; for the purposes of this definition, ‘authorised accounting body’ means the body with legal authority in a jurisdiction to prescribe, establish or accept accounting standards for financial reporting purposes; |
+| --- | --- |
+
+| (27) | ‘material competitive distortion’ means, in respect of the application of a specific principle or procedure under a set of generally acceptable accounting principles, an application that results in an aggregate variation of income or expense of more than EUR 75 000 000 in a fiscal year as compared to the amount that would have been determined by applying the corresponding principle or procedure under International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/2002); |
+| --- | --- |
+
+| (28) | ‘qualified domestic top-up tax’ means a top-up tax that is implemented in the domestic law of a jurisdiction provided that such jurisdiction does not provide any benefits that are related to those rules, and that:(a)provides for the determination of the excess profits of the constituent entities located in that jurisdiction in accordance with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules and the application of the minimum tax rate to those excess profits for the jurisdiction and the constituent entities in accordance with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; and(b)is administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; |
+| --- | --- |
+| (a) | provides for the determination of the excess profits of the constituent entities located in that jurisdiction in accordance with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules and the application of the minimum tax rate to those excess profits for the jurisdiction and the constituent entities in accordance with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; and |
+| (b) | is administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; |
+
+| (29) | ‘net book value of tangible assets’ means the average of the beginning and end values of tangible assets after taking into account accumulated depreciation, depletion and impairment, as recorded in the financial statements; |
+| --- | --- |
+
+| (30) | ‘investment entity’ means:(a)an investment fund or a real estate investment vehicle;(b)an entity that is at least 95 % owned directly by an entity referred to in point (a) or through a chain of such entities and that operates exclusively or almost exclusively to hold assets or invest funds for their benefit; or(c)an entity where a minimum of 85 % of the value of the entity is owned by an entity referred to in point (a), provided that substantially all of its income is derived from dividends or equity gains or losses that are excluded from the computation of the qualifying income or loss for the purposes of this Directive; |
+| --- | --- |
+| (a) | an investment fund or a real estate investment vehicle; |
+| (b) | an entity that is at least 95 % owned directly by an entity referred to in point (a) or through a chain of such entities and that operates exclusively or almost exclusively to hold assets or invest funds for their benefit; or |
+| (c) | an entity where a minimum of 85 % of the value of the entity is owned by an entity referred to in point (a), provided that substantially all of its income is derived from dividends or equity gains or losses that are excluded from the computation of the qualifying income or loss for the purposes of this Directive; |
+
+| (31) | ‘investment fund’ means an entity or arrangement that meets all the following conditions:(a)it is designed to pool financial or non-financial assets from a number of investors, some of which are non-connected;(b)it invests in accordance with a defined investment policy;(c)it allows investors to reduce transaction, research and analytical costs or to spread risk collectively;(d)it is primarily designed to generate investment income or gains, or protection against a particular or general event or outcome;(e)its investors have a right to return from the assets of the fund or income earned on those assets, based on the contribution they made;(f)it, or its management, is subject to the regulatory regime, including appropriate anti-money laundering and investor protection regulation, for investment funds in the jurisdiction in which it is established or managed; and(g)it is managed by investment fund management professionals on behalf of the investors; |
+| --- | --- |
+| (a) | it is designed to pool financial or non-financial assets from a number of investors, some of which are non-connected; |
+| (b) | it invests in accordance with a defined investment policy; |
+| (c) | it allows investors to reduce transaction, research and analytical costs or to spread risk collectively; |
+| (d) | it is primarily designed to generate investment income or gains, or protection against a particular or general event or outcome; |
+| (e) | its investors have a right to return from the assets of the fund or income earned on those assets, based on the contribution they made; |
+| (f) | it, or its management, is subject to the regulatory regime, including appropriate anti-money laundering and investor protection regulation, for investment funds in the jurisdiction in which it is established or managed; and |
+| (g) | it is managed by investment fund management professionals on behalf of the investors; |
+
+| (32) | ‘real estate investment vehicle’ means a widely held entity that holds predominantly immovable property and that is subject to a single level of taxation, either in its hands or in the hands of its interest holders, with at most one year of deferral; |
+| --- | --- |
+
+| (33) | ‘pension fund’ means:(a)an entity that is established and operated in a jurisdiction exclusively or almost exclusively to administer or provide retirement benefits and ancillary or incidental benefits to individuals where:(i)that entity is regulated as such by that jurisdiction or one of its political subdivisions or local authorities; or(ii)those benefits are secured or otherwise protected by national regulations and funded by a pool of assets held through a fiduciary arrangement or trustor to secure the fulfilment of the corresponding pension obligations against a case of insolvency of the MNE group and large-scale domestic group;(b)a pension services entity; |
+| --- | --- |
+| (a) | an entity that is established and operated in a jurisdiction exclusively or almost exclusively to administer or provide retirement benefits and ancillary or incidental benefits to individuals where:(i)that entity is regulated as such by that jurisdiction or one of its political subdivisions or local authorities; or(ii)those benefits are secured or otherwise protected by national regulations and funded by a pool of assets held through a fiduciary arrangement or trustor to secure the fulfilment of the corresponding pension obligations against a case of insolvency of the MNE group and large-scale domestic group; |
+| (i) | that entity is regulated as such by that jurisdiction or one of its political subdivisions or local authorities; or |
+| (ii) | those benefits are secured or otherwise protected by national regulations and funded by a pool of assets held through a fiduciary arrangement or trustor to secure the fulfilment of the corresponding pension obligations against a case of insolvency of the MNE group and large-scale domestic group; |
+| (b) | a pension services entity; |
+
+| (34) | ‘pension services entity’ means an entity that is established and operated exclusively or almost exclusively to invest funds for the benefit of entities referred to in point (33)(a) or to carry out activities that are ancillary to the regulated activities referred to in point (33)(a), provided that the pension services entity forms part of the same group as the entities carrying out those regulated activities; |
+| --- | --- |
+
+| (35) | ‘low-tax jurisdiction’ means, in respect of an MNE group or a large-scale domestic group in any fiscal year, a Member State or a third-country jurisdiction in which the MNE group or the large-scale domestic group has a qualifying income and is subject to an effective tax rate which is lower than the minimum tax rate; |
+| --- | --- |
+
+| (36) | ‘qualifying income or loss’ means the financial accounting net income or loss of a constituent entity adjusted in accordance with the rules set out in Chapters III, VI and VII; |
+| --- | --- |
+
+| (37) | ‘disqualified refundable imputation tax’ means any tax, other than a qualified imputation tax, accrued or paid by a constituent entity that is:(a)refundable to the beneficial owner of a dividend distributed by such constituent entity in respect of that dividend or creditable by the beneficial owner against a tax liability other than a tax liability in respect of such dividend; or(b)refundable to the distributing company upon distribution of a dividend to a shareholder;for the purposes of this definition, a ‘qualified imputation tax’ means a covered tax accrued or paid by a constituent entity, including a permanent establishment, that is refundable or creditable to the beneficial owner of the dividend distributed by the constituent entity or, in the case of a covered tax accrued or paid by a permanent establishment, a dividend distributed by the main entity, to the extent that the refund is payable or the credit is provided:(a)by a jurisdiction other than the jurisdiction which imposed the covered taxes;(b)to a beneficial owner of the dividend that is subject to tax at a nominal rate that equals or exceeds the minimum tax rate on the dividend received under the domestic law of the jurisdiction which imposed the covered taxes on the constituent entity;(c)to an individual who is the beneficial owner of the dividend and tax resident in the jurisdiction which imposed the covered taxes on the constituent entity and who is subject to tax at a nominal rate that equals or exceeds the standard tax rate applicable to ordinary income; or(d)to a governmental entity, an international organisation, a resident non-profit organisation, a resident pension fund, a resident investment entity that is not part of the MNE group or the large-scale domestic group, or a resident life insurance company to the extent that the dividend is received in connection with resident pension fund activities and is subject to tax in a similar manner as a dividend received by a pension fund;for the purposes of point (d):(i)a non-profit organisation or pension fund is resident in a jurisdiction if it is created and managed in that jurisdiction;(ii)an investment entity is resident in a jurisdiction if it is created and regulated in that jurisdiction;(iii)a life insurance company is resident in the jurisdiction in which it is located; |
+| --- | --- |
+| (a) | refundable to the beneficial owner of a dividend distributed by such constituent entity in respect of that dividend or creditable by the beneficial owner against a tax liability other than a tax liability in respect of such dividend; or |
+| (b) | refundable to the distributing company upon distribution of a dividend to a shareholder; |
+| (a) | by a jurisdiction other than the jurisdiction which imposed the covered taxes; |
+| (b) | to a beneficial owner of the dividend that is subject to tax at a nominal rate that equals or exceeds the minimum tax rate on the dividend received under the domestic law of the jurisdiction which imposed the covered taxes on the constituent entity; |
+| (c) | to an individual who is the beneficial owner of the dividend and tax resident in the jurisdiction which imposed the covered taxes on the constituent entity and who is subject to tax at a nominal rate that equals or exceeds the standard tax rate applicable to ordinary income; or |
+| (d) | to a governmental entity, an international organisation, a resident non-profit organisation, a resident pension fund, a resident investment entity that is not part of the MNE group or the large-scale domestic group, or a resident life insurance company to the extent that the dividend is received in connection with resident pension fund activities and is subject to tax in a similar manner as a dividend received by a pension fund;for the purposes of point (d):(i)a non-profit organisation or pension fund is resident in a jurisdiction if it is created and managed in that jurisdiction;(ii)an investment entity is resident in a jurisdiction if it is created and regulated in that jurisdiction;(iii)a life insurance company is resident in the jurisdiction in which it is located; |
+| (i) | a non-profit organisation or pension fund is resident in a jurisdiction if it is created and managed in that jurisdiction; |
+| (ii) | an investment entity is resident in a jurisdiction if it is created and regulated in that jurisdiction; |
+| (iii) | a life insurance company is resident in the jurisdiction in which it is located; |
+
+| (38) | ‘qualified refundable tax credit’ means:(a)a refundable tax credit designed in such a way that it is to be paid as a cash payment or a cash equivalent to a constituent entity within four years from the date when the constituent entity is entitled to receive the refundable tax credit under the laws of the jurisdiction granting the credit; or(b)if the tax credit is refundable in part, the portion of the refundable tax credit that is payable as a cash payment or a cash equivalent to a constituent entity within four years from the date when the constituent entity is entitled to receive the partial refundable tax credit;a qualified refundable tax credit does not include any amount of tax creditable or refundable pursuant to a qualified imputation tax or a disqualified refundable imputation tax; |
+| --- | --- |
+| (a) | a refundable tax credit designed in such a way that it is to be paid as a cash payment or a cash equivalent to a constituent entity within four years from the date when the constituent entity is entitled to receive the refundable tax credit under the laws of the jurisdiction granting the credit; or |
+| (b) | if the tax credit is refundable in part, the portion of the refundable tax credit that is payable as a cash payment or a cash equivalent to a constituent entity within four years from the date when the constituent entity is entitled to receive the partial refundable tax credit; |
+
+| (39) | ‘non-qualified refundable tax credit’ means a tax credit that is a not a qualified refundable tax credit but that is refundable in whole or in part; |
+| --- | --- |
+
+| (40) | ‘main entity’ means an entity that includes the financial accounting net income or loss of a permanent establishment in its financial statements; |
+| --- | --- |
+
+| (41) | ‘constituent entity-owner’ means a constituent entity that owns, directly or indirectly, an ownership interest in another constituent entity of the same MNE group or large-scale domestic group; |
+| --- | --- |
+
+| (42) | ‘eligible distribution tax system’ means a corporate income tax system that:(a)imposes income tax on profits only when those profits are distributed or deemed to be distributed to shareholders, or when the company incurs certain non-business expenses;(b)imposes tax at a rate equal to, or in excess of, the minimum tax rate; and(c)was in force on or before 1 July 2021; |
+| --- | --- |
+| (a) | imposes income tax on profits only when those profits are distributed or deemed to be distributed to shareholders, or when the company incurs certain non-business expenses; |
+| (b) | imposes tax at a rate equal to, or in excess of, the minimum tax rate; and |
+| (c) | was in force on or before 1 July 2021; |
+
+| (43) | ‘qualified UTPR’ means a set of rules implemented in the domestic law of a jurisdiction, provided that such jurisdiction does not provide any benefits that are related to those rules, and that:(a)is equivalent to the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules, in accordance with which a jurisdiction collects its allocable share of top-up tax of an MNE group that was not charged under the IIR in respect of the low-taxed constituent entities of that MNE group;(b)is administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; |
+| --- | --- |
+| (a) | is equivalent to the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules, in accordance with which a jurisdiction collects its allocable share of top-up tax of an MNE group that was not charged under the IIR in respect of the low-taxed constituent entities of that MNE group; |
+| (b) | is administered in a way that is consistent with the rules laid down in this Directive or, as regards third-country jurisdictions, the OECD Model Rules; |
+
+| (44) | ‘designated filing entity’ means the constituent entity, other than the ultimate parent entity, that has been appointed by the MNE group or large-scale domestic group to fulfil the filing obligations set out in Article 44 on behalf of the MNE group or the large-scale domestic group. |
+| --- | --- |
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. For the purposes of this Directive, an entity other than a flow-through entity shall be determined to be located in the jurisdiction where it is considered to be resident for tax purposes based on its place of management, its place of creation or similar criteria.
+
+Where it is not possible to determine the location of an entity other than a flow-through entity based on the first subparagraph, it shall be deemed to be located in the jurisdiction where it was created.
+
+2. A flow-through entity shall be considered to be stateless, unless it is the ultimate parent entity of an MNE group or of a large-scale domestic group or it is required to apply an IIR in accordance with Articles 5, 6, 7 and 8, in which case the flow-through entity shall be deemed to be located in the jurisdiction where it was created.
+
+3. A permanent establishment as defined in Article 3, point (13)(a), shall be determined to be located in the jurisdiction where it is treated as a permanent establishment and is liable to tax under the applicable tax treaty.
+
+A permanent establishment as defined in Article 3, point (13)(b), shall be determined to be located in the jurisdiction where it is subject to net basis taxation based on its business presence.
+
+A permanent establishment as defined in Article 3, point (13)(c), shall be determined to be located in the jurisdiction where it is situated.
+
+A permanent establishment as defined in Article 3, point (13)(d), shall be considered to be stateless.
+
+4. Where a constituent entity is located in two jurisdictions and those jurisdictions have an applicable tax treaty, the constituent entity shall be deemed to be located in the jurisdiction where it is considered to be resident for tax purposes under that tax treaty.
+
+Where the applicable tax treaty requires that the competent authorities reach a mutual agreement on the deemed residence for tax purposes of the constituent entity, and no agreement is reached, paragraph 5 shall apply.
+
+Where there is no relief for double taxation under the applicable tax treaty due to the fact that a constituent entity is resident for tax purposes in both contracting parties, paragraph 5 shall apply.
+
+5. Where a constituent entity is located in two jurisdictions and those jurisdictions do not have an applicable tax treaty, the constituent entity shall be deemed to be located in the jurisdiction which charged the higher amount of covered taxes for the fiscal year.
+
+For the purpose of computing the amount of covered taxes referred to in the first subparagraph, the amount of tax paid in accordance with a controlled foreign company tax regime shall not be taken into consideration.
+
+If the amount of covered taxes due in the two jurisdictions is the same or zero, the constituent entity shall be deemed to be located in the jurisdiction where it has the higher amount of substance-based income exclusion computed on an entity basis in accordance with Article 28.
+
+If the amount of the substance-based income exclusion in the two jurisdictions is the same or zero, the constituent entity shall be considered to be stateless, unless it is an ultimate parent entity, in which case it shall be deemed to be located in the jurisdiction where it was created.
+
+6. Where, as a result of applying paragraphs 4 and 5, a parent entity is located in a jurisdiction where it is not subject to a qualified IIR, it shall be deemed to be subject to the qualified IIR of the other jurisdiction, unless an applicable tax treaty prohibits the application of such rule.
+
+7. Where a constituent entity changes its location in the course of a fiscal year, it shall be deemed to be located in the jurisdiction where it was deemed to be located under this Article at the beginning of that fiscal year.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Member States shall ensure that an ultimate parent entity that is a constituent entity located in a Member State is subject to the top-up tax (the ‘IIR top-up tax’) for the fiscal year in respect of its low-taxed constituent entities that are located in another jurisdiction or that are stateless.
+
+2. Member States shall ensure that, where a constituent entity that is the ultimate parent entity of an MNE group or of a large-scale domestic group is located in a Member State that is a low-tax jurisdiction, it is subject to the IIR top-up tax in respect of itself and of all low-taxed constituent entities of the group located in the same Member State for the fiscal year.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Member States shall ensure that an intermediate parent entity located in a Member State and held by an ultimate parent entity that is located in a third-country jurisdiction is subject to the IIR top-up tax for the fiscal year in respect of its low-taxed constituent entities that are located in another jurisdiction or that are stateless.
+
+2. Member States shall ensure that, where an intermediate parent entity is located in a Member State that is a low-tax jurisdiction and held by an ultimate parent entity that is located in a third-country jurisdiction, it is subject to the IIR top-up tax in respect of itself and of its low-taxed constituent entities located in the same Member State for the fiscal year.
+
+3. Paragraphs 1 and 2 shall not apply where:
+
+| (a) | the ultimate parent entity is subject to a qualified IIR for that fiscal year; or |
+| --- | --- |
+
+| (b) | another intermediate parent entity is located in a jurisdiction where it is subject to a qualified IIR for that fiscal year and owns, directly or indirectly, a controlling interest in the intermediate parent entity. |
+| --- | --- |
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. Member States shall ensure that, where an intermediate parent entity located in a Member State is held by an ultimate parent entity that is an excluded entity, it is subject to the IIR top-up tax for the fiscal year in respect of its low-taxed constituent entities that are located in another jurisdiction or that are stateless.
+
+2. Member States shall ensure that, where an intermediate parent entity located in a Member State that is a low-tax jurisdiction is held by an ultimate parent entity that is an excluded entity, it is subject to the IIR top-up tax in respect of itself and its low-taxed constituent entities that are located in the same Member State for the fiscal year.
+
+3. Paragraphs 1 and 2 shall not apply where another intermediate parent entity is located in a jurisdiction where it is subject to a qualified IIR for that fiscal year and owns, directly or indirectly, a controlling interest in the intermediate parent entity referred to in paragraphs 1 and 2.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. Member States shall ensure that a partially-owned parent entity located in a Member State is subject to the IIR top-up tax for the fiscal year in respect of its low-taxed constituent entities that are located in another jurisdiction or that are stateless.
+
+2. Member States shall ensure that, where a partially-owned parent entity is located in a Member State that is a low-tax jurisdiction, it is subject to the IIR top-up tax in respect of itself and of its low-taxed constituent entities located in the same Member State for the fiscal year.
+
+3. Paragraphs 1 and 2 shall not apply where the ownership interests of the partially-owned parent entity are wholly held, directly or indirectly, by another partially-owned parent entity that is subject to a qualified IIR for that fiscal year.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. The IIR top-up tax due by a parent entity in respect of a low-taxed constituent entity pursuant to Article 5(1), Article 6(1), Article 7(1) and Article 8(1) shall be equal to the top-up tax of the low-taxed constituent entity, as computed in accordance with Article 27, multiplied by the parent entity’s allocable share in such top-up tax for the fiscal year.
+
+2. A parent entity’s allocable share in the top-up tax with respect to a low-taxed constituent entity shall be the proportion of the parent entity’s ownership interest in the qualifying income of the low-taxed constituent entity. That proportion shall be equal to the qualifying income of the low-taxed constituent entity for the fiscal year, reduced by the amount of such income attributable to ownership interests held by other owners, divided by the qualifying income of the low-taxed constituent entity for the fiscal year.
+
+The amount of qualifying income attributable to ownership interests in a low-taxed constituent entity held by other owners shall be the amount that would have been treated as attributable to such owners under the principles of the acceptable financial accounting standard used in the ultimate parent entity’s consolidated financial statements if the low-taxed constituent entity’s net income were equal to its qualifying income and:
+
+| (a) | the parent entity had prepared consolidated financial statements in accordance with that accounting standard (the ‘hypothetical consolidated financial statements’); |
+| --- | --- |
+
+| (b) | the parent entity owned a controlling interest in the low-taxed constituent entity such that all of the income and expenses of the low-taxed constituent entity were consolidated on a line-by-line basis with those of the parent entity in the hypothetical consolidated financial statements; |
+| --- | --- |
+
+| (c) | all of the low-taxed constituent entity’s qualifying income were attributable to transactions with persons that are not group entities; and |
+| --- | --- |
+
+| (d) | all ownership interests not directly or indirectly held by the parent entity were held by persons other than group entities. |
+| --- | --- |
+
+3. In addition to the amount allocated to a parent entity in accordance with paragraph 1 of this Article, the IIR top-up tax due by a parent entity pursuant to Article 5(2), Article 6(2), Article 7(2) and Article 8(2) shall include, for the fiscal year, in accordance with Article 27:
+
+| (a) | the full amount of top-up tax computed for that parent entity; and |
+| --- | --- |
+
+| (b) | the amount of top-up tax computed for its low-taxed constituent entities located in the same Member State multiplied by the parent entity’s allocable share in such top-up tax for the fiscal year. |
+| --- | --- |
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+Where a parent entity located in a Member State holds an ownership interest in a low-taxed constituent entity indirectly through an intermediate parent entity or a partially-owned parent entity that is subject to a qualified IIR for the fiscal year, the top-up tax due pursuant to Articles 5 to 8 shall be reduced by an amount equal to the portion of the first-mentioned parent entity’s allocable share of the top-up tax which is due by the intermediate parent entity or the partially-owned parent entity.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. Member States may elect to apply a qualified domestic top-up tax.
+
+If a Member State where constituent entities of an MNE group or of a large-scale domestic group are located elects to apply a qualified domestic top-up tax, all low-taxed constituent entities of the MNE group or the large-scale domestic group in that Member State shall be subject to that domestic top-up tax for the fiscal year.
+
+Under a qualified domestic top-up tax, the domestic excess profits of the low-taxed constituent entities may be computed based on an acceptable financial accounting standard or an authorised financial accounting standard permitted by the authorised accounting body and adjusted to prevent any material competitive distortions, rather than the financial accounting standard used in the consolidated financial statements.
+
+2. Where a parent entity of an MNE group or of a large-scale domestic group is located in a Member State, and its directly or indirectly held constituent entities located either in that Member State or in another jurisdiction are subject to a qualified domestic top-up tax for the fiscal year in those jurisdictions, the amount of any top-up tax computed in accordance with Article 27 due by the parent entity pursuant to Articles 5 to 8 shall be reduced, up to zero, by the amount of qualified domestic top-up tax due either by itself or by those constituent entities.
+
+Notwithstanding the first subparagraph, if the qualified domestic top-up tax has been computed for a fiscal year in accordance with the ultimate parent entity’s acceptable financial accounting standard or International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/2002), no top-up tax shall be computed in accordance with Article 27 for that fiscal year in respect of the constituent entities of that MNE group or large-scale domestic group located in that Member State. This subparagraph is without prejudice to the computation of any additional top-up tax pursuant to Article 29 in the case where a Member State does not apply a qualified domestic top-up tax to collect any additional top-up tax arising under Article 29.
+
+3. Where the amount of qualified domestic top-up tax for a fiscal year has not been paid within the four fiscal years following the fiscal year in which it was due, the amount of qualified domestic top-up tax that was not paid shall be added to the jurisdictional top-up tax computed in accordance with Article 27(3) and shall not be collected by the Member State which made the election pursuant to paragraph 1 of this Article.
+
+4. Member States that elect to apply a qualified domestic top-up tax shall notify the Commission of that election within four months following the adoption of their national laws, regulations and administrative provisions introducing a qualified domestic top-up tax. Such election shall be valid and may not be revoked for a period of three years. At the end of each period of three years, the election shall be renewed automatically, unless the Member State revokes its election. Any revocation of the election shall be notified to the Commission no later than four months before the end of the three-year period.
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. Where the ultimate parent entity of an MNE group is located in a third-country jurisdiction that does not apply a qualified IIR, or where the ultimate parent entity of an MNE group is an excluded entity, Member States shall ensure that the constituent entities located in the Union are subject, in the Member State in which they are located, to an adjustment equal to the UTPR top-up tax amount allocated to that Member State for the fiscal year in accordance with Article 14.
+
+For that purpose, such adjustment may take the form of either a top-up tax due by those constituent entities or a denial of deduction against the taxable income of those constituent entities resulting in an amount of tax liability necessary to collect the UTPR top-up tax amount allocated to that Member State.
+
+2. Where a Member State applies the adjustment pursuant to paragraph 1 of this Article in the form of a denial of deduction against taxable income, such adjustment shall apply to the extent possible with respect to the taxable year in which the fiscal year for which the UTPR top-up tax amount was computed and allocated to a Member State in accordance with Article 14 ends.
+
+Any UTPR top-up tax amount that remains due with respect to a fiscal year as a result of the application of a denial of deduction against taxable income for that fiscal year shall be carried forward to the extent necessary and shall be subject, with respect to each following fiscal year, to the adjustment pursuant to paragraph 1 until the full UTPR top-up tax amount allocated to that Member State for that fiscal year has been paid.
+
+3. Constituent entities that are investment entities shall not be subject to this Article.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+1. Where the ultimate parent entity of an MNE group is located in a low-tax third country jurisdiction, Member States shall ensure that the constituent entities located in the Union are subject, in the Member State in which they are located, to an adjustment equal to the UTPR top-up tax amount allocated to that Member State for the fiscal year in accordance with Article 14.
+
+For that purpose, such adjustment may take the form of either a top-up tax due by those constituent entities or a denial of deduction against the taxable income of those constituent entities resulting in an amount of tax liability necessary to collect the UTPR top-up tax amount allocated to that Member State.
+
+The first subparagraph shall not apply where the ultimate parent entity in a low-tax third-country jurisdiction is subject to a qualified IIR in respect of itself and its low-taxed constituent entities located in that jurisdiction.
+
+2. Where a Member State applies the adjustment pursuant to paragraph 1 of this Article in the form of a denial of deduction against taxable income, such adjustment shall apply to the extent possible with respect to the taxable year in which the fiscal year for which the UTPR top-up tax amount was computed and allocated to a Member State in accordance with Article 14 ends.
+
+Any UTPR top-up tax amount that remains due with respect to a fiscal year as a result of the application of a denial of deduction against taxable income for that fiscal year shall be carried forward to the extent necessary and shall be subject, with respect to each following fiscal year, to the adjustment pursuant to paragraph 1 until the full UTPR top-up tax amount allocated to that Member State for that fiscal year has been paid.
+
+3. Constituent entities that are investment entities shall not be subject to this Article.
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+1. The UTPR top-up tax amount allocated to a Member State shall be computed by multiplying the total UTPR top-up tax, as determined in accordance with paragraph 2, by the Member State’s UTPR percentage, as determined in accordance with paragraph 5.
+
+2. The total UTPR top-up tax for a fiscal year shall be equal to the sum of the top-up tax computed for each low-taxed constituent entity of the MNE group for that fiscal year in accordance with Article 27, subject to the adjustments set out in paragraphs 3 and 4 of this Article.
+
+3. The UTPR top-up tax of a low-taxed constituent entity shall be equal to zero where, for the fiscal year, all of the ultimate parent entity’s ownership interests in such low-taxed constituent entity are held directly or indirectly by one or more parent entities that are required to apply a qualified IIR in respect of that low-taxed constituent entity for that fiscal year.
+
+4. Where paragraph 3 does not apply, the UTPR top-up tax of a low-taxed constituent entity shall be reduced by a parent entity’s allocable share of the top-up tax of that low-taxed constituent entity that is brought into charge under qualified IIR.
+
+5. A Member State’s UTPR percentage shall be computed, for each fiscal year and for each MNE group, according to the following formula:
+
+where:
+
+| (a) | the number of employees in the Member State is the total number of employees of all the constituent entities of the MNE group located in that Member State; |
+| --- | --- |
+
+| (b) | the number of employees in all UTPR jurisdictions is the total number of employees of all the constituent entities of the MNE group located in a jurisdiction that has a qualified UTPR in force for the fiscal year; |
+| --- | --- |
+
+| (c) | the total value of tangible assets in the Member State is the sum of the net book value of tangible assets of all the constituent entities of the MNE group located in that Member State; |
+| --- | --- |
+
+| (d) | the total value of tangible assets in all UTPR jurisdictions is the sum of the net book value of tangible assets of all the constituent entities of the MNE group located in a jurisdiction that has a qualified UTPR in force for the fiscal year. |
+| --- | --- |
+
+6. The number of employees shall be the number of employees on a full-time equivalent basis of all constituent entities located in the relevant jurisdiction, including independent contractors provided that they participate in the ordinary operating activities of the constituent entity.
+
+The tangible assets shall include the tangible assets of all constituent entities located in the relevant jurisdiction but shall not include cash or cash equivalent, intangible or financial assets.
+
+7. The employees whose payroll costs are included in the separate financial accounts of a permanent establishment as determined by Article 18(1) and adjusted in accordance with Article 18(2) shall be allocated to the jurisdiction in which the permanent establishment is located.
+
+Tangible assets included in the separate financial accounts of a permanent establishment as determined by Article 18(1) and adjusted in accordance with Article 18(2) shall be allocated to the jurisdiction in which the permanent establishment is located.
+
+The number of employees and the tangible assets allocated to the jurisdiction of a permanent establishment shall not be taken into account for the number of employees and the tangible assets of the jurisdiction of the main entity.
+
+The number of employees and the net book value of tangible assets held by an investment entity shall be excluded from the elements of the formula set out in paragraph 5.
+
+The number of employees and the net book value of tangible assets of a flow-through entity shall be excluded from the elements of the formula set out in paragraph 5, unless they are allocated to a permanent establishment or, in the absence of a permanent establishment, to the constituent entities that are located in the jurisdiction where the flow-through entity was created.
+
+8. By way of derogation from paragraph 5, a jurisdiction’s UTPR percentage for an MNE group shall be deemed to be zero for a fiscal year as long as the UTPR top-up tax amount allocated to that jurisdiction in a prior fiscal year has not resulted in the constituent entities of that MNE group located in that jurisdiction having an additional cash tax expense equal, in total, to the UTPR top-up tax amount for that prior fiscal year allocated to that jurisdiction.
+
+The number of employees and the net book value of tangible assets of the constituent entities of an MNE group which is located in a jurisdiction with a UTPR percentage of zero for a fiscal year shall be excluded from the elements of the formula for allocating the total UTPR top-up tax to the MNE group for that fiscal year.
+
+9. Paragraph 8 shall not apply for a fiscal year if all jurisdictions with a qualified UTPR in force for the fiscal year have a UTPR percentage of zero for the MNE group for that fiscal year.
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+1. The qualifying income or loss of a constituent entity shall be computed by making the adjustments set out in Articles 16 to 19 to the financial accounting net income or loss of the constituent entity for the fiscal year before any consolidation adjustments for eliminating intra-group transactions, as determined under the accounting standard used in the preparation of the consolidated financial statements of the ultimate parent entity.
+
+2. Where it is not reasonably practicable to determine the financial accounting net income or loss of a constituent entity based on the acceptable financial accounting standard or authorised financial accounting standard used in the preparation of the consolidated financial statements of the ultimate parent entity, the financial accounting net income or loss of the constituent entity for the fiscal year may be determined using another acceptable financial accounting standard or an authorised financial accounting standard provided that:
+
+| (a) | the financial accounts of the constituent entity are maintained based on that accounting standard; |
+| --- | --- |
+
+| (b) | the information contained in the financial accounts is reliable; and |
+| --- | --- |
+
+| (c) | permanent differences in excess of EUR 1 000 000 that arise from the application of a particular principle or standard to items of income or expense or transactions, where that principle or standard differs from the financial standard used in the preparation of the consolidated financial statements of the ultimate parent entity, are adjusted to conform to the treatment required for that item under the accounting standard used in the preparation of the consolidated financial statements. |
+| --- | --- |
+
+3. Where an ultimate parent entity has not prepared its consolidated financial statements in accordance with an acceptable financial accounting standard as referred to in Article 3, point (6)(c), the consolidated financial statements of the ultimate parent entity shall be adjusted to prevent any material competitive distortion.
+
+4. Where an ultimate parent entity does not prepare consolidated financial statements as referred to in Article 3, points (6)(a), (b) and (c), the consolidated financial statements of the ultimate parent entity referred to in Article 3, point (6)(d), shall be those that would have been prepared if the ultimate parent entity were required to prepare such consolidated financial statements in accordance with:
+
+| (a) | an acceptable financial accounting standard; or |
+| --- | --- |
+
+| (b) | an authorised financial accounting standard, provided that such consolidated financial statements are adjusted to prevent any material competitive distortion. |
+| --- | --- |
+
+5. Where a qualified domestic top-up tax is applied by a Member State or a third-country jurisdiction, the financial accounting net income or loss of the constituent entities located in that Member State or third-country jurisdiction may be determined in accordance with an acceptable financial accounting standard or an authorised financial accounting standard that is different from the financial accounting standard used in the preparation of the consolidated financial statements of the ultimate parent entity, provided that such financial accounting net income or loss is adjusted to prevent any material competitive distortion.
+
+6. Where the application of a specific principle or procedure under a set of generally accepted accounting principles results in a material competitive distortion, the accounting treatment of any item or transaction subject to that principle or procedure shall be adjusted to conform to the treatment required for the item or transaction under International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/2002).
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘net taxes expense’ means the net amount of the following items:(i)covered taxes accrued as an expense and any current and deferred covered taxes included in the income tax expense, including covered taxes on income that is excluded from the qualifying income or loss computation;(ii)deferred tax assets attributable to a loss for the fiscal year;(iii)qualified domestic top-up taxes accrued as an expense;(iv)taxes arising pursuant to the rules of this Directive or, as regards third-country jurisdictions, the OECD Model Rules, accrued as an expense; and(v)disqualified refundable imputation taxes accrued as an expense; |
+| --- | --- |
+| (i) | covered taxes accrued as an expense and any current and deferred covered taxes included in the income tax expense, including covered taxes on income that is excluded from the qualifying income or loss computation; |
+| (ii) | deferred tax assets attributable to a loss for the fiscal year; |
+| (iii) | qualified domestic top-up taxes accrued as an expense; |
+| (iv) | taxes arising pursuant to the rules of this Directive or, as regards third-country jurisdictions, the OECD Model Rules, accrued as an expense; and |
+| (v) | disqualified refundable imputation taxes accrued as an expense; |
+
+| (b) | ‘excluded dividend’ means a dividend or other distribution received or accrued in respect of an ownership interest, except a dividend or other distribution received or accrued in respect of:(i)an ownership interest:—held by the group in an entity, that carries rights to less than 10 % of the profits, capital or reserves, or voting rights of that entity at the date of the distribution or disposition (a ‘portfolio shareholding’); and—that is economically owned by the constituent entity that receives or accrues the dividend or other distribution for less than one year at the date of the distribution;(ii)an ownership interest in an investment entity that is subject to an election pursuant to Article 43; |
+| --- | --- |
+| (i) | an ownership interest:—held by the group in an entity, that carries rights to less than 10 % of the profits, capital or reserves, or voting rights of that entity at the date of the distribution or disposition (a ‘portfolio shareholding’); and—that is economically owned by the constituent entity that receives or accrues the dividend or other distribution for less than one year at the date of the distribution; |
+| — | held by the group in an entity, that carries rights to less than 10 % of the profits, capital or reserves, or voting rights of that entity at the date of the distribution or disposition (a ‘portfolio shareholding’); and |
+| — | that is economically owned by the constituent entity that receives or accrues the dividend or other distribution for less than one year at the date of the distribution; |
+| (ii) | an ownership interest in an investment entity that is subject to an election pursuant to Article 43; |
+
+| (c) | ‘excluded equity gain or loss’ means a gain, profit or loss, included in the financial accounting net income or loss of the constituent entity, arising from:(i)gains and losses arising from changes in the fair value of an ownership interest, except for a portfolio shareholding;(ii)profits or losses in respect of an ownership interest that is included under the equity method of accounting; and(iii)gains and losses from the disposal of an ownership interest, except for the disposal of a portfolio shareholding; |
+| --- | --- |
+| (i) | gains and losses arising from changes in the fair value of an ownership interest, except for a portfolio shareholding; |
+| (ii) | profits or losses in respect of an ownership interest that is included under the equity method of accounting; and |
+| (iii) | gains and losses from the disposal of an ownership interest, except for the disposal of a portfolio shareholding; |
+
+| (d) | ‘included revaluation method gain or loss’ means a net gain or loss, increased or decreased by any associated covered taxes for the fiscal year, arising from the application of an accounting method or practice that, in respect of all property, plant and equipment:(i)periodically adjusts the carrying value of such property, plant and equipment to its fair value;(ii)records the changes in value in other comprehensive income; and(iii)does not subsequently report the gain or loss accrued in other comprehensive income through profit and loss; |
+| --- | --- |
+| (i) | periodically adjusts the carrying value of such property, plant and equipment to its fair value; |
+| (ii) | records the changes in value in other comprehensive income; and |
+| (iii) | does not subsequently report the gain or loss accrued in other comprehensive income through profit and loss; |
+
+| (e) | ‘asymmetric foreign currency gain or loss’ means a foreign currency gain or loss of an entity whose accounting and tax functional currencies are different and that is:(i)included in the computation of the taxable income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between the accounting functional currency and the tax functional currency of the constituent entity;(ii)included in the computation of the financial accounting net income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between the accounting functional currency and the tax functional currency of the constituent entity;(iii)included in the computation of the financial accounting net income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between a third foreign currency and the accounting functional currency of the constituent entity; and(iv)attributable to fluctuations in the exchange rate between a third foreign currency and the tax functional currency of the constituent entity, irrespective of whether such third foreign currency gain or loss is included in the taxable income;the tax functional currency is the functional currency used to determine the constituent entity’s taxable income or loss for a covered tax in the jurisdiction in which it is located; the accounting functional currency is the functional currency used to determine the constituent entity’s financial accounting net income or loss; a third foreign currency is a currency that is not the constituent entity’s tax functional currency or accounting functional currency; |
+| --- | --- |
+| (i) | included in the computation of the taxable income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between the accounting functional currency and the tax functional currency of the constituent entity; |
+| (ii) | included in the computation of the financial accounting net income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between the accounting functional currency and the tax functional currency of the constituent entity; |
+| (iii) | included in the computation of the financial accounting net income or loss of a constituent entity and that is attributable to fluctuations in the exchange rate between a third foreign currency and the accounting functional currency of the constituent entity; and |
+| (iv) | attributable to fluctuations in the exchange rate between a third foreign currency and the tax functional currency of the constituent entity, irrespective of whether such third foreign currency gain or loss is included in the taxable income; |
+
+| (f) | ‘policy disallowed expense’ means:(i)an expense accrued by the constituent entity for illegal payments, including bribes and kickbacks; and(ii)an expense accrued by the constituent entity for fines and penalties that equal or exceed EUR 50 000 or an equivalent amount in the functional currency in which the financial accounting net income or loss of the constituent entity is computed; |
+| --- | --- |
+| (i) | an expense accrued by the constituent entity for illegal payments, including bribes and kickbacks; and |
+| (ii) | an expense accrued by the constituent entity for fines and penalties that equal or exceed EUR 50 000 or an equivalent amount in the functional currency in which the financial accounting net income or loss of the constituent entity is computed; |
+
+| (g) | ‘prior period errors and changes in accounting principles’ means a change in the opening equity of a constituent entity at the beginning of a fiscal year that is attributable to:(i)a correction of an error in the determination of the financial accounting net income or loss in a previous fiscal year that affected the income or expenses able to be included in the computation of the qualifying income or loss in that previous fiscal year, except to the extent such correction of an error resulted in a material decrease of a liability for covered taxes subject to Article 25; and(ii)a change in accounting principles or policy that affected the income or expenses included in the computation of the qualifying income or loss; |
+| --- | --- |
+| (i) | a correction of an error in the determination of the financial accounting net income or loss in a previous fiscal year that affected the income or expenses able to be included in the computation of the qualifying income or loss in that previous fiscal year, except to the extent such correction of an error resulted in a material decrease of a liability for covered taxes subject to Article 25; and |
+| (ii) | a change in accounting principles or policy that affected the income or expenses included in the computation of the qualifying income or loss; |
+
+| (h) | ‘accrued pension expense’ means the difference between the amount of pension liability expense included in the financial accounting net income or loss and the amount contributed to a pension fund for the fiscal year. |
+| --- | --- |
+
+2. The financial accounting net income or loss of a constituent entity shall be adjusted by the amount of the following items to determine its qualifying income or loss:
+
+| (a) | net taxes expenses; |
+| --- | --- |
+
+| (b) | excluded dividends; |
+| --- | --- |
+
+| (c) | excluded equity gains or losses; |
+| --- | --- |
+
+| (d) | included revaluation method gains or losses; |
+| --- | --- |
+
+| (e) | gains or losses from the disposal of assets and liabilities excluded pursuant to Article 35; |
+| --- | --- |
+
+| (f) | asymmetric foreign currency gains or losses; |
+| --- | --- |
+
+| (g) | policy disallowed expenses; |
+| --- | --- |
+
+| (h) | prior period errors and changes in accounting principles; and |
+| --- | --- |
+
+| (i) | accrued pension expenses. |
+| --- | --- |
+
+3. At the election of the filing constituent entity, a constituent entity may substitute the amount allowed as a deduction for the computation of its taxable income in its location for the amount expensed in its financial accounts for a cost or expense of such constituent entity that was paid with stock-based compensation.
+
+Where the option to use the stock-options has not been exercised, the amount of stock-based compensation cost or expense that has been deducted from the financial accounting net income or loss of the constituent entity for the computation of its qualifying income or loss for all previous fiscal years shall be included in the fiscal year in which that option has expired.
+
+Where part of the amount of stock-based compensation cost or expense has been recorded in the financial accounts of the constituent entity in fiscal years prior to the fiscal year in which the election is made, an amount equal to the difference between the total amount of stock-based compensation cost or expense that has been deducted for the computation of its qualifying income or loss in those previous fiscal years and the total amount of stock-based compensation cost or expense that would have been deducted for the computation of its qualifying income or loss in those previous fiscal years if the election had been made in such fiscal years shall be included in the computation of the qualifying income or loss of the constituent entity for that fiscal year.
+
+The election shall be made in accordance with Article 45(1) and shall apply consistently to all constituent entities located in the same jurisdiction for the year in which the election is made and all subsequent fiscal years.
+
+In the fiscal year in which the election is revoked, the amount of unpaid stock-based compensation cost or expense deducted pursuant to the election that exceeds the financial accounting expense accrued shall be included in the computation of the qualifying income or loss of the constituent entity.
+
+4. Any transaction between constituent entities located in different jurisdictions that is not recorded in the same amount in the financial accounts of both constituent entities or that is not consistent with the arm’s length principle shall be adjusted so as to be in the same amount and consistent with the arm’s length principle.
+
+A loss from a sale or other transfer of an asset between two constituent entities located in the same jurisdiction that is not recorded consistently with the arm’s length principle shall be adjusted based on the arm’s length principle if that loss is included in the computation of the qualifying income or loss.
+
+For the purposes of this paragraph, ‘arm’s length principle’ means the principle under which transactions between constituent entities are to be recorded by reference to the conditions that would have been obtained between independent enterprises in comparable transactions and under comparable circumstances.
+
+5. Qualified refundable tax credits referred to in Article 3, point (38), shall be treated as income for the computation of the qualifying income or loss of a constituent entity. Non-qualified refundable tax credits shall not be treated as income for the computation of the qualifying income or loss of a constituent entity.
+
+6. At the election of the filing constituent entity, gains and losses in respect of assets and liabilities that are subject to fair value or impairment accounting in the consolidated financial statements for a fiscal year may be determined on the basis of the realisation principle for the computation of the qualifying income or loss.
+
+Gains or losses which result from applying fair value or impairment accounting in respect of an asset or a liability shall be excluded from the computation of the qualifying income or loss of a constituent entity under the first subparagraph.
+
+The carrying value of an asset or a liability for the purpose of determining a gain or a loss under the first subparagraph shall be the carrying value at the time the asset was acquired or the liability was incurred, or on the first day of the fiscal year in which the election is made, whichever date is the latest.
+
+The election shall be made in accordance with Article 45(1) and shall apply to all constituent entities located in the jurisdiction to which the election is made, unless the filing constituent entity chooses to limit the election to the tangible assets of the constituent entities or to investment entities.
+
+In the fiscal year in which the election is revoked, an amount equal to the difference between the fair value of the asset or liability and the carrying value of the asset or liability on the first day of the fiscal year in which the revocation is made, determined pursuant to the election, shall be included, if the fair value exceeds the carrying value, or deducted, if the carrying value exceeds the fair value, for the computation of the qualifying income or loss of the constituent entities.
+
+7. At the election of the filing constituent entity, the qualifying income or loss of a constituent entity located in a jurisdiction arising from the disposal of local tangible assets located in that jurisdiction by such constituent entity to third parties, other than a member of the group, for a fiscal year may be adjusted as set out in this paragraph. For the purposes of this paragraph, the local tangible assets are immovable property located in the same jurisdiction as the constituent entity.
+
+The net gain arising from the disposal of local tangible assets as referred to in the first subparagraph in the fiscal year in which the election is made shall be offset against any net loss of a constituent entity located in that jurisdiction arising from the disposal of local tangible assets as referred to in the first subparagraph in the fiscal year in which the election is made and in the four fiscal years prior to that fiscal year (the ‘five-year period’). The net gain shall be offset first against the net loss, if any, that has arisen in the earliest fiscal year of the five-year period. Any residual amount of net gain shall be carried forward and offset against any net losses that have arisen in subsequent fiscal years of the five-year period.
+
+Any residual amount of net gain that remains after applying the second subparagraph shall be spread evenly over the five-year period for the computation of the qualifying income or loss of each constituent entity located in that jurisdiction that has made a net gain from the disposal of local tangible assets as referred to in the first subparagraph in the fiscal year in which the election is made. The residual amount of net gain allocated to a constituent entity shall be proportionate to the net gain of that constituent entity divided by the net gain of all constituent entities.
+
+Where no constituent entity in a jurisdiction has made a net gain from the disposal of local tangible assets as referred to in the first subparagraph in the fiscal year in which the election is made, the residual amount of net gain as referred to in the third subparagraph shall be allocated equally to each constituent entity in that jurisdiction and spread evenly over the five-year period for the computation of the qualifying income or loss of each of those constituent entities.
+
+Any adjustment under this paragraph for the fiscal years preceding the fiscal year in which the election is made shall be subject to adjustments in accordance with Article 29(1). The election shall be made annually in accordance with Article 45(2).
+
+8. Any expense related to a financing arrangement whereby one or more constituent entities provides credit to or otherwise makes an investment in one or more other constituent entities of the same group (the ‘intra-group financing arrangement’) shall not be taken into consideration in the computation of the qualifying income or loss of a constituent entity if the following conditions are met:
+
+| (a) | the constituent entity is located in a low-tax jurisdiction or in a jurisdiction that would have been low-taxed if the expense had not been accrued by the constituent entity; |
+| --- | --- |
+
+| (b) | it can reasonably be anticipated that, over the expected duration of the intra-group financing arrangement, the intra-group financing arrangement will increase the amount of expenses taken into account for the computation of the qualifying income or loss of that constituent entity, without resulting in a commensurate increase in the taxable income of the constituent entity providing the credit (the ‘counterparty’); |
+| --- | --- |
+
+| (c) | the counterparty is located in a jurisdiction that is not a low-tax jurisdiction or in a jurisdiction that would not have been low-taxed if the income related to the expense had not been accrued by the counterparty. |
+| --- | --- |
+
+9. An ultimate parent entity may elect to apply its consolidated accounting treatment to eliminate income, expense, gains and losses from transactions between constituent entities that are located in the same jurisdiction and included in a tax consolidation group for the purpose of computing the net qualifying income or loss of those constituent entities.
+
+The election shall be made in accordance with Article 45(1).
+
+In the fiscal year in which the election is made or revoked, appropriate adjustments shall be made so that items of qualifying income or loss are not taken into consideration more than once or omitted as a result of such election or revocation.
+
+10. An insurance company shall exclude from the computation of its qualifying income or loss any amount charged to policyholders for taxes paid by the insurance company in respect of returns to the policyholders. An insurance company shall include in the computation of its qualifying income or loss any returns to policyholders that are not reflected in its financial accounting net income or loss to the extent that the corresponding increase or decrease in liability to the policyholders is reflected in its financial accounting net income or loss.
+
+11. Any amount that is recognised as a decrease in the equity of a constituent entity and is the result of distributions made or due in respect of an instrument issued by that constituent entity pursuant to prudential regulatory requirements (the ‘additional tier one capital’) shall be treated as an expense in the computation of its qualifying income or loss.
+
+Any amount that is recognised as an increase in the equity of a constituent entity and is the result of distributions received or due to be received in respect of an additional tier one capital held by the constituent entity shall be included in the computation of its qualifying income or loss.
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘international shipping income’ means net income obtained by a constituent entity from the following activities, provided that the transportation is not carried out via inland waterways within the same jurisdiction:(i)transportation of passengers or cargo by ship in international traffic, whether the ship is owned, leased or otherwise at the disposal of the constituent entity;(ii)transportation of passengers or cargo by ship in international traffic under slot-chartering arrangements;(iii)leasing of a ship to be used for the transportation of passengers or cargo in international traffic on charter fully equipped, crewed and supplied;(iv)leasing of a ship used for the transportation of passengers or cargo in international traffic, on a bareboat charter basis, to another constituent entity;(v)participation in a pool, a joint business or an international operating agency for the transportation of passengers or cargo by ship in international traffic; and(vi)sale of a ship used for the transportation of passengers or cargo in international traffic, provided that the ship has been held for use by the constituent entity for a minimum of one year; |
+| --- | --- |
+| (i) | transportation of passengers or cargo by ship in international traffic, whether the ship is owned, leased or otherwise at the disposal of the constituent entity; |
+| (ii) | transportation of passengers or cargo by ship in international traffic under slot-chartering arrangements; |
+| (iii) | leasing of a ship to be used for the transportation of passengers or cargo in international traffic on charter fully equipped, crewed and supplied; |
+| (iv) | leasing of a ship used for the transportation of passengers or cargo in international traffic, on a bareboat charter basis, to another constituent entity; |
+| (v) | participation in a pool, a joint business or an international operating agency for the transportation of passengers or cargo by ship in international traffic; and |
+| (vi) | sale of a ship used for the transportation of passengers or cargo in international traffic, provided that the ship has been held for use by the constituent entity for a minimum of one year; |
+
+| (b) | ‘qualified ancillary international shipping income’ means net income obtained by a constituent entity from the following activities, provided that such activities are performed primarily in connection with the transportation of passengers or cargo by ships in international traffic:(i)leasing of a ship, on a bareboat charter basis, to another shipping enterprise that is not a constituent entity, provided that the duration of the charter does not exceed three years;(ii)sale of tickets issued by other shipping enterprises for the domestic leg of an international voyage;(iii)leasing and short-term storage of containers or detention charges for the late return of containers;(iv)provision of services to other shipping enterprises by engineers, maintenance staff, cargo handlers, catering staff and customer services personnel; and(v)investment income, where the investment that generates the income is made as an integral part of the carrying on of the business of operating ships in international traffic. |
+| --- | --- |
+| (i) | leasing of a ship, on a bareboat charter basis, to another shipping enterprise that is not a constituent entity, provided that the duration of the charter does not exceed three years; |
+| (ii) | sale of tickets issued by other shipping enterprises for the domestic leg of an international voyage; |
+| (iii) | leasing and short-term storage of containers or detention charges for the late return of containers; |
+| (iv) | provision of services to other shipping enterprises by engineers, maintenance staff, cargo handlers, catering staff and customer services personnel; and |
+| (v) | investment income, where the investment that generates the income is made as an integral part of the carrying on of the business of operating ships in international traffic. |
+
+2. The international shipping income and the qualified ancillary international shipping income of a constituent entity shall be excluded from the computation of its qualifying income or loss, provided that the constituent entity demonstrates that the strategic or commercial management of all ships concerned is effectively carried on from within the jurisdiction where the constituent entity is located.
+
+3. Where the computation of a constituent entity’s international shipping income and qualified ancillary international shipping income results in a loss, such loss shall be excluded from the computation of the constituent entity’s qualifying income or loss.
+
+4. The aggregated qualified ancillary international shipping income of all constituent entities located in a jurisdiction shall not exceed 50 % of those constituent entities’ international shipping income.
+
+5. The costs incurred by a constituent entity that are directly attributable to its international shipping activities listed in paragraph 1, point (a), and qualified ancillary international shipping activities listed in paragraph 1, point (b), shall be allocated to such activities for the purpose of computing the net international shipping income and the net qualified ancillary international shipping income of the constituent entity.
+
+The costs incurred by a constituent entity that indirectly result from its international shipping activities and qualified ancillary international shipping activities shall be deducted from the constituent entity’s revenues from such activities to compute the international shipping income and qualified ancillary international shipping income of the constituent entity on the basis of its revenues from such activities in proportion to its total revenues.
+
+6. All direct and indirect costs attributed to a constituent entity’s international shipping income and qualified ancillary international shipping income in accordance with paragraph 5 shall be excluded from the computation of its qualifying income or loss.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+1. Where a constituent entity is a permanent establishment as defined in Article 3, point (13)(a), (b) or (c), its financial accounting net income or loss shall be the net income or loss reflected in the separate financial accounts of that permanent establishment.
+
+Where a permanent establishment does not have separate financial accounts, its financial accounting net income or loss shall be the amount that would have been reflected in its separate financial accounts if they had been prepared on a standalone basis and in accordance with the accounting standard used in the preparation of the consolidated financial statements of the ultimate parent entity.
+
+2. Where a constituent entity meets the definition of a permanent establishment in Article 3, point (13)(a) or (b), its financial accounting net income or loss shall be adjusted to reflect only the amounts and items of income and expense that are attributable to it in accordance with the applicable tax treaty or domestic law of the jurisdiction where it is located, regardless of the amount of income subject to tax and the amount of deductible expenses in that jurisdiction.
+
+Where a constituent entity meets the definition of a permanent establishment in Article 3, point (13)(c), its financial accounting net income or loss shall be adjusted to reflect only the amounts and items of income and expense that would have been attributable to it in accordance with Article 7 of the OECD Model Tax Convention on Income and Capital, as amended.
+
+3. Where a constituent entity meets the definition of a permanent establishment in Article 3, point (13)(d), its financial accounting net income or loss shall be computed based on the amounts and items of income that are exempt in the jurisdiction where the main entity is located and attributable to the operations conducted outside of that jurisdiction and the amounts and items of expense that are not deducted for tax purposes in the jurisdiction where the main entity is located and that are attributable to such operations.
+
+4. The financial accounting net income or loss of a permanent establishment shall not be taken into account in determining the qualifying income or loss of the main entity, except as provided in paragraph 5.
+
+5. A qualifying loss of a permanent establishment shall be treated as an expense of the main entity for the computation of its qualifying income or loss to the extent that the loss of the permanent establishment is treated as an expense in the computation of domestic taxable income of such main entity and is not set off against an item of the domestic taxable income that is subject to tax under the laws of both the jurisdiction of the main entity and the jurisdiction of the permanent establishment.
+
+Qualifying income that is subsequently earned by the permanent establishment shall be treated as qualifying income of the main entity up to the amount of the qualifying loss that was previously treated as an expense of the main entity under the first subparagraph.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+1. The financial accounting net income or loss of a constituent entity that is a flow-through entity shall be reduced by the amount allocable to its owners that are not group entities and that hold their ownership interest in such flow-through entity directly or through a chain of tax transparent entities, unless:
+
+| (a) | the flow-through entity is an ultimate parent entity; or |
+| --- | --- |
+
+| (b) | the flow-through entity is held, directly or through a chain of tax transparent entities, by an ultimate parent entity referred to in point (a). |
+| --- | --- |
+
+2. The financial accounting net income or loss of a constituent entity that is a flow-through entity shall be reduced by the financial accounting net income or loss that is allocated to another constituent entity.
+
+3. Where a flow-through entity wholly or partially carries out business through a permanent establishment, its financial accounting net income or loss which remains after applying paragraph 1 of this Article shall be allocated to that permanent establishment in accordance with Article 18.
+
+4. Where a tax transparent entity is not the ultimate parent entity, the financial accounting net income or loss of the flow-through entity which remains after applying paragraphs 1 and 3 shall be allocated to its constituent entity-owners in accordance with their ownership interests in the flow-through entity.
+
+5. Where a flow-through entity is a tax transparent entity that is the ultimate parent entity or a reverse hybrid entity, any financial accounting net income or loss of the flow-through entity which remains after applying paragraphs 1 and 3 shall be allocated to the ultimate parent entity or the reverse hybrid entity.
+
+6. Paragraphs 3, 4 and 5 shall be applied separately with respect to each ownership interest in the flow-through entity.
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+1. The covered taxes of a constituent entity shall include:
+
+| (a) | taxes recorded in the financial accounts of a constituent entity with respect to its income or profits, or its share of the income or profits of a constituent entity in which it owns an ownership interest; |
+| --- | --- |
+
+| (b) | taxes on distributed profits, deemed profit distributions, and non-business expenses imposed under an eligible distribution tax system; |
+| --- | --- |
+
+| (c) | taxes imposed in lieu of a generally applicable corporate income tax; and |
+| --- | --- |
+
+| (d) | taxes levied by reference to retained earnings and corporate equity, including taxes on multiple components based on income and equity. |
+| --- | --- |
+
+2. The covered taxes of a constituent entity shall not include:
+
+| (a) | the top-up tax accrued by a parent entity under a qualified IIR; |
+| --- | --- |
+
+| (b) | the top-up tax accrued by a constituent entity under a qualified domestic top-up tax; |
+| --- | --- |
+
+| (c) | taxes attributable to an adjustment made by a constituent entity as a result of the application of a qualified UTPR; |
+| --- | --- |
+
+| (d) | disqualified refundable imputation tax; and |
+| --- | --- |
+
+| (e) | taxes paid by an insurance company in respect of returns to policyholders. |
+| --- | --- |
+
+3. Covered taxes in respect of any net gain or loss arising from the disposal of local tangible assets as referred to in Article 16(7), first subparagraph, in the fiscal year in which the election referred to in that subparagraph is made shall be excluded from the computation of the covered taxes.
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+1. The adjusted covered taxes of a constituent entity for a fiscal year shall be determined by adjusting the sum of the current tax expense accrued in its financial accounting net income or loss with respect to covered taxes for the fiscal year, by:
+
+| (a) | the net amount of its additions and reductions to covered taxes for the fiscal year as set out in paragraphs 2 and 3; |
+| --- | --- |
+
+| (b) | the total deferred tax adjustment amount as set out in Article 22; and |
+| --- | --- |
+
+| (c) | any increase or decrease in covered taxes recorded in equity or other comprehensive income relating to amounts included in the computation of qualifying income or loss that will be subject to tax under local tax rules. |
+| --- | --- |
+
+2. The additions to the covered taxes of a constituent entity for the fiscal year shall include:
+
+| (a) | any amount of covered taxes accrued as an expense in the profit before taxation in the financial accounts; |
+| --- | --- |
+
+| (b) | any amount of qualifying loss deferred tax asset that has been used pursuant to Article 23(2); |
+| --- | --- |
+
+| (c) | any amount of covered taxes relating to an uncertain tax position previously excluded under paragraph 3, point (d), that is paid in the fiscal year; and |
+| --- | --- |
+
+| (d) | any amount of credit or refund in respect of a qualified refundable tax credit that was accrued as a reduction to the current tax expense. |
+| --- | --- |
+
+3. The reductions to the covered taxes of a constituent entity for the fiscal year shall include:
+
+| (a) | the amount of current tax expense with respect to income excluded from the computation of qualifying income or loss under Chapter III; |
+| --- | --- |
+
+| (b) | any amount of credit or refund in respect of a non-qualified refundable tax credit that was not recorded as a reduction to the current tax expense; |
+| --- | --- |
+
+| (c) | any amount of covered taxes refunded or credited to a constituent entity that was not treated as an adjustment to current tax expense in the financial accounts, unless it relates to a qualified refundable tax credit; |
+| --- | --- |
+
+| (d) | the amount of current tax expense that relates to an uncertain tax position; and |
+| --- | --- |
+
+| (e) | any amount of current tax expense that is not expected to be paid within three years after the end of the fiscal year. |
+| --- | --- |
+
+4. For the purpose of computing adjusted covered taxes, where an amount of covered tax is described in more than one point in paragraphs 1, 2 and 3, it shall only be taken into account once.
+
+5. Where, for a fiscal year, there is no net qualifying income in a jurisdiction and the amount of adjusted covered taxes for that jurisdiction is negative and less than an amount equal to the net qualifying loss multiplied by the minimum tax rate (the ‘expected adjusted covered taxes’), the amount equal to the difference between the amount of adjusted covered taxes and the amount of expected adjusted covered taxes shall be treated as an additional top-up tax for that fiscal year. The amount of additional top-up tax shall be allocated to each constituent entity in the jurisdiction in accordance with Article 29(3).
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘disallowed accrual’ means:(i)any movement in deferred tax expense accrued in the financial accounts of a constituent entity which relates to an uncertain tax position; and(ii)any movement in deferred tax expense accrued in the financial accounts of a constituent entity which relates to distributions from a constituent entity; |
+| --- | --- |
+| (i) | any movement in deferred tax expense accrued in the financial accounts of a constituent entity which relates to an uncertain tax position; and |
+| (ii) | any movement in deferred tax expense accrued in the financial accounts of a constituent entity which relates to distributions from a constituent entity; |
+
+| (b) | ‘unclaimed accrual’ means any increase in a deferred tax liability recorded in the financial accounts of a constituent entity for a fiscal year that is not expected to be paid within the time period set out in paragraph 7 of this Article and which the filing constituent entity annually elects, in accordance with Article 45(2), not to include in the total deferred tax adjustment amount for such fiscal year. |
+| --- | --- |
+
+2. Where the tax rate applied for the purpose of computing the deferred tax expense is equal or below the minimum tax rate, the total deferred tax adjustment amount to be added to the adjusted covered taxes of a constituent entity for a fiscal year pursuant to Article 21(1), point (b), shall be the deferred tax expense accrued in its financial accounts with respect to covered taxes, subject to the adjustments under paragraphs 3 to 6 of this Article.
+
+Where the tax rate applied for the purpose of computing the deferred tax expense is above the minimum tax rate, the total deferred tax adjustment amount to be added to the adjusted covered taxes of a constituent entity for a fiscal year pursuant to Article 21(1), point (b), shall be the deferred tax expense accrued in its financial accounts with respect to covered taxes recast at the minimum tax rate, subject to the adjustments under paragraphs 3 to 6 of this Article.
+
+3. The total deferred tax adjustment amount shall be increased by:
+
+| (a) | any amount of disallowed accrual or unclaimed accrual paid during the fiscal year; and |
+| --- | --- |
+
+| (b) | any amount of recaptured deferred tax liability determined in a preceding fiscal year that has been paid during the fiscal year. |
+| --- | --- |
+
+4. Where, for a fiscal year, a loss deferred tax asset is not recognised in the financial accounts because the recognition criteria are not met, the total deferred tax adjustment amount shall be reduced by the amount that would have reduced the total deferred tax adjustment amount if a loss deferred tax asset for the fiscal year had been accrued.
+
+5. The total deferred tax adjustment amount shall not include:
+
+| (a) | the amount of deferred tax expense with respect to items excluded from the computation of qualifying income or loss under Chapter III; |
+| --- | --- |
+
+| (b) | the amount of deferred tax expense with respect to disallowed accruals and unclaimed accruals; |
+| --- | --- |
+
+| (c) | the impact of a valuation adjustment or accounting recognition adjustment with respect to a deferred tax asset; |
+| --- | --- |
+
+| (d) | the amount of deferred tax expense arising from a re-measurement with respect to a change in the applicable domestic tax rate; and |
+| --- | --- |
+
+| (e) | the amount of deferred tax expense with respect to the generation and use of tax credits. |
+| --- | --- |
+
+6. Where a deferred tax asset that is attributable to a qualifying loss of a constituent entity has been recorded for a fiscal year at a rate lower than the minimum tax rate, it may be recast at the minimum tax rate in the same fiscal year, provided that the taxpayer is able to demonstrate that the deferred tax asset is attributable to a qualifying loss.
+
+Where a deferred tax asset is increased pursuant to the first subparagraph, the total deferred tax adjustment amount shall be reduced accordingly.
+
+7. A deferred tax liability that is not reversed and whose amount is not paid within the five subsequent fiscal years shall be recaptured to the extent it was taken into account in the total deferred tax adjustment amount of a constituent entity.
+
+The amount of the recaptured deferred tax liability determined for the current fiscal year shall be treated as a reduction to the covered taxes in the fifth fiscal year preceding the current fiscal year, and the effective tax rate and top-up tax of that fiscal year shall be recomputed in accordance with Article 29(1). The recaptured deferred tax liability for the current fiscal year shall be the amount of the increase in the category of deferred tax liability that was included in the total deferred tax adjustment amount in the fifth fiscal year preceding the current fiscal year that has not reversed by the end of the last day of the current fiscal year.
+
+8. By way of derogation from paragraph 7, where a deferred tax liability is a recapture exception accrual, it shall not be recaptured even if it is not reversed or paid within the five subsequent years. A recapture exception accrual shall be the amount of tax expense accrued that is attributable to changes in associated deferred tax liabilities, in respect of the following items:
+
+| (a) | cost recovery allowances on tangible assets; |
+| --- | --- |
+
+| (b) | cost of a licence or similar arrangement from a government for the use of immovable property or exploitation of natural resources which entails significant investment in tangible assets; |
+| --- | --- |
+
+| (c) | research and development expenses; |
+| --- | --- |
+
+| (d) | de-commissioning and remediation expenses; |
+| --- | --- |
+
+| (e) | fair value accounting on unrealised net gains; |
+| --- | --- |
+
+| (f) | foreign currency exchange net gains; |
+| --- | --- |
+
+| (g) | insurance reserves and insurance policy deferred acquisition costs; |
+| --- | --- |
+
+| (h) | gains from the sale of tangible property located in the same jurisdiction as the constituent entity that are reinvested in tangible property in the same jurisdiction; and |
+| --- | --- |
+
+| (i) | additional amounts accrued as a result of accounting principle changes with respect to items listed in points (a) to (h). |
+| --- | --- |
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+1. By way of derogation from Article 22, a filing constituent entity may make a qualifying loss election for a jurisdiction according to which a qualifying loss deferred tax asset shall be determined for each fiscal year in which there is a net qualifying loss in that jurisdiction. For that purpose, the qualifying loss deferred tax asset shall be equal to the net qualifying loss for a fiscal year for the jurisdiction multiplied by the minimum tax rate.
+
+A qualifying loss election shall not be made for a jurisdiction with an eligible distribution tax system under Article 40.
+
+2. The qualifying loss deferred tax asset determined pursuant to paragraph 1 shall be used in any subsequent fiscal year in which there is net qualifying income for the jurisdiction in an amount equal to the net qualifying income multiplied by the minimum tax rate or, if lower, the amount of qualifying loss deferred tax asset that is available.
+
+3. The qualifying loss deferred tax asset determined pursuant to paragraph 1 shall be reduced by the amount that is used for a fiscal year and the balance shall be carried forward to subsequent fiscal years.
+
+4. Where a qualifying loss election is revoked, any remaining qualifying loss deferred tax asset determined pursuant to paragraph 1 shall be reduced to zero as of the first day of the first fiscal year in which the qualifying loss election is no longer applicable.
+
+5. The qualifying loss election shall be filed with the first top-up tax information return referred to in Article 44 of the MNE group or large-scale domestic group that includes the jurisdiction for which the election is made.
+
+6. Where a flow-through entity which is the ultimate parent entity of an MNE group or of a large-scale domestic group makes a qualifying loss election under this Article, the qualifying loss deferred tax asset shall be computed by reference to the qualifying loss of the flow-through entity after reduction pursuant to Article 38(3).
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+1. A permanent establishment shall be allocated the amount of any covered taxes that are included in the financial accounts of a constituent entity and that relate to qualifying income or loss of that permanent establishment.
+
+2. A constituent entity-owner shall be allocated the amount of any covered taxes that are included in the financial accounts of a tax transparent entity and that relate to qualifying income or loss allocated to that constituent entity-owner in accordance with Article 19(4).
+
+3. A constituent entity shall be allocated the amount of any covered taxes included in the financial accounts of its direct or indirect constituent entity-owners under a controlled foreign company tax regime, on their share of the controlled foreign company’s income.
+
+4. A constituent entity that is a hybrid entity shall be allocated the amount of any covered taxes included in the financial accounts of its constituent entity-owner and which relate to qualifying income of the hybrid entity.
+
+A ‘hybrid entity’ means an entity treated as a separate person for income tax purposes in the jurisdiction where it is located but as fiscally transparent in the jurisdiction in which its owner is located.
+
+5. A constituent entity that made a distribution during the fiscal year shall be allocated the amount of any covered taxes accrued in the financial accounts of its direct constituent entity-owners on such distribution.
+
+6. A constituent entity that was allocated covered taxes pursuant to paragraphs 3 and 4 in respect of passive income shall include such covered taxes in its adjusted covered taxes in an amount equal to the covered taxes allocated in respect of such passive income.
+
+By way of derogation from the first subparagraph, the constituent entity referred to in the first subparagraph shall include in its adjusted covered taxes the amount resulting from the multiplication of the top-up tax percentage for the jurisdiction by the amount of the constituent entity’s passive income that is included under a controlled foreign company tax regime or a fiscal transparency rule where the result is lower than the amount determined under the first subparagraph. For the purposes of this subparagraph, the top-up tax percentage for the jurisdiction shall be determined without regard to covered taxes incurred with respect to such passive income by the constituent entity-owner.
+
+Any covered taxes of the constituent entity-owner incurred with respect to such passive income that remains after the application of this paragraph shall not be allocated under paragraphs 3 and 4.
+
+For the purposes of this paragraph, ‘passive income’ means the following items of income included in qualifying income to the extent a constituent entity-owner has been subject to tax under a controlled foreign company tax regime or as a result of an ownership interest in a hybrid entity:
+
+| (a) | a dividend or dividend equivalents; |
+| --- | --- |
+
+| (b) | interest or interest equivalents; |
+| --- | --- |
+
+| (c) | rent; |
+| --- | --- |
+
+| (d) | royalty; |
+| --- | --- |
+
+| (e) | annuity; or |
+| --- | --- |
+
+| (f) | net gains from property of a type that produces income described in points (a) to (e). |
+| --- | --- |
+
+7. Where the qualifying income of a permanent establishment is treated as qualifying income of the main entity in accordance with Article 18(5), any covered taxes arising in the jurisdiction where the permanent establishment is located and associated with such income shall be treated as covered taxes of the main entity for an amount not exceeding such income multiplied by the highest tax rate on ordinary income in the jurisdiction where the main entity is located.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+1. Where a constituent entity records an adjustment to its covered taxes for a previous fiscal year in its financial accounts, such adjustment shall be treated as an adjustment to covered taxes in the fiscal year in which the adjustment is made, unless the adjustment relates to a fiscal year in which there is a decrease in covered taxes for the jurisdiction.
+
+Where there is a decrease in covered taxes that were included in the constituent entity’s adjusted covered taxes for a previous fiscal year, the effective tax rate and top-up tax for such fiscal year shall be recomputed in accordance with Article 29(1) by reducing adjusted covered taxes by the amount of the decrease in covered taxes. The qualifying income for the fiscal year and any previous fiscal years shall be adjusted accordingly.
+
+At the annual election of the filing constituent entity, made in accordance with Article 45(2), an immaterial decrease in covered taxes may be treated as an adjustment to covered taxes in the fiscal year in which the adjustment is made. An immaterial decrease in covered taxes shall be an aggregate decrease of less than EUR 1 000 000 in the adjusted covered taxes determined for the jurisdiction for the fiscal year.
+
+2. Where the applicable domestic tax rate is reduced below the minimum tax rate and such reduction results in a deferred tax expense, the amount of the resulting deferred tax expense shall be treated as an adjustment to the constituent entity’s liability for covered taxes that are taken into consideration pursuant to Article 21 for a previous fiscal year.
+
+3. Where a deferred tax expense was taken into account at a rate lower than the minimum tax rate and the applicable tax rate is later increased, the amount of deferred tax expense that results from such increase shall be treated upon payment as an adjustment to a constituent entity’s liability for covered taxes claimed for a previous fiscal year in accordance with Article 21.
+
+The adjustment under the first subparagraph shall not exceed an amount equal to the deferred tax expense recast at the minimum tax rate.
+
+4. Where more than EUR 1 000 000 of the amount accrued by a constituent entity as current tax expense and included in adjusted covered taxes for a fiscal year is not paid within three years after the end of that fiscal year, the effective tax rate and top-up tax for the fiscal year in which the unpaid amount was claimed as a covered tax shall be recomputed in accordance with Article 29(1) by excluding such unpaid amount from the adjusted covered taxes.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+1. The effective tax rate of an MNE group or of a large-scale domestic group shall be computed, for each fiscal year and for each jurisdiction provided that there is net qualifying income in the jurisdiction, in accordance with the following formula:
+
+where the adjusted covered taxes of the constituent entities are the sum of the adjusted covered taxes of all the constituent entities located in the jurisdiction determined in accordance with Chapter IV.
+
+2. The net qualifying income or loss of the constituent entities in the jurisdiction for a fiscal year shall be determined in accordance with the following formula:
+
+where:
+
+| (a) | the qualifying income of the constituent entities is the positive sum, if any, of the qualifying income of all constituent entities located in the jurisdiction determined in accordance with Chapter III; |
+| --- | --- |
+
+| (b) | the qualifying losses of the constituent entities are the sum of the qualifying losses of all constituent entities located in the jurisdiction determined in accordance with Chapter III. |
+| --- | --- |
+
+3. Adjusted covered taxes and qualifying income or loss of constituent entities that are investment entities shall be excluded from the computation of the effective tax rate in accordance with paragraph 1 and the computation of the net qualifying income in accordance with paragraph 2.
+
+4. The effective tax rate of each stateless constituent entity shall be computed, for each fiscal year, separately from the effective tax rate of all other constituent entities.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+1. Where the effective tax rate of a jurisdiction in which constituent entities are located is below the minimum tax rate for a fiscal year, the MNE group or a large-scale domestic group shall compute the top-up tax separately for each of its constituent entities that have qualifying income included in the computation of net qualifying income of that jurisdiction. The top-up tax shall be computed on a jurisdictional basis.
+
+2. The top-up tax percentage for a jurisdiction for a fiscal year shall be the positive percentage point difference, if any, computed in accordance with the following formula:
+
+where the effective tax rate is the rate computed in accordance with Article 26.
+
+3. The jurisdictional top-up tax for a fiscal year shall be the positive amount, if any, computed in accordance with the following formula:
+
+where:
+
+| (a) | the additional top-up tax is the amount of tax as determined in accordance with Article 29 for the fiscal year; |
+| --- | --- |
+
+| (b) | the domestic top-up tax is the amount of tax for the fiscal year as determined in accordance with Article 11 or under a qualified domestic top-up tax of a third-country jurisdiction. |
+| --- | --- |
+
+4. The excess profit for the jurisdiction for the fiscal year referred to in paragraph 3 shall be the positive amount, if any, computed in accordance with the following formula:
+
+where:
+
+| (a) | the net qualifying income is the income determined in accordance with Article 26(2) for the jurisdiction; |
+| --- | --- |
+
+| (b) | the substance-based income exclusion is the amount determined in accordance with Article 28 for the jurisdiction. |
+| --- | --- |
+
+5. The top-up tax of a constituent entity for the current fiscal year shall be computed in accordance with the following formula:
+
+where:
+
+| (a) | the qualifying income of the constituent entity for a jurisdiction for a fiscal year is the income determined in accordance with Chapter III; |
+| --- | --- |
+
+| (b) | the aggregate qualifying income of all constituent entities for a jurisdiction for a fiscal year is the sum of the qualifying income of all the constituent entities located in the jurisdiction for the fiscal year. |
+| --- | --- |
+
+6. If the jurisdictional top-up tax results from a recomputation pursuant to Article 29(1) and there is no net qualifying income in the jurisdiction for the fiscal year, the top-up tax shall be allocated to each constituent entity using the formula set out in paragraph 5 of this Article, based on the qualifying income of the constituent entities in the fiscal years for which the recomputations pursuant to Article 29(1) are performed.
+
+7. The top-up tax of each stateless constituent entity shall be computed, for each fiscal year, separately from the top-up tax of all other constituent entities.
+
+<a id="art_28"></a>
+
+### art_28
+
+Article 28
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘eligible employees’ means full-time or part-time employees of a constituent entity and independent contractors participating in the ordinary operating activities of the MNE group or large-scale domestic group under the direction and control of the MNE group or large-scale domestic group; |
+| --- | --- |
+
+| (b) | ‘eligible payroll costs’ means employee compensation expenditures, including salaries, wages and other expenditures that provide a direct and separate personal benefit to the employee, such as health insurance and pension contributions, payroll and employment taxes, and employer social security contributions; |
+| --- | --- |
+
+| (c) | ‘eligible tangible assets’ means:(i)property, plant and equipment located in the jurisdiction;(ii)natural resources located in the jurisdiction;(iii)a lessee’s right of use of tangible assets located in the jurisdiction; and(iv)a licence or similar arrangement from the government for the use of immovable property or exploitation of natural resources that entails significant investment in tangible assets. |
+| --- | --- |
+| (i) | property, plant and equipment located in the jurisdiction; |
+| (ii) | natural resources located in the jurisdiction; |
+| (iii) | a lessee’s right of use of tangible assets located in the jurisdiction; and |
+| (iv) | a licence or similar arrangement from the government for the use of immovable property or exploitation of natural resources that entails significant investment in tangible assets. |
+
+2. Unless a filing constituent entity of an MNE group or of a large-scale domestic group elects, in accordance with Article 45(2), not to apply the substance-based income exclusion for the fiscal year, the net qualifying income for a jurisdiction shall be reduced, for the purpose of computing the top-up tax, by an amount equal to the sum of the payroll carve-out referred to in paragraph 3 of this Article and the tangible asset carve-out referred to in paragraph 4 of this Article for each constituent entity located in the jurisdiction.
+
+3. The payroll carve-out of a constituent entity located in a jurisdiction shall be equal to 5 % of its eligible payroll costs of eligible employees who perform activities for the MNE group or large-scale domestic group in such jurisdiction, with the exception of eligible payroll costs that are:
+
+| (a) | capitalised and included in the carrying value of eligible tangible assets; |
+| --- | --- |
+
+| (b) | attributable to income that is excluded in accordance with Article 17. |
+| --- | --- |
+
+4. The tangible asset carve-out of a constituent entity located in a jurisdiction shall be equal to 5 % of the carrying value of the eligible tangible assets located in the jurisdiction, with the exception of:
+
+| (a) | the carrying value of property, including land and buildings, that is held for sale, lease or investment; |
+| --- | --- |
+
+| (b) | the carrying value of tangible assets used to derive income that is excluded in accordance with Article 17. |
+| --- | --- |
+
+5. For the purposes of paragraph 4, the carrying value of eligible tangible assets shall be the average of the carrying value of eligible tangible assets at the beginning and end of the fiscal year, as recorded for the purpose of preparing the consolidated financial statements of the ultimate parent entity, reduced by any accumulated depreciation, amortisation and depletion and increased by any amount attributable to the capitalisation of payroll expenses.
+
+6. For the purposes of paragraphs 3 and 4, the eligible payroll costs and eligible tangible assets of a constituent entity which is a permanent establishment shall be those that are included in its separate financial accounts in accordance with Article 18(1) and (2), provided that the eligible payroll costs and eligible tangible assets are located in the same jurisdiction as the permanent establishment.
+
+The eligible payroll costs and eligible tangible assets of a permanent establishment shall not be taken into account for the eligible payroll costs and eligible tangible assets of the main entity.
+
+Where the income of a permanent establishment was wholly or partially excluded pursuant to Article 19(1) and Article 38(5), the eligible payroll costs and eligible tangible assets of such permanent establishment shall be excluded in the same proportion from the computation under this Article for the MNE group or large-scale domestic group.
+
+7. Eligible payroll costs of eligible employees paid by, and eligible tangible assets owned by, a flow-through entity that are not allocated under paragraph 6 shall be allocated to:
+
+| (a) | the constituent entity-owners of the flow-through entity, in proportion to the amount allocated to them pursuant to Article 19(4), provided that the eligible employees and eligible tangible assets are located in the jurisdiction of the constituent entity-owners; and |
+| --- | --- |
+
+| (b) | the flow-through entity if it is the ultimate parent entity, reduced in proportion to the income excluded from the computation of the qualifying income of the flow-through entity pursuant to Article 38(1) and (2), provided that the eligible employees and eligible tangible assets are located in the jurisdiction of the flow-through entity. |
+| --- | --- |
+
+All other eligible payroll costs and eligible tangible assets of the flow-through entity shall be excluded from the substance-based income exclusion computations of the MNE group or large-scale domestic group.
+
+8. The substance-based income exclusion of each stateless constituent entity shall be computed, for each fiscal year, separately from the substance-based income exclusion of all other constituent entities.
+
+9. The substance-based income exclusion computed under this Article shall not include the payroll carve-out and the tangible asset carve-out of constituent entities that are investment entities in that jurisdiction.
+
+<a id="art_29"></a>
+
+### art_29
+
+Article 29
+
+1. Where, pursuant to Article 11(3), Article 16(7), Article 22(6), Article 25(1) and (4) and Article 40(5), an adjustment to covered taxes or qualifying income or loss results in the recomputation of the effective tax rate and top-up tax of the MNE group or the large-scale domestic group for a prior fiscal year, the effective tax rate and top-up tax shall be recomputed in accordance with the rules set out in Articles 26, 27 and 28. Any amount of incremental top-up tax arising from such recomputation shall be treated as an additional top-up tax for the purposes of Article 27(3) for the fiscal year during which the recomputation is made.
+
+2. Where there is an additional top-up tax and no net qualifying income for the jurisdiction for the fiscal year, the qualifying income of each constituent entity located in that jurisdiction shall be an amount equal to the top-up tax allocated to such constituent entities pursuant to Article 27(5) and (6) divided by the minimum tax rate.
+
+3. Where, pursuant to Article 21(5), additional top-up tax is due, the qualifying income of each constituent entity located in the jurisdiction shall be an amount equal to the top-up tax allocated to such constituent entity divided by the minimum tax rate. The allocation shall be made pro-rata, to each constituent entity, based on the following formula:
+
+The additional top-up tax shall only be allocated to constituent entities that record an amount of adjusted covered tax that is less than zero and less than the qualifying income or loss of such constituent entities multiplied by the minimum tax rate.
+
+4. Where a constituent entity is allocated additional top-up tax in accordance with this Article and Article 27(5) and (6), such constituent entity shall be treated as a low-taxed constituent entity for the purposes of Chapter II.
+
+<a id="art_30"></a>
+
+### art_30
+
+Article 30
+
+1. By way of derogation from Articles 26 to 29 and Article 31, at the election of the filing constituent entity, the top-up tax due for the constituent entities located in a jurisdiction shall be equal to zero for a fiscal year if, for such fiscal year:
+
+| (a) | the average qualifying revenue of all constituent entities located in such jurisdiction is less than EUR 10 000 000; and |
+| --- | --- |
+
+| (b) | the average qualifying income or loss of all constituent entities in such jurisdiction is a loss or is less than EUR 1 000 000. |
+| --- | --- |
+
+The election shall be made annually in accordance with Article 45(2).
+
+2. The average qualifying revenue or average qualifying income or loss referred to in paragraph 1 shall be the average of the qualifying revenue or qualifying income or loss of the constituent entities located in the jurisdiction for the fiscal year and the two preceding fiscal years.
+
+If there are no constituent entities with qualifying revenue or qualifying loss located in the jurisdiction in the first or second preceding fiscal year, or both, such fiscal year or years shall be excluded from the computation of the average qualifying revenue or qualifying income or loss of that jurisdiction.
+
+3. The qualifying revenue of the constituent entities located in a jurisdiction for a fiscal year shall be the sum of all the revenues of the constituent entities located in that jurisdiction, reduced or increased by any adjustment carried out in accordance with Chapter III.
+
+4. The qualifying income or loss of the constituent entities located in a jurisdiction for a fiscal year shall be the net qualifying income or loss of that jurisdiction as computed in accordance with Article 26(2).
+
+5. The de minimis exclusion set out in paragraphs 1 to 4 shall not be applicable to stateless constituent entities and investment entities. The revenue and qualifying income or loss of such entities shall be excluded from the computation of the de minimis exclusion.
+
+<a id="art_31"></a>
+
+### art_31
+
+Article 31
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘minority-owned constituent entity’ means a constituent entity in which the ultimate parent entity has a direct or indirect ownership interest of 30 % or less; |
+| --- | --- |
+
+| (b) | ‘minority-owned parent entity’ means a minority-owned constituent entity that holds, directly or indirectly, the controlling interests of another minority-owned constituent entity, except where the controlling interests of the former entity are held, directly or indirectly, by another minority-owned constituent entity; |
+| --- | --- |
+
+| (c) | ‘minority-owned subgroup’ means a minority-owned parent entity and its minority-owned subsidiaries; and |
+| --- | --- |
+
+| (d) | ‘minority-owned subsidiary’ means a minority-owned constituent entity whose controlling interests are held, directly or indirectly, by a minority-owned parent entity. |
+| --- | --- |
+
+2. The computation of the effective tax rate and the top-up tax for a jurisdiction in accordance with Chapters III to VII with respect to members of a minority-owned subgroup shall apply as if each minority-owned subgroup were a separate MNE group or large-scale domestic group.
+
+The adjusted covered taxes and qualifying income or loss of members of a minority-owned subgroup shall be excluded from the determination of the residual amount of the effective tax rate of the MNE group or large-scale domestic group computed in accordance with Article 26(1) and from the net qualifying income computed in accordance with Article 26(2).
+
+3. The effective tax rate and top-up tax of a minority-owned constituent entity that is not a member of a minority-owned subgroup shall be computed on an entity basis in accordance with Chapters III to VII.
+
+The adjusted covered taxes and qualifying income or loss of the minority-owned constituent entity shall be excluded from the determination of the residual amount of the effective tax rate of the MNE group or large-scale domestic group computed in accordance with Article 26(1) and from the net qualifying income computed in accordance with Article 26(2).
+
+This paragraph shall not apply to a minority-owned constituent entity that is an investment entity.
+
+<a id="art_32"></a>
+
+### art_32
+
+Article 32
+
+By way of derogation from Articles 26 to 31, Member States shall ensure that, at the election of the filing constituent entity, the top-up tax due by a group in a jurisdiction shall be deemed to be zero for a fiscal year if the effective level of taxation of the constituent entities located in that jurisdiction fulfils the conditions of a qualifying international agreement on safe harbours.
+
+For the purposes of the first paragraph, ‘qualifying international agreement on safe harbours’ means an international set of rules and conditions which all Member States have consented to and which grants groups in the scope of this Directive the possibility of electing to benefit from one or more safe harbours for a jurisdiction.
+
+<a id="art_33"></a>
+
+### art_33
+
+Article 33
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘merger’ means any arrangement where:(i)all or substantially all of the group entities of two or more separate groups are brought under common control in a way that they constitute entities of a combined group; or(ii)an entity that is not a member of any group is brought under common control with another entity or group in a way that they constitute entities of a combined group; |
+| --- | --- |
+| (i) | all or substantially all of the group entities of two or more separate groups are brought under common control in a way that they constitute entities of a combined group; or |
+| (ii) | an entity that is not a member of any group is brought under common control with another entity or group in a way that they constitute entities of a combined group; |
+
+| (b) | ‘demerger’ means any arrangement where the group entities of a single group are separated into two or more different groups that are no longer consolidated by the same ultimate parent entity. |
+| --- | --- |
+
+2. Where two or more groups merge to form a single group in any of the last four consecutive fiscal years immediately preceding the tested fiscal year, the consolidated revenue threshold of the MNE group or large-scale domestic group referred to in Article 2 shall be deemed to be met for any fiscal year prior to the merger if the sum of the revenue included in each of their consolidated financial statements for that fiscal year is EUR 750 000 000 or more.
+
+3. Where an entity that is not a member of a group (the ‘target’) merges with an entity or a group (the ‘acquiring entity’) in the tested fiscal year, and either the target or the acquiring entity did not have consolidated financial statements in any of the last four consecutive fiscal years immediately preceding the tested fiscal year, the consolidated revenue threshold of the MNE group or large-scale domestic group shall be deemed to be met for that year if the sum of the revenue included in each of their financial statements or consolidated financial statements for that fiscal year is EUR 750 000 000 or more.
+
+4. Where a single MNE group or large-scale domestic group within the scope of this Directive demerges into two or more groups (each a ‘demerged group’), the consolidated revenue threshold shall be deemed to be met by a demerged group where:
+
+| (a) | with respect to the first tested fiscal year ending after the demerger, the demerged group has an annual revenue of EUR 750 000 000 or more in that fiscal year; |
+| --- | --- |
+
+| (b) | with respect to the second to fourth tested fiscal years ending after the demerger, the demerged group has an annual revenue of EUR 750 000 000 or more in at least two of those fiscal years. |
+| --- | --- |
+
+<a id="art_34"></a>
+
+### art_34
+
+Article 34
+
+1. Where an entity (the ‘target’) becomes or ceases to be a constituent entity of an MNE group or of a large-scale domestic group as a result of a transfer of direct or indirect ownership interests in the target, or where the target becomes the ultimate parent entity of a new group during a fiscal year (the ‘acquisition year’), the target shall be treated as a member of the MNE group or large-scale domestic group for the purposes of this Directive provided that a portion of its assets, liabilities, income, expenses and cash flows is included on a line-by-line basis in the consolidated financial statements of the ultimate parent entity in the acquisition year.
+
+The effective tax rate and top-up tax of the target shall be computed in accordance with paragraphs 2 to 8.
+
+2. In the acquisition year, an MNE group or large-scale domestic group shall take into account only the financial accounting net income or loss and adjusted covered taxes of the target that are included in the consolidated financial statements of the ultimate parent entity for the purposes of this Directive.
+
+3. In the acquisition year, and in each subsequent fiscal year, the qualifying income or loss and adjusted covered taxes of the target shall be based on the historical carrying value of its assets and liabilities.
+
+4. In the acquisition year, the computation of the eligible payroll costs of the target pursuant to Article 28(3) shall take into account only the costs that are reflected in the consolidated financial statements of the ultimate parent entity.
+
+5. The computation of the carrying value of the eligible tangible assets of the target pursuant to Article 28(4) shall be adjusted, where applicable, in proportion to the period of time in which the target was a member of the MNE group or large-scale domestic group during the acquisition year.
+
+6. With the exception of the qualifying loss deferred tax asset as referred to in Article 23, the deferred tax assets and deferred tax liabilities of a target that are transferred between MNE groups or large-scale domestic groups shall be taken into account by the acquiring MNE group or large-scale domestic group in the same manner and to the same extent as if the acquiring MNE group or large-scale domestic group controlled the target when such assets and liabilities arose.
+
+7. Deferred tax liabilities of the target that have previously been included in its total deferred tax adjustment amount shall be treated as reversed, for the purposes of Article 22(7), by the disposing MNE group or large-scale domestic group and as arising from the acquiring MNE group or large-scale domestic group in the acquisition year, except that in such a case any subsequent reduction of covered taxes pursuant to Article 22(7) shall have effect in the year in which the amount is recaptured.
+
+8. Where the target is a parent entity and is a group entity in two or more MNE groups or large-scale domestic groups during the acquisition year, it shall apply separately the IIR to its allocable shares of the top-up tax of low-taxed constituent entities determined for each MNE group or large-scale domestic group.
+
+9. By way of derogation from paragraphs 1 to 8, the acquisition or disposal of a controlling interest in a target shall be treated as an acquisition or disposal of assets and liabilities if the jurisdiction in which the target is located, or in the case of a tax transparent entity the jurisdiction in which the assets are located, treats the acquisition or disposal of that controlling interest in the same, or in a similar, manner as an acquisition or disposal of assets and liabilities, and imposes a covered tax on the seller based on the difference between the tax basis and the consideration paid in exchange for the controlling interest or the fair value of the assets and liabilities.
+
+<a id="art_35"></a>
+
+### art_35
+
+Article 35
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘reorganisation’ means a transformation or transfer of assets and liabilities such as in a merger, demerger, liquidation or similar transaction where:(i)the consideration for the transfer is, in whole or in significant part, equity interests issued by the acquiring constituent entity or by a person connected with the acquiring constituent entity, or, in the case of a liquidation, equity interests of the target, or, when no consideration is provided, where the issuance of an equity interest would have no economic significance;(ii)the disposing constituent entity’s gain or loss on those assets is not subject to tax, in whole or in part; and(iii)the tax laws of the jurisdiction in which the acquiring constituent entity is located require the acquiring constituent entity to compute taxable income after the disposal or acquisition using the disposing constituent entity’s tax basis in the assets, adjusted for any non-qualifying gain or loss on the disposal or acquisition; |
+| --- | --- |
+| (i) | the consideration for the transfer is, in whole or in significant part, equity interests issued by the acquiring constituent entity or by a person connected with the acquiring constituent entity, or, in the case of a liquidation, equity interests of the target, or, when no consideration is provided, where the issuance of an equity interest would have no economic significance; |
+| (ii) | the disposing constituent entity’s gain or loss on those assets is not subject to tax, in whole or in part; and |
+| (iii) | the tax laws of the jurisdiction in which the acquiring constituent entity is located require the acquiring constituent entity to compute taxable income after the disposal or acquisition using the disposing constituent entity’s tax basis in the assets, adjusted for any non-qualifying gain or loss on the disposal or acquisition; |
+
+| (b) | ‘non-qualifying gain or loss’ means the lesser of the gain or loss of the disposing constituent entity arising in connection with a reorganisation that is subject to tax in the disposing constituent entity’s location and the financial accounting gain or loss arising in connection with the reorganisation. |
+| --- | --- |
+
+2. A constituent entity that disposes of assets and liabilities (the ‘disposing constituent entity’) shall include the gain or loss arising from such disposal in the computation of its qualifying income or loss.
+
+A constituent entity that acquires assets and liabilities (the ‘acquiring constituent entity’) shall determine its qualifying income or loss on the basis of its carrying value of the acquired assets and liabilities determined under the financial accounting standard used in preparing consolidated financial statements of the ultimate parent entity.
+
+3. By way of derogation from paragraph 2, where a disposal or acquisition of assets and liabilities is performed in the context of a reorganisation:
+
+| (a) | the disposing constituent entity shall exclude any gain or loss arising from such disposal from the computation of its qualifying income or loss; and |
+| --- | --- |
+
+| (b) | the acquiring constituent entity shall determine its qualifying income or loss on the basis of the carrying value of the acquired assets and liabilities of the disposing constituent entity upon disposal. |
+| --- | --- |
+
+4. By way of derogation from paragraphs 2 and 3, where the disposal of assets and liabilities is performed in the context of a reorganisation which results, for the disposing constituent entity, in a non-qualifying gain or loss:
+
+| (a) | the disposing constituent entity shall include the gain or loss on the disposal in the computation of its qualifying income or loss to the extent of the non-qualifying gain or loss; and |
+| --- | --- |
+
+| (b) | the acquiring constituent entity shall determine its qualifying income or loss after the acquisition using the disposing constituent entity’s carrying value of the acquired assets and liabilities upon disposal, as adjusted consistently with local tax rules of the acquiring constituent entity to account for the non-qualifying gain or loss. |
+| --- | --- |
+
+5. At the election of the filing constituent entity, where a constituent entity is required or permitted to adjust the basis of its assets and the amount of its liabilities to fair value for tax purposes in the jurisdiction where it is located, such constituent entity may:
+
+| (a) | include, in the computation of its qualifying income or loss, an amount of gain or loss in respect of each of its assets and liabilities, which shall be:(i)equal to the difference between the carrying value for financial accounting purposes of the asset or liability immediately before the date of the event that triggered the tax adjustment (the ‘triggering event’) and the fair value of the asset or liability immediately after the triggering event; and(ii)decreased (or increased) by the non-qualifying gain or loss, if any, arising in connection with the triggering event; |
+| --- | --- |
+| (i) | equal to the difference between the carrying value for financial accounting purposes of the asset or liability immediately before the date of the event that triggered the tax adjustment (the ‘triggering event’) and the fair value of the asset or liability immediately after the triggering event; and |
+| (ii) | decreased (or increased) by the non-qualifying gain or loss, if any, arising in connection with the triggering event; |
+
+| (b) | use the fair value for financial accounting purposes of the asset or liability immediately after the triggering event to compute qualifying income or loss in the fiscal years ending after the triggering event; and |
+| --- | --- |
+
+| (c) | include the net total of the amounts determined in point (a) in the constituent entity’s qualifying income or loss in one of the following ways:(i)the net total of those amounts is included in the fiscal year in which the triggering event occurs; or(ii)an amount equal to the net total of those amounts divided by five is included in the fiscal year in which the triggering event occurs and in each of the immediate four subsequent fiscal years, unless the constituent entity leaves the MNE group or large-scale domestic group in a fiscal year within this period, in which case the remaining amount will be wholly included in that fiscal year. |
+| --- | --- |
+| (i) | the net total of those amounts is included in the fiscal year in which the triggering event occurs; or |
+| (ii) | an amount equal to the net total of those amounts divided by five is included in the fiscal year in which the triggering event occurs and in each of the immediate four subsequent fiscal years, unless the constituent entity leaves the MNE group or large-scale domestic group in a fiscal year within this period, in which case the remaining amount will be wholly included in that fiscal year. |
+
+<a id="art_36"></a>
+
+### art_36
+
+Article 36
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘joint venture’ means an entity whose financial results are reported under the equity method in the consolidated financial statements of the ultimate parent entity, provided that the ultimate parent entity holds, directly or indirectly, at least 50 % of its ownership interest.A joint venture does not include:(i)an ultimate parent entity of an MNE group or of a large-scale domestic group that is to apply the IIR;(ii)an excluded entity as defined by Article 2(3);(iii)an entity whose ownership interests held by the MNE group or large-scale domestic group are held directly through an excluded entity referred to in Article 2(3) and which meets one of the following conditions:—it operates exclusively or almost exclusively to hold assets or invest funds for the benefit of its investors;—it carries out activities that are ancillary to those carried out by the excluded entity; or—substantially all of its income is excluded from the computation of qualifying income or loss in accordance with Article 16(2), points (b) and (c).(iv)an entity that is held by an MNE group or large-scale domestic group composed exclusively of excluded entities; or(v)a joint venture affiliate; |
+| --- | --- |
+| (i) | an ultimate parent entity of an MNE group or of a large-scale domestic group that is to apply the IIR; |
+| (ii) | an excluded entity as defined by Article 2(3); |
+| (iii) | an entity whose ownership interests held by the MNE group or large-scale domestic group are held directly through an excluded entity referred to in Article 2(3) and which meets one of the following conditions:—it operates exclusively or almost exclusively to hold assets or invest funds for the benefit of its investors;—it carries out activities that are ancillary to those carried out by the excluded entity; or—substantially all of its income is excluded from the computation of qualifying income or loss in accordance with Article 16(2), points (b) and (c). |
+| — | it operates exclusively or almost exclusively to hold assets or invest funds for the benefit of its investors; |
+| — | it carries out activities that are ancillary to those carried out by the excluded entity; or |
+| — | substantially all of its income is excluded from the computation of qualifying income or loss in accordance with Article 16(2), points (b) and (c). |
+| (iv) | an entity that is held by an MNE group or large-scale domestic group composed exclusively of excluded entities; or |
+| (v) | a joint venture affiliate; |
+
+| (b) | ‘joint venture affiliate’ means:(i)an entity whose assets, liabilities, income, expenses and cash flows are consolidated by a joint venture under an acceptable financial accounting standard or would have been consolidated had the joint venture been required to consolidate such assets, liabilities, income, expenses and cash flows under an acceptable financial accounting standard; or(ii)a permanent establishment whose main entity is a joint venture or an entity referred to in point (i). In such cases the permanent establishment shall be treated as a separate joint venture affiliate. |
+| --- | --- |
+| (i) | an entity whose assets, liabilities, income, expenses and cash flows are consolidated by a joint venture under an acceptable financial accounting standard or would have been consolidated had the joint venture been required to consolidate such assets, liabilities, income, expenses and cash flows under an acceptable financial accounting standard; or |
+| (ii) | a permanent establishment whose main entity is a joint venture or an entity referred to in point (i). In such cases the permanent establishment shall be treated as a separate joint venture affiliate. |
+
+2. A parent entity that holds a direct or indirect ownership interest in a joint venture or a joint venture affiliate shall apply the IIR with respect to its allocable share of the top-up tax of that joint venture or joint venture affiliate in accordance with Articles 5 to 10.
+
+3. The computation of the top-up tax of the joint venture and its joint venture affiliates (together a ‘joint venture group’) shall be made in accordance with Chapters III to VII, as if they were constituent entities of a separate MNE group or large-scale domestic group and the joint venture was the ultimate parent entity of that group.
+
+4. The top-up tax due by the joint venture group shall be reduced by each parent entity’s allocable share of the top-up tax under paragraph 2 of each member of the joint venture group that is brought into charge under paragraph 3. Any remaining amount of top-up tax shall be added to the total UTPR top-up tax amount pursuant to Article 14(2).
+
+For the purposes of this paragraph, ‘top-up tax due by the joint venture group’ means the parent entity’s allocable share of the top-up tax of the joint venture group.
+
+<a id="art_37"></a>
+
+### art_37
+
+Article 37
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘multi-parented MNE group or large-scale domestic group’ means two or more groups where the ultimate parent entities enter into an arrangement that is a stapled structure or a dual-listed arrangement that includes at least one entity or permanent establishment of the combined group which is located in a different jurisdiction with respect to the location of the other entities of the combined group; |
+| --- | --- |
+
+| (b) | ‘stapled structure’ means an arrangement entered into by two or more ultimate parent entities of separate groups under which:(i)50 % or more of the ownership interests in the ultimate parent entities of separate groups which are, if they are listed, quoted at a single price, and are, by reason of form of ownership, restrictions on transfer, or other terms or conditions, combined with each other, and cannot be transferred or traded independently; and(ii)one of the ultimate parent entities prepares consolidated financial statements in which the assets, liabilities, income, expenses and cash flows of all the entities of the groups concerned are presented together as those of a single economic unit and that are required by a regulatory regime to be externally audited; |
+| --- | --- |
+| (i) | 50 % or more of the ownership interests in the ultimate parent entities of separate groups which are, if they are listed, quoted at a single price, and are, by reason of form of ownership, restrictions on transfer, or other terms or conditions, combined with each other, and cannot be transferred or traded independently; and |
+| (ii) | one of the ultimate parent entities prepares consolidated financial statements in which the assets, liabilities, income, expenses and cash flows of all the entities of the groups concerned are presented together as those of a single economic unit and that are required by a regulatory regime to be externally audited; |
+
+| (c) | ‘dual-listed arrangement’ means an arrangement entered into by two or more ultimate parent entities of separate groups under which:(i)the ultimate parent entities agree to combine their business by contract alone;(ii)pursuant to contractual arrangements the ultimate parent entities will make distributions, with respect to dividends and in liquidation, to their shareholders based on a fixed ratio;(iii)the ultimate parent entities’ activities are managed as a single economic unit under contractual arrangements while retaining their separate legal identities;(iv)the ownership interests of the ultimate parent entities that comprise the agreement are quoted, traded or transferred independently in different capital markets; and(v)the ultimate parent entities prepare consolidated financial statements in which the assets, liabilities, income, expenses and cash flows of entities in all of the groups are presented together as those of a single economic unit, and are required by a regulatory regime to be externally audited. |
+| --- | --- |
+| (i) | the ultimate parent entities agree to combine their business by contract alone; |
+| (ii) | pursuant to contractual arrangements the ultimate parent entities will make distributions, with respect to dividends and in liquidation, to their shareholders based on a fixed ratio; |
+| (iii) | the ultimate parent entities’ activities are managed as a single economic unit under contractual arrangements while retaining their separate legal identities; |
+| (iv) | the ownership interests of the ultimate parent entities that comprise the agreement are quoted, traded or transferred independently in different capital markets; and |
+| (v) | the ultimate parent entities prepare consolidated financial statements in which the assets, liabilities, income, expenses and cash flows of entities in all of the groups are presented together as those of a single economic unit, and are required by a regulatory regime to be externally audited. |
+
+2. Where entities and constituent entities of two or more groups form part of a multi-parented MNE group or large-scale domestic group, the entities and constituent entities of each group shall be treated as members of one multi-parented MNE group or large-scale domestic group.
+
+An entity, other than an excluded entity referred to in Article 2(3), shall be treated as a constituent entity if it is consolidated on a line-by-line basis by the multi-parented MNE group or large-scale domestic group or if its controlling interests are held by entities in the multi-parented MNE group or large-scale domestic group.
+
+3. The consolidated financial statements of the multi-parented MNE group or large-scale domestic group shall be the combined consolidated financial statements referred to in the definitions of a stapled structure or a dual-listed arrangement in paragraph 1, prepared under an acceptable financial accounting standard, which is deemed to be the accounting standard of the ultimate parent entity.
+
+4. The ultimate parent entities of the separate groups that compose the multi-parented MNE group or large-scale domestic group shall be the ultimate parent entities of the multi-parented MNE group or large-scale domestic group.
+
+When applying this Directive in respect of a multi-parented MNE group or large-scale domestic group, any references to an ultimate parent entity shall apply, as required, as if they are references to multiple ultimate parent entities.
+
+5. The parent entities of the multi-parented MNE group or large-scale domestic group located in a Member State, including each ultimate parent entity, shall apply the IIR in accordance with Articles 5 to 10 with respect to their allocable share of the top-up tax of the low-taxed constituent entities.
+
+6. The constituent entities of the multi-parented MNE group or large-scale domestic group located in a Member State shall apply the UTPR in accordance with Articles 12, 13 and 14, taking into account the top-up tax of each low-taxed constituent entity that is a member of the multi-parented MNE group or large-scale domestic group.
+
+7. The ultimate parent entities of the multi-parented MNE group or large-scale domestic group shall be required to file the top-up tax information return in accordance with Article 44 unless they appoint a single designated filing entity within the meaning of Article 44(3), point (b). That return shall include information concerning each of the groups that compose the multi-parented MNE group or large-scale domestic group.
+
+<a id="art_38"></a>
+
+### art_38
+
+Article 38
+
+1. The qualifying income of a flow-through entity that is an ultimate parent entity shall be reduced, for the fiscal year, by the amount of qualifying income that is attributable to the holder of an ownership interest (the ‘ownership holder’) in the flow-through entity, provided that:
+
+| (a) | the ownership holder is subject to tax on such income for a taxable period that ends within 12 months after the end of that fiscal year at a nominal rate that equals or exceeds the minimum tax rate; or |
+| --- | --- |
+
+| (b) | it can be reasonably expected that the aggregated amount of adjusted covered taxes of the ultimate parent entity and taxes paid by the ownership holder on such income within 12 months after the end of the fiscal year equals or exceeds an amount equal to that income multiplied by the minimum tax rate. |
+| --- | --- |
+
+2. The qualifying income of a flow-through entity that is an ultimate parent entity shall also be reduced, for the fiscal year, by the amount of qualifying income that is allocated to the ownership holder in the flow-through entity provided that the ownership holder is:
+
+| (a) | a natural person that is tax resident in the jurisdiction where the ultimate parent entity is located and that holds ownership interests representing a right to 5 % or less of the profits and assets of the ultimate parent entity; or |
+| --- | --- |
+
+| (b) | a governmental entity, an international organisation, a non-profit organisation or a pension fund that is tax resident in the jurisdiction where the ultimate parent entity is located and that holds ownership interests representing a right to 5 % or less of the profits and assets of the ultimate parent entity. |
+| --- | --- |
+
+3. The qualifying loss of a flow-through entity that is an ultimate parent entity shall be reduced, for the fiscal year, by the amount of qualifying loss that is attributable to the ownership holder in the flow-through entity.
+
+The first subparagraph shall not apply to the extent the ownership holder is not allowed to use such loss for the computation of its taxable income.
+
+4. The covered taxes of a flow-through entity that is an ultimate parent entity shall be reduced proportionally to the amount of qualifying income reduced in accordance with paragraphs 1 and 2.
+
+5. Paragraphs 1 to 4 shall apply to a permanent establishment through which a flow-through entity that is an ultimate parent entity wholly or partly carries out its business or through which the business of a tax transparent entity is wholly or partly carried out, provided that the ultimate parent entity’s ownership interest in that tax transparent entity is held directly or through a chain of tax transparent entities.
+
+<a id="art_39"></a>
+
+### art_39
+
+Article 39
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘deductible dividend regime’ means a tax regime that applies a single level of taxation on the income of the owners of an entity by deducting or excluding from the income of the entity the profits distributed to the owners or by exempting a cooperative from taxation; |
+| --- | --- |
+
+| (b) | ‘deductible dividend’ means, with respect to a constituent entity that is subject to a deductible dividend regime:(i)a distribution of profits to the holder of an ownership interest in the constituent entity that is deductible from the taxable income of the constituent entity under the laws of the jurisdiction in which it is located; or(ii)a patronage dividend to a member of a cooperative; and |
+| --- | --- |
+| (i) | a distribution of profits to the holder of an ownership interest in the constituent entity that is deductible from the taxable income of the constituent entity under the laws of the jurisdiction in which it is located; or |
+| (ii) | a patronage dividend to a member of a cooperative; and |
+
+| (c) | ‘cooperative’ means an entity that collectively markets or acquires goods or services on behalf of its members and that is subject to a tax regime in the jurisdiction where it is located that ensures the tax neutrality in respect of goods or services that are sold or acquired by its members through the cooperative. |
+| --- | --- |
+
+2. An ultimate parent entity of an MNE group or of a large-scale domestic group that is subject to a deductible dividend regime shall reduce, up to zero, for the fiscal year, its qualifying income by the amount that is distributed as deductible dividend within 12 months after the end of the fiscal year, provided that:
+
+| (a) | the dividend is subject to tax in the hands of the recipient for a taxable period that ends within 12 months after the end of the fiscal year at a nominal rate that equals or exceeds the minimum tax rate; or |
+| --- | --- |
+
+| (b) | it can be reasonably expected that the aggregate amount of adjusted covered taxes and taxes of the ultimate parent entity paid by the recipient on such dividend equals or exceeds that income multiplied by the minimum tax rate. |
+| --- | --- |
+
+3. An ultimate parent entity of an MNE group or of a large-scale domestic group that is subject to a deductible dividend regime shall also reduce, up to zero, for the fiscal year, its qualifying income by the amount that it distributes as deductible dividend within 12 months after the end of the fiscal year, provided that the recipient is:
+
+| (a) | a natural person, and the dividend received is a patronage dividend from a supply cooperative; |
+| --- | --- |
+
+| (b) | a natural person that is tax resident in the same jurisdiction where the ultimate parent entity is located and that holds ownership interests representing a right to 5 % or less of the profits and assets of the ultimate parent entity; or |
+| --- | --- |
+
+| (c) | a governmental entity, an international organisation, a non-profit organisation or a pension fund other than a pension services entity, that is tax resident in the jurisdiction where the ultimate parent entity is located. |
+| --- | --- |
+
+4. The covered taxes of an ultimate parent entity, other than the taxes for which the dividend deduction was allowed, shall be reduced proportionally to the amount of qualifying income reduced in accordance with paragraphs 2 and 3.
+
+5. Where the ultimate parent entity holds an ownership interest in another constituent entity that is subject to a deductible dividend regime, directly or through a chain of such constituent entities, paragraphs 2, 3 and 4 shall apply to any other constituent entity located in the jurisdiction of the ultimate parent entity that is subject to the deductible dividend regime, to the extent that its qualifying income is further distributed by the ultimate parent entity to recipients that meet the requirements set out in paragraphs 2 and 3.
+
+6. For the purposes of paragraph 2, a patronage dividend distributed by a supply cooperative shall be treated as subject to tax in the hands of the recipient insofar as such dividend reduces a deductible expense or cost in the computation of the recipient’s taxable income or loss.
+
+<a id="art_40"></a>
+
+### art_40
+
+Article 40
+
+1. A filing constituent entity may make an election for itself or with respect to another constituent entity that is subject to an eligible distribution tax system to include the amount determined as a deemed distribution tax in accordance with paragraph 2 in the adjusted covered taxes of the constituent entity for the fiscal year.
+
+The election shall be made annually in accordance with Article 45(2) and shall apply to all the constituent entities that are located in a jurisdiction.
+
+2. The amount of deemed distribution tax shall be the lesser of:
+
+| (a) | the amount of adjusted covered taxes necessary to increase the effective tax rate as computed in accordance with Article 27(2) for the jurisdiction for the fiscal year to the minimum tax rate; or |
+| --- | --- |
+
+| (b) | the amount of tax that would have been due if the constituent entities located in the jurisdiction had distributed all of their income that is subject to the eligible distribution tax system during such fiscal year. |
+| --- | --- |
+
+3. Where an election is made under paragraph 1, a deemed distribution tax recapture account shall be established for each fiscal year in which such election applies. The amount of deemed distribution tax determined in accordance with paragraph 2 for the jurisdiction shall be added to the deemed distribution tax recapture account for the fiscal year in which it was established.
+
+At the end of each subsequent fiscal year, the outstanding balances in the deemed distribution tax recapture accounts established for prior fiscal years shall be reduced in chronological order, up to zero, by the taxes paid by the constituent entities during the fiscal year in relation to actual or deemed distributions.
+
+Any residual amount in the deemed distribution tax recapture accounts remaining after the application of the second subparagraph shall be reduced, up to zero, by an amount equal to the net qualifying loss of a jurisdiction multiplied by the minimum tax rate.
+
+4. Any residual amount of net qualifying loss multiplied by the minimum tax rate remaining after the application of paragraph 3, third subparagraph, for the jurisdiction, shall be carried forward to the following fiscal years and shall reduce any residual amount in the deemed distribution tax recapture accounts remaining after the application of paragraph 3.
+
+5. The outstanding balance, if any, of the deemed distribution tax recapture account on the last day of the fourth fiscal year after the fiscal year for which such account was established shall be treated as a reduction to the adjusted covered taxes previously determined for such fiscal year. The effective tax rate and top-up tax for such fiscal year shall be recomputed accordingly, in accordance with Article 29(1).
+
+6. Taxes that are paid during the fiscal year in relation to actual or deemed distributions shall not be included in adjusted covered taxes to the extent they reduce a deemed distribution tax recapture account in accordance with paragraphs 3 and 4.
+
+7. Where a constituent entity that is subject to an election under paragraph 1 leaves the MNE group or large-scale domestic group or substantially all of its assets are transferred to a person that is not a constituent entity of the same MNE group or large-scale domestic group located in the same jurisdiction, any outstanding balance of the deemed distribution tax recapture accounts in previous fiscal years in which such account was established shall be treated as a reduction to the adjusted covered taxes for each of those fiscal years in accordance with Article 29(1).
+
+Any additional top-up tax amount due shall be multiplied by the following ratio to determine the additional top-up tax due for the jurisdiction:
+
+where:
+
+| (a) | the qualifying income of the constituent entity is determined in accordance with Chapter III for each fiscal year in which there is an outstanding balance of the deemed distribution tax recapture accounts for the jurisdiction; and |
+| --- | --- |
+
+| (b) | the net qualifying income of the jurisdiction is determined in accordance with Article 26(2) for each fiscal year in which there is an outstanding balance of the deemed distribution tax recapture accounts for the jurisdiction. |
+| --- | --- |
+
+<a id="art_41"></a>
+
+### art_41
+
+Article 41
+
+1. Where a constituent entity of an MNE group or of a large-scale domestic group is an investment entity that is not a tax transparent entity and that has not made an election in accordance with Articles 42 and 43, the effective tax rate of such investment entity shall be computed separately from the effective tax rate of the jurisdiction in which it is located.
+
+2. The effective tax rate of the investment entity as referred to in paragraph 1 shall be equal to its adjusted covered taxes divided by an amount equal to the allocable share of the MNE group or large-scale domestic group in the qualifying income or loss of that investment entity.
+
+Where more than one investment entity is located in a jurisdiction, their effective tax rate shall be computed by combining their adjusted covered taxes as well as the allocable share of the MNE group or large-scale domestic group in their qualifying income or loss.
+
+3. The adjusted covered taxes of an investment entity as referred to in paragraph 1 shall be the adjusted covered taxes that are attributable to the allocable share of the MNE group or large-scale domestic group in the qualifying income of the investment entity and the covered taxes allocated to the investment entity in accordance with Article 24. The investment entity’s adjusted covered taxes shall not include any covered taxes accrued by the investment entity attributable to income that is not part of the MNE group or large-scale domestic group’s allocable share of the investment entity’s income.
+
+4. The top-up tax of an investment entity as referred to in paragraph 1 shall be an amount equal to the top-up tax percentage of the investment entity multiplied by an amount equal to the difference between the allocable share of the MNE group or large-scale domestic group in the qualifying income of the investment entity and the substance-based income exclusion computed for the investment entity.
+
+The top-up tax percentage of an investment entity shall be a positive amount equal to the difference between the minimum tax rate and the effective tax rate of such investment entity.
+
+Where more than one investment entity is located in a jurisdiction, their effective tax rate shall be computed by combining their substance-based income exclusion amounts as well as the allocable share of the MNE group or large-scale domestic group in their qualifying income or loss.
+
+The substance-based income exclusion of an investment entity shall be determined in accordance with Article 28(1) to (7). The eligible payroll costs of eligible employees and eligible tangible assets taken into account for such investment entity shall be reduced in proportion to the allocable share of the MNE group or large-scale domestic group in the qualifying income of the investment entity divided by the total qualifying income of such investment entity.
+
+5. For the purposes of this Article, the allocable share of the MNE group or large-scale domestic group in the qualifying income or loss of an investment entity shall be determined in accordance with Article 9, taking into account only interests that are not subject to an election in accordance with Article 42 or 43.
+
+<a id="art_42"></a>
+
+### art_42
+
+Article 42
+
+1. For the purposes of this Article, an ‘insurance investment entity’ means an entity that would meet the definition of an investment fund set out in Article 3, point (31), or a real estate investment vehicle set out in Article 3, point (32), if it had not been established in relation to liabilities under an insurance or annuity contract and if it were not wholly owned by an entity that is subject to regulation in the jurisdiction where it is located as an insurance company.
+
+2. At the election of the filing constituent entity, a constituent entity that is an investment entity or an insurance investment entity may be treated as a tax transparent entity if the constituent entity-owner is subject to tax in the jurisdiction in which it is located under a fair market value or a similar regime based on the annual changes in the fair value of its ownership interests in such entity and the tax rate applicable to the constituent entity-owner on such income equals or exceeds the minimum tax rate.
+
+3. A constituent entity that indirectly owns an ownership interest in an investment entity or in an insurance investment entity through a direct ownership interest in another investment entity or an insurance investment entity shall be considered to be subject to tax under a fair market value or similar regime with respect to its indirect ownership interest in the first-mentioned entity or insurance investment entity if it is subject to a fair market value or similar regime with respect to its direct ownership interest in the second-mentioned entity or insurance investment entity.
+
+4. The election under paragraph 2 of this Article shall be made in accordance with Article 45(1).
+
+If the election is revoked, any gain or loss from the disposal of an asset or a liability held by the investment entity or an insurance investment entity shall be determined on the basis of the fair market value of the asset or liability on the first day of the year the revocation is made.
+
+<a id="art_43"></a>
+
+### art_43
+
+Article 43
+
+1. At the election of the filing constituent entity, a constituent entity-owner of an investment entity may apply a taxable distribution method with respect to its ownership interest in the investment entity, provided that the constituent entity-owner is not an investment entity and can be reasonably expected to be subject to tax on distributions from the investment entity at a tax rate that equals or exceeds the minimum tax rate.
+
+2. Under the taxable distribution method, distributions and deemed distributions of the qualifying income of an investment entity shall be included in the qualifying income of the constituent entity-owner that received the distribution, provided that it is not an investment entity.
+
+The amount of covered taxes incurred by the investment entity that is creditable against the tax liability of the constituent entity-owner arising from the distribution of the investment entity shall be included in the qualifying income and adjusted covered taxes of the constituent entity-owner that received the distribution.
+
+The share of the constituent entity-owner in the undistributed net qualifying income of the investment entity referred to in paragraph 3 arising in the third year preceding the fiscal year (the ‘tested year’) shall be treated as qualifying income of that investment entity for the fiscal year. The amount equal to such qualifying income multiplied by the minimum tax rate shall be treated as top-up tax of a low-taxed constituent entity for the fiscal year for the purposes of Chapter II.
+
+The qualifying income or loss of an investment entity and the adjusted covered taxes attributable to such income for the fiscal year shall be excluded from the computation of the effective tax rate in accordance with Chapter V and with Article 41(1) to (4), except for the amount of covered taxes referred to in the second subparagraph of this paragraph.
+
+3. The undistributed net qualifying income of an investment entity for the tested year shall be the amount of qualifying income of that investment entity for the tested year reduced, up to zero, by:
+
+| (a) | the covered taxes of the investment entity; |
+| --- | --- |
+
+| (b) | distributions and deemed distributions to shareholders that are not investment entities during the period starting with the first day of the third year preceding the fiscal year and ending with the last day of the reporting fiscal year in which the ownership interest was held (the ‘testing period’); |
+| --- | --- |
+
+| (c) | qualifying losses arising during the testing period; and |
+| --- | --- |
+
+| (d) | any residual amount of qualifying losses that has not already reduced the undistributed net qualifying income of that investment entity for a previous tested year, namely the investment loss carry-forward. |
+| --- | --- |
+
+The undistributed net qualifying income of an investment entity shall not be reduced by distributions or deemed distributions that already reduced the undistributed net qualifying income of that investment entity for a previous tested year in application of the first subparagraph, point (b).
+
+The undistributed net qualifying income of an investment entity shall not be reduced by the amount of qualifying losses that already reduced the undistributed net qualifying income of that investment entity for a previous tested year in application of the first subparagraph, point (c).
+
+4. For the purposes of this Article, a deemed distribution shall arise when a direct or indirect ownership interest in the investment entity is transferred to an entity that does not belong to the MNE group or large-scale domestic group and is equal to the share of the undistributed net qualifying income attributable to such ownership interest on the date of such transfer, determined without regard to the deemed distribution.
+
+5. The election under paragraph 1 of this Article shall be made in accordance with Article 45(1).
+
+If the election is revoked, the share of the constituent entity-owner in the undistributed net qualifying income of the investment entity for the tested year at the end of the fiscal year preceding the fiscal year the revocation is made shall be treated as qualifying income of the investment entity for the fiscal year. The amount equal to such qualifying income multiplied by the minimum tax rate shall be treated as top-up tax of a low-taxed constituent entity for the fiscal year for the purposes of Chapter II.
+
+<a id="art_44"></a>
+
+### art_44
+
+Article 44
+
+1. For the purposes of this Article, the following definitions apply:
+
+| (a) | ‘designated local entity’ means the constituent entity of an MNE group or of a large-scale domestic group that is located in a Member State and has been appointed by the other constituent entities of the MNE group or large-scale domestic group located in the same Member State to file the top-up tax information return or submit the notifications in accordance with this Article on their behalf; |
+| --- | --- |
+
+| (b) | ‘qualifying competent authority agreement’ means a bilateral or multilateral agreement or arrangement between two or more competent authorities that provides for the automatic exchange of annual top-up tax information returns. |
+| --- | --- |
+
+2. A constituent entity located in a Member State shall file a top-up tax information return with its tax administration in accordance with paragraph 5.
+
+Such return may be filed by a designated local entity on behalf of the constituent entity.
+
+3. By way of derogation from paragraph 2, a constituent entity shall not have the obligation to file a top-up tax information return with its tax administration if such return has been filed, in accordance with the requirements set out in paragraph 5, by:
+
+| (a) | the ultimate parent entity located in a jurisdiction that has, for the reporting fiscal year, a qualifying competent authority agreement in effect with the Member State in which the constituent entity is located; or |
+| --- | --- |
+
+| (b) | the designated filing entity located in a jurisdiction that has, for the reporting fiscal year, a qualifying competent authority agreement in effect with the Member State in which the constituent entity is located. |
+| --- | --- |
+
+4. Where paragraph 3 applies, the constituent entity located in a Member State, or the designated local entity on its behalf, shall notify its tax administration of the identity of the entity that is filing the top-up tax information return as well as the jurisdiction in which it is located.
+
+5. The top-up tax information return shall be filed in a standard template and include the following information with respect to the MNE group or large-scale domestic group:
+
+| (a) | identification of the constituent entities, including their tax identification numbers, if any, the jurisdiction in which they are located and their status under the rules of this Directive; |
+| --- | --- |
+
+| (b) | information on the overall corporate structure of the MNE group or large-scale domestic group, including the controlling interests in the constituent entities held by other constituent entities; |
+| --- | --- |
+
+| (c) | the information that is necessary in order to compute:(i)the effective tax rate for each jurisdiction and the top-up tax of each constituent entity;(ii)the top-up tax of a member of a joint venture group;(iii)the allocation of top-up tax under the IIR and the UTPR top-up tax amount to each jurisdiction; and |
+| --- | --- |
+| (i) | the effective tax rate for each jurisdiction and the top-up tax of each constituent entity; |
+| (ii) | the top-up tax of a member of a joint venture group; |
+| (iii) | the allocation of top-up tax under the IIR and the UTPR top-up tax amount to each jurisdiction; and |
+
+| (d) | a record of the elections made in accordance with this Directive. |
+| --- | --- |
+
+6. By way of derogation from paragraph 5, where a constituent entity is located in a Member State with an ultimate parent entity located in a third-country jurisdiction that applies rules which have been assessed as equivalent to the rules of this Directive pursuant to Article 52, the constituent entity or the designated local entity shall file a top-up tax information return containing the following information:
+
+| (a) | all information that is necessary for the application of Article 8, including:(i)identification of all the constituent entities in which a partially-owned parent entity located in a Member State holds, directly or indirectly, an ownership interest at any time during the fiscal year and the structure of such ownership interests;(ii)all information that is necessary to compute the effective tax rate of the jurisdictions in which a partially-owned parent entity located in a Member State holds ownership interests in constituent entities identified under point (i) and the top-up tax due; and(iii)all information that is relevant for that purpose in accordance with Article 9, 10 or 11; |
+| --- | --- |
+| (i) | identification of all the constituent entities in which a partially-owned parent entity located in a Member State holds, directly or indirectly, an ownership interest at any time during the fiscal year and the structure of such ownership interests; |
+| (ii) | all information that is necessary to compute the effective tax rate of the jurisdictions in which a partially-owned parent entity located in a Member State holds ownership interests in constituent entities identified under point (i) and the top-up tax due; and |
+| (iii) | all information that is relevant for that purpose in accordance with Article 9, 10 or 11; |
+
+| (b) | all information that is necessary for the application of Article 13, including:(i)identification of all the constituent entities located in the ultimate parent entity jurisdiction and the structure of such ownership interests;(ii)all information that is necessary in order to compute the effective tax rate of the ultimate parent entity’s jurisdiction and its top-up tax due; and(iii)all information necessary for the allocation of such top-up tax based on the UTPR allocation formula set out in Article 14; |
+| --- | --- |
+| (i) | identification of all the constituent entities located in the ultimate parent entity jurisdiction and the structure of such ownership interests; |
+| (ii) | all information that is necessary in order to compute the effective tax rate of the ultimate parent entity’s jurisdiction and its top-up tax due; and |
+| (iii) | all information necessary for the allocation of such top-up tax based on the UTPR allocation formula set out in Article 14; |
+
+| (c) | all information that is necessary for the application of a qualified domestic top-up tax by any Member State that has made the election to apply such a top-up tax, in accordance with Article 11. |
+| --- | --- |
+
+7. The top-up tax information return referred to in paragraphs 5 and 6 and any relevant notifications shall be filed with the tax administration of the Member State in which the constituent entity is located no later than 15 months after the last day of the reporting fiscal year.
+
+<a id="art_45"></a>
+
+### art_45
+
+Article 45
+
+1. The elections referred to in Article 2(3), second subparagraph, Article 16(3), (6), and (9), and Articles 42 and 43 shall be valid for a period of five years, starting from the year in which the election is made. The election shall be renewed automatically unless the filing constituent entity revokes the election at the end of the five-year period. A revocation of the election shall be valid for a period of five years, starting from the end of the year in which the revocation is made.
+
+2. The elections referred to in Article 16(7), Article 22(1), point (b), Article 25(1), Article 28(2), Article 30(1) and Article 40(1) shall be valid for a period of one year. The election shall be renewed automatically unless the filing constituent entity revokes the election at the end of the year.
+
+3. The elections referred to in Article 2(3), second subparagraph, Article 16(3), (6), (7), and (9), Article 22(1), point (b), Article 25(1), Article 28(2), Article 30(1), Article 40(1), and Articles 42 and 43 shall be made to the tax administration of the Member State in which the filing constituent entity is located.
+
+<a id="art_46"></a>
+
+### art_46
+
+Article 46
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive, including those pertaining to the obligation of a constituent entity to file and pay its share of top-up tax or to have an additional cash tax expense, and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+<a id="art_47"></a>
+
+### art_47
+
+Article 47
+
+1. For the purposes of this Article, a ‘transition year’ for a jurisdiction’ means the first fiscal year in which an MNE group or a large-scale domestic group falls within the scope of this Directive in respect of that jurisdiction.
+
+2. When determining the effective tax rate for a jurisdiction in a transition year, and for each subsequent fiscal year, the MNE group or a large-scale domestic group shall take into account all the deferred tax assets and deferred tax liabilities reflected or disclosed in the financial accounts of all the constituent entities in a jurisdiction for the transition year.
+
+Deferred tax assets and deferred tax liabilities shall be taken into account at the lower of the minimum tax rate and the applicable domestic tax rate. However, a deferred tax asset that has been recorded at a tax rate lower than the minimum tax rate may be taken into account at the minimum tax rate if the taxpayer is able to demonstrate that the deferred tax asset is attributable to a qualifying loss.
+
+The impact of any valuation adjustment or accounting recognition adjustment with respect to a deferred tax asset shall be disregarded.
+
+3. Deferred tax assets arising from items excluded from the computation of qualifying income or loss in accordance with Chapter III shall be excluded from the computation referred to in paragraph 2 when such deferred tax assets are generated in a transaction that takes place after 30 November 2021.
+
+4. In the case of a transfer of assets between constituent entities after 30 November 2021 and before the commencement of a transition year, the basis in the acquired assets, other than inventory, shall be based upon the disposing constituent entity’s carrying value of the transferred assets upon disposal with deferred tax assets and liabilities determined on that basis.
+
+<a id="art_48"></a>
+
+### art_48
+
+Article 48
+
+1. For the purpose of applying Article 28(3), the value of 5 % shall be replaced, for each fiscal year beginning from 31 December of the following calendar years, with the values set out in the following table:
+
+| 2023 | 10 % |
+| --- | --- |
+| 2024 | 9,8 % |
+| 2025 | 9,6 % |
+| 2026 | 9,4 % |
+| 2027 | 9,2 % |
+| 2028 | 9,0 % |
+| 2029 | 8,2 % |
+| 2030 | 7,4 % |
+| 2031 | 6,6 % |
+| 2032 | 5,8 % |
+
+2. For the purpose of applying Article 28(4), the value of 5 % shall be replaced, for each fiscal year beginning from 31 December of the following calendar years, with the values set out in the following table:
+
+| 2023 | 8 % |
+| --- | --- |
+| 2024 | 7,8 % |
+| 2025 | 7,6 % |
+| 2026 | 7,4 % |
+| 2027 | 7,2 % |
+| 2028 | 7,0 % |
+| 2029 | 6,6 % |
+| 2030 | 6,2 % |
+| 2031 | 5,8 % |
+| 2032 | 5,4 % |
+
+<a id="art_49"></a>
+
+### art_49
+
+Article 49
+
+1. The top-up tax due by an ultimate parent entity located in a Member State in accordance with Article 5(2), or by an intermediate parent entity located in a Member State in accordance with Article 7(2) when the ultimate parent entity is an excluded entity, shall be reduced to zero:
+
+| (a) | in the first five years of the initial phase of the international activity of the MNE group, notwithstanding the requirements laid down in Chapter V; |
+| --- | --- |
+
+| (b) | in the first five years, starting from the first day of the fiscal year in which the large-scale domestic group falls within the scope of this Directive for the first time. |
+| --- | --- |
+
+2. Where the ultimate parent entity of an MNE group is located in a third-country jurisdiction, the top-up tax due by a constituent entity located in a Member State in accordance with Article 14(2) shall be reduced to zero in the first five years of the initial phase of the international activity of that MNE group, notwithstanding the requirements laid down in Chapter V.
+
+3. An MNE group shall be considered to be in the initial phase of its international activity if, for a fiscal year:
+
+| (a) | it has constituent entities in no more than six jurisdictions; and |
+| --- | --- |
+
+| (b) | the sum of the net book value of the tangible assets of all the constituent entities of the MNE group located in all jurisdictions other than the reference jurisdiction does not exceed EUR 50 000 000. |
+| --- | --- |
+
+For the purposes of the first subparagraph, point (b), ‘reference jurisdiction’ means the jurisdiction in which the constituent entities of the MNE group have the highest total value of tangible assets in the fiscal year in which the MNE group originally falls within the scope of this Directive. The total value of tangible assets in a jurisdiction shall be the sum of the net book values of all tangible assets of all the constituent entities of the MNE group that are located in that jurisdiction.
+
+4. The period of five years referred to in paragraph 1, point (a), and in paragraph 2 shall start from the beginning of the fiscal year in which the MNE group originally falls within the scope of this Directive.
+
+For MNE groups that are within the scope of this Directive when it enters into force, the five-year period referred to in paragraph 1, point (a), shall start on 31 December 2023.
+
+For MNE groups that are within the scope of this Directive when it enters into force, the five-year period referred to in paragraph 2 shall start on 31 December 2024.
+
+For large-scale domestic groups that are within the scope of this Directive when it enters into force, the five-year period referred to in paragraph 1, point (b), shall start on 31 December 2023.
+
+5. The designated filing entity referred to in Article 44 shall inform the tax administration of the Member State in which it is located of the start of the initial phase of the MNE group’s international activity.
+
+<a id="art_50"></a>
+
+### art_50
+
+Article 50
+
+1. By way of derogation from Articles 5 to 14, Member States in which no more than twelve ultimate parent entities of groups within the scope of this Directive are located may elect not to apply the IIR and the UTPR for six consecutive fiscal years beginning from 31 December 2023. Member States that make such election shall notify the Commission by 31 December 2023.
+
+2. Where the ultimate parent entity of an MNE group is located in a Member State that has made an election pursuant to paragraph 1 of this Article, the Member States, other than the one in which the ultimate parent entity is located, shall ensure that the constituent entities of that MNE group are subject, in the Member State in which they are located, to the UTPR top-up tax amount allocated to that Member State for the fiscal years beginning from 31 December 2023 in accordance with Article 14.
+
+The ultimate parent entity referred to in the first subparagraph shall nominate a designated filing entity in a Member State other than the Member State in which the ultimate parent entity is located or, if the MNE group has no constituent entity in another Member State, in a third-country jurisdiction that has, for the reporting fiscal year, a qualifying competent authority agreement in effect with the Member State in which the ultimate parent entity is located.
+
+In such cases, the designated filing entity shall file a top-up tax information return in accordance with the requirements set out in Article 44(5). The constituent entities located in the Member State that has made an election pursuant to paragraph 1 of this Article shall provide the designated filing entity with information necessary to comply with Article 44(5) and shall be exempted from the filing obligation referred to in Article 44(2).
+
+3. The UTPR percentage determined for a Member State that has made an election pursuant to paragraph 1 shall be deemed to be zero for the fiscal year.
+
+<a id="art_51"></a>
+
+### art_51
+
+Article 51
+
+Notwithstanding Article 44(7), the top-up tax information return and the notifications referred to in Article 44 shall be filed with the tax administration of the Member States no later than 18 months after the last day of the reporting fiscal year that is the transition year referred to in Article 47.
+
+<a id="art_52"></a>
+
+### art_52
+
+Article 52
+
+1. The legal framework implemented in the domestic law of a third-country jurisdiction shall be considered to be equivalent to a qualified IIR set out in Chapter II, and shall not be treated as a controlled foreign company tax regime, if it fulfils the following conditions:
+
+| (a) | it enforces a set of rules in accordance with which the parent entity of an MNE group shall compute and pay its allocable share of top-up tax in respect of the low-taxed constituent entities of the MNE group; |
+| --- | --- |
+
+| (b) | it establishes a minimum effective tax rate of at least 15 % below which a constituent entity is considered to be low-taxed; |
+| --- | --- |
+
+| (c) | for the purpose of computing the minimum effective tax rate, it only allows the blending of income of entities located within the same jurisdiction; and |
+| --- | --- |
+
+| (d) | for the purpose of computing a top-up tax under the equivalent qualified IIR, it provides for relief for any top-up tax that was paid in a Member State in application of the qualified IIR and for any qualified domestic top-up tax set out in this Directive. |
+| --- | --- |
+
+2. The Commission is empowered to adopt delegated acts in accordance with Article 53, in order to determine the list of third-country jurisdictions that have implemented a legal framework in their domestic law which is considered to be equivalent to a qualified IIR in conformity with the conditions laid down in paragraph 1 of this Article, and to update that list as a result of a subsequent assessment of the legal framework implemented by a third-country jurisdiction in its domestic law.
+
+<a id="art_53"></a>
+
+### art_53
+
+Article 53
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 52 shall be conferred on the Commission for an indeterminate period of time from 23 December 2022.
+
+3. The delegation of power referred to in Article 52 may be revoked at any time by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it to the Council.
+
+6. A delegated act adopted pursuant to Article 52 shall enter into force only if no objection has been expressed by the Council within a period of two months of notification of that act to the Council or if, before the expiry of that period, the Council has informed the Commission that it will not object. That period shall be extended by two months at the initiative of the Council.
+
+<a id="art_54"></a>
+
+### art_54
+
+Article 54
+
+The European Parliament shall be informed by the Commission of the adoption of delegated acts, of any objection formulated to them, and of the revocation of the delegation of powers by the Council.
+
+<a id="art_55"></a>
+
+### art_55
+
+Article 55
+
+The Union may conclude agreements with third-country jurisdictions whose legal frameworks have been assessed as equivalent to a qualified IIR in accordance with Article 52, with a view to arranging a framework for simplifying the reporting procedures laid down in Article 44(6).
+
+<a id="art_56"></a>
+
+### art_56
+
+Article 56
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2023. They shall immediately communicate the text of those measures to the Commission.
+
+They shall apply those measures in respect of the fiscal years beginning from 31 December 2023.
+
+However, with the exception of the arrangement provided for in Article 50(2), they shall apply the measures necessary to comply with Articles 12, 13 and 14 in respect of the fiscal years beginning from 31 December 2024.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+<a id="art_57"></a>
+
+### art_57
+
+Article 57
+
+The Commission shall, by 30 June 2023, submit a report to the Council assessing the situation regarding the implementation of Pillar One of the Statement on a Two-Pillar Solution to Address the Tax Challenges Arising from the Digitalisation of the Economy agreed by the OECD/G20 Inclusive Framework on BEPS on 8 October 2021 and, if appropriate, submit a legislative proposal to address those tax challenges in the absence of the implementation of the Pillar One solution.
+
+<a id="art_58"></a>
+
+### art_58
+
+Article 58
+
+This Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+<a id="art_59"></a>
+
+### art_59
+
+Article 59
+
+This Directive is addressed to the Member States.

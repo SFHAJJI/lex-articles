@@ -1,0 +1,337 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/607 of 15\u00A0February 2024 on the practical and operational arrangements for the functioning of the information sharing system pursuant to Regulation (EU)\u00A02022/2065",
+  "valid_from": "2024-02-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r0607/versions/2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1/en.xml",
+    "sha256": "d7f48390fdee5c87ce3b4b613b3e3e055a2e65db39bf0cb14c19e0a2df70953a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0607"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the practical and operational arrangements for the functioning of a reliable and secure information sharing system, hereinafter ‘AGORA’, for supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065.",
+      "text_sha256": "0b193d276a49d3b27b4d30ac6d22d206031f790b15825a417994fcfb9c77868f",
+      "md_span": {
+        "start": 817,
+        "end": 1082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The information sharing system AGORA is hereby established.\n\n2. AGORA is a software application accessible via the Internet, and the tool used for the exchange of information, including, where necessary, personal data, which would otherwise take place via other means, including regular mail or electronic mail.\n\n3. AGORA shall be used for the exchange of information, including the exchange of information containing personal data, between Digital Services Coordinators, the Commission, and the European Board for Digital Services (‘the Board’), as well as with other competent authorities that are granted access to AGORA to carry out the tasks conferred upon them in accordance with Regulation (EU) 2022/2065, in relation to the supervision, investigation, enforcement and monitoring of that regulation.",
+      "text_sha256": "0f630fec383bb38c3bb0d4d2c10203e450191d39894075124b43e98ba4422360",
+      "md_span": {
+        "start": 1115,
+        "end": 1935
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of this Regulation, in addition to the definitions set out in Article 3 and 49(1) of Regulation (EU) 2022/2065, Article 4 of Regulation (EU) 2016/679, and Article 3 of Regulation (EU) 2018/1725, the following definitions shall apply:\n\n| a) | ‘AGORA’ means the information sharing system established and maintained by the Commission to support all communications pursuant to Regulation (EU) 2022/2065 between AGORA actors for the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| b) | ‘AGORA actor’ means the Digital Services Coordinators, the Commission, the Board, or other competent authorities that are or may be granted access to AGORA where necessary for them to carry out the tasks conferred on them in accordance with Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| c) | ‘AGORA user’ means a natural person working under the authority of an AGORA actor, and registered as such in AGORA, for the purpose of performing the tasks conferred on the AGORA actor by Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| d) | ‘AGORA administrator’ means an AGORA user appointed by an AGORA actor for the purpose of managing AGORA for that actor. |\n| --- | --- |",
+      "text_sha256": "289a5721b4502b6d895d76289894b90755a99c04b51ba053da0e27106df0f32b",
+      "md_span": {
+        "start": 1968,
+        "end": 3203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The Commission shall be responsible for carrying out the following tasks in relation to AGORA:\n\n| (a) | providing AGORA in all official Union languages, and maintaining AGORA; |\n| --- | --- |\n\n| (b) | ensuring the reliability, security, availability, maintenance and development of the software and IT infrastructure of AGORA; |\n| --- | --- |\n\n| (c) | offering automated machine-translation tools for the translation of documents and messages exchanged through AGORA; |\n| --- | --- |\n\n| (d) | providing support to other AGORA actors in relation to the use of AGORA; |\n| --- | --- |\n\n| (e) | registering at least one AGORA administrator on behalf of each Digital Services Coordinator and of the Board, and granting them access to AGORA; |\n| --- | --- |\n\n| (f) | appointing at least one AGORA administrator; |\n| --- | --- |\n\n| (g) | performing processing operations on personal data in AGORA, where provided for in this Regulation, for the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| (h) | auditing, monitoring, and preparing reports needed for auditing and monitoring of AGORA under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| (i) | providing knowledge, training, and support, including technical assistance, to AGORA administrators; |\n| --- | --- |\n\n| (j) | monitoring performance by all other AGORA actors under this Regulation in accordance with Article 15. |\n| --- | --- |\n\n2. In order to assist the Commission in the performance of the tasks listed in paragraph 1, the other AGORA actors shall provide the Commission with information relating to operations performed by them in AGORA.",
+      "text_sha256": "5de9728a92900170d92f15a34d936857a02bb0b96222513ca8652d02952e0926",
+      "md_span": {
+        "start": 3236,
+        "end": 4903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The Commission shall be a processor within the meaning of Article 3, point (12), of Regulation (EU) 2018/1725 with respect to the processing of personal data when registering AGORA administrators.\n\n2. The Commission shall be a separate controller within the meaning of Article 3, point (8), of Regulation (EU) 2018/1725 with respect to the processing of personal data of its own AGORA administrators and AGORA users.\n\n3. Where the Commission processes personal data in the operation of AGORA for the purpose of sharing, requesting and accessing information, requesting action and requesting support, it shall be considered a separate controller, within the meaning of Article 3, point (8), of Regulation (EU) 2018/1725, from the other AGORA actors for the personal data processing activities it carries out.\n\n4. Where the Commission processes personal data in the operation of AGORA on behalf of other AGORA actors for the purpose of sharing, requesting and accessing information, requesting action and requesting support, it shall be considered a processor within the meaning of Article 3, point (12), of Regulation (EU) 2018/1725.\n\n5. For the purposes of this Regulation, the responsibilities of the Commission as processor for data processing activities conducted in AGORA by those other AGORA actors shall be defined in accordance with Annex II.",
+      "text_sha256": "2514e544ac06da9b542fe8d1cb31a1dcbe6db5ec7ee5c054b9cab56316d08830",
+      "md_span": {
+        "start": 4936,
+        "end": 6299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Each Digital Services Coordinator shall appoint, for its Member State, at least one AGORA administrator.\n\n2. Each Digital Services Coordinator shall be responsible for ensuring that, in relation to the performance of the tasks conferred on it in accordance with Regulation (EU) 2022/2065, only authorised AGORA users have access to AGORA.\n\n3. Each Digital Services Coordinator shall inform the Commission of the AGORA administrator appointed by it in accordance with paragraph 1 without delay. The Commission shall share that information with the other Digital Services Coordinators and the Board.\n\n4. Each Digital Services Coordinator shall ensure that the responsibilities of the AGORA administrator pursuant to this Regulation are fulfilled.\n\n5. Digital Services Coordinators shall be separate controllers within the meaning of Article 4, point (7), of Regulation (EU) 2016/679 with respect to the processing of personal data when registering their AGORA users and granting them access to AGORA.\n\n6. Where the Digital Services Coordinators process personal data in the operation of AGORA for the purpose of sharing information, requesting and accessing information, answering requests for information, making referrals, requesting action and requesting support, they shall be separate controllers within the meaning of Regulation (EU) 2016/679 for the processing activities they carry out.\n\n7. Where other competent authorities designated by the Member States pursuant to Article 49(1) of Regulation (EU) 2022/2065, which are not the Digital Services Coordinator, process personal data in the operation of AGORA, such authorities shall be separate controllers within the meaning of Regulation (EU) 2016/679.",
+      "text_sha256": "478b9c6cdda9a10fa7f5dbe7a9ae31146fe72d8b97a4ca9ac162dc6faf472c71",
+      "md_span": {
+        "start": 6332,
+        "end": 8056
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The Board shall appoint one AGORA administrator. The AGORA administrator shall be part of the administrative and analytical support provided to the Board pursuant to Article 62(4) of Regulation (EU) 2022/2065.\n\n2. The Board shall be responsible for ensuring that only authorised AGORA users have access to AGORA.\n\n3. The Board shall inform the Commission of the identity of its AGORA administrator appointed in accordance with paragraph 1, and of the tasks for which they are responsible under Article 8 of this Regulation, without delay. The Commission shall share this information with the Digital Services Coordinators.",
+      "text_sha256": "84879b8a09c17aec9a56c5654a20d014b6cd31915795a742108a262065a469a5",
+      "md_span": {
+        "start": 8089,
+        "end": 8725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nAGORA administrators shall be responsible for:\n\n| a) | registering AGORA users, and granting and revoking access to AGORA; |\n| --- | --- |\n\n| b) | acting as the main contact point for the Commission for issues relating to AGORA, including providing information on aspects relating to the protection of personal data in accordance with this Regulation, Regulation (EU) 2016/679, and Regulation (EU) 2018/1725; |\n| --- | --- |\n\n| c) | providing knowledge, training and support, including technical assistance and a helpdesk, to AGORA users registered by them; |\n| --- | --- |\n\n| d) | ensuring the efficient provision of adequate responses by AGORA actors. |\n| --- | --- |",
+      "text_sha256": "c054a6e62f50b240a64ebf7e19b4a599174eb2773ca0d083249358052229d588",
+      "md_span": {
+        "start": 8758,
+        "end": 9438
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. AGORA actors shall grant and revoke access rights to AGORA administrators for which they are responsible.\n\n2. Only authorised AGORA administrators and authorised AGORA users shall have access to AGORA.\n\n3. AGORA actors shall put in place appropriate means to ensure that AGORA administrators and AGORA users are allowed to access personal data processed in AGORA only where strictly necessary for the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065.\n\n4. Where a procedure relating to the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065 involves the processing of personal data, only AGORA administrators and AGORA users participating in that procedure shall have access to such personal data.",
+      "text_sha256": "c9c50c32f818d91fc2d588be4b2c635269b3ec17ce4bb01d3b798297965aa63c",
+      "md_span": {
+        "start": 9471,
+        "end": 10255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Each Member State and the Commission shall apply their own rules on professional secrecy or other equivalent duties of confidentiality to their AGORA administrators and AGORA users in accordance with national or Union law.\n\n2. Each AGORA actor shall ensure that demands from other AGORA actors for confidential treatment of information exchanged in AGORA are complied with by AGORA administrators and AGORA users working under their authority.",
+      "text_sha256": "b40595517762514ff8eab8cbb21c9b772aaa1b17f276b15ca9524b4fcdef4422",
+      "md_span": {
+        "start": 10290,
+        "end": 10748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The transmission, storage and other processing of personal data in AGORA may take place only as necessary and proportionate and only for the following purposes:\n\n| (a) | supporting communications between AGORA actors in connection with the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| (b) | case-handling by AGORA actors when carrying out their own activities in connection with the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| (c) | performing the business and technical transformations of data listed in this Regulation, where this is necessary to enable the exchange of information referred to in points (a) and (b). |\n| --- | --- |\n\n2. The processing of personal data may take place in AGORA only in respect of the following categories of data subjects:\n\n| (a) | natural persons whose personal information is contained in documents obtained in connection with the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| (b) | AGORA administrators and AGORA users that have been granted access to AGORA. |\n| --- | --- |\n\n3. The processing of personal data may take place in AGORA only in respect of the following categories of personal data:\n\n| a) | identification data, contact details, case involvement data, case related data, and any other information deemed necessary for the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065; |\n| --- | --- |\n\n| b) | name, address, contact information, contact number and user ID of the AGORA administrators and AGORA users referred to in paragraph 2, point (b). |\n| --- | --- |\n\n4. AGORA shall store the categories of personal data listed under Article 11(3) of this Regulation and the logs indicating information about the flow and movements of the exchanged data carried out for the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065.\n\n5. The storage of data referred to in paragraph 2 shall be performed using information technology infrastructure located in the European Economic Area.\n\n6. Each AGORA actor shall ensure that data subjects can exercise their rights in accordance with Regulation (EU) 2016/679 and Regulation (EU) 2018/1725, and shall be responsible for compliance with these regulations for the personal data processing activities carried out on its behalf.\n\n7. The national Supervisory Authorities and the European Data Protection Supervisor, each acting within the scope of their respective competence, shall ensure coordinated supervision of AGORA and its use by AGORA administrators and AGORA users.",
+      "text_sha256": "ee2e9fdd3b0d635ea37afe13fd330c70d28a5e80fe78008e40c3993fc5eaeb36",
+      "md_span": {
+        "start": 10783,
+        "end": 13512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The Digital Services Coordinators shall be joint controllers pursuant to Article 26(1) of Regulation (EU) 2016/679 for the transmission, storage and other processing of personal data in AGORA in respect of the activities of the Board carried out in the context of the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065.\n\n2. When joint investigations are carried out pursuant to Article 60 of Regulation (EU) 2022/2065 in the context of the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065, the concerned Digital Services Coordinators shall be joint controllers, within the meaning of Article 26(1) of Regulation (EU) 2016/679, for the transmission, storage and other processing of personal data in AGORA in the context of a particular joint investigation.\n\n3. For the purposes of paragraphs 1 and 2, responsibilities shall be allocated among joint controllers in accordance with Annex I.\n\n4. The Commission shall be a processor within the meaning of Article 3, point (12), of Regulation (EU) 2018/1725 for the processing of personal data carried out on behalf of the Digital Services Coordinators for the purpose of the activities of the Board, and for joint investigations pursuant to Article 60 of Regulation (EU) 2022/2065 carried out in the context of the supervision, investigation, enforcement and monitoring under Regulation (EU) 2022/2065.",
+      "text_sha256": "aa9962697036326fa2424494530138731bb175e814d0d7053b849e37b380a9c3",
+      "md_span": {
+        "start": 13547,
+        "end": 14983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The Commission shall put in place the necessary, state-of-the-art measures to ensure security of personal data processed in AGORA, including appropriate data access control and a security plan, which shall be kept up-to-date.\n\n2. The Commission shall put in place the necessary, state-of-the-art measures in the event of a security incident, take remedial action, and ensure that it shall be possible to verify what personal data have been processed in AGORA, when, by whom, and for what purpose.",
+      "text_sha256": "7c7b559e82721d8af3fd321342e3efc4628e6cea59128b4163113ecba9d3596d",
+      "md_span": {
+        "start": 15018,
+        "end": 15529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The Commission shall make AGORA available in all official languages of the Union, and offer to AGORA users automated machine-translation tools for the translation of documents and messages exchanged in AGORA.\n\n2. A Digital Services Coordinator or any other competent authority to which access to AGORA is granted may produce, in relation to the performance of any of the tasks conferred on it in accordance with Regulation (EU) 2022/2065, any information, document, finding, statement, or certified true copy which it has received in AGORA, on the same basis as similar information obtained in its own country, for purposes compatible with those for which the data were originally collected and in accordance with relevant EU and national laws.",
+      "text_sha256": "0cede1397d23bb882de02fc59e83f73748b7171af4162f24a46b86b223ad1845",
+      "md_span": {
+        "start": 15564,
+        "end": 16323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The Commission shall regularly monitor the functioning of AGORA and shall regularly evaluate its performance.\n\n2. By 17 February 2027, and every three years thereafter, the Commission shall submit to the European Parliament, the Council and the European Data Protection Supervisor a report on the implementation of this Regulation. The report shall include information on the monitoring and evaluation carried out in accordance with paragraph 1, and on the performance of AGORA actors in connection with AGORA with a view to ensuring efficient information sharing and adequate replies. The report shall also address aspects of implementation relating to the protection of personal data in AGORA, including data security.\n\n3. For the purpose of producing the report referred to in paragraph 2, the Digital Services Coordinators, the Board and other competent authorities to which access is granted where necessary to carry out the tasks conferred to them in accordance with Regulation (EU) 2022/2065 shall, on an annual basis, provide the Commission with any information relevant to the application of this Regulation in the form of reports, including on the application of the data protection requirements and data security laid down in it.",
+      "text_sha256": "75b745f93dc7d0a7f133769a5df75af8fcd75df4bac83347327dc205dec436cd",
+      "md_span": {
+        "start": 16358,
+        "end": 17613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. The costs incurred for the set-up, maintenance and operation of AGORA shall be covered by the annual supervisory fees collected by the Commission in accordance with Article 43(2) of Regulation (EU) 2022/2065 and Commission Delegated Regulation (EU) 2023/1127 (4).\n\n2. The costs for AGORA operations at Member State level, including the human resources needed for training, promotion, technical assistance and helpdesk activities, as well as for the administration of AGORA at national level and any adaptations required to national networks and information systems shall be borne by the Member State which incurs them.",
+      "text_sha256": "6195e0073d0fdd5cd3772dd584616d6e033dd0c319a92a496ada5b80523d2739",
+      "md_span": {
+        "start": 17648,
+        "end": 18281
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_202400607EN.000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nThe Member States shall take all necessary measures to ensure effective application of this Regulation by their AGORA actors.",
+      "text_sha256": "b1ea20f9c1d9bac750e914ad63b2d74a6bfcebc87a4993d056c78d44b5809ea7",
+      "md_span": {
+        "start": 18316,
+        "end": 18453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r0607:2024-02-15--6af09cc96ae578b6b8afd46306e1072f8735e3ef05d23988e74862106ad13fa1#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "ffdf9470d37fa5e79986147f905b96cde8308307cb2f0c045bb49f3126e18c90",
+      "md_span": {
+        "start": 18488,
+        "end": 18640
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

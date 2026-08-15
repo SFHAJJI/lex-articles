@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0910r(11):2025-08-04--37b9cd86e4db53fed83c990c7bce032736e5cd9b83cf350e95c062b4679d8fcf",
+  "language": "fr",
+  "title": "Rectificatif au règlement (UE) no 910/2014 du Parlement européen et du Conseil du 23 juill…",
+  "valid_from": "2025-08-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0910r(11)/versions/2025-08-04--37b9cd86e4db53fed83c990c7bce032736e5cd9b83cf350e95c062b4679d8fcf/fr.xml",
+    "sha256": "e26b127cb06c782f7fef0e538a2679c8d2fcb808b86dcc63c72e676e37a5f10c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0910R%2811%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014r0910r(11):2025-08-04--37b9cd86e4db53fed83c990c7bce032736e5cd9b83cf350e95c062b4679d8fcf#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Journal officiel de l'Union européenne FR Série L 2025/90630 4.8.2025 Rectificatif au règlement (UE) no 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ( «Journal officiel de l’Union européenne» L 257 du 28 août 2014 ) 1. Page 90, à l’article 10, paragraphes 1, 2 et 3: au lieu de: «1. En cas d’atteinte ou d’altération partielle du schéma d’identification électronique notifié en application de l’article 9, paragraphe 1, ou de l’authentification visée à l’article 7, point f), telle qu’elle affecte la fiabilité de l’authentification transfrontalière de ce schéma, l’État membre notifiant suspend ou révoque, immédiatement, cette authentification transfrontalière ou les éléments altérés en cause, et en informe les autres États membres et la Commission. 2. Lorsqu’il a été remédié à l’atteinte ou à l’altération visée au paragraphe 1, l’État membre notifiant rétablit l’authentification transfrontalière et en informe les autres États membres et la Commission dans les meilleurs délais. 3. S’il n’est pas remédié à l’atteinte ou à l’altération visée au paragraphe 1 dans un délai de trois mois à compter de la suspension ou de la révocation, l’État membre notifiant notifie le retrait du schéma d’identification électronique aux autres États membres et à la Commission.» , lire: «1. En cas d’atteinte ou de compromission partielle du schéma d’identification électronique notifié en application de l’article 9, paragraphe 1, ou de l’authentification visée à l’article 7, point f), telle qu’elle affecte la fiabilité de l’authentification transfrontalière de ce schéma, l’État membre notifiant suspend ou révoque, immédiatement, cette authentification transfrontalière ou les éléments altérés en cause, et en informe les autres États membres et la Commission. 2. Lorsqu’il a été remédié à l’atteinte ou à la compromission visée au paragraphe 1, l’État membre notifiant rétablit l’authentification transfrontalière et en informe les autres États membres et la Commission dans les meilleurs délais. 3. S’il n’est pas remédié à l’atteinte ou à la compromission visée au paragraphe 1 dans un délai de trois mois à compter de la suspension ou de la révocation, l’État membre notifiant notifie le retrait du schéma d’identification électronique aux autres États membres et à la Commission.». 2. Page 105, à l’article 39, paragraphe 3: au lieu de: «3. L’article 31 s’applique mutatis mutandis à la publication d’une liste de dispositifs de création de cachet électronique qualifiés.» , lire: «3. L’article 31 s’applique mutatis mutandis à la publication d’une liste de dispositifs de création de cachet électronique qualifiés certifiés.». ELI: http://data.europa.eu/eli/reg/2014/910/corrigendum/2025-08-04/oj ISSN 1977-0693 (electronic edition)",
+      "text_sha256": "a452e7d51c9bc02e4248f5e7c0a01e34d3092a5d90ee506f41c695aa9a70ee1c",
+      "md_span": {
+        "start": 729,
+        "end": 3647
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1784r(08):2026-02-18--7361a5e7b2811e65f7dcfc092fe4c8b5833689c75ba7e6112beb528a28752636",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) 2020/1784",
+  "valid_from": "2026-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1784r(08)/versions/2026-02-18--7361a5e7b2811e65f7dcfc092fe4c8b5833689c75ba7e6112beb528a28752636/en.xml",
+    "sha256": "92086e00c8c37cd5eba5215c7d1da354c202c5f18468b3cb0cda8e2f8239ed21",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1784R%2808%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32020r1784r(08):2026-02-18--7361a5e7b2811e65f7dcfc092fe4c8b5833689c75ba7e6112beb528a28752636#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Official Journal of the European Union EN L series 2026/90138 18.2.2026 Corrigendum to Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) ( Official Journal of the European Union L 405 of 2 December 2020 ) On page 73, Annex I, Form K, point 1.3: for: ‘1.3. The addressee of the document was informed, in accordance with Article 12(2) of Regulation (EU) 2020/1784, in writing that the addressee may refuse to accept the document if it is not written in or accompanied by a translation into either a language which he or she understands or the official language or one of the official languages of the place of service.’, read: ‘1.3. The addressee of the document was informed, in accordance with Article 12(2) of Regulation (EU) 2020/1784, in writing that the addressee may refuse to accept the document if it is not written in or accompanied by a translation into either a language which he or she understands or the official language or one of the official languages of the place of service: yes □ no □’. ELI: http://data.europa.eu/eli/reg/2020/1784/corrigendum/2026-02-18/oj ISSN 1977-0677 (electronic edition)",
+      "text_sha256": "7ef7112f13456c92adb5c3cb7025a1b6b7fe254eedbe93fea7a48a9219248f30",
+      "md_span": {
+        "start": 678,
+        "end": 1961
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

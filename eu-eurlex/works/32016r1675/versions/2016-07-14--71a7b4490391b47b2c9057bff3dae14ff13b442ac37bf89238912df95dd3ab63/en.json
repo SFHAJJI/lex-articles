@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1675:2016-07-14--71a7b4490391b47b2c9057bff3dae14ff13b442ac37bf89238912df95dd3ab63",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/1675 of 14 July 2016 supplementing Directive (EU) 2015/849",
+  "valid_from": "2016-07-14",
+  "valid_to": "2018-02-12",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1675/versions/2016-07-14--71a7b4490391b47b2c9057bff3dae14ff13b442ac37bf89238912df95dd3ab63/en.xml",
+    "sha256": "847366900e671d3ac0d4f701bc403aa87dead3a786d2ade3ff7b1e42fdceae0d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1675"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1675:2016-07-14--71a7b4490391b47b2c9057bff3dae14ff13b442ac37bf89238912df95dd3ab63#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe list of third-country jurisdictions which have strategic deficiencies in their anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union (‘high-risk third countries’) is laid down in the Annex.",
+      "text_sha256": "c7b87fe90fa99ae8442689f2a6a9bfb476857a90d3e747fb93692b6fd4a9bfef",
+      "md_span": {
+        "start": 717,
+        "end": 1006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1675:2016-07-14--71a7b4490391b47b2c9057bff3dae14ff13b442ac37bf89238912df95dd3ab63#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 1039,
+        "end": 1186
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

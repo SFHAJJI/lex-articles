@@ -1,0 +1,438 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/08/2026 : Loi du 30 juillet 2021 relative à un régime d’aides en faveur du journalisme professionnel.",
+  "valid_from": "2026-08-02",
+  "valid_to": "2026-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2021-07-30-a601/versions/2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e/fr.xml",
+    "sha256": "7cb1485e78425a42cddc2855e145c2f33341c8a84228299b4101e62348b4381c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_1er/20260802",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Objet et champ d’application"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "Il est institué un régime d’aides en faveur de la presse professionnelle sous forme d’une aide financière annuelle à charge du budget de l’État en vue de maintenir et de promouvoir la pluralité de la presse au Luxembourg.\n\nLes aides sont allouées par décision du ministre ayant les Médias dans ses attributions, ci-après « ministre », sur avis de la commission « Aide à la presse » prévue à l’article 14, ci-après « commission ». Si la commission n’a pas émis son avis endéans un délai de six mois à partir de la date de sa saisine, le ministre prend sa décision sans disposer de l’avis de la commission.\n\nEst exclu du champ d’application un éditeur qui :\n\n1. est chargé d’une mission de service ou d’intérêt public ;\n2. bénéficie d’une aide étatique directe ou indirecte d’un autre pays ;\n3. loi modifiée du 27 juillet 1991",
+      "text_sha256": "f12443b3c626a652264ea3753d04f2d801e1a30e42658219aeefe162844445f0",
+      "md_span": {
+        "start": 750,
+        "end": 1574
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_2/20210815",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Définitions"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Pour l’application de la présente loi, en entend par :\n\n1. loi modifiée du 8 juin 2004\n2. loi du 20 décembre 2019\n3. loi modifiée du 8 juin 2004\n4. loi modifiée du 8 juin 2004\n5. 1. constitue une unité de publications périodiques ou régulièrement actualisées sous un titre unique ou similaire ;\n2. a pour but de fournir au public en général des informations liées à l’actualité et à d’autres sujets ;\n3. est publiée sur tout support à l’initiative et sous la responsabilité d’un éditeur. Les journaux, magazines ou sites internet thématiquement spécialisés, tout comme les périodiques publiés à des fins scientifiques ou universitaires, ne sont pas des publications de presse aux fins de la présente loi.\n6. loi modifiée du 8 juin 2004\n7. loi modifiée du 8 juin 2004\n8. « publication de presse en ligne » : publication de presse publiée exclusivement sur internet, comprenant en moyenne au moins deux contributions bénéficiant de la protection octroyée par les droits d’auteur par jour et ce au moins six jours par semaine, sauf en cas de force majeure ;\n9. « publication de presse hebdomadaire » : publication de presse imprimée paraissant au moins une fois par semaine et ce pendant au moins cinquante semaines sur cinquante-deux, sauf en cas de force majeure ;\n10. « publication de presse mensuelle » : publication de presse imprimée paraissant au moins une fois par mois et ce pendant au moins onze mois sur douze, sauf en cas de force majeure ;\n11. « publication de presse quotidienne » : publication de presse imprimée paraissant au moins quatre fois par semaine et ce pendant au moins cinquante semaines sur cinquante-deux, sauf en cas de force majeure.",
+      "text_sha256": "4bafee85d255c8a708edb7c50dbeb8994aa37a70dda8db47a0527072b62796a7",
+      "md_span": {
+        "start": 1638,
+        "end": 3298
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_3/20210815",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Maintien du pluralisme"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** Est considéré comme éditeur éligible à l’aide prévue à l’article 4, un éditeur qui remplit les critères suivants :\n\n1. loi modifiée du 2 septembre 2011\n2. disposer d’un plan de formation pour les journalistes professionnels ;\n3. publier dans son rapport annuel le rapport femmes-hommes au sein des rédactions, sa ligne éditoriale, les actions menées en faveur de l’éducation aux médias, les formations suivies par les journalistes professionnels ainsi que les mesures prises pour améliorer l’accès au contenu pour les personnes en situation de handicap.\n\n**(2)** Pour bénéficier de l’aide prévue à l’article 4, la publication de presse d’un éditeur éligible doit, depuis un an au moins à la date de la demande, remplir les critères suivants :\n\n1. diffuser une information générale destinée en ordre principal à l’ensemble ou à une partie significative du public résidant au Grand-Duché de Luxembourg, contribuer au pluralisme des opinions et produire du contenu relevant au moins des domaines politique, économique, social et culturel sur le plan national et international ;\n2. faire paraître soit une publication quotidienne, soit une publication hebdomadaire, soit une publication mensuelle, soit une publication en ligne ;\n3. disposer d’une équipe rédactionnelle composée d’un nombre de journalistes professionnels équivalent à au moins cinq emplois à temps plein, engagés par contrat de travail à durée indéterminée ;\n4. être accessible publiquement à l’ensemble de la population, que ce soit à titre gratuit ou onéreux ;\n5. avoir recours à une ou plusieurs langues utilisées par au moins 15 pour cent de la population selon les statistiques officielles relatives au dernier recensement général de la population au moment de l’introduction de la demande ;\n6. ne pas constituer un outil de promotion ou un accessoire d’une activité industrielle ou commerciale ;\n7. consacrer la majorité de la surface totale de la publication de presse au contenu rédactionnel ;\n8. rendre aisément identifiable le contenu publié contre rémunération et facilement distinguable du contenu journalistique émanant de la rédaction ;\n9. mettre en œuvre des dispositifs appropriés de lutte contre les contenus illicites sur les espaces de contribution personnelle des internautes.",
+      "text_sha256": "0be7f3db1f9c2e0da537ab7d905f9a9a93e24a82b83de8f912a010ada04ee00c",
+      "md_span": {
+        "start": 3373,
+        "end": 5640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_4/20260802",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Maintien du pluralisme"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "**(1)** L’aide comprend deux parties, une part proportionnelle, appelée « aide à l’activité rédactionnelle », et une part fixe.\n\n**(2)** Le ministre alloue une aide à l’activité rédactionnelle d’un montant annuel de 30 000 euros par équivalent temps plein de journaliste professionnel lié à l’éditeur par un contrat à durée indéterminée.\n\nLe journaliste professionnel nommé gérant d’un éditeur, exerçant sous le statut d’indépendant et participant personnellement et de manière continue à la collecte, l’analyse, le commentaire ou le traitement journalistique d’informations, est assimilé au journaliste professionnel lié à l’éditeur par un contrat à durée indéterminée.\n\nCe montant est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant.\n\n**(3)** Le ministre alloue dans les limites budgétaires disponibles une aide d’un montant annuel fixe de 200 000 euros à chaque éditeur éligible dont la publication de presse respecte les critères de l’article 3, paragraphe 2.\n\nCe montant est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant.\n\n**(4)** L’aide accordée est attribuée à partir de la date de la demande.",
+      "text_sha256": "e83c1338d06f1d14f5cb5345af6a9328539f8836ea0e97a23ecb68548db5afaf",
+      "md_span": {
+        "start": 5675,
+        "end": 7281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_5/20210815",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Maintien du pluralisme"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** Une demande d’aide dûment motivée est adressée au ministre sous forme écrite, accompagnée de pièces justificatives.\n\nUn règlement grand-ducal peut déterminer les pièces justificatives nécessaires au contrôle des critères.\n\n**(2)** L’aide à l’activité rédactionnelle est payable par tranche trimestrielle et est calculée sur base des équivalents temps plein de journalistes professionnels sous contrat au cours du trimestre précédant la demande.\n\n**(3)** L’aide fixe est payable annuellement et est calculée au prorata de la période restant à courir entre la date de la demande de l’aide et la fin de l’année.\n\n**(4)** L’aide à l’activité rédactionnelle et l’aide fixe sont affectées à des dépenses directement liées à l’édition, à l’autopromotion ou à l’innovation de la publication de presse.\n\n**(5)** Le versement de toute aide fixe subséquente est subordonné à la présentation au préalable d’un relevé d’utilisation de l’aide perçue antérieurement.",
+      "text_sha256": "3c8db02d54dfde63a29eaadcecf7f77c51dad128cc19818f3d7dcec813ba45b5",
+      "md_span": {
+        "start": 7316,
+        "end": 8275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_6/20210815",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Promotion du pluralisme"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** Est considéré comme éditeur émergent, un éditeur qui remplit les critères suivants :\n\n1. loi modifiée du 2 septembre 2011\n2. publier sa ligne éditoriale.\n\n**(2)** Pour pouvoir bénéficier de l’aide prévue à l’article 7, la publication de presse d’un éditeur émergent doit, depuis au moins six mois à la date de la demande, remplir les critères suivants :\n\n1. remplir les critères d’éligibilité énumérés à l’article 3, paragraphe 2, à l’exception du point 3 ;\n2. disposer d’une équipe rédactionnelle composée d’un nombre de journalistes professionnels équivalent à au moins deux emplois à temps plein, engagés par contrat de travail ;\n3. ne pas faire partie d’un groupe de presse ;\n4. En cas de non atteinte de ce seuil, l’aide est diminuée au prorata de la différence.",
+      "text_sha256": "d774b57d9a6c321218ebaf10e4db195e6d31e566fecee512288a25b6560db7da",
+      "md_span": {
+        "start": 8351,
+        "end": 9126
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_7/20260802",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Promotion du pluralisme"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "**(1)** Le ministre alloue une aide annuelle de 100 000 euros à chaque éditeur émergent dont la publication de presse respecte les critères de l’article 6, paragraphe 2.\n\nCe montant est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant.\n\n**(2)** L’allocation de l’aide est limitée à trois années consécutives.",
+      "text_sha256": "0af1db6198b80ca01ef7640f68f372ee510537ef07041446ef2861be2a652dcf",
+      "md_span": {
+        "start": 9161,
+        "end": 9720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_8/20210815",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Promotion du pluralisme"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** Une demande d’aide dûment motivée est adressée au ministre sous forme écrite, accompagnée de pièces justificatives, et contient au moins les éléments suivants :\n\n1. des éléments permettant d’apprécier la viabilité économique de la publication de presse, dont un budget prévisionnel sur au moins deux années ;\n2. une description de l’éditeur émergent et de la publication de presse, décrivant leur apport au pluralisme du paysage journalistique au Luxembourg.\n\nUn règlement grand-ducal peut déterminer les pièces justificatives nécessaires au contrôle des critères.\n\n**(2)** L’aide est affectée à des dépenses directement liées à l’édition, à l’autopromotion ou à l’innovation de la publication de presse.\n\n**(3)** Le versement de toute aide subséquente est subordonné à la présentation au préalable d’un relevé d’utilisation de l’aide perçue antérieurement.",
+      "text_sha256": "b41b7348f06d912f903348382aee08d3cdb53d307dbc8c2f682847ab8d2f4e90",
+      "md_span": {
+        "start": 9755,
+        "end": 10620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_9/20210815",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Éducation aux médias et à la citoyenneté"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Est considéré comme éditeur citoyen, un éditeur qui remplit, depuis un an au moins à la date de la demande, les critères suivants :\n\n1. loi modifiée du 21 avril 1928\n2. avoir recours à une participation bénévole de citoyens à l’activité rédactionnelle ;\n3. contribuer à l’éducation aux médias, à l’intégration et à la cohésion sociale ;\n4. disposer de ressources financières diverses ;\n5. ne pas faire partie d’un groupe de presse ;\n6. diffuser du contenu destiné en ordre principal à l’ensemble ou à une partie significative du public résidant au Grand-Duché de Luxembourg ;\n7. disposer d’une équipe composée d’un nombre de salariés équivalent à au moins deux emplois à temps plein, dont au moins un journaliste professionnel ;\n8. ne pas constituer un outil de promotion ou un accessoire d’une activité industrielle ou commerciale.",
+      "text_sha256": "da680266a9f25f2ab53fba718b5b625c639b1265e4dafc01aa950b6b1644c5c3",
+      "md_span": {
+        "start": 10713,
+        "end": 11545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_10/20210815",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Éducation aux médias et à la citoyenneté"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Le ministre alloue une aide annuelle d’un montant maximum de 100 000 euros à un éditeur citoyen en fonction des critères suivants :\n\n1. la participation de bénévoles à des actions collectives en matière de contenu ;\n2. les actions menées en faveur de l’éducation aux médias, de l’intégration, de la promotion de la citoyenneté et de la lutte contre les discriminations ;\n3. la part de contenu original produit par le média citoyen considéré au sein de la publication ;\n4. l’ampleur des actions culturelles, sociales et éducatives organisées ;\n5. les actions de la formation professionnelle en faveur des collaborateurs et de la consolidation des emplois au sein de leur service ;\n6. l’ampleur des frais techniques et d’exploitation.\n\nCe montant est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant.\n\nUne convention détermine le montant et définit, dans le respect de l’indépendance éditoriale du média, les engagements de l’éditeur citoyen et les modalités de paiement.",
+      "text_sha256": "30a347ae6de28080ff938db3e80d585e3d9a5910c2e59866b03a01983950d902",
+      "md_span": {
+        "start": 11582,
+        "end": 12802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_11/20210815",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Éducation aux médias et à la citoyenneté"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Une demande de subvention dûment motivée est soumise au ministre sous forme écrite, accompagnée de pièces justificatives.",
+      "text_sha256": "bc01796e94bba06e4a5836cd270d952f19adae8822175f89bd5f9bbbd1563361",
+      "md_span": {
+        "start": 12839,
+        "end": 12960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_12/20210815",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Suivi des aides"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** La documentation relative aux aides allouées au titre de la présente loi est conservée par le ministre pendant dix ans à partir de la date de demande.\n\n**(2)** Le relevé des aides allouées est publié annuellement par le ministre.",
+      "text_sha256": "aaae2acd65eaad292dc2078188ce6ec7f0142966bf50d3d3602a655aedab41fc",
+      "md_span": {
+        "start": 13030,
+        "end": 13267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_13/20260802",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Limite des aides"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "**(1)** Pour bénéficier de l’aide prévue à l’article 4, l’éditeur éligible doit générer annuellement, par publication de presse, des recettes propres à hauteur d’au moins 50 pour cent de l’aide à allouer.\n\nLes calculs se basent sur les comptes annuels de l’année précédant la demande d’aide.\n\nEn cas de non atteinte de ce seuil, l’aide est diminuée au prorata de la différence.\n\n**(2)** Le montant annuel maximal versé à un éditeur par publication de presse est limité à 1 600 000 euros.\n\n**(3)** Le montant annuel maximal versé à un groupe de presse est limité à 2 500 000 euros.\n\n**(4)** Les montants visés aux paragraphes 2 et 3 sont établis sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varient en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant des limites pour l’exercice budgétaire suivant.",
+      "text_sha256": "84a05b3b80a23f22a72bd2cdb9540b0bd83b8040ec6ba4347b4dcf05b5d8c4cf",
+      "md_span": {
+        "start": 13338,
+        "end": 14280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13bis",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_13bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_13bis/20260802",
+      "type": "article",
+      "num": "Art. 13bis.",
+      "heading": "Aide de minimis",
+      "path": [
+        "Chapitre 7*bis* — Aide de minimis"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "Lorsqu’un éditeur réalise un projet ayant une valeur ajoutée pour le pluralisme des médias du pays, le ministre peut lui attribuer une aide dont le montant ne pourra pas dépasser le plafond de 300 000 euros par entreprise unique sur une période de trois exercices fiscaux.\n\nPar « entreprise unique », on entend toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes :\n\n1. une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;\n2. une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;\n3. une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;\n4. une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.\n\nLes entreprises qui entretiennent au moins une des relations visées à l’alinéa 2 à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique.\n\nUne demande d’aide doit être soumise au ministre sous forme écrite et contenir toutes les informations suivantes :\n\n1. le nom de l’éditeur requérant ;\n2. les éventuelles relations formant une entreprise unique ;\n3. une description du projet, y compris ses dates de début et de fin ;\n4. une liste des coûts directement liés à l’édition, à l’autopromotion ou à l’innovation du projet ;\n5. tout élément pertinent permettant au ministre d’apprécier les qualités ou spécificités du projet ;\n6. une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.\n\nL’aide prévue au présent chapitre prend la forme d’une subvention en capital.\n\nLa décision relative à l’octroi de l’aide suite à la demande d’aide n’est prise qu’après avoir demandé l’avis de la Commission « Aide à la presse ».\n\nLe montant de l’aide est fixé en fonction :\n\n1. de la contribution ou de la plus-value du projet pour le pluralisme des médias au Luxembourg ;\n2. de l’aide nécessaire pour réaliser le projet ;\n3. de la cohérence du plan d’affaires du projet et de la crédibilité des hypothèses qui y sont avancées ;\n4. de l’envergure financière du projet par rapport aux fonds propres de l’entreprise.\n\nLes informations sont conservées pendant dix exercices fiscaux à compter de la date d’octroi de la dernière aide de minimis au titre de la loi applicable.\n\nLes aides de minimis peuvent être cumulées avec des aides de minimis accordées conformément à d’autres lois à condition de ne pas dépasser le plafond de 300 000 euros par entreprise unique sur une période de trois exercices fiscaux.\n\nLes aides de minimis ne peuvent être cumulées pour les mêmes coûts éligibles avec d’autres aides d’État pour autant que le cumul conduise à dépasser l’intensité d’aide maximale prévue par le régime applicable.",
+      "text_sha256": "5344eb99c655bfb45c061082507d3b982a7ffb2b7fcdac11d5d6881b36b01d99",
+      "md_span": {
+        "start": 14377,
+        "end": 17538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_14/20260802",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Commission « Aide à la presse »"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "**(1)** Il est institué auprès du ministre une commission chargée d’émettre un avis sur :\n\n1. le respect des critères d’éligibilité des demandes ;\n2. la perte du bénéfice de l’aide et sa restitution ;\n3. la viabilité au regard des perspectives de développement des demandes d’aide soumises par des éditeurs émergents ;\n4. toute autre question dont elle est saisie par le ministre.\n\n**(2)** La commission est composée de dix membres effectifs et de dix membres suppléants nommés par le ministre. Le mandat est de cinq ans, renouvelable.\n\nEn cas de fin anticipée du mandat d’un membre effectif, le nouveau titulaire nommé dans les formes du présent article termine le mandat du membre qu’il remplace.\n\n**(3)** Le membre suppléant remplace le membre effectif en cas d’empêchement de ce dernier.\n\nLes membres liés à l’éditeur demandeur ne peuvent participer aux délibérations relatives à cette demande.\n\n**(4)** La composition de la commission est arrêtée comme suit :\n\n1. deux membres représentant le Service des médias, de la connectivité et de la politique numérique ;\n2. un membre représentant du ministre ayant les Finances dans ses attributions ;\n3. un membre représentant le Service information et presse ;\n4. le commissaire aux droits d’auteur et droits voisins ;\n5. quatre membres nommés sur proposition du Conseil de presse dont deux membres représentant le groupe des journalistes professionnels et deux membres représentant le groupe des éditeurs ;\n6. un membre représentant le monde académique, qualifié au titre de sa connaissance dans le domaine des médias.\n\n**(5)** Le ministre désigne le président parmi les représentants du Service des médias, de la connectivité et de la politique numérique.\n\n**(6)** Le président convoque la commission, fixe l’horaire et l’ordre du jour des réunions et dirige les débats.\n\n**(7)** La commission est assistée dans ses missions par des agents du Service des médias, de la connectivité et de la politique numérique.\n\n**(8)** La commission ne peut adopter un avis que si la majorité de ses membres est présente. Les avis sont adoptés à la majorité des voix des membres présents. En cas d’égalité des voix, celle du président est prépondérante.\n\n**(9)** La commission peut entendre, lorsqu’elle le juge utile, un représentant de l’éditeur demandeur de l’aide. L’éditeur demandeur de l’aide a également le droit d’être entendu, sur sa demande, par la commission.\n\n**(10)** Le secrétariat établit un compte rendu des délibérations qui est soumis pour approbation à la commission et publié.\n\n**(11)** Les membres et secrétaires de la commission sont tenus au secret des délibérations et ne peuvent pas divulguer à des tiers les informations qu’ils ont obtenues dans l’accomplissement de leur mission.\n\n**(12)** La commission peut procéder au contrôle des critères par tous les moyens, se faire assister par des experts, requérir des documents supplémentaires et proposer des audits.",
+      "text_sha256": "0f54b883faa8af1fcce03814913248c6e35e3c378036d99c5d6c6bc163112e3d",
+      "md_span": {
+        "start": 17624,
+        "end": 20548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_15/20210815",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Restitution"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "**(1)** Dès qu’un éditeur bénéficiaire de l’aide ne répond plus à un des critères d’éligibilité ou cesse son activité, il en informe le ministre sans délai.\n\n**(2)** Dans les cas visés au paragraphe 1er, l’éditeur rembourse partiellement ou totalement l’aide qui lui a été accordée. Il en est de même pour l’éditeur qui a sciemment fourni des renseignements inexacts ou incomplets.\n\n**(3)** Le ministre constate les faits entraînant la perte du bénéfice de l’aide sur avis de la commission. Il en est de même de la fixation des montants à rembourser par l’éditeur défaillant.",
+      "text_sha256": "14fd26f3286f0074119149386c8d71a25329221b60ccd0fdba7926a0516ba21d",
+      "md_span": {
+        "start": 20614,
+        "end": 21189
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_16/20210815",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 10 — Suspension de l’octroi des aides"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Aucune aide prévue par la présente loi ne peut être accordée avant la décision finale de la Commission européenne déclarant compatible avec le marché intérieur le régime d’aide institué par la présente loi. Le ministre ayant les Médias dans ses attributions publie au Journal officiel du Grand-Duché de Luxembourg un avis renseignant sur la décision de la Commission européenne et indiquant les références de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "d00a0a3f260a80e2497cee3b416dc32487f0f800a2645699528f7342eb9cb328",
+      "md_span": {
+        "start": 21277,
+        "end": 21743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_17/20210815",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 11 — Dispositions financières"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "L’octroi des aides prévues à l’article 4, paragraphe 3, et à l’article 10 se fait dans la limite des crédits prévus par la loi budgétaire annuelle et peut être adapté au prorata des crédits budgétaires disponibles.",
+      "text_sha256": "8cfa18b3893dad729b265276a5e835869194f987518114fdc3d677e0eaf7e2e7",
+      "md_span": {
+        "start": 21823,
+        "end": 22037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_18/20210815",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 12 — Disposition pénale"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "Les personnes qui ont obtenu une aide en application de la présente loi sur base de renseignements sciemment inexacts sont passibles des peines prévues à l’article 496 du Code pénal.",
+      "text_sha256": "7754c539a9fe15d653165ea14f6dc2c2a9b85321ea391b8e8ca11ccf6e269782",
+      "md_span": {
+        "start": 22111,
+        "end": 22293
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_19/20210815",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 13 — Disposition abrogatoire"
+      ],
+      "article_valid_from": "2021-08-15",
+      "text_md": "La loi modifiée du 3 août 1998 sur la promotion de la presse écrite est abrogée.",
+      "text_sha256": "dcf1fed3138d2c102bb130df5fa9e0add853c588953546bac1cbb34107a2aa67",
+      "md_span": {
+        "start": 22372,
+        "end": 22452
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n13/jo",
+          "text": "loi modifiée du 3 août 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2021-07-30-a601:2026-08-02--c096a22b791addab4108d731fa24498e7301583bbe0c5540556f4330d854ac6e#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/art_20/20260802",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 14 — Disposition transitoire"
+      ],
+      "article_valid_from": "2026-08-02",
+      "text_md": "**(1)** Les éditeurs qui, sous le régime de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite, ont obtenu, en 2019 un montant total plus élevé que le montant total résultant de l’application de l’article 4, bénéficient, sur demande et pour le même type de publication de presse, jusqu’au 31 décembre 2027, d’une compensation annuelle équivalant à la différence entre les deux montants.\n\nLe montant de la compensation annuelle est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant. Cette disposition entre en vigueur avec effet rétroactif au 30 juillet 2021.\n\nLe bénéfice de ce régime transitoire est lié à la condition du maintien de l’emploi des journalistes professionnels par rapport à l’effectif moyen en 2019, sans diminution, en dehors de cas de force majeure ou de circonstances exceptionnelles dûment justifiées.\n\n**(2)** La compensation annuelle est affectée à des dépenses directement liées à l’édition, à l’autopromotion ou à l’innovation de la publication de presse.",
+      "text_sha256": "ff1280a5211d90f8744489c633f313ebf0a401c025165bfa94fedc51608ffd3f",
+      "md_span": {
+        "start": 22531,
+        "end": 23777
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n13/jo",
+          "text": "loi modifiée du 3 août 1998"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

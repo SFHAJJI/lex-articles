@@ -5,14 +5,14 @@
     "html-eu-tolerant/1",
     "xhtml-eu-xlink-context/1"
   ],
-  "primary_language": "en",
+  "primary_language": "fr",
   "anchors": {
     "clanok_1": [
       {
         "valid_from": "2000-10-21",
         "valid_to": "2006-12-31",
         "text_sha256": "de3fa5c76665d8f0724206c9c8aa36c72304b03f166e3f72dff909e47c15f923",
-        "in_version": "eu-eurlex:32000l0065:2000-10-21"
+        "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       }
     ],
     "clanok_2": [
@@ -20,7 +20,7 @@
         "valid_from": "2000-10-21",
         "valid_to": "2006-12-31",
         "text_sha256": "97d8af42bec3f53eb7711e271e61c613e4f4c227ce13cdd40afbbcbc32b2851a",
-        "in_version": "eu-eurlex:32000l0065:2000-10-21"
+        "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       }
     ],
     "clanok_3": [
@@ -28,7 +28,7 @@
         "valid_from": "2000-10-21",
         "valid_to": "2006-12-31",
         "text_sha256": "3314c86bdea1336522a938fe68bdaca0074611afc33252b252fed91272263273",
-        "in_version": "eu-eurlex:32000l0065:2000-10-21"
+        "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       }
     ],
     "clanok_4": [
@@ -36,21 +36,21 @@
         "valid_from": "2000-10-21",
         "valid_to": "2006-12-31",
         "text_sha256": "7b22766b7e5fdb8ac7d3710b9883d9c2cfd085027882f18b36a6ecb263b013ff",
-        "in_version": "eu-eurlex:32000l0065:2000-10-21"
+        "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       }
     ],
     "document": [
       {
         "valid_from": "2000-10-17",
         "valid_to": "2000-10-20",
-        "text_sha256": "306c1453a8b4dc824d9e3487afdcff8db250d3eb375eadec450fdd4872e08ba8",
-        "in_version": "eu-eurlex:32000l0065:2000-10-17"
+        "text_sha256": "29fa080710ab261b856741040b613f95d1ddb6a55f8dbea54d9f0bbe4b4e7697",
+        "in_version": "eu-eurlex:32000l0065:2000-10-17--97cad8aebb9fbafab29f0b7a9849c80b08dc5dfbb0cde7d52848bb4b4070df67"
       },
       {
         "valid_from": "2007-01-01",
         "valid_to": null,
-        "text_sha256": "9ad70a2ffcd38c8eefbfc296501c993d686519d61ad1047d1c2c8f27f2129bee",
-        "in_version": "eu-eurlex:32000l0065:2007-01-01"
+        "text_sha256": "20bef02f211bab52118ea83d732c90223f2b14390f2c2fcbde5f7a3964633756",
+        "in_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       }
     ]
   },
@@ -58,100 +58,62 @@
     {
       "type": "removed",
       "anchor": "document",
-      "at_version": "eu-eurlex:32000l0065:2000-10-21"
+      "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
     },
     {
       "type": "inserted",
       "anchor": "clanok_1",
-      "at_version": "eu-eurlex:32000l0065:2000-10-21"
+      "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
     },
     {
       "type": "inserted",
       "anchor": "clanok_2",
-      "at_version": "eu-eurlex:32000l0065:2000-10-21"
+      "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
     },
     {
       "type": "inserted",
       "anchor": "clanok_3",
-      "at_version": "eu-eurlex:32000l0065:2000-10-21"
+      "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
     },
     {
       "type": "inserted",
       "anchor": "clanok_4",
-      "at_version": "eu-eurlex:32000l0065:2000-10-21"
+      "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
     },
     {
       "type": "removed",
       "anchor": "clanok_1",
-      "at_version": "eu-eurlex:32000l0065:2007-01-01"
+      "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
     },
     {
       "type": "removed",
       "anchor": "clanok_2",
-      "at_version": "eu-eurlex:32000l0065:2007-01-01"
+      "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
     },
     {
       "type": "removed",
       "anchor": "clanok_3",
-      "at_version": "eu-eurlex:32000l0065:2007-01-01"
+      "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
     },
     {
       "type": "removed",
       "anchor": "clanok_4",
-      "at_version": "eu-eurlex:32000l0065:2007-01-01"
+      "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
     },
     {
       "type": "inserted",
       "anchor": "document",
-      "at_version": "eu-eurlex:32000l0065:2007-01-01"
+      "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
     }
   ],
   "anchors_by_language": {
     "en": {
-      "clanok_1": [
-        {
-          "valid_from": "2000-10-21",
-          "valid_to": "2006-12-31",
-          "text_sha256": "de3fa5c76665d8f0724206c9c8aa36c72304b03f166e3f72dff909e47c15f923",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
-        }
-      ],
-      "clanok_2": [
-        {
-          "valid_from": "2000-10-21",
-          "valid_to": "2006-12-31",
-          "text_sha256": "97d8af42bec3f53eb7711e271e61c613e4f4c227ce13cdd40afbbcbc32b2851a",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
-        }
-      ],
-      "clanok_3": [
-        {
-          "valid_from": "2000-10-21",
-          "valid_to": "2006-12-31",
-          "text_sha256": "3314c86bdea1336522a938fe68bdaca0074611afc33252b252fed91272263273",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
-        }
-      ],
-      "clanok_4": [
-        {
-          "valid_from": "2000-10-21",
-          "valid_to": "2006-12-31",
-          "text_sha256": "7b22766b7e5fdb8ac7d3710b9883d9c2cfd085027882f18b36a6ecb263b013ff",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
-        }
-      ],
       "document": [
         {
           "valid_from": "2000-10-17",
           "valid_to": "2000-10-20",
           "text_sha256": "306c1453a8b4dc824d9e3487afdcff8db250d3eb375eadec450fdd4872e08ba8",
-          "in_version": "eu-eurlex:32000l0065:2000-10-17"
-        },
-        {
-          "valid_from": "2007-01-01",
-          "valid_to": null,
-          "text_sha256": "9ad70a2ffcd38c8eefbfc296501c993d686519d61ad1047d1c2c8f27f2129bee",
-          "in_version": "eu-eurlex:32000l0065:2007-01-01"
+          "in_version": "eu-eurlex:32000l0065:2000-10-17--97cad8aebb9fbafab29f0b7a9849c80b08dc5dfbb0cde7d52848bb4b4070df67"
         }
       ]
     },
@@ -161,7 +123,7 @@
           "valid_from": "2000-10-21",
           "valid_to": "2006-12-31",
           "text_sha256": "de3fa5c76665d8f0724206c9c8aa36c72304b03f166e3f72dff909e47c15f923",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
+          "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
         }
       ],
       "clanok_2": [
@@ -169,7 +131,7 @@
           "valid_from": "2000-10-21",
           "valid_to": "2006-12-31",
           "text_sha256": "97d8af42bec3f53eb7711e271e61c613e4f4c227ce13cdd40afbbcbc32b2851a",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
+          "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
         }
       ],
       "clanok_3": [
@@ -177,7 +139,7 @@
           "valid_from": "2000-10-21",
           "valid_to": "2006-12-31",
           "text_sha256": "3314c86bdea1336522a938fe68bdaca0074611afc33252b252fed91272263273",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
+          "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
         }
       ],
       "clanok_4": [
@@ -185,7 +147,7 @@
           "valid_from": "2000-10-21",
           "valid_to": "2006-12-31",
           "text_sha256": "7b22766b7e5fdb8ac7d3710b9883d9c2cfd085027882f18b36a6ecb263b013ff",
-          "in_version": "eu-eurlex:32000l0065:2000-10-21"
+          "in_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
         }
       ],
       "document": [
@@ -193,120 +155,69 @@
           "valid_from": "2000-10-17",
           "valid_to": "2000-10-20",
           "text_sha256": "29fa080710ab261b856741040b613f95d1ddb6a55f8dbea54d9f0bbe4b4e7697",
-          "in_version": "eu-eurlex:32000l0065:2000-10-17"
+          "in_version": "eu-eurlex:32000l0065:2000-10-17--97cad8aebb9fbafab29f0b7a9849c80b08dc5dfbb0cde7d52848bb4b4070df67"
         },
         {
           "valid_from": "2007-01-01",
           "valid_to": null,
           "text_sha256": "20bef02f211bab52118ea83d732c90223f2b14390f2c2fcbde5f7a3964633756",
-          "in_version": "eu-eurlex:32000l0065:2007-01-01"
+          "in_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
         }
       ]
     }
   },
   "anchor_events_by_language": {
-    "en": [
-      {
-        "type": "removed",
-        "anchor": "document",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
-      },
-      {
-        "type": "inserted",
-        "anchor": "clanok_1",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
-      },
-      {
-        "type": "inserted",
-        "anchor": "clanok_2",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
-      },
-      {
-        "type": "inserted",
-        "anchor": "clanok_3",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
-      },
-      {
-        "type": "inserted",
-        "anchor": "clanok_4",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
-      },
-      {
-        "type": "removed",
-        "anchor": "clanok_1",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
-      },
-      {
-        "type": "removed",
-        "anchor": "clanok_2",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
-      },
-      {
-        "type": "removed",
-        "anchor": "clanok_3",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
-      },
-      {
-        "type": "removed",
-        "anchor": "clanok_4",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
-      },
-      {
-        "type": "inserted",
-        "anchor": "document",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
-      }
-    ],
+    "en": [],
     "fr": [
       {
         "type": "removed",
         "anchor": "document",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
+        "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       },
       {
         "type": "inserted",
         "anchor": "clanok_1",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
+        "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       },
       {
         "type": "inserted",
         "anchor": "clanok_2",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
+        "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       },
       {
         "type": "inserted",
         "anchor": "clanok_3",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
+        "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       },
       {
         "type": "inserted",
         "anchor": "clanok_4",
-        "at_version": "eu-eurlex:32000l0065:2000-10-21"
+        "at_version": "eu-eurlex:32000l0065:2000-10-21--085ace32bdf1fd12033cb4eae929e880104d91b1a7d6528b44d18a647984a39d"
       },
       {
         "type": "removed",
         "anchor": "clanok_1",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
+        "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       },
       {
         "type": "removed",
         "anchor": "clanok_2",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
+        "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       },
       {
         "type": "removed",
         "anchor": "clanok_3",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
+        "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       },
       {
         "type": "removed",
         "anchor": "clanok_4",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
+        "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       },
       {
         "type": "inserted",
         "anchor": "document",
-        "at_version": "eu-eurlex:32000l0065:2007-01-01"
+        "at_version": "eu-eurlex:32000l0065:2007-01-01--b9718185d333469597aa5e0eab4f3e2b0b5a1710d3b7f84a24cf929b49e52031"
       }
     ]
   }

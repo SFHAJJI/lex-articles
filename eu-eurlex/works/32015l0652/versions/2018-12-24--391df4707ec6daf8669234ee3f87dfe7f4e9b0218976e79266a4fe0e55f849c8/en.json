@@ -1,0 +1,201 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8",
+  "language": "en",
+  "title": "Council Directive (EU) 2015/652 of 20 April 2015 laying down calculation methods and reporting requirements pursuant to Directive 98/70/EC",
+  "valid_from": "2018-12-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015l0652/versions/2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8/en.html",
+    "sha256": "6e73487528957e88bcdac4e9d35ca4c29960cd108e8ca669b2355edd8c65b43d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L0652-20181224"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter — Scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** This Directive lays down rules on calculation methods and reporting requirements in accordance with Directive 98/70/EC.\n\n**2.** This Directive applies to fuels used to propel road vehicles, non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, recreational craft when not at sea and electricity for use in road vehicles.",
+      "text_sha256": "a12fd3f98aedc7f49841267a34015219414c55147d7c356eaf405065addfce4f",
+      "md_span": {
+        "start": 787,
+        "end": 1175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive, and in addition to the definitions already contained in Directive 98/70/EC, the following definitions apply:\n\n(1) ‘upstream emissions’ means all greenhouse gas emissions occurring prior to the raw material entering a refinery or a processing plant where the fuel, as referred to in Annex I, was produced;\n\n(2) ‘natural bitumen’ means any source of refinery raw material that: (a) has an American Petroleum Institute (API) gravity of 10 degrees or less when situated in a reservoir formation at the place of extraction as defined pursuant to the testing method of the American Society for Testing and Materials (ASTM) (1) D287; (b) has an annual average viscosity at reservoir temperature greater than that calculated by the equation: Viscosity (Centipoise) = 518,98e-0,038T, where T is the temperature in Celsius; (c) falls within the definition for tar sands under combined nomenclature (CN) code 2714 as outlined in Council Regulation (EEC) No 2658/87 (2); and (d) where the mobilisation of the source of the raw material is achieved by mining extraction or thermally enhanced gravity drainage where the thermal energy is mainly derived from sources other than the feedstock source itself;\n\n(3) ‘oil shale’ means any source of refinery raw material as situated in a rock formation containing solid kerogen and falling within the definition for oil shale under CN code 2714 as outlined in Regulation (EEC) No 2658/87. Mobilisation of the source of the raw material is achieved by mining extraction or thermally enhanced gravity drainage;\n\n(4) ‘fuel baseline standard’ means a fuel baseline standard based on the life cycle greenhouse gas emissions per unit of energy from fossil fuels in 2010;\n\n(5) ‘conventional crude’ means any refinery raw material exhibiting an API gravity that is higher than 10 degrees when situated in a reservoir formation at its place of origin as measured per testing method ASTM D287, and not falling within the definition for CN code 2714 as set out in Regulation (EEC) No 2658/87.",
+      "text_sha256": "5494427a22450c6744dec5be0f30811062fd20e9f4e8453dd3beac83ad48b704",
+      "md_span": {
+        "start": 1226,
+        "end": 3273
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Method for calculating the greenhouse gas intensity of fuels and energy supplied other than biofuels and reporting by suppliers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of Article 7a(2) of Directive 98/70/EC, Member States shall ensure that suppliers use the calculation method set out in Annex I to this Directive to determine the greenhouse gas intensity of the fuels they supply.\n\n**2.** For the purposes of the second subparagraph of Article 7a(1) and of Article 7a(2) of Directive 98/70/EC, Member States shall require suppliers to report data using the definitions and the calculation method set out in Annex I to this Directive. The data shall be reported annually using the template set out in Annex IV to this Directive.\n\n**3.** For the purposes of Article 7a(4) of Directive 98/70/EC, any Member State shall ensure that a group of suppliers choosing to be considered as a single supplier meets its obligation under Article 7a(2) within that Member State.\n\n**4.** For suppliers that are SMEs, Member States shall apply the simplified method set out in Annex I to this Directive.",
+      "text_sha256": "127260a8424bd335770ea661fbc8cfa7eff06082da66b01162a429bf21c5b92c",
+      "md_span": {
+        "start": 3440,
+        "end": 4382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Calculation of fuel baseline standard and greenhouse gas intensity reduction",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of verifying compliance by suppliers with their obligation under Article 7a(2) of Directive 98/70/EC, Member States shall require suppliers to compare their achieved reductions of life cycle greenhouse gas emissions from fuels and from electricity to the fuel baseline standard set out in Annex II to this Directive.",
+      "text_sha256": "169fe530d491907438d56e7e46e417c029044b4064ea10d80507d9cafe359158",
+      "md_span": {
+        "start": 4498,
+        "end": 4831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Reporting by Member States",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Each year by 31 December Member States shall provide the Commission with data for the preceding calendar year related to compliance with Article 7a of Directive 98/70/EC, as defined in Annex III to this Directive.\n\n**2.** Member States shall use the ReportNet tools of the European Environment Agency provided pursuant to Regulation (EC) No 401/2009 of the European Parliament and of the Council (3) for the submission of the data set out in Annex III to this Directive. The data shall be transmitted by the Member States by means of electronic data transfer to the Central Data Repository managed by the European Environment Agency.\n\n**3.** The data shall be provided annually using the template set out in Annex IV. Member States shall notify the Commission of the date of transmission and the contact name of the competent authority responsible for verifying and reporting the data to the Commission.",
+      "text_sha256": "0d118139444a78e377418ffd0b928a45896ba6d36ec07a67bf882c73a4aadd38",
+      "md_span": {
+        "start": 4897,
+        "end": 5807
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1999",
+          "text": "32018R1999: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32015L0652",
+          "text": "32015L0652"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Penalties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission by 21 April 2017 and shall notify it without delay of any subsequent amendment affecting them.",
+      "text_sha256": "5b8d915956b63b61521d086c00817506778d3864499cc17f99c9083926364276",
+      "md_span": {
+        "start": 5856,
+        "end": 6301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Transposition",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 21 April 2017 at the latest. They shall immediately inform the Commission thereof.\n\n**2.** When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n**3.** Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "1032c74151e31ece5184557b6c36c9c047b2342527a76dca45afd03bf3eacc77",
+      "md_span": {
+        "start": 6354,
+        "end": 6999
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "3bc31fb8ae89e657fb7aef23104946d3c243101380316bd81ec120a825b01fcd",
+      "md_span": {
+        "start": 7055,
+        "end": 7196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32015l0652:2018-12-24--391df4707ec6daf8669234ee3f87dfe7f4e9b0218976e79266a4fe0e55f849c8#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Addressees",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 7246,
+        "end": 7295
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

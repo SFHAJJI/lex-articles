@@ -1,0 +1,69 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1570 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1570/versions/2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335/en.html",
+    "sha256": "89e4f1a024b1cffb009757ed578016967fd48fc1ca3d0aa92244bae66fc0c1e4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R1570-20250730"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The notification referred to in Article 31(1) of Regulation (EU) No 910/2014 shall contain at least the information set out in the Annex to this Regulation and shall be made in electronic form through a secure electronic channel made available by the Commission.\n\n**2.** Where there are any changes to the submitted information after the initial submission, including changes to the certification status of qualified electronic signature creation devices and qualified electronic seal creation devices, Member States shall submit the updated information with the relevant accompanying documents through the channel referred to in paragraph 1.",
+      "text_sha256": "6ece723a01c901d9343c19b46b405d2d152107da3fc9633d89cc4ff336334691",
+      "md_span": {
+        "start": 758,
+        "end": 1407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1570:2025-07-30--c36e11a592405d04891ab1cf6174cefaae88e27d00da6b4a2a0bb953f7009335#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall apply from 19 November 2025.",
+      "text_sha256": "8c88c7fe2d60f67ad5bc422cd1824f40ea0f8d508847da12fd1b42803a0dad2a",
+      "md_span": {
+        "start": 1444,
+        "end": 1638
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1570R%2801%29",
+          "text": "32025R1570R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1570",
+          "text": "32025R1570"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

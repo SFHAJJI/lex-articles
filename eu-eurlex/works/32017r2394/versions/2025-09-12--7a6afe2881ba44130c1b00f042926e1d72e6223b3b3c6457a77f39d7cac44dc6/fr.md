@@ -1,0 +1,519 @@
+---
+lex_id: 'eu-eurlex:32017r2394:2025-09-12--7a6afe2881ba44130c1b00f042926e1d72e6223b3b3c6457a77f39d7cac44dc6'
+title: 'Regulation (EU) 2017/2394'
+valid_from: '2025-09-12'
+valid_to: '2026-07-30'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R2394-20250912'
+source_sha256: 'cd7cde24a50d8bfad27c183bc9d775d04d414b2023a70e0dd70ac7063a63ca66'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPITRE I — DISPOSITIONS INTRODUCTIVES
+
+<a id="art_1"></a>
+
+### Article premier — Objet
+
+Le présent règlement fixe les conditions dans lesquelles les autorités compétentes désignées par leurs États membres comme responsables du contrôle de l’application des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs, coopèrent et coordonnent des actions entre elles et avec la Commission afin de garantir le respect de ces dispositions et d’assurer le bon fonctionnement du marché intérieur et afin d’améliorer la protection des intérêts économiques des consommateurs.
+
+<a id="art_2"></a>
+
+### Article 2 — Champ d’application
+
+**1.** Le présent règlement s’applique aux infractions internes à l’Union, aux infractions de grande ampleur et aux infractions de grande ampleur à l’échelle de l’Union, même si celles-ci ont pris fin avant que l’exécution ait débuté ou ait été achevée.
+
+**2.** Le présent règlement s’entend sans préjudice des règles de droit international privé de l’Union, notamment celles relatives à la compétence judiciaire et au droit applicable.
+
+**3.** Le présent règlement s’entend sans préjudice de l’application, dans les États membres, des mesures relatives à la coopération judiciaire en matière civile et pénale, en particulier le fonctionnement du réseau judiciaire européen.
+
+**4.** Le présent règlement s’entend sans préjudice du respect par les États membres de toute autre obligation en matière d’assistance mutuelle en ce qui concerne la protection des intérêts économiques collectifs des consommateurs, y compris dans les matières pénales découlant d’autres actes juridiques, y compris des accords bilatéraux ou multilatéraux.
+
+**5.** Le présent règlement s’entend sans préjudice de la directive 2009/22/CE du Parlement européen et du Conseil (1).
+
+**6.** Le présent règlement s’entend sans préjudice de la possibilité d’intenter de nouvelles actions d’exécution à caractère public ou privé au titre du droit national.
+
+**7.** Le présent règlement s’entend sans préjudice des dispositions pertinentes du droit de l’Union applicables à la protection des personnes physiques à l’égard du traitement des données à caractère personnel.
+
+**8.** Le présent règlement s’entend sans préjudice des dispositions de droit national applicables à l’indemnisation des consommateurs lésés par une infraction aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs.
+
+**9.** Le présent règlement ne porte pas atteinte au droit des autorités compétentes de mener des enquêtes et des actions d’exécution à l’encontre de plusieurs professionnels commettant des infractions similaires couvertes par le présent règlement.
+
+**10.** Le chapitre III du présent règlement ne s’applique pas aux infractions internes à l’Union qui sont en violation des directives 2014/17/UE et 2014/92/UE.
+
+<a id="art_3"></a>
+
+### Article 3 — Définitions
+
+Aux fins du présent règlement, on entend par:
+
+1) «dispositions du droit de l’Union en matière de protection des intérêts des consommateurs», les règlements et les directives telles qu’elles ont été transposées dans l’ordre juridique interne des États membres, qui sont énumérés à l’annexe du présent règlement;
+
+2) «infraction interne à l’Union», tout acte ou omission contraire aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs, qui a porté, porte ou est susceptible de porter atteinte aux intérêts collectifs des consommateurs résidant dans un État membre autre que celui: a) où l’acte ou l’omission en question a son origine ou a eu lieu; b) sur le territoire duquel le professionnel responsable de l’acte ou de l’omission est établi; ou c) dans lequel se trouvent des éléments de preuve ou des actifs du professionnel en rapport avec l’acte ou l’omission;
+
+3) «infraction de grande ampleur», a) tout acte ou omission contraire aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs, qui a porté, porte ou est susceptible de porter atteinte aux intérêts collectifs des consommateurs résidant dans au moins deux États membres autres que celui: i) où l’acte ou l’omission en question a son origine ou a eu lieu; ii) sur le territoire duquel le professionnel responsable de l’acte ou de l’omission est établi; ou iii) dans lequel se trouvent des éléments de preuve ou des actifs du professionnel en rapport avec l’acte ou l’omission; ou b) tous les actes ou omissions contraires aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs, qui ont porté, portent ou sont susceptibles de porter atteinte aux intérêts collectifs des consommateurs et qui présentent des caractéristiques communes, dont la pratique illégale identique, la violation du même intérêt et la simultanéité de l’infraction, commise par le même professionnel, dans trois États membres au minimum;
+
+4) «infraction de grande ampleur à l’échelle de l’Union», une infraction de grande ampleur qui a porté, porte ou est susceptible de porter atteinte aux intérêts collectifs des consommateurs dans au moins deux tiers des États membres représentant une population cumulée d’au moins deux tiers de la population de l’Union;
+
+5) «infractions couvertes par le présent règlement», les infractions internes à l’Union, les infractions de grande ampleur et les infractions de grande ampleur à l’échelle de l’Union;
+
+6) «autorité compétente», toute autorité publique, établie au niveau national, régional ou local et désignée par un État membre comme responsable du respect des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs;
+
+7) «bureau de liaison unique», l’autorité publique désignée par un État membre comme responsable de la coordination de l’application du présent règlement dans l’État membre en question;
+
+8) «organisme désigné», un organisme ayant un intérêt légitime à voir cesser ou interdire les infractions aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs, désigné par un État membre et chargé par une autorité compétente de rassembler les informations nécessaires et de prendre les mesures d’exécution nécessaires prévues par le droit national pour faire cesser ou interdire l’infraction au nom de cette autorité compétente;
+
+9) «autorité requérante», l’autorité compétente qui formule une demande d’assistance mutuelle;
+
+10) «autorité requise», l’autorité compétente qui reçoit une demande d’assistance mutuelle;
+
+11) «professionnel», toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
+
+12) «consommateur», toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
+
+13) «réclamation d’un consommateur», une déclaration, étayée par des preuves suffisantes, selon laquelle un professionnel a commis, commet ou est susceptible de commettre une infraction aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs;
+
+14) «atteinte aux intérêts collectifs des consommateurs», le préjudice réel ou potentiel à l’encontre des intérêts d’un certain nombre de consommateurs affectés par des infractions internes à l’Union, par des infractions de grande ampleur ou des infractions de grande ampleur à l’échelle de l’Union;
+
+15) «interface en ligne», tout logiciel, y compris un site internet, une partie de site internet ou une application, exploité par un professionnel ou pour son compte et permettant aux consommateurs d’accéder aux biens ou aux services qu’il propose;
+
+16) «opérations “coup de balai”», une enquête concertée sur les marchés de consommation au moyen d’actions de contrôle coordonnées et simultanées pour contrôler le respect des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs ou déceler les infractions auxdites dispositions.
+
+<a id="art_4"></a>
+
+### Article 4 — Notification des délais de prescription
+
+Chaque bureau de liaison unique notifie à la Commission les délais de prescription en vigueur dans son propre État membre et qui s’appliquent aux mesures d’exécution visées à l’article 9, paragraphe 4. La Commission établit une synthèse des délais de prescription notifiés, qu’elle met à la disposition des autorités compétentes.
+
+## CHAPITRE II — AUTORITÉS COMPÉTENTES ET PRÉROGATIVES DE CES AUTORITÉS
+
+<a id="art_5"></a>
+
+### Article 5 — Autorités compétentes et bureaux de liaison uniques
+
+**1.** Chaque État membre désigne une ou plusieurs autorités compétentes et le bureau de liaison unique qui sont responsables de l’application du présent règlement.
+
+**2.** Les autorités compétentes remplissent leurs obligations au titre du présent règlement comme si elles agissaient dans l’intérêt des consommateurs de leur propre État membre et pour leur propre compte.
+
+**3.** Dans chaque État membre, le bureau de liaison unique est chargé de coordonner les activités d’enquête et d’exécution de la législation des autorités compétentes, d’autres autorités publiques visées à l’article 6 et, le cas échéant, des organismes désignés en rapport avec les infractions couvertes par le présent règlement.
+
+**4.** Les États membres veillent à ce que les autorités compétentes et les bureaux de liaison uniques disposent des ressources nécessaires à l’application du présent règlement ainsi que de ressources budgétaires et d’autres ressources, compétences, procédures et autres mécanismes en suffisance.
+
+**5.** Les États membres qui comptent plus d’une autorité compétente sur leur territoire veillent à ce que les fonctions respectives de ces autorités compétentes soient clairement définies et à ce que lesdites autorités collaborent étroitement, de façon à s’acquitter efficacement de ces fonctions.
+
+<a id="art_6"></a>
+
+### Article 6 — Coopération aux fins de l’application du présent règlement au sein des États membres
+
+**1.** Aux fins de la bonne application du présent règlement, chaque État membre veille à ce que ses autorités compétentes, les autres autorités publiques et, le cas échéant, les organismes désignés coopèrent de façon efficace.
+
+**2.** Les autres autorités publiques visées au paragraphe 1 prennent, à la demande d’une autorité compétente, toutes les mesures nécessaires prévues par le droit national afin de faire cesser ou d’interdire les infractions couvertes par le présent règlement.
+
+**3.** Les États membres veillent à ce que les autres autorités publiques visées au paragraphe 1 disposent des moyens et des pouvoirs nécessaires pour coopérer efficacement avec les autorités compétentes aux fins de l’application du présent règlement. Ces autres autorités publiques informent régulièrement les autorités compétentes des mesures prises en application du présent règlement.
+
+<a id="art_7"></a>
+
+### Article 7 — Rôle des organismes désignés
+
+**1.** Le cas échéant, une autorité compétente (ci-après dénommée «autorité ordonnatrice») peut, conformément à son droit national, charger un organisme désigné de rassembler les informations nécessaires concernant une infraction couverte par le présent règlement, ou de prendre les mesures d’exécution nécessaires prévues en droit national pour faire cesser ou interdire cette infraction. L’autorité ordonnatrice ne peut charger de ces tâches un organisme désigné que si, après consultation de l’autorité requérante ou des autres autorités compétentes concernées par l’infraction couverte par le présent règlement, l’autorité requérante et l’autorité requise ou toutes les autorités compétentes concernées s’accordent sur le fait que l’organisme désigné est susceptible d’obtenir les informations nécessaires ou de faire cesser ou d’interdire l’infraction d’une manière au moins aussi efficace et effective que ne l’aurait fait l’autorité ordonnatrice.
+
+**2.** Si l’autorité requérante ou les autres autorités compétentes concernées par une infraction couverte par le présent règlement estiment que les conditions énoncées au paragraphe 1 ne sont pas remplies, elles en informent par écrit l’autorité ordonnatrice sans tarder, motifs à l’appui. En cas de désaccord, l’autorité ordonnatrice peut saisir la Commission, qui rend un avis sur ce point dans les meilleurs délais.
+
+**3.** L’autorité ordonnatrice continue d’être tenue de rassembler les informations nécessaires ou de prendre les mesures d’exécution nécessaires si:a) l’organisme désigné ne parvient pas à obtenir les informations nécessaires ou à faire cesser ou interdire l’infraction couverte par le présent règlement sans tarder; oub) les autorités compétentes concernées par une infraction couverte par le présent règlement ne s’accordent pas sur le fait que l’organisme désigné peut être chargé des tâches visées au paragraphe 1.
+
+**4.** L’autorité ordonnatrice prend toutes les mesures nécessaires pour empêcher la divulgation d’informations soumises aux règles relatives à la confidentialité et au secret professionnel et commercial énoncées à l’article 33.
+
+<a id="art_8"></a>
+
+### Article 8 — Informations et listes
+
+**1.** Chaque État membre communique sans tarder à la Commission les informations suivantes et toute modification de celles-ci:a) l’identité et les coordonnées des autorités compétentes, du bureau de liaison unique, des organismes désignés et des entités lançant des alertes externes au titre de l’article 27, paragraphe 1; etb) des informations sur l’organisation, les pouvoirs et les responsabilités des autorités compétentes.
+
+**2.** La Commission tient et met à jour, sur son site internet, une liste, mise à la disposition du public, des autorités compétentes, des bureaux de liaison uniques, des organismes désignés et des entités lançant des alertes externes au titre de l’article 27, paragraphe 1 ou 2.
+
+<a id="art_9"></a>
+
+### Article 9 — Pouvoirs minimums des autorités compétentes
+
+**1.** Chaque autorité compétente dispose, conformément aux paragraphes 3, 4, 6 et 7 du présent article, des pouvoirs d’enquête et d’exécution minimums nécessaires à l’application du présent règlement et les exerce conformément à l’article 10.
+
+**2.** Nonobstant le paragraphe 1, les États membres peuvent décider de ne pas conférer tous les pouvoirs à chaque autorité compétente, pour autant que chacun desdits pouvoirs puisse être effectivement exercé si nécessaire à l’égard de toute infraction couverte par le présent règlement par au moins une autorité compétente conformément à l’article 10.
+
+**3.** Les autorités compétentes disposent au moins des pouvoirs d’enquête suivants:a) le pouvoir d’avoir accès à tout document, donnée ou information pertinents ayant trait à une infraction couverte par le présent règlement, sous quelque forme ou format que ce soit et quel que soit leur support de stockage ou l’endroit où ils sont stockés;b) le pouvoir d’exiger de la part de toute autorité publique, de tout organisme ou agence de leur État membre ou de toute personne physique ou morale, la fourniture de tout document, donnée ou information pertinents, sous quelque forme ou format que ce soit et quel que soit leur support de stockage ou l’endroit où ils sont stockés, aux fins de déterminer si une infraction couverte par le présent règlement a été commise ou est commise et aux fins d’établir les détails de cette infraction, y compris par le suivi des flux financiers et des flux de données, en obtenant l’identité des personnes impliquées dans des flux financiers et des flux de données et en obtenant des informations bancaires et l’identité des propriétaires de sites internet;c) le pouvoir d’effectuer les inspections sur place nécessaires, y compris celui d’accéder à tous les locaux, terrains ou moyens de transport que le professionnel concerné par l’inspection utilise à des fins liées à son activité commerciale, industrielle, artisanale ou libérale, ou de demander à d’autres autorités publiques de le faire afin d’examiner, de saisir, de prendre ou d’obtenir des copies d’informations, de données ou de documents, quel que soit leur support de stockage; le pouvoir de saisir toute information, toute donnée ou tout document pendant la période requise et dans la mesure nécessaire à l’inspection; le pouvoir de demander à tout représentant ou membre du personnel du professionnel concerné par l’inspection de donner des explications sur des faits, des informations, des données ou des documents en rapport avec l’objet de l’inspection et d’enregistrer ses réponses;d) le pouvoir de procéder à des achats-tests de biens ou de services, si nécessaire sous une fausse identité, afin de détecter les infractions couvertes par le présent règlement et d’obtenir des éléments de preuve, y compris le pouvoir d’inspecter, d’observer, d’étudier, de démonter ou de tester les biens et services.
+
+**4.** Les autorités compétentes disposent au moins des pouvoirs d’exécution suivants:a) le pouvoir d’adopter des mesures provisoires afin d’éviter le risque de préjudice grave pour les intérêts collectifs des consommateurs;b) le pouvoir de chercher à obtenir ou d’accepter de la part du professionnel responsable de l’infraction couverte par le présent règlement des engagements tendant à mettre fin à l’infraction;c) le pouvoir de recevoir de la part du professionnel, sur l’initiative de ce dernier, des engagements supplémentaires en matière de mesures correctives en faveur des consommateurs affectés par l’infraction supposée couverte par le présent règlement ou, le cas échéant, de tenter d’obtenir des engagements de la part du professionnel en vue d’offrir des mesures correctives adéquates pour les consommateurs affectés par ladite infraction;d) le cas échéant, le pouvoir d’informer, par des moyens appropriés, les consommateurs qui prétendent avoir subi un préjudice à la suite d’une infraction couverte par le présent règlement des voies d’indemnisation prévues par le droit national;e) le pouvoir d’ordonner par écrit la cessation des infractions couvertes par le présent règlement;f) le pouvoir de faire cesser ou interdire les infractions couvertes par le présent règlement;g) lorsque aucun autre moyen efficace n’est disponible pour faire cesser ou interdire l’infraction couverte par le présent règlement afin de prévenir le risque de préjudice grave pour les intérêts collectifs des consommateurs:i) le pouvoir de retirer un contenu d’une interface en ligne ou de restreindre l’accès à celle-ci ou d’ordonner qu’un message d’avertissement s’affiche clairement lorsque les consommateurs accèdent à une interface en ligne;ii) le pouvoir d’ordonner à un fournisseur de services d’hébergement qu’il supprime, désactive ou restreigne l’accès à une interface en ligne; ouiii) le cas échéant, le pouvoir d’ordonner aux opérateurs de registre ou aux bureaux d’enregistrement de domaines de supprimer un nom de domaine complet et de permettre à l’autorité compétente concernée de l’enregistrer,y compris en confiant à un tiers ou à une autre autorité publique l’exécution de ces mesures;h) le pouvoir d’imposer des sanctions, telles que des amendes ou des astreintes, pour les infractions couvertes par le présent règlement ainsi que pour le non-respect d’une décision, d’une ordonnance, d’une mesure provisoire, d’un engagement du professionnel ou de toute autre mesure adoptée en vertu du présent règlement.
+
+Les sanctions visées au point h) sont effectives, proportionnées et dissuasives, conformément aux exigences des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs. Il est notamment dûment tenu compte, le cas échéant, de la nature, de la gravité et de la durée de l’infraction en question.
+
+**5.** Le pouvoir d’imposer des sanctions, telles que des amendes ou des astreintes, pour les infractions couvertes par le présent règlement s’applique à toute infraction aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs lorsque l’acte juridique correspondant de l’Union visé à l’annexe en prévoit. Cela s’entend sans préjudice du pouvoir des autorités nationales d’imposer, en vertu du droit national, des sanctions telles que des amendes administratives ou autres ou des astreintes, lorsque les actes juridiques de l’Union énumérés à l’annexe ne prévoient pas de sanctions.
+
+**6.** Les autorités compétentes ont le pouvoir d’engager, de leur propre initiative, des enquêtes ou des procédures afin de faire cesser ou d’interdire les infractions couvertes par le présent règlement.
+
+**7.** Les autorités compétentes peuvent publier toute décision définitive, tout engagement du professionnel ou toute ordonnance pris en vertu du présent règlement, y compris en rendant publique l’identité du professionnel responsable de l’infraction couverte par le présent règlement.
+
+**8.** Le cas échéant, les autorités compétentes peuvent consulter les organisations de consommateurs, les associations de professionnels, les organismes désignés ou d’autres personnes concernées au sujet de l’efficacité des engagements proposés pour mettre fin à l’infraction couverte par le présent règlement.
+
+<a id="art_10"></a>
+
+### Article 10 — Exercice des pouvoirs minimums
+
+**1.** Les pouvoirs énoncés à l’article 9 sont exercés de l’une des manières suivantes:a) directement par les autorités compétentes sous leur propre autorité;b) le cas échéant, en ayant recours à d’autres autorités compétentes ou d’autres autorités publiques;c) en recourant à des organismes désignés, le cas échéant; oud) en demandant aux juridictions compétentes de rendre la décision nécessaire, y compris, le cas échéant, en formant un recours si cette demande n’aboutit pas.
+
+**2.** La mise en œuvre et l’exercice des pouvoirs énoncés à l’article 9 en application du présent règlement sont proportionnés et conformes au droit de l’Union et au droit national, y compris aux garanties procédurales applicables et aux principes de la Charte des droits fondamentaux de l’Union européenne. Les mesures d’enquête et d’exécution adoptées en application du présent règlement sont adaptées à la nature de l’infraction aux dispositions du droit de l’Union en matière de protection des intérêts des consommateurs et au préjudice global réel ou potentiel qui en découle.
+
+## CHAPITRE III — MÉCANISME D’ASSISTANCE MUTUELLE
+
+<a id="art_11"></a>
+
+### Article 11 — Demandes d’information
+
+**1.** À la demande de l’autorité requérante, l’autorité requise fournit à celle-ci, sans tarder et en tout état de cause dans un délai de trente jours, sauf s’il en a été convenu autrement, toute information pertinente nécessaire pour établir si une infraction interne à l’Union a été commise ou est commise ainsi que pour y mettre fin.
+
+**2.** L’autorité requise procède aux enquêtes appropriées et nécessaires ou prend toute autre mesure nécessaire ou appropriée pour réunir les informations requises. Si nécessaire, ces enquêtes sont réalisées avec le concours d’autres autorités publiques ou organismes désignés.
+
+**3.** À la demande de l’autorité requérante, l’autorité requise peut autoriser des agents de l’autorité requérante à accompagner les agents de l’autorité requise au cours de leurs enquêtes.
+
+<a id="art_12"></a>
+
+### Article 12 — Demandes de mesures d’exécution
+
+**1.** À la demande de l’autorité requérante, l’autorité requise prend toutes les mesures d’exécution nécessaires et proportionnées pour faire cesser ou interdire l’infraction interne à l’Union en exerçant les pouvoirs énoncés à l’article 9, et tout autre pouvoir qui lui est reconnu en vertu du droit national. L’autorité requise détermine les mesures d’exécution appropriées qui sont nécessaires pour faire cesser ou interdire l’infraction interne à l’Union et prend lesdites mesures dans les meilleurs délais et au plus tard six mois après avoir reçu la demande, à moins de préciser les motifs particuliers de prorogation du délai. Le cas échéant, l’autorité requise impose des sanctions telles que des amendes ou des astreintes au professionnel responsable de l’infraction interne à l’Union. L’autorité requise peut recevoir de la part du professionnel, sur l’initiative de ce dernier, des engagements supplémentaires en matière de mesures correctives en faveur des consommateurs affectés par l’infraction interne à l’Union supposée ou, le cas échéant, elle peut tenter d’obtenir des engagements de la part du professionnel en vue d’offrir des mesures correctives adéquates aux consommateurs affectés par ladite infraction.
+
+**2.** L’autorité requise informe régulièrement l’autorité requérante des démarches engagées et des mesures prises et qu’elle compte prendre. L’autorité requise informe sans retard, via la base de données électronique prévue à l’article 35, l’autorité requérante, les autorités compétentes d’autres États membres et la Commission des mesures prises et des effets desdites mesures sur l’infraction interne à l’Union, en indiquant notamment:a) si des mesures provisoires ont été adoptées;b) si l’infraction a cessé;c) quelles mesures ont été adoptées et si ces mesures ont été mises en œuvre;d) dans quelle mesure les consommateurs affectés par l’infraction présumée se sont vus proposer des engagements en matière de mesures correctives.
+
+<a id="art_13"></a>
+
+### Article 13 — Procédure pour les demandes d’assistance mutuelle
+
+**1.** Lorsqu’elle fait une demande d’assistance mutuelle, l’autorité requérante fournit les informations nécessaires pour permettre à l’autorité requise de donner suite à la demande, y compris tout élément de preuve nécessaire qui ne peut être obtenu que dans l’État membre de l’autorité requérante.
+
+**2.** L’autorité requérante envoie ces demandes d’assistance mutuelle au bureau de liaison unique de l’État membre de l’autorité requise ainsi qu’au bureau de liaison unique de l’État membre de l’autorité requérante pour information. Le bureau de liaison unique de l’État membre de l’autorité requise transmet sans retard les demandes à l’autorité compétente concernée.
+
+**3.** Les demandes d’assistance mutuelle et toutes les communications qui s’y rapportent se font par écrit au moyen de formulaires standard et sont transmises par voie électronique, via la base de données électronique prévue à l’article 35.
+
+**4.** Les autorités compétentes concernées conviennent des langues à utiliser pour les demandes d’assistance mutuelle et pour toutes les communications qui s’y rapportent.
+
+**5.** Faute d’accord au sujet des langues, les demandes d’assistance mutuelle sont envoyées dans la langue officielle ou l’une des langues officielles de l’État membre de l’autorité requérante et les réponses dans la langue officielle ou l’une des langues officielles de l’État membre de l’autorité requise. Dans ce cas, chaque autorité compétente est chargée des traductions nécessaires des demandes, réponses et autres documents reçus d’une autre autorité compétente.
+
+**6.** L’autorité requise répond directement à la fois à l’autorité requérante et aux bureaux de liaison uniques des États membres de l’autorité requérante et de l’autorité requise.
+
+<a id="art_14"></a>
+
+### Article 14 — Refus de donner suite à une demande d’assistance mutuelle
+
+**1.** L’autorité requise peut refuser de donner suite à une demande d’informations au titre de l’article 11 si une ou plusieurs des conditions suivantes sont réunies:a) à la suite d’une consultation avec l’autorité requérante, il apparaît que cette dernière n’a pas besoin des informations demandées pour établir si une infraction interne à l’Union a été commise ou est commise ou s’il y a de bonnes raisons de soupçonner qu’une telle infraction est susceptible d’être commise;b) l’autorité requérante estime que les informations ne sont pas soumises aux règles relatives à la confidentialité et au secret professionnel et commercial énoncées à l’article 33;c) une enquête pénale ou une procédure judiciaire a déjà été engagée à l’encontre du même professionnel concernant la même infraction interne à l’Union devant les autorités judiciaires de l’État membre de l’autorité requise ou de l’autorité requérante.
+
+**2.** L’autorité requise peut refuser de donner suite à une demande de mesures d’exécution au titre de l’article 12 si, après avoir consulté l’autorité requérante, une ou plusieurs des conditions suivantes sont réunies:a) une enquête pénale ou une procédure judiciaire a déjà été engagée, ou un jugement, une transaction judiciaire ou une injonction judiciaire à l’encontre du même professionnel a déjà été rendu ou une transaction judiciaire à son égard est déjà intervenue concernant la même infraction interne à l’Union devant les autorités judiciaires de l’État membre de l’autorité requise;b) les pouvoirs d’exécution nécessaires ont déjà commencé à être exercés, ou une décision administrative a déjà été adoptée à l’encontre du même professionnel à l’égard de la même infraction interne à l’Union dans l’État membre de l’autorité requise afin de faire cesser ou d’interdire rapidement et efficacement l’infraction interne à l’Union;c) après enquête appropriée, l’autorité requise conclut qu’aucune infraction interne à l’Union n’a été commise;d) l’autorité requise conclut que l’autorité requérante n’a pas fourni les informations nécessaires conformément à l’article 13, paragraphe 1;e) l’autorité requise a accepté les engagements proposés par le professionnel en vue de mettre fin à l’infraction interne à l’Union dans un délai déterminé, et ce délai n’est pas encore écoulé.
+
+Cependant, si le professionnel ne met pas en œuvre les engagements acceptés dans le délai visé au point e) du premier alinéa, l’autorité requise donne suite à la demande de mesures d’exécution présentée au titre de l’article 12.
+
+**3.** L’autorité requise informe l’autorité requérante et la Commission de tout refus de donner suite à une demande d’assistance mutuelle en motivant son refus.
+
+**4.** En cas de désaccord entre l’autorité requérante et l’autorité requise, l’une des deux peut saisir la Commission, qui rend un avis sur la question sans tarder. Lorsqu’elle n’est pas saisie, la Commission peut néanmoins rendre un avis de sa propre initiative. Afin de rendre un avis, la Commission peut demander les informations et documents pertinents échangés entre l’autorité requérante et l’autorité requise.
+
+**5.** La Commission contrôle le fonctionnement du mécanisme d’assistance mutuelle et le respect des procédures et des délais de traitement des demandes d’assistance mutuelle par les autorités compétentes. Elle a accès aux demandes d’assistance mutuelle ainsi qu’aux informations et documents échangés entre l’autorité requérante et l’autorité requise.
+
+**6.** Le cas échéant, la Commission peut publier des orientations et dispenser des conseils aux États membres afin d’assurer le fonctionnement efficace et efficient du mécanisme d’assistance mutuelle.
+
+## CHAPITRE IV — MÉCANISMES D’ENQUÊTE ET D’EXÉCUTION COORDONNÉS CONCERNANT LES INFRACTIONS DE GRANDE AMPLEUR ET LES INFRACTIONS DE GRANDE AMPLEUR À L’ÉCHELLE DE L’UNION
+
+<a id="art_15"></a>
+
+### Article 15 — Procédure relative aux décisions entre États membres
+
+Pour les matières couvertes par le présent chapitre, les autorités compétentes concernées statuent par consensus.
+
+<a id="art_16"></a>
+
+### Article 16 — Principes généraux de coopération
+
+**1.** Lorsqu’il existe de bonnes raisons de soupçonner qu’une infraction de grande ampleur ou une infraction de grande ampleur à l’échelle de l’Union est commise, les autorités compétentes concernées par ladite infraction et la Commission s’informent mutuellement et informent les bureaux de liaison uniques concernés par l’infraction sans tarder, en lançant des alertes conformément à l’article 26.
+
+**2.** Les autorités compétentes concernées par l’infraction de grande ampleur ou par l’infraction de grande ampleur à l’échelle de l’Union coordonnent les mesures d’enquête et d’exécution qu’elles prennent pour traiter l’infraction. Elles échangent tous les éléments de preuve et informations nécessaires, en se prêtant mutuellement et en prêtant à la Commission l’assistance nécessaire dans les meilleurs délais.
+
+**3.** Les autorités compétentes concernées par l’infraction de grande ampleur ou par l’infraction de grande ampleur à l’échelle de l’Union veillent à ce que tous les éléments de preuve et informations nécessaires soient recueillis et à ce que toutes les mesures d’exécution nécessaires soient prises pour faire cesser ou interdire ladite infraction.
+
+**4.** Sans préjudice du paragraphe 2, le présent règlement est sans incidence sur les activités nationales d’enquête et d’exécution menées par les autorités compétentes au niveau national à l’égard de la même infraction commise par le même professionnel.
+
+**5.** Le cas échéant, les autorités compétentes peuvent inviter des agents de la Commission et d’autres personnes les accompagnant, qui ont été habilitées par la Commission, à participer aux enquêtes coordonnées, aux actions d’exécution et à toute autre mesure prévue par le présent chapitre.
+
+<a id="art_17"></a>
+
+### Article 17 — Lancement d’une action coordonnée et désignation du coordinateur
+
+**1.** Lorsqu’il existe de bonnes raisons de soupçonner qu’une infraction de grande ampleur est commise, les autorités compétentes concernées par ladite infraction lancent une action coordonnée dans le cadre d’un accord entre elles. Le lancement de l’action coordonnée est notifié sans tarder aux bureaux de liaison uniques concernés par ladite infraction et à la Commission.
+
+**2.** Les autorités compétentes concernées par l’infraction de grande ampleur présumée désignent une autorité compétente concernée par l’infraction de grande ampleur présumée pour assumer le rôle de coordinateur. Si lesdites autorités compétentes ne parviennent pas à un accord, sur cette désignation, la Commission assume ce rôle.
+
+**3.** Si la Commission a de bonnes raisons de soupçonner une infraction de grande ampleur à l’échelle de l’Union, elle en informe sans tarder les autorités compétentes et les bureaux de liaison uniques concernés par l’infraction présumée en application de l’article 26. La Commission indique dans sa notification les motifs justifiant une éventuelle action coordonnée. Les autorités compétentes concernées par l’infraction de grande ampleur présumée à l’échelle de l’Union mènent les enquêtes appropriées sur la base des informations à leur disposition ou auxquelles elles ont facilement accès. Les autorités compétentes concernées par l’infraction de grande ampleur présumée à l’échelle de l’Union notifient les résultats de ces enquêtes aux autres autorités compétentes, aux bureaux de liaison uniques concernés par ladite infraction et à la Commission, en application de l’article 26, dans le mois qui suit la notification par la Commission. Lorsqu’il ressort de telles enquêtes qu’une infraction de grande ampleur à l’échelle de l’Union pourrait être commise, les autorités compétentes concernées par ladite infraction entament l’action coordonnée et prennent les mesures énoncées à l’article 19 et, le cas échéant, les mesures énoncées aux articles 20 et 21.
+
+**4.** Les actions coordonnées visées au paragraphe 3 sont coordonnées par la Commission.
+
+**5.** Une autorité compétente se joint à l’action coordonnée si, au cours de celle-ci, il apparaît que l’autorité compétente est concernée par l’infraction de grande ampleur ou par l’infraction de grande ampleur à l’échelle de l’Union.
+
+<a id="art_18"></a>
+
+### Article 18 — Motifs du refus de participer à l’action coordonnée
+
+**1.** Une autorité compétente peut refuser de participer à une action coordonnée pour l’une des raisons suivantes:a) une enquête pénale ou une procédure judiciaire a déjà été engagée, un jugement a été rendu ou une transaction judiciaire est intervenue concernant le même professionnel et la même infraction dans l’État membre de l’autorité compétente;b) les pouvoirs d’exécution nécessaires ont déjà commencé à être exercés avant le lancement d’une alerte visée à l’article 17, paragraphe 3, ou une décision administrative a été adoptée à l’encontre du même professionnel concernant la même infraction dans l’État membre de l’autorité compétente afin de faire cesser ou d’interdire rapidement et efficacement l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union;c) à la suite d’une enquête appropriée, il apparaît que les effets réels ou potentiels de l’infraction de grande ampleur présumée ou de l’infraction de grande ampleur à l’échelle de l’Union dans l’État membre de l’autorité compétente sont négligeables et qu’aucune mesure d’exécution ne doit dès lors être adoptée par cette autorité compétente;d) l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union dont il s’agit n’a pas été commise dans l’État membre de l’autorité compétente et aucune mesure d’exécution ne doit dès lors être adoptée par cette autorité compétente;e) l’autorité compétente a accepté les engagements proposés par le professionnel responsable de l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union visant à mettre fin à l’infraction dans l’État membre de l’autorité compétente et ces engagements ont été mis en œuvre et aucune mesure d’exécution ne doit dès lors être adoptée par cette autorité compétente.
+
+**2.** Lorsqu’une autorité compétente refuse de participer à l’action coordonnée, elle informe sans tarder la Commission, les autres autorités compétentes et les bureaux de liaison uniques concernés par l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union, de sa décision, en la motivant et en fournissant les documents justificatifs nécessaires.
+
+<a id="art_19"></a>
+
+### Article 19 — Mesures d’enquête dans le cadre des actions coordonnées
+
+**1.** Les autorités compétentes concernées par l’action coordonnée veillent à ce que les enquêtes et inspections soient menées de manière effective, efficace et coordonnée. Elles s’efforcent d’agir de manière simultanée pour mener les enquêtes et inspections et, dans la mesure où le droit procédural national le permet, pour appliquer des mesures provisoires.
+
+**2.** Le mécanisme d’assistance mutuelle visé au chapitre III peut être utilisé, si nécessaire, notamment pour recueillir des éléments de preuve nécessaires et d’autres informations auprès d’États membres autres que ceux concernés par l’action coordonnée ou pour veiller à ce que le professionnel concerné ne contourne pas les mesures d’exécution.
+
+**3.** S’il y a lieu, les autorités compétentes concernées par l’action coordonnée présentent les conclusions de l’enquête et l’analyse de l’infraction de grande ampleur ou, le cas échéant, de l’infraction de grande ampleur à l’échelle de l’Union, dans une position commune convenue entre elles.
+
+**4.** Sauf décision contraire des autorités compétentes concernées par l’action coordonnée, le coordinateur communique la position commune au professionnel responsable de l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union. Ledit professionnel se voit offrir la possibilité d’être entendu sur les points énumérés dans la position commune.
+
+**5.** Le cas échéant, et sans préjudice de l’article 15 ou des règles relatives à la confidentialité et au secret professionnel et commercial énoncées à l’article 33, les autorités compétentes concernées par l’action coordonnée décident de publier la position commune ou des parties de celle-ci sur leur site internet et peuvent demander le point de vue des organisations de consommateurs, des associations de professionnels et des autres parties concernées. La Commission publie tout ou parties de la position commune sur son site internet en accord avec les autorités compétentes concernées.
+
+<a id="art_20"></a>
+
+### Article 20 — Engagements dans le cadre des actions coordonnées
+
+**1.** Sur la base d’une position commune adoptée conformément à l’article 19, paragraphe 3, les autorités compétentes concernées par l’action coordonnée peuvent inviter le professionnel responsable de l’infraction de grande ampleur ou de l’infraction de grande ampleur à l’échelle de l’Union à proposer, dans un délai déterminé, des engagements en vue de mettre fin à ladite infraction. Le professionnel peut également, de sa propre initiative, proposer des engagements en vue de mettre fin à l’infraction ou des engagements en matière de mesures correctives à l’égard des consommateurs qui ont été affectés par cette infraction.
+
+**2.** Le cas échéant, et sans préjudice des règles relatives à la confidentialité et au secret professionnel et commercial énoncées à l’article 33, les autorités compétentes concernées par l’action coordonnée peuvent publier les engagements proposés par le professionnel responsable de l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union sur leur site internet ou, s’il y a lieu, la Commission peut publier les engagements proposés par le professionnel sur son site internet, si les autorités compétentes concernées en font la demande. Les autorités compétentes et la Commission peuvent demander le point de vue des organisations des consommateurs, des associations de professionnels et des autres parties concernées.
+
+**3.** Les autorités compétentes concernées par l’action coordonnée évaluent les engagements proposés et communiquent le résultat de cette évaluation au professionnel chargé de l’infraction de grande ampleur ou de l’infraction de grande ampleur à l’échelle de l’Union et, le cas échéant, si des engagements en matière de mesures correctives ont été proposés par le professionnel, elles informent le cas échéant les consommateurs qui prétendent avoir subi un préjudice à la suite de ladite infraction. Lorsque les engagements sont proportionnés et suffisants pour mettre fin à l’infraction de grande ampleur ou à l’infraction de grande ampleur à l’échelle de l’Union, les autorités compétentes les acceptent et fixent un délai pour leur mise en œuvre.
+
+**4.** Les autorités compétentes concernées par l’action coordonnée surveillent la mise en œuvre des engagements. Elles veillent en particulier à ce que le professionnel responsable de l’infraction de grande ampleur ou de l’infraction de grande ampleur à l’échelle de l’Union rende régulièrement compte au coordinateur de la progression de la mise en œuvre des engagements. Les autorités compétentes concernées par l’action coordonnée peuvent, le cas échéant, demander le point de vue d’organisations de consommateurs et d’experts afin de vérifier si les mesures prises par le professionnel sont conformes aux engagements.
+
+<a id="art_21"></a>
+
+### Article 21 — Mesures d’exécution dans le cadre des actions coordonnées
+
+**1.** Les autorités compétentes concernées par l’action coordonnée prennent, dans leur domaine de compétence, toutes les mesures d’exécution nécessaires à l’encontre du professionnel responsable de l’infraction de grande ampleur ou de l’infraction de grande ampleur à l’échelle de l’Union pour faire cesser ou interdire cette infraction.
+
+Le cas échéant, elles imposent des sanctions, telles que des amendes ou des astreintes, au professionnel responsable de l’infraction de grande ampleur ou de l’infraction de grande ampleur à l’échelle de l’Union. Les autorités compétentes peuvent recevoir de la part du professionnel, sur l’initiative de ce dernier, des engagements supplémentaires en matière de mesures correctives en faveur des consommateurs affectés par l’infraction de grande ampleur supposée ou par l’infraction de grande ampleur supposée à l’échelle de l’Union ou, le cas échéant, elles peuvent tenter d’obtenir des engagements de la part du professionnel en vue d’offrir des mesures correctives adéquates aux consommateurs affectés par l’infraction.
+
+Les mesures d’exécution sont particulièrement indiquées dans les cas suivants:
+
+a) une action d’exécution immédiate est nécessaire pour faire cesser ou interdire rapidement et efficacement l’infraction;
+
+b) il est peu probable que les engagements proposés par le professionnel responsable de l’infraction mettent fin à celle-ci;
+
+c) le professionnel responsable de l’infraction n’a pas proposé d’engagements avant l’expiration d’un délai fixé par les autorités compétentes concernées;
+
+d) le professionnel responsable de l’infraction a proposé des engagements qui sont insuffisants pour mettre un terme à l’infraction ou, le cas échéant, pour apporter des mesures correctives aux consommateurs lésés par l’infraction; ou
+
+e) le professionnel responsable de l’infraction n’a pas mis en œuvre les engagements visant à mettre un terme à l’infraction ou, le cas échéant, à apporter des mesures correctives aux consommateurs lésés par l’infraction, dans le délai visé à l’article 20, paragraphe 3.
+
+**2.** Les mesures d’exécution visées au paragraphe 1 sont prises de manière effective, efficace et coordonnée en vue de faire cesser ou d’interdire l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union. Les autorités compétentes concernées par l’action coordonnée s’efforcent de prendre des mesures d’exécution de manière simultanée dans les États membres concernés par cette infraction.
+
+<a id="art_22"></a>
+
+### Article 22 — Clôture des actions coordonnées
+
+**1.** L’action coordonnée est close si les autorités compétentes concernées par l’action coordonnée concluent que l’infraction de grande ampleur ou l’infraction de grande ampleur à l’échelle de l’Union a cessé ou a été interdite dans tous les États membres concernés ou qu’aucune infraction de ce type n’a été commise.
+
+**2.** Le coordinateur informe sans tarder la Commission et, le cas échéant, les autorités compétentes et les bureaux de liaison uniques des États membres concernés par l’action coordonnée de la clôture de l’action coordonnée.
+
+<a id="art_23"></a>
+
+### Article 23 — Rôle du coordinateur
+
+**1.** Le coordinateur désigné conformément à l’article 17 ou 29 se voit confier notamment les missions suivantes:a) veiller à ce que toutes les autorités compétentes concernées et la Commission soient dûment informées en temps utile de la progression de l’enquête ou de l’action d’exécution, selon le cas, des prochaines démarches prévues et des mesures à adopter;b) coordonner et surveiller les mesures d’enquête prises par les autorités compétentes concernées conformément au présent règlement;c) coordonner la préparation et le partage de tous les documents nécessaires entre les autorités compétentes concernées et la Commission;d) maintenir le contact avec le professionnel et les autres parties concernées par les mesures d’enquête ou d’exécution, selon le cas, sauf décision contraire des autorités compétentes concernées et du coordinateur;e) le cas échéant, coordonner l’évaluation, les consultations et la surveillance par les autorités compétentes concernées ainsi que les autres démarches nécessaires pour traiter et mettre en œuvre les engagements proposés par les professionnels concernés;f) le cas échéant, coordonner les mesures d’exécution adoptées par les autorités compétentes concernées;g) coordonner les demandes d’assistance mutuelle introduites par les autorités compétentes concernées au titre du chapitre III.
+
+**2.** Le coordinateur ne saurait être tenu responsable des actions ou omissions des autorités compétentes concernées lorsqu’elles exercent les pouvoirs énoncés à l’article 9.
+
+**3.** Lorsque les actions coordonnées portent sur des infractions de grande ampleur ou sur des infractions de grande ampleur à l’échelle de l’Union aux actes juridiques de l’Union visées à l’article 2, paragraphe 10, le coordinateur invite l’Autorité bancaire européenne à jouer un rôle d’observateur.
+
+<a id="art_24"></a>
+
+### Article 24 — Régime linguistique
+
+**1.** Les autorités compétentes concernées conviennent des langues à utiliser par les autorités compétentes pour les notifications et toutes les autres communications relevant du présent chapitre en rapport avec les actions coordonnées et les opérations «coup de balai».
+
+**2.** À défaut d’accord entre les autorités compétentes concernées, les notifications et autres communications sont envoyées dans la langue officielle ou l’une des langues officielles de l’État membre effectuant la notification ou toute autre communication. Dans ce cas, chaque autorité compétente concernée est responsable, si nécessaire, de la traduction des notifications, communications et autres documents qu’elle reçoit d’autres autorités compétentes.
+
+<a id="art_25"></a>
+
+### Article 25 — Régime linguistique applicable à la communication avec les professionnels
+
+Aux fins des procédures visées au présent chapitre, le professionnel est autorisé à communiquer dans la langue officielle de l’État membre où le professionnel a son siège ou sa résidence ou dans l’une des langues officielles utilisées à des fins officielles dans cet État membre.
+
+## CHAPITRE V — ACTIVITÉS À L’ÉCHELLE DE L’UNION
+
+<a id="art_26"></a>
+
+### Article 26 — Alertes
+
+**1.** Les autorités compétentes notifient sans tarder à la Commission, aux autres autorités compétentes et aux bureaux de liaison uniques tout motif raisonnable de soupçonner l’existence d’une infraction couverte par le présent règlement commise sur leur territoire et susceptible d’affecter les intérêts des consommateurs d’autres États membres.
+
+**2.** La Commission notifie sans tarder aux autorités compétentes et aux bureaux de liaison uniques concernés tout motif raisonnable de soupçonner qu’une infraction couverte par le présent règlement a été commise.
+
+**3.** Lorsqu’elle notifie, c’est-à-dire lance une alerte, en vertu des paragraphes 1 et 2, l’autorité compétente ou la Commission fournit des informations sur l’infraction présumée couverte par le présent règlement, et notamment, le cas échéant, les informations suivantes:a) une description de l’acte ou de l’omission constituant l’infraction;b) les détails du produit ou du service concerné par l’infraction;c) les noms des États membres concernés ou potentiellement concernés par l’infraction;d) l’identité du ou des professionnels responsables ou soupçonnés d’être responsables de l’infraction;e) la base légale des actions possibles en vertu du droit national et les dispositions correspondantes des actes juridiques de l’Union énumérés en annexe;f) une description et l’état d’avancement des procédures judiciaires, des mesures d’exécution ou des autres mesures prises concernant l’infraction, ainsi que leurs dates et durées;g) l’identité des autorités compétentes chargées d’engager la procédure judiciaire et de prendre d’autres mesures.
+
+**4.** Lorsqu’elle lance une alerte, l’autorité compétente peut demander aux autorités compétentes, aux bureaux de liaison uniques concernés dans d’autres États membres et à la Commission, ou la Commission peut demander aux autorités compétentes et aux bureaux de liaison uniques concernés dans d’autres États membres, de vérifier si, selon les informations disponibles ou facilement accessibles pour les autorités compétentes concernées ou la Commission, respectivement, des infractions présumées similaires sont commises sur le territoire de ces autres États membres ou si des mesures d’exécution ont déjà été prises contre de telles infractions dans lesdits États membres. Les autorités compétentes d’autres États membres et la Commission répondent sans tarder à la demande.
+
+<a id="art_27"></a>
+
+### Article 27 — Alertes externes
+
+**1.** Sauf si cela n’est pas justifié, chaque État membre confère à des organismes désignés, des centres européens des consommateurs, des organisations et associations de consommateurs et, le cas échéant, des associations de professionnels qui possèdent l’expertise nécessaire, le pouvoir de lancer une alerte à l’attention des autorités compétentes des États membres concernés et de la Commission sur les infractions présumées couvertes par le présent règlement et de fournir les informations visées à l’article 26, paragraphe 3, dont ils disposent (ci-après dénommée «alerte externe»). Chaque État membre notifie sans tarder à la Commission la liste de ces entités et toute modification apportée à celle-ci.
+
+**2.** Après avoir consulté les États membres, la Commission confère à des associations représentant les intérêts des consommateurs et, le cas échéant, les intérêts des professionnels au niveau de l’Union, le pouvoir de lancer une alerte externe.
+
+**3.** Les autorités compétentes ne sont pas tenues d’engager une procédure ou de prendre toute autre mesure en réponse à une alerte externe. Les entités qui lancent des alertes externes veillent à ce que les informations fournies soient correctes, à jour et précises, et corrigent sans tarder ou suppriment les informations notifiées, le cas échéant.
+
+<a id="art_28"></a>
+
+### Article 28 — Échange d’autres informations pertinentes aux fins de la détection des infractions
+
+Dans la mesure nécessaire à la réalisation des objectifs du présent règlement, les autorités compétentes notifient sans tarder à la Commission et aux autorités compétentes des États membres concernés, via la base de données électronique visée à l’article 35, les mesures qu’elles ont prises pour traiter une infraction couverte par le présent règlement dans leur domaine de compétence si elles soupçonnent que l’infraction en question est susceptible d’affecter les intérêts des consommateurs d’autres États membres.
+
+<a id="art_29"></a>
+
+### Article 29 — Opérations «coup de balai»
+
+**1.** Les autorités compétentes peuvent décider de mener des opérations «coup de balai» pour contrôler le respect des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs ou pour détecter des infractions auxdites dispositions. Sauf accord contraire des autorités compétentes participantes, les opérations «coup de balai» sont coordonnées par la Commission.
+
+**2.** Lorsqu’elles mènent des opérations «coup de balai», les autorités compétentes peuvent faire usage des pouvoirs d’enquête prévus à l’article 9, paragraphe 3, ainsi que des autres pouvoirs qui leur sont conférés par le droit national.
+
+**3.** Les autorités compétentes peuvent inviter des organismes désignés, des agents de la Commission et d’autres personnes les accompagnant habilitées par la Commission à participer aux opérations «coup de balai».
+
+<a id="art_30"></a>
+
+### Article 30 — Coordination d’autres activités contribuant aux enquêtes et à l’application de la législation
+
+**1.** Dans la mesure nécessaire à la réalisation de l’objectif du présent règlement, les États membres s’informent mutuellement et informent la Commission de leurs activités dans les domaines suivants:a) la formation de leurs agents participant à l’application du présent règlement;b) la collecte, le classement et l’échange de données sur les réclamations de consommateurs;c) la mise en place de réseaux d’agents spécialisés par secteur;d) la mise au point d’outils d’information et de communication; ete) le cas échéant, l’élaboration de normes, de méthodes et de lignes directrices concernant l’application du présent règlement.
+
+**2.** Dans la mesure nécessaire à la réalisation de l’objectif du présent règlement, les États membres peuvent coordonner et organiser conjointement des activités dans les domaines visés au paragraphe 1.
+
+<a id="art_31"></a>
+
+### Article 31 — Échange d’agents entre les autorités compétentes
+
+**1.** Les autorités compétentes peuvent participer aux programmes d’échange d’agents provenant d’autres États membres afin d’améliorer la coopération. Elles prennent les mesures nécessaires pour que les agents d’autres États membres puissent jouer un rôle effectif dans les activités de l’autorité compétente. À cette fin, lesdits agents sont autorisés à accomplir les tâches qui leur sont confiées par l’autorité compétente d’accueil, dans le respect des dispositions de droit de l’État membre de ladite autorité.
+
+**2.** Pendant la durée de l’échange, la responsabilité civile et pénale de l’agent est soumise aux mêmes conditions que celle des agents de l’autorité compétente d’accueil. Les agents d’autres États membres respectent les normes professionnelles et les règles de conduite internes appropriées de l’autorité compétente d’accueil. Ces règles de conduite garantissent notamment la protection des personnes physiques à l’égard du traitement des données à caractère personnel, l’équité des procédures et le respect adéquat des dispositions énoncées à l’article 33 en matière de confidentialité et de secret professionnel et commercial.
+
+<a id="art_32"></a>
+
+### Article 32 — Coopération internationale
+
+**1.** Dans la mesure nécessaire à la réalisation de l’objectif du présent règlement, l’Union coopère avec les pays tiers et les organisations internationales compétentes dans les domaines régis par le présent règlement afin de protéger les intérêts des consommateurs. L’Union et les pays tiers concernés peuvent conclure des accords fixant les modalités de la coopération, y compris la mise en place de dispositifs d’assistance mutuelle, l’échange d’informations confidentielles et les programmes d’échange de personnel.
+
+**2.** Les accords conclus entre l’Union et des pays tiers au sujet de la coopération et de l’assistance mutuelle destinées à assurer et à améliorer la protection des intérêts des consommateurs sont conformes aux règles pertinentes relatives à la protection des données applicables au transfert de données à caractère personnel vers des pays tiers.
+
+**3.** Lorsqu’une autorité compétente reçoit d’une autorité d’un pays tiers des informations qui pourraient présenter un intérêt pour les autorités compétentes d’autres États membres, elle les transmet auxdites autorités compétentes, dans la mesure où les accords d’assistance bilatéraux conclus avec ce pays tiers l’y autorisent et dans la mesure où ces informations sont conformes aux dispositions du droit de l’Union relatives à la protection des personnes physiques à l’égard du traitement des données à caractère personnel.
+
+**4.** Une autorité compétente peut également transmettre à l’autorité d’un pays tiers, dans le cadre d’un accord bilatéral d’assistance conclu avec ledit pays tiers, des informations transmises en application du présent règlement, dès lors que l’autorité compétente qui a initialement fourni l’information donne son accord et dès lors que cela est conforme aux dispositions du droit de l’Union relatives à la protection des personnes physiques à l’égard du traitement des données à caractère personnel.
+
+## CHAPITRE VI — ARRANGEMENTS COMMUNS
+
+<a id="art_33"></a>
+
+### Article 33 — Utilisation et divulgation des informations et secret professionnel et commercial
+
+**1.** Les informations collectées par les autorités compétentes et la Commission ou communiquées à celles-ci dans le cadre de l’application du présent règlement sont uniquement utilisées pour assurer le respect des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs.
+
+**2.** Les informations visées au paragraphe 1 font l’objet d’un traitement confidentiel et sont uniquement utilisées et divulguées dans le plein respect des intérêts commerciaux d’une personne physique ou morale, y compris en ce qui concerne les secrets commerciaux et la propriété intellectuelle.
+
+**3.** Toutefois, les autorités compétentes peuvent, après avoir consulté l’autorité compétente ayant fourni les informations, divulguer les informations nécessaires:a) pour démontrer l’existence d’infractions couvertes par le présent règlement; oub) pour faire cesser ou interdire les infractions couvertes par le présent règlement.
+
+<a id="art_34"></a>
+
+### Article 34 — Utilisation des éléments de preuve et des conclusions des enquêtes
+
+Les autorités compétentes peuvent utiliser comme moyen de preuve des informations, des documents, des constatations, des déclarations, des copies certifiées conformes ou des renseignements transmis, au même titre que des documents analogues obtenus dans leur propre État membre, quel que soit leur support de stockage.
+
+<a id="art_35"></a>
+
+### Article 35 — Base de données électronique
+
+**1.** La Commission crée et tient à jour une base de données électronique pour toutes les communications entre les autorités compétentes, les bureaux de liaison uniques et la Commission au titre du présent règlement. Toute information transmise par l’intermédiaire de la base de données électronique est stockée et traitée dans celle-ci. Cette base de données est directement accessible aux autorités compétentes, aux bureaux de liaison uniques et à la Commission.
+
+**2.** Les informations fournies par des entités qui lancent une alerte externe en vertu de l’article 27, paragraphe 1 ou 2, sont enregistrées et traitées dans la base de données électronique. Cependant, ces entités n’ont pas accès à cette base de données.
+
+**3.** Lorsqu’une autorité compétente, un organisme désigné ou une entité lançant une alerte en vertu de l’article 27, paragraphe 1 ou 2, établit qu’une alerte concernant une infraction qui est lancée par ses soins conformément à l’article 26 ou 27 s’est par la suite révélée infondée, l’autorité, organisme ou entité en question retire ladite alerte. La Commission supprime sans tarder les informations concernées de la base de données, et informe les parties des motifs de cette suppression.
+
+Les données relatives à une infraction sont conservées dans la base électronique pendant une durée n’excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées et traitées, et qui ne peut être supérieure à cinq ans à compter du jour où:
+
+a) une autorité requise notifie à la Commission, en application de l’article 12, paragraphe 2, la cessation d’une infraction interne à l’Union;
+
+b) le coordinateur notifie la clôture de l’action coordonnée, en application de l’article 22, paragraphe 1;
+
+c) les informations ont été enregistrées dans la base de données, dans tous les autres cas.
+
+**4.** La Commission adopte des actes d’exécution établissant les modalités pratiques et opérationnelles du fonctionnement de la base de données électronique. Ces actes d’exécution sont adoptés conformément à la procédure d’examen visée à l’article 38, paragraphe 2.
+
+<a id="art_36"></a>
+
+### Article 36 — Renoncement au remboursement des dépenses
+
+**1.** Les États membres renoncent à toute demande de remboursement des dépenses supportées en application du présent règlement.
+
+**2.** Nonobstant le paragraphe 1, en ce qui concerne des demandes de mesures d’exécution au titre de l’article 12, l’État membre de l’autorité requérante demeure responsable, vis-à-vis de l’État membre de l’autorité requise, de tout coût supporté et de toute perte subie lorsque des mesures sont rejetées et jugées infondées par une juridiction, pour tout ce qui a trait au fond de l’infraction en question.
+
+<a id="art_37"></a>
+
+### Article 37 — Priorités en matière de contrôle de l’application de la législation
+
+**1.** Au plus tard le 17 janvier 2020 et tous les deux ans par la suite, les États membres échangent entre eux et avec la Commission des informations sur leurs priorités en matière de contrôle de l’application du présent règlement.
+
+Ces informations comprennent notamment les éléments suivants:
+
+a) des informations sur les tendances des marchés qui sont susceptibles d’affecter les intérêts des consommateurs de l’État membre en question et dans d’autres États membres;
+
+b) un aperçu des actions menées au titre du présent règlement, au cours des deux dernières années, portant en particulier sur les mesures d’enquête et d’exécution liées aux infractions de grande ampleur;
+
+c) les statistiques échangées au moyen des alertes visées à l’article 26;
+
+d) la liste indicative des domaines prioritaires pendant les deux années à venir, pour ce qui est du contrôle de l’application des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs dans l’État membre concerné; et
+
+e) les domaines prioritaires proposés, pendant les deux années à venir, pour ce qui est du contrôle de l’application des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs au niveau de l’Union.
+
+**2.** Sans préjudice de l’article 33, la Commission produit tous les deux ans un aperçu des informations visées au paragraphe 1, points a), b) et c), et le rend public. La Commission en informe le Parlement européen.
+
+**3.** En cas de modification importante de la situation ou des conditions du marché au cours des deux années suivant la dernière présentation des informations sur leurs priorités en matière de contrôle de l’application de la législation, les États membres mettent celles-ci à jour et en informent les autres États membres et la Commission.
+
+**4.** La Commission synthétise les priorités en matière de contrôle de l’application de la législation communiquées par les États membres en application du paragraphe 1 du présent article, et fait annuellement rapport au comité visé à l’article 38, paragraphe 1, afin de faciliter la hiérarchisation des priorités en ce qui concerne les actions menées au titre du présent règlement. La Commission procède avec les États membres à l’échange de bonnes pratiques et à l’évaluation comparative, notamment en vue de mettre au point des actions de renforcement des capacités.
+
+## CHAPITRE VII — DISPOSITIONS FINALES
+
+<a id="art_38"></a>
+
+### Article 38 — Comité
+
+**1.** La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.
+
+**2.** Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no 182/2011 s’applique.
+
+<a id="art_39"></a>
+
+### Article 39 — Notifications
+
+Les États membres communiquent sans tarder à la Commission le texte des dispositions de droit interne qu’ils adoptent dans les domaines régis par le présent règlement ainsi que le texte des accords, dans les domaines régis par le présent règlement, autres que ceux traitant de cas individuels, qu’ils concluent.
+
+<a id="art_40"></a>
+
+### Article 40 — Rapports
+
+**1.** La Commission soumet au Parlement européen et au Conseil, au plus tard le 17 janvier 2023, un rapport sur l’application du présent règlement.
+
+**2.** Ce rapport contient une évaluation de l’application du présent règlement, y compris une appréciation de l’efficacité des mesures prises pour faire respecter les dispositions du droit de l’Union en matière de protection des intérêts des consommateurs au titre du présent règlement, en ce qui concerne en particulier les pouvoirs des autorités compétentes énoncés à l’article 9, ainsi que, entre autres, une analyse de la manière dont le respect des dispositions du droit de l’Union en matière de protection des intérêts des consommateurs par les professionnels a évolué sur les grands marchés de consommation concernés par le commerce transfrontalier.
+
+Ce rapport est accompagné, le cas échéant, de propositions législatives.
+
+<a id="art_41"></a>
+
+### Article 41 — Abrogation
+
+Le règlement (CE) no 2006/2004 est abrogé avec effet à compter du 17 janvier 2020.
+
+<a id="art_42"></a>
+
+### Article 42 — Entrée en vigueur et application
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.
+
+Il est applicable à partir du 17 janvier 2020.

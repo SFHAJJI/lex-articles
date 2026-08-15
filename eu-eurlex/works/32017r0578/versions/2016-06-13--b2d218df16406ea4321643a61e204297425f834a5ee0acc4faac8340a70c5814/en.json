@@ -1,0 +1,176 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/578 of 13 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-13",
+  "valid_to": "2017-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0578/versions/2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814/en.xml",
+    "sha256": "62ccb50dca9d44bbbbd30e31a54c720f190239349c34cf9ecd2c07c016b7172b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0578"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Investment firms shall enter into a market making agreement regarding the financial instrument or instruments in which they pursue a market making strategy with the trading venue or venues at which this strategy takes place where, during half of the trading days over a one month period, in execution of the market making strategy, they:\n\n| (a) | post firm, simultaneous two-way quotes of comparable size and competitive prices |\n| --- | --- |\n\n| (b) | deal on their own account in at least one financial instrument on one trading venue for at least 50 % of the daily trading hours of continuous trading at the respective trading venue, excluding opening and closing auctions. |\n| --- | --- |\n\n2. For the purposes of paragraph 1:\n\n| (a) | a quote shall be deemed to be a firm quote where it includes orders and quotes that under the rules of a trading venue can be matched against an opposite order or quote; |\n| --- | --- |\n\n| (b) | quotes shall be deemed simultaneous two-way quotes if they are posted in such a way that both the bid and the ask-price are present in the order book at the same time; |\n| --- | --- |\n\n| (c) | two quotes shall be deemed of comparable size when their sizes do not diverge by more than 50 % from each other; |\n| --- | --- |\n\n| (d) | quotes shall be deemed to have competitive prices where they are posted at or within the maximum bid-ask range set by the trading venue and imposed upon every investment firm that has signed a market making agreement with that trading venue. |\n| --- | --- |",
+      "text_sha256": "dc9395ea1746d2276fdfbcb1dfae6d7e6a172cb5d41e0a1c117b75a30d39cc74",
+      "md_span": {
+        "start": 713,
+        "end": 2249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The content of a binding written agreement referred to in Article 17(3)(b) and Article 48(2) of Directive 2014/65/EU shall include at least:\n\n| (a) | the financial instrument or instruments covered by the agreement; |\n| --- | --- |\n\n| (b) | the minimum obligations to be met by the investment firm in terms of presence, size and spread that shall require at least posting firm, simultaneous two-way quotes of comparable size and competitive prices in at least one financial instrument on the trading venue for at least 50 % of daily trading hours of during which continuous trading takes place excluding opening and closing auctions and calculated for each trading day; |\n| --- | --- |\n\n| (c) | where appropriate, the terms of the applicable market making scheme; |\n| --- | --- |\n\n| (d) | the obligations of the investment firm in relation to the resumption of trading after volatility interruptions; |\n| --- | --- |\n\n| (e) | the surveillance, compliance and audit obligations of the investment firm enabling it to monitor its market making activity; |\n| --- | --- |\n\n| (f) | the obligation to flag firm quotes submitted to the trading venue under the market making agreement in order to distinguish those quotes from other order flows; |\n| --- | --- |\n\n| (g) | the obligation to maintain records of firm quotes and transactions relating to the market making activities of the investment firm, which are clearly distinguished from other trading activities and to make those records available to the trading venue and the competent authority upon request. |\n| --- | --- |\n\n2. Trading venues shall continuously monitor the effective compliance of the relevant investment firms with the market making agreements.",
+      "text_sha256": "eb56718b50b7ffd5bd476c935d2adf48e2158df68ac06225cb696889f1cae831",
+      "md_span": {
+        "start": 2282,
+        "end": 4005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe obligation for investment firms to provide liquidity on a regular and predictable basis laid down in Article 17(3)(a) of Directive 2014/65/EU shall not apply in any of the following exceptional circumstances:\n\n| (a) | a situation of extreme volatility triggering volatility mechanisms for the majority of financial instruments or underlyings of financial instruments traded on a trading segment within the trading venue in relation to which the obligation to sign a market making agreement applies; |\n| --- | --- |\n\n| (b) | war, industrial action, civil unrest or cyber sabotage; |\n| --- | --- |\n\n| (c) | disorderly trading conditions where the maintenance of fair, orderly and transparent execution of trades is compromised, and evidence of any of the following is provided:(i)the performance of the trading venue's system being significantly affected by delays and interruptions;(ii)multiple erroneous orders or transactions;(iii)the capacity of a trading venue to provide services becoming insufficient; |\n| --- | --- |\n| (i) | the performance of the trading venue's system being significantly affected by delays and interruptions; |\n| (ii) | multiple erroneous orders or transactions; |\n| (iii) | the capacity of a trading venue to provide services becoming insufficient; |\n\n| (d) | where the investment firm's ability to maintain prudent risk management practices is prevented by any of the following:(i)technological issues, including problems with a data feed or other system that is essential to carry out a market making strategy;(ii)risk management issues in relation to regulatory capital, margining and access to clearing,(iii)the inability to hedge a position due to a short selling ban; |\n| --- | --- |\n| (i) | technological issues, including problems with a data feed or other system that is essential to carry out a market making strategy; |\n| (ii) | risk management issues in relation to regulatory capital, margining and access to clearing, |\n| (iii) | the inability to hedge a position due to a short selling ban; |\n\n| (e) | for non-equity instruments, during the suspension period referred to in Article 9(4) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (3). |\n| --- | --- |",
+      "text_sha256": "244b27c4f45b4b4e33f32b7e747ae46cccf3d3e207c721ca382e3fb572ff1c36",
+      "md_span": {
+        "start": 4038,
+        "end": 6279
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01018301-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Trading venues shall make public the occurrence of the exceptional circumstances referred to in points (a), (b), (c) and (e) of Article 3 and, as soon as technically possible, the resumption of their normal trading after the exceptional circumstances have ceased to exist.\n\n2. Trading venues shall set out clear procedures to resume normal trading after the exceptional circumstance have ceased to exist, including the timing of such resumption, and shall make those procedures publicly available.\n\n3. Trading venues shall not extend the declaration of exceptional circumstances beyond market close unless this is necessary in the circumstances referred to in points (b), (c) and (e) of Article 3(1).",
+      "text_sha256": "974f044ae2a3ea20ff872d1f7a10e33bc10ec00a1bbb8edcc3b9b0d937c2e515",
+      "md_span": {
+        "start": 6312,
+        "end": 7026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Trading venues shall not be required to have market making scheme as referred to in Article 48(2)(b) of Directive 2014/65/EU in place except for any of the following classes of financial instruments traded through a continuous auction order book trading system:\n\n| (a) | shares and exchange traded funds for which there is a liquid market as defined in accordance with Article 2(1)(17) of Regulation (EU) No 600/2014 and as specified in Commission Delegated Regulation (EU) 2017/567 (4); |\n| --- | --- |\n\n| (b) | options and futures directly related to the financial instruments set out in point (a); |\n| --- | --- |\n\n| (c) | equity index futures and equity index options for which there is a liquid market as specified in accordance with point (c) of Article 9(1) and point (c) of Article 11(1) of Regulation (EU) No 600/2014 and Commission Delegated Regulation (EU) 2017/583 (5). |\n| --- | --- |\n\n2. For the purposes of paragraph 1, a continuous auction order book trading system means a system that by means of an order book and a trading algorithm operated without human intervention matches sell orders with buy orders on the basis of the best available price on a continuous basis.",
+      "text_sha256": "85da61bd924fd9c3fc6e28be744288e56ec886aae76f4a250bedc7b583b469ea",
+      "md_span": {
+        "start": 7059,
+        "end": 8260
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017087EN.01018301-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2017087EN.01018301-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Trading venues shall describe in their market making scheme the incentives and the requirements that must be met in terms of presence, size and spread by investment firms in order to access those incentives under:\n\n| (a) | normal trading conditions where the trading venue offers incentives under such conditions. |\n| --- | --- |\n\n| (b) | stressed market conditions, taking into account the additional risks under such conditions. |\n| --- | --- |\n\n2. Trading venues shall set out the parameters to identify stressed market conditions in terms of significant short-term changes of price and volume. Trading venues shall consider the resumption of trading after volatility interruptions as stressed market conditions.\n\n3. For the purposes of point (a) under paragraph 1, trading venues may in their market making schemes specify that incentives shall only be granted to the best performer or performers.",
+      "text_sha256": "9b9243f89789ed20893b329ce139450ad52a212763c94775927424467316ad38",
+      "md_span": {
+        "start": 8293,
+        "end": 9208
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Trading venues shall publish on their websites the terms of the market making schemes, the names of the firms that have signed market making agreements under each of those schemes and the financial instruments covered by those agreements.\n\n2. Trading venues shall communicate any changes to the terms of the market making schemes to the participants in those schemes at least one month prior to their application.\n\n3. Trading venues shall provide the same incentives to all participants who perform equally in terms of presence, size and spread, in their market making schemes.\n\n4. Trading venues shall not limit the number of participants in a market making scheme. However, they may limit the access to the incentives included in the scheme to the firms which have met pre-determined thresholds.\n\n5. Trading venues shall continuously monitor the effective compliance of the participants with the market making schemes.\n\n6. Trading venues shall establish procedures to communicate the existence of stressed market conditions on its trading venue to all participants in a market making scheme through readily accessible channels.",
+      "text_sha256": "ea579acc7963100bb721b8edcc3a7d249feaa4aac7f9f48b083a049832b65e94",
+      "md_span": {
+        "start": 9241,
+        "end": 10384
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0578:2016-06-13--b2d218df16406ea4321643a61e204297425f834a5ee0acc4faac8340a70c5814#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "90288b551a874021807f94a4c729067cd2a703d32eb71fba4a51c5430cfdcfbf",
+      "md_span": {
+        "start": 10417,
+        "end": 10605
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

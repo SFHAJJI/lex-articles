@@ -1,0 +1,575 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/02/2026 : Loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués.",
+  "valid_from": "2021-12-06",
+  "valid_to": "2025-11-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1983-04-11-n4/versions/2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7/fr.xml",
+    "sha256": "ca0cccd0426cf4d3b0068d3d2353a4fa1a5df42cdca33803d01e83b92f046670",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20211206/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/art_1er/19830429",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions.",
+      "path": [
+        "Chapitre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2021-12-06",
+      "text_md": "Pour l’application de la présente loi on entend par:\n\n1. Spécialité pharmaceutique: Tout médicament préparé à l’avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.\n2. Médicament préfabriqué: Tout médicament, à l’exception de la spécialité pharmaceutique, préparé à l’avance, mis sur le marché sous forme pharmaceutique.\n3. Toute substance ou composition pouvant être administrée à l’homme ou à l’animal en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l’homme ou l’animal est également considérée comme médicament.\n4. Substance: Toute matière qu’elle qu’en soit l’origine, celle-ci pouvant être: humaine, telle que: le sang humain et les produits dérivés du sang humain; animale, telle que: les micro-organismes, animaux entiers, parties d’organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang, etc.; végétale, telle que: les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.; chimique, telle que: les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.\n5. Forme pharmaceutique: Toutes les formes utilisées en vue de l’administration ou de l’application d’un médicament",
+      "text_sha256": "c5611e9a74800f569ef873964c33761e0c1f666c7f65fe4ad2776cd31721442c",
+      "md_span": {
+        "start": 814,
+        "end": 2130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Autorité compétente.",
+      "path": [
+        "Chapitre Ier — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice des dispositions prises en exécution de la loi du 28 avril 1922 concernant la préparation et la vente des médicaments et des substances toxiques, la mise sur le marché des médicaments ainsi que la publicité les concernant, sont placées sous le contrôle du ministre de la Santé.",
+      "text_sha256": "d9bf30936919ee7ca997f335c440553a16020f05a73429d90fb56157c12e7625",
+      "md_span": {
+        "start": 2186,
+        "end": 2478
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1922/04/28/n1/jo",
+          "text": "loi du 28 avril 1922"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "La mise sur le marché de tout médicament est subordonnée à l’octroi d’une autorisation préalable délivrée par le ministre de la Santé.",
+      "text_sha256": "c4101a1b8f7a52ddac8fe3cc7bc10ccd7128bf5621b4912ea826d7e7c0f17df8",
+      "md_span": {
+        "start": 2565,
+        "end": 2699
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Interdictions.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "La vente, la détention en vue de la vente, la cession à titre gratuit et l’importation d’un médicament non couvert par une autorisation de mise sur le marché délivrée au Luxembourg sont interdites.",
+      "text_sha256": "6a310f584a89c73ce4ff8698450bc96d55c03ea3473573f6a169d10c52cd4709",
+      "md_span": {
+        "start": 2749,
+        "end": 2946
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Exception.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation aux articles 3 et 4 ci-dessus est autorisée la dispensation occasionnelle par le pharmacien d’officine d’un médicament couvert dans le pays d’origine par une autorisation de mise sur le marché, lorsqu’il est en possession:\n\n1. ou\n2. d’une ordonnance médicale collective, motivée par la gravité et l’urgence d’un traitement en milieu hospitalier.\n\nLe pharmacien d’officine doit consigner ces importations dans un registre spécial tenu uniquement à cet effet. Le registre et les copies d’ordonnances sont à soumettre au pharmacien-inspecteur lors de sa visite.",
+      "text_sha256": "f1f2072ff5685212d483d42541517ad1436ac08d8cd3e7b5681aedb82856547c",
+      "md_span": {
+        "start": 2992,
+        "end": 3565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_5bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5bis",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Par dérogation aux articles 3 et 4, le ministre ayant la Santé dans ses attributions peut autoriser, en cas de menace transfrontière grave sur la santé au sens de l’article 3 de la décision n° 1082/2013/UE du Parlement européen et du Conseil du 22 octobre 2013 relative aux menaces transfrontières graves sur la santé, ou en cas d’urgence de santé publique de portée internationale au sens de l’article 1er, paragraphe 1er, du Règlement sanitaire international de 2005 :\n\n1. l’acquisition et la livraison en vue du stockage d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;\n2. l’usage temporaire d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;\n3. l’usage temporaire d’un médicament en dehors de l’autorisation de mise sur le marché.\n\n**(2)** Sans préjudice des dispositions de la loi modifiée du 21 avril 1989 relative à la responsabilité civile du fait des produits défectueux, la responsabilité civile et administrative :\n\n1. du titulaire de l’autorisation de mise sur le marché ;\n2. loi modifiée du 4 août 1975\n3. loi modifiée du 6 janvier 1995\n4. loi modifiée du 29 avril 1983\n5. loi modifiée du 31 juillet 1991\n\nn’est pas engagée pour l’ensemble des conséquences résultant de la mise sur le marché et de l’usage du médicament ne disposant pas d’autorisation de mise sur le marché ou de l’usage du médicament en dehors de l’autorisation de mise sur le marché si la mise sur le marché et l’usage du médicament concerné ont été autorisés conformément au présent paragraphe.\n\n**(3)** Le paragraphe 2 s’applique indépendamment du fait qu’une autorisation a été délivrée ou non par l’autorité compétente d’un autre État membre de l’Union européenne, par la Commission européenne ou en vertu de la présente loi.",
+      "text_sha256": "b463da109e8c08b72c67e79fc505b40119fabc7cb93428d1efa44303818724c7",
+      "md_span": {
+        "start": 3605,
+        "end": 5426
+      },
+      "citations": [
+        {
+          "href": "http://data.europa.eu/eli/dec/2013/1082/oj",
+          "text": "décision n° 1082/2013/UE"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1989/04/21/n1/jo",
+          "text": "loi modifiée du 21 avril 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Demande d’autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "En vue de l’octroi de l’autorisation de mise sur le marché le responsable de la mise sur le marché introduit une demande auprès du ministre de la Santé, sur une formule tenue à la disposition des demandeurs auprès de la Division de la Pharmacie et des Médicaments de la Direction de la Santé. Les renseignements que le demandeur doit donner et la forme dans laquelle il les fournit sont fixés par règlement grand-ducal. Dès que le demandeur a obtenu l’autorisation de mise sur le marché il devient titulaire de l’autorisation.",
+      "text_sha256": "467f99179d6610da2ea98af0cf52348864d42c38fb64b41ed0b9f5b3fec04c97",
+      "md_span": {
+        "start": 5485,
+        "end": 6011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Obligations du titulaire d’une autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le titulaire d’une autorisation de mise sur le marché est tenu de transmettre immédiatement au ministre de la Santé tout élément nouveau constituant un complément d’information aux éléments du dossier d’enregistrement et notamment toute interdiction ou restriction imposée par les autorités responsables du pays d’origine et des pays où le médicament est dans le commerce.\n\nLe titulaire d’une autorisation de mise sur le marché détenteur d’une autorisation de distribuer en gros des médicaments est tenu des obligations lui incombant en vertu de la législation en matière de distribution en gros de médicaments.\n\nLe titulaire d’une autorisation de mise sur le marché qui n’est pas détenteur d’une autorisation de distribuer en gros des médicaments est tenu, pour les médicaments sur lesquels porte l’autorisation de mise sur le marché et qui sont effectivement mis sur le marché au Luxembourg, d’assurer un approvisionnement approprié et continu de ces médicaments pour les personnes autorisées à distribuer en gros des médicaments, de manière à ce que celles-ci soient en mesure de couvrir les besoins de la population.\n\nLe titulaire d’une autorisation de mise sur le marché, détenteur ou non d’une autorisation de distribuer en gros des médicaments, est plus spécialement tenu, pour les médicaments sur lesquels porte l’autorisation de mise sur le marché et qui sont effectivement mis sur le marché au Luxembourg, d’assurer à leur demande un approvisionnement continu de ces médicaments pour les grossistes-répartiteurs, de manière à mettre ceux-ci en mesure de satisfaire à l’obligation de service public dont ils sont tenus en vertu de la législation relative à la distribution en gros de médicaments.",
+      "text_sha256": "bcfc985b7332773ad58cc3121577f1abafa1f15f71fc5c5ccc4f08a764759c26",
+      "md_span": {
+        "start": 6091,
+        "end": 7796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Responsabilité.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’autorisation ministérielle ne porte pas atteinte à la responsabilité de droit commun du responsable de la mise sur le marché ou du fabricant.",
+      "text_sha256": "63263441a4b9c5e3eedc31fa06545c498053c4af2ef4971a4fddf94ffd437351",
+      "md_span": {
+        "start": 7847,
+        "end": 7990
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Validité de l’autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’autorisation a une durée de validité de cinq ans, renouvelable par périodes quinquennales sur demande du titulaire de l’autorisation, présentée dans les trois mois précédant l’échéance.\n\nUne taxe d’un montant de 600 euros est due pour toute demande de renouvellement de l’autorisation.\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.\n\nToutefois, si en présence d’une autorisation de mise sur le marché accordée dans un autre Etat membre des Communautés Européennes une autorisation est accordée sous forme d’une reconnaissance de l’autorisation précitée, la validité de cette reconnaissance expire avec celle de l’autorisation délivrée dans le pays d’origine.",
+      "text_sha256": "3ba28490c6280138e5d7d114c959b905dd4d9a8579c2cbad8151c79c3cb4dbb0",
+      "md_span": {
+        "start": 8053,
+        "end": 9149
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9-1",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_9-1",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9-1.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’autorisation précise si le médicament est soumis à prescription médicale ou non.\n\nUn règlement grand-ducal détermine les critères sur base desquels s’opère la classification des médicaments en médicaments soumis à prescription médicale et en médicaments non soumis à prescription. Ce règlement peut prévoir des souscatégories pour les médicaments qui ne peuvent être délivrés que sur prescription médicale, et notamment distinguer entre\n\n- les médicaments sur prescription médicale renouvelable ou non renouvelable;\n- les médicaments soumis à prescription médicale spéciale;\n- les médicaments sur prescription médicale restreinte, réservés à certains milieux spécialisés.\n\nLe même règlement détermine les modalités ayant trait à l’établissement d’une liste des médicaments soumis à prescription médicale et à leur communication à la Commission des Communautés, ainsi qu’à la révision de la classification d’un médicament déterminé.",
+      "text_sha256": "adef4e5b7508252feea5c9693fb11b457506258ec3f1bcfa04407343fefd2395",
+      "md_span": {
+        "start": 9188,
+        "end": 10121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9-2",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_9-2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9-2.",
+      "heading": "Prescription transfrontalière de médicaments",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Un règlement grand-ducal détermine le contenu, la forme et les modalités d’établissement des prescriptions médicales établies à la demande d’un patient qui entend les utiliser dans un autre Etat membre de l’Union européenne, en Suisse, ou dans un pays de l’Espace économique européen, en particulier en ce qui concerne la liste des éléments à y inclure, les modalités d’identification correcte du médicament, les informations destinées aux patients concernant la prescription et les instructions jointes relatives à l’utilisation du médicament.\n\n**(2)** Les prescriptions établies dans un autre Etat membre de l’Union européenne, en Suisse, ou dans un pays de l’Espace économique européen, sont reconnues équivalentes aux prescriptions à contenu identique établies au Luxembourg. Si le médicament dispose d’une autorisation de mise sur le marché au Luxembourg, les pharmaciens procèdent à la délivrance du médicament conformément à la législation luxembourgeoise en vigueur, sauf s’ils ont des doutes légitimes et justifiés quant à l’authenticité, au contenu ou à l’intelligibilité de la prescription.\n\nLa reconnaissance des prescriptions dont question au présent paragraphe ne s’applique pas aux médicaments soumis à un régime de prescription médicale spéciale en application de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.\n\nUn règlement grand-ducal établit les mesures nécessaires à la bonne application de la reconnaissance des prescriptions dont question à l’alinéa 1er.",
+      "text_sha256": "3911357a7b609d220b38a8660b904c38650f74e665f5e3a8576e0f238168d815",
+      "md_span": {
+        "start": 10205,
+        "end": 11762
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1973/02/19/n1/jo",
+          "text": "loi modifiée du 19 février 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Refus de l’autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le ministre de la Santé refuse l’autorisation de mise sur le marché lorsque, après vérification des renseignements et des documents prévus par la présente loi et les règlements pris en son exécution, il apparaît que;\n\n1. le médicament est nocif dans les conditions normales d’emploi;\n2. l’effet thérapeutique fait défaut ou est insuffisamment justifié par le demandeur;\n3. le médicament n’a pas la composition qualitative ou quantitative déclarée.\n\nL’autorisation est également refusée si la documentation et les renseignements présentés à l’appui de la demande ne sont pas conformes aux dispositions de la présente loi et des règlements pris en son exécution.",
+      "text_sha256": "0fef958ad0f409aed91ef45ad0d8178e6cbcbc0435210911a7568a90a5853aac",
+      "md_span": {
+        "start": 11824,
+        "end": 12484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Cas spéciaux de refus.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’autorisation est également refusée lorsque:\n\n1. le nom du médicament présente une homonymie avec un médicament déjà présent sur le marché et de composition différente;\n2. le nom du médicament est susceptible d’induire en erreur ou de provoquer du fait d’une paronymie la confusion quant à son activité thérapeutique.",
+      "text_sha256": "df9deee229651b6b6af71c6a676278f6f529d74f0548f7aca5fccadb6e72cafa",
+      "md_span": {
+        "start": 12544,
+        "end": 12862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Modification du dossier.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toute modification que le titulaire se propose d’apporter au dossier en vertu duquel l’autorisation de mise sur le marché a été accordée doit être sollicitée auprès du ministre de la Santé qui juge de la suite à réserver à cette demande. Le cas échéant cette demande doit être accompagnée des renseignements dont question à l’article 6 ci-dessus. La modification ne peut être apportée qu’après autorisation délivrée par le ministre, conformément à la procédure prévue par la présente loi ainsi que par les règlements pris en son exécution. En tout temps le médicament en circulation et son dossier doivent concorder en tous points.\n\nUne taxe d’un montant de 50 euros est due:\n\n- règlement (CE) n° 1234/2008\n- règlement (CE) n° 1234/2008\n\nUne taxe d’un montant de 150 euros est due pour une demande de modification majeure de type II telle que définie par le règlement (CE) n° 1234/2008 de la Commission du 24 novembre 2008 concernant l’examen des modifications des termes d’une autorisation de mise sur le marché de médicaments à usage humain et de médicaments vétérinaires.\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées aux alinéas précédents.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "b5655fca921f878f03d91c4abb18f435b12dd978ab1533eac9b8f71a733070a7",
+      "md_span": {
+        "start": 12924,
+        "end": 14483
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2008/1234/jo",
+          "text": "règlement (CE) n° 1234/2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Suspension ou retrait de l’autorisation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le ministre de la Santé suspend ou retire l’autorisation de mise sur le marché d’un médicament lorsqu’il apparaît que\n\n1. le médicament est nocif dans les conditions normales d’emploi\n2. l’effet thérapeutique fait défaut\n3. le médicament n’a pas la composition qualitative ou quantitative déclarée\n4. l’autorisation n’est pas suivie d’une mise sur le marché effective du médicament endéans un délai à fixer par règlement grand-ducal, ou lorsque le médicament n’est plus effectivement maintenu sur le marché pendant une période correspondant au prédit délai.\n5. le titulaire de l’autorisation contrevient à l’une des obligations qui lui incombent en vertu de l’article 7, alinéas 2 et 3.\n\nLe ministre peut suspendre l’autorisation lorsqu’il existe une présomption grave que le médicament est nocif dans les conditions normales d’emploi.\n\nL’autorisation est également suspendue ou retirée s’il s’avère que les renseignements figurant dans le dossier en vertu de la présente loi et des règlements pris en son exécution sont erronés ou lorsque les contrôles de conformité tels qu’ils sont définis par les dispositions légales et réglementaires n’ont pas été effectués.\n\nSont interdites la vente, la détention en vue de la vente, la cession à titre gratuit et l’importation d’un médicament dont l’autorisation de mise sur le marché a fait l’objet d’une décision de suspension ou de retrait. Toutefois la conservation d’un produit dont l’autorisation de mise sur le marché est suspendue reste permise, à condition qu’il ne soit pas gardé dans la partie de l’officine du pharmacien qui est accessible au public.",
+      "text_sha256": "2a5deafa592c1e41c52e6b5ebb567c9bc1a0153ae5bdedbc0d18779570d549bb",
+      "md_span": {
+        "start": 14561,
+        "end": 16165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Interdiction de délivrance d’un lot.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le ministre de la Santé peut interdire la délivrance d’un ou de plusieurs lots d’un médicament et ordonner au titulaire de l’autorisation leur retrait du marché lorsque:\n\n1. la composition qualitative ou quantitative effective n’est pas conforme à la composition déclarée;\n2. il n’est pas justifié que les contrôles prescrits ont été effectués sur les composants, sur le produit fini et en cours de fabrication;\n3. les dispositions légales relatives à l’étiquetage et à la notice n’ont pas été respectées.",
+      "text_sha256": "2ed77300bfb87f6ebe647da49302ddbe1889d6eab1c84ef15167d1df6ee3f8c3",
+      "md_span": {
+        "start": 16239,
+        "end": 16744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Renonciation.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque le titulaire d’une autorisation de mise sur le marché déclare renoncer, par lettre adressée au ministre de la Santé, à une autorisation pour un médicament, il est tenu de prendre toutes dispositions utiles pour faire cesser la distribution dans un délai de six mois.\n\nPassé ce délai la vente, la détention en vue de la vente, la cession à titre gratuit et l’importation de ce médicament sont interdites.\n\nLes mêmes dispositions sont applicables lorsqu’un titulaire ne demande pas le renouvellement de son autorisation dans les conditions prévues par l’article 9.",
+      "text_sha256": "8dac187c81c7cd6b8bd4e08ccd8ab11ccb9351652bb13ac93e2e089459bb7484",
+      "md_span": {
+        "start": 16795,
+        "end": 17365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Droit d’enregistrement.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "A la demande d’autorisation de mise sur le marché doit être jointe une quittance de l’administration de l’enregistrement et des domaines, attestant le versement d’un droit fixe dont le montant sera déterminé par règlement grand-ducal. Ce droit, qui peut différer suivant que le produit est déjà pourvu d’une autorisation dans un Etat membre des Communautés Européennes ou non et qui est exigé pour chaque forme pharmaceutique et chaque dosage du médicament, ne peut être supérieur à «douze mille cinq cents euros» ni inférieur à «cent vingt-cinq euros».\n\nLe maintien sur le marché d’un médicament peut être soumis au paiement d’un droit annuel, dont le montant, qui sera fixé par règlement grand-ducal, ne peut pas être supérieur à «cent vingt-cinq». Ce droit, qui est exigible pour chaque forme pharmaceutique et chaque dosage, peut être perçcu pour la première fois au cours de l’année qui suit la date d’entrée en vigueur de la loi portant réforme de l’assurance maladie et du secteur de la santé pour les produits se trouvant sur le marché avant cette date. Pour les produits mis sur le marché après cette date, ce droit pourra être perçu pour la première fois au cours de l’année qui suit la mise sur le marché du produit.",
+      "text_sha256": "c865b08aaaec27e2838c5d3c53bd9aaec4f933d11a2ec9295e0d8456304fcb97",
+      "md_span": {
+        "start": 17426,
+        "end": 18653
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Etiquetage.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les dispositions relatives à l’étiquetage et à la notice des médicaments sont déterminées par règlement grand-ducal.",
+      "text_sha256": "11bae5201ecc45d64fcd0d3c86b40b974f009c75a287f76bd723bedc6ccfa06e",
+      "md_span": {
+        "start": 18702,
+        "end": 18818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Commission d’experts.",
+      "path": [
+        "Chapitre II. — Mise sur le marché"
+      ],
+      "article_valid_from": null,
+      "text_md": "Une commission d’experts est nommée par le ministre de la Santé. Elle a pour mission de lui fournir des avis motivés sur toutes les demandes d’autorisation de mise sur le marché des médicaments et de lui soumettre le cas échéant des propositions concernant la suspension ou le retrait d’autorisation de mise sur le marché. Un règlement grand-ducal fixe la composition et le fonctionnement de cette commission.",
+      "text_sha256": "944fd477e427bb1c84932ec6e42b13158e8dcf22525777b0c91cd36d7b36f72c",
+      "md_span": {
+        "start": 18877,
+        "end": 19286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Publicité.",
+      "path": [
+        "Chapitre III. — Publicité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Gouvernement est autorisé à réglementer la publicité faite par quelque moyen que ce soit, concernant les médicaments s’adressant au public ainsi qu’aux personnes habilitées à prescrire et à délivrer des médicaments.\n\nToute publicité atteignant par quelque moyen que ce soit le public est interdite si elle n’a pas été au préalable autorisée par le ministre de la Santé ou par un fonctionnaire qu’il désigne à cet effet. Toutefois la publicité générale, mentionnant exclusivement le nom et la composition du produit, le nom du fabricant et son adresse, n’est pas visée par cette interdiction.\n\nUne taxe d’un montant de 500 euros est due pour toute demande d’autorisation de publicité concernant les médicaments. Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.\n\nCommettent une infraction aux dispositions du présent article tant celui qui commande une publicité interdite que celui qui exécute pareille commande.",
+      "text_sha256": "16695759ee08c3f3eefa1f2d1edb28b9c84667da3f57a2eafdf2bdf7a2c664b4",
+      "md_span": {
+        "start": 19364,
+        "end": 20711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19-1",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_19-1",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19-1.",
+      "heading": "Action en cessation",
+      "path": [
+        "Chapitre III. — Publicité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical, du conseil d’administration de l’Union des caisses de maladie, des organisations visées par l’article L. 313-1 et suivant du Code de la consommation ou du Ministre ayant la santé dans ses attributions, peut ordonner la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution.\n\nL’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.\n\nL’action est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours selon la procédure prévue en matière de référé.\n\nSont également applicables les articles 2059 à 2066 du Code civil.\n\nL’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur des installations de vente du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière.\n\nIl ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.\n\nTout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.",
+      "text_sha256": "8cdcf0739ee40b6d2b1919c94a85ec2c5bb3eed17d167a597e694f8aaa0ad5d6",
+      "md_span": {
+        "start": 20772,
+        "end": 22649
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/consommation",
+          "text": "Code de la consommation"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Pénalités.",
+      "path": [
+        "Chapitre IV. — Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les infractions aux dispositions de la présente loi et des règlements à prendre en son exécution sont punies d’un emprisonnement de huit jours à six mois et d’une amende de «deux cent cinquante et un à dix mille euros» ou d’une de ces peines seulement. Les dispositions du live 1er du code pénal ainsi que «les articles 130-1 à 132-1 du code d’instruction criminelle» sont applicables à ces infractions.",
+      "text_sha256": "82b7e36626126d04d72d9bebb7a28a9eb9f8e7983b44842bf8fdc42e1bc3fafa",
+      "md_span": {
+        "start": 22737,
+        "end": 23140
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Abrogation.",
+      "path": [
+        "Chapitre V. — Dispositions abrogatoires et transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "La loi du 4 août 1975 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués est abrogée.\n\nTous les règlements et arrêtés pris en son exécution, pour autant qu’ils sont compatibles avec la présente loi, restent en vigueur jusqu’à ce qu’il en soit autrement disposé.",
+      "text_sha256": "e00362c385aab448d8d972b08d17e48bce0d947c20d8a0e8764c2023ab8190fc",
+      "md_span": {
+        "start": 23249,
+        "end": 23590
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1975/08/04/n5/jo",
+          "text": "loi du 4 août 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1983-04-11-n4:2021-12-06--3efb48fbc3c91698bf8594b5546657ec64995f35ca7f580b109b03c2913340f7#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Autorisations antérieures.",
+      "path": [
+        "Chapitre V. — Dispositions abrogatoires et transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les autorisations de mise sur le marché accordées en vertu de la loi du 4 août 1975 précitée restent valables jusqu’à expiration du terme prévu à l’article 9. Le terme commence à courir pour chaque médicament à partir de la date de l’autorisation.\n\nLes autorisations de mise sur le marché en vertu de la loi du 23 mai 1958 portant\n\n1. réglementation générale de la vente, du débit et de la publicité des spécialités pharmaceutiques dans le Grand-Duché de Luxembourg;\n2. création d’un poste de pharmacien-inspecteur restent valables jusqu’au 20 mai 1990.\n\nEn vue du renouvellement de l’autorisation au-delà de cette date une demande répondant aux exigences de l’article 6 ci-dessus doit être présentée au plus tard le 20 mai 1989 au ministre de la Santé. L’article 9 ci-dessus est applicable à la nouvelle autorisation.\n\nToutefois en cas de modification à apporter à la demande du titulaire à une autorisation accordée en vertu d’une législation antérieure la demande doit être présentée et est appréciée conformément aux dispositions de la présente loi.\n\nLes présentes dispositions transitoires ne font pas obstacle à l’application de l’article 13 aux autorisations accordées antérieurement.",
+      "text_sha256": "caec8df7f6a1a77a4150c2ff543b0785b311aacd4b3805757b29a65fd4fbebef",
+      "md_span": {
+        "start": 23654,
+        "end": 24845
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1975/08/04/n5/jo",
+          "text": "loi du 4 août 1975"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1958/05/23/n1/jo",
+          "text": "loi du 23 mai 1958"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

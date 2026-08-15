@@ -1,0 +1,463 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62",
+  "language": "fr",
+  "title": "Directive 97/7/EC",
+  "valid_from": "2005-06-12",
+  "valid_to": "2007-12-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31997l0007/versions/2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62/fr.xml",
+    "sha256": "965ac000eea8ea2b2f0f57b789602416de74460161bbe7753446e90529a254d8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0007-20050612"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive a pour objet de rapprocher les dispositions législatives, réglementaires et administratives des États membres concernant les contrats à distance entre consommateur et fournisseur.",
+      "text_sha256": "ad6ea9dccae0ee5a0e41b4c58065385eaf73be57da87626d76546ffc0fd32d52",
+      "md_span": {
+        "start": 667,
+        "end": 868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «contrat à distance»: tout contrat concernant des biens ou services conclu entre un fournisseur et un consommateur dans le cadre d'un système de vente ou de prestations de services à distance organisé par le fournisseur, qui, pour ce contrat, utilise exclusivement une ou plusieurs techniques de communication à distance jusqu'à la conclusion du contrat, y compris la conclusion du contrat elle-même;\n\n2) «consommateur»: toute personne physique qui, dans les contrats relevant de la présente directive, agit à des fins qui n'entrent pas dans le cadre de son activité professionnelle;\n\n3) «fournisseur»: toute personne physique ou morale qui, dans les contrats relevant de la présente directive, agit dans le cadre de son activité professionnelle;\n\n4) «technique de communication à distance»: tout moyen qui, sans présence physique et simultanée du fournisseur et du consommateur, peut être utilisé pour la conclusion du contrat entre ces parties. Une liste indicative des techniques visées par la présente directive figure à l'annexe I;\n\n5) «opérateur de technique de communication»: toute personne physique ou morale, publique ou privée, dont l'activité professionnelle consiste à mettre à la disposition des fournisseurs une ou plusieurs techniques de communication à distance.",
+      "text_sha256": "cfccd0a2d155ea5bf2211a72c6f87a0dc9251394aeea8f7dd49c066ce491b6b6",
+      "md_span": {
+        "start": 919,
+        "end": 2252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Exemptions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive ne s'applique pas aux contrats:\n\n— portant sur un service financier auquel s'applique la directive 2002/65/CE du Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers auprès des consommateurs, et modifiant les directives 90/619/CEE du Conseil, 97/7/CE et 98/27/CE (11),\n\n— conclus par le moyen de distributeurs automatiques ou de locaux commerciaux automatisés,\n\n— conclus avec les opérateurs de télécommunications du fait de l'utilisation des cabines téléphoniques publiques,\n\n— conclus pour la construction et la vente des biens immobiliers ou portent sur d'autres droits relatifs à des biens immobiliers, à l'exception de la location,\n\n— conclus lors d'une vente aux enchères.\n\n2. Les articles 4, 5, 6 et l'article 7 paragraphe 1 ne s'appliquent pas:\n\n— aux contrats de fourniture de denrées alimentaires, de boissons ou d'autres biens ménagers de consommation courante fournis au domicile d'un consommateur, à sa résidence ou à son lieu de travail par des distributeurs effectuant des tournées fréquentes et régulières,\n\n— aux contrats de fourniture de services d'hébergement, de transports, de restauration, de loisirs, lorsque le fournisseur s'engage, lors de la conclusion du contrat, à fournir ces prestations à une date déterminée ou à une période spécifiée; exceptionnellement, dans le cas d'activités de loisirs en plein air, le fournisseur peut se réserver le droit de ne pas appliquer l'article 7 paragraphe 2 dans des circonstances spécifiques.",
+      "text_sha256": "e35bfee6e973e01801d592b6d8b8ca34e9cbdc9883e56857824481c22eabd548",
+      "md_span": {
+        "start": 2302,
+        "end": 3851
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0065",
+          "text": "32002L0065: REPLACED"
+        },
+        {
+          "href": "#E0011",
+          "text": "11"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31997L0007",
+          "text": "31997L0007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Informations préalables",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. En temps utile avant la conclusion de tout contrat à distance, le consommateur doit bénéficier des informations suivantes:\n\na) identité du fournisseur et, dans le cas de contrats nécessitant un paiement anticipé, son adresse;\n\nb) caractéristiques essentielles du bien ou du service;\n\nc) prix du bien ou du service, toutes taxes comprises;\n\nd) frais de livraison, le cas échéant;\n\ne) modalités de paiement, de livraison ou d'exécution;\n\nf) existence d'un droit de rétractation, sauf dans les cas visés à l'article 6 paragraphe 3;\n\ng) coût de l'utilisation de la technique de communication à distance, lorsqu'il est calculé sur une base autre que le tarif de base;\n\nh) durée de validité de l'offre ou du prix;\n\ni) le cas échéant, durée minimale du contrat dans le cas de contrats portent sur la fourniture durable ou périodique d'un bien ou d'un service.\n\n2. Les informations visées au paragraphe 1, dont le but commercial doit apparaître sans équivoque, doivent être fournies de manière claire et compréhensible par tout moyen adapté à la technique de communication à distance utilisée, dans le respect, notamment, des principes de loyauté en matière de transactions commerciales et des principes qui régissent la protection des personnes frappées d'incapacité juridique selon leur législation nationale, telles que les mineurs.\n\n3. En outre, dans le cas de communications téléphoniques, le fournisseur indique explicitement au début de toute conversation avec le consommateur son identité et le but commercial de l'appel.",
+      "text_sha256": "ed9c4caee67c063baacc6868c3c1c6c7f17fc07785fb131560f369af6b34fefd",
+      "md_span": {
+        "start": 3914,
+        "end": 5438
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Confirmation écrite des informations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès, confirmation des informations mentionnées à l'article 4 paragraphe 1 points a) à f), en temps utile lors de l'exécution du contrat et au plus tard au moment de la livraison en ce qui concerne les biens non destinés à la livraison à des tiers, à moins que ces informations n'aient déjà été fournies au consommateur préalablement à la conclusion du contrat par écrit ou sur un autre support durable à sa disposition et auquel il a accès.\n\nEn tout état de cause, doivent être fournies:\n\n— une information écrite sur les conditions et les modalités d'exercice du droit de rétractation au sens de l'article 6, y compris les cas visés à l'article 6 paragraphe 3 premier tiret,\n\n— l'adresse géographique de l'établissement du fournisseur où le consommateur peut présenter ses réclamations,\n\n— les informations relatives aux services après-vente et aux garanties commerciales existants,\n\n— les conditions de résiliation du contrat lorsque celui-ci est à durée indéterminée ou d'une durée supérieure à un an.\n\n2. Le paragraphe 1 ne s'applique pas aux services dont l'exécution elle-même est réalisée au moyen d'une technique de communication à distance, lorsque ces services sont fournis en une seule fois, et dont la facturation est effectuée par l'opérateur de la technique de communication. Néanmoins, le consommateur doit en tout cas pouvoir avoir connaissance de l'adresse géographique de l'établissement du fournisseur où le consommateur peut présenter ses réclamations.",
+      "text_sha256": "b66d8a3ac01b972c78d6a8e094248f1d19256990f1148265ed275fccb6496132",
+      "md_span": {
+        "start": 5514,
+        "end": 7096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Droit de rétractation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Pour tout contrat à distance, le consommateur dispose d'un délai d'au moins sept jours ouvrables pour se rétracter sans pénalités et sans indication du motif. Les seuls frais qui peuvent être imputés au consommateur en raison de l'exercice de son droit de rétractation sont les frais directs de renvoi des marchandises.\n\nPour l'exercice de ce droit, le délai court:\n\n— pour les biens, à compter du jour de leur réception par le consommateur lorsque les obligations visées à l'article 5 ont été remplies,\n\n— pour les services, à compter du jour de la conclusion du contrat ou à partir du jour où les obligations prévues à l'article 5 ont été remplies si elles sont remplies après la conclusion du contrat, à condition que le délai n'excède pas le délai de trois mois indiqué à l'alinéa suivant.\n\nAu cas où le fournisseur n'a pas rempli les obligations visées à l'article 5, le délai est de trois mois. Ce délai court:\n\n— pour les biens, à compter du jour de leur réception par le consommateur,\n\n— pour les services, à compter du jour de la conclusion du contrat.\n\nSi, dans ce délai de trois mois, les informations visées à l'article 5 sont fournies, le délai de sept jours ouvrables indiqué au premier alinéa commence à courir dès ce moment.\n\n2. Lorsque le droit de rétractation est exercé par le consommateur conformément au présent article, le fournisseur est tenu au remboursement des sommes versées par le consommateur, sans frais. Les seuls frais qui peuvent être imputés au consommateur en raison de l'exercice de son droit de rétractation sont les frais directs de renvoi des marchandises. Ce remboursement doit être effectué dans les meilleurs délais et, en tout cas, dans les trente jours.\n\n3. Sauf si les parties en ont convenu autrement, le consommateur ne peut exercer le droit de rétractation prévu au paragraphe 1 pour les contrats:\n\n— de fourniture de services dont l'exécution a commencé, avec l'accord du consommateur, avant la fin du délai de sept jours ouvrables prévu au paragraphe 1,\n\n— de fourniture de biens ou de services dont le prix est fonction de fluctuations des taux du marché financier, que le fournisseur n'est pas en état de contrôler,\n\n— de fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ou qui, du fait de leur nature, ne peuvent être réexpédiés ou sont susceptibles de se détériorer ou de se périmer rapidement,\n\n— de fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques descellés par le consommateur,\n\n— de fourniture de journaux, de périodiques et de magazines,\n\n— de services de paris et de loteries.\n\n4. Les États membres prévoient dans leur législation que:\n\n— si le prix d'un bien ou d'un service est entièrement ou partiellement couvert par un crédit accordé par le fournisseur\n\n— ou\n\n— si ce prix est entièrement ou partiellement couvert par un crédit accordé au consommateur par un tiers sur la base d'un accord conclu entre le tiers et le fournisseur,\n\nle contrat de crédit est résilié, sans pénalité, lorsque le consommateur exerce son droit de rétractation conformément au paragraphe 1.\n\nLes États membres déterminent les modalités de la résiliation du contrat de crédit.",
+      "text_sha256": "43507dd787c87ce29bdb37163207330986107fa891b2d6cd88e0fc8269c406fb",
+      "md_span": {
+        "start": 7157,
+        "end": 10354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Sauf si les parties en ont convenu autrement, le fournisseur doit exécuter la commande au plus tard dans un délai de trente jours à compter du jour suivant celui où le consommateur a transmis sa commande au fournisseur.\n\n2. En cas de défaut d'exécution du contrat par un fournisseur résultant de l'indisponibilité du bien ou du service commandé, le consommateur doit être informé de cette indisponibilité et doit pouvoir être remboursé dans les meilleurs délais et, en tout cas, dans les trente jours, des sommes qu'il a, le cas échéant, versées en paiement.\n\n3. Néanmoins, les États membres peuvent prévoir que le fournisseur peut fournir au consommateur un bien ou un service d'une qualité et d'un prix équivalents si la possibilité en a été prévue préalablement à la conclusion du contrat, ou dans le contrat. Le consommateur est informé de cette possibilité de manière claire et compréhensible. Les frais de retour consécutifs à l'exercice du droit de rétractation sont, dans ce cas, à la charge du fournisseur et le consommateur doit en être informé. Dans de tels cas, la fourniture d'un bien ou d'un service ne peut être assimilée à une fourniture non demandée au sens de l'article 9.",
+      "text_sha256": "c0705f6ece6419c985b5baf268390897bddc129419580196b5121dcd1b1e1991",
+      "md_span": {
+        "start": 10403,
+        "end": 11596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Paiement par carte",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à ce que des mesures appropriées existent pour que le consommateur:\n\n— puisse demander l'annulation d'un paiement en cas d'utilisation frauduleuse de sa carte de paiement dans le cadre de contrats à distance couverts par la présente directive,\n\n— en cas d'utilisation frauduleuse, soit recrédité des sommes versées en paiement ou se les voie restituées.",
+      "text_sha256": "f6f6a0f03b6d2241ba5e2689277e037e0ec268a49f12abd0bb402bccd08985c5",
+      "md_span": {
+        "start": 11654,
+        "end": 12034
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005L0029",
+          "text": "32005L0029: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Fourniture non demandée",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Étant donné que les pratiques de fourniture non demandée sont interdites par la directive 2005/29/CE du Parlement européen et du Conseil du 11 mai 2005 relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur (12), les États membres prennent les mesures nécessaires pour dispenser le consommateur de toute contre-prestation en cas de fourniture non demandée, l'absence de réponse ne valant pas consentement.",
+      "text_sha256": "03e2e44e40bd90ea2d7b915a6910b59d0918cbbdb379623aed4f3573c26b51ff",
+      "md_span": {
+        "start": 12097,
+        "end": 12562
+      },
+      "citations": [
+        {
+          "href": "#E0019",
+          "text": "12"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31997L0007",
+          "text": "31997L0007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Limites à l'utilisation de certaines techniques de communication à distance",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. L'utilisation par un fournisseur des techniques suivantes nécessite le consentement préalable du consommateur:\n\n— système automatisé d'appel sans intervention humaine (automate d'appel),\n\n— télécopieur.\n\n2. Les États membres veillent à ce que les techniques de communication à distance, autres que celles visées au paragraphe 1, lorsqu'elles permettent une communication individuelle, ne puissent être utilisées qu'en l'absence d'opposition manifeste du consommateur.",
+      "text_sha256": "9bb6b246cee3da67aa426d0074f189f4804e610fcc7f4abb01c8b891bce7c149",
+      "md_span": {
+        "start": 12679,
+        "end": 13149
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Recours judiciaire ou administratif",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce qu'il existe des moyens adéquats et efficaces pour faire respecter les dispositions de la présente directive dans l'intérêt des consommateurs.\n\n2. Les moyens visés au paragraphe 1 comprennent des dispositions permettant à l'un ou plusieurs des organismes suivants, tels que déterminés par la législation nationale, de saisir selon le droit national les tribunaux ou les organismes administratifs compétents pour faire appliquer les dispositions nationales destinées à la mise en œuvre de la présente directive.\n\na) les organismes publics ou leurs représentants;\n\nb) les organisations de consommateurs ayant un intérêt légitime à protéger les consommateurs;\n\nc) les organisations professionnelles ayant un intérêt légitime à agir.\n\n3.\n\na) Les États membres peuvent établir que la production de la preuve de l'existence d'une information préalable, d'une confirmation écrite ou du respect des délais et du consentement du consommateur peut être à la charge du fournisseur.\n\nb) Les États membres prennent les mesures nécessaires pour que les fournisseurs, ainsi que les opérateurs de techniques de communication lorsqu'ils sont en mesure de le faire, mettent fin aux pratiques non conformes aux dispositions prises en application de la présente directive.\n\n4. Les États membres peuvent prévoir que le contrôle volontaire du respect des dispositions de la présente directive confié à des organismes autonomes et le recours à de tels organismes pour la solution de litiges s'ajoutent aux moyens que les États membres doivent prévoir pour assurer le respect des dispositions de la présente directive.",
+      "text_sha256": "7f9e2d4cb4335c400dc79711449b6242a17215ddff12b62b034d7a9fce95d88e",
+      "md_span": {
+        "start": 13226,
+        "end": 14855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Caractère contraignant des dispositions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le consommateur ne peut renoncer aux droits qui lui sont conférés en vertu de la transposition en droit national de la présente directive.\n\n2. Les États membres prennent les mesures nécessaires pour que le consommateur ne soit pas privé de la protection accordée par la présente directive du fait du choix du droit d'un pays tiers comme droit applicable au contrat, lorsque le contrat présente un lien étroit avec le territoire d'un ou de plusieurs des États membres.",
+      "text_sha256": "a0680351c2bda65105e8f94f33e596c47be1560f123b146f565c3888c9a0f7c5",
+      "md_span": {
+        "start": 14936,
+        "end": 15406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Règles communautaires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les dispositions de la présente directive s'appliquent pour autant qu'il n'existe pas, dans le cadre de réglementations communautaires, des dispositions particulières qui régissent certains types de contrats à distance dans leur globalité.\n\n2. Lorsqu'une réglementation communautaire spécifique contient des dispositions qui ne régissent que certains aspects de la fourniture de biens ou de services, ces dispositions s'appliquent, de préférence aux dispositions de la présente directive, à ces aspects précis des contrats à distance.",
+      "text_sha256": "67b6fef74dae2d0897a8961691fd780c61c3a06a8925ba5f6fb8c5624dc6cd4b",
+      "md_span": {
+        "start": 15469,
+        "end": 16006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Clause minimale",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres peuvent adopter ou maintenir, dans le domaine régi par la présente directive, des dispositions plus strictes compatibles avec le traité, pour assurer un niveau de protection plus élevé au consommateur. Ces dispositions comprennent, le cas échéant, l'interdiction, pour des raisons d'intérêt général, de la commercialisation sur leur territoire par voie de contrats à distance de certains biens ou services, notamment des médicaments, dans le respect du traité.",
+      "text_sha256": "f2e8ca03c52a6c5edcbd14f91e5606840dbab10e442ba2e174c45eeedfdbfb55",
+      "md_span": {
+        "start": 16063,
+        "end": 16541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Mise en œuvre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard trois ans après son entrée en vigueur. Ils en informent immédiatement la Commission.\n\n2. Lorsque les États membres adoptent les dispositions visées au paragraphe 1, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n3. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.\n\n4. Au plus tard quatre ans après l'entrée en vigueur de la présente directive, la Commission présente au Parlement européen et au Conseil un rapport sur l'application de la présente directive, accompagné, le cas échéant, d'une proposition de révision de la présente directive.",
+      "text_sha256": "c608ae5c232534e1f46fe84710ec4c375cf8c5380d269e229e0c41237f603e25",
+      "md_span": {
+        "start": 16596,
+        "end": 17578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Information du consommateur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres prennent les mesures appropriées pour informer le consommateur sur la législation nationale transposant la présente directive et incite, le cas échéant, les organisations professionnelles à informer les consommateurs sur leurs codes de pratique.",
+      "text_sha256": "5856d9f28bb8bdaa03d53b42243f72ed0cd9af0e14b442a3d4047a15b29c68ab",
+      "md_span": {
+        "start": 17647,
+        "end": 17910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Systèmes de réclamations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La Commission étudie la possibilité de mettre en place des moyens efficaces pour traiter les réclamations des consommateurs en matière de ventes à distance. Dans les deux ans suivant l'entrée en vigueur de la présente directive, la Commission soumet un rapport au Parlement européen et au Conseil sur les résultats des études réalisées, en l'accompagnant, le cas échéant, des propositions appropriées.",
+      "text_sha256": "76fade05cfdadc91a592d0358dca0f7d232b9dee5356ab985a7bd3679e147acc",
+      "md_span": {
+        "start": 17976,
+        "end": 18377
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au *Journal officiel des Communautés européennes*.",
+      "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+      "md_span": {
+        "start": 18416,
+        "end": 18531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 18570,
+        "end": 18632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18671,
+        "end": 18671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "techniques_de_communication_visees_a_l_article_2_point_4",
+      "provision_id": "eu-eurlex:31997l0007:2005-06-12--7c675c727c563845eabc9e9afe29721343bbecb0f7651a01540c534775410d62#techniques_de_communication_visees_a_l_article_2_point_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Techniques de communication visées à l'article 2 point 4",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "— Imprimé non adressé\n\n— Imprimé adressé\n\n— Lettre standardisée\n\n— Publicité presse avec bon de commande\n\n— Catalogue\n\n— Téléphone avec intervention humaine\n\n— Téléphone sans intervention humaine (automate d'appel, audiotexte)\n\n— Radio\n\n— Visiophone (téléphone avec image)\n\n— Vidéotexte (micro-ordinateur, écran de télévision) avec clavier ou écran tactile\n\n— Courrier électronique\n\n— Télécopieur\n\n— Télévision (téléachat, télévente).\n\n(1) JO no C 156 du 23. 6. 1992, p. 14.\n\nJO no C 308 du 15. 11. 1993, p. 18.\n\n(2) JO no C 19 du 25. 1. 1993, p. 111.\n\n(3) Avis du Parlement européen du 26 mai 1993 (JO no C 176 du 28. 6. 1993, p. 95), position commune du Conseil du 29 juin 1995 (JO no C 288 du 30. 10. 1995, p. 1) et décision du Parlement européen du 13 décembre 1995 (JO no C 17 du 22. 1. 1996, p. 51). Décision du Parlement européen du 16 janvier 1997 et décision du Conseil du 20 janvier 1997.\n\n(4) JO no C 92 du 25. 4. 1975, p. 1.\n\n(5) JO no C 167 du 5. 7. 1986, p. 1.\n\n(6) JO no C 294 du 22. 11. 1989, p. 1.\n\n(7) JO no L 250 du 19. 9. 1984, p. 17.\n\n(8) JO no L 156 du 10. 6. 1992, p. 21.\n\n(9) JO no L 298 du 17. 10. 1989, p. 23.\n\n(10) JO no L 113 du 30. 4. 1992, p. 13.\n\n(11) JO L 271 du 9.10.2002, p. 16.\n\n(12) JO L 149 du 11.6.2005, p. 22.",
+      "text_sha256": "fe5680d0409675ba1be76cc22908af3514aebcbc8fc7a6cae36827bb4688e9c3",
+      "md_span": {
+        "start": 18806,
+        "end": 20054
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0065",
+          "text": "32002L0065: DELETED"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "12"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

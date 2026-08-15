@@ -1,0 +1,271 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/04/2017 : Loi du 18 décembre 1985 relative aux médicaments vétérinaires.",
+  "valid_from": "2002-01-01",
+  "valid_to": "2017-04-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1985-12-18-n1/versions/2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3/fr.xml",
+    "sha256": "6e74e0ff9af1bc3358b7fdae74b9453ce7c1ac9d1b484c3db313f7c556ab0c44",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20020101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_1er/19851231",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Pour l´application de la présente loi on entend par:\n\n1. spécialité pharmaceutique: tout médicament préparé à l´avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.\n2. médicament préfabriqué: tout médicament, à l´exception de la spécialité pharmaceutique, préparé à l´avance, mis sur le marché sous forme pharmaceutique.\n3. - toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l´égard des maladies humaines ou animales.\n- toute substance ou composition pouvant être administrée à l´homme ou à l´animal en vue d´établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l´homme ou l´animal est également considérée comme médicament.\n4. médicament vétérinaire: tout médicament destiné aux animaux.\n5. - - le sang humain et les produits dérivés du sang humain;\n- - les micro-organismes, animaux entiers, parties d´organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang etc.;\n- - les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.;\n- - les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.\n6. Forme pharmaceutique: toutes les formes utilisées en vue de l´administration ou de l´application d´un médicament.\n7. médicament vétérinaire préfabriqué: tout médicament vétérinaire préparé à l´avance et ne répondant pas à la définition des spécialités pharmaceutiques, mis sur le marché sous une forme pharmaceutique utilisable sans transformation.\n8. prémélange pour aliments médicamenteux: tout médicament vétérinaire préparé à l´avance en vue de la fabrication ultérieure d´aliments médicamenteux.\n9. aliments médicamenteux: tout mélange de médicament(s) vétérinaire(s) et d´aliment(s) préparé préalablement à sa mise sur le marché et destiné à être administré aux animaux sans transformation, en raison des propriétés curatives ou préventives ou des autres propriétés du médicament visées sous 3 ci-dessus.\n\nLes additifs incorporés aux aliments des animaux et aux aliments complémentaires des animaux, tels qu´ils sont définis à la directive 70/524/CEE du 23 novembre 1970 concernant les additifs dans les aliments des animaux ne sont pas à considérer comme médicaments vétérinaires au sens de la présente loi.",
+      "text_sha256": "4bf9e22f92e0be28e3473042efd1f1a6129f9f95863b9160648172db74ee71a5",
+      "md_span": {
+        "start": 669,
+        "end": 3052
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1970/524/jo",
+          "text": "directive 70/524/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_2/19851231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Les dispositions de la loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués ainsi que celles de la loi du 4 août 1975 concernant la fabrication et l´importation des médicaments telle qu´elle a été modifiée par la loi du 11 avril 1983 sont applicables aux médicaments vétérinaires, qu´ils soient présentés notamment sous forme de spécialités pharmaceutiques, de médicaments vétérinaires préfabriqués ou de prémélanges pour aliments médicamenteux.\n\nLa fabrication, l´importation et la mise sur le marché des médicaments vétérinaires sont en outre régies par les dispositions particulières de la présente loi.\n\nLes règlements grand-ducaux pris ou à prendre en vertu des lois précitées sont applicables aux médicaments vétérinaires, sauf les dispositions qui sont particulières à ces derniers et qui sont fixées par un règlement grand-ducal séparé, qui sera pris sur avis du collège médical et du collège vétérinaire.",
+      "text_sha256": "148a0bf905c3b549860cef83ecca808c15e9999e9e041b432d5f7222692e03e3",
+      "md_span": {
+        "start": 3087,
+        "end": 4099
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1975/08/04/n4/jo",
+          "text": "loi du 4 août 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_3/19851231",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "L´autorisation de mise sur le marché, si elle est accordée, peut être assortie de l´obligation pour le responsable de la mise sur le marché d´indiquer sur le récipient et/ou sur l´emballage extérieur et sur la notice, lorsqu´elle est jointe, des mentions essentielles pour la sécurité ou pour la protection de la santé, y compris les précautions particulières d´emploi et autres avertissements résultant des essais cliniques et pharmacologiques ou qui après la commercialisation résultent de l´expérience acquise lors de l´emploi du médicament.\n\nL´autorisation peut également être assortie de l´obligation d´introduire une substance de marquage dans le médicament.",
+      "text_sha256": "cca0879ee42117eca6373dd3e85f01b4fb14fe1fa0b7f488ad264a30795357eb",
+      "md_span": {
+        "start": 4200,
+        "end": 4864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_4/19851231",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "La dérogation aux articles 3 et 4 de la loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués prévue à l´article 5 de la même loi s´applique également lorsque le pharmacien d´officine est en possession d´une ordonnance individuelle nominale pour le traitement d´un animal malade ou d´une ordonnance médicale collective en vue du traitement d´un cheptel ou d´un groupe d´animaux.",
+      "text_sha256": "2d0c300b466555db6f9ab75b9312a1096ef2bbf993776a42d73bcee03cf6f155",
+      "md_span": {
+        "start": 4899,
+        "end": 5375
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_5/19851231",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Sans préjudice des motifs de refus visés à l´article 10 de la loi du 11 avril 1983 précitée, l´autorisation de mise sur le marché est encore refusée lorsqu´il apparaît:\n\n1. dans le cas d´un médicament pour animaux dont la viande et/ou les produits sont destinés à la consommatio n humaine, que le temps d´attente indiqué par le demandeu r est insuffisant pour que les denrées alimentaires provenant de l´animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur ou est insuffisamment justifié;\n2. que le médicament est présenté pour une utilisation interdite en vertu de dispositions nationales ou communautaires;\n3. que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux.",
+      "text_sha256": "2433b3cc4dabe28c19ee530175b7aac5775eb71a304009ecfa7cc19ec5094da9",
+      "md_span": {
+        "start": 5410,
+        "end": 6197
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_6/19851231",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Sans préjudice des motifs de suspension et de retrait visés à l´article 13 de la loi précitée l´autorisation de mise sur le marché est encore suspendue ou retirée lorsqu´il apparaît:\n\n1. que le temps d´attente est insuffisant pour que les denrées alimentaires provenant de l´animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur;\n2. que le médicament est présenté pour une utilisation interdite en vertu d´autres dispositions nationales ou communautaires;\n3. que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux;\n4. que l´obligation visée au dernier alinéa de l´article 3 ci-dessus n´a pas été respectée.",
+      "text_sha256": "4c4280bd4897e23f6e4f8e082ad15754776b64ea148f12eafc20920c90cac83d",
+      "md_span": {
+        "start": 6232,
+        "end": 6957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_7/19851231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "L´administration à un animal d´un médicament vétérinaire non couvert par une autorisation de mise sur le marché est interdite, sans préjudice de la dérogation énoncée à l´article 4 ci-dessus.",
+      "text_sha256": "d2f79e0fde1108f43e0de6653216f657174d84473664d2c46b24f780ea39c046",
+      "md_span": {
+        "start": 6992,
+        "end": 7183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_8/19851231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Mise sur le marché des médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Une autorisation de mise sur le marché n´est pas requise pour les médicaments vétérinaires destinés exclusivement à être utilisés pour les poissons d´aquarium, oiseaux d´appartement, pigeons voyageurs, animaux de terrarium et petits rongeurs, pour autant que ces médicaments ne contiennent pas de substances dont l´utilisation nécessite un contrôle vétérinaire.\n\nLe responsable de la mise sur le marché notifie au ministre de la Santé son intention de mettre le médicament sur le marché. Il indique la composition et les indications thérapeutiques du médicament. Si dans les deux mois de la notification jugée conforme à la disposition qui précède le ministre, après consultation de la commission d´experts chargée de lui fournir des avis motivés sur les demandes d´autorisation de mise sur le marché des spécialités pharmaceutiques et des médicaments préfabriqués, n´a pas fait connaître d´opposition, le médicament peut être mis en vente.\n\nSi le ministre estime que le médicament contient des substances dont l´utilisation nécessite un contrôle vétérinaire ou qu´il est susceptible d´être abusivement utilisé pour d´autres animaux, il fait connaître son opposition au responsable de la mise sur le marché. Celui-ci, s´il persiste dans son intention de mettre le médicament sur le marché, est alors tenu de présenter une demande d´autorisation de mise sur le marché en bonne et due forme.\n\nPar dérogation à l´article 3 de la loi du 25 novembre 1975 concernant la délivrance au public de médicaments, les médicaments dont question au présent article sont dispensés de l´obligation de la délivrance en pharmacie.",
+      "text_sha256": "306551179c6c934dd5ef92eb0f6f677536b2e64df9356a1d9401a9d206fd424e",
+      "md_span": {
+        "start": 7218,
+        "end": 8829
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1975/11/25/n1/jo",
+          "text": "loi du 25 novembre 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_9/19851231",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. Fabrication et importation de médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Les antibiotiques et les substances à activité hormonale utilisables pour la préparation de médicaments vétérinaires ne peuvent être délivrés qu´aux détenteurs d´une autorisation de fabriquer des médicaments et aux pharmaciens tenant officine.",
+      "text_sha256": "9d16f86f0b8410aa7f7fae59e3e022469a90f936b8ea62ae6671fd4600d33c88",
+      "md_span": {
+        "start": 8935,
+        "end": 9178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_10/19851231",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. Fabrication et importation de médicaments vétérinaires"
+      ],
+      "article_valid_from": "1985-12-31",
+      "text_md": "Les aliments médicamenteux ne peuvent être préparés qu´à partir de prémélanges pour aliments médicamenteux ayant reçu une autorisation de mise sur le marché.\n\nUn règlement grand-ducal, pris sur avis du collège médical et du collège vétérinaire, détermine les substances médicamenteuses pouvant être utilisées pour la préparation des prémélanges.",
+      "text_sha256": "a410e9e0bb2b777671069f713c34dda2547d52319d2592526682418853ba4314",
+      "md_span": {
+        "start": 9215,
+        "end": 9560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1985-12-18-n1:2002-01-01--5976cae5d6258056d311e0e3b4313bffb7565904b214195c238899b2867076f3#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/art_11/20020101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. Dispositions pénales"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les infractions aux dispositions de la présente loi sont punies d´un emprisonnement de huit jours à six mois et d´une amende de deux cent cinquante et un à dix mille euros, ou d´une de ces peines seulement.\n\nLes dispositions du livre 1er du code pénal ainsi que celles de la loi du 18 juin 1879, telle qu´elle a été modifiée par la loi du 16 mai 1904 sur les circonstances atténuantes, sont applicables à ces infractions.",
+      "text_sha256": "4c4ee8675dd04f6c3a3e73e714aad9a7ffe5e9ab005080e067016e006858cb55",
+      "md_span": {
+        "start": 9634,
+        "end": 10055
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1879/06/18/n1/jo",
+          "text": "loi du 18 juin 1879"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1904/05/16/n3/jo",
+          "text": "loi du 16 mai 1904"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

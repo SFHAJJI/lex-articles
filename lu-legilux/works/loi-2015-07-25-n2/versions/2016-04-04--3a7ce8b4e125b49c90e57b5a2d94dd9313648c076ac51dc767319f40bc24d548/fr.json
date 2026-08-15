@@ -1,0 +1,336 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548",
+  "language": "fr",
+  "title": "Loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.",
+  "valid_from": "2016-04-04",
+  "valid_to": "2018-04-23",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2015-07-25-n2/versions/2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548/fr.xml",
+    "sha256": "31f5c1d7a770590e159cdb851123cadeaa092754f4dd4379843ce61bb7a91317",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20160404/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_1er/20150920",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** La présente loi a pour objectif la mise en place d’un système de contrôle et de sanction automatisés, désigné ci-après par le «système CSA», qui consiste en un traitement automatisé de données à caractère personnel dont la finalité est de constater au moyen d’appareils de contrôle automatique des infractions à la législation routière ainsi que d’appliquer consécutivement la sanction.\n\n**(2)** Il est créé sous l’autorité du ministre ayant la Police dans ses attributions, désigné ci-après par le «ministre», un Centre de constatation et de sanction des infractions routières, désigné ci-après par le «Centre».\n\nEn vue d’assurer le fonctionnement du système CSA, le Centre a pour mission le traitement des infractions, la gestion des contestations ainsi que les travaux et services administratifs inhérents au système CSA.",
+      "text_sha256": "09a999014ff1e9953ce4bc88c183c1f5b615e8d4eefa02ae9ff2cf3a3bac6508",
+      "md_span": {
+        "start": 658,
+        "end": 1490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_15/20160404",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Finalités du système CSA.",
+      "path": [],
+      "article_valid_from": "2016-04-04",
+      "text_md": "**(1)** Le système CSA a les finalités suivantes:\n\n1. 1. loi modifiée du 14 février 1955 bis loi précitée du 14 février 1955\n2. loi précitée du 14 février 1955\n3. loi précitée du 14 février 1955\n4. loi précitée du 14 février 1955\n2. identifier le conducteur, le propriétaire ou le détenteur d’un véhicule ayant servi à commettre une infraction aux règles de circulation visées au point 1.;\n3. loi précitée du 14 février 1955\n4. loi précitée du 14 février 1955\n5. gérer les courriers des personnes concernées en relation avec les avertissements taxés qui leur sont envoyés;\n6. bis loi précitée du 14 février 1955\n\n**(2)** Au sens de la présente loi, on entend par «donnée», toute donnée à caractère personnel telle que définie à l’article 2 (e) de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.\n\n**(3)** La constatation des infractions visées au paragraphe 1er, point 1, se fait, au moyen des appareils automatiques définis à l’article 3, conformément à l’article 9-2 du Code d’instruction criminelle.\n\n**(4)** Lorsqu’une infraction autre que celles prévues au paragraphe 1er, point 1. est constatée au moyen du système CSA, les données traitées dans le cadre du système CSA peuvent servir aux fins de poursuites selon le droit commun.",
+      "text_sha256": "0930f0d02d614960435678adbd09eb13c089a1d40eae70344ccab44571a3fabd",
+      "md_span": {
+        "start": 1551,
+        "end": 2867
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_3/20150920",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Appareils automatiques",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** Les appareils de contrôle automatisé destinés à constater et à enregistrer les infractions à la législation routière visées à l’article 2, paragraphe 1er, point 1., désignés ci-après «les appareils automatiques», doivent être agréés ou homologués aux frais des fabricants, importateurs ou distributeurs qui demandent l’agrément ou l’homologation, conformément aux dispositions à déterminer par règlement grand-ducal qui fixe en outre les modalités d’utilisation de ces appareils automatiques.\n\nEn ce qui concerne les appareils automatiques destinés à constater et à enregistrer l’infraction à la législation routière visée à l’article 2, paragraphe 1er, point 1. sous a), ils peuvent se présenter sous forme fixe ou mobile et être conçus pour mesurer soit la vitesse des véhicules en rapprochement ou en éloignement, soit la vitesse moyenne des véhicules entre deux points.\n\n**(2)** Les données enregistrées par ces appareils automatiques font foi jusqu’à preuve du contraire.\n\n**(3)** Pour l’application de la présente loi, le Centre est considéré comme étant le lieu de constatation de l’infraction par un officier ou agent de police judiciaire. Toutefois, pour l’application de l’article 26, paragraphe 1er, du Code d’instruction criminelle, le lieu où l’infraction est constatée et enregistrée au moyen des appareils automatiques est considéré comme étant le lieu d’infraction.\n\nLorsque le dépassement de la limitation réglementaire de la vitesse est constaté au moyen d’un appareil de contrôle automatisé destiné à relever une vitesse moyenne supérieure à la vitesse maximale autorisée entre deux points de mesure, le lieu de l’infraction est le deuxième point.\n\n**(4)** Lorsqu’aucun dépassement de la limitation réglementaire de la vitesse n’est constaté, les données traitées et la vitesse moyenne calculée correspondante sont supprimées au plus tard vingt-quatre heures après leur enregistrement.",
+      "text_sha256": "92780a5c700c42c62ef471a1eba5fc46c9d44b0dd1093cecb565955771e8ec63",
+      "md_span": {
+        "start": 2925,
+        "end": 4837
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_4/20150920",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Responsabilité.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** Par dérogation aux dispositions de l’alinéa 1 de l’article 14*bis* de la loi précitée du 14 février 1955, la personne figurant, au moment de l’infraction, comme détenteur, ou à défaut comme propriétaire, sur le certificat d’immatriculation prévu par la loi précitée du 14 février 1955, du véhicule à l’aide duquel une infraction à la législation routière énumérée à l’article 2, paragraphe 1er, point 1. est commise, est redevable pécuniairement de l’amende encourue pour les infractions à la législation routière visées à l’article 2, paragraphe 1er, point 1., lorsque celle-ci est constatée au moyen des appareils automatiques, sous les réserves prévues au paragraphe 2.\n\nSous réserve du paragraphe 3, la personne déclarée redevable pécuniairement en application du présent paragraphe n’est pas responsable pénalement de l’infraction et l’application de ces dispositions ne donne lieu ni à une inscription au casier judiciaire, ni à une prise en compte au titre de la récidive, ni à une interdiction de conduire, ni à une réduction de points conformément à l’article 2*bis* de la loi précitée du 14 février 1955.\n\nLorsque la personne figurant, au moment de l’infraction, comme détenteur, ou à défaut comme propriétaire, sur le certificat d’immatriculation du véhicule à l’aide duquel une infraction est commise est une personne morale, la responsabilité pécuniaire prévue à l’alinéa 1 incombe au représentant légal de cette personne morale, sous les réserves prévues au paragraphe 2.\n\nLorsque le véhicule à l’aide duquel une infraction est commise est loué à un tiers au moment de l’infraction, la responsabilité pécuniaire prévue à l’alinéa 1 incombe au locataire, sous les réserves prévues au paragraphe 2.\n\nDans le cas où le véhicule à l’aide duquel une infraction est commise a été cédé avant la date de la détection de l’infraction, la responsabilité pécuniaire prévue à l’alinéa 1 incombe, sous les réserves prévues au paragraphe 2, au cessionnaire du véhicule.\n\n**(2)** La responsabilité pécuniaire prévue au paragraphe 1er s’applique, à moins que la personne pécuniairement responsable conformément au paragraphe 1er n’établisse qu’au moment de l’infraction, le véhicule ne se trouvait pas sous sa garde par l’effet de la soustraction frauduleuse ou du détournement frauduleux ou d’un événement de force majeure ou qu’elle ne fournisse des renseignements permettant d’identifier le conducteur du véhicule au moment de l’infraction.\n\n**(3)** Par le paiement spontané de l’avertissement taxé prévu à l’article 5, la personne pécuniairement responsable conformément au paragraphe 1er reconnaît avoir commis l’infraction. Dans ce cas les dispositions de l’alinéa 1 de l’article 14*bis* de la loi précitée du 14 février 1955 sont d’application. Il en est de même en cas de condamnation judiciaire de la personne pécuniairement responsable.",
+      "text_sha256": "8e1a13a7073b86835e2076165c74a4372374c32448f646c03bc7700d9ff2eb8d",
+      "md_span": {
+        "start": 4888,
+        "end": 7740
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi précitée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_5/20160404",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Avertissement taxé.",
+      "path": [],
+      "article_valid_from": "2016-04-04",
+      "text_md": "**(1)** La personne pécuniairement responsable conformément à l’article 4, paragraphe 1er, est informée par lettre recommandée, accompagnée d’un avis de réception qu’elle est redevable du paiement d’un avertissement taxé.\n\nCette information est valablement faite à l’adresse figurant au registre national des personnes physiques prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, au registre national des personnes physiques, à la carte d’identité, aux registres communaux des personnes physiques pour la personne qui est mentionnée sur le certificat d’immatriculation du véhicule en tant que détenteur, ou à défaut propriétaire de celui-ci. Dans le cas d’une personne morale détenteur, ou à défaut propriétaire du véhicule, cette information est valablement faite à l’adresse figurant au répertoire général des personnes physiques et morales créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.\n\n**(2)** Le modèle de la lettre informant la personne pécuniairement redevable qu’elle est redevable du paiement d’un avertissement taxé, et comprenant l’avis de constatation et un formulaire de contestation est fixé par règlement grand-ducal.\n\n**(3)** En cas de désignation du conducteur du véhicule au moment de l’infraction conformément à l’article 4, paragraphe 2, la personne désignée est informée conformément aux dispositions prévues aux paragraphes 1er et 2 qu’elle est redevable du paiement d’un avertissement taxé.",
+      "text_sha256": "62ea0fe9414ff3ce9ef1d73de354ea4d0149d1b5b07062ddfb346ef23a8dbef2",
+      "md_span": {
+        "start": 7795,
+        "end": 9321
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/06/19/n3/jo",
+          "text": "loi modifiée du 19 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/03/30/n1/jo",
+          "text": "loi modifiée du 30 mars 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_6/20150920",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Paiement de l’avertissement taxé.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** Le paiement de l’avertissement taxé doit intervenir dans un délai de 45 jours par versement ou par virement au compte postal ou bancaire indiqué dans la lettre recommandée prévue par l’article 5 ou par carte bancaire. Le délai de 45 jours court à partir de la date où la personne ayant fait l’objet d’un avertissement taxé a accepté la lettre recommandée ou, à défaut, à partir du jour de la présentation de la lettre recommandée ou du jour du dépôt de l’avis par le facteur des postes.\n\n**(2)** Pour autant qu’il n’y soit pas dérogé par la présente loi, les dispositions des alinéas 4 à 8 de l’article 15 de la loi précitée du 14 février 1955 s’appliquent.",
+      "text_sha256": "831aa81eb77e9c5f1a7f78d0b9ea7f791d174b13fba7f4bda2a3b98e911c3971",
+      "md_span": {
+        "start": 9390,
+        "end": 10055
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi précitée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_7/20160404",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Procès-verbal.",
+      "path": [],
+      "article_valid_from": "2016-04-04",
+      "text_md": "**(1)** Si l’infraction constatée donne lieu à l’établissement d’un procès-verbal, la personne pécuniairement responsable dans les conditions prévues à l’article 4, paragraphe 1er, doit être entendue. Elle en est informée par lettre recommandée.\n\nEn cas de désignation du conducteur du véhicule au moment de l’infraction conformément à l’article 4, paragraphe 2, la personne désignée doit être entendue. Elle en est informée par lettre recommandée.\n\n**(2)** Si la personne concernée n’exerce pas son droit d’être entendue dans un délai de 45 jours, le procès-verbal est transmis au procureur d’Etat compétent. Le délai de 45 jours court à partir de la date où l’intéressé a accepté la lettre recommandée ou, à défaut, à partir du jour de la présentation de la lettre recommandée ou du jour du dépôt de l’avis par le facteur des postes.\n\n**(3)** En cas d’établissement d’un procès-verbal suite à la constatation dans le chef du conducteur d’un dépassement de la limitation réglementaire de la vitesse de plus de 50 pour cent du maximum réglementaire de la vitesse autorisée, la vitesse constatée étant d’au moins 40 km/h supérieure à ce maximum, il est procédé au retrait immédiat du permis de conduire conformément au paragraphe 13 de l’article 13 de la loi précitée du 14 février 1955.",
+      "text_sha256": "c36c67cb446b642c69186b658c7f9c818805452ec55b425cc0b6c83982a3f106",
+      "md_span": {
+        "start": 10105,
+        "end": 11391
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi précitée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_8/20150920",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Droit de contestation.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** En application de l’article 4, paragraphe 2, la personne pécuniairement responsable dans les conditions prévues à l’article 4, paragraphe 1er, peut, dans un délai de 45 jours, contester être l’auteur de l’infraction. Le délai de 45 jours court à partir de la date où la personne concernée a accepté la lettre recommandée ou, à défaut, à partir du jour de la présentation de la lettre recommandée ou du jour du dépôt de l’avis par le facteur des postes.\n\nA cette fin, elle retourne par lettre recommandée, accompagnée d’un avis de réception, le formulaire de contestation, dûment rempli et signé, au Centre et accompagné de l’un des documents suivants:\n\n1. du récépissé du dépôt de plainte pour soustraction frauduleuse ou détournement frauduleux ou d’une copie de la déclaration de destruction du véhicule;\n2. d’une attestation écrite, datée et signée de la main de son auteur précisant les nom, prénoms, sexe et adresse de la personne qu’elle désigne comme conducteur du véhicule au moment de l’infraction;\n3. d’une copie de contrat de cession du véhicule dûment rempli et cosigné par le cessionnaire et de la preuve de la transaction dans le fichier des véhicules routiers et de leurs propriétaires et détenteurs;\n4. d’une copie du contrat de location.\n\nLe formulaire de contestation indique en outre que son auteur a connaissance qu’une fausse déclaration de sa part l’expose à des sanctions pénales.\n\n**(2)** La contestation est admise, à condition:\n\n1. er\n2. er\n\nDans ce cas, la responsabilité pécuniaire dont question à l’article 4, paragraphe 1er, n’est pas engagée et le concerné en est informé par écrit.\n\n**(3)** Un officier ou agent de police judiciaire vérifie la contestation. Si la contestation n’est pas admise, l’officier ou agent de police judiciaire dresse un procès-verbal qui est transmis au procureur d’État.\n\n**(4)** La contestation interrompt les délais de paiement et de prescription.",
+      "text_sha256": "6c8e34fde2ad8f1dbf5fee9b4aac1eaac5f2a85a513b49ab06fa5236fed17072",
+      "md_span": {
+        "start": 11449,
+        "end": 13365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_9/20150920",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Aménagement de la procédure applicable aux non-résidents.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "Si la personne concernée n’a pas sa résidence normale au Luxembourg, les délais prévus aux articles 6, 7 et 8 sont augmentés d’un mois.\n\nPar dérogation aux dispositions prévues aux articles 5 et 7, si la personne concernée a sa résidence normale dans un pays tombant sous le champ d’application de la loi du 19 décembre 2014 facilitant l’échange transfrontalier d’informations concernant les infractions en matière de sécurité routière, l’information prévue aux articles 5 et 7 se fait en application des dispositions de la loi précitée du 19 décembre 2014.",
+      "text_sha256": "5e360ee918f80762d94001db10e37af31cdcd6219acfa93f39730111162e6d27",
+      "md_span": {
+        "start": 13458,
+        "end": 14015
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n7/jo",
+          "text": "loi du 19 décembre 2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/12/19/n7/jo",
+          "text": "loi précitée du 19 décembre 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_10/20150920",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Traitement des données du système CSA.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "Le Centre procède au traitement des données à caractère personnel qui est nécessaire à l’accomplissement de ses missions.\n\nLe traitement s’effectue conformément à la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.\n\nIl fait l’objet d’un règlement grand-ducal prévu à l’article 17, paragraphe 1er, de la loi précitée du 2 août 2002.\n\nSans préjudice des données traitées par le Centre et soumises au régime de l’article 8 de la loi précitée du 2 août 2002 et des dispositions de l’article 11 de la présente loi, tout accès aux données non prévu par l’article 11 s’exerce conformément audit article 17, paragraphe 2, alinéa 5.",
+      "text_sha256": "1ffe468c904be445922f45bad90e03dee68d6c160c9a946da23e97a4dab2899a",
+      "md_span": {
+        "start": 14091,
+        "end": 14791
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi précitée du 2 août 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_11/20150920",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Droit d’accès aux données du système CSA.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**(1)** Toute personne pécuniairement responsable ou ayant été désignée comme conducteur du véhicule au moment de l’infraction a le droit de consulter la photo concernant le véhicule en infraction et les données à caractère personnel la concernant traitées dans le cadre de l’exploitation du système CSA. Elle peut donner une procuration écrite, datée et signée de sa main à une personne de son choix pour exercer ce droit pour elle.\n\n**(2)** Cette consultation se fait au Centre et sous le contrôle de la Police grand-ducale.\n\n**(3)** Lors de l’exercice du droit d’accès, toute personne autre que le conducteur est masquée sur la photo exhibée, sauf si la photo concerne un véhicule utilisé au moment de l’infraction dans le cadre de l’apprentissage ou de l’examen pratiques en vue de l’obtention du permis de conduire.",
+      "text_sha256": "10602763ae579ea7d1fed22778810e5b82708ebbb541f38da0f8b4693b312eaa",
+      "md_span": {
+        "start": 14870,
+        "end": 15690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_12/20150920",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Dispositions pénales.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "Toute fausse déclaration dans une intention frauduleuse ou à dessein de nuire dans le cadre de l’application des articles 4 et 8 est punie d’une amende de 251 à 10.000 euros.",
+      "text_sha256": "9fed0495077ce69fa9ec386924b9f0c795ce7dd5c4a721f546110dc2e3c41369",
+      "md_span": {
+        "start": 15749,
+        "end": 15923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_13/20150920",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Dispositions modificatives.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "**1.** La loi précitée du 14 février 1955 est modifiée comme suit:\n\n1. 1. en cas de constatation d’un dépassement de la limitation réglementaire de la vitesse de plus de 50 pour cent du maximum de la vitesse autorisée et d’au moins 20 km/heure par rapport à ce maximum.\n2. Jusqu’à remise de cette somme, le véhicule conduit par le contrevenant peut être retenu.\n3. Les dispositions du présent article ne s’appliquent pas aux avertissements taxés décernés en application de la loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.\n\n**2.** L’article 48-24 du Code d’instruction criminelle est complété in fine par un point 11 libellé comme suit:",
+      "text_sha256": "3b9eeb2e85c4bd0137b7044ff4eb1a734fccb6a2504180061540445a87b3148b",
+      "md_span": {
+        "start": 15988,
+        "end": 16668
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n3/jo",
+          "text": "loi précitée du 14 février 1955"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/07/25/n2/jo",
+          "text": "loi du 25 juillet 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2015-07-25-n2:2016-04-04--3a7ce8b4e125b49c90e57b5a2d94dd9313648c076ac51dc767319f40bc24d548#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/art_14/20150920",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Disposition finale.",
+      "path": [],
+      "article_valid_from": "2015-09-20",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés».",
+      "text_sha256": "4ec9fa4d96501dd368611822279abbe05ae3ccd3748a88764a273c6706837209",
+      "md_span": {
+        "start": 16725,
+        "end": 16920
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/07/25/n2/jo",
+          "text": "loi du 25 juillet 2015"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

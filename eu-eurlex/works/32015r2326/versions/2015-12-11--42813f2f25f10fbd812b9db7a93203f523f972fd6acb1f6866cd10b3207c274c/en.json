@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2326:2015-12-11--42813f2f25f10fbd812b9db7a93203f523f972fd6acb1f6866cd10b3207c274c",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2326 of 11 December 2015 on the extension of the transitional periods related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 and Regulation (EU) No 648/2012",
+  "valid_from": "2015-12-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2326/versions/2015-12-11--42813f2f25f10fbd812b9db7a93203f523f972fd6acb1f6866cd10b3207c274c/en.xml",
+    "sha256": "0dc14d3235a0789128995b5470449d6627c9d637c48e8f3d8420f245f36816ab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2326"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2326:2015-12-11--42813f2f25f10fbd812b9db7a93203f523f972fd6acb1f6866cd10b3207c274c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe 15-month periods referred to in Article 497(1) and (2) of Regulation (EU) No 575/2013 and in the first and second subparagraphs of Article 89(5a) of Regulation (EU) No 648/2012, respectively, as extended pursuant to Article 1 of Implementing Regulations (EU) No 591/2014, (EU) No 1317/2014 and (EU) 2015/880, are extended by an additional six months until 15 June 2016.",
+      "text_sha256": "bbcdc68406c15632f878021412ef977e2dcd98732aca5a9ed34f174f65edb4f9",
+      "md_span": {
+        "start": 870,
+        "end": 1254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2326:2015-12-11--42813f2f25f10fbd812b9db7a93203f523f972fd6acb1f6866cd10b3207c274c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 1287,
+        "end": 1434
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

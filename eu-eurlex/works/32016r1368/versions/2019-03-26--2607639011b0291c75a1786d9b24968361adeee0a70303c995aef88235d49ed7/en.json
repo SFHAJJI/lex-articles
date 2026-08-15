@@ -1,0 +1,82 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1368:2019-03-26--2607639011b0291c75a1786d9b24968361adeee0a70303c995aef88235d49ed7",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/1368 of 11 August 2016 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011",
+  "valid_from": "2019-03-26",
+  "valid_to": "2021-07-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1368/versions/2019-03-26--2607639011b0291c75a1786d9b24968361adeee0a70303c995aef88235d49ed7/en.html",
+    "sha256": "b56a598edb4ce353d5dae30ae6e9d5e6d7f12443d1a2cb2518fd77e091fe425e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1368-20190326"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1368:2019-03-26--2607639011b0291c75a1786d9b24968361adeee0a70303c995aef88235d49ed7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The benchmark set out in the annex shall be considered as being a critical benchmark.",
+      "text_sha256": "b26671a398421044696236c0537547bac46b76f35f66a3e7b31eabb315a8b757",
+      "md_span": {
+        "start": 804,
+        "end": 889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1368:2019-03-26--2607639011b0291c75a1786d9b24968361adeee0a70303c995aef88235d49ed7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall be binding in its entirely and directly applicable in all Member States.",
+      "text_sha256": "cd1e8262db9cceffeff7f0f775eb9b7f32d34bcd811e38e86a2a968207f1fb84",
+      "md_span": {
+        "start": 926,
+        "end": 1154
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0482",
+          "text": "32019R0482: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32016r1368:2019-03-26--2607639011b0291c75a1786d9b24968361adeee0a70303c995aef88235d49ed7#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**List of critical benchmarks pursuant to Article 20(1) of Regulation (EU) 2016/1011**\n\n| No | Benchmark | Administrator | Location |\n| --- | --- | --- | --- |\n| 1 | Euro Interbank Offered Rate (EURIBOR®) | European Money Markets Institute (EMMI) | Brussels, Belgium |\n| 2 | Euro Overnight Index Average (EONIA®) | European Money Markets Institute (EMMI) | Brussels, Belgium |\n| 3 | London Interbank Offered Rate (LIBOR) | ICE Benchmark Administration (IBA) | London, United Kingdom |\n| 4 | Stockholm Interbank Offered Rate (STIBOR) | Swedish Bankers' Association (Svenska Bankföreningen) | Stockholm, Sweden |\n| 5 | Warsaw Interbank Offered Rate (WIBOR) | GPW Benchmarks S.A. | Warsaw, Poland |",
+      "text_sha256": "33e1a1e0ff2a97f4319a7a26243d9fdcdeb4e2d11b8bc8cf4ad62ddb4fa01427",
+      "md_span": {
+        "start": 1187,
+        "end": 1882
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

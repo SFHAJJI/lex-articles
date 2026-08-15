@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0570:2016-05-26--25fe7b8cb76bc248c85232905408eac57b2adf89f0941ddced195550a62952d2",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/570 of 26 May 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-05-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0570/versions/2016-05-26--25fe7b8cb76bc248c85232905408eac57b2adf89f0941ddced195550a62952d2/fr.xml",
+    "sha256": "39b150351afa128aba35ec5e7b474387876f9a3760d58610bdaf6b5337c25208",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0570"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0570:2016-05-26--25fe7b8cb76bc248c85232905408eac57b2adf89f0941ddced195550a62952d2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins de l'article 48, paragraphe 5, deuxième alinéa, de la directive 2014/65/UE, est considérée comme étant le marché significatif en termes de liquidité:\n\n| a) | en ce qui concerne les actions, certificats représentatifs, fonds cotés, certificats préférentiels et autres instruments financiers similaires, la plate-forme de négociation qui constitue le marché le plus pertinent en termes de liquidité pour l'instrument considéré, conformément à l'article 4 du règlement délégué (UE) 2017/587 de la Commission (3); |\n| --- | --- |\n\n| b) | en ce qui concerne les instruments financiers autres que ceux qui sont visés au point a) et qui sont admis à la négociation sur un marché réglementé, le marché réglementé sur lequel l'instrument financier a été admis en premier lieu à la négociation; |\n| --- | --- |\n\n| c) | en ce qui concerne les instruments financiers autres que ceux qui sont visés au point a) et qui ne sont pas admis à la négociation sur un marché réglementé, la plate-forme de négociation sur laquelle l'instrument financier a été négocié en premier lieu. |\n| --- | --- |",
+      "text_sha256": "b4783d65a926b3ebdc30191b5776d718c025658aa20e54564554ce048a439ea7",
+      "md_span": {
+        "start": 706,
+        "end": 1810
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087FR.01012401-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0570:2016-05-26--25fe7b8cb76bc248c85232905408eac57b2adf89f0941ddced195550a62952d2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter de la première date visée à l'article 93, paragraphe 1, deuxième alinéa, de la directive 2014/65/UE.",
+      "text_sha256": "f765279ae028f30afbb1a97ba58a00c76567a6e5f0d784b0caf83604f3695f4f",
+      "md_span": {
+        "start": 1843,
+        "end": 2110
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

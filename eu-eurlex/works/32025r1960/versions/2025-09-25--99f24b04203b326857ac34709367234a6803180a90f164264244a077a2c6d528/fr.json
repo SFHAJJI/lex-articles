@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1960:2025-09-25--99f24b04203b326857ac34709367234a6803180a90f164264244a077a2c6d528",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1960 of 25\u00A0September 2025 on the design and c…",
+  "valid_from": "2025-09-25",
+  "valid_to": "2025-10-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1960/versions/2025-09-25--99f24b04203b326857ac34709367234a6803180a90f164264244a077a2c6d528/fr.xml",
+    "sha256": "93ead047f4f9d4b198ec5032e64ce02677c79967389eba4e3d7e35a1dc6cfe15",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1960"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1960:2025-09-25--99f24b04203b326857ac34709367234a6803180a90f164264244a077a2c6d528#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa notice harmonisée visée à l’article 22 bis, paragraphe 1, de la directive 2011/83/UE est conforme à la maquette et au contenu définis à l’annexe I du présent règlement.",
+      "text_sha256": "31986c43fb9ff59fac30f4ecd89f4477c2cf83486dfb64fa08744805e7de6cd8",
+      "md_span": {
+        "start": 708,
+        "end": 896
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1960:2025-09-25--99f24b04203b326857ac34709367234a6803180a90f164264244a077a2c6d528#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe label harmonisé visé à l’article 22 bis, paragraphe 1, de la directive 2011/83/UE est conforme à la maquette et au contenu définis à l’annexe II du présent règlement.",
+      "text_sha256": "8d1777823ae4abc37eea4c12d4334de9975d5c6deddbb27f32b0802d54cd30b8",
+      "md_span": {
+        "start": 929,
+        "end": 1109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1960:2025-09-25--99f24b04203b326857ac34709367234a6803180a90f164264244a077a2c6d528#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 27 septembre 2026.",
+      "text_sha256": "4df7b35770d6deaa6c9bf6871ed7839dcbc0892928eb0b73ff11359887b5be7a",
+      "md_span": {
+        "start": 1142,
+        "end": 1333
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

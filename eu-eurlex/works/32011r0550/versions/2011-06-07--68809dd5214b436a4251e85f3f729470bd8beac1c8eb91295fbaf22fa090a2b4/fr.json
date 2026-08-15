@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011r0550:2011-06-07--68809dd5214b436a4251e85f3f729470bd8beac1c8eb91295fbaf22fa090a2b4",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No\u00A0550/2011 of 7\u00A0June 2011 on determining, pursuant to Directive 2003/87/EC",
+  "valid_from": "2011-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011r0550/versions/2011-06-07--68809dd5214b436a4251e85f3f729470bd8beac1c8eb91295fbaf22fa090a2b4/fr.xml",
+    "sha256": "1a8ad357b0cd1f2dce1dabeda015c523a809a3c27af497e28ffb923e31c7cca4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011R0550"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32011r0550:2011-06-07--68809dd5214b436a4251e85f3f729470bd8beac1c8eb91295fbaf22fa090a2b4#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ compter du 1er janvier 2013, l’utilisation de crédits internationaux résultant de projets impliquant la destruction de trifluorométhane (HFC-23) et de protoxyde d’azote (N2O) émis par la production d’acide adipique, aux fins de l’article 11 bis de la directive 2003/87/CE, est interdite, à l’exception de ceux délivrés au titre de réductions d’émission réalisées avant 2013 dans le cadre de projets existants de ce type, dont l’utilisation est autorisée jusqu’au 30 avril 2013 inclus pour compenser les émissions produites en 2012 par les installations relevant du système d’échange de quotas d’émissions de l’Union.",
+      "text_sha256": "6a3697b027a231f034e331046db39332ab8d885c095f102d714629c6e67d29db",
+      "md_span": {
+        "start": 713,
+        "end": 1348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011r0550:2011-06-07--68809dd5214b436a4251e85f3f729470bd8beac1c8eb91295fbaf22fa090a2b4#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour de sa publication au Journal officiel des Communautés européennes.",
+      "text_sha256": "ef9943b85b020ecc8c3899b1d0de445ffdcc925628ae91b551966b49903fabcb",
+      "md_span": {
+        "start": 1381,
+        "end": 1504
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

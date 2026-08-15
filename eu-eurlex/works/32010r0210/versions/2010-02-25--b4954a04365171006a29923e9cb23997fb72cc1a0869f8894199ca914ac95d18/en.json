@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010r0210:2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18",
+  "language": "en",
+  "title": "Implementing Regulation of the Council (EU) No\u00A0210/2010 of 25\u00A0February 2010 amending the l…",
+  "valid_from": "2010-02-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010r0210/versions/2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18/en.xml",
+    "sha256": "7e3da4b7845e6858a61a0d3bfe7666cbd58c82afb4352e8180e8b8cd4137c81a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0210"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010r0210:2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EC) No 1346/2000 shall be amended as follows:\n\n| 1. | in Annex A, the designations for Belgium are replaced by the following: ‘BELGIË/BELGIQUEHet faillissement/La failliteDe gerechtelijke reorganisatie door een collectief akkoord/La réorganisation judiciaire par accord collectifDe gerechtelijke reorganisatie door overdracht onder gerechtelijk gezag/La réorganisation judiciaire par transfert sous autorité de justiceDe collectieve schuldenregeling/Le règlement collectif de dettesDe vrijwillige vereffening/La liquidation volontaireDe gerechtelijke vereffening/La liquidation judiciaireDe voorlopige ontneming van beheer, bepaald in artikel 8 van de faillissementswet/Le dessaisissement provisoire, visé à l’article 8 de la loi sur les faillites’; |\n| --- | --- |\n\n| 2. | in Annex B, the designations for Belgium are replaced by the following: ‘BELGIË/BELGIQUEHet faillissement/La failliteDe vrijwillige vereffening/La liquidation volontaireDe gerechtelijke vereffening/La liquidation judiciaireDe gerechtelijke reorganisatie door overdracht onder gerechtelijk gezag/La réorganisation judiciaire par transfert sous autorité de justice’; |\n| --- | --- |\n\n| 3. | in Annex C, the designations for Belgium are replaced by the following: ‘BELGIË/BELGIQUEDe curator/Le curateurDe gedelegeerd rechter/Le juge-déléguéDe gerechtsmandataris/Le mandataire de justiceDe schuldbemiddelaar/Le médiateur de dettesDe vereffenaar/Le liquidateurDe voorlopige bewindvoerder/L’administrateur provisoire’. |\n| --- | --- |",
+      "text_sha256": "89868a595aa488694a3ad2b5fac8fccc20558919a0f0b5bee1b0a652855382d9",
+      "md_span": {
+        "start": 702,
+        "end": 2227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010r0210:2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAnnexes A, B and C to Regulation (EC) No 1346/2000 as amended in accordance with Article 1 of this Regulation are hereby codified and replaced by the texts set out in Annexes I, II and III to this Regulation.",
+      "text_sha256": "daa1b77269dab1083f360530e27973f2a43b081757c9048e2907cced0318672b",
+      "md_span": {
+        "start": 2260,
+        "end": 2479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32010r0210:2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "0de3ca1a1493f98cc38df9818d3c1d116462e0022ca0005c805ae2c932d24fa4",
+      "md_span": {
+        "start": 2512,
+        "end": 2650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32010r0210:2010-02-25--b4954a04365171006a29923e9cb23997fb72cc1a0869f8894199ca914ac95d18#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall be published in the Official Journal of the European Union.",
+      "text_sha256": "512b52ba568e0aaa49ffef2759d0f95651cf3601e2aff91f0d35b19a384973e8",
+      "md_span": {
+        "start": 2683,
+        "end": 2775
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

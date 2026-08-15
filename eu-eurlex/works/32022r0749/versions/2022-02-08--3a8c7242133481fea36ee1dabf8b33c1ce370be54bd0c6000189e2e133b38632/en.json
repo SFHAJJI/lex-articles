@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0749:2022-02-08--3a8c7242133481fea36ee1dabf8b33c1ce370be54bd0c6000189e2e133b38632",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/749 of 8\u00A0February 2022 amending the regulatory t…",
+  "valid_from": "2022-02-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0749/versions/2022-02-08--3a8c7242133481fea36ee1dabf8b33c1ce370be54bd0c6000189e2e133b38632/en.xml",
+    "sha256": "8b9b42d575b0f41e545bc228a4a256a20f4f5d8bc2fbd5afc5bd5f61d46d0e6c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0749"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0749:2022-02-08--3a8c7242133481fea36ee1dabf8b33c1ce370be54bd0c6000189e2e133b38632#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn the Annex to Delegated Regulation (EU) 2017/2417, Tables 2 and 3 are deleted.",
+      "text_sha256": "3a0f52affca8775dcfc24216bbb3cd5d360c1ac8b4c31731abf9d6520cf36794",
+      "md_span": {
+        "start": 702,
+        "end": 793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0749:2022-02-08--3a8c7242133481fea36ee1dabf8b33c1ce370be54bd0c6000189e2e133b38632#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 826,
+        "end": 967
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

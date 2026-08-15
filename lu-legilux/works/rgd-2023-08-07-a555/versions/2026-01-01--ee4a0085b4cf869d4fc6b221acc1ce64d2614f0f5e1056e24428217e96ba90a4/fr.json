@@ -1,0 +1,360 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/01/2026 : Règlement grand-ducal du 7 août 2023 fixant les modalités d’exécution relatives aux aides individuelles au logement.",
+  "valid_from": "2026-01-01",
+  "valid_to": "2026-01-03",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2023-08-07-a555/versions/2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4/fr.xml",
+    "sha256": "5f320daf817961a6d6b141b28fdf211c8f0f0b3e219f175e7aaf05998f81f55f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_1er/20230901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Toute demande en obtention d’une aide prévue par la loi du 7 août 2023 relative aux aides individuelles au logement, ci-après « loi », est à accompagner des pièces prévues par le présent règlement pour l’aide concernée.\n\nEn cas d’un demandeur étranger, un document prouvant qu’il bénéficie d’un droit de séjour de plus de 3 mois au sens de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration est à annexer à la demande.\n\nEn cas d’incohérence entre les déclarations indiquées sur la demande et les données figurant au registre national des personnes physiques quant au lieu de résidence du demandeur, un certificat de résidence établi par le bureau de la population de la commune du lieu du logement est à annexer à la demande.\n\n**(2)** En cas d’un enfant à charge, si cet enfant n’est pas co-assuré auprès du parent dans le logement duquel il est déclaré ou si les allocations familiales pour l’enfant ne sont pas perçues par le parent dans le logement duquel l’enfant est déclaré, une déclaration conjointe signée par les deux parents que l’enfant est à considérer comme à charge du parent dans le logement duquel l’enfant est déclaré est à transmettre au ministre ayant le Logement dans ses attributions, ci-après « ministre », lors d’une demande d’aide.",
+      "text_sha256": "224eedb79bc37668570ed498d5a6617a40a5f0834600de42445296d8fa2b1e45",
+      "md_span": {
+        "start": 727,
+        "end": 2027
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi du 7 août 2023"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi modifiée du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_2/20230901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Lors d’une demande en obtention de l’aide au financement d’une garantie locative, la demande est à signer par toutes les personnes concluant en qualité de locataire le contrat de bail à usage d’habitation avec le bailleur.\n\nLa demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. ème\n4. une copie du contrat écrit de bail à usage d’habitation ou tout autre document prouvant le montant de la garantie locative exigée par le bailleur lors de la conclusion du bail ainsi que le montant du loyer ;\n5. une déclaration sur l’honneur signée par le demandeur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n6. les documents attestant le revenu de la communauté domestique ;\n7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.\n\n**(2)** Toute décision d’octroi de l’aide contient en annexe un certificat signé par le ministre. L’original du certificat est transmis au bailleur par le ministre. Le bénéficiaire de l’aide en reçoit une copie.\n\nCe certificat contient les indications suivantes :\n\n1. les nom et prénoms ainsi que l’adresse du demandeur et du bailleur ;\n2. l’adresse du logement faisant l’objet du contrat de bail à usage d’habitation ;\n3. le montant maximum de l’aide à verser au bailleur en cas d’appel à la garantie locative ;\n4. le numéro d’identification de l’aide.",
+      "text_sha256": "d184a819ededacb15374c51e21a31e40a646440f6d53194894f7bfd01ebe18ea",
+      "md_span": {
+        "start": 2062,
+        "end": 3618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_3/20230901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Lors d’une demande en obtention d’une subvention de loyer, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. er loi modifiée du 21 septembre 2006 Code civil\n4. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n5. les documents attestant le revenu de la communauté domestique ;\n6. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.",
+      "text_sha256": "bcb84599df953bfa509a8e41f856f8e738a8135047083f89244963f15ecedf33",
+      "md_span": {
+        "start": 3653,
+        "end": 4354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_4/20230901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La demande en obtention d’une garantie de l’État est présentée, au nom de l’emprunteur, par l’établissement de crédit au sens de l’article 13, paragraphe 1er, alinéa 1er, point 2°, de la loi. Elle doit être signée par l’emprunteur et l’établissement de crédit.\n\nLors d’une demande en obtention d’une garantie de l’État prévue à l’article 12 de la loi, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. loi\n4. une copie du compromis de vente relatif au logement, du contrat préliminaire en cas d’une nouvelle construction ou toute autre pièce certifiant que le demandeur a la pleine propriété du logement ;\n5. une déclaration sur l’honneur signée par l’emprunteur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n6. les documents attestant le revenu de l’emprunteur ;\n7. un plan de financement renseignant sur la composition des montants empruntés ;\n8. les conditions générales du prêt que l’établissement de crédit se propose d’accorder avec la garantie de l’État.",
+      "text_sha256": "e2b3b581980ced7fd2b9a5d5e393ef8c0c03751e1afdef3ddae4f13aa2eee784",
+      "md_span": {
+        "start": 4389,
+        "end": 5568
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_5/20230901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Lors d’une demande en obtention de la prime d’accession à la propriété, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;\n4. un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;\n5. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n6. les documents attestant le revenu de la communauté domestique ;\n7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;\n8. un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.\n\nEn cas de mariage ou de partenariat, les époux ou partenaires au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats doivent signer la demande.\n\nCette double signature n’est plus exigée à partir de la date d’introduction d‘une procédure de divorce ou de la date du début des démarches pour dénoncer le partenariat. En cas de divorce, une copie de l’acte de liquidation et de partage prévoyant l’attribution du logement à un des deux ex-époux est à annexer à la demande.\n\n**(2)** La prime est virée sur le compte indiqué sur la demande.",
+      "text_sha256": "44fefe824961968f08d79fb3b778ffb1f49d45b2d618aa438708d942073a2fa9",
+      "md_span": {
+        "start": 5603,
+        "end": 7197
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_6/20230901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Lors d’une demande en obtention de la prime d’épargne, le demandeur doit accompagner sa demande des documents prouvant une épargne pendant une période d’au moins 1 an conformément à l’article 17 de la loi.\n\nEn cas d’octroi de l’aide, la prime d’épargne est virée sur le compte indiqué sur la demande.",
+      "text_sha256": "3b5b2a989f8ee48c72becb982ceb73c2a3cfc2da79f481af71e0748304e1ec70",
+      "md_span": {
+        "start": 7232,
+        "end": 7532
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_7/20260101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-01-01",
+      "text_md": "Lors d’une demande en obtention d’une prime d’amélioration, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;\n4. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n5. les documents attestant le revenu de la communauté domestique ;\n6. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;\n7. un certificat attestant la date de première occupation du logement émis par l’administration communale concernée ;\n8. loi modifiée du 23 décembre 2016\n\nEn cas d’octroi de l’aide, la prime est virée sur le compte indiqué sur la demande. En cas d’octroi d’une prime d’amélioration pour assainissement énergétique et si une subvention d’intérêt pour prêt climatique visée à l’article 42 de la loi est accordée au demandeur dans le cadre dudit assainissement énergétique, la prime est à virer sur le compte du prêt climatique.",
+      "text_sha256": "1aff9860263c7e4543f9aaab3871fa7e8334195ca8114c923e9478502cd45a4f",
+      "md_span": {
+        "start": 7567,
+        "end": 8876
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_8/20230901",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Lors d’une demande en obtention de la subvention d’intérêt aux articles 19 et 27 de la loi, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;\n4. un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;\n5. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n6. les documents attestant le revenu de la communauté domestique ;\n7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;\n8. un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.\n\nEn cas de mariage ou de partenariat, les époux ou partenaires au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats doivent signer la demande.\n\nCette double signature n’est plus exigée à partir de la date d’introduction d‘une procédure de divorce ou de la date du début des démarches pour dénoncer le partenariat. En cas de divorce, une copie de l’acte de liquidation et de partage prévoyant l’attribution du logement à un des deux ex-époux est à annexer à la demande.\n\n**(2)** La subvention d’intérêt est virée sur le compte prêt du bénéficiaire entre les mains de l’établissement de crédit qui a consenti le prêt hypothécaire pour le financement du logement. En cas de prêt hypothécaire à taux fixe, la subvention d’intérêt est portée sur le compte courant du bénéficiaire indiqué sur le formulaire de demande en obtention de l’aide.\n\nTous les frais de transfert de l’aide opérés sont à charge du bénéficiaire*.*",
+      "text_sha256": "e7af0982476c5cf0607eab5e8d47f8e9791f7573350345fbbff0863e3be7fa87",
+      "md_span": {
+        "start": 8911,
+        "end": 10905
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_9/20230901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Lors d’une demande en obtention d’une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. un certificat médical attestant la situation de handicap de la personne concernée ;\n3. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;\n4. les documents attestant le revenu de la communauté domestique ;\n5. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;\n6. un certificat de la Caisse nationale de santé attestant que la personne en situation de handicap n’a pas bénéficié d’une aide financière par l’assurance dépendance pour les aménagements pour lesquels une prime est demandée ;\n7. une copie des factures acquittées relatives aux aménagements spéciaux réalisés.\n\nEn cas de demandeur incapable ou placé sous un régime de protection, la demande doit également être accompagnée d’une copie de la carte d’identité de son représentant légal, ainsi que d’une copie du jugement en cas de placement du demandeur sous un régime de protection.\n\nLe virement de la prime se fait au fur et à mesure de l’exécution des aménagements spéciaux, sur présentation d’une copie des factures y afférentes.",
+      "text_sha256": "8746a7cfa580af90b3c21d1984fab88842dcf87c5796f27659a0c68b426cf433",
+      "md_span": {
+        "start": 10940,
+        "end": 12295
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_10/20260101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-01-01",
+      "text_md": "Lors d’une demande en obtention d’une prime de création d’un logement intégré, la demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une copie de l’autorisation de bâtir relative à la création d’un logement intégré de l’administration communale du lieu de l’immeuble abritant le logement intégré ;\n3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;\n4. un certificat attestant la date de première occupation du logement intégré, émis par l’administration communale concernée ;\n5. une copie des plans de construction relatifs à la création du logement intégré ;\n6. une copie des factures acquittées relatives aux travaux de création du logement intégré.",
+      "text_sha256": "b9272b918a93934aa6a533f28a3d58bd419d0f589e2b9996ee63f300d6ca66cb",
+      "md_span": {
+        "start": 12332,
+        "end": 13116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_11/20230901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La demande en obtention d’une garantie de l’État pour un prêt climatique est présentée par l’établissement de crédit, au nom du demandeur, laquelle est dûment remplie et signée par l’établissement de crédit et le demandeur.\n\nLa demande est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une copie du titre de propriété du logement ;\n3. loi modifiée du 23 décembre 2016\n4. un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement ;\n5. un plan de financement établi par l’établissement de crédit renseignant sur la composition des montants empruntés.",
+      "text_sha256": "53916662a097f4af30758529c4122896de1fa0ab09ac06d45f37f75bebb53baf",
+      "md_span": {
+        "start": 13153,
+        "end": 13812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_12/20230901",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Une demande en obtention d’une subvention d’intérêt un pour prêt climatique prévue à l’article 44 de la loi est à accompagner des pièces suivantes :\n\n1. une copie de la pièce d’identité du demandeur ;\n2. une copie du titre de propriété du logement ;\n3. une copie du contrat de prêt certifié par l’établissement de crédit ayant consenti le prêt au demandeur ;\n4. loi modifiée du 23 décembre 2016\n5. un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement.\n\n**(2)** Si le logement pour lequel une subvention d’intérêt pour prêt climatique est accordée est habité par le bénéficiaire, la condition d’habitation est à documenter moyennant la production d’un certificat de résidence ou de toute autre pièce prouvant qu’il utilise le logement à des fins d’habitation. Si le logement pour lequel une subvention d’intérêt pour prêt climatique est accordée est mis en location par le bénéficiaire, la condition d’habitation est à documenter moyennant la production d’une copie d’un contrat de bail ou de toute autre pièce prouvant que le logement est utilisé à des fins d’habitation.",
+      "text_sha256": "1613d1690f350f61f7c92ed9fbed453f347eb81c34fb7b029030cf0cca48e768",
+      "md_span": {
+        "start": 13849,
+        "end": 14998
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a554/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_13/20230901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "À l’article 3, alinéa 2, du règlement grand-ducal du 8 juin 2022 1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et 2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques, les termes à l’article 1er, point 2° sont remplacés par ceux de à l’article 2.",
+      "text_sha256": "3bd1d20af64301b3f06d4d9f4f2dfa0059a1d4463a647bb0e8c13b177edf8e79",
+      "md_span": {
+        "start": 15035,
+        "end": 15607
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2022/06/08/a287/jo",
+          "text": "règlement grand-ducal du 8 juin 2022"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2011/05/05/n2/jo",
+          "text": "règlement grand-ducal modifié du 5 mai 2011"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2016/12/23/n43/jo",
+          "text": "règlement grand-ducal du 23 décembre 2016"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n23/jo",
+          "text": "loi du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_14/20230901",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Sont abrogés :\n\n1. règlement grand-ducal modifié du 5 mai 2011 loi modifiée du 25 février 1979 er\n2. règlement grand-ducal du 20 décembre 2019 quater loi modifiée du 25 février 1979\n3. règlement grand-ducal du 8 juin 2022 règlement grand-ducal modifié du 5 mai 2011 loi modifiée du 25 février 1979 règlement grand-ducal du 23 décembre 2016 loi du 23 décembre 2016\n4. règlement grand-ducal du 22 juillet 2022\n\n**(2)** Par dérogation au paragraphe 1er, point 1°, le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement, reste applicable pour les subventions d’intérêt et bonifications d’intérêt accordées avant l’entrée en vigueur du présent règlement jusqu’à la date du prochain réexamen des dossiers relatifs à ces aides.\n\nPar dérogation au paragraphe 1er, point 3°, l’article 3, alinéa 2, du règlement grand-ducal précité du 8 juin 2022 reste applicable pour les demandes introduites avant l’entrée en vigueur du présent règlement et portant sur un prêt climatique à taux zéro ayant été accordé avant la date d’entrée en vigueur du présent règlement.",
+      "text_sha256": "0dfdbab2908b90bf00afa30d3c23c0b95b3a4a610ea0b7e95d9bfe9559ecd09b",
+      "md_span": {
+        "start": 15644,
+        "end": 16885
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/05/05/n2/jo",
+          "text": "règlement grand-ducal modifié du 5 mai 2011"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2022/06/08/a287/jo",
+          "text": "règlement grand-ducal précité du 8 juin 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2023-08-07-a555:2026-01-01--ee4a0085b4cf869d4fc6b221acc1ce64d2614f0f5e1056e24428217e96ba90a4#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/art_15/20230901",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre ayant le Logement dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "7e9af7a7a94bb78ca7e62dddc6e3e3bcfe18270a9c6e6be5a60fd79b0b1eb68c",
+      "md_span": {
+        "start": 16922,
+        "end": 17086
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

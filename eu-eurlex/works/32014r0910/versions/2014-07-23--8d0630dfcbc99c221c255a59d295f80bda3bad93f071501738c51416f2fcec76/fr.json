@@ -1,0 +1,915 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76",
+  "language": "fr",
+  "title": "Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2014-07-23",
+  "valid_to": "2014-09-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0910/versions/2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76/fr.xml",
+    "sha256": "f7b40bc262df739836dd7e5ded31048bae037b7a5d781ed44f4ef92c2c695edd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0910"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nEn vue d’assurer le bon fonctionnement du marché intérieur tout en visant à atteindre un niveau adéquat de sécurité des moyens d’identification électronique et des services de confiance, le présent règlement:\n\n| a) | fixe les conditions dans lesquelles un État membre reconnaît les moyens d’identification électronique des personnes physiques et morales qui relèvent d’un schéma d’identification électronique notifié d’un autre État membre; |\n| --- | --- |\n\n| b) | établit des règles applicables aux services de confiance, en particulier pour les transactions électroniques; et |\n| --- | --- |\n\n| c) | instaure un cadre juridique pour les services de signatures électroniques, de cachets électroniques, d’horodatages électroniques, de documents électroniques, d’envoi recommandé électronique et les services de certificats pour l’authentification de site internet. |\n| --- | --- |",
+      "text_sha256": "462ea719e4588a6f9617caa2a986768e808a7abaac8b5de7a41d831f9fe8baf3",
+      "md_span": {
+        "start": 644,
+        "end": 1541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Le présent règlement s’applique aux schémas d’identification électronique qui ont été notifiés par un État membre et aux prestataires de services de confiance établis dans l’Union.\n\n2. Le présent règlement ne s’applique pas à la fourniture de services de confiance utilisés exclusivement dans des systèmes fermés résultant du droit national ou d’accords au sein d’un ensemble défini de participants.\n\n3. Le présent règlement n’affecte pas le droit national ou de l’Union relatif à la conclusion et à la validité des contrats ou d’autres obligations juridiques ou procédurales d’ordre formel.",
+      "text_sha256": "4897f9bcb466961799ef1df7b356ebce0d155e3fc3d117d2381fba632da55f4f",
+      "md_span": {
+        "start": 1574,
+        "end": 2179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAux fins du présent règlement, on entend par:\n\n| 1. | «identification électronique», le processus consistant à utiliser des données d’identification personnelle sous une forme électronique représentant de manière univoque une personne physique ou morale, ou une personne physique représentant une personne morale; |\n| --- | --- |\n\n| 2. | «moyen d’identification électronique», un élément matériel et/ou immatériel contenant des données d’identification personnelle et utilisé pour s’authentifier pour un service en ligne; |\n| --- | --- |\n\n| 3. | «données d’identification personnelle», un ensemble de données permettant d’établir l’identité d’une personne physique ou morale, ou d’une personne physique représentant une personne morale; |\n| --- | --- |\n\n| 4. | «schéma d’identification électronique», un système pour l’identification électronique en vertu duquel des moyens d’identification électronique sont délivrés à des personnes physiques ou morales, ou à des personnes physiques représentant des personnes morales; |\n| --- | --- |\n\n| 5. | «authentification», un processus électronique qui permet de confirmer l’identification électronique d’une personne physique ou morale, ou l’origine et l’intégrité d’une donnée sous forme électronique; |\n| --- | --- |\n\n| 6. | «partie utilisatrice», une personne physique ou morale qui se fie à une identification électronique ou à un service de confiance; |\n| --- | --- |\n\n| 7. | «organismes du secteur public», un État, une autorité régionale ou locale, un organisme de droit public ou une association constituée d’une ou de plusieurs de ces autorités ou d’un ou de plusieurs de ces organismes de droit public, ou une entité privée mandatée par au moins un ou une de ces autorités, organismes, ou associations pour fournir des services publics lorsqu’elle agit en vertu de ce mandat; |\n| --- | --- |\n\n| 8. | «organisme de droit public», un organisme au sens de l’article 2, paragraphe 1, point 4), de la directive 2014/24/UE du Parlement européen et du Conseil (15); |\n| --- | --- |\n\n| 9. | «signataire», une personne physique qui crée une signature électronique; |\n| --- | --- |\n\n| 10. | «signature électronique», des données sous forme électronique, qui sont jointes ou associées logiquement à d’autres données sous forme électronique et que le signataire utilise pour signer; |\n| --- | --- |\n\n| 11. | «signature électronique avancée», une signature électronique qui satisfait aux exigences énoncées à l’article 26: |\n| --- | --- |\n\n| 12. | «signature électronique qualifiée», une signature électronique avancée qui est créée à l’aide d’un dispositif de création de signature électronique qualifié, et qui repose sur un certificat qualifié de signature électronique; |\n| --- | --- |\n\n| 13. | «données de création de signature électronique», des données uniques qui sont utilisées par le signataire pour créer une signature électronique; |\n| --- | --- |\n\n| 14. | «certificat de signature électronique», une attestation électronique qui associe les données de validation d’une signature électronique à une personne physique et confirme au moins le nom ou le pseudonyme de cette personne; |\n| --- | --- |\n\n| 15. | «certificat qualifié de signature électronique», un certificat de signature électronique, qui est délivré par un prestataire de services de confiance qualifié et qui satisfait aux exigences fixées à l’annexe I; |\n| --- | --- |\n\n| 16. | «service de confiance», un service électronique normalement fourni contre rémunération qui consiste:a)en la création, en la vérification et en la validation de signatures électroniques, de cachets électroniques ou d’horodatages électroniques, de services d’envoi recommandé électronique et de certificats relatifs à ces services; oub)en la création, en la vérification et en la validation de certificats pour l’authentification de site internet; ouc)en la conservation de signatures électroniques, de cachets électroniques ou des certificats relatifs à ces services; |\n| --- | --- |\n| a) | en la création, en la vérification et en la validation de signatures électroniques, de cachets électroniques ou d’horodatages électroniques, de services d’envoi recommandé électronique et de certificats relatifs à ces services; ou |\n| b) | en la création, en la vérification et en la validation de certificats pour l’authentification de site internet; ou |\n| c) | en la conservation de signatures électroniques, de cachets électroniques ou des certificats relatifs à ces services; |\n\n| 17. | «service de confiance qualifié», un service de confiance qui satisfait aux exigences du présent règlement; |\n| --- | --- |\n\n| 18. | «organisme d’évaluation de la conformité», un organisme défini à l’article 2, point 13), du règlement (CE) no 765/2008, qui est accrédité conformément audit règlement comme étant compétent pour effectuer l’évaluation de la conformité d’un prestataire de services de confiance qualifié et des services de confiance qualifiés qu’il fournit; |\n| --- | --- |\n\n| 19. | «prestataire de services de confiance», une personne physique ou morale qui fournit un ou plusieurs services de confiance, en tant que prestataire de services de confiance qualifié ou non qualifié; |\n| --- | --- |\n\n| 20. | «prestataire de services de confiance qualifié», un prestataire de services de confiance qui fournit un ou plusieurs services de confiance qualifiés et a obtenu de l’organe de contrôle le statut qualifié; |\n| --- | --- |\n\n| 21. | «produit», un dispositif matériel ou logiciel, ou les composants correspondants du dispositif matériel ou logiciel, qui sont destinés à être utilisés pour la fourniture de services de confiance; |\n| --- | --- |\n\n| 22. | «dispositif de création de signature électronique», un dispositif logiciel ou matériel configuré servant à créer une signature électronique; |\n| --- | --- |\n\n| 23. | «dispositif de création de signature électronique qualifié», un dispositif de création de signature électronique qui satisfait aux exigences énoncées à l’annexe II; |\n| --- | --- |\n\n| 24. | «créateur de cachet», une personne morale qui crée un cachet électronique; |\n| --- | --- |\n\n| 25. | «cachet électronique», des données sous forme électronique, qui sont jointes ou associées logiquement à d’autres données sous forme électronique pour garantir l’origine et l’intégrité de ces dernières; |\n| --- | --- |\n\n| 26. | «cachet électronique avancé», un cachet électronique qui satisfait aux exigences énoncées à l’article 36; |\n| --- | --- |\n\n| 27. | «cachet électronique qualifié», un cachet électronique avancé qui est créé à l’aide d’un dispositif de création de cachet électronique qualifié et qui repose sur un certificat qualifié de cachet électronique; |\n| --- | --- |\n\n| 28. | «données de création de cachet électronique», des données uniques qui sont utilisées par le créateur du cachet électronique pour créer un cachet électronique; |\n| --- | --- |\n\n| 29. | «certificat de cachet électronique», une attestation électronique qui associe les données de validation d’un cachet électronique à une personne morale et confirme le nom de cette personne; |\n| --- | --- |\n\n| 30. | «certificat qualifié de cachet électronique», un certificat de cachet électronique, qui est délivré par un prestataire de services de confiance qualifié et qui satisfait aux exigences fixées à l’annexe III; |\n| --- | --- |\n\n| 31. | «dispositif de création de cachet électronique», un dispositif logiciel ou matériel configuré utilisé pour créer un cachet électronique; |\n| --- | --- |\n\n| 32. | «dispositif de création de cachet électronique qualifié», un dispositif de création de cachet électronique qui satisfait mutatis mutandis aux exigences fixées à l’annexe II; |\n| --- | --- |\n\n| 33. | «horodatage électronique», des données sous forme électronique qui associent d’autres données sous forme électronique à un instant particulier et établissent la preuve que ces dernières données existaient à cet instant; |\n| --- | --- |\n\n| 34. | «horodatage électronique qualifié», un horodatage électronique qui satisfait aux exigences fixées à l’article 42; |\n| --- | --- |\n\n| 35. | «document électronique», tout contenu conservé sous forme électronique, notamment un texte ou un enregistrement sonore, visuel ou audiovisuel; |\n| --- | --- |\n\n| 36. | «service d’envoi recommandé électronique», un service qui permet de transmettre des données entre des tiers par voie électronique, qui fournit des preuves concernant le traitement des données transmises, y compris la preuve de leur envoi et de leur réception, et qui protège les données transmises contre les risques de perte, de vol, d’altération ou de toute modification non autorisée; |\n| --- | --- |\n\n| 37. | «service d’envoi recommandé électronique qualifié», un service d’envoi recommandé électronique qui satisfait aux exigences fixées à l’article 44; |\n| --- | --- |\n\n| 38. | «certificat d’authentification de site internet«, une attestation qui permet d’authentifier un site internet et associe celui-ci à la personne physique ou morale à laquelle le certificat est délivré; |\n| --- | --- |\n\n| 39. | «certificat qualifié d’authentification de site internet«, un certificat d’authentification de site internet, qui est délivré par un prestataire de services de confiance qualifié et qui satisfait aux exigences fixées à l’annexe IV; |\n| --- | --- |\n\n| 40. | «données de validation», des données qui servent à valider une signature électronique ou un cachet électronique; |\n| --- | --- |\n\n| 41. | «validation», le processus de vérification et de confirmation de la validité d’une signature ou d’un cachet électronique. |\n| --- | --- |",
+      "text_sha256": "d00b306af8ca56c547ea7afdfdd4e8c70ac89a4041a64331bb4f74beb3e4fd7c",
+      "md_span": {
+        "start": 2212,
+        "end": 11800
+      },
+      "citations": [
+        {
+          "href": "#ntr15-L_2014257FR.01007301-E0015",
+          "text": "(15)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Il n’y a pas de restriction à la fourniture de services de confiance, sur le territoire d’un État membre, par un prestataire de services de confiance établi dans un autre État membre pour des raisons qui relèvent des domaines couverts par le présent règlement.\n\n2. Les produits et les services de confiance qui sont conformes au présent règlement sont autorisés à circuler librement au sein du marché intérieur.",
+      "text_sha256": "813e12dccd621d6c36abbac67834afb73ea73581960b2004b4e974cdcddf2eca",
+      "md_span": {
+        "start": 11833,
+        "end": 12258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Le traitement de données à caractère personnel est effectué conformément à la directive 95/46/CE.\n\n2. Sans préjudice de l’effet juridique donné aux pseudonymes au titre du droit national, l’utilisation de pseudonymes dans les transactions électroniques n’est pas interdite.",
+      "text_sha256": "4cb807a485087c08dc415ecbb532c92113011c7cdd6c09d75c8dd39a3bd96e9e",
+      "md_span": {
+        "start": 12291,
+        "end": 12578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Lorsqu’une identification électronique à l’aide d’un moyen d’identification électronique et d’une authentification est exigée en vertu du droit national ou de pratiques administratives nationales pour accéder à un service en ligne fourni par un organisme du secteur public dans un État membre, le moyen d’identification électronique délivré dans un autre État membre est reconnu dans le premier État membre aux fins de l’authentification transfrontalière pour ce service en ligne, à condition que les conditions suivantes soient remplies:\n\n| a) | la délivrance de ce moyen d’identification électronique relève d’un schéma d’identification électronique qui figure sur la liste publiée par la Commission en vertu de l’article 9; |\n| --- | --- |\n\n| b) | le niveau de garantie de ce moyen d’identification électronique correspond à un niveau de garantie égal ou supérieur à celui requis par l’organisme du secteur public concerné pour accéder à ce service en ligne dans le premier État membre, à condition que le niveau de garantie de ce moyen d’identification électronique corresponde au niveau de garantie substantiel ou élevé; |\n| --- | --- |\n\n| c) | l’organisme du secteur public concerné utilise le niveau de garantie substantiel ou élevé pour ce qui concerne l’accès à ce service en ligne. |\n| --- | --- |\n\nCette reconnaissance intervient au plus tard douze mois après la publication par la Commission de la liste visée au point a) du premier alinéa.\n\n2. Un moyen d’identification électronique dont la délivrance relève d’un schéma d’identification électronique figurant sur la liste publiée par la Commission en vertu de l’article 9 et qui correspond au niveau de garantie faible peut être reconnu par des organismes du secteur public aux fins de l’authentification transfrontalière du service fourni en ligne par ces organismes.",
+      "text_sha256": "0d4909bfb62dece1a879df0d48796d8c5bd66d649271c51c79263b9f1ec3bdbe",
+      "md_span": {
+        "start": 12611,
+        "end": 14457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nUn schéma d’identification électronique est éligible aux fins de notification en vertu de l’article 9, paragraphe 1, si toutes les conditions suivantes sont remplies:\n\n| a) | les moyens d’identification électronique relevant du schéma d’identification électronique sont délivrés:i)par l’État membre notifiant;ii)dans le cadre d’un mandat de l’État membre notifiant; ouiii)indépendamment de l’État membre notifiant et sont reconnus par cet État membre; |\n| --- | --- |\n| i) | par l’État membre notifiant; |\n| ii) | dans le cadre d’un mandat de l’État membre notifiant; ou |\n| iii) | indépendamment de l’État membre notifiant et sont reconnus par cet État membre; |\n\n| b) | les moyens d’identification électronique relevant du schéma d’identification électronique peuvent être utilisés pour accéder au moins à un service qui est fourni par un organisme du secteur public et qui exige l’identification électronique dans l’État membre notifiant; |\n| --- | --- |\n\n| c) | le schéma d’identification électronique et les moyens d’identification électronique délivrés dans ce cadre répondent aux exigences d’au moins un des niveaux de garantie prévus dans l’acte d’exécution visé à l’article 8, paragraphe 3; |\n| --- | --- |\n\n| d) | l’État membre notifiant veille à ce que les données d’identification personnelle représentant de manière univoque la personne en question soient attribuées conformément aux spécifications techniques, aux normes et aux procédures pour le niveau de garantie concerné prévues dans l’acte d’exécution visé à l’article 8, paragraphe 3, à la personne physique ou morale visée à l’article 3, point 1), au moment de la délivrance du moyen d’identification électronique relevant de ce schéma; |\n| --- | --- |\n\n| e) | la partie délivrant le moyen d’identification électronique relevant de ce schéma veille à ce que le moyen d’identification électronique soit attribué à la personne visée au point d) du présent article conformément aux spécifications techniques, aux normes et aux procédures pour le niveau de garantie concerné prévues dans l’acte d’exécution visé à l’article 8, paragraphe 3; |\n| --- | --- |\n\n| f) | l’État membre notifiant veille à ce qu’une authentification en ligne soit disponible afin de permettre à toute partie utilisatrice établie sur le territoire d’un autre État membre de confirmer les données d’identification personnelle reçues sous forme électronique.Pour les parties utilisatrices autres que des organismes du secteur public, l’État membre notifiant peut définir les conditions d’accès à cette authentification. Cette authentification transfrontalière est fournie gratuitement lorsqu’elle est effectuée en liaison avec un service en ligne fourni par un organisme du secteur public.Les États membres n’imposent aucune exigence technique disproportionnée aux parties utilisatrices qui envisagent de procéder à cette authentification, lorsque de telles exigences empêchent ou entravent sensiblement l’interopérabilité des schémas d’identification électronique notifiés; |\n| --- | --- |\n\n| g) | six mois au moins avant la notification en vertu de l’article 9, paragraphe 1, l’État membre notifiant fournit aux autres États membres aux fins de l’obligation au titre de l’article 12, paragraphe 5, une description de ce schéma conformément aux modalités de procédure établies par les actes d’exécution visés à l’article 12, paragraphe 7. |\n| --- | --- |\n\n| h) | le schéma d’identification électronique satisfait aux exigences de l’acte d’exécution visé à l’article 12, paragraphe 8. |\n| --- | --- |",
+      "text_sha256": "097f5ae6c8d4fa11310358ed9d9f19ccac69e6f9222861d597ad2ca0f9772654",
+      "md_span": {
+        "start": 14490,
+        "end": 18040
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Un schéma d’identification électronique notifié en vertu de l’article 9, paragraphe 1, détermine les spécifications des niveaux de garantie faible, substantiel et/ou élevé des moyens d’identification électronique délivrés dans le cadre dudit schéma.\n\n2. Les niveaux de garantie faible, substantiel et élevé satisfont, respectivement, aux critères suivants:\n\n| a) | le niveau de garantie faible renvoie à un moyen d’identification électronique dans le cadre d’un schéma d’identification électronique qui accorde un degré limité de fiabilité à l’identité revendiquée ou prétendue d’une personne, et est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférents, y compris les contrôles techniques, dont l’objectif est de réduire le risque d’utilisation abusive ou d’altération de l’identité; |\n| --- | --- |\n\n| b) | le niveau de garantie substantiel renvoie à un moyen d’identification électronique dans le cadre d’un schéma d’identification électronique qui accorde un degré substantiel de fiabilité à l’identité revendiquée ou prétendue d’une personne, et est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférents, y compris les contrôles techniques, dont l’objectif est de réduire substantiellement le risque d’utilisation abusive ou d’altération de l’identité; |\n| --- | --- |\n\n| c) | le niveau de garantie élevé renvoie à un moyen d’identification électronique dans le cadre d’un schéma d’identification électronique qui accorde un niveau de fiabilité à l’identité revendiquée ou prétendue d’une personne plus élevé qu’un moyen d’identification électronique ayant le niveau de garantie substantiel, et est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférents, y compris les contrôles techniques, dont l’objectif est d’empêcher l’utilisation abusive ou l’altération de l’identité. |\n| --- | --- |\n\n3. Au plus tard le 18 septembre 2015, compte tenu des normes internationales pertinentes et sous réserve du paragraphe 2, la Commission fixe, au moyen d’actes d’exécution, les spécifications techniques, normes et procédures minimales sur la base desquelles les niveaux de garantie faible, substantiel et élevé sont spécifiés pour les moyens d’identification électronique aux fins du paragraphe 1.\n\nCes spécifications techniques, normes et procédures minimales sont fixées par référence à la fiabilité et à la qualité des éléments suivants:\n\n| a) | la procédure visant à prouver et vérifier l’identité des personnes physiques ou morales demandant la délivrance de moyens d’identification électronique; |\n| --- | --- |\n\n| b) | la procédure de délivrance des moyens d’identification électronique demandés; |\n| --- | --- |\n\n| c) | le mécanisme d’authentification au moyen duquel la personne physique ou morale utilise le moyen d’identification électronique pour confirmer son identité à une partie utilisatrice; |\n| --- | --- |\n\n| d) | l’entité délivrant les moyens d’identification électronique; |\n| --- | --- |\n\n| e) | tout autre organisme associé à la demande de délivrance de moyens d’identification électronique; et |\n| --- | --- |\n\n| f) | les spécifications techniques et de sécurité des moyens d’identification électronique délivrés. |\n| --- | --- |\n\nCes actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "13ca6760cd615124555c2ebb0ee76646a8e577d6f1bfc926cb8318a3e8e1457f",
+      "md_span": {
+        "start": 18073,
+        "end": 21466
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. L’État membre notifiant notifie les informations suivantes à la Commission et lui communique toute modification ultérieure qui leur est apportée dans les meilleurs délais:\n\n| a) | une description du schéma d’identification électronique, y compris ses niveaux de garantie et l’entité ou les entités qui délivrent les moyens d’identification électronique relevant de ce schéma; |\n| --- | --- |\n\n| b) | le régime de contrôle applicable et des informations sur la responsabilité en ce qui concerne les aspects suivants:i)la partie qui délivre le moyen d’identification électronique; etii)la partie qui gère la procédure d’authentification; |\n| --- | --- |\n| i) | la partie qui délivre le moyen d’identification électronique; et |\n| ii) | la partie qui gère la procédure d’authentification; |\n\n| c) | l’autorité ou les autorités responsables du schéma d’identification électronique; |\n| --- | --- |\n\n| d) | des informations sur l’entité ou les entités qui gèrent l’enregistrement des données d’identification personnelle uniques; |\n| --- | --- |\n\n| e) | une description de la façon dont il est satisfait aux exigences énoncées dans l’acte d’exécution visé à l’article 12, paragraphe 8; |\n| --- | --- |\n\n| f) | une description de l’authentification visée à l’article 7, point f); |\n| --- | --- |\n\n| g) | les dispositions concernant la suspension ou la révocation du schéma d’identification électronique notifié, de l’authentification ou des parties compromises concernées. |\n| --- | --- |\n\n2. Un an à compter de la date d’application des actes d’exécution visés à l’article 8, paragraphe 3, et à l’article 12, paragraphe 8, la Commission publie au Journal officiel de l’Union européenne la liste des schémas d’identification électronique qui ont été notifiés en vertu du paragraphe 1, et les informations essentielles à leur sujet.\n\n3. Si la Commission reçoit une notification après expiration du délai visé au paragraphe 2, elle publie au Journal officiel de l’Union européenne les modifications apportées à la liste visée au paragraphe 2 dans les deux mois à compter de la date de réception de cette notification.\n\n4. Un État membre peut soumettre à la Commission une demande visant à retirer de la liste visée au paragraphe 2 le schéma d’identification électronique qu’il a notifié. La Commission publie au Journal officiel de l’Union européenne les modifications correspondantes apportées à la liste dans un délai d’un mois à compter de la date de réception de la demande de l’État membre.\n\n5. La Commission peut définir, au moyen d’actes d’exécution, les circonstances, les formats et les procédures pour les notifications au titre du paragraphe 1. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "5713f6c43f5123a8fdc61872655c4f4f576379d2df1d0845526bbc3b98b51e03",
+      "md_span": {
+        "start": 21499,
+        "end": 24272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. En cas d’atteinte ou d’altération partielle du schéma d’identification électronique notifié en application de l’article 9, paragraphe 1, ou de l’authentification visée à l’article 7, point f), telle qu’elle affecte la fiabilité de l’authentification transfrontalière de ce schéma, l’État membre notifiant suspend ou révoque, immédiatement, cette authentification transfrontalière ou les éléments altérés en cause, et en informe les autres États membres et la Commission.\n\n2. Lorsqu’il a été remédié à l’atteinte ou à l’altération visée au paragraphe 1, l’État membre notifiant rétablit l’authentification transfrontalière et en informe les autres États membres et la Commission dans les meilleurs délais.\n\n3. S’il n’est pas remédié à l’atteinte ou à l’altération visée au paragraphe 1 dans un délai de trois mois à compter de la suspension ou de la révocation, l’État membre notifiant notifie le retrait du schéma d’identification électronique aux autres États membres et à la Commission.\n\nLa Commission publie, dans les meilleurs délais, au Journal officiel de l’Union européenne, les modifications correspondantes apportées à la liste visée à l’article 9, paragraphe 2.",
+      "text_sha256": "b252f8fb206048576d07779c6b7f9233ec52b7e82e758631ed34cb2c927f094c",
+      "md_span": {
+        "start": 24307,
+        "end": 25493
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. L’État membre notifiant est responsable du dommage causé intentionnellement ou par négligence à toute personne physique ou morale en raison d’un manquement aux obligations qui lui incombent en vertu de l’article 7, points d) et f), dans le cas d’une transaction transfrontalière.\n\n2. La partie qui délivre le moyen d’identification électronique est responsable du dommage causé intentionnellement ou par négligence à toute personne physique ou morale en raison d’un manquement aux obligations qui lui incombent en vertu de l’article 7, point e), dans le cas d’une transaction transfrontalière.\n\n3. La partie qui gère la procédure d’authentification est responsable du dommage causé intentionnellement ou par négligence à toute personne physique ou morale pour ne pas avoir assuré la gestion correcte de l’authentification visée à l’article 7, point f), dans le cas d’une transaction transfrontalière.\n\n4. Les paragraphes 1, 2 et 3 s’appliquent conformément aux dispositions nationales en matière de responsabilité.\n\n5. Les paragraphes 1, 2 et 3 sont sans préjudice de la responsabilité incombant, au titre du droit national, aux parties à une transaction effectuée à l’aide de moyens d’identification électronique relevant du schéma d’identification électronique notifié en vertu de l’article 9, paragraphe 1.",
+      "text_sha256": "2d527f59a144b99104b3d43e8ac31e318d19586614ffdbe63331531bb6d101d3",
+      "md_span": {
+        "start": 25528,
+        "end": 26852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les schémas nationaux d’identification électronique notifiés en vertu de l’article 9, paragraphe 1, sont interopérables.\n\n2. Aux fins du paragraphe 1, un cadre d’interopérabilité est établi.\n\n3. Le cadre d’interopérabilité satisfait aux critères suivants:\n\n| a) | il vise à être neutre du point de vue technologique et n’opère pas de discrimination entre l’une ou l’autre des solutions techniques nationales particulières destinées à l’identification électronique au sein d’un État membre; |\n| --- | --- |\n\n| b) | il suit les normes européennes et internationales, dans la mesure du possible; |\n| --- | --- |\n\n| c) | il facilite la mise en œuvre du principe du respect de la vie privée dès la conception; et |\n| --- | --- |\n\n| d) | il garantit que les données à caractère personnel sont traitées conformément à la directive 95/46/CE. |\n| --- | --- |\n\n4. Le cadre d’interopérabilité est composé:\n\n| a) | d’une référence aux exigences techniques minimales liées aux niveaux de garantie prévus à l’article 8; |\n| --- | --- |\n\n| b) | d’une table de correspondance entre les niveaux de garantie nationaux des schémas d’identification électronique notifiés et les niveaux de garantie au titre de l’article 8; |\n| --- | --- |\n\n| c) | d’une référence aux exigences techniques minimales en matière d’interopérabilité; |\n| --- | --- |\n\n| d) | d’une référence à un ensemble minimal de données d’identification personnelle représentant de manière univoque une personne physique ou morale, qui est disponible dans les schémas d’identification électronique; |\n| --- | --- |\n\n| e) | de règles de procédure; |\n| --- | --- |\n\n| f) | de dispositions pour le règlement des litiges; et |\n| --- | --- |\n\n| g) | de normes opérationnelles communes de sécurité. |\n| --- | --- |\n\n5. Les États membres coopèrent en ce qui concerne:\n\n| a) | l’interopérabilité des schémas d’identification électronique notifiés en application de l’article 9, paragraphe 1, et des schémas d’identification électronique que les États membres entendent notifier; et |\n| --- | --- |\n\n| b) | la sécurité des schémas d’identification électronique. |\n| --- | --- |\n\n6. La coopération entre les États membres consiste:\n\n| a) | en un échange d’informations, d’expériences et de bonnes pratiques en ce qui concerne les schémas d’identification électronique, notamment les exigences techniques liées à l’interopérabilité et aux niveaux de garantie; |\n| --- | --- |\n\n| b) | en un échange d’informations, d’expériences et de bonnes pratiques en ce qui concerne l’utilisation des niveaux de garantie des schémas d’identification électronique prévus à l’article 8; |\n| --- | --- |\n\n| c) | en une évaluation par les pairs des schémas d’identification électronique relevant du présent règlement; et |\n| --- | --- |\n\n| d) | en un examen des évolutions pertinentes dans le secteur de l’identification électronique. |\n| --- | --- |\n\n7. Au plus tard le 18 mars 2015, la Commission fixe, au moyen d’actes d’exécution, les modalités de procédure nécessaires pour faciliter la coopération entre les États membres visée aux paragraphes 5 et 6, en vue de favoriser un niveau élevé de confiance et de sécurité approprié au degré de risque.\n\n8. Au plus tard le 18 septembre 2015, aux fins de fixer des conditions uniformes d’exécution de l’obligation prévue au paragraphe 1, la Commission adopte, sous réserve des critères énoncés au paragraphe 3 et compte tenu des résultats de la coopération entre les États membres, des actes d’exécution sur le cadre d’interopérabilité énoncé au paragraphe 4.\n\n9. Les actes d’exécution visés aux paragraphes 7 et 8 du présent article sont adoptés en conformité avec la procédure d’examen visés à l’article 48, paragraphe 2.",
+      "text_sha256": "effb5937f1b2bf493c63e2e28a71e5d631110bbbee2bf2afb646956e34f834fd",
+      "md_span": {
+        "start": 26887,
+        "end": 30590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Sans préjudice du paragraphe 2, les prestataires de services de confiance sont responsables des dommages causés intentionnellement ou par négligence à toute personne physique ou morale en raison d’un manquement aux obligations prévues par le présent règlement.\n\nIl incombe à la personne physique ou morale qui invoque les dommages visés au premier alinéa de prouver que le prestataire de services de confiance non qualifié a agi intentionnellement ou par négligence.\n\nUn prestataire de services de confiance qualifié est présumé avoir agi intentionnellement ou par négligence, à moins qu’il ne prouve que les dommages visés au premier alinéa ont été causés sans intention ni négligence de sa part.\n\n2. Lorsque les prestataires de services de confiance informent dûment leurs clients au préalable des limites qui existent à l’utilisation des services qu’ils fournissent et que ces limites peuvent être reconnues par des tiers, les prestataires de services de confiance ne peuvent être tenus responsables des dommages découlant de l’utilisation des services au-delà des limites indiquées.\n\n3. Les paragraphes 1 et 2 s’appliquent conformément aux règles nationales en matière de responsabilité.",
+      "text_sha256": "94764475c1772f7200cf48d3ad2dde9a0b251b018b7196e8ea1f75b66b4ed0bf",
+      "md_span": {
+        "start": 30625,
+        "end": 31831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les services de confiance fournis par des prestataires de services de confiance établis dans un pays tiers sont reconnus comme équivalents, sur le plan juridique, à des services de confiance qualifiés fournis par des prestataires de services de confiance qualifiés établis dans l’Union lorsque les services de confiance provenant du pays tiers sont reconnus en vertu d’un accord conclu entre l’Union et le pays tiers concerné ou une organisation internationale conformément à l’article 218 du traité sur le fonctionnement de l’Union européenne.\n\n2. Les accords visés au paragraphe 1 garantissent, en particulier, que:\n\n| a) | les exigences applicables aux prestataires de services de confiance qualifiés établis dans l’Union et les services de confiance qualifiés qu’ils fournissent sont respectés par les prestataires de services de confiance dans le pays tiers ou par les organisations internationales avec lesquels l’accord est conclu, et par les services de confiance qu’ils fournissent; |\n| --- | --- |\n\n| b) | les services de confiance qualifiés fournis par des prestataires de services de confiance qualifiés établis dans l’Union sont reconnus comme équivalents, sur le plan juridique, à des services de confiance fournis par des prestataires de services de confiance dans le pays tiers ou par l’organisation internationale avec lequels l’accord est conclu. |\n| --- | --- |",
+      "text_sha256": "658b1277e8f2e602e118e4d0ac51811487ff6767a649dd1664630bf4fec7a72e",
+      "md_span": {
+        "start": 31866,
+        "end": 33261
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nDans la mesure du possible, les services de confiance fournis, ainsi que les produits destinés à un utilisateur final qui servent à fournir ces services, sont accessibles aux personnes handicapées.",
+      "text_sha256": "41a9f4926679ca55332d23b9d280392cd9b68d3f8e74411eb33127d3ee8e4fa4",
+      "md_span": {
+        "start": 33296,
+        "end": 33505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLes États membres fixent le régime des sanctions applicables aux violations du présent règlement. Les sanctions prévues sont effectives, proportionnées et dissuasives.",
+      "text_sha256": "4549f9b461e51bdc6be20a048b9134f4d6ece0000e286ac0e2910df7533878db",
+      "md_span": {
+        "start": 33540,
+        "end": 33719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Les États membres désignent un organe de contrôle établi sur leur territoire ou, d’un commun accord avec un autre État membre, un organe de contrôle établi dans cet autre État membre. Cet organe est chargé des tâches de contrôle dans l’État membre qui a procédé à la désignation.\n\nLes organes de contrôle sont investis des pouvoirs nécessaires et dotés des ressources adéquates pour l’exercice de leurs tâches.\n\n2. Les États membres notifient à la Commission le nom et l’adresse de l’organe de contrôle qu’ils ont désigné.\n\n3. Le rôle de l’organe de contrôle est le suivant:\n\n| a) | contrôler les prestataires de services de confiance qualifiés établis sur le territoire de l’État membre qui a procédé à la désignation afin de s’assurer, par des activités de contrôle a priori et a posteriori, que ces prestataires de services de confiance qualifiés et les services de confiance qualifiés qu’ils fournissent satisfont aux exigences fixées dans le présent règlement; |\n| --- | --- |\n\n| b) | prendre des mesures, si nécessaire, en ce qui concerne les prestataires de services de confiance non qualifiés établis sur le territoire de l’État membre qui a procédé à la désignation, par des activités de contrôle a posteriori, lorsqu’il est informé que ces prestataires de services de confiance non qualifiés ou les services de confiance qu’ils fournissent ne satisferaient pas aux exigences fixées dans le présent règlement. |\n| --- | --- |\n\n4. Aux fins du paragraphe 3 et sous réserve des limites qu’il prévoit, les tâches de l’organe de contrôle consistent notamment:\n\n| a) | à coopérer avec d’autres organes de contrôle et à leur apporter assistance conformément à l’article 18; |\n| --- | --- |\n\n| b) | à analyser les rapports d’évaluation de la conformité visés à l’article 20, paragraphe 1, et à l’article 21, paragraphe 1; |\n| --- | --- |\n\n| c) | à informer d’autres organes de contrôle et le public d’atteintes à la sécurité ou de pertes d’intégrité conformément à l’article 19, paragraphe 2; |\n| --- | --- |\n\n| d) | à présenter un rapport à la Commission sur ses principales activités conformément au paragraphe 6 du présent article; |\n| --- | --- |\n\n| e) | à procéder à des audits ou à demander à un organisme d’évaluation de la conformité d’effectuer une évaluation de la conformité des prestataires de services de confiance qualifiés conformément à l’article 20, paragraphe 2; |\n| --- | --- |\n\n| f) | à coopérer avec les autorités chargées de la protection des données, en particulier en les informant, dans les meilleurs délais, des résultats des audits des prestataires de services de confiance qualifiés lorsqu’il apparaît que des règles en matière de protection des données à caractère personnel ont été violées; |\n| --- | --- |\n\n| g) | à accorder le statut qualifié aux prestataires de services de confiance et aux services qu’ils fournissent et à retirer ce statut conformément aux articles 20 et 21; |\n| --- | --- |\n\n| h) | à informer l’organisme chargé de la liste nationale de confiance visée à l’article 22, paragraphe 3, de ses décisions d’accorder ou de retirer le statut qualifié, à moins que cet organisme ne soit également l’organe de contrôle; |\n| --- | --- |\n\n| i) | à vérifier l’existence et l’application correcte de dispositions relatives aux plans d’arrêt d’activité lorsque le prestataire de services de confiance qualifié cesse son activité, y compris la façon dont les informations restent accessibles conformément à l’article 24, paragraphe 2, point h); |\n| --- | --- |\n\n| j) | à exiger que les prestataires de services de confiance corrigent tout manquement aux obligations fixées par le présent règlement. |\n| --- | --- |\n\n5. Les États membres peuvent exiger de l’organe de contrôle qu’il établisse, gère et actualise une infrastructure de confiance conformément aux conditions prévues par le droit national.\n\n6. Au plus tard le 31 mars de chaque année, chaque organe de contrôle soumet à la Commission un rapport sur ses principales activités de l’année civile précédente, accompagné d’un résumé des notifications d’atteinte à la sécurité reçues de prestataires de services de confiance conformément à l’article 19, paragraphe 2.\n\n7. La Commission met le rapport annuel visé au paragraphe 6 à la disposition des États membres.\n\n8. La Commission peut définir, au moyen d’actes d’exécution, les formats et procédures applicables aux fins du rapport visé au paragraphe 6. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "b40b8f011abc30c131d6b3dce964d4397e156968b42f19a98ca960544e665047",
+      "md_span": {
+        "start": 33754,
+        "end": 38282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Les organes de contrôle coopèrent en vue d’échanger des bonnes pratiques.\n\nUn organe de contrôle fournit, après réception d’une demande justifiée d’un autre organe de contrôle, à cet organe une assistance afin que les activités des organes de contrôle puissent être exécutées de façon cohérente. L’assistance mutuelle peut notamment couvrir des demandes d’informations et des mesures de contrôle, telles que des demandes de procéder à des inspections liées aux rapports d’évaluation de la conformité visés aux articles 20 et 21.\n\n2. Un organe de contrôle saisi d’une demande d’assistance peut refuser cette demande sur la base de l’un ou l’autre des motifs suivants:\n\n| a) | l’organe de contrôle n’est pas compétent pour fournir l’assistance demandée; |\n| --- | --- |\n\n| b) | l’assistance demandée n’est pas proportionnée aux activités de contrôle de l’organe de contrôle effectuées conformément à l’article 17; |\n| --- | --- |\n\n| c) | la fourniture de l’assistance demandée serait incompatible avec le présent règlement. |\n| --- | --- |\n\n3. Le cas échéant, les États membres peuvent autoriser leurs organes de contrôle respectifs à mener des enquêtes conjointes faisant intervenir des membres des organes de contrôle d’autres États membres. Les modalités et procédures concernant ces actions conjointes sont approuvées et établies par les États membres concernés conformément à leur droit national.",
+      "text_sha256": "a7893736dafd274508dac65ffe2b44ed86416ffcd88d72566117b979bdff5c37",
+      "md_span": {
+        "start": 38317,
+        "end": 39731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les prestataires de services de confiance qualifiés et non qualifiés prennent les mesures techniques et organisationnelles adéquates pour gérer les risques liés à la sécurité des services de confiance qu’ils fournissent. Compte tenu des évolutions technologiques les plus récentes, ces mesures garantissent que le niveau de sécurité est proportionné au degré de risque. Des mesures sont notamment prises en vue de prévenir et de limiter les conséquences d’incidents liés à la sécurité et d’informer les parties concernées des effets préjudiciables de tels incidents.\n\n2. Les prestataires de services de confiance qualifiés et non qualifiés notifient, dans les meilleurs délais et en tout état de cause dans un délai de vingt-quatre heures après en avoir eu connaissance, à l’organe de contrôle et, le cas échéant, à d’autres organismes concernés, tels que l’organisme national compétent en matière de sécurité de l’information ou l’autorité chargée de la protection des données, toute atteinte à la sécurité ou toute perte d’intégrité ayant une incidence importante sur le service de confiance fourni ou sur les données à caractère personnel qui y sont conservées.\n\nLorsque l’atteinte à la sécurité ou la perte d’intégrité est susceptible de porter préjudice à une personne physique ou morale à laquelle le service de confiance a été fourni, le prestataire de services de confiance notifie aussi, dans les meilleurs délais, à la personne physique ou morale l’atteinte à la sécurité ou la perte d’intégrité.\n\nLe cas échéant, notamment lorsqu’une atteinte à la sécurité ou une perte d’intégrité concerne deux États membres ou plus, l’organe de contrôle notifié informe les organes de contrôle des autres États membres concernés ainsi que l'ENISA.\n\nL’organe de contrôle notifié informe le public ou exige du prestataire de services de confiance qu’il le fasse, dès lors qu’il constate qu’il est dans l’intérêt public de divulguer l’atteinte à la sécurité ou la perte d’intégrité.\n\n3. Une fois par an, l’organe de contrôle fournit à l'ENISA un résumé des notifications d’atteinte à la sécurité et de perte d’intégrité reçues de prestataires de services de confiance.\n\n4. La Commission peut, au moyen d’actes d’exécution:\n\n| a) | préciser davantage les mesures visées au paragraphe 1; et |\n| --- | --- |\n\n| b) | définir les formats et procédures, y compris les délais, applicables aux fins du paragraphe 2. |\n| --- | --- |\n\nCes actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "99dee70b095729c787c5e608357e73bb517c51606609dccdd74b7f047e39eb67",
+      "md_span": {
+        "start": 39766,
+        "end": 42311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Les prestataires de services de confiance qualifiés font l’objet, au moins tous les vingt-quatre mois, d’un audit effectué à leurs frais par un organisme d’évaluation de la conformité. Le but de l’audit est de confirmer que les prestataires de services de confiance qualifiés et les services de confiance qualifiés qu’ils fournissent remplissent les exigences fixées par le présent règlement. Les prestataires de services de confiance qualifiés transmettent le rapport d’évaluation de la conformité à l’organe de contrôle dans un délai de trois jours ouvrables qui suivent sa réception.\n\n2. Sans préjudice du paragraphe 1, l’organe de contrôle peut à tout moment, soumettre les prestataires de services de confiance qualifiés à un audit ou demander à un organisme d’évaluation de la conformité de procéder à une évaluation de la conformité des prestataires de services de confiance qualifiés, aux frais de ces prestataires de services de confiance, afin de confirmer que les prestataires et les services de confiance qualifiés qu’ils fournissent remplissent les exigences fixées par le présent règlement. L’organe de contrôle informe les autorités chargées de la protection des données des résultats de ses audits lorsqu’il apparaît que les règles en matière de protection des données à caractère personnel ont été violées.\n\n3. Lorsque l’organe de contrôle exige du prestataire de services de confiance qualifié qu’il corrige un manquement aux exigences prévues par le présent règlement et que le prestataire n’agit pas en conséquence, et le cas échéant dans un délai fixé par l’organe de contrôle, l’organe de contrôle, tenant compte, en particulier, de l’ampleur, de la durée et des conséquences de ce manquement, peut retirer à ce prestataire ou au service affecté le statut qualifié et informe l’organisme visé à l’article 22, paragraphe 3, aux fins de la mise à jour des listes de confiance visées à l’article 22, paragraphe 1. L’organe de contrôle informe le prestataire de services de confiance qualifié du retrait de son statut qualifié ou du retrait du statut qualifié du service concerné.\n\n4. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes suivantes:\n\n| a) | accréditation des organismes d’évaluation de la conformité et rapports d’évaluation de la conformité visés au paragraphe 1; |\n| --- | --- |\n\n| b) | règles d’audit en fonction desquelles les organismes d’évaluation de la conformité procéderont à leur évaluation de la conformité des prestataires de services de confiance qualifiés visés au paragraphe 1. |\n| --- | --- |\n\nCes actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "37ea3d9714a0a59d204ebb271e3a60f1b92c9b5a34ffe68ece2f9b5eaddb193b",
+      "md_span": {
+        "start": 42346,
+        "end": 45061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Lorsque des prestataires de services de confiance, sans statut qualifié, ont l’intention de commencer à offrir des services de confiance qualifiés, ils soumettent à l’organe de contrôle une notification de leur intention accompagnée d’un rapport d’évaluation de la conformité délivré par un organisme d’évaluation de la conformité.\n\n2. L’organe de contrôle vérifie que le prestataire de services de confiance et les services de confiance qu’il fournit respectent les exigences fixées par le présent règlement, en particulier les exigences en ce qui concerne les prestataires de services de confiance qualifiés et les services de confiance qualifiés qu’ils fournissent.\n\nSi l’organe de contrôle conclut que le prestataire de services de confiance et les services de confiance qu’il fournit respectent les exigences visées au premier alinéa, l’organe de contrôle accorde le statut qualifié au prestataire de services de confiance et aux services de confiance qu’il fournit et informe l’organisme visé à l’article 22, paragraphe 3, aux fins de la mise à jour des listes de confiance visées à l’article 22, paragraphe 1, au plus tard trois mois suivant la notification conformément au paragraphe 1 du présent article.\n\nSi la vérification n’est pas terminée dans un délai de trois mois à compter de la notification, l’organe de contrôle en informe le prestataire de services de confiance en précisant les raisons du retard et le délai nécessaire pour terminer la vérification.\n\n3. Les prestataires de services de confiance qualifiés peuvent commencer à fournir le service de confiance qualifié une fois que le statut qualifié est indiqué sur les listes de confiance visées à l’article 22, paragraphe 1.\n\n4. La Commission peut définir, au moyen d’actes d’exécution, les formats et les procédures applicables aux fins des paragraphes 1 et 2. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "301759509dc542078f118baef9e99adf54950e791e4908019c7f8da8a4a4ef2e",
+      "md_span": {
+        "start": 45096,
+        "end": 47057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Chaque État membre établit, tient à jour et publie des listes de confiance, y compris des informations relatives aux prestataires de services de confiance qualifiés dont il est responsable, ainsi que des informations relatives aux services de confiance qualifiés qu’ils fournissent.\n\n2. Les États membres établissent, tiennent à jour et publient, de façon sécurisée et sous une forme adaptée au traitement automatisé, les listes de confiance visées au paragraphe 1 portant une signature électronique ou un cachet électronique.\n\n3. Les États membres communiquent à la Commission, dans les meilleurs délais, des informations relatives à l’organisme chargé d’établir, de tenir à jour et de publier les listes nationales de confiance, ainsi que des détails précisant où ces listes sont publiées, indiquant les certificats utilisés pour apposer une signature électronique ou un cachet électronique sur ces listes et signalant les modifications apportées à ces listes.\n\n4. La Commission met à la disposition du public, par l’intermédiaire d’un canal sécurisé, les informations visées au paragraphe 3 sous une forme portant une signature électronique ou un cachet électronique adaptée au traitement automatisé.\n\n5. Au plus tard le 18 septembre 2015, la Commission précise, au moyen d’actes d’exécution, les informations visées au paragraphe 1 et définit les spécifications techniques et les formats des listes de confiance applicables aux fins des paragraphes 1 à 4. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "f295beac4eb7167be76ab9743adaf128faafb5331624a3b4a496b2e7487568d4",
+      "md_span": {
+        "start": 47092,
+        "end": 48678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Une fois que le statut qualifié visé à l’article 21, paragraphe 2, deuxième alinéa, a été indiqué sur la liste de confiance visée à l’article 22, paragraphe 1, les prestataires de service de confiance qualifiés peuvent utiliser le label de confiance de l’Union pour indiquer d’une manière simple, claire et reconnaissable les services de confiance qualifiés qu’ils fournissent.\n\n2. Lorsqu’ils utilisent le label de confiance de l’Union pour les services de confiance qualifiés visé au paragraphe 1, les prestataires de services de confiance qualifiés veillent à ce qu’un lien vers la liste de confiance concernée soit disponible sur leur site internet.\n\n3. Au plus tard le 1er juillet 2015, la Commission prévoit, au moyen d’actes d’exécution, les spécifications relatives à la forme et notamment à la présentation, à la composition, à la taille et à la conception du label de confiance de l’Union pour les services de confiance qualifiés. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "e6be261a34db110823374168728ac842abe162bfdd7f4d3d2b08f41a8c2118d3",
+      "md_span": {
+        "start": 48713,
+        "end": 49779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Lorsqu’un prestataire de services de confiance qualifié délivre un certificat qualifié pour un service de confiance, il vérifie, par des moyens appropriés et conformément au droit national, l’identité et, le cas échéant, tous les attributs spécifiques de la personne physique ou morale à laquelle il délivre le certificat qualifié.\n\nLes informations visées au premier alinéa sont vérifiées par le prestataire de services de confiance qualifié directement ou en en ayant recours à un tiers conformément au droit national:\n\n| a) | par la présence en personne de la personne physique ou du représentant autorisé de la personne morale; ou |\n| --- | --- |\n\n| b) | à distance, à l’aide de moyens d’identification électronique pour lesquels, avant la délivrance du certificat qualifié, la personne physique ou un représentant autorisé de la personne morale s’est présenté en personne et qui satisfont aux exigences énoncées à l’article 8 en ce qui concerne les niveaux de garantie substantiel et élevé; ou |\n| --- | --- |\n\n| c) | au moyen d’un certificat de signature électronique qualifié ou d’un cachet électronique qualifié délivré conformément au point a) ou b); ou |\n| --- | --- |\n\n| d) | à l’aide d’autres méthodes d’identification reconnues au niveau national qui fournissent une garantie équivalente en termes de fiabilité à la présence en personne. La garantie équivalente est confirmée par un organisme d’évaluation de la conformité. |\n| --- | --- |\n\n2. Un prestataire de services de confiance qualifié qui fournit des services de confiance qualifiés:\n\n| a) | informe l’organe de contrôle de toute modification dans la fourniture de ses services de confiance qualifiés et de son intention éventuelle de cesser ces activités; |\n| --- | --- |\n\n| b) | emploie du personnel et, le cas échéant, des sous-traitants qui possèdent l’expertise, la fiabilité, l’expérience et les qualifications nécessaires, qui ont reçu une formation appropriée en ce qui concerne les règles en matière de sécurité et de protection des données à caractère personnel et appliquent des procédures administratives et de gestion correspondant à des normes européennes ou internationales; |\n| --- | --- |\n\n| c) | en ce qui concerne le risque de responsabilité pour dommages conformément à l’article 13, maintient des ressources financières suffisantes et/ou contracte une assurance responsabilité appropriée, conformément au droit national; |\n| --- | --- |\n\n| d) | avant d’établir une relation contractuelle, informe, de manière claire et exhaustive, toute personne désireuse d’utiliser un service de confiance qualifié des conditions précises relatives à l’utilisation de ce service, y compris toute limite quant à son utilisation; |\n| --- | --- |\n\n| e) | utilise des systèmes et des produits fiables qui sont protégés contre les modifications et assure la sécurité technique et la fiabilité des processus qu’ils prennent en charge; |\n| --- | --- |\n\n| f) | utilise des systèmes fiables pour stocker les données qui lui sont fournies, sous une forme vérifiable de manière que:i)les données ne soient publiquement disponibles pour des traitements qu’après avoir obtenu le consentement de la personne concernée par ces données;ii)seules des personnes autorisées puissent introduire des données et modifier les données conservées;iii)l’authenticité des données puisse être vérifiée; |\n| --- | --- |\n| i) | les données ne soient publiquement disponibles pour des traitements qu’après avoir obtenu le consentement de la personne concernée par ces données; |\n| ii) | seules des personnes autorisées puissent introduire des données et modifier les données conservées; |\n| iii) | l’authenticité des données puisse être vérifiée; |\n\n| g) | prend des mesures appropriées contre la falsification et le vol de données; |\n| --- | --- |\n\n| h) | enregistre et maintient accessibles pour une durée appropriée, y compris après que les activités du prestataire de services de confiance qualifié ont cessé, toutes les informations pertinentes concernant les données délivrées et reçues par le prestataire de services de confiance qualifié, aux fins notamment de pouvoir fournir des preuves en justice et aux fins d’assurer la continuité du service. Ces enregistrements peuvent être effectués par voie électronique; |\n| --- | --- |\n\n| i) | a un plan actualisé d’arrêt d’activité afin d’assurer la continuité du service conformément aux dispositions vérifiées par l’organe de contrôle au titre de l’article 17, paragraphe 4, point i); |\n| --- | --- |\n\n| j) | assure le traitement licite de données à caractère personnel conformément à la directive 95/46/CE; |\n| --- | --- |\n\n| k) | au cas où le prestataire de services de confiance qualifié délivre des certificats qualifiés, établit et tient à jour une base de données relative aux certificats. |\n| --- | --- |\n\n3. Lorsqu’un prestataire de services de confiance qualifié qui délivre des certificats qualifiés décide de révoquer un certificat, il enregistre cette révocation dans sa base de données relative aux certificats et publie le statut de révocation du certificat en temps utile, et en tout état de cause dans les vingt-quatre heures suivant la réception de la demande. Cette révocation devient effective immédiatement dès sa publication.\n\n4. En ce qui concerne le paragraphe 3, les prestataires de services de confiance qualifiés qui délivrent des certificats qualifiés fournissent à toute partie utilisatrice des informations sur la validité ou le statut de révocation des certificats qualifiés qu’ils ont délivrés. Ces informations sont disponibles, au moins par certificat, à tout moment et au-delà de la période de validité du certificat, sous une forme automatisée qui est fiable, gratuite et efficace.\n\n5. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux systèmes et produits fiables, qui satisfont aux exigences du paragraphe 2, points e) et f), du présent article. Les systèmes et les produits fiables sont présumés satisfaire aux exigences fixées au présent article lorsqu’ils respectent ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "b97b3a955e0a9e1b0d4b25ba07c606f7cada46a18a287fd1179669511e7a8a9a",
+      "md_span": {
+        "start": 49814,
+        "end": 56023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. L’effet juridique et la recevabilité d’une signature électronique comme preuve en justice ne peuvent être refusés au seul motif que cette signature se présente sous une forme électronique ou qu’elle ne satisfait pas aux exigences de la signature électronique qualifiée.\n\n2. L’effet juridique d’une signature électronique qualifiée est équivalent à celui d’une signature manuscrite.\n\n3. Une signature électronique qualifiée qui repose sur un certificat qualifié délivré dans un État membre est reconnue en tant que signature électronique qualifiée dans tous les autres États membres.",
+      "text_sha256": "8928978cbd85d35b30815aa01b63c812f46552e915b3b5789ea7d228d396a4cf",
+      "md_span": {
+        "start": 56058,
+        "end": 56655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nUne signature électronique avancée satisfait aux exigences suivantes:\n\n| a) | être liée au signataire de manière univoque; |\n| --- | --- |\n\n| b) | permettre d’identifier le signataire; |\n| --- | --- |\n\n| c) | avoir été créée à l’aide de données de création de signature électronique que le signataire peut, avec un niveau de confiance élevé, utiliser sous son contrôle exclusif; et |\n| --- | --- |\n\n| d) | être liée aux données associées à cette signature de telle sorte que toute modification ultérieure des données soit détectable. |\n| --- | --- |",
+      "text_sha256": "ba77234f0247dbe9372c0be8e6557bc1ed7df1c54839fd7422f8fa3e0d88b988",
+      "md_span": {
+        "start": 56690,
+        "end": 57251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Si un État membre exige une signature électronique avancée pour utiliser un service en ligne offert par un organisme du secteur public ou pour l’utiliser au nom de cet organisme, il reconnaît les signatures électroniques avancées, les signatures électroniques avancées qui reposent sur un certificat qualifié de signature électronique et les signatures électroniques qualifiées au moins dans les formats ou utilisant les méthodes définis dans les actes d’exécution visés au paragraphe 5.\n\n2. Si un État membre exige une signature électronique avancée qui repose sur un certificat qualifié pour utiliser un service en ligne proposé par un organisme du secteur public ou pour l’utiliser au nom de cet organisme, il reconnaît les signatures électroniques avancées qui reposent sur un certificat qualifié et les signatures électroniques qualifiées au moins dans les formats ou utilisant les méthodes définis dans les actes d’exécution visés au paragraphe 5.\n\n3. Les États membres n’exigent pas, pour une utilisation transfrontalière dans un service en ligne offert par un organisme du secteur public, de signature électronique présentant un niveau de sécurité supérieur à celui de la signature électronique qualifiée.\n\n4. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux signatures électroniques avancées. Une signature électronique avancée est présumée satisfaire aux exigences applicables aux signatures électroniques avancées visées aux paragraphes 1 et 2 du présent article et à l’article 26 lorsqu’elle respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.\n\n5. Au plus tard le 18 septembre 2015, et compte tenu des pratiques et des normes ainsi que des actes juridiques de l’Union en vigueur, la Commission définit, au moyen d’actes d’exécution, les formats de référence des signatures électroniques avancées ou les méthodes de référence lorsque d’autres formats sont utilisés. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "3a063204862674a66fdc7ca27cf56750c5d2116d4a0e4a219732d3bd3bfeb695",
+      "md_span": {
+        "start": 57286,
+        "end": 59434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. Les certificats qualifiés de signature électronique satisfont aux exigences fixées à l’annexe I.\n\n2. Les certificats qualifiés de signature électronique ne font l’objet d’aucune exigence obligatoire allant au-delà des exigences fixées à l’annexe I.\n\n3. Les certificats qualifiés de signature électronique peuvent comprendre des attributs spécifiques supplémentaires non obligatoires. Ces attributs n’affectent pas l’interopérabilité et la reconnaissance des signatures électroniques qualifiées.\n\n4. Si un certificat qualifié de signature électronique a été révoqué après la première activation, il perd sa validité à compter du moment de sa révocation et il ne peut en aucun cas recouvrer son statut antérieur.\n\n5. Sous réserve des conditions suivantes, les États membres peuvent établir des règles nationales relatives à la suspension temporaire d’un certificat qualifié de signature électronique:\n\n| a) | si un certificat qualifié de signature électronique a été temporairement suspendu, ce certificat perd sa validité pendant la période de suspension. |\n| --- | --- |\n\n| b) | la période de suspension est clairement indiquée dans la base de données relative aux certificats et le statut de suspension est visible, pendant la période de suspension, auprès du service fournissant les informations sur le statut du certificat. |\n| --- | --- |\n\n6. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux certificats qualifiés de signature électronique. Un certificat qualifié de signature électronique est présumé satisfaire aux exigences fixées à l’annexe I lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "911742aea397ed8ee40a21fd1a761273ec800da2f2e7ae0ae4b5235030ea38b3",
+      "md_span": {
+        "start": 59469,
+        "end": 61241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\n1. Les dispositifs de création de signature électronique qualifiés respectent les exigences fixées à l’annexe II.\n\n2. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux dispositifs de création de signature électronique qualifiés. Un dispositif de création de signature électronique qualifié est présumé satisfaire aux exigences fixées à l’annexe II lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "b4aadd1a3f3e9e36fd317641fa3e8446459d4960a794cf6b8d67a323e97ef0d0",
+      "md_span": {
+        "start": 61276,
+        "end": 61841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. La conformité des dispositifs de création de signature électronique qualifiés avec les exigences fixées à l’annexe II est certifiée par les organismes publics ou privés compétents désignés par les États membres.\n\n2. Les États membres notifient à la Commission le nom et l’adresse de l’organisme public ou privé visé au paragraphe 1. La Commission met ces informations à la disposition des États membres.\n\n3. La certification visée au paragraphe 1 est fondée sur l’un des éléments suivants:\n\n| a) | un processus d’évaluation de la sécurité mis en œuvre conformément à l’une des normes relatives à l’évaluation de la sécurité des produits informatiques figurant sur la liste établie conformément au deuxième alinéa; ou |\n| --- | --- |\n\n| b) | un processus autre que le processus visé au point a), à condition qu’il recoure à des niveaux de sécurité comparables et que l’organisme public ou privé visé au paragraphe 1 notifie ce processus à la Commission. Ledit processus ne peut être utilisé qu’en l’absence des normes visées au point a) ou lorsqu’un processus d’évaluation de la sécurité visé au point a) est en cours. |\n| --- | --- |\n\nLa Commission établit, au moyen d’actes d’exécution, une liste de normes relatives à l’évaluation de la sécurité des produits informatiques visés au point a). Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.\n\n4. La Commission est habilitée à adopter des actes délégués, en conformité avec l’article 47, en ce qui concerne la définition de critères spécifiques que doivent respecter les organismes désignés visés au paragraphe 1 du présent article.",
+      "text_sha256": "85a400cf6a48a2d293211d8b3809d159f7a8ba2f3490005a13b62c8d241d2112",
+      "md_span": {
+        "start": 61876,
+        "end": 63536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. Les États membres notifient à la Commission, dans les meilleurs délais et au plus tard un mois après la conclusion de la certification, des informations sur les dispositifs de création de signature électronique qualifiés qui ont été certifiés par les organismes visés à l’article 30, paragraphe 1. Ils notifient également à la Commission, dans les meilleurs délais et au plus tard un mois après l’annulation de la certification, des informations sur les dispositifs de création de signature électronique qui ne sont plus certifiés.\n\n2. Sur la base des informations reçues, la Commission établit, publie et met à jour une liste des dispositifs de création de signature électronique qualifiés certifiés.\n\n3. La Commission peut définir, au moyen d’actes d’exécution, les formats et les procédures applicables aux fins du paragraphe 1. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "32774805e3e933290cf93c6de482d3c65a2b6bd7fd18df1daa59b80a04cea44b",
+      "md_span": {
+        "start": 63571,
+        "end": 64529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. Le processus de validation d’une signature électronique qualifiée confirme la validité d’une signature électronique qualifiée à condition que:\n\n| a) | le certificat sur lequel repose la signature ait été, au moment de la signature, un certificat qualifié de signature électronique conforme à l’annexe I; |\n| --- | --- |\n\n| b) | le certificat qualifié ait été délivré par un prestataire de services de confiance qualifié et était valide au moment de la signature; |\n| --- | --- |\n\n| c) | les données de validation de la signature correspondent aux données communiquées à la partie utilisatrice; |\n| --- | --- |\n\n| d) | l’ensemble unique de données représentant le signataire dans le certificat soit correctement fourni à la partie utilisatrice; |\n| --- | --- |\n\n| e) | l’utilisation d’un pseudonyme soit clairement indiquée à la partie utilisatrice, si un pseudonyme a été utilisé au moment de la signature; |\n| --- | --- |\n\n| f) | la signature électronique ait été créée par un dispositif de création de signature électronique qualifié; |\n| --- | --- |\n\n| g) | l’intégrité des données signées n’ait pas été compromise; |\n| --- | --- |\n\n| h) | les exigences prévues à l’article 26 aient été satisfaites au moment de la signature. |\n| --- | --- |\n\n2. Le système utilisé pour valider la signature électronique qualifiée fournit à la partie utilisatrice le résultat correct du processus de validation et permet à celle-ci de détecter tout problème pertinent relatif à la sécurité.\n\n3. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables à la validation des signatures électroniques qualifiées. La validation des signatures électroniques qualifiées est présumée satisfaire aux exigences fixées au paragraphe 1 lorsqu’elle respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "cb094a1b3aa2247fdef452591d784456cd5daf2a9e283dd322ae4830dc666b5d",
+      "md_span": {
+        "start": 64564,
+        "end": 66485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\n1. Un service de validation qualifié des signatures électroniques qualifiées ne peut être fourni que par un prestataire de services de confiance qualifié qui:\n\n| a) | fournit une validation en conformité avec l’article 32, paragraphe 1; et |\n| --- | --- |\n\n| b) | permet aux parties utilisatrices de recevoir le résultat du processus de validation d’une manière automatisée, fiable, efficace et portant la signature électronique avancée ou le cachet électronique avancé du prestataire qui fournit le service de validation qualifié. |\n| --- | --- |\n\n2. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables au service de validation qualifié visé au paragraphe 1. Le service de validation de signatures électroniques qualifiées est présumé satisfaire aux exigences fixées au paragraphe 1 lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "c02dbe8f41a5eff0dd7683cde61419e9405cb2da1e6256b34071d988e5ff09b5",
+      "md_span": {
+        "start": 66520,
+        "end": 67515
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. Un service de conservation qualifié des signatures électroniques qualifiées ne peut être fourni que par un prestataire de services de confiance qualifié qui utilise des procédures et des technologies permettant d’étendre la fiabilité des signatures électroniques qualifiées au-delà de la période de validité technologique.\n\n2. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables au service de conservation qualifié des signatures électroniques qualifiées. Le service de conservation qualifié des signatures électroniques qualifiées est présumé satisfaire aux exigences fixées au paragraphe 1 lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "713151613a8945871c4aa8045e43ade278aaae63dcce3f897cd2fc5cacfdd6f6",
+      "md_span": {
+        "start": 67550,
+        "end": 68356
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\n1. L’effet juridique et la recevabilité d’un cachet électronique comme preuve en justice ne peuvent être refusés au seul motif que ce cachet se présente sous une forme électronique ou qu’il ne satisfait pas aux exigences du cachet électronique qualifié.\n\n2. Un cachet électronique qualifié bénéficie d’une présomption d’intégrité des données et d’exactitude de l’origine des données auxquelles le cachet électronique qualifié est lié.\n\n3. Un cachet électronique qualifié qui repose sur un certificat qualifié délivré dans un État membre est reconnu en tant que cachet électronique qualifié dans tous les autres États membres.",
+      "text_sha256": "42476fc4d4a987a62c97ab5ba8cc83e37a7531344192bd5ff0b2a6d6e710e178",
+      "md_span": {
+        "start": 68391,
+        "end": 69028
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\nUn cachet électronique avancé satisfait aux exigences suivantes:\n\n| a) | être lié au créateur du cachet de manière univoque; |\n| --- | --- |\n\n| b) | permettre d’identifier le créateur du cachet; |\n| --- | --- |\n\n| c) | avoir été créé à l’aide de données de création de cachet électronique que le créateur du cachet peut, avec un niveau de confiance élevé, utiliser sous son contrôle pour créer un cachet électronique; et |\n| --- | --- |\n\n| d) | être lié aux données auxquelles il est associé de telle sorte que toute modification ultérieure des données soit détectable. |\n| --- | --- |",
+      "text_sha256": "fbdbeef32dba95fde8f8d85ce01921084561c8ee8903abfe72971f4b9e425e4a",
+      "md_span": {
+        "start": 69063,
+        "end": 69660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_37",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 37\n\n1. Si un État membre exige un cachet électronique avancé pour utiliser un service en ligne offert par un organisme du secteur public ou pour l’utiliser au nom de cet organisme, il reconnaît les cachets électroniques avancés, les cachets électroniques avancés qui reposent sur un certificat qualifié de cachet électronique et les cachets électroniques qualifiés au moins dans les formats ou utilisant les méthodes définis dans les actes d’exécutions visés au paragraphe 5.\n\n2. Si un État membre exige un cachet électronique avancé qui repose sur un certificat qualifié pour utiliser un service en ligne proposé par un organisme du secteur public ou pour l’utiliser au nom de cet organisme, il reconnaît les cachets électroniques avancés qui reposent sur un certificat qualifié et les cachets électroniques qualifiés au moins dans les formats ou utilisant les méthodes définis dans les actes d’exécution visés au paragraphe 5.\n\n3. Les États membres n’exigent pas, pour l’utilisation transfrontalière dans un service en ligne offert par un organisme du secteur public, de cachet électronique présentant un niveau de sécurité supérieur à celui du cachet électronique qualifié.\n\n4. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux cachets électroniques avancés. Un cachet électronique avancé est présumé satisfaire aux exigences applicables aux cachets électroniques avancés visées aux paragraphes 1 et 2 du présent article et à l’article 36 lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.\n\n5. Au plus tard le 18 septembre 2015, et compte tenu des pratiques et des normes ainsi que des actes juridiques de l’Union en vigueur, la Commission définit, au moyen d’actes d’exécution, les formats de référence des cachets électroniques avancés ou les méthodes de référence lorsque d’autres formats sont utilisés. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "b02d197be237fde9bf8660a297c20e558f0aa23dfd41e8d50f3ed34a2666f452",
+      "md_span": {
+        "start": 69695,
+        "end": 71779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_38",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 38\n\n1. Les certificats qualifiés de cachet électronique satisfont aux exigences fixées à l’annexe III.\n\n2. Les certificats qualifiés de cachet électronique ne font l’objet d’aucune exigence obligatoire allant au-delà des exigences fixées à l’annexe III.\n\n3. Les certificats qualifiés de cachet électronique peuvent comprendre des attributs spécifiques supplémentaires non obligatoires. Ces attributs n’affectent pas l’interopérabilité et la reconnaissance des cachets électroniques qualifiés.\n\n4. Si un certificat qualifié de cachet électronique a été révoqué après la première activation, il perd sa validité à compter du moment de sa révocation et il ne peut en aucun cas recouvrer son statut antérieur.\n\n5. Sous réserve des conditions suivantes, les États membres peuvent établir des règles nationales relatives à la suspension temporaire de certificats qualifiés de cachet électronique:\n\n| a) | si un certificat qualifié de cachet électronique a été temporairement suspendu, ce certificat perd sa validité pendant la période de suspension; |\n| --- | --- |\n\n| b) | la période de suspension est clairement indiquée dans la base de données relative aux certificats et le statut de suspension est visible, pendant la période de suspension, auprès du service fournissant les informations sur le statut du certificat. |\n| --- | --- |\n\n6. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux certificats qualifiés de cachet électronique. Un certificat qualifié de cachet électronique est présumé satisfaire aux exigences fixées à l’annexe III lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "6f348b01cabfbb524a1f35765b951b372255a4240e4cfc604a505121f0751200",
+      "md_span": {
+        "start": 71814,
+        "end": 73564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_39",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 39\n\n1. L’article 29 s’applique mutatis mutandis aux exigences applicables aux dispositifs de création de cachet électronique qualifiés.\n\n2. L’article 30 s’applique mutatis mutandis à la certification des dispositifs de création de cachet électronique qualifiés.\n\n3. L’article 31 s’applique mutatis mutandis à la publication d’une liste de dispositifs de création de cachet électronique qualifiés.",
+      "text_sha256": "426d24bdfcb85d7aa0fb553f8bbbf5f51387955d16a800f5e499779fd179c946",
+      "md_span": {
+        "start": 73599,
+        "end": 74003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_40",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 40\n\nLes articles 32, 33 et 34 s’appliquent mutatis mutandis à la validation et à la conservation des cachets électroniques qualifiés.",
+      "text_sha256": "a5ef610d380c33eb8b077679471dc3d8085f429fffffab80c7632a206b6e5976",
+      "md_span": {
+        "start": 74038,
+        "end": 74179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_41",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 41\n\n1. L’effet juridique et la recevabilité d’un horodatage électronique comme preuve en justice ne peuvent être refusés au seul motif que cet horodatage se présente sous une forme électronique ou qu’il ne satisfait pas aux exigences de l’horodatage électronique qualifié.\n\n2. Un horodatage électronique qualifié bénéficie d’une présomption d’exactitude de la date et de l’heure qu’il indique et d’intégrité des données auxquelles se rapportent cette date et cette heure.\n\n3. Un horodatage électronique qualifié délivré dans un État membre est reconnu en tant qu’horodatage électronique qualifié dans tous les États membres.",
+      "text_sha256": "b6f8ff2768b3abeb42bf5b75705b67e4bfdbe527b5f295b27de84e6a654dd8f7",
+      "md_span": {
+        "start": 74214,
+        "end": 74846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_42",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 42\n\n1. Un horodatage électronique qualifié satisfait aux exigences suivantes:\n\n| a) | il lie la date et l’heure aux données de manière à raisonnablement exclure la possibilité de modification indétectable des données; |\n| --- | --- |\n\n| b) | il est fondé sur une horloge exacte liée au temps universel coordonné; et |\n| --- | --- |\n\n| c) | il est signé au moyen d’une signature électronique avancée ou cacheté au moyen d’un cachet électronique avancé du prestataire de services de confiance qualifié, ou par une méthode équivalente. |\n| --- | --- |\n\n2. La Commission peut, au moyen d’actes d’exécution, établir les numéros de référence des normes en ce qui concerne l’établissement du lien entre la date et l’heure et les données, et les horloges exactes. L’établissement du lien entre la date et l’heure et les données et les horloges exactes sont présumés satisfaire aux exigences fixées au paragraphe 1 lorsqu’ils respectent ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "8b8e0e0bb8a392b3a00971fa60c3a32eb7931ecd04b3561f424b2fb420bcbc73",
+      "md_span": {
+        "start": 74881,
+        "end": 75940
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_43",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 43\n\n1. L’effet juridique et la recevabilité des données envoyées et reçues à l’aide d’un service d’envoi recommandé électronique comme preuves en justice ne peuvent être refusés au seul motif que ce service se présente sous une forme électronique ou qu’il ne satisfait pas aux exigences du service d’envoi recommandé électronique qualifié.\n\n2. Les données envoyées et reçues au moyen d’un service d’envoi recommandé électronique qualifié bénéficient d’une présomption quant à l’intégrité des données, à l’envoi de ces données par l’expéditeur identifié et à leur réception par le destinataire identifié, et à l’exactitude de la date et de l’heure de l’envoi et de la réception indiquées par le service d’envoi recommandé électronique qualifié.",
+      "text_sha256": "f7b11d946bd760c4edce83ecc33fa5b21454855b212f9f9bb30e5b086558aa8d",
+      "md_span": {
+        "start": 75975,
+        "end": 76726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_44",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 44\n\n1. Les services d’envoi recommandé électronique qualifiés satisfont aux exigences suivantes:\n\n| a) | ils sont fournis par un ou plusieurs prestataires de services de confiance qualifiés; |\n| --- | --- |\n\n| b) | ils garantissent l’identification de l’expéditeur avec un degré de confiance élevé; |\n| --- | --- |\n\n| c) | ils garantissent l’identification du destinataire avant la fourniture des données; |\n| --- | --- |\n\n| d) | l’envoi et la réception de données sont sécurisés par une signature électronique avancée ou par un cachet électronique avancé d’un prestataire de services de confiance qualifié, de manière à exclure toute possibilité de modification indétectable des données; |\n| --- | --- |\n\n| e) | toute modification des données nécessaire pour l’envoi ou la réception de celles-ci est clairement signalée à l’expéditeur et au destinataire des données; |\n| --- | --- |\n\n| f) | la date et l’heure d’envoi, de réception et toute modification des données sont indiquées par un horodatage électronique qualifié. |\n| --- | --- |\n\nDans le cas où les données sont transférées entre deux prestataires de services de confiance qualifiés ou plus, les exigences fixées aux points a) à f) s’appliquent à tous les prestataires de services de confiance qualifiés.\n\n2. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux processus d’envoi et de réception de données. Le processus d’envoi et de réception de données est présumé satisfaire aux exigences fixées au paragraphe 1 lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "e74340bf7f602c59a4b65e809c24e78d9c21c7e9433d79d0ac20dde0369b1f57",
+      "md_span": {
+        "start": 76761,
+        "end": 78447
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_45",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 45\n\n1. Les certificats qualifiés d’authentification de site internet satisfont aux exigences fixées à l’annexe IV.\n\n2. La Commission peut, au moyen d’actes d’exécution, déterminer les numéros de référence des normes applicables aux certificats qualifiés d’authentification de site internet. Un certificat qualifié d’authentification de site internet est présumé satisfaire aux exigences fixées à l’annexe IV lorsqu’il respecte ces normes. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2.",
+      "text_sha256": "f7918782eca06463943c5c10a13124191e8e4cb3deda5128891136caa99526ab",
+      "md_span": {
+        "start": 78482,
+        "end": 79040
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_46",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 46\n\nL’effet juridique et la recevabilité d’un document électronique comme preuve en justice ne peuvent être refusés au seul motif que ce document se présente sous une forme électronique.",
+      "text_sha256": "cbe0f31d1a0d93778ca2d589202e26eacc0153c7db2e75e8f5d2eb419a6ce32c",
+      "md_span": {
+        "start": 79075,
+        "end": 79269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_47",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 47\n\n1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.\n\n2. Le pouvoir d’adopter des actes délégués visé à l’article 30, paragraphe 4, est conféré à la Commission pour une durée indéterminée à compter du 17 septembre 2014.\n\n3. La délégation de pouvoir visée à l’article 30, paragraphe 4, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au Journal officiel de l’Union européenne ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.\n\n4. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.\n\n5. Un acte délégué adopté en vertu de l’article 30, paragraphe 4, n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de deux mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de deux mois à l’initiative du Parlement européen ou du Conseil.",
+      "text_sha256": "349e39dad8b0a778784957086cbd9fd7aa381c3d39c9c17bc7c20323c819bea4",
+      "md_span": {
+        "start": 79304,
+        "end": 80722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_48",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 48\n\n1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.\n\n2. Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no 182/2011 s’applique.",
+      "text_sha256": "94e250e8b1b4f0b3b510c359a9567edbdc25cf598845e91000f921c90a53d1d8",
+      "md_span": {
+        "start": 80757,
+        "end": 80989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_49",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 49\n\nLa Commission procède à un réexamen de l’application du présent règlement et rend compte au Parlement européen et au Conseil, au plus tard le 1er juillet 2020. La Commission évalue, en particulier, s’il convient de modifier le champ d’application du présent règlement ou ses dispositions spécifiques, y compris l’article 6, l’article 7, point f) et les articles 34, 43, 44 et 45, compte tenu de l’expérience acquise dans l’application du présent règlement ainsi que de l’évolution des technologies, du marché et du contexte juridique.\n\nLe rapport visé au premier alinéa est, au besoin, accompagné de propositions législatives.\n\nEn outre, la Commission présente au Parlement européen et au Conseil, tous les quatre ans après la présentation du rapport visé au premier alinéa, un rapport sur les progrès accomplis dans la réalisation des objectifs du présent règlement.",
+      "text_sha256": "685503cc719fc1d25452bd12ba1144d20bdd4241c887d5df2530611a3fe3582f",
+      "md_span": {
+        "start": 81024,
+        "end": 81903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_50",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 50\n\n1. La directive 1999/93/CE est abrogée avec effet au 1er juillet 2016.\n\n2. Les références faites à la directive abrogée s’entendent comme faites au présent règlement.",
+      "text_sha256": "5af513af9f9e5ca3bf2b77e2f58e67c5b0788b705f49ae191b1b1ca15f218b1e",
+      "md_span": {
+        "start": 81938,
+        "end": 82116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_51",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 51\n\n1. Les dispositifs sécurisés de création de signature dont la conformité a été déterminée conformément à l’article 3, paragraphe 4, de la directive 1999/93/CE sont considérés comme des dispositifs de création de signature électronique qualifiés au titre du présent règlement.\n\n2. Les certificats qualifiés délivrés aux personnes physiques au titre de la directive 1999/93/CE sont considérés comme des certificats qualifiés de signature électronique au titre du présent règlement jusqu’à leur expiration.\n\n3. Un prestataire de services de certification qui délivre des certificats qualifiés au titre de la directive 1999/93/CE soumet un rapport d’évaluation de la conformité à l’organe de contrôle le plus rapidement possible, et au plus tard le 1er juillet 2017. Jusqu’à la présentation d’un tel rapport d’évaluation de la conformité et l’achèvement de l’évaluation par l’organe de contrôle, ce prestataire de services de certification est considéré comme un prestataire de services de confiance qualifié au titre du présent règlement.\n\n4. Si un prestataire de services de certification qui délivre des certificats qualifiés au titre de la directive 1999/93/CE ne soumet pas de rapport d’évaluation de la conformité à l’organe de contrôle dans le délai visé au paragraphe 3, ce prestataire de services de certification n’est pas considéré comme un prestataire de services de confiance qualifié au titre du présent règlement à partir du 2 juillet 2017.",
+      "text_sha256": "957e7d180d2c6a3fda61f4eee70cd6f04d9be3d06c8cef8e3ab27cd5d143ffdc",
+      "md_span": {
+        "start": 82151,
+        "end": 83614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "eu-eurlex:32014r0910:2014-07-23--8d0630dfcbc99c221c255a59d295f80bda3bad93f071501738c51416f2fcec76#art_52",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 52\n\n1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\n2. Le présent règlement est applicable à partir du 1er juillet 2016, à l’exception des dispositions suivantes:\n\n| a) | l’article 8, paragraphe 3, l’article 9, paragraphe 5, l’article 12, paragraphes 2 à 9, l’article 17, paragraphe 8, l’article 19, paragraphe 4, l’article 20, paragraphe 4, l’article 21, paragraphe 4, l’article 22, paragraphe 5, l’article 23, paragraphe 3, l’article 24, paragraphe 5, l’article 27, paragraphes 4 et 5, l’article 28, paragraphe 6, l’article 29, paragraphe 2, l’article 30, paragraphes 3 et 4, l’article 31, paragraphe 3, l’article 32, paragraphe 3, l’article 33, paragraphe 2, l’article 34, paragraphe 2, l’article 37, paragraphes 4 et 5, l’article 38, paragraphe 6, l’article 42, paragraphe 2, l’article 44, paragraphe 2, l’article 45, paragraphe 2, et les articles 47 et 48 sont applicables à partir du 17 septembre 2014; |\n| --- | --- |\n\n| b) | l’article 7, l’article 8, paragraphes 1 et 2, les articles 9, 10, 11, et l’article 12, paragraphe 1, sont applicables à compter de la date d’application des actes d’exécution visés à l’article 8, paragraphe 3, et à l’article 12, paragraphe 8; |\n| --- | --- |\n\n| c) | l’article 6 s’applique après trois ans à compter de la date d’application des actes d’exécution visés à l’article 8, paragraphe 3 et à l’article 12, paragraphe 8. |\n| --- | --- |\n\n3. Lorsque le schéma d’identification électronique notifié est inscrit sur la liste publiée par la Commission en application de l’article 9 avant la date visée au paragraphe 2, point c), du présent article, la reconnaissance des moyens d’identification électronique dans le cadre de ce schéma en application de l’article 6 a lieu au plus tard douze mois après la publication dudit schéma, mais pas avant la date visée au paragraphe 2, point c), du présent article.\n\n4. Nonobstant le paragraphe 2, point c), du présent article, un État membre peut décider que des moyens d’identification électronique relevant d’un schéma d’identification électronique notifié en application de l’article 9, paragraphe 1, par un autre État membre sont reconnus dans le premier État membre à compter de la date d’application des actes d’exécution visés à l’article 8, paragraphe 3, et à l’article 12, paragraphe 8. Les États membres concernés informent la Commission. La Commission rend publiques ces informations.",
+      "text_sha256": "96127caf2c0745993689094b0007d221da14e03f8b537a9c78ae00a1c031eaa5",
+      "md_span": {
+        "start": 83649,
+        "end": 86119
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

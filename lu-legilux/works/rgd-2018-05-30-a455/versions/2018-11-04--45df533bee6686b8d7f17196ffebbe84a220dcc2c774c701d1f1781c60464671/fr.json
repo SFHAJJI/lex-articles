@@ -1,0 +1,281 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671",
+  "language": "fr",
+  "title": "Règlement grand-ducal du 30 mai 2018 établissant un système d’identification et d’enregistrement des bovins",
+  "valid_from": "2018-11-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-05-30-a455/versions/2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671/fr.xml",
+    "sha256": "7a175f63c9dd80d6fb8691a4888e0a009c0ea01e42582535bc99ca5c83761d05",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_1er/20180610",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "Aux fins d'exécution du règlement (CE) n° 1760/2000 précité, l'autorité compétente est le ministre ayant l'Agriculture dans ses attributions et agissant par l'intermédiaire de l'Administration des services vétérinaires, désignée ci-après « l’administration ».",
+      "text_sha256": "91fbaa85bc24cadd453829a9c6003889748bb037aa3edeb6afe601829485462a",
+      "md_span": {
+        "start": 666,
+        "end": 925
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (CE) n° 1760/2000 précité"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_2/20181104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-04",
+      "text_md": "En application de l’article 4 paragraphe 1 du règlement (UE) n° 1760/2000 précité, l’attribution des numéros officiels est assurée par l’administration\n\nLes marques auriculaires sont strictement réservées au marquage des bovins de l’exploitation à laquelle elles ont été attribuées.\n\nEn cas de cessation de l’élevage de bovins, le détenteur doit en aviser l’administration et lui renvoyer le restant des marques auriculaires.",
+      "text_sha256": "77fdfa69b8093ada8f577d23e1c301e9660b451a7e7eff7a8b3733d4d692bfcc",
+      "md_span": {
+        "start": 960,
+        "end": 1385
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (UE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_3/20180610",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "En application de l’article 4 du règlement (CE) n° 1760/2000 précité, l’un des deux moyens d’identification de bovins nouvellement enregistrés doit obligatoirement être un dispositif d’identification électronique à compter de la date du 1er juillet 2018.",
+      "text_sha256": "c8d3a8e386deab6ddfb0834b357bbfd32356ccad553ec5ef4c68add7e29e1dbc",
+      "md_span": {
+        "start": 1420,
+        "end": 1674
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (CE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_4/20181104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-04",
+      "text_md": "En application de l’article 4 paragraphe 2 du règlement (UE) n° 1760/2000 précité, le délai maximal pour l’apposition des moyens d’identification est fixé à sept jours à partir de la date de naissance de l’animal.\n\nEn application de l’article 4 paragraphe 3 du règlement (UE) n° 1760/2000 précité, le délai maximal pour l’apposition des moyens d’identification pour les bovins importés d’un pays tiers, est fixé à vingt jours",
+      "text_sha256": "c4eff5c49448094329711e136fc9e1790a357e87bcbb17586ef2d05a448a58ea",
+      "md_span": {
+        "start": 1709,
+        "end": 2134
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (UE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_5/20181104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-04",
+      "text_md": "En application de l’article 9 du règlement (CE) n° 911/2004 précité, le point de départ pour le calcul du délai pour la notification visée à l’article 7 paragraphe premier, second tiret du règlement (UE) n° 1760/2000 précité est la date de naissance de l’animal et le délai maximal pour la notification des déplacements, naissances et décès est fixé à sept jours",
+      "text_sha256": "ff105022590e06e659158f531c190d27f1b387204c0f13285cff492a61b652d8",
+      "md_span": {
+        "start": 2169,
+        "end": 2531
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2004/911/jo",
+          "text": "règlement (CE) n° 911/2004"
+        },
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (UE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_6/20180610",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "En application de l’article 7, paragraphe 4, du règlement (CE) n° 1760/2000 précité, le registre de bétail ne peut être détruit au plus tôt trois années après le départ de tous les bovins y enregistrés.",
+      "text_sha256": "0f76412bf7157ba4584fe8836a118bb58f9bd9f9af00062373a735bcda5b3f70",
+      "md_span": {
+        "start": 2566,
+        "end": 2768
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (CE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_7/20180610",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "Aux fins de l’application des articles 2 et 3 du règlement (CE) n° 1082/2003 précité, l’administration et l’unité de contrôle sont chargées respectivement du contrôle administratif et du contrôle sur place du respect des conditions prévues aux articles 2 à 8 du présent règlement, des articles 4, 6 et 7 paragraphe 1er à 4 du règlement (CE) n° 1760/2000 précité et des articles 1er à 3 et 6 à 8 du règlement (CE) n° 911/2004 précité.",
+      "text_sha256": "3a8ab08079ec4b5a2f5a15a83499c162235264c41632c175546716896eacac8b",
+      "md_span": {
+        "start": 2803,
+        "end": 3236
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2003/1082/jo",
+          "text": "règlement (CE) n° 1082/2003"
+        },
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (CE) n° 1760/2000"
+        },
+        {
+          "href": "/eli/reg_ue/2004/911/jo",
+          "text": "règlement (CE) n° 911/2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_8/20180610",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "**(1)** Aux fins de l’application des articles 1er, 2 et 4 du règlement (CE) n° 494/98 précité l’administration impose des limitations de mouvements et la destruction des bovins.\n\n**(2)** Les infractions aux dispositions des articles 4, 6 et 7 du règlement (CE) n° 1760/2000 précité sont punies d’une amende de 251 à 100.000 euros.",
+      "text_sha256": "87acdb76d6dd03ae59c344ebc5e769ac1784cd26831c26e4a9333b6bb96110b8",
+      "md_span": {
+        "start": 3271,
+        "end": 3602
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/1998/494/jo",
+          "text": "règlement (CE) n° 494/98"
+        },
+        {
+          "href": "/eli/reg_ue/2000/1760/jo",
+          "text": "règlement (CE) n° 1760/2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_9/20180610",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "Le règlement grand-ducal du 22 avril 1999 portant mesures d'application du règlement (CE) n° 820/97 du Conseil du 21 avril 1997 en ce qui concerne l'identification et l'enregistrement des bovins est abrogé.",
+      "text_sha256": "09472a2f31b63959da04b203e0049f6c93978880957a968415878067c69b7a0b",
+      "md_span": {
+        "start": 3637,
+        "end": 3843
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/04/22/n1/jo",
+          "text": "règlement grand-ducal du 22 avril 1999"
+        },
+        {
+          "href": "/eli/reg_ue/1997/820/jo",
+          "text": "règlement (CE) n° 820/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_10/20180610",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "La référence au présent règlement se fait sous une forme abrégée en recourant à l’intitulé suivant : « règlement grand-ducal du 30 mai 2018 établissant un système d’identification et d’enregistrement des bovins ».",
+      "text_sha256": "04a9a3d4666cca2085722c3c1de935b3fb48fb07aa31fb120a231962a33c8e69",
+      "md_span": {
+        "start": 3880,
+        "end": 4093
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/05/30/a455/jo",
+          "text": "règlement grand-ducal du 30 mai 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04--45df533bee6686b8d7f17196ffebbe84a220dcc2c774c701d1f1781c60464671#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/art_11/20180610",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-06-10",
+      "text_md": "Notre Ministre de l’Agriculture, de la Viticulture et de la Protection des consommateurs est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "878189ab54afcaa36485c1df0a55e34d85bd45ec2ac3166e0dcacad1fe927eb7",
+      "md_span": {
+        "start": 4130,
+        "end": 4331
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

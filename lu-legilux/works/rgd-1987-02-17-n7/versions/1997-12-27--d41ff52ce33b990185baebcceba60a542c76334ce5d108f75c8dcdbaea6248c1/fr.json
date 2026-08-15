@@ -1,0 +1,262 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/12/2011 : Règlement grand-ducal du 17 février 1987 sur l'identification des bâtiments de plaisance.",
+  "valid_from": "1997-12-27",
+  "valid_to": "2012-04-13",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1987-02-17-n7/versions/1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1/fr.xml",
+    "sha256": "eeb600540c655207addfd55ddb2cd52e63005b851b77c7437ac8a100ea9631b5",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971227/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**I.** Une menue embarcation est tout bâtiment, dont la longueur maximale de la coque, gouvernail et beaupré non compris, est Inférieure à 20 mètres ou dont le port en lourd ou le déplacememt ne dépasse pas 20 tonnes, à l'exception:\n\n- des bâtiments construits ou aménagés pour remorquer, pousser ou mener à couple des bâtiments autres que les menues embarcations;\n- de ceux qui sont autorisés au transport de plus de 12 passagers appelés bateaux à passagers;\n- des bacs.\n\n**II.** Un bâtiment de plaisance est une embarcation à voile ou à moteur utilisé dans un but récréatif et non lucratif.",
+      "text_sha256": "4d4c37b14b8b8494b0c3dd0a050289910e0caaeeb79910b40b59aa5b451897f8",
+      "md_span": {
+        "start": 709,
+        "end": 1301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Généralités",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les bâtiments de plaisance circulant ou établis sur les cours et plans d'eau du Grand-Duché de Luxembourg et dont les propriétaires ou détenteurs ont leur domicile au Grand-Duché de Luxembourg doivent porter une marque officielle d'identification attribuée par le Ministre des Transports ou son délégué.",
+      "text_sha256": "2d9ee2ea8bb19e189ae29120324658059dd11dba0585e263fcb1cb70f37760bb",
+      "md_span": {
+        "start": 1348,
+        "end": 1651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Nature et apposition de la marque officielle d'identification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La marque officielle d'identification se compose des lettres latines LG suivies d'un chiffre arabe. La séparation des lettres LG et du chiffre se fait moyennant un trait d'union.\n\nLa marque d'identification attribuée est peinte ou attachée en lettres latines et chiffres arabes de couleur claire sur fond sombre ou de couleur sombre sur fond clair aux deux côtés du beaupré du bâtiment de plaisance. Les lettres et les chiffres doivent avoir une hauteur d'au moins 10 centimètres, la largeur des traits étant d'au moins 1 centimètre. Le propriétaire ou détenteur veille à ce que le signe distinctif reste parfaitement lisible. Pour les voiliers et les planches à voile toutefois la marque officielle d'identification doit également apparaître sur les deux faces de la voile.\n\nLe bâtiment de plalsance peut afficher en dehors de la marque officielle d'identification un nom ou une devise, sans que ces formules puissent donner lieu à confusion avec la marque officielle d'identification.",
+      "text_sha256": "8209e5f8587a3205b187f317b3a30bca923d0dfea3d4e9a0d455288ac43f2840",
+      "md_span": {
+        "start": 1748,
+        "end": 2734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Attribution des marques officielles d'identification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La demande d'attribution d'une marque officielle d'identification sera adressée par le propriétaire ou détenteur d'un bâtiment de plaisance au Ministère des Transports - Service de la Navigation. La demande doit contenir les nom et prénoms, la profession, le domicile et les lieu et date de naissance du propriétaire ou détenteur. Elle doit être accompagnée d'une facture ou d'un autre document en tenant lieu.",
+      "text_sha256": "928c4f9f768a2ee667daeb346a0dc605bd7705db8f974ac842622343d5e3a497",
+      "md_span": {
+        "start": 2822,
+        "end": 3232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Conditions d'octroi",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'attribution de la marque officielle d'identification est subordonnée à la condition que le bâtiment de plaisance ne soit pas enregistré à l'étranger.\n\nLe propriétaire ou le détenteur du bâtiment de plaisance est tenu de prévenir tout de suite par écrit le Ministère des Transports - Service de la Navigation - de toute modification survenue dans les conditions ayant justifié la délivrance du certificat.",
+      "text_sha256": "4017d41b2119cf59ec730d453779b71c352552ed48678c1a48ac41ef9ba42f04",
+      "md_span": {
+        "start": 3287,
+        "end": 3693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Certificat d'identification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Un certificat d'identification conforme au modèle reproduit en annexe qui fait partie intégrante du présent règlement est délivré au propriétaire ou détenteur. Ledit certificat a une validité de cinq ans.\n\nLe certificat d'identification doit se trouver à bord du bâtiment de plaisance et être présenté sur demande aux agents de la police générale et aux fonctionnaires du Service de la Navigation chargés de la surveillance de la navigation.\n\nUn duplicata du certificat d'identification, désigné comme tel, est délivré en cas de perte, de destruction ou de vol dûment établis par une déclaration officielle.",
+      "text_sha256": "4f82c5bbaf6ea82c009fa248b5fbdf1141d95aa78ab65c23f9e48529c9f0faa8",
+      "md_span": {
+        "start": 3756,
+        "end": 4363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Cessation de validité de la marque d'identification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La marque d'identification attribuée n'est plus valable:\n\n1. en cas de changement de propriétaire ou de détenteur du bâtiment de plaisance;\n2. en cas de vol, destruction, exportation ou mise hors usage du bâtiment de plaisance;\n3. en cas de changement des caractéristiques techniques ou du nom ou de la devise du bâtiment de plaisance;\n4. en cas de changement de domicile du propriétaire ou du détenteur;\n5. en cas de dépassement de la durée de validité ou de non prorogation du certificat;\n6. si, à la suite d'une procédure administrative, le signe distinctif a été rayé d'office du registre.\n\nDans ces cas le certificat d'identification est à retourner endéans le délai d'un mois et avec indication des motifs au Ministère des Transports - Service de la Navigation\n\nPour les cas où il est constaté par l'administration que la marque officielle d'identification a perdu sa validité en vertu des dispositions sous a) à f) ci-dessus ou s'il est positivement établi que les conditions d'octroi ne sont plus remplies, la marque officielle d'identification est rayée d'office du registre. En vue de leur annulation, les certificats d'identification en question sont retirés par le Ministre des Transports ou son délégué.",
+      "text_sha256": "7705fe1ae214a2582b569920b746c88b0e8041666bf2e391444b6f127bc243ad",
+      "md_span": {
+        "start": 4450,
+        "end": 5666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Registre d'identification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il est créé au Ministère des Transports - Service de la Navigation - un registre d'identification des bâtiments de plaisance avec un numéro d'ordre d'une série continue.",
+      "text_sha256": "040e85d23df626e6ae63b2d7d27e3835377c57c622a5b36dfb7c7c6215f4cd02",
+      "md_span": {
+        "start": 5727,
+        "end": 5896
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Contrôle",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le certificat d'identification peut être retiré si les autorités compétentes constatent que les dispositions prévues aux articles 5 et 7 ci-dessus ne sont pas remplies.",
+      "text_sha256": "89f42bf84269544970e628d89fe56bba2b8141805cc8c0b624fbb52672f57a05",
+      "md_span": {
+        "start": 5940,
+        "end": 6108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Assurance obligatoire",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tout bâtiment de plaisance établi ou circulant sur les cours et plans d'eau du Grand-Duché de Luxembourg doit être couvert par une assurance -responsabilité civile.\n\nUne attestation doit certifier qu'une assurance-responsabilité civile a été conclue.",
+      "text_sha256": "0b615b93bd9a640968c8759ca5949ba5543438e290b2e519cbd00f92204f41e3",
+      "md_span": {
+        "start": 6167,
+        "end": 6417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Sanctions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les infractions aux prescriptions du présent règlement grand-ducal sont punies conformément à l'article 4 de la loi du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques et de la natation.",
+      "text_sha256": "3b4edb7d06605b36f21b8ed519982e3cd46dd815016762bfbd3e639db31986a3",
+      "md_span": {
+        "start": 6464,
+        "end": 6700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Dispositions finales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les marques officielles d'identification non valables sont à enlever du bâtiment de plaisance. En cas de changement de propriétaire ou de détenteur, le Service de la Navigation peut attribuer, sur demande et à condition que l'ancien certificat ait été retourné, l'ancienne marque officielle d'identification.\n\nLes bâtiments de plaisance circulant ou établis sur les cours et plans d'eau du Grand-Duché de Luxembourg et appartenant à des personnes domiciliées à l'étranger ne sont pas soumis aux dispositions du présent règlement, mais doivent satisfaire à la réglementation de leur pays d'origine ou être couverts soit par un certificat international délivré par le Gouvernement de leur pays ou par un organisme agréé par ce Gouvernement, soit par une carte internationale établie par des organismes qualifiés du pays où il n'est pas délivré de certificat international. Toutefois l'article 10 du présent règlement leur reste applicable.",
+      "text_sha256": "0de154de51e71c3d52a565678ba5f15f4bbb4715ea481a8c3aaeb51e03de6002",
+      "md_span": {
+        "start": 6758,
+        "end": 7695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Dispositions transitoires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les propriétaires ou détenteurs des bâtiments de plaisance doivent se conformer aux prescriptions du présent règlement dans les six mois à partir de son entrée en vigueur.",
+      "text_sha256": "57a5ebd8d738115b2ae7673f6f4ce851960a29014139f667031dd7a5fe5f0b34",
+      "md_span": {
+        "start": 7758,
+        "end": 7929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27--d41ff52ce33b990185baebcceba60a542c76334ce5d108f75c8dcdbaea6248c1#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre des Transports, Notre Ministre des Finances et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "70e905b58329ba49f70d3301b16fb92a3c4b0cff93418b57e9968ee0af17e033",
+      "md_span": {
+        "start": 7966,
+        "end": 8165
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

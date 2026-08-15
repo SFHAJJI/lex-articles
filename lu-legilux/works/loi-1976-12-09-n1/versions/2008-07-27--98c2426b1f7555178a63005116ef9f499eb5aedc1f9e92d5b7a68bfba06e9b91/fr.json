@@ -1,0 +1,2232 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/08/2023 : Loi du 9 décembre 1976 relative à l’organisation du notariat.",
+  "valid_from": "2008-07-27",
+  "valid_to": "2009-03-23",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1976-12-09-n1/versions/2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91/fr.xml",
+    "sha256": "f71895d87fabe2d57d0556bfb6ff62629f9b678834fdd857d97cdb5545814414",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20080727/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_1er/19980914",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1998-09-14",
+      "text_md": "Les notaires sont les officiers publics établis pour recevoir tous les actes et contrats auxquels les parties doivent ou veulent faire donner le caractère d’authenticité attaché aux actes de l’autorité publique, et pour en assurer la date, en conserver le dépôt, en délivrer des grosses et des expéditions.",
+      "text_sha256": "0367250b117c41eb1a55b298ec0db9fdf6d508d56bf0129211466b0e95066fec",
+      "md_span": {
+        "start": 738,
+        "end": 1044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_2/19770201",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont nommés par le Grand-Duc.\n\nIls ne peuvent être destitués qu’en vertu d’une décision judiciaire ou disciplinaire et ne peuvent être déplacés que sur leur demande.\n\nLeurs fonctions prennent fin de plein droit au moment où ils ont atteint l’âge de soixante-douze ans.\n\nLorsqu’un notaire ne remplit plus ses fonctions par suite de maladie ou d’infirmité graves et permanentes, le tribunal civil siégeant en chambre du conseil peut, à la requête du ministère public et sur avis de la chambre des notaires, le déclarer déchu de ses fonctions.",
+      "text_sha256": "686394547648dc648a5e8e77fd4e7616b2c567f2c925b6174f446e08f3825943",
+      "md_span": {
+        "start": 1079,
+        "end": 1632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_3/20041123",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "2004-11-23",
+      "text_md": "Les notaires ont tous les mêmes attributions.\n\nIls exercent leurs fonctions sur l’ensemble du territoire national.\n\nIls ne peuvent refuser leur ministère lorsqu’ils en sont requis, sauf qu’ils doivent le refuser dans les cas prévus par les articles 21 et 24 de la présente loi, l’article 5 (3) de la loi du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ainsi que dans tous les cas où, en vertu de dispositions légales spéciales, ils ont, avant de prêter leur ministère, une mission de vérification légale de l’existence ou de l’accomplissement de certaines conditions et formalités et qu’ils constatent que ces conditions ou formalités ne sont pas remplies.",
+      "text_sha256": "ed50609c0ef8fd697b0c020325decb7829bbbe773ae1e5088aafd6b3e27b3158",
+      "md_span": {
+        "start": 1667,
+        "end": 2376
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/11/12/n1/jo",
+          "text": "loi du 12 novembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_4/19910604",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "Chaque notaire doit résider effectivement dans la commune du lieu qui a été fixé par l’arrêté de nomination. Il ne lui est pas permis d’avoir une autre résidence, même familiale, ni de la changer sans autorisation préalable. Il peut toutefois être autorisé par le Ministre de la Justice et aux conditions à fixer par ce dernier, à établir sa demeure familiale privée dans une autre localité, le tout sur avis de la Chambre des Notaires.\n\nLorsqu’un notaire ne s’est pas conformé à la prescription de l’alinéa premier qui précède dans les trois mois de sa nomination, il sera passible d’une peine disciplinaire allant de la suspension à la destitution.",
+      "text_sha256": "0b10e2b72710cf92e517627f4a547559f35e2e70e5f7cafaa58126a4de1485de",
+      "md_span": {
+        "start": 2411,
+        "end": 3061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_5/19950407",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1995-04-07",
+      "text_md": "Il est défendu aux notaires de se rendre habituellement en certains endroits du territoire national pour y recevoir des actes.\n\nIl leur est pareillement interdit d’avoir une activité professionnelle et de recevoir des clients dans leur demeure privée au cas où elle est établie dans un lieu autre que celui de leur étude.\n\nIl leur est encore interdit de solliciter par eux-mêmes ou par personne interposée des affaires et d’accorder à cet effet des commissions ou autres avantages directs ou indirects.",
+      "text_sha256": "e4cf0ce6b490bdeecb72daea4c890c07ebb09eb4fd3de9dc5098c1a6b28540ab",
+      "md_span": {
+        "start": 3096,
+        "end": 3598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_6/19770201",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires ne peuvent occuper aucune autre fonction publique ni aucun emploi privé salariés ou comportant pour eux un lien de dépendance.\n\nLe notaire exerçant des fonctions incompatibles avec le notariat est sommé par la chambre des notaires ou par le ministère public de résigner ces fonctions ou le notariat. Si endéans un mois il ne s’est pas conformé à cette réquisition et n’a pas fait connaître son option, il encourt la sanction prévue à l’article 4.",
+      "text_sha256": "253eb23bfbc16f9edf5a15bc7a619e892595d6a025c1d8ab390b48d7a06a6d33",
+      "md_span": {
+        "start": 3633,
+        "end": 4092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_7/19980914",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1998-09-14",
+      "text_md": "Il est interdit aux notaires et à leurs conjoints soit par eux-mêmes, soit par personne interposée, soit directement, soit indirectement:\n\n1. d’exercer un commerce;\n2. d’un\n3. de s’immiscer dans l’administration et la surveillance de sociétés, d’entreprises ou d’agences ayant pour objet l’achat, la vente, le lotissement ou la construction d’immeubles, ou d’y avoir un intérêt quelconque;\n4. d’avoir avec lesdites sociétés, entreprises ou agences des relations suivies, qui entraveraient le libre choix du notaire par les parties;\n5. de se livrer habituellement à des opérations de banque, d’escompte et de courtage ou à des spéculations de bourse, à l’exception des opérations d’escompte effectuées à l’occasion des actes de leur ministère;\n6. de recevoir des dépôts de fonds, à l’exception des dépôts qui se font en vue ou à l’occasion d’actes de leur ministère ou de la liquidation de successions;\n7. de prêter leur ministère dans aucune affaire dans laquelle ils seraient intéressés;\n8. de se servir de prête-noms pour les actes qu’ils ne peuvent faire directement;\n9. d’avoir à leur service à quelque titre que ce soit des agents d’affaires ou des agents immobiliers.",
+      "text_sha256": "a4dced573daeb5af00455e865fef2c8448d92274db68538919528b485d9787c5",
+      "md_span": {
+        "start": 4127,
+        "end": 5300
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_8/19910604",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "1. Cette séparation s’opère par le placement auprès d’un établissement de crédit au sens de l’article 1er de la loi coordonnée du 27 novembre 1984 relative à la surveillance du secteur financier, comme suit: 1. Les sommes d’argent dépendant d’un patrimoine de tiers inférieures à 200.000,— F doivent être, avant l’expiration du deuxième mois qui suit le bilan de fin d’année, placées sur un compte général dénommé «Argent de Tiers», auprès d’un établissement de crédit tel que préindiqué.\n2. Celles supérieures à 200.000,— F doivent être, dans les deux mois de leur réception, placées sur un compte spécial auprès d’un établissement de crédit, à ouvrir au nom du notaire, mais sous individualisation du bénéficiaire et portant une rémunération correspondant au moins à celle du taux des livrets d’épargne.\n3. Les montants indiqués ci-dessus peuvent être modifiés par règlement grand-ducal.\n2. Chaque patrimoine de tiers doit être individualisé hors bilan dans la comptabilité du notaire.\n3. Un patrimoine de tiers ne peut être saisi que par les créanciers du bénéficiaire, à l’exclusion des créanciers du notaire. L’obligation de placement ne crée aucun lien direct entre le bénéficiaire et l’établissement de crédit. Le bénéficiaire d’un patrimoine de tiers, dûment placé, supporte le risque de l’insolvabilité de cet établissement, sans pouvoir se retourner contre le notaire.\n4. L’ancien notaire ou les ayants-droit du notaire décédé doivent dresser un état pour chaque patrimoine de tiers indiquant l’intégralité des opérations passées sur le patrimoine avec copies des pièces comptables à l’appui. Le patrimoine de tiers et cet état sont transmis avec les pièces au notaire nommé en remplacement endéans le mois de sa nomination, sans aucun droit de rétention. Une copie de l’état est transmise en outre au bénéficiaire dans le même délai et si elle le demande, à la Chambre des Notaires en sa qualité d’organe de contrôle. En cas d’inobservation de ces dispositions par l’ancien notaire ou les ayants-droit du notaire décédé, le président du tribunal d’arrondissement peut ordonner en référé, sous astreinte, la transmission des patrimoines de tiers et de l’état prémentionnés, à la requête, soit de la Chambre des Notaires, agissant d’office ou sur demande du notaire nommé en remplacement, soit du Procureur d’Etat. L’astreinte est prononcée au profit de l’Etat et perçue par l’Administration de l’Enregistrement et des Domaines. A partir de la nomination du successeur, et à condition d’avoir transmis les patrimoines et l’état prémentionnés, l’ancien notaire et les ayants-droit du notaire décédé sont déchargés pour l’avenir de leurs obligations concernant ces patrimoines, qui passent au nouveau titulaire, avec toutes les sûretés, saisies et oppositions éventuelles. Les dispositions du présent paragraphe s’appliquent également en cas de suppléance d’un notaire pour la durée de celle-ci.\n5. Les patrimoines de tiers quel qu’en soit le montant, qui n’ont pas été réclamés par le bénéficiaire dans les cinq ans de leur réception doivent être déposés à la Caisse des Consignations au nom du bénéficiaire désigné par le notaire, le bénéficiaire seul pouvant en disposer.",
+      "text_sha256": "ae51e01b27f4ed95a14effb316ed4f585ac318da38de95859e137f62467f721f",
+      "md_span": {
+        "start": 5335,
+        "end": 8516
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1984/11/27/n1/jo",
+          "text": "loi coordonnée du 27 novembre 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_9/19770201",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La chambre des notaires surveille l’application des dispositions de l’article qui précède et, à sa demande, les notaires sont tenus de lui communiquer les extraits bancaires et toutes autres pièces relatives aux opérations susvisées.",
+      "text_sha256": "63834c943909c84d7a5b1aea2dc0e5c13aba6efc6f664d6f00fb8286b4d5c033",
+      "md_span": {
+        "start": 8551,
+        "end": 8784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_10/19770201",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires chargés de la recette des deniers sont tenus de faire les poursuites nécessaires; l’inexécution de cette obligation les soumet à la responsabilité du mandataire salarié.\n\nIls sont obligés de bonifier aux parties l’intérêt perçu par eux sur les sommes rentrées.\n\nIls peuvent porter en compte aux parties l’intérêt légal des sommes qu’ils leur ont avancées ou qu’ils ont déboursées pour elles.",
+      "text_sha256": "3108dd4d9ac7800c552e9bece42fd5973c3647d8c23b15474b926d7debce749c",
+      "md_span": {
+        "start": 8821,
+        "end": 9225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_11/19770201",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires doivent, sans avoir besoin d’en être requis, donner quittance de toutes les sommes qu’ils reçoivent.",
+      "text_sha256": "ef9b884529ba5150ecbd16f16422b8559cf954a01fd0b3524e387233d1d21e0f",
+      "md_span": {
+        "start": 9262,
+        "end": 9375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_12/19770201",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont tenus de rendre compte sans retard aux parties, lorsqu’elles l’exigent. Ils ne peuvent, au moyen d’une décharge générale, être affranchis de l’obligation de rendre compte.",
+      "text_sha256": "4811cd9e7a9c7a4d4d4b75b66d92e17f1a8586e57c412c8778ac21b568f6654e",
+      "md_span": {
+        "start": 9412,
+        "end": 9601
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12-1",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_12-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_12-1/20041123",
+      "type": "article",
+      "num": "Art. 12-1.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "2004-11-23",
+      "text_md": "Les notaires sont obligés de fournir une réponse et une coopération aussi complètes que possible à toute demande légale que les autorités chargées de l’application des lois leur adressent dans l’exercice de leurs compétences.\n\nLes notaires doivent informer de leur propre initiative et dans les meilleurs délais le Procureur d’Etat auprès du tribunal d’arrondissement de Luxembourg de tout fait dont ils ont connaissance qui pourrait être l’indice d’un acte de blanchiment tel que défini aux articles 506-1 du code pénal et 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.\n\nLes informations fournies aux autorités, autres que judiciaires, en application du premier alinéa peuvent être utilisées uniquement à des fins de lutte contre le blanchiment.",
+      "text_sha256": "1916228c6e7a118f6cebcc2e4bb9b87c9b87105edf8551499b7dbfabb550fc4d",
+      "md_span": {
+        "start": 9642,
+        "end": 10468
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1973/02/19/n1/jo",
+          "text": "loi modifiée du 19 février 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12-2",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_12-2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_12-2/20080727",
+      "type": "article",
+      "num": "Art. 12-2.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "2008-07-27",
+      "text_md": "Les notaires sont soumis aux obligations professionnelles suivantes telles que définies par la loi du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme:\n\n- cette loi\n- cette loi\n- cette loi",
+      "text_sha256": "75f1c2b4dc869afe51621b2697accb26c09b9b2cca00978f3400304956c0bdba",
+      "md_span": {
+        "start": 10509,
+        "end": 10746
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/11/12/n1/jo",
+          "text": "loi du 12 novembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12-3_20080727",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_12-3_20080727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_12-3/20041123",
+      "type": "article",
+      "num": "Art. 12-3.",
+      "heading": null,
+      "path": [
+        "Section I. — —** Des fonctions, ressort et devoirs des notaires**"
+      ],
+      "article_valid_from": "2004-11-23",
+      "text_md": "Les notaires et leurs employés ne peuvent encourir une responsabilité pénale ou civile du seul fait de s’être conformé aux obligations imposées par les art. 12-1, 12-2 et 29-1 de la présente loi.",
+      "text_sha256": "bcf7359c37f0e89816fc3f38310023928050a118246c67b11508848790a9b4d7",
+      "md_span": {
+        "start": 10796,
+        "end": 10991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_13/19770201",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le nombre et la résidence des notaires sont déterminés par règlement grand-ducal, sur avis de la chambre des notaires.",
+      "text_sha256": "7894f289b3c8593921344487df177fbef1ff4e197fd67ed8465665cb6e8d9ee4",
+      "md_span": {
+        "start": 11095,
+        "end": 11213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_14/19770201",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Si le nombre des notaires en fonction dépasse celui déterminé en vertu de l’article précédent, la réduction ne peut être opérée que par non-remplacement en cas de mort, de démission ou de destitution.",
+      "text_sha256": "4aa3fe925fb5afd6b6979c5176ce59928aaf4c7d9d97715c47a4fc56f7b665f2",
+      "md_span": {
+        "start": 11250,
+        "end": 11450
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_15/19770201",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Pour être admis aux fonctions de notaire, il faut:\n\n1. être Luxembourgeois et avoir la jouissance des droits civils et l’exercice des droits politiques;\n2. être âgé de vingt-cinq ans accomplis;\n3. avoir obtenu soit le diplôme de candidat-notaire conformément à la législation luxembourgeoise, soit le certificat de fin de stage exigé pour pouvoir accéder à la fonction de notaire.",
+      "text_sha256": "4021bbd9c6eddc5c694782a6eba9313e69dd03145089d0d5ac1a331c27e54b24",
+      "md_span": {
+        "start": 11487,
+        "end": 11867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_16/19770201",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont nommés par le Grand-Duc, sur avis du procureur général d’Etat et de la chambre des notaires.\n\nLa vacance d’un poste de notaire, survenue soit par décès, soit par démission, soit par destitution, doit être publiée au Mémorial.\n\nLa nomination doit intervenir dans les deux mois de la date de l’événement ayant causé la vacance du poste. Elle est publiée au Mémorial.",
+      "text_sha256": "0a98b5e13bd519421b004695062afdb57ebc8927be97081df8224750ac71ca88",
+      "md_span": {
+        "start": 11904,
+        "end": 12286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_17/19770201",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Une expédition de l’arrêté de nomination est adressée au notaire intéressé par le procureur général d’Etat.",
+      "text_sha256": "71aa2dc11fed8e782cdcf34eae56581870d5ffcc68e33ef17caf68c01ee7f2a1",
+      "md_span": {
+        "start": 12323,
+        "end": 12430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_18/19770201",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Dans le mois qui suit la remise qui lui a été faite de l’arrêté de nomination, le notaire doit prêter devant le tribunal de l’arrondissement dans lequel il est nommé, le serment suivant:\n\n« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonctions d’après les lois et règlements en vigueur, avec exactitude et probité. »\n\nS’il n’a pas prêté ce serment dans le délai fixé, la nomination est considérée comme non avenue, à moins que le procureur général d’Etat n’ait prorogé le délai pour motifs graves.\n\nLe serment n’est prêté que lors de la première nomination et n’est pas répété en cas de déplacement, même dans un autre arrondissement judiciaire.\n\nLe notaire nommé ne peut recevoir aucun acte de son ministère avant la prestation du serment, sous peine de nullité de l’acte.\n\nEn cas de déplacement, le notaire doit occuper son nouveau poste dans le mois qui suit la remise qui lui a été faite de l’arrêté de nomination et informer le procureur général d’Etat de la date de son entrée en fonction. A défaut d’occuper le poste dans ce délai, il est déchu de ses fonctions de notaire, à moins d’avoir obtenu une prorogation de délai conformément à l’alinéa 2 du présent article.",
+      "text_sha256": "738a043fc6b40e36197f798a91ef56eccbfe7cbc73eaecfc41d68b91b2973cdc",
+      "md_span": {
+        "start": 12467,
+        "end": 13706
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_19/19770201",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le procès-verbal de prestation de serment est transcrit, à la diligence du notaire, au greffe des tribunaux d’arrondissement et à celui de la cour supérieure de justice.",
+      "text_sha256": "2296eced4016f9e8d0fda109cd5280fe9f5c61f31e75d668567798cb276515ba",
+      "md_span": {
+        "start": 13743,
+        "end": 13912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_20/20030919",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Section II. — —** Du nombre et de la nomination des notaires**"
+      ],
+      "article_valid_from": "2003-09-19",
+      "text_md": "Les notaires sont obligés de déposer au greffe de la Cour supérieure de justice, des tribunaux d’arrondissement, des justices de paix, de la Cour administrative et du tribunal administratif leurs signature et paraphe avec l’empreinte de leur cachet; ils ne peuvent changer ni la signature ni le paraphe ni le cachet sans en avoir donné connaissance à ces mêmes autorités.",
+      "text_sha256": "98b31516dc222e34651c145e0ab1a6f5c6a3347e9954b71527c9c6b893c0ded4",
+      "md_span": {
+        "start": 13949,
+        "end": 14320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_21/19770201",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Il est défendu aux notaires de recevoir des actes dont les dispositions seraient contraires à une loi pénale.",
+      "text_sha256": "aca06b363aae6c78de8d40ff98fac616b9d0f9fbbc948d532589f94eee2df957",
+      "md_span": {
+        "start": 14448,
+        "end": 14557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_22/19770201",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Lorsque l’acte à recevoir contient des dispositions qui, sans être contraires à une loi pénale, sont néanmoins prohibées par d’autres lois et règlements, il est du devoir du notaire d’en instruire les parties. Pour le cas où celles-ci persévéreraient dans leur résolution, il doit faire mention dans l’acte, que dès lors il doit dresser, de l’avertissement qu’il leur a donné ainsi que de leur déclaration. Au cas contraire le notaire peut être rendu responsable du dommage envers les parties intéressées.",
+      "text_sha256": "184ade736902caa32d15e869c01f732f9d516b50cbb5bfab2d653ca34ca583e1",
+      "md_span": {
+        "start": 14594,
+        "end": 15099
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_23/19770201",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Lorsque le notaire constate que les parties ou l’une d’elles ne sont pas à même d’apprécier la portée ou les conséquences de l’acte à recevoir, il est obligé de les instruire et d’en faire mention.",
+      "text_sha256": "02be5000e469430da7b7dd19bde94743ec6d3326c04b6d54d2096160a1ca3ab0",
+      "md_span": {
+        "start": 15136,
+        "end": 15333
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_24/19770201",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "**(1)** Les notaires ne peuvent recevoir des actes dans lesquels soit eux-mêmes, soit leur conjoint, soit leurs parents ou alliés ou ceux de leur conjoint, en ligne directe à tous les dégrés, et en ligne collatérale jusqu’au degré d’oncle ou de neveu inclusivement, seraient parties ou qui contiendraient quelque disposition en leur faveur.\n\n**(2)** Sont exceptés de la règle précédente:\n\n1. les stipulations aux termes desquelles les notaires sont chargés de la recette des deniers;\n2. les ventes publiques, dans lesquelles les notaires peuvent instrumenter pour leurs parents et alliés en ligne collatérale et pour ceux de leur conjoint;\n3. les testaments, pour lesquels la prohibition s ́étend en ligne collatérale jusqu ́au quatrième degré inclusivement.\n\n**(3)** En particulier les notaires ne peuvent recevoir:\n\n1. les actes de constitution de sociétés ou d’associations dans lesquels eux-mêmes, leur conjoint, leurs parents ou alliés ou ceux de leur conjoint au degré prohibé seraient parties;\n2. des actes pour compte d’une société civile ou commerciale ou pour compte d’une association, représentée à l’acte par un administrateur, gérant, commandité, commissaire, liquidateur ou mandataire qui serait parent ou allié du notaire ou de son conjoint au degré prohibé;\n3. toutefois, par dérogation à la règle qui précède, les notaires peuvent recevoir des actes pour compte des sociétés anonymes, dans lesquelles leurs parents ou alliés, en ligne collatérale au degré d’oncle ou de neveu, ou les alliés de leur conjoint en ligne collatérale seraient administrateurs ou commissaires pourvu que ces parents ou alliés ne représentent pas lesdites sociétés dans les actes et qu’ils ne figurent pas dans les procurations annexées aux actes comme mandants de ces sociétés;\n4. des actes pour compte d’une société civile, d’une société en nom collectif, en commandite simple ou à responsabilité limitée, dans lesquelles eux-mêmes, leur conjoint, leurs parents ou alliés ou ceux de leur conjoint au degré prohibé seraient associés.\n\n**(4)** Toutefois, les notaires qui seraient, ou dont le conjoint ou les parents ou alliés au degré prohibé seraient associés, actionnaires ou obligataires d’une des sociétés ou associations nommées ci-après, peuvent:\n\n1. dresser les procès-verbaux d’assemblées générales d’actionnaires ou d’obligataires d’une société anonyme ou d’une société en commandite par actions, à moins qu’eux-mêmes, leur conjoint ou leurs parents ou alliés au degré prohibé ne soient membres du bureau, administrateurs, commandités, commissaires ou liquidateurs de la société ou qu’eux-mêmes ne figurent sur la liste de présence;\n2. dresser les procès-verbaux d’assemblées générales des associés ou des obligataires d’une société coopérative ou d’une association agricole ou sans but lucratif, à moins qu’eux-mêmes, leur conjoint ou leurs parents ou alliés au degré prohibé ne soient membres du bureau, administrateurs, gérants, commissaires ou liquidateurs de la société ou de l’association ou ne soient tenus solidairement ou indéfiniment.\n\nLes actes reçus au mépris des dispositions du présent article sont nuls comme actes authentiques. Toutefois, lorsqu’ils sont revêtus de la signature de toutes les parties, ils vaudront comme actes sous seing privé.",
+      "text_sha256": "29f72261b901c0f2fb9f101a91fab393e2e63a2013b338fdf7590af917dfabd1",
+      "md_span": {
+        "start": 15370,
+        "end": 18633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_25/19841130",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1984-11-30",
+      "text_md": "Le notaire doit être assisté de deux témoins:\n\n1. pour la réception des testaments publics, des actes portant révocation de ces testaments et des actes de suscription des testaments mystiques ou secrets.\n2. lorsque dans un acte, quel qu’il soit, l’une ou l’autre des parties ne peut ou ne sait signer, est aveugle ou sourde-muette.\n\nCes témoins doivent être majeurs, savoir signer, résider au Grand-Duché, connaître la langue dans laquelle l’acte est rédigé et celle dans laquelle le testament est dicté ou traduit par un traducteur assermenté, avoir la jouissance des droits civils et ne pas être en état d’interdiction judiciaire ou pourvus d’un conseil judiciaire pour cause de faiblesse d’esprit. Deux parents ou alliés jusqu’au deuxième degré inclusivement ainsi que le mari et la femme ne peuvent être témoins ensemble dans le même acte.\n\nLe tout à peine de nullité.\n\nL’assistance de témoins n’est pas requise lorsque ces actes sont reçus par deux notaires. La présence de plus de deux témoins à un acte n’est jamais requise.",
+      "text_sha256": "58ed6e9f64165384cb9c081a44188f819bb3c310a06b781813c67bf4f80d245a",
+      "md_span": {
+        "start": 18670,
+        "end": 19701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_26/19770201",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les parents ou alliés, soit du notaire, soit des parties contractantes au degré prohibé par l’article vingt-quatre, leurs conjoints, employés et gens de maison ne peuvent être témoins à peine de nullité de l’acte.",
+      "text_sha256": "3c51d94169a2828fd80cd7c12f17038b8930f83caf5d36c65e66e052ee8065df",
+      "md_span": {
+        "start": 19738,
+        "end": 19951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_27/19770201",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Deux notaires, conjoints ou parents ou alliés en ligne directe ou en ligne collatérale jusqu’au degré d’oncle ou de neveu inclusivement ne peuvent concourir à la réception du même acte, pour lequel le ministère de deux notaires est requis par la loi, à peine de nullité de l’acte.",
+      "text_sha256": "862870f4eb3ef83aec42a67d564b2f74f3b81a10a6312a997601ab968a73f8e3",
+      "md_span": {
+        "start": 19988,
+        "end": 20268
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_28/19770201",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "L’alliance cesse lorsque l’époux duquel elle procédait est décédé ou que son mariage a été annulé ou dissous par le divorce, à condition qu’il n’y ait pas d’enfants issus du mariage ni de descendants d’eux.",
+      "text_sha256": "460451b8ab585aaffe5ca0403b78f3254a4aadbb770f16f66df42ee07f7f114a",
+      "md_span": {
+        "start": 20305,
+        "end": 20511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_29/19770201",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Lorsque le notaire ne connaît pas personnellement les comparants, il doit certifier leur identité au vu d’un document d’identité dont il indique la nature, la date, et le lieu d’émission ainsi que le numéro.\n\nS’il y a impossibilité d’identification de l’une ou de l’autre des parties, le notaire peut dans le cas d’extrême urgence recevoir l’acte sans certification d’identité, en faisant mention des causes de cette impossibilité. En cas de contestation l’identité doit être prouvée en justice par les intéressés.",
+      "text_sha256": "a3a8f59c1fd47e076a654bdfaf67f90a81b779546efbd31d82caf445d205d2f6",
+      "md_span": {
+        "start": 20548,
+        "end": 21062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29-1_20080727",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_29-1_20080727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_29-1/20041123",
+      "type": "article",
+      "num": "Art. 29-1.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "2004-11-23",
+      "text_md": "Les notaires sont obligés de connaître l’identité du bénéficiaire réel de toute opération, en relation avec l’acte à la réception duquel ils procèdent et dont le montant atteint ou excède la valeur de 500.000 francs, qu’elle soit effectuée en une seule ou en plusieurs opérations entre lesquelles un lien semble exister. Dans le cas où le montant n’est pas connu au moment de l’opération, le notaire procédera à l’identification dès le moment où il en aura connaissance et qu’il constatera que le seuil est atteint. Les notaires sont tenus de procéder à l’identification du bénéficiaire réel même si le montant de l’opération est inférieur à 500.000 francs dès qu’il y a soupçon de blanchiment.\n\nEn cas de doute sur le point de savoir si la ou les personnes qui comparaissent à l’acte ou au nom desquels l’acte est signé agissent pour leur propre compte ou en cas de certitude qu’elles n’agissent pas pour leur propre compte, les notaires prennent des mesures raisonnables en vue d’obtenir des informations sur l’identité des bénéficiaires réels pour le compte desquels ces personnes agissent.\n\nLes notaires ne sont pas soumis aux obligations d’identification prévues au présent article dans le cas où les fonds en relation avec l’opération faisant l’objet de l’acte à recevoir se trouvent déposés auprès d’un établissement de crédit ou un autre professionnel du secteur financier soumis à une obligation d’identification équivalente.\n\nLes notaires sont obligés de conserver, à l’effet de servir d’élément de preuve dans toute enquête en matière de blanchiment, la copie ou les références des documents servant à l’identification pendant une période d’au moins 5 ans à partir de la date de la réception de l’acte, sans préjudice des délais de conservation plus longs prescrits par d’autres lois.",
+      "text_sha256": "c550df367dc98676ef89a89caaad9b652826cdbc0b40f6f6f5424abf37da8917",
+      "md_span": {
+        "start": 21112,
+        "end": 22907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_30/19770201",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Tous les actes notariés doivent énoncer le nom, le prénom usuel et le lieu où est établie l’étude du notaire qui les reçoit.\n\nIls doivent également énoncer les nom, prénom usuel, qualité et demeure des parties et, le cas échéant» des témoins instrumentaires, le lieu, l’année, le mois et le jour où les actes sont passés.\n\nLorsque plusieurs parties comparaissent dans un acte qui ne requiert pas la présence d’un second notaire ou de témoins et qu’elles ne peuvent toutes le signer en même temps, la comparution et la signature de chacune d’elles sont constatées avec indication du jour et du lieu. L’acte n’est parfait qu’à sa dernière date.",
+      "text_sha256": "d9c06ebafcaf1113a015db9050e42a9362de9babe2577b5d7c327dfbbe43d082",
+      "md_span": {
+        "start": 22944,
+        "end": 23586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_31/19841130",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1984-11-30",
+      "text_md": "Les actes des notaires ainsi que les grosses, expéditions, copies et extraits de ces actes sont, sous leur responsabilité, soit écrits à la main, dactylograhiés ou imprimés, soit reproduits au moyen d’un procédé agréé par le Ministre de la Justice. Ces documents sont écrits ou reproduits lisiblement, sans abréviation, lacune ni interligne.\n\nLorsque les expéditions autres que celles destinées à la transcription, pour être conservées aux bureaux des hypothèques, et les copies ou extraits d’actes sont dactylographiés, ces documents peuvent être établis par impression directe ou par interposition d’un papier à décalque.\n\nLes blancs sont bâtonnés et mention en est faite à la fin de l’acte ou de l’expédition avec indication de leur nombre.\n\nToutefois le nom du mandataire peut rester en blanc dans les actes contenant procuration.\n\nLes actes énoncent en toutes lettres la date de l’acte ainsi que les sommes, à l’exception de celles constituant des évaluations.\n\nDans toutes les dates, les mois sont exprimés en toutes lettres.\n\nDans les actes qui comprennent des opérations de compte, seuls les totaux et soldes sont à inscrire en toutes lettres.\n\nToutes les pièces annexées aux actes sont signées ou paraphées ne varietur par les comparants et le notaire. Ce dernier mentionne les annexes, soit dans le corps, soit au pied de l’acte.",
+      "text_sha256": "0f7d4ea002cb69df8799c01984bac350e6a64bc2e967f526cf236fc976336d5c",
+      "md_span": {
+        "start": 23623,
+        "end": 24962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_32/19770201",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Il est donné lecture de l’acte aux comparants, le cas échéant en présence des témoins.\n\nLorsque l’acte est reçu sans témoins, il peut être remis aux fins de lecture aux comparants. Dans tous les cas, l’acte doit être remis aux fins de lecture aux comparants qui le demandent.\n\nIl est fait mention de la lecture à la clôture de chaque acte.",
+      "text_sha256": "e06dfa5d8c121a3e0a27d12aff8805a4c015028b9e5292a80def775c189d6c3b",
+      "md_span": {
+        "start": 24999,
+        "end": 25338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_33/19770201",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les actes sont signés, à peine de nullité, par les parties ou leurs représentants, les témoins et les notaires. Il en est fait mention à la fin de l’acte.\n\nQuant aux comparants qui ne savent ou ne peuvent signer, le notaire doit faire mention, à la fin de l’acte, de leurs déclarations à cet égard.",
+      "text_sha256": "d89845f11d6027439ae7f2329d6b7bb50316255d35765e453d84b0ecaa063733",
+      "md_span": {
+        "start": 25375,
+        "end": 25673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_34/19770201",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Dans le corps de l’acte, il n’y a ni surcharge, ni interligne, ni addition, et les mots surchargés, interlignés ou ajoutés sont nuls.\n\nLes mots ou les lignes d’écriture qu’il devient nécessaire de rayer doivent rester lisibles; le nombre en est constaté en marge ou à la fin de l’acte et la mention relative à la rature est approuvée et signée par tous ceux qui signent l’acte.",
+      "text_sha256": "674bb86c8c5d11d1e40e73cb945b555274e95f3cdd9c8be91e9556e84fea6945",
+      "md_span": {
+        "start": 25710,
+        "end": 26087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_35/19770201",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les additions ou changements qu’il serait jugé nécessaire de faire aux actes sont indiqués par des renvois écrits en marge ou à la fin de l’acte, lesquels sont approuvés et signés de la manière indiquée à l’article précédent, à peine de nullité de ces additions ou changements.\n\nLes actes et les expéditions écrits sur plusieurs feuilles séparées doivent être paraphés par le notaire au recto de chaque feuillet.",
+      "text_sha256": "f895b27f403b16c70338252b6123f080dd3293a609807e7cbbff4ba9cfbdc71a",
+      "md_span": {
+        "start": 26124,
+        "end": 26536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_36/19910415",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Les notaires sont obligés de se servir pour la rédaction des actes de la langue française ou allemande, au choix des parties.\n\nToutefois, pour les actes reçus en vertu de la loi du 10 août 1915 concernant les sociétés commerciales telle qu’elle a été modifiée par la suite,de la loi du 25 mars 1991 sur les groupements d’intérêt économique, du règlement CEE N° 2137/85 du Conseil du 25 juillet 1985 relatif à l’institution d’un groupement européen d’intérêt économique (GEIE) et de la loi du 25 mars 1991 portant diverses mesures d’application dudit règlement CEE N° 2137/85, ils peuvent, si les comparants le demandent, et à condition de comprendre et de parler cette langue, rédiger l’acte en langue anglaise et faire suivre la version anglaise d’une version rédigée en langue française ou allemande. En cas de divergence entre la version française ou allemande, d’une part, et la version anglaise, d’autre part, la version française ou allemande fera seule foi, à moins que les parties ne stipulent que la version anglaise fera seule foi entre parties.\n\nIl est fait mention à l’acte, tant de la connaissance de l’anglais par le notaire que de la demande des comparants quant à l’utilisation de la langue anglaise.\n\nEn tous les cas, le texte français ou allemand peut être suivi d’une traduction en langue anglaise.",
+      "text_sha256": "3c5e2d56e48a9847322eb3307554ddf5c761d4b7d24f299c9b693b94fd1339e4",
+      "md_span": {
+        "start": 26573,
+        "end": 27890
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/03/25/n1/jo",
+          "text": "loi du 25 mars 1991"
+        },
+        {
+          "href": "/eli/reg_ue/1985/2137/jo",
+          "text": "règlement CEE N° 2137/85"
+        },
+        {
+          "href": "/eli/etat/leg/div/1991/03/25/n1/jo",
+          "text": "loi du 25 mars 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_37/19770201",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les actes notariés font foi d’après les dispositions du code civil; ils sont exécutoires lorsqu’ils sont revêtus de la formule exécutoire.",
+      "text_sha256": "31ae1f7eccbeacfd47d8dfb527be12dcd613d5efffecfd87fd8c45eec667f856",
+      "md_span": {
+        "start": 27927,
+        "end": 28065
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_38/19770201",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont tenus de garder minute de tous les actes qu’ils reçoivent.\n\nPeuvent néanmoins être reçus en brevet et être remis en original aux parties les actes de suscription des testaments mystiques, les mainlevées, certificats de vie, procurations, actes de notoriété, quittances de fermages, de loyers, de salaires, d’arrérages de pensions et de rentes et autres actes de moindre importance.\n\nUn acte en brevet peut être déposé au rang des minutes d’un notaire, qui peut en délivrer des expéditions.",
+      "text_sha256": "a0622c1aef0a53490f550c3d60aed21f2e976b37d82cd4b8c8701ab607c67a27",
+      "md_span": {
+        "start": 28102,
+        "end": 28609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_39/19950407",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1995-04-07",
+      "text_md": "Le droit de délivrer des grosses et des expéditions n’appartient qu’au notaire dépositaire de la minute, ou au notaire qui l’a reçue en son remplacement, sans préjudice des dispositions de l’alinéa trois du présent article et de celles des articles 52, 57 et 58.\n\nLorsque l’expédition ou l’extrait certifié conforme d’un acte notarié a été déposé chez un notaire, il peut en délivrer des expéditions, en y faisant la mention du dépôt.\n\nLorsqu’un notaire se trouve pour une raison quelconque empêché de délivrer une expédition ou une grosse d’un acte dont il est dépositaire, cette expédition ou grosse peut être délivrée par un autre notairedu même arrondissement judiciaire, soit en vertu d’un mandat, même verbal, donné par le notaire dépositaire de la minute, soit sur désignation d’office par le président de la chambre des notaires.\n\nEn cas de suspension, et jusqu’à la désignation d’un dépositaire provisoire, le président de la chambre des notaires désigne le notaire chargé de délivrer les expéditions et grosses des actes reçus par le notaire suspendu.\n\nLe notaire mandataire ou désigné par le président de la chambre des notaires mentionne sur l’expédition sa qualité, en spécifiant la nature de son pouvoir.",
+      "text_sha256": "716070a092a2182e0f0725157c2457a9c2228acb72a563e0ef9faf22e7e9b355",
+      "md_span": {
+        "start": 28646,
+        "end": 29864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_40/19770201",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires ne peuvent se dessaisir d’aucune minute, si ce n’est dans les cas prévus par la loi ou en vertu d’un jugement. Avant de s’en dessaisir, ils en dressent une copie par un des moyens de reproduction prévus à l’article 31.\n\nCette copie, portant mention de la raison de sa confection, est signée par le notaire et certifiée conforme par le président du tribunal d’arrondissement; elle est substituée à la minute, dont elle tient lieu jusqu’à sa réintégration.",
+      "text_sha256": "847ac8d35303950ab6e2a56f0a0e339487a1b3a2321e72f9501b8a12e31ce901",
+      "md_span": {
+        "start": 29901,
+        "end": 30368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_41/19770201",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires ne peuvent, sans une ordonnance du président du tribunal d’arrondissement, délivrer soit expédition, soit copie, ni donner connaissance des actes à d’autres qu’aux personnes intéressées en nom direct ou à leurs héritiers et ayants droit, sous réserve des dispositions légales en matière d’enregistrement, de celles relatives aux actes qui doivent être publiés et des cas où le juge en aurait ordonné différemment.",
+      "text_sha256": "43fbd3f1daa5d3420e3dda58933cef61e7c1422de0cc207f740d0a8594536403",
+      "md_span": {
+        "start": 30405,
+        "end": 30831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_42/19770201",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "En cas de compulsoire, il est procédé conformément aux dispositions du code de procédure civile.",
+      "text_sha256": "62f391eefd348d4b045ad58a3bf1a1a52126ce67f3abc3591fd1f07edc3df45d",
+      "md_span": {
+        "start": 30868,
+        "end": 30964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_43/19770201",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont obligés d’annoter sur les minutes la remise des grosses délivrées en forme exécutoire, le nom de celui qui les reçoit et la date de leur délivrance.\n\nIl ne peut être remis en forme exécutoire qu’une seule grosse à chacune des parties intéressées, sauf le cas prévu en la disposition de l’article 844 du code de procédure civile.\n\nLorsque plusieurs parties intéressées se contentent d’une seule grosse, le notaire doit en faire mention dans l’acte même ou au pied de l’acte et indiquer la partie qui est désignée pour la recevoir.",
+      "text_sha256": "39cde5681d7f8d6c236e12991e12cee0bc3776fa9391d5f3f1451d3654f4493d",
+      "md_span": {
+        "start": 31001,
+        "end": 31548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_44/19770201",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le notaire ne peut porter en compte que les grosses et expéditions qui lui ont été demandées.",
+      "text_sha256": "77077b9e26272468a9d9a8330e42d776026f2a6b6edc6030ff594fa2fdfe5509",
+      "md_span": {
+        "start": 31585,
+        "end": 31678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_45/19770201",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Chaque notaire est tenu d’avoir un cachet ou sceau particulier, portant en langue française ou allemande ses nom, prénom usuel, qualité et résidence ,et pour type, d’après un modèle uniforme, les armes couronnées du Grand-Duché de Luxembourg.\n\nLes grosses, expéditions et extraits d’actes ainsi que les actes en brevet portent l’empreinte dece cachet.",
+      "text_sha256": "55400166f51a6bf035e4d550180f3ccf5e081d58e4c07e014cde550af2c428d2",
+      "md_span": {
+        "start": 31715,
+        "end": 32066
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_46/19770201",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La signature des notaires n’a besoin d’être légalisée que lorsqu’il devient nécessaire de faire usage de l’acte hors du Grand-Duché et que cette légalisation est exigée.",
+      "text_sha256": "17abd716db062401443af1294c2ba8f2f4fd2dc78067cb65737d6c184be270c1",
+      "md_span": {
+        "start": 32103,
+        "end": 32272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_47/19770201",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les notaires sont obligés de tenir un registre ou répertoire coté et paraphé par le président du tribunal d’arrondissement ou par un juge par lui commis; ils y inscrivent par colonnes, par numéro d’ordre, et ainsi qu’ils se sont suivis, tous les actes qu’ils ont reçus, avec leur date, la nature et l’espèce de l’acte, les noms, états et demeures des parties, et la relation de l’enregistrement.\n\nLes actes et expéditions portent le numéro sous lequel l’acte est inscrit dans le répertoire.",
+      "text_sha256": "75b7b34617ee81a2fdc9c2a5881da9d23cfe485bfa326750ce485c69b7096da6",
+      "md_span": {
+        "start": 32309,
+        "end": 32799
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_48/19770201",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Section III. — —** Des actes, de leur forme; des grosses, expéditions et répertoires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Il n’y a dans le registre dont il est parlé à l’article précédent ni surcharge, ni interligne.",
+      "text_sha256": "a5359e08d8dfb4816cbc63c01436b0e709b8126aaee918d6dc600fb740f8d3b1",
+      "md_span": {
+        "start": 32836,
+        "end": 32930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_49/19770201",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le Grand-Duc peut nommer un suppléant à un notaire, s’il est à présumer que ce dernier se trouve dans l’impossibilité de remplir ses fonctions pendant deux mois au moins par suite de maladie grave ou de force majeure.\n\nLa nomination est faite à la demande et sur proposition du notaire intéressé, de son conjoint ou de ses proches parents, sur avis de la chambre des notaires.\n\nLe Grand-Duc peut, d’office ou à la demande du président de la chambre des notaires, nommer un notaire suppléant pour remplir les fonctions du notaire suspendu, pendant la durée de la suspension.",
+      "text_sha256": "2b32dbe76f167f718387a483863ed7401ad30ee6aa7877f69c5c8d757fa918f1",
+      "md_span": {
+        "start": 33040,
+        "end": 33613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_50/19770201",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le notaire-suppléant est désigné parmi les notaires honoraires ou les candidats-notaires pour une durée ne pouvant dépasser un an; cette désignation ne peut être renouvelée que sur nouvel avis de la chambre des notaires, sans que la durée de la suppléance puisse dépasser deux ans.",
+      "text_sha256": "56ab489325769a171029740e6aeb74b97dcadd8f75b323c2f5773367bbe5c3a8",
+      "md_span": {
+        "start": 33650,
+        "end": 33931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_51/19770201",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Avant d’entrer en fonctions, le notaire-suppléant prête le serment prescrit par l’article 18 devant le tribunal de l’arrondissement dans lequel il exerce son ministère.",
+      "text_sha256": "6d172196d9ac71869a2d3ad864684a1b82e97df2fdc93a784d0537d12a13c943",
+      "md_span": {
+        "start": 33968,
+        "end": 34136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_52/19770201",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le suppléant désigné en application de l’article 49 porte le titre de notaire-suppléant pendant la durée de cette suppléance.\n\nDurant cette période il a les mêmes attributions que le notaire qu’il supplée et il est soumis aux mêmes obligations, aux mêmes incompatibilités et à la même discipline, mais sans avoir voix délibérative aux assemblées générales et sans être éligible à la chambre des notaires. Les dispositions des articles 24. 26 et 27 doivent être observées tant dans le chef du notaire suppléé que dans celui du notaire-suppléants\n\nDans tous les actes qu’il reçoit, le notaire-suppléant mentionne sa qualité de suppléant ainsi que le, nom, prénom usuel et résidence du notaire suppléé. Il emploie le sceau de ce dernier.\n\nLe notaire suppléé reste solidairement responsable envers les tiers de la gestion de son suppléant désigné en vertu de l’alinéa premier de l’article 49.",
+      "text_sha256": "e57405fa1ff6d1c850f428ce68f300ea0a1f33c05a1d955a991e1d2d99b1db06",
+      "md_span": {
+        "start": 34173,
+        "end": 35061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_53/19770201",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Il est interdit au notaire suppléé d’exercer ses fonctions pendant la durée de la suppléance.\n\nLe suppléant qui accomplit un acte du ministère du notaire après l’expiration du terme fixé est passible des peines prévues à l’article 262 du code pénal.\n\nLes actes passés au mépris de ces interdictions sont nuls en tant qu’actes authentiques. Toutefois, lorsqu’ils sont revêtus de la signature de toutes les parties, ils vaudront comme actes sous seing privé.",
+      "text_sha256": "6acf3634bcbe327ccda277a3106171bef4e8f77ac747f1a40d5cbaf1d40f3da6",
+      "md_span": {
+        "start": 35098,
+        "end": 35554
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_54/19770201",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le Grand-Duc peut à tout moment mettre fin à la suppléance, soit à la demande de la chambre des notaires, soit à la demande du notaire suppléé ou du suppléant.\n\nDans ce dernier cas, la chambre des notaires doit être entendue en son avis.",
+      "text_sha256": "502e7e3d9ff34a548f092001ebafa2494fa6773bfa8f702f8563c7985caec4c1",
+      "md_span": {
+        "start": 35591,
+        "end": 35828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_55/19770201",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les arrêtés portant nomination de notaire-suppléants ainsi que les arrêtés mettant fin à la suppléance sont publiés au Mémorial.",
+      "text_sha256": "dfb80a4054702c15aabed9a77a5987bd274f6b6019ac6ce129446f9d60386ed4",
+      "md_span": {
+        "start": 35865,
+        "end": 35993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_56/19770201",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les mandats de justice dont le notaire suppléé était investi sont exécutés de plein droit par le notaire-suppléant, sans nouvelle désignation, et inversement.\n\nLe président du tribunal peut cependant, à la requête de la partie la plus diligente, l’autre partie dûment appelée, désigner un autre notaire pour continuer l’exécution d’un mandat de justice.",
+      "text_sha256": "e5100890f525752c9a16d202a660d3c713159129f5bf04633f78982ca509240b",
+      "md_span": {
+        "start": 36030,
+        "end": 36383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_57/19770201",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Au cas où un notaire se trouve pour une raison quelconque dans l’impossibilité d’exercer ses fonctions, et qu’il est à prévoir que cette impossibilité ne prendra pas fin dans un délai rapproché, sans qu’un notaire suppléant ait été désigné, le tribunal d’arrondissement peut désigner, à la requête du procureur d’Etat, un notaire choisi de préférence parmi les notaires résidant dans le même canton judiciaire pour la conservation des minutes du notaire empêché.\n\nLe notaire ainsi désigné comme dépositaire provisoire des minutes peut en délivrer toutes expéditions sur lesquelles il est tenu de faire connaître sa qualité de dépositaire provisoire.\n\nLes minutes sont restituées à leur ancien dépositaire dès que celui-ci reprendra ses fonctions.\n\nSi tel n’est pas le cas à l’expiration des six mois qui suivent la désignation du dépositaire provisoire, il est procédé à la désignation d’un notaire-suppléant à la requête du procureur d’Etat.",
+      "text_sha256": "7e0bd9a2077b8ee47feca9311a73aadbeb6d5397c68221c85ad407ec141d5b67",
+      "md_span": {
+        "start": 36420,
+        "end": 37362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_58/19950407",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Section IV. — —** De la suppléance et du remplacement des notaires**"
+      ],
+      "article_valid_from": "1995-04-07",
+      "text_md": "Tout notaire peut remplacer un notaire, momentanément empêché, pour la réception d’un acte de son ministère. Cet acte contient la mention que la minute reste au notaire substitué, lequel demeure responsable de sa conservation. L’acte est porté à la fois sur le répertoire du notaire substituant et sur celui du notaire substitué et est enregistré au bureau de l’enregistrement compétent pour ce dernier.\n\nSi un notaire commis par décision de justice en vue de certains devoirs est empêché de les remplir en tout ou en partie, le président du tribunal pourvoit à son remplacement par une ordonnance rendue sur la requête présentée par la partie la plus diligente, l’autre partie dûment appelée. Cette ordonnance n’est susceptible ni d’opposition, ni d’appel, et peut être, en cas d’urgence, déclarée exécutoire sur minute et avant l’enregistrement.",
+      "text_sha256": "74ce6e69b556d199f36c4662f0d316624494948ab5322d9b793836b234cbf267",
+      "md_span": {
+        "start": 37399,
+        "end": 38246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_59/19770201",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Section V. — —** Du tarif**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le tarif des honoraires et émoluments des notaires est fixé par règlement grand-ducal.",
+      "text_sha256": "7631563fd68b0d2ddb90d8e3642c0b3d68c62ff01b9eee10f26792d8d029e2db",
+      "md_span": {
+        "start": 38315,
+        "end": 38401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_60/19770201",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Après le décès d’un notaire, les minutes et répertoires sont mis sous scellés par le juge de paix, qui en donne avis au procureur d’Etat.",
+      "text_sha256": "1ca6bf5f5badd97895abd9e6de75d897c7cb8d88fdb5cc09123674cd4d4b673d",
+      "md_span": {
+        "start": 38537,
+        "end": 38674
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_61/19770201",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le juge de paix agit de la même manière en cas de destitution d’un notaire, aussitôt qu’il en a été prévenu par le président de la chambre des notaires. Il donne avis de l’apposition des scellés au procureur d’Etat.",
+      "text_sha256": "6d6a67eff051ed20582147070d91db2552f8370dd7188e578b9d0a0330600720",
+      "md_span": {
+        "start": 38711,
+        "end": 38926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_62/19770201",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Dans les deux cas le tribunal d’arrondissement désigne, à la requête du procureur d’Etat, un notaire résidant dans la même commune, qui est gardien des minutes et répertoires et qui peut en délivrer toutes expéditions, sur lesquelles il est tenu de faire connaître sa qualité de dépositaire provisoire.\n\nDans les communes où n’est établi qu’un seul notaire, il est désigné un dépositaire provisoire établi dans le même canton, ou, à défaut, dans un canton limitrophe du même arrondissement judiciaire.",
+      "text_sha256": "9f8c51f1d10f64c221925bb9c1e91360620d770bfae0c73fc3db35bd5d998f32",
+      "md_span": {
+        "start": 38963,
+        "end": 39464
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_63/19770201",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "En cas de démission ou de déplacement d’un notaire dans un autre canton, il est désigné un notaire dépositaire des minutes suivant la procédure prévue à l’article précédent.\n\nLe notaire déplacé dans le même canton est de plein droit dépositaire provisoire de ses anciennes minutes.",
+      "text_sha256": "7e32e889499f28931abe1437698c661576ecd143922a8a93b569782a14e73407",
+      "md_span": {
+        "start": 39501,
+        "end": 39782
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_64/19910604",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "1. En cas de décès, déplacement, démission, atteinte de la limite d’âge ou destitution d’un notaire, les minutes et les répertoires prescrits par l’article 47 sont transmis au notaire nommé en son remplacement dans la quinzaine de son entrée en fonction.\n2. L’astreinte est prononcée au profit de l’Etat et perçue par l’Administration de l’Enregistrement et des Domaines.\n3. En outre, le notaire déplacé qui ne se conforme pas à la disposition de l’alinéa 1), est passible de la peine de suspension dont la durée ne peut être inférieure à un mois.\n4. La transmission des minutes et répertoires prescrits par l’article 47 ne donne pas lieu à indemnité.",
+      "text_sha256": "5ba146a5498160f39b0e23f78ec40e73740f7d7ab5f0184e8ff6a741460b114a",
+      "md_span": {
+        "start": 39819,
+        "end": 40470
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_65/19910604",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "En cas de suppression d’un poste de notaire, le dépositaire définitif est désigné suivant la procédure prévue à l’article 62 et doit satisfaire aux prescriptions de l’article 66.",
+      "text_sha256": "960cc3395adce5ec2bb35f2dafd7b332c3c84deed12c9b12ce0ff34e6fa128f9",
+      "md_span": {
+        "start": 40507,
+        "end": 40685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_66/19770201",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Dans tous les cas il doit être dressé un état sommaire des minutes et répertoires faisant l’objet de dépôt provisoire ou définitif, et le notaire dépositaire doit s’en charger au pied de cet état et en rédiger deux copies, dont l’une est adressée à la chambre des notaires et l’autre au procureur d’Etat, qui la dépose au greffe du tribunal d’arrondissement.",
+      "text_sha256": "43ebc2024a301dec041524ac73a5290d13c9a9f1c63262c74a054c4227fc7dc9",
+      "md_span": {
+        "start": 40722,
+        "end": 41080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_67/19910604",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "Dans les deux mois de sa nomination ou de son déplacement, le notaire dépositaire définitif doit obligatoirement recevoir de son prédécesseur ou des ayants-droit de celui-ci les répertoires alphabétiques, les fichiers et les baux de l’étude reprise ainsi que les testaments olographes déposés en cette étude, à l’exception de ceux pour lesquels les déposants ont stipulé par écrit qu’ils devaient rester à la garde du prédécesseur et à condition que celui-ci soit encore en fonctions. Le successeur aura également le droit de reprendre le ou les numéros de téléphones attachés exclusivement à l’étude reprise.\n\nDans le même délai de deux mois, le notaire et son prédécesseur ou les ayants-droit de celui-ci soumettent à la Chambre des Notaires, aux fins d’approbation, une convention portant sur l’indemnisation\n\n1. des éléments décrits à l’alinéa précédent comme faisant l’objet d’une reprise obligatoire;\n2. de tous autres éléments de l’étude, tels que dossiers, registres de comptabilité, mobilier, pouvant faire éventuellement l’objet d’une reprise;\n3. des débours et travaux faits en vue d’actes et d’affaires en cours et sur toutes autres prétentions.\n\nContre la décision de la chambre des notaires un recours est ouvert devant le tribunal d’arrondissement siégeant en dernière instance en chambre du conseil. Le recours doit être intenté dans le mois de la notification de la décision de la chambre des notaires. Il est formé par lettre chargée avec avis de réception. Les parties sont convoquées par la voie du greffe. La décision du tribunal est notifiée par lettre recommandée à la poste.",
+      "text_sha256": "d440c0f88a4b28045ea69d1784f71668a05bacada581bde75e7e94e84b0ff2f3",
+      "md_span": {
+        "start": 41117,
+        "end": 42715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_68/19770201",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La nomination d’un notaire comme dépositaire provisoire ou définitif des minutes d’un autre notaire est publiée au Mémorial.",
+      "text_sha256": "a9d63e4677ee062186477b764803f81ae073561e79a9c1e44b6033f86e8af4c0",
+      "md_span": {
+        "start": 42752,
+        "end": 42876
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_69/19770201",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "Section VI. — —** De la transmission des minutes à un autre notaire et de la reprise d’étude**"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les minutes ayant plus de soixante ans de date doivent être déposées par leur détenteur aux archives du Gouvernement.\n\nLe dépôt se fait au courant du premier trimestre de la première année de chaque période décennale.\n\nLa première période décennale commence le premier janvier 1980.\n\nLes expéditions des minutes déposées aux archives du Gouvernement sont délivrées par le notaire dernier en rang résidant dans la ville de Luxembourg.",
+      "text_sha256": "3a8bcdd191e4f390d41a866e4cd9af8de9753e545b4c5c91a5386d1d7b5b2afe",
+      "md_span": {
+        "start": 42913,
+        "end": 43346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_70/19770201",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "I. — *Attributions de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Une chambre des notaires s’est établie pour tout le pays. Elle a la personnalité civile.",
+      "text_sha256": "fdc99272ad987e50903e7a785915101395a7bce3877d036118f5ec168eef03ea",
+      "md_span": {
+        "start": 43474,
+        "end": 43562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_71/20080727",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "I. — *Attributions de la chambre*"
+      ],
+      "article_valid_from": "2008-07-27",
+      "text_md": "Outre les pouvoirs conférés à la chambre des notaires par les lois et règlements, elle a notamment les attributions suivantes:\n\n1. maintenir la discipline entre les notaires et exercer le pouvoir disciplinaire par son conseil de discipline;\n2. veiller au respect par les notaires de leurs obligations découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme.\n3. prévenir ou concilier tous différends entre notaires, et, en cas de non-conciliation, émettre son opinion par simple avis;\n4. concilier tous différends entre des notaires et des tiers;\n5. donner son avis sur les difficultés concernant les honoraires, émoluments, salaires, vacations, frais et débours portés en compte par les notaires ainsi que sur tous différends soumis à cet égard au tribunal civil;\n6. recevoir en dépôt les états des minutes;\n7. contrôler la comptabilité des notaires;\n8. représenter les notaires du Grand-Duché pour la défense des droits et intérêts de la profession.",
+      "text_sha256": "95730c1ebb18f870fc8004fc8bfa27a398bb7b0808fd74ca558d9458742790f0",
+      "md_span": {
+        "start": 43599,
+        "end": 44602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_72/19770201",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "I. — *Attributions de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les membres de la chambre des notaires et du conseil de discipline sont tenus au secret des délibérations et ne peuvent divulguer les faits dont ils ont eu connaissance dans l’exercice de leurs fonctions, sous peine de sanctions disciplinaires.",
+      "text_sha256": "db5f2aef0604e59303a33ff2d665d1308ce5dcf4054e7b0952aef8db72c4b81c",
+      "md_span": {
+        "start": 44639,
+        "end": 44883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_73",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_73/19770201",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La chambre des notaires est composée de sept membres élus parmi les notaires du pays par l’assemblée générale des notaires.\n\nL’élection a lieu au scrutin secret, à la majorité absolue des voix. A égalité de voix, le notaire le plus ancien en rang est élu.",
+      "text_sha256": "fec05ac265195a749c3ec065faf26bc24b8dbf699eaeb6a1cb67e45cf7d80709",
+      "md_span": {
+        "start": 44960,
+        "end": 45215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_74/19950407",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1995-04-07",
+      "text_md": "L’élection des membres de la Chambre des Notaires a lieu lors de l’assemblée générale ordinaire annuelle.\n\nIls entrent en fonction le 15 du mois de mai.",
+      "text_sha256": "d4910a3046274a639e6c18a694d0902933d6aaf2d123f4b1d7296117c311966b",
+      "md_span": {
+        "start": 45252,
+        "end": 45404
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_75/19950407",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1995-04-07",
+      "text_md": "Les membres de la chambre des notaires sont renouvelés partiellement chaque année, de manière qu’il en sorte deux membres après chacune des deux premières années et trois après la troisième année.\n\nEn cas de vacance de poste par décès, démission, atteinte de la limite d’âge, déchéance de ses fonctions, destitution, ou toute autre cause, un nouveau membre est élu par une assemblée extraordinaire pour finir le mandat du notaire dont le poste est devenu vacant.",
+      "text_sha256": "67bd4be1c0dcb6c7c5f6aa59d56f3cad3e294ef075e132124eddf954ddf6f5be",
+      "md_span": {
+        "start": 45441,
+        "end": 45903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_76/19770201",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les membres de la chambre élisent chaque année parmi eux, à leur première réunion, en observant le mode d’élection prévu par l’article 73, un président, un secrétaire et un trésorier.",
+      "text_sha256": "5c50197d71078afe3b40a12d2cdea9c98f2e113cec6021776970deb472a2d8a3",
+      "md_span": {
+        "start": 45940,
+        "end": 46123
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_77/19770201",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le président représente la chambre des notaires judiciairement et extrajudiciarement. Il a voix prépondérante en cas de partage d’opinion. Il convoque la chambre quand il le juge à propos ou sur la réquisition motivée de deux autres membres.\n\nPlus particulièrement il a pour mission de veiller à la stricte observation des lois et règlements concernant le notariat, ainsi que des principes de délicatesse et de dignité professionnelle et d’honneur et de probité.\n\nLe secrétaire rédige les délibérations de la chambre; il est gardien des archives et délivre toutes les expéditions.\n\nLe trésorier fait les recettes et dépenses autorisées par la chambre; il rend compte à la fin de chaque année à la chambre, qui les arrête et les soumet à l’assemblée générale aux fins d’approbation et de décharge.",
+      "text_sha256": "7a6ca0efbb3056218ca55daa35f05eddecec3576824eb1855ed223e253ce3f5c",
+      "md_span": {
+        "start": 46160,
+        "end": 46956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_78/19770201",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les réunions de la chambre se tiennent à son siège à Luxembourg.",
+      "text_sha256": "c945cf177b1ff3df8c839223e6ea31e91db4c1df6e90b1547f4a3b9a8091587c",
+      "md_span": {
+        "start": 46993,
+        "end": 47057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_79/19770201",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La chambre ne peut délibérer valablement qu’autant que les membres présents et votants sont au moins au nombre de cinq.",
+      "text_sha256": "c6199eb2e9e35003652856a6f3b127ac10a502c1591236aa37d243feceb67648",
+      "md_span": {
+        "start": 47094,
+        "end": 47213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_80",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_80/19770201",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les délibérations de la chambre sont motivées et signées sur la minute par le président et le secrétaire. Chaque délibération contient les noms des membres présents. La décision est communiquée aux intéressés s’il y a lieu.\n\nLes délibérations et les pièces qui s’y rapportent sont exemptes de tous droits de timbre et d’enregistrement.",
+      "text_sha256": "c92eb0cf32049a399fa86325f45bcea3b3782e776890bdec4624b0230d6c6d24",
+      "md_span": {
+        "start": 47250,
+        "end": 47585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_81/19770201",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "II. — *Organisation de la chambre*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Dans les cas où la chambre est appelée à émettre son avis ou à remplir sa mission de conciliation, soit sur des différends entre notaires, soit sur des difficultés que des tiers voudraient lui soumettre sur leurs rapports avec les notaires, les intéressés peuvent être invités à se présenter aux séances de la chambre pour y être entendus.",
+      "text_sha256": "ff093512b0fe5d1e6b11f26df3154bd5ead915b85aae8c38f69199d6b5d93f1d",
+      "md_span": {
+        "start": 47622,
+        "end": 47961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_82/19770201",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "Section VII. — —** De la chambre des notaires**",
+        "III. — *Moyens financiers de la chambre *"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les dépenses nécessaires de la chambre des notaires sont couvertes au moyen d’une cotisation à charge des notaires. Elle est fixée annuellement par l’assemblée générale sur proposition de la chambre.\n\nA défaut du paiement, le trésorier de la chambre des notaires peut requérir l’exécutoire de la cotisation par le président du tribunal d’arrondissement du ressort du notaire défaillant.",
+      "text_sha256": "56324f5abd9812da34c8b90aba340bf2fb8d6c5195caa6ab1b909af715f267c2",
+      "md_span": {
+        "start": 48045,
+        "end": 48431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_83/19910604",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "Section VIII. — —** Des assemblées générales**"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "Chaque année il y a de droit une assemblée générale ordinaire à laquelle tous les notaires du pays sont appelés. Elle se tient durant la première quinzaine du mois de mai.\n\nDes assemblées extraordinaires peuvent avoir lieu chaque fois que la chambre le juge nécessaire ou à la requête écrite et motivée de dix notaires au moins.\n\nLes assemblées générales sont convoquées par le président de la chambre des notaires.\n\nIl ne peut être pris de délibération en assemblée générale que si le nombre des notaires présents est au moins du tiers des notaires en fonctions y non compris les membres de la chambre. Si une première assemblée n’atteint pas le quorum requis, une seconde assemblée, convoquée endéans le mois avec le même ordre du jour, délibère valablement, quel que soit le nombre des notaires présents.",
+      "text_sha256": "a667d300eb28552f38737528d76b178a79fa424583b44efa981d99212a973d15",
+      "md_span": {
+        "start": 48519,
+        "end": 49326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_84/19770201",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "I. — *Conseil de discipline *"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Il est institué un conseil de discipline comprenant le président du tribunal d’arrondissement de Luxembourg ou le juge qui le remplace, comme président, et quatre membres de la chambre des notaires désignés d’après leur rang d’ancienneté dans la profession.\n\nLes membres effectifs du conseil de discipline sont suppléés par les autres membres de la chambre des notaires selon leur rang d’ancienneté.\n\nEn cas d’empêchement de membres effectifs et suppléants, le président du conseil de discipline désigne, pour compléter le conseil, des notaires en dehors des membres de la chambre.",
+      "text_sha256": "0d2041489d999698de936cb0e14b30cace2b89ce45468af0ec30ea0922a98f4a",
+      "md_span": {
+        "start": 49483,
+        "end": 50064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_85/19770201",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "I. — *Conseil de discipline *"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Ne peuvent siéger au conseil de discipline, ni le président de la chambre des notaires, ni ceux qui sont parents ou alliés du poursuivi ou de son conjoint jusqu’au degré de cousin issu de germain inclusivement.\n\nLes membres du conseil qui veulent s’abstenir pour d’autres motifs sont tenus de le déclarer par écrit au président du conseil de discipline dans les trois jours qui suivent leur convocation. Le conseil décide s’il y a lieu ou non à abstention.",
+      "text_sha256": "4e4fa8fe8cbad4db5b61e079eb19303ca388d876d1bd8d242c9c818addc9dd5d",
+      "md_span": {
+        "start": 50101,
+        "end": 50557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_86/19910604",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "II. — *Attributions*"
+      ],
+      "article_valid_from": "1991-06-04",
+      "text_md": "Le conseil de discipline exerce le pouvoir de discipline sur tous les notaires pour:\n\n1. violation des prescriptions légales et réglementaires concernant l’exercice de la profession;\n2. fautes et négligences professionnelles;\n3. faits contraires à la délicatesse et à la dignité professionnelle ainsi qu’à l’honneur et à la probité; le tout sans préjudice de l’action judiciaire pouvant naître des mêmes faits.\n\nL’action disciplinaire se prescrit par cinq ans, à compter du jour où les contraventions, tant à la présente loi, qu’aux autres lois, arrêtés et règlements en la matière, ont été commises.",
+      "text_sha256": "db83f868e37a3826c34a5b387522494d4dfefb5abf10936da742ca673948f866",
+      "md_span": {
+        "start": 50620,
+        "end": 51220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_87/19770201",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "II. — *Attributions*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les peines disciplinaires sont dans l’ordre de leur gravité:\n\n1. l’avertissement;\n2. la réprimande;\n3. la privation de voix délibérative dans l’assemblée générale avec interdiction de faire partie de la chambre des notaires pendant six ans au maximum;\n4. l’amende de cinq cents à cinq-mille euros;\n5. la suspension de l’exercice de la profession pour un terme qui ne peut être inférieur à quinze jours ni excéder un an;\n6. la destitution.\n\nAu cas où une sanction est prononcée, les frais provoquées par la poursuite disciplinaire sont mis à charge du condamné; dans le cas contraire ils restent à charge de la chambre des notaires; peuvent, néanmoins, dans ce cas, les frais être laissés, suivant les circonstances, en tout ou en partie au notaire poursuivi.\n\nLes frais et, le cas échéant, l’amende sont rendus exécutoires par le président du tribunal d’arrondissement du ressort du notaire condamné. L’amende est recouvrée par l’administration de l’enregistrement au profit de l’Etat.",
+      "text_sha256": "748f37a9a2015552694ffa4c72d5067f10bc09f60bb8f1f86a84324aabb1778c",
+      "md_span": {
+        "start": 51257,
+        "end": 52242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_88/19770201",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le président de la chambre des notaires instruit les affaires dont il est saisi soit par le procureur d’Etat, soit sur plainte ou dont il se saisit d’office. Il les défère au conseil de discipline, s’il estime qu’il y a infraction à la discipline.\n\nIl est tenu de déférer au conseil de discipline les affaires dont il est saisi à la requête du procureur d’Etat.\n\nIl peut déléguer ses pouvoirs d’instruction et de saisine à un autre membre de la chambre dans les cas où il serait en droit de s’abstenir. La chambre des notaires apprécie les motifs.",
+      "text_sha256": "58d95c51353a6e3ce432771fab487b352361678c463483cbd3ad8f3c0ec27103",
+      "md_span": {
+        "start": 52303,
+        "end": 52850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_89",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_89/19770201",
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Avant de saisir le conseil de discipline, le président de la chambre des notaires dresse un procès-verbal des faits qui ont motivé l’instruction. A cet effet, il peut s’adresser au procureur général d’Etat pour voir charger les agents de la police judiciaire de procéder à une enquête.",
+      "text_sha256": "d7f7325502a26eb61ad56d8e8405a2ae58685c1317e0ac9aa92fcbef2116cada",
+      "md_span": {
+        "start": 52887,
+        "end": 53172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_90",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_90/19770201",
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le notaire inculpé est cité devant le conseil de discipline à la diligence du président de la chambre des notaires au moins quinze jours avant la séance. La citation contient les griefs formulés contre lui. L’inculpé peut prendre inspection du dossier sans déplacement, au secrétariat de la chambre des notaires. Il peut, à ses frais, s’en faire délivrer des copies.\n\nL’inculpé paraît en personne. Il peut se faire assister par un avocat. Si l’inculpé ne comparaît pas, il est statué par décision par défaut non susceptible d’opposition.",
+      "text_sha256": "861bf8a6865bc33115a2e12637dda2e49928111d6c01f51cfe6dd8a63189b82f",
+      "md_span": {
+        "start": 53209,
+        "end": 53746
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_91",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_91/19770201",
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "A l’ouverture de la séance du conseil de discipline le président de la chambre des notaires expose l’affaire et donne lecture des pièces. Le conseil entend ensuite successivement la partie plaignante, s’il y en a, les témoins, qui se retirent après avoir déposé, le notaire inculpé et le président de la chambre des notaires en ses conclusions.\n\nLe notaire inculpé a la parole le dernier.\n\nLe procès-verbal de la séance est dressé par un membre du conseil désigné à cet effet par le président du conseil de discipline.",
+      "text_sha256": "f9b6143b101b905335b8e2e58ea4851865756c973f6f971cba6685f5e062ec57",
+      "md_span": {
+        "start": 53783,
+        "end": 54301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_92",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_92/19770201",
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Le conseil de discipline peut ordonner des enquêtes et des expertises. Les enquêtes sont faites soit par le conseil, soit par deux de ses membres délégués, soit par les agents de la police judiciaire.\n\nLes témoins et experts comparaissant devant le conseil ou ses délégués sont entendus sous la foi du serment. Les témoins cités qui refuseraient de comparaître ou de déposer sont passibles des peines comminées par l’article 80 du code d’instruction criminelle. Ces peines sont prononcées par le tribunal correctionnel, sur réquisition du ministère public. Le tribunal correctionnel peut en outre ordonner que le témoin défaillant sera contraint par corps à venir donner son témoignage. Le faux témoignage et la subornation de témoins et d’experts sont punis des peines prévues aux articles 220, 223 et 224 du code pénal.\n\nLes dispositions du livre premier du code pénal ainsi que la loi du 18 juin 1879 sur l’application des circonstances atténuantes, modifiée par la loi du 16 mai 1904, sont applicables aux infractions prévues à l’alinéa qui précède.",
+      "text_sha256": "fd80940107c6805b31bac8b6836b531ecfca5bce2415582d19ae2d4c3acda395",
+      "md_span": {
+        "start": 54338,
+        "end": 55391
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "code d’instruction criminelle"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1879/06/18/n2/jo",
+          "text": "loi du 18 juin 1879"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1904/05/16/n3/jo",
+          "text": "loi du 16 mai 1904"
+        }
+      ]
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_93",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_93/19770201",
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les séances et les délibérations du conseil de discipline sont secrètes; les décisions sont prises à la majorité absolue des voix; elles sont signées par tous les membres du conseil.",
+      "text_sha256": "66affc49005f091f68466e6f0ccf19eea97f7f23283581814d9475896da63bdb",
+      "md_span": {
+        "start": 55428,
+        "end": 55610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_94",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_94/19770201",
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les lettres et citations à l’inculpé, aux témoins et aux experts sont signées par le président de la chambre des notaires. Les expéditions des décisions du conseil de discipline sont signées par le président du conseil de discipline.",
+      "text_sha256": "f3f656ca5f96d698642d92a3bd00ea363edaca395d17347f25bc7655bb964a01",
+      "md_span": {
+        "start": 55647,
+        "end": 55880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_95",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_95/19770201",
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Sans préjudice des dispositions de l’article 87, N° 4 de la présente loi, les décisions du conseil de discipline sont notifiées au notaire poursuivi et exécutées à la diligence du président de la chambre des notaires. Une expédition en est transmise au procureur général d’Etat.\n\nLes minutes des décisions sont déposées et conservées à la chambre des notaires. Une copie ne peut en être délivrée que sur autorisation du procureur général d’Etat.",
+      "text_sha256": "1492ebc245a77c964356dbaf857be25053a992273eedfaf5f2cab2e91199570b",
+      "md_span": {
+        "start": 55917,
+        "end": 56362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_96",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_96/19770201",
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les citations et notifications sont envoyées sous pli recommandé à la poste, conformément à la procédure établie par l’article 7 de la loi du 26 juin 1914 concernant les significations judiciaires en matière civile et commerciale, ou par exploit d’huissier.",
+      "text_sha256": "f6cd0145c1f00049c349830d3029fe602f4d884fbc12a9b0d7bb34d5245d05c1",
+      "md_span": {
+        "start": 56399,
+        "end": 56656
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1914/06/26/n1/jo",
+          "text": "loi du 26 juin 1914"
+        }
+      ]
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_97",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_97/19770201",
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "III. — *Procédure*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les décisions du conseil de discipline peuvent être attaquées par la voie de l’appel, tant par le notaire condamné que par le procureur général d’Etat. L’appel est porté devant la chambre civile de la Cour Supérieure de Justice, qui statue par un arrêt définitif. L’appel est déclaré au greffe de la Cour dans le délai de dix jours, sous peine de déchéance. Le délai court pour le notaire condamné du jour où la décision lui a été notifiée, et pour le procureur général d’Etat du jour où l’expédition de la décision lui a été remise. L’affaire est traitée comme urgente, et les débats ont lieu en chambre du conseil.",
+      "text_sha256": "ec45e28319ff9635e33914d58415af5efeb06b3c21dafc8fc87c37e1a6384605",
+      "md_span": {
+        "start": 56693,
+        "end": 57309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_98",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_98/19770201",
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "IV. — *Effets des décisions disciplinaires*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "L’appel et le délai pour interjeter appel contre la décision ont un effet suspensif.\n\nToutefois, en cas de destitution, le notaire destitué doit, aussitôt après la notification de la décision, cesser l’exercice de ses fonctions, quand même il aurait interjeté appel de la décision et aussi longtemps que celle-ci n’est pas réformée, à peine de nullité des actes qu’il aurait reçus et de dommages-intérêts envers les parties intéressées, le tout sans préjudice des peines portées par le code pénal.",
+      "text_sha256": "da423471a37cb87abe4136e416c07cde05d6acc04fc31e41acecec5d93694636",
+      "md_span": {
+        "start": 57395,
+        "end": 57892
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_99",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_99/19770201",
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "IV. — *Effets des décisions disciplinaires*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les suspensions sont portées à la connaissance du public à la diligence du président du con. seil de discipline, par insertion dans le Mémorial, aussitôt que les décisions qui les prononcent ont acquis force de chose jugée.\n\nLes destitutions sont publiées de la même manière dès que la décision du conseil de discipline a été notifiée au notaire.",
+      "text_sha256": "6c6b577a635add89bfd5481649986422552ef17def92ba8920beacd3d83da322",
+      "md_span": {
+        "start": 57929,
+        "end": 58275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_100",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_100/19770201",
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "Section IX. — —** De la discipline et de la procédure en matière disciplinaire**",
+        "IV. — *Effets des décisions disciplinaires*"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La suspension prend cours le troisième jour qui suit la date de sa publication au Mémorial.\n\nLe notaire suspendu doit s’abstenir de tout acte de son ministère et ne peut se faire remplacer pendant la durée de la suspension, à peine de nullité de ces actes et de destitution du notaire contrevenant.",
+      "text_sha256": "b91bf639a7f8a4f260054f164946f1d24e26ef6d2a7358b8c9c3b39f9fc1e34f",
+      "md_span": {
+        "start": 58314,
+        "end": 58612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100-1_20080727",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_100-1_20080727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_100-1/20041123",
+      "type": "article",
+      "num": "Art. 100-1.",
+      "heading": null,
+      "path": [
+        "Section X. — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2004-11-23",
+      "text_md": "Sont punis d’une amende de cinquante mille à cinq millions de francs ceux qui ont contrevenu aux dispositions des art. 12-1, 12-2 et 29-1 de la présente loi.",
+      "text_sha256": "2e8e7950f766889c60badf0e062d590b493a66b81750adc1865564cbc894312a",
+      "md_span": {
+        "start": 58703,
+        "end": 58860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_101",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_101/19770201",
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du deuxième mois suivant celui de sa publication.",
+      "text_sha256": "e48ffd975b1c4b7566059b1c58e228bcc0e1fbe01a2fafac66e1c0ed56c6166c",
+      "md_span": {
+        "start": 58929,
+        "end": 59027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_102",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_102/19770201",
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les fonctions des notaires qui auront dépassé l’âge de soixante-sept ans au moment de l’entrée en vigueur de la présente loi ne prennent fin de plein droit qu’au jour anniversaire de leur naissance qui suivra l’expiration de la cinquième année après cette entrée en vigueur.\n\nToutefois, aucun notaire ne pourra rester en fonctions au-delà du jour où il aura accompli l’âge de soixante-quinze ans, sauf que ceux qui ont déjà atteint l’âge de soixante-douze ans à la date de l’entrée en vigueur de la présente loi pourront exercer leurs fonctions encore pendant trois années à dater de cette entrée en vigueur.",
+      "text_sha256": "89153d1786b8593ef1a5512ebb0b26110e3342c529eb4e2c68bf7cf051536781",
+      "md_span": {
+        "start": 59066,
+        "end": 59674
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_103",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_103",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_103/19770201",
+      "type": "article",
+      "num": "Art. 103.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Les juridictions disciplinaires régulièrement saisies avant l’entrée en vigueur de la présente loi restent compétentes pour prononcer les sanctions prévues par les lois et règlements antérieurs.",
+      "text_sha256": "3fbf52d458618021823065360992b3d04d797fc41fa56f24f16b91cd77fffa8b",
+      "md_span": {
+        "start": 59713,
+        "end": 59907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_104",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_104",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_104/19770201",
+      "type": "article",
+      "num": "Art. 104.",
+      "heading": null,
+      "path": [
+        "Dispositions abrogatoires"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "L’article 7 de l’arrêté grand-ducal du 31 décembre 1938 sur les honoraires et émoluments notariaux est abrogé et remplacé par la disposition suivante: art. 7. — Les contraventions au présent arrêté et au règlement sur le tarif peuvent être constatées par procès-verbal dressé par les receveurs et les fonctionnaires de l’administration de l’enregistrement.",
+      "text_sha256": "7f66d45a1d73e294dd32a8c85db0b4c55dee88c8a6a2174a3a48a6ee13bb121d",
+      "md_span": {
+        "start": 59976,
+        "end": 60332
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1938/12/31/n5/jo",
+          "text": "’arrêté grand-ducal du 31 décembre 1938"
+        }
+      ]
+    },
+    {
+      "anchor": "art_105",
+      "provision_id": "lu-legilux:loi-1976-12-09-n1:2008-07-27--98c2426b1f7555178a63005116ef9f499eb5aedc1f9e92d5b7a68bfba06e9b91#art_105",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/art_105/19770201",
+      "type": "article",
+      "num": "Art. 105.",
+      "heading": null,
+      "path": [
+        "Dispositions abrogatoires"
+      ],
+      "article_valid_from": "1977-02-01",
+      "text_md": "Sont abrogés:\n\n- ordonnance royale grand-ducale du 3 octobre 1841\n- loi du 5 mai 1930 ordonnance précitée\n- loi du 9 décembre 1862 - er\n- à l’article 4 les deux dernières phrases de l’alinéa final;\n- à l’article 5 la dernière phrase;\n- à l’article 8 la dernière phrase;\n- article 12;\n- arrêté grand-ducal du 7 juillet 1934\n- arrêté grand-ducal du 25 octobre 1944 arrêté grand-ducal du 24 février 1949 l’argent",
+      "text_sha256": "af60a504b15ad1023665a762f35649ba95a8fa27cb2eada294351899706934e8",
+      "md_span": {
+        "start": 60371,
+        "end": 60780
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

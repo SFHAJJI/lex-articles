@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1003:2025-01-24--6f6213184a0ca10dc016fbf1b5d5ec06607c1f09290f3088dfd1e02d73248556",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/1003 of 24\u00A0January 2025 supplementing Regulation (EU) No\u00A0600/2014",
+  "valid_from": "2025-01-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1003/versions/2025-01-24--6f6213184a0ca10dc016fbf1b5d5ec06607c1f09290f3088dfd1e02d73248556/en.xml",
+    "sha256": "0454aa707964fc549a0955d6c7f8bcc389af25450a94cab9d6efa5356986ab40",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1003"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1003:2025-01-24--6f6213184a0ca10dc016fbf1b5d5ec06607c1f09290f3088dfd1e02d73248556#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. From 1 September 2026, for the purposes of the transparency requirements laid down in Article 8a(2), and Articles 10 and 21 of Regulation (EU) No 600/2014, the identifying reference data for OTC interest rate swaps set out in Table 1 of the Annex to this Regulation shall be used.\n\n2. From 1 September 2026, for the purposes of the transparency requirements laid down in Article 8a(2), and Articles 10 and 21 of Regulation (EU) No 600/2014, the identifying reference data for OTC interest rate swaps and OTC credit default swaps shall also include the ISO 4914 Unique Product Identifier (UPI).",
+      "text_sha256": "3b7640ec083d6cf8349cd3cd1ba50ae70751a21e46e686229cdb384a3fb7f77d",
+      "md_span": {
+        "start": 718,
+        "end": 1325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1003:2025-01-24--6f6213184a0ca10dc016fbf1b5d5ec06607c1f09290f3088dfd1e02d73248556#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1358,
+        "end": 1509
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

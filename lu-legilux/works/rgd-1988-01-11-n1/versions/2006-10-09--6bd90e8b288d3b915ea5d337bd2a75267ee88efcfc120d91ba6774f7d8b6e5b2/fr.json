@@ -1,0 +1,182 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/10/2006 : Règlement grand-ducal du 11 janvier 1988 déterminant les pièces contenues dans le dossier personnel des fonctionnaires communaux.",
+  "valid_from": "2006-10-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1988-01-11-n1/versions/2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2/fr.xml",
+    "sha256": "7922c814c8393dcfd2e2034a932fee58221d7a1748c60ced4a9917ba4c2f69e9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/consolide/20061009/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_1er/19880119",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Il est constitué pour chaque fonctionnaire un dossier personnel au bureau du personnel de la commune. A défaut de bureau du personnel le dossier est constitué au secrétariat communal.",
+      "text_sha256": "df3a14828889afbf008f29709d12744157f158110b4c9b9a3b981df650ba6666",
+      "md_span": {
+        "start": 730,
+        "end": 913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_2/19880119",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Le dossier personnel doit contenir, pour autant qu’ils existent, les documents énumérés ci-après ou une copie conforme de ces documents:\n\n1. l’extrait de l’acte de naissance;\n2. les certificats d’études et les diplômes se rapportant à la carrière de l’intéressé;\n3. le certificat de nationalité;\n4. l’extrait du casier judiciaire;\n5. le certificat médical;\n6. les résultats des examens auxquels l’intéressé s’est présenté au cours de sa carrière;\n7. les délibérations, les décisions et la correspondance concernant la carrière de l’intéressé;\n8. les certificats relatifs aux cours et stages spéciaux;\n9. les décisions relatives à la validation des périodes de service antérieures;\n10. les pièces relatives à la situation de famille de l’agent;\n11. les fiches de traitement;\n12. la correspondance relative aux congés pour raisons de santé;\n13. la décision concernant la démission ou, le cas échéant, l’acte de décès;\n14. la décision accordant la pension.",
+      "text_sha256": "8d1a5e1ed4969d172d3d74dc912fbccf21309bc1b2d18cf02afb0a1334447734",
+      "md_span": {
+        "start": 948,
+        "end": 1901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_3/20061009",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-10-09",
+      "text_md": "Sont à insérer de même dans le dossier personnel tous les documents relatifs à des ordres de justification, à des décisions infligeant une peine disciplinaire ainsi que les décisions émises par le Conseil de discipline.\n\nPour les peines de l’avertissement, de la réprimande et de l’amende ne dépassant pas le cinquième d’une mensualité brute du traitement de base, les dispositions de l’article 67 de la loi du 24 décembre 1985 portant fixation du statut général des fonctionnaires communaux sont applicables.",
+      "text_sha256": "68ef9046ea0a8e3e42d08cd153d73da977034886a31cc879e444f3ea9d62168f",
+      "md_span": {
+        "start": 1936,
+        "end": 2445
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1985/12/24/n3/jo",
+          "text": "loi du 24 décembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_4/19880119",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Les pièces du dossier sont insérées par ordre chronologique et énumérées sur un inventaire joint.\n\nLorsque des pièces sont retirées sur la base de l’article 3 du présent règlement, l’inventaire est dressé à neuf en faisant abstraction de toute référence aux pièces retirées.\n\nSi des pièces doivent être retirées du dossier pour toute autre raison, elles sont à remplacer provisoirement par des copies et mention en est faite à l’inventaire avec indication des raisons. Les pièces retirées doivent être remplacées à la première occasion. Mention en est faite à l’inventaire.",
+      "text_sha256": "9539da04769d855ac42de7ff914a96d246408e441d2b7a3ce908c4f3e7bb8874",
+      "md_span": {
+        "start": 2480,
+        "end": 3053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_5/19880119",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "En cas de besoin il peut être tenu au service dont fait partie le fonctionnaire un dossier de service contenant les pièces énumérées à l’article 2, nos 6 à 13, ainsi que les décisions intervenues en matière disciplinaire.",
+      "text_sha256": "39d7f1f5214006632c309c3687eb9f24051e7f3add4f11b415afd7bb2b5f2fc3",
+      "md_span": {
+        "start": 3088,
+        "end": 3309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_6/19880119",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Aucune autre pièce que celles visées aux articles 2 et 3 du présent règlement ne peut être versée aux dossiers visés ci-dessus et aucun autre dossier personnel que ceux prévus par le présent règlement ne peut être constitué.",
+      "text_sha256": "e6a7d8e8f2dfcdb89c605d6f33a34b8c3d5608a6366fc5ccc124083f71174187",
+      "md_span": {
+        "start": 3344,
+        "end": 3568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_7/19880119",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "En dehors des dossiers visés aux articles premier et 5 ci-dessus il est constitué au ministère de l’Intérieur et auprès de la caisse de prévoyance des fonctionnaires et employés communaux un dossier personnel contenant les pièces relatives à la carrière, au traitement et à la pension du fonctionnaire.",
+      "text_sha256": "a78a0e98001947ebf467ac01a2c2ea762d5d373ad260309b2a6932854d9b179d",
+      "md_span": {
+        "start": 3603,
+        "end": 3905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_8/19880119",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Dans les trois mois de l’entrée en vigueur du présent règlement les administrations communales devront rendre les dossiers personnels de leurs fonctionnaires conformes au présent règlement. Les pièces y contenues et non conformes au présent règlement sont à détruire.",
+      "text_sha256": "5ddb4a36d9495b47c49dc1d1f71d5afb78abb5a59ec5a67f72a8693e6fb4b173",
+      "md_span": {
+        "start": 3940,
+        "end": 4207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1988-01-11-n1:2006-10-09--6bd90e8b288d3b915ea5d337bd2a75267ee88efcfc120d91ba6774f7d8b6e5b2#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/art_9/19880119",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1988-01-19",
+      "text_md": "Notre Ministre de l’Intérieur est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e7800331454bf658ab51076eb75db6c95dc547dc65ec845f6fe403d844029042",
+      "md_span": {
+        "start": 4242,
+        "end": 4347
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

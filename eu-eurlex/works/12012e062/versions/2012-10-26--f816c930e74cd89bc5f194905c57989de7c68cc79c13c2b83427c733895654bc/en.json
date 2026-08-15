@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012e062:2012-10-26--f816c930e74cd89bc5f194905c57989de7c68cc79c13c2b83427c733895654bc",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2012-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012e062/versions/2012-10-26--f816c930e74cd89bc5f194905c57989de7c68cc79c13c2b83427c733895654bc/en.xml",
+    "sha256": "4b378c178cc37884820b0d42603bd904dcf228045a337ea795b7fb70e92afcf7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012E062"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012e062:2012-10-26--f816c930e74cd89bc5f194905c57989de7c68cc79c13c2b83427c733895654bc#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.10.2012 EN Official Journal of the European Union C 326/1 CONSOLIDATED VERSION OF THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION PART THREE UNION POLICIES AND INTERNAL ACTIONS TITLE IV FREE MOVEMENT OF PERSONS, SERVICES AND CAPITAL CHAPTER 3 SERVICES Article 62 (ex Article 55 TEC) The provisions of Articles 51 to 54 shall apply to the matters covered by this Chapter.",
+      "text_sha256": "20cb9f8c40d8e26d0b47c9a32ff2b80de646b3ee4f80b7d47de845a1a758477e",
+      "md_span": {
+        "start": 713,
+        "end": 1090
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

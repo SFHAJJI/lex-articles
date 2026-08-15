@@ -1,0 +1,1543 @@
+---
+lex_id: 'eu-eurlex:32014r0596:2016-07-03--78a0ba0b273ef1fc7eef3b81abb2b93363416dd6dde7868aaa466064495f6256'
+title: 'Regulation (EU) No 596/2014'
+valid_from: '2016-07-03'
+valid_to: '2020-12-31'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0596-20160703'
+source_sha256: 'c9092aca8b03824586621beb4d0ce62dc18d6b3cba80815dd1f0c32507601fca'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPITRE 1
+
+### **DISPOSITIONS GÉNÉRALES**
+
+<a id="art_premier"></a>
+
+### Article premier — Objet
+
+Le présent règlement établit un cadre réglementaire commun sur les opérations d’initiés, la divulgation illicite d’informations privilégiées et les manipulations de marché (ci-après dénommés «abus de marché»), ainsi que des mesures visant à empêcher les abus de marché afin de garantir l’intégrité des marchés financiers de l’Union et d’accroître la protection des investisseurs et leur confiance dans ces marchés.
+
+<a id="art_2"></a>
+
+### Article 2 — Champ d’application
+
+1. Le présent règlement s’applique:
+
+a) aux instruments financiers admis ou faisant l’objet d’une demande d’admission à la négociation sur un marché réglementé;
+
+b) aux instruments financiers négociés sur un MTF, admis ou faisant l’objet d’une demande d’admission à la négociation sur un MTF;
+
+c) aux instruments financiers négociés sur un OTF;
+
+d) aux instruments financiers non couverts par les points a), b) ou c), dont le cours ou la valeur dépend du cours ou de la valeur d’un instrument financier visé auxdits points ou qui a un effet sur ce cours ou cette valeur, y compris, sans s’y limiter, les contrats d’échange sur risque de crédit et les contrats financiers pour différences.
+
+Le présent règlement s’applique également aux comportements ou aux transactions, y compris aux offres, qui se rapportent à la mise aux enchères sur une plate-forme d’enchères qui a été agréée en tant que marché réglementé de quotas d’émission ou d’autres produits mis aux enchères basés sur ces derniers, y compris lorsque les produits mis aux enchères ne sont pas des instruments financiers, en vertu du règlement (UE) no 1031/2010. Sans préjudice de toute disposition spécifique relative aux offres présentées dans le cadre d’une mise aux enchères, toutes les exigences et interdictions que le présent règlement impose aux ordres s’appliquent également à de telles offres.
+
+2. Les articles 12 et 15 s’appliquent également:
+
+a) aux contrats au comptant sur matières premières qui ne sont pas des produits énergétiques de gros, lorsque la transaction, l’ordre ou le comportement a, est de nature à avoir ou est destiné à avoir un effet sur le cours ou la valeur d’un instrument financier visé au paragraphe 1;
+
+b) aux types d’instruments financiers, y compris les contrats dérivés ou les instruments dérivés servant au transfert du risque de crédit, pour lesquels la transaction, l’ordre, l’offre ou le comportement a ou est de nature à avoir un effet sur le cours ou la valeur d’un contrat au comptant sur matières premières lorsque le cours ou la valeur dépendent du cours ou de la valeur de ces instruments financiers; et
+
+c) aux comportements en rapport avec les indices de référence.
+
+3. Le présent règlement s’applique à toute transaction, tout ordre ou comportement concernant tout instrument financier visé aux paragraphes 1 et 2, indépendamment du fait que cette transaction, cet ordre ou ce comportement ait lieu ou non sur une plate-forme de négociation.
+
+4. Les interdictions et exigences prévues par le présent règlement s’appliquent aux actions menées et aux omissions commises dans l’Union et dans un pays tiers concernant les instruments visés aux paragraphes 1 et 2.
+
+<a id="art_3"></a>
+
+### Article 3 — Définitions
+
+1. Aux fins du présent règlement, on entend par:
+
+| 1) | «instrument financier» : un instrument financier tel qu’il est défini à l’article 4, paragraphe 1, point 15), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 2) | «entreprise d’investissement» : une entreprise d’investissement telle qu’elle est définie à l’article 4, paragraphe 1, point 1), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 3) | «établissement de crédit» : un établissement de crédit tel qu’il est défini à l’article 4, paragraphe 1, point 1), du règlement (UE) no 575/2013 du Parlement européen et du Conseil (1); |
+| --- | --- |
+
+| 4) | «établissement financier» : un établissement financier tel qu’il est défini à l’article 4, paragraphe 1, point 26), du règlement (UE) no 575/2013; |
+| --- | --- |
+
+| 5) | «opérateur de marché» : un opérateur de marché tel qu’il est défini à l’article 4, paragraphe 1, point 18), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 6) | «marché réglementé» : un marché réglementé tel qu’il est défini à l’article 4, paragraphe 1, point 21), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 7) | «système multilatéral de négociation» ou «MTF» : un système multilatéral tel qu’il est défini à l’article 4, paragraphe 1, point 22), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 8) | «système organisé de négociation» ou «OTF» : un système dans l’Union tel qu’il est défini à l’article 4, paragraphe 1, point 23), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 9) | «pratique de marché admise» : une pratique de marché spécifique qui est admise par une autorité compétente conformément à l’article 13; |
+| --- | --- |
+
+| 10) | «plate-forme de négociation» : une plate-forme de négociation telle qu’elle est définie à l’article 4, paragraphe 1, point 24), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 11) | «marché de croissance des PME» : un marché de croissance des PME tel qu’il est défini à l’article 4, paragraphe 1, point 12), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 12) | «autorité compétente» : une autorité désignée conformément à l’article 22, sauf indication contraire dans le présent règlement; |
+| --- | --- |
+
+| 13) | «personne» : toute personne physique ou morale; |
+| --- | --- |
+
+| 14) | «matière première» : une matière première telle qu’elle est définie à l’article 2, point 1), du règlement (CE) no 1287/2006 de la Commission (2); |
+| --- | --- |
+
+| 15) | «contrat au comptant sur matières premières» : un contrat de fourniture de matières premières négociées sur un marché au comptant qui sont livrées rapidement lorsque la transaction est réglée, et un contrat de fourniture de matières premières qui n’est pas un instrument financier, y compris un contrat à terme avec livraison physique; |
+| --- | --- |
+
+| 16) | «marché au comptant» : un marché de matières premières sur lequel les matières premières sont vendues contre espèces et livrées rapidement lorsque la transaction est réglée, et d’autres marchés non financiers, comme les marchés à terme pour les matières premières; |
+| --- | --- |
+
+| 17) | «programme de rachat» : une opération sur actions propres effectuée conformément aux articles 21 à 27 de la directive 2012/30/UE du Parlement européen et du Conseil (3); |
+| --- | --- |
+
+| 18) | «trading algorithmique» : le trading algorithmique tel qu’il est défini à l’article 4, paragraphe 1, point 39), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 19) | «quota d’émission» : un quota d’émission tel que décrit à l’annexe I, section C, point 11), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 20) | «participant au marché des quotas d’émission» : toute personne qui effectue des transactions, y compris la passation d’ordres, sur des quotas d’émission, des produits mis aux enchères basés sur ces derniers, ou des instruments dérivés de ceux-ci et qui ne bénéficie pas d’une exemption en vertu de l’article 17, paragraphe 2, deuxième alinéa; |
+| --- | --- |
+
+| 21) | «émetteur» : une entité juridique de droit public ou privé qui émet ou propose d’émettre des instruments financiers, l’émetteur étant, en cas de certificats représentatifs de certains instruments financiers, celui qui émet l’instrument financier représenté; |
+| --- | --- |
+
+| 22) | «produit énergétique de gros» : un produit énergétique de gros tel qu’il est défini à l’article 2, point 4), du règlement (UE) no 1227/2011; |
+| --- | --- |
+
+| 23) | «autorité de régulation nationale» : une autorité de régulation nationale telle qu’elle est définie à l’article 2, point 10), du règlement (UE) no 1227/2011; |
+| --- | --- |
+
+| 24) | «instruments dérivés sur matières premières» : des instruments dérivés sur matières premières tels qu’ils sont définis à l’article 2, paragraphe 1, point 30), du règlement (UE) no 600/2014 du Parlement européen et du Conseil (4); |
+| --- | --- |
+
+| 25) | «personne exerçant des responsabilités dirigeantes» : une personne au sein d’un émetteur, un participant au marché des quotas d’émission ou une autre entité visée à l’article 19, paragraphe 10, qui est:a) un membre de l’organe d’administration, de gestion ou de surveillance de cette entité; oub) un responsable de haut niveau qui, sans être membre des organes visés au point a), dispose d’un accès régulier à des informations privilégiées concernant directement ou indirectement cette entité et du pouvoir de prendre des décisions de gestion concernant l’évolution future et la stratégie d’entreprise de cette entité; |
+| --- | --- |
+
+| 26) | «personne étroitement liée» : a) le conjoint ou un partenaire considéré comme l’équivalent du conjoint conformément au droit national;b) l’enfant à charge conformément au droit national;c) un parent qui appartient au même ménage depuis au moins un an à la date de la transaction concernée; ou▼C1d) une personne morale, un trust ou une fiducie, ou un partenariat, dont les responsabilités dirigeantes sont exercées par une personne exerçant des responsabilités dirigeantes ou par une personne visée au point a), b) ou c), ou qui est directement ou indirectement contrôlé(e) par cette personne, ou qui a été constitué(e) au bénéfice de cette personne, ou dont les intérêts économiques sont substantiellement équivalents à ceux de cette personne;▼B |
+| --- | --- |
+
+| 27) | «enregistrements de données relatives au trafic» : les enregistrements de données relatives au trafic tels qu’ils sont définis à l’article 2, deuxième alinéa, point b), de la directive 2002/58/CE du Parlement européen et du Conseil (5); |
+| --- | --- |
+
+| 28) | «personne qui organise ou exécute des transactions à titre professionnel» : une personne dont le travail consiste à recevoir et à transmettre des ordres ou à effectuer des transactions concernant des instruments financiers; |
+| --- | --- |
+
+| 29) | «indice de référence» : tout taux, indice ou chiffre mis à la disposition du public ou publié, qui est déterminé périodiquement ou régulièrement par application d’une formule, ou sur la base de la valeur d’un ou de plusieurs actifs ou prix sous-jacents, y compris des estimations de prix, de taux d’intérêt ou d’autres valeurs réels ou estimés, ou des données d’enquêtes, et par référence auquel est déterminé le montant à verser au titre d’un instrument financier ou la valeur d’un instrument financier; |
+| --- | --- |
+
+| 30) | «teneur de marché» : un teneur de marché tel qu’il est défini à l’article 4, paragraphe 1, point 7), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 31) | «ramassage en bourse» : une acquisition de titres d’une société qui n’entraîne pas d’obligation législative ou réglementaire d’annoncer le lancement d’une offre publique d’achat sur cette société; |
+| --- | --- |
+
+| 32) | «participant au marché communicant» : une personne qui relève de l’une des catégories énoncées à l’article 11, paragraphe 1, points a) à d), ou à l’article 11, paragraphe 2, et qui communique des informations dans le cadre d’un sondage de marché; |
+| --- | --- |
+
+| 33) | «trading à haute fréquence» : la technique de trading algorithmique à haute fréquence telle qu’elle est définie à l’article 4, paragraphe 1, point 40), de la directive 2014/65/UE; |
+| --- | --- |
+
+| 34) | «informations recommandant ou suggérant une stratégie d’investissement» : des informations:i) produites par un analyste indépendant, une entreprise d’investissement, un établissement de crédit, toute autre personne dont l’activité principale consiste à produire des recommandations d’investissement, ou une personne physique travaillant pour leur compte dans le cadre d’un contrat de travail ou autre, qui, directement ou indirectement, formule une proposition d’investissement déterminée concernant un instrument financier ou un émetteur; ouii) produites par d’autres personnes que celles visées au point i), qui proposent directement une décision d’investissement déterminée concernant un instrument financier; |
+| --- | --- |
+
+| 35) | «recommandations d’investissement» : des informations recommandant ou suggérant une stratégie d’investissement, explicitement ou implicitement, concernant un ou plusieurs instruments financiers ou les émetteurs, y compris toute opinion émise sur le cours ou la valeur actuel(le) ou futur(e) de ces instruments, destinées aux canaux de distribution ou au public. |
+| --- | --- |
+
+2. Aux fins de l’article 5, on entend par:
+
+| a) | «titres» : i) les actions et autres valeurs équivalant à des actions;ii) les obligations et les autres formes de titres de créance; ouiii) les titres de créance convertibles ou échangeables en actions ou dans d’autres valeurs équivalant à des actions. |
+| --- | --- |
+
+| b) | «instruments associés» : les instruments financiers suivants, y compris ceux qui ne sont pas admis à la négociation ou négociés sur une plate-forme de négociation, ou qui n’ont pas fait l’objet d’une demande d’admission à la négociation sur une plate-forme de négociation:i) les contrats ou droits de souscription, d’acquisition ou de cession de valeurs;ii) les instruments financiers dérivés basés sur des valeurs;iii) lorsque les valeurs sont des titres de créance convertibles ou échangeables, les valeurs dans lesquelles ces titres de créances convertibles ou échangeables peuvent être convertis ou échangés;iv) les instruments qui sont émis ou garantis par l’émetteur ou le garant des valeurs et dont le prix de marché est susceptible d’influencer sensiblement le prix des valeurs, ou vice versa;v) lorsque les valeurs sont des valeurs équivalentes à des actions, les actions représentées par ces valeurs et toute autre valeur équivalant à ces actions; |
+| --- | --- |
+
+| c) | «distribution significative» : une offre initiale ou secondaire de titres qui se distingue des achats et des ventes ordinaires à la fois quant au montant des valeurs offertes et aux méthodes de vente employées; |
+| --- | --- |
+
+| d) | «stabilisation» : un achat ou une offre d’achat de valeurs, ou une transaction portant sur des instruments associés équivalents à celles-ci, réalisé par un établissement de crédit ou une entreprise d’investissement dans le cadre d’une distribution significative de telles valeurs, dans le seul but de soutenir le prix sur le marché de ces valeurs pendant une durée prédéterminée, en raison d’une pression à la vente s’exerçant sur elles. |
+| --- | --- |
+
+<a id="art_4"></a>
+
+### Article 4 — Notification et liste des instruments financiers
+
+1. Les opérateurs des marchés réglementés, les entreprises d’investissement et les opérateurs de marché exerçant leurs activités sur un MTF ou un OTF adressent, sans retard, une notification à l’autorité compétente de la plate-forme de négociation de tout instrument financier pour lequel une demande d’admission à la négociation sur leur plate-forme de négociation a été présentée, qui est admis à la négociation ou qui est négocié pour la première fois.
+
+Ils adressent également une notification à l’autorité compétente de la plate-forme de négociation une fois qu’un instrument financier cesse d’être négocié ou d’être admis à la négociation, à moins que la date à laquelle l’instrument financier cesse d’être négocié ou d’être admis à la négociation est connue et était incluse dans la notification qui a été faite conformément au premier alinéa.
+
+Les notifications visées au présent paragraphe comportent, le cas échéant, les noms et les identifiants des instruments financiers concernés, ainsi que les dates et heures de la demande d’admission à la négociation, de l’admission à la négociation et de la première négociation.
+
+Les opérateurs de marchés et les entreprises d’investissement transmettent également à l’autorité compétente de la plate-forme de négociation les informations énoncées au troisième alinéa concernant les instruments financiers qui faisaient l’objet d’une demande d’admission à la négociation ou qui étaient admis à la négociation avant le 2 juillet 2014 et qui sont toujours admis à la négociation ou qui sont négociés à cette date.
+
+2. Les autorités compétentes de la plate-forme de négociation transmettent, sans retard, à l’AEMF les notifications qu’elles reçoivent en vertu du paragraphe 1. L’AEMF publie ces notifications, immédiatement dès réception, sur son site internet, sous la forme d’une liste. L’AEMF met immédiatement cette liste à jour dès qu’elle reçoit une notification de la part d’une autorité compétente de la plate-forme de négociation. Cette liste ne restreint pas le champ d’application du présent règlement.
+
+3. La liste comporte les informations suivantes:
+
+a) les noms et les identifiants des instruments financiers qui font l’objet d’une demande d’admission à la négociation, sont admis à la négociation ou sont négociés pour la première fois sur des marchés réglementés, des MTF et des OTF;
+
+b) les dates et heures des demandes d’admission à la négociation, des admissions à la négociation ou des premières négociations;
+
+c) des informations détaillées relatives aux plates-formes de négociation sur lesquelles les instruments financiers font l’objet d’une demande d’admission à la négociation, sont admis à la négociation ou sont négociés pour la première fois; et
+
+d) la date et l’heure auxquelles les instruments financiers cessent d’être négociés ou d’être admis à la négociation.
+
+4. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation fixant:
+
+a) le contenu des notifications visées au paragraphe 1; et
+
+b) le mode et les conditions de la compilation, de la publication et de la tenue de la liste visée au paragraphe 3.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (6).
+
+5. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution définissant la date, le format et le modèle de présentation des notifications au titre des paragraphes 1 et 2.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_5"></a>
+
+### Article 5 — Dérogations pour les programmes de rachat et les mesures de stabilisation
+
+1. Les interdictions prévues par les articles 14 et 15 du présent règlement ne s’appliquent pas aux opérations sur actions propres effectuées dans le cadre de programmes de rachat lorsque:
+
+a) tous les détails du programme sont divulgués avant que ne débutent les opérations;
+
+b) les opérations sont notifiées à l’autorité compétente de la plate-forme de négociation conformément au paragraphe 3, puis divulguées au public, comme faisant partie du programme de rachat;
+
+c) des limites adéquates sont respectées en ce qui concerne les prix et les volumes;
+
+d) les opérations sont réalisées conformément aux objectifs visés au paragraphe 2 et aux conditions énoncées dans le présent article et dans les normes techniques de réglementation visées au paragraphe 6.
+
+2. Afin de bénéficier de la dérogation prévue au paragraphe 1, un programme de rachat a comme seul l’objectif:
+
+a) de réduire le capital d’un émetteur;
+
+b) de satisfaire aux obligations découlant de titres de créance qui sont échangeables en titres de propriété; ou
+
+c) de satisfaire aux obligations découlant des programmes d’options sur actions, ou autres allocations d’actions, aux salariés ou aux membres des organes d’administration, de gestion ou de surveillance de l’émetteur ou d’une entreprise associée.
+
+3. Afin de bénéficier de la dérogation prévue au paragraphe 1, l’émetteur informe l’autorité compétente de la plate-forme de négociation sur laquelle les actions ont été admises à la négociation ou sont négociées de chaque transaction relative au programme de rachat, y compris les informations spécifiées à l’article 25, paragraphes 1 et 2, et à l’article 26, paragraphes 1, 2 et 3, du règlement (UE) no 600/2014.
+
+4. Les interdictions prévues par les articles 14 et 15 du présent règlement ne s’appliquent pas à la négociation de titres ou d’instruments associés en vue de la stabilisation de titres lorsque:
+
+a) la stabilisation est effectuée pour une période limitée;
+
+b) les informations importantes concernant la stabilisation sont divulguées et notifiées à l’autorité compétente de la plate-forme de négociation conformément au paragraphe 5;
+
+c) des limites adéquates sont respectées en ce qui concerne les prix; et
+
+d) ces opérations respectent les conditions relatives à la stabilisation prévues par les normes techniques de réglementation visées au paragraphe 6.
+
+5. Sans préjudice de l’article 23, paragraphe 1, les émetteurs, les offreurs, ou les entités réalisant la stabilisation agissant ou non pour le compte de ces personnes, notifient les détails de toutes les opérations de stabilisation à l’autorité compétente de la plate-forme de négociation concernée, au plus tard à la fin de la septième journée boursière suivant la date d’exécution de ces opérations.
+
+6. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation précisant les conditions auxquelles les programmes de rachat et les mesures de stabilisation visés aux paragraphes 1 et 4 doivent satisfaire, y compris les conditions applicables aux opérations, les restrictions en matière de durée et de volumes, les obligations de divulgation et de déclaration, ainsi que les conditions relatives aux prix.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+<a id="art_6"></a>
+
+### Article 6 — Exclusion des activités se rapportant à la politique monétaire, à la gestion de la dette publique et à la politique climatique
+
+1. Le présent règlement ne s’applique pas aux transactions, ordres ou comportements qui interviennent dans le cadre de la mise en œuvre de la politique monétaire, de change ou de gestion de la dette publique, et émanent:
+
+a) d’un État membre;
+
+b) des membres du SEBC;
+
+c) d’un ministère, d’une agence ou d’une entité ad hoc d’un ou de plusieurs États membres, ou d’une personne agissant pour le compte de ceux-ci;
+
+d) dans le cas d’un État membre constitué sous forme d’État fédéral, d’un des membres composant la fédération.
+
+2. Le présent règlement ne s’applique pas aux transactions, ordres ou comportements émanant de la Commission ou de tout autre organisme officiellement désigné ou de toute personne agissant pour son compte, dans le cadre de la mise en œuvre de la politique de gestion de la dette publique.
+
+Le présent règlement ne s’applique pas aux transactions, ordres ou comportements émanant:
+
+a) de l’Union;
+
+b) d’une entité ad hoc d’un État membre ou commune à plusieurs États membres;
+
+c) de la Banque européenne d’investissement;
+
+d) du Fonds européen de stabilité financière;
+
+e) du mécanisme européen de stabilité;
+
+f) d’un établissement financier international établi par deux États membres ou plus dont l’objectif est de mobiliser des fonds et d’apporter une assistance financière en faveur de ses membres touchés ou menacés par de graves problèmes de financement.
+
+3. Le présent règlement ne s’applique pas à l’activité d’un État membre, de la Commission ou de tout autre organisme officiellement désigné, ou de toute personne agissant pour le compte de ceux-ci, concernant les quotas d’émission et exercée dans le cadre de la mise en œuvre de la politique climatique de l’Union, conformément à la directive 2003/87/CE.
+
+4. Le présent règlement ne s’applique pas aux activités d’un État membre, de la Commission ou de tout autre organisme officiellement désigné, ou de toute personne agissant pour le compte de ceux-ci, qui sont exercées dans le cadre de la mise en œuvre de la politique agricole commune de l’Union ou de la politique commune de la pêche de l’Union, conformément aux actes adoptés ou aux accords internationaux conclus au titre du traité sur le fonctionnement de l’Union européenne.
+
+5. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35 afin d’étendre la dérogation énoncée au paragraphe 1 à certains organismes publics ou banques centrales de pays tiers.
+
+À cette fin, la Commission prépare et présente au Parlement européen et au Conseil un rapport, au plus tard le 3 janvier 2016, évaluant le traitement international des organismes publics chargés de gérer la dette publique ou intervenant dans sa gestion ainsi que des banques centrales dans les pays tiers.
+
+Le rapport comprend une analyse comparative du traitement de ces organismes et des banques centrales dans le cadre légal des pays tiers, ainsi que les normes de gestion des risques applicables aux transactions effectuées par ces organismes et par les banques centrales relevant de ces juridictions. Si le rapport conclut, notamment au regard de l’analyse comparative, qu’il est nécessaire d’exonérer ces banques centrales de pays tiers de leurs responsabilités monétaires en ce qui concerne les obligations et les interdictions du présent règlement, la Commission étend la dérogation visée au paragraphe 1 également aux banques centrales des pays tiers.
+
+6. La Commission est également habilitée à adopter des actes délégués en conformité avec l’article 35 afin d’étendre l’exclusion énoncée au paragraphe 3 à certains organismes publics désignés de pays tiers ayant conclu un accord avec l’Union en vertu de l’article 25 de la directive 2003/87/CE.
+
+7. Le présent article ne s’applique pas aux personnes travaillant dans le cadre d’un contrat de travail ou autre pour les entités visées au présent article lorsque ces personnes effectuent des transactions, passent des ordres ou adoptent des comportements, directement ou indirectement, pour leur propre compte.
+
+## CHAPITRE 2
+
+### **INFORMATIONS PRIVILÉGIÉES, OPÉRATIONS D’INITIÉS, DIVULGATION ILLICITE D’INFORMATIONS PRIVILÉGIÉES ET MANIPULATIONS DE MARCHÉ**
+
+<a id="art_7"></a>
+
+### Article 7 — Informations privilégiées
+
+1. Aux fins du présent règlement, la notion d’«information privilégiée» couvre les types d’information suivants:
+
+a) une information à caractère précis qui n’a pas été rendue publique, qui concerne, directement ou indirectement, un ou plusieurs émetteurs, ou un ou plusieurs instruments financiers, et qui, si elle était rendue publique, serait susceptible d’influencer de façon sensible le cours des instruments financiers concernés ou le cours d’instruments financiers dérivés qui leur sont liés;
+
+b) pour les instruments dérivés sur matières premières, une information à caractère précis qui n’a pas été rendue publique, qui concerne, directement ou indirectement, un ou plusieurs instruments dérivés de ce type ou qui concerne directement le contrat au comptant sur matières premières qui leur est lié, et qui, si elle était rendue publique, serait susceptible d’influencer de façon sensible le cours de ces instruments dérivés ou des contrats au comptant sur matières premières qui leur sont liés et lorsqu’il s’agit d’une information dont on attend raisonnablement qu’elle soit divulguée ou qui doit obligatoirement l’être conformément aux dispositions législatives ou réglementaires au niveau de l’Union ou au niveau national, aux règles de marché, au contrat, à la pratique ou aux usages propres aux marchés ou aux marchés au comptant d’instruments dérivés sur matières premières concernés;
+
+c) pour les quotas d’émission ou les produits mis aux enchères basés sur ces derniers, une information à caractère précis qui n’a pas été rendue publique, qui concerne, directement ou indirectement, un ou plusieurs instruments de ce type, et qui, si elle était rendue publique, serait susceptible d’influencer de façon sensible le cours de ces instruments ou le cours d’instruments financiers dérivés qui leur sont liés;
+
+d) pour les personnes chargées de l’exécution d’ordres concernant des instruments financiers, il s’agit aussi de toute information transmise par un client et ayant trait aux ordres en attente du client concernant des instruments financiers, qui est d’une nature précise, qui se rapporte, directement ou indirectement, à un ou plusieurs émetteurs ou à un ou plusieurs instruments financiers et qui, si elle était rendue publique, serait susceptible d’influencer de façon sensible le cours de ces instruments financiers, le cours de contrats au comptant sur matières premières qui leur sont liés ou le cours d’instruments financiers dérivés qui leur sont liés.
+
+2. Aux fins de l’application du paragraphe 1, une information est réputée à caractère précis si elle fait mention d’un ensemble de circonstances qui existe ou dont on peut raisonnablement penser qu’il existera ou d’un événement qui s’est produit ou dont on peut raisonnablement penser qu’il se produira, si elle est suffisamment précise pour qu’on puisse en tirer une conclusion quant à l’effet possible de cet ensemble de circonstances ou de cet événement sur le cours des instruments financiers ou des instruments financiers dérivés qui leur sont liés, des contrats au comptant sur matières premières qui leur sont liés ou des produits mis aux enchères basés sur les quotas d’émission. À cet égard, dans le cas d’un processus se déroulant en plusieurs étapes visant à donner lieu à, ou résultant en certaines circonstances ou un certain événement, ces circonstances futures ou cet événement futur peuvent être considérés comme une information précise, tout comme les étapes intermédiaires de ce processus qui ont partie liée au fait de donner lieu à, ou de résulter en de telles circonstances ou un tel événement.
+
+3. Une étape intermédiaire d’un processus en plusieurs étapes est réputée constituer une information privilégiée si, en soi, cette étape satisfait aux critères relatifs à l’information privilégiée visés au présent article.
+
+4. Aux fins du paragraphe 1, on entend par information qui, si elle était rendue publique, serait susceptible d’influencer de façon sensible le cours des instruments financiers, des instruments financiers dérivés, des contrats au comptant sur matières premières qui leur sont liés ou des produits mis aux enchères basés sur des quotas d’émission, une information qu’un investisseur raisonnable serait susceptible d’utiliser comme faisant partie des fondements de ses décisions d’investissement.
+
+Dans le cas des participants au marché des quotas d’émission avec des émissions cumulées ou une puissance thermique nominale inférieures ou égales au seuil fixé conformément à l’article 17, paragraphe 2, deuxième alinéa, les informations relatives à leurs activités matérielles sont réputées être dépourvues d’effet significatif sur le prix des quotas d’émission, des produits mis aux enchères basés sur ces derniers ou sur le cours des instruments financiers dérivés.
+
+5. L’AEMF publie des lignes directrices afin d’établir une liste indicative non exhaustive des informations dont on attend raisonnablement qu’elles soient divulguées ou qui doivent obligatoirement être divulguées conformément aux dispositions législatives ou réglementaires du droit de l’Union ou du droit national, aux règles de marché, au contrat, à la pratique ou aux usages, que ce soit sur les marchés ou sur les marchés au comptant d’instruments dérivés sur matières premières visés au paragraphe 1, point b). L’AEMF tient dûment compte des spécificités de ces marchés.
+
+<a id="art_8"></a>
+
+### Article 8 — Opérations d’initiés
+
+1. Aux fins du présent règlement, une opération d’initié se produit lorsqu’une personne détient une information privilégiée et en fait usage en acquérant ou en cédant, pour son propre compte ou pour le compte d’un tiers, directement ou indirectement, des instruments financiers auxquels cette information se rapporte. L’utilisation d’une information privilégiée pour annuler ou pour modifier un ordre concernant un instrument financier auquel cette information se rapporte, lorsque l’ordre avait été passé avant que la personne concernée ne détienne l’information privilégiée, est également réputée être une opération d’initié. Pour les mises aux enchères de quotas d’émission ou d’autres produits mis aux enchères basés sur ces derniers, organisées en vertu du règlement (UE) no 1031/2010, l’utilisation d’informations privilégiées comprend également la soumission, la modification ou le retrait d’une offre par une personne pour son propre compte ou pour le compte d’un tiers.
+
+2. Aux fins du présent règlement, le fait de recommander à une autre personne d’effectuer une opération d’initié, ou le fait d’inciter une autre personne à effectuer une opération d’initié, survient lorsque la personne qui dispose d’une information privilégiée:
+
+a) recommande, sur la base de cette information, qu’une autre personne acquière ou cède des instruments financiers auxquels cette information se rapporte, ou incite cette personne à procéder à une telle acquisition ou à une telle cession; ou
+
+b) recommande, sur la base de cette information, qu’une autre personne annule ou modifie un ordre relatif à un instrument financier auquel cette information se rapporte, ou incite cette personne à procéder à une telle annulation ou à une telle modification.
+
+3. L’utilisation des recommandations ou des incitations visées au paragraphe 2 constitue une opération d’initié au sens du présent article lorsque la personne qui utilise la recommandation ou l’incitation sait, ou devrait savoir, que celle-ci est basée sur des informations privilégiées.
+
+4. Le présent article s’applique à toute personne qui possède une information privilégiée en raison du fait que cette personne:
+
+a) est membre des organes d’administration, de gestion ou de surveillance de l’émetteur ou du participant au marché des quotas d’émission;
+
+b) détient une participation dans le capital de l’émetteur ou du participant au marché des quotas d’émission;
+
+c) a accès aux informations en raison de l’exercice de tâches résultant d’un emploi, d’une profession ou de fonctions; ou
+
+d) participe à des activités criminelles.
+
+Le présent article s’applique également à toute personne qui possède une information privilégiée dans des circonstances autres que celles visées au premier alinéa lorsque cette personne sait ou devrait savoir qu’il s’agit d’une information privilégiée.
+
+5. Lorsque la personne est une personne morale, le présent article s’applique également, conformément au droit national, aux personnes physiques qui participent à la décision de procéder à l’acquisition, à la cession, à l’annulation ou à la modification d’un ordre pour le compte de la personne morale concernée.
+
+<a id="art_9"></a>
+
+### Article 9 — Comportement légitime
+
+1. Aux fins des articles 8 et 14, il ne doit pas être considéré que le simple fait qu’une personne morale est en possession ou a été en possession d’une information privilégiée signifie que cette personne a utilisé cette information et a ainsi effectué une opération d’initié sur la base d’une acquisition ou d’une cession, lorsque cette personne morale:
+
+a) a établi, mis en œuvre et maintenu à jour des mesures et procédures internes appropriées et efficaces pour garantir de manière effective que ni la personne physique qui a pris la décision pour son compte d’acquérir ou de céder des instruments financiers auxquels l’information privilégiée se rapporte ni aucune autre personne physique qui aurait pu exercer une quelconque influence sur cette décision n’étaient en possession de l’information privilégiée; et
+
+b) n’a pas encouragé, recommandé, incité ou influencé d’une quelconque manière la personne physique qui a, pour le compte de la personne morale, acquis ou cédé des instruments financiers auxquels se rapporte l’information.
+
+2. Aux fins des articles 8 et 14, il ne doit pas être considéré que le simple fait qu’une personne est en possession d’une information privilégiée signifie que cette personne a utilisé cette information et a ainsi effectué une opération d’initié sur la base d’une acquisition ou d’une cession, lorsque cette personne:
+
+a) pour l’instrument financier auquel cette information se rapporte, est un teneur de marché ou une personne habilitée à agir comme contrepartie, et lorsque l’acquisition ou la cession des instruments financiers auxquels se rapporte cette information s’effectue légitimement dans le cadre normal de l’exercice de sa fonction en tant que teneur de marché ou de contrepartie pour cet instrument financier; ou
+
+b) est habilitée à exécuter des ordres pour le compte de tiers, et lorsque l’acquisition ou la cession des instruments financiers auxquels se rapportent ces ordres s’effectue dans le but légitime d’exécuter ceux-ci dans le cadre normal de l’exercice du travail, de la profession ou des fonctions de cette personne.
+
+3. Aux fins des articles 8 et 14, il ne doit pas être considéré que le simple fait qu’une personne est en possession d’une information privilégiée signifie que cette personne a utilisé cette information et a ainsi effectué une opération d’initié sur la base d’une acquisition ou d’une cession, lorsque cette personne effectue une transaction afin d’acquérir ou de céder des instruments financiers et que cette transaction est effectuée pour assurer l’exécution d’une obligation devenue exigible, en toute bonne foi et non dans le but de contourner l’interdiction d’opération d’initié, et:
+
+a) que cette obligation résulte d’un ordre passé ou d’une convention conclue avant que la personne concernée ne détienne une information privilégiée; ou
+
+b) que cette transaction est effectuée pour satisfaire à une obligation légale ou réglementaire née, avant que la personne concernée ne détienne une information privilégiée.
+
+4. Aux fins des articles 8 et 14, il ne doit pas être considéré que le simple fait qu’une personne est en possession d’une information privilégiée signifie que cette personne a utilisé cette information et a ainsi effectué une opération d’initié, lorsque cette personne a obtenu cette information privilégiée dans le cadre de la réalisation d’une offre publique d’acquisition sur, ou d’une fusion avec, une société, et utilise cette information privilégiée dans le seul but de mener à bien cette offre publique d’acquisition ou cette fusion, sous réserve qu’au moment de l’approbation de l’offre ou de la fusion par les actionnaires de cette société, toutes les informations privilégiées aient été rendues publiques ou aient cessé d’une autre façon d’être des informations privilégiées.
+
+Le présent paragraphe ne s’applique pas au ramassage en bourse.
+
+5. Aux fins des articles 8 et 14, le simple fait qu’une personne utilise le fait de savoir qu’elle a décidé d’acquérir ou de céder des instruments financiers dans le cadre de l’acquisition ou de la cession de ces instruments financiers ne constitue pas en soi une utilisation d’informations privilégiées.
+
+6. Nonobstant les paragraphes 1 à 5 du présent article, une violation de l’interdiction des opérations d’initiés énoncée à l’article 14 peut toujours être réputée avoir eu lieu si l’autorité compétente établit qu’il existait une raison illégitime pour les ordres, transactions ou comportements concernés.
+
+<a id="art_10"></a>
+
+### Article 10 — Divulgation illicite d’informations privilégiées
+
+1. Aux fins du présent règlement, une divulgation illicite d’informations privilégiées se produit lorsqu’une personne est en possession d’une information privilégiée et divulgue cette information à une autre personne, sauf lorsque cette divulgation a lieu dans le cadre normal de l’exercice d’un travail, d’une profession ou de fonctions.
+
+Le présent paragraphe s’applique à toute personne physique ou morale dans les situations ou les circonstances visées à l’article 8, paragraphe 4.
+
+2. Aux fins du présent règlement, la divulgation ultérieure des recommandations ou incitations visées à l’article 8, paragraphe 2, constitue une divulgation illicite d’informations privilégiées au titre du présent article lorsque la personne qui divulgue la recommandation ou l’incitation sait, ou devrait savoir, qu’elle était basée sur des informations privilégiées.
+
+<a id="art_11"></a>
+
+### Article 11 — Sondages de marché
+
+1. Un sondage de marché consiste en la communication d’informations, avant l’annonce d’une transaction, afin d’évaluer l’intérêt d’investisseurs potentiels pour une transaction éventuelle et les conditions attachées à celle-ci, telles que son volume ou ses conditions tarifaires éventuelles, à un ou plusieurs investisseurs potentiels:
+
+a) par un émetteur;
+
+b) par un offreur secondaire d’un instrument financier, concernant des quantités et valeurs telles que la transaction se distingue des négociations ordinaires et implique une méthode de vente basée sur l’évaluation préalable de l’intérêt éventuel des investisseurs potentiels;
+
+c) par un participant au marché des quotas d’émission; ou
+
+d) par un tiers agissant au nom ou pour le compte d’une personne visée au point a), b) ou c).
+
+2. Sans préjudice de l’article 23, paragraphe 3, la communication d’informations privilégiées par une personne ayant l’intention de faire une offre publique d’achat sur les titres d’une société ou de proposer une fusion avec une société, aux parties ayant des droits sur les titres, constitue également un sondage de marché, sous réserve que:
+
+a) les informations soient nécessaires pour permettre aux parties ayant des droits sur les titres de décider si elles souhaitent, ou non, offrir leurs titres; et
+
+b) la volonté des parties ayant des droits sur les titres d’offrir leurs titres soit raisonnablement requise pour que soit prise la décision de procéder à l’offre publique d’achat ou à la fusion.
+
+3. Un participant au marché communicant, avant de procéder à un sondage de marché, détermine de façon spécifique si le sondage de marché impliquera la communication d’informations privilégiées. Le participant au marché communicant consigne par écrit sa conclusion ainsi que les raisons l’ayant amené à cette conclusion. Il fournit, sur demande, ces documents écrits à l’autorité compétente. Cette obligation s’applique à chaque communication d’informations tout au long du sondage de marché. Le participant au marché communicant met à jour les documents écrits visés au présent paragraphe en conséquence.
+
+4. Aux fins de l’article 10, paragraphe 1, une divulgation d’informations privilégiées dans le cadre d’un sondage de marché est réputée avoir eu lieu dans le cadre normal de l’exercice d’un travail, d’une profession ou de fonctions lorsque le participant au marché communicant satisfait aux paragraphes 3 et 5 du présent article.
+
+5. Aux fins du paragraphe 4, le participant au marché communicant doit, avant de procéder à la divulgation:
+
+a) obtenir le consentement de la personne visée par le sondage de marché à recevoir des informations privilégiées;
+
+b) informer la personne visée par le sondage de marché qu’il lui est interdit d’utiliser ces informations, ou de tenter d’utiliser ces informations, en acquérant ou en cédant, pour son compte propre ou pour le compte d’un tiers, directement ou indirectement, les instruments financiers auxquels se rapportent ces informations;
+
+c) informer la personne visée par le sondage de marché qu’il lui est interdit d’utiliser ces informations, ou de tenter d’utiliser ces informations, en annulant ou en modifiant un ordre qui a déjà été passé concernant un instrument financier auquel se rapportent ces informations; et
+
+d) informer la personne visée par le sondage de marché qu’en acceptant de recevoir les informations, elle est obligée de garder ces informations confidentielles.
+
+Le participant au marché communicant fait et conserve un enregistrement de toutes les informations communiquées à la personne visée par le sondage de marché, y compris les informations fournies conformément aux points a) à d) du premier alinéa, et l’identité des investisseurs potentiels auxquels les informations ont été divulguées, y compris, mais pas uniquement, les personnes physiques et morales agissant au nom des investisseurs potentiels, et la date et l’heure de chaque communication. Le participant au marché communicant fournit cet enregistrement à l’autorité compétente, à la demande de celle-ci.
+
+6. Lorsque des informations ont été divulguées dans le cadre d’un sondage de marché et que ces informations cessent d’être des informations privilégiées selon l’évaluation du participant au marché communicant, le participant au marché communicant en informe dès que possible la personne qui a reçu ces informations.
+
+Le participant au marché communicant conserve un enregistrement des informations fournies conformément au présent paragraphe et le fournit à l’autorité compétente, à la demande de celle-ci.
+
+7. Nonobstant les dispositions du présent article, la personne visée par le sondage de marché évalue elle-même si elle est en possession d’informations privilégiées ou quand elle cesse d’être en possession d’informations privilégiées.
+
+8. Le participant au marché communicant conserve les enregistrements visés au présent article pour une période d’au moins cinq ans.
+
+9. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation visant à définir des mesures, des procédures et des obligations en matière d’enregistrement adéquates pour permettre aux personnes de respecter les obligations fixées aux paragraphes 4, 5, 6 et 8.
+
+L’AEMF soumet les projets de normes techniques de réglementation à la Commission au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+10. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution déterminant les systèmes et les modèles de notification à utiliser par les personnes pour respecter les exigences établies aux paragraphes 4, 5, 6 et 8 du présent article, en particulier le format précis des registres visés aux paragraphes 4 à 8, les moyens techniques adéquats pour communiquer les informations visées au paragraphe 6 à la personne visée par le sondage de marché.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+11. L’AEMF émet des orientations conformément à l’article 16 du règlement (UE) no 1095/2010, destinées aux personnes visées par le sondage de marché, concernant:
+
+a) les facteurs que ces personnes doivent prendre en compte lorsque des informations leur sont communiquées dans le cadre d’un sondage de marché afin d’évaluer si ces informations constituent des informations privilégiées;
+
+b) les mesures que ces personnes doivent prendre si des informations privilégiées leur ont été communiquées, pour respecter les articles 8 et 10 du présent règlement; et
+
+c) les enregistrements que ces personnes doivent conserver pour démontrer qu’elles ont respecté les articles 8 et 10 du présent règlement.
+
+<a id="art_12"></a>
+
+### Article 12 — Manipulations de marché
+
+1. Aux fins du présent règlement, la notion de «manipulation de marché» couvre les activités suivantes:
+
+a) effectuer une transaction, passer un ordre ou adopter tout autre comportement qui:
+
+i) donne ou est susceptible de donner des indications fausses ou trompeuses en ce qui concerne l’offre, la demande ou le cours d’un instrument financier, d’un contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission; ou
+
+ii) fixe ou est susceptible de fixer à un niveau anormal ou artificiel le cours d’un ou de plusieurs instruments financiers, d’un contrat au comptant sur matières premières qui leur est lié ou d’un produit mis aux enchères sur la base des quotas d’émission;
+
+à moins que la personne effectuant une transaction, passant un ordre ou adoptant tout autre comportement établisse qu’une telle transaction, un tel ordre ou un tel comportement a été réalisé pour des raisons légitimes et est conforme aux pratiques de marché admises telles qu’établies conformément à l’article 13;
+
+b) effectuer une transaction, passer un ordre ou effectuer toute autre activité ou adopter tout autre comportement influençant ou étant susceptible d’influencer le cours d’un ou de plusieurs instruments financiers, d’un contrat au comptant sur matières premières qui leur est lié ou d’un produit mis aux enchères sur la base des quotas d’émission en ayant recours à des procédés fictifs ou à toute autre forme de tromperie ou d’artifice;
+
+c) diffuser des informations, que ce soit par l’intermédiaire des médias, dont l’internet, ou par tout autre moyen, qui donnent ou sont susceptibles de donner des indications fausses ou trompeuses en ce qui concerne l’offre, la demande ou le cours d’un instrument financier, d’un contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission, ou fixent ou sont susceptibles de fixer à un niveau anormal ou artificiel le cours d’un ou de plusieurs instruments financiers, d’un contrat au comptant sur matières premières qui leur est lié ou d’un produit mis aux enchères sur la base des quotas d’émission, y compris le fait de répandre des rumeurs, alors que la personne ayant procédé à une telle diffusion savait ou aurait dû savoir que ces informations étaient fausses ou trompeuses;
+
+d) transmettre des informations fausses ou trompeuses ou fournir des données fausses ou trompeuses sur un indice de référence lorsque la personne qui a transmis ces informations ou fourni ces données savait ou aurait dû savoir qu’elles étaient fausses ou trompeuses, ou tout autre comportement constituant une manipulation du calcul d’un indice de référence.
+
+2. Les comportements suivants sont, entre autres, considérés comme des manipulations de marché:
+
+a) le fait, pour une personne ou pour plusieurs personnes agissant de manière concertée, de s’assurer une position dominante sur l’offre ou la demande d’un instrument financier, de contrats au comptant sur matières premières qui lui sont liés ou de produits mis aux enchères basés sur des quotas d’émission, avec pour effet, réel ou potentiel, la fixation directe ou indirecte des prix d’achat ou des prix de vente ou la création, réelle ou potentielle, d’autres conditions de transaction inéquitables;
+
+b) le fait d’acheter ou de vendre des instruments financiers, au moment de l’ouverture ou de la clôture du marché, avec pour effet, réel ou potentiel, d’induire en erreur les investisseurs agissant sur la base des cours affichés, y compris lors de l’ouverture ou de la clôture;
+
+c) le fait de passer des ordres à une plate-forme de négociation, y compris d’annuler ou de modifier ces ordres, en ayant recours à tout moyen disponible de trading, y compris des moyens électroniques, tels que les stratégies de trading algorithmiques et à haute fréquence, lorsque cela a l’un des effets visés au paragraphe 1, point a) ou b):
+
+i) en perturbant ou en retardant, ou en risquant de perturber ou de retarder, le fonctionnement du système de négociation de la plate-forme de négociation;
+
+ii) en compliquant la reconnaissance par d’autres personnes des véritables ordres dans le système de négociation de la plate-forme de négociation ou en étant susceptible d’agir ainsi, y compris en émettant des ordres qui entraînent une surcharge ou une déstabilisation du carnet d’ordres; ou
+
+iii) en créant, ou en étant susceptible de créer, une indication fausse ou trompeuse quant à l’offre, à la demande ou au cours d’un instrument financier, notamment en émettant des ordres visant à initier ou à exacerber une tendance;
+
+d) le fait de tirer parti d’un accès occasionnel ou régulier aux médias traditionnels ou électroniques en émettant un avis sur un instrument financier, sur un contrat au comptant sur matières premières qui lui est lié ou sur un produit mis aux enchères sur la base des quotas d’émission (ou indirectement sur son émetteur) après avoir pris des positions sur cet instrument financier, sur un contrat au comptant sur matières premières qui lui est lié ou sur un produit mis aux enchères sur la base des quotas d’émission et de profiter par la suite de l’impact dudit avis sur le cours de cet instrument, de ce contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission sans avoir simultanément rendu public, de manière appropriée et efficace, ce conflit d’intérêts;
+
+e) le fait de vendre ou d’acheter sur le marché secondaire, avant la séance d’enchères organisée en vertu du règlement (UE) no 1031/2010, des quotas d’émission ou des instruments dérivés qui leur sont liés, avec pour effet de fixer le prix de clôture des produits mis aux enchères à un niveau anormal ou artificiel, ou d’induire en erreur les enchérisseurs.
+
+3. Aux fins de l’application du paragraphe 1, points a) et b), et sans préjudice des comportements cités au paragraphe 2, l’annexe I contient une liste non exhaustive d’indicateurs liés au recours à des procédés fictifs ou à toute autre forme de tromperie ou d’artifice, ainsi qu’une liste non exhaustive d’indicateurs relatifs au fait de donner des indications fausses ou trompeuses ou de fixer les cours à un niveau anormal ou artificiel.
+
+4. Lorsque la personne visée dans le présent article est une personne morale, le présent article s’applique également, conformément au droit national, aux personnes physiques qui prennent part à la décision de mener des activités pour le compte de la personne morale concernée.
+
+5. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35, précisant les indicateurs figurant à l’annexe I, afin de clarifier leurs éléments et de tenir compte des évolutions techniques sur les marchés financiers.
+
+<a id="art_13"></a>
+
+### Article 13 — Pratiques de marché admises
+
+1. L’interdiction prévue à l’article 15 ne s’applique pas aux activités visées à l’article 12, paragraphe 1, point a), sous réserve que la personne qui effectue une transaction, passe un ordre ou adopte tout autre comportement établisse que cette transaction, cet ordre ou ce comportement répond à des raisons légitimes, et est conforme aux pratiques de marché admises, établies conformément au présent article.
+
+2. Une autorité compétente peut instaurer une pratique de marché admise, en tenant compte des critères suivants:
+
+a) si la pratique de marché prévoit un niveau élevé de transparence au regard du marché;
+
+b) si la pratique de marché offre des garanties élevées au regard du fonctionnement des forces du marché et de l’interaction adéquate entre l’offre et la demande;
+
+c) si la pratique de marché a un impact positif sur la liquidité et l’efficience du marché;
+
+d) si la pratique de marché prend en compte les mécanismes de négociation du marché en question et permet aux participants à ce marché de réagir de manière adéquate et rapide à la nouvelle situation de marché qu’elle a créée;
+
+e) si la pratique de marché ne présente pas de risque pour l’intégrité des marchés directement ou indirectement liés, sur lesquels se négocie l’instrument financier concerné dans l’Union, qu’ils soient ou non réglementés;
+
+f) les conclusions de toute enquête sur la pratique de marché concernée réalisée par toute autorité compétente ou par une autre autorité, en particulier si la pratique de marché concernée a enfreint des règles ou dispositions destinées à prévenir les abus de marché ou des codes de conduite, que ce soit sur le marché en question ou sur des marchés directement ou indirectement liés au sein de l’Union; et
+
+g) les caractéristiques structurelles du marché concerné, notamment son caractère réglementé ou non, les types d’instruments financiers négociés et les types de participants à ce marché, y compris le niveau de la participation des investisseurs de détail.
+
+Une pratique de marché qui a été instaurée par une autorité compétente comme étant une pratique de marché admise sur un marché donné n’est pas considérée comme applicable à d’autres marchés, à moins que les autorités compétentes de ces autres marchés n’aient officiellement admis cette pratique en vertu du présent article.
+
+3. Avant d’instaurer une pratique de marché admise conformément au paragraphe 2, l’autorité compétente notifie à l’AEMF et aux autres autorités compétentes son intention d’instaurer une pratique de marché admise et fournit des précisions sur l’évaluation effectuée conformément aux critères prévus au paragraphe 2. Cette notification intervient au plus tard trois mois avant la date escomptée d’entrée en vigueur de la pratique de marché admise.
+
+4. Dans les deux mois suivant la réception de la notification, l’AEMF émet à l’intention de l’autorité compétente notifiante un avis appréciant la compatibilité de la pratique de marché admise avec le paragraphe 2 et avec les normes techniques de réglementation adoptées en vertu du paragraphe 7. L’AEMF évalue également si l’instauration de la pratique de marché admise ne risque pas d’altérer la confiance du marché sur le marché financier de l’Union. L’avis de l’AEMF est publié sur son site internet.
+
+5. Lorsqu’une autorité compétente instaure une pratique de marché admise qui est contraire à l’avis émis par l’AEMF conformément au paragraphe 4, elle publie sur son site internet, dans les 24 heures à compter de l’instauration de la pratique de marché admise, une note dans laquelle elle expose en détail les motifs de sa décision, en particulier les raisons pour lesquelles la pratique de marché admise ne risque pas d’altérer la confiance du marché.
+
+6. Lorsqu’une autorité compétente estime qu’une autre autorité compétente a instauré une pratique de marché admise qui ne satisfait pas aux critères énoncés au paragraphe 2, l’AEMF aide les autorités concernées à parvenir à un accord dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.
+
+Si les autorités compétentes concernées ne parviennent pas à trouver un accord, l’AEMF peut prendre une décision conformément à l’article 19, paragraphe 3, du règlement (UE) no 1095/2010.
+
+7. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation précisant les critères, la procédure et les exigences liés à l’instauration d’une pratique de marché admise au titre des paragraphes 2, 3 et 4 ainsi que les exigences liées à son maintien, à sa suppression ou à la modification de ses conditions d’admission.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+8. Les autorités compétentes procèdent régulièrement et au moins tous les deux ans au réexamen des pratiques de marché admises qu’elles ont instaurées, en particulier pour tenir compte des évolutions significatives dans l’environnement du marché concerné, telles que des modifications des règles de négociation ou de l’infrastructure de marché, afin de décider si elles les maintiennent, les suppriment ou si elles modifient leurs conditions d’admission.
+
+9. L’AEMF publie sur son site internet la liste des pratiques de marché admises et celle des États membres où elles sont applicables.
+
+10. L’AEMF surveille l’application des pratiques de marché admises et remet chaque année à la Commission un rapport au sujet de leur application sur les marchés concernés.
+
+11. Les autorités compétentes notifient à l’AEMF les pratiques de marché admises qu’elles ont instaurées avant le 2 juillet 2014 dans les trois mois à compter de l’entrée en vigueur des normes techniques de réglementation visées au paragraphe 7.
+
+Les pratiques de marché admises visées au premier alinéa du présent paragraphe continuent à s’appliquer dans l’État membre concerné jusqu’à ce que l’autorité compétente ait pris une décision concernant la poursuite de ces pratiques à la suite de l’avis émis par l’AEMF au titre du paragraphe 4.
+
+<a id="art_14"></a>
+
+### Article 14 — Interdiction des opérations d’initiés et de la divulgation illicite d’informations privilégiées
+
+Une personne ne doit pas:
+
+a) effectuer ou tenter d’effectuer des opérations d’initiés;
+
+b) recommander à une autre personne d’effectuer des opérations d’initiés ou inciter une autre personne à effectuer des opérations d’initiés; ou
+
+c) divulguer illicitement des informations privilégiées.
+
+<a id="art_15"></a>
+
+### Article 15 — Interdiction des manipulations de marché
+
+Une personne ne doit pas effectuer des manipulations de marché ni tenter d’effectuer des manipulations de marché.
+
+<a id="art_16"></a>
+
+### Article 16 — Prévention et détection des abus de marché
+
+1. Les opérateurs de marché et les entreprises d’investissement qui gèrent une plate-forme de négociation établissent et maintiennent des mesures, systèmes et procédures efficaces visant à prévenir et à détecter les opérations d’initiés, les manipulations de marché et les tentatives d’opérations d’initiés et de manipulations de marché conformément aux articles 31 et 54 de la directive 2014/65/UE.
+
+La personne visée au premier alinéa déclare sans retard à l’autorité compétente les ordres et les transactions, y compris toute annulation ou modification les concernant, qui pourraient constituer des opérations d’initiés, des manipulations de marché ou des tentatives d’opération d’initié ou de manipulation de marché.
+
+2. Toute personne qui organise ou exécute des transactions à titre professionnel établit et maintient des mesures, systèmes et procédures efficaces en vue de la détection et de la déclaration des ordres et des transactions suspects. Lorsque cette personne a des motifs raisonnables de suspecter qu’un ordre ou une transaction portant sur tout instrument financier, que cet ordre ait été passé ou cette transaction exécutée sur ou en dehors d’une plate-forme de négociation, pourrait constituer une opération d’initié, une manipulation de marché ou une tentative d’opération d’initié ou de manipulation de marché, elle le notifie sans retard à l’autorité compétente visée au paragraphe 3.
+
+3. Sans préjudice de l’article 22, les personnes qui organisent ou exécutent des transactions à titre professionnel sont soumises aux règles de notification de l’État membre dans lequel elles ont leur siège social ou leur administration centrale ou, dans le cas d’une succursale, de l’État membre où celle-ci est située. La notification est adressée à l’autorité compétente de cet État membre.
+
+4. Les autorités compétentes visées au paragraphe 3 auxquelles des ordres ou des transactions suspects sont notifiés transmettent immédiatement cette information aux autorités compétentes des plates-formes de négociation concernées.
+
+5. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation visant à définir:
+
+a) des mesures, systèmes et procédures adéquats pour que les personnes respectent les exigences établies aux paragraphes 1 et 2; et
+
+b) les modèles de notification à utiliser par les personnes pour respecter les exigences établies aux paragraphes 1 et 2.
+
+L’AEMF soumet les projets de normes techniques de réglementation à la Commission au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+## CHAPITRE 3
+
+### **OBLIGATIONS EN MATIÈRE DE DIVULGATION**
+
+<a id="art_17"></a>
+
+### Article 17 — Publication d’informations privilégiées
+
+1. Tout émetteur rend publiques, dès que possible, les informations privilégiées qui concernent directement ledit émetteur.
+
+L’émetteur veille à ce que les informations privilégiées soient rendues publiques d’une façon permettant un accès rapide et complet à ces informations ainsi qu’une évaluation correcte et rapide de celles-ci par le public et, le cas échéant, par le biais du mécanisme officiellement désigné visé à l’article 21 de la directive 2004/109/CE du Parlement européen et du Conseil (7). L’émetteur ne combine pas la publication d’informations privilégiées avec la commercialisation de ses activités. L’émetteur affiche et conserve sur son site internet, pour une période d’au moins cinq ans, toutes les informations privilégiées qu’il est tenu de publier.
+
+Le présent article s’applique aux émetteurs qui ont sollicité ou approuvé l’admission de leurs instruments financiers à la négociation sur un marché réglementé dans un État membre ou, s’il s’agit d’un instrument qui est négocié uniquement sur un MTF ou sur un OTF, aux émetteurs qui ont approuvé la négociation de leurs instruments financiers sur un MTF ou sur un OTF, ou qui ont sollicité l’admission à la négociation de leurs instruments financiers sur un MTF dans un État membre.
+
+2. Tout participant au marché des quotas d’émission publie efficacement et en temps opportun les informations privilégiées relatives aux quotas d’émission qu’il détient du fait de ses activités, y compris les activités aéronautiques définies à l’annexe I de la directive 2003/87/CE ou les installations au sens de l’article 3, point e), de ladite directive que le participant concerné, son entreprise mère ou une entreprise liée possède ou contrôle ou pour lesquelles le participant, son entreprise mère ou une entreprise liée est chargé des questions opérationnelles, dans leur ensemble ou en partie. En ce qui concerne les installations, cette publication comprend des informations pertinentes sur leur capacité et leur utilisation, y compris toute indisponibilité prévue ou imprévue de ces installations.
+
+Le premier alinéa ne s’applique pas à un participant au marché des quotas d’émission lorsque les installations ou activités aéronautiques qu’il possède ou contrôle, ou dont il est responsable, ont présenté au cours de l’année précédente des émissions égales ou inférieures à un seuil minimal d’équivalent-dioxyde de carbone et, lorsqu’il exerce des activités de combustion, ont présenté une puissance thermique nominale égale ou inférieure à un seuil minimal.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35 établissant un seuil minimal d’équivalent-dioxyde de carbone et un seuil minimal de puissance thermique nominale aux fins de l’application de la dérogation prévue par le deuxième alinéa du présent paragraphe.
+
+3. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35 précisant l’autorité compétente pour les notifications visées aux paragraphes 4 et 5 du présent article.
+
+4. Tout émetteur ou participant au marché des quotas d’émission peut, sous sa propre responsabilité, différer la publication d’une information privilégiée à condition que toutes les conditions suivantes soient réunies:
+
+a) la publication immédiate est susceptible de porter atteinte aux intérêts légitimes de l’émetteur ou du participant au marché des quotas d’émission;
+
+b) le retard de publication n’est pas susceptible d’induire le public en erreur;
+
+c) l’émetteur ou le participant au marché des quotas d’émission est en mesure d’assurer la confidentialité de ladite information.
+
+Dans le cas d’un processus qui se déroule en plusieurs étapes et qui vise à donner lieu à, ou qui résulte en, une certaine circonstance ou un certain événement, un émetteur ou un participant au marché des quotas d’émission peut, sous sa propre responsabilité, différer la publication d’une information privilégiée liée à ce processus, sous réserve des points a), b) et c) du premier alinéa.
+
+Lorsqu’un émetteur ou un participant au marché des quotas d’émission a différé la publication d’une information privilégiée au titre du présent paragraphe, il informe l’autorité compétente précisée au paragraphe 3, immédiatement après la publication de l’information, que la publication a été différée et fait état, par écrit, de la manière dont les conditions énoncées au présent paragraphe ont été satisfaites. À titre de solution de substitution, les États membres peuvent prévoir que l’enregistrement de ces explications ne doit être présenté que sur demande de l’autorité compétente précisée au paragraphe 3.
+
+5. Afin de préserver la stabilité du système financier, un émetteur qui est un établissement de crédit ou un établissement financier peut, sous sa propre responsabilité, différer la publication d’une information privilégiée, y compris les informations liées à un problème temporaire de liquidité, et notamment à la nécessité d’une aide d’urgence en matière de liquidité de la part d’une banque centrale ou d’un prêteur en dernier ressort, à condition que toutes les conditions suivantes soient satisfaites:
+
+a) la publication de l’information privilégiée risque de nuire à la stabilité financière de l’émetteur et du système financier;
+
+b) il est dans l’intérêt public de différer sa publication;
+
+c) la confidentialité de cette information peut être assurée; et
+
+d) l’autorité compétente précisée au paragraphe 3 a consenti à ce que la publication soit différée au motif que les conditions énoncées aux points a), b) et c) sont satisfaites.
+
+6. Aux fins des points a) à d) du paragraphe 5, un émetteur notifie à l’autorité compétente précisée au paragraphe 3 son intention de différer la publication de l’information privilégiée et fournit la preuve que les conditions énoncées aux points a), b) et c) du paragraphe 5 sont satisfaites. L’autorité compétente précisée au paragraphe 3 consulte, s’il y a lieu, la banque centrale nationale ou l’autorité macroprudentielle, lorsqu’elle a été établie, ou, dans le cas contraire, les autorités suivantes:
+
+a) si l’émetteur est un établissement de crédit ou une entreprise d’investissement, l’autorité désignée conformément à l’article 133, paragraphe 1, de la directive 2013/36/UE du Parlement européen et du Conseil (8);
+
+b) dans les cas autres que ceux visés au point a), toute autre autorité nationale chargée de la surveillance de l’émetteur.
+
+L’autorité compétente précisée au paragraphe 3 veille à ce que la publication de l’information privilégiée ne soit différée que pour une durée nécessaire dans l’intérêt public. L’autorité compétente précisée au paragraphe 3 évalue au moins chaque semaine si les conditions énoncées aux points a), b) et c) du paragraphe 5 sont toujours satisfaites.
+
+Si l’autorité compétente précisée au paragraphe 3 n’autorise pas le report de la publication de l’information privilégiée, l’émetteur communique l’information privilégiée immédiatement.
+
+Le présent paragraphe s’applique aux cas où l’émetteur ne prend pas la décision de différer la publication d’une information privilégiée conformément au paragraphe 4.
+
+La référence au présent paragraphe à l’autorité compétente précisée au paragraphe 3 contenue dans le présent paragraphe est sans préjudice de la capacité de l’autorité compétente à exercer ses fonctions selon n’importe laquelle des modalités visées à l’article 23, paragraphe 1.
+
+7. Si la publication d’une information privilégiée a été différée conformément au paragraphe 4 ou 5 et que la confidentialité de cette information privilégiée n’est plus assurée, l’émetteur ou le participant au marché des quotas d’émission publie cette information privilégiée dès que possible.
+
+Le présent paragraphe inclut les situations où une rumeur fait explicitement référence à une information privilégiée dont la publication a été différée conformément au paragraphe 4 ou 5, lorsque cette rumeur est suffisamment précise pour que la confidentialité de cette information ne soit plus assurée.
+
+8. Lorsqu’un émetteur ou un participant au marché des quotas d’émission, ou une personne agissant au nom ou pour le compte de ceux-ci, communique une information privilégiée à un tiers dans l’exercice normal d’un travail, d’une profession ou de fonctions, tels que visés à l’article 10, paragraphe 1, ils sont tenus de rendre cette information intégralement et effectivement publique, simultanément en cas de communication intentionnelle, et rapidement en cas de communication non intentionnelle. Le présent paragraphe ne s’applique pas lorsque la personne qui reçoit l’information est tenue par une obligation de confidentialité, que cette obligation soit légale, réglementaire, statutaire ou contractuelle.
+
+9. Une information privilégiée qui se rapporte aux émetteurs dont les instruments financiers sont admis à la négociation sur un marché de croissance des PME peut être publiée sur le site internet de la plate-forme de négociation au lieu du site internet de l’émetteur, lorsque celle-ci choisit de fournir ce service aux émetteurs opérant sur ce marché.
+
+10. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution visant à définir:
+
+a) les modalités techniques selon lesquelles les informations privilégiées sont publiées, comme le prévoient les paragraphes 1, 2, 8 et 9; et
+
+b) les modalités techniques selon lesquelles la publication d’informations privilégiées est différée, comme le prévoient les paragraphes 4 et 5.
+
+L’AEMF soumet les projets de normes techniques d’exécution à la Commission, au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+11. L’AEMF émet des orientations en vue de l’établissement d’une liste indicative et non exhaustive des intérêts légitimes des émetteurs visés au point a) du paragraphe 4, et des situations dans lesquelles le retard de la publication d’informations privilégiées tel que visé au paragraphe 4, point b), est susceptible d’induire le public en erreur.
+
+<a id="art_18"></a>
+
+### Article 18 — Listes d’initiés
+
+1. Les émetteurs ou toute personne agissant en leur nom ou pour leur compte:
+
+a) établissent une liste de toutes les personnes qui ont accès aux informations privilégiées, et qui travaillent pour eux en vertu d’un contrat de travail ou exécutent d’une autre manière des tâches leur donnant accès à des informations privilégiées, comme les conseillers, les comptables ou les agences de notation de crédit (ci-après dénommée «liste d’initiés»);
+
+b) mettent cette liste d’initiés à jour rapidement conformément au paragraphe 4; et
+
+c) communiquent la liste d’initiés à l’autorité compétente dès que possible à la demande de celle-ci.
+
+2. Les émetteurs ou toute personne agissant en leur nom ou pour leur compte prennent toutes les mesures raisonnables pour s’assurer que les personnes figurant sur la liste d’initiés reconnaissent par écrit les obligations légales et réglementaires correspondantes et aient connaissance des sanctions applicables aux opérations d’initiés et à la divulgation illicite d’informations privilégiées.
+
+Lorsqu’une autre personne agissant au nom ou pour le compte de l’émetteur se charge d’établir et de mettre à jour la liste d’initiés, l’émetteur demeure pleinement responsable du respect du présent article. L’émetteur garde toujours un droit d’accès à la liste d’initiés.
+
+3. La liste d’initiés contient à tout le moins:
+
+a) l’identité de toute personne ayant accès à des informations privilégiées;
+
+b) la raison pour laquelle cette personne figure sur la liste d’initiés;
+
+c) la date et l’heure auxquelles cette personne a eu accès aux informations privilégiées; et
+
+d) la date à laquelle la liste d’initiés a été établie.
+
+4. Les émetteurs ou toute personne agissant en leur nom ou pour leur compte mettent la liste d’initiés à jour rapidement, y compris la date de la mise à jour, dans les circonstances suivantes:
+
+a) en cas de changement du motif pour lequel une personne a déjà été inscrite sur la liste d’initiés;
+
+b) lorsqu’une nouvelle personne a accès aux informations privilégiées et doit, par conséquent, être ajoutée à la liste d’initiés; et
+
+c) lorsqu’une personne cesse d’avoir accès aux informations privilégiées.
+
+Chaque mise à jour précise la date et l’heure auxquelles sont survenus les changements entraînant la mise à jour.
+
+5. Les émetteurs ou toute personne agissant en leur nom ou pour leur compte conservent la liste d’initiés pour une période d’au moins cinq ans après son établissement ou sa mise à jour.
+
+6. Les émetteurs dont les instruments financiers sont admis à la négociation sur un marché de croissance des PME sont dispensés d’établir une liste d’initiés, sous réserve que les conditions suivantes soient satisfaites:
+
+a) les émetteurs prennent toutes mesures raisonnables pour s’assurer que toutes les personnes ayant accès à des informations privilégiées reconnaissent les obligations légales et réglementaires correspondantes et aient connaissance des sanctions applicables aux opérations d’initiés, et à la divulgation illicite d’informations privilégiées; et
+
+b) les émetteurs peuvent fournir à l’autorité compétente, sur demande, une liste d’initiés.
+
+7. Le présent article s’applique aux émetteurs qui ont sollicité ou approuvé l’admission de leurs instruments financiers à la négociation sur un marché réglementé dans un État membre ou, s’il s’agit d’un instrument négocié exclusivement sur un MTF ou sur un OTF, ont approuvé la négociation de leurs instruments financiers sur un MTF ou sur un OTF ou ont sollicité l’admission à la négociation de leurs instruments financiers sur un MTF dans un État membre.
+
+8. Les paragraphes 1 à 5 du présent article s’appliquent également:
+
+a) aux participants au marché des quotas d’émission en ce qui concerne les informations privilégiées concernant les quotas d’émission portant sur les opérations physiques de ces participants au marché des quotas d’émission;
+
+b) à toute plate-forme d’enchères, à tout adjudicateur et à l’instance de surveillance des enchères en ce qui concerne les mises aux enchères de quotas d’émission ou d’autres produits mis aux enchères basés sur ces derniers, organisées en vertu du règlement (UE) no 1031/2010.
+
+9. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution visant à définir le format précis des listes d’initiés et le format de mise à jour des listes d’initiés visées au présent article.
+
+L’AEMF soumet les projets de normes techniques d’exécution à la Commission, au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_19"></a>
+
+### Article 19 — Transactions effectuées par les personnes exerçant des responsabilités dirigeantes
+
+1. Les personnes exerçant des responsabilités dirigeantes et les personnes ayant un lien étroit avec elles notifient à l’émetteur ou au participant au marché des quotas d’émission et à l’autorité compétente visée au deuxième alinéa du paragraphe 2:
+
+a) en ce qui concerne les émetteurs, toute transaction effectuée pour leur compte propre et se rapportant aux actions ou à des titres de créance dudit émetteur, ou à des instruments dérivés ou à d’autres instruments financiers qui leur sont liés;
+
+b) en ce qui concerne les participants au marché des quotas d’émission, toute transaction effectuée pour leur compte propre ayant trait à des quotas d’émission, à des produits mis aux enchères basés sur ces derniers ou à des instruments dérivés qui leur sont liés.
+
+Ces notifications sont effectuées rapidement et au plus tard trois jours ouvrés après la date de la transaction.
+
+Le premier alinéa s’applique une fois que le montant total des transactions a atteint le seuil énoncé au paragraphe 8 ou 9, selon le cas, au cours d’une année civile.
+
+1 *bis*. L'obligation de notification visée au paragraphe 1 ne s'applique pas aux transactions portant sur des instruments financiers liés à des actions ou à des titres de créance de l'émetteur visé audit paragraphe lorsque, au moment de la transaction, l'une des conditions suivantes est remplie:
+
+a) l'instrument financier est une part ou une action d'un organisme de placement collectif dans lequel l'exposition aux actions ou aux titres de créance de l'émetteur ne dépasse pas 20 % des actifs détenus par cet organisme de placement collectif;
+
+b) l'instrument financier fournit une exposition à un portefeuille d'actifs dans lequel l'exposition aux actions ou aux titres de créance de l'émetteur ne dépasse pas 20 % des actifs du portefeuille;
+
+c) l'instrument financier est une part ou une action d'un organisme de placement collectif ou fournit une exposition à un portefeuille d'actifs et la personne exerçant des responsabilités dirigeantes ou la personne qui lui est étroitement liée ne connaît pas, et ne pouvait pas connaître, la composition de l'investissement ou l'exposition à un tel organisme de placement collectif ou portefeuille d'actifs en ce qui concerne les actions ou les titres de créance de l'émetteur, et elle n'a, en outre, aucune raison de penser que les actions ou les titres de créance de l'émetteur dépassent les seuils établis au point a) ou b).
+
+Si des informations relatives à la composition de l'investissement de l'organisme de placement collectif ou à l'exposition du portefeuille d'actifs sont disponibles, la personne exerçant des responsabilités dirigeantes ou la personne qui lui est étroitement liée déploie tous les efforts raisonnables pour tirer parti de ces informations.
+
+2. Aux fins du paragraphe 1, et sans préjudice du droit des États membres de prévoir des obligations de notification autres que celles visées au présent article, toutes les transactions effectuées pour le compte des personnes visées au paragraphe 1 sont notifiées par ces personnes aux autorités compétentes.
+
+Les règles applicables aux notifications que les personnes visées au paragraphe 1 sont tenues de respecter sont celles de l’État membre dans lequel l’émetteur ou le participant au marché des quotas d’émission a son siège social. ►C1 Les notifications sont effectuées dans un délai de trois jours ouvrés à compter de la date** ◄ ** de la transaction auprès de l’autorité compétente de cet État membre. Lorsque l’émetteur n’a pas son siège social dans un État membre, les notifications sont effectuées auprès de l’autorité compétente de l’État membre d’origine conformément à l’article 2, paragraphe 1, point i), de la directive 2004/109/CE ou, si elle n’existe pas, à l’autorité compétente de la plate-forme de négociation.
+
+3. L’émetteur ou le participant au marché de quotas d’émission veille à ce que ►C1 les informations notifiées conformément au paragraphe 1 soient publiées rapidement et au plus tard trois jours ouvrés suivant la transaction** ◄ **, d’une manière qui permette un accès rapide à ces informations sur une base non discriminatoire conformément aux normes techniques d’exécution visées à l’article 17, paragraphe 10, point a).
+
+L’émetteur ou le participant au marché des quotas d’émission recourt à des médias dont on peut raisonnablement attendre qu’ils assurent une diffusion efficace des informations auprès du public dans l’ensemble de l’Union et, le cas échéant, utilise le mécanisme officiellement désigné visé à l’article 21 de directive 2004/109/CE.
+
+À titre de solution de substitution, le droit national peut prévoir qu’une autorité compétente peut publier elle-même les informations.
+
+4. Le présent article s’applique aux émetteurs qui:
+
+a) ont sollicité ou approuvé l’admission de leurs instruments financiers à la négociation sur un marché réglementé; ou
+
+b) s’il s’agit d’un instrument négocié exclusivement sur un MTF ou sur un OTF, ont approuvé la négociation de leurs instruments financiers sur un MTF ou sur un OTF, ou ont sollicité l’admission à la négociation de leurs instruments financiers sur un MTF.
+
+5. Les émetteurs et les participants au marché des quotas d’émission notifient, par écrit, aux personnes exerçant des responsabilités dirigeantes leurs obligations au titre du présent article. Les émetteurs et les participants au marché des quotas d’émission établissent une liste de toutes les personnes exerçant des responsabilités dirigeantes et des personnes qui leur sont étroitement liées.
+
+Les personnes exerçant des responsabilités dirigeantes notifient, par écrit, aux personnes qui leur sont étroitement liées, leurs obligations au titre du présent article et conservent une copie de cette notification.
+
+6. La notification des transactions visées au paragraphe 1 comporte les informations suivantes:
+
+a) le nom de la personne;
+
+b) le motif de la notification;
+
+c) le nom de l’émetteur ou du participant au marché des quotas d’émission concerné;
+
+d) la description et l’identifiant de l’instrument financier;
+
+e) la nature de la ou des transactions (par exemple acquisition ou cession), en indiquant si elles sont liées à l’exercice de programmes d’options sur actions ou aux exemples spécifiques énoncés au paragraphe 7;
+
+f) la date et le lieu de la ou des transactions; et
+
+g) le prix et le volume de la ou des transactions. Dans le cas d’un gage dont les conditions prévoient un changement de valeur, cette information devrait être divulguée en même temps que sa valeur à la date du gage.
+
+7. Aux fins du paragraphe 1, les transactions à notifier comprennent également:
+
+a) la mise en gage ou le prêt d’instruments financiers par une personne exerçant des responsabilités dirigeantes ou une personne qui lui est étroitement liée, visée au paragraphe 1, ou au nom de celle-ci;
+
+b) les transactions effectuées par des personnes qui organisent ou exécutent des transactions à titre professionnel ou par une autre personne au nom d’une personne exerçant des responsabilités dirigeantes ou d’une personne qui lui est étroitement liée, telle que visée au paragraphe 1, y compris lorsqu’un pouvoir discrétionnaire est exercé;
+
+c) les transactions effectuées dans le cadre d’une police d’assurance vie, définie conformément à la directive 2009/138/CE du Parlement européen et du Conseil (9), où:
+
+i) le preneur d’assurance est une personne exerçant des responsabilités dirigeantes ou une personne qui lui est étroitement liée, visée au paragraphe 1;
+
+ii) le risque d’investissement est supporté par le preneur d’assurance; et
+
+iii) le preneur d’assurance a le pouvoir ou est libre de prendre des décisions d’investissement concernant des instruments spécifiques contenus dans cette police d’assurance vie ou d’exécuter des transactions concernant des instruments spécifiques contenus dans cette police d’assurance vie.
+
+Aux fins du point a), un gage ou une sûreté similaire portant sur des instruments financiers lié au dépôt des instruments financiers sur un compte de dépôt de titres ne doit pas être notifié, dès lors et tant que ce gage ou cette sûreté n'est pas destiné à garantir une ligne de crédit particulière.
+
+Aux fins du point b), les transactions exécutées portant sur des actions ou des titres de créance d'un émetteur, ou sur des produits dérivés ou d'autres instruments financiers qui y sont liés, par les gestionnaires d'un organisme de placement collectif dans lequel la personne exerçant des responsabilités dirigeantes ou une personne qui lui est étroitement liée a investi ne sont pas soumises à l'obligation de notification si le gestionnaire de l'organisme de placement collectif fait preuve d'une discrétion totale, ce qui exclut la possibilité pour le gestionnaire de recevoir des instructions ou des suggestions sur la composition du portefeuille, directement ou indirectement, par les investisseurs de cet organisme de placement collectif.
+
+Dès lors qu’un preneur d’assurance est tenu de notifier des transactions conformément au présent paragraphe, l’entreprise d’assurances n’est tenue par aucune obligation de notification.
+
+8. Le paragraphe 1 s’applique à toutes les transactions ultérieures une fois le montant total de 5 000 EUR atteint au cours d’une année civile. Le seuil de 5 000 EUR est calculé en ajoutant sans compensation toutes les transactions visées au paragraphe 1.
+
+9. Une autorité compétente peut décider de porter le seuil énoncé au paragraphe 8 à 20 000 EUR et informe l’AEMF de sa décision d’adopter un seuil plus élevé et des motifs de sa décision, en faisant spécifiquement référence aux conditions du marché, préalablement à son application. L’AEMF publie sur son site internet la liste des seuils qui s’appliquent conformément au présent article et les justifications fournies par les autorités compétentes concernant ces seuils.
+
+10. Le présent article s’applique également aux transactions effectuées par des personnes exerçant des responsabilités dirigeantes auprès de toute plate-forme d’enchères, de tout adjudicateur et de l’instance de surveillance des enchères participant aux enchères organisées en vertu du règlement (UE) no 1031/2010 et aux personnes qui leur sont étroitement liées, dès lors que leurs transactions impliquent des quotas d’émission, des instruments dérivés de ceux-ci ou des produits mis aux enchères basés sur ces derniers. Ces personnes notifient leurs transactions aux plates-formes d’enchères, aux adjudicateurs et à l’instance de surveillance des enchères, selon le cas, et à l’autorité compétente lorsque la plate-forme d’enchères, l’adjudicateur ou l’instance de surveillance des enchères, selon le cas, est enregistré. Les informations ainsi notifiées sont rendues publiques par les plates-formes d’enchères, les adjudicateurs, l’instance de surveillance des enchères ou l’autorité compétente conformément au paragraphe 3.
+
+11. Sans préjudice des articles 14 et 15, toute personne exerçant des responsabilités dirigeantes auprès d’un émetteur n’effectue aucune transaction pour son compte propre ou pour le compte d’un tiers, que ce soit directement ou indirectement, se rapportant aux actions ou à des titres de créance de l’émetteur ou à des instruments dérivés ou à d’autres instruments financiers qui leur sont liés, pendant une période d’arrêt de 30 jours calendaires avant l’annonce d’un rapport financier intermédiaire ou d’un rapport de fin d’année que l’émetteur est tenu de rendre public conformément:
+
+a) aux règles de la plate-forme de négociation sur laquelle les actions de l’émetteur sont admises à la négociation; ou
+
+b) au droit national.
+
+12. Sans préjudice des articles 14 et 15, un émetteur peut autoriser une personne exerçant des responsabilités dirigeantes en son sein à négocier pour son propre compte ou pour le compte d’un tiers pendant une période d’arrêt telle que visée au paragraphe 11:
+
+a) soit au cas par cas en raison de l’existence de circonstances exceptionnelles, telles que de graves difficultés financières, nécessitant la vente immédiate d’actions;
+
+b) soit en raison des spécificités de la négociation concernée dans le cas de transactions réalisées dans le cadre de, ou ayant trait à, un système d’actionnariat ou de plan d’épargne du personnel, l’accomplissement de formalités ou l’exercice de droits attachés aux actions, ou de transactions n’impliquant pas de changement dans la détention de la valeur concernée.
+
+13. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35 précisant les circonstances dans lesquelles la négociation peut être autorisée par l’émetteur pendant une période d’arrêt, comme visé au paragraphe 12, y compris les circonstances qui seraient considérées comme exceptionnelles et les types de transactions qui justifieraient l’autorisation de négociation.
+
+14. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 35 précisant les types de transactions qui déclencheraient l’exigence visée au paragraphe 1.
+
+15. Afin de garantir l’application uniforme du paragraphe 1, l’AEMF élabore des normes techniques d’exécution concernant le format et le modèle sous lesquels les informations visées au paragraphe 1 doivent être notifiées et rendues publiques.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_20"></a>
+
+### Article 20 — Recommandations d’investissement et statistiques
+
+1. Les personnes qui produisent ou diffusent des recommandations ou d’autres informations recommandant ou suggérant une stratégie d’investissement veillent, avec une diligence raisonnable, à ce que l’information soit présentée de manière objective et à ce qu’il soit fait mention de leurs intérêts ou de l’existence de conflits d’intérêts en rapport avec les instruments financiers auxquels se rapportent ces informations.
+
+2. Les institutions publiques diffusant des statistiques ou des prévisions susceptibles d’influencer de façon sensible les marchés financiers diffusent celles-ci de manière objective et transparente.
+
+3. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation visant à définir les modalités techniques permettant d’assurer, pour les catégories de personnes visées au paragraphe 1, la présentation objective de recommandations d’investissement ou d’autres informations recommandant ou suggérant une stratégie d’investissement et la communication d’intérêts particuliers ou de l’existence de conflits d’intérêts.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Les modalités techniques définies dans les normes techniques de réglementation visées au paragraphe 3 ne s’appliquent pas aux journalistes qui sont soumis à une réglementation équivalente appropriée dans un État membre, y compris une autorégulation équivalente appropriée, à condition que cette réglementation ait des effets semblables à ceux des modalités techniques. Les États membres communiquent le texte de cette réglementation équivalente appropriée à la Commission.
+
+<a id="art_21"></a>
+
+### Article 21 — Divulgation ou diffusion d’informations dans les médias
+
+Aux fins de l’article 10, de l’article 12, paragraphe 1, point c), et de l’article 20, lorsque des informations sont divulguées ou diffusées et lorsque des recommandations sont produites ou diffusées à des fins journalistiques ou aux fins d’autres formes d’expression dans les médias, cette divulgation ou cette diffusion d’informations est appréciée en tenant compte des règles régissant la liberté de la presse et la liberté d’expression dans les autres médias et des règles ou codes régissant la profession de journaliste, à moins que:
+
+a) les personnes concernées ou les personnes étroitement liées à celles-ci ne tirent, directement ou indirectement, un avantage ou des bénéfices de la divulgation ou de la diffusion des informations en question; ou
+
+b) la divulgation ou la diffusion n’ait lieu dans l’intention d’induire le marché en erreur quant à l’offre, à la demande ou au cours d’instruments financiers.
+
+## CHAPITRE 4
+
+### **L’AEMF ET LES AUTORITÉS COMPÉTENTES**
+
+<a id="art_22"></a>
+
+### Article 22 — Autorités compétentes
+
+Sans préjudice des compétences des autorités judiciaires, chaque État membre désigne une autorité administrative compétente unique aux fins du présent règlement. Les États membres en informent la Commission, l’AEMF et les autres autorités compétentes des autres États membres. L’autorité compétente veille à l’application des dispositions du présent règlement sur son territoire, en ce qui concerne l’ensemble des actions réalisées sur son territoire et les actions réalisées à l’étranger se rapportant à des instruments admis à la négociation sur un marché réglementé, pour lesquels une demande d’admission à la négociation sur un tel marché a été introduite, mis aux enchères sur une plate-forme d’enchères ou qui sont négociés sur un MTF ou sur un OTF ou pour lesquels une demande d’admission à la négociation a été présentée sur un MTF opérant sur son territoire.
+
+<a id="art_23"></a>
+
+### Article 23 — Pouvoirs des autorités compétentes
+
+1. Les autorités compétentes exercent leurs fonctions et leurs pouvoirs selon l’une ou l’autre des modalités suivantes:
+
+a) directement;
+
+b) en collaboration avec d’autres autorités ou avec les entreprises de marché;
+
+c) sous leur responsabilité, par délégation à ces autorités ou à des entreprises de marché;
+
+d) par saisine des autorités judiciaires compétentes.
+
+2. Afin de mener à bien leurs missions au titre du présent règlement, les autorités compétentes sont dotées, conformément au droit national, au moins des pouvoirs de surveillance et d’enquête suivants:
+
+a) avoir accès à tout document et à toute donnée, sous quelle que forme que ce soit, et en recevoir ou en prendre une copie;
+
+b) exiger des informations de toute personne ou leur en demander, y compris les personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi qu’aux mandants de celles-ci, et, si nécessaire, convoquer une personne et l’interroger afin d’obtenir des informations;
+
+c) en ce qui concerne les instruments dérivés sur matières premières, demander des informations aux participants au marché opérant sur les marchés au comptant qui leur sont liés selon des formats standards, obtenir des rapports sur des transactions et avoir un accès direct aux systèmes des opérateurs;
+
+d) procéder à des inspections sur place et à des enquêtes sur des sites autres que les résidences privées de personnes physiques;
+
+e) sous réserve du deuxième alinéa, pénétrer dans les locaux de personnes physiques et morales afin de saisir des documents et des données, sous quelle que forme que ce soit, lorsqu’il existe des raisons de suspecter que des documents ou des données liés à l’objet de l’inspection ou de l’enquête peuvent se révéler importants pour apporter la preuve d’un cas d’opération d’initié ou de manipulation de marché en violation du présent règlement;
+
+f) transmettre une affaire en vue d’une enquête pénale;
+
+g) se faire remettre les enregistrements des conversations téléphoniques, des communications électroniques ou des enregistrements de données relatives au trafic détenus par des entreprises d’investissement, des établissements de crédit ou des institutions financières;
+
+h) se faire remettre, dans la mesure où le droit national l’autorise, les enregistrements existants de données relatives au trafic détenus par un opérateur de télécommunications, lorsqu’il existe des raisons de suspecter une violation et que de tels enregistrements peuvent se révéler pertinents pour l’enquête relative à la violation de l’article 14, point a) ou b), ou de l’article 15;
+
+i) demander le gel ou la mise sous séquestre d’actifs, ou les deux;
+
+j) suspendre la négociation des instruments financiers concernés;
+
+k) enjoindre de cesser temporairement toute pratique que l’autorité compétente considère comme contraire au présent règlement;
+
+l) interdire temporairement l’exercice de l’activité professionnelle; et
+
+m) prendre toutes les mesures nécessaires pour garantir que le public est correctement informé, entre autres en corrigeant des informations fausses ou trompeuses qui ont été divulguées, y compris en exigeant d’un émetteur ou de toute autre personne ayant publié ou diffusé des informations fausses ou trompeuses de publier un communiqué rectificatif.
+
+Lorsque, conformément au droit national, une autorisation préalable est requise des autorités judiciaires de l’État membre concerné pour pénétrer dans les locaux d’une personne physique ou morale visée au point e) du premier alinéa, les pouvoirs visés audit point ne sont exercés qu’après avoir obtenu une telle autorisation préalable.
+
+3. Les États membres veillent à mettre en place des mesures appropriées pour que les autorités compétentes disposent de tous les pouvoirs de surveillance et d’enquête nécessaires à l’exercice de leurs missions.
+
+Le présent règlement est sans préjudice des dispositions législatives, réglementaires et administratives adoptées en ce qui concerne les offres publiques d’acquisition, les opérations de fusion et d’autres transactions ayant des incidences sur la propriété ou le contrôle des entreprises, qui sont réglementées par les autorités de contrôle désignées par les États membres conformément à l’article 4 de la directive 2004/25/CE, qui imposent des exigences s’ajoutant aux exigences du présent règlement.
+
+4. Toute personne qui met des informations à la disposition de l’autorité compétente conformément au présent règlement n’est pas considérée comme violant une quelconque restriction à la divulgation d’informations requise en vertu d’un contrat ou d’une disposition législative, réglementaire ou administrative, et cela n’entraîne, pour la personne concernée, aucune responsabilité quelle qu’elle soit relative à cette notification.
+
+<a id="art_24"></a>
+
+### Article 24 — Coopération avec l’AEMF
+
+1. Les autorités compétentes coopèrent avec l’AEMF aux fins du présent règlement, conformément au règlement (UE) no 1095/2010.
+
+2. Les autorités compétentes fournissent, sans retard, à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission conformément à l’article 35 du règlement (UE) no 1095/2010.
+
+3. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution pour définir les procédures et les formulaires applicables à l’échange d’informations visé au paragraphe 2.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission, au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_25"></a>
+
+### Article 25 — Obligation de coopérer
+
+1. Les autorités compétentes coopèrent entre elles et avec l’AEMF lorsque cette coopération est nécessaire aux fins du présent règlement, à moins que l’une des exceptions prévues au paragraphe 2 ne s’applique. Les autorités compétentes prêtent leur concours aux autorités compétentes d’autres États membres et à l’AEMF. En particulier, elles échangent des informations, sans retard indu, et coopèrent dans le cadre de leurs activités d’enquête, de contrôle et d’application.
+
+L’obligation de coopération et d’assistance prévue au premier alinéa s’applique également à l’égard de la Commission en ce qui concerne l’échange d’informations relatives aux matières premières qui sont des produits agricoles énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne.
+
+Les autorités compétentes et l’AEMF coopèrent conformément au règlement (UE) no 1095/2010, et en particulier son article 35.
+
+Lorsque les États membres ont choisi, conformément à l’article 30, paragraphe 1, deuxième alinéa, d’établir des sanctions pénales en cas de violation des dispositions du présent règlement visées au présent article, ils veillent à l’existence de mesures appropriées pour que les autorités compétentes disposent de tous les pouvoirs nécessaires pour assurer la liaison avec les autorités judiciaires au sein de leur juridiction en vue de recevoir des informations spécifiques liées aux enquêtes ou aux procédures pénales engagées concernant d’éventuelles violations du présent règlement et fournir ces mêmes informations aux autres autorités compétentes et à l’AEMF afin de satisfaire à leur obligation de coopérer entre elles et avec l’AEMF aux fins du présent règlement.
+
+2. Une autorité compétente ne peut refuser de donner suite à une demande d’information ou à une demande de coopérer à une enquête que dans les circonstances exceptionnelles suivantes, à savoir lorsque:
+
+a) la communication d’informations pertinentes pourrait nuire à la sécurité de l’État membre requis, en particulier dans le domaine de la lutte contre le terrorisme et d’autres crimes graves;
+
+b) satisfaire à cette demande pourrait nuire à sa propre enquête, à ses propres activités répressives ou, le cas échéant, à une enquête pénale;
+
+c) une procédure judiciaire est déjà engagée pour les mêmes faits et contre les mêmes personnes devant les autorités de l’État membre requis; ou
+
+d) un jugement définitif a déjà été rendu concernant ces personnes pour les mêmes faits dans l’État membre requis.
+
+3. Les autorités compétentes et l’AEMF coopèrent avec l’Agence de coopération des régulateurs de l’énergie (ACER), établie au titre du règlement (CE) no 713/2009 du Parlement européen et du Conseil (10), et les autorités de régulation nationales des États membres pour garantir une approche coordonnée dans l’application des règles pertinentes lorsque des transactions, des ordres ou d’autres actions ou comportements portent sur un ou plusieurs instruments financiers auxquels s’applique le présent règlement, ainsi que sur un ou plusieurs produits énergétiques de gros auxquels s’appliquent les articles 3, 4 et 5 du règlement (UE) no 1227/2011. Les autorités compétentes tiennent compte des caractéristiques spécifiques des définitions contenues à l’article 2 du règlement (UE) no 1227/2011 et des dispositions des articles 3, 4 et 5 du règlement (UE) no 1227/2011 lorsqu’elles appliquent les articles 7, 8 et 12 du présent règlement à des instruments financiers liés à des produits énergétiques de gros.
+
+4. Les autorités compétentes communiquent immédiatement, sur demande, toute information requise aux fins visées au paragraphe 1.
+
+5. Lorsqu’une autorité compétente a la conviction que des actes enfreignant les dispositions du présent règlement sont ou ont été accomplis sur le territoire d’un autre État membre, ou que des actes portent atteinte à des instruments financiers négociés sur une plate-forme de négociation située dans un autre État membre, elle en informe, d’une manière aussi détaillée que possible, l’autorité compétente de cet autre État membre et l’AEMF, ainsi que, pour les produits énergétiques de gros, l’ACER. Les autorités compétentes des différents États membres concernés se consultent et consultent l’AEMF, ainsi que, pour les produits énergétiques de gros, l’ACER, au sujet des actions appropriées à entreprendre, et s’informent mutuellement des évolutions intermédiaires significatives. Elles coordonnent leur action afin d’éviter tout chevauchement ou double emploi éventuel lors de l’application de sanctions administratives et autres mesures administratives aux cas transfrontières conformément aux articles 30 et 31, et se prêtent mutuellement assistance dans l’exécution de leurs décisions.
+
+6. L’autorité compétente d’un État membre peut demander l’aide de l’autorité compétente d’un autre État membre aux fins d’une inspection sur place ou d’une enquête.
+
+L’autorité compétente qui a présenté la demande peut informer l’AEMF de toute demande visée au premier alinéa. S’il s’agit d’une enquête ou d’une inspection ayant une dimension transfrontière, l’AEMF coordonne l’enquête ou l’inspection lorsqu’elle y est invitée par l’une des autorités compétentes.
+
+Lorsqu’une autorité compétente reçoit une demande d’inspection sur place ou d’enquête d’une autorité compétente d’un autre État membre, elle peut prendre l’une quelconque des mesures suivantes:
+
+a) procéder elle-même à l’inspection sur place ou à l’enquête;
+
+b) autoriser l’autorité compétente qui a présenté la demande à participer à l’inspection sur place ou à l’enquête;
+
+c) autoriser l’autorité compétente qui a présenté la demande à procéder elle-même à l’inspection sur place ou à l’enquête;
+
+d) charger des auditeurs ou des experts de procéder à l’inspection sur place ou à l’enquête;
+
+e) partager avec les autres autorités compétentes des tâches spécifiques liées aux activités de surveillance.
+
+Les autorités compétentes peuvent également coopérer avec les autorités compétentes d’autres États membres en vue de faciliter le recouvrement des sanctions pécuniaires.
+
+7. Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, une autorité compétente dont la demande d’information ou d’assistance conformément aux paragraphes 1, 3, 4 et 5 ne reçoit pas de suite dans un délai raisonnable ou est rejetée peut saisir l’AEMF de ce rejet ou de cette inaction dans un délai raisonnable.
+
+Dans ces situations, l’AEMF peut agir conformément à l’article 19 du règlement (UE) no 1095/2010, sans préjudice de la possibilité qui lui est laissée de prendre des mesures conformément à l’article 17 dudit règlement.
+
+8. Les autorités compétentes coopèrent et échangent des informations avec les autorités de régulation nationales et de pays tiers responsables des marchés au comptant liés lorsqu’elles ont des raisons de suspecter que des actes constitutifs d’opérations d’initiés, de divulgation illicite d’informations ou de manipulation de marché en violation du présent règlement sont ou ont été commis. Cette coopération assure une vue d’ensemble consolidée des marchés financiers et au comptant et permet de détecter et d’infliger des sanctions pour des abus de marchés intermarchés transfrontières.
+
+En ce qui concerne les quotas d’émission, la coopération et l’échange d’informations prévus au premier alinéa sont également assurés par:
+
+a) l’instance de surveillance des enchères, pour ce qui est des mises aux enchères de quotas d’émission ou d’autres produits mis aux enchères basés sur ces derniers, organisées en vertu du règlement (UE) no 1031/2010; et
+
+b) les autorités compétentes, les administrateurs de registres, y compris l’administrateur central, et les autres organismes publics chargés du contrôle du respect de la directive 2003/87/CE.
+
+L’AEMF exerce un rôle de facilitation et de coordination pour la coopération et l’échange d’informations entre les autorités compétentes et les autorités de régulation d’autres États membres et de pays tiers. Les autorités compétentes concluent, dans toute la mesure du possible, des accords de coopération avec les autorités de régulation de pays tiers responsables des marchés au comptant liés conformément à l’article 26.
+
+9. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution pour définir les procédures et les formulaires relatifs à l’échange d’informations et à l’assistance visés au présent article.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission, au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_26"></a>
+
+### Article 26 — Coopération avec les pays tiers
+
+1. Les autorités compétentes des États membres concluent, si nécessaire, des accords de coopération avec les autorités de surveillance de pays tiers concernant l’échange d’informations avec ces dernières et l’exécution des obligations résultant du présent règlement dans des pays tiers. Ces accords de coopération assurent au moins un échange efficace d’informations permettant aux autorités compétentes d’accomplir les missions que leur confie le présent règlement.
+
+Une autorité compétente qui se propose de conclure un tel accord en informe l’AEMF et les autres autorités compétentes.
+
+2. L’AEMF, dans toute la mesure du possible, facilite et coordonne l’élaboration des accords de coopération entre les autorités compétentes et les autorités de surveillance concernées de pays tiers.
+
+Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation contenant un document type pour les accords de coopération qui doivent être utilisés par les autorités compétentes des États membres, si possible.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 3 juillet 2015.
+
+Le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa est délégué à la Commission conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+L’AEMF, dans toute la mesure du possible, facilite et coordonne également les échanges, entre les autorités compétentes d’informations qui ont été obtenues auprès d’autorités de surveillance de pays tiers et qui peuvent être utiles pour l’adoption de mesures au titre des articles 30 et 31.
+
+3. Les autorités compétentes ne concluent d’accords de coopération relatifs à l’échange d’informations avec les autorités de surveillance de pays tiers que si les informations divulguées sont couvertes par des garanties de secret professionnel au moins équivalentes à celles prévues à l’article 27. Cet échange d’informations doit être destiné à l’exécution des tâches desdites autorités compétentes.
+
+<a id="art_27"></a>
+
+### Article 27 — Secret professionnel
+
+1. Toute information confidentielle reçue, échangée ou transmise en vertu du présent règlement est soumise aux exigences de secret professionnel prévues aux paragraphes 2 et 3.
+
+2. Toutes les informations que s’échangent les autorités compétentes au titre du présent règlement au sujet des conditions commerciales ou opérationnelles et d’autres questions économiques ou personnelles sont considérées comme confidentielles et sont soumises aux exigences du secret professionnel, sauf lorsqu’une autorité compétente précise, au moment où elle les communique, que ces informations peuvent être divulguées ou lorsque cette divulgation est nécessaire aux fins de procédures judiciaires.
+
+3. L’obligation de secret professionnel s’applique à toutes les personnes qui travaillent ou ont travaillé pour l’autorité compétente ou pour toute autorité ou entreprise de marché à laquelle l’autorité compétente a délégué ses pouvoirs, y compris les auditeurs et les experts mandatés par ladite autorité. Les informations couvertes par le secret professionnel ne peuvent être divulguées à quelque autre personne ou autorité que ce soit, sauf en vertu de dispositions prévues par le droit de l’Union ou le droit national.
+
+<a id="art_28"></a>
+
+### Article 28 — Protection des données
+
+En ce qui concerne le traitement de données à caractère personnel dans le cadre du présent règlement, les autorités compétentes exécutent leurs tâches aux fins du présent règlement conformément aux dispositions législatives, réglementaires et administratives nationales transposant la directive 95/46/CE. En ce qui concerne le traitement de données à caractère personnel qu’elle effectue dans le cadre du présent règlement, l’AEMF respecte les dispositions du règlement (CE) no 45/2001.
+
+Les données à caractère personnel sont conservées pendant une durée maximale de cinq ans.
+
+<a id="art_29"></a>
+
+### Article 29 — Communication de données à caractère personnel à des pays tiers
+
+1. L’autorité compétente d’un État membre peut transférer des données à caractère personnel vers un pays tiers sous réserve du respect des exigences de la directive 95/46/CE et uniquement au cas par cas. L’autorité compétente s’assure que le transfert est nécessaire aux fins du présent règlement et que le pays tiers ne transfère pas les données vers un autre pays tiers sauf autorisation écrite expresse et sous réserve du respect des conditions fixées par l’autorité compétente de l’État membre.
+
+2. L’autorité compétente d’un État membre ne peut divulguer les données personnelles qu’elle a reçues d’une autorité compétente d’un autre État membre à une autorité surveillance d’un pays tiers que lorsqu’elle a obtenu le consentement exprès de l’autorité compétente qui lui a communiqué ces données et, le cas échéant, lorsque ces données sont divulguées uniquement aux fins pour lesquelles cette dernière a donné son consentement.
+
+3. Tout accord de coopération prévoyant l’échange de données à caractère personnel respecte les dispositions législatives, réglementaires et administratives nationales transposant la directive 95/46/CE.
+
+## CHAPITRE 5
+
+### **MESURES ET SANCTIONS ADMINISTRATIVES**
+
+<a id="art_30"></a>
+
+### Article 30 — Sanctions administratives et autres mesures administratives
+
+1. Sans préjudice de toute sanction pénale et des pouvoirs de surveillance des autorités compétentes au titre de l’article 23, les États membres, conformément au droit national, font en sorte que les autorités compétentes aient le pouvoir de prendre les sanctions administratives et autres mesures administratives appropriées en ce qui concerne au moins les violations suivantes:
+
+a) violations des articles 14 et 15, de l’article 16, paragraphes 1 et 2, de l’article 17, paragraphes 1, 2, 4, 5 et 8, de l’article 18, paragraphes 1 à 6, de l’article 19, paragraphes 1, 2, 3, 5, 6, 7 et 11, et de l’article 20, paragraphe 1; et
+
+b) défaut de coopérer ou de se soumettre à une enquête ou une inspection ou à une demande visées à l’article 23, paragraphe 2.
+
+Les États membres peuvent décider de ne pas établir de règles concernant des sanctions administratives visées au premier alinéa lorsque les violations visées au point a) ou b) dudit alinéa sont déjà passibles de sanctions pénales dans leur droit national au plus tard le 3 juillet 2016. Dans ce cas, les États membres notifient d’une manière détaillée à la Commission et à l’AEMF les parties de leur droit pénal concernées.
+
+Au plus tard le 3 juillet 2016, les États membres notifient de façon détaillée à la Commission et à l’AEMF les règles visées au premier et au deuxième alinéa. Ils notifient, sans retard, à la Commission et à l’AEMF toute modification ultérieure de ces règles.
+
+2. Les États membres, conformément à leur droit national, font en sorte que les autorités compétentes aient le pouvoir d’infliger au moins les sanctions administratives suivantes et de prendre au moins les mesures administratives suivantes, en cas de violations visées au paragraphe 1, premier alinéa, point a):
+
+a) une injonction ordonnant à la personne responsable de la violation de mettre un terme au comportement en cause et de s’abstenir de le réitérer;
+
+b) la restitution de l’avantage retiré de cette violation ou des pertes qu’elle a permis d’éviter, si ceux-ci peuvent être déterminés;
+
+c) un avertissement public indiquant la personne responsable de la violation et la nature de la violation;
+
+d) le retrait ou la suspension de l’agrément d’une entreprise d’investissement;
+
+e) l’interdiction provisoire, pour les personnes exerçant des responsabilités dirigeantes dans une entreprise d’investissement ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’entreprises d’investissement;
+
+f) en cas de violations répétées de l’article 14 ou 15, l’interdiction permanente, pour les personnes exerçant des responsabilités dirigeantes dans une entreprise d’investissement ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’entreprises d’investissement;
+
+g) l’interdiction provisoire, pour les personnes exerçant des responsabilités dirigeantes dans une entreprise d’investissement ou toute autre personne physique dont la responsabilité est engagée pour la violation, de négocier pour leur propre compte;
+
+h) des sanctions pécuniaires administratives d’un montant maximal d’au moins trois fois le montant de l’avantage retiré de la violation ou des pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés;
+
+i) s’il s’agit d’une personne physique, des sanctions pécuniaires administratives d’un montant maximal d’au moins:
+
+i) en cas de violation des articles 14 et 15, 5 000 000 EUR ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014; ou
+
+ii) en cas de violation des articles 16 et 17, 1 000 000 EUR ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014; et
+
+iii) en cas de violation des articles 18, 19 et 20, 500 000 EUR ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014; et
+
+j) s’il s’agit d’une personne morale, des sanctions pécuniaires administratives d’un montant maximal d’au moins:
+
+i) en cas de violation des articles 14 et 15, 15 000 000 EUR ou 15 % du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014;
+
+ii) en cas de violation des articles 16 et 17, 2 500 000 EUR ou 2 % de son chiffre d’affaires annuel total tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014; et
+
+iii) en cas de violation des articles 18, 19 et 20, 1 000 000 EUR ou, dans les États membres dont la monnaie n’est pas l’euro, la valeur correspondante dans la monnaie nationale au 2 juillet 2014.
+
+Les références à l’autorité compétente contenues dans le présent paragraphe sont sans préjudice de la capacité de l’autorité compétente à exercer ses fonctions selon n’importe laquelle des modalités visées à l’article 23, paragraphe 1.
+
+Aux fins des points j) i) et ii) du premier alinéa, lorsque la personne morale est une entreprise mère ou une filiale qui est tenue d’établir des comptes consolidés en vertu de la directive 2013/34/UE du Parlement européen et du Conseil (11), le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant conformément aux directives comptables pertinentes — directive 86/635/CEE du Conseil (12) pour les banques et directive 91/674/CEE du Conseil (13) pour les entreprises d’assurances —, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
+
+3. Les États membres peuvent doter les autorités compétentes de pouvoirs qui s’ajoutent à ceux visés au paragraphe 2 et peuvent prévoir des niveaux plus élevés de sanctions que ceux établis par ledit paragraphe.
+
+<a id="art_31"></a>
+
+### Article 31 — Exercice des pouvoirs de surveillance et de sanction
+
+1. Les États membres veillent à ce que, au moment de déterminer le type et le niveau des sanctions administratives, les autorités compétentes tiennent compte de l’ensemble des circonstances pertinentes, y compris, le cas échéant:
+
+a) de la gravité et de la durée de la violation;
+
+b) du degré de responsabilité de la personne responsable de la violation;
+
+c) de l’assise financière de la personne responsable de la violation, telle qu’elle ressort, par exemple, du chiffre d’affaires total de la personne morale ou des revenus annuels de la personne physique;
+
+d) de l’importance des gains obtenus ou des pertes évitées par la personne responsable de la violation, dans la mesure où ils peuvent être déterminés;
+
+e) du degré de coopération de la personne responsable de la violation avec l’autorité compétente, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne;
+
+f) des violations commises précédemment par la personne responsable de la violation; et
+
+g) des mesures prises par la personne responsable de la violation pour éviter sa répétition.
+
+2. Dans l’exercice de leurs pouvoirs d’infliger des sanctions administratives et de prendre d’autres mesures administratives au titre de l’article 30, les autorités compétentes coopèrent étroitement afin de garantir que l’exercice de leurs pouvoirs de surveillance et d’enquête et les sanctions administratives qu’elles infligent et les autres mesures administratives qu’elles prennent soient effectives et appropriées au titre du présent règlement. Elles coordonnent leurs actions conformément à l’article 25 afin d’éviter tout chevauchement ou double emploi lors de l’exercice de leurs pouvoirs de surveillance et d’enquête et lorsqu’elles infligent des sanctions en ce qui concerne des affaires transfrontières.
+
+<a id="art_32"></a>
+
+### Article 32 — Signalement des violations
+
+1. Les États membres veillent à ce que les autorités compétentes mettent en place des mécanismes efficaces pour permettre le signalement des violations potentielles ou réelles du présent règlement aux autorités compétentes.
+
+2. Les mécanismes visés au paragraphe 1 comprennent au moins:
+
+a) des procédures spécifiques pour la réception des signalements des violations et leur suivi, y compris la mise en place de canaux de communication sûrs pour ces signalements;
+
+b) dans le cadre de leur emploi, une protection adéquate pour les personnes travaillant dans le cadre d’un contrat de travail qui signalent des violations ou qui sont accusées d’avoir commis des violations, au moins contre les représailles, la discrimination ou d’autres types de traitement inéquitable; et
+
+c) la protection des données à caractère personnel concernant à la fois la personne qui signale la violation et la personne physique qui est présumée avoir commis la violation, y compris des protections visant à préserver le caractère confidentiel de leur identité, à tous les stades de la procédure, sans préjudice du droit national ordonnant la divulgation d’informations dans le cadre d’enquêtes ou de procédures judiciaires engagées ultérieurement.
+
+3. Les États membres exigent des employeurs exerçant des activités réglementées par la réglementation relative aux services financiers qu’ils mettent en place des procédures internes appropriées permettant à leur personnel de signaler toute violation du présent règlement.
+
+4. Les États membres peuvent prévoir l’octroi d’incitations financières, conformément au droit national, aux personnes qui fournissent des informations pertinentes au sujet de violations potentielles du présent règlement, lorsque ces personnes ne sont pas soumises à d’autres obligations légales ou contractuelles préexistantes de communiquer de telles informations, et à condition que ces informations soient nouvelles et qu’elles amènent à infliger une sanction administrative ou pénale ou à prendre une autre mesure administrative pour cause de violation du présent règlement.
+
+5. La Commission adopte des actes d’exécution en vue de préciser les procédures visées au paragraphe 1, notamment les modalités pour le signalement et les rapports de suivi, ainsi que les mesures de protection des personnes travaillant dans le cadre d’un contrat de travail et les mesures de protection des données à caractère personnel. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 36, paragraphe 2.
+
+<a id="art_33"></a>
+
+### Article 33 — Échange d’informations avec l’AEMF
+
+1. Les autorités compétentes fournissent chaque année à l’AEMF des informations agrégées sur l’ensemble des sanctions administratives et autres mesures administratives infligées par l’autorité compétente conformément aux articles 30, 31 et 32. L’AEMF publie ces informations dans un rapport annuel. Les autorités compétentes fournissent également chaque année à l’AEMF des données anonymisées et agrégées sur l’ensemble des enquêtes administratives menées conformément auxdits articles.
+
+2. Lorsque les États membres ont choisi, conformément à l’article 30, paragraphe 1, deuxième alinéa, d’établir des sanctions pénales pour les violations visées dans ledit article, leurs autorités compétentes fournissent chaque année à l’AEMF des données anonymisées et agrégées sur l’ensemble des enquêtes pénales menées et des sanctions pénales infligées par les autorités judiciaires conformément aux articles 30, 31 et 32. L’AEMF publie les données relatives aux sanctions pénales infligées dans un rapport annuel.
+
+3. Lorsque l’autorité compétente rend publiques les sanctions administratives ou pénales ou autres mesures administratives, elle les notifie en même temps à l’AEMF.
+
+4. Lorsqu’une sanction administrative ou pénale ou autre mesure administrative publiée concerne une entreprise d’investissement agréée conformément à la directive 2014/65/UE, l’AEMF ajoute une référence à cette sanction ou mesure publiée dans le registre des entreprises d’investissement au titre de l’article 5, paragraphe 3, de ladite directive.
+
+5. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF élabore des projets de normes techniques d’exécution pour définir les procédures et les formulaires applicables à l’échange d’informations visé au présent article.
+
+L’AEMF soumet les projets de normes techniques d’exécution à la Commission, au plus tard le 3 juillet 2016.
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+<a id="art_34"></a>
+
+### Article 34 — Publication des décisions
+
+1. Sous réserve du troisième alinéa, les autorités compétentes publient toute décision infligeant une sanction administrative ou toute autre mesure administrative pour cause de violation du présent règlement sur leur site internet immédiatement après que la personne faisant l’objet de cette décision a été informée de cette décision. Cette publication mentionne au minimum le type et la nature de la violation et l’identité de la personne faisant l’objet de la décision.
+
+Le premier alinéa ne s’applique pas aux décisions imposant des mesures dans le cadre d’une enquête.
+
+Si une autorité compétente estime que la publication de l’identité de la personne morale faisant l’objet de la décision ou des données à caractère personnel d’une personne physique serait disproportionnée à l’issue d’une évaluation au cas par cas réalisée sur le caractère proportionné de la publication de ces données, ou si une telle publication compromettrait une enquête en cours ou la stabilité des marchés financiers, l’autorité compétente prend l’une ou l’autre des mesures suivantes:
+
+a) elle diffère la publication de la décision jusqu’au moment où les motifs de ce report cessent d’exister;
+
+b) elle publie la décision de manière anonyme, conformément au droit national, si une telle publication garantit une réelle protection des données à caractère personnel en cause;
+
+c) elle ne publie pas la décision lorsqu’elle estime qu’une publication conformément au point a) ou b) n’est pas suffisante pour garantir:
+
+i) que la stabilité des marchés financiers ne sera pas compromise; ou
+
+ii) le caractère proportionné de la publication de ces décisions au regard de mesures réputées avoir un caractère mineur.
+
+Lorsqu’une autorité compétente prend la décision de publier une décision sur une base anonyme comme visé au troisième alinéa, point b), elle peut différer la publication des données pertinentes pendant une période raisonnable si l’on peut prévoir que les motifs de la publication anonyme cesseront d’exister au cours de cette période
+
+2. Lorsque la décision fait l’objet d’un recours devant une autorité judiciaire, administrative ou une autre autorité nationale, les autorités compétentes publient aussi immédiatement cette information sur leur site internet, ainsi que toute information ultérieure sur le résultat dudit recours. En outre, toute décision annulant une décision faisant l’objet d’un recours est aussi publiée.
+
+3. Les autorités compétentes veillent à ce que toute décision publiée conformément au présent article demeure disponible sur leur site internet pendant une période d’au moins cinq ans après sa publication. Les données à caractère personnel contenues dans la publication en question ne sont maintenues sur le site internet de l’autorité compétente que pendant la période nécessaire, conformément aux règles applicables en matière de protection des données.
+
+## CHAPITRE 6
+
+### **ACTES DÉLÉGUÉS ET ACTES D’EXÉCUTION**
+
+<a id="art_35"></a>
+
+### Article 35 — Exercice de la délégation
+
+1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.
+
+2. Le pouvoir d’adopter des actes délégués visé à l’article 6, paragraphes 5 et 6, à l’article 12, paragraphe 5, à l’article 17, paragraphe 2, troisième alinéa, à l’article 17, paragraphe 3, ►M1 à l'article 19, paragraphes 13 et 14, et à l'article 38** ◄ **, est conféré à la Commission pour une durée indéterminée à compter du 2 juillet 2014.
+
+3. La délégation de pouvoir visée à l’article 6, paragraphes 5 et 6, à l’article 12, paragraphe 5, à l’article 17, paragraphe 2, troisième alinéa, à l’article 17, paragraphe 3, ►M1 à l'article 19, paragraphes 13 et 14, et à l'article 38** ◄ **, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au *Journal officiel de l’Union européenne* ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.
+
+4. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.
+
+5. Un acte délégué adopté en vertu de l'article 6, paragraphes 5 et 6, de l'article 12, paragraphe 5, de l'article 17, paragraphe 2, troisième alinéa, de l'article 17, paragraphe 3, de l'article 19, paragraphe 13 ou 14, ou de l'article 38 n'entre en vigueur que si le Parlement européen ou le Conseil n'a pas exprimé d'objections dans un délai de trois mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l'expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d'objections. Ce délai est prolongé de trois mois à l'initiative du Parlement européen ou du Conseil.
+
+<a id="art_36"></a>
+
+### Article 36 — Comité
+
+1. La Commission est assistée par le comité européen des valeurs mobilières, institué par la décision 2001/528/CE de la Commission (14). Ledit comité est un comité au sens du règlement (UE) no 182/2011.
+
+2. Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no 182/2011 s’applique.
+
+## CHAPITRE 7
+
+### **DISPOSITIONS FINALES**
+
+<a id="art_37"></a>
+
+### Article 37 — Abrogation de la directive 2003/6/CE et de ses mesures d’exécution
+
+►C1 La directive 2003/6/CE et les directives 2004/72/CE, 2003/125/CE** ◄ ** (15) et 2003/124/CE (16) de la Commission et le règlement (CE) no 2273/2003 de la Commission (17) sont abrogés avec effet au 3 juillet 2016. Les références faites à la directive 2003/6/CE s’entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe II du présent règlement.
+
+<a id="art_38"></a>
+
+### Article 38 — Rapport
+
+Au plus tard le 3 juillet 2019, la Commission présente un rapport au Parlement européen et au Conseil sur l’application de la présente directive, accompagné, le cas échéant, d’une proposition législative de modification. Ce rapport évalue, entre autres:
+
+a) le bien-fondé de l’introduction de règles communes sur la nécessité, pour tous les États membres, de prévoir des sanctions administratives pour les opérations d’initiés et les manipulations de marché;
+
+b) la question de savoir si la définition d’information privilégiée est suffisante pour couvrir l’ensemble des informations pertinentes permettant aux autorités compétentes de lutter efficacement contre les abus de marché;
+
+c) le caractère adéquat des conditions dans lesquelles l’interdiction de négociation est posée conformément à l’article 19, paragraphe 11, en vue de déterminer s’il existe d’autres circonstances dans lesquelles l’interdiction devrait s’appliquer;
+
+d) la possibilité d’établir un cadre de l’Union pour la surveillance des carnets d’ordres intermarchés en liaison avec les abus de marché, y compris des recommandations relatives à un tel cadre; et
+
+e) le champ d’application des dispositions relatives à l’indice de référence.
+
+Aux fins du premier alinéa, point a), l’AEMF procède à un exercice de cartographie de l’application de sanctions administratives et, lorsque les États membres ont décidé en vertu de l’article 30, paragraphe 1, deuxième alinéa, d’établir des sanctions pénales visées audit article, pour des violations du présent règlement, de l’application de ces sanctions pénales au sein des États membres. Cet exercice de cartographie inclut également l’ensemble des données mises à disposition au titre de l’article 33, paragraphes 1 et 2.
+
+La Commission présente, au plus tard le 3 juillet 2019 et après consultation de l'AEMF, un rapport au Parlement européen et au Conseil sur le niveau des seuils établis à l'article 19, paragraphe 1 *bis*, premier alinéa, points a) et b), en ce qui concerne les transactions effectuées par des gestionnaires lorsque les actions ou les titres de créance de l'émetteur font partie d'un organisme de placement collectif ou fournissent une exposition à un portefeuille d'actifs, afin de déterminer si ces niveaux sont appropriés ou s'ils devraient être ajustés.
+
+La Commission est habilitée à adopter des actes délégués en conformité avec l'article 35 afin d'ajuster les seuils visés à l'article 19, paragraphe 1 *bis*, premier alinéa, points a) et b), si elle estime dans ce rapport que ces seuils devraient être ajustés.
+
+<a id="art_39"></a>
+
+### Article 39 — Entrée en vigueur et application
+
+1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.
+
+2. Il s'applique à compter du 3 juillet 2016, à l'exception:
+
+a) de l'article 4, paragraphes 2 et 3, qui s'applique à partir du 3 janvier 2018; et
+
+b) de l'article 4, paragraphes 4 et 5, de l'article 5, paragraphe 6, de l'article 6, paragraphes 5 et 6, de l'article 7, paragraphe 5, de l'article 11, paragraphes 9, 10 et 11, de l'article 12, paragraphe 5, de l'article 13, paragraphes 7 et 11, de l'article 16, paragraphe 5, de l'article 17, paragraphe 2, troisième alinéa, de l'article 17, paragraphes 3, 10 et 11, de l'article 18, paragraphe 9, de l'article 19, paragraphes 13, 14 et 15, de l'article 20, paragraphe 3, de l'article 24, paragraphe 3, de l'article 25, paragraphe 9, de l'article 26, paragraphe 2, deuxième, troisième et quatrième alinéas, de l'article 32, paragraphe 5, et de l'article 33, paragraphe 5, qui s'appliquent à compter du 2 juillet 2014.
+
+3. Au plus tard le 3 juillet 2016, les États membres prennent les mesures nécessaires pour se conformer aux articles 22, 23, 30, à l’article 31, paragraphe 1, et aux articles 32 et 34.
+
+4. Les références dans le présent règlement à la directive 2014/65/UE et au règlement (UE) no 600/2014 s’entendent, avant le ►M2 3 janvier 2018** ◄ **, comme faites à la directive 2004/39/CE conformément au tableau de correspondance figurant à l’annexe IV de la directive 2014/65/UE dans la mesure où ce tableau de correspondance contient des dispositions faisant référence à la directive 2004/39/CE.
+
+Lorsqu’il fait référence dans les dispositions du présent règlement aux OTF, aux marchés de croissance des PME, aux quotas d’émission ou aux produits mis aux enchères basés sur ces derniers, ces dispositions ne s’appliquent pas aux OTF, aux marchés de croissance des PME, aux quotas d’émission ou aux produits mis aux enchères basés sur ces derniers jusqu’au ►M2 3 janvier 2018** ◄ **.
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+
+<a id="annexe_i"></a>
+
+### ANNEXE I
+
+A. ****Indicateurs de manipulations consistant à donner des indications fausses ou trompeuses ou à fixer les cours à un niveau anormal ou artificiel****
+
+Aux fins de l’application de l’article 12, paragraphe 1, point a), du présent règlement, et sans préjudice des formes de manipulations décrites au paragraphe 2 dudit article, les participants au marché et les autorités compétentes prennent en considération, lors de l’examen de transactions ou d’ordres, les indicateurs suivants, dont la liste n’est pas exhaustive et qui ne doivent pas pour autant être considérés en soi comme constituant une manipulation de marché:
+
+a) la mesure dans laquelle les ordres passés ou les transactions effectuées représentent une proportion importante du volume quotidien de transactions réalisé sur l’instrument financier concerné, un contrat au comptant sur matières premières qui lui est lié ou un produit mis aux enchères sur la base des quotas d’émission, en particulier lorsque ces activités entraînent une variation sensible de leur cours;
+
+b) la mesure dans laquelle les ordres passés ou les transactions effectuées par des personnes détenant une position vendeuse ou acheteuse marquée sur un instrument financier, un contrat au comptant sur matières premières qui lui est lié ou un produit mis aux enchères sur la base des quotas d’émission, entraînent une variation sensible du cours de cet instrument, du contrat au comptant sur matières premières qui lui est lié ou du produit mis aux enchères sur la base des quotas d’émission;
+
+c) si les transactions effectuées n’entraînent aucun changement de propriétaire bénéficiaire d’un instrument financier, d’un contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission;
+
+d) la mesure dans laquelle les ordres passés ou les transactions effectuées ou les ordres annulés se traduisent par des renversements de positions sur une courte période et représentent une proportion importante du volume quotidien de transactions réalisé sur l’instrument financier concerné, un contrat au comptant sur matières premières qui lui est lié ou un produit mis aux enchères sur la base des quotas d’émission, et pourraient être associés à des variations sensibles du cours d’un instrument financier, d’un contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission;
+
+e) la mesure dans laquelle les ordres passés ou les transactions effectuées sont concentrés sur un bref laps de temps durant la séance de négociation et entraînent une variation de cours qui est ensuite inversée;
+
+f) la mesure dans laquelle les ordres passés modifient la représentation des meilleurs prix affichés à l’offre et à la demande d’un instrument financier, d’un contrat au comptant sur matières premières qui lui est lié ou d’un produit mis aux enchères sur la base des quotas d’émission, ou plus généralement la représentation du carnet d’ordres auquel ont accès les participants au marché, et sont annulés avant leur exécution; et
+
+g) la mesure dans laquelle les ordres sont passés ou les transactions effectuées au moment précis où sont calculés les cours de référence, les cours de compensation et les évaluations, ou aux alentours de ce moment, et entraînent des variations de cours qui ont un effet sur ces cours et ces évaluations.
+
+B. ****Indicateurs de manipulations consistant à recourir à des procédés fictifs ou à toute autre forme de tromperie ou d’artifice****
+
+Aux fins de l’application de l’article 12, paragraphe 1, point b), du présent règlement, et sans préjudice des formes de manipulations décrites au paragraphe 2 dudit article, les participants au marché et les autorités compétentes prennent en considération, lors de l’examen de transactions ou d’ordres, les indicateurs suivants, dont la liste n’est pas exhaustive et qui ne doivent pas pour autant être considérés comme constituant en soi une manipulation de marché:
+
+a) si les ordres passés ou les transactions effectuées par des personnes sont précédés ou suivis de la diffusion d’informations fausses ou trompeuses par ces mêmes personnes ou des personnes qui leur sont liées; et
+
+b) si les ordres sont passés ou les transactions effectuées par des personnes avant ou après que celles-ci, ou des personnes qui leur sont liées, produisent ou diffusent des recommandations d’investissement qui sont fausses, biaisées ou manifestement influencées par un intérêt significatif.
+
+<a id="annexe_ii"></a>
+
+### ANNEXE II
+
+**Tableau de correspondance**
+
+| Le présent règlement | Directive 2003/6/CE |
+| --- | --- |
+| Article 1er |  |
+| Article 2 |  |
+| Article 2, paragraphe 1, point a) | Article 9, premier alinéa |
+| Article 2, paragraphe 1, point b) |  |
+| Article 2, paragraphe 1, point c) |  |
+| Article 2, paragraphe 1, point d) | Article 9, deuxième alinéa |
+| Article 2, paragraphe 3 | Article 9, premier alinéa |
+| Article 2, paragraphe 4 | Article 10, point a) |
+| Article 3, paragraphe 1, point 1) | Article 1er, paragraphe 3 |
+| Article 3, paragraphe 1, point 2) |  |
+| Article 3, paragraphe 1, point 3) |  |
+| Article 3, paragraphe 1, point 4) |  |
+| Article 3, paragraphe 1, point 5) |  |
+| Article 3, paragraphe 1, point 6) | Article 1er, paragraphe 4 |
+| Article 3, paragraphe 1, point 7) |  |
+| Article 3, paragraphe 1, point 8) |  |
+| Article 3, paragraphe 1, point 9) | Article 1er, paragraphe 5 |
+| Article 3, paragraphe 1, point 10) |  |
+| Article 3, paragraphe 1, point 11) |  |
+| Article 3, paragraphe 1, point 12) | Article 1er, paragraphe 7 |
+| Article 3, paragraphe 1, point 13) | Article 1er, paragraphe 6 |
+| Article 3, paragraphe 1, points 14) à 35) |  |
+| Article 4 |  |
+| Article 5 | Article 8 |
+| Article 6, paragraphe 1 | Article 7 |
+| Article 6, paragraphe 2 |  |
+| Article 6, paragraphe 3 |  |
+| Article 6, paragraphe 4 |  |
+| Article 6, paragraphe 5 |  |
+| Article 6, paragraphe 6 |  |
+| Article 6, paragraphe 7 |  |
+| Article 7, paragraphe 1, point a) | Article 1er, paragraphe 1, premier alinéa |
+| Article 7, paragraphe 1, point b) | Article 1er, paragraphe 1, deuxième alinéa |
+| Article 7, paragraphe 1, point c) |  |
+| Article 7, paragraphe 1, point d) | Article 1er, paragraphe 1, troisième alinéa |
+| Article 7, paragraphe 2 |  |
+| Article 7, paragraphe 3 |  |
+| Article 7, paragraphe 4 |  |
+| Article 7, paragraphe 5 |  |
+| Article 8, paragraphe 1 | Article 2, paragraphe 1, premier alinéa |
+| Article 8, paragraphe 2 |  |
+| Article 8, paragraphe 2, point a) | Article 3, point b) |
+| Article 8, paragraphe 2, point b) |  |
+| Article 8, paragraphe 3 |  |
+| Article 8, paragraphe 4, point a) | Article 2, paragraphe 1, point a) |
+| Article 8, paragraphe 4, point b) | Article 2, paragraphe 1, point b) |
+| Article 8, paragraphe 4, point c) | Article 2, paragraphe 1, point c) |
+| Article 8, paragraphe 4, point d) | Article 2, paragraphe 1, point d) |
+| Article 8, paragraphe 4, deuxième alinéa | Article 4 |
+| Article 8, paragraphe 5 | Article 2, paragraphe 2 |
+| Article 9, paragraphe 1 |  |
+| Article 9, paragraphe 2 |  |
+| Article 9, paragraphe 3, point a) | Article 2, paragraphe 3 |
+| Article 9, paragraphe 3, point b) | Article 2, paragraphe 3 |
+| Article 9, paragraphe 4 |  |
+| Article 9, paragraphe 5 |  |
+| Article 9, paragraphe 6 |  |
+| Article 10, paragraphe 1 | Article 3, point a) |
+| Article 10, paragraphe 2 |  |
+| Article 11 |  |
+| Article 12, paragraphe 1 |  |
+| Article 12, paragraphe 1, point a) | Article 1er, paragraphe 2, point a) |
+| Article 12, paragraphe 1, point b) | Article 1er, paragraphe 2, point b) |
+| Article 12, paragraphe 1, point c) | Article 1er, paragraphe 2, point c) |
+| Article 12, paragraphe 1, point d) |  |
+| Article 12, paragraphe 2, point a) | Article 1er, paragraphe 2, deuxième alinéa, premier tiret |
+| Article 12, paragraphe 2, point b) | Article 1er, paragraphe 2, deuxième alinéa, deuxième tiret |
+| Article 12, paragraphe 2, point c) |  |
+| Article 12, paragraphe 2, point d) | Article 1er, paragraphe 2, deuxième alinéa, troisième tiret |
+| Article 12, paragraphe 2, point e) |  |
+| Article 12, paragraphe 3 |  |
+| Article 12, paragraphe 4 |  |
+| Article 12, paragraphe 5 | Article 1er, paragraphe 2, troisième alinéa |
+| Article 13, paragraphe 1 | Article 1er, paragraphe 2, point a), deuxième alinéa |
+| Article 13, paragraphe 1 |  |
+| Article 13, paragraphe 2 |  |
+| Article 13, paragraphe 3 |  |
+| Article 13, paragraphe 4 |  |
+| Article 13, paragraphe 5 |  |
+| Article 13, paragraphe 6 |  |
+| Article 13, paragraphe 7 |  |
+| Article 13, paragraphe 8 |  |
+| Article 13, paragraphe 9 |  |
+| Article 13, paragraphe 10 |  |
+| Article 13, paragraphe 11 |  |
+| Article 14, point a) | Article 2, paragraphe 1, premier alinéa |
+| Article 14, point b) | Article 3, point b) |
+| Article 14, point c) | Article 3, point a) |
+| Article 15 | Article 5 |
+| Article 16, paragraphe 1 | Article 6, paragraphe 6 |
+| Article 16, paragraphe 2 | Article 6, paragraphe 9 |
+| Article 16, paragraphe 3 |  |
+| Article 16, paragraphe 4 |  |
+| Article 16, paragraphe 5 | Article 6, paragraphe 10, septième tiret |
+| Article 17, paragraphe 1 | Article 6, paragraphe 1 |
+| Article 17, paragraphe 1, troisième alinéa | Article 9, troisième alinéa |
+| Article 17, paragraphe 2 |  |
+| Article 17, paragraphe 3 |  |
+| Article 17, paragraphe 4 | Article 6, paragraphe 2 |
+| Article 17, paragraphe 5 |  |
+| Article 17, paragraphe 6 |  |
+| Article 17, paragraphe 7 |  |
+| Article 17, paragraphe 8 | Article 6, paragraphe 3, premier et deuxième alinéas |
+| Article 17, paragraphe 9 |  |
+| Article 17, paragraphe 10 | Article 6, paragraphe 10, premier et deuxième tirets |
+| Article 17, paragraphe 11 |  |
+| Article 18, paragraphe 1 | Article 6, paragraphe 3, troisième alinéa |
+| Article 18, paragraphe 2 |  |
+| Article 18, paragraphe 3 |  |
+| Article 18, paragraphe 4 |  |
+| Article 18, paragraphe 5 |  |
+| Article 18, paragraphe 6 |  |
+| Article 18, paragraphe 7 | Article 9, troisième alinéa |
+| Article 18, paragraphe 8 |  |
+| Article 18, paragraphe 9 | Article 6, paragraphe 10, quatrième tiret |
+| Article 19, paragraphe 1 | Article 6, paragraphe 4 |
+| Article 19, paragraphe 1, point a) | Article 6, paragraphe 4 |
+| Article 19, paragraphe 1, point b) |  |
+| Article 19, paragraphe 2 |  |
+| Article 19, paragraphe 3 |  |
+| Article 19, paragraphe 4, point a) |  |
+| Article 19, paragraphe 4, point b) |  |
+| Article 19, paragraphes 5 à 13 |  |
+| Article 19, paragraphe 14 | Article 6, paragraphe 10, cinquième tiret |
+| Article 19, paragraphe 15 | Article 6, paragraphe 10, cinquième tiret |
+| Article 20, paragraphe 1 | Article 6, paragraphe 5 |
+| Article 20, paragraphe 2 | Article 6, paragraphe 8 |
+| Article 20, paragraphe 3 | Article 6, paragraphe 10, sixième tiret, et article 6, paragraphe 11 |
+| Article 21 | Article 1er, paragraphe 2, point c), deuxième phrase |
+| Article 22 | Article 11, premier alinéa, et article 10 |
+| Article 23, paragraphe 1 | Article 12, paragraphe 1 |
+| Article 23, paragraphe 1, point a) | Article 12, paragraphe 1, point a) |
+| Article 23, paragraphe 1, point b) | Article 12, paragraphe 1, point b) |
+| Article 23, paragraphe 1, point c) | Article 12, paragraphe 1, point c) |
+| Article 23, paragraphe 1, point d) | Article 12, paragraphe 1, point d) |
+| Article 23, paragraphe 2, point a) | Article 12, paragraphe 2, point a) |
+| Article 23, paragraphe 2, point b) | Article 12, paragraphe 2, point b) |
+| Article 23, paragraphe 2, point c) |  |
+| Article 23, paragraphe 2, point d) | Article 12, paragraphe 2, point c) |
+| Article 23, paragraphe 2, point e) |  |
+| Article 23, paragraphe 2, point f) |  |
+| Article 23, paragraphe 2, point g) | Article 12, paragraphe 2, point d) |
+| Article 23, paragraphe 2, point h) | Article 12, paragraphe 2, point d) |
+| Article 23, paragraphe 2, point i) | Article 12, paragraphe 2, point g) |
+| Article 23, paragraphe 2, point j) | Article 12, paragraphe 2, point f) |
+| Article 23, paragraphe 2, point k) | Article 12, paragraphe 2, point e) |
+| Article 23, paragraphe 2, point l) | Article 12, paragraphe 2, point h) |
+| Article 23, paragraphe 2, point m) | Article 6, paragraphe 7 |
+| Article 23, paragraphe 3 |  |
+| Article 23, paragraphe 4 |  |
+| Article 24, paragraphe 1 | Article 15 *bis*, paragraphe 1 |
+| Article 24, paragraphe 2 | Article 15 *bis*, paragraphe 2 |
+| Article 24, paragraphe 3 |  |
+| Article 25, paragraphe 1, premier alinéa | Article 16, paragraphe 1 |
+| Article 25, paragraphe 2 | Article 16, paragraphe 2, et article 16, paragraphe 4, quatrième alinéa |
+| Article 25, paragraphe 2, point a) | Article 16, paragraphe 2, deuxième alinéa, premier tiret, et article 16, paragraphe 4, quatrième alinéa |
+| Article 25, paragraphe 2, point b) |  |
+| Article 25, paragraphe 2, point c) | Article 16, paragraphe 2, deuxième alinéa, deuxième tiret, et article 16, paragraphe 4, quatrième alinéa |
+| Article 25, paragraphe 2, point d) | Article 16, paragraphe 2, deuxième alinéa, troisième tiret, et article 16, paragraphe 4, quatrième alinéa |
+| Article 25, paragraphe 3 |  |
+| Article 25, paragraphe 4 | Article 16, paragraphe 2, première phrase |
+| Article 25, paragraphe 5 | Article 16, paragraphe 3 |
+| Article 25, paragraphe 6 | Article 16, paragraphe 4 |
+| Article 25, paragraphe 7 | Article 16, paragraphe 2, quatrième alinéa, et article 16, paragraphe 4, quatrième alinéa |
+| Article 25, paragraphe 8 |  |
+| Article 25, paragraphe 9 | Article 16, paragraphe 5 |
+| Article 26 |  |
+| Article 27, paragraphe 1 |  |
+| Article 27, paragraphe 2 |  |
+| Article 27, paragraphe 3 | Article 13 |
+| Article 28 |  |
+| Article 29 |  |
+| Article 30, paragraphe 1, premier alinéa | Article 14, paragraphe 1 |
+| Article 30, paragraphe 1, point a) |  |
+| Article 30, paragraphe 1, point b) | Article 14, paragraphe 3 |
+| Article 30, paragraphe 2 |  |
+| Article 30, paragraphe 3 |  |
+| Article 31 |  |
+| Article 32 |  |
+| Article 33, paragraphe 1 | Article 14, paragraphe 5, premier alinéa |
+| Article 33, paragraphe 2 |  |
+| Article 33, paragraphe 3 | Article 14, paragraphe 5, deuxième alinéa |
+| Article 33, paragraphe 4 | Article 14, paragraphe 5, troisième alinéa |
+| Article 33, paragraphe 5 |  |
+| Article 34, paragraphe 1 | Article 14, paragraphe 4 |
+| Article 34, paragraphe 2 |  |
+| Article 34, paragraphe 3 |  |
+| Article 35 |  |
+| Article 36, paragraphe 1 | Article 17, paragraphe 1 |
+| Article 36, paragraphe 2 |  |
+| Article 37 | Article 20 |
+| Article 38 |  |
+| Article 39 | Article 21 |
+| Annexe |  |
+
+(1) Règlement (UE) no 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d’investissement et modifiant le règlement (UE) no 648/2012 (JO L 176 du 27.6.2013, p. 1).
+
+(2) Règlement (CE) no 1287/2006 de la Commission du 10 août 2006 portant mesures d’exécution de la directive 2004/39/CE du Parlement européen et du Conseil en ce qui concerne les obligations des entreprises d’investissement en matière d’enregistrement, le compte rendu des transactions, la transparence du marché, l’admission des instruments financiers à la négociation et la définition de termes aux fins de ladite directive (JO L 241 du 2.9.2006, p. 1).
+
+(3) Directive 2012/30/UE du Parlement européen et du Conseil du 25 octobre 2012 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 54, deuxième alinéa, du traité sur le fonctionnement de l’Union européenne, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital (JO L 315 du 14.11.2012, p. 74).
+
+(4) Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant le règlement (UE) no 648/2012 (voir page 84 du présent Journal officiel).
+
+(5) Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (JO L 201 du 31.7.2002, p. 37).
+
+(6) Règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision no 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (JO L 331 du 15.12.2010, p. 84).
+
+(7) Directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l’harmonisation des obligations de transparence concernant l’information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE (JO L 390 du 31.12.2004, p. 38).
+
+(8) Directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l’accès à l’activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d’investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE (JO L 176 du 27.6.2013, p. 338).
+
+(9) Directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) (JO L 335 du 17.12.2009, p. 1).
+
+(10) Règlement (CE) no 713/2009 du Parlement européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l’énergie (JO L 211 du 14.8.2009, p. 1).
+
+(11) Directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de ceraines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil (JO L 182 du 29.6.2013, p. 19).
+
+(12) Directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers (JO L 372 du 31.12.1986, p. 1).
+
+(13) Directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d’assurances (JO L 374 du 31.12.1991, p. 7).
+
+(14) Décision 2001/528/CE de la Commission du 6 juin 2001 instituant le comité européen des valeurs mobilières (JO L 191 du 13.7.2001, p. 45).
+
+(15) Directive 2003/125/CE de la Commission 22 décembre 2003 portant modalités d’application de la directive 2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations d’investissement et la mention des conflits d’intérêts (JO L 339 du 24.12.2003, p. 73).
+
+(16) Directive 2003/124/CE de la Commission du 22 décembre 2003 portant modalités d’application de la directive 2003/6/CE du Parlement européen et du Conseil en ce qui concerne la définition et la publication des informations privilégiées et la définition des manipulations de marché (JO L 339 du 24.12.2003, p. 70).
+
+(17) Règlement (CE) no 2273/2003 de la Commission du 22 décembre 2003 portant modalités d’application de la directive 2003/6/CE du Parlement européen et du Conseil en ce qui concerne les dérogations prévues pour les programmes de rachat et la stabilisation d’instruments financiers (JO L 336 du 23.12.2003, p. 33).

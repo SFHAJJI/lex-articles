@@ -1,0 +1,346 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/411 of 29 November 2018 supplementing Directive (EU) 2015/2366",
+  "valid_from": "2018-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0411/versions/2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3/en.xml",
+    "sha256": "879726c6117945a11019671acb0206d449e581ca2d0d580a5fdf27001775adfa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0411"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purposes of this Regulation, a member of the staff of a competent authority who is responsible for manually inserting and modifying information in the electronic central register of the European Banking Authority (EBA) (the ‘electronic central register’) shall be an internal user.\n\n2. Each competent authority shall appoint at least two members of its staff as internal users.\n\n3. Competent authorities shall notify EBA of the identity of the persons referred to in paragraph 2.",
+      "text_sha256": "f75d5dc0fdf20355e0e75c06f3f1bfc3700d6795826c16227bdda8e53ec1f8cc",
+      "md_span": {
+        "start": 715,
+        "end": 1216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nEBA shall manage the list of internal users, provide the internal users with the authentication details, and provide technical support to the competent authorities.",
+      "text_sha256": "224a09a28bea1408c30ea5fbe1e45d4f2a9dbfdd4b1b67db4d3020897866706d",
+      "md_span": {
+        "start": 1249,
+        "end": 1424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The application of the electronic central register shall be accessible to internal users only by using two-factor authentication.\n\n2. EBA shall provide a default username and password and the other security credentials to the internal users for accessing the application of the electronic central register.\n\n3. Internal users shall be required to change their default username and password at their first log-in into the application of the electronic central register.\n\n4. EBA shall ensure that the authentication method applied allows the identification of each internal user.\n\n5. EBA shall ensure that the application of the electronic central register does not allow information to be inserted or modified in the electronic central register by persons who do not have access to the application of the register or who do not have the appropriate permissions to do so.",
+      "text_sha256": "32d6a24a3561b610310e6a1b7f21cf0112ce6fc81d8bc98016a9f658016fa755",
+      "md_span": {
+        "start": 1457,
+        "end": 2340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. For the purposes of this Regulation, public users of the electronic central register shall be payment service users and other interested parties, who access the electronic central register through the website of EBA.\n\n2. Public users shall be able to access the electronic central register without using access credentials.\n\n3. The access of public users to the electronic central register shall allow them only to read, search and download the information contained in the register. Public users shall not have any rights to modify the content of the register.\n\n4. When public users access the electronic central register, the website of EBA shall display the search criteria specified in Article 15(1).",
+      "text_sha256": "241dbd96cc3271e3dcf33b226758e6c99fa9ac367d88c78ae46030ef2e058acc",
+      "md_span": {
+        "start": 2373,
+        "end": 3091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Competent authorities shall transmit to EBA the information to be contained in the electronic central register manually via a web user interface or automatically via an application to application interface.\n\n2. Competent authorities shall notify EBA about their preferred approach for transmission of information under paragraph 1.\n\n3. Competent authorities which have notified EBA that their preferred approach is to transmit information automatically shall be allowed to transmit information manually upon prior notification to EBA.\n\n4. Competent authorities shall provide EBA with a hyperlink to their national public register. EBA shall make those hyperlinks publicly available in the electronic central register.",
+      "text_sha256": "a04582ea8e73b7595780d31a5b161db0923e7b9955f050105e80f07b9d2ef5e1",
+      "md_span": {
+        "start": 3124,
+        "end": 3855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Competent authorities which have decided to transmit information to EBA manually shall insert or modify information for their Member States in the web application of the electronic central register. The information shall be entered in the format specified in paragraphs 2 to 9 of Article 1 of the Commission Implementing Regulation (EU) 2019/410 (3).\n\n2. The manually inserted or modified information shall be made publicly available in the electronic central register after it has been validated by the application of that register in accordance with Article 8.\n\n3. When manually inserted or modified information fails to be validated by the application of the electronic central register, the information shall be rejected and not be made publicly available. The internal user shall make the insertion or modification once again using the corrected information.\n\n4. EBA shall insert a date and time stamp in the manually inserted or modified information in the electronic central register. That date and time stamp shall display the moment of the last change to the register.\n\n5. Competent authorities shall ensure that all amendments to the content of their national public registers related to the granting or withdrawal of authorisation or registration are inserted in the electronic central register of EBA on the same day.",
+      "text_sha256": "a99870cfd034bf02da0bd677c4e28ee8eadfdf59e65294ea759c271f6d82d4a8",
+      "md_span": {
+        "start": 3888,
+        "end": 5231
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2019073EN.01008401-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Competent authorities which have decided to transmit information to EBA automatically shall transmit the information directly from the applications of their national public registers to the application of the electronic central register.\n\n2. EBA and the competent authorities shall ensure secure transmission of information between the applications of their respective registers in order to safeguard the authenticity, integrity and non-repudiation of the information transmitted, using strong and widely recognised encryption techniques.\n\n3. Competent authorities shall transmit to EBA in a single batch file with a common standard and structured format (‘the batch file’) the whole set of information set out in paragraphs 2 to 9 of Article 1 of the Implementing Regulation (EU) 2019/410 contained in their national public registers.\n\n4. The transmission of the batch file shall take place at least once each day on which the content of a national public register has been amended.\n\n5. Where competent authorities amend the content of their national public registers in relation to the granting or withdrawal of authorisation or registration and they are unable to transmit those changes automatically, they shall insert them manually on the same day.\n\n6. EBA shall allow the competent authorities to transmit a batch file once a day irrespective of whether the content of their national public registers has been amended.\n\n7. The information automatically transmitted to the electronic central register shall be made publicly available in the register as soon as possible after the batch file has been processed and validated by the application of the electronic central register in accordance with Article 8 and at the latest by the end of the day on which the batch file was processed and validated. All information previously transmitted, or manually inserted by a competent authority, which is publicly available in the electronic central register shall be replaced by the subsequently transmitted information by that competent authority.\n\n8. EBA shall not allow competent authorities to transmit a new batch file before they have received the outcome of the validation of their previously transmitted batch file.\n\n9. Where automatically transmitted information fails to be validated by the application of the electronic central register, the whole set of information contained in the batch file shall be rejected and not be made publicly available in that register.\n\n10. EBA shall insert a date and time stamp in the information automatically transmitted to the application of the electronic central register. That date and time stamp shall display the moment of the last synchronisation between the electronic central register and the national public registers.",
+      "text_sha256": "192ed871cbda0fc46fd8bb1992e1f2b1b64956aae6580a4b2c6ab5b010ae77f4",
+      "md_span": {
+        "start": 5264,
+        "end": 8048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. The application of the electronic central register shall validate information transmitted by competent authorities to EBA in order to avoid any missing information or duplication of information.\n\n2. In order to avoid any missing information, the application of the electronic central register shall perform data validation on the fields filled in or transmitted by the competent authorities to EBA with the exception of the field for the commercial name of the natural or legal person.\n\n3. In order to avoid duplication of the information, the application of the register shall perform data validation on each of the following fields:\n\n| (a) | for payment institutions, natural or legal persons benefiting from an exemption pursuant to Article 32 of Directive (EU) 2015/2366, account information service providers, electronic money institutions, legal persons benefiting from an exemption pursuant to Article 9 of Directive 2009/110/EC of the European Parliament and of the Council (4), the institutions referred to in points (4) to (23) of Article 2(5) of Directive 2013/36/EU of the European Parliament and of the Council (5) and the persons whose authorisation or registration was withdrawn:(i)the national identification number;(ii)the relevant type of natural or legal person as referred to in paragraphs 2 to 9 of Article 1 of Implementing Regulation (EU) 2019/410;(iii)authorisation or registration date; |\n| --- | --- |\n| (i) | the national identification number; |\n| (ii) | the relevant type of natural or legal person as referred to in paragraphs 2 to 9 of Article 1 of Implementing Regulation (EU) 2019/410; |\n| (iii) | authorisation or registration date; |\n\n| (b) | for agents of payment institutions, natural or legal person benefiting from an exemption pursuant to Article 32 of Directive (EU) 2015/2366, account information service providers, electronic money institutions and legal persons benefiting from an exemption pursuant to Article 9 of Directive 2009/110/EC:(i)the national identification number of the agent;(ii)the national identification number of the natural or legal person on behalf of which the agent provides payment services;(iii)registration date; |\n| --- | --- |\n| (i) | the national identification number of the agent; |\n| (ii) | the national identification number of the natural or legal person on behalf of which the agent provides payment services; |\n| (iii) | registration date; |\n\n| (c) | for service providers carrying out services under points (i) and (ii) of point (k) and point (l) of Article 3 of Directive (EU) 2015/2366:(i)the national identification number of the service provider;(ii)the exclusion under which the service provider carries out activities;(iii)the registration date. |\n| --- | --- |\n| (i) | the national identification number of the service provider; |\n| (ii) | the exclusion under which the service provider carries out activities; |\n| (iii) | the registration date. |\n\n4. Where the status of authorisation or registration of a natural or legal person, which has agents providing payment services on its behalf, has changed from ‘authorised’ or ‘registered’ to ‘withdrawn’, the application of the electronic central register shall not perform data validation on the agents linked to that person.\n\n5. Competent authorities shall receive a response from the application of the electronic central register about the result of the data validation process as soon as possible in a clear and unequivocal way. The result of the data validation shall also include the percentage change to the content of the information previously transmitted.\n\n6. Where the transmitted information fails the validation process, EBA shall include in its response to the competent authorities all the reasons for the rejection.\n\n7. In the event of a failed validation where the amendments to the content of the national public register are related to granting or withdrawal of authorisation or registration, competent authorities which transmit information automatically shall, by the end of the day on which the validation failed, transmit a corrected or updated batch file with the whole set of information or manually insert the new amendments made to the content of their national public registers related to the granting or withdrawal of authorisation or registration.\n\n8. For the purposes of the validation of national identification numbers competent authorities shall notify to EBA the types and the formats of the national identification numbers which they use in their national registers.\n\n9. The application of the electronic central register shall enable competent authorities to insert an agent more than once in the register where the agent provides payment services on behalf of more than one natural or legal person. Each insertion shall be treated as a separate record.",
+      "text_sha256": "795e5e207f96380923cfdb9e1e1beab81a096eeb1aa171a82900153390eb050f",
+      "md_span": {
+        "start": 8081,
+        "end": 12921
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2019073EN.01008401-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2019073EN.01008401-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. EBA and the competent authorities shall ensure that agents inserted in the electronic central register are linked to the natural or legal person on behalf of which they provide payment services.\n\n2. Where a natural or legal person, which has agents providing payment services on its behalf, has its status of authorisation or registration changed from ‘authorised’ or ‘registered’ to ‘withdrawn’, the status of the agents linked to that natural or legal person shall be changed from ‘active’ to ‘inactive’.",
+      "text_sha256": "67c64d10557bf74842c8a536e5c7673d740f36f76c666c32eed0b73a5d75b76e",
+      "md_span": {
+        "start": 12954,
+        "end": 13474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Competent authorities shall be responsible for the accuracy of information manually inserted in or automatically transmitted to the application of the electronic central register about the natural or legal persons authorised or registered by them, as well as the agents and service providers carrying out services under points (i) and (ii) of point (k) and point (l) of Article 3 of Directive (EU) 2015/2366 listed in their national public registers.\n\n2. The application of the electronic central register shall enable internal users and applications of the national public registers to insert or modify the information for which their respective competent authority is responsible.\n\n3. Competent authorities shall not be able to modify the information for which other competent authorities are responsible.\n\n4. Competent authorities shall not be able to insert information concerning payment institutions, natural or legal persons benefiting from an exemption pursuant to Article 32 of Directive (EU) 2015/2366 and their agents, account information service providers, the institutions referred to in points (4) to (23) of Article 2(5) of Directive 2013/36/EU, electronic money institutions, legal persons benefiting from an exemption pursuant to Article 9 of Directive 2009/110/EC and their agents, and service providers carrying out services under points (i) and (ii) of point (k) and point (l) of Article 3 of Directive (EU) 2015/2366, established in another host Member State.",
+      "text_sha256": "9c4f3179d5a744a01819af7cf0c496869bdc8243492e6ef59578d32720d72dc1",
+      "md_span": {
+        "start": 13509,
+        "end": 15004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The application data of the electronic central register shall be backed up and the backup copies shall be stored for the purposes of disaster recovery.\n\n2. In the event that any security issues are detected, EBA shall be able to immediately shut down the application of the electronic central register and prevent any access to the server.\n\n3. The application of the electronic central register shall be able to recover from crashes without undue delay and to continue its normal operation.\n\n4. In the event that the application of the electronic central register is down and cannot process batch files transmitted by the competent authorities, that application shall process the most recent files which were transmitted by each competent authority after restoring its normal operation.\n\n5. EBA shall notify the competent authorities of any failure or down-time of the application of the electronic central register.\n\n6. Where a failure of the application of the electronic central register has affected the processing of a batch file transmitted by a competent authority, EBA shall request the competent authority to submit a new batch file. Where the competent authority is unable to do so, it shall request EBA to roll-back the data to the version that was submitted with the last validated batch file prior to the failure.\n\n7. EBA shall develop its register in accordance with the international standards for cyber security.",
+      "text_sha256": "3796b18218334e8a8d84c2ac4c504e248639bd5a531d4cc7466fbf5a2cabe1fb",
+      "md_span": {
+        "start": 15039,
+        "end": 16482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The electronic central register shall be able to accommodate the initial set of data currently existing in the public registers maintained by the competent authorities.\n\n2. The application of the electronic central register shall be able to accommodate an increase in the volume of the information received from competent authorities. Such an increase shall not affect the availability of the register.\n\n3. EBA shall ensure that the electronic central register becomes available immediately after normal operation has been restored following any failure of the application of the register.\n\n4. The automated transmission of information referred to in Article 7 shall not affect the availability of the electronic central register.\n\n5. EBA shall inform public users of any unavailability of the electronic central register as well as of the reasons for that unavailability and the recovery of that register by displaying that information on its website",
+      "text_sha256": "8dafe015a656e6924113965254d9049493ed4ed40a89f3723ef939fbefc9e272",
+      "md_span": {
+        "start": 16517,
+        "end": 17483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. EBA shall monitor the operation of the application of the register, analyse its performance and, where necessary, introduce changes to ensure that the application complies with the requirements set out in this Regulation.\n\n2. EBA shall monitor the regular transmission and update of information in the electronic central register by the competent authorities.\n\n3. EBA shall review the suitability of the non-functional requirements specified in this Chapter on a regular basis.\n\n4. EBA shall provide support to the competent authorities in relation to the operation of the electronic central register. For that purpose EBA shall introduce a functionality in the application of the register enabling competent authorities to submit a query. EBA shall put all such queries in a queue.\n\n5. EBA shall respond to the queries referred to in paragraph 4 without undue delay by the end of the day on which the query was made. EBA shall respond to the queries in order of reception.\n\n6. EBA shall provide the competent authorities with a testing environment and support for that technical environment.\n\n7. EBA shall establish a designated channel for communication of incidents related to the operation of the electronic central register.",
+      "text_sha256": "cd303253c3eaab2ba74dc00e1aaabe98bb5d9096fd8262835381486a3f32d675",
+      "md_span": {
+        "start": 17518,
+        "end": 18762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The electronic central register shall enable recording of all the information transmitted by competent authorities to EBA.\n\n2. The electronic central register shall enable recording of all automated or manual actions performed by the applications of the national public registers or by internal users respectively, as well as the time when those actions were performed.\n\n3. EBA shall be able to access the data recorded pursuant to paragraphs 1 and 2.\n\n4. EBA shall be able to extract reports from the data recorded pursuant to paragraphs 1 and 2 which enable it to monitor and interpret the information transmitted by the competent authorities.",
+      "text_sha256": "98bb6c6ee2771058142e790925ced543c0b5e7452b2edac042a39e86ed89b46c",
+      "md_span": {
+        "start": 18797,
+        "end": 19457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The electronic central register shall enable users of the register to search information in the register on the basis of different search criteria including each of the following:\n\n| (a) | the relevant type of natural or legal person as referred to in paragraphs 2 to 9 of Article 1 of Implementing Regulation (EU) 2019/410; |\n| --- | --- |\n\n| (b) | the name of the natural or legal person; |\n| --- | --- |\n\n| (c) | the national identification number of the natural or legal person; |\n| --- | --- |\n\n| (d) | the name of the competent authority responsible for the operation of the national public register; |\n| --- | --- |\n\n| (e) | the country where the natural or legal person is established; |\n| --- | --- |\n\n| (f) | the city where the natural or legal person is established; |\n| --- | --- |\n\n| (g) | the payment services and electronic money services provided; |\n| --- | --- |\n\n| (h) | the host Member State in which the authorised or registered payment institution, electronic money institution or account information service provider provides services or has notified its intention to provide services; |\n| --- | --- |\n\n| (i) | the payment and electronic money services provided in the host Member State; |\n| --- | --- |\n\n| (j) | the status of authorisation or registration; |\n| --- | --- |\n\n| (k) | the date of authorisation or registration; |\n| --- | --- |\n\n| (l) | the date of withdrawal of authorisation or registration. |\n| --- | --- |\n\n2. The electronic central register shall perform the search of information when at least one of the search criteria is filled in.\n\n3. The electronic central register shall enable users of the register to use any combination of the criteria specified in paragraph 1.\n\n4. The electronic central register shall enable users of the register to select the information in items (a), (d), (e) and (j) of paragraph 1 from a drop-down menu.\n\n5. The electronic central register shall enable users of the register to select the search criteria referred to in points (g), (h) and (i) of paragraph 1 from a multi-select menu.\n\n6. EBA shall ensure that searches that enable the use of symbols or signs to replace individual characters and/or words (wildcard searches) are available for users of the register to increase the breadth of a search.\n\n7. EBA shall inform the users of the register how to use the symbols referred to in paragraph 6 by displaying the information on its website.",
+      "text_sha256": "3c1a259781f7df82bbd3b178a68a24f50bd6fd053b9bfe21e70ac0431d886157",
+      "md_span": {
+        "start": 19492,
+        "end": 21927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. The electronic central register shall display as search results all natural and legal persons which meet the search criteria filled in by the user of the register.\n\n2. The information displayed concerning the natural and legal persons shall include the following:\n\n| (a) | the name of the person; |\n| --- | --- |\n\n| (b) | the national identification number of the person; |\n| --- | --- |\n\n| (c) | the country where it is established; |\n| --- | --- |\n\n| (d) | the city where it is established; |\n| --- | --- |\n\n| (e) | the relevant type of natural or legal person as referred to in paragraphs 2 to 9 of Article 1 of Implementing Regulation (EU) 2019/410; |\n| --- | --- |\n\n| (f) | the payment services and electronic money services provided. |\n| --- | --- |\n\n3. When selecting the name of a natural or legal person from the displayed search results, the information specified in paragraphs 2 to 9 of Article 1 of Implementing Regulation (EU) 2019/410 shall be displayed for the respective person, including the latest date and time stamp inserted by EBA.\n\n4. Agents shall be displayed both as a separate record and as part of the record of the natural or legal person on behalf of which they provide payment services.\n\n5. EBA shall accurately display in the electronic central register the information transmitted by the competent authorities and ensure that the information displayed is complete.",
+      "text_sha256": "e9ec528bf9e086df8445e590c7f1a549816238798a03901af4dd79fc656cdb7b",
+      "md_span": {
+        "start": 21962,
+        "end": 23372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. EBA shall make the content of the electronic central register available for manual and automated download by public users of the register by copying the content to a standardised file.\n\n2. EBA shall update the standardised file referred to in paragraph 1 at least twice a day at pre-determined intervals. EBA shall disclose the pre-determined intervals for such updates.",
+      "text_sha256": "7c67a7cab185d7709675545e5c4f56c949d473904bacab5eabacb4f7909eb034",
+      "md_span": {
+        "start": 23407,
+        "end": 23792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0411:2018-11-29--ab57f842a992697729b35ed61e0382b91c7117c371ce2ea893f8866eb59771b3#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "ffdf9470d37fa5e79986147f905b96cde8308307cb2f0c045bb49f3126e18c90",
+      "md_span": {
+        "start": 23827,
+        "end": 23979
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

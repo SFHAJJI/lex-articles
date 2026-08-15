@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0428:2025-02-18--66bbf07222b49711dc2ad993f00fc2e9e704f171715b4d9fb407163e88ee8c44",
+  "language": "en",
+  "title": "Council Implementing Regulation (EU) 2025/428 of 18 February 2025 amending Implementing Re…",
+  "valid_from": "2025-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0428/versions/2025-02-18--66bbf07222b49711dc2ad993f00fc2e9e704f171715b4d9fb407163e88ee8c44/en.xml",
+    "sha256": "6a7ba8f9b1b4ef98628919c5caa2b07b73cc80a0a0760cfaadc30be75c70f95f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0428"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0428:2025-02-18--66bbf07222b49711dc2ad993f00fc2e9e704f171715b4d9fb407163e88ee8c44#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) No 282/2011 is amended as follows:\n\n| (1) | in Article 51, paragraph 1 is replaced by the following:‘1. Where the recipient of a supply of goods or services is established within the Union but not in the Member State in which the supply takes place, and the electronic exemption certificate pursuant to Article 151a of Directive 2006/112/EC is not used, the VAT and/or excise duty exemption certificate set out in Annex II to this Regulation, shall, subject to the explanatory notes set out in that Annex, serve to confirm that the transaction qualifies for the exemption under Article 151(1) of Directive 2006/112/EC.When using that certificate, the Member State in which the recipient of the supply of goods or services is established may decide to use either a common VAT and excise duty exemption certificate or two separate certificates.’; |\n| --- | --- |\n\n| (2) | Annex II is replaced by the text in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "141ad243a83504e011fef70350af4799c46bac1dd8d85544c2f7fe4fd50592f8",
+      "md_span": {
+        "start": 702,
+        "end": 1693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0428:2025-02-18--66bbf07222b49711dc2ad993f00fc2e9e704f171715b4d9fb407163e88ee8c44#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nImplementing Regulation (EU) No 282/2011 is amended as follows:\n\n| (1) | Article 51 is deleted; |\n| --- | --- |\n\n| (2) | Annex II is deleted. |\n| --- | --- |",
+      "text_sha256": "80f7954894397af39e4a71ad087dbdd45cf83796de73f7f40b9bc9656be06631",
+      "md_span": {
+        "start": 1726,
+        "end": 1894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0428:2025-02-18--66bbf07222b49711dc2ad993f00fc2e9e704f171715b4d9fb407163e88ee8c44#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\n2. Article 1 shall apply from 1 July 2031.\n\n3. Article 2 shall apply from 1 July 2032.",
+      "text_sha256": "e023c2706287b95d250d4f0eba9f1644028fbcfcf7f7566ec066a1c34642275b",
+      "md_span": {
+        "start": 1927,
+        "end": 2169
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

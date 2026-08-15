@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2017 : Règlement grand-ducal du 18 décembre 2009 déterminant les conditions de reconnaissance des prestataires d’autres Etats membres pour exercer par la voie de la libre prestation de service toutes missions qui sont confiées par la loi à titre exclusif aux réviseurs d’entreprises.",
+  "valid_from": "2017-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-12-18-n17/versions/2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e/fr.xml",
+    "sha256": "618416cbe9a4921489ed19cca3abef088b1da9f66d4f9b576ad022edc42729e3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_1er/20170701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Du champ d’application",
+      "path": [],
+      "article_valid_from": "2017-07-01",
+      "text_md": "Le présent règlement grand-ducal s’applique aux services fournis de façon temporaire et occasionnelle par les prestataires ressortissants d’un Etat membre de l’Union européenne ou d’un Etat partie à l’accord sur l’Espace économique européen par la voie de la libre prestation de services en ce qui concerne les activités visées à l’article 1er, point 34, lettre b), de la loi du 23 juillet 2016 relative à la profession de l’audit.",
+      "text_sha256": "91865879734a3d2bd2909b9fe17a0d8144dbb43680c6e5368afbd2caf99c9f20",
+      "md_span": {
+        "start": 902,
+        "end": 1333
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n8/jo",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_2/20170701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "De la procédure de reconnaissance",
+      "path": [],
+      "article_valid_from": "2017-07-01",
+      "text_md": "En cas de déclaration préalable à la première fourniture de service à la Commission de Surveillance du Secteur Financier, ci-après désignée la «CSSF», en application de l’article 8 de la loi du 23 juillet 2016 relative à la profession de l’audit, la CSSF effectue une vérification des qualifications professionnelles.\n\nLa CSSF peut à cet effet consulter la commission consultative visée à l’article 1er, alinéa 2, du règlement grand-ducal modifié du 9 juillet 2013 déterminant les conditions de qualification professionnelles des réviseurs d’entreprises et des réviseurs d’entreprises agréés.\n\nSi la vérification révèle une différence substantielle dans les qualifications professionnelles exigées, le prestataire doit se soumettre à une épreuve d’aptitude.",
+      "text_sha256": "c3b009d0d8970ac7e55c504717c8d89e64e61e9c2193048c9cf5a71c81bf2567",
+      "md_span": {
+        "start": 1402,
+        "end": 2159
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n8/jo",
+          "text": "loi du 23 juillet 2016"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2013/07/09/n5/jo",
+          "text": "règlement grand-ducal modifié du 9 juillet 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_3/20100223",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Des matières visées à l’épreuve d’aptitude",
+      "path": [],
+      "article_valid_from": "2010-02-23",
+      "text_md": "La CSSF détermine l’épreuve d’aptitude qui sera imposée au prestataire dans un ou plusieurs domaines repris ci-après:\n\n- droit commercial et droit des sociétés;\n- les normes relatives aux activités visées.",
+      "text_sha256": "a6e97e5f26a407567e013039dfb55a9532d75aa2e740a4b68c3d0173970fcd8f",
+      "md_span": {
+        "start": 2237,
+        "end": 2442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_4/20100223",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Du déroulement de l’épreuve d’aptitude",
+      "path": [],
+      "article_valid_from": "2010-02-23",
+      "text_md": "L’organisation de l’épreuve d’aptitude est arrêtée par la CSSF. L’épreuve a lieu, si nécessaire deux fois par an.\n\nLa langue de l’épreuve est le français. Sur demande expresse du prestataire et sous réserve de l’accord de la CSSF, il peut s’exprimer, lors de l’épreuve, en langue allemande ou anglaise.\n\nL’épreuve d’aptitude consiste en un écrit reprenant la(es) matière(s) visée(s) à l’article 3 du présent règlement grand-ducal. La rédaction du sujet ainsi que la correction de cette épreuve est assurée par la CSSF.\n\nPour réussir l’épreuve d’aptitude, le candidat doit avoir obtenu pour chaque matière au moins la moitié du total des points.",
+      "text_sha256": "8dd3adfa66a6f86c789b1e46b01a9f906c9556ac08df5adbb05778369d2ccc26",
+      "md_span": {
+        "start": 2516,
+        "end": 3160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_5/20170701",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "De la reconnaissance",
+      "path": [],
+      "article_valid_from": "2017-07-01",
+      "text_md": "Lorsque le prestataire remplit les conditions exigées à l’article 8 de la loi du 23 juillet 2016 relative à la profession de l’audit ou après réussite de l’épreuve d’aptitude visée à l’article 4 du présent règlement grand-ducal, la CSSF notifie au prestataire la reconnaissance de ses qualifications professionnelles pour effectuer la prestation demandée sous le régime de la libre prestation de services.",
+      "text_sha256": "7ed3361b2d89232fdabac4b618d5dbd163ccd2cd8fa043afbeac9169ab02c2aa",
+      "md_span": {
+        "start": 3216,
+        "end": 3621
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/jo",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_6/20100223",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Des dispositions finales",
+      "path": [],
+      "article_valid_from": "2010-02-23",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le jour de sa publication au Mémorial.",
+      "text_sha256": "aab4bce26c0f781e7c7bf2ddd62cf5174a2832e62624ac15325497fe43daa0ff",
+      "md_span": {
+        "start": 3681,
+        "end": 3769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-12-18-n17:2017-07-01--984699802f7ca172aa36cb01c484db341fa9f3fec1e1ca22a927e615e7fab68e#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/art_7/20100223",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "De l’exécution",
+      "path": [],
+      "article_valid_from": "2010-02-23",
+      "text_md": "Notre Ministre des Finances est chargé de l’exécution du présent règlement grand-ducal qui sera publié au Mémorial.",
+      "text_sha256": "a8e1a93d4940a55c911e7417abafbd0afb2aea1a7343b6146ff9850d5bd90096",
+      "md_span": {
+        "start": 3819,
+        "end": 3934
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32007r0681:2007-06-13--889e34ca17433b162b4ff5caef8e7eb93f96edffbf094ac4bd0aab719ec67181",
+  "language": "en",
+  "title": "Council Regulation (EC) No\u00A0681/2007 of 13 June 2007 amending the lists of insolvency proce…",
+  "valid_from": "2007-06-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32007r0681/versions/2007-06-13--889e34ca17433b162b4ff5caef8e7eb93f96edffbf094ac4bd0aab719ec67181/en.xml",
+    "sha256": "77d59763cf6e55b736f6f1aab79b16d5638b0059fad8512b39f11823d0f9fb49",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0681"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32007r0681:2007-06-13--889e34ca17433b162b4ff5caef8e7eb93f96edffbf094ac4bd0aab719ec67181#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EC) No 1346/2000 is hereby amended as follows:\n\n| 1. | Annex A shall be replaced by the text set out in Annex I to this Regulation; |\n| --- | --- |\n\n| 2. | Annex B shall be replaced by the text set out in Annex II to this Regulation; |\n| --- | --- |\n\n| 3. | Annex C shall be replaced by the text set out in Annex III to this Regulation. |\n| --- | --- |",
+      "text_sha256": "32666e174b1ba02035f7bc650d606453d6e1412e0166c41d42ce7b5fba89a20e",
+      "md_span": {
+        "start": 702,
+        "end": 1077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32007r0681:2007-06-13--889e34ca17433b162b4ff5caef8e7eb93f96edffbf094ac4bd0aab719ec67181#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.\n\nHowever, the designations in Annexes A, B and C for the Czech Republic shall apply from 1 January 2008.",
+      "text_sha256": "20d9fce634e975d4f385eb1b07bc125857807d1b52e247ec241cd1c3cb64138b",
+      "md_span": {
+        "start": 1110,
+        "end": 1348
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

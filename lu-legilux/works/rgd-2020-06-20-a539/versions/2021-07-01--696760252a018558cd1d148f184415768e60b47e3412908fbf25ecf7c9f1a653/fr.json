@@ -1,0 +1,106 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-06-20-a539:2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 20 juin 2020 portant dérogation à l’article 2 du règlement grand-ducal modifié du 15 septembre 1975 portant fixation du taux d’indemnisation des chômeurs partiels.",
+  "valid_from": "2021-07-01",
+  "valid_to": "2021-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-06-20-a539/versions/2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653/fr.xml",
+    "sha256": "1c00f82d52254fa073510f26f2f4acf45b396dca0fb89b8a6e2f225c523423f7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20210701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a539:2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/art_1er/20200625",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Par dérogation à l’article 2 du règlement grand-ducal modifié du 15 septembre 1975 portant fixation du taux d’indemnisation des chômeurs partiels, l’indemnité de compensation ne peut pas être inférieure au taux du salaire social minimum pour salaires non qualifiés.\n\nLe cas échéant celui-ci s’y substitue.",
+      "text_sha256": "b9a72337b2147b13b1028f662b1b5aa91f3ab8193f61369b3ee176ec73b28b67",
+      "md_span": {
+        "start": 799,
+        "end": 1104
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1975/09/15/n1/jo",
+          "text": "règlement grand-ducal modifié du 15 septembre 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a539:2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/art_2/20200625",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Le règlement grand-ducal du 27 mars 2020 portant modification temporaire de l’article 2 du règlement grand-ducal modifié du 15 septembre 1975 portant fixation du taux d’indemnisation des chômeurs partiels est abrogé.",
+      "text_sha256": "5d41a39644b6c92101380c177c2c9ca9e5eb60b9bd7645145080d395d4c21bac",
+      "md_span": {
+        "start": 1139,
+        "end": 1355
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2020/03/27/a204/jo",
+          "text": "règlement grand-ducal du 27 mars 2020"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1975/09/15/n1/jo",
+          "text": "règlement grand-ducal modifié du 15 septembre 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a539:2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/art_3/20210701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-01",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg et s’applique jusqu’au 31 décembre.",
+      "text_sha256": "d72bb47ab822bbed64a649897a80695ae12adc3a01891254e1bd4eb1d987ea38",
+      "md_span": {
+        "start": 1390,
+        "end": 1538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a539:2021-07-01--696760252a018558cd1d148f184415768e60b47e3412908fbf25ecf7c9f1a653#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/art_4/20200625",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Notre ministre ayant le Travail dans ses attributions et Notre ministre ayant l’Économie dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "ac63e474aa78499d69f3f5ee20e11fbb1bbdaeb7ea0a1927a62cf146abbd6191",
+      "md_span": {
+        "start": 1573,
+        "end": 1829
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

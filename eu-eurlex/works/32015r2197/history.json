@@ -11,13 +11,13 @@
         "valid_from": "2018-11-11",
         "valid_to": "2019-12-28",
         "text_sha256": "45a64337abefbae9b0d0e5a9bddbf338125b58501ffa67b5fe8b5e6b1bd5cd8a",
-        "in_version": "eu-eurlex:32015r2197:2018-11-11"
+        "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "valid_from": "2019-12-29",
         "valid_to": "2021-03-09",
         "text_sha256": "77bbfc5f3f18888ca35b0117295a6265b1ae9e1c5b3bc5efc303122826141313",
-        "in_version": "eu-eurlex:32015r2197:2019-12-29"
+        "in_version": "eu-eurlex:32015r2197:2019-12-29--4a8b40d92217c869d1ac6f6763b4c25e59bc4f5f388397a5eb61837d3295f4e3"
       }
     ],
     "art_1": [
@@ -25,13 +25,13 @@
         "valid_from": "2015-11-27",
         "valid_to": "2018-11-10",
         "text_sha256": "066a57955281efc0ca738282ebc499fed952030e3636c66ed30917a6df9425c4",
-        "in_version": "eu-eurlex:32015r2197:2015-11-27"
+        "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
       },
       {
         "valid_from": "2018-11-11",
         "valid_to": null,
         "text_sha256": "a8e25ad974b456aa556e6c63de73763705c278e668b5f33905cb1ee63d2e4a91",
-        "in_version": "eu-eurlex:32015r2197:2018-11-11"
+        "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       }
     ],
     "art_2": [
@@ -39,19 +39,19 @@
         "valid_from": "2015-11-27",
         "valid_to": "2018-11-10",
         "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
-        "in_version": "eu-eurlex:32015r2197:2015-11-27"
+        "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
       },
       {
         "valid_from": "2018-11-11",
         "valid_to": "2021-03-09",
         "text_sha256": "1496d379e651ada069d4bdbc17b87ee88feac95d5e3680a02841069eabd8f4eb",
-        "in_version": "eu-eurlex:32015r2197:2018-11-11"
+        "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "valid_from": "2021-03-10",
         "valid_to": null,
         "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
-        "in_version": "eu-eurlex:32015r2197:2021-03-10"
+        "in_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
       }
     ]
   },
@@ -59,12 +59,12 @@
     {
       "type": "inserted",
       "anchor": "annex",
-      "at_version": "eu-eurlex:32015r2197:2018-11-11"
+      "at_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
     },
     {
       "type": "removed",
       "anchor": "annex",
-      "at_version": "eu-eurlex:32015r2197:2021-03-10"
+      "at_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
     }
   ],
   "anchors_by_language": {
@@ -74,13 +74,13 @@
           "valid_from": "2018-11-11",
           "valid_to": "2019-12-28",
           "text_sha256": "45a64337abefbae9b0d0e5a9bddbf338125b58501ffa67b5fe8b5e6b1bd5cd8a",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         },
         {
           "valid_from": "2019-12-29",
           "valid_to": "2021-03-09",
           "text_sha256": "77bbfc5f3f18888ca35b0117295a6265b1ae9e1c5b3bc5efc303122826141313",
-          "in_version": "eu-eurlex:32015r2197:2019-12-29"
+          "in_version": "eu-eurlex:32015r2197:2019-12-29--4a8b40d92217c869d1ac6f6763b4c25e59bc4f5f388397a5eb61837d3295f4e3"
         }
       ],
       "art_1": [
@@ -88,13 +88,13 @@
           "valid_from": "2015-11-27",
           "valid_to": "2018-11-10",
           "text_sha256": "066a57955281efc0ca738282ebc499fed952030e3636c66ed30917a6df9425c4",
-          "in_version": "eu-eurlex:32015r2197:2015-11-27"
+          "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
         },
         {
           "valid_from": "2018-11-11",
           "valid_to": null,
           "text_sha256": "a8e25ad974b456aa556e6c63de73763705c278e668b5f33905cb1ee63d2e4a91",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         }
       ],
       "art_2": [
@@ -102,19 +102,19 @@
           "valid_from": "2015-11-27",
           "valid_to": "2018-11-10",
           "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
-          "in_version": "eu-eurlex:32015r2197:2015-11-27"
+          "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
         },
         {
           "valid_from": "2018-11-11",
           "valid_to": "2021-03-09",
           "text_sha256": "1496d379e651ada069d4bdbc17b87ee88feac95d5e3680a02841069eabd8f4eb",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         },
         {
           "valid_from": "2021-03-10",
           "valid_to": null,
           "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
-          "in_version": "eu-eurlex:32015r2197:2021-03-10"
+          "in_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
         }
       ]
     },
@@ -124,19 +124,19 @@
           "valid_from": "2018-11-11",
           "valid_to": "2019-12-28",
           "text_sha256": "d4ba8027bed567280b5cc97bcb93c8e6f01eaf8bcb13523c1ac7ff2462c00132",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         },
         {
           "valid_from": "2019-12-29",
           "valid_to": "2021-03-09",
           "text_sha256": "646a4b015437a0ddd90626147d95d42e1cf3a8714ce5db864bb037d853112776",
-          "in_version": "eu-eurlex:32015r2197:2019-12-29"
+          "in_version": "eu-eurlex:32015r2197:2019-12-29--4a8b40d92217c869d1ac6f6763b4c25e59bc4f5f388397a5eb61837d3295f4e3"
         },
         {
           "valid_from": "2021-03-10",
           "valid_to": "2023-09-30",
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32015r2197:2021-03-10"
+          "in_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
         }
       ],
       "art_1": [
@@ -144,13 +144,13 @@
           "valid_from": "2015-11-27",
           "valid_to": "2018-11-10",
           "text_sha256": "54870960a21d5db159f10cf8af5e993101888ae4414271208ee2f4ede1f4d3a3",
-          "in_version": "eu-eurlex:32015r2197:2015-11-27"
+          "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
         },
         {
           "valid_from": "2023-10-01",
           "valid_to": null,
           "text_sha256": "b8a2fbd7daca018151e8faf8c01c9baaab5d2d581d2953321e7bef16f811d8b7",
-          "in_version": "eu-eurlex:32015r2197:2023-10-01"
+          "in_version": "eu-eurlex:32015r2197:2023-10-01--40819b39329fe3bc1dd0efe47f38bcbc5c1442a294ef09ed3864859f3b0e17a6"
         }
       ],
       "art_2": [
@@ -158,19 +158,19 @@
           "valid_from": "2015-11-27",
           "valid_to": "2018-11-10",
           "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
-          "in_version": "eu-eurlex:32015r2197:2015-11-27"
+          "in_version": "eu-eurlex:32015r2197:2015-11-27--2b7e6c78117a1a2a7e129a3f2e99d0f2a0c9c89429090227989bf5ccb729569d"
         },
         {
           "valid_from": "2018-11-11",
           "valid_to": "2023-09-30",
           "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         },
         {
           "valid_from": "2023-10-01",
           "valid_to": null,
           "text_sha256": "272d7d1c39327603d469e4a8c3f0e02f346a84edfb12c54db68a230fe3f483e9",
-          "in_version": "eu-eurlex:32015r2197:2023-10-01"
+          "in_version": "eu-eurlex:32015r2197:2023-10-01--40819b39329fe3bc1dd0efe47f38bcbc5c1442a294ef09ed3864859f3b0e17a6"
         }
       ],
       "art_premier": [
@@ -178,7 +178,7 @@
           "valid_from": "2018-11-11",
           "valid_to": "2023-09-30",
           "text_sha256": "b8a2fbd7daca018151e8faf8c01c9baaab5d2d581d2953321e7bef16f811d8b7",
-          "in_version": "eu-eurlex:32015r2197:2018-11-11"
+          "in_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
         }
       ],
       "liste_des_devises_etroitement_correlees": [
@@ -186,7 +186,7 @@
           "valid_from": "2021-03-10",
           "valid_to": "2023-09-30",
           "text_sha256": "9bf92da020f3eb1c2c17aca703b8b733268e221b8f781c024ad9095f760217c6",
-          "in_version": "eu-eurlex:32015r2197:2021-03-10"
+          "in_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
         }
       ]
     }
@@ -196,52 +196,52 @@
       {
         "type": "inserted",
         "anchor": "annex",
-        "at_version": "eu-eurlex:32015r2197:2018-11-11"
+        "at_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "type": "removed",
         "anchor": "annex",
-        "at_version": "eu-eurlex:32015r2197:2021-03-10"
+        "at_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
       }
     ],
     "fr": [
       {
         "type": "removed",
         "anchor": "art_1",
-        "at_version": "eu-eurlex:32015r2197:2018-11-11"
+        "at_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "type": "inserted",
         "anchor": "annexe",
-        "at_version": "eu-eurlex:32015r2197:2018-11-11"
+        "at_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "type": "inserted",
         "anchor": "art_premier",
-        "at_version": "eu-eurlex:32015r2197:2018-11-11"
+        "at_version": "eu-eurlex:32015r2197:2018-11-11--efa41afda003ac11dbb3141dae2b85dbbdc3ac950eac02bb59960f73cccc9c8c"
       },
       {
         "type": "inserted",
         "anchor": "liste_des_devises_etroitement_correlees",
-        "at_version": "eu-eurlex:32015r2197:2021-03-10"
+        "at_version": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892"
       },
       {
         "type": "renumbered",
         "from": "art_premier",
         "to": "art_1",
         "text_sha256": "b8a2fbd7daca018151e8faf8c01c9baaab5d2d581d2953321e7bef16f811d8b7",
-        "at_version": "eu-eurlex:32015r2197:2023-10-01",
+        "at_version": "eu-eurlex:32015r2197:2023-10-01--40819b39329fe3bc1dd0efe47f38bcbc5c1442a294ef09ed3864859f3b0e17a6",
         "basis": "identical_text"
       },
       {
         "type": "removed",
         "anchor": "annexe",
-        "at_version": "eu-eurlex:32015r2197:2023-10-01"
+        "at_version": "eu-eurlex:32015r2197:2023-10-01--40819b39329fe3bc1dd0efe47f38bcbc5c1442a294ef09ed3864859f3b0e17a6"
       },
       {
         "type": "removed",
         "anchor": "liste_des_devises_etroitement_correlees",
-        "at_version": "eu-eurlex:32015r2197:2023-10-01"
+        "at_version": "eu-eurlex:32015r2197:2023-10-01--40819b39329fe3bc1dd0efe47f38bcbc5c1442a294ef09ed3864859f3b0e17a6"
       }
     ]
   }

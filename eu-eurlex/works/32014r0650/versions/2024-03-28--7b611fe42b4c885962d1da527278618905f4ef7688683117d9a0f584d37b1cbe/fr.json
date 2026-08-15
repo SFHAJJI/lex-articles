@@ -1,0 +1,137 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No\u00A0650/2014 of 4\u00A0June 2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU",
+  "valid_from": "2024-03-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0650/versions/2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe/fr.xml",
+    "sha256": "07b1bcaaef94d2682771fa75789cf2e3408ddb8a80bf990971fa456937afd912",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0650-20240328"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Dispositions législatives, réglementaires et administratives et orientations générales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités compétentes publient, conformément à l’article 143, paragraphe 1, point a), de la directive 2013/36/UE, les informations sur le texte des dispositions législatives, réglementaires et administratives et les orientations générales adoptées dans leur État membre en matière de régulation prudentielle en utilisant les formulaires pertinents figurant à l’annexe I, parties 1 à 8.",
+      "text_sha256": "7072ced3e28c23585614da16b0567a51314b63ca0489eb25e236b2f911c09ca5",
+      "md_span": {
+        "start": 1010,
+        "end": 1399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Options et facultés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités compétentes publient, conformément à l’article 143, paragraphe 1, point b), de la directive 2013/36/UE, les informations sur les modalités d’exercice des options et facultés prévues par le droit de l’Union en utilisant les formulaires pertinents figurant à l’annexe II, parties 1 à 12.",
+      "text_sha256": "3455ef2ab22b9260e2319a3196862981b999c957f81455f6cfb16050573fc80a",
+      "md_span": {
+        "start": 1458,
+        "end": 1757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Critères généraux et méthodes aux fins du processus de contrôle et d’évaluation prudentiels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités compétentes publient, conformément à l’article 143, paragraphe 1, point c), de la directive 2013/36/UE, des informations sur les critères généraux et les méthodes qu’elles appliquent aux fins du contrôle et de l’évaluation prudentiels visés à l’article 97 de ladite directive en utilisant le formulaire figurant à l’annexe III.",
+      "text_sha256": "469a46b0e8efce7de072c067a62fe172f2556cf9356c13c7b8ce8e64ea416644",
+      "md_span": {
+        "start": 1888,
+        "end": 2229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Données statistiques agrégées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités compétentes publient, conformément à l’article 143, paragraphe 1, point d), de la directive 2013/36/UE, les informations sur les données statistiques agrégées sur les principaux aspects de la mise en œuvre du cadre prudentiel en utilisant les formulaires figurant à l’annexe IV, parties 1 à 6.",
+      "text_sha256": "0890ff3a4a04c1b76ac4eb2c1987256965b63306a46bb47871d208f1f45499a9",
+      "md_span": {
+        "start": 2298,
+        "end": 2605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Date de publication annuelle",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les autorités compétentes publient les informations visées à l’article 143, paragraphe 1, de la directive 2013/36/UE à la même adresse électronique pour la première fois le 31 juillet 2014 au plus tard.\n\nLes autorités compétentes mettent à jour, au plus tard le 30 juin de chaque année, les informations visées à l’article 143, paragraphe 1, point d), de ladite directive. Ces informations couvrent l’année civile précédente.\n\nPour les établissements soumis à leur surveillance prudentielle, les autorités compétentes mettent à jour régulièrement, et en tout état de cause au plus tard le 30 juin de chaque année, les informations visées à l’article 143, paragraphe 1, points a) à c), de ladite directive, à moins que les informations publiées ne restent inchangées.",
+      "text_sha256": "6d6d57ac3002da042f04413debf69399232ececf4c9e76d7b8ca1bb10d67adb4",
+      "md_span": {
+        "start": 2673,
+        "end": 3439
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R0796",
+          "text": "32024R0796: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0650",
+          "text": "32014R0650"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0650:2024-03-28--7b611fe42b4c885962d1da527278618905f4ef7688683117d9a0f584d37b1cbe#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Dispositions finales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "11e55623deccd0fbb1a3cfd909fd2ec5b0ad4daa65cbb9de721456e10cc3ffc1",
+      "md_span": {
+        "start": 3499,
+        "end": 3631
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

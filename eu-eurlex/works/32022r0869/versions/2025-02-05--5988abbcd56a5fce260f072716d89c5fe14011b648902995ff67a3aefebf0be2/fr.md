@@ -1,0 +1,727 @@
+---
+lex_id: 'eu-eurlex:32022r0869:2025-02-05--5988abbcd56a5fce260f072716d89c5fe14011b648902995ff67a3aefebf0be2'
+title: 'Regulation (EU) 2022/869'
+valid_from: '2025-02-05'
+valid_to: '2026-04-28'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02022R0869-20250205'
+source_sha256: '23ca08c3686f743869db654dcbe347717e40943214e9ada9425bf3e34ae03af0'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPITRE I — Dispositions générales
+
+<a id="art_1"></a>
+
+### Article premier — Objet, objectifs et champ d’application
+
+**1.** Le présent règlement établit des orientations pour le développement et l’interopérabilité en temps utile des corridors et domaines prioritaires en matière d’infrastructures énergétiques transeuropéennes (les corridors et domaines prioritaires en matière d’infrastructures énergétiques) énoncés à l’annexe I qui contribuent à garantir l’atténuation du changement climatique, en particulier à parvenir aux objectifs de l’Union pour 2030 en matière d’énergie et de climat et à son objectif de neutralité climatique à l’horizon 2050 au plus tard, et à assurer des interconnexions, la sécurité énergétique, l’intégration du marché et des systèmes, la concurrence au bénéfice de tous les États membres et des prix de l’énergie abordables.
+
+**2.** En particulier, le présent règlement:a) prévoit le recensement de projets d’intérêt commun et de projets d’intérêt mutuel inscrits sur la liste de l’Union mis en place conformément à l’article 3 (liste de l’Union);b) facilite la mise en œuvre en temps utile des projets inscrits sur la liste de l’Union en rationalisant, en coordonnant de façon plus étroite et en accélérant les procédures d’octroi des autorisations ainsi qu’en renforçant la transparence et la participation du public;c) établit des règles pour la répartition transfrontière des coûts et la mise en place de mesures incitatives tenant compte des risques applicables aux projets inscrits sur la liste de l’Union;d) fixe les conditions d’éligibilité des projets inscrits sur la liste de l’Union pour une aide financière de l’Union.
+
+<a id="art_2"></a>
+
+### Article 2 — Définitions
+
+Aux fins du présent règlement, outre les définitions figurant dans les règlements (CE) no 715/2009, (UE) 2018/1999, (UE) 2019/942 et (UE) 2019/943 et dans les directives 2009/73/CE, (UE) 2018/2001 (1) et (UE) 2019/944, on entend par:
+
+1) «infrastructure énergétique», tout équipement matériel ou toute installation relevant des catégories d’infrastructures énergétiques qui est situé dans l’Union ou qui relie l’Union à un ou plusieurs pays tiers;
+
+2) «goulet d’étranglement des infrastructures énergétiques», la limitation des flux physiques dans un système énergétique en raison d’une capacité de transport insuffisante, qui comprend notamment l’absence d’infrastructure;
+
+3) «décision globale», la décision ou l’ensemble de décisions prises par une ou plusieurs autorités d’un État membre, à l’exception des cours et tribunaux, qui détermine si le promoteur d’un projet peut se voir accorder ou non l’autorisation de construire l’infrastructure énergétique permettant de réaliser un projet d’intérêt commun ou un projet d’intérêt mutuel en ayant la possibilité de commencer, avec ou sans passation de marché, les travaux de construction nécessaires («phase prêt à construire»), sans préjudice de toute décision prise dans le cadre d’une procédure de recours administratif;
+
+4) «projet», un(e) ou plusieurs lignes, gazoducs, oléoducs, installations ou équipements relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II;
+
+5) «projet d’intérêt commun», un projet nécessaire pour mettre en œuvre les corridors et les domaines prioritaires en matière d’infrastructures énergétiques énoncés à l’annexe I et inscrit sur la liste de l’Union;
+
+6) «projet d’intérêt mutuel», un projet promu par l’Union en coopération avec des pays tiers conformément aux lettres de soutien des gouvernements des pays directement concernés ou à d’autres accords non contraignants, qui relève d’une des catégories d’infrastructures énergétiques énoncées à l’annexe II, point 1 a) ou f), point 3 a) ou point 5 a) ou c), qui contribue aux objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et à son objectif de neutralité climatique à l’horizon 2050 et qui est inscrit sur la liste de l’Union;
+
+7) «projets concurrents», des projets qui pallient, en tout ou en partie, la même lacune recensée en matière d’infrastructures ou le même besoin régional en infrastructures;
+
+8) «promoteur de projets», l’une des catégories suivantes: a) un gestionnaire de réseau de transport (GRT), un gestionnaire de réseau de distribution (GRD) ou tout autre gestionnaire ou investisseur qui élabore un projet inscrit sur la liste de l’Union; b) dans le cas où sont concernés plusieurs GRT, GRD, un autre gestionnaire, un autre investisseur, ou tout groupe de ces catégories, l’entité dotée de la personnalité juridique au titre du droit national applicable, désignée en vertu d’un arrangement contractuel entre ces parties et dotée de la capacité de contracter des obligations légales et d’assumer la responsabilité financière pour le compte des parties à l’arrangement contractuel;
+
+9) «réseau électrique intelligent», un réseau électrique, y compris dans des îles non interconnectées ou insuffisamment connectées aux réseaux transeuropéens d’énergie, qui permet l’intégration rentable et le contrôle actif du comportement et des actions de l’ensemble des utilisateurs qui y sont connectés, notamment les producteurs, les consommateurs et les prosommateurs, afin d’obtenir un système électrique durable et efficace économiquement qui se caractérise par des pertes faibles et par un degré élevé d’intégration des sources renouvelables, de sécurité de l’approvisionnement et de sécurité, et dans lequel le gestionnaire de réseau peut surveiller par voie numérique les actions des utilisateurs qui y sont connectés, ainsi que les technologies de l’information et de la communication pour communiquer avec les gestionnaires de réseau, les producteurs, les installations de stockage de l’énergie et les consommateurs ou les prosommateurs connexes, en vue de transporter et de distribuer l’électricité de manière durable, rentable et sûre;
+
+10) «réseau gazier intelligent», un réseau gazier qui utilise des solutions numériques innovantes pour intégrer de manière rentable une pluralité de sources de gaz à faibles émissions de carbone, et en particulier renouvelables, conformément aux besoins des consommateurs et aux exigences de qualité applicables au gaz, afin de réduire l’empreinte carbone de la consommation de gaz correspondante, de permettre une part accrue de gaz renouvelables et à faibles émissions de carbone et de créer des liens avec d’autres vecteurs et secteurs énergétiques, y compris les mises à niveau physiques correspondantes lorsqu’elles sont indispensables au fonctionnement de l’équipement et des installations pour intégrer les gaz à faibles émissions de carbone, et en particulier renouvelables;
+
+11) «autorité concernée», l’autorité qui, en vertu du droit national, est compétente pour délivrer différents permis et autorisations relatifs à la planification, à la conception et à la construction de biens immobiliers, y compris les infrastructures énergétiques;
+
+12) «autorité de régulation nationale», une autorité de régulation nationale désignée conformément à l’article 39, paragraphe 1, de la directive 2009/73/CE ou une autorité de régulation au niveau national désignée conformément à l’article 57 de la directive (UE) 2019/944;
+
+13) «autorité de régulation nationale compétente», l’autorité de régulation nationale des États membres qui accueillent les projets et des États membres sur lesquels le projet a une incidence positive importante;
+
+14) «travaux», l’achat, la fourniture et le déploiement des composants, des systèmes et des services, y compris des logiciels, la réalisation des activités de développement, de réaffectation, de construction et d’installation relatives à un projet, la réception des installations et le lancement d’un projet;
+
+15) «études», les activités nécessaires à la préparation de la mise en œuvre d’un projet, telles que les études préparatoires, de faisabilité, d’évaluation, d’essais et de validation, y compris des logiciels, et toute autre mesure d’appui technique, y compris les actions préalables à la définition et au développement d’un projet ainsi qu’à la prise de décision quant à son financement, telles que les actions de reconnaissance sur les sites concernés et la préparation du montage financier;
+
+16) «mise en service», la procédure de mise en exploitation d’un projet après sa construction;
+
+17) «actifs affectés à l’hydrogène», une infrastructure prête à accueillir de l’hydrogène pur sans travaux d’adaptation supplémentaires, y compris les réseaux de canalisations ou les installations de stockage nouvellement construits, réaffectés à partir d’actifs de gaz naturel, ou les deux;
+
+18) «réaffectation», la mise à niveau technique ou la modification d’infrastructures existantes pour le gaz naturel afin qu’elles soient spécifiquement utilisées pour l’hydrogène pur;
+
+19) «adaptation au changement climatique», un processus visant à garantir la résilience des infrastructures énergétiques face aux effets négatifs potentiels du changement climatique au moyen d’une évaluation des risques et de la vulnérabilité climatique, notamment dans le cadre de mesures d’adaptation appropriées.
+
+## CHAPITRE II — Projets d’intérêt commun et projets d’intérêt mutuel
+
+<a id="art_3"></a>
+
+### Article 3 — Liste des projets d’intérêt commun et des projets d’intérêt mutuel de l’Union
+
+**1.** Des groupes régionaux (ci-après dénommés «groupes») sont établis conformément à la procédure énoncée à l’annexe III, section 1. L’appartenance à un groupe est fondée sur chaque corridor et domaine prioritaire et leur couverture géographique respective comme il est énoncé à l’annexe I. Le pouvoir de décision au sein des groupes est réservé aux États membres et à la Commission (ci-après dénommés «organe de décision») et repose sur le consensus.
+
+**2.** Chaque groupe adopte son propre règlement intérieur compte tenu des dispositions de l’annexe III.
+
+**3.** L’organe de décision de chaque groupe adopte une liste régionale de projets, dressée conformément à la procédure énoncée à l’annexe III, section 2, en fonction de la contribution de chaque projet à la mise en œuvre des corridors et domaines prioritaires en matière d’infrastructures énergétiques énoncés à l’annexe I et de leur conformité avec les critères énoncés à l’article 4.
+
+Lorsqu’un groupe dresse sa liste régionale:
+
+a) chaque proposition individuelle de projet requiert l’approbation des États membres dont le territoire est concerné par le projet; si un État membre refuse de donner son approbation, il présente les motifs de ce refus au groupe concerné;
+
+b) il tient compte de l’avis de la Commission visant à disposer d’un nombre total de projets inscrits sur la liste de l’Union qui soit gérable.
+
+**4.** La Commission est habilitée à adopter des actes délégués conformément à l’article 20 du présent règlement afin de fixer la liste de l’Union, sous réserve de l’article 172, deuxième alinéa, du traité sur le fonctionnement de l’Union européenne.
+
+Dans l’exercice de ses compétences, la Commission veille à ce que la liste de l’Union soit dressée tous les deux ans, sur la base des listes régionales adoptées par les organes de décision des groupes créés conformément à l’annexe III, section 1, point 1), conformément à la procédure énoncée au paragraphe 3 du présent article.
+
+La Commission adopte l’acte délégué dressant la première liste de l’Union en vertu du présent règlement au plus tard le 30 novembre 2023.
+
+Si un acte délégué adopté par la Commission en vertu du présent paragraphe ne peut entrer en vigueur en raison d’une objection exprimée soit par le Parlement européen, soit par le Conseil en vertu de l’article 20, paragraphe 6, la Commission convoque immédiatement les groupes afin d’établir de nouvelles listes régionales en tenant compte des motifs de l’objection. La Commission adopte dès que possible un nouvel acte délégué établissant la liste de l’Union.
+
+**5.** Lorsqu’elle établit la liste de l’Union en combinant les listes régionales visées au paragraphe 3, la Commission, en tenant dûment compte des délibérations des groupes:a) veille à ce que seuls les projets qui remplissent les critères de l’article 4 y soient inscrits;b) veille à la cohérence entre les régions en tenant compte de l’avis de l’Agence visé à l’annexe III, section 2, point 14);c) tient compte des avis des États membres visés à l’annexe III, section 2, point 10); etd) vise à ce que le nombre total de projets inscrits sur la liste de l’Union soit gérable.
+
+**6.** Les projets d’intérêt commun relevant des catégories d’infrastructures énergétiques établies à l’annexe II, point 1, a), b), c), d) et f), du présent règlement deviennent partie intégrante des plans d’investissement régionaux pertinents en vertu de l’article 34 du règlement (UE) 2019/943, des plans décennaux nationaux de développement du réseau pertinents en vertu de l’article 51 de la directive (UE) 2019/944 et des autres plans d’infrastructures nationaux concernés, selon le cas. Ces projets d’intérêt commun reçoivent le degré de priorité le plus élevé possible au sein de chacun de ces plans. Le présent paragraphe ne s’applique pas aux projets concurrents, aux projets qui n’ont pas atteint un degré de maturité suffisant pour fournir l’analyse des coûts et des avantages spécifiques du projet visée à l’annexe III, section 2, point 1) d), ou aux projets d’intérêt mutuel.
+
+**7.** Les projets d’intérêt commun relevant des catégories d’infrastructures énergétiques établies à l’annexe II, point 1, a), b), c), d) et f), et qui sont des projets concurrents ou des projets qui n’ont pas atteint un degré de maturité suffisant pour fournir l’analyse des coûts et des avantages spécifiques du projet visée à l’annexe III, section 2, point 1) d), peuvent être inclus dans les plans d’investissement régionaux pertinents, les plans décennaux nationaux de développement du réseau et d’autres plans d’infrastructures nationaux, selon le cas, en qualité de projets à l’étude.
+
+<a id="art_4"></a>
+
+### Article 4 — Critères d’évaluation des projets par les groupes
+
+**1.** Un projet d’intérêt commun satisfait aux critères généraux suivants:a) le projet est nécessaire pour au moins l’un des corridors et domaines prioritaires en matière d’infrastructures énergétiques énoncés à l’annexe I;b) les avantages globaux potentiels du projet évalués conformément aux critères spécifiques pertinentes du paragraphe 3 l’emportent sur les coûts qu’il représente, y compris à long terme;c) le projet satisfait à l’un des critères suivants:i) il concerne au minimum deux États membres en traversant directement ou indirectement, au moyen d’une interconnexion avec un pays tiers, la frontière de deux ou plusieurs États membres;ii) il est situé sur le territoire, sur terre ou en mer, d’un État membre, y compris les îles, et a une incidence transfrontière importante, comme il est énoncé à l’annexe IV, point 1).
+
+**2.** Un projet d’intérêt mutuel satisfait aux critères généraux suivants:a) le projet contribue de manière substantielle aux objectifs visés à l’article 1er, paragraphe 1, et aux objectifs du pays tiers, notamment sans que cela n’amoindrisse la capacité du pays tiers d’abandonner progressivement ses actifs de production de combustibles fossiles pour répondre à la demande nationale de consommation, ainsi qu’à la durabilité, y compris au moyen de l’intégration des énergies renouvelables dans le réseau et du transport et de la distribution d’électricité produite à partir de sources renouvelables vers de grands centres de consommation et sites de stockage;b) les avantages globaux potentiels du projet au niveau de l’Union, évalués conformément aux critères spécifiques respectifs du paragraphe 3, l’emportent sur les coûts qu’il représente au sein de l’Union, y compris à long terme;c) le projet est situé sur le territoire d’au moins un État membre et sur le territoire d’au moins un pays tiers et a une incidence transfrontière importante, comme il est énoncé à l’annexe IV, point 2);d) pour la partie située sur le territoire de l’État membre, le projet est conforme aux directives 2009/73/CE et (UE) 2019/944 s’il relève des catégories d’infrastructures énoncées à l’annexe II, points 1) et 3), du présent règlement;e) le cadre politique du ou des pays tiers concernés présente un niveau élevé de convergence et il existe des mécanismes prouvés d’exécution des lois pour soutenir les objectifs stratégiques de l’Union, en particulier pour garantir:i) le bon fonctionnement du marché intérieur de l’énergie;ii) la sécurité de l’approvisionnement fondée, notamment, sur une diversification des sources, la coopération et la solidarité;iii) un système énergétique, y compris la production, le transport et la distribution, sur la voie de l’objectif de neutralité climatique, conformément à l’accord de Paris, aux objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et à son objectif de neutralité climatique à l’horizon 2050, en particulier la prévention des fuites de carbone;f) le ou les pays tiers concernés soutiennent le statut prioritaire du projet, comme énoncé à l’article 7, et s’engagent à respecter un calendrier similaire pour une mise en œuvre accélérée et d’autres mesures d’intervention et réglementaires applicables aux projets d’intérêt commun dans l’Union.
+
+En ce qui concerne les projets de stockage du dioxyde de carbone relevant de la catégorie d’infrastructures énergétiques énoncée à l’annexe II, point 5) c), le projet est nécessaire pour permettre le transport et le stockage transfrontières du dioxyde de carbone et le pays tiers où le projet se situe dispose d’un cadre juridique adéquat fondé sur des mécanismes efficaces et prouvés d’exécution des lois pour faire en sorte que les normes et les garanties applicables au projet permettant de prévenir toute fuite de dioxyde de carbone et relatives au climat, à la santé humaine et aux écosystèmes en ce qui concerne la sécurité et l’efficacité du stockage permanent du dioxyde de carbone soient au moins du même niveau que celles prévues par le droit de l’Union.
+
+**3.** Les critères spécifiques suivants s’appliquent aux projets d’intérêt commun relevant des catégories spécifiques d’infrastructures énergétiques:a) pour les projets relatifs au transport, à la distribution et au stockage d’électricité relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II, point 1), a), b), c), d) et f), le projet contribue de manière significative à la durabilité au moyen de l’intégration des énergies renouvelables dans le réseau, du transport ou de la distribution d’électricité produite à partir de sources renouvelables vers de grands centres de consommation et sites de stockage, ainsi que, le cas échéant, à la limitation du délestage énergétique, et contribue à la réalisation d’au moins l’un des critères spécifiques suivants:i) intégration du marché, y compris en mettant fin à l’isolement énergétique d’au moins un État membre et en réduisant les goulets d’étranglement des infrastructures énergétiques, concurrence, interopérabilité et flexibilité du système;ii) sécurité de l’approvisionnement, y compris par l’interopérabilité, la flexibilité du système, la cybersécurité, des connexions appropriées ainsi que la sécurité et la fiabilité de l’exploitation du système;b) pour les projets relatifs aux réseaux d’électricité intelligents relevant de la catégorie d’infrastructures énergétiques énoncée à l’annexe II, point 1) e), le projet contribue de manière significative à la durabilité au moyen de l’intégration d’énergies renouvelables dans le réseau et contribue à la réalisation d’au moins deux des critères spécifiques suivants:i) sécurité de l’approvisionnement, y compris grâce à l’efficacité et à l’interopérabilité du transport et de la distribution d’électricité dans l’exploitation quotidienne du réseau, à la prévention de la congestion et à la participation des utilisateurs du réseau;ii) intégration du marché, y compris grâce à une exploitation efficace du système et à l’utilisation d’interconnexions;iii) sécurité, flexibilité et qualité de l’approvisionnement du réseau, y compris grâce à un recours accru à l’innovation dans l’équilibrage, les marchés de la flexibilité, la cybersécurité, le suivi, le contrôle du système et la correction des erreurs;iv) intégration intelligente du secteur, soit dans le système énergétique en créant des liens entre différents vecteurs et secteurs énergétiques, soit, de manière plus générale, en favorisant les synergies et la coordination entre les secteurs de l’énergie, des transports et des télécommunications;c) pour les projets relatifs au transport et au stockage de dioxyde de carbone relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II, point 5), le projet contribue de manière significative à la durabilité au moyen de la réduction des émissions de dioxyde de carbone dans les installations industrielles connectées et contribue à la réalisation de tous les critères spécifiques suivants:i) prévention des émissions de dioxyde de carbone, tout en maintenant la sécurité de l’approvisionnement;ii) renforcement de la résilience et de la sécurité du transport et du stockage de dioxyde de carbone;iii) utilisation efficace des ressources, en permettant la connexion de multiples sources et sites de stockage de dioxyde de carbone via des infrastructures communes et en réduisant les charges et les risques pour l’environnement;d) pour les projets relatifs à l’hydrogène relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II, point 3), le projet contribue de manière significative à la durabilité, y compris en réduisant les émissions de gaz à effet de serre, en renforçant le déploiement de l’hydrogène renouvelable ou à faibles émissions de carbone, l’accent étant mis sur l’hydrogène provenant de sources renouvelables, notamment dans des applications finales telles que les secteurs où cette réduction est difficile à réaliser et pour lesquels des solutions plus efficaces sur le plan énergétique ne sont pas envisageables, et en soutenant la production d’électricité à partir de sources d’énergie renouvelables variables et en apportant des solutions en matière de flexibilité, de stockage ou des deux, et le projet contribue de manière significative à la réalisation d’au moins l’un des critères spécifiques suivants:i) intégration du marché, y compris en connectant les réseaux d’hydrogène existants ou émergents des États membres, ou en contribuant à l’émergence d’un réseau à l’échelle de l’Union pour le transport et le stockage d’hydrogène, et en garantissant l’interopérabilité des systèmes connectés;ii) sécurité de l’approvisionnement et flexibilité, y compris au moyen de connexions appropriées et en facilitant la sécurité et la fiabilité de l’exploitation du système;iii) concurrence, y compris en autorisant l’accès à des sources d’approvisionnement multiples et à des utilisateurs multiples du réseau sur une base transparente et non discriminatoire;e) pour les électrolyseurs relevant de la catégorie d’infrastructures énergétiques énoncée à l’annexe II, point 4), le projet contribue de manière significative à la réalisation de tous les critères spécifiques suivants:i) durabilité, y compris par la réduction des émissions de gaz à effet de serre et le renforcement du déploiement de l’hydrogène renouvelable ou à faibles émissions de carbone, en particulier provenant de sources renouvelables, ainsi que de carburants de synthèse de même origine;ii) sécurité de l’approvisionnement, y compris en contribuant à la sécurité, à l’efficacité et à la fiabilité de l’exploitation du système, ou en apportant des solutions de stockage, de flexibilité ou des deux, comme la participation active de la demande et les services d’équilibrage;iii) mise en place de services de flexibilité tels que la participation active de la demande et le stockage en facilitant l’intégration intelligente du secteur de l’énergie par la création de liens avec d’autres vecteurs et secteurs énergétiques;f) pour les projets de réseaux gaziers intelligents relevant de la catégorie d’infrastructures énergétiques énoncée à l’annexe II, point 2), le projet contribue de manière significative à la durabilité en assurant l’intégration d’une pluralité de gaz à faibles émissions de carbone, et en particulier renouvelables, notamment lorsqu’ils sont d’origine locale, comme le biométhane ou l’hydrogène renouvelable, dans les systèmes de transport, de distribution ou de stockage de gaz afin de réduire les émissions de gaz à effet de serre, et ce projet contribue de manière significative à la réalisation d’au moins l’un des critères spécifiques suivants:i) sécurité du réseau et qualité de l’approvisionnement en améliorant l’efficacité et l’interopérabilité du transport, de la distribution ou des systèmes de stockage du gaz dans l’exploitation quotidienne du réseau, notamment en remédiant aux difficultés dues à l’injection de gaz de différentes qualités;ii) fonctionnement du marché et services aux consommateurs;iii) facilitation de l’intégration intelligente du secteur de l’énergie par la création de liens avec d’autres vecteurs et secteurs énergétiques et en permettant la participation active de la demande.
+
+**4.** Pour les projets relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II, les critères énoncés au paragraphe 3 du présent article sont évalués conformément aux indicateurs énoncés à l’annexe IV, points 3) à 8).
+
+**5.** Afin de faciliter l’évaluation de tous les projets susceptibles d’être éligibles comme projets d’intérêt commun et d’être repris dans une liste régionale, chaque groupe évalue, de manière transparente et objective, la contribution de chacun des projets à la mise en œuvre d’un même corridor ou domaine prioritaire en matière d’infrastructures énergétiques. Chaque groupe détermine sa méthode d’évaluation sur la base de la contribution globale aux critères visés au paragraphe 3. Cette évaluation aboutit à un classement des projets destiné à un usage interne au groupe. Ni la liste régionale ni la liste de l’Union ne comportent de classement, et le classement ne peut être utilisé dans aucun autre but ultérieur, hormis celui décrit à l’annexe III, section 2, point 16).
+
+Afin d’assurer la cohérence des méthodes d’évaluation entre les groupes, lors de l’évaluation des projets, chacun groupe prend dûment en compte:
+
+a) l’urgence et la contribution de chaque proposition de projet au regard de la réalisation des objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et de son objectif de neutralité carbone à l’horizon 2050, d’intégration du marché, de concurrence, de durabilité et de sécurité de l’approvisionnement;
+
+b) la complémentarité de chaque proposition de projet avec d’autres propositions de projets, notamment des projets concurrents ou potentiellement concurrents;
+
+c) les synergies possibles avec les corridors et domaines thématiques prioritaires définis dans le cadre des réseaux transeuropéens de transport et de télécommunications;
+
+d) pour les propositions de projets qui sont, au moment de l’évaluation, des projets inscrits sur la liste de l’Union, les progrès dans leur mise en œuvre et le respect par ceux-ci des obligations en matière d’information et de transparence.
+
+En ce qui concerne les projets de réseaux électriques intelligents et de réseaux gaziers intelligents relevant des catégories d’infrastructures énergétiques énoncées à l’annexe II, point 1) e), et point 2), un classement est réalisé pour les projets qui concernent les deux mêmes États membres, et le nombre d’utilisateurs concernés par le projet est également pleinement pris en compte, tout comme la consommation annuelle d’énergie ainsi que, dans la zone où se trouvent ces utilisateurs, la part de la production obtenue à partir de ressources non appelables.
+
+<a id="art_5"></a>
+
+### Article 5 — Mise en œuvre et suivi des projets inscrits sur la liste de l’Union
+
+**1.** Les promoteurs de projets élaborent un plan de mise en œuvre pour les projets inscrits sur la liste de l’Union, y compris un calendrier pour chacun des éléments suivants:a) les études de faisabilité et de conception, y compris en ce qui concerne l’adaptation au changement climatique et le respect de la législation environnementale et du principe consistant à «ne pas causer de préjudice important»;b) l’approbation par l’autorité de régulation nationale ou par toute autre autorité concernée;c) la construction et la mise en service;d) la procédure d’octroi des autorisations visée à l’article 10, paragraphe 6, point b).
+
+**2.** Les GRT, les GRD et les autres opérateurs coopèrent les uns avec les autres en vue de faciliter le développement de projets inscrits sur la liste de l’Union dans leur zone.
+
+**3.** L’Agence et les groupes concernés suivent l’avancement de la mise en œuvre des projets inscrits sur la liste de l’Union et, si nécessaire, formulent des recommandations pour faciliter leur mise en œuvre. Les groupes peuvent demander des informations supplémentaires conformément aux paragraphes 4, 5 et 6, convoquer des réunions avec les parties concernées et inviter la Commission à vérifier sur place les informations fournies.
+
+**4.** Au 31 décembre de chaque année suivant l’année d’inscription d’un projet sur la liste de l’Union, les promoteurs de projets soumettent un rapport annuel, pour chaque projet relevant des catégories d’infrastructures énergétiques visées à l’annexe II, à l’autorité nationale compétente visée à l’article 8, paragraphe 1.
+
+Ce rapport précise:
+
+a) les progrès réalisés dans le développement, la construction et la mise en service du projet, notamment en ce qui concerne la procédure d’octroi des autorisations et la procédure de consultation, ainsi que le respect de la législation environnementale, du principe selon lequel le projet «ne cause pas de préjudice important à l’environnement», et des mesures prises en matière d’adaptation au changement climatique;
+
+b) le cas échéant, les retards par rapport au plan de mise en œuvre, les raisons de ces retards et les autres difficultés rencontrées;
+
+c) le cas échéant, un plan révisé visant à remédier aux retards.
+
+**5.** Au plus tard le 28 février de chaque année suivant l’année au cours de laquelle le promoteur du projet doit soumettre le rapport visé au paragraphe 4 du présent article, les autorités compétentes visées à l’article 8, paragraphe 1, soumettent à l’Agence et au groupe concerné le rapport visé au paragraphe 4 du présent article et des informations sur l’état d’avancement et, le cas échéant, sur les retards dans la mise en œuvre des projets inscrits sur la liste de l’Union situés sur leur territoire en ce qui concerne les procédures d’octroi des autorisations, ainsi que sur les raisons de ces retards. La contribution des autorités compétentes au rapport est clairement indiquée comme telle et rédigée sans modifier le texte introduit par les promoteurs de projets.
+
+**6.** Au 30 avril de chaque année au cours de laquelle une nouvelle liste de l’Union devrait être adoptée, l’Agence soumet aux groupes un rapport consolidé relatif aux projets inscrits sur la liste de l’Union qui relèvent de la compétence des autorités de régulation nationales, évaluant les progrès accomplis et l’évolution à prévoir des coûts des projets, et formule, le cas échéant, des recommandations sur la façon de remédier aux retards et aux difficultés rencontrées. Ce rapport consolidé évalue également, conformément à l’article 11, point b), du règlement (UE) 2019/942, la cohérence de la mise en œuvre des plans de développement du réseau à l’échelle de l’Union en ce qui concerne les corridors et domaines prioritaires en matière d’infrastructures énergétiques définis à l’annexe I.
+
+Dans des cas dûment justifiés, l’Agence peut demander les informations complémentaires nécessaires à l’accomplissement des tâches qui lui sont dévolues dans le présent paragraphe.
+
+**7.** Si la mise en service d’un projet inscrit sur la liste de l’Union est retardée par rapport au plan de mise en œuvre, sans que ce soit pour des raisons impérieuses échappant au contrôle du promoteur du projet, les mesures suivantes s’appliquent:a) dès lors que les mesures visées à l’article 22, paragraphe 7, point a), b) ou c), de la directive 2009/73/EC, et à l’article 51, paragraphe 7, point a), b) ou c), de la directive (UE) 2019/944 s’appliquent conformément aux droits nationaux respectifs, les autorités de régulation nationales veillent à ce que l’investissement soit mis en œuvre;b) si les mesures des autorités de régulation nationales prévues au point a) ne sont pas applicables, le promoteur du projet choisit, dans un délai de 24 mois à compter de la date de mise en service définie dans le plan de mise en œuvre, un tiers pour réaliser le financement ou la construction de tout ou partie du projet;c) si un tiers n’est pas choisi conformément au point b), l’État membre ou, lorsque l’État membre le prévoit, l’autorité de régulation nationale peut désigner, dans un délai de deux mois à compter de la date d’expiration du délai visé au point b), un tiers pour le financement ou la construction du projet, que le promoteur est tenu d’accepter;d) si le retard pris par rapport à la date de mise en service prévue dans le plan de mise en œuvre dépasse 26 mois, la Commission, moyennant l’accord des États membres concernés et avec leur pleine coopération, peut lancer un appel à propositions ouvert à tout tiers en mesure de devenir promoteur de projet pour la construction du projet conformément à un calendrier convenu;e) lorsque les mesures visées au point c) ou d) s’appliquent, le gestionnaire de réseau dans la zone duquel se situe l’investissement fournit aux opérateurs, aux investisseurs ou aux tiers chargés de la mise en œuvre du projet toutes les informations nécessaires pour réaliser l’investissement, raccorde les nouveaux actifs au réseau de transport ou, le cas échéant, au réseau de distribution et, d’une manière générale, fait tout pour faciliter la mise en œuvre de l’investissement et pour faire en sorte que l’exploitation et l’entretien du projet inscrit sur la liste de l’Union soient réalisés de manière sûre, fiable et efficace.
+
+**8.** Un projet inscrit sur la liste de l’Union peut être retiré de cette liste conformément à la procédure établie à l’article 3, paragraphe 4, si le projet a été inscrit sur la liste sur la base d’informations incorrectes ayant constitué un facteur décisif dans cette inscription ou si le projet n’est pas conforme au droit de l’Union.
+
+**9.** Les projets qui ne sont plus inscrits sur la liste de l’Union perdent tous les droits et obligations liés au statut de projet d’intérêt commun ou de projet d’intérêt mutuel prévus dans le présent règlement.
+
+Toutefois, un projet qui n’est plus inscrit sur la liste de l’Union mais pour lequel un dossier de demande a été accepté pour examen par l’autorité compétente conserve les droits et obligations énoncés au chapitre III, sauf lorsque le projet a été retiré de la liste de l’Union pour les motifs énoncés au paragraphe 8 du présent article.
+
+**10.** Le présent article est sans préjudice de toute aide financière accordée par l’Union à tout projet inscrit sur la liste de l’Union préalablement à son retrait de cette liste.
+
+<a id="art_6"></a>
+
+### Article 6 — Coordonnateurs européens
+
+**1.** Lorsqu’un projet d’intérêt commun rencontre d’importantes difficultés de mise en œuvre, la Commission peut désigner, en accord avec les États membres concernés, un coordonnateur européen pour une période d’un an maximum, renouvelable deux fois.
+
+**2.** Le coordonnateur européen:a) promeut les projets pour lesquels il a été désigné coordonnateur européen et favorise le dialogue transfrontière entre les promoteurs de projets et toutes les parties prenantes concernées;b) assiste toutes les parties en tant que de besoin en consultant les parties prenantes concernées, en envisageant d’autres acheminements le cas échéant, et en obtenant les permis nécessaires pour les projets;c) le cas échéant, conseille les promoteurs de projets sur le financement du projet;d) veille à ce que les États membres concernés apportent un soutien approprié et une orientation stratégique pour la préparation et la mise en œuvre des projets;e) soumet à la Commission chaque année et, le cas échéant, à la fin de son mandat, un rapport sur l’avancement des projets et sur toute difficulté ou tout obstacle susceptible de retarder notablement la date de mise en service des projets.
+
+La Commission transmet le rapport du coordonnateur européen visé au point e) au Parlement européen et aux groupes concernés.
+
+**3.** Le coordonnateur européen est choisi à l’issue d’une procédure ouverte, non discriminatoire et transparente et sur la base de son expérience dans le domaine des tâches spécifiques qui lui seront assignées pour les projets concernés.
+
+**4.** La décision portant nomination du coordonnateur européen précise le mandat, en spécifiant sa durée, les tâches spécifiques et les échéances correspondantes, ainsi que la méthode à suivre. L’effort de coordination est proportionnel à la complexité et à l’estimation des coûts des projets.
+
+**5.** Les États membres concernés coopèrent pleinement avec le coordonnateur européen dans l’exécution des tâches visées aux paragraphes 2 et 4.
+
+## CHAPITRE III — Octroi des autorisations et participation du public
+
+<a id="art_7"></a>
+
+### Article 7 — «Statut prioritaire» des projets inscrits sur la liste de l’Union
+
+**1.** L’adoption de la liste de l’Union établit, aux fins de toute décision émise dans le cadre de la procédure d’octroi des autorisations, que les projets inscrits sur la liste de l’Union sont nécessaires du point de vue de la politique énergétique et climatique, sans préjudice de la localisation, de l’acheminement ou de la technologie exacts du projet.
+
+Le présent paragraphe ne s’applique pas aux projets concurrents ou aux projets qui n’ont pas atteint un degré de maturité suffisant pour fournir une analyse coûts-avantages spécifique du projet conformément à l’annexe III, section 2, point 1) d).
+
+**2.** Pour assurer un traitement administratif efficace des dossiers de demande relatifs aux projets inscrits sur la liste de l’Union, les promoteurs de projets et toutes les autorités concernées veillent à ce que ces dossiers soient traités de la manière la plus rapide possible conformément au droit de l’Union et au droit national.
+
+**3.** Sans préjudice des obligations prévues dans le droit de l’Union, les projets inscrits sur la liste de l’Union se voient attribuer le statut le plus important existant au niveau national, lorsqu’un tel statut existe dans le droit national, et sont traités en conséquence lors des procédures d’octroi des autorisations et, si le droit national le prévoit, dans le cadre de plans d’aménagement du territoire, y compris celles relatives à l’évaluation des incidences environnementales, selon les modalités prévues par le droit national applicable au type d’infrastructures énergétiques correspondant.
+
+**4.** L’ensemble des procédures de règlement des différends, litiges, appels et recours juridictionnels liés à des projets inscrits sur la liste de l’Union devant des chambres, cours ou tribunaux nationaux, y compris la médiation ou l’arbitrage, lorsqu’ils existent en droit national, sont traités comme étant urgents, si et dans la mesure où le droit national prévoit de telles procédures d’urgence.
+
+**5.** Les États membres évaluent, en tenant dûment compte des orientations émises par la Commission sur la rationalisation des procédures d’évaluation des incidences environnementales des projets inscrits sur la liste de l’Union, quelles sont les mesures législatives et non législatives nécessaires pour rationaliser les procédures d’évaluation des incidences environnementales et garantir leur application cohérente, et informent la Commission du résultat de cette évaluation.
+
+**6.** Au plus tard le 24 mars 2023, les États membres prennent les mesures non législatives qu’ils ont déterminées au titre du paragraphe 5.
+
+**7.** Au plus tard le 24 juin 2023, les États membres prennent les mesures législatives qu’ils ont déterminées au titre du paragraphe 5. Ces mesures législatives sont sans préjudice des obligations prévues dans le droit de l’Union.
+
+**8.** ►M3 En ce qui concerne les incidences environnementales visées à l’article 6, paragraphe 4, de la directive 92/43/CEE, à l’article 4, paragraphe 7, de la directive 2000/60/CE ainsi qu’à l’article 4, paragraphes 14 et 15, et à l’article 5, paragraphes 11 et 12, du règlement (UE) 2024/1991 du Parlement européen et du Conseil (2), pour autant que toutes les conditions énoncées dans lesdites directives et ledit règlement sont remplies, les projets inscrits sur la liste de l’Union sont considérés comme étant d’intérêt public du point de vue de la politique énergétique, et peuvent être considérés comme ayant un intérêt public majeur.** ◄ **
+
+Dans les cas où l’avis de la Commission est requis conformément à la directive 92/43/CEE, la Commission et l’autorité nationale compétente visée à l’article 9 du présent règlement veillent à ce que la décision prise au regard de l’intérêt public majeur d’un projet le soit dans les délais fixés à l’article 10, paragraphes 1 et 2, du présent règlement.
+
+Le présent paragraphe ne s’applique pas aux projets concurrents ou aux projets qui n’ont pas atteint un degré de maturité suffisant pour fournir une analyse coûts-avantages spécifique du projet comme l’indique l’annexe III, section 2, point 1) d).
+
+<a id="art_8"></a>
+
+### Article 8 — Organisation de la procédure d’octroi des autorisations
+
+**1.** Au plus tard le 23 juin 2022, chaque État membre actualise, le cas échéant, la désignation d’une autorité nationale compétente chargée de faciliter et de coordonner la procédure d’octroi des autorisations aux projets inscrits sur la liste de l’Union.
+
+**2.** Les responsabilités de l’autorité nationale compétente visée au paragraphe 1 ou les tâches qui y sont liées peuvent être déléguées à une autre autorité ou exécutées par une autre autorité pour chaque projet inscrit sur la liste de l’Union ou pour chaque catégorie particulière de projets inscrits sur la liste de l’Union, à condition:a) que l’autorité nationale compétente informe la Commission de cette délégation et que les informations contenues dans celle-ci soient publiées par l’autorité nationale compétente ou par le promoteur du projet sur le site internet visé à l’article 9, paragraphe 7;b) qu’une seule autorité soit responsable par projet inscrit sur la liste de l’Union, qu’elle soit l’unique point de contact du promoteur du projet dans le cadre de la procédure menant à la décision globale pour un projet inscrit sur la liste de l’Union donné et qu’elle coordonne la soumission de l’ensemble des documents et informations pertinents.
+
+L’autorité nationale compétente peut conserver la responsabilité de fixer des délais, sans préjudice des délais fixés à l’article 10, paragraphes 1 et 2.
+
+**3.** Sans préjudice des exigences applicables au titre du droit de l’Union et du droit international, ainsi que, dans la mesure où il ne les contredit pas, du droit national, l’autorité nationale compétente facilite la prise de la décision globale. La décision globale est rendue dans les délais fixés à l’article 10, paragraphes 1 et 2, et conformément à l’un des schémas suivants:a) schéma intégré:la décision globale est prise par l’autorité nationale compétente et constitue la seule décision juridiquement contraignante résultant de la procédure légale d’octroi des autorisations. Lorsque d’autres autorités sont concernées par le projet, elles peuvent, conformément au droit national, contribuer à la procédure en donnant leur avis, lequel est pris en compte par l’autorité nationale compétente;b) schéma coordonné:la décision globale comprend plusieurs décisions individuelles juridiquement contraignantes rendues par plusieurs autorités concernées, qui sont coordonnées par l’autorité nationale compétente. L’autorité nationale compétente peut mettre en place un groupe de travail au sein duquel toutes les autorités concernées sont représentées, de manière à élaborer un planning détaillé pour la procédure d’octroi des autorisations conformément à l’article 10, paragraphe 6, point b), et à contrôler et coordonner sa mise en œuvre. L’autorité nationale compétente fixe, au cas par cas et en consultation avec les autres autorités concernées, le cas échéant conformément au droit national, et sans préjudice des délais fixés à l’article 10, paragraphes 1 et 2, un délai raisonnable dans lequel les décisions individuelles sont rendues. L’autorité nationale compétente peut prendre une décision individuelle pour le compte d’une autre autorité nationale concernée, lorsque cette dernière n’a pas rendu sa décision dans le délai prescrit, ni dûment justifié ce retard; ou, lorsque le droit national le prévoit, et dans la mesure où cela est compatible avec le droit de l’Union, l’autorité nationale compétente peut considérer qu’une autre autorité nationale concernée a, soit approuvé, soit refusé le projet lorsque la décision de ladite autorité n’est pas rendue dans le délai imparti. Lorsque le droit national le prévoit, l’autorité nationale compétente peut ignorer une décision individuelle prise par une autre autorité nationale concernée si elle considère que cette décision est insuffisamment motivée au regard des éléments de preuve sous-jacents soumis par l’autorité nationale concernée; ce faisant, l’autorité nationale compétente veille à ce que les exigences requises au titre du droit de l’Union et du droit international soient respectées, et elle motive sa décision;c) schéma collaboratif:la décision globale est coordonnée par l’autorité nationale compétente. L’autorité nationale compétente fixe, au cas par cas et en consultation avec les autres autorités concernées, le cas échéant conformément au droit national, et sans préjudice des délais fixés à l’article 10, paragraphes 1 et 2, un délai raisonnable dans lequel les décisions individuelles sont rendues. Elle contrôle le respect des délais par les autorités concernées.
+
+Les États membres appliquent ces schémas d’une manière qui, conformément au droit national, contribue à ce que la décision globale soit prise de la manière la plus efficace possible et en temps utile.
+
+La compétence des autorités concernées peut être intégrée dans la compétence de l’autorité nationale compétente désignée conformément au paragraphe 1, ou les autorités concernées peuvent conserver, dans une certaine mesure, leur compétence indépendante conformément au schéma d’autorisation choisi par l’État membre conformément au présent paragraphe, afin de faciliter la prise de la décision globale et de coopérer en conséquence avec l’autorité nationale compétente.
+
+Lorsqu’une autorité concernée estime qu’elle ne pourra rendre une décision individuelle dans le délai prescrit, elle en informe immédiatement l’autorité nationale compétente et motive ce retard. Par la suite, l’autorité nationale compétente fixe un nouveau délai dans lequel cette décision individuelle est rendue, conformément aux délais globaux fixés à l’article 10, paragraphes 1 et 2.
+
+Les États membres choisissent parmi les trois schémas visés au premier alinéa, points a), b) et c), pour faciliter et coordonner leurs procédures et appliquent le schéma le plus efficace compte tenu des spécificités nationales en matière de planification et de procédures d’octroi des autorisations. Lorsqu’un État membre choisit le schéma collaboratif, il informe la Commission des motifs de ce choix.
+
+**4.** Les États membres peuvent appliquer les schémas exposés au paragraphe 3 pour les projets inscrits sur la liste de l’Union sur terre et en mer.
+
+**5.** Lorsqu’un projet inscrit sur la liste de l’Union impose que des décisions soient prises dans plusieurs États membres, les autorités nationales compétentes concernées prennent toutes les mesures nécessaires pour assurer entre elles une coopération et une communication efficaces et effectives, y compris les mesures visées à l’article 10, paragraphe 6. Les États membres s’efforcent d’établir des procédures conjointes, notamment en ce qui concerne l’évaluation des incidences environnementales.
+
+**6.** Les autorités nationales compétentes concernées des États membres qui participent à un projet inscrit sur la liste de l’Union appartenant à l’un des corridors prioritaires de réseaux en mer énoncés à l’annexe I, section 2, désignent parmi elles, d’un commun accord, un point de contact unique pour les promoteurs de projets par projet, qui est chargé de faciliter l’échange d’informations entre les autorités nationales compétentes au sujet de la procédure d’octroi des autorisations pour le projet, dans le but de faciliter cette procédure ainsi que la délivrance de décisions par les autorités nationales compétentes. Les points de contact uniques peuvent jouer le rôle de répertoire et rassembler les documents existants liés aux projets.
+
+<a id="art_9"></a>
+
+### Article 9 — Transparence et participation du public
+
+**1.** Au plus tard le 24 octobre 2023, l’État membre ou l’autorité nationale compétente publie, le cas échéant, en collaboration avec d’autres autorités concernées, un manuel de procédures actualisé pour l’octroi des autorisations applicables aux projets inscrits sur la liste de l’Union, incluant au minimum les informations mentionnées à l’annexe VI, point 1). Ce manuel n’est pas juridiquement contraignant, mais il fait référence à des dispositions juridiques pertinentes ou en cite. Le cas échéant, les autorités nationales compétentes coopèrent et trouvent des synergies avec les autorités des pays voisins en vue de partager les bonnes pratiques et de faciliter la procédure d’octroi des autorisations, en particulier dans l’élaboration du manuel de procédures.
+
+**2.** Sans préjudice du droit environnemental, ni des exigences prévues dans la convention d’Aarhus et la convention d’Espoo et dans le droit de l’Union applicable, toutes les parties qui interviennent dans la procédure d’octroi des autorisations respectent les principes de participation du public énoncés à l’annexe VI, point 3).
+
+**3.** Dans un délai indicatif de trois mois à compter du début de la procédure d’octroi des autorisations en vertu de l’article 10, paragraphe 3, le promoteur du projet élabore un concept de participation du public et le soumet à l’autorité nationale compétente, en suivant la procédure décrite dans le manuel visé au paragraphe 1 du présent article et conformément aux orientations exposées à l’annexe VI. L’autorité nationale compétente demande des modifications ou approuve le concept de participation du public dans un délai de trois mois suivant la réception de celui-ci, en tenant compte de toute forme de participation et de consultation du public qui a eu lieu avant le début de la procédure d’octroi de l’autorisation, dans la mesure où cette participation et cette consultation du public ont répondu aux exigences du présent article.
+
+Lorsque le promoteur du projet a l’intention d’apporter des changements importants à un concept de participation du public approuvé, il en informe l’autorité nationale compétente. Dans ce cas, l’autorité nationale compétente peut demander des modifications.
+
+**4.** Si le droit national ne l’exige pas déjà selon des normes égales ou supérieures, le promoteur du projet ou, si le droit national l’exige, l’autorité nationale compétente réalise au moins une consultation publique avant que le promoteur du projet ne soumette à cette dernière le dossier de demande final et complet en vertu de l’article 10, paragraphe 7. Cette consultation publique s’entend sans préjudice de toute consultation publique devant être réalisée après la soumission de la demande d’autorisation, conformément à l’article 6, paragraphe 2, de la directive 2011/92/UE. La consultation publique fournit des informations sur le projet aux parties concernées visées à l’annexe VI, point 3) a), à un stade précoce, et contribue à déterminer l’emplacement, la voie ou la technologie les plus adaptés, eu égard notamment, le cas échéant, à des considérations relatives à l’adaptation adéquate au changement climatique concernant le projet, toutes les incidences pertinentes au regard du droit de l’Union et du droit national et les points utiles à aborder dans le dossier de demande. La consultation publique respecte les exigences minimales prévues à l’annexe VI, point 5). Sans préjudice des règles de procédure et de transparence dans les États membres, le promoteur du projet publie sur le site internet visé au paragraphe 7 du présent article un rapport expliquant comment les avis exprimés dans le cadre des consultations publiques ont été pris en considération, en indiquant les modifications apportées à l’emplacement, la voie et la conception du projet ou en justifiant pourquoi ces avis n’ont pas été pris en considération.
+
+Le promoteur du projet prépare un rapport synthétisant les résultats des activités liées à la participation du public qui se sont déroulées avant la soumission du dossier de demande, y compris les activités qui ont eu lieu avant le début de la procédure d’octroi des autorisations.
+
+Le promoteur du projet présente les rapports visés aux premier et deuxième alinéas en même temps que le dossier de demande à l’autorité nationale compétente. La décision globale tient dûment compte des résultats de ces rapports.
+
+**5.** Pour les projets transfrontières associant plusieurs États membres, les consultations publiques réalisées en vertu du paragraphe 4 dans chacun des États membres concernés ont lieu dans un délai de deux mois maximum à compter de la date de lancement de la première consultation publique.
+
+**6.** Pour les projets susceptibles d’avoir une répercussion transfrontière importante dans un ou plusieurs États membres voisins, auxquels l’article 7 de la directive 2011/92/UE et la convention d’Espoo s’appliquent, les informations pertinentes sont mises à la disposition des autorités nationales compétentes des États membres voisins concernés. Les autorités nationales compétentes des États membres voisins concernés indiquent, le cas échéant dans le cadre de la procédure de notification, si elles ou toute autre autorité concernée souhaitent participer aux procédures de consultation publique qui les concernent.
+
+**7.** Le promoteur du projet crée et met régulièrement à jour un site internet consacré au projet contenant les informations utiles relatives au projet d’intérêt commun, qui comporte un lien vers le site internet de la Commission et la plateforme de transparence visée à l’article 23, et qui est conforme aux exigences prévues à l’annexe VI, point 6). La confidentialité des informations commercialement sensibles est préservée.
+
+En outre, les promoteurs de projets publient les informations pertinentes par d’autres moyens d’information appropriés ouverts au public.
+
+<a id="art_10"></a>
+
+### Article 10 — Durée et mise en œuvre de la procédure d’octroi des autorisations
+
+**1.** La procédure d’octroi des autorisations comprend deux procédures:a) la procédure de demande préalable, qui a lieu dans un délai indicatif de vingt-quatre mois et couvre la période comprise entre le début de la procédure d’octroi des autorisations et l’acceptation par l’autorité nationale compétente du dossier de demande soumis; etb) la procédure légale d’octroi des autorisations, qui n’excède pas une durée de dix-huit mois et couvre la période qui débute à la date d’acceptation du dossier de demande présenté et se termine lorsque la décision globale est prise.
+
+En ce qui concerne le point b) du premier alinéa, les États membres peuvent, le cas échéant, prévoir une procédure légale d’octroi des autorisations d’une durée inférieure à dix-huit mois.
+
+**2.** L’autorité nationale compétente veille à ce que la durée combinée des deux procédures visées au paragraphe 1 n’excède pas quarante-deux mois.
+
+Toutefois, lorsque l’autorité nationale compétente considère que l’une des procédures ou les deux ne seront pas achevées avant l’expiration des délais visés au paragraphe 1, elle peut, avant leur expiration et au cas par cas, prolonger l’un des délais ou les deux. L’autorité nationale compétente ne peut prolonger la durée combinée des deux procédures de plus de neuf mois, sauf circonstances exceptionnelles.
+
+Lorsque l’autorité nationale compétente prolonge les délais, elle informe le groupe concerné et présente à ce dernier les mesures prises ou à prendre pour conclure la procédure d’octroi des autorisations dans le délai le plus bref possible. Le groupe peut demander que l’autorité nationale compétente lui rende compte régulièrement de l’évolution de la situation à cet égard ainsi que des motifs de tout retard.
+
+**3.** Afin de déterminer la date du début de la procédure d’octroi des autorisations, les promoteurs de projets notifient par écrit le projet à l’autorité nationale compétente de chaque État membre concerné, en y joignant une description raisonnablement détaillée du projet.
+
+Dans un délai de trois mois suivant la réception de la notification, l’autorité nationale compétente accepte ou, si elle considère la maturité du projet insuffisante pour lancer la procédure d’octroi des autorisations, rejette la notification par écrit, y compris au nom d’autres autorités concernées. En cas de rejet, l’autorité nationale compétente motive sa décision, y compris au nom d’autres autorités concernées. La date à laquelle l’autorité nationale compétente signe la décision d’acceptation de la notification marque la date du début de la procédure d’octroi des autorisations. Lorsque plusieurs États membres sont concernés, la date d’acceptation de la dernière notification par l’autorité nationale compétente marque la date du début de la procédure d’octroi des autorisations.
+
+Les autorités nationales compétentes veillent à ce que la procédure d’octroi des autorisations soit accélérée conformément au présent chapitre pour chaque catégorie de projets d’intérêt commun. À cette fin, les autorités nationales compétentes adaptent leurs exigences pour le début de la procédure d’octroi des autorisations et pour l’acceptation du dossier de demande présenté, afin qu’elles soient adaptées aux projets qui, en raison de leur nature, de leur taille ou de l’absence d’exigence d’une évaluation des incidences environnementales en vertu du droit national, pourraient nécessiter moins d’autorisations et d’approbations pour atteindre la phase «prêt à construire». Les États membres peuvent décider que la procédure de demande préalable visée aux paragraphes 1 et 6 du présent article n’est pas nécessaire pour les projets visés au présent alinéa.
+
+**4.** Les autorités nationales compétentes prennent en considération, dans le cadre de la procédure d’octroi des autorisations, toute étude valable menée et tout permis ou autorisation délivré(e) avant le début de cette étape conformément au présent article pour un projet inscrit sur la liste de l’Union donné, et n’exigent pas que ces études, permis ou autorisations soient fournis une nouvelle fois.
+
+**5.** Dans les États membres où la détermination d’une voie ou d’un emplacement, entreprise exclusivement aux fins spécifiques d’un projet planifié, y compris la planification de corridors spécifiques pour des infrastructures de réseaux, ne peut être incluse dans la procédure menant à la décision globale, la décision correspondante est prise dans un délai distinct de six mois, qui débute à la date de soumission par le promoteur des documents de demande finaux et complets.
+
+Dans les circonstances décrites au premier alinéa du présent paragraphe, la prolongation visée au paragraphe 2, deuxième alinéa, est réduite à six mois, sauf circonstances exceptionnelles, y compris pour la procédure visée au présent paragraphe.
+
+**6.** La procédure de demande préalable comprend les étapes suivantes:a) dans les meilleurs délais et au plus tard six mois après la notification en vertu du paragraphe 3, premier alinéa, l’autorité nationale compétente détermine, en se fondant sur la liste de contrôle visée à l’annexe VI, point 1) e), et en coopération étroite avec les autres autorités concernées, et le cas échéant sur la base d’une proposition du promoteur du projet, la portée du rapport et des documents et le degré de détail des informations que devra soumettre le promoteur du projet dans son dossier de demande, en vue de demander la décision globale;b) l’autorité nationale compétente élabore, en coopération étroite avec le promoteur du projet et les autres autorités concernées, et en tenant compte des résultats des activités réalisées au titre du point a) du présent paragraphe, un planning détaillé de la procédure d’octroi des autorisations, conformément aux orientations énoncées à l’annexe VI, point 2);c) à la réception du projet de dossier de demande, l’autorité nationale compétente, si nécessaire, en son nom ou au nom d’autres autorités concernées, demande au promoteur du projet d’apporter les informations manquantes relatives aux éléments demandés visés au point a).
+
+La procédure de demande préalable inclut la préparation de tout rapport environnemental devant être préparé par les promoteurs de projets, le cas échéant, y compris la documentation relative à l’adaptation au changement climatique.
+
+Dans un délai de trois mois suivant la transmission des informations manquantes visées au premier alinéa, point c), l’autorité compétente accepte d’examiner la demande sous forme écrite ou au format numérique, ce qui marque le début de la procédure légale d’octroi des autorisations visée au paragraphe 1, point b). Toute demande d’informations complémentaires doit être justifiée par des circonstances nouvelles.
+
+**7.** Le promoteur du projet veille à ce que le dossier de demande soit complet et satisfaisant et demande l’avis de l’autorité nationale compétente sur ces aspects le plus tôt possible au cours de la procédure d’octroi des autorisations. Le promoteur du projet coopère pleinement avec l’autorité nationale compétente afin de respecter les délais fixés par le présent règlement.
+
+**8.** Les États membres s’efforcent de veiller à ce que toute modification du droit national n’entraîne pas une prolongation de toute procédure d’octroi d’autorisation ayant débuté avant l’entrée en vigueur de ces modifications. En vue de maintenir une procédure accélérée d’octroi des autorisations pour les projets inscrits sur la liste de l’Union, les autorités nationales compétentes adaptent en conséquence le planning établi conformément au paragraphe 6, point b), du présent article pour faire en sorte, dans la mesure du possible, que les délais fixés au présent article pour la procédure d’octroi des autorisations ne soient pas dépassés.
+
+**9.** Les échéances prévues au présent article sont sans préjudice des obligations découlant du droit de l’Union et du droit international, et sans préjudice des procédures de recours administratif et judiciaire devant une cour ou un tribunal.
+
+Les délais fixés au présent article pour toute procédure d’octroi des autorisations sont sans préjudice de tout délai plus court fixé par les États membres.
+
+## CHAPITRE IV — Planification intersectorielle des infrastructures
+
+<a id="art_11"></a>
+
+### Article 11 — Analyse des coûts et avantages pour l’ensemble du système énergétique
+
+**1.** Le REGRT pour l’électricité et le réseau européen des gestionnaires de réseau pour l’hydrogène (REGRH) visé à l’article 57 du règlement (UE) 2024/1789 du Parlement européen et du Conseil (3) élaborent des projets cohérents de méthode par secteur, y compris en ce qui concerne la modélisation du réseau et du marché de l’énergie visée au paragraphe 10 du présent article, pour une analyse harmonisée des coûts et avantages concernant l’ensemble du système énergétique à l’échelle de l’Union des projets inscrits sur la liste de l’Union relevant des catégories d’infrastructures énergétiques prévues au point 1), a), b), d) et f), et au point 3) de l’annexe II du présent règlement.
+
+Les méthodes visées au premier alinéa du présent paragraphe sont définies conformément aux principes établis à l’annexe V, sont fondées sur des hypothèses communes permettant de comparer les projets et sont conformes aux objectifs spécifiques de l’Union pour 2030 en matière de climat et d’énergie et à son objectif de neutralité climatique à l’horizon 2050 ainsi qu’aux règles et indicateurs visés à l’annexe IV.
+
+Les méthodes visées au premier alinéa du présent paragraphe sont appliquées à l’élaboration de chaque plan décennal de développement du réseau dans l’ensemble de l’Union défini par la suite par le REGRT pour l’électricité, en vertu de l’article 30 du règlement (UE) 2019/943, ou par le REGRH, en vertu de l’article 60 du règlement (UE) 2024/1789.
+
+Au plus tard le 24 avril 2023, le REGRT pour l’électricité publie et soumet aux États membres, à la Commission et à l’Agence ses projets cohérents de méthode par secteur, après avoir recueilli les contributions des parties prenantes concernées dans le cadre du processus de consultation visé au paragraphe 2 du présent article. Toute méthode d’analyse coûts-avantages de l’hydrogène à l’échelle du système énergétique élaborée par le REGRT pour le gaz au plus tard le 1er septembre 2024 est approuvée conformément à la procédure prévue au présent article. Au plus tard le 1er décembre 2025, le REGRH publie et soumet aux États membres, à la Commission et à l’Agence son projet cohérent de méthode par secteur, après avoir recueilli les contributions des parties prenantes concernées dans le cadre de la procédure de consultation en application de l’article 61, paragraphe 3, point d), du règlement (UE) 2024/1789.
+
+**2.** Avant de soumettre leurs projets de méthode respectifs aux États membres, à la Commission et à l’Agence conformément au paragraphe 1, le REGRT pour l’électricité et le REGRH publient des avant-projets de méthode et mènent un large processus de consultation, et sollicitent des recommandations de la part des États membres ainsi qu’au moins des organisations représentant toutes les parties concernées, y compris l’entité européenne des gestionnaires de réseau de distribution instaurée en vertu de l’article 52, paragraphe 1, du règlement (UE) 2019/943 (ci-après dénommée «entité des GRD de l’Union»), des associations concernées par les marchés de l’électricité, du gaz naturel et de l’hydrogène, du chauffage et du refroidissement, des parties prenantes du domaine de la capture et du stockage du carbone et du domaine de la capture et de l’utilisation du carbone, des agrégateurs indépendants, des opérateurs de modulation de la consommation, des organisations concernées par les solutions d’efficacité énergétique, des associations de consommateurs d’énergie, des représentants de la société civile et, si cela est considéré approprié, des autorités de régulation nationales et d’autres autorités nationales.
+
+Dans un délai de trois mois à compter de la publication des projets préliminaires de méthode au titre du premier alinéa, toute partie prenante visée audit alinéa peut soumettre une recommandation.
+
+Le conseil scientifique consultatif européen sur le changement climatique établi au titre de l’article 10 *bis* du règlement (CE) no 401/2009 du Parlement européen et du Conseil (4) peut, de sa propre initiative, rendre un avis au sujet des projets de méthode.
+
+Le cas échéant, les États membres et les parties prenantes visées au premier alinéa soumettent et rendent publiques leurs recommandations, et le conseil scientifique consultatif européen sur le changement climatique soumet son avis à l’Agence et, le cas échéant, au REGRT pour l’électricité et au REGRH et le rend public.
+
+Le processus de consultation est ouvert et transparent et a lieu en temps utile. Le REGRT pour l’électricité et le REGRH élaborent un rapport sur le processus de consultation, qui est rendu public.
+
+Lorsque le REGRT pour l’électricité et le REGRH ne tiennent pas compte, ou tiennent compte seulement en partie, des recommandations des États membres ou des parties prenantes, ainsi que des autorités nationales, ou de l’avis du conseil scientifique consultatif européen sur le changement climatique, ils motivent cette décision.
+
+**3.** Dans un délai de trois mois suivant la réception des projets de méthode, ainsi que des contributions reçues dans le cadre du processus de consultation et du rapport sur la consultation, l’Agence rend un avis au REGRT pour l’électricité et au REGRH. L’Agence communique son avis au REGRT pour l’électricité, au REGRH, aux États membres et à la Commission et le publie sur son site internet.
+
+**4.** Dans un délai de trois mois à compter de la réception des projets de méthode, les États membres peuvent rendre un avis à l’intention du REGRT pour l’électricité, du REGRH et de la Commission. Afin de faciliter la consultation, la Commission peut organiser des réunions spécifiques des groupes en vue d’examiner les projets de méthode.
+
+**5.** Dans un délai de trois mois suivant la réception des avis de l’Agence et des États membres visés aux paragraphes 3 et 4, le REGRT pour l’électricité et le REGRH modifient leurs méthodes respectives pour tenir pleinement compte des avis rendus par l’Agence et les États membres et les soumettent, accompagnées de l’avis de l’Agence, à la Commission pour approbation. La Commission rend sa décision dans un délai de trois mois à compter de la soumission des méthodes respectivement par le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH.
+
+**6.** Dans les deux semaines à compter de la date d’approbation par la Commission conformément au paragraphe 5, le REGRT pour l’électricité et le REGRH publient leurs méthodes respectives sur leurs sites internet. Ils publient les données d’entrée correspondantes et toute autre donnée pertinente relative aux réseaux, aux flux de charge et aux marchés, sous une forme suffisamment précise, sous réserve des restrictions prévues par le droit national et les accords applicables en matière de confidentialité. La Commission et l’Agence veillent à ce que les données reçues soient traitées en toute confidentialité, par elles-mêmes et par toute partie chargée de réaliser pour leur compte des travaux d’analyse sur la base de ces données.
+
+**7.** Les méthodes sont mises à jour et améliorées régulièrement, conformément à la procédure décrite aux paragraphes 1 à 6. En particulier, elles sont modifiées après la soumission de la modélisation du réseau et du marché de l’énergie visée au paragraphe 10. L’Agence, de sa propre initiative ou sur demande dûment motivée des autorités de régulation nationales ou des parties concernées, et après consultation formelle, visée au paragraphe 2, premier alinéa, de la Commission et des organismes représentant toutes les parties concernées, peut demander que soient effectuées de telles mises à jour et améliorations, en les motivant et en en précisant les délais. L’Agence publie les demandes des autorités de régulation nationales et des parties concernées ainsi que l’ensemble des documents pertinents qui ne sont pas commercialement sensibles menant à une demande de mise à jour ou d’amélioration de la part de l’Agence.
+
+**8.** Pour les projets qui relèvent des catégories d’infrastructures énergétiques visées à au point 1), c) et e), et aux points 2), 4) et 5) de l’annexe II, la Commission assure l’élaboration de méthodes pour une analyse harmonisée des coûts et avantages pour l’ensemble du système énergétique au niveau de l’Union. Ces méthodes sont compatibles, en termes d’avantages et de coûts, avec celles élaborées par le REGRT pour l’électricité et le REGRH. L’Agence, avec le soutien des autorités de régulation nationales, favorise la cohérence de ces méthodes avec les méthodes élaborées par le REGRT pour l’électricité et le REGRH. Les méthodes sont élaborées de manière transparente, en prévoyant une large consultation des États membres et de toutes les parties concernées.
+
+**9.** Tous les trois ans, l’Agence établit et publie un ensemble d’indicateurs et de valeurs de référence correspondantes pour la comparaison des coûts d’investissement unitaires pour des projets comparables des catégories d’infrastructures énergétiques visées à l’annexe II. Les promoteurs de projets fournissent les données demandées aux autorités de régulation nationales et à l’Agence.
+
+L’Agence publie les premiers indicateurs pour les catégories d’infrastructures énergétiques visées aux points 1), 2) et 3) de l’annexe II, au plus tard le 24 avril 2023, dans la mesure où des données sont disponibles pour calculer des indicateurs et des valeurs de référence solides. Ces valeurs de référence peuvent être utilisées par le REGRT pour l’électricité et le REGRH pour analyser les coûts et les avantages des plans décennaux de développement du réseau dans l’ensemble de l’Union élaborés par la suite.
+
+L’Agence publie les premiers indicateurs pour les catégories d’infrastructures énergétiques visées aux points 4) et 5) de l’annexe II, au plus tard le 24 avril 2025.
+
+**10.** Au plus tard le 31 octobre 2025, à l’issue d’un large processus de consultation des parties concernées, visée au paragraphe 2, premier alinéa, le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH soumettent conjointement à la Commission et à l’Agence une modélisation cohérente et d’intégration progressive permettant la compatibilité des méthodes par secteur sur la base d’hypothèses communes, portant notamment sur les infrastructures de transport d’électricité, de gaz naturel et d’hydrogène et sur les installations de stockage de gaz naturel, le gaz naturel liquéfié et les électrolyseurs, couvrant les corridors et domaines prioritaires d’infrastructures énergétiques visés à l’annexe I et élaborée conformément aux principes établis à l’annexe V.
+
+**11.** La modélisation visée au paragraphe 10 couvre, au minimum, les interconnexions entre les différents secteurs à tous les stades de la planification des infrastructures, notamment les scénarios, les technologies et la résolution spatiale, le recensement des lacunes en matière d’infrastructures, en particulier en ce qui concerne les capacités transfrontières, et l’évaluation des projets.
+
+**12.** La modélisation visée au paragraphe 10, une fois approuvée par la Commission conformément à la procédure prévue aux paragraphes 1 à 5, est incluse dans les méthodes visées au paragraphe 1, qui doivent être modifiées en conséquence.
+
+**13.** Au moins tous les cinq ans à compter de l’approbation conformément au paragraphe 10, et plus souvent si nécessaire, la modélisation et les méthodes d’analyse cohérente des coûts et avantages par secteur sont mises à jour conformément à la procédure visée au paragraphe 7.
+
+**14.** Jusqu’au 1er janvier 2027, le présent article s’applique sous réserve des dispositions transitoires énoncées à l’article 61 du règlement (UE) 2024/1789.
+
+<a id="art_12"></a>
+
+### Article 12 — Scénarios pour les plans décennaux de développement du réseau
+
+**1.** Au plus tard le 24 janvier 2023, l’Agence, après avoir mené un large processus de consultation associant la Commission, les États membres, le REGRT pour l’électricité, le REGRT pour le gaz, l’entité des GRD de l’Union et au moins les organisations représentant les associations concernées par les marchés de l’électricité, du gaz naturel et de l’hydrogène, du chauffage et du refroidissement, les parties prenantes du domaine de la capture et du stockage du carbone et du domaine de la capture et de l’utilisation du carbone, les agrégateurs indépendants, les opérateurs de modulation de la consommation, les organisations concernées par les solutions d’efficacité énergétique, les associations de consommateurs d’énergie et les représentants de la société civile, publie les orientations-cadres pour les scénarios communs à élaborer par le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH. Ces orientations-cadres sont régulièrement mises à jour, si nécessaire. Le processus de consultation pour toute mise à jour des orientations-cadres implique également le REGRH.
+
+Les orientations-cadres visées au premier alinéa établissent des critères pour l’élaboration transparente, non discriminatoire et solide de scénarios, en tenant compte des bonnes pratiques en matière d’évaluation des infrastructures et de planification du développement du réseau. Les orientations-cadres visent également à faire en sorte que les scénarios sous-jacents du REGRT pour l’électricité, du REGRT pour le gaz et du REGRH soient pleinement conformes au principe de primauté de l’efficacité énergétique, aux objectifs spécifiques de l’Union pour 2030 en matière de climat et d’énergie et à son objectif de neutralité climatique à l’horizon 2050 et prennent en considération les derniers scénarios disponibles de la Commission ainsi que, le cas échéant, les plans nationaux en matière d’énergie et de climat.
+
+Le conseil scientifique consultatif européen sur le changement climatique peut, de sa propre initiative, formuler des recommandations sur la manière d’assurer la conformité des scénarios avec les objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et avec l’objectif de neutralité climatique de l’Union à l’horizon 2050. L’Agence tient dûment compte de cette contribution dans les orientations-cadres visées au premier alinéa.
+
+Lorsque l’Agence ne tient pas compte, ou tient compte seulement en partie, des recommandations de États membres, des parties prenantes et du conseil scientifique consultatif européen sur le changement climatique, elle motive cette décision.
+
+**2.** Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH suivent les orientations-cadres de l’Agence lorsqu’ils élaborent les scénarios communs à utiliser pour les plans décennaux de développement du réseau dans l’ensemble de l’Union.
+
+Les scénarios communs comprennent également une perspective à long terme jusqu’en 2050 et prévoient, le cas échéant, des étapes intermédiaires.
+
+**3.** Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH invitent les organisations représentant toutes les parties prenantes concernées, y compris l’entité des GRD de l’Union, les associations concernées par les marchés de l’électricité, du gaz naturel et de l’hydrogène, du chauffage et du refroidissement, les parties prenantes du domaine de la capture et du stockage du carbone et du domaine de la capture et de l’utilisation du carbone, les agrégateurs indépendants, les opérateurs de modulation de la consommation, les organisations concernées par les solutions d’efficacité énergétique, les associations de consommateurs d’énergie et les représentants de la société civile, à participer au processus d’élaboration des scénarios, en particulier à ses principaux volets, tels que les hypothèses et la manière dont celles-ci sont prises en compte dans les données des scénarios.
+
+**4.** Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH publient et soumettent un projet de rapport sur les scénarios communs à l’Agence, aux États membres et à la Commission pour avis.
+
+Le conseil scientifique consultatif européen sur le changement climatique peut, de sa propre initiative, rendre un avis sur le rapport sur les scénarios communs.
+
+**5.** Dans un délai de trois mois à compter de la réception du projet de rapport sur les scénarios communs, accompagné des contributions reçues dans le cadre du processus de consultation et d’un rapport sur la manière dont elles ont été prises en considération, l’Agence transmet son avis sur la compatibilité des scénarios avec les orientations-cadres visées au paragraphe 1, premier alinéa, comprenant le cas échéant des recommandations de modifications, au REGRT pour l’électricité, au REGRT pour le gaz, au REGRH aux États membres et à la Commission.
+
+Dans le même délai, le conseil scientifique consultatif européen sur le changement climatique peut, de sa propre initiative, rendre un avis sur la conformité des scénarios avec les objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et avec l’objectif de neutralité climatique de l’Union à l’horizon 2050.
+
+**6.** Dans un délai de trois mois à compter de la réception de l’avis visé au paragraphe 5, la Commission, en tenant compte des avis de l’Agence et des États membres, approuve le projet de rapport sur les scénarios communs ou demande au REGRT pour l’électricité, au REGRT pour le gaz ou au REGRH de le modifier.
+
+Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH motivent la manière dont toute demande de modification formulée par la Commission a été traitée.
+
+Si la Commission n’approuve pas le rapport sur les scénarios communs, elle transmet un avis motivé au REGRT pour l’électricité, au REGRT pour le gaz et au REGRH.
+
+**7.** Dans les deux semaines à compter de l’approbation du rapport sur les scénarios communs conformément au paragraphe 6, le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH publient ce rapport sur leur site internet. Ils publient également les données d’entrée et de sortie correspondantes sous une forme suffisamment claire et précise pour qu’un tiers puisse en reproduire les résultats, en tenant dûment compte de la législation nationale, des accords de confidentialité pertinents et des informations sensibles.
+
+**8.** Jusqu’au 1er janvier 2027, le présent article s’applique sous réserve des dispositions transitoires énoncées à l’article 61 du règlement (UE) 2024/1789.
+
+<a id="art_13"></a>
+
+### Article 13 — Recensement des lacunes en matière d’infrastructures
+
+**1.** Dans un délai de six mois à compter de l’approbation du rapport sur les scénarios communs au titre de l’article 12, paragraphe 6, et tous les deux ans par la suite, le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH publient les projets de rapports sur les lacunes en matière d’infrastructures élaborés dans le cadre des plans décennaux de développement du réseau dans l’ensemble de l’Union.
+
+Dans le cadre de l’évaluation des lacunes en matière d’infrastructures, le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH fondent leur analyse sur les scénarios visés à l’article 12, mettent en œuvre le principe de primauté de l’efficacité énergétique et examinent en priorité toutes les solutions pertinentes qui ne nécessitent pas de nouvelles infrastructures. Dans le cadre de l’examen de nouvelles solutions en matière d’infrastructures, l’évaluation des lacunes en matière d’infrastructures tient compte de tous les coûts pertinents, y compris les renforcements du réseau.
+
+L’évaluation des lacunes en matière d’infrastructures porte une attention particulière aux lacunes d’infrastructures susceptibles d’entraver la réalisation des objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et de son objectif de neutralité climatique à l’horizon 2050.
+
+Avant de publier leurs rapports respectifs, le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH mènent un large processus de consultation associant toutes les parties prenantes concernées, y compris l’entité des GRD de l’Union, les associations concernées par les marchés de l’électricité, du gaz naturel et de l’hydrogène, du chauffage et du refroidissement, les parties prenantes du domaine de la capture et du stockage du carbone et du domaine de la capture et de l’utilisation du carbone, les agrégateurs indépendants, les opérateurs de modulation de la consommation, les organisations concernées par les solutions d’efficacité énergétique, les associations de consommateurs d’énergie, les représentants de la société civile, l’Agence et tous les représentants des États membres concernés par les corridors prioritaires des infrastructures énergétiques définis à l’annexe I.
+
+**2.** Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH soumettent leurs projets respectifs de rapport sur les lacunes en matière d’infrastructures à l’Agence, à la Commission et aux États membres pour avis.
+
+**3.** Dans un délai de trois mois à compter de la réception du rapport sur les lacunes en matière d’infrastructures, accompagné des contributions reçues dans le cadre du processus de consultation et d’un rapport sur la manière dont elles ont été prises en considération, l’Agence transmet son avis au REGRT pour l’électricité, au REGRT pour le gaz ou au REGRH, à la Commission et aux États membres et le rend public.
+
+**4.** Dans un délai de trois mois à compter de la réception de l’avis de l’Agence visé au paragraphe 3, la Commission, en tenant compte de cet avis et en s’appuyant sur des contributions des États membres, rédige son avis et le transmet au REGRT pour l’électricité, au REGRT pour le gaz ou au REGRH.
+
+**5.** Le REGRT pour l’électricité, le REGRT pour le gaz et le REGRH adaptent leurs rapports sur les lacunes en matière d’infrastructures en tenant dûment compte de l’avis de l’Agence et conformément aux avis de la Commission et des États membres et les rendent publics.
+
+**6.** Jusqu’au 1er janvier 2027, le présent article s’applique sous réserve des dispositions transitoires énoncées à l’article 61 du règlement (UE) 2024/1789.
+
+## CHAPITRE V — Réseaux en mer pour l’intégration des énergies renouvelables
+
+<a id="art_14"></a>
+
+### Article 14 — Planification des réseaux en mer
+
+**1.** Au plus tard le 24 janvier 2023, les États membres, avec le soutien de la Commission, dans le cadre de leurs corridors prioritaires spécifiques de réseaux en mer, qui figurent à l’annexe I, point 2), en prenant en considération les spécificités et le développement dans chaque région, concluent un accord non contraignant pour coopérer sur des objectifs de production d’énergies renouvelables en mer à déployer dans chaque bassin maritime d’ici à 2050, avec des étapes intermédiaires en 2030 et 2040, conformément à leurs plans nationaux en matière d’énergie et de climat, et le potentiel de chaque bassin maritime en matière d’énergies renouvelables en mer.
+
+Cet accord non contraignant est établi par écrit en ce qui concerne chaque bassin maritime lié au territoire des États membres et s’entend sans préjudice du droit des États membres de mettre en place des projets dans leurs eaux territoriales et leur zone économique exclusive. La Commission élabore des orientations relatives au travail au sein des groupes.
+
+**2.** Au plus tard le 24 janvier 2024 et dans le cadre de chaque plan décennal de développement du réseau par la suite, le REGRT pour l’électricité, avec la participation des GRT concernés, des autorités de régulation nationales, des États membres et de la Commission et conformément à l’accord non contraignant visé au paragraphe 1 du présent article, élabore et publie, sous la forme d’un rapport distinct qui fait partie du plan décennal de développement du réseau de l’ensemble de l’Union, des plans stratégiques de haut niveau de développement du réseau intégré en mer pour chaque bassin maritime, conformément aux corridors prioritaires de réseaux en mer visés à l’annexe I, en tenant compte de la protection de l’environnement et des autres utilisations de la mer.
+
+Dans le cadre de l’élaboration des plans stratégiques de haut niveau de développement du réseau intégré en mer selon le calendrier prévu au paragraphe 1, le REGRT pour l’électricité tient compte des accords non contraignants visés au paragraphe 1 pour l’élaboration des scénarios du plan décennal de développement du réseau de l’ensemble de l’Union.
+
+Les plans stratégiques de haut niveau de développement du réseau intégré en mer fournissent des perspectives de haut niveau sur le potentiel des capacités de production en mer et les besoins de réseau en mer qui en résultent, notamment les besoins éventuels en matière d’interconnexions, de projets hybrides, de connexions radiales, de renforcements et d’infrastructures pour l’hydrogène.
+
+**3.** Les plans stratégiques de haut niveau de développement du réseau intégré en mer sont conformes aux plans d’investissement régionaux publiés conformément à l’article 34, paragraphe 1, du règlement (UE) 2019/943 et intégrés aux plans décennaux de développement du réseau dans l’ensemble de l’Union afin d’assurer un développement cohérent de la planification des réseaux terrestres et en mer et les renforcements nécessaires.
+
+**4.** Au plus tard le 24 décembre 2024 et tous les deux ans par la suite, les États membres mettent à jour leur accord non contraignant visé au paragraphe 1 du présent article, y compris au vu des résultats de l’application de l’analyse coûts-bénéfices et du partage des coûts aux corridors prioritaires du réseau en mer, lorsque lesdits résultats seront disponibles.
+
+**5.** Après chaque mise à jour des accords non contraignants conformément au paragraphe 4, le REGRT pour l’électricité met à jour, pour chaque bassin maritime, le plan stratégique de haut niveau intégré de développement du réseau en mer dans le cadre du plan décennal suivant de développement du réseau dans l’ensemble de l’Union tel qu’il est visé au paragraphe 2.
+
+<a id="art_15"></a>
+
+### Article 15 — Partage transfrontière des coûts liés aux réseaux en mer pour les énergies renouvelables
+
+**1.** Au plus tard le 24 juin 2024, la Commission, avec le concours des États membres, des GRT concernés, de l’Agence et des autorités de régulation nationale, élabore des orientations applicables à une méthode spécifique relative aux coûts et avantages et au partage des coûts pour le déploiement des plans de développement du réseau intégré en mer par bassin maritime visés à l’article 14, paragraphe 2, conformément à l’accord non contraignant visé à l’article 14, paragraphe 1. Ces orientations sont compatibles avec l’article 16, paragraphe 1. La Commission met à jour ses orientations en tant que de besoin, en tenant compte des résultats de leur mise en œuvre.
+
+**2.** Au plus tard le 24 juin 2025, le REGRT pour l’électricité, avec la participation des GRT concernés, de l’Agence, des autorités de régulation nationales et de la Commission, présente les résultats de l’application de la méthode relative aux coûts et avantages et au partage des coûts aux corridors prioritaires de réseaux en mer.
+
+## CHAPITRE VI — Cadre réglementaire
+
+<a id="art_16"></a>
+
+### Article 16 — Réalisation d’investissements ayant une incidence transfrontière
+
+**1.** Les coûts d’investissement engagés efficacement, ce qui exclut les coûts d’entretien, liés à un projet d’intérêt commun relevant des catégories d’infrastructures énergétiques prévues à l’annexe II, point 1) a), b), c), d) et f), et à des projets d’intérêt commun relevant de la catégorie d’infrastructures énergétiques prévue à l’annexe II, point 3), lorsqu’ils relèvent de la compétence des autorités de régulation nationales dans chaque État membre concerné, sont supportés par les GRT concernés ou par les promoteurs de projets d’infrastructure de transport des États membres pour lesquels le projet a une incidence nette positive et, dans la mesure où ils ne sont pas couverts par les recettes provenant de la gestion de la congestion ou d’autres frais, sont payés par les utilisateurs des réseaux moyennant les tarifs d’accès aux réseaux dans ces États membres.
+
+**2.** Les dispositions du présent article s’appliquent à un projet d’intérêt commun relevant des catégories d’infrastructures énergétiques prévues à l’annexe II, point 1) a), b), c), d) et f), et point 3), lorsqu’au moins un promoteur de projets demande aux autorités nationales compétentes qu’elles soient appliquées en ce qui concerne les coûts du projet.
+
+Les projets relevant de la catégorie d’infrastructures énergétiques visée à l’annexe II, point 1) e), et point 2), peuvent bénéficier des dispositions du présent article lorsqu’au moins un promoteur de projets demande aux autorités nationales compétentes que le présent article soit appliqué.
+
+Lorsqu’un projet compte plusieurs promoteurs de projets, les autorités de régulation nationales compétentes demandent sans tarder à tous les promoteurs de projets de soumettre conjointement la demande d’investissement conformément au paragraphe 4.
+
+**3.** Pour un projet d’intérêt commun auquel le paragraphe 1 s’applique, les promoteurs de projets informent régulièrement, au moins une fois par an, et jusqu’à ce que le projet soit mis en service, toutes les autorités de régulation nationales compétentes de l’avancement du projet concerné et leur indiquent les coûts et l’incidence y afférents.
+
+**4.** Dès qu’un tel projet d’intérêt commun a atteint une maturité suffisante et lorsqu’on estime qu’il est prêt à entrer dans sa phase de construction au cours des 36 prochains mois, les promoteurs de projets, après avoir consulté les GRT des États membres sur lesquels le projet a une incidence nette positive importante, soumettent une demande d’investissement. Cette demande d’investissement inclut une demande de répartition transfrontière des coûts et est soumise à toutes les autorités de régulation nationales compétentes concernées, accompagnée de tous les éléments suivants:a) une analyse coûts-avantages actualisée spécifique du projet, conforme à la méthode établie en vertu de l’article 11 et tenant compte des avantages au-delà des frontières des États membres sur le territoire desquels le projet est situé, en prenant en considération à tout le moins les scénarios communs établis aux fins de la planification du développement du réseau visés à l’article 12. Lorsque des scénarios supplémentaires sont utilisés, ils s’inscrivent dans les objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et son objectif de neutralité climatique à l’horizon 2050 et font l’objet du même niveau de consultation et d’examen que la procédure prévue à l’article 12. L’Agence est compétente pour évaluer tout scénario supplémentaire et en garantir la conformité avec le présent paragraphe;b) un plan d’affaires dans lequel est évaluée la viabilité financière du projet, qui comprend la solution de financement choisie et, pour un projet d’intérêt commun relevant de la catégorie d’infrastructures énergétiques visée à l’annexe II, point 3), les résultats des consultations des acteurs du marché;c) lorsque les promoteurs de projets en conviennent, une proposition circonstanciée de répartition transfrontière des coûts.
+
+Lorsqu’un projet est soutenu par plusieurs promoteurs de projets, ceux-ci soumettent leur demande d’investissement conjointement.
+
+Les autorités de régulation nationales compétentes transmettent à l’Agence, dès réception et sans tarder, une copie de chaque demande d’investissement à titre d’information.
+
+Les autorités de régulation nationales compétentes et l’Agence veillent à préserver la confidentialité des informations commercialement sensibles.
+
+**5.** Dans un délai de six mois suivant la réception de la demande d’investissement par la dernière autorité de régulation nationale compétente, ces autorités, après consultation des promoteurs de projets concernés, prennent des décisions conjointes coordonnées sur la répartition des coûts d’investissement engagés efficacement devant être supportés par chaque gestionnaire de réseau dans le cadre du projet, ainsi que sur leur inclusion dans les tarifs, ou sur le rejet de tout ou partie de la demande d’investissement, si l’analyse commune des autorités de régulation nationales compétentes conclut que le projet ou une partie de celui-ci n’apporte d’avantage net significatif dans aucun des États membres des autorités de régulation nationales compétentes. Les autorités de régulation nationales compétentes incluent les coûts d’investissement engagés efficacement pertinents dans les tarifs, tel que défini dans la recommandation visée au paragraphe 11, conformément à la répartition des coûts d’investissement devant être supportés par chaque gestionnaire de réseau dans le cadre du projet. Pour les projets sur le territoire de leurs États membres respectifs, les autorités de régulation nationales évaluent ensuite, le cas échéant, si des problèmes d’accessibilité financière sont susceptibles de se poser en raison de l’inclusion des coûts d’investissement dans les tarifs.
+
+Dans le cadre de la répartition des coûts, les autorités de régulation nationales compétentes prennent en compte les chiffres réels ou estimés:
+
+a) des recettes provenant de la gestion de la congestion ou d’autres redevances;
+
+b) des recettes provenant du mécanisme de compensation entre gestionnaires de réseau de transport institué en application de l’article 49 du règlement (UE) 2019/943.
+
+La répartition transfrontière des coûts tient compte des coûts et avantages économiques, sociaux et environnementaux des projets dans les États membres concernés, ainsi que de la nécessité de garantir un cadre de financement stable pour le développement de projets d’intérêt commun tout en réduisant au minimum les besoins d’aide financière.
+
+Dans le cadre de la répartition transfrontière des coûts, les autorités de régulation nationales compétentes, après consultation des GRT concernés, s’efforcent d’obtenir un commun accord sur la base, entre autres, des informations précisées au paragraphe 4, premier alinéa, points a) et b), du présent article. Leur évaluation porte sur tous les scénarios pertinents visés à l’article 12 et d’autres scénarios ayant trait à la planification du développement du réseau, de sorte à aboutir à une analyse solide de la contribution du projet d’intérêt commun aux objectifs de la politique énergétique de l’Union en matière de décarbonation, d’intégration du marché, de concurrence, de durabilité et de sécurité de l’approvisionnement. Lorsque des scénarios supplémentaires sont utilisés, ils s’inscrivent dans les objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et son objectif de neutralité climatique à l’horizon 2050 et font l’objet du même niveau de consultation et d’examen que la procédure prévue à l’article 12.
+
+Lorsqu’un projet d’intérêt commun atténue des externalités négatives, telles que les flux de bouclage, et que ce projet d’intérêt commun est mis en œuvre dans l’État membre à l’origine de l’externalité négative, cette atténuation n’est pas considérée comme un avantage transfrontière et ne constitue donc pas un fondement pour l’attribution de coûts au GRT des États membres concernés par ces externalités négatives.
+
+**6.** Les autorités de régulation nationales compétentes, sur la base de la répartition transfrontière des coûts visée au paragraphe 5 du présent article, tiennent compte des coûts réels supportés par un GRT ou un autre promoteur de projets du fait des investissements lors de la fixation ou de l’approbation des tarifs conformément à l’article 41, paragraphe 1, point a), de la directive 2009/73/CE et à l’article 59, paragraphe 1, point a), de la directive (UE) 2019/944, dans la mesure où ces coûts correspondent à ceux d’un gestionnaire efficace disposant d’une structure comparable.
+
+Les autorités de régulation nationales compétentes notifient sans tarder à l’Agence la décision de répartition des coûts, accompagnée de toutes les informations pertinentes y afférentes. La décision de répartition des coûts énonce notamment les justifications détaillées qui sous-tendent la répartition des coûts entre les États membres, telles que:
+
+a) une évaluation de l’incidence recensée sur chacun des États membres concernés, y compris celle concernant les tarifs de réseau;
+
+b) une évaluation du plan d’affaires visé au paragraphe 4, premier alinéa, point b);
+
+c) les externalités positives à l’échelle régionale ou à celle de l’Union, telles que la sécurité de l’approvisionnement, la flexibilité du système, la solidarité ou l’innovation, susceptibles d’être générées par le projet;
+
+d) le résultat de la consultation des promoteurs de projets concernés.
+
+La décision de répartition des coûts est publiée.
+
+**7.** Si les autorités de régulation nationales compétentes n’ont pas trouvé d’accord sur la demande d’investissement dans les six mois à compter de la date à laquelle la demande a été reçue par la dernière des autorités de régulation nationales compétentes, elles en informent l’Agence sans tarder.
+
+Dans ce cas, ou à la demande conjointe des autorités de régulation nationales compétentes, la décision concernant la demande d’investissement qui comprend la répartition transfrontière des coûts visée au paragraphe 5 est prise par l’Agence dans les trois mois à compter de la date à laquelle elle a été sollicitée.
+
+Avant de prendre une telle décision, l’Agence consulte les autorités de régulation nationales compétentes et les promoteurs de projets. Le délai de trois mois visé au deuxième alinéa peut être prolongé de deux mois si l’Agence sollicite un complément d’informations. Ce délai supplémentaire court à compter du jour suivant celui de la réception des informations complètes.
+
+L’évaluation de l’Agence porte sur tous les scénarios pertinents établis au titre de l’article 12 ainsi que d’autres scénarios de planification du développement du réseau, de sorte à aboutir à une analyse solide de la contribution du projet d’intérêt commun aux objectifs de la politique énergétique de l’Union en matière de décarbonation, d’intégration du marché, de concurrence, de durabilité et de sécurité de l’approvisionnement. Lorsque des scénarios supplémentaires sont utilisés, ils s’inscrivent dans les objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et son objectif de neutralité climatique à l’horizon 2050 et font l’objet du même niveau de consultation et d’examen que la procédure prévue à l’article 12.
+
+L’Agence, dans sa décision sur la demande d’investissement, qui comprend la répartition transfrontière des coûts, laisse aux autorités nationales compétentes la possibilité de déterminer la manière dont les coûts d’investissement sont inclus dans les tarifs conformément à la répartition transfrontière des coûts prévue au moment de la mise en œuvre de la décision dans le respect du droit national.
+
+La décision concernant la demande d’investissement, qui comprend la répartition transfrontière des coûts, est publiée. L’article 25, paragraphe 3, l’article 28 et l’article 29 du règlement (UE) 2019/942 s’appliquent.
+
+**8.** L’Agence transmet sans tarder à la Commission une copie de chaque décision de répartition des coûts, accompagnée de toutes les informations pertinentes y afférentes. Ces informations peuvent être soumises sous une forme agrégée. La Commission veille à préserver la confidentialité des informations commercialement sensibles.
+
+**9.** Les décisions de répartition des coûts se font sans préjudice du droit des GRT d’appliquer des tarifs d’accès aux réseaux et de celui des autorités de régulation nationales de les approuver, conformément à l’article 13 du règlement (CE) no 715/2009, à l’article 18, paragraphe 1 et paragraphes 3 à 6, du règlement (UE) 2019/943, à l’article 32 de la directive 2009/73/CE et à l’article 6 de la directive (UE) 2019/944.
+
+**10.** Le présent article ne s’applique pas aux projets d’intérêt commun bénéficiant d’une dérogation:a) aux articles 32, 33 et 34 et à l’article 41, paragraphes 6, 8 et 10, de la directive 2009/73/CE, en vertu de l’article 36 de ladite directive;b) à l’article 19, paragraphes 2 et 3, du règlement (UE) 2019/943 ou à l’article 6, à l’article 59, paragraphe 7, et à l’article 60, paragraphe 1, de la directive (UE) 2019/944, en vertu de l’article 63 du règlement (UE) 2019/943;c) aux règles relatives à la dissociation ou à l’accès des tiers en vertu de l’article 17 du règlement (CE) no 714/2009 du Parlement européen et du Conseil (5) ou de l’article 64 du règlement (UE) 2019/943 et de l’article 66 de la directive (UE) 2019/944.
+
+**11.** Au plus tard le 24 juin 2023, l’Agence adopte une recommandation aux fins de la détermination des bonnes pratiques quant au traitement à réserver aux demandes d’investissement pour des projets d’intérêt commun. Cette recommandation est mise à jour régulièrement selon les besoins, en particulier dans un souci de cohérence avec les principes relatifs aux réseaux en mer pour le partage transfrontière des coûts liés aux réseaux en mer pour des énergies renouvelables visés à l’article 15, paragraphe 1. Dans le cadre de l’adoption ou de la modification de cette recommandation, l’Agence procède à une large consultation, associant toutes les parties prenantes concernées.
+
+**12.** Le présent article s’applique mutatis mutandis aux projets d’intérêt mutuel.
+
+<a id="art_17"></a>
+
+### Article 17 — Incitations réglementaires
+
+**1.** Lorsqu’un promoteur de projets est confronté à des risques plus élevés concernant le développement, la construction, l’exploitation ou l’entretien d’un projet d’intérêt commun relevant de la compétence des autorités de régulation nationales, par rapport aux risques normalement encourus pour un projet d’infrastructure comparable, les États membres et les autorités de régulation nationales peuvent accorder des incitations appropriées à ce projet conformément à l’article 13 du règlement (CE) no 715/2009, à l’article 18, paragraphe 1, et à l’article 18, paragraphes 3 à 6, du règlement (UE) 2019/943, à l’article 41, paragraphe 8, de la directive 2009/73/CE et à l’article 58, point f), de la directive (UE) 2019/944.
+
+Le premier alinéa ne s’applique pas lorsque le projet d’intérêt commun bénéficie d’une dérogation:
+
+a) aux articles 32, 33 et 34 et à l’article 41, paragraphes 6, 8 et 10, de la directive 2009/73/CE, en vertu de l’article 36 de ladite directive;
+
+b) à l’article 19, paragraphes 2 et 3, du règlement (UE) 2019/943 ou à l’article 6, à l’article 59, paragraphe 7, et à l’article 60, paragraphe 1, de la directive (UE) 2019/944, en vertu de l’article 63 du règlement (UE) 2019/943;
+
+c) en vertu de l’article 36 de la directive 2009/73/CE;
+
+d) en vertu de l’article 17 du règlement (CE) no 714/2009.
+
+**2.** En cas de décision d’accorder les incitations visées au paragraphe 1 du présent article, les autorités de régulation nationales tiennent compte des résultats de l’analyse coûts-avantages conforme à la méthode établie en vertu de l’article 11 et, notamment, des externalités positives générées par le projet à l’échelle régionale ou à celle de l’Union. Les autorités de régulation nationales analysent de façon plus approfondie les risques spécifiques encourus par les promoteurs de projets, les mesures prises pour atténuer les risques et les motifs du profil de risque au regard de l’incidence positive nette du projet, par rapport à une autre solution moins risquée. Les risques pouvant être pris en compte sont notamment ceux liés aux nouvelles technologies pour le transport, sur terre et en mer, ceux liés à un recouvrement insuffisant des coûts, ainsi que ceux liés au développement.
+
+**3.** La décision d’accorder les incitations tient compte de la nature spécifique du risque encouru et peut accorder des incitations couvrant, notamment, l’une ou plusieurs des mesures suivantes:a) les règles relatives aux investissements réalisés par anticipation;b) les règles relatives à la reconnaissance des coûts engagés efficacement avant la mise en service du projet;c) les règles relatives à l’obtention d’un rendement supplémentaire sur le capital investi dans le projet;d) toute autre mesure jugée nécessaire et appropriée.
+
+**4.** Au plus tard le 24 janvier 2023, chaque autorité de régulation nationale communique à l’Agence sa méthode et les critères utilisés pour évaluer les investissements dans des projets d’infrastructures énergétiques et les risques plus élevés auxquels ces projets sont soumis, mis à jour en fonction des dernières évolutions de la législation, des politiques, des technologies et du marché. Cette méthode et ces critères tiennent également expressément compte des risques encourus par les réseaux en mer pour les énergies renouvelables visés à l’annexe II, point 1) f), et par les projets qui, bien qu’induisant des dépenses en capital faibles, entraînent des dépenses d’exploitation importantes.
+
+**5.** Au plus tard le 24 juin 2023, l’Agence, en tenant dûment compte des informations reçues en vertu du paragraphe 4 du présent article, facilite l’échange des bonnes pratiques et formule des recommandations conformément à l’article 6, paragraphe 2, du règlement (UE) 2019/942 en ce qui concerne les deux éléments suivants:a) les incitations visées au paragraphe 1, sur la base d’un référencement des bonnes pratiques par les autorités de régulation nationales;b) une méthode commune d’évaluation des risques plus élevés générés par des investissements réalisés dans des projets d’infrastructures énergétiques.
+
+**6.** Au plus tard le 24 septembre 2023, chaque autorité de régulation nationale publie sa méthode et les critères utilisés pour évaluer les investissements dans des projets d’infrastructures énergétiques et les risques plus élevés auxquels ils sont soumis.
+
+**7.** Lorsque les mesures visées aux paragraphes 5 et 6 ne sont pas suffisantes pour garantir la mise en œuvre en temps utile des projets d’intérêt commun, la Commission peut émettre des orientations relatives aux incitations énoncées dans le présent article.
+
+## CHAPITRE VII — Financement
+
+<a id="art_18"></a>
+
+### Article 18 — Éligibilité des projets à une aide financière de l’Union au titre du règlement (UE) 2021/1153
+
+**1.** Les projets d’intérêt commun relevant des catégories d’infrastructure énergétique prévues à l’article 24 et à l’annexe II sont éligibles à une aide financière de l’Union sous la forme de subventions pour des études et d’instruments financiers.
+
+**2.** Les projets d’intérêt commun relevant des catégories d’infrastructure énergétique prévues à l’article 24 et à l’annexe II, point 1), a), b), c), d) et f), et à l’annexe II, point 3), sont également éligibles à une aide financière de l’Union sous la forme de subventions pour des travaux lorsqu’ils répondent à tous les critères suivants:a) l’analyse coûts-avantages spécifique du projet établie en vertu de l’article 16, paragraphe 4, point a), apporte des éléments de preuve concernant l’existence d’externalités positives significatives, telles que la sécurité de l’approvisionnement, la flexibilité du système, la solidarité ou l’innovation;b) le projet a bénéficié d’une décision de répartition transfrontière des coûts en vertu de l’article 16, ou, pour les projets d’intérêt commun relevant de la catégorie d’infrastructure énergétique prévue à l’annexe II, point 3), lorsqu’ils ne relèvent pas de la compétence des autorités de régulation nationales et ne bénéficient donc pas d’une décision de répartition transfrontière des coûts, le projet vise à fournir des services transfrontières, à apporter une innovation technologique et à assurer la sécurité de l’exploitation transfrontière du réseau;c) le projet ne peut pas être financé par le marché ou par le cadre réglementaire conformément au plan d’affaires et aux autres évaluations, en particulier celles effectuées par des investisseurs, des créanciers potentiels ou l’autorité de régulation nationale, compte tenu de toute décision relative aux incitations et des motifs visés à l’article 17, paragraphe 2, lors de l’évaluation de la nécessité d’une aide financière de l’Union.
+
+**3.** Les projets d’intérêt commun réalisés conformément à la procédure visée à l’article 5, paragraphe 7, point d), sont également éligibles à une aide financière de l’Union sous la forme de subventions pour des travaux lorsqu’ils remplissent les critères énoncés au paragraphe 2 du présent article.
+
+**4.** Les projets d’intérêt commun relevant des catégories d’infrastructure énergétique prévues à l’annexe II, point 1) e), et points 2) et 5), sont également éligibles à une aide financière de l’Union sous la forme de subventions pour des travaux, lorsque les promoteurs de projets concernés peuvent, au moyen d’une évaluation réalisée par l’autorité nationale compétente ou, le cas échéant, l’autorité de régulation nationale, démontrer clairement l’existence d’externalités positives significatives générées par les projets, telles que la sécurité de l’approvisionnement, la flexibilité du système, la solidarité ou l’innovation, et fournir des preuves manifestes de leur manque de viabilité commerciale sur la base de l’analyse coûts-avantages, du plan d’affaires et des évaluations réalisés, en particulier par des investisseurs ou créanciers potentiels ou, le cas échéant, par une autorité de régulation nationale.
+
+**5.** Le présent article s’applique mutatis mutandis aux projets d’intérêt mutuel.
+
+Les projets d’intérêt mutuel sont éligibles à une aide financière de l’Union dans les conditions énoncées à l’article 5, paragraphe 2, du règlement (UE) 2021/1153. En ce qui concerne les subventions de travaux, les projets d’intérêt mutuel sont éligibles à une aide financière de l’Union pour autant qu’ils remplissent les critères énoncés au paragraphe 2 du présent article et que le projet contribue à la réalisation des objectifs généraux de l’Union en matière d’énergie et de climat.
+
+<a id="art_19"></a>
+
+### Article 19 — Orientations relatives aux critères d’attribution d’une aide financière de l’Union
+
+Les critères spécifiques énoncés à l’article 4, paragraphe 3, du présent règlement et les paramètres prévus à l’article 4, paragraphe 5, du présent règlement s’appliquent aux fins de la définition des critères d’attribution d’une aide financière de l’Union dans le règlement (UE) 2021/1153. Pour les projets d’intérêt commun relevant de l’article 24 du présent règlement, les critères d’intégration du marché, de sécurité d’approvisionnement, de concurrence et de durabilité s’appliquent.
+
+## CHAPITRE VIII — Dispositions finales
+
+<a id="art_20"></a>
+
+### Article 20 — Exercice de la délégation
+
+**1.** Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.
+
+**2.** Le pouvoir d’adopter des actes délégués visé à l’article 3, paragraphe 4, est conféré à la Commission pour une période de sept ans à compter du 23 juin 2022. La Commission élabore un rapport relatif à la délégation de pouvoir au plus tard neuf mois avant la fin de la période de sept ans. La délégation de pouvoir est tacitement prorogée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil s’oppose à cette prorogation trois mois au plus tard avant la fin de chaque période.
+
+**3.** La délégation de pouvoir visée à l’article 3, paragraphe 4, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au *Journal officiel de l’Union européenne* ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.
+
+**4.** Avant l’adoption d’un acte délégué, la Commission consulte les experts désignés par chaque État membre, conformément aux principes définis dans l’accord interinstitutionnel du 13 avril 2016«Mieux légiférer».
+
+**5.** Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.
+
+**6.** Un acte délégué adopté en vertu de l’article 3, paragraphe 4, n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de deux mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de deux mois à l’initiative du Parlement européen ou du Conseil.
+
+<a id="art_21"></a>
+
+### Article 21 — Rapports et évaluation
+
+Au plus tard le 30 juin 2027, la Commission publie un rapport sur la mise en œuvre des projets sur la liste de l’Union et le soumet au Parlement européen et au Conseil. Ce rapport fournit une évaluation des points suivants:
+
+a) les progrès réalisés en matière de planification, de développement, de construction et de mise en service des projets sur la liste de l’Union, et, le cas échéant, les retards dans la mise en œuvre et les autres difficultés rencontrées;
+
+b) les fonds engagés et versés par l’Union pour des projets sur la liste de l’Union, par rapport à la valeur totale des projets sur la liste de l’Union financés;
+
+c) les progrès réalisés en matière d’intégration des sources d’énergie renouvelables, y compris les sources marines d’énergie renouvelable et de réduction des émissions de gaz à effet de serre grâce à la planification, au développement, à la construction et à la mise en service des projets sur la liste de l’Union;
+
+d) pour les secteurs de l’électricité et des gaz renouvelables ou à faibles émissions de carbone, y compris l’hydrogène, l’évolution du degré d’interconnexion entre les États membres, l’évolution correspondante des prix de l’énergie ainsi que le nombre de défaillances du système de réseau, leurs causes et les coûts économiques correspondants;
+
+e) la procédure d’octroi des autorisations et la participation du public, en particulier: i) la durée totale moyenne et maximale de la procédure d’octroi des autorisations applicable aux projets sur la liste de l’Union, y compris la durée de chaque étape de la procédure de demande préalable, par rapport au calendrier prévu pour les grandes étapes initiales visées à l’article 10, paragraphe 6; ii) le degré d’opposition rencontré par les projets sur la liste de l’Union, notamment le nombre d’objections écrites reçues durant la procédure de consultation publique et le nombre de recours en justice; iii) les meilleures pratiques et les pratiques innovantes en ce qui concerne la participation des parties prenantes; iv) les meilleures pratiques et les pratiques innovantes en ce qui concerne l’atténuation des incidences environnementales, y compris l’adaptation au changement climatique, pendant les procédures d’octroi des autorisations et la mise en œuvre des projets; v) l’efficacité des schémas prévus à l’article 8, paragraphe 3, quant au respect des échéances fixées au titre de l’article 10, paragraphes 1 et 2.
+
+f) le traitement réglementaire, en particulier: i) le nombre de projets d’intérêt commun ayant reçu une décision de répartition transfrontière des coûts en vertu de l’article 16; ii) le nombre et le type de projets d’intérêt commun qui ont bénéficié d’incitations spécifiques en vertu de l’article 17;
+
+g) l’efficacité du présent règlement quant à sa contribution aux objectifs spécifiques de l’Union pour 2030 en matière d’énergie et de climat et à la réalisation de la neutralité climatique d’ici à 2050 au plus tard.
+
+<a id="art_22"></a>
+
+### Article 22 — Réexamen
+
+Au plus tard le 30 juin 2027, la Commission procède à un réexamen du présent règlement, sur la base des résultats des rapports et évaluations prévus à l’article 21 du présent règlement, ainsi que des rapports de suivi, d’information et d’évaluation réalisés conformément aux articles 22 et 23 du règlement (UE) 2021/1153.
+
+<a id="art_23"></a>
+
+### Article 23 — Information et publicité
+
+La Commission met en place et entretient une plateforme de transparence aisément accessible au grand public par l’intermédiaire de l’internet. La plateforme est régulièrement mise à jour à l’aide des informations provenant des rapports visés à l’article 5, paragraphe 4, et du site internet visé à l’article 9, paragraphe 7. Elle comprend les informations suivantes:
+
+a) des informations générales, à jour, y compris des informations géographiques, pour chaque projet sur la liste de l’Union;
+
+b) le plan de mise en œuvre prévu à l’article 5, paragraphe 1, pour chaque projet sur la liste de l’Union, présenté d’une manière qui permette d’évaluer l’avancement de la mise en œuvre à tout moment;
+
+c) les principaux avantages attendus et la contribution aux objectifs visés à l’article 1er, paragraphe 1, et les coûts des projets, à l’exception de toute information commercialement sensible;
+
+d) la liste de l’Union;
+
+e) les fonds alloués et versés par l’Union pour chaque projet sur la liste de l’Union;
+
+f) les liens avec le manuel de procédures national visé à l’article 9;
+
+g) les études et plans de bassin maritime existants pour chaque corridor prioritaire de réseaux en mer, sans porter atteinte à des droits de propriété intellectuelle.
+
+<a id="art_24"></a>
+
+### Article 24 — Dérogation pour les interconnexions pour Chypre et Malte
+
+**1.** Dans le cas de Chypre et de Malte, qui ne sont pas interconnectés au réseau transeuropéen de gaz, une dérogation à l’article 3, à l’article 4, paragraphe 1, points a) et b), à l’article 4, paragraphe 5, à l’article 16, paragraphe 4, point a), et aux annexes I, II et III s’applique, sans préjudice de l’article 32, paragraphe 2. Une interconnexion pour chacun de ces États membres maintient son statut de projet d’intérêt commun au titre du présent règlement, avec tous les droits et obligations pertinents, lorsque cette interconnexion:a) est en cours de développement ou de planification le 23 juin 2022;b) a obtenu le statut de projet d’intérêt commun au titre du règlement (UE) no 347/2013; etc) est nécessaire pour assurer une interconnexion permanente de ces États membres au réseau transeuropéen de gaz.
+
+Ces projets assurent à l’avenir la possibilité d’accéder à de nouveaux marchés de l’énergie, y compris l’hydrogène.
+
+**2.** Les promoteurs de projets fournissent aux groupes concernés des preuves suffisantes de la manière dont les interconnexions visées au paragraphe 1 permettront l’accès à de nouveaux marchés de l’énergie, y compris l’hydrogène, conformément aux objectifs généraux de l’Union en matière d’énergie et de climat. Ces preuves comportent notamment une évaluation de l’offre et de la demande de l’hydrogène renouvelable ou à faible teneur en carbone, ainsi qu’un calcul de la réduction des émissions de gaz à effet de serre rendue possible par le projet.
+
+La Commission vérifie régulièrement cette évaluation et ce calcul, ainsi que la mise en œuvre du projet en temps utile.
+
+**3.** Outre les critères spécifiques énoncés à l’article 19 pour l’aide financière de l’Union, les interconnexions visées au paragraphe 1 du présent article sont conçues de manière à garantir l’accès aux futurs marchés de l’énergie, y compris l’hydrogène, n’entraînent pas de prolongation de la durée de vie des actifs de gaz naturel et assurent l’interopérabilité des réseaux voisins par-delà les frontières. Toute éligibilité à une aide financière de l’Union au titre de l’article 18 prend fin le 31 décembre 2027.
+
+**4.** Toute demande d’aide financière de l’Union pour des travaux démontre clairement l’objectif de convertir l’actif en un actif dédié à l’hydrogène d’ici à 2036 si les conditions du marché le permettent, au moyen d’une feuille de route assortie d’un calendrier précis.
+
+**5.** La dérogation prévue au paragraphe 1 s’applique jusqu’à ce que Chypre ou Malte soient, respectivement, directement interconnectées au réseau transeuropéen de gaz ou jusqu’au 31 décembre 2029, la date la plus proche étant retenue.
+
+<a id="art_25"></a>
+
+### Article 25 — Modification du règlement (CE) no 715/2009
+
+À l’article 8, paragraphe 10, du règlement (CE) no 715/2009, le premier alinéa est remplacé par le texte suivant:
+
+**«10.** Le REGRT pour le gaz adopte et publie, tous les deux ans, un plan de développement du réseau dans l’ensemble de la Communauté visé au paragraphe 3, point b). Le plan de développement du réseau dans l’ensemble de la Communauté comprend une modélisation du réseau intégré, y compris les réseaux d’hydrogène, l’élaboration de scénarios, des perspectives européennes sur l’adéquation de l’approvisionnement et une évaluation de la souplesse du système.».
+
+<a id="art_26"></a>
+
+### Article 26 — Modification du règlement (UE) 2019/942
+
+À l’article 11 du règlement (UE) 2019/942, les points c) et d) sont remplacés par le texte suivant:
+
+«c) exécute les obligations énoncées à l’article 5, à l’article 11, paragraphe 3 et paragraphes 6 à 9, aux articles 12, 13 et 17 ainsi qu’à l’annexe III, section 2, point 12), du règlement (UE) 2022/869. du Parlement européen et du Conseil (6);
+
+d) prend des décisions sur des demandes d’investissement comprenant la répartition transfrontière des coûts conformément à l’article 16, paragraphe 7, du règlement (UE) 2022/869.
+
+<a id="art_27"></a>
+
+### Article 27 — Modification du règlement (UE) 2019/943
+
+À l’article 48, paragraphe 1, du règlement (UE) 2019/943, le premier alinéa est remplacé par le texte suivant:
+
+**«1.** Ce plan de développement du réseau dans l’ensemble de l’Union, visé à l’article 30, paragraphe 1, point b), comprend une modélisation du réseau intégré, y compris l’élaboration de scénarios et une évaluation de la souplesse du réseau. Les paramètres d’entrée pertinents pour la modélisation, tels que les hypothèses sur les prix des carburants et du carbone ou l’installation de systèmes d’énergies renouvelables, sont pleinement compatibles avec l’évaluation de l’adéquation des ressources à l’échelle européenne élaborée conformément à l’article 23.».
+
+<a id="art_28"></a>
+
+### Article 28 — Modification de la directive 2009/73/CE
+
+À l’article 41, paragraphe 1, de la directive 2009/73/UE, le point suivant est ajouté:
+
+«v) exécuter les obligations énoncées à l’article 3, à l’article 5, paragraphe 7, et aux articles 14 à 17 du règlement (UE) 2022/869 du Parlement européen et du Conseil (7).
+
+<a id="art_29"></a>
+
+### Article 29 — Modification de la directive (UE) 2019/944
+
+À l’article 59, paragraphe 1, de la directive (UE) 2019/944, le point suivant est ajouté:
+
+«aa) exécuter les obligations énoncées à l’article 3, à l’article 5, paragraphe 7, et aux articles 14 à 17 du règlement (UE) 2022/869 du Parlement européen et du Conseil (8);
+
+<a id="art_30"></a>
+
+### Article 30 — Dispositions transitoires
+
+Le présent règlement n’affecte en rien l’octroi, la poursuite ou la modification de l’aide financière octroyée par la Commission en vertu du règlement (UE) no 1316/2013 du Parlement européen et du Conseil (9).
+
+Le chapitre III ne s’applique pas aux projets d’intérêt commun qui sont entrés dans la procédure d’octroi des autorisations et pour lesquels un promoteur de projet a présenté un dossier de demande avant le 16 novembre 2013.
+
+<a id="art_31"></a>
+
+### Article 31 — Période transitoire
+
+**1.** Au cours d’une période transitoire qui se termine le 31 décembre 2029, les actifs dédiés à l’hydrogène convertis à partir d’actifs de gaz naturel qui relèvent de la catégorie des infrastructures énergétiques visée à l’annexe II, point 3), peuvent être utilisés pour le transport ou le stockage d’un mélange prédéfini d’hydrogène avec du gaz naturel ou du biométhane.
+
+**2.** Au cours de la période transitoire visée au paragraphe 1, les promoteurs de projets coopèrent étroitement à la conception et à la mise en œuvre des projets afin d’assurer l’interopérabilité des réseaux voisins.
+
+**3.** Le promoteur de projet apporte la preuve suffisante, y compris au moyen de contrats commerciaux, de la manière dont, au plus tard à la fin de la période transitoire, les actifs visés au paragraphe 1 du présent article cessent d’être des actifs de gaz naturel et deviennent des actifs dédiés à l’hydrogène, comme prévu à l’annexe II, point 3, et dont le recours accru à l’hydrogène sera rendu possible au cours de la période de transition. Ces preuves comportent notamment une évaluation de l’offre et de la demande de l’hydrogène renouvelable ou à faible teneur en carbone, ainsi qu’un calcul de la réduction des émissions de gaz à effet de serre rendue possible par le projet. Au titre du suivi des progrès accomplis dans la mise en œuvre des projets d’intérêt commun, l’Agence vérifie la transition en temps utile du projet vers un actif dédié à l’hydrogène, comme indiqué à l’annexe II, point 3.
+
+**4.** L’éligibilité des projets visés au paragraphe 1 du présent article à une aide financière de l’Union au titre de l’article 18 prend fin le 31 décembre 2027.
+
+**5.** Dans les annexes du présent règlement, toute référence au «REGRT pour le gaz» s’entend comme faite au «REGRT pour le gaz et au REGRH» aux fins des dispositions transitoires énoncées à l’article 61 du règlement (UE) 2024/1789. À partir du 1er janvier 2027, toute référence au «REGRT pour le gaz» s’entend comme faite au «REGRH».
+
+<a id="art_32"></a>
+
+### Article 32 — Abrogation
+
+**1.** Le règlement (UE) no 347/2013 est abrogé à partir du 23 juin 2022. Le présent règlement n’emporte aucun droit pour les projets énumérés aux annexes du règlement (UE) no 347/2013.
+
+**2.** Nonobstant le paragraphe 1 du présent article, l’annexe VII du règlement (UE) no 347/2013, telle qu’elle a été modifiée par le règlement délégué (UE) 2022/564 de la Commission (10), qui inclut la cinquième liste des projets d’intérêt commun de l’Union, ainsi que les articles 2 à 10, les articles 12, 13 et 14, et les annexes I à IV et l’annexe VI du règlement (UE) no 347/2013 demeurent en vigueur et produisent des effets en ce qui concerne les projets d’intérêt commun inscrits sur la cinquième liste de l’Union jusqu’à l’entrée en vigueur de la première liste des projets d’intérêt commun et des projets d’intérêt mutuel de l’Union établie en vertu du présent règlement.
+
+**3.** Nonobstant le paragraphe 2 du présent article, les projets inscrits sur la cinquième liste de projets d’intérêt commun de l’Union établie en vertu du règlement (UE) no 347/2013 et pour lesquels un dossier de demande a été accepté pour examen par l’autorité compétente bénéficient des droits et obligations découlant du chapitre III du présent règlement pendant une durée de quatre ans suivant la date d’entrée en vigueur du présent règlement.
+
+<a id="art_33"></a>
+
+### Article 33 — Entrée en vigueur
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0353:2017-02-15--2e04fbd6acc83d16a18d6521bd56481f74e3554c0adc39435606f0d2ba06c65d",
+  "language": "en",
+  "title": "Regulation (EU) 2017/353",
+  "valid_from": "2017-02-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0353/versions/2017-02-15--2e04fbd6acc83d16a18d6521bd56481f74e3554c0adc39435606f0d2ba06c65d/en.xml",
+    "sha256": "abade61924359679d589c9ea2e578af61cb6d9c350743dba0779ca2ed9517dcb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0353"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0353:2017-02-15--2e04fbd6acc83d16a18d6521bd56481f74e3554c0adc39435606f0d2ba06c65d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnexes A and B to Regulation (EU) 2015/848 are replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "b489789fc8a6ebb60b323ae3e6d85ca162e620272a68508ee2b2ca1a81bc1125",
+      "md_span": {
+        "start": 635,
+        "end": 755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0353:2017-02-15--2e04fbd6acc83d16a18d6521bd56481f74e3554c0adc39435606f0d2ba06c65d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 26 June 2017.",
+      "text_sha256": "f7021e85da8953b20db08f2e52b0d6522dc05637fed16cc837be03a4dedbdebe",
+      "md_span": {
+        "start": 788,
+        "end": 974
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

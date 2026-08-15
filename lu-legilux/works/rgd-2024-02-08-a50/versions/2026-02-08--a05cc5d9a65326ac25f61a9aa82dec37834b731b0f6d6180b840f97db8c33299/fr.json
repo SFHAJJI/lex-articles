@@ -1,0 +1,58 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2024-02-08-a50:2026-02-08--a05cc5d9a65326ac25f61a9aa82dec37834b731b0f6d6180b840f97db8c33299",
+  "language": "fr",
+  "title": "Version consolidée applicable au 08/02/2026 : Règlement grand-ducal du 8 février 2024 arrêtant les projets à subventionner dans le cadre du onzième programme quinquennal d’équipement de l’infrastructure touristique.",
+  "valid_from": "2026-02-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2024-02-08-a50/versions/2026-02-08--a05cc5d9a65326ac25f61a9aa82dec37834b731b0f6d6180b840f97db8c33299/fr.xml",
+    "sha256": "d5748d81af72a0962b8f38fe10a2d03e0c02b0c1c7f88cbe909b0d0a8afd2cec",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20260208/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a50:2026-02-08--a05cc5d9a65326ac25f61a9aa82dec37834b731b0f6d6180b840f97db8c33299#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/art_1er/20260208",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-02-08",
+      "text_md": "Le ministre ayant le Tourisme dans ses attributions est autorisé à subventionner les projets énumérés ci-après :\n\n1. la transformation intérieure du bâtiment du Musée européen à Schengen et la réalisation d’une nouvelle scénographie dans le musée et sur l’ancien bateau MS Princesse Marie-Astrid 2.\n2. la construction par l’Asbl CIGR Mëllerdall, d’un bâtiment pour les besoins du service de location de vélos « Rentabike Mëllerdall » à Beaufort ;\n3. l’aménagement, par la commune de Weiswampach, de l’entrée principale du lac de baignade de Weiswampach.\n4. la construction, par la commune de Beaufort, d’un nouveau centre d’accueil pour les besoins du Natur- & Geopark Mëllerdall à Beaufort ;\n5. le réaménagement, par la Ville de Remich, de la place Dr F. Kons à Remich ;\n6. la modernisation, par la Ville de Vianden, de la piscine plein air de Vianden (phases II et III).",
+      "text_sha256": "2042fe2c57357ab3650e1d8436bca8488a5225af8a31b1da05260a194cae8c22",
+      "md_span": {
+        "start": 772,
+        "end": 1644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a50:2026-02-08--a05cc5d9a65326ac25f61a9aa82dec37834b731b0f6d6180b840f97db8c33299#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/art_2/20240216",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-02-16",
+      "text_md": "Le ministre ayant le Tourisme dans ses attributions et le ministre ayant les Finances dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "dd4b6a7af78ceded67eced3d0f04a41c1992809eadbeb4d59e3831e0403e63c7",
+      "md_span": {
+        "start": 1679,
+        "end": 1932
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0634:2018-04-24--9afd65fe9570dd0da01f8780db99f3836c07b326d4db066f87577475b5988847",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2018/634 of 24 April 2018 amending Implementing Regulation (EU) 2016/1799 as regards the mapping tables specifying the correspondence between the credit risk assessments of external credit assessment institutions and the credit quality steps set out in Regulation (EU) No 575/2013",
+  "valid_from": "2018-04-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0634/versions/2018-04-24--9afd65fe9570dd0da01f8780db99f3836c07b326d4db066f87577475b5988847/fr.xml",
+    "sha256": "0c0d797c1e2a1d16c7524bc16905a4fed43a9f42a5f29f90df00aca13815b0dd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0634"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0634:2018-04-24--9afd65fe9570dd0da01f8780db99f3836c07b326d4db066f87577475b5988847#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'annexe III du règlement d'exécution (UE) 2016/1799 est remplacée par le texte figurant à l'annexe du présent règlement.",
+      "text_sha256": "3e58e7680b6d61c95af07dd6117e82daeca9fb14a3bf070f2c0f37aaa965e488",
+      "md_span": {
+        "start": 931,
+        "end": 1069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0634:2018-04-24--9afd65fe9570dd0da01f8780db99f3836c07b326d4db066f87577475b5988847#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 1102,
+        "end": 1243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

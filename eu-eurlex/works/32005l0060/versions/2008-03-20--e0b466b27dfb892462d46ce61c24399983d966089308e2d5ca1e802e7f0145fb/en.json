@@ -1,0 +1,1165 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb",
+  "language": "en",
+  "title": "Directive 2005/60/EC",
+  "valid_from": "2008-03-20",
+  "valid_to": "2009-10-29",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0060/versions/2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb/en.html",
+    "sha256": "c666b5178d7d3e6efa800d5aa4cfebe148817af8958e4dcf322a1cdb05710da8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005L0060-20080320"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [
+        "CHAPTER I",
+        "SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that money laundering and terrorist financing are prohibited.\n\n2. For the purposes of this Directive, the following conduct, when committed intentionally, shall be regarded as money laundering:\n\n(a) the conversion or transfer of property, knowing that such property is derived from criminal activity or from an act of participation in such activity, for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of such activity to evade the legal consequences of his action;\n\n(b) the concealment or disguise of the true nature, source, location, disposition, movement, rights with respect to, or ownership of property, knowing that such property is derived from criminal activity or from an act of participation in such activity;\n\n(c) the acquisition, possession or use of property, knowing, at the time of receipt, that such property was derived from criminal activity or from an act of participation in such activity;\n\n(d) participation in, association to commit, attempts to commit and aiding, abetting, facilitating and counselling the commission of any of the actions mentioned in the foregoing points.\n\n3. Money laundering shall be regarded as such even where the activities which generated the property to be laundered were carried out in the territory of another Member State or in that of a third country.\n\n4. For the purposes of this Directive, ‘terrorist financing’ means the provision or collection of funds, by any means, directly or indirectly, with the intention that they should be used or in the knowledge that they are to be used, in full or in part, in order to carry out any of the offences within the meaning of Articles 1 to 4 of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism (9).\n\n5. Knowledge, intent or purpose required as an element of the activities mentioned in paragraphs 2 and 4 may be inferred from objective factual circumstances.",
+      "text_sha256": "72944b0717c45fd485187248382569deeef495b814dfceda06f41112cc09f83d",
+      "md_span": {
+        "start": 707,
+        "end": 2711
+      },
+      "citations": [
+        {
+          "href": "#E0009",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [
+        "CHAPTER I",
+        "SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. This Directive shall apply to:\n\n(1) credit institutions;\n\n(2) financial institutions;\n\n(3) the following legal or natural persons acting in the exercise of their professional activities:\n\n(a) auditors, external accountants and tax advisors;\n\n(b) notaries and other independent legal professionals, when they participate, whether by acting on behalf of and for their client in any financial or real estate transaction, or by assisting in the planning or execution of transactions for their client concerning the:\n\n(i) buying and selling of real property or business entities;\n\n(ii) managing of client money, securities or other assets;\n\n(iii) opening or management of bank, savings or securities accounts;\n\n(iv) organisation of contributions necessary for the creation, operation or management of companies;\n\n(v) creation, operation or management of trusts, companies or similar structures;\n\n(c) trust or company service providers not already covered under points (a) or (b);\n\n(d) real estate agents;\n\n(e) other natural or legal persons trading in goods, only to the extent that payments are made in cash in an amount of EUR 15 000 or more, whether the transaction is executed in a single operation or in several operations which appear to be linked;\n\n(f) casinos.\n\n2. Member States may decide that legal and natural persons who engage in a financial activity on an occasional or very limited basis and where there is little risk of money laundering or terrorist financing occurring do not fall within the scope of Article 3(1) or (2).",
+      "text_sha256": "d49cf8333b033ef2e92dcf8cc1bbcc82192221d7fdcafaac98041e561c1520f7",
+      "md_span": {
+        "start": 2748,
+        "end": 4285
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [
+        "CHAPTER I",
+        "SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive the following definitions shall apply:\n\n(1) ‘credit institution’ means a credit institution, as defined in the first subparagraph of Article 1(1) of Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions (10), including branches within the meaning of Article 1(3) of that Directive located in the Community of credit institutions having their head offices inside or outside the Community;\n\n(2) ‘financial institution’ means:\n\n(a) an undertaking other than a credit institution which carries out one or more of the activities listed in points 2 to 12 and 14 of Annex I to Directive 2006/48/EC, including the activities of currency exchange offices (bureaux de change);\n\n(b) an insurance company duly authorised in accordance with Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance (11), insofar as it carries out activities covered by that Directive;\n\n(c) an investment firm as defined in point 1 of Article 4(1) of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (12);\n\n(d) a collective investment undertaking marketing its units or shares;\n\n(e) an insurance intermediary as defined in Article 2(5) of Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation (13), with the exception of intermediaries as mentioned in Article 2(7) of that Directive, when they act in respect of life insurance and other investment related services;\n\n(f) branches, when located in the Community, of financial institutions as referred to in points (a) to (e), whose head offices are inside or outside the Community;\n\n(3) ‘property’ means assets of every kind, whether corporeal or incorporeal, movable or immovable, tangible or intangible, and legal documents or instruments in any form including electronic or digital, evidencing title to or an interest in such assets;\n\n(4) ‘criminal activity’ means any kind of criminal involvement in the commission of a serious crime;\n\n(5) ‘serious crimes’ means, at least:\n\n(a) acts as defined in Articles 1 to 4 of Framework Decision 2002/475/JHA;\n\n(b) any of the offences defined in Article 3(1)(a) of the 1988 United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances;\n\n(c) the activities of criminal organisations as defined in Article 1 of Council Joint Action 98/733/JHA of 21 December 1998 on making it a criminal offence to participate in a criminal organisation in the Member States of the European Union (14);\n\n(d) fraud, at least serious, as defined in Article 1(1) and Article 2 of the Convention on the Protection of the European Communities' Financial Interests (15);\n\n(e) corruption;\n\n(f) all offences which are punishable by deprivation of liberty or a detention order for a maximum of more than one year or, as regards those States which have a minimum threshold for offences in their legal system, all offences punishable by deprivation of liberty or a detention order for a minimum of more than six months;\n\n(6) ‘beneficial owner’ means the natural person(s) who ultimately owns or controls the customer and/or the natural person on whose behalf a transaction or activity is being conducted. The beneficial owner shall at least include:\n\n(a) in the case of corporate entities:\n\n(i) the natural person(s) who ultimately owns or controls a legal entity through direct or indirect ownership or control over a sufficient percentage of the shares or voting rights in that legal entity, including through bearer share holdings, other than a company listed on a regulated market that is subject to disclosure requirements consistent with Community legislation or subject to equivalent international standards; a percentage of 25 % plus one share shall be deemed sufficient to meet this criterion;\n\n(ii) the natural person(s) who otherwise exercises control over the management of a legal entity:\n\n(b) in the case of legal entities, such as foundations, and legal arrangements, such as trusts, which administer and distribute funds:\n\n(i) where the future beneficiaries have already been determined, the natural person(s) who is the beneficiary of 25 % or more of the property of a legal arrangement or entity;\n\n(ii) where the individuals that benefit from the legal arrangement or entity have yet to be determined, the class of persons in whose main interest the legal arrangement or entity is set up or operates;\n\n(iii) the natural person(s) who exercises control over 25 % or more of the property of a legal arrangement or entity;\n\n(7) ‘trust and company service providers’ means any natural or legal person which by way of business provides any of the following services to third parties:\n\n(a) forming companies or other legal persons;\n\n(b) acting as or arranging for another person to act as a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;\n\n(c) providing a registered office, business address, correspondence or administrative address and other related services for a company, a partnership or any other legal person or arrangement;\n\n(d) acting as or arranging for another person to act as a trustee of an express trust or a similar legal arrangement;\n\n(e) acting as or arranging for another person to act as a nominee shareholder for another person other than a company listed on a regulated market that is subject to disclosure requirements in conformity with Community legislation or subject to equivalent international standards;\n\n(8) ‘politically exposed persons’ means natural persons who are or have been entrusted with prominent public functions and immediate family members, or persons known to be close associates, of such persons;\n\n(9) ‘business relationship’ means a business, professional or commercial relationship which is connected with the professional activities of the institutions and persons covered by this Directive and which is expected, at the time when the contact is established, to have an element of duration;\n\n(10) ‘shell bank’ means a credit institution, or an institution engaged in equivalent activities, incorporated in a jurisdiction in which it has no physical presence, involving meaningful mind and management, and which is unaffiliated with a regulated financial group.",
+      "text_sha256": "e87ceca438acaf8a3248f045ab58de4c49ffc93f77f7e1b463de40adeef2ea02",
+      "md_span": {
+        "start": 4322,
+        "end": 10805
+      },
+      "citations": [
+        {
+          "href": "#E0010",
+          "text": "10"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32007L0064",
+          "text": "32007L0064: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005L0060",
+          "text": "32005L0060"
+        },
+        {
+          "href": "#E0011",
+          "text": "11"
+        },
+        {
+          "href": "#E0012",
+          "text": "12"
+        },
+        {
+          "href": "#E0013",
+          "text": "13"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        },
+        {
+          "href": "#E0015",
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [
+        "CHAPTER I",
+        "SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that the provisions of this Directive are extended in whole or in part to professions and to categories of undertakings, other than the institutions and persons referred to in Article 2(1), which engage in activities which are particularly likely to be used for money laundering or terrorist financing purposes.\n\n2. Where a Member State decides to extend the provisions of this Directive to professions and to categories of undertakings other than those referred to in Article 2(1), it shall inform the Commission thereof.",
+      "text_sha256": "39ace13e8d839c67a5a55407677f0906e49e6cc7fcac398d90af3a6b10545259",
+      "md_span": {
+        "start": 10842,
+        "end": 11394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [
+        "CHAPTER I",
+        "SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Member States may adopt or retain in force stricter provisions in the field covered by this Directive to prevent money laundering and terrorist financing.",
+      "text_sha256": "46c57e22a542bc33921ed1143b581ac342a7b3b4ac69a5eb220beb2549352492",
+      "md_span": {
+        "start": 11431,
+        "end": 11589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall prohibit their credit and financial institutions from keeping anonymous accounts or anonymous passbooks. By way of derogation from Article 9(6), Member States shall in all cases require that the owners and beneficiaries of existing anonymous accounts or anonymous passbooks be made the subject of customer due diligence measures as soon as possible and in any event before such accounts or passbooks are used in any way.",
+      "text_sha256": "25d2e107d3c76bcf860132eb6161daf847dc84edc276542cc2a1a99b585d44c2",
+      "md_span": {
+        "start": 11664,
+        "end": 12104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "The institutions and persons covered by this Directive shall apply customer due diligence measures in the following cases:\n\n(a) when establishing a business relationship;\n\n(b) when carrying out occasional transactions amounting to EUR 15 000 or more, whether the transaction is carried out in a single operation or in several operations which appear to be linked;\n\n(c) when there is a suspicion of money laundering or terrorist financing, regardless of any derogation, exemption or threshold;\n\n(d) when there are doubts about the veracity or adequacy of previously obtained customer identification data.",
+      "text_sha256": "1ee99726d89083d1e4df68d9c7c80fbdb1138436e3188aa88977ada7f2b905bf",
+      "md_span": {
+        "start": 12141,
+        "end": 12744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Customer due diligence measures shall comprise:\n\n(a) identifying the customer and verifying the customer's identity on the basis of documents, data or information obtained from a reliable and independent source;\n\n(b) identifying, where applicable, the beneficial owner and taking risk-based and adequate measures to verify his identity so that the institution or person covered by this Directive is satisfied that it knows who the beneficial owner is, including, as regards legal persons, trusts and similar legal arrangements, taking risk-based and adequate measures to understand the ownership and control structure of the customer;\n\n(c) obtaining information on the purpose and intended nature of the business relationship;\n\n(d) conducting ongoing monitoring of the business relationship including scrutiny of transactions undertaken throughout the course of that relationship to ensure that the transactions being conducted are consistent with the institution's or person's knowledge of the customer, the business and risk profile, including, where necessary, the source of funds and ensuring that the documents, data or information held are kept up-to-date.\n\n2. The institutions and persons covered by this Directive shall apply each of the customer due diligence requirements set out in paragraph 1, but may determine the extent of such measures on a risk-sensitive basis depending on the type of customer, business relationship, product or transaction. The institutions and persons covered by this Directive shall be able to demonstrate to the competent authorities mentioned in Article 37, including self-regulatory bodies, that the extent of the measures is appropriate in view of the risks of money laundering and terrorist financing.",
+      "text_sha256": "752f8f1b531b31fdc07494395ef7e700aca7de6b59210ee1475e8290e3636bcc",
+      "md_span": {
+        "start": 12781,
+        "end": 14528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require that the verification of the identity of the customer and the beneficial owner takes place before the establishment of a business relationship or the carrying-out of the transaction.\n\n2. By way of derogation from paragraph 1, Member States may allow the verification of the identity of the customer and the beneficial owner to be completed during the establishment of a business relationship if this is necessary not to interrupt the normal conduct of business and where there is little risk of money laundering or terrorist financing occurring. In such situations these procedures shall be completed as soon as practicable after the initial contact.\n\n3. By way of derogation from paragraphs 1 and 2, Member States may, in relation to life insurance business, allow the verification of the identity of the beneficiary under the policy to take place after the business relationship has been established. In that case, verification shall take place at or before the time of payout or at or before the time the beneficiary intends to exercise rights vested under the policy.\n\n4. By way of derogation from paragraphs 1 and 2, Member States may allow the opening of a bank account provided that there are adequate safeguards in place to ensure that transactions are not carried out by the customer or on its behalf until full compliance with the aforementioned provisions is obtained.\n\n5. Member States shall require that, where the institution or person concerned is unable to comply with points (a), (b) and (c) of Article 8(1), it may not carry out a transaction through a bank account, establish a business relationship or carry out the transaction, or shall terminate the business relationship, and shall consider making a report to the financial intelligence unit (FIU) in accordance with Article 22 in relation to the customer.\n\nMember States shall not be obliged to apply the previous subparagraph in situations when notaries, independent legal professionals, auditors, external accountants and tax advisors are in the course of ascertaining the legal position for their client or performing their task of defending or representing that client in, or concerning judicial proceedings, including advice on instituting or avoiding proceedings.\n\n6. Member States shall require that institutions and persons covered by this Directive apply the customer due diligence procedures not only to all new customers but also at appropriate times to existing customers on a risk-sensitive basis.",
+      "text_sha256": "9b5999fff3aec4a75457e786d2ba8d52b58e1298406daa6b51a49f62af45dcc1",
+      "md_span": {
+        "start": 14565,
+        "end": 17080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require that all casino customers be identified and their identity verified if they purchase or exchange gambling chips with a value of EUR 2 000 or more.\n\n2. Casinos subject to State supervision shall be deemed in any event to have satisfied the customer due diligence requirements if they register, identify and verify the identity of their customers immediately on or before entry, regardless of the amount of gambling chips purchased.",
+      "text_sha256": "ce0cb66e71cd91eb24256bf0360cccf99407fba1812dad1377085cd4f2301b2d",
+      "md_span": {
+        "start": 17119,
+        "end": 17580
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Simplified customer due diligence"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. By way of derogation from Articles 7(a), (b) and (d), 8 and 9(1), the institutions and persons covered by this Directive shall not be subject to the requirements provided for in those Articles where the customer is a credit or financial institution covered by this Directive, or a credit or financial institution situated in a third country which imposes requirements equivalent to those laid down in this Directive and supervised for compliance with those requirements.\n\n2. By way of derogation from Articles 7(a), (b) and (d), 8 and 9(1) Member States may allow the institutions and persons covered by this Directive not to apply customer due diligence in respect of:\n\n(a) listed companies whose securities are admitted to trading on a regulated market within the meaning of Directive 2004/39/EC in one or more Member States and listed companies from third countries which are subject to disclosure requirements consistent with Community legislation;\n\n(b) beneficial owners of pooled accounts held by notaries and other independent legal professionals from the Member States, or from third countries provided that they are subject to requirements to combat money laundering or terrorist financing consistent with international standards and are supervised for compliance with those requirements and provided that the information on the identity of the beneficial owner is available, on request, to the institutions that act as depository institutions for the pooled accounts;\n\n(c) domestic public authorities,\n\nor in respect of any other customer representing a low risk of money laundering or terrorist financing which meets the technical criteria established in accordance with Article 40(1)(b).\n\n3. In the cases mentioned in paragraphs 1 and 2, institutions and persons covered by this Directive shall in any case gather sufficient information to establish if the customer qualifies for an exemption as mentioned in these paragraphs.\n\n4. The Member States shall inform each other and the Commission of cases where they consider that a third country meets the conditions laid down in paragraphs 1 or 2 or in other situations which meet the technical criteria established in accordance with Article 40(1)(b).\n\n5. By way of derogation from Articles 7(a), (b) and (d), 8 and 9(1), Member States may allow the institutions and persons covered by this Directive not to apply customer due diligence in respect of:\n\n(a) life insurance policies where the annual premium is no more than EUR 1 000 or the single premium is no more than EUR 2 500;\n\n(b) insurance policies for pension schemes if there is no surrender clause and the policy cannot be used as collateral;\n\n(c) a pension, superannuation or similar scheme that provides retirement benefits to employees, where contributions are made by way of deduction from wages and the scheme rules do not permit the assignment of a member's interest under the scheme;\n\n(d) electronic money, as defined in Article 1(3)(b) of Directive 2000/46/EC of the European Parliament and of the Council of 18 September 2000 on the taking up, pursuit of and prudential supervision of the business of electronic money institutions (16), where, if the device cannot be recharged, the maximum amount stored in the device is no more than EUR 150, or where, if the device can be recharged, a limit of EUR 2 500 is imposed on the total amount transacted in a calendar year, except when an amount of EUR 1 000 or more is redeemed in that same calendar year by the bearer as referred to in Article 3 of Directive 2000/46/EC,\n\nor in respect of any other product or transaction representing a low risk of money laundering or terrorist financing which meets the technical criteria established in accordance with Article 40(1)(b).",
+      "text_sha256": "741108985e3bf834e9d0f3f3f24909282189813bc4ec7a6404fff14407d27b11",
+      "md_span": {
+        "start": 17672,
+        "end": 21422
+      },
+      "citations": [
+        {
+          "href": "#E0016",
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Simplified customer due diligence"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where the Commission adopts a decision pursuant to Article 40(4), the Member States shall prohibit the institutions and persons covered by this Directive from applying simplified due diligence to credit and financial institutions or listed companies from the third country concerned or other entities following from situations which meet the technical criteria established in accordance with Article 40(1)(b).",
+      "text_sha256": "e1c249bd0115ed51962473b69b66dd921bac60629f441e1400b9049a748202d6",
+      "md_span": {
+        "start": 21461,
+        "end": 21870
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": null,
+      "path": [
+        "SECTION 3",
+        "Enhanced customer due diligence"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require the institutions and persons covered by this Directive to apply, on a risk-sensitive basis, enhanced customer due diligence measures, in addition to the measures referred to in Articles 7, 8 and 9(6), in situations which by their nature can present a higher risk of money laundering or terrorist financing, and at least in the situations set out in paragraphs 2, 3, 4 and in other situations representing a high risk of money laundering or terrorist financing which meet the technical criteria established in accordance with Article 40(1)(c).\n\n2. Where the customer has not been physically present for identification purposes, Member States shall require those institutions and persons to take specific and adequate measures to compensate for the higher risk, for example by applying one or more of the following measures:\n\n(a) ensuring that the customer's identity is established by additional documents, data or information;\n\n(b) supplementary measures to verify or certify the documents supplied, or requiring confirmatory certification by a credit or financial institution covered by this Directive;\n\n(c) ensuring that the first payment of the operations is carried out through an account opened in the customer's name with a credit institution.\n\n3. In respect of cross-frontier correspondent banking relationships with respondent institutions from third countries, Member States shall require their credit institutions to:\n\n(a) gather sufficient information about a respondent institution to understand fully the nature of the respondent's business and to determine from publicly available information the reputation of the institution and the quality of supervision;\n\n(b) assess the respondent institution's anti-money laundering and anti-terrorist financing controls;\n\n(c) obtain approval from senior management before establishing new correspondent banking relationships;\n\n(d) document the respective responsibilities of each institution;\n\n(e) with respect to payable-through accounts, be satisfied that the respondent credit institution has verified the identity of and performed ongoing due diligence on the customers having direct access to accounts of the correspondent and that it is able to provide relevant customer due diligence data to the correspondent institution, upon request.\n\n4. In respect of transactions or business relationships with politically exposed persons residing in another Member State or in a third country, Member States shall require those institutions and persons covered by this Directive to:\n\n(a) have appropriate risk-based procedures to determine whether the customer is a politically exposed person;\n\n(b) have senior management approval for establishing business relationships with such customers;\n\n(c) take adequate measures to establish the source of wealth and source of funds that are involved in the business relationship or transaction;\n\n(d) conduct enhanced ongoing monitoring of the business relationship.\n\n5. Member States shall prohibit credit institutions from entering into or continuing a correspondent banking relationship with a shell bank and shall require that credit institutions take appropriate measures to ensure that they do not engage in or continue correspondent banking relationships with a bank that is known to permit its accounts to be used by a shell bank.\n\n6. Member States shall ensure that the institutions and persons covered by this Directive pay special attention to any money laundering or terrorist financing threat that may arise from products or transactions that might favour anonymity, and take measures, if needed, to prevent their use for money laundering or terrorist financing purposes.",
+      "text_sha256": "239d00c8e03e00b1b180477790ecd2cbf223c7253f61ca217a155c36f88d37ce",
+      "md_span": {
+        "start": 21960,
+        "end": 25666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States may permit the institutions and persons covered by this Directive to rely on third parties to meet the requirements laid down in Article 8(1)(a) to (c). However, the ultimate responsibility for meeting those requirements shall remain with the institution or person covered by this Directive which relies on the third party.",
+      "text_sha256": "2f508b6cbec718021ddd78070be7a08f22bdbb2d8cd417afd0fe4356a52e5a8b",
+      "md_span": {
+        "start": 25753,
+        "end": 26090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Where a Member State permits credit and financial institutions referred to in Article 2(1)(1) or (2) situated in its territory to be relied on as a third party domestically, that Member State shall in any case permit institutions and persons referred to in Article 2(1) situated in its territory to recognise and accept, in accordance with Article 14, the outcome of the customer due diligence requirements laid down in Article 8(1)(a) to (c), carried out in accordance with this Directive by an institution referred to in Article 2(1)(1) or (2) in another Member State, with the exception of currency exchange offices and payment institutions as defined in Article 4(4) of Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market (17), which mainly provide the payment service listed in point 6 of the Annex to that Directive, including natural and legal persons benefiting from a waiver under Article 26 of that Directive, and meeting the requirements laid down in Articles 16 and 18 of this Directive, even if the documents or data on which these requirements have been based are different to those required in the Member State to which the customer is being referred.\n\n2. Where a Member State permits currency exchange offices referred to in Article 3(2)(a) and payment institutions as defined in Article 4(4) of Directive 2007/64/EC, which mainly provide the payment service listed in point 6 of the Annex to that Directive, situated in its territory to be relied on as a third party domestically, that Member State shall in any case permit them to recognise and accept, in accordance with Article 14 of this Directive, the outcome of the customer due diligence requirements laid down in Article 8(1)(a) to (c), carried out in accordance with this Directive by the same category of institution in another Member State and meeting the requirements laid down in Articles 16 and 18 of this Directive, even if the documents or data on which these requirements have been based are different to those required in the Member State to which the customer is being referred.\n\n3. Where a Member State permits persons referred to in Article 2(1)(3)(a) to (c) situated in its territory to be relied on as a third party domestically, that Member State shall in any case permit them to recognise and accept, in accordance with Article 14, the outcome of the customer due diligence requirements laid down in Article 8(1)(a) to (c), carried out in accordance with this Directive by a person referred to in Article 2(1)(3)(a) to (c) in another Member State and meeting the requirements laid down in Articles 16 and 18, even if the documents or data on which these requirements have been based are different to those required in the Member State to which the customer is being referred.",
+      "text_sha256": "e45cc7a00ebe9d3cc6335951a7977ca00720c0956dcc6253fc702a1b6e2e5b90",
+      "md_span": {
+        "start": 26129,
+        "end": 28977
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32007L0064",
+          "text": "32007L0064: REPLACED"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005L0060",
+          "text": "32005L0060"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. For the purposes of this Section, ‘third parties’ shall mean institutions and persons who are listed in Article 2, or equivalent institutions and persons situated in a third country, who meet the following requirements:\n\n(a) they are subject to mandatory professional registration, recognised by law;\n\n(b) they apply customer due diligence requirements and record keeping requirements as laid down or equivalent to those laid down in this Directive and their compliance with the requirements of this Directive is supervised in accordance with Section 2 of Chapter V, or they are situated in a third country which imposes equivalent requirements to those laid down in this Directive.\n\n2. Member States shall inform each other and the Commission of cases where they consider that a third country meets the conditions laid down in paragraph 1(b).",
+      "text_sha256": "0d4e19cfa8eedf3961eb7c83b795d6a24d5d1cce2cd587e12be9207e633977d3",
+      "md_span": {
+        "start": 29016,
+        "end": 29862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where the Commission adopts a decision pursuant to Article 40(4), Member States shall prohibit the institutions and persons covered by this Directive from relying on third parties from the third country concerned to meet the requirements laid down in Article 8(1)(a) to (c).",
+      "text_sha256": "de83532b516362b53900a7913dc37a75bb3d42cc9e76c9a8a0c8d6899713dc53",
+      "md_span": {
+        "start": 29901,
+        "end": 30175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Third parties shall make information requested in accordance with the requirements laid down in Article 8(1)(a) to (c) immediately available to the institution or person covered by this Directive to which the customer is being referred.\n\n2. Relevant copies of identification and verification data and other relevant documentation on the identity of the customer or the beneficial owner shall immediately be forwarded, on request, by the third party to the institution or person covered by this Directive to which the customer is being referred.",
+      "text_sha256": "2d0feeefdd47cbd7cd770d045ba1a31af66877ecc67cbd7c5584763f2d583ecd",
+      "md_span": {
+        "start": 30214,
+        "end": 30761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Performance by third parties"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Section shall not apply to outsourcing or agency relationships where, on the basis of a contractual arrangement, the outsourcing service provider or agent is to be regarded as part of the institution or person covered by this Directive.",
+      "text_sha256": "4e546e4adf04cafeb39936a65fb476e367d5aed0c57195d6ac8a8fb6272fee31",
+      "md_span": {
+        "start": 30800,
+        "end": 31041
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall require that the institutions and persons covered by this Directive pay special attention to any activity which they regard as particularly likely, by its nature, to be related to money laundering or terrorist financing and in particular complex or unusually large transactions and all unusual patterns of transactions which have no apparent economic or visible lawful purpose.",
+      "text_sha256": "bfe80447048f8d793280addb25b3f46f641568d8606fc5cf344ed00d360045f3",
+      "md_span": {
+        "start": 31118,
+        "end": 31515
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Each Member State shall establish a FIU in order effectively to combat money laundering and terrorist financing.\n\n2. That FIU shall be established as a central national unit. It shall be responsible for receiving (and to the extent permitted, requesting), analysing and disseminating to the competent authorities, disclosures of information which concern potential money laundering, potential terrorist financing or are required by national legislation or regulation. It shall be provided with adequate resources in order to fulfil its tasks.\n\n3. Member States shall ensure that the FIU has access, directly or indirectly, on a timely basis, to the financial, administrative and law enforcement information that it requires to properly fulfil its tasks.",
+      "text_sha256": "a43f9377874e83cc8447b3775ce34e6f31ed1b2b176f26d731e428978baaf161",
+      "md_span": {
+        "start": 31554,
+        "end": 32310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require the institutions and persons covered by this Directive, and where applicable their directors and employees, to cooperate fully:\n\n(a) by promptly informing the FIU, on their own initiative, where the institution or person covered by this Directive knows, suspects or has reasonable grounds to suspect that money laundering or terrorist financing is being or has been committed or attempted;\n\n(b) by promptly furnishing the FIU, at its request, with all necessary information, in accordance with the procedures established by the applicable legislation.\n\n2. The information referred to in paragraph 1 shall be forwarded to the FIU of the Member State in whose territory the institution or person forwarding the information is situated. The person or persons designated in accordance with the procedures provided for in Article 34 shall normally forward the information.",
+      "text_sha256": "87ebe770f39c56fc91d34f93854692b1cc4843854d8e0880f99db58bfd580756",
+      "md_span": {
+        "start": 32349,
+        "end": 33247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. By way of derogation from Article 22(1), Member States may, in the case of the persons referred to in Article 2(1)(3)(a) and (b), designate an appropriate self-regulatory body of the profession concerned as the authority to be informed in the first instance in place of the FIU. Without prejudice to paragraph 2, the designated self-regulatory body shall in such cases forward the information to the FIU promptly and unfiltered.\n\n2. Member States shall not be obliged to apply the obligations laid down in Article 22(1) to notaries, independent legal professionals, auditors, external accountants and tax advisors with regard to information they receive from or obtain on one of their clients, in the course of ascertaining the legal position for their client or performing their task of defending or representing that client in, or concerning judicial proceedings, including advice on instituting or avoiding proceedings, whether such information is received or obtained before, during or after such proceedings.",
+      "text_sha256": "3c12d2da428d8aed70a77573aa9e18d09353670fdff9ae69b5f70e382e7c4d01",
+      "md_span": {
+        "start": 33286,
+        "end": 34302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require the institutions and persons covered by this Directive to refrain from carrying out transactions which they know or suspect to be related to money laundering or terrorist financing until they have completed the necessary action in accordance with Article 22(1)(a). In conformity with the legislation of the Member States, instructions may be given not to carry out the transaction.\n\n2. Where such a transaction is suspected of giving rise to money laundering or terrorist financing and where to refrain in such manner is impossible or is likely to frustrate efforts to pursue the beneficiaries of a suspected money laundering or terrorist financing operation, the institutions and persons concerned shall inform the FIU immediately afterwards.",
+      "text_sha256": "575802266e105cd3da30a2a46c789e5a257a0966443b5208217ceef6beeb415c",
+      "md_span": {
+        "start": 34341,
+        "end": 35115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that if, in the course of inspections carried out in the institutions and persons covered by this Directive by the competent authorities referred to in Article 37, or in any other way, those authorities discover facts that could be related to money laundering or terrorist financing, they shall promptly inform the FIU.\n\n2. Member States shall ensure that supervisory bodies empowered by law or regulation to oversee the stock, foreign exchange and financial derivatives markets inform the FIU if they discover facts that could be related to money laundering or terrorist financing.",
+      "text_sha256": "c9771477a61a18c2b6cb11f67cceaa78898d94c0abed6fe89f7106f67182fdf2",
+      "md_span": {
+        "start": 35154,
+        "end": 35766
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "The disclosure in good faith as foreseen in Articles 22(1) and 23 by an institution or person covered by this Directive or by an employee or director of such an institution or person of the information referred to in Articles 22 and 23 shall not constitute a breach of any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision, and shall not involve the institution or person or its directors or employees in liability of any kind.",
+      "text_sha256": "8721d01a65f66a994352d7a965d14d3d54fe39f7b30fa082690ed7140483d5a9",
+      "md_span": {
+        "start": 35805,
+        "end": 36305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "General provisions"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall take all appropriate measures in order to protect employees of the institutions or persons covered by this Directive who report suspicions of money laundering or terrorist financing either internally or to the FIU from being exposed to threats or hostile action.",
+      "text_sha256": "e010f3b8789f55b6e982379fd45f129a6ec1288d97bafd9a99df7ad7a96b6db7",
+      "md_span": {
+        "start": 36344,
+        "end": 36626
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Prohibition of disclosure"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The institutions and persons covered by this Directive and their directors and employees shall not disclose to the customer concerned or to other third persons the fact that information has been transmitted in accordance with Articles 22 and 23 or that a money laundering or terrorist financing investigation is being or may be carried out.\n\n2. The prohibition laid down in paragraph 1 shall not include disclosure to the competent authorities referred to in Article 37, including the self-regulatory bodies, or disclosure for law enforcement purposes.\n\n3. The prohibition laid down in paragraph 1 shall not prevent disclosure between institutions from Member States, or from third countries provided that they meet the conditions laid down in Article 11(1), belonging to the same group as defined by Article 2(12) of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (18).\n\n4. The prohibition laid down in paragraph 1 shall not prevent disclosure between persons referred to in Article 2(1)(3)(a) and (b) from Member States, or from third countries which impose requirements equivalent to those laid down in this Directive, who perform their professional activities, whether as employees or not, within the same legal person or a network. For the purposes of this Article, a ‘network’ means the larger structure to which the person belongs and which shares common ownership, management or compliance control.\n\n5. For institutions or persons referred to in Article 2(1)(1), (2) and (3)(a) and (b) in cases related to the same customer and the same transaction involving two or more institutions or persons, the prohibition laid down in paragraph 1 shall not prevent disclosure between the relevant institutions or persons provided that they are situated in a Member State, or in a third country which imposes requirements equivalent to those laid down in this Directive, and that they are from the same professional category and are subject to equivalent obligations as regards professional secrecy and personal data protection. The information exchanged shall be used exclusively for the purposes of the prevention of money laundering and terrorist financing.\n\n6. Where the persons referred to in Article 2(1)(3)(a) and (b) seek to dissuade a client from engaging in illegal activity, this shall not constitute a disclosure within the meaning of the paragraph 1.\n\n7. The Member States shall inform each other and the Commission of cases where they consider that a third country meets the conditions laid down in paragraphs 3, 4 or 5.",
+      "text_sha256": "0443bc867d7f760928a12ff54936b4fa1a670c5204986603273c34489340fa10",
+      "md_span": {
+        "start": 36710,
+        "end": 39413
+      },
+      "citations": [
+        {
+          "href": "#E0018",
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Prohibition of disclosure"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where the Commission adopts a decision pursuant to Article 40(4), the Member States shall prohibit the disclosure between institutions and persons covered by this Directive and institutions and persons from the third country concerned.",
+      "text_sha256": "695bbbaf37919f73b42702e61a9f354d1ebee5bb11a60faa28949592b62c214f",
+      "md_span": {
+        "start": 39452,
+        "end": 39687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": null,
+      "path": [
+        "CHAPTER IV",
+        "RECORD KEEPING AND STATISTICAL DATA"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall require the institutions and persons covered by this Directive to keep the following documents and information for use in any investigation into, or analysis of, possible money laundering or terrorist financing by the FIU or by other competent authorities in accordance with national law:\n\n(a) in the case of the customer due diligence, a copy or the references of the evidence required, for a period of at least five years after the business relationship with their customer has ended;\n\n(b) in the case of business relationships and transactions, the supporting evidence and records, consisting of the original documents or copies admissible in court proceedings under the applicable national legislation for a period of at least five years following the carrying-out of the transactions or the end of the business relationship.",
+      "text_sha256": "0971aa23f74fde305862a74e6650cd6f84f6439fd4d3223081e5f3c963bf1549",
+      "md_span": {
+        "start": 39782,
+        "end": 40631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": null,
+      "path": [
+        "CHAPTER IV",
+        "RECORD KEEPING AND STATISTICAL DATA"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require the credit and financial institutions covered by this Directive to apply, where applicable, in their branches and majority-owned subsidiaries located in third countries measures at least equivalent to those laid down in this Directive with regard to customer due diligence and record keeping.\n\nWhere the legislation of the third country does not permit application of such equivalent measures, the Member States shall require the credit and financial institutions concerned to inform the competent authorities of the relevant home Member State accordingly.\n\n2. Member States and the Commission shall inform each other of cases where the legislation of the third country does not permit application of the measures required under the first subparagraph of paragraph 1 and coordinated action could be taken to pursue a solution.\n\n3. Member States shall require that, where the legislation of the third country does not permit application of the measures required under the first subparagraph of paragraph 1, credit or financial institutions take additional measures to effectively handle the risk of money laundering or terrorist financing.",
+      "text_sha256": "96fd6fd2d126d6caacd0304419dc222df81035f0c0dbf3aa8150b8e7affbd6bc",
+      "md_span": {
+        "start": 40670,
+        "end": 41839
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": null,
+      "path": [
+        "CHAPTER IV",
+        "RECORD KEEPING AND STATISTICAL DATA"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall require that their credit and financial institutions have systems in place that enable them to respond fully and rapidly to enquiries from the FIU, or from other authorities, in accordance with their national law, as to whether they maintain or have maintained during the previous five years a business relationship with specified natural or legal persons and on the nature of that relationship.",
+      "text_sha256": "d7ba0a75b43258fabdd5b199773efffb50689609ab761dd413c0d1dae96f4f69",
+      "md_span": {
+        "start": 41878,
+        "end": 42293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": null,
+      "path": [
+        "CHAPTER IV",
+        "RECORD KEEPING AND STATISTICAL DATA"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that they are able to review the effectiveness of their systems to combat money laundering or terrorist financing by maintaining comprehensive statistics on matters relevant to the effectiveness of such systems.\n\n2. Such statistics shall as a minimum cover the number of suspicious transaction reports made to the FIU, the follow-up given to these reports and indicate on an annual basis the number of cases investigated, the number of persons prosecuted, the number of persons convicted for money laundering or terrorist financing offences and how much property has been frozen, seized or confiscated.\n\n3. Member States shall ensure that a consolidated review of these statistical reports is published.",
+      "text_sha256": "6c9a05a7e0fbc80d92973fded1ab461174496043ab79da9e01d6578ea7a17a56",
+      "md_span": {
+        "start": 42332,
+        "end": 43065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "Internal procedures, training and feedback"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require that the institutions and persons covered by this Directive establish adequate and appropriate policies and procedures of customer due diligence, reporting, record keeping, internal control, risk assessment, risk management, compliance management and communication in order to forestall and prevent operations related to money laundering or terrorist financing.\n\n2. Member States shall require that credit and financial institutions covered by this Directive communicate relevant policies and procedures where applicable to branches and majority-owned subsidiaries in third countries.",
+      "text_sha256": "9e7f9f4d8d73d88d0cddbee6fece194d2892932a4cdb02b7909a61d0bc578cd4",
+      "md_span": {
+        "start": 43166,
+        "end": 43781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": null,
+      "path": [
+        "SECTION 1",
+        "Internal procedures, training and feedback"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require that the institutions and persons covered by this Directive take appropriate measures so that their relevant employees are aware of the provisions in force on the basis of this Directive.\n\nThese measures shall include participation of their relevant employees in special ongoing training programmes to help them recognise operations which may be related to money laundering or terrorist financing and to instruct them as to how to proceed in such cases.\n\nWhere a natural person falling within any of the categories listed in Article 2(1)(3) performs his professional activities as an employee of a legal person, the obligations in this Section shall apply to that legal person rather than to the natural person.\n\n2. Member States shall ensure that the institutions and persons covered by this Directive have access to up-to-date information on the practices of money launderers and terrorist financers and on indications leading to the recognition of suspicious transactions.\n\n3. Member States shall ensure that, wherever practicable, timely feedback on the effectiveness of and follow-up to reports of suspected money laundering or terrorist financing is provided.",
+      "text_sha256": "1f646ee13fad68106fc80b86ed5eb5ff2dab5df9b86e960b388d2fbb55246ada",
+      "md_span": {
+        "start": 43820,
+        "end": 45016
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Supervision"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall provide that currency exchange offices and trust and company service providers shall be licensed or registered and casinos be licensed in order to operate their business legally. ►M1 —————** ◄ **\n\n2. Member States shall require competent authorities to refuse licensing or registration of the entities referred to in paragraph 1 if they are not satisfied that the persons who effectively direct or will direct the business of such entities or the beneficial owners of such entities are fit and proper persons.",
+      "text_sha256": "e62aadfcee8ac8802ecfc0d2df968c940485bb604080af138fcd6256e73522cd",
+      "md_span": {
+        "start": 45086,
+        "end": 45618
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32007L0064",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Article 37",
+      "heading": null,
+      "path": [
+        "SECTION 2",
+        "Supervision"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall require the competent authorities at least to effectively monitor and to take the necessary measures with a view to ensuring compliance with the requirements of this Directive by all the institutions and persons covered by this Directive.\n\n2. Member States shall ensure that the competent authorities have adequate powers, including the power to compel the production of any information that is relevant to monitoring compliance and perform checks, and have adequate resources to perform their functions.\n\n3. In the case of credit and financial institutions and casinos, competent authorities shall have enhanced supervisory powers, notably the possibility to conduct on-site inspections.\n\n4. In the case of the natural and legal persons referred to in Article 2(1)(3)(a) to (e), Member States may allow the functions referred to in paragraph 1 to be performed on a risk-sensitive basis.\n\n5. In the case of the persons referred to in Article 2(1)(3)(a) and (b), Member States may allow the functions referred to in paragraph 1 to be performed by self-regulatory bodies, provided that they comply with paragraph 2.",
+      "text_sha256": "0bac34ae2dfdc34a49163b68aaf45b8ce562c03b27926b8cfd02d22fce7c97c2",
+      "md_span": {
+        "start": 45657,
+        "end": 46793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Article 38",
+      "heading": null,
+      "path": [
+        "SECTION 3",
+        "Cooperation"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Commission shall lend such assistance as may be needed to facilitate coordination, including the exchange of information between FIUs within the Community.",
+      "text_sha256": "0179b2182b651d4ac43561f52557e94222e3f14e06c5f1186e255fcb999c3433",
+      "md_span": {
+        "start": 46863,
+        "end": 47022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Article 39",
+      "heading": null,
+      "path": [
+        "SECTION 4",
+        "Penalties"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that natural and legal persons covered by this Directive can be held liable for infringements of the national provisions adopted pursuant to this Directive. The penalties must be effective, proportionate and dissuasive.\n\n2. Without prejudice to the right of Member States to impose criminal penalties, Member States shall ensure, in conformity with their national law, that the appropriate administrative measures can be taken or administrative sanctions can be imposed against credit and financial institutions for infringements of the national provisions adopted pursuant to this Directive. Member States shall ensure that these measures or sanctions are effective, proportionate and dissuasive.\n\n3. In the case of legal persons, Member States shall ensure that at least they can be held liable for infringements referred to in paragraph 1 which are committed for their benefit by any person, acting either individually or as part of an organ of the legal person, who has a leading position within the legal person, based on:\n\n(a) a power of representation of the legal person;\n\n(b) an authority to take decisions on behalf of the legal person, or\n\n(c) an authority to exercise control within the legal person.\n\n4. In addition to the cases already provided for in paragraph 3, Member States shall ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 3 has made possible the commission of the infringements referred to in paragraph 1 for the benefit of a legal person by a person under its authority.",
+      "text_sha256": "10767b03e95c39a6f90a0f471192b72b7384a22bb9f090e4999b3d1659545dbc",
+      "md_span": {
+        "start": 47090,
+        "end": 48691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Article 40",
+      "heading": null,
+      "path": [
+        "CHAPTER VI",
+        "IMPLEMENTING MEASURES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. In order to take account of technical developments in the fight against money laundering or terrorist financing and to ensure uniform implementation of this Directive, the Commission may, ►M2 —————** ◄ ** adopt the following implementing measures:\n\n(a) clarification of the technical aspects of the definitions in Article 3(2)(a) and (d), (6), (7), (8), (9) and (10);\n\n(b) establishment of technical criteria for assessing whether situations represent a low risk of money laundering or terrorist financing as referred to in Article 11(2) and (5);\n\n(c) establishment of technical criteria for assessing whether situations represent a high risk of money laundering or terrorist financing as referred to in Article 13;\n\n(d) establishment of technical criteria for assessing whether, in accordance with Article 2(2), it is justified not to apply this Directive to certain legal or natural persons carrying out a financial activity on an occasional or very limited basis.\n\nThe measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, inter alia by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).\n\n2. In any event, the Commission shall adopt the first implementing measures to give effect to paragraphs 1(b) and 1(d) by 15 June 2006.\n\n3. The Commission shall, ►M2 —————** ◄ ** adapt the amounts referred to in Articles 2(1)(3)(e), 7(b), 10(1) and 11(5)(a) and (d) taking into account Community legislation, economic developments and changes in international standards.\n\nThe measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).\n\n4. Where the Commission finds that a third country does not meet the conditions laid down in Article 11(1) or (2), Article 28(3), (4) or (5), or in the measures established in accordance with paragraph 1(b) of this Article or in Article 16(1)(b), or that the legislation of that third country does not permit application of the measures required under the first subparagraph of Article 31(1), it shall adopt a decision so stating in accordance with the procedure referred to in Article 41(2).",
+      "text_sha256": "abfde9d560810572b1bf172ffdb133339770d0e60241b4956bde5e7bfb20772f",
+      "md_span": {
+        "start": 48772,
+        "end": 51077
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0020",
+          "text": "►M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0020",
+          "text": "32008L0020: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005L0060",
+          "text": "32005L0060"
+        }
+      ]
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Article 41",
+      "heading": null,
+      "path": [
+        "CHAPTER VI",
+        "IMPLEMENTING MEASURES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall be assisted by a Committee on the Prevention of Money Laundering and Terrorist Financing, hereinafter ‘the Committee’.\n\n2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof and provided that the implementing measures adopted in accordance with this procedure do not modify the essential provisions of this Directive.\n\nThe period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.\n\n2a. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.\n\n3. By 31 December 2010, and thereafter at least every three years, the Commission shall review the provisions concerning its implementing powers and present a report to the European Parliament and to the Council on the functioning of those powers. The report shall examine, in particular, the need for the Commission to propose amendments to this Directive in order to ensure the appropriate scope of the implementing powers conferred on the Commission. The conclusion as to whether or not an amendment is necessary shall be accompanied by a detailed statement of reasons. If necessary, the report shall be accompanied by a legislative proposal to amend the provisions conferring implementing powers on the Commission.",
+      "text_sha256": "304cc138a007de78e44526bbb3e3b11dfeb01f28fcf10a6d243debbb0bbdd1a4",
+      "md_span": {
+        "start": 51116,
+        "end": 52542
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0020",
+          "text": "32008L0020: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0020",
+          "text": "32008L0020: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005L0060",
+          "text": "32005L0060"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Article 42",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "By 15 December 2009, and at least at three-yearly intervals thereafter, the Commission shall draw up a report on the implementation of this Directive and submit it to the European Parliament and the Council. For the first such report, the Commission shall include a specific examination of the treatment of lawyers and other independent legal professionals.",
+      "text_sha256": "4ebf58b2d6b0f98e363ee8f5c61bc56295511a907d447d688ea0c3c7251dfff3",
+      "md_span": {
+        "start": 52619,
+        "end": 52976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Article 43",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "By 15 December 2010, the Commission shall present a report to the European Parliament and to the Council on the threshold percentages in Article 3(6), paying particular attention to the possible expediency and consequences of a reduction of the percentage in points (a)(i), (b)(i) and (b)(iii) of Article 3(6) from 25 % to 20 %. On the basis of the report the Commission may submit a proposal for amendments to this Directive.",
+      "text_sha256": "0b44affe749d1c2aa1a38c049554fd28fe61e5a1cf8d84a2f8370e64221042cb",
+      "md_span": {
+        "start": 53015,
+        "end": 53441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Article 44",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Directive 91/308/EEC is hereby repealed.\n\nReferences made to the repealed Directive shall be construed as being made to this Directive and should be read in accordance with the correlation table set out in the Annex.",
+      "text_sha256": "ee36143336c05cb9b05c331b03fe3db330518d66a64da744e19f11684e8d97ba",
+      "md_span": {
+        "start": 53480,
+        "end": 53696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Article 45",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 15 December 2007. They shall forthwith communicate to the Commission the text of those provisions together with a table showing how the provisions of this Directive correspond to the national provisions adopted.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "82359b49f7331d90acdc273aec1b4744be6b7e8bb25b6aca64d5702fb82d9176",
+      "md_span": {
+        "start": 53735,
+        "end": 54490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Article 46",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the 20th day after its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "3e3b2319f02af058c891ab96d2a30cf9a50c37ab7ce43b0606423db0a91cf4e8",
+      "md_span": {
+        "start": 54529,
+        "end": 54653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Article 47",
+      "heading": null,
+      "path": [
+        "CHAPTER VII",
+        "FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 54692,
+        "end": 54741
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 54774,
+        "end": 54774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "correlation_table",
+      "provision_id": "eu-eurlex:32005l0060:2008-03-20--e0b466b27dfb892462d46ce61c24399983d966089308e2d5ca1e802e7f0145fb#correlation_table",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "CORRELATION TABLE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| This Directive | Directive 91/308/EEC |\n| --- | --- |\n| Article 1(1) | Article 2 |\n| Article 1(2) | Article 1(C) |\n| Article 1(2)(a) | Article 1(C) first point |\n| Article 1(2)(b) | Article 1(C) second point |\n| Article 1(2)(c) | Article 1(C) third point |\n| Article 1(2)(d) | Article 1(C) fourth point |\n| Article 1(3) | Article 1(C), third paragraph |\n| Article 1(4) |  |\n| Article 1(5) | Article 1(C), second paragraph |\n| Article 2(1)(1) | Article 2a(1) |\n| Article 2(1)(2) | Article 2a(2) |\n| Article 2(1)(3)(a), (b) and (d) to (f) | Article 2a(3) to (7) |\n| Article 2(1)(3)(c) |  |\n| Article 2(2) |  |\n| Article 3(1) | Article 1(A) |\n| Article 3(2)(a) | Article 1(B)(1) |\n| Article 3(2)(b) | Article 1(B)(2) |\n| Article 3(2)(c) | Article 1(B)(3) |\n| Article 3(2)(d) | Article 1(B)(4) |\n| Article 3(2)(e) |  |\n| Article 3(2)(f) | Article 1(B), second paragraph |\n| Article 3(3) | Article 1(D) |\n| Article 3(4) | Article 1(E), first paragraph |\n| Article 3(5) | Article 1(E), second paragraph |\n| Article 3(5)(a) |  |\n| Article 3(5)(b) | Article 1(E), first indent |\n| Article 3(5)(c) | Article 1(E), second indent |\n| Article 3(5)(d) | Article 1(E), third indent |\n| Article 3(5)(e) | Article 1(E), fourth indent |\n| Article 3(5)(f) | Article 1(E), fifth indent, and third paragraph |\n| Article 3(6) |  |\n| Article 3(7) |  |\n| Article 3(8) |  |\n| Article 3(9) |  |\n| Article 3(10) |  |\n| Article 4 | Article 12 |\n| Article 5 | Article 15 |\n| Article 6 |  |\n| Article 7(a) | Article 3(1) |\n| Article 7(b) | Article 3(2) |\n| Article 7(c) | Article 3(8) |\n| Article 7(d) | Article 3(7) |\n| Article 8(1)(a) | Article 3(1) |\n| Article 8(1)(b) to (d) |  |\n| Article 8(2) |  |\n| Article 9(1) | Article 3(1) |\n| Article 9(2) to (6) |  |\n| Article 10 | Article 3(5) and (6) |\n| Article 11(1) | Article 3(9) |\n| Article 11(2) |  |\n| Article 11(3) and (4) |  |\n| Article 11(5)(a) | Article 3(3) |\n| Article 11(5)(b) | Article 3(4) |\n| Article 11(5)(c) | Article 3(4) |\n| Article 11(5)(d) |  |\n| Article 12 |  |\n| Article 13(1) and (2) | Article 3(10) and (11) |\n| Article 13(3) to (5) |  |\n| Article 13(6) | Article 5 |\n| Article 14 |  |\n| Article 15 |  |\n| Article 16 |  |\n| Article 17 |  |\n| Article 18 |  |\n| Article 19 |  |\n| Article 20 | Article 5 |\n| Article 21 |  |\n| Article 22 | Article 6(1) and (2) |\n| Article 23 | Article 6(3) |\n| Article 24 | Article 7 |\n| Article 25 | Article 10 |\n| Article 26 | Article 9 |\n| Article 27 |  |\n| Article 28(1) | Article 8(1) |\n| Article 28(2) to (7) |  |\n| Article 29 |  |\n| Article 30(a) | Article 4, first indent |\n| Article 30(b) | Article 4, second indent |\n| Article 31 |  |\n| Article 32 |  |\n| Article 33 |  |\n| Article 34(1) | Article 11(1) (a) |\n| Article 34(2) |  |\n| Article 35(1), first paragraph | Article 11(1)(b), first sentence |\n| Article 35(1), second paragraph | Article 11(1)(b) second sentence |\n| Article 35(1), third paragraph | Article 11(1), second paragraph |\n| Article 35(2) |  |\n| Article 35(3) |  |\n| Article 36 |  |\n| Article 37 |  |\n| Article 38 |  |\n| Article 39(1) | Article 14 |\n| Article 39(2) to (4) |  |\n| Article 40 |  |\n| Article 41 |  |\n| Article 42 | Article 17 |\n| Article 43 |  |\n| Article 44 |  |\n| Article 45 | Article 16 |\n| Article 46 | Article 16 |\n\n(1) Opinion delivered on 11 May 2005 (not yet published in the Official Journal).\n\n(2) OJ C 40, 17.2.2005, p. 9.\n\n(3) Opinion of the European Parliament of 26 May 2005 (not yet published in the Official Journal) and Council Decision of 19 September 2005.\n\n(4) OJ L 166, 28.6.1991, p. 77. Directive as amended by Directive 2001/97/EC of the European Parliament and of the Council (OJ L 344, 28.12.2001, p. 76).\n\n(5) OJ L 182, 5.7.2001, p. 1.\n\n(6) OJ L 281, 23.11.1995, p. 31. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).\n\n(7) OJ L 271, 24.10.2000, p. 4.\n\n(8) OJ L 184, 17.7.1999, p. 23.\n\n(9) OJ L 164, 22.6.2002, p. 3.\n\n(10) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2005/1/EC (OJ L 79, 24.3.2005, p. 9).\n\n(11) OJ L 345, 19.12.2002, p. 1. Directive as last amended by Directive 2005/1/EC.\n\n(12) OJ L 145, 30.4.2004, p. 1.\n\n(13) OJ L 9, 15.1.2003, p. 3.\n\n(14) OJ L 351, 29.12.1998, p. 1.\n\n(15) OJ C 316, 27.11.1995, p. 49.\n\n(16) OJ L 275, 27.10.2000, p. 39.\n\n(17) OJ L 319, 5.12.2007, p. 1\n\n(18) OJ L 35, 11.2.2003, p. 1.",
+      "text_sha256": "25dc264bd9c37ca0695afde9a338156f4cb01aeca30c6afbaa0bd5f0fbfdb6ea",
+      "md_span": {
+        "start": 54831,
+        "end": 59152
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

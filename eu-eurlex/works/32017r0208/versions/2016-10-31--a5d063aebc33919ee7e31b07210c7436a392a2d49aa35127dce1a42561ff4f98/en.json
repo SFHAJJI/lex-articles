@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0208:2016-10-31--a5d063aebc33919ee7e31b07210c7436a392a2d49aa35127dce1a42561ff4f98",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/208 of 31 October 2016 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2016-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0208/versions/2016-10-31--a5d063aebc33919ee7e31b07210c7436a392a2d49aa35127dce1a42561ff4f98/en.xml",
+    "sha256": "9cc7d51a13148a3f2d102182cdd9e65736d28446e2c9a4d037155c609b2f8034",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0208"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0208:2016-10-31--a5d063aebc33919ee7e31b07210c7436a392a2d49aa35127dce1a42561ff4f98#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. An institution's derivatives transactions shall be considered material for the purposes of the first subparagraph of Article 423(3) of Regulation (EU) No 575/2013 where the total of notional amounts of such transactions has exceeded 10 % of the net liquidity outflows as referred to in Article 412(1) of Regulation (EU) No 575/2013 at any time in the previous two years.\n\n2. For the purposes of paragraph 1, the net liquidity outflows shall be calculated without the additional outflow component referred to in the first subparagraph of Article 423(3) of Regulation (EU) No 575/2013.",
+      "text_sha256": "dc11f46f97e1b968b791d5e215e501e420b1691d2c35042f2816152264acba14",
+      "md_span": {
+        "start": 717,
+        "end": 1314
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0208:2016-10-31--a5d063aebc33919ee7e31b07210c7436a392a2d49aa35127dce1a42561ff4f98#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The additional outflow corresponding to collateral needs resulting from the impact of an adverse market scenario on an institution's derivatives transactions considered as material in application of Article 1 of this Regulation, shall be the largest absolute net 30-day collateral flow realised during the 24 months preceding the date of calculation of the liquidity coverage requirement referred to in Article 412(1) of Regulation (EU) No 575/2013.\n\n2. Institutions may only treat inflows and outflows of transactions on a net basis where they are executed under the same master netting agreement. The absolute net collateral flow shall be based on both realised outflows and inflows, and the netting shall be calculated at the institution's portfolio level.",
+      "text_sha256": "bc4f822bb008ca935078d21899efdc1328aad374fb1ada42d5d2e6ebcfb1ec4d",
+      "md_span": {
+        "start": 1347,
+        "end": 2120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0208:2016-10-31--a5d063aebc33919ee7e31b07210c7436a392a2d49aa35127dce1a42561ff4f98#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 2153,
+        "end": 2304
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

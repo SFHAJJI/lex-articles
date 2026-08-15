@@ -1,0 +1,142 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2021 : Loi du 10 juillet 2020 portant prorogation de la dérogation aux dispositions des articles 3, 6, 7 et 9 de la loi du 1er août 2019 concernant les mutuelles.",
+  "valid_from": "2021-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-07-10-a580/versions/2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a/fr.xml",
+    "sha256": "87bc1d6ae452dd8286691c1d3ad8df4fb6f3c3139eef9e910f9d9f562d7ce40c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20210701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/art_1er/20200625",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Par dérogation à l’article 3, alinéa 5, de la loi du 1er août 2019 concernant les mutuelles, l’agrément de la mutuelle n’est pas à suspendre dans le cadre de la mise en application des dispositions de la présente loi.",
+      "text_sha256": "9f7face515a66ba6ee949133a6b1dc0ef0fd4e5ac09d49276f193fa51f076912",
+      "md_span": {
+        "start": 760,
+        "end": 977
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/08/01/a530/jo",
+          "text": "loi du 1er août 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/art_2/20210701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-01",
+      "text_md": "Par dérogation à l’article 6, alinéa 2, de la loi du 1er août 2019 concernant les mutuelles, et par dérogation aux statuts de la mutuelle, le cas échéant, l’assemblée générale de la mutuelle portant sur les exercices des années civiles 2019 et 2020 doit être convoquée au plus tard le 31 décembre 2021.",
+      "text_sha256": "36294bada7a0cd4bd71fde7d444f01cefdc6777be67bf81204520cc49aa8894f",
+      "md_span": {
+        "start": 1012,
+        "end": 1314
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/08/01/a530/jo",
+          "text": "loi du 1er août 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/art_3/20210701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-01",
+      "text_md": "Par dérogation à l’article 7, alinéa 7, de la loi du 1er août 2019 concernant les mutuelles, le rapport sur la gestion administrative et financière portant sur l’exercice de l’année civile 2019, le rapport de contrôle portant sur les exercices des années civiles 2019 et 2020 et la composition du conseil d’administration sont à remettre au ministre ayant la Sécurité sociale dans ses attributions au plus tard le 31 décembre 2021.",
+      "text_sha256": "4786a1a820f5ab7cc347dfcfd7b50b8387c8ab74addd18f4a681f96255f7022b",
+      "md_span": {
+        "start": 1349,
+        "end": 1780
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/08/01/a530/jo",
+          "text": "loi du 1er août 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/art_4/20210701",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-07-01",
+      "text_md": "Par dérogation à l’article 9, alinéa 5, de la loi du 1er août 2019 concernant les mutuelles, le contrôleur des comptes doit remettre le rapport de contrôle de l’exercice portant sur les exercices des années civiles 2019 et 2020 au conseil d’administration de la mutuelle au plus tard le 31 décembre 2021.",
+      "text_sha256": "b944923f849bc56f759f50dd799b732b4a87d6ac512e0aff61ea75e484ba3864",
+      "md_span": {
+        "start": 1815,
+        "end": 2119
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/08/01/a530/jo",
+          "text": "loi du 1er août 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2020-07-10-a580:2021-07-01--d1fad572218630465127a5755c866de13f763a35c44109f2a761fa542b74e24a#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/art_5/20200625",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "La présente loi produit ses effets le jour qui suit la fin de l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19.",
+      "text_sha256": "daa3989693cca36c61e5d016ed717c033915bfbdfaab51e7efd42132a29964cd",
+      "md_span": {
+        "start": 2154,
+        "end": 2609
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2020/03/18/a165/jo",
+          "text": "règlement grand-ducal modifié du 18 mars 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/03/24/a178/jo",
+          "text": "loi du 24 mars 2020"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2020/03/18/a165/jo",
+          "text": "règlement grand-ducal du 18 mars 2020"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

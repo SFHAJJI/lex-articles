@@ -1,0 +1,146 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/12/2012 : Loi du 29 juin 2004 portant sur les transports publics et modifiant la loi modifiée du 12 juin 1965 sur les transports routiers.",
+  "valid_from": "2013-09-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2004-06-29-n1/versions/2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52/fr.pdf-memorial/eli-etat-leg-memorial-2013-a174-fr-pdf.pdf",
+    "sha256": "5ecb4ec867ccafd08903a2e69d9dd31239c9b41d64f2b1cec09d176d70bf9ad5",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/29/n1/consolide/20130930/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "A l’article 7ter, paragraphe 1er, de la loi modifiée du 29 juin 2004 portant sur les transports publics, le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "septième alinéa est remplacé par le texte suivant: «Le conseil d’administration se réunit sur convocation du président ou de celui qui le remplace aussi souvent que les intérêts de la CdT l’exigent; la convocation indique l’ordre du jour. Il doit être convoqué au moins deux fois par an ou lorsque deux administrateurs au moins ou le réviseur d’entreprises agréé le demandent.»",
+      "text_sha256": "0d6de8e8deeaa7d1e249308a88a816f25ebe255848890ccc2bd54e0ee1f0eb8d",
+      "md_span": {
+        "start": 846,
+        "end": 1223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "A l’article 10, alinéa 5, de la loi du 29 juin 2004 précitée, les références à la «RGTP» sont remplacées par",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’abréviation «CdT».",
+      "text_sha256": "99cb80d2651f27ff0427323721ef2dfa7a0560f9ce44d59b10abfadffd198584",
+      "md_span": {
+        "start": 1367,
+        "end": 1387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "L’article 1er, alinéa 1, de la loi du 19 juin 2009 sur l’ordre et la sécurité dans les transports publics est",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "complété in fine par la phrase suivante: «Elle a également pour objet le contrôle des titres de transport.»",
+      "text_sha256": "f10b3c6958b62ec505570753145a7d21ca4810807f1f9402978cff919620040f",
+      "md_span": {
+        "start": 1532,
+        "end": 1639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "L’article 2 de la loi du 19 juin 2009 précitée est complété par un point h) libellé comme suit:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«h) «titre de transport»: un billet, un abonnement ou une pièce donnant droit au transport gratuit, qui donne à l’usager le droit d’utiliser les services de transport public. Un titre de transport peut être édité sur un support papier/plastique ou un support électronique.»",
+      "text_sha256": "f4009dea779219164e594773a7c75a8975b24874523d310d207e1f4a66d8dd76",
+      "md_span": {
+        "start": 1770,
+        "end": 2043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Il est inséré un nouveau Chapitre III à la suite de l’article 11 de la loi du 19 juin 2009 précitée de la teneur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "suivante: «Chapitre III – Règles concernant le contrôle des titres de transport",
+      "text_sha256": "92e586e1b090664629b695503b6b1e6eaeae76f0a0db7593a223b100029ff09a",
+      "md_span": {
+        "start": 2191,
+        "end": 2270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_11bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": "- Les agents visés à l’article 4 sont chargés du contrôle des titres de transport dans les services de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "transports publics.",
+      "text_sha256": "098d539b15d2a4769370ed91d30df03dd7d328c05c588337ea6cd5957c626cdc",
+      "md_span": {
+        "start": 2416,
+        "end": 2435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11ter",
+      "provision_id": "lu-legilux:loi-2004-06-29-n1:2013-09-30--a380400de595610f96f1a33d88e1a3698d8d01b5ef919afda10e93cc2771fb52#art_11ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11ter.",
+      "heading": "- 1. Tout usager des transports publics doit se munir d’un titre de transport valable au début de son",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "voyage. L’usager qui ne peut pas présenter de titre de transport valide à la demande de l’agent est tenu de payer une amende administrative de 150 euros. Si l’usager présente un titre de transport contrefait, manipulé ou non valide, l’agent peut retenir ce titre. 2. L’agent est autorisé à contrôler l’identité de l’usager et à se faire exhiber à ces fins une pièce d’identité ainsi qu’à se faire fournir l’adresse de l’usager en question. 3. L’agent dresse un rapport dans lequel il constate l’identité de l’usager des transports publics, le transport concerné, l’absence de titre de transport valide, le paiement de l’amende ou le défaut de paiement de l’amende et la rétention du titre de voyage présenté. Le contrôle d’identité fait également l’objet de ce rapport, conformément à l’article 6. 4. Le rapport est transmis au ministre.» Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne. Le Ministre du Développement durable Palais de Luxembourg, le 13 septembre 2013. et des Infrastructures, Henri Claude Wiseler Doc. parl. 6426; sess. ord. 2011-2012 et 2012-2013. 3365",
+      "text_sha256": "eccfaddfc87e579bd35c7f3573e30fa2832dd20b5ca6a299542bf3adfa84e03e",
+      "md_span": {
+        "start": 2580,
+        "end": 3735
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 38 line(s) in",
+    "took lines 30..68 of 635 from the gazette issue"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0105:2017-10-27--de2db152954ef9315e23f309f4b19f07a09096828cf8e47a48aaf28532e53ea8",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2018/105 of 27 October 2017 amending Delegated Regula…",
+  "valid_from": "2017-10-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0105/versions/2017-10-27--de2db152954ef9315e23f309f4b19f07a09096828cf8e47a48aaf28532e53ea8/fr.xml",
+    "sha256": "625ba88b2a424ad13075754696d16585518d207fdfc5605efb0e758ecf249fe4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0105"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0105:2017-10-27--de2db152954ef9315e23f309f4b19f07a09096828cf8e47a48aaf28532e53ea8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nDans le tableau figurant au point I de l'annexe du règlement délégué (UE) 2016/1675, la ligne suivante est ajoutée:\n\n| «10 | Éthiopie» |\n| --- | --- |",
+      "text_sha256": "557b7fc890d41ade66d04730826f14c7ffddea92acabde08074e403b89456efb",
+      "md_span": {
+        "start": 702,
+        "end": 869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0105:2017-10-27--de2db152954ef9315e23f309f4b19f07a09096828cf8e47a48aaf28532e53ea8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 902,
+        "end": 1043
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

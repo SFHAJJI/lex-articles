@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31967l0227:2007-01-01--f567ac1eda761e3731342eaf5c14066cecdd77a55280939be7672ef8a16e1014",
+  "language": "fr",
+  "title": "First Council Directive 67/227/EEC of 11 April 1967 on the harmonisation of legislation of…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31967l0227/versions/2007-01-01--f567ac1eda761e3731342eaf5c14066cecdd77a55280939be7672ef8a16e1014/fr.html",
+    "sha256": "3027e1df6a2a2b9fdffab07e8149d238177e0721ca334505c2059d54d474a204",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01967L0227-20070101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31967l0227:2007-01-01--f567ac1eda761e3731342eaf5c14066cecdd77a55280939be7672ef8a16e1014#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1967L0227 — FR — 01.01.2007 — 003.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B PREMIÈRE DIRECTIVE DU CONSEIL du 11 avril 1967 en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires (67/227/CEE) (JO P 071, 14.4.1967, p.1301) abrogé par: Journal officiel n° page date Directive 2006/112/CE du Conseil du 28 novembre 2006 L 347 1 11.12.2006",
+      "text_sha256": "e74ff833dd83bc334820eca892d661d3cdbae19af42513997e6be2fd6a3293f3",
+      "md_span": {
+        "start": 724,
+        "end": 1175
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

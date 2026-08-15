@@ -1,0 +1,84 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2022-12-16-a638:2024-12-20--6731a8938fb8627fe0724fda17b8b8f977f9d15ab4685e33854c9e27f073fdf2",
+  "language": "fr",
+  "title": "Version consolidée applicable au 20/12/2024 : Loi du 16 décembre 2022 autorisant l’État à participer au financement du surcoût des produits énergétiques et d’électricité supporté par les centres intégrés pour personnes âgées, maisons de soins, logements encadrés pour personnes âgées et centres psycho-gériatriques agréés en vertu de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ainsi que par les structures d’hébergement pour personnes âgées et les centres de jour pour personnes âgées agréés conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées.",
+  "valid_from": "2024-12-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2022-12-16-a638/versions/2024-12-20--6731a8938fb8627fe0724fda17b8b8f977f9d15ab4685e33854c9e27f073fdf2/fr.xml",
+    "sha256": "7ec8d6556ba0102d0d3b8dd9a3281f5a719cb846f0c2eebecdab0f846eeb80fa",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20241220/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2022-12-16-a638:2024-12-20--6731a8938fb8627fe0724fda17b8b8f977f9d15ab4685e33854c9e27f073fdf2#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/art_1er/20241220",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-12-20",
+      "text_md": "**(1)** Pour la première période éligible du 1er octobre 2022 au 31 décembre 2023 ainsi que pour la deuxième période éligible du 1er janvier 2024 au 31 décembre 2024et la troisième période éligible du 1er janvier 2025 au 31 décembre 2025, l’État est autorisé à participer au financement du surcoût des produits énergétiques et d’électricité supporté par les centres intégrés pour personnes âgées, maisons de soins, logements encadrés pour personnes âgées et centres psycho-gériatriques agréés en vertu de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ainsi que par les structures d’hébergement pour personnes âgées et les centres de jour pour personnes âgées agréés conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées, ci-après « structure agréée ».\n\n**(2)** Est éligible le surcoût lié à l’achat de l’électricité et des produits énergétiques nécessaires au chauffage des structures agréées, à savoir le gaz provenant d’un réseau de distribution, le gaz comprimé, les copeaux et granulés de bois, le gasoil de chauffage et la chaleur produite à distance par une centrale énergétique.\n\n**(3)** Par produit énergétique et d’électricité ainsi que par structure agréée, la participation au financement est égale à la différence des coûts unitaires moyens supportés par les structures agréées pendant la période de référence s’étendant du 1er janvier 2019 au 30 juin 2022 et les coûts unitaires facturés pendant les trois périodes éligibles s’étendant du 1er octobre 2022 au 31 décembre 2023, du 1er janvier 2024 au 31 décembre 2024et du 1er janvier 2025 au 31 décembre 2025. La quantité de produits énergétiques et d’électricité éligible par mois pour une participation au financement ne peut pas dépasser la moyenne mensuelle des unités d’énergie facturées pendant la période de référence précitée.",
+      "text_sha256": "921e5948ed4b5f27fbddf0256df1ddc75a002a4890ddd8f880f0d51beb2f1a6a",
+      "md_span": {
+        "start": 1261,
+        "end": 3211
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/09/08/n4/jo",
+          "text": "loi modifiée du 8 septembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2023/08/23/a562/jo",
+          "text": "loi modifiée du 23 août 2023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2022-12-16-a638:2024-12-20--6731a8938fb8627fe0724fda17b8b8f977f9d15ab4685e33854c9e27f073fdf2#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/art_2/20241220",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-12-20",
+      "text_md": "**(1)** La personne physique ou morale qui est chargée de la gestion de la structure agréée soumet une demande de participation au financement pour la première période éligible au ministre ayant la Famille dans ses attributions :\n\n1. au plus tard le 31 mai 2023 pour les mois d’octobre, de novembre et de décembre 2022 ;\n2. au plus tard le 31 janvier 2024 pour les mois de janvier à juin 2023 ;\n3. au plus tard le 30 avril 2024 pour les mois de juillet à décembre 2023.\n\nLa personne physique ou morale qui est chargée de la gestion de la structure agréée soumet une demande de participation au financement pour la deuxième période éligible au ministre ayant la Famille dans ses attributions :\n\n1. au plus tard le 31 janvier 2025 pour les mois de janvier à juin 2024 ;\n2. au plus tard le 30 avril 2025 pour les mois de juillet à décembre 2024.\n\nLa personne physique ou morale qui est chargée de la gestion de la structure agréée soumet une demande de participation au financement pour la troisième période éligible au ministre ayant la Famille dans ses attributions :\n\n1. au plus tard le 31 janvier 2026 pour les mois de janvier à juin 2025 ;\n2. au plus tard le 30 avril 2026 pour les mois de juillet à décembre 2025.\n\n**(2)** La demande contient :\n\n1. la dénomination de la structure agréée, le numéro d’agrément ainsi qu’un relevé d’identité bancaire ;\n2. pour la période de référence et par produit énergétique et d’électricité, les relevés des comptes comptables ;\n3. pour la période de référence et par produit énergétique et d’électricité, les quantités achetées sur base de factures, décomptes ou autres preuves d’achat ;\n4. pour chaque période éligible et par produit énergétique et d’électricité, les quantités achetées sur base de factures, décomptes ou autres preuves d’achat ;\n5. un relevé des prix d’hébergement ou prix journaliers facturés aux résidents ou usagers applicables au mois de septembre 2022 ainsi qu’un relevé des prix applicables au moment de la demande.",
+      "text_sha256": "af3c398e6adf3e080cc0cfeca18e3bf5abc18318096ce4b27a05a6f51e871d5b",
+      "md_span": {
+        "start": 3246,
+        "end": 5226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2022-12-16-a638:2024-12-20--6731a8938fb8627fe0724fda17b8b8f977f9d15ab4685e33854c9e27f073fdf2#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/art_3/20241220",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-12-20",
+      "text_md": "Aucune participation au financement du surcoût des produits énergétiques et d’électricité n’est due si la personne physique ou morale chargée de la gestion de la structure agréée augmente les prix d’hébergement ou prix journaliers au cours de la période éligible à laquelle la demande de participation se réfère par rapport aux prix facturés aux résidents et usagers le mois de septembre 2022. Aucune participation au financement du surcoût des produits énergétiques et d’électricité n’est due au titre de la deuxième période éligible si la personne physique ou morale chargée de la gestion de la structure agréée a augmenté les prix d’hébergement ou prix journaliers au cours de la première période éligible visée à l’article 1er, paragraphe 1er, par rapport aux prix facturés aux résidents et usagers le mois de septembre 2022. Aucune participation au financement du surcoût de l’énergie n’est due au titre de la troisième période éligible si la personne physique ou morale chargée de la gestion de la structure agréée a augmenté les prix d’hébergement ou prix journaliers au cours de la deuxième période éligible visée à l’article 1er, paragraphe 1er, par rapport aux prix facturés aux résidents et usagers le mois de septembre 2022.\n\nNe sont pas visées par cette disposition les adaptations des prix à l’évolution de l’échelle mobile des salaires.",
+      "text_sha256": "1109f3caec6901494dda77f21cab33a1ed51df0353d4bbf3770f8802cfe6ac2e",
+      "md_span": {
+        "start": 5261,
+        "end": 6612
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

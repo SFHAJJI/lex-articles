@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0529:2020-12-18--4c892821229c7a59d01ed2e285ccc2abfe74786c79bc8beee40a4dcf14c6cf0c",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/529 of 18\u00A0December 2020 establishing regulatory …",
+  "valid_from": "2020-12-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0529/versions/2020-12-18--4c892821229c7a59d01ed2e285ccc2abfe74786c79bc8beee40a4dcf14c6cf0c/fr.xml",
+    "sha256": "bd9b014075964418e25e1054439e04c1ac28641394c212b99c6ad988e04d25a8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R0529"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0529:2020-12-18--4c892821229c7a59d01ed2e285ccc2abfe74786c79bc8beee40a4dcf14c6cf0c#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’article 17 du règlement délégué (UE) 2017/583 est modifié comme suit:\n\n| a) | Le paragraphe 1 est remplacé par le texte suivant:«1. Pour déterminer les obligations pour lesquelles il n’existe pas de marché liquide aux fins de l’article 6 et conformément à la méthode visée à l’article 13, paragraphe 1, point b), l’approche pour le critère de liquidité “nombre quotidien moyen de transactions” est utilisée en appliquant le “nombre de transactions quotidien moyen” correspondant à la phase S2 (10 transactions journalières).» |\n| --- | --- |\n\n| b) | Le paragraphe 3 est remplacé par le texte suivant:«3. Pour déterminer la taille spécifique à l’instrument financier aux fins de l’article 5 et conformément à la méthode visée à l’article 13, paragraphe 2, point b) i), l’approche du percentile transactions est utilisée en appliquant le percentile transactions correspondant à la phase S2 (40e percentile).Pour déterminer la taille spécifique à l’instrument financier aux fins de l’article 5 et conformément à la méthode visée à l’article 13, paragraphe 2, points b) ii), iii) et iv), l’approche du percentile transactions est utilisée en appliquant le percentile transactions correspondant à la phase S1 (30e percentile).» |\n| --- | --- |",
+      "text_sha256": "de1c9926e6c02735b133b2fbd43bd7d49bb34175c2f3c8d03796217003fc7b43",
+      "md_span": {
+        "start": 702,
+        "end": 1959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0529:2020-12-18--4c892821229c7a59d01ed2e285ccc2abfe74786c79bc8beee40a4dcf14c6cf0c#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1992,
+        "end": 2133
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

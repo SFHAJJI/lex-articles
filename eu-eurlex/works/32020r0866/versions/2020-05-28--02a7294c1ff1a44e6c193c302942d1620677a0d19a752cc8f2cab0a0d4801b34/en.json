@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r0866:2020-05-28--02a7294c1ff1a44e6c193c302942d1620677a0d19a752cc8f2cab0a0d4801b34",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2020/866 of 28 May 2020 amending Delegated Regulation (EU) 2016/101 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2020-05-28",
+  "valid_to": "2020-06-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r0866/versions/2020-05-28--02a7294c1ff1a44e6c193c302942d1620677a0d19a752cc8f2cab0a0d4801b34/en.xml",
+    "sha256": "df42de72d8a20c6d8d4ee6b7380580e0ed40c0df0d2de2d3ba863b94deaabdcc",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0866"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r0866:2020-05-28--02a7294c1ff1a44e6c193c302942d1620677a0d19a752cc8f2cab0a0d4801b34#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Delegated Regulation (EU) 2016/101 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "e9d88ab11a3711edb0b47cad5f56c12013ab2293c0e6d5bf54592d513ed4ef8c",
+      "md_span": {
+        "start": 763,
+        "end": 878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r0866:2020-05-28--02a7294c1ff1a44e6c193c302942d1620677a0d19a752cc8f2cab0a0d4801b34#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+      "md_span": {
+        "start": 911,
+        "end": 1052
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

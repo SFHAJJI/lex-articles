@@ -1,0 +1,169 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/12/2010 : Règlement grand-ducal du 9 mai 2008\\n 1. autorisant le Lycée technique du Centre et l'Athénée de Luxembourg à organiser des classes internationales préparant au diplôme du Baccalauréat International;\\n 2. déterminant l'organisation des classes internationales préparant au diplôme du Baccalauréat International.",
+  "valid_from": "2010-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-05-09-n7/versions/2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690/fr.xml",
+    "sha256": "ce28db24e35b64efc29b22e7cb2ed7c73089ed87a460082cd49d82d28f37aa34",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/consolide/20101217/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_1er/20080527",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-05-27",
+      "text_md": "Le Lycée technique du Centre et l'Athénée de Luxembourg sont autorisés à organiser des classes internationales préparant au diplôme du Baccalauréat International.",
+      "text_sha256": "29dc023d2145813a2125d15451dd9a8a1a9b0c4f38cdc7cbee9e7c1ec6df74d1",
+      "md_span": {
+        "start": 914,
+        "end": 1076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_2/20101217",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-17",
+      "text_md": "Dans les classes internationales, le niveau de langue enseigné est celui déterminé par la terminologie du Baccalauréat International.\n\nAu cas où la langue française est étudiée au niveau de langue A1 ou A, la langue anglaise est étudiée au niveau de langue A2 ou B.\n\nAu cas où la langue anglaise est étudiée au niveau de langue A1 ou A, la langue française est étudiée au niveau de langue A2 ou B.\n\nLa langue allemande est la troisième langue.",
+      "text_sha256": "473d107079e6d167ebf7e97716ab9ea96332ca7f9804a8bbdb5edd139fa546b4",
+      "md_span": {
+        "start": 1111,
+        "end": 1554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_3/20101217",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-17",
+      "text_md": "Les matières qui peuvent être étudiées sont définies dans les grilles horaires respectives des classes internationales, organisées au Lycée technique du Centre et à l'Athénée de Luxembourg et sont fixées par règlement grand-ducal.",
+      "text_sha256": "ea5684ab5ffd5a2b473753c970ae70c388e8e5ea52cb9234d4a5d7bc4f57f0ea",
+      "md_span": {
+        "start": 1589,
+        "end": 1819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_4/20080527",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-05-27",
+      "text_md": "Une discipline ne peut être offerte dans un établissement que s'il y a un minimum de 10 élèves inscrits. Par dérogation à cette disposition le ministre ayant l'Éducation nationale dans ses attributions peut dans des cas dûment motivés, autoriser un tel cours, même si cet effectif n'est pas atteint.",
+      "text_sha256": "2e3e0367705ad37819d4b096e08f3a96a325d4abaa3d8f4e3d89c89287864d3a",
+      "md_span": {
+        "start": 1854,
+        "end": 2153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_5/20101217",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-17",
+      "text_md": "Peut être admis en classe de IVe internationale:\n\n- e\n- e\n- l'élève qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts, ainsi que le cas échéant d'autres tests d'admission organisés par le lycée, après consultation du dossier de l'élève par le directeur.\n\nPeut être admis en classe de IIIe internationale:\n\n- e\n- l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.\n\nPeut être admis en classe de IIe internationale:\n\n- e\n- l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.\n\nLe directeur désigne au maximum deux enseignants pour organiser les tests d'admission dans la langue véhiculaire dans laquelle les cours sont offerts. Une indemnité par questionnaire ainsi qu'une indemnité par candidat et par épreuve de deux heures peut leur être allouée, calculée selon les modalités de l'arrêté du Gouvernement en conseil du 24 mai 2004 portant fixation des taux à appliquer pour l'indemnisation des opérations de l'examen d'admission en classe de septième de l'enseignement secondaire dans le cadre de la procédure d'admission à une classe de septième de l'enseignement secondaire technique ou à la classe d'orientation de l'enseignement secondaire.",
+      "text_sha256": "7b1f6974103659276ad1c06a4b721c11f77cf593da5f15a9dba790322236eb48",
+      "md_span": {
+        "start": 2188,
+        "end": 3521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_6/20080527",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-05-27",
+      "text_md": "En classe de IVe et en classe de IIIe l'évaluation et la promotion des élèves se font conformément à la réglementation en vigueur à l'enseignement secondaire, à l'exception de la détermination des branches fondamentales, qui sont la langue française et la langue anglaise.\n\nEn classe de IIe et en classe de Ire l'évaluation se fait conformément aux dispositions du programme du Baccalauréat International.\n\nLes conditions de passage de la classe de IIe à la classe de Ire peuvent être déterminées par règlement interne pris par l'établissement scolaire.",
+      "text_sha256": "35e8eb82852917505eb6d8d7563574cd32c7ac2d8974050630af9ea688228d59",
+      "md_span": {
+        "start": 3556,
+        "end": 4109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_7/20080527",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-05-27",
+      "text_md": "Le règlement grand-ducal du 31 juillet 2006 déterminant l'organisation des classes internationales préparant au diplôme du Baccalauréat International et le règlement grand-ducal du 31 juillet 2006 autorisant le Lycée technique du Centre à organiser des classes internationales préparant au diplôme du Baccalauréat International sont abrogés.",
+      "text_sha256": "928b6b8321fd588362f3044358a16ed10f05b648e16993aa883520a228f3bab8",
+      "md_span": {
+        "start": 4144,
+        "end": 4485
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/07/31/n6",
+          "text": "règlement grand-ducal du 31 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2006/07/31/n7",
+          "text": "règlement grand-ducal du 31 juillet 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2008-05-09-n7:2010-12-17--4c436b88913e2ff2f20f0ec4133ecc400aa412c71dc897fe23e0cb90c26ed690#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/art_8/20080527",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-05-27",
+      "text_md": "Notre Ministre de l'Éducation nationale et de la Formation professionnelle est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7d0b94a30660241e4e19ee887e77f80d19e5e767d56a4253a1e15066b5afe39b",
+      "md_span": {
+        "start": 4520,
+        "end": 4671
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

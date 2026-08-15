@@ -1,0 +1,261 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/05/2023 : Règlement grand-ducal du 1er août 2019\\n1. fixant les modalités pour accorder et retirer le droit de former un apprenti et\\n2. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;\\n3. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un apprenti ;\\n4. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage.\\n",
+  "valid_from": "2023-05-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2019-08-01-a564/versions/2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b/fr.xml",
+    "sha256": "26cfa6b34b1cede38f738e777cce88d398245ed28c66758fa856e6b3ddd6de42",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/20230502/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_1er/20190916",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre ****1er ** — **Le droit de former un apprenti**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "**(1)** Les chambres professionnelles patronales compétentes, ou pour les professions qui ne relèvent pas d’une chambre professionnelle patronale, le ministre ayant la formation professionnelle dans ses attributions, désigné ci-après par le terme « ministre », arrêtent annuellement, de concert avec les chambres professionnelles salariales compétentes, une liste des organismes de formation ayant le droit de former en vertu des dispositions des articles L 111-1 et L-111-3 à L111-5 du Code du travail. Cette liste peut être modifiée et complétée à tout moment.\n\n**(2)** Une copie de la liste, ainsi que les modifications sont transmises au Service d’orientation professionnelle de l’Agence pour le développement de l’emploi, ainsi qu’à la chambre professionnelle salariale compétente.",
+      "text_sha256": "54143d765a6a8023b59d4cc0fb7a017121a4cdac7942131969da949fef4540fd",
+      "md_span": {
+        "start": 1133,
+        "end": 1919
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_2/20190916",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre ****1er ** — **Le droit de former un apprenti**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "**(1)** Les modalités de fonctionnement et l’envergure de l’organisme de formation doivent être de nature à garantir la formation professionnelle de l’apprenti, suivant les critères arrêtés de concert entre les chambres professionnelles patronales et salariales et le service de la formation professionnelle.\n\n**(2)** Le patron formateur ou le tuteur doit être au moins détenteur d’un diplôme d’aptitude professionnelle (DAP) dans la profession ou le métier concerné ou apparenté pour lequel le droit de former est sollicité ou de pièces reconnues comme équivalentes.\n\nSont notamment à considérer comme pièces équivalentes, les attestations délivrées par les autorités compétentes des États-membres de l’Union européenne sur base des directives communautaires traitant de la reconnaissance des qualifications professionnelles pour ce qui concerne l’établissement d’une personne dans un État autre que son État d’origine.\n\n**(3)** Le tuteur est désigné par l’organisme de formation au moment de la signature du contrat d’apprentissage.\n\nUne formation obligatoire de trois jours au moins est organisée pour le tuteur par la chambre professionnelle dont relève l’organisme de formation.\n\nCette formation, qui est sanctionnée par une attestation de capacité, vise à permettre au tuteur d’acquérir les aptitudes et les connaissances nécessaires pour dispenser à l’apprenti, avec la pédagogie appropriée, une formation conforme au programme directeur.\n\n**(4)** Le tuteur en possession du brevet de maîtrise, respectivement avec une qualification de niveau équivalent, est dispensé de la formation. De même, les personnes qui peuvent se prévaloir d’une expérience de longue date dans le domaine de l’apprentissage, respectivement d’une formation en pédagogie, peuvent être dispensées de cette formation, ceci en accord avec les chambres professionnelles concernées, respectivement le ministre, pour les organismes de formation qui ne relèvent pas d’une chambre professionnelle.\n\n**(5)** Le départ d’un tuteur en fonction est à signaler par l’organisme de formation endéans un mois à la chambre professionnelle compétente, respectivement au ministre pour les organismes de formation qui ne relèvent pas d’une chambre professionnelle.\n\nUn nouveau tuteur doit être désigné par l’organisme de formation au plus tard dans les trois mois qui suivent la notification. Ce délai passé, les chambres professionnelles patronales, respectivement le ministre pour les organismes de formation qui ne relèvent pas d’une chambre professionnelle, en accord avec la chambre professionnelle salariale compétente, se prononcent sur la suite à réserver au(x) contrat(s) d’apprentissage en cours.\n\n**(6)** L’organisme de formation doit :\n\n- respecter les obligations découlant du contrat d’apprentissage ;\n- assurer l’enseignement de la profession/du métier conformément au programme directeur, ainsi qu’au référentiel d’évaluation fixé par règlement grand-ducal.\n\nAfin de garantir un apprentissage efficace des apprentis, le nombre maximum d’apprentis par organisme de formation s’oriente par rapport au principe suivant.\n\nUn organisme de formation où le patron formateur travaille seul ou avec des collaborateurs en possession du DAP dans le métier/la profession concernés, ou est en possession de pièces reconnues équivalentes (personnes aptes à former), pourra former le nombre suivant d’apprentis :\n\n| Personne(s) apte(s) à former un apprenti | Nombre maximum d’apprenti(s) | Tuteurs |\n| --- | --- | --- |\n| 1 | 1 | 1 |\n| 2 – 4 | 2 | 1 |\n| 5 – 7 | 3 | 1 |\n| 8 – 10 | 4 | 1 |\n| 11 – 15 | 5 | 1 |\n| 16 – 20 | 6 | 1 |\n| 21 – 30 | 8 | 1 |\n| 31 – 50 | 10 | 2 |\n| 51 – 75 | 20 | 2 |\n| 76 – 100 | 25 | 2 |\n| Par tranche de 25 personnes supplémentaires aptes à former | +5 | +1 |\n\nPour le calcul du nombre maximum d’apprentis, une succursale est considérée comme entité autonome.\n\nLe nombre maximum d’apprentis peut être augmenté par les chambres professionnelles patronales ou le ministre, en accord avec la chambre professionnelle salariale compétente.",
+      "text_sha256": "14d27d6e3c73a116abfcf90682fb25ca67d6fef3b2c6af3bc904e5ad08269ed4",
+      "md_span": {
+        "start": 1954,
+        "end": 5976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_3/20190916",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre ****1er ** — **Le droit de former un apprenti**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "**(1)** Concernant les métiers et les professions relevant de la Chambre d’agriculture ainsi que les organismes de formation qui ne relèvent pas d’une chambre professionnelle et dont le ministre est responsable, la demande en obtention du droit de former doit contenir des informations sur la nature juridique et l’envergure de l’organisme de formation et préciser les métiers et les professions pour lesquels le droit de former est sollicité.\n\nLa demande doit indiquer le patron formateur et fournir les pièces documentant la qualification professionnelle pour les professions et les métiers pour lesquels le droit de former est sollicité conformément à l’article 2.\n\nPour les formations des professions de santé, le demandeur doit répondre aux conditions d’agrément prévues au règlement grand-ducal du 27 juillet 2003 fixant les conditions d’agrément des terrains de stage pour les formations de certaines professions de santé.\n\n**(2)** Concernant les professions relevant de la Chambre de commerce, la demande en obtention du droit de former doit contenir des informations sur la nature juridique et l’envergure de l’organisme de formation et préciser les professions pour lesquelles le droit de former est sollicité.\n\nLe demandeur doit joindre à sa demande soit une copie de l’autorisation d’établissement conformément à la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel, ainsi qu’à certaines professions libérales, soit une attestation certifiant que l’activité déployée n’est pas soumise à une autorisation par la susdite loi.\n\nLe patron formateur et le tuteur doivent présenter les garanties nécessaires d’honorabilité qui s’apprécient sur base de leurs antécédents judiciaires dont la preuve est apportée par le bulletin du casier judiciaire.\n\nLe demandeur dont l’immatriculation au registre de commerce et des sociétés est requise doit joindre à sa demande un extrait récent dudit registre.\n\nLe demandeur qui exerce une profession libérale organisée au sein d’un ordre professionnel doit joindre à sa demande une preuve de l’inscription à l’ordre professionnel dont il relève.\n\n**(3)** Concernant les métiers et les professions relevant de la Chambre des métiers, l’organisme de formation doit être inscrit au rôle artisanal de la Chambre des métiers.\n\nLe droit de former peut être accordé à toute personne physique ou morale, ainsi qu’à toute autre institution dont le lieu de formation répond aux critères tels que définis pour les organismes de formations inscrits dans le rôle artisanal de la Chambre des métiers.",
+      "text_sha256": "f9ffc6deebe356172c9a31112d705fd43758ae7d72b50b5a219b49786c613eae",
+      "md_span": {
+        "start": 6011,
+        "end": 8599
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2003/07/27/n2/jo",
+          "text": "règlement grand-ducal du 27 juillet 2003"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/09/02/n1/jo",
+          "text": "loi modifiée du 2 septembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_4/20190916",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre ****1er ** — **Le droit de former un apprenti**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "**(1)** L’initiative de retirer le droit de former appartient aux autorités qui l’ont accordé. Le droit de former peut être retiré pour les motifs suivants :\n\n- si les conditions d’honorabilité requises ne sont plus remplies dans le chef du patron formateur ou le tuteur ;\n- si l’organisme de formation n’est plus en mesure de respecter le programme directeur ;\n- si l’attitude ou la tenue générale de l’organisme de formation est de nature à compromettre la formation professionnelle en son sein ;\n- si l’organisme de formation n’est pas en mesure de désigner un nouveau tuteur, conformément aux dispositions de l’article 2 paragraphe 4, alinéa 2 ;\n- en cas de non-respect des obligations découlant du contrat d’apprentissage.\n\n**(2)** La décision de retrait prise par les autorités concernées est notifiée à l’organisme de formation par la chambre professionnelle patronale compétente, respectivement par le ministre pour les organismes de formation qui ne relèvent pas d’une chambre professionnelle. Copie est transmise au Service d’orientation professionnelle de l’Agence pour le développement de l’Emploi, ainsi qu’à la chambre professionnelle salariale compétente.",
+      "text_sha256": "50b2970df962183c1e3b546fe67d58b94b8c9efe48cc41e6e01e8d1c3db06365",
+      "md_span": {
+        "start": 8634,
+        "end": 9804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_5/20190916",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre ****1er ** — **Le droit de former un apprenti**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "Les personnes physiques ou morales titulaires du droit de former au moment de l’entrée en vigueur du présent règlement, disposent d’office du droit de former un apprenti.",
+      "text_sha256": "c8ab6b70e0721797c39ab020286626560c34747bd222a802152891658fa97bda",
+      "md_span": {
+        "start": 9839,
+        "end": 10009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_6/20190916",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Prorogation du contrat d’apprentissage**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "La première prorogation du contrat d’apprentissage pour une durée maximale d’une année est automatiquement accordée si l’élève en a besoin pour terminer sa formation.",
+      "text_sha256": "c540c8596b39f563d59e6a669061da98a5e589e29298f16a4b4601241116de4e",
+      "md_span": {
+        "start": 10108,
+        "end": 10274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_7/20230502",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Prorogation du contrat d’apprentissage**"
+      ],
+      "article_valid_from": "2023-05-02",
+      "text_md": "Au cours du deuxième semestre de l’année scolaire en cours, un formulaire en vue d’une deuxième prorogation du contrat d’apprentissage est transmis par voie postale ou électronique aux apprentis qui ont déjà bénéficié d’une première prorogation de leur contrat d’apprentissage, ainsi qu’à leurs patrons formateurs. Le formulaire comporte les explications quant à la procédure à suivre en vue d’une deuxième prorogation du contrat d’apprentissage. Le formulaire de prorogation doit porter les signatures de l’apprenti et du patron. Le formulaire qui contient les deux signatures vaut acceptation de la deuxième prorogation.\n\nLe formulaire de prorogation est à transmettre à la chambre professionnelle patronale concernée respectivement au ministre pour les formations qui ne relèvent pas d’une chambre professionnelle patronale. La chambre professionnelle patronale respectivement le ministre se chargent d’informer le Service de l’orientation professionnelle de l’Agence pour le Développement de l’Emploi ainsi que la Chambre salariale dans le délai d’un mois à partir de la réception du formulaire.\n\nSi l’élève réussit le projet intégré final, le contrat d’apprentissage prend fin même en cas d’acceptation d’une deuxième prorogation.",
+      "text_sha256": "ddf4b424a868415bf0cb4c156299dcbcb68a206c802495a78a4a3e9a296027e1",
+      "md_span": {
+        "start": 10309,
+        "end": 11544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_8/20190916",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Résiliation du contrat d’apprentissage**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "**(1)** Le contrat d’apprentissage peut être résilié sur initiative d’une des parties au contrat, dans les conditions fixées à l’article L. 111-8 du Code du travail.\n\nÀ cet effet, la partie qui souhaite résilier le contrat d’apprentissage endéans la période d’essai envoie une demande de résiliation écrite au conseiller à l’apprentissage compétent.\n\n**(2)** La demande de résiliation doit énoncer les motifs précis de la résiliation, sauf dans le cas prévu au paragraphe 3 de l’article L. 111-8 du Code du travail. Les motifs invoqués peuvent, le cas échéant, être justifiés par des pièces versées par le demandeur en annexe de sa requête.\n\n**(3)** Le conseiller à l’apprentissage est chargé d’informer l’autre partie au contrat par écrit du droit de prendre position quant à la résiliation demandée. Le défaut d’une réponse écrite endéans un délai de huit jours entraîne la résiliation du contrat d’apprentissage d’un commun accord.\n\nEn cas de contestation endéans le délai de huit jours, les chambres professionnelles ont le choix de procéder, soit à l’organisation d’une conciliation dans un délai de quinze jours calendrier suivant la réception de la contestation, soit de saisir directement la commission des litiges.\n\n**(4)** Au cas où la conciliation entre les parties par le conseiller à l’apprentissage conformément à l’article L. 111-9 du Code du travail aboutit, la demande de résiliation devient, soit caduque et entraîne alors la continuation du contrat, soit est maintenue, entraînant ainsi une résiliation d’un commun accord du contrat d’apprentissage.\n\n**(5)** Un rapport de cette conciliation est envoyé aux chambres professionnelles compétentes, respectivement au ministre pour les organismes de formation qui ne relèvent pas d’une chambre patronale, par le conseiller à l’apprentissage dans les quinze jours calendrier qui suivent la convocation des parties.\n\n**(6)** Lorsque la conciliation relative à ce litige échoue, le conseiller à l’apprentissage en informe la chambre salariale et la chambre patronale compétente, respectivement le ministre. Une réunion de la commission des litiges est organisée par la chambre professionnelle compétente, respectivement le ministre dans les quinze jours calendrier qui suivent la convocation des parties.\n\n**(7)** La commission des litiges, après avoir entendu les parties, émet l’un des avis suivants :\n\n1. Code du travail Le contrat prend alors fin à la date de notification de la lettre de résiliation, sauf dans le cas prévu au point 3 de l’alinéa 2 du paragraphe 1er de l’article L. 111-8 du Code du travail où il prend fin à l’expiration d’un délai de préavis de 15 jours calendrier.\n2. Code du travail\n\n**(8)** Le conseiller à l’apprentissage dresse un rapport de la réunion de la commission des litiges qui en reprend les conclusions et indique l’avis de la commission. Ce rapport est signé par les membres de la commission.\n\n**(9)** L’avis de la commission est communiqué aux parties au contrat par la chambre professionnelle compétente, respectivement le ministre moyennant une lettre recommandée indiquant les motifs de l’avis. Une copie de cette lettre est envoyée aux instances concernées.",
+      "text_sha256": "e8f873843964d9a797e3dee1536657face0d1ef1dc60d5482313e7f5489c1020",
+      "md_span": {
+        "start": 11643,
+        "end": 14807
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_9/20190916",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "Sont abrogés :\n\n1° Le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un apprenti ;\n\n2° le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage.",
+      "text_sha256": "49762e6cd47fbfb7377b0bd3f80df2c4bbb775a675aca0b38c9c3579313be579",
+      "md_span": {
+        "start": 14888,
+        "end": 15142
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/08/03/n5/jo",
+          "text": "règlement grand-ducal du 3 août 2010"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2010/08/03/n4/jo",
+          "text": "règlement grand-ducal du 3 août 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_10/20190916",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "Le présent règlement entre en vigueur au début de l’année scolaire 2019/2020.",
+      "text_sha256": "2d50e49825ad42b62f05721c944439429963f6963dd21bf71c5285f19c0f3492",
+      "md_span": {
+        "start": 15179,
+        "end": 15256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02--8b8ead0923434204face6383ce36a7f7c15190e7e5b849033a8ee338aff23d4b#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/art_11/20190916",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2019-09-16",
+      "text_md": "Notre Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et Notre Ministre du Travail, de l’Emploi et de l’Économie sociale et solidaire sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "f2083bbb48729b1b6264d39cf7c171158ae7347cd45340c99227e080d67a7bda",
+      "md_span": {
+        "start": 15293,
+        "end": 15590
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

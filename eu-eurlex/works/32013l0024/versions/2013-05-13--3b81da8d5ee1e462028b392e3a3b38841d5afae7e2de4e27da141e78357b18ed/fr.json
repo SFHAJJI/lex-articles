@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0024:2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed",
+  "language": "fr",
+  "title": "Council Directive 2013/24/EU of 13\u00A0May 2013 adapting certain directives in the field of co…",
+  "valid_from": "2013-05-13",
+  "valid_to": "2017-07-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0024/versions/2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed/fr.xml",
+    "sha256": "d3e5fe4563e3b133194ff4749fddf50f9d088c5d9f2321f27337d21c19b434e0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0024"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013l0024:2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes directives 78/660/CEE, 83/349/CEE, 2009/101/CE, 2009/102/CE, 2011/35/UE et 2012/30/UE sont modifiées conformément à l'annexe de la présente directive.",
+      "text_sha256": "b43a86d37fe104641f9d860bf9a0971079f2dff383ffce6ef8bcb0d646f5efe2",
+      "md_span": {
+        "start": 708,
+        "end": 879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0024:2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres adoptent et publient, au plus tard à la date d'adhésion de la Croatie à l'Union, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte desdites dispositions.\n\nIls appliquent ces dispositions à compter de la date d'adhésion de la Croatie à l'Union.\n\nLorsque les États membres adoptent ces mesures, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine couvert par la présente directive.",
+      "text_sha256": "22c99e3855ee268691f1acb51e582348739b0f9d6c9533b483af8efaa3a3c2e8",
+      "md_span": {
+        "start": 912,
+        "end": 1746
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0024:2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur sous réserve et à la date de l'entrée en vigueur du traité d'adhésion de la Croatie.",
+      "text_sha256": "09e4a3480a00a4ba1d4b0014b289a1ac48a2a04263e67c9b4b83f4991cc5739b",
+      "md_span": {
+        "start": 1779,
+        "end": 1913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0024:2013-05-13--3b81da8d5ee1e462028b392e3a3b38841d5afae7e2de4e27da141e78357b18ed#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1946,
+        "end": 2019
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

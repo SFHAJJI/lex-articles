@@ -1,0 +1,375 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/454 of 7\u00A0March 2025 laying down the rules for the application of Regulation (EU)\u00A02024/1689",
+  "valid_from": "2025-03-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0454/versions/2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800/en.xml",
+    "sha256": "0e57556e3003c7c4d70b5c95d2927faa994cd95f179aec6413e3c5d3ac58523a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0454"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down rules as regards:\n\n| (a) | the establishment and operation of a scientific panel of independent experts in the field of artificial intelligence; |\n| --- | --- |\n\n| (b) | provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue qualified alerts and to request the assistance of the AI Office for the performance of the tasks of the scientific panel. |\n| --- | --- |",
+      "text_sha256": "b5e62a7c02419faea9a591ef38495a4a2346dec07dd0be31e132ec0b2530b5e6",
+      "md_span": {
+        "start": 746,
+        "end": 1207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe scientific panel of independent experts in the field of artificial intelligence (the ‘scientific panel’) is hereby established.",
+      "text_sha256": "8a729103b5eeaacc70ba3da5cec068cce040b9cd5bbd5f177fc0c6e592f963b2",
+      "md_span": {
+        "start": 1240,
+        "end": 1382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Experts shall be appointed to the scientific panel following a call for expression of interest, based on selection criteria stipulated in that call.\n\n2. For each term of office referred to in Article 4, the number of experts shall be determined by the Commission, in consultation with the European Artificial Intelligence Board (the ‘Board’), and set out in the call for expression of interest referred to in paragraph 1. The number of experts on the scientific panel shall in no case exceed 60.\n\n3. Experts shall be selected with regard to the need to ensure:\n\n| (a) | multidisciplinary and interdisciplinary adequate and up-to-date scientific, technical, or sociotechnical expertise related to artificial intelligence, the impacts of artificial intelligence, or otherwise relevant to the effective enforcement of Regulation (EU) 2024/1689, including expertise pertaining to applied sectors, fundamental rights and equality, as appropriate; |\n| --- | --- |\n\n| (b) | independence from any provider of the AI system or general-purpose AI model as set out in point (b) of Article 68(2) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (c) | impartiality and objectivity as set out in Article 68(4) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (d) | an ability to carry out activities diligently, accurately and objectively. |\n| --- | --- |\n\n4. The Commission shall ensure in the selection of experts that at least one and no more than three nationals from each Member State of the Union and each member of the European Free Trade Association which is a member of the European Economic Area is appointed as experts to the scientific panel, provided that there are applicants from that country who satisfy the criteria stipulated in the call and provided that a sufficiently comprehensive coverage of relevant areas of expertise can be achieved that way. Nationals from Member States of the Union and members of the European Free Trade Association which are members of the European Economic Area shall constitute at least four-fifths of the experts on the scientific panel.\n\n5. The Commission shall ensure to the extent possible gender balance in the selection of experts. To that end, whenever the selection requires a decision between two equally qualified candidates, the Commission shall give preference to the underrepresented gender.\n\n6. Experts who satisfy the criteria stipulated in the call, but who are not appointed to the scientific panel, shall be included in a reserve list of available experts (the ‘reserve list’), which shall be valid for the duration of the term of office of the panel referred to in Article 4.",
+      "text_sha256": "6d40ac7f37cf64486f0f62fe1d7bfa345dcdf61c9054ce5d8e6e3c944faed3b3",
+      "md_span": {
+        "start": 1415,
+        "end": 4058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Experts shall be appointed as members of the scientific panel for a limited term of two years, with the possibility of renewals.\n\n2. Where an expert resigns or no longer fulfils the conditions set out in Articles 10 and 13 of this Regulation or in Article 339 of the Treaty on the Functioning of the European Union, the Commission may dismiss that expert.\n\n3. Where an expert is dismissed during his or her term of office, a replacement for that expert shall be appointed by the Commission for the remainder of the term from the reserve list, or, where necessary, following a call for expression of interest. When appointing a replacement, the Commission shall aim to ensure continuity of expertise, geographic representation and gender balance.",
+      "text_sha256": "4c76d62a3c40b528e50f1454f2b0a758f1fa86dee2e4621794a6f31ed05523cf",
+      "md_span": {
+        "start": 4091,
+        "end": 4850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. At the beginning of each term of office referred to in Article 4, the Commission shall appoint a Chair and a Vice-Chair from among the members of the scientific panel. To that end, the scientific panel shall, acting by simple majority of its members, recommend a Chair and a Vice-Chair from among its members.\n\n2. The term of office of the Chair and Vice-Chair shall follow the term of office of the scientific panel referred to in Article 4 and shall be renewable once. Any replacement of the Chair or Vice-Chair during the term of office shall take place according to the procedure referred to in paragraph 1 and shall be valid for the remainder of the term.",
+      "text_sha256": "d1d680121374503d6e4764ede1e347565b84db1829aa427eba3eb739dc968745",
+      "md_span": {
+        "start": 4883,
+        "end": 5557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The AI Office and the Joint Research Centre shall jointly provide the secretariat (the ‘Secretariat’) for the scientific panel.\n\n2. The Secretariat shall be responsible for providing the necessary support for the efficient functioning of the scientific panel. The Secretariat shall, in particular:\n\n| — | identify and manage potential conflicts of interests; |\n| --- | --- |\n\n| — | monitor compliance with the rules of procedure referred to in Article 8 and compliance with the requests to carry out tasks according to Article 68(3) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| — | process requests from market surveillance authorities to the scientific panel for additional expertise; |\n| --- | --- |\n\n| — | process requests from Member States for support by experts for the purpose of their enforcement of Regulation (EU) 2024/1689 at national level. |\n| --- | --- |",
+      "text_sha256": "67d84985cbf94aa0f3006b67b19d6eb4108f71185c43cbe6a77cc4b110cd4df3",
+      "md_span": {
+        "start": 5590,
+        "end": 6476
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The Commission, in consultation with the Chair, shall appoint members of the scientific panel for the performance of the panel’s tasks on the basis of expertise, availability and other factors relevant for the efficient performance of the task in question, including possible conflicts of interest and security concerns. Members of the scientific panel shall be consulted prior to their potential appointment and shall have the possibility to express interest in the appointment.\n\n2. For each task pursuant to Articles 68(3) of Regulation (EU) 2024/1689, the Commission, in consultation with the Chair, may appoint a rapporteur and two contributors. Members of the scientific panel may at any time decide to prepare qualified alerts pursuant to Article 90 of Regulation (EU) 2024/1689 or other tasks of the scientific panel on their own initiative.\n\n3. Where an expert is no longer able to effectively perform his or her allocated task, the expert shall notify the Commission, who shall appoint another member of the scientific panel in consultation with the Chair under the conditions set out in paragraph 1.\n\n4. Where the Commission appoints an expert from the scientific panel to carry out evaluations on its behalf pursuant to Article 92(2) of Regulation (EU) 2024/1689, the Commission shall assess whether such appointment could affect the ability of the expert to carry out a currently assigned task within the scientific panel independently, impartially and objectively. Where the Commission concludes that such appointment could negatively affect such ability, the expert shall be exempted from the concerned currently assigned task, which shall be allocated to another member of the scientific panel under the conditions set out in paragraph 1.\n\n5. The scientific panel may conduct thematic hearings with stakeholders to gather evidence for the preparation of its tasks pursuant to Article 68(3) and 90 of Regulation (EU) 2024/1689. To that end, the Chair, if at least three members of the panel so request, may ask the Secretariat to organise such hearings. The participation and conclusions of such hearings shall be made publicly available on a dedicated Commission website.",
+      "text_sha256": "7bd3bc9c3e58469cf49c136f7d56dd5846eed44f0a107c7c046d5deb2d988100",
+      "md_span": {
+        "start": 6509,
+        "end": 8709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. On a proposal by and in agreement with the Secretariat, the scientific panel shall adopt rules of procedure by simple majority of its members.\n\n2. The rules of procedure for the scientific panel shall provide, inter alia, for:\n\n| (a) | procedures for carrying out the tasks of the scientific panel as referred to in Article 68(3) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (b) | rules ensuring the application of the principles laid down in Articles 10 to 13 of this Regulation; |\n| --- | --- |\n\n| (c) | rules related to voting, including through silence procedure. |\n| --- | --- |\n\n3. The scientific panel shall, in agreement with the Secretariat, review the rules of procedure at least every two years regarding their contribution to an effective functioning of the scientific panel and, where necessary, update them.\n\n4. The rules of procedure shall be publicly available on a dedicated Commission website.",
+      "text_sha256": "e2dcc2731a870520cf721a9cd4a65e2abbd4855ca1aed38477babd7ddbb8e04e",
+      "md_span": {
+        "start": 8742,
+        "end": 9671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Experts shall be remunerated if they have been appointed as rapporteur or contributor for carrying out tasks of the scientific panel in accordance with the provisions in force at the Commission, where such tasks have been requested by the AI Office pursuant to Article 68(3) of Regulation (EU) 2024/1689.\n\n2. Travel and, where the Secretariat considers appropriate, subsistence expenses of experts in connection with the activities of the scientific panel shall be reimbursed by the Commission in accordance with the provisions in force at the Commission. Those expenses shall be reimbursed within the limits of the available appropriations allocated to the Commission departments under the annual procedure for the allocation of resources.",
+      "text_sha256": "13373bf1b184c55af7a4cf38efde8ee21e71e0e5b476492d965151e415beb612",
+      "md_span": {
+        "start": 9704,
+        "end": 10458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Experts shall be appointed or assigned in their personal capacity. They shall not delegate their responsibilities to any other person.\n\n2. Experts shall be independent from any provider of AI systems or general-purpose AI models within the meaning of Regulation (EU) 2024/1689, requiring that the expert shall be neither an employee nor in a contractual relationship with such a provider throughout the term of office referred to in Article 4, which could affect their independence, impartiality and objectivity.\n\n3. They shall make a declaration of interest indicating any interest which may compromise or may reasonably be perceived to compromise their independence, impartiality and objectivity, including any relevant circumstances relating to their close family members. A template for such declaration of interest shall be provided as an Annex to the call for expression of interest and the declaration of interest shall be submitted as part of the application.\n\n4. Experts shall update their declarations of interest:\n\n| — | prior to the appointment to the scientific panel or prior to inclusion in the reserve list; |\n| --- | --- |\n\n| — | whenever a change of circumstances occurs. |\n| --- | --- |\n\n5. Where the obligations referred to in paragraphs 1 to 4 are not met, the AI Office may take all appropriate measures, including dismissing the expert from the scientific panel.",
+      "text_sha256": "0cc3ade3593b6871acf43e6eda184fce451615fb25c2e1c33e9874ec97c63759",
+      "md_span": {
+        "start": 10493,
+        "end": 11893
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Experts shall commit to acting in the public interest and observing the principles listed in Articles 10 to 13. For that purpose, they shall sign a declaration of commitment.\n\n2. Experts shall respond to requests and other communications from the Chair and from the Secretariat. They shall dedicate the necessary effort to complete the assigned tasks to the best of their ability and within the timelines as described in the rules of procedure referred to in Article 8.",
+      "text_sha256": "d5502736fbebb8ecea2f1375e28a42e71826ce2199249af004eb7e8ef690cac2",
+      "md_span": {
+        "start": 11928,
+        "end": 12412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nThe activities of the scientific panel shall be carried out in a transparent manner. The Secretariat shall make available to the public on a dedicated Commission website, without undue delay:\n\n| — | the names of the experts appointed to the scientific panel; |\n| --- | --- |\n\n| — | the curriculum vitae and the declarations of interests, confidentiality and commitment of experts appointed to the scientific panel; |\n| --- | --- |\n\n| — | the rules of procedure of the scientific panel referred to in Article 8; |\n| --- | --- |\n\n| — | opinions or recommendations provided in the fulfilment of tasks pursuant to Article 68(3) of Regulation (EU) 2024/1689, except where this would entail the disclosure of confidential business information, trade secrets or strategic interests of the Union; |\n| --- | --- |\n\n| — | the participation and conclusions to thematic hearings referred to in Article 7(4). |\n| --- | --- |",
+      "text_sha256": "b07e08a4e478832e322f2863119988c427dc5b92cc98935bb7b23babb751b43f",
+      "md_span": {
+        "start": 12447,
+        "end": 13370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Experts shall not divulge any information of a confidential nature that they have acquired as part of their work in the scientific panel or as a result of other activities governed by this Regulation. For that purpose, they shall sign a declaration of confidentiality.\n\n2. Experts shall comply with Article 339 of the Treaty on the Functioning of the European Union.\n\n3. Experts shall comply with the rules on confidentiality regarding the protection of Union classified information and sensitive non-classified information, laid down in Commission Decisions (EU, Euratom) 2015/443 (3) and (EU, Euratom) 2015/444 (4).\n\n4. Where the obligations referred to in paragraphs 1, 2 and 3 are not met, the Commission may take all appropriate measures, including dismissing the expert from the scientific panel.",
+      "text_sha256": "b9998bdefd57916e2ca2ba527e8dd30bb1c47ac66b8ac04f05bb3a0b10181585",
+      "md_span": {
+        "start": 13405,
+        "end": 14222
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_202500454EN.000101-E0003",
+          "text": "(3)"
+        },
+        {
+          "href": "#ntr4-L_202500454EN.000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The AI Office shall provide for practical means for market surveillance authorities to request assistance from the scientific panel for their market surveillance activities under Regulation (EU) 2024/1689.\n\n2. Any request for support from the scientific panel shall clearly state the purpose of the requested assistance and shall only be made in relation to market surveillance activities under Regulation (EU) 2024/1689 and substantiate the necessity and proportionality of requesting the assistance of the scientific panel.\n\n3. The AI Office shall evaluate the necessity and proportionality of the request for support, taking into account the available capacity of the scientific panel and the necessity of ensuring effective access to experts for all Member States.\n\n4. Where the AI Office, following the assessment referred to in paragraph 3, concludes that the request is necessary and proportionate, the Commission shall appoint a rapporteur and two contributors for the task in accordance with Article 7.\n\n5. Where the AI Office ascertains that the requested support is not necessary and proportionate, it shall notify the requesting market surveillance authority, stating the reasons for refusal.\n\n6. The AI Office shall process the request within two weeks from the receipt of the full request. At any time before taking its decision, the AI Office may require the requesting market surveillance authority to provide additional information to substantiate the request. In this case the request shall not be considered complete until the additional information has been provided.",
+      "text_sha256": "f18b7b0fd30e23976db3abb143b0cee8d8ff4a63e904ae34766577f1a7db10b9",
+      "md_span": {
+        "start": 14257,
+        "end": 15859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Where the scientific panel requests, in accordance with Article 91(3) of Regulation (EU) 2024/1689, the Commission to issue a request for documentation or information to a provider of general-purpose AI models and to grant access to the information received to the extent this is necessary and proportionate for the fulfilment of a task referred to in Article 68(3) of Regulation (EU) 2024/1689 (‘request for assistance’), due regard shall be given to the need to protect trade secrets and confidential business information.\n\n2. A request for assistance may be issued to the AI Office by the member of the scientific panel who has been appointed by the Secretariat as rapporteur for a task of the scientific panel. Such a request shall only be made where at least one third of the members of the scientific panel have authorised the rapporteur to do so.\n\n3. The request for assistance shall clearly state the name of the requesting rapporteur and contributors and the purpose of the requested assistance and shall only be made for the fulfilment of the tasks of the scientific panel under Article 68(3) of Regulation (EU) 2024/1689. To demonstrate the necessity and proportionality of such a request, as required by Article 91(3) of Regulation (EU) 2024/1689, the request shall substantiate:\n\n| (a) | that a refusal to grant the requested assistance will prevent the requesting rapporteur from carrying out his or her task referred to in Article 68(3) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (b) | that the amount, scope, granularity and type of documentation and information requested does not exceed what is necessary to achieve performance of the task. |\n| --- | --- |",
+      "text_sha256": "b9e1ae85bfa782af6e560c5615b6416cdb39c19258d0b4aeaef28950b77b3a7f",
+      "md_span": {
+        "start": 15894,
+        "end": 17589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. The AI Office shall assess whether issuing a request for documentation or information to a provider of a general-purpose AI model is necessary and proportionate for the fulfilment of the tasks of the scientific panel, taking into account the need to protect trade secrets and confidential business information.\n\n2. Where the AI Office, following the assessment referred to in paragraph 1, concludes that a request for assistance is necessary and proportionate, it may prepare a decision for the Commission to issue a request for documentation or information to a provider of a general-purpose AI model pursuant to Article 91 of Regulation (EU) 2024/1689 and grant the scientific panel access to the received documentation or information.\n\n3. Where the AI Office ascertains that the requested assistance is not necessary and proportionate, it shall notify the scientific panel, stating the reasons for refusal.\n\n4. The AI Office shall regularly report to the Board about the requests received and the decisions taken in relation to those requests.\n\n5. The AI Office shall process the request within two weeks from the receipt of the complete request. At any time before taking its decision, the AI Office may require the requesting member of the scientific panel to provide additional information to substantiate the request. In this case the request shall not be considered complete until the additional information has been provided.",
+      "text_sha256": "0b95fdfad7bdae3648dd2f9804df19fe6ddbf80731e52daa8d08b495f2f8aadc",
+      "md_span": {
+        "start": 17624,
+        "end": 19073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. The AI Office shall provide secure means through which it can make available the received documentation or information, which the Commission has requested following a request for assistance, to the requesting rapporteur of the scientific panel.\n\n2. Access to the requested information shall be restricted to the appointed rapporteur and contributors and shall be limited in time, with the possibility for extension upon duly justified request.\n\n3. Before granting access to the received documentation or information, the AI Office shall require that the rapporteur submits:\n\n| (a) | a self-declaration to use the information solely for the stated purposes referred to in Article 15(3) of this Regulation; |\n| --- | --- |\n\n| (b) | a description of modalities and safeguards to ensure confidential handling of the received information. |\n| --- | --- |\n\n4. The AI Office shall be able to refuse access to the requested data, where on the basis of the information submitted pursuant to paragraph 3, it has grounds to assume that there are reasonably foreseeable risks related to data security or confidentiality.",
+      "text_sha256": "d2b936a8935ee6e68b2bf5532602447c013a758733bbb40b087a3367641576ed",
+      "md_span": {
+        "start": 19108,
+        "end": 20231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. A decision by at least a simple majority of the members of the scientific panel shall be necessary to issue a qualified alert to the AI Office pursuant to Article 90(1) of Regulation (EU) 2024/1689. The scientific panel may introduce more specific procedures in its rules of procedure referred to in Article 8.\n\n2. Qualified alerts shall be duly reasoned and contain at least the information set out in Article 90(3) of Regulation (EU) 2024/1689.\n\n3. The AI Office shall provide a dedicated interface for the secure transmission of qualified alerts. This interface shall contain at least the following functionalities:\n\n| (a) | sending qualified alerts pursuant to Article 90(1) of Regulation (EU) 2024/1689; |\n| --- | --- |\n\n| (b) | withdrawing qualified alerts, correcting information contained in qualified alerts, and modifying qualified alerts; |\n| --- | --- |\n\n| (c) | closing qualified alerts. |\n| --- | --- |",
+      "text_sha256": "c697276f4b58b1243b7ccd032e3c092bf5f75c53e2f51acfc7bdf570b0c907f1",
+      "md_span": {
+        "start": 20266,
+        "end": 21197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. The AI Office shall evaluate the qualified alerts issued pursuant to Article 90(1) of Regulation (EU) 2024/1689 and take a decision whether to launch any measures as provided for in Articles 91 to 93 of that Regulation. Where the AI Office decides not to launch any measures as provided for in Articles 91 to 93, it shall close the qualified alert.\n\n2. The AI Office shall process the qualified alert within two weeks from the receipt of the complete qualified alert. At any time before taking its decision, the AI Office may require the requesting member of the scientific panel to provide additional information to substantiate the request. In this case the qualified alert shall not be considered complete until the additional information has been provided.\n\n3. Before launching the measures referred to in paragraph 1, the AI Office shall inform the Board in accordance with Article 90(2) of Regulation (EU) 2024/1689.\n\n4. Where the AI Office decides to launch a measure pursuant to Articles 91 to 93 of Regulation (EU) 2024/1689, the Secretariat, in consultation with the Chair of the scientific panel shall appoint a rapporteur and two contributors responsible to advise the Commission in the adoption of the measures.",
+      "text_sha256": "078f6ab8c229fb141f869abf5560942eaf4476d4979f737f8d92b9bc9759c68e",
+      "md_span": {
+        "start": 21232,
+        "end": 22471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32025r0454:2025-03-07--9c5314efb2781fb1411b74ef49306d311566aa17386ba6a32abc7967e1f65800#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "de481a80b6bf26f25a8021ec10db5bb88db482f44adb6a149778cf4d7c78a9d2",
+      "md_span": {
+        "start": 22506,
+        "end": 22658
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

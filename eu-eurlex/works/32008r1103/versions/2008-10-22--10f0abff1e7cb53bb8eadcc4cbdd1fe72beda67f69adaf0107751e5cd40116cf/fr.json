@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r1103:2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf",
+  "language": "fr",
+  "title": "Regulation (EC) No 1103/2008",
+  "valid_from": "2008-10-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r1103/versions/2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf/fr.xml",
+    "sha256": "a0e59e9645e4fc587bf7a7afa07a16eaa55ab9b6699b9fd4d2f8dac07e3b71c0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R1103"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008r1103:2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nDans le présent règlement, on entend par «État membre» tous les États membres à l'exception du Danemark.",
+      "text_sha256": "caf501d57c26b0d54e7525f8578514565676140434577c754c3687f545591648",
+      "md_span": {
+        "start": 639,
+        "end": 760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r1103:2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes actes dont la liste figure à l'annexe sont adaptés, conformément à ladite annexe, à la décision 1999/468/CE, telle que modifiée par la décision 2006/512/CE.",
+      "text_sha256": "af552a8efaec82909438eab5236b54fe5c3e78493dfd48fdab2242b324bbaadd",
+      "md_span": {
+        "start": 793,
+        "end": 964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r1103:2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes références faites aux dispositions des actes dont la liste figure à l'annexe s'entendent comme faites à ces dispositions telles qu'adaptées par le présent règlement.",
+      "text_sha256": "0725dc2cc4d3223f8c12cf471130eb5a7c45a8bb1bab0338947bed558b832341",
+      "md_span": {
+        "start": 997,
+        "end": 1177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32008r1103:2008-10-22--10f0abff1e7cb53bb8eadcc4cbdd1fe72beda67f69adaf0107751e5cd40116cf#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "6229ea20ae69931b41c4c86108df961b31bc79d879a770b1657ed4c7decd8f7b",
+      "md_span": {
+        "start": 1210,
+        "end": 1351
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

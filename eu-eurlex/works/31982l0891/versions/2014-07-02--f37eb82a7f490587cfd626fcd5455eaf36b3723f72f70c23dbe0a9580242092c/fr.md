@@ -1,0 +1,409 @@
+---
+lex_id: 'eu-eurlex:31982l0891:2014-07-02--f37eb82a7f490587cfd626fcd5455eaf36b3723f72f70c23dbe0a9580242092c'
+title: 'Sixth Council Directive 82/891/EEC of 17 December 1982 based on Article 54 (3) (g) of the …'
+valid_from: '2014-07-02'
+valid_to: '2017-07-19'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01982L0891-20140702'
+source_sha256: '2e6f81e9869a280a50c156e1275b1ac9e4f07e2c2183d5a04ebb0954bf2c01ec'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier
+
+1. Lorsque les États membres permettent, pour les sociétés relevant de leur législation et visées à l'article 1er paragraphe 1 de la directive 78/855/ CEE, l'opération de scission par absorption définie à l'article 2 de la présente directive, ils soumettent cette opération aux dispositions du chapitre Ier de cette dernière directive.
+
+2. Lorsque les États membres permettent, pour les sociétés indiquées au paragraphe 1, l'opération de scission par constitution des nouvelles sociétés, définie à l'article 21, ils soumettent cette opération aux dispositions du chapitre II.
+
+3. Lorsque les États membres permettent, pour les sociétés indiquées au paragraphe 1, l'opération par laquelle une scission par absorption, définie à l'article 2 paragraphe 1, est combinée avec une scission par constitution d'une ou de plusieurs nouvelles sociétés définie à l'article 21 paragraphe 1, ils soumettent cette opération aux dispositions du chapitre Ier et à l'article 22.
+
+4. L’article 1er, paragraphes 2, 3 et 4, de la directive 2011/35/UE du Parlement européen et du Conseil (10) s’applique.
+
+## CHAPITRE PREMIER
+
+### Scission par absorption
+
+<a id="art_2"></a>
+
+### Article 2
+
+1. Au sens de la présente directive, est considérée comme scission par absorption l'opération par laquelle, par suite de sa dissolution sans liquidation, une société transfère à plusieurs sociétés l'ensemble de son patrimoine, activement et passivement, moyennant l'attribution aux actionnaires de la société scindée d'actions des sociétés bénéficiaires des apports résultant de la scission, ci-après dénommées «sociétés bénéficiaires», et, éventuellement, d'une soulte en espèces ne dépassant pas 10 % de la valeur nominale des actions attribuées ou, à défaut de valeur nominale, de leur pair comptable.
+
+2. L'article 3 paragraphe 2 de la directive 78/855/ CEE s'applique.
+
+3. Pour autant que la présente directive renvoie a la directive 78/855/CEE, l'expression «sociétés qui fusionnent» désigne les sociétés participant à la scission, l'expression «société absorbée» désigne la société scindée, l'expression «société absorbante» désigne chacune des sociétés bénéficiaires et l'expression «projet de fusion» désigne le projet de scission.
+
+<a id="art_3"></a>
+
+### Article 3
+
+1. Les organes d'administration ou de direction des sociétés participant à la scission établissent par écrit un projet de scission.
+
+2. Le projet de scission mentionne au moins:
+
+a) la forme, la dénomination et le siège social des sociétés participant à la scission;
+
+b) le rapport d'échange des actions et, le cas échéant, le montant de la soulte;
+
+c) les modalités de remise des actions des sociétés bénéficiaires;
+
+d) la date à partir de laquelle ces actions donnent le droit de participer aux bénéfices ainsi que toute modalité particulière relative à ce droit;
+
+e) la date à partir de laquelle les opérations de la société scindée sont considérées du point de vue comptable comme accomplies pour le compte de l'une ou l'autre des sociétés bénéficiaires;
+
+f) les droits assurés par les sociétés bénéficiaires aux actionnaires ayant des droits spéciaux et aux porteurs de titres autres que des actions ou les mesures proposées à leur égard;
+
+g) tous avantages particuliers attribués aux experts au sens de l'article 8 paragraphe 1, ainsi qu'aux membres des organes d'administration, de direction, de surveillance ou de contrôle des sociétés participant à la scission;
+
+h) la description et la répartition précises des éléments du patrimoine actif et passif à transférer à chacune des sociétés bénéficiaires;
+
+i) la répartition aux actionnaires de la société scindée des actions des sociétés bénéficiaires, ainsi que le critère sur lequel cette répartition est fondée.
+
+3.
+
+a) Lorsqu'un élément du patrimoine actif n'est pas attribué dans le projet de scission et que l'interprétation de celui-ci ne permet pas de décider de sa répartition, cet élément ou sa contre-valeur est réparti entre toutes les sociétés bénéficiaires de manière proportionnelle à l'actif attribué à chacune de celles-ci dans le projet de scission.
+
+b) Lorsqu'un élément du patrimoine passif n'est pas attribué dans le projet de scission et que l'interprétation de celui-ci ne permet pas de décider de sa répartition, chacune des sociétés bénéficiaires en est solidairement responsable. Les États membres peuvent prévoir que cette responsabilité solidaire est limitée à l'actif net attribué à chaque bénéficiaire.
+
+<a id="art_4"></a>
+
+### Article 4
+
+Le projet de scission doit faire l'objet d'une publicité effectuée selon les modes prévus par la législation de chaque État membre, conformément à l'article 3 de la directive 68/151/CEE (11), pour chacune des sociétés participant à la scission, un mois au moins avant la date de la réunion de l'assemblée générale appelée à se prononcer sur le projet de scission.
+
+Toute société participant à la scission est dispensée de l’obligation de publicité prévue par l’article 3 de la directive 68/151/CEE si, pendant une période continue commençant un mois au moins avant la date fixée pour l’assemblée générale appelée à se prononcer sur le projet de scission et ne s’achevant pas avant la fin de cette assemblée, elle met gratuitement à la disposition du public ce projet de scission sur son site internet. Les États membres ne soumettent pas cette dispense à d’autres exigences ou contraintes que celles qui sont nécessaires pour garantir la sécurité du site internet et l’authenticité des documents et ils ne peuvent imposer de telles exigences ou contraintes que dans la mesure où elles sont proportionnées à la réalisation de ces objectifs.
+
+Par dérogation au deuxième alinéa, les États membres peuvent exiger que la publicité soit assurée au moyen de la plate-forme électronique centrale visée à l’article 3, paragraphe 4, de la directive 68/151/CEE. Les États membres peuvent, en tant que méthode de remplacement, demander que cette publicité soit effectuée sur un autre site internet désigné par eux à cet effet. Lorsqu’ils ont recours à l’une de ces possibilités, les États membres veillent à ce qu’il ne soit pas demandé aux sociétés d’acquitter des frais spécifiques pour cette publicité.
+
+En cas d’utilisation d’un autre site internet que la plate-forme électronique centrale, une référence permettant d’accéder à ce site internet est publiée sur la plate-forme électronique centrale, au moins un mois avant la date fixée pour l’assemblée générale. Ladite référence inclut la date de publication du projet de scission sur le site internet et est accessible gratuitement au public. Il n’est pas demandé aux sociétés d’acquitter des frais spécifiques pour cette publicité.
+
+L’interdiction de demander aux sociétés d’acquitter des frais spécifiques pour la publicité, prévue aux troisième et quatrième alinéas, ne porte pas atteinte à la faculté qu’ont les États membres de répercuter sur les sociétés les coûts liés à la plate-forme électronique centrale.
+
+Les États membres peuvent exiger des sociétés qu’elles maintiennent ces informations, pendant une certaine période après l’assemblée générale, sur leur site internet ou, le cas échéant, sur la plate-forme électronique centrale ou l’autre site internet désigné par l’État membre concerné. Les États membres peuvent déterminer les conséquences d’une interruption temporaire, pour des raisons techniques ou autres, de l’accès au site internet ou à la plate-forme électronique centrale.
+
+<a id="art_5"></a>
+
+### Article 5
+
+1. La scission requiert au moins l'approbation de l'assemblée générale de chacune des sociétés à la scission. L'article 7 de la directive 78/855/CEE s'applique en ce qui concerne la majorité requise pour ces décisions, la portée de celles-ci ainsi que la nécessité d'un vote séparé.
+
+2. Lorsque les actions des sociétés bénéficiaires sont attribuées aux actionnaires de la société scindée non proportionnellement à leurs droits dans le capital de cette société, les États membres peuvent prévoir que les actionnaires minoritaires de celle-ci peuvent exercer le droit de faire acquérir leurs actions. Dans ce cas, ils ont le droit d'obtenir une contrepartie correspondant à la valeur de leurs actions. En cas de désaccord sur cette contrepartie, celle-ci doit pouvoir être déterminée par un tribunal.
+
+<a id="art_6"></a>
+
+### Article 6
+
+La législation d'un État membre peut ne pas imposer l'approbation de la scission par l'assemblée générale d'une société bénéficiaire si les conditions suivantes sont remplies:
+
+a) la publicité prescrite à l'article 4 est faite, pour la société bénéficiaire, un mois au moins avant la date de la réunion de l'assemblée générale de la société scindée appelée à se prononcer sur le projet de scission;
+
+b) tous les actionnaires de la société bénéficiaire ont le droit, un mois au moins avant la date indiquée au point a), de prendre connaissance, au siège social de cette société, des documents indiqués à l'article 9 paragraphe 1;
+
+c) un ou plusieurs actionnaires de la société bénéficiaire disposant d'actions pour un pourcentage minimal du capital souscrit doivent avoir le droit d'obtenir la convocation d'une assemblée générale de la société bénéficiaire appelée à se prononcer sur l'approbation de la scission. Ce pourcentage minimal ne peut être fixé à plus de 5 %. Toutefois, les États membres peuvent prévoir que les actions sans droit de vote sont exclues du calcul de ce pourcentage.
+
+Aux fins du premier alinéa, point b), l’article 9, paragraphes 2, 3 et 4, est applicable.
+
+<a id="art_7"></a>
+
+### Article 7
+
+1. Les organes d'administration ou de direction de chacune des sociétés participant à la scission établissent un rapport écrit détaillé expliquant et justifiant du point de vue juridique et économique le projet de scission et, en particulier, le rapport d'échange des actions ainsi que le critère pour leur répartition.
+
+2. Le rapport indique en outre les difficultés particulières d'évaluation, s'il en existe.
+
+Le cas échéant, il mentionne l’établissement du rapport sur la vérification des apports autres qu’en numéraire, visé à l’article 27, paragraphe 2, de la directive 77/91/CEE, pour les sociétés bénéficiaires, ainsi que le registre auprès duquel ce rapport doit être déposé.
+
+3. Les organes de direction ou d'administration de la société scindée sont tenus d'informer l'assemblée générale de la société scindée ainsi que les organes de direction ou d'administration des sociétés bénéficiaires pour qu'ils informent l'assemblée générale de leur société de toute modification importante du patrimoine actif et passif intervenue entre la date de l'établissement du projet de scission et la date de la réunion de l'assemblée générale de la société scindée appelée à se prononcer sur le projet de scission.
+
+<a id="art_8"></a>
+
+### Article 8
+
+1. Pour chacune des sociétés participant à la scission, un ou plusieurs experts indépendants de celles-ci, désignés ou agréés par une autorité judiciaire ou administrative, examinent le projet de scission et établissent un rapport écrit destiné aux actionnaires. Toutefois, la législation d'un État membre peut prévoir la désignation d'un ou de plusieurs experts indépendants pour toutes les sociétés participant à la scission, si cette désignation, sur demande conjointe de ces sociétés, est faite par une autorité judiciaire ou administrative. Ces experts peuvent être, selon la législation de chaque État membre, des personnes physiques ou morales ou des sociétés.
+
+2. L'article 10 paragraphes 2 et 3 de la directive 78/855/CEE s'applique.
+
+<a id="art_9"></a>
+
+### Article 9
+
+1. Tout actionnaire a le droit, un mois au moins avant la date de la réunion de l'assemblée générale appelée à se prononcer sur le projet de scission, de prendre connaissance, au siège social, au moins des documents suivants:
+
+a) le projet de scission;
+
+b) les comptes annuels ainsi que les rapports de gestion des trois derniers exercices des sociétés participant à la scission;
+
+c) le cas échéant, un état comptable arrêté à une date qui ne doit pas être antérieure au premier jour du troisième mois précédant la date du projet de scission au cas où les derniers comptes annuels se rapportent à un exercice dont la fin est antérieure de plus de six mois à cette date;
+
+d) le cas échéant, les rapports des organes d’administration ou de direction des sociétés participant à la scission, mentionnés à l’article 7, paragraphe 1;
+
+e) le cas échéant, les rapports visés à l’article 8.
+
+Aux fins du premier alinéa, point c), un état comptable n’est pas requis si la société publie un rapport financier semestriel conformément à l’article 5 de la directive 2004/109/CE et le met à la disposition des actionnaires conformément au présent paragraphe.
+
+2. L'état comptable prévu au paragraphe 1 point c) est établi selon les mêmes méthodes et suivant la même présentation que le dernier bilan annuel.
+
+Toutefois, la législation d'un État membre peut prévoir:
+
+a) qu'il n'est pas nécessaire de procéder à un nouvel inventaire réel;
+
+b) que les évaluations figurant au dernier bilan ne sont modifiées qu'en fonction des mouvements d'écriture; cependant, il sera tenu compte:
+
+— des amortissements et provisions intérimaires,
+
+— des changements importants de valeur réelle n'apparaissant pas dans les écritures.
+
+3. Copie intégrale ou, s'il le désire, partielle des documents visés au paragraphe 1 peut être obtenue par tout actionnaire sans frais et sur simple demande-
+
+Lorsqu’un actionnaire a consenti à l’utilisation, par la société, de moyens électroniques pour la communication des informations, les copies peuvent être fournies par courrier électronique.
+
+4. Une société est dispensée de l’obligation de mettre à disposition les documents visés au paragraphe 1 à son siège social si, pendant une période continue commençant un mois au moins avant le jour fixé pour la réunion de l’assemblée générale appelée à se prononcer sur le projet de scission et ne s’achevant pas avant la fin de cette assemblée, elle les met à disposition sur son site internet. Les États membres ne soumettent pas cette dispense à d’autres exigences ou contraintes que celles qui sont nécessaires pour garantir la sécurité du site internet et l’authenticité des documents et ils ne peuvent imposer de telles exigences ou contraintes que dans la mesure où elles sont proportionnées à la réalisation de ces objectifs.
+
+Le paragraphe 3 ne s’applique pas si le site internet donne aux actionnaires, pendant toute la période visée au premier alinéa du présent paragraphe, la possibilité de télécharger et d’imprimer les documents visés au paragraphe 1. Toutefois, dans ce cas, les États membres peuvent prévoir que la société doit mettre à disposition ces documents à son siège social, où ils pourront être consultés par les actionnaires.
+
+Les États membres peuvent exiger des sociétés qu’elles maintiennent ces informations sur leur site internet pendant une certaine période après l’assemblée générale. Les États membres peuvent déterminer les conséquences d’une interruption temporaire, pour des raisons techniques ou autres, de l’accès au site internet.
+
+<a id="art_10"></a>
+
+### Article 10
+
+1. Ni un examen du projet de scission ni un rapport d’expert, tel qu’il est prévu à l’article 8, paragraphe 1, ne sont requis, si tous les actionnaires et les porteurs des autres titres conférant un droit de vote de chacune des sociétés participant à la scission en ont décidé ainsi.
+
+2. Les États membres peuvent permettre que l’article 7 et l’article 9, paragraphe 1, points c) et d), ne s’appliquent pas, si tous les actionnaires et les porteurs des autres titres conférant un droit de vote de chacune des sociétés participant à la scission y ont renoncé.
+
+<a id="art_11"></a>
+
+### Article 11
+
+La protection des droits des travailleurs de chacune des sociétés participant à la scission est organisée conformément à la directive 77/187/CEE (12).
+
+<a id="art_12"></a>
+
+### Article 12
+
+1. Les législations des États membres doivent prévoir un système de protection adéquat des intérêts des créanciers des sociétés participant à la scission pour les créances nées antérieurement à la publication du projet de scission et non encore échues au moment de cette publication.
+
+2. À cet effet, les législations des États membres prévoient au moins que ces créanciers ont le droit d’obtenir des garanties adéquates lorsque la situation financière de la société scindée ainsi que celle de la société à laquelle l’obligation sera transférée conformément au projet de scission rend cette protection nécessaire et que ces créanciers ne disposent pas déjà de telles garanties.
+
+Les États membres fixent les conditions de la protection prévue au paragraphe 1 et au premier alinéa du présent paragraphe. En tout état de cause, les États membres veillent à ce que les créanciers puissent saisir l’autorité administrative ou judiciaire compétente pour obtenir des garanties adéquates, dès lors qu’ils peuvent démontrer, de manière crédible, que la scission constitue un risque pour l’exercice de leurs droits et que la société ne leur a pas fourni de garanties adéquates.
+
+3. Dans la mesure où un créancier de la société à laquelle l'obligation a été transférée conformément au projet de scission n'a pas eu satisfaction, les sociétés bénéficiaires sont tenues solidairement pour cette obligation. Les États membres peuvent limiter cette responsabilité à l'actif net attribué à chacune de ces sociétés autres que celle à laquelle l'obligation a été transférée. Ils peuvent ne pas appliquer le présent paragraphe lorsque l'opération de scission est soumise au contrôle d'une autorité judiciaire conformément à l'article 23 et qu'une majorité des créanciers, représentant les trois quarts du montant des créances, ou une majorité d'une catégorie de créanciers de la société scindée, représentant les trois quarts du montant des créances de cette catégorie, a renoncé à faire valoir cette responsabilité solidaire lors d'une assemblée tenue conformément à l'article 23 paragraphe 1 point c).
+
+4. L'article 13 paragraphe 3 de la directive 78/ 855/CEE s'applique.
+
+5. Sans préjudice des règles relatives à l'exercice collectif de leurs droits, il est fait application des paragraphes 1 à 4 aux obligataires des sociétés participant à la scission, sauf si la scission a été approuvée par une assemblée des obligataires, lorsque la loi nationale prévoit une telle assemblée, ou par les obligataires individuellement.
+
+6. Les États membres peuvent prévoir que les sociétés bénéficiaires sont tenues solidairement pour les obligations de la société scindée. Dans ce cas, ils peuvent ne pas appliquer les paragraphes précédents.
+
+7. Lorsqu'un État membre combine le système de protection des créanciers visé aux paragraphes 1 à 5 avec la responsabilité solidaire des sociétés bénéficiaires visée au paragraphe 6, il peut limiter cette responsabilité à l'actif net attribué à chacune de ces sociétés.
+
+<a id="art_13"></a>
+
+### Article 13
+
+Les porteurs de titres, autres que des actions, auxquels sont attachés des droits spéciaux doivent jouir, au sein des sociétés bénéficiaires contre lesquelles ces titres peuvent être invoqués conformément au projet de scission, de droits au moins équivalents à ceux dont ils jouissaient dans la société scindée, sauf si la modification de ces droits a été approuvée par une assemblée des porteurs de ces titres, lorsque la loi nationale prévoit un telle assemblée, ou par les porteurs de ces titres individuellement, ou encore si ces porteurs ont le droit d'obtenir le rachat de leurs titres.
+
+<a id="art_14"></a>
+
+### Article 14
+
+Si la législation d'un État membre ne prévoit pas pour les scissions un contrôle préventif judiciaire ou administratif de légalité, ou que ce contrôle ne porte pas sur tous les actes nécessaires à la scission, l'article 16 de la directive 78/855/CEE s'applique.
+
+<a id="art_15"></a>
+
+### Article 15
+
+Les législations des États membres déterminent la date à laquelle la scission prend effet.
+
+<a id="art_16"></a>
+
+### Article 16
+
+1. La scission doit faire l'objet d'une publicité effectuée selon les modes prévus par la législation de chaque État membre conformément à l'article 3 de la directive 68/151 /CEE pour chacune des sociétés participant à la scission.
+
+2. Toute société bénéficiaire peut procéder elle-même aux formalités de publicité concernant la société scindée.
+
+<a id="art_17"></a>
+
+### Article 17
+
+1. La scission entraîne *ipso jure* et simultanément les effets suivants:
+
+a) la transmission, tant entre la société scindée et les sociétés bénéficiaires qu'à l'égard des tiers, de l'ensemble du patrimoine actif et passif de la société scindée aux sociétés bénéficiaires; cette transmission s'effectue par parties conformément à la répartition prévue au projet de scission ou à l'article 3 paragraphe 3;
+
+b) les actionnaires de la société scindée deviennent actionnaires d'une ou des sociétés bénéficiaires, conformément à la répartition prévue au projet de scission;
+
+c) la société scindée cesse d'exister.
+
+2. Aucune action d'une société bénéficiaire n'est échangée contre les actions de la société scindée détenues:
+
+a) soit par cette société bénéficiaire elle-même ou par une personne agissant en son nom propre mais pour le compte de la société;
+
+b) soit par la société scindée elle-même ou par une personne agissant en son nom propre mais pour le compte de la société.
+
+3. Il n'est pas porté atteinte aux législations des États membres qui requièrent des formalités particulières pour l'opposabilité aux tiers du transfert de certains biens, droits et obligations apportés par la société scindée. La ou les sociétés bénéficiaires auxquelles ces biens, droits ou obligations sont transférés conformément au projet de scission ou à l'article 3 paragraphe 3 peuvent procéder ellesmêmes à ces formalités; toutefois, la législation des États membres peut permettre à la société scindée de continuer à procéder à ces formalités pendant une période limitée qui ne peut être fixée, sauf cas exceptionnels, à plus de six mois après la date à laquelle la scission prend effet.
+
+<a id="art_18"></a>
+
+### Article 18
+
+Les législations des États membres organisent au moins la responsabilité civile, envers les actionnaires de la société scindée, des membres de l'organe d'administration ou de direction de cette société à raison des fautes commises par des membres de cet organe lors de la préparation et de la réalisation de la scission, ainsi que la responsabilité civile des experts chargés d'établir pour cette société le rapport prévu à l'article 8 à raison des fautes commises par ces experts dans l'accomplissement de leur mission.
+
+<a id="art_19"></a>
+
+### Article 19
+
+1. Les législations des États membres ne peuvent organiser le régime des nullités de la scission que dans les conditions suivantes:
+
+a) la nullité doit être prononcée par décision judiciaire;
+
+b) la nullité d'une scission qui a pris effet au sens de l'article 15 ne peut être prononcée si ce n'est pour défaut soit de contrôle préventif judiciaire ou administratif de légalité, soit d'acte authentique, ou bien s'il est établi que la décision de l'assemblée générale est nulle ou annulable en vertu du droit national;
+
+c) l'action en nullité ne peut plus être intentée après l'expiration d'un délai de six mois à compter de la date à laquelle la scission est opposable à celui qui invoque la nullité, ou bien si la situation a été régularisée;
+
+d) lorsqu'il est possible de porter remède à l'irrégularité susceptible d'entraîner la nullité de la scission, le tribunal compétent accorde aux sociétés intéressées un délai pour régulariser la situation;
+
+e) la décision prononçant la nullité de la scission fait l'objet d'une publicité effectuée selon les modes prévus par la législation de chaque État membre conformément à l'article 3 de la directive 68/151 /CEE;
+
+f) la tierce opposition, lorsque la législation d'un État membre la prévoit, n'est plus recevable après l'expiration d'un délai de six mois à compter de la publicité de la décision effectuée selon la directive 68/151/CEE;
+
+g) la décision prononçant la nullité de la scission ne porte pas atteinte par elle-même à la validité des obligations nées à la charge ou au profit des sociétés bénéficiaires, antérieurement à la publicité de la décision et postérieurement à la date visée à l'article 15;
+
+h) chacune des sociétés bénéficiaires répond des obligations à sa charge nées après la date à laquelle la scission a pris effet et avant la date à laquelle la décision prononçant la nullité de la scission a été publiée. La société scindée répond aussi de ces obligations; les États membres peuvent prévoir que cette responsabilité est limitée à l'actif net attribué à la société bénéficiaire à la charge de laquelle ces obligations sont nées.
+
+2. Par dérogation au paragraphe 1 point a), la législation d'un État membre peut aussi faire prononcer la nullité de la scission par une autorité administrative si un recours contre une telle décision peut être intenté devant une autorité judiciaire. Les points b), d), e), f), g) et h) s'appliquent par analogie à l'autorité administrative. Cette procédure de nullité ne peut plus être engagée après l'expiration d'un délai de six mois à compter de la date visée à l'article 15.
+
+3. 11 n'est pas porté atteinte aux législations des États membres relatives à la nullité d'une scission prononcée à la suite d'un contrôle de celle-ci autre que le contrôle préventif judiciaire ou administratif de légalité.
+
+<a id="art_20"></a>
+
+### Article 20
+
+Sans préjudice de l’article 6, les États membres n’imposent pas l’approbation de la scission par l’assemblée générale de la société scindée si les sociétés bénéficiaires sont, dans leur ensemble, titulaires de toutes les actions de la société scindée et de tous les autres titres conférant un droit de vote aux assemblées générales de la société scindée et que les conditions suivantes sont remplies:
+
+a) la publicité prescrite à l'article 4 est faite pour chacune des sociétés participant à l'opération, un mois au moins avant que l'opération ne prenne effet;
+
+b) tous les actionnaires des sociétés participant à l'opération ont le droit, un mois au moins avant que l'opération ne prenne effet, de prendre connaissance, au siège social de leur société, des documents indiqués à l'article 9 paragraphe 1; ►M2 —————** ◄ **
+
+d) à défaut d'une convocation de l'assemblée générale de la société scindée appelée à se prononcer sur l'approbation de la scission, l'information visée à l'article 7 paragraphe 3 concerne toute modification importante du patrimoine actif et passif intervenue après la date de l'établissement du projet de scission.
+
+Aux fins du premier alinéa, point b), l’article 9, paragraphes 2, 3 et 4, ainsi que l’article 10 sont applicables.
+
+## CHAPITRE II
+
+### Scission par constitution de nouvelles sociétés
+
+<a id="art_21"></a>
+
+### Article 21
+
+1. Au sens de la présente directive, est considérée comme scission par constitution de nouvelles sociétés l'opération par laquelle, par suite de dissolution sans liquidation, une société transfère à plusieurs sociétés nouvellement constituées l'ensemble de son patrimoine, activement et passivement, moyennant l'attribution aux actionnaires de la société scindée d'actions des sociétés bénéficiaires et, éventuellement, d'une soulte en espèces ne dépassant pas 10 % de la valeur nominale des actions attribuées ou, à défaut de valeur nominale, de leur pair comptable.
+
+2. L'article 4 paragraphe 2 de la directive 78/855/ CEE s'applique.
+
+<a id="art_22"></a>
+
+### Article 22
+
+1. Les articles 3, 4, 5 et 7, l'article 8 paragraphe 1 et 2 et les articles 9 à 19 sont applicables, sans préjudice des articles 11 et 12 de la directive 68/151/ CEE, à la scission par constitution de nouvelles sociétés. Pour cette application, l'expression «sociétés participant à la scission» désigne la société scindée, l'expression «société bénéficiaire des apports résultant de la scission» désigne chacune des nouvelles sociétés.
+
+2. Le projet de scission mentionne, outre les indications visées à l'article 3 paragraphe 2, la forme, la dénomination et le siège social de chacune des nouvelles sociétés.
+
+3. Le projet de scission et, s'ils font l'objet d'un acte séparé, l'acte constitutif ou le projet d'acte constitutif et les statuts ou le projet des statuts de chacune des nouvelles sociétés sont approuvés par l'assemblée générale de la société scindée.
+
+5. Les États membres n’imposent pas les exigences énoncées aux articles 7 et 8 et à l’article 9, paragraphe 1, points c), d) et e), lorsque les actions de chacune des nouvelles sociétés sont attribuées aux actionnaires de la société scindée proportionnellement à leurs droits dans le capital de cette société.
+
+## CHAPITRE III
+
+### Scission sous contrôle de l'autorité judiciaire
+
+<a id="art_23"></a>
+
+### Article 23
+
+1. Les États membres peuvent appliquer le paragraphe 2 lorsque l'opération de scission est soumise au contrôle d'une autorité judiciaire ayant le pouvoir:
+
+a) de convoquer l'assemblée générale des actionnaires de la société scindée afin de se prononcer sur la scission;
+
+b) de s'assurer que les actionnaires de chacune des sociétés participant à la scission ont reçu ou peuvent se procurer au moins les documents visés à l'article 9 dans un délai leur permettant de les examiner en temps utile avant la date de la réunion de l'assemblée générale de leur société appelée à se prononcer sur la scission; lorsqu'un État membre fait application de la faculté prévue à l'article 6, le délai doit être suffisant pour permettre aux actionnaires des sociétés bénéficiaires d'exercer les droits qui leur sont conférés par ce dernier article;
+
+c) de convoquer toute assemblée de créanciers de chacune des sociétés participant à la scission afin de se prononcer sur la scission;
+
+d) de s'assurer que les créanciers de chacune des sociétés participant à la scission ont reçu ou peuvent se procurer au moins le projet de scission dans un délai leur permettant de l'examiner en temps utile avant la date visée au point b);
+
+e) d'approuver le projet de scission.
+
+2. Lorsque l'autorité judiciaire constate que les conditions visées au paragraphe 1 points b) et d) sont remplies et qu'aucun préjudice ne peut être porté aux actionnaires et aux créanciers, elle peut dispenser les sociétés participant à la scission de l'application:
+
+a) de l'article 4, à condition que le système de protection adéquat des intérêts des créanciers visé à l'article 12 paragraphe 1 couvre toutes les créances indépendamment de la date à laquelle elles sont nées;
+
+b) des conditions visées à l'article 6 points a) et b) lorsqu'un État membre fait application de la faculté prévue audit article;
+
+c) de l'article 9 en ce qui concerne le délai et les modalités fixées pour permettre aux actionnaires de prendre connaissance des documents y visés.
+
+## CHAPITRE IV
+
+### Autres opérations assimilées à la scission
+
+<a id="art_24"></a>
+
+### Article 24
+
+Lorsque la législation d'un État membre permet, pour une des opérations visées à l'article 1er, que la soulte en espèces dépasse le taux de 10 %, les chapitres Ier, II et III sont applicables.
+
+<a id="art_25"></a>
+
+### Article 25
+
+Lorsque la législation d'un État membre permet une des opérations visées à l'article 1er sans que la société scindée cesse d'exister, les chapitres Ier, II et III sont applicables, à l'exception de l'article 17 paragraphe 1 point c).
+
+## CHAPITRE V
+
+### Dispositions finales
+
+<a id="art_26"></a>
+
+### Article 26
+
+1. Les États membres mettent en vigueur, avant le 1er janvier 1986, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive pour autant qu'à cette date ils permettent des opérations auxquelles cette directive s'applique. Ils en informent immédiatement la Commission.
+
+2. Lorsqu'un État membre, après la date prévue au paragraphe 1, permet l'opération de scission, il met en vigueur les dispositions indiquées audit paragraphe à la date à laquelle il permet cette opération. Il en informe immédiatement la Commission.
+
+3. ' Toutefois, un délai de cinq ans à compter de la mise en vigueur des dispositions visées au paragraphe 1 peut être prévu pour l'application de celles-ci aux «unregistered companies» au Royaume-Uni et en Irlande.
+
+4. Les États membres peuvent ne pas appliquer les articles 12 et 13 en ce qui concerne les détenteurs d'obligations et autres titres convertibles en actions si, au moment de l'entrée en vigueur des dispositions visées aux paragraphes 1 ou 2, les conditions d'émission ont fixé préalablement la position de ces détenteurs en cas de scission.
+
+5. Les États membres peuvent ne pas appliquer la présente directive aux scissions ou aux opérations assimilées aux scissions pour la préparation ou la réalisation desquelles un acte ou une formalité prescrits par la loi nationale ont déjà été accomplis au moment de l'entrée en vigueur des dispositions visées aux paragraphes 1 ou 2.
+
+<a id="art_27"></a>
+
+### Article 27
+
+Les États membres sont destinataires de la présente directive.
+
+(1) JO no C 89 du 14.7.1970, p. 20.
+
+(2) JO no C 129 du 11.12.1972, p. 50, et JO no C 95 du 28.4.1975, p. 12.
+
+(3) JO no C 88 du 6.9.1971, p. 18.
+
+(4) JO no 2 du 15.1.1962, p. 36/62.
+
+(5) JO no L 65 du 14.3.1968, p. 8.
+
+(6) JO no L 26 du 31.1.1977, p. 1.
+
+(7) JO no L 222 du 14.8.1978, p. 11.
+
+(8) JO no L 295 du 20.10.1978, p. 36.
+
+(9) JO no L 61 du 5.3.1977, p. 26.
+
+(10) Directive 2011/35/UE du Parlement et du Conseil du 5 avril 2011 concernant les fusions des sociétés anonymes (JO L 110 du 29.4.2011, p. 1).
+
+(11) JO no L 65 du 14.3.1968, p. 9.
+
+(12) JO no L 61 du 5.3.1977, p. 26.

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0855:2025-01-28--e1bf27f3840d601bc7b0a8aa85f554257272b346f6a9db7ca6a5b98cbe267202",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/855 of 28\u00A0January 2025 amending the regulatory t…",
+  "valid_from": "2025-01-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0855/versions/2025-01-28--e1bf27f3840d601bc7b0a8aa85f554257272b346f6a9db7ca6a5b98cbe267202/fr.xml",
+    "sha256": "1fcbcc9517705cb6963338f17c3deda611374fe01f9444c10e29b3be4f525822",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0855"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0855:2025-01-28--e1bf27f3840d601bc7b0a8aa85f554257272b346f6a9db7ca6a5b98cbe267202#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement délégué (UE) 2021/931 est modifié comme suit:\n\n| 1) | À l’article 4, paragraphe 4, la partie introductive est remplacée par le texte suivant:«4. Les établissements qui remplissent les conditions énoncées à l’article 94, paragraphe 1, du règlement (UE) no 575/2013, ou les conditions énoncées à l’article 325 bis, paragraphe 1, dudit règlement, peuvent identifier le déterminant de risque le plus significatif en suivant les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:»; |\n| --- | --- |\n\n| 2) | L’article 5 est modifié comme suit:a)au paragraphe 1, la phrase introductive est remplacée par le texte suivant:«1. Les établissements calculent comme suit le delta prudentiel (δ) des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt ou à la catégorie du risque sur matières premières, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt ou les prix des matières premières peuvent être négatifs:»;b)le paragraphe 2 est remplacé par le texte suivant:«2. Aux fins du paragraphe 1, les établissements calculent la variable d’ajustement (λ) pour toute option d’achat ou de vente comme suit:λj=max{seuilj – min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque de taux d'intérêt;max{ – (1 + seuilj)•min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque sur matières premières.où:Pj=le prix au comptant ou à terme de l’instrument sous-jacent à l’option j;Kj=le prix d’exercice de l’option j;seuilj=0,10%, si loption j est affectée à la catégorie du risque de taux d'intérêt;0,1, si loption j est affectée à la catégorie du risque sur matières premières.; » c)au paragraphe 3, le tableau est remplacé par le tableau suivant:«TableauCatégorie de risqueInstrument sous-jacentVolatilité prudentielleTaux d’intérêtTous50 %Matière premièreÉlectricité150 %Autres matières premières (hors électricité)70 %» |  |\n| --- | --- | --- |\n| a) | au paragraphe 1, la phrase introductive est remplacée par le texte suivant:«1. Les établissements calculent comme suit le delta prudentiel (δ) des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt ou à la catégorie du risque sur matières premières, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt ou les prix des matières premières peuvent être négatifs:»; |  |\n| b) | le paragraphe 2 est remplacé par le texte suivant:«2. Aux fins du paragraphe 1, les établissements calculent la variable d’ajustement (λ) pour toute option d’achat ou de vente comme suit:λj=max{seuilj – min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque de taux d'intérêt;max{ – (1 + seuilj)•min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque sur matières premières.où:Pj=le prix au comptant ou à terme de l’instrument sous-jacent à l’option j;Kj=le prix d’exercice de l’option j;seuilj=0,10%, si loption j est affectée à la catégorie du risque de taux d'intérêt;0,1, si loption j est affectée à la catégorie du risque sur matières premières.; » |  |\n| λj= | max{seuilj – min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque de taux d'intérêt; |  |\n| max{ – (1 + seuilj)•min{Pj, Kj}, 0} si loption j est affectée à la catégorie du risque sur matières premières. |  |  |\n| Pj | = | le prix au comptant ou à terme de l’instrument sous-jacent à l’option j; |\n| Kj | = | le prix d’exercice de l’option j; |\n| seuilj= | 0,10%, si loption j est affectée à la catégorie du risque de taux d'intérêt; |  |\n| 0,1, si loption j est affectée à la catégorie du risque sur matières premières.; |  |  |\n| c) | au paragraphe 3, le tableau est remplacé par le tableau suivant:«TableauCatégorie de risqueInstrument sous-jacentVolatilité prudentielleTaux d’intérêtTous50 %Matière premièreÉlectricité150 %Autres matières premières (hors électricité)70 %» |  |\n| Catégorie de risque | Instrument sous-jacent | Volatilité prudentielle |\n| Taux d’intérêt | Tous | 50 % |\n| Matière première | Électricité | 150 % |\n| Autres matières premières (hors électricité) | 70 %» |  |",
+      "text_sha256": "461cff9e4ba2e9d41df3f13ed7544b530a9063f886dd7718039916d961e48099",
+      "md_span": {
+        "start": 702,
+        "end": 4846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0855:2025-01-28--e1bf27f3840d601bc7b0a8aa85f554257272b346f6a9db7ca6a5b98cbe267202#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 4879,
+        "end": 5020
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

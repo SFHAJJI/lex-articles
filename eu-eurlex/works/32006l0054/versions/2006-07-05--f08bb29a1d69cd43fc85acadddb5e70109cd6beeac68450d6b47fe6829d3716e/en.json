@@ -1,0 +1,643 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e",
+  "language": "en",
+  "title": "Directive 2006/54/EC",
+  "valid_from": "2006-07-05",
+  "valid_to": "2006-07-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0054/versions/2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e/en.xml",
+    "sha256": "88fb161fff44624e0fd287dd2a13ebde47a87bfe2ac5cba1b9acba007bc352fe",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0054"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe purpose of this Directive is to ensure the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation.\n\nTo that end, it contains provisions to implement the principle of equal treatment in relation to:\n\n| (a) | access to employment, including promotion, and to vocational training; |\n| --- | --- |\n\n| (b) | working conditions, including pay; |\n| --- | --- |\n\n| (c) | occupational social security schemes. |\n| --- | --- |\n\nIt also contains provisions to ensure that such implementation is made more effective by the establishment of appropriate procedures.",
+      "text_sha256": "72bbeaa9087e8bbc7d6df47a199256d99754ae47f0e541f37c8842aea68ce92e",
+      "md_span": {
+        "start": 637,
+        "end": 1280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purposes of this Directive, the following definitions shall apply:\n\n| (a) | ‘direct discrimination’: where one person is treated less favourably on grounds of sex than another is, has been or would be treated in a comparable situation; |\n| --- | --- |\n\n| (b) | ‘indirect discrimination’: where an apparently neutral provision, criterion or practice would put persons of one sex at a particular disadvantage compared with persons of the other sex, unless that provision, criterion or practice is objectively justified by a legitimate aim, and the means of achieving that aim are appropriate and necessary; |\n| --- | --- |\n\n| (c) | ‘harassment’: where unwanted conduct related to the sex of a person occurs with the purpose or effect of violating the dignity of a person, and of creating an intimidating, hostile, degrading, humiliating or offensive environment; |\n| --- | --- |\n\n| (d) | ‘sexual harassment’: where any form of unwanted verbal, non-verbal or physical conduct of a sexual nature occurs, with the purpose or effect of violating the dignity of a person, in particular when creating an intimidating, hostile, degrading, humiliating or offensive environment; |\n| --- | --- |\n\n| (e) | ‘pay’: the ordinary basic or minimum wage or salary and any other consideration, whether in cash or in kind, which the worker receives directly or indirectly, in respect of his/her employment from his/her employer; |\n| --- | --- |\n\n| (f) | ‘occupational social security schemes’: schemes not governed by Council Directive 79/7/EEC of 19 December 1978 on the progressive implementation of the principle of equal treatment for men and women in matters of social security (16) whose purpose is to provide workers, whether employees or self-employed, in an undertaking or group of undertakings, area of economic activity, occupational sector or group of sectors with benefits intended to supplement the benefits provided by statutory social security schemes or to replace them, whether membership of such schemes is compulsory or optional. |\n| --- | --- |\n\n2. For the purposes of this Directive, discrimination includes:\n\n| (a) | harassment and sexual harassment, as well as any less favourable treatment based on a person's rejection of or submission to such conduct; |\n| --- | --- |\n\n| (b) | instruction to discriminate against persons on grounds of sex; |\n| --- | --- |\n\n| (c) | any less favourable treatment of a woman related to pregnancy or maternity leave within the meaning of Directive 92/85/EEC. |\n| --- | --- |",
+      "text_sha256": "125305bf20ca12973f73b95e03c52a73d04564d617f9e8904212f6ad7771b04d",
+      "md_span": {
+        "start": 1313,
+        "end": 3845
+      },
+      "citations": [
+        {
+          "href": "#ntr16-L_2006204EN.01002301-E0016",
+          "text": "(16)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nMember States may maintain or adopt measures within the meaning of Article 141(4) of the Treaty with a view to ensuring full equality in practice between men and women in working life.",
+      "text_sha256": "15a73d7ca2e3049dc9361027cfd4df351e335d964da3c10213d01e50d4af6d08",
+      "md_span": {
+        "start": 3878,
+        "end": 4073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nFor the same work or for work to which equal value is attributed, direct and indirect discrimination on grounds of sex with regard to all aspects and conditions of remuneration shall be eliminated.\n\nIn particular, where a job classification system is used for determining pay, it shall be based on the same criteria for both men and women and so drawn up as to exclude any discrimination on grounds of sex.",
+      "text_sha256": "bce67054e57b83dbe3acce85ea2645c0127a75db6ca2b85f586b9dbd09e0ee34",
+      "md_span": {
+        "start": 4106,
+        "end": 4523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nWithout prejudice to Article 4, there shall be no direct or indirect discrimination on grounds of sex in occupational social security schemes, in particular as regards:\n\n| (a) | the scope of such schemes and the conditions of access to them; |\n| --- | --- |\n\n| (b) | the obligation to contribute and the calculation of contributions; |\n| --- | --- |\n\n| (c) | the calculation of benefits, including supplementary benefits due in respect of a spouse or dependants, and the conditions governing the duration and retention of entitlement to benefits. |\n| --- | --- |",
+      "text_sha256": "d9c43770dc9ae51117fe73f5693f83e7773fec2827d4939fe7c89076e1db155d",
+      "md_span": {
+        "start": 4556,
+        "end": 5129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Chapter shall apply to members of the working population, including self-employed persons, persons whose activity is interrupted by illness, maternity, accident or involuntary unemployment and persons seeking employment and to retired and disabled workers, and to those claiming under them, in accordance with national law and/or practice.",
+      "text_sha256": "a414df6b2f59b6466cc85f1c3423c2e8e1909663bf8d881852be1beef680d7e0",
+      "md_span": {
+        "start": 5162,
+        "end": 5517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. This Chapter applies to:\n\n| (a) | occupational social security schemes which provide protection against the following risks:(i)sickness,(ii)invalidity,(iii)old age, including early retirement,(iv)industrial accidents and occupational diseases,(v)unemployment; |\n| --- | --- |\n| (i) | sickness, |\n| (ii) | invalidity, |\n| (iii) | old age, including early retirement, |\n| (iv) | industrial accidents and occupational diseases, |\n| (v) | unemployment; |\n\n| (b) | occupational social security schemes which provide for other social benefits, in cash or in kind, and in particular survivors' benefits and family allowances, if such benefits constitute a consideration paid by the employer to the worker by reason of the latter's employment. |\n| --- | --- |\n\n2. This Chapter also applies to pension schemes for a particular category of worker such as that of public servants if the benefits payable under the scheme are paid by reason of the employment relationship with the public employer. The fact that such a scheme forms part of a general statutory scheme shall be without prejudice in that respect.",
+      "text_sha256": "b1965fa443f11406f2b0aad80af45563571855d5236aba961582fe792ac067a0",
+      "md_span": {
+        "start": 5550,
+        "end": 6662
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. This Chapter does not apply to:\n\n| (a) | individual contracts for self-employed persons; |\n| --- | --- |\n\n| (b) | single-member schemes for self-employed persons; |\n| --- | --- |\n\n| (c) | insurance contracts to which the employer is not a party, in the case of workers; |\n| --- | --- |\n\n| (d) | optional provisions of occupational social security schemes offered to participants individually to guarantee them:(i)either additional benefits,(ii)or a choice of date on which the normal benefits for self-employed persons will start, or a choice between several benefits; |\n| --- | --- |\n| (i) | either additional benefits, |\n| (ii) | or a choice of date on which the normal benefits for self-employed persons will start, or a choice between several benefits; |\n\n| (e) | occupational social security schemes in so far as benefits are financed by contributions paid by workers on a voluntary basis. |\n| --- | --- |\n\n2. This Chapter does not preclude an employer granting to persons who have already reached the retirement age for the purposes of granting a pension by virtue of an occupational social security scheme, but who have not yet reached the retirement age for the purposes of granting a statutory retirement pension, a pension supplement, the aim of which is to make equal or more nearly equal the overall amount of benefit paid to these persons in relation to the amount paid to persons of the other sex in the same situation who have already reached the statutory retirement age, until the persons benefiting from the supplement reach the statutory retirement age.",
+      "text_sha256": "93748a0d5061c9f6387704501a03f2fd5572a313dfb7819afc158c217c630996",
+      "md_span": {
+        "start": 6695,
+        "end": 8281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Provisions contrary to the principle of equal treatment shall include those based on sex, either directly or indirectly, for:\n\n| (a) | determining the persons who may participate in an occupational social security scheme; |\n| --- | --- |\n\n| (b) | fixing the compulsory or optional nature of participation in an occupational social security scheme; |\n| --- | --- |\n\n| (c) | laying down different rules as regards the age of entry into the scheme or the minimum period of employment or membership of the scheme required to obtain the benefits thereof; |\n| --- | --- |\n\n| (d) | laying down different rules, except as provided for in points (h) and (j), for the reimbursement of contributions when a worker leaves a scheme without having fulfilled the conditions guaranteeing a deferred right to long-term benefits; |\n| --- | --- |\n\n| (e) | setting different conditions for the granting of benefits or restricting such benefits to workers of one or other of the sexes; |\n| --- | --- |\n\n| (f) | fixing different retirement ages; |\n| --- | --- |\n\n| (g) | suspending the retention or acquisition of rights during periods of maternity leave or leave for family reasons which are granted by law or agreement and are paid by the employer; |\n| --- | --- |\n\n| (h) | setting different levels of benefit, except in so far as may be necessary to take account of actuarial calculation factors which differ according to sex in the case of defined-contribution schemes; in the case of funded defined-benefit schemes, certain elements may be unequal where the inequality of the amounts results from the effects of the use of actuarial factors differing according to sex at the time when the scheme's funding is implemented; |\n| --- | --- |\n\n| (i) | setting different levels for workers' contributions; |\n| --- | --- |\n\n| (j) | setting different levels for employers' contributions, except:(i)in the case of defined-contribution schemes if the aim is to equalise the amount of the final benefits or to make them more nearly equal for both sexes,(ii)in the case of funded defined-benefit schemes where the employer's contributions are intended to ensure the adequacy of the funds necessary to cover the cost of the benefits defined; |\n| --- | --- |\n| (i) | in the case of defined-contribution schemes if the aim is to equalise the amount of the final benefits or to make them more nearly equal for both sexes, |\n| (ii) | in the case of funded defined-benefit schemes where the employer's contributions are intended to ensure the adequacy of the funds necessary to cover the cost of the benefits defined; |\n\n| (k) | laying down different standards or standards applicable only to workers of a specified sex, except as provided for in points (h) and (j), as regards the guarantee or retention of entitlement to deferred benefits when a worker leaves a scheme. |\n| --- | --- |\n\n2. Where the granting of benefits within the scope of this Chapter is left to the discretion of the scheme's management bodies, the latter shall comply with the principle of equal treatment.",
+      "text_sha256": "3b0f8ade8da9e814ca3039cc2f9e87dedca91e49e7af3e41e9141c968bb95a06",
+      "md_span": {
+        "start": 8314,
+        "end": 11372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Member States shall take the necessary steps to ensure that the provisions of occupational social security schemes for self-employed persons contrary to the principle of equal treatment are revised with effect from 1 January 1993 at the latest or for Member States whose accession took place after that date, at the date that Directive 86/378/EEC became applicable in their territory.\n\n2. This Chapter shall not preclude rights and obligations relating to a period of membership of an occupational social security scheme for self-employed persons prior to revision of that scheme from remaining subject to the provisions of the scheme in force during that period.",
+      "text_sha256": "0d5d4a3fc878170ecb46d11b5583e49e50641b42c5e2744f8a015ce73a23f008",
+      "md_span": {
+        "start": 11407,
+        "end": 12085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nAs regards occupational social security schemes for self-employed persons, Member States may defer compulsory application of the principle of equal treatment with regard to:\n\n| (a) | determination of pensionable age for the granting of old-age or retirement pensions, and the possible implications for other benefits:(i)either until the date on which such equality is achieved in statutory schemes,(ii)or, at the latest, until such equality is prescribed by a directive; |\n| --- | --- |\n| (i) | either until the date on which such equality is achieved in statutory schemes, |\n| (ii) | or, at the latest, until such equality is prescribed by a directive; |\n\n| (b) | survivors' pensions until Community law establishes the principle of equal treatment in statutory social security schemes in that regard; |\n| --- | --- |\n\n| (c) | the application of Article 9(1)(i) in relation to the use of actuarial calculation factors, until 1 January 1999 or for Member States whose accession took place after that date until the date that Directive 86/378/EEC became applicable in their territory. |\n| --- | --- |",
+      "text_sha256": "9c9427bddb362c4b3794ba545bb33499fb9da99a2de92331e18cf41df77ae4c8",
+      "md_span": {
+        "start": 12120,
+        "end": 13231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Any measure implementing this Chapter, as regards workers, shall cover all benefits under occupational social security schemes derived from periods of employment subsequent to 17 May 1990 and shall apply retroactively to that date, without prejudice to workers or those claiming under them who have, before that date, initiated legal proceedings or raised an equivalent claim under national law. In that event, the implementation measures shall apply retroactively to 8 April 1976 and shall cover all the benefits derived from periods of employment after that date. For Member States which acceded to the Community after 8 April 1976, and before 17 May 1990, that date shall be replaced by the date on which Article 141 of the Treaty became applicable in their territory.\n\n2. The second sentence of paragraph 1 shall not prevent national rules relating to time limits for bringing actions under national law from being relied on against workers or those claiming under them who initiated legal proceedings or raised an equivalent claim under national law before 17 May 1990, provided that they are not less favourable for that type of action than for similar actions of a domestic nature and that they do not render the exercise of rights conferred by Community law impossible in practice.\n\n3. For Member States whose accession took place after 17 May 1990 and which were on 1 January 1994 Contracting Parties to the Agreement on the European Economic Area, the date of 17 May 1990 in the first sentence of paragraph 1 shall be replaced by 1 January 1994.\n\n4. For other Member States whose accession took place after 17 May 1990, the date of 17 May 1990 in paragraphs 1 and 2 shall be replaced by the date on which Article 141 of the Treaty became applicable in their territory.",
+      "text_sha256": "3ca285d421d86fddbdb2039cdfe88c5a255fbb1fbf7171cefb7ef96dae9fd868",
+      "md_span": {
+        "start": 13266,
+        "end": 15059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nWhere men and women may claim a flexible pensionable age under the same conditions, this shall not be deemed to be incompatible with this Chapter.",
+      "text_sha256": "2fd98ffc5d7a13a12018fb39be02cacfccea87221c8fd2c50e41c1cf1310cf36",
+      "md_span": {
+        "start": 15094,
+        "end": 15252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. There shall be no direct or indirect discrimination on grounds of sex in the public or private sectors, including public bodies, in relation to:\n\n| (a) | conditions for access to employment, to self-employment or to occupation, including selection criteria and recruitment conditions, whatever the branch of activity and at all levels of the professional hierarchy, including promotion; |\n| --- | --- |\n\n| (b) | access to all types and to all levels of vocational guidance, vocational training, advanced vocational training and retraining, including practical work experience; |\n| --- | --- |\n\n| (c) | employment and working conditions, including dismissals, as well as pay as provided for in Article 141 of the Treaty; |\n| --- | --- |\n\n| (d) | membership of, and involvement in, an organisation of workers or employers, or any organisation whose members carry on a particular profession, including the benefits provided for by such organisations. |\n| --- | --- |\n\n2. Member States may provide, as regards access to employment including the training leading thereto, that a difference of treatment which is based on a characteristic related to sex shall not constitute discrimination where, by reason of the nature of the particular occupational activities concerned or of the context in which they are carried out, such a characteristic constitutes a genuine and determining occupational requirement, provided that its objective is legitimate and the requirement is proportionate.",
+      "text_sha256": "66561d8fe7efedbe4ff94cbc53523dd48057dfda21335e1d6ee63b20010c3f1f",
+      "md_span": {
+        "start": 15287,
+        "end": 16783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nA woman on maternity leave shall be entitled, after the end of her period of maternity leave, to return to her job or to an equivalent post on terms and conditions which are no less favourable to her and to benefit from any improvement in working conditions to which she would have been entitled during her absence.",
+      "text_sha256": "2294b28a2f761a1af8dcd95c82456709ef16e42a48ef9f8a29091fa8178eede4",
+      "md_span": {
+        "start": 16818,
+        "end": 17145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nThis Directive is without prejudice to the right of Member States to recognise distinct rights to paternity and/or adoption leave. Those Member States which recognise such rights shall take the necessary measures to protect working men and women against dismissal due to exercising those rights and ensure that, at the end of such leave, they are entitled to return to their jobs or to equivalent posts on terms and conditions which are no less favourable to them, and to benefit from any improvement in working conditions to which they would have been entitled during their absence.",
+      "text_sha256": "ce87fba1e84e15ab08cb33e8bccea85e620a1355e5f3d44e84c6ee92b9fea806",
+      "md_span": {
+        "start": 17180,
+        "end": 17775
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Member States shall ensure that, after possible recourse to other competent authorities including where they deem it appropriate conciliation procedures, judicial procedures for the enforcement of obligations under this Directive are available to all persons who consider themselves wronged by failure to apply the principle of equal treatment to them, even after the relationship in which the discrimination is alleged to have occurred has ended.\n\n2. Member States shall ensure that associations, organisations or other legal entities which have, in accordance with the criteria laid down by their national law, a legitimate interest in ensuring that the provisions of this Directive are complied with, may engage, either on behalf or in support of the complainant, with his/her approval, in any judicial and/or administrative procedure provided for the enforcement of obligations under this Directive.\n\n3. Paragraphs 1 and 2 are without prejudice to national rules relating to time limits for bringing actions as regards the principle of equal treatment.",
+      "text_sha256": "25534f1fde9842db7001b37cfe48e0fbdb7295bef95002a1a812d92360cbbeee",
+      "md_span": {
+        "start": 17810,
+        "end": 18881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nMember States shall introduce into their national legal systems such measures as are necessary to ensure real and effective compensation or reparation as the Member States so determine for the loss and damage sustained by a person injured as a result of discrimination on grounds of sex, in a way which is dissuasive and proportionate to the damage suffered. Such compensation or reparation may not be restricted by the fixing of a prior upper limit, except in cases where the employer can prove that the only damage suffered by an applicant as a result of discrimination within the meaning of this Directive is the refusal to take his/her job application into consideration.",
+      "text_sha256": "ba5decc5eb3ce2ea10002d4b337ac013c983e2c76cd6c5731bd79e373e4c273b",
+      "md_span": {
+        "start": 18916,
+        "end": 19603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Member States shall take such measures as are necessary, in accordance with their national judicial systems, to ensure that, when persons who consider themselves wronged because the principle of equal treatment has not been applied to them establish, before a court or other competent authority, facts from which it may be presumed that there has been direct or indirect discrimination, it shall be for the respondent to prove that there has been no breach of the principle of equal treatment.\n\n2. Paragraph 1 shall not prevent Member States from introducing rules of evidence which are more favourable to plaintiffs.\n\n3. Member States need not apply paragraph 1 to proceedings in which it is for the court or competent body to investigate the facts of the case.\n\n4. Paragraphs 1, 2 and 3 shall also apply to:\n\n| (a) | the situations covered by Article 141 of the Treaty and, insofar as discrimination based on sex is concerned, by Directives 92/85/EEC and 96/34/EC; |\n| --- | --- |\n\n| (b) | any civil or administrative procedure concerning the public or private sector which provides for means of redress under national law pursuant to the measures referred to in (a) with the exception of out-of-court procedures of a voluntary nature or provided for in national law. |\n| --- | --- |\n\n5. This Article shall not apply to criminal procedures, unless otherwise provided by the Member States.",
+      "text_sha256": "6651e4b60114ba13cdf71bf3b044f032eac12f724a707033aab3f9a6f2f32d44",
+      "md_span": {
+        "start": 19638,
+        "end": 21043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Member States shall designate and make the necessary arrangements for a body or bodies for the promotion, analysis, monitoring and support of equal treatment of all persons without discrimination on grounds of sex. These bodies may form part of agencies with responsibility at national level for the defence of human rights or the safeguard of individuals' rights.\n\n2. Member States shall ensure that the competences of these bodies include:\n\n| (a) | without prejudice to the right of victims and of associations, organisations or other legal entities referred to in Article 17(2), providing independent assistance to victims of discrimination in pursuing their complaints about discrimination; |\n| --- | --- |\n\n| (b) | conducting independent surveys concerning discrimination; |\n| --- | --- |\n\n| (c) | publishing independent reports and making recommendations on any issue relating to such discrimination; |\n| --- | --- |\n\n| (d) | at the appropriate level exchanging available information with corresponding European bodies such as any future European Institute for Gender Equality. |\n| --- | --- |",
+      "text_sha256": "659e59a7db9d9102e5da860835d436be320303a6168b92c828ec53cf6b25a09f",
+      "md_span": {
+        "start": 21078,
+        "end": 22192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Member States shall, in accordance with national traditions and practice, take adequate measures to promote social dialogue between the social partners with a view to fostering equal treatment, including, for example, through the monitoring of practices in the workplace, in access to employment, vocational training and promotion, as well as through the monitoring of collective agreements, codes of conduct, research or exchange of experience and good practice.\n\n2. Where consistent with national traditions and practice, Member States shall encourage the social partners, without prejudice to their autonomy, to promote equality between men and women, and flexible working arrangements, with the aim of facilitating the reconciliation of work and private life, and to conclude, at the appropriate level, agreements laying down anti-discrimination rules in the fields referred to in Article 1 which fall within the scope of collective bargaining. These agreements shall respect the provisions of this Directive and the relevant national implementing measures.\n\n3. Member States shall, in accordance with national law, collective agreements or practice, encourage employers to promote equal treatment for men and women in a planned and systematic way in the workplace, in access to employment, vocational training and promotion.\n\n4. To this end, employers shall be encouraged to provide at appropriate regular intervals employees and/or their representatives with appropriate information on equal treatment for men and women in the undertaking.\n\nSuch information may include an overview of the proportions of men and women at different levels of the organisation; their pay and pay differentials; and possible measures to improve the situation in cooperation with employees' representatives.",
+      "text_sha256": "d17779ef058de3d017ae41655cc43fc433ec7d09ec40ab5e403fcf5efa216d14",
+      "md_span": {
+        "start": 22227,
+        "end": 24034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nMember States shall encourage dialogue with appropriate non-governmental organisations which have, in accordance with their national law and practice, a legitimate interest in contributing to the fight against discrimination on grounds of sex with a view to promoting the principle of equal treatment.",
+      "text_sha256": "e2f872ce2e1fc317e1f02c8c8fcd98845c18ef30338da28a3bc7faf934e4f90f",
+      "md_span": {
+        "start": 24069,
+        "end": 24382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nMember States shall take all necessary measures to ensure that:\n\n| (a) | any laws, regulations and administrative provisions contrary to the principle of equal treatment are abolished; |\n| --- | --- |\n\n| (b) | provisions contrary to the principle of equal treatment in individual or collective contracts or agreements, internal rules of undertakings or rules governing the independent occupations and professions and workers' and employers' organisations or any other arrangements shall be, or may be, declared null and void or are amended; |\n| --- | --- |\n\n| (c) | occupational social security schemes containing such provisions may not be approved or extended by administrative measures. |\n| --- | --- |",
+      "text_sha256": "aa49bc1493e0149230631100c0c3c0ec9ebd43e47a9303a078241fcc3eddb93d",
+      "md_span": {
+        "start": 24417,
+        "end": 25134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nMember States shall introduce into their national legal systems such measures as are necessary to protect employees, including those who are employees' representatives provided for by national laws and/or practices, against dismissal or other adverse treatment by the employer as a reaction to a complaint within the undertaking or to any legal proceedings aimed at enforcing compliance with the principle of equal treatment.",
+      "text_sha256": "caf63171e31ba8b4dd9955134cdf303816c5eb14244d65360c27270fb399719f",
+      "md_span": {
+        "start": 25169,
+        "end": 25606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nMember States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive, and shall take all measures necessary to ensure that they are applied. The penalties, which may comprise the payment of compensation to the victim, must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission by 5 October 2005 at the latest and shall notify it without delay of any subsequent amendment affecting them.",
+      "text_sha256": "babf3ddb9619bf5a113e72c6e48c9033fca785275999033af1064698474fc0c7",
+      "md_span": {
+        "start": 25641,
+        "end": 26168
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nMember States shall encourage, in accordance with national law, collective agreements or practice, employers and those responsible for access to vocational training to take effective measures to prevent all forms of discrimination on grounds of sex, in particular harassment and sexual harassment in the workplace, in access to employment, vocational training and promotion.",
+      "text_sha256": "74c3329ce0165ade0922394cffafcec6a787fbfcb6e6e6f6f8ca5d451b77536e",
+      "md_span": {
+        "start": 26203,
+        "end": 26589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Member States may introduce or maintain provisions which are more favourable to the protection of the principle of equal treatment than those laid down in this Directive.\n\n2. Implementation of this Directive shall under no circumstances be sufficient grounds for a reduction in the level of protection of workers in the areas to which it applies, without prejudice to the Member States' right to respond to changes in the situation by introducing laws, regulations and administrative provisions which differ from those in force on the notification of this Directive, provided that the provisions of this Directive are complied with.",
+      "text_sha256": "b908b9a47669cf4d8914eb56728e4bf9b461d4ddd64bef4645b1bee9996608b0",
+      "md_span": {
+        "start": 26624,
+        "end": 27271
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. This Directive shall be without prejudice to provisions concerning the protection of women, particularly as regards pregnancy and maternity.\n\n2. This Directive shall be without prejudice to the provisions of Directive 96/34/EC and Directive 92/85/EEC.",
+      "text_sha256": "20e09aba5f75b59cf03481d14c25fb5ffdc3edc14807e50aa651e46003f3d488",
+      "md_span": {
+        "start": 27306,
+        "end": 27572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nMember States shall actively take into account the objective of equality between men and women when formulating and implementing laws, regulations, administrative provisions, policies and activities in the areas referred to in this Directive.",
+      "text_sha256": "68a1553a0ccbfb513986f43a225bb8b2db14575495a99dd64967aa09af91f8dd",
+      "md_span": {
+        "start": 27607,
+        "end": 27861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\nMember States shall ensure that measures taken pursuant to this Directive, together with the provisions already in force, are brought to the attention of all the persons concerned by all suitable means and, where appropriate, at the workplace.",
+      "text_sha256": "0b9105107330a9cf89d0452ef65ad1353132454f0bac303c139562c0340396a2",
+      "md_span": {
+        "start": 27896,
+        "end": 28151
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. By 15 February 2011, the Member States shall communicate to the Commission all the information necessary for the Commission to draw up a report to the European Parliament and the Council on the application of this Directive.\n\n2. Without prejudice to paragraph 1, Member States shall communicate to the Commission, every four years, the texts of any measures adopted pursuant to Article 141(4) of the Treaty, as well as reports on these measures and their implementation. On the basis of that information, the Commission will adopt and publish every four years a report establishing a comparative assessment of any measures in the light of Declaration No 28 annexed to the Final Act of the Treaty of Amsterdam.\n\n3. Member States shall assess the occupational activities referred to in Article 14(2), in order to decide, in the light of social developments, whether there is justification for maintaining the exclusions concerned. They shall notify the Commission of the results of this assessment periodically, but at least every 8 years.",
+      "text_sha256": "fa7567c5236cf2a4edf2e0d97ee23fd48bd8f081071d1e640ba2688e95b761df",
+      "md_span": {
+        "start": 28186,
+        "end": 29238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\nBy 15 February 2011 at the latest, the Commission shall review the operation of this Directive and if appropriate, propose any amendments it deems necessary.",
+      "text_sha256": "f8c4633b6b04759a55a80cba88fa1648d1ff43af631b348d8ecd156c2f73db27",
+      "md_span": {
+        "start": 29273,
+        "end": 29442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nMember States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 15 August 2008 at the latest or shall ensure, by that date, that management and labour introduce the requisite provisions by way of agreement. Member States may, if necessary to take account of particular difficulties, have up to one additional year to comply with this Directive. Member States shall take all necessary steps to be able to guarantee the results imposed by this Directive. They shall forthwith communicate to the Commission the texts of those measures.\n\nWhen Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directives repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.\n\nThe obligation to transpose this Directive into national law shall be confined to those provisions which represent a substantive change as compared with the earlier Directives. The obligation to transpose the provisions which are substantially unchanged arises under the earlier Directives.\n\nMember States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "94c7e6a43f9bb64566201dd61d489d9950ddcf8543dc0a7b96e152c7b95ac99b",
+      "md_span": {
+        "start": 29477,
+        "end": 31027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. With effect from 15 August 2009 Directives 75/117/EEC, 76/207/EEC, 86/378/EEC and 97/80/EC shall be repealed without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Directives set out in Annex I, Part B.\n\n2. References made to the repealed Directives shall be construed as being made to this Directive and should be read in accordance with the correlation table in Annex II.",
+      "text_sha256": "ef2c1e265ac983fa2c708d8c2870149c3d27178943de513fbd7a5c99ed9b8b98",
+      "md_span": {
+        "start": 31062,
+        "end": 31540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\nThis Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "1c84b2307bc2814e5806be136d7f6209c039b18ce165f83f36c957261a0bfee9",
+      "md_span": {
+        "start": 31575,
+        "end": 31713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32006l0054:2006-07-05--f08bb29a1d69cd43fc85acadddb5e70109cd6beeac68450d6b47fe6829d3716e#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "0db6bc2bbee21249000bf6a79569f39b89289dd6fa591647b380f2f6a4841127",
+      "md_span": {
+        "start": 31748,
+        "end": 31809
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

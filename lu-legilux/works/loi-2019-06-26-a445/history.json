@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-2019-06-26-a445",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2025-11-25",
         "valid_to": null,
         "text_sha256": "09084bd62ef3f08fabc5dea28467c35bacf76a00b0b1df4bfa61ab877de35562",
-        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
         "article_valid_from": "2019-06-28",
         "validity_conflict": true
       }
@@ -21,7 +21,7 @@
         "valid_from": "2025-11-25",
         "valid_to": null,
         "text_sha256": "8ffe71ae5fa7752987a984de3f3497ef800f229640976a29ee5a19a54cd90380",
-        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
         "article_valid_from": "2025-11-25"
       }
     ],
@@ -30,7 +30,7 @@
         "valid_from": "2025-11-25",
         "valid_to": null,
         "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
-        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+        "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
         "article_valid_from": "2019-06-28",
         "validity_conflict": true
       }
@@ -44,7 +44,7 @@
           "valid_from": "2025-11-25",
           "valid_to": null,
           "text_sha256": "09084bd62ef3f08fabc5dea28467c35bacf76a00b0b1df4bfa61ab877de35562",
-          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
           "article_valid_from": "2019-06-28",
           "validity_conflict": true
         }
@@ -54,7 +54,7 @@
           "valid_from": "2025-11-25",
           "valid_to": null,
           "text_sha256": "8ffe71ae5fa7752987a984de3f3497ef800f229640976a29ee5a19a54cd90380",
-          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
           "article_valid_from": "2025-11-25"
         }
       ],
@@ -63,7 +63,7 @@
           "valid_from": "2025-11-25",
           "valid_to": null,
           "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
-          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25",
+          "in_version": "lu-legilux:loi-2019-06-26-a445:2025-11-25--811bb5edcda038fb69ed3584e851bc32da98891fe81839e5f9cd6954a7ee00fc",
           "article_valid_from": "2019-06-28",
           "validity_conflict": true
         }

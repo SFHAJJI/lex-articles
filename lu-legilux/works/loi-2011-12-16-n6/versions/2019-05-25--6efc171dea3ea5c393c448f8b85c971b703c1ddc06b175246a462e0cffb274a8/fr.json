@@ -1,0 +1,380 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8",
+  "language": "fr",
+  "title": "Loi du 16 décembre 2011 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que la classification, l'étiquetage et l'emballage des substances et mélanges chimiques.",
+  "valid_from": "2019-05-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2011-12-16-n6/versions/2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8/fr.xml",
+    "sha256": "3ed4121c1f0d0f61f26824f56f09b84842e9a4fcdbd91e0e8d2494dc5601e080",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_1er/20111224",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Le membre du gouvernement ayant l’Environnement dans ses attributions, ci-après désigné le ministre, exerce les attributions de l’autorité compétente aux fins de l’application:\n\n1. o directive 1999/45/CE o o directive 76/769/CEE directives 91/155/CEE 93/67/CEE 93/105/CE 2000/21/CE\n2. o directives 67/548/CEE 1999/45/CE o\n\nLorsque plusieurs autorités sont compétentes, le ministre coordonne les activités des différentes autorités compétentes.\n\nUn règlement grand-ducal détermine les modalités d’organisation de la coopération interadministrative entre l’Administration de l’environnement, l’Inspection du travail et des mines, la Direction de la santé, l’Administration de la gestion de l’eau, l’Administration des douanes et accises et l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services en vue de la mise en œuvre et du fonctionnement du système de contrôles à assurer par le Luxembourg dans le cadre de l’application du règlement REACH et du règlement CLP.",
+      "text_sha256": "5ad396d1fe8b33fcc45e7a1b6f9aa7af94ec51adc3d854ccd7827559626500e5",
+      "md_span": {
+        "start": 836,
+        "end": 1862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_2/20111224",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Le ministre est appuyé dans sa tâche par un comité interministériel, dénommé «comité REACH-CLP», qui a pour tâche essentiellement de superviser l’application du règlement REACH et du règlement CLP.\n\nLe comité REACH-CLP peut notamment adresser des avis et recommandations au ministre.\n\nLe comité REACH-CLP travaille en étroite collaboration avec le Centre de ressources des technologies pour l’environnement, qui est chargé en la matière essentiellement de tâches d’assistance et de conseil aux acteurs économiques concernés et d’appui aux missions du ministre et du comité REACH-CLP.\n\nLe comité REACH-CLP est composé de deux délégués du ministre et des membres du gouvernement ayant respectivement l’Economie, les Classes moyennes, le Travail, la Santé, les Finances et la gestion de l’eau dans leurs attributions. La coprésidence du comité REACH-CLP est assurée par un représentant du ministre et par un représentant du membre du gouvernement ayant l’Economie dans ses attributions.\n\nA chaque membre effectif est adjoint un membre suppléant. En cas d’empêchement, le membre suppléant remplace le membre effectif.\n\nLes coprésidents, les membres effectifs et les membres suppléants du comité REACH-CLP sont nommés conjointement par le ministre et par le membre du gouvernement ayant l’Economie dans ses attributions, sur proposition, le cas échéant, des autres membres du gouvernement concernés.\n\nLes coprésidents, les membres effectifs et les membres suppléants du comité REACH-CLP sont nommés pour une durée de cinq ans. Leur mandat est renouvelable. En cas de vacance de poste, le nouveau titulaire termine le mandat du membre qu’il remplace.\n\nLe secrétariat du comité REACH-CLP est assumé par un représentant du ministre.\n\nEn cas de nécessité, les coprésidents du comité REACH-CLP peuvent faire appel à un ou plusieurs experts. Un représentant du centre de ressources des technologies de l’environnement participe aux réunions du comité REACH-CLP en qualité d’observateur.\n\nLe comité REACH-CLP élabore lui-même son règlement d’organisation interne qui est approuvé par règlement grand-ducal.",
+      "text_sha256": "f30dce78b3fed6b439165509621cca3091f3cbebdaaa5e11220c56b50fe2ce71",
+      "md_span": {
+        "start": 1897,
+        "end": 3991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_3/20190525",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "**(1)** En cas de non-respect d’un ou plusieurs des articles énumérés aux paragraphes 1er et 2 de l’article 9 de la présente loi le ministre peut :\n\n1. er\n2. non-conformité er\n3. er\n4. impartir à l’opérateur économique un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;\n5. faire suspendre, en tout ou en partie l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site en tout ou en partie et apposer des scellés ;\n6. er\n7. er\n\n**(2)** Les décisions prises en vertu du présent article sont adressées à l’opérateur économique. Elles peuvent être envoyées en copie à toute autre personne, lorsque ceci s’avère nécessaire, en vue de la collaboration aux actions engagées pour éviter des risques découlant d’une substance, d’un mélange ou d’un article.\n\n**(3)** Les décisions prévues au présent article sont susceptibles d’un recours devant le tribunal administratif qui statue comme juge du fond. Ce recours doit être intenté sous peine de déchéance dans les quarante jours de la notification de la décision intervenue.\n\n**(4)** Dès qu’il a été constaté qu’il a été mis fin aux non-conformités ayant fait l’objet des décisions prises en vertu du paragraphe 1er, ces dernières sont levées.",
+      "text_sha256": "5c4e660fdb0ce765ff1b568310a090b11610c28554d8cc0c58232c27812e82c9",
+      "md_span": {
+        "start": 4026,
+        "end": 5303
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3bis",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_3bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_3bis/20190525",
+      "type": "article",
+      "num": "Art. 3bis.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "**(1)** Le ministre peut infliger une amende administrative de 250 euros à 15 000 euros à l’opérateur économique :\n\n1. dont les étiquettes ou les emballages ne sont pas conformes aux dispositions des articles 17 à 33 et 35 du règlement CLP ;\n2. dont les fiches de données de sécurité ne sont pas conformes aux dispositions de l’article 4 de la présente loi et de l’article 31 du règlement REACH ;\n3. qui refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché.\n\n**(2)** Les amendes sont payables dans les trente jours de la notification de la décision écrite.\n\n**(3)** Les amendes administratives sont perçues par l’Administration de l’enregistrement, des domaines et de la TVA. Le recouvrement se fait comme en matière de droits d’enregistrement.\n\n**(4)** Les décisions d’infliger une amende en vertu du présent article sont susceptibles d’un recours en réformation devant le tribunal administratif, dans le délai de quarante jours à partir de la notification.",
+      "text_sha256": "53728c42d00a66192cb7011241039494fcb5a56c26121928d9fb0cae7b0aeb34",
+      "md_span": {
+        "start": 5344,
+        "end": 6374
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3ter",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_3ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_3ter/20190525",
+      "type": "article",
+      "num": "Art. 3ter.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "Aux fins de la présente loi, on entend par opérateur économique le fabricant, l’importateur, l’utilisateur en aval ou le distributeur d’une substance, telle quelle ou contenue dans un mélange, ou d’un mélange, visé par la présente loi, et le producteur, l’importateur, le distributeur ou le destinataire d’un article visé par la présente loi.",
+      "text_sha256": "6b749f7cc4f1c98985e700d9a3550696f937261e80cd5b89a5512133e1a5f32b",
+      "md_span": {
+        "start": 6415,
+        "end": 6757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_4/20111224",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "***Chapitre Ier. –*** — ***Compétences et mesures administratives***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Les étiquettes visées à l’article 17 du règlement CLP et les fiches de données de sécurité visées à l’article 31 du règlement REACH sont rédigées en langue française ou allemande.",
+      "text_sha256": "e8f3877d7f0fb4d28287ea7e4cffd787114855b945eff73dbac906a37440ecec",
+      "md_span": {
+        "start": 6792,
+        "end": 6971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_5/20190525",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "***Chapitre II.*** — ***Contrôles et sanctions pénales ***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "**(1)** Les infractions à la présente loi et à ses règlements d’exécution sont constatées par les fonctionnaires de l’Administration des douanes et accises à partir du grade de brigadier principal, par le directeur, les directeurs adjoints et les employés et fonctionnaires des groupes de traitement A1 et A2 de l’Administration de l’environnement, par les membres de l’inspectorat du travail de l’Inspection du travail et des mines, par le directeur, le directeur adjoint, les médecins, pharmaciens et ingénieurs de la Direction de la santé, par le directeur, le directeur adjoint et les fonctionnaires de la carrière supérieure et les ingénieurs-techniciens de l’Administration de la gestion de l’eau et par le directeur et les fonctionnaires de la carrière des ingénieurs et ingénieurs-techniciens de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.\n\n**(2)** Les personnes visés au paragraphe 1er doivent avoir suivi une formation professionnelle spéciale portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales de la présente loi. Le programme et la durée de la formation ainsi que les modalités de contrôle des connaissances sont arrêtés par règlement grand-ducal.\n\n**(3)** Dans l’exercice de leurs fonctions relatives à la présente loi, les personnes ainsi désignés de l’Administration des douanes et accises, de l’Administration de l’environnement, de l’Inspection du travail et des mines, de la Direction de la santé, de l’Administration de la gestion de l’eau et de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services ont la qualité d’officiers de police judiciaire. Ils constatent les infractions par des procès-verbaux faisant foi jusqu’à preuve du contraire.\n\nLeur compétence s’étend à tout le territoire du Grand-Duché de Luxembourg.\n\n**(4)** Avant d’entrer en fonction, ils prêtent devant le tribunal d’arrondissement de leur domicile, siégeant en matière civile, le serment suivant: «Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité».\n\nL’article 458 du Code pénal leur est applicable.",
+      "text_sha256": "432588824008508cc842230892987be7dcdb51ea8e720738fc3bbcc7dd0eb3b6",
+      "md_span": {
+        "start": 7069,
+        "end": 9274
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_6/20190525",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "***Chapitre II.*** — ***Contrôles et sanctions pénales ***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "**(1)** Les membres de la Police grand-ducale et les personnes visées à l’article 5 ont accès aux locaux, installations, sites et moyens de transport assujettis à la présente loi et aux règlements à prendre en vue de son application.\n\nIls peuvent pénétrer de jour et de nuit, lorsqu’il existe des indices graves faisant présumer une infraction à la présente loi et à ses règlements d’exécution, dans les locaux, installations, sites et moyens de transport visés ci-dessus.\n\nIls signalent leur présence au chef du local, de l’installation ou du site ou à celui qui le remplace. Celui-ci a le droit de les accompagner lors de la visite.\n\n**(2)** Toutefois, et sans préjudice de l’article 33 (1) du Code d’instruction criminelle, s’il existe des indices graves faisant présumer que l’origine de l’infraction se trouve dans les locaux destinés à l’habitation, il peut être procédé à la visite domiciliaire entre six heures et demie et vingt heures par deux officiers de police judiciaire, membres de la Police grand-ducale ou agents au sens de l’article 5, agissant en vertu d’un mandat du juge d’instruction.\n\n**(3)** Les membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire et les personnes visées à l’article 5 ne sont pas tenus de signaler leur présence lors des vérifications effectuées dans les parties librement accessibles au public d’un établissement de vente lors :\n\n1. de la recherche de substances, telles quelles ou contenues dans un mélange, mélanges et articles non conformes ;\n2. de la vérification des étiquettes sur les substances, telles quelles ou contenues dans un mélange, mélanges ou articles, ou leurs emballages, sans pour autant les désemballer ;\n3. du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage des substances, mélanges ou articles ;\n4. de l’achat de substances, telles quelles ou contenues dans un mélange, mélanges ou articles, pour effectuer les contrôles prévus par la présente loi.\n\n**(4)** Lorsque lors des contrôles une infraction est constatée, un procès-verbal est dressé. Une copie de ce procès-verbal est remise à l’opérateur économique ou à son représentant ou en cas d’absence de celui-ci au responsable du local, de l’installation ou du site ou à celui qui le remplace.\n\n**(5)** En cas de constatation d’un manquement aux dispositions de la législation applicable, les frais de contrôle qui ont été à la base de cette constatation de non-conformité peuvent être mis à charge de l’opérateur économique ou de son mandataire.",
+      "text_sha256": "1c004960e80004a723b805226e3d4186767ab9b0b99552ff3eb9cdaabc1f16a9",
+      "md_span": {
+        "start": 9309,
+        "end": 11867
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_7/20190525",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "***Chapitre II.*** — ***Contrôles et sanctions pénales ***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "Les membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire et les personnes visées à l’article 5 sont habilités :\n\n1. à demander aux personnes visées à l’article 7, alinéa 2 toutes documentations et toutes informations qu’ils jugent nécessaires pour constater les infractions aux dispositions visées à l’article 9, les pièces rédigées dans une langue autre que le luxembourgeois, le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues ;\n2. à prélever, aux fins d’examen ou d’analyse, des échantillons des substances, telles quelles ou contenues dans un mélange, mélanges et articles, les échantillons étant pris contre délivrance d’un accusé de réception et une partie de l’échantillon, cachetée ou scellée, étant remise à l’opérateur économique ou à son représentant, à moins que celui-ci y renonce expressément ;\n3. à saisir et au besoin à mettre sous séquestre ces substances, telles quelles ou contenues dans un mélange, et mélanges et articles, ainsi que les registres, écritures et documents les concernant.\n\nTout opérateur économique est tenu, à la réquisition des membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire ou des personnes visées à l’article 5, de faciliter les opérations auxquelles ceux-ci procèdent en vertu de la présente loi.\n\nEn cas de condamnation, les frais occasionnés par les mesures prises en vertu du présent article sont mis à charge du prévenu.\n\nDans tous les autres cas, ces frais sont supportés par l’État.",
+      "text_sha256": "53a99e0aad5c94bbae3466783db102e4a6a05c499405dc427bd816386765507c",
+      "md_span": {
+        "start": 11902,
+        "end": 13449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_8/20111224",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "***Chapitre II.*** — ***Contrôles et sanctions pénales ***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Les associations d’importance nationale dont les statuts ont été publiés au Mémorial et qui exercent depuis au moins trois ans leurs activités statutaires dans le domaine de l’enregistrement, l’évaluation et l’autorisation des substances chimiques, d’une part, et de la classification, l’étiquetage et l’emballage des substances et des mélanges, d’autre part, peuvent faire l’objet d’un agrément du ministre.\n\nLes associations ainsi agréées peuvent exercer les droits reconnus à la partie civile pour des faits constituant une infraction au sens de la présente loi et portant un préjudice direct ou indirect aux intérêts collectifs qu’elles ont pour objet de défendre, même si elles ne justifient pas d’un intérêt matériel et même si l’intérêt collectif dans lequel elles agissent se couvre entièrement avec l’intérêt social dont la défense est assurée par le ministère public.",
+      "text_sha256": "9732bd1f13c2e965c0f43b2ec3f47739074f519d5279aef48418db66089df77e",
+      "md_span": {
+        "start": 13484,
+        "end": 14361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_9/20190525",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "***Chapitre II.*** — ***Contrôles et sanctions pénales ***"
+      ],
+      "article_valid_from": "2019-05-25",
+      "text_md": "**(1)** Sera puni d’un emprisonnement de un à trois ans et d’une amende de 251 à 500 000 euros, ou d’une de ces peines seulement, quiconque aura commis une infraction aux articles 5 à 14, 17 à 19, 21 à 30, 32 à 41, 46, 49, 50, 56, 60 à 62, 65 à 68, 74 ou 129 du règlement REACH.\n\n**(2)** Sera puni d’un emprisonnement de un à trois ans et d’une amende de 251 à 500 000 euros, ou d’une de ces peines seulement, quiconque aura commis une infraction à l’article 4, paragraphes 1er, 2, 3, 4, 7, 8, 9 et 10, aux articles 5 à 15, à l’article 37, paragraphe 6, aux articles 40, 41, 48 ou 49 du règlement CLP.\n\n**(3)** Les mêmes peines s’appliquent en cas d’entrave aux mesures administratives prises en application de l’article 3, paragraphe 1er.",
+      "text_sha256": "c9f717eccb0fc77be1d8758402087192c2904c8bdde083ade69de030a836c254",
+      "md_span": {
+        "start": 14396,
+        "end": 15135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_10/20111224",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "***Chapitre III.*** — ***Organismes chargés de la réception des informations concernant la réponse à apporter en cas d’urgence sanitaire***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "**(1)** Le ministre ayant la Santé dans ses attributions est chargé de la réception des informations pertinentes communiquées par les importateurs et les utilisateurs en aval qui mettent des mélanges sur le marché, aux fins notamment de la formulation de mesures préventives et curatives, en particulier en cas d’urgence sanitaire. Ces informations comprennent la composition chimique des mélanges mis sur le marché et classés comme dangereux en raison de leurs effets sur la santé ou de leurs effets physiques, y compris l’identité chimique des substances contenues dans des mélanges pour lesquelles une demande d’utilisation d’un nom chimique de remplacement a été acceptée par l’Agence européenne des produits chimiques conformément à l’article 24 du règlement CLP.\n\n**(2)** Les informations reçues restent confidentielles et ne peuvent être utilisées à d’autres fins que:\n\n1. pour répondre à une demande d’ordre médical en vue de mesures préventives et curatives, en particulier en cas d’urgence et\n2. lorsqu’elles sont requises par un Etat membre, pour entreprendre une analyse statistique afin de déterminer s’il peut être nécessaire d’améliorer les mesures de gestion des risques.\n\n**(3)** Le ministre ayant la Santé dans ses attributions doit recevoir toutes les informations obtenues auprès des importateurs et des utilisateurs en aval responsables de la commercialisation qui sont nécessaires pour mener à bien les tâches qui lui sont confiées.\n\n**(4)** Le ministre ayant la Santé dans ses attributions peut confier à un organisme, qui est établi sur le territoire de l’Union européenne, l’exécution des tâches qui lui incombent en vertu des paragraphes (1), (2) et (3). Cet organisme doit effectuer ces tâches conformément aux critères prévus par le présent article.",
+      "text_sha256": "875ffd60995a208cdfe96e6506219704bf0cc9ccace910d2915dd7a94236f477",
+      "md_span": {
+        "start": 15316,
+        "end": 17093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_11/20111224",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "***Chapitre IV.*** — ***Service d’assistance technique***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Le ministre désigne le ou les organismes chargés de fournir une assistance technique aux fabricants, aux importateurs, aux distributeurs, aux utilisateurs en aval et à toute autre partie intéressée afin de les informer plus particulièrement sur les responsabilités et les obligations respectives qui leur incombent en vertu du règlement REACH et du règlement CLP.",
+      "text_sha256": "599398555916260dfe3ddf0bd604ae40fa2a6688e577591b5acab31968552bcf",
+      "md_span": {
+        "start": 17192,
+        "end": 17555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_12/20111224",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "***Chapitre V.*** — ***Renforcement du personnel de l’Administration de l’environnement***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "L’Administration de l’environnement est autorisée aux engagements supplémentaires de deux fonctionnaires de la carrière de l’ingénieur et un fonctionnaire de la carrière moyenne.",
+      "text_sha256": "77d452ff2f6f20a9477c5fed43b77f16f10cfff881cef7d7d8583b2d0c78ce27",
+      "md_span": {
+        "start": 17687,
+        "end": 17865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_13/20111224",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "***Chapitre VI.*** — ***Dispositions transitoires, abrogatoires et finales***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "**(1)** La loi modifiée du 15 juin 1994 relative à la classification, l’emballage et l’étiquetage des substances dangereuses, modifiant la loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l’emploi de certaines substances et préparations dangereuses, et la loi modifiée du 3 août 2005 relative à la classification, à l’emballage et à l’étiquetage des préparations dangereuses sont abrogées avec effet au 1er juin 2015.\n\n**(2)** Les mesures transitoires visées à l’article 61 du règlement CLP régissent l’application des lois précitées jusqu’à cette date.",
+      "text_sha256": "53acb44e2baa6cfbf24e5c0361ff6eeb0304b5044a94824f4834ffb398b77543",
+      "md_span": {
+        "start": 17984,
+        "end": 18562
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1994/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1994"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1981/03/11/n1/jo",
+          "text": "loi du 11 mars 1981"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2005/08/03/n8/jo",
+          "text": "loi modifiée du 3 août 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_14/20111224",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "***Chapitre VI.*** — ***Dispositions transitoires, abrogatoires et finales***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "La loi du 27 avril 2009 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances est abrogée.",
+      "text_sha256": "f0a898f29fbdc2d44e2a1cfbf54c6db011b4870e450cddc0abdbbaadfa11d54f",
+      "md_span": {
+        "start": 18599,
+        "end": 18777
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/04/27/n1/jo",
+          "text": "loi du 27 avril 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2011-12-16-n6:2019-05-25--6efc171dea3ea5c393c448f8b85c971b703c1ddc06b175246a462e0cffb274a8#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/art_15/20111224",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "***Chapitre VI.*** — ***Dispositions transitoires, abrogatoires et finales***"
+      ],
+      "article_valid_from": "2011-12-24",
+      "text_md": "Dans toute disposition légale ou réglementaire future, la référence à la présente loi peut se faire sous une forme abrégée en utilisant les termes «*loi du 16 décembre 2011 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques ainsi que la classification, l’étiquetage et l’emballage des substances et mélanges chimiques*»",
+      "text_sha256": "869c991ec5e08fe838ee856a55ba9152cd8db73bea22f10f41e5504b53f73002",
+      "md_span": {
+        "start": 18814,
+        "end": 19167
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 16 décembre 2011"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,217 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571",
+  "language": "fr",
+  "title": "Version consolidée applicable au 19/12/2021 : Règlement grand-ducal du 5 mai 2017, 1. portant exécution de la loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) n° 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l’utilisation de précurseurs d’explosifs, modifiant le règlement (CE) n° 1907/2006 et abrogeant le règlement (UE) n° 98/2013 ; 2. relatif à la formation et au contrôle des connaissances des fonctionnaires chargés de constater les infractions au règlement (UE) n° 2019/1148.",
+  "valid_from": "2018-04-24",
+  "valid_to": "2021-12-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-05-05-a485/versions/2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571/fr.xml",
+    "sha256": "ff3473d0cea0770343a4198b3242eef6e090dff144c4e172ccf2d622f53fae00",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20180424/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_1er/20170516",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Le présent règlement grand-ducal a pour objet de définir les données de contact du point de contact national prévu à l’article 3 de la loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) n° 98/2013 du Parlement européen et du Conseil du 15 janvier 2013 sur la commercialisation et l’utilisation de précurseurs d’explosifs, ci-après dénommée “la Loi“, ainsi que les modalités de la formation et du contrôle des connaissances des fonctionnaires chargés de constater les infractions à la Loi.",
+      "text_sha256": "dc4ff66185f39d4ef7dd166fc97d6f7fddc7889e7f57ff6e3f8cc93da85ed6c0",
+      "md_span": {
+        "start": 1147,
+        "end": 1682
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2017/05/05/a484/jo",
+          "text": "loi du 5 mai 2017"
+        },
+        {
+          "href": "/eli/reg_ue/2013/98/jo",
+          "text": "règlement (UE) n° 98/2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_2/20170516",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Le point de contact national pour le signalement des transactions suspectes, des disparitions importantes et des vols importants de précurseurs d’explosifs au sens du règlement (UE) n° 98/2013 et de la Loi devra être contacté selon l’un des modes suivants:\n\n1. par téléphone : au numéro au numéro 4997 2575 de la Police grand-ducale;\n2. sri@police.etat.lu",
+      "text_sha256": "81eaf2f34f42a8fd2be3f84864b64512b146556b1ff776b0760fc45a3037a039",
+      "md_span": {
+        "start": 1717,
+        "end": 2072
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/98/jo",
+          "text": "règlement (UE) n° 98/2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_3/20170516",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Les fonctionnaires de l’Administration des douanes et accises à partir du grade de brigadier principal, admissibles à la formation spéciale prévue à l’article 4, paragraphe 2, de la Loi, sont sélectionnés par le directeur de l’Administration des douanes et accises en fonction des besoins de son administration parmi les fonctionnaires qui justifient d’une expérience professionnelle d’au moins cinq années de service, qui peuvent présenter un bulletin N° 2 du casier judiciaire ne renseignant aucune condamnation et qui n’ont fait l’objet d’aucune sanction disciplinaire.",
+      "text_sha256": "50269f197e3e25b0e52787746b70410f77b65f6a4407fbce1fb0bc3049182271",
+      "md_span": {
+        "start": 2107,
+        "end": 2679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_4/20170516",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "La formation spéciale des fonctionnaires visés à l’article 3, qui s’étend sur une durée totale de 48 heures, porte sur les matières suivantes:\n\n| la législation pénalenotions sur le droit pénal général et spécial notions sur la procédure pénale | 6 heures;4 heures; |\n| --- | --- |\n| la législation spéciale : loi du 5 mai 2017 concernant certaines conditions d’application et les sanctions du règlement (UE) n° 98/2013 sur la commercialisation et l’utilisation de précurseurs d’explosifs | 8 heures; |\n| les procédures relatives aux autorisations en matière de contrôle de la commercialisation et de l’utilisation des précurseurs d’explosifs | 4 heures; |\n| la détermination de la typologie des biens visés par la loi du 5 mai 2017 concernant certaines conditions d’application et les sanctions du règlement (UE) n° 98/2013 sur la commercialisation et l’utilisation de précurseurs d’explosifs | 6 heures; |\n| l’établissement d’un procès-verballes règles d’établissement du procès-verballa rédaction des rapportsl’audition des contrevenants et des témoins ;la transmission du dossier aux autorités judiciaires | 10 heures;4 heures;4 heures;2 heures. |\n\nEn vue de son admission à l’examen prévu à l’article 6, le candidat doit justifier d’une présence aux cours correspondant à au moins 90 pour cent de la durée totale de la formation.",
+      "text_sha256": "23d3130633f9cb69c8fccb6801b488be62163c168c3a71e2b8be850149e5590c",
+      "md_span": {
+        "start": 2714,
+        "end": 4048
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2017/05/05/a484/jo",
+          "text": "loi du 5 mai 2017"
+        },
+        {
+          "href": "/eli/reg_ue/2013/98/jo",
+          "text": "règlement (UE) n° 98/2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_5/20170516",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Des cycles de formation sont organisés par l’Institut national d’administration publique, selon les besoins de l’Administration des douanes et accises.",
+      "text_sha256": "e48bb97bf7fcbf233b2e7024299720ff047489b5b702c9a538d09edcf2ead71a",
+      "md_span": {
+        "start": 4083,
+        "end": 4234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_6/20180424",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-04-24",
+      "text_md": "**(1)** Le contrôle des connaissances se fait à l'issue de la formation prévue à l'article 5, sous forme d'un examen écrit devant une commission d'examen composée comme suit:\n\n- un représentant du ministre ayant la Protection nationale dans ses attributions;\n- un représentant du ministre ayant l’Économie dans ses attributions;\n- un représentant du ministre ayant les Finances dans ses attributions;\n- un représentant du ministre ayant l’Environnement dans ses attributions;\n- un représentant des chargés de cours ayant dispensé la formation auprès de l’Institut national d’administration publique;\n- deux représentants du Parquet.\n\n**(2)** Les membres de la commission sont nommés par le ministre ayant la Protection nationale dans ses attributions, ci-après désigné le ministre. Celui-ci désigne le président et le secrétaire parmi les membres de la commission.\n\n**(3)** Ne peuvent siéger comme membre de la commission les parents ou alliés d’un candidat jusqu’au quatrième degré.",
+      "text_sha256": "32ae769555efa7c4beb2abedc3cf32fb9cd6fee5927c044f4e726f96e2cbc257",
+      "md_span": {
+        "start": 4269,
+        "end": 5252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_7/20170516",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "**(1)** L'examen porte sur les épreuves suivantes:\n\n| une épreuve écrite sur les matières visées sous 1 de l’article 4 | 30 points |\n| --- | --- |\n| une épreuve écrite sur les matières visées sous 2 et 3 de l’article 4 | 30 points |\n| une épreuve écrite sur les matières visées sous 4 de l’article 4 | 20 points |\n| une épreuve écrite sur les matières visées sous 5 de l’article 4 | 20 points |\n\n**(2)** Les épreuves sont corrigées séparément par deux membres de la commission et les notes attribuées sont transmises au président et au secrétaire qui en établissent la moyenne arithmétique.\n\nLa commission décide de l’admission, de l’ajournement et de l’échec des candidats conformément aux modalités du paragraphe 3 et elle établit le rang de classement des candidats. Ses décisions sont prises à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.\n\nLa commission dresse un procès-verbal de l’examen qu’elle communique au ministre.\n\n**(3)** A réussi à l’examen le candidat qui a obtenu dans chacune des quatre épreuves au moins la moitié du maximum des points, et sous condition que le total des points obtenus soit égal au moins aux trois cinquièmes du total du maximum des points pouvant être obtenus dans les quatre épreuves.\n\nL’ajournement total est prononcé lorsque le candidat n’a pas obtenu au moins les trois cinquièmes du total des points à attribuer pour l’ensemble des épreuves, ou lorsqu’il a obtenu une note insuffisante dans trois au moins des quatre épreuves.\n\nDans tous les autres cas, la commission d’examen prononce un ajournement partiel.\n\nLe candidat ajourné partiellement ou totalement est tenu de refaire l’épreuve ou les épreuves jugées insuffisantes au cours de la session suivante de l’examen.\n\nLe candidat ajourné partiellement ou totalement qui n’a pas réussi lors de la deuxième session à laquelle il participe n’est plus autorisé à se présenter à des sessions ultérieures de l’examen.",
+      "text_sha256": "cc9db3164bf0b5259dbfdc6b842902394978b6a2d69d273734b817dd680fb579",
+      "md_span": {
+        "start": 5287,
+        "end": 7238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_8/20170516",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "**(1)** Une carte d’identification de service est délivrée aux fonctionnaires assermentés.\n\n**(2)** La carte d'identification de service consiste en une carte plastifiée bleu clair, de format 8,6 x 5,4 cm. Cette carte comporte au recto les inscriptions \"Grand-Duché de Luxembourg\" et \"Carte d'identification de service\", un numéro courant, la date limite de validité, la signature du ministre ainsi que le nom, les prénoms, la fonction, le service d'attache et la photographie en couleur de son titulaire. La durée de validité de la carte est limitée à cinq ans.\n\nSur le verso figure le texte \"La présente carte d'identification de service est strictement personnelle. Son détenteur est habilité à exercer les fonctions d'officier de police judiciaire en relation avec la constatation des infractions au règlement (UE) n° 98/2013 et à la loi du 5 mai 2017 concernant la commercialisation et l’utilisation de précurseurs d’explosifs\" et \"Dieser Dienstausweis ist nicht übertragbar. Seinem Inhaber wurden Polizeibefugnisse verliehen, um Verstösse gegen die Verordnung (EU) n° 98/2013 und das Gesetz vom 5. Mai 2017 über die Vermarktung und die Verwendung von Ausgangsstoffen für Explosivstoffe festzustellen.\"",
+      "text_sha256": "36965da0274b939683cb59028878901d66a5dca19878432bb39a2df526c6174f",
+      "md_span": {
+        "start": 7273,
+        "end": 8480
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/98/jo",
+          "text": "règlement (UE) n° 98/2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2017/05/05/a484/jo",
+          "text": "loi du 5 mai 2017"
+        },
+        {
+          "href": "/eli/reg_ue/2013/98/jo",
+          "text": "Verordnung (EU) n° 98/2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2017/05/05/a484/jo",
+          "text": "Gesetz vom 5. Mai 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24--4e190e169ddc219c2a0bea3654fe28315f1170b674d31fd8bc1b5f49ad3c2571#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/art_9/20170516",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-05-16",
+      "text_md": "Notre Premier Ministre, Ministre d’État et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "7f6b3bbcf38338a39c06962d830ca82c58d005098e1b85b97be44ba72a09d58e",
+      "md_span": {
+        "start": 8515,
+        "end": 8731
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

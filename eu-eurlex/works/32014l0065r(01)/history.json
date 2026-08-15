@@ -2,45 +2,33 @@
   "lex_work_id": "eu-eurlex:32014l0065r(01)",
   "schema": "lex-articles/1",
   "profiles": [
-    "html-eu-tolerant/1",
-    "xhtml-eu-xlink-context/1"
+    "html-eu-tolerant/1"
   ],
-  "primary_language": "en",
+  "primary_language": "fr",
   "anchors": {
     "document": [
       {
         "valid_from": "2014-11-27",
         "valid_to": null,
-        "text_sha256": "d897253ae94da550d16e1fa237fb14f9362f627fd08365f4fbeba1b511cf8af5",
-        "in_version": "eu-eurlex:32014l0065r(01):2014-11-27"
+        "text_sha256": "97088973d464ec51b95cfbff9cf7eeb40074521c639da46dbed770946745e35a",
+        "in_version": "eu-eurlex:32014l0065r(01):2014-11-27--3cd9667d1941153802f0f15577ec2182a83097e39b1136f83dc179164fb946d3"
       }
     ]
   },
   "anchor_events": [],
   "anchors_by_language": {
-    "en": {
-      "document": [
-        {
-          "valid_from": "2014-11-27",
-          "valid_to": null,
-          "text_sha256": "d897253ae94da550d16e1fa237fb14f9362f627fd08365f4fbeba1b511cf8af5",
-          "in_version": "eu-eurlex:32014l0065r(01):2014-11-27"
-        }
-      ]
-    },
     "fr": {
       "document": [
         {
           "valid_from": "2014-11-27",
           "valid_to": null,
           "text_sha256": "97088973d464ec51b95cfbff9cf7eeb40074521c639da46dbed770946745e35a",
-          "in_version": "eu-eurlex:32014l0065r(01):2014-11-27"
+          "in_version": "eu-eurlex:32014l0065r(01):2014-11-27--3cd9667d1941153802f0f15577ec2182a83097e39b1136f83dc179164fb946d3"
         }
       ]
     }
   },
   "anchor_events_by_language": {
-    "en": [],
     "fr": []
   }
 }

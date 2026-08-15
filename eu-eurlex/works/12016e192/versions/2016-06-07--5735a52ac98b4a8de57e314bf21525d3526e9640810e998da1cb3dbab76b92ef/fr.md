@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12016e192:2016-06-07--5735a52ac98b4a8de57e314bf21525d3526e9640810e998da1cb3dbab76b92ef'
+title: 'Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…'
+valid_from: '2016-06-07'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E192'
+source_sha256: '40d17583ba68b2f889ac870b54ea2f03b818e6cda86568fd0ff9b74ed99fe585'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+7.6.2016 FR Journal officiel de l'Union européenne C 202/133 Article 192 (ex-article 175 TCE) 1. Le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire et après consultation du Comité économique et social et du Comité des régions, décident des actions à entreprendre par l'Union en vue de réaliser les objectifs visés à l'article 191. 2. Par dérogation à la procédure de décision prévue au paragraphe 1 et sans préjudice de l'article 114, le Conseil, statuant à l'unanimité conformément à une procédure législative spéciale, et après consultation du Parlement européen, du Comité économique et social et du Comité des régions, arrête: a) des dispositions essentiellement de nature fiscale; b) les mesures affectant: — l'aménagement du territoire; — la gestion quantitative des ressources hydrauliques ou touchant directement ou indirectement la disponibilité desdites ressources; — l'affectation des sols, à l'exception de la gestion des déchets; c) les mesures affectant sensiblement le choix d'un État membre entre différentes sources d'énergie et la structure générale de son approvisionnement énergétique. Le Conseil, statuant à l'unanimité sur proposition de la Commission et après consultation du Parlement européen, du Comité économique et social et du Comité des régions, peut rendre la procédure législative ordinaire applicable aux domaines visés au premier alinéa. 3. Des programmes d'action à caractère général fixant les objectifs prioritaires à atteindre sont arrêtés par le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire et après consultation du Comité économique et social et du Comité des régions. Les mesures nécessaires à la mise en œuvre de ces programmes sont adoptées conformément aux conditions prévues au paragraphe 1 ou au paragraphe 2, selon le cas. 4. Sans préjudice de certaines mesures adoptées par l'Union, les États membres assurent le financement et l'exécution de la politique en matière d'environnement. 5. Sans préjudice du principe du pollueur-payeur, lorsqu'une mesure fondée sur le paragraphe 1 implique des coûts jugés disproportionnés pour les pouvoirs publics d'un État membre, cette mesure prévoit les dispositions appropriées sous forme: — de dérogations temporaires et/ou — d'un soutien financier du Fonds de cohésion créé conformément à l'article 177.

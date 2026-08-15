@@ -1,0 +1,445 @@
+---
+lex_id: 'eu-eurlex:32015l2302:2029-03-29--53fd5a4006bea45fde23d91a00db195f05193f61b33c87853a2a66dcbbebe5e5'
+title: 'Directive (EU) 2015/2302'
+valid_from: '2029-03-29'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015L2302-20290329'
+source_sha256: 'c28780269a8718ea5cf7d9f3ae916cdbb54a8cd795a03e335e1d5e0b92eed24d'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPITRE I — OBJET, CHAMP D'APPLICATION, DÉFINITIONS ET NIVEAU D'HARMONISATION
+
+<a id="art_1"></a>
+
+### Article premier
+
+La présente directive a pour objet de contribuer au bon fonctionnement du marché intérieur et à la réalisation d’un niveau élevé de protection des consommateurs et le plus uniforme possible en rapprochant certains aspects des dispositions législatives, réglementaires et administratives des États membres concernant les contrats entre voyageurs et professionnels relatifs aux voyages à forfait, certains aspects des contrats entre organisateurs de forfaits et prestataires de services de voyage, ainsi que les exigences d’information spécifiques applicables à certaines situations ne donnant pas lieu à la création d’un forfait.
+
+<a id="art_2"></a>
+
+### Article 2 — Champ d'application
+
+**1.** La présente directive s’applique aux forfaits offerts à la vente ou vendus par des professionnels à des voyageurs, ainsi qu’aux exigences d’information spécifiques applicables à certaines situations ne donnant pas lieu à la création d’un forfait. Elle s’applique également au droit des organisateurs à un remboursement de la part des prestataires de services de voyage en cas d’annulation ou de non-fourniture d’un service faisant partie d’un forfait.
+
+**2.** La présente directive ne s’applique pas:a) aux forfaits couvrant une période de moins de 24 heures, à moins qu’une nuitée ne soit incluse;b) aux forfaits proposés à titre occasionnel et dans un but non lucratif et à un groupe limité de voyageurs uniquement;c) aux forfaits achetés en vertu d’une convention générale conclue pour l’organisation d’un voyage d’affaires entre un professionnel et une autre personne physique ou morale agissant à des fins liées à son activité commerciale, industrielle, artisanale ou libérale.
+
+**3.** La présente directive n'a pas d'incidence sur les dispositions générales du droit des contrats prévues au niveau national, notamment les règles relatives à la validité, à la formation et aux effets des contrats, dans la mesure où les aspects généraux du droit des contrats ne sont pas régis par la présente directive.
+
+<a id="art_3"></a>
+
+### Article 3 — Définitions
+
+Aux fins de la présente directive, on entend par:
+
+1. «service de voyage»: a) le transport de passagers; b) l'hébergement qui ne fait pas partie intégrante du transport de passagers et qui n'a pas un objectif résidentiel; c) la location de voitures, d'autres véhicules à moteur au sens de l'article 3, point 11, de la directive 2007/46/CE du Parlement européen et du Conseil (1) ou de motocycles dont la conduite nécessite la possession d'un permis de conduire de catégorie À conformément à l'article 4, paragraphe 3, point c), de la directive 2006/126/CE du Parlement européen et du Conseil (2); d) tout autre service touristique qui ne fait pas partie intégrante d'un service de voyage au sens des points a), b) ou c);
+
+2. «forfait», la combinaison d’au moins deux types différents de services de voyage aux fins du même voyage ou séjour de vacances, si: a) ces services sont combinés par un seul professionnel, y compris à la demande du voyageur ou conformément à son choix, avant qu’un contrat unique incluant tous ces services ne soit conclu; ou b) indépendamment de l’éventuelle conclusion de contrats séparés avec des prestataires de services de voyage individuels, ces services sont: i) achetés auprès d’un seul point de vente et ont été choisis avant que le voyageur n’accepte de payer; ii) proposés, vendus ou facturés à un prix tout compris ou à un prix total, indépendamment de toute facturation séparée; iii) annoncés ou vendus sous la dénomination de «forfait» ou sous une dénomination similaire; iv) combinés après la conclusion d’un contrat par lequel un professionnel autorise le voyageur à choisir parmi une sélection de différents types de services de voyage; ou v) achetés auprès d’un professionnel distinct ou de professionnels grâce à des procédures de réservation en ligne liées, lorsque les données à caractère personnel du voyageur grâce auxquelles celui-ci peut être identifié comme partie contractante sont transmises par le professionnel avec lequel le premier contrat est conclu à un autre professionnel ou à d’autres professionnels et lorsqu’un contrat avec cet autre professionnel ou ces autres professionnels est conclu au plus tard 24 heures après la confirmation de la réservation du premier service de voyage. La combinaison de services de voyages dans laquelle un seul des types de services de voyage visés au point 1, a), b) ou c), est combiné à un ou plusieurs des services touristiques visés au point 1, d), ne constitue pas un forfait si ces derniers services: a) ne représentent pas au moins 25 % de la valeur de la combinaison, ne sont pas annoncés comme étant une caractéristique essentielle de la combinaison et ne constituent pas d’une manière ou d’une autre une telle caractéristique; ou b) sont choisis et achetés uniquement après que l’exécution d’un service de voyage visé au point 1, a), b) ou c), a commencé;
+
+3. «contrat de voyage à forfait», un contrat portant sur le forfait formant un tout ou, si le forfait est fourni dans le cadre de contrats séparés, tous les contrats couvrant les services de voyage compris dans le forfait;
+
+4. «début du forfait», le commencement de l'exécution des services de voyage compris dans le forfait;
+
+6. «voyageur», toute personne cherchant à conclure un contrat relevant du champ d'application de la présente directive ou ayant le droit de voyager sur la base d'un tel contrat déjà conclu;
+
+7. «professionnel», toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, aux fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale en ce qui concerne des contrats relevant de la présente directive, en sa qualité d’organisateur, de détaillant ou de prestataire d’un service de voyage;
+
+8. «organisateur», un professionnel qui élabore des forfaits et les vend ou les offre à la vente, directement ou par l'intermédiaire d'un autre professionnel ou encore conjointement avec un autre professionnel, ou un professionnel qui transmet les données du voyageur à un autre professionnel conformément au point 2) b) v);
+
+9. «détaillant», un professionnel autre que l'organisateur, qui vend ou offre à la vente des forfaits élaborés par un organisateur;
+
+10. «établissement», l'établissement défini à l'article 4, point 5), de la directive 2006/123/CE;
+
+11. «support durable», tout instrument permettant au voyageur ou au professionnel de stocker des informations qui lui sont adressées personnellement d'une manière permettant de s'y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées;
+
+12. «circonstances exceptionnelles et inévitables», des circonstances objectives qui échappent au contrôle de la partie qui invoque ces circonstances et dont les conséquences n’auraient pu être évitées même si toutes les mesures raisonnables avaient été prises;
+
+13. «non-conformité», l'inexécution ou la mauvaise exécution des services de voyage compris dans un forfait;
+
+14. «mineur», une personne âgée de moins de 18 ans;
+
+15. «point de vente», tout site commercial, qu'il soit meuble ou immeuble, ou un site internet commercial ou une structure de vente en ligne similaire, y compris lorsque des sites internet commerciaux ou des structures de vente en ligne sont présentés aux voyageurs comme une structure unique, y compris un service téléphonique;
+
+16. «rapatriement», le retour du voyageur au lieu de départ ou à un autre lieu décidé d'un commun accord par les parties contractantes.
+
+<a id="art_4"></a>
+
+### Article 4 — Niveau d'harmonisation
+
+Sauf si la présente directive en dispose autrement, les États membres s'abstiennent de maintenir ou d'introduire, dans leur droit national, des dispositions s'écartant de celles fixées par la présente directive, notamment des dispositions plus strictes ou plus souples visant à assurer un niveau différent de protection des voyageurs.
+
+## CHAPITRE II — OBLIGATIONS D'INFORMATION ET CONTENU DU CONTRAT DE VOYAGE À FORFAIT
+
+<a id="art_5"></a>
+
+### Article 5 — Informations précontractuelles
+
+**1.** Les États membres veillent à ce que l'organisateur, ainsi que le détaillant lorsque les forfaits sont vendus par l'intermédiaire d'un détaillant, communique au voyageur, avant qu'il ne soit lié par un contrat de voyage à forfait ou toute offre correspondante, les informations standard au moyen du formulaire pertinent figurant à l'annexe I, partie A ou B, et, dans le cas où elles s'appliquent au forfait, les informations mentionnées ci-après:a) les caractéristiques principales des services de voyage:i) la ou les destinations, l'itinéraire et les périodes de séjour, avec les dates et, lorsque l'hébergement est compris, le nombre de nuitées comprises;ii) les moyens, caractéristiques et catégories de transport, les lieux, dates et heures de départ et de retour, la durée et le lieu des escales et des correspondances.Lorsque l'heure exacte n'est pas encore fixée, l'organisateur et, le cas échéant, le détaillant informent le voyageur de l'heure approximative du départ et du retour;iii) la situation, les principales caractéristiques et, s'il y a lieu, la catégorie touristique de l'hébergement en vertu des règles du pays de destination;iv) les repas fournis;v) les visites, les excursions ou les autres services compris dans le prix total convenu pour le forfait;vi) lorsque cela ne ressort pas du contexte, si les services de voyage éventuels seront fournis au voyageur en tant que membre d'un groupe et, dans ce cas, si possible, la taille approximative du groupe;vii) lorsque le bénéfice d'autres services touristiques fournis au voyageur repose sur une communication verbale efficace, la langue dans laquelle ces services seront fournis; et▼M2viii) des informations sur le fait de savoir si les services de voyage compris dans le forfait sont, d’une manière générale, accessibles aux personnes à mobilité réduite, que cette mobilité réduite soit due à un handicap ou à d’autres causes et que cette mobilité réduite soit permanente ou temporaire, et, à la demande du voyageur, des informations supplémentaires sur l’accessibilité ou l’adéquation du forfait compte tenu des besoins spécifiques communiqués par le voyageur;b) la dénomination sociale et l’adresse géographique de l’organisateur et, s’il y a lieu, du détaillant, ainsi que leurs coordonnées téléphoniques et, s’il y a lieu, une adresse électronique, permettant au voyageur de contacter rapidement l’organisateur et, le cas échéant, le détaillant, et de communiquer avec eux de manière efficace;▼Bc) le prix total du forfait incluant les taxes et, s'il y a lieu, tous les frais, redevances ou autres coûts supplémentaires, ou, quand ceux-ci ne peuvent être raisonnablement calculés avant la conclusion du contrat, une indication du type de coûts additionnels que le voyageur peut encore avoir à supporter;▼M2d) les modalités de paiement, y compris les points de fidélité existants ou les autres avantages relevant d’un système de récompense, ainsi que le montant ou le pourcentage du prix à verser à titre d’acompte et le calendrier pour le paiement du solde, ou les garanties financières à verser ou à fournir par le voyageur;▼Be) le nombre minimal de personnes requis pour la réalisation du forfait et la date limite visée à l'article 12, paragraphe 3, point a), précédant le début du forfait pour une éventuelle résiliation du contrat au cas où ce nombre ne serait pas atteint;▼M2f) des informations pertinentes d’ordre général concernant les conditions applicables en matière de passeports et de visas, y compris la durée approximative d’obtention des visas, ainsi que des renseignements sur les formalités sanitaires, des pays de destination et de transit;g) une mention indiquant que le voyageur a le droit de résilier le contrat de voyage à forfait à tout moment avant le début du forfait, moyennant le paiement de frais de résiliation appropriés et justifiables ou, le cas échéant, des frais de résiliation standard réclamés par l’organisateur, conformément à l’article 12, paragraphe 1, et que le voyageur a le droit de résilier le contrat de voyage à forfait sans payer de frais de résiliation en cas de circonstances exceptionnelles et inévitables, conformément à l’article 12, paragraphe 2;▼Bh) des informations sur les assurances obligatoires ou facultatives couvrant les frais de résiliation du contrat par le voyageur ou sur le coût d'une assistance, couvrant le rapatriement, en cas d'accident, de maladie ou de décès.
+
+Dans le cas des contrats de voyage à forfait conclus par téléphone, l'organisateur et, le cas échéant, le détaillant fournissent au voyageur les informations standard figurant à l'annexe I, partie B, et les informations qui sont énumérées au premier alinéa, points a) à h).
+
+**2.** En ce qui concerne les forfaits définis à l'article 3, point 2) b) v), l'organisateur et le professionnel auxquels les données sont transmises veillent à ce que chacun d'eux fournisse, avant que le voyageur ne soit lié par un contrat ou toute offre correspondante, les informations énumérées au paragraphe 1, premier alinéa, points a) à h), du présent article dans la mesure où celles-ci sont pertinentes pour les services de voyage qu'ils offrent. L'organisateur fournit également, en même temps, les informations standard au moyen du formulaire figurant à l'annexe I, partie C.
+
+**3.** Les informations visées aux paragraphes 1 et 2 sont présentées d'une manière claire, compréhensible et apparente. Lorsque ces informations sont présentées par écrit, elles doivent être lisibles.
+
+<a id="art_5a"></a>
+
+### Article 5 bis
+
+**1.** Sans préjudice de l’article 23, dans les situations de réservation qui ne donnent pas lieu à la création d’un forfait et lorsqu’un professionnel invite un voyageur à acheter un type de service de voyage supplémentaire pour le même voyage ou séjour de vacances, le professionnel, au moment de cette invitation, informe le voyageur d’une manière claire, compréhensible et apparente que, si le voyageur accepte ensuite de payer pour un type de service de voyage supplémentaire après avoir accepté de payer pour le premier type de service de voyage, le premier type de service de voyage et le type de service de voyage supplémentaire ne constitueront pas un forfait et le voyageur ne bénéficiera pas des droits applicables aux forfaits au titre de la présente directive.
+
+**2.** Lorsqu’un professionnel formule l’invitation visée au paragraphe 1 avant que le voyageur accepte de payer pour un premier type de service de voyage, mais ne fournit pas les informations visées audit paragraphe, et que le voyageur accepte ensuite de payer pour le type de service de voyage supplémentaire au même point de vente dans un délai de 24 heures après avoir accepté de payer pour le premier type de service de voyage, les services de voyage concernés constituent un forfait, et le professionnel est réputé être l’organisateur de ce forfait.
+
+<a id="art_6"></a>
+
+### Article 6 — Caractère contraignant des informations précontractuelles et conclusion du contrat de voyage à forfait
+
+**1.** Les États membres veillent à ce que les informations communiquées au voyageur conformément à l'article 5, paragraphe 1, premier alinéa, points a), c), d), e) et g), fassent partie intégrante du contrat de voyage à forfait et ne soient pas modifiées, sauf si les parties contractantes en conviennent expressément autrement. L'organisateur et, le cas échéant, le détaillant communiquent toutes les modifications relatives aux informations précontractuelles au voyageur, de façon claire, compréhensible et apparente, avant la conclusion du contrat de voyage à forfait.
+
+**2.** Si l'organisateur et, le cas échéant, le détaillant n'ont pas satisfait aux obligations d'information concernant les frais, redevances ou autres coûts supplémentaires visés à l'article 5, paragraphe 1, premier alinéa, point c), avant la conclusion du contrat de voyage à forfait, le voyageur n'est pas redevable desdits frais, redevances ou autres coûts.
+
+<a id="art_7"></a>
+
+### Article 7 — Contenu du contrat de voyage à forfait et documents à fournir avant le début du forfait
+
+**1.** Les États membres veillent à ce que les contrats de voyage à forfait soient formulés en termes clairs et compréhensibles et, s'ils revêtent la forme écrite, à ce qu'ils soient lisibles. Lors de la conclusion du contrat de voyage à forfait, ou sans retard excessif par la suite, l'organisateur ou le détaillant fournit au voyageur une copie ou une confirmation du contrat sur un support durable. Le voyageur est en droit de demander un exemplaire papier si le contrat de voyage à forfait a été conclu en la présence physique et simultanée des parties.
+
+En ce qui concerne les contrats hors établissement au sens de l'article 2, point 8), de la directive 2011/83/UE, un exemplaire ou la confirmation du contrat de voyage à forfait est fournie au voyageur sur support papier ou, moyennant l'accord de celui-ci, sur un autre support durable.
+
+**2.** Le contrat de voyage à forfait ou sa confirmation reprend l'ensemble du contenu de la convention, qui inclut toutes les informations mentionnées à l'article 5, paragraphe 1, premier alinéa, points a) à h), et les informations suivantes:a) les exigences particulières du voyageur que l'organisateur a acceptées;▼M2b) une mention indiquant:i) que l’organisateur est responsable de la bonne exécution de tous les services de voyage compris dans le contrat de voyage à forfait conformément à l’article 13, de tout remboursement dû à la suite de la résiliation ou de la modification dudit contrat, et de la fourniture d’une aide conformément à l’article 16 si le voyageur est en difficulté;ii) le cas échéant, que le voyageur peut également contacter l’organisateur par l’intermédiaire du détaillant;▼Bc) le nom de l'entité chargée de la protection contre l'insolvabilité et ses coordonnées, dont son adresse géographique et, le cas échéant, le nom de l'autorité compétente désignée par l'État membre concerné à cette fin et ses coordonnées;d) le nom, l'adresse, le numéro de téléphone, l'adresse électronique et, le cas échéant, le numéro de télécopieur, du représentant local de l'organisateur, d'un point de contact ou d'un autre service par l'intermédiaire duquel le voyageur peut contacter rapidement l'organisateur et communiquer avec lui de manière efficace, demander une aide si le voyageur est en difficulté ou se plaindre de toute non-conformité constatée lors de l'exécution du forfait;e) une mention indiquant que le voyageur est tenu de communiquer toute non-conformité qu'il constate lors de l'exécution du forfait conformément à l'article 13, paragraphe 2;f) lorsque des mineurs, non accompagnés par un parent ou une autre personne autorisée, voyagent sur la base d'un contrat de voyage à forfait comprenant un hébergement, des informations permettant d'établir un contact direct avec le mineur ou la personne responsable du mineur sur le lieu de séjour du mineur;▼M2g) des informations sur les modalités de traitement des plaintes, y compris la ou les langues dans lesquelles une plainte peut être introduite et sera traitée et l’adresse physique ou électronique à laquelle les plaintes peuvent être introduites, ainsi que des informations sur les mécanismes de règlement extrajudiciaire des litiges (REL) conformément à la directive 2013/11/UE du Parlement européen et du Conseil (3) et, s’il y a lieu, sur l’entité de REL dont relève le professionnel;▼Bh) des informations sur le droit du voyageur de céder le contrat à un autre voyageur conformément à l'article 9.
+
+**2 bis.** Le formulaire d’information pertinent figurant à l’annexe I est joint au contrat de voyage à forfait et mis à la disposition du voyageur sur un support durable au moment de la conclusion dudit contrat. Le contrat de voyage à forfait contient une référence claire à ce formulaire d’information.
+
+**3.** En ce qui concerne les forfaits définis à l'article 3, point 2) b) v), le professionnel auquel les données sont transmises informe l'organisateur de la conclusion du contrat donnant lieu à la création d'un forfait. Le professionnel lui fournit les informations nécessaires pour lui permettre de s'acquitter de ses obligations en tant qu'organisateur.
+
+Dès que l'organisateur est informé de la création d'un forfait, l'organisateur fournit au voyageur, sur un support durable, les informations visées au paragraphe 2, points a) à h).
+
+**4.** Les informations visées aux paragraphes 2 et 3 sont présentées d'une manière claire, compréhensible et apparente.
+
+**5.** En temps utile avant le début du forfait, l'organisateur remet au voyageur les reçus, bons de voyage et billets nécessaires, les informations sur l'heure prévue de départ et, s'il y a lieu, l'heure limite d'enregistrement ainsi que les heures prévues des escales, des correspondances et de l'arrivée.
+
+<a id="art_8"></a>
+
+### Article 8 — Charge de la preuve
+
+La charge de la preuve concernant le respect des obligations d'information énoncées dans le présent chapitre incombe au professionnel.
+
+## CHAPITRE III — MODIFICATIONS DU CONTRAT DE VOYAGE À FORFAIT AVANT LE DÉBUT DU FORFAIT
+
+<a id="art_9"></a>
+
+### Article 9 — Cession du contrat de voyage à forfait à un autre voyageur
+
+**1.** Les États membres veillent à ce qu'un voyageur puisse, moyennant un préavis raisonnable adressé à l'organisateur sur un support durable avant le début du forfait, céder le contrat de voyage à forfait à une personne satisfaisant à toutes les conditions applicables à ce contrat. Un préavis adressé au plus tard sept jours avant le début du forfait est, en tout état de cause, considéré comme raisonnable.
+
+**2.** Le cédant du contrat de voyage à forfait et le cessionnaire sont solidairement responsables du paiement du solde du prix ainsi que des frais, redevances ou autres coûts supplémentaires éventuels occasionnés par cette cession. L'organisateur informe le cédant des coûts réels de la cession. Ces coûts ne sont pas déraisonnables et n'excèdent pas le coût effectivement supporté par l'organisateur en raison de la cession du contrat de voyage à forfait.
+
+**3.** L'organisateur apporte au cédant la preuve des frais, redevances ou autres coûts supplémentaires occasionnés par la cession du contrat de voyage à forfait.
+
+<a id="art_10"></a>
+
+### Article 10 — Modification du prix
+
+**1.** Les États membres veillent à ce que, après la conclusion du contrat de voyage à forfait, les prix ne puissent être majorés que si le contrat prévoit expressément cette possibilité et indique que le voyageur a droit à une réduction du prix en vertu du paragraphe 4. Dans ce cas, le contrat de voyage à forfait précise de quelle manière la révision du prix doit être calculée. Les majorations de prix sont possibles uniquement si elles sont la conséquence directe d'une évolution:a) du prix du transport de passagers résultant du coût du carburant ou d'autres sources d'énergie;b) du niveau des taxes ou redevances sur les services de voyage compris dans le contrat, imposées par un tiers qui ne participe pas directement à l'exécution du forfait, y compris les taxes touristiques, les taxes d'atterrissage ou d'embarquement et de débarquement dans les ports et aéroports; ouc) des taux de change en rapport avec le forfait.
+
+**2.** Si la majoration du prix visée au paragraphe 1 du présent article dépasse 8 % du prix total du forfait, l'article 11, paragraphes 2 à 5, s'applique.
+
+**3.** Indépendamment de son importance, une majoration du prix n'est possible que si l'organisateur la notifie de manière claire et compréhensible au voyageur, en assortissant ladite majoration d'une justification et d'un calcul, sur un support durable, au plus tard vingt jours avant le début du forfait.
+
+**4.** Si le contrat de voyage à forfait prévoit la possibilité d'une majoration du prix, le voyageur a droit à une réduction de prix correspondant à toute baisse des coûts visés au paragraphe 1, points a), b) et c), qui intervient après la conclusion du contrat et avant le début du forfait.
+
+**5.** En cas de diminution du prix, l'organisateur a le droit de déduire ses dépenses administratives réelles du remboursement dû au voyageur. À la demande du voyageur, l'organisateur apporte la preuve de ces dépenses administratives.
+
+<a id="art_11"></a>
+
+### Article 11 — Modification des autres clauses du contrat de voyage à forfait
+
+**1.** Les États membres veillent à ce que l'organisateur ne puisse, avant le début du forfait, modifier unilatéralement les clauses du contrat de voyage à forfait autres que le prix conformément à l'article 10, à moins que:a) l'organisateur ne se soit réservé ce droit dans le contrat;b) la modification ne soit mineure; etc) l'organisateur n'en informe le voyageur d'une manière claire, compréhensible et apparente sur un support durable.
+
+**2.** Si, avant le début du forfait, l'organisateur se trouve contraint de modifier, de façon significative, une ou plusieurs des caractéristiques principales des services de voyage visées à l'article 5, paragraphe 1, premier alinéa, point a), ou s'il ne peut pas satisfaire aux exigences particulières visées à l'article 7, paragraphe 2, point a), ou s'il propose d'augmenter le prix du forfait de plus de 8 % conformément à l'article 10, paragraphe 2, le voyageur peut, dans un délai raisonnable fixé par l'organisateur:a) accepter la modification proposée; oub) résilier le contrat sans payer de frais de résiliation.
+
+Si le voyageur résilie le contrat de voyage à forfait, il peut accepter un autre forfait, si possible de qualité égale ou supérieure, dans le cas où cela est proposé par l'organisateur.
+
+**3.** L'organisateur informe le voyageur sans retard excessif, d'une manière claire, compréhensible et apparente, sur un support durable:a) des modifications proposées visées au paragraphe 2 et, s'il y a lieu, en application du paragraphe 4, de leurs répercussions sur le prix du forfait;b) d'un délai raisonnable dans lequel le voyageur doit communiquer à l'organisateur la décision qu'il prend en application du paragraphe 2;c) des conséquences de l'absence de réponse du voyageur dans le délai visé au point b), conformément au droit national applicable; etd) s'il y a lieu, de l'autre forfait proposé, ainsi que de son prix.
+
+**4.** Lorsque les modifications du contrat de voyage à forfait visées au paragraphe 2, premier alinéa, ou le forfait de substitution visé au paragraphe 2, deuxième alinéa, entraînent une baisse de qualité du forfait ou de son coût, le voyageur a droit à une réduction de prix adéquate.
+
+**5.** Si le contrat de voyage à forfait est résilié conformément au paragraphe 2, premier alinéa, point b), du présent article et que le voyageur n'accepte pas d'autre forfait, l'organisateur rembourse tous les paiements effectués par le voyageur ou en son nom sans retard excessif et en tout état de cause au plus tard quatorze jours après la résiliation du contrat. L'article 14, paragraphes 2, 3, 4, 5 et 6, s'applique mutatis mutandis.
+
+<a id="art_12"></a>
+
+### Article 12 — Résiliation du contrat de voyage à forfait et droit de rétractation avant le début du forfait
+
+**1.** Les États membres veillent à ce que le voyageur ait le droit de résilier le contrat de voyage à forfait à tout moment avant le début du forfait. Lorsque le voyageur résilie le contrat de voyage à forfait en vertu du présent paragraphe, il peut lui être demandé de payer à l’organisateur des frais de résiliation appropriés et justifiables, pour autant que le contrat stipule que de tels frais peuvent être facturés.
+
+Le contrat de voyage à forfait visé au premier alinéa peut:
+
+a) stipuler des frais de résiliation standard raisonnables, calculés en fonction de la date de résiliation du contrat avant le début du forfait et des économies de coûts et des revenus escomptés du fait d’une remise à disposition des services de voyage, sous la forme de montants fixes ou de pourcentages du prix du forfait, ou par une méthode de calcul similaire; ou
+
+b) stipuler que les frais de résiliation équivalent au prix du forfait moins les économies de coûts et les revenus réalisés du fait d’une remise à disposition des services de voyage, ou à un montant inférieur, tel que convenu par les parties.
+
+Si le contrat de voyage à forfait prévoit que des frais de résiliation peuvent être facturés mais ne contient pas d’autres précisions, les frais de résiliation équivalent au prix du forfait moins les économies de coûts et les revenus réalisés du fait d’une remise à disposition des services de voyage, ou à un montant inférieur tel que convenu par les parties.
+
+À la demande du voyageur, l’organisateur justifie les frais de résiliation applicables.
+
+**2.** Nonobstant le paragraphe 1, le voyageur a le droit de résilier le contrat de voyage à forfait avant le début du forfait sans payer de frais de résiliation lorsqu’il est raisonnable de s’attendre à ce que des circonstances exceptionnelles et inévitables, survenant au lieu de départ ou survenant au lieu de destination ou à proximité immédiate de celui-ci ou ayant des incidences sur le déplacement du voyageur vers ou depuis le lieu de destination, aient des conséquences importantes sur l’exécution du contrat de voyage à forfait. Si le contrat de voyage à forfait est résilié conformément au présent paragraphe, le voyageur a droit au remboursement intégral des paiements effectués au titre du forfait mais pas à un dédommagement supplémentaire.
+
+**3.** L'organisateur peut résilier le contrat de voyage à forfait et rembourser intégralement le voyageur des paiements effectués pour le forfait, mais il n'est pas tenu à un dédommagement supplémentaire, si:a) le nombre de personnes inscrites pour le forfait est inférieur au nombre minimal indiqué dans le contrat et que l'organisateur notifie la résiliation du contrat au voyageur dans le délai fixé par le contrat, mais au plus tard:i) vingt jours avant le début du forfait dans le cas de voyages dont la durée dépasse six jours;ii) sept jours avant le début du forfait dans le cas de voyages dont la durée est de deux à six jours;iii) 48 heures avant le début du forfait dans le cas de voyages ne durant pas plus de deux jours;oub) l'organisateur est empêché d'exécuter le contrat en raison de circonstances exceptionnelles et inévitables et notifie la résiliation du contrat au voyageur sans retard excessif avant le début du forfait.
+
+**4.** L’organisateur procède aux remboursements requis en vertu des paragraphes 2 et 3 ou, au titre du paragraphe 1, rembourse tous les paiements effectués par le voyageur ou en son nom pour le forfait moins les frais de résiliation appropriés et justifiables. L’organisateur effectue ces remboursements au profit du voyageur sans retard excessif et, en tout état de cause, au plus tard quatorze jours après la résiliation du contrat de voyage à forfait, sans que le voyageur doive en faire la demande préalablement. Lorsque les modalités de paiement du voyageur ne sont plus valables, ce délai de remboursement de quatorze jours commence à courir à compter du moment où le voyageur a fourni à l’organisateur les modalités de paiement correctes.
+
+Lorsque, dans les quatorze jours après la résiliation d’un contrat de voyage à forfait au titre du paragraphe 1, 2 ou 3, l’organisateur et le voyageur conviennent d’un forfait de substitution de qualité égale ou supérieure, le voyageur n’a pas droit à un remboursement. Si le voyageur accepte un forfait de substitution d’une qualité ou d’un coût inférieurs, l’organisateur rembourse au voyageur le montant correspondant à la différence entre le prix plus élevé payé et le prix inférieur du forfait de substitution au plus tard quatorze jours après l’accord sur le forfait de substitution.
+
+Lorsque les États membres introduisent ou maintiennent des mécanismes visant à garantir que les remboursements au profit des voyageurs sont effectués à la suite de la résiliation des contrats de voyage à forfait conformément aux paragraphes 2 et 3 du présent article, dans le délai prévu au premier alinéa du présent paragraphe, ils informent la Commission et les points de contact centraux des autres États membres visés à l’article 18, paragraphe 2, de ces mécanismes.
+
+**5.** Concernant les contrats hors établissement, les États membres peuvent prévoir dans leur droit national que le voyageur a le droit de se rétracter du contrat de voyage à forfait dans un délai de quatorze jours sans avoir à motiver sa décision.
+
+<a id="art_12a"></a>
+
+### Article 12 bis
+
+**1.** Les États membres veillent à ce que, lorsqu’un contrat de voyage à forfait est résilié conformément à l’article 10, 11 ou 12, l’organisateur ait le droit de donner au voyageur le choix d’accepter un bon de voyage d’une valeur au moins égale au montant du remboursement auquel le voyageur a droit (ci-après dénommé “droit au remboursement du voyageur”) au lieu d’un remboursement. L’organisateur peut proposer un bon de voyage d’une valeur plus élevée que le droit au remboursement du voyageur.
+
+**2.** Le voyageur peut utiliser le bon de voyage pour tout service de voyage proposé par l’organisateur et il peut l’utiliser en plusieurs fois.
+
+**3.** Les organisateurs ne traitent pas les détenteurs de bons de voyage qui réservent des services de voyage de manière moins favorable que les autres voyageurs.
+
+**4.** Lorsqu’il propose un bon de voyage au voyageur, et avant que le voyageur ne l’accepte expressément, l’organisateur informe ces voyageurs de manière claire et apparente, sur un support durable, des informations suivantes:a) du fait que le voyageur a droit à un remboursement dans un délai de quatorze jours et qu’il n’est pas tenu d’accepter le bon de voyage;b) de la valeur du bon de voyage;c) du montant du droit au remboursement du voyageur et du fait que ce montant est couvert par la protection contre l’insolvabilité de l’organisateur;d) du fait que le bon de voyage peut être utilisé intégralement ou en partie et qu’il peut être utilisé pour tous les services de voyage proposés par l’organisateur, et que, si le bon de voyage est utilisé pour réserver un service de voyage unique, ce contrat ne sera pas couvert par la protection prévue par la présente directive;e) de la durée de validité du bon de voyage;f) du fait que le bon de voyage peut être cédé une fois seulement, et que la cession est gratuite;g) du fait que, si le bon de voyage n’a pas été utilisé à concurrence du montant total du remboursement auquel le voyageur a droit avant la fin de sa durée de validité, le montant restant dudit droit à un remboursement doit être payé au voyageur dans un délai de quatorze jours après la fin de cette durée de validité, sans qu’aucune demande préalable ne soit nécessaire.
+
+**5.** Le bon de voyage est émis sur un support durable et contient les informations énumérées au paragraphe 4, points b) à g), d’une manière claire et compréhensible. Il indique également la dénomination sociale de l’organisateur, les informations que les voyageurs sont tenus de fournir à l’organisateur pour qu’une cession à une autre personne soit valable, et les dates de début et de fin de la durée de validité.
+
+**6.** Les bons de voyage sont valables pendant une durée maximale de douze mois à compter de la date à laquelle le voyageur l’accepte expressément conformément au paragraphe 4. Cette durée de validité peut être prolongée une fois seulement, pour une durée maximale de douze mois, à condition que les deux parties acceptent expressément cette prolongation sur un support durable.
+
+**7.** Le droit au remboursement du voyageur est suspendu pendant la durée de validité du bon de voyage, à condition que le voyageur ait reçu les informations visées au paragraphe 4 et qu’il ait expressément accepté, sur un support durable, le bon de voyage au lieu d’un remboursement. Les parties peuvent, à tout moment, convenir d’un remboursement intégral ou partiel avant que le bon de voyage ne soit utilisé ou n’expire. Le droit au remboursement du voyageur expire lorsque le bon de voyage a été utilisé jusqu’à concurrence du montant total de ce droit au remboursement.
+
+**8.** La suspension du droit au remboursement du voyageur prend fin:a) à l’expiration de la durée de validité du bon de voyage, si le bon de voyage n’a pas été utilisé à concurrence du montant du remboursement auquel le voyageur a droit; oub) lorsque, avant l’expiration de la durée de validité du bon de voyage, les parties conviennent d’un remboursement de tout montant restant du remboursement auquel le voyageur a droit; ouc) en cas d’insolvabilité de l’organisateur.
+
+**9.** L’organisateur rembourse le voyageur sans retard excessif et, en tout état de cause, au plus tard quatorze jours après la fin de la suspension du droit au remboursement du voyageur, conformément au paragraphe 8, points a) et b), sans que le voyageur doive en faire la demande préalablement.
+
+**10.** Les voyageurs peuvent céder le bon de voyage une fois seulement. La cession n’est valable que si le voyageur qui cède le bon de voyage informe l’organisateur, sur un support durable, de la cession et fournit les données à caractère personnel du cessionnaire nécessaires pour que celui-ci puisse utiliser le bon de voyage ou recevoir un remboursement à la fin de la durée de validité du bon de voyage. L’organisateur confirme la cession du bon de voyage sur un support durable sans retard excessif. Les organisateurs ne peuvent facturer aucun frais pour la cession.
+
+## CHAPITRE IV — EXÉCUTION DU FORFAIT
+
+<a id="art_13"></a>
+
+### Article 13 — Responsabilité de l'exécution du forfait
+
+**1.** Les États membres veillent à ce que l'organisateur soit responsable de l'exécution des services de voyage compris dans le contrat de voyage à forfait, indépendamment du fait que ces services doivent être exécutés par lui-même ou par d'autres prestataires de services de voyage.
+
+Les États membres peuvent conserver ou introduire dans leur droit national des dispositions en vertu desquelles le détaillant est aussi responsable de l'exécution du forfait. Dans ce cas, les dispositions de l'article 7, du chapitre III, du présent chapitre et du chapitre V qui sont applicables à l'organisateur s'appliquent également *mutatis mutandis* au détaillant.
+
+**2.** Le voyageur informe l'organisateur, sans retard excessif et eu égard aux circonstances de l'espèce, de toute non-conformité constatée lors de l'exécution d'un service de voyage inclus dans le contrat de voyage à forfait.
+
+**3.** Si l'un des services de voyage n'est pas exécuté conformément au contrat de voyage à forfait, l'organisateur remédie à la non-conformité, sauf si cela:a) est impossible; oub) entraîne des coûts disproportionnés, compte tenu de l'importance de la non-conformité et de la valeur des services de voyage concernés.
+
+Si l'organisateur ne remédie pas à la non-conformité conformément au premier alinéa, point a) ou b), du présent paragraphe, l'article 14 s'applique.
+
+**4.** Sans préjudice des exceptions énoncées au paragraphe 3, si l'organisateur ne remédie pas à la non-conformité dans un délai raisonnable fixé par le voyageur, celui-ci peut y remédier lui-même et réclamer le remboursement des dépenses nécessaires. Il n'est pas nécessaire que le voyageur précise un délai si l'organisateur refuse de remédier à la non-conformité ou si une solution immédiate est requise.
+
+**5.** Lorsqu'une part importante des services de voyage ne peut être fournie comme prévu dans le contrat de voyage à forfait, l'organisateur propose, sans supplément de prix pour le voyageur, d'autres prestations appropriées, si possible de qualité égale ou supérieure à ceux spécifiés dans le contrat, pour la continuation du forfait, y compris lorsque le retour du voyageur à son lieu de départ n'est pas fourni comme convenu.
+
+Lorsque les autres prestations proposées donnent lieu à un forfait de qualité inférieure à celle spécifiée dans le contrat de voyage à forfait, l'organisateur octroie au voyageur une réduction de prix appropriée.
+
+Le voyageur ne peut refuser les autres prestations proposées que si elles ne sont pas comparables à ce qui avait été prévu dans le contrat de voyage à forfait ou si la réduction de prix octroyée n'est pas appropriée.
+
+**6.** Lorsqu'une non-conformité perturbe considérablement l'exécution d'un forfait et que l'organisateur n'y remédie pas dans un délai raisonnable fixé par le voyageur, ce dernier peut résilier le contrat de voyage à forfait sans payer de frais de résiliation et demander, le cas échéant, conformément à l'article 14, une réduction de prix et/ou un dédommagement.
+
+S'il s'avère impossible de proposer d'autres prestations ou si le voyageur refuse les autres prestations proposées conformément au paragraphe 5, troisième alinéa, du présent article, le voyageur a droit, s'il y a lieu, à une réduction de prix et/ou à un dédommagement conformément à l'article 14, également sans résiliation du contrat de voyage à forfait.
+
+Si le forfait comprend le transport de passagers, l'organisateur fournit également au voyageur, dans les cas visés aux premier et deuxième alinéas, le rapatriement par un moyen de transport équivalent, sans retard excessif et sans frais supplémentaires pour le voyageur.
+
+**7.** Lorsqu'il est impossible, en raison de circonstances exceptionnelles et inévitables, d'assurer le retour du voyageur comme prévu dans le contrat de voyage à forfait, l'organisateur supporte les coûts de l'hébergement nécessaire, si possible de catégorie équivalente, pour une durée maximale de trois nuitées par voyageur. Si des durées plus longues sont prévues par la législation de l'Union sur les droits des passagers applicable aux moyens de transport concernés pour le retour du voyageur, ces durées s'appliquent.
+
+**8.** La limitation des coûts prévue au paragraphe 7 du présent article ne s'applique pas aux personnes à mobilité réduite, telles que définies à l'article 2, point a), du règlement (CE) no 1107/2006, aux personnes les accompagnant, aux femmes enceintes et aux mineurs non accompagnés, ni aux personnes nécessitant une assistance médicale spécifique, à condition que l'organisateur ait été prévenu de leurs besoins particuliers au moins 48 heures avant le début du forfait. L'organisateur ne saurait invoquer des circonstances exceptionnelles et inévitables pour limiter la responsabilité au titre du paragraphe 7 du présent article si le prestataire de transport concerné ne peut se prévaloir de telles circonstances en vertu de la législation applicable de l'Union.
+
+<a id="art_14"></a>
+
+### Article 14 — Réduction de prix et dédommagement
+
+**1.** Les États membres veillent à ce que le voyageur ait droit à une réduction de prix appropriée pour toute période de non-conformité des services fournis, sauf si l'organisateur prouve que la non-conformité est imputable au voyageur.
+
+**2.** Le voyageur a droit à un dédommagement approprié de la part de l'organisateur pour tout préjudice subi en raison de la non-conformité des services fournis. Le dédommagement est effectué sans retard excessif.
+
+**3.** Le voyageur n'a droit à aucun dédommagement si l'organisateur prouve que la non-conformité est:a) imputable au voyageur;b) imputable à un tiers étranger à la fourniture des services de voyage compris dans le contrat de voyage à forfait et revêt un caractère imprévisible ou inévitable; ouc) due à des circonstances exceptionnelles et inévitables.
+
+**4.** Dans la mesure où des conventions internationales qui lient l'Union circonscrivent les conditions dans lesquelles un dédommagement est dû par un prestataire fournissant un service de voyage qui fait partie d'un forfait ou limitent l'étendue de ce dédommagement, les mêmes limites s'appliquent à l'organisateur. Dans le cas où des conventions internationales qui ne lient pas l'Union limitent le dédommagement à verser par un prestataire de services, les États membres peuvent limiter en conséquence le dédommagement à verser par l'organisateur. Dans les autres cas, le contrat de voyage à forfait peut limiter le dédommagement à verser par l'organisateur, pour autant que cette limitation ne s'applique pas aux préjudices corporels ni aux dommages causés intentionnellement ou par négligence et qu'elle ne représente pas moins de trois fois le prix total du forfait.
+
+**5.** Les droits à dédommagement ou à réduction de prix prévus par la présente directive ne portent pas atteinte aux droits des voyageurs au titre du règlement (CE) no 261/2004, du règlement (CE) no 1371/2007, du règlement (CE) no 392/2009 du Parlement européen et du Conseil (4), du règlement (UE) no 1177/2010, du règlement (UE) no 181/2011 et des conventions internationales. Les voyageurs ont le droit d'introduire des réclamations au titre de la présente directive et desdits règlements et conventions internationales. Le dédommagement ou la réduction de prix octroyés en vertu de la présente directive et le dédommagement ou la réduction de prix octroyés en vertu desdits règlements et conventions internationales sont déduits les uns des autres pour éviter toute surcompensation.
+
+**6.** Le délai de prescription pour l'introduction des réclamations au titre du présent article ne peut être inférieur à deux ans.
+
+<a id="art_15"></a>
+
+### Article 15 — Possibilité de prendre contact avec l'organisateur par l'intermédiaire du détaillant
+
+Sans préjudice de l'article 13, paragraphe 1, deuxième alinéa, les États membres veillent à ce que le voyageur puisse adresser des messages, des demandes ou des plaintes en rapport avec l'exécution du forfait directement au détaillant par l'intermédiaire duquel le forfait a été acheté. Le détaillant transmet ces messages, demandes ou plaintes à l'organisateur sans retard excessif.
+
+Aux fins du respect des dates butoirs ou des délais de prescription, la date de réception, par le détaillant, des messages, demandes ou plaintes visés au premier alinéa est réputée être la date de leur réception par l'organisateur.
+
+<a id="art_16"></a>
+
+### Article 16 — Obligation d'apporter une aide
+
+Les États membres veillent à ce que l'organisateur apporte sans retard excessif une aide appropriée au voyageur en difficulté, y compris dans les circonstances visées à l'article 13, paragraphe 7, notamment:
+
+a) en fournissant des informations utiles sur les services de santé, les autorités locales et l'assistance consulaire; et
+
+b) en aidant le voyageur à effectuer des communications longue distance et à trouver d'autres prestations de voyage.
+
+L'organisateur est en droit de facturer un prix raisonnable pour cette aide si cette difficulté est causée de façon intentionnelle par le voyageur ou par sa négligence. Le prix facturé ne dépasse en aucun cas les coûts réels supportés par l'organisateur.
+
+<a id="art_16a"></a>
+
+### Article 16 bis
+
+**1.** L’organisateur veille à être facilement joignable par l’intermédiaire des points de contact indiqués conformément à l’article 7, paragraphe 2, point d), et à être en mesure de répondre efficacement aux demandes soumises par les voyageurs ou en leur nom, et en particulier à celles relatives à la fourniture d’une aide au titre de l’article 16, lorsqu’un voyageur est en difficulté, ou relatives à tout défaut de conformité survenant lors de l’exécution du forfait et aux moyens de recours connexes prévus à l’article 13.
+
+**2.** L’organisateur met également en place des dispositions pour le traitement efficace des types de plaintes autres que celles visées au paragraphe 1.
+
+L’organisateur accuse réception de ces plaintes, sur un support durable, dans un délai de sept jours à compter de leur réception et fournit une réponse motivée au voyageur, sur un support durable, dans un délai de soixante jours après la date de la plainte.
+
+Les États membres peuvent prévoir des délais plus courts que ceux visés au deuxième alinéa du présent paragraphe.
+
+**3.** À moins que l’organisateur n’accepte pleinement la plainte du voyageur, l’organisateur informe le voyageur, dans sa réponse motivée, de tout mécanisme de REL en vertu de la directive 2013/11/UE mis à la disposition du voyageur dans l’affaire en cause.
+
+## CHAPITRE V — PROTECTION CONTRE L'INSOLVABILITÉ
+
+<a id="art_17"></a>
+
+### Article 17
+
+**1.** Les États membres veillent à ce que les organisateurs établis sur leur territoire fournissent une garantie pour le remboursement de tous les paiements effectués par les voyageurs ou en leur nom en cas d’insolvabilité des organisateurs. Cette garantie comprend la protection des paiements effectués lorsqu’un forfait n’est pas exécuté, en totalité ou en partie, en raison de l’insolvabilité de l’organisateur, ou lorsque le voyageur a droit à un remboursement. Lorsqu’un voyageur reçoit un bon de voyage, la garantie est limitée au montant du remboursement auquel le voyageur a droit. Si le trajet retour est inclus dans le contrat de voyage à forfait, les organisateurs fournissent aussi une garantie pour le rapatriement du voyageur. La continuation du forfait peut être proposée.
+
+Les organisateurs qui ne sont pas établis dans un État membre et qui vendent ou offrent à la vente des forfaits dans un État membre ou qui dirigent par tout moyen ces activités vers un État membre sont tenus de fournir la garantie conformément au droit de cet État membre.
+
+**2.** La garantie visée au paragraphe 1 est effective et couvre les coûts raisonnablement prévisibles. Elle couvre les montants des paiements effectués par les voyageurs ou en leur nom en ce qui concerne les forfaits, compte tenu du laps de temps entre la réception de tout paiement et l’exécution des forfaits, ainsi que les coûts estimés de rapatriement en cas d’insolvabilité de l’organisateur. La garantie est suffisante pour couvrir à tout moment les coûts liés aux remboursements et, le cas échéant, aux rapatriements. La garantie tient compte du fait que les insolvabilités pourraient survenir quand les organisateurs détiennent le montant de paiements le plus élevé. La garantie tient également compte de toute modification du volume des ventes de forfaits.
+
+**3.** Afin de garantir l’effectivité de la protection contre l’insolvabilité, les États membres surveillent les dispositifs de protection contre l’insolvabilité des organisateurs établis sur leur territoire ainsi que la disponibilité de solutions de protection contre l’insolvabilité.
+
+**4.** La protection contre l’insolvabilité de l’organisateur bénéficie aux voyageurs quels que soient leur lieu de résidence, le lieu de départ ou le lieu de vente du forfait et indépendamment de l’État membre où l’entité chargée de la protection contre l’insolvabilité est située.
+
+**5.** Lorsque l’exécution du forfait est affectée par l’insolvabilité de l’organisateur, la garantie est activée gratuitement pour assurer le rapatriement et, si nécessaire, le financement de l’hébergement avant le rapatriement.
+
+**6.** Les voyageurs reçoivent le remboursement de leurs paiements sans retard excessif et, en tout état de cause, au plus tard six mois après la présentation des documents nécessaires à l’examen de leur demande.
+
+Dans des circonstances exceptionnelles et dûment justifiées, y compris lorsque l’entité ou l’autorité responsable du traitement de la demande reçoit un nombre exceptionnellement élevé de demandes dans un bref délai, ou lorsque l’insolvabilité de l’organisateur affecte des voyageurs de plusieurs États membres, le remboursement des paiements est effectué dans un délai de neuf mois à compter de la présentation des documents nécessaires.
+
+Les États membres peuvent prévoir des délais plus courts que ceux visés aux premier et deuxième alinéas.
+
+**7.** Les États membres s’assurent qu’en cas d’insolvabilité d’un organisateur, les voyageurs soient informés sans retard excessif, par des canaux de communication appropriés, au moins des éléments suivants:a) l’insolvabilité de l’organisateur;b) le nom et les coordonnées de l’entité chargée de la protection contre l’insolvabilité ou, le cas échéant, le nom et les coordonnées de l’autorité compétente;c) leurs droits concernant les forfaits déjà commencés ou pouvant encore être exécutés; etd) les documents que les voyageurs doivent présenter pour demander un remboursement.
+
+**8.** Chaque État membre veille à ce que les registres en ligne de tous les organisateurs et, le cas échéant, les détaillants établis sur son territoire et couverts par une protection contre l’insolvabilité en vertu des dispositions nationales transposant la présente directive soient accessibles au public et tenus à jour. Les États membres communiquent à la Commission les liens vers les sites internet de leurs registres lorsqu’ils notifient les dispositions nationales transposant la présente directive et communiquent sans retard à la Commission toute modification apportée à ces liens. La Commission publie sur son site internet une liste des liens reçus des États membres. La Commission met à jour cette liste sans retard excessif chaque fois qu’un État membre lui communique un nouveau lien.
+
+**9.** Lorsque cela se justifie à la lumière des paiements reçus par les détaillants, les États membres peuvent exiger des détaillants, en plus des organisateurs, qu’ils souscrivent une protection contre l’insolvabilité, sans préjudice de l’article 13, paragraphe 1, deuxième alinéa.
+
+<a id="art_18"></a>
+
+### Article 18 — Reconnaissance mutuelle de la protection contre l'insolvabilité et coopération administrative
+
+**1.** Les États membres reconnaissent comme conforme à leurs mesures nationales de transposition de l'article 17 toute protection contre l'insolvabilité qu'un organisateur fournit conformément aux mesures de l'État membre où il est établi.
+
+**2.** Les États membres désignent des points de contact centraux pour faciliter la coopération administrative et la surveillance des organisateurs qui exercent leur activité dans différents États membres et pour échanger des informations concernant la protection contre l’insolvabilité et tout mécanisme mis en place afin de garantir l’effectivité des remboursements à la suite de la résiliation de contrats de voyage à forfait. Les États membres notifient les coordonnées de ces points de contact à tous les autres États membres ainsi qu’à la Commission.
+
+**3.** Les points de contact centraux mettent à la disposition les uns des autres toutes les informations nécessaires sur les exigences en vigueur au niveau national en matière de protection contre l’insolvabilité et sur l’identité de l’entité ou des entités chargées de la protection en question pour des organisateurs déterminés établis sur leur territoire.
+
+**4.** Si un État membre a des doutes concernant la protection contre l’insolvabilité d’un organisateur, il demande des éclaircissements à l’État membre d’établissement de cet organisateur. Les États membres répondent aux demandes des autres États membres le plus rapidement possible en fonction de l’urgence et de la complexité de la question. Dans tous les cas, une première réponse comprend l’identité de l’organisateur ou, le cas échéant, du détaillant, et de l’entité ou des entités chargées de la protection contre l’insolvabilité. Elle est envoyée au plus tard dans les quinze jours ouvrables suivant la réception de la demande.
+
+## CHAPITRE VII — DISPOSITIONS GÉNÉRALES
+
+<a id="art_20"></a>
+
+### Article 20 — Obligations spécifiques du détaillant lorsque l'organisateur est établi en dehors de l'Espace économique européen
+
+Sans préjudice de l'article 13, paragraphe 1, deuxième alinéa, lorsque l'organisateur est établi en dehors de l'Espace économique européen, le détaillant établi dans un État membre est soumis aux obligations imposées aux organisateurs en vertu des chapitres IV et V, sauf s'il apporte la preuve que l'organisateur remplit les conditions énoncées auxdits chapitres.
+
+<a id="art_21"></a>
+
+### Article 21 — Responsabilité en cas d'erreur de réservation
+
+Les États membres veillent à ce que le professionnel soit responsable de toute erreur due à des défauts techniques du système de réservation qui lui est imputable et, si le professionnel a accepté d’organiser la réservation d’un forfait, à ce qu’il soit responsable des erreurs commises au cours de la procédure de réservation.
+
+Un professionnel n'est pas responsable des erreurs de réservation qui sont imputables au voyageur ou qui sont causées par des circonstances exceptionnelles et inévitables.
+
+<a id="art_22"></a>
+
+### Article 22
+
+**1.** Lorsqu’un organisateur ou, conformément à l’article 13, paragraphe 1, deuxième alinéa, ou à l’article 20, un détaillant verse un dédommagement, accorde une réduction de prix ou s’acquitte des autres obligations qui lui incombent en vertu de la présente directive, les États membres veillent à ce que l’organisateur ou le détaillant ait le droit de demander réparation à tout tiers ayant contribué au fait à l’origine du dédommagement, de la réduction de prix ou d’autres obligations.
+
+**2.** Les États membres veillent à ce que, lorsqu’un prestataire de service de voyage annule un service faisant partie d’un forfait ou ne fournit pas le service, il rembourse à l’organisateur tout paiement effectué par celui-ci pour ce service dans un délai de sept jours. Ce délai de sept jours commence à courir le jour suivant l’annulation du service ou le jour où le service devait être exécuté, la date la plus proche étant retenue.
+
+<a id="art_23"></a>
+
+### Article 23 — Caractère impératif de la directive
+
+**1.** La déclaration d’un organisateur de forfait mentionnant qu’il agit exclusivement en qualité de prestataire d’un service de voyage, d’intermédiaire ou en toute autre qualité, ou qu’un forfait ne constitue pas un forfait, ne libère pas ledit organisateur des obligations qui lui sont imposées par la présente directive.
+
+**2.** Les voyageurs ne peuvent pas renoncer aux droits qui leur sont conférés par les mesures nationales de transposition de la présente directive.
+
+**3.** Les dispositions contractuelles ou les déclarations faites par le voyageur qui, directement ou indirectement, constituent une renonciation aux droits conférés aux voyageurs par la présente directive, ou une restriction de ces droits, ou qui visent à éviter l'application de la présente directive ne sont pas opposables au voyageur.
+
+<a id="art_24"></a>
+
+### Article 24 — Exécution
+
+Les États membres veillent à ce qu'il existe des moyens adéquats et efficaces permettant de faire respecter la présente directive.
+
+<a id="art_25"></a>
+
+### Article 25 — Sanctions
+
+Les États membres déterminent le régime des sanctions applicables aux violations des dispositions nationales prises en application de la présente directive et prennent toute mesure nécessaire pour en assurer la mise en œuvre. Les sanctions ainsi prévues sont effectives, proportionnées et dissuasives.
+
+<a id="art_26"></a>
+
+### Article 26 — Rapport de la Commission et réexamen
+
+Au plus tard le 1er janvier 2019 la Commission présente au Parlement européen et au Conseil un rapport sur les dispositions de la présente directive applicables aux réservations en ligne effectuées à différents points de vente et au fait de qualifier ces réservations de forfaits, prestations de voyage liées ou services de voyage indépendants, et en particulier sur la définition du forfait figurant à l'article 3, point 2) b) v), et l'opportunité d'adapter ou d'élargir cette définition.
+
+Au plus tard le 1er janvier 2021, la Commission présente au Parlement européen et au Conseil un rapport général sur l'application de la présente directive.
+
+Les rapports visés aux premier et deuxième alinéas sont, au besoin, accompagnés de propositions législatives.
+
+<a id="art_27"></a>
+
+### Article 27 — Modification du règlement (CE) no 2006/2004 et de la directive 2011/83/UE
+
+**1.** Le point 5) de l'annexe du règlement (CE) no 2006/2004 est remplacé par le texte suivant:«5. Directive (UE) 2015/2302 du Parlement européen et du Conseil (*1)
+
+**2.** L'article 3, paragraphe 3, point g), de la directive 2011/83/UE est remplacé par le texte suivant:«g) relatifs aux forfaits tels que définis à l'article 3, point 2), de la directive (UE) 2015/2302 du Parlement européen et du Conseil (*2).L'article 6, paragraphe 7, l'article 8, paragraphes 2 et 6, et les articles 19, 21 et 22 de la présente directive s'appliquent *mutatis mutandis* aux forfaits définis à l'article 3, point 2), de la directive (UE) 2015/2302 en ce qui concerne les voyageurs au sens de l'article 3, point 6), de ladite directive.
+
+## CHAPITRE VIII — DISPOSITIONS FINALES
+
+<a id="art_28"></a>
+
+### Article 28 — Transposition
+
+**1.** Les États membres adoptent et publient, au plus tard le 1er janvier 2018, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces mesures.
+
+**2.** Ils appliquent ces dispositions à partir du 1er juillet 2018.
+
+**3.** Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.
+
+**4.** Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.
+
+<a id="art_29"></a>
+
+### Article 29 — Abrogation
+
+La directive 90/314/CEE est abrogée à partir du 1er juillet 2018.
+
+Les références à la directive abrogée s'entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l'annexe III.
+
+<a id="art_30"></a>
+
+### Article 30 — Entrée en vigueur
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.
+
+<a id="art_31"></a>
+
+### Article 31 — Destinataires
+
+Les États membres sont destinataires de la présente directive.

@@ -1,0 +1,857 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/02/2024 : Règlement grand-ducal du 22 décembre 2006 déterminant:\\n 1. les modalités et les limites de la prise en charge des aides techniques par l'assurance dépendance;\\n 2. les modalités et les limites de la prise en charge des adaptations du logement par l'assurance dépendance;\\n 3. les modalités et les limites de la prise en charge par l’assurance dépendance des aides techniques pour les personnes bénéficiaires de soins palliatifs.",
+  "valid_from": "2010-01-01",
+  "valid_to": "2017-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2006-12-22-n9/versions/2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4/fr.xml",
+    "sha256": "e5900c229e7fc41a340f25a91b8066b4adf2fb7635b32199cb2332d7e5362b4a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20100101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_1er/20070102",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les aides techniques prises en charge par l’assurance dépendance sont celles inscrites sur la liste formant annexe du présent règlement, classées en classes, sous-classes et divisions d’après la «Norme internationale ISO 9999» et suivies d’un signe distinctif du mode de prise en charge.\n\nDans des situations exceptionnelles, la liste peut être complétée au niveau de la division du code ISO correspondant.",
+      "text_sha256": "53968e3d988d17b0e1d8db7a2714ea0e01b11ed7e1a099e0f255097642966050",
+      "md_span": {
+        "start": 1135,
+        "end": 1541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_2/20070102",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Il existe trois modes de prises en charges:\n\n1. les aides techniques mises à disposition par voie de location sont déterminées sur la liste par la lettre «L»;\n2. les aides techniques pouvant être acquises à charge de l’assurance dépendance sont déterminées par la lettre «A». Pour tenir compte des besoins spécifiques du bénéficiaire, les aides techniques marquées simultanément des lettres «L» et «A» peuvent être prises en charge sous l’une ou l’autre forme;\n3. les aides techniques mises à disposition par acquisition avec rétrocession sont marquées des lettres «A» et «R».\n\nPour les aides techniques marquées de la lettre «D», un délai de renouvellement a été fixé.\n\nPour certaines aides techniques en acquisition ou en acquisition avec rétrocession, la liste prévoit un montant de prise en charge maximal. Ce montant est inscrit dans la rubrique «montant de prise en charge maximal» de la liste annexée.",
+      "text_sha256": "c22197bb80a93a86f4ca8df1e593091aeda02307f0451712647e0407bd399598",
+      "md_span": {
+        "start": 1576,
+        "end": 2484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_3/20070102",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les aides techniques dont les prestataires doivent s’équiper conformément aux agréments visés aux articles 390, alinéa 2 et 391, alinéa 3 du Code des assurances sociales, sont prises en charge exceptionnellement à titre individuel en cas de besoin continu et personnel du bénéficiaire et sous la condition qu’elles soient spécifiquement adaptées aux besoins de la personne concernée.\n\nPar dérogation à l’alinéa 1er, les fauteuils roulants sans adaptation spécifique peuvent être pris en charge si le besoin d’en disposer est permanent.",
+      "text_sha256": "c5145d56a63958fd204e37c8659b839c2d06f53547fb47a9f88301bfc6cda203",
+      "md_span": {
+        "start": 2519,
+        "end": 3054
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_4/20100101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2010-01-01",
+      "text_md": "La prise en charge des aides techniques par l’assurance dépendance ainsi que les frais engagés pour leur implémentation n’est possible que sur avis préalable de la Cellule d’évaluation et d’orientation, établi, le cas échéant, avec le concours des services spécialisés prévus à l’article 386, alinéa final du Code de la sécurité sociale.",
+      "text_sha256": "ad898190a020513b03bdb916e91be18d0850628df45536288cf7adaaab5d704e",
+      "md_span": {
+        "start": 3089,
+        "end": 3426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_5/20070102",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les aides techniques sont mises à disposition des bénéficiaires exclusivement par les fournisseurs liés à l’organisme gestionnaire sur base de l’article 394 du Code des assurances sociales. Le prix de location des aides techniques est pris en charge intégralement par l’assurance dépendance.\n\nLes aides techniques ne pouvant être fournies par les fournisseurs visés à l’article 394 du Code des assurances sociales sont prises en charge sur base d’un contrat de gré à gré conclu par l’organisme gestionnaire sur avis de la Cellule d’évaluation et d’orientation.",
+      "text_sha256": "5d5e5c4ded103d28931354b66c2e73af5e2eb7954ac65137a3fc264f13ca3fc6",
+      "md_span": {
+        "start": 3461,
+        "end": 4021
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_6/20070102",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les aides techniques visées par le présent règlement ne sont délivrées qu’en un seul exemplaire par bénéficiaire, sauf dans les situations exceptionnelles constatées par la Cellule d’évaluation et d’orientation où l’attribution d’une seule aide technique de même nature ne parviendrait pas à couvrir les besoins du bénéficiaire.",
+      "text_sha256": "5569431105f4fdafcb59aa82b36e854fbf616d900fa2cf43403a5a33cf5f7286",
+      "md_span": {
+        "start": 4056,
+        "end": 4384
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_7/20070102",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "En cas d’acquisition d’aides techniques en faveur d’un bénéficiaire, la subvention financière à charge de l’assurance dépendance est versée par l’organisme gestionnaire au fournisseur déterminé par la Cellule d’évaluation et d’orientation. La subvention couvre le prix d’acquisition indiqué dans l’avis de la Cellule d’évaluation et d’orientation, sans préjudice de l’article 2, alinéa 3.\n\nSi pour des raisons de convenance personnelle, la personne dépendante sollicite des aides techniques, en dépassement des critères économiques, le surcoût est à sa charge, ce sans préjudice de l’application des articles 13 et 14.",
+      "text_sha256": "8416ada2049a5f29bd049b4af89b63159d615a46cef50ee24d49a7209cb0eaa6",
+      "md_span": {
+        "start": 4419,
+        "end": 5037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_8/20070102",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Lorsque des aides techniques sont soumises par la loi ou les règlements à un contrôle officiel de conformité, la Cellule d’évaluation et d’orientation en tient compte dans son avis. Les frais qui en résultent pour la première mise en service, sont à la charge de l’assurance dépendance.",
+      "text_sha256": "c49ee4b2b9f61e514591b2aea7b28d9532509c13acccf03c72c2c1c4762bce31",
+      "md_span": {
+        "start": 5072,
+        "end": 5358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_9/20070102",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "A l’exclusion des accumulateurs d’énergie pour les aides techniques d’aide à la mobilité, les consommables, les fournitures d’énergie, les taxes et redevances, nécessaires à l’utilisation des aides techniques, sont à charge du bénéficiaire.",
+      "text_sha256": "7357eff7dd9702789091c1c0d1945c9201dfff58541439cda2679f9413a10ab8",
+      "md_span": {
+        "start": 5393,
+        "end": 5633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_10/20070102",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "L’entretien et les réparations nécessaires au bon fonctionnement des aides techniques en location ou en acquisition avec rétrocession sont à charge de l’assurance dépendance pour autant que celles-ci aient été utilisées dans des conditions normales.\n\nL’assurance dépendance ne couvre pas la perte ou le vol d’une aide technique ou d’un accessoire.\n\nLes primes pour les assurances que les lois ou règlements imposent pour couvrir la responsabilité civile pouvant être engagées du fait de l’utilisation de l’aide technique à l’égard de tiers, sont à charge du bénéficiaire.",
+      "text_sha256": "1a89981fb66491ed53bdd5d329fd4c8e93c38cc8a87c245ff9b4b7e606436d8c",
+      "md_span": {
+        "start": 5670,
+        "end": 6241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_11/20070102",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "L’installation ou l’enlèvement des aides techniques fixées aux sols, aux murs ou aux plafonds par quelques moyens que ce soit ne donne lieu à charge de l’assurance dépendance ni à une réparation des traces de fixation ou d’usage, ni à l’enlèvement d’accessoires tels que prises ou câblages.\n\nEn cas de changement de résidence, le déménagement ainsi que la réinstallation des aides techniques est à la charge du bénéficiaire.",
+      "text_sha256": "e92c4e186a8e07a83ebb1a6a8565375e36e87d794faaad8c94c59bdc06b807e7",
+      "md_span": {
+        "start": 6278,
+        "end": 6702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_12/20070102",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Au cas où une aide technique doit être installée de manière fixe dans un logement dont le bénéficiaire est locataire ou copropriétaire, un accord explicite écrit du propriétaire ou du syndicat de copropriété est exigé avant l’octroi de l’appareil.",
+      "text_sha256": "10a0e6514fef76b5406640f31ccea3416298fbc4f014fd4c1ef9e6cad2448309",
+      "md_span": {
+        "start": 6739,
+        "end": 6986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_13/20070102",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Au cas où une aide technique doit être installée de manière fixe dans un logement dont le bénéficiaire est locataire ou copropriétaire, un accord explicite écrit du propriétaire ou du syndicat de copropriété est exigé avant l’octroi de l’appareil.",
+      "text_sha256": "10a0e6514fef76b5406640f31ccea3416298fbc4f014fd4c1ef9e6cad2448309",
+      "md_span": {
+        "start": 7023,
+        "end": 7270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_14/20070102",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section Ire — Des aides techniques en général."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Si le besoin d’en disposer vient à cesser, les aides techniques mises à disposition par acquisition avec rétrocession sont cédées gratuitement, sur requête de l’organisme gestionnaire de l’assurance dépendance, par la personne en faveur d’un fournisseur spécialisé.\n\nIl en est de même en cas de remplacement ou de renouvellement d’aides techniques en location à charge de l’assurance dépendance.\n\nLa récupération des aides techniques est sans frais pour le bénéficiaire.",
+      "text_sha256": "35cf006a04c0f0313a5b9f9724056e7a31989b211efe3d3d8575ced4bffadf59",
+      "md_span": {
+        "start": 7307,
+        "end": 7777
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_15/20070102",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section II. — Des adaptations de voitures."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Seules les adaptations de voitures à utilisation privée sont prises en charge par l’assurance dépendance.\n\nSi le bénéficiaire n’est pas le propriétaire de la voiture, il doit, avant l’octroi de l’adaptation, justifier par une déclaration écrite, qu’il en possède un droit d’usage permanent.\n\nLes montants pris en charge dans le cadre de l’adaptation d’une voiture ne peuvent pas dépasser par voiture les montants inscrits à la liste des aides techniques figurant à l’annexe. Les positions de cette liste peuvent être cumulées, en fonction des besoins du bénéficiaire déterminés par la Cellule d’évaluation et d’orientation sans pouvoir dépasser le montant de 26.000 euros.",
+      "text_sha256": "11e61d62f3d0230a389615fef684e182a06b0adf61c29792c56e4f4f006e8a2c",
+      "md_span": {
+        "start": 7862,
+        "end": 8534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_16/20070102",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section II. — Des adaptations de voitures."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les adaptations pour voitures doivent être faites sur un véhicule neuf ou sur un véhicule ayant moins de 100.000 km lors de l’introduction de la demande pour l’adaptation d’une voiture.",
+      "text_sha256": "6ddfaf69f8851fe527396b828b9a5df0ace5db428021674f80ee8f5476826da7",
+      "md_span": {
+        "start": 8571,
+        "end": 8756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_17/20070102",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section II. — Des adaptations de voitures."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les adaptations pour voitures, à l’exception des sièges de voiture spécialement adaptés pour enfants, ne peuvent être renouvelées que tous les cinq ans à partir de la date d’établissement du certificat de conformité relatif à l’adaptation. Par dérogation à ce qui précède, la Cellule d’évaluation et d’orientation peut accorder une adaptation de même nature, en dehors du délai de cinq ans, si elle est justifiée par une impérieuse nécessité, fondée sur l’évolution de la situation médicale du bénéficiaire ou d’une modification de la composition familiale du bénéficiaire.\n\nLes adaptations détruites ou endommagées par suite d’un accident du véhicule ne sont pas renouvelées par l’assurance dépendance en dehors du délai prévisé. Le risque du vol d’une voiture adaptée est à couvrir par le bénéficiaire.",
+      "text_sha256": "e46ede966e4469020b70ef0b4f6ffffbd89d2d6da033a0604e8cf74586a3b7da",
+      "md_span": {
+        "start": 8793,
+        "end": 9597
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_18/20070102",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section II. — Des adaptations de voitures."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Pour les adaptations du poste de conduite, le permis de conduire doit être produit avant l’ouverture de l’instruction de la demande par la Cellule d’évaluation et d’orientation.\n\nSeules les adaptations du poste de conduite mentionnées dans le permis de conduire peuvent faire l’objet d’une prise en charge par l’assurance dépendance.\n\nDans des situations exceptionnelles, la Cellule d’évaluation et d’orientation peut accorder des adaptations à des personnes ne disposant pas encore de permis de conduire, à condition que la Commission médicale du ministère du transport ait émis un avis positif quant à la capacité de la personne à conduire un véhicule.",
+      "text_sha256": "eab3c470848c1f873cd86111ce5fc4226431eebaa622dcaf2b1f42e81e7622c0",
+      "md_span": {
+        "start": 9634,
+        "end": 10288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_19/20070102",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section II. — Des adaptations de voitures."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "La subvention financière pour les adaptations de voiture n’est versée au fournisseur qu’après production des attestations d’agréation requises.",
+      "text_sha256": "f4f04b1d5e924ad25945716c86db126b4128e1b7ab355e7f9a1ed6138167bac3",
+      "md_span": {
+        "start": 10325,
+        "end": 10468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_20/20070102",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section III. — Des chiens guide d’aveugles."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "En dehors des aides techniques prévues à la liste annexée, une aide ou assistance canine peut être accordée afin d’accroître l’autonomie et la sécurité des déplacements de la personne déficiente visuelle par rapport aux déplacements avec une canne d’orientation.\n\nLa personne aveugle ou déficiente visuelle doit avoir les capacités physiques et cognitives pour pouvoir se déplacer avec un chien guide.",
+      "text_sha256": "e57b33bb91ca96943814c39c8560f2bb1f77d109af8b72e59f96f7a95ad6d9aa",
+      "md_span": {
+        "start": 10554,
+        "end": 10955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_21/20070102",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section III. — Des chiens guide d’aveugles."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Le chien guide d’aveugle est formé à son rôle par des professionnels dans une école pour chiens guide d’aveugles agréée par l’organisme gestionnaire de l’assurance dépendance.\n\nLe chien guide d’aveugle constitue une aide à la mobilité réservée aux personnes déficientes visuelles telles que définies à l’article 3 du règlement grand-ducal modifié du 18 décembre 1998 fixant les modalités de la détermination de la dépendance.",
+      "text_sha256": "4681aff1ddf19dc488ffa06541648bb05bcc665945a754f07214954c80a730b0",
+      "md_span": {
+        "start": 10992,
+        "end": 11417
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/12/18/n9/jo",
+          "text": "règlement grand-ducal modifié du 18 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_22/20070102",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre Premier — Des aides techniques.",
+        "Section III. — Des chiens guide d’aveugles."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "L’assurance dépendance accorde une subvention financière au bénéficiaire jusqu’à concurrence d’un montant de 18.000 euros pour lui permettre l’acquisition du chien guide d’aveugles avec l’obligation de le rendre à l’école ayant formé le chien guide lorsque le besoin d’en disposer a cessé.\n\nLe montant d’intervention comprend le prix d’acquisition du chien, les frais d’élevage auprès d’une famille d’accueil, les frais de formation du chien guide et les frais d’acquisition du harnais. Il comprend en outre les frais d’initiation à la technique de guidance au harnais de la personne déficiente visuelle, à l’école et au domicile du bénéficiaire ainsi que le suivi du chien par l’école.\n\nLes frais de déplacement et de séjour de la personne déficiente visuelle à l’école sont à la charge du demandeur.\n\nAprès la remise du chien guide au bénéficiaire, les frais d’entretien, les frais de nourriture, les frais de vétérinaire ainsi que les frais de responsabilité civile pour dommages causés par des animaux, sont à la charge du bénéficiaire.",
+      "text_sha256": "af2c8b47aca604b3d3c658d582cd58660f7bcfffedbe729ccd3a5d91cf040d0c",
+      "md_span": {
+        "start": 11454,
+        "end": 12494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_23/20070102",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Une intervention de l’assurance dépendance en matière d’adaptation du logement ne peut être accordée qu’en vue du maintien à domicile du bénéficiaire.\n\nUne adaptation du logement ne peut pas être réalisée pour les personnes habitant dans un logement encadré tel qu’il est défini au règlement grand-ducal du 8 décembre 1999 concernant l’agrément à accorder aux gestionnaires de services pour personnes âgées.",
+      "text_sha256": "89fa6d5049ae0bcfdc7a0ac235ab0dd38b07655a87a1698617bb0ba6d10b8a5e",
+      "md_span": {
+        "start": 12579,
+        "end": 12986
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/12/08/n1/jo",
+          "text": "règlement grand-ducal du 8 décembre 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_24/20070102",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Avant l’ouverture de l’instruction du dossier par la Cellule d’évaluation et d’orientation, le demandeur présente un certificat de résidence qui atteste qu’il est domicilié au logement devant faire l’objet des adaptations. Lorsque l’adaptation concerne un logement en construction ou non encore habité par le demandeur, l’instruction est ouverte sur présentation d’un titre de propriété ou d’un contrat de bail portant sur le logement à adapter.\n\nLorsque la personne dépendante est locataire ou copropriétaire du logement devant faire l’objet des adaptations, elle doit produire un accord explicite écrit du propriétaire des lieux ou du syndicat de copropriété, pris sur base d’un dossier accepté par la Cellule d’évaluation et d’orientation.\n\nSi le demandeur n’est pas propriétaire ou locataire à titre personnel, il doit justifier d’un droit d’habitation dans le logement à adapter.",
+      "text_sha256": "06c7e307d1e6efd8466b054da2dc0b5f00705a655cbf6774e8eb5ae0a9171c92",
+      "md_span": {
+        "start": 13023,
+        "end": 13907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_25/20070102",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Dans le cas d’un logement à construire, l’avis de la Cellule d’évaluation et d’orientation doit se fonder sur l’analyse fonctionnelle des plans d’architecte.\n\nL’assurance dépendance ne prend en charge que le surcoût lié à la dépendance.",
+      "text_sha256": "dedff64cad58118e4fbe97bedbbfa834cdd3043d8d89ecec68becc9707e8a4a0",
+      "md_span": {
+        "start": 13944,
+        "end": 14180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_26/20100101",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2010-01-01",
+      "text_md": "La Cellule d’évaluation et d’orientation réalise, le cas échéant, avec le concours des services spécialisés prévus à l’article 386, alinéa final du Code de la sécurité sociale, un cahier des charges détaillé des adaptations à entreprendre, tenant compte de la faisabilité juridique et technique des travaux.\n\nLe cahier des charges se compose d’un volet fonctionnel et d’un volet technique. Le volet fonctionnel est communiqué pour validation au demandeur, le cas échéant au syndicat de copropriété et au propriétaire du logement si le demandeur est locataire. Le volet technique est élaboré sur base du volet fonctionnel validé. Le volet technique comprend un devis estimatif permettant de comparer les offres de prix visées à l’article 27.\n\nLe cahier des charges retient pour les adaptations, la solution la plus rationnelle du point de vue économique en tenant compte des besoins du demandeur ainsi que d’autres prestations et aides techniques accordées le cas échéant.",
+      "text_sha256": "5e836fc219bc50e80144cfac1ed6ea34342ed207b1d9e7dfcd3b15b4c4740311",
+      "md_span": {
+        "start": 14217,
+        "end": 15188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_27/20070102",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "A la réception du cahier des charges technique, le demandeur sollicite, dans la mesure du possible, une offre de prix détaillée auprès d’au moins deux entreprises différentes laissées à son choix. Il s’engage à demander toutes les autorisations nécessaires aux adaptations du logement.",
+      "text_sha256": "6838a7d4293f9bbf2f65ab1e904f89b1b8a4067354cb2441e5166f96fbacc03e",
+      "md_span": {
+        "start": 15225,
+        "end": 15510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_28/20070102",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Sur base des différentes offres de prix répondant aux caractéristiques du cahier des charges, la Cellule d’évaluation et d’orientation détermine pour la solution retenue le montant pris en charge. Seules les entreprises dont l’offre de prix est conforme aux cahiers des charges indiquées par la Cellule d’évaluation et d’orientation, peuvent être chargées de l’exécution des travaux.\n\nLa Cellule d’évaluation et d’orientation peut refuser la prise en considération des offres de prix si celles-ci divergent de façon significative du devis estimatif établi.",
+      "text_sha256": "9eb1a9330af25e47c403470caa7f9a735ba6285d957286f218285e6ad8fab942",
+      "md_span": {
+        "start": 15547,
+        "end": 16103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_29/20100101",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2010-01-01",
+      "text_md": "Le montant pris en charge ne peut pas dépasser un montant de 26.000 euros par personne dépendante, sans prise en compte ni des aides techniques visées au chapitre premier ni des frais susceptibles d’être engagés à charge de l’assurance dépendance pour la mise en œuvre de l’adaptation au profit des services spécialisés prévus à l’article 386, alinéa final du Code de la sécurité sociale. L’adaptation du logement constitue une prestation unique.\n\nDans des cas exceptionnels et justifiés pour des raisons professionnelles ou en cas de départ du domicile parental, l’adaptation d’un logement supplémentaire peut être accordée, ce sans préjudice de l’application des articles 32 et 33. Cette disposition s’applique également en cas de décision définitive de séparation de résidence.\n\nLa prise en charge des adaptations du logement par l’assurance dépendance n’est possible que sur avis préalable de la Cellule d’évaluation et d’orientation.",
+      "text_sha256": "6f50a738e510ad02722f343eca903d287e1f1691a1cbc3ea92ba79e285082cc5",
+      "md_span": {
+        "start": 16140,
+        "end": 17078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_30/20070102",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "La prise en charge est subordonnée à la condition que la décision de l’organisme gestionnaire soit antérieure au début des travaux et que ceux-ci démarrent endéans les douze mois suivant la notification de la décision.",
+      "text_sha256": "35b2c63bd81ff3741b5a1f456bd87716d8b99944c2ac49a826cea8151e05c84f",
+      "md_span": {
+        "start": 17115,
+        "end": 17333
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_31/20070102",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Le montant pris en charge est directement versé par l’organisme gestionnaire sur un compte bancaire de l’entrepreneur. Le montant dépassant le subside accordé ainsi que les suppléments éventuels sont à charge du bénéficiaire.\n\nL’entrepreneur peut demander des acomptes au fur et à mesure de l’avancement des travaux.\n\nSeuls les travaux et fournitures réellement exécutés sont admis à facturation. Toutes les factures doivent être approuvées par la Cellule d’évaluation et d’orientation avant paiement.\n\nDeux factures d’acompte de 40 pour cent chacune et une facture finale au maximum peuvent être dressées.\n\nLe règlement pour solde de la facture finale est subordonné à la réception définitive des travaux en présence de la Cellule d’évaluation et d’orientation, du bénéficiaire et de l’entrepreneur.",
+      "text_sha256": "b0c1c43850cff1749736d83157f9af0d236a9d94cbc53dfc678920ed0e68e80b",
+      "md_span": {
+        "start": 17370,
+        "end": 18170
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_32/20070102",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "En toute hypothèse le logement faisant l’objet des adaptations doit être habité par la personne dépendante pendant au moins douze mois à compter de la réception définitive des travaux. A ce délai s’ajoute un délai d’un mois supplémentaire pour chaque tranche de 300 euros accordée. Tout changement de domicile intervenant endéans ce délai doit être déclaré, dans un mois, à l’organisme gestionnaire de l’assurance dépendance.",
+      "text_sha256": "5e5f7a81969c12ef38049c3c5bca2e21dd249961345b28cd4a3d5ba33696a08e",
+      "md_span": {
+        "start": 18207,
+        "end": 18632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_33/20070102",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Si les conditions définies à l’article 32 ne sont pas respectées, le montant pris en charge doit être restitué. A cet effet un montant de 300 euros est mis en compte pour chaque mois de la durée d’habitation qui n’a pas été respectée.\n\nLe bénéficiaire doit conclure une police d’assurance incendie couvrant les adaptations du logement réalisées par l’assurance dépendance.\n\nEn cas de restitution, l’organisme gestionnaire peut accorder un délai de paiement ne dépassant pas un an.\n\nToutefois, l’organisme gestionnaire peut dispenser de la restitution, si des raisons impérieuses motivent l’abandon du logement, la Cellule d’évaluation et d’orientation entendue en son avis.\n\nLa restitution n’ouvre pas droit à une nouvelle adaptation du logement.",
+      "text_sha256": "d0082ac0033d9fe6378c64e4e3a4381039eaca77a6d14158cdbf85fd3bc73d6f",
+      "md_span": {
+        "start": 18669,
+        "end": 19415
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_34/20070102",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Si le demandeur est locataire du logement, la prise en charge du coût supplémentaire de loyer, engendré par le déménagement de la personne dépendante dans un logement adapté ou adaptable, ne peut dépasser 300 euros par mois sans pouvoir dépasser au total le plafond fixé à l’article 29. Le coût supplémentaire peut être déterminé sur base d’une expertise.",
+      "text_sha256": "ef09c96ab05af54c711f998a6636f6d4813b271275d49b7adbb1752cd685633a",
+      "md_span": {
+        "start": 19452,
+        "end": 19807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_35/20070102",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Au démarrage du chantier, la Cellule d’évaluation et d’orientation, le demandeur et un responsable de l’entreprise se réunissent en vue de vérifier la correspondance entre le bon de commande et le cahier des charges technique retenu.",
+      "text_sha256": "79dca256b69b00ea4edfde7a0b38d0624be01acc82ba55e905915e801dcc5b26",
+      "md_span": {
+        "start": 19844,
+        "end": 20077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_36/20070102",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des adaptations du logement."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Si l’ensemble des adaptations dépasse le plafond visé à l’article 29, la Cellule d’évaluation et d’orientation accorde priorité à celles ayant le plus grand impact sur l’exécution des actes essentiels de la vie et les aides et soins à fournir.",
+      "text_sha256": "e79ff39d9160961e08a56628c14b2c158477a141080148bcee0d6435664959c8",
+      "md_span": {
+        "start": 20114,
+        "end": 20357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_37/20070102",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des produits nécessaires aux aides et soins."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Les produits nécessaires aux aides et soins pris en charge par l’assurance dépendance pour les personnes dépendantes consistent en alèses et couches de protection pour incontinence.",
+      "text_sha256": "3c6b91427de0977163535ac58ed8ad6dde72824257479a9015f081e35def3767",
+      "md_span": {
+        "start": 20459,
+        "end": 20640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_38/20070102",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Disposition abrogatoire."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Sont abrogés le règlement grand-ducal modifié du 23 décembre 1998 déterminant 1) les appareils pris en charge par l’assurance dépendance 2) les conditions et modalités de prise en charge des produits dans les établissements d’aide et de soins et le règlement grand-ducal du 5 novembre 1999 déterminant les modalités et les limites de la prise en charge des adaptations du logement par l’assurance dépendance.",
+      "text_sha256": "d240be6e5c69e4615f79aabc62166df3da048b86df366817bf630ae4a8f92477",
+      "md_span": {
+        "start": 20721,
+        "end": 21129
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/12/23/n2/jo",
+          "text": "règlement grand-ducal modifié du 23 décembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1999/11/05/n1/jo",
+          "text": "règlement grand-ducal du 5 novembre 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_39/20070102",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Dispositions transitoire et finale."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Par dérogation à l’article 38, les aides techniques continuent à être identifiées jusqu’au 1er septembre 2007 en application de la classification par code ISO de la liste formant l’annexe du règlement grand-ducal modifié du 23 décembre 1998 déterminant 1) les appareils pris en charge par l’assurance dépendance 2) les conditions et modalités de prise en charge des produits dans les établissements d’aide et de soins.",
+      "text_sha256": "e1ea5d5e3985ce55e4a3d875c68f09226c474c008787fee591ce382594d9ecdb",
+      "md_span": {
+        "start": 21220,
+        "end": 21638
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/12/23/n2/jo",
+          "text": "règlement grand-ducal modifié du 23 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/art_40/20070102",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Dispositions transitoire et finale."
+      ],
+      "article_valid_from": "2007-01-02",
+      "text_md": "Notre Ministre de la Santé et de la Sécurité Sociale et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "59299609a8b00a7b738a6f71de880a5ff2c35d3b0f1ce1762cdd3b54d890c354",
+      "md_span": {
+        "start": 21675,
+        "end": 21930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2006-12-22-n9:2010-01-01--736b5ae35c91298c6b44d7e05422132dd7a6d9c85654c521ea939c230d68cca4#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "|  | **Liste des aides techniques prises en charge par l'Assurance dépendance ** |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| **Code ISO** | ** Nature** | **Domicile** | **Etablissement** | **Rétrocession** | **Délai de renouvellement** | **Montant de prise en charge maximal** |\n| **04** | **Aides au traitement médical individuel** |  |  |  |  |  |\n| **0419** | **Aides à l'administration des médicaments** |  |  |  |  |  |\n| 041903 | Doseurs | A |  |  |  |  |\n| **0448** | **Equipement pour l'entraînement du mouvement, de la force et de l'équilibre** |  |  |  |  |  |\n| 044808 | Cadres et appareils de verticalisation | A/L |  |  |  |  |\n| 044821 | Tables inclinables | L |  |  |  |  |\n| **09** | **Aides aux soins et à la protection personnels** |  |  |  |  |  |\n| **0903** | **Vêtements et chaussures** |  |  |  |  |  |\n| 090303 | Capes | A | A |  |  |  |\n| 090336 | Culottes de protection pour le bain | A | A |  |  |  |\n| 090348 | Dispositifs de boutonnage et d'attaches | A | A |  |  |  |\n| **0906** | **Aides à la protection portées sur le corps** |  |  |  |  |  |\n| 090603 | Aides à la protection de la tête | A | A |  |  |  |\n| 090606 | Aides pour protéger les yeux et le visage | A | A |  |  |  |\n| 090609 | Aides pour protéger les oreilles et l'audition | A | A |  |  |  |\n| 090612 | Aides à la protection des coudes ou des bras | A | A |  |  |  |\n| 090615 | Aides à la protection des mains | A | A |  |  |  |\n| 090618 | Aides à la protection des jambes ou des genoux | A | A |  |  |  |\n| 090621 | Aides à la protection des talons ou des orteils ou des pieds | A | A |  |  |  |\n| 090624 | Aides à la protection du tronc ou de tout le corps | A | A |  |  |  |\n| **0909** | **Aides à l'habillage et au déshabillage** |  |  |  |  |  |\n| 090903 | Aides permettant d'enfiler les chaussettes et les collants | A | A |  |  |  |\n| 090912 | Tiges à crochet pour l'habillage et le déshabillage | A | A |  |  |  |\n| 090915 | Crochets permettant de manœuvrer les fermetures éclairs | A | A |  |  |  |\n| 090918 | Tire-boutons | A | A |  |  |  |\n| **0912** | **Aides à l'hygiène** |  |  |  |  |  |\n| 091203 | Sièges percés (avec ou sans roulettes) | L |  |  |  |  |\n| 091209 | Abattants de WC | A/L |  |  |  |  |\n| 091212 | Surélévateurs de WC (séparés) | L |  |  |  |  |\n| 091215 | Surélévateurs de WC (avec fixations rapportées) | L |  |  |  |  |\n| 091218 | Surélévateurs avec fixations intégrées (non démontables) | L |  |  |  |  |\n| 091221 | Cuvettes de WC avec un mécanisme de levage incorporé | A |  |  |  |  |\n| 091224 | Barres d'appui et/ou dossiers montés sur WC | L |  |  |  |  |\n| 091227 | Pinces porte-papier hygiénique | A | A |  |  |  |\n| 091230 | Porte-rouleaux de papier hygiénique | A |  |  |  |  |\n| 091233 | Bassins de lit | A |  |  |  |  |\n| 091236 | Douchettes et séchoirs à air chaud adaptables aux toilettes | A |  |  |  |  |\n| **0927** | **Collecteurs d'urine** |  |  |  |  |  |\n| 092709 | Urinaux | A |  |  |  |  |\n| **0933** | **Aides permettant de se laver, de se baigner et de se doucher** |  |  |  |  |  |\n| 093303 | Chaises de bain/de douche (avec ou sans roulettes), planches pour le bain, tabourets, dossiers et sièges | A/L |  |  |  |  |\n| 093309 | Douches et cabines de douche, les portes de douche et les rideaux de douche en font partie | A |  |  | cabine de douche: 10ans |  |\n| 093312 | Brancards, tables de douche et tables à langer | L |  |  |  |  |\n| 093321 | Baignoires | A |  |  | 10 ans |  |\n| 093327 | Aides pour raccourcir la longueur ou la profondeur de la baignoire | L |  |  |  |  |\n| 093330 | Gants de toilette, éponges, brosses avec support, poignée ou pince de fixation | A | A |  |  |  |\n| 093389 | Tablettes pour lavabo | A |  |  |  |  |\n| **093603** | **Aides à la manucurie et à la pédicurie** |  |  |  |  |  |\n| 093603 | Brosses à ongles | A | A |  |  |  |\n| 093606 | Limes à ongles et planches avec émeri | A | A |  |  |  |\n| 093609 | Ciseaux à ongles et coupe-ongles | A | A |  |  |  |\n| **0939** | **Aides aux soins des cheveux** |  |  |  |  |  |\n| 093903 | Aides au shampoing | L |  |  |  |  |\n| 093906 | Peignes et brosses à cheveux | A | A |  |  |  |\n| **0945** | **Aides aux soins du visage et aux soins de la peau** |  |  |  |  |  |\n| 094509 | Miroirs | A |  |  |  |  |\n| **0951** | **Horloges** |  |  |  |  |  |\n| 095103 | Montres-bracelets | A | A |  |  |  |\n| **12** | **Aides à la mobilité personnelle ** |  |  |  |  |  |\n| **1203** | **Aides à la marche manipulées par un bras** |  |  |  |  |  |\n| 120303 | Cannes de marche | A | A |  |  |  |\n| 120306 | Cannes avec appui antébrachial | A | A |  |  |  |\n| 120309 | Cannes avec support d'avant-bras | A | A |  |  |  |\n| 120312 | Béquilles avec appui axillaire | A | A |  |  |  |\n| 120316 | Cannes de marche à trois ou à plusieurs pieds, une poignée et/ou un support d'avant-bras ou une manchette | L | L |  |  |  |\n| **1206** | **Aides à la marche manipulées par les deux bras** |  |  |  |  |  |\n| 120603 | Cadres de marche | L | L |  |  |  |\n| 120606 | Déambulateurs | L | L |  |  |  |\n| 120609 | Appareils de marche en position assise | L | L |  |  |  |\n| 120612 | Tables de marche | L | L |  |  |  |\n| 1209 | **Voitures spéciales** |  |  |  |  |  |\n| 120903 | Voitures avec un châssis à hauteur réglable | A | A |  | 5 ans | 10.000€ |\n| **1212** | **Adaptations pour voitures** |  |  |  |  |  |\n| 121204 | Adaptations permettant de conduire des voitures, comprenant: les adaptations sur l'accélérateur , les freins, l'embrayage et les vitesses | A | A |  | 5 ans | Adaptation sur l'accélérateur et les freins: 4.000€Boîte de vitesses automatique et embrayage semi-automatique: 2.050€Adaptation ou déplacement de la pédale d'accélérateur: 1.500€ |\n| 121205 | Adaptations de voitures permettant d'actionner les freins de stationnement | A | A |  | 5 ans | 1.750€ |\n| 121207 | Adaptations de voitures permettant d'actionner la direction (comprenant les boules de volant) | A | A |  | 5 ans | 200€ |\n| 121208 | Adaptations des voitures permettant d' actionner des fonctions secondaires (comprenant les rétroviseurs réglables, les verrouillages centralisés, les essuie-glaces, les témoins et les phares) | A | A |  | 5 ans | 2.800€ |\n| 121209 | Ceintures de sécurité et harnais de voiture | A | A |  | 5 ans |  |\n| 121212 | Sièges et coussins de voiture conçus spécialement | A | A | R | 5 ans/exception :siège pour enfant |  |\n| 121215 | Lève-personnes pour voiture (non prévus pour le fauteuil roulant) | A | A |  | 5 ans | 4.100€ |\n| 121218 | Lève-personne permettant de soulever une personne assise dans son fauteuil roulant à l'intérieur d'une voiture | A | A |  | 5 ans | 10.000€ |\n| 121221 | Aides au chargement des fauteuils roulants sur ou à l'intérieur d'une voiture | A | A |  | 5 ans | 10.000€ |\n| 121224 | Equipements d'arrimage d'un fauteuil roulant dans une voiture | A | A |  | 5 ans | 1.100€ |\n| 121227 | Adaptations de la carrosserie de la voiture (comprenant les toits surélevés et les fenêtres agrandies) | A | A |  | 5 ans | 10.000€ |\n| **1218** | **Cycles** |  |  |  |  |  |\n| 121803 | Bicyclettes | L | L |  |  |  |\n| 121806 | Tricycles à propulsion podale | L | L |  |  |  |\n| 121809 | Cycles à propulsion manuelle | L | L |  |  |  |\n| 121815 | Tandems | L |  |  |  |  |\n| 121821 | Adaptations pour cycles | L | L |  |  |  |\n| **1221** | **Fauteuils roulants** |  |  |  |  |  |\n| 122103 | Fauteuils roulants manuels manoeuvrés par un accompagnateur | L | L |  |  |  |\n| 122106 | Fauteuils roulants manuels à grandes roues arrière, man uvrés par les deux mains | L | L |  |  |  |\n| 122115 | Fauteuils roulants manuels à conduite unilatérale | L | L |  |  |  |\n| 122118 | Fauteuils roulants à propulsion podale | L | L |  |  |  |\n| 122121 | Fauteuils roulants à moteur manoeuvrés par un accompagnateur | L | L |  |  |  |\n| 122124 | Fauteuils roulants à propulsion par moteur électrique avec commande directionnelle manuelle | L | L |  |  |  |\n| 122127 | Fauteuils roulants à propulsion par moteur électrique avec commande directionnelle assistée | L | L |  |  |  |\n| **1224** | **Accessoires de fauteuils roulants ** |  |  |  |  |  |\n| 122403 | Systèmes de direction et de commande | L | L |  |  |  |\n| 122409 | Ensembles de propulsion (comprenant les systèmes de direction, de commande ou de freinage) | L | L |  |  |  |\n| 122489 | Appui-tête de FR pour voiture | L | L |  |  |  |\n| **1227** | **Véhicules** |  |  |  |  |  |\n| 122703 | Poussettes | L | L |  |  |  |\n| 122715 | \"Crawlers\" et planches à roulettes pour se déplacer | L | L |  |  |  |\n| 122718 | Brancards avec roues | L |  |  |  |  |\n| **1230** | **Aides au transfert** |  |  |  |  |  |\n| 123003 | Planches de transfert et tapis glissants | A | A |  |  |  |\n| 123006 | Disques de transfert | L |  |  |  |  |\n| 123009 | Potences de suspension sur pied | L |  |  |  |  |\n| 123012 | Echelles de corde | A | A |  |  |  |\n| 123015 | Ceintures de transfert et harnais | A |  |  |  |  |\n| **1233** | **Aides permettant de tourner** |  |  |  |  |  |\n| 123306 | Couvertures et tapis tournants | A |  |  |  |  |\n| **1236** | **Aides permettant de se lever** |  |  |  |  |  |\n| 123603 | Lève-personnes mobiles avec sangles | L |  |  |  |  |\n| 123606 | Lève-personnes mobiles avec siège | L |  |  |  |  |\n| 123612 | Lève-personnes fixés au mur, entre les murs, au sol et/ou au plafond | A |  | R | léve-personnes sur rails: 10 ans | 26.000€ |\n| **1239** | **Aides à l'orientation** |  |  |  |  |  |\n| 123903 | Cannes (blanches) tactiles et cannes blanches | A | A |  |  |  |\n| 123906 | Aides électroniques à l'orientation | A | A | R |  |  |\n| **15** | **Aides aux activités domestiques** |  |  |  |  |  |\n| **1503** | **Aides à la préparation de la nourriture et des boissons** |  |  |  |  |  |\n| 150303 | Aides pour peser et mesurer | A |  |  |  |  |\n| 150306 | Aides pour couper, hacher et séparer | A |  |  |  |  |\n| 150309 | Aides pour nettoyer et éplucher | A |  |  |  |  |\n| 150312 | Aides pour faire de la pâtisserie | A |  |  |  |  |\n| 150318 | Aides pour cuire et frire | A |  |  |  |  |\n| **1509** | **Aides pour manger et boire** |  |  |  |  |  |\n| 150903 | Aides pour servir les aliments et les boissons | A |  |  |  |  |\n| 150913 | Couverts | A | A |  |  |  |\n| 150916 | Chopes et verres, tasses et soucoupes | A | A |  |  |  |\n| 150918 | Assiettes comprenant les planches à tartiner | A | A |  |  |  |\n| 150921 | Bagues d'assiettes et butées d'assiettes | A | A |  |  |  |\n| 150924 | Coquetiers | A | A |  |  |  |\n| 150927 | Appareils pour manger | A |  | R |  |  |\n| **1515** | **Aides à la confection et à l'entretien du linge** |  |  |  |  |  |\n| 151512 | Aiguilles à tricoter, crochets, aiguilles pour coudre et repriser | A |  |  |  |  |\n| 151519 | Aides à la couture à la main | A |  |  |  |  |\n| 151521 | Ciseaux | A |  |  |  |  |\n| 151524 | Fers à repasser | A |  |  |  |  |\n| **18** | **Aménagements et adaptations des maisons et autres lieux** |  |  |  |  |  |\n| **1803** | **Tables** |  |  |  |  |  |\n| 180306 | Tables de lecture | L |  |  |  |  |\n| 180312 | Tables pour les repas | L |  |  |  |  |\n| 180315 | Tables de lits | L |  |  |  |  |\n| **1806** | **Equipements d'éclairage** |  |  |  |  |  |\n| 180603 | Eclairage courant | A |  |  |  |  |\n| 180606 | Eclairage de lecture et de travail | L | L |  |  |  |\n| **1809** | **Mobilier d'assise** |  |  |  |  |  |\n| 180903 | Sièges (comprenant les sièges de bureau) | L |  |  |  |  |\n| 180906 | Tabourets et sièges assis-debout | L |  |  |  |  |\n| 180909 | Sièges pour ankylosés de hanches | L | L |  |  |  |\n| 180912 | Chaises et sièges avec un mécanisme pour aider à se lever et à s'asseoir | A |  | R |  |  |\n| 180921 | Sièges spéciaux (comprenant les chaises hautes pour enfants) | L | L |  |  |  |\n| 180931 | Sièges, systèmes d'assise et blocs d'abduction (comprenant les sièges moulés sur mesure) | A | A | R |  |  |\n| 180934 | Dossiers | A/L | A/L |  |  |  |\n| 180942 | Coussins et supports | A/L | A/L |  |  |  |\n| **1812** | **Lits** |  |  |  |  |  |\n| 181204 | Lits et sommiers amovibles non réglables | L |  |  |  |  |\n| 181207 | Lits et sommiers amovibles/supports de matelas avec réglage manuel | L |  |  |  |  |\n| 181210 | Lits et sommiers amovibles/supports de matelas avec réglage motorisé | L |  |  |  |  |\n| 181212 | Soulève-lits | L |  |  |  |  |\n| 181215 | Literie | A |  |  |  |  |\n| 181218 | Matelas | A/L |  |  |  |  |\n| 181221 | Supports de couvertures | L |  |  |  |  |\n| 181224 | Dossiers séparés et supports de jambes réglables | L |  |  |  |  |\n| 181227 | Barrières de lit et potences de suspension à fixer au lit | L |  |  |  |  |\n| **1815** | **Aides pour régler la hauteur du mobilier ** |  |  |  |  |  |\n| 181503 | Surélévateurs de pieds de meuble | A |  |  |  |  |\n| 181506 | Socles et supports à hauteur réglable | A |  |  |  |  |\n| 181509 | Piédestaux, socles et supports à hauteur fixe | A |  |  |  |  |\n| **1818** | **Dispositifs de soutien ** |  |  |  |  |  |\n| 181803 | Mains courantes et garde-corps | A |  |  |  | Au mètre linéaire y compris tout raccord:mains courantes: 160€garde-corps: 425€ |\n| 181806 | Barres d'appui et poignées d'appui | A |  |  |  |  |\n| **1821** | **Dispositifs d'ouverture et de fermeture de portails, portes, de fenêtres et de rideaux** |  |  |  |  |  |\n| 182103 | Dispositifs d'ouverture et de fermeture des portes | A |  |  |  |  |\n| 182106 | Dispositifs d'ouverture et de fermeture des fenêtres | A |  |  |  |  |\n| 182109 | Dispositifs d'ouverture et de fermeture des rideaux | A |  |  |  |  |\n| 182112 | Dispositifs d'ouverture et de fermeture des stores | A |  |  |  |  |\n| 182115 | Verrous | A |  |  |  |  |\n| **1824** | **Eléments de construction dans la maison et dans d'autres locaux** |  |  |  |  |  |\n| 182412 | Seuils | A/L |  |  |  |  |\n| **1827** | **Echelles et escabeaux** | L |  |  |  |  |\n| 182700 | Echelles et escabeaux | L |  |  |  |  |\n| **1830** | **Dispositifs de changement de niveau** |  |  |  |  |  |\n| 183006 | Monte-charge et plate-formes élévatrices | A |  |  | 10 ans | 26.000€ |\n| 183009 | Elévateurs d'escaliers | A |  |  | 10 ans | 26.000€ |\n| 183012 | Dispositifs permettant de gravir les escaliers | L |  |  |  |  |\n| 183015 | Rampes portables | L |  |  |  |  |\n| 183018 | Rampes fixes | A |  |  | 10 ans | 26.000€ |\n| **1833** | **Equipements de sécurité pour la maison et autres locaux** |  |  |  |  |  |\n| 183306 | Barrières de sécurité | A |  |  |  |  |\n| **21** | **Aides à la communication, à l'information et à la signalisation** |  |  |  |  |  |\n| **2103** | **Aides optiques** |  |  |  |  |  |\n| 210303 | Verres de lunettes | A | A |  |  |  |\n| 210306 | Montures de lunettes | A | A |  |  | 40€ |\n| 210312 | Loupes avec éclairage incorporé | A | A | R |  |  |\n| 210315 | Loupes sans éclairage | A | A | R |  |  |\n| 210318 | Jumelles et téléscopes | A | A | R |  |  |\n| 210321 | Lunettes montées avec lentilles monoculaires ou binoculaires télescopiques pour voir de loin à la distance ordinaire de lecture | A | A |  |  |  |\n| 210324 | Lunettes montées avec lentilles monoculaires ou binoculaires télescopiques pour voir de près, par exemple la lecture de près | A | A |  |  |  |\n| 210327 | Agrandisseurs de champ de vision | A | A | R |  |  |\n| 210333 | Lunettes prismatiques (lunettes pour lire couché) | A | A | R |  |  |\n| 210336 | Filtres de lumière (filtres absorbants) | A | A |  |  |  |\n| **2106** | **Aides électro-optiques** |  |  |  |  |  |\n| 210603 | Systèmes vidéo agrandissant l'image | A | A | R |  |  |\n| 210606 | Machines à lire | A | A | R |  |  |\n| 210609 | Logiciels grossissant | A | A | R |  |  |\n| **2110** | **Dispositifs de sortie pour ordinateurs, machines à écrire et équipements électroniques** |  |  |  |  |  |\n| 211003 | Ecrans | A | A | R |  |  |\n| 211006 | Imprimantes et traceurs | A | A | R |  |  |\n| 211009 | Dispositifs pour synthèse vocale | A | A | R |  |  |\n| **2115** | **Machines à écrire et de traitement de textes** |  |  |  |  |  |\n| 211512 | Machines à écrire manuelles pour le braille | A | A | R |  |  |\n| 211515 | Machines à écrire électriques pour le braille | A | A | R |  |  |\n| **2118** | **Calculatrices** |  |  |  |  |  |\n| 211800 | Calculatrices | A | A | R |  |  |\n| **2124** | **Aides pour dessiner et écrire** |  |  |  |  |  |\n| 212406 | Tableaux permettant d'écrire, de tracer et de dessiner | A | A |  |  |  |\n| 212409 | Guides pour signer et tampons-signatures | A | A |  |  |  |\n| 212412 | Guide-mains pour écrire | A | A |  |  |  |\n| 212419 | Dispositifs électroniques portables de prise de notes pour les utilisateurs de braille. | A | A | R |  |  |\n| **2127** | **Aides de lecture non optiques ** |  |  |  |  |  |\n| 212703 | Tourne-pages | A | A | R |  |  |\n| 212706 | Chevalets de lecture et porte-livres | L | L |  |  |  |\n| **2130** | **Enregistreurs audio et récepteurs** |  |  |  |  |  |\n| 213009 | Magnétophones à cassettes miniatures | A | A | R |  |  |\n| **2136** | **Téléphones et aides pour téléphoner** |  |  |  |  |  |\n| 213609 | Téléphones avec entrée et/ou sortie de texte | A | A | R |  |  |\n| 213610 | Téléphones visuels et vidéophones | A | A | R |  |  |\n| 213612 | Téléphones à amplificateurs de sons et accessoires | A | A | R |  |  |\n| 213615 | Indicateurs de composition de numéros, de numéro occupé et de sonnerie | A | A | R |  |  |\n| 213618 | Aides pour composer les numéros | A | A | R |  |  |\n| 213627 | Dispositifs d'induction | A | A |  |  |  |\n| 213630 | Supports d'écouteurs téléphoniques | A | A |  |  |  |\n| **2139** | **Systèmes de transmission de son ** |  |  |  |  |  |\n| 213912 | Dispositifs de raccordement aux postes de radio et de télévision | A | A |  |  |  |\n| 213918 | Interphones d'entrée et amplificateurs d'interphones d'entrée | A |  |  |  |  |\n| 213924 | Systèmes de transmission de fréquence de radio | A | A | R |  |  |\n| 213927 | Systèmes infrarouges | A | A |  |  |  |\n| **2142** | **Aides à la communication face-à-face** |  |  |  |  |  |\n| 214203 | Ensemble de lettres et/ou de symboles | A | A |  |  |  |\n| 214206 | Tableaux de lettres et/ou de symboles | A | A |  |  |  |\n| 214209 | Appareils de communication portables (comprenant les écrans digitaux , les sorties papier et les synthèses vocales) | A | A | R |  |  |\n| 214210 | Dispositifs non portables permettant la communication face-à-face | A | A | R |  |  |\n| 214215 | Amplificateurs de voix à usage personnel | A | A |  |  |  |\n| 214224 | Logiciels permettant la communication face-à-face | A | A | R |  |  |\n| **2145** | **Aides auditives** |  |  |  |  |  |\n| 214515 | Aides auditives tactiles | A | A | R |  |  |\n| **2148** | **Aides de signalisation et d'indication** |  |  |  |  |  |\n| 214803 | Signaux de portes et avertisseurs de signal de porte | A |  | R |  |  |\n| 214806 | Avertisseurs d'ouverture de porte | A |  | R |  |  |\n| 214815 | Indicateurs de bruits | A |  | R |  |  |\n| 214818 | Indicateurs. Dispositifs appliqués à un produit | A | A | R |  |  |\n| 214824 | Calendrier électronique et systèmes de mémoire | A | A | R |  |  |\n| **24** | **Aides à la manipulation des produits et des biens** |  |  |  |  |  |\n| **2404** | **Matériels et outils de marquage** |  |  |  |  |  |\n| 240490 | Outils de marquage pour le braille | A | A |  |  |  |\n| **2406** | **Aides à la manipulation des récipients** |  |  |  |  |  |\n| 240603 | Aides à l'ouverture des bouteilles, des boîtes métalliques, des récipients | A | A |  |  |  |\n| 240606 | Clefs pour presser les tubes | A | A |  |  |  |\n| 240903 | Boutons-poussoirs | A | A |  |  |  |\n| 240906 | Poignées et boutons fixes | A | A |  |  |  |\n| 240909 | Poignées et boutons tournants | A | A |  |  |  |\n| 240912 | Pédales ( non électriques) | A | A |  |  |  |\n| 240915 | Volants et manivelles | A | A |  |  |  |\n| 240918 | Interrupteurs (marche/arrêt) | A | A |  |  |  |\n| 240924 | Tableaux-commutateurs | A | A |  |  |  |\n| **2410** | **Dispositifs d'entrée pour les ordinateurs et équipements électroniques** |  |  |  |  |  |\n| 241003 | Claviers | A | A | R |  |  |\n| 241006 | Souris | A | A | R |  |  |\n| 241012 | Autres dispositifs d'entrée | A | A | R |  |  |\n| 241015 | Accessoires pour dispositifs d'entrée | A | A | R |  |  |\n| 241018 | Modifications des dispositifs d'entrée | A | A | R |  |  |\n| **2412** | **Systèmes de contrôle de l'environnement** |  |  |  |  |  |\n| 241203 | Systèmes de commande à distance | A | A | R |  |  |\n| 241206 | Logiciels de contrôle de l'environnement | A | A | R |  |  |\n| 2418 | **Aides pour compenser et/ou pour remplacer la fonction du bras, de la main et/ou des doigts** |  |  |  |  |  |\n| 241803 | Aides à la préhension | A | A |  |  |  |\n| 241806 | Adaptateurs de préhension et fixations | A | A |  |  |  |\n| 241812 | Supports | A | A |  |  |  |\n| 241815 | Tiges de commande (comprenant celles manœuvrées par la tête, le menton et la bouche) | A | A |  |  |  |\n| 241818 | Lampes directionnelles | A | A |  |  |  |\n| 241827 | Supports d'avant-bras pour permettre des activités manuelles | L | L |  |  |  |\n| **2421** | **Aides à la saisie à distance** |  |  |  |  |  |\n| 242103 | Pinces de préhension manuelles | A | A |  |  |  |\n| 242109 | Prolongateurs sans fonction de préhension | A | A |  |  |  |\n| **2427** | **Aides pour fixer** |  |  |  |  |  |\n| 242703 | Ventouses | A | A |  |  |  |\n| 242706 | Tapis antidérapants | A | A |  |  |  |\n| 242709 | Serre-joints à vis | A | A |  |  |  |\n| 242715 | Etaux | A | A |  |  |  |\n| **2436** | **Aides pour porter et transporter** |  |  |  |  |  |\n| 243606 | Jeux de roulettes | A |  |  |  |  |\n| **2706** | **Instruments de mesure** |  |  |  |  |  |\n| 270624 | Aides et outils pour mesurer les couleurs | A | A | R |  |  |",
+      "text_sha256": "70d9b516724b27afef5deb4924f9664fe8fcef1f15c3ec10a0301b9a5925576d",
+      "md_span": {
+        "start": 21977,
+        "end": 43528
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

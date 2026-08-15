@@ -1,0 +1,495 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132",
+  "language": "en",
+  "title": "Directive 2009/125/EC",
+  "valid_from": "2012-12-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009l0125/versions/2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132/en.html",
+    "sha256": "2ce68a645b58c2952f2bccd7db56d0c61db4cc359e406e699979e09f32f77685",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0125-20121204"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter and scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** This Directive establishes a framework for the setting of Community ecodesign requirements for energy-related products with the aim of ensuring the free movement of such products within the internal market.\n\n**2.** This Directive provides for the setting of requirements which the energy-related products covered by implementing measures must fulfil in order to be placed on the market and/or put into service. It contributes to sustainable development by increasing energy efficiency and the level of protection of the environment, while at the same time increasing the security of the energy supply.\n\n**3.** This Directive shall not apply to means of transport for persons or goods.\n\n**4.** This Directive and the implementing measures adopted pursuant thereto shall be without prejudice to Community waste management legislation and Community chemicals legislation, including Community legislation on fluorinated greenhouse gases.",
+      "text_sha256": "a9f0a5f6931650a89f8c824d3d711265b4063fdda1ccf642388031ac0128f288",
+      "md_span": {
+        "start": 672,
+        "end": 1612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive, the following definitions shall apply:\n\n1. ‘Energy-related product’, (a ‘product’), means any good that has an impact on energy consumption during use which is placed on the market and/or put into service, and includes parts intended to be incorporated into energy-related products covered by this Directive which are placed on the market and/or put into service as individual parts for end-users and of which the environmental performance can be assessed independently;\n\n2. ‘Components and sub-assemblies’ means parts intended to be incorporated into products which are not placed on the market and/or put into service as individual parts for end-users or the environmental performance of which cannot be assessed independently;\n\n3. ‘Implementing measures’ means measures adopted pursuant to this Directive laying down ecodesign requirements for defined products or for environmental aspects thereof;\n\n4. ‘Placing on the market’ means making a product available for the first time on the Community market with a view to its distribution or use within the Community, whether for reward or free of charge and irrespective of the selling technique;\n\n5. ‘Putting into service’ means the first use of a product for its intended purpose by an end-user in the Community;\n\n6. ‘Manufacturer’ means the natural or legal person who manufactures products covered by this Directive and is responsible for their conformity with this Directive in view of their being placed on the market and/or put into service under the manufacturer’s own name or trademark or for the manufacturer’s own use. In the absence of a manufacturer as defined in the first sentence of this point or of an importer as defined in point 8, any natural or legal person who places on the market and/or puts into service products covered by this Directive shall be considered a manufacturer;\n\n7. ‘Authorised representative’ means any natural or legal person established in the Community who has received a written mandate from the manufacturer to perform on his behalf all or part of the obligations and formalities connected with this Directive;\n\n8. ‘Importer’ means any natural or legal person established in the Community who places a product from a third country on the Community market in the course of his business;\n\n9. ‘Materials’ means all materials used during the life cycle of a product;\n\n10. ‘Product design’ means the set of processes that transform legal, technical, safety, functional, market or other requirements to be met by a product into the technical specification for that product;\n\n11. ‘Environmental aspect’ means an element or function of a product that can interact with the environment during its life cycle;\n\n12. ‘Environmental impact’ means any change to the environment wholly or partially resulting from a product during its life cycle;\n\n13. ‘Life cycle’ means the consecutive and interlinked stages of a product from raw material use to final disposal;\n\n14. ‘Reuse’ means any operation by which a product or its components, having reached the end of their first use, are used for the same purpose for which they were conceived, including the continued use of a product which is returned to a collection point, distributor, recycler or manufacturer, as well as reuse of a product following refurbishment;\n\n15. ‘Recycling’ means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding energy recovery;\n\n16. ‘Energy recovery’ means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;\n\n17. ‘Recovery’ means any of the applicable operations provided for in Annex II B to Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste (21);\n\n18. ‘Waste’ means any substance or object in the categories set out in Annex I to Directive 2006/12/EC which the holder discards or intends, or is required, to discard;\n\n19. ‘Hazardous waste’ means any waste which is covered by Article 1(4) of Council Directive 91/689/EEC of 12 December 1991 on hazardous waste (22);\n\n20. ‘Ecological profile’ means a description, in accordance with the implementing measure applicable to the product, of the inputs and outputs (such as materials, emissions and waste) associated with a product throughout its life cycle which are significant from the point of view of its environmental impact and are expressed in physical quantities that can be measured;\n\n21. ‘Environmental performance’ of a product means the results of the manufacturer’s management of the environmental aspects of the product, as reflected in its technical documentation file;\n\n22. ‘Improvement of the environmental performance’ means the process of enhancing the environmental performance of a product over successive generations, although not necessarily in respect of all environmental aspects of the product simultaneously;\n\n23. ‘Ecodesign’ means the integration of environmental aspects into product design with the aim of improving the environmental performance of the product throughout its whole life cycle;\n\n24. ‘Ecodesign requirement’ means any requirement in relation to a product, or the design of a product, intended to improve its environmental performance, or any requirement for the supply of information with regard to the environmental aspects of a product;\n\n25. ‘Generic ecodesign requirement’ means any ecodesign requirement based on the ecological profile as a whole of a product without set limit values for particular environmental aspects;\n\n26. ‘Specific ecodesign requirement’ means a quantified and measurable ecodesign requirement relating to a particular environmental aspect of a product, such as energy consumption during use, calculated for a given unit of output performance;\n\n27. ‘Harmonised standard’ means a technical specification adopted by a recognised standards body under a mandate from the Commission, in accordance with the procedure laid down in Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (23), for the purpose of establishing a European requirement, compliance with which is not compulsory.",
+      "text_sha256": "26d308ff743d367b2e3cbaa9b1bd34b2f1f745c3fbe88b6336d9a0a466a4f52f",
+      "md_span": {
+        "start": 1663,
+        "end": 8000
+      },
+      "citations": [
+        {
+          "href": "#E0021",
+          "text": "21"
+        },
+        {
+          "href": "#E0022",
+          "text": "22"
+        },
+        {
+          "href": "#E0023",
+          "text": "23"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Placing on the market and/or putting into service",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall take all appropriate measures to ensure that products covered by implementing measures may be placed on the market and/or put into service only if they comply with those measures and bear the CE marking in accordance with Article 5.\n\n**2.** Member States shall designate the authorities responsible for market surveillance. They shall arrange for such authorities to have and use the necessary powers to take the appropriate measures incumbent upon them under this Directive. Member States shall define the tasks, powers and organisational arrangements of the competent authorities which shall be entitled to:(a) organise appropriate checks on product compliance, on an adequate scale, and oblige the manufacturer or its authorised representative to recall non-compliant products from the market in accordance with Article 7;(b) require the parties concerned to provide all necessary information, as specified in the implementing measures;(c) take samples of products and subject them to compliance checks.\n\n**3.** Member States shall keep the Commission informed about the results of the market surveillance, and where appropriate, the Commission shall pass on such information to the other Member States.\n\n**4.** Member States shall ensure that consumers and other interested parties are given an opportunity to submit observations on product compliance to the competent authorities.",
+      "text_sha256": "620240e1c5b21677b333a9d29c454b852d991a408d3a5dee7fe44c9771fe8459",
+      "md_span": {
+        "start": 8089,
+        "end": 9501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Responsibilities of the importer",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Where the manufacturer is not established within the Community and in the absence of an authorised representative, the importer shall have the following obligations:\n\n(a) to ensure that the product placed on the market and/or put into service complies with this Directive and the applicable implementing measure; and\n\n(b) to keep and make available the EC declaration of conformity and the technical documentation.",
+      "text_sha256": "f8723b8d2e55fc0ab24164e567179d78fc1346b86b52554a9e2839a95803b677",
+      "md_span": {
+        "start": 9573,
+        "end": 9987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Marking and the EC declaration of conformity",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Before a product covered by implementing measures is placed on the market and/or put into service, a CE marking shall be affixed and an EC declaration of conformity issued whereby the manufacturer or its authorised representative ensures and declares that the product complies with all relevant provisions of the applicable implementing measure.\n\n**2.** The CE marking consists of the initials ‘CE’ as shown in Annex III.\n\n**3.** The EC declaration of conformity shall contain the elements specified in Annex VI and shall refer to the appropriate implementing measure.\n\n**4.** The affixing of markings on a product which are likely to mislead users as to the meaning or form of the CE marking shall be prohibited.\n\n**5.** Member States may require the information to be supplied pursuant to Annex I, Part 2 to be in their official language(s) when the product reaches the end-user.\n\nMember States shall also authorise the provision of this information in one or more other official languages of the institutions of the European Union.\n\nWhen applying the first subparagraph, Member States shall take into account in particular:\n\n(a) whether the information can be supplied by harmonised symbols or recognised codes or other measures; and\n\n(b) the type of user anticipated for the product and the nature of the information which is to be provided.",
+      "text_sha256": "47249580695e2a3f0022c767ad20b0aebb8b52e61752e67ff59c4ffed2a8e746",
+      "md_span": {
+        "start": 10071,
+        "end": 11423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Free movement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall not prohibit, restrict or impede the placing on the market and/or putting into service, within their territories, of a product that complies with all the relevant provisions of the applicable implementing measure and bears the CE marking in accordance with Article 5 on grounds of ecodesign requirements relating to those ecodesign parameters referred to in Annex I, Part 1 which are covered by the applicable implementing measure.\n\nThis shall be without prejudice to the energy performance requirements and system requirements set by Member States in accordance with Article 4(1) and Article 8 of Directive 2010/31/EU.\n\n**2.** Member States shall not prohibit, restrict or impede the placing on the market and/or putting into service, within their territories, of a product bearing the CE marking in accordance with Article 5 on grounds of ecodesign requirements relating to those ecodesign parameters referred to in Annex I, Part 1 for which the applicable implementing measure provides that no ecodesign requirement is necessary.\n\n**3.** Member States shall not prevent the display, for example at trade fairs, exhibitions and demonstrations, of products which are not in conformity with the provisions of the applicable implementing measure, provided that there is a visible indication that they may not be placed on the market and/or put into service until brought into conformity.",
+      "text_sha256": "d651a2b603bbc9a3929d2f51cf167cd42bc01165d157f5fd54179520afbc3181",
+      "md_span": {
+        "start": 11476,
+        "end": 12889
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32012L0027",
+          "text": "32012L0027: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0125",
+          "text": "32009L0125"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Safeguard clause",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a Member State ascertains that a product bearing the CE marking referred to in Article 5 and used in accordance with its intended use does not comply with all the relevant provisions of the applicable implementing measure, the manufacturer or its authorised representative shall be obliged to make the product comply with the provisions of the applicable implementing measure and/or with the CE marking and to end the infringement under conditions imposed by the Member State.\n\nWhere there is sufficient evidence that a product might be non-compliant, the Member State shall take the necessary measures which, depending on the gravity of the non-compliance, can go as far as the prohibition of the placing on the market of the product until compliance is established.\n\nWhere non-compliance continues, the Member State shall take a decision restricting or prohibiting the placing on the market and/or putting into service of the product in question or ensure that it is withdrawn from the market.\n\nIn cases of prohibition or withdrawal from the market, the Commission and the other Member States shall be immediately informed thereof.\n\n**2.** Any decision by a Member State pursuant to this Directive which restricts or prohibits the placing on the market and/or the putting into service of a product shall state the grounds on which it is based.\n\nSuch decision shall be notified forthwith to the party concerned, who shall at the same time be informed of the legal remedies available under the laws in force in the Member State concerned and of the time limits to which such remedies are subject.\n\n**3.** The Member State shall immediately inform the Commission and the other Member States of any decision taken pursuant to paragraph 1, indicating the reasons therefor, and, in particular, whether non-compliance is due to:(a) failure to satisfy the requirements of the applicable implementing measure;(b) the incorrect application of harmonised standards as referred to in Article 10(2);(c) shortcomings in harmonised standards as referred to in Article 10(2).\n\n**4.** The Commission shall enter into consultation with the parties concerned without delay and may draw upon technical advice from independent external experts.\n\nFollowing that consultation, the Commission shall immediately inform the Member State that took the decision and the other Member States of its views.\n\nWhere the Commission considers that the decision is unjustified, it shall immediately inform the Member States to that effect.\n\n**5.** Where the decision referred to in paragraph 1 of this Article is based on a shortcoming in a harmonised standard, the Commission shall immediately initiate the procedure set out in Article 10(2), (3) and (4). The Commission shall at the same time inform the Committee referred to in Article 19(1).\n\n**6.** The Member States and the Commission shall take the necessary measures to guarantee confidentiality with regard to information provided during that procedure, where justified.\n\n**7.** The decisions taken by Member States pursuant to this Article shall be made public in a transparent way.\n\n**8.** The Commission’s opinion on those decisions shall be published in the *Official Journal of the European Union*.",
+      "text_sha256": "a1b88dc511ce5303d6b0862669b7c16f413417d3188d2227f8f47cde5050c811",
+      "md_span": {
+        "start": 12945,
+        "end": 16186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Conformity assessment",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Before placing a product covered by implementing measures on the market and/or putting such a product into service, the manufacturer or its authorised representative shall ensure that an assessment of the product’s conformity with all the relevant requirements of the applicable implementing measure is carried out.\n\n**2.** The conformity assessment procedures shall be specified by the implementing measures and shall leave to manufacturers the choice between the internal design control set out in Annex IV to this Directive and the management system set out in Annex V to this Directive. Where duly justified and proportionate to the risk, the conformity assessment procedure shall be specified among relevant modules as described in Annex II to Decision No 768/2008/EC.\n\nWhere a Member State has strong indications of probable non-compliance of a product, that Member State shall as soon as possible publish a substantiated assessment of the product’s compliance which may be conducted by a competent body in order to allow, if appropriate, for timely corrective action.\n\nWhere a product covered by implementing measures is designed by an organisation registered in accordance with Regulation (EC) No 761/2001 of the European Parliament and of the Council of 19 March 2001 allowing voluntary participation by organisations in a Community eco-management and audit scheme (EMAS) (24) and the design function is included within the scope of that registration, the management system of that organisation shall be presumed to comply with the requirements of Annex V to this Directive.\n\nIf a product covered by implementing measures is designed by an organisation having a management system which includes the product design function and which is implemented in accordance with harmonised standards, the reference numbers of which have been published in the *Official Journal of the European Union*, that management system shall be presumed to comply with the corresponding requirements of Annex V.\n\n**3.** After placing a product covered by implementing measures on the market and/or putting it into service, the manufacturer or its authorised representative shall keep relevant documents relating to the conformity assessment performed and declarations of conformity issued available for inspection by Member States for a period of 10 years after the last of that product has been manufactured.\n\nThe relevant documents shall be made available within 10 days of receipt of a request by the competent authority of a Member State.\n\n**4.** Documents relating to the conformity assessment and the EC declaration of conformity referred to in Article 5 shall be drawn up in one of the official languages of the institutions of the European Union.",
+      "text_sha256": "8aadb3616ac6d9699b30e61be6538498822a30ad03481afc34ad8b35e1bdb63a",
+      "md_span": {
+        "start": 16247,
+        "end": 18993
+      },
+      "citations": [
+        {
+          "href": "#E0024",
+          "text": "24"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Presumption of conformity",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall regard a product bearing the CE marking referred to in Article 5 as conforming to the relevant provisions of the applicable implementing measure.\n\n**2.** Member States shall regard a product for which harmonised standards have been applied, the reference numbers of which have been published in the *Official Journal of the European Union*, as conforming to all the relevant requirements of the applicable implementing measure to which such standards relate.\n\n**3.** Products which have been awarded the Community Ecolabel pursuant to Regulation (EC) No 1980/2000 shall be presumed to comply with the ecodesign requirements of the applicable implementing measure in so far as those requirements are met by the ecolabel.\n\n**4.** For the purposes of the presumption of conformity in the context of this Directive, the Commission, acting in accordance with the regulatory procedure referred to in Article 19(2), may decide that other ecolabels fulfil equivalent conditions to the Community Ecolabel pursuant to Regulation (EC) No 1980/2000. Products which have been awarded such other ecolabels shall be presumed to comply with the ecodesign requirements of the applicable implementing measure, in so far as those requirements are met by that ecolabel.",
+      "text_sha256": "dd5876604b80120bedd2607b7b14f8c93058083b1a4bc40a1f375dc61712ec3f",
+      "md_span": {
+        "start": 19058,
+        "end": 20334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Harmonised standards",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall, as far as possible, ensure that appropriate measures are taken to enable interested parties to be consulted at national level on the process of preparing and monitoring harmonised standards.\n\n**2.** Where a Member State or the Commission considers that harmonised standards the application of which is presumed to satisfy specific provisions of an applicable implementing measure do not entirely satisfy those provisions, the Member State concerned or the Commission shall inform the Standing Committee set up under Article 5 of Directive 98/34/EC to that effect, indicating the reasons therefor. The Committee shall issue an opinion as a matter of urgency.\n\n**3.** In the light of that Committee’s opinion, the Commission shall decide whether to publish, not to publish, to publish with restriction, to maintain or to withdraw the references to the harmonised standards concerned in the *Official Journal of the European Union*.\n\n**4.** The Commission shall inform the European standardisation body concerned and, if necessary, issue a new mandate with a view to revising the harmonised standards concerned.",
+      "text_sha256": "dcd293fa2b7445bc7f2a93c01f096cbb99aa1841446338a51d83c7499b697f05",
+      "md_span": {
+        "start": 20396,
+        "end": 21532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Requirements for components and sub-assemblies",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Implementing measures may require a manufacturer or its authorised representative placing components and sub-assemblies on the market and/or putting them into service to provide the manufacturer of a product covered by implementing measures with relevant information on the material composition and the consumption of energy, materials and/or resources of the components or sub-assemblies.",
+      "text_sha256": "f7610b53cfe7369f4ec93b075dffb0639f5e848bc0392bab0d8f716a38066ad9",
+      "md_span": {
+        "start": 21620,
+        "end": 22009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Administrative cooperation and exchange of information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall ensure that appropriate measures are taken in order to encourage the authorities responsible for implementing this Directive to cooperate with each other and provide each other and the Commission with information in order to assist the operation of this Directive and, in particular, to assist in the implementation of Article 7.\n\nThe administrative cooperation and exchange of information shall take utmost advantage of electronic means of communication and may be supported by relevant Community programmes.\n\nMember States shall inform the Commission of the authorities responsible for applying this Directive.\n\n**2.** The precise nature and structure of the exchange of information between the Commission and Member States shall be decided in accordance with the regulatory procedure referred to in Article 19(2).\n\n**3.** The Commission shall take appropriate measures in order to encourage and contribute to the cooperation between Member States, referred to in this Article.",
+      "text_sha256": "111a50a6a87d80c21472cbe86e50d79c2b2f19656345099c006a61ddf621d028",
+      "md_span": {
+        "start": 22105,
+        "end": 23111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Small and medium-sized enterprises",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** In the context of programmes from which small and medium-sized enterprises (SMEs) and very small firms can benefit, the Commission shall take into account initiatives which help SMEs and very small firms to integrate environmental aspects including energy efficiency when designing their products.\n\n**2.** Guidelines covering specificities of SMEs active in the product sector affected may accompany an implementing measure. If necessary, and in accordance with paragraph 1, further specialised material may be produced by the Commission for facilitating the application of this Directive by SMEs.\n\n**3.** Member States shall ensure, in particular by strengthening support networks and structures, that they encourage SMEs and very small firms to adopt an environmentally sound approach as early as at the product design stage and to adapt to future European legislation.",
+      "text_sha256": "07eb43cdfe87a31632efe5d61f6bd35abd84afdca6fddb1bf1a2fa04b8496776",
+      "md_span": {
+        "start": 23187,
+        "end": 24065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Consumer information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "In accordance with the applicable implementing measure, manufacturers shall ensure, in the form they deem appropriate, that consumers of products are provided with:\n\n(a) the requisite information on the role that they can play in the sustainable use of the product; and\n\n(b) when required by the implementing measures, the ecological profile of the product and the benefits of ecodesign.",
+      "text_sha256": "f4b10f4eb66ab5fbfc2602080775091ee3cf80575d8ac9ba87b1dde6fd3ca67f",
+      "md_span": {
+        "start": 24127,
+        "end": 24514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Implementing measures",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a product meets the criteria listed under paragraph 2 of this Article, it shall be covered by an implementing measure or by a self-regulation measure in accordance with paragraph 3(b) of this Article. Such implementing measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 19(3).\n\n**2.** The criteria referred to in paragraph 1 are as follows:(a) the product shall represent a significant volume of sales and trade, indicatively more than 200 000 units a year within the Community according to the most recently available figures;(b) the product shall, considering the quantities placed on the market and/or put into service, have a significant environmental impact within the Community, as specified in the Community strategic priorities as set out in Decision No 1600/2002/EC; and(c) the product shall present significant potential for improvement in terms of its environmental impact without entailing excessive costs, taking into account in particular:(i) the absence of other relevant Community legislation or failure of market forces to address the issue properly; and(ii) a wide disparity in the environmental performance of products available on the market with equivalent functionality.\n\n**3.** In preparing a draft implementing measure, the Commission shall take into account any views expressed by the Committee referred to in Article 19(1) and shall further take into account:(a) Community environmental priorities, such as those set out in Decision No 1600/2002/EC or in the Commission’s European Climate Change Programme (ECCP); and(b) relevant Community legislation and self-regulation, such as voluntary agreements, which, following an assessment in accordance with Article 17, are expected to achieve the policy objectives more quickly or at lesser expense than mandatory requirements.\n\n**4.** In preparing a draft implementing measure the Commission shall:(a) consider the life cycle of the product and all its significant environmental aspects, inter alia, energy efficiency. The depth of analysis of the environmental aspects and of the feasibility of their improvement shall be proportionate to their significance. The adoption of ecodesign requirements on the significant environmental aspects of a product shall not be unduly delayed by uncertainties regarding the other aspects;(b) carry out an assessment, which shall consider the impact on the environment, consumers and manufacturers, including SMEs, in terms of competitiveness — including in relation to markets outside the Community — innovation, market access and costs and benefits;(c) take into account existing national environmental legislation that Member States consider relevant;(d) carry out appropriate consultation with stakeholders;(e) prepare an explanatory memorandum of the draft implementing measure based on the assessment referred to in point (b); and(f) set implementing date(s), any staged or transitional measure or periods, taking into account, in particular, possible impacts on SMEs or on specific product groups manufactured primarily by SMEs.\n\n**5.** Implementing measures shall meet all the following criteria:(a) there shall be no significant negative impact on the functionality of the product, from the perspective of the user;(b) health, safety and the environment shall not be adversely affected;(c) there shall be no significant negative impact on consumers in particular as regards the affordability and the life cycle cost of the product;(d) there shall be no significant negative impact on industry’s competitiveness;(e) in principle, the setting of an ecodesign requirement shall not have the consequence of imposing proprietary technology on manufacturers; and(f) no excessive administrative burden shall be imposed on manufacturers.\n\n**6.** Implementing measures shall lay down ecodesign requirements in accordance with Annex I and/or Annex II.\n\nSpecific ecodesign requirements shall be introduced for selected environmental aspects which have a significant environmental impact.\n\nImplementing measures may also provide that no ecodesign requirement is necessary for certain specified ecodesign parameters referred to in Annex I, Part 1.\n\n**7.** The requirements shall be formulated so as to ensure that market surveillance authorities can verify the conformity of the product with the requirements of the implementing measure. The implementing measure shall specify whether verification can be achieved directly on the product or on the basis of the technical documentation.\n\n**8.** Implementing measures shall include the elements listed in Annex VII.\n\n**9.** Relevant studies and analyses used by the Commission in preparing implementing measures should be made publicly available, taking into account in particular easy access and use by interested SMEs.\n\n**10.** Where appropriate, an implementing measure laying down ecodesign requirements shall include provisions on the balancing of various environmental aspects. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 19(3).",
+      "text_sha256": "4feb1e1cd36ae176f80c15efa6daf943181da07246ec8d26513321eaa53e1eff",
+      "md_span": {
+        "start": 24577,
+        "end": 29865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Working plan",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** In accordance with the criteria set out in Article 15 and having consulted the Consultation Forum referred to in Article 18, the Commission shall, not later than 21 October 2011 establish a working plan which shall be made publicly available.\n\nThe working plan shall set out for the following three years an indicative list of product groups which are considered as priorities for the adoption of implementing measures.\n\nThe working plan shall be amended periodically by the Commission after consultation with the Consultation Forum.\n\n**2.** However, during the transitional period, while the first working plan referred to in paragraph 1 of this Article is being established, and, in accordance with the criteria set out in Article 15, and after consulting the Consultation Forum, the Commission shall, as appropriate, introduce by anticipation:(a) implementing measures starting with those products which have been identified by the ECCP as offering a high potential for cost-effective reduction of greenhouse gas emissions, such as heating and water heating equipment, electric motor systems, lighting in both the domestic and tertiary sectors, domestic appliances, office equipment in both the domestic and tertiary sectors, consumer electronics and HVAC (heating ventilating air conditioning) systems; and(b) a separate implementing measure reducing stand-by losses for a group of products.\n\nThose measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 19(3).",
+      "text_sha256": "40078b1ded7fa47a5ed60ce5349b927c6f839c5b1a196b370b28eacad06ab7d7",
+      "md_span": {
+        "start": 29919,
+        "end": 31523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Self-regulation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Voluntary agreements or other self-regulation measures presented as alternatives to implementing measures in the context of this Directive shall be assessed at least on the basis of Annex VIII.",
+      "text_sha256": "532a973d2a12a131a8c1e175a029c1e901f833345289934f9b407820e59dca94",
+      "md_span": {
+        "start": 31580,
+        "end": 31773
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Consultation Forum",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The Commission shall ensure that, in the conduct of its activities, it observes, in respect of each implementing measure, a balanced participation of Member States’ representatives and all interested parties concerned with the product or product group in question, such as industry, including SMEs and craft industry, trade unions, traders, retailers, importers, environmental protection groups and consumer organisations. These parties shall contribute, in particular, to defining and reviewing implementing measures, to examining the effectiveness of the established market surveillance mechanisms and to assessing voluntary agreements and other self-regulation measures. These parties shall meet in a Consultation Forum. The rules of procedure of the Forum shall be established by the Commission.",
+      "text_sha256": "9f7dc8a83b011df00ae78756008cd669f6c50e8a9c2e0805cb922270f50ad9da",
+      "md_span": {
+        "start": 31833,
+        "end": 32632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Committee procedure",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall be assisted by a Committee.\n\n**2.** Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.\n\nThe period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.\n\n**3.** Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.",
+      "text_sha256": "a18cec0c29c2c540e5c2cd30ad7d3c5b03f341e9de4515184a847063e5285ea0",
+      "md_span": {
+        "start": 32693,
+        "end": 33176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Penalties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The Member States shall lay down the rules applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive, taking into account the extent of non-compliance and the number of units of non-complying products placed on the Community market. The Member States shall notify those provisions to the Commission by 20 November 2010 and shall notify it without delay of any subsequent amendment affecting them.",
+      "text_sha256": "e27ce151a392303654847ef8fb3ca9214f748a66d332559a98d8bfcc405fa73e",
+      "md_span": {
+        "start": 33227,
+        "end": 33806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Review",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Not later than 2012, the Commission shall review the effectiveness of this Directive and of its implementing measures, including, inter alia:\n\n(a) the methodology for the identification and coverage of significant environmental parameters, such as resource efficiency, considering the whole life cycle of products;\n\n(b) the threshold for implementing measures;\n\n(c) market surveillance mechanisms; and\n\n(d) any relevant self-regulation stimulated.\n\nFollowing this review, and considering, in particular, the experience related to the extended scope of this Directive, the Commission shall assess, notably, the appropriateness of extending the scope of the Directive to non-energy-related products, in order to significantly reduce environmental impacts throughout such products’ whole life cycle, after consultation of the Consultation Forum referred to in Article 18, and shall, as appropriate, present proposals to the European Parliament and the Council for amending this Directive.",
+      "text_sha256": "91a7d049d5ed8efb75839aa344ccc6b8473192c80eef7ab0b09b721877042b22",
+      "md_span": {
+        "start": 33854,
+        "end": 34839
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Confidentiality",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Requirements relating to the supply of information referred to in Article 11 and Annex I, Part 2, by the manufacturer and/or its authorised representative shall be proportionate and shall take into account the legitimate confidentiality of commercially sensitive information.",
+      "text_sha256": "ea8ed9ae79826790ae758d01683424c566b5943a1d1a9e4a587d8695870a6093",
+      "md_span": {
+        "start": 34896,
+        "end": 35171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Transposition",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 1 to 9, 11, 14, 15 and 20 and Annexes I to V, VII and VIII by 20 November 2010. They shall forthwith communicate to the Commission the text of those provisions.\n\nWhen Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.\n\n**2.** Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "d9a2b88eadbd8a718c0875963f14ec0734370f44717b6f3276b34c712d66f457",
+      "md_span": {
+        "start": 35226,
+        "end": 36174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Repeal",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Directive 2005/32/EC, as amended by the Directive listed in Annex IX, Part A, is hereby repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex IX, Part B.\n\nReferences to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex X.",
+      "text_sha256": "f7bd04339e05f583d7ce4cf4be85f82e75f0cbccf2e0330fa7a1b4b83ff4ab8f",
+      "md_span": {
+        "start": 36222,
+        "end": 36648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "02dc6f0c0a100ccb8d05531fbcfdf9db82b41de9a255b0fa02c3a2a865b977e7",
+      "md_span": {
+        "start": 36706,
+        "end": 36834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32009l0125:2012-12-04--a801ba7c5b61da00ea6a09add732e8f42f4d93ae09c2073825a00aaedab61132#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Addressees",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 36886,
+        "end": 36935
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

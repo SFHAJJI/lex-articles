@@ -1,0 +1,609 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/2382 of 14 December 2017 laying down implementing technical standards with regard to standard forms, templates and procedures for the transmission of information in accordance with Directive 2014/65/EU",
+  "valid_from": "2017-12-20",
+  "valid_to": "2022-09-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2382/versions/2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e/en.html",
+    "sha256": "f8ae11c4a3d3f84f7f8ce40a72f88f902145cacbe6c6bd3b6aa8d004aa5e5c37",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2382-20171220"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. This Regulation shall apply to investment firms and market operators operating a multilateral trading facility (MTF) or an organised trading facility (OTF).\n\n2. This Regulation shall also apply to credit institutions authorised under Directive 2013/36/EU which provide one or more investment services or perform investment activities under Directive 2014/65/EU, and wish to use tied agents under any of the following rights:\n\n(a) the right of freedom to provide investment services and activities in accordance with Article 34(5) of Directive 2014/65/EU;\n\n(b) the right of establishment in accordance with Article 35(7) of Directive 2014/65/EU.",
+      "text_sha256": "15391b4f969ad6ddd2c079dc6646caa1f1ebf505335d7c35a08cab502836930a",
+      "md_span": {
+        "start": 884,
+        "end": 1531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "General requirements",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Any notification or communication submitted under this Regulation shall be provided in an official Union language accepted by both the competent authority of the home Member State and by the competent authority of the host Member State.\n\nIt shall be submitted in paper form or, where accepted by the relevant competent authority, by electronic means.\n\n2. The competent authorities shall make publicly available information on the accepted language(s) and means of submission, including contact details for passport notifications.",
+      "text_sha256": "d0d7156f8cdaa5f9f504a7792eeceda95d203111ea2b1ff81867fcf9731ddbdc",
+      "md_span": {
+        "start": 1591,
+        "end": 2123
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Submission of the investment services and activities passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. An investment firm shall submit to the competent authority of the home Member State an investment services and activities passport notification pursuant to Article 34(2) or (5) of Directive 2014/65/EU the form set out in Annex I.\n\n2. An investment firm shall submit, for each Member State in which it intends to operate, a separate investment services and activities passport notification to the competent authority of the home Member State pursuant to paragraph 1.\n\n3. An investment firm or a credit institution referred to in Article 1(2)(a) wishing to provide investment services or activities through a tied agent established in the home Member State shall submit an investment services and activities passport notification to the competent authority of the home Member State, by filling in only those parts relevant to the tied agent in the form set out in Annex I.",
+      "text_sha256": "f0308c6da2ba933619a2f8070190d93d54708926f1f45ccd12df325b1b1a8552",
+      "md_span": {
+        "start": 2237,
+        "end": 3110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Assessment of completeness and accuracy of the investment services and activities passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. On receipt of an investment services and activities passport notification pursuant to Article 3, the competent authority of the home Member State shall assess the completeness and accuracy of the information provided.\n\n2. Where the information provided is found to be incomplete or incorrect, the competent authority of the home Member State shall, without undue delay, inform the investment firm or credit institution referred to in Article 1(2)(a) thereof. The competent authority of the home Member State shall indicate in which particular respect the information has been found to be incomplete or incorrect.\n\n3. The 1-month period referred to in Article 34(3) and in the second subparagraph of Article 34(5) of Directive 2014/65/EU shall begin upon receipt of an investment services and activities passport notification containing information that is found to be complete and correct.",
+      "text_sha256": "5f284c28a722119ef9dc014355b49f9f866097041e936cb4bce25cd03cf3553c",
+      "md_span": {
+        "start": 3253,
+        "end": 4145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Communication regarding the investment services and activities passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of the home Member State shall, within 1 month of receiving a notification pursuant to Article 3, inform the competent authority of the host Member State of that notification, using the form set out in Annex II, together with a copy of the notification.\n\n2. The competent authority of the home Member State shall, without undue delay, inform the investment firm or the credit institution referred to in Article 1(2)(a) about the onward communication pursuant to paragraph 1, including the date of that communication.",
+      "text_sha256": "1d45dad8074d9f4a722079d6d2673985f45f312a995c76516f7f62f5925d164d",
+      "md_span": {
+        "start": 4269,
+        "end": 4812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Submission of the change of investment services and activities particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. In the event of a change in any of the particulars of an investment services and activities passport notification, the investment firm or credit institution referred to in Article 1(2)(a) shall submit a notification to the competent authority of the home Member State using the form set out in Annex I.\n\n2. For the purposes of the notification pursuant to paragraph 1 of this Article, the investment firm or credit institution referred to in Article 1(2)(a) shall complete only those parts of the form set out in Annex I relevant to the changes in the particulars of the investment services and activities passport notification.\n\n3. For the purposes of the notification of changes related to the investment services, activities, ancillary services or financial instruments provided, the investment firm or credit institution referred to in Article 1(2)(a) shall list all the investment services, activities, ancillary services or financial instruments that it provides at the time of the notification, or intends to provide in the future.",
+      "text_sha256": "83091f89a8f8d7304c61c00e57506acd006bb287496129a0a0ead8165562364a",
+      "md_span": {
+        "start": 4939,
+        "end": 5980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Communication regarding the change of investment services and activities particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. After receiving a notification pursuant to Article 6, the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex III, together with a copy of the notification pursuant to Article 6.\n\n2. In the event that the authorisation of an investment firm or credit institution is withdrawn or cancelled, the competent authority of the home Member State shall notify the competent authority of the host Member State, using the form set out in Annex III.",
+      "text_sha256": "6460d33d939c946ed79542d20c9a04bcac00d48d3a272b4ac157c2a2d995a08a",
+      "md_span": {
+        "start": 6117,
+        "end": 6697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Submission of the notification for the provision of arrangements to facilitate access to an MTF or an OTF",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "An investment firm or a market operator operating an MTF or OTF that intends to provide, within the territory of another host Member State, appropriate arrangements to facilitate access to and trading on those systems by remote users, members or participants established in that host Member State shall notify to the competent authority of the home Member State the details of the host Member State in which it intends to provide such arrangements, using the form set out in Annex IV.",
+      "text_sha256": "1c4ab81fd2666df52064040806811904675a19a16b8639807b6939dc062ca770",
+      "md_span": {
+        "start": 6842,
+        "end": 7326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Communication regarding the notification for the provision of arrangements to facilitate access to an MTF or an OTF",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of the home Member State shall, within 1 month of receiving the notification pursuant to Article 8, inform the competent authority of the host Member State of that notification, using the form set out in Annex V, together with a copy of the notification.\n\n2. The competent authority of the home Member State shall, without undue delay, inform the investment firm or the market operator operating an MTF or an OTF about the onward communication pursuant to paragraph 1, including the date of that communication.",
+      "text_sha256": "b0878d3ca973d36b21b88dd1cec294e0d40f90147d461db10dd0b22d3d0d17e1",
+      "md_span": {
+        "start": 7481,
+        "end": 8018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Submission of the change of particulars for the provision of arrangements to facilitate access to an MTF or an OTF notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. In case of a change in any of the particulars of a notification for the provision of arrangements to facilitate access to an MTF or an OTF, the investment firm or the market operator operating an MTF or an OTF shall submit a notification to the competent authority of the home Member State using the form set out in Annex IV.\n\n2. For the purposes of the notification pursuant to paragraph 1, the investment firm or the market operator operating an MTF or an OTF shall complete only those parts of the form set out in Annex IV relevant to the changes in the particulars of the notification for the provision of arrangements to facilitate access to an MTF or an OTF.",
+      "text_sha256": "6d59838bd6725d43bdd24f62d89889a4bb827b9147aef91e64c31302d67881fb",
+      "md_span": {
+        "start": 8187,
+        "end": 8854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Communication regarding the change of particulars for the provision of arrangements to facilitate access to an MTF or an OTF notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "After receiving a notification pursuant to Article 10(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex III, together with a copy of the notification.",
+      "text_sha256": "9c5733c3aa1e71e95c7bf812eae5f3d62ecbaf0de935b93bce3eda0f2a0e0a1e",
+      "md_span": {
+        "start": 9033,
+        "end": 9332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Submission of the branch passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "An investment firm wishing to establish a branch within the territory of another Member State shall submit to the competent authority of the home Member State the information as required by Article 35(2) of Directive 2014/65/EU, using the form set out in Annex VI.",
+      "text_sha256": "92b944d1c14390f70dec581861bbe4788a60072f2d6e30c0147e12530e81f978",
+      "md_span": {
+        "start": 9420,
+        "end": 9684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Submission of the tied agent passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. An investment firm or a credit institution referred to in Article 1(2)(b) wishing to use a tied agent established in another Member State shall submit to the competent authority of the home Member State the information as required by Article 35(2) of Directive 2014/65/EU, using the form set out in Annex VII.\n\n2. Where an investment firm or credit institution referred to in Article 1(2)(b) wishes to use more than one tied agents in another Member State it shall complete a separate notification in respect of each tied agent it intends to use.\n\n3. An investment firm wishing to establish a branch which intends to use tied agents shall submit to the competent authority of the home Member State a separate tied agent passport notification in respect of each tied agent by completing the form set out in Annex VII.",
+      "text_sha256": "1ee8c27c1590b06e37d333bc5aad3a0d2ba76fc6d07877811e7ab5096daaaca9",
+      "md_span": {
+        "start": 9776,
+        "end": 10595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Assessment of completeness and accuracy of the branch passport notification or tied agent passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Upon receipt of a notification pursuant to Article 12 or 13, the competent authority of the home Member State shall assess the completeness and accuracy of the information provided.\n\n2. Where the information provided is found to be incomplete or incorrect, the competent authority of the home Member State shall, without undue delay, inform the investment firm or the credit institutions referred to in Article 1(2)(b) thereof. The competent authority of the home Member State shall indicate in which particular respect the information has been found to be incomplete or incorrect.\n\n3. The 3-month period provided for in Article 35(3) and in the second subparagraph of Article 35(7) of Directive 2014/65/EU shall begin upon receipt of a branch passport notification or tied agent passport notification containing information that is found to be complete and correct.",
+      "text_sha256": "3db8644128d796375dbb29ed36d099d7f705e4016463c8af9a7d422748cf4a53",
+      "md_span": {
+        "start": 10748,
+        "end": 11617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Communication regarding the branch passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of the home Member State shall, within 3 months of receiving the branch passport notification pursuant to Article 12, inform the competent authority of the host Member State of that notification, using the form set out in Annex VIII, together with a copy of the notification.\n\n2. The competent authority of the home Member State shall, without undue delay, inform the investment firm about the onward communication pursuant to paragraph 1, including the date of that communication.\n\n3. The competent authority of the host Member State shall acknowledge receipt of the notification both to the competent authority of the home Member State and the investment firm.",
+      "text_sha256": "e119af7d643805bfd61b23b9d6675701e5873d3e6128b75ad1de3a2e333811d0",
+      "md_span": {
+        "start": 11715,
+        "end": 12404
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Communication regarding the tied agent passport notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of the home Member State shall, within 3 months of receiving the tied agent passport notification pursuant to Article 13, inform the competent authority of the host Member State of that notification, using the form set out in Annex IX, together with a copy of the notification.\n\n2. The competent authority of the home Member State shall, without undue delay, inform the investment firm or credit institution about the onward communication pursuant to paragraph 1, including the date of that communication.\n\n3. The competent authority of the host Member State shall acknowledge receipt of the notification both to the competent authority of the home Member State and the investment firm or credit institution referred to in Article 1(2)(b).\n\n4. The tied agent shall not commence its proposed investment services or activities before it is registered in the public register in the Member State where that tied agent is established, in accordance with Article 29(3) of Directive 2014/65/EU.\n\n5. The tied agent shall not commence its proposed investment services or activities before it has received the communication from the competent authority of the host Member State.\n\n6. Where such a communication is not made, the tied agent can commence its proposed investment services and activities 2 months after the date of submission of the communication by the competent authority of the home Member State, as referred to in paragraph 2.",
+      "text_sha256": "d1d48e31adec5ad1f32cfda605e92cb5333bab2ecb7d3a98e538f788d21c556e",
+      "md_span": {
+        "start": 12506,
+        "end": 13964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Submission of the change of branch particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. In the event of a change in the particulars of a branch passport notification, the investment firm shall submit to the competent authority of the home Member State a notification using the form set out in Annex VI.\n\nThe investment firm or credit institution shall complete only those parts of the form set out in Annex VI relevant to the changes in the particulars of the branch passport notification.\n\n2. Where the investment firm or credit institution intends to make changes to the investment services, activities, ancillary services or financial instruments provided through tied agents, it shall notify, using the form set out in Annex VI, a list of all the investment services, activities, ancillary services or financial instruments that it provides through tied agents at the time of that notification or intends to provide through tied agents in the future.\n\n3. Changes to the particulars of a branch passport notification concerning the termination of the operation of the branch shall be notified using the form set out in Annex X.",
+      "text_sha256": "97ac940aa376d1fec19c727a1e3068e7e03a54db9775f4bc81c980c811ab0ac4",
+      "md_span": {
+        "start": 14065,
+        "end": 15110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Submission of the change in the tied agent particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. In the event of a change in any of the particulars of a tied agent passport notification, the investment firm or the credit institution referred to in Article 1(2)(b) shall submit to the competent authority of the home Member State a notification, using the form set out in Annex VII.\n\nThe investment firm or credit institution shall only complete those parts of the form set out in Annex VII relevant to the changes in the particulars of the tied agent passport notification.\n\n2. Where the investment firm intends to make changes to the investment services, activities, or financial instruments subject to a tied agent passport notification, it shall notify, in the form set out in Annex VI, a list of all the investment services, activities, or financial instruments that it provides through the tied agent at the time of notification or intends to provide in the future.\n\n3. Changes to the particulars of a tied agent passport notification concerning the cessation of the use of a tied agent established in another Member State shall be notified using the form set out in Annex X.",
+      "text_sha256": "563f1904eda166fb3d531f12fbe712ef2258b6bcb3399f0859738496f7b77449",
+      "md_span": {
+        "start": 15219,
+        "end": 16305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Communication regarding the change of branch particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. After receiving a notification pursuant to Article 17(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XI, together with a copy of the notification.\n\n2. After receiving a notification pursuant to Article 17(3), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XIII, together with a copy of the notification.",
+      "text_sha256": "038ec03d78bd0a0fa3d262809d9f1ebe55b4d4e8ab5ed28ee354c90ae5d9faef",
+      "md_span": {
+        "start": 16416,
+        "end": 17022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Communication regarding the change of tied agent particulars notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. After receiving a notification pursuant to Article 18(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XII, together with a copy of the notification.\n\n2. After receiving a notification pursuant to Article 18(3), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XIII, together with a copy of the notification.",
+      "text_sha256": "63b6ad6c832d97e5d7d650eb777a94d818fd5a2e14cadf050fa02d24bab60135",
+      "md_span": {
+        "start": 17137,
+        "end": 17744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Entry into force and application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 3 January 2018.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "d2ff1dfe7ed81f2d423b997e31bb35fe9560377921f67e0844c9e8e9dccf66e7",
+      "md_span": {
+        "start": 17818,
+        "end": 18083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_i",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18118,
+        "end": 18118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_ii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18155,
+        "end": 18155
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_iii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18194,
+        "end": 18194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_iv",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18231,
+        "end": 18231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_v",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18266,
+        "end": 18266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_vi",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "►(1) C1",
+      "text_sha256": "d420980b3f441d892276f41e1b25657931bbff716fec1c546daa6d51a9ce9983",
+      "md_span": {
+        "start": 18303,
+        "end": 18310
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R2382R%2801%29",
+          "text": "►(1) C1"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_vii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_vii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18349,
+        "end": 18349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_viii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_viii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX VIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18390,
+        "end": 18390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_ix",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_ix",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX IX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18427,
+        "end": 18427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_x",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_x",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX X",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18462,
+        "end": 18462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_xi",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_xi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX XI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18499,
+        "end": 18499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_xii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_xii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX XII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18538,
+        "end": 18538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_xiii",
+      "provision_id": "eu-eurlex:32017r2382:2017-12-20--1088896f9c6c96dd58928a90304bba5e83898a20ec6428290c30c6578cf6338e#anx_xiii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX XIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18579,
+        "end": 18579
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

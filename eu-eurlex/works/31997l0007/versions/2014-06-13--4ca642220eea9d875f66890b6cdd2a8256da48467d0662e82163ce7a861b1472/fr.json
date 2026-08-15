@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31997l0007:2014-06-13--4ca642220eea9d875f66890b6cdd2a8256da48467d0662e82163ce7a861b1472",
+  "language": "fr",
+  "title": "Directive 97/7/EC",
+  "valid_from": "2014-06-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31997l0007/versions/2014-06-13--4ca642220eea9d875f66890b6cdd2a8256da48467d0662e82163ce7a861b1472/fr.html",
+    "sha256": "f44f7085e21c14289e092992c91b7e75f8e8dca5d198220dcd10fd1a93157798",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0007-20140613"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31997l0007:2014-06-13--4ca642220eea9d875f66890b6cdd2a8256da48467d0662e82163ce7a861b1472#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1997L0007 — FR — 13.06.2014 — 004.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B DIRECTIVE 97/7/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance (JO L 144, 4.6.1997, p.19) abrogé par: Journal officiel n° page date Directive 2011/83/UE du Parlement européen et du Conseil du 25 octobre 2011 L 304 64 22.11.2011",
+      "text_sha256": "b69962a6af2c60476ab8ea8bfd95e8621d1fb920d9bacbac6031fd56800e1d68",
+      "md_span": {
+        "start": 650,
+        "end": 1100
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

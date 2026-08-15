@@ -1,0 +1,170 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0",
+  "language": "fr",
+  "title": "Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 30 mai 1996 fixant les modalités de remplacement en médecine et médecine dentaire ainsi que la procédure à suivre pour obtenir l’autorisation de remplacement.",
+  "valid_from": "2005-08-30",
+  "valid_to": "2017-03-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1996-05-30-n4/versions/2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0/fr.xml",
+    "sha256": "5997fd673482a68085182bf3fa90f294192f1ca205e1370ce4b10a0d6589a9f6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20050830/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_1er/19961225",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1996-12-25",
+      "text_md": "Le présent règlement grand-ducal s’applique aux médecins et étudiants en médecine ou médecine dentaire en cours de formation. Pour pouvoir obtenir une autorisation de remplacement ils doivent remplir les conditions ci-dessous énoncées.",
+      "text_sha256": "3a19ceb36d644f4e391d387a94dd7f7b0fc5be92662b6dcf486fe1bff62fcc8b",
+      "md_span": {
+        "start": 790,
+        "end": 1025
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_2/20030204",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-02-04",
+      "text_md": "L’autorisation de remplacement en médecine générale est accordée si le postulant:\n\n1) est ressortissant luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;\n\n2) justifie avoir accompli et validé au moins six années d’études dans le cadre de la formation menant à l’obtention d’un des diplômes, certificats ou autres titres de médecin visés à l’article 1er b) de la loi du 31 juillet 1995 portant modification\n\n- loi du 29 avril 1983\n- loi du 6 juillet 1901\n- arrêté grand-ducal du 4 décembre 1945\n\n3) apporte la preuve qu'il est en dernière année de formation spécifique en médecine générale et qu'il a accompli au moins la moitié du stage prévu dans le cadre d'une pratique de médecine générale agréée ou d'un centre agréé dans lequel les médecins dispensent des soins primaires.\n\nSi le postulant est titulaire du diplôme autrichien «Doktor der gesamten Heilkunde» il doit apporter la preuve qu’il a accompli les deux tiers de sa formation «Arzt im Praktikum».",
+      "text_sha256": "2e9eb1385054b486d68162d8322c32bd52e9d6cc7dd6240d88acfbd68e895ca3",
+      "md_span": {
+        "start": 1060,
+        "end": 2046
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1995/07/31/n7/jo",
+          "text": "loi du 31 juillet 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_3/20030204",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-02-04",
+      "text_md": "Une autorisation de remplacement en médecine spécialisée ne peut être obtenue que pour la discipline faisant l’objet de la formation de spécialisation de l’intéressé. Elle est accordée, si le postulant:\n\n1) est ressortissant luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;\n\n2) justifie avoir accompli et validé au moins six années d’études dans le cadre de la formation menant à l’obtention d’un des diplômes, certificats ou autres titres de médecin visés à l’article 1er b) de la loi du 31 juillet 1995 portant modification\n\n- loi du 29 avril 1983\n- loi du 6 juillet 1901\n- arrêté grand-ducal du 4 décembre 1945\n\n3) apporte la preuve qu'il est en dernière année de formation de spécialisation.",
+      "text_sha256": "6253f7b7ed1e4961bc027615ec5b0f0b684115276687bccb6d0fceac75532787",
+      "md_span": {
+        "start": 2081,
+        "end": 2805
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1995/07/31/n7/jo",
+          "text": "loi du 31 juillet 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_4/20050830",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-08-30",
+      "text_md": "L’autorisation de remplacement en médecine dentaire est accordée, si le postulant:\n\n1) est ressortissant luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;\n\n2) apporte la preuve qu’il a accompli avec succès la dernière année d’études théoriques et pratiques de sa formation en médecine dentaire",
+      "text_sha256": "ba9978028a5d9d625491ea80cafb3d8f33d2b6b4f6783d43a93c06234e63c4a1",
+      "md_span": {
+        "start": 2840,
+        "end": 3161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5_20050830",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_5_20050830",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_5/20030204",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-02-04",
+      "text_md": "Au cas où une durée de formation supérieure à celle prévue aux articles 2, 3 et 4 est exigée par le pays de formation pour pouvoir effectuer le remplacement, le postulant doit apporter la preuve qu’il remplit cette condition.",
+      "text_sha256": "4e4e202b68c6edf51e44b46c8b879b57209aeeca71e23a3ce4ba188e7aef2ee9",
+      "md_span": {
+        "start": 3205,
+        "end": 3430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_6/20050830",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-08-30",
+      "text_md": "L’autorisation de remplacement est délivrée par le ministre de la Santé, le Collège médical entendu en son avis. Elle est accordée pour une durée maximale de six mois, renouvelable, sans pouvoir dépasser au total une durée de dix-huit mois à compter à partir de la première autorisation accordée.",
+      "text_sha256": "95be520a7b7b122c2de80df542f5d24b09bb472c5b2031723be31a4d66f34475",
+      "md_span": {
+        "start": 3465,
+        "end": 3761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_7/20030204",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2003-02-04",
+      "text_md": "Une demande écrite est à adresser au ministre de la Santé. Outre les pièces justificatives visées aux articles 2, 3 et 4 ci-dessus, les pièces suivantes doivent être jointes à la demande:\n\n1. un acte de naissance ou toute autre pièce d’identité;\n2. un certificat de nationalité ou un document équivalent;\n3. un certificat médical attestant l’aptitude à l’exercice de la profession;\n4. un extrait du casier judiciaire.\n5. un certificat d’honorabilité et de moralité professionnelle établi par l’ordre des médecins du pays d’origine ou de provenance du candidat.\n\nLes pièces prévues sous 3, 4) et 5) ne peuvent avoir plus de trois mois de date.",
+      "text_sha256": "dc15ea22f3692232e5a8f94b8dbe86222326bc4ab481faf367feb13145ced0d0",
+      "md_span": {
+        "start": 3796,
+        "end": 4438
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30--27e019c4bcb47771f9772ec4468a84390320e90ff260c4fbfbe2229060fb40b0#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/art_8/19961225",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1996-12-25",
+      "text_md": "Notre Ministre de la Santé est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "f050fab62497fa62a0230b9c4b0939a13c3d6ca2ba802760e9ee7fa2c3e14b45",
+      "md_span": {
+        "start": 4473,
+        "end": 4575
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

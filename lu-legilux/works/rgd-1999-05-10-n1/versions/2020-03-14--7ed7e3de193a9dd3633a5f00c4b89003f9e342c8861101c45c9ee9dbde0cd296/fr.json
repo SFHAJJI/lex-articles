@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-05-10-n1:2020-03-14--7ed7e3de193a9dd3633a5f00c4b89003f9e342c8861101c45c9ee9dbde0cd296",
+  "language": "fr",
+  "title": "Version consolidée applicable au 25/09/2020 : Règlement grand-ducal du 10 mai 1999 définissant les maladies ou déficiences d'une gravité exceptionnelle en application de l'article 15, alinéa 2 de la loi du 12 février 1999 portant création d'un congé parental et d'un congé pour raisons familiales.",
+  "valid_from": "2020-03-14",
+  "valid_to": "2020-09-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-05-10-n1/versions/2020-03-14--7ed7e3de193a9dd3633a5f00c4b89003f9e342c8861101c45c9ee9dbde0cd296/fr.xml",
+    "sha256": "28c654a39f5f648bdc2f0ac0155f31857db95d6f6fe85a0cc0b0d6efe9910f14",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200314/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-05-10-n1:2020-03-14--7ed7e3de193a9dd3633a5f00c4b89003f9e342c8861101c45c9ee9dbde0cd296#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/art_1er/20200314",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-14",
+      "text_md": "Sont définies comme maladies ou déficiences d'une gravité exceptionnelle au sens de l'article 15, alinéa 2 de la loi du 12 février 1999 portant création d'un congé parental et d'un congé pour raisons familiales:\n\n- les affections cancéreuses en phase évolutive;\n- les pathologies entraînant une hospitalisation en secteur aigu d'une durée dépassant deux semaines consécutives.\n- loi modifiée du 21 novembre 1980\n- les mesures d’isolement, d’éviction ou de maintien à domicile d’enfants pour des raisons impérieuses de santé publique décidées par les autorités compétentes pour faire face à la propagation d’une épidémie.",
+      "text_sha256": "9246aa76f05b1125da7a3122e6d81baedc0714999b71c9239fec39364b9a4d10",
+      "md_span": {
+        "start": 862,
+        "end": 1482
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/02/12/n3/jo",
+          "text": "loi du 12 février 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-05-10-n1:2020-03-14--7ed7e3de193a9dd3633a5f00c4b89003f9e342c8861101c45c9ee9dbde0cd296#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/art_2/19990531",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-05-31",
+      "text_md": "Notre Ministre de la Sécurité sociale, Notre Ministre du Travail et de l'Emploi, Notre Ministre de la Famille et Notre Ministre du Budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui est publié au Mémorial.",
+      "text_sha256": "0ffb6a047cf90708dafbd60c354b5c98fdc0f7e4099d3c6e41ba5de7ee827412",
+      "md_span": {
+        "start": 1517,
+        "end": 1762
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

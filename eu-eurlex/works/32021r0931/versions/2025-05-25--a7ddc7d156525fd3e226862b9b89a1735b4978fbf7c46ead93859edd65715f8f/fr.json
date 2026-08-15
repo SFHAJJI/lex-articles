@@ -1,0 +1,185 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/931 of 1\u00A0March 2021 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2025-05-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0931/versions/2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f/fr.html",
+    "sha256": "8c1d51ead977313ef9218b127a1df9f317e45ced1384ea7be34e9541b470d47a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02021R0931-20250525"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Méthode d’identification des déterminants de risque d’une opération sur dérivé",
+      "path": [
+        "CHAPITRE 1 — Méthode pour l’identification des opérations ne présentant qu’un seul déterminant de risque significatif, pour l’identification des opérations présentant plusieurs déterminants de risque significatifs et pour l’identification du plus significatif de ces déterminants de risque"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Aux fins de l’identification des opérations ne présentant qu’un seul déterminant de risque significatif et des opérations présentant plusieurs déterminants de risque significatifs, les établissements identifient, au début de chaque opération, tous les déterminants de risque de l’opération en déterminant de quels facteurs de risque dépendent les flux de trésorerie de cette dernière, compte tenu au minimum de tous les facteurs de risque visés aux articles 325 *terdecies* à 325 *octodecies* du règlement (UE) no 575/2013. Les facteurs de risque identifiés par les établissements sont les déterminants de risque de l’opération.\n\n**2.** Les établissements ne considèrent pas comme des déterminants de risque d’une opération les facteurs de risque de taux d’intérêt utilisés pour actualiser les flux de trésorerie de l’opération.",
+      "text_sha256": "4e5964404b8085b5aff46697e743c6c5aa93ba5997a5537fdbd1de5c6614cc5c",
+      "md_span": {
+        "start": 1108,
+        "end": 1943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Méthode d’identification des opérations ne présentant qu’un seul déterminant de risque significatif",
+      "path": [
+        "CHAPITRE 1 — Méthode pour l’identification des opérations ne présentant qu’un seul déterminant de risque significatif, pour l’identification des opérations présentant plusieurs déterminants de risque significatifs et pour l’identification du plus significatif de ces déterminants de risque"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Après avoir identifié tous les déterminants de risque d’une opération conformément à l’article 1er, les établissements identifient, au début de chaque opération, les opérations ne présentant qu’un seul déterminant de risque significatif, en appliquant les critères suivants:a) lorsque les flux de trésorerie de l’opération dépendent exclusivement d’un seul déterminant de risque appartenant à l’une des catégories de risque visées à l’article 277, paragraphe 1, du règlement (UE) no 575/2013, les établissements identifient ce déterminant de risque comme étant le seul déterminant de risque significatif de cette opération;b) lorsque les flux de trésorerie de l’opération dépendent de plusieurs déterminants de risque et que les établissements n’ont identifié qu’un seul de ces déterminants comme étant significatif, soit selon la méthode prévue à l’article 4, paragraphe 3, soit selon la méthode prévue à l’article 4, paragraphe 4, les établissements identifient ce déterminant de risque comme étant le seul déterminant de risque significatif de cette opération.\n\n**2.** Par dérogation au paragraphe 1, pour les contrats d’échange de taux d’intérêt dans des devises différentes visés à l’annexe II, point 2 a), du règlement (UE) no 575/2013, les établissements peuvent identifier le déterminant de risque de change comme étant le seul déterminant de risque significatif de l’opération.",
+      "text_sha256": "f75c31fa9887fec02c73f190a1027ec5d08bda2418e3e24aa363e4090046a356",
+      "md_span": {
+        "start": 2082,
+        "end": 3475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Méthode d’identification des opérations présentant plusieurs déterminants de risque significatifs",
+      "path": [
+        "CHAPITRE 1 — Méthode pour l’identification des opérations ne présentant qu’un seul déterminant de risque significatif, pour l’identification des opérations présentant plusieurs déterminants de risque significatifs et pour l’identification du plus significatif de ces déterminants de risque"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de l’article 277, paragraphe 3, du règlement (UE) no 575/2013, les établissements identifient toutes les opérations autres que celles visées à l’article 2 comme étant des opérations présentant plusieurs déterminants de risque significatifs.",
+      "text_sha256": "96d36ed2893ef67263572811e6eb55f3c6ebd1c64280b1fe6db07a42cf8a01ab",
+      "md_span": {
+        "start": 3612,
+        "end": 3861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Méthode d’identification des déterminants de risque significatifs et du plus significatif d’entre eux",
+      "path": [
+        "CHAPITRE 1 — Méthode pour l’identification des opérations ne présentant qu’un seul déterminant de risque significatif, pour l’identification des opérations présentant plusieurs déterminants de risque significatifs et pour l’identification du plus significatif de ces déterminants de risque"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Après avoir identifié tous les déterminants de risque d’une opération conformément à l’article 1er, et lorsque les flux de trésorerie de la transaction dépendent de plusieurs déterminants de risque, les établissements identifient les déterminants de risque significatifs, et le plus significatif d’entre eux, en appliquant la méthode qui convient parmi celles prévues aux paragraphes 2, 3 et 4.\n\n**2.** Les établissements suivent les étapes suivantes au début de l’opération:a) ils considèrent tous les déterminants de risque de l’opération identifiés conformément à la procédure visée à l’article 1er comme étant des déterminants de risque significatifs;b) pour chaque catégorie de risque correspondant à ces déterminants de risque significatifs, ils identifient comme étant le déterminant de risque le plus significatif le déterminant de risque qui correspond à la plus élevée des majorations pour catégorie de risque visées aux articles 280 *bis* à 280 *septies* du règlement (UE) no 575/2013.\n\n**3.** Les établissements suivent les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:a) ils calculent les sensibilités au risque delta conformément à l’article 325 *novodecies* du règlement (UE) no 575/2013 pour chaque déterminant de risque identifié conformément à l’article 1er du présent règlement;b) ils calculent les sensibilités pondérées conformément à la formule prévue à l’article 325 *septies*, paragraphe 6, dudit règlement sur la base des sensibilités calculées conformément au point a);c) pour chacune des catégories de risque visées à l’article 277, paragraphe 1, dudit règlement, ils calculent les exigences de fonds propres par catégorie de risque pour le risque de marché conformément à la formule prévue à l’article 325 *septies*, paragraphe 8, dudit règlement, sur la base de toutes les sensibilités pondérées visées au point b) des déterminants de risque qui ont été affectés à cette catégorie de risque;d) Ils classent de la plus grande à la plus petite en termes absolus toutes les exigences de fonds propres par catégorie de risque pour le risque de marché visées au point c), afin d’obtenir une séquence monotone croissante d’entrées où l’entrée *a1* est le terme absolu le plus grand, *a2* est le deuxième plus grand terme, et ainsi de suite;e) ils vérifient, pour chaque entrée *ai* calculée et classée conformément au point d) et dans l’ordre résultant de ce classement, si la condition suivante est remplie:où:*i =* l’indice qui représente les catégories de risques visées à l’article 277, paragraphe 1, du règlement (UE) no 575/2013, classées conformément au point d) et dans l’ordre résultant de ce classement;*Y*% = 60 %;f) ils considèrent comme significatifs:i) les déterminants de risque correspondant aux catégories de risque pour lesquelles la condition énoncée au point e) du présent paragraphe est remplie;ii) les déterminants de risque qui correspondent à la première catégorie de risque pour laquelle cette condition n’est pas remplie;g) pour chacune des catégories de risque correspondant à des déterminants de risque qui ne sont pas significatifs au sens du point f), ils vérifient si la condition suivante est remplie par l’entrée *ai* correspondante:où:*i =* l’indice qui représente les catégories de risques visées à l’article 277, paragraphe 1, du règlement (UE) no 575/2013, classées conformément au point d) et dans l’ordre résultant de ce classement, et qui correspondent aux déterminants de risque qui ne sont pas significatifs au sens du point f);*Z*% = 30 %;h) outre les déterminants de risque significatifs identifiés conformément au point f), ils considèrent également comme étant des déterminants de risque significatifs les déterminants de risque qui correspondent aux catégories de risque pour lesquelles la condition énoncée au point g) est remplie;i) pour chacune des catégories de risque visées aux points f) et h), ils considèrent comme étant le déterminant de risque le plus significatif pour cette catégorie de risque le déterminant de risque correspondant à la valeur absolue la plus élevée des sensibilités pondérées visées au point b).\n\n**4.** Les établissements qui remplissent les conditions énoncées à l’article 94, paragraphe 1, du règlement (UE) no 575/2013, ou les conditions énoncées à l’article 325 *bis*, paragraphe 1, dudit règlement, peuvent identifier le déterminant de risque le plus significatif en suivant les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:▼Ba) pour chaque déterminant de risque identifié conformément à l’article 1er, ils calculent les majorations pour catégorie de risque prévues aux articles 280 *bis* à 280 *septies* du règlement (UE) no 575/2013 qui lui sont applicables. Lorsque plusieurs déterminants de risque identifiés conformément à l’article 1er ont été affectés à la même catégorie de risque, les établissements retiennent, aux fins de l’application du point b), le déterminant de risque qui, dans cette catégorie de risque, correspond à la majoration pour catégorie de risque la plus élevée dans ladite catégorie;b) ils suivent les étapes prévues au paragraphe 3, points d) à h), en basant les entrées utilisées à ces étapes sur les majorations pour catégorie de risque calculées conformément au point a) du présent paragraphe;c) ils identifient comme déterminants de risque les plus significatifs dans les catégories de risque concernées les déterminants de risque significatifs identifiés selon la méthode visée au point b).",
+      "text_sha256": "74efd55f3b50c78253d14b52e7e0625023817fbf11d45543a138c9f1ab421d29",
+      "md_span": {
+        "start": 4002,
+        "end": 9508
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "32025R0855: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Formule de calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, et volatilité prudentielle adaptée à cette formule",
+      "path": [
+        "CHAPITRE 2 — Formule à utiliser pour le calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, volatilité prudentielle adaptée à cette formule, et méthode pour déterminer si une opération est une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risque donnée"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les établissements calculent comme suit le delta prudentiel (δ) des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt ou à la catégorie du risque sur matières premières, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt ou les prix des matières premières peuvent être négatifs:▼Boù:*N*(*x*) = la fonction de répartition d’une variable aléatoire suivant une loi normale centrée réduite, exprimant la probabilité qu’une variable aléatoire normale de moyenne zéro et de variance un soit inférieure ou égale à x;*P* = le prix au comptant ou à terme de l’instrument sous-jacent à l’option;*K* = le prix d’exercice de l’option;*λ* = la date d’expiration de l’option, exprimée en années selon la convention applicable de jour ouvré;*λ* = la variable d’ajustement adéquate pour ramener *P* et *K* en territoire positif, déterminée conformément au paragraphe 2;*σ* = la volatilité prudentielle de l’option, déterminée conformément au paragraphe 3.\n\n**2.** Aux fins du paragraphe 1, les établissements calculent la variable d’ajustement (λ) pour toute option d’achat ou de vente comme suit:*λ**j*=max{*seuil**j* – min{*P**j*, *K**j*}, 0} si l*option* j est affectée à la catégorie du risque de taux d'intérêt;max{ – (1 + *seuil**j*)•min{*P**j*, *K**j*}, 0} si l*option* j est affectée à la catégorie du risque sur matières premières.\n\noù:\n\n| *P**j* | = | le prix au comptant ou à terme de l’instrument sous-jacent à l’option *j*; |\n| --- | --- | --- |\n\n| *K**j* | = | le prix d’exercice de l’option *j*; |\n| --- | --- | --- |\n\n| *seuil**j*= | 0,10*%*, si l*option* j est affectée à la catégorie du risque de taux d'intérêt; |\n| --- | --- |\n| *seuil**j*= |  |\n| 0,1, si l*option* j est affectée à la catégorie du risque sur matières premières.; |  |\n\n**3.** Aux fins du paragraphe 1, les établissements déterminent la volatilité prudentielle de l’option en fonction de la catégorie de risque de l’opération et de la nature de l’instrument sous-jacent de l’option, conformément au tableau suivant:▼M1*Tableau*Catégorie de risqueInstrument sous-jacentVolatilité prudentielleTaux d’intérêtTous50 %Matière premièreÉlectricité150 %Autres matières premières (hors électricité)70 %▼B",
+      "text_sha256": "6838967a6187aebf72da69666c3a05bfc65c52a4f3068b6685024aa26192b82d",
+      "md_span": {
+        "start": 10134,
+        "end": 12390
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "32025R0855: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "32021R0931"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "▼M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Méthodes pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risques donnée",
+      "path": [
+        "CHAPITRE 2 — Formule à utiliser pour le calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, volatilité prudentielle adaptée à cette formule, et méthode pour déterminer si une opération est une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risque donnée"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les établissements appliquent l’une des méthodes suivantes pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risques donnée:\n\na) ils calculent les sensibilités au risque delta de ces déterminants de risque conformément à l’article 325 *novodecies* du règlement (UE) no 575/2013 et identifient l’opération comme une position longue sur un déterminant de risque, si la sensibilité au risque delta correspondante est positive, ou comme une position courte, si la sensibilité au risque delta correspondante est négative;\n\nb) ils évaluent la dépendance de la structure des flux de trésorerie de l’opération vis-à-vis de ce déterminant de risque, ou l’objectif de couverture de l’opération eu égard à ce déterminant de risque, et identifient l’opération comme une position longue ou courte sur la base de cette évaluation.",
+      "text_sha256": "09188df05979abe984519204a6d2f6d2e88612285da76a9372c8ca253144ed0f",
+      "md_span": {
+        "start": 12640,
+        "end": 13593
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25--a7ddc7d156525fd3e226862b9b89a1735b4978fbf7c46ead93859edd65715f8f#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE 2 — Formule à utiliser pour le calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, volatilité prudentielle adaptée à cette formule, et méthode pour déterminer si une opération est une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risque donnée"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne.*",
+      "text_sha256": "593d8466e06a6c6ca6baa9bffbca0d76b2cd505d1aee854c97cfee8416ec37cb",
+      "md_span": {
+        "start": 13650,
+        "end": 13782
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

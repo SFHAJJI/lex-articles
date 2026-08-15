@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2197 of 27 November 2015 laying down implementing technical standards with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2021-03-10",
+  "valid_to": "2023-09-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2197/versions/2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892/en.html",
+    "sha256": "b8df5e283e9be78d69f12579c25aa76e782bc0490ae2a959d07223d428ee9485",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R2197-20210310"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The pairs of currencies that meet the requirements of Article 354(1) of Regulation (EU) No 575/2013 are set out in the Annex to this Regulation.",
+      "text_sha256": "a8e25ad974b456aa556e6c63de73763705c278e668b5f33905cb1ee63d2e4a91",
+      "md_span": {
+        "start": 836,
+        "end": 980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2197:2021-03-10--9cdff55e8e0c41dd4bb54fe2eea42df9a9ac59d5057fd90bde0d8236ff72e892#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 1017,
+        "end": 1159
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

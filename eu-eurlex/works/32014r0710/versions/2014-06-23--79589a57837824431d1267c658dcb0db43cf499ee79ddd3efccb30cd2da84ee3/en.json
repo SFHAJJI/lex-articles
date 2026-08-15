@@ -1,0 +1,410 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) No 710/2014 of 23 June 2014 laying down implementing technical standards with regard to conditions of application of the joint\u00A0decision process for institution-specific prudential requirements according to Directive 2013/36/EU",
+  "valid_from": "2014-06-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0710/versions/2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3/en.xml",
+    "sha256": "78fa3af711cf2406680c777cd28518f0c9d21b015e4ca7fd1e145cdd633175e0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0710"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation specifies the following joint decision processes referred to in Article 113 of Directive 2013/36/EU:\n\n| (a) | the process of reaching a joint decision on matters referred to in point (a) of Article 113(1), taking account of any waiver granted pursuant to Articles 7, 10 or 15 of Regulation (EU) No 575/2013 of the European Parliament and of the Council (3); |\n| --- | --- |\n\n| (b) | the process of reaching a joint decision on matters referred to in point (b) of Article 113(1), taking account of any waiver granted pursuant to Articles 6, 8 or 10 of Regulation (EU) No 575/2013, and of any consolidated level of application pursuant to Article 11(3) of that Regulation. |\n| --- | --- |",
+      "text_sha256": "119d5a282f2bac840a93b53f1300b29c13ab126d619cf2a127f4a4f5dc3a1a88",
+      "md_span": {
+        "start": 877,
+        "end": 1590
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2014188EN.01001901-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (1) | ‘relevant competent authorities’ means competent authorities responsible for the supervision of subsidiaries of an EU parent institution, of an EU parent financial holding company or of an EU parent mixed financial holding company in a Member State; |\n| --- | --- |\n\n| (2) | ‘other competent authorities’ means any of the following:(a)competent authorities which are not a relevant competent authority;(b)public authorities or bodies officially recognized by national law, which are empowered by national law to supervise financial sector entities, as defined in point 27 of Article 4(1) of Regulation (EU) No 575/2013, which operate in the Member State concerned and which are neither a credit institution nor an investment firm; |\n| --- | --- |\n| (a) | competent authorities which are not a relevant competent authority; |\n| (b) | public authorities or bodies officially recognized by national law, which are empowered by national law to supervise financial sector entities, as defined in point 27 of Article 4(1) of Regulation (EU) No 575/2013, which operate in the Member State concerned and which are neither a credit institution nor an investment firm; |\n\n| (3) | ‘SREP report’ means the report presenting the outcome of the supervisory review and evaluation process referred to in Article 97 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (4) | ‘liquidity risk assessment report’ means the report presenting the outcome of the part of the supervisory review and evaluation process referred to in Article 97 of Directive 2013/36/EU concerning liquidity risks; |\n| --- | --- |\n\n| (5) | ‘group risk assessment report’ means the report containing the risk assessment of the group of institutions referred to in point (a) of Article 113(2) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (6) | ‘group liquidity risk assessment report’ means the report containing the assessment of the liquidity risk profile of the group of institutions referred to in point (b) of Article 113(2) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (7) | ‘capital joint decision’ means a joint decision on matters referred to in point (a) of Article 1; |\n| --- | --- |\n\n| (8) | ‘liquidity joint decision’ means a joint decision on matters referred to in point (b) of Article 1. |\n| --- | --- |",
+      "text_sha256": "caad2ddce82dc83a42936899264994766a4db38a1217cdfff4632553d9680963",
+      "md_span": {
+        "start": 1623,
+        "end": 3982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Prior to the start of the joint decision process the consolidating supervisor and the relevant competent authorities shall agree on a timetable of steps to be followed in that process (hereinafter ‘joint decision timetable’). In case of disagreement, the consolidating supervisor shall set the joint decision timetable after considering the views and reservations expressed by the relevant competent authorities.\n\n2. The joint decision timetable shall be updated at least annually and shall include the following steps:\n\n| (a) | agreement on the involvement of other competent authorities and competent authorities of third countries pursuant to Article 4; |\n| --- | --- |\n\n| (b) | submission of the SREP reports and liquidity risk assessment reports from the relevant competent authorities pursuant to Article 5 and contributions from the other competent authorities and competent authorities of third countries involved pursuant to Article 4(2); |\n| --- | --- |\n\n| (c) | submission of the draft group risk assessment report and draft group liquidity risk assessment report by the consolidating supervisor to the relevant competent authorities pursuant to Article 6(6) and to other competent authorities and competent authorities of third countries pursuant to Article 4(3), and Article 6(7); |\n| --- | --- |\n\n| (d) | dialogue between the consolidating supervisor and relevant competent authorities on the draft group risk assessment report and draft group liquidity risk assessment report pursuant to Article 7; |\n| --- | --- |\n\n| (e) | submission of the group risk assessment report and group liquidity risk assessment report by the consolidating supervisor to the relevant competent authorities pursuant to Article 8(2) and other competent authorities and competent authorities of third countries pursuant to Article 4(3) and Article 8(5); |\n| --- | --- |\n\n| (f) | submission of contributions to the draft capital joint decision and draft liquidity joint decision by relevant competent authorities to the consolidating supervisor pursuant to Article 9(1); |\n| --- | --- |\n\n| (g) | submission of the draft capital joint decision document and draft liquidity joint decision document from the consolidating supervisor to the relevant competent authorities pursuant to Article 10(6) and Article 11(5); |\n| --- | --- |\n\n| (h) | consultation on the draft capital joint decision and draft liquidity joint decision documents with the EU parent institution and institutions of the group, where required by the legislation of a Member State; |\n| --- | --- |\n\n| (i) | dialogue between the consolidating supervisor and relevant competent authorities on the draft capital joint decision and draft liquidity joint decision; |\n| --- | --- |\n\n| (j) | reaching of the capital joint decision and liquidity joint decision pursuant to Article 12; |\n| --- | --- |\n\n| (k) | communication of the capital joint decision and liquidity joint decision by the consolidating supervisor and relevant competent authorities to the EU parent institution and institutions of the group pursuant to Article 13; |\n| --- | --- |\n\n| (l) | agreement on the following year's timetable for the planning of the joint decision process. |\n| --- | --- |\n\n3. The joint decision timetable shall fulfil all of the following requirements:\n\n| (a) | it shall reflect the scope and complexity of each task, taking into account the size, systemic importance, nature, scale and complexity of the activities of the group as well as its risk-profile; |\n| --- | --- |\n\n| (b) | it shall take account, so far as possible, of the commitments of the consolidating supervisor and the relevant competent authorities under the supervisory examination programme referred to in point (c) of the third subparagraph of Article 116(1) of Directive 2013/36/EU. |\n| --- | --- |\n\n4. Where appropriate, in particular to reflect the urgency of any extraordinary update undertaken pursuant to Articles 20 and 21, the joint decision timetable shall be reviewed.\n\n5. The consolidating supervisor and relevant competent authorities shall communicate to the institutions of the group for which they are respectively responsible an indicative date for the consultation referred to in point (h) of paragraph 2 on the aspects of the draft joint decision documents insofar as these institutions are concerned.\n\nThe consolidating supervisor and relevant competent authorities shall communicate to the institutions of the group for which they are respectively responsible an estimated date for the communication referred to in point (k) of paragraph 2.",
+      "text_sha256": "4df52f270f39cf222cbf495f9296279b9ed07778468aeacc6f510c709715bfbc",
+      "md_span": {
+        "start": 4015,
+        "end": 8599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The consolidating supervisor may decide to involve other competent authorities and competent authorities of third countries in the production of the group risk assessment report or group liquidity risk assessment report. That decision is based on the relevance of the branch or institution within the group and its significance for the local market.\n\nSuch involvement shall be subject to confidentiality requirements equivalent to those of Section II of Chapter 1 of Title VII of Directive 2013/36/EU and, where applicable, Articles 54 and 58 of Directive 2004/39/EC of the European Parliament and of the Council (4).\n\nThe equivalence shall be assessed by the consolidating supervisor and all relevant competent authorities.\n\n2. Where the consolidating supervisor decides to involve another competent authority as defined in Article 2(2) or a competent authority of a third country, both authorities shall reach an agreement on the scope of involvement of the other competent authority or competent authority of the third country. Such agreements are allowed for the following purposes:\n\n| (a) | providing the consolidating supervisor with contributions to the group risk assessment report or group liquidity risk assessment report; |\n| --- | --- |\n\n| (b) | adding as annexes the contributions referred to in point (a) of this paragraph to the draft or final group risk assessment report or group liquidity risk assessment report. |\n| --- | --- |\n\n3. Where the consolidating supervisor decides to involve other competent authorities or competent authorities of third countries, the consolidating supervisor shall not provide the draft and final group risk assessment reports and group liquidity risk assessment reports to the other competent authorities and competent authorities of third countries without consent from all relevant competent authorities.\n\n4. The consolidating supervisor shall keep the relevant competent authorities fully informed on the scope, level and nature of involvement of other competent authorities and competent authorities of third countries in the group risk assessment process and the extent to which the group risk assessment report has benefited from their contributions.",
+      "text_sha256": "aea074ed0aaeab7e6a4c3bf70cb4a9188a791dbe8f49e6cf13100b8c6ca6e713",
+      "md_span": {
+        "start": 8632,
+        "end": 10851
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2014188EN.01001901-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. In order to facilitate due consideration of the risk assessment of subsidiaries in the joint decision in accordance with Article 113(2) of Directive 2013/36/EU, the relevant competent authorities shall provide the consolidating supervisor with their SREP reports and liquidity risk assessment reports in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (b) of Article 3(2).\n\n2. The SREP reports shall be prepared using the template in Annex I. These reports shall be supplemented with the summaries of scores using Table 1 of Annex II and the summary of capital adequacy assessment using Table 2 of Annex II.\n\nThe liquidity risk assessment reports shall be prepared using the template in Annex V. These reports shall be supplemented with the summaries of scores using Table 1 of Annex VI and the summary of liquidity assessment using Table 2 of Annex VI.\n\nSREP reports and liquidity risk assessment reports may include additional relevant information.",
+      "text_sha256": "aa2db5e369a0561c3dced1467b535233082097bdbc42db22d7c06b31591057a1",
+      "md_span": {
+        "start": 10884,
+        "end": 11909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The consolidating supervisor shall prepare a draft group risk assessment report and draft group liquidity risk assessment report based on all of the following:\n\n| (a) | its own SREP report or liquidity risk assessment report on the EU parent institution and the group; |\n| --- | --- |\n\n| (b) | the SREP reports or liquidity risk assessment reports on subsidiaries provided by the relevant competent authorities pursuant to Article 5; |\n| --- | --- |\n\n| (c) | contributions from other competent authorities and competent authorities of third countries, pursuant to Article 4(2). |\n| --- | --- |\n\n2. The SREP reports and liquidity risk assessment reports referred to in points (a) and (b) of paragraph 1 together with contributions referred to in point (c) of that paragraph shall be added as annexes to the draft group risk assessment report or draft group liquidity risk assessment report.\n\n3. The draft group risk assessment report and draft group liquidity risk assessment report shall contain the results of the assessment of whether the arrangements, strategies, processes and mechanisms implemented by the group and its institutions and the own funds and liquidity held by these ensure a sound management and coverage of their risks.\n\n4. The draft group risk assessment report shall be prepared using the template in Annex III. This report shall be supplemented with the summaries of scores using Table 1 of Annex IV and the summary of capital adequacy assessment using Table 2 of Annex IV.\n\nThe draft group liquidity risk assessment report shall be prepared using the template in Annex VII. This report shall be supplemented with the summaries of scores using Table 1 of Annex VIII and the summary of liquidity assessment using Table 2 of Annex VIII.\n\n5. In accordance with the principle of proportionality, the consolidating supervisor shall ensure all of the following:\n\n| (a) | the joint assessment reflects the relevance of the institutions within the group and their significance in the local market; |\n| --- | --- |\n\n| (b) | the draft group risk assessment report and draft group liquidity risk assessment report indicate how this relevance and significance were taken into account. |\n| --- | --- |\n\n6. The consolidating supervisor shall provide the draft reports to the relevant competent authorities in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (c) of Article 3(2).\n\n7. Subject to the agreement referred to in Article 4(3), the consolidating supervisor may provide the draft group risk assessment report and draft group liquidity risk assessment report to the other competent authorities and competent authorities of third countries.",
+      "text_sha256": "e5cd172c54e180408578c2bfe937aec5ff27fd6cd08d0ad53c352c6de2da9bfe",
+      "md_span": {
+        "start": 11942,
+        "end": 14670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The consolidating supervisor shall decide on the form and scope of the dialogue with the relevant competent authorities on the draft group risk assessment report and draft group liquidity risk assessment report.\n\n2. The consolidating supervisor and the relevant competent authorities shall discuss the reconciliation of the quantitative proposals included in the individual SREP reports and liquidity risk assessment reports referred to Article 6(1) with the quantitative proposals in the draft group risk assessment report and draft group liquidity risk assessment report, as applicable.\n\n3. The quantitative proposals referred to in paragraph 2 shall at least consist of the following proposals:\n\n| (a) | the proposed levels of own funds that a group of institutions at consolidated level and all institutions of this group at individual level are required to hold pursuant to point (a) of Article 104(1) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (b) | the proposed levels of specific liquidity requirements that a group of institutions at consolidated level and all institutions of this group at individual level are required to meet pursuant to Article 105 of Directive 2013/36/EU. |\n| --- | --- |",
+      "text_sha256": "cdb7f150ca01bcd34534179bf68b7cff10fa09f0a97728439a7ee8e3da1e584e",
+      "md_span": {
+        "start": 14703,
+        "end": 15920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Based on the dialogue referred to in Article 7, the consolidating supervisor shall finalise the group risk assessment report and group liquidity risk assessment report using the format and content of the draft group risk assessment report and draft group liquidity risk assessment report, as referred to in Article 6. The consolidating supervisor shall explain any material changes introduced in the group risk assessment report or group liquidity risk assessment report. Changes shall reflect the outcome of the dialogue and include the appropriate updates of the annexes to the group risk assessment report or group liquidity risk assessment report.\n\n2. The consolidating supervisor shall provide the group risk assessment report and group liquidity risk assessment report to the relevant competent authorities in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (e) of Article 3(2).\n\n3. In accordance with point (a) of Article 113(2) of Directive 2013/36/EU the submission of the group risk assessment report to the relevant competent authorities shall initiate the start of the four-month period for reaching the capital joint decision.\n\n4. In accordance with point (b) of Article 113(2) of Directive 2013/36/EU the submission of the group liquidity risk assessment report to the relevant competent authorities shall initiate the start of the one-month period for reaching the liquidity joint decision.\n\n5. Subject to the agreement referred to in Article 4(3), the consolidating supervisor may provide the group risk assessment report and group liquidity risk assessment report to the other competent authorities and competent authorities of third countries.",
+      "text_sha256": "ad08972643bff8df7d9464fcd8549f16e7809cc5e1834896bbfe0c2d9158a73b",
+      "md_span": {
+        "start": 15953,
+        "end": 17689
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The relevant competent authorities shall provide their contributions to the draft capital joint decision and draft liquidity joint decision to the consolidating supervisor in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (f) of Article 3(2). Contributions shall cover all institutions within a group of institutions falling within the scope of the joint decision process.\n\n2. The consolidating supervisor shall contribute to the draft capital joint decision. Its contributions shall include all of the following:\n\n| (a) | all institutions of a group at individual level which are authorised in the jurisdiction of the consolidating supervisor and which fall into the scope of the joint decision process; |\n| --- | --- |\n\n| (b) | the group of institutions at consolidated level. |\n| --- | --- |\n\n3. The consolidating supervisor shall contribute to the draft liquidity joint decision. Its contributions shall include all of the following:\n\n| (a) | all institutions of a group at individual level where these institutions are authorised in the jurisdiction of the consolidating supervisor and which fall into the scope of the joint decision process; |\n| --- | --- |\n\n| (b) | the group of institutions at consolidated level. |\n| --- | --- |\n\n4. Contributions to the draft capital joint decision shall set out each of the items referred to in Article 10.\n\n5. Contributions to the draft liquidity joint decision shall set out each of the items referred to in Article 11.",
+      "text_sha256": "0f9aa96842e898708c6f06e2f22c5874f945f8460239a5c093b8ff3e08690770",
+      "md_span": {
+        "start": 17722,
+        "end": 19263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. The consolidating supervisor shall prepare a fully reasoned draft capital joint decision covering the group and the institutions of this group. The draft capital joint decision shall set out each of the following items:\n\n| (a) | the names of the consolidating supervisor and relevant competent authorities involved in the capital joint decision process; |\n| --- | --- |\n\n| (b) | the name of the group of institutions and a list of all institutions within the group to which the draft capital joint decision relates and applies; |\n| --- | --- |\n\n| (c) | the references to the applicable Union and national law relating to the preparation, finalisation and application of capital joint decisions; |\n| --- | --- |\n\n| (d) | the date of the draft capital joint decision and of any relevant update thereto; |\n| --- | --- |\n\n| (e) | the conclusion on the application of Articles 73 and 97 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (f) | the conclusion on the adequacy of own funds held by the group of institutions at consolidated level; |\n| --- | --- |\n\n| (g) | the conclusion on the adequacy of own funds held by each institution of the group at individual level; |\n| --- | --- |\n\n| (h) | the conclusion on the level of own funds that each institution of the group is required to hold at individual level pursuant to point (a) of Article 104(1) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (i) | the conclusion on the level of own funds that the group of institutions is required to hold at consolidated level pursuant to point (a) of Article 104(1) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (j) | information on the minimum prudential requirements which apply to each institution pursuant to Article 92 of Regulation (EU) No 575/2013 and Articles 103, 129, 130, 131 and 133 of Directive 2013/36/EU and on any other relevant prudential or macro-prudential requirements, guidelines, recommendations or warnings; |\n| --- | --- |\n\n| (k) | the reference date to which the conclusions referred to in points (e) to (i) relate; |\n| --- | --- |\n\n| (l) | the timeline for the implementation of the conclusions referred to in points (h) and (i), where applicable. |\n| --- | --- |\n\n2. The conclusion referred to in point (e) of paragraph 1 shall set out each of the following items:\n\n| (a) | the assessment of whether the institutions of the group have in place sound, effective and complete strategies and processes to assess, maintain and distribute internal capital and whether such strategies and processes are up to date; |\n| --- | --- |\n\n| (b) | the assessment of whether the amounts, types and distribution of internal capital is adequate to cover the nature and level of risks to which the institutions of the group are exposed or might be exposed; |\n| --- | --- |\n\n| (c) | the assessment of whether the institutions of the group have implemented appropriate arrangements, strategies, processes and mechanisms to comply with all requirements of Directive 2013/36/EU and Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (d) | the assessment of whether the arrangements, strategies, processes and mechanisms implemented by the institutions of the group ensure a sound management and coverage of their risks; |\n| --- | --- |\n\n| (e) | information on the application of supervisory measures and powers pursuant to Article 102 and points (b) to (l) of Article 104(1) of Directive 2013/36/EU to address deficiencies identified under points (a) to (d). |\n| --- | --- |\n\n3. The conclusions referred to in points (f) and (g) of paragraph 1 shall be linked to and supported by the conclusion referred to in point (e) of paragraph 1.\n\n4. The conclusions referred to in points (h) and (i) of paragraph 1 shall meet all of the following requirements:\n\n| (a) | they shall be formulated as an amount or a ratio or a combination of both; |\n| --- | --- |\n\n| (b) | they shall provide details of the quality of additional own funds required; |\n| --- | --- |\n\n| (c) | they shall be linked to and supported by the conclusion referred to in point (e) of paragraph 1. |\n| --- | --- |\n\n5. The conclusions regarding each institution of the group at individual level and the group of institutions at consolidated level shall be clearly identifiable in the draft capital joint decision document.\n\n6. The consolidating supervisor shall provide the draft capital joint decision document to the relevant competent authorities in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (g) of Article 3(2).",
+      "text_sha256": "6278a3bb449d2523b674a5e1ff18c3972ba2b2e56851e5515083b9cd84a1025d",
+      "md_span": {
+        "start": 19298,
+        "end": 23834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The consolidating supervisor shall prepare a fully reasoned draft liquidity joint decision covering the group and the institutions of this group. The draft liquidity joint decision shall set out each of the following items:\n\n| (a) | the names of the consolidating supervisor and relevant competent authorities involved in the liquidity joint decision process; |\n| --- | --- |\n\n| (b) | the name of the group of institutions and a list of all institutions within the group to which the draft liquidity joint decision relates and applies; |\n| --- | --- |\n\n| (c) | the references to the applicable Union and national law relating to the preparation, finalisation and application of liquidity joint decisions; |\n| --- | --- |\n\n| (d) | the date of the draft liquidity joint decision and of any relevant update thereto; |\n| --- | --- |\n\n| (e) | the conclusion on the liquidity adequacy for the group at consolidated level; |\n| --- | --- |\n\n| (f) | the conclusion on the liquidity adequacy for each institution within the group at individual level; |\n| --- | --- |\n\n| (g) | the conclusion on measures taken to address any significant matters and material findings relating to liquidity supervision including relating to the adequacy of the organisation and the treatment of risks as required pursuant to Article 86 of Directive 2013/36/EU and relating to the need for specific liquidity requirements in accordance with Article 105 of that Directive for each institution within the group at individual level and for the group at consolidated level; |\n| --- | --- |\n\n| (h) | information on any other relevant prudential or macro-prudential requirements, guidelines, recommendations or warnings; |\n| --- | --- |\n\n| (i) | the reference date to which the conclusions referred to in point (e) to (g) relate; |\n| --- | --- |\n\n| (j) | the timeline for the implementation of the conclusion referred to in point (g), where applicable. |\n| --- | --- |\n\n2. The conclusion referred to in points (e) and (f) of paragraph 1 shall set out each of the following items:\n\n| (a) | the assessment of whether the institutions of the group have implemented robust strategies, policies, processes and systems for the identification, measurement, management and monitoring of liquidity risk over an appropriate set of time horizons; |\n| --- | --- |\n\n| (b) | the assessment of whether the liquidity held by the institutions of the group at individual level and the group at consolidated level provides sufficient coverage of liquidity risks; |\n| --- | --- |\n\n| (c) | the assessment of whether the institutions of the group have implemented appropriate arrangements, strategies, processes and mechanisms to comply with all requirements of Directive 2013/36/EU and Regulation (EU) No 575/2013. |\n| --- | --- |\n\n3. The conclusion referred to in point (g) of paragraph 1 shall provide details on the nature of the measures taken. Where these measures relate to the need for specific liquidity requirements in accordance with Article 105 of Directive 2013/36/EU, the conclusion shall provide details on the articulation of those specific liquidity requirements.\n\n4. The conclusions regarding each institution of the group at individual level and the group of institutions at consolidated level shall be clearly identifiable in the draft liquidity joint decision document.\n\n5. The consolidating supervisor shall provide the draft liquidity joint decision document to the relevant competent authorities in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (g) of Article 3(2).",
+      "text_sha256": "3bae54fef5a893a647f39084516ab26917381a8a17cb5eb2c85cda817b804021",
+      "md_span": {
+        "start": 23869,
+        "end": 27478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Following the dialogue with the relevant competent authorities on the draft capital joint decision and draft liquidity joint decision as referred to in point (i) of Article 3(2), the consolidating supervisor shall revise the draft capital joint decision and draft liquidity joint decision, as necessary, in order to finalise those decisions.\n\n2. An agreement on the capital joint decision and liquidity joint decision shall be reached by the consolidating supervisor and all relevant competent authorities.\n\n3. The agreement shall be evidenced in writing by representatives of the consolidating supervisor and relevant competent authorities with appropriate authority to commit their respective competent authorities.",
+      "text_sha256": "862cab686f725415b5b888a0fa2f1bf3995cc0a2043dd86eaa26011230ef13cc",
+      "md_span": {
+        "start": 27513,
+        "end": 28245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The consolidating supervisor shall provide the capital joint decision document and liquidity joint decision document to the management body of the EU parent institution in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (k) of Article 3(2). The consolidating supervisor shall confirm this communication to the relevant competent authorities.\n\n2. The relevant competent authorities in a Member State shall provide to the management bodies of institutions which are authorised in that Member State the respective parts of the capital joint decision document and liquidity joint decision document that are relevant to each of those institutions in a timely manner and in any event by the deadline specified in the joint decision timetable pursuant to point (k) of Article 3(2).\n\n3. The consolidating supervisor shall, where appropriate, discuss the capital joint decision document and liquidity joint decision document with the EU parent institution to explain the details of the decisions and their application.\n\n4. The relevant competent authorities in a Member State shall, where appropriate, discuss with the institutions established in this Member State the respective parts of the capital joint decision document and liquidity joint decision document that are relevant to each of these institutions to explain the details of the decisions and their application.",
+      "text_sha256": "716a3803da878bc718d5bc9c226b8a67593f9279e53957bd6f611b75b1d365a8",
+      "md_span": {
+        "start": 28280,
+        "end": 29720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The consolidating supervisor shall communicate the outcome of the discussion referred to in Article 13(3) to the relevant competent authorities where an EU parent institution is required to take any of the following actions:\n\n| (a) | to meet additional own funds requirements pursuant to point (a) of Article 104(1) of Directive 2013/36/EU at individual or consolidated level, |\n| --- | --- |\n\n| (b) | to address significant matters or material findings relating to liquidity supervision or to meet specific liquidity requirements pursuant to Article 105 of Directive 2013/36/EU, at individual or consolidated level. |\n| --- | --- |\n\n2. The relevant competent authorities in a Member State shall communicate the outcome of the discussion referred to in Article 13(4) to the consolidating supervisor where an institution authorised in that Member State is required to take any of the following actions:\n\n| (a) | to meet additional own funds requirements pursuant to point (a) of Article 104(1) of Directive 2013/36/EU at individual level; |\n| --- | --- |\n\n| (b) | to address significant matters or material findings relating to liquidity supervision or to meet specific liquidity requirements pursuant to Article 105 of Directive 2013/36/EU at individual level. |\n| --- | --- |\n\n3. The consolidating supervisor shall forward the outcome of the discussion referred to in paragraph 2 to the other relevant competent authorities.\n\n4. The consolidating supervisor and relevant competent authorities shall monitor the application of the capital joint decisions and liquidity joint decisions that are relevant to each of the institutions of the group for which they are respectively responsible.",
+      "text_sha256": "1d8429166b8bc4a6415fceb57a0e5e88033c876c720f656b2c6a1329cf2d530b",
+      "md_span": {
+        "start": 29755,
+        "end": 31458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. In the absence of a capital joint decision or a liquidity joint decision between the consolidating supervisor and the relevant competent authorities within the time periods referred to in Article 8(3) or 8(4), respectively, the decisions referred to in Article 113(3) of Directive 2013/36/EU shall be evidenced in writing and shall be taken by the latest of the following dates:\n\n| (a) | the date one month after the expiry of the time period referred to in Article 8(3) or (4), as applicable; |\n| --- | --- |\n\n| (b) | the date one month after the provision of any advice by the EBA following a request for consultation in accordance with the third subparagraph of Article 113(2) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (c) | the date one month after any decision taken by the EBA in accordance with the first or second subparagraphs of Article 113(3) of Directive 2013/36/EU or any other date set by the EBA in such a decision. |\n| --- | --- |\n\n2. The relevant competent authorities shall communicate to the consolidating supervisor the decisions they have taken at individual level in the absence of a joint decision.\n\n3. The consolidating supervisor shall include the decisions referred to in paragraph 2 with its decisions taken at individual and consolidated levels into a single document and shall provide this document to all relevant competent authorities.\n\n4. Where the EBA has been consulted, the document referred to in paragraph 3 shall include an explanation of any deviations from the advice of the EBA.",
+      "text_sha256": "d7ecce9890f23df0ff06101f744461a0bb41674db900b290535cd232b494f258",
+      "md_span": {
+        "start": 31493,
+        "end": 33029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. A capital decision taken in the absence of capital joint decision shall be set out in a document that contains all of the following items:\n\n| (a) | the name of the consolidating supervisor or relevant competent authority taking the capital decision; |\n| --- | --- |\n\n| (b) | the name of the group of institutions or the institution of the group to which the capital decision relates and applies; |\n| --- | --- |\n\n| (c) | the references to the applicable Union and national law relating to the preparation, finalisation and application of capital decisions; |\n| --- | --- |\n\n| (d) | the date of the capital decision; |\n| --- | --- |\n\n| (e) | the conclusion on the application of Articles 73 and 97 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (f) | for capital decisions taken on a consolidated basis, the conclusion on the adequacy of own funds held by the group of institutions at consolidated level; |\n| --- | --- |\n\n| (g) | for capital decisions taken on an individual basis, the conclusion on the adequacy of own funds held by the relevant institution at individual level; |\n| --- | --- |\n\n| (h) | for capital decisions taken on a consolidated basis, the conclusion on the level of own funds that the group of institutions is required to hold at consolidated level pursuant to point (a) of Article 104(1) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (i) | for capital decisions taken on an individual basis, the conclusion on the level of own funds that the relevant institution is required to hold at individual level pursuant to point (a) of Article 104(1) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (j) | information on the minimum prudential requirements which apply to the relevant institutions pursuant to Article 92 of Regulation (EU) No 575/2013 and Articles 103, 129, 130, 131 and 133 of Directive 2013/36/EU and on any other relevant prudential or macro-prudential requirements, guidelines, recommendations or warnings; |\n| --- | --- |\n\n| (k) | the reference date to which the conclusions referred to in points (e) to (i) relate; |\n| --- | --- |\n\n| (l) | the description of how the risk assessment, views and reservations expressed by the other relevant competent authorities or consolidating supervisor are considered, where applicable; |\n| --- | --- |\n\n| (m) | the timeline for the implementation of the conclusions referred to in points (h) and (i), where applicable. |\n| --- | --- |\n\n2. The capital decisions taken in the absence of a capital joint decision at individual or consolidated level shall meet the requirements set out in Article 10(2) to (4), where applicable.",
+      "text_sha256": "084a204eb8535cddca5a8a5af3ef8feee48301ab5ea10a307f11e6ec459bb757",
+      "md_span": {
+        "start": 33064,
+        "end": 35668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. A liquidity decision taken in the absence of liquidity joint decision shall be set out in a document that contains all of the following items:\n\n| (a) | the name of the consolidating supervisor or relevant competent authority taking the liquidity decision; |\n| --- | --- |\n\n| (b) | the name of the group of institutions or the institution of the group to which the liquidity decision relates and applies; |\n| --- | --- |\n\n| (c) | the references to the applicable Union and national law relating to the preparation, finalisation and application of liquidity decisions; |\n| --- | --- |\n\n| (d) | the date of the liquidity decision; |\n| --- | --- |\n\n| (e) | for liquidity decisions taken on a consolidated basis, the conclusion on the liquidity adequacy for the group of institutions at consolidated level; |\n| --- | --- |\n\n| (f) | for liquidity decisions taken on an individual basis, the conclusion on the liquidity adequacy for the relevant institution at individual level; |\n| --- | --- |\n\n| (g) | for liquidity decisions taken on a consolidated basis, the conclusion on measures taken to address any significant matters and material findings relating to liquidity supervision including relating to the adequacy of the organisation and the treatment of risks as required pursuant to Article 86 of Directive 2013/36/EU and relating to the need for specific liquidity requirements in accordance with Article 105 of that Directive for the group at consolidated level; |\n| --- | --- |\n\n| (h) | for liquidity decisions taken on an individual basis, the conclusion on measures taken to address any significant matters and material findings relating to liquidity supervision including relating to the adequacy of the organisation and the treatment of risks as required pursuant to Article 86 of Directive 2013/36/EU and relating to the need for liquidity requirements specific to the relevant institution at individual level in accordance with Article 105 of that Directive; |\n| --- | --- |\n\n| (i) | the reference date to which the conclusions referred to in points (e) to (h) relate; |\n| --- | --- |\n\n| (j) | information on any other relevant prudential or macro-prudential requirements, guidelines, recommendations or warnings; |\n| --- | --- |\n\n| (k) | a description of how the risk assessment, views and reservations expressed by the other relevant competent authorities or consolidating supervisor are considered, where applicable; |\n| --- | --- |\n\n| (l) | the timeline for the implementation of the conclusions referred to in points (g) to (h), as applicable. |\n| --- | --- |\n\n2. The liquidity decisions taken in the absence of a liquidity joint decision at individual or consolidated level shall meet the requirements set out in Articles 11(2) to (3).",
+      "text_sha256": "aff6b169dd56ee62ae1fabd9b8d488945578bd418108de902e0ffdde2d633f4e",
+      "md_span": {
+        "start": 35703,
+        "end": 38467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. The consolidating supervisor shall provide the decision document referred to in Article 15(3) to the management body of the EU parent institution.\n\n2. The relevant competent authorities in a Member State shall provide to the management bodies of institutions which are authorised in that Member State the respective parts of the decision document referred to in paragraph 1 that are relevant to each of these institutions.\n\n3. The consolidating supervisor shall, where appropriate, discuss the decision document with the EU parent institution to explain the details and application of the capital decisions or liquidity decisions taken in the absence of a capital joint decision or liquidity joint decision.\n\n4. The relevant competent authorities in a Member State shall, where appropriate, discuss with the institutions established in this Member State the respective parts of the decision document that are relevant to each of these institutions to explain the details and application of the capital decisions or liquidity decisions taken in the absence of a capital joint decision or a liquidity joint decision.",
+      "text_sha256": "8ca00f60938f9392d0fbb4f70a3b2eafee5f35a68e62659a08fb8d0f32fb4879",
+      "md_span": {
+        "start": 38502,
+        "end": 39631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nThe consolidating supervisor and relevant competent authorities shall monitor the application of the capital decisions and liquidity decisions, taken in the absence of a capital joint decision or liquidity joint decision, that are relevant to each of the institutions of the group for which they are respectively responsible.",
+      "text_sha256": "5cbbe8148c9eff123c0973729b58d7fffc577d083f1f23b65a09ecc2992d7254",
+      "md_span": {
+        "start": 39666,
+        "end": 40003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Where a request for an extraordinary update of a capital joint decision or a liquidity joint decision is initiated by the consolidating supervisor or a relevant competent authority pursuant to Article 113(4) of Directive 2013/36/EU, the consolidating supervisor shall communicate this request to all relevant competent authorities. The extraordinary update shall follow the process set out in Articles 9 to 14.\n\n2. Where a relevant competent authority requests to update a joint decision in relation to an institution other than an EU parent institution, an EU parent financial holding company or an EU parent mixed financial holding company with the consolidating supervisor on a bilateral basis, the request shall be made in writing and be fully reasoned.\n\nThe consolidating supervisor shall communicate the request referred to in the first subparagraph to all relevant competent authorities. The request shall include a draft capital joint decision document that complies with the requirements set out in Article 10 or a draft liquidity joint decision that complies with the requirements set out in Article 11. The consolidating supervisor shall set a deadline for relevant competent authorities to comment whether the update should be addressed on a bilateral basis.\n\nWhere none of the relevant competent authorities requests to address the update on a non-bilateral basis within the specified deadline, the consolidating supervisor and the relevant competent authority which requested the extraordinary update shall contribute to and reach an agreement on the joint decision on a bilateral basis.\n\n3. Where a relevant competent authority does not wish to submit a contribution to the updated joint decision in accordance with Article 9, the consolidating supervisor shall prepare the updated joint decision on the basis of the most recent contribution to the joint decision document received from the relevant competent authority.",
+      "text_sha256": "702561d924a807c439919ccb11db0ab5d9d48c40635ed49a4976b8d65fa0644e",
+      "md_span": {
+        "start": 40038,
+        "end": 41988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. The annual update of decisions taken in the absence of joint decision shall follow the steps pursuant to Article 3(2), in so far as each step is relevant for the application of Article 97(4) of Directive 2013/36/EU.\n\n2. Any extraordinary update of decisions taken in the absence of joint decision pursuant to Article 113(4) of Directive 2013/36/EU shall follow the process set out in Articles 9 to 14.",
+      "text_sha256": "a4aac779c03ddb9868fee866c81230ce4dfff8257ab2b7dcdfa91229c2326328",
+      "md_span": {
+        "start": 42023,
+        "end": 42439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32014r0710:2014-06-23--79589a57837824431d1267c658dcb0db43cf499ee79ddd3efccb30cd2da84ee3#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "ddd0b7a4ae46da7f4f504a4d6ffadfd4f3bf734f8c3167259f34f9dc7c9acbb4",
+      "md_span": {
+        "start": 42474,
+        "end": 42626
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2485:2023-06-27--4c2458c3f9a7e7ea804f3a259b00aa54be25c830a5ba15609731b6093bd081b9",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/2485 of 27\u00A0June 2023 amending Delegated Regulati…",
+  "valid_from": "2023-06-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2485/versions/2023-06-27--4c2458c3f9a7e7ea804f3a259b00aa54be25c830a5ba15609731b6093bd081b9/en.xml",
+    "sha256": "8b79dd794106e723c3927d1e346b738b2984194327238a73187683061fec3b99",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2485"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2485:2023-06-27--4c2458c3f9a7e7ea804f3a259b00aa54be25c830a5ba15609731b6093bd081b9#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDelegated Regulation (EU) 2021/2139 is amended as follows:\n\n| (1) | Annex I is amended in accordance with Annex I to this Regulation; |\n| --- | --- |\n\n| (2) | Annex II is amended in accordance with Annex II to this Regulation. |\n| --- | --- |",
+      "text_sha256": "b387e29182c2359e61d8b05673fe12d309bcc196c050cc546b725c48e8bdd1d1",
+      "md_span": {
+        "start": 702,
+        "end": 955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2485:2023-06-27--4c2458c3f9a7e7ea804f3a259b00aa54be25c830a5ba15609731b6093bd081b9#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2024.\n\nHowever, point (28) of Annex I and point (26) of Annex II shall apply from 1 January 2025.",
+      "text_sha256": "547d744f1fbe92a60767595d7778cdb8554c6123ff4a7ac7474a4cc03b5ad6b3",
+      "md_span": {
+        "start": 988,
+        "end": 1268
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-2020-06-20-a517",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2020-12-22",
         "valid_to": null,
         "text_sha256": "a1dcad9961262082930839e75b25fcaacb8a263d99ad4f330fbebdd7739e708f",
-        "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+        "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22--bdc2a515dea6236ceecd95ac9dacaf733a937776fe2a9921338fd4ee6ea4a25d",
         "article_valid_from": "2020-12-22"
       }
     ],
@@ -20,7 +20,7 @@
         "valid_from": "2020-12-22",
         "valid_to": null,
         "text_sha256": "1ecbdc23cf3a3fd13335f6138b22d02072472c6cf60ff8a92f754b11a426f929",
-        "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+        "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22--bdc2a515dea6236ceecd95ac9dacaf733a937776fe2a9921338fd4ee6ea4a25d",
         "article_valid_from": "2020-06-25",
         "validity_conflict": true
       }
@@ -34,7 +34,7 @@
           "valid_from": "2020-12-22",
           "valid_to": null,
           "text_sha256": "a1dcad9961262082930839e75b25fcaacb8a263d99ad4f330fbebdd7739e708f",
-          "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+          "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22--bdc2a515dea6236ceecd95ac9dacaf733a937776fe2a9921338fd4ee6ea4a25d",
           "article_valid_from": "2020-12-22"
         }
       ],
@@ -43,7 +43,7 @@
           "valid_from": "2020-12-22",
           "valid_to": null,
           "text_sha256": "1ecbdc23cf3a3fd13335f6138b22d02072472c6cf60ff8a92f754b11a426f929",
-          "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+          "in_version": "lu-legilux:loi-2020-06-20-a517:2020-12-22--bdc2a515dea6236ceecd95ac9dacaf733a937776fe2a9921338fd4ee6ea4a25d",
           "article_valid_from": "2020-06-25",
           "validity_conflict": true
         }

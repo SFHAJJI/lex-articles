@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e113:2016-06-07--b79fe38b8c2e2bb54f422d0c0f1f6eb76368b1dae848ec3443d0bbc721dd9b53",
+  "language": "en",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e113/versions/2016-06-07--b79fe38b8c2e2bb54f422d0c0f1f6eb76368b1dae848ec3443d0bbc721dd9b53/en.xml",
+    "sha256": "05c167e5912ba9ef7eb5d23da1c5edc1ff7933e1714339627a6c38dd74bfa417",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E113"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e113:2016-06-07--b79fe38b8c2e2bb54f422d0c0f1f6eb76368b1dae848ec3443d0bbc721dd9b53#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 EN Official Journal of the European Union C 202/94 Article 113 (ex Article 93 TEC) The Council shall, acting unanimously in accordance with a special legislative procedure and after consulting the European Parliament and the Economic and Social Committee, adopt provisions for the harmonisation of legislation concerning turnover taxes, excise duties and other forms of indirect taxation to the extent that such harmonisation is necessary to ensure the establishment and the functioning of the internal market and to avoid distortion of competition.",
+      "text_sha256": "97c500cd5a590d06d60633a3fb13cc3d9677fb801d5322ccc88cd8ffd8ac84a9",
+      "md_span": {
+        "start": 713,
+        "end": 1271
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

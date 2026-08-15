@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0800:2014-07-01--ba7c797f08c4b2a22e40512179543a45abb75baf903c8ac8ea0013053c8ad1dd",
+  "language": "fr",
+  "title": "Commission Regulation (EC) No 800/2008 of 6 August 2008 declaring certain categories of ai…",
+  "valid_from": "2014-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0800/versions/2014-07-01--ba7c797f08c4b2a22e40512179543a45abb75baf903c8ac8ea0013053c8ad1dd/fr.html",
+    "sha256": "029dbd8ba211de7209fda591307cb605cf3a0182adfeea2a494eb10b2229be92",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02008R0800-20140701"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32008r0800:2014-07-01--ba7c797f08c4b2a22e40512179543a45abb75baf903c8ac8ea0013053c8ad1dd#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2008R0800 — FR — 01.07.2014 — 002.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B RÈGLEMENT (CE) No 800/2008 DE LA COMMISSION du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) (Texte présentant de l'intérêt pour l'EEE) (JO L 214, 9.8.2008, p.3) abrogé par: Journal officiel n° page date Réglement (UE) no 651/2014 de la Commission du 17 juin 2014 L 187 1 26.6.2014",
+      "text_sha256": "4b9bc2cd4e95e7ad2426b6326c32f40deb85d4b0851eec41cb7e6cb2c3671220",
+      "md_span": {
+        "start": 724,
+        "end": 1276
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

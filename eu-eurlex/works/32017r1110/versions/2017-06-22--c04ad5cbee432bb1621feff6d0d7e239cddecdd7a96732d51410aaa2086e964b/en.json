@@ -1,0 +1,150 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/1110 of 22 June 2017 laying down implementing technical standards with regard to the standard forms, templates and procedures for the authorisation of data reporting services providers and related notifications pursuant to Directive 2014/65/EU",
+  "valid_from": "2017-06-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1110/versions/2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b/en.xml",
+    "sha256": "0d06d4df3effcbe4e500a238b5628c4c871fc8ba47a0d616b6425ce0072e81e8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1110"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nCompetent authorities shall designate a contact point for handling all information received from applicants seeking authorisation as a data reporting services provider. The contact details of the designated contact point shall be made public and regularly updated on the competent authorities' websites.",
+      "text_sha256": "c0a6244a885cd3bcb7772dbf9e92c25180e3b6ce3f2513d7dc4f0cf818d8fdea",
+      "md_span": {
+        "start": 899,
+        "end": 1213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. An applicant for authorisation to provide data reporting services under the provisions of Title V of Directive 2014/65/EU shall provide the competent authority with all information in accordance with Article 61(2) of Directive 2014/65/EU by filling in the application form set out in Annex I.\n\n2. The applicant shall notify the competent authority with information of all members of its management body by filling in the notification form set out in Annex II.\n\n3. The applicant shall clearly identify in its submission which specific requirement under the provisions of Title V of Directive 2014/65/EU it refers to and in which document attached to its submission that information is provided.\n\n4. The applicant shall indicate in its submission whether any specific requirement under the provisions of Title V of Directive 2014/65/EU or Commission Delegated Regulation (EU) 2017/571 (3) is not applicable to the data reporting service that it is applying for.\n\n5. Competent authorities shall indicate on their websites whether duly completed application forms, notifications and any related additional information are to be submitted on paper, electronically, or both.",
+      "text_sha256": "53eb7a76341fc1fb60a9428356f4d0d6f0c142f8292040da43be61b6465edad3",
+      "md_span": {
+        "start": 1246,
+        "end": 2428
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017162EN.01000301-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nWithin 10 working days from the receipt of the application, the competent authority shall send on paper, electronically or both, an acknowledgement of receipt to the applicant, including the contact details of the contact point designated pursuant to Article 1.",
+      "text_sha256": "94c174e42d3505d601abd36e9d89da4b8eaeb179e04eb38a2fb2e403d184476d",
+      "md_span": {
+        "start": 2461,
+        "end": 2733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe competent authority may send an information request to the applicant indicating which additional information is needed in order to proceed with the assessment of the application.",
+      "text_sha256": "6e9e02c5c07cc1af9e7af70d6fc48ee53fb681302a951fa4ce1f0f998639211f",
+      "md_span": {
+        "start": 2766,
+        "end": 2959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. A data reporting services provider shall notify on paper, electronically or both, the competent authority of any change to the membership of its management body before such change takes effect.\n\nWhere, for substantiated reasons, it is not possible to make the notification before that change takes effect, it shall be made within 10 working days after the change\n\n2. The data reporting services provider shall provide the information on the change referred to in paragraph 1 by filling in the notification form set out in Annex III.",
+      "text_sha256": "d32971d3b5d20c791ba0ca4fafda156ca5ef6a8babb8c4785f6f874762672d8c",
+      "md_span": {
+        "start": 2992,
+        "end": 3538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThe competent authority shall inform the applicant on paper, electronically or both of its decision to grant or to refuse the authorisation.",
+      "text_sha256": "a518d42b9fc21f6653ea95a113d8ee2ef13311b36283debf7cf5130e1019f24b",
+      "md_span": {
+        "start": 3571,
+        "end": 3722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r1110:2017-06-22--c04ad5cbee432bb1621feff6d0d7e239cddecdd7a96732d51410aaa2086e964b#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "3f4b1215510ba521cc574f987444e162c19028808d48a3a34eed4c3626744807",
+      "md_span": {
+        "start": 3755,
+        "end": 3943
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

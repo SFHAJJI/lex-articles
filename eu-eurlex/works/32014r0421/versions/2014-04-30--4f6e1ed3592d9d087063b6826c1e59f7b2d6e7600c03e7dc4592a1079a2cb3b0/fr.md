@@ -1,0 +1,77 @@
+---
+lex_id: 'eu-eurlex:32014r0421:2014-04-30--4f6e1ed3592d9d087063b6826c1e59f7b2d6e7600c03e7dc4592a1079a2cb3b0'
+title: 'Regulation (EU) No 421/2014'
+valid_from: '2014-04-30'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0421-20140430'
+source_sha256: 'b3e5b1783a4b2fb293c665c2d03bd8240f474da8fb469e15eb12ac1373966d29'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier
+
+La directive 2003/87/CE est modifiée comme suit:
+
+1) l'article suivant est inséré:
+
+«*Article 28* bis
+
+Dérogations applicables par anticipation de la mise en œuvre, d'ici 2020, d'une convention internationale sur l'application d'un mécanisme de marché mondial
+
+1. Par dérogation à l'article 12, paragraphe 2 *bis*, à l'article 14, paragraphe 3, et à l'article 16, les États membres considèrent que les exigences énoncées dans lesdites dispositions sont satisfaites et ne prennent aucune mesure à l'encontre des exploitants d'aéronefs en ce qui concerne:
+
+a) toutes les émissions des vols à destination et en provenance d'aérodromes situés dans des pays en dehors de l'Espace économique européen (EEE) pour chaque année civile du 1er janvier 2013 au 31 décembre 2016;
+
+b) toutes les émissions de vols reliant un aérodrome situé dans une région ultrapériphérique au sens de l'article 349 du traité sur le fonctionnement de l'Union européenne et un aérodrome situé dans une autre région de l'EEE pour chaque année civile du 1er janvier 2013 au 31 décembre 2016;
+
+c) la restitution des quotas, correspondant à des émissions vérifiées de 2013 dues à des vols entre des aérodromes situés dans des États de l'EEE, ayant lieu au plus tard le 30 avril 2015 au lieu du 30 avril 2014, les émissions vérifiées de 2013 pour ces vols étant déclarées au plus tard le 31 mars 2015 au lieu du 31 mars 2014.
+
+Aux fins des articles 11 *bis*, 12 et 14, les émissions vérifiées dues à des vols autres que celles visées au premier alinéa sont considérées comme les émissions vérifiées de l'exploitant d'aéronef.
+
+2. Par dérogation à l'article 3 *sexies*, paragraphe 5, et à l'article 3 *septies*, un exploitant d'aéronef qui bénéficie des dérogations prévues au paragraphe 1, points a) et b), du présent article reçoit, à titre gratuit, un nombre de quotas réduit en proportion de la réduction de l'obligation de restitution prévue dans ces points.
+
+Par dérogation à l'article 3 *septies*, paragraphe 8, les quotas non alloués, en conséquence de l'application du premier alinéa du présent paragraphe, sont supprimés.
+
+En ce qui concerne l'activité au cours de la période allant du 1er janvier 2013 au 31 décembre 2016, les États membres publient le nombre de quotas d'aviation alloués à titre gratuit à chaque exploitant d'aéronef au plus tard le ►C1 1er septembre 2014** ◄ **.
+
+3. Par dérogation à l'article 3 *quinquies*, les États membres mettent aux enchères un nombre de quotas d'aviation réduit en proportion de la réduction du nombre total de quotas délivrés.
+
+4. Par dérogation à l'article 3 *quinquies*, paragraphe 3, le nombre de quotas à mettre aux enchères par chaque État membre pour la période allant du 1er janvier 2013 au 31 décembre 2016 est réduit de manière à correspondre à sa part d'émissions d'aviation attribuée pour les vols ne faisant pas l'objet des dérogations prévues au paragraphe 1, points a) et b), du présent article.
+
+5. Par dérogation à l'article 3 *octies*, les exploitants d'aéronefs ne sont pas tenus de présenter des plans de surveillance comportant des mesures de suivi et de déclaration des émissions pour les vols faisant l'objet des dérogations prévues au paragraphe 1, points a) et b), du présent article.
+
+6. Par dérogation aux articles 3 *octies*, 12, 15 et 18 *bis*, lorsque les émissions annuelles totales d'un exploitant d'aéronef sont inférieures à 25 000 tonnes de CO2, ses émissions sont considérées comme des émissions vérifiées si elles sont déterminées à l'aide de l'outil pour petits émetteurs approuvé au titre du règlement (UE) no 606/2010 de la Commission (5) et sur lequel Eurocontrol enregistre des données provenant de son dispositif d'aide pour le SEQE. Les États membres peuvent appliquer des procédures simplifiées pour les exploitants d'aéronefs non commerciaux, dès lors que la précision assurée par ces procédures n'est pas inférieure à celle assurée par l'outil pour petits émetteurs.
+
+7. Aux fins du présent article, les vols entre des aérodromes situés dans des États de l'EEE et des États ayant adhéré à l'Union en 2013 sont considérés comme des vols entre aérodromes situés dans des États de l'EEE.
+
+8. La Commission informe régulièrement, au moins une fois par an, le Parlement européen et le Conseil de l'état d'avancement des négociations au sein de l'Organisation de l'aviation civile internationale (OACI), ainsi que de ses efforts pour favoriser l'acceptation par les pays tiers, au niveau international, des mécanismes de marché. À la suite de l'assemblée de l'OACI de 2016, la Commission fait rapport au Parlement européen et au Conseil sur les actions nécessaires pour mettre en œuvre un accord international relatif à un mécanisme de marché mondial à partir de 2020, qui réduira les émissions de gaz à effet de serre dues à l'aviation de manière non discriminatoire, y compris sur les informations relatives à l'utilisation des recettes communiquées par les États membres conformément à l'article 17 du règlement (UE) no 525/2013.
+
+Dans son rapport, la Commission examine ces développements concernant le champ d'application approprié pour la couverture des émissions dues à l'activité à destination ou au départ d'aérodromes situés dans des pays en dehors de l'EEE à partir du 1er janvier 2017 et, le cas échéant, l'accompagne de propositions concernant ledit champ d'application à la suite de ces développements. Dans son rapport, la Commission examine également des solutions aux éventuelles autres difficultés rencontrées dans l'application des paragraphes 1 à 4 du présent article, tout en préservant l'égalité de traitement pour tous les exploitants d'aéronefs sur une même liaison.
+
+2) à l'annexe I, dans la colonne «activités» du tableau, sous le titre «aviation», le point suivant est ajouté après le point j):
+
+«k) du 1er janvier 2013 au 31 décembre 2020, les vols qui, à l'exception de ce point, relèveraient de cette activité, réalisés par un exploitant d'aéronef non commercial effectuant des vols dont les émissions annuelles totales sont inférieures à 1 000 tonnes par an.»
+
+<a id="art_2"></a>
+
+### Article 2
+
+Le présent règlement entre en vigueur le jour de sa publication au *Journal officiel de l'Union européenne*.
+
+Il est applicable à partir du 30 avril 2014.
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+
+(1) Avis adopté le 22 janvier 2014 (non encore paru au Journal officiel).
+
+(2) Position du Parlement européen du 3 avril 2014 (non encore parue au Journal officiel) et décision du Conseil du 14 avril 2014.
+
+(3) Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil (JO L 275 du 25.10.2003, p. 32).
+
+(4) Règlement (UE) no 525/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif à un mécanisme pour la surveillance et la déclaration des émissions de gaz à effet de serre et pour la déclaration, au niveau national et au niveau de l'Union, d'autres informations ayant trait au changement climatique et abrogeant la décision no 280/2004/CE (JO L 165 du 18.6.2013, p. 13).
+
+(5) Règlement (UE) no 606/2010 de la Commission du 9 juillet 2010 portant approbation d'un instrument simplifié mis au point par l'Organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) afin d'estimer la consommation de carburant de certains exploitants d'aéronefs qui sont des petits émetteurs (JO L 175 du 10.7.2010, p. 25).»

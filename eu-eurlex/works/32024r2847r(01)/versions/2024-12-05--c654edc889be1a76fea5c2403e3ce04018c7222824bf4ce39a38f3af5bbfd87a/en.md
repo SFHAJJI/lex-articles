@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:32024r2847r(01):2024-12-05--c654edc889be1a76fea5c2403e3ce04018c7222824bf4ce39a38f3af5bbfd87a'
+title: 'Corrigendum to Regulation (EU) 2024/2847'
+valid_from: '2024-12-05'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R%2801%29'
+source_sha256: 'c1bbbc0e2734c7f39b6a1b8d8ea4b44b070d349732a7b89ca349b164e49027ff'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+Official Journal of the European Union EN L series 2024/90780 5.12.2024 Corrigendum to Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) No 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) ( Official Journal of the European Union L, 2024/2847, 23 October 2024 ) On page 1, in the title: for: ‘Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) No 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act)’, read: ‘Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act)’. ELI: http://data.europa.eu/eli/reg/2024/2847/corrigendum/2024-12-05/oj ISSN 1977-0677 (electronic edition)

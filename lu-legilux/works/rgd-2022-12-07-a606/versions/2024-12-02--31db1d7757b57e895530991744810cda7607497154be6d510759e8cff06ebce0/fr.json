@@ -1,0 +1,170 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/12/2024 : Règlement grand-ducal du 7 décembre 2022 relatif à la participation de l’Armée luxembourgeoise à la mission d’assistance militaire de l’Union européenne en soutien à l’Ukraine (EU Military Assistance Mission in support of Ukraine).",
+  "valid_from": "2024-12-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-12-07-a606/versions/2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0/fr.xml",
+    "sha256": "edc790620ebdf263529f2dae7968266873b4f7e88c842d4d2334ea9db94edb1b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/consolide/20241202/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_1er/20241202",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-12-02",
+      "text_md": "Le Luxembourg participe à la mission d’assistance militaire de l’Union européenne en soutien à l’Ukraine (EU Military Assistance Mission in support of Ukraine – EUMAM Ukraine) pendant la période du 2 décembre 2024 au 1er décembre 2026 au plus tard, sous réserve de la prolongation du mandat de la mission.",
+      "text_sha256": "7b68db69ac9ccbb9f891cb97193359b34d66daaa1736da9d8f8a98a607bd5aa1",
+      "md_span": {
+        "start": 836,
+        "end": 1141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_2/20221201",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "La participation luxembourgeoise comprend au maximum 2 membres de l’Armée luxembourgeoise par rotation. Ceci n’inclut pas le personnel en inspection ou en visite, ni la présence simultanée de deux contingents lors de la relève.\n\nLa participation luxembourgeoise comprend également une présence ponctuelle, non permanente, de maximum 5 membres de l’Armée luxembourgeoise par rotation pour assurer l’instruction et la formation des militaires ukrainiens.",
+      "text_sha256": "db62a2dec72a8fe5793d7bd72699692871c7e37eb4cf8e407da0789de6ce196e",
+      "md_span": {
+        "start": 1176,
+        "end": 1628
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_3/20221201",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "Sur proposition du chef d’état-major de l’Armée luxembourgeoise, le ministre ayant la Défense dans ses attributions désigne les membres de l’Armée luxembourgeoise participant à la mission et détermine la durée maximale de leur affectation.",
+      "text_sha256": "c418a9771a4eb2f9b6bc65b7f6f8106abe005b684e9525cc78578da5fd802886",
+      "md_span": {
+        "start": 1663,
+        "end": 1902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_4/20221201",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "La mission des membres de l’Armée luxembourgeoise consiste à occuper des postes d’état-major et d’instructeur.",
+      "text_sha256": "9b8b2c4cbc0d5b25ba79b83f8ee7617bc68524cb17dd8bd7ba613b0e9c3944a0",
+      "md_span": {
+        "start": 1937,
+        "end": 2047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_5/20221201",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "Pour la durée de leur mission, les membres de l’Armée luxembourgeoise sont placés sous l’autorité hiérarchique du commandant de la mission.",
+      "text_sha256": "fb0fcba638d67ac83aa9d748cdf4d0b89ab61c36effe865f7bf4fd5d319819d1",
+      "md_span": {
+        "start": 2082,
+        "end": 2221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_6/20221201",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "Les membres de l’Armée luxembourgeoise ont droit à l’indemnité mensuelle spéciale non imposable et non pensionnable, prévue à l’article 9 de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "6354a0d062d711a93bce6f583db90a18e8376459984f96aab88871c1330986ab",
+      "md_span": {
+        "start": 2256,
+        "end": 2597
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi modifiée du 27 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_7/20221201",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "Les membres de l’Armée luxembourgeoise bénéficient d’un congé spécial de fin de mission conformément à l’article 17*bis* de la loi modifiée du 27 juillet 1992 relative aux opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "ed93415e19ddeffa453aec4a64a5e0ea58eca955dc1f439b3949d9b5f689f8df",
+      "md_span": {
+        "start": 2632,
+        "end": 2906
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi modifiée du 27 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2022-12-07-a606:2024-12-02--31db1d7757b57e895530991744810cda7607497154be6d510759e8cff06ebce0#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/art_8/20221201",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-01",
+      "text_md": "Notre ministre ayant les Affaires étrangères et européennes dans ses attributions et Notre ministre ayant la Défense dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "3f7acbb260261e4fe0e49571d101c80a2cef1cbc250038bb4143e568b5619be2",
+      "md_span": {
+        "start": 2941,
+        "end": 3225
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

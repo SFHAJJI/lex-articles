@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1784r(03):2023-07-27--ea0263cea64aa02bd9a4320a31bc01869b0fcbc143e608177dba381407036e54",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU)\u00A02020/1784",
+  "valid_from": "2023-07-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1784r(03)/versions/2023-07-27--ea0263cea64aa02bd9a4320a31bc01869b0fcbc143e608177dba381407036e54/en.xml",
+    "sha256": "0d8e97f31c1206cb6a70672704776dd103763828ba3569c02db41d437730f650",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1784R%2803%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32020r1784r(03):2023-07-27--ea0263cea64aa02bd9a4320a31bc01869b0fcbc143e608177dba381407036e54#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "27.7.2023 EN Official Journal of the European Union L 188/61 Corrigendum to Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) ( Official Journal of the European Union L 405 of 2 December 2020 ) 1. On page 63, Annex I, Form C: for: ‘Reference No of the requested authority: Reference No of the transmitting agency:’, read: ‘Reference No of the transmitting agency: Reference No of the requested authority:’. 2. On page 71, Annex I, Form J: for: ‘Reference No of the requested authority: Reference No of the transmitting agency:’, read: ‘Reference No of the transmitting agency: Reference No of the receiving agency:’.",
+      "text_sha256": "f34adf6e03e5ce1cb5d274bc96fcbcbf978259e0b7a6519a9e94bda33dce54ad",
+      "md_span": {
+        "start": 678,
+        "end": 1466
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

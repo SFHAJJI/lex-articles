@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0461:2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/461 of 30 January 2019 amending Delegated Regulation (EU) 2016/522 as regards the exemption of the Bank of England and the United Kingdom Debt Management Office from the scope of Regulation (EU) No 596/2014",
+  "valid_from": "2019-03-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0461/versions/2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a/en.html",
+    "sha256": "5db23491a12f8a68423a4657b3edf1eb71ba36945965b1eef6370190db2eac9c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0461-20190322"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0461:2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Annex I to Delegated Regulation (EU) 2016/522 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "7ef7ab0b732dc961e81d00d52512d1eb56ce6aa3005941e1c8567c640b280796",
+      "md_span": {
+        "start": 872,
+        "end": 974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0461:2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from the day following that on which Regulation (EU) No 596/2014 ceases to apply to and in the United Kingdom.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "80dd0cb09c30c2846cec572b8e0f75a162ba53e159095878703924d964dd6130",
+      "md_span": {
+        "start": 1011,
+        "end": 1366
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32019r0461:2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1399,
+        "end": 1399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_i",
+      "provision_id": "eu-eurlex:32019r0461:2019-03-22--2a470d51a6450d7524b50f5647f08b22d0ea839057f63e31c3a1b851e8da1f3a#anx_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "‘ANNEX I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Australia:\n\n— Reserve Bank of Australia;\n\n— Australian Office of Financial Management;\n\n2. Brazil:\n\n— Central Bank of Brazil;\n\n— National Treasury of Brazil;\n\n3. Canada:\n\n— Bank of Canada;\n\n— Department of Finance Canada;\n\n4. China:\n\n— People's Bank of China;\n\n5. Hong Kong SAR:\n\n— Hong Kong Monetary Authority;\n\n— Financial Services and the Treasury Bureau of Hong Kong;\n\n6. India:\n\n— Reserve Bank of India;\n\n7. Japan:\n\n— Bank of Japan;\n\n— Ministry of Finance of Japan;\n\n8. Mexico:\n\n— Bank of Mexico;\n\n— Ministry of Finance and Public Credit of Mexico;\n\n9. Singapore:\n\n— Monetary Authority of Singapore;\n\n10. South Korea:\n\n— Bank of Korea;\n\n— Ministry of Strategy and Finance of Korea;\n\n11. Switzerland:\n\n— Swiss National Bank;\n\n— Federal Finance Administration of Switzerland;\n\n12. Turkey:\n\n— Central Bank of the Republic of Turkey;\n\n— Undersecretariat of Treasury of the Republic of Turkey;\n\n13. The United Kingdom:\n\n— Bank of England;\n\n— Her Majesty's Treasury;\n\n14. The United States:\n\n— Federal Reserve System;\n\n— U.S. Department of the Treasury.’",
+      "text_sha256": "d416ef0306d23dac81145537ddf4ac53c3c13d2a7f6e1e4ff8c650b2aac0705f",
+      "md_span": {
+        "start": 1435,
+        "end": 2491
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0461R%2801%29",
+          "text": "32019R0461R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0461",
+          "text": "32019R0461"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

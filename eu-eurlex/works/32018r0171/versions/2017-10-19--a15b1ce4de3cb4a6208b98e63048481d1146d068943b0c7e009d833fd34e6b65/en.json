@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/171 of 19 October 2017 on supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2017-10-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0171/versions/2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65/en.xml",
+    "sha256": "7eaba53f1fe34f1fd113bd70bd58b1b294a858cc571a281ee8b3fb835d816af5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0171"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. A competent authority shall set for all institutions in its jurisdiction a single materiality threshold for retail exposures.\n\nHowever, for institutions applying the definition of default laid down in points (a) and (b) of the first subparagraph of Article 178(1) of Regulation (EU) 575/2013 at the level of an individual credit facility, the competent authority may set a separate single materiality threshold for retail exposures.\n\n2. The materiality threshold referred to in the first subparagraph of paragraph 1 shall consist of an absolute and a relative component.\n\nThe absolute component shall be expressed as a maximum amount for the sum of all amounts past due owed by an obligor to the institution, the parent undertaking of that institution or any of its subsidiaries (‘credit obligation past due’). The maximum amount shall not exceed 100 EUR or the equivalent of that amount in the relevant national currency.\n\nThe relative component shall be expressed as a percentage reflecting the amount of the credit obligation past due in relation to the total amount of all on-balance sheet exposures to that obligor of the institution, the parent undertaking of that institution or any of its subsidiaries, excluding equity exposures. The percentage shall be between 0 % and 2,5 % and shall be set at 1 % whenever that percentage reflects a level of risk that the competent authority considers to be reasonable in accordance with Article 3\n\n3. The materiality threshold referred to in the second subparagraph of paragraph 1 shall be set in accordance with the conditions laid down in paragraph 2, with the only difference that ‘credit obligation past due’ and ‘total amount of all on-balance sheet exposures of the institution to that obligor, excluding equity exposures’ shall refer to the amounts of the credit obligation of the obligor that result from a single credit facility granted by the institution, the parent undertaking or any of its subsidiaries.\n\n4. When setting the materiality threshold in accordance with this Article, the competent authority shall take into account the risk characteristics of retail exposures and the specification of retail exposures as set out in Article 147 of Regulation (EU) No 575/2013 for banks applying the Internal Ratings Based Approach and in Article 123 of that Regulation for institutions that apply the Standardised Approach.\n\n5. When setting the materiality threshold in accordance with this Article, the competent authority shall assume that the obligor is defaulted when both the limit expressed as the absolute component of the materiality threshold and the limit expressed as the relative component of that threshold are exceeded either for 90 consecutive days or for 180 consecutive days, where all of the exposures included in the calculation of the credit obligation past due are secured by residential or SME commercial real estate and the 90 days have been replaced by 180 days in accordance with Article 178(1)(b) of Regulation (EU) No 575/2013 for those exposures.",
+      "text_sha256": "89c0344ed94630b70a30a72d85eeb7e59bb5d5fd1b34476105b8cd3f088e10b5",
+      "md_span": {
+        "start": 720,
+        "end": 3764
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. A competent authority shall set for all institutions in its jurisdiction a single materiality threshold for exposures other than retail exposures.\n\n2. The materiality threshold referred to in paragraph 1 shall be set in accordance with the conditions laid down in Article 1(2) with the only difference that the absolute component of that materiality threshold shall not exceed 500 EUR or the equivalent of that amount in the relevant national currency.\n\n3. When setting the materiality threshold in accordance with this Article, the competent authority shall take into account the risk characteristics of exposures other than retail exposures.\n\n4. When setting the materiality threshold in accordance with this Article, the competent authority shall assume that the obligor is defaulted when both the limit expressed as the absolute component of the materiality threshold and the limit expressed as the relative component of that threshold are exceeded either for 90 consecutive days or for 180 consecutive days, where the exposures included in the calculation of the credit obligation past due are exposures to a public sector entity and the 90 days have been replaced by 180 days in accordance with Article 178(1)(b) of Regulation (EU) No 575/2013 for those exposures.",
+      "text_sha256": "60f450d1b09fd48ed7497c8058b7443e6329653fb6e7c56355ebe364c1421532",
+      "md_span": {
+        "start": 3797,
+        "end": 5081
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nA competent authority shall consider that a materiality threshold reflects a reasonable level of risk, pursuant to the requirements in Article 178(2)(d) of Regulation (EU) No 575/2013, where that threshold neither leads to the recognition of an excessive number of defaults that are due to other circumstances than financial difficulties of an obligor nor to significant delays in the recognition of defaults that are due to financial difficulties of an obligor.",
+      "text_sha256": "1be8000edad8b92f05abd5ea31b81e885ee3c8c8419d343d6fe552ff0c26ecd6",
+      "md_span": {
+        "start": 5114,
+        "end": 5587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nA competent authority shall notify EBA of the materiality thresholds set in its jurisdiction. A component authority setting the relative component of the materiality threshold at a higher or lower percentage than 1 % shall substantiate that choice to EBA.",
+      "text_sha256": "7c3e18f66dffc1d13a8315755ed8a25b06817641cc25851d010c883f8ed94cf8",
+      "md_span": {
+        "start": 5620,
+        "end": 5886
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nWhere the absolute component of the materiality threshold is set in a currency other than the euro and where, due to volatility of currency exchange rates, the equivalent of that component is higher than 100 EUR for retail exposures or 500 EUR for exposures other than retail exposures, the threshold shall remain unchanged, unless the competent authority substantiates to EBA that the materiality threshold no longer reflects a level of risk that the competent authority considers to be reasonable.",
+      "text_sha256": "aa3b968292a67c1b80bc2f926c8443fddcdd2572d086cc299e82f7d5d03bce77",
+      "md_span": {
+        "start": 5919,
+        "end": 6429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nA competent authority shall set a date for the application of the materiality threshold which may vary for different categories of institutions but which shall be no later than 31 December 2020 for institutions using the Standardised Approach laid down in Part Three, Title II, Chapter 2 of Regulation (EU) 575/2013.",
+      "text_sha256": "8b80a1a6be90d537caffedd30ac3b256f79049dde38fb99d9e24878e8a2686e4",
+      "md_span": {
+        "start": 6462,
+        "end": 6789
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r0171:2017-10-19--a15b1ce4de3cb4a6208b98e63048481d1146d068943b0c7e009d833fd34e6b65#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 7 May 2018.",
+      "text_sha256": "68e3b9c7054fd2f4b0b73c95595651c3df5d81ee6acf8f519b37459b3707e32b",
+      "md_span": {
+        "start": 6822,
+        "end": 7006
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

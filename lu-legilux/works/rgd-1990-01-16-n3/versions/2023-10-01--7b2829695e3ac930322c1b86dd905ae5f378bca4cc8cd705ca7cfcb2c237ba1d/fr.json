@@ -1,0 +1,361 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2023 : Règlement grand-ducal du 16 janvier 1990 portant restructuration des cours de formation des juges et arbitres dans l'intérêt des fédérations et sociétés sportives.",
+  "valid_from": "2023-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1990-01-16-n3/versions/2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d/fr.xml",
+    "sha256": "6cc166d81b8ad3a294a44874106dd9adb3279a61dd4b2d5a4f8d6a88d6b219bf",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/consolide/20231001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_1er/20231001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-01",
+      "text_md": "La formation des juges et des arbitres dans l'intérêt des fédérations et sociétés sportives est assurée à l'Institut national de l’activité physique et des sports, ci-après « INAPS » en collaboration avec les fédérations intéressées.",
+      "text_sha256": "c204997c2ef672e515afd0c61c29056caeddb893b412b92669854455b35ccf91",
+      "md_span": {
+        "start": 765,
+        "end": 998
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_2/19900206",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "La fédération a l'initiative de l'organisation d'un cours dont le déroulement est fonction des besoins effectifs, des crédits budgétaires et des disponibilités des installations sportives.\n\nSi en raison d'un nombre insuffisant de candidats, ou à la suite de toute autre cause, l'organisation d'un cours ne peut avoir lieu, les candidats peuvent être autorisés à recevoir à l'étranger une formation équivalente sanctionnée par un examen.",
+      "text_sha256": "958b59217fc55fc6b9dbee3b4e8a06fe28b908472daf06e2f1f6431c2e5ab1e0",
+      "md_span": {
+        "start": 1033,
+        "end": 1469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_3/19900206",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "La formation des juges et arbitres comprend un ou plusieurs cycles de cours théoriques et pratiques suivis d'un stage pratique.",
+      "text_sha256": "60c5bc64a3c241c744107493d7e38988ddaf8dd215d4fb5cb5b22c7bb53fe55a",
+      "md_span": {
+        "start": 1504,
+        "end": 1631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_4/19900206",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Les programmes de formation sont déterminés en accord avec la fédération respective. Ils portent en principe sur les matières suivantes appliquées à la discipline sportive concernée\n\n1. cours théoriques et pratiques sur les règles régissant la discipline sportive en question;\n2. organisation administrative sur le plan fédéral;\n3. historique général, évolution sur le plan national;\n4. aspects psychologiques, sociologiques et pédagogiques de l'arbitrage;\n5. sciences biologiques appliquées aux sports;\n6. bases générales de la théorie de l'entraînement avec applications pratiques.",
+      "text_sha256": "b0680b333ec676c64259584e394faf0c839f2c0c997d17b826eafd95c9d23cf9",
+      "md_span": {
+        "start": 1666,
+        "end": 2249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_5/19900206",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Chaque cycle de cours doit comprendre un minimum de 8 périodes de 50 minutes et un stage de formation pratique.\n\nLes modalités du stage de formation pratique sont définies conformément aux lignes générales à arrêter par la commission consultative en collaboration étroite avec la fédération concernée.",
+      "text_sha256": "170da0cf32d9755c992e0d8b4bc8ad3e5c0fb38a38a436630fe2d40b9d7b7eac",
+      "md_span": {
+        "start": 2284,
+        "end": 2585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_6/19900206",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Pour être admis aux différents cycles de la formation des juges et arbitres les candidats doivent:\n\n- avoir atteint l'âge minimum requis par la fédération concernée\n- être en possession du brevet du cycle précédent\n\nSur initiative de la fédération concernée, l'admission aux cours des différents cycles peut être soumise à un contrôle préalable de l'aptitude physique et/ou à une moyenne générale dans l'épreuve pratique supérieure à celle requise dans le cycle précédent pour l'obtention du brevet correspondant. Dans ce cas, les candidats doivent satisfaire à la réglementation sur le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives ou présenter un certificat médical attestant leur aptitude aux efforts physiques.",
+      "text_sha256": "b2768a3a52736c07b5fa99c80eb1816fbe1e5686a7b229fd30a4a6f02733e418",
+      "md_span": {
+        "start": 2620,
+        "end": 3379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_7/20231001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-01",
+      "text_md": "Les demandes d'admission pour chacun des cycles sont à adresser à l'INAPS. En cas de non-admission, l'intéressé en est informé avec indication des motifs du refus.",
+      "text_sha256": "df1acc57fc7d7f87977db7d83bf4e275be04df680b33b510ceb42da822db4249",
+      "md_span": {
+        "start": 3414,
+        "end": 3577
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_8/19900206",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Des équivalences peuvent être établies pour des études ou formations faites à l'étranger et des dispenses de certains cours de la formation des juges et arbitres peuvent être accordées, sur le vu de pièces justificaives, en conformité avec les critères et modalités définis par la commission consultative.",
+      "text_sha256": "4d297e5bd5cefc554bfc966a40a57fb80d7ff7a808c882612aa730e156b53fa1",
+      "md_span": {
+        "start": 3612,
+        "end": 3917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_9/19900206",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "A la fin des cours de chacun des cycles, les candidats se soumettent à un examen en vue de l'obtention des brevets respectifs.",
+      "text_sha256": "91a2ce0e0a05fc020734728a1080b904e25a0c81afa2c7ebbb7e9c075bcdb1c2",
+      "md_span": {
+        "start": 3952,
+        "end": 4078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_10/19900206",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "L'examen pour l'obtention des brevets sanctionnant la formation de chaque cycle comporte des épreuves écrites, pratiques et, le cas échéant, orales portant sur les matières déterminées conformément à l'article 4 ci-dessus.",
+      "text_sha256": "15d0a00940094fd30384e5d005a0989ea5fde4058ee0aaf91f20864990fd8fea",
+      "md_span": {
+        "start": 4115,
+        "end": 4337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_11/20231001",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-01",
+      "text_md": "Le jury d'examen se compose:\n\n1. du commissaire du Gouvernement à l'éducation physique et aux sports\n2. du directeur de l'INAPS\n3. du président de la fédération\n4. de membres du corps chargé de l'enseignement dans la formation concernée.\n\nLes nominations des membres du jury d'examen ainsi que celles des chargés de cours sont faites par le ministre compétent sur proposition de la fédération concernée.\n\nLe jury d'examen est présidé par le commissaire du Gouvernement à l'éducation physique et aux sports ou, en l'absence de celui-ci, par le directeur de l'Ecole. Le jury désigne, parmi ses membres, son secrétaire et il prend les dispositions propres à assurer le fonctionnement régulier des opérations de l'examen.",
+      "text_sha256": "2914381b2c40ba20b28e0e96a0890ac2d3c49f685c87b8ff8e8a45c02844872b",
+      "md_span": {
+        "start": 4374,
+        "end": 5091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_11bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_11bis/19900206",
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Pour l’organisation d’une formation par l’INAPS, le nombre minimum de candidats inscrits est fixé à sept.\n\nLes frais relatifs à l’organisation d’une formation tels que définis à l’article 12, alinéas 1er et 2, sont pris en charge par l’INAPS à hauteur de 1,20 chargés de cours par heure et par tranche de candidats.",
+      "text_sha256": "afbec6fe8b43a2e86c8e3650c392a6f18fcd9f04fbd2ab1424a9fd08c1201896",
+      "md_span": {
+        "start": 5134,
+        "end": 5449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_12/20231001",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-01",
+      "text_md": "Les indemnités des chargés de cours sont fixées à 110 euros par heure de cours et d’examen.\n\nL’indemnité de correction d’un examen écrit est fixée à 20 euros par exemplaire corrigé.\n\nLes concepteurs d’une formation ou d’une partie de formation ont droit au tarif horaire de 60 euros.",
+      "text_sha256": "71a9dcab9b9982ce91c7821b70cba4aac173fb5c9070a9ff25b38ae6dabcb835",
+      "md_span": {
+        "start": 5486,
+        "end": 5769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12bis",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_12bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_12bis/20231001",
+      "type": "article",
+      "num": "Art. 12bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-01",
+      "text_md": "**(1)** La participation financière de l’INAPS aux formations initiales effectuées à l’étranger par les personnes visées à l’article 17, paragraphe 1er, de la loi du 29 juillet 2023 portant création de l’Institut national de l’activité physique et des sports est fixée à 80 pour cent des frais de participation.\n\n**(2)** La participation financière de l’INAPS aux formations continues effectuées à l’étranger par les personnes visées à l’article 17, paragraphe 2, de la loi précitée du 29 juillet 2023, est fixée à 50 pour cent des frais de participation.\n\n**(3)** La participation financière de l’INAPS comprend les frais d’inscription, ainsi que les frais de route et de séjour, dans la limite des montants équivalant aux pourcentages définis aux paragraphes 1er et 2 et dans la limite du montant maximal fixé à l’article 17, paragraphe 3, de la loi précitée du 29 juillet 2023.\n\n**(4)** La participation financière de l’INAPS visée aux paragraphes 1er et 2 est accordée par niveau de formation par périodes de douze mois, conformément aux conditions fixées à l’article 17 de la loi précitée du 29 juillet 2023.",
+      "text_sha256": "2c891e7b8e54196a724c3a8517f567d11bc15f656d713aad682868a79eb28111",
+      "md_span": {
+        "start": 5812,
+        "end": 6925
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/07/29/a589/jo",
+          "text": "loi du 29 juillet 2023"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2023/07/29/a589/jo",
+          "text": "loi précitée du 29 juillet 2023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_13/19900206",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Est refusé le candidat qui n'a pas obtenu le pourcentage des points requis soit dans l'épreuve concernant les règles de la discipline sportive concernée, soit dans plus de deux autres épreuves.\n\nEst également refusé le candidat qui a obtenu moins de 40% des points dans l'épreuve pratique.\n\nSur le vu des résultats d'examen, un candidat à une nouvelle session d'examen peut être dispensé de la fréquentation de certains cours et de certaines épreuves de l'examen.",
+      "text_sha256": "e968e9a4d3a254e0dc325025b8f32b1ce173fa4357fcb9517791c61006a0ea7c",
+      "md_span": {
+        "start": 6962,
+        "end": 7425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_14/19900206",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Est ajourné le candidat qui, sans préjudice des dispositions de l'article 13 du présent règlement, n'a pas obtenu le pourcentage des points requis dans une ou deux épreuves.",
+      "text_sha256": "f9d156b1b133e35ae8a62ca0ff241540c92be6d4099d42ebe7daea0f533adfb3",
+      "md_span": {
+        "start": 7462,
+        "end": 7635
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_15/19900206",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Des cours de recyclage sont organisés à l'intention des détenteurs des brevets de la formation des juges et arbitres. La périodicité, de même que les modalités d'organisation de ces cours sont déterminées en accord avec la fédération concernée.",
+      "text_sha256": "218904beb4c77844e6d94c0bb68897f02c9ffb104741153f4f4d8ddaa62e3335",
+      "md_span": {
+        "start": 7672,
+        "end": 7916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_16/19900206",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Le règlement grand-ducal du 14 novembre 1985 refixant les modalités des cours de formation des juges et arbitres dans l'intérêt des fédérations et sociétés sportives est abrogé.",
+      "text_sha256": "148b1cc687f1ecddcaa7634433943f8b2499b694e7460982e57cc322f473d3fb",
+      "md_span": {
+        "start": 7953,
+        "end": 8130
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1985/11/14/n4/jo",
+          "text": "règlement grand-ducal du 14 novembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1990-01-16-n3:2023-10-01--7b2829695e3ac930322c1b86dd905ae5f378bca4cc8cd705ca7cfcb2c237ba1d#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/art_17/19900206",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1990-02-06",
+      "text_md": "Notre Ministre ayant dans ses attributions l'éducation physique et le sport est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "f75a3e442e6653b0170bb0a8fe8ad70d54d59f1d5cf2b663febdc8d70f711fbc",
+      "md_span": {
+        "start": 8167,
+        "end": 8318
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012e114:2012-10-26--0f63840017cf06c15edccd5f6eee016b1e2661a84b2ef8d87c61837dd02fbbf1",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2012-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012e114/versions/2012-10-26--0f63840017cf06c15edccd5f6eee016b1e2661a84b2ef8d87c61837dd02fbbf1/fr.xml",
+    "sha256": "d0436723e899f9b6c14e1d2be03f8d02bcd68abcbc009d0dcd93e62b420b8f6a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E114"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012e114:2012-10-26--0f63840017cf06c15edccd5f6eee016b1e2661a84b2ef8d87c61837dd02fbbf1#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.10.2012 FR Journal officiel de l'Union européenne C 326/1 TRAITÉ SUR LE FONCTIONNEMENT DE L'UNION EUROPÉENNE (VERSION CONSOLIDÉE) TROISIÈME PARTIE LES POLITIQUES ET ACTIONS INTERNES DE L'UNION TITRE VII LES RÈGLES COMMUNES SUR LA CONCURRENCE, LA FISCALITÉ ET LE RAPPROCHEMENT DES LÉGISLATIONS CHAPITRE 3 LE RAPPROCHEMENT DES LÉGISLATIONS Article 114 (ex-article 95 TCE) 1. Sauf si les traités en disposent autrement, les dispositions suivantes s'appliquent pour la réalisation des objectifs énoncés à l'article 26. Le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire et après consultation du Comité économique et social, arrêtent les mesures relatives au rapprochement des dispositions législatives, réglementaires et administratives des États membres qui ont pour objet l'établissement et le fonctionnement du marché intérieur. 2. Le paragraphe 1 ne s'applique pas aux dispositions fiscales, aux dispositions relatives à la libre circulation des personnes et à celles relatives aux droits et intérêts des travailleurs salariés. 3. La Commission, dans ses propositions prévues au paragraphe 1 en matière de santé, de sécurité, de protection de l'environnement et de protection des consommateurs, prend pour base un niveau de protection élevé en tenant compte notamment de toute nouvelle évolution basée sur des faits scientifiques. Dans le cadre de leurs compétences respectives, le Parlement européen et le Conseil s'efforcent également d'atteindre cet objectif. 4. Si, après l'adoption d'une mesure d'harmonisation par le Parlement européen et le Conseil, par le Conseil ou par la Commission, un État membre estime nécessaire de maintenir des dispositions nationales justifiées par des exigences importantes visées à l'article 36 ou relatives à la protection de l'environnement ou du milieu de travail, il les notifie à la Commission, en indiquant les raisons de leur maintien. 5. En outre, sans préjudice du paragraphe 4, si, après l'adoption d'une mesure d'harmonisation par le Parlement européen et le Conseil, par le Conseil ou par la Commission, un État membre estime nécessaire d'introduire des dispositions nationales basées sur des preuves scientifiques nouvelles relatives à la protection de l'environnement ou du milieu de travail en raison d'un problème spécifique de cet État membre, qui surgit après l'adoption de la mesure d'harmonisation, il notifie à la Commission les mesures envisagées ainsi que les raisons de leur adoption. 6. Dans un délai de six mois après les notifications visées aux paragraphes 4 et 5, la Commission approuve ou rejette les dispositions nationales en cause après avoir vérifié si elles sont ou non un moyen de discrimination arbitraire ou une restriction déguisée dans le commerce entre États membres et si elles constituent ou non une entrave au fonctionnement du marché intérieur. En l'absence de décision de la Commission dans ce délai, les dispositions nationales visées aux paragraphes 4 et 5 sont réputées approuvées. Lorsque cela est justifié par la complexité de la question et en l'absence de danger pour la santé humaine, la Commission peut notifier à l'État membre en question que la période visée dans le présent paragraphe peut être prorogée d'une nouvelle période pouvant aller jusqu'à six mois. 7. Lorsque, en application du paragraphe 6, un État membre est autorisé à maintenir ou à introduire des dispositions nationales dérogeant à une mesure d'harmonisation, la Commission examine immédiatement s'il est opportun de proposer une adaptation de cette mesure. 8. Lorsqu'un État membre soulève un problème particulier de santé publique dans un domaine qui a fait préalablement l'objet de mesures d'harmonisation, il en informe la Commission, qui examine immédiatement s'il y a lieu de proposer des mesures appropriées au Conseil. 9. Par dérogation à la procédure prévue aux articles 258 et 259, la Commission et tout État membre peuvent saisir directement la Cour de justice de l'Union européenne s'ils estiment qu'un autre État membre fait un usage abusif des pouvoirs prévus par le présent article. 10. Les mesures d'harmonisation visées ci-dessus comportent, dans les cas appropriés, une clause de sauvegarde autorisant les États membres à prendre, pour une ou plusieurs des raisons non économiques visées à l'article 36, des mesures provisoires soumises à une procédure de contrôle de l'Union.",
+      "text_sha256": "49433e3e20476528381e45064381ec7c951c590d1cbe4abe74908cab50db3b2f",
+      "md_span": {
+        "start": 713,
+        "end": 5116
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

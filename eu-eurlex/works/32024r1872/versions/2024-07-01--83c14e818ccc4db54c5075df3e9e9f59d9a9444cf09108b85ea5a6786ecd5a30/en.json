@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/1872 of 1\u00A0July 2024 amending the implementing technical standards laid down in Implementing Regulation (EU)\u00A02016/1799 as regards the mapping tables specifying the correspondence between the credit risk assessments of external credit assessment institutions and the credit quality steps set out in Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1872/versions/2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30/en.xml",
+    "sha256": "4e69e52236edf32244e62d491426371f3b8d23260a49369aaa427fbde4816047",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1872"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2016/1799 is amended as follows:\n\nAnnex III is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "cf1ec124179298ecbb5eea6761e63e78e612c58829d0239b950b5febc705cf19",
+      "md_span": {
+        "start": 980,
+        "end": 1120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1872:2024-07-01--83c14e818ccc4db54c5075df3e9e9f59d9a9444cf09108b85ea5a6786ecd5a30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1153,
+        "end": 1304
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

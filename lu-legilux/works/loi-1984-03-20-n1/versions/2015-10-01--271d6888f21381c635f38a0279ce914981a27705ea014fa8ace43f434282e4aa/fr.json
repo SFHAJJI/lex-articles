@@ -1,0 +1,192 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2015 : Loi du 20 mars 1984 portant création d'une Ecole supérieure du Travail.",
+  "valid_from": "2015-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1984-03-20-n1/versions/2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa/fr.xml",
+    "sha256": "66dd8c82d907706d745108fd07fa20c5fbc1eb6899520895523d589b21ed2083",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/consolide/20151001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_1er/19840327",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "Il est institué une Ecole supérieure du Travail, ci-après dénommée «l´Ecole», qui est placée sous l´autorité du ministre ayant le travail dans ses attributions.",
+      "text_sha256": "46ed0679f632a35c05968e3ae2dca1dd3db1cde65cba74223e8fd8a6aeeea960",
+      "md_span": {
+        "start": 673,
+        "end": 833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_2/19840327",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "L´Ecole a pour mission de dispenser, le cas échéant, en collaboration avec d´autres instituts d´enseignement luxembourgeois, tant aux travailleurs salariés qu´aux travailleurs indépendants, un enseignement visant l´acquisition, le perfectionnement et l´adaptation de leurs connaissances, notamment dans les domaines de l´économie, de l´économie de l´entreprise, de la fiscalité, de la législation du travail, de la législation de la sécurité sociale et de la culture. Cet enseignement est organisé au moyen de cours, de conférences, de séminaires ou de colloques.\n\nElle peut être chargée notamment de la formation des délégués du personnel visée à l´article 26 de la loi modifiée du 18 mai 1979 portant réforme des délégations du personnel.",
+      "text_sha256": "720de0475150eb7c2c1641ecf58117737c45a9821e2b63b9a9abdc6557a8a7ec",
+      "md_span": {
+        "start": 868,
+        "end": 1608
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/05/18/n1/jo",
+          "text": "loi modifiée du 18 mai 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_3/19840327",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "**(1)** L´Ecole comprend un conseil administratif se composant de représentants du Gouvernement, de représentants des organsiations professionnelles des employeurs et de représentants des organisations syndicales des travailleurs les plus représentatives sur le plan national.\n\nLes membres titulaires et les membres suppléants du conseil administratif sont nommés par le ministre ayant le travail dans ses attributions.\n\nLa durée du mandat des membres du conseil est de six ans, leur mandat étant renouvelable.\n\nA l´expiration de leur mandat ou en cas de démission, les membres restent en fonction jusqu´à ce qu´il soit pourvu au renouvellement de leur mandat ou à leur remplacement.\n\nLes attributions, la composition numérique ainsi que les modalités de fonctionnement du conseil administratif sont fixées par règlement grand-ducal.\n\n**(2)** Le président du conseil administratif est nommé par le ministre du travail, sur proposition des membres qui le composent, pour un terme de deux ans; les propositions pour la nomination du président doivent être faites de manière à réaliser une alternance entre le groupe des représentants du Gouvernement, le groupe des représentants des employeurs et le groupe des représentants des travailleurs.",
+      "text_sha256": "bf0302a36bc2c83279e197890c6ad3c1bd9bc939e180c64613003d8c54da69e0",
+      "md_span": {
+        "start": 1643,
+        "end": 2883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_4/19840327",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "Le programme ainsi que les modalités d´organisation et de fonctionnement de l´Ecole sont arrêtés par le ministre du travail, sur proposition du directeur de l´Ecole et après consultation du conseil administratif.",
+      "text_sha256": "4279b5808674c1b1d1b4ec745aef99e63c9a833597b505514c51b61a37dee9b5",
+      "md_span": {
+        "start": 2918,
+        "end": 3130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_5/19840327",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "Les dépenses de fonctionnement de l´Ecole sont à charge du budget de l´Etat.\n\nL´enseignement de l´Ecole est gratuit. Il est accordé un certificat d´assiduité aux élèves qui ont régulièrement suivi les cours prévus dans le cadre d´un cycle complet de cours de formation.",
+      "text_sha256": "9097e39858d83926168d9dbbfe31e2e1cd8e3fa6d0a2c47d33cbf9352a795c5e",
+      "md_span": {
+        "start": 3165,
+        "end": 3434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_6/19840327",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "L´Ecole est dirigée par un fonctionnaire du cadre supérieur de l´Etat, nommé par le ministre ayant le travail dans ses attributions pour un terme renouvelable de six ans, le conseil administratif entendu en son avis. Pendant la durée de son mandat, il portera le titre de directeur.",
+      "text_sha256": "6e22cd5ca104f9e92289f1dd62a0889cb279071063c214e61e08b740d2d366ea",
+      "md_span": {
+        "start": 3469,
+        "end": 3751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_7/20151001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Le cadre du personnel comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.",
+      "text_sha256": "10c65f8ab2e303aeffbf29bc4ddceb42f9eb1f214a62c4a3c8db6a5759d39cc8",
+      "md_span": {
+        "start": 3786,
+        "end": 4029
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_8/19840327",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "Le directeur et le secrétaire assistent aux réunions du conseil administratif avec voix consultative.",
+      "text_sha256": "3b72c8a8a678b4f162f0326ecabb6ca052b2ca5d25bf573a25888f31513050b1",
+      "md_span": {
+        "start": 4064,
+        "end": 4165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1984-03-20-n1:2015-10-01--271d6888f21381c635f38a0279ce914981a27705ea014fa8ace43f434282e4aa#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/art_9/19840327",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-03-27",
+      "text_md": "**(1)** Par dérogation aux dispositions de l´article 7 ci-dessus et de celles de l´article 6bis de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionaires de l´Etat, le premier commis principal du ministère du travail et de la sécurité sociale chargé des fonctions de secrétaire de l´Ecole au moment de l´entrée en vigueur des dispositions de la présente loi y sera intégré moyennant une nomination à la fonction de premier commis principal. La nouvelle nomination comporte la jouissance du traitement découlant de sa nomination antérieure. Il est autorisé à porter le titre de secrétaire de l´Ecole.\n\nIl bénéficiera d´une indemnité mensuelle correspondant à 42 points indiciaires, la valeur numérique du point indiciaire étant déterminée conformément aux règles fixées par le législateur en matière de traitements des fonctionnaires de l´Etat.\n\n**(2)** L´emploi de la carrière moyenne du rédacteur prévu à l´article 7 ci-dessus ne pourra être occupé qu´après la cessation des fonctions du titulaire visé au paragraphe qui précède.\n\n**(3)** Par dérogation aux dispositions de l´article 7 de la présente loi, le fonctionnaire exerçant les fonctions d´huissier principal à l´Ecole au moment de l´entrée en vigueur de la présente loi, est placé hors cadre par dépassement des effectifs de l´administration gouvernementale. Il est promu jusqu´à la fonction d´huissier dirigeant inclusivement au moment où un collègue de rang égal ou immédiatement inférieur bénéficie d´une promotion.\n\n**(4)** Les membres du conseil administratif et le directeur de l´Ecole qui se trouvent en fonction le jour de l´entrée en vigueur de la présente loi achèveront leurs mandats respectifs jusqu´au terme normal de leur expiration.",
+      "text_sha256": "acaec6d6729cefdb168dc3ecd0c48800fa1a3eb116958dfa475ee2fa025917ef",
+      "md_span": {
+        "start": 4200,
+        "end": 5935
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,603 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/09/2019 : Loi du 25 juillet 2005 portant création d'un lycée-pilote.",
+  "valid_from": "2019-09-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2005-07-25-n2/versions/2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a/fr.xml",
+    "sha256": "7efb55c0071177d56a136569f4afecc4340092255cb1c337f2c3cf6b7c711b3e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il est créé un lycée-pilote public ayant pour mission de mettre en œuvre un enseignement et un encadrement éducatif intégrés des élèves.\n\nL'offre scolaire du lycée-pilote comprend un cycle d'orientation et un cycle de formation.",
+      "text_sha256": "b334ba4143a5abb69e9cb42536e81566a5d3e6c3086921389dd5129bf7c3f09b",
+      "md_span": {
+        "start": 660,
+        "end": 888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Le cycle d'orientation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le cycle d'orientation du lycée-pilote comporte les classes inférieures et la classe de 4e de l'enseignement secondaire classique ainsi que les classes inférieures de l'enseignement secondaire général.\n\nLes élèves y reçoivent une formation générale qui leur permet d'accéder à la fin du cycle d'orientation à une formation qui correspond à leurs capacités et à leurs aspirations et qui leur permet d'atteindre le socle de compétences tel qu'il est défini par règlement grand-ducal.",
+      "text_sha256": "b1817f536809ed86410b4b09754b2d03881db6890bd93cff317c93f8b22c3b23",
+      "md_span": {
+        "start": 980,
+        "end": 1461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Le cycle d'orientation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'organisation scolaire comprend :\n\n1. des unités d'enseignement ;\n2. des unités d'entreprise ;\n3. des séquences d'études ;\n4. des séquences de récréation ;\n5. des activités parascolaires ;\n6. un encadrement.\n\nLes unités d'enseignement et d'entreprise et les séquences d'études et de récréation sont organisées en alternance pendant huit heures quatre jours par semaine et pendant six heures un jour par semaine. Les élèves participent obligatoirement à un total de trente-deux unités d'enseignement et d'entreprise, ou de trente-quatre pour les élèves qui suivent les cours de latin ou de chinois, dont huit à dix unités d'entreprise, ainsi qu'aux séquences d'études et de récréation. La prise en commun des repas à l'école est obligatoire pour les élèves des classes de 7e, 6e et 5e.",
+      "text_sha256": "809fa75a5ea258ee65a845260486f112452d6d08ae896c75a798ae0b70f71472",
+      "md_span": {
+        "start": 1496,
+        "end": 2281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Le cycle d'orientation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l'enseignement secondaire classique et de septième à cinquième de l'enseignement secondaire général.\n\nL'enseignement est offert dans les « disciplines » suivantes:\n\n1. la « discipline » «langues» qui comprend les langues française, anglaise, allemande, latine « , chinoise »1 et luxembourgeoise;\n2. la « discipline » «mathématique»;\n3. la « discipline » «art et société» qui traite plus spécialement de l'histoire, de la géographie humaine, de l'éducation artistique et musicale, ainsi que de l'éducation civique;\n4. la « discipline » «vie et société»;\n5. la « discipline » «science et technique» qui traite plus spécialement de la physique, de la chimie, de la géographie physique, de la biologie ;\n6. la « discipline » «sport et santé» qui comprend l'éducation sportive et inclut des éléments de biologie humaine.\n\nLes lignes directrices des programmes des différentes « disciplines » et les grilles des horaires correspondantes sont fixées par règlement grand-ducal.",
+      "text_sha256": "af207e02bf38744805c3b858abd08469ae98ad67e9c2e479316fd4af709fa154",
+      "md_span": {
+        "start": 2316,
+        "end": 3387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Le cycle d'orientation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est constitué pour chaque élève un portfolio qui comprend:\n\n1. le journal de bord de l'élève où celui-ci inscrit des informations concernant son parcours scolaire et son projet personnel de formation. Le journal de bord sert d'outil d'auto-évaluation à l'élève;\n2. le dossier qui documente le parcours d'apprentissage personnel de l'élève. L'équipe pédagogique y réunit avec l'élève les documents représentatifs des travaux qu'il réalise au cours du cycle d'orientation. Des savoirs et des savoir-faire qui ne figurent pas dans les programmes et qui vont au-delà du socle de compétences peuvent également être inscrits dans le dossier. Les parents peuvent consulter le dossier de l'élève;\n3. le bulletin établi par l'équipe pédagogique qui y inscrit: 1. les performances et les acquis de l'élève dans chaque « discipline » relativement aux compétences définies par règlement grand-ducal;\n2. l'engagement dans chaque discipline ;\n3. une appréciation du travail de l'élève dans les unités d'entreprise à des fins d'orientation ;\n4. des observations du conseil de classe à des fins d'orientation ;\n5. les propositions de progression ou d'orientation émises par le conseil de classe « en fin d'année scolaire.\n\nLe bulletin est établi à la fin de chaque semestre et remis aux parents.",
+      "text_sha256": "07e508d162634e2de1e1a94b10e5bb63d8130a93f50137018bc768a2bd6239a2",
+      "md_span": {
+        "start": 3422,
+        "end": 4704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Le cycle de formation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le cycle de formation du lycée-pilote peut comprendre :\n\n1. les classes supérieures de 3e, 2e et 1re de l'enseignement secondaire classique ;\n2. les classes supérieures de l'enseignement secondaire général ;\n3. des classes de la formation professionnelle.",
+      "text_sha256": "8d3b4e6b75540a2115ad4b06d6599c5d874a7427e3222d8ca583e80d1dd54783",
+      "md_span": {
+        "start": 4802,
+        "end": 5057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5ter",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5ter.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Le cycle de formation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'organisation scolaire comprend :\n\n1. des unités d'enseignement ;\n2. des unités d'entreprise ;\n3. des séquences de direction des mémoires ;\n4. des séquences d'études ;\n5. des activités parascolaires ;\n6. un encadrement.\n\nLes élèves participent obligatoirement à un total de trente unités d'enseignement et d'entreprise, ou de trente-deux pour les élèves qui suivent les cours de latin ou de chinois, dont six unités d'entreprise en classes de troisième et de deuxième, ainsi qu'aux séquences de direction des mémoires, des séquences d'études et de récréation.",
+      "text_sha256": "758753d4bf1be6e6c4aa05291fc56a803b32f53b2816031eed2f9b3271119820",
+      "md_span": {
+        "start": 5098,
+        "end": 5658
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5quater",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5quater",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5quater.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Le cycle de formation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le programme du lycée-pilote comprend :\n\n1. la préparation indispensable au diplôme visé ;\n2. les unités d'entreprise ;\n3. un mémoire collectif en classe de troisième et un mémoire individuel en classe de deuxième.\n\nLes nombres des unités d'enseignement dans les différentes disciplines ainsi que les disciplines fondamentales sont fixés par règlement grand-ducal.",
+      "text_sha256": "32be94a2ac78a025bb3152fe94d3ca66a7a5102eedbe484469879cc165ce4a2e",
+      "md_span": {
+        "start": 5705,
+        "end": 6069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5quinquies",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5quinquies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5quinquies.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Le cycle de formation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est constitué pour chaque élève un portfolio qui comprend :\n\n1. le journal de bord de l'élève où celui-ci inscrit des informations concernant son parcours scolaire et son projet personnel de formation. Le journal de bord sert d'outil d'auto-évaluation à l'élève ;\n2. le dossier qui documente le parcours d'apprentissage personnel de l'élève. L'équipe pédagogique y réunit avec l'élève les documents représentatifs des travaux qu'il réalise au cours du cycle de formation. Des savoirs et des savoir-faire qui ne figurent pas dans les programmes peuvent également être inscrits dans le dossier. Les parents peuvent consulter le dossier de l'élève ;\n3. 3° le bulletin établi par l'équipe pédagogique qui y inscrit : 1. les notes obtenues dans chaque discipline ;\n2. une appréciation du travail de l'élève dans les unités d'entreprise, à des fins d'orientation ;\n3. une appréciation du mémoire, à des fins d'orientation, en fin d'année scolaire ;\n4. des observations du conseil de classe à des fins d'orientation ;\n5. la décision de promotion prise par le conseil de classe en fin d'année scolaire. Le bulletin est établi à la fin de chaque semestre et remis aux parents.",
+      "text_sha256": "39ac3940ced966801bc4b4eea6600552b89c60479a3141760accb549a7855de8",
+      "md_span": {
+        "start": 6122,
+        "end": 7292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5sexies",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5sexies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5sexies.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Le cycle de formation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "La rédaction de mémoires constitue un travail de recherche créative, de réflexion et de synthèse réalisé soit individuellement soit en groupe. Chaque mémoire fait l'objet d'une soutenance publique.\n\nEn classe de 3e, le mémoire réalisé en travail en groupe porte sur un sujet de culture générale. En classe de 2e, le mémoire individuel porte sur la spécialisation de l'élève.\n\nLe volume des mémoires est compris entre 7 500 et 10 000 mots.\n\nLes mémoires sont accompagnés par des directeurs de mémoire nommés par le directeur parmi les membres du personnel du lycée-pilote.",
+      "text_sha256": "ef418545ab429975b7f9e5d7c31e89a559050b0c52a55d0cb675164a70e9a9c4",
+      "md_span": {
+        "start": 7339,
+        "end": 7910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5septies",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_5septies",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5septies.",
+      "heading": null,
+      "path": [
+        "Chapitre II*bis*. — Les unités d'entreprise"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les unités d'entreprise initient aux pratiques économiques, sociales et écologiques dans un contexte de production.\n\nLes unités d'entreprise ont lieu dans des entités de production internes au lycée placées sous la gérance d'un personnel expérimenté dans la spécialité correspondante.\n\nLa tâche du personnel des entreprises consiste à offrir aux élèves une éducation entrepreneuriale. Elle comprend :\n\n1. la mise en place, le maintien et le développement d'une production de biens ou de services ;\n2. la conception, la réalisation et le développement d'une distribution ou d'une commercialisation ;\n3. la pérennisation de la production et de la distribution ;\n4. la recherche de moyens de production et de distribution respectueux de l'environnement et de la santé ;\n5. l'implication des élèves dans toutes les activités de l'entreprise ;\n6. la valorisation des spécialités correspondantes y compris au niveau professionnel ;\n7. l'utilisation des nouvelles technologies ;\n8. le soutien des élèves au niveau de la documentation de leurs activités au sein de l'entreprise ;\n9. l'organisation d'un accueil occasionnel d'élèves d'autres entreprises.",
+      "text_sha256": "7d6b6a2cc4eb552f15f9d4f01bbc1e2a8644956c3f0a43217b2e1787789a3aa3",
+      "md_span": {
+        "start": 8007,
+        "end": 9152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — L'encadrement des élèves"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'horaire hebdomadaire est agencé en vue de l'intégration de l'enseignement et de l'encadrement éducatif des élèves par des équipes pédagogiques composées d'enseignants et d'éducateurs gradués.\n\nLe directeur place plusieurs classes sous la responsabilité d'une équipe pédagogique, en charge des unités d'enseignement, ainsi que des séquences d'études. L'entité formée par l'équipe pédagogique et les classes dont elle a la responsabilité est appelée maison. L'équipe se concerte sur la progression des élèves, sur la conception des études et les mesures de perfectionnement à proposer. Elle coordonne les projets et assure leur caractère interdisciplinaire.\n\nChaque élève est suivi par un tuteur membre du personnel du lycée-pilote.\n\nLe tuteur est l'interlocuteur privilégié des parents et de l'élève en matière d'orientation. L'équipe pédagogique organise une disponibilité pour le tutorat.\n\nLa tâche des enseignants comporte une tâche d'enseignement et la concertation dans les équipes pédagogiques, la préparation et l'organisation des cours en commun, la disponibilité, la surveillance, des travaux administratifs ainsi que la participation à des séances de formation continue.\n\nLa tâche hebdomadaire de l'éducateur gradué comprend :\n\n1. la gestion d'une maison, en collaboration avec les enseignants et les élèves ;\n2. l'assurance d'une atmosphère chaleureuse et studieuse au sein de la maison ;\n3. l'organisation et la supervision des séquences d'études et de récréation ;\n4. le maintien de l'ordre et de la discipline ;\n5. la gestion des absences et des disponibilités ;\n6. l'organisation des réunions de concertation de l'équipe pédagogique ;\n7. l'encadrement socio-éducatif des élèves et l'assistance à des élèves en difficulté ;\n8. la représentation de la maison auprès de la direction.",
+      "text_sha256": "c57433ab4d1bdbd521001e0f01ed8eacea1f706535491ac986762803b2d0d2a2",
+      "md_span": {
+        "start": 9232,
+        "end": 11028
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — La structure participative"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'organisation du lycée-pilote est établie conformément aux dispositions de la loi du 25 juin 2004 portant organisation des lycées et lycées techniques, à l'exception des dispositions de l'article 20 relatives à la composition du conseil de classe et de celles de l'article 36 relatives à la composition du conseil d'éducation.",
+      "text_sha256": "4ae3fae54c2b16504a7cabea911c1b11debd587f481ef605b2723e637b7b6271",
+      "md_span": {
+        "start": 11109,
+        "end": 11436
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — La structure participative"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation aux dispositions de l'article 20 de la loi du 25 juin 2004 portant organisation des lycées et lycées techniques, il est institué pour chaque classe un conseil de classe composé des titulaires des élèves de la classe, des tuteurs concernés, des éducateurs gradués de l'équipe pédagogique concernée, du directeur du lycée ou de son délégué, ainsi que d'un représentant du service psycho-social et d'accompagnement scolaires.",
+      "text_sha256": "2fbdaeebc10a5cd5bf5fa06940cb1c1469812d87022e3a8d4566cb0db6fdc0df",
+      "md_span": {
+        "start": 11471,
+        "end": 11908
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — La promotion au cycle d'orientation"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pendant le cycle d'orientation, à la fin de chaque année scolaire, le conseil de classe propose sur la base du dossier et du bulletin, documentant dans quelle mesure l'élève a développé le socle de compétences pour suivre avec fruit l'enseignement dans la classe subséquente, aux parents:\n\n1. soit de faire avancer l'élève dans la classe suivante du même ordre ou régime d'enseignement;\n2. soit de l'orienter vers une classe subséquente d'un ordre ou régime d'enseignement mieux adapté à ses capacités et ses aspirations;\n3. soit de faire redoubler l'élève.\n\nLes parents avalisent la proposition de progression ou d'orientation faite par le conseil de classe. Dans le cas contraire, les parents et l'élève s'engagent à prendre les dispositions préconisées par le conseil de classe pour assurer le progrès de l'élève dans la classe suivante. Au milieu du premier semestre, le conseil de classe apprécie si l'élève et les parents respectent les dispositions préconisées. À défaut, le conseil de classe décide de réorienter l'élève.",
+      "text_sha256": "1b66a06337241ea9018b233d9171d85926c382860fa4267a6131b093777581e6",
+      "md_span": {
+        "start": 11997,
+        "end": 13026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — La promotion au cycle d'orientation"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est institué un jury auquel, à la fin du cycle d'orientation, l'équipe pédagogique présente le dossier et le bulletin de l'élève ainsi qu'un avis de promotion et d'orientation.\n\nChaque jury comprend:\n\n1. un enseignant qui peut se prévaloir d'une expérience d'enseignement dans les classes supérieures de l'enseignement secondaire général ;\n2. un enseignant qui peut se prévaloir d'une expérience d'enseignement dans les classes de la formation professionnelle initiale ou de la formation professionnelle de base ;\n3. deux enseignants qui peuvent se prévaloir d'une expérience d'enseignement dans les classes supérieures de l'enseignement secondaire classique ;\n4. le directeur du lycée-pilote ou son délégué.\n\nLes enseignants qui sont membres du jury sont choisis parmi des titulaires enseignant dans des lycées autres que le lycée-pilote et ils sont nommés par le ministre.\n\nLe jury prend une décision de promotion et d'orientation. Il vérifie si l'élève a suffisamment développé le socle de compétences pour suivre avec fruit l'enseignement dans l'ordre, le régime et la section qu'il a visés dans son projet de formation. Il prend également en considération l'avis exprimé par ses parents.\n\nL'élève peut demander à être entendu par le jury. Le jury peut également demander à entendre un élève. Le jury prend sa décision à la majorité des voix.\n\nLes membres du jury touchent une indemnité à fixer par le Gouvernement en conseil.",
+      "text_sha256": "73985e2eee2a2589b59eb919e87a6e5fbbbbeb2b32b4a3ceccf75396ece0042f",
+      "md_span": {
+        "start": 13063,
+        "end": 14496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — La promotion au cycle d'orientation"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pour l'élève de l'enseignement secondaire général, le jury prend l'une des décisions suivantes :\n\n1. il admet l'élève à une classe de 4e de l'enseignement secondaire classique ou général ou à la formation professionnelle initiale en fonction des profils d'accès que l'élève a atteints ;\n2. il donne à l'élève la possibilité de redoubler la classe ou lui propose une orientation vers une classe IPDM.\n\nPour l'élève de l'enseignement secondaire classique, le jury prend l'une des décisions suivantes :\n\n1. il admet l'élève en classe de 3e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;\n2. il oriente l'élève vers une classe de 4e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints ;\n3. il donne à l'élève la possibilité de redoubler la classe.\n\nAvec l'accord de l'élève et de ses parents, l'équipe pédagogique d'un élève de la classe de 5e de l'enseignement secondaire classique peut soumettre le dossier et le bulletin de l'élève au jury qui peut prendre l'une des décisions suivantes :\n\n1. il admet l'élève en classe de 3e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;\n2. il oriente l'élève vers une classe de 4e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints.",
+      "text_sha256": "0a43b6d15edd63e700fdbea595e8ce4584dd18214191d06af38c1c54cbb67037",
+      "md_span": {
+        "start": 14533,
+        "end": 15874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_11bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — La promotion au cycle de formation"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pendant le cycle de formation, la promotion des élèves se fait sur la base de l'évaluation des disciplines et des ajournements.\n\nPour chaque discipline, le titulaire attribue chaque semestre une note entière comprise entre un et six, un constituant la meilleure note, les notes quatre, cinq et six étant considérées comme insuffisantes. La note annuelle d'une discipline est la moyenne des notes semestrielles, arrondie vers l'unité inférieure.\n\nL'élève qui a une note suffisante dans toutes les disciplines réussit l'année. L'élève qui a une note insuffisante dans plus d'un tiers des disciplines échoue.\n\nDans tous les autres cas, les notes insuffisantes peuvent donner lieu à des ajournements, selon les critères suivants :\n\n1. toute note annuelle cinq ou six donne lieu à un ajournement ;\n2. toute note annuelle insuffisante dans une discipline fondamentale donne lieu à un ajournement ;\n3. pour toute note annuelle quatre dans une discipline non fondamentale, le conseil de classe décide d'un ajournement dans le cas où il estime, sur base du dossier, que l'élève n'a pas développé les compétences suffisantes pour suivre avec succès l'enseignement dans la classe subséquente.\n\nUn ajournement est une épreuve écrite portant sur une partie du programme traité au cours de l'année, évaluée indépendamment par deux correcteurs sur six points. Un ajournement est réussi quand la moyenne des notes attribuées est suffisante.\n\nL'élève ajourné réussit l'année à condition qu'il ait réussi chaque ajournement.\n\nLe conseil de classe attribue à un élève une mention globale « bien », « très bien » ou « excellent ». La mention globale se rapporte au portfolio ainsi qu'à l'engagement et à la participation.",
+      "text_sha256": "f3f434f697e3f9b2902d0f360a413b0de984e61a5a5dcede06b1319abf8cfecd",
+      "md_span": {
+        "start": 15971,
+        "end": 17672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11ter",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_11ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11ter.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — La promotion au cycle de formation"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'examen de fin d'études secondaires des élèves du lycée-pilote est identique à celui prévu pour les élèves des autres lycées.",
+      "text_sha256": "978fb11116aec9bec787f1411706c035b05dc9e1668d3de51a8392fb10b15a4c",
+      "md_span": {
+        "start": 17715,
+        "end": 17841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le cadre du personnel comprend un directeur, un nombre maximal de deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.\n\nIl peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l'État.",
+      "text_sha256": "61e8038b0ccb3a0fc8e8b799e40a58452d2df833dd240ce9fdb600a9ae5f3c9e",
+      "md_span": {
+        "start": 17927,
+        "end": 18340
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13bis",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_13bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13bis.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l'article 3, paragraphe 1er, lettre e) de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État, les employés relevant du sous-groupe administratif engagés pour les besoins spécifiques des unités d'entreprise doivent remplir les conditions particulières suivantes :\n\n1. se prévaloir d'une expérience professionnelle d'au moins cinq ans dans la spécialité demandée ;\n2. loi du 24 février 1984\n3. pour les employés en charge de la gérance d'une unité d'entreprise, être détenteur d'au moins un diplôme d'aptitude professionnelle ou d'un diplôme reconnu équivalent.\n\nLa tâche normale des employés en charge des unités d'entreprise est fixée à quarante heures par semaine. Le congé de récréation est pris pendant la période des vacances et des congés scolaires.\n\nEn période scolaire, la tâche hebdomadaire des employés en charge des unités d'entreprise est de quarante-quatre heures.\n\nLes quatre heures supplémentaires cumulées en période scolaire sont récupérées pendant la période des vacances et des congés scolaires pendant l'année scolaire en cours.",
+      "text_sha256": "24f6926a15e564dba9156d49e86986c2eaa9d49c86afd9624ebf5a4f029da39b",
+      "md_span": {
+        "start": 18383,
+        "end": 19491
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les qualifications du directeur et du directeur adjoint de l'établissement sont celles requises dans les lycées ou les lycées techniques.",
+      "text_sha256": "87eb0d6fbac2de8adce8c07861578fc4be79f1df43605acd6b111de526945368",
+      "md_span": {
+        "start": 19528,
+        "end": 19665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14bis",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_14bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14bis.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'offre scolaire comprend un restaurant scolaire et un internat, placés sous la responsabilité du directeur du lycée-pilote.",
+      "text_sha256": "94ca4c336903723d37df9236f9002ebd577ed318786f8b8e9c0fce80eb07998c",
+      "md_span": {
+        "start": 19708,
+        "end": 19832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14ter",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_14ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14ter.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le lycée-pilote est autorisé à percevoir des recettes pour des prestations issues des entreprises et à effectuer des dépenses pour les besoins des entreprises.",
+      "text_sha256": "bf1735194f3bd3a5f30d7175c4eb7ee319e80b65beaad396237424c97713b1cb",
+      "md_span": {
+        "start": 19875,
+        "end": 20034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:\n\n1. 1 psychologue;\n2. 1 assistant social ou d'hygiène sociale;\n3. 14 éducateurs gradués (ou éducateurs)1;\n4. 1 rédacteur faisant fonction de secrétaire;\n5. 1 bibliothécaire-documentaliste;\n6. 2 employés de l'État de la carrière D;\n7. 3 artisans;\n8. 1 concierge;\n9. 1 garçon de salle.",
+      "text_sha256": "b3cb3174e66c8fa6ad2c5458ff809b4936d931753a261ea346099a2072b2fa3b",
+      "md_span": {
+        "start": 20071,
+        "end": 20454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre VII. — Le personnel du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les engagements définitifs au service de l'État résultant des dispositions de l'article 15 se font par dépassement de l'effectif total du personnel et en dehors du nombre des engagements de renforcement déterminés par les lois budgétaires pour les exercices futurs.",
+      "text_sha256": "ba622b63a3926a4fe18f49b9a585273e3e0bf1f3bd8f8525e1a3a7e27102ff7f",
+      "md_span": {
+        "start": 20491,
+        "end": 20756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre VIII. — Évaluation du lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le fonctionnement du lycée-pilote fait l'objet d'une évaluation continue et un bilan est établi au plus tard cinq années après l'entrée en vigueur de la présente loi.",
+      "text_sha256": "6ca2a7015f4291d1a3f770dbb8599f538dd5a203d6d342a3793a5f7efcab8984",
+      "md_span": {
+        "start": 20841,
+        "end": 21007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre IX. — Admission au lycée-pilote"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les élèves sont admis dans la première année du cycle d'orientation en fonction de l'avis d'orientation qui leur a été délivré à la fin du cycle 4 de l'enseignement fondamental. Ils sont répartis dans une classe correspondant soit à une classe de 7e de l'enseignement secondaire classique, soit à une classe de 7e de la voie d'orientation de l'enseignement secondaire général, soit à une classe de 7e de la voie de préparation de l'enseignement secondaire général .\n\nLes élèves en provenance d'un autre lycée sont admissibles à une classe correspondante de l'enseignement secondaire et vice versa.\n\nLes élèves qui l'année précédente n'ont pas fréquenté une classe d'un lycée du pays sont admis suivant les dispositions réglementaires en vigueur.\n\nLe lycée-pilote n'est pas soumis à la disposition de l'inscription prioritaire telle que définie à l'article 37 de la loi du 25 juin 2004 portant organisation des lycées.",
+      "text_sha256": "f1fbdf25bd245cd6f2aa0d429c98d71b5154ef472f7196d0c84f6225989c296b",
+      "md_span": {
+        "start": 21089,
+        "end": 22006
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2005-07-25-n2:2019-09-16--f5cb8e0dc3b6a688b2e133c5149821318b985184c3ae69324e660e39c4a6d83a#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre X. — Disposition dérogatoire"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l'alinéa 1 de l'article 47 de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement, titre VI: de l'enseignement secondaire, l'enseignement des langues vivantes dans les classes de 7e du lycée-pilote comprend les langues française, allemande, luxembourgeoise et anglaise.",
+      "text_sha256": "8a714787bd11d646e14e6293681c850ec6ca0ee9e63b7e57d2cd9d38ad896fbb",
+      "md_span": {
+        "start": 22085,
+        "end": 22384
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1968/05/10/n1/jo",
+          "text": "loi modifiée du 10 mai 1968"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

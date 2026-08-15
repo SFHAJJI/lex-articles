@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1093:2025-05-22--a9a16fd8ae920339bf1afefdf7e7f24271c58e6861028dadef8ba02f8492a80e",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1093 of 22\u00A0May 2025 laying down rules for the application of Regulation (EU)\u00A02023/1115",
+  "valid_from": "2025-05-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1093/versions/2025-05-22--a9a16fd8ae920339bf1afefdf7e7f24271c58e6861028dadef8ba02f8492a80e/en.xml",
+    "sha256": "fcde4a646865e52000956d4b43eb3a58a2bee0e0d3540f180720231782c2e5af",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1093"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1093:2025-05-22--a9a16fd8ae920339bf1afefdf7e7f24271c58e6861028dadef8ba02f8492a80e#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The countries that present a low, or high risk, shall be those listed in the Annex.\n\n2. A standard level shall be maintained for all countries not listed in the Annex.",
+      "text_sha256": "31dadd0bedb411d66bb163ab7ce8a0087aeeb09a81480c9983b9df1b62c7be12",
+      "md_span": {
+        "start": 742,
+        "end": 923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1093:2025-05-22--a9a16fd8ae920339bf1afefdf7e7f24271c58e6861028dadef8ba02f8492a80e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 956,
+        "end": 1103
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

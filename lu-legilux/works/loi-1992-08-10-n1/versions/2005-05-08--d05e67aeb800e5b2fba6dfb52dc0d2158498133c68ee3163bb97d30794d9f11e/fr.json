@@ -1,0 +1,1078 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 29/11/2025 : Loi du 10 août 1992 portant création de l’entreprise des postes et télécommunications.",
+  "valid_from": "2005-05-08",
+  "valid_to": "2011-07-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1992-08-10-n1/versions/2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e/fr.pdf-memorial/eli-etat-leg-memorial-2006-a170-fr-pdf.pdf",
+    "sha256": "59cc3003cd06bb4309bbf354ab90c59b10e4d771461c218c5e8d6b4625cb5707",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20050508/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Il est créé un établissement public dénommé «Entreprise des postes et télécommunications». Cet établissement jouit de l’autonomie financière et administrative et est doté de la personnalité juridique. Dans les dispositions qui suivent, il est désigné par les termes «l’entreprise». (2) L’entreprise est placée sous la haute surveillance du membre du Gouvernement ayant les postes et les télécommunications dans ses attributions. Dans les dispositions qui suivent, ce dernier est désigné par les termes «Ie ministre compétent».",
+      "text_sha256": "b6e0094869a2b4fed9fd7c5c0d15b26960bfd4e9a420f70a139315bb88659fc5",
+      "md_span": {
+        "start": 702,
+        "end": 1232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L’entreprise a son siège à Luxembourg. (2) Pour la réalisation de son objet, l’entreprise peut créer des filiales et établir des succursales, des sièges administratifs, notamment régionaux, des bureaux, des agences et des relais.",
+      "text_sha256": "d621be245a469e5a439dd9b57c9cf29082e711198648c8a84f9aaa1fb8da2a9b",
+      "md_span": {
+        "start": 1267,
+        "end": 1500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L’entreprise a pour objet la prestation: – de services postaux; – de services financiers postaux; – de services de télécommunications. «(2) (Loi du 15 décembre 2000) A cet effet, l’Etat concède à l’entreprise l’exploitation de services réservés à l’Etat tels que définis par les lois en vigueur ou à prendre dans les matières relevant de l’objet de l’entreprise.» (3) L’entreprise peut faire en outre toutes autres prestations se rattachant directement ou indirectement à son objet ou tendant à favoriser la réalisation de celui-ci. (4) Les prestations visées aux paragraphes précédents sont effectuées en ordre principal au Grand-Duché de Luxembourg et subsidiairement à l’étranger. (5) Les opérations de l’entreprise sont réputées être des actes de commerce. (6) Les actions judiciaires à soutenir par l’entreprise, soit en demandant soit en défendant, sont valablement poursuivies et les exploits pour ou contre elle sont valablement faits au nom de l’entreprise seule. Tous assignations, citations, significations, notifications, oppositions, sommations et commandements concernant l’entreprise ainsi que tous autres actes de procédure ne sont valablement faits qu’au siège de l’entreprise.",
+      "text_sha256": "ba1caa0aaf7a0972e5f81253f26554c0deb288d4b86b34387b88ee5eb108bb00",
+      "md_span": {
+        "start": 1535,
+        "end": 2733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Le droit de concession comporte, dans le chef de l’entreprise, les activités suivantes:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. L’accomplissement de toutes autres missions dont elle est chargée par des lois ou des règlements ou qui lui sont confiées par décision du Gouvernement en conseil. Ces dernières missions font l’objet de conventions à conclure entre l’Etat et l’entreprise qui pourront prévoir une indemnisation des services rendus. 3092 «2. (Loi du 15 décembre 2000) L’exécution des droits et obligations résultant pour l’Etat luxembourgeois de sa participation à des accords internationaux existants ou futurs dans les matières relevant de l’objet de l’entreprise. L’entreprise est également subrogée dans les droits et obligations de l’Etat résultant des accords ou contrats existant en ces matières au niveau national.» 3. La charge de la confection, de l’émission, de la vente et de la gestion des stocks des valeurs postales de tous genres, destinées à l’affranchissement du courrier et aux besoins du marché philatélique. Elle arrête le programme annuel des émissions de valeurs postales et surveille son exécution. «4. (Loi du 21 mars 1997) L’exercice des activités de support et accessoires nécessaires à la prestation de ses services et au bon fonctionnement de l’exploitation.» TITRE Il. – ORGANES DE L’ENTREPRISE",
+      "text_sha256": "ea15c7d8eb33ddfe5858f9c18872f413c5dd5f70d48fdc3589e13ef95c525e34",
+      "md_span": {
+        "start": 2856,
+        "end": 4064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Les organes de l’entreprise sont le conseil d’administration et le comité de direction. Dans les dispositions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "qui suivent, le conseil d’administration est désigné par les termes «Ie conseil» et le comité de direction par «Ie comité».",
+      "text_sha256": "d773b93c40f310c854e9ea450df1f1d4e722e61359712430dc7a6a9608456b0f",
+      "md_span": {
+        "start": 4209,
+        "end": 4332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Le conseil définit la politique générale de l’entreprise et contrôle la gestion du comité. Toutes les décisions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "nécessaires ou utiles à la réalisation de l’objet de l’entreprise sont de la compétence du comité, sous réserve des approbations requises en vertu de la présente loi.",
+      "text_sha256": "197e6f26ef609d8b3000c6963d11c6135b2de44b02d1c18ad9c21c74a3b253e8",
+      "md_span": {
+        "start": 4479,
+        "end": 4645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le conseil exerce les attributions suivantes:",
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) a) Il définit la politique tarifaire générale en relation avec les services pour lesquels l’entreprise bénéficie de droits exclusifs ou spéciaux; b) il approuve les comptes annuels et décide de l’affectation du bénéfice; c) il approuve le recours à l’emprunt pour le financement des investissements; d) il approuve la constitution de sociétés filiales et l’établissement de succursales; e) il propose le ou les réviseurs d’entreprises; f) il approuve le budget annuel d’investissement; g) il approuve la prise de participations dans des sociétés publiques ou privées, ainsi que la cession de participations dans ces sociétés; (2) a) il définit la politique générale de l’entreprise en matière de services offerts; b) il établit le règlement d’ordre intérieur du conseil; (3) a) il approuve le budget annuel de fonctionnement; b) il approuve l’organigramme général de l’entreprise et la détermination des sièges administratifs, notamment régionaux, des bureaux, agences et relais; c) il approuve l’état des effectifs du personnel; d) il autorise les indemnités, primes, suppléments de rémunération et autres avantages concédés au personnel sous réserve des autres approbations requises; e) il approuve les acquisitions, aliénations et échanges d’immeubles; f) il approuve les conventions à conclure entre l’Etat et l’entreprise et visées à l’article 4 point 1.; g) il approuve le règlement d’ordre intérieur du comité de direction; h) il approuve la politique tarifaire générale pour tous les autres services que ceux mentionnés sous 7 (1) a; Le comité transmet au conseil les avis émis par les représentations agréées respectivement légales du personnel dans le cadre des consultations du personnel imposées par la législation. Le conseil est en droit d’obtenir du comité tout document et tout renseignement, de procéder à toute vérification nécessaire à l’exercice de ses attributions et de demander des propositions sur les matières dont il a à délibérer. (4) Les conditions générales des contrats offerts par l’entreprise, conditions fixées et révisables par le conseil, sont publiées par l’entreprise. Les références aux publications et à leurs modifications sont insérées au Mémorial, Recueil administratif et économique au moins six jours francs avant la mise en vigueur.",
+      "text_sha256": "5276d988d7c8c64fe35b739717caa1d9f57eaade3e704a8ae5406001f7799a5e",
+      "md_span": {
+        "start": 4754,
+        "end": 7035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le conseil se compose de douze membres. (2) Six membres du conseil représentant l’Etat sont nommés par le Grand-Duc sur proposition du Gouvernement en conseil. (3) Deux membres sont nommés par le Grand-Duc sur proposition du Gouvernement en conseil sur proposition du ministre compétent parmi les usagers des services de l’entreprise, des experts en la matière ou d’autres personnalités du secteur privé, choisies en raison de leur compétence professionnelle. (4) Quatre représentants du personnel - dont un représentant le personnel ouvrier de l’entreprise - sont élus par et parmi le personnel de l’entreprise, sans que pour autant une des carrières puisse disposer de plus d’un membre au conseil. L’élection du représentant du personnel ouvrier se fait par analogie aux dispositions prévues par la loi du 6 mai 3093 1974 instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes. L’élection des représentants des agents tombant sous le statut de la Fonction publique se fait au scrutin de liste direct et secret. Les règles de répartition des sièges et de désignation de ces membres et les modalités de l’exercice de leurs fonctions sont fixées par règlement grand-ducal. (5) Le Directeur général ou son remplaçant participe de plein droit avec voix consultative aux réunions du conseil.",
+      "text_sha256": "b4671d30cb37c049b11834fc4c1ad5ab6ce53e555ce040e51a33803a93425b1b",
+      "md_span": {
+        "start": 7070,
+        "end": 8446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le Gouvernement désigne parmi les membres représentant l’Etat un président et un vice-président du conseil qui ont pour mission de présider les réunions du conseil. (2) Les délibérations du conseil sont prises à la majorité simple. En cas d’égalité des voix, celle du président ou de son remplaçant est prépondérante.",
+      "text_sha256": "59433815ca0a9fe2c8a37ebcd80d5e08fb6401789168b98ffd2d734acd858904",
+      "md_span": {
+        "start": 8481,
+        "end": 8802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le mandat de membre du conseil est incompatible: – avec la qualité de membre du Gouvernement; – avec tout mandat d’administrateur ou toute fonction rémunérée auprès d’institutions ou d’entreprises privées qui compromettrait l’indépendance de l’entreprise ou pourrait porter atteinte ou être contraire aux intérêts de cette dernière; – avec la qualité de membre du personnel, sauf les représentants du personnel. (2) Des parents ou alliés jusqu’au troisième degré inclusivement ne peuvent être simultanément membres du conseil.",
+      "text_sha256": "61ea207523af1d05a18ed2bb030dfb580c6416d477dd1e57b3cfc66f30a7b693",
+      "md_span": {
+        "start": 8839,
+        "end": 9369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) La durée du mandat des membres du conseil est de cinq ans. Leur mandat est renouvelable. (2) En cas de vacance d’un siège de membre par suite de décès, de démission, de révocation, d’incapacité durable ou d’incompatibilité, il est pourvu dans le délai d’un mois à la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace. Pour les représentants du personnel le membre suivant, sur la même liste, achève le mandat de celui qu’il remplace. L’incapacité durable est reconnue, si un membre n’a pu assister pendant la durée d’un an aux réunions du conseil. (3) Tout mandat de membre du conseil cesse de plein droit lorsque ce membre aura atteint l’âge de 72 ans accomplis. (4) Le membre représentant le personnel perd de plein droit son mandat à partir du moment où il n’occupe plus soit définitivement soit temporairement un emploi salarié à plein temps auprès de l’entreprise ou s’il est appelé à exercer la fonction de membre du comité de direction. Un membre du personnel reste éligible s’il bénéficie, tout en restant salarié de l’entreprise, d’un congé syndical le déchargeant partiellement ou totalement de ses fonctions au sein de l’entreprise même.",
+      "text_sha256": "5a29f625417ca7cf0ac296df3358f05f7782cc8fcb20c16ead8bf0fdbb1a03e2",
+      "md_span": {
+        "start": 9406,
+        "end": 10584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Au cas où des dissensions graves entravent la bonne marche de l’entreprise le Grand-Duc, sur proposition",
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "du Gouvernement en conseil, peut dissoudre le conseil. Cette mesure entraîne le renouvellement de tous les administrateurs dans le mois suivant la dissolution. Elle ne peut être prise de nouveau avant l’expiration d’un délai d’un an à compter du renouvellement intégral.",
+      "text_sha256": "9fc73290c6c28a56b65374b38577bea958b2216cadf42cfb7876bc3ba0fb916c",
+      "md_span": {
+        "start": 10726,
+        "end": 10996
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les réunions du conseil sont convoquées et présidées, les ordres du jour sont fixés et les délibérations sont dirigées par le président ou, en cas d’empêchement de celui-ci, par le vice-président ou, à leur défaut, par le doyen d’âge des membres du conseil présents représentant l’Etat. (2) Le conseil se réunit aussi souvent que l’intérêt de l’entreprise l’exige, mais au moins une fois tous les trois mois. Les réunions du conseil doivent être convoquées de façon qu’elles soient tenues dans la huitaine, lorsque le comité ou quatre membres au moins le requièrent par une demande écrite indiquant l’ordre du jour proposé et les motifs de la convocation. (3) Tout membre a le droit de faire figurer des propositions à l’ordre du jour. Il doit adresser ses propositions par écrit au président du conseil. Le conseil ne délibère que sur les points portés à l’ordre du jour à moins que l’urgence d’une proposition faite au début de la séance ne soit reconnue par 2/3 au moins des membres présents. (4) Les délibérations du conseil sont valables si la majorité des membres est présente. Le mandat ne peut être donné qu’à un autre membre du conseil. Un membre du conseil ne peut représenter qu’un seul autre membre. (5) Le secrétariat est assuré par la direction générale. (6) Les indemnités et jetons de présence des membres du conseil sont fixés par le Gouvernement et sont à charge de l’entreprise, de même que les frais de voyage et autres frais engagés par le conseil dans l’intérêt de l’entreprise.",
+      "text_sha256": "2a9b3f2d0d4ebfeb8a2953189d333a2acccc6c5456764e749ce00c4839ac5adb",
+      "md_span": {
+        "start": 11033,
+        "end": 12537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "En dehors des communications que le conseil décide de rendre officielles, les membres du conseil, le",
+      "path": [
+        "Chapitre 1er. – Conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "secrétaire et toute autre personne appelée à assister aux réunions sont tenus de garder le secret des délibérations et des votes du conseil ainsi que de tous documents et renseignements ayant un caractère confidentiel. Les affaires concernant le personnel et ayant un caractère général sont exemptes d’une mise au secret, à moins que le conseil n’en décide autrement.",
+      "text_sha256": "d9fc1b487a684fddf5fbe56d487a2140a8ac62f7ca5978a8b118a6bb815f1ef1",
+      "md_span": {
+        "start": 12675,
+        "end": 13042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) L’entreprise est dirigée par un comité qui se compose d’un directeur général, de deux directeurs généraux adjoints et de deux directeurs. 3094 (2) Il est présidé par le directeur général qui est autorisé à porter le titre de président du comité de direction. En cas d’absence le directeur général est remplacé par le membre du comité de direction présent le plus ancien en rang. (3) Il prend ses décisions en tant que collège. (4) Dans l’intérêt d’une bonne administration et gestion de l’entreprise, le comité répartit ses tâches entre ses membres. A cet effet, il peut déléguer à ses membres, dans les limites et aux conditions de son règlement d’ordre intérieur, les pouvoirs pour exercer, soit seuls, soit conjointement, certaines de ses attributions. Les pouvoirs ainsi délégués par le comité ne sont susceptibles de subdélégation que si cette faculté est prévue expressément dans l’acte de délégation qui en fixe les conditions et les limites. (5) Les pouvoirs délégués peuvent être révoqués à tout moment et prennent fin de plein droit avec la cessation des fonctions du ou des délégués. Les pouvoirs subdélégués sont également révocables à tout moment et prennent fin de plein droit avec la cessation des pouvoirs ou fonctions respectivement du ou des subdélégants et du ou des subdélégués. (6) Les délégations et subdélégations de pouvoir consenties sont sans effet sur la responsabilité collégiale des membres du comité. (7) Le comité informe le conseil à intervalles réguliers et une fois au moins tous les trois mois de la marche générale de l’entreprise. Il lui présente un rapport d’ensemble sur les activités actuelles et futures de l’entreprise.",
+      "text_sha256": "292053454319045cacfec22e9cbbd8678ce02a24a1b2e604bf18ce63e3c0c3ed",
+      "md_span": {
+        "start": 13117,
+        "end": 14782
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le comité fait des propositions pour toutes les matières qui sont du ressort du conseil. (2) Il délibère obligatoirement – de toutes les matières qui sont du ressort du conseil, du ministre compétent et du Gouvernement en conseil, avant leur transmission à l’organe ou l’autorité en question; – des sujets qui sont portés à son ordre du jour par un de ses membres.",
+      "text_sha256": "ec237f6933b5bc3d42588d9de2ec1d2e5f5cbba5a4cde91d6a0c1cbe834c7e0e",
+      "md_span": {
+        "start": 14819,
+        "end": 15187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les réunions du comité sont convoquées et les ordres du jour sont fixés sur propositions des membres, par le directeur général ou, en cas d’absence, par le membre du comité le plus ancien en rang. (2) Le comité se réunit aussi souvent que l’intérêt de l’entreprise l’exige, mais en principe une fois par semaine, sauf si le quorum n’est pas atteint. Le quorum est atteint si 3 membres sur 5 sont présents. (3) Le comité établira son règlement d’ordre intérieur. (4) Le secrétariat est assuré par les services de la direction générale.",
+      "text_sha256": "a5e61a0f4b8d1a8a98ebe02706e445e12b8531da4ec5e836d505174a83c33324",
+      "md_span": {
+        "start": 15224,
+        "end": 15762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le directeur général, les directeurs généraux adjoints et les directeurs formant le comité de direction ont la qualité de fonctionnaires de l’Etat en ce qui concerne leur statut, leur traitement et leur pension. lis sont nommés par arrêté grand-ducal après avis du conseil. (2) Pour pouvoir être nommé membre du comité il faut remplir les conditions prescrites pour l’accès aux fonctions de la carrière supérieure auprès des administrations de l’Etat par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat. (3) Les membres du comité de direction sont nommés pour une période de six ans. Leurs nominations sont renouvelables. (4) En cas de non-renouvellement du mandat d’un membre du comité de direction, celui-ci peut bénéficier, avec maintien de son statut et de son niveau de rémunération de base, des dispositions de l’article 6 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat. (5) La démission d’un membre du comité de direction intervient de plein droit par l’atteinte de la limite d’âge de 65 ans. (6) Le Gouvernement peut proposer au Grand-Duc de révoquer les membres du comité s’il existe un désaccord fondamental entre le Gouvernement et le comité sur la politique et l’exécution de la mission de l’entreprise. Dans ce cas la proposition de révocation doit concerner le comité dans son ensemble. De même le Gouvernement peut proposer au Grand-Duc de révoquer un membre du comité qui se trouve dans une incapacité durable d’exercer ses fonctions. Avant de transmettre une proposition de révocation au Grand-Duc, le Gouvernement doit consulter le conseil. TITRE III. – ORGANISATION DE L’ENTREPRISE",
+      "text_sha256": "41a8a47a8bd4829ada1e322f545be4de0d8dbf4fb08c474b05accf4a2ec092e7",
+      "md_span": {
+        "start": 15799,
+        "end": 17485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Afin d’assurer une exploitation optimale des domaines d’activité constituant les postes et les télécommunications l’entreprise comprend: – les services de la direction générale et l’inspection centrale; – une division des postes; – une division des télécommunications; «– (loi du 15 décembre 2000) une division des services financiers postaux.» (2) Le conseil peut créer, sur proposition du comité, de nouveaux services et divisions et en fixer les attributions dans le cadre de l’organigramme fixé par le conseil et sans préjudice des attributions du comité. 3095",
+      "text_sha256": "05798bd13cddc5f69b263e31dac52790454717d32f497c37f8f573c499e20748",
+      "md_span": {
+        "start": 17522,
+        "end": 18090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Dans le cadre des attributions qui lui sont assignées par l’organigramme fixé par le conseil et sans préjudice des attributions du comité, la division des postes est chargée essentiellement de l’exploitation courante et de la prestation aux usagers des services postaux. (2) Sans préjudice des dispositions de l’alinéa (1) la gestion courante de la division des postes est assurée par un membre du comité.» «Art. 20 bis. (Loi du 15 décembre 2000) (1) Dans le cadre des attributions qui lui sont assignées par l’organigramme fixé par le conseil et sans préjudice des attributions du comité, la division des services financiers postaux est chargée essentiellement de l’exploitation courante et de la prestation aux usagers des services financiers postaux. (2) Sans préjudice des dispositions du paragraphe (1), la gestion courante de la division des services financiers postaux est assurée par un membre du comité.»",
+      "text_sha256": "a44b56d0b2b64c228c6fa5275b9d24d3e5ccbaee336c98b4066d5769ec1a4042",
+      "md_span": {
+        "start": 18127,
+        "end": 19044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Dans le cadre des attributions qui lui sont assignées par l’organigramme fixé par le conseil et sans préjudice des attributions du comité, la division des télécommunications est chargée essentiellement de l’exploitation courante et de la prestation aux usagers des services de télécommunications. (2) Sans préjudice des dispositions de l’alinéa (1) la gestion courante de la division des télécommunications est assurée par un membre du comité. TITRE IV. – SURVEILLANCE DE L’ENTREPRISE",
+      "text_sha256": "41b85647e85f5f72a542dd49e0c14d819f1ecf232338db91311ccb9a065f6846",
+      "md_span": {
+        "start": 19081,
+        "end": 19569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le ministre compétent exerce la haute surveillance sur les activités d’intérêt général de l’entreprise, notamment celles prévues à l’article 7 paragraphe 2 d’après les dispositions qui suivent: a) en se faisant communiquer directement toutes les décisions du conseil; b) en statuant sur celles qui sont sujettes à son approbation. (2) Des copies certifiées conformes des procès-verbaux des réunions du conseil sont transmises, dès leur approbation par le conseil, au ministre compétent. (3) Le réviseur ou les réviseurs d’entreprises sont nommés pour un terme ne dépassant pas trois ans par la Chambre des Députés et sur proposition du conseil. Leur mandat est renouvelable. Le ou les réviseurs ont pour mission de vérifier et de certifier le caractère exact et complet des comptes de l’entreprise. Ils dressent, à l’intention de la Chambre des Députés, du Gouvernement et du conseil un rapport détaillé sur les comptes de l’entreprise à la clôture de l’exercice. Ils peuvent être chargés par le conseil de procéder à des vérifications spécifiques. Leur rémunération est à charge de l’entreprise.",
+      "text_sha256": "2eb2505bf394d6ac17bffb510d3c8e33debba7cfae92ee2e3caaabf6920a7a2a",
+      "md_span": {
+        "start": 19606,
+        "end": 20706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "«(1) (Loi du 15 décembre 2000) Sont soumises à l’approbation du Gouvernement en conseil les décisions",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "du conseil relatives aux matières énumérées à l’article 7 paragraphe (1) points b à f.» (2) Sont soumises à l’approbation du ministre compétent les décisions du conseil relatives aux matières énumérées à l’article 7 paragraphe (2). (3) Hormis les décisions faisant l’objet des lois et règlements grand-ducaux, le Gouvernement et le ministre compétent exercent leur droit d’approbation dans les 30 jours qui suivent la réception de la décision du conseil. Passé ce délai, ils sont présumés être d’accord et la décision peut être exécutée. En cas de refus d’approbation, à notifier par écrit à l’entreprise avant l’expiration du prédit délai, le conseil délibère à nouveau sur le même objet. Si le différend persiste, le Gouvernement en conseil tranchera définitivement et sans recours. TITRE V. – PERSONNEL",
+      "text_sha256": "f59f96b7e91937504d653e54a383f0425e26bc74bbc46d4a944e55bade1f7b38",
+      "md_span": {
+        "start": 20845,
+        "end": 21650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "«(1) (Loi du 25 avril 2005) Le régime des agents de l’entreprise est un régime de droit public.",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les dispositions actuelles et futures du statut général, des régimes des traitements, indemnités et pensions, de la législation sur les fonctionnaires et employés de l’Etat ainsi que celles du contrat collectif des ouvriers de l’Etat s’appliquent en principal et accessoires, modalités, délais et recours aux agents respectifs de l’entreprise, sauf les dérogations y apportées par la présente loi. (2) Les attributions dévolues au Grand-Duc, au Gouvernement en conseil, au Gouvernement, aux ministres ou à l’autorité investie du pouvoir de nomination par les lois applicables aux fonctionnaires, employés et ouvriers de l’Etat sont exercées, pour les agents de l’entreprise, par le comité. Cette dévolution s’applique également à la procédure du changement d’administration telle qu’instituée par la loi modifiée du 17 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration, si un fonctionnaire de l’entreprise désire le faire, auquel cas le comité doit donner son accord au changement demandé avant la décision du Ministre de la Fonction publique visée par l’article 13 de la loi susmentionnée.» 3096 «(3) (Loi du 25 avril 2005) Par dérogation aux dispositions de la législation et de la réglementation afférente, les conditions et modalités en matière de recrutement, de stage et de formation professionnelle pour les agents soumis au statut général de la fonction publique sont fixées par règlement grand-ducal.» «(4) (Loi du 15 décembre 2000) Dans la mesure où il s’avère impossible d’effectuer un recrutement suffisant pour la carrière inférieure du facteur de l’entreprise des postes et télécommunications sur base de l’article 14,1 1) de la loi modifiée du 29 juin 1967 concernant l’organisation militaire, il peut être procédé au recrutement, par dérogation aux dispositions prévisées, moyennant examen-concours dont les conditions et modalités sont fixées par règlement grand- ducal.» «(5) (Loi du 21 mars 1997) Le comité peut également engager par contrat de travail, pour autant que les intérêts du service l’exigent, des personnes disposant d’une formation professionnelle avancée spéciale ou justifiant d’une expérience professionnelle particulière acquise en dehors de l’entreprise dans des domaines concernés par les activités de celle-ci.» (6) Le conseil détermine l’état des effectifs du personnel de l’entreprise par régime et carrière. (7) Les dispositions de la présente loi s’appliquent au personnel en service au moment de la mise en vigueur de la loi ainsi qu’au personnel à engager après cette date.",
+      "text_sha256": "fa846eaa158b353d7631ca5938d4d819b978c8cc8ad71bc26373a61c80de2228",
+      "md_span": {
+        "start": 21783,
+        "end": 24383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le comité peut allouer, sous réserve d’approbation du conseil, des suppléments de rémunération non pensionnables aux agents de l’entreprise auxquels sont confiées des fonctions comportant des responsabilités exceptionnelles ou exigeant des qualifications spéciales. (2) Le comité peut, sous réserve d’approbation du conseil et du Gouvernement en conseil, accorder chaque année aux membres du personnel de l’entreprise, des indemnités pour travaux extraordinaires inhérents à des sujétions spéciales.",
+      "text_sha256": "8829412d148201ef7e34ceaefe0849335ae30948fce50679bcd1457bf451d59b",
+      "md_span": {
+        "start": 24420,
+        "end": 24923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les traitements des fonctionnaires, les indemnités des employés et les salaires des ouvriers sont ordonnancés et liquidés par les soins de l’entreprise suivant respectivement les dispositions légales ou réglementaires régissant le régime des traitements des fonctionnaires de l’Etat et celles du contrat collectif des ouvriers de l’Etat. (2) Les pensions de retraite des fonctionnaires et des employés assimilés aux fonctionnaires sont ordonnancées et liquidées par les soins de l’Etat suivant la législation en vigueur pour les administrations de l’Etat. Un règlement grand- ducal déterminera les modalités de calcul du montant compensatoire à verser à l’Etat par l’entreprise au titre des pensions. A cet effet il est ajouté un article au budget de l’Etat, libellé «Participation de l’entreprise des postes et télécommunications aux pensions de son personnel». «Art. 27. (1) (Loi du 25 avril 2005) Par dérogation à l’article 16 de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, le comité fixe pour les agents de l’entreprise et conformément aux dispositions pertinentes de cette même loi, les carrières et le nombre des emplois des différentes fonctions du cadre fermé prévu pour les diverses carrières. (2) Le comité fixe la désignation des emplois des cadres fermés définis par la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat ainsi que les postes des cadres fermés dont les titulaires pourront avancer hors cadre jusqu’au grade de fin de carrière inclusivement par dépassement des effectifs prévus.»",
+      "text_sha256": "455852992779ffcbc49474170916644c0af5b4ed22085c6ffd0e2ef12f8df0e1",
+      "md_span": {
+        "start": 24960,
+        "end": 26709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Des adaptations au contrat collectif des ouvriers de l’Etat concernant des particularités de l’entreprise peuvent faire l’objet d’avenants à négocier et à signer, après approbation du conseil par l’entreprise, représentée par son directeur général et les syndicats signataires du contrat collectif. (2) Le supplément de pension accordé aux ouvriers, en vertu de l’article 30 du contrat collectif des ouvriers de l’Etat en vigueur à la date de la présente loi, sera payé par l’Etat et remboursé par l’entreprise aussi longtemps que cette disposition se trouve dans le contrat collectif des ouvriers.",
+      "text_sha256": "242682821d65e8fbafaf414a69b9e08cb9ab475d44177e9b9a2ff3a297ed0aaa",
+      "md_span": {
+        "start": 26746,
+        "end": 27348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les fonctions de directeur général, de directeur général adjoint et de directeur, prévues par la présente loi sont classées respectivement au grade S1 de la rubrique VI «Fonctions à indice fixe», et aux grades 18 et 17 de la rubrique I’«Administration générale» de l’annexe A «classification des fonctions» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat. (2) Les modifications suivantes sont apportées aux annexes de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat: A. A l’annexe A «Classification des fonctions» – Rubrique 1 «Administration générale»: au grade 16: la mention «Postes et Télécommunications - directeur adjoint» est rayée; au grade 17: la mention «Postes et Télécommunications - directeur» est ajoutée; au grade 18: à la suite de l’inscription «Postes et Télécommunications» la mention «directeur» est remplacée par celle de «directeur général adjoint». B. A l’annexe A «Classification des fonctions - Rubrique VI Fonctions à indice fixe» au grade S1 la mention «Postes et Télécommunications - directeur général» est ajoutée. C. A l’annexe D «Détermination - Rubrique 1 Administration Générale - carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté de service - grade 12» au grade 16: sous-directeur adjoint la mention «des Postes et Télécommunications» est rayée; au grade 17: la mention «directeur à l’entreprise des Postes 3097 et Télécommunications» est ajoutée; au grade 18: la mention «directeur général adjoint à l’entreprise des Postes et Télécommunications» est ajoutée. D. A l’article 22 IV 8 la mention «directeur adjoint des Postes et Télécommunications» est rayée aux alinéas 1 et 2. E. A l’article 22 IV 9 la mention «directeur à l’entreprise des Postes et Télécommunications» est ajoutée. F. A l’article 22 VIII b) les mentions de «directeurs généraux» et de «directeurs généraux adjoints» sont ajoutées. (3) Le conseil d’administration peut, sous réserve d’approbation du Gouvernement en conseil, allouer aux membres du comité de direction une indemnité spéciale pour frais de représentation. (4) Les fonctionnaires de la carrière supérieure de l’entreprise pourront être nommés aux fonctions d’attaché de Gouvernement premier en rang et d’ingénieur-inspecteur 3 années après leur nomination définitive. Ils pourront être nommés aux fonctions de conseiller de direction adjoint et d’ingénieur principal 6 années après leur nomination définitive. La promotion des intéressés aux fonctions respectivement de conseiller de direction et d’ingénieur chef de division ainsi que de conseiller de direction première classe et d’ingénieur première classe interviendra par référence à un collègue de rang égal ou immédiatement inférieur de l’administration gouvernementale. Le rang des intéressés sera fixé par le Premier Ministre, Ministre d’Etat par la comparaison des dates respectives de la première nomination dans la carrière. «TITRE VI. – DISCIPLINE» (Loi du 25 avril 2005)",
+      "text_sha256": "e21b48338c70b484e6eb761fa6636940eb0653ecd3bcb7c31d32b5df6f8d2086",
+      "md_span": {
+        "start": 27385,
+        "end": 30428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Le comité est investi du pouvoir disciplinaire sur les agents de l’entreprise.",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "En ce qui concerne leur régime disciplinaire, les dispositions des articles 31 à 42 ci-après sont applicables aux seuls agents relevant du statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "86ad38d7e3f47855308e45c58488042b22108c3addfa8495963dd179a4706a89",
+      "md_span": {
+        "start": 30544,
+        "end": 30727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Aucune sanction disciplinaire ne peut être appliquée sans instruction disciplinaire préalable conformément",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "aux dispositions qui suivent. La suspension de l’agent ne pourra être prononcée qu’après qu’il aura été entendu en ses explications. Toutes les sanctions, ainsi que la suspension, seront prononcées par le comité.",
+      "text_sha256": "effb01d06861951915882234b97820a86a10ca2a63c707d61e57562ab0c20fff",
+      "md_span": {
+        "start": 30871,
+        "end": 31083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "L’instruction disciplinaire appartient à l’inspection centrale instaurée par l’article 19 et à la commission",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "disciplinaire de l’entreprise. Elle ne se fait jamais par l’agent qui a déclenché l’affaire. Le membre du comité qui a sous ses ordres l’agent concerné charge l’inspection centrale de procéder à une instruction lorsque des faits, faisant présumer que l’agent a manqué à ses devoirs au sens du statut général des fonctionnaires de l’Etat, viennent à sa connaissance. L’inspection centrale informe l’agent présumé fautif des faits qui lui sont reprochés avec indication qu’une instruction disciplinaire est ordonnée.",
+      "text_sha256": "6a43b65f10d08b35b4b8de8fd1de436d0c69038a55804873a7ec991f88107447",
+      "md_span": {
+        "start": 31229,
+        "end": 31743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Si l’agent est suspecté d’avoir commis une faute susceptible d’entraîner une sanction disciplinaire grave,",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’inspection centrale en informe le comité qui peut le suspendre conformément au paragraphe 1er de l’article 48 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "4a1eb5540450b11b87bbe8d5a328c5eeef025537f1edabd4762c93f73c939e6b",
+      "md_span": {
+        "start": 31887,
+        "end": 32089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "L’agent a le droit de prendre inspection du dossier, de présenter ses observations et de demander un",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "complément d’instruction conformément à l’article 56, paragraphe 4, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat. L’inspection centrale décide s’il y a lieu de donner suite à cette demande.",
+      "text_sha256": "08e9020cae2748f8be50d22ca0d6b101c748827aa541fa76218e5f5f04565119",
+      "md_span": {
+        "start": 32227,
+        "end": 32461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Lorsque l’instruction disciplinaire est terminée, l’inspection centrale prend une des décisions suivantes:",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "a) si elle estime que l’application d’une sanction n’est pas indiquée, ou qu’il résulte de l’instruction que l’agent n’a pas manqué à ses devoirs, elle classe l’affaire et en informe le comité; b) elle transmet le dossier au comité aux fins de décision lorsqu’elle est d’avis que les faits établis par l’instruction constituent un manquement à sanctionner de l’avertissement, de la réprimande ou de l’amende ne dépassant pas les deux dixièmes d’une mensualité brute du traitement de base; c) elle transmet le dossier à la commission disciplinaire lorsqu’elle estime que les faits établis par l’instruction constituent un manquement à réprimer par une sanction plus sévère que celle mentionnée sous b).",
+      "text_sha256": "a3955771d75908af84f1105b253043305e71b6b73f8cc5b2c93f40cd1ccc8f3c",
+      "md_span": {
+        "start": 32605,
+        "end": 33306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "La décision de l’inspection centrale de classer l’affaire ou d’en saisir le comité ou la commission disciplinaire",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "est communiquée à l’agent conformément à l’article 58, paragraphe 1er, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "aae18665eae067ebeed8490333c6fb4b0f5f4ed9c5caa02ff9bb55aed49d8acb",
+      "md_span": {
+        "start": 33457,
+        "end": 33618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "Sauf l’avertissement, la réprimande et l’amende ne dépassant pas les deux dixièmes d’une mensualité brute",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "du traitement de base, aucune sanction disciplinaire ne peut être appliquée sans avis préalable de la commission disciplinaire.",
+      "text_sha256": "9e07141b5c9f62c42de4229c7c2b59d8392dd3e37ff3fbadd92143fc8e6a77d7",
+      "md_span": {
+        "start": 33761,
+        "end": 33888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Le comité prononce une des sanctions disciplinaires prévues par l’article 47 de la loi modifiée du 16 avril",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "1979 fixant le statut général des fonctionnaires de l’Etat. Lorsqu’il prend une décision en vertu du point c) de l’article 35 ci-avant, il prend sa décision au vu de l’avis de la commission disciplinaire. Il peut également, s’il y a lieu, classer l’affaire et en informer l’agent concerné par écrit. 3098 Par dérogation à l’article 47, paragraphe 5, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, la sanction du déplacement vis-à-vis d’un agent de l’entreprise ne pourra pas consister en un changement d’administration de l’entreprise vers une administration étatique.",
+      "text_sha256": "7410f2221b8893a50d06c97f3901b7ad532392b636d31e3c0e0478a86bcfd2ac",
+      "md_span": {
+        "start": 34033,
+        "end": 34645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "La décision qui inflige une sanction disciplinaire est motivée et arrêtée par écrit. Elle est communiquée à",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’agent concerné, ensemble avec l’avis de la commission disciplinaire s’il y a lieu, suivant l’article 58, paragraphe 1er, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "7d62e1be1f310120e761a9e625247a670e7f44ca919068e04c089dcbc027e038",
+      "md_span": {
+        "start": 34790,
+        "end": 35003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "L’agent frappé d’une sanction disciplinaire ou suspendu, peut, dans les trois mois de la notification de la",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "décision, faire recours au tribunal administratif qui statue comme juge du fond.",
+      "text_sha256": "1c46316f348c45fc6fd0a9a7d86d1584a7b53faa6c5cbf78f1d7065e3416291e",
+      "md_span": {
+        "start": 35148,
+        "end": 35228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": "La commission disciplinaire de l’entreprise est composée de deux juristes dont un interne et un externe,",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "d’un membre du service du personnel, d’un membre des services d’exploitation de l’entreprise, d’un représentant à proposer par la Chambre des fonctionnaires et employés publics et d’un membre externe choisi en raision de ses compétences professionnelles, ainsi que d’un nombre double de suppléants choisis selon les mêmes critères. Les membres de la commission disciplinaire sont nommés par le comité pour un terme de 3 ans. Leur mandat peut être renouvelé. La commission disciplinaire arrête son règlement de procédure qui est soumis à l’approbation du comité.",
+      "text_sha256": "50b8bca84efddd802370c5c0675376e00e6113fe8537b32c93bbb21f77909774",
+      "md_span": {
+        "start": 35370,
+        "end": 35931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": "Pour tout ce qui n’est pas prévu dans le présent chapitre concernant la discipline, les dispositions de la loi",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont applicables. TITRE VII. – DISPOSITIONS FINANCIERES",
+      "text_sha256": "bbc86cbac67b6b81f38a15b948fdc515757d85f67dd8be27653499728d9ce840",
+      "md_span": {
+        "start": 36079,
+        "end": 36214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": "Les moyens propres de l’entreprise sont constitués par le capital et les réserves. Le capital appartient à",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’Etat.",
+      "text_sha256": "6840f502f2c392f331882d916aa503c8f73d0f4e2d28cae9522e450d0b6f3a80",
+      "md_span": {
+        "start": 36358,
+        "end": 36365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les ressources de l’entreprise sont constituées notamment par: – les recettes d’exploitation et toute autre recette en rapport avec les activités de l’entreprise; – les recettes pour services fournis à l’Etat, notamment dans le cadre des missions ayant fait l’objet d’une convention préalable entre l’Etat et l’entreprise; – les produits des emprunts; – les donations et legs; – les produits provenant de participations dans d’autres entreprises; – les revenus provenant de la gestion de son patrimoine. «(2) (Loi du 15 décembre 2000) Sans préjudice de ses obligations de service universel, l’entreprise veille à la rentabilité générale de ses services et de sa gestion.»",
+      "text_sha256": "1472fdad50233b0a0eaca16dee6167cea5e82bf3ab38a503e9f5d381cc4d88a5",
+      "md_span": {
+        "start": 36402,
+        "end": 37077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les comptes de l’entreprise sont tenus selon les principes et les modalités de la comptabilité commerciale. (2) L’exercice coïncide avec l’année civile. (3) Avant la fin du premier trimestre de chaque année, le comité soumet les comptes annuels, arrêtés au 31 décembre de l’année précédente, à l’approbation du conseil en y joignant le rapport du ou des réviseurs d’entreprises. Après l’approbation des comptes annuels, le conseil statue sur l’affectation du bénéfice disponible conformément aux règles prévues par la présente loi. (4) Pour le 30 avril au plus tard, le conseil soumet les comptes annuels ainsi que sa proposition d’affectation du bénéfice à l’approbation du Gouvernement en conseil qui les transmet à la Chambre des Députés et les fait publier au Mémorial. L’approbation des comptes par le Gouvernement donne décharge aux organes de l’entreprise de leur administration et gestion pendant l’exercice écoulé. Si le Gouvernement en conseil n’a pas pris de décision dans le délai de deux mois suivant la réception des comptes, la décharge est acquise de plein droit. (5) Pour le premier octobre au plus tard de chaque année, le comité élabore le budget prévisionnel de l’exercice suivant à arrêter par le conseil pour le 1er novembre au plus tard. (6) Au cours du premier semestre de chaque année, le comité élabore un rapport sur les activités de l’entreprise pendant l’exercice écoulé qui sera publié après approbation du conseil.",
+      "text_sha256": "b85e0761bc249fbcc10d6f2364737c3b0fcf13c8dfad09b4893a66e278c01544",
+      "md_span": {
+        "start": 37114,
+        "end": 38563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le bénéfice disponible de l’entreprise est formé du bénéfice net de l’exercice, diminué du report à nouveau négatif éventuel du ou des exercices précédents et des surtaxes perçues pendant l’exercice pour le compte de l’Etat. Le bénéfice disponible est affecté après la clôture de chaque exercice d’après les règles prévues aux paragraphes ci- après. (2) Sur le bénéfice disponible il est prélevé une somme pour la formation du fonds de réserve destiné à contribuer au financement des investissements de l’entreprise. 3099 Le montant de cette dotation obligatoire, dans la mesure où le permet le résultat de l’exercice, doit être déterminé annuellement de façon à ce que la somme de la dotation à la réserve et des dotations aux amortissements de l’exercice de la clôture ne puisse être inférieure aux deux tiers du budget d’investissement de l’exercice suivant l’exercice de la clôture. (3) Le solde qui en résulte est versé au Trésor. (4) Les déficits sont reportés à nouveau et comblés par les bénéfices ultérieurs. (5) Les surtaxes perçues sur les valeurs postales de bienfaisance ou sur d’autres produits sont versées annuellement à l’Etat pour répartition à qui de droit.",
+      "text_sha256": "2aa865ec218290a85cc9f7f71183f5c61b70a7a1b97ce048b7b568d6d371ed1b",
+      "md_span": {
+        "start": 38600,
+        "end": 39780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Dans l’intérêt de la réalisation de la mission de l’entreprise, l’Etat fait un apport en nature et en numéraire. Le Gouvernement en conseil arrête les montants correspondant aux apports en nature sur la base du rapport d’un réviseur d’entreprise. Ces apports contiennent les propriétés domaniales, les bâtiments y construits ou en voie de construction, les équipements, réseaux, ouvrages divers et les véhicules ainsi qu’une dotation initiale telle que définie à l’article 52. Un relevé qui est joint en annexe à la présente loi et qui en fait partie intégrante énumère les propriétés domaniales faisant l’objet de l’apport susvisé. (2) En contrepartie de ces apports l’Etat devient détenteur du capital de l’entreprise.",
+      "text_sha256": "cdcd620af2e79a059e5c77489c7b9f8549008e3a0f3e45348fc97ee3fc87966a",
+      "md_span": {
+        "start": 39817,
+        "end": 40541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les travaux, fournitures et services pour compte de l’entreprise ne sont pas soumis aux lois et règlements régissant les marchés publics. 2) Les marchés et contrats pour ces travaux, fournitures et services sont de la compétence du comité.",
+      "text_sha256": "82aa177e729b638bc8fb9ec70e78f3529dfa2d6a6dd99058dbdd4aeeeb0dc4a9",
+      "md_span": {
+        "start": 40578,
+        "end": 40821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": "Abrogé (Loi du 15 décembre 2000).",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "TITRE VIII. – DISPOSITIONS FISCALES",
+      "text_sha256": "170f48346baddcab1a1ffd202d6f4c73055723b042f9a14bda6d9325de0ed89d",
+      "md_span": {
+        "start": 40892,
+        "end": 40927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les actes passés au nom ou en faveur de l’entreprise sont exempts des droits de timbre, d’enregistrement, d’hypothèque et de succession, sauf le salaire des formalités hypothécaires. (2) L’entreprise des postes et télécommunications est soumise à l’impôt sur le revenu des collectivités, à l’impôt sur la fortune, à l’impôt foncier ainsi qu’à l’impôt commercial communal. (3) Aux fins de l’application du paragraphe qui précède, les modifications qui suivent sont apportées aux dispositions légales en matière d’impôts directs: (a) A l’article 167, alinéa 1er de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, il est ajouté un numéro (6) libellé comme suit: «(6) les sommes correspondant à l’incidence financière des missions spéciales imposées à l’entreprise des postes et télécommunications. Ces sommes sont arrêtées chaque année par le Gouvernement en conseil.» (b) la dernière phrase du paragraphe 3, alinéa 1er, numéro 3 de la loi du 16 octobre 1934 concernant l’impôt sur la fortune est remplacée par la phrase suivante: «Cette disposition ne s’applique pas aux instituts de crédit, ni à l’entreprise des postes et télécommunications.» (c) au paragraphe 3, numéro 1 de la loi du 1er décembre 1936 concernant l’impôt commercial communal, les termes «Die Postverwaltung und» sont biffés. (d) les numéros 1 a) et 6 du paragraphe 4 de la loi du 1er décembre 1936 concernant l’impôt foncier sont complétés par la phrase suivante: «cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.» TITRE IX. – DISPOSITIONS ABROGATOIRES",
+      "text_sha256": "6d1c3d88e99dfcd9c97ce8301e4d8ae158cfb1fbeed492ac106755e43dd147b1",
+      "md_span": {
+        "start": 40964,
+        "end": 42536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Sont abrogées: – la loi du 20 mars 1970 portant réorganisation de l’administration des Postes et Télécommunications telle qu’elle a été modifiée par la loi du 9 septembre 1987, à l’exception de: • l’article 4 alinéas (1) et (2) de la loi du 20 mars 1970 précitée; • les articles 5 et 6 de la loi du 20 mars 1970 précitée; • l’article III 16 alinéas b) et c) de la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 sur le régime des traitements des fonctionnaires de l’Etat; – les dispositions des lois portant organisation de l’administration de l’Enregistrement et des Domaines qui concernent les seules fonctions du contrôleur garde-magasin du timbre en matière de gestion des stocks de valeurs postales. (2) Les règlements grand-ducaux et ministériels, pris en vertu de la loi du 20 mars 1970 précitée, ne sont abrogés qu’au fur et à mesure qu’ils auront été remplacés par des règlements basés sur la présente loi.",
+      "text_sha256": "3d3008389ec218fd771c15e658ac9c45a8d6e9f24f39987302698159d67ed836",
+      "md_span": {
+        "start": 42573,
+        "end": 43520
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": "Le fonds spécial pour les investissements des postes et télécommunications institué par l’article 20 modifié",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "de la loi budgétaire du 23 décembre 1973 est dissous. Le solde du fonds spécial est transféré à l’entreprise après avoir été arrêté par une décision du Gouvernement en conseil. 3100 TITRE X. – DISPOSITIONS TRANSITOIRES ET FINALES",
+      "text_sha256": "55c0379646dae86b84fc2c70924f81d386627219e7f74819371c6026646a67ea",
+      "md_span": {
+        "start": 43666,
+        "end": 43895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les marchés en cours de passation ou d’exécution restent régis par les dispositions applicables antérieurement. (2) Par dérogation à l’alinéa 1er les dépenses résultant d’engagements imputables sur le fonds d’investissements pour les postes et télécommunications sont à charge de l’entreprise.",
+      "text_sha256": "6f0fbb7cddc06e45f342c22d2ef4c965b3e1c5fb8c5ecbcaaa966213bb691397",
+      "md_span": {
+        "start": 43932,
+        "end": 44229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le directeur, les directeurs adjoints, les chefs de division en fonction au moment de l’entrée en vigueur de la présente loi seront nommés d’office directeur général, directeurs généraux adjoints et directeurs respectivement et garderont leur ancienneté de service. (2) La nomination à la fonction de directeur général adjoint des directeurs adjoints en service au moment de l’entrée en vigueur de la présente loi se fait par la prise en considération de leur carrière antérieure à la mise en vigueur de la présente loi et du grade 17.",
+      "text_sha256": "9fa2736f8859378ac679d7e76e8e55ee68f1c9f80d0070cab48fec5cbe12ca2e",
+      "md_span": {
+        "start": 44266,
+        "end": 44805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les employés engagés à titre définitif et à tâche complète remplissant les conditions d’études pour l’accès à la carrière de l’expéditionnaire administratif sont dispensés, pour l’accès à cette carrière, de l’examen-concours du stage ainsi que de l’examen de fin de stage à condition de pouvoir faire valoir au moins 3 années de service en qualité d’employé au moment de l’entrée en vigueur de la présente loi et d’avoir passé avec succès l’examen de carrière prévu par le règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. (2) Les employés engagés à titre définitif et à tâche complète remplissant les mêmes conditions d’études et pouvant faire valoir au moment de leur nomination plus de 6 années de service accomplies en qualité d’employé et qui ont passé avec succès l’examen de carrière prévu à l’alinéa précédent peuvent se présenter sans délai à l’examen de promotion prévu pour leur carrière. (3) Dans les mêmes conditions les employés âgés de 50 ans qui peuvent faire valoir 6 années de service en qualité d’employé sont dispensés en outre de l’examen de promotion. (4) Les employés fonctionnarisés peuvent être promus à toutes les fonctions du cadre ouvert prévues par la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, aux conditions prévues sub (1), (2) ou (3) du présent article. Ils seront promus aux fonctions du cadre fermé de leur carrière suivant le rang d’ancienneté obtenu à l’examen de promotion de la nouvelle carrière. Ils sont placés hors cadre par dépassement des effectifs de leur nouvelle carrière. (5) Les fonctionnaires des Postes et Télécommunications détachés au moment de la mise en vigueur de la présente loi font l’objet d’un changement d’administration dans les conditions suivantes: A) L’inspecteur de direction premier en rang détaché auprès du Centre Informatique de l’Etat sera intégré dans le cadre de la carrière moyenne du rédacteur à l’Administration gouvernementale. B) L’ingénieur-technicien inspecteur principal premier en rang, l’ingénieur technicien principal et le commis technique détachés auprès du Ministère d’Etat seront nommés, à titre personnel, à ces mêmes fonctions auprès du Centre Informatique de l’Etat. Pour autant qu’ils n’ont pas encore atteint les diverses fonctions du cadre fermé de leurs carrières respectives ils peuvent y être promus lorsque celles-ci sont atteintes par les fonctionnaires en rang égal ou immédiatement inférieur de leur administration d’origine. C) Les autres fonctionnaires seront placés hors cadre dans leur nouvelle administration aux niveaux de grade et de traitement atteints dans l’administration des Postes et Télécommunications. Les articles 15 et 16 de la loi du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration leur sont applicables. D) Les intéressés peuvent bénéficier des dispositions de l’article 22 section VIII de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires au plus tôt lorsqu’un de leurs collègues de l’entreprise des Postes et Télécommunications de rang égal ou inférieur bénéficie d’un grade de substitution. Les fonctionnaires bénéficiant au moment de l’entrée en vigueur de la présente loi d’un grade de substitution conservent ce grade aussi longtemps qu’ils remplissent les conditions du règlement grand-ducal du 26 avril 1987 y relatif. (6) Pour les fonctionnaires et les employés de la carrière supérieure de l’administration, en service à la date de l’entrée en vigueur de la présente loi, les promotions aux grades 13 et 14 ainsi que le rang des intéressés sont déterminés par référence à la date théorique de fin de stage, compte tenu des réductions de stage éventuelles.",
+      "text_sha256": "367ca15da87fc4aa5485ea90052a08c79010db3c546eaae1efdb8d9780bcb906",
+      "md_span": {
+        "start": 44842,
+        "end": 48779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": "Par dérogation à l’article 47 (1), les immeubles à construire ou à transformer en vertu des lois du 27 juillet",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "1987 et 12 septembre 1990 ne deviennent la propriété de l’entreprise qu’après leur achèvement.",
+      "text_sha256": "162b91c499185db49e0c3fbd1125b1de1bbd4c9ed46fccf92484c1420a29fb04",
+      "md_span": {
+        "start": 48927,
+        "end": 49021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-1992-08-10-n1:2005-05-08--d05e67aeb800e5b2fba6dfb52dc0d2158498133c68ee3163bb97d30794d9f11e#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": "La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "path": [
+        "Chapitre 2. – Comité de direction"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, jusqu’au 31 décembre 1992, l’actuelle administration des postes et télécommunications fonctionne encore dans le cadre défini par la loi concernant le budget des recettes et dépenses de l’Etat pour 1992. 3101 ANNEXE A L’ARTICLE 47 DE LA LOI MODIFIEE DU 10 AOÛT 1992 PORTANT CREATION DE L’ENTREPRISE DES POSTES ET TELECOMMUNICATIONS 1. Bureaux de poste L-5712 ASPELT 1, rue du cimetière Frisange section A Aspelt 2746/4305 L-4920 BASCHARAGE 22, rue de l’eau Bascharage section C 138/4933 L-6310 BEAUFORT 37, Grand’rue Beaufort section C 154/2151 L-4477 BELVAUX 58, rue de la poste Sanem section C Belvaux 1233/6325 L-8606 BETTBORN 7, rue de l’église Bettborn section A 444 L-7777 BISSEN 3, Grand-rue Bissen section A 1003/1985 L-9639 BOULAIDE 20, rue Jérôme de Busleyden Boulaide section A 200/5023 L-9711 CLERVAUX 54, Grand-rue Clervaux section A 74/2442 et 492/2806 L-7730 COLMAR-BERG 1, rue de Mertzig Colmar-Berg section D 65/1158 L-4970 DIPPACH-GARE 30, rue des trois cantons Dippach section B Bettange 994/1045 L-9650 ESCH-SUR-SURE 11, rue de la poste Esch-sur-Sûre section A 484/2388 L-5886 HESPERANGE 460, rte de Thionville Hesperange section A 175/5092 L-7373 LORENTZWEILER 76, rte de Luxembourg Lorentzweiler section A 256/1790 L-1220 LUXEMBOURG 38, rue de Beggen Luxembourg section E Eich 31/2123 L-8254 MAMER 14, rue du millénaire Mamer section B Mamer-Sud 265/5096 L-5353 OETRANGE 15, rue de la gare Contern section A Oetrange 158/2122 L-8824 PERLE 36, rue de la poste Rambrouch section B Perlé 264/3220 L-8805 RAMBROUCH 18, rue principale Rambrouch section B 917/3101 et 919/3443 L-5555 REMICH 15, place du marché Remich section B 431/6694 L-3394 ROESER 52, Grand-rue Roeser section F 575/1646 L-9905 TROISVIERGES 42, Grand-rue Troisvierges section F 309/3506 L-8705 USELDANGE 5, rue de la gare Useldange section B 314/3293 L-7220 WALFERDANGE 23, rue de Diekirch Walferdange section A Helmsange 1064/2022 L-6868 WECKER 20, rue de la gare Biwer section C 733/5078 et 733/5079 L-9990 WEISWAMPACH Maison 87 Weiswampach section C 378/6599 2. Bureaux de poste abritant en outre des installations de télécommunication L-3238 BETTEMBOURG 8, rue de l’indépendance Bettembourg section A 1533/8424 L-6210 CONSDORF 22, rue de Luxembourg Consdorf section A Consdorf-Ouest 616/2391 L-4660 DIFFERDANGE coin r. Michel Rodange / poste Differdange section B 99/7252, 99/4067 et 99/4068 L-6450 ECHTERNACH 2, rue de Luxembourg Echternach section B 864/4417 1) L-4040 ESCH/ALZETTE rue Z. Bernard / rue X. Brasseur Esch-Alzette section A Esch-Nord 1308/ 10881 et 9259 L-9806 HOSINGEN 7, rue principale Hosingen section E 296/3770 L-6140 JUNGLINSTER 6, rue du village junglinster section B 2088/6182 L-3650 KAYL 25, Grand-rue Kayl section A 129/8355 L-7619 LAROCHETTE 8, rue de Medernach Larochette section A 19/1680, 19/1681 et 9/2029 L-1616 LUXEMBOURG 38, pl. de la gare / Luxembourg section A Hollerich 405/6950 et 5, r. du Commerce 405/6211 L-1118 LUXEMBOURG 25, rue Aldringen/8a, av. Monterey Luxembourg section F Ville-Haute 201/2166 L-5612 MONDORF/BAINS 25, av. Fr. Clement Mondorf section B 731/3331 L-4510 OBERCORN 19, rue de Belvaux Differdange section C Obercorn 159/4866 L-4734 PETANGE 13, avenue de la gare Pétange section A 170/5459 L-4818 RODANGE 18, avenue Dr Gaasch Pétange section C Rodange 568/4467 et 568/4468 L-6910 ROODT-SUR-SYRE 4, rue de la gare Betzdorf section D Roodt/Syre 185/1612, R 187/1398 3102 L-3710 RUMELANGE 1, place G.-D. Charlotte Rumelange section A 559 L-8440 STEINFORT 7, rue de Luxembourg Steinfort section A 496/3257 L-8008 STRASSEN 142, rte dArlon Strassen section B 371/2590 L-3761 TETANGE 9, rue Thomas Byrne Kayl section B Tétange 92/4762 L-9410 VIANDEN 27, Grand-rue Vianden section B 203/1964 et 201/2309 L-6630 WASSERBILLIG 5, Grand-rue Mertert section B Wasserbillig 713/3429 et 728/3221 L-9534 WILTZ 1-7, rte de Kautenbach Wiltz section A 565/3173, 563/3035, 549/ 2392, 549/3171 L-5480 WORMELDANGE 86, rue principale Wormeldange section C 389/7643 3. Centres de télécommunications L-5887 ALZINGEN 483, rte de Thionville Hesperange section C Alzingen 860/3146 L-6310 BEAUFORT 42, Grand-rue Beaufort section B Kosselt 735/2886 L-4487 BELVAUX 168, rue de Soleuvre Sanem section C Belvaux 631/5657 L-9946 BINSFELD Maison 40 Weiswampach section F Binsfeld 408/3789 L-3429 DUDELANGE 250, rte de Burange Dudelange section B Burange 1131/5597 L-4351 ESCH-S-ALZETTE 69, rue Arthur Useldinger Esch-Alzette section A Esch-Nord 2852/15631 L-9087 ETTELBRUCK 14, place de l’Hôtel de Ville Ettelbruck section C 422/5108 L-5741 FILSDORF 2, rue de Luxembourg Dalheim section D Filsdorf 826/3286 L-8354 GARNICH 45, rte des trois cantons Garnich section B 1180/3842 L-9155 GROSBOUS 19, rue d’Arlon Grosbous section A 432/3974 et 432/4260 L-9752 HAMIVILLE Maison 32 Wincrange section F Hamiville 39/2125 L-9633 HARLANGE 2, Poteau de Harlange Boulaide section B Baschleiden 1378/2910 2) L-9659 HEIDERSCHEIDERGRUND 1, rue Goebelsmühle Goesdorf section F 595/2676 L-7330 HEISDORF 81, route de Luxembourg Steinsel section C de Heisdorf 380/2039 L-6560 HINKEL 15, rue Girsterklaus Rosport section C Hinkel 409/1711 L-8281 KEHLEN 16, rte d’Olm Kehlen section A 505/5479 L-2417 LUXEMBOURG rue de Reims Luxembourg section A Hollerich 405/6950 L-2761 LUXEMBOURG 1, rue Yolande Luxembourg section F Merl-Nord 556/2649 et 5 56/2813 L-9378 MARKENBACH Maison 2a Hoscheid section B Markenbach 1158/3618 L-7543 MERSCH 4, rue de Larochette Mersch section E Rollingen 233/1857 L-9837 NEIDHAUSEN Maison 14 Hosingen section G Neidhausen 116/782 L-5351 OETRANGE 4, montée d’Oetrange Contern section A Oetrange 17/2206 L-4980 RECKANGE/MESS 118, rte des trois cantons Reckange section B 377/3667 L-8509 REDANGE/ATTERT 11, rue d’Ell Redange section D 1463/4634 et 1463/4633 L-5539 REMICH 3, place Nico Klopp Remich section A des Bois 434/1941 L-8821 RIESENHOF 1, rte de Martelange Rambrouch section A Bigonville 4611/6435 L-7759 ROOST 22, rue de Luxembourg Bissen section B 429/3211 L-8561 SCHWEBACH la, Pont de Schwebach Saeul section A Schwebach 240/1021 L-6960 SENNINGEN 3, chaussée St Martin Niederanven section B Senningen 303/3789 L-6868 WECKER 4, rue Haerenberg Biwer section C 721/5322 4. Bâtiments divers L-9940 ASSELBORN 105, rte de Boxhorn Wincrange section B Asselborn partie 149/ 4418, 151 et 145/3967 L-4416 BELVAUX Pakebierg Sanem section C Belvaux 572/3510 L-7391 BLASCHETTE Chemin de Blaschette Lorentzweiler section B Blaschette 284/536 L-9099 INGELDORF Zone industrielle Erpeldange section A Ingeldorf 144/293 et 144/294 L-9163 KEHMEN Ewent Bourscheid section E Kehmen 136 3103 L-1490 LUXEMBOURG 8, 10 et 12 rue d’Epernay Luxembourg section A Hollerich 405/5838, 5839, 5840 L-2417 LUXEMBOURG rue de Reims / rue d’Epernay Luxembourg section A Hollerich 405/1 et 405/3688 L-6840 MACHTUM «Fronay» Flaxweiler section E Oberdonven 209/1961 L-9837 NEIDHAUSEN auf der Hâhe Hosingen section C Neidhausen 131 /l 11 et 131/112 L-5241 SANDWEILER 25-27, rue principale Sandweiler section A 384/4031 et 384/4032 L-3850 SCHIFFLANGE 10, avenue de la libération Schifflange section A 3993/7561 L-6586 STEINHEIM Bierwee Rosport section A Steinheim 1180/3577 L-9905 TROISVIERGES 44, Grand-rue Troisvierges section F 306/3373 et 309/3920 L-6868 WECKER 4, rue Haerebierg Biwer section C 711/5077, 716, 712/3579 et 720/4572 5. Centres administratifs, copropriétés (millièmes à transférer) L-8328 CAP 55, rue du Kiem Mamer section E Capellen 255/688 L-9237 DIEKIRCH Place Guillaume Diekirch section A 242/7637 L-3490 DUDELANGE 16-18, rue Jean Jaurès Dudelange section C 108/7837 L-9080 ETTELBRUCK 20, avenue Lucien Salentiny Ettelbruck section C 1002/5189 L-6781 GREVENMACHER 1, Schiltzenplatz Grevenmacher section A 2417/6285 L-1110 LUXEMBOURG Aéroport - Findel Niederanven section B Senningen 1272/3746 L-1430 LUXEMBOURG lb, bd Pierre Dupong Luxembourg section E Merl-Sud 951/4963 L-1326 LUXEMBOURG 4, rue Auguste Charles Luxembourg section B Bonnevoie 716/8544 L-1210 LUXEMBOURG 4, rue Barblé Luxembourg section F Merl-Nord 60/5541 L-2124 LUXEMBOURG 111-113, rue des maraîchers Luxembourg section C Weimerskirch 516/ 4268 L-2920 LUXEMBOURG Bâtiment Schumann Luxembourg section D Neudorf 515/3969, 874/4287 L-1499 LUXEMBOURG 2, rue du Fort Thungen Luxembourg section D Neudorf 515/4156 L-7520 MERSCH 2-7, rue G.-D. Charlotte Mersch section G 732/4791 L-3919 MONDERCANGE 1, rue Arthur Thinnes Mondercange section B 228/3974 L-6940 NIEDERANVEN 141, rte de Trèves Niederanven section C Oberanven 1185/4945 L-8510 REDANGE/ATTERT 74, Grand-rue Redange section D 121/4736 L-3850 SCHIFFLANGE 3, av. de la libération Schifflange section A 3349/9563 _______ 1) et copropriétaire des parcelles 860 (1/4) et 888/3900 (4/10) 2) terrain également occupé par l’administration des Ponts et Chaussées 3104 Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg Imprimeur: Association momentanée Imprimerie Centrale / Victor Buck",
+      "text_sha256": "62eedb9361e3b1aa190f002334a35896a323b095df5b9c58cfd9a6f832cecb14",
+      "md_span": {
+        "start": 49152,
+        "end": 58107
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 41..714 of 714 from the gazette issue"
+  ]
+}

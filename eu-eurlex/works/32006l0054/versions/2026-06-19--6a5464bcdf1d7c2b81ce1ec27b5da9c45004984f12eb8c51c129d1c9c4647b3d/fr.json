@@ -1,0 +1,626 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d",
+  "language": "fr",
+  "title": "Directive 2006/54/EC",
+  "valid_from": "2026-06-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0054/versions/2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d/fr.html",
+    "sha256": "eeec1f2386bbdb876b7595a55bd7c39bf8be55e4ec94e8b21604b8628c1a6105",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0054-20260619"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive vise à garantir la mise en œuvre du principe de l'égalité des chances et de l'égalité de traitement entre hommes et femmes en matière d'emploi et de travail.\n\nÀ cette fin, elle contient des dispositions destinées à mettre en œuvre le principe de l'égalité de traitement en ce qui concerne:\n\na) l'accès à l'emploi, y compris la promotion, et à la formation professionnelle;\n\nb) les conditions de travail, y compris les rémunérations;\n\nc) les régimes professionnels de sécurité sociale.\n\nElle comprend également des dispositions visant à faire en sorte que la mise en œuvre de ce principe soit rendue plus effective par l'établissement de procédures appropriées.",
+      "text_sha256": "7d895072dae250a6012decce102f029eb9552cf4fbc0e512281b00f9c7a22bc9",
+      "md_span": {
+        "start": 658,
+        "end": 1340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Aux fins de la présente directive, on entend par:a) «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu'une autre ne l'est, ne l'a été ou ne le serait dans une situation comparable;b) «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d'un sexe par rapport à des personnes de l'autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but soient appropriés et nécessaires;c) «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d'une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d'une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;d) «harcèlement sexuel»: la situation dans laquelle un comportement non désiré à connotation sexuelle, s'exprimant physiquement, verbalement ou non verbalement, survient avec pour objet ou pour effet de porter atteinte à la dignité d'une personne et, en particulier, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;e) «rémunération»: le salaire ou traitement ordinaire de base ou minimal et tout autre avantage, payés directement ou indirectement, en espèces ou en nature, par l'employeur au travailleur en raison de l'emploi de ce dernier;f) «régimes professionnels de sécurité sociale»: les régimes non régis par la directive 79/7/CEE du Conseil du 19 décembre 1978 relative à la mise en œuvre progressive du principe de l'égalité de traitement entre hommes et femmes en matière de sécurité sociale (1) qui ont pour objet de fournir aux travailleurs, salariés ou indépendants, groupés dans le cadre d'une entreprise ou d'un groupement d'entreprises, d'une branche économique ou d'un secteur professionnel ou interprofessionnel, des prestations destinées à compléter les prestations des régimes légaux de sécurité sociale ou à s'y substituer, que l'affiliation à ces régimes soit obligatoire ou facultative.\n\n**2.** Aux fins de la présente directive, la discrimination inclut:a) le harcèlement et le harcèlement sexuel, ainsi que tout traitement moins favorable reposant sur le rejet de tels comportements par la personne concernée ou sa soumission à ceux-ci;b) l'injonction de pratiquer à l'encontre de personnes une discrimination fondée sur le sexe;c) tout traitement moins favorable d'une femme lié à la grossesse ou au congé de maternité au sens de la directive 92/85/CEE.",
+      "text_sha256": "be138806c034b90118cdd7331963cffe5f31bf8ad0276eef5ccb3f622627c9e2",
+      "md_span": {
+        "start": 1391,
+        "end": 4045
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Mesures positives",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres peuvent maintenir ou adopter des mesures au sens de l'article 141, paragraphe 4, du traité, pour assurer concrètement une pleine égalité entre hommes et femmes dans la vie professionnelle.",
+      "text_sha256": "d664099d9bc5d44e4c64480e458a4255b553fd9b3c3586e99e552c829b5d424f",
+      "md_span": {
+        "start": 4102,
+        "end": 4308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Interdiction de toute discrimination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour un même travail ou pour un travail auquel est attribuée une valeur égale, la discrimination directe ou indirecte fondée sur le sexe est éliminée dans l'ensemble des éléments et conditions de rémunération.\n\nEn particulier, lorsqu'un système de classification professionnelle est utilisé pour la détermination des rémunérations, ce système est fondé sur des critères communs aux travailleurs masculins et féminins et est établi de manière à exclure les discriminations fondées sur le sexe.",
+      "text_sha256": "9a337ddc7da6f8e00a89d0cb67efc05d6f1413f9cb606281818549adc6328cec",
+      "md_span": {
+        "start": 4384,
+        "end": 4876
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Interdiction de toute discrimination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice de l'article 4, toute discrimination directe ou indirecte fondée sur le sexe est proscrite dans les régimes professionnels de sécurité sociale, en particulier en ce qui concerne:\n\na) le champ d'application de tels régimes et les conditions d'accès à de tels régimes;\n\nb) l'obligation de cotiser et le calcul des cotisations;\n\nc) le calcul des prestations, y compris les majorations dues au titre du conjoint et pour personne à charge, et les conditions de durée et de maintien du droit aux prestations.",
+      "text_sha256": "a0324a21935ce3785f2fc422b24ff2a675f271dc74d51091160816dfe150bef4",
+      "md_span": {
+        "start": 4952,
+        "end": 5469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Champ d'application personnel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent chapitre s'applique à la population active, y compris les travailleurs indépendants, les travailleurs dont l'activité est interrompue par une maladie, une maternité, un accident ou un chômage involontaire, et les personnes à la recherche d'un emploi, ainsi qu' aux travailleurs retraités et aux travailleurs invalides, et aux ayants droit de ces travailleurs, conformément aux législations et/ou pratiques nationales.",
+      "text_sha256": "5a23bd8678fa0d0840be8abdeca3f692d19b72cf56f3510398b3d4f905967b62",
+      "md_span": {
+        "start": 5538,
+        "end": 5966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Champ d'application matériel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent chapitre s'applique:a) aux régimes professionnels de sécurité sociale qui assurent une protection contre les risques suivants:i) maladie,ii) invalidité,iii) vieillesse, y compris dans le cas de retraites anticipées,iv) accident du travail et maladie professionnelle,v) chômage;b) aux régimes professionnels de sécurité sociale qui prévoient d'autres prestations sociales, en nature ou en espèces, et notamment des prestations de survivants et des prestations familiales, si ces prestations constituent des avantages payés par l'employeur au travailleur en raison de l'emploi de ce dernier.\n\n**2.** Le présent chapitre s'applique également aux régimes de pension destinés à une catégorie particulière de travailleurs, comme celle des fonctionnaires, si les prestations payables en vertu du régime sont versées en raison de la relation de travail avec l'employeur public. Le fait qu'un tel régime fasse partie d'un régime légal général est sans préjudice de la disposition précédente.",
+      "text_sha256": "f8f940cef060d7386dc9fb697d30687692c98a4576483c25450094441ba600d0",
+      "md_span": {
+        "start": 6034,
+        "end": 7034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Exclusions du champ d'application matériel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent chapitre ne s'applique pas:a) aux contrats individuels des travailleurs indépendants;b) aux régimes à membre unique des travailleurs indépendants;c) dans le cas des travailleurs, aux contrats d'assurance auxquels l'employeur n'est pas partie;d) aux dispositions facultatives des régimes professionnels de sécurité sociale qui sont offertes individuellement aux participants en vue de leur garantir:i) soit des prestations complémentaires,ii) soit le choix de la date à laquelle les prestations normales des travailleurs indépendants prennent cours ou le choix entre plusieurs prestations;e) aux régimes professionnels de sécurité sociale, dans la mesure où les prestations qu'ils fournissent sont financées par des cotisations volontaires des travailleurs.\n\n**2.** Les dispositions du présent chapitre ne s'opposent pas à ce qu'un employeur accorde à des personnes qui ont atteint l'âge de la retraite pour l'octroi d'une pension en vertu d'un régime professionnel de sécurité sociale, mais qui n'ont pas encore atteint l'âge de la retraite pour l'octroi d'une pension de retraite légale, un complément de pension visant à égaliser ou à rapprocher le montant des prestations globales par rapport aux personnes de l'autre sexe dans la même situation qui ont déjà atteint l'âge de la retraite légale, jusqu'à ce que les bénéficiaires du complément atteignent l'âge de la retraite légale.",
+      "text_sha256": "fd663a6329d2c111f2a707af7656cfb075b0912236d2095a928c42f2d3d4455c",
+      "md_span": {
+        "start": 7116,
+        "end": 8519
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Exemples de discrimination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Sont à classer au nombre des dispositions contraires au principe de l'égalité de traitement celles qui se fondent sur le sexe, soit directement, soit indirectement, pour:a) définir les personnes admises à participer à un régime professionnel de sécurité sociale;b) fixer le caractère obligatoire ou facultatif de la participation à un régime professionnel de sécurité sociale;c) établir des règles différentes en ce qui concerne l'âge d'entrée dans le régime ou en ce qui concerne la durée minimale d'emploi ou d'affiliation au régime pour l'obtention des prestations;d) prévoir des règles différentes, sauf dans la mesure prévue aux points h) et j), pour le remboursement des cotisations quand le travailleur quitte le régime sans avoir rempli les conditions qui lui garantissent un droit différé aux prestations à long terme;e) fixer des conditions différentes d'octroi des prestations ou réserver celles-ci aux travailleurs de l'un des deux sexes;f) imposer des âges différents de retraite;g) interrompre le maintien ou l'acquisition de droits pendant les périodes de congé de maternité ou de congé pour raisons familiales, légalement ou conventionnellement prescrits et rémunérés par l'employeur;h) fixer des niveaux différents pour les prestations, sauf dans la mesure nécessaire pour tenir compte d'éléments de calcul actuariel qui sont différents pour les deux sexes dans le cas de régimes à cotisations définies; dans le cas de régimes à prestations définies, financées par capitalisation, certains éléments peuvent être inégaux dans la mesure où l'inégalité des montants est due aux conséquences de l'utilisation de facteurs actuariels différents selon le sexe lors de la mise en œuvre du financement du régime;i) fixer des niveaux différents pour les cotisations des travailleurs;j) fixer des niveaux différents pour les cotisations des employeurs, sauf:i) dans le cas de régimes à cotisations définies, si le but est d'égaliser ou de rapprocher les montants des prestations de pension fondées sur ces cotisations,ii) dans le cas de régimes à prestations définies, financées par capitalisation lorsque les cotisations patronales sont destinées à compléter l'assiette financière indispensable pour couvrir le coût de ces prestations définies;k) prévoir des normes différentes ou des normes applicables seulement aux travailleurs d'un sexe déterminé, sauf dans la mesure prévue aux points h) et j), en ce qui concerne la garantie ou le maintien du droit à des prestations différées quand le travailleur quitte le régime.\n\n**2.** Quand l'octroi de prestations relevant du présent chapitre est laissé à la discrétion des organes de gestion du régime, ceux-ci respectent le principe de l'égalité de traitement.",
+      "text_sha256": "1878fedf2496524438eb5eba643fd106f9e87dbd6c3b0344b056bdd4cae0fe55",
+      "md_span": {
+        "start": 8585,
+        "end": 11307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Mise en œuvre en ce qui concerne les travailleurs indépendants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres prennent les mesures nécessaires afin que les dispositions des régimes professionnels de sécurité sociale des travailleurs indépendants contraires au principe de l'égalité de traitement soient révisées avec effet au 1er janvier 1993, au plus tard, ou, pour les États membres dont l'adhésion à la Communauté a eu lieu après cette date, à la date à laquelle la directive 86/378/CEE est devenue applicable sur leur territoire.\n\n**2.** Le présent chapitre ne fait pas obstacle à ce que les droits et obligations afférents à une période d'affiliation à un régime professionnel de sécurité sociale des travailleurs indépendants antérieure à la révision de ce régime demeurent régis par les dispositions du régime en vigueur au cours de cette période.",
+      "text_sha256": "1b4f75eed9322c1d92e159d9688850d7e48ceb5901e2e7be8756133d7ed77e13",
+      "md_span": {
+        "start": 11411,
+        "end": 12180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Possibilité d'application différée en ce qui concerne les travailleurs indépendants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour ce qui est des régimes professionnels de sécurité sociale de travailleurs indépendants, les États membres peuvent différer la mise en application obligatoire du principe de l'égalité de traitement en ce qui concerne:\n\na) la fixation de l'âge de la retraite pour l'octroi de pensions de vieillesse et de retraite, ainsi que les conséquences pouvant en découler pour d'autres prestations, à leur choix: i) soit jusqu'à la date à laquelle cette égalité est réalisée dans les régimes légaux, ii) soit au plus tard jusqu'à ce qu'une directive impose cette égalité;\n\nb) les pensions de survivants, jusqu'à ce que le droit communautaire impose le principe de l'égalité de traitement dans les régimes légaux de sécurité sociale sur ce sujet;\n\nc) l'application de l'article 8, paragraphe 1, point i), en ce qui concerne l'utilisation d'éléments de calcul actuariel jusqu'au 1er janvier 1999 ou, pour les États membres dont l'adhésion à la Communauté a eu lieu après cette date, à la date à laquelle la directive 86/378/CEE est devenue applicable sur leur territoire.",
+      "text_sha256": "09c7357c503874dc3d273ab732ff44a2367af8b05df799e83040b88eec1cae82",
+      "md_span": {
+        "start": 12305,
+        "end": 13367
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Effet rétroactif",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Toute mesure de transposition du présent chapitre, en ce qui concerne les travailleurs, couvre toutes les prestations en vertu des régimes professionnels de sécurité sociale attribuées aux périodes d'emploi postérieures à la date du 17 mai 1990 et aura un effet rétroactif à cette date, sans préjudice des travailleurs ou de leurs ayants droit qui ont, avant cette date, engagé une action en justice ou soulevé une réclamation équivalente selon le droit national. Dans ce cas, les mesures de transposition ont un effet rétroactif à la date du 8 avril 1976 et couvrent toutes les prestations attribuées à des périodes d'emploi après cette date. Pour les États membres qui ont adhéré à la Communauté après le 8 avril 1976 et avant le 17 mai 1990, cette date est remplacée par la date à laquelle l'article 141 du traité est devenu applicable sur leur territoire.\n\n**2.** La deuxième phrase du paragraphe 1 ne s'oppose pas à ce que les règles nationales relatives aux délais de recours de droit interne soient opposées aux travailleurs ou à leurs ayants droit qui avaient engagé une action en justice ou introduit une réclamation équivalente selon le droit national avant le 17 mai 1990, à condition qu'elles ne soient pas moins favorables pour ce type de recours que pour les recours similaires de nature interne et qu'elles ne rendent pas impossible en pratique l'exercice des droits conférés par la législation communautaire.\n\n**3.** Pour les États membres dont l'adhésion à la Communauté a eu lieu après le 17 mai 1990 et qui, au 1er janvier 1994, étaient parties contractantes à l'accord sur l'Espace économique européen, la date du 17 mai 1990 figurant à la première phrase du paragraphe 1 est remplacée par celle du 1er janvier 1994.\n\n**4.** Pour d'autres États membres dont l'adhésion à la Communauté a eu lieu après le 17 mai 1990, la date du 17 mai 1990 figurant aux paragraphes 1 et 2 est remplacée par la date à laquelle l'article 141 du traité est devenu applicable sur leur territoire.",
+      "text_sha256": "0b470c45c656f38bb4f3e8707539581c69f4d3e40d50ff0461ac8d1b641fa7f1",
+      "md_span": {
+        "start": 13425,
+        "end": 15427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Système souple de fixation de l'âge de la retraite",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Si les hommes et les femmes demandent à bénéficier, dans les mêmes conditions, d'un système souple en ce qui concerne l'âge de la retraite, cette disposition n'est pas considérée comme incompatible avec le présent chapitre.",
+      "text_sha256": "3f250cad0c01a68a759002c8d659708088c4385c2bdc4db4b8b767695335f055",
+      "md_span": {
+        "start": 15519,
+        "end": 15742
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Interdiction de toute discrimination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Toute discrimination directe ou indirecte fondée sur le sexe est proscrite dans les secteurs public ou privé, y compris les organismes publics, en ce qui concerne:a) les conditions d'accès à l'emploi, aux activités non salariées ou au travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d'activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;b) l'accès à tous les types et à tous les niveaux d'orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l'acquisition d'une expérience pratique du travail;c) les conditions d'emploi et de travail, y compris les conditions de licenciement ainsi que la rémunération, comme le prévoit l'article 141 du traité;d) l'affiliation à, et l'engagement dans, une organisation de travailleurs ou d'employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d'organisation.\n\n**2.** Les États membres peuvent prévoir, en ce qui concerne l'accès à l'emploi, y compris la formation qui y donne accès, qu'une différence de traitement fondée sur une caractéristique liée au sexe ne constitue pas une discrimination lorsque, en raison de la nature des activités professionnelles particulières concernées ou du cadre dans lequel elles se déroulent, une telle caractéristique constitue une exigence professionnelle véritable et déterminante, pour autant que son objectif soit légitime et que l'exigence soit proportionnée.",
+      "text_sha256": "f104f3f3cfcd930f32070ba9eacf0548804bb2ad39356075924e4a9a954356f6",
+      "md_span": {
+        "start": 15820,
+        "end": 17409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Retour de congé de maternité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une femme en congé de maternité a le droit, au terme de ce congé, de retrouver son emploi ou un emploi équivalent à des conditions qui ne lui soient pas moins favorables et de bénéficier de toute amélioration des conditions de travail à laquelle elle aurait eu droit durant son absence.",
+      "text_sha256": "281a805b039e38503b5667ac4440d9c1a2fb1ce7c164e9499bb66aa0aee312d9",
+      "md_span": {
+        "start": 17479,
+        "end": 17765
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Congé de paternité ou d'adoption",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive est aussi sans préjudice de la faculté dont disposent les États membres de reconnaître des droits distincts au congé de paternité et/ou d'adoption. Les États membres qui reconnaissent de tels droits prennent les mesures nécessaires pour protéger les travailleurs et travailleuses du licenciement résultant de l'exercice de ces droits et pour veiller à ce que, à l'issue de ce congé, ils aient le droit de retrouver leur emploi ou un emploi équivalent à des conditions qui ne leur soient pas moins favorables et de bénéficier de toute amélioration des conditions de travail à laquelle ils auraient eu droit durant leur absence.",
+      "text_sha256": "8f3344f5f8894c8b1c5f5f55aa3033d857afcda0c6755885166c6b00b6823d82",
+      "md_span": {
+        "start": 17839,
+        "end": 18487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Défense des droits",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres veillent à ce que, après un recours éventuel à d'autres instances compétentes, y compris, lorsqu'ils l'estiment approprié, à des procédures de conciliation, des procédures judiciaires visant à faire respecter les obligations découlant de la présente directive soient accessibles à toutes les personnes qui s'estiment lésées par la non-application à leur égard du principe de l'égalité de traitement, même après que les relations dans lesquelles la discrimination est présumée s'être produite ont cessé.\n\n**2.** Les États membres veillent à ce que les associations, les organisations ou les autres entités juridiques qui ont, conformément aux critères fixés par leur législation nationale, un intérêt légitime à veiller à ce que les dispositions de la présente directive soient respectées puissent, au nom ou à l'appui du plaignant, avec son approbation, engager toute procédure judiciaire et/ou administrative prévue pour faire respecter les obligations découlant de la présente directive.\n\n**3.** Les paragraphes 1 et 2 s'entendent sans préjudice des règles nationales relatives aux délais impartis pour former un recours en ce qui concerne le principe de l'égalité de traitement.",
+      "text_sha256": "36791e74ef9d3f1b7c3981753117fd152ec92876a2dad959bdb7ee12b54ff761",
+      "md_span": {
+        "start": 18547,
+        "end": 19753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Indemnisation ou réparation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres introduisent dans leur ordre juridique interne les mesures nécessaires pour veiller à ce que le préjudice subi par une personne lésée du fait d'une discrimination fondée sur le sexe soit effectivement réparé ou indemnisé selon des modalités qu'ils fixent, de manière dissuasive et proportionnée par rapport au dommage subi. Une telle compensation ou réparation ne peut être a priori limitée par un plafond maximal, sauf dans les cas où l'employeur peut prouver que le seul dommage subi par un demandeur comme à la suite d'une discrimination au sens de la présente directive est le refus de prendre en considération sa demande d'emploi.",
+      "text_sha256": "a6a18bc7b03808d38ac7d72f43b8885f0a04ff98e5cca306e35b270b48bcea9c",
+      "md_span": {
+        "start": 19822,
+        "end": 20475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Charge de la preuve",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres, conformément à leur système judiciaire, prennent les mesures nécessaires afin que, dès lors qu'une personne s'estime lésée par le non-respect à son égard du principe de l'égalité de traitement et établit, devant une juridiction ou une autre instance compétente, des faits qui permettent de présumer l'existence d'une discrimination directe ou indirecte, il incombe à la partie défenderesse de prouver qu'il n'y a pas eu violation du principe de l'égalité de traitement.\n\n**2.** Le paragraphe 1 n'empêche pas les États membres d'imposer un régime probatoire plus favorable à la partie demanderesse.\n\n**3.** Les États membres peuvent ne pas appliquer le paragraphe 1 aux procédures dans lesquelles l'instruction des faits incombe à la juridiction ou à l'instance compétente.\n\n**4.** Les paragraphes 1, 2 et 3 s'appliquent également:a) aux situations couvertes par l'article 141 du traité et, dans la mesure où il y a discrimination fondée sur le sexe, par les directives 92/85/CEE et 96/34/CE;b) dans le cadre de toute procédure civile ou administrative concernant le secteur public ou le secteur privé qui prévoit les recours selon le droit national en application des dispositions visées au point a), à l'exception des procédures gracieuses de nature volontaire ou prévues par le droit national.\n\n**5.** Le présent article ne s'applique pas aux procédures pénales, sauf si les États membres en disposent autrement.",
+      "text_sha256": "dfea9a4099028a0e6c01f440d96bc4da8a25d216da4258cda3441f361cd9634d",
+      "md_span": {
+        "start": 20536,
+        "end": 21976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Dialogue social",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Conformément à leurs traditions et pratiques nationales, les États membres prennent les mesures appropriées afin de favoriser le dialogue social entre les partenaires sociaux en vue de promouvoir l'égalité de traitement, y compris, par exemple, par la surveillance des pratiques sur le lieu de travail, dans l'accès à l'emploi, à la formation et à la promotion professionnelles, ainsi que par la surveillance des conventions collectives, par des codes de conduite, par la recherche ou par l'échange d'expériences et de bonnes pratiques.\n\n**2.** Dans le respect de leurs traditions et pratiques nationales, les États membres encouragent les partenaires sociaux, sans préjudice de leur autonomie, à promouvoir l'égalité entre hommes et femmes et des règles de travail souples contribuant à faciliter une meilleure conciliation entre vie professionnelle et vie privée et à conclure, au niveau approprié, des accords établissant des règles de non-discrimination dans les domaines visés à l'article 1er qui relèvent du champ d'application des négociations collectives. Ces accords respectent les dispositions de la présente directive et les mesures nationales d'exécution.\n\n**3.** Les États membres encouragent, en conformité avec la législation nationale, les conventions collectives ou les pratiques nationales, les employeurs à promouvoir, de manière organisée et systématique, l'égalité de traitement des hommes et des femmes sur le lieu de travail, dans l'accès à l'emploi, à la formation et à la promotion professionnelles.\n\n**4.** À cet effet, les employeurs sont encouragés à fournir, à intervalles réguliers appropriés, aux travailleurs et/ou à leurs représentants, des informations appropriées sur l'égalité de traitement entre hommes et femmes dans l'entreprise.Ces informations peuvent contenir une synthèse portant sur les pourcentages d'hommes et de femmes aux différents niveaux de l'entreprise, les rémunérations et les écarts de rémunération, et les mesures possibles pour améliorer la situation, en coopération avec les représentants des travailleurs.",
+      "text_sha256": "42a684a832638303f3c86d54395b3a830a29a25830493cce72f8e342f7a0a8c4",
+      "md_span": {
+        "start": 22033,
+        "end": 24104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Dialogue avec les organisations non gouvernementales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres encouragent le dialogue avec les organisations non gouvernementales concernées qui ont, conformément aux pratiques et législations nationales, un intérêt légitime à contribuer à la lutte contre les discriminations fondées sur le sexe, en vue de promouvoir le principe de l'égalité de traitement.",
+      "text_sha256": "478e3efd48f1174d6bd126c9e282b775cf08c0cfe5d0233733dcbcad89dd96d9",
+      "md_span": {
+        "start": 24198,
+        "end": 24511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Conformité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres prennent toutes les mesures nécessaires pour que:\n\na) soient supprimées toutes dispositions législatives, réglementaires et administratives contraires au principe de l'égalité de traitement;\n\nb) soient ou puissent être déclarées nulles et non avenues ou soient modifiées les dispositions contraires au principe de l'égalité de traitement qui figurent dans les contrats individuels ou les conventions collectives, dans les règlements intérieurs des entreprises ou dans les règles régissant les professions indépendantes et les organisations de travailleurs et d'employeurs ou encore dans tout autre type d'accord;\n\nc) les régimes professionnels de sécurité sociale contenant de telles dispositions ne puissent faire l'objet de mesures administratives d'approbation ou d'extension.",
+      "text_sha256": "600944e190219b8e5b5c534467776f678c3644b26847f61e9fd215cb1b7d84a4",
+      "md_span": {
+        "start": 24563,
+        "end": 25360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Protection contre les rétorsions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres introduisent dans leur ordre juridique interne les mesures nécessaires prévues par la législation et/ou les pratiques nationales, pour protéger les travailleurs, y compris leurs représentants, contre tout licenciement ou tout autre traitement défavorable par l'employeur en réaction à une plainte formulée au niveau de l'entreprise ou à une action en justice visant à faire respecter le principe de l'égalité de traitement.",
+      "text_sha256": "ca9a45650cae4ce12ce31a5beffc361f815dd248ebdc97cdc42f095bac2b9775",
+      "md_span": {
+        "start": 25434,
+        "end": 25875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Sanctions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres déterminent le régime des sanctions applicables aux violations des dispositions nationales adoptées conformément à la présente directive et prennent toute mesure nécessaire pour assurer l'application de ces sanctions. Les sanctions, qui peuvent comprendre le versement d'indemnités à la victime, doivent être effectives, proportionnées et dissuasives. Les États membres notifient les dispositions pertinentes à la Commission au plus tard le 5 octobre 2005 et toute modification ultérieure les concernant dans les meilleurs délais.",
+      "text_sha256": "02e940f932b8868d4006f9e1fa71fdc99719e3a93bc51a87174b480dfc0bb0bd",
+      "md_span": {
+        "start": 25926,
+        "end": 26474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Prévention de toute discrimination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres encouragent, dans le cadre de leurs législation, conventions collectives ou pratiques nationales, les employeurs et les personnes responsables de l'accès à la formation professionnelle à prendre des mesures efficaces pour empêcher toute forme de discrimination fondée sur le sexe et, en particulier, le harcèlement et le harcèlement sexuel sur le lieu de travail dans l'accès à l'emploi, à la formation et à la promotion professionnelles.",
+      "text_sha256": "cc09b59e000cea7734fe2e8ec2ac53aa1a11b022a54da07a87465706f46b3a90",
+      "md_span": {
+        "start": 26550,
+        "end": 27006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Prescriptions minimales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres peuvent adopter ou maintenir des dispositions plus favorables à la protection du principe de l'égalité de traitement que celles qui sont prévues dans la présente directive.\n\n**2.** La mise en œuvre de la présente directive ne constitue en aucun cas un motif suffisant pour justifier une réduction du niveau de protection des travailleurs dans les domaines couverts par celle-ci, sans préjudice du droit des États membres d'adopter, eu égard à l'évolution de la situation, des dispositions législatives, réglementaires ou administratives différentes de celles qui existent au moment de la notification de la présente directive, pour autant que les dispositions de la présente directive soient respectées.",
+      "text_sha256": "e14cd8b673035e1717d991649b2d2c9126b174dcef8038802f5c816141e406d2",
+      "md_span": {
+        "start": 27071,
+        "end": 27799
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Lien avec les dispositions communautaires ou nationales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** La présente directive ne fait pas obstacle aux dispositions relatives à la protection de la femme, notamment en ce qui concerne la grossesse et la maternité.\n\n**2.** La présente directive s'entend sans préjudice des dispositions des directives 96/34/CE et 92/85/CEE.",
+      "text_sha256": "c42a01a1d62a15e4354edac4db2fc5c50761ffc434aaac7793e8c80129daa1ca",
+      "md_span": {
+        "start": 27896,
+        "end": 28169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Intégration dans les différentes politiques des questions d'égalité entre les hommes et les femmes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres tiennent activement compte de l'objectif de l'égalité entre hommes et femmes lors de l'élaboration et de la mise en œuvre des dispositions législatives, réglementaires et administratives, ainsi que des politiques et activités dans les domaines visés par la présente directive.",
+      "text_sha256": "9615c46f63207a48e6baa94b18bd5c09403ee31d56d3419fc4e8060e8d64b308",
+      "md_span": {
+        "start": 28309,
+        "end": 28603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Diffusion de l'information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à ce que les mesures prises en application de la présente directive, ainsi que les dispositions déjà en vigueur en la matière, soient portées à la connaissance de toute personne concernée, sous toute forme appropriée, et, le cas échéant, sur le lieu de travail.",
+      "text_sha256": "99016d9d776ef0d055fc1b532dae7871efc1fc73c0e978c3c6268e2ff7b891c4",
+      "md_span": {
+        "start": 28671,
+        "end": 28959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Rapports",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Au plus tard le 15 février 2011, les États membres communiquent à la Commission toutes les informations nécessaires à l'établissement par la Commission d'un rapport au Parlement européen et au Conseil sur l'application de la présente directive.\n\n**2.** Sans préjudice du paragraphe 1, les États membres communiquent à la Commission, tous les quatre ans, le texte des mesures adoptées en application de l'article 141, paragraphe 4, du traité, ainsi que des rapports sur ces mesures et leur mise en œuvre. Sur la base de ces informations, la Commission adopte et publie, tous les quatre ans, un rapport établissant une évaluation comparative de ces mesures à la lumière de la déclaration no 28 annexée à l'acte final du traité d'Amsterdam.\n\n**3.** Les États membres procèdent à un examen des activités professionnelles visées à l'article 14, paragraphe 2, afin d'apprécier, compte tenu de l'évolution sociale, s'il est justifié de maintenir les exclusions concernées. Ils communiquent périodiquement, et au moins tous les huit ans, le résultat de cet examen à la Commission.",
+      "text_sha256": "b3ac4f048d2ed95a667d4b26d1ac142e7c2355e9d440d5dd23c557c0df0fedd5",
+      "md_span": {
+        "start": 29009,
+        "end": 30088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Réexamen",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Au plus tard le 15 février 2013, la Commission examine la mise en œuvre de la présente directive et, le cas échéant, propose toute modification qu'elle juge nécessaire.",
+      "text_sha256": "0b51af3a61e30c3f8c3c142c3354a0d08cab933dfe76bd6aafeb79bd76647551",
+      "md_span": {
+        "start": 30138,
+        "end": 30306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Mise en œuvre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 15 août 2008 ou veillent, d'ici à cette date, à ce que les partenaires sociaux introduisent les dispositions requises par voie d'accord. Si des difficultés particulières le justifient, les États membres peuvent disposer d'un an de plus pour se conformer à la présente directive. Les États membres prennent toutes les mesures nécessaires leur permettant d'être en mesure de garantir les résultats imposés par la présente directive. Ils communiquent immédiatement à la Commission le texte de ces mesures.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Elles contiennent également une mention précisant que les références faites, dans les dispositions législatives, réglementaires et administratives en vigueur, aux directives abrogées par la présente directive s'entendent comme faites à la présente directive. Les modalités de cette référence et la formulation de cette mention sont arrêtées par les États membres.\n\nL'obligation de transposer la présente directive en droit national est limitée aux dispositions qui constituent une modification de fond par rapport aux directives précédentes. L'obligation de transposer les dispositions inchangées résulte des directives précédentes.\n\nLes États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "5fa0121462aadf65829d71abf299d61188f1b2c9cb2b77ef6ecdcc9d3c0c7462",
+      "md_span": {
+        "start": 30361,
+        "end": 32030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Abrogation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Avec effet au 15 août 2009, les directives 75/117/CEE, 76/207/CEE, 86/378/CEE et 97/80/CE sont abrogées, sans préjudice des obligations des États membres en ce qui concerne les délais de transposition en droit interne et d'application des directives indiqués à l'annexe I, partie B.\n\n**2.** Les références faites aux directives abrogées s'entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l'annexe II.",
+      "text_sha256": "73234eda0703615b96273ecedc625229536fddbd8b3c84d6da764da94f223a82",
+      "md_span": {
+        "start": 32082,
+        "end": 32548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.",
+      "text_sha256": "1c2af73dbfcc7ea246028ca391a47177896e40ae1c897bfe0c7122790b3b709e",
+      "md_span": {
+        "start": 32607,
+        "end": 32740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32006l0054:2026-06-19--6a5464bcdf1d7c2b81ce1ec27b5da9c45004984f12eb8c51c129d1c9c4647b3d#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": "Destinataires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 32795,
+        "end": 32857
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

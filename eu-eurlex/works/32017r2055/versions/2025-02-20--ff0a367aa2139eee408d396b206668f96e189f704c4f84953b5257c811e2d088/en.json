@@ -1,0 +1,354 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/2055 of 23 June 2017 supplementing Directive (EU) 2015/2366",
+  "valid_from": "2025-02-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2055/versions/2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088/en.html",
+    "sha256": "3b1da89071dba559d48caa6389cd2731850cb92bdfb5048491f5c7a0faf0329c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2055-20250220"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Scope",
+      "path": [
+        "CHAPTER 1 — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** This Regulation establishes rules on the cooperation and exchange of information between competent authorities of home and host Member States regarding notifications for the exercise of the right of establishment or the freedom to provide services by payment institutions, in accordance with Article 28 of Directive 2015/2366/EC.\n\n**2.** This Regulation applies *mutatis mutandis* to notifications between competent authorities of home and host Member States for the exercise of the right of establishment or of the freedom to provide services by electronic money institutions, including where they distribute electronic money by engaging a natural or legal person, in accordance with Article 3(1), (4) and (5) of Directive 2009/110/EC and Article 111 of Directive 2015/2366/EC.\n\n**3.** The scope and treatment of information exchanged between competent authorities under the framework for cooperation defined in this Regulation does not entail any consequence on the competence of the home and host authorities as defined under Directive (EU) 2015/2366.",
+      "text_sha256": "6f92f8d64caaa88e5c27137e81ba9ba2afcaada1a2e83aab058344fbc06d7036",
+      "md_span": {
+        "start": 768,
+        "end": 1829
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER 1 — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(a) ‘passport application’ means a branch passport application, a services passport application or an agent passport application;\n\n(b) ‘branch passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution wishing to establish a branch in another Member State;\n\n(c) ‘services passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution seeking to provide services in another Member State;\n\n(d) ‘agent passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution seeking to provide payment services in another Member State by engaging an agent as referred to in Article 19(5) of that Directive.",
+      "text_sha256": "794a91cbb8fbef89f1fc13151348ec1b32ebeb363e9c9274676a90220c1246fc",
+      "md_span": {
+        "start": 1880,
+        "end": 2804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "General requirements",
+      "path": [
+        "CHAPTER 1 — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Notifications referred to in Article 1(1) shall be transmitted by means of the templates set out in Annexes II, III, V and VI.\n\n**2.** Notifications referred to in Article 1(2) shall be transmitted by means of the templates set out in Annexes II, III, V and VI.\n\n**3.** Notifications referred to in Article 1(2) where electronic money institutions distribute electronic money by engaging a natural or legal person shall be transmitted by means of the templates set out in Annexes IV and VI.\n\n**4.** The templates referred to in paragraphs 1, 2 and 3, and the information contained therein, shall comply with the following requirements:(a) they shall be in writing and in a language accepted by the competent authorities of both the home and the host Member States;(b) they shall be transmitted by electronic means, where those means are accepted by the competent authorities of the host Member State in which the payment institution intends to provide payment services, followed by an electronic confirmation of receipt by those competent authorities, or transmitted by post with acknowledgement of receipt.\n\n**5.** Each competent authority shall make the following information available to the other competent authorities:(a) the languages accepted, in accordance with point (a) of paragraph 4;(b) the email address to which information and templates are to be transmitted where submitted by electronic means or the address to which information and templates are to be sent where submitted by post.",
+      "text_sha256": "1dbaf047390acf0f587a56d4fdd960f464b655c63e9270dd7c0a6fb6948026c1",
+      "md_span": {
+        "start": 2864,
+        "end": 4370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Assessment of completeness and accuracy",
+      "path": [
+        "CHAPTER 1 — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** On receipt of a passport application by a payment institution, the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided pursuant to Article 28(1) of Directive (EU) 2015/2366.\n\n**2.** Where the information provided in the application is assessed to be incomplete or incorrect pursuant to paragraph 1, the competent authority of the home Member State shall inform the payment institution without delay, indicating in which respect the information is considered to be incomplete or incorrect.\n\n**3.** The time periods referred to in the first subparagraph of Article 28(2) and the first subparagraph of Article 28(3) of Directive (EU) 2015/2366 shall be considered as having commenced on the date of receipt of a complete and accurate passport application.",
+      "text_sha256": "336ba58e25c0b9e84201df1273ee2f12d660f9cce24ee10033eaf7d346101017",
+      "md_span": {
+        "start": 4449,
+        "end": 5274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Settlement of disagreements between competent authorities",
+      "path": [
+        "CHAPTER 1 — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where a procedure for settlement of disagreements between competent authorities of different Member States has been initiated in accordance with Article 27 of Directive (EU) 2015/2366 in relation to a passport application from a payment institution pursuant to Article 28 of that Directive, the competent authorities of the home Member State shall inform the payment institution of the deferral of a decision on the application pending resolution under Article 19 of Regulation (EU) No 1093/2010.",
+      "text_sha256": "e1153eefd85d124b0b9f36bc581c6a218a82253799f581866180cce00cb9e7b7",
+      "md_span": {
+        "start": 5371,
+        "end": 5867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Information to be transmitted",
+      "path": [
+        "CHAPTER 2 — BRANCH PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where a branch passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;(b) the Member State in which the payment institution intends to operate;(c) the type of the passport application;(d) the name, the address and, where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I;(e) where available, the Legal Entity Identifier of the payment institution;(f) the identity and contact details of a contact person at the payment institution submitting the branch notification;(g) the address of the branch to be established in the host Member State;(h) the identity and contact details of the persons responsible for the management of the branch to be established in the host Member State;(i) the payment services to be provided in the host Member State;(j) the organisational structure of the branch to be established in the host Member State;(k) a business plan, including a forecast budget calculation for the first three financial years, which demonstrates that the branch is able to employ the appropriate and proportionate systems, resources and procedures to operate soundly in the host Member State;(l) a description of the branch's governance arrangements and internal control mechanisms, including administrative procedures and risk management procedures, which demonstrates that these governance arrangements, control mechanisms and procedures are proportionate, appropriate, sound and adequate with regard to the payment service business in the host Member State and comply with requirements on money laundering and terrorist financing under Directive (EU) 2015/849 of the European Parliament and of the Council (1).\n\n**2.** Where a payment institution has informed the competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.",
+      "text_sha256": "fc07548167438674999c189fb60c7b6e4a3f04045c35ec4f981d03db6435b85e",
+      "md_span": {
+        "start": 5980,
+        "end": 8448
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Transmission of the information",
+      "path": [
+        "CHAPTER 2 — BRANCH PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the home Member State shall transmit the information referred to in Article 6 to the competent authorities of the host Member State by means of the template set out in Annex II, and inform the payment institution that they have transmitted the information.\n\n**2.** Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex II.",
+      "text_sha256": "b76718f345d5c8dd63170860a6c15ed24184587b7590c399775d2a879bff00c1",
+      "md_span": {
+        "start": 8519,
+        "end": 8976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Communication of changes to the application",
+      "path": [
+        "CHAPTER 2 — BRANCH PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.\n\n**2.** For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex II to this Regulation that are affected by the changes.",
+      "text_sha256": "b39a9e7316ae3c32dfdf121c90443fce7566bf5680e654b82017168f37ccca21",
+      "md_span": {
+        "start": 9059,
+        "end": 9714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Information on the start of activities of the branch",
+      "path": [
+        "CHAPTER 2 — BRANCH PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of the third subparagraph of Article 28(3) of Directive (EU) 2015/2366, the competent authorities of the home Member State shall communicate the date from which a payment institution commences its activities in a host Member State to the competent authorities of that host Member State without undue delay, by means of the template set out in Annex VI to this Regulation.",
+      "text_sha256": "e4fbb57c4ca8a91e53df32c0e5545004be4fe3b1813ba3eb4f3820ff0d554384",
+      "md_span": {
+        "start": 9806,
+        "end": 10194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Information to be transmitted",
+      "path": [
+        "CHAPTER 3 — AGENT PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where an agent passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;(b) the Member State in which the payment institution intends to operate by engaging an agent;(c) the type of the passport application;(d) the nature of the passport application and, where the use of the agent in the host Member State does not give rise to an establishment, a description of the circumstances taken into account by the competent authority in the home Member State in its assessment;(e) the name, the address and, where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I;(f) where available, the Legal Entity Identifier of the payment institution;(g) the identity and contact details of a contact person within the payment institution submitting the agent passport notification;(h) the identity and contact details of the agent engaged by the payment institution;(i) the unique identification number of the agent in the Member State where it is located, where applicable, in accordance with the formats provided in Annex I;(j) where applicable, the identity and contact details of the persons responsible for the central contact point, where this has been appointed in accordance with Article 29(4) of Directive (EU) 2015/2366;(k) the payment services to be provided in the host Member State by engaging the agent;(l) a description of the internal control mechanisms that will be applied by the agent in order to comply with requirements on anti-money laundering and terrorist financing under Directive (EU) 2015/849;(m) the identity and contact details of directors and persons responsible for the management of the agent to be used in the provision of payment services and, for agents other than payment service providers, evidence that they are fit and proper persons.\n\n**2.** Where a payment institution has informed competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.",
+      "text_sha256": "d27a148ca1e1a3b9634f4e21e329109c1a40b51a74605f1f9f003ac3b8dff509",
+      "md_span": {
+        "start": 10308,
+        "end": 12910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Transmission of the information",
+      "path": [
+        "CHAPTER 3 — AGENT PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the home Member State shall transmit the information referred to in Article 10 to the competent authorities of the host Member State by means of the template set out in Annex III, and inform the payment institution that they have transmitted the information.\n\n**2.** Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex III.",
+      "text_sha256": "9f41bb77ffacba30ee1225535b9a02ca0b8911aca8980baa1cae4881ca7cabe5",
+      "md_span": {
+        "start": 12983,
+        "end": 13443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Communication of changes to the application",
+      "path": [
+        "CHAPTER 3 — AGENT PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous agent passport application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.\n\n**2.** For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex III that are affected by the changes.",
+      "text_sha256": "86063a461c4d457d932ddcc0b40e122b0d2d215e4f0f4ce84d211b73126477d4",
+      "md_span": {
+        "start": 13528,
+        "end": 14180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Information on the start of the activities of the agent",
+      "path": [
+        "CHAPTER 3 — AGENT PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of the third subparagraph of Article 28(3) of Directive (EU) 2015/2366, the competent authorities of the home Member State shall communicate the date from which a payment institution commences its activities through an agent in a host Member State to the competent authorities of that host Member State without undue delay, by means of the template laid down in Annex VI to this Regulation.",
+      "text_sha256": "9df660a6bc7e58c9ecc506c0cb0cb7bd45b6264b720cab63b8a997c238bf7e43",
+      "md_span": {
+        "start": 14277,
+        "end": 14684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Information to be transmitted",
+      "path": [
+        "CHAPTER 4 — SERVICES PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where a services passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;(b) the Member State in which the payment institution intends to provide services;(c) the type of the passport application;(d) the name, the address and where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I(e) where available, the Legal Entity Identifier of the payment institution;(f) the identity and contact details of a contact person within the payment institution submitting the services passport application;(g) the intended date of start of the provision of services in the host Member State;(h) the payment service(s) to be provided in the host Member State.\n\n**2.** Where a payment institution has informed the competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.",
+      "text_sha256": "451d2ec16067200b5f2437ea1dd1d39bf4db8d41966be9956eed29945c805f0f",
+      "md_span": {
+        "start": 14801,
+        "end": 16292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Transmission of information",
+      "path": [
+        "CHAPTER 4 — SERVICES PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The competent authorities of the home Member State shall transmit the information referred to in Article 14 to the competent authorities of the host Member State by means of the template set out in Annex V, and inform the payment institution that they have transmitted the information.\n\n**2.** Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex V.",
+      "text_sha256": "8170076b9a3e75ec7f81a1512ab19c89485d0969eabf3aa6cb6e9803d9ba4d9c",
+      "md_span": {
+        "start": 16361,
+        "end": 16817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Communication of changes to a services passport application",
+      "path": [
+        "CHAPTER 4 — SERVICES PASSPORT APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous services passport application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.\n\n**2.** For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex V that are affected by the changes.",
+      "text_sha256": "af849b1f5ab65a4496c74db571cbda3018174ea86d39b89d1ead05b065f32022",
+      "md_span": {
+        "start": 16918,
+        "end": 17571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r2055:2025-02-20--ff0a367aa2139eee408d396b206668f96e189f704c4f84953b5257c811e2d088#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER 5 — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 17662,
+        "end": 17804
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

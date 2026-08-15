@@ -1,0 +1,389 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762",
+  "language": "fr",
+  "title": "TEXTE COORDONNE du RGD modifié du 23 mars 2009",
+  "valid_from": "2013-09-15",
+  "valid_to": "2025-09-14",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-03-23-n1/versions/2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762/fr.xml",
+    "sha256": "d44ec4cee0a2f196917d54d90191ff04ca8b8cf28e36e7b53dca406d38621c46",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20130915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'enseignement direct et l'appui pédagogique comprennent la conduite des leçons ou de l'appui pédagogique, la préparation des leçons, respectivement des heures d'appui, la correction des devoirs, la documentation et l'évaluation des progrès des élèves, la surveillance des élèves telle que définie par l'organisation scolaire arrêtée par le conseil communal, ainsi que la participation aux réunions de service.",
+      "text_sha256": "56fc94b04f27a1d13f1c349b5e16084d69612e915351be6ac8b3634c39f63114",
+      "md_span": {
+        "start": 607,
+        "end": 1017
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Si les conditions locales le permettent et en accord avec le comité d'école et l'inspecteur, des leçons d'enseignement direct peuvent être remplacées par des heures d'appui pédagogique; des heures d'appui pédagogique peuvent être remplacées par des leçons d'enseignement direct.",
+      "text_sha256": "b1729c4290f77bd2ed9aed640722888ce63f1353eb2afba28b106d3fbc5b6f80",
+      "md_span": {
+        "start": 1052,
+        "end": 1330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La durée d'une leçon est fixée à 55 minutes. Pour des raisons d'organisation cette durée peut être réduite à 50 minutes sans que toutefois le nombre des leçons d'enseignement à durée réduite ne dépasse les 2/5 de la somme des leçons d'enseignement et des heures d'appui pédagogique.",
+      "text_sha256": "5969dd49698285ce10e0783772a0b982a712347692a3d2598a9481c4be44feb1",
+      "md_span": {
+        "start": 1365,
+        "end": 1647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les heures de travail à assurer dans l'intérêt des élèves et de l'école sont constituées de:\n\n- 60 heures de concertation au sein de l'équipe pédagogique, avec les équipes multi-professionnelles et les collaborateurs de la maison-relais;\n- 40 heures de disponibilité pour le partenariat avec les parents des élèves. Les réunions et les entretiens avec les parents d'élèves sont à fixer à des horaires qui tiennent compte des contraintes des parents exerçant une activité professionnelle;\n- 18 heures de travaux administratifs;\n- l'équivalent de 8 heures de formation continue.",
+      "text_sha256": "c6d5c2e413cd60c623acb23d97b3008ca2d79dd0eac819e351f4c4a901b8c887",
+      "md_span": {
+        "start": 1682,
+        "end": 2258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'année scolaire est divisée en trois périodes de référence correspondant chacune à un trimestre. La moitié des heures d'appui pédagogique, des heures de concertation et des heures de disponibilité pour le partenariat avec les parents des élèves peuvent être réparties de manière inégale sur les trois périodes de référence selon les besoins des élèves. Les heures excédant la durée prévue et les heures inférieures à la durée prévue de la 1 re et 2 e période peuvent être reportées à la période suivante.",
+      "text_sha256": "1e9eccb6ad8235d0b9d77413059ec2ca554f27b7564f7612f36e4473d76c249a",
+      "md_span": {
+        "start": 2293,
+        "end": 2798
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les heures de formation continue peuvent être réparties de manière inégale sur une période de trois années sous réserve que le total des heures de formation continue n'est pas inférieur à 24.",
+      "text_sha256": "f150972bcb0000690bb6d1cf197176765444ba18805778e5965f74afea4949c5",
+      "md_span": {
+        "start": 2833,
+        "end": 3024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "À la fin de chaque trimestre, l'instituteur remet le relevé sur les heures d'appui pédagogique et de travail dans l'intérêt des élèves et de l'école prestées au cours de la période de référence écoulée au président qui transmet l'ensemble des relevés des instituteurs de l'école à l'inspecteur.",
+      "text_sha256": "a0fc6bffa8f8ba52e7a14b25f843abc20bfc373876b607c5d8a32e7f97f9a0b2",
+      "md_span": {
+        "start": 3059,
+        "end": 3353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La préparation des leçons d'enseignement et des heures d'appui pédagogique, la correction des devoirs, la documentation et l'évaluation des progrès des élèves, la concertation au sein de l'équipe pédagogique, la disponibilité pour le partenariat avec les parents des élèves, les travaux administratifs, la formation continue ainsi que les activités connexes déterminées à l'article 14 peuvent également être réparties sur les périodes pendant lesquelles les classes chôment.",
+      "text_sha256": "6703cc9ea1b736841243f83a030e3ed5428e8dc61e3ccbc71b8e453bd677df5a",
+      "md_span": {
+        "start": 3388,
+        "end": 3862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La tâche de l'instituteur des deuxième, troisième et quatrième cycles bénéficiant d'une demi-tâche ou d'un congé pour travail à mi-temps comprend 11 leçons d'enseignement direct et 27 heures d'appui pédagogique.\n\nLa tâche de l'instituteur du premier cycle bénéficiant d'une demi-tâche ou d'un congé pour travail à mi-temps comprend 12 leçons d'enseignement direct et 27 heures d'appui pédagogique.\n\nLa tâche de l'instituteur des deuxième, troisième et quatrième cycles assurant un service à temps partiel, correspondant à 75% d'une tâche complète, comprend 17 leçons d'enseignement direct et 40 heures d'appui pédagogique.\n\nLa tâche de l'instituteur du premier cycle assurant un service à temps partiel, correspondant à 75% d'une tâche complète, comprend 18 leçons d'enseignement direct et 40 heures d'appui pédagogique.\n\nPour tous, le nombre d'heures de concertation et de formation continue est le même que celui des instituteurs assurant un service à temps complet.\n\nLe nombre d'heures de disponibilité pour le partenariat avec les parents des élèves et le nombre d'heures de travaux administratifs peut être fixé en concertation avec le ou les instituteurs assurant le service à temps partiel complémentaire à une tâche complète de manière que les totaux des heures de travail correspondent à ceux prévus pour une tâche normale.",
+      "text_sha256": "541d0657d4a6864dfdbcca5a78a9ebc0d4d99c785dd036477913bd7e3811c46a",
+      "md_span": {
+        "start": 3897,
+        "end": 5229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les instituteurs de l'enseignement fondamental bénéficient des décharges pour années d'âge suivantes:\n\n- après 45 années d'âge: 1 leçon d'enseignement\n- après 50 années d'âge: 2 leçons d'enseignement\n- après 55 années d'âge: 4 leçons d'enseignement.\n\nLa décharge est due à partir du premier du mois qui suit celui où le titulaire aura atteint l'âge de 45, 50 ou 55 ans. Si elle est attribuée en cours d'année scolaire elle est créditée sous forme de leçon supplémentaire d'après les modalités définies à l'article 17 jusqu'à la fin de l'année scolaire et prise en compte dans l'organisation scolaire de l'année subséquente.",
+      "text_sha256": "26fcad62b75eea2973afae8b4c0de0c3eaa86c17165d44896f589fbf74c60fb8",
+      "md_span": {
+        "start": 5266,
+        "end": 5889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsqu'un instituteur bénéficie d'un congé pour travail à mi-temps, la moitié de la décharge pour années d'âge est mise en compte.\n\nLorsqu'un instituteur assure un service à temps partiel correspondant à 25% d'une tâche complète, la décharge n'est pas accordée.\n\nLorsqu'un instituteur assure un service à temps partiel correspondant à 50% ou 75% d'une tâche complète, la décharge est réduite respectivement à 50% ou à 75% des leçons hebdomadaires à mettre en compte.",
+      "text_sha256": "30ecf2fb6d7ccdf7e1512f150d0579d34f148c3e607893b549e6b80991427b08",
+      "md_span": {
+        "start": 5926,
+        "end": 6392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La tâche de l'instituteur de l'enseignement fondamental peut également comprendre des activités connexes à autoriser par le ministre pour la durée renouvelable d'une année scolaire consistant en:\n\n1. des activités dans l'intérêt du fonctionnement de l'école non comprises dans les activités définies à l'article 4;\n2. des activités dans l'intérêt de l'enseignement en général.",
+      "text_sha256": "d5c45fee4a47ead4ba0493956e746f259560966ea71c71f33273cd9f40c084c6",
+      "md_span": {
+        "start": 6429,
+        "end": 6805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les activités dans l'intérêt du fonctionnement de l'école non comprises dans les activités définies à l'article 4 peuvent comprendre:\n\n- la coordination du cycle;\n- la participation au comité d'école ou au comité de gestion;\n- la présidence du comité d'école;\n- le secrétariat de la Commission d'inclusion scolaire;\n- la gestion et l'animation de la bibliothèque scolaire et de la médiathèque;\n- la gestion du parc informatique;\n- la prestation d'activités périscolaires dans le domaine du sport, de la musique et des arts;\n- la délégation à la sécurité.",
+      "text_sha256": "a19605c030d27425275048175f4a5e05d4de07e3cb7970be65388a2399b94bcf",
+      "md_span": {
+        "start": 6842,
+        "end": 7396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les activités dans l'intérêt de l'enseignement en général peuvent comprendre:\n\n- la participation à des commissions instituées par le ministre;\n- la fonction d'instituteur-ressource;\n- la participation à l'élaboration du plan d'études, à la définition des socles de compétences et à l'élaboration des programmes afférents;\n- la réalisation d'activités culturelles;\n- l'élaboration de matériel didactique;\n- la participation à des travaux ou des projets de recherche ou d'innovation pédagogiques effectués par un service du ministère de l'Éducation nationale;\n- la formation des stagiaires;\n- la formation des enseignants dans l'institut de formation continue du personnel enseignant et éducatif des écoles et des lycées;\n- le travail dans des organismes oeuvrant pour l'éducation nationale en général;\n- la collaboration à un projet européen;\n- le détachement à une administration ou à un service de l'État, ainsi qu'à un service d'une commune sur la base d'une convention établie entre l'État et la commune respective.",
+      "text_sha256": "99f5077fb45f26b04e95035e62a655886ac039ddb6561f443c067bbc01a89651",
+      "md_span": {
+        "start": 7433,
+        "end": 8452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les activités connexes sont rémunérées soit par indemnités, soit moyennant décharge de la tâche d'enseignement. La somme des décharges qui peuvent être accordées à un enseignant ne peut pas dépasser la tâche normale. Les intitulés et les codes administratifs des différentes décharges sont établis au tableau annexé qui fait partie intégrante du présent règlement.",
+      "text_sha256": "e2d9061b546183deda18fc7222df9dd76f1fdbcb60681c4d96edec3e7322116e",
+      "md_span": {
+        "start": 8489,
+        "end": 8853
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque instituteur la tâche est constituée par l'organisation scolaire en fonction des besoins du service et conformément aux dispositions du présent règlement. Les heures de travail à assurer sont réparties de la manière la plus appropriée à leur objectif. La répartition est coordonnée par le coordinateur de cycle.\n\nLa répartition des heures d'appui pédagogique est coordonnée par le coordinateur de cycle de la manière appropriée à leur objectif.",
+      "text_sha256": "b797a663234f505a81fc450b435e5c59463ddb65696dd4817eb8bddc81735d2a",
+      "md_span": {
+        "start": 8890,
+        "end": 9345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Seul le surplus de travail assuré dans le cadre de la tâche d'enseignement et des activités connexes donne lieu à une rémunération particulière.\n\nL'indemnité pour leçons supplémentaires d'enseignement direct se base sur le nombre de leçons supplémentaires effectivement prestées à raison de:\n\n- 6,52 Euros N.I. 100 par leçon pendant les 12 premières années de service et de\n- 8,92 Euros N.I. 100 par leçon après 12 années de service.\n\nChaque heure prestée dans le cadre de l'appui ou des activités connexes est rémunérée à raison de 4,75 Euros N.I. 100.",
+      "text_sha256": "55bb3f8885760632135735780ac23e5459931ff732059835c3874fd7c3f0e220",
+      "md_span": {
+        "start": 9382,
+        "end": 9935
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "La tâche de l'instituteur d'enseignement spécial en fonction au moment de l'entrée en vigueur du présent règlement grand-ducal est constituée de 21 leçons d'enseignement direct par semaine, de 54 heures d'appui pédagogique par année ainsi que de 126 heures de travail annuelles à assurer dans l'intérêt des élèves et de l'école.",
+      "text_sha256": "fd3d63add2ebfb79f47ac784bdd6e46bc41f7eabdd6c372ee1633f6d7e11fa26",
+      "md_span": {
+        "start": 10002,
+        "end": 10330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'instituteur qui au moment de l'entrée en vigueur du présent règlement grand-ducal bénéficie de deux leçons de décharge pour années d'âge bénéficie d'une troisième leçon de décharge pour années d'âge jusqu'au moment où il atteint 55 années d'âge.",
+      "text_sha256": "edf0b58f869efe8331975a6c37924afed5eb860da9d5a76068b688741181bde5",
+      "md_span": {
+        "start": 10367,
+        "end": 10614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les dispositions du présent règlement grand-ducal sont applicables à partir de la rentrée scolaire 2009/2010.",
+      "text_sha256": "a4d27b6354c92e71b75852fe66805b15093c6d3542ca13ade5ce16d52313d195",
+      "md_span": {
+        "start": 10651,
+        "end": 10760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2009-03-23-n1:2013-09-15--efa0333fc9ef7b30665c6d02c7157308befe56fe9f0eae8ad59439c39e791762#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l'Éducation nationale et de la Formation professionnelle est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7d0b94a30660241e4e19ee887e77f80d19e5e767d56a4253a1e15066b5afe39b",
+      "md_span": {
+        "start": 10797,
+        "end": 10948
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

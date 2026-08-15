@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013d1359:2013-12-17--b23563f683f80fec927bd590a9ffda7240f3fdfd21db8ae86347c8f0fd8f05bf",
+  "language": "fr",
+  "title": "Decision No\u00A01359/2013/EU",
+  "valid_from": "2013-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013d1359/versions/2013-12-17--b23563f683f80fec927bd590a9ffda7240f3fdfd21db8ae86347c8f0fd8f05bf/fr.xml",
+    "sha256": "2842e6aba6437cdaa87a8ca21a00d485a4a3a04ae152c10ddeb27e2b8019f1ab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013D1359"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013d1359:2013-12-17--b23563f683f80fec927bd590a9ffda7240f3fdfd21db8ae86347c8f0fd8f05bf#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 10, paragraphe 4, premier alinéa, de la directive 2003/87/CE, les phrases suivantes sont ajoutées:\n\n«Si une évaluation montre, s'agissant des différents secteurs industriels, qu'il n'y a lieu d'attendre aucun impact véritable sur les secteurs ou sous-secteurs exposés à un risque significatif de fuite de carbone, la Commission peut, à titre exceptionnel, adapter le calendrier pour la période visée à l'article 13, paragraphe 1, qui commence le 1er janvier 2013, de façon à garantir le bon fonctionnement du marché. La Commission n'effectue qu'une seule adaptation de ce genre pour un nombre maximal de 900 millions de quotas.».",
+      "text_sha256": "6ffca36db213b80f2891e8368b80d049d299d6a7831e34c2a57846955cd3db69",
+      "md_span": {
+        "start": 635,
+        "end": 1293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013d1359:2013-12-17--b23563f683f80fec927bd590a9ffda7240f3fdfd21db8ae86347c8f0fd8f05bf#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes États membres sont destinataires de la présente décision.",
+      "text_sha256": "281a3c396be736e49e5faff5f5c6df62916cf1e91efa2453b456682d4fca221a",
+      "md_span": {
+        "start": 1326,
+        "end": 1398
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

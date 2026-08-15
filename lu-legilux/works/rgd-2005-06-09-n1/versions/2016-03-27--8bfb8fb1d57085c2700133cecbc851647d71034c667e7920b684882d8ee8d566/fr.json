@@ -1,0 +1,411 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/03/2016 : Règlement grand-ducal du 9 juin 2005 portant déclaration du Parc Naturel de l'Our.",
+  "valid_from": "2016-03-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2005-06-09-n1/versions/2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566/fr.xml",
+    "sha256": "c9b181d946ca1e63f7b0c8f89fdce5c8a79f541a824080a20b9655c24c07d05e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/consolide/20160327/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_1er/20050701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet",
+      "path": [
+        "Chapitre 1er — Objet et portée du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Il est créé un Parc Naturel de l'Our, dénommé ci-après «le parc naturel».",
+      "text_sha256": "2ac021beffa8d5c35ba1fab6d8d41f74614e8bbdd069b2b070716c65a73b6f2b",
+      "md_span": {
+        "start": 741,
+        "end": 814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_2/20050701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Portée",
+      "path": [
+        "Chapitre 1er — Objet et portée du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "La création du parc naturel entraîne la mise en oeuvre de son plan de développement, la mise en place des organismes chargés de son administration et de sa gestion, l'établissement et la mise en oeuvre du plan de gestion annuel ainsi que l'installation de la commission consultative.",
+      "text_sha256": "9cde9ff54195b8bc2aa94f62c08a2b6a54858b46d532ba2ef630ad90f9314be3",
+      "md_span": {
+        "start": 856,
+        "end": 1139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_3/20050701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Durée",
+      "path": [
+        "Chapitre 1er — Objet et portée du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Le statut de parc naturel est limité à dix ans, sauf renouvellement exprès pour une même période.\n\nLe renouvellement se fait par règlement grand-ducal sur proposition du ministre ayant l’aménagement du territoire dans ses attributions et sur la base d’un bilan dressé par le comité du syndicat. Ce bilan est soumis à l’avis préalable de la commission consultative. Le règlement grand-ducal portant renouvellement du parc naturel est à prendre sur avis obligatoire du Conseil d’Etat et avec l’assentiment de la Conférence des présidents de la Chambre des députés conformément à l’article 11 de la loi du 10 août 1993 relative aux parcs naturels.\n\nLe renouvellement du statut de parc naturel ne concerne que le territoire des communes dont les conseils communaux ont, au moins trois mois avant l’expiration de la période initiale, exprimé leur volonté de faire partie du parc naturel pour une nouvelle période de dix ans.",
+      "text_sha256": "396c1899557821e76d2e812c33e624a21ca8afbc6bfc4e0e2ad7df00388c8434",
+      "md_span": {
+        "start": 1180,
+        "end": 2099
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/08/10/n1/jo",
+          "text": "loi du 10 août 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_4/20160327",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Délimitation territoriale du parc naturel"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "Le Parc naturel regroupe le territoire et les sections cadastrales des communes de Clervaux, de Kiischpelt, du Parc Hosingen, de Putscheid, de Tandel, de Troisvierges, de Vianden et de Wincrange, sans préjudice d’une ou de plusieurs fusions entre des communes membres du Parc naturel et de la dénomination de la ou des nouvelles communes.\n\nSi une ou plusieurs communes membres du Parc naturel fusionnent avec une ou plusieurs communes non membres, le territoire du Parc naturel sera d’office étendu au territoire entier de la nouvelle commune, indépendamment de sa dénomination.\n\nUne liste des communes avec leurs sections cadastrales et une carte topographique indiquant les limites territoriales du Parc naturel figurent en annexe 1 et 2 du présent règlement.",
+      "text_sha256": "e0b0ce4922703b1eccfc8f3bfd8bfd31a45b7ae4d380adc8c0b6464da99b8e87",
+      "md_span": {
+        "start": 2193,
+        "end": 2954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_5/20050701",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Le syndicat pour l'aménagement et la gestion du parc naturel",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Le parc naturel est administré par un syndicat pour l'aménagement et la gestion du Parc Naturel de l'Our, au comité duquel siègent les représentants des départements ministériels et des administrations publiques concernées ainsi que des communes syndiquées, dénommé ci-après «le syndicat».",
+      "text_sha256": "18e4401a6f7a9faeb11e0eda03fa9de98f49b2e2ffd6db09973f80973fa56e78",
+      "md_span": {
+        "start": 3139,
+        "end": 3428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_6/20050701",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Le service du parc naturel",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Le syndicat s'adjoint un service du parc naturel, dénommé ci-après «le service».\n\nLe service est placé sous la surveillance et le contrôle du comité du syndicat. Il est chargé de la mise en oeuvre du plan de gestion annuel arrêté par le comité du syndicat.\n\nIl comprend une équipe permanente qui regroupe le personnel administratif, technique et ouvrier nécessaire à l’accomplissement de sa mission.\n\nLe service est composé d’une cellule administrative et de cellules thématiques, notamment une cellule agriculture, une cellule environnement naturel et une cellule développement régional.\n\nLe nombre des agents à affecter à ces cellules est fixé par le comité du syndicat.",
+      "text_sha256": "e605b97e1910a943b3c391f29e4df76fba5a348322fb2ac3f22c6cc08dfd2d2d",
+      "md_span": {
+        "start": 3490,
+        "end": 4162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_7/20050701",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "La direction du service du parc naturel",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "La direction du service est assurée par un chargé de direction, placé sous la surveillance du bureau. Celui-ci:\n\n- assure la mise en oeuvre des décisions du comité;\n- assure la gestion courante du parc naturel dont il rend compte à la demande du comité;\n- dirige, coordonne et surveille les activités des cellules du service.\n\nLe chargé de direction assiste aux réunions du comité avec voix consultative. En cas d’empêchement, il est remplacé par un autre membre du service.",
+      "text_sha256": "b64a4752c89387a622b761247390e85eeb4eb97db7a7a18cc9a521883bd1c9b8",
+      "md_span": {
+        "start": 4237,
+        "end": 4711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_8/20050701",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "La commission consultative",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Il est institué une commission consultative, désignée ci-après par le terme «la commission», qui a pour mission d'assister le comité du syndicat dans l'exercice de ses attributions.\n\nElle a pour mission de donner dans le mois son avis sur le plan de gestion annuel et sur toutes les questions ou projets que le comité du syndicat lui soumet. Elle peut adresser de son initiative des propositions relatives au parc naturel ou qu’elle juge utiles à l’accomplissement de sa mission au même comité.",
+      "text_sha256": "3c0a555e548efc653aba592050c7910ca688fe6510f5f6d6f63b978001110945",
+      "md_span": {
+        "start": 4773,
+        "end": 5267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_9/20160327",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "La commission comprend, comme représentants de la population locale, un habitant de chaque commune membre du syndicat ayant la qualité d’électeur dans la commune qu’il représente. La commission comprend, comme délégués des groupements d’intérêts locaux ou régionaux\n\n1. un délégué d’un groupement agissant dans le domaine de l’agriculture;\n2. un délégué d’un groupement agissant dans le domaine de la sylviculture;\n3. un délégué d’un groupement agissant dans le domaine du tourisme;\n4. un délégué d’un groupement agissant dans le domaine des petites et moyennes entreprises (PME);\n5. un délégué d’un groupement agissant dans le domaine de la nature et de l’environnement humain;\n6. un délégué d’un groupement agissant dans le domaine de la culture;\n7. un délégué d’un groupement agissant dans le domaine de l’urbanisme;\n8. un délégué d’un groupement agissant dans le domaine de l’énergie.\n\nA chaque délégué est associé un suppléant qui peut remplacer le délégué en cas d’absence.\n\nEn vue de l’équilibre régional et thématique, la commission peut comprendre également jusqu’à quatre représentants des associations privées oeuvrant dans l’intérêt des objectifs poursuivis par le Parc naturel.\n\nLe comité du syndicat décide quels groupements et quelles associations sont représentés dans la commission, ceci sur le vu des candidatures introduites après un appel public de candidatures.",
+      "text_sha256": "9e2b7e74ede4d87cadbe4f6e21ae1c4bbb2eb8e77eb0c0faf2fd42840ece5ebb",
+      "md_span": {
+        "start": 5302,
+        "end": 6684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_10/20050701",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Nomination des membres de la commission consultative",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "La nomination des membres de la commission est faite par le comité du syndicat, sur proposition des groupements et associations en ce qui concerne leurs représentants, respectivement sur base de candidatures introduites, suite à un appel public, par des particuliers pour assumer la représentation de la population locale.",
+      "text_sha256": "3dad8a30cc26226e54040a05f360ed342e20955d2e58596b7a56522fda8279fb",
+      "md_span": {
+        "start": 6774,
+        "end": 7096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_11/20160327",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "La durée du mandat des membres de la commission est de cinq ans. Toutefois les groupements et associations peuvent révoquer leurs représentants en cours de mandat et les faire remplacer par d’autres délégués. En cas de vacance parmi les membres de la commission, il est pourvu au remplacement dans le délai d’un mois. Tout représentant élu en remplacement achève le terme de celui qu’il remplace.",
+      "text_sha256": "e258d9076a7df6c8c35954af26371e3ae32387db66a4593c4d008936f818d7b9",
+      "md_span": {
+        "start": 7133,
+        "end": 7529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_12/20050701",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Fonctionnement de la commission consultative",
+      "path": [
+        "Chapitre 3 — Organismes chargés de l'administration et de la gestion du parc naturel"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "La première réunion d'une commission consultative nouvellement nommée est convoquée par le président du comité du syndicat qui la dirige jusqu'à la désignation du président de la commission.\n\nEn premier lieu, la commission élit parmi ses membres un président, un vice-président et un secrétaire qui restent en fonction pour toute la durée de leur mandat.\n\nLa commission se réunit sur la convocation de son président aussi souvent que l’exigent les affaires comprises dans ses attributions, mais au moins une fois par semestre.\n\nLe président est tenu de convoquer la commission soit à la demande du comité du syndicat, soit à la demande de la moitié au moins des membres de la commission.\n\nLa convocation se fait par écrit et à domicile au moins cinq jours avant celui de la réunion. Elle mentionne le lieu, le jour et l’heure de la réunion et en contient l’ordre du jour. En cas d’urgence le délai de convocation peut être réduit par le président qui indique le motif de l’urgence dans l’invitation.\n\nLa commission est présidée par le président, et à défaut par le vice-président.\n\nLa commission ne peut prendre de décision que si la majorité de ses membres en fonction est présente. Elle décide à la majorité des voix des membres présents. Des avis séparés, reflétant la position d’un ou de plusieurs membres, peuvent être élaborés et doivent être annexés au procès-verbal de la réunion.\n\nCependant, si l’assemblée a été convoquée deux fois sans s’être trouvée en nombre requis, elle pourra, après une nouvelle et dernière convocation, quel que soit le nombre des membres présents, prendre une décision sur les objets mis pour la troisième fois à l’ordre du jour. Les deuxième et troisième convocations se font conformément aux règles prescrites ci-avant et il est fait mention si c’est pour la deuxième ou la troisième fois que la convocation a lieu.\n\nLe procès-verbal de la réunion est rédigé par le secrétaire et signé par tous les membres présents lors de la prochaine réunion de la commission. Il mentionne les noms des membres présents et précise les décisions prises en indiquant le résultat du vote. Une expédition du procès-verbal est transmise au comité du syndicat.\n\nLe président du syndicat ou un autre membre du bureau délégué par lui ainsi que le chargé de direction du service ou son délégué peuvent assister aux réunions de la commission avec voix consultative.",
+      "text_sha256": "d6b223cc8422ad8c4908851a33537b0c2faf6dc405b3b519e9b4544fdc65c7fe",
+      "md_span": {
+        "start": 7611,
+        "end": 9989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_13/20160327",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Mise en oeuvre des objectifs du parc naturel"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "Le syndicat veille à la réalisation des objectifs fixés à l’article 2 de la loi modifiée du 10 août 1993 relative aux parcs naturels et à la mise en oeuvre des lignes directrices de l’étude détaillée pour le projet de Parc naturel et il en tient compte dans ses actions.\n\nLe syndicat peut assumer toutes les missions nécessaires pour la mise en oeuvre des objectifs du Parc naturel et\n\n1. assume une mission de promotion et de sensibilisation dans la région;\n2. aide à coordonner l’action de l’Etat et des communes au niveau du Parc naturel;\n3. travaille en étroite coopération avec les instances régionales et nationales;\n4. instaure une plateforme de communication avec les acteurs oeuvrant dans l’intérêt poursuivi par le Parc naturel tels que les agriculteurs, les sylviculteurs, les producteurs régionaux, les entreprises ou les organisations travaillant dans le domaine du tourisme et de l’environnement;\n5. intègre à sa démarche également les initiatives privées qui constituent un apport au Parc naturel.",
+      "text_sha256": "1d71b404907cfb3447763f2a8d28cf6f7dbe279e52b88805ae045ca541592f20",
+      "md_span": {
+        "start": 10088,
+        "end": 11100
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_14/20160327",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Modifications à apporter aux plans d'aménagement communaux"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "Les communes dont le territoire fait partie du Parc naturel de l’Our s’engagent à un développement intégré et durable de la région et coordonnent leurs actions en ce qui concerne la réalisation de toute infrastructure ayant un impact régional. En outre, les communes veillent à une qualité élevée lors de la définition des prescriptions urbanistiques et paysagères pour les nouveaux quartiers d’habitation.\n\nLes communes procèdent dans un délai de deux ans à la révision de leurs plans d’aménagement communaux respectifs dans la mesure où ceux-ci ne sont pas compatibles avec les objectifs du Parc naturel, conformément à l’article 12 de la loi modifiée du 10 août 1993.",
+      "text_sha256": "8f98295b0122a9b1654f8651945a05417f536e73e33129700261221c5e8f735a",
+      "md_span": {
+        "start": 11213,
+        "end": 11883
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_15/20050701",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Information du public",
+      "path": [
+        "Chapitre 5 — Modifications à apporter aux plans d'aménagement communaux"
+      ],
+      "article_valid_from": "2005-07-01",
+      "text_md": "Des copies du présent règlement sont déposées à la maison communale de chacune des communes où le public peut en prendre connaissance.",
+      "text_sha256": "0b047b595e9965147fbcce3a2bc52d93296288fe8ae719865867c9e9f293eeb1",
+      "md_span": {
+        "start": 11942,
+        "end": 12076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/06/09/n1/art_16/20160327",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Modifications à apporter aux plans d'aménagement communaux"
+      ],
+      "article_valid_from": "2016-03-27",
+      "text_md": "Notre ministre de l'Intérieur et de l'Aménagement du Territoire est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "fa7a3a7c7fddd50f638928ae46aff5cae2ac2458dd87f5d66ecfd60f44c32182",
+      "md_span": {
+        "start": 12113,
+        "end": 12252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE 1",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des communes concernées par le Parc naturel de l’Our**\n\n| **Communes concernées** | **Sections cadastrales** |\n| --- | --- |\n| Clervaux | CA: Clervaux CB: Eselborn CC: Weicherdange CD: Reuler CE: Urspelt CF: Mecher HA: Lieler HB: Kalborn HC: Heinerscheid HD: Fischbach HE: Grindhausen HF: Hupperdange MA: Siebenaler MB: Munshausen MC: Marnach MD: Roder ME: Drauffelt |\n| Kiischpelt | KA: Alscheid KB: Merkholtz KC: Kautenbach WA: Enscherange WB: Pintsch WC: Lellingen WD: Wilwerwiltz |\n| Parc Hosingen | CA: Holzthum CB: Consthum HdA: Hoscheid HdB: Markenbach HnA: Rodershausen HnB: Obereisenbach HnC: Untereisenbach HnD: Wahlhausen HnE: Hosingen HnF: Bockholtz HnG: Neidhausen HnH: Dorscheid |\n| Putscheid | A: Weiler B: Putscheid C: Stolzembourg D: Bivels E: Nachtmanderscheid F: Gralingen G: Merscheid |\n| Tandel | FA: Walsdorf FB: Fouhren FC: Longsdorf FD: Bettel BA: Landscheid BB: Brandenbourg-Ouest BC: Brandenbourg-Est BD: Bastendorf BE: Tandel |\n| Troisvierges | A: Hautbellain B: Huldange C: Goedange D: Wilwerdange E: Drinklange F: Troisvierges G: Basbellain H: Biwisch |\n| Vianden | A: Scheuerhof B: Vianden |\n| Wincrange | AB: Asselborn AC: Sassel AD: Boxhorn AE: Rumlange AF: Stockem BA: Troine BB: Crendal BC: Lullange BD: Doennange et Deiffelt BE: Boevange BF: Hamiville BG: Wincrange HA: Hachiville HB: Weiler HC: Hoffelt OA: Allerborn OB: Brachtenbach OC: Derenbach OD: Oberwampach OE: Niederwampach |",
+      "text_sha256": "1e5b3b75efaf134e38d860ea4f932baaa4baa4dfa770b0788b4b20f33755f4e3",
+      "md_span": {
+        "start": 12295,
+        "end": 13722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE 2",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Les limites du Parc naturel de l’Our**",
+      "text_sha256": "58fcf64449b20f38d8e0d3736fca2fbc71d95dbfbe0b33fb13590cf4666c28af",
+      "md_span": {
+        "start": 13765,
+        "end": 13805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 13852,
+        "end": 13852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-2005-06-09-n1:2016-03-27--8bfb8fb1d57085c2700133cecbc851647d71034c667e7920b684882d8ee8d566#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 13899,
+        "end": 13899
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

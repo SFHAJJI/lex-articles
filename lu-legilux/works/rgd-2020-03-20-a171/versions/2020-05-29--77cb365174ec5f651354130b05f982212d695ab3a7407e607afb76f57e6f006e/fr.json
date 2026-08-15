@@ -1,0 +1,89 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-03-20-a171:2020-05-29--77cb365174ec5f651354130b05f982212d695ab3a7407e607afb76f57e6f006e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 20 mars 2020 portant introduction de mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.",
+  "valid_from": "2020-05-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-03-20-a171/versions/2020-05-29--77cb365174ec5f651354130b05f982212d695ab3a7407e607afb76f57e6f006e/fr.xml",
+    "sha256": "523c02450631ba4ffb6047438422180c502f2f1b155b4b786193f96ac5eebac4",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/consolide/20200529/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-03-20-a171:2020-05-29--77cb365174ec5f651354130b05f982212d695ab3a7407e607afb76f57e6f006e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/art_1er/20200320",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Tenue des réunions dans les sociétés et dans les autres personnes morales",
+      "path": [],
+      "article_valid_from": "2020-03-20",
+      "text_md": "**(1)** Une société peut, nonobstant toute disposition contraire des statuts, quel que soit le nombre prévu de participants à son assemblée générale, tenir toute assemblée générale sans réunion physique, et imposer à ses actionnaires ou associés et aux autres participants à l’assemblée de participer à l’assemblée et d’exercer leurs droits exclusivement :\n\n1. par un vote à distance par écrit ou sous forme électronique sous réserve que le texte intégral des résolutions ou décisions à prendre aura été publié ou leur aura été communiqué ;\n2. par l’intermédiaire d’un mandataire désigné par la société ; ou\n3. par visioconférence ou autre moyen de télécommunication permettant leur identification.\n\nAu cas où un actionnaire ou associé ou autre participant a désigné un mandataire autre que celui visé au point 2 ci-dessus conformément à l’article 8 de la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées, ce mandataire pourra uniquement participer à l’assemblée dans les formes prévues aux points 1, 2 et 3, ci-dessus.\n\nLes actionnaires ou associés qui participent par un tel moyen sont réputés présents pour le calcul du quorum et de la majorité à cette assemblée.\n\nCe paragraphe est applicable à l’assemblée des obligataires.\n\n**(2)** Nonobstant toute disposition contraire des statuts, les autres organes de toute société peuvent tenir leurs réunions sans réunion physique :\n\n1. par résolutions circulaires écrites ; ou\n2. par visioconférence ou autre moyen de télécommunication permettant l’identification des membres de l’organe participant à la réunion.\n\nLes membres de ces organes qui participent par un tel moyen sont réputés présents pour le calcul du quorum et de la majorité.\n\n**(3)** Nonobstant toute disposition contraire des statuts, toute société est autorisée à convoquer son assemblée générale annuelle pour la plus éloignée des dates suivantes : (i) une date qui se situe dans une période de six mois après la fin de son année sociale ou (ii) une date qui se situe dans une période allant jusqu’au 30 juin 2020.\n\n**(4)** La société est habilitée à prendre cette décision pour toute assemblée convoquée pour le 30 juin 2020 au plus tard. Toute société ayant déjà convoqué son assemblée et qui prendrait cette décision, devra la publier et le cas échéant la notifier à ses actionnaires ou associés ou autres participants dans la forme dans laquelle elle avait convoquée cette assemblée ou par publication sur son site internet au plus tard le troisième jour ouvrable jours avant l’assemblée.\n\n**(5)** Le présent article est applicable par analogie à toutes les autres personnes morales.",
+      "text_sha256": "0acd7ad6530c627f81f37500c09df2c3d142b14012c4e41daee1df128e048038",
+      "md_span": {
+        "start": 836,
+        "end": 3521
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/05/24/n2/jo",
+          "text": "loi modifiée du 24 mai 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-03-20-a171:2020-05-29--77cb365174ec5f651354130b05f982212d695ab3a7407e607afb76f57e6f006e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/art_2/20200529",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-05-29",
+      "text_md": "Les paragraphes 3 et 4 de l’article 1er ne sont plus applicables aux entreprises visées à l’article 8 du Code de commerce à partir de l’entrée en vigueur de la loi du 22 mai 2020 portant prorogation des délais de dépôt et de publication des comptes annuels, des comptes consolidés et des rapports y afférents durant l’état de crise.\n\nLe présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "5f3ff34ba6ba4b793e5d6072c8ac4ddb3a6eb67cc63899b8bc778e2d4938371b",
+      "md_span": {
+        "start": 3556,
+        "end": 4003
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "Code de commerce"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/05/22/a467/jo",
+          "text": "loi du 22 mai 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-03-20-a171:2020-05-29--77cb365174ec5f651354130b05f982212d695ab3a7407e607afb76f57e6f006e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/art_3/20200320",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-20",
+      "text_md": "Notre ministre ayant la Justice dans ses attributions est chargée de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "ac1952f69d63f12f7e90a754f6694bfaff38f4d05cdd9e5d362c7829a5ad7a4e",
+      "md_span": {
+        "start": 4038,
+        "end": 4205
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

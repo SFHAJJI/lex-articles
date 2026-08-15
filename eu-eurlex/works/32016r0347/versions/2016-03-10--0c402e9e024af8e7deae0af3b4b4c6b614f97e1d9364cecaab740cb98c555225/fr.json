@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0347:2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/347 of 10 March 2016 laying down implementing technical standards with regard to the precise format of insider lists and for updating insider lists in accordance with Regulation (EU) No 596/2014",
+  "valid_from": "2016-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0347/versions/2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225/fr.xml",
+    "sha256": "c02fce6e850509318de9cee7a42c43136ef733556347b46f6d19fb0da68f1a8e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0347"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0347:2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par:\n\n|  | «moyens électroniques», les moyens électroniques de traitement (y compris la compression numérique), de stockage et de transmission des données par câble, ondes radio, technologie optique, ou tout autre moyen électromagnétique. |\n| --- | --- |",
+      "text_sha256": "d5cb9bf72525bef4231bd6a3ffcb3304b3722d5d2ee5d598441fcb5755bd2e9e",
+      "md_span": {
+        "start": 850,
+        "end": 1162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0347:2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les émetteurs, les participants au marché des quotas d'émission, les plates-formes d'enchères, les adjudicateurs et les instances de surveillance des enchères, ou les personnes agissant en leur nom ou pour leur compte, veillent à ce que leur liste d'initiés soit divisée en différentes sections, chacune se rapportant à un type précis d'information privilégiée. Des nouvelles sections sont ajoutées à la liste d'initiés à mesure que de nouvelles informations privilégiées, telles que définies à l'article 7 du règlement (UE) no 596/2014, sont identifiées.\n\nChaque section de la liste d'initiés inclut uniquement les coordonnées des personnes ayant accès au type d'information privilégiée sur laquelle porte cette section.\n\n2. Les personnes visées au paragraphe 1 peuvent insérer une section supplémentaire dans leur liste d'initiés, contenant les coordonnées de personnes ayant accès en permanence à l'ensemble des informations privilégiées («initiés permanents»).\n\nLes coordonnées des initiés permanents figurant dans la section supplémentaire visée à l'alinéa précédent ne sont pas incluses dans les autres sections de la liste d'initiés visées au paragraphe 1.\n\n3. Les personnes visées au paragraphe 1 établissent et tiennent à jour la liste d'initiés dans un format électronique conforme au modèle 1 de l'annexe I.\n\nLorsque la liste d'initiés comporte la section supplémentaire visée au paragraphe 2, les personnes visées au paragraphe 1 établissent et tiennent à jour cette section dans un format électronique conforme au modèle 2 de l'annexe I.\n\n4. Les formats électroniques visés au paragraphe 3 garantissent en toutes circonstances:\n\n| a) | le caractère confidentiel des informations contenues sur la liste en limitant l'accès à celle-ci aux personnes clairement identifiées faisant partie du personnel de l'émetteur, du participant au marché des quotas d'émission, de la plate-forme d'enchères, de l'adjudicateur et de l'instance de surveillance des enchères, ou toute personne agissant en leur nom ou pour leur compte, qui ont besoin de cet accès de par la nature de leur fonction ou leur position; |\n| --- | --- |\n\n| b) | l'exactitude des informations contenues sur la liste d'initiés; |\n| --- | --- |\n\n| c) | l'accès aux versions précédentes de la liste d'initiés et la possibilité de les récupérer. |\n| --- | --- |\n\n5. La liste d'initiés visée au paragraphe 3 est soumise par le moyen électronique précisé par l'autorité compétente. Les autorités compétentes publient sur leur site web les moyens électroniques à utiliser. Ces moyens électroniques garantissent que l'exhaustivité, l'intégrité et la confidentialité des informations sont préservées pendant la transmission.",
+      "text_sha256": "da0bd80b9a3b141c83cb642264bdb08f525a9d8bc519f67f9bce4e3af5f3ca91",
+      "md_span": {
+        "start": 1195,
+        "end": 3894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0347:2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAux fins de l'article 18, paragraphe 6, point b), du règlement (UE) no 596/2014, un émetteur dont les instruments financiers sont admis à la négociation sur un marché de croissance des PME fournit à l'autorité compétente, sur demande, une liste d'initiés conforme au modèle de l'annexe II, dans un format garantissant que l'exhaustivité, l'intégrité et la confidentialité des informations sont préservées pendant la transmission.",
+      "text_sha256": "9b5d0db58d3d2094b869172ff0d694a3e1190885098509f7cade45cd16b7bb68",
+      "md_span": {
+        "start": 3927,
+        "end": 4367
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r0347:2016-03-10--0c402e9e024af8e7deae0af3b4b4c6b614f97e1d9364cecaab740cb98c555225#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl est applicable à partir du 3 juillet 2016.",
+      "text_sha256": "d9b8a70b5a2468ae302a13e83df29b2fa0401dbfcdfa16b4b3f37abd769291cf",
+      "md_span": {
+        "start": 4400,
+        "end": 4578
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

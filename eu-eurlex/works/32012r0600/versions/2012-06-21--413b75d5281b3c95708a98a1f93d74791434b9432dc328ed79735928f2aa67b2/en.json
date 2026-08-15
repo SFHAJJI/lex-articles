@@ -1,0 +1,1362 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0600/2012 of 21\u00A0June 2012 on the verification of greenhouse gas emission reports and tonne-kilometre reports and the accreditation of verifiers pursuant to Directive 2003/87/EC",
+  "valid_from": "2012-06-21",
+  "valid_to": "2012-07-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r0600/versions/2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2/en.xml",
+    "sha256": "dae7def6a2856c070661e1d11f9462b1f226b2b6e87a065d20fff2cef021d91d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0600"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down provisions for the verification of reports submitted pursuant to Directive 2003/87/EC and for the accreditation and supervision of verifiers.\n\nThis Regulation also specifies, without prejudice to Regulation (EC) No 765/2008, provisions for the mutual recognition of verifiers and peer evaluation of national accreditation bodies pursuant to Article 15 of Directive 2003/87/EC.",
+      "text_sha256": "1ba3911e0cc286f5ddef83e7c91e1b826aeb4cb7705eed105212e43bbae3b154",
+      "md_span": {
+        "start": 822,
+        "end": 1235
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall apply to the verification of greenhouse gas emissions and tonne-kilometre data occurring from 1 January 2013, reported pursuant to Article 14 of Directive 2003/87/EC.",
+      "text_sha256": "653d2f7f3e603fb6518066365d29c3a8fcc1dd221543f9f0f75296f4e0c9c9e9",
+      "md_span": {
+        "start": 1268,
+        "end": 1467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of this Regulation, in addition to the definitions laid down in Article 3 of Directive 2003/87/EC and Article 3 of Regulation (EU) No 601/2012, the following definitions shall apply:\n\n| (1) | ‘detection risk’ means the risk that the verifier does not detect a material misstatement; |\n| --- | --- |\n\n| (2) | ‘accreditation’ means attestation by a national accreditation body that a verifier meets the requirements set by harmonised standards, within the meaning of point 9 of Article 2 of Regulation (EC) No 765/2008, and requirements set out in this Regulation to carry out the verification of an operator’s or aircraft operator’s report pursuant to this Regulation; |\n| --- | --- |\n\n| (3) | ‘verifier’ means a legal person or another legal entity carrying out verification activities pursuant to this Regulation and accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008 and this Regulation or a natural person otherwise authorised, without prejudice to Article 5(2) of that Regulation, at the time a verification report is issued; |\n| --- | --- |\n\n| (4) | ‘verification’ means the activities carried out by a verifier to issue a verification report pursuant to this Regulation; |\n| --- | --- |\n\n| (5) | ‘material misstatement’ means a misstatement that, in the opinion of the verifier, individually or when aggregated with other misstatements, exceeds the materiality level or could affect the treatment of the operator’s or aircraft operator’s report by the competent authority; |\n| --- | --- |\n\n| (6) | ‘operator’s or aircraft operator’s report’ means the annual emission report to be submitted by the operator or aircraft operator pursuant to Article 14(3) of Directive 2003/87/EC or the tonne-kilometre report to be submitted by the aircraft operator for the purposes of applying for the allocation of allowances pursuant to Articles 3e and 3f of that Directive; |\n| --- | --- |\n\n| (7) | ‘scope of accreditation’ means activities referred to in Annex I for which accreditation is sought or has been granted; |\n| --- | --- |\n\n| (8) | ‘competence’ means the ability to apply knowledge and skills to carry out an activity; |\n| --- | --- |\n\n| (9) | ‘materiality level’ means the quantitative threshold or cut-off point above which misstatements, individually or when aggregated with other misstatements, are considered material by the verifier; |\n| --- | --- |\n\n| (10) | ‘control system’ means the operator’s or aircraft operator’s risk assessment and entire set of control activities, including the continuous management thereof, that an operator or aircraft operator has established, documented, implemented and maintained pursuant to Article 58 of Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (11) | ‘control activities’ means any acts carried out or measures implemented by the operator or aircraft operator to mitigate inherent risks; |\n| --- | --- |\n\n| (12) | ‘non-conformity’ means one of the following:(a)for the purposes of verifying an operator’s emission report, any act or omission of an act by the operator that is contrary to the greenhouse gas emissions permit and the requirements in the monitoring plan approved by the competent authority;(b)for the purposes of verifying an aircraft operator’s emission or tonne-kilometre report, any act or omission of an act by the aircraft operator that is contrary to the requirements in the monitoring plan approved by the competent authority;(c)for the purposes of accreditation pursuant to Chapter IV, any act or omission of an act by the verifier that is contrary to the requirements of this Regulation; |\n| --- | --- |\n| (a) | for the purposes of verifying an operator’s emission report, any act or omission of an act by the operator that is contrary to the greenhouse gas emissions permit and the requirements in the monitoring plan approved by the competent authority; |\n| (b) | for the purposes of verifying an aircraft operator’s emission or tonne-kilometre report, any act or omission of an act by the aircraft operator that is contrary to the requirements in the monitoring plan approved by the competent authority; |\n| (c) | for the purposes of accreditation pursuant to Chapter IV, any act or omission of an act by the verifier that is contrary to the requirements of this Regulation; |\n\n| (13) | ‘site’ means, for the purposes of verifying the emission or tonne-kilometre report of an aircraft operator, the locations where the monitoring process is defined and managed, including the locations where relevant data and information are controlled and stored; |\n| --- | --- |\n\n| (14) | ‘control environment’ means the environment in which the internal control system functions and the overall actions of an operator’s or aircraft operator’s management to ensure awareness of this internal control system; |\n| --- | --- |\n\n| (15) | ‘inherent risk’ means the susceptibility of a parameter in the operator’s or aircraft operator’s report to misstatements that could be material, individually or when aggregated with other misstatements, before taking into consideration the effect of any related control activities; |\n| --- | --- |\n\n| (16) | ‘control risk’ means the susceptibility of a parameter in the operator’s or aircraft operator’s report to misstatements that could be material, individually or when aggregated with other misstatements, and that will not be prevented or detected and corrected on a timely basis by the control system; |\n| --- | --- |\n\n| (17) | ‘verification risk’ means the risk, being a function of inherent risk, control risk and detection risk, that the verifier expresses an inappropriate verification opinion when the operator’s or aircraft operator’s report is not free of material misstatements; |\n| --- | --- |\n\n| (18) | ‘reasonable assurance’ means a high but not absolute level of assurance, expressed positively in the verification opinion, as to whether the operator’s or aircraft operator’s report subject to verification is free from material misstatement; |\n| --- | --- |\n\n| (19) | ‘analytical procedures’ means the analysis of fluctuations and trends in the data including an analysis of the relationships that are inconsistent with other relevant information or that deviate from predicted amounts; |\n| --- | --- |\n\n| (20) | ‘internal verification documentation’ means all internal documentation that a verifier has compiled to record all documentary evidence and justification of activities that are carried out for the verification of an operator’s or aircraft operator’s report; |\n| --- | --- |\n\n| (21) | ‘EU ETS lead auditor’ means an EU ETS auditor in charge of directing and supervising the verification team, who is responsible for performing and reporting on the verification of an operator’s or aircraft operator’s report; |\n| --- | --- |\n\n| (22) | ‘EU ETS auditor’ means an individual member of a verification team responsible for conducting a verification of an operator’s or aircraft operator’s report other than the EU ETS lead auditor; |\n| --- | --- |\n\n| (23) | ‘technical expert’ means a person who provides detailed knowledge and expertise on a specific subject matter needed for the performance of verification activities for the purposes of Chapter III and for the performance of accreditation activities for the purposes of Chapter V; |\n| --- | --- |\n\n| (24) | ‘level of assurance’ means the degree of assurance the verifier provides on the verification report based on the objective to reduce the verification risk according to the circumstances of the verification engagement; |\n| --- | --- |\n\n| (25) | ‘assessor’ means a person assigned by a national accreditation body to perform individually or as part of an assessment team an assessment of a verifier pursuant to this Regulation; |\n| --- | --- |\n\n| (26) | ‘lead assessor’ means an assessor who is given the overall responsibility for the assessment of a verifier pursuant to this Regulation; |\n| --- | --- |\n\n| (27) | ‘misstatement’ means an omission, misrepresentation or error in the operator’s or aircraft operator’s reported data, not considering the uncertainty permissible pursuant to Article 12(1)(a) of Regulation (EU) No 601/2012. |\n| --- | --- |",
+      "text_sha256": "fcc0974acc2da87dbbb7a87b1c3d8b3344c2f5027a7e5b6d2e8ba29cf1a0c13c",
+      "md_span": {
+        "start": 1500,
+        "end": 9699
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nWhere a verifier demonstrates its conformity with the criteria laid down in the relevant harmonised standards, within the meaning of point 9 of Article 2 of Regulation (EC) No 765/2008, or parts thereof, the references of which have been published in the Official Journal of the European Union, it shall be presumed to comply with the requirements set out in Chapters II and III of this Regulation in so far as the applicable harmonised standards cover those requirements.",
+      "text_sha256": "36731e29cee057d5d2458483295da846c125a42a9a474a037d4f37c79633e037",
+      "md_span": {
+        "start": 9732,
+        "end": 10215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nWhere no specific provisions concerning the composition of the national accreditation bodies or the activities and requirements linked to accreditation are laid down in this Regulation, the relevant provisions of Regulation (EC) No 765/2008 shall apply.",
+      "text_sha256": "3351aa6af7d3799a4e3acbae5405404364c6487cfbf79fd3d533d55cb6f87dfe",
+      "md_span": {
+        "start": 10248,
+        "end": 10512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nA verified emissions report shall be reliable for users. It shall represent faithfully that which it either purports to represent or may reasonably be expected to represent.\n\nThe process of verifying emission reports shall be an effective and reliable tool in support of quality assurance and quality control procedures, providing information upon which an operator or aircraft operator can act to improve performance in monitoring and reporting emissions.",
+      "text_sha256": "7244ccd8d95d38e16fac6a5105e8117693037c3f615b3cad56046d09dcafd45f",
+      "md_span": {
+        "start": 10545,
+        "end": 11012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The verifier shall carry out the verification and the activities required by this Chapter with the aim of providing a verification report that concludes with reasonable assurance that the operator’s or aircraft operator’s report is free from material misstatements.\n\n2. The verifier shall plan and perform the verification with an attitude of professional scepticism recognising that circumstances may exist that cause the information in the operator’s or aircraft operator’s report to contain material misstatements.\n\n3. The verifier must carry out verification in the public interest, independent of the operator or aircraft operator and the competent authorities responsible for Directive 2003/87/EC.\n\n4. During the verification, the verifier shall assess whether:\n\n| (a) | the operator’s or aircraft operator’s report is complete and meets the requirements laid down in Annex X of Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (b) | the operator or aircraft operator has acted in compliance with the requirements of the greenhouse gas emissions permit and the monitoring plan approved by the competent authority, where the verification of an operator’s emission report is concerned, and with the requirements of the monitoring plan approved by the competent authority, where the verification of an aircraft operator’s emission or tonne-kilometre report is concerned; |\n| --- | --- |\n\n| (c) | the data in the operator’s or aircraft operator’s report are free from material misstatements; |\n| --- | --- |\n\n| (d) | information can be provided in support of the operator’s or aircraft operator’s data flow activities, control system and associated procedures to improve the performance of their monitoring and reporting. |\n| --- | --- |\n\nFor the purpose of point (c) of this paragraph, the verifier shall obtain clear and objective evidence from the operator or aircraft operator to support the reported aggregated emissions or tonne-kilometres taking into account all other information provided in the operator’s or aircraft operator’s report.\n\n5. Where the verifier discovers that an operator or an aircraft operator is not complying with Regulation (EU) No 601/2012, that irregularity shall be included in the verification report even if the monitoring plan concerned is approved by the competent authority.\n\n6. Where the monitoring plan has not been approved by the competent authority pursuant to Article 11 of Regulation (EU) No 601/2012, is incomplete or where significant modifications referred to in Article 15(3) or (4) of that Regulation have been made during the reporting period which have not been accordingly approved by the competent authority, the verifier shall advise the operator or aircraft operator to obtain the necessary approval from the competent authority.\n\nFollowing the approval by the competent authority, the verifier shall continue, repeat or adapt the verification activities accordingly.\n\nWhere the approval has not been obtained before the issue of the verification report, the verifier shall report this in the verification report.",
+      "text_sha256": "c8203f094b592a92431aeaa0a5188a045cfa413c485a0efcea4b3ccd67c266c7",
+      "md_span": {
+        "start": 11045,
+        "end": 14128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Before accepting a verification engagement, a verifier shall obtain a proper understanding of the operator or aircraft operator and assess whether it can undertake the verification. For this purpose the verifier shall at least:\n\n| (a) | evaluate the risks involved to undertake the verification of the operator’s or aircraft operator’s report in accordance with this Regulation; |\n| --- | --- |\n\n| (b) | undertake a review of the information supplied by the operator or aircraft operator to determine the scope of the verification; |\n| --- | --- |\n\n| (c) | assess whether the engagement falls within the scope of its accreditation; |\n| --- | --- |\n\n| (d) | assess whether it has the competence, personnel and resources required to select a verification team capable of dealing with the complexity of the installation or the aircraft operator’s activities and fleet as well as whether it is capable of successfully completing the verification activities within the timeframe required; |\n| --- | --- |\n\n| (e) | assess whether it is capable of ensuring that the potential verification team at its disposal holds all the competence, and persons required to carry out verification activities for that specific operator or aircraft operator; |\n| --- | --- |\n\n| (f) | determine, for each verification engagement requested, the time allocation needed to properly carry out the verification. |\n| --- | --- |\n\n2. The operator or aircraft operator shall provide the verifier with all relevant information that enables the verifier to carry out the activities referred to in paragraph 1.",
+      "text_sha256": "d1930358c9ca78dc1b573609b60c1cf8bf6a7eb90976f1db90c59f88aae44f80",
+      "md_span": {
+        "start": 14161,
+        "end": 15750
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. When determining the time allocation for a verification engagement referred to in Article 8(1)(f), the verifier shall at least take into account:\n\n| (a) | the complexity of the installation or the aircraft operator’s activities and fleet; |\n| --- | --- |\n\n| (b) | the level of information and the complexity of the monitoring plan approved by the competent authority; |\n| --- | --- |\n\n| (c) | the required materiality level; |\n| --- | --- |\n\n| (d) | the complexity and completeness of the data flow activities and the control system of the operator or aircraft operator; |\n| --- | --- |\n\n| (e) | the location of information and data related to greenhouse gas emissions or tonne-kilometre data. |\n| --- | --- |\n\n2. The verifier shall ensure that the verification contract provides for a possibility of time to be charged in addition to the time agreed in the contract, where such additional time is found to be needed for the strategic analysis, risk analysis or other verification activities. The situations where the additional time may be applied shall include at least the following:\n\n| (a) | during the verification where the data flow activities, control activities or logistics of the operator or aircraft operator seem to be more complex than initially anticipated; |\n| --- | --- |\n\n| (b) | where misstatements, non-conformities, insufficient data or errors in the data sets are identified by the verifier during the verification. |\n| --- | --- |\n\n3. The verifier shall document the time allocated in the internal verification documentation.",
+      "text_sha256": "c36671d60d970bb81cab46deed70934b1e1135da984a46a817163546ce727dfe",
+      "md_span": {
+        "start": 15783,
+        "end": 17345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Before the strategic analysis and at other points of time during the verification, the operator or aircraft operator shall provide the verifier with all of the following:\n\n| (a) | the operator’s greenhouse gas emissions permit when this concerns the verification of an operator’s emission report; |\n| --- | --- |\n\n| (b) | the latest version of the operator’s or aircraft operator’s monitoring plan as well as any other relevant versions of the monitoring plan approved by the competent authority, including evidence of the approval; |\n| --- | --- |\n\n| (c) | a description of the operator’s or aircraft operator’s data flow activities; |\n| --- | --- |\n\n| (d) | the operator’s or aircraft operator’s risk assessment referred to in Article 58(2)(a) of Regulation (EU) No 601/2012, and an outline of the overall control system; |\n| --- | --- |\n\n| (e) | the procedures mentioned in the monitoring plan as approved by the competent authority, including procedures for data flow activities and control activities; |\n| --- | --- |\n\n| (f) | the operator’s or aircraft operator’s annual emission or tonne-kilometre report, as appropriate; |\n| --- | --- |\n\n| (g) | where applicable, the operator’s sampling plan referred to in Article 33 of Regulation (EU) No 601/2012 as approved by the competent authority; |\n| --- | --- |\n\n| (h) | where the monitoring plan was modified during the reporting period, a record of all those modifications in accordance with Article 16(3) of Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (i) | where applicable, the report referred to in Article 69(4) of Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (j) | the verification report from the previous year if the verifier did not carry out the verification for that particular operator or aircraft operator the previous year; |\n| --- | --- |\n\n| (k) | all relevant correspondence with the competent authority, in particular information related to the notification of modifications of the monitoring plan; |\n| --- | --- |\n\n| (l) | information on databases and data sources used for monitoring and reporting purposes, including those from Eurocontrol; |\n| --- | --- |\n\n| (m) | where the verification concerns the emission report of an installation carrying out the geological storage of greenhouse gases in a storage site permitted under Directive 2009/31/EC, the monitoring plan required by that Directive and the reports required by Article 14 of that Directive, covering at least the reporting period of the emissions report to be verified; |\n| --- | --- |\n\n| (n) | where applicable, the approval of the competent authority for not carrying out site visits for installations pursuant to Article 31(1); |\n| --- | --- |\n\n| (o) | any other relevant information necessary for the planning and carrying out of the verification. |\n| --- | --- |\n\n2. Before the verifier issues the verification report, the operator or aircraft operator shall provide it with the final authorised and internally validated operator’s or aircraft operator’s report.",
+      "text_sha256": "917d0e9aefdfcc7dba1b576f4ecf88869f49cf539a56901597b48dc0cf4a8b36",
+      "md_span": {
+        "start": 17380,
+        "end": 20406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. At the beginning of the verification the verifier shall assess the likely nature, scale and complexity of the verification tasks by carrying out a strategic analysis of all activities relevant to the installation or the aircraft operator.\n\n2. For the purposes of understanding the activities carried out by the installation or the aircraft operator, the verifier shall collect and review the information needed to assess that the verification team is sufficiently competent to carry out the verification, to determine that the time allocation indicated in the contract has been set correctly and to ensure that it is able to conduct the necessary risk analysis. The information shall include at least:\n\n| (a) | the information referred to in Article 10(1); |\n| --- | --- |\n\n| (b) | the required materiality level; |\n| --- | --- |\n\n| (c) | where the verifier is carrying out the verification for the same operator or aircraft operator, the information obtained from the verification in previous years. |\n| --- | --- |\n\n3. When reviewing the information referred to in paragraph 2, the verifier shall at least assess the following:\n\n| (a) | for the purposes of the verification of the operator’s emission report, the category of the installation referred to in Article 19 of Regulation (EU) No 601/2012 and the activities carried out at that installation; |\n| --- | --- |\n\n| (b) | for the purposes of the verification of the aircraft operator’s emission or tonne- kilometre report, the size and nature of the aircraft operator, the distribution of information in different locations as well as the number and type of flights; |\n| --- | --- |\n\n| (c) | the monitoring plan approved by the competent authority as well as the specifics of the monitoring methodology laid down in that monitoring plan; |\n| --- | --- |\n\n| (d) | the nature, scale and complexity of emission sources and source streams as well as the equipment and processes that have resulted in emissions or tonne-kilometre data, including the measurement equipment described in the monitoring plan, the origin and application of calculation factors and other primary data sources; |\n| --- | --- |\n\n| (e) | the data flow activities, the control system and the control environment. |\n| --- | --- |\n\n4. When carrying out the strategic analysis, the verifier shall check the following:\n\n| (a) | whether the monitoring plan presented to it is the most recent version approved by the competent authority; |\n| --- | --- |\n\n| (b) | whether there have been any modifications of the monitoring plan during the reporting period; |\n| --- | --- |\n\n| (c) | whether those modifications have been notified to the competent authority pursuant to Article 15(1) or Article 23 of Regulation (EU) No 601/2012 or approved by the competent authority in accordance with Article 15(2) of that Regulation. |\n| --- | --- |",
+      "text_sha256": "5dca1bdd6267df51a26014726faa3f13869e7031388600e9dfc272229ddb4520",
+      "md_span": {
+        "start": 20441,
+        "end": 23310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The verifier shall identify and analyse the following elements to design, plan and implement an effective verification:\n\n| (a) | the inherent risks; |\n| --- | --- |\n\n| (b) | the control activities; |\n| --- | --- |\n\n| (c) | where control activities referred to in point (b) have been implemented, the control risks concerning the effectiveness of these control activities. |\n| --- | --- |\n\n2. When identifying and analysing the elements referred to in paragraph 1, the verifier shall at least consider:\n\n| (a) | the findings from the strategic analysis referred to in Article 11(1); |\n| --- | --- |\n\n| (b) | the information referred to in Article 10(1) and Article 11(2)(c); |\n| --- | --- |\n\n| (c) | the materiality level referred to in Article 11(2)(b). |\n| --- | --- |\n\n3. Where the verifier has determined that the operator or aircraft operator has failed to identify the relevant inherent risks and control risks in its risk assessment, the verifier shall inform the operator or aircraft operator thereof.\n\n4. Where appropriate according to the information obtained during the verification, the verifier shall revise the risk analysis and modify or repeat the verification activities to be performed.",
+      "text_sha256": "948bf83fd1238dab9dd1184e3778dc16869cbad36f70ab07ba6e717e9f651237",
+      "md_span": {
+        "start": 23345,
+        "end": 24563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The verifier shall draft a verification plan commensurate with the information obtained and the risks identified during the strategic analysis and the risk analysis, and including at least:\n\n| (a) | a verification programme describing the nature and scope of the verification activities as well as the time and manner in which these activities are to be carried out; |\n| --- | --- |\n\n| (b) | a test plan setting out the scope and methods of testing the control activities as well as the procedures for control activities; |\n| --- | --- |\n\n| (c) | a data sampling plan setting out the scope and methods of data sampling related to data points underlying the aggregated emissions in the operator or aircraft operator’s emission report or the aggregated tonne-kilometre data in the aircraft operator’s tonne-kilometre report. |\n| --- | --- |\n\n2. The verifier shall set up the test plan referred to in point (b) of paragraph 1 in a manner that allows it to determine the extent to which the relevant control activities may be relied on for the purposes of assessing compliance with the requirements mentioned in Article 7(4)(b).\n\nWhen determining the sampling size and sampling activities for testing the control activities, the verifier shall consider the following elements:\n\n| (a) | the inherent risks; |\n| --- | --- |\n\n| (b) | the control environment; |\n| --- | --- |\n\n| (c) | the relevant control activities; |\n| --- | --- |\n\n| (d) | the requirement to deliver a verification opinion with reasonable assurance. |\n| --- | --- |\n\n3. When determining the sampling size and sampling activities for sampling the data referred to in point (c) of paragraph 1, the verifier shall consider the following elements:\n\n| (a) | the inherent risks and control risks; |\n| --- | --- |\n\n| (b) | the results of the analytical procedures; |\n| --- | --- |\n\n| (c) | the requirement to deliver a verification opinion with reasonable assurance; |\n| --- | --- |\n\n| (d) | the materiality level; |\n| --- | --- |\n\n| (e) | the materiality of the contribution of an individual data element to the overall data set. |\n| --- | --- |\n\n4. The verifier shall set up and implement the verification plan such that the verification risk is reduced to an acceptable level to obtain reasonable assurance that the operator’s or aircraft operator’s report is free from material misstatements.\n\n5. The verifier shall update the risk analysis and the verification plan, and adapt the verification activities during the verification when it finds additional risks that need to be reduced or when there is less actual risk than initially expected.",
+      "text_sha256": "432e0942223a501bd9cea95b2c93019da85d21d55347fa384e726879e0630b47",
+      "md_span": {
+        "start": 24598,
+        "end": 27215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nThe verifier shall implement the verification plan and, based on the risk analysis, the verifier shall check the implementation of the monitoring plan as approved by the competent authority.\n\nTo that end, the verifier shall at least carry out substantive testing consisting of analytical procedures, data verification and checking the monitoring methodology and check the following:\n\n| (a) | the data flow activities and the systems used in the data flow, including information technology systems; |\n| --- | --- |\n\n| (b) | whether the control activities of the operator or aircraft operator are appropriately documented, implemented, maintained and effective to mitigate the inherent risks; |\n| --- | --- |\n\n| (c) | whether the procedures listed in the monitoring plan are effective to mitigate the inherent risks and control risks and whether the procedures are implemented, sufficiently documented and properly maintained. |\n| --- | --- |\n\nFor the purposes of point (a) of the second paragraph, the verifier shall track the data flow following the sequence and interaction of the data flow activities from primary source data to the compilation of the operator’s or aircraft operator’s report.",
+      "text_sha256": "1fe41e884b8c243099bfbed28a17cd04d3d201096926b2761b9fa47137703533",
+      "md_span": {
+        "start": 27250,
+        "end": 28457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The verifier shall use analytical procedures to assess the plausibility and completeness of data where the inherent risk, the control risk and the aptness of the operator’s or aircraft operator’s control activities show the need for such analytical procedures.\n\n2. In carrying out the analytical procedures referred to in paragraph 1, the verifier shall assess reported data to identify potential risk areas and to subsequently validate and tailor the planned verification activities. The verifier shall at least:\n\n| (a) | assess the plausibility of fluctuations and trends over time or between comparable items; |\n| --- | --- |\n\n| (b) | identify immediate outliers, unexpected data and data gaps. |\n| --- | --- |\n\n3. In applying the analytical procedures referred to in paragraph 1, the verifier shall perform the following procedures:\n\n| (a) | preliminary analytical procedures on aggregated data before carrying out the activities referred to in Article 14 in order to understand the nature, complexity and relevance of the reported data; |\n| --- | --- |\n\n| (b) | substantive analytical procedures on the aggregated data and the data points underlying these data for the purposes of identifying potential structural errors and immediate outliers; |\n| --- | --- |\n\n| (c) | final analytical procedures on the aggregated data to ensure that all errors identified during the verification process have been resolved correctly. |\n| --- | --- |\n\n4. Where the verifier identifies outliers, fluctuations, trends, data gaps or data that are inconsistent with other relevant information or that differ significantly from expected amounts or ratios, the verifier shall obtain explanations from the operator or aircraft operator supported by additional relevant evidence.\n\nBased on the explanations and additional evidence provided, the verifier shall assess the impact on the verification plan and the verification activities to be performed.",
+      "text_sha256": "425645e061aca1e3ac49fe0edbe769eca44f84f7ef5dd3d5cef0f29a75dd040e",
+      "md_span": {
+        "start": 28492,
+        "end": 30440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. The verifier shall verify the data in the operator’s or aircraft operator’s report by applying detailed testing of the data, including tracing the data back to the primary data source, cross-checking data with external data sources, performing reconciliations, checking thresholds regarding appropriate data and carrying out recalculations.\n\n2. As part of the data verification referred to in paragraph 1 and taking into account the approved monitoring plan, including the procedures described in that plan, the verifier shall check:\n\n| (a) | for the purposes of verifying an operator’s emission report, the boundaries of an installation; |\n| --- | --- |\n\n| (b) | for the purposes of verifying an operator’s emission report, the completeness of source streams and emission sources as described in the monitoring plan approved by the competent authority; |\n| --- | --- |\n\n| (c) | for the purposes of verifying an aircraft operator’s emission report and tonne-kilometre report, the completeness of flights falling within an aviation activity listed in Annex I of Directive 2003/87/EC for which the aircraft operator is responsible as well as the completeness of emission data and tonne-kilometre data respectively; |\n| --- | --- |\n\n| (d) | for the purposes of verifying an aircraft operator’s emission report and tonne-kilometre report, the consistency between reported data and mass and balance documentation; |\n| --- | --- |\n\n| (e) | for the purposes of verifying an aircraft operator’s emission report, the consistency between aggregated fuel consumption and data on fuel purchased or otherwise supplied to the aircraft performing the aviation activity; |\n| --- | --- |\n\n| (f) | the consistency of the aggregated reported data in an operator’s or aircraft operator’s report with primary source data; |\n| --- | --- |\n\n| (g) | where a measurement based methodology referred to in Article 21(1) of Regulation (EU) No 601/2012 is applied by an operator, the measured values using the results of the calculations performed by the operator in accordance with Article 46 of that Regulation; |\n| --- | --- |\n\n| (h) | the reliability and accuracy of the data. |\n| --- | --- |\n\n3. For the purposes of checking the completeness of flights referred to in point (c) of paragraph 2, the verifier shall use an aircraft operator’s air traffic data, including data collected from Eurocontrol or other relevant organisations which can process air traffic information such as that available to Eurocontrol.",
+      "text_sha256": "f69a7b9633f04270806cc691845958125da1b4be619c058ddf22c910d9d05f05",
+      "md_span": {
+        "start": 30475,
+        "end": 32978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. The verifier shall check the correct application and implementation of the monitoring methodology as approved by the competent authority in the monitoring plan, including specific details of that monitoring methodology.\n\n2. For the purposes of verifying the operator’s emission report, the verifier shall check the correct application and implementation of the sampling plan referred to in Article 33 of Regulation (EU) No 601/2012, as approved by the competent authority.\n\n3. Where CO2 is transferred in accordance with Articles 48 and 49 of Regulation (EU) No 601/2012 and the CO2 transferred is measured by both the transferring and receiving installation, the verifier shall check whether differences between the measured values at both installations can be explained by the uncertainty of the measurement systems and whether the correct arithmetic average of the measured values has been used in the emission reports of both installations.\n\nWhere the differences between the measured values at both installations cannot be explained by the uncertainty of the measurement systems, the verifier shall check whether adjustments were made to align the differences between the measured values, whether those adjustments were conservative and whether the competent authority has granted approval for those adjustments.\n\n4. Where operators are required, pursuant to Article 12(3) of Regulation (EU) No 601/2012, to include further elements in the monitoring plan that are relevant for meeting the requirements of Article 24(1) of Commission Decision 2011/278/EU (10), the verifier shall check the correct application and implementation of the procedures referred to in Article 12(3) of that Regulation. In doing so, the verifier shall also check whether information on any planned or actual changes to the capacity, activity level and operation of an installation have been submitted by the operator to the competent authority by 31 December of the reporting period.",
+      "text_sha256": "9b4a5c940a78ef4ee0258a50cdd5a9e4395785a0ee5262c7c46ac5d5aeeff730",
+      "md_span": {
+        "start": 33013,
+        "end": 34992
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_2012181EN.01000101-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Where methods laid down in the monitoring plan as approved by the competent authority have been used to complete missing data pursuant to Article 65 of Regulation (EU) No 601/2012, the verifier shall check whether the methods used were appropriate for the specific situation and whether they have been applied correctly.\n\nWhere the operator or aircraft operator has obtained an approval by the competent authority to use other methods than those referred to in the first subparagraph in accordance with Article 65 of Regulation (EU) No 601/2012, the verifier shall check whether the approved approach has been applied correctly and appropriately documented.\n\nWhere an operator or an aircraft operator is not able to obtain such approval in time, the verifier shall check whether the approach used by the operator or aircraft operator to complete the missing data ensures that the emissions are not underestimated and that this approach does not lead to material misstatements.\n\n2. The verifier shall check whether the control activities implemented by the operator or aircraft operator to prevent missing data referred to in Article 65(1) of Regulation (EU) No 601/2012 from occurring are effective.",
+      "text_sha256": "da337bebdcda075544f3b2b8d1d205fb092a62f4cdfaf94ca7eb874e2ef2a7a5",
+      "md_span": {
+        "start": 35027,
+        "end": 36241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Where Regulation (EU) No 601/2012 requires the operator to demonstrate compliance with the uncertainty thresholds for activity data and calculation factors, the verifier shall confirm the validity of the information used to calculate the uncertainty levels as set out in the approved monitoring plan.\n\n2. Where an operator applies a monitoring methodology not based on tiers, as referred to in Article 22 of Regulation (EU) No 601/2012, the verifier shall check all of the following:\n\n| (a) | whether an assessment and quantification of the uncertainty has been carried out by the operator demonstrating that the required overall uncertainty threshold for the annual level of greenhouse gas emissions pursuant to point (c) of Article 22 of that Regulation has been met; |\n| --- | --- |\n\n| (b) | the validity of the information used for the assessment and quantification of the uncertainty; |\n| --- | --- |\n\n| (c) | whether the overall approach used for the assessment and the quantification of the uncertainty is in accordance with point (b) of Article 22 of that Regulation; |\n| --- | --- |\n\n| (d) | whether evidence is provided that the conditions for the monitoring methodology referred to in point (a) of Article 22 of that Regulation have been met. |\n| --- | --- |\n\n3. Where the aircraft operator is required, pursuant to Regulation (EU) No 601/2012, to demonstrate that the required uncertainty levels are not exceeded, the verifier shall check the validity of the information used to demonstrate that the applicable uncertainty levels as set out in the monitoring plan approved by the competent authority have not been exceeded.",
+      "text_sha256": "a4ac241ec78e5ce5a16fb734633986bf887977b9fb5b71101382a2ffc184f050",
+      "md_span": {
+        "start": 36276,
+        "end": 37926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. When checking the conformance of control activities and procedures referred to in points (b) and (c) of Article 14 or when performing the checks referred to in Articles 15 and 16, the verifier may use sampling methods specific to an installation or aircraft operator provided that, based on the risk analysis, sampling is justified.\n\n2. Where the verifier identifies a non-conformity or a misstatement in the course of sampling, it shall request the operator or aircraft operator to explain the main causes of the non-conformity or the misstatement in order to assess the impact of the non-conformity or misstatement on the reported data. Based on the outcome of that assessment, the verifier shall determine whether additional verification activities are needed, whether the sampling size needs to be increased, and which part of the data population has to be corrected by the operator or aircraft operator.\n\n3. The verifier shall document the outcome of the checks referred to in Articles 14, 15, 16 and 17, including the details of additional samples, in the internal verification documentation.",
+      "text_sha256": "5cac56a6d834958f6982b00d1e764daa3cf589e8dcfa95adda1caeaaa01ecf1d",
+      "md_span": {
+        "start": 37961,
+        "end": 39074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. At one or more appropriate times during the verification process, the verifier shall conduct a site visit in order to assess the operation of measuring devices and monitoring systems, to conduct interviews, to carry out the activities required by this Chapter as well as to gather sufficient information and evidence enabling it to conclude whether the operator’s or aircraft operator’s report is free from material misstatements.\n\n2. The operator or aircraft operator shall provide the verifier access to its sites.\n\n3. For the purposes of verifying the operator’s emission report, the verifier shall also use a site visit to assess the boundaries of the installation as well as the completeness of source streams and emission sources.\n\n4. For the purposes of verifying the operator’s emission report, the verifier shall decide, based on the risk analysis, whether visits to additional locations are needed, including where relevant parts of data flow activities and control activities are carried out in other locations such as company headquarters and other off-site offices.",
+      "text_sha256": "4070247d3df98abd30017da958254ce53009dca38516b5d301c5f88dd738ebc3",
+      "md_span": {
+        "start": 39109,
+        "end": 40202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Where the verifier has identified misstatements or non-conformities during the verification, it shall inform the operator or aircraft operator thereof on a timely basis and request relevant corrections.\n\nThe operator or aircraft operator shall correct any communicated misstatements or non-conformities.\n\n2. The verifier shall document and mark as resolved, in the internal verification documentation, all misstatements or non-conformities that have been corrected by the operator or aircraft operator during the verification.\n\n3. Where the operator or aircraft operator does not correct the misstatements or non-conformities communicated to them by the verifier in accordance with paragraph 1 before the verifier issues the verification report, the verifier shall request the operator or aircraft operator to explain the main causes of the non-conformity or misstatement in order to assess the impact of the non-conformities or misstatements on the reported data.\n\nThe verifier shall determine whether the uncorrected misstatements, individually or when aggregated with other misstatements, have a material effect on the total reported emissions or tonne-kilometre data. In assessing the materiality of misstatements the verifier shall consider the size and nature of the misstatement as well as the particular circumstances of their occurrence.\n\nThe verifier shall assess whether the uncorrected non-conformity, individually or when combined with other non-conformities, has an impact on the reported data and whether this leads to material misstatements.\n\nThe verifier may consider misstatements as material even if those misstatements, individually or when aggregated with other misstatements, are below the materiality level set out in Article 23, where such consideration is justified by the size and nature of the misstatements and the particular circumstances of their occurrence.",
+      "text_sha256": "412f777b2a18a32bd4602931bf2025d171fd147057a92c36344fcfa0eabfb418",
+      "md_span": {
+        "start": 40237,
+        "end": 42140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. The materiality level shall be 5 % of the total reported emissions in the reporting period which is subject to verification, for any of the following:\n\n| (a) | category A installations referred to in Article 19(2)(a) of Regulation (EU) No 601/2012 and category B installations referred to in Article 19(2)(b) of that Regulation; |\n| --- | --- |\n\n| (b) | aircraft operators with annual emissions equal to or less than 500 kilotonnes of fossil CO2. |\n| --- | --- |\n\n2. The materiality level shall be 2 % of the total reported emissions in the reporting period which is subject to verification, for any of the following:\n\n| (a) | category C installations referred to in Article 19(2)(c) of Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (b) | aircraft operators with annual emissions of more than 500 kilotonnes of fossil CO2. |\n| --- | --- |\n\n3. For the purposes of verifying tonne-kilometre reports of aircraft operators, the materiality level shall be 5 % of the total reported tonne-kilometre data in the reporting period which is subject to verification.",
+      "text_sha256": "cad16f591843ae35555b5c6bde59e64873b52f440ee73ca88c5177ab99ea2a4f",
+      "md_span": {
+        "start": 42175,
+        "end": 43247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nWhen completing the verification and considering the information obtained during the verification, the verifier shall:\n\n| (a) | check the final data from the operator or aircraft operator, including data that have been adjusted based upon information obtained during the verification; |\n| --- | --- |\n\n| (b) | review the operator’s or aircraft operator’s reasons for any differences between the final data and data previously provided; |\n| --- | --- |\n\n| (c) | review the outcome of the assessment to determine whether the monitoring plan approved by the competent authority, including the procedures described in that plan, has been implemented correctly; |\n| --- | --- |\n\n| (d) | assess whether the verification risk is at an acceptably low level to obtain reasonable assurance; |\n| --- | --- |\n\n| (e) | ensure that sufficient evidence has been gathered to be able to give a verification opinion with reasonable assurance that the report is free from material misstatements; |\n| --- | --- |\n\n| (f) | ensure that the verification process is fully documented in the internal verification documentation and that a final judgment in the verification report can be given. |\n| --- | --- |",
+      "text_sha256": "7f251c179e84f6088c8a55f4610270d2e5cb6438124701047d338237772bb320",
+      "md_span": {
+        "start": 43282,
+        "end": 44478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. The verifier shall submit the internal verification documentation and the verification report to an independent reviewer prior to the issuance of the verification report.\n\n2. The independent reviewer shall not have carried out any verification activities that are subject to his review.\n\n3. The scope of the independent review shall encompass the complete verification process described in this Chapter and recorded in the internal verification documentation.\n\nThe independent reviewer shall perform the review so as to ensure that the verification process is conducted in accordance with this Regulation, that the procedures for verification activities referred to in Article 40 have been correctly carried out, and that due professional care and judgment has been applied.\n\nThe independent reviewer shall also assess whether the evidence gathered is sufficient to enable the verifier to issue a verification report with reasonable assurance.\n\n4. Where circumstances occur which may cause changes in the verification report after the review, the independent reviewer shall also review those changes and the evidence thereof.\n\n5. The verifier shall properly authorise a person to authenticate the verification report based upon the conclusions of the independent reviewer and the evidence in the internal verification documentation.",
+      "text_sha256": "271b1c32c2da9fbeeda1e9c2ea907423e4c6ebcd5423cfaec09ace7255108af4",
+      "md_span": {
+        "start": 44513,
+        "end": 45860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. The verifier shall prepare and compile internal verification documentation containing at least:\n\n| (a) | the results of the verification activities performed; |\n| --- | --- |\n\n| (b) | the strategic analysis, risk analysis and verification plan; |\n| --- | --- |\n\n| (c) | sufficient information to support the verification opinion including justifications for judgments made on whether or not the misstatements identified have material effect on the reported emissions or tonne-kilometre data. |\n| --- | --- |\n\n2. The internal verification documentation referred to in paragraph 1 shall be drafted in such a manner that the independent reviewer referred to in Article 25 and the national accreditation body can assess whether the verification has been performed in accordance with this Regulation.\n\nAfter authentication of the verification report pursuant to Article 25(5), the verifier shall include results of the independent review in the internal verification documentation.\n\n3. The verifier shall, upon request, provide the competent authority access to the internal verification documentation to facilitate an evaluation of the verification by the competent authority.",
+      "text_sha256": "712c418e5f4910d86b2860990e1539fe0f456c3816f3dbaf12c52c607bc86868",
+      "md_span": {
+        "start": 45895,
+        "end": 47082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Based on the information collected during the verification, the verifier shall issue a verification report to the operator or aircraft operator on each emission report or tonne kilometre report that was subject to verification. The verification report shall include at least one of the following findings:\n\n| (a) | the report is verified as satisfactory; |\n| --- | --- |\n\n| (b) | the operator’s or aircraft operator’s report contains material misstatements that were not corrected before issuing the verification report; |\n| --- | --- |\n\n| (c) | the scope of verification is too limited pursuant to Article 28 and the verifier could not obtain sufficient evidence to issue a verification opinion with reasonable assurance that the report is free from material misstatements; |\n| --- | --- |\n\n| (d) | non-conformities, individually or combined with other non-conformities, provide insufficient clarity and prevent the verifier from stating with reasonable assurance that the operator’s or aircraft operator’s report is free from material misstatements. |\n| --- | --- |\n\nFor the purposes of point (a) of the first subparagraph, the operator’s or aircraft operator’s report may be verified as satisfactory only where the operator’s or aircraft operator’s report is free from material misstatements.\n\n2. The operator or aircraft operator shall submit the verification report to the competent authority together with the operator’s or aircraft operator’s report concerned.\n\n3. The verification report shall at least contain the following elements:\n\n| (a) | the name of the operator or aircraft operator that was subject to verification; |\n| --- | --- |\n\n| (b) | the objectives of the verification; |\n| --- | --- |\n\n| (c) | the scope of the verification; |\n| --- | --- |\n\n| (d) | a reference to the operator’s or aircraft operator’s report that has been verified; |\n| --- | --- |\n\n| (e) | the criteria used to verify the operator’s or aircraft operator’s report, including the permit, where applicable, and versions of the monitoring plan approved by the competent authority as well as the period of validity for each monitoring plan; |\n| --- | --- |\n\n| (f) | aggregated emissions or tonne-kilometres per activity referred to in Annex I of Directive 2003/87/EC and per installation or aircraft operator; |\n| --- | --- |\n\n| (g) | the reporting period subject to verification; |\n| --- | --- |\n\n| (h) | the responsibilities of the operator or aircraft operator, the competent authority and the verifier; |\n| --- | --- |\n\n| (i) | the verification opinion statement; |\n| --- | --- |\n\n| (j) | a description of any identified misstatements and non-conformities that were not corrected before the issuance of the verification report; |\n| --- | --- |\n\n| (k) | the dates on which site visits were carried out and by whom; |\n| --- | --- |\n\n| (l) | information on whether any site visits were waived as well as the reasons for waiving these site visits; |\n| --- | --- |\n\n| (m) | any issues of non-compliance with Regulation (EU) No 601/2012, which have become apparent during the verification; |\n| --- | --- |\n\n| (n) | where approval by the competent authority cannot be obtained in time for the method used to complete the data gap pursuant to the last subparagraph of Article 18(1), a confirmation whether the method used is conservative and whether it does or does not lead to material misstatements; |\n| --- | --- |\n\n| (o) | where the verifier has observed changes to the capacity, activity level and operation of the installation, which might have an impact on the installation’s allocation of emission allowances and which have not been reported to the competent authority by 31 December of the reporting period in accordance with Article 24(1) of Decision 2011/278/EU, a description of those changes and related remarks; |\n| --- | --- |\n\n| (p) | where applicable, recommendations for improvements; |\n| --- | --- |\n\n| (q) | the names of the EU ETS lead auditor, the independent reviewer and, where applicable, the EU ETS auditor and the technical expert that were involved in the verification of the operator’s or aircraft operator’s report; |\n| --- | --- |\n\n| (r) | the date and signature by an authorised person on behalf of the verifier, including his name. |\n| --- | --- |\n\n4. The verifier shall describe the misstatements and non-conformities in sufficient detail in the verification report to allow the operator or aircraft operator as well as the competent authority to understand the following:\n\n| (a) | the size and nature of the misstatement or non-conformity; |\n| --- | --- |\n\n| (b) | why the misstatement has material effect, or not; |\n| --- | --- |\n\n| (c) | to which element of the operator’s or aircraft operator’s report the misstatement or to what element of the monitoring plan the non-conformity refers to. |\n| --- | --- |\n\n5. Where a Member State requires the verifier to submit information on the verification process in addition to the elements described in paragraph 3 and that information is not necessary to understand the verification opinion, the operator or aircraft operator may, for efficiency reasons, submit that additional information to the competent authority separately from the verification report at an alternative date, but no later than 15 May of the same year.",
+      "text_sha256": "fbc06bd1c82b520e32f98fb2bf2e325d1e19ef304be08fbaf5f0fae3b78f93f0",
+      "md_span": {
+        "start": 47117,
+        "end": 52420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nThe verifier may conclude that the scope of the verification referred to in Article 27(1)(c) is too limited in any of the following situations:\n\n| (a) | data are missing that prevent a verifier from obtaining the evidence required to reduce the verification risk to the level needed to obtain reasonable level of assurance; |\n| --- | --- |\n\n| (b) | the monitoring plan is not approved by the competent authority; |\n| --- | --- |\n\n| (c) | the monitoring plan does not provide sufficient scope or clarity to conclude on the verification; |\n| --- | --- |\n\n| (d) | the operator or aircraft operator has failed to make sufficient information available to enable the verifier to carry out the verification. |\n| --- | --- |",
+      "text_sha256": "3e4c12ea11aa64db640919ee7fe698a265d4dfd45fa7850548bae5efaf8340d9",
+      "md_span": {
+        "start": 52455,
+        "end": 53183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\n1. The verifier shall assess whether the operator or aircraft operator has corrected the non-conformities indicated in the verification report related to the previous monitoring period according to the requirements on the operator referred to in Article 69(4) of Regulation (EU) No 601/2012, where relevant.\n\nWhere the operator or aircraft operator has not corrected those non-conformities, pursuant to Article 69(4) of Regulation (EU) No 601/2012, the verifier shall consider whether the omission increases or may increase the risk of misstatements.\n\nThe verifier shall report in the verification report whether those non-conformities have been resolved by the operator or aircraft operator.\n\n2. The verifier shall record in the internal verification documentation details of when and how identified non-conformities are resolved by the operator or aircraft operator during the verification.",
+      "text_sha256": "7e7849f0dabaac81042dd97880ca1e3b9bfbac29c9abc2b0820c27c2042f8e21",
+      "md_span": {
+        "start": 53218,
+        "end": 54122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. Where the verifier has identified areas for improvement in the operator’s or aircraft operator’s performance related to points (a) to (d) of this paragraph, it shall include in the verification report recommendations for improvement related to the operator’s or aircraft operator’s performance on those points:\n\n| (a) | the operator’s or aircraft operator’s risk assessment; |\n| --- | --- |\n\n| (b) | the development, documentation, implementation and maintenance of data flow activities and control activities as well as the evaluation of the control system; |\n| --- | --- |\n\n| (c) | the development, documentation, implementation and maintenance of procedures for data flow activities and control activities as well as other procedures that an operator or aircraft operator has to establish pursuant to Regulation (EU) No 601/2012; |\n| --- | --- |\n\n| (d) | the monitoring and reporting of emissions or tonne kilometres, including in relation to achieving higher tiers, reducing risks and enhancing efficiency in the monitoring and reporting. |\n| --- | --- |\n\n2. During verification following a year in which recommendations for improvement were made in a verification report, the verifier shall check whether the operator or aircraft operator has implemented those recommendations for improvement and the manner in which this has been done.\n\nWhere the operator or aircraft operator has not implemented those recommendations or has not implemented them correctly, the verifier shall assess the impact this has on the risk of misstatements and non-conformities.",
+      "text_sha256": "f9190f232a1b7ec659c2d5d2865d6c0e910c01da54fa81440f7c2026e1b34f24",
+      "md_span": {
+        "start": 54157,
+        "end": 55732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. By way of derogation from Article 21(1), the verifier may decide, subject to the approval by a competent authority in accordance with the second subparagraph of this Article, not to carry out site visits to installations based on the outcome of the risk analysis and after determining that all relevant data can be remotely accessed by the verifier and that the conditions for not carrying out site visits established by the Commission are met. The verifier shall inform the operator thereof without undue delay.\n\nThe operator shall submit an application to the competent authority requesting the competent authority to approve the verifier’s decision not to carry out the site visit.\n\nOn an application submitted by the operator concerned, the competent authority shall decide on the approval of the verifier’s decision not to carry out the site visit, taking into consideration all of the following elements:\n\n| (a) | the information provided by the verifier on the outcome of the risk analysis; |\n| --- | --- |\n\n| (b) | information that the relevant data can be remotely accessed; |\n| --- | --- |\n\n| (c) | evidence that the requirements laid down in paragraph 3 are not applicable to the installation; |\n| --- | --- |\n\n| (d) | evidence that the conditions for not carrying out the site visits established by the Commission are met. |\n| --- | --- |\n\n2. The approval of the competent authority referred to in paragraph 1 shall not be required for not carrying out site visits of installations with low emissions referred to in Article 47(2) of Regulation (EU) No 601/2012.\n\n3. The verifier shall carry out site visits in any case in the following situations:\n\n| (a) | when an operator’s emission report is verified for the first time by the verifier; |\n| --- | --- |\n\n| (b) | where a verifier has not carried out a site visit in two reporting periods immediately preceding the current reporting period; |\n| --- | --- |\n\n| (c) | where, during the reporting period, there have been significant modifications of the monitoring plan including those referred to in Article 15(3) or (4) of Regulation (EU) No 601/2012. |\n| --- | --- |",
+      "text_sha256": "b517f64e5d6c3458f50e16b2b59adfdd1b2804511cf0620a31e9818f81c7881e",
+      "md_span": {
+        "start": 55767,
+        "end": 57911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. By way of derogation from Article 21(1) of this Regulation, a verifier may decide not to carry out a site visit of a small emitter referred to in Article 54(1) of Regulation (EU) No 601/2012 where the verifier has concluded, based on its risk analysis, that all relevant data can be remotely accessed by the verifier.\n\n2. Where an aircraft operator uses the simplified tools referred to in Article 54(2) of Regulation (EU) No 601/2012 to determine the fuel consumption and the reported data has been generated using those tools independently from any input from the aircraft operator, the verifier may, based on its risk analysis, decide not to carry out the checks referred to in Articles 14 and 16, Article 17(1) and (2) and Article 18 of this Regulation.",
+      "text_sha256": "b9b9aa68bb91164dfef75bd08cef588d6b6894c7026c3e905d24b70a90c6a2bf",
+      "md_span": {
+        "start": 57946,
+        "end": 58718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nWhere a verifier uses a simplified verification plan, the verifier shall keep record of justifications for using such plans in the internal verification documentation, including evidence that the conditions for using simplified verification plans have been met.",
+      "text_sha256": "14f424835a5443f4695ab7fd7e77279e555ba8cf2e4e1188371540621d06f410",
+      "md_span": {
+        "start": 58753,
+        "end": 59026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\nThe verifier shall only issue a verification report to an operator or aircraft operator that performs an activity that is covered by the scope of the activity referred to in Annex I for which the verifier has been granted an accreditation according to the provisions of Regulation (EC) No 765/2008 and this Regulation.",
+      "text_sha256": "da3e852fa14b15de79e1cec374b46b787dda514adc912f0f6bef5652bc36ebbf",
+      "md_span": {
+        "start": 59061,
+        "end": 59391
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\n1. The verifier shall establish, document, implement and maintain a competence process to ensure that all personnel entrusted with verification activities are competent for the tasks that are allocated to them.\n\n2. As part of the competence process referred to in paragraph 1, the verifier shall at least determine, document, implement and maintain the following:\n\n| (a) | general competence criteria for all personnel undertaking verification activities; |\n| --- | --- |\n\n| (b) | specific competence criteria for each function within the verifier undertaking verification activities, in particular for the EU ETS auditor, EU ETS lead auditor, independent reviewer and technical expert; |\n| --- | --- |\n\n| (c) | a method to ensure the continued competence and regular evaluation of the performance of all personnel that undertake verification activities; |\n| --- | --- |\n\n| (d) | a process for ensuring ongoing training of the personnel undertaking verification activities; |\n| --- | --- |\n\n| (e) | a process for assessing whether the verification engagement falls within the scope of the verifier’s accreditation, and whether the verifier has the competence, personnel and resources required to select the verification team and successfully complete the verification activities within the timeframe required. |\n| --- | --- |\n\nThe competence criteria referred to in point (b) of the first subparagraph shall be specific for each scope of accreditation in which these persons are carrying out verification activities.\n\nIn evaluating the competence of the personnel pursuant to point (c) of the first subparagraph, the verifier shall assess that competence against the competence criteria referred to in points (a) and (b).\n\nThe process referred to in point (e) of the first subparagraph shall also include a process for assessing whether the verification team holds all the competence and persons required to carry out verification activities for a specific operator or aircraft operator.\n\nThe verifier shall develop general and specific competence criteria which are in conformity with criteria laid down in Article 36(4) and Articles 37, 38 and 39.\n\n3. The verifier shall, at regular intervals, monitor the performance of all personnel that undertakes verification activities for the purposes of confirming the continued competence of those personnel.\n\n4. The verifier shall at regular intervals review the competence process referred to in paragraph 1 to ensure that:\n\n| (a) | the competence criteria referred to in points (a) and (b) of the first subparagraph of paragraph 2 are developed in accordance with the competence requirements under this Regulation; |\n| --- | --- |\n\n| (b) | all issues that may be identified related to the setting of the general and specific competence criteria pursuant to points (a) and (b) of the first subparagraph of paragraph 2 are addressed; |\n| --- | --- |\n\n| (c) | all the requirements in the competence process are updated and maintained as appropriate. |\n| --- | --- |\n\n5. The verifier shall have a system for recording the results of the activities carried out in the competence process referred to in paragraph 1.\n\n6. A sufficiently competent evaluator shall assess the competence and performance of an EU ETS auditor and EU ETS lead auditor.\n\nFor that purpose, the competent evaluator shall monitor those auditors during the verification of the operator’s or aircraft operator’s report on the site of the installation or aircraft operator as appropriate, to determine whether they meet the competence criteria.\n\n7. Where a member of personnel fails to demonstrate that the competence criteria for a specific task allocated to him or her have been fully met, the verifier shall identify and organise additional training or supervised work experience as well as monitor that individual until he or she demonstrates to the satisfaction of the verifier that he or she meets the competence criteria.",
+      "text_sha256": "07c8ba226f2ca03d6e4fb8d5404128d616fb525aaa2c8cd2a9743aed367c18c1",
+      "md_span": {
+        "start": 59426,
+        "end": 63376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\n1. For each particular verification engagement, the verifier shall assemble a verification team capable of performing the verification activities referred to in Chapter II.\n\n2. The verification team shall at least consist of an EU ETS lead auditor, and, where the verifier’s conclusions during the assessment referred to in Article 8(1)(e) and the strategic analysis require this, a suitable number of EU ETS auditors and technical experts.\n\n3. For the independent review of the verification activities related to a particular verification engagement, the verifier shall appoint an independent reviewer who shall not be part of the verification team.\n\n4. Each team member shall:\n\n| (a) | have a clear understanding of his or her individual role in the verification process; |\n| --- | --- |\n\n| (b) | be able to communicate effectively in the language necessary to perform his or her specific tasks. |\n| --- | --- |\n\n5. The verification team shall include at least one person with the technical competence and understanding required to assess the specific technical monitoring and reporting aspects related to the activities referred to in Annex I that are carried out by the installation or aircraft operator, and one person who is able to communicate in the language required for the verification of an operator’s or aircraft operator’s report in the Member State where the verifier is carrying out that verification.\n\n6. Where the verification team consists of one person, this person shall meet all the competence requirements for the EU ETS auditor and EU ETS lead auditor and meet the requirements laid down in paragraphs 4 and 5.",
+      "text_sha256": "a4e55f43c025c2fd506d716ceedd977ff6e34e660a729582503ab4a1e1da1480",
+      "md_span": {
+        "start": 63411,
+        "end": 65057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_37",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 37\n\n1. An EU ETS auditor shall have the competence to perform the verification. To this end, the EU ETS auditor shall have at least:\n\n| (a) | knowledge of Directive 2003/87/EC, Regulation (EU) No 601/2012, this Regulation, relevant standards, and other relevant legislation, applicable guidelines, as well as relevant guidelines and legislation issued by the Member State in which the verifier is carrying out a verification; |\n| --- | --- |\n\n| (b) | knowledge and experience of data and information auditing, including:(i)data and information auditing methodologies, including the application of the materiality level and assessing the materiality of misstatements;(ii)analysing inherent risks and control risks;(iii)sampling techniques in relation to data sampling and checking the control activities;(iv)assessing data and information systems, IT systems, data flow activities, control activities, control systems and procedures for control activities; |\n| --- | --- |\n| (i) | data and information auditing methodologies, including the application of the materiality level and assessing the materiality of misstatements; |\n| (ii) | analysing inherent risks and control risks; |\n| (iii) | sampling techniques in relation to data sampling and checking the control activities; |\n| (iv) | assessing data and information systems, IT systems, data flow activities, control activities, control systems and procedures for control activities; |\n\n| (c) | the ability to perform the activities related to the verification of an operator’s or aircraft operator’s report as required by Chapter II; |\n| --- | --- |\n\n| (d) | knowledge of and experience in the sector specific technical monitoring and reporting aspects that are relevant for the scope of activities referred to in Annex I in which the EU ETS auditor is carrying out verification. |\n| --- | --- |\n\n2. An EU ETS lead auditor shall meet the competence requirements for an EU ETS auditor and shall have demonstrated competence to lead a verification team and to be responsible for carrying out the verification activities in accordance with this Regulation.",
+      "text_sha256": "264f770b812da40ab3003c46fbf76bc07f5882d1f7e638824d7179c17cb48dad",
+      "md_span": {
+        "start": 65092,
+        "end": 67207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_38",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 38\n\n1. The independent reviewer shall have the appropriate authority to review the draft verification report and internal verification documentation pursuant to Article 25.\n\n2. The independent reviewer shall meet the competence requirements of an EU ETS lead auditor referred to in Article 37(2).\n\n3. The independent reviewer shall have the necessary competence to analyse the information provided to confirm the completeness and integrity of the information, to challenge missing or contradictory information as well as to check data trails for the purposes of assessing whether the internal verification documentation is complete and provides sufficient information to support the draft verification report.",
+      "text_sha256": "696d59a187cf9f43e951839c1d1de52ea079537b40c975303b7ea89de9eddc8e",
+      "md_span": {
+        "start": 67242,
+        "end": 67959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_39",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 39\n\n1. When carrying out verification activities, a verifier may make use of technical experts to provide detailed knowledge and expertise on a specific subject matter needed to support the EU ETS auditor and EU ETS lead auditor in carrying out their verification activities.\n\n2. Where the independent reviewer does not have the competence to assess a particular issue in the review process, the verifier shall request the support of a technical expert.\n\n3. The technical expert shall have the competence and expertise required to support the EU ETS auditor and EU ETS lead auditor, or the independent reviewer, where necessary, effectively on the subject matter for which his or her knowledge and expertise is requested. In addition the technical expert shall have a sufficient understanding of the issues required pursuant to points (a), (b) and (c) of Article 37(1).\n\n4. The technical expert shall undertake specified tasks under the direction and full responsibility of the EU ETS lead auditor of the verification team in which the technical expert is operating or the independent reviewer.",
+      "text_sha256": "f72f02c980b003d6654f00bb4ca9627aba3bc8472cb21d60ff30692c5b64f1db",
+      "md_span": {
+        "start": 67994,
+        "end": 69096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_40",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 40\n\n1. A verifier shall establish, document, implement and maintain one or more procedures for verification activities as described in Chapter II, and the procedures and processes required by Annex II. When establishing and implementing these procedures and processes the verifier shall carry out the activities in accordance with the harmonised standard referred to in Annex II.\n\n2. A verifier shall design, document, implement and maintain a quality management system to ensure consistent development, implementation, improvement and review of the procedures and processes referred to in paragraph 1 in accordance with the harmonised standard referred to in Annex II.",
+      "text_sha256": "627b9b0f35be93cdd341be97ced2df477247e0bfb6eb6928d8a59740e82efb9d",
+      "md_span": {
+        "start": 69131,
+        "end": 69808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_41",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 41\n\n1. A verifier shall keep records, including records on competence and impartiality of personnel, to demonstrate compliance with this Regulation.\n\n2. A verifier shall on a regular basis make information available to the operator or aircraft operator and other relevant parties in accordance with the harmonised standard referred to in Annex II.\n\n3. A verifier shall safeguard the confidentiality of information obtained during the verification in accordance with the harmonised standard referred to in Annex II.",
+      "text_sha256": "b99d7e5f5cc47dce9b6fd15e705de70a47a7a344aab700d7118d068e2362f0ce",
+      "md_span": {
+        "start": 69843,
+        "end": 70365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_42",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 42\n\n1. A verifier shall be independent from an operator or aircraft operator and impartial in carrying out its verification activities.\n\nFor that purpose, the verifier and any part of the same legal entity shall not be an operator or aircraft operator, the owner of an operator or aircraft operator or owned by them nor shall the verifier have relations with the operator or aircraft operator that could affect its independence and impartiality. The verifier shall also be independent from bodies that are trading emission allowances under the greenhouse gas emission allowances trading scheme established pursuant to Article 19 of Directive 2003/87/EC.\n\n2. A verifier shall be organised in such a manner as to safeguard its objectivity, independence and impartiality. For the purposes of this Regulation, the relevant requirements laid down in the harmonised standard referred to in Annex II shall apply.\n\n3. A verifier shall not carry out verification activities for an operator or aircraft operator that poses an unacceptable risk to its impartiality or that creates a conflict of interest for it. The verifier shall not use personnel or contracted persons in the verification of an operator’s or aircraft operator’s report that involves an actual or potential conflict of interest. The verifier shall also ensure that the activities of personnel or organisations do not affect the confidentiality, objectivity, independence and impartiality of the verification.\n\nAn unacceptable risk to impartiality or a conflict of interest referred to in the first sentence of the first subparagraph shall be considered to have arisen in either of the following cases, amongst others:\n\n| (a) | where a verifier or any part of the same legal entity provides consulting services to develop part of the monitoring and reporting process that is described in the monitoring plan approved by the competent authority, including the development of the monitoring methodology, the drafting of the operator’s or aircraft operator’s report and the drafting of the monitoring plan; |\n| --- | --- |\n\n| (b) | where a verifier or any part of the same legal entity provides technical assistance to develop or maintain, the system implemented to monitor and report emissions or tonne-kilometre data. |\n| --- | --- |\n\n4. A conflict of interest for a verifier in the relations between it and an operator or an aircraft operator shall be considered to have arisen in either of the following cases, amongst others:\n\n| (a) | where the relationship between the verifier and the operator or aircraft operator is based on common ownership, common governance, common management or personnel, shared resources, common finances and common contracts or marketing; |\n| --- | --- |\n\n| (b) | where the operator or aircraft operator has received consultancy referred to in point (a) of paragraph 3 or technical assistance referred to in point (b) of that paragraph by a consultancy body, technical assistance body or another organisation having relations with the verifier and threatening the impartiality of the verifier. |\n| --- | --- |\n\nFor the purposes of point (b) of the first subparagraph, the verifier’s impartiality shall be considered compromised where the relations between the verifier and the consultancy body, technical assistance body or the other organisation is based on common ownership, common governance, common management or personnel, shared resources, common finances, common contracts or marketing and common payment of sales commission or other inducement for the referral of new clients.\n\n5. A verifier shall not outsource the independent review or the issuance of the verification report. For the purposes of this Regulation, when outsourcing other verification activities, the verifier shall meet the relevant requirements laid down in the harmonised standard referred to in Annex II.\n\nHowever, contracting individuals to carry out verification activities shall not constitute outsourcing for the purposes of the first subparagraph where the verifier, when contracting those persons, meets the relevant requirements in the harmonised standard referred to in Annex II.\n\n6. A verifier shall establish, document, implement and maintain a process to ensure continuous impartiality and independence of the verifier, parts of the same legal entity as the verifier, other organisations referred to in paragraph 4, and of all personnel and contracted persons involved in the verification. That process shall include a mechanism to safeguard the impartiality and independence of the verifier and shall meet the relevant requirements laid down in the harmonised standard referred to in Annex II.",
+      "text_sha256": "571389554b68079fb263a5b226eec795924126fc9e2968bd188eea317208339d",
+      "md_span": {
+        "start": 70400,
+        "end": 75078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_43",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 43\n\nA verifier issuing a verification report to an operator or an aircraft operator shall be accredited for the scope of activities referred to in Annex I for which the verifier is carrying out the verification of an operator’s or aircraft operator’s report.",
+      "text_sha256": "25ec420bc1ea9b72b6a5d40a96bd54990418f97e82b9793f95780e0289e452bd",
+      "md_span": {
+        "start": 75113,
+        "end": 75379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_44",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 44\n\nDuring the accreditation process and the monitoring of accredited verifiers, each national accreditation body shall assess whether the verifier and its personnel undertaking verification activities:\n\n| (a) | have the competence to carry out the verification of operator’s or aircraft operator’s reports in accordance with this Regulation; |\n| --- | --- |\n\n| (b) | are performing the verification of operator’s or aircraft operator’s reports in accordance with this Regulation; |\n| --- | --- |\n\n| (c) | meet the requirements referred to in Chapter III. |\n| --- | --- |",
+      "text_sha256": "3cfc16113e480baa3697a5bc54a52a50cb3cc70dac7df13d9a6bf1ee0d3c98b9",
+      "md_span": {
+        "start": 75414,
+        "end": 75993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_45",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 45\n\n1. Any legal person or other legal entity may request accreditation pursuant to Article 5(1) of Regulation (EC) No 765/2008 and the provisions of this Chapter.\n\nThe request shall contain the information required on the basis of the harmonised standard referred to in Annex III.\n\n2. In addition to the information referred to in paragraph 1 of this Article, an applicant shall also, prior to the commencement of the assessment pursuant to Article 44, make available to the national accreditation body the following:\n\n| (a) | all information requested by the national accreditation body; |\n| --- | --- |\n\n| (b) | procedures and information concerning processes referred to in Article 40(1) and the information on the quality management system referred to in Article 40(2); |\n| --- | --- |\n\n| (c) | the competence criteria referred to in Article 35(2)(a) and (b), the results of the competence process referred to in Article 35 as well as other relevant documentation on the competence of all personnel involved in verification activities; |\n| --- | --- |\n\n| (d) | information on the process for ensuring continuous impartiality and independence referred to in Article 42(6), including relevant records on the impartiality and independence of the applicant and its personnel; |\n| --- | --- |\n\n| (e) | information on the technical experts and key personnel involved in the verification of operator’s or aircraft operator’s reports; |\n| --- | --- |\n\n| (f) | the system and process for ensuring appropriate internal verification documentation; |\n| --- | --- |\n\n| (g) | other relevant records referred to in Article 41(1). |\n| --- | --- |",
+      "text_sha256": "da630fb36c8ad50b1c882a295c17c7cf2aab681112407a3909e9dbd4fed6b201",
+      "md_span": {
+        "start": 76028,
+        "end": 77671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_46",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 46\n\n1. When preparing the assessment referred to in Article 44, each national accreditation body shall take into account the complexity of the scope for which the applicant requests accreditation as well as the complexity of the quality management system referred to in Article 40(2), the procedures and information on processes referred to in Article 40(1) and the geographical areas in which the applicant is carrying out or planning to carry out verification.\n\n2. For the purposes of this Regulation, the national accreditation body shall meet the minimum requirements set out in the harmonised standard referred to in Annex III.",
+      "text_sha256": "a687a6f2a5e97d443f729aeb56e04ff0afab576438dfba553a0c4771d5228a45",
+      "md_span": {
+        "start": 77706,
+        "end": 78346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_47",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 47\n\n1. The assessment team referred to in Article 57 shall carry out at least the following activities for the purposes of making the assessment referred to in Article 44:\n\n| (a) | a review of all relevant documents and records referred to in Article 45; |\n| --- | --- |\n\n| (b) | a visit of the premises of the applicant to review a representative sample of the internal verification documentation and to assess the implementation of the applicant’s quality management system and the procedures or processes referred to in Article 40; |\n| --- | --- |\n\n| (c) | witnessing of a representative part of the requested scope for accreditation and the performance and competence of a representative number of the applicant’s staff involved in the verification of the operator’s or aircraft operator’s report to ensure that the staff are operating in accordance with this Regulation. |\n| --- | --- |\n\nIn carrying out those activities, the assessment team shall meet the requirements set out in the harmonised standard referred to in Annex III.\n\n2. The assessment team shall report the findings and non-conformities to the applicant in accordance with the requirements set out in the harmonised standard referred to in Annex III and shall request the applicant to respond to the reported findings and non-conformities in accordance with those provisions.\n\n3. An applicant shall take corrective action to address any non-conformities reported pursuant to paragraph 2 and indicate in its response to the findings and non-conformities of the assessment team what actions are taken or are planned to be taken within a time set by the national accreditation body to resolve any identified non-conformities.\n\n4. The national accreditation body shall review the responses of the applicant to the findings and non-conformities submitted pursuant to paragraph 3.\n\nWhere the national accreditation body finds the response of the applicant to be insufficient or ineffective, it shall request further information or action from the applicant. The national accreditation body may also request evidence of the effective implementation of actions taken or carry out a follow-up assessment to assess the effective implementation of the corrective actions.",
+      "text_sha256": "e5e5e75751b088bf2c64a8caad91bf8a64d0e4a8110faa4490d148224a17a4d3",
+      "md_span": {
+        "start": 78381,
+        "end": 80619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_48",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 48\n\n1. The national accreditation body shall take into account the requirements laid down in the harmonised standard referred to in Annex III when preparing and taking the decision on whether to grant, extend or renew the accreditation of an applicant.\n\n2. Where the national accreditation body has decided to grant, extend or renew the accreditation of an applicant, it shall issue an accreditation certificate to that effect.\n\nThe accreditation certificate shall at least contain the information required on the basis of the harmonised standard referred to in Annex III.\n\nThe accreditation certificate shall be valid for a period not exceeding five years after the date on which the national accreditation body has issued that certificate.",
+      "text_sha256": "e1127b6a248c3092735b686158819a660c47b0573e7f434940eff822c77a0a14",
+      "md_span": {
+        "start": 80654,
+        "end": 81403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_49",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 49\n\n1. The national accreditation body shall carry out an annual surveillance of each verifier to which it has issued an accreditation certificate.\n\nThe surveillance shall at least comprise of:\n\n| (a) | a visit to the premises of the verifier with a view to carrying out the activities referred to Article 47(1)(b); |\n| --- | --- |\n\n| (b) | witnessing the performance and competence of a representative number of the verifier’s staff in accordance with Article 47(1)(c). |\n| --- | --- |\n\n2. The national accreditation body shall carry out the first surveillance of a verifier in accordance with paragraph 1 no later than 12 months after the date on which the accreditation certificate has been issued to that verifier.\n\n3. The national accreditation body shall prepare its plan for the surveillance of each verifier in a manner that allows for representative samples of the scope of accreditation to be assessed, in accordance with the requirements laid down in the harmonised standard referred to in Annex III.\n\n4. Based on the results of the surveillance referred to in paragraph 1, the national accreditation body shall decide whether to confirm the continuation of accreditation.\n\n5. Where a verifier carries out a verification in another Member State, the national accreditation body that has accredited the verifier may request the national accreditation body of the Member State where the verification is performed to carry out surveillance activities on its behalf and under its responsibility.",
+      "text_sha256": "4440a55789cc7e35dc31df803f676717c9395068f5ec9b0e136b992eda05bcf6",
+      "md_span": {
+        "start": 81438,
+        "end": 82948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_50",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 50\n\n1. Before the expiry of the accreditation certificate, the national accreditation body shall carry out a reassessment of the verifier to which the national accreditation body has issued an accreditation certificate to determine whether the validity of that accreditation certificate may be extended.\n\n2. The national accreditation body shall prepare its plan for the reassessment of each verifier in a manner that allows representative samples of the scope of accreditation to be assessed. In planning and carrying out the surveillance, the national accreditation body shall meet the requirements laid down in the harmonised standard referred to in Annex III.",
+      "text_sha256": "19fb6ff3ea8e7c28fa1272fa5d6487550ed48a6c7b32b0893a114f8fbbe8b6f4",
+      "md_span": {
+        "start": 82983,
+        "end": 83654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_51",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 51\n\n1. The national accreditation body may conduct an extraordinary assessment of the verifier at any time to ensure that the verifier meets the requirements of this Regulation.\n\n2. For the purposes of enabling the national accreditation body to assess the need for an extraordinary assessment, the verifier shall inform the national accreditation body forthwith of any significant changes relevant to its accreditation concerning any aspect of its status or operation. Significant changes shall include those changes mentioned in the harmonised standard referred to in Annex III.",
+      "text_sha256": "7e566dd4df6b3e6c29f851d5e9f3b8e22bb8c90f1f77adf652e9f08137f13a56",
+      "md_span": {
+        "start": 83689,
+        "end": 84277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_52",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 52\n\nThe national accreditation body shall, in response to an application by a verifier for an extension of the scope of a granted accreditation, undertake the necessary activities to determine whether the verifier meets the requirements of Article 44 for the requested extension of the scope of its accreditation.",
+      "text_sha256": "b2b79c5dc11351820a234dc83124ce5038e59912e2e8f46b7c6639682f11ab16",
+      "md_span": {
+        "start": 84312,
+        "end": 84633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_53",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 53\n\n1. The national accreditation body may suspend, withdraw or reduce an accreditation of a verifier where the verifier does not meet the requirements of this Regulation.\n\nThe national accreditation body shall suspend, withdraw or reduce an accreditation of a verifier where the verifier requests so.\n\nThe national accreditation body shall establish, document, implement and maintain a procedure for the suspension of the accreditation, the withdrawal of the accreditation and the reduction of the scope of accreditation.\n\n2. The national accreditation body shall suspend an accreditation, or restrict the scope of an accreditation in any of the following cases:\n\n| (a) | the verifier has committed a serious breach of the requirements of this Regulation; |\n| --- | --- |\n\n| (b) | the verifier has persistently and repeatedly failed to meet the requirements of this Regulation; |\n| --- | --- |\n\n| (c) | the verifier has breached other specific terms and conditions of the national accreditation body. |\n| --- | --- |\n\n3. The national accreditation body shall withdraw the accreditation where:\n\n| (a) | the verifier has failed to remedy the grounds for a decision to suspend the accreditation certificate; |\n| --- | --- |\n\n| (b) | a member of the top management of the verifier has been found guilty of fraud; |\n| --- | --- |\n\n| (c) | the verifier has intentionally provided false information. |\n| --- | --- |\n\n4. The decision of a national accreditation body to suspend, withdraw or reduce the scope of the accreditation in accordance with paragraphs 2 and 3 shall be subject to appeal.\n\nMember States shall establish procedures for the resolution of those appeals.\n\n5. The decision of a national accreditation body to suspend, withdraw or reduce the scope of the accreditation shall take effect upon its notification to the verifier.\n\nThe national accreditation body shall terminate the suspension of an accreditation certificate where it has received satisfactory information and is confident that the verifier meets the requirements of this Regulation.",
+      "text_sha256": "4fceff34856d984277fe78901f78569fe67a34dfbf63afabbf93ed3bff76c958",
+      "md_span": {
+        "start": 84668,
+        "end": 86732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_54",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 54\n\n1. The tasks related to accreditation pursuant to this Regulation shall be carried out by the national accreditation bodies appointed pursuant to Article 4(1) of Regulation (EC) No 765/2008.\n\n2. Where a Member State decides to allow for the certification of verifiers that are natural persons, pursuant to this Regulation, the tasks related to the certification of those verifiers shall be entrusted to a national authority other than the national accreditation body appointed pursuant to Article 4(1) of Regulation (EC) No 765/2008.\n\n3. Where a Member State decides to use the option laid down in paragraph 2, it shall ensure that the national authority concerned meets the requirements of this Regulation, including those laid down in Article 70, and provide the required documentary evidence in accordance with Article 5(2) of Regulation (EC) No 765/2008.\n\n4. A national accreditation body shall be a member of the body recognised under Article 14 of that Regulation.\n\n5. A national accreditation body shall be entrusted with the operation of accreditation as a public authority activity and be granted formal recognition by the Member State, where accreditation is not operated directly by public authorities.\n\n6. For the purposes of this Regulation, the national accreditation body shall carry out its functions in accordance with the requirements set out in the harmonised standard referred to in Annex III.",
+      "text_sha256": "6e8eb175b28c82e92bcd4f69c6d8815309d26f0b1e13fd178836d106571b8216",
+      "md_span": {
+        "start": 86767,
+        "end": 88192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_55",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 55\n\nWhere a Member State considers that it is economically not meaningful or sustainable to appoint a national accreditation body or to provide accreditation services within the meaning of Article 15 of Directive 2003/87/EC, that Member State shall have recourse to a national accreditation body of another Member State.\n\nThe Member State concerned shall inform the Commission and other Member States.",
+      "text_sha256": "e25b8714bdcb9c7e296afe964c495f9d7b961fa9c08179af8499cbc39dd3f8cc",
+      "md_span": {
+        "start": 88227,
+        "end": 88636
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_56",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 56\n\n1. The national accreditation body shall be organised in a manner that guarantees its full independence from verifiers it assesses and its impartiality in carrying out its accreditation activities.\n\n2. For that purpose, the national accreditation body shall not offer or provide any activities or services provided by a verifier, nor shall it provide consultancy services, own shares in or otherwise have a financial or managerial interest in a verifier.\n\n3. Without prejudice to Article 54(2), the structure, responsibilities and tasks of the national accreditation body shall be clearly distinguished from those of the competent authority and those of other national authorities.\n\n4. The national accreditation body shall take all final decisions pertaining to the accreditation of verifiers.\n\nHowever, the national accreditation body may sub-contract certain activities, subject to the requirements set out in the harmonised standard referred to in Annex III.",
+      "text_sha256": "3ad2ee5fa7596ade04faf4ff2ffb97b0abe43f7d75923badc9e56983cee928e5",
+      "md_span": {
+        "start": 88671,
+        "end": 89645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_57",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 57\n\n1. The national accreditation body shall appoint an assessment team for each particular assessment.\n\n2. An assessment team shall consist of a lead assessor and, where necessary, a suitable number of assessors or technical experts for a specific scope of accreditation.\n\nThe assessment team shall include at least one person with the knowledge of the monitoring and reporting of greenhouse gas emissions pursuant to Regulation (EU) No 601/2012 that are relevant for the scope of accreditation and the competence and understanding required to assess the verification activities within the installation or aircraft operator for that scope, and at least one person with the knowledge of relevant national legislation and guidance.",
+      "text_sha256": "9c04792905a51f777945ad77da6df432af5f327da56fa926f3f9d28f737753c3",
+      "md_span": {
+        "start": 89680,
+        "end": 90418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_58",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 58\n\n1. An assessor shall have the competence to carry out the activities required by Chapter IV when assessing the verifier. To that end, the assessor shall:\n\n| (a) | meet the requirements laid down in the harmonised standard pursuant to Regulation (EC) No 765/2008 referred to in Annex III; |\n| --- | --- |\n\n| (b) | have knowledge of Directive 2003/87/EC, Regulation (EU) No 601/2012, this Regulation, relevant standards and other relevant legislation as well as applicable guidelines; |\n| --- | --- |\n\n| (c) | have knowledge of data and information auditing referred to in Article 37(1)(b) of this Regulation obtained through training or access to a person that has knowledge and experience of such data and information. |\n| --- | --- |\n\n2. A lead assessor shall meet the competence requirements referred to in paragraph 1, have demonstrated competence to lead an assessment team and be responsible for carrying out an assessment in accordance with this Regulation.\n\n3. Internal reviewers and persons taking the decisions on the granting, extending or renewing of an accreditation shall, in addition to the competence requirements referred to in paragraph 1, have sufficient knowledge and experience to evaluate the accreditation.",
+      "text_sha256": "3da7580d9c159175750ee01953cca1f14c9bc8235eac94d52e2bc2e6a42293dc",
+      "md_span": {
+        "start": 90453,
+        "end": 91693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_59",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 59\n\n1. The national accreditation body may include technical experts in the assessment team to provide detailed knowledge and expertise on a specific subject matter needed to support the lead assessor or assessor in carrying out assessment activities.\n\n2. A technical expert shall have the competence required to support the lead assessor and assessor effectively on the subject matter for which his or her knowledge and expertise is requested. In addition, the technical expert shall:\n\n| (a) | have knowledge of Directive 2003/87/EC, Regulation (EU) No 601/2012, this Regulation, relevant standards, and other relevant legislation as well as applicable guidelines; |\n| --- | --- |\n\n| (b) | have a sufficient understanding of verification activities. |\n| --- | --- |\n\n3. A technical expert shall undertake specified tasks under the direction and full responsibility of the lead assessor of the assessment team concerned.",
+      "text_sha256": "7726a8f899546bb3d08eeb3b788c4df54ecb3d1146f5c500bcb588dbd7ed1f66",
+      "md_span": {
+        "start": 91728,
+        "end": 92656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_60",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 60\n\nThe national accreditation body shall comply with the requirements established pursuant to Article 8 of Regulation (EC) No 765/2008.",
+      "text_sha256": "f8492c9864dd198db3d0fc56cc504e7ed1e6befb61b07754a0dd2edf3fa9b4be",
+      "md_span": {
+        "start": 92691,
+        "end": 92835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_61",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 61\n\nWhere the national accreditation body has received a complaint concerning the verifier from the competent authority, the operator or aircraft operator, or other interested parties, the national accreditation body shall, within a reasonable time:\n\n| (a) | decide on the validity of the complaint; |\n| --- | --- |\n\n| (b) | ensure that the verifier concerned is given the opportunity to submit its observations; |\n| --- | --- |\n\n| (c) | take appropriate actions to address the complaint; |\n| --- | --- |\n\n| (d) | record the complaint and action taken; and |\n| --- | --- |\n\n| (e) | respond to the complainant. |\n| --- | --- |",
+      "text_sha256": "97bf8371e24acfc4528a6e51f44a34a36918ed1f7b03058e758725d29b4ea4dd",
+      "md_span": {
+        "start": 92870,
+        "end": 93503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_62",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 62\n\nThe national accreditation body shall keep records on each person involved in the accreditation process. Those records shall include records related to relevant qualifications, training, experience, impartiality and competence necessary to demonstrate compliance with this Regulation.",
+      "text_sha256": "e390c0245d148927f523c8d1a7141a303a79b0c3fb9a1cea2c1e33fadc960b8a",
+      "md_span": {
+        "start": 93538,
+        "end": 93834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_63",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 63\n\n1. The national accreditation body shall, on a regular basis, make publicly available and update information obtained in the process of its accreditation activities.\n\n2. The national accreditation body shall make, in accordance with point 4 of Article 8 of Regulation (EC) No 765/2008, adequate arrangements to safeguard, as appropriate, the confidentiality of information obtained.",
+      "text_sha256": "e86ff59f457556ca08ea06b28cae459c032967bad9af03b652b340fc98641358",
+      "md_span": {
+        "start": 93869,
+        "end": 94263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_64",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 64\n\n1. National accreditation bodies shall subject themselves to a regular peer evaluation.\n\nThe peer evaluation shall be organised by the body recognised under Article 14 of Regulation (EC) No 765/2008.\n\n2. The body recognised under Article 14 of Regulation (EC) No 765/2008 shall implement appropriate peer evaluation criteria and an effective and independent peer evaluation process in order to assess whether:\n\n| (a) | the national accreditation body that is subject to the peer evaluation has carried out the accreditation activities in accordance with Chapter IV; |\n| --- | --- |\n\n| (b) | the national accreditation body that is subject to the peer evaluation has met the requirements laid down in this Chapter. |\n| --- | --- |\n\nThe criteria shall include competence requirements for peer evaluators and peer evaluation teams that are specific to the scheme for greenhouse gas emission allowances trading established by Directive 2003/87/EC.\n\n3. The body recognised under Article 14 of Regulation (EC) No 765/2008 shall publish and communicate the outcome of the peer evaluation of a national accreditation body to the Commission, the national authorities responsible for the national accreditation bodies in the Member States, and the competent authority of Member States or the focal point referred to in Article 69(2).\n\n4. Without prejudice to paragraph 1, where a national accreditation body has successfully undergone a peer evaluation organised by the body recognised under Article 14 of Regulation (EC) No 765/2008 prior to the entry into force of this Regulation, the national accreditation body shall be exempted from undergoing a new peer evaluation following the entry into force of this Regulation if it can demonstrate conformity with this Regulation.\n\nTo that end, the national accreditation body concerned shall submit a request and the necessary documentation to the body recognised under Article 14 of Regulation (EC) No 765/2008.\n\nThe body recognised under Article 14 of Regulation (EC) No 765/2008 shall decide whether the conditions for granting an exemption have been met.\n\nThe exemption shall apply for a period not exceeding three years from the date of notification of the decision to the national accreditation body.\n\n5. The national authority entrusted, pursuant to Article 54(2), with the tasks related to the certification of verifiers that are natural persons, pursuant to this Regulation shall meet a level of credibility equivalent to national accreditation bodies that have successfully undergone peer evaluation.\n\nTo that end, the Member State concerned shall, immediately following its decisions authorising the national authority to perform certification, provide the Commission and the other Member States with all relevant documentary evidence. No national authority shall certify verifiers for the purposes of this Regulation before the Member State concerned provides that documentary evidence.\n\nThe Member State concerned shall periodically review the functioning of the national authority with a view to ensure that it continues to meet the aforementioned level of credibility and inform the Commission thereof.",
+      "text_sha256": "e581225f915e93cfb4df25eb9c6c600c70e97d82ff51c3d9ecf883c7bb2a395c",
+      "md_span": {
+        "start": 94298,
+        "end": 97464
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_65",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 65\n\n1. Member States shall monitor their national accreditation bodies at regular intervals in order to ensure that they fulfil the requirements of this Regulation on a continuing basis, taking into account the results of the peer evaluation carried out in accordance with Article 64.\n\n2. Where a national accreditation body does not meet the requirements or fails to fulfil its obligations, as laid down in this Regulation, the Member State concerned shall take appropriate corrective action or shall ensure that such corrective action is taken, and inform the Commission thereof.",
+      "text_sha256": "a7bdad35468c534e10de46ddda16509f81e1c46da833a20a02a8804905c50315",
+      "md_span": {
+        "start": 97499,
+        "end": 98088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_66",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 66\n\n1. Member States shall recognise the equivalence of the services delivered by those national accreditation bodies that have successfully undergone a peer evaluation. Member States shall accept the accreditation certificates of verifiers accredited by those national accreditation bodies and respect the right of the verifiers to carry out verification for their scope of accreditation.\n\n2. Where a national accreditation body has not undergone the complete peer evaluation process before 31 December 2014, Member States shall accept the accreditation certificates of verifiers accredited by that national accreditation body provided the body recognised under Article 14 of Regulation (EC) No 765/2008 has started a peer evaluation for that national accreditation body and it has not identified any non-compliance of the national accreditation body with this Regulation.\n\n3. Where the certification of verifiers is carried out by a national authority referred to in Article 54(2), Member States shall accept the certificate issued by such authority and respect the right of certified verifiers to carry out verification for their scope of certification.",
+      "text_sha256": "9d32211293feb36e7c9d04ecb6af1785afdd70901c34083694e41b6143f2f076",
+      "md_span": {
+        "start": 98123,
+        "end": 99287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_67",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 67\n\nWhere a Member State has established, in the course of an inspection carried out in accordance with Article 31(4) of Directive 2006/123/EC, that a verifier is not complying with this Regulation, the competent authority or national accreditation body of that Member State shall inform the national accreditation body that has accredited the verifier.\n\nThe national accreditation body that has accredited the verifier shall consider the communication of that information as a complaint within the meaning of Article 61 of this Regulation and shall take appropriate action and respond to the competent authority or the national accreditation body in accordance with the second subparagraph of Article 72(2) of this Regulation.",
+      "text_sha256": "16fa600c7acd640f125ca473112ea053d2d005568dfcca65760c548e8b11cdbf",
+      "md_span": {
+        "start": 99322,
+        "end": 100057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_68",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 68\n\n1. Member States may require verifiers to use electronic templates or specific file formats for verification reports in accordance with Article 74(1) of Regulation (EU) No 601/2012.\n\n2. Standardised electronic templates or file format specifications may be made available for the purpose of submitting a verification report and for further types of communication between the operator, aircraft operator, verifier, competent authority and national accreditation body in accordance with Article 74(2) of Regulation (EU) No 601/2012.",
+      "text_sha256": "f2921f8873b4ff79cc8f36e074333b454b3ec7adb8950170930c413ee41f96b0",
+      "md_span": {
+        "start": 100092,
+        "end": 100634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_69",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 69\n\n1. The Member State shall establish an effective exchange of appropriate information and effective cooperation between their national accreditation body or, where applicable, the national authority entrusted with the certification of verifiers, and the competent authority.\n\n2. Where more than one competent authority is designated pursuant to Article 18 of Directive 2003/87/EC in a Member State, the Member State shall authorise one of those competent authorities as the focal point for the exchange of information, for coordinating the cooperation referred to in paragraph 1, and for the activities referred to in this Chapter.",
+      "text_sha256": "f860d069bae2715c7beed0ef74cdda462022bf0f41aa9404f0837eb30c13bcc7",
+      "md_span": {
+        "start": 100669,
+        "end": 101311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_70",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 70\n\n1. By 31 December of each year, the national accreditation body shall make available an accreditation work programme to the competent authority of each Member State containing the list of verifiers accredited by that national accreditation body and which have notified it pursuant to Article 76 that they intend to carry out verifications in those Member States. The accreditation work programme shall at least contain the following information in relation to each verifier:\n\n| (a) | the anticipated time and place of the verification; |\n| --- | --- |\n\n| (b) | information on activities that the national accreditation body has planned for that verifier, in particular surveillance and reassessment activities; |\n| --- | --- |\n\n| (c) | dates of anticipated witnessing audits to be performed by the national accreditation body to assess the verifier including the address and contact details of operators or aircraft operators that will be visited during the witness audit; |\n| --- | --- |\n\n| (d) | information on whether the national accreditation body has requested the national accreditation body from the Member State in which the verifier is performing the verification, to carry out surveillance activities. |\n| --- | --- |\n\n2. Following the submission of the accreditation work programme in accordance with paragraph 1, the competent authority shall provide the national accreditation body with any relevant information, including any relevant national legislation or guidelines.\n\n3. By 1 June of each year, the national accreditation body shall make available a management report to the competent authority. The management report shall at least contain the following information in relation to each verifier that has been accredited by that national accreditation body:\n\n| (a) | accreditation details of verifiers that were newly accredited by that national accreditation body, including the scope of accreditation for these verifiers; |\n| --- | --- |\n\n| (b) | any changes to the scope of accreditation for these verifiers; |\n| --- | --- |\n\n| (c) | summarised results of surveillance and reassessment activities carried out by the national accreditation body; |\n| --- | --- |\n\n| (d) | summarised results of extraordinary assessments that have taken place, including reasons for initiating such extraordinary assessments; |\n| --- | --- |\n\n| (e) | any complaints filed against the verifier since the last management report and the actions taken by the national accreditation body. |\n| --- | --- |",
+      "text_sha256": "aa299b0761d14aa90bc0e3dcdfc0a0b80e0a9db730ba51ba9457166d0ebbec56",
+      "md_span": {
+        "start": 101346,
+        "end": 103859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_71",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 71\n\nWhere the national accreditation body has imposed administrative measures on the verifier pursuant to Article 53 or where a suspension of the accreditation has been terminated or a decision on appeal has reversed the decision of a national accreditation body to impose administrative measures referred to in Article 53, the national accreditation body shall inform the following parties:\n\n| (a) | the competent authority of the Member State where the verifier is accredited; |\n| --- | --- |\n\n| (b) | the competent authority and the national accreditation body of each Member State where the verifier is carrying out verifications. |\n| --- | --- |",
+      "text_sha256": "db99ff0aff2d7559070e2a10638ba9cdb25c82d67a68a81fb7f28e438cb5c45e",
+      "md_span": {
+        "start": 103894,
+        "end": 104552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_72",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 72\n\n1. The competent authority of the Member State where the verifier is carrying out the verification shall annually communicate to the national accreditation body which has accredited that verifier at least the following:\n\n| (a) | relevant results from checking the operator’s and aircraft operator’s report and the verification reports, in particular of any identified non-compliance of that verifier with this Regulation; |\n| --- | --- |\n\n| (b) | the results from the inspection of the operator or aircraft operator where those results are relevant for the national accreditation body concerning the verifier’s accreditation and surveillance or where those results include any identified non-compliance of that verifier with this Regulation; |\n| --- | --- |\n\n| (c) | results from the evaluation of the internal verification documentation of that verifier where the competent authority has evaluated the internal verification documentation pursuant to Article 26(3); |\n| --- | --- |\n\n| (d) | complaints received by the competent authority concerning that verifier. |\n| --- | --- |\n\n2. Where the information referred to in paragraph 1 provides evidence that the competent authority has identified non-compliance of the verifier with this Regulation, the national accreditation body shall consider the communication of that information as a complaint by the competent authority concerning that verifier within the meaning of Article 61.\n\nThe national accreditation body shall take appropriate action to address such information and respond to the competent authority within three months from the date of its receipt. The national accreditation body shall inform the competent authority in its response of the action taken by it and, where relevant, the administrative measures imposed on the verifier.",
+      "text_sha256": "3c777fd1de1a515523b41f5788e82a2223d3da92edcc0240b254ad6e4499023b",
+      "md_span": {
+        "start": 104587,
+        "end": 106397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_73",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 73\n\n1. Where the national accreditation body of the Member State in which a verifier is performing a verification has been requested, pursuant to Article 49(5), to carry out surveillance activities, that national accreditation body shall report its findings to the national accreditation body that has accredited the verifier, unless otherwise agreed between both national accreditation bodies.\n\n2. The national accreditation body that has accredited the verifier shall take the findings referred to in paragraph 1 into account when assessing whether the verifier meets the requirements of this Regulation.\n\n3. Where the findings referred to in paragraph 1 show evidence that the verifier is not complying with this Regulation, the national accreditation body that has accredited the verifier shall take appropriate action pursuant to this Regulation and shall inform the national accreditation body that has carried out surveillance activities on:\n\n| (a) | what action has been taken by the national accreditation body that has accredited the verifier; |\n| --- | --- |\n\n| (b) | where appropriate, how the findings were resolved by the verifier; |\n| --- | --- |\n\n| (c) | where relevant, what administrative measures have been imposed on the verifier. |\n| --- | --- |",
+      "text_sha256": "bcbe7dd769ffe5c2c65715bf019cdc58261239dd44db98bdb208b0fd3f0c98aa",
+      "md_span": {
+        "start": 106432,
+        "end": 107706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_74",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 74\n\nWhere a verifier has been granted accreditation by a national accreditation body in a Member State other than the Member State in which the verifier is established, the accreditation work programme and the management report referred to in Article 70, as well as the information referred to in Article 71, shall also be provided to the competent authority of the Member State in which the verifier is established.",
+      "text_sha256": "b07b046745088e916a0395dc6b74b8c2dfb2f96cbf6d523664afbbfbd8299fd4",
+      "md_span": {
+        "start": 107741,
+        "end": 108165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_75",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 75\n\n1. National accreditation bodies, or where applicable, national authorities referred to in Article 54(2), shall set up and manage a database and allow access to that database to other national accreditation bodies, national authorities, verifiers, operators, aircraft operators and competent authorities.\n\nThe body recognised under Article 14 of Regulation (EC) No 765/2008 shall facilitate and harmonise access to the databases with a view to enable efficient and cost-effective communication between national accreditation bodies, national authorities, verifiers, operators, aircraft operators and competent authorities, and may reconcile those databases into a single and centralised database.\n\n2. The database referred to in paragraph 1 shall contain at least the following information:\n\n| (a) | name and address of each verifier accredited by that national accreditation body; |\n| --- | --- |\n\n| (b) | the Member States in which the verifier is carrying out verification; |\n| --- | --- |\n\n| (c) | each verifier’s scope of accreditation; |\n| --- | --- |\n\n| (d) | the date on which the accreditation was granted and the due expiry date of the accreditation; |\n| --- | --- |\n\n| (e) | any information on administrative measures that have been imposed on the verifier. |\n| --- | --- |\n\nThe information shall be publicly available.",
+      "text_sha256": "116bd36fb76a147c82dac4281b0cb2380814a3a160003c602ce4df466936591c",
+      "md_span": {
+        "start": 108200,
+        "end": 109542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_76",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 76\n\n1. For the purposes of enabling the national accreditation body to draft the accreditation work programme and the management report referred to in Article 70, a verifier shall, by 15 November of each year, send the following information to the national accreditation body that has accredited that verifier:\n\n| (a) | the planned time and place of the verifications that the verifier is scheduled to perform; |\n| --- | --- |\n\n| (b) | the address and contact details of the operators or aircraft operators whose emissions or tonne-kilometre reports are subject to its verification. |\n| --- | --- |\n\n2. Where changes occur in the information referred to in paragraph 1, the verifier shall notify those changes to the accreditation body within a timeframe agreed with that national accreditation body.",
+      "text_sha256": "b74372b5b330329bbdb6480edcce26c2918d71d9c89b84c2a545c7f7830f62b1",
+      "md_span": {
+        "start": 109577,
+        "end": 110385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_77",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 77\n\nEmissions and, where applicable, activity data occurring prior to 1 January 2013 shall be verified pursuant to the requirements set out in Decision 2007/589/EC (11).",
+      "text_sha256": "ff18f4b42536fc430511fad5a4d95f8d9af7f315471ec8de5396c62788418002",
+      "md_span": {
+        "start": 110420,
+        "end": 110597
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_2012181EN.01000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "eu-eurlex:32012r0600:2012-06-21--413b75d5281b3c95708a98a1f93d74791434b9432dc328ed79735928f2aa67b2#art_78",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 78\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2013.",
+      "text_sha256": "468ef853835ffb04acece97f75273f8bf66b68cdd0fdf6415a46245bf834f087",
+      "md_span": {
+        "start": 110632,
+        "end": 110821
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

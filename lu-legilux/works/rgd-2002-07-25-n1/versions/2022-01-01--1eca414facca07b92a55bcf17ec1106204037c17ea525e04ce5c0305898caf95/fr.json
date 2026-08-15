@@ -1,0 +1,167 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 25 juillet 2002 portant exécution de l’article 111bis, alinéa 1er de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.",
+  "valid_from": "2022-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2002-07-25-n1/versions/2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95/fr.xml",
+    "sha256": "6d7d586074d90cffa803abe0d1114aa14a54c5987390450e8d2a3533189c77c3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_1er/20220101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "1. loi modifiée du 4 décembre 1967\n2. Par échéance du contrat de prévoyance-vieillesse on entend la fin de la période de souscription, c'est-à-dire le moment à partir duquel les prestations deviennent payables.\n3. loi modifiée du 5 avril 1993\n4. er loi modifiée du 7 décembre 2015 même loi er même loi",
+      "text_sha256": "b2f9929d68b3199feb1e25ae98820d6b17416af64c3912e22a591e74cc761cc4",
+      "md_span": {
+        "start": 775,
+        "end": 1076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_2/20220101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Produits admis",
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "1. Sont admis comme produits au sens de l'article 111bis de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu, les contrats de prévoyance-vieillesse qui prévoient l'investissement dans des parts capitalisantes de un ou de plusieurs organismes de placement collectif agréés dans l'Union Européenne. Les compartiments d'un organisme de placement collectif (fonds d'investissement) sont assimilés à des organismes de placement collectif distincts.\n2. Sont admis comme produits au sens de l’article 111*bis* de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les contrats de prévoyance-vieillesse fixant comme garantie à l’échéance du contrat un capital constitutif résultant de la capitalisation de la partie épargne des primes au taux d’intérêt admis suivant l’article 72, paragraphe 4 de la loi modifiée du 8 décembre 1994 relative : − aux comptes annuels et comptes consolidés des entreprises d’assurances et de réassurances de droit luxembourgeois − aux obligations en matière d’établissement et de publicité des documents comptables des succursales d’entreprises d’assurances de droit étranger. Sont également admis comme produits au sens de l’article 111*bis* de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les contrats de prévoyance-vieillesse liés à un ou plusieurs fonds internes ou externes à l’entreprise d’assurances, pour lesquels aucune garantie n’est accordée au souscripteur à l’échéance du contrat, ou une combinaison de ces produits avec ceux visés à la phrase précédente.\n3. Le contrat ne peut pas prévoir d'autres garanties de risque que celles qui couvrent la prévoyance-vieillesse. Néanmoins, il peut être combiné avec d'autres garanties revêtant un caractère de prévoyance. Dans ce cas, l'établissement de crédit ou l'entreprise d'assurances doit relever distinctement, dans l'attestation visée à l'article 4 du présent règlement grand-ducal, les versements effectués au titre de la seule prévoyance-vieillesse et ceux effectués au titre des autres risques de prévoyance.",
+      "text_sha256": "325d07b57ee6981fe6c769ab8f55d0ea1d39592f7a1aa6a5b0a7d48244dbc7a4",
+      "md_span": {
+        "start": 1126,
+        "end": 3181
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1994/12/08/n2/jo",
+          "text": "loi modifiée du 8 décembre 1994"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_3/20220101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "La politique d’investissement de chaque support - organisme de placement collectif ou fonds, visés à l’article 2, lettres a) et b), deuxième paragraphe - doit être conforme au Chapitre VII de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM).\n\nDe manière générale, chaque prestataire d’un contrat de prévoyance-vieillesse est obligé d’offrir au souscripteur, en option, au moins un support qui investit exclusivement dans le marché monétaire en euro.",
+      "text_sha256": "028661be3fd918f6019e3428efb6c79da0bd68d8e19d63f387f3f9009f3584c5",
+      "md_span": {
+        "start": 3216,
+        "end": 3865
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2009/65/jo",
+          "text": "directive 2009/65/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_4/20020804",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Information",
+      "path": [],
+      "article_valid_from": "2002-08-04",
+      "text_md": "Le contrat de prévoyance-vieillesse doit prévoir la remise au souscripteur d'un document attestant le respect des conditions prévues à l'article 111bis de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu et au présent règlement grand-ducal et mentionnant:\n\n- la date d'effet du contrat;\n- le montant des versements effectués au titre de l'année d'imposition;\n- dans un contrat à rendement garanti, le capital garanti à l’échéance du contrat et la valeur actuelle des droits à la fin de l’année d’imposition, et pour les autres contrats, le montant de l’épargne accumulée à la fin de l’année d’imposition.",
+      "text_sha256": "21f38e8195f41bb92bd30b93ad0fb3dbc864cac1b0019403ebc06132194f6153",
+      "md_span": {
+        "start": 3912,
+        "end": 4535
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_5/20220101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Multiplicité des contrats",
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "Le contribuable peut disposer de plusieurs contrats de prévoyance-vieillesse. Il peut à tout moment arrêter les versements sur un contrat existant, voire souscrire un nouveau contrat auprès du même prestataire ou auprès d'un autre prestataire.\n\nToutefois, l'épargne accumulée dans un contrat ne peut pas être transférée dans un autre contrat. Les conditions et limites prévues à l'article 111bis de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu et au présent règlement grand-ducal s'appliquent individuellement à chaque contrat existant.\n\nL’ensemble des versements de prévoyance vieillesse effectués par le contribuable au titre d’une année d’imposition, indépendamment du nombre de contrats qui ont fait l’objet de ces versements, est déductible à concurrence du plafond de déduction fiscale déterminé à l’article 111*bis*, alinéa 7 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.",
+      "text_sha256": "58d7b8c0e4542e2ce6cc3a5ed152eb93fe9ff0034fb8ed2ba817e5b1603ea6e4",
+      "md_span": {
+        "start": 4596,
+        "end": 5523
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_6/20020804",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Avance, mise en gage",
+      "path": [],
+      "article_valid_from": "2002-08-04",
+      "text_md": "Le contrat de prévoyance-vieillesse ne peut pas prévoir la possibilité de se faire octroyer une avance ou un prêt à valoir sur le contrat.\n\nDe même, le contrat ne peut pas faire l'objet d'une mise en garantie, d'une mise en gage ou d'une opération similaire.",
+      "text_sha256": "d50e2351006eed6fcf419d9b0abcd94cd62137dbc1d3d7eeead5f311dedc1529",
+      "md_span": {
+        "start": 5579,
+        "end": 5837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2002-07-25-n1:2022-01-01--1eca414facca07b92a55bcf17ec1106204037c17ea525e04ce5c0305898caf95#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/art_7/20020804",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Mise en vigueur",
+      "path": [],
+      "article_valid_from": "2002-08-04",
+      "text_md": "Le présent règlement est applicable à partir de l'année d'imposition 2002.",
+      "text_sha256": "921145839c9f206a90b05508a2a72747678137d01550653b5da23b8817804fe9",
+      "md_span": {
+        "start": 5888,
+        "end": 5962
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

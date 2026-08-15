@@ -1,0 +1,2189 @@
+---
+lex_id: 'eu-eurlex:32009l0081:2012-01-01--c952ae5f8135f1c44d54419f693fad25f3634926656558efd5daf629fde332ad'
+title: 'Directive 2009/81/EC'
+valid_from: '2012-01-01'
+valid_to: '2013-06-30'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0081-20120101'
+source_sha256: '5554b49dd08c34e4a9928a3e6574fa53d477410e201bc867629b4cd808c6f96f'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## TITLE I
+
+### DEFINITIONS, SCOPE AND GENERAL PRINCIPLES
+
+<a id="art_1"></a>
+
+### Article 1 — Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1. ‘Common Procurement Vocabulary (CPV)’ means the reference nomenclature applicable to contracts awarded by contracting authorities/entities, as adopted by Regulation (EC) No 2195/2002;
+
+2. ‘Contracts’ means contracts for pecuniary interest concluded in writing as referred to in Article 1(2)(a) of Directive 2004/17/EC and Article 1(2)(a) of Directive 2004/18/EC;
+
+3. ‘Works contracts’ means contracts having as their object either the execution, or both the design and execution, of works related to one of the activities mentioned in Division 45 of the CPV, or a work, or the realisation, by whatever means, of a work corresponding to the requirements specified by the contracting authority/entity. A ‘work’ means the outcome of building or civil engineering works taken as a whole that is sufficient of itself to fulfil an economic or technical function;
+
+4. ‘Supply contracts’ means contracts other than works contracts having as their object the purchase, lease, rental or hire-purchase, with or without the option to buy, of products.
+
+A contract having as its object the supply of products and which also covers, as an incidental matter, siting and installation operations shall be considered to be a ‘supply contract’;
+
+5. ‘Service contracts’ means contracts other than works or supply contracts having as their object the provision of services.
+
+A contract having as its object both products and services shall be considered to be a ‘service contract’ if the value of the services in question exceeds that of the products covered by the contract.
+
+A contract having as its object services and including activities mentioned in Division 45 of the CPV that are only incidental to the principal object of the contract shall be considered to be a service contract;
+
+6. ‘Military equipment’ means equipment specifically designed or adapted for military purposes and intended for use as an arm, munitions or war material;
+
+7. ‘Sensitive equipment’, ‘sensitive works’ and ‘sensitive services’ means equipment, works and services for security purposes, involving, requiring and/or containing classified information;
+
+8. ‘Classified information’ means any information or material, regardless of the form, nature or mode of transmission thereof, to which a certain level of security classification or protection has been attributed, and which, in the interests of national security and in accordance with the laws, regulations or administrative provisions in force in the Member State concerned, requires protection against any misappropriation, destruction, removal, disclosure, loss or access by any unauthorised individual, or any other type of compromise;
+
+9. ‘Government’ means the State, regional or local government of a Member State or third country;
+
+10. ‘Crisis’ means any situation in a Member State or third country in which a harmful event has occurred which clearly exceeds the dimensions of harmful events in everyday life and which substantially endangers or restricts the life and health of people, or has a substantial impact on property values, or requires measures in order to supply the population with necessities; a crisis shall also be deemed to have arisen if the occurrence of such a harmful event is deemed to be impending; armed conflicts and wars shall be regarded as crises for the purposes of this Directive;
+
+11. ‘Framework agreement’ means an agreement between one or more contracting authorities/entities and one or more economic operators, the purpose of which is to establish the terms governing contracts to be awarded during a given period, in particular with regard to price and, where appropriate, the quantity envisaged;
+
+12. ‘Electronic auction’ means a repetitive process involving an electronic device for the presentation of new prices, revised downwards, and/or new values concerning certain elements of tenders, which occurs after an initial full evaluation of the tenders, enabling them to be ranked using automatic evaluation methods.
+
+Consequently, certain service contracts and certain works contracts having as their subject-matter intellectual performances, such as the design of works, may not be the object of electronic auctions;
+
+13. ‘Contractor’, ‘supplier’ and ‘service provider’ means any natural or legal person or public entity or consortium of such persons and/or bodies which offers on the market to execute works, supply products and provide services, respectively;
+
+14. ‘Economic operator’ means a contractor, supplier or service provider. It is used merely in the interests of simplification;
+
+15. ‘Candidate’ means an economic operator which has sought an invitation to take part in a restricted or negotiated procedure or a competitive dialogue;
+
+16. ‘Tenderer’ means an economic operator which has submitted a tender under a restricted or negotiated procedure or a competitive dialogue;
+
+17. ‘Contracting authorities/entities’ means contracting authorities as referred to in Article 1(9) of Directive 2004/18/EC and contracting entities as referred to in Article 2 of Directive 2004/17/EC;
+
+18. ‘Central purchasing body’ means a contracting authority/entity as referred to in Article 1(9) of Directive 2004/18/EC and Article 2(1)(a) of Directive 2004/17/EC, or a European public body, which:
+
+— acquires supplies and/or services intended for contracting authorities/entities, or,
+
+— awards contracts or concludes framework agreements for works, supplies or services intended for contracting authorities/entities,
+
+19. ‘Restricted procedures’ means procedures in which any economic operator may ask to participate and whereby only those economic operators invited by the contracting authority/entity may submit a tender;
+
+20. ‘Negotiated procedures’ means procedures in which the contracting authority/entity invites the economic operators of its choice and negotiates the terms of the contract with one or more of these;
+
+21. ‘Competitive dialogue’ means a procedure in which any economic operator may ask to participate and whereby the contracting authority/entity conducts a dialogue with the candidates admitted to that procedure with the aim of developing one or more suitable alternatives capable of meeting its requirements, and on the basis of which the candidates chosen are invited to tender.
+
+For the purposes of recourse to the procedure referred to in the first subparagraph, a contract is considered to be ‘particularly complex’ where the contracting authority/entity is not objectively able:
+
+— to define the technical means in accordance with Article 18(3)(b), (c) or (d), capable of satisfying its needs or objectives, and/or,
+
+— to specify the legal and/or financial make-up of a project,
+
+22. ‘Subcontract’ means a contract for pecuniary interest concluded in writing between a successful tenderer for a contract and one or more economic operators for the purposes of carrying out that contract and having as its object works, supplies of products or the performance of services;
+
+23. ‘Related undertaking’ means any undertaking over which the successful tenderer can exert a dominant influence, whether directly or indirectly, or any undertaking which can exert a dominant influence on the successful tenderer or which, as the successful tenderer, is subject to the dominant influence of another undertaking as a result of ownership, financial participation or the rules which govern it. A dominant influence on the part of the undertaking is presumed when, directly or indirectly in relation to another undertaking, it:
+
+— holds a majority of the undertaking’s subscribed capital,
+
+— controls a majority of the votes attached to the shares issued by the undertaking, or,
+
+— is entitled to appoint more than half of the undertaking’s administrative, management or supervisory bodies,
+
+24. ‘Written’ or ‘in writing’ means any expression consisting of words or figures which can be read, reproduced and subsequently communicated. It may include information which is transmitted and stored by electronic means;
+
+25. ‘Electronic means’ means any means using electronic equipment for the processing (including digital compression) and storage of data which is transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means;
+
+26. ‘Life cycle’ means all the possible successive stages of a product, i.e. research and development, industrial development, production, repair, modernisation, modification, maintenance, logistics, training, testing, withdrawal and disposal;
+
+27. ‘Research and development’ means all activities comprising fundamental research, applied research and experimental development, where the latter may include the realisation of technological demonstrators, i.e., devices that demonstrate the performance of a new concept or a new technology in a relevant or representative environment;
+
+28. ‘Civil purchases’ means contracts not subject to Article 2 covering the procurement of non-military products, works or services for logistical purposes and concluded in accordance with the conditions specified in Article 17.
+
+<a id="art_2"></a>
+
+### Article 2 — Scope
+
+Subject to Articles 30, 45, 46, 55 and 296 of the Treaty, this Directive shall apply to contracts awarded in the fields of defence and security for:
+
+(a) the supply of military equipment, including any parts, components and/or subassemblies thereof;
+
+(b) the supply of sensitive equipment, including any parts, components and/or subassemblies thereof;
+
+(c) works, supplies and services directly related to the equipment referred to in points (a) and (b) for any and all elements of its life cycle;
+
+(d) works and services for specifically military purposes or sensitive works and sensitive services.
+
+<a id="art_3"></a>
+
+### Article 3 — Mixed contracts
+
+1. A contract having as its object works, supplies or services falling within the scope of this Directive and partly within the scope of Directive 2004/17/EC or Directive 2004/18/EC shall be awarded in accordance with this Directive, provided that the award of a single contract is justified for objective reasons.
+
+2. The award of a contract having as its object works, supplies or services falling partly within the scope of this Directive, with the other part not being subject to either this Directive, or to Directive 2004/17/EC or Directive 2004/18/EC, shall not be subject to this Directive, provided that the award of a single contract is justified for objective reasons.
+
+3. The decision to award a single contract may not, however, be taken for the purpose of excluding contracts from the application of this Directive or of Directive 2004/17/EC or Directive 2004/18/EC.
+
+<a id="art_4"></a>
+
+### Article 4 — Procurement principles
+
+Contracting authorities/entities shall treat economic operators equally and in a non-discriminatory manner and shall act in a transparent way.
+
+## CHAPTER I
+
+### General provisions
+
+<a id="art_5"></a>
+
+### Article 5 — Economic operators
+
+1. Candidates or tenderers which, under the law of the Member State in which they are established, are entitled to provide the relevant service, shall not be rejected solely on the ground that, under the law of the Member State in which the contract is awarded, they would be required to be either natural or legal persons.
+
+1. However, in the case of service and works contracts as well as supply contracts covering in addition services and/or siting and installation operations, legal persons may be required to indicate in the tender or the request to participate the names and relevant professional qualifications of the staff to be responsible for the performance of the contract in question.
+
+2. Groups of economic operators may submit tenders or put themselves forward as candidates. In order to submit a tender or a request to participate, these groups may not be required by the contracting authorities/entities to assume a specific legal form; however, the group selected may be required to do so when it has been awarded the contract, to the extent that this change is necessary for the satisfactory performance of the contract.
+
+<a id="art_6"></a>
+
+### Article 6 — Confidentiality obligations of contracting authorities/entities
+
+Without prejudice to the provisions of this Directive, in particular those concerning the obligations relating to the advertising of awarded contracts and to the information to candidates and tenderers as set out in Article 30(3) and Article 35, and in accordance with the national law to which the contracting authority/entity is subject, in particular legislation regarding access to information, the contracting authority/entity, subject to contractually acquired rights, shall not disclose information forwarded to it by economic operators which such operators have designated as confidential; such information includes, in particular, technical or trade secrets and the confidential aspects of tenders.
+
+<a id="art_7"></a>
+
+### Article 7 — Protection of classified information
+
+Contracting authorities/entities may impose on economic operators requirements aimed at protecting the classified information they communicate throughout the tendering and contracting procedure. They may also request these economic operators to ensure compliance with such requirements by their subcontractors.
+
+## Section 1
+
+### Thresholds
+
+<a id="art_8"></a>
+
+### Article 8 — Threshold amounts for contracts
+
+This Directive shall apply to contracts which have a value excluding value-added tax (VAT) estimated to be no less than the following thresholds:
+
+(a) ►M2 EUR 400 000** ◄ ** for supply and service contracts;
+
+(b) ►M2 EUR 5 000 000** ◄ ** for works contracts.
+
+<a id="art_9"></a>
+
+### Article 9 — Methods for calculating the estimated value of contracts and of framework agreements
+
+1. The calculation of the estimated value of a contract shall be based on the total amount payable, net of VAT, as estimated by the contracting authority/entity. This calculation shall take account of the estimated total amount, including any form of option and any renewals of the contract.
+
+1. Where the contracting authority/entity provides for prizes or payments to candidates or tenderers, it shall take them into account when calculating the estimated value of the contract.
+
+2. This estimate must be valid at the moment at which the contract notice is sent, as provided for in Article 32(2), or, in cases where such notice is not required, at the moment at which the contracting authority/entity commences the contract award procedure.
+
+3. No works project or proposed purchase of a certain quantity of supplies and/or services may be partitioned to create essentially identical separate partial contracts or otherwise subdivided to prevent its coming within the scope of this Directive.
+
+4. With regard to works contracts, the calculation of the estimated value shall take account of both the cost of the works and the total estimated value of the supplies necessary for executing the works and placed at the contractor’s disposal by the contracting authorities/entities.
+
+(a) Where a proposed work or purchase of services may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots.
+
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 8, this Directive shall apply to the awarding of each lot.
+
+However, the contracting authorities/entities may waive such application in respect of lots the estimated value of which, net of VAT, is less than EUR 80 000 for services or EUR 1 000 000 for works, provided that the aggregate value of those lots does not exceed 20 % of the aggregate value of the lots as a whole;
+
+(b) Where a proposal for the acquisition of similar supplies may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots when applying Article 8(a) and (b).
+
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 8, this Directive shall apply to the awarding of each lot.
+
+However, the contracting authorities/entities may waive such application in respect of lots the estimated value of which, net of VAT, is less than EUR 80 000, provided that the aggregate cost of those lots does not exceed 20 % of the aggregate value of the lots as a whole.
+
+6. With regard to supply contracts relating to the leasing, hire, rental or hire-purchase of products, the value to be taken as a basis for calculating the estimated contract value shall be as follows:
+
+(a) in the case of fixed-term contracts, where that term is less than or equal to 12 months, the total estimated value for the term of the contract or, where the term of the contract is greater than 12 months, the total value, including the estimated residual value;
+
+(b) in the case of contracts without a fixed term or the term of which cannot be defined, the monthly value multiplied by 48.
+
+7. In the case of supply or service contracts which are regular in nature or which are intended to be renewed within a given period, the calculation of the estimated contract value shall be based on the following:
+
+(a) either the total actual value of the successive contracts of the same type awarded during the preceding 12 months or financial year, adjusted, if possible, to take account of the changes in quantity or value which could occur in the course of the 12 months following the initial contract; or
+
+(b) the total estimated value of the successive contracts awarded during the 12 months following the first delivery, or during the financial year if that is longer than 12 months.
+
+7. The choice of method used to calculate the estimated value of a contract may not be made with the intention of excluding it from the scope of this Directive.
+
+8. With regard to service contracts, the value to be taken as a basis for calculating the estimated contract value shall, where appropriate, be the following:
+
+(a) for the following services:
+
+(i) insurance services: the premium payable and other forms of remuneration;
+
+(ii) design contracts: fees, commission payable and other forms of remuneration;
+
+(b) for service contracts which do not indicate a total price:
+
+(i) in the case of fixed-term contracts, where that term is less than or equal to 48 months: the total value for their full term;
+
+(ii) in the case of contracts without a fixed term or with a term greater than 48 months: the monthly value multiplied by 48.
+
+9. With regard to framework agreements, the estimated value to be taken into consideration shall be the maximum estimated value, net of VAT, of all the contracts envisaged for the total term of the agreement.
+
+## Section 2
+
+### Central purchasing bodies
+
+<a id="art_10"></a>
+
+### Article 10 — Contracts and framework agreements awarded by central purchasing bodies
+
+1. Member States may stipulate that contracting authorities/entities may purchase works, supplies and/or services from or through a central purchasing body.
+
+2. Contracting authorities/entities which purchase works, supplies and/or services from or through a central purchasing body in the cases set out in Article 1(18) shall be deemed to have complied with this Directive insofar as:
+
+— the central purchasing body has complied with it, or,
+
+— when the central purchasing body is not a contracting authority/entity, the contract award rules applied by it are compliant with all the provisions of this Directive and the contracts awarded can be subject to efficient remedies comparable to those provided for in Title IV.
+
+## Section 3
+
+### Excluded contracts
+
+<a id="art_11"></a>
+
+### Article 11 — Use of exclusions
+
+None of the rules, procedures, programmes, agreements, arrangements or contracts referred to in this section may be used for the purpose of circumventing the provisions of this Directive.
+
+<a id="art_12"></a>
+
+### Article 12 — Contracts awarded pursuant to international rules
+
+This Directive shall not apply to contracts governed by:
+
+(a) specific procedural rules pursuant to an international agreement or arrangement concluded between one or more Member States and one or more third countries;
+
+(b) specific procedural rules pursuant to a concluded international agreement or arrangement relating to the stationing of troops and concerning the undertakings of a Member State or a third country;
+
+(c) specific procedural rules of an international organisation purchasing for its purposes, or to contracts which must be awarded by a Member State in accordance with those rules.
+
+<a id="art_13"></a>
+
+### Article 13 — Specific exclusions
+
+This Directive shall not apply to the following:
+
+(a) contracts for which the application of the rules of this Directive would oblige a Member State to supply information the disclosure of which it considers contrary to the essential interests of its security;
+
+(b) contracts for the purposes of intelligence activities;
+
+(c) contracts awarded in the framework of a cooperative programme based on research and development, conducted jointly by at least two Member States for the development of a new product and, where applicable, the later phases of all or part of the life-cycle of this product. Upon the conclusion of such a cooperative programme between Member States only, Member States shall indicate to the Commission the share of research and development expenditure relative to the overall cost of the programme, the cost-sharing agreement as well as the intended share of purchases per Member State, if any;
+
+(d) contracts awarded in a third country, including for civil purchases, carried out when forces are deployed outside the territory of the Union where operational needs require them to be concluded with economic operators located in the area of operations;
+
+(e) service contracts for the acquisition or rental, under whatever financial arrangements, of land, existing buildings or other immovable property, or concerning rights in respect thereof;
+
+(f) contracts awarded by a government to another government relating to:
+
+(i) the supply of military equipment or sensitive equipment,
+
+(ii) works and services directly linked to such equipment, or
+
+(iii) works and services specifically for military purposes, or sensitive works and sensitive services;
+
+(g) arbitration and conciliation services;
+
+(h) financial services, with the exception of insurance services;
+
+(i) employment contracts;
+
+(j) research and development services other than those where the benefits accrue exclusively to the contracting authority/entity for its use in the conduct of its own affairs, on condition that the service provided is wholly remunerated by the contracting authority/entity.
+
+## Section 4
+
+### Special arrangements
+
+<a id="art_14"></a>
+
+### Article 14 — Reserved contracts
+
+Member States may reserve the right to participate in contract award procedures to sheltered workshops or provide for such contracts to be performed in the context of sheltered employment programmes where most of the employees concerned are handicapped persons who, by reason of the nature or the seriousness of their disabilities, cannot carry on occupations under normal conditions.
+
+The contract notice shall make reference to this provision.
+
+## CHAPTER III
+
+### Arrangements for service contracts
+
+<a id="art_15"></a>
+
+### Article 15 — Service contracts listed in Annex I
+
+Contracts which have as their object services covered by Article 2 that are listed in Annex I shall be awarded in accordance with Articles 18 to 54.
+
+<a id="art_16"></a>
+
+### Article 16 — Service contracts listed in Annex II
+
+Contracts which have as their object services covered by Article 2 that are listed in Annex II shall be subject solely to Article 18 and Article 30(3).
+
+<a id="art_17"></a>
+
+### Article 17 — Mixed contracts including services listed in Annexes I and II
+
+Contracts which have as their object services covered by Article 2 that are listed both in Annex I and in Annex II shall be awarded in accordance with Articles 18 to 54 where the value of the services listed in Annex I is greater than the value of the services listed in Annex II. In other cases, contracts shall be awarded in accordance with Article 18 and Article 30(3).
+
+## CHAPTER IV
+
+### Specific rules governing contract documentation
+
+<a id="art_18"></a>
+
+### Article 18 — Technical specifications
+
+1. The technical specifications as defined in point 1 of Annex III shall be set out in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents).
+
+2. Technical specifications shall afford equal access for tenderers and shall not have the effect of creating unjustified obstacles to the opening up of procurement to competition.
+
+3. Without prejudice to either compulsory national technical rules (including those related to product safety) or the technical requirements to be met by the Member State under international standardisation agreements in order to guarantee the interoperability required by those agreements, and provided they are compatible with Community law, technical specifications shall be drawn up:
+
+(a) either by reference to technical specifications defined in Annex III and, in order of preference, to:
+
+— national civil standards transposing European standards,
+
+— European technical approvals,
+
+— common civil technical specifications,
+
+— national civil standards transposing international standards,
+
+— other international civil standards,
+
+— other technical reference systems established by the European standardisation bodies, or, where these do not exist, other national civil standards, national technical approvals or national technical specifications relating to the design, calculation and execution of the works and use of the products,
+
+— civil technical specifications stemming from industry and widely recognised by it, or,
+
+— the national ‘defence standards’ defined in point 3 of Annex III and defence materiel specifications similar to those standards,
+
+Every reference shall be followed by the expression ‘or equivalent’;
+
+(b) or in terms of performance or functional requirements; the latter may include environmental characteristics.
+
+However, such parameters must be sufficiently precise to allow tenderers to determine the subject-matter of the contract and to allow contracting authorities/entities to award the contract;
+
+(c) or in terms of performance or functional requirements as mentioned in point (b), with reference to the specifications mentioned in point (a) as a means of presuming conformity with such performance or functional requirements;
+
+(d) or by referring to the specifications mentioned in point (a) for certain characteristics, and by referring to the performance or functional requirements mentioned in point (b) for other characteristics.
+
+4. Where a contracting authority/entity makes use of the option of referring to the specifications mentioned in paragraph 3(a), it can not reject a tender on the grounds that the products and services tendered for do not comply with the specifications to which it has referred, once the tenderer proves in its tender to the satisfaction of the contracting authority/entity, by whatever appropriate means, that the solutions which it proposes satisfy in an equivalent manner the requirements defined by the technical specifications.
+
+4. An appropriate means might be constituted by a technical dossier from the manufacturer or a test report from a recognised body.
+
+5. Where a contracting authority/entity uses the option laid down in paragraph 3 to prescribe performance-related or functional requirements, it may not reject a tender for works, products or services which comply with a national standard transposing a European standard, with a European technical approval, a common technical specification, an international standard or a technical reference system established by a European standardisation body, if these specifications address the performance or functional requirements which it has laid down.
+
+5. In its tender, the tenderer must prove to the satisfaction of the contracting authority/entity and by any appropriate means that the work, product or service in compliance with the standard meets the performance or functional requirements of the contracting authority/entity.
+
+5. An appropriate means might be constituted by a technical dossier from the manufacturer or a test report from a recognised body.
+
+6. Where contracting authorities/entities lay down environmental characteristics in terms of performance or functional requirements as referred to in paragraph 3(b), they may use the detailed specifications, or, if necessary, parts thereof, as defined by European or (multi-) national eco-labels, or by any other eco-label, provided that:
+
+— those specifications are appropriate as a means of defining the characteristics of the supplies or services that are the object of the contract,
+
+— the requirements for the label are drawn up on the basis of scientific information,
+
+— the eco-labels are adopted using a procedure in which all stakeholders, such as government bodies, consumers, manufacturers, distributors and environmental organisations, can participate, and,
+
+— they are accessible to all interested parties,
+
+6. Contracting authorities/entities may indicate that the products and services bearing the eco-label are presumed to comply with the technical specifications laid down in the contract documents; they must accept any other appropriate means of proof, such as a technical dossier from the manufacturer or a test report from a recognised body.
+
+7. ‘Recognised bodies’, within the meaning of this Article, are test and calibration laboratories, and certification and inspection bodies which comply with applicable European standards.
+
+7. Contracting authorities/entities shall accept certificates from recognised bodies established in other Member States.
+
+8. Unless justified by the subject-matter of the contract, technical specifications shall not refer to a specific make or source, or a particular process, or to trade marks, patents, types or a specific origin or production with the effect of favouring or eliminating certain undertakings or certain products. Such reference shall be permitted on an exceptional basis, where a sufficiently precise and intelligible description of the subject-matter of the contract pursuant to paragraphs 3 and 4 is not possible; such reference shall be accompanied by the words ‘or equivalent’.
+
+<a id="art_19"></a>
+
+### Article 19 — Variants
+
+1. Where the criterion for award is that of the most economically advantageous tender, contracting authorities/entities may authorise tenderers to submit variants.
+
+2. Contracting authorities/entities shall indicate in the contract notice whether or not they authorise variants. Variants shall not be authorised without this indication.
+
+3. Contracting authorities/entities authorising variants shall state in the tender specifications the minimum requirements to be met by the variants and any specific requirements for their presentation.
+
+3. Only variants meeting the minimum requirements laid down by the contracting authorities/entities shall be taken into consideration.
+
+4. In procedures for awarding supply or service contracts, contracting authorities/entities which have authorised variants may not reject a variant on the sole ground that it would, if successful, lead either to a service contract rather than a supply contract, or to a supply contract rather than a service contract.
+
+<a id="art_20"></a>
+
+### Article 20 — Conditions for performance of contracts
+
+Contracting authorities/entities may lay down special conditions relating to the performance of a contract, provided that these are compatible with Community law and are indicated in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents). These conditions may, in particular, concern subcontracting or seek to ensure the security of classified information and the security of supply required by the contracting authority/entity, in accordance with Articles 21, 22 and 23, or take environmental or social considerations into account.
+
+<a id="art_21"></a>
+
+### Article 21 — Subcontracting
+
+1. The successful tenderer shall be free to select its subcontractors for all subcontracts that are not covered by the requirement referred to in paragraphs 3 and 4, and shall in particular not be required to discriminate against potential subcontractors on grounds of nationality.
+
+2. The contracting authority/entity may ask or may be required by a Member State to ask the tenderer:
+
+— to indicate in its tender any share of the contract it may intend to subcontract to third parties and any proposed subcontractor, as well as the subject-matter of the subcontracts for which they are proposed; and/or,
+
+— to indicate any change occurring at the level of subcontractors during the execution of the contract,
+
+3. The contracting authority/entity may oblige or may be required by a Member State to oblige the successful tenderer to apply the provisions set out in Title III to all or certain subcontracts which the successful tenderer intends to award to third parties.
+
+4. Member States may provide that the contracting authority/entity may ask or be required to ask the successful tenderer to subcontract to third parties a share of the contract. The contracting authority/entity that imposes such subcontracting shall express this minimal percentage in the form of a range of values, comprising a minimum and maximum percentage. The maximum percentage may not exceed 30 % of the value of the contract. Such a range shall be proportionate to the object and value of the contract and the nature of the industry sector involved, including the level of competition in that market and the relevant technical capabilities of the industrial base.
+
+4. Any percentage of subcontracting falling within the range of values indicated by the contracting authority/entity shall be considered to fulfil the subcontracting requirement set out in this paragraph.
+
+4. Tenderers may propose to subcontract a share of the total value which is above the range required by the contracting authority/entity.
+
+4. The contracting authority/entity shall ask tenderers to specify in their tender which part or parts of their offer they intend to subcontract to fulfil the requirement referred to in the first subparagraph.
+
+4. The contracting authority/entity may ask or may be required by a Member State to ask tenderers also to specify which part or parts of their offer they intend to subcontract beyond the required percentage, as well as the subcontractors they have already identified.
+
+4. The successful tenderer shall award subcontracts corresponding to the percentage which the contracting authority/entity requires it to subcontract in accordance with the provisions of Title III.
+
+5. In all cases, where a Member State provides that contracting authorities/entities may reject the subcontractors selected by the tenderer at the stage of the award procedure of the main contract or by the successful tenderer during the performance of the contract, such rejection may only be based on criteria applied for the selection of the tenderers for the main contract. If the contracting authority/entity rejects a subcontractor, it must produce a written justification to the tenderer or the successful tenderer, setting out why it considers that the subcontractor does not meet the criteria.
+
+6. Requirements referred to in paragraphs 2 to 5 shall be indicated in the contract notices.
+
+7. Paragraphs 1 to 5 shall be without prejudice to the question of the principal economic operator’s liability.
+
+<a id="art_22"></a>
+
+### Article 22 — Security of information
+
+When contracts involve, require and/or contain classified information, the contracting authority/entity shall specify in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents) the measures and requirements necessary to ensure the security of such information at the requisite level.
+
+To this end, the contracting authority/entity may require that the tender contain, *inter alia*, the following particulars:
+
+(a) a commitment from the tenderer and the subcontractors already identified to appropriately safeguard the confidentiality of all classified information in their possession or coming to their notice throughout the duration of the contract and after termination or conclusion of the contract, in accordance with the relevant laws, regulations and administrative provisions;
+
+(b) a commitment from the tenderer to obtain the commitment provided in point (a) from other subcontractors to which it will subcontract during the execution of the contract;
+
+(c) sufficient information on subcontractors already identified to enable the contracting authority/entity to determine that each of them possesses the capabilities required to appropriately safeguard the confidentiality of the classified information to which they have access or which they are required to produce when carrying out their subcontracting activities;
+
+(d) a commitment from the tenderer to provide the information required under point (c) on any new subcontractor before awarding a subcontract.
+
+In the absence of harmonisation at Community level of national security clearance systems, Member States may provide that the measures and requirements referred to in the second subparagraph have to comply with their national provisions on security clearance. Member States shall recognise the security clearances which they consider equivalent to those issued in accordance with their national law, notwithstanding the possibility to conduct and take into account further investigations of their own, if considered necessary.
+
+<a id="art_23"></a>
+
+### Article 23 — Security of supply
+
+The contracting authority/entity shall specify in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents) its security of supply requirements.
+
+To this end, the contracting authority/entity may require that the tender contain, *inter alia*, the following particulars:
+
+(a) certification or documentation demonstrating to the satisfaction of the contracting authority/entity that the tenderer will be able to honour its obligations regarding the export, transfer and transit of goods associated with the contract, including any supporting documentation received from the Member State(s) concerned;
+
+(b) the indication of any restriction on the contracting authority/entity regarding disclosure, transfer or use of the products and services or any result of those products and services, which would result from export control or security arrangements;
+
+(c) certification or documentation demonstrating that the organisation and location of the tenderer’s supply chain will allow it to comply with the requirements of the contracting authority/entity concerning security of supply set out in the contract documents, and a commitment to ensure that possible changes in its supply chain during the execution of the contract will not affect adversely compliance with these requirements;
+
+(d) a commitment from the tenderer to establish and/or maintain the capacity required to meet additional needs required by the contracting authority/entity as a result of a crisis, according to terms and conditions to be agreed;
+
+(e) any supporting documentation received from the tenderer’s national authorities regarding the fulfilment of additional needs required by the contracting authority/entity as a result of a crisis;
+
+(f) a commitment from the tenderer to carry out the maintenance, modernisation or adaptation of the supplies covered by the contract;
+
+(g) a commitment from the tenderer to inform the contracting authority/entity in due time of any change in its organisation, supply chain or industrial strategy that may affect its obligations to that authority/entity;
+
+(h) a commitment from the tenderer to provide the contracting authority/entity, according to terms and conditions to be agreed, with all specific means necessary for the production of spare parts, components, assemblies and special testing equipment, including technical drawings, licenses and instructions for use, in the event that it is no longer able to provide these supplies.
+
+A tenderer may not be required to obtain a commitment from a Member State that would prejudice that Member State’s freedom to apply, in accordance with relevant international or Community law, its national export, transfer or transit licensing criteria in the circumstances prevailing at the time of such a licensing decision.
+
+<a id="art_24"></a>
+
+### Article 24 — Obligations relating to taxes, environmental protection, employment protection provisions and working conditions
+
+1. A contracting authority/entity may state in the contract documents, or be obliged by a Member State so to state, the body or bodies from which a candidate or tenderer may obtain the appropriate information on the obligations relating to taxes, to environmental protection, to the employment protection provisions and to the working conditions which are in force in the Member State, region, locality or third country in which the works are to be carried out or services are to be provided and which shall be applicable to the works carried out on site or to the services provided during the performance of the contract.
+
+2. The contracting authority/entity which supplies the information referred to in paragraph 1 shall request the tenderers to indicate that they have taken account, when drawing up their tender, of the obligations relating to employment protection provisions and the working conditions which are in force in the place where the works are to be carried out or the service is to be provided.
+
+2. The first subparagraph shall be without prejudice to the application of the provisions of Article 49 concerning the examination of abnormally low tenders.
+
+## CHAPTER V
+
+### Procedures
+
+<a id="art_25"></a>
+
+### Article 25 — Procedures to be applied
+
+In awarding contracts, contracting authorities/entities shall apply the national procedures adjusted for the purposes of this Directive.
+
+Contracting authorities/entities may choose to award contracts by applying the restricted procedure or the negotiated procedure with publication of a contract notice.
+
+Under the circumstances referred to in Article 27, they may award their contracts by means of a competitive dialogue.
+
+In the specific cases and circumstances referred to expressly in Article 28, the contracting authorities/entities may apply a negotiated procedure without publication of a contract notice.
+
+<a id="art_26"></a>
+
+### Article 26 — Negotiated procedure with publication of a contract notice
+
+1. In negotiated procedures with publication of a contract notice, contracting authorities/entities shall negotiate with tenderers the tenders submitted by them in order to adapt them to the requirements they have set in the contract notice, the contract documents and supporting documents, if any, and to seek out the best tender in accordance with Article 47.
+
+2. During the negotiations, contracting authorities/entities shall ensure the equal treatment of all tenderers. In particular, they shall not provide information in a discriminatory manner which may give some tenderers an advantage over others.
+
+3. Contracting authorities/entities may provide for the negotiated procedure to take place in successive stages in order to reduce the number of tenders to be negotiated by applying the award criteria set out in the contract notice or the contract documents. The contract notice or the contract documents shall indicate whether or not this option has been used.
+
+<a id="art_27"></a>
+
+### Article 27 — Competitive dialogue
+
+1. In the case of particularly complex contracts, Member States may provide that where contracting authorities/entities consider that use of the restricted procedure or the negotiated procedure with publication of a contract notice will not allow the award of the contract, the latter may make use of the competitive dialogue in accordance with this Article.
+
+1. A contract shall be awarded on the sole basis of the award criterion for the most economically advantageous tender.
+
+2. Contracting authorities/entities shall publish a contract notice setting out their needs and requirements, which they shall define in that notice and/or in a descriptive document.
+
+3. Contracting authorities/entities shall open with the candidates selected in accordance with the relevant provisions of Articles 38 to 46, a dialogue, the aim of which shall be to identify and define the means best suited to satisfying their needs. They may discuss all aspects of the contract with the chosen candidates during this dialogue.
+
+3. During the dialogue, contracting authorities/entities shall ensure equality of treatment among all tenderers. In particular, they shall not provide information in a discriminatory manner which may give some tenderers an advantage over others.
+
+3. Contracting authorities/entities may not reveal to the other participants solutions proposed or other confidential information communicated by a candidate participating in the dialogue, without the agreement of that candidate.
+
+4. Contracting authorities/entities may provide for the procedure to take place in successive stages in order to reduce the number of solutions to be discussed during the dialogue stage by applying the award criteria set out in the contract notice or the descriptive document. The contract notice or the descriptive document shall indicate that recourse may be had to this option.
+
+5. The contracting authority/entity shall continue such dialogue until it can identify the solution or solutions, if necessary after comparing them, which are likely to meet its needs.
+
+6. Having declared that the dialogue is concluded and having so informed the participants, contracting authorities/entities shall ask them to submit their final tenders on the basis of the solution or solutions presented and specified during the dialogue. These tenders shall contain all the elements required and necessary for the performance of the project.
+
+6. These tenders may be clarified, specified and fine-tuned at the request of the contracting authority/entity. However, such clarification, specification, fine-tuning or additional information may not involve changes to the basic features of the tender or the call for tender, variations in which are likely to distort competition or have a discriminatory effect.
+
+7. Contracting authorities/entities shall assess the tenders received on the basis of the award criteria laid down in the contract notice or the descriptive document and shall choose the most economically advantageous tender in accordance with Article 47.
+
+7. At the request of the contracting authority/entity, the tenderer identified as having submitted the most economically advantageous tender may be asked to clarify aspects of the tender or confirm commitments contained in the tender, provided this does not have the effect of modifying substantial aspects of the tender or of the call for tenders and does not risk distorting competition or causing discrimination.
+
+8. The contracting authorities/entities may specify prices or payments to the participants in the dialogue.
+
+<a id="art_28"></a>
+
+### Article 28 — Cases justifying use of the negotiated procedure without publication of a contract notice
+
+In the following cases, contracting authorities/entities may award contracts by a negotiated procedure without prior publication of a contract notice and shall justify the use of this procedure in the contract award notice as required in Article 30(3):
+
+(1) for works contracts, supply contracts and service contracts:
+
+(a) when no tenders or no suitable tenders or no applications have been submitted in response to a restricted procedure, a negotiated procedure with prior publication of a contract notice or a competitive dialogue, provided that the initial conditions of the contract are not substantially altered and on condition that a report is sent to the Commission, if it so requests;
+
+(b) in the event of irregular tenders or the submission of tenders which are unacceptable under national provisions compatible with Articles 5, 19, 21 to 24 and Chapter VII of Title II, in response to a restricted procedure, a negotiated procedure with publication or a competitive dialogue, insofar as:
+
+(i) the original terms of the contract are not substantially altered, and
+
+(ii) they include in the negotiated procedure all of, and only, the tenderers which satisfy the criteria of Articles 39 to 46 and which, during the prior restricted procedure or competitive dialogue, had submitted tenders in accordance with the formal requirements of the tendering procedure;
+
+(c) when the periods laid down for the restricted procedure and negotiated procedure with publication of a contract notice, including the shortened periods referred to in Article 33(7), are incompatible with the urgency resulting from a crisis. This may apply for instance in the cases referred to in point (d) of the second paragraph of Article 23;
+
+(d) insofar as is strictly necessary when, for reasons of extreme urgency brought about by events unforeseeable by the contracting authorities/entities in question, the time-limit for the restricted procedure or the negotiated procedure with publication of a contract notice, including the shortened time-limits as referred to in Article 33(7), cannot be complied with. The circumstances invoked to justify extreme urgency must not in any event be attributable to the contracting authority/entity;
+
+(e) when, for technical reasons or reasons connected with the protection of exclusive rights, the contract may be awarded only to a particular economic operator;
+
+(2) for service contracts and supply contracts:
+
+(a) for research and development services other than those referred to in Article 13;
+
+(b) for products manufactured purely for the purpose of research and development, with the exception of quantity production to establish commercial viability or recover research and development costs;
+
+(3) for supply contracts:
+
+(a) for additional deliveries by the original supplier which are intended either as a partial replacement of normal supplies or installations or as the extension of existing supplies or installations where a change of supplier would oblige the contracting authority/entity to acquire material having different technical characteristics which would result in incompatibility or disproportionate technical difficulties in operation and maintenance.
+
+The length of such contracts, as well as that of recurrent contracts, may not exceed five years, except in exceptional circumstances determined by taking into account the expected service life of any delivered items, installations or systems, and the technical difficulties which a change of supplier may cause;
+
+(b) for supplies quoted and purchased on a commodity market;
+
+(c) for the purchase of supplies on particularly advantageous terms, from either a supplier which is definitively winding up its business activities, or the receivers or liquidators of a bankruptcy, an arrangement with creditors, or a similar procedure under national laws or regulations;
+
+(4) for works contracts and service contracts:
+
+(a) for additional works or services not included in the project initially considered or in the original contract but which have, through unforeseen circumstances, become necessary for the performance of the works or services described therein, on condition that the award is made to the economic operator performing such works or services:
+
+(i) when such additional works or services cannot be technically or economically separated from the original contract without major inconvenience to the contracting authorities/entities, or
+
+(ii) when such works or services, although separable from the performance of the original contract, are strictly necessary for its completion.
+
+However, the aggregate value of contracts awarded for additional works or services may not exceed 50 % of the amount of the original contract;
+
+(b) for new works or services consisting in the repetition of similar works or services entrusted to the economic operator to which the same contracting authorities/entities awarded an original contract, provided that such works or services are in conformity with a basic project for which the original contract was awarded according to the restricted procedure, the negotiated procedure with publication of a contract notice or a competitive dialogue.
+
+As soon as the first project is put up for tender, the possible use of this procedure shall be disclosed, and the total estimated cost of subsequent works or services shall be taken into consideration by the contracting authorities/entities when they apply Article 8.
+
+This procedure may be used only during the five years following the conclusion of the original contract, except in exceptional circumstances determined by taking into account the expected service life of any delivered items, installations or systems, and the technical difficulties which a change of supplier may cause;
+
+(5) for contracts related to the provision of air and maritime transport services for the armed forces or security forces of a Member State deployed or to be deployed abroad, when the contracting authority/entity has to procure such services from economic operators that guarantee the validity of their tenders only for such short periods that the time-limit for the restricted procedure or the negotiated procedure with publication of a contract notice, including the shortened time-limits as referred to in Article 33(7), cannot be complied with.
+
+<a id="art_29"></a>
+
+### Article 29 — Framework agreements
+
+1. Member States may provide that contracting authorities/entities may conclude framework agreements.
+
+2. For the purpose of concluding a framework agreement, contracting authorities/entities shall follow the rules of procedure referred to in this Directive for all phases up to the award of contracts based on that framework agreement. The parties to the framework agreement shall be chosen by applying the award criteria set in accordance with Article 47.
+
+2. Contracts based on a framework agreement shall be awarded in accordance with the procedures laid down in paragraphs 3 and 4. Those procedures may be applied only between the contracting authorities/entities and the economic operators originally party to the framework agreement.
+
+2. When awarding contracts based on a framework agreement, the parties may under no circumstances make substantial amendments to the terms laid down in that framework agreement, in particular in the case referred to in paragraph 3.
+
+2. The term of a framework agreement may not exceed seven years, except in exceptional circumstances determined by taking into account the expected service life of any delivered items, installations or systems, and the technical difficulties which a change of supplier may cause.
+
+2. In such exceptional circumstances, the contracting authorities/entities shall provide an appropriate justification for those circumstances in the notice referred to in Article 30(3).
+
+2. Contracting authorities/entities may not use framework agreements improperly or in such a way as to prevent, restrict or distort competition.
+
+3. Where a framework agreement is concluded with a single economic operator, contracts based on that agreement shall be awarded within the limits of the terms laid down in the framework agreement.
+
+3. For the award of those contracts, contracting authorities/entities may consult the operator party to the framework agreement in writing, requesting it to supplement its tender as necessary.
+
+4. Where a framework agreement is concluded with several economic operators, the latter must be at least three in number, insofar as there is a sufficient number of economic operators that satisfy the selection criteria and/or of admissible tenders that meet the award criteria.
+
+4. Contracts based on framework agreements concluded with several economic operators may be awarded either:
+
+— by application of the terms laid down in the framework agreement without reopening competition, or,
+
+— where not all the terms are laid down in the framework agreement, when the parties are again in competition on the basis of the same and, if necessary, more precisely formulated terms, and, where appropriate, other terms referred to in the contract documents of the framework agreement, in accordance with the following procedure:
+
+(a) for every contract to be awarded, contracting authorities/entities shall consult in writing the economic operators capable of performing the contract;
+
+(b) contracting authorities/entities shall fix a time-limit which is sufficiently long to allow tenders for each specific contract to be submitted, taking into account factors such as the complexity of the subject-matter of the contract and the time needed to submit tenders;
+
+(c) tenders shall be submitted in writing and their content remain confidential until the stipulated time-limit for reply has expired;
+
+(d) contracting authorities/entities shall award each contract to the tenderer which has submitted the best tender on the basis of the award criteria set out in the contract documents of the framework agreement.
+
+## Section 1
+
+### Publication of notices
+
+<a id="art_30"></a>
+
+### Article 30 — Notices
+
+1. Contracting authorities/entities may make known, by means of a prior information notice published by the Commission or by themselves on their ‘buyer profile’, as described in point 2 of Annex VI:
+
+(a) where supplies are concerned, the estimated total value of the contracts or the framework agreements by product area which they intend to award over the following 12 months.
+
+The product area shall be established by the contracting authorities/entities by reference to the CPV nomenclature;
+
+(b) where services are concerned, the estimated total value of the contracts or framework agreements in each of the categories of services which they intend to award over the following 12 months;
+
+(c) where works are concerned, the essential characteristics of the contracts or framework agreements which they intend to award.
+
+1. The notices referred to in the first subparagraph shall be sent to the Commission or published on the buyer profile at the earliest opportunity after the decision approving the project for which the contracting authorities/entities intend to award contracts or framework agreements.
+
+1. Contracting authorities/entities that publish a prior information notice on their buyer profiles shall send the Commission, electronically, a notice of publication of the prior information notice on a buyer profile, in accordance with the format and detailed procedures for sending notices set out in point 3 of Annex VI.
+
+1. Publication of the notices referred to in the first subparagraph shall be compulsory only where the contracting authorities/entities take the option of shortening the time-limits for the receipt of tenders as laid down in Article 33(3).
+
+1. This paragraph shall not apply to negotiated procedures without the prior publication of a contract notice.
+
+2. Contracting authorities/entities which wish to award a contract or a framework agreement by restricted procedure, negotiated procedure with the publication of a contract notice or a competitive dialogue shall make known their intention by means of a contract notice.
+
+3. Contracting authorities/entities which have awarded a contract or concluded a framework agreement shall send a notice of the results of the award procedure no later than 48 days after the award of the contract or the conclusion of the framework agreement.
+
+3. In the case of framework agreements concluded in accordance with Article 29, the contracting authorities/entities shall not be bound to send a notice of the results of the award procedure for each contract based on that agreement.
+
+3. Certain information on the contract award or the conclusion of the framework agreement may be withheld from publication where release of such information would impede law enforcement or otherwise be contrary to the public interest, in particular defence and/or security interests, would harm the legitimate commercial interests of economic operators, public or private, or might prejudice fair competition between them.
+
+<a id="art_31"></a>
+
+### Article 31 — Non-mandatory publication
+
+Contracting authorities/entities may publish, in accordance with Article 32, notices concerning contracts which are not subject to the publication requirement laid down in this Directive.
+
+<a id="art_32"></a>
+
+### Article 32 — Form and manner of publication of notices
+
+1. Notices shall include the information referred to in Annex IV and, where appropriate, any other information deemed useful by the contracting authority/entity in the format of the standard forms adopted by the Commission in accordance with the advisory procedure referred to in Article 67(2).
+
+2. Notices sent by contracting authorities/entities to the Commission shall be sent either by electronic means in accordance with the format and procedures for transmission set out in point 3 of Annex VI, or by other means. In the event of recourse to the accelerated procedure set out in Article 33(7), notices must be sent either by fax or by electronic means, in accordance with the format and procedures for transmission set out in point 3 of Annex VI.
+
+2. Notices shall be published in accordance with the technical characteristics for publication set out in point 1(a) and (b) of Annex VI.
+
+3. Notices drawn up and transmitted by electronic means in accordance with the format and procedures for transmission set out in point 3 of Annex VI shall be published no later than five days after they are sent.
+
+3. Notices which are not transmitted by electronic means in accordance with the format and procedures for transmission set out in point 3 of Annex VI shall be published no later than 12 days after they are sent, or, in the case of the accelerated procedure referred to in Article 33(7), no later than five days after they are sent.
+
+4. Contract notices shall be published in full in an official language of the Community, as chosen by the contracting authority/entity, this original language version constituting the sole authentic text. A summary of the important elements of each notice shall be published in the other official languages.
+
+4. The costs of publication of such notices by the Commission shall be borne by the Community.
+
+5. Notices and their contents may not be published at national level or on a buyer profile before the date on which they are sent to the Commission.
+
+5. Notices published at national level shall not contain information other than that contained in the notices sent to the Commission or published on a buyer profile in accordance with the first subparagraph of Article 30(1), but shall mention the date of dispatch of the notice to the Commission or its publication on a buyer profile.
+
+5. Prior information notices may not be published on a buyer profile before the dispatch to the Commission of the notice of their publication in that form; they shall mention the date of that dispatch.
+
+6. The content of notices not sent by electronic means in accordance with the format and procedures for transmission set out in point 3 of Annex VI shall be limited to approximately 650 words.
+
+7. Contracting authorities/entities must be able to supply proof of the dates on which notices are dispatched.
+
+8. The Commission shall give the contracting authority/entity confirmation of the publication of the information sent, mentioning the date of such publication. Such confirmation shall constitute proof of publication.
+
+## Section 2
+
+### Time-limits
+
+<a id="art_33"></a>
+
+### Article 33 — Time-limits for receipt of requests to participate and for receipt of tenders
+
+1. When fixing the time-limits for receipt of requests to participate and tenders, contracting authorities/entities shall take particular account of the complexity of the contract and the time required for drawing up tenders, without prejudice to the minimum time-limits set by this Article.
+
+2. In restricted procedures, negotiated procedures with the publication of a contract notice and use of a competitive dialogue, the minimum time-limit for receipt of requests to participate shall be 37 days from the date on which the contract notice is sent.
+
+2. In the case of restricted procedures, the minimum time-limit for the receipt of tenders shall be 40 days from the date on which the invitation is sent.
+
+3. When contracting authorities/entities have published a prior information notice, the minimum time-limit for the receipt of tenders under the second subparagraph of paragraph 2 may, as a general rule, be shortened to 36 days, but under no circumstances to less than 22 days.
+
+3. The time-limit shall run from the date on which the invitation to tender was sent.
+
+3. The shortened time-limits referred to in the first subparagraph shall be permitted, provided that the prior information notice has included all the information required for the contract notice set out in Annex IV, insofar as that information is available at the time the notice is published and that the prior information notice was sent for publication between 52 days and 12 months before the date on which the contract notice was sent.
+
+4. Where notices are drawn up and transmitted by electronic means in accordance with the format and procedure for sending notices set out in point 3 of Annex VI, the time-limit for the receipt of the requests to participate referred to in the first subparagraph of paragraph 2 may be shortened by seven days.
+
+5. The time-limits for receipt of tenders referred to in the second subparagraph of paragraph 2 may be reduced by five days where the contracting authority/entity offers unrestricted and full direct access by electronic means to the contract documents and any supporting documents from the date of publication of the notice in accordance with Annex VI, specifying in the text of the notice the Internet address at which this documentation is accessible.
+
+5. This reduction may be added to that referred to in paragraph 4.
+
+6. If, for whatever reasons, the contract documents and supporting documents or additional information, although requested in good time, are not supplied within the time-limits set out in Article 34, or where tenders can be made only after a visit to the site or after on-the-spot inspection of the documents supporting the contract documents, the time-limits for the receipt of tenders shall be extended so that all economic operators concerned may be aware of all the information needed to produce tenders.
+
+7. In the case of restricted procedures and negotiated procedures with publication of a contract notice, where urgency renders impracticable the minimum time-limits laid down in this Article, contracting authorities/entities may fix:
+
+— a time-limit for receipt of requests to participate which may not be less than 15 days from the date on which the contract notice is dispatched, or less than 10 days if the notice was sent by electronic means, in accordance with the format and procedure for sending notices set out in point 3 of Annex VI; and
+
+— in the case of restricted procedures, a time-limit for receipt of tenders which shall not be less than 10 days from the date of the invitation to tender,
+
+## Section 3
+
+### Information content and means of transmission
+
+<a id="art_34"></a>
+
+### Article 34 — Invitations to tender, negotiate or participate in a dialogue
+
+1. In restricted procedures, negotiated procedures with the publication of a contract notice and competitive dialogues, the contracting authorities/entities shall simultaneously and in writing invite the selected candidates to submit their tenders or to negotiate, or, in the case of a competitive dialogue, to take part in the dialogue.
+
+2. The invitation to the candidates shall include either:
+
+— a copy of the contract documents or of the descriptive document and any supporting documents, or,
+
+— a reference to accessing the documents referred to in the first indent when they are made directly available by electronic means in accordance with Article 33(5),
+
+3. Where the contract documents, the descriptive document and/or any supporting documents are held by an entity other than the contracting authority/entity responsible for the award procedure, the invitation shall state the address from which that documentation may be requested and, if appropriate, the closing date for requesting such documents, the sum payable for obtaining them and any payment procedures. The competent department shall send that documentation to the economic operator without delay upon receipt of a request.
+
+4. The additional information on the contract documents, the descriptive document and/or the supporting documents shall be sent by the contracting authority/entity or the competent department not less than six days before the deadline fixed for the receipt of tenders, provided that it is requested in good time. In the event of a restricted or an accelerated procedure, that period shall be four days.
+
+5. In addition to the particulars provided for in paragraphs 2, 3 and 4, the invitation shall contain at least:
+
+(a) a reference to the contract notice published;
+
+(b) the deadline for receipt of tenders, the address to which the tenders must be sent and the language or languages in which the tenders must be drawn up. In the case of a competitive dialogue, this information shall not be contained in the invitation to take part in the dialogue, but in the invitation to submit a tender;
+
+(c) in the case of a competitive dialogue, the date and the address set for the start of the consultation stage and the language or languages used;
+
+(d) an indication of any documents to be annexed, either to support the verifiable statements provided by the candidate in accordance with Article 38, or to supplement the information provided for in that Article under the same conditions as those laid down in Articles 41 and 42;
+
+(e) the relative weighting of criteria for the award of the contract or, where appropriate, the descending order of importance of the criteria used to define the economically most advantageous tender, if they are not given in the contract notice, the contract documents or the descriptive document.
+
+<a id="art_35"></a>
+
+### Article 35 — Information for candidates and tenderers
+
+1. The contracting authorities/entities shall, at the earliest opportunity, inform candidates and tenderers of decisions reached concerning the award of a contract or the conclusion of a framework agreement, including the grounds for any decision not to award a contract or conclude a framework agreement for which there has been competitive tendering or to recommence the procedure; that information shall be given in writing upon request to the contracting authorities/entities.
+
+2. At the request of the party concerned, the contracting authority/entity shall, subject to paragraph 3, at the earliest opportunity and at the latest within 15 days of receipt of the written request for information, inform the parties as follows:
+
+(a) any unsuccessful candidate of the reasons for the rejection of the application;
+
+(b) any unsuccessful tenderer of the reasons for the rejection of the tender, including, in particular, for the cases referred to in Article 18(4) and (5) the reasons for its decision of non-equivalence or its decision that the works, supplies or services do not meet the performance or functional requirements, and in the cases referred to in Articles 22 and 23, the reasons for its decision of non-conformity with the requirements of security of information and security of supply;
+
+(c) any tenderer which has made an admissible tender that has been rejected, of the characteristics and relative advantages of the tender selected, as well as the name of the successful tenderer or the parties to the framework agreement.
+
+3. Contracting authorities/entities may decide to withhold certain information on the contract award or the conclusion of the framework agreements referred to in paragraph 1 where release of such information would impede law enforcement or otherwise be contrary to the public interest, in particular defence and/or security interests, would prejudice the legitimate commercial interests of economic operators, whether public or private, or might prejudice fair competition between them.
+
+## Section 4
+
+### Communication
+
+<a id="art_36"></a>
+
+### Article 36 — Rules applying to communication
+
+1. All communication and information exchange referred to in this Title may be made by post, fax, electronic means in accordance with paragraphs 4 and 5, telephone in the cases and circumstances referred to in paragraph 6, or a combination of those means, according to the choice of the contracting authority/entity.
+
+2. The means of communication chosen must be generally available and thus not restrict the access of economic operators to the tendering procedure.
+
+3. Communication and the exchange and storage of information shall be carried out in such a way as to ensure that the integrity of data and the confidentiality of requests to participate and tenders are preserved, and that the contracting authorities/entities examine the content of requests to participate and tenders only after the time-limit set for submitting them has expired.
+
+4. The tools to be used for communicating by electronic means, as well as their technical characteristics, must be non-discriminatory, generally available and compatible with information and communication technology products in general use.
+
+5. The following rules shall apply to devices for the electronic transmission and receipt of tenders and devices for the electronic receipt of requests to participate:
+
+(a) information regarding the specifications necessary for the electronic submission of tenders and requests to participate, including encryption, shall be available to interested parties. Moreover, devices for the electronic receipt of tenders and requests to participate shall conform to the requirements of Annex VIII;
+
+(b) Member States may, in compliance with Article 5 of Directive 1999/93/EC, require electronic tenders to be accompanied by an advanced electronic signature, in conformity with paragraph 1 thereof;
+
+(c) Member States may introduce or maintain voluntary arrangements for accreditation intended to improve the level of the certification service provided for such devices;
+
+(d) candidates shall undertake to submit, before expiry of the time-limit laid down for submission of tenders or requests to participate, the documents, certificates and declarations referred to in Articles 39 to 44 and Article 46, if they do not exist in electronic format.
+
+6. The following rules shall apply to the transmission of requests to participate:
+
+(a) requests to participate in procedures for the award of contracts may be made in writing or by telephone;
+
+(b) where requests to participate are made by telephone, a written confirmation must be sent before expiry of the time-limit set for their receipt;
+
+(c) contracting authorities/entities may require that requests for participation made by fax must be confirmed by post or electronic means where this is necessary for the purposes of legal proof. Any such requirement, together with the time-limit by which it must be met, must be stated by the contracting authority/entity in the contract notice.
+
+## Section 5
+
+### Reports
+
+<a id="art_37"></a>
+
+### Article 37 — Content of reports
+
+1. For every contract and framework agreement, the contracting authorities/entities shall draw up a written report to confirm that the selection procedure was undertaken in a transparent and non-discriminatory manner, which shall include at least the following:
+
+(a) the name and address of the contracting authority/entity and the subject and value of the contract or framework agreement;
+
+(b) the award procedure chosen;
+
+(c) in the case of a competitive dialogue, the circumstances justifying the use of this procedure;
+
+(d) in the case of a negotiated procedure without prior publication of a contract notice, the circumstances referred to in Article 28 which justify the use of this procedure; if appropriate, justification for exceeding the time-limits laid down in the second subparagraph of Article 28(3)(a) and the third subparagraph of Article 28(4)(b) and for exceeding the 50 % limit laid down in the second subparagraph of Article 28(4)(a);
+
+(e) if appropriate, the reasons for the framework agreement lasting more than seven years;
+
+(f) the name of the candidates chosen and the reason for this choice;
+
+(g) the name of the candidates excluded and the reasons for their rejection;
+
+(h) the reasons for the rejection of tenders;
+
+(i) the name of the successful tenderer and the reasons why its tender was selected, and, if known, the share of the contract or framework agreement which the successful tenderer intends, or will be required, to subcontract to third parties;
+
+(j) if necessary, the reasons why the contracting authority/entity decided not to award a contract or framework agreement.
+
+2. Contracting authorities/entities shall take appropriate steps to document the progress of award procedures conducted by electronic means.
+
+3. The report, or the main features of it, shall be communicated to the Commission, if it so requests.
+
+## Section 1
+
+### General provisions
+
+<a id="art_38"></a>
+
+### Article 38 — Verification of the suitability and choice of participants and award of contracts
+
+1. Contracts shall be awarded on the basis of the criteria laid down in Articles 47 and 49, taking into account Article 19, after the suitability of the economic operators not excluded under Articles 39 or 40 has been checked by contracting authorities/entities in accordance with the criteria of economic and financial standing, of professional and technical knowledge or ability referred to in Articles 41 to 46 and, where appropriate, with the non-discriminatory rules and criteria referred to in paragraph 3.
+
+2. Contracting authorities/entities may require candidates to meet minimum capacity levels in accordance with Articles 41 and 42.
+
+2. The extent of the information referred to in Articles 41 and 42 and the minimum levels of ability required for a specific contract must be related and proportionate to the subject-matter of the contract.
+
+2. These minimum levels shall be indicated in the contract notice.
+
+3. In restricted procedures, negotiated procedures with publication of a contract notice and competitive dialogues, contracting authorities/entities may limit the number of suitable candidates they will invite to tender or with which they will conduct a dialogue. In this case:
+
+— the contracting authorities/entities shall indicate in the contract notice the objective and non-discriminatory criteria or rules they intend to apply, the minimum number of candidates they intend to invite and, where appropriate, the maximum number. The minimum number of candidates they intend to invite may not be less than three;
+
+— subsequently, the contracting authorities/entities shall invite a number of candidates at least equal to the minimum number set in advance, provided a sufficient number of suitable candidates is available,
+
+3. Where the number of candidates meeting the selection criteria and the minimum levels of ability is below the minimum number, the contracting authority/entity may continue the procedure by inviting the candidate or candidates with the required capabilities.
+
+3. If the contracting authority/entity considers that the number of suitable candidates is too low to ensure genuine competition, it may suspend the procedure and republish the initial contract notice in accordance with Article 30(2) and Article 32, fixing a new deadline for the submission of requests to participate. In this case, the candidates selected upon the first publication and those selected upon the second shall be invited in accordance with Article 34. This option shall be without prejudice to the ability of the contracting authority/entity to cancel the ongoing procurement procedure and launch a new procedure.
+
+4. In the context of an award procedure, the contracting authority/entity may not include economic operators other than those which made a request to participate, or candidates without the requisite capabilities.
+
+5. Where the contracting authorities/entities exercise the option of reducing the number of solutions to be discussed or of tenders to be negotiated, as provided for in Article 26(3) and Article 27(4), they shall do so by applying the award criteria stated in the contract notice or the contract documents. In the final stage, the number arrived at shall make for genuine competition insofar as there are enough solutions or suitable candidates.
+
+## Section 2
+
+### Criteria for qualitative selection
+
+<a id="art_39"></a>
+
+### Article 39 — Personal situation of the candidate or tenderer
+
+1. Any candidate or tenderer which has been the subject of a conviction by final judgment of which the contracting authority/entity is aware, for one or more of the reasons listed below, shall be excluded from participation in a contract:
+
+(a) participation in a criminal organisation, as defined in Article 2(1) of Joint Action 98/733/JHA (20);
+
+(b) corruption, as defined in Article 3 of the Act of 26 May 1997 (21) and Article 2(1) of Framework Decision 2003/568/JHA (22);
+
+(c) fraud within the meaning of Article 1 of the Convention relating to the protection of the financial interests of the European Communities (23);
+
+(d) terrorist offences or offences linked to terrorist activities, as defined in Articles 1 and 3 of Framework Decision 2002/475/JHA (24) respectively, or inciting, aiding or abetting or attempting to commit an offence, as referred to in Article 4 of that Framework Decision;
+
+(e) money laundering and terrorist financing, as defined in Article 1 of Directive 2005/60/EC (25).
+
+1. Member States shall specify, in accordance with their national law and having regard to Community law, the implementing conditions for this paragraph.
+
+1. They may provide for a derogation from the requirement referred to in the first subparagraph for overriding requirements in the general interest.
+
+1. For the purposes of this paragraph, the contracting authorities/entities shall, where appropriate, ask candidates or tenderers to supply the documents referred to in paragraph 3 and may, where they have doubts concerning the personal situation of such candidates or tenderers, also apply to the competent authorities to obtain any information they consider necessary on the personal situation of the candidates or tenderers concerned. Where the information concerns a candidate or tenderer established in a State other than that of the contracting authority/entity, the contracting authority/entity may seek the cooperation of the competent authorities. Having regard for the national laws of the Member State where the candidates or tenderers are established, such requests shall relate to legal and/or natural persons, including, if appropriate, company directors and any person having powers of representation, decision or control in respect of the candidate or tenderer.
+
+2. Any economic operator may be excluded from participation in a contract where that economic operator:
+
+(a) is bankrupt or is being wound up, where its affairs are being administered by a court, where it has entered into an arrangement with creditors, where it has suspended business activities or is in any analogous situation arising from a similar procedure under national laws and regulations;
+
+(b) is the subject of proceedings for a declaration of bankruptcy, for an order for compulsory winding up or administration by a court or of an arrangement with creditors or of any other similar proceedings under national laws and regulations;
+
+(c) has been convicted by a judgment which has the force of *res judicata* in accordance with the legal provisions of the country of any offence concerning its professional conduct, such as, for example, infringement of existing legislation on the export of defence and/or security equipment;
+
+(d) has been guilty of grave professional misconduct proven by any means which the contracting authority/entity can supply, such as a breach of obligations regarding security of information or security of supply during a previous contract;
+
+(e) has been found, on the basis of any means of evidence, including protected data sources, not to possess the reliability necessary to exclude risks to the security of the Member State;
+
+(f) has not fulfilled obligations relating to the payment of social security contributions in accordance with the legal provisions of the country in which it is established or with those of the country of the contracting authority/entity;
+
+(g) has not fulfilled obligations relating to the payment of taxes in accordance with the legal provisions of the country in which it is established or with those of the country of the contracting authority/entity;
+
+(h) is guilty of serious misrepresentation in supplying the information required under this Section, or has not supplied such information.
+
+2. Member States shall specify, in accordance with their national law and having regard for Community law, the implementing conditions for this paragraph.
+
+3. Contracting authorities/entities shall accept the following as sufficient evidence that none of the cases specified in paragraph 1 or paragraph 2(a), (b), (c), (f) or (g) applies to the economic operator:
+
+(a) as regards paragraph 1 and paragraph 2(a), (b) and (c), the production of an extract from the ‘judicial record’ or, failing that, of an equivalent document issued by a competent judicial or administrative authority in the country of origin or provenance, showing that these requirements have been met;
+
+(b) as regards paragraph 2(f) and (g), a certificate issued by the competent authority in the Member State concerned.
+
+3. Where the country in question does not issue such documents or certificates, or where these do not cover all the cases specified in paragraph 1 and paragraph 2(a), (b) and (c), they may be replaced by a declaration on oath or, in Member States where there is no provision for declarations on oath, by a solemn declaration made by the person concerned before a competent judicial or administrative authority, a notary or a competent professional or trade body, in the country of origin or provenance.
+
+4. Member States shall designate the authorities and bodies competent to issue the documents, certificates and declarations referred to in paragraph 3, and shall inform the Commission thereof. Such notification shall be without prejudice to data protection law.
+
+<a id="art_40"></a>
+
+### Article 40 — Suitability to pursue the professional activity
+
+Where a candidate is required to be enrolled on a professional or trade register in its Member State of origin or establishment in order to pursue its professional activity, it may be requested to prove its enrolment on such a register or to provide a declaration on oath or a certificate as described in Part A of Annex VII for works contracts, Part B of Annex VII for supply contracts and Part C of Annex VII for service contracts. The lists set out in Annex VII are indicative. Member States shall notify the Commission and the other Member States of any changes to their registers and of the means of evidence referred to in these lists.
+
+In procedures for the award of service contracts, insofar as candidates have to possess a particular authorisation or be a member of a particular organisation in order to be able to perform the service concerned in their country of origin, the contracting authority/entity may require them to prove that they hold such authorisation or membership.
+
+This Article shall be without prejudice to Community law on the freedom of establishment and the freedom to provide services.
+
+<a id="art_41"></a>
+
+### Article 41 — Economic and financial standing
+
+1. Proof of an economic operator’s economic and financial standing may, as a general rule, be furnished by one or more of the following references:
+
+(a) appropriate statements from a bank or, where appropriate, evidence of professional risk indemnity insurance;
+
+(b) the presentation of balance sheets or extracts from balance sheets, where publication of the balance sheet is required under the law of the country in which the economic operator is established;
+
+(c) a statement of the undertaking’s overall turnover and, where appropriate, of turnover in the area covered by the contract for a maximum of the last three financial years available, depending on the date on which the undertaking was set up or the economic operator started trading, insofar as information on such turnovers is available.
+
+2. An economic operator may, where appropriate and for a particular contract, rely on the capacities of other entities, regardless of the legal nature of the links which it has with them. It must in that case prove to the contracting authority/entity that it will have at its disposal the resources necessary, for example, by producing an undertaking by those entities to that effect.
+
+3. Under the same conditions, a consortium of economic operators as referred to in Article 4 may rely on the capacities of participants in the consortium or of other entities.
+
+4. Contracting authorities/entities shall specify in the contract notice which reference or references referred to in paragraph 1 they have chosen, and which other references must be provided.
+
+5. If, for any valid reason, the economic operator is unable to provide the references requested by the contracting authority/entity, it may prove its economic and financial standing by any other document which the contracting authority/entity considers appropriate.
+
+<a id="art_42"></a>
+
+### Article 42 — Technical and/or professional ability
+
+1. Evidence of economic operators’ technical abilities may, as a general rule, be furnished by one or more of the following means, according to the nature, quantity or importance and use of the works, supplies or services:
+
+(i) a list of the works carried out over the past five years, accompanied by certificates of satisfactory execution for the most important works. These certificates shall indicate the value, date and location of the works and shall specify whether they were carried out according to the rules of the trade and properly completed. Where appropriate, the competent authority shall submit these certificates to the contracting authority/entity directly;
+
+(ii) a list of the principal deliveries effected or the main services provided, as a general rule, in the past five years, with the sums, dates and recipients, whether public or private, involved. Evidence of delivery and services provided shall be given:
+
+— where the recipient was a contracting authority/entity, in the form of certificates issued or countersigned by the competent authority,
+
+— where the recipient was a private purchaser, by the purchaser’s certification or, failing this, simply by a declaration by the economic operator,
+
+(b) an indication of the technicians or technical bodies involved, whether or not they belong directly to the economic operator’s undertaking, especially those responsible for quality control and, in the case of works contracts, those upon which the contractor can call in order to carry out the work;
+
+(c) a description of the technical facilities and measures used by the economic operator to ensure quality and the undertaking’s study and research facilities, as well as internal rules regarding intellectual property;
+
+(d) a check carried out by the contracting authorities/entities or on their behalf by a competent official body of the country in which the economic operator is established, subject to that body’s agreement, on the production capacities of the supplier or the technical capacity of the economic operator and, if necessary, on the means of study and research which are available to it and the quality control measures it will operate;
+
+(e) in the case of works contracts, service contracts or supply contracts also covering siting and installation operations or services, the educational and professional qualifications of the economic operator and/or those of the undertaking’s managerial staff and, in particular, those of the person or persons responsible for providing the services or managing the work;
+
+(f) for works contracts and services contracts, and only in appropriate cases, an indication of the environmental management measures that the economic operator will be able to apply when performing the contract;
+
+(g) a statement of the average annual manpower of the service provider or contractor and the number of managerial staff for the last three years;
+
+(h) a description of the tools, material, technical equipment, staff numbers and know-how and/or sources of supply — with an indication of the geographical location when it is outside the territory of the Union — which the economic operator has at its disposal to perform the contract, cope with any additional needs required by the contracting authority/entity as a result of a crisis or carry out the maintenance, modernisation or adaptation of the supplies covered by the contract;
+
+(i) with regard to the products to be supplied, provision of:
+
+(i) samples, descriptions and/or photographs, the authenticity of which must be certified if the contracting authority/entity so requests;
+
+(ii) certificates drawn up by official quality control institutes or agencies of recognised competence attesting the conformity of products, clearly identified by references to specifications or standards;
+
+(j) in the case of contracts involving, entailing and/or containing classified information, evidence of the ability to process, store and transmit such information at the level of protection required by the contracting authority/entity.
+
+In the absence of harmonisation at Community level of national security clearance systems, Member States may provide that this evidence has to comply with the relevant provisions of their respective national laws on security clearance. Member States shall recognise security clearances which they consider equivalent to those issued in accordance with their national law, notwithstanding the possibility to conduct and take into account further investigations of their own, if considered necessary.
+
+The contracting authority/entity may, where appropriate, grant candidates which do not yet hold security clearance additional time to obtain such clearance. In this case, it shall indicate this possibility and the time-limit in the contract notice.
+
+The contracting authority/entity may ask the national security authority of the candidate’s Member State or the security authority designated by that Member State to check the conformity of the premises and facilities that may be used, the industrial and administrative procedures that will be followed, the methods for managing information and/or the situation of staff likely to be employed to carry out the contract.
+
+2. An economic operator may, where appropriate and for a particular contract, rely on the capacities of other entities, regardless of the legal nature of the links which it has with them. It shall in that case prove to the contracting authority/entity that it will have at its disposal the resources necessary for the execution of the contract, for example by producing an undertaking by those entities to put the necessary resources at the disposal of the economic operator.
+
+3. Under the same conditions, a group of economic operators as referred to in Article 5 may rely on the abilities of participants in the group or of other entities.
+
+4. In procedures for awarding contracts having as their object supplies requiring siting or installation work, the provision of services and/or the execution of works, the ability of economic operators to provide the service or to execute the installation or the work may be evaluated in particular with regard to their skills, efficiency, experience and reliability.
+
+5. The contracting authority/entity shall specify in the notice which of the references referred to in the first paragraph it has chosen and which other references must be provided.
+
+6. If, for any valid reason, the economic operator is unable to provide the references requested by the contracting authority/entity, it may prove its technical and/or professional ability by any other document which the contracting authority/entity considers appropriate.
+
+<a id="art_43"></a>
+
+### Article 43 — Quality management systems standards
+
+Should they require the production of certificates drawn up by independent accredited bodies attesting the compliance of the economic operator with certain quality management systems standards, contracting authorities/entities shall refer to quality management systems based on the relevant European standards certified by independent accredited bodies conforming to the European standards concerning accreditation and certification. They shall recognise equivalent certificates from independent accredited bodies established in other Member States. They shall also accept other evidence of equivalent quality management systems from economic operators.
+
+<a id="art_44"></a>
+
+### Article 44 — Environmental management standards
+
+Should contracting authorities/entities, in the cases referred to in Article 42(1)(f), require the production of certificates drawn up by independent bodies attesting the compliance of the economic operator with certain environmental management standards, they shall refer to the Community Eco-Management and Audit Scheme (EMAS) or to environmental management standards based on the relevant European or international standards certified by bodies conforming to Community law or the relevant European or international standards concerning certification. They shall recognise equivalent certificates from bodies established in other Member States. They shall also accept other evidence of equivalent environmental management measures from economic operators.
+
+<a id="art_45"></a>
+
+### Article 45 — Additional documentation and information
+
+The contracting authority/entity may invite economic operators to supplement or clarify the certificates and documents submitted pursuant to Articles 39 to 44.
+
+<a id="art_46"></a>
+
+### Article 46 — Official lists of approved economic operators and certification by bodies established under public or private law
+
+1. Member States may introduce either official lists of approved contractors, suppliers or service providers or certification by certification bodies established under public or private law.
+
+1. Member States shall adapt the conditions for registration on these lists and for the issue of certificates by certification bodies to the provisions of Article 39(1) and (2)(a) to (d) and (h), Article 40, Article 41(1), (4) and (5), Article 42(1)(a) to (i), (2) and (4), Article 43 and, where appropriate, Article 44.
+
+1. Member States shall also adapt them to Article 41(2) and Article 42(2) as regards applications for registration submitted by economic operators belonging to a group and claiming resources made available to them by the other companies in the group. In such a case, these operators must prove to the authority establishing the official list that they will have these resources at their disposal throughout the period of validity of the certificate attesting to their being registered in the official list, and that throughout the same period these companies must continue to fulfil the qualitative selection requirements laid down in the Articles referred to in the second subparagraph on which operators rely for their registration.
+
+2. Economic operators registered on the official lists or having a certificate may, for each contract, submit to the contracting authority/entity a certificate of registration issued by the competent authority or the certificate issued by the competent certification body. The certificates shall state the references which enabled them to be registered in the list or to obtain certification and the classification given in that list.
+
+3. Certified registration on official lists by the competent authorities or a certificate issued by the certification body shall not, for the purposes of the contracting authorities/entities of other Member States, constitute a presumption of suitability except as regards Article 39(1) and (2)(a) to (d) and (h), Article 40, Article 41(1)(b) and (c) and Article 42(1)(a)(i) and (b) to (g) in the case of contractors, Article 42(1)(a)(ii), (b) to (e) and (i) in the case of suppliers and Article 42(1)(a)(ii), (b) to (e) and (g) in the case of service providers.
+
+4. Information which can be deduced from registration on official lists or certification may not be questioned without justification. With regard to the payment of social security contributions and taxes, an additional certificate may be required of any registered economic operator whenever a contract is offered.
+
+4. The contracting authorities/entities of other Member States shall apply paragraph 3 and the first subparagraph of this paragraph only to economic operators established in the Member State holding the official list.
+
+5. For any registration of economic operators of other Member States in an official list or for their certification by the bodies referred to in paragraph 1, no further proof or statement can be required other than those requested of national economic operators and, in any event, only those provided for under Articles 39 to 43 and, where appropriate, Article 44.
+
+5. However, economic operators from other Member States may not be obliged to undergo such registration or certification in order to participate in a contract. Contracting authorities/entities shall recognise equivalent certificates from bodies established in other Member States. They shall also accept other equivalent means of proof.
+
+6. Economic operators may apply at any time to be registered on an official list or for a certificate to be issued. They must be informed within a reasonably short period of time of the decision of the authority drawing up the list or of the competent certification body.
+
+7. The certification bodies referred to in paragraph 1 shall be bodies complying with European certification standards.
+
+8. Member States which have official lists or certification bodies as referred to in paragraph 1 shall be obliged to inform the Commission and the other Member States of the address of the body to which applications should be sent.
+
+## Section 3
+
+### Award of the contract
+
+<a id="art_47"></a>
+
+### Article 47 — Contract award criteria
+
+1. Without prejudice to national laws, regulations or administrative provisions concerning the remuneration of certain services, the criteria on which the contracting authorities/entities shall base the award of contracts shall be either:
+
+(a) when the award is made to the most economically advantageous tender from the point of view of the contracting authority/entity, various criteria linked to the subject-matter of the contract in question: for example, quality, price, technical merit, functional characteristics, environmental characteristics, running costs, lifecycle costs, cost-effectiveness, after-sales service and technical assistance, delivery date and delivery period or period of completion, security of supply, interoperability and operational characteristics; or
+
+(b) the lowest price only.
+
+2. Without prejudice to the third subparagraph, in the case referred to in paragraph 1(a) the contracting authority/entity shall specify in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents) the relative weighting which it gives to each of the criteria chosen to determine the most economically advantageous tender.
+
+2. The weightings can be expressed by providing for a range with an appropriate maximum spread.
+
+2. Where, in the opinion of the contracting authority/entity, weighting is not possible for demonstrable reasons, the contracting authority/entity shall indicate in the contract documentation (contract notices, contract documents, descriptive documents or supporting documents) the criteria in descending order of importance.
+
+<a id="art_48"></a>
+
+### Article 48 — Use of electronic auctions
+
+1. Member States may provide that contracting authorities/entities may use electronic auctions.
+
+2. In restricted and negotiated procedures with publication of a contract notice, the contracting authorities/entities may decide that the award of a contract shall be preceded by an electronic auction when the contract specifications can be established with precision.
+
+2. In the same circumstances, an electronic auction may be held on the reopening of competition among the parties to a framework agreement as provided for in the second indent of the second subparagraph of Article 29(4).
+
+2. The electronic auction shall be based:
+
+— solely on price, where the contract is awarded to the lowest price; or,
+
+— on price and/or on the new values of the features of the tenders indicated in the contract documents, where the contract is awarded to the most economically advantageous tender,
+
+3. Contracting authorities/entities which decide to hold an electronic auction shall state that fact in the contract notice.
+
+3. The contract documents shall include, *inter alia*, the following details:
+
+(a) the features, the values for which will be the subject of electronic auction, provided that such features are quantifiable and can be expressed in figures or percentages;
+
+(b) any limitations on the values which may be submitted, as they result from the specifications relating to the subject of the contract;
+
+(c) the information which will be made available to tenderers in the course of the electronic auction and, where appropriate, when it will be made available to them;
+
+(d) the relevant information concerning the electronic auction process;
+
+(e) the conditions under which tenderers will be able to bid and, in particular, the minimum differences which will, where appropriate, be required when bidding;
+
+(f) the relevant information concerning the electronic equipment used and the arrangements and technical specifications for connection.
+
+4. Before proceeding with an electronic auction, contracting authorities/entities shall make a full initial evaluation of the tenders in accordance with the award criterion/criteria set and with the weighting fixed for them.
+
+4. All tenderers which have submitted admissible tenders shall be invited simultaneously by electronic means to submit new prices and/or new values; the invitation shall contain all relevant information concerning individual connection to the electronic equipment being used and shall state the date and time of the start of the electronic auction. The electronic auction may take place in a number of successive phases. The electronic auction may not start sooner than two working days after the date on which invitations are sent out.
+
+5. When the contract is to be awarded on the basis of the most economically advantageous tender, the invitation shall be accompanied by the outcome of a full evaluation of the relevant tenderer, carried out in accordance with the weighting provided for in the first subparagraph of Article 47(2).
+
+5. The invitation shall also state the mathematical formula to be used in the electronic auction to determine automatic re-rankings on the basis of the new prices and/or new values submitted. That formula shall incorporate the weighting of all the criteria fixed to determine the most economically advantageous tender, as indicated in the contract notice or in the specifications; for that purpose, any ranges shall, however, be reduced in advance to a specified value.
+
+5. Where variants are authorised, a separate formula shall be provided for each variant.
+
+6. Throughout each phase of an electronic auction, the contracting authorities/entities shall instantaneously communicate to all tenderers at least sufficient information to enable them to ascertain their relative rankings at any moment. They may also communicate other information concerning other prices or values submitted, provided that that is stated in the contract documents. They may also at any time announce the number of participants in that phase of the auction. In no case, however, may they disclose the identities of the tenderers during any phase of an electronic auction.
+
+7. Contracting authorities/entities shall close an electronic auction in one or more of the following manners:
+
+(a) in accordance with the date and time fixed in advance, as indicated in the invitation to take part in the auction;
+
+(b) when they receive no more new prices or new values which meet the requirements concerning minimum differences. In that event, the contracting authorities/entities shall state in the invitation to take part in the auction the time which they will allow to elapse after receiving the last submission before closing the electronic auction;
+
+(c) when the phases in the auction, fixed in the invitation to take part in the auction, have been completed.
+
+7. When the contracting authorities/entities decide to close an electronic auction in accordance with point (c), possibly in combination with the arrangements laid down in point (b), the invitation to take part in the auction shall indicate the timetable for each phase of the auction.
+
+8. After closing an electronic auction, contracting authorities/entities shall award the contract in accordance with Article 47 on the basis of the results of the electronic auction.
+
+8. Contracting authorities/entities may not have improper recourse to electronic auctions, nor may they use them in such a way as to prevent, restrict or distort competition or to change the subject-matter of the contract, as put up for tender in the published contract notice and defined in the contract documents.
+
+<a id="art_49"></a>
+
+### Article 49 — Abnormally low tenders
+
+1. If, for a given contract, tenders appear to be abnormally low in relation to the goods, works or services, the contracting authority/entity shall, before it rejects those tenders, request in writing details of the constituent elements of the tender which it considers relevant.
+
+1. Those details may relate in particular to:
+
+(a) the economics of the construction method, manufacturing process or services provided;
+
+(b) the technical solutions chosen and/or any exceptionally favourable conditions available to the tenderer for the execution of the work or for the supply of the goods or services;
+
+(c) the originality of the work, supplies or services proposed by the tenderer;
+
+(d) compliance with the provisions relating to employment protection and working conditions in force at the place where the work, service or supply is to be performed;
+
+(e) the possibility of the tenderer obtaining State aid.
+
+2. The contracting authority/entity shall verify those constituent elements by consulting the tenderer, taking account of the evidence supplied.
+
+3. Where a contracting authority/entity establishes that a tender is abnormally low because the tenderer has obtained State aid, the tender can be rejected on that ground alone only after consultation with the tenderer where the latter is unable to prove, within a sufficient time-limit fixed by the contracting authority/entity, that the aid in question was granted legally. Where the contracting authority/entity rejects a tender in those circumstances, it shall inform the Commission thereof.
+
+## CHAPTER I
+
+### Subcontracts awarded by successful tenderers which are not contracting authorities/entities
+
+<a id="art_50"></a>
+
+### Article 50 — Scope
+
+1. Where, in accordance with Article 21(3) and (4), this Title applies, Member States shall take the necessary measures to ensure that successful tenderers which are not contracting authorities/entities apply the rules set out in Articles 51 to 53 when they award subcontracts to third parties.
+
+2. For the purposes of paragraph 1, groups of undertakings which have been formed to obtain the contract, or undertakings related to them, shall not be considered third parties.
+
+2. The tenderer shall include the exhaustive list of such undertakings in the tender. That list shall be updated following any change in the relationship between the undertakings.
+
+<a id="art_51"></a>
+
+### Article 51 — Principles
+
+The successful tenderer shall act transparently and treat all potential subcontractors in an equal and non-discriminatory way.
+
+<a id="art_52"></a>
+
+### Article 52 — Thresholds and rules on advertising
+
+1. When a successful tenderer which is not a contracting authority/entity awards a subcontract which has a value, excluding VAT, estimated not to be lower than the thresholds laid down in Article 8, it shall make known its intention by the way of a notice.
+
+2. Subcontract notices shall contain the information referred to in Annex V and any other information deemed useful by the successful tenderer, if necessary with the approval of the contracting authority/entity.
+
+2. Subcontract notices shall be drawn up in accordance with the standard form adopted by the Commission in accordance with the advisory procedure referred to in Article 67(2).
+
+3. Subcontract notices shall be published in accordance with Article 32(2) to (5).
+
+4. A subcontract notice shall not be required when a subcontract meets the conditions of Article 28.
+
+5. Successful tenderers may publish, in accordance with Article 32, subcontract notices for which advertising is not required.
+
+6. Member States may also provide that the successful tenderer may fulfil the subcontracting requirement set out in Article 21(3) or (4) by awarding subcontracts on the basis of a framework agreement concluded in accordance with the rules set out in Articles 51 and 53 and in paragraphs 1 to 5 of this Article.
+
+6. Subcontracts based on such a framework agreement shall be awarded within the limits of the terms laid down in the framework agreement. They may only be awarded to economic operators that were originally party to the framework agreement. When awarding contracts, the parties shall in all circumstances propose terms consistent with those of the framework agreement.
+
+6. The term of a framework agreement may not exceed seven years, except in exceptional circumstances determined by taking into account the expected service life of any delivered items, installations or systems, and the technical difficulties which a change of supplier may cause.
+
+6. Framework agreements may not be used improperly or in such a way as to prevent, restrict or distort competition.
+
+7. For the award of subcontracts which have a value, excluding VAT, estimated to be less than the thresholds laid down in Article 8, successful tenderers apply the principles of the Treaty regarding transparency and competition.
+
+8. Article 9 shall apply to the calculation of the estimated value of subcontracts.
+
+<a id="art_53"></a>
+
+### Article 53 — Criteria for qualitative selection of subcontractors
+
+In the subcontract notice, the successful tenderer shall indicate the criteria for qualitative selection prescribed by the contracting authority/entity, as well as any other criteria it will apply for the qualitative selection of subcontractors. All these criteria shall be objective, non-discriminatory and consistent with the criteria applied by the contracting authority/entity for the selection of the tenderers for the main contract. The capabilities required must be directly related to the subject of the subcontract, and the levels of ability required must be commensurate with it.
+
+The successful tenderer shall not be required to subcontract if it proves to the satisfaction of the contracting authority/entity that none of the subcontractors participating in the competition or their proposed bids meet the criteria indicated in the subcontract notice and thereby would prevent the successful tenderer from fulfilling the requirements set out in the main contract.
+
+## CHAPTER II
+
+### Subcontracts awarded by successful tenderers which are contracting authorities/entities
+
+<a id="art_54"></a>
+
+### Article 54 — Rules to be applied
+
+Where successful tenderers are contracting authorities/entities, they shall comply with the provisions on main contracts laid down in Titles I and II when they award subcontracts.
+
+## TITLE IV
+
+### RULES TO BE APPLIED TO REVIEWS
+
+<a id="art_55"></a>
+
+### Article 55 — Scope and availability of review procedures
+
+1. The review procedures provided for in this Title apply to the contracts referred to in Article 2, subject to the exceptions provided for in Articles 12 and 13.
+
+2. Member States shall take the measures necessary to ensure that decisions taken by the contracting authorities/entities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles 56 to 62, on the grounds that such decisions have infringed Community law in the field of procurement or national rules transposing that law.
+
+3. Member States shall ensure that there is no discrimination between undertakings claiming harm in the context of a procedure for the award of a contract as a result of the distinction made in this Title between national rules implementing Community law and other national rules.
+
+4. Member States shall ensure that review procedures are available, under detailed rules which Member States may establish, at least to any person having or having had an interest in obtaining a particular contract who has been or risks being harmed by an alleged infringement.
+
+5. Member States may require that the person wishing to use a review procedure has notified the contracting authority/entity of the alleged infringement and of his intention to seek review, provided that this does not affect the standstill period in accordance with Article 57(2) or any other time-limits for applying for review in accordance with Article 59.
+
+6. Member States may require that the person concerned first seek review with the contracting authority/entity. In that case, Member States shall ensure that the submission of such an application for review results in immediate suspension of the possibility to conclude the contract.
+
+6. Member States shall decide on the appropriate means of communication, including fax or electronic means, to be used for the application for review provided for in the first subparagraph.
+
+6. The suspension referred to in the first subparagraph shall not end before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contracting authority/entity has sent a reply if fax or electronic means are used, or, if other means of communication are used, before the expiry of either at least 15 calendar days with effect from the day following the date on which the contracting authority/entity has sent a reply, or at least 10 calendar days with effect from the day following the date of the receipt of a reply.
+
+<a id="art_56"></a>
+
+### Article 56 — Requirements for review procedures
+
+1. Member States shall ensure that the measures taken concerning the review procedures specified in Article 55 include provision for powers:
+
+(a) to take, at the earliest opportunity and by way of interlocutory procedures, interim measures with the aim of correcting the alleged infringement or preventing further injury to the interests concerned, including measures to suspend or to ensure the suspension of the procedure for the award of a contract or the implementation of any decision taken by the contracting authority/entity, and to set aside or ensure the setting aside of decisions taken unlawfully, including the removal of discriminatory technical, economic or financial specifications in the invitation to tender, the contract documents or in any other document relating to the contract award procedure in question; or
+
+(b) to take, at the earliest opportunity, if possible by way of interlocutory procedures and if necessary by a final procedure on the substance, measures other than those provided for in point (a) with the aim of correcting any identified infringement and preventing injury to the interests concerned; in particular, making an order for the payment of a particular sum, in cases where the infringement has not been corrected or prevented.
+
+1. In both the above cases, the powers provided for shall include the power to award damages to persons injured by the infringement.
+
+2. The powers specified in paragraph 1 and Articles 60 and 61 may be conferred on separate bodies responsible for different aspects of the review procedure.
+
+3. When a body of first instance, which is independent of the contracting authority/entity, reviews a contract award decision, Member States shall ensure that the contracting authority/entity cannot conclude the contract before the review body has made a decision on the application either for interim measures or for review. The suspension shall end no earlier than the expiry of the standstill period referred to in Article 57(2) and Article 60(4) and (5).
+
+4. Except where provided for in paragraph 3 of this Article and Article 55(6), review procedures need not necessarily have an automatic suspensive effect on the contract award procedures to which they relate.
+
+5. Member States may provide that the body responsible for review procedures may take into account the probable consequences of interim measures for all interests likely to be harmed, as well as the public interest, in particular defence and/or security interests, and may decide not to grant such measures when their negative consequences could exceed their benefits.
+
+5. A decision not to grant interim measures shall not prejudice any other claim of the person seeking such measures.
+
+6. Member States may provide that where damages are claimed on the grounds that a decision was taken unlawfully, the contested decision must first be set aside by a body having the necessary powers.
+
+7. Except where provided for in Articles 60 to 62, the effects of the exercise of the powers referred to in paragraph 1 of this Article on a contract concluded subsequent to its award shall be determined by national law.
+
+7. Furthermore, except where a decision must be set aside prior to the award of damages, a Member State may provide that, after the conclusion of a contract in accordance with Article 55(6), paragraph 3 of this Article or Articles 57 to 62, the powers of the body responsible for review procedures shall be limited to awarding damages to any person harmed by an infringement.
+
+8. Member States shall ensure that decisions taken by bodies responsible for review procedures can be effectively enforced.
+
+9. Where bodies responsible for review procedures are not judicial in character, written reasons for their decisions shall always be given. Furthermore, in such a case, provision must be made to guarantee procedures whereby any allegedly illegal measure taken by the review body or any alleged defect in the exercise of the powers conferred on it can be the subject of judicial review or review by another body which is a court or tribunal within the meaning of Article 234 of the Treaty and independent of both the contracting authority/entity and the review body.
+
+9. The members of such an independent body shall be appointed and leave office under the same conditions as members of the judiciary as regards the authority responsible for their appointment, their period of office, and their removal. At least the President of this independent body shall have the same legal and professional qualifications as members of the judiciary. The decisions taken by the independent body shall, by means determined by each Member State, be legally binding.
+
+10. Member States shall ensure that the bodies responsible for review procedures guarantee an adequate level of confidentiality of classified information or other information contained in the files transmitted by the parties, and act in conformity with defence and/or security interests throughout the procedure.
+
+10. To this end, Member States may decide that a specific body has sole jurisdiction for the review of contracts in the fields of defence and security.
+
+10. In any case, Member States may provide that only the members of review bodies personally authorised to deal with classified information may examine applications for review involving such information. They may also impose specific security measures concerning the registration of applications for review, the reception of documents and the storage of files.
+
+10. Member States shall determine how review bodies are to reconcile the confidentiality of classified information with respect for the rights of the defence, and, in the case of a judicial review or of a review by a body which is a court or tribunal within the meaning of Article 234 of the Treaty, shall do so in such a way that the procedure complies, as a whole, with the right to a fair trial.
+
+<a id="art_57"></a>
+
+### Article 57 — Standstill period
+
+1. Member States shall ensure that the persons referred to in Article 55(4) have sufficient time for effective review of the contract award decisions taken by contracting authorities/entities, by adopting the necessary provisions respecting the minimum conditions set out in paragraph 2 of this Article and in Article 59.
+
+2. A contract may not be concluded following the decision to award a contract falling within the scope of this Directive before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned if fax or electronic means are used or, if other means of communication are used, before the expiry of a period of either at least 15 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned or at least 10 calendar days with effect from the day following the date of the receipt of the contract award decision.
+
+2. Tenderers shall be deemed to be concerned if they have not yet been definitively excluded. An exclusion is definitive if it has been notified to the tenderers concerned and either has been considered lawful by an independent review body or can no longer be subject to a review procedure.
+
+2. Candidates shall be deemed to be concerned if the contracting authority/entity has not made available information about the rejection of their application before the notification of the contract award decision to the tenderers concerned.
+
+2. The communication of the award decision to each tenderer and candidate concerned shall be accompanied by the following:
+
+— a summary of the relevant reasons as set out in Article 35(2), subject to Article 35(3), and,
+
+— a precise statement of the exact standstill period applicable pursuant to the provisions of national law transposing this paragraph,
+
+<a id="art_58"></a>
+
+### Article 58 — Derogations from the standstill period
+
+Member States may provide that the periods referred to in Article 57(2) do not apply in the following cases:
+
+(a) where this Directive does not require prior publication of a contract notice in the *Official Journal of the European Union*;
+
+(b) where the only tenderer concerned within the meaning of Article 57(2) is the one which is awarded the contract and there are no candidates concerned;
+
+(c) in the case of a contract based on a framework agreement as provided for in Article 29.
+
+If this derogation is invoked, Member States shall ensure that the contract is ineffective in accordance with Articles 60 and 62 where:
+
+— there is an infringement of the second indent of the second subparagraph of Article 29(4), and,
+
+— the contract value is estimated to be equal to or to exceed the thresholds set out in Article 8,
+
+<a id="art_59"></a>
+
+### Article 59 — Time-limits for applying for review
+
+Where a Member State provides that any application for review of a decision of a contracting authority/entity taken in the context of, or in relation to, a contract award procedure falling within the scope of this Directive must be made before the expiry of a specified period, this period shall be at least 10 calendar days with effect from the day following the date on which the decision of the contracting authority/entity is sent to the tenderer or candidate if fax or electronic means are used or, if other means of communication are used, this period shall be either at least 15 calendar days with effect from the day following the date on which the decision of the contracting authority/entity is sent to the tenderer or candidate or at least 10 calendar days with effect from the day following the date of the receipt of the decision of the contracting authority/entity. The communication of the decision of the contracting authority/entity to each tenderer or candidate shall be accompanied by a summary of the relevant reasons. In the case of an application for review concerning decisions referred to in Article 56(1)(b) that are not subject to a specific notification, the time period shall be at least 10 calendar days from the date of the publication of the decision concerned.
+
+<a id="art_60"></a>
+
+### Article 60 — Ineffectiveness
+
+1. Member States shall ensure that a contract is considered ineffective by a review body independent of the contracting authority/entity or that its ineffectiveness is the result of a decision of such a review body in any of the following cases:
+
+(a) where the contracting authority/entity has awarded a contract without prior publication of a contract notice in the *Official Journal of the European Union* without this being permissible in accordance with this Directive;
+
+(b) in the case of an infringement of Article 55(6), Article 56(3) or Article 57(2), where this infringement has deprived the tenderer applying for review of the possibility to pursue pre-contractual remedies where such an infringement is combined with another infringement of Titles I or II, if that infringement has affected the chances of the tenderer applying for a review to obtain the contract;
+
+(c) in the cases referred to in the second subparagraph of Article 58(c), where Member States have invoked the derogation from the standstill period for contracts based on a framework agreement.
+
+2. The consequences of a contract being considered ineffective shall be provided for by national law. National law may provide for the retroactive cancellation of all contractual obligations or limit the scope of the cancellation to those obligations which still have to be performed. In the latter case, Member States shall provide for the application of alternative penalties within the meaning of Article 61(2).
+
+3. Member States may provide that the review body independent of the contracting authority/entity may not consider a contract ineffective, even though it has been awarded illegally on the grounds mentioned in paragraph 1, if the review body finds, after having examined all relevant aspects, that overriding reasons relating to a general interest, first and foremost in connection with defence and/or security interests, require that the effects of the contract should be maintained.
+
+3. Economic interests in the effectiveness of the contract may only be considered as overriding reasons relating to a general interest within the meaning of the first subparagraph, if ineffectiveness would lead to disproportionate consequences.
+
+3. However, economic interests directly linked to the contract concerned shall not constitute overriding reasons relating to a general interest within the meaning of the first subparagraph. Economic interests directly linked to the contract include, *inter alia*, the costs resulting from the delay in the execution of the contract, the costs resulting from the launching of a new procurement procedure, the costs resulting from the change of the economic operator performing the contract and the costs of legal obligations resulting from the ineffectiveness.
+
+3. In any event, a contract may not be considered ineffective if the consequences of this ineffectiveness would seriously endanger the very existence of a wider defence or security programme which is essential for a Member State’s security interests.
+
+3. In all the abovementioned cases, Member States shall provide for alternative penalties within the meaning of Article 61(2), which shall be applied instead.
+
+4. Member States shall provide that paragraph 1(a) does not apply where:
+
+— the contracting authority/entity considers that the award of a contract without prior publication of a contract notice in the *Official Journal of the European Union* is permissible in accordance with this Directive,
+
+— the contracting authority/entity has published in the *Official Journal of the European Union* a notice as described in Article 64 expressing its intention to conclude the contract, and,
+
+— the contract has not been concluded before the expiry of a period of at least 10 calendar days with effect from the day following the date of the publication of this notice,
+
+5. Member States shall provide that paragraph 1(c) does not apply where:
+
+— the contracting authority/entity considers that the award of a contract is in accordance with the second indent of the second subparagraph of Article 29(4),
+
+— the contracting authority/entity has sent a contract award decision, together with a summary of reasons as referred to in the first indent of the fourth subparagraph of Article 57(2), to the tenderers concerned, and,
+
+— the contract has not been concluded before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers concerned if fax or electronic means are used or, if other means of communications are used, before the expiry of a period of either at least 15 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers concerned or at least 10 calendar days with effect from the day following the date of the receipt of the contract award decision.
+
+<a id="art_61"></a>
+
+### Article 61 — Infringements of this Title and alternative penalties
+
+1. In the case of an infringement of Article 55(6), Article 56(3) or Article 57(2) which is not covered by Article 60(1)(b), Member States shall provide for ineffectiveness in accordance with Article 60(1) to (3), or for alternative penalties. Member States may provide that the review body independent of the contracting authority/entity shall decide, after having assessed all relevant aspects, whether the contract should be considered ineffective or whether alternative penalties should be imposed.
+
+2. Alternative penalties must be effective, proportionate and dissuasive. Alternative penalties shall be:
+
+— the imposition of fines on the contracting authority/entity, or,
+
+— the shortening of the duration of the contract,
+
+2. Member States may confer on the review body broad discretion to take into account all the relevant factors, including the seriousness of the infringement, the behaviour of the contracting authority/entity and, in the cases referred to in Article 60(2), the extent to which the contract remains in force.
+
+2. The award of damages does not constitute an appropriate penalty for the purposes of this paragraph.
+
+<a id="art_62"></a>
+
+### Article 62 — Time-limits
+
+1. Member States may provide that the application for review in accordance with Article 60(1) must be made:
+
+(a) before the expiry of at least 30 calendar days with effect from the day following the date on which:
+
+— the contracting authority/entity published a contract award notice in accordance with Articles 30(3), 31 and 32, provided that this notice includes justification of the decision of the contracting authority/entity to award the contract without prior publication of a contract notice in the *Official Journal of the European Union*, or
+
+— the contracting authority/entity informed the tenderers and candidates concerned of the conclusion of the contract, provided that this information contains a summary of the relevant reasons as set out in Article 35(2), subject to Article 35(3). This option also applies to the cases referred to in Article 58(c); and
+
+(b) in any case, before the expiry of a period of at least 6 months with effect from the day following the date of the conclusion of the contract.
+
+2. In all other cases, including applications for a review in accordance with Article 61(1), the time-limits for the application for a review shall be determined by national law, subject to Article 59.
+
+<a id="art_63"></a>
+
+### Article 63 — Corrective mechanism
+
+1. The Commission may invoke the procedure provided for in paragraphs 2 to 5 when, prior to a contract being concluded, it considers that a serious infringement of Community law in the field of procurement has been committed during a contract award procedure falling within the scope of this Directive.
+
+2. The Commission shall notify the Member State concerned of the reasons which have led it to conclude that a serious infringement has been committed and request its correction by appropriate means.
+
+3. Within 21 calendar days of receipt of the notification referred to in paragraph 2, the Member State concerned shall communicate to the Commission:
+
+(a) its confirmation that the infringement has been corrected;
+
+(b) a reasoned submission as to why no correction has been made; or
+
+(c) a notice to the effect that the contract award procedure has been suspended either by the contracting authority/entity on its own initiative or on the basis of the powers specified in Article 56(1)(a).
+
+4. A reasoned submission communicated pursuant to paragraph 3(b) may rely among other matters on the fact that the alleged infringement is already the subject of judicial or other review proceedings or of a review as referred to in Article 56(9). In such a case, the Member State shall inform the Commission of the result of those proceedings as soon as it becomes known.
+
+5. Where notice has been given that a contract award procedure has been suspended in accordance with paragraph 3(c), the Member State concerned shall notify the Commission when the suspension is lifted or another contract procedure relating in whole or in part to the same subject-matter is begun. That new notification shall confirm that the alleged infringement has been corrected or include a reasoned submission as to why no correction has been made.
+
+<a id="art_64"></a>
+
+### Article 64 — Content of a notice for voluntary ex ante transparency
+
+The notice referred to in the second indent of Article 60(4), the format of which shall be adopted by the Commission in accordance with the advisory procedure referred to in Article 67(2), shall contain the following information:
+
+(a) the name and contact details of the contracting authority/entity;
+
+(b) a description of the object of the contract;
+
+(c) a justification of the decision of the contracting authority/entity to award the contract without prior publication of a contract notice in the *Official Journal of the European Union*;
+
+(d) the name and contact details of the economic operator in favour of which a contract award decision has been taken; and
+
+(e) where appropriate, any other information deemed useful by the contracting authority/entity.
+
+## TITLE V
+
+### STATISTICAL OBLIGATIONS, EXECUTORY POWERS AND FINAL PROVISIONS
+
+<a id="art_65"></a>
+
+### Article 65 — Statistical obligations
+
+In order to permit assessment of the results of applying this Directive, Member States shall forward to the Commission a statistical report, prepared in accordance with Article 66, addressing supply, services and works contracts awarded by contracting authorities/entities during the preceding year, by no later than 31 October of each year,
+
+<a id="art_66"></a>
+
+### Article 66 — Content of the statistical report
+
+The statistical report shall specify the number and value of contracts awarded, by Member State or third country of the successful tenderer. It shall address, separately, supply, services and works contracts.
+
+The data referred to in the first paragraph shall be broken down by procedure used and shall specify, for each procedure, supplies, services and works identified by group of the CPV nomenclature.
+
+Where contracts have been concluded in accordance with the negotiated procedure without publication of a contract notice, the data referred to in the first paragraph shall also be broken down by the circumstances referred to in Article 28.
+
+The content of the statistical report shall be determined in accordance with the advisory procedure referred to in Article 67(2).
+
+<a id="art_67"></a>
+
+### Article 67 — Committee procedure
+
+1. The Commission shall be assisted by the Advisory Committee for Public Contracts set up by Article 1 of Council Decision 71/306/EEC (26) (the Committee).
+
+2. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3. With regard to the revision of the thresholds laid down in Article 8, the time-limits laid down in Article 5a(3)(c), (4)(b) and (e) of Decision 1999/468/EC shall be set at four, two and six weeks respectively, in view of the time constraints resulting from the calculation and publication methods laid down in the second subparagraph of Article 69(1) and Article 69(3) of Directive 2004/17/EC.
+
+4. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+<a id="art_68"></a>
+
+### Article 68 — Revision of thresholds
+
+1. At the same time as the revision of the thresholds laid down in Directive 2004/17/EC referred to in Article 69 thereof, the Commission shall also revise the thresholds laid down in Article 8 of this Directive by aligning:
+
+(a) the threshold established in Article 8(a) of this Directive to the revised threshold laid down in Article 16(a) of Directive 2004/17/EC;
+
+(b) the threshold established in Article 8(b) of this Directive to the revised threshold laid down in Article 16(b) of Directive 2004/17/EC.
+
+1. Such revision and alignment, designed to amend non-essential elements of this Directive, shall be carried out in accordance with the regulatory procedure with scrutiny referred to in Article 67(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 67(4).
+
+2. The value of the thresholds set pursuant to paragraph 1 in the national currencies of Member States which do not participate in the euro shall be aligned to the values of the thresholds laid down in Directive 2004/17/EC referred to in paragraph 1, calculated in accordance with the second subparagraph of Article 69(2) of Directive 2004/17/EC.
+
+3. The revised thresholds referred to in paragraph 1 and their corresponding values in national currencies shall be published by the Commission in the *Official Journal of the European Union* at the beginning of the November following their revision.
+
+<a id="art_69"></a>
+
+### Article 69 — Amendments
+
+1. In accordance with the advisory procedure referred to in Article 67(2), the Commission may amend:
+
+(a) the procedures for the drawing-up, transmission, receipt, translation, collection and distribution of the notices referred to in Article 30 and the statistical reports provided for in Article 65;
+
+(b) the procedure for sending and publishing the data referred to in Annex VI on grounds of technical progress or for administrative reasons;
+
+(c) the list of registers, declarations and certificates set out in Annex VII, when, on the basis of notifications from Member States, this proves necessary.
+
+2. Acting in accordance with the regulatory procedure with scrutiny referred to in Article 67(3), the Commission may amend the following non-essential elements of this Directive:
+
+(a) the reference numbers in the CPV nomenclature set out in Annexes I and II, insofar as this does not change the material scope of this Directive, and the procedures for reference in the notices to particular headings in the CPV within the categories of services listed in those Annexes;
+
+(b) the technical details and characteristics of the devices for electronic receipt referred to in points (a), (f) and (g) of Annex VIII.
+
+2. On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 67(4).
+
+<a id="art_70"></a>
+
+### Article 70 — Amendment to Directive 2004/17/EC
+
+The following Article shall be inserted in Directive 2004/17/EC:
+
+‘Article 22a
+
+Contracts in the fields of defence and security
+
+This Directive shall not apply to contracts to which Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security (27) applies, nor to contracts to which that Directive does not apply pursuant to Articles 8, 12 and 13 thereof.
+
+<a id="art_71"></a>
+
+### Article 71 — Amendment to Directive 2004/18/EC
+
+Article 10 of Directive 2004/18/EC shall be replaced by the following:
+
+‘Article 10
+
+Contracts in the fields of defence and security
+
+Subject to Article 296 of the Treaty, this Directive shall apply to public contracts awarded in the fields of defence and security, with the exception of contracts to which Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security (28) applies.
+
+This Directive shall not apply to contracts to which Directive 2009/81/EC does not apply pursuant to Articles 8, 12 and 13 thereof.
+
+<a id="art_72"></a>
+
+### Article 72 — Transposition
+
+1. By 21 August 2011, Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those measures.
+
+1. When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+<a id="art_73"></a>
+
+### Article 73 — Review and reporting
+
+1. By 21 August 2012, the Commission shall report on the measures taken by Member States with a view to the transposition of this Directive, and in particular Article 21 and Articles 50 to 54 thereof.
+
+2. The Commission shall review the implementation of this Directive and report thereon to the European Parliament and the Council by 21 August 2016. It shall evaluate in particular whether, and to what extent, the objectives of this Directive have been achieved with regard to the functioning of the internal market and the development of a European defence equipment market and a European Defence Technological and Industrial Base, having regard, *inter alia*, to the situation of small and medium-sized enterprises. Where appropriate, the report shall be accompanied by a legislative proposal.
+
+3. The Commission shall also review the application of Article 39(1), investigating in particular the feasibility of harmonising the conditions for the reinstatement of candidates or tenderers with prior convictions excluding them from participation in public procurements, and shall, if appropriate, bring forward, a legislative proposal to that effect.
+
+<a id="art_74"></a>
+
+### Article 74 — Entry into force
+
+This Directive shall enter into force on the day following its publication in the *Official Journal of the European Union*.
+
+<a id="art_75"></a>
+
+### Article 75 — Addressees
+
+This Directive is addressed to the Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+
+
+<a id="services_referred_to_in_articles_2_and_15"></a>
+
+### Services referred to in Articles 2 and 15
+
+| Category No | Subject | CPV Reference No |
+| --- | --- | --- |
+| 1 | Maintenance and repair services | 50000000-5, from 50100000-6 to 50884000-5 (except from 50310000-1 to 50324200-4 and 50116510-9, 50190000-3, 50229000-6, 50243000-0) and from 51000000-9 to 51900000-1 |
+| 2 | Foreign military-aid-related services | 75211300-1 |
+| 3 | Defence services, military defence services and civil defence services | 75220000-4, 75221000-1, 75222000-8 |
+| 4 | Investigation and security services | From 79700000-1 to 79720000-7 |
+| 5 | Land transport services | 60000000-8, from 60100000-9 to 60183000-4 (except 60160000-7, 60161000-4), and from 64120000-3 to 64121200-2 |
+| 6 | Air transport services of passengers and freight, except transport of mail | 60400000-2, from 60410000-5 to 60424120-3 (except 60411000-2, 60421000-5), from 60440000-4 to 60445000-9 and 60500000-3 |
+| 7 | Transport of mail by land and by air | 60160000-7, 60161000-4, 60411000-2, 60421000-5 |
+| 8 | Rail transport services | From 60200000-0 to 60220000-6 |
+| 9 | Water transport services | From 60600000-4 to 60653000-0, and from 63727000-1 to 63727200-3 |
+| 10 | Supporting and auxiliary transport services | From 63100000-0 to 63111000-0, from 63120000-6 to 63121100-4, 63122000-0, 63512000-1 and from 63520000-0 to 6370000-6 |
+| 11 | Telecommunication services | From 64200000-8 to 64228200-2, 72318000-7, and from 72700000-7 to 72720000-3 |
+| 12 | Financial services: Insurance services | From 66500000-5 to 66720000-3 |
+| 13 | Computer and related services | From 50310000-1 to 50324200-4, from 72000000-5 to 72920000-5 (except 72318000-7 and from 72700000-7 to 72720000-3), 79342410-4, 9342410-4 |
+| 14 | Research and development services (1) and evaluation tests | From 73000000-2 to 73436000-7 |
+| 15 | Accounting, auditing and bookkeeping services | From 79210000-9 to 79212500-8 |
+| 16 | Management consulting services (2) and related services | From 73200000-4 to 73220000-0, from 79400000-8 to 79421200-3 and 79342000-3, 79342100-4, 79342300-6, 79342320-2, 79342321-9, 79910000-6, 79991000-7 and 98362000-8 |
+| 17 | Architectural services; engineering services and integrated engineering services; urban planning and landscape engineering services; related scientific and technical consulting services; technical testing and analysis services | From 71000000-8 to 71900000-7 (except 71550000-8) and 79994000-8 |
+| 18 | Building-cleaning services and property management services | From 70300000-4 to 70340000-6 and from 90900000-6 to 90924000-0 |
+| 19 | Sewage and refuse disposal services; sanitation and similar services | From 90400000-1 to 90743200-9 (except 90712200-3), from 90910000-9 to 90920000-2 and 50190000-3, 50229000-6, 50243000-0 |
+| 20 | Training and simulation services in the fields of defence and security | 80330000-6, 80600000-0, 80610000-3, 80620000-6, 80630000-9, 80640000-2, 80650000-5, 80660000-8 |
+| (1) Except research and development services referred to in Article 13(j).(2) Except arbitration and conciliation services. |  |  |
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+
+
+<a id="services_referred_to_in_articles_2_and_16"></a>
+
+### Services referred to in Articles 2 and 16
+
+| Category No | Subject | CPV Reference No |
+| --- | --- | --- |
+| 21 | Hotel and restaurant services | From 55100000-1 to 55524000-9 and from 98340000-8 to 98341100-6 |
+| 22 | Supporting and auxiliary transport services | From 63000000-9 to 63734000-3 (except 63711200-8, 63712700-0, 63712710-3), from 63727000-1 to 63727200-3 and 98361000-1 |
+| 23 | Legal services | From 79100000-5 to 79140000-7 |
+| 24 | Personnel placement and supply services (1) | From 79600000-0 to 79635000-4 (except 79611000-0, 79632000-3, 79633000-0) and from 98500000-8 to 98514000-9 |
+| 25 | Health and social services | 79611000-0 and from 85000000-9 to 85323000-9 (except 85321000-5, 85322000-2) |
+| 26 | Other services |  |
+| (1) Except employment contracts. |  |  |
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+
+
+<a id="definition_of_certain_technical_specifications_referred_to_in_article_18"></a>
+
+### Definition of certain technical specifications referred to in Article 18
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) ‘Technical specifications’, in the case of works contracts: the totality of the technical prescriptions contained in particular in the tender documents, defining the characteristics required of a material, product or supply, which permits a material, a product or a supply to be described in a manner such that it fulfils the use for which it is intended by the contracting authority/entity. These characteristics shall include levels of environmental performance, design for all requirements (including accessibility for people with disabilities) and conformity assessment, performance, safety or dimensions, including the procedures concerning quality assurance, terminology, symbols, testing and test methods, packaging, marking and labelling and production processes and methods. They shall also include rules relating to design and costing, the test, inspection and acceptance conditions for works and techniques or methods of construction and all other technical conditions which the contracting authority/entity is in a position to prescribe, under general or specific regulations, in relation to the finished works and to the materials or parts which they involve;
+
+(b) ‘Technical specification’, in the case of supply or service contracts: a specification in a document defining the required characteristics of a product or service, such as quality and environmental performance levels, design for all requirements (including accessibility for people with disabilities), and conformity-assessment, performance, use of the product, its safety or dimensions, including requirements relevant to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking and labelling, user instructions, production methods and procedures, as well as conformity assessment procedures;
+
+2. ‘Standard’: a technical specification approved by a recognised standardisation body for repeated or continuous application, compliance with which is not compulsory, from one of the following categories:
+
+— international standard: a standard adopted by an international standards organisation and made available to the general public,
+
+— European standard: a standard adopted by a European standardisation body and made available to the general public,
+
+— national standard: a standard adopted by a national standards organisation and made available to the general public,
+
+3. ‘Defence standard’: a technical specification the observance of which is not compulsory and which is approved by a standardisation body specialising in the production of technical specifications for repeated or continuous application in the field of defence;
+
+4. ‘European technical approval’: a favourable technical assessment of the fitness for use of a product for a specific purpose, based on fulfilment of the essential requirements for building works, by means of the inherent characteristics of the product and the defined conditions of application and use. European technical approvals are issued by an approval body designated for this purpose by the Member State;
+
+5. ‘Common technical specification’: a technical specification laid down in accordance with a procedure recognised by Member States which has been published in the *Official Journal of the European Union*;
+
+6. ‘Technical reference’: any product produced by European standardisation bodies, other than official standards, according to procedures adapted to developments in market needs.
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+
+
+<a id="information_to_be_included_in_the_notices_referred_to_in_article_30"></a>
+
+### Information to be included in the notices referred to in Article 30
+
+NOTICE OF PUBLICATION OF A PRIOR INFORMATION NOTICE ON A BUYER PROFILE
+
+1. Country of the contracting authority/entity
+
+2. Name of the contracting authority/entity
+
+3. Internet address of the ‘buyer profile’ (URL)
+
+4. CPV nomenclature reference no(s)
+
+PRIOR INFORMATION NOTICE
+
+1. The name, address, fax number and e-mail address of the contracting authority/entity and, if different, of the service from which additional information may be obtained and, in the case of services and works contracts, of the departments, e.g. the relevant governmental Internet site, from which information can be obtained concerning the general regulatory framework for taxes, environmental protection, employment protection and working conditions applicable in the place where the contract is to be performed.
+
+2. Where appropriate, indication whether the contract is restricted to sheltered workshops, or whether its execution is restricted to the framework of protected job programmes.
+
+3. In the case of works contracts: the nature and extent of the works and the place of execution; if the work is to be subdivided into several lots, the essential characteristics of those lots by reference to the work; if available, an estimate of the range of the cost of the proposed works; CPV nomenclature reference no(s).
+
+In the case of supply contracts: the nature and quantity or value of the products to be supplied, CPV nomenclature reference no(s).
+
+In the case of services contracts: the total value of the proposed purchases in each of the service categories, CPV nomenclature reference no(s).
+
+4. Estimated date for initiating the award procedures in respect of the contract or contracts, in the case of service contracts by category.
+
+5. Where appropriate, indicate whether a framework agreement is involved.
+
+6. Where appropriate, other information.
+
+7. Date of dispatch of the notice or of dispatch of the notice of publication of the prior information notice on the buyer profile.
+
+CONTRACT NOTICES
+
+Restricted procedures, negotiated procedures with publication of a contract notice and competitive dialogues:
+
+1. Name, address, telephone and fax number, e-mail address of the contracting authority/entity.
+
+2. Where appropriate, indication whether the contract is restricted to sheltered workshops, or whether its execution is restricted to the framework of protected job programmes.
+
+(a) The award procedure chosen;
+
+(b) Where appropriate, the reasons for use of the accelerated procedure (in restricted and negotiated procedures);
+
+(c) Where appropriate, indicate whether a framework agreement is involved;
+
+(d) Where appropriate, the holding of an electronic auction.
+
+4. Form of the contract.
+
+5. Place of execution/performance of the works, for delivery of products or of the provision of services.
+
+(a) Works contracts:
+
+— nature and extent of the works and general nature of the work. Indication in particular of options concerning supplementary works, and, if known, the provisional timetable for recourse to these options as well as the number of possible renewals, if any. If the work or the contract is subdivided into several lots, the size of the different lots; CPV nomenclature reference no(s),
+
+— information concerning the purpose of the work or the contract where the latter also involves the drawing up of projects,
+
+— in the case of a framework agreement, indication also of the planned duration of the framework agreement, the estimated total value of the works for the entire duration of the framework agreement and, as far as possible, the value and the frequency of the contracts to be awarded.
+
+(b) Supply contracts:
+
+— nature of the products to be supplied, indicating in particular whether tenders are requested with a view to purchase, lease rental, hire or hire purchase or a combination of these, CPV nomenclature reference no(s). Quantity of products to be supplied, indicating in particular options concerning supplementary purchases and, if known, the provisional timetable for recourse to these options as well as the number of renewals, if any; CPV nomenclature reference no(s),
+
+— in the case of regular or renewable contracts during the course of a given period, indication also, if known, of the timetable for subsequent contracts for intended purchases of supplies,
+
+— in the case of a framework agreement, indication also of the planned duration of the framework agreement, the estimated total value of the supplies for the entire duration of the framework agreement and, as far as possible, the value and the frequency of the contracts to be awarded.
+
+(c) Service contracts:
+
+— category and description of the service. CPV nomenclature reference no(s). Quantity of services to be provided. Indication in particular of options concerning supplementary purchases and, if known, the provisional timetable for recourse to these options as well as the number of renewals, if any. In the case of renewable contracts over a given period, an estimate of the time frame, if known, for subsequent contracts for intended purchases of services.
+
+— In the case of a framework agreement, indication also of the planned duration of the framework agreement, the estimated total value of the services for the entire duration of the framework agreement and, as far as possible, the value and the frequency of the contracts to be awarded,
+
+— indication of whether the execution of the service is reserved by law, regulation or administrative provision to a particular profession,
+
+— Reference to the law, regulation or administrative provision,
+
+— indication of whether legal persons should indicate the names and professional qualifications of the staff to be responsible for the execution of the service,
+
+7. If the contracts are subdivided into lots, indication of the possibility for economic operators of tendering for one, for several and/or for all the lots.
+
+8. Admission or prohibition of variants.
+
+9. Where applicable, indication of the percentage of the contract’s global value which is required to be subcontracted to third parties through a tendering procedure (Article 21(4)).
+
+10. Where applicable, selection criteria regarding the personal situation of subcontractors that may lead to their exclusion, and required information proving that they do not fall within the cases justifying exclusion. Information and any necessary formalities for assessment of the minimum economic and technical capacities required of the subcontractors. Minimum level(s) of capacities possibly required.
+
+11. Time-limit for completion of works/supplies/services or duration of the works/supply/services contract. Where possible, time-limit by which works will begin or time-limit by which delivery of supplies or services will begin.
+
+12. Where applicable, particular conditions to which the performance of the contract is subject.
+
+(a) The final date for the receipt of requests to participate;
+
+(b) address to which they must be sent;
+
+(c) the language or languages in which they must be drawn up.
+
+14. Where applicable, any deposits and guarantees required.
+
+15. Main terms concerning financing and payment and/or references to the texts in which these are contained.
+
+16. Where applicable, the legal form to be taken by the grouping of economic operators to which the contract is to be awarded.
+
+17. Selection criteria regarding the personal situation of economic operators that may lead to their exclusion, and information required proving that they do not fall within the cases justifying exclusion. Selection criteria, information and any necessary formalities for assessment of the minimum economic and technical standards required of the economic operator. Minimum level(s) of standards possibly required.
+
+18. In the case of framework agreements: the number and, where appropriate, proposed maximum number of economic operators which will be members of it and the duration of the framework agreement.
+
+19. In the case of a competitive dialogue or a negotiated procedure with the publication of a contract notice, indication, if appropriate, of recourse to a staged procedure in order gradually to reduce the number of solutions to be discussed or tenders to be negotiated.
+
+20. In the case of a restricted procedure, a negotiated procedure or a competitive dialogue, when recourse is had to the option of reducing the number of candidates to be invited to submit tenders, to engage in dialogue or to negotiate: minimum and, if appropriate, proposed maximum number of candidates and objective criteria to be used to choose that number of candidates.
+
+21. Criteria referred to in Article 47 to be used for award of the contract: ‘lowest price’ or ‘most economically advantageous tender’. Criteria representing the most economically advantageous tender as well as their weighting or the criteria in descending order of importance shall be mentioned where they do not appear in the specifications or, in the event of a competitive dialogue, in the descriptive document.
+
+22. Where appropriate, date(s) of publication of the prior information notice in accordance with the technical specifications of publication indicated in Annex VI or statement that no such publication was made.
+
+23. Date of dispatch of the notice.
+
+CONTRACT AWARD NOTICE
+
+1. Name and address of the contracting authority/entity.
+
+2. Award procedure chosen. In the case of a negotiated procedure without prior publication of a contract notice (Article 28), justification.
+
+3. Works contracts: nature and extent of the services.
+
+Supply contracts: nature and quantity of products supplied, where appropriate, by the supplier; CPV nomenclature reference no(s).
+
+Service contracts: category and description of the service; CPV nomenclature reference no(s); quantity of services purchased.
+
+4. Date of contract award.
+
+5. Contract award criteria.
+
+6. Number of tenders received.
+
+7. Name and address of the successful economic operators.
+
+8. Price or range of prices (minimum/maximum) paid.
+
+9. Value of the tender (tenders) retained or the highest tender and lowest tender taken into consideration for the contract award.
+
+10. Where appropriate, proportion of contract to be subcontracted to third parties and its value.
+
+11. If appropriate, the reasons for the framework agreement lasting more than seven years.
+
+12. Date of publication of the tender notice in accordance with the technical specifications for publication in Annex VI.
+
+13. Date of dispatch of this notice.
+
+<a id="anx_v"></a>
+
+### ANNEX V
+
+
+
+<a id="information_to_be_included_in_the_subcontract_notices_referred_to_in_article_52"></a>
+
+### Information to be included in the subcontract notices referred to in Article 52
+
+1. The name, address, fax number and e-mail address of the successful tenderer and, if different, of the service from which additional information may be obtained.
+
+(a) Place of execution/performance of the works, for delivery of products or of the provision of services;
+
+(b) nature, quantity and extent of the works and general nature of the work; CPV nomenclature reference no(s);
+
+(c) nature of the products to be supplied, indicating whether tenders are requested with a view to purchase, lease rental, hire or hire purchase or a combination of these, CPV nomenclature reference no(s);
+
+(d) category and description of service; CPV nomenclature reference no(s).
+
+3. Any time-limit for completion imposed.
+
+4. Name and address of the body from which the specifications and the additional documents may be requested.
+
+(a) Time-limit for the receipt of applications to participate and/or the receipt of tenders;
+
+(b) address to which they must be sent;
+
+(c) language(s) in which they must be written.
+
+6. Any deposits or guarantees required.
+
+7. Objective criteria which will be applied for selection of the subcontractors related to their personal situation or the assessment of their bid.
+
+8. Any other information.
+
+9. Date of dispatch of the notice.
+
+<a id="anx_vi"></a>
+
+### ANNEX VI
+
+
+
+<a id="features_concerning_publication"></a>
+
+### FEATURES CONCERNING PUBLICATION
+
+1. Publication of notices
+
+(a) The notices referred to in Articles 30 and 52 must be sent by the contracting authorities/entities or successful tenderers to the Publications Office of the European Union in the format referred to in Article 32. The prior information notices referred to in Article 30(1), first subparagraph, published on a buyer profile as described in point 2, must also use that format, as must the notice of such publication.
+
+The notices referred to in Articles 30 and 52 must be published by the Office for Publications Office of the European Union or by the contracting authorities/entities in the case of a prior information notice published on a buyer profile in accordance with the first subparagraph of Article 30(1).
+
+In addition, contracting authorities/entities may publish this information on the Internet on a ‘buyer profile’ as referred to in point 2;
+
+(b) the Office for Publications Office of the European Union shall give the contracting authority/entity the confirmation of publication referred to in Article 32(8).
+
+2. Publication of supplementary information
+
+The buyer profile may include prior information notices as referred to in Article 30(1), first subparagraph, information on ongoing invitations to tender, scheduled purchases, contracts concluded, procedures cancelled and any useful general information, such as a contact point, a telephone and fax number, a postal address and an e-mail address.
+
+3. Format and procedures for sending notices electronically
+
+The format and procedure for sending notices electronically are accessible at the Internet address ‘http://simap.europa.eu’.
+
+<a id="anx_vii"></a>
+
+### ANNEX VII
+
+
+
+<a id="registers_29"></a>
+
+### REGISTERS (29)
+
+PART A
+
+Works contracts
+
+The professional registers and corresponding declarations and certificates for each Member State are:
+
+— in Belgium the ‘Registre du Commerce’/‘Handelsregister’,
+
+— in Bulgaria, the ‘Търговски регистър’,
+
+— in the Czech Republic, the ‘obchodní rejstřík’,
+
+— in Denmark, the ‘Erhvervs- og Selskabsstyrelsen’,
+
+— in Germany, the ‘Handelsregister’ and the ‘Handwerksrolle’,
+
+— in Estonia, the ‘Registrite ja Infosüsteemide Keskus’,
+
+— in Ireland, the contractor may be requested to provide a certificate from the Registrar of Companies or the Registrar of Friendly Societies or, if he is not so certified, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established, in a specific place under a given business name,
+
+— in Greece, the ‘Μητρώο Εργοληπτικών Επιχειρήσεων — MEΕΠ’ of the Ministry for Environment, Town and Country Planning and Public Works (Υ.ΠΕ.ΧΩ.Δ.Ε),
+
+— in Spain, the ‘Registro Oficial de Licitadores y Empresas Clasificadas del Estado’,
+
+— in France, the ‘Registre du commerce et des sociétés’ and the ‘Répertoire des métiers’,
+
+— in Italy, the ‘Registro della Camera di commercio, industria, agricoltura e artigianato’,
+
+— in Cyprus, the contractor may be requested to provide a certificate from the ‘Council for the Registration and Audit of Civil Engineering and Building Contractors (Συμβούλιο Εγγραφήςκαι Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων)’ in accordance with the Registration and Audit of Civil Engineering and Building Contractors Law,
+
+— in Latvia, the ‘Uzņēmumu reģistrs’,
+
+— in Lithuania, the ‘Juridinių asmenų registras’,
+
+— in Luxembourg, the ‘Registre aux firmes’ and the ‘Rôle de la Chambre des métiers’,
+
+— in Hungary, the ‘Cégnyilvántartás’, the ‘egyéni vállalkozók jegyzői nyilvántartása’,
+
+— in Malta, the contractor obtains his ‘numru ta’ registrazzjoni tat-Taxxa tal-Valur Miżjud (VAT) u n-numru tal-licenzja ta’ kummerc’, and, in the case of a partnership or company, the relevant registration number as issued by the Malta Financial Services Authority,
+
+— in the Netherlands, the ‘Handelsregister’,
+
+— in Austria, the ‘Firmenbuch’, the ‘Gewerberegister’, the ‘Mitgliederverzeichnisse der Landeskammern’,
+
+— in Poland, the ‘Krajowy Rejestr Sądowy’,
+
+— in Portugal, the ‘Instituto da Construção e do Imobiliário’ (INCI),
+
+— in Romania, the ‘Registrul Comerțului’,
+
+— in Slovenia, the ‘Sodni register’ and the ‘obrtni register’,
+
+— in Slovakia, the ‘Obchodný register’,
+
+— in Finland, the ‘Kaupparekisteri’/‘Handelsregistret’,
+
+— in Sweden, the ‘aktiebolags-, handels- eller föreningsregistren’,
+
+— in the United Kingdom, the contractor may be requested to provide a certificate from the Registrar of Companies or, if he is not so certified, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established in a specific place under a given business name.
+
+PART B
+
+Supply contracts
+
+The relevant professional and trade registers and declarations and certificates are:
+
+— in Belgium the ‘Registre du Commerce’/‘Handelsregister’,
+
+— in Bulgaria, the ‘Търговски регистър’,
+
+— in the Czech Republic, the ‘obchodní rejstřík’,
+
+— in Denmark, the ‘Erhvervs- og Selskabsstyrelsen’,
+
+— in Germany, the ‘Handelsregister’ and the ‘Handwerksrolle’,
+
+— in Estonia, the ‘Registrite ja Infosüsteemide Keskus’,
+
+— in Greece, the ‘Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο’ and the ‘Μητρώο Κατασκευαστών Αμυντικού Υλικού’,
+
+— in Spain, the ‘Registro Mercantil’ or, in the case of non-registered individuals, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question,
+
+— in France, the ‘Registre du commerce et des sociétés’ and the ‘Répertoire des métiers’,
+
+— in Ireland, the supplier may be requested to provide a certificate from the Registrar of Companies or the Registrar of Friendly Societies that he is certified as incorporated or registered or, if he is not so certified, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established, in a specific place under a given business name,
+
+— in Italy, the ‘Registro della Camera di commercio, industria, agricoltura e artigianato’, and the ‘Registro delle commissioni provinciali per l’artigianato’,
+
+— in Cyprus, the supplier may be requested to provide a certificate from the ‘Registrar of Companies and Official Receiver’ (Έφορος Εταιρειών και ΕπίσημοςΠαραλήπτης) or, if this is not the case, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established, in a specific place and under a given business name,
+
+— in Latvia, the ‘Uzņēmumu reģistrs’,
+
+— in Lithuania, the ‘Juridinių asmenų registras’,
+
+— in Luxembourg, the ‘Registre aux firmes’ and the ‘Rôle de la Chambre des métiers’,
+
+— in Hungary, the ‘Cégnyilvántartás’, the ‘egyéni vállalkozók jegyzői nyilvántartása’,
+
+— in Malta: the supplier obtains his ‘numru ta’ registrazzjoni tat-Taxxa tal-Valur Miżjud (VAT) u n-numru tal-licenzja ta’ kummerc’, and, in the case of a partnership or company, the relevant registration number as issued by the Malta Financial Services Authority,
+
+— in the Netherlands, the ‘Handelsregister’,
+
+— in Austria, the ‘Firmenbuch’, the ‘Gewerberegister’, the ‘Mitgliederverzeichnisse der Landeskammern’,
+
+— in Poland, the ‘Krajowy Rejestr Sądowy’,
+
+— in Portugal, the ‘Registro Nacional das Pessoas Colectivas’,
+
+— in Romania, the ‘Registrul Comerțului’,
+
+— in Slovenia, the ‘Sodni register’ and the ‘obrtni register’,
+
+— in Slovakia, the ‘Obchodný register’,
+
+— in Finland, the ‘Kaupparekisteri’/‘Handelsregistret’,
+
+— in Sweden, the ‘aktiebolags-, handels- eller föreningsregistren’,
+
+— in the United Kingdom, the supplier may be requested to provide a certificate from the Registrar of Companies stating that he is certified as incorporated or registered or, if he is not so certified, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in a specific place under a given business name.
+
+PART C
+
+Service contracts
+
+The relevant professional and trade registers and declarations and certificates are:
+
+— in Belgium, the ‘Registre du commerce/Handelsregister’ and the ‘Ordres professionels/Beroepsorden’,
+
+— in Bulgaria, the ‘Търговски регистър’,
+
+— in the Czech Republic, the ‘obchodní rejstřík’,
+
+— in Denmark, the ‘Erhvervs- og Selskabsstyrelsen’,
+
+— in Germany, the ‘Handelsregister’, the ‘Handwerksrolle’, the ‘Vereinsregister’, the ‘Partnerschaftsregister’ and the ‘Mitgliedsverzeichnisse der Berufskammern der Länder’,
+
+— in Estonia, the ‘Registrite ja Infosüsteemide Keskus’,
+
+— in Ireland, the service provider may be requested to provide a certificate from the Registrar of Companies or the Registrar of Friendly Societies or, if he is not so certified, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established, in a specific place under a given business name,
+
+— in Greece, the service provider may be asked to provide a declaration on the exercise of the profession concerned made on oath before a notary; in the cases provided for by existing national legislation, for the provision of research services as mentioned in Annex I, the professional register ‘Μητρώο Μελετητών’ and the ‘Μητρώο Γραφείων Μελετών’,
+
+— in Spain, the ‘Registro Oficial de Licitadores y Empresas Clasificadas del Estado’,
+
+— in France, the ‘Registre du commerce et des sociétés’ and the ‘Répertoire des métiers’,
+
+— in Italy, the ‘Registro della Camera di commercio, industria, agricoltura e artigianato’, the ‘Registro delle commissioni provinciali per l’artigianato’ or the ‘Consiglio nazionale degli ordini professionali’,
+
+— in Cyprus, the service provider may be requested to provide a certificate from the ‘Registrar of Companies and Official Receiver’ (Έφορος Εταιρειών και Επίσημος Παραλήπτης) or, if this is not the case, a certificate stating that the person concerned has declared on oath that he is engaged in the profession in question in the country in which he is established, in a specific place and under a given business name,
+
+— in Latvia, the ‘Uzņēmumu reģistrs’,
+
+— in Lithuania, the ‘Juridinių asmenų registras’,
+
+— in Luxembourg, the ‘Registre aux firmes’ and the ‘Rôle de la Chambre des métiers’,
+
+— in Hungary, the ‘Cégnyilvántartás’, the ‘egyéni vállalkozók jegyzői nyilvántartása’, some ‘szakmai kamarák nyilvántartása’ or, in the case of some activities, a certificate stating that the person concerned is authorised to be engaged in the commercial activity or profession in question,
+
+— in Malta: the service provider can obtain his ‘numru ta’ registrazzjoni tat-Taxxa tal-Valur Miżjud (VAT) u n-numru tal-licenzja ta’ kummerc’, and, in the case of a partnership or company, the relevant registration number as issued by the Malta Financial Services Authority,
+
+— in the Netherlands, the ‘Handelsregister’,
+
+— in Austria, the ‘Firmenbuch’, the ‘Gewerberegister’, the ‘Mitgliederverzeichnisse der Landeskammern’,
+
+— in Poland, the ‘Krajowy Rejestr Sądowy’,
+
+— in Portugal, the ‘Registro Nacional das Pessoas Colectivas’,
+
+— in Romania, the ‘Registrul Comerțului’,
+
+— in Slovenia, the ‘Sodni register’ and the ‘obrtni register’,
+
+— in Slovakia, the ‘Obchodný register’,
+
+— in Finland, the ‘Kaupparekisteri’/‘Handelsregistret’,
+
+— in Sweden, the ‘aktiebolags-, handels- eller föreningsregistren’,
+
+— in the United Kingdom, the service provider may be requested to provide a certificate from the Registrar of Companies or, if he is not so certified, a certificate stating that he has declared on oath that he is engaged in the profession in question in a specific place under a given business name.
+
+<a id="anx_viii"></a>
+
+### ANNEX VIII
+
+
+
+<a id="requirements_relating_to_devices_for_the_electronic_receipt_of_requests_to_participate_and_tenders"></a>
+
+### Requirements relating to devices for the electronic receipt of requests to participate and tenders
+
+Devices for the electronic receipt of requests for participation and tenders must at least guarantee, through appropriate technical means and procedures, that:
+
+(a) electronic signatures relating to requests to participate and tenders comply with national provisions adopted pursuant to Directive 1999/93/EC;
+
+(b) the exact time and date of the receipt of requests to participate and tenders can be determined precisely;
+
+(c) it may be reasonably ensured that, before the time-limits laid down, no-one can have access to data transmitted under these requirements;
+
+(d) if that access prohibition is infringed, it may be reasonably ensured that the infringement is clearly detectable;
+
+(e) only authorised persons may set or change the dates for opening data received;
+
+(f) during the various stages of the contract award procedure, access to all data submitted, or to part thereof, must be possible only through simultaneous action by authorised persons;
+
+(g) simultaneous action by authorised persons must give access to data transmitted only after the prescribed date;
+
+(h) data received and opened in accordance with these requirements must remain accessible only to persons authorised to acquaint themselves therewith.
+
+(1) OJ C 100, 30.4.2009, p. 114.
+
+(2) Opinion of the European Parliament of 14 January 2009 (not yet published in the Official Journal) and Council Decision of 7 July 2009.
+
+(3) OJ C 280 E, 18.11.2006, p. 463.
+
+(4) Decision defining the list of products (arms, munitions and war material) to which the provisions of Article 223(1)(b) — now Article 296(1)(b) — of the Treaty apply (doc. 255/58). Minutes of 15 April 1958: doc. 368/58.
+
+(5) OJ L 134, 30.4.2004, p. 1.
+
+(6) OJ L 134, 30.4.2004, p. 114.
+
+(7) OJ L 340, 16.12.2002, p. 1.
+
+(8) OJ L 317, 3.12.2001, p. 1.
+
+(9) OJ L 101, 11.4.2001, p. 1.
+
+(10) OJ L 18, 21.1.1997, p. 1.
+
+(11) OJ L 13, 19.1.2000, p. 12.
+
+(12) OJ L 178, 17.7.2000, p. 1.
+
+(13) OJ L 303, 2.12.2000, p. 16.
+
+(14) OJ L 39, 14.2.1976, p. 40.
+
+(15) Council Directive 89/665/EEC of 21 December 1989 on the coordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts (OJ L 395, 30.12.1989, p. 33).
+
+(16) Council Directive 92/13/EEC of 25 February 1992 coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 76, 23.3.1992, p. 14).
+
+(17) Directive 2007/66/EC of the European Parliament and of the Council of 11 December 2007 amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p. 31).
+
+(18) OJ L 184, 17.7.1999, p. 23.
+
+(19) OJ C 321, 31.12.2003, p. 1.
+
+(20) Joint Action 98/733/JHA of 21 December 1998 adopted by the Council on the basis of Article K.3 of the Treaty on European Union, on making it a criminal offence to participate in a criminal organisation in the Member States of the European Union (OJ L 351, 29.12.1998, p. 1).
+
+(21) Council Act of 26 May 1997 drawing up, on the basis of Article K.3 (2) (c) of the Treaty on European Union, the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union (OJ C 195, 25.6.1997, p. 1).
+
+(22) Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector (OJ L 192, 31.7.2003, p. 54).
+
+(23) OJ C 316, 27.11.1995, p. 49.
+
+(24) Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism (OJ L 164, 22.6.2002, p. 3).
+
+(25) Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).
+
+(26) OJ L 185, 16.8.1971, p. 15.
+
+(27) OJ L 217, 20.8.2009, p. 76’.
+
+(28) OJ L 217, 20.8.2009, p. 76’.
+
+(29) For the purposes of Article 40, ‘registers’ means those listed in this Annex and, where changes have been made at national level, the registers which have replaced them. This Annex is only indicative and does not prejudge the compatibility of these registers with Community law on the freedom of establishment and the freedom to provide services.

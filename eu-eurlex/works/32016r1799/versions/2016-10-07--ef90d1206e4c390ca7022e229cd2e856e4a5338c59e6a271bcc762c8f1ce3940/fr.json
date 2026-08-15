@@ -1,0 +1,315 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1799 of 7 October 2016 laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013",
+  "valid_from": "2016-10-07",
+  "valid_to": "2018-05-14",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1799/versions/2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940/fr.xml",
+    "sha256": "3719375b11528ff5849407584d1ff6662052a635976b026f886c1f5335be980b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1799"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes facteurs quantitatifs visés à l'article 136, paragraphe 2, point a), du règlement (UE) no 575/2013 sont les taux de défaut sur période courte et sur période longue associés aux éléments ayant reçu la même catégorie de notation, tels qu'énoncés aux articles 2 à 6.",
+      "text_sha256": "7fbb8984d2d6054c5df93c65441ee327004cd841bdeed55f2c20d6c4527d0f6d",
+      "md_span": {
+        "start": 914,
+        "end": 1198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe calcul, pour chaque catégorie de notation, des taux de défaut visés à l'article 1er est effectué uniquement sur la base des éléments s'étant vu attribuer la même catégorie de notation par l'organisme externe d'évaluation du crédit (OEEC) faisant l'objet de la mise en correspondance, lorsque ces éléments remplissent l'ensemble des exigences suivantes:\n\n| a) | ils relèvent des «notations d'entreprises» visées à l'article 3, point a), du règlement délégué (UE) 2015/2 et l'attribution est effectuée pour chaque émetteur; |\n| --- | --- |\n\n| b) | il leur est attribué soit:i)une notation de crédit sollicitée; soitii)une notation de crédit non sollicitée qui répond aux exigences de l'article 138 du règlement (UE) no 575/2013. |\n| --- | --- |\n| i) | une notation de crédit sollicitée; soit |\n| ii) | une notation de crédit non sollicitée qui répond aux exigences de l'article 138 du règlement (UE) no 575/2013. |",
+      "text_sha256": "e9f9dbad541a4f58dffde5ab6d723e0b92b69fd4137ee3bb7f0adb2b7f1e64c2",
+      "md_span": {
+        "start": 1231,
+        "end": 2157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Aux fins du calcul du taux de défaut sur période courte, le nombre d'éléments s'étant vu attribuer la même catégorie de notation par l'organisme externe d'évaluation du crédit (OEEC) faisant l'objet de la mise en correspondance est réputé suffisant lorsque les éléments remplissent l'ensemble des exigences suivantes:\n\n| a) | ils sont suffisants eu égard au profil de risque perçu de la catégorie de notation, en considérant comme indicateur le nombre d'éléments correspondant à l'inverse du taux de défaut sur période longue de référence de la catégorie de notation, tel que visé à l'article 14, point a); |\n| --- | --- |\n\n| b) | ils sont représentatifs de l'ensemble le plus récent d'éléments ayant reçu la même catégorie de notation. |\n| --- | --- |\n\n2. Aux fins du calcul du taux de défaut sur période longue, le nombre d'éléments s'étant vu attribuer la même catégorie de notation par l'OEEC faisant l'objet de la mise en correspondance est réputé suffisant lorsque sont disponibles, au minimum, les 10 plus récents taux de défaut sur période courte tels que visés au paragraphe 1.",
+      "text_sha256": "b0e90617aa1e60f808ffd045dd0b390c909b75a53c0c65126ba2db97ab92b610",
+      "md_span": {
+        "start": 2190,
+        "end": 3290
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Lorsqu'un nombre suffisant de notations de crédit sont disponibles conformément à l'article 3, paragraphe 1, les taux de défaut sur période courte visés à l'article 1er sont calculés de la manière décrite aux paragraphes 2 à 5.\n\n2. Les taux de défaut sur période courte d'une catégorie de notation sont calculés sur un horizon temporel de trois ans sous la forme d'un ratio dont:\n\n| a) | le dénominateur représente le nombre d'éléments ayant reçu la même catégorie de notation qui sont présents au début de l'horizon temporel; |\n| --- | --- |\n\n| b) | le numérateur représente le nombre d'éléments visés au point a) qui ont fait l'objet d'un défaut avant la fin de l'horizon temporel. |\n| --- | --- |\n\n3. Les éléments retirés avant la fin de l'horizon temporel et n'ayant pas fait l'objet d'un défaut ne contribuent au dénominateur des taux de défaut sur période courte visé au paragraphe 2, point a), qu'avec une pondération égale à 50 %. Tout élément dont il est prouvé qu'il a été retiré avant la survenance d'un défaut est considéré comme un élément ayant fait l'objet d'un défaut.\n\n4. Les éléments sont considérés comme des éléments ayant fait l'objet d'un défaut à inclure dans le numérateur visé au paragraphe 2, point b), lorsque l'un des types d'événements suivants s'est produit:\n\n| a) | un dépôt de bilan ou un redressement judiciaire dont il est probable qu'ils entraîneront le retard ou l'absence de paiements futurs contractuellement dus au titre du service de la dette; |\n| --- | --- |\n\n| b) | un retard ou une absence de versement de principal ou d'intérêts contractuellement dû, à moins que les paiements ne soient effectués dans un délai de grâce accordé par contrat; |\n| --- | --- |\n\n| c) | un échange contraint («distressed exchange») si l'offre implique que l'investisseur recevra une valeur inférieure à ce que promettaient initialement les titres; |\n| --- | --- |\n\n| d) | l'entité notée est soumise à une forme de surveillance réglementaire significative en raison de sa situation financière. |\n| --- | --- |\n\n5. Les taux de défaut sur période courte sont calculés pour chaque ensemble disponible d'éléments ayant reçu la même catégorie de notation sur des périodes semestrielles basées sur le 1er janvier et le 1er juillet de chaque année.",
+      "text_sha256": "e0d9156fdeaf4183ccd13235d07a93d682e9bc9b742dc9232f96164f3cad8c00",
+      "md_span": {
+        "start": 3323,
+        "end": 5599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Lorsqu'un nombre suffisant de notations de crédit sont disponibles conformément à l'article 3, le taux de défaut sur période longue visé à l'article 1er est calculé conformément aux paragraphes 2 à 4.\n\n2. Le taux de défaut sur période longue est calculé comme étant la moyenne pondérée d'au moins les 20 plus récents taux de défaut sur période courte calculés conformément à l'article 4, paragraphe 1. Si les taux de défaut sur période courte disponibles s'étendent sur une période plus longue et sont pertinents, les taux de défaut sur période courte pour cette période plus longue sont utilisés. Lorsque moins de 20 taux de défaut sur période courte calculés conformément à l'article 4, paragraphe 1, sont disponibles, les taux de défaut sur période courte qui manquent pour atteindre 20 taux de défaut sur période courte sont estimés.\n\n3. Pour effectuer la moyenne pondérée visée au paragraphe 2, les taux de défaut sur période courte calculés conformément à l'article 4 comprennent la plus récente période de récession. Cette période de récession couvre un semestre ou plus de taux de croissance négatifs du produit intérieur brut dans les principales zones géographiques de référence des éléments notés.\n\n4. Aux fins du calcul de la moyenne pondérée visée au paragraphe 2, les dispositions suivantes s'appliquent:\n\n| a) | les taux de défaut sur période courte calculés conformément à l'article 4, paragraphe 1, sont pondérés sur la base du nombre d'éléments visé à l'article 4, paragraphe 2, point a); |\n| --- | --- |\n\n| b) | les taux de défaut sur période courte estimés sont pondérés sur la base d'une estimation du nombre d'éléments ayant reçu la même catégorie de notation qui sont présents au début de l'horizon temporel. |\n| --- | --- |\n\nLes pondérations garantissent une représentation adéquate des années de récession et sans récession d'un cycle économique complet.",
+      "text_sha256": "600b28a26bce7374b03261de1d2c192b1c4c894aefac0ecc6520a2384b1254b4",
+      "md_span": {
+        "start": 5632,
+        "end": 7525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLorsque le nombre de notations de crédit disponibles n'est pas suffisant conformément à l'article 3, le calcul du taux de défaut sur période longue visé à l'article 1er est effectué conformément aux deux dispositions suivantes:\n\n| a) | il se base sur l'estimation fournie par l'OEEC du taux de défaut sur période longue associé à l'ensemble des éléments ayant reçu la même catégorie de notation, conformément à l'article 136, paragraphe 2, point a), du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | l'estimation visée au point a) est complétée par le nombre d'éléments qui ont fait l'objet d'un défaut et de ceux qui n'ont pas fait l'objet d'un défaut parmi les éléments s'étant vu attribuer la même catégorie de notation par l'OEEC faisant l'objet de la mise en correspondance. |\n| --- | --- |",
+      "text_sha256": "a48615344ae10edd541e390d904c86a2620fb0e7621fe597619bfd3f27c9ab00",
+      "md_span": {
+        "start": 7558,
+        "end": 8369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLes facteurs qualitatifs visés à l'article 136, paragraphe 2, point b), du règlement (UE) no 575/2013 sont:\n\n| a) | la définition des défauts retenue par l'OEEC, telle que visée à l'article 8; |\n| --- | --- |\n\n| b) | l'horizon temporel d'une catégorie de notation retenu par l'OEEC, tel que visé à l'article 9; |\n| --- | --- |\n\n| c) | la signification d'une catégorie de notation et sa position relative dans l'échelle de notation établie par l'OEEC, telles que visées à l'article 10; |\n| --- | --- |\n\n| d) | la qualité de crédit des éléments ayant reçu la même catégorie de notation, telle que visée à l'article 11; |\n| --- | --- |\n\n| e) | l'estimation fournie par l'OEEC du taux de défaut sur période longue associé à l'ensemble des éléments ayant reçu la même catégorie de notation, conformément à l'article 136, paragraphe 2, point a), du règlement (UE) no 575/2013, telle que visée à l'article 12; |\n| --- | --- |\n\n| f) | la relation éventuellement établie par l'OEEC («mise en correspondance interne») entre, d'une part, la catégorie de notation faisant l'objet de la mise en correspondance et, d'autre part, d'autres catégories de notation produites par le même OEEC pour lesquelles une mise en correspondance a déjà été effectuée conformément au présent règlement, telle que visée à l'article 13; |\n| --- | --- |\n\n| g) | toute autre information pertinente permettant de décrire le degré de risque exprimé par une catégorie de notation. |\n| --- | --- |",
+      "text_sha256": "2254ee57868c4a7da5f19127c91d5a6c2cd42d8b4da86d244a016e0bc153a5b1",
+      "md_span": {
+        "start": 8402,
+        "end": 9872
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLe type d'événements pris en considération par l'OEEC pour déterminer si un élément est en situation de défaut est comparé à ceux énoncés à l'article 4, paragraphe 4, au moyen de toutes les informations disponibles. Lorsque cette comparaison indique que ces types d'événements de défaut n'ont pas tous été pris en considération par l'OEEC, les facteurs quantitatifs visés à l'article 1er sont ajustés en conséquence.",
+      "text_sha256": "d01c18e8c537a66aeb74dc2df925ae256c95aa91ff8492ed3ebdd9200cff0a5c",
+      "md_span": {
+        "start": 9905,
+        "end": 10332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nL'horizon temporel retenu par l'OEEC pour attribuer une catégorie de notation fournit une indication pertinente pour savoir si le niveau de risque de cette catégorie de notation est stable sur l'horizon temporel visé à l'article 4, paragraphe 2.",
+      "text_sha256": "124a1c3d7ae8769268f32f5b1be575cb1187ee86ac58ea4473133e10e4c69c55",
+      "md_span": {
+        "start": 10365,
+        "end": 10621
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. La signification d'une catégorie de notation établie par l'OEEC est définie en fonction des caractéristiques de la capacité de respect des engagements financiers correspondant aux éléments ayant reçu cette catégorie de notation, et plus particulièrement par son degré de sensibilité à l'environnement économique et son degré de proximité de la situation de défaut.\n\n2. La signification d'une catégorie de notation est comparée à celle établie pour chaque échelon de qualité de crédit, conformément à l'article 15.\n\n3. La signification d'une catégorie de notation est prise en considération conjointement à sa position relative dans l'échelle de notation établie par l'OEEC.",
+      "text_sha256": "02aa6a62c55bc5fbe789b73e95d48984900617966362dc8b572d0bfaab3788ac",
+      "md_span": {
+        "start": 10656,
+        "end": 11344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. La qualité de crédit des éléments ayant reçu la même catégorie de notation est déterminée en prenant en considération, au minimum, leur taille et le degré de diversification sectorielle et géographique de leur activité.\n\n2. Différentes mesures de la qualité de crédit attribuées aux éléments de la même catégorie de notation peuvent être utilisées, dans la mesure nécessaire, pour compléter les informations fournies par les facteurs quantitatifs visés à l'article 1er, lorsqu'elles sont fiables et pertinentes pour la mise en correspondance.",
+      "text_sha256": "afb647d2d3d2e13321c7cc00f3db1471e08f5db708245b53f9766a665ea40a7f",
+      "md_span": {
+        "start": 11379,
+        "end": 11936
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nL'estimation fournie par l'OEEC du taux de défaut sur période longue associé à l'ensemble des éléments ayant reçu la même catégorie de notation est prise en compte aux fins de la mise en correspondance, pour autant qu'elle ait été dûment justifiée.",
+      "text_sha256": "09a9b048be25f4ac263daff36e76294c4bde36c56dbab9970b80da4aab4e0baf",
+      "md_span": {
+        "start": 11971,
+        "end": 12231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes échelons de qualité de crédit correspondant à d'autres catégories de notation produites par le même OEEC pour lesquelles existe une mise en correspondance interne conformément à l'article 7, point f), sont utilisés comme une indication pertinente du niveau de risque de la catégorie de notation faisant l'objet de la mise en correspondance.",
+      "text_sha256": "b694cc0290eb8dc21d697bcb7544e180ac184fd259a2a8a0e2b965a2d2f53e2d",
+      "md_span": {
+        "start": 12266,
+        "end": 12622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nAux fins du taux de référence visé à l'article 136, paragraphe 2, point c), du règlement (UE) no 575/2013, on distingue:\n\n| a) | un taux de défaut sur période longue de référence pour chaque échelon de qualité de crédit, comme indiqué dans le tableau 1 de l'annexe I; |\n| --- | --- |\n\n| b) | un taux de défaut sur période courte de référence pour chaque échelon de qualité de crédit, comme indiqué dans le tableau 2 de l'annexe I; |\n| --- | --- |",
+      "text_sha256": "ffde6ef7b6c0a40ca45c49840292fbcceb1f183861e75b0857cd561c06ace71a",
+      "md_span": {
+        "start": 12657,
+        "end": 13115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLa signification de référence d'une catégorie de notation correspondant à chaque échelon de qualité de crédit est énoncée à l'annexe II.",
+      "text_sha256": "a029c73bcaf0d35846f01ba3a35346a0a9bac3dc293c243e7d86e1dfe4cea8f9",
+      "md_span": {
+        "start": 13150,
+        "end": 13298
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLa correspondance entre les catégories de notation de chaque OEEC et les échelons de qualité de crédit prévus à la troisième partie, titre II, chapitre 2, section 2, du règlement (UE) no 575/2013 est celle fixée à l'annexe III.",
+      "text_sha256": "1a9c3dcfabfa6ef255df69b7ce5bd7c0d78c4817dd5cf1aa952967702a51d233",
+      "md_span": {
+        "start": 13333,
+        "end": 13572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32016r1799:2016-10-07--ef90d1206e4c390ca7022e229cd2e856e4a5338c59e6a271bcc762c8f1ce3940#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "943cecbdf7978ed93c841eeab487d7a36a250c643b56de0e0ebe68046112af23",
+      "md_span": {
+        "start": 13607,
+        "end": 13749
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

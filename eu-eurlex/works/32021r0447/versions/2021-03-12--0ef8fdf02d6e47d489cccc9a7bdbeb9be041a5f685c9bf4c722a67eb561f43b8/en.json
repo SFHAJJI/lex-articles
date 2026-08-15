@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0447:2021-03-12--0ef8fdf02d6e47d489cccc9a7bdbeb9be041a5f685c9bf4c722a67eb561f43b8",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/447 of 12\u00A0March 2021 determining revised benchmark values for free allocation of emission allowances for the period from 2021 to 2025 pursuant to Article\u00A010a(2) of Directive 2003/87/EC",
+  "valid_from": "2021-03-12",
+  "valid_to": "2026-03-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0447/versions/2021-03-12--0ef8fdf02d6e47d489cccc9a7bdbeb9be041a5f685c9bf4c722a67eb561f43b8/en.xml",
+    "sha256": "425651a88a7dbaaa1f25cb52bb991ee4589e09983ce695603e7058d956388901",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0447"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0447:2021-03-12--0ef8fdf02d6e47d489cccc9a7bdbeb9be041a5f685c9bf4c722a67eb561f43b8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe revised benchmark values listed in the Annex shall apply for the harmonised free allocation of emission allowances for the period from 2021 to 2025.",
+      "text_sha256": "83350e5f53eb830eea94a0af84a07f7aaa7b01624aed61dadfb083debbf82bdd",
+      "md_span": {
+        "start": 846,
+        "end": 1009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0447:2021-03-12--0ef8fdf02d6e47d489cccc9a7bdbeb9be041a5f685c9bf4c722a67eb561f43b8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1042,
+        "end": 1193
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

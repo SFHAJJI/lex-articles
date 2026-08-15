@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022l2523r(05):2025-05-08--f6e4efa7ae7043f2b5df283ec36298f79076e5d34973e84512c6006c38661e6a",
+  "language": "fr",
+  "title": "Rectificatif à la directive (UE) 2022/2523 du Conseil du 15 décembre 2022 visant à assurer…",
+  "valid_from": "2025-05-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022l2523r(05)/versions/2025-05-08--f6e4efa7ae7043f2b5df283ec36298f79076e5d34973e84512c6006c38661e6a/fr.xml",
+    "sha256": "c1707e5e7c52b91ec43a027f4b87ccf09dc89d0f80f5d10aca3ccd3af34eb52b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2805%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32022l2523r(05):2025-05-08--f6e4efa7ae7043f2b5df283ec36298f79076e5d34973e84512c6006c38661e6a#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Journal officiel de l'Union européenne FR Série L 2025/90395 8.5.2025 Rectificatif à la directive (UE) 2022/2523 du Conseil du 15 décembre 2022 visant à assurer un niveau minimum d’imposition mondial pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure dans l’Union ( «Journal officiel de l’Union européenne» L 328 du 22 décembre 2022 ) 1. Page 40, article 33, paragraphe 3: au lieu de: «3. Lorsqu’une entité qui n’est pas membre d’un groupe (ci-après dénommée “cible”) fusionne avec une entité ou un groupe (ci-après dénommé(e) “entité acquéreuse”) au cours de l’année fiscale testée, et que ni la cible ni l’entité acquéreuse ne disposent d’états financiers consolidés au cours de l’une des quatre dernières années fiscales consécutives précédant immédiatement l’année fiscale testée, le seuil de chiffre d’affaires consolidé du groupe d’EMN ou du groupe national de grande envergure est présumé être atteint, pour cette année, si la somme des chiffres d’affaires figurant dans chacun de leurs états financiers ou états financiers consolidés, pour ladite année fiscale, est égale ou supérieure à 750 000 000 EUR.» , lire: «3. Lorsqu’une entité qui n’est pas membre d’un groupe (ci-après dénommée “cible”) fusionne avec une entité ou un groupe [ci-après dénommé(e) “entité acquéreuse”] au cours de l’année fiscale testée, et que la cible ou l’entité acquéreuse n’a pas disposé d’états financiers consolidés au cours de l’une des quatre dernières années fiscales consécutives précédant immédiatement l’année fiscale testée, le seuil de chiffre d’affaires consolidé du groupe d’EMN ou du groupe national de grande envergure est présumé être atteint, pour cette année, si la somme des chiffres d’affaires figurant dans chacun de leurs états financiers ou états financiers consolidés, pour ladite année fiscale, est égale ou supérieure à 750 000 000 EUR.». ELI: http://data.europa.eu/eli/dir/2022/2523/corrigendum/2025-05-08/oj ISSN 1977-0693 (electronic edition)",
+      "text_sha256": "3c84ef26bbd029497e61d8e853ef914ac0b399b08e71a205469931e738f0650e",
+      "md_span": {
+        "start": 729,
+        "end": 2728
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

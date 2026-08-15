@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:div-2023-06-21-a323:2024-06-17--c30ec05245736c988d1ea403938af285357d2a8a282f1ae545ec821822f92531",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 17/06/2024 : Acte final de la Conférence sur la Charte Européenne de l’Énergie et de ses Annexes, signés à Lisbonne, le 17 décembre 1994 - Dénonciation par le Grand-Duché de Luxembourg.",
+  "valid_from": "2024-06-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/div-2023-06-21-a323/versions/2024-06-17--c30ec05245736c988d1ea403938af285357d2a8a282f1ae545ec821822f92531/fr.xml",
+    "sha256": "d188f0bbfbe53e18cdf59ac927516796c3453dba92a47dc193d6a40beb0dcc8b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr"
+  },
+  "generator": {
+    "profile": "akn-lu-document/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "lu-legilux:div-2023-06-21-a323:2024-06-17--c30ec05245736c988d1ea403938af285357d2a8a282f1ae545ec821822f92531#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Conformément à l’article 47 de l’accord désigné ci-dessus, le Luxembourg a dénoncé l’accord avec effet au 17 juin 2024.",
+      "text_sha256": "0dcbf5b57b6e4f9f44e622afb6f99eb2f46256e9fc9bb205f3520d6443353768",
+      "md_span": {
+        "start": 785,
+        "end": 904
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "publisher markup exposes no article or annex boundary; used the official AKN body as one document-level provision"
+  ]
+}

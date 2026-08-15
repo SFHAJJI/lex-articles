@@ -1,0 +1,635 @@
+---
+lex_id: 'eu-eurlex:32016l1148:2016-07-06--770bfbadb7ad24aa545f6961fb2b9c09bb2793dd970c308995af5eccabb61919'
+title: 'Directive (EU) 2016/1148'
+valid_from: '2016-07-06'
+valid_to: '2016-07-18'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L1148'
+source_sha256: 'd60083423242921c7841d53564ce15ebce51e342c92767a7eabe0281222a6c6b'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. La présente directive établit des mesures visant à assurer un niveau élevé commun de sécurité des réseaux et des systèmes d'information dans l'Union afin d'améliorer le fonctionnement du marché intérieur.
+
+2. À cette fin, la présente directive:
+
+| a) | fixe des obligations à tous les États membres en ce qui concerne l'adoption d'une stratégie nationale en matière de sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| b) | institue un groupe de coopération afin de soutenir et faciliter la coopération stratégique et l'échange d'informations entre les États membres et de renforcer la confiance mutuelle; |
+| --- | --- |
+
+| c) | institue un réseau des centres de réponse aux incidents de sécurité informatiques (ci-après dénommé «réseau des CSIRT») afin de contribuer au renforcement de la confiance entre les États membres et de promouvoir une coopération rapide et effective au niveau opérationnel; |
+| --- | --- |
+
+| d) | établit des exigences en matière de sécurité et de notification pour les opérateurs de services essentiels et pour les fournisseurs de service numérique; |
+| --- | --- |
+
+| e) | fixe des obligations aux États membres pour la désignation d'autorités nationales compétentes, de points de contact uniques et de CSIRT chargés de tâches liées à la sécurité des réseaux et des systèmes d'information. |
+| --- | --- |
+
+3. Les exigences en matière de sécurité et de notification prévues par la présente directive ne s'appliquent pas aux entreprises soumises aux exigences énoncées aux articles 13 bis et 13 ter de la directive 2002/21/CE ni aux prestataires de services de confiance soumis aux exigences énoncées à l'article 19 du règlement (UE) no 910/2014.
+
+4. La présente directive est sans préjudice de la directive 2008/114/CE du Conseil (14) et des directives du Parlement européen et du Conseil 2011/93/UE (15) et 2013/40/UE (16).
+
+5. Sans préjudice de l'article 346 du traité sur le fonctionnement de l'Union européenne, les informations considérées comme confidentielles en application de la réglementation nationale ou de l'Union, telle que les règles applicables au secret des affaires, ne peuvent faire l'objet d'un échange avec la Commission et d'autres autorités concernées que si cet échange est nécessaire à l'application de la présente directive. Les informations échangées se limitent au minimum nécessaire et sont proportionnées à l'objectif de cet échange. Cet échange d'informations préserve la confidentialité des informations concernées et protège la sécurité et les intérêts commerciaux des opérateurs de services essentiels et des fournisseurs de service numérique.
+
+6. La présente directive est sans préjudice des mesures prises par les États membres pour préserver leurs fonctions étatiques essentielles, en particulier dans le but de préserver la sécurité nationale, notamment les mesures visant à protéger les informations dont la divulgation est considérée par les États membres comme contraire aux intérêts essentiels de leur sécurité, et de maintenir l'ordre public, en particulier pour permettre la détection des infractions pénales ainsi que les enquêtes et les poursuites en la matière.
+
+7. Lorsqu'un acte juridique sectoriel de l'Union exige des opérateurs de services essentiels ou des fournisseurs de service numérique qu'ils assurent la sécurité de leurs réseaux et systèmes d'information ou qu'ils procèdent à la notification des incidents, à condition que les exigences en question aient un effet au moins équivalent à celui des obligations prévues par la présente directive, les dispositions de cet acte juridique sectoriel de l'Union s'appliquent.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. Le traitement de données à caractère personnel au titre de la présente directive est effectué conformément à la directive 95/46/CE.
+
+2. Le traitement de données à caractère personnel par les institutions et organes de l'Union au titre de la présente directive est effectué conformément au règlement (CE) no 45/2001.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+Sans préjudice de l'article 16, paragraphe 10, et des obligations qui leur incombent en vertu du droit de l'Union, les États membres peuvent adopter ou maintenir des dispositions en vue de parvenir à un niveau de sécurité plus élevé des réseaux et des systèmes d'information.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+Aux fins de la présente directive, on entend par:
+
+1) «réseau et système d'information»:
+
+| a) | un réseau de communications électroniques au sens de l'article 2, point a), de la directive 2002/21/CE; |
+| --- | --- |
+
+| b) | tout dispositif ou tout ensemble de dispositifs interconnectés ou apparentés, dont un ou plusieurs éléments assurent, en exécution d'un programme, un traitement automatisé de données numériques; ou |
+| --- | --- |
+
+| c) | les données numériques stockées, traitées, récupérées ou transmises par les éléments visés aux points a) et b) en vue de leur fonctionnement, utilisation, protection et maintenance; |
+| --- | --- |
+
+2) «sécurité des réseaux et des systèmes d'information»: la capacité des réseaux et des systèmes d'information de résister, à un niveau de confiance donné, à des actions qui compromettent la disponibilité, l'authenticité, l'intégrité ou la confidentialité de données stockées, transmises ou faisant l'objet d'un traitement, et des services connexes que ces réseaux et systèmes d'information offrent ou rendent accessibles;
+
+3) «stratégie nationale en matière de sécurité des réseaux et des systèmes d'information»: un cadre prévoyant des objectifs et priorités stratégiques en matière de sécurité des réseaux et des systèmes d'information au niveau national;
+
+4) «opérateur de services essentiels»: une entité publique ou privée dont le type figure à l'annexe II et qui répond aux critères énoncés à l'article 5, paragraphe 2;
+
+5) «service numérique»: un service au sens de l'article 1er, paragraphe 1, point b), de la directive (UE) 2015/1535 du Parlement européen et du Conseil (17) dont le type figure dans la liste de l'annexe III;
+
+6) «fournisseur de service numérique»: une personne morale qui fournit un service numérique;
+
+7) «incident»: tout événement ayant un impact négatif réel sur la sécurité des réseaux et des systèmes d'information;
+
+8) «gestion d'incident»: toutes les procédures utiles à la détection, à l'analyse et au confinement d'un incident et toutes les procédures utiles à l'intervention en cas d'incident;
+
+9) «risque»: toute circonstance ou tout événement raisonnablement identifiable ayant un impact négatif potentiel sur la sécurité des réseaux et des systèmes d'information;
+
+10) «représentant»: une personne physique ou morale établie dans l'Union qui est expressément désignée pour agir pour le compte d'un fournisseur de service numérique non établi dans l'Union, qui peut être contactée par une autorité nationale compétente ou un CSIRT à la place du fournisseur de service numérique concernant les obligations incombant audit fournisseur de service numérique en vertu de la présente directive;
+
+11) «norme»: une norme au sens de l'article 2, point 1), du règlement (UE) no 1025/2012;
+
+12) «spécification»: une spécification technique au sens de l'article 2, point 4), du règlement (UE) no 1025/2012;
+
+13) «point d'échange internet» (IXP): une structure de réseau qui permet l'interconnexion de plus de deux systèmes autonomes indépendants, essentiellement aux fins de faciliter l'échange de trafic internet; un IXP n'assure l'interconnexion que pour des systèmes autonomes; un IXP n'exige pas que le trafic internet passant entre une paire quelconque de systèmes autonomes participants transite par un système autonome tiers, pas plus qu'il ne modifie ou n'altère par ailleurs un tel trafic;
+
+14) «système de noms de domaine» (DNS): un système hiérarchique et distribué d'affectation de noms dans un réseau qui résout les questions liées aux noms de domaines;
+
+15) «fournisseur de services DNS»: une entité qui fournit des services DNS sur l'internet;
+
+16) «registre de noms de domaine de haut niveau»: une entité qui administre et gère l'enregistrement de noms de domaine internet dans un domaine de haut niveau donné;
+
+17) «place de marché en ligne»: un service numérique qui permet à des consommateurs et/ou à des professionnels au sens de l'article 4, paragraphe 1, point a) ou point b) respectivement, de la directive 2013/11/UE du Parlement européen et du Conseil (18) de conclure des contrats de vente ou de service en ligne avec des professionnels soit sur le site internet de la place de marché en ligne, soit sur le site internet d'un professionnel qui utilise les services informatiques fournis par la place de marché en ligne;
+
+18) «moteur de recherche en ligne»: un service numérique qui permet aux utilisateurs d'effectuer des recherches sur, en principe, tous les sites internet ou sur les sites internet dans une langue donnée, sur la base d'une requête lancée sur n'importe quel sujet sous la forme d'un mot clé, d'une phrase ou d'une autre entrée, et qui renvoie des liens à partir desquels il est possible de trouver des informations en rapport avec le contenu demandé;
+
+19) «service d'informatique en nuage»: un service numérique qui permet l'accès à un ensemble modulable et variable de ressources informatiques pouvant être partagées.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+1. Au plus tard le 9 novembre 2018, pour chaque secteur et sous-secteur visé à l'annexe II, les États membres identifient les opérateurs de services essentiels ayant un établissement sur leur territoire.
+
+2. Les critères d'identification des opérateurs de services essentiels visés à l'article 4, point 4), sont les suivants:
+
+| a) | une entité fournit un service qui est essentiel au maintien d'activités sociétales et/ou économiques critiques; |
+| --- | --- |
+
+| b) | la fourniture de ce service est tributaire des réseaux et des systèmes d'information; et |
+| --- | --- |
+
+| c) | un incident aurait un effet disruptif important sur la fourniture dudit service. |
+| --- | --- |
+
+3. Aux fins du paragraphe 1, chaque État membre établit une liste des services visés au paragraphe 2, point a).
+
+4. Aux fins du paragraphe 1, lorsqu'une entité fournit un service visé au paragraphe 2, point a), dans deux États membres ou plus, les États membres en question se consultent mutuellement. La consultation intervient avant que l'identification ne fasse l'objet d'une décision.
+
+5. À intervalles réguliers et au moins tous les deux ans à compter du 9 mai 2018, les États membres procèdent au réexamen et, au besoin, à la mise à jour de la liste des opérateurs de services essentiels identifiés.
+
+6. Le rôle du groupe de coopération consiste, conformément aux tâches visées à l'article 11, à aider les États membres à suivre une approche cohérente dans le processus d'identification des opérateurs de services essentiels.
+
+7. Aux fins du réexamen visé à l'article 23 et au plus tard le 9 novembre 2018, puis tous les deux ans, les États membres communiquent à la Commission les informations qui lui sont nécessaires pour évaluer la mise en œuvre de la présente directive, en particulier la cohérence des approches adoptées par les États membres pour l'identification des opérateurs de services essentiels. Ces informations comprennent au moins:
+
+| a) | les mesures nationales permettant l'identification des opérateurs de services essentiels; |
+| --- | --- |
+
+| b) | la liste des services visée au paragraphe 3; |
+| --- | --- |
+
+| c) | le nombre d'opérateurs de services essentiels identifiés pour chaque secteur visé à l'annexe II et une indication de leur importance pour ce secteur; |
+| --- | --- |
+
+| d) | les seuils, pour autant qu'ils existent, permettant de déterminer le niveau de l'offre pertinent en fonction du nombre d'utilisateurs tributaires de ce service visé à l'article 6, paragraphe 1, point a), ou de l'importance de cet opérateur de services essentiels particulier visée à l'article 6, paragraphe 1, point f). |
+| --- | --- |
+
+Afin de contribuer à la transmission d'informations comparables, la Commission peut, en tenant le plus grand compte de l'avis de l'ENISA, adopter des lignes directrices techniques appropriées concernant les paramètres applicables aux informations visées dans le présent paragraphe.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. Lorsque les États membres déterminent l'importance d'un effet disruptif visée à l'article 5, paragraphe 2, point c), ils prennent en compte au moins les facteurs transsectoriels suivants:
+
+| a) | le nombre d'utilisateurs tributaires du service fourni par l'entité concernée; |
+| --- | --- |
+
+| b) | la dépendance des autres secteurs visés à l'annexe II à l'égard du service fourni par cette entité; |
+| --- | --- |
+
+| c) | les conséquences que des incidents pourraient avoir, en termes de degré et de durée, sur les fonctions économiques ou sociétales ou sur la sûreté publique; |
+| --- | --- |
+
+| d) | la part de marché de cette entité; |
+| --- | --- |
+
+| e) | la portée géographique eu égard à la zone susceptible d'être touchée par un incident; |
+| --- | --- |
+
+| f) | l'importance que revêt l'entité pour garantir un niveau de service suffisant, compte tenu de la disponibilité de solutions de rechange pour la fourniture de ce service. |
+| --- | --- |
+
+2. Afin de déterminer si un incident est susceptible d'avoir un effet disruptif important, les États membres prennent aussi en compte, le cas échéant, des facteurs sectoriels.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. Chaque État membre adopte une stratégie nationale en matière de sécurité des réseaux et des systèmes d'information qui définit les objectifs stratégiques et les mesures politiques et réglementaires appropriées en vue de parvenir à un niveau élevé de sécurité des réseaux et des systèmes d'information et de le maintenir et de couvrir au moins les secteurs visés à l'annexe II et les services visés à l'annexe III. La stratégie nationale en matière de sécurité des réseaux et des systèmes d'information porte, en particulier, sur les points suivants:
+
+| a) | les objectifs et les priorités de la stratégie nationale en matière de sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| b) | un cadre de gouvernance permettant d'atteindre les objectifs et les priorités de la stratégie nationale en matière de sécurité des réseaux et des systèmes d'information, prévoyant notamment les rôles et les responsabilités des organismes publics et des autres acteurs pertinents; |
+| --- | --- |
+
+| c) | l'inventaire des mesures en matière de préparation, d'intervention et de récupération, y compris la coopération entre les secteurs public et privé; |
+| --- | --- |
+
+| d) | un aperçu des programmes d'éducation, de sensibilisation et de formation en rapport avec la stratégie nationale en matière de sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| e) | un aperçu des plans de recherche et de développement en rapport avec la stratégie nationale en matière de sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| f) | un plan d'évaluation des risques permettant d'identifier les risques; |
+| --- | --- |
+
+| g) | une liste des différents acteurs concernés par la mise en œuvre de la stratégie nationale en matière de sécurité des réseaux et des systèmes d'information. |
+| --- | --- |
+
+2. Les États membres peuvent demander à l'ENISA de leur prêter assistance dans l'élaboration de leur stratégie nationale en matière de sécurité des réseaux et des systèmes d'information.
+
+3. Les États membres communiquent leur stratégie nationale en matière de sécurité des réseaux et des systèmes d'information à la Commission dans un délai de trois mois suivant son adoption. Dans ce cadre, les États membres peuvent exclure des éléments de la stratégie se rapportant à la sécurité nationale.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. Chaque État membre désigne une ou plusieurs autorités nationales compétentes en matière de sécurité des réseaux et des systèmes d'information (ci-après dénommées «autorités compétentes»), couvrant au moins les secteurs visés à l'annexe II et les services visés à l'annexe III. Les États membres peuvent attribuer cette mission à une ou des autorités existantes.
+
+2. Les autorités compétentes contrôlent l'application de la présente directive au niveau national.
+
+3. Chaque État membre désigne un point de contact national unique en matière de sécurité des réseaux et des systèmes d'information (ci-après dénommé «point de contact unique»). Les États membres peuvent attribuer cette mission à une autorité existante. Lorsqu'un État membre désigne une seule autorité compétente, cette dernière fait aussi fonction de point de contact unique.
+
+4. Le point de contact unique exerce une fonction de liaison pour assurer une coopération transfrontalière entre les autorités des États membres, ainsi qu'avec les autorités concernées des autres États membres, le groupe de coopération visé à l'article 11 et le réseau des CSIRT visé à l'article 12.
+
+5. Les États membres veillent à ce que les autorités compétentes et les points de contact uniques disposent de ressources suffisantes pour pouvoir s'acquitter de leurs tâches de manière effective et efficace et atteindre ainsi les objectifs de la présente directive. Les États membres font en sorte que les représentants désignés pour siéger au sein du groupe de coopération puissent coopérer de manière effective, efficace et sûre.
+
+6. En fonction des besoins et conformément au droit national, les autorités compétentes et le point de contact unique consultent les services répressifs nationaux compétents et les autorités nationales chargées de la protection des données et coopèrent avec eux.
+
+7. Chaque État membre notifie sans tarder à la Commission la désignation de l'autorité compétente et du point de contact unique, les tâches qui leur sont confiées et toute modification ultérieure dans ce cadre. Chaque État membre rend publique la désignation de l'autorité compétente et du point de contact unique. La Commission publie la liste des points de contact uniques désignés.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. Chaque État membre désigne un ou plusieurs CSIRT, se conformant aux exigences énumérées à l'annexe I, point 1), couvrant au moins les secteurs visés à l'annexe II et les services visés à l'annexe III, chargés de la gestion des incidents et des risques selon un processus bien défini. Un CSIRT peut être établi au sein d'une autorité compétente.
+
+2. Les États membres veillent à ce que les CSIRT disposent de ressources suffisantes pour pouvoir s'acquitter efficacement de leurs tâches énumérées à l'annexe I, point 2).
+
+Les États membres veillent à ce que leurs CSIRT coopèrent de manière effective, efficace et sécurisée au sein du réseau des CSIRT visé à l'article 12.
+
+3. Les États membres font en sorte que leurs CSIRT aient accès à une infrastructure d'information et de communication adaptée, sécurisée et résiliente au niveau national.
+
+4. Les États membres informent la Commission des missions de leurs CSIRT ainsi que des principaux éléments de leurs processus de gestion des incidents.
+
+5. Les États membres peuvent solliciter l'assistance de l'ENISA pour la mise en place des CSIRT nationaux.
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. Lorsqu'ils sont distincts, l'autorité compétente, le point de contact unique et le CSIRT d'un même État membre coopèrent aux fins du respect des obligations énoncées dans la présente directive.
+
+2. Les États membres veillent à ce que soit les autorités compétentes, soit les CSIRT reçoivent les notifications d'incidents transmises en application de la présente directive. Lorsqu'un État membre décide que les CSIRT ne reçoivent pas de notifications, ils se voient accorder, dans la mesure nécessaire à l'accomplissement de leurs tâches, un accès aux données relatives aux incidents notifiés par les opérateurs de services essentiels au titre de l'article 14, paragraphes 3 et 5, ou par les fournisseurs de service numérique au titre de l'article 16, paragraphes 3 et 6.
+
+3. Les États membres veillent à ce que les autorités compétentes ou les CSIRT informent les points de contact uniques des notifications d'incidents transmises en application de la présente directive.
+
+Au plus tard le 9 août 2018, puis tous les ans, le point de contact unique transmet au groupe de coopération un rapport de synthèse sur les notifications reçues, y compris le nombre de notifications et la nature des incidents notifiés, ainsi que sur les mesures prises conformément à l'article 14, paragraphes 3 et 5, et à l'article 16, paragraphes 3 et 6.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. Un groupe de coopération est institué aux fins de soutenir et de faciliter la coopération stratégique et l'échange d'informations entre les États membres et de renforcer la confiance, et de parvenir à un niveau élevé commun de sécurité des réseaux et des systèmes d'information dans l'Union.
+
+Le groupe de coopération exécute ses tâches en s'appuyant sur les programmes de travail bisannuels visés au paragraphe 3, deuxième alinéa.
+
+2. Le groupe de coopération est composé de représentants des États membres, de la Commission et de l'ENISA.
+
+Si besoin est, le groupe de coopération peut inviter des représentants des acteurs concernés à participer à ses travaux.
+
+Le secrétariat est assuré par la Commission.
+
+3. Le groupe de coopération est chargé des tâches suivantes:
+
+| a) | fournir des orientations stratégiques pour les activités du réseau des CSIRT institué en vertu de l'article 12; |
+| --- | --- |
+
+| b) | échanger les bonnes pratiques concernant l'échange d'informations sur les notifications d'incidents visé à l'article 14, paragraphes 3 et 5, et à l'article 16, paragraphes 3 et 6; |
+| --- | --- |
+
+| c) | échanger les bonnes pratiques entre les États membres et, en coopération avec l'ENISA, aider les États membres à renforcer leurs capacités en matière de sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| d) | discuter des capacités et de l'état de préparation des États membres et, à titre volontaire, évaluer les stratégies nationales en matière de sécurité des réseaux et des systèmes d'information et l'efficacité des CSIRT, et identifier les bonnes pratiques; |
+| --- | --- |
+
+| e) | échanger des informations et les bonnes pratiques en matière de sensibilisation et de formation; |
+| --- | --- |
+
+| f) | échanger des informations et les bonnes pratiques en matière de recherche et de développement dans le domaine de la sécurité des réseaux et des systèmes d'information; |
+| --- | --- |
+
+| g) | le cas échéant, procéder à des échanges d'expériences sur des questions relatives à la sécurité des réseaux et des systèmes d'information avec les institutions, organes ou organismes de l'Union concernés; |
+| --- | --- |
+
+| h) | discuter des normes et des spécifications visées à l'article 19 avec les représentants des organismes de normalisation européens concernés; |
+| --- | --- |
+
+| i) | recueillir des informations sur les bonnes pratiques en matière de risques et d'incidents; |
+| --- | --- |
+
+| j) | examiner chaque année les rapports de synthèse visés à l'article 10, paragraphe 3, deuxième alinéa; |
+| --- | --- |
+
+| k) | discuter du travail accompli en ce qui concerne les exercices relatifs à la sécurité des réseaux et des systèmes d'information, les programmes d'éducation et la formation, y compris le travail réalisé par l'ENISA; |
+| --- | --- |
+
+| l) | avec l'assistance de l'ENISA, échanger les bonnes pratiques concernant l'identification, par les États membres, des opérateurs de services essentiels, y compris au regard des dépendances transfrontalières, en matière de risques et d'incidents; |
+| --- | --- |
+
+| m) | discuter des modalités de signalement des notifications d'incidents visées aux articles 14 et 16. |
+| --- | --- |
+
+Au plus tard le 9 février 2018, puis tous les deux ans, le groupe de coopération établit un programme de travail prévoyant les actions à entreprendre pour mettre en œuvre les objectifs et les tâches et qui est cohérent avec les objectifs de la présente directive.
+
+4. Aux fins du réexamen visé à l'article 23 et au plus tard le 9 août 2018, puis tous les ans et demi, le groupe de coopération établit un rapport évaluant l'expérience acquise à la suite de la coopération stratégique visée au présent article.
+
+5. La Commission adopte des actes d'exécution fixant les modalités de procédure nécessaires au fonctionnement du groupe de coopération. Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 22, paragraphe 2.
+
+Aux fins du premier alinéa, la Commission présente au comité visé à l'article 22, paragraphe 1, le premier projet d'acte d'exécution le 9 février 2017 au plus tard.
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. Afin de contribuer au renforcement de la confiance entre les États membres et de promouvoir une coopération opérationnelle rapide et effective, un réseau des CSIRT nationaux est établi.
+
+2. Le réseau des CSIRT est composé de représentants des CSIRT des États membres et du CERT-UE. La Commission participe au réseau des CSIRT en qualité d'observateur. L'ENISA assure le secrétariat et soutient activement la coopération entre les CSIRT.
+
+3. Le réseau des CSIRT est chargé des tâches suivantes:
+
+| a) | échanger des informations sur les services, les opérations et les capacités de coopération des CSIRT; |
+| --- | --- |
+
+| b) | à la demande du représentant d'un CSIRT d'un État membre susceptible d'être touché par un incident, échanger des informations non sensibles d'un point de vue commercial en rapport avec l'incident en question et les risques correspondants et en débattre; toutefois, un CSIRT d'un État membre peut refuser de contribuer à ce débat s'il existe un risque de porter atteinte à l'enquête sur l'incident; |
+| --- | --- |
+
+| c) | échanger et mettre à disposition, à titre volontaire, des informations non confidentielles sur les différents incidents; |
+| --- | --- |
+
+| d) | à la demande du représentant d'un CSIRT d'un État membre, discuter et, si possible, identifier une réponse coordonnée à un incident identifié qui relève de la juridiction de ce même État membre; |
+| --- | --- |
+
+| e) | aider les États membres à faire face à des incidents transfrontaliers sur la base d'une assistance mutuelle volontaire; |
+| --- | --- |
+
+| f) | débattre, étudier et identifier d'autres formes de coopération opérationnelle, notamment en rapport avec:i)les catégories de risques et d'incidents;ii)les alertes précoces;iii)l'assistance mutuelle;iv)les principes et modalités d'une coordination lorsque les États membres réagissent à des risques et incidents transfrontaliers; |
+| --- | --- |
+| i) | les catégories de risques et d'incidents; |
+| ii) | les alertes précoces; |
+| iii) | l'assistance mutuelle; |
+| iv) | les principes et modalités d'une coordination lorsque les États membres réagissent à des risques et incidents transfrontaliers; |
+
+| g) | informer le groupe de coopération des activités du réseau et des autres formes de coopération opérationnelle débattues en application du point f) et demander des orientations à cet égard; |
+| --- | --- |
+
+| h) | étudier les enseignements tirés des exercices relatifs à la sécurité des réseaux et des systèmes d'information, y compris de ceux organisés par l'ENISA; |
+| --- | --- |
+
+| i) | à la demande d'un CSIRT donné, étudier les capacités et l'état de préparation dudit CSIRT; |
+| --- | --- |
+
+| j) | publier des lignes directrices afin de faciliter la convergence des pratiques opérationnelles en ce qui concerne l'application des dispositions du présent article relatives à la coopération opérationnelle. |
+| --- | --- |
+
+4. Aux fins du réexamen visé à l'article 23 et au plus tard le 9 août 2018, puis tous les ans et demi, le réseau des CSIRT établit un rapport évaluant l'expérience acquise à la suite de la coopération opérationnelle visée au présent article, comprenant des conclusions et des recommandations. Ce rapport est aussi transmis au groupe de coopération.
+
+5. Le réseau des CSIRT établit son propre règlement intérieur.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+L'Union peut, conformément à l'article 218 du traité sur le fonctionnement de l'Union européenne, conclure, avec des pays tiers ou des organisations internationales, des accords internationaux qui permettent et organisent leur participation à certaines activités du groupe de coopération. Ces accords tiennent compte de la nécessité d'assurer un niveau suffisant de protection des données.
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+1. Les États membres veillent à ce que les opérateurs de services essentiels prennent les mesures techniques et organisationnelles nécessaires et proportionnées pour gérer les risques qui menacent la sécurité des réseaux et des systèmes d'information qu'ils utilisent dans le cadre de leurs activités. Ces mesures garantissent, pour les réseaux et les systèmes d'information, un niveau de sécurité adapté au risque existant, compte tenu de l'état des connaissances.
+
+2. Les États membres veillent à ce que les opérateurs de services essentiels prennent les mesures appropriées en vue de prévenir les incidents qui compromettent la sécurité des réseaux et des systèmes d'information utilisés pour la fourniture de ces services essentiels ou d'en limiter l'impact, en vue d'assurer la continuité de ces services.
+
+3. Les États membres veillent à ce que les opérateurs de services essentiels notifient à l'autorité compétente ou au CSIRT, sans retard injustifié, les incidents qui ont un impact significatif sur la continuité des services essentiels qu'ils fournissent. Les notifications contiennent des informations permettant à l'autorité compétente ou au CSIRT de déterminer si l'incident a un impact au niveau transfrontalier. Cette notification n'accroît pas la responsabilité de la partie qui en est à l'origine.
+
+4. Afin de déterminer l'ampleur de l'impact d'un incident, il est, en particulier, tenu compte des paramètres suivants:
+
+| a) | le nombre d'utilisateurs touchés par la perturbation du service essentiel; |
+| --- | --- |
+
+| b) | la durée de l'incident; |
+| --- | --- |
+
+| c) | la portée géographique eu égard à la zone touchée par l'incident. |
+| --- | --- |
+
+5. Sur la base des informations fournies dans la notification de l'opérateur de services essentiels, l'autorité compétente ou le CSIRT signale aux autres États membres touchés si l'incident a un impact significatif sur la continuité des services essentiels dans ces États membres. Ce faisant, l'autorité compétente ou le CSIRT doit, dans le respect du droit de l'Union ou de la législation nationale conforme au droit de l'Union, préserver la sécurité et les intérêts commerciaux de l'opérateur de services essentiels ainsi que la confidentialité des informations communiquées dans sa notification.
+
+Lorsque les circonstances le permettent, l'autorité compétente ou le CSIRT fournit à l'opérateur de services essentiels qui est à l'origine de la notification des informations utiles au suivi de sa notification, par exemple celles qui pourraient contribuer à une gestion efficace de l'incident.
+
+À la demande de l'autorité compétente ou du CSIRT, le point de contact unique transmet les notifications visées au premier alinéa aux points de contact uniques des autres États membres touchés.
+
+6. Après avoir consulté l'opérateur de services essentiels qui est à l'origine de la notification, l'autorité compétente ou le CSIRT peut informer le public concernant des incidents particuliers, lorsque la sensibilisation du public est nécessaire pour prévenir un incident ou gérer un incident en cours.
+
+7. Les autorités compétentes, agissant de concert au sein du groupe de coopération, peuvent élaborer et adopter des lignes directrices relatives aux circonstances dans lesquelles les opérateurs de services essentiels sont tenus de notifier les incidents, y compris en ce qui concerne les paramètres permettant de déterminer l'ampleur de l'impact d'un incident au sens du paragraphe 4.
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+1. Les États membres veillent à ce que les autorités compétentes disposent des pouvoirs et des moyens nécessaires pour évaluer le respect, par les opérateurs de services essentiels, des obligations qui leur incombent en vertu de l'article 14, ainsi que les effets de ce respect sur la sécurité des réseaux et des systèmes d'information.
+
+2. Les États membres veillent à ce que les autorités compétentes disposent des pouvoirs et des moyens leur permettant d'exiger des opérateurs de services essentiels qu'ils fournissent:
+
+| a) | les informations nécessaires pour évaluer la sécurité de leurs réseaux et systèmes d'information, y compris les documents relatifs à leurs politiques de sécurité; |
+| --- | --- |
+
+| b) | des éléments prouvant la mise en œuvre effective des politiques de sécurité, tels que les résultats d'un audit de sécurité exécuté par l'autorité compétente ou un auditeur qualifié et, dans ce dernier cas, qu'ils en mettent les résultats, y compris les éléments probants, à la disposition de l'autorité compétente. |
+| --- | --- |
+
+Au moment de formuler une telle demande d'informations et de preuves, l'autorité compétente mentionne la finalité de la demande et précise quelles sont les informations exigées.
+
+3. Après évaluation des informations ou des résultats des audits de sécurité visés au paragraphe 2, l'autorité compétente peut donner des instructions contraignantes aux opérateurs de services essentiels pour remédier aux défaillances identifiées.
+
+4. Pour traiter des incidents donnant lieu à des violations des données à caractère personnel, l'autorité compétente coopère étroitement avec les autorités chargées de la protection des données.
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+1. Les États membres veillent à ce que les fournisseurs de service numérique identifient les risques qui menacent la sécurité des réseaux et des systèmes d'information qu'ils utilisent pour offrir, dans l'Union, les services visés à l'annexe III, et prennent les mesures techniques et organisationnelles nécessaires et proportionnées pour les gérer. Ces mesures garantissent, compte tenu de l'état des connaissances, un niveau de sécurité des réseaux et des systèmes d'information adapté au risque existant et prennent en considération les éléments suivants:
+
+| a) | la sécurité des systèmes et des installations; |
+| --- | --- |
+
+| b) | la gestion des incidents; |
+| --- | --- |
+
+| c) | la gestion de la continuité des activités; |
+| --- | --- |
+
+| d) | le suivi, l'audit et le contrôle; |
+| --- | --- |
+
+| e) | le respect des normes internationales. |
+| --- | --- |
+
+2. Les États membres veillent à ce que les fournisseurs de service numérique prennent des mesures pour éviter les incidents portant atteinte à la sécurité de leurs réseaux et systèmes d'information, et réduire au minimum l'impact de ces incidents sur les services visés à l'annexe III qui sont offerts dans l'Union, de manière à garantir la continuité de ces services.
+
+3. Les États membres veillent à ce que les fournisseurs de service numérique notifient à l'autorité compétente ou au CSIRT, sans retard injustifié, tout incident ayant un impact significatif sur la fourniture d'un service visé à l'annexe III qu'ils offrent dans l'Union. Les notifications contiennent des informations permettant à l'autorité compétente ou au CSIRT d'évaluer l'ampleur de l'éventuel impact au niveau transfrontalier. Cette notification n'accroît pas la responsabilité de la partie qui en est à l'origine.
+
+4. Afin de déterminer l'importance de l'impact d'un incident, il convient de tenir compte, en particulier, des paramètres qui suivent:
+
+| a) | le nombre d'utilisateurs touchés par l'incident, en particulier ceux qui recourent au service pour la fourniture de leurs propres services; |
+| --- | --- |
+
+| b) | la durée de l'incident; |
+| --- | --- |
+
+| c) | la portée géographique eu égard à la zone touchée par l'incident; |
+| --- | --- |
+
+| d) | la gravité de la perturbation du fonctionnement du service; |
+| --- | --- |
+
+| e) | l'ampleur de l'impact sur les fonctions économiques et sociétales. |
+| --- | --- |
+
+L'obligation de notifier un incident ne s'applique que lorsque le fournisseur de service numérique a accès aux informations nécessaires pour évaluer l'impact de l'incident eu égard aux paramètres visés au premier alinéa.
+
+5. Lorsqu'un opérateur de services essentiels s'appuie sur un tiers fournisseur de service numérique pour la prestation d'un service essentiel au maintien de fonctions sociétales et économiques critiques, tout impact significatif sur la continuité des services essentiels en raison d'un incident touchant le fournisseur de service numérique est notifié par ledit opérateur.
+
+6. Lorsque c'est approprié, et notamment si l'incident visé au paragraphe 3 concerne deux États membres ou plus, l'autorité compétente ou le CSIRT informe les autres États membres touchés. Ce faisant, les autorités compétentes, les CSIRT et les points de contact uniques doivent, dans le respect du droit de l'Union ou de la législation nationale conforme au droit de l'Union, préserver la sécurité et les intérêts commerciaux du fournisseur de service numérique ainsi que la confidentialité des informations communiquées.
+
+7. Après avoir consulté le fournisseur de service numérique concerné, l'autorité compétente ou le CSIRT et, lorsque c'est approprié, les autorités ou les CSIRT des autres États membres concernés peuvent informer le public d'incidents particuliers ou imposer au fournisseur de service numérique de le faire, dans le cas où la sensibilisation du public est nécessaire pour prévenir un incident ou pour gérer un incident en cours, ou lorsque la divulgation de l'incident est dans l'intérêt public à d'autres égards.
+
+8. La Commission adopte des actes d'exécution afin de compléter les éléments visés au paragraphe 1 et les paramètres énumérés au paragraphe 4 du présent article. Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 22, paragraphe 2, au plus tard le 9 août 2017.
+
+9. La Commission peut adopter des actes d'exécution fixant les formats et les procédures à appliquer pour respecter les exigences en matière de notification. Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 22, paragraphe 2.
+
+10. Sans préjudice de l'article 1er, paragraphe 6, les États membres n'imposent pas aux fournisseurs de service numérique d'autres exigences liées à la sécurité ou aux notifications.
+
+11. Le chapitre V ne s'applique pas aux microentreprises et petites entreprises telles qu'elles sont définies dans la recommandation 2003/361/CE de la Commission (19).
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+1. Les États membres veillent à ce que les autorités compétentes prennent des mesures, au besoin, dans le cadre de mesures de contrôle a posteriori, lorsque, selon les éléments communiqués, un fournisseur de service numérique ne satisfait pas aux exigences énoncées à l'article 16. Ces éléments peuvent être communiqués par une autorité compétente d'un autre État membre dans lequel le service est fourni.
+
+2. Aux fins du paragraphe 1, les autorités compétentes disposent des pouvoirs et des moyens nécessaires pour imposer aux fournisseurs de service numérique:
+
+| a) | de communiquer les informations nécessaires pour évaluer la sécurité de leurs réseaux et systèmes d'information, y compris les documents relatifs à leurs politiques de sécurité; |
+| --- | --- |
+
+| b) | de corriger tout manquement aux obligations fixées à l'article 16. |
+| --- | --- |
+
+3. Si un fournisseur de service numérique a son établissement principal ou un représentant dans un État membre alors que ses réseaux et systèmes d'information sont situés dans un ou plusieurs autres États membres, l'autorité compétente de l'État membre de l'établissement principal ou du représentant et les autorités compétentes de ces autres États membres coopèrent et se prêtent mutuellement assistance si nécessaire. Cette assistance et cette coopération peuvent porter sur les échanges d'informations entre les autorités compétentes concernées et sur les demandes de prise de mesures de contrôle visées au paragraphe 2.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+1. Aux fins de la présente directive, un fournisseur de service numérique est considéré comme relevant de la compétence de l'État membre dans lequel il a son établissement principal. Un fournisseur de service numérique est réputé avoir son établissement principal dans un État membre lorsque son siège social se trouve dans cet État membre.
+
+2. Un fournisseur de service numérique qui n'est pas établi dans l'Union mais fournit des services visés à l'annexe III à l'intérieur de l'Union désigne un représentant dans l'Union. Le représentant est établi dans l'un des États membres dans lesquels les services sont fournis. Le fournisseur de service numérique est considéré comme relevant de la compétence de l'État membre dans lequel le représentant est établi.
+
+3. La désignation d'un représentant par le fournisseur de service numérique est sans préjudice d'actions en justice qui pourraient être intentées contre le fournisseur de service numérique lui-même.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+1. Afin de favoriser la convergence de la mise en œuvre de l'article 14, paragraphes 1 et 2, et de l'article 16, paragraphes 1 et 2, les États membres encouragent, sans imposer l'utilisation d'un type particulier de technologies ni créer de discrimination en faveur d'un tel type particulier de technologies, le recours à des normes et des spécifications européennes ou internationalement reconnues pour la sécurité des réseaux et des systèmes d'information.
+
+2. L'ENISA, en collaboration avec les États membres, formule des avis et des lignes directrices relatives aux domaines techniques qui doivent être pris en considération en liaison avec le paragraphe 1 et relatives aux normes existantes, y compris les normes nationales des États membres, qui permettraient de couvrir ces domaines.
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+1. Sans préjudice de l'article 3, les entités qui n'ont pas été identifiées en tant qu'opérateurs de services essentiels et qui ne sont pas des fournisseurs de service numérique peuvent notifier, à titre volontaire, les incidents ayant un impact significatif sur la continuité des services qu'elles fournissent.
+
+2. Lorsqu'ils traitent des notifications, les États membres agissent conformément à la procédure énoncée à l'article 14. Les États membres peuvent traiter les notifications obligatoires en leur donnant la priorité par rapport aux notifications volontaires. Les notifications volontaires ne sont traitées que lorsque leur traitement ne fait pas peser de charge disproportionnée ou inutile sur les États membres concernés.
+
+Une notification volontaire n'a pas pour effet d'imposer à l'entité qui est à l'origine de la notification des obligations auxquelles elle n'aurait pas été soumise si elle n'avait pas procédé à ladite notification.
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+Les États membres fixent des règles relatives aux sanctions applicables en cas d'infraction aux dispositions nationales adoptées en vertu de la présente directive et prennent toutes les mesures nécessaires pour que ces règles soient appliquées. Les sanctions prévues sont effectives, proportionnées et dissuasives. Les États membres notifient ces règles et ces mesures à la Commission au plus tard le 9 mai 2018 et lui notifient sans retard toute modification ultérieure les concernant.
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. La Commission est assistée par le comité de la sécurité des réseaux et des systèmes d'information. Ledit comité est un comité au sens du règlement (UE) no 182/2011.
+
+2. Lorsqu'il est fait référence au présent paragraphe, l'article 5 du règlement (UE) no 182/2011 s'applique.
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+1. Au plus tard le 9 mai 2019, la Commission présente au Parlement européen et au Conseil un rapport évaluant la cohérence de l'approche adoptée par les États membres pour identifier les opérateurs de services essentiels.
+
+2. La Commission réexamine périodiquement le fonctionnement de la présente directive et en rend compte au Parlement européen et au Conseil. À cette fin et en vue de faire progresser la coopération stratégique et opérationnelle, la Commission tient compte des rapports du groupe de coopération et du réseau des CSIRT sur l'expérience acquise au niveau tant stratégique qu'opérationnel. Dans son réexamen, la Commission évalue en outre les listes figurant aux annexes II et III ainsi que la cohérence de l'identification des opérateurs de services essentiels et des services dans les secteurs visés à l'annexe II. Le premier rapport est présenté au plus tard le 9 mai 2021.
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+1. Sans préjudice de l'article 25 et afin d'offrir aux États membres des possibilités supplémentaires de coopération appropriée au cours de la période de transposition, le groupe de coopération et le réseau des CSIRT commencent à s'acquitter des tâches définies respectivement à l'article 11, paragraphe 3, et à l'article 12, paragraphe 3, au plus tard le 9 février 2017.
+
+2. Au cours de la période comprise entre le 9 février 2017 et le 9 novembre 2018, et aux fins d'aider les États membres à adopter une approche cohérente dans le processus d'identification des opérateurs de services essentiels, le groupe de coopération discute du processus, ainsi que du contenu et du type des mesures nationales visant à identifier les opérateurs de services essentiels dans un secteur spécifique, conformément aux critères énoncés aux articles 5 et 6. Le groupe de coopération discute en outre, à la demande d'un État membre, des projets spécifiques de mesures nationales élaborés par cet État membre en vue d'identifier les opérateurs de services essentiels dans un secteur spécifique, conformément aux critères énoncés aux articles 5 et 6.
+
+3. Au plus tard le 9 février 2017, et aux fins du présent article, les États membres assurent une représentation appropriée au sein du groupe de coopération et du réseau des CSIRT.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+1. Les États membres adoptent et publient, au plus tard le 9 mai 2018, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils en informent immédiatement la Commission.
+
+Ils appliquent ces dispositions à partir du 10 mai 2018.
+
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.
+
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+Les États membres sont destinataires de la présente directive.

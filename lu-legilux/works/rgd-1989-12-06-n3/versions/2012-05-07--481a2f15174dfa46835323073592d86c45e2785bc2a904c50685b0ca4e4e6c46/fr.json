@@ -1,0 +1,261 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/08/2024 : Règlement grand-ducal modifié du 6 décembre 1989 concernant le congé politique des bourgmestres, échevins et conseillers communaux.",
+  "valid_from": "2012-05-07",
+  "valid_to": "2015-01-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1989-12-06-n3/versions/2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46/fr.xml",
+    "sha256": "83c9203e27fc5a59448801805fb020f20831c37d053e9650e4e2acf6aa89cc10",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20120507/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les agents visés à l’article 78 de la loi communale du 13 décembre 1988 ont droit à un congé politique dans les cas et selon les modalités fixés ci-après (...).",
+      "text_sha256": "129df0539a372df1f3274112604640a98896afa4a7513ee44dcaddecc824bda9",
+      "md_span": {
+        "start": 738,
+        "end": 898
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/12/13/n1/jo",
+          "text": "loi communale du 13 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 13 février 2009)*\n\n«Le congé politique de ces agents, lorsqu’ils remplissent les fonctions respectivement de bourgmestre ou d’échevin, comprend le nombre maximum de jours de travail ou de parties de jours de travail par semaine indiqué ci-après:\n\n- dans les communes dont le conseil communal se compose de 7 membres: 9 heures pour le bourgmestre et 5 heures pour chacun des échevins;\n- dans les communes dont le conseil communal se compose de 9 membres: 13 heures pour le bourgmestre et 7 heures pour chacun des échevins;\n- dans les communes dont le conseil communal se compose de 11 membres: 20 heures pour le bourgmestre et 10 heures pour chacun des échevins;\n- dans les communes dont le conseil communal se compose de 13 membres: 28 heures pour le bourgmestre et 14 heures pour chacun des échevins;\n- dans les communes dont le conseil communal se compose de 15 membres au moins: 40 heures pour le bourgmestre et 20 heures pour chacun des échevins»«;»\n\n*(Règl. g.-d. du 25 avril 2012)*\n\n«– dans la commune fusionnée de Schengen, pendant la période transitoire telle que définie à l’article 13 (1) de la loi du 24 mai 2011 portant fusion des communes de Burmerange, de Schengen et de Wellenstein: 28 heures pour le bourgmestre et 14 heures pour chacun des échevins.»",
+      "text_sha256": "02cb803ce6d3434dd48b9a37e28e6ed53db01259a44128f271b0800504fddf16",
+      "md_span": {
+        "start": 933,
+        "end": 2217
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n3/jo",
+          "text": "Règl. g.-d. du 13 février 2009"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/2012/04/25/n1/jo",
+          "text": "Règl. g.-d. du 25 avril 2012"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/05/24/n4/jo",
+          "text": "loi du 24 mai 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour les agents qui remplissent un mandat de conseiller communal, le congé politique comprend le nombre maximum de jours de travail ou de parties de jours de travail par semaine indiqué ci-après:\n\n- dans les communes qui votent d’après le système de la majorité «relative»: «3» heures;\n- dans les communes qui votent d’après le système de la représentation proportionnelle: «5» heures.",
+      "text_sha256": "da78e5e8fd06e50335ea04e7cf6acc739dcbc1702a8ded960b43eeb813914cf2",
+      "md_span": {
+        "start": 2252,
+        "end": 2637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3bis",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_3bis",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 3bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Par dérogation aux articles 2 et 3, un supplément de 9 heures de congé politique par semaine au maximum est institué pour chaque conseil communal selon les modalités suivantes.\n\n**(2)** Le conseil communal fixe par délibération la répartition du supplément de congé politique entre les agents visés à l’article 1er et les personnes visées à l’article 8 qui ont été désignés comme délégués dans les syndicats de communes dont la commune est membre.\n\nLors de cette répartition, il sera tenu compte par ordre de priorité décroissant, de l’envergure nationale, régionale ou intercommunale du syndicat concerné.\n\n**(3)** Le collège des bourgmestre et échevins délivre à chaque élu communal concerné, sur base d’une expédition de la délibération conforme à l’article 26 de la loi communale, un certificat portant la date de délivrance et renseignant sur le nombre supplémentaire d’heures de congé politique lui accordé.\n\nCe certificat sert comme titre justificatif auprès de l’employeur.\n\nL’agent concerné est tenu de signaler immédiatement à son employeur tout changement ayant une incidence sur le supplément de congé politique qui lui a été accordé.\n\n**(4)** Le droit au congé politique commence le 1er du mois qui suit la date de délivrance du certificat précité et prend fin le jour de la cessation du mandat au syndicat de communes.\n\n**(5)** En aucun cas, le total du congé politique ne saurait dépasser un maximum de 40 heures par semaine.»",
+      "text_sha256": "4eee83cfd84cb528c5f7aa02e2c09a77fc09322e0b26df0d6001feae69710c33",
+      "md_span": {
+        "start": 2679,
+        "end": 4128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les nombres maxima de jours de travail ou de parties de jours de travail par semaine indiqués aux «articles 2, 3 et 3*bis*» ci-dessus s’appliquent aux agents concernés lorsqu’ils exercent une activité professionnelle à plein temps.\n\nLorsqu’ils n’exercent l’activité professionnelle salariée qu’à temps partiel, les nombres maxima d’heures de congé politique prévues à ce titre sont adaptés proportionnellement au temps de travail de l’agent. Le solde des heures effectivement dues aux termes des «articles 2, 3 et 3*bis*» est bonifié aux intéressés conformément aux dispositions de l’art. 8 ci-dessous.»",
+      "text_sha256": "82f9a867c40c2489fc8e86a1cb76f94a0faf96bbdeba936b2decfa39544750ee",
+      "md_span": {
+        "start": 4164,
+        "end": 4767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «5».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le congé politique visé aux articles qui précèdent ne peut être utilisé par les agents que pour l’exercice des missions qui découlent directement de l’accomplissement de leurs mandats ou de leurs fonctions.\n\nL’agent ayant droit au congé politique prend ce congé à sa convenance par jour de travail ou partie de jour de travail. Il ne peut toutefois reporter le congé «d’une année de calendrier» à l’autre.",
+      "text_sha256": "cadc1f093e0b47759c1da0db3aedd78ba1cd5361be8489089a272eb85441372c",
+      "md_span": {
+        "start": 4804,
+        "end": 5209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «6».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le congé politique est considéré comme temps de travail effectif. Pendant la durée du congé politique, les dispositions légales en matière de sécurité sociale et de protection de l’emploi restent applicables.\n\nLa durée du congé politique ne peut pas être imputée sur le congé annuel de récréation tel qu’il est fixé par la loi ou par une convention spéciale.\n\nLes bénéficiaires du congé politique continuent, pendant la durée du congé, à toucher leur rémunération et à jouir des avantages attachés à leur activité professionnelle.",
+      "text_sha256": "21eaeb6f1c835d205a9e994a2e477e2d7bbea435c1244077932af4ea8d843f4c",
+      "md_span": {
+        "start": 5246,
+        "end": 5776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «7».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 8 décembre 1996)*\n\n«Le remboursement à l’employeur de l’agent visé à l’article 80 de la loi communale est effectué une fois par an par l’intermédiaire du fonds des dépenses communales sur base d’une déclaration à présenter au Ministère de l’Intérieur au plus tard le 30 septembre de l’année qui suit celle pour laquelle le remboursement est demandé.\n\nFaute d’avoir présenté la déclaration de remboursement à cette date, le droit au remboursement pour l’année en question est déchu.\n\nLa déclaration est faite sur une fiche que chaque agent reçoit du collège des bourgmestre et échevins de la commune où il exerce son mandat et qu’il remet à son employeur qui la remplit et qui signe la déclaration et la demande de remboursement.\n\nL’exactitude des indications de la fiche est certifiée par la signature de l’agent intéressé.»",
+      "text_sha256": "6c554511c3a9c847f48252db311869f206257ea7d08446d6576d2f11c404a08d",
+      "md_span": {
+        "start": 5813,
+        "end": 6654
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/1996/12/08/n1/jo",
+          "text": "Règl. g.-d. du 8 décembre 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «8».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 19 avril 1994)*\n\n«Les membres actifs des professions indépendantes ainsi que les personnes sans profession ne bénéficiant pas d’un régime statutaire, âgés de moins de 65 ans, qui sont bourgmestre, échevin ou conseiller communal sont indemnisés pour le temps qu’ils consacrent à l’exercice de leurs mandats ou fonctions dans les limites fixées par les «articles 2, 3, 3*bis* et 4» du présent règlement.\n\nLe montant de l’indemnité horaire est fixé forfaitairement au double du salaire social minimum pour travailleurs qualifiés (...).»",
+      "text_sha256": "676d4b5f61d61541427c0780cbc10fc04226e5847c69bf958e031ae3d788f3e6",
+      "md_span": {
+        "start": 6691,
+        "end": 7241
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/1994/04/19/n5/jo",
+          "text": "Règl. g.-d. du 19 avril 1994"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «9».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 8 décembre 1996)*\n\n«Le paiement de l’indemnité à l’intéressé est effectué une fois par an par l’intermédiaire du fonds des dépenses communales sur base d’une déclaration à présenter au Ministère de l’Intérieur au plus tard le 30 septembre de l’année qui suit celle pour laquelle l’indemnisation est demandée.\n\nFaute d’avoir présenté la déclaration d’indemnisation à cette date, le droit à l’indemnisation pour l’année en question est déchu.\n\nLa déclaration est faite sur une fiche que chaque intéressé reçoit du collège des bourgmestre et échevins de la commune où il exerce son mandat. L’intéressé remplit et signe la déclaration et la demande de paiement.»",
+      "text_sha256": "a8ecea53a949d5d824b28f14fd7cd0b8036103cfdcdf145f8aa0aa7e77190627",
+      "md_span": {
+        "start": 7278,
+        "end": 7953
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/1996/12/08/n1/jo",
+          "text": "Règl. g.-d. du 8 décembre 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les déclarations de remboursement ou d’indemnisation de congé politique concernant les années 1989 à 1995 doivent être présentées au Ministère de l’Intérieur au plus tard le 31 décembre 1996.\n\nFaute d’avoir présenté une déclaration y relative dans ce délai, le droit au remboursement ou à l’indemnisation de congé politique est déchu.»",
+      "text_sha256": "bd6865346a6a9b72ff40e749492fd01905fa8ed9392a7f0d87d49cd618fe0868",
+      "md_span": {
+        "start": 7991,
+        "end": 8326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1989-12-06-n3:2012-05-07--481a2f15174dfa46835323073592d86c45e2785bc2a904c50685b0ca4e4e6c46#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. «11».",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l’Intérieur est chargé de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 1989.",
+      "text_sha256": "e1ccc4b82c17b50674c13134ad64166b0a45fca73721a835a721dd9e56638324",
+      "md_span": {
+        "start": 8365,
+        "end": 8513
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

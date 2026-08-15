@@ -1,0 +1,2125 @@
+---
+lex_id: 'eu-eurlex:32018r1999:2021-01-01--398f51d9d475438f73ae022dc28db4e0532846b0c690563e26bd5107f9804a5a'
+title: 'Regulation (EU) 2018/1999'
+valid_from: '2021-01-01'
+valid_to: '2021-07-28'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1999-20210101'
+source_sha256: '47857164093d387edf22fd3db775e06e94bffa2d74f183fe1688a7b95aa08c31'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## *CHAPTER 1*
+
+### ***General provisions***
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter and scope
+
+**1.** This Regulation establishes a governance mechanism to:(a) implement strategies and measures designed to meet the objectives and targets of the Energy Union and the long-term Union greenhouse gas emissions commitments consistent with the Paris Agreement, and for the first ten-year period, from 2021 to 2030, in particular the Union's 2030 targets for energy and climate;(b) stimulate cooperation between Member States, including, where appropriate, at regional level, designed to achieve the objectives and targets of the Energy Union;(c) ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of reporting by the Union and its Member States to the UNFCCC and Paris Agreement secretariat;(d) contribute to greater regulatory certainty as well as contribute to greater investor certainty and help take full advantage of opportunities for economic development, investment stimulation, job creation and social cohesion.
+
+The governance mechanism is based on long-term strategies, integrated national energy and climate plans covering ten-year periods starting from 2021 to 2030, corresponding integrated national energy and climate progress reports by the Member States and integrated monitoring arrangements by the Commission. The governance mechanism ensures effective opportunities for the public to participate in the preparation of those national plans and those long-term strategies. It comprises a structured, transparent, iterative process between the Commission and Member States for the purpose of the finalisation of the integrated national energy and climate plans and their subsequent implementation, including with regard to regional cooperation, and corresponding Commission action.
+
+**2.** This Regulation applies to the five dimensions of the Energy Union, which are closely related and mutually reinforcing:(a) energy security;(b) internal energy market;(c) energy efficiency;(d) decarbonisation; and(e) research, innovation and competitiveness.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+The following definitions apply:
+
+(1) ‘policies and measures’ means all instruments which contribute to meeting the objectives of the integrated national energy and climate plans and/or to implement commitments under points (a) and (b) of Article 4(2) of the UNFCCC, which may include those that do not have the limitation and reduction of greenhouse gas emissions or change in the energy system as a primary objective;
+
+(2) ‘existing policies and measures’ means implemented policies and measures and adopted policies and measures;
+
+(3) ‘implemented policies and measures’ means policies and measures for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report: directly applicable Union or national law is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised;
+
+(4) ‘adopted policies and measures’ means policies and measures for which an official government decision has been made by the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report and there is a clear commitment to proceed with implementation;
+
+(5) ‘planned policies and measures’ means options that are under discussion and that have a realistic chance of being adopted and implemented after the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report;
+
+(6) ‘system for policies and measures and projections’ means a system of institutional, legal and procedural arrangements established for reporting policies and measures and projections relating to anthropogenic emissions by sources and removals by sinks of greenhouse gases and to the energy system, inter alia as required by Article 39;
+
+(7) ‘projections’ means forecasts of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system, including at least quantitative estimates for a sequence of four future years ending with 0 or 5 immediately following the reporting year;
+
+(8) ‘projections without measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that exclude the effects of all policies and measures which are planned, adopted or implemented after the year chosen as the starting point for the relevant projection;
+
+(9) ‘projections with measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that encompass the effects, in terms of greenhouse gas emission reductions or developments of the energy system, of policies and measures that have been adopted and implemented;
+
+(10) ‘projections with additional measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system that encompass the effects, in terms of greenhouse gas emission reductions, of policies and measures which have been adopted and implemented to mitigate climate change or meet energy objectives, as well as policies and measures which are planned for that purpose;
+
+(11) ‘the Union's 2030 targets for energy and climate’ means the Union-wide binding target of at least 40 % domestic reduction in economy-wide greenhouse gas emissions as compared to 1990 to be achieved by 2030, the Union-level binding target of at least 32 % for the share of renewable energy consumed in the Union in 2030, the Union-level headline target of at least 32,5 % for improving energy efficiency in 2030, and the 15 % electricity interconnection target for 2030 or any subsequent targets in this regard agreed by the European Council or by the European Parliament and by the Council for 2030;
+
+(12) ‘national inventory system’ means a system of institutional, legal and procedural arrangements established within a Member State for estimating anthropogenic emissions by sources and removals by sinks of greenhouse gases, and for reporting and archiving inventory information;
+
+(13) ‘indicator’ means a quantitative or qualitative factor or variable that contributes to better understanding progress in implementing;
+
+(14) ‘key indicators’ mean the indicators for the progress made with regard to the five dimensions of the Energy Union as proposed by the Commission;
+
+(15) ‘technical corrections’ means adjustments to the national greenhouse gas inventory estimates made in the context of the review carried out pursuant to Article 38 when the submitted inventory data are incomplete or are prepared in a way that is not consistent with relevant international or Union rules or guidelines and that are intended to replace originally submitted estimates;
+
+(16) ‘quality assurance’ means a planned system of review procedures to ensure that data quality objectives are met and that the best possible estimates and information are reported to support the effectiveness of the quality control programme and to assist Member States;
+
+(17) ‘quality control’ means a system of routine technical activities to measure and control the quality of the information and estimates compiled with the purpose of ensuring data integrity, correctness and completeness, identifying and addressing errors and omissions, documenting and archiving data and other material used, and recording all quality assurance activities;
+
+(18) ‘energy efficiency first’ means taking utmost account in energy planning, and in policy and investment decisions, of alternative cost-efficient energy efficiency measures to make energy demand and energy supply more efficient, in particular by means of cost-effective end-use energy savings, demand response initiatives and more efficient conversion, transmission and distribution of energy, whilst still achieving the objectives of those decisions;
+
+(19) ‘SET-Plan’ means the Strategic Energy Technology Plan as set out in the Commission communication of 15 September 2015, entitled, ‘Towards an Integrated Strategic Energy Technology (SET) Plan: Accelerating the European Energy System Transformation’;
+
+(20) ‘early efforts’ means: (a) in the context of the assessment of a potential gap between the Union's 2030 target for energy from renewable sources and the collective contributions of Member States, a Member State's achievement of a share of energy from renewable sources above its national binding target for 2020 as set out in Annex I to Directive (EU) 2018/2001 or a Member State's early progress towards its national binding target for 2020; (b) in the context of Commission recommendations based on the assessment pursuant to point (b) of Article 29(1) with regard to energy from renewable sources, a Member State's early implementation of its contribution to the Union's binding target of at least 32 % of renewable energy in 2030 as measured against its national reference points for renewable energy;
+
+(21) ‘regional cooperation’ means cooperation between two or more Member States engaged in a partnership covering one or more of the five dimensions of the Energy Union;
+
+(22) ‘energy from renewable sources’ or ‘renewable energy’ means energy from renewable sources or renewable energy as defined in point (1) of Article 2 of Directive (EU) 2018/2001;
+
+(23) ‘gross final consumption of energy’ means gross final consumption of energy as defined in point (4) of Article 2 of Directive (EU) 2018/2001;
+
+(24) ‘support scheme’ means support scheme as defined in point (5) of Article 2 of Directive (EU) 2018/2001;
+
+(25) ‘repowering’ means repowering as defined in point (10) of Article 2 of Directive (EU) 2018/2001;
+
+(26) ‘renewable energy community’ means renewable energy community as defined in point (16) of Article 2 of Directive (EU) 2018/2001;
+
+(27) ‘district heating’ or ‘district cooling’ means district heating or district cooling as defined in point (19) of Article 2 of Directive (EU) 2018/2001;
+
+(28) ‘waste’ means waste as defined in point (23) of Article 2 of Directive (EU) 2018/2001;
+
+(29) ‘biomass’ means biomass as defined in point (24) of Article 2 of Directive (EU) 2018/2001;
+
+(30) ‘agricultural biomass’ means agricultural biomass as defined in point (25) of Article 2 of Directive (EU) 2018/2001;
+
+(31) ‘forest biomass’ means forest biomass as defined in point (26) of Article 2 of Directive (EU) 2018/2001;
+
+(32) ‘biomass fuels’ means biomass fuels as defined in point (27) of Article 2 of Directive (EU) 2018/2001;
+
+(33) ‘biogas’ means biogas as defined in point (28) of Article 2 of Directive (EU) 2018/2001;
+
+(34) ‘bioliquids’ means bioliquids as defined in point (32) of Article 2 of Directive (EU) 2018/2001;
+
+(35) ‘biofuels’ means biofuels as defined in point (33) of Article 2 of Directive (EU) 2018/2001;
+
+(36) ‘advanced biofuels’ means advanced biofuels as defined in point (34) of Article 2 of Directive (EU) 2018/2001;
+
+(37) ‘recycled carbon fuels’ means recycled carbon fuels as defined in point (35) of Article 2 of Directive (EU) 2018/2001;
+
+(38) ‘starch-rich crops’ means starch-rich crops as defined in point (39) of Article 2 of Directive (EU) 2018/2001;
+
+(39) ‘food and feed crops’ means food and feed crops as defined in point (40) of Article 2 of Directive (EU) 2018/2001;
+
+(40) ‘ligno-cellulosic material’ means ligno-cellulosic material as defined in point (41) of Article 2 of Directive (EU) 2018/2001;
+
+(41) ‘residue’ means residue as defined in point (43) of Article 2 of Directive (EU) 2018/2001;
+
+(42) ‘primary energy consumption’ means primary energy consumption as defined in point (2) of Article 2 of Directive 2012/27/EU;
+
+(43) ‘final energy consumption’ means final energy consumption as defined in point (3) of Article 2 of Directive 2012/27/EU;
+
+(44) ‘energy efficiency’ means energy efficiency as defined in point (4) of Article 2 of Directive 2012/27/EU;
+
+(45) ‘energy savings’ means energy savings as defined in point (5) of Article 2 of Directive 2012/27/EU;
+
+(46) ‘energy efficiency improvement’ means energy efficiency improvement as defined in point (6) of Article 2 of Directive 2012/27/EU;
+
+(47) ‘energy service’ means energy service as defined in point (7) of Article 2 of Directive 2012/27/EU;
+
+(48) ‘total useful floor area’ means total useful floor area as defined in point (10) of Article 2 of Directive 2012/27/EU;
+
+(49) ‘energy management system’ means energy management system as defined in point (11) of Article 2 of Directive 2012/27/EU;
+
+(50) ‘obligated party’ means obligated party as defined in point (14) of Article 2 of Directive 2012/27/EU;
+
+(51) ‘implementing public authority’ means implementing public authority as defined in point (17) of Article 2 of Directive 2012/27/EU;
+
+(52) ‘individual action’ means individual action as defined in point (19) of Article 2 of Directive 2012/27/EU;
+
+(53) ‘energy distributor’ means energy distributor as defined in point (20) of Article 2 of Directive 2012/27/EU;
+
+(54) ‘distribution system operator’ means ‘distribution system operator’ as defined in point (6) of Article 2 of Directive 2009/72/EC and in point (6) of Article 2 of Directive 2009/73/EC;
+
+(55) ‘retail energy sales company’ means retail energy sales company as defined in point (22) of Article 2 of Directive 2012/27/EU;
+
+(56) ‘energy service provider’ means energy service provider as defined in point (24) of Article 2 of Directive 2012/27/EU;
+
+(57) ‘energy performance contracting’ means energy performance contracting as defined in point (27) of Article 2 of Directive 2012/27/EU;
+
+(58) ‘cogeneration’ means cogeneration as defined in point (30) of Article 2 of Directive 2012/27/EU;
+
+(59) ‘building’ means a building as defined in point (1) of Article 2 of Directive 2010/31/EU;
+
+(60) ‘nearly zero-energy building’ means a nearly zero-energy building as defined in point (2) of Article 2 of Directive 2010/31/EU;
+
+(61) ‘heat pump’ means heat pump as defined in point (18) of Article 2 of Directive 2010/31/EU;
+
+(62) ‘fossil fuel’ means non-renewable carbon-based energy sources such as solid fuels, natural gas and oil.
+
+## *CHAPTER 2*
+
+### ***Integrated national energy and climate plans***
+
+<a id="art_3"></a>
+
+### Article 3 — Integrated national energy and climate plans
+
+**1.** By 31 December 2019, and subsequently by 1 January 2029 and every ten years thereafter, each Member State shall notify to the Commission an integrated national energy and climate plan. The plans shall contain the elements set out in paragraph 2 of this Article and in Annex I. The first plan shall cover the period from 2021 to 2030, taking into account the longer term perspective. The subsequent plans shall cover the ten-year period immediately following the end of the period covered by the previous plan.
+
+**2.** The integrated national energy and climate plans shall consist of the following main sections:(a) an overview of the process followed for establishing the integrated national energy and climate plan consisting of an executive summary, a description of the public consultation and involvement of stakeholders and their results, and of regional cooperation with other Member States in preparing the plan, as established in Articles 10, 11 and 12 and in point 1 of Section A of Part I of Annex I;(b) a description of national objectives, targets and contributions relating to the dimensions of the Energy Union, as set out in Article 4 and Annex I;(c) a description of the planned policies and measures in relation to the corresponding objectives, targets and contributions set out under point (b) as well as a general overview of the investment needed to meet the corresponding objectives, targets and contributions;(d) a description of the current situation of the five dimensions of the Energy Union, including with regard to the energy system and greenhouse gas emissions and removals as well as projections with regard to the objectives referred to in point (b) with already existing policies and measures;(e) where applicable, a description of the regulatory and non-regulatory barriers and hurdles to delivering the objectives, targets or contributions related to renewable energy and energy efficiency;(f) an assessment of the impacts of the planned policies and measures to meet the objectives referred to in point (b), including their consistency with the long-term greenhouse gas emission reduction objectives under the Paris Agreement and the long-term strategies as referred to in Article 15;(g) a general assessment of the impacts of the planned policies and measures on competitiveness linked to the five dimensions of the Energy Union;(h) an annex, drawn up in accordance with the requirements and structure laid down in Annex III to this Regulation, setting out the Member State's methodologies and policy measures for achieving the energy savings requirement in accordance with Article 7 of Directive 2012/27/EU and Annex V thereto.
+
+**3.** With regard to their integrated national energy and climate plans, Member States shall:(a) limit administrative complexity and costs for all relevant stakeholders;(b) take into account the interlinkages between the five dimensions of the Energy Union, in particular the energy efficiency first principle;(c) use robust and consistent data and assumptions across the five dimensions where relevant;(d) assess the number of households in energy poverty taking into account the necessary domestic energy services needed to guarantee basic standards of living in the relevant national context, existing social policy and other relevant policies, as well as indicative Commission guidance on relevant indicators for energy poverty.In the event that a Member State finds, pursuant to point (d) of the first subparagraph, that it has a significant number of households in energy poverty, on the basis of its assessment of verifiable data, it shall include in its plan a national indicative objective to reduce energy poverty. The Member States concerned shall outline in their integrated national energy and climate plans, the policies and measures, which address energy poverty, if any, including social policy measures and other relevant national programmes.
+
+**4.** Each Member State shall make its integrated national energy and climate plan submitted to the Commission pursuant to this Article publicly available.
+
+**5.** The Commission is empowered to adopt delegated acts in accordance with Article 43 in order to amend points 2.1.1 and 3.1.1 of Section A and points 4.1 and 4.2.1 of Section B of Part 1, and point 3 of Part 2 of Annex I, for the purpose of adapting them to amendments to the Union Energy and Climate policy framework that are directly and specifically related to the Union's contributions under the UNFCCC and the Paris Agreement.
+
+<a id="art_4"></a>
+
+### Article 4 — National objectives, targets and contributions for the five dimensions of the Energy Union
+
+Each Member State shall set out in its integrated national energy and climate plan the following main objectives, targets and contributions, as specified in point 2 of section A of Annex I:
+
+(a) as regards the dimension ‘Decarbonisation’: (1) with respect to greenhouse gas emissions and removals and with a view to contributing to the achievement of the economy wide Union greenhouse gas emission reduction target: (i) the Member State's binding national target for greenhouse gas emissions and the annual binding national limits pursuant to Regulation (EU) 2018/842; (ii) the Member State's commitments pursuant to Regulation (EU) 2018/841; (iii) where applicable to meet the objectives and targets of the Energy Union and the long-term Union greenhouse gas emissions commitments consistent with the Paris Agreement, other objectives and targets, including sector targets and adaptation goals. (2) with respect to renewable energy: With a view to achieving the Union's binding target of at least 32 % renewable energy in 2030 as referred to in Article 3 of Directive (EU) 2018/2001, a contribution to that target in terms of the Member State's share of energy from renewable sources in gross final consumption of energy in 2030, with an indicative trajectory for that contribution from 2021 onwards. By 2022, the indicative trajectory shall reach a reference point of at least 18 % of the total increase in the share of energy from renewable sources between that Member State's binding 2020 national target, and its contribution to the 2030 target. By 2025, the indicative trajectory shall reach a reference point of at least 43 % of the total increase in the share of energy from renewable sources between that Member State's binding 2020 national target and its contribution to the 2030 target. By 2027, the indicative trajectory shall reach a reference point of at least 65 % of the total increase in the share of energy from renewable sources between that Member State's binding 2020 national target and its contribution to the 2030 target. By 2030, the indicative trajectory shall reach at least the Member State's planned contribution. If a Member State expects to surpass its binding 2020 national target, its indicative trajectory may start at the level it is projected to achieve. The Member States' indicative trajectories, taken together, shall add up to the Union reference points in 2022, 2025 and 2027 and to the Union's binding target of at least 32 % renewable energy in 2030. Separately from its contribution to the Union target and its indicative trajectory for the purposes of this Regulation, a Member State shall be free to indicate higher ambitions for national policy purposes;
+
+(b) as regards the dimension ‘Energy Efficiency’: (1) the indicative national energy efficiency contribution to achieving the Union's energy efficiency targets of at least 32,5 % in 2030 as referred to in Article 1(1) and Article 3(5) of Directive 2012/27/EU, based on either primary or final energy consumption, primary or final energy savings, or energy intensity. Member States shall express their contribution in terms of absolute level of primary energy consumption and final energy consumption in 2020, and in terms of absolute level of primary energy consumption and final energy consumption in 2030, with an indicative trajectory for that contribution from 2021 onwards. They shall explain their underlying methodology and the conversion factors used; (2) the cumulative amount of end-use energy savings to be achieved over the period 2021-2030 under point (b) of Article 7(1) on the energy saving obligations pursuant to Directive 2012/27/EU; (3) the indicative milestones of the long-term strategy for the renovation of the national stock of residential and non-residential buildings, both public and private, the roadmap with domestically established measurable progress indicators, an evidence-based estimate of expected energy savings and wider benefits, and the contributions to the Union's energy efficiency targets pursuant to Directive 2012/27/EU in accordance with Article 2a of Directive 2010/31/EU; (4) the total floor area to be renovated or equivalent annual energy savings to be achieved from 2021 to 2030 under Article 5 of Directive 2012/27/EU on the exemplary role of public bodies' buildings;
+
+(c) as regards the dimension ‘Energy Security’: (1) national objectives with regard to: — increasing the diversification of energy sources and supply from third countries, the purpose of which may be to reduce energy import dependency, — increasing the flexibility of the national energy system, and — addressing constrained or interrupted supply of an energy source, for the purpose of improving the resilience of regional and national energy systems, including a timeframe for when the objectives should be met;
+
+(d) as regards the dimension ‘Internal Energy Market’: (1) the level of electricity interconnectivity that the Member State aims for in 2030 in consideration of the electricity interconnection target for 2030 of at least 15 %, with a strategy with the level from 2021 onwards defined in close cooperation with the Member States affected, taking into account the 2020 interconnection target of 10 % and the indicators of the urgency of action based on price differential in the wholesale market, nominal transmission capacity of interconnectors in relation to peak load and to installed renewable generation capacity as set out in point 2.4.1 of Section A of Part I of Annex I. Each new interconnector shall be subject to a socioeconomic and environmental cost-benefit analysis and implemented only if the potential benefits outweigh the costs; (2) key electricity and gas transmission infrastructure projects, and, where relevant, modernisation projects, that are necessary for the achievement of objectives and targets under the five dimensions of the Energy Union; (3) national objectives related to other aspects of the internal energy market such as: increasing system flexibility, in particular through policies and measures related to market-based price formation in compliance with applicable law; market integration and coupling, aiming to increase the tradeable capacity of existing interconnectors, smart grids, aggregation, demand response, storage, distributed generation, mechanisms for dispatching, re-dispatching and curtailment and real-time price signals, including a timeframe for when the objectives should be met, and other national objectives related to the internal energy market as set out in point 2.4.3 of Section A of Part 1 of Annex I;
+
+(e) as regards the dimension ‘Research, Innovation and Competitiveness’: (1) national objectives and funding targets for public and, where available, private research and innovation relating to the Energy Union, including, where appropriate, a timeframe for when the objectives should be met; reflecting the priorities of the Energy Union Strategy and, where relevant, of the SET-Plan. In setting out its objectives, targets and contributions, the Member State may build upon existing national strategies or plans that are compatible with Union law; (2) where available, national 2050 objectives related to the promotion of clean energy technologies.
+
+<a id="art_5"></a>
+
+### Article 5 — Member States' contribution setting process in the area of renewable energy
+
+**1.** In its contribution for its share of energy from renewable sources in gross final consumption of energy in 2030 and the last year of the period covered for the subsequent national plans, pursuant to point (a)(2) of Article 4, each Member State shall take into account all of the following:(a) the measures provided for in Directive (EU) 2018/2001;(b) the measures adopted to reach the energy efficiency target adopted pursuant to Directive 2012/27/EU;(c) any other existing measures to promote renewable energy within the Member State and, where relevant, at Union level;(d) the binding 2020 national target of energy from renewable sources in its gross final consumption of energy set out in Annex I to Directive (EU) 2018/2001;(e) any relevant circumstances affecting renewable energy deployment, such as:(i) equitable distribution of deployment across the Union;(ii) economic conditions and potential, including GDP per capita;(iii) potential for cost-effective renewable energy deployment;(iv) geographical, environmental and natural constraints, including those of non-interconnected areas and regions;(v) the level of power interconnection between Member States;(vi) other relevant circumstances, in particular early efforts.
+
+With regard to point (e) of the first subparagraph, each Member State shall indicate in its integrated national energy and climate plan which relevant circumstances affecting renewable energy deployment it has taken into account.
+
+**2.** Member States shall collectively ensure that the sum of their contributions amounts to at least 32 % of energy from renewable sources in gross final energy consumption at Union level by 2030.
+
+<a id="art_6"></a>
+
+### Article 6 — Member States' contribution setting process in the area of energy efficiency
+
+**1.** In its indicative national energy efficiency contribution for 2030 and for the last year of the period covered for the subsequent national plans pursuant to point (b)(1) of Article 4 of this Regulation, each Member State shall take into account that, in accordance with Article 3 of Directive 2012/27/EU, the Union's 2020 energy consumption is to be no more than 1 483 Mtoe of primary energy or no more than 1 086 Mtoe of final energy and the Union's 2030 energy consumption is to be no more than 1 128 Mtoe of primary energy and/or no more than 846 Mtoe of final energy.
+
+In addition, each Member State shall take into account:
+
+(a) the measures provided for in Directive 2012/27/EU;
+
+(b) other measures to promote energy efficiency within the Member State and at Union level.
+
+**2.** In its contribution referred to in paragraph 1, each Member State may take into account national circumstances affecting primary and final energy consumption, such as:(a) remaining cost-effective energy-saving potential;(b) evolution and forecast of gross domestic product;(c) changes of energy imports and exports;(d) changes in the energy mix and the development of carbon capture and storage; and(e) early actions.
+
+With regard to the first subparagraph, each Member State shall indicate in its integrated national energy and climate plan which relevant circumstances affecting primary and final energy consumption it has taken into account, if any.
+
+<a id="art_7"></a>
+
+### Article 7 — National policies and measures for each of the five dimensions of the Energy Union
+
+Member States shall describe, in accordance with Annex I, in their integrated national energy and climate plan, the main existing and planned policies and measures to achieve in particular the objectives set out in the national plan, including, where applicable, measures providing for regional cooperation and appropriate financing at national and regional level, including mobilisation of Union programmes and instruments.
+
+Member States shall provide a general overview of the investment needed to achieve the objectives, targets and contributions set out in the national plan, as well as a general assessment on the sources of that investment.
+
+<a id="art_8"></a>
+
+### Article 8 — Analytical basis of the integrated national energy and climate plans
+
+**1.** Member States shall describe, in accordance with the structure and format specified in Annex I, the current situation for each of the five dimensions of the Energy Union, including of the energy system and greenhouse gas emissions and removals at the time of submission of the integrated national energy and climate plan or on the basis of the latest available information. Member States shall also set out and describe projections for each of the five dimensions of the Energy Union, for at least the duration of that plan, expected to result from existing policies and measures. Member States shall endeavour to describe additional longer term perspectives for the five dimensions beyond the duration of the integrated national energy and climate plan, where relevant and possible.
+
+**2.** Member States shall describe in their integrated national energy and climate plan their assessment, at national and, where applicable, regional level, of:(a) the impacts on the development of the energy system and greenhouse gas emissions and removals for the duration of the plan and for a period of ten years following the latest year covered by the plan, under the planned policies and measures or groups of measures, including a comparison with the projections based on existing policies and measures or groups of measures as referred to in paragraph 1;(b) the macroeconomic and, to the extent feasible, the health, environmental, skills and social impact of the planned policies and measures or groups of measures referred to in Article 7 and further specified in Annex I, for the first ten-year period at least until the year 2030, including a comparison with the projections based on existing policies and measures or groups of measures as referred to in paragraph 1 of this Article. The methodology used to assess those impacts shall be made public;(c) interactions between existing policies and measures or groups of measures and planned policies and measures or groups of measures within a policy dimension and between existing policies and measures or groups of measures and planned policies and measures or groups of measures of different dimensions for the first ten-year period at least until the year 2030. Projections concerning security of supply, infrastructure and market integration shall be linked to robust energy efficiency scenarios;(d) the manner in which existing policies and measures and planned policies and measures are to attract the investment necessary for their implementation.
+
+**3.** Member States shall make available to the public comprehensive information concerning the assumptions, parameters and methodologies used for the final scenarios and projections, taking into account statistical restrictions, commercially sensitive data, and compliance with the data protection rules.
+
+<a id="art_9"></a>
+
+### Article 9 — Draft integrated national energy and climate plans
+
+**1.** By 31 December 2018, and subsequently by 1 January 2028 and every ten years thereafter, each Member State shall prepare and submit to the Commission a draft of the integrated national energy and climate plan in accordance with Article 3(1) and Annex I.
+
+**2.** The Commission shall assess the draft integrated national energy and climate plans and may issue country-specific recommendations to Member States in accordance with Article 34 no later than six months before the deadline for submitting those integrated national energy and climate plans. Those recommendations may, in particular, address:(a) the level of ambition of objectives, targets and contributions with a view to collectively achieving the Energy Union objectives and, in particular, the Union's 2030 targets for renewable energy and energy efficiency as well as the level of electricity interconnectivity that the Member State aims for in 2030 as referred to in point (d) of Article 4, taking due account of relevant circumstances affecting the deployment of renewable energy and energy consumption, as indicated by the Member State concerned in the draft integrated national energy and climate plan and the indicators of the urgency of action for interconnectivity established in point 2.4.1 of Section A of Part 1 of Annex I;(b) policies and measures relating to Member State- and Union-level objectives and other policies and measures of potential cross-border relevance;(c) any additional policies and measures that might be required in the integrated national energy and climate plans;(d) interactions between and consistency of existing and planned policies and measures included in the integrated national energy and climate plan within one dimension and among different dimensions of the Energy Union.
+
+**3.** Each Member State shall take due account of any recommendations from the Commission in its integrated national energy and climate plan. If the Member State concerned does not address a recommendation or a substantial part thereof, that Member State shall provide and make public its reasons.
+
+**4.** In the context of the public consultation as referred to in Article 10, each Member State shall make available to the public its draft integrated national energy and climate plan.
+
+<a id="art_10"></a>
+
+### Article 10 — Public consultation
+
+Without prejudice to any other Union law requirements, each Member State shall ensure that the public is given early and effective opportunities to participate in the preparation of the draft integrated national energy and climate plan — as regards the plans for the 2021 to 2030 period, in the preparation of the final plan well before its adoption — as well as of the long-term strategies referred to in Article 15. Each Member State shall attach to the submission of such documents to the Commission a summary of the public's views or provisional views. In so far as Directive 2001/42/EC is applicable, consultations undertaken on the draft in accordance with that Directive shall be deemed to satisfy the obligations to consult the public under this Regulation.
+
+Each Member State shall ensure that the public is informed. Each Member State shall set reasonable timeframes allowing sufficient time for the public to be informed, to participate and express its views.
+
+Each Member State shall limit administrative complexity when implementing this Article.
+
+<a id="art_11"></a>
+
+### Article 11 — Multilevel climate and energy dialogue
+
+Each Member State shall establish a multilevel climate and energy dialogue pursuant to national rules, in which local authorities, civil society organisations, business community, investors and other relevant stakeholders and the general public are able actively to engage and discuss the different scenarios envisaged for energy and climate policies, including for the long term, and review progress, unless it already has a structure which serves the same purpose. Integrated national energy and climate plans may be discussed within the framework of such a dialogue.
+
+<a id="art_12"></a>
+
+### Article 12 — Regional cooperation
+
+**1.** Member States shall cooperate with each other, taking account of all existing and potential forms of regional cooperation, to meet the objectives, targets and contributions set out in their integrated national energy and climate plan effectively.
+
+**2.** Each Member State shall, well before submitting its draft integrated national energy and climate plan to the Commission pursuant to Article 9(1) — as regards the plans for the 2021 to 2030 period, in the preparation of the final plan well before its adoption — identify opportunities for regional cooperation and consult neighbouring Member States, including in regional cooperation fora. If deemed to be appropriate by the Member State authoring the plan, that Member State may consult other Member States or third countries that have expressed an interest. Insular Member States without energy interconnections to other Member States shall carry out such consultations with neighbouring Member States with maritime borders. The Member States consulted should be given a reasonable time within which to react. Each Member State shall set out in its draft integrated national energy and climate plan — as regards the plans for the 2021-2030 period, in its final national energy and climate plan — at least the provisional results of such regional consultations, including, where applicable, how the comments of the Member States or third countries consulted have been taken into account.
+
+**3.** Member States may engage in voluntary joint drafting of parts of their integrated national energy and climate plans and progress reports, including in regional cooperation fora. If they do so, the result shall replace the equivalent parts of their integrated national energy and climate plan and progress reports. Upon a request by two or more Member States, the Commission shall facilitate that exercise.
+
+**4.** In order to facilitate market integration and cost-efficient policies and measures, Member States shall, in the period between the deadline for submission of their draft integrated national energy and climate plans and the deadline for submission of their final plans, present the relevant parts of their draft integrated national energy and climate plan in relevant regional cooperation fora with a view to their finalisation. Where necessary, the Commission shall facilitate such cooperation and consultation among the Member States, and if it identifies opportunities for further regional cooperation, it may provide Member States with indicative guidance in order to facilitate the effective cooperation and consultation process.
+
+**5.** Member States shall consider the comments received from other Member States pursuant to paragraphs 2 and 3 in their final integrated national energy and climate plan, and explain in those plans how such comments have been considered.
+
+**6.** For the purposes referred to in paragraph 1, Member States shall continue to cooperate at regional level, and, as appropriate, in regional cooperation fora, when implementing the relevant policies and measures of their integrated national energy and climate plans.
+
+**7.** Member States may also envisage cooperation with signatories to the Energy Community and with third-country members of the European Economic Area.
+
+**8.** In so far as the provisions of Directive 2001/42/EC are applicable, transboundary consultation undertaken on the draft in accordance with Article 7 of that Directive shall be deemed to satisfy the obligations on regional cooperation pursuant to this Regulation, provided that the requirements of this Article are complied with.
+
+<a id="art_13"></a>
+
+### Article 13 — Assessment of the integrated national energy and climate plans
+
+On the basis of the integrated national energy and climate plans and their updates as notified pursuant to Articles 3 and 14, the Commission shall assess, in particular, whether:
+
+(a) the objectives, targets and contributions are sufficient for the collective achievement of the Energy Union objectives and, for the first ten-year period in particular, the targets of the Union's 2030 Climate and Energy Framework;
+
+(b) the plans comply with requirements of Articles 3 to 12 and Member States have taken due account of the Commission recommendations issued pursuant to Article 34.
+
+<a id="art_14"></a>
+
+### Article 14 — Update of the integrated national energy and climate plan
+
+**1.** By 30 June 2023, and subsequently by 1 January 2033 and every 10 years thereafter, each Member State shall submit to the Commission a draft update of the latest notified integrated national energy and climate plan or shall provide the Commission with reasons justifying why the plan does not require updating.
+
+**2.** By 30 June 2024, and subsequently by 1 January 2034 and every 10 years thereafter, each Member State shall submit to the Commission an update of its latest notified integrated national energy and climate plan, unless they have provided reasons why the plan does not require updating pursuant to paragraph 1.
+
+**3.** In the update referred to in paragraph 2, each Member State shall modify its national objective, target or contribution with regard to any of the quantified Union objectives, targets or contributions set out in point (a)(1) of Article 4 in order to reflect an increased ambition as compared to that set out in its latest notified integrated national energy and climate plan. In the update referred to in paragraph 2, each Member State shall modify its national objective, target, or contribution with regard to any of the quantified Union objectives, targets or contributions set out in points (a)(2) and (b) of Article 4 only in order to reflect an equal or increased ambition as compared to that set out in its latest notified integrated national energy and climate plan.
+
+**4.** Member States shall make efforts to mitigate in their updated integrated national energy and climate plan any adverse environmental impacts that become apparent as part of the integrated reporting pursuant to Articles 17 to 25.
+
+**5.** In its updates referred to in paragraph 2, Member States shall take into consideration the latest country-specific recommendations issued in the context of the European Semester as well as obligations deriving from the Paris Agreement.
+
+**6.** The procedures laid down in Article 9(2) and Articles 10 and 12 shall apply to the preparation and assessment of the updated integrated national energy and climate plans.
+
+**7.** This Article is without prejudice to the right of Member States to make changes and adaptations in national policies set out or referred to in their integrated national energy and climate plans at any time, provided such changes and adaptations are included in the integrated national energy and climate progress report.
+
+## *CHAPTER 3*
+
+### ***Long-term strategies***
+
+<a id="art_15"></a>
+
+### Article 15 — Long-term strategies
+
+**1.** By 1 January 2020, and subsequently by 1 January 2029 and every 10 years thereafter, each Member State shall prepare and submit to the Commission its long-term strategy with a perspective of at least 30 years. Member States should, where necessary, update those strategies every five years.
+
+**2.** In aiming to achieve the overall climate objectives referred to in paragraph 3, the Commission shall, by 1 April 2019, adopt a proposal for a Union long-term strategy for greenhouse gas emissions reduction in accordance with the Paris Agreement, taking into account the Member States' draft integrated national energy and climate plans. The long-term strategy referred to in this paragraph shall include an analysis covering at least:(a) various scenarios for the Union's contribution towards the objectives set out in paragraph 3 inter alia a scenario on achieving net zero greenhouse gas emissions within the Union by 2050 and negative emissions thereafter;(b) the implications of the scenarios referred to in point (a) on the remaining global and Union carbon budget in order to inform a discussion about cost efficiency, effectiveness and fairness of greenhouse gas emission reduction.
+
+**3.** The Member States' and the Union's long-term strategies shall contribute to:(a) fulfilling the Union's and the Member States' commitments under the UNFCCC and the Paris Agreement to reduce anthropogenic greenhouse gas emissions and enhance removals by sinks and to promote increased carbon sequestration;(b) fulfilling the objective of the Paris Agreement of holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1,5 °C above pre-industrial levels;(c) achieving long-term greenhouse gas emission reductions and enhancements of removals by sinks in all sectors in accordance with the Union's objective, in the context of necessary reductions according to the Intergovernmental Panel on Climate Change (IPCC) to reduce the Union's greenhouse gas emissions in a cost-effective manner and enhance removals by sinks in pursuit of the temperature goals in the Paris Agreement so as to achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases within the Union as early as possible and, as appropriate, achieve negative emissions thereafter;(d) a highly energy efficient and highly renewables-based energy system within the Union.
+
+**4.** Member States' long-term strategies should contain the elements set out in Annex IV. Furthermore, the Member States' and the Union's long-term strategies shall cover:(a) total greenhouse gas emission reductions and enhancements of removals by sinks;(b) emission reductions and enhancements of removals in individual sectors, including electricity, industry, transport, the heating and cooling and buildings sector (residential and tertiary), agriculture, waste and land use, land-use change and forestry (LULUCF);(c) expected progress on transition to a low greenhouse gas emission economy, including greenhouse gas intensity, CO2 intensity of gross domestic product, related estimates of long-term investment, and strategies for related research, development and innovation;(d) to the extent feasible, expected socio-economic effect of the decarbonisation measures, including, inter alia, aspects related to macro-economic and social development, health risks and benefits and environmental protection;(e) links to other national long-term objectives, planning and other policies and measures, and investment.
+
+**5.** The Commission is empowered to adopt delegated acts in accordance with Article 43 in order to amend Annex IV for the purpose of adapting it to the developments in the Union long-term strategy or in the Union Energy and Climate policy framework that are directly and specifically related to the relevant decisions adopted under the UNFCCC and, in particular, under the Paris Agreement.
+
+**6.** The integrated national energy and climate plans shall be consistent with the long-term strategies referred to in this Article.
+
+**7.** Member States and the Commission shall inform and make available to the public forthwith their respective long-term strategies and any updates thereof, including by means of the e-platform referred in Article 28. Member States and the Commission shall make relevant data of the final results available to the public, taking into account commercially sensitive data and compliance with the data protection rules.
+
+**8.** The Commission shall support Member States in the preparation of their long-term strategies by providing information on the state of the underlying scientific knowledge and opportunities for sharing knowledge and best practices, including, where relevant, guidance for Member States during the development and implementation phase of their strategies.
+
+**9.** The Commission shall assess whether the national long-term strategies are adequate for the collective achievement of the objectives and targets of the Energy Union set out in Article 1 and shall provide information on any remaining collective gap.
+
+<a id="art_16"></a>
+
+### Article 16 — Strategic plan for methane
+
+Given the high global warming potential and relatively short atmospheric lifetime of methane, the Commission shall analyse the implications for implementing policies and measures for the purpose of reducing the short- and middle-term impact of methane emissions on Union greenhouse gas emissions. Taking into account the circular economy objectives as appropriate, the Commission shall consider policy options for rapidly addressing methane emissions and shall put forward a Union strategic plan for methane as an integral part of the Union's long-term strategy referred to in Article 15.
+
+## Section 1
+
+### **Biennial progress reports and their follow up**
+
+<a id="art_17"></a>
+
+### Article 17 — Integrated national energy and climate progress reports
+
+**1.** Without prejudice to Article 26, by 15 March 2023, and every two years thereafter, each Member State shall report to the Commission on the status of implementation of its integrated national energy and climate plan by means of an integrated national energy and climate progress report covering all five dimensions of the Energy Union.
+
+**2.** The integrated national energy and climate progress report shall cover the following elements:(a) information on the progress accomplished towards reaching the objectives, targets and contributions set out in the integrated national energy and climate plan, and towards financing and implementing the policies and measures necessary to meet them, including a review of actual investment against initial investment assumptions;(b) where applicable, information on the progress in establishing the dialogue referred to in Article 11;(c) the information referred to in Articles 20 to 25 and, where appropriate, updates on policies and measures, in accordance with those articles;(d) information on adaptation in accordance with point (a)(1) of Article 4;(e) as far as possible quantification of the impact of the policies and measures in the integrated national energy and climate plan on air quality and on emissions of air pollutants.
+
+The Union and the Member States shall submit biennial reports in accordance with Decision 2/CP.17 of the Conference of the Parties to the UNFCCC, and national communications in accordance with Article 12 of the UNFCCC to the UNFCCC Secretariat.
+
+**3.** The integrated national energy and climate progress report shall cover the information contained in the annual reports referred to in Article 26(3) and the information on policies and measures and projections of anthropogenic greenhouse gas emissions by sources and removals by sinks contained in the reports referred to in Article 18.
+
+**4.** The Commission, assisted by the Energy Union Committee referred to in point (b) of Article 44(1), shall adopt implementing acts to set out the structure, format, technical details and process for the information referred to in paragraphs 1 and 2 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+**5.** The frequency and scale of the information and updates referred to in point (c) of paragraph 2 shall be balanced against the need to ensure sufficient certainty for investors.
+
+**6.** Where the Commission has issued recommendations pursuant to Article 32(1) or (2), the Member State concerned shall include in its integrated national energy and climate progress report information on the policies and measures adopted, or intended to be adopted and implemented, to address those recommendations. Where applicable, such information shall include a detailed timetable for implementation.
+
+Where the Member State concerned decides not to address a recommendation or a substantial part thereof, it shall provide its reasoning.
+
+**7.** Member States shall make available to the public the reports submitted to the Commission pursuant to this Article.
+
+<a id="art_18"></a>
+
+### Article 18 — Integrated reporting on greenhouse gas policies and measures and on projections
+
+**1.** By 15 March 2021, and every two years thereafter, Member States shall report to the Commission information on:(a) their national policies and measures or group of measures as set out in Annex VI; and(b) their national projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, organised by gas or group of gases (Hydrofluorocarbons and Perfluorocarbons) listed in Part 2 of Annex V. National projections shall take into consideration any policies and measures adopted at Union level and shall include the information set out in Annex VII.
+
+**2.** Member States shall report the most up-to-date projections available. Where a Member State does not submit complete projection estimates by 15 March every second year, and the Commission has established that gaps in the estimates cannot be filled by that Member State once identified through the Commission's quality assurance or quality control procedures, the Commission may prepare estimates as required to compile Union projections, in consultation with the Member State concerned.
+
+**3.** A Member State shall communicate to the Commission any substantial changes to the information reported pursuant to paragraph 1 during the first year of the reporting period, by 15 March of the year following the previous report.
+
+**4.** Member States shall make available to the public, in electronic form, their national projections pursuant to paragraph 1 and any relevant assessment of the costs and effects of national policies and measures on the implementation of Union policies relevant for limiting greenhouse gas emissions along with any relevant underpinning technical reports. Those projections and assessments should include descriptions of the models and methodological approaches used, definitions and underlying assumptions.
+
+<a id="art_19"></a>
+
+### Article 19 — Integrated reporting on national adaptation actions, financial and technology support provided to developing countries and auctioning revenues
+
+**1.** By 15 March 2021, and every two years thereafter, Member States shall report to the Commission information on their national climate change adaptation planning and strategies, outlining their implemented and planned actions to facilitate adaptation to climate change, including the information specified in Part 1 of Annex VIII and in accordance with the reporting requirements agreed upon under the UNFCCC and the Paris Agreement.
+
+**2.** By 31 July 2021 and every year thereafter (year X), Member States shall report to the Commission information on the use of revenues generated by the Member State by auctioning allowances pursuant to Article 10(1) and Article 3d(1) or (2) of Directive 2003/87/EC, including the information specified in Part 3 of Annex VIII.
+
+**3.** By 30 September 2021 and every year thereafter (year X), Member States shall report to the Commission information on support to developing countries, including the information specified in Part 2 of Annex VIII and in accordance with the relevant reporting requirements agreed upon under the UNFCCC and the Paris Agreement.
+
+**4.** Member States shall make available to the public the reports submitted to the Commission pursuant to this Article, with the exception of the information specified in point (b) of Part 2 of Annex VIII.
+
+**5.** The Commission, assisted by the Climate Change Committee referred to in point (a) of Article 44(1), shall adopt implementing acts to set out the structure, format and submission processes for Member States' reporting of information pursuant to this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+<a id="art_20"></a>
+
+### Article 20 — Integrated reporting on renewable energy
+
+Member States shall include in the integrated national energy and climate progress reports information:
+
+(a) on the implementation of the following trajectories and objectives: (1) indicative national trajectory for the overall share of renewable energy in gross final energy consumption from 2021 to 2030; (2) estimated trajectories for the sectoral share of renewable energy in final energy consumption from 2021 to 2030 in the electricity, heating and cooling and transport sector; (3) estimated trajectories per renewable energy technology to achieve the overall and sectoral trajectories for renewable energy from 2021 to 2030, including total expected gross final energy consumption per technology and sector in Mtoe and total planned installed capacity per technology and sector in MW; (4) trajectories on bioenergy demand, disaggregated between heat, electricity and transport, and on biomass supply, by feedstock and origin (distinguishing between domestic production and imports). For forest biomass, an assessment of its source and impact on the LULUCF sink; (5) where applicable, other national trajectories and objectives, including those that are long-term and sectoral (such as share of electricity produced from biomass without the utilisation of heat, share of renewable energy in district heating, renewable energy use in buildings, renewable energy produced by cities, renewable energy communities and renewables self-consumers), energy recovered from the sludge acquired through the treatment of wastewater;
+
+(b) on the implementation of the following policies and measures: (1) implemented, adopted and planned policies and measures to achieve the national contribution to the 2030 binding Union target for renewable energy as indicated in point (a)(2) of Article 4 of this Regulation, including sector- and technology-specific measures, with a specific review of the implementation of measures laid down in Articles 23 to 28 of Directive (EU) 2018/2001; (2) where available, specific measures for regional cooperation; (3) without prejudice to Articles 107 and 108 TFEU, specific measures on financial support, including Union support and the use of Union funds, for the promotion of the use of energy from renewable sources in electricity, heating and cooling, and transport; (4) when applicable, the assessment of the support for electricity from renewable sources that Member States are to carry out pursuant to Article 6(4) of Directive (EU) 2018/2001; (5) specific measures to fulfil the requirements of Articles 15 to 18 of Directive (EU) 2018/2001; (6) where applicable, specific measures to assess, make transparent and reduce the need for must-run capacity that can lead to curtailment of energy from renewable sources; (7) a summary of the policies and measures under the enabling framework Member States are to put in place pursuant to Article 21(6) and Article 22(5) of Directive (EU) 2018/2001 to promote and facilitate the development of renewables self-consumption and renewable energy communities; (8) measures promoting the use of energy from biomass, especially for new biomass mobilisation taking into account biomass, including sustainable biomass availability as well as measures for the sustainability of biomass produced and used; (9) measures in place to increase the share of renewable energy in the heating and cooling and transport sector; (10) policies and measures facilitating the uptake of power purchase agreements;
+
+(c) as set out in Part 1 of Annex IX.
+
+<a id="art_21"></a>
+
+### Article 21 — Integrated reporting on energy efficiency
+
+Member States shall include in the integrated national energy and climate progress reports information:
+
+(a) on the implementation of the following national trajectories, objectives and targets: (1) the indicative trajectory for primary and final annual energy consumption from 2021 to 2030 as the national energy savings contribution to achieving the Union-level 2030 target, including the underlying methodology; (2) the indicative milestones of the long-term strategy for the renovation of the national stock of residential and non-residential buildings, both public and private, and the contributions to the Union's energy efficiency targets pursuant to Directive 2012/27/EU in accordance with Article 2a of Directive 2010/31/EU; (3) where applicable, an update of other national objectives set out in the national plan;
+
+(b) on the implementation of the following policies and measures: (1) implemented, adopted and planned policies, measures and programmes to achieve the indicative national energy efficiency contribution for 2030 as well as other objectives referred to in Article 6, including planned measures and instruments (also of a financial nature) to promote the energy performance of buildings, measures to utilise energy efficiency potentials of gas and electricity infrastructure and other measures to promote energy efficiency; (2) where applicable, market-based instruments that incentivise energy efficiency improvements, including but not limited to energy taxes, levies and allowances; (3) national energy efficiency obligation scheme and alternative measures pursuant to Article 7a and 7b of Directive 2012/27/EU and in accordance with Annex III to this Regulation; (4) long-term renovation strategies in accordance with Article 2a of Directive 2010/31/EU; (5) policy and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers that impede the uptake of energy performance contracting and other energy efficiency service models; (6) regional cooperation in the area of energy efficiency, where applicable; (7) without prejudice to Articles 107 and 108 TFEU, financing measures, including Union support and the use of Union funds, in the area of energy efficiency at national level, where applicable;
+
+(c) as set out in Part 2 of Annex IX.
+
+<a id="art_22"></a>
+
+### Article 22 — Integrated reporting on energy security
+
+Member States shall include in the integrated national energy and climate progress reports information on the implementation of:
+
+(a) national objectives for the diversification of energy sources and supply;
+
+(b) where applicable, national objectives with regard to reducing energy import dependency from third countries;
+
+(c) national objectives for the development of the ability to cope with constrained or interrupted supply of an energy source, including gas and electricity;
+
+(d) national objectives with regard to increasing the flexibility of the national energy system, in particular by means of deploying domestic energy sources, demand response and energy storage;
+
+(e) implemented, adopted and planned policies and measures to achieve the objectives referred to in points (a) to (d);
+
+(f) regional cooperation in implementing the objectives and policies referred to in points (a) to (d);
+
+(g) without prejudice to Articles 107 and 108 TFEU, financing measures, including Union support and the use of Union funds, in this area at national level, where applicable.
+
+<a id="art_23"></a>
+
+### Article 23 — Integrated reporting on the internal energy market
+
+**1.** Member States shall include in their integrated national energy and climate progress reports information on the implementation of the following objectives and measures:(a) the level of electricity interconnectivity that the Member State aims for in 2030 in consideration of the electricity interconnection target for 2030 of at least 15 % and the indicators set out in point 2.4.1 of Section A of Part I of Annex I, as well as measures for the implementation of the strategy for the achievement of this level, including those relating to the granting of authorisations;(b) key electricity and gas transmission infrastructure projects that are necessary for the achievement of objectives and targets under the five dimensions of the Energy Union;(c) where applicable, main infrastructure projects envisaged other than Projects of Common Interest, including infrastructure projects involving third countries, and, to the extent feasible, a general assessment of their compatibility with, and contribution to, the aims and targets of the Energy Union;(d) national objectives related to other aspects of the internal energy market such as increasing system flexibility, market integration and coupling, aiming to increase the tradeable capacity of existing interconnectors, smart grids, aggregation, demand response, storage, distributed generation, mechanisms for dispatching, re-dispatching and curtailment, real-time price signals;(e) where applicable, national objectives and measures related to the non-discriminatory participation of renewable energy, demand response and storage, including via aggregation, in all energy markets;(f) where applicable, national objectives and measures with regard to ensuring that consumers participate in the energy system and benefits from self-generation and new technologies, including smart meters;(g) measures with regard to ensuring electricity system adequacy;(h) implemented, adopted and planned policies and measures to achieve the objectives referred to in points (a) to (g);(i) regional cooperation in implementing the objectives and policies referred to in points (a) to (h);(j) without prejudice to Articles 107 and 108 TFEU, financing measures at national level, including Union support and the use of Union funds, in the area of the internal energy market, including for the electricity interconnection target, where applicable;(k) measures to increase the flexibility of the energy system with regard to renewable energy production, including the roll-out of intraday market coupling and cross-border balancing markets.
+
+**2.** The information provided by Member States under paragraph 1 shall be consistent with and as appropriate be based on the report by the national regulators referred to in point (e) of Article 37(1) of Directive 2009/72/EC and point (e) of Article 41(1) of Directive 2009/73/EC.
+
+<a id="art_24"></a>
+
+### Article 24 — Integrated Reporting on Energy Poverty
+
+Where the second subparagraph of point (d) of Article 3(3) applies, the Member State concerned shall include in its integrated national energy and climate progress report:
+
+(a) information on progress towards the national indicative objective to reduce the number of households in energy poverty; and
+
+(b) quantitative information on the number of households in energy poverty, and, where available, information on policies and measures addressing energy poverty.
+
+The Commission shall share data communicated by Member States pursuant to this Article with the European Energy Poverty Observatory.
+
+<a id="art_25"></a>
+
+### Article 25 — Integrated reporting on research, innovation and competitiveness
+
+Member States shall include in their integrated national energy and climate progress reports information on the implementation of the following objectives and measures:
+
+(a) where applicable, national objectives and policies translating to a national context the SET Plan objectives and policies;
+
+(b) national objectives for total public and, where available, private spending in research and innovation relating to clean energy technologies as well as for technology cost and performance development;
+
+(c) where appropriate, national objectives, including long-term targets for 2050 for the deployment of technologies for decarbonising energy- and carbon-intensive industrial sectors and, where applicable, for related carbon transport, use, and storage infrastructure;
+
+(d) national objectives to phase out energy subsidies, in particular for fossil fuels;
+
+(e) implemented, adopted and planned policies and measures to achieve the objectives referred to in points (b) and (c);
+
+(f) cooperation with other Member States in implementing the objectives and policies referred to in points (b) to (d), including coordination of policies and measures in the context of the SET Plan, such as alignment of research programmes and common programmes;
+
+(g) financing measures, including Union support and the use of Union funds, in this area at national level, where applicable.
+
+## Section 2
+
+### **Annual reporting**
+
+<a id="art_26"></a>
+
+### Article 26 — Annual Reporting
+
+**1.** By 15 March 2021, and every year thereafter (year X), Member States shall report to the Commission:(a) the information referred to in Article 6(2) of Directive 2009/119/EC;(b) the information referred to in point 3 of Annex IX of Directive 2013/30/EU, in accordance with Article 25 of that Directive.
+
+**2.** By 31 July 2021, and every year thereafter (year X), Member States shall report to the Commission their approximated greenhouse gas inventories for the year X-1.
+
+For the purposes of this paragraph, the Commission shall, on the basis of the Member States' approximated greenhouse gas inventories or, if a Member State has not communicated its approximated inventories by that date, on the basis of its own estimates, annually compile a Union approximated greenhouse gas inventory. The Commission shall make that information available to the public by 30 September every year.
+
+**3.** From 2023, Member States shall determine and report to the Commission final greenhouse gas inventory data by 15 March each year (year X) and preliminary data by 15 January each year, including the greenhouse gases and the inventory information listed in Annex V. The report on the final greenhouse gas inventory data shall also include a complete and up-to-date national inventory report. Within three months of receiving the reports, the Commission shall make the information referred to in point (n) of Part I of Annex V available to the Climate Change Committee referred to in point (a) of Article 44(1).
+
+**4.** Member States shall submit to the UNFCCC Secretariat national inventories containing the information submitted to the Commission on the final greenhouse gas inventory data in accordance with paragraph 3 by 15 April each year. The Commission shall, in cooperation with the Member States, annually compile a Union greenhouse gas inventory and prepare a Union greenhouse gas inventory report and shall submit them to the UNFCCC Secretariat by 15 April each year.
+
+**5.** Member States shall report to the Commission the preliminary and the final national inventory data, by 15 January and 15 March respectively in the years 2027 and 2032, prepared for their LULUCF accounts for the purpose of the compliance reports in accordance with Article 14 of Regulation (EU) 2018/841.
+
+**6.** The Commission is empowered to adopt delegated acts in accordance with Article 43in order to:(a) amend Part 2 of Annex V by adding or deleting substances in the list of greenhouse gases, in accordance with relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement;(b) supplement this Regulation by adopting values for global warming potentials and specifying the inventory guidelines applicable in accordance with relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement.
+
+**7.** The Commission, assisted by the Climate Change Committee referred to in point (a) of Article 44(1), shall adopt implementing acts to set out the structure, technical details, format and processes for the Member States' submission of approximated greenhouse gas inventories pursuant to paragraph 2 of this Article, greenhouse gas inventories pursuant to paragraph 3 of this Article and accounted greenhouse gas emissions and removals in accordance with Articles 5 and 14 of Regulation (EU) 2018/841.
+
+In proposing such implementing acts the Commission shall take into account the UNFCCC or Paris Agreement timetables for the monitoring and reporting of that information and the relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement in order to ensure compliance by the Union with its reporting obligations as a Party to the UNFCCC and the Paris Agreement. Those implementing acts shall also specify the timescales for cooperation and coordination between the Commission and the Member States in preparing the Union greenhouse gas inventory report.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+<a id="art_27"></a>
+
+### Article 27 — Reporting on the 2020 targets
+
+By 30 April 2022, each Member State shall report to the Commission on the achievement of its 2020 energy efficiency national target established pursuant to Article 3(1) of Directive 2012/27/EU by providing the information set out in Part 2 of Annex IX to this Regulation, and of the national overall targets for the share of energy from renewable sources in 2020 as set out in Annex I to Directive 2009/28/EC in the version in force on 31 December 2020 by providing the following information:
+
+(a) the sectoral (electricity, heating and cooling, and transport) and overall shares of energy from renewable sources in 2020;
+
+(b) the measures taken to achieve the 2020 national renewable energy targets, including measures related to support schemes, guarantees of origin and simplification of administrative procedures;
+
+(c) the share of energy from biofuels and bioliquids produced from cereal and other starch-rich crops, sugars and oil crops in energy consumption in transport;
+
+(d) the share of energy from biofuels and biogas for transport produced from feedstocks and of other fuels listed in Part A of Annex IX to Directive 2009/28/EC in the version in force on 31 December 2020 in energy consumption in transport.
+
+## Section 3
+
+### **Reporting platform**
+
+<a id="art_28"></a>
+
+### Article 28 — E-platform
+
+**1.** The Commission shall establish an online platform (e-platform) to facilitate communication between the Commission and Member States, to promote cooperation among Member States and to facilitate public access to information.
+
+**2.** Member States shall use the e-platform for the purposes of submitting to the Commission the reports referred to in this Chapter once it becomes operational.
+
+**3.** The e-platform shall become operational by 1 January 2020. The Commission shall use the e-platform to facilitate public online access to the reports referred to in this Chapter, the final integrated national energy and climate plans, the updates thereof, and the long-term strategies referred to in Article 15, taking into account commercially sensitive data and compliance with the data protection rules.
+
+## *CHAPTER 5*
+
+### ***Aggregate assessment of progress and policy response to ensure Union targets achievement — Commission monitoring***
+
+<a id="art_29"></a>
+
+### Article 29 — Assessment of progress
+
+**1.** By 31 October 2021 and every two years thereafter, the Commission shall assess, in particular on the basis of the integrated national energy and climate progress reports, of other information reported under this Regulation, of the indicators and of European statistics and data where available:(a) the progress made at Union level towards meeting the objectives of the Energy Union, including for the first ten-year period the Union's 2030 targets for energy and climate, in particular for the purpose of avoiding any gaps to the Union's 2030 targets for renewable energy and energy efficiency;(b) the progress made by each Member State towards meeting its objectives, targets and contributions and implementing the policies and measures set out in its integrated national energy and climate plan;(c) the overall impact of aviation on the global climate, including through non-CO2 emissions or effects, based on the emission data provided by Member States pursuant to Article 26, and improve that assessment by reference to scientific advancements and air traffic data, as appropriate;(d) the overall impact of the policies and measures of the integrated national energy and climate plans on the operation of the Union climate and energy policy measures;(e) the overall impact of the policies and measures included in the integrated national energy and climate plans on the operation of the European Union's emission trading system (EU ETS) and on the supply-demand balance of allowances in the European carbon market.
+
+**2.** In the area of renewable energy, as part of its assessment referred to in paragraph 1, the Commission shall assess the progress made in the share of energy from renewable sources in the Union's gross final consumption on the basis of an indicative Union trajectory that starts from 20 % in 2020, reaches reference points of at least 18 % in 2022, 43 % in 2025 and 65 % in 2027 of the total increase in the share of energy from renewable sources between the Union's 2020 renewable energy target and the Union's 2030 renewable energy target, and reaches the Union's 2030 renewable energy target of at least 32 % in 2030.
+
+**3.** In the area of energy efficiency, as part of its assessment referred to in paragraph 1, the Commission shall assess progress towards collectively achieving a maximum energy consumption at Union level of 1 128 Mtoe of primary energy and 846 Mtoe of final energy in 2030 in accordance with Article 3(5) of Directive 2012/27/EU.
+
+In carrying out its assessment, the Commission shall take the following steps:
+
+(a) consider whether the Union's milestone of no more than 1 483 Mtoe of primary energy and no more than 1 086 Mtoe of final energy in 2020 is achieved;
+
+(b) assess whether Member States' progress indicates that the Union as a whole is on track towards the level of energy consumption in 2030 as referred to in the first subparagraph, taking into account the assessment of information provided by Member States in their integrated national energy and climate progress reports;
+
+(c) use results from modelling exercises in relation to future trends in energy consumption at Union level and national level and use other complementary analysis;
+
+(d) take due account of relevant circumstances affecting primary and final energy consumption indicated by the Member States in their integrated national energy and climate plans, in accordance with Article 6(2).
+
+**4.** In the area of the internal energy market, as part of its assessment referred to in paragraph 1, the Commission shall assess the progress made towards the level of electricity interconnectivity that the Member State aims for in 2030.
+
+**5.** By 31 October 2021 and every year thereafter, the Commission shall assess, in particular on the basis of the information reported pursuant to this Regulation, whether the Union and its Member States have made sufficient progress towards meeting the following requirements:(a) commitments under Article 4 of the UNFCCC and under Article 3 of the Paris Agreement as set out in decisions adopted by the Conference of the Parties to the UNFCCC, or by the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Paris Agreement;(b) obligations set out in Article 4 of Regulation (EU) 2018/842 and in Article 4 of Regulation (EU) 2018/841;(c) the objectives set out in the integrated national energy and climate plan with a view to achieving the Energy Union objectives and for the first ten-year period with a view to fulfilling the 2030 targets for energy and climate.
+
+**6.** In its assessment the Commission should take into consideration the latest country-specific recommendations issued in the context of the European Semester.
+
+**7.** The Commission shall report on its assessment in accordance with this Article as part of the State of the Energy Union report referred to in Article 35.
+
+<a id="art_30"></a>
+
+### Article 30 — Inconsistencies with overarching Energy Union objectives and targets under Regulation (EU) 2018/842
+
+**1.** Based on the assessment pursuant to Article 29, the Commission shall issue recommendations to a Member State pursuant to Article 34 if policy developments in that Member State show inconsistencies with the overarching objectives of the Energy Union.
+
+**2.** A Member State that intends to use the flexibility pursuant to Article 7 of Regulation (EU) 2018/842 shall, as that information becomes available, include in the integrated national energy and climate plan the level of intended use and the planned policies and measures to fulfil the requirements laid down in Article 4 of Regulation (EU) 2018/841 for the period from 2021 to 2030.
+
+<a id="art_31"></a>
+
+### Article 31 — Response to insufficient ambition of integrated national energy and climate plans
+
+**1.** Where, on the basis of its assessment of the draft integrated national energy and climate plans pursuant to Article 9 or its assessment of the draft updates of the final plans pursuant to Article 14, and as part of the iterative process, the Commission concludes that the objectives, targets and contributions of the Member States are insufficient for the collective achievement of the Energy Union objectives and in particular, for the first ten-year period, for the Union's binding 2030 target for renewable energy and the Union's 2030 target for energy efficiency, it shall — as regards the Union's target for renewable energy — and may — as regards the other Energy Union objectives — issue recommendations to Member States whose contributions it deems insufficient to increase their ambition in order to ensure a sufficient level of collective ambition.
+
+**2.** Where a gap between the Union's 2030 target and the collective contributions of Member States occurs in the area of renewable energy, the Commission shall base its assessment on the formula set out in Annex II which is based on the objective criteria listed in point (e)(i) to (v) of the first subparagraph of Article 5(1), whilst having due regard to relevant circumstances affecting renewable energy deployment as indicated by the Member State in accordance with the second subparagraph of Article 5(1).
+
+Where a gap between the Union's 2030 target and the sum of the national contributions occurs in the area of energy efficiency, the Commission shall, in particular, evaluate the relevant circumstances listed in Article 6(2), information provided by Member States in their integrated national energy and climate plans, results from modelling exercises in relation to future trends in energy consumption and other complementary analysis as appropriate.
+
+Without prejudice to the other provisions of this Article, and for the sole purpose of assessing whether a gap between the Union's 2030 target and the collective contributions of Member States occurs, the Commission shall, in its assessment, assume a national contribution of the Member States which did not submit their draft integrated national energy and climate plans in accordance with Article 9(1).
+
+In its assumption, in the area of renewable energy, the Commission shall take into account the Member State's national binding target for 2020 as set out in Annex I to Directive (EU) 2018/2001, results from modelling exercises on renewable energy development and the results from the formula set out in Annex II to this Regulation. In the area of energy efficiency, it shall take into account modelling exercises in relation to future trends in energy consumption and other complementary analysis as appropriate.
+
+In its assessment of the renewable energy contributions, based on the formula set out in Annex II, the Commission shall take into consideration any potential negative impacts on the security of supply and grid stability in small or isolated energy systems or in Member States' systems where there may be significant implications due to the change of synchronous area.
+
+In its assessment of the energy efficiency contributions, the Commission shall take into consideration the potential impact on electricity system operation and grid stability in Member States where there may be significant implications due to the change of synchronous area.
+
+**3.** Where, on the basis of its assessment of the integrated national energy and climate plans and their updates pursuant to Article 14, the Commission concludes that the objectives, targets and contributions of the integrated national energy and climate plans or their updates are insufficient for the collective achievement of the Energy Union objectives and, in particular, for the first ten-year period, for the Union's 2030 targets for renewable energy and energy efficiency, it shall propose measures and exercise its powers at Union level in order to ensure the collective achievement of those objectives and targets. With regard to renewable energy, such measures shall take into consideration the level of ambition of contributions to the Union's 2030 target by Member States set out in the integrated national energy and climate plans and their updates.
+
+<a id="art_32"></a>
+
+### Article 32 — Response to insufficient progress towards the Union's energy and climate objectives and targets
+
+**1.** Where, on the basis of its assessment pursuant to point (b) of Article 29(1), the Commission concludes that insufficient progress is made by a Member State towards meeting its objectives, targets and contributions, its reference points for renewable energy, or in implementing the policies and measures set out in its integrated national climate and energy plan, it shall issue recommendations to the Member State concerned pursuant to Article 34.
+
+In its recommendations in the area of renewable energy, the Commission shall take into consideration the relevant circumstances indicated by the Member State in accordance with the second subparagraph of Article 5(1). The Commission shall also take into consideration renewable energy projects for which a final investment decision has been taken, provided that those projects become operational in the period 2021 to 2030 and have a significant impact on a Member State's national contribution.
+
+In its recommendations in the area of energy efficiency, the Commission shall take due account of the objective criteria listed in points (a) and (b) of Article 6(1) and the relevant national circumstances indicated by the Member State in accordance with Article 6(2).
+
+**2.** Where, on the basis of its aggregate assessment of Member States' integrated national energy and climate progress reports pursuant to point (a) of Article 29(1), and supported by other information sources, as appropriate, the Commission concludes that the Union is at risk of not meeting the objectives of the Energy Union and, in particular, for the first ten-year period, the targets of the Union's 2030 Framework for Climate and Energy, it may issue recommendations to all Member States pursuant to Article 34 to mitigate such a risk.
+
+In the area of renewable energy, the Commission shall assess if the national measures provided for in paragraph 3 are sufficient to achieve the Union's renewable energy targets. In the case of insufficient national measures, the Commission shall, as appropriate, propose measures and exercise its power at Union level in addition to those recommendations in order to ensure, in particular, the achievement of the Union's 2030 target for renewable energy.
+
+In the area of energy efficiency, the Commission shall as appropriate, propose measures and exercise its powers at Union level in addition to those recommendations in order to ensure, in particular, the achievement of the Union's 2030 target for energy efficiency.
+
+In the area of energy efficiency, such additional measures may in particular improve the energy efficiency of:
+
+(a) products, pursuant to Directive 2009/125/EC of the European Parliament and of the Council (1) and Regulation (EU) 2017/1369 of the European Parliament and of the Council (2);
+
+(b) buildings, pursuant to Directives 2010/31/EU and 2012/27/EU; and
+
+(c) transport.
+
+**3.** Where, in the area of renewable energy the Commission concludes, based on its assessment pursuant to Article 29(1) and (2), that one or more of the reference points of the indicative Union trajectory in 2022, 2025 and 2027 referred to in Article 29(2) were not met, Member States that have fallen below one or more of their national reference points in 2022, 2025 and 2027 as referred to in point (a)(2) of Article 4 shall ensure that additional measures are implemented within one year following the date of reception of the Commission's assessment in order to cover the gap compared to their national reference point, such as:(a) national measures to increase deployment of renewable energy;(b) adjusting the share of renewable energy in the heating and cooling sector set out in Article 23(1) of Directive (EU) 2018/2001;(c) adjusting the share of renewable energy in the transport sector set out in Article 25(1) of Directive (EU) 2018/2001;(d) making a voluntary financial payment to the Union renewable energy financing mechanism set up at Union level, contributing to renewable energy projects and managed directly or indirectly by the Commission as set out in Article 33;(e) using cooperation mechanisms set out in Directive (EU) 2018/2001.
+
+Such measures shall take into account the Commission's considerations as set out in the second subparagraph of paragraph 1 of this Article. The Member States concerned shall include those measures as part of their integrated national energy and climate progress report.
+
+**4.** From 1 January 2021 onwards, the share of energy from renewable sources in each Member State's gross final consumption of energy shall not be lower than a baseline share that is equal to its mandatory national overall target for the share of energy from renewable sources in 2020 set out in Article 3(4) of Directive (EU) 2018/2001. If a Member State does not maintain its baseline share as measured over a one-year period, the Member State concerned shall take, within one year, additional measures such as those as set out in points (a) to (e) of the first subparagraph of paragraph 3 of this Article sufficient to cover the gap within one year.
+
+Member States fulfilling the obligation to cover the gap to the baseline shall be deemed to be in compliance with the obligations set out in the first sentence of the first subparagraph of this paragraph and in Article 3(4) of Directive (EU) 2018/2001 throughout the period where the gap occurred.
+
+For the purposes of point (d) of the first subparagraph of paragraph 3 of this Article, Member States may use their revenues from annual emission allowances under Directive 2003/87/EC.
+
+**5.** Where a Member State's share of energy from renewable sources falls below one or more of its national reference points in 2022, 2025 and 2027 as referred to in point (a)(2) of Article 4, it shall include in the next integrated report submitted to the Commission pursuant to Article 17 an explanation of how it will cover the gap compared to its national reference points.
+
+**6.** Where, in the area of energy efficiency, without prejudice to other measures at Union level pursuant to the third subparagraph of paragraph 2 of this Article, the Commission concludes, based on its assessment pursuant to Article 29(1) and (3), carried out by the years 2022, 2025 and 2027 that progress towards collectively achieving the Union's energy efficiency targets referred to in the first subparagraph of Article 29(3) is insufficient, it shall propose measures and exercise its power at Union level in addition to those set out in Directive 2010/31/EU and Directive 2012/27/EU to ensure that the Union's 2030 energy efficiency targets are met.
+
+**7.** Each Member State concerned referred to in paragraph 3 of this Article shall detail the additional implemented, adopted and planned measures as part of its following progress report referred to in Article 17.
+
+**8.** Where, in the area of interconnections, the Commission concludes, based on its assessment pursuant to Article 29(1) and (4), in the year 2025 that progress is insufficient, the Commission shall cooperate with the Member States concerned by the year 2026 with the aim of addressing the circumstances encountered.
+
+<a id="art_33"></a>
+
+### Article 33 — Union renewable energy financing mechanism
+
+**1.** By 1 January 2021, the Commission shall establish the Union renewable energy financing mechanism referred to in point (d) of Article 32(3) to tender support for new renewable energy projects in the Union with the aim of covering a gap in the indicative Union trajectory. Support may be provided, inter alia, in the form of a premium additional to market prices, and shall be allocated to projects bidding at the lowest cost or premium.
+
+**2.** Without prejudice to paragraph 1 of this Article, the financing mechanism shall contribute to the enabling framework pursuant to Article 3(4) of Directive (EU) 2018/2001 with the aim of supporting renewable energy deployment across the Union irrespectively of a gap to the indicative Union trajectory. To that end:(a) payments from Member States referred to in Article 32 may be complemented by additional sources, such as Union funds, private sector contributions or additional payments by Member States in order to contribute to the achievement of the Union target;(b) the financing mechanism may, inter alia, provide support in the form of low-interest loans, grants, or a mix of both and may support, inter alia, joint projects between Member States in accordance with Article 9 of Directive (EU) 2018/2001 and Member States' participation in joint projects with third countries referred to in Article 11 of that Directive.
+
+**3.** Member States shall retain the right to decide whether, and if so, under which conditions, they allow installations located on their territory to receive support from the financing mechanism.
+
+**4.** The Commission, assisted by the Energy Union Committee referred to in point (b) of Article 44(1), may adopt implementing acts to set out the necessary provisions for the establishment and functioning of the financing mechanism, in particular:(a) the methodology for the calculation of the maximum level of the premium for each tender;(b) the tender design to be applied, including conditions for delivery and associated penalties;(c) the methodology for the calculation of the payments of Member States and the resulting statistical benefits for the contributing Member States;(d) minimum requirements for Member States' participation, having regard to the need to ensure both continuity of the mechanism by means of a sufficient duration of the Member State payment, as well as the maximum amount of flexibility for Member States' participation;(e) provisions ensuring the participation and/or approval of hosting Member States, and where necessary provisions relating to additional system cost charges.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+**5.** Every year, renewable energy generated by installations financed by the financing mechanism shall be statistically attributed to the participating Member States, reflecting their relative payments. Projects supported by this financing mechanism that are financed by other sources than Member States payments shall not count towards Member States' national contributions but towards the Union binding target pursuant to Article 3(1) of Directive (EU) 2018/2001.
+
+<a id="art_34"></a>
+
+### Article 34 — Commission recommendations to Member States
+
+**1.** The Commission shall as appropriate issue recommendations to Member States to ensure the achievement of the objectives of the Energy Union. The Commission shall make such recommendations publicly available forthwith.
+
+**2.** Where reference in this Regulation is made to this Article the following principles shall apply:(a) the Member State concerned shall take due account of the recommendation in a spirit of solidarity between Member States and the Union and between Member States;(b) the Member State shall set out, in its integrated national energy and climate progress report made in the year following the year the recommendation was issued, how it has taken due account of the recommendation. If the Member State concerned decides not to address a recommendation or a substantial part thereof, that Member State shall provide its reasoning;(c) the recommendations should be complementary to the latest country-specific recommendations issued in the context of the European Semester.
+
+<a id="art_35"></a>
+
+### Article 35 — State of the Energy Union report
+
+**1.** By 31 October of every year, the Commission shall submit to the European Parliament and to the Council a State of the Energy Union report.
+
+**2.** The State of the Energy Union report shall include the following elements:(a) the assessment carried out pursuant to Article 29;(b) where appropriate, recommendations pursuant to Article 34;(c) the report on the functioning of the carbon market referred to in Article 10(5) of Directive 2003/87/EC, including information on the application of that Directive in accordance with Article 21(2) thereof;(d) biennially, from 2023, a report on Union bioenergy sustainability, containing the information specified in Annex X;(e) biennially, a report on voluntary schemes in respect of which the Commission has adopted a decision pursuant to Article 30(4) of Directive (EU) 2018/2001, containing the information specified in Annex XI to this Regulation;(f) an overall progress report on the application of Directive 2009/72/EC;(g) an overall progress report on the application of Directive 2009/73/EC pursuant to Article 52 of that Directive;(h) an overall progress report on energy efficiency obligation schemes and alternative policy measures as referred to in Articles 7a and 7b of Directive 2012/27/EU;(i) biennially, an overall progress report on the renovation of the national stock of residential and non-residential buildings, both public and private, in line with the roadmaps set out in the long-term renovation strategies that each Member State shall establish in accordance with Article 2a of Directive 2010/31/EU;(j) every four years, an overall progress report on Member States' increase in the number of nearly zero-energy buildings in accordance with Article 9(5) of Directive 2010/31/EU;(k) an overall progress report on Member States' progress in creating a complete and operational energy market;(l) actual fuel quality in the different Member States and geographical coverage of fuels with a maximum sulphur content of 10 mg/kg aiming to provide an overview of the fuels quality data in the different Member States as reported pursuant to Directive 98/70/EC;(m) a progress report on competitiveness;(n) Member States' progress towards phasing out energy subsidies, in particular for fossil fuels;(o) other issues of relevance to the implementation of the Energy Union, including public and private support;(p) by 31 October 2019 and every four years thereafter, an assessment of the implementation of Directive 2009/31/EC.
+
+<a id="art_36"></a>
+
+### Article 36 — Monitoring of the governance mechanism
+
+In the context of the State of the Energy Union as referred to in Article 35, the Commission shall inform the European Parliament and the Council on the implementation of the integrated national energy and climate plans. The European Parliament and the Council shall, on an annual basis, address the progress achieved by the Energy Union on all dimensions of Energy and Climate policies.
+
+## *CHAPTER 6*
+
+### ***Union and national systems on greenhouse gas emissions and removals by sinks***
+
+<a id="art_37"></a>
+
+### Article 37 — Union and national inventory systems
+
+**1.** By 1 January 2021, Member States shall establish, operate and seek to continuously improve national inventory systems to estimate anthropogenic emissions by sources and removals by sinks of greenhouse gases listed in Part 2 of Annex V and to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of their greenhouse gas inventories.
+
+**2.** Member States shall ensure that their competent inventory authorities have access to the information specified in Annex XII to this Regulation, make use of reporting systems established pursuant to Article 20 of Regulation (EU) No 517/2014 to improve the estimate of fluorinated gases in the national greenhouse gas inventories and are able to undertake the annual consistency checks referred to in points (i) and (j) of Part 1 of Annex V to this Regulation.
+
+**3.** A Union inventory system to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of national inventories with regard to the Union greenhouse gas inventory is hereby established. The Commission shall manage, maintain and seek to continuously improve that system which shall include the setting of a quality assurance and quality control programme, setting quality objectives and drafting an inventory quality assurance and quality control plan, procedures for completing emission estimates to compile the Union inventory pursuant to paragraph 5 of this Article and the reviews referred to in Article 38.
+
+**4.** The Commission shall perform an initial check of the accuracy of the preliminary greenhouse gas inventory data to be submitted by Member States pursuant to Article 26(3). It shall send the results of that check to Member States within six weeks of the submission deadline. Member States shall respond to any relevant questions raised by the initial check by 15 March, together with the final inventory submission for the year X-2.
+
+**5.** Where a Member State does not submit the inventory data required to compile the Union inventory by 15 March, the Commission may prepare estimates to complete the data submitted by the Member State, in consultation and close cooperation with the Member State concerned. The Commission shall use, for that purpose, the guidelines applicable for preparing the national greenhouse gas inventories.
+
+**6.** The Commission, assisted by the Climate Change Committee referred to in point (a) of Article 44(1), shall adopt implementing acts in order to set out rules on the structure, format and submission process of the information relating to national inventory systems and requirements on the establishment, operation and functioning of national inventory systems.
+
+In proposing such implementing acts, the Commission shall take into account any relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+**7.** The Commission shall adopt delegated acts in accordance with Article 43 in order to supplement this Regulation by setting out rules concerning the requirements on the establishment, operation and functioning of the Union inventory system. In proposing such delegated acts, the Commission shall take into account any relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement.
+
+<a id="art_38"></a>
+
+### Article 38 — Inventory review
+
+**1.** With a view to monitoring Member States' greenhouse gas emission reductions or limitations pursuant to Articles 4, 9 and 10 of Regulation (EU) 2018/842 and their reduction of emissions and enhancement of removals by sinks pursuant to Articles 4 and 14 of Regulation (EU) 2018/841 and any other greenhouse gas emission reduction or limitation targets set out in Union law, the Commission shall, in 2027 and 2032, carry out a comprehensive review of the national inventory data submitted by Member States pursuant to Article 26(4) of this Regulation. Member States shall participate fully in that process.
+
+**2.** The comprehensive review referred to in paragraph 1 shall include:(a) checks to verify the transparency, accuracy, consistency, comparability and completeness of information submitted;(b) checks to identify cases where inventory data are prepared in a manner which is inconsistent with UNFCCC guidance documentation or Union rules;(c) checks to identify cases where LULUCF accounting is carried out in a manner which is inconsistent with UNFCCC guidance documentation or Union rules, and(d) where appropriate, calculating the resulting technical corrections necessary, in consultation with the Member States.
+
+**3.** The Commission, assisted by the Climate Change Committee referred to in point (a) of Article 44(1), shall adopt implementing acts to determine the timing and the procedure for carrying out the comprehensive review, including the tasks set out in paragraph 2 of this Article, and ensuring due consultation of the Member States with regard to the conclusions of the reviews.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+**4.** The Commission shall, by means of an implementing act, determine the total sum of emissions for the relevant years arising from the corrected inventory data for each Member State upon completion of the review split between emission data relevant for Article 9 of Regulation (EU) 2018/842 and emission data referred to in point (c) of Part 1 of Annex V to this Regulation and also determine the total sum of emissions and removals relevant for Article 4 of Regulation (EU) 2018/841.
+
+**5.** The data for each Member State as recorded in the registries set up pursuant to Article 15 of Regulation (EU) 2018/841 four months following the date of publication of an implementing act adopted pursuant to paragraph 4 of this Article, shall be used for the compliance check with Article 4 of Regulation (EU) 2018/841, including changes to such data arising as a result of that Member State making use of the flexibilities pursuant to Article 11 of Regulation (EU) 2018/841.
+
+**6.** The data for each Member State as recorded in the registries set up pursuant to Article 12 of Regulation (EU) 2018/842 two months following the compliance check date with Regulation (EU) 2018/841 referred to in paragraph 5 of this Article, shall be used for the compliance check pursuant to Article 9 of Regulation (EU) 2018/842 for the years 2021 and 2026. The compliance check pursuant to Article 9 of Regulation (EU) 2018/842 for each of the years 2022 to 2025 and 2027 to 2030 shall be performed at a date falling one month following the date of the compliance check for the previous year. This check shall include changes to such data arising as a result of that Member State making use of the flexibilities pursuant to Articles 5, 6 and 7 of Regulation (EU) 2018/842.
+
+<a id="art_39"></a>
+
+### Article 39 — Union and national systems for policies and measures and projections
+
+**1.** By 1 January 2021, Member States and the Commission shall operate and seek to continuously improve national and Union systems respectively, for reporting on policies and measures and for reporting on projections of anthropogenic greenhouse gas emissions by sources and removals by sinks. Those systems shall include the relevant institutional, legal and procedural arrangements established within a Member State and the Union for evaluating policy and making projections of anthropogenic greenhouse gas emissions by sources and removals by sinks.
+
+**2.** Member States and the Commission shall aim to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of the information reported on policies and measures and projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, as referred to in Article 18, including the use and application of data, methods and models, and the implementation of quality assurance and quality control activities and sensitivity analysis.
+
+**3.** The Commission, assisted by the Climate Change Committee referred to in point (a) of Article 44(1), shall adopt implementing acts to set out the structure, format and submission process of information on national and Union systems for policies and measures and projections pursuant to paragraphs 1 and 2 of this Article and to Article 18.
+
+In proposing such implementing acts, the Commission shall take into account the relevant decisions adopted by the bodies of the UNFCCC or of the Paris Agreement, including internationally agreed reporting requirements as well as timetables for monitoring and reporting of that information.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(6).
+
+<a id="art_40"></a>
+
+### Article 40 — Establishment and operation of registries
+
+**1.** The Union and the Member States shall set up and maintain registries to accurately account for the nationally determined contribution pursuant to Article 4(13) of the Paris Agreement and for internationally transferred mitigation outcomes pursuant to Article 6 of that Agreement.
+
+**2.** The Union and the Member States may maintain their registries in a consolidated system, together with one or more other Member States.
+
+**3.** The data in the registries referred to in paragraph 1 of this Article shall be made available to the central administrator designated pursuant to Article 20 of Directive 2003/87/EC.
+
+**4.** The Commission shall adopt delegated acts in accordance with Article 43 in order to supplement this Regulation by setting up the registries referred to in paragraph 1 of this Article and in order to give effect, by means of the registries of the Union and of the Member States, to the necessary technical implementation of relevant decisions of the UNFCCC or the Paris Agreement bodies, in accordance with paragraph 1 of this Article.
+
+## *CHAPTER 7*
+
+### ***Cooperation and support***
+
+<a id="art_41"></a>
+
+### Article 41 — Cooperation between the Member States and the Union
+
+**1.** The Member States shall cooperate and coordinate fully with each other and with the Union in relation to obligations under this Regulation, in particular concerning:(a) the process for preparing, adopting, notifying and assessing the integrated national energy and climate plans pursuant to Articles 9 to 13;(b) the process for preparing, adopting, notifying and assessing the integrated national energy and climate progress report pursuant to Article 17 and annual reporting pursuant to Article 26;(c) the process related to the Commission recommendations and addressing those recommendations pursuant to Article 9(2) and (3), Article 17(6), Article 30(1), Article 31(1) and Article 32(1) and (2);(d) compiling the Union greenhouse gas inventory and preparing the Union greenhouse gas inventory report, pursuant to Article 26(4);(e) preparing the Union national communication pursuant to Article 12 of the UNFCCC and the Union biennial report pursuant to Decision 2/CP.17 or subsequent relevant decisions adopted by the bodies of the UNFCCC;(f) review and compliance procedures under the UNFCCC and the Paris Agreement in accordance with any applicable decision under the UNFCCC as well as the Union's procedure to review Member States greenhouse gas inventories referred to in Article 38;(g) any adjustments following the review process referred to in Article 38 or other changes to inventories and inventory reports submitted, or to be submitted, to the UNFCCC Secretariat;(h) compiling the Union approximated greenhouse gas inventory, pursuant to Article 26(2).
+
+**2.** The Commission may provide technical support to the Member States in relation to obligations under this Regulation upon request from a Member State.
+
+<a id="art_42"></a>
+
+### Article 42 — Role of the European Environment Agency
+
+The European Environment Agency shall assist the Commission in its work as regards the decarbonisation and energy efficiency dimensions to comply with Articles 15 to 21, 26, 28, 29, 35, 37, 38, 39 and 41 in accordance with its annual work programme. That shall include assistance, as required, with:
+
+(a) compiling the information reported by Member States on policies and measures and projections;
+
+(b) performing quality assurance and quality control procedures on the information reported by Member States on projections and policies and measures;
+
+(c) preparing estimates or complementing those available to the Commission for data on projections not reported by the Member States;
+
+(d) compiling data, wherever available taken from European statistics and appropriate in terms of timing, as required for the State of the Energy Union report to the European Parliament and to the Council prepared by the Commission;
+
+(e) disseminating information collected under this Regulation, including maintaining and updating a database on Member States' mitigation policies and measures and the European Climate Adaptation Platform relating to impacts, vulnerabilities and adaptation to climate change;
+
+(f) performing quality assurance and quality control procedures in the preparation of the Union greenhouse gas inventory;
+
+(g) compiling the Union greenhouse gas inventory and preparing the Union greenhouse gas inventory report;
+
+(h) preparing estimates for data not reported in the national greenhouse gas inventories;
+
+(i) conducting the review referred to in Article 38;
+
+(j) compiling the Union approximated greenhouse gas inventory.
+
+## *CHAPTER 8*
+
+### ***Final provisions***
+
+<a id="art_43"></a>
+
+### Article 43 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Articles 3(5), Article 15(5), Article 26(6), Article 37(7) and Article 40(4) shall be conferred on the Commission for a period of five years from 24 December 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+**3.** The delegation of power referred to in Article 3(5), Article 15(5), Article 26(6), Article 37(7) and Article 40(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+**5.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**6.** A delegated act adopted pursuant to Article 3(5), Article 15(5), Article 26(6), Article 37(7) and Article 40(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art_44"></a>
+
+### Article 44 — Committees
+
+**1.** The Commission shall be assisted by:(a) a Climate Change Committee with regard to the implementation of the issues referred to in Article 19(5), Article 26(7), Article 37(6), Article 38(3) and Article 39(3); and(b) an Energy Union Committee with regard to the implementation of issues referred to in Article 17(4) and Article 33(4).
+
+**2.** Those committees shall be committees within the meaning of Regulation (EU) No 182/2011.
+
+**3.** The Climate Change Committee referred to in point (a) of paragraph 1 of this Article replaces the committee established in Article 26 of Regulation (EU) No 525/2013.
+
+**4.** When either of the committees referred to in paragraph 1 considers horizontal issues and common actions, it shall inform the other committee referred to in paragraph 1 accordingly, in order to ensure consistency of policies and to maximise synergies between sectors.
+
+**5.** Each Member State shall appoint its representative(s) to the Climate Change Committee and the Energy Union Committee. The representatives of each committee shall be invited to the meetings of the other.
+
+**6.** Where reference is made to this Article, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_45"></a>
+
+### Article 45 — Review
+
+The Commission shall report to the European Parliament and to the Council within six months of each global stocktake agreed under Article 14 of the Paris Agreement on the operation of this Regulation, its contribution to governance of the Energy Union, its contribution to the long-term goals of the Paris Agreement, progress towards the achievement of the 2030 climate and energy targets, additional Energy Union objectives and the conformity of the planning, reporting and monitoring provisions laid down in this Regulation with other Union law or decisions relating to the UNFCCC and the Paris Agreement. The Commission reports may be accompanied by legislative proposals where appropriate.
+
+<a id="art_46"></a>
+
+### Article 46 — Amendments to Directive 94/22/EC
+
+Directive 94/22/EC is amended as follows:
+
+(1) in Article 8, paragraph 2 is deleted;
+
+(2) Article 9 is deleted.
+
+<a id="art_47"></a>
+
+### Article 47 — Amendments to Directive 98/70/EC
+
+Directive 98/70/EC is amended as follows:
+
+(1) Article 7a is amended as follows: (a) in the third subparagraph of paragraph 1, point (a) is replaced by the following: ‘(a) the total volume of each type of fuel or energy supplied; and’; (b) in paragraph 2, the introductory wording is replaced by the following: **‘2.** Member States shall require suppliers to reduce as gradually as possible life cycle greenhouse gas emissions per unit of energy from fuel and energy supplied by up to 10 % by 31 December 2020, compared with the fuel baseline standard set out in Annex II to Council Directive (EU) 2015/652. That reduction shall consist of:’;
+
+(2) in Article 8, paragraph 4 is replaced by the following: **‘4.** The Commission shall ensure that the information submitted pursuant to paragraph 3 is promptly made available by appropriate means.’.
+
+<a id="art_48"></a>
+
+### Article 48 — Amendments to Directive 2009/31/EC
+
+Directive 2009/31/EC is amended as follows:
+
+(1) in Article 27, paragraph 1 is replaced by the following: ‘Every four years the Member States shall submit to the Commission a report on the implementation of this Directive, including the register referred to in point (b) of Article 25(1). The first report shall be sent to the Commission by 30 June 2011. The report shall be drawn up on the basis of a questionnaire or outline adopted by the Commission in the form of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2). The questionnaire or outline shall be sent to Member States at least six months before the deadline for the submission of the report.’;
+
+(2) in Article 38, paragraph 1 is deleted.
+
+<a id="art_49"></a>
+
+### Article 49 — Amendments to Regulation (EC) No 663/2009
+
+Regulation (EC) No 663/2009 is amended as follows:
+
+(1) in Article 27, paragraphs 1 and 3 are deleted;
+
+(2) Article 28 is deleted.
+
+<a id="art_50"></a>
+
+### Article 50 — Amendment to Regulation (EC) No 715/2009
+
+In Regulation (EC) No 715/2009, Article 29 is deleted.
+
+<a id="art_51"></a>
+
+### Article 51 — Amendments to Directive 2009/73/EC
+
+Directive 2009/73/EC is amended as follows:
+
+(1) Article 5 is deleted;
+
+(2) Article 52 is replaced by the following: ‘Article 52 Reporting The Commission shall monitor and review the application of this Directive and submit an overall progress report to the European Parliament and to the Council as an annex to the State of the Energy Union Report referred to in Article 35 of Regulation (EU) 2018/1999 of the European Parliament and of the Council (*1).
+
+<a id="art_52"></a>
+
+### Article 52 — Amendment to Council Directive 2009/119/EC
+
+In Article 6 of Directive 2009/119/EC, paragraph 2 is replaced by the following:
+
+**‘2.** By 15 March each year, each Member State shall send the Commission a summary copy of the stock register referred to in paragraph 1 showing at least the quantities and nature of the emergency stocks included in the register on the last day of the preceding calendar year.’.
+
+<a id="art_53"></a>
+
+### Article 53 — Amendments to Directive 2010/31/EU
+
+Directive 2010/31/EU is amended as follows:
+
+(1) Article 2a is amended as follows: (a) in paragraph 1, the introductory wording is replaced by the following: **‘1.** Each Member State shall establish a long-term renovation strategy to support the renovation of the national stock of residential and non-residential buildings, both public and private, into a highly energy efficient and decarbonised building stock by 2050, facilitating the cost-effective transformation of existing buildings into nearly zero-energy buildings. Each long-term renovation strategy shall encompass:’; (b) the following paragraph is added: **‘8.** Each Member State's long-term renovation strategy shall be submitted to the Commission as part of its final integrated national energy and climate plan referred to in Article 3 of Regulation (EU) 2018/1999 of the European Parliament and of the Council (*2). As a derogation from Article 3(1) of that Regulation, the first long-term renovation strategy under paragraph 1 of this Article shall be submitted to the Commission by 10 March 2020.
+
+(2) in the second subparagraph of Article 5(2), the sentence ‘The report may be included in the Energy Efficiency Action Plans referred to in Article 14(2) of Directive 2006/32/EC’ is deleted;
+
+(3) in Article 9, paragraph 5 is replaced by the following: **‘5.** As part of its State of the Energy Union report referred to in Article 35 of Regulation (EU) 2018/1999, the Commission shall report every four years to the European Parliament and to the Council on the progress of Member States in increasing the number of nearly zero-energy buildings. On the basis of this reported information the Commission shall, where necessary, develop an action plan and propose recommendations and measures in accordance with Article 34 of Regulation (EU) 2018/1999 to increase the number of those buildings and encourage best practices as regards the cost-effective transformation of existing buildings into nearly zero-energy buildings.’;
+
+(4) in Article 10, paragraphs 2 and 3 are deleted;
+
+(5) in Article 14(3), the third subparagraph is replaced by the following: ‘Such a report shall be submitted to the Commission as part of the Member States' integrated national energy and climate plans referred to in Article 3 of Regulation (EU) 2018/1999’;
+
+(6) in Article 15(3), the third subparagraph is replaced by the following: ‘Such a report shall be submitted to the Commission as part of the Member States' integrated national energy and climate plans referred to in Article 3 of Regulation (EU) 2018/1999’.
+
+<a id="art_54"></a>
+
+### Article 54 — Amendments to Directive 2012/27/EU
+
+Directive 2012/27/EU is amended as follows:
+
+(1) Article 4 is deleted;
+
+(2) in Article 18(1), point (e) is deleted;
+
+(3) Article 24 is amended as follows: (a) paragraphs 1, 3, 4 and 11, are deleted; (b) paragraph 2 is deleted;
+
+(4) Annex XIV is deleted.
+
+<a id="art_55"></a>
+
+### Article 55 — Amendment to Directive 2013/30/EU
+
+In Article 25 of Directive 2013/30/EU, paragraph 1 is replaced by the following:
+
+**‘1.** Member States shall report annually to the Commission, as part of the annual reporting referred to in Article 26 of Regulation (EU) 2018/1999 of the European Parliament and of the Council (*3), the information specified in point 3 of Annex IX.
+
+<a id="art_56"></a>
+
+### Article 56 — Amendments to Directive (EU) 2015/652
+
+Directive (EU) 2015/652 is amended as follows:
+
+(1) in Article 5, paragraph 1 is replaced by the following: **‘1.** Each year by 31 December Member States shall provide the Commission with data for the preceding calendar year related to compliance with Article 7a of Directive 98/70/EC, as defined in Annex III to this Directive.’;
+
+(2) in Annex I, Part 2, points 1(h), 2, 3, 4 and 7 are deleted.
+
+(3) Annex III is amended as follows: (a) point 1 is replaced by the following: ‘1. Member States are to report the data listed in point 3. Those data must be reported for all fuel and energy placed on the market in each Member State. Where multiple biofuels are blended with fossil fuels, the data for each biofuel must be provided.’; (b) in point 3, points (e) and (f) are deleted;
+
+(4) Annex IV is amended as follows: (a) the following templates for reporting information for consistency of the reported data are deleted: — Origin — Single Suppliers — Origin — Joint Suppliers — Place of Purchase; (b) in the format notes, points 8 and 9 are deleted.
+
+<a id="art_57"></a>
+
+### Article 57 — Repeal
+
+Regulation (EU) No 525/2013 shall be repealed with effect from 1 January 2021, subject to the transitional provisions laid down in Article 58 of this Regulation, with the exception of Article 26(1) of Regulation (EU) No 525/2013 which shall be repealed with effect from 24 December 2018. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex XIII.
+
+<a id="art_58"></a>
+
+### Article 58 — Transitional provisions
+
+By way of derogation from Article 57 of this Regulation, Article 7 and points (a) and (d) of Article 17(1) of Regulation (EU) No 525/2013 shall continue to apply to the reports containing the data required under those articles for the years 2018, 2019 and 2020.
+
+Article 11(3) of Regulation (EU) No 525/2013 shall continue to apply as regards the second commitment period of the Kyoto Protocol.
+
+Article 19 of Regulation (EU) No 525/2013 shall continue to apply to the reviews of the greenhouse gas inventory data for the years 2018, 2019 and 2020.
+
+Article 22 of Regulation (EU) No 525/2013 shall continue to apply to the submission of the report required under that article.
+
+For the purpose of coherence and legal certainty, nothing in this Regulation prevents the application of the derogations pursuant to the relevant Union sectoral law in the area of electricity and electricity risk preparedness.
+
+<a id="art_59"></a>
+
+### Article 59 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
+
+Article 40, Article 53(2), (3) and (4), point (a) of Article 54(3), Article 54(4), and Article 55 shall apply from 1 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+**GENERAL FRAMEWORK FOR INTEGRATED NATIONAL ENERGY AND CLIMATE PLANS**
+
+**Part 1**
+
+General framework
+
+SECTION A: NATIONAL PLAN
+
+1. **OVERVIEW AND PROCESS FOR ESTABLISHING THE PLAN**
+
+1.1. **Executive summary**
+
+i. Political, economic, environmental, and social context of the plan
+
+ii. Strategy relating to the five dimensions of the Energy Union
+
+iii. Overview table with key objectives, policies and measures of the plan
+
+1.2. **Overview of current policy situation**
+
+i. National and Union energy system and policy context of the national plan
+
+ii. Current energy and climate policies and measures relating to the five dimensions of the Energy Union
+
+iii. Key issues of cross-border relevance
+
+iv. Administrative structure of implementing national energy and climate policies
+
+1.3. **Consultations and involvement of national and Union entities and their outcome**
+
+i. Involvement of the national parliament
+
+ii. Involvement of local and regional authorities
+
+iii. Consultations of stakeholders, including the social partners, and engagement of civil society and the general public
+
+iv. Consultations of other Member States
+
+v. Iterative process with the Commission
+
+1.4. **Regional cooperation in preparing the plan**
+
+i. Elements subject to joint or coordinated planning with other Member States
+
+ii. Explanation of how regional cooperation is considered in the plan
+
+2. **NATIONAL OBJECTIVES AND TARGETS**
+
+2.1. **Dimension decarbonisation**
+
+2.1.1. **GHG emissions and removals (3)**
+
+i. The elements set out in point (a)(1) of Article 4
+
+ii. Where applicable, other national objectives and targets consistent with the Paris Agreement and the existing long-term strategies. Where applicable for the contribution to the overall Union commitment of reducing the GHG emissions, other objectives and targets, including sector targets and adaptation goals, if available
+
+2.1.2. **Renewable energy**
+
+i. The elements set out in point (a)(2) of Article 4
+
+ii. Estimated trajectories for the sectoral share of renewable energy in final energy consumption from 2021 to 2030 in the electricity, heating and cooling, and transport sector
+
+iii. Estimated trajectories by renewable energy technology that the Member State projects to use to achieve the overall and sectoral trajectories for renewable energy from 2021 to 2030, including expected total gross final energy consumption per technology and sector in Mtoe and total planned installed capacity (divided by new capacity and repowering) per technology and sector in MW
+
+iv. Estimated trajectories on bioenergy demand, disaggregated between heat, electricity and transport, and on biomass supply by feedstocks and origin (distinguishing between domestic production and imports). For forest biomass, an assessment of its source and impact on the LULUCF sink
+
+v. Where applicable, other national trajectories and objectives, including those that are long term or sectoral (e.g. share of renewable energy in district heating, renewable energy use in buildings, renewable energy produced by cities, renewable energy communities and renewables self-consumers, energy recovered from the sludge acquired through the treatment of wastewater)
+
+2.2. **Dimension energy efficiency**
+
+i. The elements set out in point (b) of Article 4
+
+ii. The indicative milestones for 2030, 2040 and 2050, the domestically established measurable progress indicators, an evidence-based estimate of expected energy savings and wider benefits, and their contributions to the Union's energy efficiency targets as included in the roadmaps set out in the long-term renovation strategies for the national stock of residential and non-residential buildings, both public and private, in accordance with Article 2a of Directive 2010/31/EU
+
+iii. Where applicable, other national objectives, including long-term targets or strategies and sectoral targets, and national objectives in areas such as energy efficiency in the transport sector and with regard to heating and cooling
+
+2.3. **Dimension energy security**
+
+i. The elements set out in point (c) of Article 4
+
+ii. National objectives with regard to increasing: the diversification of energy sources and supply from third countries for the purpose of increasing the resilience of regional and national energy systems
+
+iii. Where applicable, national objectives with regard to reducing energy import dependency from third countries, for the purpose of increasing the resilience of regional and national energy systems
+
+iv. National objectives with regard to increasing the flexibility of the national energy system, in particular by means of deploying domestic energy sources, demand response and energy storage
+
+2.4. **Dimension internal energy market**
+
+2.4.1. **Electricity interconnectivity**
+
+i. The level of electricity interconnectivity that the Member State aims for in 2030 in consideration of the electricity interconnection target for 2030 of at least 15 %, with a strategy with the level from 2021 onwards defined in close cooperation with affected Member States, taking into account the 2020 interconnection target of 10 % and the following indicators of the urgency of action: (1) Price differential in the wholesale market exceeding an indicative threshold of EUR 2/MWh between Member States, regions or bidding zones; (2) Nominal transmission capacity of interconnectors below 30 % of peak load; (3) Nominal transmission capacity of interconnectors below 30 % of installed renewable generation. Each new interconnector shall be subject to a socioeconomic and environmental cost-benefit analysis and implemented only if the potential benefits outweigh the costs
+
+2.4.2. **Energy transmission infrastructure**
+
+i. Key electricity and gas transmission infrastructure projects, and, where relevant, modernisation projects, that are necessary for the achievement of objectives and targets under the five dimensions of the Energy Union Strategy
+
+ii. Where applicable, main infrastructure projects envisaged other than Projects of Common Interest (PCIs) (4)
+
+2.4.3. **Market integration**
+
+i. National objectives related to other aspects of the internal energy market such as increasing system flexibility, in particular related to the promotion of competitively determined electricity prices in line with relevant sectoral law, market integration and coupling, aimed at increasing the tradeable capacity of existing interconnectors, smart grids, aggregation, demand response, storage, distributed generation, mechanisms for dispatching, re-dispatching and curtailment, and real-time price signals, including a timeframe for when the objectives shall be met
+
+ii. Where applicable, national objectives related to the non-discriminatory participation of renewable energy, demand response and storage, including via aggregation, in all energy markets, including a timeframe for when the objectives are to be met
+
+iii. Where applicable, national objectives with regard to ensuring that consumers participate in the energy system and benefit from self-generation and new technologies, including smart meters;
+
+iv. National objectives with regard to ensuring electricity system adequacy, as well as for the flexibility of the energy system with regard to renewable energy production, including a timeframe for when the objectives are to be met
+
+v. Where applicable, national objectives to protect energy consumers and improve the competitiveness of the retail energy sector
+
+2.4.4. **Energy poverty**
+
+Where applicable, national objectives with regard to energy poverty, including a timeframe for when the objectives are to be met
+
+2.5. **Dimension research, innovation and competitiveness**
+
+i. National objectives and funding targets for public and, where available, private research and innovation relating to the Energy Union, including, where appropriate, a timeframe for when the objectives are to be met
+
+ii. Where available, national 2050 objectives related to the promotion of clean energy technologies and, where appropriate, national objectives, including long-term targets (2050) for deployment of low-carbon technologies, including for decarbonising energy and carbon-intensive industrial sectors and, where applicable, for related carbon transport and storage infrastructure
+
+iii. Where applicable, national objectives with regard to competitiveness
+
+3. **POLICIES AND MEASURES**
+
+3.1. **Dimension decarbonisation**
+
+3.1.1. **GHG emissions and removals**
+
+i. Policies and measures to achieve the target set under Regulation (EU) 2018/842 as referred in point 2.1.1 and policies and measures to comply with Regulation (EU) 2018/841, covering all key emitting sectors and sectors for the enhancement of removals, with an outlook to the long-term vision and goal to become a low emission economy and achieving a balance between emissions and removals in accordance with the Paris Agreement
+
+ii. Where relevant, regional cooperation in this area
+
+iii. Without prejudice to the applicability of State aid rules, financing measures, including Union support and the use of Union funds, in this area at national level, where applicable
+
+3.1.2. **Renewable energy**
+
+i. Policies and measures to achieve the national contribution to the binding 2030 Union target for renewable energy and trajectories as referred to in point (a)(2) Article 4, and, where applicable or available, the elements referred to in point 2.1.2 of this Annex, including sector- and technology-specific measures (5)
+
+ii. Where relevant, specific measures for regional cooperation, as well as, as an option, the estimated excess production of energy from renewable sources which could be transferred to other Member States in order to achieve the national contribution and trajectories referred to in point 2.1.2
+
+iii. Specific measures on financial support, where applicable, including Union support and the use of Union funds, for the promotion of the production and use of energy from renewable sources in electricity, heating and cooling, and transport
+
+iv. Where applicable, the assessment of the support for electricity from renewable sources that Member States are to carry out pursuant to Article 6(4) of Directive (EU) 2018/2001
+
+v. Specific measures to introduce one or more contact points, streamline administrative procedures, provide information and training, and facilitate the uptake of power purchase agreements Summary of the policies and measures under the enabling framework Member States have to put in place pursuant to Article 21(6) and Article 22(5) of Directive (EU) 2018/2001 to promote and facilitate the development of self-consumption and renewable energy communities
+
+vi. Assessment of the necessity to build new infrastructure for district heating and cooling produced from renewable sources
+
+vii. Where applicable, specific measures on the promotion of the use of energy from biomass, especially for new biomass mobilisation taking into account: — biomass availability, including sustainable biomass: both domestic potential and imports from third countries — other biomass uses by other sectors (agriculture and forest-based sectors); as well as measures for the sustainability of biomass production and use
+
+3.1.3. **Other elements of the dimension**
+
+i. Where applicable, national policies and measures affecting the EU ETS sector and assessment of the complementarity and impacts on the EU ETS
+
+ii. Policies and measures to achieve other national targets, where applicable
+
+iii. Policies and measures to achieve low emission mobility (including electrification of transport)
+
+iv. Where applicable, national policies, timelines and measures planned to phase out energy subsidies, in particular for fossil fuels
+
+3.2. **Dimension energy efficiency**
+
+Planned policies, measures and programmes to achieve the indicative national energy efficiency contributions for 2030 as well as other objectives referred to in point 2.2, including planned measures and instruments (also of a financial nature) to promote the energy performance of buildings, in particular with regard to the following:
+
+i. Energy efficiency obligation schemes and alternative policy measures under Articles 7a and 7b and Article 20(6) of Directive 2012/27/EU and to be prepared in accordance with Annex III to this Regulation
+
+ii. Long-term renovation strategy to support the renovation of the national stock of residential and non-residential buildings, both public and private (6), including policies, measures and actions to stimulate cost-effective deep renovation and policies and actions to target the worst performing segments of the national building stock, in accordance with Article 2a of Directive 2010/31/EU
+
+iii. Description of policy and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers that impede the uptake of energy performance contracting and other energy efficiency service models (7)
+
+iv. Other planned policies, measures and programmes to achieve the indicative national energy efficiency contributions for 2030 as well as other objectives referred to in point 2.2 (for example measures to promote the exemplary role of public buildings and energy-efficient public procurement, measures to promote energy audits and energy management systems (8), consumer information and training measures (9), and other measures to promote energy efficiency (10))
+
+v. Where applicable, a description of policies and measures to promote the role of local renewable energy communities in contributing to the implementation of policies and measures in points i, ii, iii and iv
+
+vi. Description of measures to develop measures to utilise energy efficiency potentials of gas and electricity infrastructure (11)
+
+vii. Regional cooperation in this area, where applicable
+
+viii. Financing measures, including Union support and the use of Union funds, in the area at national level
+
+3.3. **Dimension energy security (12)**
+
+i. Policies and measures related to the elements set out in point 2.3 (13)
+
+ii. Regional cooperation in this area
+
+iii. Where applicable, financing measures in this area at national level, including Union support and the use of Union funds
+
+3.4. **Dimension internal energy market (14)**
+
+3.4.1. **Electricity infrastructure**
+
+i. Policies and measures to achieve the targeted level of interconnectivity as set out in point (d) of Article 4
+
+ii. Regional cooperation in this area (15)
+
+iii. Where applicable, financing measures in this area at national level, including Union support and the use of Union funds
+
+3.4.2. **Energy transmission infrastructure**
+
+i. Policies and measures related to the elements set out in point 2.4.2, including, where applicable, specific measures to enable the delivery of Projects of Common Interest (PCIs) and other key infrastructure projects
+
+ii. Regional cooperation in this area (16)
+
+iii. Where applicable, financing measures in this area at national level, including Union support and the use of Union funds
+
+3.4.3. **Market integration**
+
+i. Policies and measures related to the elements set out in point 2.4.3
+
+ii. Measures to increase the flexibility of the energy system with regard to renewable energy production such as smart grids, aggregation, demand response, storage, distributed generation, mechanisms for dispatching, re-dispatching and curtailment, real-time price signals, including the roll-out of intraday market coupling and cross-border balancing markets
+
+iii. Where applicable, measures to ensure the non-discriminatory participation of renewable energy, demand response and storage, including via aggregation, in all energy markets
+
+iv. Policies and measures to protect consumers, especially vulnerable and, where applicable, energy poor consumers, and to improve the competitiveness and contestability of the retail energy market
+
+v. Description of measures to enable and develop demand response, including those addressing tariffs to support dynamic pricing (17)
+
+3.4.4. **Energy poverty**
+
+i. Where applicable, policies and measures to achieve the objectives set out in point 2.4.4
+
+3.5. **Dimension research, innovation and competitiveness**
+
+i. Policies and measures related to the elements set out in point 2.5
+
+ii. Where applicable, cooperation with other Member States in this area, including, where appropriate, information on how the SET Plan objectives and policies are being translated to a national context
+
+iii. Where applicable, financing measures in this area at national level, including Union support and the use of Union funds
+
+SECTION B: ANALYTICAL BASIS (18)
+
+4. **CURRENT SITUATION AND PROJECTIONS WITH EXISTING POLICIES AND MEASURES (19) (20)**
+
+4.1. **Projected evolution of main exogenous factors influencing energy system and GHG emission developments**
+
+i. Macroeconomic forecasts (GDP and population growth)
+
+ii. Sectoral changes expected to impact the energy system and GHG emissions
+
+iii. Global energy trends, international fossil fuel prices, EU ETS carbon price
+
+iv. Technology cost developments
+
+4.2. **Dimension Decarbonisation**
+
+4.2.1. **GHG emissions and removals**
+
+i. Trends in current GHG emissions and removals in the EU ETS, effort sharing and LULUCF sectors and different energy sectors
+
+ii. Projections of sectoral developments with existing national and Union policies and measures at least until 2040 (including for the year 2030)
+
+4.2.2. **Renewable energy**
+
+i. Current share of renewable energy in gross final energy consumption and in different sectors (heating and cooling, electricity and transport) as well as per technology in each of these sectors
+
+ii. Indicative projections of development with existing policies for the year 2030 (with an outlook to the year 2040)
+
+4.3. **Dimension Energy efficiency**
+
+i. Current primary and final energy consumption in the economy and per sector (including industry, residential, service and transport)
+
+ii. Current potential for the application of high-efficiency cogeneration and efficient district heating and cooling (21)
+
+iii. Projections considering existing energy efficiency policies, measures and programmes as described in point 1.2.(ii) for primary and final energy consumption for each sector at least until 2040 (including for the year 2030) (22)
+
+iv. Cost-optimal levels of minimum energy performance requirements resulting from national calculations, in accordance with Article 5 of Directive 2010/31/EU
+
+4.4. **Dimension energy security**
+
+i. Current energy mix, domestic energy resources, import dependency, including relevant risks
+
+ii. Projections of development with existing policies and measures at least until 2040 (including for the year 2030)
+
+4.5. **Dimension internal energy market**
+
+4.5.1. **Electricity interconnectivity**
+
+i. Current interconnection level and main interconnectors (23)
+
+ii. Projections of interconnector expansion requirements (including for the year 2030) (24)
+
+4.5.2. **Energy transmission infrastructure**
+
+i. Key characteristics of the existing transmission infrastructure for electricity and gas (25)
+
+ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) (26)
+
+4.5.3. **Electricity and gas markets, energy prices**
+
+i. Current situation of electricity and gas markets, including energy prices
+
+ii. Projections of development with existing policies and measures at least until 2040 (including for the year 2030)
+
+4.6. **Dimension research, innovation and competitiveness**
+
+i. Current situation of the low-carbon-technologies sector and, to the extent possible, its position on the global market (that analysis is to be carried out at Union or global level)
+
+ii. Current level of public and, where available, private research and innovation spending on low-carbon-technologies, current number of patents, and current number of researchers
+
+iii. Breakdown of current price elements that make up the main three price components (energy, network, taxes/levies)
+
+iv. Description of energy subsidies, including for fossil fuels
+
+5. **IMPACT ASSESSMENT OF PLANNED POLICIES AND MEASURES (27)**
+
+5.1. **Impacts of planned policies and measures described in section 3 on energy system and GHG emissions and removals, including comparison to projections with existing policies and measures (as described in section 4).**
+
+i. Projections of the development of the energy system and GHG emissions and removals as well as, where relevant of emissions of air pollutants in accordance with Directive (EU) 2016/2284 under the planned policies and measures at least until ten years after the period covered by the plan (including for the last year of the period covered by the plan), including relevant Union policies and measures.
+
+ii. Assessment of policy interactions (between existing policies and measures and planned policies and measures within a policy dimension and between existing policies and measures and planned policies and measures of different dimensions) at least until the last year of the period covered by the plan, in particular to establish a robust understanding of the impact of energy efficiency / energy savings policies on the sizing of the energy system and to reduce the risk of stranded investment in energy supply
+
+iii. Assessment of interactions between existing policies and measures and planned policies and measures, and between those policies and measures and Union climate and energy policy measures
+
+5.2. **Macroeconomic and, to the extent feasible, the health, environmental, employment and education, skills and social impacts, including just transition aspects (in terms of costs and benefits as well as cost-effectiveness) of the planned policies and measures described in section 3 at least until the last year of the period covered by the plan, including comparison to projections with existing policies and measures**
+
+5.3. **Overview of investment needs**
+
+i. existing investment flows and forward investment assumptions with regard to the planned policies and measures
+
+ii. sector or market risk factors or barriers in the national or regional context
+
+iii. analysis of additional public finance support or resources to fill identified gaps identified under point ii
+
+5.4. **Impacts of planned policies and measures described in section 3 on other Member States and regional cooperation at least until the last year of the period covered by the plan, including comparison to projections with existing policies and measures**
+
+i. Impacts on the energy system in neighbouring and other Member States in the region to the extent possible
+
+ii. Impacts on energy prices, utilities and energy market integration
+
+iii. Where relevant, impacts on regional cooperation
+
+**Part 2**
+
+List of parameters and variables to be reported in Section B of National Plans (28) (29) (30) (31)
+
+The following parameters, variables, energy balances and indicators are to be reported in Section B ‘Analytical Basis’ of the National Plans, if used:
+
+1. **General parameters and variables**
+
+(1) Population [million]
+
+(2) GDP [euro million]
+
+(3) Sectoral gross value added (including main industrial, construction, services, and agriculture sectors) [euro million]
+
+(4) Number of households [thousands]
+
+(5) Household size [inhabitants/households]
+
+(6) Disposable income of households [euro]
+
+(7) Number of passenger-kilometres: all modes, i.e. split between road (cars and buses separated if possible), rail, aviation and domestic navigation (when relevant) [million pkm]
+
+(8) Freight transport tonnes-kilometres: all modes excluding international maritime, i.e. split between road, rail, aviation, domestic navigation (inland waterways and national maritime) [million tkm]
+
+(9) International oil, gas and coal fuel import prices [EUR/GJ or euro/toe] based on the Commission's recommendations
+
+(10) EU-ETS carbon price [EUR/EUA] based on the Commission's recommendations
+
+(11) Exchange rates to EUR and to USD (where applicable) assumptions [euro/currency and USD/currency]
+
+(12) Number of Heating Degree Days (HDD)
+
+(13) Number of Cooling Degree Days (CDD)
+
+(14) Technology cost assumptions used in modelling for main relevant technologies
+
+2. **Energy balances and indicators**
+
+2.1. **Energy supply**
+
+(1) Indigenous Production by fuel type (all energy products that are produced in significant quantities) [ktoe]
+
+(2) Net imports by fuel type (including electricity and split into intra- and extra EU net imports) [ktoe]
+
+(3) Import dependency from third countries [%]
+
+(4) Main import sources (countries) for main energy carriers (including gas and electricity)
+
+(5) Gross Inland Consumption by fuel type source (including solids, all energy products: coal, crude oil and petroleum products, natural gas, nuclear energy, electricity, derived heat, renewables, waste) [ktoe]
+
+2.2. **Electricity and heat**
+
+(1) Gross electricity generation [GWh]
+
+(2) Gross electricity generation by fuel (all energy products) [GWh]
+
+(3) Share of combined heat and power generation in total electricity and heat generation [%]
+
+(4) Capacity electricity generation by source, including retirements and new investment [MW]
+
+(5) Heat generation from thermal power generation
+
+(6) Heat generation from combined heat and power plants, including industrial waste heat
+
+(7) Cross-border interconnection capacities for gas and electricity [Definition for electricity in line with outcome of ongoing discussions on basis for 15 % interconnection target] and their projected usage rates
+
+2.3. **Transformation sector**
+
+(1) Fuel inputs to thermal power generation (including solids, oil, gas) [ktoe]
+
+(2) Fuel inputs to other conversion processes [ktoe]
+
+2.4. **Energy consumption**
+
+(1) Primary and final energy consumption [ktoe]
+
+(2) Final energy consumption by sector (including industry, residential, tertiary, agriculture and transport (including split between passenger and freight transport, when available)) [ktoe]
+
+(3) Final energy consumption by fuel (all energy products) [ktoe]
+
+(4) Final non-energy consumption [ktoe]
+
+(5) Primary energy intensity of the overall economy (primary energy consumption per GDP [toe/euro]
+
+(6) Final energy intensity by sector (including industry, residential, tertiary and transport (including split between passenger and freight transport, when available))
+
+2.5. **Prices**
+
+(1) Electricity prices by type of using sector (residential, industry, tertiary)
+
+(2) National retail fuel prices (including taxes, per source and sector) [euro/ktoe]
+
+2.6. **Investment**
+
+Investment costs in energy transformation, supply, transmission and distribution sectors
+
+2.7. **Renewables**
+
+(1) Gross final consumption of energy from renewable sources and share of renewable energy in gross final energy consumption and by sector (electricity, heating and cooling, transport) and by technology
+
+(2) Electricity and heat generation from renewable energy in buildings; this shall include, where available, disaggregated data on energy produced, consumed and injected into the grid by solar photovoltaic systems, solar thermal systems, biomass, heat pumps, geothermal systems, as well as all other decentralised renewables systems
+
+(3) Where applicable, other national trajectories, including those that are long-term or sectoral the share of food-based and advanced biofuels, the share of renewable energy in district heating, as well as the renewable energy produced by cities and renewable energy communities.
+
+3. **GHG emissions and removals related indicators**
+
+(1) GHG emissions by policy sector (EU ETS, effort sharing and LULUCF)
+
+(2) GHG emissions by IPCC sector and by gas (where relevant, split into EU ETS and effort sharing sectors) [tCO2eq]
+
+(3) Carbon Intensity of the overall economy [tCO2eq/GDP]
+
+(4) CO2 emission related indicators (a) GHG intensity of domestic power and heat generation [tCO2eq/MWh] (b) GHG intensity of final energy consumption by sector [tCO2eq/toe]
+
+(5) Non-CO2 emission related parameters (a) Livestock: dairy cattle [1 000 heads], non-dairy cattle [1 000 heads], sheep [1 000 heads], pig [1 000 heads], poultry [1 000 heads] (b) Nitrogen input from application of synthetic fertilisers [kt nitrogen] (c) Nitrogen input from application of manure [kt nitrogen] (d) Nitrogen fixed by N-fixing crops [kt nitrogen] (e) Nitrogen in crop residues returned to soils [kt nitrogen] (f) Area of cultivated organic soils [hectares] (g) Municipal solid waste (MSW) generation (h) Municipal solid waste (MSW) going to landfills (i) Share of CH4 recovery in total CH4 generation from landfills [%]
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+**NATIONAL CONTRIBUTIONS FOR THE SHARE OF ENERGY FROM RENEWABLE SOURCES IN GROSS FINAL CONSUMPTION OF ENERGY IN 2030**
+
+1. The following indicative formula represents the objective criteria listed in points (e)(i) to (v) of Article 5(1), each expressed in percentage points:
+
+(a) the Member State's national binding target for 2020 as set out in the third column of the table Annex I to Directive (EU) 2018/2001;
+
+(b) a flat rate contribution (CFlat);
+
+(c) a GDP-per-capita based contribution (CGDP);
+
+(d) a potential-based contribution (CPotential);
+
+(e) a contribution reflecting the interconnection level of the Member State (CInterco).
+
+2. CFlat shall be the same for each Member State. All Member States' CFlat shall together contribute 30 % of the difference between the Union's targets for 2030 and 2020.
+
+3. CGDP shall be allocated between Member States based on Eurostat's GDP per capita index to the Union average over the 2013 to 2017 period, expressed in purchasing power standard, where for each Member State individually the index is capped at 150 % of the Union average. All Member States' CGDP shall together contribute 30 % of the difference between the Union's targets for 2030 and 2020.
+
+4. CPotential shall be allocated between Member States based on the difference between a Member State's RES share in 2030 as shown in PRIMES scenario and its national binding target for 2020. All Member States' CPotential shall together contribute 30 % of the difference between the Union's targets for 2030 and 2020.
+
+5. CInterco shall be allocated between Member States based on an electricity interconnection share index to Union average in 2017, measured by the net transfer capacity over total installed generation capacity, where for each Member State individually the interconnection share index is capped at 150 % of the Union average. All Member States' CInterco shall together contribute 10 % of the difference between the Union's targets for 2030 and 2020.
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+**NOTIFICATION OF MEMBER STATES' MEASURES AND METHODOLOGIES TO IMPLEMENT ARTICLE 7 OF DIRECTIVE 2012/27/EU**
+
+Member States shall notify to the Commission their proposed detailed methodology pursuant to point 5 of Annex V to Directive 2012/27/EU for the operation of the energy efficiency obligation schemes and alternative policy measures referred to in Articles 7a and 7b and Article 20(6) of that Directive.
+
+1. **Calculation of the level of the energy savings requirement to be achieved over the whole period from 1 January 2021 to 31 December 2030, showing how the following elements are taken into account:**
+
+(a) the annual final energy consumption, averaged over the most recent three-year period prior to 1 January 2019 [in ktoe];
+
+(b) the total cumulative amount of end-use energy savings to be achieved [in ktoe] in accordance with point (b) of Article 7(1) of Directive 2012/27/EU;
+
+(c) data used in the calculation of final energy consumption and sources of such data, including justification for the use of alternative statistical sources and any differences of the resulting quantities (if other sources than Eurostat are used);
+
+2. **Member States that decide to use any of the possibilities under Article 7(2) of Directive 2012/27/EU shall also notify their calculation of the level of the energy savings requirement to be achieved over the whole period from 1 January 2021 to 31 December 2030, showing how the following elements are taken also into account:**
+
+(a) their own annual savings rate;
+
+(b) their own calculation baseline and energy used in transport, in whole or in part, excluded from the calculation [in ktoe];
+
+(c) calculated cumulative amount of energy savings over the whole period from 1 January 2021 to 31 December 2030 (before application of the options referred to in points (b) to (g) of Article 7(4) of Directive 2012/27/EU) [in ktoe];
+
+(d) application of the options referred to in points (b) to (g) of Article 7(4) of Directive 2012/27/EU: (i) final energy consumption in industrial activities [in ktoe] listed in Annex I to Directive 2003/87/EC excluded from the calculation, in accordance with point (b) of Article 7(4) of Directive 2012/27/EU; (ii) amount of energy savings [in ktoe] achieved in the energy transformation, distribution and transmission sectors, including efficient district heating and cooling infrastructure, in accordance with point (c) of Article 7(4) of Directive 2012/27/EU; (iii) amount of energy savings [in ktoe] resulting from individual actions newly implemented since 31 December 2008 that continue to have an impact in 2020 and beyond, in accordance with point (d) of Article 7(4) of Directive 2012/27/EU; (iv) amount of energy savings [in ktoe] that stem from policy measures, provided it can be demonstrated that those policy measures result in individual actions carried out from 1 January 2018 and until 31 December 2020, which deliver savings after 31 December 2020, in accordance with point (e) of Article 7(4) of Directive 2012/27/EU; (v) amount of energy generated [in ktoe] on or in buildings for own use as a result of policy measures promoting new installation of renewable energy technologies, in accordance with point (f) of Article 7(4)of Directive 2012/27/EU; (vi) amount of energy savings [in ktoe] that exceed the cumulative energy savings required in the period from 1 January 2014 to 31 December 2020, which Member States count towards the period from 1 January 2021 to 31 December 2030 in accordance with point (g) of Article 7(4) of Directive 2012/27/EU;
+
+(e) total cumulative amount of energy savings (after application of the options referred to in points (b) to (g) of Article 7(4) of Directive 2012/27/EU).
+
+3. **Policy measures in view of the achievement of the savings requirement referred to in Article 7(1) of Directive 2012/27/EU:**
+
+3.1. **Energy efficiency obligation schemes referred to in Article 7a of Directive 2012/27/EU:**
+
+(a) description of the energy efficiency obligation scheme;
+
+(b) expected cumulative and annual amount of savings and duration of the obligation period(s);
+
+(c) obligated parties and their responsibilities;
+
+(d) target sectors;
+
+(e) eligible actions provided for under the measure;
+
+(f) information on the application of the following provisions of Directive 2012/27/EU: (i) where applicable, specific actions, share of savings to be achieved in households affected by energy poverty in accordance with Article 7(11); (ii) savings achieved by energy service providers or other third parties in accordance with point (a) of Article 7a(6); (iii) ‘banking and borrowing’ in accordance with point (b) of Article 7a(6);
+
+(g) where relevant, information on trading of energy savings.
+
+3.2. **Alternative measures referred to in Article 7b and Article 20(6) of Directive 2012/27/EU (except taxation):**
+
+(a) type of policy measure;
+
+(b) brief description of the policy measure, including the design features per each policy measure notified;
+
+(c) expected total cumulative and annual amount of savings per each measure and/ or amount of energy savings in relation to any intermediate periods;
+
+(d) implementing public authorities, participating or entrusted parties and their responsibilities for implementing the policy measure(s);
+
+(e) target sectors;
+
+(f) eligible actions provided for under the measure;
+
+(g) where applicable, specific policy measures or individual actions targeting energy poverty.
+
+3.3. **Information on taxation measures:**
+
+(a) brief description of taxation measure;
+
+(b) duration of taxation measure;
+
+(c) implementing public authority;
+
+(d) expected cumulative and annual amount of savings per measure;
+
+(e) target sectors and segment of taxpayers;
+
+(f) calculation methodology, including which price elasticities are used and how they have been established, in accordance with point (4) of Annex V to Directive 2012/27/EU.
+
+4. **Calculation methodology for measures notified under Articles 7a and 7b and Article 20(6) of Directive 2012/27/EU (except for taxation measures):**
+
+(a) measurement methods used referred to in point 1 of Annex V to Directive 2012/27/EU;
+
+(b) method to express the energy savings (primary or final energy savings);
+
+(c) lifetimes of measures, rate at which the savings decline over time and approach used to take into account the lifetime of savings;
+
+(d) brief description of the calculation methodology, including how additionality and materiality of savings are ensured and which methodologies and benchmarks are used for deemed and scaled savings;
+
+(e) information on how the possible overlaps between the measures and individual actions are addressed to avoid double counting of energy savings;
+
+(f) where relevant, climatic variations and approach used.
+
+5. **Monitoring and verification**
+
+(a) brief description of the monitoring and verification system and the process of the verification;
+
+(b) implementing public authority and its main responsibilities in charge of monitoring and verification system in relation to the energy efficiency obligation scheme or alternative measures;
+
+(c) independence of monitoring and verification from the obligated, participating or entrusted parties;
+
+(d) statistically significant proportion of energy efficiency improvement measures and proportion and criteria used to define and select a representative sample;
+
+(e) reporting obligations for obligated parties (savings achieved by each obligated party, or each sub-category of obligated party, and in total under the scheme).
+
+(f) publication of energy savings achieved (each year) under the energy efficiency obligation scheme and alternative measures;
+
+(g) information on Member State law on penalties to be applied in the case of non-compliance;
+
+(h) Information on policy measures provided for in the event that progress is not satisfactory.
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+**GENERAL FRAMEWORK FOR LONG-TERM STRATEGIES**
+
+1. **OVERVIEW AND PROCESS FOR DEVELOPING THE STRATEGIES**
+
+| 1.1. | Executive summary |
+| --- | --- |
+
+| 1.2. | Legal and policy context |
+| --- | --- |
+
+| 1.3. | Public consultation |
+| --- | --- |
+
+2. **CONTENT**
+
+2.1. **TOTAL GHG EMISSION REDUCTIONS AND ENHANCEMENTS OF REMOVALS BY SINKS**
+
+| 2.1.1. | Projected emission reductions and enhancement of removals by 2050 |
+| --- | --- |
+
+| 2.1.2. | National target for 2030 and beyond, if available, and indicative milestones for 2040 and 2050 |
+| --- | --- |
+
+| 2.1.3. | Adaptation policies and measures |
+| --- | --- |
+
+2.2. **RENEWABLE ENERGY**
+
+| 2.2.1. | To the extent feasible, the estimated likely share of renewable energy in final energy consumption by 2050 |
+| --- | --- |
+
+2.3. **ENERGY EFFICIENCY**
+
+| 2.3.1. | To the extent feasible, the estimated likely energy consumption by 2050 |
+| --- | --- |
+
+2.4. **SECTOR-SPECIFIC RELATED CONTENT**
+
+2.4.1. **Energy system**
+
+| 2.4.1.1. | Intended or likely future emissions trajectory or range |
+| --- | --- |
+
+| 2.4.1.2. | General description of main drivers for energy efficiency, demand-side flexibility and energy consumption and their evolution from 2021 and beyond |
+| --- | --- |
+
+2.4.2. **Industry**
+
+| 2.4.2.1. | Expected emission reductions by sector and energy demands |
+| --- | --- |
+
+| 2.4.2.2. | General overview of the policies, existing plans and measures for decarbonisation as described in point 2.1 of Section A of Part I of Annex I |
+| --- | --- |
+
+2.4.3. **Transport**
+
+| 2.4.3.1. | Expected emissions and energy sources by transport type (e.g. cars and vans, heavy duty road transport, shipping, aviation, rail) |
+| --- | --- |
+
+| 2.4.3.2. | Decarbonisation options |
+| --- | --- |
+
+2.4.4. **Agriculture and land use, land-use change and forestry (LULUCF)**
+
+| 2.4.4.1. | To the extent feasible, expected emissions by sources and by individual GHGs |
+| --- | --- |
+
+| 2.4.4.2. | Emission reduction options envisaged |
+| --- | --- |
+
+| 2.4.4.3. | Links to agricultural and rural development policies |
+| --- | --- |
+
+3. **FINANCING**
+
+| 3.1. | Estimates of investment needed |
+| --- | --- |
+
+| 3.2. | Policies and measures for related research, development and innovation |
+| --- | --- |
+
+4. **IMPACT ASSESSMENT OF THE SOCIO-ECONOMIC ASPECTS**
+
+5. **ANNEXES (as necessary)**
+
+| 5.1. | Details on modelling (including assumptions) and/or analysis, indicators, etc. |
+| --- | --- |
+
+<a id="anx_v"></a>
+
+### ANNEX V
+
+**GHG INVENTORIES INFORMATION**
+
+**Part 1**
+
+Information to be included in the reports referred to in Article 26(3):
+
+(a) their anthropogenic emissions of GHGs listed in Part 2 of this Annex and the anthropogenic emissions of GHGs referred to in Article 2(1) of Regulation (EU) 2018/842 for the year X-2;
+
+(b) data on their anthropogenic emissions of carbon monoxide (CO), sulphur dioxide (SO2), nitrogen oxides (NOx) and volatile organic compounds, consistent with data already reported pursuant to Article 8 of Directive (EU) 2016/2284 for the year X-2;
+
+(c) their anthropogenic GHG emissions by sources and removals of CO2 by sinks resulting from LULUCF, for the year X-2, in accordance with the methodologies specified in Part 3 of this Annex. This data shall also be relevant for the compliance report under Article 14 of Regulation (EU) 2018/841;
+
+(d) any changes to the information referred to in points (a), (b) and (c) for the years between the relevant base year or period and the year X-3, indicating the reasons for those changes;
+
+(e) information on indicators, as set out in Part 4 of this Annex, for the year X-2;
+
+(f) summary information on concluded transfers pursuant to Article 5 of Regulation (EU) 2018/842 and Articles 12 and 13 of Regulation (EU) 2018/841 for the year X-1;
+
+(g) information on the steps taken to improve inventory estimates, in particular in areas of the inventory that have been subject to adjustments or recommendations following expert reviews;
+
+(h) the actual or estimated allocation of the verified emissions reported by installation operators under Directive 2003/87/EC to the source categories of the national GHG inventory and the ratio of those verified emissions to the total reported GHG emissions in those source categories, for the year X-2;
+
+(i) where relevant, the results of the checks performed on the consistency of the emissions reported in the GHG inventories, for the year X-2, with the verified emissions reported under Directive 2003/87/EC;
+
+(j) where relevant, the results of the checks performed on the consistency of the data used to estimate emissions in preparation of the GHG inventories, for the year X-2, with: (i) the data used to prepare inventories of air pollutants pursuant to Directive (EU) 2016/2284; (ii) the data reported pursuant to Article 19(1) of, and Annex VII to, Regulation (EU) No 517/2014; (iii) the energy data reported pursuant to Article 4 of, and Annex B to, Regulation (EC) No 1099/2008;
+
+(k) a description of changes to their national inventory system, if any;
+
+(l) a description of changes to the national registry, if any;
+
+(m) information on their quality assurance and quality control plans, a general uncertainty assessment, a general assessment of completeness and, any other elements of the national GHG inventory report needed to prepare the Union GHG inventory report;
+
+(n) information of the Member State's intentions to make use of the flexibilities in Article 5(4) and (5) and Article 7(1) of Regulation (EU) 2018/842 and of the use of revenues under Article 5(6) of that Regulation.
+
+A Member State may request to be granted a derogation by the Commission from point (c) of the first paragraph to apply a different methodology from that specified in Part 3 of this Annex where the methodology improvement required cannot be achieved in time for the improvement to be taken into account in the GHG inventories for the period from 2021 to 2030, or where the cost of the methodology improvement would be disproportionately high compared to the benefits of applying such methodology to improve accounting for emissions and removals due to the low significance of the emissions and removals from the carbon pools concerned. Member States wishing to benefit from this derogation shall submit a reasoned request to the Commission by 31 December 2020, indicating by which time the methodology improvement could be implemented, the alternative methodology proposed or both, and an assessment of the potential impacts on the accuracy of accounting. The Commission may request additional information to be submitted within a specific, reasonable time period. Where the Commission considers that the request is justified, it shall grant the derogation. If the Commission rejects the request, it shall give reasons for its decision.
+
+**Part 2**
+
+The GHGs to be covered are:
+
+2
+
+4
+
+2
+
+6
+
+3
+
+Hydrofluorocarbons (HFCs):
+
+— 3
+
+— 2 2
+
+— 3
+
+— 2 3
+
+— 2 2
+
+— 2 3
+
+— 2 2
+
+— 3 3
+
+— 2 2
+
+— 3 2
+
+— 3 2
+
+— 3 3
+
+— 3 2 2
+
+— 3 2
+
+— 3 3
+
+— 2 2 3
+
+— 2 2 2
+
+— 3 2 2 3
+
+— 3 2 3 5 2 10
+
+Perfluorocarbons (PFCs):
+
+— 4
+
+— 2 6
+
+— 3 8
+
+— 4 8
+
+— 3 6
+
+— 4 10
+
+— 5 12
+
+— 6 14
+
+— 10 18
+
+**Part 3**
+
+**Methodologies for monitoring and reporting in the LULUCF sector**
+
+Geographically explicit land-use conversion data in accordance with the 2006 IPCC Guidelines for national GHG inventories.
+
+Tier 1 methodology in accordance with the 2006 IPCC guidelines for national GHG inventories.
+
+For emissions and removals for a carbon pool that accounts for at least 25-30 % of emissions or removals in a source or sink category which is prioritised within a Member State's national inventory system because its estimate has a significant influence on a country's total inventory of GHGs in terms of the absolute level of emissions and removals, the trend in emissions and removals, or the uncertainty in emissions and removals in the land-use categories, at least Tier 2 methodology in accordance with the 2006 IPCC guidelines for national GHG inventories.
+
+Member States are encouraged to apply Tier 3 methodology, in accordance with the 2006 IPCC guidelines for national GHG inventories.
+
+**Part 4**
+
+**Inventory indicators**
+
+| Indicator title | Indicator |
+| --- | --- |
+| TRANSFORMATION B0 | Specific CO2 emissions of public and auto-producer power plants, t/TJCO2 emissions from public and auto-producer thermal power stations, kt divided by all products — output by public and auto-producer thermal power stations, PJ |
+| TRANSFORMATION E0 | Specific CO2 emissions of auto-producer plants t/TJCO2 emissions from auto-producers, kt divided by All products output by auto-producer thermal power stations, PJ |
+| INDUSTRY A1.1 | Total CO2 intensity — iron and steel industry, t/million euroTotal CO2 emissions from iron and steel, kt divided by gross value added — iron and steel industry |
+| INDUSTRY A1.2 | Energy-related CO2 intensity — chemical industry, t/million euroEnergy-related CO2 emissions chemical industries, kt divided by gross value added — chemical industry |
+| INDUSTRY A1.3 | Energy-related CO2 intensity — glass, pottery and building materials industry, t/million euroEnergy-related CO2 emissions glass, pottery and building materials, kt divided by gross value added — glass, pottery and buildings material industry |
+| INDUSTRY A1.4 | Energy-related CO2 intensity — food, drink and tobacco industry, t/million euroEnergy-related CO2 emissions from food, drink and tobacco industry, kt divided by gross value-added — food, drink and tobacco industry, million euro (EC95) |
+| INDUSTRY A1.5 | Energy-related CO2 intensity — paper and printing industry, t/million euroEnergy-related CO2 emissions paper and printing, kt — Gross value-added — paper and printing industry, million euro (EC95) |
+| HOUSEHOLDS A0 | Specific CO2 emissions of households for space heating, t/m2CO2 emissions of households for space heating divided by surface area of permanently occupied dwellings, million m2 |
+| SERVICES B0 | Specific CO2 emissions of commercial and institutional sector for space heating, kg/m2CO2 emissions from space heating in commercial and institutional, kt divided by Surface area of services buildings, million m2 |
+| TRANSPORT B0 | Specific diesel related CO2 emissions of passenger cars, g/100 km |
+| TRANSPORT B0 | Specific petrol related CO2 emissions of passenger cars, g/100 km |
+
+<a id="anx_vi"></a>
+
+### ANNEX VI
+
+**POLICIES AND MEASURES INFORMATION IN THE AREA OF GHG EMISSIONS**
+
+Information to be included in the reports referred to in Article 18:
+
+(a) a description of their national system for reporting on policies and measures, or groups of measures, and for reporting on projections of anthropogenic GHG emissions by sources and removals by sinks pursuant to Article 39(1) or information on any changes made to that system where such a description has already been provided;
+
+(b) updates relevant to their long-term strategies referred to in Article 15 and progress in implementing those strategies;
+
+(c) information on national policies and measures, or groups of measures, and on implementation of Union policies and measures, or groups of measures, that limit or reduce GHG emissions by sources or enhance removals by sinks, presented on a sectoral basis and organised by gas or group of gases (HFCs and PFCs) listed in Part 2 of Annex V. That information shall refer to applicable and relevant national or Union policies and shall include: (i) the objective of the policy or measure and a short description of the policy or measure; (ii) the type of policy instrument; (iii) the status of implementation of the policy or measure or group of measures; (iv) indicators used to monitor and evaluate progress over time; (v) where available, quantitative estimates of the effects on emissions by sources and removals by sinks of GHGs broken down into: — ex ante — ex post (vi) available estimates of the projected costs and benefits of policies and measures, as well as estimates of the realised costs and benefits of policies and measures; (vii) all existing references to the assessments of the costs and effects of national policies and measures, to information in the implementation of Union policies and measures that limit or reduce GHG emissions by sources or enhance removals by sinks and to the underpinning technical reports; (viii) an assessment of the contribution of the policy or measure to the achievement of the long-term strategy referred to in Article 15;
+
+(d) information on planned additional national policies and measures, or groups of measures, envisaged with a view to limiting GHG emissions beyond their commitments under Regulation (EU) 2018/842 and Regulation (EU) 2018/841;
+
+(e) information regarding the links between the different policies and measures, or groups of measures, reported pursuant to point (c) and the way such policies and measures, or groups of measures, contribute to different projection scenarios.
+
+<a id="anx_vii"></a>
+
+### ANNEX VII
+
+**PROJECTIONS INFORMATION IN THE AREA OF GHG EMISSIONS**
+
+Information to be included in the reports referred to in Article 18:
+
+(a) projections without measures where available, projections with measures, and, where available, projections with additional measures;
+
+(b) total GHG projections and separate estimates for the projected GHG emissions for the emission sources covered by Directive 2003/87/EC and by Regulation (EU) 2018/842 and the projected emissions by sources and removals by sinks under the Regulation (EU) 2018/841;
+
+(c) the impact of policies and measures identified pursuant to point (a) of Article 18(1). Where such policies and measures are not included, this shall be clearly stated and explained;
+
+(d) results of the sensitivity analysis performed for the projections and information on the models and parameters used;
+
+(e) all relevant references to the assessment and the technical reports that underpin the projections referred to in Article 18(4).
+
+<a id="anx_viii"></a>
+
+### ANNEX VIII
+
+**INFORMATION ON NATIONAL ADAPTATION ACTIONS, FINANCIAL AND TECHNOLOGY SUPPORT PROVIDED TO DEVELOPING COUNTRIES AND AUCTIONING REVENUES**
+
+**Part 1**
+
+**Reporting on adaptation actions**
+
+Information to be included in the reports referred to in Article 19(1):
+
+(a) the main goals, objectives and institutional framework for adaptation;
+
+(b) climate change projections, including weather extremes, climate-change impacts, assessment of climate vulnerability and risks and key climate hazards;
+
+(c) adaptive capacity;
+
+(d) adaptation plans and strategies;
+
+(e) monitoring and evaluation framework;
+
+(f) progress made in implementation, including good practices and changes to governance.
+
+**Part 2**
+
+**Reporting on support provided to developing countries**
+
+Information to be included in the reports referred to in Article 19(3):
+
+(a) information on financial support committed and provided to developing countries for the year X-1, including: (i) quantitative information on public and mobilised financial resources by the Member State. The information on financial flows is to be based on the so-called ‘Rio markers’ for climate change mitigation-related support and climate change adaptation-related support and other tracking systems introduced by the OECD Development Assistance Committee; (ii) qualitative methodological information explaining the method used to calculate the quantitative information, including an explanation of methodology for quantifying their data, and, where relevant, other information on the definitions and methodologies used to determine any figures, in particular for information reported on mobilised financial flows; (iii) available information on activities by the Member State related to public-funded technology transfer projects and capacity-building projects for developing countries under the UNFCCC, including whether the technology transferred or capacity-building project was used for mitigating or adapting to the effects of climate change, the recipient country, where possible the amount of support provided, and the type of technology transferred or capacity-building project;
+
+(b) available information for the year X and subsequent years on the planned provision of support, including information on planned activities related to public-funded technology transfer projects or capacity building projects for developing countries under the UNFCCC and on technologies to be transferred and capacity-building projects, including whether the technology transferred or capacity-building project is intended for mitigating or adapting to the effects of climate change, the recipient country, where possible the amount of support to be provided, and the type of technology transferred or capacity-building project.
+
+**Part 3**
+
+**Reporting on auctioning revenues**
+
+Information to be included in the reports referred to in Article 19(2):
+
+(a) information on the use of revenues during the year X-1 generated by the Member State by auctioning allowances pursuant to Article 10(1) of Directive 2003/87/EC, including information on such revenue that has been used for one or more of the purposes specified in Article 10(3) of that Directive, or the equivalent in financial value of that revenue, and the actions taken pursuant to that article;
+
+(b) information on the use, as determined by the Member State, of all revenue generated by the Member State by auctioning aviation allowances pursuant to Article 3d(1) or (2) of Directive 2003/87/EC, which shall be provided in accordance with Article 3d(4) of that Directive;
+
+Auctioning revenues not disbursed at the time a Member State submits a report to the Commission pursuant to Article 19(2) shall be quantified and reported in reports for subsequent years.
+
+<a id="anx_ix"></a>
+
+### ANNEX IX
+
+**ADDITIONAL REPORTING OBLIGATIONS**
+
+**Part 1**
+
+**Additional reporting obligations in the area of renewable energy**
+
+The following additional information shall, unless otherwise stated, be included pursuant to point (c) of Article 20:
+
+(a) the functioning of the system of guarantees of origin for electricity, gas and heating and cooling from renewable sources, the levels of issuance and cancellation of guarantees of origin and the resulting annual national renewable energy consumption, as well as the measures taken to ensure the reliability and protection against fraud of the system;
+
+(b) amounts of biofuels, biogas renewable transport fuels of non-biological origin, recycled carbon fuels and renewable electricity consumed in the transport sector and, where relevant, their greenhouse saving performance, distinguishing between fuels produced from different types of food and feed crops and each type of feedstock listed in Annex IX to Directive (EU) 2018/2001;
+
+(c) developments in the availability, origin and use of biomass resources for energy purposes;
+
+(d) changes in commodity prices and land use within the Member State associated with its increased use of biomass and other forms of energy from renewable sources;
+
+(e) the estimated excess production of energy from renewable sources which could be transferred to other Member States so that these comply with Article 3(3) of Directive (EU) 2018/2001 and achieve the national contributions and trajectories referred to in point (a)(2) of Article 4 of this Regulation;
+
+(f) where applicable, the estimated demand for energy from renewable sources to be satisfied by means other than domestic production until 2030, including imported biomass feedstock;
+
+(g) the technological development and deployment of biofuels made from feedstocks listed in Annex IX to Directive (EU) 2018/2001;
+
+(h) where available, the estimated impact of the production or use of biofuels, bioliquids and biomass fuels on biodiversity, water resources, water availability and quality, soils and air quality within the Member State;
+
+(i) observed cases of fraud in the chain of custody of biofuels, bioliquids and biomass fuels;
+
+(j) information on how the share of biodegradable waste in waste used for producing energy has been estimated, and what steps have been taken to improve and verify such estimates;
+
+(k) electricity and heat generation from renewable energy in buildings, including disaggregated data on energy produced, consumed and injected into the grid by solar photovoltaic systems, solar thermal systems, biomass, heatpumps, geothermal systems, as well as all other decentralised renewables systems;
+
+(l) where applicable, the share of renewable energy in district heating, as well as the renewable energy produced by cities and renewable energy communities;
+
+(m) primary supply of solid biomass (in 1 000 m3, except with regard to point (1)(b)(iii), which will be provided in tonnes) (1) Forest biomass used for energy production (domestic production and import) (a) Primary biomass from forest used directly for energy production (i) Where available, branches and tree tops (reporting is voluntary) (ii) Where applicable, stumps (reporting is voluntary) (iii) Round wood (split into industrial roundwood and fuelwood) (b) Where applicable, forest-based industry co-products used directly for energy (i) Where applicable, bark (ii) Chips, sawdust and other wood particles (iii) Where applicable, black liquor and crude tall oil (c) Where available, post-consumer wood used directly for energy production (d) Processed wood-based fuel, produced from feedstocks not accounted under point (1)(a), (b) or (c): (i) Where applicable, wood charcoal (ii) Wood pellets and wood briquettes (2) Where available, agricultural biomass used for energy production (domestic production, import and export) (a) Energy crops for electricity or heat (including short rotation coppice) (b) Agricultural crop residues for electricity or heat (3) Where available, organic waste biomass for energy production (domestic production, import and export) (a) Organic fraction of industrial waste (b) Organic fraction of municipal waste (c) Waste sludges
+
+(n) final energy consumption of solid biomass (amount of solid biomass used for energy production in the following sectors): (1) Energy sector (a) Electricity (b) Combined heat and power (c) Heat (2) Industry sector internal (consumed and autoproduced electricity, CHP and heat) (3) Direct final consumption residential (4) Other
+
+**Part 2**
+
+**Additional reporting obligations in the area of energy efficiency**
+
+In the area of energy efficiency, the following additional information shall be included pursuant to point (c) of Article 21:
+
+(a) major legislative and non-legislative policies, measures, financing measures and programmes implemented in year X-2 and X-1 (with X as the year when the report is due) to achieve their objectives referred to in point (b) of Article 4 which promote energy service markets, improve the energy performance of buildings, measures to utilise energy efficiency potentials of gas and electricity infrastructure and heating and cooling, improve information and qualification, other measures to promote energy efficiency;
+
+(b) the cumulative amount of energy savings achieved through Article 7 of Directive 2012/27/EU in years X-3 and X-2;
+
+(c) the amount of savings achieved by policy measures aimed at alleviation of energy poverty in line with Article 7(11) of Directive 2012/27/EU;
+
+(d) where applicable, the amount of savings achieved in accordance with point (c) of Article 7(4) of Directive 2012/27/EU;
+
+(e) progress in each sector and reasons why energy consumption remained stable or was growing in year X-3 and X-2 in final energy consumption sectors;
+
+(f) total building floor area of the buildings with a total useful floor area over 250 m2 owned and occupied by the Member States' central government that, on 1 January in year X-2 and X-1, which did not meet the energy performance requirements referred to in Article 5(1) of Directive 2012/27/EU;
+
+(g) total building floor area of heated and/or cooled buildings owned and occupied by the Member States' central government that was renovated in year X-3 and X-2 referred to in Article 5(1) of the Directive 2012/27/EU or the amount of energy savings in eligible buildings owned and occupied by their central government as referred to in Article 5(6) of Directive 2012/27/EU;
+
+(h) number of energy audits carried out in in year X-3 and X-2. In addition, the total estimated number of large companies in their territory to which Article 8(4) of Directive 2012/27/EU is applicable and the number of energy audits carried out in those enterprises in the year X-3 and X-2;
+
+(i) applied national primary energy factor for electricity and a justification if this is different from the default coefficient referred to in footnote (3) of Annex IV to Directive 2012/27/EU;
+
+(j) number and floor area of new and renovated nearly zero-energy buildings in year X-2 and X-1, as provided in Article 9 of the Directive 2010/31/EU, where necessary based on statistical sampling;
+
+(k) the internet link to the website where the list or the interface of energy services providers referred to in point (c) of Article 18(1) of Directive 2012/27/EU can be accessible.
+
+<a id="anx_x"></a>
+
+### ANNEX X
+
+**UNION BIOENERGY SUSTAINABILITY REPORT**
+
+The EU bioenergy sustainability report on energy from biomass to be adopted biennially by the Commission together with the State of the Energy Union report pursuant to point (d) of Article 35(2), shall contain as a minimum the following information:
+
+(a) the relative environmental benefits and costs of different biofuels, bioliquids and biomass fuels, the effects of the Union's import policies thereon, the security of supply implications and the ways of achieving a balanced approach between domestic production and imports;
+
+(b) the impact of the production and use of biomass on sustainability in the Union and in third countries, including impacts on biodiversity;
+
+(c) data and analysis of current and projected sustainable biomass availability and demand, including the impact of increased demand for biomass on biomass using sectors;
+
+(d) the technological development and deployment of biofuels made from feedstocks listed in Annex IX to Directive (EU) 2018/2001, and an assessment of the feedstock availability and resource competition taking into account the principles of the circular economy and the waste hierarchy established in Directive 2008/98/EC;
+
+(e) information on, and analysis of, the available scientific research results regarding indirect land-use change in relation to all production pathways, accompanied by an assessment of whether the range of uncertainty identified in the analysis underlying the estimations of indirect land-use change emissions may be narrowed and the possible impact of Union policies, such as environment, climate and agricultural policies, may be factored in;
+
+(f) in respect of both third countries and Member States that are a significant source of biofuels, bioliquids and biomass fuels consumed within the Union, on national measures taken to respect the sustainability criteria and GHG saving criteria set out in Article 29(2) to (7) and (10), of Directive (EU) 2018/2001, for soil, water and air protection; and
+
+(g) aggregated information from the database referred in Article 28(2) of Directive (EU) 2018/2001.
+
+In reporting on GHG emission savings from the use of biomass, the Commission shall use the amounts reported by Member States in accordance with point (b) of Part 1 of Annex IX to this Regulation, including the provisional mean values of the estimated indirect land-use change emissions and the associated range derived from the sensitivity analysis as set out in Annex VIII to Directive (EU) 2018/2001. The Commission shall make data on the provisional mean values of the estimated indirect land-use change emissions and the associated range derived from the sensitivity analysis publicly available. In addition, the Commission shall evaluate whether and how the estimate for direct emission savings would change if co-products were accounted for using the substitution approach
+
+<a id="anx_xi"></a>
+
+### ANNEX XI
+
+**VOLUNTARY SCHEMES IN RESPECT OF WHICH THE COMMISSION HAS ADOPTED A DECISION PURSUANT TO ARTICLE 30(4) OF DIRECTIVE (EU) 2018/2001**
+
+The report on voluntary schemes in respect of which the Commission has adopted a decision pursuant to Article 30(4) of Directive (EU) 2018/2001, to be adopted biennially by the Commission together with the State of the Energy Union report pursuant to point (e) of Article 35(2) of this Regulation, shall contain the Commission's assessment of, as a minimum, the following:
+
+(a) the independence, modality and frequency of audits, both in relation to what is stated on those aspects in the scheme documentation, at the time the scheme concerned was approved by the Commission, and in relation to industry best practices;
+
+(b) the availability of, and experience and transparency in the application of, methods for identifying and dealing with non-compliance, with particular regard to dealing with situations or allegations of serious wrongdoing on the part of members of the scheme;
+
+(c) transparency, particularly in relation to the accessibility of the scheme, the availability of translations in the applicable languages of the countries and regions from which raw materials originate, the accessibility of a list of certified operators and relevant certificates, and the accessibility of auditor reports;
+
+(d) stakeholder involvement, particularly as regards the consultation of indigenous and local communities prior to decision making during the drafting and reviewing of the scheme as well as during audits and the response to their contributions;
+
+(e) the overall robustness of the scheme, particularly in light of rules on the accreditation, qualification and independence of auditors and relevant scheme bodies;
+
+(f) where available, market updates of the scheme, the amount of feedstocks and biofuels certified, by country of origin and type, the number of participants;
+
+(g) the ease and effectiveness of implementing a system that tracks the proofs of conformity with the sustainability criteria that the scheme gives to its member(s), such a system intended to serve as a means of preventing fraudulent activity with a view, in particular, to the detection, treatment and follow-up of suspected fraud and other irregularities and where appropriate, number of cases of fraud or irregularities detected;
+
+(h) options for entities to be authorised to recognise and monitor certification bodies;
+
+(i) criteria for the recognition or accreditation of certification bodies;
+
+(j) rules on how the monitoring of the certification bodies is to be conducted;
+
+(k) ways to facilitate or improve the promotion of best practices.
+
+<a id="anx_xii"></a>
+
+### ANNEX XII
+
+**NATIONAL INVENTORY SYSTEMS**
+
+Information referred to in Article 37 includes the following:
+
+(a) data and methods reported for activities and installations under Directive 2003/87/EC for the purpose of preparing national GHG inventories in order to ensure consistency of the reported GHG emissions under the EU ETS and in the national GHG inventories;
+
+(b) data collected through the reporting systems on fluorinated gases in the relevant sectors established pursuant to Article 20 of Regulation (EU) No 517/2014 for the purpose of preparing national GHG inventories;
+
+(c) emissions, underlying data and methodologies reported by facilities under Regulation (EC) No 166/2006 for the purpose of preparing national GHG inventories;
+
+(d) data reported under Regulation (EC) No 1099/2008;
+
+(e) data collected via the geographical tracking of land areas in the context of existing Union and Member State programmes and surveys, including the LUCAS Land Use Cover Area frame Survey and the Copernicus Programme.
+
+<a id="anx_xiii"></a>
+
+### ANNEX XIII
+
+**CORRELATION TABLE**
+
+| Regulation (EU) No 525/2013 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1(1) |
+| Article 2 | — |
+| Article 3 | — |
+| Article 4 | Article 15 |
+| Article 5 | Article 37(1), (2) and(6); Annex XII |
+| Article 6 | Article 37(3) and (7) |
+| Article 7 | Article 26(3), (4), (6) and (7); Annex V |
+| Article 8 | Article 26(2) and (7) |
+| Article 9 | Article 37(4) and (5) |
+| Article 10 | Article 40 |
+| Article 11 | — |
+| Article 12 | Article 39 |
+| Article 13 | Article 18(1)(a) and Article 18(3) and (4); Annex VI |
+| Article 14 | Article 18(1)(b) and Article (2), (3) and (4); Annex VII |
+| Article 15 | Article 19(1); Annex VIII, Part 1 |
+| Article 16 | Article 19(3) and Annex VIII, Part 2 |
+| Article 17 | Article 19(2), (4) and (5); Annex VIII, Part 3 |
+| Article 18 | the second subparagraph of Article 17(2) |
+| Article 19 | — |
+| Article 20 | — |
+| Article 21 | Article 29(1)(c) and Article 29(5) and (7) |
+| Article 22 | — |
+| Article 23 | Article 41(1)(d), (e), (f), (g) and (h) |
+| Article 24 | Article 42 |
+| Article 25 | — |
+| Article 26 | Article 44(1)(a) and Article 44(2), (3) and (6) |
+| Article 27 | — |
+| Article 28 | Article 57 |
+| Article 29 | — |
+
+(1) Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10).
+
+(2) Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (OJ L 198, 28.7.2017, p. 1).
+
+(*1) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).’.
+
+(*2) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).’;
+
+(*3) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).’.
+
+(3) Consistency to be ensured with long-term strategies pursuant to Article 15.
+
+(4) In accordance with Regulation (EU) No 347/2013 of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure and repealing Decision No 1364/2006/EC and amending Regulations (EC) No 713/2009, (EC) No 714/2009 and (EC) No 715/2009 (OJ L 115, 25.4.2013, p. 39).
+
+(5) When planning those measures, Member States shall take into account the end of life of existing installations and the potential for repowering.
+
+(6) In accordance with Article 2a of Directive 2010/31/EU.
+
+(7) In accordance with Article 18 of Directive 2012/27/EU.
+
+(8) In accordance with Article 8 of Directive 2012/27/EU.
+
+(9) In accordance with Articles 12 and 17 of Directive 2012/27/EU
+
+(10) In accordance with Article 19 of Directive 2012/27/EU.
+
+(11) In accordance with Article 15(2) of Directive 2012/27/EU.
+
+(12) Policies and measures shall reflect the energy efficiency first principle.
+
+(13) Consistency shall be ensured with the preventive action and emergency plans under Regulation (EU) 2017/1938 of the European Parliament and of the Council of 25 October 2017 concerning measures to safeguard the security of gas supply and repealing Regulation (EU) No 994/2010 (OJ L 280, 28.10.2017, p. 1) as well as the risk preparedness plans under Regulation (EU) 2018/2001 [as proposed by COM(2016) 862 on risk-preparedness in the electricity sector and repealing Directive 2005/89/EC].
+
+(14) Policies and measures shall reflect the energy efficiency first principle.
+
+(15) Other than the PCI Regional Groups established under Regulation (EU) No 347/2013.
+
+(16) Other than the PCI Regional Groups established under Regulation (EU) No 347/2013.
+
+(17) In accordance with Article 15(8) of Directive 2012/27/EU.
+
+(18) See Part 2 for a detailed list of parameters and variables to be reported in Section B of the Plan.
+
+(19) Current situation shall reflect the date of submission of the national plan (or latest available date). Existing policies and measures encompass implemented and adopted policies and measures. Adopted policies and measures are those for which an official government decision has been made by the date of submission of the national plan and there is a clear commitment to proceed with implementation. Implemented policies and measures are those for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or the integrated national energy and climate progress report: directly applicable European legislation or national legislation is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised.
+
+(20) The selection of exogenous factors may be based on the assumptions made in the EU Reference Scenario 2016 or other subsequent policy scenarios for the same variables. Besides, Member States specific results of the EU Reference Scenario 2016 as well as results of subsequent policy scenarios may also be a useful source of information when developing national projections with existing policies and measures and impact assessments.
+
+(21) In accordance with Article 14(1) of Directive 2012/27/EU.
+
+(22) This reference business as usual projection shall be the basis for the 2030 final and primary energy consumption target which is described in 2.3 and conversion factors.
+
+(23) With reference to overviews of existing transmission infrastructure by Transmission System Operators (TSOs).
+
+(24) With reference to national network development plans and regional investment plans of TSOs.
+
+(25) With reference to overviews of existing transmission infrastructure by TSOs.
+
+(26) With reference to national network development plans and regional investment plans of TSOs.
+
+(27) Planned policies and measures are options under discussion and having a realistic chance of being adopted and implemented after the date of submission of the national plan. The resulting projections under section 5.1.i shall therefore include not only implemented and adopted policies and measures (projections with existing policies and measures), but also planned policies and measures.
+
+(28) For the plan covering the period from 2021 to 2030: For each parameter/variable in the list, trends over the years 2005-2040 (2005-2050 where appropriate) including for the year 2030 in five-year intervals shall be reported both in Section 4 and 5. Parameter based on exogenous assumptions v modelling output shall be indicated.
+
+(29) As far as possible, reported data and projections shall build on and be consistent with Eurostat data and methodology used for reporting European statistics in the relevant sectoral law, as European statistics are the primary source of statistical data used for reporting and monitoring, in accordance with Regulation (EC) No 223/2009 on European statistics.
+
+(30) Note: all projections are to be performed on the basis of constant prices (2016 prices used as base year)
+
+(31) The Commission will provide recommendations for key parameters for projections, at least covering oil, gas, and coal import prices as well as EU ETS carbon prices.

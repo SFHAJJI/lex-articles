@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1126:2025-06-05--158d6fa535237492e67eb28f6f9d6a111761abf58623258faadf0f61fd4b107b",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1126 of 5\u00A0June 2025 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2025-06-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1126/versions/2025-06-05--158d6fa535237492e67eb28f6f9d6a111761abf58623258faadf0f61fd4b107b/en.xml",
+    "sha256": "e4a25d48a599c53c56227c30a84ac6e67bf4b91a27f9d26b2ff676be3abe7e2e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1126"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1126:2025-06-05--158d6fa535237492e67eb28f6f9d6a111761abf58623258faadf0f61fd4b107b#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Applicant issuers that submit to their competent authority the application for authorisation referred to in Article 18(1) of Regulation (EU) 2023/1114 in accordance with Delegated Regulation (EU) 2025/1125, shall use the standard form set out in Annex I and the template set out in Annex II to this Regulation.\n\n2. Competent authorities shall make available on their website their contact details relating to the submission for authorisation, and the standard form set out in Annex I and the template set out in Annex II.\n\n3. Competent authorities shall indicate on their website how the application for authorisation is to be submitted with all the requested information and documents, via upload on an internet portal indicated on the competent authority’s website or by other electronic means or, for specific documents to be submitted in original in accordance with national law, in paper form. Competent authorities shall clearly indicate on their website or internet portal which documents are to be submitted in original paper form, according to national law.\n\n4. Where competent authorities require the submission of information in both electronic means and paper form, in case of discrepancy in the information provided, the information submitted in paper form shall prevail.",
+      "text_sha256": "dd0efa857d5ee27a5d38b56c9f0263c56325464612d081f03a68bc081608ba3c",
+      "md_span": {
+        "start": 769,
+        "end": 2067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1126:2025-06-05--158d6fa535237492e67eb28f6f9d6a111761abf58623258faadf0f61fd4b107b#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Competent authorities shall deem an application for authorisation to be complete where that application contains all the required information referred in Article 18(2) of Regulation (EU) 2023/1114 and in Delegated Regulation (EU) 2025/1125, with the appropriate content and level of detail enabling the competent authority to carry out the assessment of the application. Where, in accordance with Article 1(4) of this Regulation, the competent authority requires part of the information in paper form, the application shall not be deemed complete until the receipt of the information in paper form.\n\n2. Where the information provided in the application for authorisation, including the crypto-asset white paper referred to in Article 19 of Regulation (EU) 2023/1114, is assessed and found to be incomplete, competent authorities shall immediately notify the applicant pursuant to Article 20(1) of that Regulation and indicate the missing required information. Competent authorities shall send such notification in paper format or by electronic means and shall indicate the contact details, the modalities, whether via upload on the internet portal, by electronic means or in paper form, and the deadline for the submission of the missing information set in accordance with Article 20(3) of Regulation (EU) 2023/1114.\n\n3. Upon an application for authorisation being assessed as complete in accordance with Article 20 of Regulation (EU) 2023/1114 and paragraph 1 of this Article, the competent authority shall inform the applicant of that fact, together with the date of receipt of the complete application or, where applicable, the date of receipt of the information that completed the application.",
+      "text_sha256": "788dd28c2e5f6b715510267fcbf93f2862ebe2ae0e95a118ad43674bb70ad794",
+      "md_span": {
+        "start": 2100,
+        "end": 3811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1126:2025-06-05--158d6fa535237492e67eb28f6f9d6a111761abf58623258faadf0f61fd4b107b#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 3844,
+        "end": 3995
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

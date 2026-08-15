@@ -1,0 +1,168 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/66 of 29 September 2017 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2017-09-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0066/versions/2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7/en.xml",
+    "sha256": "4d74ee78ac96f791725e62dd971bce0cbb72db1977d40f8536e4a4a651e6ffa0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0066"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe nominal amount of financial instruments other than derivatives and units in collective investment undertakings shall be the total issued nominal amount in monetary value referred to in Table 3, Field 14, of the Annex to Commission Delegated Regulation (EU) 2017/585 (2).",
+      "text_sha256": "e5477c383ab6f5bb7a288aaf32ae8354ba6ca0cdcd37d480e4ea9a6b6ce3dea5",
+      "md_span": {
+        "start": 716,
+        "end": 1001
+      },
+      "citations": [
+        {
+          "href": "#ntr2-L_2018012EN.01001101-E0002",
+          "text": "(2)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe notional amount of derivatives, referred to in Article 20(6)(a) of Regulation (EU) 2016/1011, shall be the notional value referred to in Table 2, Field 20, of the Annex to Commission Delegated Regulation (EU) 2017/104 (3). However, where that notional value is negative, the notional value shall be equal to the absolute value.\n\nFor credit derivative index transactions, an indexation factor derived from Table 2, Field 89 of the Annex to Delegated Regulation (EU) 2017/104 shall be applied to the notional value.",
+      "text_sha256": "c8a814b7cdb9c2c7e87dd42b806d7da6fa365e98263cb0bc6f5869775d5e73af",
+      "md_span": {
+        "start": 1034,
+        "end": 1562
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2018012EN.01001101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe net asset value of collective investment undertakings referred to in Article 20(6)(a) of Regulation (EU) 2016/1011, shall be either of the following:\n\n| (a) | for collective investment undertakings subject to Directive 2009/65/EU of the European Parliament and of the Council (4): the net asset value per unit reported in the most recent annual or half-yearly report referred to in Article 68(2) of that Directive, multiplied by the number of units; |\n| --- | --- |\n\n| (b) | for collective investment undertakings subject to Directive 2011/61/EU of the European Parliament and of the Council (5): the latest available net asset value referred to in Article 104(1)(c) of Commission Delegated Regulation (EU) No 231/2013 (6). |\n| --- | --- |",
+      "text_sha256": "ece0ea0871a0ce8b8b3fb1a58aa9e5fbf7eb1661a588386555bd6e1f2bdce0f0",
+      "md_span": {
+        "start": 1595,
+        "end": 2349
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2018012EN.01001101-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2018012EN.01001101-E0005",
+          "text": "(5)"
+        },
+        {
+          "href": "#ntr6-L_2018012EN.01001101-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nWhere the amounts or values for the calculation of the total value of financial instruments, financial contracts, or investment funds referencing the benchmark referred to in Articles 1, 2 and 3, are not available or are incomplete, the total value referred to in Article 20(1)(a) of Regulation (EU) 2016/1011 and the total average value referred to in Article 24(1)(a) of that Regulation shall be calculated by using alternative amounts or values, including proxies and amounts or values reported by private providers of information or open interest data calculated and published by market operators, provided that those proxies and amounts or values are of sufficient repute and are sufficiently reliable.\n\nAn administrator using alternative amounts or data shall calculate the total amount on a best effort basis and to the best of its ability, based on the available data.\n\nAn administrator using alternative amounts or data shall provide the competent authority with a written specification of the data sources used when notifying that competent authority in accordance with Article 24(3) of Regulation (EU) 2016/1011.",
+      "text_sha256": "3314d90a23689fa809a27485291758a2b1dc7a9ff466d0978be35ec045640ebf",
+      "md_span": {
+        "start": 2382,
+        "end": 3516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThe amounts and values referred to in Articles 1, 2 and 3 shall be expressed in euros. Where necessary, the amounts or values shall be converted using the daily euro foreign exchange reference rate published by the European Central Bank.",
+      "text_sha256": "5e4b0828eec65af51100a536ee8038682f20914b777ab6ad4fe4d77b68479d75",
+      "md_span": {
+        "start": 3549,
+        "end": 3797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nWhere a benchmark is used indirectly within a combination of benchmarks, the amounts or values for the purpose of the thresholds referred to in Article 20(1) and Article 24(1)(a) of Regulation (EU) 2016/1011 shall be either of the following:\n\n| (a) | the benchmark's weight, in percentage terms, within the combination of benchmarks, multiplied by the total amount or value or average value, as applicable, of the financial instrument or investment fund in question, where that weight is clearly specified or can be approximated on the basis of other available information; |\n| --- | --- |\n\n| (b) | the total amount or value or average value, as applicable, of the financial instrument or investment fund in question divided by the number of benchmarks within the combination of benchmarks, where the actual weight of the benchmark is not specified or cannot be approximated. |\n| --- | --- |",
+      "text_sha256": "de77a7f2e1453825f367ebe1bce24980f9182fb11c97372c95aaa7758f220a3e",
+      "md_span": {
+        "start": 3830,
+        "end": 4732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r0066:2017-09-29--865454578d138d366766a8564a7299d7b1027acf8753348bf18e8bb01658b0e7#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 4765,
+        "end": 4916
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

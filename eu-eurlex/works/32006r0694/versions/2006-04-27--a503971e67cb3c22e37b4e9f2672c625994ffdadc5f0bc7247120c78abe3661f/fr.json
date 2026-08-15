@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006r0694:2006-04-27--a503971e67cb3c22e37b4e9f2672c625994ffdadc5f0bc7247120c78abe3661f",
+  "language": "fr",
+  "title": "Council Regulation (EC) No\u00A0694/2006 of  27 April 2006  amending the lists of insolvency pr…",
+  "valid_from": "2006-04-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006r0694/versions/2006-04-27--a503971e67cb3c22e37b4e9f2672c625994ffdadc5f0bc7247120c78abe3661f/fr.xml",
+    "sha256": "9bab095e652bb842cde039b0629aeb87ed1d824c0207ada5380af54a04517182",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006R0694"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006r0694:2006-04-27--a503971e67cb3c22e37b4e9f2672c625994ffdadc5f0bc7247120c78abe3661f#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement (CE) no 1346/2000 est modifié comme suit:\n\n| 1) | l'annexe A est remplacée par le texte figurant à l'annexe I du présent règlement; |\n| --- | --- |\n\n| 2) | l'annexe B est remplacée par le texte figurant à l'annexe II du présent règlement; |\n| --- | --- |\n\n| 3) | l'annexe C est remplacée par le texte figurant à l'annexe III du présent règlement. |\n| --- | --- |",
+      "text_sha256": "501835ac69df6e49b97d959ead46bb3fcab567233fc794377404428e4bc54c0f",
+      "md_span": {
+        "start": 702,
+        "end": 1094
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006r0694:2006-04-27--a503971e67cb3c22e37b4e9f2672c625994ffdadc5f0bc7247120c78abe3661f#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "3c7883834de2a6311c549c126d042d3b09894c0052807156950de93272a1d9ae",
+      "md_span": {
+        "start": 1127,
+        "end": 1258
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

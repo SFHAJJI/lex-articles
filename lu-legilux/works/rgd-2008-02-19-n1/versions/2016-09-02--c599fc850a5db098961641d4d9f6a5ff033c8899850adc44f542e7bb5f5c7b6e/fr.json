@@ -1,0 +1,114 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 février 2008 déterminant la zone de compétence territoriale et le siège des commissions des loyers instituées pour l'ensemble des communes de moins de 6.000 habitants, prévues par l'article 7 de la loi du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil, et déterminant le montant des indemnités revenant aux membres et aux secrétaires des commissions des loyers.",
+  "valid_from": "2016-09-02",
+  "valid_to": "2018-08-12",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-02-19-n1/versions/2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e/fr.xml",
+    "sha256": "15a0062210913e863aa07574f6bc54e8b3ca359f7b0408409ab6732b875bd7cb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20160902/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/art_1er/20080310",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-03-10",
+      "text_md": "**(1)** Pour l'ensemble des communes de moins de 6.000 habitants du Grand-Duché de Luxembourg, sont instituées les douze commissions des loyers suivantes:\n\n1. Commission des loyers du canton de Capellen: territorialement compétente pour les communes de Garnich, Hobscheid, Kehlen, Koerich, Kopstal, Septfontaines et Steinfort, faisant partie du canton de Capellen;\n2. Commission des loyers du canton d'Esch-sur-Alzette: territorialement compétente pour les communes de Frisange, Leudelange, Reckange-sur-Mess, Roeser et Rumelange, faisant partie du canton d'Esch-sur-Alzette, et pour les communes de Clemency et Dippach, faisant partie du canton de Capellen;\n3. Commission des loyers du canton de Luxembourg: territorialement compétente pour les communes de Bertrange, Contern, Niederanven, Sandweiler, Schuttrange, Steinsel, Weiler-la-Tour, faisant partie du canton de Luxembourg;\n4. Commission des loyers du canton de Mersch: territorialement compétente pour les communes de Bissen, Boevange-sur-Attert, Colmar-Berg, Fischbach, Heffingen, Larochette, Lintgen, Lorentzweiler, Nommern et Tuntange, faisant partie du canton de Mersch;\n5. Commission des loyers du canton de Clervaux: territorialement compétente pour les communes de Clervaux, Consthum, Heinerscheid, Hosingen, Munshausen, Troisvierges, Weiswampach et Wincrange, faisant partie du canton de Clervaux;\n6. Commission des loyers du canton de Diekirch: territorialement compétente pour les communes de Bettendorf, Bourscheid, Ermsdorf, Erpeldange, Feulen, Hobscheid, Medernach, Mertzig, Reisdorf et Schieren, faisant partie du canton de Diekirch;\n7. Commission des loyers du canton de Redange: territorialement compétente pour les communes de Beckerich, Ell, Grosbous, Préizerdaul, Rambrouch, Redange, Saeul, Useldange, Vichten et Wahl, faisant partie du canton de Redange;\n8. Commission des loyers du canton de Vianden: territorialement compétente pour les communes de Putscheid, Tandel et Vianden, faisant partie du canton de Vianden;\n9. Commission des loyers du canton de Wiltz: territorialement compétente pour les communes de Boulaide, Esch-sur-Sûre, Eschweiler, Goesdorf, Heiderscheid, Lac de la Haute-Sûre, Neunhausen, Kiischpelt, Wiltz et Winseler, faisant partie du canton de Wiltz;\n10. Commission des loyers du canton d'Echternach: territorialement compétente pour les communes de Beaufort, Bech, Berdorf, Consdorf, Echternach, Mompach, Rosport et Waldbillig, faisant partie du canton d'Echternach;\n11. Commission des loyers du canton de Grevenmacher: territorialement compétente pour les communes de Betzdorf, Biwer, Flaxweiler, Grevenmacher, Manternach, Mertert et Wormeldange, faisant partie du canton de Grevenmacher;\n12. Commission des loyers du canton de Remich: territorialement compétente pour les communes de Bous, Burmerange, Dalheim, Lenningen, Mondorf-les-Bains, Remich, Schengen, Stadtbredimus, Waldbredimus et Wellenstein, faisant partie du canton de Remich.\n\n**(2)** Lorsqu'une des communes énumérées au paragraphe (1) dépasse le seuil de 6.000 habitants, elle constituera sa propre commission des loyers à partir du 1er janvier de l'année qui suit le renouvellement intégral des conseils communaux.\n\nLe nombre d'habitants par commune à prendre en compte est celui servant à déterminer le nombre des conseillers communaux conformément à l'article 185 de la loi électorale modifiée du 18 février 2003.",
+      "text_sha256": "348dfd6683c0887835b63ab3702c09b2b59352eafa803dca8a1f5a6d222804d0",
+      "md_span": {
+        "start": 1053,
+        "end": 4438
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/02/18/n2/jo",
+          "text": "loi électorale modifiée du 18 février 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/art_2/20160902",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "**(1)** Le siège des commissions des loyers prévues par l'article 1er est situé à la maison communale de la commune du chef-lieu du canton. L'administration communale concernée met à disposition de la commission des loyers un local approprié pour la tenue des séances.\n\n**(2)** Les archives des commissions des loyers prévues par l’article 1er se trouvent sous la garde du ministre ayant le Logement dans ses attributions.",
+      "text_sha256": "b2af9263e8b2a63bee25136fe54a02ce396adb228b34f0c7f2e5db81b1533c97",
+      "md_span": {
+        "start": 4473,
+        "end": 4895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/art_3/20130701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Le montant de l'indemnité revenant à chacun des membres et au secrétaire d'une commission des loyers est fixé à 75 euros par séance assistée.",
+      "text_sha256": "9db7f084300cea427e560f9cce66fecb95701f15948b9d140f9cdacd054cc923",
+      "md_span": {
+        "start": 4930,
+        "end": 5071
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/art_4/20080310",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-03-10",
+      "text_md": "Le présent règlement entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "143990cd64903f726e64fd3834aaf3310d0e45c23aa3a4214d3a02f7f0ce5b28",
+      "md_span": {
+        "start": 5106,
+        "end": 5204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2008-02-19-n1:2016-09-02--c599fc850a5db098961641d4d9f6a5ff033c8899850adc44f542e7bb5f5c7b6e#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/art_5/20080310",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-03-10",
+      "text_md": "Notre Ministre des Classes moyennes, du Tourisme et du Logement et Notre Ministre de l'Intérieur et de l'Aménagement du territoire sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5f7eb509a8c9ae38f419756eaf0a40fb4e5d9472d4763513462a42a3b7351248",
+      "md_span": {
+        "start": 5239,
+        "end": 5478
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

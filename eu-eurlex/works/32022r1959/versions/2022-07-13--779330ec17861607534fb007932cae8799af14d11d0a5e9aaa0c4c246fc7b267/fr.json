@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1959:2022-07-13--779330ec17861607534fb007932cae8799af14d11d0a5e9aaa0c4c246fc7b267",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/1959 of 13\u00A0July 2022 supplementing Regulation (EU) No\u00A0596/2014",
+  "valid_from": "2022-07-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1959/versions/2022-07-13--779330ec17861607534fb007932cae8799af14d11d0a5e9aaa0c4c246fc7b267/fr.xml",
+    "sha256": "4e00d13752155aca6ba4226dcdfd732a6836b302a11c8820e171444eb6a07ba9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R1959"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1959:2022-07-13--779330ec17861607534fb007932cae8799af14d11d0a5e9aaa0c4c246fc7b267#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins de la conclusion d’un contrat de liquidité visée à l’article 13, paragraphe 12, du règlement (UE) no 596/2014, les émetteurs d’instruments financiers admis à la négociation sur un ou plusieurs marchés de croissance des PME utilisent le modèle établi à l’annexe du présent règlement.",
+      "text_sha256": "1d56a30077e9c9a33570b46e408d07d317e6bb26bccf80583ace847a99b7aba2",
+      "md_span": {
+        "start": 715,
+        "end": 1023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1959:2022-07-13--779330ec17861607534fb007932cae8799af14d11d0a5e9aaa0c4c246fc7b267#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1056,
+        "end": 1197
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

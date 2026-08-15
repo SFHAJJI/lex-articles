@@ -1,0 +1,161 @@
+---
+lex_id: 'lu-legilux:rgd-1969-07-15-n4:2017-03-10--be3e67c240ccbfbe393e62d4404948932384963a472065b48a3a0f6fff4383bc'
+title: 'Version consolidée applicable au 12/06/2022 : Règlement grand-ducal du 15 juillet 1969 portant exécution des articles 1er et 5 de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales, en ce qui concerne la profession de laborantin.'
+valid_from: '2017-03-10'
+valid_to: '2022-06-11'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/20170310/fr'
+source_sha256: '58d03f8ea42b23238f15a52b65bbd2177a1791bd8494c735e4c43188e47b18a8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/2 · lex derive'
+---
+
+## A. — **Diplôme d'Etat de laborantin**
+
+### Chapitre Ier — **Etudes**
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+Les études professionnelles de laborantin, tendant à l'exercice de la profession de laborantin au Grand-Duché, peuvent se faire soit entièrement à l'étranger, soit en partie à l'étranger et en partie au Grand-Duché.
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+La durée des études professionnelles de laborantin est de trois années au moins dont une année doit être consacrée à un stage à temps plein accompli soit au Grand-Duché, soit à l'étranger dans un laboratoire agréé par le ministre de la santé publique.
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+Le candidat qui désire faire des études de laborantin, doit remplir les conditions suivantes:
+
+1. être titulaire du diplôme luxembourgeois de fin d'études secondaires ou d'un diplôme luxembourgeois ou étranger reconnu équivalent;
+2. faire ses études dans une école agréée par l'Etat étranger dans lequel elle est établie et dont les conditions d'admission et de formation sont reconnues par le ministre de la santé publique.
+
+Avant de commencer ses études à l'étranger, le candidat en avisera le ministre de la santé publique, en indiquant l'école choisie.
+
+Dans les deux mois qui suivront cet avis, le ministre de la santé publique informera le candidat s'il est en mesure de reconnaître l'équivalence de l'enseignement dispensé à cette école. Faute par le ministre de faire connaître sa décision endéans ledit délai, l'équivalence sera censée reconnue.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+Le programme des études des écoles visées à l'article 3 doit comprendre un enseignement théorique, technique et pratique, à temps plein.
+
+L'enseignement théorique, technique et pratique doit porter sur les matières suivantes:
+
+1. chimie biologique,
+2. bactériologie,
+3. parasitologie,
+4. histologie normale et pathologique,
+5. hématologie,
+6. sérologie,
+7. virologie.
+
+### Chapitre II — **Examen pour le diplôme d'Etat de laborantin**
+
+<a id="art_5_20170310"></a>
+
+### Art. 5.
+
+Pour être admis à l'examen pour le diplôme d'Etat, le candidat doit présenter une demande d'admission à laquelle il joindra:
+
+1. une copie du diplôme luxembourgeois de fin d'études secondaires, ou d'un diplôme luxembourgeois ou étranger reconnu équivalent;
+2. un certificat attestant que le candidat a passé avec succès l'examen final de l'école mentionnée à l'article 3;
+3. le ou les certificats de stage attestant que le candidat a accompli pendant une année au moins à temps plein un stage dans un laboratoire public ou privé agréé à ces fins;
+4. - un certificat médical d'aptitude physique datant de moins d'un mois;
+- un certificat délivré depuis moins d'un mois par un médecin pneumophtisiologue attestant que le candidat ne présente aucun signe clinique et radiologique de tuberculose pulmonaire évolutive. Ce certificat mentionnera en outre que le candidat a subi l'épreuve à la tuberculine et que celle-ci est positive. En cas de réaction négative, l'intéressé devra se faire vacciner au B.C.G. et en fournir la preuve, à moins de contre-indications médicales;
+- un certificat constatant que le candidat a été vacciné contre le tétanos et la poliomyélite ou bien qu'il a reçu une vaccination de rappel contre ces deux maladies;
+- un certificat de vaccination antivariolique remontant à trois ans au plus;
+5. un extrait du casier judiciaire datant de moins d'un mois et un certificat de moralité et d'honorabilité professionnelles délivré par les établissements dans lesquels il a travaillé et visé par le collège médical.
+
+Le jury d'examen, sur le vu du dossier, décide de l'admission du candidat à l'examen.
+
+<a id="art_6_20170310"></a>
+
+### Art. 6.
+
+L'examen pour le diplôme d'Etat est organisé par le ministre de la santé publique et a lieu devant un jury dont la composition et le fonctionnement sont déterminés par les articles 9 et 10 ci-après.
+
+Il y a annuellement une session ordinaire d'examen en automne. Si les circonstances le justifient, il y aura une session extraordinaire vers Pâques.
+
+<a id="art_7_20170310"></a>
+
+### Art. 7.
+
+L'examen comporte des épreuves pratiques avec discussion, portant sur une des matières suivantes:
+
+1. chimie médicale ou chimie sanitaire,
+2. microbiologie: bactériologie, sérologie, parasitologie, virologie,
+3. hématologie, groupes sanguins, technique histologique courante.
+
+Chaque épreuve est cotée de zéro à soixante points.
+
+<a id="art_8_20170310"></a>
+
+### Art. 8.
+
+Est déclaré reçu le candidat qui a obtenu au moins trente points pour chaque épreuve.
+
+Il sera ajourné s'il n'a pas obtenu une note suffisante dans chaque épreuve. L'ajournement est toujours total.
+
+L'examen d'ajournement aura lieu dans un délai de trois mois.
+
+Les décisions du jury sont sans appel.
+
+### Chapitre III — **Jury d'examen - Composition et fonctionnement**
+
+<a id="art_9_20170310"></a>
+
+### Art. 9.
+
+Le jury chargé de procéder à l'examen pour le diplôme d'Etat de laborantin est nommé par le ministre de la santé publique pour une durée de trois années. Il se compose de trois membres, à savoir: deux médecins et un laborantin. Un des médecins pourra être remplacé par un docteur ès sciences, un licencié ès sciences, un pharmacien ou un chimiste.
+
+Il est nommé en outre trois membres suppléants.
+
+Nul ne peut en sa qualité de membre du jury prendre part à l'examen d'un de ses parents ou alliés jusqu'au quatrième degré inclusivement.
+
+Le jury fixe le jour d'ouverture de la session, désigne les dates et lieux des épreuves et en informe les candidats.
+
+<a id="art_10_20170310"></a>
+
+### Art. 10.
+
+Un procès-verbal de l'examen est dressé par le secrétaire du jury et signé par le président. Il est déposé au ministère de la santé publique dans le mois de la délibération finale du jury. Une liste des candidats déclarés reçus, dressée par ordre alphabétique, est jointe au procès-verbal. Cette liste est accompagnée des dossiers individuels des candidats.
+
+## B. — ** Attributions et techniques professionnelles du laborantin**
+
+<a id="art_11"></a>
+
+### Art. 11.
+
+Le laborantin doit faire preuve de compétence dans la mise au point et l'utilisation des appareils employés dans le travail de laboratoire. Il assiste le chef de service dans l'exécution des divers travaux et procède lui-même aux travaux analytiques du laboratoire. Le cas échéant il surveille et dirige le travail des assistants techniques et assume ainsi une fonction d'encadrement du personnel de laboratoire.
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+En dehors des techniques d'analyses proprement dites, le laborantin peut pratiquer en vue des analyses qu'il doit effectuer:
+
+- des prises de sang par piqûre capillaire et par ponction veineuse aux membres;
+- des tubages gastrique et duodénal;
+- des sondages de la vessie;
+- des prélèvements oculaires, nasaux, bucco-pharyngés et cutanés;
+- des injections intraveineuses de substances destinées aux explorations fonctionnelles (sous surveillance médicale).
+
+Cette liste est limitative.
+
+<a id="art_13_20170310"></a>
+
+### Art. 13.
+
+A titre transitoire le candidat qui a commencé des études de laborantin avant la publication du présent règlement pourra être admis à l'examen pour le diplôme d'Etat de laborantin prévu au présent règlement, s'il justifie avoir suivi des études professionnelles de laborantin d'une durée de trois années au moins et avoir subi avec succès l'examen final de l'école mentionnée à l'article 3 sub 2).
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+Notre ministre de la santé publique est chargé de l'exécution du présent règlement qui sera publié au Mémorial.

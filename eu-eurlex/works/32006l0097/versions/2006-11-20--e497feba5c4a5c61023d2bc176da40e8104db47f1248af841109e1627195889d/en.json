@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0097:2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d",
+  "language": "en",
+  "title": "Council Directive 2006/97/EC of 20 November 2006 adapting certain Directives in the field …",
+  "valid_from": "2006-11-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0097/versions/2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d/en.xml",
+    "sha256": "820b0d8a2c19e00d3d1e958b8c3bbe0ef23e78c5c341921dc7dc2d7620129398",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0097"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006l0097:2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirectives 92/13/EEC, 2004/17/EC and 2004/18/EC shall be amended as set out in the Annex.",
+      "text_sha256": "2366d212969043ba956d684caa2f03d7078bfb62612835e1677feab36677707b",
+      "md_span": {
+        "start": 702,
+        "end": 802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0097:2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by the date of accession of Bulgaria and Romania to the European Union at the latest. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.\n\nWhen Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "ee0eedce7b365474183a7beb8cfa0e230c67d8d27a9603f5583245713f2ff021",
+      "md_span": {
+        "start": 835,
+        "end": 1627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0097:2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force subject to and on the date of the entry into force of the Treaty of Accession of Bulgaria and Romania.",
+      "text_sha256": "e3efbbe3907e82f8711089f6f0ccc3b7e35fe09f03aa1e3bf08f61cc86ee3df0",
+      "md_span": {
+        "start": 1660,
+        "end": 1811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0097:2006-11-20--e497feba5c4a5c61023d2bc176da40e8104db47f1248af841109e1627195889d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 1844,
+        "end": 1904
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

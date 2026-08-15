@@ -1,0 +1,677 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca",
+  "language": "fr",
+  "title": "Loi du 17 août 2018 relative à l’archivage.",
+  "valid_from": "2022-03-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2018-08-17-a706/versions/2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca/fr.xml",
+    "sha256": "5630ec7237739a9c2b42b6232e9d06adfc8168fd11d713d6b01236630aa0f95c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_1er/20180901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I ** — **Objet de la loi et définitions**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La présente loi a pour objet de régler l’archivage dans l’intérêt public tant pour les besoins de la gestion et de la justification des droits des personnes physiques ou morales, publiques ou privées que pour assurer, par le biais de la sauvegarde d’un patrimoine archivistique national et dans un esprit de transparence démocratique, l’accès à la documentation d’intérêt historique, scientifique, culturel, économique ou sociétal du Grand-Duché de Luxembourg.",
+      "text_sha256": "14912c7591e2ab18dddd5c4852170f207b645be1a1e5f366df3a1f0f69b0f66b",
+      "md_span": {
+        "start": 659,
+        "end": 1119
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_2/20180901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I ** — **Objet de la loi et définitions**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Pour l’application de la présente loi, l’on entend par :\n\n1. « archives » : l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme matérielle et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur activité ;\n2. « archives publiques » : les documents visés au point 1. produits ou reçus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics de l’État et des communes, la Chambre des députés, le Conseil d’État, le Médiateur, la Cour des comptes, l’Institut grand-ducal, la Cour grand-ducale pour ce qui est des documents relevant de la fonction du chef d’État, l’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg ainsi que le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique. Sont également visés les minutes et répertoires des notaires ;\n3. « archives privées » : les documents visés au point 1. qui n’entrent pas dans le champ d’application du point 2. ;\n4. « dossier » : ensemble de documents regroupés par un producteur pour son usage courant parce qu'ils concernent un même sujet ou une même affaire ;\n5. « versement » : la transmission de la conservation, de la gestion et de la responsabilité du traitement des archives publiques y compris des données à caractère personnel ;\n6. « transfert d’archives privées » : la transmission de la gestion d’archives privées par voie de dépôt, de don ou de legs respectivement par voie d’acquisition ;\n7. « tableau de tri » : document décrivant toutes les archives d’un producteur ou détenteur d’archives publiques et qui mentionne pour chaque catégorie d’archives les informations suivantes : la typologie, l’intitulé ou la description du contenu, la durée d’utilité administrative et le sort final. Le tableau de tri est accessible au public. Exception est faite pour les tableaux de tri référençant des documents qui ont trait à la défense nationale, à la sécurité du Grand-Duché de Luxembourg ou à la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d’accords ou de conventions ;\n8. « sort final » : sort réservé aux archives à l’expiration de la durée d’utilité administrative et consistant soit en la conservation définitive et intégrale des documents, soit en la destruction définitive et intégrale des documents ;\n9. « durée d’utilité administrative » : la durée légale ou pratique pendant laquelle des archives sont susceptibles d'être utilisées par le producteur ou le détenteur, au terme de laquelle est appliquée la décision concernant leur sort final ;\n10. « recommandations » : les bonnes pratiques élaborées par les Archives nationales dans le cadre de leur mission d’encadrement en ce qui concerne la gestion, la conservation et la communication des archives publiques ainsi que les conseils émis par les Archives nationales suite à leurs inspections dans le cadre de leur mission d’encadrement ;\n11. « fonds d’archives » : l’ensemble de documents de toute nature constitué de façon organique par un producteur ou détenteur d’archives dans l'exercice de ses activités et en fonction de ses attributions.",
+      "text_sha256": "ed8194296a2828f558cd2d8b9fbdea9d67e4372601c90f867f83e6e0f9b9f185",
+      "md_span": {
+        "start": 1154,
+        "end": 4862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_3/20180901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Proposition de versement des archives publiques aux Archives nationales**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les producteurs ou détenteurs d’archives publiques doivent proposer aux Archives nationales le versement de leurs archives publiques à l’expiration de leur durée d’utilité administrative.\n\nLes archives publiques doivent être conservées de sorte que la pérennité, l’authenticité, l’intégrité, le classement, l’accessibilité et la lisibilité des informations soient garantis tout au long de leur cycle de vie.\n\n**(2)** Lorsqu’il est mis fin à l’existence d’un organisme détenteur d’archives publiques, celles-ci sont, à défaut d’affectation déterminée par l’acte de suppression et quelles que soient leur date ou leur durée d’utilité administrative, directement proposées aux Archives nationales et versées suivant les règles relatives au versement des archives publiques.",
+      "text_sha256": "d7b01607ae66ba93be8dc2d286abdf2fa906fc44fcc4b189a119215352c06882",
+      "md_span": {
+        "start": 4995,
+        "end": 5773
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_4/20180901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre III ** — **Régimes dérogatoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Par dérogation au paragraphe 1er de l’article 3, les archives publiques classifiées conformément à la loi du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité doivent être proposées au versement aux Archives nationales après avoir été déclassifiées et après expiration de la durée d’utilité administrative.\n\n**(2)** Les producteurs ou détenteurs d’archives publiques suivants conservent et gèrent eux-mêmes leurs archives publiques conformément aux principes de la présente loi :\n\n1. la Chambre des députés ;\n2. le Conseil d’État ;\n3. les juridictions luxembourgeoises ;\n4. la Cour grand-ducale ;\n5. le Médiateur ;\n6. la Cour des comptes ;\n7. les établissements publics de l’État ;\n8. l’Institut Grand-Ducal.\n\nAu cas où ces producteurs ou détenteurs d’archives publiques ne peuvent pas conserver eux-mêmes leurs archives publiques, les Archives nationales conservent leurs archives publiques après expiration de la durée d’utilité administrative.\n\n**(3)** L’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg, le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique ne sont pas soumis aux dispositions de la présente loi. Au cas où ils ne peuvent pas conserver eux-mêmes leurs archives publiques, ils les versent après expiration de la durée d’utilité administrative aux Archives nationales qui les conservent conformément aux principes de la présente loi et de ses règlements d’exécution. Sur demande, les organismes visés bénéficient des conseils de la part des Archives nationales.\n\n**(4)** Les communes, les syndicats de communes et les établissements publics des communes ne sont pas soumis aux dispositions de la présente loi à l’exception des dispositions des chapitres IX et X et conservent eux-mêmes leurs archives conformément à la loi communale modifiée du 13 décembre 1988.\n\nL’État peut conclure des contrats de coopération avec les communes et les établissements publics des communes concernant leurs archives. Les contrats de coopération sont élaborés à partir d’un contrat de coopération type dont le contenu et les modalités sont définis par voie de règlement grand-ducal.\n\nLa conclusion de ces contrats avec les communes et les établissements publics des communes et leur exécution au nom et pour le compte de l’État relèvent de la compétence conjointe du ministre de la Culture et du ministre de l’Intérieur.\n\nÀ défaut de contrat de coopération, les communes et les établissements publics des communes informent par écrit le directeur des Archives nationales avant toute destruction de leurs archives après l’expiration de leur durée d’utilité administrative. En cas d’opposition à la destruction de la part du directeur des Archives nationales, les archives en question sont versées aux Archives nationales.\n\nIls peuvent détruire leurs archives à défaut de réponse du directeur des Archives nationales dans un délai de trois mois.",
+      "text_sha256": "64288b1e06fc5205a142d1337d63b80e654185bf4f5b8350ae82908ea5f27418",
+      "md_span": {
+        "start": 5857,
+        "end": 9172
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/15/n5/jo",
+          "text": "loi du 15 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1988/12/13/n1/jo",
+          "text": "loi communale modifiée du 13 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_5/20180901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre III ** — **Régimes dérogatoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Le ministre ayant dans ses attributions les Archives nationales, dénommé ci-après « le ministre », peut, après avoir demandé l’avis du directeur des Archives nationales, accorder un régime d’archivage autonome à tout producteur ou détenteur d’archives publiques qui en fait la demande. Le régime d’archivage autonome consiste dans une dispense totale ou partielle de l’obligation de versement prévue à l’article 3, paragraphe 1er et à l’article 4, paragraphe 1er. Le producteur ou détenteur d’archives publiques qui bénéficie du régime d’archivage autonome conserve et gère lui-même ses archives. Il reste soumis à l’encadrement des Archives nationales.\n\n**(2)** Afin de pouvoir bénéficier d’un archivage autonome, les producteurs ou détenteurs d’archives publiques doivent remplir les obligations de la présente loi et de ses règlements d’exécution afin de garantir la pérennité, l’authenticité, l’intégrité, le classement, l’accessibilité, et la lisibilité des archives publiques.\n\nÀ ce titre les producteurs ou détenteurs d’archives publiques doivent disposer :\n\n1. d’un service d’archives publiques au sein de leur administration et disposer de personnel qualifié en matière d’archivage. Le chef du service d’archives doit être diplômé en archivistique et tout autre agent de ce service doit au moins avoir suivi le cours d’initiation à l’archivistique proposé par l’Institut national d’administration publique ;\n2. d’une infrastructure et de mesures de sécurité ;\n3. d’un plan d’urgence mettant à l’abri les archives publiques en cas d’incident mettant en cause leur sécurité.\n\nTout producteur ou détenteur d’archives publiques qui s’est vu accorder le régime dérogatoire relatif à l’archivage établit des inventaires de ses archives et les rend accessibles pour une consultation en ligne via le moteur de recherche des Archives nationales.",
+      "text_sha256": "470504d87a0a0383e33c3d678cd91bd23f015c187b010dd07e2eb49a4bf80cc3",
+      "md_span": {
+        "start": 9207,
+        "end": 11060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_6/20180901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV ** — **Sélection et destruction des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les Archives nationales procèdent avec les producteurs ou détenteurs d’archives publiques à une évaluation de ces archives qui est consignée dans des tableaux de tri propres à chaque producteur ou détenteur d’archives publiques. Le tableau de tri sort ses effets au moment de la signature par le producteur ou détenteur d’archives publiques et par le directeur des Archives nationales. Les modalités des tableaux de tri sont déterminées par règlement grand-ducal.\n\n**(2)** Les producteurs ou détenteurs d’archives publiques tenus de proposer leurs documents aux Archives nationales dans les délais prévus aux articles 3, paragraphe 1er, et 4, paragraphe 1er, doivent verser aux Archives nationales les archives publiques désignées à être définitivement conservées selon leur tableau de tri établi conformément au paragraphe 1er.\n\nUn règlement grand-ducal fixe les modalités de versement d’archives aux Archives nationales.\n\n**(3)** L’établissement des tableaux de tri pour les producteurs ou détenteurs d’archives publiques bénéficiant du régime dérogatoire défini à l’article 4 paragraphe 2 est à leur charge. Sur demande, les Archives nationales peuvent leur fournir des conseils dans l’accomplissement de cette tâche.\n\n**(4)** Lorsque les archives publiques comportent des données à caractère personnel collectées dans le cadre de traitements régis par la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, ces données font l’objet, à l’expiration de la durée prévue à l’article 4 paragraphe 1er point d) de la loi précitée du 2 août 2002, d’une sélection pour déterminer les données destinées à être conservées et celles, dépourvues d’utilité administrative ou d’intérêt scientifique, statistique ou historique, destinées à être éliminées.",
+      "text_sha256": "e8b2aea931b9d3d089e59a4933905a9c818dd3b5140607aa52d998926bcdc458",
+      "md_span": {
+        "start": 11170,
+        "end": 12996
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi précitée du 2 août 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_7/20180901",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV ** — **Sélection et destruction des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les producteurs ou détenteurs d’archives publiques ne peuvent procéder à la destruction de leurs archives publiques sans que ces archives aient été destinées à cette fin dans leur tableau de tri établi conformément à l’article 6 paragraphes 1er et 3. Les modalités de destruction d’archives sont fixées par voie de règlement grand-ducal.\n\n**(2)** Le fait pour une personne détentrice d'archives publiques en raison de ses fonctions, de détourner ou soustraire tout ou partie de ces archives ou de les détruire de manière intentionnelle contrairement à l’évaluation fixée dans le tableau de tri est puni d'une amende de 500 à 45.000 euros.\n\nEst puni de la même amende le fait, pour une personne détentrice d'archives publiques en raison de ses fonctions, d'avoir sciemment laissé détourner, soustraire ou détruire tout ou partie de ces archives contrairement à l’évaluation fixée dans le tableau de tri.\n\nLes faits prévus aux alinéas 1er et 2 commis par négligence par une personne détentrice d'archives publiques sont punis d’une amende de 500 à 15.000 euros.\n\nLa tentative des délits prévus aux alinéas 1er et 2 est punie de la même amende.",
+      "text_sha256": "947548346086b8a6d30db0d89c99793eb6575797f5fced156e2b5483c3dc9b42",
+      "md_span": {
+        "start": 13031,
+        "end": 14180
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_8/20180901",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre V ** — **Sous-traitance**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les producteurs ou détenteurs d’archives publiques peuvent confier à un sous-traitant privé la conservation de leurs archives, c’est-à-dire le maintien de l’intégrité physique des archives dans le temps et le stockage physique de leurs archives publiques jusqu’au moment du versement ou de la destruction prévus aux articles 6 paragraphe 2 et 7, paragraphe 1er.\n\nCes producteurs ou détenteurs d’archives publiques restent responsables du traitement des archives publiques y compris des données à caractère personnel en cas de sous-traitance.\n\nLes producteurs ou détenteurs d’archives publiques qui bénéficient d’un régime d’archivage autonome doivent conserver eux-mêmes leurs archives publiques destinées à être définitivement conservées.\n\n**(2)** Les producteurs ou détenteurs d’archives publiques qui recourent à un sous-traitant en informent les Archives nationales. Cette information doit au moins porter sur l’identité du sous-traitant ainsi que sur la durée du contrat de sous-traitance.",
+      "text_sha256": "4810111670ce49f29ea8868e7b9876320d9569e983db388f820450c14e7c3e9a",
+      "md_span": {
+        "start": 14256,
+        "end": 15258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_9/20180901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI ** — **Encadrement de la gestion et de la conservation des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les Archives nationales ont une mission d’encadrement en ce qui concerne la gestion et la conservation des archives publiques en vue de garantir la pérennité, l’authenticité, l’intégrité, le classement, l’accessibilité et la lisibilité des informations qu’elles contiennent tout au long de leur cycle de vie.\n\nCette mission leur permet :\n\n- de contrôler, sur information préalable, à distance ou moyennant inspections sur place, l’organisation et la gestion des archives publiques, l’état des documents conservés par les producteurs ou détenteurs d’archives publiques, respectivement leur sous-traitant et l’état des infrastructures et des aménagements dédiés à l’archivage ;\n- de formuler des recommandations sur la manière d’organiser les archives publiques, de les gérer, de les conserver ou faire conserver.\n\nPour tout producteur ou détenteur d’archives qui gère lui-même ses archives en vertu de l’article 5, la mission d’encadrement inclut le contrôle par les Archives nationales du respect des conditions de communication, de reproduction et de publication des archives prévues par la présente loi et ses règlements d’exécution.\n\nLes inspections des Archives nationales sont ponctuelles et s’effectuent en présence du producteur ou détenteur d’archives publiques.\n\nLes modalités d’exercice de cette mission d’encadrement sont déterminées par voie de règlement grand-ducal.\n\n**(2)** Les producteurs ou détenteurs d’archives publiques demandent l’avis des Archives nationales lors de l’introduction de systèmes techniques de création, de stockage et de conservation de documents numériques, ou de modifications de ces systèmes impactant le cycle de vie des documents numériques, afin de contribuer à la systématisation des systèmes informatiques en place et de permettre d’analyser la compatibilité desdits systèmes avec une préservation à long terme des données numériques.\n\n**(3)** Au niveau de chaque producteur ou détenteur d’archives publiques, le chef d’administration est chargé de l’archivage. Il peut déléguer la gestion de l’archivage et les travaux archivistiques à un ou plusieurs agents de son administration.\n\n**(4)** Sont exclus de la mission d’encadrement des Archives nationales les notaires, ainsi que les producteurs ou détenteurs d’archives publiques bénéficiant d’un régime dérogatoire tel que défini à l’article 4, paragraphe 2. Sur demande, les organismes visés bénéficient des conseils de la part des Archives nationales.",
+      "text_sha256": "240a3d1927c5e4e57c618a36942e32b3afa8eca09e0989dc4ff9bd97d8345317",
+      "md_span": {
+        "start": 15391,
+        "end": 17849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_10/20180901",
+      "type": "article",
+      "num": "Art. 10",
+      "heading": null,
+      "path": [
+        "**Chapitre VI ** — **Encadrement de la gestion et de la conservation des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Le directeur des Archives nationales, après consultation du Conseil des archives institué par l’article 22, dresse annuellement un rapport au ministre sur les constats faits durant l’année écoulée sur la gestion, la conservation, la sécurité, le versement et la communication au public des archives publiques par les différents producteurs ou détenteurs d’archives publiques. Des réclamations peuvent lui être adressées par les utilisateurs d’archives. Il en fait mention dans son rapport au ministre.",
+      "text_sha256": "5c6aa1eaf7854c1541e52a2f9064d686ad29b57e009c5b578352914b42ff0e13",
+      "md_span": {
+        "start": 17885,
+        "end": 18386
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_11/20180901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre VII ** — **Protection des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les archives publiques sont imprescriptibles, inaliénables et insaisissables. Nul ne peut détenir sans droit ni titre des archives publiques.\n\n**(2)** Le ministre peut engager une action en revendication d’archives publiques ou en nullité de tout acte intervenu en méconnaissance des dispositions du paragraphe 1er.\n\n**(3)** Toute personne détentrice d’archives publiques en violation du paragraphe 1er est punie d’une amende de 500 à 15.000 euros.",
+      "text_sha256": "b70b54c2ef3c0fd2c57cf01991077b37530c491831978bde68d1d51a52dcc893",
+      "md_span": {
+        "start": 18485,
+        "end": 18941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_12/20220303",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre VII ** — **Protection des archives publiques**"
+      ],
+      "article_valid_from": "2022-03-03",
+      "text_md": "**(1)** À partir de l’expiration de la durée d’utilité administrative, les archives publiques sélectionnées pour être définitivement conservées lors de l’évaluation prévue à l’article 6, paragraphes 1er et 3, doivent être conservées à l’intérieur du pays.\n\n**(2)** Sans préjudice des autres formalités à respecter en vertu de la législation nationale ou du droit de l’Union européenne, l’exportation des archives publiques, conservées auprès d’un producteur ou détenteur d’archives publiques bénéficiant d’un régime dérogatoire en matière d’archivage conformément aux articles 4, paragraphe 2, et 5 ne peut être autorisée par le directeur des Archives nationales que si :\n\n1. les conditions de l’exportation sont telles qu’il existe des garanties suffisantes pour que la sécurité physique des archives ne soit pas affectée ;\n2. l’exportation n’est que temporaire ;\n3. les coordonnées du destinataire et la date de retour des archives sont préalablement communiquées aux Archives nationales.\n\nLa demande d’autorisation d’exportation dûment motivée est formulée auprès du directeur des Archives nationales. Saisi d’une demande d’autorisation d’exportation, le directeur des Archives nationales devra se prononcer dans le délai de six semaines. Passé ce délai, l’autorisation est censée accordée*.*\n\n**(3)** L’exportation d’archives publiques en violation des dispositions du présent article est punie d'une amende de 500 à 45.000 euros.\n\nEst puni de la même amende le fait, pour une personne détentrice d'archives publiques en raison de ses fonctions, d'avoir sciemment laissé exporter tout ou partie de ces archives sans l’autorisation préalable requise conformément au paragraphe 2.\n\nLes faits prévus aux alinéas 1er et 2 commis par négligence sont punis d’une amende de 500 à 15.000 euros.\n\nLa tentative des délits prévus aux alinéas 1er et 2 est punie de la même amende.",
+      "text_sha256": "e97ec77f5dde0870de52a01946f87fa81a3f4541a7fa4a2f1b374bd008d63a74",
+      "md_span": {
+        "start": 18978,
+        "end": 20850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_13/20180901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre VIII ** — **Archives privées**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Le transfert des archives privées définies à l’article 2, point 3 peut s’effectuer aux instituts culturels définis comme tels dans la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État, ci-après dénommés « instituts culturels », en concordance avec leurs missions définies dans ladite loi par dépôt, don, legs ou acquisition.\n\nLes archives privées qui entrent dans les collections des instituts culturels par don, legs ou acquisition, sont imprescriptibles, inaliénables et insaisissables.\n\nPour chaque don ou dépôt d’archives privées auprès des instituts culturels est conclu un contrat déterminant les conditions du transfert, de communication, de reproduction et de publication de ces archives.\n\nLe don, le legs et l’acquisition d’archives privées impliquent la transmission de la responsabilité du traitement des archives privées y compris des données à caractère personnel. La responsabilité en cas de dépôt est réglée par contrat entre le déposant et le dépositaire des archives privées.",
+      "text_sha256": "1416277955f47e156491cb6436ed90b419db21e0215963580f136747958bc2ef",
+      "md_span": {
+        "start": 20933,
+        "end": 21961
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n7/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_14/20220303",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre VIII ** — **Archives privées**"
+      ],
+      "article_valid_from": "2022-03-03",
+      "text_md": "**(1)** Tout officier public chargé de procéder à la vente publique d’archives privées et toute autre personne habilitée à organiser une telle vente doit en donner avis aux directeurs des instituts culturels au moins quinze jours avant la communication de cette vente au public et accompagner cet avis de toutes informations utiles sur ces documents.\n\nL’avis doit préciser la date, l’heure et le lieu de la vente publique.\n\n**(2)** La vente publique d'archives privées en infraction aux dispositions du paragraphe 1er est punie d'une amende de 500 à 45.000 euros.\n\n**(3)** Au cas où l’État a connaissance que des archives privées sont mises en vente, l’État exerce, s’il l’estime nécessaire à la protection du patrimoine d’archives, un droit de préemption par l’effet duquel il se trouve subrogé à l’acheteur.\n\nLa décision de l’État d’user de son droit de préemption doit, sous peine de nullité, intervenir dans un délai de quinze jours à compter de la vente.",
+      "text_sha256": "b6b07653fe3f25828ac0274b0896b8cf6e7c6c7db91fa01123f4cc21f00fd64a",
+      "md_span": {
+        "start": 21998,
+        "end": 22957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_15/20220303",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre VIII ** — **Archives privées**"
+      ],
+      "article_valid_from": "2022-03-03",
+      "text_md": "**(1)** Les archives privées dont la conservation présente, d’un point de vue historique, scientifique, économique, sociétal ou culturel, un intérêt public, peuvent être classées « archives privées historiques », par le ministre et sur proposition d’un institut culturel.\n\n**(2)** Le ministre notifie au propriétaire des archives la proposition de classement, la notification énumérant les conditions du classement définies aux paragraphes 4, 5 et 6 et informant le propriétaire de son droit de présenter ses observations écrites dans le délai d’un mois.\n\nL’opposition du propriétaire doit parvenir au ministre dans le délai précité. Dans le cas où le propriétaire forme une telle opposition, le ministre ne poursuit pas la procédure de classement.\n\nEn cas de consentement du propriétaire sur le principe et les conditions de classement, les archives sont classées par arrêté grand-ducal au plus tard dans un délai de trois mois à compter de la notification de la proposition de classement. Le Conseil des archives doit être entendu en son avis qui doit être produit dans un délai de deux mois à compter de la notification de la proposition de classement.\n\nLa destruction d’archives en instance de classement est interdite.\n\n**(3)** L’arrêté de classement qui est notifié au propriétaire et à l’institut culturel ayant proposé le classement indique la nature des archives classées, le nom et le domicile de leur propriétaire et, s’il y a lieu, ceux du propriétaire de l’immeuble où elles sont conservées.\n\nLes archives privées classées sont répertoriées sur une liste dont la tenue, la rédaction et la mise à jour sont confiées à l’institut culturel ayant proposé le classement. Cette liste doit indiquer la nature des archives classées, leur objet, le lieu de conservation, le nom et le domicile du propriétaire et la date de l’arrêté de classement. Cette liste est communiquée par l’institut culturel sur place aux personnes qui en font la demande écrite et qui justifient d’un intérêt particulier.\n\nPour les besoins de l’application de la présente loi, l’institut culturel établit un inventaire non public reprenant le contenu des archives privées classées ou en instance de classement.\n\n**(4)** Le classement des archives privées n’emporte pas transfert à l’État de la propriété des documents classés.\n\nLes archives privées classées sont imprescriptibles.\n\nLes archives privées classées doivent être conservées à l’intérieur du pays. Une demande d’autorisation d’exportation temporaire dûment justifiée peut être formulée au directeur de l’institut culturel ayant proposé le classement. Saisi d’une demande d’autorisation d’exportation, le directeur de l’institut culturel devra se prononcer dans le délai de six semaines. Passé ce délai, l’autorisation est censée accordée.\n\nLes propriétaires ou détenteurs d’archives privées classées sont tenus, lorsqu’ils en sont requis, de les présenter au directeur de l’institut culturel ayant proposé le classement ou à son délégué et ceci au plus tard un mois après la demande de ces derniers.\n\nToute destruction d’archives privées classées est interdite.\n\nTout propriétaire d’archives privées classées qui procède à leur aliénation est tenu de faire connaître à l’acquéreur l’existence du classement. Les fonds d’archives privées classées ou en instance de classement ne peuvent être fragmentés.\n\nToute aliénation d’archives privées classées doit être notifiée au directeur de l’institut culturel ayant proposé le classement par l’acquéreur dans les quinze jours suivant la date de son accomplissement. Cette notification doit mentionner le nom et l’adresse du nouvel acquéreur ainsi que le lieu où les archives sont conservées. Il en est de même pour tout autre déplacement des archives par leur propriétaire d’un lieu dans un autre à l’intérieur du pays. Dans ce dernier cas, le propriétaire notifie au directeur de l’institut culturel, dans les quinze jours qui suivent le déplacement des archives, l’adresse du lieu où les archives seront conservées après déplacement.\n\n**(5)** Les effets du classement suivent les archives privées classées, en quelques mains qu’elles passent. Ils s’appliquent de plein droit à compter de la notification de la proposition de classement au propriétaire. Ils cessent de s’appliquer si une décision de classement n’est pas intervenue dans les trois mois de cette notification. Ils cessent également de s’appliquer en cas de déclassement.\n\n**(6)** Les archives privées classées ne peuvent être modifiées, réparées ou restaurées sans l’autorisation du directeur de l’institut culturel ayant proposé le classement.\n\nL’institut culturel assiste les propriétaires des archives privées classées dans la gestion et la conservation de leurs archives.\n\nLorsque la conservation ou la sécurité sont mises en péril, et lorsque le propriétaire ne prend pas immédiatement les mesures jugées nécessaires par l’institut culturel pour y remédier, le ministre peut ordonner d’urgence, sur avis du directeur de l’institut culturel et par arrêté ministériel, aux frais de l’institut culturel, les mesures conservatoires utiles, et de même, s’il le juge nécessaire, le transfert provisoire des archives dans un lieu offrant les garanties de conservation et de sécurité voulues.\n\nLe classement peut donner lieu au paiement d’une indemnité représentative du préjudice pouvant résulter, pour le propriétaire, des effets et des obligations du classement. La demande d’indemnité doit être adressée au ministre dans les six mois à compter de la notification de la proposition de classement au propriétaire. À défaut d’accord amiable, l’indemnité est fixée par les tribunaux de l’ordre judiciaire.\n\n**(7)** Sont punis d'une amende de 500 à 45.000 euros s’ils ont été commis intentionnellement :\n\n1. La destruction d’archives privées classées ou en instance de classement ;\n2. L’exportation hors du Luxembourg d’archives privées classées ou en instance de classement en infraction aux dispositions du paragraphe 4 ;\n\n**(8)** Sont également punis d'une amende de 500 à 45.000 euros s’ils ont été commis intentionnellement :\n\n1. Le refus de présentation d'archives privées classées ou en instance de classement aux agents mentionnés au paragraphe 4 ;\n2. L'aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;\n3. L'absence de notification d'une aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;\n4. Le déplacement d'archives privées classées ou en instance de classement d'un lieu dans un autre à l’intérieur du pays en violation des dispositions du paragraphe 4 ;\n5. Le démembrement d’archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;\n6. La réalisation, sans l'autorisation prévue au paragraphe 6, de toute opération susceptible de modifier ou d'altérer des archives privées classées ou en instance de classement.\n\n**(9)** Le déclassement total ou partiel d’archives classées peut avoir lieu lorsque l’intérêt public visé au paragraphe 1er venait à disparaître. Il est prononcé par arrêté grand-ducal à l’initiative du ministre. Dans tous les cas, le Conseil des archives doit être entendu en son avis et la décision du ministre doit intervenir dans les trois mois.",
+      "text_sha256": "862a94b0bfbde966bab9c7c46cb2c956bce2108bb038a1f856ffc56aa5ed0fb4",
+      "md_span": {
+        "start": 22994,
+        "end": 30292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_16/20180901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre IX** — **Communication des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** La communication gratuite des archives publiques est garantie à toute personne qui en fait la demande aux Archives nationales après leur versement ou auprès des producteurs et détenteurs d’archives qui bénéficient d’un régime dérogatoire en matière d’archivage conformément aux articles 4, paragraphes 2 et 4, et 5, à l’expiration de la durée d’utilité administrative.\n\nLa gratuité de la communication des archives ne fait pas obstacle à la facturation de services accessoires, tels que la délivrance de copies ou l’utilisation d’équipements techniques particuliers.\n\n**(2)** Par dérogation au paragraphe précédent, le délai de communication est de cinquante ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques :\n\n1. dont la communication porterait atteinte aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;\n2. ayant trait aux affaires portées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ;\n3. ayant trait à la prévention, à la recherche ou à la poursuite de faits punissables ;\n4. dont la communication porterait atteinte au caractère confidentiel des informations commerciales et industrielles.\n\nLe délai de communication est de cent ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques qui sont couvertes par le secret fiscal.\n\n**(3)** Les archives qui contiennent des renseignements individuels relatifs à la vie privée, familiale et professionnelle ou à la situation financière d’une personne physique, qui révèlent l’origine ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l’appartenance syndicale ainsi que le traitement de données relatives à la santé et à la vie sexuelle, y compris le traitement des données génétiques ne peuvent être communiquées que :\n\n- vingt-cinq ans après le décès de la personne concernée, au cas où la date de décès est connue ;\n- soixante-quinze ans à compter de la date du document le plus récent inclus dans le dossier au cas où la date de décès n’est pas connue ou la recherche de la date de décès entraînerait un effort administratif démesuré.\n\n**(4)** Ces délais de communication valent également pour les inventaires nominatifs relatifs aux archives énumérées au précédent paragraphe.\n\n**(5)** Les minutes et répertoires des notaires versés aux Archives nationales ne peuvent être communiqués à des fins de consultation à d’autres qu’aux personnes intéressées en nom direct ou à leurs héritiers et ayants droit qu’après l’expiration du délai de communication prolongé de soixante-quinze ans à partir de la date de l’acte notarié. Pour ces archives publiques, aucune communication antérieure à des fins de consultation par des tiers ne peut avoir lieu.\n\n**(6)** Les archives citées aux paragraphes 3 et 5 ne peuvent être mises en ligne que cent ans à compter de la date du document.\n\n**(7)** Pour toute communication d’archives pour lesquelles au moins deux des délais visés par le présent article s’appliquent, le plus long des délais l’emporte.\n\n**(8)** La communication d’archives peut être restreinte lorsque l’état de conservation du document d’archives est tel qu’une consultation risquerait de compromettre la conservation à long terme du document ou lorsque les archives ne sont pas encore inventoriées ou en cours de traitement interne.\n\nLe détenteur d’archives publiques peut mettre à disposition une copie existante du document concerné.",
+      "text_sha256": "712da2e74e2d24acbdc86d8910cfc0e8cc960b7ac829a834e19c080482797b7b",
+      "md_span": {
+        "start": 30392,
+        "end": 33895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_17/20180901",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre IX** — **Communication des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les producteurs d’archives qui ont versé leurs archives publiques aux Archives nationales peuvent les consulter sur demande avant échéance des délais de communication dans les salles de lecture des Archives nationales. Au cas où un dossier versé aux Archives nationales est réouvert par l’entité versante, il est retourné à l’entité versante.\n\n**(2)** L’autorisation de consultation des documents d’archives publiques visés à l’article 16, paragraphe 3, est accordée, avant l’expiration des délais de communication prolongés, aux personnes qui en font la demande dans la mesure où elles disposent d’une autorisation écrite de la personne concernée. En cas de décès de la personne concernée, l’autorisation peut être accordée par le conjoint non séparé de corps ou par le partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, par ses descendants en ligne directe, ou s’il s’agit d’un mineur, par son représentant légal.\n\n**(3)** Le directeur des Archives nationales, sur avis du Conseil des archives, peut autoriser la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication prévus à l’article 16, paragraphe 3, pour les documents contenant des informations ayant trait à la vie privée des personnes exposées publiquement par leur profession, leur mission ou leur statut, si la communication de ces archives publiques est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.\n\n**(4)** Le directeur des Archives nationales, après l’accord de l’entité versante, autorise la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication dans les cas suivants :\n\n1. la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;\n2. la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.\n\n**(5)** La demande d’autorisation de communication est adressée par le demandeur au directeur des Archives nationales. La demande doit revêtir une forme écrite et doit contenir l’autorisation écrite de la personne concernée ou expliquer l’intérêt public motivant la réduction des délais de communication. Elle doit être formulée de façon précise et contenir les éléments permettant d’identifier le ou les documents demandés.\n\n**(6)** L’entité versante transmet sa décision au directeur des Archives nationales dans un délai de trois semaines à compter de la transmission de la demande de communication. Passé ce délai et en l’absence de décision de l’entité versante, le directeur des Archives nationales prend la décision quant à la demande de communication.\n\n**(7)** Le demandeur qui se voit opposer un refus de communication d’archives publiques peut saisir pour avis le Conseil des archives. Le Conseil des archives émet un avis quant à la demande de communication dans un délai de trois semaines. L’avis du Conseil des archives est communiqué à l’entité versante qui est appelée à considérer à nouveau la demande de communication. L’entité versante émet sa décision finale dans un délai de trois semaines.\n\n**(8)** Les demandes de communication des archives publiques avant l’expiration des délais de communication et les décisions y relatives sont publiées sur le site internet des Archives nationales. Lorsque la demande vise des archives publiques qui concernent une seule personne ou un nombre limité de personnes nommément désignées, l’information des personnes concernées se fait en leur donnant personnellement connaissance de l’introduction de la demande et de la décision prise à la fin de la procédure.\n\n**(9)** Les producteurs ou détenteurs d’archives publiques qui conservent eux-mêmes leurs archives publiques en vertu des articles 4, paragraphes 2 et 4, et 5 peuvent autoriser la communication des archives publiques avant l’expiration des délais de communication prolongés aux conditions énoncées aux paragraphes 2 à 8. Dans ce cas, une demande d’autorisation est adressée par le demandeur au producteur ou détenteur des archives en question.",
+      "text_sha256": "bfe0c9a2f67efe21ceeedd4b4b94e18ae09c5559cc454d02f68ce39475842993",
+      "md_span": {
+        "start": 33932,
+        "end": 38687
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_18/20180901",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre IX** — **Communication des archives publiques**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Toute personne chargée de la collecte ou de la conservation d’archives en application des dispositions de la présente loi est tenue au secret professionnel en ce qui concerne les informations contenues dans les archives aussi longtemps qu’elles ne sont pas communicables au public.\n\nLa violation du secret professionnel est passible des peines prévues par l’article 458 du Code pénal.",
+      "text_sha256": "5206ae6869ebeee38175e5b0df6802bfdfc550feb53164d87337fdf3da046bd8",
+      "md_span": {
+        "start": 38724,
+        "end": 39108
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_19/20180901",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre X ** — **Renseignements donnés aux personnes concernées et contestation**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Pour faire valoir leur droit d’accès défini à l’article 15 du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après « règlement (UE) 2016/679 », les personnes concernées au sens du règlement (UE) 2016/679 doivent fournir des renseignements précis en vue de l’identification des données les concernant.\n\nCe droit d’accès peut consister en une consultation des archives par la personne concernée elle-même, si l’état de conservation des archives le permet et si des intérêts de tiers ne sont pas affectés.\n\n**(2)** Si ces personnes sont en mesure de fournir des renseignements prouvant que les archives comportent des affirmations litigieuses ou inexactes, elles peuvent exiger qu’une déclaration contradictoire soit ajoutée aux archives.\n\nLa déclaration contradictoire doit se limiter à l’affirmation des faits et doit énumérer les preuves sur lesquelles se base la déclaration contradictoire. Une déclaration contradictoire n’est pas possible pour des dossiers où existe un jugement rendu par les juridictions judiciaires ou administratives.\n\nPar dérogation aux articles 16 et 18 et conformément à l’article 89, paragraphe 3 du règlement (UE) 2016/679, les personnes concernées ne peuvent pas exiger ni la rectification de données ni la limitation du traitement.\n\n**(3)** Par dérogation à l’article 20 et conformément à l’article 89, paragraphe 3 du règlement (UE) 2016/679 et considérant l’ancienneté de certaines données conservées, la reproduction fournie à la personne concernée ne doit pas être dans un format structuré et lisible par machine à l’exception des données versées sous cette forme.\n\n**(4)** Par dérogation à l’article 21 et conformément à l’article 89, paragraphe 3 du règlement (UE) 2016/679, la personne concernée ne peut faire valoir aucun droit d’opposition au traitement de données versées à caractère personnel la concernant.\n\n**(5)** Après le décès de la personne concernée, les dispositions du présent article sont applicables au conjoint non séparé de corps ou au partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, aux descendants en ligne directe, ou s’il s’agit d’un mineur, à son représentant légal.",
+      "text_sha256": "a453e97bb01405cf782d6da6d53c39376f042563b4be0d251281478760513bba",
+      "md_span": {
+        "start": 39234,
+        "end": 41710
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "Règlement (UE) 2016/679"
+        },
+        {
+          "href": "/eli/dir_ue/1995/46/jo",
+          "text": "directive 95/46/CE"
+        },
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "règlement (UE) 2016/679"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_20/20180901",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre XI ** — **Reproduction et publication des archives**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Toute reproduction des archives publiques ou privées conservées par un institut culturel ou un producteur ou détenteur d’archives publiques qui gère lui-même ses archives dont la durée d’utilité administrative est venue à échéance, et ce en vertu des articles 4 et 5, à l’exception des reproductions internes à des fins techniques qui visent la préservation, la sécurisation ou l’optimisation de l’accès aux archives, doit être autorisée par les détenteurs des archives. Cette autorisation est accordée en conformité avec les délais de communication, les dispositions concernant la consultation des archives publiques avant l’expiration des délais de communication ainsi que les contrats conclus avec les propriétaires d’archives privées et pour autant que l’état de conservation du document le permette.\n\n**(2)** Toute publication en tout ou en partie des archives publiques par un utilisateur doit être notifiée à leur détenteur.\n\nToute publication d’archives privées doit être autorisée par l’institut culturel, auquel les archives privées ont été transférées, et ce conformément au contrat conclu entre l’institut culturel et le propriétaire d’archives privées.\n\n**(3)** Les modalités relatives à la demande en obtention de l’autorisation de reproduction et de l’autorisation de publication en ce qui concerne les archives privées précitées sont déterminées par voie de règlement grand-ducal.",
+      "text_sha256": "6b795004e36e151a9d8f4ab09688ac21bca73aa1257161ec8925555bfe4d28af",
+      "md_span": {
+        "start": 41815,
+        "end": 43219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_21/20180901",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre XII ** — **Exemplaire justificatif**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Sans préjudice des dispositions relatives au dépôt légal, tel que défini dans les articles 10 et 19 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État, un exemplaire justificatif de tous les travaux et de toutes les publications qui se fondent entièrement ou partiellement sur les archives conservées au sein d’un institut culturel ou d’un producteur ou détenteur d’archives publiques qui gère lui-même ses archives dont la durée d’utilité administrative est venue à échéance, en vertu des articles 4 et 5 est à déposer gratuitement au détenteur des archives.",
+      "text_sha256": "6d5db781e73aeb6d141725301bce3dff63731c835326225b4c239cc0776a1328",
+      "md_span": {
+        "start": 43308,
+        "end": 43908
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n7/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_22/20180901",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre XIII ** — **Conseil des archives**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Il est institué un Conseil des archives dont les missions sont :\n\n1. de fonctionner comme organe consultatif et de se prononcer sur toute question en matière d’archives qui lui est soumise par le ministre ;\n2. de fonctionner comme organe de réflexion et d’impulsion dans le domaine des archives et de formuler des avis et des propositions au ministre ;\n3. de proposer des mesures en matière de politique archivistique sur le plan national ;\n4. de promouvoir l’archivage ;\n5. de se prononcer sur les propositions de classement d’archives privées comme archives privées historiques ;\n6. d’émettre un avis dans le cas d’un refus de communication d’archives publiques avant l’expiration des délais de communication.\n\n**(2)** Le Conseil des archives est composé d’un minimum de sept et d’un maximum de quinze personnes représentant les producteurs ou détenteurs d’archives numériques et non-numériques, les utilisateurs de ces archives, le monde professionnel des archives et la société civile. Les membres du Conseil des archives sont nommés par arrêté grand-ducal pour une période renouvelable de trois ans.\n\nLe Conseil des archives peut recourir aux services d’experts. Les membres, les experts et le secrétaire ont droit à un jeton de présence dont le montant est fixé par règlement grand-ducal.\n\n**(3)** Le président du Conseil des archives est désigné parmi ses membres par le ministre. Le secrétariat du Conseil est assuré par les Archives nationales. Le fonctionnement interne du Conseil des archives est fixé par règlement grand-ducal.",
+      "text_sha256": "1b4a5273661ebe4cc469de6d47bd5861d2b0599dc92bb37626f0f714dac96799",
+      "md_span": {
+        "start": 43995,
+        "end": 45542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_23/20180901",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre XIV ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est modifiée comme suit :\n\n1. Sans préjudice des missions spécifiques définies pour chaque institut, les missions générales des instituts culturels de l’État, dans le domaine propre à chacun, sont l’étude, la conservation et l’épanouissement du patrimoine culturel et intellectuel, des activités de sensibilisation, d’éducation et de formation, ainsi que des activités de recherche, telles que définies à l’article 3, paragraphe 8, 3e tiret, de la loi modifiée du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public. Les instituts culturels de l’État : 1. peuvent rechercher la collaboration d’instituts similaires au niveau international et collaborer à des projets internationaux ;\n2. peuvent faire appel à des experts et chercheurs ;\n3. peuvent entreprendre des activités de recherche, en relation avec leurs missions et leurs collections. Ils peuvent à cette fin collaborer avec des partenaires du secteur public ou du secteur privé ;\n4. peuvent publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur ;\n5. Code Civil\n2. Les Archives nationales ont pour missions : 1. de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;\n2. de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ;\n3. d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ;\n4. d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ;\n5. d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ;\n6. d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ;\n7. de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;\n8. de contribuer au développement de l’archivistique au niveau national et au niveau international.",
+      "text_sha256": "6eb55b79272d40d253887107bc09f7d42cbb8f8034197e1d0db9f5931479c4c5",
+      "md_span": {
+        "start": 45634,
+        "end": 48413
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n7/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/05/31/n8/jo",
+          "text": "loi modifiée du 31 mai 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_24/20180901",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre XIV ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Aux articles 225 et 261 de la loi électorale modifiée du 18 février 2003, les mots sont transférés aux archives de l’État où ils sont conservés sont remplacés par les mots sont conservés au ministère de l’Intérieur.",
+      "text_sha256": "e705ca7e22743efe9ce68a4fd13efe64a8b602a3664d3430d27d0c3f5656d530",
+      "md_span": {
+        "start": 48450,
+        "end": 48665
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/02/18/n2/jo",
+          "text": "loi électorale modifiée du 18 février 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_25/20180901",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre XIV ** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "À l’article 56 du décret modifié du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais est ajouté un deuxième paragraphe qui se lit comme suit :« En matière criminelle, correctionnelle et de simple police, le Procureur général d’État peut autoriser toute personne présentant un intérêt légitime à consulter, reproduire ou publier les dossiers répressifs déposés aux Archives nationales, sans déplacement et sur demande spécialement motivée par rapport aux dossiers concernés, avant l’expiration des délais de communication prévus par la loi du 17 août 2018 sur l’archivage et ses règlements d’exécution ».",
+      "text_sha256": "729b7aac9b880df9f388b49bc2d6cb804d01779d631ad7e9a30770fbc8d53a69",
+      "md_span": {
+        "start": 48702,
+        "end": 49422
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/dec/1811/06/18/n1/jo",
+          "text": "décret modifié du 18 juin 1811"
+        },
+        {
+          "href": "???",
+          "text": "loi du 17 août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_26/20180901",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre XV ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Les tableaux de tri tels que définis à l’article 6, paragraphes 1 et 3 sont établis dans un délai de sept ans qui suivent l’entrée en vigueur de la présente loi.\n\nTant qu’un producteur ou détenteur d’archives publiques ne dispose pas encore de tableau de tri établi conformément à l’article 6 paragraphe 1er, l’obligation de proposition de versement prévue aux articles 3, paragraphe 1er, et 4, paragraphe 1er, l’obligation de versement prévue à l’article 6 paragraphe 2 et l’interdiction de destruction prévue à l’article 7 paragraphe 1er ne sont pas applicables.\n\nPar dérogation à l’alinéa 2, les archives publiques ayant plus de soixante-dix ans au moment de la publication de la présente loi doivent être proposées au versement aux Archives nationales au plus tard dans un délai d’un an.",
+      "text_sha256": "300b8374a6df083751ca4726078279985b56841d1905c03e3c203622913d3b16",
+      "md_span": {
+        "start": 49512,
+        "end": 50303
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_27/20180901",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre XV ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Par dérogation à l’article 3 paragraphe 1er, le versement des archives publiques conservées auprès du producteur ou détenteur d’archives publiques n’ayant plus d’utilité administrative et ayant plus de dix ans au moment où le tableau de tri sort ses effets peut être échelonné sur une période de cinq ans.",
+      "text_sha256": "7aa75474ceff3eb6026a2782801efef6eeb19a3d1892a42ac7c063bdbee1d672",
+      "md_span": {
+        "start": 50340,
+        "end": 50645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_28/20180901",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre XV ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "**(1)** Les archives publiques ayant été versées aux Archives nationales avant la publication de la présente loi et qui présentent encore une utilité administrative pour le producteur ou détenteur d’archives publiques, sont gérées par les Archives nationales tout au long de leur cycle de vie.\n\n**(2)** Les documents visés au paragraphe 1er peuvent être détruits par les Archives nationales dès qu’ils ne présentent plus d’utilité administrative et de l’accord préalable de l’entité versante.",
+      "text_sha256": "7c8b13394bbb27c47cf2a240bbdb68e909ecfc969df866644d041937124b5a65",
+      "md_span": {
+        "start": 50682,
+        "end": 51174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_29/20180901",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre XV ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant « loi du 17 août 2018 relative à l’archivage ».",
+      "text_sha256": "d6f3595a68e343935981a31398af58bf4e01471ef298d40cabd97aa5d73b4a06",
+      "md_span": {
+        "start": 51211,
+        "end": 51360
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 17 août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2018-08-17-a706:2022-03-03--42b87b1bcacf1538b5e77b792de1425238c3f736f5e0beff672ebd6374337eca#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/art_30/20180901",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre XV ** — **Dispositions transitoires**"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "La présente loi entre en vigueur le 1er septembre 2018.",
+      "text_sha256": "3693b66ef90e1d0ed833029d0389b3f9811e412ed8de41754569dba117dd4cd1",
+      "md_span": {
+        "start": 51397,
+        "end": 51452
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

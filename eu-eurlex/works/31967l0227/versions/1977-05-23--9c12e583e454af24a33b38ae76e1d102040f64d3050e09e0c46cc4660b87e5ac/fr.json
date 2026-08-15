@@ -1,0 +1,134 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac",
+  "language": "fr",
+  "title": "First Council Directive 67/227/EEC of 11 April 1967 on the harmonisation of legislation of…",
+  "valid_from": "1977-05-23",
+  "valid_to": "2006-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31967l0227/versions/1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac/fr.html",
+    "sha256": "0fb082680f6a511befdcfce550c2681604eac840117fe6c124dedd6c42f9d7e1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01967L0227-19770523"
+  },
+  "generator": {
+    "profile": "xhtml-eu-xlink-context/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "clanek_1",
+      "provision_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac#clanek_1",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Členské státy nahradí svůj stávající systém daní z obratu společným systémem daně z přidané hodnoty vymezeným v článku 2.\n\nV každém členském státě bude co nejdříve přijat právní úprava potřebná pro toto nahrazení, aby mohla nabýt účinnosti dnem, který stanoví členské státy s ohledem na situaci konjunktury, nejpozději však dnem ►M1 1. ledna 1972** ◄ **.\n\nOd nabytí účinnosti této právní úpravy nesmí členský stát udržovat nebo zavádět opatření k paušálnímu vyrovnání při dovozu nebo vývozu týkající se daní z obratu v obchodě mezi členskými státy.",
+      "text_sha256": "94d662c3a1b180b5e9201f18bddefb5b7ef1ffc5d010d03d366d7414e6e9d9ca",
+      "md_span": {
+        "start": 737,
+        "end": 1285
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31969L0463",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_2",
+      "provision_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac#clanek_2",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Společný systém daně z přidané hodnoty je založen na zásadě, že na zboží a služby se uplatňuje všeobecná daň ze spotřeby přesně poměrně k ceně zboží a služeb, bez ohledu na počet plnění uskutečněných ve výrobním a distribučním procesu před stupněm, který je daní zatížen.\n\nKaždé plnění je podrobeno dani z přidané hodnoty vypočítané z ceny zboží nebo služby podle sazeb platných pro toto zboží nebo tuto službu po odečtení částky daně z přidané hodnoty, kterou byly přímo zatíženy jednotlivé nákladové prvky.\n\nSpolečný systém daně z přidané hodnoty se uplatňuje až do stupně maloobchodu včetně.",
+      "text_sha256": "2c496bc8f64c1b73e9b0499c0b4169d0a95790feaa42ae9f454cf90ffa0257de",
+      "md_span": {
+        "start": 1324,
+        "end": 1918
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31977L0388",
+          "text": "31977L0388: DELETED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31967L0227",
+          "text": "31967L0227"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_3",
+      "provision_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac#clanek_3",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Rada na návrh Komise vydá druhou směrnici o struktuře společného systému daně z přidané hodnoty a prováděcí pravidla k němu.",
+      "text_sha256": "23e8af3cc7e3a1b6faa2e97fb9143554dde1d381ef156f9aea49b35adcec5511",
+      "md_span": {
+        "start": 1957,
+        "end": 2081
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_4",
+      "provision_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac#clanek_4",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aby Rada mohla projednat a pokud možno přijmout rozhodnutí před uplynutím přechodného období, předloží Komise Radě do konce roku 1968 návrhy, jak a v jaké lhůtě může harmonizace daní z obratu dosáhnout cíle zrušit zdaňování při dovozu a vracení daně při vývozu v obchodě mezi členskými státy a současně zajistit neutralitu těchto daní vzhledem k původu zboží a služeb.\n\nV této souvislosti je třeba brát v úvahu zejména poměr mezi přímými a nepřímými daněmi, který se liší v různých členských státech, účinek změny daňových systémů na daňovou a rozpočtovou politiku členských států a vliv daňových systémů na podmínky hospodářské soutěže a na sociální situaci ve Společenství.",
+      "text_sha256": "29c5d3f5641b033c4084cc06eb878f1a6098b0c86d31a87088a0e7b3d8c496ae",
+      "md_span": {
+        "start": 2120,
+        "end": 2795
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31977L0388",
+          "text": "31977L0388: DELETED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31967L0227",
+          "text": "31967L0227"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_6",
+      "provision_id": "eu-eurlex:31967l0227:1977-05-23--9c12e583e454af24a33b38ae76e1d102040f64d3050e09e0c46cc4660b87e5ac#clanek_6",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 6",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice je určena členským státům.",
+      "text_sha256": "fa0a59c26c2a8e5b161bb52bcd36597d02f7c5c7598368ba6696bff56765ec57",
+      "md_span": {
+        "start": 2834,
+        "end": 2874
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

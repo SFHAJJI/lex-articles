@@ -1,0 +1,202 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/12/2024 : Loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque.",
+  "valid_from": "2024-12-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2023-07-26-a503/versions/2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407/fr.xml",
+    "sha256": "a64b261f1ee9dcf6a265781f82c8500c7c40cc08cc384f764a36a4bc78c9238b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/consolide/20241231/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_1er/20230814",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Compétences",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** Le ministre ayant les Affaires étrangères et européennes dans ses attributions est l’autorité compétente au sens de l’article 10 du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque, tel que modifié, ci-après « règlement (UE) 2017/821 ».\n\n**(2)** L’Administration des douanes et accises adresse à l’autorité compétente un rapport circonstancié quant au respect de tout ou partie des obligations au titre du règlement (UE) 2017/821 ou de la présente loi.\n\n**(3)** L’autorité compétente et l’Administration des douanes et accises prennent les mesures appropriées et nécessaires pour l’accomplissement de leur mission d’identification, d’élimination ou de prévention de quelconque violation du règlement (UE) 2017/821 ou de la présente loi. En particulier, il leur incombe de recueillir des informations pertinentes, y compris sur la base de préoccupations étayées exprimées fournies par des tiers, concernant le non-respect du règlement (UE) 2017/821 ou de la présente loi.",
+      "text_sha256": "1e1f2ef9a7a5e47409e9d5ff6f4c97c0921ea2e0a89f8a84904081c1ab6f0376",
+      "md_span": {
+        "start": 1001,
+        "end": 2260
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2017/821/jo",
+          "text": "règlement (UE) 2017/821"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_2/20230814",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Contrôles a posteriori",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** Conformément à l’article 11 du règlement (UE) 2017/821, l’autorité compétente est chargée de réaliser les contrôles a posteriori.\n\nL’autorité compétente peut déléguer la réalisation des inspections sur place à l’Administration des douanes et accises.\n\n**(2)** Pour l’exécution des contrôles a posteriori, réalisés selon une approche fondée sur le risque, visés à l’article 11 du règlement (UE) 2017/821, il est tenu compte :\n\n1. du volume annuel d’importation ou du volume par produit ;\n2. de l’origine et du moyen de transport des minerais et métaux importés ;\n3. du fait que les minerais et métaux importés représentent d’autres risques, énumérés dans le guide de l’Organisation de coopération et de développement économiques sur le devoir de diligence, qui affectent la chaîne d’approvisionnement.",
+      "text_sha256": "50cfee8754ecdb559f85831a3b0d851b533a6fd01f27fb7b5c10f4cde7015e71",
+      "md_span": {
+        "start": 2318,
+        "end": 3126
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2017/821/jo",
+          "text": "règlement (UE) 2017/821"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_3/20230814",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Inspections sur place",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** Dans le cadre des contrôles a posteriori et sur demande de l’autorité compétente, les fonctionnaires de l’Administration des douanes et accises sont autorisés à procéder à des inspections sur place, pendant les heures d’ouverture, dans les locaux des importateurs de l’Union européenne.\n\n**(2)** Lors de ces inspections, les fonctionnaires de l’Administration des douanes et accises à partir du grade de brigadier principal peuvent consulter tous les documents, correspondances et pièces justificatives jugées nécessaires pour s’assurer que les importateurs de l’Union européenne s’acquittent dûment de leurs obligations énoncées aux articles 4 à 7 du règlement (UE) 2017/821. À ce titre, ils disposent des pouvoirs leurs conférés par la loi générale modifiée du 18 juillet 1977 sur les douanes et accises.\n\n**(3)** Afin de pouvoir exercer leur mission, les fonctionnaires de l’Administration des douanes et accises disposent des pouvoirs leurs conférés par la loi générale modifiée du 18 juillet 1977 sur les douanes et accises. Ils sont habilités à demander aux importateurs de l’Union européenne tels que définis par l’article 2, lettre l), du règlement (UE) 2017/821, ainsi qu’à leurs suppléants lorsqu’il s’agit de personnes physiques, de produire toutes les pièces requises.",
+      "text_sha256": "16423be2d6808ef6534884d90d85f678eee3aeaa234bc52aad9958645fa9351a",
+      "md_span": {
+        "start": 3183,
+        "end": 4471
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2017/821/jo",
+          "text": "règlement (UE) 2017/821"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_4/20230814",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Obligation de fournir les renseignements",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "Les importateurs de l’Union européenne sont tenus de fournir tous les renseignements demandés par l’autorité compétente et l’Administration des douanes et accises.",
+      "text_sha256": "d2fd81eeb78ac2cfe9ea70faa2768f1cd184141f5002cca20d83978828e196dd",
+      "md_span": {
+        "start": 4547,
+        "end": 4710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_5/20230814",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Échange d’informations avec la Commission européenne et les autorités compétentes des autres États membres",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "L’autorité compétente est en charge de la validation des données collectées par la Commission européenne et soumises par les utilisateurs du système d’information sur les minerais responsables (ReMIS)*.*",
+      "text_sha256": "92a650fb2e0fae0e3e4cc2cff6ca5260fcfed39bbb93f399c09314ff545e6a67",
+      "md_span": {
+        "start": 4852,
+        "end": 5055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_6/20230814",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Traitement des données à caractère personnel",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** L’autorité compétente et l’Administration des douanes et accises sont les responsables conjoints du traitement des données au sens de l’article 26 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.\n\n**(2)** En vue d’exercer les contrôles a posteriori, le traitement de données à caractère personnel est autorisé pour les finalités suivantes :\n\n1. règlement (UE) 2017/821\n2. suivre l’évolution du respect des obligations, y inclus au travers de suivis statistiques, d’études et de recherche ;\n3. règlement (UE) 2017/821\n4. répondre aux demandes d’informations et aux obligations de communication d’informations provenant des autorités compétentes européennes ou de la Commission européenne.\n\n**(3)** Les traitements prévus au paragraphe 1er portent sur les données à caractère personnel suivantes :\n\n1. 1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;\n2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;\n3. le numéro EORI ;\n4. le numéro TVA.\n2. 1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;\n2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;\n3. le numéro d’identification.\n3. 1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;\n2. les coordonnées de contact (numéro de téléphone, adresse, et adresse électronique).\n4. 1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;\n2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique).",
+      "text_sha256": "91e86007a1262e3bd82ecadff74ae93799304f9baf433e75c631928b6ab3bbbd",
+      "md_span": {
+        "start": 5135,
+        "end": 7066
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "règlement (UE) 2016/679"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_7/20230814",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Mesures correctives",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** Après constatation que l’importateur de l’Union européenne ne s’est pas conformé aux obligations lui incombant en vertu du règlement (UE) 2017/821, l’autorité compétente dispose du pouvoir :\n\n1. de notifier à l’importateur un avis prescrivant des mesures correctives, lesquelles doivent être mises en œuvre dans un délai déterminé qui ne peut être supérieur à douze mois. L’importateur soumet un plan de mise en œuvre des mesures correctives dans un délai d’un mois après notification ;\n2. de demander le contrôle de la mise en œuvre effective des mesures correctives, visées au point 1, à l’Administration des douanes et accises ;\n3. d’ordonner un examen de vérification effectué par des tiers aux frais de l’importateur dans lequel une attention particulière doit être accordée à la mise en œuvre des mesures correctives et lequel doit être envoyé à l’Administration des douanes et accises ainsi qu’à l’autorité compétente.\n\n**(2)** Tous les documents liés aux mesures correctives sont archivés pendant cinq ans par l’autorité compétente et par l’Administration des douanes et accises. Le délai de cinq ans commence à courir à partir du 1er janvier de l’année civile suivant celle de la collecte des informations.",
+      "text_sha256": "b37297091a83275f1a753c4ff59f500335335f7a3bbc08b00c4b5a9efe400f57",
+      "md_span": {
+        "start": 7121,
+        "end": 8344
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2017/821/jo",
+          "text": "règlement (UE) 2017/821"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_8/20241231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Sanctions administratives",
+      "path": [],
+      "article_valid_from": "2024-12-31",
+      "text_md": "**(1)** L’autorité compétente peut infliger une amende administrative d’ordre de 10 000 à 100 000 euros à tout importateur qui :\n\n1. refuse de produire ou de fournir les pièces ou renseignements demandés visés à l’article 4 ;\n2. ne se conforme pas aux mesures correctives prévues à l’article 7 de la présente loi ;\n3. règlement (UE) 2017/821\n\n**(2)** Lors de la détermination du niveau du montant de l’amende administrative, l’autorité compétente tient compte de toutes les circonstances pertinentes, et s’il y a lieu :\n\n1. de la gravité et de la durée de la violation ;\n2. du degré de responsabilité de la personne responsable de la violation ;\n3. de la situation financière de la personne responsable de la violation, en tenant compte de facteurs tels que le chiffre d’affaires total dans le cas d’une personne morale ou les revenus annuels dans le cas d’une personne physique ;\n4. de l’importance des gains obtenus ou des pertes évitées par la personne responsable de la violation, dans la mesure où ils peuvent être déterminés ;\n5. du degré de coopération dont la personne responsable de la violation a fait preuve à l’égard de l’autorité compétente et de l’Administration des douanes et accises ;\n6. de violations passées commises par la personne responsable de la violation.\n\n**(3)** Les amendes administratives sont perçues par l’Administration de l’enregistrement, des domaines et de la TVA. Le recouvrement se fait comme en matière de droits d’enregistrement.\n\n**(4)** Les amendes administratives sont acquittées dans les trente jours suivant la date de la notification de la décision. Passé ce délai, un rappel est adressé par voie de lettre recommandée. Le rappel fait courir des intérêts de retard calculés au taux légal.",
+      "text_sha256": "f1273f1aa64b1deff5015b839be496f5d07881f721f706126be6a0504497b159",
+      "md_span": {
+        "start": 8405,
+        "end": 10138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31--774b68c6d4c217da92c90fe5d477f41d5b3568739e4318cf6ffd74e0935a8407#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/art_9/20230814",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Recours",
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "**(1)** Les décisions d’infliger une amende administrative en vertu de la présente loi sont susceptibles d’un recours en réformation devant le tribunal administratif.\n\n**(2)** Ce recours doit être intenté sous peine de déchéance dans un délai de quarante jours à compter de la notification de la décision.",
+      "text_sha256": "230d6960ea4af00d88f6f44efba07b47aebef90e064985ae99082574c7aff137",
+      "md_span": {
+        "start": 10181,
+        "end": 10486
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

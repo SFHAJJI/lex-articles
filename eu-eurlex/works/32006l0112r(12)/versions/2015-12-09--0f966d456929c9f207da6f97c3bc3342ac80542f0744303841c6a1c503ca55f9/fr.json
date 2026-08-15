@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0112r(12):2015-12-09--0f966d456929c9f207da6f97c3bc3342ac80542f0744303841c6a1c503ca55f9",
+  "language": "fr",
+  "title": "Rectificatif à la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système…",
+  "valid_from": "2015-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0112r(12)/versions/2015-12-09--0f966d456929c9f207da6f97c3bc3342ac80542f0744303841c6a1c503ca55f9/fr.xml",
+    "sha256": "b83d14bec6e934d237cfe4ddcbb69b763109c503eef0d26e2a6c551c8a241ef1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0112R%2812%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32006l0112r(12):2015-12-09--0f966d456929c9f207da6f97c3bc3342ac80542f0744303841c6a1c503ca55f9#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "9.12.2015 FR Journal officiel de l'Union européenne L 323/31 Rectificatif à la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ( «Journal officiel de l'Union européenne» L 347 du 11 décembre 2006 ) Page 39, article 189, point c): au lieu de: «prendre toutes dispositions utiles afin d'éviter que les régularisations ne procurent aucun avantage injustifié;» lire: «prendre toutes dispositions utiles afin de garantir que les régularisations ne procurent aucun avantage injustifié;»",
+      "text_sha256": "4578ca9407b4468eb3678ff8d1557ef7ac70dd81358ecb70a0e634eacf55b43c",
+      "md_span": {
+        "start": 729,
+        "end": 1271
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

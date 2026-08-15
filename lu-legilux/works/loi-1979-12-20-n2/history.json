@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:loi-1979-12-20-n2",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "1998-09-23",
         "valid_to": "2004-06-11",
         "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
         "article_valid_from": "1998-09-23"
       }
     ],
@@ -20,7 +20,7 @@
         "valid_from": "2004-06-12",
         "valid_to": null,
         "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "article_valid_from": "1998-09-23",
         "validity_conflict": true
       }
@@ -30,7 +30,7 @@
         "valid_from": "1998-09-23",
         "valid_to": "2004-06-11",
         "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
         "article_valid_from": "1980-01-01",
         "validity_conflict": true
       }
@@ -40,7 +40,7 @@
         "valid_from": "2004-06-12",
         "valid_to": null,
         "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "article_valid_from": "1980-01-01",
         "validity_conflict": true
       }
@@ -50,7 +50,7 @@
         "valid_from": "1998-09-23",
         "valid_to": null,
         "text_sha256": "41148e846a945447d1bf18b1d8e929b5c386700020471535f6c7b46f1082e023",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
         "article_valid_from": "1998-09-23"
       }
     ],
@@ -59,7 +59,7 @@
         "valid_from": "1998-09-23",
         "valid_to": "2004-06-11",
         "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
         "article_valid_from": "1980-01-01",
         "validity_conflict": true
       }
@@ -69,7 +69,7 @@
         "valid_from": "2004-06-12",
         "valid_to": null,
         "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "article_valid_from": "2004-06-12"
       }
     ]
@@ -80,7 +80,7 @@
       "from": "art_1bis",
       "to": "art_1bis_20040612",
       "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
       "basis": "identical_text"
     },
     {
@@ -88,7 +88,7 @@
       "from": "art_1er",
       "to": "art_1er_20040612",
       "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
       "basis": "identical_text"
     },
     {
@@ -96,7 +96,7 @@
       "from": "art_3",
       "to": "art_3_20040612",
       "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+      "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
       "basis": "identical_text"
     }
   ],
@@ -107,7 +107,7 @@
           "valid_from": "1998-09-23",
           "valid_to": "2004-06-11",
           "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
           "article_valid_from": "1998-09-23"
         }
       ],
@@ -116,7 +116,7 @@
           "valid_from": "2004-06-12",
           "valid_to": null,
           "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
           "article_valid_from": "1998-09-23",
           "validity_conflict": true
         }
@@ -126,7 +126,7 @@
           "valid_from": "1998-09-23",
           "valid_to": "2004-06-11",
           "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
           "article_valid_from": "1980-01-01",
           "validity_conflict": true
         }
@@ -136,7 +136,7 @@
           "valid_from": "2004-06-12",
           "valid_to": null,
           "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
           "article_valid_from": "1980-01-01",
           "validity_conflict": true
         }
@@ -146,7 +146,7 @@
           "valid_from": "1998-09-23",
           "valid_to": null,
           "text_sha256": "41148e846a945447d1bf18b1d8e929b5c386700020471535f6c7b46f1082e023",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
           "article_valid_from": "1998-09-23"
         }
       ],
@@ -155,7 +155,7 @@
           "valid_from": "1998-09-23",
           "valid_to": "2004-06-11",
           "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:1998-09-23--13a1632a4ce3528c5fefe344a242b30b70293876286c462a86e3781b87c91144",
           "article_valid_from": "1980-01-01",
           "validity_conflict": true
         }
@@ -165,7 +165,7 @@
           "valid_from": "2004-06-12",
           "valid_to": null,
           "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+          "in_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
           "article_valid_from": "2004-06-12"
         }
       ]
@@ -178,7 +178,7 @@
         "from": "art_1bis",
         "to": "art_1bis_20040612",
         "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
-        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "basis": "identical_text"
       },
       {
@@ -186,7 +186,7 @@
         "from": "art_1er",
         "to": "art_1er_20040612",
         "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
-        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "basis": "identical_text"
       },
       {
@@ -194,7 +194,7 @@
         "from": "art_3",
         "to": "art_3_20040612",
         "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
-        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+        "at_version": "lu-legilux:loi-1979-12-20-n2:2004-06-12--3c1a853f63d6ac7e2062b4985e8cfe0bd2303168c4d7a82ae9ac71a50fd25aec",
         "basis": "identical_text"
       }
     ]

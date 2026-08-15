@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0017:2014-01-10--1e99c6794eb3b0b92ae80cedc80ed4018e75c4a795b26929ade211132638695d",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) No\u00A017/2014 of 10\u00A0January 2014 laying down the stan…",
+  "valid_from": "2014-01-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0017/versions/2014-01-10--1e99c6794eb3b0b92ae80cedc80ed4018e75c4a795b26929ade211132638695d/en.xml",
+    "sha256": "1957fa4749245174671494d164dd2ba96b4fedbfb4fd0c4ff39c069dbe0b9ebd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0017"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0017:2014-01-10--1e99c6794eb3b0b92ae80cedc80ed4018e75c4a795b26929ade211132638695d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Member States shall use the standardised form set out in the Annex to this Regulation to notify the Commission of the adoption of a Quick Reaction Mechanism special measure provided for in Article 199b of Directive 2006/112/EC.\n\n2. The notification referred to in paragraph 1 shall be submitted electronically to a dedicated e-mail address communicated by the Commission to the Standing Committee on Administrative Cooperation.",
+      "text_sha256": "7b01293985bdf3a1792c4a8ef556f58460d698be3fa7be46e6ea3a6611292747",
+      "md_span": {
+        "start": 702,
+        "end": 1143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0017:2014-01-10--1e99c6794eb3b0b92ae80cedc80ed4018e75c4a795b26929ade211132638695d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 1176,
+        "end": 1323
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

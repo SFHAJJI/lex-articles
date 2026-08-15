@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1942 of 29\u00A0September 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-09-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1942/versions/2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144/en.xml",
+    "sha256": "2cd7cdf85c0a8f990380a873992b9272867b6c924e99e6990a9f6090129817b3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1942"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe reference standards and specifications referred to in Article 33(2) and Article 40 of Regulation (EU) No 910/2014 are set out in the Annex to this Regulation.",
+      "text_sha256": "64b6a1551683b74e1c2d9c69710f3836a77562cb7a1c91ae70249199667a6e01",
+      "md_span": {
+        "start": 750,
+        "end": 923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1942:2025-09-29--0ef4d51e45da365d1fb965515fd2d96627f3402083134944e091608a05876144#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 956,
+        "end": 1107
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

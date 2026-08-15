@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1829:2019-10-30--5fb0d2f1ce26035b0528ab43561b230c82dae5b3748812c9024f09059b67d446",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/1829 of 30 October 2019 amending Directive 2014/25/EU",
+  "valid_from": "2019-10-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1829/versions/2019-10-30--5fb0d2f1ce26035b0528ab43561b230c82dae5b3748812c9024f09059b67d446/en.xml",
+    "sha256": "bfe8573f11cf3a691f9ceaf6780cf492322c089293700ac19bbb22135f1a1cf6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1829"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1829:2019-10-30--5fb0d2f1ce26035b0528ab43561b230c82dae5b3748812c9024f09059b67d446#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 15 of Directive 2014/25/EU is amended as follows:\n\n| (1) | in point (a), ‘EUR 443 000’ is replaced by ‘EUR 428 000’; |\n| --- | --- |\n\n| (2) | in point (b), ‘EUR 5 548 000’ is replaced by ‘EUR 5 350 000’. |\n| --- | --- |",
+      "text_sha256": "c61d750f59457e38501766e143ca5f6b7a888685f4b1b8cfb116e2a2dfb9848c",
+      "md_span": {
+        "start": 706,
+        "end": 944
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1829:2019-10-30--5fb0d2f1ce26035b0528ab43561b230c82dae5b3748812c9024f09059b67d446#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2020.",
+      "text_sha256": "bf8bef673e1ca6175bbca8e50cbcd5dded5d4c8d28c20c98ced1855f9d19f961",
+      "md_span": {
+        "start": 977,
+        "end": 1165
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1989-03-24-n6:2010-05-23--59f544cbee47b161a850823fae3f1f61185a305e7f57961bbe88cda30bc34b16",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 24 mars 1989 déterminant les conditions et modalités relatives à la mise en compte des périodes prévues à l'article 9.II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat.",
+  "valid_from": "2010-05-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1989-03-24-n6/versions/2010-05-23--59f544cbee47b161a850823fae3f1f61185a305e7f57961bbe88cda30bc34b16/fr.xml",
+    "sha256": "c98f0a81b1ba8f43749063727681247504ba0324f46e8c90db35d3f1abd1da5f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/consolide/20100523/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1989-03-24-n6:2010-05-23--59f544cbee47b161a850823fae3f1f61185a305e7f57961bbe88cda30bc34b16#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/art_1er/20100523",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Pour la mise en compte des périodes prévues à l’article 9.II de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat il est présumé que la mère a élevé l’enfant. Le père de l’enfant peut rapporter la preuve contraire\n\n1. si la garde de l’enfant lui a été confiée,\n2. si la mère a exercé une occupation professionnelle alors que le père n’exerçait pas une telle occupation,\n3. si le père habitait seul avec l’enfant,\n4. si les deux parents exerçaient simultanément une activité professionnelle.\n\nDans les cas visés sous d) il est présumé que l’enfant a été élevé par le parent touchant le revenu professionnel le moins élevé, subsidiairement, par le parent le plus jeune.\n\nLa preuve ne peut être rapportée que jusqu’à l’échéance d’un risque dans le chef d’un des parents.",
+      "text_sha256": "30d3a41db695b7a3b4c6c63387238a5ec06be79cc9f15d7f21e1bfaf898922df",
+      "md_span": {
+        "start": 834,
+        "end": 1632
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1954/05/26/n2/jo",
+          "text": "loi modifiée du 26 mai 1954"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1989-03-24-n6:2010-05-23--59f544cbee47b161a850823fae3f1f61185a305e7f57961bbe88cda30bc34b16#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/art_2/20100523",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-05-23",
+      "text_md": "Notre Ministre de la Fonction publique est chargé de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 1988.",
+      "text_sha256": "c6bbd30e4da159aab48ab1e3be7d17f6cb68e34ff2604b0cb577338ab7aa122e",
+      "md_span": {
+        "start": 1667,
+        "end": 1824
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

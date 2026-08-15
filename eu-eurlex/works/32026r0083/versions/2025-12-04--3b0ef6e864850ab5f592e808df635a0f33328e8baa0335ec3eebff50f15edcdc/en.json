@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2026/83 of 4\u00A0December 2025 amending Delegated Regulat…",
+  "valid_from": "2025-12-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0083/versions/2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc/en.xml",
+    "sha256": "5047cb3699efb43188b84fb0ac0dd43d6284c732c54d92f05cad3d0b0cac7b2e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0083"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Delegated Regulation (EU) 2016/1675 is amended in accordance with the Annex to this Regulation.",
+      "text_sha256": "56df03a2c5ac26f615f90b52e7a352f5f91539c69e912efc1d190894ba656599",
+      "md_span": {
+        "start": 702,
+        "end": 821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0083:2025-12-04--3b0ef6e864850ab5f592e808df635a0f33328e8baa0335ec3eebff50f15edcdc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 854,
+        "end": 1005
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

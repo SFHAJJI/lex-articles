@@ -1,0 +1,1097 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/06/2016 : Loi du 25 mars 1991 sur les groupements d'intérêt économique.",
+  "valid_from": "2016-06-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1991-03-25-n1/versions/2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd/fr.xml",
+    "sha256": "cf8ddccb9cd3c23f2e5ca81d79a45e6c6ee20918ea9e25a335918301ab269286",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20160601/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_1er/19910415",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Le groupement d'intérêt économique ci-après dénommé «le groupement» est celui qui, constitué par contrat, pour une durée limitée ou illimitée, entre deux ou plusieurs personnes physiques ou morales de droit public ou privé, a pour but exclusif de faciliter ou de développer l'activité économique de ses membres, d'améliorer ou d'accroître les résultats de cette activité. L'activité du groupement doit se rattacher à celle de ses membres et ne peut avoir qu'un caractère auxiliaire par rapport à celle-ci.\n\n**(2)** Le groupement est doté de la personnalité juridique.",
+      "text_sha256": "796abaf4322b6d9aa7be9767eda63eddd45e1fade5b31e089344cf6dd2453b05",
+      "md_span": {
+        "start": 706,
+        "end": 1281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_2/19910415",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Le groupement d'intérêt économique ne peut:\n\n1. exercer, directement ou indirectement, le pouvoir de direction ou de contrôle des activités propres de ses membres ou des activités d'une autre entreprise, notamment dans les domaines relatifs au personnel, aux finances et aux investissements;\n2. détenir, directement ou indirectement, à quelque titre que ce soit, aucune part ou action, quelle qu'en soit la forme, dans une entreprise membre; la détention de parts ou d'actions dans une autre entreprise n'est possible que dans la mesure où elle est nécessaire pour atteindre l'objectif du groupement et où elle a lieu pour le compte de ses membres;\n3. rechercher des bénéfices pour son propre compte.",
+      "text_sha256": "993bd1ac0363f71fe730657dc18268e20e9f24c16cfe7f27317aa085c9c17d77",
+      "md_span": {
+        "start": 1316,
+        "end": 2016
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_3/19910415",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Les membres du groupement répondent solidairement de toutes les obligations du groupement.\n\n**(2)** Aucun jugement portant condamnation personnelle des membres à raison d'engagements du groupement ne peut être rendu avant qu'il y ait condamnation contre celui-ci.",
+      "text_sha256": "98385ed277b0f38298cde78cc187be3e0f9f092068ad163124fd99b1a0d41f68",
+      "md_span": {
+        "start": 2051,
+        "end": 2322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_4/19910415",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Le contrat constitutif d'un groupement est, à peine de nullité, établi par acte notarié ou sous seing privé, en se conformant dans ce dernier cas à l'article 1325 du Code civil. Il en est de même de toute modification conventionnelle de ce contrat.\n\n**(2)** La personnalité juridique est acquise au groupement dès la conclusion du contrat.",
+      "text_sha256": "acce89f37e6d121cb9bce84bb94921858d4b2349c445721c7a2e429ea5faa5bd",
+      "md_span": {
+        "start": 2357,
+        "end": 2704
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_5/19910415",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Le contrat constitutif d'un groupement contient au moins les mentions suivantes:\n\n1. la dénomination du groupement;\n2. la désignation précise de l'objet du groupement;\n3. les nom, prénoms, raison sociale ou dénomination sociale, la forme juridique, l'objet social, le domicile ou le siège social et le cas échéant le numéro d'immatriculation au registre de commerce et des sociétés de chacun des membres du groupement;\n4. la durée pour laquelle le groupement est constitué lorsqu'elle n'est pas illimitée;\n5. la désignation du siège du groupement;\n6. les conditions de nomination et de révocation du ou des gérants;\n7. la nature et la valeur des apports éventuels, ainsi que les noms, raison sociale ou dénomination des membres apporteurs;\n8. les modalités de gestion du groupement.",
+      "text_sha256": "52d6b192db950e5eb7c3fb366f91cfa8fa1466098672b3dfedf22e3c85c0b628",
+      "md_span": {
+        "start": 2739,
+        "end": 3521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_6/19910415",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Les fondateurs sont tenus solidairement envers les intéressés, malgré toute stipulation contraire, de la réparation du préjudice qui est une suite immédiate et directe de la nullité du groupement ou de l'absence ou de la fausseté des énonciations prescrites par l'article 5.",
+      "text_sha256": "4342955ba2e2bdaeaab96284f316320c4f69af95b0cd07a08f7fc620cbb76721",
+      "md_span": {
+        "start": 3556,
+        "end": 3830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_7/20160601",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "2016-06-01",
+      "text_md": "**(1)** Les contrats de groupement sont publiés en intégralité ou par extrait aux frais du groupement. L'extrait contient:\n\n1. les indications visées à l'article 5, 1° à 7°;\n2. le cas échéant, la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission;\n3. le cas échéant, la clause donnant qualité à un ou plusieurs gérants pour représenter le groupement, seuls ou conjointement.\n\n**(2)** L'extrait est signé: pour les actes notariés, par le notaire dépositaire des minutes, et pour les actes sous seing privé, par tous les membres.\n\n**(3)** Une expédition ou un double des contrats sont déposés enmême temps que les extraits destinés à la publication.\n\n**(4)** Les articles 10 et 11*bis* de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et les dispositions du chapitre V*bis* du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises sont applicables.\n\n**(5)** Le groupement est immatriculé au registre de commerce et des sociétés, sans que cette immatriculation emporte présomption de commercialité du groupement.",
+      "text_sha256": "67bc0bd5679db8b84b3be3eff350b61aa0d3a4899ff1dd85cb740125ce272e44",
+      "md_span": {
+        "start": 3865,
+        "end": 5043
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_8/20160601",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "2016-06-01",
+      "text_md": "**(1)** Sont déposées et publiées conformément à l'article 7:\n\n1. la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission lorsque celle-ci figure dans l'acte d'admission;\n2. la décision des membres du groupement prononçant la dissolution du groupement.\n\n**(2)** Sont déposés conformément à l'article 7 les actes modificatifs des dispositions du contrat de groupement qui ne sont pas soumis à la publication par extrait au Recueil électronique des sociétés et associations. Une mention au Recueil électronique des sociétés et associations, publiée conformément à l'article 7, indique l'objet des actes dont le dépôt est prescrit par le présent alinéa.\n\n**(3)** Fait l'objet d'une déclaration signée des organes compétents du groupement: l'incapacité d'un membre du groupement. Cette déclaration est déposée et publiée conformément à l'article 7.",
+      "text_sha256": "5f10fed296247180c8391a25971c0fb7d1fe0089b3d6c9c6422e5043e1b65e31",
+      "md_span": {
+        "start": 5078,
+        "end": 5955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_9/20030301",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "2003-02-01",
+      "text_md": "**(1)** Tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant d'un groupement doivent contenir:\n\n1. la dénomination du groupement;\n2. la mention «groupement d'intérêt économique» reproduite lisiblement et en toutes lettres ou en abrégé «G.I.E.», placée immédiatement avant ou après la dénomination;\n3. l'indication précise du siège du groupement;\n4. les mots «Registre de commerce et des sociétés, Luxembourg» ou les initiales «R.C.S. Luxembourg» suivis du numéro d'immatriculation.\n\n**(2)** Toute personne qui interviendra pour un groupement dans un acte où la prescription du paragraphe précédent ne sera pas remplie pourra, dans la mesure où il en résulte un préjudice pour les tiers, être déclarée personnellement responsable des engagements qui y sont pris par le groupement.",
+      "text_sha256": "e7c43f2e462b286d34cbe8cf8422d6990f8d470c00b4fc25fa595f09cde72be8",
+      "md_span": {
+        "start": 5990,
+        "end": 6821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_10/19910415",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "La dénomination du groupement doit être différente de celle de toute société, association ou groupement d'intérêt économique. Si elle est identique ou si sa ressemblance crée une confusion préjudiciable, tout intéressé peut la faire modifier et réclamer des dommages-intérêts s'il y a lieu.",
+      "text_sha256": "ba741135142ae634b67004326c8f60c4aabb9fb873d1b01dd7e4d0b684c45eaf",
+      "md_span": {
+        "start": 6858,
+        "end": 7148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_11/19910415",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Le contrat peut prévoir l'obligation pour les membres ou pour certains d'entre eux de faire des apports en numéraire, en nature ou en industrie.\n\nIl peut également déterminer les conditions dans lesquelles les membres contribuent, en tant que de besoin, au règlement de l'excédent des dépenses sur les recettes. Dans le silence du contrat, la contribution se fait par parts égales.\n\n**(2)** Si l'un des membres du groupement cesse d'en faire partie sans que son départ entraîne la dissolution du groupement, il est procédé à une évaluation du patrimoine du groupement afin de déterminer ses droits et ses obligations. Sous déduction de ses obligations envers le groupement, le membre apporteur a droit au moins au remboursement de son apport soit en nature soit en équivalent.",
+      "text_sha256": "939a260e66c6cfb1ff0d3009b804c39caae10e2623541fcdca8ad73a091ac416",
+      "md_span": {
+        "start": 7185,
+        "end": 7969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_12/19910415",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Le groupement est géré par une ou plusieurs personnes, membres ou non du groupement.\n\nLe gérant ou les gérants sont désignés dans le contrat de groupement ou par décision de l'ensemble des membres du groupement.\n\nS'il y a plusieurs gérants, ils forment un collège qui délibère suivant le mode établi par le contrat, et à défaut de dispositions à cet égard, suivant les règles ordinaires des assemblées délibérantes.\n\nNonobstant toute disposition contraire du contrat, tout membre peut demander en justice la révocation d'un gérant pour de justes motifs.\n\n**(2)** Chacun des gérants représente le groupement envers les tiers et en justice, soit en demandant, soit en défendant. Les exploits pour ou contre le groupement sont valablement faits au nom du groupement seul.\n\nLe contrat peut apporter des restrictions aux pouvoirs des gérants. Ces restrictions ne sont pas opposables aux tiers, même si elles sont publiées.\n\nToutefois, le contrat peut donner qualité à un ou plusieurs gérants pour représenter le groupement, seuls ou conjointement. Cette clause est opposable aux tiers dans les conditions prévues à l'article 7.\n\nLe groupement est lié par les actes accomplis par les gérants, même si ces actes excèdent l'objet du groupement, à moins qu'il ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer, compte tenu des circonstances, sans que la seule publication du contrat de groupement suffise à constituer cette preuve.\n\n**(3)** Les gérants du groupement sont responsables conformément à l'article 59 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.\n\n**(4)** Une personne morale peut être nommée gérant d'un groupement. Lors de sa nomination,elle est tenue de désigner, par lettre recommandée au groupement, un représentant permanent, personne physique, qui encourt les mêmes responsabilités civile et pénale que s'il était gérant en son nom propre, sans préjudice de la responsabilité solidaire de la personne morale qu'il représente.\n\nLe mandat du représentant permanent lui est donné pour la durée de celui de la personne morale; il doit être confirmé lors de chaque renouvellement du mandat de la personne morale gérant.\n\nSi la personne morale révoque le mandat de son représentant permanent, elle est tenue de notifier sans délai au groupement, par lettre recommandée, cette révocation ainsi que l'identité de son nouveau représentant permanent. Il en est de même en cas de décès ou de démission du représentant permanent.\n\nEn cas d'empêchement, le représentant permanent peut se faire représenter dans les mêmes conditions qu'un gérant personne physique.\n\n**(5)** Dans tous les actes engageant la responsabilité du groupement, la signature des gérants doit être précédée ou suivie immédiatement de l'indication de la qualité en vertu de laquelle ils agissent.",
+      "text_sha256": "7f87eb4db2faab8cd7e665ba25f6f25b8e0ba6c73bf9cf14be9bb83be1913330",
+      "md_span": {
+        "start": 8006,
+        "end": 10847
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_13/19910415",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** L'ensemble des membres du groupement constitue l'assemblée. L'assemblée est obligatoirement réunie à la demande d'un gérant ou d'un membre du groupement.\n\nLes convocations contiennent l'ordre du jour et sont adressées aux membres par lettre recommandée quinze jours au moins avant l'assemblée.\n\n**(2)** Sauf disposition contraire du contrat,l'assemblée dispose des pouvoirs les plus étendus pour prendre toute décision ou accomplir tout acte nécessaire ou utile à la réalisation de l'objet du groupement. Elle est en tout cas seule habilitée à prendre toute décision concernant la modification du contrat constitutif, d'admission ou l'exclusion des membres et la dissolution anticipée du groupement ou sa prorogation.\n\nLes membres du groupement ne peuvent décider qu'à l'unanimité de:\n\n1. modifier l'objet du groupement;\n2. modifier le nombre de voix attribué à chaque membre;\n3. modifier les conditions de prise de décision;\n4. proroger la durée du groupement au-delà du terme fixé dans le contrat de groupement;\n5. modifier la part contributive de chacun desmembres ou de certains d'entre eux au financement du groupement;\n6. modifier toute autre obligation d'un membre à moins que le contrat de groupement n'en dispose autrement;\n7. procéder à toute modification du contrat de groupement non visée au présent alinéa, à moins que le contrat n'en dispose autrement. Dans tous les cas où la présente loi ne prévoit pas que les décisions doivent être prises à l'unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions ou certaines d'entre elles seront prises. Dans le silence du contrat, les décisions seront prises à l'unanimité.\n\n**(3)** Chaque membre dispose d'une voix. Le contrat de groupement peut toutefois attribuer plusieurs voix à certains membres, à condition qu'aucun d'eux ne détienne la majorité absolue des voix.\n\n**(4)** Les décisions peuvent être prises par consultation écrite des membres si le contrat le prévoit ou si l'assemblée en a décidé ainsi à l'unanimité. Le contrat ou l'assemblée règlent en ce cas les modalités de cette procédure.",
+      "text_sha256": "286d7e2ff44f83f3030c9786363a6acf43ace849a38e1b665c1a5ab4a1bb0646",
+      "md_span": {
+        "start": 10884,
+        "end": 13017
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_14/19910415",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Le retrait d'un membre et l'admission d'un nouveau membre ne peuvent avoir lieu que si le contrat le prévoit et en fixe les conditions.\n\n**(2)** Tout nouveau membre répond des dettes du groupement conformément à l'article 3. Il peut cependant être exonéré du paiement des dettes antérieures à son admission par une clause expresse du contrat constitutif ou de l'acte d'admission. Pour être opposable aux tiers et au groupement, cette disposition doit être publiée conformément à l'article 7.\n\n**(3)** Celui qui perd la qualité de membre et, en cas de décès, les héritiers pour autant qu'ils ne soient pas eux-mêmes admis comme membres,ne sont pas tenus des obligations que le groupement contracte à partir du jour de la publication de ces faits.",
+      "text_sha256": "3c93f8ec6aeabcb784836025f825369f01a9eef52057957244a104e401d2d258",
+      "md_span": {
+        "start": 13054,
+        "end": 13807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_15/19910415",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Le contrat détermine les causes et les modalités d'exclusion des membres.\n\nEn cas de silence du contrat,un membre ne peut être exclu que sur décision du tribunal prise à la demande de l'assemblée générale et lorsque ce membre contrevient gravement à ses obligations ou cause des troubles graves dans le fonctionnement du groupement. Le membre dont l'exclusion est proposée ne peut participer au vote sur cet objet.",
+      "text_sha256": "a9b6f16e064c606e1c1ae63c20e6f5b3b5b72a59e9586b873487835c22952e6c",
+      "md_span": {
+        "start": 13844,
+        "end": 14258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_16/19910415",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "En cas d'exclusion d'un membre, le groupement, sauf disposition contraire du contrat subsiste entre les autres membres restants aux conditions prévues par le contrat ou à défaut arrêtées par l'assemblée selon les règles prévues pour les modifications du contrat.",
+      "text_sha256": "f8c18f763b28065ba1dce9f671cefe2263403e070c4d4f6043a5a2594abd4aa5",
+      "md_span": {
+        "start": 14295,
+        "end": 14557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_17/19910415",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** La nullité d'un groupement doit être prononcée par une décision judiciaire.\n\nCette nullité produit ses effets à dater de la décision qui la prononce.\n\nToutefois, elle n'est opposable aux tiers qu'à partir de la publication de la décision prescrite par l'article 7 et aux conditions y prévues.\n\n**(2)** Le paragraphe qui précède est applicable à la nullité des modifications conventionnelles apportées au contrat par application de l'article 4 (1).\n\n**(3)** Lorsqu'une régularisation de la situation du groupement est possible, le tribunal saisi doit accorder un délai permettant de procéder à cette régularisation.\n\n**(4)** La tierce opposition formée contre une décision judiciaire prononçant soit la nullité d'un groupement, soit la nullité d'une modification conventionnelle apportée au contrat de groupement, n'est plus recevable après l'expiration d'un délai de six mois à compter de la publication de la décision judiciaire effectuée en application de l'article 7.",
+      "text_sha256": "347b02001967a5d2152ab7470b0fb37607acd3c8f56f54286e0071beea38bace",
+      "md_span": {
+        "start": 14594,
+        "end": 15572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_18/19910415",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "La nullité d'un groupement d'intérêt économique prononcée par une décision judiciaire conformément à l'article 17 entraîne la liquidation du groupement comme dans le cas d'une dissolution.\n\nLa nullité ne porte pas atteinte par elle-même à la validité des engagements du groupement ou de ceux pris envers lui, sans préjudice des effets de l'état de liquidation.\n\nEn cas de nullité du groupement, de même qu'en cas de dissolution par décision judiciaire autre que celle visée à l'article 20, le tribunal peut désigner les liquidateurs et fixer le mode de liquidation.",
+      "text_sha256": "b4386717fb49b060649d54b6731ab073b9795c5a8948dbdb6b7b630e41bc04de",
+      "md_span": {
+        "start": 15609,
+        "end": 16174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_19/19910415",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Le groupement d'intérêt économique est dissous:\n\n1. par la réalisation ou l'extinction de son objet;\n2. par l'arrivée du terme pour lequel le groupement est constitué;\n3. par la décision de ses membres dans les conditions prévues à l'article 13;\n4. par décision judiciaire prononcée à la demande d'un membre lorsqu'il existe entre les membres ou des groupes de membres une mésintelligence telle qu'elle empêche le fonctionnement des organes du groupement, ou pour tout autre juste motif;\n5. par l'incapacité, le décès, la dissolution, la mise en faillite ou la démission d'un membre du groupement, sauf si le contrat en dispose autrement auquel cas le groupement subsiste entre les autres membres aux conditions déterminéespar lecontratou, à défaut, par cesmembres délibérant selon les règles relatives aux modifications du contrat;\n6. lorsqu'il ne comprend plus qu'un seul membre.",
+      "text_sha256": "0883dff5ca6b5f7b5c8f1e92f988958ffededc0ae142405d434e5c1afd3652ca",
+      "md_span": {
+        "start": 16211,
+        "end": 17092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_20/19910415",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** La dissolution d'un groupement peut être prononcée à la requête du ministère public si le groupement poursuit des activités contraires à la loi pénale ou s'il contrevient gravement aux dispositions de la présente loi.\n\n**(2)** La dissolution d'un groupement peut être prononcée à la demande de toute partie ayant un intérêt légitime, le ministère public étant entendu, si l'objet ou l'activité du groupement n'est pas conforme aux dispositions des articles 1er et 2.\n\n**(3)** Lorsque la dissolution d'un groupement est prononcée en application de l'un des deux paragraphes qui précèdent, les alinéas 2, 3, 5, 6 et 7 de l'article 203 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont applicables.",
+      "text_sha256": "9d223e2f5b9d747bdd0439cbf70970c8125f9e9d15ecd638b81f67263a6ca245",
+      "md_span": {
+        "start": 17129,
+        "end": 17859
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_21/19910415",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** La dissolution du groupement et les noms des liquidateurs sont publiés dans les conditions prévues aux articles 7 et 8.\n\n**(2)** Le groupement est, après sa dissolution, réputé exister pour sa liquidation.\n\nToutes les pièces émanant du groupement dissous mentionnent qu'il est en liquidation.",
+      "text_sha256": "4fd6e6b2a0f293f852f371549379930d14e9001efc8ae3b2df3a934a8c819ef4",
+      "md_span": {
+        "start": 17896,
+        "end": 18196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_22/19910415",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** A défaut de dispositions dans le contrat, le mode de liquidation est déterminé et le ou les liquidateurs sont nommés par l'assemblée. S'il y a plusieurs liquidateurs, ils forment un collège qui délibère suivant le mode établi par le contrat, et à défaut de dispositions à cet égard, suivant les règles ordinaires des assemblées délibérantes.\n\n**(2)** A défaut de nomination de liquidateurs, le ou les gérants seront, à l'égard des tiers, considérés comme liquidateurs.\n\n**(3)** A défaut de dispositions contraires dans le contrat ou dans l'acte de nomination, les liquidateurs peuvent intenter et soutenir toutes actions pour le groupement, recevoir tous paiements, donner mainlevée avec ou sans quittance, réaliser toutes les valeurs mobilières, endosser tous effets de commerce, transiger ou compromettre sur toutes contestations. Ils peuvent aliéner les immeubles par adjudication publique, s'ils jugent la vente nécessaire pour payer les dettes du groupement.\n\nIls peuvent, mais seulement avec l'autorisation de l'assemblée générale des membres, continuer, jusqu'à réalisation, l'activité du groupement, emprunter pour payer les dettes du groupement, créer des effets de commerce, hypothéquer les biens du groupement, les donner en gage et aliéner ses immeubles, même de gré à gré.\n\n**(4)** Les liquidateurs peuvent exiger des membres le paiement des sommes qu'ils s'étaient engagés à verser au groupement et que les liquidateurs jugent nécessaires au règlement de la liquidation.\n\n**(5)** Les liquidateurs, sans préjudice aux droits des créanciers privilégiés et hypothécaires, paieront toutes les dettes du groupement, proportionnellement et sans distinction entre les dettes exigibles et les dettes non exigibles, sous déduction de l'escompte pour celles-ci.\n\nIls pourront cependant, sous leur garantie personnelle, payer d'abord les créances exigibles, si l'actif dépasse notablement le passif ou si les créances à terme ont une garantie suffisante et sauf le droit des créanciers de recourir aux tribunaux.\n\nAprès le paiement ou la consignation des sommes nécessaires au paiement des dettes, les liquidateurs se conformeront aux dispositions de l'article 11 (2) et répartiront l'excédent d'actif entre les membres dans les conditions prévues par le contrat ou, à défaut, par parts égales.\n\n**(6)** Les liquidateurs sont responsables, tant envers les tiers qu'envers le groupement, de l'exécution de leur mandat et des fautes commises dans leur gestion.\n\n**(7)** Chaque année, les résultats de la liquidation sont soumis à l'assemblée avec l'indication des causes qui ont empêché la liquidation d'être terminée.\n\n**(8)** Lorsque la liquidation sera terminée, les liquidateurs feront un rapport à l'assemblée et soumettront les comptes et pièces à l'appui. L'assemblée statuera sur la gestion des liquidateurs.\n\n**(9)** La clôture de la liquidation sera publiée dans les conditions prévues à l'article 7.\n\nCette publication comprendra en outre:\n\n1. l'indication de l'endroit désigné par l'assemblée, où les livres et documents devront être déposés et conservés pendant cinq ans au moins;\n2. l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux membres et dont la remise n'aurait pu leur être faite.",
+      "text_sha256": "7b099f7776e724f852d2718b50d286916a46e413dcf911cefd4fdd598ad6a549",
+      "md_span": {
+        "start": 18233,
+        "end": 21504
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_23/19910415",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Sont prescrites par cinq ans:\n\n1. toutes actions de tiers contre les membres du groupement ou leurs ayants droit à partir de la publication, soit de la perte de leur qualité de membre, soit d'un acte de dissolution, soit de l'arrivée de son terme contractuel;\n2. toutes actions contre les liquidateurs, en cette qualité, à partir de la publication de la clôture de la liquidation;\n3. toutes actions contre les gérants et les liquidateurs, pour faits de leurs fonctions, à partir de ces faits ou, s'ils ont été celés par dol, à partir de la découverte de ces faits.",
+      "text_sha256": "c5f40cdca603d54617f5e9c25fcb6501c86f7c25e99de71af73cec934c5fa42f",
+      "md_span": {
+        "start": 21541,
+        "end": 22105
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_24/19910415",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** L'appel au public en vue de la participation à un groupement est interdit.\n\n**(2)** Le groupement d'intérêt économique peut émettre des obligations ou autres titres de créance.",
+      "text_sha256": "457f625d4de33cc1cc8459991b25442fe46fb4855f7805517c7e3c3b5b76750b",
+      "md_span": {
+        "start": 22142,
+        "end": 22326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_25/19910415",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Section I - **Dispositions générales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Les articles relatifs à la publication des actes et l'article 9 sont applicables aux groupements d'intérêt économique étrangers qui fonderont au Grand-Duché une succursale ou un siège quelconque d'opération.\n\nLes personnes préposées à la gestion de l'établissement luxembourgeois sont soumises à la même responsabilité envers les tiers que si elles géraient un groupement luxembourgeois.",
+      "text_sha256": "8c63fe1d0228b959a9595f95145c0c0f7e3fdca5061fd7954a180c0e3d5ab060",
+      "md_span": {
+        "start": 22363,
+        "end": 22750
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_26/19910415",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Section II - **Dispositions pénales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Sont punis d'une amende de 10.000 francs à 1.000.000 de francs les fondateurs d'un groupement constitué en infraction aux articles 1er et 2 ainsi que les membres et le ou les gérants qui, au cours de l'existence du groupement, contreviennent à ces dispositions.",
+      "text_sha256": "cac3ad3a6cbf33b936aa5b5726a39d0fb855fda8662944794da84e5a53bf476a",
+      "md_span": {
+        "start": 22829,
+        "end": 23090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_27/19910415",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Section II - **Dispositions pénales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Sont punis de la même peine:\n\n1. les fondateurs d'un groupement constitué sans que les énonciations prévues à l'article 5, 1° à 5° et 7° aient été faites dans le contrat constitutif du groupement;\n2. les gérants ou les liquidateurs qui auraient négligé de convoquer, dans les trois semaines de la réquisition qui leur en aura été faite, l'assemblée prévue à l'article 13;\n3. ceux qui contreviennent aux dispositions de l'article 24 (1).",
+      "text_sha256": "b7aacbfb95b49f2e1b9aa0125ed5cc7d2d7bfe4ae7259e547c9d125823656a25",
+      "md_span": {
+        "start": 23127,
+        "end": 23563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_28/19910415",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Section II - **Dispositions pénales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Les dispositions du Livre 1er du Code pénal ainsi que les lois du 18 juin 1879 et du 16 mai 1904, sur les circonstances atténuantes, sont rendues applicables aux infractions prévues par la présente loi.",
+      "text_sha256": "005e35714aff588989be4b6263da813fa32e4d8bc196fc18438b94dea4acfc3f",
+      "md_span": {
+        "start": 23600,
+        "end": 23802
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1879/06/18/n2/jo",
+          "text": "lois du 18 juin 1879"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1904/05/16/n3/jo",
+          "text": "16 mai 1904"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_29/19910415",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Section III - **Dispositions fiscales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Le résultat provenant de l'activité du groupement n'est imposable qu'au niveau de ses membres.",
+      "text_sha256": "8f4bff28016535d4a842a621a8a474bf7811c865adb042b2ce009bd5646bf054",
+      "md_span": {
+        "start": 23883,
+        "end": 23977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_30/19910415",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Section III - **Dispositions fiscales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Les groupements ne rentrent pas dans le champ d'application de la loi du 29 décembre 1971 concernant l'impôt frappant les rassemblements de capitaux dans les sociétés civiles et commerciales et portant révision de certaines dispositions régissant la perception des droits d'enregistrement.",
+      "text_sha256": "22536d1882781fbcc57cf11283b4982a17f5812d54fe3d77baf5fe474e46ffed",
+      "md_span": {
+        "start": 24014,
+        "end": 24303
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1971/12/29/n2/jo",
+          "text": "loi du 29 décembre 1971"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_31/19910415",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Section III - **Dispositions fiscales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "**(1)** Les apports purs et simples de biens à un groupement sont exemptés des droits fixés par le tarif des droits proportionnels d'enregistrement annexé à la loi du 7 août 1920 portant majoration des droits d'enregistrement, de timbre, de succession, etc. pour les conventions à titre onéreux ayant pour objet des biens de même nature que ceux apportés.\n\n**(2)** Lorsqu'un apport est rémunéré en partie autrement que par l'attribution de droits sociaux, l'opération est, dans la mesure de cette rémunération, assujettie aux droits fixés par le tarif des droits proportionnels d'enregistrement annexé à la loi du 7 août 1920 prérappelé pour les conventions à titre onéreux ayant pour objet des biens de même nature que ceux apportés.\n\nSi un apport comprend tant des immeubles situés à l'intérieur du pays que d'autres biens, les droits sociaux et les charges qui constituent la rémunération de cet apport sont censés, nonobstant toute clause contraire, se répartir proportionnellement entre la valeur attribuée auxdits immeubles et celle attribuée aux autres biens par la convention.\n\nCette répartition opérée, la perception des droits sera toujours faite de la manière la plus favorable au débiteur.",
+      "text_sha256": "beb3be1746bd1632a8b3521a822c34ee6d03acbf834e401b1e600b7333576e7d",
+      "md_span": {
+        "start": 24340,
+        "end": 25541
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1920/08/07/n3/jo",
+          "text": "loi du 7 août 1920"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_32/19910415",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Section III - **Dispositions fiscales**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "La remise d'un immeuble à un membre du groupement autre que celui qui a apporté cet immeuble au groupement donne ouverture aux droits d'enregistrement et de transcription sur les transmissions à titre onéreux lorsque, dans les cinq ans de l'apport, elle intervient ensuite du retrait ou de l'exclusion de ce membre ou lors de la réduction de capital, de la dissolution ou de la liquidation du groupement.\n\nAu-delà du délai de cinq ans, les droits d'enregistrement et de transcription seront perçus aux taux fixés pour les actes de vente visés à l'article 13 de la loi du 29 mai 1906 concernant les habitations à bon marché.\n\nToutefois, si une soulte ou une plus-value, calculée d'après le droit commun, est passible du droit de vente dans le chef du membre attributaire de l'immeuble dont il n'a pas effectué l'apport, le droit de mutation mentionné aux alinéas qui précèdent n'est pas exigible jusqu'à due concurrence.",
+      "text_sha256": "a80fed33ee3049a928ae1ca6f4d1b01a412fecf91e1323a1f7fe205a1e18817e",
+      "md_span": {
+        "start": 25578,
+        "end": 26497
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1906/05/29/n4/jo",
+          "text": "loi du 29 mai 1906"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_33/19910415",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 631 du Code de commerce est complété par le texte suivant:",
+      "text_sha256": "c3d58c72cdeb4feb59c2d3a272cc0e83ee9cf8f621321d541f8df8759f05ca38",
+      "md_span": {
+        "start": 26582,
+        "end": 26650
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "Code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_34/19910415",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "A l'article 3 du texte coordonné de la loi du 23 décembre 1909 portant création d'un registre de commerce et des sociétés, il est inséré, avant le dernier alinéa, un alinéa supplémentaire rédigé comme suit:",
+      "text_sha256": "987a2934a950ca5e4d953bf96d9045ec0a610df3f89a5a46e5847bd782d22921",
+      "md_span": {
+        "start": 26687,
+        "end": 26893
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "loi du 23 décembre 1909"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_35/19910415",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "Après l'article 2 du texte coordonné de la loi du 23 décembre 1909 portant création d'un registre de commerce et des sociétés, il est ajouté un article 2bis rédigé comme suit:",
+      "text_sha256": "05d68fa702f8b48e24b643968abc078beb9c87dc5a5f2e73ea8c9c91a093d2fd",
+      "md_span": {
+        "start": 26930,
+        "end": 27105
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "loi du 23 décembre 1909"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_36/19910415",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 5, 8) du texte coordonné de la loi du 23 décembre 1909 portant création d'un registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "c240282a49cb40afd60902bafa710b529d1ae4bb2af5c34a2c282a5590ba16ab",
+      "md_span": {
+        "start": 27142,
+        "end": 27289
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "loi du 23 décembre 1909"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_37/19910415",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'alinéa 2 de l'article 6 du texte coordonné de la loi du 23 décembre 1909 portant création d'un registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "949d4f891fe240e3a986243c1c9f87fb3aa393438b37b7c0b2123572ad774cf7",
+      "md_span": {
+        "start": 27326,
+        "end": 27483
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "loi du 23 décembre 1909"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_38/19910415",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'alinéa 2 de l'article 4 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "d9066ffdaf1d717875e70428ff41d2b501ba95eeeec0ac840bd2126e6ac285c1",
+      "md_span": {
+        "start": 27520,
+        "end": 27722
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_39/19910415",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 8 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "6ec01b12643e2ecabb2276bd456060f858276a240fc88920c07213778cbbe3d0",
+      "md_span": {
+        "start": 27759,
+        "end": 27947
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_40/19910415",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "A l'article 13 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés, il est inséré entre le 3e et le 4e alinéa un alinéa additionnel rédigé comme suit:",
+      "text_sha256": "29b9a6469ee4830d72e3ba6552f1bcb60cb3844b88432c5212b2a2328c87361d",
+      "md_span": {
+        "start": 27984,
+        "end": 28235
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_41/19910415",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 14 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "25d47a46a3e83f5272751e2a2d7fba3f42553e0912dd6d84167da9a6cfbacd3b",
+      "md_span": {
+        "start": 28272,
+        "end": 28461
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_42/19910415",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 15 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "81a5be72d4ae3df58ee7133ca7901b5a2da4445079156e085125b24b5c56746c",
+      "md_span": {
+        "start": 28498,
+        "end": 28687
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_43/19910415",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'alinéa 2 de l'article 20 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "a24992c05cfa09e3ee106705f1cd465040dddb7126d28b86e30a33e8be1ee197",
+      "md_span": {
+        "start": 28724,
+        "end": 28927
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_44/19910415",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 21 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "0e361aa88b5104aedc4832f1491bfd91ed475e4862c4ea4fcb8b30e3e2b67e3d",
+      "md_span": {
+        "start": 28964,
+        "end": 29153
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_45/19910415",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 22 alinéa 2 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:",
+      "text_sha256": "97941b915c4048f5d5fb670c353be453e4c45591b2ae311f59b1b4cbffbe9a24",
+      "md_span": {
+        "start": 29190,
+        "end": 29388
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_46/19910415",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-04-15",
+      "text_md": "L'article 23 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:\n\n1. er Sociétés en nom collectif et sociétés en commandite Sociétés en nom collectif, sociétés en commandite, groupements d'intérêt économique et groupement européen d'intérêt économique.\n2. e les sociétés coopératives et les personnes morales exerçant le commerce autres que les sociétés et groupements tarifés ci-dessus ayant un fonds de réserve de plus de 100.000 F paient les mêmes taxes que les sociétés anonymes, les sociétés en commandite par actions et les sociétés à responsabilité limitée (lettre b et c)\n3. Modifications du personnel dans les comités des sociétés coopératives, sans tenir compte du nombre des personnes, modifications dans le personnel des représentants de sociétés ou de groupements, sans tenir compte du nombre des personnes: 120 F",
+      "text_sha256": "ae84c37d56091399a3c7ad17f1431774215ad1fe58da64c55d24ff4071d0b660",
+      "md_span": {
+        "start": 29425,
+        "end": 30376
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1909/12/23/n1/jo",
+          "text": "arrêté grand-ducal du 23 décembre 1909"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/12/23/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/art_47/19910527",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Section IV - **Dispositions modificatives**"
+      ],
+      "article_valid_from": "1991-05-27",
+      "text_md": "La première phrase de l'alinéa 2 de l'article 36 de la loi du 9 décembre 1976 relative à l'organisation du notariat, telle qu'elle a été modifiée dans la suite, est modifiée comme suit:",
+      "text_sha256": "76fd93f0cf5f31bc6bfa21f61b73fcfecd6b60bb57fd61d82f80f00bb31467c6",
+      "md_span": {
+        "start": 30413,
+        "end": 30598
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/12/09/n1/jo",
+          "text": "loi du 9 décembre 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-1991-03-25-n1:2016-06-01--a55fcd6007a62b8f60d24f55e722748abf9a3f8e753e6fe213f331a4fe2280cd#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Règlement (CEE) N° 2137/85 du Conseil du 25 juillet 1985 relatif à l’institution d’un groupement européen d’intérêt économique (GEIE).",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. A cette fin, ceux qui entendent constituer un groupement doivent conclure un contrat et faire procéder à l’immatriculation prévue à l’article 6.\n2. Le groupement ainsi constitué a la capacité, en son propre nom, d’être titulaire de droits et d’obligations de toute nature, de passer des contrats ou d’accomplir d’autres actes juridiques et d’ester en justice, à dater de l’immatriculation prévue à l’article 6.\n3. Les Etats membres déterminent si les groupements immatriculés à leurs registres en vertu de l’article 6 ont ou non la personnalité juridique.\n\n1. Sous réserve des dispositions du présent règlement, la loi applicable, d’une part au contrat de groupement, sauf pour les questions relatives à l’état et à la capacité des personnes physiques et à la capacité des personnes morales, d’autre part au fonctionnement interne du groupement, est la loi interne de l’Etat du siège fixé par le contrat de groupement.\n2. Lorsqu’un Etat comprend plusieurs unités territoriales dont chacune a ses propres règles applicables aux matières visées au paragraphe 1, chaque unité territoriale est considérée comme un Etat a aux fins de la détermination de la loi applicable selon le présent article.\n\n1. Le but du groupement est de faciliter ou de développer l’activité économique de ses membres, d’améliorer ou d’accroître les résultats de cette activité; il n’est pas de réaliser des bénéfices pour lui-même. Son activité doit se rattacher à l’activité économique de ses membres et ne peut avoir qu’un caractère auxiliaire par rapport à celle-ci.\n2. 1. exercer, directement ou indirectement, le pouvoir de direction ou de contrôle des activités propres de ses membres ou des activités d’une autre entreprise, notamment dans les domaines relatifs au personnel, aux finances et aux investissements;\n2. détenir, directement ou indirectement, à quelque titre que ce soit, aucune part ou action, quelle qu’en soit la forme, dans une entreprise membre: la détention de parts ou d’actions dans une autre entreprise n’est possible que dans la mesure où elle est nécessaire pour atteindre l’objectif du groupement et où elle a lieu pour le compte de ses membres;\n3. employer plus de cinq cents salariés;\n4. être utilisé par une société pour faire un prêt à un dirigeant d’une société, ou à toute personne liée à lui, lorsque de tels prêts sont sujets à restriction ou à contrôle selon les lois des Etats membres applicables aux sociétés; un groupement ne doit pas non plus être utilisé pour le transfert d’un bien entre une société et un dirigeant, ou toute personne liée à lui, sauf dans la mesure permise par les lois des Etats membres applicables aux sociétés. Aux fins de la présente disposition, le prêt englobe toute opération d’effet similaire et le bien peut avoir un caractère mobilier ou immobilier;\n5. être membre d’un autre groupement européen d’intérêt économique.\n\n1. 1. les sociétés, au sens de l’article 58, deuxième alinéa du traité, ainsi que les autres entités juridiques de droit public ou privé, constituées en conformité avec la législation d’un Etat membre, qui ont leur siège statutaire ou légal et leur administration centrale dans la Communauté; lorsque, selon la législation d’un Etat membre, une société ou autre entité juridique n’est pas tenue d’avoir un siège statutaire ou légal, il suffit que cette société ou autre entité juridique ait son administration centrale dans la Communauté;\n2. les personnes physiques exerçant une activité industrielle, commerciale, artisanale, agricole, de profession libérale ou d’autres services dans la Communauté.\n2. 1. de deux sociétés ou autres entités juridiques, au sens du paragraphe 1, ayant leur administration centrale dans des Etats membres différents;\n2. de deux personnes physiques, au sens du paragraphe 1, exerçant leur activité à titre principal dans des Etats membres différents;\n3. au sens du paragraphe 1, d’une société ou d’une autre entité juridique et d’une personne physique, dont la première a son administration centrale dans un Etat membre et la seconde exerce son activité à titre principal dans un Etat membre différent.\n3. Un Etat membre peut prévoir que les groupements immatriculés à ses registres conformément à l’article 6 ne peuvent avoir plus de vingt membres. A cette fin, cet Etat membre peut prévoir que, conformément à sa législation, chaque membre d’une entité juridique, constituée en conformité avec sa législation, autre qu’une société immatriculée, soit traité comme membre individuel du groupement.\n4. Tout Etat membre est autorisé à exlure ou restreindre, pour des raisons tenant à son intérêt public, la participation de certaines catégories de personnes physiques, de de sociétés ou d’autres entités juridiques à tout groupement.\n\nDoivent figurer dans le contrat de groupement, au moins:\n\n1. a dénomination du groupement précédée ou suivie, soit des mots «groupement européen d’intérêt économique», soit du sigle «GEIE», à moins que ces mots ou ce sigle ne figurent déjà dans le dénomination;\n2. le siège du groupement;\n3. l’objet en vue duquel le groupement est formé,\n4. les nom, raison ou dénomination sociale, la forme juridique, le domicile ou siège social et, le cas échéant, le numéro et le lieu d’immatriculation de chacun des membres du groupement;\n5. la durée du groupement, lorsqu’elle n’est pas indéterminée.\n\nLe groupement est immatriculé dans l’Etat du siège au registre désigné en vertu de l’article 39 paragraphe 1.\n\nLe contrat de groupement est déposé au registre visé à l’article 6.\n\nDoivent également faire l’objet d’un dépôt à ce registre les actes et indications suivants:\n\n1. toute modification du contrat de groupement, y compris tout changement dans la composition du groupement;\n2. la création et la suppression de tout établissement du groupement;\n3. la décision judiciaire constatant ou prononçant la nullité du groupement, conformément à l’article 15;\n4. la nomination du ou des gérants du groupement, leur nom et tout autre renseignement d’identité exigé par la loi de l’Etat membre dans lequel le registre est tenu, l’indication qu’ils peuvent agir seuls ou doivent agir conjointement, ainsi que la cessation de leurs fonctions;\n5. toute cession par un membre de sa participation dans le groupement ou d’une fraction de celle-ci, conformément à l’article 22 paragraphe 1;\n6. la décision des membres prononçant ou constatant la dissolution du groupement, conformément à l’article 31, ou la décision judiciaire prononçant cette dissolution, conformément aux articles 31 ou 32;\n7. la nomination du ou des liquidateurs du groupement visés à l’article 35, leur nom et tout autre renseignement d’identité exigé par la loi de l’Etat membre dans lequel le registre est tenu, ainsi que la cessation de leurs fonctions;\n8. la clôture de la liquidation du groupement, visée à l’article 35 paragraphe 2;\n9. le projet de transfert de siège, visé à l’article 14 paragraphe 1;\n10. la clause exonérant un nouveau membre du paiement des dettes nées antérieurement à son entrée, conformément à l’article 26 paragraphe 2.\n\nDoivent faire l’objet d’une publication, dans les conditions prévues à l’article 39, au bulletin visé au paragraphe 1 de cet article:\n\n1. les mentions devant obligatoirement figurer dans le contrat de groupement en vertu de l’article 5, ainsi que leurs modifications;\n2. le numéro, la date et le lieu d’immatriculation, ainsi que la radiation de l’immatriculation;\n3. les actes et indications visés à l’article 7 points b) à j).\n\nLes indications visées aux points a) et b) doivent faire l’objet d’une publication intégrale. Les actes et indications visés au point c) peuvent faire l’objet d’une publication soit intégrale, soit sous forme d’extrait ou de mention de leur dépôt au registre, selon la législation nationale applicable.\n\n1. directive 68/151/CEE\n2. Si des actes ont été accomplis au nom d’un groupement avant son immatricuation conformément à l’article 6 et si le groupement ne reprend pas après son immatriculation les engagements résultant de tels actes, les personnes physiques, sociétés ou autres entités juridiques qui les ont accomplis en sont solidairement et indéfiniment responsables.\n\nTout établissement du groupement situé dans un Etat membre autre que celui du siège fait l’objet d’une immatriculation dans cet Etat. En vue de cette immatriculation, le groupement dépose au registre compétent de ce dernier une copie des documents dont le dépôt au registre de l’Etat membre du siège est obligatoire, accompagnée, si nécessaire, d’une traduction établie conformément aux usages existant au registre d’immatriculation de l’établissement.\n\nLa constitution et la clôture de la liquidation d’un groupement, avec indication du numéro, de la date et du lieu de l’immatriculation de celui-ci, ainsi que de la date, du lieu et du titre de la publication, sont publiées au *Journal officiel des Communautés européennes* après la publication au bulletin visé à l’article 39 paragraphe 1.\n\nLe siège mentionné par le contrat de groupement doit être situé dans la Communauté.\n\nCe siège doit être fixé:\n\n1. soit au lieu où le groupement a son administration centrale;\n2. soit au lieu où l’un des membres du groupement a son administration centrale ou, lorsqu’il s’agit d’une personne physique, son activité à titre principal, à condition que le groupement y ait une activité réelle.\n\nLe siège du groupement peut être transféré à l’intérieur de la Communauté.\n\nLorsque ce transfert n’a pas pour conséquence un changement de la loi applicable en vertu de l’article 2, la décision de transfert est prise dans les conditions prévues au contrat de groupement.\n\n1. La décision de transfert ne peut intervenir que deux mois après la publication dudit projet. Elle doit être prise à l’unanimité des membres du groupement. Le transfert prend effet à la date à laquelle le groupement est immatriculé, conformément à l’article 6, au registre du nouveau siège. Cette immatriculation ne peut s’effectuer que sur preuve de la publication du projet de transfert du siège.\n2. La radiation de l’immatriculation du groupement au registre du précédent siège ne peut s’effectuer que sur preuve de l’immatriculation du groupement au registre du nouveau siège.\n3. La publication de la nouvelle immatriculation du groupement rend le nouveau siège opposable aux tiers dans les conditions visées à l’article 9 paragraphe 1; toutefois tant que la publication de la radiation de l’immatriculation au registre du précédent siège n’a pas eu lieu, les tiers peuvent continuer de se prévaloir de l’ancien siège, à moins que le groupement ne prouve que les tiers avaient connaissance du nouveau siège.\n4. La législation d’un Etat membre peut prévoir, en ce qui concerne les groupements immatriculés dans ce dernier conformément à l’article 6, qu’un transfert du siège, dont résulterait un changement de la loi applicable, ne prend pas effet si, dans le délai de deux mois visé au paragraphe 1, une autorité compétente de cet Etat s’y oppose. Cette opposition ne peut avoir lieu que pour des raisons d’intérêt public. Elle doit être susceptible de recours devant une autorité judiciaire.\n\n1. Lorsque la loi applicable au groupement en vertu de l’article 2 prévoit la nullité du groupement,cette nullité doit être constatée ou prononcée par décision judiciaire.Toutefois, le tribunal saisi doit, lorsqu’une régularisation de la situation du groupement est possible, accorder un délai permettant de procéder à cette régularisation.\n2. La nullité du groupement entraîne la liquidation de celui-ci dans les conditions prévues à l’article 35.\n3. La décision constatant ou prononçant la nullité du groupement est opposable aux tiers dans les conditions visées à l’article 9 paragraphe 1.\n\nCette décision ne porte pas atteinte par elle-même à la validité des obligations nées à la charge ou au profit du groupement antérieurement à la date à laquelle elle devient opposable aux tiers dans les conditions visées à l’alinéa précédent.\n\n1. Le contrat de groupement peut prévoir d’autres organes; il en détermine alors les pouvoirs.\n2. Les membres du groupement, agissant en tant qu’organe, peuvent prendre toute décision en vue de la réalisation de l’objet du groupement.\n\n1. Chaque membre dispose d’une voix. Le contrat de groupement peut toutefois attribuer plusieurs voix à certains membres, à condition qu’aucun d’eux ne détienne la majorité des voix.\n2. 1. modifier l’objet du groupement;\n2. modifier le nombre de voix attribué à chacun d’eux;\n3. modifier les conditions de la prise de décision;\n4. proroger la durée du groupement au-delà du terme fixé dans le contrat de groupement;\n5. modifier la part contributive de chacun des membres ou de certains d’entre eux au financement du groupement;\n6. modifier toute autre obligation d’un membre, à moins que le contrat de groupement n’en dispose autrement;\n7. procéder à toute modification du contrat de groupement non visée au présent paragraphe, à moins que ce contrat n’en dispose autrement.\n3. Dans tous les cas où le présent règlement ne prévoit pas que les décisions doivent être prises à l’unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions, ou certaines d’entre elles, seront prises. Dans le silence du contrat, les décisions sont prises à l’unanimité.\n4. A l’initiative d’un gérant ou à la demande d’un membre, le ou les gérants doivent organiser une consultation des membres afin que ces derniers prennent une décision.\n\nChaque membre a le droit d’obtenir des gérants des renseignements sur les affaires du groupement et de prendre connaissance des livres et documents d’affaires.\n\n1. Ne peuvent être gérants d’un groupement les personnes qui: - ou\n- ou\n- à la suite d’une décision judiciaire ou administrative rendue ou reconnue dans un Etat membre, ne peuvent faire partie de l’organe d’administration ou de direction d’une société, ne peuvent gérer une entreprise ou ne peuvent agir en qualité de gérant d’un groupement européen d’intérêt économique.\n2. Si un Etat membre exerce cette option, il doit prévoir que ce ou ces représentants encourent la même responsabilité que s’ils étaient eux-mêmes gérants du groupement. Les interdictions prévues au paragraphe 1 s’appliquent également à ces représentants.\n3. Le contrat de groupement ou, à défaut, une décision unanime des membres détermine les conditions de nomination et de révocation du ou des gérants et fixe leurs pouvoirs.\n\n1. Chacun des gérants engage le groupement envers les tiers lorsqu’il agit au nom du groupement, même si ses actes ne relèvent pas de l’objet de celui-ci, à moins que le groupement ne prouve que le tiers savait que l’acte dépassait les limites de l’objet du groupement ou ne pouvait l’ignorer, compte tenu des circonstances, étant exclu que la seule publication de la mention visée à l’article 5 point c) suffise à constituer cette preuve. Toute limitation, apportée par le contrat de groupement ou par une décision des membres, aux pouvoirs du ou des gérants est inopposable aux tiers, même si elle est publiée.\n2. Le contrat de groupement peut prévoir que le groupement n’est valablement engagé que par deux ou plusieurs gérants agissant conjointement. Cette clause n’est opposable aux tiers, dans les conditions visées à l’article 9 paragraphe 1, que si elle est publiée conformément à l’article 8.\n\n1. Les bénéfices provenant des activités du groupement sont considérés comme bénéfices des membres et répartis entre eux dans la proportion prévue au contrat de groupement ou à défaut par parts égales.\n2. Les membres du groupement contribuent au règlement de l’excédent des dépenses sur les recettes dans la proportion prévue au contrat de groupement ou, à défaut, par parts égales.\n\n1. Tout membre du groupement peut céder sa participation dans le groupement, ou une fraction de celle-ci, soit à un autre membre, soit à un tiers; l’effet de la cession est subordonné à une autorisation donnée à l’unanimité par les autres membres.\n2. Un membre du groupement ne peut constituer une sûreté sur sa participation dans le groupement qu’après autorisation donnée à l’unanimité par les autres membres, à moins que le contrat de groupement n’en dispose autrement. Le titulaire de la sûreté ne peut, à aucun moment, devenir membre du groupement du fait de cette sûreté.\n\nLe groupement ne peut faire publiquement appel à l’épargne.\n\n1. Les membres du groupement répondent indéfiniment et solidairement des dettes de toute nature de celui-ci. La loi nationale détermine les conséquences de cette responsabilité.\n2. Jusqu’à la clôture de la liquidation du groupement, les créanciers du groupement ne peuvent poursuivre le paiement des dettes contre un membre, dans les conditions prévues au paragraphe 1, qu’après avoir demandé au groupement de payer et que si le paiement n’a pas été effectué dans un délai suffisant.\n\nLes lettres, notes de commande et documents similaires doivent indiquer lisiblement:\n\n1. la dénomination du groupement précédée ou suivie, soit des mots «groupement européen d’intérêt économique», soit du sigle «GEIE», à moins que ces mots ou ce sigle ne figurent déjà dans la dénomination;\n2. le lieu du registre visé à l’article 6 où le groupement est immatriculé,ainsi que le numéro d’inscription du groupement à ce registre;\n3. l’adresse du siège du groupement;\n4. le cas échéant, la mention que les gérants doivent agir conjointement;\n5. le cas échéant, la mention que le groupement est en liquidation en vertu des articles 15, 31, 32 ou 36.\n\nTout établissement du groupement, lorsqu’il est immatriculé conformément à l’article 10, doit faire figurer les indications visées ci-dessus, accompagnées de celles relatives à sa propre immatriculation, sur les documents visés au premier alinéa du présent article qui émanent de cet établissement.\n\n1. La décision d’admettre de nouveaux membres est prise à l’unanimité des membres du groupement.\n2. Il peut toutefois être exonéré, par une clause du contrat de groupement ou de l’acte d’admission, du paiement des dettes nées antérieurement à son entrée.Cette clause n’est opposable aux tiers,dans les conditions visées à l’article 9 paragraphe 1, que si elle est publiée conformément à l’article 8.\n\n1. Tout membre du groupement peut, en outre, démissionner pour juste motif.\n2. Cette exclusion ne peut avoir lieu que sur décision du tribunal prise à la demande conjointe de la majorité des autres membres, à moins que le contrat de groupement n’en dispose autrement.\n\n1. En outre, un Etat membre peut prévoir, pour les besoins de sa législation en matière de liquidation, de dissolution, d’insolvabilité ou de cessation des paiements qu’un membre d’un groupement cesse d’en faire partie au moment fixé par ladite législation.\n2. En cas de décès d’une personne physique membre du groupement,nul ne peut prendre sa place dans le groupement si ce n’est dans les conditions prévues au contrat de groupement ou, à défaut, avec l’accord unanime des membres restants.\n\nDès qu’un membre cesse de faire partie du groupement, le ou les gérants doivent notifier cette situation aux autres membres; ils doivent également mettre en oeuvre les obligations appropriées énoncées aux articles 7 et 8. En outre, tout intéressé peut mettre en oeuvre lesdites obligations.\n\nSauf disposition contraire du contrat de groupement et sans préjudice des droits acquis par une personne en vertu de l’article 22 paragraphe 1 ou de l’article 28 paragraphe 2, le groupement subsiste entre les membres restants, après qu’un membre a cessé d’en faire partie, dans les conditions prévues par le contrat de groupement ou déterminées par une décision unanime des membres considérés.\n\n1. Le groupement peut être dissous par une décision de ses membres prononçant cette dissolution. Cette décision est prise à l’unanimité, à moins que le contrat de groupement n’en dispose autrement.\n2. 1. ou\n2. constatant la réalisation de l’objet du groupement ou l’impossibilité de le poursuivre. Si, trois mois après la survenance d’une des situations visées à l’alinéa précédent, la décision des membres constatant la dissolution du groupement n’a pas été prise, tout membre peut demander au tribunal de prononcer cette dissolution.\n3. Le groupement doit également être dissous par une décision de ses membres ou du membre restant lorsque les conditions de l’article 4 paragraphe 2 ne sont plus remplies.\n4. Après dissolution du groupement par une décision de ses membres, le ou les gérants doivent mettre en oeuvre les obligations appropriées énoncées aux articles 7 et 8. En outre, tout intéressé peut mettre en oeuvre lesdites obligations.\n\n1. A la demande de tout intéressé ou d’une autorité compétente, le tribunal doit prononcer la dissolution du groupement en cas de violation des articles 3 ou 12 ou de l’article 31 paragraphe 3, à moins qu’une régularisation de la situation du groupement ne soit possible et n’intervienne avant qu’il ait été statué sur le fond.\n2. Sur demande d’un membre, le tribunal peut prononcer la dissolution du groupement pour juste motif.\n3. Un Etat membre peut prévoir que le tribunal peut, sur demande d’une autorité compétente, pronconcer la dissolution d’un groupement ayant son siège dans l’Etat dont relève cette autorité dans tous les cas où le groupement, par son activité, contrevient à l’intérêt public de cet Etat, si une telle possibilité existe dans la législation de ce dernier pour des sociétés immatriculées ou d’autres entités juridiques soumises à cette législation.\n\nLorsqu’un membre cesse de faire partie du groupement pour une cause autre que la cession de ses droits dans les conditions prévues à l’article 22 paragraphe 1, la valeur des droits qui lui reviennent ou des obligations qui lui incombent est déterminée sur la base du patrimoine du groupement tel qu’il se présente au moment où ce membre cesse d’en faire partie.\n\nLa valeur des droits et obligations du membre sortant ne peut être fixée forfaitairement à l’avance.\n\nSans préjudice de l’article 37, paragraphe 1, tout membre qui cesse de faire partie du groupement reste tenu, dans les conditions prévues à l’article 24, des dettes découlant de l’activité du groupement antérieure à la cessation de sa qualité de membre.\n\n1. La dissolution du groupement entraîne sa liquidation.\n2. La liquidation du groupement et la clôture de cette liquidation sont régies par le droit national.\n3. er\n4. Le ou les liquidateurs mettent en oeuvre les obligations appropriées énoncées aux articles 7 et 8.\n\nLes groupements européens d’intérêt économique sont soumis aux dispositions du droit national régissant l’insolvabilité et la cessation des paiements. L’ouverture d’une procédure à l’encontre d’un groupement en raison de son insolvabilité ou de sa cessation des paiements n’entraîne pas d’elle-même l’ouverture d’une telle procédure à l’encontre des membres de ce groupement.\n\n1. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans à compter de la publication, conformément à l’article 8, du départ d’un membre du groupement pour les actions contre ce membre relatives aux dettes qui découlent de l’activité du groupement antérieure à la cessation de sa qualité de membre.\n2. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans à compter de la publication,conformément à l’article 8, de la clôure de la liquidation du groupement pour les actions contre un membre du groupement relatives aux dettes qui découlent de l’activité de ce groupement.\n\nLorsqu’un groupement exerce, dans un Etat membre, une activité qui contrevient à l’intérêt public de cet Etat,une autorité compétente de celui-ci peut interdire cette activité. La décision de l’autorité compétente doit être susceptible de recours devant une autorité judiciaire.\n\n1. En outre, les Etats membres s’assurent que chacun peut prendre connaissance, au registre compétent en vertu de l’article 6 ou, le cas échéant, de l’article 10, des documents visés à l’article 7 et en obtenir, même par la poste, copie intégrale ou partielle. Les Etats membres peuvent prévoir le paiement des frais afférents aux opérations visées aux alinéas précédents,sans que le montant de ces frais puisse être supérieur au coût administratif.\n2. Journal officiel des Communautés européennes\n3. Les Etats membres prévoient les sanctions appropriées en cas de manquement aux dispositions des articles 7, 8 et 10 en matière de publicité et en cas de manquement aux dispositions de l’article 25.\n\nLe résultat provenant de l’activité du groupement n’est imposable qu’au niveau de ses membres.\n\n1. r\n2. La Commission en informe les autres Etats membres.\n\n1. 1. de faciliter, sans préjudice des articles 169 et 170 du traité, la mise en oeuvre du présent règlement par une concertation régulière portant notamment sur les problèmes concrets de cette mise en oeuvre;\n2. de conseiller, si nécessaire, la Commission au sujet des compléments ou amendements à apporter au présent règlement.\n2. La présidence est assurée par un représentant de la Commission. Le secrétariat est assuré par les services de la Commission.\n3. Le comité de contact est convoqué par son président, soit à l’initiative de celui-ci, soit à la demande d’un de ses membres.\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel des Communautés européennes*.\n\nLe présent règlement est applicable à partir du 1er juillet 1989, à l’exception des articles 39, 41 et 42 qui sont applicables dès l’entrée en vigueur du présent règlement.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout Etat membre.",
+      "text_sha256": "76154dbde605c6b96320e04ceeed1767b829644237bda0facacb7a15bf7b9db5",
+      "md_span": {
+        "start": 30767,
+        "end": 56453
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

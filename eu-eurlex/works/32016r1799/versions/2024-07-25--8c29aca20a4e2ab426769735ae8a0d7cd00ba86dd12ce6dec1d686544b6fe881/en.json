@@ -1,0 +1,315 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/1799 of 7 October 2016 laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013",
+  "valid_from": "2024-07-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1799/versions/2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881/en.html",
+    "sha256": "d53de3d010c51324ed47464122d642933557d31ed3686386d7150b7684d35db0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1799-20240725"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Quantitative factors of the mapping of a rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The quantitative factors referred to in point (a) of Article 136(2) of Regulation (EU) No 575/2013 shall be the short run and long run default rates associated with items assigned the same rating category, as set out in Articles 2 to 6.",
+      "text_sha256": "34d27c54f25637c18e9aecc707290352c7c05f9f3ad2acda7aff7759ece5c570",
+      "md_span": {
+        "start": 980,
+        "end": 1216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Items used for the calculation of the quantitative factors",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The calculation of the default rates referred to in Article 1 for each rating category shall be performed based solely on items assigned the same rating category by the external credit assessment institution (ECAI) for which the mapping is being performed, where the items meet all of the following requirements:\n\n(a) they belong to the ‘corporate ratings’ referred to in point (a) of Article 3 of Delegated Regulation (EU) 2015/2, and they are assigned on an issuer basis;\n\n(b) they are assigned either of the following: (i) a solicited credit rating; (ii) an unsolicited credit rating that meets the requirements of Article 138 of Regulation (EU) No 575/2013.",
+      "text_sha256": "496d2dcd94e855197239b79787c5a38b8e6402e67bc54cae2b3d7655c5963214",
+      "md_span": {
+        "start": 1314,
+        "end": 1975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Determination of whether a sufficient number of credit ratings is available",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purpose of the short run default rate calculation, the number of items assigned the same rating category by the ECAI for which the mapping is being performed shall be deemed sufficiently numerous, where the items meet all of the following requirements:(a) they are sufficient with respect to the perceived risk profile of the rating category, considering as an indicator, the number of items representing the inverse of the long run default rate benchmark of the rating category, as referred to in point (a) of Article 14;(b) they are representative of the most recent pool of items assigned the same rating category.\n\n**2.** For the purpose of the long run default rate calculation, the number of items assigned the same rating category by the ECAI for which the mapping is being performed shall be deemed sufficiently numerous where at minimum the most recent 10 short run default rates as referred to in paragraph 1 are available.",
+      "text_sha256": "b95b1675422ce321216127c38631bedf842acb3bb4e1ea79f3514cf130273759",
+      "md_span": {
+        "start": 2090,
+        "end": 3038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Short run default rates of a rating category where a sufficient number of credit ratings is available",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a sufficient number of credit ratings is available according to Article 3(1), the short run default rates referred to in Article 1 shall be calculated in the manner described in paragraphs 2 to 5.\n\n**2.** The short run default rates of a rating category shall be calculated over a 3-year time horizon as a ratio where:(a) the denominator represents the number of items assigned the same rating category present at the beginning of the time horizon;(b) the numerator represents the number of items referred to in point (a) that have defaulted prior to the end of the time horizon.\n\n**3.** Items withdrawn prior to the end of the time horizon and not defaulted shall only contribute to the denominator of the short run default rates referred to in point (a) of paragraph 2 with a weight equal to 50 %. Any item for which there is evidence that it has been withdrawn prior to the occurrence of a default shall be considered to be a defaulted item.\n\n**4.** Items shall be considered to be defaulted items to be included in the numerator specified in point (b) of paragraph 2 where any of the following types of event has occurred:(a) a bankruptcy filing or legal receivership that will likely cause a miss or delay in future contractually required debt service payments;(b) a missed or delayed disbursement of a contractually required interest or principal payment, unless payments are made within a contractually allowed grace period;(c) a distressed exchange if the offer implies the investor will receive less value than the promise of the original securities;(d) the rated entity is under a significant form of regulatory supervision owing to its financial condition.\n\n**5.** The short run default rates shall be calculated for each available pool of items assigned the same rating category on semi-annual periods, which are based on 1 January and 1 July of each year.",
+      "text_sha256": "4770df2d5720e6e5c0d572fc6db2a1eae5a713f212beec4e72187f74bc705952",
+      "md_span": {
+        "start": 3179,
+        "end": 5060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Long run default rate of a rating category where a sufficient number of credit ratings is available",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a sufficient number of credit ratings is available in accordance with Article 3, the long run default rate referred to in Article 1 shall be calculated according to paragraphs 2 to 4.\n\n**2.** The long run default rate shall be calculated as the weighted average of at least the most recent 20 short run default rates calculated according to Article 4(1). If the available short run default rates span a longer period and they are relevant, the short run default rates for that longer period shall be used. Where less than 20 short run default rates calculated according to Article 4(1) are available the remaining short run default rates shall be estimated to span the 20 short run default rates.\n\n**3.** For the purpose of producing the weighted average referred to in paragraph 2, the short run default rates calculated according to Article 4 shall include the most recent recessionary period. This recessionary period shall span a semester or more of the negative growth rates of the Gross Domestic Products in the main geographical areas of reference of the rated items.\n\n**4.** For the purpose of producing the weighted average referred to in paragraph 2, the following shall apply:(a) the short run default rates calculated according to Article 4(1) shall be weighted based on the number of items specified in point (a) of Article 4(2);(b) the estimated short run default rates shall be weighted based on estimates of the number of items assigned the same rating category present at the beginning of the time horizon.\n\nThe weights shall ensure an adequate representation of recessionary and non-recessionary years in a full economic cycle.",
+      "text_sha256": "72d7696eac30bb168a0f15db533cba50abde5de2696eafc5831ed2c0ea8424ca",
+      "md_span": {
+        "start": 5199,
+        "end": 6857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Items used and long run default rate of a rating category where a sufficient number of credit ratings is not available",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Where a sufficient number of credit ratings as referred to in Article 3 is not available, the calculation of the long run default rate specified in Article 1 shall be performed according to both the following:\n\n(a) it shall be based on the estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category, pursuant to point (a) of Article 136(2) of Regulation (EU) No 575/2013;\n\n(b) the estimate referred to in point (a) shall be complemented with the number of defaulted and non-defaulted items assigned the rating category by the ECAI for which the mapping is being performed.",
+      "text_sha256": "0935fd0ff2c9c580758830155b0ff719fa5f93e13c4450dfee02b3f9b81a8962",
+      "md_span": {
+        "start": 7015,
+        "end": 7647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Qualitative factors of the mapping of a rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The qualitative factors referred to in point (b) of Article 136(2) of Regulation (EU) No 575/2013 shall be:\n\n(a) the definition of default considered by the ECAI, as referred to in Article 8;\n\n(b) the time horizon of a rating category considered by the ECAI, as referred to in Article 9;\n\n(c) the meaning of a rating category and its relative position within the rating scale established by the ECAI, as referred to in Article 10;\n\n(d) the creditworthiness of the items assigned the same rating category, as referred to in Article 11;\n\n(e) the estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category, pursuant to point (a) of Article 136(2) of Regulation (EU) No 575/2013, as set out in Article 12;\n\n(f) the relationship established by the ECAI (‘internal mapping’), where available, between, on the one hand, the rating category which is being mapped, and, on the other hand, other rating categories produced by the same ECAI, where a mapping for the latter categories has already been set out according to this Regulation, as referred to in Article 13;\n\n(g) any other relevant information that can describe the degree of risk expressed by a rating category.",
+      "text_sha256": "7569516a312ccf0b2c69e48756c3556c1eb75b9ee67f8d3796d2ce677ff53f95",
+      "md_span": {
+        "start": 7742,
+        "end": 8964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Definition of default used by the ECAI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The type of events considered by the ECAI for the purposes of establishing whether an item is in default situation shall be compared to those specified in Article 4(4) by using all available information. Where the comparison indicates that not all such types of default events have been considered by the ECAI, the quantitative factors referred to in Article 1 shall be adjusted accordingly.",
+      "text_sha256": "e56e3dc992d978ea977a3dc513e000411b5cbd8f0c480bcfc2f71fe93297114a",
+      "md_span": {
+        "start": 9042,
+        "end": 9433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Time horizon of a rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The time horizon considered by the ECAI for assigning a rating category shall provide a relevant indication of whether the level of risk of that rating category is sustainable over the time horizon specified in Article 4(2).",
+      "text_sha256": "d4095a87f2d850fbd3d20c0dda8a30809338bda87231a42b9de6af7749823447",
+      "md_span": {
+        "start": 9506,
+        "end": 9730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Meaning and relative position of a rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The meaning of a rating category established by the ECAI shall be set according to the characteristics of the capacity of financial commitments as reflected in the items assigned such rating category being honoured, and more in particular by its degree of sensitivity to the economic environment and its degree of proximity to the default situation.\n\n**2.** The meaning of a rating category shall be compared to the one established for each credit quality step, as set out in Article 15.\n\n**3.** The meaning of a rating category shall be considered in combination with its relative position within the rating scale established by the ECAI.",
+      "text_sha256": "f0ee8baee0c8f9cfe4424cd96873c2a4443a61277e84c0011419569ad605bfb4",
+      "md_span": {
+        "start": 9822,
+        "end": 10468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Creditworthiness of items assigned the same rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The creditworthiness of items assigned the same rating category shall be determined by considering at least their size and the degree of sector and geographical diversification of their business activity.\n\n**2.** Different measures of creditworthiness assigned to items of the same rating category may be used, to the extent appropriate, to complement the information provided by the quantitative factors referred to in Article 1 where they are reliable and relevant for the mapping.",
+      "text_sha256": "8cbecebbebfaeeace987875ad0c871572a30cf3c783af847d8491525f2e77c79",
+      "md_span": {
+        "start": 10569,
+        "end": 11059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category shall be taken into account for the purpose of the mapping as long as it has been adequately justified.",
+      "text_sha256": "14368859d33b460cd80e41fcac2c912555f2ec348d364ee042c17c771facfb43",
+      "md_span": {
+        "start": 11219,
+        "end": 11445
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Internal mapping of a rating category established by the ECAI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The corresponding credit quality step of other rating categories produced by the same ECAI for which an internal mapping exists according to point (f) of Article 7 shall be used as a relevant indication of the level of risk of the rating category which is being mapped.",
+      "text_sha256": "7fce0f0dcb80b5e0f3d30ff9a76c97cbfa072ce8b6c6eff3b4b86f3a0423ccb7",
+      "md_span": {
+        "start": 11548,
+        "end": 11817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Benchmark",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The benchmark referred to in point (c) of Article 136(2) of Regulation (EU) No 575/2013, shall be distinguished in:\n\n(a) a long-run default rate benchmark for each credit quality step as set out in Table 1 of Annex I;\n\n(b) a short-run default rate benchmark for each credit quality step as set out in Table 2 of Annex I.",
+      "text_sha256": "a0d9a7b165db371c945afbc70503d1ae5b392ce0817b90cb7040ead8aa0d24e7",
+      "md_span": {
+        "start": 11868,
+        "end": 12188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Reference meaning of the rating category per credit quality step",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The reference meaning of a rating category that corresponds to each credit quality step is set out in Annex II.",
+      "text_sha256": "d46c55af7a1e553e8a0ca482b0834ca3b6d14df5af8fbc8522cdd257ca5920ff",
+      "md_span": {
+        "start": 12294,
+        "end": 12405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Mapping tables",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The correspondence of the rating categories of each ECAI with the credit quality steps set out in Section 2 of Chapter 2 of Title II of Part Three of Regulation (EU) No 575/2013 is that set out in Annex III.",
+      "text_sha256": "52732418d684837a699407c2965f536de912f9b73060feea883e0e3d5ffc5469",
+      "md_span": {
+        "start": 12461,
+        "end": 12668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32016r1799:2024-07-25--8c29aca20a4e2ab426769735ae8a0d7cd00ba86dd12ce6dec1d686544b6fe881#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 12726,
+        "end": 12868
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

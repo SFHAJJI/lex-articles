@@ -1,0 +1,420 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2981 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2024-11-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2981/versions/2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d/fr.xml",
+    "sha256": "db9779561eec1367a02647fccbbf6c402a9f6383b20b9a8e575ba3ee92c3f22b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2981"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement définit des normes de référence et établit des spécifications et des procédures visant à mettre en place un cadre solide pour la certification des portefeuilles, qui devra être régulièrement actualisé afin de rester en adéquation avec l’évolution des technologies et des normes et avec les travaux menés sur la base de la recommandation (UE) 2021/946 concernant une boîte à outils commune de l’Union pour une approche coordonnée en vue d’un cadre européen relatif à une identité numérique, et en particulier l’architecture et le cadre de référence.",
+      "text_sha256": "bc689a31da0b693bb390a1aebb3045ee8318aa4cf2e5fea24e33eeb5b63e588f",
+      "md_span": {
+        "start": 749,
+        "end": 1335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille; |\n| --- | --- |\n\n| 2) | «propriétaire du schéma»: un organisme responsable de l’élaboration et de la maintenance d’un schéma de certification; |\n| --- | --- |\n\n| 3) | «objet de la certification»: les produits, processus et services, ou une combinaison de ceux-ci, auxquels s’appliquent des exigences précises; |\n| --- | --- |\n\n| 4) | «application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions; |\n| --- | --- |\n\n| 5) | «instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille, et dont l’utilisateur du portefeuille se sert pour interagir avec l’unité de portefeuille; |\n| --- | --- |\n\n| 6) | «dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques; |\n| --- | --- |\n\n| 7) | «registre des risques»: un enregistrement des informations pertinentes pour le processus de certification concernant les risques identifiés; |\n| --- | --- |\n\n| 8) | «fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille; |\n| --- | --- |\n\n| 9) | «organisme de certification»: un organisme tiers d’évaluation de la conformité exploitant des schémas de certification; |\n| --- | --- |\n\n| 10) | «unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné; |\n| --- | --- |\n\n| 11) | «actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises; |\n| --- | --- |\n\n| 12) | «utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille; |\n| --- | --- |\n\n| 13) | «incident»: un incident au sens de l’article 6, point 6, de la directive (UE) 2022/2555 du Parlement européen et du Conseil (10); |\n| --- | --- |\n\n| 14) | «politique de divulgation intégrée»: un ensemble de règles, intégrées dans une attestation électronique d’attributs par le fournisseur de ces derniers, qui indique les conditions qu’une partie utilisatrice de portefeuille doit remplir pour accéder à l’attestation électronique d’attributs. |\n| --- | --- |",
+      "text_sha256": "1ed797ed13069ebea6d94326f7506d465c3db6e55701980db9a467c516e7f106",
+      "md_span": {
+        "start": 1368,
+        "end": 4741
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_202402981FR.000101-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les États membres désignent un propriétaire du schéma pour chaque schéma national de certification.\n\n2. L’objet de la certification défini dans les schémas nationaux de certification est la fourniture et l’exploitation de solutions de portefeuille et des schémas d’identification électronique dans le cadre duquel elles sont fournies.\n\n3. Conformément au règlement d’exécution (UE) 2015/1502, l’objet de la certification dans les schémas nationaux de certification comprend les éléments suivants:\n\n| a) | les composants logiciels, y compris les paramètres et les configurations d’une solution de portefeuille et du schéma d’identification électronique dans le cadre duquel les solutions de portefeuille sont fournies; |\n| --- | --- |\n\n| b) | les composants matériels et les plateformes sur lesquels les composants logiciels visés au point b) fonctionnent ou dont ils dépendent pour des opérations d’importance critique, dans les cas où ils sont fournis directement ou indirectement par la solution de portefeuille et le schéma d’identification électronique dans le cadre desquels ils sont fournis et lorsqu’ils sont tenus d’atteindre le niveau de garantie souhaité pour ces composants logiciels. Lorsque les composants matériels et les plateformes ne sont pas fournis par le fournisseur de portefeuille, les schémas nationaux de certification formulent des hypothèses pour l’évaluation des composants matériels et des plateformes en vertu de laquelle une résistance peut être opposée aux attaquants à potentiel d’attaque élevé conformément au règlement d’exécution (UE) 2015/1502, et précisent les activités d’évaluation visant à confirmer ces hypothèses, visées à l’annexe IV; |\n| --- | --- |\n\n| c) | les processus qui soutiennent la fourniture et le fonctionnement d’une solution de portefeuille, y compris le processus d’enrôlement des utilisateurs visé à l’article 5 bis du règlement (UE) no 910/2014, couvrant au moins l’inscription, la gestion des moyens électroniques et l’organisation conformément aux sections 2.1, 2.2 et 2.4 de l’annexe I du règlement d’exécution (UE) 2015/1502. |\n| --- | --- |\n\n4. Les schémas nationaux de certification comprennent une description de l’architecture spécifique des solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel elles sont fournies. Lorsque les schémas nationaux de certification couvrent plus d’une architecture spécifique, ils incluent un profil pour chacune de ces architectures.\n\n5. Pour chaque profil, les schémas nationaux de certification définissent au moins les éléments suivants:\n\n| a) | l’architecture spécifique d’une solution de portefeuille et du schéma d’identification électronique dans le cadre duquel elle est fournie; |\n| --- | --- |\n\n| b) | les contrôles de sécurité associés aux niveaux de garantie énoncés à l’article 8 du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| c) | un plan d’évaluation établi conformément au point 7.4.1 de la norme EN ISO/IEC 17065:2012; |\n| --- | --- |\n\n| d) | les exigences de sécurité nécessaires pour faire face aux risques et menaces de cybersécurité énumérés dans le registre des risques figurant à l’annexe I du présent règlement, jusqu’au niveau de garantie requis, et pour atteindre, le cas échéant, les objectifs définis à l’article 51 du règlement (UE) 2019/881; |\n| --- | --- |\n\n| e) | une mise en correspondance des contrôles visés au point b) du présent paragraphe avec les composantes de l’architecture; |\n| --- | --- |\n\n| f) | une description de la manière dont les contrôles de sécurité, la mise en correspondance, les exigences de sécurité et le plan d’évaluation visés aux points b) à c) permettent aux fournisseurs de solutions de portefeuille et au schéma d’identification électronique dans le cadre duquel elles sont fournies de faire face de manière adéquate aux risques et menaces de cybersécurité identifiés dans le registre des risques visé au point d), jusqu’au niveau de garantie requis, en s’appuyant sur une analyse de risque permettant d’affiner et de compléter le registre des risques avec des risques et des menaces propres à l’architecture. |\n| --- | --- |\n\n6. Le plan d’évaluation visé au paragraphe 5, point c), énumère les activités d’évaluation à inclure dans l’évaluation des solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel elles sont fournies.\n\n7. L’activité d’évaluation visée au paragraphe 6 exige des fournisseurs de solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel ces solutions sont fournies qu’ils communiquent des informations répondant aux exigences énumérées à l’annexe II.",
+      "text_sha256": "a16bebfff08e2a92cdf5baaba2f7164d5d2924e7efa784e7a891003bf242e2c9",
+      "md_span": {
+        "start": 4774,
+        "end": 9431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les schémas nationaux de certification couvrent les exigences fonctionnelles, de cybersécurité et de protection des données en utilisant les schémas de certification suivants, lorsqu’ils sont disponibles et applicables:\n\n| a) | les schémas européens de certification de cybersécurité établis en vertu du règlement (UE) 2019/881, notamment le schéma européen de certification de cybersécurité fondé sur des critères communs (EUCC); |\n| --- | --- |\n\n| b) | les schémas nationaux de certification de cybersécurité couverts par l’EUCC, conformément à l’article 49 du règlement d’exécution (UE) 2024/482. |\n| --- | --- |\n\n2. Les schémas nationaux de certification peuvent en outre faire référence, lorsqu’ils sont disponibles et applicables:\n\n| a) | à d’autres schémas nationaux de certification pertinents; |\n| --- | --- |\n\n| b) | à des normes internationales, européennes et nationales; |\n| --- | --- |\n\n| c) | à des spécifications techniques qui satisfont aux exigences énoncées à l’annexe II du règlement (UE) no 1025/2012 du Parlement européen et du Conseil (11). |\n| --- | --- |\n\n3. Les schémas nationaux de certification:\n\n| a) | précisent les éléments énumérés au point 6.5 de la norme EN ISO/IEC 17067:2013; |\n| --- | --- |\n\n| b) | sont mis en œuvre sous la forme d’un schéma de type 6, conformément au point 5.3.8 de la norme EN ISO/IEC 17067:2013. |\n| --- | --- |\n\n4. Les schémas nationaux de certification satisfont aux exigences suivantes:\n\n| a) | seuls les fournisseurs visés à l’article 5 bis, paragraphe 2, du règlement (UE) no 910/2014 peuvent se voir délivrer des certificats dans le cadre des schémas nationaux de certification; |\n| --- | --- |\n\n| b) | seul le label de confiance est utilisé comme marque de conformité; |\n| --- | --- |\n\n| c) | les fournisseurs de solutions de portefeuille et le schéma d’identification électronique dans le cadre duquel ces solutions sont fournies mentionnent des références au règlement (UE) no 910/2014 et au présent règlement lorsqu’ils font référence au schéma; |\n| --- | --- |\n\n| d) | les fournisseurs de solutions de portefeuille et le schéma d’identification électronique dans le cadre duquel ces solutions sont fournies complètent l’évaluation des risques du schéma visée à l’article 3, paragraphe 5, point f), afin de recenser les risques et les menaces propres à leur mise en œuvre de la solution et de proposer des mesures de traitement appropriées pour tous les risques et menaces pertinents; |\n| --- | --- |\n\n| e) | les responsabilités et les recours juridictionnels sont établis et comprennent des références à la législation nationale applicable, qui définit les responsabilités et les voies de recours en cas d’utilisation frauduleuse de la certification relevant du schéma. |\n| --- | --- |\n\n5. L’évaluation visée au paragraphe 4, point d), est communiquée à l’organisme de certification pour évaluation.",
+      "text_sha256": "668d5893e0fc16798e7618ee2c865f23a71115dd0363569e2f0514ef93d2e8ba",
+      "md_span": {
+        "start": 9464,
+        "end": 12346
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_202402981FR.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les schémas nationaux de certification contiennent des exigences en matière de gestion des incidents et des vulnérabilités conformément aux paragraphes 2 à 9.\n\n2. Le titulaire du certificat de conformité d’une solution de portefeuille et du schéma d’identification électronique dans le cadre duquel elle est fournie notifie sans retard injustifié à son organisme de certification toute violation ou altération de la solution de portefeuille, ou du schéma d’identification électronique dans le cadre duquel elle est fournie, susceptible d’avoir une incidence sur sa conformité aux exigences des schémas nationaux de certification.\n\n3. Le titulaire d’un certificat de conformité établit, tient à jour et applique une politique et des procédures en matière de gestion des vulnérabilités, compte tenu des procédures établies dans les normes internationales et européennes existantes, notamment EN ISO/IEC 30111:2019.\n\n4. Le titulaire du certificat de conformité notifie à l’organisme de certification émetteur les vulnérabilités et les modifications affectant la solution de portefeuille, sur la base de critères définis concernant l’incidence de ces vulnérabilités et modifications.\n\n5. Le titulaire du certificat de conformité établit un rapport d’analyse d’impact des vulnérabilités pour toute vulnérabilité affectant les composants logiciels de la solution de portefeuille. Le rapport comporte les informations suivantes:\n\n| a) | l’impact de la vulnérabilité sur la solution de portefeuille certifiée; |\n| --- | --- |\n\n| b) | les risques éventuels liés à la proximité ou à la probabilité d’une attaque; |\n| --- | --- |\n\n| c) | les éventuelles possibilités de remédier à la vulnérabilité à l’aide des moyens disponibles; |\n| --- | --- |\n\n| d) | lorsqu’il est possible de remédier à la vulnérabilité à l’aide des moyens disponibles, les manières envisageables pour y remédier. |\n| --- | --- |\n\n6. Lorsqu’une notification est requise au paragraphe 4, le titulaire du certificat de conformité transmet sans retard injustifié à l’organisme de certification le rapport d’analyse d’impact des vulnérabilités mentionné au paragraphe 5.\n\n7. Le titulaire d’un certificat de conformité établit, tient à jour et applique une politique de gestion des vulnérabilités satisfaisant aux exigences énoncées à l’annexe I du règlement sur la cyberrésilience (12).\n\n8. Les schémas nationaux de certification établissent les exigences en matière de divulgation des vulnérabilités applicables aux organismes de certification.\n\n9. Le titulaire d’un certificat de conformité divulgue et enregistre toute vulnérabilité connue du public et corrigée dans la solution de portefeuille ou dans l’un des répertoires en ligne visés à l’annexe V.",
+      "text_sha256": "8b2ccde067f1eb8a264defdb5f48b1c0bb38fbf7b721a1ede71e35ba20e16bed",
+      "md_span": {
+        "start": 12379,
+        "end": 15105
+      },
+      "citations": [
+        {
+          "href": "#ntr12-L_202402981FR.000101-E0012",
+          "text": "(12)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les schémas nationaux de certification prévoient un processus de réexamen périodique de leur fonctionnement. Ce processus vise à confirmer leur caractère adéquat et à recenser les aspects à améliorer, en tenant compte des retours d’information des parties prenantes.\n\n2. Les schémas nationaux de certification prévoient des dispositions relatives à leur maintenance. Ces dispositions comprennent au moins les exigences suivantes:\n\n| a) | des règles concernant la gouvernance de la définition et des exigences des schémas nationaux de certification; |\n| --- | --- |\n\n| b) | l’établissement de calendriers pour la délivrance des certificats à la suite de l’adoption de versions actualisées des schémas nationaux de certification, tant pour les nouveaux certificats de conformité que pour les certificats précédemment délivrés; |\n| --- | --- |\n\n| c) | un réexamen périodique des schémas nationaux de certification, afin de veiller à l’application cohérente de leurs exigences, en tenant compte au moins des aspects suivants:—les demandes de clarification adressées au propriétaire du schéma national de certification en ce qui concerne les exigences de ce schéma,—le retour d’information des parties prenantes et des autres parties intéressées,—la réactivité du propriétaire du schéma national de certification aux demandes d’informations; |\n| --- | --- |\n| — | les demandes de clarification adressées au propriétaire du schéma national de certification en ce qui concerne les exigences de ce schéma, |\n| — | le retour d’information des parties prenantes et des autres parties intéressées, |\n| — | la réactivité du propriétaire du schéma national de certification aux demandes d’informations; |\n\n| d) | les règles relatives au suivi des documents de référence et des procédures pour l’évolution des versions de référence des schémas nationaux de certification, y compris au moins les périodes de transition; |\n| --- | --- |\n\n| e) | un processus visant à garantir que les risques et menaces les plus récents en matière de cybersécurité énumérés dans le registre des risques figurant à l’annexe I du présent règlement sont couverts; |\n| --- | --- |\n\n| f) | un processus relatif à la gestion d’autres modifications dans les schémas nationaux de certification. |\n| --- | --- |\n\n3. Les schémas nationaux de certification contiennent des exigences relatives à la réalisation d’évaluations des produits actuellement certifiés dans un certain délai après la révision du schéma, ou après la publication de nouvelles spécifications ou normes, ou de nouvelles versions de celles-ci, auxquelles les solutions de portefeuille et le schéma d’identification électronique dans le cadre duquel elles sont fournies doivent être conformes.",
+      "text_sha256": "5c6f07c93ce12dbbb9bf31ea8ca4c4515a21f0f54567a80560c4f9a64993856e",
+      "md_span": {
+        "start": 15138,
+        "end": 17869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les propriétaires de schémas élaborent et maintiennent des schémas nationaux de certification et régissent leurs activités.\n\n2. Les propriétaires de schémas peuvent sous-traiter tout ou partie de leurs tâches à un tiers. Lorsqu’ils sous-traitent à une partie privée, les propriétaires de schémas définissent par contrat les obligations et les responsabilités de toutes les parties. Les propriétaires de schémas restent responsables de toutes les activités sous-traitées réalisées par leurs sous-traitants.\n\n3. Les propriétaires de schémas exercent leurs activités de surveillance, le cas échéant, au moins sur la base des informations suivantes:\n\n| a) | informations provenant des organismes de certification, des organismes nationaux d’accréditation et des autorités compétentes de surveillance du marché; |\n| --- | --- |\n\n| b) | informations issues de leurs propres audits et enquêtes ou de ceux d’une autre autorité; |\n| --- | --- |\n\n| c) | réclamations et recours introduits en application de l’article 15. |\n| --- | --- |\n\n4. Les propriétaires de schémas informent le groupe de coopération des révisions des schémas nationaux de certification. Cette notification fournit au groupe de coopération des informations adéquates lui permettant de formuler des recommandations à l’intention des propriétaires de schémas et des avis sur les schémas nationaux de certification mis à jour.",
+      "text_sha256": "83e4567e0dd3907d1458a73eac654e86b414f82d1f76d8330c67200ce684dc48",
+      "md_span": {
+        "start": 17902,
+        "end": 19300
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Les schémas nationaux de certification contiennent des exigences en matière de cybersécurité fondées sur une évaluation des risques pour chaque architecture prise en charge. Ces exigences en matière de cybersécurité visent à traiter les risques et menaces de cybersécurité identifiés, tels qu’énumérés dans le registre des risques figurant à l’annexe I.\n\n2. Conformément à l’article 5 bis, paragraphe 23, du règlement (UE) no 910/2014, les schémas nationaux de certification exigent que les solutions de portefeuille et les schémas d’identification électronique dans le cadre desquels elles sont fournies résistent à des attaquants à potentiel d’attaque élevé et présentent donc un niveau de garantie élevé, conformément au règlement d’exécution (UE) 2015/1502.\n\n3. Les schémas nationaux de certification établissent des critères de sécurité qui comprennent les exigences suivantes:\n\n| a) | celles du règlement sur la cyberrésilience, le cas échéant, ou les exigences répondant aux objectifs de sécurité énoncés à l’article 51 du règlement (UE) 2019/881; |\n| --- | --- |\n\n| b) | l’établissement et la mise en œuvre de politiques et de procédures concernant la gestion des risques liés à l’exploitation d’une solution de portefeuille, y compris l’identification et l’évaluation des risques et l’atténuation des risques identifiés; |\n| --- | --- |\n\n| c) | l’établissement et la mise en œuvre de politiques et de procédures relatives à la gestion des modifications et à la gestion des vulnérabilités conformément à l’article 5 du présent règlement; |\n| --- | --- |\n\n| d) | l’établissement et la mise en œuvre de politiques et de procédures de gestion des ressources humaines, y compris des exigences en matière d’expertise, de fiabilité, d’expérience, de formation en matière de sécurité et de qualifications du personnel participant au développement ou à l’exploitation de la solution de portefeuille; |\n| --- | --- |\n\n| e) | les exigences relatives à l’environnement d’exploitation de la solution de portefeuille, notamment sous la forme d’hypothèses concernant la sécurité des dispositifs et plateformes sur lesquels fonctionnent les composants logiciels de la solution de portefeuille, y compris les WSCD et, si nécessaire et le cas échéant, les exigences en matière d’évaluation de la conformité permettant de confirmer que ces hypothèses sont vérifiées sur les dispositifs et plateformes concernés; |\n| --- | --- |\n\n| f) | pour toute hypothèse qui n’est pas étayée par un certificat de conformité ou d’autres informations acceptables en matière de garantie, une description du mécanisme que le fournisseur de portefeuille utilise pour étayer l’hypothèse, ainsi qu’une justification du fait que le mécanisme est suffisant pour faire en sorte que l’hypothèse soit vérifiée; |\n| --- | --- |\n\n| g) | la mise en place et l’application de mesures qui garantissent que la version de la solution de portefeuille actuellement utilisée est certifiée. |\n| --- | --- |\n\n4. Les schémas nationaux de certification contiennent des exigences fonctionnelles relatives aux mécanismes de mise à jour pour chaque composant logiciel des solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel ces solutions sont fournies pour les opérations énumérées à l’annexe III.\n\n5. Les schémas nationaux de certification exigent que les informations et documents suivants soient fournis ou mis à la disposition de l’organisme de certification par le demandeur de la certification:\n\n| a) | les éléments de preuve relatifs aux informations visées à l’annexe IV, point 1, y compris, le cas échéant, des précisions sur la solution de portefeuille et son code source, telles que:—des informations sur l’architecture: pour chaque composant de la solution de portefeuille (y compris les composants de produits, de processus et de services), une description de ses propriétés essentielles de sécurité, notamment ses dépendances externes,—des contrôles et des niveaux de garantie: pour chaque contrôle de sécurité de la solution de portefeuille, une description du contrôle et du niveau de garantie requis, sur la base de l’annexe du règlement d’exécution (UE) 2015/1502, qui définit un certain nombre de spécifications techniques et de procédures applicables aux différents contrôles mis en œuvre par les moyens d’identification électronique,—une mise en correspondance des contrôles avec les composantes de l’architecture: une description de la manière dont les contrôles du portefeuille sont mis en œuvre à l’aide des différents composants de la solution de portefeuille, fondée sur un exposé des motifs pour lesquels un certain niveau de garantie est requis, et une explication de la manière dont le contrôle est mis en œuvre avec tous les aspects de sécurité requis au niveau approprié,—une motivation et une justification de la couverture des risques: une justification:—de la mise en correspondance des contrôles avec les composants,—de la pertinence du plan d’évaluation proposé pour que tous les contrôles soient couverts de manière appropriée,—la couverture fournie par les contrôles des risques et menaces liés à la cybersécurité recensés dans le registre des risques, complétés par des contrôles des risques et des menaces spécifiques à la mise en œuvre, au niveau de garantie approprié; |\n| --- | --- |\n| — | des informations sur l’architecture: pour chaque composant de la solution de portefeuille (y compris les composants de produits, de processus et de services), une description de ses propriétés essentielles de sécurité, notamment ses dépendances externes, |\n| — | des contrôles et des niveaux de garantie: pour chaque contrôle de sécurité de la solution de portefeuille, une description du contrôle et du niveau de garantie requis, sur la base de l’annexe du règlement d’exécution (UE) 2015/1502, qui définit un certain nombre de spécifications techniques et de procédures applicables aux différents contrôles mis en œuvre par les moyens d’identification électronique, |\n| — | une mise en correspondance des contrôles avec les composantes de l’architecture: une description de la manière dont les contrôles du portefeuille sont mis en œuvre à l’aide des différents composants de la solution de portefeuille, fondée sur un exposé des motifs pour lesquels un certain niveau de garantie est requis, et une explication de la manière dont le contrôle est mis en œuvre avec tous les aspects de sécurité requis au niveau approprié, |\n| — | une motivation et une justification de la couverture des risques: une justification:—de la mise en correspondance des contrôles avec les composants,—de la pertinence du plan d’évaluation proposé pour que tous les contrôles soient couverts de manière appropriée,—la couverture fournie par les contrôles des risques et menaces liés à la cybersécurité recensés dans le registre des risques, complétés par des contrôles des risques et des menaces spécifiques à la mise en œuvre, au niveau de garantie approprié; |\n| — | de la mise en correspondance des contrôles avec les composants, |\n| — | de la pertinence du plan d’évaluation proposé pour que tous les contrôles soient couverts de manière appropriée, |\n| — | la couverture fournie par les contrôles des risques et menaces liés à la cybersécurité recensés dans le registre des risques, complétés par des contrôles des risques et des menaces spécifiques à la mise en œuvre, au niveau de garantie approprié; |\n\n| b) | les informations énumérées à l’annexe V; |\n| --- | --- |\n\n| c) | une liste complète des certificats de conformité et des autres informations en matière de garantie utilisées comme preuves au cours des activités d’évaluation; |\n| --- | --- |\n\n| d) | toute autre information pertinente pour les activités d’évaluation. |\n| --- | --- |",
+      "text_sha256": "351813cad121ea9b058c945612c3ea3e011dee861d73efede3ee2e2010376c25",
+      "md_span": {
+        "start": 19333,
+        "end": 27094
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les organismes de certification sont accrédités par des organismes nationaux d’accréditation désignés en application du règlement (CE) no 765/2008 du Parlement européen et du Conseil (13) conformément à la norme EN ISO/IEC 17065:2012, pour autant qu’ils satisfassent aux exigences énoncées dans les schémas nationaux de certification conformément au paragraphe 2.\n\n2. Aux fins de l’accréditation, les organismes de certification satisfont à toutes les exigences de compétence suivantes:\n\n| a) | connaissance détaillée et technique des architectures pertinentes d’une solution de portefeuille et du schéma d’identification électronique dans le cadre duquel celle-ci est fournie, ainsi que des menaces et des risques pertinents pour ces architectures; |\n| --- | --- |\n\n| b) | connaissance des solutions de sécurité disponibles et de leurs propriétés conformément à l’annexe du règlement d’exécution (UE) 2015/1502; |\n| --- | --- |\n\n| c) | connaissance des activités exécutées au titre des certificats de conformité appliqués aux composants de la solution de portefeuille et du schéma d’identification électronique dans le cadre duquel celle-ci est fournie, comme faisant l’objet de la certification; |\n| --- | --- |\n\n| d) | connaissance détaillée du schéma national de certification applicable établi conformément au chapitre II. |\n| --- | --- |\n\n3. Les organismes de certification exercent leurs activités de surveillance notamment sur la base des informations suivantes:\n\n| a) | informations provenant des organismes nationaux d’accréditation et des autorités compétentes de surveillance du marché; |\n| --- | --- |\n\n| b) | informations issues de leurs propres audits et enquêtes ou de ceux d’une autre autorité; |\n| --- | --- |\n\n| c) | réclamations et recours introduits en application de l’article 15. |\n| --- | --- |",
+      "text_sha256": "9664951d3fa718566cdb666052f9522a8c160d2f4feb2ff7811bf7b0b754813b",
+      "md_span": {
+        "start": 27127,
+        "end": 28959
+      },
+      "citations": [
+        {
+          "href": "#ntr13-L_202402981FR.000101-E0013",
+          "text": "(13)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes organismes de certification peuvent sous-traiter les activités d’évaluation visées à l’article 13 à des tiers. Lorsque les activités d’évaluation sont sous-traitées, les schémas nationaux de certification établissent:\n\n| 1) | que tous les sous-traitants de l’organisme de certification effectuant des activités d’évaluation satisfont, le cas échéant et en fonction des activités à réaliser, aux exigences de normes harmonisées telles que EN ISO/IEC 17025:2017 pour les essais, EN ISO/IEC 17020:2012 pour l’inspection, EN ISO/IEC 17021-1:2015 pour l’audit et EN ISO/IEC 17029:2019 pour la validation et la vérification; |\n| --- | --- |\n\n| 2) | que les organismes de certification assument la responsabilité de toutes les activités d’évaluation sous-traitées à d’autres organismes et démontrent qu’ils ont pris les mesures appropriées au cours de leur accréditation, y compris en s’appuyant, le cas échéant, sur leur propre accréditation de leurs sous-traitants; |\n| --- | --- |\n\n| 3) | dans quelle mesure un accord préalable à la sous-traitance doit être obtenu auprès des propriétaires de schémas ou du client dont la solution de portefeuille est certifiée dans le cadre du schéma de certification. |\n| --- | --- |",
+      "text_sha256": "aee30cff1f156d49dd06901829db9177fea09ee8b3213ab22a4b029ea98593c5",
+      "md_span": {
+        "start": 28994,
+        "end": 30224
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLes organismes de certification notifient à l’organe de contrôle visé à l’article 46 bis, paragraphe 1, du règlement (UE) no 910/2014 la délivrance, la suspension et l’annulation des certificats de conformité d’une solution de portefeuille et du schéma d’identification électronique dans le cadre duquel elle est fournie.",
+      "text_sha256": "cf3d9a8357ebf998992cfac8f57c842abd306f769eb0d7e7e33081b03bd59e6e",
+      "md_span": {
+        "start": 30259,
+        "end": 30592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les organismes de certification suspendent, sans retard injustifié, le certificat de conformité des solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel elles sont fournies après avoir confirmé que l’atteinte à la sécurité ou l’altération notifiée a un impact sur la conformité avec les exigences des schémas nationaux de certification de la solution de portefeuille ou du schéma d’identification électronique dans le cadre duquel elle est fournie.\n\n2. Les organismes de certification annulent le certificat de conformité qui a été suspendu à la suite d’une atteinte à la sécurité ou d’une altération à laquelle il n’a pas été remédié en temps utile.\n\n3. Les organismes de certification annulent les certificats de conformité lorsqu’il n’a pas été remédié en temps utile à une vulnérabilité identifiée de manière proportionnée à sa gravité et à son impact potentiel, conformément à l’article 5 quater, paragraphe 4, et à l’article 5 sexies, paragraphe 2, du règlement (UE) no 910/2014.",
+      "text_sha256": "e497db312f8d276e576c47350ec20f0bb00cf66170e94afe1b7507428859ab09",
+      "md_span": {
+        "start": 30627,
+        "end": 31664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les schémas nationaux de certification contiennent les méthodes et procédures à utiliser par les organismes d’évaluation de la conformité dans le cadre de leurs activités d’évaluation conformément à la norme EN ISO/IEC 17065:2012, qui couvrent au moins les aspects suivants:\n\n| a) | les méthodes et procédures permettant d’exécuter les activités d’évaluation, y compris celles liées au WSCD, comme indiqué à l’annexe IV; |\n| --- | --- |\n\n| b) | l’audit de la mise en œuvre de la solution de portefeuille et du schéma d’identification électronique dans le cadre duquel elle est fournie, sur la base du registre des risques figurant à l’annexe I complété, si nécessaire, par des risques propres à la mise en œuvre; |\n| --- | --- |\n\n| c) | les activités de test fonctionnel, fondées, lorsqu’elles sont disponibles et appropriées, sur des suites d’essais définies conformément aux spécifications ou normes techniques; |\n| --- | --- |\n\n| d) | l’évaluation de l’existence et de l’adéquation des processus de maintenance, y compris au moins la gestion de la version, la gestion des mises à jour et la gestion des vulnérabilités; |\n| --- | --- |\n\n| e) | l’évaluation de l’efficacité opérationnelle des processus de maintenance, y compris au moins la gestion de la version, la gestion des mises à jour et la gestion des vulnérabilités; |\n| --- | --- |\n\n| f) | l’analyse des dépendances communiquée par le fournisseur de portefeuille, notamment une méthode d’évaluation de l’acceptabilité des informations en matière de garantie, qui comprend les éléments énoncés à l’annexe VI; |\n| --- | --- |\n\n| g) | l’évaluation des vulnérabilités, au niveau approprié, y compris:—un examen de la conception de la solution de portefeuille et, le cas échéant, de son code source,—des tests de résistance de la solution de portefeuille à des attaquants à potentiel d’attaque élevé pour le niveau de garantie «élevé» conformément à la section 2.2.1 de l’annexe du règlement d’exécution (UE) 2015/1502; |\n| --- | --- |\n| — | un examen de la conception de la solution de portefeuille et, le cas échéant, de son code source, |\n| — | des tests de résistance de la solution de portefeuille à des attaquants à potentiel d’attaque élevé pour le niveau de garantie «élevé» conformément à la section 2.2.1 de l’annexe du règlement d’exécution (UE) 2015/1502; |\n\n| h) | l’évaluation de l’évolution de l’environnement de menaces et de son impact sur la couverture des risques par la solution de portefeuille, afin de déterminer les activités d’évaluation à exécuter sur les différents composants de la solution de portefeuille. |\n| --- | --- |\n\n2. Les schémas nationaux de certification contiennent une évaluation visant à déterminer si la mise en œuvre de solutions de portefeuille et le schéma d’identification électronique dans le cadre duquel ces solutions sont fournies correspondent à l’architecture définie à l’article 3, paragraphe 5, point a), ainsi qu’une évaluation visant à déterminer si le plan d’évaluation proposé conjointement avec la mise en œuvre correspond au plan d’évaluation visé à l’article 3, paragraphe 5, point c).\n\n3. Les schémas nationaux de certification définissent des règles d’échantillonnage de manière à éviter de reproduire des activités d’évaluation identiques et afin de se concentrer sur des activités spécifiques à une variante donnée. Ces règles d’échantillonnage permettent de ne réaliser des tests fonctionnels et des tests de sécurité que sur un échantillon de variantes d’un composant cible de solution de portefeuille et du schéma d’identification électronique dans le cadre duquel la solution est fournie et sur un échantillon de dispositifs cibles. Les schémas nationaux de certification exigent de tous les organismes de certification qu’ils justifient leur recours à l’échantillonnage.\n\n4. Les schémas nationaux de certification exigent que l’organisme de certification évalue la WSCA sur la base des méthodes et procédures décrites à l’annexe IV.",
+      "text_sha256": "bba15054533cd496141d0aec58e3fb8616685d2bf877aa222259969bb0da922c",
+      "md_span": {
+        "start": 31699,
+        "end": 35673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les schémas nationaux de certification prévoient une activité d’attestation pour la délivrance d’un certificat de conformité, conformément à la norme EN ISO/IEC 17067:2013, tableau 1, section V a), portant notamment sur:\n\n| a) | le contenu du certificat de conformité prévu à l’annexe VII; |\n| --- | --- |\n\n| b) | la manière dont les résultats de l’évaluation doivent être consignés dans le rapport public de certification, y compris au moins un résumé du plan préliminaire d’audit et de validation, comme indiqué à l’annexe VIII; |\n| --- | --- |\n\n| c) | le contenu des résultats de l’évaluation consignés dans le rapport d’évaluation de la certification, y compris les éléments énoncés à l’annexe VIII. |\n| --- | --- |\n\n2. Le rapport d’évaluation de la certification peut être mis à la disposition du groupe de coopération et de la Commission.",
+      "text_sha256": "f3b4011968d88ca5b29f8431fa273e62ca33edc924c6c939dce97516bb7ea49b",
+      "md_span": {
+        "start": 35708,
+        "end": 36567
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLes schémas nationaux de certification contiennent des procédures ou des références à la législation nationale applicable, qui définissent le mécanisme relatif à l’introduction et au traitement efficaces de réclamations et de recours liés à leur mise en œuvre du schéma de certification ou à un certificat de conformité délivré. Ces procédures comprennent la communication à l’auteur de la réclamation d’informations sur l’état d’avancement de la procédure et sur la décision prise ainsi que sur le droit à un recours juridictionnel effectif. Les schémas nationaux de certification exigent que toutes les réclamations et tous les recours qui n’ont pas été résolus ou qui ne peuvent pas être résolus par l’organisme de certification soient envoyés au propriétaire du schéma pour évaluation et résolution.",
+      "text_sha256": "4c433de37a50adc0439d91ea5b1249fd1bc6f515cc0a391dbcdc31cd52e7582f",
+      "md_span": {
+        "start": 36602,
+        "end": 37417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les schémas nationaux de certification exigent que les organismes de certification mettent en œuvre des activités de surveillance consistant en une évaluation de processus combinée à des tests ou inspections aléatoires.\n\n2. Les schémas nationaux de certification contiennent des exigences imposant aux propriétaires de schémas de contrôler le respect, par les organismes de certification, des obligations qui leur incombent en vertu du règlement (UE) no 910/2014 et des schémas nationaux de certification, le cas échéant.\n\n3. Les schémas nationaux de certification contiennent des exigences imposant aux organismes de certification de contrôler les éléments suivants:\n\n| a) | le respect, par les titulaires d’un certificat de conformité délivré dans le cadre de schémas nationaux de certification, des obligations qui leur incombent en matière de certification en vertu du règlement (UE) no 910/2014 et des schémas nationaux de certification; |\n| --- | --- |\n\n| b) | la conformité de la solution de portefeuille certifiée aux exigences énoncées dans les schémas nationaux de certification. |\n| --- | --- |",
+      "text_sha256": "e3b8b93af28303ada4e309a929320bed832c89c545bff3283b481fae3df3ae32",
+      "md_span": {
+        "start": 37452,
+        "end": 38572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLes schémas nationaux de certification définissent les conséquences de la non-conformité d’une solution de portefeuille certifiée et du schéma d’identification électronique dans le cadre duquel elle est fournie avec les exigences énoncées dans le présent règlement. Ces conséquences comprennent notamment:\n\n| 1) | l’obligation faite à l’organisme de certification d’informer le titulaire du certificat de conformité et de lui demander d’appliquer des mesures correctives; |\n| --- | --- |\n\n| 2) | l’obligation faite à l’organisme de certification d’informer les autres autorités de surveillance du marché concernées lorsque la non-conformité concerne la législation pertinente de l’Union; |\n| --- | --- |\n\n| 3) | les conditions d’exécution des actions correctives par le titulaire du certificat de conformité; |\n| --- | --- |\n\n| 4) | les conditions de suspension d’un certificat de conformité par l’organisme de certification et de rétablissement du certificat de conformité après qu’il a été remédié à la non-conformité; |\n| --- | --- |\n\n| 5) | les conditions d’annulation d’un certificat de conformité par l’organisme de certification; |\n| --- | --- |\n\n| 6) | les conséquences du non-respect, par l’organisme de certification, des exigences du schéma national de certification. |\n| --- | --- |",
+      "text_sha256": "e57a1c19679ac7bfec6ec87f201893cf95f30c0e2f5fa2a1caa30a55c42f2ddd",
+      "md_span": {
+        "start": 38607,
+        "end": 39913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. La validité des certificats de conformité délivrés dans le cadre de schémas nationaux de certification fait l’objet d’activités d’évaluation régulières exécutées par l’organisme de certification conformément aux exigences énoncées à l’annexe IX.\n\n2. Les schémas nationaux de certification contiennent un processus de recertification des solutions de portefeuille et du schéma d’identification électronique dans le cadre duquel elles sont fournies, à la demande du titulaire du certificat de conformité avant l’expiration du certificat de conformité initial. Ce processus de recertification comprend une évaluation complète de la solution de portefeuille et du schéma d’identification électronique dans le cadre duquel elle est fournie, y compris une évaluation des vulnérabilités, conformément aux principes énoncés à l’annexe IX.\n\n3. Les schémas nationaux de certification contiennent une procédure pour la gestion des modifications apportées à une solution de portefeuille certifiée et au schéma d’identification électronique dans le cadre duquel elle est fournie. Cette procédure comprend des règles permettant de déterminer si une modification doit être soumise à l’évaluation spéciale mentionnée au paragraphe 4 ou à la vérification de l’efficacité opérationnelle des processus de maintenance mentionnée à l’annexe IV.\n\n4. Les schémas nationaux de certification contiennent une procédure relative aux évaluations spéciales conforme à la norme EN ISO/IEC 17065:2012. Cette procédure comprend une série d’activités à réaliser pour résoudre le problème spécifique qui a rendu nécessaire l’évaluation spéciale.\n\n5. Les schémas nationaux de certification établissent les règles applicables à l’annulation d’un certificat de conformité.",
+      "text_sha256": "ddbf1acd700fd2763f0872801439375b5efa9b427f6785a6b75c9a7dd4619e14",
+      "md_span": {
+        "start": 39948,
+        "end": 41698
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les schémas nationaux de certification contiennent des dispositions applicables aux organismes de certification concernant un système permettant d’enregistrer toutes les informations pertinentes produites en lien avec les activités d’évaluation de la conformité qu’ils réalisent, y compris les données délivrées et reçues par les fournisseurs de solutions de portefeuille et les schémas d’identification électronique dans le cadre desquels ces solutions sont fournies. Les enregistrements de ces informations sont conservés de manière sécurisée. Les enregistrements peuvent être conservés sous forme électronique et restent accessibles aussi longtemps que le droit de l’Union ou le droit national l’exige, et pendant au moins cinq ans après l’annulation ou l’expiration du certificat de conformité correspondant.\n\n2. Les schémas nationaux de certification imposent au titulaire du certificat de conformité de conserver de manière sécurisée les informations suivantes aux fins du présent règlement, et ce pendant au moins cinq ans après l’annulation ou l’expiration du certificat de conformité correspondant:\n\n| a) | les enregistrements des informations fournies à l’organisme de certification ou à l’un quelconque de ses sous-traitants au cours de la procédure de certification; |\n| --- | --- |\n\n| b) | des échantillons de composants matériels qui relèvent du champ d’application de la certification de la solution de portefeuille. |\n| --- | --- |\n\n3. Les schémas nationaux de certification exigent du titulaire du certificat de conformité qu’il mette, sur demande, les informations visées au paragraphe 1 à la disposition de l’organisme de certification ou de l’organe de contrôle visé à l’article 46 bis, paragraphe 1, du règlement (UE) no 910/2014.",
+      "text_sha256": "8634580266ffa42a4ab0f499ff5395eebb9f86d66411f519bbd51d26a8836408",
+      "md_span": {
+        "start": 41733,
+        "end": 43499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nDans le cadre des schémas nationaux de certification, toutes les personnes ou organisations qui se voient accorder l’accès à des informations au titre de l’exécution d’activités relevant du schéma national de certification sont tenues d’assurer la sécurité et la protection des secrets d’affaires et autres informations confidentielles, ainsi que de préserver les droits de propriété intellectuelle, et de prendre les mesures techniques et organisationnelles nécessaires et appropriées pour garantir cette confidentialité.",
+      "text_sha256": "28ad0d23653dedec0d6299ffe48c588f297824d3cc02f197cb49ba5ac63f97c5",
+      "md_span": {
+        "start": 43534,
+        "end": 44068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLe présent règlement fait l’objet d’un réexamen, lors de l’adoption du premier schéma européen de certification de cybersécurité pour les solutions de portefeuille et les schémas d’identification électronique dans le cadre desquels celles-ci sont fournies, dans le but de tenir compte de la contribution de ce schéma à la certification globale des solutions de portefeuille et des schémas d’identification électronique dans le cadre desquels elles sont fournies.",
+      "text_sha256": "6680099681b47cc803310c46f2de2de31e5cfe113c797da23ac22a399c085b44",
+      "md_span": {
+        "start": 44103,
+        "end": 44577
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32024r2981:2024-11-28--58dbf3fbb230c8f7a702434f6bd20ca374645dfd5ad9215df02fc959e730b73d#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f545602c422ce2eee23d959cb05734f744dea714ab776a4538e2401eb5a99ccf",
+      "md_span": {
+        "start": 44612,
+        "end": 44754
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

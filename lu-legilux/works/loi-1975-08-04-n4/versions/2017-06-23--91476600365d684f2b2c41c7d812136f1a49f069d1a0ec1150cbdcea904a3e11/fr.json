@@ -1,0 +1,266 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/06/2017 : Loi du 4 août 1975 concernant la fabrication et l'importation des médicaments.",
+  "valid_from": "2017-06-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1975-08-04-n4/versions/2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11/fr.xml",
+    "sha256": "c399717a1f4d31cb97f8120aa467147dbe3edacb57184130e2d0d78a7b84c654",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/consolide/20170623/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_1er/19750822",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Pour l'application de la présente loi et des règlements qui seront pris en son exécution on entend par:\n\n1. Médicament: Toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l'égard des maladies humaines ou animales. Toute substance ou composition pouvant être administrée à l'homme ou à l'animal en vue d'établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l'homme ou l'animal est également considérée comme médicament.\n2. Substance: Toute matière quelle qu'en soit l'origine, celle-ci pouvant être: humaine, telle que: le sang humain et les produits dérivés du sang humain; animale, telle que: les micro-organismes, animaux entiers, parties d'organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang, etc; végétale, telle que: les micro-organismes, plantes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc; chimique, telle que: les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.\n3. Fabrication: Toute opération destinée à assurer la mise sous forme pharmaceutique d’un médicament, son conditionnement, reconditionnement, sa division jusque et y compris l’apposition d’étiquettes.\n4. Importation: Toute opération ayant pour effet d'introduire à des fins commerciales sur le territoire national des médicaments.\n5. Lot de fabrication: L'ensemble des unités d'une forme pharmaceutique provenant d'un même cycle de fabrication ou soumise à une même opération de stérilisation. La caractéristique essentielle d'un lot de fabrication est son homogénéité. Celle-ci est déterminée par l'utilisation d'une même masse initiale, conforme aux normes établies, et des moyens mécaniques adoptés.\n6. Forme pharmaceutique: Toutes les formes usitées en vue de l'administration ou de l'application d'un médicament.",
+      "text_sha256": "c3daa4860c9e0009cf5ff05283057c69d4c7bf15355c0dfd867ac490c3629138",
+      "md_span": {
+        "start": 727,
+        "end": 2645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_2/19750822",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Sans préjudice d’autres dispositions légales la fabrication et l’importation des médicaments sont placées sous le contrôle du ministre ayant la santé dans ses attributions, ci-après « le ministre ».",
+      "text_sha256": "bcd01bfe70da17f42d12cfa38bca10a529ab820edac0229ee37890fcf32152a6",
+      "md_span": {
+        "start": 2680,
+        "end": 2878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_3/19750822",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — **Fabrication**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "La fabrication des médicaments est subordonnée à une autorisation préalable délivrée par le ministre.\n\nL’autorisation visée à l’alinéa 1er est exigée tant pour la fabrication totale ou partielle que pour les opérations de division, de conditionnement ou de reconditionnement.\n\nToutefois, l’autorisation visée à l’alinéa 1er n’est pas exigée pour les préparations, divisions, conditionnements ou reconditionnements, dans la mesure où ces opérations sont exécutées par les pharmaciens dans les officines ouvertes au public ou dans les pharmacies hospitalières.\n\nUn règlement grand-ducal déterminera les normes de qualité et de sécurité à respecter par le pharmacien qui prépare, divise, conditionne ou reconditionne des médicaments.",
+      "text_sha256": "408d0b9ead2dd93f68cde20da82183d2299af395d87924c3404be0f44fd77443",
+      "md_span": {
+        "start": 2948,
+        "end": 3678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_4/19750822",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — **Fabrication**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "La fabrication se fait sous la surveillance effective du pharmacien responsable, agréé par le ministre.\n\nLe pharmacien responsable ne peut prêter ses services qu’à un seul fabricant. Il ne peut ni tenir une officine ni y être occupé. Tout manquement grave à une des obligations qui lui incombent en vertu de la présente loi et de ses règlements d’exécution peut entraîner le retrait temporaire ou définitif de son agrément.",
+      "text_sha256": "77b1d24de4b73214fea402cea697efd2ef9a3cb96f3913a28cb6488df20fab03",
+      "md_span": {
+        "start": 3713,
+        "end": 4136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_5/19750822",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — **Fabrication**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Les indications que la personne qui se propose de fabriquer des médicaments doit fournir dans sa demande, les conditions auxquelles l'autorisation peut être accordée, et notamment celles ayant trait aux locaux et au personnel, les obligations du fabricant et du pharmacien-responsable, seront déterminées par règlement grand-ducal.\n\nUn règlement grand-ducal pourra également déterminer les exigences auxquelles les médicaments doivent satisfaire quant à leur composition, et notamment quant aux matières colorantes qu’ils contiennent.",
+      "text_sha256": "a7009c947a77a6cc881286e5f23e19f588d8c8c12b7f36e7c5768f69a59ba40e",
+      "md_span": {
+        "start": 4171,
+        "end": 4705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_8/19750822",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — **Dispositions communes**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "La demande d'autorisation fait l'objet d'une enquête et d'un rapport dressé par un fonctionnaire pharmacien de l'Inspection des Pharmacies.\n\nCe fonctionnaire peut, lors de l'enquête, se faire assister par un expert.",
+      "text_sha256": "5213cf2d79e596dd23e61c52e41e63c88701d32af65182891a86170f03fbe215",
+      "md_span": {
+        "start": 4785,
+        "end": 5000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_9/19750822",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — **Dispositions communes**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Le ministre notifiera sa décision au demandeur. Le refus d’autorisation sera motivé.",
+      "text_sha256": "1543cdbe79f538bd48b8e922d714460f04d46a65338887deb0b8c223887dd5c4",
+      "md_span": {
+        "start": 5035,
+        "end": 5119
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_10/19750822",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — **Dispositions communes**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Toute modification à apporter aux éléments ayant servi de base à l’octroi d’une autorisation prévue à l’article 3 doit être préalablement et par écrit portée à la connaissance du ministre. De même ce ministre est à informer immédiatement et par écrit de toute modification survenue indépendamment de la volonté du titulaire de l’autorisation. Le ministre décide si une modification de l’autorisation s’impose.",
+      "text_sha256": "4d0935835c25c01e9e135faa17965877f552265b357ec1af1899c78694bf4a27",
+      "md_span": {
+        "start": 5156,
+        "end": 5565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_11/19750822",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — **Dispositions communes**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Le titulaire d'une autorisation de fabriquer ou d'importer des médicaments ne peut vendre, offrir en vente, répartir ou céder ces médicaments qu'à des personnes qui en vertu des dispositions légales en vigueur sont elles-mêmes autorisées à vendre ou à délivrer des médicaments.",
+      "text_sha256": "1c74bd7b9dfb8657dc14b82b2635c628908feba75b3a2958075542eb16f192db",
+      "md_span": {
+        "start": 5602,
+        "end": 5879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_12/19750822",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — **Dispositions communes**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Tout manquement grave à une des obligations incombant au fabricant ou à l'importateur en vertu de la présente loi et de ses règlements d'exécution peut entraîner le retrait temporaire ou définitif, total ou partiel de l'autorisation. Le retrait de l'autorisation sera motivé.",
+      "text_sha256": "02e10eb14b1483de4e26682dbedcb25f4454e93b044847279e0f989a0c1d8fe7",
+      "md_span": {
+        "start": 5916,
+        "end": 6191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_13/19750822",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — **Mesures transitoires**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Les détenteurs d'une autorisation de fabrication ou d'importation, délivrée en vertu de l'arrêté grand-ducal du 12 juillet 1927, portant réglementation de la préparation, de la conservation et de la vente en gros des substances médicamenteuses et des produits pharmaceutiques en général, disposent d'un délai de six mois, à partir de l'entrée en vigueur de la présente loi pour se conformer aux nouvelles dispositions.\n\nDans un délai de 3 mois ils devront introduire une demande en due forme auprès du ministre.\n\nUn accusé de réception sera délivré aux demandeurs qui leur servira d'autorisation provisoire.",
+      "text_sha256": "759f9aa24601233f71a3e43daebdd093d19852bb30b1aaa0f3b863fea1d567f1",
+      "md_span": {
+        "start": 6271,
+        "end": 6878
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1927/07/12/n1/jo",
+          "text": "arrêté grand-ducal du 12 juillet 1927"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1975-08-04-n4:2017-06-23--91476600365d684f2b2c41c7d812136f1a49f069d1a0ec1150cbdcea904a3e11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/art_14/19750822",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — **Dispositions pénales**"
+      ],
+      "article_valid_from": "2017-06-23",
+      "text_md": "Les infractions aux dispositions de là présente loi et des règlements qui seront pris en son exécution seront punies d’un emprisonnement de 8 jours à 6 mois et d’une amende de 251 à 10.000 euros ou d’une de ces peines seulement. Les dispositions du livre Ier du code pénal ainsi que les articles 130-1 à 132-1 du Code de procédure pénale sont applicables à ces infractions.",
+      "text_sha256": "0f115b8bbcf65fa09f31f79cc4e1b44d65d9527ce2dd2bb4c60befd33671a0cc",
+      "md_span": {
+        "start": 6959,
+        "end": 7332
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

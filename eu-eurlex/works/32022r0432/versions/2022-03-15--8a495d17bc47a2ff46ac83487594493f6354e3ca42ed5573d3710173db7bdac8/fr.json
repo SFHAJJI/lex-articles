@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0432:2022-03-15--8a495d17bc47a2ff46ac83487594493f6354e3ca42ed5573d3710173db7bdac8",
+  "language": "fr",
+  "title": "Council Implementing Regulation (EU) 2022/432 of 15\u00A0March 2022 amending Implementing Regul…",
+  "valid_from": "2022-03-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0432/versions/2022-03-15--8a495d17bc47a2ff46ac83487594493f6354e3ca42ed5573d3710173db7bdac8/fr.xml",
+    "sha256": "cdb060c34ae621713140eaa1e2e15178777cac91e9b6304d31bf3916f8586d84",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0432"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0432:2022-03-15--8a495d17bc47a2ff46ac83487594493f6354e3ca42ed5573d3710173db7bdac8#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) no 282/2011 est modifié comme suit:\n\n| 1) | L’annexe II est remplacée par le texte figurant à l’annexe I du présent règlement. |\n| --- | --- |\n\n| 2) | L’annexe II est remplacée par le texte figurant à l’annexe II du présent règlement. |\n| --- | --- |",
+      "text_sha256": "228ce3f914d9d1d9185bd4276da0c33edc26bcc6340cbc0c3a11f256c2c11b01",
+      "md_span": {
+        "start": 702,
+        "end": 999
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0432:2022-03-15--8a495d17bc47a2ff46ac83487594493f6354e3ca42ed5573d3710173db7bdac8#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour de sa publication au Journal officiel de l’Union européenne.\n\nL’article 1er, point 1), est applicable à partir du 30 juin 2022.\n\nL’article 1er, point 2), est applicable à partir du 1er juillet 2022.",
+      "text_sha256": "3f2714e08aea46aad47e0df92d5716cbceea34b7c2755fccb0dab08b2c144107",
+      "md_span": {
+        "start": 1032,
+        "end": 1287
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

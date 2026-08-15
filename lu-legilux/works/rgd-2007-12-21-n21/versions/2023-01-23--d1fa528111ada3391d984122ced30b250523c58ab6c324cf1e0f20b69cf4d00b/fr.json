@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2007-12-21-n21:2023-01-23--d1fa528111ada3391d984122ced30b250523c58ab6c324cf1e0f20b69cf4d00b",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/01/2023 : Règlement grand-ducal du 21 décembre 2007 fixant une liste de pays d'origine sûrs au sens de la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection.",
+  "valid_from": "2023-01-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2007-12-21-n21/versions/2023-01-23--d1fa528111ada3391d984122ced30b250523c58ab6c324cf1e0f20b69cf4d00b/fr.xml",
+    "sha256": "b7276cfb3b958c21556b1946b1ce989e2cdc941c1497c3ed6ca12dcb75142eb4",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20230123/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2007-12-21-n21:2023-01-23--d1fa528111ada3391d984122ced30b250523c58ab6c324cf1e0f20b69cf4d00b#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/art_1er/20230123",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-01-23",
+      "text_md": "**(1)** Sont considérés comme pays d'origine sûrs au sens de l'article 21 de la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection:\n\n- la République d'Albanie;\n- la République du Bénin;\n- la République de Bosnie-Herzégovine;\n- la République du Cap-Vert;\n- la République de Croatie;\n- la République du Ghana;\n- la République de Macédoine du Nord\n- la République du Mali;\n- la République du Monténégro;\n- la République du Sénégal;\n- l'Ukraine.\n- la République de Serbie\n- la République du Kosovo.\n- la Géorgie\n\n**(2)** Sans préjudice du paragraphe qui précède, sont considérés comme pays d'origine sûrs uniquement à l'égard des demandeurs de protection internationale de sexe masculin:\n\n- la République du Bénin;\n- la République du Ghana;\n- la République du Mali.",
+      "text_sha256": "e8020df21fc82a722ea8945a723ef57944b7ad4a63ebb29650eeca73dfd090ef",
+      "md_span": {
+        "start": 800,
+        "end": 1609
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/05/05/n1/jo",
+          "text": "loi modifiée du 5 mai 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2007-12-21-n21:2023-01-23--d1fa528111ada3391d984122ced30b250523c58ab6c324cf1e0f20b69cf4d00b#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/art_2/20080103",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-01-03",
+      "text_md": "Notre Ministre délégué aux Affaires étrangères et à l'Immigration est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "90893b940c6baa3d2caa64c242ebbda16f6ba1d283a6e86e682bfa07fe09254e",
+      "md_span": {
+        "start": 1644,
+        "end": 1785
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

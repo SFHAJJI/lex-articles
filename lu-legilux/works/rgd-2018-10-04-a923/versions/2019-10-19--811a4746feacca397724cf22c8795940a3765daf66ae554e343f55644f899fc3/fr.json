@@ -1,0 +1,183 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/02/2021 : Règlement grand-ducal du 4 octobre 2018 fixant les conditions de réalisation des tests rapides à orientation diagnostique de l’infection à virus de l’immunodéficience humaine, d’hépatites virales et d’autres infections sexuellement transmissibles.",
+  "valid_from": "2019-10-19",
+  "valid_to": "2020-11-07",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-10-04-a923/versions/2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3/fr.xml",
+    "sha256": "260d59147c0d35960625ce9a8ab9088408c24555d26a0a27c9ce22a06a2cda0f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20191019/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_1er/20191019",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-10-19",
+      "text_md": "Au sens du présent règlement, on entend par « test rapide » tout test à orientation diagnostique soit de l’infection à virus de l’immunodéficience humaine (VIH), soit des hépatites virales, soit d’une autre infection sexuellement transmissible pour laquelle il existe un test rapide.\n\nLe présent règlement ne s’applique pas aux dispositifs d’autodiagnostic servant au dépistage du VIH et que le fabricant destine à être utilisés par une personne profane.",
+      "text_sha256": "eec03580ff7eaff00f6aa3392c60ab8591c6e6ddd2a27b6aba68906de09bf5e3",
+      "md_span": {
+        "start": 858,
+        "end": 1312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_2/20181013",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-10-13",
+      "text_md": "**(1)** Un test rapide peut être réalisé chez toute personne, dans son intérêt et pour son seul bénéfice, après l'avoir informée et avoir recueilli son consentement libre et éclairé, par :\n\n1. un médecin ;\n2. un infirmier ;\n3. un laborantin exerçant dans un laboratoire d’analyses médicales ;\n4. une sage-femme ;\n5. un assistant social ;\n6. loi modifiée du 26 mars 1992 ,\n\n**(2)** L’information visée au paragraphe 1er porte sur l’objectif du test, le délai de fiabilité du test ainsi que le déroulement en cas de résultat positif du test.\n\n**(3)** Préalablement à la réalisation d’un test rapide, les personnes visées au paragraphe 1er doivent avoir suivi une formation sur l’utilisation et l’administration des tests rapides. Cette formation doit être validée par le ministre ayant la Santé dans ses attributions.\n\n**(4)** L’association visée au paragraphe 1er, point 6, est agréée par le ministre ayant la Santé dans ses attributions sur base d’un cahier de charge fixé à l’annexe I au présent règlement grand-ducal.\n\n**(5)** Les professionnels de la santé désignées par une association agréée en application du paragraphe 1er, point 6, sont soumises au respect du secret médical ou professionnel dont la révélation est punie dans les conditions définies par l’article 458 du code pénal.",
+      "text_sha256": "ffa1846f4a0df8d804728cbecd3da0f482c7cd09388afb82e611cbaa678ad75a",
+      "md_span": {
+        "start": 1347,
+        "end": 2637
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_3/20181013",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-10-13",
+      "text_md": "**(1)** Chaque test rapide doit être précédé et suivi d’un entretien portant sur le conseil et l’information avec la personne sur laquelle est pratiqué le test, tel que précisé au paragraphe 2 de l’article 2.\n\n**(2)** Le test rapide est réalisé de manière anonyme.\n\n**(3)** En cas de test rapide positif, la personne concernée est orientée systématiquement vers un médecin.",
+      "text_sha256": "3ee0d941885ae78e66de3a36fe59e50b5682f0f97d5d399bf05d91b04506d16b",
+      "md_span": {
+        "start": 2672,
+        "end": 3045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_4/20181013",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-10-13",
+      "text_md": "Toute association agréée en application de l’article 2, paragraphe 1er, point 6, doit conclure une convention avec un laboratoire d’analyses médicales autorisé par le ministre ayant la Santé dans ses attributions conformément à l’article 3 de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales pour effectuer la réalisation du diagnostic biologique de l’infection, pour l’exploration d’une recherche positive, et en vue de l'orientation de la personne testée vers une prise en charge adaptée.",
+      "text_sha256": "9598f069c1f8ab16b5ed0190516070ceaf5fe8d4b233bdf392264f10932ba798",
+      "md_span": {
+        "start": 3080,
+        "end": 3603
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/07/16/n1/jo",
+          "text": "loi modifiée du 16 juillet 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_5/20181013",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-10-13",
+      "text_md": "Le contenu de la formation visée au paragraphe 3 de l’article 2 est fixé par l’annexe II au présent règlement grand-ducal.",
+      "text_sha256": "c69ba5e390ec6fdfe16f1d71c31e1465db704da5bf99ea37d82a50e173e009ca",
+      "md_span": {
+        "start": 3638,
+        "end": 3760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/art_6/20181013",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-10-13",
+      "text_md": "Notre Ministre de la Santé est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché du Luxembourg.",
+      "text_sha256": "8a21186d9d9ae49f0a7e4f530f6554d878242b31b186cc97d6646ae75515e2f1",
+      "md_span": {
+        "start": 3795,
+        "end": 3934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Cahier de charges relatif à l’utilisation des tests rapides d’orientation diagnostique (TROD) en milieu associatif**\n\n**Préambule**\n\nLe recours aux tests rapides d'orientation diagnostique (TROD) de l’infection VIH, des hépatites virales et d’autres infections sexuellement transmissibles doit contribuer à compléter l'offre traditionnelle de dépistage des infections auprès des populations et des individus les plus exposés au risque de transmission, notamment les populations ayant des difficultés à recourir à des structures de soins ou de prévention quelle qu'en soit la raison (géographique, sociale...) et les populations non ou insuffisamment dépistées qui seraient plus facilement convaincues du fait d'un dépistage immédiat par un test rapide.\n\nLes associations qui souhaitent disposer d'un agrément délivré par le ministre ayant la Santé dans ses attributions, participent à cet objectif de prévention et de dépistage de l’infection VIH, des hépatites virales et d’autres infections sexuellement transmissibles, chez les publics auprès desquels ils interviennent. L'usage de tests rapides d'orientation diagnostique (TROD) est subordonné au respect du cahier des charges détaillé ci-dessous.\n\n**Cahier des charges**\n\nObjectifs de l'offre de dépistage par tests rapides d'orientation diagnostique de l'infection par le VIH, des hépatites virales ou d’autres infections sexuellement transmissibles\n\nLes offres de dépistage recourant à des tests rapides d'orientation diagnostique (TROD) de l’infection par le VIH, des hépatites virales ou d’autres infections sexuellement transmissibles ont pour objectif de permettre aux populations les plus exposées au risque de transmission de ces virus ou les plus isolées du système de soins :\n\n- un accès facilité et renouvelé à la connaissance de leur statut sérologique ;\n- une adaptation des stratégies préventives de chacun en fonction de la connaissance actualisée de son statut sérologique et de celle de ses partenaires ou de son entourage ;\n- l'entrée et l'accompagnement dans une démarche de soins la plus précoce possible pour les personnes découvertes porteuses du VHC ou d'un VIH. (ou autres infections sexuellement transmissibles)\n\nLa facilité d'utilisation du TROD de l'infection par le VHC ou à VIH permet son usage « hors les murs » et à des horaires diurnes ou nocturnes en vue d'aller au-devant des populations les plus éloignées d'une offre traditionnelle de dépistage ou de celles qui n'y ont pas recours. Il s'agit de proposer à ces populations un dépistage par TROD intégré dans une offre complète de prévention (information, conseils, distribution de documents et de matériel de prévention ou de réduction des risques, orientation éventuelle vers d'autres dépistages…).\n\nPublics concernés\n\nLes TROD de l'infection par le VHC, VIH ou autre maladie sexuellement transmissibles n'ont pas d'indication pour le dépistage de ces infections en population générale. Peuvent bénéficier prioritairement du TROD de l'infection par le VHC, VIH ou autre maladie sexuellement transmissibles, les populations et les personnes les plus exposées au risque de transmission du VHC, VIH ou d’autre maladie sexuellement transmissibles.\n\nSont concernées par exemple :\n\n- pour l'infection à VIH : les hommes ayant des relations sexuelles avec des hommes (HSH), les personnes hétérosexuelles ayant eu plus d'un partenaire sexuel au cours des 12 derniers mois, les personnes consommant ou ayant consommé des substances psychoactives par injection, les personnes en situation de prostitution, les personnes détenues, les personnes transsexuelles, les personnes dont les partenaires sexuels sont infectés par le VIH ;\n- pour l'infection par le VHC : les personnes consommant ou ayant consommé des substances psychoactives, les personnes détenues, les personnes vivant avec le VIH, les personnes ayant au moins un autre facteur de risque (antécédent de transfusion, situation de précarité, pratiques sexuelles traumatiques, réalisation d'un tatouage ou d'un piercing…).\n\nAssociation pouvant être agrée par le ministre ayant la Santé dans ses attributions pour la réalisation du dépistage par TROD VIH, VHC ou autres maladies sexuellement transmissibles\n\nIl s'agit de structures associatives impliquées dans la prévention sanitaire ou la réduction des risques et des dommages associés à la consommation de substances psychoactives conformément à leur objet statutaire ou social.\n\nLe personnel intervenant dans le cadre de cette association\n\nLe personnel intervenant dans le cadre de cette association doit être en nombre suffisant pour répondre à l'organisation de l'offre de dépistage proposée.\n\nAu sein de l’association, les personnes pouvant réaliser un dépistage par tests rapides d'orientation diagnostique de l'infection à VIH sont les personnes salariées ou les personnes bénévoles ayant suivi la formation définie à l'annexe II. La liste nominative et la qualité des personnes formées pouvant réaliser ces tests au sein de l’association est annexée à l’agrément de l’association.\n\nLe responsable de l’association est tenu d'informer le ministre ayant la Santé dans ses attributions de tout changement intervenant dans cette liste. Cette liste nominative est tenue à la disposition du public accueilli par l’association.\n\nLe responsable de l’association veille à la mise à jour des compétences de ce personnel, notamment au vu des évolutions intervenant dans le champ du VIH/IST.\n\nLocaux et lieux d'intervention\n\nLes locaux et lieux d'intervention des personnes pouvant réaliser des tests rapides d'orientation diagnostique de l'infection à VIH conformément aux dispositions du présent règlement grand-ducal peuvent être fixes (exemple : local associatif, lieux de vie et de convivialité des populations ciblées) ou mobiles (bus, tente, stand itinérant...) mais toujours être organisés, selon leur configuration, de telle manière à préserver un accueil individualisé et une remise du résultat du test rapide d'orientation diagnostique de l'infection à VIH dans des conditions garantissant la confidentialité.\n\nLe dossier de demande d'agrément\n\nLe dossier de demande d'agrément doit contenir tous les éléments permettant d'identifier que l’association est impliquée en matière de prévention sanitaire est en mesure de se conformer aux prescriptions du cahier des charges. Ce dossier comprend les informations suivantes :\n\n*Informations générales :*\n\n- nom de l’association ;\n- forme juridique et statuts de l’association ;\n- nom et qualité de la personne responsable de l'activité de réalisation des tests rapides d'orientation diagnostique de l'infection à VIH ;\n- activités autres de l’association.\n\n*Descriptif des objectifs et du public ciblé par l'offre de dépistage :*\n\n- description des résultats attendus de l'offre de dépistage proposée et de son insertion dans le contexte luxembourgeois d'offre de dépistage ;\n- description du public ciblé par cette offre.\n\n*Informations relatives au personnel :*\n\n- nombre et qualification des personnes dédiées à l'activité ; répartition de leurs rôles ;\n- procédures de formation (interne ou externe) et de mise à jour des compétences du personnel réalisant les tests rapides d'orientation diagnostique de l'infection à VIH.\n\n*Informations relatives aux lieux et matériel d'intervention :*\n\n- mention des locaux fixes ou mobiles et lieux d'intervention ;\n- type/marque de tests rapides d'orientation diagnostique de l'infection à VIH et matrices utilisés ;\n- conditions de conservation de ces tests rapides d'orientation diagnostique ;\n- mode de financement prévu pour ces tests rapides d'orientation diagnostique.\n\n*Conditions générales de fonctionnement :*\n\n- horaires d'ouverture des lieux fixes ; permanence téléphonique ;\n- organisation prévue pour la réalisation des tests : procédures encadrant l'accueil et l'information du public ciblé, le recueil du consentement de la personne concernée, la réalisation technique et la remise des résultats ; documents donnés à la personne ;\n- description des conditions garantissant la confidentialité des échanges avec la personne accueillie à l'intérieur des locaux fixes ou mobiles servant de lieux d'intervention ;\n- conditions d'orientation et d'accompagnement des personnes vers un médecin et une prise en charge médicale, si nécessaire ;\n- conditions de conservation des données permettant de garantir la confidentialité des informations.\n\n*Attestations à fournir :*\n\n- attestations de suivi de formation du personnel dédié à la réalisation des tests rapides d'orientation diagnostique de l'infection à VIH = dans la structure ;\n- assurances responsabilité civile souscrites par la structure pour la réalisation des tests rapides d'orientation diagnostique.\n- loi modifiée du 16 juillet 1984",
+      "text_sha256": "2f3bb129a0221d27141030a46715f51ec561db750d3146dc5228a1b53c845d16",
+      "md_span": {
+        "start": 3977,
+        "end": 12718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2018-10-04-a923:2019-10-19--811a4746feacca397724cf22c8795940a3765daf66ae554e343f55644f899fc3#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Formation des personnes exerçant ou intervenant dans les associations agréées par le ministre**\n\n**Objectifs de la formation**\n\nLes objectifs pédagogiques de la formation sont les suivants :\n\n- compléter les connaissances sur les risques et les modes de transmission du VIH et des IST associés aux différentes pratiques des populations et individus rencontrés ;\n- renforcer les capacités à mener des entretiens de prévention adaptés aux besoins des publics et au cadre particulier des entretiens pré- et posttests ;\n- acquérir les connaissances et compétences nécessaires à une utilisation de tests rapides d'orientation diagnostique de l'infection à VIH.\n\nCes objectifs sont à adapter au niveau de compétences et d'expérience déjà acquis sur le VIH par les personnes à former.\n\n**Contenu de la formation**\n\nLa formation comporte un volet théorique et un volet pratique.\n\nContenu de l'enseignement théorique (minimum de 12 heures)\n\n- *Information de la personne concernée, règles relatives au recueil du consentement, secret médical et professionnel, principes de conservation des données à caractère personnel (Loi du 24 juillet 2014 relative aux droits et obligations du patient, portant création d'un service national d'information et de médiation dans le domaine de la santé, Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.)*\n- *Epidémiologie. Définition et symptômes. Prévention du VIH. Principes et bases de l'information-conseil.*\n- Prévention des hépatites virales et des infections sexuellement transmissibles.\n- *Les différents types de tests. Leur stockage. Leurs principes d'utilisation et de réalisation, dans le respect du mode opératoire mentionné dans la notice du fabricant du test. L'interprétation des résultats. Les règles d'asepsie et d'hygiène, notamment lors des prélèvements de liquides biologiques. Les règles d'élimination des déchets. Le processus de signalement auprès de la Direction de la Santé au titre de la réactovigilance de toute défaillance ou altération d'un réactif susceptible d'entraîner des effets néfastes pour la santé des personnes.*\n- La conduite à tenir en cas d'accident d'exposition au sang.\n\nContenu de l'enseignement pratique\n\nLa formation pratique comprend, au minimum, la réalisation de cinq tests, hors condition d'intervention, sous le contrôle d'un formateur référent, lui-même préalablement formé à la réalisation de ces tests. Cette formation pratique comprend les gestes de tri et la manipulation des collecteurs. Les tests ainsi réalisés doivent permettre de visualiser au moins un résultat positif. La formation doit comporter des mises en situation d'information-conseil pré- et posttest.",
+      "text_sha256": "89ba69b41581fa303d822ced53cb83b074a2b8a9985823de3fb6941698b28eb9",
+      "md_span": {
+        "start": 12762,
+        "end": 15626
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/07/24/n2/jo",
+          "text": "Loi du 24 juillet 2014"
+        },
+        {
+          "href": "/eli/reg_ue/2016/679/jo",
+          "text": "Règlement (UE) 2016/679"
+        },
+        {
+          "href": "/eli/dir_ue/1995/46/jo",
+          "text": "directive 95/46/CE"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

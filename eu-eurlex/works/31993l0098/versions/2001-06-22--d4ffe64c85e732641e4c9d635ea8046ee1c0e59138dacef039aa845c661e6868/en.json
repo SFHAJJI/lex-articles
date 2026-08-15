@@ -1,0 +1,302 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868",
+  "language": "en",
+  "title": "Council Directive 93/98/EEC of 29 October 1993 harmonizing the term of protection of copyr…",
+  "valid_from": "2001-06-22",
+  "valid_to": "2007-01-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31993l0098/versions/2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868/en.html",
+    "sha256": "7c780a3436c15d8d7f0650c6e28594ba1080def6f216eba3ab48be0990c89618",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0098-20010622"
+  },
+  "generator": {
+    "profile": "xhtml-eu-xlink-context/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "clanek_1",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_1",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 1",
+      "heading": "Trvání autorského práva",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Práva autora literárního nebo uměleckého díla ve smyslu článku 2 Bernské úmluvy trvají po dobu autorova života a 70 let po jeho smrti bez ohledu na den, kdy bylo dílo oprávněně sděleno veřejnosti.\n\n2. U díla spoluautorů se doba stanovená v odstavci 1 počítá od smrti posledního žijícího autora.\n\n3. U anonymních děl či pseudonymních děl trvá doba ochrany 70 let od oprávněného sdělení díla veřejnosti. Pokud však autorem přijatý pseudonym nevzbuzuje žádné pochyby o jeho totožnosti, nebo pokud autor odhalí svou totožnost během doby uvedené v první větě, řídí se doba ochrany podle odstavce 1.\n\n4. Pokud členský stát přijme zvláštní ustanovení o autorském právu pro díla kolektivní nebo o právnické osobě označené za nositele práv, počítá se doba ochrany podle ustanovení odstavce 3, s výjimkou případů, kdy fyzické osoby, které vytvořily dílo jako takové, jsou označeny jako takové ve verzích díla, které byly sděleny veřejnosti. Tímto odstavcem nejsou dotčena práva identifikovaných autorů, jejichž identifikovatelné příspěvky jsou obsaženy v takových dílech, na jejichž příspěvky se odstavec 1 nebo 2 vztahuje.\n\n5. V případě, že dílo je vydáno ve svazcích, po částech, číslech nebo epizodách a doba ochrany běží od doby, kdy dílo bylo oprávněně sděleno veřejnosti, běží doba ochrany pro každou takovou část samostatně.\n\n6. V případech děl, u kterých se doba ochrany nepočítá od smrti autora nebo autorů, a která nebyla oprávněně sdělena veřejnosti v průběhu sedmdesáti let od jejich vytvoření, ochrana skončí.",
+      "text_sha256": "97a899e9506fedde4324f4f1d84a9f4e63e30e56e25366bb2d1bd7090d244b27",
+      "md_span": {
+        "start": 763,
+        "end": 2278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_2",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_2",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 2",
+      "heading": "Kinematografická a audiovizuální díla",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Hlavní režisér kinematografického nebo audiovizuálního díla se považuje za jeho autora nebo jednoho z autorů. Členské státy mohou označit i jiné spoluautory.\n\n2. Doba ochrany kinematografických nebo audiovizuálních děl končí 70 let po smrti poslední z těchto žijících osob, bez ohledu na skutečnost, zda jsou tyto osoby označeny za spoluautory: hlavního režiséra, autora scénáře, autora dialogu a skladatele hudby, která byla zvlášť vytvořena pro užití v kinematografickém nebo audiovizuálním díle.",
+      "text_sha256": "b9e736e5044db1515b093ee7afd1dd22fee8074a1a855122053b4d8a9c191de9",
+      "md_span": {
+        "start": 2357,
+        "end": 2858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_3",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_3",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 3",
+      "heading": "Trvání práv souvisejících s právem autorským",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Práva výkonných umělců uplynou za 50 let ode dne podání výkonu. Pokud je však záznam výkonu oprávněně vydán nebo oprávněně sdělen veřejnosti v průběhu této doby, uplynou práva za 50 let ode dne, kdy došlo k prvnímu takovému vydání nebo prvnímu takovému sdělení veřejnosti, a to podle toho, která událost nastane dříve.\n\n2. Práva výrobců zvukových záznamů uplynou za 50 let po pořízení záznamu. Pokud je však zvukový záznam oprávněně vydán v průběhu této doby, uvedená práva uplynou za 50 let ode dne, kdy došlo k prvnímu takovému vydání. Pokud během doby uvedené v první větě nedojde k žádnému oprávněnému vydání a pokud byl během této doby zvukový záznam oprávněně sdělen veřejnosti, uvedená práva uplynou za 50 let ode dne, kdy došlo k prvnímu takovému sdělení veřejnosti.\n\nPokud však z důvodu uplynutí ochranné lhůty podle tohoto odstavce před jeho změnou uskutečněnou směrnicí Evropského parlamentu a Rady 2001/29/ES ze dne 22. května 2001 o harmonizaci určitých aspektů autorského práva a práv s ním souvisejících v informační společnosti (6) nejsou již uvedená práva výrobců zvukových záznamů dne 22. prosince 2002 chráněna, nebude již mít tento odstavec účinek spočívající v obnovení ochrany uvedených práv.\n\n3. Práva výrobců prvotního záznamu filmu uplynou za 50 let od pořízení záznamu. Pokud však byl film v průběhu této doby oprávněně vydán nebo oprávněně sdělen veřejnosti, potom práva uplynou za 50 let ode dne prvního takového vydání nebo prvního sdělení veřejnosti, a to podle toho, která z těchto skutečností nastane dříve. „Filmem“ se rozumí kinematografické nebo audiovizuální dílo nebo pohyblivé obrazové sekvence bez ohledu na to, zda jsou doprovázeny zvukem či nikoliv.\n\n4. Práva vysílacích organizací uplynou za 50 let ode dne prvního vysílání, ať již jde o vysílání po drátě nebo bezdrátové vysílání, pomocí kabelu nebo prostřednictvím družice.",
+      "text_sha256": "98f2207ef84c221d33ecd5d492a17fd7cb9bcceac491d2652cc45845f624f541",
+      "md_span": {
+        "start": 2944,
+        "end": 4814
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/EN/AUTO/?uri=celex:32001L0029",
+          "text": "32001L0029: REPLACED"
+        },
+        {
+          "href": "#E0006",
+          "text": "6"
+        },
+        {
+          "href": "./../../../legal-content/EN/AUTO/?uri=celex:31993L0098",
+          "text": "31993L0098"
+        }
+      ]
+    },
+    {
+      "anchor": "clanek_4",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_4",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 4",
+      "heading": "Ochrana dosud nezveřejněných děl",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Každá osoba, která po uplynutí autorskoprávní ochrany poprvé oprávněně vydá nebo oprávněně sdělí veřejnosti dosud nezveřejněné dílo, požívá ochrany na úrovni majetkových práv autorských. Doba ochrany takových práv trvá 25 let ode dne, kdy bylo dílo oprávněně vydáno nebo oprávněně sděleno veřejnosti.",
+      "text_sha256": "e729ce8f9608cb440a2fec76983eb14102f0ce455a51b37932f5361e9f7ccb22",
+      "md_span": {
+        "start": 4888,
+        "end": 5188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_5",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_5",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 5",
+      "heading": "Kritická a vědecká vydání",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Členské státy mohou chránit kritická a vědecká vydání děl, která se stala z hlediska práva autorského volná. Maximální doba ochrany takových práv činí 30 let ode dne, kdy bylo takové vydání poprvé oprávněně vydáno.",
+      "text_sha256": "8a26080d6aa3e521afd8187e374100abf96e569b38f68a72ccde32f6560d07f5",
+      "md_span": {
+        "start": 5255,
+        "end": 5469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_6",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_6",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 6",
+      "heading": "Ochrana fotografií",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Fotografie, které jsou původní v tom smyslu, že jsou autorovým vlastním duševním výtvorem, jsou chráněny podle článku 1. Na rozhodování o jejich způsobilosti k ochraně se nepoužijí žádná další kritéria. Členské státy mohou stanovit i ochranu ostatních fotografií.",
+      "text_sha256": "704f1ebdfb8bbf4df5582ff35535009b4f506679be5ae665536b8d7adb20e5f7",
+      "md_span": {
+        "start": 5529,
+        "end": 5792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_7",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_7",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 7",
+      "heading": "Ochrana ve vztahu ke třetím zemím",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Pokud je zemí původu díla ve smyslu Bernské úmluvy třetí země a autor díla není státním příslušníkem členského státu Společenství, uplyne doba ochrany poskytovaná členskými státy v den, kdy uplyne ochrana přiznávaná v zemi původu díla, nemůže však být delší, než je doba stanovená v článku 1.\n\n2. Doba ochrany stanovená v článku 3 se vztahuje také na nositele práv, kteří nejsou státními příslušníky členského státu Společenství, pokud jim členské státy ochranu poskytují. Aniž jsou dotčeny mezinárodní závazky členských států, doba ochrany přiznávaná členskými státy však uplyne nejpozději v den uplynutí ochrany přiznávané v zemi, které je nositel práv státním příslušníkem, a nesmí být delší než doba stanovená v článku 3.\n\n3. Členské státy, které v den přijetí této směrnice přiznávají, zejména v souladu s jejich mezinárodními závazky, delší dobu ochrany, než je ta, která vyplývá z ustanovení odstavců 1 a 2, mohou zachovat tuto ochranu až do uzavření mezinárodních smluv o době ochrany autorského práva nebo práv s ním souvisejících.",
+      "text_sha256": "da355929c6dde3e4a77d0f1b55d806a98f177826060ae5b67475a3c603f7de6e",
+      "md_span": {
+        "start": 5867,
+        "end": 6910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_8",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_8",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 8",
+      "heading": "Počítání dob",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Doby stanovené v této směrnici se počítají od 1. ledna roku následujícího po události, od které běží.",
+      "text_sha256": "88724e8706b495e237343bf853e43cb33f3f27e3b408c335f51448577139955e",
+      "md_span": {
+        "start": 6964,
+        "end": 7065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_9",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_9",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 9",
+      "heading": "Osobnostní práva",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice se nedotýká předpisů členských států upravujících osobnostní práva.",
+      "text_sha256": "26210b7fc28f3c6d11c94f1211965f2a031ed3a958fbbded3c16e2ff947946b5",
+      "md_span": {
+        "start": 7123,
+        "end": 7204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_10",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_10",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 10",
+      "heading": "Přechodná ustanovení",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Pokud doba ochrany, která je delší než odpovídající doba stanovená v této směrnici, již běží v členském státě v den uvedený v čl. 13 odst. 1 této směrnice, nezpůsobí tato směrnice zkrácení doby ochrany v uvedeném členském státě.\n\n2. Doba ochrany stanovená v této směrnici se vztahuje na všech na díla a předměty ochrany, které jsou chráněny alespoň v jednom členském státě v den uvedený v čl. 13 odst. 1 podle vnitrostátních předpisů o autorském právu nebo právech s ním souvisejících, nebo které splňují podmínky ochrany podle směrnice 92/100/EHS.\n\n3. Touto směrnicí nejsou dotčena žádná využívání uskutečněná přede dnem uvedeným v čl. 13 odst. 1. Členské státy přijmou nezbytná ustanovení zejména na ochranu práv nabytých třetími osobami.\n\n4. Členské státy nejsou povinny používat čl. 2 odst. 1 na kinematografická nebo audiovizuální díla, která byla vytvořena před 1. červencem 1994.\n\n5. Členské státy mohou stanovit den počátku použitelnosti čl. 2 odst. 1, tento den však nesmí být pozdější než 1. červenec 1997.",
+      "text_sha256": "b772b531ad41bd38108c7b09b1d5a70a8abe9baf027d499fe9cb22b61cc76d41",
+      "md_span": {
+        "start": 7268,
+        "end": 8287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_11",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_11",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 11",
+      "heading": "Technická úprava",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Článek 8 směrnice 91/250/EHS se zrušuje.\n\n2. Články 11 a 12 směrnice 92/100/EHS se zrušují.",
+      "text_sha256": "d6376a8f84c3b2146bb45c899795660ec2c0bd887e81f7362bbb469914493047",
+      "md_span": {
+        "start": 8347,
+        "end": 8441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_12",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_12",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 12",
+      "heading": "Oznamovací postup",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Členské státy oznámí Komisi bez odkladu všechny návrhy právních předpisů týkajících se zavedení nových souvisejících práv včetně hlavních důvodů pro jejich zavedení a zamýšlenou dobu ochrany.",
+      "text_sha256": "67b8f8cb815c3826d80177058c6c09911fbe8f45358a954b1d49272da1fb08f0",
+      "md_span": {
+        "start": 8502,
+        "end": 8693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_13",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_13",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 13",
+      "heading": "Obecná ustanovení",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Členské státy přijmou právní a správní předpisy nezbytné pro dosažení souladu s ustanoveními článků 1 až 11 této směrnice nejpozději do 1. července 1995. Neprodleně o nich uvědomí Komisi.\n\nPřijímají-li členské státy tato opatření, musí v nich být učiněn odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Způsob odkazu si stanoví členské státy.\n\nČlenské státy sdělí Komisi znění hlavních ustanovení vnitrostátních právních předpisů, které přijmou v oblasti působnosti této směrnice.\n\n2. Členské státy použijí článek 12 ode dne oznámení této směrnice.",
+      "text_sha256": "af86ba8cd7972cd736f08254574b881f87533dc7a127a8abbeaed3e7643c9a9f",
+      "md_span": {
+        "start": 8754,
+        "end": 9343
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_14",
+      "provision_id": "eu-eurlex:31993l0098:2001-06-22--d4ffe64c85e732641e4c9d635ea8046ee1c0e59138dacef039aa845c661e6868#clanek_14",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 14",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice je určena členským státům.\n\n(1) Úř. věst. C 92, 11.4.1992, s. 6 a Úř. věst. C 27, 30.1.1993, s. 7.\n\n(2) Úř. věst. C 337, 21.12.1992, s. 205 a rozhodnutí ze dne 27. října 1993 (dosud nezveřejněné v Úředním věstníku).\n\n(3) Úř. věst. C 287, 4.11.1992, s. 53.\n\n(4) Úř. věst. L 122, 17.5.1991, s. 42.\n\n(5) Úř. věst. L 346, 27.11.1992, s. 61.\n\n(6) Úř. věst. L 167, 22.6.2001, s. 10.",
+      "text_sha256": "d0e3d2a12e583d880bbe8ab6df2f874066e02c7e1f91075516f6c10050494386",
+      "md_span": {
+        "start": 9384,
+        "end": 9774
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

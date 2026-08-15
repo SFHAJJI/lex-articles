@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011r1251:2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No\u00A01251/2011 of 30\u00A0November 2011 amending Directives 2004/17/EC, 2004/18/EC and 2009/81/EC",
+  "valid_from": "2011-11-30",
+  "valid_to": "2011-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011r1251/versions/2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24/fr.xml",
+    "sha256": "2e7167b8e4156f26534587a576e97434f00abe60550162c92d6e08177b52e213",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011R1251"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32011r1251:2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2004/17/CE est modifiée comme suit:\n\n| 1) | L’article 16 est modifié comme suit:a)au point a), le montant de «387 000 EUR» est remplacé par «400 000 EUR»;b)au point b), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «387 000 EUR» est remplacé par «400 000 EUR»; |\n| b) | au point b), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n\n| 2) | L’article 61 est modifié comme suit:a)au paragraphe 1, le montant de «387 000 EUR» est remplacé par «400 000 EUR»;b)au paragraphe 2, le montant de «387 000 EUR» est remplacé par «400 000 EUR». |\n| --- | --- |\n| a) | au paragraphe 1, le montant de «387 000 EUR» est remplacé par «400 000 EUR»; |\n| b) | au paragraphe 2, le montant de «387 000 EUR» est remplacé par «400 000 EUR». |",
+      "text_sha256": "ed00904bfeeb7e2bdbed2e0696838875e08179493aefd57ca7e61a5b179b5b72",
+      "md_span": {
+        "start": 734,
+        "end": 1569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011r1251:2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa directive 2004/18/CE est modifiée comme suit:\n\n| 1) | L’article 7 est modifié comme suit:a)au point a), le montant de «125 000 EUR» est remplacé par «130 000 EUR»;b)au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR»;c)au point c), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «125 000 EUR» est remplacé par «130 000 EUR»; |\n| b) | au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR»; |\n| c) | au point c), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n\n| 2) | À l’article 8, le paragraphe 1 est modifié comme suit:a)au point a), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR»;b)au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR»; |\n| b) | au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR». |\n\n| 3) | À l’article 56, le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n| --- | --- |\n\n| 4) | À l’article 63, paragraphe 1, premier alinéa, le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n| --- | --- |\n\n| 5) | À l’article 67, le paragraphe 1 est modifié comme suit:a)au point a), le montant de «125 000 EUR» est remplacé par «130 000 EUR»;b)au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR»;c)au point c), le montant de «193 000 EUR» est remplacé par «200 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant de «125 000 EUR» est remplacé par «130 000 EUR»; |\n| b) | au point b), le montant de «193 000 EUR» est remplacé par «200 000 EUR»; |\n| c) | au point c), le montant de «193 000 EUR» est remplacé par «200 000 EUR». |",
+      "text_sha256": "ade81a2add3f31ac0d785c3581f88956429bf045b06f0196d75f91f8212556a6",
+      "md_span": {
+        "start": 1602,
+        "end": 3382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32011r1251:2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nL’article 8 de la directive 2009/81/CE est modifié comme suit:\n\n| 1) | au point a), le montant de «387 000 EUR» est remplacé par «400 000 EUR». |\n| --- | --- |\n\n| 2) | au point b), le montant de «4 845 000 EUR» est remplacé par «5 000 000 EUR». |\n| --- | --- |",
+      "text_sha256": "763438ce7f38d1789ceff3ae9705f148bee5b1fed811d045d0680d7f0de16caa",
+      "md_span": {
+        "start": 3415,
+        "end": 3686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32011r1251:2011-11-30--281e9c25b3c6fbe09a43690a2722647492de23775a2fa4ed50c15cb260e08c24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le 1er janvier 2012.",
+      "text_sha256": "3e03403c87a350fae5193a56da6f4b376f5e8ad37d269fea26f43382e578f1df",
+      "md_span": {
+        "start": 3719,
+        "end": 3788
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

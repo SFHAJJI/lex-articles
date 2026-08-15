@@ -2,7 +2,7 @@
   "lex_work_id": "lu-legilux:rgd-2018-03-18-a200",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -11,7 +11,7 @@
         "valid_from": "2019-03-11",
         "valid_to": null,
         "text_sha256": "077dcb95ba8c0c426d7a8514bc28f05949c84959bba52bf8753dd0aa0c3a1cb4",
-        "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11",
+        "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11--2fdd7e0c871fa5b40a6f0ad6c9e7fde136dfc2ee7b7ba85d9f7fb05a7df3c0da",
         "article_valid_from": "2019-03-11"
       }
     ],
@@ -20,7 +20,7 @@
         "valid_from": "2019-03-11",
         "valid_to": null,
         "text_sha256": "06ca9f9a0c26d5bdcc719e8c685221b1dbf8b4237ada4a2bb06be399edc2e053",
-        "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11",
+        "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11--2fdd7e0c871fa5b40a6f0ad6c9e7fde136dfc2ee7b7ba85d9f7fb05a7df3c0da",
         "article_valid_from": "2018-03-25",
         "validity_conflict": true
       }
@@ -34,7 +34,7 @@
           "valid_from": "2019-03-11",
           "valid_to": null,
           "text_sha256": "077dcb95ba8c0c426d7a8514bc28f05949c84959bba52bf8753dd0aa0c3a1cb4",
-          "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11",
+          "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11--2fdd7e0c871fa5b40a6f0ad6c9e7fde136dfc2ee7b7ba85d9f7fb05a7df3c0da",
           "article_valid_from": "2019-03-11"
         }
       ],
@@ -43,7 +43,7 @@
           "valid_from": "2019-03-11",
           "valid_to": null,
           "text_sha256": "06ca9f9a0c26d5bdcc719e8c685221b1dbf8b4237ada4a2bb06be399edc2e053",
-          "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11",
+          "in_version": "lu-legilux:rgd-2018-03-18-a200:2019-03-11--2fdd7e0c871fa5b40a6f0ad6c9e7fde136dfc2ee7b7ba85d9f7fb05a7df3c0da",
           "article_valid_from": "2018-03-25",
           "validity_conflict": true
         }

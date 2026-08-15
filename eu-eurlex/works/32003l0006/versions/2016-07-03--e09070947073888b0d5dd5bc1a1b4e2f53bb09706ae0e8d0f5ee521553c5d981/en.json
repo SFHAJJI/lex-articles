@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32003l0006:2016-07-03--e09070947073888b0d5dd5bc1a1b4e2f53bb09706ae0e8d0f5ee521553c5d981",
+  "language": "en",
+  "title": "Directive 2003/6/EC",
+  "valid_from": "2016-07-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32003l0006/versions/2016-07-03--e09070947073888b0d5dd5bc1a1b4e2f53bb09706ae0e8d0f5ee521553c5d981/en.html",
+    "sha256": "39d9ca5b95c0d724fd3da62302714ae2fb21fd7d72783916a4161981046921bf",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0006-20160703"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32003l0006:2016-07-03--e09070947073888b0d5dd5bc1a1b4e2f53bb09706ae0e8d0f5ee521553c5d981#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "02003L0006 — EN — 03.07.2016 — 003.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B DIRECTIVE 2003/6/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 January 2003 on insider dealing and market manipulation (market abuse) (OJ L 096, 12.4.2003, p.16) Repealed by: Official Journal No page date Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 L 173 1 12.6.2014 The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0006-20110104",
+      "text_sha256": "a424698e5b685de0428f00bcefbaad4dfeda2305e73ea59205c14e25757b678a",
+      "md_span": {
+        "start": 652,
+        "end": 1554
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

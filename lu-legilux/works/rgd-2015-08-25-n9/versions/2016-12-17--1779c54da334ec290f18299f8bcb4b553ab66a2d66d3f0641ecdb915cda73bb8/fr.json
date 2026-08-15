@@ -1,0 +1,403 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/12/2016 : Règlement grand-ducal du 25 août 2015 concernant l'information des consommateurs sur les denrées alimentaires, les allégations nutritionnelles et de santé ainsi que le marquage du numéro de lot.",
+  "valid_from": "2016-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-08-25-n9/versions/2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8/fr.xml",
+    "sha256": "0af87ac1dafaf39c3f761e9065b310e587049b8ab6279ef3fbdec78ea3566751",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/consolide/20161217/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_1er/20150914",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Au sens du présent règlement on entend par:\n\n1. Denrée alimentaire non préemballée - vendue en vrac ou\n- emballée sur le lieu de vente à la demande du consommateur ou\n- préemballée en vue de sa vente immédiate.\n2. Vente immédiate\n3. Structures encadrées\n4. Lot\n5. Libre-service",
+      "text_sha256": "d77ac2a5195f516c882e711148c61f4a88d908dd836baa3ee7e8ae48c01a08e0",
+      "md_span": {
+        "start": 875,
+        "end": 1152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_2/20150914",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Les informations obligatoires sur les denrées alimentaires au sens du règlement (UE) n° 1169/2011 et du présent règlement grand-ducal doivent être libellées au moins dans une des trois langues française, allemande ou luxembourgeoise.",
+      "text_sha256": "8dda079a352ee342014dab09aa04ed9a808d2189da6b5b495286e5b782bfd082",
+      "md_span": {
+        "start": 1187,
+        "end": 1420
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1169/jo",
+          "text": "règlement (UE) n° 1169/2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2bis",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_2bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_2bis/20161217",
+      "type": "article",
+      "num": "Art. 2bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2016-12-17",
+      "text_md": "La déclaration nutritionnelle prévue à l’article 9, paragraphe 1er, point l) du règlement (UE) n° 1169/2011 n’est pas obligatoire pour les denrées alimentaires produites par des micro-, petites et moyennes entreprises au sens de l’article 3 du règlement grand-ducal du 16 mars 2005 portant adaptation de la définition des micro-, petites et moyennes entreprises fournissant directement le consommateur final ou les établissements de détail locaux.",
+      "text_sha256": "6564fec5e58662c2a7fca03f0127e31725fc4d0529f2c35d5cb082adfedecdc2",
+      "md_span": {
+        "start": 1461,
+        "end": 1908
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1169/jo",
+          "text": "règlement (UE) n° 1169/2011"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2005/03/16/n1/jo",
+          "text": "règlement grand-ducal du 16 mars 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_3/20150914",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "L’indication de la dénomination de vente est obligatoire pour les denrées alimentaires non préemballées.",
+      "text_sha256": "cc3c18248ceb87a62e0286fbad27d1097d33b2b8e579b874607716e4edb14047",
+      "md_span": {
+        "start": 1943,
+        "end": 2047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_4/20150914",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Pour les denrées alimentaires non préemballées, l’indication des ingrédients ou auxiliaires technologiques provenant de substances ou produits provoquant des allergies ou intolérances est précédée d’une mention contenant le terme «allergène».",
+      "text_sha256": "b49693f07603b680552b40288bde4056695aa972709e1d235d1f5ecdb170b990",
+      "md_span": {
+        "start": 2082,
+        "end": 2324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_5/20150914",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Les exploitants alimentaires mettent à disposition de leurs clients, sans demande expresse de ces derniers, les informations sur les ingrédients et auxiliaires technologiques provenant de substances ou produits provoquant des allergies ou intolérances de façon écrite et de façon bien visible ou précisent de façon écrite que ces informations sont disponibles sur demande sur un support écrit.",
+      "text_sha256": "49a10974608b4fc6cd4f94e7e93f328b270b367fe095eb3b2edd48f91fbf7228",
+      "md_span": {
+        "start": 2359,
+        "end": 2752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_6/20161217",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Information des consommateurs sur les denrées alimentaires"
+      ],
+      "article_valid_from": "2016-12-17",
+      "text_md": "Par dérogation aux articles 4 et 5, l’information concernant les ingrédients et auxiliaires technologiques provenant de substances ou produits provoquant des allergies ou des intolérances n’est pas obligatoire pour les consommateurs identifiés et connus à l’avance dans le cas où les structures encadrées mettent en place des systèmes par écrit pour recenser les allergies et intolérances de ces consommateurs et lorsqu’ils disposent de procédures écrites permettant de s’assurer que ces consommateurs soient approvisionnés avec des denrées alimentaires exemptes des substances envers lesquelles ils présentent des allergies et intolérances.",
+      "text_sha256": "c00f4be16b5bb349e223353f41f351600f678b5925709ce4852be319df23d907",
+      "md_span": {
+        "start": 2787,
+        "end": 3428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_7/20150914",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "**(1)** Une denrée alimentaire ne peut être commercialisée que si elle est accompagnée d’une mention qui permet d’identifier le lot auquel appartient cette denrée alimentaire.\n\n**(2)** Le paragraphe 1er ne s’applique pas:\n\n1. 1. vendus ou livrés à des stations d’entreposage, de conditionnement ou d’emballage;\n2. acheminés vers des organisations de producteurs ou\n3. collectés en vue de leur intégration immédiate dans un système opérationnel de préparation ou de transformation;\n2. lorsque, sur les lieux de vente au consommateur final, les denrées alimentaires qui ne sont pas préemballées, sont emballées à la demande de l’acheteur ou préemballées en vue de leur vente immédiate;\n3. aux emballages ou récipients dont la face la plus grande a une surface inférieure à 10 cm²;\n4. aux doses individuelles de glaces alimentaires. La mention permettant d’identifier le lot figure sur les emballages de groupage.",
+      "text_sha256": "412467ae6123e3fa5c34df27234ec5cc785500eaf78ada36032df02927740fce",
+      "md_span": {
+        "start": 3497,
+        "end": 4407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_8/20150914",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Le lot est déterminé dans chaque cas par le producteur, fabricant ou conditionneur de la denrée alimentaire en question, ou par le premier vendeur établi à l’intérieur de l’Union européenne.\n\nLa mention visée à l’article 7, paragraphe 1er, est déterminée et apposée sous la responsabilité de l’un ou l’autre des opérateurs visés à l’alinéa précédent. Elle est précédée par la lettre «L», sauf dans le cas où elle se distingue clairement des autres mentions d’étiquetage.",
+      "text_sha256": "f594c7784060366b86c63ef56019d017b650b40fc7b350868dfe00f26bc23c2b",
+      "md_span": {
+        "start": 4442,
+        "end": 4912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_9/20150914",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Lorsque les denrées alimentaires sont préemballées, la mention visée à l’article 7, paragraphe 1er et, le cas échéant, la lettre «L» visée à l’article 8 paragraphe 2 figurent sur le préemballage ou sur une étiquette liée à celui-ci.",
+      "text_sha256": "cbcd0452ceb10b4cb1f4d7a5c7a98864d485d028b89bf4b1e6cebaccbb3eaf49",
+      "md_span": {
+        "start": 4947,
+        "end": 5179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_10/20150914",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Lorsque les denrées alimentaires ne sont pas préemballées, la mention visée à l’article 7, paragraphe 1er et, le cas échéant, la lettre «L» visée à l’article 8 paragraphe 2 figurent sur l’emballage ou le récipient ou, à défaut, sur les documents commerciaux s’y référant.",
+      "text_sha256": "ba7b179ec134def5f59f6996b931c4e13ffbfcc1a1d73a83bcb2ec02780b0216",
+      "md_span": {
+        "start": 5216,
+        "end": 5487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_11/20150914",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Dans les cas visés aux articles 8 à 10 où la lettre «L» est obligatoire, celle-ci est à apposer de manière à être facilement visible, clairement lisible et indélébile.",
+      "text_sha256": "677824724f33dc201160f6172066e36c4582120911af1e5918d2593b75e72dd0",
+      "md_span": {
+        "start": 5524,
+        "end": 5691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_12/20150914",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Marquage du lot"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Lorsque la date de durabilité minimale ou la date limite de consommation figure dans l’étiquetage, la mention visée à l’article 7, paragraphe 1er, peut ne pas accompagner la denrée alimentaire, pourvu que cette date se compose au moins de la mention, en clair et dans l’ordre, du jour et du mois.",
+      "text_sha256": "71b5262caa67dc845c94c5ac3b024b2c0b52b68ee66aca4beaf57bcd0e725cdb",
+      "md_span": {
+        "start": 5728,
+        "end": 6024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_13/20150914",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Allégations de santé"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Pour l’application des articles 15 à 18 du règlement CE n° 1924/2006, les exploitants qui font la demande pour l’autorisation de nouvelles allégations de santé en adressent les dossiers de notifications à la Direction de la Santé.",
+      "text_sha256": "5b3747dec31459cd47b6464aef9c2ba928d2350195abbb78c441d3d5fc1cc25e",
+      "md_span": {
+        "start": 6100,
+        "end": 6330
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2006/1924/jo",
+          "text": "règlement CE n° 1924/2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_14/20150914",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Allégations de santé"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Les mesures de sauvegarde visées par l’article 24 du règlement CE n° 1924/2006 sont prises par arrêté ministériel sur avis motivé du Directeur de la Santé.",
+      "text_sha256": "cf07a301d1ec3d35bf7b6ed63bd8a9af3e82c1f9c8bd9579e50ab7b8d1f0011f",
+      "md_span": {
+        "start": 6367,
+        "end": 6522
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2006/1924/jo",
+          "text": "règlement CE n° 1924/2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_15/20150914",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions pénales"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Les infractions aux dispositions du présent règlement, du règlement (UE) n° 1169/2011 et du règlement (CE) n° 1924/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant les allégations nutritionnelles et de santé portant sur les denrées alimentaires seront punies des peines édictées par l’article 2 de la loi modifiée du 25 septembre 1953 ayant pour objet la réorganisation du contrôle des denrées alimentaires, boissons et produits usuels, sans préjudice des peines prévues par les articles 9 et suivants de cette loi, par le code pénal ou par d’autres lois.",
+      "text_sha256": "546e13bcb8dd93079e732f88b939a0e6e14a5c2f9ebf10fb3bcd3f16d8400bbc",
+      "md_span": {
+        "start": 6598,
+        "end": 7176
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2011/1169/jo",
+          "text": "règlement (UE) n° 1169/2011"
+        },
+        {
+          "href": "/eli/reg_ue/2006/1924/jo",
+          "text": "règlement (CE) n° 1924/2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1953/09/25/n1/jo",
+          "text": "loi modifiée du 25 septembre 1953"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_16/20150914",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 5: — Abrogations"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Sont abrogés par le présents règlements:\n\n- règlement grand-ducal modifié du 8 avril 1991\n- règlement grand-ducal modifié du 25 octobre 1996 règlement grand-ducal modifié du 16 avril 1992\n- règlement grand-ducal modifié du 14 décembre 2000\n- règlement grand-ducal du 14 avril 2003\n- règlement grand-ducal du 22 juin 1992",
+      "text_sha256": "07ff806ad45c366e385f715f5436354cd7732d4e375fec09fecaad5420193116",
+      "md_span": {
+        "start": 7243,
+        "end": 7563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17--1779c54da334ec290f18299f8bcb4b553ab66a2d66d3f0641ecdb915cda73bb8#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/art_17/20150914",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 5: — Abrogations"
+      ],
+      "article_valid_from": "2015-09-14",
+      "text_md": "Notre Ministre de la Santé est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "597ca5183f3259e030d81aeaf2178b496cc3bafb46048bec285cb0227d0ccccd",
+      "md_span": {
+        "start": 7600,
+        "end": 7703
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

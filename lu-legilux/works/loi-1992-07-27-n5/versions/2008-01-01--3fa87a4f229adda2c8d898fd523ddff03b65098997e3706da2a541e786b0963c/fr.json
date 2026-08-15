@@ -1,0 +1,716 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/06/2021 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales.",
+  "valid_from": "2008-01-01",
+  "valid_to": "2021-06-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1992-07-27-n5/versions/2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c/fr.xml",
+    "sha256": "0ecf272e4ac74109c1fc594c9c2b943a1276db2ff1bf391d6b7de0b55bea34b7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_1er/20080101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le Gouvernement est autorisé à mettre en œuvre une participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix qui sont effectuées dans le cadre d’organisations internationales dont le Grand-Duché de Luxembourg est membre.\n\n**(2)** La participation est décidée par le Gouvernement en Conseil après consultation des commissions compétentes de la Chambre des Députés.\n\n**(3)** Par «opération pour le maintien de la paix», au sens de la présente loi, on entend une mission à caractère civil ou militaire dont le but consiste notamment dans la prévention, la limitation, la modération ou la cessation d’hostilités internes ou inter-étatiques par l’intervention d’un tiers avec l’accord des parties directement concernées.\n\n**(4)** Est assimilée à une opération pour le maintien de la paix au sens de la présente loi, une mission d’instruction et de formation militaire dans un cadre pré- ou postconflictuel.",
+      "text_sha256": "9309c9c4d3fde054acecb96449d1bf804f02de6075a916f34eee73dd1b9d6b22",
+      "md_span": {
+        "start": 835,
+        "end": 1774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_2/20080101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** La participation à une opération pour le maintien de la paix peut comprendre:\n\n- des contributions financières ou en nature,\n- des contributions logistiques,\n- l’envoi de contingents civils,\n- l’envoi de contingents de la Force publique.\n\n**(2)** Le Gouvernement en Conseil peut décider d’intégrer ou de rattacher les contingents luxembourgeois à ceux d’un autre Etat ou d’un groupe d’Etats.\n\n**(3)** Pour chaque opération pour le maintien de la paix à laquelle le Luxembourg participe, un règlement grand-ducal à prendre sur avis obligatoire du Conseil d'Etat et de la Conférence des Présidents de la Chambre des Députés détermine les modalités d'exécution de la présente loi.",
+      "text_sha256": "9cfaed5c2a44e88f0ee324b0a36abacb532ba6a90ceb5ca3c659a7127fc220ba",
+      "md_span": {
+        "start": 1809,
+        "end": 2494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_3/20080101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Les participants à une opération pour le maintien de la paix sont choisis sur la base du volontariat.\n\n**(2)** Toutefois, en cas de besoin, le ministre de la Force publique peut désigner d’office pour participer à des opérations pour le maintien de la paix le personnel militaire de carrière tel qu’il est défini à l’article 7 sub 1. et sub. 2. de la loi portant réorganisation de l’armée.\n\nEn cas de besoin le ministre de la Force publique peut désigner d’office des membres du cadre policier de la Police grandducale pour la participation à des opérations à caractère policier.",
+      "text_sha256": "0c4dcf6adcc2e5b08f6ba467164b56655cd8fc88d631595624a57933756db162",
+      "md_span": {
+        "start": 2529,
+        "end": 3116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_4/20080101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre I. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Les frais de la participation luxembourgeoise à une opération pour le maintien de la paix sont avancés par l’Etat et peuvent être remboursés en tout ou en partie par l’organisation internationale sous la responsabilité de laquelle cette opération est organisée.\n\nLe remboursement s’effectue d’après un accord à conclure avec cette organisation internationale.",
+      "text_sha256": "12891b9ad8be3ab227baa38221255d283ac43f29b0a6bf0a203690715a4c2ea1",
+      "md_span": {
+        "start": 3151,
+        "end": 3510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_5/20080101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** L’agent de l’Etat désireux de poser sa candidature pour participer à une opération pour le maintien de la paix doit obtenir l’autorisation préalable du Ministre du ressort dont il relève.\n\n**(2)** Cet agent de l’Etat a droit à un congé spécial pour la durée de sa mission avec maintien de tous les avantages et droits découlant de son statut. Il continue notamment à jouir de son traitement, de son indemnité ou de son salaire.\n\n**(3)** Le fonctionnaire, l’employé et l’ouvrier de l’Etat participant à une opération pour le maintien de la paix continue à relever de l’autorité du Ministre du ressort, pour tout ce qui concerne sa situation de carrière, et notamment ses avancements en échelon et en traitement ainsi que ses promotions.\n\n**(4)** L’emploi d’un fonctionnaire, employé ou ouvrier de l’Etat en congé spécial pour la participation à une opération pour le maintien de la paix peut être confié à un remplaçant, à titre provisoire ou définitif, selon les besoins du service et par dépassement des effectifs prévus par la loi budgétaire.\n\n**(5)** Le congé spécial pour la participation à une opération pour le maintien de la paix est considéré comme période d’activité de service intégrale, notamment pour les avancements en échelon ou en traitement, pour le droit au congé annuel, pour les promotions et pour le droit d’admission à l’examen de promotion.\n\n**(6)** Le bénéficiaire d’un congé spécial pour la participation aux opérations pour le maintien de la paix est réintégré dans son service d’origine à l’expiration du congé spécial. Il y obtient un emploi équivalent à la fonction qu’il exerçait effectivement avant l’octroi du congé spécial.\n\n**(7)** Toutefois, si l’autorité investie du pouvoir de nomination estime que la nature du travail accompli et l’expérience acquise par l’intéressé au sein d’une opération pour le maintien de la paix justifient sa nomination à une fonction supérieure à celle visée au paragraphe (6) ci-dessus, elle peut procéder à une telle nomination sans que le bénéficiaire ne puisse, de ce fait, accéder à une fonction ou obtenir un rang plus élevé que les fonctionnaires de la même carrière entrés au service de l’Etat en même temps que lui ou avant lui.\n\n**(8)** A défaut de vacance d’emploi, l’intéressé peut être nommé à un emploi «hors cadre», si nécessaire, par dépassement des effectifs prévus par la loi budgétaire. Le bénéficiaire est réintégré dans le cadre ordinaire lors de la première vacance d’emploi qui se produit à un niveau approprié. L’emploi «hors cadre», éventuellement par dépassement des effectifs, qu’il occupait est supprimé de plein droit par l’effet de la réintégration.\n\n**(9)** Dans le cas où la nomination à un emploi «hors cadre» s’avère impossible, le fonctionnaire a droit à un emploi comportant le même rang et le même traitement que ceux dont il bénéficiait effectivement avant son départ.\n\n**(10)** L’exécution des dispositions du présent article est assurée, après délibération du Gouvernement en Conseil, par l’autorité compétente.",
+      "text_sha256": "6d3ab873e452ac850ae925d0b1fa6e376f0762bf2b7a96f324e9b74083141280",
+      "md_span": {
+        "start": 3596,
+        "end": 6618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_6/20080101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifiée et complétée comme suit : L’article 1er paragraphe 3 alinéa 2 est remplacé par le texte suivant:Les articles 2 paragraphe 1er, 6, 8 et 9, paragraphes 1er, 2 et 4, les articles 10 à 20, les articles 22 à 25, les articles 28 - à l’exception du point k) - et 29, 30 paragraphes 1er - à l’exception du dernier alinéa - 3 et 4,32 à 36 paragraphes 1er et 2, l’article 37 - pour autant qu’il concerne la sécurité sociale -, l’article 38 paragraphe 1er - à l’exception de c) et d) -, les articles 39, 44 et 47 numéros 1 à 3, l’article 54 paragraphe 1er ainsi que l’article 74.A l’article 28 paragraphe 1er est ajouté un nouveau point k) libellé comme suit :le congé spécial pour la participation à des opérations pour le maintien de paix.",
+      "text_sha256": "c519427807092877610c68216cb5bcddc6412d0e68a1062cb5df76d71713dc92",
+      "md_span": {
+        "start": 6653,
+        "end": 7483
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_7/20080101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "La présente loi s’applique également au personnel des communes, de la Société Nationale des Chemins de Fer Luxembourgeois et des établissements publics relevant de l’Etat et des communes.\n\nPour l’application des dispositions de la présente loi à ces personnes, lesquelles sont assimilées à des agents de l’Etat, notamment au sens de l’article 5 ci-dessus, les notions «autorité compétente», «Ministre du ressort», et «autorité investie du pouvoir de nomination» visent l’autorité compétente pour l’engagement des agents concernés.",
+      "text_sha256": "53ef5c220e6a20ffb382b780b2db997296e8e2419998f5c823f7320a28937272",
+      "md_span": {
+        "start": 7518,
+        "end": 8048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_8/20080101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le participant à une opération pour le maintien de la paix issu du secteur privé est recruté par le Ministre des Affaires étrangères pour une opération spécifiée.\n\n**(2)** Le contrat de travail entre le participant à une opération pour le maintien de la paix et son employeur peut, de l’accord de l’employeur, être suspendu pour la durée du contrat de travail conclu par le Ministre des Affaires étrangères conformément au paragraphe (5) ci-dessous.\n\n**(3)** L’accord visé au paragraphe (2) fait l’objet d’une convention écrite, à établir en quadruple exemplaire et à signer par l’employeur, le participant à l’opération pour le maintien de la paix et le Ministre des Affaires étrangères ou son représentant.\n\nLa convention se réfère expressément aux modalités du contrat du travail par lequel le Ministre des Affaires étrangères engage le participant à une opération pour le maintien de la paix. Ledit contrat est annexé à la convention dont il fait partie intégrante.\n\n**(4)** Pendant la suspension du contrat de travail l’employeur est déchargé des obligations à lui imposées à ce titre en vertu de la législation du travail et de la sécurité sociale.\n\n**(5)** Le participant à une opération pour le maintien de la paix issu du secteur privé est engagé, moyennant un contrat de travail à durée déterminée, par le Ministre des Affaires étrangères pour la durée de la mission spécifiée, cette durée comprenant, le cas échéant, le temps nécessaire à la formation.\n\nLes dispositions de la loi du 24 mai 1989 concernant le contrat de travail, et notamment celles de son chapitre 3, sont applicables.\n\nPar dérogation à l’article 6 (1) sous 2° de la loi du 24 mai 1989, le contrat du participant à une opération pour le maintien de la paix qui bénéficie de la suspension de son contrat de travail initial mentionne expressément, en dehors d’une durée minimale, la durée maximale prévisible de sa mission.\n\nSur demande écrite dûment motivée du participant à l’opération pour le maintien de la paix, contresignée par le Ministre des Affaires étrangères ou son représentant, l’employeur peut consentir à une prolongation de la suspension du contrat de travail suivant les modalités prévues au présent article.\n\nLe contrat à durée déterminée liant le Ministre des Affaires étrangères au participant à l’opération pour le maintien de la paix fait, dans ce cas, l’objet d’une prolongation conformément aux articles 6 à 13 de la loi du 24 mai 1989 sur le contrat de travail.\n\n**(6)** Les obligations imposées à l’employeur par la législation du travail et de la sécurité sociale sont assumées pendant la durée de la mission par le Ministre des Affaires étrangères.\n\n**(7)** Le participant à une opération pour le maintien de la paix issu du secteur privé a droit à une rémunération fixée de cas en cas et versée par le Ministre des Affaires étrangères.\n\nEn vue de la fixation de cette rémunération, il est notamment tenu compte du niveau de rémunération accordée pour une activité similaire exercée au service de l’Etat ou de la rémunération que le participant à une opération pour le maintien de la paix a touchée dans la profession dont il a suspendu l’exercice ou dans celle qu’il exerçcait avant de participer à l’opération pour le maintien de la paix.\n\n**(8)** Le contrat de travail liant le participant à son employeur reprend ses effets de plein droit du fait de la reprise du travail par le participant dès la cessation du contrat conclu avec le Ministre conformément au paragraphe (5).",
+      "text_sha256": "0d1ff7907179627b5f375f6302ec8033703ef1f2c491b6118d80b1328f50b88e",
+      "md_span": {
+        "start": 8083,
+        "end": 11574
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/05/24/n1/jo",
+          "text": "loi du 24 mai 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_9/20080101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le participant à une opération pour le maintien de la paix issu du secteur public ou privé a droit, pendant la durée effective de sa mission à l’étranger, à une indemnité spéciale non pensionnable.\n\n**(2)** Cette indemnité spéciale, fixée par le Gouvernement en Conseil, est exempte d’impôts et de cotisations sociales.",
+      "text_sha256": "db16df7a417bdefb84490cfd374e0a74e0ce1f7a2896c5e74169555c32bfc4c1",
+      "md_span": {
+        "start": 11609,
+        "end": 11936
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_10/20080101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Des participants civils**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** La participation à une opération pour le maintien de la paix ne confère pas le droit à un engagement ultérieur au service de l’Etat.\n\n**(2)** Néanmoins, lorsqu’un ancien participant à une opération pour le maintien de la paix entre au service permanent de l’Etat, le temps passé dans les opérations pour le maintien de la paix est considéré comme période passée au service de l’Etat à tâche complète et donne droit notamment à\n\n- loi modifiée du 22 juin 1963\n- loi modifiée du 28 mars 1986\n- loi du 27 janvier 1972\n- loi du 16 avril 1979\n- er loi modifiée du 26 mai 1954\n- une réduction de stage équivalente à la durée de service effective dans les opérations pour le maintien de la paix.\n\n**(3)** Les dispositions du présent article s’appliquent également aux hommes de troupe de l’Armée qui entrent au service permanent de l’Etat après avoir accompli un service militaire volontaire d’au moins trois ans.",
+      "text_sha256": "44f99da8608dcf5180ad8cad1656999c55d5c13f296f74f0c3efb3a036de22a4",
+      "md_span": {
+        "start": 11973,
+        "end": 12887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_11/20080101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le personnel militaire de la carrière militaire de l’Armée, les membres du cadre supérieur de la Police, le personnel des carrières de l’inspecteur de police et de brigadier de police et les soldats de l’Armée peuvent se porter volontaires pour participer à une opération pour le maintien de la paix à titre de membre de la Force publique ou de personne civile.\n\n**(2)** Dans le cas où ils souhaitent se porter volontaires à une opération pour le maintien de la paix à titre de personne civile, ils doivent obtenir l’autorisation préalable du Ministre de la Force publique.\n\n**(3)** S’ils sont choisis par le Ministre des Affaires étrangères, ils sont considérés comme participants civils à une opération pour le maintien de la paix au sens des dispositions de la présente loi.",
+      "text_sha256": "004fb67a1d2b3287837761424c846d5992e57e7eabd9a151aa5c2919e9b4d2b1",
+      "md_span": {
+        "start": 12986,
+        "end": 13771
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_12/20080101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Les dispositions prévues à l’article 20 (2) de la présente loi, sont applicables aux membres d’un contingent de la Force publique pour les opérations pour le maintien de la paix.",
+      "text_sha256": "0ce679d522f02a4b52f3091106551eb860f7b30dc3d61fcbb5970c715666243a",
+      "md_span": {
+        "start": 13808,
+        "end": 13986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_13/20080101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** L’officier, le sous-officier, le caporal, le gendarme et l’agent de police peut, avec son accord et pour la durée de sa mission, être placé hors cadre par dépassement des effectifs prévus dans la loi du 23 juillet 1952 concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite.\n\n**(2)** Les personnes visées au paragraphe 1er peuvent avancer hors cadre et hors effectifs aux grades supérieurs de leur carrière, au moment auquel serait intervenu leur avancement s’ils avaient été maintenus dans le cadre de leur administration.\n\n**(3)** Le volontaire de l’Armée participant à une opération pour le maintien de la paix est, pour la durée de sa mission, placé hors contingent par dépassement des effectifs fixés en application de l’article 11, alinéa 1er, de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire.",
+      "text_sha256": "c68dd47d487764241817dd357c4288b7abe0229aaa0efbf55ef98afdf502ad8a",
+      "md_span": {
+        "start": 14023,
+        "end": 14880
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi du 23 juillet 1952"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi modifiée du 23 juillet 1952"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_14/20080101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Par dérogation à l’article 20 de la loi du 23 juillet 1952 concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite, peuvent être adjoints à chaque contingent de la Force publique et chargés de fonctions militaires en vertu d’une commission, des experts civils possédant des qualifications particulièrement utiles pour les opérations concernées. Ces experts sont adjoints au corps des officiers ou au corps des sous-officiers ou au corps des caporaux selon leur qualification professionnelle.\n\n**(2)** La commission est délivrée et retirée par le Ministre de la Force publique, le Ministre des Affaires étrangères et le commandant de l’Armée entendus en leur avis.",
+      "text_sha256": "f78e742f42d6de93956aab7a7186dc35ab3fe03e64ed1cc046b2fdc8ac84946d",
+      "md_span": {
+        "start": 14917,
+        "end": 15612
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi du 23 juillet 1952"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_15/20080101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Par dépassement des effectifs prévus aux articles 60 et 70 de la loi du 23 juillet 1952 concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite, peuvent être adjoints, en vertu d’une commission, à chaque contingent de la Force publique fourni par la Gendarmerie et la Police, des experts civils possédant des qualifications particulièrement utiles pour les opérations concernées.\n\n**(2)** La commission est délivrée et retirée par le Ministre de la Force publique, le Ministre des Affaires étrangères, le commandant de la Gendarmerie et le directeur de la Police entendus en leur avis.",
+      "text_sha256": "3ddc4f95ab9c47c2951e8c0044abb4e672e90d4bf680760f178e2c4af5622c8b",
+      "md_span": {
+        "start": 15649,
+        "end": 16266
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi du 23 juillet 1952"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_16/20080101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Pour tout ce qui concerne l’autorisation du port d’armes et l’usage de celles-ci, les membres de la Force publique se conforment aux ordres, directives ou consignes du commandant de la Force pour le maintien de la paix à laquelle ils participent.",
+      "text_sha256": "054d914a1d055beaecb489305a43c7f9f02cf1c046d891723d50145874edeac2",
+      "md_span": {
+        "start": 16303,
+        "end": 16549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_17/20080101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre III. ** — **Des membres de la Force publique**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le membre de la Force publique ne remplissant plus les conditions physiques à l’avancement à la suite de sa participation à une opération pour le maintien de la paix, est placé hors cadre par dépassement des effectifs et peut avancer hors cadre aux grades supérieurs de sa carrière, simultanément avec ses collègues de rang égal ou immédiatement inférieur.\n\n**(2)** Le volontaire de l’Armée ne remplissant plus les conditions physiques pour une nomination auprès de l’Etat à la suite de sa participation à une opération pour le maintien de la paix, bénéficie, par dérogation aux dispositions légales et réglementaires existantes, et notamment de l’article 14 de la loi du 23 juillet 1952 concernant l’organisation militaire, d’un droit de priorité pour l’accès aux emplois de la carrière inférieure des administrations de l’Etat, des communes, des établissements publics relevant de l’Etat et des communes et de la Société Nationale des Chemins de Fer Luxembourgeois, même s’il n’a pas accompli une période de service de trois ans en tant que volontaire de l’Armée, les autres conditions d’admission aux emplois brigués devant par ailleurs être remplies.\n\n**(3)** Les dispositions des paragraphes 1er et 2 ne s’appliquent pas si l’Etat rapporte la preuve que l’invalidité est imputable à des événements qui ne sont pas en rapport avec la participation à une opération pour le maintien de la paix.",
+      "text_sha256": "0a693d312119c491fc07548e3ccc5df6e78d5c6f42efbf29fc9d218e4ba12551",
+      "md_span": {
+        "start": 16586,
+        "end": 17990
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1952/07/23/n1/jo",
+          "text": "loi du 23 juillet 1952"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_18/20080101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Dispositions relatives à la sécurité sociale**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le fonctionnaire, l’employé et l’ouvrier de l’Etat ou d’une commune ou d’un établissement public participant à une opération pour le maintien de la paix continue à relever du régime de sécurité sociale correspondant à son statut.\n\n**(2)** Le participant issu du secteur privé est soumis au régime de sécurité sociale soit des employés privés, soit des ouvriers, suivant que son occupation, d’après le contrat de travail conclu avec le Ministre des Affaires étrangères conformément à l’article 8 (5), est principalement intellectuelle ou manuelle.",
+      "text_sha256": "716fd900da9d3f545786820199944acfaa8fc5ae476cff2eb09dddf16f3313b8",
+      "md_span": {
+        "start": 18099,
+        "end": 18653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_19/20080101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Dispositions relatives à la sécurité sociale**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** L’Etat assume la différence entre le montant des frais pour soins médicaux effectivement exposés par le participant à une opération pour le maintien de la paix pendant sa mission et les tarifs applicables par les caisses de maladie, déduction faite de la participation éventuellement à charge de l’assuré en vertu des lois, règlements ou statuts. La part différentielle à charge de l’Etat est remboursée par celui-ci aux caisses qui en font l’avance. Les prestations accordées à titre gratuit par l’intermédiaire du service de santé de l’opération ne peuvent faire l’objet d’un remboursement.\n\n**(2)** Pendant la durée du congé légal de maternité, l’employeur fait, à charge de remboursement par les caisses de maladie, l’avance des indemnités pécuniaires de maternité.\n\n**(3)** Pour l’application de la législation concernant les prestations familiales, les périodes passées à l’étranger lors d’une opération pour le maintien de la paix sont assimilées à des périodes de résidence au Luxembourg.\n\n**(4)** Les périodes accomplies en tant que participant à une opération pour le maintien de la paix sont prises en compte pour le stage prévu à l’article 16 de la loi modifiée du 30 juin 1976 portant a) création d’un fonds pour l’emploi b) réglementation de l’octroi des indemnités de chômage complet.\n\n**(5)** Les dispositions de l’article 1er, alinéa 5, de la loi du 26 mars 1974 portant fixation de suppléments de pension à allouer aux personnes devenues victimes d’actes illégaux de l’occupant en cas d’invalidité ou de décès précoces sont applicables par analogie aux participants à une opération pour le maintien de la paix.",
+      "text_sha256": "901e46322e6f3bcc09a47805e0692145fc90913b60c803ffee6f3ff85f839682",
+      "md_span": {
+        "start": 18690,
+        "end": 20326
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/06/30/n1/jo",
+          "text": "loi modifiée du 30 juin 1976"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1974/03/26/n1/jo",
+          "text": "loi du 26 mars 1974"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_20/20080101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Dispositions relatives à la sécurité sociale**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le code des assurances sociales est modifié comme suit :\n\n1. er er Il en est de même des participants à des opérations de la paix ayant le statut d’ouvrier.\n2. er Sont assurés en outre les participants à des opérations pour le maintien de la paix, dans les conditions de leur statut professionnel découlant de l’article 17 de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d’organisations internationales.\n3. Il en est de même des activités prestées comme participant à une opération pour le maintien de la paix visée par la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d’organisations internationales.\n4. 1. les périodes pendant lesquelles l’intéressé a participé à une opération pour le maintien de la paix conformément à la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.\n5. - par parts égales aux assurés et aux employeurs pour autant qu’il s’agit de périodes visées aux articles 171, 1), 5), 8) et 11) ;\n\n**(2)** A l’article 9. I. sous c) de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est ajouté un nouveau numéro 3 libellé comme suit:Le temps passé comme participant à des opérations pour le maintien de la paix, conformément à la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.\n\n**(3)** A l’article 12.I.c) de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics est ajouté un numéro 4 libellé ainsi:Le temps passé comme participant à des opérations pour le maintien de la paix, conformément à la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.",
+      "text_sha256": "cc3bf94afe58e267d27663dc6a6f0745d60b6411c5d14f833f9cee87971245b0",
+      "md_span": {
+        "start": 20363,
+        "end": 22536
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code des assurances sociales"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi du 27 juillet 1992"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1954/05/26/n2/jo",
+          "text": "loi modifiée du 26 mai 1954"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1912/08/07/n2/jo",
+          "text": "loi modifiée du 7 août 1912"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_21/20080101",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — **Dispositions relatives à la sécurité sociale**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "L’enfant d’un participant à une opération pour le maintien de la paix décédé au cours de sa mission bénéficie, jusqu’à l’âge de dix-huit ans ou jusqu’au terme de ses études, du régime applicable aux pupilles de la nation et aux orphelins de guerre.",
+      "text_sha256": "8c4b947a397085fc3561a0007bd7b1c44cdf5dbb9f635f213fdf55a696d7a2fc",
+      "md_span": {
+        "start": 22573,
+        "end": 22821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_22/20080101",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Les personnes auxquelles la loi a déclaré applicables les dispositions du code pénal militaire luxembourgeois demeurent soumises aux dispositions de ce code et relèvent de la compétence des juridictions militaires luxembourgeoises à l’occasion de leur participation à une opération pour le maintien de la paix.",
+      "text_sha256": "ae447d28c9f4e92a6ea16d5d1cd3a816427b10ac818931030c0c7e30c14c667b",
+      "md_span": {
+        "start": 22923,
+        "end": 23233
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1982/12/31/n1/jo",
+          "text": "code pénal militaire luxembourgeois"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_23/20080101",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Par dérogation à l’article 5 du code d’instruction criminelle, toute personne qui, pendant sa participation à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois, se rend coupable d’un fait punissable selon la loi luxembourgeoise, peut être poursuivie et jugée dans le Grand-Duché.",
+      "text_sha256": "dbffb921cd5ec285a414c0141815ce5bde3b102db3a44ef13686d7b9f8482fcc",
+      "md_span": {
+        "start": 23270,
+        "end": 23584
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_24/20080101",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Sans préjudice des dispositions particulières de la présente loi, et sans préjudice des dispositions particulières aux personnes relevant du statut militaire, la personne qui participe à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois, est tenue dans ses rapports avec l’Etat luxembourgeois, aux devoirs résultant du statut général des fonctionnaires de l’Etat et notamment des articles 10 et 11 de ce statut. Elle relève de l’autorité du Ministre des Affaires étrangères.\n\n**(2)** Elle s’oblige à exécuter sa mission avec dévouement et intégrité et, conformément aux articles 28 et 29 ci-après, à obéir aux instructions de ses supérieurs hiérarchiques.\n\n**(3)** Hormis les impératifs inhérents à sa mission, elle s’abstient de toute intervention dans les affaires publiques des pays où elle exécute celle-ci.\n\n**(4)** Elle ne peut accepter ni directement, ni indirectement, des avantages matériels dont l’acceptation pourrait la mettre en conflit avec les obligations et les défenses que lui imposent les lois et les règlements et notamment le statut général des fonctionnaires de l’Etat, tel que prévu par la loi modifiée du 16 avril 1979. Elle ne peut collaborer, en dehors des nécessités inhérentes à l’exécution de sa mission, d’une manière quelconque, même à titre gratuit, avec des entreprises qui poursuivent un but lucratif, ou à la réalisation d’affaires menées dans un but de lucre.\n\nTout acte contraire aux dispositions qui précèdent constitue une faute passible des sanctions disciplinaires prévues pour les fonctionnaires de l’Etat. En particulier, lorsque l’intéressé a enfreint les dispositions précisées sous (3) et (4), le Ministre des Affaires étrangères peut prononcer son rappel avec ou sans perte, à partir de la date du fait incriminé, des avantages prévus au présent statut, le droit au rapatriement lui restant cependant acquis.\n\nContre les décisions prononçant le rappel et la perte des avantages, un recours est ouvert devant le tribunal administratif qui statue comme juge du fond.\n\n**(5)** Sans préjudice des sanctions disciplinaires prévues aux alinéas précédents, les dispositions des articles 246, 247, 248, 257 et 260 du code pénal sont applicables aux personnes qui participent à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois pour les actes commis à l’occasion de leur mission.",
+      "text_sha256": "df1458cfa7c81a00cac1a5020937d46ec3b8cfd8964ecd27d6bd4154644fa54b",
+      "md_span": {
+        "start": 23621,
+        "end": 26016
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_25/20080101",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "La personne nommée chef du contingent civil par un arrêté du Ministre des Affaires étrangères est investie des pouvoirs qui incombent au chef d’administration en ce qui concerne la discipline et la hiérarchie tels que définis dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "3250334ae8e55327a7b2368f17ac3999767194afadd318765e27003860eefa03",
+      "md_span": {
+        "start": 26053,
+        "end": 26371
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_26/20080101",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Le membre de la Force publique participant à une opération pour le maintien de la paix reste soumis au règlement de discipline luxembourgeois, tel que défini dans la loi du 16 avril 1979 concernant la discipline dans la Force publique.",
+      "text_sha256": "ddec503154b41170d357087fb0cebf4b1fe02d4945a44e16ce92f2ec503dca61",
+      "md_span": {
+        "start": 26408,
+        "end": 26643
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n5/jo",
+          "text": "loi du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_27/20080101",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Sans préjudice des dispositions de l’article 23 de la loi du 16 avril 1979 concernant la discipline dans la Force publique et par dérogation aux articles 20 et 24 ci-dessus, le membre de la Force publique qui participe à une opération pour le maintien de la paix à titre de personne civile n’est plus, pour la durée de sa mission, soumis au code pénal militaire ou au règlement de discipline de la Force publique.",
+      "text_sha256": "e88fd8c2d333508f3de9e81f8042c93a061dbcb55a9be50d6c03afedad399287",
+      "md_span": {
+        "start": 26680,
+        "end": 27093
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n5/jo",
+          "text": "loi du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_28/20080101",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Sous réserve des dispositions de l’article 29 ci-après, toute personne participant à une opération pour le maintien de la paix se conforme aux dispositions du règlement de discipline en vigueur dans la Force dont elle fait partie et obéit aux ordres, directives ou consignes donnés pour les besoins opérationnels par le Commandant en Chef de cette Force ou par la voie hiérarchique de celle-ci.\n\n**(2)** Toute infraction à la disposition du paragraphe (1) constitue une infraction respectivement à la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, ou à la loi du 16 avril 1979 ayant pour objet la discipline dans la Force publique, et est punissable comme telle.",
+      "text_sha256": "9795d03304426146bf76a897a10cd0b43d8a991a5e5132488ab9d0f23f331ac5",
+      "md_span": {
+        "start": 27130,
+        "end": 27838
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n5/jo",
+          "text": "loi du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_29/20080101",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — **Dispositions pénales et disciplinaires**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Si le chef du contingent civil, ou le commandant du contingent de la Force publique, participant à une opération pour le maintien de la paix considère qu’un ordre, une directive ou une consigne, émanant des autorités hiérarchiques supérieures de cette opération pour le maintien de la paix ou d’une autorité étrangère dans laquelle la contribution luxembourgeoise a été intégrée ou à laquelle elle a été rattachée en vertu de l’article 2 ci-dessus, ou qu’une disposition du règlement de discipline de la Force pour le maintien de la paix concernée,\n\n- est contraire aux normes fondamentales du droit international,\n- est incompatible avec les normes du droit luxembourgeois,\n- est contraire aux intérêts du Grand-Duché de Luxembourg,\n\nil en refuse l’exécution, en avertit les autorités hiérarchiques compétentes ou l’autorité étrangère concernée et en informe le Gouvernement luxembourgeois.\n\nCelui-ci, après concertation avec les autorités compétentes ou après concertation avec l’Etat ou les Etats concernés, informe par écrit le chef du contingent civil ou le commandant du contingent de la Force publique ayant formulé une objection des suites qu’il faudra donner à l’ordre, directive ou consigne ou à la disposition du règlement de discipline qui a fait l’objet de l’objection en question.",
+      "text_sha256": "a42af3125589c39dfceae487b7e6819bf17b6bfc48fee8733eeaf822a443ad50",
+      "md_span": {
+        "start": 27875,
+        "end": 29169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_30/20080101",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Est assimilée à une opération pour le maintien de la paix au sens de la présente loi, la participation de fonctionnaires civils et militaires à la mission des observateurs de la Communauté Européenne en Yougoslavie.",
+      "text_sha256": "f70a60e9a67ea310c8da5d8943e6c24d8cd7faf211d6b9d055f19ed1c1ac404f",
+      "md_span": {
+        "start": 29254,
+        "end": 29469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1992-07-27-n5:2008-01-01--3fa87a4f229adda2c8d898fd523ddff03b65098997e3706da2a541e786b0963c#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_31/20080101",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "Le Gouvernement est autorisé à appliquer à titre rétroactif le bénéfice des dispositions des articles 9, alinéa 2, et 17 à 21 cidessus aux membres de la Force publique ayant participé à une mission de maintien de la paix ou à une mission d’observateurs de la Communauté Européenne antérieures à l’entrée en vigueur de la présente loi.",
+      "text_sha256": "314683accce3336a80fd30606c3ec6a84b1eaa010d3efef8558b5223bcdd4108",
+      "md_span": {
+        "start": 29506,
+        "end": 29840
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

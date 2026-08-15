@@ -1,0 +1,50 @@
+---
+lex_id: 'eu-eurlex:32016r1608:2016-05-17--9ea58d4b14c43d8dc312af233634baa5c5cd93856ac9d4ec067b14bff154f46c'
+title: 'Commission Delegated Regulation (EU) 2016/1608 of 17 May 2016 amending Delegated Regulatio…'
+valid_from: '2016-05-17'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1608'
+source_sha256: '75d66525ef5d3bf039349fe7471aa55044cff59a920a9fbabbdc7a5662fec8b8'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le règlement délégué (UE) no 1222/2014 est modifié comme suit:
+
+| 1) | À l'article 5, le paragraphe 6 est remplacé par le texte suivant:«6. Les décisions visées aux paragraphes 4 et 5 peuvent être étayées par des données auxiliaires, qui ne peuvent pas être des indicateurs de la probabilité d'une défaillance de l'entité pertinente. Ces décisions comprennent des informations quantitatives et qualitatives bien documentées et vérifiables.» |
+| --- | --- |
+
+| 2) | L'article 6 est remplacé par le texte suivant:«Article 6Indicateurs1. La catégorie permettant de mesurer la taille du groupe se compose d'un indicateur égal à l'exposition totale du groupe.2. La catégorie permettant de mesurer l'interdépendance du groupe et du système financier se compose de l'ensemble des indicateurs suivants:a)actifs au sein du système financier;b)passifs au sein du système financier;c)encours de titres.3. La catégorie permettant de mesurer la faculté de substitution des services ou de l'infrastructure financière fournis par le groupe se compose de l'ensemble des indicateurs suivants:a)actifs sous conservation;b)activité de paiement;c)opérations de prise ferme sur les marchés obligataires et boursiers.4. La catégorie permettant de mesurer la complexité du groupe se compose de l'ensemble des indicateurs suivants:a)valeur notionnelle des dérivés de gré à gré;b)actifs classés au niveau 3 de la hiérarchie des justes valeurs conformément au règlement délégué (UE) no 1255/2012 de la Commission(*1);c)titres détenus à des fins de négociation et disponibles à la vente.5. La catégorie permettant de mesurer les activités transfrontières du groupe se compose des indicateurs suivants:a)créances transfrontières;b)passifs transfrontières.6. Pour les données transmises dans des monnaies autres que l'euro, l'autorité pertinente utilise un taux de change approprié tenant compte du taux de change de référence publié par la Banque centrale européenne applicable au 31 décembre et des normes internationales. Pour l'indicateur d'activité de paiement visé au paragraphe 3, point b), l'autorité pertinente utilise les taux de change moyens pour l'année en question.(*1) Règlement (UE) no 1255/2012 de la Commission du 11 décembre 2012 modifiant le règlement (CE) no 1126/2008 portant adoption de certaines normes comptables internationales conformément au règlement (CE) no 1606/2002 du Parlement européen et du Conseil, pour ce qui concerne la norme comptable internationale IAS 12, les normes internationales d'information financière IFRS 1 et 13 et l'interprétation IFRIC 20 de l'International Financial Reporting Interpretations Committee (JO L 360 du 29.12.2012, p. 78).» " |
+| --- | --- |
+| a) | actifs au sein du système financier; |
+| b) | passifs au sein du système financier; |
+| c) | encours de titres. |
+| a) | actifs sous conservation; |
+| b) | activité de paiement; |
+| c) | opérations de prise ferme sur les marchés obligataires et boursiers. |
+| a) | valeur notionnelle des dérivés de gré à gré; |
+| b) | actifs classés au niveau 3 de la hiérarchie des justes valeurs conformément au règlement délégué (UE) no 1255/2012 de la Commission(*1); |
+| c) | titres détenus à des fins de négociation et disponibles à la vente. |
+| a) | créances transfrontières; |
+| b) | passifs transfrontières. |
+
+| 3) | À l'article 7, la dernière phrase est supprimée. |
+| --- | --- |
+
+| 4) | L'annexe est supprimée. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Le présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.

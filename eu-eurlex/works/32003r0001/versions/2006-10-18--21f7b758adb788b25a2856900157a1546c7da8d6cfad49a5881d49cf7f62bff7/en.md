@@ -1,0 +1,691 @@
+---
+lex_id: 'eu-eurlex:32003r0001:2006-10-18--21f7b758adb788b25a2856900157a1546c7da8d6cfad49a5881d49cf7f62bff7'
+title: 'Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules o…'
+valid_from: '2006-10-18'
+valid_to: '2009-06-30'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R0001-20061018'
+source_sha256: '430a89872405f3339c6ae792bccac91731fb3a48a612aec4a375f2a61a64b644'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### PRINCIPLES
+
+<a id="art_1"></a>
+
+### Article 1 — Application of Articles 81 and 82 of the Treaty
+
+1. Agreements, decisions and concerted practices caught by Article 81(1) of the Treaty which do not satisfy the conditions of Article 81(3) of the Treaty shall be prohibited, no prior decision to that effect being required.
+
+2. Agreements, decisions and concerted practices caught by Article 81(1) of the Treaty which satisfy the conditions of Article 81(3) of the Treaty shall not be prohibited, no prior decision to that effect being required.
+
+3. The abuse of a dominant position referred to in Article 82 of the Treaty shall be prohibited, no prior decision to that effect being required.
+
+<a id="art_2"></a>
+
+### Article 2 — Burden of proof
+
+In any national or Community proceedings for the application of Articles 81 and 82 of the Treaty, the burden of proving an infringement of Article 81(1) or of Article 82 of the Treaty shall rest on the party or the authority alleging the infringement. The undertaking or association of undertakings claiming the benefit of Article 81(3) of the Treaty shall bear the burden of proving that the conditions of that paragraph are fulfilled.
+
+<a id="art_3"></a>
+
+### Article 3 — Relationship between Articles 81 and 82 of the Treaty and national competition laws
+
+1. Where the competition authorities of the Member States or national courts apply national competition law to agreements, decisions by associations of undertakings or concerted practices within the meaning of Article 81(1) of the Treaty which may affect trade between Member States within the meaning of that provision, they shall also apply Article 81 of the Treaty to such agreements, decisions or concerted practices. Where the competition authorities of the Member States or national courts apply national competition law to any abuse prohibited by Article 82 of the Treaty, they shall also apply Article 82 of the Treaty.
+
+2. The application of national competition law may not lead to the prohibition of agreements, decisions by associations of undertakings or concerted practices which may affect trade between Member States but which do not restrict competition within the meaning of Article 81(1) of the Treaty, or which fulfil the conditions of Article 81(3) of the Treaty or which are covered by a Regulation for the application of Article 81(3) of the Treaty. Member States shall not under this Regulation be precluded from adopting and applying on their territory stricter national laws which prohibit or sanction unilateral conduct engaged in by undertakings.
+
+3. Without prejudice to general principles and other provisions of Community law, paragraphs 1 and 2 do not apply when the competition authorities and the courts of the Member States apply national merger control laws nor do they preclude the application of provisions of national law that predominantly pursue an objective different from that pursued by Articles 81 and 82 of the Treaty.
+
+## CHAPTER II
+
+### POWERS
+
+<a id="art_4"></a>
+
+### Article 4 — Powers of the Commission
+
+For the purpose of applying Articles 81 and 82 of the Treaty, the Commission shall have the powers provided for by this Regulation.
+
+<a id="art_5"></a>
+
+### Article 5 — Powers of the competition authorities of the Member States
+
+The competition authorities of the Member States shall have the power to apply Articles 81 and 82 of the Treaty in individual cases. For this purpose, acting on their own initiative or on a complaint, they may take the following decisions:
+
+— requiring that an infringement be brought to an end,
+
+— ordering interim measures,
+
+— accepting commitments,
+
+— imposing fines, periodic penalty payments or any other penalty provided for in their national law.
+
+Where on the basis of the information in their possession the conditions for prohibition are not met they may likewise decide that there are no grounds for action on their part.
+
+<a id="art_6"></a>
+
+### Article 6 — Powers of the national courts
+
+National courts shall have the power to apply Articles 81 and 82 of the Treaty.
+
+## CHAPTER III
+
+### COMMISSION DECISIONS
+
+<a id="art_7"></a>
+
+### Article 7 — Finding and termination of infringement
+
+1. Where the Commission, acting on a complaint or on its own initiative, finds that there is an infringement of Article 81 or of Article 82 of the Treaty, it may by decision require the undertakings and associations of undertakings concerned to bring such infringement to an end. For this purpose, it may impose on them any behavioural or structural remedies which are proportionate to the infringement committed and necessary to bring the infringement effectively to an end. Structural remedies can only be imposed either where there is no equally effective behavioural remedy or where any equally effective behavioural remedy would be more burdensome for the undertaking concerned than the structural remedy. If the Commission has a legitimate interest in doing so, it may also find that an infringement has been committed in the past.
+
+2. Those entitled to lodge a complaint for the purposes of paragraph 1 are natural or legal persons who can show a legitimate interest and Member States.
+
+<a id="art_8"></a>
+
+### Article 8 — Interim measures
+
+1. In cases of urgency due to the risk of serious and irreparable damage to competition, the Commission, acting on its own initiative may by decision, on the basis of a *prima facie* finding of infringement, order interim measures.
+
+2. A decision under paragraph 1 shall apply for a specified period of time and may be renewed in so far this is necessary and appropriate.
+
+<a id="art_9"></a>
+
+### Article 9 — Commitments
+
+1. Where the Commission intends to adopt a decision requiring that an infringement be brought to an end and the undertakings concerned offer commitments to meet the concerns expressed to them by the Commission in its preliminary assessment, the Commission may by decision make those commitments binding on the undertakings. Such a decision may be adopted for a specified period and shall conclude that there are no longer grounds for action by the Commission.
+
+2. The Commission may, upon request or on its own initiative, reopen the proceedings:
+
+(a) where there has been a material change in any of the facts on which the decision was based;
+
+(b) where the undertakings concerned act contrary to their commitments; or
+
+(c) where the decision was based on incomplete, incorrect or misleading information provided by the parties.
+
+<a id="art_10"></a>
+
+### Article 10 — Finding of inapplicability
+
+Where the Community public interest relating to the application of Articles 81 and 82 of the Treaty so requires, the Commission, acting on its own initiative, may by decision find that Article 81 of the Treaty is not applicable to an agreement, a decision by an association of undertakings or a concerted practice, either because the conditions of Article 81(1) of the Treaty are not fulfilled, or because the conditions of Article 81(3) of the Treaty are satisfied.
+
+The Commission may likewise make such a finding with reference to Article 82 of the Treaty.
+
+## CHAPTER IV
+
+### COOPERATION
+
+<a id="art_11"></a>
+
+### Article 11 — Cooperation between the Commission and the competition authorities of the Member States
+
+1. The Commission and the competition authorities of the Member States shall apply the Community competition rules in close cooperation.
+
+2. The Commission shall transmit to the competition authorities of the Member States copies of the most important documents it has collected with a view to applying Articles 7, 8, 9, 10 and Article 29(1). At the request of the competition authority of a Member State, the Commission shall provide it with a copy of other existing documents necessary for the assessment of the case.
+
+3. The competition authorities of the Member States shall, when acting under Article 81 or Article 82 of the Treaty, inform the Commission in writing before or without delay after commencing the first formal investigative measure. This information may also be made available to the competition authorities of the other Member States.
+
+4. No later than 30 days before the adoption of a decision requiring that an infringement be brought to an end, accepting commitments or withdrawing the benefit of a block exemption Regulation, the competition authorities of the Member States shall inform the Commission. To that effect, they shall provide the Commission with a summary of the case, the envisaged decision or, in the absence thereof, any other document indicating the proposed course of action. This information may also be made available to the competition authorities of the other Member States. At the request of the Commission, the acting competition authority shall make available to the Commission other documents it holds which are necessary for the assessment of the case. The information supplied to the Commission may be made available to the competition authorities of the other Member States. National competition authorities may also exchange between themselves information necessary for the assessment of a case that they are dealing with under Article 81 or Article 82 of the Treaty.
+
+5. The competition authorities of the Member States may consult the Commission on any case involving the application of Community law.
+
+6. The initiation by the Commission of proceedings for the adoption of a decision under Chapter III shall relieve the competition authorities of the Member States of their competence to apply Articles 81 and 82 of the Treaty. If a competition authority of a Member State is already acting on a case, the Commission shall only initiate proceedings after consulting with that national competition authority.
+
+<a id="art_12"></a>
+
+### Article 12 — Exchange of information
+
+1. For the purpose of applying Articles 81 and 82 of the Treaty the Commission and the competition authorities of the Member States shall have the power to provide one another with and use in evidence any matter of fact or of law, including confidential information.
+
+2. Information exchanged shall only be used in evidence for the purpose of applying Article 81 or Article 82 of the Treaty and in respect of the subject-matter for which it was collected by the transmitting authority. However, where national competition law is applied in the same case and in parallel to Community competition law and does not lead to a different outcome, information exchanged under this Article may also be used for the application of national competition law.
+
+3. Information exchanged pursuant to paragraph 1 can only be used in evidence to impose sanctions on natural persons where:
+
+— the law of the transmitting authority foresees sanctions of a similar kind in relation to an infringement of Article 81 or Article 82 of the Treaty or, in the absence thereof,
+
+— the information has been collected in a way which respects the same level of protection of the rights of defence of natural persons as provided for under the national rules of the receiving authority. However, in this case, the information exchanged cannot be used by the receiving authority to impose custodial sanctions.
+
+<a id="art_13"></a>
+
+### Article 13 — Suspension or termination of proceedings
+
+1. Where competition authorities of two or more Member States have received a complaint or are acting on their own initiative under Article 81 or Article 82 of the Treaty against the same agreement, decision of an association or practice, the fact that one authority is dealing with the case shall be sufficient grounds for the others to suspend the proceedings before them or to reject the complaint. The Commission may likewise reject a complaint on the ground that a competition authority of a Member State is dealing with the case.
+
+2. Where a competition authority of a Member State or the Commission has received a complaint against an agreement, decision of an association or practice which has already been dealt with by another competition authority, it may reject it.
+
+<a id="art_14"></a>
+
+### Article 14 — Advisory Committee
+
+1. The Commission shall consult an Advisory Committee on Restrictive Practices and Dominant Positions prior to the taking of any decision under Articles 7, 8, 9, 10, 23, Article 24(2) and Article 29(1).
+
+2. For the discussion of individual cases, the Advisory Committee shall be composed of representatives of the competition authorities of the Member States. For meetings in which issues other than individual cases are being discussed, an additional Member State representative competent in competition matters may be appointed. Representatives may, if unable to attend, be replaced by other representatives.
+
+3. The consultation may take place at a meeting convened and chaired by the Commission, held not earlier than 14 days after dispatch of the notice convening it, together with a summary of the case, an indication of the most important documents and a preliminary draft decision. In respect of decisions pursuant to Article 8, the meeting may be held seven days after the dispatch of the operative part of a draft decision. Where the Commission dispatches a notice convening the meeting which gives a shorter period of notice than those specified above, the meeting may take place on the proposed date in the absence of an objection by any Member State. The Advisory Committee shall deliver a written opinion on the Commission's preliminary draft decision. It may deliver an opinion even if some members are absent and are not represented. At the request of one or several members, the positions stated in the opinion shall be reasoned.
+
+4. Consultation may also take place by written procedure. However, if any Member State so requests, the Commission shall convene a meeting. In case of written procedure, the Commission shall determine a time-limit of not less than 14 days within which the Member States are to put forward their observations for circulation to all other Member States. In case of decisions to be taken pursuant to Article 8, the time-limit of 14 days is replaced by seven days. Where the Commission determines a time-limit for the written procedure which is shorter than those specified above, the proposed time-limit shall be applicable in the absence of an objection by any Member State.
+
+5. The Commission shall take the utmost account of the opinion delivered by the Advisory Committee. It shall inform the Committee of the manner in which its opinion has been taken into account.
+
+6. Where the Advisory Committee delivers a written opinion, this opinion shall be appended to the draft decision. If the Advisory Committee recommends publication of the opinion, the Commission shall carry out such publication taking into account the legitimate interest of undertakings in the protection of their business secrets.
+
+7. At the request of a competition authority of a Member State, the Commission shall include on the agenda of the Advisory Committee cases that are being dealt with by a competition authority of a Member State under Article 81 or Article 82 of the Treaty. The Commission may also do so on its own initiative. In either case, the Commission shall inform the competition authority concerned.
+
+A request may in particular be made by a competition authority of a Member State in respect of a case where the Commission intends to initiate proceedings with the effect of Article 11(6).
+
+The Advisory Committee shall not issue opinions on cases dealt with by competition authorities of the Member States. The Advisory Committee may also discuss general issues of Community competition law.
+
+<a id="art_15"></a>
+
+### Article 15 — Cooperation with national courts
+
+1. In proceedings for the application of Article 81 or Article 82 of the Treaty, courts of the Member States may ask the Commission to transmit to them information in its possession or its opinion on questions concerning the application of the Community competition rules.
+
+2. Member States shall forward to the Commission a copy of any written judgment of national courts deciding on the application of Article 81 or Article 82 of the Treaty. Such copy shall be forwarded without delay after the full written judgment is notified to the parties.
+
+3. Competition authorities of the Member States, acting on their own initiative, may submit written observations to the national courts of their Member State on issues relating to the application of Article 81 or Article 82 of the Treaty. With the permission of the court in question, they may also submit oral observations to the national courts of their Member State. Where the coherent application of Article 81 or Article 82 of the Treaty so requires, the Commission, acting on its own initiative, may submit written observations to courts of the Member States. With the permission of the court in question, it may also make oral observations.
+
+For the purpose of the preparation of their observations only, the competition authorities of the Member States and the Commission may request the relevant court of the Member State to transmit or ensure the transmission to them of any documents necessary for the assessment of the case.
+
+4. This Article is without prejudice to wider powers to make observations before courts conferred on competition authorities of the Member States under the law of their Member State.
+
+<a id="art_16"></a>
+
+### Article 16 — Uniform application of Community competition law
+
+1. When national courts rule on agreements, decisions or practices under Article 81 or Article 82 of the Treaty which are already the subject of a Commission decision, they cannot take decisions running counter to the decision adopted by the Commission. They must also avoid giving decisions which would conflict with a decision contemplated by the Commission in proceedings it has initiated. To that effect, the national court may assess whether it is necessary to stay its proceedings. This obligation is without prejudice to the rights and obligations under Article 234 of the Treaty.
+
+2. When competition authorities of the Member States rule on agreements, decisions or practices under Article 81 or Article 82 of the Treaty which are already the subject of a Commission decision, they cannot take decisions which would run counter to the decision adopted by the Commission.
+
+## CHAPTER V
+
+### POWERS OF INVESTIGATION
+
+<a id="art_17"></a>
+
+### Article 17 — Investigations into sectors of the economy and into types of agreements
+
+1. Where the trend of trade between Member States, the rigidity of prices or other circumstances suggest that competition may be restricted or distorted within the common market, the Commission may conduct its inquiry into a particular sector of the economy or into a particular type of agreements across various sectors. In the course of that inquiry, the Commission may request the undertakings or associations of undertakings concerned to supply the information necessary for giving effect to Articles 81 and 82 of the Treaty and may carry out any inspections necessary for that purpose.
+
+The Commission may in particular request the undertakings or associations of undertakings concerned to communicate to it all agreements, decisions and concerted practices.
+
+The Commission may publish a report on the results of its inquiry into particular sectors of the economy or particular types of agreements across various sectors and invite comments from interested parties.
+
+2. Articles 14, 18, 19, 20, 22, 23 and 24 shall apply *mutatis mutandis*.
+
+<a id="art_18"></a>
+
+### Article 18 — Requests for information
+
+1. In order to carry out the duties assigned to it by this Regulation, the Commission may, by simple request or by decision, require undertakings and associations of undertakings to provide all necessary information.
+
+2. When sending a simple request for information to an undertaking or association of undertakings, the Commission shall state the legal basis and the purpose of the request, specify what information is required and fix the time-limit within which the information is to be provided, and the penalties provided for in Article 23 for supplying incorrect or misleading information.
+
+3. Where the Commission requires undertakings and associations of undertakings to supply information by decision, it shall state the legal basis and the purpose of the request, specify what information is required and fix the time-limit within which it is to be provided. It shall also indicate the penalties provided for in Article 23 and indicate or impose the penalties provided for in Article 24. It shall further indicate the right to have the decision reviewed by the Court of Justice.
+
+4. The owners of the undertakings or their representatives and, in the case of legal persons, companies or firms, or associations having no legal personality, the persons authorised to represent them by law or by their constitution shall supply the information requested on behalf of the undertaking or the association of undertakings concerned. Lawyers duly authorised to act may supply the information on behalf of their clients. The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+
+5. The Commission shall without delay forward a copy of the simple request or of the decision to the competition authority of the Member State in whose territory the seat of the undertaking or association of undertakings is situated and the competition authority of the Member State whose territory is affected.
+
+6. At the request of the Commission the governments and competition authorities of the Member States shall provide the Commission with all necessary information to carry out the duties assigned to it by this Regulation.
+
+<a id="art_19"></a>
+
+### Article 19 — Power to take statements
+
+1. In order to carry out the duties assigned to it by this Regulation, the Commission may interview any natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject-matter of an investigation.
+
+2. Where an interview pursuant to paragraph 1 is conducted in the premises of an undertaking, the Commission shall inform the competition authority of the Member State in whose territory the interview takes place. If so requested by the competition authority of that Member State, its officials may assist the officials and other accompanying persons authorised by the Commission to conduct the interview.
+
+<a id="art_20"></a>
+
+### Article 20 — The Commission's powers of inspection
+
+1. In order to carry out the duties assigned to it by this Regulation, the Commission may conduct all necessary inspections of undertakings and associations of undertakings.
+
+2. The officials and other accompanying persons authorised by the Commission to conduct an inspection are empowered:
+
+(a) to enter any premises, land and means of transport of undertakings and associations of undertakings;
+
+(b) to examine the books and other records related to the business, irrespective of the medium on which they are stored;
+
+(c) to take or obtain in any form copies of or extracts from such books or records;
+
+(d) to seal any business premises and books or records for the period and to the extent necessary for the inspection;
+
+(e) to ask any representative or member of staff of the undertaking or association of undertakings for explanations on facts or documents relating to the subject-matter and purpose of the inspection and to record the answers.
+
+3. The officials and other accompanying persons authorised by the Commission to conduct an inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the penalties provided for in Article 23 in case the production of the required books or other records related to the business is incomplete or where the answers to questions asked under paragraph 2 of the present Article are incorrect or misleading. In good time before the inspection, the Commission shall give notice of the inspection to the competition authority of the Member State in whose territory it is to be conducted.
+
+4. Undertakings and associations of undertakings are required to submit to inspections ordered by decision of the Commission. The decision shall specify the subject matter and purpose of the inspection, appoint the date on which it is to begin and indicate the penalties provided for in Articles 23 and 24 and the right to have the decision reviewed by the Court of Justice. The Commission shall take such decisions after consulting the competition authority of the Member State in whose territory the inspection is to be conducted.
+
+5. Officials of as well as those authorised or appointed by the competition authority of the Member State in whose territory the inspection is to be conducted shall, at the request of that authority or of the Commission, actively assist the officials and other accompanying persons authorised by the Commission. To this end, they shall enjoy the powers specified in paragraph 2.
+
+6. Where the officials and other accompanying persons authorised by the Commission find that an undertaking opposes an inspection ordered pursuant to this Article, the Member State concerned shall afford them the necessary assistance, requesting where appropriate the assistance of the police or of an equivalent enforcement authority, so as to enable them to conduct their inspection.
+
+7. If the assistance provided for in paragraph 6 requires authorisation from a judicial authority according to national rules, such authorisation shall be applied for. Such authorisation may also be applied for as a precautionary measure.
+
+8. Where authorisation as referred to in paragraph 7 is applied for, the national judicial authority shall control that the Commission decision is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard to the subject matter of the inspection. In its control of the proportionality of the coercive measures, the national judicial authority may ask the Commission, directly or through the Member State competition authority, for detailed explanations in particular on the grounds the Commission has for suspecting infringement of Articles 81 and 82 of the Treaty, as well as on the seriousness of the suspected infringement and on the nature of the involvement of the undertaking concerned. However, the national judicial authority may not call into question the necessity for the inspection nor demand that it be provided with the information in the Commission's file. The lawfulness of the Commission decision shall be subject to review only by the Court of Justice.
+
+<a id="art_21"></a>
+
+### Article 21 — Inspection of other premises
+
+1. If a reasonable suspicion exists that books or other records related to the business and to the subject-matter of the inspection, which may be relevant to prove a serious violation of Article 81 or Article 82 of the Treaty, are being kept in any other premises, land and means of transport, including the homes of directors, managers and other members of staff of the undertakings and associations of undertakings concerned, the Commission can by decision order an inspection to be conducted in such other premises, land and means of transport.
+
+2. The decision shall specify the subject matter and purpose of the inspection, appoint the date on which it is to begin and indicate the right to have the decision reviewed by the Court of Justice. It shall in particular state the reasons that have led the Commission to conclude that a suspicion in the sense of paragraph 1 exists. The Commission shall take such decisions after consulting the competition authority of the Member State in whose territory the inspection is to be conducted.
+
+3. A decision adopted pursuant to paragraph 1 cannot be executed without prior authorisation from the national judicial authority of the Member State concerned. The national judicial authority shall control that the Commission decision is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard in particular to the seriousness of the suspected infringement, to the importance of the evidence sought, to the involvement of the undertaking concerned and to the reasonable likelihood that business books and records relating to the subject matter of the inspection are kept in the premises for which the authorisation is requested. The national judicial authority may ask the Commission, directly or through the Member State competition authority, for detailed explanations on those elements which are necessary to allow its control of the proportionality of the coercive measures envisaged.
+
+However, the national judicial authority may not call into question the necessity for the inspection nor demand that it be provided with information in the Commission's file. The lawfulness of the Commission decision shall be subject to review only by the Court of Justice.
+
+4. The officials and other accompanying persons authorised by the Commission to conduct an inspection ordered in accordance with paragraph 1 of this Article shall have the powers set out in Article 20(2)(a), (b) and (c). Article 20(5) and (6) shall apply *mutatis mutandis*.
+
+<a id="art_22"></a>
+
+### Article 22 — Investigations by competition authorities of Member States
+
+1. The competition authority of a Member State may in its own territory carry out any inspection or other fact-finding measure under its national law on behalf and for the account of the competition authority of another Member State in order to establish whether there has been an infringement of Article 81 or Article 82 of the Treaty. Any exchange and use of the information collected shall be carried out in accordance with Article 12.
+
+2. At the request of the Commission, the competition authorities of the Member States shall undertake the inspections which the Commission considers to be necessary under Article 20(1) or which it has ordered by decision pursuant to Article 20(4). The officials of the competition authorities of the Member States who are responsible for conducting these inspections as well as those authorised or appointed by them shall exercise their powers in accordance with their national law.
+
+If so requested by the Commission or by the competition authority of the Member State in whose territory the inspection is to be conducted, officials and other accompanying persons authorised by the Commission may assist the officials of the authority concerned.
+
+## CHAPTER VI
+
+### PENALTIES
+
+<a id="art_23"></a>
+
+### Article 23 — Fines
+
+1. The Commission may by decision impose on undertakings and associations of undertakings fines not exceeding 1 % of the total turnover in the preceding business year where, intentionally or negligently:
+
+(a) they supply incorrect or misleading information in response to a request made pursuant to Article 17 or Article 18(2);
+
+(b) in response to a request made by decision adopted pursuant to Article 17 or Article 18(3), they supply incorrect, incomplete or misleading information or do not supply information within the required time-limit;
+
+(c) they produce the required books or other records related to the business in incomplete form during inspections under Article 20 or refuse to submit to inspections ordered by a decision adopted pursuant to Article 20(4);
+
+(d) in response to a question asked in accordance with Article 20(2)(e),
+
+— they give an incorrect or misleading answer,
+
+— they fail to rectify within a time-limit set by the Commission an incorrect, incomplete or misleading answer given by a member of staff, or
+
+— they fail or refuse to provide a complete answer on facts relating to the subject-matter and purpose of an inspection ordered by a decision adopted pursuant to Article 20(4);
+
+(e) seals affixed in accordance with Article 20(2)(d) by officials or other accompanying persons authorised by the Commission have been broken.
+
+2. The Commission may by decision impose fines on undertakings and associations of undertakings where, either intentionally or negligently:
+
+(a) they infringe Article 81 or Article 82 of the Treaty; or
+
+(b) they contravene a decision ordering interim measures under Article 8; or
+
+(c) they fail to comply with a commitment made binding by a decision pursuant to Article 9.
+
+For each undertaking and association of undertakings participating in the infringement, the fine shall not exceed 10 % of its total turnover in the preceding business year.
+
+Where the infringement of an association relates to the activities of its members, the fine shall not exceed 10 % of the sum of the total turnover of each member active on the market affected by the infringement of the association.
+
+3. In fixing the amount of the fine, regard shall be had both to the gravity and to the duration of the infringement.
+
+4. When a fine is imposed on an association of undertakings taking account of the turnover of its members and the association is not solvent, the association is obliged to call for contributions from its members to cover the amount of the fine.
+
+Where such contributions have not been made to the association within a time-limit fixed by the Commission, the Commission may require payment of the fine directly by any of the undertakings whose representatives were members of the decision-making bodies concerned of the association.
+
+After the Commission has required payment under the second subparagraph, where necessary to ensure full payment of the fine, the Commission may require payment of the balance by any of the members of the association which were active on the market on which the infringement occurred.
+
+However, the Commission shall not require payment under the second or the third subparagraph from undertakings which show that they have not implemented the infringing decision of the association and either were not aware of its existence or have actively distanced themselves from it before the Commission started investigating the case.
+
+The financial liability of each undertaking in respect of the payment of the fine shall not exceed 10 % of its total turnover in the preceding business year.
+
+5. Decisions taken pursuant to paragraphs 1 and 2 shall not be of a criminal law nature.
+
+<a id="art_24"></a>
+
+### Article 24 — Periodic penalty payments
+
+1. The Commission may, by decision, impose on undertakings or associations of undertakings periodic penalty payments not exceeding 5 % of the average daily turnover in the preceding business year per day and calculated from the date appointed by the decision, in order to compel them:
+
+(a) to put an end to an infringement of Article 81 or Article 82 of the Treaty, in accordance with a decision taken pursuant to Article 7;
+
+(b) to comply with a decision ordering interim measures taken pursuant to Article 8;
+
+(c) to comply with a commitment made binding by a decision pursuant to Article 9;
+
+(d) to supply complete and correct information which it has requested by decision taken pursuant to Article 17 or Article 18(3);
+
+(e) to submit to an inspection which it has ordered by decision taken pursuant to Article 20(4).
+
+2. Where the undertakings or associations of undertakings have satisfied the obligation which the periodic penalty payment was intended to enforce, the Commission may fix the definitive amount of the periodic penalty payment at a figure lower than that which would arise under the original decision. Article 23(4) shall apply correspondingly.
+
+## CHAPTER VII
+
+### LIMITATION PERIODS
+
+<a id="art_25"></a>
+
+### Article 25 — Limitation periods for the imposition of penalties
+
+1. The powers conferred on the Commission by Articles 23 and 24 shall be subject to the following limitation periods:
+
+(a) three years in the case of infringements of provisions concerning requests for information or the conduct of inspections;
+
+(b) five years in the case of all other infringements.
+
+2. Time shall begin to run on the day on which the infringement is committed. However, in the case of continuing or repeated infringements, time shall begin to run on the day on which the infringement ceases.
+
+3. Any action taken by the Commission or by the competition authority of a Member State for the purpose of the investigation or proceedings in respect of an infringement shall interrupt the limitation period for the imposition of fines or periodic penalty payments. The limitation period shall be interrupted with effect from the date on which the action is notified to at least one undertaking or association of undertakings which has participated in the infringement. Actions which interrupt the running of the period shall include in particular the following:
+
+(a) written requests for information by the Commission or by the competition authority of a Member State;
+
+(b) written authorisations to conduct inspections issued to its officials by the Commission or by the competition authority of a Member State;
+
+(c) the initiation of proceedings by the Commission or by the competition authority of a Member State;
+
+(d) notification of the statement of objections of the Commission or of the competition authority of a Member State.
+
+4. The interruption of the limitation period shall apply for all the undertakings or associations of undertakings which have participated in the infringement.
+
+5. Each interruption shall start time running afresh. However, the limitation period shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment. That period shall be extended by the time during which limitation is suspended pursuant to paragraph 6.
+
+6. The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice.
+
+<a id="art_26"></a>
+
+### Article 26 — Limitation period for the enforcement of penalties
+
+1. The power of the Commission to enforce decisions taken pursuant to Articles 23 and 24 shall be subject to a limitation period of five years.
+
+2. Time shall begin to run on the day on which the decision becomes final.
+
+3. The limitation period for the enforcement of penalties shall be interrupted:
+
+(a) by notification of a decision varying the original amount of the fine or periodic penalty payment or refusing an application for variation;
+
+(b) by any action of the Commission or of a Member State, acting at the request of the Commission, designed to enforce payment of the fine or periodic penalty payment.
+
+4. Each interruption shall start time running afresh.
+
+5. The limitation period for the enforcement of penalties shall be suspended for so long as:
+
+(a) time to pay is allowed;
+
+(b) enforcement of payment is suspended pursuant to a decision of the Court of Justice.
+
+## CHAPTER VIII
+
+### HEARINGS AND PROFESSIONAL SECRECY
+
+<a id="art_27"></a>
+
+### Article 27 — Hearing of the parties, complainants and others
+
+1. Before taking decisions as provided for in Articles 7, 8, 23 and Article 24(2), the Commission shall give the undertakings or associations of undertakings which are the subject of the proceedings conducted by the Commission the opportunity of being heard on the matters to which the Commission has taken objection. The Commission shall base its decisions only on objections on which the parties concerned have been able to comment. Complainants shall be associated closely with the proceedings.
+
+2. The rights of defence of the parties concerned shall be fully respected in the proceedings. They shall be entitled to have access to the Commission's file, subject to the legitimate interest of undertakings in the protection of their business secrets. The right of access to the file shall not extend to confidential information and internal documents of the Commission or the competition authorities of the Member States. In particular, the right of access shall not extend to correspondence between the Commission and the competition authorities of the Member States, or between the latter, including documents drawn up pursuant to Articles 11 and 14. Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement.
+
+3. If the Commission considers it necessary, it may also hear other natural or legal persons. Applications to be heard on the part of such persons shall, where they show a sufficient interest, be granted. The competition authorities of the Member States may also ask the Commission to hear other natural or legal persons.
+
+4. Where the Commission intends to adopt a decision pursuant to Article 9 or Article 10, it shall publish a concise summary of the case and the main content of the commitments or of the proposed course of action. Interested third parties may submit their observations within a time limit which is fixed by the Commission in its publication and which may not be less than one month. Publication shall have regard to the legitimate interest of undertakings in the protection of their business secrets.
+
+<a id="art_28"></a>
+
+### Article 28 — Professional secrecy
+
+1. Without prejudice to Articles 12 and 15, information collected pursuant to Articles 17 to 22 shall be used only for the purpose for which it was acquired.
+
+2. Without prejudice to the exchange and to the use of information foreseen in Articles 11, 12, 14, 15 and 27, the Commission and the competition authorities of the Member States, their officials, servants and other persons working under the supervision of these authorities as well as officials and civil servants of other authorities of the Member States shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy. This obligation also applies to all representatives and experts of Member States attending meetings of the Advisory Committee pursuant to Article 14.
+
+## CHAPTER IX
+
+### EXEMPTION REGULATIONS
+
+<a id="art_29"></a>
+
+### Article 29 — Withdrawal in individual cases
+
+1. Where the Commission, empowered by a Council Regulation, such as Regulations 19/65/EEC, (EEC) No 2821/71, (EEC) No 3976/87, (EEC) No 1534/91 or (EEC) No 479/92, to apply Article 81(3) of the Treaty by regulation, has declared Article 81(1) of the Treaty inapplicable to certain categories of agreements, decisions by associations of undertakings or concerted practices, it may, acting on its own initiative or on a complaint, withdraw the benefit of such an exemption Regulation when it finds that in any particular case an agreement, decision or concerted practice to which the exemption Regulation applies has certain effects which are incompatible with Article 81(3) of the Treaty.
+
+2. Where, in any particular case, agreements, decisions by associations of undertakings or concerted practices to which a Commission Regulation referred to in paragraph 1 applies have effects which are incompatible with Article 81(3) of the Treaty in the territory of a Member State, or in a part thereof, which has all the characteristics of a distinct geographic market, the competition authority of that Member State may withdraw the benefit of the Regulation in question in respect of that territory.
+
+## CHAPTER X
+
+### GENERAL PROVISIONS
+
+<a id="art_30"></a>
+
+### Article 30 — Publication of decisions
+
+1. The Commission shall publish the decisions, which it takes pursuant to Articles 7 to 10, 23 and 24.
+
+2. The publication shall state the names of the parties and the main content of the decision, including any penalties imposed. It shall have regard to the legitimate interest of undertakings in the protection of their business secrets.
+
+<a id="art_31"></a>
+
+### Article 31 — Review by the Court of Justice
+
+The Court of Justice shall have unlimited jurisdiction to review decisions whereby the Commission has fixed a fine or periodic penalty payment. It may cancel, reduce or increase the fine or periodic penalty payment imposed.
+
+<a id="art_33"></a>
+
+### Article 33 — Implementing provisions
+
+1. The Commission shall be authorised to take such measures as may be appropriate in order to apply this Regulation. The measures may concern, *inter alia*:
+
+(a) the form, content and other details of complaints lodged pursuant to Article 7 and the procedure for rejecting complaints;
+
+(b) the practical arrangements for the exchange of information and consultations provided for in Article 11;
+
+(c) the practical arrangements for the hearings provided for in Article 27.
+
+2. Before the adoption of any measures pursuant to paragraph 1, the Commission shall publish a draft thereof and invite all interested parties to submit their comments within the time-limit it lays down, which may not be less than one month. Before publishing a draft measure and before adopting it, the Commission shall consult the Advisory Committee on Restrictive Practices and Dominant Positions.
+
+## CHAPTER XI
+
+### TRANSITIONAL, AMENDING AND FINAL PROVISIONS
+
+<a id="art_34"></a>
+
+### Article 34 — Transitional provisions
+
+1. Applications made to the Commission under Article 2 of Regulation No 17, notifications made under Articles 4 and 5 of that Regulation and the corresponding applications and notifications made under Regulations (EEC) No 1017/68, (EEC) No 4056/86 and (EEC) No 3975/87 shall lapse as from the date of application of this Regulation.
+
+2. Procedural steps taken under Regulation No 17 and Regulations (EEC) No 1017/68, (EEC) No 4056/86 and (EEC) No 3975/87 shall continue to have effect for the purposes of applying this Regulation.
+
+<a id="art_35"></a>
+
+### Article 35 — Designation of competition authorities of Member States
+
+1. The Member States shall designate the competition authority or authorities responsible for the application of Articles 81 and 82 of the Treaty in such a way that the provisions of this regulation are effectively complied with. The measures necessary to empower those authorities to apply those Articles shall be taken before 1 May 2004. The authorities designated may include courts.
+
+2. When enforcement of Community competition law is entrusted to national administrative and judicial authorities, the Member States may allocate different powers and functions to those different national authorities, whether administrative or judicial.
+
+3. The effects of Article 11(6) apply to the authorities designated by the Member States including courts that exercise functions regarding the preparation and the adoption of the types of decisions foreseen in Article 5. The effects of Article 11(6) do not extend to courts insofar as they act as review courts in respect of the types of decisions foreseen in Article 5.
+
+4. Notwithstanding paragraph 3, in the Member States where, for the adoption of certain types of decisions foreseen in Article 5, an authority brings an action before a judicial authority that is separate and different from the prosecuting authority and provided that the terms of this paragraph are complied with, the effects of Article 11(6) shall be limited to the authority prosecuting the case which shall withdraw its claim before the judicial authority when the Commission opens proceedings and this withdrawal shall bring the national proceedings effectively to an end.
+
+<a id="art_36"></a>
+
+### Article 36 — Amendment of Regulation (EEC) No 1017/68
+
+Regulation (EEC) No 1017/68 is amended as follows:
+
+1. Article 2 is repealed;
+
+2. in Article 3(1), the words ‘The prohibition laid down in Article 2’ are replaced by the words ‘The prohibition in Article 81(1) of the Treaty’;
+
+3. Article 4 is amended as follows:
+
+(a) In paragraph 1, the words ‘The agreements, decisions and concerted practices referred to in Article 2’ are replaced by the words ‘Agreements, decisions and concerted practices pursuant to Article 81(1) of the Treaty’;
+
+(b) Paragraph 2 is replaced by the following:
+
+‘2. If the implementation of any agreement, decision or concerted practice covered by paragraph 1 has, in a given case, effects which are incompatible with the requirements of Article 81(3) of the Treaty, undertakings or associations of undertakings may be required to make such effects cease.’
+
+4. Articles 5 to 29 are repealed with the exception of Article 13(3) which continues to apply to decisions adopted pursuant to Article 5 of Regulation (EEC) No 1017/68 prior to the date of application of this Regulation until the date of expiration of those decisions;
+
+5. in Article 30, paragraphs 2, 3 and 4 are deleted.
+
+<a id="art_37"></a>
+
+### Article 37 — Amendment of Regulation (EEC) No 2988/74
+
+In Regulation (EEC) No 2988/74, the following Article is inserted:
+
+‘Article 7a
+
+Exclusion
+
+This Regulation shall not apply to measures taken under Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (16)
+
+<a id="art_38"></a>
+
+### Article 38 — Amendment of Regulation (EEC) No 4056/86
+
+Regulation (EEC) No 4056/86 is amended as follows:
+
+1. Article 7 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+Breach of an obligation
+
+Where the persons concerned are in breach of an obligation which, pursuant to Article 5, attaches to the exemption provided for in Article 3, the Commission may, in order to put an end to such breach and under the conditions laid down in Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (17) adopt a decision that either prohibits them from carrying out or requires them to perform certain specific acts, or withdraws the benefit of the block exemption which they enjoyed.
+
+(b) Paragraph 2 is amended as follows:
+
+(i) In point (a), the words ‘under the conditions laid down in Section II’ are replaced by the words ‘under the conditions laid down in Regulation (EC) No 1/2003’;
+
+(ii) The second sentence of the second subparagraph of point (c)(i) is replaced by the following:
+
+‘At the same time it shall decide, in accordance with Article 9 of Regulation (EC) No 1/2003, whether to accept commitments offered by the undertakings concerned with a view, *inter alia*, to obtaining access to the market for non-conference lines.’
+
+2. Article 8 is amended as follows:
+
+(a) Paragraph 1 is deleted.
+
+(b) In paragraph 2 the words ‘pursuant to Article 10’ are replaced by the words ‘pursuant to Regulation (EC) No 1/2003’.
+
+(c) Paragraph 3 is deleted;
+
+3. Article 9 is amended as follows:
+
+(a) In paragraph 1, the words ‘Advisory Committee referred to in Article 15’ are replaced by the words ‘Advisory Committee referred to in Article 14 of Regulation (EC) No 1/2003’;
+
+(b) In paragraph 2, the words ‘Advisory Committee as referred to in Article 15’ are replaced by the words ‘Advisory Committee referred to in Article 14 of Regulation (EC) No 1/2003’;
+
+4. Articles 10 to 25 are repealed with the exception of Article 13(3) which continues to apply to decisions adopted pursuant to Article 81(3) of the Treaty prior to the date of application of this Regulation until the date of expiration of those decisions;
+
+5. in Article 26, the words ‘the form, content and other details of complaints pursuant to Article 10, applications pursuant to Article 12 and the hearings provided for in Article 23(1) and (2)’ are deleted.
+
+<a id="art_39"></a>
+
+### Article 39 — Amendment of Regulation (EEC) No 3975/87
+
+Articles 3 to 19 of Regulation (EEC) No 3975/87 are repealed with the exception of Article 6(3) which continues to apply to decisions adopted pursuant to Article 81(3) of the Treaty prior to the date of application of this Regulation until the date of expiration of those decisions.
+
+<a id="art_40"></a>
+
+### Article 40 — Amendment of Regulations No 19/65/EEC, (EEC) No 2821/71 and (EEC) No 1534/91
+
+Article 7 of Regulation No 19/65/EEC, Article 7 of Regulation (EEC) No 2821/71 and Article 7 of Regulation (EEC) No 1534/91 are repealed.
+
+<a id="art_41"></a>
+
+### Article 41 — Amendment of Regulation (EEC) No 3976/87
+
+Regulation (EEC) No 3976/87 is amended as follows:
+
+1. Article 6 is replaced by the following:
+
+‘Article 6
+
+The Commission shall consult the Advisory Committee referred to in Article 14 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (18) before publishing a draft Regulation and before adopting a Regulation.
+
+2. Article 7 is repealed.
+
+<a id="art_42"></a>
+
+### Article 42 — Amendment of Regulation (EEC) No 479/92
+
+Regulation (EEC) No 479/92 is amended as follows:
+
+1. Article 5 is replaced by the following:
+
+‘Article 5
+
+Before publishing the draft Regulation and before adopting the Regulation, the Commission shall consult the Advisory Committee referred to in Article 14 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (19)
+
+2. Article 6 is repealed.
+
+<a id="art_43"></a>
+
+### Article 43 — Repeal of Regulations No 17 and No 141
+
+1. Regulation No 17 is repealed with the exception of Article 8(3) which continues to apply to decisions adopted pursuant to Article 81(3) of the Treaty prior to the date of application of this Regulation until the date of expiration of those decisions.
+
+2. Regulation No 141 is repealed.
+
+3. References to the repealed Regulations shall be construed as references to this Regulation.
+
+<a id="art_44"></a>
+
+### Article 44 — Report on the application of the present Regulation
+
+Five years from the date of application of this Regulation, the Commission shall report to the European Parliament and the Council on the functioning of this Regulation, in particular on the application of Article 11(6) and Article 17.
+
+On the basis of this report, the Commission shall assess whether it is appropriate to propose to the Council a revision of this Regulation.
+
+<a id="art_45"></a>
+
+### Article 45 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the *Official Journal of the European Communities*.
+
+It shall apply from 1 May 2004.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+(1) OJ C 365 E, 19.12.2000, p. 284.
+
+(2) OJ C 72 E, 21.3.2002, p. 305.
+
+(3) OJ C 155, 29.5.2001, p. 73.
+
+(4) The title of Regulation No 17 has been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Articles 85 and 86 of the Treaty.
+
+(5) OJ 13, 21.2.1962, p. 204/62. Regulation as last amended by Regulation (EC) No 1216/1999 (OJ L 148, 15.6.1999, p. 5).
+
+(6) Council Regulation No 19/65/EEC of 2 March 1965 on the application of Article 81(3) (The titles of the Regulations have been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Article 85(3) of the Treaty) of the Treaty to certain categories of agreements and concerted practices (OJ 36, 6.3.1965, p. 533). Regulation as last amended by Regulation (EC) No 1215/1999 (OJ L 148, 15.6.1999, p. 1).
+
+(7) Council Regulation (EEC) No 2821/71 of 20 December 1971 on the application of Article 81(3) (The titles of the Regulations have been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Article 85(3) of the Treaty) of the Treaty to categories of agreements, decisions and concerted practices (OJ L 285, 29.12.1971, p. 46). Regulation as last amended by the Act of Accession of 1994.
+
+(8) Council Regulation (EEC) No 3976/87 of 14 December 1987 on the application of Article 81(3) (The titles of the Regulations have been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Article 85(3) of the Treaty) of the Treaty to certain categories of agreements and concerted practices in the air transport sector (OJ L 374, 31.12.1987, p. 9). Regulation as last amended by the Act of Accession of 1994.
+
+(9) Council Regulation (EEC) No 1534/91 of 31 May 1991 on the application of Article 81(3) (The titles of the Regulations have been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Article 85(3) of the Treaty) of the Treaty to certain categories of agreements, decisions and concerted practices in the insurance sector (OJ L 143, 7.6.1991, p. 1).
+
+(10) Council Regulation (EEC) No 479/92 of 25 February 1992 on the application of Article 81(3) (The titles of the Regulations have been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Article 85(3) of the Treaty) of the Treaty to certain categories of agreements, decisions and concerted practices between liner shipping companies (Consortia) (OJ L 55, 29.2.1992, p. 3). Regulation amended by the Act of Accession of 1994.
+
+(11) Council Regulation (EEC) No 2988/74 of 26 November 1974 concerning limitation periods in proceedings and the enforcement of sanctions under the rules of the European Economic Community relating to transport and competition (OJ L 319, 29.11.1974, p. 1).
+
+(12) OJ 124, 28.11.1962, p. 2751/62; Regulation as last amended by Regulation No 1002/67/EEC (OJ 306, 16.12.1967, p. 1).
+
+(13) Council Regulation (EEC) No 1017/68 of 19 July 1968 applying rules of competition to transport by rail, road and inland waterway (OJ L 175, 23.7.1968, p. 1). Regulation as last amended by the Act of Accession of 1994.
+
+(14) Council Regulation (EEC) No 4056/86 of 22 December 1986 laying down detailed rules for the application of Articles 81 and 82 (The title of the Regulation has been adjusted to take account of the renumbering of the Articles of the EC Treaty, in accordance with Article 12 of the Treaty of Amsterdam; the original reference was to Articles 85 and 86 of the Treaty) of the Treaty to maritime transport (OJ L 378, 31.12.1986, p. 4). Regulation as last amended by the Act of Accession of 1994.
+
+(15) Council Regulation (EEC) No 3975/87 of 14 December 1987 laying down the procedure for the application of the rules on competition to undertakings in the air transport sector (OJ L 374, 31.12.1987, p. 1). Regulation as last amended by Regulation (EEC) No 2410/92 (OJ L 240, 24.8.1992, p. 18).
+
+(16) OJ L 1, 4.1.2003, p. 1.’
+
+(17) OJ L 1, 4.1.2003, p. 1.’
+
+(18) OJ L 1, 4.1.2003, p. 1.’
+
+(19) OJ L 1, 4.1.2003, p. 1.’

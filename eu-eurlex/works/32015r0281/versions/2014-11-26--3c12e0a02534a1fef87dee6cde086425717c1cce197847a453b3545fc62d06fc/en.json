@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2015/281 of 26 November 2014 replacing Annexes I and II of Regulation (EU) No 1215/2012",
+  "valid_from": "2014-11-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r0281/versions/2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc/en.xml",
+    "sha256": "5449c4992a8e2b1a5c0d71b852eb5604ec287612fdcc7de5c30378e29a150079",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0281"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnexes I and II to Regulation (EU) No 1215/2012 are replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "db937608a0c1edfe87ae6d5880ee561507e27511ba1d29376242d827650fcb5c",
+      "md_span": {
+        "start": 735,
+        "end": 852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r0281:2014-11-26--3c12e0a02534a1fef87dee6cde086425717c1cce197847a453b3545fc62d06fc#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following the date of its publication in the Official Journal of the European Union.",
+      "text_sha256": "085c6bde84b6799ccf51fca7b7737c4a290ba730fe2f476281af2cc6c2f1c572",
+      "md_span": {
+        "start": 885,
+        "end": 1030
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

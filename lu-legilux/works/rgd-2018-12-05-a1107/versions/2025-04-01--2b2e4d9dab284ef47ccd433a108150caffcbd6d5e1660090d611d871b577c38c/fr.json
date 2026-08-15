@@ -1,0 +1,295 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/04/2025 : Règlement grand-ducal du 5 décembre 2018 fixant l’organisation des services d’exécution de l’Administration de l’enregistrement, des domaines et de la TVA et abrogeant le règlement grand-ducal modifié du 25 octobre 2007 déterminant l’organisation de la direction de l’administration de l’enregistrement et des domaines et les attributions de son personnel.",
+  "valid_from": "2025-04-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-12-05-a1107/versions/2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c/fr.xml",
+    "sha256": "2fad3116f5c29186661517a911c60e0c5e03b3ad0474da956fc6e79d27c480c7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20250401/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_1er/20181214",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — ** Le service d’inspection**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Le service d’inspection, chargé de la surveillance, de la révision et du contrôle des bureaux d’exécution est divisé en deux sections établies à Luxembourg.",
+      "text_sha256": "6d7ef2c70c11599a30a173b298773135bb3cda7c9bb541ac02b87cd6a36a6e8a",
+      "md_span": {
+        "start": 1015,
+        "end": 1171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_2/20181214",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — ** Le service d’inspection**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "**(1)** La section 1 du service d’inspection, dénommée « inspection des services d’enregistrement et de recette, de la conservation des hypothèques et des domaines » est composée d’un ou de deux auditeurs.\n\nLe domaine de compétence de la section 1 comprend tous les bureaux visés aux articles 4, 5, 10 et 11.\n\n**(2)** La section 2 du service d’inspection, dénommée « inspection du service de la taxe sur la valeur ajoutée et des impôts sur les assurances » est composée d’un ou de deux auditeurs.\n\nLe domaine de compétence de la section 2 comprend tous les bureaux visés aux articles 6, 7 et 9.",
+      "text_sha256": "e1735ef10de6f118aaaadf123599f5c90b2ec5c9c796b9ce0d2ce0e15df266c7",
+      "md_span": {
+        "start": 1206,
+        "end": 1800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_3/20181214",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — ** Le service d’inspection**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Le service d’inspection peut être appelé à collaborer avec tous les services de l’administration, à l’instruction d’affaires en cas de découverte d’indices faisant présumer l’existence d’une fraude concernant tous les impôts qui sont de la compétence de l’Administration de l’enregistrement, des domaines et de la TVA.",
+      "text_sha256": "aae61713d482eb267db299759e803b8b1412af0c9cfa98bc54c294ef96eb7300",
+      "md_span": {
+        "start": 1835,
+        "end": 2153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_4/20220729",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Le service d’enregistrement et de recette**"
+      ],
+      "article_valid_from": "2022-07-29",
+      "text_md": "Le nombre des bureaux d’enregistrement et de recette est fixé à dix.\n\nLes bureaux d’enregistrement et de recette sont établis comme suit :\n\n1. 1. le premier et le deuxième bureau des actes civils ;\n2. le bureau des successions ;\n3. le bureau de la taxe d’abonnement ;\n4. le bureau des amendes et recouvrements ;\n5. le bureau du guichet unique.\n2. 1. le bureau des actes civils.\n3. 1. le bureau des actes civils ;\n2. le bureau des successions.\n4. 1. le bureau des actes civils.",
+      "text_sha256": "859280b11eb6a4173f68b4cad68552a18a509e3da787aceedc5f201b546e705f",
+      "md_span": {
+        "start": 2257,
+        "end": 2733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_5/20181214",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — ** Le service des domaines**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Le nombre des bureaux des domaines est fixé à trois.\n\nLes bureaux des domaines sont établis comme suit :\n\n1. un bureau à Luxembourg ;\n2. un bureau à Diekirch ;\n3. un bureau à Esch-sur-Alzette.",
+      "text_sha256": "d8de65544a155b7e00d9abee8eb7e27fe189963dc2de16ddfc1062280d53d02e",
+      "md_span": {
+        "start": 2818,
+        "end": 3010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_6/20250401",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Le service de la taxe sur la valeur ajoutée et des ****impôts sur les assurances**"
+      ],
+      "article_valid_from": "2025-04-01",
+      "text_md": "La section d’assiette et de surveillance de la taxe sur la valeur ajoutée et des impôts sur les assurances comprend treize bureaux d’imposition.\n\nLes bureaux d’imposition sont établis comme suit :\n\n1. neuf bureaux à Luxembourg : Luxembourg I, II, III, IV, V, VI, X, XI et XII ;\n2. deux bureaux à Esch-sur-Alzette : Esch I et II ;\n3. deux bureaux à Diekirch : Diekirch I et II.\n\nLes bureaux d’imposition sont chargés de l’imposition et du contrôle de la taxe sur la valeur ajoutée et des impôts sur les assurances.",
+      "text_sha256": "49eaa12dafe591a013274b3c202d8c47360a3b3248a0ffd782a2f99792b1dfb7",
+      "md_span": {
+        "start": 3153,
+        "end": 3666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7_20250401",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_7_20250401",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_7/20250401",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Le service de la taxe sur la valeur ajoutée et des ****impôts sur les assurances**"
+      ],
+      "article_valid_from": "2025-04-01",
+      "text_md": "Le bureau d’imposition compétent pour assurer l'application du règlement (UE) n° 904/2010 du Conseil du 7 octobre 2010 concernant la coopération administrative et la lutte contre la fraude dans le domaine de la taxe sur la valeur ajoutée est le « service de coopération administrative en matière de taxe sur la valeur ajoutée ».\n\nCe service, établi à Luxembourg, est en outre compétent pour :\n\n1. quinquies sexies septies loi modifiée du 12 février 1979\n2. bis bis loi précitée du 12 février 1979.",
+      "text_sha256": "5fc5659e2723ba7bee9d06093b91ef6f231478a8cad46e286f44841213071751",
+      "md_span": {
+        "start": 3710,
+        "end": 4207
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2010/904/jo",
+          "text": "règlement (UE) n° 904/2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_8/20240721",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Le service de la taxe sur la valeur ajoutée et des ****impôts sur les assurances**"
+      ],
+      "article_valid_from": "2024-07-21",
+      "text_md": "La section de contrôle dénommée « service anti-fraude » est établie à Luxembourg, avec une section locale à Diekirch.\n\nLe service anti-fraude est chargé :\n\n1. des contrôles approfondis en matière de taxe sur la valeur ajoutée, des impôts sur les assurances, ainsi qu'en matière de droits d'enregistrement et de succession ;\n2. de la recherche et de la détection de toutes infractions en matière de taxe sur la valeur ajoutée, des impôts sur les assurances, ainsi qu'en matière de droits d'enregistrement et de succession ;\n3. de l'analyse et du suivi des résultats des contrôles visés à la lettre a) ;\n4. du traitement des demandes d'assistance transmises au service anti-fraude sur le fondement des dispositions communautaires et des conventions internationales ;\n5. de la participation aux activités prévues par les programmes d'action nationaux, communautaires et internationaux en matière de TVA.\n6. de la surveillance et des contrôles dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme.",
+      "text_sha256": "fe408909731ff8aeebddbbe8a60c6fe93a709ec915503ede72023defbe95a84b",
+      "md_span": {
+        "start": 4242,
+        "end": 5269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_9/20181214",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Le service de la taxe sur la valeur ajoutée et des ****impôts sur les assurances**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "La recette centrale établie à Luxembourg, est chargée des opérations de recouvrement et de remboursement de la taxe sur la valeur ajoutée.",
+      "text_sha256": "2d409234d814f7e9e9f109f5e0ea3d43e1c1a31f2d525dd30cc2c1a44840abd3",
+      "md_span": {
+        "start": 5304,
+        "end": 5442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_10/20181214",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Le service de la conservation des hypothèques"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Le nombre des bureaux des hypothèques est fixé à trois.\n\nDeux bureaux des hypothèques sont établis à Luxembourg et un à Diekirch :\n\n1. le premier bureau des hypothèques à Luxembourg comprend les cantons de Luxembourg, de Mersch, de Grevenmacher et de Remich ;\n2. le deuxième bureau des hypothèques à Luxembourg comprend les cantons d’Esch-sur-Alzette et de Capellen ;\n3. le bureau des hypothèques à Diekirch comprend les cantons de Diekirch, de Clervaux, d’Echternach, de Redange-sur-Attert, de Wiltz et de Vianden.",
+      "text_sha256": "0db67c32acdb62b506955cf9bf26957de53f054541ee94f51495761fdef23173",
+      "md_span": {
+        "start": 5542,
+        "end": 6057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_11/20181214",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Le service de la conservation des hypothèques"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Les opérations d’immatriculation des bateaux de navigation intérieure et la conservation des hypothèques fluviales sont assurées par le receveur du bureau des actes civils à Grevenmacher.\n\nLa conservation des hypothèques aériennes et la conservation des hypothèques maritimes sont assurées par le conservateur du premier bureau des hypothèques à Luxembourg.",
+      "text_sha256": "b5b4f87a65fd8305690682ab1f7a116f13ae58bf8fbb66bb56f68a47be8cdd5a",
+      "md_span": {
+        "start": 6094,
+        "end": 6451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11bis",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_11bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_11bis/20240721",
+      "type": "article",
+      "num": "Art. 11bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 5*bis* — Le service de contrôle blanchiment"
+      ],
+      "article_valid_from": "2024-07-21",
+      "text_md": "Un bureau de contrôle blanchiment est établi à Luxembourg.",
+      "text_sha256": "ad565b40ef0a0765d4ff8e4a4b29652f1466021ac2601425d45e019fddbca86a",
+      "md_span": {
+        "start": 6551,
+        "end": 6609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_12/20181214",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — ** Dispositions abrogatoires et mise en vigueur**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Sont abrogés :\n\n1. règlement grand-ducal du 21 décembre 2004 1. relatif à l’organisation et aux attributions du Service anti-fraude de l’administration de l’enregistrement et des domaines ;\n2. règlement grand-ducal modifié du 25 novembre 1977\n2. règlement grand-ducal modifié du 25 octobre 2007\n3. règlement grand-ducal modifié du 19 mars 2014",
+      "text_sha256": "dd6b2043a5943b7305a238da6ad361b7dfdda46f6b50dfa6f4803c6bf6c5dbfc",
+      "md_span": {
+        "start": 6717,
+        "end": 7060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2018-12-05-a1107:2025-04-01--2b2e4d9dab284ef47ccd433a108150caffcbd6d5e1660090d611d871b577c38c#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/art_13/20181214",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — ** Dispositions abrogatoires et mise en vigueur**"
+      ],
+      "article_valid_from": "2018-12-14",
+      "text_md": "Notre ministre des Finances est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "5a03f661203ef831d4b8a4b3ebe9b5101b1f605f9d1127cf6348a503d90a6405",
+      "md_span": {
+        "start": 7097,
+        "end": 7237
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

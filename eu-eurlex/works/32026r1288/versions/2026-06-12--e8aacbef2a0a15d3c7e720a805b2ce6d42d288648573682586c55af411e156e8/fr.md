@@ -1,0 +1,63 @@
+---
+lex_id: 'eu-eurlex:32026r1288:2026-06-12--e8aacbef2a0a15d3c7e720a805b2ce6d42d288648573682586c55af411e156e8'
+title: 'Commission Implementing Regulation (EU) 2026/1288 of 12 June 2026 on the stand-alone suspension of the trading obligation for derivatives in accordance with Regulation (EU) No 600/2014'
+valid_from: '2026-06-12'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1288'
+source_sha256: '143bf3ddc999182482f074b30938dcd29d5d48ca4c3d1cc043995b36de4409d6'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. Aux fins de l’article 32 bis, paragraphe 1, point a), du règlement (UE) no 600/2014, compte tenu des éléments concrets présentés à la section 1 de l’annexe du présent règlement, l’obligation de négociation applicable aux produits dérivés est suspendue en ce qui concerne les contreparties financières suivantes et le marché spécifique suivant:
+
+| a) | contreparties financières:i)BNP Paribas SA;ii)Crédit Agricole CIB;iii)Deutsche Bank AG;iv)Société Générale SA; |
+| --- | --- |
+| i) | BNP Paribas SA; |
+| ii) | Crédit Agricole CIB; |
+| iii) | Deutsche Bank AG; |
+| iv) | Société Générale SA; |
+
+| b) | marché spécifique:Royaume-Uni. |
+| --- | --- |
+
+2. Aux fins de l’article 32 bis, paragraphe 1, point b), du règlement (UE) no 600/2014, compte tenu des éléments concrets présentés à la section 2 de l’annexe du présent règlement, l’obligation de négociation applicable aux produits dérivés est suspendue en ce qui concerne la contrepartie financière suivante et le marché spécifique suivant:
+
+| a) | contrepartie financière:BNP Paribas SA; |
+| --- | --- |
+
+| b) | marché spécifique:Royaume-Uni. |
+| --- | --- |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. La Commission réexamine, tous les cinq ans à compter du 18 juin 2026 si les motifs qui ont justifié la suspension de l’obligation de négociation applicable aux produits dérivés restent valables.
+
+Aux fins du réexamen visé au premier alinéa, les autorités compétentes des contreparties financières visées à l’article 1er fournissent à la Commission des éléments concrets actualisés sur les motifs qui ont justifié la suspension de l’obligation de négociation applicable aux produits dérivés au plus tard six mois avant la date à laquelle la Commission doit procéder à ce réexamen.
+
+2. Sans préjudice du paragraphe 1 du présent article, lorsque les autorités compétentes des contreparties financières visées à l’article 1er estiment que les conditions énoncées à l’article 32 bis, paragraphe 1, point a) ou b), du règlement (UE) no 600/2014 ne sont plus remplies, elles le notifient à la Commission sans retard indu.
+
+Aux fins du premier alinéa, les autorités compétentes contrôlent régulièrement le respect, par les contreparties financières visées à l’article 1er du présent règlement, des conditions énoncées à l’article 32 bis, paragraphe 1, point a) ou b), du règlement (UE) no 600/2014.
+
+3. À la suite du réexamen effectué conformément au paragraphe 1 du présent article, ou à la suite de la notification effectuée par une autorité compétente conformément au paragraphe 2 du présent article, ou après avoir appris d’une autre manière qu’une contrepartie financière visée à l’article 1er ne satisfait plus aux motifs qui ont justifié la suspension de l’obligation de négociation applicable aux produits dérivés, la Commission peut annuler la suspension de cette obligation en ce qui concerne cette contrepartie financière.
+
+4. Avant d’annuler, conformément au paragraphe 3, la suspension de l’obligation de négociation applicable aux produits dérivés, la Commission notifie à l’autorité compétente de la contrepartie financière concernée son intention d’annuler cette suspension et les raisons qui la motivent. Dans un délai de six semaines à compter de la date de la notification, l’autorité compétente de la contrepartie financière concernée peut soumettre à la Commission une déclaration motivée contenant toute information pertinente aux fins de l’évaluation des motifs qui ont justifié la suspension de l’obligation de négociation applicable aux produits dérivés.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

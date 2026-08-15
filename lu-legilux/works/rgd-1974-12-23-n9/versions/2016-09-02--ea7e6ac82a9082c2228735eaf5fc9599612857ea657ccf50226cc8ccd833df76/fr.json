@@ -1,0 +1,165 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 23 décembre 1974 déterminant la procédure d'enquête préalable à l'exécution des travaux visés à l'article 2 de la loi du 27 novembre 1973 autorisant la création d'une société anonyme pour l'approvisionnement du Grand-Duché en gaz naturel.",
+  "valid_from": "2016-09-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1974-12-23-n9/versions/2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76/fr.xml",
+    "sha256": "dd194435dce84f13256b73da2185366c3aaac4923cc4ccea7aaf0fa6bde50e8d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/consolide/20160902/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/2",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_1er/19750103",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-01-03",
+      "text_md": "Avant de procéder à l'exécution des travaux visés à l'article 2, alinéa 4, sub 1) de la loi du 27 novembre 1973 autorisant la création d'une société anonyme pour l'approvisionnement du Grand-Duché en gaz naturel, le conseil d'administration de la société fera dresser un projet de détail des tracés.",
+      "text_sha256": "e2b8281a6d36fc75724d4e6141312c7f7cd19080cad163f510ae59804d7399d1",
+      "md_span": {
+        "start": 869,
+        "end": 1168
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1973/11/27/n1/jo",
+          "text": "loi du 27 novembre 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_2/19750103",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-01-03",
+      "text_md": "Ce projet indiquera les propriétés auxquelles les travaux projetés porteront atteinte, mentionnera les noms des propriétaires tels qu'ils sont inscrits sur la matrice des rôles cadastraux et renseignera sur la nature et l'étendue des travaux à exécuter.",
+      "text_sha256": "2d233073f977217a3d80823169e746b11a25671aa8366ed7b22cefa79b098b68",
+      "md_span": {
+        "start": 1203,
+        "end": 1456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_3/19750103",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-01-03",
+      "text_md": "Le projet restera déposé pendant quinze jours au siège de la société et au secrétariat de chacune des communes sur les territoires desquelles passera la conduite de gaz projetée, où tous ceux qui sont intéressés pourront en prendre connaissance sans déplacement et sans frais.\n\nLe délai fixé à l'alinéa qui précède ne court qu'à partir du jour de la notification donnée par lettre recommandée aux parties intéressées.",
+      "text_sha256": "bcba5ff1a738b4e08b4c3ab1cb11eededfa029d9092d694e6973709035ffe17f",
+      "md_span": {
+        "start": 1491,
+        "end": 1908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_4/20160902",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "Les intéressés adresseront au collège des bourgmestre et échevins de l’une des communes concernées leurs observations éventuelles par écrit et dans les quinze jours à dater de la notification mentionnée à l'article qui précède.",
+      "text_sha256": "6d1327cf84e20236c07b92e2d0e0c6734af4ec4ccc6298c9abb63ffa7fa9f697",
+      "md_span": {
+        "start": 1943,
+        "end": 2170
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_5/20160902",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "À l’expiration dudit délai de quinze jours, le collège des bourgmestre et échevins de l’une des communes concernées transmet les pièces avec les observations éventuelles des personnes intéressées au conseil d’administration de la société.",
+      "text_sha256": "161c3091eb49196a68e3ed948463bf2f93238ec6b0533343560efbb7a3ef81f9",
+      "md_span": {
+        "start": 2205,
+        "end": 2443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_6/20160902",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "Si à la suite de ces observations et de l'avis de la prédite commission le conseil d'administration de la société décide d'opérer des changements au projet, il devra, dans la forme indiquée par l'article 3 du présent arrêté, en donner notification aux propriétaires que ces changements pourront intéresser.\n\nPendant quinze jours, à dater de cette notification, le projet restera déposé au siège de la société et au secrétariat de chacune des communes sur le territoire desquelles passera la conduite de gaz projetée pour que les parties intéressées puissent en prendre communication comme il est dit à l'article 3, et fournir leurs observations écrites dans le délai fixé à l'article 4 du présent arrêté.",
+      "text_sha256": "d5aca5d1bd3ec8e0b43ee3c36d4d5c0ff38adfec8aafba2f6d89a80010fe1827",
+      "md_span": {
+        "start": 2478,
+        "end": 3182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_7/19750103",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-01-03",
+      "text_md": "Le conseil d'administration transmettra le projet de détail des tracés ensemble avec sa décision et les observations écrites des propriétaires aux ministres de l'intérieur et de l'énergie.",
+      "text_sha256": "8c2656d496039d86f9b669d2ac6947f0e7244b53799d1f396edb8a6490a522db",
+      "md_span": {
+        "start": 3217,
+        "end": 3405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1974-12-23-n9:2016-09-02--ea7e6ac82a9082c2228735eaf5fc9599612857ea657ccf50226cc8ccd833df76#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/12/23/n9/art_8/19750103",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-01-03",
+      "text_md": "Nos ministres de l'énergie et de l'intérieur sont chargés de l'exécution du présent arrêté qui sera publié au Mémorial.",
+      "text_sha256": "1d71d9eac15877d1dd055407627ba82561e625adbc40ec1e52d1198fe813fd4b",
+      "md_span": {
+        "start": 3440,
+        "end": 3559
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}
